@@ -65,7 +65,7 @@ def GetPostInfo(ref):
     postInfo = { 'file' : 'content\\post\\' + post + '.md' }
     postInfo['permalink'] =  post
     postInfo['category'] = 'movies'
-    postInfo['link'] = baseUrl + postInfo['permalink']
+    postInfo['link'] = baseUrl + postInfo['permalink'] + '/'
     postInfo['shortlink'] = postInfo['link']
     comment = GetCommentFromCommit(ref)
     postInfo['subtitle'] = comment
