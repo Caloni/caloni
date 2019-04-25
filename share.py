@@ -78,7 +78,7 @@ def GetPostInfo(ref):
         'desc': '^desc: \"(.*)\"',
         'imdb': '^imdb: \"(.*)\"',
     }
-    file = open(postInfo['file'])
+    file = open(postInfo['file'], encoding='utf8')
     for line in file.readlines():
         for key, search in infos.items():
             match = re.match(search, line)
