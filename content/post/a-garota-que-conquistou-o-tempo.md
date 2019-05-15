@@ -6,7 +6,7 @@ imdb: "0808506"
 categories: [ "movies" ]
 stars: "3/5"
 ---
-Netflix, fui tapeado! Pensei que iria ver uma animação sobre viagem no tempo no estilo [Steins;Gate](/steins-gate) e acabei vendo um filme de menininha japonesa. Com quem devo ficar? Oh, meu deus, de quem será que eu gosto? Este também é um filme sobre uma pessoa que volta no tempo apenas para comer seu pudim antes da irmã.
+Netflix, fui tapeado! Pensei que iria ver uma animação sobre viagem no tempo no estilo [Steins;Gate](/series/steins-gate) e acabei vendo um filme de menininha japonesa. Com quem devo ficar? Oh, meu deus, de quem será que eu gosto? Este também é um filme sobre uma pessoa que volta no tempo apenas para comer seu pudim antes da irmã.
 
 A animação em si é consistente e agradável, embora nada original. Foca mais nas formas e possui a paleta típica de animações dos estúdios Ghibli (de Hayao Miyazaki). Quando os personagens estão longe não vemos suas faces. E há um quê de Makito Shinkai (do sucesso pop adolescente [Your Name](/your-name)) quando vemos a jovem Riisa saltando em câmera lenta ou em um still para fazer o pôster do filme.
 

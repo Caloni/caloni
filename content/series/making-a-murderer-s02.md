@@ -6,7 +6,7 @@ title: "Making a Murderer S02"
 stars: "5/5"
 desc: "Making a Murderer. Making a Murderer (USA, 2015). Dirigido por Moira Demos, Laura Ricciardi. Escrito por Moira Demos, Laura Ricciardi. Com Steven Avery. Documentário, política, justiça, netflix."
 ---
-"Terminando quando o "filme" atinge o tempo presente, Making a Murderer é um projeto praticamente ainda em andamento, pois demonstra que há ainda pontas soltas e, pior, algo de podre no ar." Esse foi meu último parágrafo sobre a [primeira temporada](/making-a-murderer) de uma série que influencia a vida real. Sim, pois a segunda temporada é praticamente impulsionada pela influência documentário na vida de Steven Avery e familiares.
+"Terminando quando o "filme" atinge o tempo presente, Making a Murderer é um projeto praticamente ainda em andamento, pois demonstra que há ainda pontas soltas e, pior, algo de podre no ar." Esse foi meu último parágrafo sobre a [primeira temporada](/series/making-a-murderer) de uma série que influencia a vida real. Sim, pois a segunda temporada é praticamente impulsionada pela influência documentário na vida de Steven Avery e familiares.
 
 E o resultado é que surge uma nova protagonista, a advogada Kathleen Zellner, famosa por absolver 17 condenados injustamente pela justiça americana. Zellner trabalha em modelo pro bono, o que quer dizer que seus esforços são milionários, mas estão à disposição para bater de frente com a justiça estatal. Boa sorte com isso.
 

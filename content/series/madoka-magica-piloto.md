@@ -124,7 +124,7 @@ E Madoka, vale lembrar, precisa tomar essa decisão sozinha (como vemos no últi
 
 ### Sobre metalinguagem e detalhes que enriquecem uma obra
 
-"Madoka Mágica" fala sobre metalinguagem todo o tempo porque, assim como [Rick & Morty](/rick-and-morty-primeira-temporada), a própria história lida com a natureza da realidade. Então não se trata apenas de uma brincadeira inocente. Quando Madoka diz às suas amigas que viu Homura no sonho dessa noite, apesar de não se lembrar de nenhum outro momento da menina anterior a esse, ela recebe a reação mais do que esperada:
+"Madoka Mágica" fala sobre metalinguagem todo o tempo porque, assim como [Rick & Morty](/series/rick-and-morty-primeira-temporada), a própria história lida com a natureza da realidade. Então não se trata apenas de uma brincadeira inocente. Quando Madoka diz às suas amigas que viu Homura no sonho dessa noite, apesar de não se lembrar de nenhum outro momento da menina anterior a esse, ela recebe a reação mais do que esperada:
 
 ![Metalinguagem de estar em um anime](https://i.imgur.com/pSzEip2.png)
 

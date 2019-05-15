@@ -18,7 +18,7 @@ E esse embate eterno que eu tenho é precisamente o dilema de Mr. Alderson, que 
 
 Esta temporada conta mais do mesmo, mas parece ser justamente o que procuramos: um escape do mundo real com traços perenes desse mesmo mundo. Onde moedas digitais vão começar a servir aos propósitos políticos e veremos como políticos idiotas (como Trump) podem (e devem) ser eleitos. Toda a trama se desenvolve para contar as partes que faltavam. É quase um prólogo.
 
-Há o crescimento de muitos personagens que começam a se tornar mais interessantes que apenas meros coadjuvantes, como Bobby Cannavale, que chega chegando com seu vendedor de carros falastrão. A personagem que se torna ligeiramente forçada é Angela, que apesar da boa atuação de Portia Doubleday vai se tornando cada vez mais inverossímil. Me lembrou a irmã de [Dexter](/dexter-s08-final)...
+Há o crescimento de muitos personagens que começam a se tornar mais interessantes que apenas meros coadjuvantes, como Bobby Cannavale, que chega chegando com seu vendedor de carros falastrão. A personagem que se torna ligeiramente forçada é Angela, que apesar da boa atuação de Portia Doubleday vai se tornando cada vez mais inverossímil. Me lembrou a irmã de [Dexter](/series/dexter-s08-final)...
 
 A dupla imbatível é mesmo Rami Malek e Christian Slater. Ou deveria dizer o trio? O diretor/idealizador Sam Esmail [Eu Estava Justamente Pensando em Você](/eu-estava-justamente-pensando-em-voc) consegue melhorar sua técnica de direção ao extremo. Afeito a brincadeiras e truques, seu uso de enquadramentos aqui beira o perfeccionismo. "Mr. Robot", apesar de ser um jogo mental, ganha outros contornos artísticos bem articulados, como o episódio inteiro em plano-sequência do ataque ao prédio da E-Corp, uma aula de cinema.
 

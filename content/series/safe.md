@@ -6,7 +6,7 @@ imdb: "7902072"
 stars: "3/5"
 desc: "Safe. EUA, 2018. Criado por Harlan Coben. Com Amy James-Kelly, Amanda Abbington, Michael C. Hall."
 ---
-Antes que me perguntem, não, Michael C. Hall não mudou muita coisa desde seu icônico personagem em [Dexter](/dexter-s08-final). Ele sempre foi o ator perfeito para o papel de serial killer, e aqui se sai muitíssimo bem no papel de um viúvo pai de duas meninas, onde uma delas some misteriosamente. Estamos em um condomínio fechado da classe média alta americana com pais um pouco autoritários demais com seus filhos (crítica social!) e vizinhos bem estranhos para ter como vizinhos.
+Antes que me perguntem, não, Michael C. Hall não mudou muita coisa desde seu icônico personagem em [Dexter](/series/dexter-s08-final). Ele sempre foi o ator perfeito para o papel de serial killer, e aqui se sai muitíssimo bem no papel de um viúvo pai de duas meninas, onde uma delas some misteriosamente. Estamos em um condomínio fechado da classe média alta americana com pais um pouco autoritários demais com seus filhos (crítica social!) e vizinhos bem estranhos para ter como vizinhos.
 
 Há um churrasco no primeiro episódo de Safe, e não há nenhuma cena em todo o piloto que nos faça visitar aquele mundo de novo. Claro, você pode se sentir seduzido para descobrir o paradeiro da menina, o que aconteceu na festa de jovens, etc, etc, e etc. Mas para isso terá que ser atraído por qualquer tipo de suspense, já que este é genérico demais para nos preocuparmos com qualquer coisa. Os personagens são jogados e basicamente é isso.
 

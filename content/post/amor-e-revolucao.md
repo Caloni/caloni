@@ -10,7 +10,7 @@ Esse filme com a Emma Watson, a Hermione que virou feminista (portanto feia), co
 
 A Hermione é uma guria que ficou magra demais, deve ter feito uma dieta comunista para se preparar para o filme. Aqui ela faz uma aeromoça alemã falando inglês, mas não tem problema porque nesse filme todo o Chile fala inglês (graças ao imperialismo ianque). Ela tem o seu amorzinho com um cara que tira excelentes fotos, mas depois do golpe ele é levado para a sala de tortura e vira um retardado. Mas peraí, ele já não era comunista?
 
-Ah, não, agora ele está fingindo ser retardado. E Hermione entrou na dança também, indo se hospedar em uma Auschwitz para nazistas em plena América do Sul. Por um breve momento sinto um ar de [O Conto da Aia](/handmaids-tale) misturado com [1984](/1984).
+Ah, não, agora ele está fingindo ser retardado. E Hermione entrou na dança também, indo se hospedar em uma Auschwitz para nazistas em plena América do Sul. Por um breve momento sinto um ar de [O Conto da Aia](/series/handmaids-tale) misturado com [1984](/1984).
 
 Mas a real é que o dono do lugar é um sacerdote cristão moderno (Michael Nyqvist dando medinho), que come criancinhas, mas mantém velhos hábitos da igreja, como bater em mulheres submissas. Não que isso seja exclusividade dos religiosos, como já demonstraram os negros norte-americanos e sua aclamada cultura do "nós é que temos o direito de bater em nossas mulheres".
 
