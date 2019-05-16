@@ -11,7 +11,8 @@
     {{ partial "navbar-hero.html" . }}
 
     {{ partial "list_begin.html" . }}
-    {{ range .Site.RegularPages }} <tr><td> <a href="{{ .Permalink }}"> {{ if .Params.stars }}{{ partial "stars.html" . }} {{ end }}{{ .Title }}. {{ .Params.desc }} Nota: {{ .Params.stars }}. Categoria: {{ delimit .Params.categories ", " }}. {{ if .Params.cabine }} Visto em cabine de imprensa pelo {{ .Params.cabine }}.{{ end }} Publicado em {{ .PublishDate.Format "2006-01-02" }}. {{ if .Params.review }}Revisto em {{ delimit .Params.review ", " }}{{ end }} Texto escrito por {{ if .Params.author }}{{ .Params.author }}{{ else }}Wanderley Caloni{{ end }}.</a> </td></tr>
+    <p>Se quiser realizar uma busca com mais parâmetros vá na página com <a href="/search">todos os detalhes do filme</a> (carregamento mais pesado). Outra opção é buscar direto no <a href="https://www.google.com/search?as_sitesearch=cinetenisverde.com.br">Google</a></p>
+    {{ range .Site.RegularPages }} <tr><td> <a href="{{ .Permalink }}">{{ .Title }}</a> </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
 
