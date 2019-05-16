@@ -13,7 +13,7 @@ function ApplyFilter(filter)
 
             $.each( $('.sortable'), function(i, sortable) {
               $('tr', sortable).each(function() {
-                var srch = $(this).text() // colocando tudo no texto em vez de title + $(this).find('a').prop('title');
+                var srch = $(this).text() + $(this).find('a').prop('title');
                 if( srch.search(regex) < 0 )
                 {
                     $(this).hide()
