@@ -15,7 +15,7 @@ footnotereturnlinkcontents = "?"
     note = "/:filename/"
 
 [[menu.main]]
-    name = "post"
+    name = "search"
     url = "/post"
     weight = 1
 [[menu.main]]
