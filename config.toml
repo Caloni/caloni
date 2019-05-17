@@ -32,3 +32,4 @@ footnotereturnlinkcontents = "?"
     googleAnalytics = "UA-50557403-1"
     yandexVerification = "48a8210fc043c5e8"
     repo = "https://github.com/Caloni/cinetenisverde"
+    share = true
