@@ -51,7 +51,7 @@ def GetPermalinkFromCommit(ref):
 	ci = g.commit(ref)
 	for f, d in ci.stats.files.items():
 		if f.find('content') != -1:
-			return f[f.rfind('/')+1:f.rfind('.')]
+			return f[f.find('/')+1:f.rfind('.')]
 
 
 def GetCommentFromCommit(ref):
@@ -62,13 +62,14 @@ def GetCommentFromCommit(ref):
 
 def GetPostInfo(ref):
     post = GetPermalinkFromCommit(ref) 
-    postInfo = { 'file' : 'content\\post\\' + post + '.md' }
-    postInfo['permalink'] =  post
-    postInfo['category'] = 'movies'
+    postInfo = { 'file' : 'content\\' + post.replace('/', '\\') + '.md' }
+    postInfo['permalink'] =  post if post.find('post/') == -1 else post[post.find('/')+1:]
+    postInfo['category'] = 'movies' if post.find('post/') != -1 else post[:post.rfind('/')]
     postInfo['link'] = baseUrl + postInfo['permalink'] + '/'
     postInfo['shortlink'] = postInfo['link']
     comment = GetCommentFromCommit(ref)
     postInfo['subtitle'] = comment
+    print(postInfo)
 
     infos = {
         'title': '^title: \"(.*)\"',
@@ -114,7 +115,7 @@ def PublishToSocialMedia(ref, img):
         img = imgUrl.read()
 
         print('publishing to twitter')
-        PublishToTwitter(postInfo, img)
+        #PublishToTwitter(postInfo, img)
         if 'imdb' in postInfo:
             print('share on letterboxd, please')
             webbrowser.open_new_tab('http://www.letterboxd.com/imdb/' + postInfo['imdb'])
