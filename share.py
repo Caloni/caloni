@@ -50,7 +50,7 @@ def GetPermalinkFromCommit(ref):
 	g = git.Repo('.')
 	ci = g.commit(ref)
 	for f, d in ci.stats.files.items():
-		if f.find('content') != -1:
+		if f.find('content') != -1 and f.find('cinemaqui') == -1:
 			return f[f.find('/')+1:f.rfind('.')]
 
 
