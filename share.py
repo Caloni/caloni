@@ -107,7 +107,7 @@ def PublishToSocialMedia(ref, img):
     try:
         print('getting post info')
         postInfo = GetPostInfo(ref)
-        webbrowser.open_new_tab(postInfo['link'])
+        webbrowser.open_new_tab(baseUrl)
         input('if the page is ok type enter ' + postInfo['link'])
 
         print('opening image to share')
