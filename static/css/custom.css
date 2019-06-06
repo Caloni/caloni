@@ -1,15 +1,15 @@
 .article-meta, .menu a, a {
-    color: green;
+    color: gray;
 }
 
 .tag:not(body).is-link {
-    background-color: green;
+    background-color: gray;
     color:#fff
 }
 
 .pagination-link.is-current {
-    background-color: green;
-    border-color: green;
+    background-color: gray;
+    border-color: gray;
     color: #fff;
 }
 
