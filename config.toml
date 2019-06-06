@@ -1,11 +1,13 @@
-baseURL = "http://www.cinetenisverde.com.br/"
+baseURL = "http://www.caloni.com.br/"
 languageCode = "en-us"
-title = "Cine Tênis Verde"
+title = "Blogue do Caloni"
 theme = "capsule"
-disqusShortname = "cinetenisverde"
+disqusShortname = "caloni"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "?"
+PygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
 
 [taxonomies]
      category = "categories"
@@ -20,7 +22,7 @@ footnotereturnlinkcontents = "?"
     weight = 1
 [[menu.main]]
     name = "twitter"
-    url = "https://twitter.com/cinetenisverde"
+    url = "https://twitter.com/caloni"
     weight = 2
 [[menu.main]]
     name = "rss"
@@ -29,7 +31,7 @@ footnotereturnlinkcontents = "?"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    googleAnalytics = "UA-50557403-1"
-    yandexVerification = "48a8210fc043c5e8"
-    repo = "https://github.com/Caloni/cinetenisverde"
+    googleAnalytics = "UA-50557403-2"
+    yandexVerification = "b7d70255e0560467"
+    repo = "https://github.com/Caloni/caloni"
     share = true

@@ -2,11 +2,11 @@
 <package unique-identifier="uid" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:asd="http://www.idpf.org/asdfaf">
     <metadata>
         <dc-metadata  xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
-            <dc:Title>Cine Tênis Verde</dc:Title>
+            <dc:Title>Blogue do Caloni</dc:Title>
             <dc:Language>pt</dc:Language>
             <dc:Creator>Wanderley Caloni</dc:Creator>
-            <dc:Copyrights>Copyright Cine Tênis Verde</dc:Copyrights>
-            <dc:Publisher>Cine Tênis Verde</dc:Publisher>
+            <dc:Copyrights>Copyright Blogue do Caloni</dc:Copyrights>
+            <dc:Publisher>Blogue do Caloni</dc:Publisher>
             <x-metadata>
                 <EmbeddedCover>cover.jpg</EmbeddedCover>
             </x-metadata>
