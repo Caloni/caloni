@@ -14,9 +14,9 @@ import webbrowser
 import git
 
 sys.path.append(".auth")
-import twitter_cinetenisverde as twitter_credentials
+import twitter_caloni as twitter_credentials
 
-baseUrl = 'http://cinetenisverde.com.br/' 
+baseUrl = 'http://caloni.com.br/' 
 
 
 def PrintStars(stars):
