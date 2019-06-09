@@ -115,8 +115,8 @@ def PublishToSocialMedia(ref, img):
         img = imgUrl.read()
 
         print('publishing to twitter')
-        PublishToTwitter(postInfo, img)
-        if 'imdb' in postInfo:
+        #PublishToTwitter(postInfo, img)
+        if postInfo['link'].find('/movies/') != -1:
             print('share on letterboxd, please')
             webbrowser.open_new_tab('http://www.letterboxd.com/imdb/' + postInfo['imdb'])
         print('everything is awewome')
