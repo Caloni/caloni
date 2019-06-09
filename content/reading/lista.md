@@ -2,6 +2,9 @@
 title: "Lista de Leituras"
 categories: [ "reading" ]
 ---
+2019-06-09 Film Theory and Criticism 8th ed. (Leo Braudy, Marshall Cohen)
+ - There is a law in psychology that lays it down that if an emotion give birth to a certain movement, by imitation of this movement the corresponding emotion can be called forth. (sobre edição)
+
 2019-05-28 C Programming Language (2nd Edition) (Brian W. Kernighan e Dennis Ritchie)
  - Os autores começam dizendo que C é uma linguagem de relativo baixo nível. O que eles querem dizer não é menosprezar sua capacidade, mas dizer que C lida com abstrações que a maioria dos computadores lida diretamente, como caracteres, números e endereços, e esses podem ser combinados e movidos usando os operadores lógico-aritméticos implementados por máquinas reais. E esse é o conceito de baixo nível de C. Curioso que ao falar sobre isso os autores também comentam que apesar dos controladores de fluxo C é single-threaded, não suportando na linguagem o conceito de threads, multiprogramação, operações paralelas, sincronização e, pasmem, corrotinas (isso já estava em voga na época?).
  - E pra finalizar sua introdução ele deixa claro que C retém a filosofia básica que o programador sabe o que está fazendo; só requer que ele deixe suas intenções de forma explícita.
