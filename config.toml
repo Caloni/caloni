@@ -31,7 +31,5 @@ pygmentsCodefencesGuessSyntax = true
 
 [params]
     description = "A website built through Hugo and blogdown."
-    googleAnalytics = "UA-50557403-2"
-    yandexVerification = "b7d70255e0560467"
     repo = "https://github.com/Caloni/caloni"
     share = true
