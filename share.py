@@ -36,9 +36,14 @@ def PublishToTwitter(postInfo, img):
     https://pypi.python.org/pypi/twitter
     """
     t = twitter.Twitter(auth=twitter_credentials.auth)
-    
     t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
-    id_img1 = t_up.media.upload(media=img)["media_id_string"]
+    id_img1 = ''
+    
+    if img:
+        print('opening image', img, 'to share')
+        imgUrl = urlopen(img)
+        img = imgUrl.read()
+        id_img1 = t_up.media.upload(media=img)["media_id_string"]
 
     stars = PrintStars(postInfo['stars']) if 'stars' in postInfo else ''
     remaining = 130 - len(stars + ' ' + postInfo['subtitle'] + '\n' + '\n' + postInfo['shortlink'])
@@ -69,7 +74,6 @@ def GetPostInfo(ref):
     postInfo['shortlink'] = postInfo['link']
     comment = GetCommentFromCommit(ref)
     postInfo['subtitle'] = comment
-    print(postInfo)
 
     infos = {
         'title': '^title: \"(.*)\"',
@@ -78,6 +82,7 @@ def GetPostInfo(ref):
         'cabine': '^cabine: \"(.*)\"',
         'desc': '^desc: \"(.*)\"',
         'imdb': '^imdb: \"(.*)\"',
+        'img': '^img: \"(.*)\"',
     }
     file = open(postInfo['file'], encoding='utf8')
     for line in file.readlines():
@@ -85,6 +90,8 @@ def GetPostInfo(ref):
             match = re.match(search, line)
             if match:
                 postInfo[key] = match.group(1)
+
+    print(postInfo)
     return postInfo
 
 
@@ -110,12 +117,8 @@ def PublishToSocialMedia(ref, img):
         webbrowser.open_new_tab(baseUrl)
         input('if the page is ok type enter ' + postInfo['link'])
 
-        print('opening image to share')
-        imgUrl = urlopen(img)
-        img = imgUrl.read()
-
         print('publishing to twitter')
-        #PublishToTwitter(postInfo, img)
+        PublishToTwitter(postInfo, img if img else postInfo['img'] if 'img' in postInfo else None)
         if postInfo['link'].find('/movies/') != -1:
             print('share on letterboxd, please')
             webbrowser.open_new_tab('http://www.letterboxd.com/imdb/' + postInfo['imdb'])
@@ -125,8 +128,8 @@ def PublishToSocialMedia(ref, img):
         raise
 
 
-if len(sys.argv) < 3:
-    print('How to use: share.py commit_or_head http://image-link')
+if len(sys.argv) < 2:
+    print('How to use: python share.py commit [http://image-link]')
 else:
-    PublishToSocialMedia(sys.argv[1], sys.argv[2])
+    PublishToSocialMedia(sys.argv[1], None if len(sys.argv) < 3 else sys.argv[2])
 
