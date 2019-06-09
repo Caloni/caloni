@@ -1,2 +1,2 @@
-<p class="subtitle">{{ partial "stars.html" . }} {{ if .Params.author }}{{ .Params.author }}{{ else }}Wanderley Caloni{{ end }}, <a href="{{ .Site.Params.repo }}/commits/master/content/post/{{ .File.LogicalName }}">{{ .Date.Format "January 2, 2006" }}</a></p>
-<p>{{.TableOfContents}}<p>
+<p class="subtitle">{{ partial "stars.html" . }} {{ if .Params.author }}{{ .Params.author }}{{ else }}Caloni{{ end }}, <a href="{{ .Site.Params.repo }}/commits/master/content/post/{{ .File.LogicalName }}">{{ .Date.Format "January 2, 2006" }}</a></p>
+{{ with .Params.img }}<img style="" style="align:center;" src="{{ . }}"/>{{ end }}
