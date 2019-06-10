@@ -230,7 +230,7 @@ int factorial(int n, int a)
 
 int main()
 {
-	return factorial(1000, 0);
+	return factorial(1000, 1);
 }
  
 
