@@ -206,14 +206,12 @@ Isso acontece porque o compilador é obrigado a montar um novo _stack frame_ par
 Note que ser a última instrução não implica em ser a última linha da função, o importante é que seja a última linha **executada**. No nosso exemplo, isso já é fato, só que usamos o retorno em uma expressão.
 
     
-    return factorial(n - 1)
+```cpp
+    return factorial(n - 1) * n;
+    // o retorno da chamada recursiva 
+    // é parte de uma expressão
+```
 
-* n
-
-    
-    ;
-
-// o retorno da chamada recursiva // é parte de uma expressão
 
 Por isso é necessário desenvolver uma segunda versão do código, que utiliza dois parâmetros para que aconteça a situação de _tail recursion_.
 
