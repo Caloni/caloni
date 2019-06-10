@@ -1,2 +1,4 @@
 <p class="subtitle">{{ partial "stars.html" . }} {{ if .Params.author }}{{ .Params.author }}{{ else }}Caloni{{ end }}, <a href="{{ .Site.Params.repo }}/commit/{{ .GitInfo.Hash }}" title="{{ .GitInfo.Subject }}">{{ .Date.Format "January 2, 2006" }}</a></p>
+{{ with .Params.imdb }}<a href="http://www.imdb.com/title/tt{{ . }}">{{ end }}
 {{ with .Params.img }}<img style="align:center;" src="{{ . }}" alt="External image from the movie"/>{{ end }}
+{{ with .Params.imdb }}</a>{{ end }}
