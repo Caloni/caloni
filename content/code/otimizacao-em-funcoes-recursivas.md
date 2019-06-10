@@ -2,6 +2,7 @@
 date: "2008-01-18"
 title: Otimização em funções recursivas
 categories: [ "code" ]
+desc: "Atualizado em 2019-06-10 por alguns toques do pessoal do Telegram."
 ---
 O [livro que estou lendo](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=Dominando+algoritmos+com+C&site_origem=1293522) fala sobre algoritmos em C. Os primeiros capítulos são praticamente uma revisão para quem já programou em C, pois tratam de coisas que programadores com mais de cinco anos de casa devem ter na memória cachê (listas, pilhas, recursão, etc). Porém, tive uma agradável surpresa de achar um truque muito sabido que não conhecia, chamado de [tail recursion](http://en.wikipedia.org/wiki/Tail_recursion). Fiz questão de testar nos dois compiladores mais conhecidos e eis o resultado.
 
@@ -439,3 +440,38 @@ Para o GCC, a opção é mais explítica, e funciona da mesma forma.
     (gdb)
 
 Voilà!
+
+PS: De brinde uma versão que permite passar o número via linha de comando para facilitar os testes (e você vai reparar que há um problema em calcular o fatorial de 1000: ele é estupidamente grande! Resolver isso fica como exercício =).
+
+```c
+#include <stdio.h>
+
+int factorial(int n, int a)
+{
+    if (n < 0)
+        return 0;
+    else if (n == 0)
+        return 1;
+    else if (n == 1)
+        return a;
+    else
+        return factorial(n - 1, n * a);
+}
+
+int main(int argc, char* argv[])
+{
+    if( argc == 2 )
+    {
+        int num = atoi(argv[1]);
+        int ret = factorial(num, 1);
+        printf("factorial %d = %d\n", num, ret);
+        return ret;
+    }
+    else
+    {
+        printf("how to use: %s <number>\n", argv[0]);
+        return 1;
+    }
+}
+```
+
