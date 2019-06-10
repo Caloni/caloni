@@ -1,5 +1,6 @@
 ---
 imdb: "0441773"
+img: "https://m.media-amazon.com/images/M/MV5BODJkZTZhMWItMDI3Yy00ZWZlLTk4NjQtOTI1ZjU5NjBjZTVjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2014-12-14"
 categories: [ "movies" ]
 title: "Kung Fu Panda"

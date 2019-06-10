@@ -1,5 +1,6 @@
 ---
 imdb: "5808778"
+img: "https://m.media-amazon.com/images/M/MV5BYmZhOTEzYzktMjg5Yi00ODgwLWJlMTItOWYyMzQ0MTk2ZDk3XkEyXkFqcGdeQXVyNzUzMDExNTI@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2017-04-21"
 categories: [ "movies" ]
 title: "Peles"

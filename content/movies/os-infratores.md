@@ -1,5 +1,6 @@
 ---
 imdb: "1212450"
+img: "https://m.media-amazon.com/images/M/MV5BMjAxNjUyNjUwN15BMl5BanBnXkFtZTcwMDgwOTIyOA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-10-19"
 categories: [ "movies" ]
 title: "Os Infratores"

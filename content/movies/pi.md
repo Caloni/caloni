@@ -1,5 +1,6 @@
 ---
 imdb: "0138704"
+img: "https://m.media-amazon.com/images/M/MV5BMjYzNTA4YzItYTQ2Yy00NDQwLWI2OGItN2JmMjZhZTVhMzI5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-06-26"
 categories: [ "movies" ]
 title: "Pi"

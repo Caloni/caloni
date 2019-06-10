@@ -1,5 +1,6 @@
 ---
 imdb: "0059800"
+img: "https://m.media-amazon.com/images/M/MV5BZGNhYjM3ZmQtMTRlZS00YmZiLWFhYjktYWE3ZTk0MGY0MTIwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2012-11-11"
 categories: [ "movies" ]
 title: "007 Contra a Chantagem Atômica"

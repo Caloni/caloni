@@ -1,6 +1,7 @@
 ---
 date: 2018-02-27T23:02:12
 imdb: "4093826"
+img: "https://m.media-amazon.com/images/M/MV5BMjA5MTkzNTY5Ml5BMl5BanBnXkFtZTgwNjU4MzY1MTI@._V1_SY150_CR4,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "4/5"
 title: "Twin Peaks (2017)"

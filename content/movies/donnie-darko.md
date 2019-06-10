@@ -1,5 +1,6 @@
 ---
 imdb: "0246578"
+img: "https://m.media-amazon.com/images/M/MV5BZjZlZDlkYTktMmU1My00ZDBiLWFlNjEtYTBhNjVhOTM4ZjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2010-12-20"
 review: [ "2019" ]
 categories: [ "movies" ]

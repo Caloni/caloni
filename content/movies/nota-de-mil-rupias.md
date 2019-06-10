@@ -1,5 +1,6 @@
 ---
 imdb: "2937158"
+img: "https://m.media-amazon.com/images/M/MV5BYzgwMjcyMWQtZDdkOC00NTY5LThlY2ItYmY3NDVkZDgzMWM5XkEyXkFqcGdeQXVyNjU4NTU0MzE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-04-16"
 categories: [ "movies" ]
 title: "Nota de 1000 Rúpias"

@@ -3,6 +3,7 @@ date: 2018-06-17T22:37:47-03:00
 title: "Sense8 S02: Amor Vincit Omnia"
 desc: "Sense8 S02: Amor Vincit Omnia. Escrito por Alexander Hemon, David Mitchell, J. Michael Straczynski, e as irmãs Wachowski. Dirigido por Lana Wachowski. Com Doona Bae, Jamie Clayton, Tina Desai, Tuppence Middleton, Toby Onwumere, Max Riemelt, Miguel Ángel Silvestre, Brian J. Smith, Freema Agyeman."
 imdb: "7083044"
+img: "https://m.media-amazon.com/images/M/MV5BMmEzYWExNGQtYjNlMS00NTI2LWE2OWEtYzg5YWRiYzQ5NGIzXkEyXkFqcGdeQXVyNDA1MTI4NjM@._V1_SY150_CR19,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "3/5"
 ---

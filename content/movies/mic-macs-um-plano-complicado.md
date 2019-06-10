@@ -1,5 +1,6 @@
 ---
 imdb: "1149361"
+img: "https://m.media-amazon.com/images/M/MV5BMTgwOTc4OTk3NV5BMl5BanBnXkFtZTcwMzc0MjMzMw@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2010-12-20"
 review: [ "2012" ]
 categories: [ "movies" ]

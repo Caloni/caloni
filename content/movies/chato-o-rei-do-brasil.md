@@ -1,5 +1,6 @@
 ---
 imdb: "0337926"
+img: "https://m.media-amazon.com/images/M/MV5BNmU0NjFiMzgtYTYxNi00OTcyLTg4MzQtNGExMmMxOTExMjJlXkEyXkFqcGdeQXVyNTU0MjA3NTM@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2016-03-15"
 categories: [ "movies" ]
 title: "Chatô - O Rei do Brasil"

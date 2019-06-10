@@ -1,5 +1,6 @@
 ---
 imdb: "2250192"
+img: "https://m.media-amazon.com/images/M/MV5BNTIzMzkzMzEtMjU5OC00NTUzLTkxOGItMGU1NTdjZTE0YjE1XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2014-04-16"
 categories: [ "series" ]
 title: "Sword Art Online - Segunda Temporada"

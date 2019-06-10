@@ -1,5 +1,6 @@
 ---
 imdb: "1748122"
+img: "https://m.media-amazon.com/images/M/MV5BMTEwMTc3NDkzOTJeQTJeQWpwZ15BbWU3MDI4NTAwNzc@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-12-21"
 categories: [ "movies" ]
 title: "Moonrise Kingdom"

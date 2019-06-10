@@ -1,5 +1,6 @@
 ---
 imdb: "0038190"
+img: "https://m.media-amazon.com/images/M/MV5BMWY5MWU5YjItYzRkMi00Mzg0LTg5MDktNjExNjcxMTU0YzUzXkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2011-10-27"
 categories: [ "movies" ]
 title: "Laços Humanos"

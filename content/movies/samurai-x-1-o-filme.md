@@ -1,5 +1,6 @@
 ---
 imdb: "1979319"
+img: "https://m.media-amazon.com/images/M/MV5BNDgzODM2MjUyMF5BMl5BanBnXkFtZTgwMzg4MjA1OTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-10-05"
 categories: [ "movies" ]
 title: "Samurai X 1: O Filme"

@@ -1,5 +1,6 @@
 ---
 imdb: "0291988"
+img: "https://m.media-amazon.com/images/M/MV5BMTMyNTI1NzA0Nl5BMl5BanBnXkFtZTcwMzg1NDMzMQ@@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2015-11-01"
 categories: [ "movies" ]
 title: "Historias mínimas"

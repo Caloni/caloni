@@ -2,6 +2,7 @@
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/una/"
 imdb: "2315582"
+img: "https://m.media-amazon.com/images/M/MV5BODM3MTE3ZjAtZmE1Zi00ODg1LWI3YTItYmYwN2ExODE1YjBlXkEyXkFqcGdeQXVyMTg1MzYyMzQ@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-04-06"
 categories: [ "movies" ]
 title: "Una"

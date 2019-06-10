@@ -1,5 +1,6 @@
 ---
 imdb: "0790663"
+img: "https://m.media-amazon.com/images/M/MV5BMTUxNzQ3NTE5M15BMl5BanBnXkFtZTcwNTgxNTEyNQ@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2016-12-09"
 categories: [ "movies" ]
 title: "O Aluno"

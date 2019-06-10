@@ -1,5 +1,6 @@
 ---
 imdb: "5104002"
+img: "https://m.media-amazon.com/images/M/MV5BY2VlMzM3YjItMDRkNi00NjI5LWE1ODktMDcyNjVmY2MzODkzXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2016-11-02"
 categories: [ "movies" ]
 title: "Irmandade"

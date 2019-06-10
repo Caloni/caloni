@@ -1,5 +1,6 @@
 ---
 imdb: "0420509"
+img: "https://m.media-amazon.com/images/M/MV5BMTI1MzYyMjU3Ml5BMl5BanBnXkFtZTcwMjU5NDkzMQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-12-27"
 categories: [ "movies" ]
 title: "Aura"

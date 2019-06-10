@@ -3,6 +3,7 @@ date: 2019-01-12T11:39:00-02:00
 title: "Wifi Ralph: Quebrando a Internet"
 desc: "Ralph Breaks the Internet (EUA, 2018), escrito por Phil Johnston, Pamela Ribon, Rich Moore, Jim Reardon, Josie Trinidad e Kelly Younger (toda essa gente por essa história?), dirigido por Phil Johnston e Pamela Ribon, com John C. Reilly, Sarah Silverman, Gal Gadot, Taraji P. Henson e outros; na versão brasileira quem dublou Ralph continua sendo Tiago Abravanel, mas agora, depois de protestos no primeiro filme a dubladora de Vanellope é Flora Paulita."
 imdb: "5848272"
+img: "https://m.media-amazon.com/images/M/MV5BMTYyNzEyNDAzOV5BMl5BanBnXkFtZTgwNTk3NDczNjM@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 cabine: "cinemaqui"

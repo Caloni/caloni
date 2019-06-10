@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "4082068"
+img: "https://m.media-amazon.com/images/M/MV5BMzc1NzgwMzgyM15BMl5BanBnXkFtZTgwMzAwMzQ1ODE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-10-24"
 categories: [ "movies" ]
 title: "Dheepan"

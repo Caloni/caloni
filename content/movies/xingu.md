@@ -1,5 +1,6 @@
 ---
 imdb: "2142055"
+img: "https://m.media-amazon.com/images/M/MV5BMjMyMTQzOTI1MV5BMl5BanBnXkFtZTgwNjE2MDcyMTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-04-20"
 categories: [ "movies" ]
 title: "Xingu"

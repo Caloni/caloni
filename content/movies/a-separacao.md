@@ -1,5 +1,6 @@
 ---
 imdb: "1832382"
+img: "https://m.media-amazon.com/images/M/MV5BMTYzMzU4NDUwOF5BMl5BanBnXkFtZTcwMTM5MjA5Ng@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-08-24"
 categories: [ "movies" ]
 title: "A Separação"

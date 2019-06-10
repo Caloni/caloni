@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "1361318"
+img: "https://m.media-amazon.com/images/M/MV5BMTQxOTk5ODc0Nl5BMl5BanBnXkFtZTgwNDA3MzExMjE@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2015-03-05"
 categories: [ "movies" ]
 title: "Risco Imediato"

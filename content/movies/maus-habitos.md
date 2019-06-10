@@ -3,6 +3,7 @@ date: 2019-03-30T09:49:41-03:00
 title: "Maus Hábitos"
 desc: "Entre tinieblas. Espanha, 1983. Dirigido e escrito por Pedro Almodóvar. Com Cristina Sánchez Pascual, Will More, Laura Cepeda, Julieta Serrano, Marisa Paredes, Carmen Maura."
 imdb: "0085496"
+img: "https://m.media-amazon.com/images/M/MV5BYWVjNTAyY2MtODZiYi00MTNmLTliZmUtZDU3OTUxODYwMjkzXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY150_CR1,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 ---

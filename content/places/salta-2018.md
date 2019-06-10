@@ -2,6 +2,7 @@
 date: 2018-07-04T13:56:13-03:00
 title: "Salta, 2018"
 categories: [ "places" ]
+img: "https://i.imgur.com/SaGrTLG.jpg"
 ---
 A região de Salta é menos conhecida pelos amantes de vinhos argentinos, mais acostumados a Mendoza e suas ruas paradisíacas em pleno deserto. Mas Salta tem outro espírito, mais nativo, e mais charmoso, que revela como a Argentina, como todo país, é um aglomerado artificial de diferentes povos e culturas, e como o vinho, feito em um solo impossível de dar vida à uva, expressa a alma de suas gerações.
 
@@ -38,8 +39,6 @@ E por falar em permitir, fora os limites de peso e volume das companhias aéreas
 Além de vinhos e queijos Cafayate está bem servido de pelo menos cinco sorveterias com diferentes tipos de sorvete (helado) de doce de leite (dulce de letche) para todos os gostos. O sabor regional são os sorvetes com gosto das uvas locais: torrontes e malbec. Se gostar de conversar com locais vai adorar a sorveteria da Miranda, a senhora que inventou esses vinhos. Ela geralmente está por lá, distribuído uma poesia que fizeram dela e seu sorvete.
 
 As novidades da cidade não param por aí. Na rua principal ainda há uma cervejaria artesanal na praça que serve pipoca como aperitivo para suas cervejas blanca, negra ou rubia, e logo após a praça uma fábrica de alfajores artesanais com loja embutida. No balcão há vários sabores e também bombons muito bem feitos, que nada lembram os doces meia-boca daquela vizinha que vende trufa ou os industriais Cacau Show e derivados.
-
-![](https://i.imgur.com/SaGrTLG.jpg)
 
 Por falar em cacau, faça chuva (essa foi boa!) ou faça sol, tenha sempre consigo seu batom com manteiga de cacau (fácil de achar na drogaria da praça principal). Tanto no calor como no frio seus lábios podem rachar facilmente por causa da baixíssima umidade da região. Lá chove umas 4 vezes ao ano.
 

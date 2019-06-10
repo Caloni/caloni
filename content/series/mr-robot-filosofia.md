@@ -1,5 +1,6 @@
 ---
 imdb: "4158110"
+img: "https://m.media-amazon.com/images/M/MV5BMTYzMDE2MzI4MF5BMl5BanBnXkFtZTgwNTkxODgxOTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: 2017-08-28T19:17:19
 categories: [ "series" ]
 title: "Filosofia De Mr Robot"

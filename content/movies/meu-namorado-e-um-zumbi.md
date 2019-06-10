@@ -1,5 +1,6 @@
 ---
 imdb: "1588173"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ4MjY2MjMzOV5BMl5BanBnXkFtZTcwMDUxNzIwOQ@@._V1._CR43,43.16667175292969,1298,1960.9999542236328_SX101_CR0,0,101,150_.jpg"
 date: "2013-02-14"
 categories: [ "movies" ]
 title: "Meu Namorado é um Zumbi"

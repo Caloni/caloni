@@ -1,5 +1,6 @@
 ---
 imdb: "1937149"
+img: "https://m.media-amazon.com/images/M/MV5BNGMxZjFkN2EtMDRiMS00ZTBjLWI0M2MtZWUyYjFhZGViZDJlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2015-02-14"
 categories: [ "movies" ]
 title: "El Cuerpo"

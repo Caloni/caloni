@@ -1,5 +1,6 @@
 ---
 imdb: "0100157"
+img: "https://m.media-amazon.com/images/M/MV5BNzY0ODQ3MTMxN15BMl5BanBnXkFtZTgwMDkwNTg4NjE@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-02-09"
 categories: [ "movies" ]
 title: "Louca Obsessão"

@@ -1,5 +1,6 @@
 ---
 imdb: "2637276"
+img: "https://m.media-amazon.com/images/M/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2015-12-31"
 categories: [ "movies" ]
 title: "Ted 2"

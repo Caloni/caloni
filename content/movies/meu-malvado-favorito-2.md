@@ -1,5 +1,6 @@
 ---
 imdb: "1690953"
+img: "https://m.media-amazon.com/images/M/MV5BMjExNjAyNTcyMF5BMl5BanBnXkFtZTgwODQzMjQ3MDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-07-09"
 categories: [ "movies" ]
 title: "Meu Malvado Favorito 2"

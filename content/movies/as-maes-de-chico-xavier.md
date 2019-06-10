@@ -1,5 +1,6 @@
 ---
 imdb: "1882041"
+img: "https://m.media-amazon.com/images/M/MV5BZTM4NTQ2MTUtYzQ3My00ZWM4LWE3YTktZDBiMWU0MjM0ZjA0XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2011-04-27"
 categories: [ "movies" ]
 title: "As Mães de Chico Xavier"

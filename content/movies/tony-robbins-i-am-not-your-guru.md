@@ -1,5 +1,6 @@
 ---
 imdb: "5151716"
+img: "https://m.media-amazon.com/images/M/MV5BMzM3NTAwMjAxMl5BMl5BanBnXkFtZTgwMjU0ODkxOTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-03-15"
 categories: [ "movies" ]
 title: "Tony Robbins: I Am Not Your Guru"

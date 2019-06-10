@@ -1,5 +1,6 @@
 ---
 imdb: "0158714"
+img: "https://m.media-amazon.com/images/M/MV5BNDEwZDE2MzAtNmU4Yi00ODYxLThhMjgtOWViNDRjYzc2ZGZlXkEyXkFqcGdeQXVyMzAxNjg3MjQ@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2013-03-09"
 categories: [ "movies" ]
 title: "Lady Snowblood"

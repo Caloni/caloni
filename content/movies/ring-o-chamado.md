@@ -1,5 +1,6 @@
 ---
 imdb: "0178868"
+img: "https://m.media-amazon.com/images/M/MV5BYTA0ZmE4NWUtNTgzZS00ZmE0LWFlNjItNzFkMWVmOGQxNGY3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2016-09-15"
 categories: [ "movies" ]
 title: "Ring: O Chamado"

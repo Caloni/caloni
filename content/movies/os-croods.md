@@ -1,5 +1,6 @@
 ---
 imdb: "0481499"
+img: "https://m.media-amazon.com/images/M/MV5BMTcyOTc2OTA1Ml5BMl5BanBnXkFtZTcwOTI1MjkzOQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-01-31"
 categories: [ "movies" ]
 title: "Os Croods"

@@ -1,5 +1,6 @@
 ---
 imdb: "1536044"
+img: "https://m.media-amazon.com/images/M/MV5BMjE4NDgwMzAxNF5BMl5BanBnXkFtZTcwNTE3OTk4Mw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-11-07"
 categories: [ "movies" ]
 title: "Atividade Paranormal 2"

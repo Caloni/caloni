@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "5968964"
+img: "https://m.media-amazon.com/images/M/MV5BNzlkYzAyNzQtYTEwMi00MDk4LWI4ZGEtZjU3NDZhMGFlNzdmL2ltYWdlXkEyXkFqcGdeQXVyMTIxNjQzMjY@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-12-13"
 categories: [ "movies" ]
 title: "Eu Fico Loko"

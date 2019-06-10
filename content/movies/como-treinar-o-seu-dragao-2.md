@@ -1,5 +1,6 @@
 ---
 imdb: "1646971"
+img: "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-06-19"
 categories: [ "movies" ]
 title: "Como Treinar o Seu Dragão 2"

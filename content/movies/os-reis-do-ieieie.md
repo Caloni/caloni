@@ -1,5 +1,6 @@
 ---
 imdb: "0058182"
+img: "https://m.media-amazon.com/images/M/MV5BZjQyMGUwNzAtNTc2MC00Y2FjLThlM2ItZGRjNzM0OWVmZGYyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2015-12-12"
 categories: [ "movies" ]
 title: "Os Reis do Ié-Ié-Ié"

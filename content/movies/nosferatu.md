@@ -1,5 +1,6 @@
 ---
 imdb: "0013442"
+img: "https://m.media-amazon.com/images/M/MV5BMTAxYjEyMTctZTg3Ni00MGZmLWIxMmMtOGM2NTFiY2U3MmExXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-11-02"
 categories: [ "movies" ]
 title: "Nosferatu"

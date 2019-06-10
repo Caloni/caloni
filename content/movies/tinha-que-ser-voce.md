@@ -1,5 +1,6 @@
 ---
 imdb: "1046947"
+img: "https://m.media-amazon.com/images/M/MV5BMTU1MDM5OTMwM15BMl5BanBnXkFtZTcwMTAzOTAwMg@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-07-19"
 categories: [ "movies" ]
 title: "Tinha Que Ser Você"

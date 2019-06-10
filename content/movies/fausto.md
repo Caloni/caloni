@@ -1,5 +1,6 @@
 ---
 imdb: "1437357"
+img: "https://m.media-amazon.com/images/M/MV5BMTM4NDgwNjU4Ml5BMl5BanBnXkFtZTgwNzU2OTI1MDE@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2012-07-27"
 categories: [ "movies" ]
 title: "Faust"

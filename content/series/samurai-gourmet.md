@@ -1,5 +1,6 @@
 ---
 imdb: "6304676"
+img: "https://m.media-amazon.com/images/M/MV5BYTJjMWRlYzYtNTIyNS00ODA3LThlNGEtNWNkNGUwZDhlN2Q5XkEyXkFqcGdeQXVyMjM2MjkyMTQ@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2017-04-16"
 categories: [ "series" ]
 title: "Samurai Gourmet"

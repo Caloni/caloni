@@ -1,6 +1,7 @@
 ---
 date: 2018-02-27T22:44:51
 imdb: "6468322"
+img: "https://m.media-amazon.com/images/M/MV5BMzBlY2QzNzYtMWU1NS00NjFkLWJiMzItYmM3YTc4MDFjNDQwXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "2/5"
 title: "La Casa De Papel"

@@ -1,5 +1,6 @@
 ---
 imdb: "0080120"
+img: "https://m.media-amazon.com/images/M/MV5BYTU2MWRiMTMtYzAzZi00NGYzLTlkMDEtNWQ3MzZlNTJlNzZkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2013-08-02"
 categories: [ "movies" ]
 title: "Warriors Os Selvagens da Noite"

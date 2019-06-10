@@ -1,5 +1,6 @@
 ---
 imdb: "0404030"
+img: "https://m.media-amazon.com/images/M/MV5BMjExNTU2MTczNl5BMl5BanBnXkFtZTYwODYxMjY3._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-07-31"
 categories: [ "movies" ]
 title: "Uma Vida Iluminada"

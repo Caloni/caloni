@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "4163636"
+img: "https://m.media-amazon.com/images/M/MV5BZjBhYTU4ZmQtNzBkNS00ZGU5LWIzMzUtYzNhYTMzNTU5NGE2XkEyXkFqcGdeQXVyMzk0ODA2ODM@._V1_SY150_CR4,0,101,150_.jpg"
 date: "2016-07-22"
 categories: [ "movies" ]
 title: "A Viagem de Meu Pai"

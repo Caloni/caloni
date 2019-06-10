@@ -1,5 +1,6 @@
 ---
 imdb: "2179136"
+img: "https://m.media-amazon.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-04-30"
 categories: [ "movies" ]
 title: "Sniper Americano"

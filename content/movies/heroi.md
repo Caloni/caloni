@@ -1,5 +1,6 @@
 ---
 imdb: "0299977"
+img: "https://m.media-amazon.com/images/M/MV5BMWQ2MjQ0OTctMWE1OC00NjZjLTk3ZDAtNTk3NTZiYWMxYTlmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-08-25"
 categories: [ "movies" ]
 title: "Herói"

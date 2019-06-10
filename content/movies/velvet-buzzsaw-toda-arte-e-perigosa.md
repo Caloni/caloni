@@ -3,6 +3,7 @@ date: 2019-05-04T11:54:49-03:00
 title: "Toda Arte é Perigosa (Velvet Buzzsaw)"
 desc: "Velvet Buzzsaw. EUA, 2019. Por Dan Gilroy, com Jake Gyllenhaal, Rene Russo, Zawe Ashton."
 imdb: "7043012"
+img: "https://m.media-amazon.com/images/M/MV5BMjExMDQ1NjMzOV5BMl5BanBnXkFtZTgwMjkxMzMyNzM@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "2/5"
 ---

@@ -1,5 +1,6 @@
 ---
 imdb: "0015361"
+img: "https://m.media-amazon.com/images/M/MV5BMjA5Mzc0Mzg3MF5BMl5BanBnXkFtZTgwNzgyMzQ2MTE@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2012-04-02"
 categories: [ "movies" ]
 title: "A Greve"

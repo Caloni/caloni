@@ -3,6 +3,7 @@ date: 2018-06-29T15:49:42-03:00
 title: "Screenland"
 desc: "Idem. EUA, 2017. Com Kate Kneeland. Basicamente é isso."
 imdb: "6148128"
+img: "https://m.media-amazon.com/images/M/MV5BNzMyNGVlZGItNWIxZi00YmUzLWI3MmEtNjU3MmRlNThjMTg2XkEyXkFqcGdeQXVyMjQzOTIyNjk@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "2/5"
 ---

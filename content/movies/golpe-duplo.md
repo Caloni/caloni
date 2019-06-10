@@ -1,5 +1,6 @@
 ---
 imdb: "2381941"
+img: "https://m.media-amazon.com/images/M/MV5BMTUwODg2OTA4OF5BMl5BanBnXkFtZTgwOTE5MTE4MzE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-03-13"
 categories: [ "movies" ]
 title: "Golpe Duplo"

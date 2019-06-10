@@ -1,6 +1,7 @@
 ---
 date: 2018-01-12T01:04:05
 imdb: "1535109"
+img: "https://m.media-amazon.com/images/M/MV5BODhiZWRhMjctNDUyMS00NmUwLTgwYmItMjJhOWNkZWQ3ZTQxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 title: "Capitão Phillips"

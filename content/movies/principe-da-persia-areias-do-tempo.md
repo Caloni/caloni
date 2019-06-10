@@ -1,5 +1,6 @@
 ---
 imdb: "0473075"
+img: "https://m.media-amazon.com/images/M/MV5BMTMwNDg0NzcyMV5BMl5BanBnXkFtZTcwNjg4MjQyMw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-06-14"
 categories: [ "movies" ]
 title: "Príncipe da Pérsia As Areias do Tempo"

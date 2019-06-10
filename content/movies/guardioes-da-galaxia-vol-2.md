@@ -1,5 +1,6 @@
 ---
 imdb: "3896198"
+img: "https://m.media-amazon.com/images/M/MV5BMTg2MzI1MTg3OF5BMl5BanBnXkFtZTgwNTU3NDA2MTI@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-04-27"
 categories: [ "movies" ]
 title: "Guardiões da Galáxia Vol. 2"

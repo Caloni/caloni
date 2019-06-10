@@ -1,5 +1,6 @@
 ---
 imdb: "0903747"
+img: "https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY150_CR3,0,101,150_.jpg"
 date: "2016-07-16"
 categories: [ "series" ]
 title: "Breaking Bad - Terceira Temporada"

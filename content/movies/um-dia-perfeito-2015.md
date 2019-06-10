@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "3577624"
+img: "https://m.media-amazon.com/images/M/MV5BMTUwNjgzOTQ4OV5BMl5BanBnXkFtZTgwMjA5OTM2NTE@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2016-07-05"
 categories: [ "movies" ]
 title: "Um Dia Perfeito"

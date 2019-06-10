@@ -1,5 +1,6 @@
 ---
 imdb: "0120382"
+img: "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-10-20"
 categories: [ "movies" ]
 title: "O Show de Truman"

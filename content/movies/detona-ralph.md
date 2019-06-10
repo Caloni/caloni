@@ -1,5 +1,6 @@
 ---
 imdb: "1772341"
+img: "https://m.media-amazon.com/images/M/MV5BNzMxNTExOTkyMF5BMl5BanBnXkFtZTcwMzEyNDc0OA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-12-30"
 categories: [ "movies" ]
 title: "Detona Ralph"

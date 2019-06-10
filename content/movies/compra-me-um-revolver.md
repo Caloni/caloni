@@ -3,6 +3,7 @@ date: 2019-05-10T19:02:34-03:00
 title: "Compra Me Um Revólver"
 desc: "Cómprame un revolver (aka Buy Me a Gun) (México, Colômbia, 2018), escrito por Julio Hernández Cordón, dirigido por Julio Hernández Cordón, com Ángel Rafael Yanez, Wallace Pereyda, Ángel Leonel Corral."
 imdb: "7425520"
+img: "https://m.media-amazon.com/images/M/MV5BMWNjOTVkMTctYTY1My00OGU2LTllMjItODVjNTEyYzQwYTZhXkEyXkFqcGdeQXVyOTg5MzI3NA@@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 cabine: "cinemaqui"

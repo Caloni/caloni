@@ -1,5 +1,6 @@
 ---
 imdb: "2322441"
+img: "https://m.media-amazon.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2015-02-28"
 categories: [ "movies" ]
 title: "Cinquenta Tons de Cinza"

@@ -1,5 +1,6 @@
 ---
 imdb: "3063516"
+img: "https://m.media-amazon.com/images/M/MV5BMTg4NjIwMTI5OV5BMl5BanBnXkFtZTgwNjU1MTMyMDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-12-02"
 categories: [ "movies" ]
 title: "Jackass Apresenta: Vovô Sem Vergonha"

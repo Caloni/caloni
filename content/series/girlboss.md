@@ -1,5 +1,6 @@
 ---
 imdb: "5706996"
+img: "https://m.media-amazon.com/images/M/MV5BMTgzMzU5ODIxN15BMl5BanBnXkFtZTgwNzI4ODE5MTI@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-04-26"
 categories: [ "series" ]
 title: "Girlboss - Primeira Temporada"

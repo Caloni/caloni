@@ -1,5 +1,6 @@
 ---
 imdb: "3114390"
+img: "https://m.media-amazon.com/images/M/MV5BZTRlNTYwOWMtMDNhOC00NzQ3LTgzZDItNzEwZDY4ZWRlNjgzL2ltYWdlXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2014-10-19"
 categories: [ "series" ]
 title: "Kill La Kill"

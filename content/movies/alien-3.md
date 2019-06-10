@@ -1,5 +1,6 @@
 ---
 imdb: "0103644"
+img: "https://m.media-amazon.com/images/M/MV5BYTNiYmQzNTctNzAyZC00ODY2LWE3ZjgtODU1NDA0NGI5ZDY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2011-12-10"
 categories: [ "movies" ]
 title: "Aliens 3"

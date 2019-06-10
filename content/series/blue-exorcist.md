@@ -1,5 +1,6 @@
 ---
 imdb: "1799631"
+img: "https://m.media-amazon.com/images/M/MV5BNjYyMjhiNTYtN2M3Yy00NTlhLWJkMmEtMzVhOGEyMzNjNTNhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-08-31"
 categories: [ "series" ]
 title: "Blue Exorcist"

@@ -3,6 +3,7 @@ date: 2018-12-18T12:35:09-02:00
 title: "Lazzaro Felice"
 desc: "Lazzaro Felice, aka Happy as Lazzaro. Itália, Suíça, França, Alemanha, 2018. Escrito e dirigido por Alice Rohrwacher. Com Adriano Tardiolo como Lazzaro, fotografia por Hélène Louvart, elenco por Ulrike Müller e Chiara Polizzi."
 imdb: "6752992"
+img: "https://m.media-amazon.com/images/M/MV5BOGJkNWIzZjEtNmI2OS00NDI3LWFlOTktMmFkMTUxNDY4NWYwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "5/5"
 ---

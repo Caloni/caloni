@@ -1,5 +1,6 @@
 ---
 imdb: "0075148"
+img: "https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2015-03-17"
 categories: [ "movies" ]
 title: "Rocky - Um Lutador"

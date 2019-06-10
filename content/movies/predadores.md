@@ -1,5 +1,6 @@
 ---
 imdb: "1424381"
+img: "https://m.media-amazon.com/images/M/MV5BNjFmNDNlMGItMDQxMS00ZWMxLTg4MmQtMTBiNWU3ZDU1Nzk1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-06-23"
 categories: [ "movies" ]
 title: "Predadores"

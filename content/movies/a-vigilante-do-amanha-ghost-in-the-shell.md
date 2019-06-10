@@ -1,5 +1,6 @@
 ---
 imdb: "1219827"
+img: "https://m.media-amazon.com/images/M/MV5BMzJiNTI3MjItMGJiMy00YzA1LTg2MTItZmE1ZmRhOWQ0NGY1XkEyXkFqcGdeQXVyOTk4MTM0NQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: 2017-08-25T22:52:16
 categories: [ "movies" ]
 title: "A Vigilante do Amanhã: Ghost In The Shell"

@@ -1,5 +1,6 @@
 ---
 imdb: "2339741"
+img: "https://m.media-amazon.com/images/M/MV5BMTgxMjUyNTAxNF5BMl5BanBnXkFtZTgwNTk4MDUyMzE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-01-30"
 categories: [ "movies" ]
 title: "A Mulher de Preto 2: O Anjo da Morte"

@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "3854770"
+img: "https://m.media-amazon.com/images/M/MV5BZDQwYzI4Y2UtZTBkNy00MjAyLThjMWUtY2NjMmIwYmQ4YmQzXkEyXkFqcGdeQXVyMzU0NDkxNQ@@._V1_SY150_CR5,0,101,150_.jpg"
 date: "2016-12-15"
 categories: [ "movies" ]
 title: "A Última Lição"

@@ -1,5 +1,6 @@
 ---
 imdb: "1081935"
+img: "https://m.media-amazon.com/images/M/MV5BMTk0NjMwMjE1Nl5BMl5BanBnXkFtZTcwOTYyMDc5Mg@@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2010-09-17"
 categories: [ "movies" ]
 title: "Baarìa A Porta do Vento"

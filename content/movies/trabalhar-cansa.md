@@ -1,5 +1,6 @@
 ---
 imdb: "1686328"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ0NzI3MzY3MV5BMl5BanBnXkFtZTgwNTM1ODQyNzE@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2011-10-18"
 categories: [ "movies" ]
 title: "Trabalhar Cansa"

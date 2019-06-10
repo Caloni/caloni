@@ -1,5 +1,6 @@
 ---
 imdb: "4508902"
+img: "https://m.media-amazon.com/images/M/MV5BMzQxMzE5NzM2NV5BMl5BanBnXkFtZTgwMDQ4NTUyNzE@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2017-01-17"
 categories: [ "series" ]
 title: "One Punch Man: Wanpanman"

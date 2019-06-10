@@ -1,5 +1,6 @@
 ---
 imdb: "3062074"
+img: "https://m.media-amazon.com/images/M/MV5BMjA0MTIxMDEwNF5BMl5BanBnXkFtZTgwMDk3ODIxMjE@._V1_SY150_CR3,0,101,150_.jpg"
 date: "2016-08-20"
 categories: [ "movies" ]
 title: "Sharknado 2: A Segunda Onda"

@@ -1,5 +1,6 @@
 ---
 imdb: "0470752"
+img: "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-05-19"
 categories: [ "movies" ]
 title: "Ex Machina"

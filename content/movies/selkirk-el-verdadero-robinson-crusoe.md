@@ -1,6 +1,7 @@
 ---
 title: "Selkirk el verdadero Robinson Crusoe"
 imdb: "2231505"
+img: "https://m.media-amazon.com/images/M/MV5BODczYWQwNTUtMDlhMC00YzVmLWI3MTQtOTlkODJkZmM1MWFmXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_SY150_CR1,0,101,150_.jpg"
 stars: "3/5"
 date: "2012-02-15"
 categories: [ "movies" ]

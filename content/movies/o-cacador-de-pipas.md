@@ -1,6 +1,7 @@
 ---
 date: 2018-01-12T00:54:54
 imdb: "0419887"
+img: "https://m.media-amazon.com/images/M/MV5BOWM5Yzg4ODctM2ViMC00ZGEzLWI2YzEtZDYwY2E4YTBhYTY1XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "5/5"
 title: "O Caçador de Pipas"

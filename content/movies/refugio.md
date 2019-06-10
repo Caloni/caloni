@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "4163644"
+img: "https://m.media-amazon.com/images/M/MV5BZmJmZTY5Y2UtNTk4Ny00MzcwLWI0NDktM2U5YTg3NzQzOTk2XkEyXkFqcGdeQXVyNzYwODEwNzY@._V1_SY150_CR4,0,101,150_.jpg"
 date: "2016-09-30"
 categories: [ "movies" ]
 title: "Refúgio"

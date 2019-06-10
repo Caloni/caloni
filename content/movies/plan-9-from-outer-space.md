@@ -1,5 +1,6 @@
 ---
 imdb: "0052077"
+img: "https://m.media-amazon.com/images/M/MV5BMzUzMzA0NDE3MF5BMl5BanBnXkFtZTgwMzg1Mjc1MDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-09-23"
 categories: [ "movies" ]
 title: "Plano 9 do Espaço Sideral"

@@ -1,5 +1,6 @@
 ---
 imdb: "0103074"
+img: "https://m.media-amazon.com/images/M/MV5BMjIxNDgzMDE2MF5BMl5BanBnXkFtZTcwNzY5NTk1NA@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2015-12-28"
 categories: [ "movies" ]
 title: "Thelma & Louise"

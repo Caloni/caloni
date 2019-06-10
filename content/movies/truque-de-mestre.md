@@ -1,5 +1,6 @@
 ---
 imdb: "1670345"
+img: "https://m.media-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2016-06-21"
 categories: [ "movies" ]
 title: "Truque de Mestre"

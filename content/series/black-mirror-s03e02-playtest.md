@@ -1,5 +1,6 @@
 ---
 imdb: "5709242"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ4OTE3MjI4MF5BMl5BanBnXkFtZTgwOTM3MzgzMDI@._V1_SY150_CR62,0,101,150_.jpg"
 date: "2016-10-25"
 categories: [ "series" ]
 title: "Black Mirror - S03E02 - Playtest"

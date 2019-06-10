@@ -1,5 +1,6 @@
 ---
 imdb: "4326444"
+img: "https://m.media-amazon.com/images/M/MV5BZjI3ZTdmNjMtMTI5My00M2EyLTg5YmItMDAwODU4ZWYyYjFhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2016-07-31"
 categories: [ "movies" ]
 title: "Julieta"

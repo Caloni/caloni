@@ -1,5 +1,6 @@
 ---
 imdb: "1120985"
+img: "https://m.media-amazon.com/images/M/MV5BMTU4MTQ2MzA1Ml5BMl5BanBnXkFtZTcwODE3NTgwNA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-06-09"
 categories: [ "movies" ]
 title: "Namorados Para Sempre"

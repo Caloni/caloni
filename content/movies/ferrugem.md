@@ -3,6 +3,7 @@ date: 2018-08-27T16:41:25-03:00
 title: "Ferrugem"
 desc: "Ferrugem (Brasil, 2018), escrito por Aly Muritiba e Jessica Candal, dirigido por Muritiba, com Giovanni de Lorenzi, Tifanny Dopke, Enrique Diaz."
 imdb: "7467324"
+img: "https://m.media-amazon.com/images/M/MV5BMmI3NTA3MDEtOTMyOC00YjE0LWI3YTUtZDVjMWI1OGFhNmY3XkEyXkFqcGdeQXVyOTU3ODk4MQ@@._V1_SY150_CR3,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 cabine: "cinemaqui"

@@ -3,6 +3,7 @@ date: 2018-11-15T16:01:58-02:00
 title: "Bohemian Rhapsody"
 desc: "Bohemian Rhapsody. Reino Unido, EUA, 2018. Escrito por Anthony McCarten baseado na história de Peter Morgan. Dirigido por Bryan Singer. Com Rami Malek, Lucy Boynton, Gwilym Lee. Musical, biografia, efeitos visuais, edição."
 imdb: "1727824"
+img: "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 ---

@@ -1,5 +1,6 @@
 ---
 imdb: "2231208"
+img: "https://m.media-amazon.com/images/M/MV5BOTQ0MzAyODM0MF5BMl5BanBnXkFtZTcwNDA1MTA4OQ@@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2013-04-11"
 categories: [ "movies" ]
 title: "Uma História de Amor e Fúria"

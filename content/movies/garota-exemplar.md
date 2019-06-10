@@ -1,5 +1,6 @@
 ---
 imdb: "2267998"
+img: "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-11-15"
 categories: [ "movies" ]
 title: "Garota Exemplar"

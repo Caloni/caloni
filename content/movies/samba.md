@@ -1,5 +1,6 @@
 ---
 imdb: "3399024"
+img: "https://m.media-amazon.com/images/M/MV5BMTUyNzIxOTgzMV5BMl5BanBnXkFtZTgwNTk5NTIwNjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-09-08"
 categories: [ "movies" ]
 title: "Samba"

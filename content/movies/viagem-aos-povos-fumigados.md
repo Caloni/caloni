@@ -3,6 +3,7 @@ date: 2018-10-27T01:25:00-02:00
 title: "Viagem Aos Povos Fumigados"
 desc: ""
 imdb: "7962890"
+img: "https://m.media-amazon.com/images/M/MV5BMzZmNjVhZjMtNDljMy00MTg5LThkOGMtZWYzZmU1Y2JjNzQwXkEyXkFqcGdeQXVyODU2NDk1MTU@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "2/5"
 cabine: "cinemaqui"

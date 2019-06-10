@@ -1,5 +1,6 @@
 ---
 imdb: "1596363"
+img: "https://m.media-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2016-11-26"
 categories: [ "movies" ]
 title: "A Grande Aposta"

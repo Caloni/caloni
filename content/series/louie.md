@@ -1,5 +1,6 @@
 ---
 imdb: "1492966"
+img: "https://m.media-amazon.com/images/M/MV5BMWFlODQ4MWQtNDA1ZS00MGUzLTkwNzEtZmE4MzczNjVjMjE3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-07-28"
 categories: [ "series" ]
 title: "Louie"

@@ -1,5 +1,6 @@
 ---
 imdb: "3398268"
+img: "https://m.media-amazon.com/images/M/MV5BYTkyMTNmY2EtOTZmYi00YWU4LTgxN2UtZWU0NTI0OGFkMWRjXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2015-09-13"
 categories: [ "movies" ]
 title: "Quando Estou Com Marnie"

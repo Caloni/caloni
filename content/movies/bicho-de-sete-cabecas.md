@@ -3,6 +3,7 @@ date: 2019-05-11T12:06:28-03:00
 title: "Bicho de Sete Cabeças"
 desc: "Bicho de Sete Cabeças. Brasil, 2000. Direção de Laís Bodanzky, escrito por Bodanzky a partir do livro de Austregésilo Carrano, com Rodrigo Santoro, Othon Bastos, Cássia Kis."
 imdb: "0263124"
+img: "https://m.media-amazon.com/images/M/MV5BN2Y2MGE3OTUtMDhkZC00MmU1LTg5NTktYjExNGZmNjgzNjJiXkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SY150_CR3,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 ---

@@ -2,6 +2,7 @@
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/garota-ocidental-entre-o-coracao-e-tradicao"
 imdb: "5771640"
+img: "https://m.media-amazon.com/images/M/MV5BYjkxMWY1NzItODBiMy00ZGUwLWI1YTItOTNiODdmODljNWI0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjAwNDEwMw@@._V1_SY150_CR6,0,101,150_.jpg"
 date: "2017-06-21"
 categories: [ "movies" ]
 title: "A Garota Ocidental - Entre o Coração e a Tradição"

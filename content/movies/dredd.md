@@ -1,5 +1,6 @@
 ---
 imdb: "1343727"
+img: "https://m.media-amazon.com/images/M/MV5BODkyNDQzMzUzOF5BMl5BanBnXkFtZTcwODYyMDEyOA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-10-05"
 categories: [ "movies" ]
 title: "Dredd"

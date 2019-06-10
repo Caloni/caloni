@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "3019796"
+img: "https://m.media-amazon.com/images/M/MV5BMTUxNjIxMTA5OF5BMl5BanBnXkFtZTgwMDc3NjM5NDE@._V1_SY150_CR6,0,101,150_.jpg"
 date: "2014-12-18"
 review: [ "2015" ]
 categories: [ "movies" ]

@@ -1,5 +1,6 @@
 ---
 imdb: "1235548"
+img: "https://m.media-amazon.com/images/M/MV5BMTM1NjQ4Mjk3NF5BMl5BanBnXkFtZTcwNTAxMjg1NA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-03-04"
 categories: [ "movies" ]
 title: "VIPs"

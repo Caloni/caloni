@@ -1,5 +1,6 @@
 ---
 imdb: "0494222"
+img: "https://m.media-amazon.com/images/M/MV5BOTUxMzY3MzI0NV5BMl5BanBnXkFtZTcwMDUwMDU0MQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2011-03-24"
 categories: [ "movies" ]
 title: "Loucos por Nada"

@@ -3,6 +3,7 @@ date: 2018-10-07T14:58:41-03:00
 title: "O Que Fazemos nas Sombras"
 desc: "What We Do in the Shadows. Nova Zelândia, EUA, 2014. Escrito e dirigido por Jemaine Clement e Taika Waititi. Com Jemaine Clement, Taika Waititi, Cori Gonzalez-Macuer."
 imdb: "3416742"
+img: "https://m.media-amazon.com/images/M/MV5BMjAwNDA5NzEwM15BMl5BanBnXkFtZTgwMTA1MDUyNDE@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 ---

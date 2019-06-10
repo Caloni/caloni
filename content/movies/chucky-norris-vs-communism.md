@@ -1,5 +1,6 @@
 ---
 imdb: "2442080"
+img: "https://m.media-amazon.com/images/M/MV5BMjEyZmRkNGYtYjEyOC00NmE5LWIxNzQtZjFjZDU1YWVjZjM5XkEyXkFqcGdeQXVyNDgxMDU4NTU@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2017-03-26"
 categories: [ "movies" ]
 title: "Chuck Norris vs. Communism"

@@ -3,6 +3,7 @@ date: 2019-02-02T13:30:10-02:00
 title: "Amnésia"
 desc: "Memento. EUA, 2000. Escrito por Christopher Nolan baseado em conto de Jonathan Nolan 'Memenro Mori'. Dirigido por Nolan (o Christopher). Com Guy Pearce como o lesado Leonard/Lenny, Carrie-Anne Moss como a misteriosa Natalie, Joe Pantoliano como o duvidoso Teddy. O elenco de Matrix foi convidado a participar?"
 imdb: "0209144"
+img: "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "5/5"
 ---

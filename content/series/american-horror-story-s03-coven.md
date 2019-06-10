@@ -1,5 +1,6 @@
 ---
 imdb: "1844624"
+img: "https://m.media-amazon.com/images/M/MV5BNTIzNDM1NjkwOV5BMl5BanBnXkFtZTgwNDU4ODgxNjM@._V1_SX101_CR0,0,101,150_.jpg"
 date: 2015-11-28
 categories: [ "series" ]
 title: "História de Horror Americana - Coven"

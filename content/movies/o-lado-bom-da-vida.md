@@ -1,5 +1,6 @@
 ---
 imdb: "1045658"
+img: "https://m.media-amazon.com/images/M/MV5BMTM2MTI5NzA3MF5BMl5BanBnXkFtZTcwODExNTc0OA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-02-07"
 categories: [ "movies" ]
 title: "O Lado Bom da Vida"

@@ -1,5 +1,6 @@
 ---
 imdb: "1712170"
+img: "https://m.media-amazon.com/images/M/MV5BMjE1MDE0NjUyMV5BMl5BanBnXkFtZTcwNjQzNjg5Nw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-12-22"
 categories: [ "movies" ]
 title: "A Sombra do Inimigo"

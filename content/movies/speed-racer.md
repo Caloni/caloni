@@ -1,5 +1,6 @@
 ---
 imdb: "0811080"
+img: "https://m.media-amazon.com/images/M/MV5BMWU4Y2RhYzMtYzIxZC00NmRlLTk0OTctNDg1NTg5Yjk4YjQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-11-28"
 categories: [ "movies" ]
 title: "Speed Racer"

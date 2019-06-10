@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "2461150"
+img: "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-08-12"
 categories: [ "movies" ]
 title: "Gênios do Crime"

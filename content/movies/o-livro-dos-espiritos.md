@@ -1,5 +1,6 @@
 ---
 imdb: "2210871"
+img: "https://m.media-amazon.com/images/M/MV5BNDA0OWIyZWItYTE2MC00NDdkLTk5OTEtOTJjODRiNTI1N2U2XkEyXkFqcGdeQXVyMzA3ODYyOTU@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2011-10-08"
 categories: [ "movies" ]
 title: "O Filme dos Espíritos"

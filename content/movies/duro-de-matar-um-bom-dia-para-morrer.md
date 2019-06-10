@@ -1,5 +1,6 @@
 ---
 imdb: "1606378"
+img: "https://m.media-amazon.com/images/M/MV5BMTcwNzgyNzUzOV5BMl5BanBnXkFtZTcwMzAwOTA5OA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-03-06"
 categories: [ "movies" ]
 title: "Duro de Matar Um Bom Dia para Morrer"

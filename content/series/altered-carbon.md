@@ -1,6 +1,7 @@
 ---
 date: 2018-03-04T19:25:26
 imdb: "2261227"
+img: "https://m.media-amazon.com/images/M/MV5BMjQyOTE4NjE0M15BMl5BanBnXkFtZTgwMzcxMzY1NDM@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "3/5"
 title: "Altered Carbon"

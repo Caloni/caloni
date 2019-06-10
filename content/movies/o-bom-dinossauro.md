@@ -1,5 +1,6 @@
 ---
 imdb: "1979388"
+img: "https://m.media-amazon.com/images/M/MV5BMTc5MTg2NjQ4MV5BMl5BanBnXkFtZTgwNzcxOTY5NjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-02-09"
 categories: [ "movies" ]
 title: "O Bom Dinossauro"

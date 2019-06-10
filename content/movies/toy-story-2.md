@@ -1,5 +1,6 @@
 ---
 imdb: "0120363"
+img: "https://m.media-amazon.com/images/M/MV5BMWM5ZDcxMTYtNTEyNS00MDRkLWI3YTItNThmMGExMWY4NDIwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-06-25"
 categories: [ "movies" ]
 title: "Toy Story 2"

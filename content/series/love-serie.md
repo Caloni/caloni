@@ -1,5 +1,6 @@
 ---
 imdb: "4061080"
+img: "https://m.media-amazon.com/images/M/MV5BYzgwMWI4ZGMtOGYyMi00ZmYyLWE0MzUtYmU5MjE1NDQ5MDhmXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-03-01"
 categories: [ "series" ]
 title: "Love - Primeira Temporada"

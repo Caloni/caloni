@@ -1,5 +1,6 @@
 ---
 imdb: "1440161"
+img: "https://m.media-amazon.com/images/M/MV5BNzY1MDkzMTc0NF5BMl5BanBnXkFtZTcwODc5NDU1Nw@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2011-09-21"
 categories: [ "movies" ]
 title: "Pronta Para Amar"

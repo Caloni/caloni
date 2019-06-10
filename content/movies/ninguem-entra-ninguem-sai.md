@@ -2,6 +2,7 @@
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/ninguem-entra-ninguem-sai/"
 imdb: "6230488"
+img: "https://m.media-amazon.com/images/M/MV5BNDIwYzJiNDAtYmNlOS00Y2EwLTllMjktMTlkYmQzNWVkYjJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjg0NTk1NTQ@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-04-18"
 categories: [ "movies" ]
 title: "Ninguém Entra, Ninguém Sai"

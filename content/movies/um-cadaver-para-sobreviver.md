@@ -1,5 +1,6 @@
 ---
 imdb: "4034354"
+img: "https://m.media-amazon.com/images/M/MV5BMTk0OTEyMjM1OF5BMl5BanBnXkFtZTgwMzMzODM4ODE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-01-05"
 categories: [ "movies" ]
 title: "Um Cadáver Para Sobreviver"

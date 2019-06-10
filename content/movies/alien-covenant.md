@@ -1,5 +1,6 @@
 ---
 imdb: "2316204"
+img: "https://m.media-amazon.com/images/M/MV5BYzVkMjRhNzctOGQxMC00OGE2LWJhN2EtNmYyODRiMDNlM2ZmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-05-23"
 categories: [ "movies" ]
 title: "Alien: Covenant"

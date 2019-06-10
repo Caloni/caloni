@@ -1,5 +1,6 @@
 ---
 imdb: "1646975"
+img: "https://m.media-amazon.com/images/M/MV5BMjE3NjY2MDg0MF5BMl5BanBnXkFtZTcwMDIwMjg4NA@@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2010-11-06"
 categories: [ "movies" ]
 title: "As Quatro Voltas"

@@ -1,5 +1,6 @@
 ---
 imdb: "1034314"
+img: "https://m.media-amazon.com/images/M/MV5BMTM2MDg5MzgxNF5BMl5BanBnXkFtZTcwODUzNjMxOA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-09-25"
 categories: [ "movies" ]
 title: "Deu a Louca nos Nazis"

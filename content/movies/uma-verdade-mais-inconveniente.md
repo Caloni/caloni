@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "6322922"
+img: "https://m.media-amazon.com/images/M/MV5BNTkzNTQ0MzA3Ml5BMl5BanBnXkFtZTgwNzg4OTcyMjI@._V1_SX101_CR0,0,101,150_.jpg"
 date: 2017-10-20T21:47:12
 categories: [ "movies" ]
 title: "Uma Verdade Mais Inconveniente"

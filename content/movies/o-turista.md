@@ -1,5 +1,6 @@
 ---
 imdb: "1243957"
+img: "https://m.media-amazon.com/images/M/MV5BMTMyMzc3OTkwMV5BMl5BanBnXkFtZTcwMjc0MTgwNA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2011-02-20"
 categories: [ "movies" ]
 title: "O Turista"

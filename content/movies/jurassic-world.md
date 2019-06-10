@@ -1,5 +1,6 @@
 ---
 imdb: "0369610"
+img: "https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2015-06-24"
 categories: [ "movies" ]
 title: "Jurassic World: O Mundo dos Dinossauros"

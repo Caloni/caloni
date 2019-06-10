@@ -1,6 +1,7 @@
 ---
 title: "Vai que dá Certo"
 imdb: "2220408"
+img: "https://m.media-amazon.com/images/M/MV5BZjQ2YmM1NjEtNjA2NC00ZWFkLTg0MTAtMjg1ZDZiZGQxODAyXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR0,0,101,150_.jpg"
 stars: "3/5"
 date: "2013-04-08"
 categories: [ "movies" ]

@@ -1,6 +1,7 @@
 ---
 cinemaqui: "http://www.cinemaqui.com.br/a-bailarina"
 imdb: "2261287"
+img: "https://m.media-amazon.com/images/M/MV5BZjEzMmFlNWUtYTFhOC00ZDMxLTllZmItZjc3ODMwNTk2ZmNlXkEyXkFqcGdeQXVyNTY2ODgzODg@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-02-01"
 categories: [ "movies" ]
 title: "A Bailarina"

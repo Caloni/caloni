@@ -1,5 +1,6 @@
 ---
 imdb: "4145760"
+img: "https://m.media-amazon.com/images/M/MV5BMjE1NDgxMzQ4M15BMl5BanBnXkFtZTgwODI3NzkwNTE@._V1_SY150_CR6,0,101,150_.jpg"
 date: "2016-05-20"
 categories: [ "series" ]
 title: "The Lizzie Borden Chronicles (piloto)"

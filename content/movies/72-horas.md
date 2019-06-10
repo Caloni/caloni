@@ -1,5 +1,6 @@
 ---
 imdb: "1458175"
+img: "https://m.media-amazon.com/images/M/MV5BMjAzMjk4NjI4M15BMl5BanBnXkFtZTcwNjQ4OTEwNA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2011-01-14"
 categories: [ "movies" ]
 title: "72 horas"

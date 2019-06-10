@@ -1,5 +1,6 @@
 ---
 imdb: "1856010"
+img: "https://m.media-amazon.com/images/M/MV5BODM1MDU2NjY5NF5BMl5BanBnXkFtZTgwMDkxNTcwNjM@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-03-13"
 categories: [ "series" ]
 title: "House of Cards - Primeira Temporada"

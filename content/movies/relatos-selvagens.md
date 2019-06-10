@@ -1,5 +1,6 @@
 ---
 imdb: "3011894"
+img: "https://m.media-amazon.com/images/M/MV5BNzAzMjA1ODAxOV5BMl5BanBnXkFtZTgwODg4NTQzNDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-12-16"
 categories: [ "movies" ]
 title: "Relatos Selvagens"

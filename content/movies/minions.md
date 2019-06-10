@@ -1,5 +1,6 @@
 ---
 imdb: "2293640"
+img: "https://m.media-amazon.com/images/M/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-06-27"
 categories: [ "movies" ]
 title: "Minions"

@@ -2,6 +2,7 @@
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/filhos-de-bach/"
 imdb: "4715290"
+img: "https://m.media-amazon.com/images/M/MV5BYjNlOWNlZmMtZmQzZC00NTJjLWI1ZDUtODBkNDM2NmQwNzNkXkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-04-04"
 categories: [ "movies" ]
 title: "Filhos de Bach"

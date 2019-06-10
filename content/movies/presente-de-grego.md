@@ -1,5 +1,6 @@
 ---
 imdb: "0092605"
+img: "https://m.media-amazon.com/images/M/MV5BMTY4NDY2ODMzOV5BMl5BanBnXkFtZTcwMjQ0MTcyNA@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-05-02"
 categories: [ "movies" ]
 title: "Presente de Grego"

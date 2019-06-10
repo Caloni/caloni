@@ -1,5 +1,6 @@
 ---
 imdb: "5642124"
+img: "https://m.media-amazon.com/images/M/MV5BYjZmMzRiNTMtMGExZS00YWMzLWFiNzEtODg0OWE5YjBmNjBkXkEyXkFqcGdeQXVyNjgxODk1MTM@._V1_SY150_CR1,0,101,150_.jpg"
 date: 2017-10-28T00:35:06
 categories: [ "movies" ]
 title: "O Amante Do Dia"

@@ -1,5 +1,6 @@
 ---
 imdb: "1324999"
+img: "https://m.media-amazon.com/images/M/MV5BODgxNDE0OTAzOF5BMl5BanBnXkFtZTcwNzcwODE2Ng@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-11-17"
 categories: [ "movies" ]
 title: "A Saga Crepúsculo Amanhecer Parte 1"

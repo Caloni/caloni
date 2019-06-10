@@ -1,5 +1,6 @@
 ---
 imdb: "3315342"
+img: "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2017-03-05"
 categories: [ "movies" ]
 title: "Logan"

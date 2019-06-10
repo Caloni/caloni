@@ -1,5 +1,6 @@
 ---
 imdb: "0286112"
+img: "https://m.media-amazon.com/images/M/MV5BZjdiYTBiMDUtNTg0Yy00N2NhLWIxZmEtMTEwNDNlYzRkMGY3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR9,0,101,150_.jpg"
 date: "2014-09-07"
 categories: [ "movies" ]
 title: "Kung-Fu Futebol Clube"

@@ -1,5 +1,6 @@
 ---
 imdb: "1825157"
+img: "https://m.media-amazon.com/images/M/MV5BMTExMzY5MjAwODZeQTJeQWpwZ15BbWU4MDg0NTcxNDAx._V1_SY150_CR2,0,101,150_.jpg"
 date: "2017-03-26"
 categories: [ "movies" ]
 title: "O Duplo"

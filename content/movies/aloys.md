@@ -1,5 +1,6 @@
 ---
 imdb: "5065810"
+img: "https://m.media-amazon.com/images/M/MV5BYzZjMDBhMzQtMDIwYi00MDM3LWIzZmUtNTUzNWIxNjcyMmI0XkEyXkFqcGdeQXVyMTEyNjU4OTA@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2016-10-21"
 categories: [ "movies" ]
 title: "Aloys"

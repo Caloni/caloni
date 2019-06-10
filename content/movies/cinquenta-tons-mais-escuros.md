@@ -1,5 +1,6 @@
 ---
 imdb: "4465564"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2017-02-16"
 categories: [ "movies" ]
 title: "Cinquenta Tons Mais Escuros"

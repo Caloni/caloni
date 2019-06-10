@@ -2,6 +2,7 @@
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/o-rastro/"
 imdb: "4117326"
+img: "https://m.media-amazon.com/images/M/MV5BZjZhZjczMDQtNGRhMS00Yzc0LWIxNTEtYzViZjdmYzY0MjM5L2ltYWdlXkEyXkFqcGdeQXVyNzE5OTIwMjk@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-05-03"
 categories: [ "movies" ]
 title: "O Rastro"

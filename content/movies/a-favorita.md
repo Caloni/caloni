@@ -3,6 +3,7 @@ date: 2018-10-18T22:31:17-03:00
 title: "A Favorita"
 desc: "The Favourite (Irlanda, Reino Unido, EUA, 2018), escrito por Deborah Davis, Tony McNamara, dirigido por Yorgos Lanthimos, com Olivia Colman, Rachel Weisz, Emma Delves, Emma Stone. #mostrasp"
 imdb: "5083738"
+img: "https://m.media-amazon.com/images/M/MV5BMTg1NzQwMDQxNV5BMl5BanBnXkFtZTgwNDg2NDYyNjM@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 cabine: "cinemaqui"

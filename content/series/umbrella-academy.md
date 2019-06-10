@@ -3,6 +3,7 @@ date: 2019-05-15T14:15:00-03:00
 title: "The Umbrella Academy"
 desc: "The Umbrella Academy. Criado por Jeremy Slater (conhecido por péssimos trabalhos), com Ellen Page, Tom Hopper, David Castañeda e mais uma galerinha do barulho."
 imdb: "1312171"
+img: "https://m.media-amazon.com/images/M/MV5BNTFhOTk1NTgtYWM1ZS00NWI1LTgzYzAtYmE5MjZiMDE0NzlhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "3/5"
 ---

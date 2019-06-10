@@ -1,5 +1,6 @@
 ---
 imdb: "0488085"
+img: "https://m.media-amazon.com/images/M/MV5BMTY5NTc2NjYwOV5BMl5BanBnXkFtZTcwMzk5OTY0MQ@@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2016-09-08"
 categories: [ "movies" ]
 title: "Grande Coisa"

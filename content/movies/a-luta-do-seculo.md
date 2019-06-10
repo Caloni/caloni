@@ -3,6 +3,7 @@ date: 2018-08-29T18:39:26-03:00
 title: "A Luta do Século"
 desc: "Idem. Brasil, 2016. Escrito e dirigido por Sérgio Machado."
 imdb: "8201726"
+img: "https://m.media-amazon.com/images/M/MV5BNWZjODI2MTItMjAyYi00YzUwLWJjOWItN2MxYTIyOWExN2Q0XkEyXkFqcGdeQXVyMTUzNTg0MTQ@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 ---

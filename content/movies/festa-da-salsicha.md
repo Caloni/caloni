@@ -3,6 +3,7 @@ date: 2018-06-02T13:33:00-03:00
 title: "Festa da Salsicha"
 desc: "Sausage Party. EUA, 2016. Escrito por um batalhão do besteirol (incluindo Johah Hill e os também produtores Seth Rogen e Evan Goldberg). Dirigido por Greg Tiernan e Conrad Vernon. Dublagem por Seth Rogen, Kristen Wiig, Jonah Hill, Alistair Abell, Iris Apatow, Michael Cera, Sugar Lyn Beard, James Franco, Salma Hayek, Edward Norton, Paul Rudd... eu já falei Kristen Wiig?"
 imdb: "1700841"
+img: "https://m.media-amazon.com/images/M/MV5BMjkxOTk1MzY4MF5BMl5BanBnXkFtZTgwODQzOTU5ODE@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 ---

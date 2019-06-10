@@ -1,5 +1,6 @@
 ---
 imdb: "0120338"
+img: "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX101_CR0,0,101,150_.jpg"
 date: 2017-09-17T23:22:45
 categories: [ "movies" ]
 title: "Titanic"

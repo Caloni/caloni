@@ -1,5 +1,6 @@
 ---
 imdb: "0412019"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ4OTk1MTYxM15BMl5BanBnXkFtZTcwMTYwNjAzMQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-05-07"
 categories: [ "movies" ]
 title: "Flores Partidas"

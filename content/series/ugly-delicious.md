@@ -3,6 +3,7 @@ date: 2018-11-17T18:29:31-02:00
 title: "Ugly Delicious"
 desc: "Ugly Delicious. EUA, 2018. Criado por David Chang. Com David Chang, Peter Meehan, Aziz Ansari."
 imdb: "7907916"
+img: "https://m.media-amazon.com/images/M/MV5BNDY3MTc3NDM3NF5BMl5BanBnXkFtZTgwMjk0NjI5NDM@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "3/5"
 ---

@@ -1,5 +1,6 @@
 ---
 imdb: "0101272"
+img: "https://m.media-amazon.com/images/M/MV5BODc1NmY0MDUtNjUzNS00ODdhLWJlN2ItMTgwZjczZjI0MDkyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR6,0,101,150_.jpg"
 date: "2012-09-19"
 categories: [ "movies" ]
 title: "A Família Addams"

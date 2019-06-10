@@ -1,5 +1,6 @@
 ---
 imdb: "1340138"
+img: "https://m.media-amazon.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2015-10-16"
 categories: [ "movies" ]
 title: "O Exterminador do Futuro: Gênesis"

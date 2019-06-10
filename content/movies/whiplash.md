@@ -1,5 +1,6 @@
 ---
 imdb: "2582802"
+img: "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-04-22"
 categories: [ "movies" ]
 title: "Whiplash: Em Busca da Perfeição"

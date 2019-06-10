@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "2965412"
+img: "https://m.media-amazon.com/images/M/MV5BMTgwMTE4NzAwOF5BMl5BanBnXkFtZTgwNzE0MjkxMzE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-10-09"
 categories: [ "movies" ]
 title: "Eu Estava Justamente Pensando em Você"

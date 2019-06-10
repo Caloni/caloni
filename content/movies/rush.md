@@ -1,5 +1,6 @@
 ---
 imdb: "1979320"
+img: "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-03-20"
 categories: [ "movies" ]
 title: "Rush: No Limite da Emoção"

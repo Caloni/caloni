@@ -1,5 +1,6 @@
 ---
 imdb: "1480656"
+img: "https://m.media-amazon.com/images/M/MV5BMTY1NjI0MDYyNV5BMl5BanBnXkFtZTcwNDIzMDEyOA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-10-12"
 categories: [ "movies" ]
 title: "Cosmópolis"

@@ -1,5 +1,6 @@
 ---
 imdb: "1454029"
+img: "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-12-18"
 categories: [ "movies" ]
 title: "Histórias Cruzadas"

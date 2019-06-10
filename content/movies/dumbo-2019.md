@@ -1,5 +1,6 @@
 ---
 imdb: "3861390"
+img: "https://m.media-amazon.com/images/M/MV5BNjMxMDE0MDI1Ml5BMl5BanBnXkFtZTgwMzExNTU3NjM@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2019-03-22"
 categories: [ "movies" ]
 title: "Dumbo"

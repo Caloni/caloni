@@ -2,6 +2,7 @@
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/paris-pode-esperar/"
 imdb: "4429194"
+img: "https://m.media-amazon.com/images/M/MV5BMTkxMzI4ODYzNl5BMl5BanBnXkFtZTgwODQxODU4MTI@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2017-05-31"
 categories: [ "movies" ]
 title: "Paris Pode Esperar"

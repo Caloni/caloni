@@ -1,5 +1,6 @@
 ---
 imdb: "1663661"
+img: "https://m.media-amazon.com/images/M/MV5BMjA2MjYwOTMwMV5BMl5BanBnXkFtZTgwMDE1NTYwMjE@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2013-01-10"
 categories: [ "movies" ]
 title: "Era Uma Vez Eu Verônica"

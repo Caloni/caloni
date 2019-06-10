@@ -1,5 +1,6 @@
 ---
 imdb: "1959490"
+img: "https://m.media-amazon.com/images/M/MV5BMjI2OTgyNTc0Ml5BMl5BanBnXkFtZTgwNDM1NTQxMTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-04-09"
 categories: [ "movies" ]
 title: "Noé"

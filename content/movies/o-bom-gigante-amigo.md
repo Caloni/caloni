@@ -1,5 +1,6 @@
 ---
 imdb: "3691740"
+img: "https://m.media-amazon.com/images/M/MV5BNjAzOTUzNTY3Ml5BMl5BanBnXkFtZTgwMjYwNzE5ODE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-07-31"
 categories: [ "movies" ]
 title: "O Bom Gigante Amigo"

@@ -1,5 +1,6 @@
 ---
 imdb: "2397535"
+img: "https://m.media-amazon.com/images/M/MV5BMTAzODc3NjU1NzNeQTJeQWpwZ15BbWU4MDk5NTQ4NTMx._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-01-18"
 categories: [ "movies" ]
 title: "O Predestinado"

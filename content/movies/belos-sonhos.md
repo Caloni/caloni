@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "4746506"
+img: "https://m.media-amazon.com/images/M/MV5BMmM1NDllZGItYzM4OC00MzM5LTgzM2EtZTE2ZGM5ODFmODhlXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2016-12-19"
 categories: [ "movies" ]
 title: "Belos Sonhos"

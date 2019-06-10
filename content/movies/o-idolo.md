@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "4686692"
+img: "https://m.media-amazon.com/images/M/MV5BMTc4OTIxNjAyOV5BMl5BanBnXkFtZTgwODk1Mjc3ODE@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2016-12-03"
 categories: [ "movies" ]
 title: "O Ídolo"

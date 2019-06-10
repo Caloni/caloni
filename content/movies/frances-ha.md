@@ -1,5 +1,6 @@
 ---
 imdb: "2347569"
+img: "https://m.media-amazon.com/images/M/MV5BOTY0NDQ2NzQ2N15BMl5BanBnXkFtZTcwMTU0OTkwOQ@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2013-12-29"
 categories: [ "movies" ]
 title: "Frances Ha"

@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "1472584"
+img: "https://m.media-amazon.com/images/M/MV5BMTk2MTMwOTk3N15BMl5BanBnXkFtZTgwMDI5OTYxMDI@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-01-11"
 categories: [ "movies" ]
 title: "Max Steel"

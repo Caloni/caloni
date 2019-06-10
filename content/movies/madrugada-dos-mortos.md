@@ -1,5 +1,6 @@
 ---
 imdb: "0363547"
+img: "https://m.media-amazon.com/images/M/MV5BN2M2ZmU2OGQtNmU5Yi00MTIyLTgwNWMtYjljMzZlYTdiNjBhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-02-14"
 categories: [ "movies" ]
 title: "Madrugada dos Mortos"

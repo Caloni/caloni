@@ -3,6 +3,7 @@ date: 2018-03-27T22:31:52-03:00
 title: "Exorcismos e Demônios"
 categories: [ "movies" ]
 imdb: "4181782"
+img: "https://m.media-amazon.com/images/M/MV5BOTNiYTc2ZDEtODAxMC00NWI3LTlkNTQtNjY4ZTdkN2IxN2FhXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY150_CR2,0,101,150_.jpg"
 stars: "2/5"
 desc: "The Crucifixion (EUA/Reino Unido/Romênia, 2017), escrito por Chad Hayes, Carey W. Hayes, dirigido por Xavier Gens, com Sophie Cookson, Corneliu Ulici, Ada Lupu."
 cabine: "cinemaqui"

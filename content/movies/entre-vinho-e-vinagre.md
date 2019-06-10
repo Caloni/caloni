@@ -3,6 +3,7 @@ date: 2019-05-11T11:26:07-03:00
 title: "Entre Vinho e Vinagre"
 desc: "Wine Country. EUA, 2019. Dirigido por Amy Poehler, escrito por Liz Cackowski, Emily Spivey, com Amy Poehler, Rachel Dratch, Ana Gasteyer, Maya Rudolph, Paula Pell, Emily Spivey, Jay Larson, Tina Fey e Maya Erskine."
 imdb: "8169446"
+img: "https://m.media-amazon.com/images/M/MV5BZjIzNzU3MmUtZGY1OS00MWRjLTlkYzItNjgzYjljNmJiNGZjXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 ---

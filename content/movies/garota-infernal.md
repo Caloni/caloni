@@ -1,5 +1,6 @@
 ---
 imdb: "1131734"
+img: "https://m.media-amazon.com/images/M/MV5BMTMxNzYwMjc1Ml5BMl5BanBnXkFtZTcwNDI3MDE3Mg@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2011-05-21"
 categories: [ "movies" ]
 title: "Garota Infernal"

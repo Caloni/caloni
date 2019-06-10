@@ -2,6 +2,7 @@
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/silencio/"
 imdb: "0490215"
+img: "https://m.media-amazon.com/images/M/MV5BMjY3OTk0NjA2NV5BMl5BanBnXkFtZTgwNTg3Mjc2MDI@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2017-02-22"
 categories: [ "movies" ]
 title: "Silêncio"

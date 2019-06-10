@@ -3,6 +3,7 @@ date: 2019-01-29T13:20:20-02:00
 title: "Os Especialistas"
 desc: "Killer Elite. Reino Unido, Austrália, 2011. Escrito por Matt Sherring baseado no romance biográfico de Ranulph Fiennes. Dirigido por Gary McKendry. Com Jason Stahan, Clive Owen, Robert De Niro, Yvonne Strahovski, Ben Meldelsohn."
 imdb: "1448755"
+img: "https://m.media-amazon.com/images/M/MV5BMTc4MDAxMjAzNV5BMl5BanBnXkFtZTcwNTY3ODg3NQ@@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 ---

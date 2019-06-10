@@ -2,6 +2,7 @@
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/eu-nao-sou-seu-negro"
 imdb: "5804038"
+img: "https://m.media-amazon.com/images/M/MV5BZWIzYTIxYWYtMzk0MC00ODFlLTljZjItN2MzYmNhMjRlOTRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2017-01-31"
 categories: [ "movies" ]
 title: "Eu Não Sou Seu Negro"

@@ -1,5 +1,6 @@
 ---
 imdb: "0085794"
+img: "https://m.media-amazon.com/images/M/MV5BNTAyNDM0OGMtMmQ5OS00OGJiLTljMDUtY2Y1OTFlYmM2ZTk2XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2016-07-20"
 categories: [ "movies" ]
 title: "O Rei da Comédia"

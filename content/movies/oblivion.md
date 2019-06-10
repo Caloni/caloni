@@ -1,5 +1,6 @@
 ---
 imdb: "1483013"
+img: "https://m.media-amazon.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-04-06"
 categories: [ "movies" ]
 title: "Oblivion"

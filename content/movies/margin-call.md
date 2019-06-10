@@ -1,5 +1,6 @@
 ---
 imdb: "1615147"
+img: "https://m.media-amazon.com/images/M/MV5BMjE5NzkyNDI2Nl5BMl5BanBnXkFtZTcwMTYzNDc2Ng@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-12-21"
 categories: [ "movies" ]
 title: "Margin Call - O Dia Antes do Fim"

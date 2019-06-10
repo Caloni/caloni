@@ -3,6 +3,7 @@ date: 2019-02-26T23:54:25-03:00
 title: "Até que a Gente te Separe"
 desc: "The Breaker Upperers. Nova Zelândia, 2018. Escrito, dirigido e atuado por Madeleine Sami, Jackie van Beek. Também com James Rolleston e Rima Te Wiata."
 imdb: "6728096"
+img: "https://m.media-amazon.com/images/M/MV5BMWY1Mzg4OTItN2I0Yi00OTlhLWI4NmUtOTU3OThiNmUxNGNlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 ---

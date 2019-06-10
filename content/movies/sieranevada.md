@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "4466490"
+img: "https://m.media-amazon.com/images/M/MV5BMjk0ZGNiOWMtYmUzMi00ZWMzLWE5MjAtNWJkODBiYWJjYWY3XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2016-11-30"
 categories: [ "movies" ]
 title: "Sieranevada"

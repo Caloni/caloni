@@ -1,5 +1,6 @@
 ---
 imdb: "3069212"
+img: "https://m.media-amazon.com/images/M/MV5BNzg1ODQ2MzUxOV5BMl5BanBnXkFtZTgwMjg2MDk4MDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-10-05"
 categories: [ "series" ]
 title: "Street Fighter: Assassin's Fist"

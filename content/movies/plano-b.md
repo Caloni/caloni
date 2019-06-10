@@ -1,5 +1,6 @@
 ---
 imdb: "1212436"
+img: "https://m.media-amazon.com/images/M/MV5BNjAzODM4NTc1OF5BMl5BanBnXkFtZTcwNDU2ODUzMw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-06-11"
 categories: [ "movies" ]
 title: "Plano B"

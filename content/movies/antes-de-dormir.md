@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "1726592"
+img: "https://m.media-amazon.com/images/M/MV5BNjI0NTAwMTU1NV5BMl5BanBnXkFtZTgwNzkwNjQ0MjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-01-15"
 categories: [ "movies" ]
 title: "Antes de Dormir"

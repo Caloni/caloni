@@ -1,5 +1,6 @@
 ---
 imdb: "0318034"
+img: "https://m.media-amazon.com/images/M/MV5BMjEyNDEwOTU0NV5BMl5BanBnXkFtZTYwNjk0NTk5._V1_SY150_CR1,0,101,150_.jpg"
 date: "2011-03-28"
 categories: [ "movies" ]
 title: "Arca Russa"

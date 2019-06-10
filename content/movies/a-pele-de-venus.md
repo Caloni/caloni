@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "2406252"
+img: "https://m.media-amazon.com/images/M/MV5BMjM0ODgyOTM1Ml5BMl5BanBnXkFtZTgwMzI5ODM4MTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-09-16"
 categories: [ "movies" ]
 title: "A Pele de Vênus"

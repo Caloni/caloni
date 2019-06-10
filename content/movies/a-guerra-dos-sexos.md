@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "4622512"
+img: "https://m.media-amazon.com/images/M/MV5BZTljYmU2NTMtODhhNC00NjlhLWJhZTUtNDllODYyYWM4ZjA5XkEyXkFqcGdeQXVyNjM0ODk5NDY@._V1_SX101_CR0,0,101,150_.jpg"
 date: 2017-10-11T20:23:34
 categories: [ "movies" ]
 title: "A Guerra dos Sexos"

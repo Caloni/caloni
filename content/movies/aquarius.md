@@ -1,5 +1,6 @@
 ---
 imdb: "5221584"
+img: "https://m.media-amazon.com/images/M/MV5BMjg0NTc2MTM4M15BMl5BanBnXkFtZTgwMjIyMjc4ODE@._V1_SY150_CR4,0,101,150_.jpg"
 date: "2017-01-13"
 categories: [ "movies" ]
 title: "Aquarius"

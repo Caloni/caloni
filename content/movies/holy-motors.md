@@ -1,5 +1,6 @@
 ---
 imdb: "2076220"
+img: "https://m.media-amazon.com/images/M/MV5BODk2MDc4MDk2OF5BMl5BanBnXkFtZTcwMTcyODY1OA@@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2014-05-15"
 categories: [ "movies" ]
 title: "Holy Motors"

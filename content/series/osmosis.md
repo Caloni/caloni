@@ -3,6 +3,7 @@ date: 2019-04-16T00:08:53-03:00
 title: "Osmosis"
 desc: "Osmosis. França, 2019. Criado por Audrey Fouché. Com Agathe Bonitzer, Hugo Becker, Gaël Kamilindi."
 imdb: "7043380"
+img: "https://m.media-amazon.com/images/M/MV5BNDY3YTI2MjMtMTljYi00OWFiLTlmN2YtNzVhYTA3ZGY3NDdkXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "3/5"
 ---

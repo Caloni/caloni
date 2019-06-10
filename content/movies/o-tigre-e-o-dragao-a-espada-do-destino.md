@@ -1,5 +1,6 @@
 ---
 imdb: "2652118"
+img: "https://m.media-amazon.com/images/M/MV5BMTA2MzM5NTk4NTBeQTJeQWpwZ15BbWU4MDk0NjgyNDcx._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-03-09"
 categories: [ "movies" ]
 title: "O Tigre e o Dragão: A Espada do Destino"

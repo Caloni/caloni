@@ -1,5 +1,6 @@
 ---
 imdb: "2473682"
+img: "https://m.media-amazon.com/images/M/MV5BMjAwNDAxMjc0N15BMl5BanBnXkFtZTgwNDcyNDU3MDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-01-12"
 categories: [ "movies" ]
 title: "Atividade Paranormal Marcados pelo Mal"

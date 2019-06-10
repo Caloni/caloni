@@ -1,5 +1,6 @@
 ---
 imdb: "1027718"
+img: "https://m.media-amazon.com/images/M/MV5BMTU5MDEzMzYwMF5BMl5BanBnXkFtZTcwNTcwMjUxMw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-09-24"
 categories: [ "movies" ]
 title: "Wall Street O Dinheiro Nunca Dorme"

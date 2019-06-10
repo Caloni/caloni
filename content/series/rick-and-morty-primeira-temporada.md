@@ -1,5 +1,6 @@
 ---
 imdb: "2861424"
+img: "https://m.media-amazon.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2017-01-01"
 categories: [ "series" ]
 title: "Rick and Morty - Primeira Temporada"

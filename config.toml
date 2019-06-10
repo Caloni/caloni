@@ -8,6 +8,7 @@ preserveTaxonomyNames = true
 footnotereturnlinkcontents = "?"
 PygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
+enableGitInfo = true
 
 [taxonomies]
      category = "categories"

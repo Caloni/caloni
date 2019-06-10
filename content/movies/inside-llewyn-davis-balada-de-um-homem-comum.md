@@ -1,5 +1,6 @@
 ---
 imdb: "2042568"
+img: "https://m.media-amazon.com/images/M/MV5BMjAxNjcyNDQxM15BMl5BanBnXkFtZTgwNzU2NDA0MDE@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-03-24"
 categories: [ "movies" ]
 title: "Inside Llewyn Davis Balada de Um Homem Comum"

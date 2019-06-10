@@ -1,5 +1,6 @@
 ---
 imdb: "1142977"
+img: "https://m.media-amazon.com/images/M/MV5BY2UwYWI3MTktM2MxNC00MjRhLTlkMWEtYTNjMjRkOTIwOTkyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-11-16"
 categories: [ "movies" ]
 title: "Frankenweenie"

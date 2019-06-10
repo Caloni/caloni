@@ -1,5 +1,6 @@
 ---
 imdb: "4540434"
+img: "https://m.media-amazon.com/images/M/MV5BODk0MTc5MjgwM15BMl5BanBnXkFtZTgwNTQ4Mzc5NzE@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2017-04-01"
 categories: [ "movies" ]
 title: "Paradox"

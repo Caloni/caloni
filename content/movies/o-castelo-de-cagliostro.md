@@ -3,6 +3,7 @@ date: 2019-05-25T14:53:23-03:00
 title: "O Castelo de Cagliostro"
 desc: "Rupan sansei: Kariosutoro no shiro. Japão, 1979. Dirigido por Hayao Miyazaki. Roteiro de Miyazaki e Haruya Yamazaki baseado no mangá de Monkey Punch com personagens de Maurice Leblanc. Com Yasuo Yamada, Eiko Masuyama, Kiyoshi Kobayashi."
 imdb: "0079833"
+img: "https://m.media-amazon.com/images/M/MV5BNjAzNWJlMDYtMDZmZi00NGYyLWI5MDAtODIzYTRjYTYxN2ZjXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 ---

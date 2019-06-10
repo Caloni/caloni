@@ -1,5 +1,6 @@
 ---
 imdb: "3268030"
+img: "https://m.media-amazon.com/images/M/MV5BMjM1MDc0NTE1NV5BMl5BanBnXkFtZTgwNzY0ODMzMjE@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2015-10-25"
 categories: [ "movies" ]
 title: "Advanced Style"

@@ -1,5 +1,6 @@
 ---
 imdb: "2231138"
+img: "https://m.media-amazon.com/images/M/MV5BNTgxMzUxMDc3Ml5BMl5BanBnXkFtZTgwNDgxODE2MDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-11-17"
 categories: [ "movies" ]
 title: "Some Velvet Morning"

@@ -1,5 +1,6 @@
 ---
 imdb: "2217458"
+img: "https://m.media-amazon.com/images/M/MV5BMzA1Mjk2NDM0MV5BMl5BanBnXkFtZTgwOTQ0OTk1MDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-08-26"
 categories: [ "movies" ]
 title: "Flores Raras"

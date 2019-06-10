@@ -3,6 +3,7 @@ date: 2018-05-19T17:15:39-03:00
 title: "Deadpool 2"
 categories: [ "movies" ]
 imdb: "5463162"
+img: "https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_SY150_CR24,0,101,150_.jpg"
 stars: "3/5"
 desc: "Deadpool 2 (EUA, 2018). Escrito pelos verdadeiros vilões (Rhett Reese, Paul Wernick e Ryan Reynolds baseados nos quadrinhos de Rob Liefeld e Fabian Nicieza). Dirigido por David Leitch. Com Josh Brolin, Ryan Reynolds, Morena Baccarin."
 ---

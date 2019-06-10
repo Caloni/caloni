@@ -1,5 +1,6 @@
 ---
 imdb: "2503944"
+img: "https://m.media-amazon.com/images/M/MV5BNjEzNTk2OTEwNF5BMl5BanBnXkFtZTgwNzExMTg0NjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-01-14"
 categories: [ "movies" ]
 title: "Pegando Fogo"

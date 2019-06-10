@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "3810810"
+img: "https://m.media-amazon.com/images/M/MV5BMzVmMjllOGQtYTI1Zi00MzM2LTkzMDQtYmYwODRhNjNmOGQyXkEyXkFqcGdeQXVyNTQyNzA5ODg@._V1_SY150_CR1,0,101,150_.jpg"
 date: 2017-11-16T21:51:11
 categories: [ "movies" ]
 title: "Ninguém Está Olhando"

@@ -1,5 +1,6 @@
 ---
 imdb: "2582846"
+img: "https://m.media-amazon.com/images/M/MV5BMjA4NzkxNzc5Ml5BMl5BanBnXkFtZTgwNzQ3OTMxMTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-06-14"
 categories: [ "movies" ]
 title: "A Culpa é das Estrelas"

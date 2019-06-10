@@ -3,6 +3,7 @@ date: 2018-05-04T23:51:41-03:00
 title: "Psychokinesis"
 categories: [ "movies" ]
 imdb: "6890582"
+img: "https://m.media-amazon.com/images/M/MV5BNDQxZjlhZDQtNzEzMS00NGQ5LWEwMzMtZTM0NWI2NmViZWRmXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SY150_CR2,0,101,150_.jpg"
 stars: "4/5"
 desc: "Yeom-lyeok (Coreia do Sul, 2018). Escrito e dirigido por Sang-ho Yeon. Com Seung-ryong Ryu, Eun-kyung Shim, Jung-min Park."
 ---

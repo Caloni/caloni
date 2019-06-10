@@ -1,5 +1,6 @@
 ---
 imdb: "0097239"
+img: "https://m.media-amazon.com/images/M/MV5BMDE2ZTY3YmUtZTFhYy00ZmU2LWI2NjktY2NmZGZlYjg5OGMwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2013-07-11"
 categories: [ "movies" ]
 title: "Conduzindo Miss Daisy"

@@ -3,6 +3,7 @@ date: 2018-03-18T22:52:13-03:00
 title: "Por que Madoka Mágica é o estado da arte no mundo dos animes? Analisando o piloto."
 categories: [ "series" ]
 imdb: "1773185"
+img: "https://m.media-amazon.com/images/M/MV5BZGYyZDlhY2YtMmYwNC00YjM3LWEwZDEtMTRhOWI5NDViM2NlXkEyXkFqcGdeQXVyMjk0NTE0NA@@._V1_SX101_CR0,0,101,150_.jpg"
 stars: "5/5"
 desc: "Puella Magi Madoka Magica (2011). Dirigido por Akiyuki Shinbo. Escrito por Gen Urobuchi (personagens por Ume Aoki). Com Aoi Yûki (Madoka Kaname), Chiwa Saitô (Homura), Emiri Kato (Kyubey)"
 ---

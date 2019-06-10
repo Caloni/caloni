@@ -1,5 +1,6 @@
 ---
 imdb: "2327430"
+img: "https://m.media-amazon.com/images/M/MV5BMjMwMDYyNjc5N15BMl5BanBnXkFtZTgwOTYyNTQzMTE@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2012-12-19"
 categories: [ "movies" ]
 title: "Liv e Igmar Uma História de Amor"

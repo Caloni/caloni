@@ -1,5 +1,6 @@
 ---
 imdb: "1417067"
+img: "https://m.media-amazon.com/images/M/MV5BMjI1MDQ4NzM5OV5BMl5BanBnXkFtZTcwMzE2NTkyNw@@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2010-11-01"
 categories: [ "movies" ]
 title: "Circus Columbia"

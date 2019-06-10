@@ -1,5 +1,6 @@
 ---
 imdb: "0963966"
+img: "https://m.media-amazon.com/images/M/MV5BNDY3NzQ0NjYxM15BMl5BanBnXkFtZTcwMDkzODM2Mw@@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2010-08-13"
 categories: [ "movies" ]
 title: "O Aprendiz de Feiticeiro"

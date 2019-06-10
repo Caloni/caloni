@@ -1,5 +1,6 @@
 ---
 imdb: "1099212"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-06-10"
 categories: [ "movies" ]
 title: "Crepúsculo"

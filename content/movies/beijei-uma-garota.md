@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "4255626"
+img: "https://m.media-amazon.com/images/M/MV5BOTdlNmU0MGYtOWJjOC00NTliLTk1M2UtZjlmZDZhMTY1ZmI1XkEyXkFqcGdeQXVyMzI4MzkxNTY@._V1_SY150_CR5,0,101,150_.jpg"
 date: "2015-06-10"
 categories: [ "movies" ]
 title: "Beijei uma Garota"

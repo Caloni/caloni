@@ -1,5 +1,6 @@
 ---
 imdb: "1847731"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ2MTI2OTEwNF5BMl5BanBnXkFtZTcwODUwMzc3Ng@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-01-15"
 categories: [ "movies" ]
 title: "Tomboy"

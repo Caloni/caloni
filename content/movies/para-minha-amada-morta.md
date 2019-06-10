@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "3806654"
+img: "https://m.media-amazon.com/images/M/MV5BMjZjNDc5YjktZTFiOC00ZGJiLTg2ZDMtMzI5ZmViNDQ5MjY5XkEyXkFqcGdeQXVyMjY2NDA2MzM@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2016-03-29"
 categories: [ "movies" ]
 title: "Para Minha Amada Morta"

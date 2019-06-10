@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "3082854"
+img: "https://m.media-amazon.com/images/M/MV5BMTRhMzYxMzUtMmQ4NC00MGNiLWJmNTUtYzhmOTBmZTg0NjM1XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-08-04"
 categories: [ "movies" ]
 title: "A Comunidade"

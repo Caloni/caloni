@@ -1,5 +1,6 @@
 ---
 imdb: "1512235"
+img: "https://m.media-amazon.com/images/M/MV5BMTcxMDkxNjI1NF5BMl5BanBnXkFtZTcwMzE5Njc1NA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-08-05"
 categories: [ "movies" ]
 title: "Super"

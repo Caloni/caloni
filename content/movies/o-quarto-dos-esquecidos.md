@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "2364897"
+img: "https://m.media-amazon.com/images/M/MV5BMTE0MTE3MzI4ODFeQTJeQWpwZ15BbWU4MDI1MDI0ODkx._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-10-11"
 categories: [ "movies" ]
 title: "O Quarto dos Esquecidos"

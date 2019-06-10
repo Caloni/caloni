@@ -1,5 +1,6 @@
 ---
 imdb: "1639109"
+img: "https://m.media-amazon.com/images/M/MV5BN2RkZjk0ODctNWE0MS00MjFlLTliMDMtZTFhMWM2NTAxMDg1XkEyXkFqcGdeQXVyNjc0ODMyMDc@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-11-04"
 categories: [ "series" ]
 title: "Angel Beats!"

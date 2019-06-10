@@ -1,5 +1,6 @@
 ---
 imdb: "1477855"
+img: "https://m.media-amazon.com/images/M/MV5BNjU1MzU3Nzc4OF5BMl5BanBnXkFtZTcwOTk5NDI4Nw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-02-08"
 categories: [ "movies" ]
 title: "Um Final de Semana em Hyde Park"

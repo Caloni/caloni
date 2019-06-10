@@ -1,5 +1,6 @@
 ---
 imdb: "3385516"
+img: "https://m.media-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-06-27"
 categories: [ "movies" ]
 title: "X-Men: Apocalipse"

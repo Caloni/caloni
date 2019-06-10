@@ -1,5 +1,6 @@
 ---
 imdb: "0831387"
+img: "https://m.media-amazon.com/images/M/MV5BN2E4ZDgxN2YtZjExMS00MWE5LTg3NjQtNTkxMzJhOTA3MDQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-05-28"
 categories: [ "movies" ]
 title: "Godzilla"

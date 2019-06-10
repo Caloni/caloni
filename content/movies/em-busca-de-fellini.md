@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "4801232"
+img: "https://m.media-amazon.com/images/M/MV5BMTUyNDkwNzYxMV5BMl5BanBnXkFtZTgwMjA4OTYxMzI@._V1_SY150_CR0,0,101,150_.jpg"
 date: 2017-11-23T00:35:20
 categories: [ "movies" ]
 title: "Em Busca de Fellini"

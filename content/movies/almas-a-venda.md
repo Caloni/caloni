@@ -1,5 +1,6 @@
 ---
 imdb: "1127877"
+img: "https://m.media-amazon.com/images/M/MV5BMTMwMjA1ODA4OF5BMl5BanBnXkFtZTcwMjA3NjU2Mg@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-06-09"
 categories: [ "movies" ]
 title: "Almas à venda"

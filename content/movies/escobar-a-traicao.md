@@ -3,6 +3,7 @@ date: 2018-08-14T15:59:22-03:00
 title: "Escobar - A Traição"
 desc: "Loving Pablo (Espanha, Bulgária, 2017), escrito por Fernando León de Aranoa baseado no livro de Virginia Vallejo, dirigido por Aranoa, com Javier Bardem, Penélope Cruz, Peter Sarsgaard."
 imdb: "4682788"
+img: "https://m.media-amazon.com/images/M/MV5BMTAwODJhN2YtMzUwMy00ZjI1LTllNGYtNTA3YTk5MTEyY2M2XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 cabine: "cinemaqui"

@@ -1,5 +1,6 @@
 ---
 imdb: "0414387"
+img: "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-07-20"
 categories: [ "movies" ]
 title: "Orgulho e Preconceito"

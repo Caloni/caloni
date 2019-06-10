@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "4072352"
+img: "https://m.media-amazon.com/images/M/MV5BMjI1NDU4OTM2Ml5BMl5BanBnXkFtZTgwMjgxMTc2OTE@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2016-09-17"
 categories: [ "movies" ]
 title: "A Passageira"

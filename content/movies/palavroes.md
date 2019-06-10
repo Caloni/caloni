@@ -1,5 +1,6 @@
 ---
 imdb: "2170299"
+img: "https://m.media-amazon.com/images/M/MV5BMTYwNTg0NzQ1NF5BMl5BanBnXkFtZTgwMDQ5OTMwMTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-06-26"
 categories: [ "movies" ]
 title: "Palavrões"

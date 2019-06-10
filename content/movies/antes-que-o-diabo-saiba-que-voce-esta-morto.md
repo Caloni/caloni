@@ -1,5 +1,6 @@
 ---
 imdb: "0292963"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ1NzM2ODQxNF5BMl5BanBnXkFtZTcwMDczMDU1MQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-05-02"
 categories: [ "movies" ]
 title: "Antes que o Diabo Saiba que Você Está Morto"

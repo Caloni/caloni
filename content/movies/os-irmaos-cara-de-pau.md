@@ -1,5 +1,6 @@
 ---
 imdb: "0080455"
+img: "https://m.media-amazon.com/images/M/MV5BYTdlMDExOGUtN2I3MS00MjY5LWE1NTAtYzc3MzIxN2M3OWY1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-03-30"
 categories: [ "movies" ]
 title: "Os Irmãos Cara de Pau"

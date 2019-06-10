@@ -1,5 +1,6 @@
 ---
 imdb: "3064298"
+img: "https://m.media-amazon.com/images/M/MV5BMTUzODcxNDcxMl5BMl5BanBnXkFtZTgwODE1NjM4NTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-09-25"
 categories: [ "movies" ]
 title: "Man Up"

@@ -1,5 +1,6 @@
 ---
 imdb: "0120533"
+img: "https://m.media-amazon.com/images/M/MV5BOWY0ZjYyMTItNjNlMi00NWI5LTkzY2MtYTczNjcyNDMwMTJmXkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2013-01-24"
 categories: [ "movies" ]
 title: "Celebridades"

@@ -1,5 +1,6 @@
 ---
 imdb: "0432289"
+img: "https://m.media-amazon.com/images/M/MV5BNDA0OTM5MzQ3M15BMl5BanBnXkFtZTcwMjM2NzI0MQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-08-10"
 categories: [ "movies" ]
 title: "Marcas do Passado"

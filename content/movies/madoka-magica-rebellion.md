@@ -1,5 +1,6 @@
 ---
 imdb: "2457282"
+img: "https://m.media-amazon.com/images/M/MV5BMTU4MDUxMzcxMV5BMl5BanBnXkFtZTgwNzI5MDU2MDE@._V1_SY150_CR3,0,101,150_.jpg"
 date: "2015-06-27"
 categories: [ "movies" ]
 title: "Puella Magi Madoka Magica the Movie Part III: Rebellion"

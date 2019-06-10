@@ -1,5 +1,6 @@
 ---
 imdb: "0805564"
+img: "https://m.media-amazon.com/images/M/MV5BMTI4NDc1NDkwMV5BMl5BanBnXkFtZTcwNjgzMDE1MQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-09-07"
 categories: [ "movies" ]
 title: "A Garota Ideal"

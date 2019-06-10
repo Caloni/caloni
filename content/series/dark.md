@@ -1,6 +1,7 @@
 ---
 date: 2018-01-30T19:52:28
 imdb: "5753856"
+img: "https://m.media-amazon.com/images/M/MV5BMTUzNjQ2MTY5NV5BMl5BanBnXkFtZTgwOTAzNTQxNDM@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "3/5"
 title: "Dark"

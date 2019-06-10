@@ -1,5 +1,6 @@
 ---
 imdb: "1859650"
+img: "https://m.media-amazon.com/images/M/MV5BMTcwNTg4MDMxM15BMl5BanBnXkFtZTcwNjAzMzY3Nw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-07-03"
 categories: [ "movies" ]
 title: "Para Roma com Amor"

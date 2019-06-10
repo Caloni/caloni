@@ -3,6 +3,7 @@ date: 2018-05-01T14:47:29-03:00
 title: "Acertando o Passo"
 categories: [ "movies" ]
 imdb: "4538916"
+img: "https://m.media-amazon.com/images/M/MV5BMTk1MzE5MDMxOF5BMl5BanBnXkFtZTgwODg5NjY4NDM@._V1_SY150_CR0,0,101,150_.jpg"
 stars: "4/5"
 desc: "Finding Your Feet (Reino Unido, 2017), escrito por Meg Leonard e Nick Moorcroft, dirigido por Richard Loncraine, com Celia Imrie, Joanna Lumley, Timothy Spall."
 cabine: "cinemaqui"

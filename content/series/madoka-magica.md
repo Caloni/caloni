@@ -1,5 +1,6 @@
 ---
 imdb: "1773185"
+img: "https://m.media-amazon.com/images/M/MV5BZGYyZDlhY2YtMmYwNC00YjM3LWEwZDEtMTRhOWI5NDViM2NlXkEyXkFqcGdeQXVyMjk0NTE0NA@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-04-14"
 categories: [ "series" ]
 title: "Madoka Magica"

@@ -1,5 +1,6 @@
 ---
 imdb: "0372588"
+img: "https://m.media-amazon.com/images/M/MV5BMTM2Nzc4NjYxMV5BMl5BanBnXkFtZTcwNTM1MTcyMQ@@._V1_SY150_CR3,0,101,150_.jpg"
 date: "2014-03-19"
 categories: [ "movies" ]
 title: "Team America Detonando o Mundo"

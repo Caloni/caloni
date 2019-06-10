@@ -1,5 +1,6 @@
 ---
 imdb: "2234155"
+img: "https://m.media-amazon.com/images/M/MV5BMjM1MzczMDgwOV5BMl5BanBnXkFtZTcwMDM4NjM2OQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-03-07"
 categories: [ "movies" ]
 title: "Os Estagiários"

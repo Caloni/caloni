@@ -3,6 +3,7 @@ date: 2018-11-07T15:12:49-02:00
 title: "Entrevista Com Deus"
 desc: "An Interview with God (EUA, 2018), escrito por Ken Aguado, dirigido por Perry Lang, com Brenton Thwaites, David Strathairn, Yael Grobglas, Hill Harper, Charlbi Dean Kriek. Religião, metáforas."
 imdb: "5779372"
+img: "https://m.media-amazon.com/images/M/MV5BMTk0ODQ3MzM5Nl5BMl5BanBnXkFtZTgwMzkyOTY4NTM@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 cabine: "cinemaqui"

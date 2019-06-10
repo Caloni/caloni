@@ -2,6 +2,7 @@
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/variacoes-de-casanova/"
 imdb: "2614400"
+img: "https://m.media-amazon.com/images/M/MV5BZmMxY2Y3MTItNGI4YS00ZDE2LTliZDEtYjI5MjIyZDJkYTQyXkEyXkFqcGdeQXVyMjUyMTE3MTc@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-04-11"
 categories: [ "movies" ]
 title: "Variações de Casanova"

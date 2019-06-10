@@ -1,5 +1,6 @@
 ---
 imdb: "1054606"
+img: "https://m.media-amazon.com/images/M/MV5BMTY4Njg4NTA3Nl5BMl5BanBnXkFtZTcwNzYxMzg5Mg@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-03-22"
 categories: [ "movies" ]
 title: "O Mundo Imaginário do Doutor Parnassus"

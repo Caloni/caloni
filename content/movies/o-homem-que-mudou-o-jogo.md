@@ -1,5 +1,6 @@
 ---
 imdb: "1210166"
+img: "https://m.media-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-03-06"
 categories: [ "movies" ]
 title: "O Homem Que Mudou o Jogo"

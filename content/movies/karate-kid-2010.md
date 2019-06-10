@@ -1,5 +1,6 @@
 ---
 imdb: "1155076"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ0ODg3ODEyMF5BMl5BanBnXkFtZTcwNjI1MTgxMw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-08-27"
 categories: [ "movies" ]
 title: "Karate Kid"

@@ -1,5 +1,6 @@
 ---
 imdb: "0254235"
+img: "https://m.media-amazon.com/images/M/MV5BMjA0MTE2Mjg0N15BMl5BanBnXkFtZTYwNDA1ODc5._V1_SY150_CR3,0,101,150_.jpg"
 date: "2010-12-20"
 categories: [ "movies" ]
 title: "Concorrência Desleal"

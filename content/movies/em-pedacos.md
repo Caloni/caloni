@@ -1,6 +1,7 @@
 ---
 date: 2018-01-30T17:55:35
 imdb: "5723272"
+img: "https://m.media-amazon.com/images/M/MV5BODc2NTkyZjEtMTYxNC00YTJmLTgzZjMtNTVmOTZmNDBhMjQ5XkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 title: "Em Pedaços"

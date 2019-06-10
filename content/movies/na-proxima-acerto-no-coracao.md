@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "3324494"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ1MzA1NjIwN15BMl5BanBnXkFtZTgwMTc0NDg5MjE@._V1_SY150_CR6,0,101,150_.jpg"
 date: "2015-06-08"
 categories: [ "movies" ]
 title: "Na Próxima, Acerto no Coração"

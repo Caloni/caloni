@@ -1,5 +1,6 @@
 ---
 imdb: "2087864"
+img: "https://m.media-amazon.com/images/M/MV5BZTJmMzI1NDgtMTJkMS00NjlhLWJiZTItZjE5NDU4ZTVjNzI2XkEyXkFqcGdeQXVyMDk2Mzc2MA@@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2011-10-25"
 categories: [ "movies" ]
 title: "Là-bas A Criminal Education"

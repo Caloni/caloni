@@ -1,5 +1,6 @@
 ---
 imdb: "4877122"
+img: "https://m.media-amazon.com/images/M/MV5BMTkzMzM3OTM2Ml5BMl5BanBnXkFtZTgwMDM0NDU3MjI@._V1_SY150_CR0,0,101,150_.jpg"
 date: 2017-11-23T01:21:08
 categories: [ "movies" ]
 title: "Emoji: O Filme"

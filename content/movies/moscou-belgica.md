@@ -1,5 +1,6 @@
 ---
 imdb: "0948530"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ2NTE2MDkwN15BMl5BanBnXkFtZTcwNzQwMTAyMg@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-09-24"
 categories: [ "movies" ]
 title: "Moscow Belgium"

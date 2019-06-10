@@ -1,5 +1,6 @@
 ---
 imdb: "0106677"
+img: "https://m.media-amazon.com/images/M/MV5BMTM5MDY5MDQyOV5BMl5BanBnXkFtZTgwMzM3NzMxMDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-09-09"
 categories: [ "movies" ]
 title: "Jovens, Loucos e Rebeldes"

@@ -1,5 +1,6 @@
 ---
 imdb: "0977642"
+img: "https://m.media-amazon.com/images/M/MV5BZmM3OGMyMmMtMzFkMS00YzY1LWJlNDQtYTNlYWYyZTVmMzU0XkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2012-11-04"
 categories: [ "movies" ]
 title: "Chega de Saudade"

@@ -1,6 +1,7 @@
 ---
 date: 2018-02-06T20:39:26
 imdb: "0093822"
+img: "https://m.media-amazon.com/images/M/MV5BOGUwZTEwZTYtZmQ0OS00NmM1LWE2ZTQtNjZiYmE4ZmUxMjk1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 title: "Arizona Nunca Mais"

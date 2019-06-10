@@ -1,5 +1,6 @@
 ---
 imdb: "3488710"
+img: "https://m.media-amazon.com/images/M/MV5BNTY4MzA4Mzc5Nl5BMl5BanBnXkFtZTgwNDIzMzk5NjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-12-15"
 categories: [ "movies" ]
 title: "A Travessia"

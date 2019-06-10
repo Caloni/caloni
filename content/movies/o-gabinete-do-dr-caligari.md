@@ -3,6 +3,7 @@ date: 2019-03-30T17:46:15-03:00
 title: "O Gabinete do Dr Caligari"
 desc: "Das Cabinet des Dr. Caligari. Alemanha, 1920. Dirigido por Robert Wiene, escrito por Carl Mayer, Hans Janowitz. Com Werner Krauss, Conrad Veidt, Friedrich Feher. Expressionismo alemão."
 imdb: "0010323"
+img: "https://m.media-amazon.com/images/M/MV5BMDk2NmVkOGQtZjdjZi00YmQ5LTg2NzYtMDczZDQxMTIxNjRjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY150_CR5,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 ---

@@ -3,6 +3,7 @@ date: 2018-05-29T16:19:06-03:00
 title: "Safe"
 categories: [ "series" ]
 imdb: "7902072"
+img: "https://m.media-amazon.com/images/M/MV5BNTRjNTA4YmEtNmU5ZC00YjFjLTk0YzMtNmFhZDI0ZGYxNmI5XkEyXkFqcGdeQXVyMTk3NDAwMzI@._V1_SY150_CR3,0,101,150_.jpg"
 stars: "3/5"
 desc: "Safe. EUA, 2018. Criado por Harlan Coben. Com Amy James-Kelly, Amanda Abbington, Michael C. Hall."
 ---

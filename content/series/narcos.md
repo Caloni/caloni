@@ -1,5 +1,6 @@
 ---
 imdb: "2707408"
+img: "https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-09-11"
 categories: [ "series" ]
 title: "Narcos"

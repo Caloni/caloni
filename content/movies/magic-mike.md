@@ -1,5 +1,6 @@
 ---
 imdb: "1915581"
+img: "https://m.media-amazon.com/images/M/MV5BMTQzMDMzOTA5M15BMl5BanBnXkFtZTcwMjc4MTg4Nw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-02-15"
 categories: [ "movies" ]
 title: "Magic Mike"

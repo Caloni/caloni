@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "7308092"
+img: "https://m.media-amazon.com/images/M/MV5BNzlkOGU0N2UtYmY3Yy00MzhhLTg3NGItYTZiOTJlMjU3Y2M3XkEyXkFqcGdeQXVyMTg1MzU1NDU@._V1_SY150_CR1,0,101,150_.jpg"
 date: 2017-10-02T21:55:47
 categories: [ "movies" ]
 title: "Entre Irmãs"

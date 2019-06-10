@@ -1,5 +1,6 @@
 ---
 imdb: "6048930"
+img: "https://m.media-amazon.com/images/M/MV5BYmIzMzk2OTgtNWI1ZC00YTQxLWJiYWYtMzE5MTY4ODRiMTEzXkEyXkFqcGdeQXVyNzAwMjc4ODA@._V1_SY150_CR6,0,101,150_.jpg"
 date: 2017-08-14T20:48:15
 categories: [ "movies" ]
 title: "Naked"

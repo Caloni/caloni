@@ -1,5 +1,6 @@
 ---
 imdb: "0367027"
+img: "https://m.media-amazon.com/images/M/MV5BZjkwMTk1OWMtZjg4ZC00YWVlLTkyZGItZTU4ZjQ5NDM0M2NkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-09-29"
 categories: [ "movies" ]
 title: "Shortbus"

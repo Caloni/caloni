@@ -1,5 +1,6 @@
 ---
 imdb: "0019760"
+img: "https://m.media-amazon.com/images/M/MV5BMmIyZGIyNDMtYzc0NS00MDM4LWI5OWEtYzQ2ZWVmZGUzMzRkXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2015-09-21"
 categories: [ "movies" ]
 title: "Um Homem com uma Câmera"

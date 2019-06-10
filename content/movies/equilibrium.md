@@ -1,5 +1,6 @@
 ---
 imdb: "0238380"
+img: "https://m.media-amazon.com/images/M/MV5BMTkzMzA1OTI3N15BMl5BanBnXkFtZTYwMzUyMDg5._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-05-08"
 categories: [ "movies" ]
 title: "Equilibrium"

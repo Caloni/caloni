@@ -1,5 +1,6 @@
 ---
 imdb: "2581244"
+img: "https://m.media-amazon.com/images/M/MV5BMjA3OTUwOTMxOF5BMl5BanBnXkFtZTgwODg4NTkwMjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-08-07"
 categories: [ "movies" ]
 title: "Life After Beth"

@@ -3,6 +3,7 @@ date: 2019-03-06T23:05:03-03:00
 title: "O Rei Leão 3 Hakuna Matata"
 desc: "The Lion King 1½. Austrália, EUA, 2004. Dirigido por Bradley Raymond, escrito por Bill Steinkellner, Evan Spiliotopoulos, Irene Mecchi, Jonathan Roberts, Linda Woolverton, Raymond Singer, Roger Allers, Tom Rogers. Com Nathan Lane, Ernie Sabella, Julie Kavner."
 imdb: "0318403"
+img: "https://m.media-amazon.com/images/M/MV5BYzg2N2Y1ODYtY2QyMi00ZDAyLWE3MTgtNDNjZGZiOTk0NmE0XkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 ---

@@ -1,5 +1,6 @@
 ---
 imdb: "2278871"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ5NTg5ODk4OV5BMl5BanBnXkFtZTgwODc4MTMzMDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-12-23"
 categories: [ "movies" ]
 title: "Azul é a Cor Mais Quente"

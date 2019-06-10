@@ -1,5 +1,6 @@
 ---
 imdb: "0048356"
+img: "https://m.media-amazon.com/images/M/MV5BMDhjZjAzZTktMTY0MC00ZTVhLWE4NDQtZjIyN2JiYjZlMjU0XkEyXkFqcGdeQXVyMTg2NTc4MzA@._V1_SY150_CR7,0,101,150_.jpg"
 date: "2012-03-06"
 categories: [ "movies" ]
 title: "Marty"

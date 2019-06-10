@@ -2,6 +2,7 @@
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/alem-das-palavras/"
 imdb: "2392830"
+img: "https://m.media-amazon.com/images/M/MV5BZDNhNDg5ZGItMzA2YS00NDRlLWE2NTItNWQ0OGEwZGIyOTc2XkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-04-05"
 categories: [ "movies" ]
 title: "Além das Palavras"

@@ -1,5 +1,6 @@
 ---
 imdb: "0461770"
+img: "https://m.media-amazon.com/images/M/MV5BMjE4NDQ2Mjc0OF5BMl5BanBnXkFtZTcwNzQ2NDE1MQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-06-14"
 categories: [ "movies" ]
 title: "Encantada"

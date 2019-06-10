@@ -1,5 +1,6 @@
 ---
 imdb: "0964517"
+img: "https://m.media-amazon.com/images/M/MV5BMTM0ODk3MjM1MV5BMl5BanBnXkFtZTcwNzc1MDIwNA@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2011-04-02"
 categories: [ "movies" ]
 title: "O Vencedor"

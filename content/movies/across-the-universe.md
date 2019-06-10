@@ -1,5 +1,6 @@
 ---
 imdb: "0445922"
+img: "https://m.media-amazon.com/images/M/MV5BMTIyMTUwNzg3Nl5BMl5BanBnXkFtZTcwMjM1MDI1MQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-09-28"
 categories: [ "movies" ]
 title: "Across the Universe"

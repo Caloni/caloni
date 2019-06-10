@@ -3,6 +3,7 @@ date: 2018-12-07T21:45:43-02:00
 title: "It: A Coisa"
 desc: "It. EUA, Canadá, 2017. Escrito por Chase Palmer, Cary Fukunaga e Gary Dauberman, baseados no romance de Stephen King. Dirigido por Andy Muschietti. Com Bill Skarsgård, Jaeden Lieberher, Finn Wolfhard."
 imdb: "1396484"
+img: "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 ---

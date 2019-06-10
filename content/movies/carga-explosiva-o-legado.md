@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "2938956"
+img: "https://m.media-amazon.com/images/M/MV5BMjAyMDE2ODU3Ml5BMl5BanBnXkFtZTgwODU0MTA0NjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-09-04"
 categories: [ "movies" ]
 title: "Carga Explosiva: o Legado"

@@ -1,5 +1,6 @@
 ---
 imdb: "0112471"
+img: "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2011-12-04"
 categories: [ "movies" ]
 title: "Antes do Amanhecer"

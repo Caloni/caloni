@@ -1,5 +1,6 @@
 ---
 imdb: "2164430"
+img: "https://m.media-amazon.com/images/M/MV5BMjgzYzEyNWMtOGU2MC00ZTM0LWJhMTgtNjI2NmQ1ZjhkNmYwXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_SY150_CR7,0,101,150_.jpg"
 date: "2014-12-01"
 categories: [ "series" ]
 title: "Diário de um Jovem Médico"

@@ -1,5 +1,6 @@
 ---
 imdb: "1065073"
+img: "https://m.media-amazon.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-12-20"
 categories: [ "movies" ]
 title: "Boyhood: Da Infância à Juventude"

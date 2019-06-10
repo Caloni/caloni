@@ -1,5 +1,6 @@
 ---
 imdb: "1781820"
+img: "https://m.media-amazon.com/images/M/MV5BYzk1ZmNhMjctNTNlNy00NDgzLWE0ZjktYzE3Mzk4ODdlYmViXkEyXkFqcGdeQXVyNjQ1OTY3ODg@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2011-10-25"
 categories: [ "movies" ]
 title: "As Flores de Kirkuk"

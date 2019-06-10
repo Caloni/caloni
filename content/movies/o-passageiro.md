@@ -1,6 +1,7 @@
 ---
 date: 2018-02-17T21:51:13
 imdb: "1590193"
+img: "https://m.media-amazon.com/images/M/MV5BMTc0NDg1MjI4OV5BMl5BanBnXkFtZTgwMDIwMTEwNDI@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 title: "O Passageiro"

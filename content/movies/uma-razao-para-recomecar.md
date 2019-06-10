@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "2931140"
+img: "https://m.media-amazon.com/images/M/MV5BMTIzYmNkOGUtZDVmOS00MjgyLThjMzktODBjNzg0MmZiNDA4XkEyXkFqcGdeQXVyNDI1MTIwNw@@._V1_SY150_CR2,0,101,150_.jpg"
 date: 2017-10-14T16:42:43
 categories: [ "movies" ]
 title: "Uma Razao Para Recomecar"

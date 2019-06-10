@@ -1,5 +1,6 @@
 ---
 imdb: "2614722"
+img: "https://m.media-amazon.com/images/M/MV5BYTY3ZGU0YTMtMmJhMC00ZTJmLTgxNjctMGQ5MTU4Y2RhM2RlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2016-10-28"
 categories: [ "movies" ]
 title: "Umrika"

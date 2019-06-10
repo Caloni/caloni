@@ -1,6 +1,7 @@
 ---
 cabine: "true"
 imdb: "2873282"
+img: "https://m.media-amazon.com/images/M/MV5BMTA3MDkxOTc4NDdeQTJeQWpwZ15BbWU4MDAxNzgyNTQz._V1_SY150_CR0,0,101,150_.jpg"
 stars: "4/5"
 title: "Operação Red Sparrow"
 date: 2018-02-21T17:42:57

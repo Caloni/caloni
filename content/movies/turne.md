@@ -1,5 +1,6 @@
 ---
 imdb: "1451762"
+img: "https://m.media-amazon.com/images/M/MV5BZmNkYmQ3MjktMDQwZi00NmI3LTkxNWItMjZiNjM3YzdmMTZhXkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_SY150_CR3,0,101,150_.jpg"
 date: "2011-04-27"
 categories: [ "movies" ]
 title: "Turnê"

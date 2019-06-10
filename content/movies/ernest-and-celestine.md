@@ -1,5 +1,6 @@
 ---
 imdb: "1816518"
+img: "https://m.media-amazon.com/images/M/MV5BMjA3NzA5ODY4M15BMl5BanBnXkFtZTgwMzU5ODMwMTE@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2015-06-04"
 categories: [ "movies" ]
 title: "Ernest and Célestine"

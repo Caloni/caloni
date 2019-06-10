@@ -1,5 +1,6 @@
 ---
 imdb: "1595656"
+img: "https://m.media-amazon.com/images/M/MV5BMTAwNzk1NjM2ODZeQTJeQWpwZ15BbWU3MDE1MjQwMjk@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-08-01"
 categories: [ "movies" ]
 title: "Amor Pleno"

@@ -1,5 +1,6 @@
 ---
 imdb: "1285246"
+img: "https://m.media-amazon.com/images/M/MV5BNTA1NjA2NzMzNV5BMl5BanBnXkFtZTcwMjgyMDMzNA@@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2010-05-14"
 categories: [ "movies" ]
 title: "Mademoiselle Chambon"

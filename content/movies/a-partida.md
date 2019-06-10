@@ -1,5 +1,6 @@
 ---
 imdb: "1069238"
+img: "https://m.media-amazon.com/images/M/MV5BMTUzOTcwOTA2NV5BMl5BanBnXkFtZTcwNDczMzczMg@@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2017-01-15"
 categories: [ "movies" ]
 title: "A Partida"

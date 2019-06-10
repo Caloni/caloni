@@ -1,5 +1,6 @@
 ---
 imdb: "1602620"
+img: "https://m.media-amazon.com/images/M/MV5BMTk1NTc3NDc4MF5BMl5BanBnXkFtZTcwNjYwNDk0OA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-02-13"
 categories: [ "movies" ]
 title: "Amor"

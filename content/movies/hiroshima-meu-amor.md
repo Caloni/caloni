@@ -1,5 +1,6 @@
 ---
 imdb: "0052893"
+img: "https://m.media-amazon.com/images/M/MV5BMzY2NTA1MzUwN15BMl5BanBnXkFtZTgwOTc4NTU4MjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-01-09"
 categories: [ "movies" ]
 title: "Hiroshima Meu Amor"

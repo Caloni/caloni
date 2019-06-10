@@ -1,5 +1,6 @@
 ---
 imdb: "1045772"
+img: "https://m.media-amazon.com/images/M/MV5BNDkzMjkwNjc5NV5BMl5BanBnXkFtZTcwNzEyOTk5Mw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-06-04"
 categories: [ "movies" ]
 title: "O Golpista do Ano"

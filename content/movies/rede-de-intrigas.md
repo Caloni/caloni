@@ -1,5 +1,6 @@
 ---
 imdb: "0074958"
+img: "https://m.media-amazon.com/images/M/MV5BNmFiOWY3ZTktOTYwNy00ZTUzLTk0ODQtNzIxMzQ0ZDFjMTgyXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-12-27"
 categories: [ "movies" ]
 title: "Rede de Intrigas"

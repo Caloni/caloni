@@ -2,6 +2,7 @@
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/paraiso"
 imdb: "4551318"
+img: "https://m.media-amazon.com/images/M/MV5BZTYwZTM1YmItMTRhMi00ZWE0LWE1NDMtNTYwZWYzNWQ0NmMxXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2017-01-20"
 categories: [ "movies" ]
 title: "Paraíso"

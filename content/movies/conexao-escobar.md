@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "1355631"
+img: "https://m.media-amazon.com/images/M/MV5BMTEwNzM2NjY2MTNeQTJeQWpwZ15BbWU4MDQ3MDI3Njgx._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-08-20"
 categories: [ "movies" ]
 title: "Conexão Escobar"

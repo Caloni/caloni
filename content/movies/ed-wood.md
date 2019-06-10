@@ -1,5 +1,6 @@
 ---
 imdb: "0109707"
+img: "https://m.media-amazon.com/images/M/MV5BNTA5ZjdjNWUtZGUwNy00N2RhLWJiZmItYzFhYjU1NmYxNjY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-08-23"
 categories: [ "movies" ]
 title: "Ed Wood"

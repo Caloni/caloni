@@ -1,5 +1,6 @@
 ---
 imdb: "3336632"
+img: "https://m.media-amazon.com/images/M/MV5BZTRlZTNhMTEtMmQzMy00OGU0LThmYmMtOTYxYmY3ZDA5ZDBmXkEyXkFqcGdeQXVyNDAwOTMzNDM@._V1_SY150_CR76,0,101,150_.jpg"
 date: "2014-04-20"
 categories: [ "movies" ]
 title: "Actores S.A."

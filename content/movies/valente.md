@@ -1,5 +1,6 @@
 ---
 imdb: "1217209"
+img: "https://m.media-amazon.com/images/M/MV5BMzgwODk3ODA1NF5BMl5BanBnXkFtZTcwNjU3NjQ0Nw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-07-20"
 categories: [ "movies" ]
 title: "Valente"

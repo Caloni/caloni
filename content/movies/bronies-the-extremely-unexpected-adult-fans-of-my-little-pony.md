@@ -1,5 +1,6 @@
 ---
 imdb: "2446192"
+img: "https://m.media-amazon.com/images/M/MV5BMTAzMDE1NjY1NjReQTJeQWpwZ15BbWU4MDIyNTcwNjAx._V1_SY150_CR6,0,101,150_.jpg"
 date: "2014-08-16"
 categories: [ "movies" ]
 title: "Bronies The Extremely Unexpected Adult Fans of My Little Pony"

@@ -1,5 +1,6 @@
 ---
 imdb: "3263904"
+img: "https://m.media-amazon.com/images/M/MV5BY2NmZDAwM2QtZmFiMS00OTJlLTgxMTItZDMyZmVhYjE1MDY3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2017-01-05"
 categories: [ "movies" ]
 title: "Sully: O Herói do Rio Hudson"

@@ -1,5 +1,6 @@
 ---
 imdb: "0118715"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-02-07"
 categories: [ "movies" ]
 title: "O Grande Lebowski"

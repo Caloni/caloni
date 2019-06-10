@@ -1,5 +1,6 @@
 ---
 imdb: "0311866"
+img: "https://m.media-amazon.com/images/M/MV5BNjQ2NzYyNzUwMF5BMl5BanBnXkFtZTcwNjkxMTAwMQ@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2012-08-18"
 categories: [ "movies" ]
 title: "Tempestade Virtual"

@@ -1,5 +1,6 @@
 ---
 imdb: "0119310"
+img: "https://m.media-amazon.com/images/M/MV5BM2MxZWEzZjgtYWI3NC00NjZmLWFmMmUtNDYzZjU5YTdiOTExXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SY150_CR6,0,101,150_.jpg"
 date: "2015-01-26"
 categories: [ "movies" ]
 title: "Querida, Encolhi a Gente"

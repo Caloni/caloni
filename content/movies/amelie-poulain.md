@@ -1,5 +1,6 @@
 ---
 imdb: "0211915"
+img: "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-12-16"
 categories: [ "movies" ]
 title: "O Fabuloso Destino de Amélie Poulain"

@@ -1,5 +1,6 @@
 ---
 imdb: "0373074"
+img: "https://m.media-amazon.com/images/M/MV5BZDNjNGI3NjUtMWU2OC00ZWQ5LWIxMDYtZjllZDdhZDE1NWQ0XkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SY150_CR3,0,101,150_.jpg"
 date: "2013-10-06"
 categories: [ "movies" ]
 title: "Kung-Fusão"

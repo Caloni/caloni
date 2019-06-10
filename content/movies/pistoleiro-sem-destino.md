@@ -1,5 +1,6 @@
 ---
 imdb: "0067204"
+img: "https://m.media-amazon.com/images/M/MV5BNzY4ZGFmODctMDZiNy00OGZmLTg1YmItMjA1NWE3OGUxNGQzXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2015-01-21"
 categories: [ "movies" ]
 title: "Pistoleiro Sem Destino"

@@ -1,5 +1,6 @@
 ---
 imdb: "1780798"
+img: "https://m.media-amazon.com/images/M/MV5BYWNkYmIwY2QtNzljOC00Mzg0LTk1MjQtMGVmZTY4YmM1NzA0XkEyXkFqcGdeQXVyNzg3NjQyOQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-02-29"
 categories: [ "movies" ]
 title: "Clown"

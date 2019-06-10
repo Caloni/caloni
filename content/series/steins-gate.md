@@ -1,5 +1,6 @@
 ---
 imdb: "1910272"
+img: "https://m.media-amazon.com/images/M/MV5BMjUxMzE4ZDctODNjMS00MzIwLThjNDktODkwYjc5YWU0MDc0XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_SX101_CR0,0,101,150_.jpg"
 date: 2017-10-05T00:36:17
 categories: [ "series" ]
 title: "Steins;Gate"

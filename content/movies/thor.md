@@ -1,5 +1,6 @@
 ---
 imdb: "0800369"
+img: "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-04-02"
 categories: [ "movies" ]
 title: "Thor"

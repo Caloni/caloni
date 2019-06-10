@@ -1,5 +1,6 @@
 ---
 imdb: "0096283"
+img: "https://m.media-amazon.com/images/M/MV5BNTdiOTQ0YmUtOGE3YS00NDg5LWI3YTEtNDAxZmE0MzRmZWM5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR4,0,101,150_.jpg"
 date: "2016-05-15"
 categories: [ "movies" ]
 title: "Meu Amigo Totoro"

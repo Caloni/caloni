@@ -3,6 +3,7 @@ date: 2018-12-16T13:48:30-02:00
 title: "Christiane Amanpour: Sex and Love Around the World"
 desc: "Christiane Amanpour: Sex and Love Around the World. EUA, 2018. Com Christiane Amanpour e seus preconceitos feministas."
 imdb: "8205180"
+img: "https://m.media-amazon.com/images/M/MV5BOTI1ZjAyMGQtZmEwOC00ZTYzLThmZTEtZjg3NGFiYzg4MWUwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR3,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "2/5"
 ---

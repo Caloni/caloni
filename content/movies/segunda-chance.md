@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "3305316"
+img: "https://m.media-amazon.com/images/M/MV5BMjEwMDczOTU3Nl5BMl5BanBnXkFtZTgwMDYyMDU0MjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-05-10"
 categories: [ "movies" ]
 title: "Segunda Chance"

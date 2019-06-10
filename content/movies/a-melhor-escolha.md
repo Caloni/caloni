@@ -1,6 +1,7 @@
 ---
 date: 2018-01-18T21:25:58
 imdb: "6018306"
+img: "https://m.media-amazon.com/images/M/MV5BMjI3MDAxNTg1OF5BMl5BanBnXkFtZTgwMzMzMDM1MzI@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 title: "A Melhor Escolha"

@@ -3,6 +3,7 @@ date: 2019-01-08T23:18:18-02:00
 title: "Vidro"
 desc: "Glass (EUA, 2019), escrito e dirigido por M. Night Shyamalan, com Samuel L. Jackson como Elijah Price / Mr. Glass, Bruce Willis como David Dunn, James McAvoy como Kevin Wendell Crumb / The Beast / Patricia / Dennis / Hedwig / Barry / Jade / Orwell / Heinrich / Norma, Sarah Paulson como Dr. Ellie Staple e Charlayne Woodard como a mãe de Elijah."
 imdb: "6823368"
+img: "https://m.media-amazon.com/images/M/MV5BMTY1OTA2MjI5OV5BMl5BanBnXkFtZTgwNzkxMjU4NjM@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 cabine: "cinemaqui"

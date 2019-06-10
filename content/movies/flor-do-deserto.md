@@ -1,5 +1,6 @@
 ---
 imdb: "1054580"
+img: "https://m.media-amazon.com/images/M/MV5BMTcwODMwMzA0MV5BMl5BanBnXkFtZTcwMTc3ODc1NA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-06-25"
 categories: [ "movies" ]
 title: "Flor do Deserto"

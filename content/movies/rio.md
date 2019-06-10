@@ -1,5 +1,6 @@
 ---
 imdb: "1436562"
+img: "https://m.media-amazon.com/images/M/MV5BMTU2MDY3MzAzMl5BMl5BanBnXkFtZTcwMTg0NjM5NA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2011-04-27"
 categories: [ "movies" ]
 title: "Rio"

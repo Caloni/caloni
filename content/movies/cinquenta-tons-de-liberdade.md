@@ -3,6 +3,7 @@ date: 2018-07-29T12:39:21-03:00
 title: "Cinquenta Tons de Liberdade"
 desc: "Fifty Shades Freed. EUA, 2018. Escrito por Niall Leonard baseado no 'romance' de E.L. James. Dirigido por James Foley, meu filho, que está a fazer por aqui. Com Dakota Johnson, Jamie Dornan, Eric Johnson."
 imdb: "4477536"
+img: "https://m.media-amazon.com/images/M/MV5BMTYxOTQ1MzI0Nl5BMl5BanBnXkFtZTgwMzgwMzIxNDM@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "1/5"
 ---

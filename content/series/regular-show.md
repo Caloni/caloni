@@ -1,5 +1,6 @@
 ---
 imdb: "1710308"
+img: "https://m.media-amazon.com/images/M/MV5BMTM3MjYwODA3MV5BMl5BanBnXkFtZTcwOTc5Nzc4Nw@@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2015-07-28"
 categories: [ "series" ]
 title: "Regular Show"

@@ -1,5 +1,6 @@
 ---
 imdb: "1443518"
+img: "https://m.media-amazon.com/images/M/MV5BMTgzNDI5NDI1NF5BMl5BanBnXkFtZTcwNzI3MzY0Mw@@._V1_SY150_CR100,0,101,150_.jpg"
 date: "2010-11-01"
 categories: [ "movies" ]
 title: "Vc Tá Aí?"

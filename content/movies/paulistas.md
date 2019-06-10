@@ -1,6 +1,7 @@
 ---
 date: 2018-02-10T22:30:31
 imdb: "7115328"
+img: "https://m.media-amazon.com/images/M/MV5BMGYzMmFmZjQtODMyZi00ZWY1LThhNDQtYzMxMWZkMzUyNWRlXkEyXkFqcGdeQXVyMjY3MjM1MjE@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 title: "Paulistas"

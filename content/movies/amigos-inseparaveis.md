@@ -1,5 +1,6 @@
 ---
 imdb: "1389096"
+img: "https://m.media-amazon.com/images/M/MV5BMTgwNjgyOTExMV5BMl5BanBnXkFtZTcwNTIzODA1OA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-03-12"
 categories: [ "movies" ]
 title: "Amigos Inseparáveis"

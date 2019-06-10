@@ -1,5 +1,6 @@
 ---
 imdb: "4538072"
+img: "https://m.media-amazon.com/images/M/MV5BOTM1MTE3NmUtOWNlNy00ZjUxLWIzZjAtYjczN2I3M2M0YWIyXkEyXkFqcGdeQXVyNTQyMDczMzY@._V1_SY150_CR62,0,101,150_.jpg"
 date: "2016-10-28"
 categories: [ "series" ]
 title: "Black Mirror - S03E04 - San Junipero"

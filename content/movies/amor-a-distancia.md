@@ -1,5 +1,6 @@
 ---
 imdb: "1322312"
+img: "https://m.media-amazon.com/images/M/MV5BMjQ1ODUyMjk5N15BMl5BanBnXkFtZTcwMjAxOTE2Mw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-09-10"
 categories: [ "movies" ]
 title: "Amor à Distância"

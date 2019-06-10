@@ -1,5 +1,6 @@
 ---
 imdb: "0057012"
+img: "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2012-08-06"
 categories: [ "movies" ]
 title: "Dr. Fantástico"

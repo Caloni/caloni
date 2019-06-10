@@ -1,5 +1,6 @@
 ---
 imdb: "2096672"
+img: "https://m.media-amazon.com/images/M/MV5BMTYxMzA0MzAyMF5BMl5BanBnXkFtZTgwMjMyNjcwMjE@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-12-10"
 categories: [ "movies" ]
 title: "Debi e Lóide 2"

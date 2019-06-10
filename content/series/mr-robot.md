@@ -1,5 +1,6 @@
 ---
 imdb: "4158110"
+img: "https://m.media-amazon.com/images/M/MV5BMTYzMDE2MzI4MF5BMl5BanBnXkFtZTgwNTkxODgxOTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-09-11"
 categories: [ "series" ]
 title: "Mr. Robot"

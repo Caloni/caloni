@@ -1,5 +1,6 @@
 ---
 imdb: "0443272"
+img: "https://m.media-amazon.com/images/M/MV5BMTQzNzczMDUyNV5BMl5BanBnXkFtZTcwNjM2ODEzOA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-01-31"
 categories: [ "movies" ]
 title: "Lincoln"

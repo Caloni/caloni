@@ -3,6 +3,7 @@ date: 2018-04-09T16:17:32-03:00
 title: "Todo Clichê do Amor"
 categories: [ "movies" ]
 imdb: "5607038"
+img: "https://m.media-amazon.com/images/M/MV5BZDQ2ZWZmZTktOTNhNi00MTU5LTg0MjYtZjVmOGQ5MjU1Y2Q4XkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SY150_CR2,0,101,150_.jpg"
 stars: "4/5"
 desc: "Todo Clichê do Amor (Brasil, 2018), escrito por Rafael Primot, dirigido por Rafael Primot, com Maria Luísa Mendonça, Débora Falabella, Marjorie Estiano, Rafael Primot, Gilda Nomacce."
 cabine: "cinemaqui"

@@ -1,5 +1,6 @@
 ---
 imdb: "1694539"
+img: "https://m.media-amazon.com/images/M/MV5BN2EyZmVjM2EtZjhmZS00MTMwLTgwNWEtN2ViMzZjNjk1MWZlXkEyXkFqcGdeQXVyMDk2Mzc2MA@@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2010-12-20"
 categories: [ "movies" ]
 title: "Sem Medo As Canções De Luciano Ligabue"

@@ -1,5 +1,6 @@
 ---
 imdb: "0079522"
+img: "https://m.media-amazon.com/images/M/MV5BMzdmY2I3MmEtOGFiZi00MTg1LWIxY2QtNWUwM2NmNWNlY2U5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-05-20"
 categories: [ "movies" ]
 title: "Manhattan"

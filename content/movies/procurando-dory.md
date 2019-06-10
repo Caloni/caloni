@@ -1,5 +1,6 @@
 ---
 imdb: "2277860"
+img: "https://m.media-amazon.com/images/M/MV5BNzg4MjM2NDQ4MV5BMl5BanBnXkFtZTgwMzk3MTgyODE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-07-18"
 categories: [ "movies" ]
 title: "Procurando Dory"

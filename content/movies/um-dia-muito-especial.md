@@ -1,5 +1,6 @@
 ---
 imdb: "0076085"
+img: "https://m.media-amazon.com/images/M/MV5BMDZlNGFmMDMtOGExOC00M2ZmLTk0ZWQtMzFmNTY5MmI3MGUwXkEyXkFqcGdeQXVyMzIzNDU1NTY@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2010-12-20"
 categories: [ "movies" ]
 title: "Um Dia Muito Especial"

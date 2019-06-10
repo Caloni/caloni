@@ -1,5 +1,6 @@
 ---
 imdb: "0416236"
+img: "https://m.media-amazon.com/images/M/MV5BMTMzMDcyMzM2Ml5BMl5BanBnXkFtZTYwNzg1Nzc4._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-04-17"
 categories: [ "movies" ]
 title: "As Crônicas de Spiderwick"

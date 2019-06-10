@@ -1,5 +1,6 @@
 ---
 imdb: "1130965"
+img: "https://m.media-amazon.com/images/M/MV5BMjIyMjQ1NDM2NV5BMl5BanBnXkFtZTcwOTQyMTc5Nw@@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2010-11-04"
 categories: [ "movies" ]
 title: "O Atleta"

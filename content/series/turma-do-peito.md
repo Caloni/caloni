@@ -3,6 +3,7 @@ date: 2018-05-29T16:28:08-03:00
 title: "Turma do Peito"
 categories: [ "series" ]
 imdb: "7320300"
+img: "https://m.media-amazon.com/images/M/MV5BZGM1N2FkYTEtNTZhNC00ZjM4LWE3NWMtMWNlYzE4ZGE1NTI1XkEyXkFqcGdeQXVyMTg0NjE3NDQ@._V1_SY150_CR0,0,101,150_.jpg"
 stars: "2/5"
 desc: "The Letdown. Austrália, 2017. Criado por Alison Bell, Sarah Scheller. Com Alison Bell, Duncan Fellows, Leon Ford."
 ---

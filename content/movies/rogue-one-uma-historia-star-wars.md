@@ -1,5 +1,6 @@
 ---
 imdb: "3748528"
+img: "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-12-28"
 categories: [ "movies" ]
 title: "Rogue One: Uma História Star Wars"

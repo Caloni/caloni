@@ -3,6 +3,7 @@ date: 2019-04-22T15:59:42-03:00
 title: "A Garota Que Conquistou O Tempo"
 desc: "Toki o kakeru shôjo. Japão, 2006. Dirigido por Mamoru Hosoda, escrito por Satoko Okudera baseado no livro de Yasutaka Tsutsui. Com Riisa Naka, Takuya Ishida, Mitsutaka Itakura."
 imdb: "0808506"
+img: "https://m.media-amazon.com/images/M/MV5BNzUxODI4MzgtNWZiOC00MmNlLWIyMzctNGE3ZGU0MzczMjk4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 ---

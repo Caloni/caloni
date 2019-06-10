@@ -1,5 +1,6 @@
 ---
 imdb: "0198781"
+img: "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-02-20"
 categories: [ "movies" ]
 title: "Monstros S/A"

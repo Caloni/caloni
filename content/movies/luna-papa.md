@@ -3,6 +3,7 @@ date: 2019-05-04T11:58:59-03:00
 title: "Luna Papa"
 desc: "Luna Papa. Dirigido por Bakhtyar Khudojnazarov, escrito por Khudojnazarov e Irakli Kvirikadze, com Chulpan Khamatova, Moritz Bleibtreu, Ato Mukhamedzhanov."
 imdb: "0170259"
+img: "https://m.media-amazon.com/images/M/MV5BMTkyNjg4NDM3NF5BMl5BanBnXkFtZTcwMzQ2NTYxMQ@@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 ---

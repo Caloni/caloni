@@ -3,6 +3,7 @@ date: 2019-03-13T18:51:32-03:00
 title: "Amadeus (versão do diretor)"
 desc: "Amadeus. EUA, França, Tchecoslováquia. Dirigido por Milos Forman, escrito por Peter Shaffer. Com F. Murray Abraham, Tom Hulce, Elizabeth Berridge."
 imdb: "0086879"
+img: "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 ---

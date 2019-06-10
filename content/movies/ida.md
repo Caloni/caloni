@@ -1,5 +1,6 @@
 ---
 imdb: "2718492"
+img: "https://m.media-amazon.com/images/M/MV5BNjk3NDkzMzMtMGM3MS00YmJkLTkwNmMtZjU5ZWIyNTkzMjJkXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-10-08"
 categories: [ "movies" ]
 title: "Ida"

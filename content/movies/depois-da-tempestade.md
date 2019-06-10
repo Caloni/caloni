@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "5294966"
+img: "https://m.media-amazon.com/images/M/MV5BNzQxZGFmNGUtNDcxNC00NGE2LThlODItNDU1OTZjYTIyMjI2XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SY150_CR3,0,101,150_.jpg"
 date: "2016-10-20"
 categories: [ "movies" ]
 title: "Depois da Tempestade"

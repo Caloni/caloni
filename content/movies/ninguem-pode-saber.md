@@ -3,6 +3,7 @@ date: 2019-05-04T11:58:05-03:00
 title: "Ninguém Pode Saber"
 desc: "Dare mo shiranai. Por Hirokazu Koreeda, com Yûya Yagira, Ayu Kitaura, Hiei Kimura."
 imdb: "0408664"
+img: "https://m.media-amazon.com/images/M/MV5BNzMzNzA5ODgzNF5BMl5BanBnXkFtZTcwMjI2MDgyMQ@@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 ---

@@ -1,5 +1,6 @@
 ---
 imdb: "3783958"
+img: "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-01-27"
 categories: [ "movies" ]
 title: "La La Land: Cantando Estações"

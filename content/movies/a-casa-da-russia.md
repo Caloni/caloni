@@ -1,5 +1,6 @@
 ---
 imdb: "0100530"
+img: "https://m.media-amazon.com/images/M/MV5BMTM4NDAxMjQ5M15BMl5BanBnXkFtZTcwMzI0NzI5NA@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2013-01-14"
 categories: [ "movies" ]
 title: "A Casa da Rússia"

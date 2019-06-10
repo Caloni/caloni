@@ -1,5 +1,6 @@
 ---
 imdb: "1212452"
+img: "https://m.media-amazon.com/images/M/MV5BYmM4ODk4YTEtMWIwMS00ZjgxLTk0N2EtOGEyMTc2MTAzY2U3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR5,0,101,150_.jpg"
 date: "2014-02-22"
 categories: [ "series" ]
 title: "Saco de Ossos"

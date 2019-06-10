@@ -2,6 +2,7 @@
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/life-animated/"
 imdb: "3917210"
+img: "https://m.media-amazon.com/images/M/MV5BMTcwNTMzODI4Nl5BMl5BanBnXkFtZTgwMjM2NTQxOTE@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2017-02-25"
 categories: [ "movies" ]
 title: "Life, Animated"

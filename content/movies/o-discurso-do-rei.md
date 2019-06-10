@@ -1,5 +1,6 @@
 ---
 imdb: "1504320"
+img: "https://m.media-amazon.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2011-11-02"
 categories: [ "movies" ]
 title: "O Discurso do Rei"

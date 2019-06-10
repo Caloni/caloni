@@ -1,5 +1,6 @@
 ---
 imdb: "0359950"
+img: "https://m.media-amazon.com/images/M/MV5BODYwNDYxNDk1Nl5BMl5BanBnXkFtZTgwOTAwMTk2MDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-12-26"
 categories: [ "movies" ]
 title: "A Vida Secreta de Walter Mitty"

@@ -1,5 +1,6 @@
 ---
 imdb: "1841584"
+img: "https://m.media-amazon.com/images/M/MV5BNGM1OWE1NzAtYzRlMS00MDdhLWIwZjMtN2ZmZTkzMDNmMmU0XkEyXkFqcGdeQXVyMTgzNDk4MTI@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2011-10-24"
 categories: [ "movies" ]
 title: "El gato desaparece"

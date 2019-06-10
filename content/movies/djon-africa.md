@@ -3,6 +3,7 @@ date: 2018-10-07T14:18:19-03:00
 title: "Djon Africa"
 desc: "Djon Africa (Brasil, Portugal, Cabo Verde, 2018), escrito por João Miller Guerra e Pedro Pinho, dirigido por Filipa Reis e Guerra, com Bitori Nha Bibinha, Isabel Muñoz Cardoso, Miguel Moreira."
 imdb: "7862998"
+img: "https://m.media-amazon.com/images/M/MV5BMjAzYjg1NGUtMWMzMi00OGNlLTk1ZDUtYTk0MWI1NTFlMWJiXkEyXkFqcGdeQXVyNjc4NTQxNjg@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 cabine: "cinemaqui"

@@ -1,5 +1,6 @@
 ---
 imdb: "0108065"
+img: "https://m.media-amazon.com/images/M/MV5BNTNlYjBjMGEtOTFkZS00MjM5LTk2ZTktYWVmZTc4NzE3NzAxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-09-21"
 categories: [ "movies" ]
 title: "Lances Inocentes"

@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "7230476"
+img: "https://m.media-amazon.com/images/M/MV5BZjhhYTE1MjctNjZmMS00NmEyLTk3ZjktYTkwOWEwMmIxZDc5XkEyXkFqcGdeQXVyOTU3ODk4MQ@@._V1_SY150_CR1,0,101,150_.jpg"
 date: 2017-12-08T23:21:05
 categories: [ "movies" ]
 title: "Pela Janela"

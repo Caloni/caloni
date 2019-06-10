@@ -1,5 +1,6 @@
 ---
 imdb: "0964185"
+img: "https://m.media-amazon.com/images/M/MV5BMTY3ODQxNDc2Ml5BMl5BanBnXkFtZTcwOTYxMTYxMw@@._V1_SY150_CR6,0,101,150_.jpg"
 date: "2010-12-10"
 categories: [ "movies" ]
 title: "Tetro"

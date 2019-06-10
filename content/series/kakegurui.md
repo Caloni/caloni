@@ -3,6 +3,7 @@ date: 2018-05-20T13:07:43-03:00
 title: "Kakegurui"
 categories: [ "series" ]
 imdb: "7131720"
+img: "https://m.media-amazon.com/images/M/MV5BMmRhZDI4ODItYTAzMC00NWQ1LTk1MTctZWYyMDY3ZTU3NWFiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SX101_CR0,0,101,150_.jpg"
 stars: "3/5"
 desc: "Kakegurui. Japão, 2017. Mangá original escrito por Homura Kawamoto e ilustrado por Toru Naomura. Com Saori Hayami, Minami Tanaka, Tatsuya Tokutake. Live Action com Minami Hamabe, Aoi Morikawa."
 ---

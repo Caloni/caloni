@@ -1,5 +1,6 @@
 ---
 imdb: "1361313"
+img: "https://m.media-amazon.com/images/M/MV5BNzkzMTgxODIxMF5BMl5BanBnXkFtZTcwNDU4MTQ1Mw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-08-23"
 categories: [ "movies" ]
 title: "Os Acompanhantes"

@@ -1,5 +1,6 @@
 ---
 imdb: "0427327"
+img: "https://m.media-amazon.com/images/M/MV5BZmFhMzFkZTMtNmUxNS00OWQ1LTlhNjMtYzhmNTU4NmUzZDQwXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-05-14"
 categories: [ "movies" ]
 title: "Hairspray Em Busca da Fama"

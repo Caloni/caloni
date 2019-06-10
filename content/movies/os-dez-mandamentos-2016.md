@@ -1,6 +1,7 @@
 ---
 title: "Os Dez Mandamentos - O Filme"
 imdb: "5431016"
+img: "https://m.media-amazon.com/images/M/MV5BOWQwYzRiNDctOGVhMy00YmQ4LThjOGQtZmJiMmU0ZDY4ZjA1XkEyXkFqcGdeQXVyMjMwNTQxNjE@._V1_SY150_CR1,0,101,150_.jpg"
 stars: "3/5"
 date: "2016-02-05"
 categories: [ "movies" ]

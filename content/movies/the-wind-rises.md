@@ -1,5 +1,6 @@
 ---
 imdb: "2013293"
+img: "https://m.media-amazon.com/images/M/MV5BMTU4NDg0MzkzNV5BMl5BanBnXkFtZTgwODA3Mzc1MDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-10-28"
 categories: [ "movies" ]
 title: "O Vento Está Soprando"

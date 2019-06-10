@@ -1,5 +1,6 @@
 ---
 imdb: "0307213"
+img: "https://m.media-amazon.com/images/M/MV5BMTk3OTI5MTc3MV5BMl5BanBnXkFtZTcwNzc1MTkyMQ@@._V1_SY150_CR6,0,101,150_.jpg"
 date: "2014-04-05"
 categories: [ "movies" ]
 title: "Tipo Ruim"

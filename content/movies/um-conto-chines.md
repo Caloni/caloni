@@ -1,5 +1,6 @@
 ---
 imdb: "1705786"
+img: "https://m.media-amazon.com/images/M/MV5BNDUyODQ0MTcxNF5BMl5BanBnXkFtZTgwMDMxNjAzMTE@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2018-07-14"
 categories: [ "movies" ]
 title: "Um Conto Chinês"

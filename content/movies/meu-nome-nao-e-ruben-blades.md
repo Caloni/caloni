@@ -3,6 +3,7 @@ date: 2019-04-15T23:18:19-03:00
 title: "Meu Nome Não é Ruben Blades"
 desc: "Yo no me llamo Rubén Blades (aka Ruben Blades Is Not My Name). Panamá, Argentina, Colômbia, 2018. Dirigido e escrito por Abner Benaim. Rubén Blades, Residente, Gilberto Santa Rosa. Visto na Argentina em espanhol."
 imdb: "6789126"
+img: "https://m.media-amazon.com/images/M/MV5BZGY4ODdlOTQtMDA2My00MDNiLWJiNWMtOTBiM2Q5NjU1NGFlXkEyXkFqcGdeQXVyMjQ1MzA3Nzk@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 ---

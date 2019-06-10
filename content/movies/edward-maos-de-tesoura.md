@@ -1,5 +1,6 @@
 ---
 imdb: "0099487"
+img: "https://m.media-amazon.com/images/M/MV5BNDUxN2I5NDUtZjdlMC00NjlmLTg0OTQtNjk0NjAxZjFmZTUzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2011-07-31"
 categories: [ "movies" ]
 title: "Edward Mãos de Tesoura"

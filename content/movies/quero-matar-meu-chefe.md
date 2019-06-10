@@ -1,5 +1,6 @@
 ---
 imdb: "1499658"
+img: "https://m.media-amazon.com/images/M/MV5BNzYxNDI5Njc5NF5BMl5BanBnXkFtZTcwMDUxODE1NQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2011-08-17"
 categories: [ "movies" ]
 title: "Quero Matar Meu Chefe"

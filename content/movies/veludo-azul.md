@@ -1,5 +1,6 @@
 ---
 imdb: "0090756"
+img: "https://m.media-amazon.com/images/M/MV5BMzVlNTJhYTItZGM5My00ZDNiLTk3YmMtZTJhY2RkYjU2NmIxXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_SY150_CR10,0,101,150_.jpg"
 date: "2016-01-14"
 categories: [ "movies" ]
 title: "Veludo Azul"

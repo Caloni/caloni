@@ -1,5 +1,6 @@
 ---
 imdb: "1453405"
+img: "https://m.media-amazon.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-07-01"
 categories: [ "movies" ]
 title: "Universidade Monstros"

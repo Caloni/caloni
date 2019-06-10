@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "3906650"
+img: "https://m.media-amazon.com/images/M/MV5BZTcwYzhlNWItZGM4ZC00ZGY4LThlMTctNTc5MWY3ZDRhMThiXkEyXkFqcGdeQXVyMDYxMjcxMQ@@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2016-03-30"
 categories: [ "movies" ]
 title: "Sinfonia da Necrópole"

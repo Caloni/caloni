@@ -1,5 +1,6 @@
 ---
 imdb: "1645109"
+img: "https://m.media-amazon.com/images/M/MV5BMTkzMzM2NDU5Nl5BMl5BanBnXkFtZTcwODYzMTUyOQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2011-11-01"
 categories: [ "movies" ]
 title: "Maria My Love"

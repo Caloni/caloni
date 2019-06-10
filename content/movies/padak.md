@@ -1,6 +1,7 @@
 ---
 title: "Pa-dak pa-dak"
 imdb: "2164058"
+img: "https://m.media-amazon.com/images/M/MV5BNDZkMDRkMzUtYWQ2NC00ZjVhLWIzNTYtODJlYjFjM2Y1MDNjXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SY150_CR2,0,101,150_.jpg"
 stars: "2/5"
 date: "2012-10-23"
 categories: [ "movies" ]

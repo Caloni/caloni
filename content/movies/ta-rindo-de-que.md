@@ -1,5 +1,6 @@
 ---
 imdb: "1201167"
+img: "https://m.media-amazon.com/images/M/MV5BNWU0ZDllZWEtNWI4ZC00YjIzLTk3YjMtZmE0MmFiNzg4MmRlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-04-09"
 categories: [ "movies" ]
 title: "Tá Rindo de Que?"

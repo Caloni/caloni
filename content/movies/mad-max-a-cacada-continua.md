@@ -3,6 +3,7 @@ date: 2019-03-24T19:11:44-03:00
 title: "Mad Max: A Caçada Continua"
 desc: "Mad Max 2 aka The Road Warrior. Austrália, 1981. Direção de George Miller com roteiro de Terry Hayes, Brian Hannant e Miller. Com Mel Gibson, Bruce Spence, Max Phipps e Emil Minty."
 imdb: "0082694"
+img: "https://m.media-amazon.com/images/M/MV5BN2VlNjNhZWQtMTY2OC00Y2E1LWJkNGUtMDU4M2ViNzliMGYwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 ---

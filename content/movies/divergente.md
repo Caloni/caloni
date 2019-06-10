@@ -1,5 +1,6 @@
 ---
 imdb: "1840309"
+img: "https://m.media-amazon.com/images/M/MV5BMTYxMzYwODE4OV5BMl5BanBnXkFtZTgwNDE5MzE2MDE@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-05-13"
 categories: [ "movies" ]
 title: "Divergente"

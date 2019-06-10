@@ -1,5 +1,6 @@
 ---
 imdb: "1860353"
+img: "https://m.media-amazon.com/images/M/MV5BMTA4NTgwMjM5MzheQTJeQWpwZ15BbWU3MDg2ODA1ODk@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-05-23"
 categories: [ "movies" ]
 title: "Turbo"

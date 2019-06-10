@@ -1,5 +1,6 @@
 ---
 imdb: "0390384"
+img: "https://m.media-amazon.com/images/M/MV5BNjc3OWVjMTItYjc0Yi00NmFlLTk2YTgtYmU0MzcxMjBkNTYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-07-09"
 categories: [ "movies" ]
 title: "Primer"

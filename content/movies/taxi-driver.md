@@ -1,5 +1,6 @@
 ---
 imdb: "0075314"
+img: "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2012-05-14"
 categories: [ "movies" ]
 title: "Taxi Driver"

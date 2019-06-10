@@ -1,5 +1,6 @@
 ---
 imdb: "1596343"
+img: "https://m.media-amazon.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2011-05-25"
 categories: [ "movies" ]
 title: "Velozes e Furiosos 5 Operação Rio"

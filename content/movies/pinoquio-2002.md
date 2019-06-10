@@ -1,5 +1,6 @@
 ---
 imdb: "0255477"
+img: "https://m.media-amazon.com/images/M/MV5BOTZmM2E0OTItM2I5MC00MzRjLWI4M2EtNDAxYjU1MTQwZjE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2012-02-20"
 categories: [ "movies" ]
 title: "Pinóquio"

@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "2120120"
+img: "https://m.media-amazon.com/images/M/MV5BMTYxMzM4NDY5N15BMl5BanBnXkFtZTgwNzg1NTI3MzE@._V1_SY150_CR3,0,101,150_.jpg"
 date: "2015-07-21"
 categories: [ "movies" ]
 title: "Pixels"

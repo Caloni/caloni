@@ -1,5 +1,6 @@
 ---
 imdb: "1231587"
+img: "https://m.media-amazon.com/images/M/MV5BMTQwMjExODA4Ml5BMl5BanBnXkFtZTcwNTYwMDYxMw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-09-10"
 categories: [ "movies" ]
 title: "A Ressaca"

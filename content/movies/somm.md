@@ -1,5 +1,6 @@
 ---
 imdb: "2204371"
+img: "https://m.media-amazon.com/images/M/MV5BMTU0NDQ4MTY1OF5BMl5BanBnXkFtZTcwMTMzMTgwOA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-12-04"
 categories: [ "movies" ]
 title: "Somm"

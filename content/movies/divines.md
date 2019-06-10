@@ -1,5 +1,6 @@
 ---
 imdb: "4730986"
+img: "https://m.media-amazon.com/images/M/MV5BNTUzMTZhYTgtYmY1Ny00ODgwLWI3OTUtMjZkNDIyMGEzMTRlXkEyXkFqcGdeQXVyNDExMDcxNjM@._V1_SY150_CR4,0,101,150_.jpg"
 date: "2016-11-27"
 categories: [ "movies" ]
 title: "Divines"

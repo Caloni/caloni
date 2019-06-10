@@ -1,5 +1,6 @@
 ---
 imdb: "0084516"
+img: "https://m.media-amazon.com/images/M/MV5BNzliZmRlYTctYmNkYS00NzE5LWI1OWQtMTRiODY5MDMwMTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-03-06"
 categories: [ "movies" ]
 title: "Poltergeist O Fenômeno"

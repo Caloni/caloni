@@ -1,5 +1,6 @@
 ---
 imdb: "1942683"
+img: "https://m.media-amazon.com/images/M/MV5BOTRhZDc2MjktZWE1OS00Njk5LWEwMTctZDYzMzUyYWVjMWY2XkEyXkFqcGdeQXVyMzM4NjcxOTc@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2016-10-16"
 categories: [ "series" ]
 title: "O Incrível Mundo de Gumball"

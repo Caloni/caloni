@@ -1,5 +1,6 @@
 ---
 imdb: "1320253"
+img: "https://m.media-amazon.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-08-13"
 categories: [ "movies" ]
 title: "Os Mercenários"

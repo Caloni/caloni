@@ -1,5 +1,6 @@
 ---
 imdb: "1931533"
+img: "https://m.media-amazon.com/images/M/MV5BMTgwMzUxMjc0M15BMl5BanBnXkFtZTcwMzQ2MjYyOA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-04-24"
 categories: [ "movies" ]
 title: "Sete Psicopatas e um Shih Tzu"

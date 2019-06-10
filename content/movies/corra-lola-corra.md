@@ -3,6 +3,7 @@ date: 2019-04-27T14:00:27-03:00
 title: "Corra, Lola, Corra"
 desc: "Lola rennt. Alemanha, 1998. Dirigido e escrito por Tom Tykwer. Com Franka Potente, Moritz Bleibtreu, Herbert Knaup."
 imdb: "0130827"
+img: "https://m.media-amazon.com/images/M/MV5BMmU5ZjFmYjQtYmNjZC00Yjk4LWI1ZTQtZDJiMjM0YjQyNDU0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "5/5"
 ---

@@ -1,5 +1,6 @@
 ---
 imdb: "5912454"
+img: "https://m.media-amazon.com/images/M/MV5BMjM2Nzk4ODA2M15BMl5BanBnXkFtZTgwODA5MDExMDI@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2016-12-10"
 categories: [ "movies" ]
 title: "Blue Jay"

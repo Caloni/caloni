@@ -1,5 +1,6 @@
 ---
 imdb: "1039651"
+img: "https://m.media-amazon.com/images/M/MV5BMzAwZDFlZGMtNzkzYS00ZjI2LThkNmUtMjAyNjFjNDRlMzhjXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_SY150_CR4,0,101,150_.jpg"
 date: "2010-12-24"
 categories: [ "movies" ]
 title: "O Mundo Encantado de Gigi"

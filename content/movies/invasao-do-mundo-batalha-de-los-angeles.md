@@ -1,5 +1,6 @@
 ---
 imdb: "1217613"
+img: "https://m.media-amazon.com/images/M/MV5BMDg2NzQwOGMtMGRkNC00YjAwLTg4NjgtZWQwYzljZmM1YzA4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2011-04-27"
 categories: [ "movies" ]
 title: "Invasão do Mundo Batalha de Los Angeles"

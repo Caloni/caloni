@@ -1,5 +1,6 @@
 ---
 imdb: "2431438"
+img: "https://m.media-amazon.com/images/M/MV5BMjA4MTEyMzcwMl5BMl5BanBnXkFtZTgwMTIwODczNTM@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-07-01"
 categories: [ "series" ]
 title: "Sense8 - Segunda Temporada"

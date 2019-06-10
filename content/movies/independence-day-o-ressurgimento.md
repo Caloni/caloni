@@ -1,5 +1,6 @@
 ---
 imdb: "1628841"
+img: "https://m.media-amazon.com/images/M/MV5BMjIyMTg5MTg4OV5BMl5BanBnXkFtZTgwMzkzMjY5NzE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-07-14"
 categories: [ "movies" ]
 title: "Independence Day: O Ressurgimento"

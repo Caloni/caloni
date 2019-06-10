@@ -1,5 +1,6 @@
 ---
 imdb: "2510894"
+img: "https://m.media-amazon.com/images/M/MV5BNThkYmNmYzAtOGI2Ny00ODI4LTgwY2MtZmY3YWMxYTUyYjVjXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-02-22"
 categories: [ "movies" ]
 title: "Hotel Transilvânia 2"

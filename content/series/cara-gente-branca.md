@@ -1,5 +1,6 @@
 ---
 imdb: "5707802"
+img: "https://m.media-amazon.com/images/M/MV5BMTU3NTg0NDY3N15BMl5BanBnXkFtZTgwMTYxMTIzNTM@._V1_SY150_CR4,0,101,150_.jpg"
 date: "2017-05-24"
 categories: [ "series" ]
 title: "Cara Gente Branca"

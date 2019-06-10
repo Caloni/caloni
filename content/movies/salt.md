@@ -1,5 +1,6 @@
 ---
 imdb: "0944835"
+img: "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2010-07-30"
 categories: [ "movies" ]
 title: "Salt"

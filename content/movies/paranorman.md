@@ -1,5 +1,6 @@
 ---
 imdb: "1623288"
+img: "https://m.media-amazon.com/images/M/MV5BMjA1OTU1NDM3N15BMl5BanBnXkFtZTcwMjYxNTg0Nw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2013-01-20"
 categories: [ "movies" ]
 title: "ParaNorman"

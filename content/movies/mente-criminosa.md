@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "3014866"
+img: "https://m.media-amazon.com/images/M/MV5BMTg0ODc4Mzk2OF5BMl5BanBnXkFtZTgwNDk2MDkyODE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-04-07"
 categories: [ "movies" ]
 title: "Mente Criminosa"

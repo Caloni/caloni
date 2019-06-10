@@ -1,5 +1,6 @@
 ---
 imdb: "2933474"
+img: "https://m.media-amazon.com/images/M/MV5BNjM3MjQxNjkxM15BMl5BanBnXkFtZTgwMDIyMTA0NDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-05-11"
 categories: [ "movies" ]
 title: "Super Velozes, Mega Furiosos"

@@ -1,5 +1,6 @@
 ---
 imdb: "2168180"
+img: "https://m.media-amazon.com/images/M/MV5BMTcwNDY1NjU1OF5BMl5BanBnXkFtZTgwNTI0NTI4NzE@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2016-05-29"
 categories: [ "movies" ]
 title: "Nise: O Coração da Loucura"

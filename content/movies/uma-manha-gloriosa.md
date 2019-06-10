@@ -1,5 +1,6 @@
 ---
 imdb: "1126618"
+img: "https://m.media-amazon.com/images/M/MV5BMTYxNDM1NTQ4N15BMl5BanBnXkFtZTcwOTQ0Njg5Mw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-04-19"
 categories: [ "movies" ]
 title: "Uma Manhã Gloriosa"

@@ -1,5 +1,6 @@
 ---
 imdb: "1667889"
+img: "https://m.media-amazon.com/images/M/MV5BMTM3NDM5MzY5Ml5BMl5BanBnXkFtZTcwNjExMDUwOA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-07-21"
 categories: [ "movies" ]
 title: "A Era do Gelo 4"

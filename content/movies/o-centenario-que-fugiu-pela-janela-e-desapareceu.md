@@ -3,6 +3,7 @@ date: 2018-08-19T22:50:00-03:00
 title: "O Centenário Que Fugiu Pela Janela e Desapareceu"
 desc: "Hundraåringen som klev ut genom fönstret och försvann (aka The 100 Year-Old Man Who Climbed Out the Window and Disappeared) (Suécia, Rússia, Reino Unido, França, Espanha, Alemanha, 2013), escrito por Felix Herngren e Hans Ingemansson baseados no romance de Jonas Jonasson, dirigido por Herngren, com Robert Gustafsson, Iwar Wiklander, David Wiberg."
 imdb: "2113681"
+img: "https://m.media-amazon.com/images/M/MV5BNDUyMzU5MTk5MF5BMl5BanBnXkFtZTgwNjcxNDQxNTE@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 cabine: "cinemaqui"

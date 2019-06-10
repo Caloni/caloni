@@ -1,5 +1,6 @@
 ---
 imdb: "1821549"
+img: "https://m.media-amazon.com/images/M/MV5BMTU2Mjk2NDkyMl5BMl5BanBnXkFtZTgwNTk0NzcyMDE@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2015-01-11"
 categories: [ "movies" ]
 title: "Nebraska"

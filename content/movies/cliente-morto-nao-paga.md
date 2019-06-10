@@ -1,5 +1,6 @@
 ---
 imdb: "0083798"
+img: "https://m.media-amazon.com/images/M/MV5BOGEyZGU1ZGItMzNjMC00ZDkzLWE4OTgtNWJhNGM2ZjVmZTNlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2012-03-27"
 categories: [ "movies" ]
 title: "Cliente Morto Não Paga"

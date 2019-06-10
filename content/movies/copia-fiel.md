@@ -1,5 +1,6 @@
 ---
 imdb: "1020773"
+img: "https://m.media-amazon.com/images/M/MV5BMjAyODExNjExNV5BMl5BanBnXkFtZTcwMjMxNTI1NA@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-11-16"
 categories: [ "movies" ]
 title: "Cópia Fiel"

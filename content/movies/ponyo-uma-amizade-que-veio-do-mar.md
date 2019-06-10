@@ -1,5 +1,6 @@
 ---
 imdb: "0876563"
+img: "https://m.media-amazon.com/images/M/MV5BMjA5NzkxNTg2MF5BMl5BanBnXkFtZTcwMTA3MjU1Mg@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-06-30"
 review: [ "2013" ]
 categories: [ "movies" ]

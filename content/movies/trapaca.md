@@ -1,5 +1,6 @@
 ---
 imdb: "1800241"
+img: "https://m.media-amazon.com/images/M/MV5BMmM4YzJjZGMtNjQxMy00NjdlLWJjYTItZWZkYzdhOTdhNzFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-02-13"
 categories: [ "movies" ]
 title: "Trapaça"

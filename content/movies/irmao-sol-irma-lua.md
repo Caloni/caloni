@@ -3,6 +3,7 @@ date: 2019-01-28T13:43:08-02:00
 title: "Irmão Sol, Irmã Lua"
 desc: "Fratello sole, sorella luna. Reino Unido, Itália, 1972. Escrito por Suso Cecchi D'Amico, Charles Dyer, Kenneth Ross, Lina Wertmüller, Franco Zeffirelli e dirigido por Zeffirelli. Com Graham Faulkner como São Francisco de Assis, Judi Bowker como Clare, Leigh Lawson como Bernardo, Kenneth Cranham como Paulo, Alec Guinness como Papa Inocente III."
 imdb: "0069824"
+img: "https://m.media-amazon.com/images/M/MV5BZThiMzY5NGEtZTdlNi00NTY5LTgxODYtZmRlYzJlYWVkZDYxXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "5/5"
 ---

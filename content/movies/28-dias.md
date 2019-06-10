@@ -1,5 +1,6 @@
 ---
 imdb: "0191754"
+img: "https://m.media-amazon.com/images/M/MV5BMDlkMmE5ZTEtNTA0YS00OTBjLTgyYmEtMGExMzJkOTRjNDg4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2017-04-21"
 categories: [ "movies" ]
 title: "28 Dias"

@@ -1,5 +1,6 @@
 ---
 imdb: "1454910"
+img: "https://m.media-amazon.com/images/M/MV5BMDViNWI4MjItOWZjZC00OWI1LWIxMTQtMzM2YWU5NjE1YWIwXkEyXkFqcGdeQXVyMjIwNjIxNjc@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2011-10-11"
 categories: [ "movies" ]
 title: "Copacabana"

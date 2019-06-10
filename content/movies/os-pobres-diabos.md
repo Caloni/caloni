@@ -2,6 +2,7 @@
 cabine: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/os-pobres-diabos/"
 imdb: "3072174"
+img: "https://m.media-amazon.com/images/M/MV5BYTNjZTA2NDQtZmE0NS00M2M2LTlmODEtODI4NDBjNzYyOGMwXkEyXkFqcGdeQXVyMjEzMTAwNjY@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2017-07-01"
 categories: [ "movies" ]
 title: "Os Pobres Diabos"

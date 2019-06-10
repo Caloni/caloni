@@ -3,6 +3,7 @@ date: 2018-07-01T15:58:24-03:00
 title: "Mandou Bem"
 desc: "Série televisiva culinária apresentada pela hilária Nicole Byer."
 imdb: "6987788"
+img: "https://m.media-amazon.com/images/M/MV5BYTU4MDU3OGYtZTBkYi00NzQ4LTg4N2MtOWI4N2UxMTllYmQ1XkEyXkFqcGdeQXVyMjE4MjEyNzI@._V1_SY150_CR3,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "3/5"
 ---

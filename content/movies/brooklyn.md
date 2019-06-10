@@ -1,5 +1,6 @@
 ---
 imdb: "2381111"
+img: "https://m.media-amazon.com/images/M/MV5BMzE4MDk5NzEyOV5BMl5BanBnXkFtZTgwNDM4NDA3NjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-07-31"
 categories: [ "movies" ]
 title: "Brooklyn"

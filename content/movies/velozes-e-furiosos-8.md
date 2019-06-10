@@ -1,5 +1,6 @@
 ---
 imdb: "4630562"
+img: "https://m.media-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2017-04-18"
 categories: [ "movies" ]
 title: "Velozes e Furiosos 8"

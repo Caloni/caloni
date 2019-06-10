@@ -1,5 +1,6 @@
 ---
 imdb: "2382298"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ2OTQzMjcxNF5BMl5BanBnXkFtZTgwMzc2Njk3MTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-03-22"
 categories: [ "movies" ]
 title: "Life Itself"

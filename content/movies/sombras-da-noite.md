@@ -1,5 +1,6 @@
 ---
 imdb: "1077368"
+img: "https://m.media-amazon.com/images/M/MV5BMjc0NzAyMzI1MF5BMl5BanBnXkFtZTcwMTE0NDQ1Nw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-06-27"
 categories: [ "movies" ]
 title: "Sombras da Noite"

@@ -1,5 +1,6 @@
 ---
 imdb: "5295524"
+img: "https://m.media-amazon.com/images/M/MV5BMmM2OGYwZmEtYmU3OS00OWYyLWE4ZmYtZmEwYzFmNTk0YmM4XkEyXkFqcGdeQXVyMTgyNDk1OTY@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2017-07-04"
 categories: [ "series" ]
 title: "Crashing"

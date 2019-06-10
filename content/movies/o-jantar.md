@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "3203620"
+img: "https://m.media-amazon.com/images/M/MV5BMjM0ODg1NTMzMV5BMl5BanBnXkFtZTgwMjczMzA2MTI@._V1_SY150_CR1,0,101,150_.jpg"
 date: 2017-08-09T23:43:21
 categories: [ "movies" ]
 title: "O Jantar"

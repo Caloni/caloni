@@ -1,5 +1,6 @@
 ---
 imdb: "1410297"
+img: "https://m.media-amazon.com/images/M/MV5BNmVkMjFlYjMtODg0MS00ODM0LWI3ZjItZjBjODdkYzhkZGMzXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2010-07-24"
 categories: [ "movies" ]
 title: "O Bem Amado"

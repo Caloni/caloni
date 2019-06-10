@@ -1,5 +1,6 @@
 ---
 imdb: "1284575"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ5NDI4MDM0Nl5BMl5BanBnXkFtZTcwNDYwODU2NA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-02-15"
 categories: [ "movies" ]
 title: "Professora Sem Classe"

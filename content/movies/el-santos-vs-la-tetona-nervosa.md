@@ -1,5 +1,6 @@
 ---
 imdb: "2243275"
+img: "https://m.media-amazon.com/images/M/MV5BMjQ0MDMzNTY4N15BMl5BanBnXkFtZTcwNDM0OTQ4OA@@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2014-03-02"
 categories: [ "movies" ]
 title: "El Santos VS la Tetona Mendoza"

@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "4685554"
+img: "https://m.media-amazon.com/images/M/MV5BNTQ4MTA4NTkyN15BMl5BanBnXkFtZTgwMjQ3NzI4NjE@._V1_SY150_CR2,0,101,150_.jpg"
 date: 2017-08-06T15:24:03
 categories: [ "movies" ]
 title: "O Reino Gelado: Fogo e Gelo"

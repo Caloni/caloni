@@ -1,5 +1,6 @@
 ---
 imdb: "1527186"
+img: "https://m.media-amazon.com/images/M/MV5BMTk4NjM0MjI3MV5BMl5BanBnXkFtZTcwNjcxMDYzNg@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2011-08-07"
 categories: [ "movies" ]
 title: "Melancolia"

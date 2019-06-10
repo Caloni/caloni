@@ -1,5 +1,6 @@
 ---
 imdb: "0472181"
+img: "https://m.media-amazon.com/images/M/MV5BOTUzNTczYTMtMzdkOC00ODlkLTk1NDMtYWYxMzQyYzI1YmVjXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2011-09-11"
 categories: [ "movies" ]
 title: "Os Smurfs"

@@ -1,5 +1,6 @@
 ---
 imdb: "0049406"
+img: "https://m.media-amazon.com/images/M/MV5BMDE5ZjAwY2YtOWM5Yi00ZWNlLWE5ODQtYjA4NzA1NGFkZDU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2013-10-24"
 categories: [ "movies" ]
 title: "O Grande Golpe"

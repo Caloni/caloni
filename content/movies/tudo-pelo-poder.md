@@ -1,5 +1,6 @@
 ---
 imdb: "1124035"
+img: "https://m.media-amazon.com/images/M/MV5BNTU4MjkzNTY0OF5BMl5BanBnXkFtZTcwNDI5ODIxNg@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2011-12-30"
 categories: [ "movies" ]
 title: "Tudo pelo Poder"

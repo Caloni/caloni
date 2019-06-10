@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "3163304"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ4OTY3NzAyM15BMl5BanBnXkFtZTgwOTM3Mzk0NDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-08-31"
 categories: [ "movies" ]
 title: "A Festa de Despedida"

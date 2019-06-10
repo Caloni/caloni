@@ -1,5 +1,6 @@
 ---
 imdb: "0399295"
+img: "https://m.media-amazon.com/images/M/MV5BMTYzZWE3MDAtZjZkMi00MzhlLTlhZDUtNmI2Zjg3OWVlZWI0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2011-04-07"
 categories: [ "movies" ]
 title: "O Senhor das Armas"

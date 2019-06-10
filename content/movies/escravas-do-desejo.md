@@ -1,5 +1,6 @@
 ---
 imdb: "0067690"
+img: "https://m.media-amazon.com/images/M/MV5BZmZjYzQ1YjMtY2Q3Ny00MDU3LTgyMmYtODg5MWFlY2FlOWViXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_SY150_CR3,0,101,150_.jpg"
 date: "2011-12-20"
 categories: [ "movies" ]
 title: "Escravas do Desejo"

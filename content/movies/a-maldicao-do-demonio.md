@@ -1,5 +1,6 @@
 ---
 imdb: "00054067"
+img: "https://m.media-amazon.com/images/M/MV5BNmI0Y2NlYzItY2QzNy00YjdlLTk2N2UtZjIwMzZjNmM4NTcwXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_SY150_CR3,0,101,150_.jpg"
 date: "2015-08-11"
 categories: [ "movies" ]
 title: "A Maldição do Demônio"

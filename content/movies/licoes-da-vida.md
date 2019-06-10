@@ -1,5 +1,6 @@
 ---
 imdb: "0446687"
+img: "https://m.media-amazon.com/images/M/MV5BMTg4NzE5MDE3Ml5BMl5BanBnXkFtZTcwMDgxNjgzMQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2011-12-20"
 categories: [ "movies" ]
 title: "Lições de Vida"

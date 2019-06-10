@@ -1,6 +1,7 @@
 ---
 date: 2018-01-13T18:13:38
 imdb: "5607714"
+img: "https://m.media-amazon.com/images/M/MV5BMTA1NmIxMmEtNTdhNS00MmVkLWI1ZTEtN2FhNTU2NDAzYzNhXkEyXkFqcGdeQXVyMDYxMTUwNg@@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
 title: "Corpo e Alma"

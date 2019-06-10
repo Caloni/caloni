@@ -3,6 +3,7 @@ date: 2018-06-27T13:41:52-03:00
 title: "Homem-Formiga e a Vespa"
 categories: [ "movies" ]
 imdb: "5095030"
+img: "https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
 desc: "Ant-Man and the Wasp (EUA, 2018), escrito por Chris McKenna, Erik Sommers, Paul Rudd, Andrew Barrer, Gabriel Ferrari, dirigido por Peyton Reed, com Paul Rudd, Evangeline Lilly, Michael Peña, Michael Douglas, Laurence Fishburne e Michelle Pfeiffer."
 stars: "4/5"
 cabine: "cinemaqui"

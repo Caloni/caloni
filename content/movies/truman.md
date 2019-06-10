@@ -1,5 +1,6 @@
 ---
 imdb: "3754940"
+img: "https://m.media-amazon.com/images/M/MV5BZGI3ZjI3ZTgtMmUwMy00YTgzLWIyYzQtMzg3ZWMyMjVlYThmXkEyXkFqcGdeQXVyMzE1ODcwNDc@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2016-05-03"
 categories: [ "movies" ]
 title: "Truman"

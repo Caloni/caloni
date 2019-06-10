@@ -1,5 +1,6 @@
 ---
 imdb: "5651844"
+img: "https://m.media-amazon.com/images/M/MV5BMjUzOTQwOTg1MF5BMl5BanBnXkFtZTgwNzE4NzQ3NjM@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-02-28"
 categories: [ "series" ]
 title: "Travelers"

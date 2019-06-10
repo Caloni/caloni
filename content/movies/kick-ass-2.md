@@ -1,5 +1,6 @@
 ---
 imdb: "1650554"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ4OTQxNzc0N15BMl5BanBnXkFtZTcwOTQxOTU5OQ@@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2015-03-10"
 categories: [ "movies" ]
 title: "Kick Ass 2"

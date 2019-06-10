@@ -1,5 +1,6 @@
 ---
 imdb: "4972582"
+img: "https://m.media-amazon.com/images/M/MV5BZTJiNGM2NjItNDRiYy00ZjY0LTgwNTItZDBmZGRlODQ4YThkL2ltYWdlXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-04-18"
 categories: [ "movies" ]
 title: "Fragmentado"

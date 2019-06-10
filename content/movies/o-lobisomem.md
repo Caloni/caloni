@@ -1,5 +1,6 @@
 ---
 imdb: "0780653"
+img: "https://m.media-amazon.com/images/M/MV5BOTUyODEyMDIyM15BMl5BanBnXkFtZTcwNTYxMzg5Mg@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-11-25"
 categories: [ "movies" ]
 title: "O Lobisomem"

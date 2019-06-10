@@ -1,5 +1,6 @@
 ---
 imdb: "2404435"
+img: "https://m.media-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-10-12"
 categories: [ "movies" ]
 title: "Sete Homens e um Destino"

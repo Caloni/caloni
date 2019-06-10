@@ -1,5 +1,6 @@
 ---
 imdb: "1565958"
+img: "https://m.media-amazon.com/images/M/MV5BYWM5N2U5N2MtMDE2NC00NGQyLTgyMGItMjk0Mzg2ZGM0ODEzXkEyXkFqcGdeQXVyMTY5MDE5NA@@._V1_SY150_CR4,0,101,150_.jpg"
 date: "2012-01-04"
 categories: [ "movies" ]
 title: "Românticos Anônimos"

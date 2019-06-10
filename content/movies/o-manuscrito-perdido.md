@@ -1,6 +1,7 @@
 ---
 title: "O Manuscrito Perdido"
 imdb: "2166420"
+img: "https://m.media-amazon.com/images/M/MV5BYmNlNzNlZWItYjQ1MC00NDAwLTk4YzctMmE2YTI4MDQ1MDhjXkEyXkFqcGdeQXVyNjU2MDM1NTA@._V1_SY150_CR1,0,101,150_.jpg"
 stars: "3/5"
 date: "2011-10-23"
 categories: [ "movies" ]

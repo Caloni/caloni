@@ -1,5 +1,6 @@
 ---
 imdb: "1781866"
+img: "https://m.media-amazon.com/images/M/MV5BMTQzZWY1MmQtMzg1NS00MTk4LTkyODctNDU4NWRkODIzMDhjXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2010-11-20"
 categories: [ "movies" ]
 title: "Muita Calma Nessa Hora"

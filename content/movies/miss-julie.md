@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "2667960"
+img: "https://m.media-amazon.com/images/M/MV5BMTgyMjY3MzI5M15BMl5BanBnXkFtZTgwNTkxNTU0MzE@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2015-05-17"
 categories: [ "movies" ]
 title: "Miss Julie"

@@ -1,5 +1,6 @@
 ---
 imdb: "2132285"
+img: "https://m.media-amazon.com/images/M/MV5BMTQzMTgwMzQxN15BMl5BanBnXkFtZTcwOTcwNTY0OQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-01-02"
 categories: [ "movies" ]
 title: "Bling Ring A Gangue de Hollywood"

@@ -1,5 +1,6 @@
 ---
 imdb: "1937390"
+img: "https://m.media-amazon.com/images/M/MV5BMjA3Njc5MjI5Ml5BMl5BanBnXkFtZTgwNTY3Mjg3MDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: 2016-06-06
 categories: [ "movies" ]
 title: "Ninfomaníaca Vol. 1"

@@ -1,5 +1,6 @@
 ---
 imdb: "0054215"
+img: "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2011-06-30"
 categories: [ "movies" ]
 title: "Psicose"

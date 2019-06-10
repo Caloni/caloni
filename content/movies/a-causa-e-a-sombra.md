@@ -1,5 +1,6 @@
 ---
 imdb: "5291602"
+img: "https://m.media-amazon.com/images/M/MV5BMDNjY2FkZWMtM2YzZS00NTIyLThlMmMtYWM4OGZjNDBkM2ViXkEyXkFqcGdeQXVyNTA3NzE4MDc@._V1_SY150_CR83,0,101,150_.jpg"
 date: "2016-10-31"
 categories: [ "movies" ]
 title: "A Causa e a Sombra"

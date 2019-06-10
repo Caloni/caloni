@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "3712088"
+img: "https://m.media-amazon.com/images/M/MV5BNzFlMTEzMjctYmE1Yi00ZTI3LThjMjUtZjJjN2QyZjU5NzQ0XkEyXkFqcGdeQXVyNjg1NTY4MA@@._V1_SY150_CR6,0,101,150_.jpg"
 date: "2016-03-07"
 categories: [ "movies" ]
 title: "Astrágalo"

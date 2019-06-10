@@ -1,5 +1,6 @@
 ---
 imdb: "0824747"
+img: "https://m.media-amazon.com/images/M/MV5BOTA1Mzg3NjIxNV5BMl5BanBnXkFtZTcwNzU2NTc5MQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-03-18"
 categories: [ "movies" ]
 title: "A Troca"

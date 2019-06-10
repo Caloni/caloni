@@ -1,5 +1,6 @@
 ---
 imdb: "1789810"
+img: "https://m.media-amazon.com/images/M/MV5BMjI5NTUzNTI2OV5BMl5BanBnXkFtZTcwMTkzMDA5Ng@@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2010-11-05"
 categories: [ "movies" ]
 count: 2

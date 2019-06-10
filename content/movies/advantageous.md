@@ -1,5 +1,6 @@
 ---
 imdb: "3090670"
+img: "https://m.media-amazon.com/images/M/MV5BMjE2OTMzNjQxOV5BMl5BanBnXkFtZTgwMTM5MjE1NjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-09-20"
 categories: [ "movies" ]
 title: "Advantageous"

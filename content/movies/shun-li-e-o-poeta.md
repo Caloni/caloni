@@ -1,5 +1,6 @@
 ---
 imdb: "2036388"
+img: "https://m.media-amazon.com/images/M/MV5BMjA4MDQ0OTY4N15BMl5BanBnXkFtZTcwMzYzMzc4Ng@@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2012-10-28"
 categories: [ "movies" ]
 title: "Shun Li e o Poeta"

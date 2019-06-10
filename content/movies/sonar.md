@@ -1,5 +1,6 @@
 ---
 imdb: "4538652"
+img: "https://m.media-amazon.com/images/M/MV5BNzVkNTllZDMtNmUxYS00ZTJiLWEzODMtOTAzODU5MWUyNzY1XkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SY150_CR3,0,101,150_.jpg"
 date: "2016-10-31"
 categories: [ "movies" ]
 title: "Sonar"

@@ -1,5 +1,6 @@
 ---
 imdb: "1440266"
+img: "https://m.media-amazon.com/images/M/MV5BMTMyMTI1NDA5MV5BMl5BanBnXkFtZTcwNzM1NTY5Ng@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-04-04"
 categories: [ "movies" ]
 title: "Pina"

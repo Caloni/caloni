@@ -1,5 +1,6 @@
 ---
 imdb: "1104001"
+img: "https://m.media-amazon.com/images/M/MV5BMTk4NTk4MTk1OF5BMl5BanBnXkFtZTcwNTE2MDIwNA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: 2018-05-14
 categories: [ "movies" ]
 title: "Tron: o Legado"

@@ -1,5 +1,6 @@
 ---
 imdb: "0116313"
+img: "https://m.media-amazon.com/images/M/MV5BMzAwZTA3Y2UtMWVlMi00ZmNiLTkzZjAtYjA2YzBhMGMyYzQ2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2013-07-01"
 categories: [ "movies" ]
 title: "O Clube das Desquitadas"

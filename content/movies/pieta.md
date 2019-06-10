@@ -1,5 +1,6 @@
 ---
 imdb: "2299842"
+img: "https://m.media-amazon.com/images/M/MV5BODQ3Nzg1NjkyNl5BMl5BanBnXkFtZTcwMzEyOTQzOQ@@._V1_SY150_CR6,0,101,150_.jpg"
 date: "2013-03-19"
 categories: [ "movies" ]
 title: "Pieta"

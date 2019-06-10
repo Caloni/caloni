@@ -1,5 +1,6 @@
 ---
 imdb: "1276104"
+img: "https://m.media-amazon.com/images/M/MV5BMTg5NTA3NTg4NF5BMl5BanBnXkFtZTcwNTA0NDYzOA@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-10-09"
 categories: [ "movies" ]
 title: "Looper Assassinos do Futuro"

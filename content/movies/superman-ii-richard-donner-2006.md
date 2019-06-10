@@ -1,5 +1,6 @@
 ---
 imdb: "0839995"
+img: "https://m.media-amazon.com/images/M/MV5BNDhiNzNhNmMtMjhiZS00Mjc4LWE5ZmEtZjg5YTY2M2FkZmNiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-09-19"
 categories: [ "movies" ]
 title: "Superman II"

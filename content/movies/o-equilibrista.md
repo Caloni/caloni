@@ -1,5 +1,6 @@
 ---
 imdb: "1155592"
+img: "https://m.media-amazon.com/images/M/MV5BMTMxNTk3NDY1NV5BMl5BanBnXkFtZTcwNDk0ODg3MQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-03-02"
 categories: [ "movies" ]
 title: "O Equilibrista"

@@ -1,6 +1,7 @@
 ---
 date: 2018-02-20T01:28:30
 imdb: "1659619"
+img: "https://m.media-amazon.com/images/M/MV5BYzdjZGI3YjItMjM0OS00MGM3LWJhMGUtZGIxM2ZjODBmMTZkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 title: "A Odisseia"

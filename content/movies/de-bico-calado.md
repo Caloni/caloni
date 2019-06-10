@@ -1,5 +1,6 @@
 ---
 imdb: "0444653"
+img: "https://m.media-amazon.com/images/M/MV5BNTA4OTc2MDc4Nl5BMl5BanBnXkFtZTYwNjUyODY2._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-10-28"
 categories: [ "movies" ]
 title: "De Bico Calado"

@@ -1,5 +1,6 @@
 ---
 imdb: "1637688"
+img: "https://m.media-amazon.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_SY150_CR3,0,101,150_.jpg"
 date: "2011-11-17"
 categories: [ "movies" ]
 title: "O Preço do Amanhã"

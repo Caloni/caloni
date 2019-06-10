@@ -1,5 +1,6 @@
 ---
 imdb: "0872230"
+img: "https://m.media-amazon.com/images/M/MV5BMTk4NjE1OTg1MV5BMl5BanBnXkFtZTcwNTgwOTU3Mw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2010-12-14"
 categories: [ "movies" ]
 title: "A Sétima Alma"

@@ -1,5 +1,6 @@
 ---
 imdb: "1007028"
+img: "https://m.media-amazon.com/images/M/MV5BY2I1N2Y0ODEtNzZmZS00NzBjLWFkZjEtMTVkOTY1Y2UzZGE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2011-02-13"
 categories: [ "movies" ]
 title: "Pagando Bem Que Mal Tem"

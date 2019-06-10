@@ -1,5 +1,6 @@
 ---
 imdb: "0093409"
+img: "https://m.media-amazon.com/images/M/MV5BZTllNWNlZjctMWQwMS00ZDc3LTg5ZjMtNzhmNzhjMmVhYTFlXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-11-28"
 categories: [ "movies" ]
 title: "Máquina Mortífera"

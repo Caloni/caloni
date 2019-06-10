@@ -1,5 +1,6 @@
 ---
 imdb: "1077258"
+img: "https://m.media-amazon.com/images/M/MV5BODdmNmM2ZTgtODM1MS00ZGMxLTk3MTMtMGQ1ODZhMTQ1NWEwL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2015-09-27"
 categories: [ "movies" ]
 title: "Planeta Terror"

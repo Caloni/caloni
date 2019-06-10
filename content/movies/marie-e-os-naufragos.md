@@ -1,5 +1,6 @@
 ---
 imdb: "4428774"
+img: "https://m.media-amazon.com/images/M/MV5BZmZjNDMyNzEtY2NmZS00NzEzLWI2Y2UtYWY4NjI0ZDVkNjgzXkEyXkFqcGdeQXVyNjc3NzgwNTY@._V1_SY150_CR4,0,101,150_.jpg"
 date: "2016-10-28"
 categories: [ "movies" ]
 title: "Marie e os Náufragos"

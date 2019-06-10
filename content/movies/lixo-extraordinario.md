@@ -1,5 +1,6 @@
 ---
 imdb: "1268204"
+img: "https://m.media-amazon.com/images/M/MV5BMTM2ODkxMTY1NF5BMl5BanBnXkFtZTcwNTAxMzc5Mw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2011-01-30"
 categories: [ "movies" ]
 title: "Lixo Extraordinário"

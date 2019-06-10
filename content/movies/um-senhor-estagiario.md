@@ -1,5 +1,6 @@
 ---
 imdb: "2361509"
+img: "https://m.media-amazon.com/images/M/MV5BMTUyNjE5NjI5OF5BMl5BanBnXkFtZTgwNzYzMzU3NjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2015-12-27"
 categories: [ "movies" ]
 title: "Um Senhor Estagiário"

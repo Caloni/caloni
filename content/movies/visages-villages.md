@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "5598102"
+img: "https://m.media-amazon.com/images/M/MV5BMmUwMzJkODEtOTZjNy00ZWNkLWE4ZDItYzcyYzA2OGJhMjYwXkEyXkFqcGdeQXVyNjc0MzY3NTA@._V1_SY150_CR0,0,101,150_.jpg"
 date: 2017-11-27T19:05:55
 categories: [ "movies" ]
 title: "Visages, Villages"

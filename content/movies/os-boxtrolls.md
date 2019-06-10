@@ -1,5 +1,6 @@
 ---
 imdb: "0787474"
+img: "https://m.media-amazon.com/images/M/MV5BMTQxODA5MDkyNV5BMl5BanBnXkFtZTgwMDMyNjkzMjE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-12-23"
 categories: [ "movies" ]
 title: "Os Boxtrolls"

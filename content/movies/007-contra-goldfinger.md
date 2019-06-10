@@ -1,5 +1,6 @@
 ---
 imdb: "0058150"
+img: "https://m.media-amazon.com/images/M/MV5BMTQ2MzE0OTU3NV5BMl5BanBnXkFtZTcwNjQxNTgzNA@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2012-11-11"
 categories: [ "movies" ]
 title: "007 Contra Goldfinger"

@@ -1,5 +1,6 @@
 ---
 imdb: "7573686"
+img: "https://m.media-amazon.com/images/M/MV5BYzliNDYxYWEtZTJiZi00YzQ3LWJlMTMtMDkzOWNhMGI1ZTVjXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SY150_CR2,0,101,150_.jpg"
 date: 2017-12-27T16:43:04
 categories: [ "series" ]
 title: "Erased: Piloto"

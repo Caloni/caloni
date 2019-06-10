@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "0907134"
+img: "https://m.media-amazon.com/images/M/MV5BZGMzYjE4MzEtNTUzOC00OGQyLWI5YTUtYzc1ODU3M2NhOTQ2XkEyXkFqcGdeQXVyNDc2MTA2NDg@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-11-30"
 categories: [ "movies" ]
 title: "Saneamento Básico, O Filme"

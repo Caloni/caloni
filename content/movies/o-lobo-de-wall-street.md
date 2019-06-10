@@ -1,5 +1,6 @@
 ---
 imdb: "0993846"
+img: "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: 2018-10-07
 categories: [ "movies" ]
 title: "O Lobo de Wall Street"

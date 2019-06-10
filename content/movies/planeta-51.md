@@ -1,5 +1,6 @@
 ---
 imdb: "0762125"
+img: "https://m.media-amazon.com/images/M/MV5BMTUyOTAyNTA5Ml5BMl5BanBnXkFtZTcwODU2OTM0Mg@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2011-11-06"
 categories: [ "movies" ]
 title: "Planeta 51"

@@ -1,5 +1,6 @@
 ---
 imdb: "2023587"
+img: "https://m.media-amazon.com/images/M/MV5BMTM5MjIwNDAwMl5BMl5BanBnXkFtZTcwNzQyOTY0OA@@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2014-02-15"
 categories: [ "movies" ]
 title: "Mama"

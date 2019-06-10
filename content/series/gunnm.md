@@ -3,6 +3,7 @@ date: 2019-02-06T20:15:37-02:00
 title: "Gunnm (aka Alita)"
 desc: "Gunnm (aka Alita). Japão, 1993. Escrito por Akinori Endô baseado no mangá de Yukito Kishiro. Dirigido por Hiroshi Fukutomi. Com Miki Itô, Shunsuke Kariya e Kappei Yamaguchi."
 imdb: "0107061"
+img: "https://m.media-amazon.com/images/M/MV5BMTM4ODQ3MTM5MV5BMl5BanBnXkFtZTYwNTQ3NzI5._V1._CR19,3,312,447_SY150_CR2,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "2/5"
 ---

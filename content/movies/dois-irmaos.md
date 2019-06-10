@@ -1,5 +1,6 @@
 ---
 imdb: "1576382"
+img: "https://m.media-amazon.com/images/M/MV5BMmVhZGQyMGEtNzQ4Zi00YWIyLTk1ZTAtYjgwN2YzMTdlOWY5XkEyXkFqcGdeQXVyMzU1ODUxOTk@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2010-10-08"
 categories: [ "movies" ]
 title: "Dois Irmãos"

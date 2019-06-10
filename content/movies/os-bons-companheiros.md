@@ -1,5 +1,6 @@
 ---
 imdb: "0099685"
+img: "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2013-01-01"
 categories: [ "movies" ]
 title: "Os Bons Companheiros"

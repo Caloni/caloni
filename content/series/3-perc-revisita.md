@@ -1,5 +1,6 @@
 ---
 imdb: "4922804"
+img: "https://m.media-amazon.com/images/M/MV5BYTI0ZmZjMWEtMjQzMy00MjIyLWE2ZGQtZWQ4MjEyZDA1NTI2XkEyXkFqcGdeQXVyMjIwNTI1MTM@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2017-01-01"
 categories: [ "series" ]
 title: "3%: spoilers sobre uma série para bandidos"

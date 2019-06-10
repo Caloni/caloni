@@ -1,5 +1,6 @@
 ---
 imdb: "1386697"
+img: "https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-08-12"
 categories: [ "movies" ]
 title: "Esquadrão Suicida"

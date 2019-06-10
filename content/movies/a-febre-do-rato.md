@@ -1,5 +1,6 @@
 ---
 imdb: "2200908"
+img: "https://m.media-amazon.com/images/M/MV5BNzA5YjA0MjYtNzA0Yy00ZmU3LWE3YzYtZmVlODBjMjQ2YjVlXkEyXkFqcGdeQXVyNDc2MTA2NDg@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2012-08-03"
 categories: [ "movies" ]
 title: "A Febre do Rato"

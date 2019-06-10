@@ -1,6 +1,7 @@
 ---
 date: 2018-01-12T01:19:37
 imdb: "2085059"
+img: "https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "2/5"
 title: "Black Mirror - S04E02 - Arkangel"

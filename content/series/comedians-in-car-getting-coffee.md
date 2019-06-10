@@ -1,6 +1,7 @@
 ---
 date: 2018-02-23T14:42:28
 imdb: "2314952"
+img: "https://m.media-amazon.com/images/M/MV5BMWExMDNjMGYtNDcwYy00ZmY4LTliY2UtYWNiNjY4NDY2MTBkXkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "4/5"
 title: "Comedians In Car Getting Coffee"

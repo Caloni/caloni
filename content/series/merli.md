@@ -3,6 +3,7 @@ date: 2018-08-06T16:00:33-03:00
 title: "Merlí"
 desc: ""
 imdb: "4580372"
+img: "https://m.media-amazon.com/images/M/MV5BMWUyNThjZDQtNWRjZi00NDg4LWEyOWItYjk0NGEwYjk2MjVmXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "3/5"
 ---

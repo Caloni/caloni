@@ -3,6 +3,7 @@ date: 2019-06-09T12:54:07-03:00
 title: "Como Vender Drogas Online (Rápido)"
 desc: "How to Sell Drugs Online (Fast). Alemanha, 2019. Criado por Philipp Käßbohrer, Matthias Murmann, com Maximilian Mundt, Danilo Kamber, Lena Klenke."
 imdb: "9184994"
+img: "https://m.media-amazon.com/images/M/MV5BOWVhN2IxYjYtNmY1ZS00NTIyLTg4N2MtYmM4OGRiNDFkOGFiXkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "3/5"
 ---

@@ -1,5 +1,6 @@
 ---
 imdb: "2616114"
+img: "https://m.media-amazon.com/images/M/MV5BMjMzMDQwMzM2M15BMl5BanBnXkFtZTcwMzA1OTg1OQ@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2016-08-28"
 categories: [ "movies" ]
 title: "O Concurso"

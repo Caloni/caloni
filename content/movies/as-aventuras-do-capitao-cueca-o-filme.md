@@ -1,5 +1,6 @@
 ---
 imdb: "2091256"
+img: "https://m.media-amazon.com/images/M/MV5BMjE1MzM2NzgzNV5BMl5BanBnXkFtZTgwODU3NTI0MTI@._V1_SY150_CR0,0,101,150_.jpg"
 date: 2017-10-21T23:13:48
 categories: [ "movies" ]
 title: "As Aventuras Do Capitao Cueca O Filme"

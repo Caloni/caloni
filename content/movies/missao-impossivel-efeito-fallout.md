@@ -3,6 +3,7 @@ date: 2018-07-24T14:48:24-03:00
 title: "Missão Impossível: Efeito Fallout"
 desc: "Mission: Impossible - Fallout (EUA, 2018), escrito e dirigido por Christopher McQuarrie (baseado na série de Bruce Geller), com Tom Cruise, Henry Cavill, Ving Rhames, Simon Pegg, Rebecca Ferguson, Sean Harris, Angela Bassett, Vanessa Kirby, Michelle Monaghan."
 imdb: "4912910"
+img: "https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
 cabine: "cinemaqui"

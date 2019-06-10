@@ -1,5 +1,6 @@
 ---
 imdb: "0433035"
+img: "https://m.media-amazon.com/images/M/MV5BMjEzMzEzNjg0N15BMl5BanBnXkFtZTcwMzg4NDk0Ng@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-04-16"
 categories: [ "movies" ]
 title: "Gigantes de Aço"

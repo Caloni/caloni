@@ -1,5 +1,6 @@
 ---
 imdb: "1430626"
+img: "https://m.media-amazon.com/images/M/MV5BNDhkOGZkZWMtNGI4Mi00ZWI3LTgyYTgtMDU4ZDI3NTNjMWFiXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-11-04"
 categories: [ "movies" ]
 title: "Piratas Pirados!"

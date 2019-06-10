@@ -1,5 +1,6 @@
 ---
 imdb: "1731141"
+img: "https://m.media-amazon.com/images/M/MV5BMjAzMzI5OTgzMl5BMl5BanBnXkFtZTgwMTU5MTAwMDE@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2014-06-21"
 categories: [ "movies" ]
 title: "Enders Game O Jogo do Exterminador"

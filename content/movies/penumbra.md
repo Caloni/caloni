@@ -1,5 +1,6 @@
 ---
 imdb: "1725073"
+img: "https://m.media-amazon.com/images/M/MV5BMTkwODI4ODY5N15BMl5BanBnXkFtZTcwMzQyOTU2Nw@@._V1_SY150_CR0,0,101,150_.jpg"
 date: "2012-02-15"
 categories: [ "movies" ]
 title: "Penumbra"

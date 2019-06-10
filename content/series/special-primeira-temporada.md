@@ -3,6 +3,7 @@ date: 2019-04-26T16:11:32-03:00
 title: "Special Primeira Temporada"
 desc: "Special. EUA, 2019. Criado por Ryan O'Connell. Com Ryan O'Connell, Jessica Hecht, Punam Patel."
 imdb: "9381622"
+img: "https://m.media-amazon.com/images/M/MV5BZTc1OGJkZTEtZGU2Mi00YTJmLTg0ZGYtN2E1NWI3MjBmY2IyXkEyXkFqcGdeQXVyMjYzMDg2MDk@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "1/5"
 ---

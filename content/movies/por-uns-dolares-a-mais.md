@@ -1,5 +1,6 @@
 ---
 imdb: "0059578"
+img: "https://m.media-amazon.com/images/M/MV5BNWM1NmYyM2ItMTFhNy00NDU0LThlYWUtYjQyYTJmOTY0ZmM0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX101_CR0,0,101,150_.jpg"
 date: "2012-06-10"
 categories: [ "movies" ]
 title: "Por uns Dólares a Mais"

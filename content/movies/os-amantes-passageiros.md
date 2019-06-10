@@ -1,5 +1,6 @@
 ---
 imdb: "2243389"
+img: "https://m.media-amazon.com/images/M/MV5BMTYxODgwNDQyOF5BMl5BanBnXkFtZTcwMzM2NjkwOQ@@._V1_SY150_CR1,0,101,150_.jpg"
 date: "2013-07-28"
 categories: [ "movies" ]
 title: "Os Amantes Passageiros"

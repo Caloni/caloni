@@ -3,6 +3,7 @@ date: 2019-04-27T13:56:32-03:00
 title: "I Think You Should Leave With Tim Robinson"
 desc: "I Think You Should Leave With Tim Robinson"
 imdb: "10050772"
+img: "https://m.media-amazon.com/images/M/MV5BNDAxOWU5ZGItNmI2NC00OTcyLThkM2EtYjk3NDQzYWI5YTM2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR3,0,101,150_.jpg"
 categories: [ "series" ]
 stars: "3/5"
 ---

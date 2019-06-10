@@ -1,6 +1,7 @@
 ---
 cabine: "cinemaqui"
 imdb: "4598764"
+img: "https://m.media-amazon.com/images/M/MV5BNWIwYTIzNTQtYTNlMy00ZTYxLWFjNmUtMjRiYTc1YzZjMjhlXkEyXkFqcGdeQXVyMTY3MTIwMTg@._V1_SY150_CR2,0,101,150_.jpg"
 date: "2016-04-30"
 categories: [ "movies" ]
 title: "Nós, Eles e Eu"
