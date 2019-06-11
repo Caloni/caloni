@@ -4,8 +4,8 @@
         <dc-metadata  xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
             <dc:Title>Blogue do Caloni</dc:Title>
             <dc:Language>pt</dc:Language>
-            <dc:Creator>Wanderley Caloni</dc:Creator>
-            <dc:Copyrights>Copyright Blogue do Caloni</dc:Copyrights>
+            <dc:Creator>Caloni</dc:Creator>
+            <dc:Copyrights>Copyright Caloni</dc:Copyrights>
             <dc:Publisher>Blogue do Caloni</dc:Publisher>
             <x-metadata>
                 <EmbeddedCover>cover.jpg</EmbeddedCover>
@@ -19,6 +19,6 @@
         <itemref idref="content"/>
     </spine>
     <guide>
-        <reference type="text" title="Conteúdo" href="book.html#posts"/>
+        <reference type="text" title="Início" href="book.html#begin"/>
     </guide>
 </package>

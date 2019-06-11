@@ -12,9 +12,7 @@
 
 <navPoint id="" playOrder="3"> <navLabel> <text> </text> </navLabel> <content src="book.html#" /> </navPoint>
 
-<navPoint id="toc"            playOrder="1"><navLabel>  <text>Sumário</text>                </navLabel> <content src="book.html#toc"          /> </navPoint>
-<navPoint id="idx"            playOrder="2"><navLabel>  <text>Índice</text>                 </navLabel> <content src="book.html#idx"          /> </navPoint>
-<navPoint id="posts"          playOrder="3"><navLabel>  <text>Conteúdo</text>               </navLabel> <content src="book.html#posts"        /> </navPoint>
+<navPoint id="begin"            playOrder="1"><navLabel>  <text>Início</text>                 </navLabel> <content src="book.html#begin"          /> </navPoint>
 
 </navMap>
 </ncx>
