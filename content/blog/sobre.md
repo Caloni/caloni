@@ -3,8 +3,6 @@ date: "2010-04-01"
 title: "Bem-Vindo!"
 categories: [ "blog" ]
 ---
-<img src="/img/logo.svg" style="max-width:15%;min-width:40px;float:right;" alt="Logo" />
-
 Olá, caro cinéfilo! Aqui você irá encontrar a coletânea de textos escritos pelo aspirante a crítico de cinema Wanderley Caloni, criado e mantido desde 2010. São mais de 1500 textos sobre filmes e séries, de todos os gêneros, épocas e estilos.
 
 Críticos que costumo ler:
