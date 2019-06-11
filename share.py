@@ -15,6 +15,7 @@ import git
 
 sys.path.append(".auth")
 import twitter_caloni as twitter_credentials
+import medium_caloni as medium_credentials
 
 baseUrl = 'http://caloni.com.br/' 
 
@@ -51,6 +52,16 @@ def PublishToTwitter(postInfo, img):
     t.statuses.update(status=st, media_ids=",".join([id_img1]))
 
 
+def PublishToMedium(postInfo, img):
+    #if img:
+    #    print('opening image', img, 'to share')
+    #    imgUrl = urlopen(img)
+    #    img = imgUrl.read()
+
+    user = medium_credentials.client.get_current_user()
+    post = medium_credentials.client.create_post(user_id=user['id'], title=postInfo['subtitle'], content=postInfo['content'], content_format="markdown")
+
+
 def GetPermalinkFromCommit(ref):
 	g = git.Repo('.')
 	ci = g.commit(ref)
@@ -74,6 +85,8 @@ def GetPostInfo(ref):
     postInfo['shortlink'] = postInfo['link']
     comment = GetCommentFromCommit(ref)
     postInfo['subtitle'] = comment
+    postInfo['content'] = ""
+    content = False
 
     infos = {
         'title': '^title: \"(.*)\"',
@@ -86,6 +99,11 @@ def GetPostInfo(ref):
     }
     file = open(postInfo['file'], encoding='utf8')
     for line in file.readlines():
+        if content == True:
+            postInfo['content'] += line
+            pass
+        if line.find("---") == 0 and 'title' in postInfo:
+            content = True
         for key, search in infos.items():
             match = re.match(search, line)
             if match:
@@ -119,6 +137,7 @@ def PublishToSocialMedia(ref, img):
 
         print('publishing to twitter')
         PublishToTwitter(postInfo, img if img else postInfo['img'] if 'img' in postInfo else None)
+        PublishToMedium(postInfo, img if img else postInfo['img'] if 'img' in postInfo else None)
         if postInfo['link'].find('/movies/') != -1:
             print('share on letterboxd, please')
             webbrowser.open_new_tab('http://www.letterboxd.com/imdb/' + postInfo['imdb'])
