@@ -1,5 +1,6 @@
 ---
 title: Sobre o autor
+categories: [ "code" ]
 ---
 _wanderley.caloni at bitforge com br_
 

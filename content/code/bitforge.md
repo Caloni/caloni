@@ -1,5 +1,6 @@
 ---
 title: Sobre a BitForge
+categories: [ "code" ]
 ---
 http://www.bitforge.com.br
 
