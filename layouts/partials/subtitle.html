@@ -1,4 +1,4 @@
-<p class="subtitle">{{ partial "stars.html" . }} {{ if .Params.author }}{{ .Params.author }}{{ else }}Caloni{{ end }}, <a href="{{ .Site.Params.repo }}/commit/{{ .GitInfo.Hash }}" title="{{ .GitInfo.Subject }}">{{ .Date.Format "January 2, 2006" }}</a></p>
+<p class="subtitle">{{ partial "stars.html" . }} {{ if .Params.author }}{{ .Params.author }}{{ else }}Caloni{{ end }}<a href="{{ .Site.Params.repo }}{{ if .GitInfo }}/commit/{{ .GitInfo.Hash }}{{ end }}" title="{{ if .GitInfo }}{{ .GitInfo.Subject }}{{ else }}GitHub{{ end }}">{{ .Date.Format ", January 2, 2006" }}</a></p>
 {{ with .Params.imdb }}<a href="http://www.imdb.com/title/tt{{ . }}">{{ end }}
 {{ with .Params.img }}<img style="height:100%; max-height:320px;float: left;padding: 0 20px 20px 0;" src="{{ . }}" alt="External image"/>{{ end }}
 {{ with .Params.imdb }}</a>{{ end }}
