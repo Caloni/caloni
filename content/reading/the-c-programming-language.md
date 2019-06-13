@@ -1,15 +1,10 @@
 ---
 date: "2007-10-12"
-title: The C Programming Language
+title: "A Linguagem de Programação C"
+desc: "The C Programming Language (2nd Edition, 1989, 288p). Por Brian Kernighan e Dennis Ritchie. Editora Campus"
 categories: [ "reading" ]
+img: "http://i.imgur.com/yZzTEsX.jpg"
 ---
-**
-[![](http://i.imgur.com/yZzTEsX.jpg)](http://i.imgur.com/N5uv6gS.jpg)No Brasil**: [C A Linguagem de Programação Padrão ANSI](http://www.bondfaro.com.br/categorias?id=3482&lkout=1&kw=C+A+Linguagem+de+Programacao+Padrao+ANSI&site_origem=1293522)_
-_**No Mundo**: [The C Programming Language 2nd Edition](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=The+C+Programming+Language+Dennis+Ritchie&site_origem=1293522)
-**Autores**: Brian Kernighan e Dennis Ritchie
-**Editora**: Campus
-_1989 - 1a. edição - 288 pág._
-
 O clássico de Ritchie e Kernighan, criadores da linguagem C, não foi meu primeiro livro de programação. E nem deveria ser. Não o recomendo para iniciantes, pois é necessário possuir algun conhecimento e prática para realmente aproveitar os conceitos desse livro.
 
 Então, o que ler antes disso? Existem tantos livros bons para iniciantes (e tantos livros péssimos). Eu comecei com [C Completo e Total](http://www.bondfaro.com.br/categorias?id=3482&lkout=1&kw=C+Completo+e+Total&site_origem=1293522), de Herbert Schildt. Não me arrependi. O autor vai descrevendo C para quem já tentou fazer algumas coisas, já programou outras e está afim de tirar as principais dúvidas sobre essa linguagem que tantos abominam por ser difícil, e tantos idolatram por ser poderosa. As práticas do livro já são um bom início para quem quer pensar, entender e programar.
