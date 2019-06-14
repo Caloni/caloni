@@ -1,9 +1,8 @@
 ---
 date: 2019-06-10T22:19:09-03:00
 title: "Black Mirror S05 E01 Striking Vipers"
-desc: "Black Mirror S05 E01 Striking Vipers"
 desc: "Black Mirror S05 E01 Striking Vipers. (São Paulo, Brasil, 2019). Dirigido por Owen Harris. Escrito por Charlie Brooker. Com Anthony Mackie, Yahya Abdul-Mateen II, Nicole Beharie."
-imdb: "2085059"
+imdb: "8503298"
 categories: [ "series" ]
 stars: "3/5"
 img: "https://m.media-amazon.com/images/M/MV5BNDU3OWYyZTQtNzFlMC00YjMxLWI4MmEtOGExMDRlOGQxMDZmXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,1333,1000_AL_.jpg"
