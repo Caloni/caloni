@@ -1,6 +1,6 @@
 ---
 date: 2019-06-17T16:01:39-03:00
-title: "O Pãntano"
+title: "O Pântano"
 desc: "La Ciénaga. Por Lucrecia Martel. Com Mercedes Morán, Graciela Borges, Martín Adjemián."
 imdb: "0240419"
 categories: [ "movies" ]
