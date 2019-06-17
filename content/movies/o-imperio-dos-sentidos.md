@@ -1,12 +1,12 @@
 ---
 imdb: "0074102"
 img: "https://m.media-amazon.com/images/M/MV5BYWZmOWU0ZTktYTRjOC00ZmMwLTk5ZTQtNDM0Y2VhOWM4M2NjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY150_CR2,0,101,150_.jpg"
-date: "2010-11-13"
+date: "2019-06-03"
 review: [ "2019" ]
 categories: [ "movies" ]
 title: "O Império dos Sentidos"
 stars: "4/5"
-desc: "O Império dos Sentidos. Ai no korîda (Japan, 1976). Dirigido por Nagisa Ôshima. Escrito por Nagisa Ôshima. Com Tatsuya Fuji, Eiko Matsuda, Aoi Nakajima, Yasuko Matsui, Meika Seri, Kanae Kobayashi, Taiji Tonoyama, Kyôji Kokonoe, Naomi Shiraishi."
+desc: "O Império dos Sentidos. Ai no korîda (Japan, 1976). Dirigido por Nagisa Ôshima. Escrito por Nagisa Ôshima. Com Tatsuya Fuji, Eiko Matsuda, Aoi Nakajima, Yasuko Matsui, Meika Seri, Kanae Kobayashi, Taiji Tonoyama, Kyôji Kokonoe, Naomi Shiraishi. Texto original de 2010-11-13."
 ---
 Meu amigo tem um conselho sobre mulheres: "arrume as vadias e fique longe das loucas." Este é um filme pra quem gosta de putaria. Ele tem putaria do começo ao fim. É um homem comendo um monte de mulher, até que chega a novinha louca. Ele não tem um amigo como eu, e está condenado a ser sugado, literalmente e metaforicamente, pela japinha insaciável.
 

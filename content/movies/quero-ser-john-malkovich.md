@@ -1,10 +1,10 @@
 ---
 imdb: "0120601"
-date: "2012-01-02"
+date: "2019-06-17"
 categories: [ "movies" ]
 title: "Quero Ser John Malkovich"
 stars: "5/5"
-desc: "Quero Ser John Malkovich. Being John Malkovich (USA, 1999). Dirigido por Spike Jonze. Escrito por Charlie Kaufman. Com John Cusack, Cameron Diaz, Ned Bellamy, Eric Weinstein, Madison Lanc, Octavia Spencer, Mary Kay Place, Orson Bean, Catherine Keener. Texto atualizado em 2019-06-13."
+desc: "Quero Ser John Malkovich. Being John Malkovich (USA, 1999). Dirigido por Spike Jonze. Escrito por Charlie Kaufman. Com John Cusack, Cameron Diaz, Ned Bellamy, Eric Weinstein, Madison Lanc, Octavia Spencer, Mary Kay Place, Orson Bean, Catherine Keener. Texto original de 2012-01-02."
 review: [ "2019" ]
 img: "https://m.media-amazon.com/images/M/MV5BODM0Mjg3NTgxN15BMl5BanBnXkFtZTcwODU0NTY0NQ@@._V1_SY1000_CR0,0,1482,1000_AL_.jpg"
 ---

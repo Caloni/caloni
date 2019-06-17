@@ -1,8 +1,8 @@
 ---
-date: 2019-06-09
-title: "Crítica e Teoria Cinematográfica"
+date: 2019-06-17
+title: "Film Theory and Criticism"
 categories: [ "reading" ]
-desc: "Film Theory and Criticism (8th ed. 2009). Por Leo Braudy e Marshall Cohen."
+desc: "Film Theory and Criticism (8th ed. 2009). Por Leo Braudy e Marshall Cohen. Leitura iniciada em 2019-06-09."
 img: "https://images-na.ssl-images-amazon.com/images/I/51MFBMZsGvL._SX327_BO1,204,203,200_.jpg"
 ---
 Este é um livro-referência sobre crítica cinematográfica que você encontra em respostas do Quora sobre onde aprender mais sobre o assunto. Aliás, falando sobre a profissão, a resposta do crítico [Mark Hughes](https://www.quora.com/How-can-an-individual-become-a-film-critic) é bem completa, além de desanimadora para os interessados em ingressar na área. Mas voltemos à teoria.

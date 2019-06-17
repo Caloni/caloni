@@ -1,12 +1,12 @@
 ---
 imdb: "0246578"
 img: "https://m.media-amazon.com/images/M/MV5BZjZlZDlkYTktMmU1My00ZDBiLWFlNjEtYTBhNjVhOTM4ZjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX101_CR0,0,101,150_.jpg"
-date: "2010-12-20"
+date: "2019-05-10"
 review: [ "2019" ]
 categories: [ "movies" ]
 title: "Donnie Darko"
 stars: "5/5"
-desc: "Donnie Darko. (USA, 2001). Dirigido e escrito por Richard Kelly. Com Jake Gyllenhaal, Holmes Osborne, Maggie Gyllenhaal, Daveigh Chase, Mary McDonnell, James Duval, Arthur Taxier, Patrick Swayze, Mark Hoffman."
+desc: "Donnie Darko. (USA, 2001). Dirigido e escrito por Richard Kelly. Com Jake Gyllenhaal, Holmes Osborne, Maggie Gyllenhaal, Daveigh Chase, Mary McDonnell, James Duval, Arthur Taxier, Patrick Swayze, Mark Hoffman. Texto original de 2010-12-20."
 ---
 Quase 20 anos depois, Donnie Darko é um pequeno milagre dos filmes lado B de baixo orçamento. Com um elenco misteriosamente relevante -- vários atores se tornaram revelações -- e a profunda ideia de chacoalhar a sociedade americana com sua crítica às soluções imediatistas baseadas em pílulas, terapia e auto-ajuda, sua viagem no tempo é a cereja no bolo de uma história que não permite que coloquemos ou tiremos nada, mas que ao mesmo tempo permita tantas interpretações diferentes.
 
