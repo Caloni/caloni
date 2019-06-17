@@ -2,6 +2,8 @@
 title: "Lista de Cafés"
 categories: [ "food" ]
 ---
+2019-06-17 O Expresso Gourmet (sic) 3 Corações me surpreende: ótimo custo/benefício (1 kg por 40 taoqueis); grãos meio quebradiços, mas sem muitos defeitos. Aroma presente e sabor amadeirado, corpo médio/fraco sem acidez. Doce sem ser enjoativo.
+
 2019-05-20 Acho que meu café Loretto anda com os grãos muito feios. O sabor tem mudado um pouco também, sem tantas nuances.
 
 2019-05-17 O copinho americano cheio com um dedo de espaço da borda contém 200 ml. Isso quer dizer que a proporção de pó deve ser pouco menos que a metade da caneca BF (250 ml). Mas coloquei 45g e ficou um tanto forte demais (deveria ser 37.5).

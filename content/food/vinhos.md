@@ -2,6 +2,10 @@
 title: "Lista de Vinhos"
 categories: [ "food" ]
 ---
+2019-06-17 Colomé de Rio Negro (Argentina) 2016. Corpo médio/forte, marca registrada da região de solo castigado. Frutas negras e/ou vermelhas maduras mais intensas que Malbec médio. Um pouco azedo e ácido, vai vem com carne mais gordurosa ou um Ancho de final de semana preguiçoso.
+
+2019-06-17 Rivani é o espumante chique que meu amigo comprou pra festa de casamento. Ele vem como Extra Dry, mas seu corpo médio é levemente adocicado, sem ofender os sentidos para outras características, como sua óbvia secura e taninos.
+
 humberto-canale-intimo-cabernet-sauvignon 2019-05-29 Humberto Canale Íntimo 2017 é Cabernet de Rio Negro, região de Neuquen, no começo é bem mais forte que os outros Cabernet, mas com o tempo ele suaviza mantendo corpo.
 
 gran-tarapaca-carmenere-reserva-2017 2019-05-20 Mais um Gran Tarapaca Carménère tomado em copo de plástico. Ele continua elegante, vistoso, frutoso e gostoso.
