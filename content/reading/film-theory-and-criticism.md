@@ -23,7 +23,7 @@ Sobre o "refrão" no Cinema, me lembro como exemplo (porque vi recentemente) as 
 
 Mas voltando à montagem, em algum outro texto emendado deste livro se fala sobre a cultura japonesa, e como se combina elementos visuais como kanjis, que formam representações de algo que não pode ser graficamente representado, além da forma peculiar do japonês em capturar uma cena através do desenho.
 
-> Our school: the dying method of spatial organisation of the phenomenon in front of the lens: from the ‘staging’ of a scene to the erection literally of a Tower of Babel in front of the lens. The other method, used by the Japanese, is that of ‘capturing’ with the camera, using it to organise. Cutting out a fragment of reality by means of the lens.
+> Our school: the dying method of spatial organisation of the phenomenon in front of the lens: from the 'staging' of a scene to the erection literally of a Tower of Babel in front of the lens. The other method, used by the Japanese, is that of 'capturing' with the camera, using it to organise. Cutting out a fragment of reality by means of the lens.
 
 Essa diferença na forma de criar os desenhos foi significativo no início da arte, mas o autor segue demonstrando como ambos os modos podem ser combinados hoje em dia, pois a arte aglutina as boas ideias, mesmo que conflitantes. O Cinema, aparentemente, estreita as diferenças culturais.
 
@@ -34,9 +34,9 @@ Essa diferença na forma de criar os desenhos foi significativo no início da ar
 Mais uma vez sobre a diferença do uso do tempo, ou a decomposição do tempo/movimento no Cinema/teatro. Ele dá nesse momento como exemplo Os Sete Samurais, de Akira Kurosawa.
 
 > The intensity of our perception increases because the process of identification is easier when the movement is decomposed.
-> The incongruity in contour between the first picture that has been imprinted on the mind and the subsequently perceived second picture—the conflict between the two—gives birth to the sensation of movement, the idea that movement has taken place.
+> The incongruity in contour between the first picture that has been imprinted on the mind and the subsequently perceived second picture -- the conflict between the two -- gives birth to the sensation of movement, the idea that movement has taken place.
 
 Próximo texto de André Bazin (tirado de O Que é Cinema?): A Evolução da Linguagem no Cinema.
 
 
-André Bazin (1918–1958) é um teórico instrumental para a compreensão da sétima arte, além de não ficar apenas na teoria: em 1947 ele cria o periódico La Revue du Cinéma e em 1951 o quebrador de paradigmas Cahiers du Cinéma, que virou referência por muitas décadas. É dele uma visão mais focada na composição do quadro em vez da montagem. Veremos como ele se sai nesse ensaio.
+André Bazin (1918-1958) é um teórico instrumental para a compreensão da sétima arte, além de não ficar apenas na teoria: em 1947 ele cria o periódico La Revue du Cinéma e em 1951 o quebrador de paradigmas Cahiers du Cinéma, que virou referência por muitas décadas. É dele uma visão mais focada na composição do quadro em vez da montagem. Veremos como ele se sai nesse ensaio.
