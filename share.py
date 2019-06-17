@@ -59,7 +59,8 @@ def PublishToMedium(postInfo, img):
     #    img = imgUrl.read()
 
     user = medium_credentials.client.get_current_user()
-    post = medium_credentials.client.create_post(user_id=user['id'], title=postInfo['subtitle'], content=postInfo['content'], content_format="markdown")
+    content = postInfo['content'] + '\n\nFrom: ' + postInfo['shortlink']
+    post = medium_credentials.client.create_post(user_id=user['id'], title=postInfo['subtitle'], content=content, content_format="markdown")
 
 
 def GetPermalinkFromCommit(ref):
