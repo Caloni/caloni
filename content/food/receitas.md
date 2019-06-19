@@ -2,6 +2,18 @@
 title: "Lista de Receitas"
 categories: [ "food" ]
 ---
+## Chai
+
+Chai. **Ingredientes**: açúcar a gosto (muito), cardamomo bastante, canela, gengibre e pimenta preta médio, noz moscada pouco, 2/3 de água para 1/3 de leite, chá preto. **Preparo**: Bater todos os ingredientes exceto o leite e ferver para fazer o chá (inserir depois para a infusão). Após feito colocar o leite e ferver tudo junto (esse é o processo mais simples que não suja tanto).
+
+ - 2019-06-19 Percebi que bater os ingredientes pode até ser bom, mas dá um certo trabalho e não é prático; aceito apenas misturar.
+
+## Batata no Forno
+
+Batata no Forno. **Ingredientes**: batatas (asterix de preferência), azeite (para molhar as batatas cortadas), pimenta (pápripa picante, curry, escolha a sua), salsa ou alecrim (ou os dois), sal. **Preparo**: Ferver água em uma panela com sal e jogar as batatas cortadas em canoinhas bem finas, depois que a consistência estiver macia levar ao congelador. Fazer uma solução com azeite, a pimenta e a salva e lambuzar a batata colocando em uma forma e no forno pré-aquecido bem quente. Depois 10 a 15 minutos, ou quando a batata estiver frita de um lado, virar os lados da batata e fritar o outro lado, umedecendo novamente com a solução de azeite caso esteja seco (não lambuzar demais ou pode ficar com gosto de óleo molhado). Depois de todos os lados fritos retirar e salgar a gosto.
+
+ - 2019-06-19 Não tinha escrito antes essa receita, que é tradicional. Fazemos quase todo mês.
+
 ## Bolo de Fubá
 
 Bolo de Fubá. **Ingredientes**: 1 Copo e meio de farinha de trigo comum (copo de 250 ml, copo de requeijão), 1 Copo e meio de fubá, 4 ovos inteiros, uma pitada de sal, 1 copo e meio de açúcar, 1 Copo de leite, 1 Xícara de óleo (200 ml), 1 Colher das de sopa super cheia de margarina, 1 Colher das de sopa de fermento químico; **Preparo**: bater os líquidos e o açúcar com a pitada de sal no liquidificador, misturar com a farinha, o fubá e o fermento até ficar homogêneo, colocar na forma untada e no forno a 180-200 pré-aquecido até assar (menos de meia-hora). Primeira vez que fiz já ficou ótimo; coloquei um saquinho de erva doce.

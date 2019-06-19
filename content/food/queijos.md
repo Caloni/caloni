@@ -2,7 +2,7 @@
 title: "Lista de Queijos"
 categories: [ "food" ]
 ---
-Links:
+2019-06-19 O Petit Brie Président é levemente amargo (mais com a casca) com textura cremosa e alguns curiosos buracos da fermentação. Ele vem em uma latinha e dentro da latinha ainda tem papel laminado. Quem disse que francês é fresco... tem razão.
 
 2019-05-11 O queijo holandês de cabra Frans Halls não perde em nada para os queijos de cabra de Cafayate, na região de Salta (Argentina). Tirando o charme de comer queijo direto da queijaria.
 

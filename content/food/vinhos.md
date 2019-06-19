@@ -2,6 +2,10 @@
 title: "Lista de Vinhos"
 categories: [ "food" ]
 ---
+2019-06-19 Já o Cabernet Sauvignon deles, Tempos, é azedo. Não lembra Cabernet, exceto pelo corpo fraco para médio. Bom para comer com queijo. Bom e barato se você não espera nada além de um vinho honesto e de entrada.
+
+2019-06-19 O Góes seco é um vinho básico, tão básico que você sente que não há nuance alguma: é uva fermentada e pronto. Sem acidez e sem amargor. Uva, leve e alcoólica.
+
 2019-06-17 Colomé de Rio Negro (Argentina) 2016. Corpo médio/forte, marca registrada da região de solo castigado. Frutas negras e/ou vermelhas maduras mais intensas que Malbec médio. Um pouco azedo e ácido, vai vem com carne mais gordurosa ou um Ancho de final de semana preguiçoso.
 
 2019-06-17 Rivani é o espumante chique que meu amigo comprou pra festa de casamento. Ele vem como Extra Dry, mas seu corpo médio é levemente adocicado, sem ofender os sentidos para outras características, como sua óbvia secura e taninos.
