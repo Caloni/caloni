@@ -5,7 +5,6 @@ desc: "Blade Runner"
 imdb: "0083658"
 categories: [ "movies" ]
 stars: "5/5"
-cabine: "cinemaqui"
 img: "https://m.media-amazon.com/images/M/MV5BMjE2NDQyMDkxOF5BMl5BanBnXkFtZTcwNDk1MTcwNA@@._V1_.jpg"
 ---
 Blade Runner obviamente não é sobre o Caçador de Andróides, nem se você considerar o possível plot twist das entrelinhas, mas sobre a existência desses seres idênticos aos humanos, mas com as emoções ainda a serem criadas. Também é sobre como um único filme tem tantas versões, onde basicamente apenas uma cena envolvendo um unicórnio faz toda a diferença.
