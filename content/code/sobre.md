@@ -1,6 +1,7 @@
 ---
 title: Sobre o autor
 categories: [ "code" ]
+date: 2004-03-01
 ---
 _wanderley.caloni at bitforge com br_
 

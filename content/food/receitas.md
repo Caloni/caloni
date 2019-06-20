@@ -1,6 +1,7 @@
 ---
 title: "Lista de Receitas"
 categories: [ "food" ]
+date: 2019-06-19
 ---
 ## Chai
 

@@ -1,6 +1,7 @@
 ---
 title: "Lista de Vinhos"
 categories: [ "food" ]
+date: 2019-06-19
 ---
 2019-06-19 Já o Cabernet Sauvignon deles, Tempos, é azedo. Não lembra Cabernet, exceto pelo corpo fraco para médio. Bom para comer com queijo. Bom e barato se você não espera nada além de um vinho honesto e de entrada.
 

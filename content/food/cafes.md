@@ -1,6 +1,7 @@
 ---
 title: "Lista de Cafés"
 categories: [ "food" ]
+date: 2019-06-17
 ---
 2019-06-17 O Expresso Gourmet (sic) 3 Corações me surpreende: ótimo custo/benefício (1 kg por 40 taoqueis); grãos meio quebradiços, mas sem muitos defeitos. Aroma presente e sabor amadeirado, corpo médio/fraco sem acidez. Doce sem ser enjoativo.
 

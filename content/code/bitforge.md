@@ -1,6 +1,7 @@
 ---
 title: Sobre a BitForge
 categories: [ "code" ]
+date: 2014-07-03
 ---
 http://www.bitforge.com.br
 
