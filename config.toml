@@ -6,8 +6,6 @@ disqusShortname = "caloni"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "?"
-PygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
 enableGitInfo = true
 googleAnalytics = "UA-50557403-2"
 
