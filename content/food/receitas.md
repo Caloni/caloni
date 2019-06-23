@@ -5,9 +5,9 @@ date: 2019-06-23
 ---
 Lista de receitas já feitas:
 
- - [Massa Folheada Caseira](/food/massa-folheada) (600g): farinha, sal, manteiga.
- - [Pão de Queijo Mineiro](/food/pao-de-queijo) (4 formas, pode congelar): polvilho (doce e/ou azedo), leite, óleo, queijo, ovos, sal.
- - [Pastéis de Nata](/food/pasteis-de-nata) (10 a 12 unidades): leite integral, açúcar, farinha, ovos, canela, limão, massa folheada.
+ - [Massa Folheada Caseira](/food/massa-folheada): farinha, sal, manteiga.
+ - [Pão de Queijo Mineiro](/food/pao-de-queijo): polvilho (doce e/ou azedo), leite, óleo, queijo, ovos, sal.
+ - [Pastéis de Nata](/food/pasteis-de-nata): leite integral, açúcar, farinha, ovos, canela, limão, massa folheada.
 
 ## Chai
 
