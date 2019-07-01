@@ -3,7 +3,7 @@
 
     <p class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
     <p class="subtitle is-flex" style="justify-content:space-between">
-      <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+      <span>{{ .Date.Format "Jan 2, 2006" }} ({{ .ReadingTime }} min)</span>
       <span><a href="/categories/{{ index .Params.categories 0 }}">{{ index .Params.categories 0 }}</a></span>
     </p>
 
