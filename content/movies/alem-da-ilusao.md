@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/alem-da-ilusao/"
 imdb: "4680196"
 img: "https://m.media-amazon.com/images/M/MV5BMDUxMDQzZTEtMmI0NS00NDRhLTkxZWQtZGVjZTVhZTE5NDAxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUzNjg2MTc@._V1_SY150_CR4,0,101,150_.jpg"

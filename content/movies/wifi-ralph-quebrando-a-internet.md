@@ -6,6 +6,6 @@ imdb: "5848272"
 img: "https://m.media-amazon.com/images/M/MV5BMTYyNzEyNDAzOV5BMl5BanBnXkFtZTgwNTk3NDczNjM@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Embora flerte sutilmente com a filosofia de nossa própria existência, "Wifi Ralph" é um filme leve, sem maiores atribulações. Ele tem um conflito bem definido, que parece intransponível porque mexe com os sentimentos dos personagens que aprendemos a adorar, e só pelo fato da Disney estar mais interessada em um filme de ideias para crianças do que ação e vilões que surgem convenientemente no segundo ato já é um ponto positivo.

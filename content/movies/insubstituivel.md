@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/insubstituivel/"
 imdb: "5078326"
 img: "https://m.media-amazon.com/images/M/MV5BN2Y0MzM0ODgtMzY0Mi00ZTBjLThhYjItYzU4ODI3NDg1NzdlXkEyXkFqcGdeQXVyNjU3MDQ1Njg@._V1_SY150_CR4,0,101,150_.jpg"

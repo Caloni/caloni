@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/soundtrack/"
 imdb: "3332372"
 img: "https://m.media-amazon.com/images/M/MV5BOGM3MjlhOTQtZDM0ZS00NGE3LThkNzMtODQwY2FkMDRjMDliXkEyXkFqcGdeQXVyMjY0MjAzMTg@._V1_SY150_CR0,0,101,150_.jpg"

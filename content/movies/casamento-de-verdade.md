@@ -1,6 +1,6 @@
 ---
 title: "Casamento de Verdade"
-cabine: "cinemaqui"
+external: "cinemaqui"
 imdb: "3289712"
 img: "https://m.media-amazon.com/images/M/MV5BNjcwMDEzNzE3MV5BMl5BanBnXkFtZTgwNTMzMzgxNjE@._V1_SY150_CR0,0,101,150_.jpg"
 stars: "3/5"

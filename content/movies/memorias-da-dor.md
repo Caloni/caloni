@@ -6,6 +6,6 @@ imdb: "6313378"
 img: "https://m.media-amazon.com/images/M/MV5BYTMwMzhkY2UtNmE1OC00YTExLWExMzgtMDUzMThlMGI1Y2Y2XkEyXkFqcGdeQXVyODg5NTg2NDU@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Este não é um fime muito empolgante para o público em geral, mas para os que topam um filme de estilo temático, quase experimental, fica de bom tamanho. Um exercício de linguagem que recai nos ombros de sua estrela, Mélanie Finkiel, que vai até o fundo do poço nessa tortura psicológica que lembra um pesadelo sem fim. Memórias da Dor é uma experiência angustiante recomendada apenas para os que gostam muito de Cinema.

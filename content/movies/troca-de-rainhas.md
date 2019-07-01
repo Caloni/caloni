@@ -6,6 +6,6 @@ imdb: "6350304"
 img: "https://m.media-amazon.com/images/M/MV5BZjNhMWExNzctYjMxZS00ZjZhLWIxMDktYjgwNzRlYjZhODBiXkEyXkFqcGdeQXVyMTc5OTQwMzk@._V1_SY150_CR6,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Eis um filme diário de bordo, que descreve um momento pontual e peculiar da história da monarquia de maneira burocrática, estática, quase parando. As tradições, as verdadeiras monarcas, atravessaram séculos incólumes, sob as maiores adversidades, e sabem mais que qualquer rei ou rainha que já passou pela coroa o que deve ser feito. Com pouco ou nada a oferecer no quesito criatividade, exceto a inusitada troca de casais formados por crianças, pelo menos é bonito.

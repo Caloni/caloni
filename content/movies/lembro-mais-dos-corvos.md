@@ -6,6 +6,6 @@ imdb: "7972528"
 img: "https://m.media-amazon.com/images/M/MV5BMzMzNjc3MjctNzNjMC00MzdlLWEyNjUtMTk1Yzg4Mzg1Zjg0XkEyXkFqcGdeQXVyMTcyMDgxNQ@@._V1_SY150_CR1,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Sentimentos e pensamentos fluem conforme a diretora, atriz e roteirista Julia Katharine recebe uma equipe de filmagem em sua casa, abre um vinho rosé e começa a falar de sua vida. O filme flui naturalmente, com exceção de um longo plano final sem razão aparente. Talvez o diretor queria que nós refletíssemos, mas essa parte ele não conseguiu controlar. Talvez porque a vida não se controla. Apenas deixamos fluir, e quando menos se percebe, houve a conexão entre seres humanos. Esse filme tenta emular isso no cinema.

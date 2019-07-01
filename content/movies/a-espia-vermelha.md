@@ -6,6 +6,6 @@ imdb: "7615302"
 img: "https://m.media-amazon.com/images/M/MV5BOTBhMDZjZmQtNmJjYS00OWI0LTkxM2ItN2ExZTc3NzkxZmJlXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Política da Segunda Guerra com espionagem real, ciência por trás da bomba atômica, romance na época que mulheres não tinham o poder da escolha. Eu até gostaria de ter visto um filme sobre esses assuntos que giram em torno da pseudo-história figura de Joan Stanley (na vida real Melita Norwood), se infelizmente essa não fosse, como ela mesmo se coloca, "uma sombra em meio aos homens". Esse filme tristemente parece a colocar na mesma situação do passado, como uma sombra, não fazendo jus à possível homenagem que poderia ter sido feito pelas suas, se não nobres, bem-intencionadas ações da época. E olha que estou falando isso de uma espiã comunista safada.

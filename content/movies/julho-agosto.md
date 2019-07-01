@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/julho-agosto/"
 imdb: "5078158"
 img: "https://m.media-amazon.com/images/M/MV5BZGJhYzgwYmYtOTUzNi00YmQ4LWFhYWMtNzA4M2JjMTc1OTQyXkEyXkFqcGdeQXVyNDk4ODQ0MA@@._V1_SY150_CR5,0,101,150_.jpg"

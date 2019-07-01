@@ -6,6 +6,6 @@ imdb: "8731138"
 img: "https://m.media-amazon.com/images/M/MV5BMTkxMTEyZDQtMGI0MC00ODBlLTgzZjQtNGNmMTY1ZTU5MDExXkEyXkFqcGdeQXVyODgxMDAxMjY@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Retrato natural do cotidiano de uma cidade e sua cultura sob o ponto de vista de um ser humano em mudança, "Temporada" seguia por um caminho tão bonito, sutil mas incisivo, individualista, e que vai de repente em encontro com interesses alheios ao filme: a cartilha do feminismo militante. E é quando a revolução se torna lugar-comum que o romantismo se perde para sempre; vira clichê: enquanto em um relaciomanento com uma pessoa que foi se afastando com o tempo gera o estereótipo da mulher casada presa eternamente ao marido, cortar o cabelo diferente e ter seus crushes por diversão gera o estereótipo da mulher independente que faz o que quiser, desde que "o que quiser" seja cortar o cabelo diferente, etc. Independente do destino da protagonista, ela se encontra em um filme inesperadamente maniqueísta que precisa colocá-la em um estereótipo; de preferência o que agrade os valores dos produtores e do diretor.

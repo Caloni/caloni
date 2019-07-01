@@ -6,6 +6,6 @@ imdb: "1318517"
 img: "https://m.media-amazon.com/images/M/MV5BNTAyNDNjNDgtOWE4Ni00N2VhLWJjNmItZjE4NGRhNjY5Yzk3XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "2/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 O Homem Que Matou Dom Quixote é a bola fora mais fora da carreira do diretor ex-Monty Python Terry Gilliam, que exibe no início dos créditos o projeto que foi construído e... desconstruído em 25 anos. Bom, há algo que dizem de projetos intermináveis que são revistos de tempos em tempos: é provável que ele fosse melhor dentro de uma gaveta para sempre.

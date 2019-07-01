@@ -6,6 +6,6 @@ imdb: "6923840"
 img: "https://m.media-amazon.com/images/M/MV5BMmQ5NzgyNjUtMmMyYS00MWI3LThlMzYtYjY0YzA5MzhiM2FlXkEyXkFqcGdeQXVyMTc5OTQwMzk@._V1_SY150_CR5,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Normandia Nua é um filme não de humanos sobre humanos que convida o espectador a pensar nos problemas da vida real sob o prisma do que vimos na ficção: geralmente as questões difíceis nunca possuem um ou dois lados. Dessa forma temas atuais e recorrentes são utilizados vez ou outra, embora não possamos dizer, propriamente abordados: aquecimento global, economia globalizada, uso de pesticidas, crueldade animal, consequências das guerras em desavenças por gerações, a visão anti-imperialista e ao mesmo tempo pró-EUA ainda em debate na região, auto-sacrifício pelo bem-comum (um prefeito altruísta), a morte do analógico perante o digital. Sim, a lista é extensa. E o diretor Philippe Le Guay com a ajuda de François Cluzet [Intocáveis](/intocaveis) no protagonismo conseguem abordar todos esses temas sem soar uma bagunça. É um drama até que leve, reflexivo, e mais uma vez, humano.

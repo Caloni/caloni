@@ -6,6 +6,6 @@ imdb: "7186036"
 img: "https://m.media-amazon.com/images/M/MV5BZjQzYmI2NzctZGRhYi00ZDYwLTk0OGEtNmVmZTFmYTkwNDVmXkEyXkFqcGdeQXVyNjAyNTc4Mzg@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 O que mais fascina em Volcano é como ele consegue evitar diálogos desnecessários e passar para a observação pura e simples. E é através dessa observação que seus melhores momentos são forjados. Já seus piores momentos são as tentativas de colocar um pouco de ordem na história. Não precisamos de ordem. O que precisamos são pessoas que consigam pendurar a colher na testa.

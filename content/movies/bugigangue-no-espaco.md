@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/bugigangue-no-espaco"
 imdb: "5812510"
 img: "https://m.media-amazon.com/images/M/MV5BM2M1Y2U1NmQtYWFlYS00YTJjLTgwZmYtY2M4YWU4YjgyN2FiXkEyXkFqcGdeQXVyMDc3ODUxNg@@._V1_SY150_CR7,0,101,150_.jpg"

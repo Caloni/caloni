@@ -6,6 +6,6 @@ imdb: "2113681"
 img: "https://m.media-amazon.com/images/M/MV5BNDUyMzU5MTk5MF5BMl5BanBnXkFtZTgwNjcxNDQxNTE@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Apesar de não ser cara esta comédia de erros sobre um velho centenário (e uma elefanta) que parece ser um "[Forrest Gump](/forrest-gump-o-contador-de-historias)" europeu, o dinheiro é bem aproveitado. Não podemos acreditar em todas as cenas de pontes explodindo, mas podemos nos divertir sem muitas pretensões. Isso é tudo que você precisa saber sobre este filme sueco de 2013 que passou despercebido por muita gente, e que agora sendo reexibido em festivais pode ser uma nova chance para cinéfilos compulsivos.

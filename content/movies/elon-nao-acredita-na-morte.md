@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/elon-nao-acredita-na-morte/"
 imdb: "6096528"
 img: "https://m.media-amazon.com/images/M/MV5BMjQ4YmI0YzItYjA4NS00OWE2LWE2YmQtY2E0YzRjZTQ5OTg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDgyMTE1MzM@._V1_SX101_CR0,0,101,150_.jpg"

@@ -6,6 +6,6 @@ imdb: "5842570"
 img: "https://m.media-amazon.com/images/M/MV5BMWRhZGJhZWItYTNmNy00YjEwLTlhOGUtMmJjMDNhODczNmE2XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Homem Livre está mais interessado em nos entregar inúmeros jogos de cena que nos fazem entrar em seu delírio sem nunca nos revelar o mecanismo por trás de sua dor. Há um ótimo momento onde Helio vê um vulto na cozinha de noite, mas quando acende a luz esse vulto desaparece. O que isso significa? Essa é a sua vítima? Mas por que ela está perseguindo seus sonhos? Quem é ela? Por que uma crente ninfeta de 18 anos está tão interessada em se entregar para nosso amigo Hélio Lotte? Sabemos que ela existe, o que estraga a reviravolta clichê dela ser um fantasma. Mas ela representa um fantasma do passado. E mais uma vez há o interesse do espectador em descobrir que fantasma é esse.

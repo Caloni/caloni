@@ -6,6 +6,6 @@ imdb: "5258850"
 img: "https://m.media-amazon.com/images/M/MV5BNDJmYzBmODctMDUxZC00OTM1LTg1ZDktY2E0NTgyOWU5NzRjXkEyXkFqcGdeQXVyNDgzNjg5Nw@@._V1_SY150_CR5,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 No meio da história fiquei com medo deste ser um filme de Jean-Pierre Jeunet, que é um excelente contador de histórias dentro de mecanismos que se sobressaem aos seus personagens, um padrão que tem tudo a ver com "Nos Vemos no Paraíso". O Fabuloso Destino de Amélie Poulain, Micmacs - Um Plano Complicado, Uma Viagem Extraordinária. Tudo nos leva a Pierre Jeunet, menos o peso do tema, e é apenas isso que separa o filme do diretor Albert Dupontel das obras mais fantasiosas de Jeunet, e nos permite acompanhar esta história sem face como se ela fosse relevante.

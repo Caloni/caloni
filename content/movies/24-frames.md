@@ -1,6 +1,6 @@
 ---
 title: "24 Frames"
-cabine: "cinemaqui"
+external: "cinemaqui"
 imdb: "6777170"
 img: "https://m.media-amazon.com/images/M/MV5BNjg1MDE0NjMxNl5BMl5BanBnXkFtZTgwNDk4MjQwNzM@._V1_SY150_CR10,0,101,150_.jpg"
 stars: "4/5"

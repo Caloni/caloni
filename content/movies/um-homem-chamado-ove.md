@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/um-homem-chamado-ove"
 imdb: "4080728"
 img: "https://m.media-amazon.com/images/M/MV5BMDZlYjBkZWYtMmUyZS00ZmFmLThlMGQtYjdiMzFlNDkxNjZhL2ltYWdlXkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_SY150_CR0,0,101,150_.jpg"

@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/degrade/"
 imdb: "4429074"
 img: "https://m.media-amazon.com/images/M/MV5BOTg3ZDJlMTctZjc3MS00Y2MyLThmYWUtNjEwZTE4YzQ0YWQ4XkEyXkFqcGdeQXVyMjY4OTU1NTE@._V1_SY150_CR6,0,101,150_.jpg"

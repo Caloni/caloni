@@ -6,6 +6,6 @@ imdb: "4912910"
 img: "https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 A maior satisfação da série Missão Impossível nos cinemas é que ela sempre entrega o que é esperado: gravações que se explodem em cinco segundos, vilões com maldade pura, o passado de Hunt o amaldiçoando, cenas de ação frenéticas, reviravoltas que acontecem sob um teto mal iluminado e, por fim, uma bomba e uma contagem regressiva. Bom, senhoras e senhores, tenho boas novas: dessa vez teremos duas bombas! Isso que é plot twist! (...) Da parte da história, voltamos à preocupação de Ethan Hunt (Tom Cruise) por sua ex-esposa, que remói desde [Protocolo Fantasma](/missao-impossivel-protocolo-fantasma) por trazer dor e sofrimento desnecessários à personagem de Michele Monaghan que, convenhamos, é perfeita demais para ficar passando esses perrengues. Mesmo que seja com Tom Cruise.

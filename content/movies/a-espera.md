@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/a-espera"
 imdb: "3715122"
 img: "https://m.media-amazon.com/images/M/MV5BNzg5NmI0NGYtZmY1MS00Yjk3LWJkY2ItZTE5MTc1MmE4MGJhXkEyXkFqcGdeQXVyMjYyNzc4MQ@@._V1_SY150_CR3,0,101,150_.jpg"

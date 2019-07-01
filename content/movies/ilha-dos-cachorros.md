@@ -6,6 +6,6 @@ imdb: "5104604"
 img: "https://m.media-amazon.com/images/M/MV5BMTYyOTUwNjAxM15BMl5BanBnXkFtZTgwODcyMzE0NDM@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Um filme dotado de todas as características do cinema de autor. E impossível não citar talvez a melhor canção-tema de sua filmografia: o hit "I Won't Hurt You", da banda psicodélica dos anos 60 The West Coast Pop Art Experimental Band. Sim, Wes Anderson mescla os poderes da infância, dos adultos e das drogas em uma imensa coletânea de ideias coloridas, sonoras, verbais.

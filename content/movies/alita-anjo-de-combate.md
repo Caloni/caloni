@@ -6,6 +6,6 @@ imdb: "0437086"
 img: "https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 O diretor Robert Rodriguez (Pequenos Espiões) nos garante diversão em várias sequências eletrizantes deste filme-origem que não possui final, como as lutas entre caçadores de recompensa e andróides em um esporte visceral da época. As sequências são rápidas mas conseguimos nos localizar e ainda apreciar vários momentos em que os efeitos visuais atingem seu ápice. Rodriguez nos permite também que nos encantemos em várias cenas dignas de um pôster. E isso de alguma forma me incomoda, pois se eu tivesse um desses pôsters não me lembraria por que essa cena é tão icônica. Talvez porque ela não é. Há cenas esteticamente impecáveis onde podemos ficar horas admirando, mas o motivo delas existirem é meramente publicitário. Alita experimenta seu novo corpo e a vemos em posições de combate que exaltam a beleza da tecnologia gráfica, mas você nunca verá no filme um momento além de lindo, memorável.

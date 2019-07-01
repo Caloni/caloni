@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/olhar-instigado/"
 date: "2017-02-23"
 categories: [ "movies" ]

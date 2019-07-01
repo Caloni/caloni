@@ -6,6 +6,6 @@ imdb: "7871664"
 img: "https://m.media-amazon.com/images/M/MV5BODZhNTRlZDAtN2ViMy00ZTcyLThlMjktNDhkZDUxM2E4YTkyXkEyXkFqcGdeQXVyODgxMDAxMjY@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "1/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Este documentário tem por objetivo inicial fazer você cair de sono. Isso porque a diretora/roteirista/atriz portuguesa Teresa Villaverde evita enquadrar a câmera para nos prender a atenção. Ela prefere uma abordagem mais despojada. A resposta adequada e respeitosa para um filme desse é ser um espectador também despojado, que começa a roncar antes dos dez primeiros minutos de projeção. Fica claro que a documentarista Teresa Villaverde resolve pegar a câmera porque o momento merece, o que nos ajuda a desvendar o resto do filme: quase mais nada merece ser filmado ou visto.

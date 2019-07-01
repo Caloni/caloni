@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/no-meio-de-nos/"
 title: "No Meio de Nós"
 stars: "1/5"

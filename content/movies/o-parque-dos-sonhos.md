@@ -6,6 +6,6 @@ imdb: "6428676"
 img: "https://m.media-amazon.com/images/M/MV5BMjI5MTQ5NzE4Nl5BMl5BanBnXkFtZTgwNTk2MDA5NjM@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Ao misturar referências de outros filmes de maneira indecisa, O Parque dos Sonhos nunca chega a construir algo além do parque imaginado em brincadeiras de mãe e filha. Durante a aventura nos lembramos de Alice no País das Maravilhas, Meu Amigo Totoro, Divertidamente e até Jurassic Park, mas o próprio Parque dos Sonhos constrói seu universo sem personalidade, personagens marcantes ou aventuras dignas e, portanto, não se fixa em nossas mentes (como os trabalhos já citados o fazem, por exemplo). Durante o relapso desenvolvimento da história há até um efeito contrário: vamos aos poucos nos esquecendo de seu belo início.

@@ -6,6 +6,6 @@ imdb: "7220696"
 img: "https://m.media-amazon.com/images/M/MV5BYzE1MmI4NjMtZDA0OC00YzRiLTkxMWItOTU5ZGU2ZWYxYzc3XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 A estrela de Rir ou Morrer é Toivo Parikka (Martti Suosalo), o comediante mais famoso da Finlândia. Ele e sua trupe vão construindo uma peça adaptada para o gosto dos militares para evita ir parar no paredão da morte, e seguindo filmes do gênero, o resultado inesperado é revelado apenas no final. Enquanto isso vamos curtindo as pequenas reviravoltas que como citei vão alterando o destino dessas pessoas: morte ou não-morte. Mas isso cansa e eventualmente fica repetitivo. O tenente no comando parece mudar de opinião sobre o que fazer com os soldados todo tempo, e há personagens demais para nos lembrar.

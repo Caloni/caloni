@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/era-o-hotel-cambridge"
 imdb: "5067984"
 img: "https://m.media-amazon.com/images/M/MV5BZDY3OTk5MjUtOTBhZS00NzUzLTlhNWUtNmY1OWU3MDA0M2FhXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SX101_CR0,0,101,150_.jpg"

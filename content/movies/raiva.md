@@ -6,6 +6,6 @@ imdb: "5553810"
 img: "https://m.media-amazon.com/images/M/MV5BMzI3YWQ2NmQtZTJjMi00MGFjLTg3OGYtNThjNThiNjU0YTdkXkEyXkFqcGdeQXVyMjgyOTI1ODY@._V1_SX101_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 O diretor e roteirista Sérgio Tréfaut transforma este romance de uma ficção para outra: a famigerada luta de classes do qual tanto se fala ultimamente. Tão fora de moda por muito tempo, mas de tão poderosa que é hoje está em voga de novo; e a pobreza sempre faz sucesso na telona. Raiva é um filme sobre a pobreza em vários sentidos, não apenas material. Seus personagens são desagradáveis, como devem ser. Mas ironicamente este é um filme anti-humanidade, pois defende que ao se retirar tudo de um homem só lhe resta a emoção crua. Como um animal. E animais se abatem para comer. Logo, não entendo todo esse alvoroço pelos pobres. Além de tudo é contraditório.

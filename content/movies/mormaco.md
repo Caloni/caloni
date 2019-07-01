@@ -6,7 +6,7 @@ imdb: "8169178"
 img: "https://m.media-amazon.com/images/M/MV5BM2UxOWI0OWYtZTQ3Ni00MjU1LWJkNzgtZmVmNWZkNDc0NTVhXkEyXkFqcGdeQXVyMTQ3NTY1NTk@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "5/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 "A propriedade atenderá a sua função social." -- Constituição da República Federativa do Brasil, Artigo 5, Parágrafo 23. É com esse "direito" que os ingênuos socialistas responsáveis pelo Brasil nascido em 1988 enterraram para sempre a esperança de um mundo digno. Esperançosos, talvez, que o Estado "nas mãos certas" conseguiria garantir o mínimo para todos, o que eles na verdade fizeram foi entregar nas mãos dO Capital, que governa a tudo e a todos, inclusive o Estado, o trator que pode derrubar a casa de qualquer cidadão. Se ele não tiver maneiras de se proteger, então, melhor ainda.
 

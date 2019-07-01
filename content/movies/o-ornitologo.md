@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/o-ornitologo/"
 imdb: "4929038"
 img: "https://m.media-amazon.com/images/M/MV5BNTY4ODY2OGUtYTc4OC00OTE5LWFhZTMtOGQ4ZmRmNTRiZjFlXkEyXkFqcGdeQXVyMTU2NjUwNTg@._V1_SY150_CR6,0,101,150_.jpg"

@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/muito-romantico/"
 imdb: "5748480"
 img: "https://m.media-amazon.com/images/M/MV5BMWJhNjQzYTEtOTcwNi00NWY3LTg2ZTQtODczYmRiNjkyOTJhXkEyXkFqcGdeQXVyNjcyOTkzMTM@._V1_SY150_CR2,0,101,150_.jpg"

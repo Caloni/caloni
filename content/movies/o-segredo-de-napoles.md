@@ -6,6 +6,6 @@ imdb: "6892206"
 img: "https://m.media-amazon.com/images/M/MV5BZDZmYmE1NDctZDliNC00YTUxLTlkNGYtN2YzZDk3M2QwZjA3XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 O Segredo de Nápoles desafia nossa percepção da realidade. Mas afinal de contas, o que sabemos da vida está fadado a falhas e incertezas de nossa percepção. É um filme crimes e uma inquietante busca que não se interessa por truques ou reviravoltas, mas uma imersão na cabeça de sua protagonista, e ao mesmo tempo em nossas cabeças, através do que nós vemos e imaginamos.

@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/a-garota-desconhecida/"
 imdb: "4630550"
 img: "https://m.media-amazon.com/images/M/MV5BNWQyOWMwNWQtZmJkYy00YTc2LWFmMzktMjFlNGYwYzU1NzQ3XkEyXkFqcGdeQXVyNjgwMTczMTA@._V1_SY150_CR5,0,101,150_.jpg"

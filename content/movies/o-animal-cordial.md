@@ -6,6 +6,6 @@ imdb: "5126274"
 img: "https://m.media-amazon.com/images/M/MV5BNTc5MGU3YjUtOWQ1MS00OWI4LTkwMDgtYzc4MWQ2NzhlOGM1XkEyXkFqcGdeQXVyMTg2NjYzOA@@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Note como O Animal Cordial se beneficia do sistema de som do restaurante para traduzir o caos que se forma na cabeça das pessoas naquela situação, em uma seleção de músicas que diz muito sobre a atmosfera imprevisível do filme. Se trata de um trabalho alegórico que vem em forma de violência gráfica, quase uma catarse sem muitos motivos para serem enumerados. Quem assistir pode dar sua impressão sobre o que se trata. Ele pode se tratar de muitas coisas, mas como um restaurante contemporâneo, há um cardápio variado para você escolher por que agimos como animais em nossas cabeças e nos disfarçamos de cordiais em nossa problemática sociedade?

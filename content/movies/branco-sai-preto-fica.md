@@ -1,6 +1,6 @@
 ---
 title: "Branco Sai, Preto Fica"
-cabine: "cinemaqui"
+external: "cinemaqui"
 imdb: "4287610"
 img: "https://m.media-amazon.com/images/M/MV5BNGM4NDE5NTEtMWVkNi00ZDYyLThlZDctYjU0MDk3OWMzZWU2XkEyXkFqcGdeQXVyMzY2MDk0MTk@._V1_SY150_CR1,0,101,150_.jpg"
 stars: "3/5"

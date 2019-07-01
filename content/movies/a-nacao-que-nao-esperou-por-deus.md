@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 imdb: "4659524"
 date: "2015-07-18"
 categories: [ "movies" ]

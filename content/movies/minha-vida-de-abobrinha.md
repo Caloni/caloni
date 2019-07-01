@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/minha-vida-de-abobrinha/"
 imdb: "2321405"
 img: "https://m.media-amazon.com/images/M/MV5BMGZhZTMxNWItZDU1Yi00NmM4LTk3NzktZGU5Nzk0ZjdlZjQ4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR2,0,101,150_.jpg"

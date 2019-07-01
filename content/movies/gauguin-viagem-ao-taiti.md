@@ -6,6 +6,6 @@ imdb: "6330052"
 img: "https://m.media-amazon.com/images/M/MV5BMTYwNTI4MjAwOF5BMl5BanBnXkFtZTgwMjM4NDE3NTM@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 O roteiro de Viagem ao Taiti é baseado no livro do próprio Paul Gauguin, "Noa Noa", que muitos dizem já ser em parte romantizado. Se isso for verdade, que tristeza a melodia de um homem só, que tentando viver como selvagem busca resgatar seu elo perdido, mas encontra apenas seu próprio reflexo na natureza, demonstrando que a perda da inocência não é algo irreversível, mas inevitável. Quiçá remediável. Mas isso não sabemos por este melancólico filme.

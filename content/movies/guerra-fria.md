@@ -6,6 +6,6 @@ imdb: "6543652"
 img: "https://m.media-amazon.com/images/M/MV5BNTJmNzExOGItZTQyMi00YzBlLTk0ZTQtNzAxYmUwZDQwZjU4XkEyXkFqcGdeQXVyODE1MjMyNzI@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "5/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Guerra Fria não é um filme apenas sobre pessoas, mas como essas pessoas são afetadas pelo espírito do tempo. É um filme difícil, pois não há solução para seus personagens. A redenção ocorre apenas via religiosa, a única fonte presente na memória das pessoas (quando os regimes comunistas caem, geralmente a primeira coisa que as pessoas fazem é reconstruir as igrejas e seus rituais, antes proibidos). Também não é um filme sobre cortina de ferro, conspiração e tratamento desumano. É uma tortura psicológica, lenta e sistemática, que esmaga a alma dos mais desavisados que entraram na sala de cinema.

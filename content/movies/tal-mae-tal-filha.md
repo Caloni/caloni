@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/tal-mae-tal-filha/"
 imdb: "5975354"
 img: "https://m.media-amazon.com/images/M/MV5BMzcxODQ1MzMtOWE0MC00MmUwLTg5MGMtZGQzNjQwNjMwMDczXkEyXkFqcGdeQXVyNDgzNjg5Nw@@._V1_SY150_CR4,0,101,150_.jpg"

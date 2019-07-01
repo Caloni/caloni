@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 imdb: "6573444"
 img: "https://m.media-amazon.com/images/M/MV5BMTU4ODI2NjIzNF5BMl5BanBnXkFtZTgwNDQwMzUyMzI@._V1_SY150_CR0,0,101,150_.jpg"
 date: 2017-10-20T20:02:54

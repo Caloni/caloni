@@ -6,6 +6,6 @@ imdb: "4504044"
 img: "https://m.media-amazon.com/images/M/MV5BYTQxNTMwMmUtMWRkYi00MTRmLTgyYWItYTYwNGZkMWZmMzQ2XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY150_CR0,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "4/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Se você gosta de terror "Maligno" paga o ingresso. Mas ele vem com uma conclusão que vai deixar gosto ruim na boca de justiceiros sociais, ao mesmo tempo que consumir por dentro em uma história que é à prova da razão humana. Não tentando reinventar a roda, o diretor Nicholas McCarthy usa a velha cartilha hollywoodiana do gênero em uma história que merecia um tratamento mais artístico. Porém, como a trama é boa do começo ao fim ela acaba adicionando um belo exemplar à antologia norte-americana, regionalizando o que poderia ser universal.

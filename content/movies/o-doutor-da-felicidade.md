@@ -6,6 +6,6 @@ imdb: "6515342"
 img: "https://m.media-amazon.com/images/M/MV5BODQ1M2ZjMTktYjk5OS00ZjM1LTg1NmEtZDM1OWVjMjFkMjVlXkEyXkFqcGdeQXVyNTM4MjgzNzc@._V1_SY150_CR4,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 O Doutor Knock é uma boa pessoa? Ele é o herói ou vilão? Fica difícil responder, mesmo nos tempos atuais de anti-herói. Isso porque no início o filme nos mostra que a cidadezinha vivia bem e que a hipocondria trazida por Knock visa unicamente o lucro, a fama e o poder. Mas ele é negro, e este é um filme francês, então fica difícil vilanizar uma minoria, né? Porém, o problema é que há muito pouco tempo de filme para que ele consiga nos convencer do contrário em qualquer um dos momentos em que a coisa evolui para algo mais complexo, mais ambíguo e mais humano.

@@ -6,6 +6,6 @@ imdb: "8099236"
 img: "https://m.media-amazon.com/images/M/MV5BZWRhNWVmNWItMjRiOS00NDdiLWExNzgtMmE3Y2FiNzVkNGIyXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_SY150_CR2,0,101,150_.jpg"
 categories: [ "movies" ]
 stars: "3/5"
-cabine: "cinemaqui"
+external: "cinemaqui"
 ---
 Este poderia ser um filme sobre qualquer ditadura que tivesse terminado em qualquer país, e isso é estarrecedor. Se pensarmos a respeito da ignorância ou manipulação ideológica do povo a respeito do passado e até do presente político é algo que dá medo. Ficamos a imaginar que atrocidades semelhantes podem estar sendo cometidas hoje na Coréia do Norte ou Venezuela, que só serão descobertas após a queda desses regimes. Isto é, se forem descobertas, pois se há algo que Silêncio dos Outros nos ensina é que o passado pertence não ao seu povo, mas aos que continuam no poder. É como já dizia George Orwell em 1984, em uma lição que deveria ser passada a todo ser humano para desenvolver senso político: "Quem controla o passado, controla o futuro. Quem controla o presente, controla o passado".

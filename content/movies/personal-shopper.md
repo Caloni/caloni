@@ -1,5 +1,5 @@
 ---
-cabine: "cinemaqui"
+external: "cinemaqui"
 cinemaqui: " http://www.cinemaqui.com.br/personal-shopper/"
 imdb: "4714782"
 img: "https://m.media-amazon.com/images/M/MV5BN2JhYTViMGUtMTU0Ni00MzU5LWE0ZmYtNDk2YTdmOTI5MTFjXkEyXkFqcGdeQXVyNTIyODMzMzA@._V1_SY150_CR0,0,101,150_.jpg"
