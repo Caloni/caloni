@@ -1,8 +1,12 @@
 ---
 title: "Lista de Cervejas"
 categories: [ "food" ]
-date: 2019-05-30
+date: 2019-07-01
 ---
+2019-07-01 IPA Gorillaz, da cervejaria homônima de Poços de Caldas, tem corpo parrudo, amargor amigo com os snacks de mandioca e batata fritas cortadas fininhas e sequinhas do Justo no Terraço, um lugar bom para música ao vivo mais tranquila e papear sem pressa de ir embora.
+
+2019-07-01 Dama Bier IPA que é aquele amargor simples que sempre é sucesso quando não se quer prestar muita atenção à cerveja e mais à pizza do 430o em Jundiaí, massa feita com fermentação de 24 horas e estilo napolitana, com pizzas individuais pra comer com a mão.
+
 2019-05-30 Faxe IPA é uma IPA mais fortinha, com amargor sólido. É interessante, mas ainda prefiro as outras cores da latinha.
 
 2019-05-30 Goose Midway Session IPA é amargada com lúpulos aromáticos e vem para acompanhar um queijo mais parrudo ou alguma comida picante.
