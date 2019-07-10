@@ -1,34 +1,69 @@
 ---
-date: "2010-04-01"
-title: "Bem-Vindo!"
+title: Sobre o autor
 categories: [ "blog" ]
+date: 2004-03-01
 ---
-Olá, caro cinéfilo! Aqui você irá encontrar a coletânea de textos escritos pelo aspirante a crítico de cinema Wanderley Caloni, criado e mantido desde 2010. São mais de 1500 textos sobre filmes e séries, de todos os gêneros, épocas e estilos.
+_wanderley.caloni at bitforge com br_
 
-Críticos que costumo ler:
+<img src="https://i.imgur.com/ULSCx4o.png" style="float: left; margin: 24px;"/>__Wanderley Caloni__ é um programador C/C++ especializado em __backend para Windows__ que decidiu ter seu próprio blogue técnico. Tenta mantê-lo atualizado com suas peripécias do dia-a-dia. Colaborador frequente do Grupo C/C++ Brasil, foi junto de [Rodrigo Strauss](http://www.1bit.com.br/) um dos fundadores e participante do primeiro encontro de [programadores C++](http://groups.google.com/group/ccppbrasil) de São Paulo. Trabalhou por dez anos na área de __Segurança da Informação__, principalmente no [Controle de Acesso a Usuários](http://www.scua.com.br) e [Análise de Trojans](http://www.opencs.com.br/site/). Em seguida trabalhou em projetos de desenvolvimento para a __[Área Financeira](http://www.ezmarket.com.br/)__, vindo a ser sócio de uma [empresa especializada](http://www.intelitrader.com.br). Hoje é um dos sócios da __[BitForge](http://www.bitforge.com.br)__, uma empresa que auxilia equipes de desenvolvimento em problemas complexos, seja em arquitetura, metodologias ou escovação de bits, mesmo.
 
- - [Roger Ebert](http://www.rogerebert.com/). O falecido crítico ainda possui seus textos publicados e textos de novos filmes compartilhados entre seus colaboradores.
- - [Cinema Em Cena](www.cinemaemcena.com.br). Textos do melhor crítico técnico do Brasil da atualidade, Pablo Villaça, ativo há mais de 20 anos.
+De 2013 a 2018 foi nomeado __MVP (Most Valued Professional)__ [pela Microsoft](https://mvp.microsoft.com/pt-br/PublicProfile/5000295), um prêmio em consideração pelas colaborações à comunidade C/C++.
 
-Se quiser mais conteúdo sobre cinema segue uma lista de links úteis:
+Seu principal hobby é ser __cinéfilo inveterado__, tendo mantido desde 2010 [um blogue](http://cinetenisverde.com.br) com textos sobre filmes e séries, e desde 2014 é colaborador do [CinemAqui](http://www.cinemaqui.com.br), escrevendo geralmente sobre pré-estreias de filmes alternativos.
 
- - [Cine Tênis Verde: O Livro](https://www.amazon.com.br/dp/B01NB0YTX6). Está à venda na Amazon os textos reunidos do blog desde seu início.
- - [IMDB](http://www.imdb.com/). Base de dados de (quase) todos os filmes da galáxia já lançados ou para lançar.
- - [Rotten Tomatoes](https://www.rottentomatoes.com/). Coletânea de reviews na gringa de críticos e usuários.
- - [AdoroCinema](http://www.adorocinema.com/). O queridinho atual no Brasil de quem curte filmes, possui programação dos cinemas, textos e links de críticas da imprensa e dos usuários do saite.
+Desde 2007 estuda e administra suas finanças pessoalmente, desde títulos públicos a bolsa de valores, o que o fez estudar massivamente sobre o tema, além de se enveredar pelas ciências econômicas como leitor assíduo. Atualmente é defensor da __Escola Austríaca de Economia__ como a única capaz de analisar e prever movimentos econômicos com precisão aceitável, o que o fez também estudar sobre ação humana e filosofia, seguindo a moral objetivista de __Ayn Rand__, que valoriza o uso da mente acima de tudo.
 
-# O Livro
+Ele costuma dar pitacos sobre todos esses temas e outros mais em seu [twitter pessoal](http://twitter.com/#!/caloni). Há outros [links úteis](/links) por aqui.
 
-[<img src="/img/apple-touch-icon.png" style="max-width:15%;min-width:40px;float:left; margin-right: 2em;" alt="Logo" />](https://www.amazon.com.br/dp/B01NB0YTX6)
+Se quiser entrar em contato comigo use o bom e velho email: [wanderley.caloni@bitforge.com.br](mailto:wanderley.caloni@bitforge.com.br).
 
-Assistir filmes pode ser usado como entretenimento e fuga da realidade. E, de fato, a maioria das pessoas usa o cinema para isso (eu incluso). No entanto, como tudo na vida, esta forma automática de reagir ao conteúdo que nos é jogado para consumir não é a melhor maneira de interagir com o mundo, nem de aproveitar duas horas de lazer de sua vida.
+## Voltando para a programação
 
-O Cinema se construiu como parte integrante da era industrial, consequência quase que lógica do avanço do capitalismo e do fornecimento de bens e serviços para uma imensa massa que era antes excluída dos bens mais essenciais à vida humana. Isso torna tudo mais complicado, pois como pode, caro leitor, uma obra ser produzida como um produto, um empreendimento de risco, visando o lucro, e ao mesmo tempo conquistar corações e mentes, e, algumas raras vezes, elevar a comunicação audiovisual em um novo patamar estético e ser celebrado como uma nova forma de arte, talvez a mais completa e complexa que um ser humano poderá experimentar neste mundo?
+Abaixo temos uma breve lista (não-exaustiva) das coisas que eu andei fazendo na minha breve vida de programador.
 
-Para que tudo isso faça sentido é vital que as pessoas assistam cada vez mais e mais filmes, pois apenas pela prática poderemos atingir a excelência em algo na vida. Porém, diferente de consumidores passivos, que deixam seu cérebro em uma tigela enquanto mastigam pipocas como zumbis observando a historinha que é colocada na sala escura cada vez mais cheia de pequenas telas dos celulares dos outros tipos de zumbis, é imperativo que usemos o cérebro e nossa mente como ferramentas de análise crítica do que nos é imposto pela mágica da projeção em 24 (ou 48) fps. Não aguentaremos mais os velhos formatos de uma mídia enlatada se conseguirmos projetar como consumidores ativos para quais tipos de obras dedicaremos nosso tempo e suado dinheirinho.
+```cpp
+.dump /ma curriculo.dmp
+```
 
-E é essa a humilde proposta do Cine Tênis Verde, um canal de textos pretensiosamente simples que buscam fazer rápidas análises de filmes de todos os gêneros, línguas, povos, públicos e orçamentos. Nesta [primeira edição do livro](https://www.amazon.com.br/dp/B01NB0YTX6) você irá encontrar a compilação de cerca de 1300 destes textos, escritos desde a fundação do blog em 2010, indexados por título, ano da obra, diretor, roteirista, elenco e ordem de entrada no blog (a leitura natural do livro). Haverá vários erros de gramática e ortografia que não foram pegos a tempo, além de textos iniciais que apenas listavam anotações feitas durante o filme (algumas, quase nenhuma, com alguns spoilers... esteja avisado!).
-
-Também há uma seção onde a ficha técnica de todos os trabalhos estão listadas, ao lado de uma clássica cotação de cinco estrelas. Os links entre textos e fichas existe para você poder caminhar com mais ou menos detalhes sobre o filme. Se preferir ler apenas os textos, apenas o diretor e o ano estarão especificados (além do ano em que o texto foi escrito).
-
-Por fim, espero que goste. O conteúdo continuará sendo atualizado (e corrigido) no próprio blog (www.cinetenisverde.com.br), e futuras edições irão surgir para a comodidade de uma leitura fluida. E nosso objetivo continuará sendo entender que todo filme, assim como tudo na vida, é melhor apreciado com o cérebro.
+- Inventário de hardware (WMI/SMBIOS) e software (registro).
+- Proteção da área de transferência e PrintScreen através de hook de janelas e manipulação de mensagens globais.
+- Escrita de alertas no log de eventos do sistema através de drivers.
+- Comunicação user/kernel mode através de DeviceIoControl.
+- Acesso remoto de desktop através de ferramenta similar ao VNC.
+- Ferramenta de execução remota similar ao PsExec.
+- Controle de impressão de documentos através de regex (Boost) usando hook do Shell.
+- Gerenciamento de diretivas de acesso do sistema durante logon e logoff de usuários (registro e hooks).
+- Migração de base de dados CTree para SQL (classes OLE).
+- Autenticação Windows com serviço DCOM e GINA customizada ou Credential Provider (Vista).
+- Sincronismo remoto de base de dados CTree usando serviço DCOM.
+- CD Linux bootável com scripts bash e ferramentas de criptografia de discos em linguagem C.
+- Driver de criptografia de discos rígidos e armazenamento USB (PenDrives).
+- Análise de telas azuis ou dumps de memória usando WinDbg.
+- Serviço COM de execução de aplicativos na conta de sistema.
+- Customização da MBR (Master Boot Record) de acordo com características da BIOS.
+- Biblioteca de criptografia Blowfish e SHA-1 em C++ e Assembly 16 bits.
+- Driver de auditoria de acesso com memória compartilhada e eventos entre user e kernel.
+- Hook de API em kernel mode para plataformas NT e 9X.
+- Carregador de boot em Assembly 16 bits; depuração usando Debug.com.
+- Proteção de executáveis através de autenticação em domínio configurado no resource dos arquivos.
+- DLL de proteção à navegação em Internet Explorer 6/7 e Firefox 1/2 com injeção de código Assembly 32 bits.
+- Biblioteca de proteção de código, strings e execução monitorada; uso de interrupções Win32.
+- Biblioteca de geração de log centralizado através de memória mapeada e eventos globais.
+- BHO (Broser Helper Object) e ActiveX para Internet Explorer 6/7 e plugin XPI para Mozilla/Firefox.
+- Gerenciamento de projetos com Source Safe, Bazaar e scripts Batch.
+- Depuração de kernel mode em plataforma NT usando SoftIce e WinDbg, em 9X usando SoftIce e WDeb98.
+- Engenharia reversa de trojans feitos em C++, Visual Basic e Delphi usando WinDbg e IDA.
+- Ferramenta de diagnóstico que lista arquivos, serviços, drivers, registro, partições, processos, etc da máquina.
+- Monitoramento de jobs em Windows 2000+ para controle de instalação e atualização de produtos.
+- Monitoramento da frequência de uso de aplicações usando hook de janelas invasiva e não-invasiva.
+- Engenharia reversa do dicionário Houaiss e importação para o formato Babylon.
+- Controle de build com Cruise Control .NET, servidor de símbolos com Debugging Tools for Windows.
+- Documentação de projetos através de Doxygen e Wiki (Trac).
+- Interfaces de gerenciamento em C++ Builder 5/6 e bibliotecas Visual C++.
+- Analisador de e-mails usando expressões regulares (ATL).
+- Interfaces de análise em Visual C++ (MFC /ATL/WTL).
+- Análise de logs e edição global de projetos utilizando regular expressions.
+- Sistema de risco no mercado financeiro (para corretoras da bolsa de valores).
+- Desenvolvimento de artigos através de blogue técnico e comunidade Code Project (esse você já sabia, não é?).
+- Desenvolvimento de API de comunicação com dispositivos HID USB.
+- Programação para interfaces mobile Windows Phone e Android.
