@@ -15,7 +15,6 @@ import git
 
 sys.path.append(".auth")
 import twitter_caloni as twitter_credentials
-import medium_caloni as medium_credentials
 
 baseUrl = 'http://caloni.com.br/' 
 
@@ -50,17 +49,6 @@ def PublishToTwitter(postInfo, img):
     remaining = 130 - len(stars + ' ' + postInfo['subtitle'] + '\n' + '\n' + postInfo['shortlink'])
     st = stars + ' ' + postInfo['subtitle'] + '\n' + postInfo['shortlink']
     t.statuses.update(status=st, media_ids=",".join([id_img1]))
-
-
-def PublishToMedium(postInfo, img):
-    #if img:
-    #    print('opening image', img, 'to share')
-    #    imgUrl = urlopen(img)
-    #    img = imgUrl.read()
-
-    user = medium_credentials.client.get_current_user()
-    content = postInfo['content'] + '\n\nFrom: ' + postInfo['shortlink']
-    post = medium_credentials.client.create_post(user_id=user['id'], title=postInfo['subtitle'], content=content, content_format="markdown")
 
 
 def GetPermalinkFromCommit(ref):
@@ -138,7 +126,6 @@ def PublishToSocialMedia(ref, img):
 
         print('publishing to twitter')
         PublishToTwitter(postInfo, img if img else postInfo['img'] if 'img' in postInfo else None)
-        PublishToMedium(postInfo, img if img else postInfo['img'] if 'img' in postInfo else None)
         if postInfo['link'].find('/movies/') != -1:
             print('share on letterboxd, please')
             webbrowser.open_new_tab('http://www.letterboxd.com/imdb/' + postInfo['imdb'])

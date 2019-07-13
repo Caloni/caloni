@@ -2,4 +2,3 @@ twitter
 Pillow
 GitPython
 IMDbPY
-medium
