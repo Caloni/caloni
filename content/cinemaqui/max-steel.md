@@ -21,4 +21,4 @@ Quando vemos filmes assumidamente ruins como Sharknado (e suas sequências) sabe
 
 <hr>"Max Steel" (UK/USA, 2016), escrito por Christopher Yost, dirigido por Stewart Hendler, com Ben Winchell, Josh Brener, Maria Bello, Andy Garcia, Ana Villafañe
 
-<h2>Trailer - Max Steel<h2>
+<h2>Trailer - Max Steel</h2>

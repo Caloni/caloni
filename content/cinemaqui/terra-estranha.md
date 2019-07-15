@@ -21,4 +21,4 @@ Dessa forma, embora não tenha tanta ação, Terra Estranha pode ser uma ótima 
 
 <hr>"Strangerland" (Australia/Ireland, 2015), escrito por Michael Kinirons, Fiona Seres, Fiona Seres, dirigido por Kim Farrant, com Nicole Kidman, Joseph Fiennes, Hugo Weaving, Lisa Flanagan, Meyne Wyatt
 
-<h2>Trailer - Terra Estranha<h2>
+<h2>Trailer - Terra Estranha</h2>

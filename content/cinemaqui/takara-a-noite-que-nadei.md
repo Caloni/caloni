@@ -17,4 +17,4 @@ A "interpretação" de Takara Kogawa é direta. Quase o vemos olhando para a câ
 
 <hr>"Takara - La nuit où j'ai nagé" (Japão, França, 2017), dirigido por Kohei Igarashi e Damien Manivel, com Takara Kogawa, Keiki Kogawa, Takashi Kogawa.
 
-<h2>Trailer - Takara: A Noite que Nadei<h2>
+<h2>Trailer - Takara: A Noite que Nadei</h2>

@@ -19,4 +19,4 @@ A impressão geral é que o documentário é sobre o suicídio, e de repente, in
 
 <hr>"Idem" (Brasil, 2017), escrito e dirigiro por Eduardo Ades, Marcus Fernando, com Ivan Cardoso, Gilberto Gil, Torquato Neto.
 
-<h2>Trailer - Torquato Neto - Todas as horas do fim<h2>
+<h2>Trailer - Torquato Neto - Todas as horas do fim</h2>

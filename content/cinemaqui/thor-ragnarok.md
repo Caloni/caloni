@@ -25,4 +25,4 @@ E por falar em final, é preciso sempre lembrar que esses filmes não entregam u
 
 <hr>"Thor: Ragnarok" (USA, 2017), escrito por Eric Pearson, Craig Kyle, Christopher Yost, dirigido por Taika Waititi, com Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba, Jeff Goldblum
 
-<h2>Trailer - Thor Ragnarök<h2>
+<h2>Trailer - Thor Ragnarök</h2>

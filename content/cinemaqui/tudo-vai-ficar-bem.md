@@ -19,4 +19,4 @@ O que o roteiro de Bjørn Olaf Johannessen nos entrega não e nada fácil de aco
 
 <hr>"Every Thing Will Be Fine" (Germany/Canada/France/Sweden/Norway, 2015), escrito por Bjørn Olaf Johannessen, dirigido por Wim Wenders, com Rachel McAdams, James Franco, Peter Stormare, Charlotte Gainsbourg, Julia Sarah Stone
 
-<h2>Trailer - Tudo Vai Fica Bem<h2>
+<h2>Trailer - Tudo Vai Fica Bem</h2>

@@ -17,4 +17,4 @@ Os próprios revolucionários do filme são caricatos, demonstrando um senso de 
 
 <hr>"Caminhos Magnétykos" (Portugal, Brasil, 2018), dirigido por Edgar Pêra, com Dominique Pinon, Albano Jerónimo, Alba Baptista, Ney Matogrosso.
 
-<h2>Trailer - Caminhos Magnétykos<h2>
+<h2>Trailer - Caminhos Magnétykos</h2>

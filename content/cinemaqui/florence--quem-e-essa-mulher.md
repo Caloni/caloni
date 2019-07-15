@@ -22,4 +22,4 @@ Com a direção fluida de Stephen Frears, a maior vantagem de "Florence - Quem �
 
 <hr>"Florence Foster Jenkins" (UK, 2016), escrito por Nicholas Martin, dirigido por Stephen Frears, com Rebecca Ferguson, Meryl Streep, Hugh Grant, Simon Helberg, Neve Gachev
 
-<h2>Trailer - Florence - Quem é Essa Mulher?<h2>
+<h2>Trailer - Florence - Quem é Essa Mulher?</h2>

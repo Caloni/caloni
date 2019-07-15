@@ -27,4 +27,4 @@ A propósito, voltando ao caso real, foi descoberto que a causa da morte da meni
 
 <hr>"The Crucifixion" (EUA/Reino Unido/Romênia, 2017), escrito por Chad Hayes, Carey W. Hayes, dirigido por Xavier Gens, com Sophie Cookson, Corneliu Ulici, Ada Lupu.
 
-<h2>Trailer - Exorcismos e Demônios<h2>
+<h2>Trailer - Exorcismos e Demônios</h2>

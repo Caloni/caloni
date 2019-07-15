@@ -23,4 +23,4 @@ Um destaque merecido deve ir para o design de som, pois em um filme com pouquís
 
 <hr>"You Were Never Really Here" (Reino Unido, França, 2017), escrito por Lynne Ramsay baseado no livro de Jonathan Ames, dirigido por Ramsay, com Joaquin Phoenix, Judith Roberts, Ekaterina Samsonov.
 
-<h2>Trailer - Você Nunca Esteve Realmente Aqui<h2>
+<h2>Trailer - Você Nunca Esteve Realmente Aqui</h2>

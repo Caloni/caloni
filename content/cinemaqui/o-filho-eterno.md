@@ -23,4 +23,4 @@ O Filho Eterno, enfim, não é um filme ruim por si só. Ele possui momentos int
 
 <hr>"O Filho Eterno" (Brazil, 2016), escrito por Leonardo Levis, Cristovão Tezza, dirigido por Paulo Machline, com Débora Falabella, Marcos Veras, Pedro Vinícius
 
-<h2>Trailer - O Filho Eterno<h2>
+<h2>Trailer - O Filho Eterno</h2>

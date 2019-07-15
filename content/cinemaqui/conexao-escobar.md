@@ -21,4 +21,4 @@ Com um terceiro ato que, infelizmente, não consegue chegar aos pés da complexi
 
 <hr>"The Infiltrator" (UK, 2016), escrito por Ellen Sue Brown, Robert Mazur, dirigido por Brad Furman, com Bryan Cranston, Leanne Best, Daniel Mays, Tom Vaughan-Lawlor, Niall Hayes
 
-<h2>Trailer - Conexão Escobar<h2>
+<h2>Trailer - Conexão Escobar</h2>

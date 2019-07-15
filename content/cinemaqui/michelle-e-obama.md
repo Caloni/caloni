@@ -32,4 +32,4 @@ Por fim, a maneira com que edição trabalha a dualidade do casal, não como um 
 
 <hr>"Southside with You" (USA, 2016), escrito por Richard Tanne, dirigido por Richard Tanne, com Tika Sumpter, Parker Sawyers, Vanessa Bell Calloway, Phillip Edward Van Lear, Taylar Fondren
 
-<h2>Trailer - Michelle e Obama<h2>
+<h2>Trailer - Michelle e Obama</h2>

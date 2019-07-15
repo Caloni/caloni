@@ -23,4 +23,4 @@ As poucas notas do piano, usadas parcimoniosamente, denunciam mais uma vez a eco
 
 <hr>"Powidoki" (Poland, 2016), escrito por Andrzej Wajda, Andrzej Mularczyk, dirigido por Andrzej Wajda, com Boguslaw Linda, Aleksandra Justa, Bronislawa Zamachowska, Zofia Wichlacz, Krzysztof Pieczynski
 
-<h2>Trailer - Afterimage<h2>
+<h2>Trailer - Afterimage</h2>

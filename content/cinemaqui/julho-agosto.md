@@ -17,4 +17,4 @@ A melhor parte do filme é acompanhar sua trilha sonora, e tenho quase certeza q
 
 <hr>"Juillet août" (France, 2016), escrito por Diastème, Diastème, Camille Pouzol, dirigido por Diastème, com Luna Lou, Pascale Arbillot, Alma Jodorowsky, Patrick Chesnais, Thierry Godard
 
-<h2>Trailer - Julho Agosto<h2>
+<h2>Trailer - Julho Agosto</h2>

@@ -25,4 +25,4 @@ Dessa forma, Casamento de Verdade se torna um misto de momentos interessantes co
 
 <hr>"Jenny's Wedding" (USA, 2015), escrito por Mary Agnes Donoghue, dirigido por Mary Agnes Donoghue, com Katherine Heigl, Tom Wilkinson, Linda Emond, Grace Gummer, Alexis Bledel
 
-<h2>Trailer - Casamento de Verdade<h2>
+<h2>Trailer - Casamento de Verdade</h2>

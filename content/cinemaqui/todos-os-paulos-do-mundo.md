@@ -21,4 +21,4 @@ Porém, se para isso teremos que burocratizar o cinema em documentários que tem
 
 <hr>"Todos Os Paulos Do Mundo" (Brasil, 2017), escrito e dirigido por Rodrigo de Oliveira, Gustavo Ribeiro, com Paulo José, Selton Mello, Joana Fomm, Fernanda Montenegro.
 
-<h2>Trailer - Todos Os Paulos Do Mundo<h2>
+<h2>Trailer - Todos Os Paulos Do Mundo</h2>

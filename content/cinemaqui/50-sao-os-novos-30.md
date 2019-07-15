@@ -15,4 +15,4 @@ Já a atuação de Valérie Lemercier como Marie-Francine é adequada até demai
 
 <hr>"Marie-Francine" (França/Bélgica, 2017). Escrito por Sabine Haudepin e Valérie Lemercier. Dirigido por Lemercier. Com Valérie Lemercier, Patrick Timsit, Hélène Vincent.
 
-<h2>Trailer - 50 São os Novos 30<h2>
+<h2>Trailer - 50 São os Novos 30</h2>

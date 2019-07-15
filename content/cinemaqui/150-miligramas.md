@@ -27,4 +27,4 @@ Esta trama com certeza receberia atenção maior se estivesse embasada em fatos 
 
 <hr>"La fille de Brest" (France, 2016), escrito por Emmanuelle Bercot, Emmanuelle Bercot, Emmanuelle Bercot, Séverine Bosschem, Séverine Bosschem, dirigido por Emmanuelle Bercot, com Sidse Babett Knudsen, Benoît Magimel, Charlotte Laemmel, Isabelle de Hertogh, Lara Neumann
 
-<h2>Trailer - 150 Miligramas<h2>
+<h2>Trailer - 150 Miligramas</h2>

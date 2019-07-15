@@ -25,4 +25,4 @@ A Favorita não tem em sua história nada que já não tenha sido visto nos inú
 
 <hr>"The Favourite" (Irlanda, Reino Unido, EUA, 2018), escrito por Deborah Davis, Tony McNamara, dirigido por Yorgos Lanthimos, com Olivia Colman, Rachel Weisz, Emma Delves, Emma Stone.
 
-<h2>Trailer - A Favorita<h2>
+<h2>Trailer - A Favorita</h2>

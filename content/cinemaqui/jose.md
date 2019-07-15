@@ -25,4 +25,4 @@ Este é um filme que ganha sua força pela sua irrelevância. É um estudo natur
 
 <hr>"José" (Guatemala, EUA, 2018), escrito por Li Cheng e George F. Roberson, dirigido por Cheng, com Enrique Salanic, Manolo Herrera, Ana Cecilia Mota.
 
-<h2>Trailer - José<h2>
+<h2>Trailer - José</h2>

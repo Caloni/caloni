@@ -23,4 +23,4 @@ Dotado de uma trilha sonora apavorante, pois usa o estilo brasileiro de música 
 
 <hr>"Favela Olímpica" (Switzerland, 2017), escrito por Writers, dirigido por Samuel Chalard, com Cast
 
-<h2>Trailer - Favela Olimpica<h2>
+<h2>Trailer - Favela Olimpica</h2>

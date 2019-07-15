@@ -29,4 +29,4 @@ Porém, apesar da distopia social no mínimo curiosa e de personagens que se tor
 
 <hr>"The Darkest Minds" (EUA, 2018), escrito por Chad Hodge baseado no romance de Alexandra Bracken, dirigido por Jennifer Yuh Nelson, com Amandla Stenberg, Harris Dickinson, Miya Cech e Skylan Brooks.
 
-<h2>Trailer - Mentes Sombrias<h2>
+<h2>Trailer - Mentes Sombrias</h2>

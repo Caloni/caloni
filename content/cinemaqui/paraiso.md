@@ -23,4 +23,4 @@ Paraíso é um filme forte o suficiente para fazer sessão dupla com o filme do 
 
 <hr>"Ray" (Russia/Germany, 2016), escrito por Elena Kiseleva, Andrey Konchalovskiy, dirigido por Andrey Konchalovskiy, com Yuliya Vysotskaya, Philippe Duquesne, Viktor Sukhorukov, Peter Kurth, Jean Denis Römer
 
-<h2>Trailer - Paraíso<h2>
+<h2>Trailer - Paraíso</h2>

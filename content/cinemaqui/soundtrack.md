@@ -25,4 +25,4 @@ A pergunta que fica é se Soundtrack poderia ser um filme melhor ou, dado o mate
 
 <hr>"Soundtrack" (Brazil, 2017), escrito por Writers, dirigido por Directors, com Selton Mello, Ralph Ineson, Seu Jorge, Thomas Chaanhing, Lukas Loughran
 
-<h2>Trailer - Soundtrack<h2>
+<h2>Trailer - Soundtrack</h2>

@@ -25,4 +25,4 @@ E tudo isso empalidece diante dos últimos segundos do longa, onde a mensagem de
 
 <hr>"A Perfect Day" (Spain, 2015), escrito por Fernando León de Aranoa, Diego Farias, Paula Farias, dirigido por Fernando León de Aranoa, com Benicio Del Toro, Tim Robbins, Olga Kurylenko, Mélanie Thierry, Fedja Stukan
 
-<h2>Trailer - Um Dia Perfeito<h2>
+<h2>Trailer - Um Dia Perfeito</h2>

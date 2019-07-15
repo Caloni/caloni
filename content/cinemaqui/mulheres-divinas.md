@@ -25,4 +25,4 @@ Agora imagine a mesma cena com os gêneros trocados hoje em dia e entenderá com
 
 <hr>"Die göttliche Ordnung" (Switzerland, 2017), escrito por Petra Biondina Volpe, dirigido por Petra Biondina Volpe, com Marie Leuenberger, Maximilian Simonischek, Rachel Braunschweig, Sibylle Brunner, Marta Zoffoli
 
-<h2>Trailer - Mulheres Divinas<h2>
+<h2>Trailer - Mulheres Divinas</h2>

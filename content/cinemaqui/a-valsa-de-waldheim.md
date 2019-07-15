@@ -19,4 +19,4 @@ Além disso, judeus e as Nações Unidas se mobilizam para encontrar qualquer ev
 
 <hr>"The Waldheim Waltz" (Áustria, 2018), escrito e conceitualizado por Ruth Beckermann, com Kurt Waldheim.
 
-<h2>Trailer - A Valsa de Waldheim<h2>
+<h2>Trailer - A Valsa de Waldheim</h2>

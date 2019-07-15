@@ -19,4 +19,4 @@ O mais fascinante em acompanhar esta história é que seus acontecimentos brutai
 
 <hr>"Lady Macbeth" (UK, 2016), escrito por Nikolai Leskov, Alice Birch, dirigido por William Oldroyd, com Florence Pugh, Cosmo Jarvis, Paul Hilton, Naomi Ackie, Christopher Fairbank
 
-<h2>Trailer - Lady Macbeth<h2>
+<h2>Trailer - Lady Macbeth</h2>

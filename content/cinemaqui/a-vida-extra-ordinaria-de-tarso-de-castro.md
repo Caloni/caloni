@@ -25,4 +25,4 @@ Não há muitas informações neste filme sobre a História em si, e aparentemen
 
 <hr>"A Vida Extra-Ordinária de Tarso De Castro" (Brasil, 2017), escrito e dirigido por Leo Garcia e Zeca Brito, com João Vicente de Castro, Paulo Cesar Pereio, Caetano Veloso e outros.
 
-<h2>Trailer - A Vida Extra-Ordinária de Tarso De Castro<h2>
+<h2>Trailer - A Vida Extra-Ordinária de Tarso De Castro</h2>

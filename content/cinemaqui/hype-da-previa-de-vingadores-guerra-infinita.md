@@ -19,4 +19,4 @@ PS: Naquela noite assistimos a 20 minutos ininterruptos do filme. E a maior mág
 
 <hr>"Avengers: Infinity War" (EUA, 2018), escrito por um batalhão de gente, dirigido por Anthony e Joe Russo; com um batalhão de heróis (ou seriam os roteiristas os verdadeiros heróis?).
 
-<h2>Trailer - Vingadores: Guerra Infinita<h2>
+<h2>Trailer - Vingadores: Guerra Infinita</h2>

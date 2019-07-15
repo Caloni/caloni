@@ -21,4 +21,4 @@ E o mais impressionante de tudo é que, depois de tudo isso, talvez ainda falte 
 
 <hr>"What Happened, Miss Simone?" (USA, 2015), dirigido por Liz Garbus, com James Baldwin, Stokely Carmichael, Walter Cronkite, Stanley Crouch, Gerrit De Bruin
 
-<h2>Trailer - What Happened, Miss Simone?<h2>
+<h2>Trailer - What Happened, Miss Simone?</h2>

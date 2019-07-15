@@ -43,4 +43,4 @@ O roteiro é de uma coesão que vai do começo ao fim em um pulo. O elenco está
 
 <hr>"Arábia" (Brasil, 2017), escrito por João Dumans, Affonso Uchoa, dirigido por João Dumans, Affonso Uchoa, com Aristides de Sousa, Murilo Caliari, Gláucia Vandeveld.
 
-<h2>Trailer - Arábia<h2>
+<h2>Trailer - Arábia</h2>

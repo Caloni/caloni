@@ -29,4 +29,4 @@ Poucos filmes me deixam sem palavras e com muito a sentir. E esse, quando vemos 
 
 <hr>"As Duas Irenes (aka Two Irenes)" (Brasil, 2017), escrito e dirigido por Fabio Meira, com Priscila Bittencourt, Isabela Torres, Marco Ricca.
 
-<h2>Trailer - As Duas Irenes<h2>
+<h2>Trailer - As Duas Irenes</h2>

@@ -19,4 +19,4 @@ E bonito por bonito, vale mais a pena rever o conteúdo original, também dispon
 
 <hr>"Crouching Tiger, Hidden Dragon: Sword of Destiny" (China/USA, 2016), escrito por John Fusco, Wang Du Lu, dirigido por Woo-Ping Yuen, com Donnie Yen, Michelle Yeoh, Harry Shum Jr., Natasha Liu Bordizzo, Jason Scott Lee
 
-<h2>Trailer - O Tigre e o Dragão: A Espada do Destino<h2>
+<h2>Trailer - O Tigre e o Dragão: A Espada do Destino</h2>

@@ -25,4 +25,4 @@ E há outro momento também, onde simplesmente não há nada a ser dito. É o mo
 
 <hr>"Last Flag Flying" (EUA, 2017), escrito por Richard Linklater, Darryl Ponicsan, dirigido por Richard Linklater, com Bryan Cranston, Laurence Fishburne, Steve Carell.
 
-<h2>Trailer - A Melhor Escolha<h2>
+<h2>Trailer - A Melhor Escolha</h2>

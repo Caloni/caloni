@@ -19,4 +19,4 @@ Para os muitos que se esquecem que ficção é lidar com o inusitado para constr
 
 <hr>"Caprice" (France, 2015), escrito por Emmanuel Mouret, dirigido por Emmanuel Mouret, com Virginie Efira, Anaïs Demoustier, Laurent Stocker, Emmanuel Mouret, Thomas Blanchard
 
-<h2>Trailer - Romance à Francesa<h2>
+<h2>Trailer - Romance à Francesa</h2>

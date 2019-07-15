@@ -23,4 +23,4 @@ Ainda assim, como havia falado, nada em Filhos de Bach parece empolgar muito. Ne
 
 <hr>"Bach in Brazil" (Germany/Brazil, 2015), escrito por Ansgar Ahlers, Ansgar Ahlers, Soern Menning, Soern Finn Menning, dirigido por Ansgar Ahlers, com Edgar Selge, Pablo Vinicius, Aldri Anunciação, Franziska Walser, Dhonata Augusto
 
-<h2>Trailer - Filhos de Bach<h2>
+<h2>Trailer - Filhos de Bach</h2>

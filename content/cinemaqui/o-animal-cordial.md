@@ -27,4 +27,4 @@ Note como O Animal Cordial se beneficia do sistema de som do restaurante para tr
 
 <hr>"O Animal Cordial" (Brasil, 2017), escrito e dirigido por Gabriela Amaral Almeida, com Murilo Benício, Luciana Paes, Irandhir Santos.
 
-<h2>Trailer - O Animal Cordial<h2>
+<h2>Trailer - O Animal Cordial</h2>

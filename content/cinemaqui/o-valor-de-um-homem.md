@@ -23,4 +23,4 @@ O tom intimista da direção de Brizé, com a câmera sempre na mão, e cortes s
 
 <hr>"La loi du marché" (France, 2015), escrito por Stéphane Brizé, Olivier Gorce, dirigido por Stéphane Brizé, com Vincent Lindon, Karine de Mirbeck, Matthieu Schaller, Yves Ory, Xavier Mathieu
 
-<h2>Trailer - O Valor de um Homem<h2>
+<h2>Trailer - O Valor de um Homem</h2>

@@ -19,4 +19,4 @@ A surpresa fica por conta do final, onde Gérard Depardieu aparece em um persona
 
 <hr>"Un beau soleil intérieur" (França, 2017), escrito por Christine Angot, Claire Denis , dirigido por Claire Denis, com Juliette Binoche, Xavier Beauvois, Philippe Katerine.
 
-<h2>Trailer - Deixe a Luz do Sol Entrar<h2>
+<h2>Trailer - Deixe a Luz do Sol Entrar</h2>

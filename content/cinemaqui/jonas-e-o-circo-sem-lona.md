@@ -23,4 +23,4 @@ E isso reflete no próprio filme. Mais ainda quando os empecilhos do sonho do me
 
 <hr>"Jonas e o Circo sem Lona" (Brasil, 2017), escrito por Paula Gomes, dirigido por Paula Gomes
 
-<h2>Trailer - Jonas e o Circo sem Lona<h2>
+<h2>Trailer - Jonas e o Circo sem Lona</h2>

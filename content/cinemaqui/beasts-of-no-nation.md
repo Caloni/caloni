@@ -23,4 +23,4 @@ Beasts of No Nation, salvo um ou outros momentos manipulativos, é um exemplar r
 
 <hr>"Beasts of No Nation" (USA, 2015), escrito por Cary Joji Fukunaga, Uzodinma Iweala, dirigido por Cary Joji Fukunaga, com Abraham Attah, Emmanuel Affadzi, Ricky Adelayitor, Andrew Adote, Vera Nyarkoah Antwi
 
-<h2>Trailer - Beasts of No Nation<h2>
+<h2>Trailer - Beasts of No Nation</h2>

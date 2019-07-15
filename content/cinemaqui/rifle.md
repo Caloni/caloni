@@ -19,4 +19,4 @@ Na verdade, fica pior. Este é um ótimo exemplo de como há um certo movimento 
 
 <hr>"Rifle" (Brazil/Germany, 2016), escrito por Davi Pretto, Richard Tavares, dirigido por Davi Pretto, com Dione Avila De Oliveira, Evaristo Pimentel Goularte, Francisco Fabrício Dutra dos Santos, Sofia Ferreira, Andressa Nogueira Goularte
 
-<h2>Trailer - Rifle<h2>
+<h2>Trailer - Rifle</h2>

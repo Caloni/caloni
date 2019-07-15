@@ -23,4 +23,4 @@ Como resultado, "Sofia" é consistente com sua ideia, eficiente ao transmiti-la 
 
 <hr>"Sofia" (França, Quatar, Bélgica, 2018), escrito e dirigido por Meryem Benm'Barek-Aloïsi, com Maha Alemi, Lubna Azabal, Sarah Perles.
 
-<h2>Trailer - Sofia<h2>
+<h2>Trailer - Sofia</h2>

@@ -16,4 +16,4 @@ A própria bagunça que o filme faz com diferentes histórias e personagens acab
 
 <hr>"Histórias que Nosso Cinema (Não) Contava" (Brasil, 2017), dirigido por Fernanda Pessoa e montado por Luiz Cruz, com atores diversos de pornochanchadas diversas.
 
-<h2>Trailer - Histórias que Nosso Cinema (Não) Contava<h2>
+<h2>Trailer - Histórias que Nosso Cinema (Não) Contava</h2>

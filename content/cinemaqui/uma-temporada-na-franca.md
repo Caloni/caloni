@@ -23,4 +23,4 @@ Uma Temporada na França, como havia falado, é um resultado misto. Como filme-f
 
 <hr>"Une saison en France" (França, 2017), escrito e dirigido por Mahamat-Saleh Haroun, com Eriq Ebouaney, Sandrine Bonnaire, Aalayna Lys.
 
-<h2>Trailer - Uma Temporada na França<h2>
+<h2>Trailer - Uma Temporada na França</h2>

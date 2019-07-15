@@ -25,4 +25,4 @@ Ainda assim, O Quarto dos Esquecidos, apesar de não ser perfeito em sua histór
 
 <hr>"The Disappointments Room" (USA, 2016), escrito por D.J. Caruso, Wentworth Miller, dirigido por D.J. Caruso, com Lucas Till, Kate Beckinsale, Gerald McRaney, Michael Landes, Michaela Conlin
 
-<h2>Trailer - O Quarto dos Esquecidos<h2>
+<h2>Trailer - O Quarto dos Esquecidos</h2>

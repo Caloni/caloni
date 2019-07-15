@@ -21,4 +21,4 @@ De qualquer forma, O Ornitólogo oferece uma aventura hermética, mas nunca enfa
 
 <hr>"O Ornitólogo" (Portugal/France/Brazil, 2016), escrito por João Pedro Rodrigues, dirigido por João Pedro Rodrigues, com Paul Hamy, Xelo Cagiao, João Pedro Rodrigues, Han Wen, Chan Suan
 
-<h2>Trailer - O Ornitólogo<h2>
+<h2>Trailer - O Ornitólogo</h2>

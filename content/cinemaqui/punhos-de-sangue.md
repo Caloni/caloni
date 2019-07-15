@@ -17,4 +17,4 @@ Conseguindo unir ficção, realidade, realidade e ficção novamente, Punhos de 
 
 <hr>"The Bleeder" (USA, 2016), escrito por Jeff Feuerzeig, Jerry Stahl, Michael Cristofer, Liev Schreiber, dirigido por Philippe Falardeau, com Elisabeth Moss, Naomi Watts, Ron Perlman, Liev Schreiber, Pooch Hall
 
-<h2>Trailer - Punhos de Sangue<h2>
+<h2>Trailer - Punhos de Sangue</h2>

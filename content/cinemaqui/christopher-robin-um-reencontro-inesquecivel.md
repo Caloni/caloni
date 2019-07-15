@@ -21,4 +21,4 @@ Com essa premissa moralista sobre como o trabalho nos escraviza, por mais improv
 
 <hr>"Christopher Robin" (EUA, 2018), escrito por Alex Ross Perry, Tom McCarthy, Allison Schroeder, dirigido por Marc Forster, com Ewan McGregor, Hayley Atwell, Bronte Carmichael, Jim Cummings.
 
-<h2>Trailer - Christopher Robin: Um Reencontro Inesquecível<h2>
+<h2>Trailer - Christopher Robin: Um Reencontro Inesquecível</h2>

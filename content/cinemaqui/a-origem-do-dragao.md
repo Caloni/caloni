@@ -27,4 +27,4 @@ Conseguindo criar tensão se haverá uma luta mesmo depois de revelada que ela a
 
 <hr>"Birth of the Dragon" (China/Canada/USA, 2016), escrito por Stephen J. Rivele, Christopher Wilkinson, Michael Dorgan, dirigido por George Nolfi, com Yu Xia, Wang Xi'An, Hai Yu, Yue Wu, Billy Magnussen
 
-<h2>Trailer - A Origem do Dragão<h2>
+<h2>Trailer - A Origem do Dragão</h2>

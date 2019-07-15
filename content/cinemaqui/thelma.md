@@ -27,4 +27,4 @@ O que nos faz voltar novamente para a questão levantada no filme entre ciência
 
 <hr>"Thelma" (Norway/France/Denmark/Sweden, 2017), escrito por Joachim Trier, Eskil Vogt, dirigido por Joachim Trier, com Eili Harboe, Kaya Wilkins, Henrik Rafaelsen, Ellen Dorrit Petersen, Ludvig Algeback
 
-<h2>Trailer - Thelma<h2>
+<h2>Trailer - Thelma</h2>

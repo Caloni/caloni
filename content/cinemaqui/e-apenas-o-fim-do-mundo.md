@@ -29,4 +29,4 @@ Xavier Dolan continua sendo o cineasta mais pessoal e intenso do Cinema contempo
 
 <hr>"Juste la fin du monde" (Canada/France, 2016), escrito por Xavier Dolan, Jean-Luc Lagarce, dirigido por Xavier Dolan, com Nathalie Baye, Vincent Cassel, Marion Cotillard, Léa Seydoux, Gaspard Ulliel
 
-<h2>Trailer - É Apenas o Fim do Mundo<h2>
+<h2>Trailer - É Apenas o Fim do Mundo</h2>

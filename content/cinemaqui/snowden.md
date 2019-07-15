@@ -24,4 +24,4 @@ Mas apesar dos pesares, Snowden é um filme eficiente do começo ao fim, tanto q
 
 <hr>"Snowden" (France/Germany/USA, 2016), escrito por Kieran Fitzgerald, Oliver Stone, Anatoly Kucherena, Luke Harding, dirigido por Oliver Stone, com Melissa Leo, Zachary Quinto, Joseph Gordon-Levitt, Jaymes Butler, Robert Firth
 
-<h2>Trailer - Snowden<h2>
+<h2>Trailer - Snowden</h2>

@@ -19,4 +19,4 @@ Este também é um filme que tenta levar a discussão para o relacionamento entr
 
 <hr>"Floride" (France, 2015), escrito por Florian Zeller, Philippe Le Guay, Jérôme Tonnerre, dirigido por Philippe Le Guay, com Jean Rochefort, Sandrine Kiberlain, Laurent Lucas, Anamaria Marinca, Clément Métayer
 
-<h2>Trailer - A Viagem de Meu Pai<h2>
+<h2>Trailer - A Viagem de Meu Pai</h2>

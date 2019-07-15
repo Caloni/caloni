@@ -23,4 +23,4 @@ O curioso em "Estados Unidos Pelo Amor" é que seu título sugere alguma crític
 
 <hr>"Zjednoczone stany milosci" (Poland/Sweden, 2016), escrito por Tomasz Wasilewski, dirigido por Tomasz Wasilewski, com Julia Kijowska, Magdalena Cielecka, Dorota Kolak, Marta Nieradkiewicz, Tomasz Tyndyk
 
-<h2>Trailer - Estados Unidos Pelo Amor<h2>
+<h2>Trailer - Estados Unidos Pelo Amor</h2>

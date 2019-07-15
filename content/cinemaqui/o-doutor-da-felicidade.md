@@ -23,4 +23,4 @@ Contudo, este é um filme agradável do começo ao fim. Mas este talvez seja par
 
 <hr>"Knock" (França, Bélgica, 2017), escrito e digirido por Lorraine Lévy, que adaptou da peça de Jules Romains, com Omar Sy, Alex Lutz, Ana Girardot.
 
-<h2>Trailer - O Doutor da Felicidade<h2>
+<h2>Trailer - O Doutor da Felicidade</h2>

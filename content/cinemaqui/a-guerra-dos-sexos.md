@@ -25,4 +25,4 @@ E essa sensação das pessoas em uma sociedade estarem sempre de olho nas celebr
 
 <hr>"Battle of the Sexes" (UK/USA, 2017), escrito por Simon Beaufoy, dirigido por Jonathan Dayton, Valerie Faris, com Emma Stone, Steve Carell, Andrea Riseborough, Natalie Morales, Sarah Silverman
 
-<h2>Trailer - A Guerra Dos Sexos<h2>
+<h2>Trailer - A Guerra Dos Sexos</h2>

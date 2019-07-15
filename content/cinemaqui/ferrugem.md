@@ -21,4 +21,4 @@ O mais frustrante em Ferrugem é que ele é uma produção rica em detalhes, mas
 
 <hr>"Ferrugem" (Brasil, 2018), escrito por Aly Muritiba e Jessica Candal, dirigido por Muritiba, com Giovanni de Lorenzi, Tifanny Dopke, Enrique Diaz.
 
-<h2>Trailer - Ferrugem<h2>
+<h2>Trailer - Ferrugem</h2>

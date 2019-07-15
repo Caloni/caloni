@@ -19,4 +19,4 @@ Todos odeiam essa mulher cuja filha a repudia e o marido distante desconhece. El
 
 <hr>"Dzikie róze" (Polônia, 2017), escrito e dirigido por Anna Jadowska, com Marta Nieradkiewicz, Michal Zurawski, Natalia Bartnik.
 
-<h2>Trailer - Rosas Selvagens<h2>
+<h2>Trailer - Rosas Selvagens</h2>

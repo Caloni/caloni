@@ -23,4 +23,4 @@ Ainda que entre as atuações as mais óbvias girem em torno do Ove de Rolf Lass
 
 <hr>"En man som heter Ove" (Sweden, 2015), escrito por Hannes Holm, Fredrik Backman, dirigido por Hannes Holm, com Rolf Lassgård, Bahar Pars, Filip Berg, Ida Engvoll, Tobias Almborg
 
-<h2>Trailer - Um Homem Chamado Ove<h2>
+<h2>Trailer - Um Homem Chamado Ove</h2>

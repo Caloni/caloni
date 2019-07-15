@@ -17,4 +17,4 @@ Você pode também pensar que tudo não passa de uma maneira de observarmos, com
 
 <hr>"24 Frames" (France/Iran, 2017), escrito por Writers, dirigido por Abbas Kiarostami, com Cast
 
-<h2>Trailer - 24 Frames<h2>
+<h2>Trailer - 24 Frames</h2>

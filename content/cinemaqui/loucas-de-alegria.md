@@ -21,4 +21,4 @@ Mesmo que este não seja um filme "de uma vez só", pois é fácil de se apaixon
 
 <hr>"La pazza gioia" (Italy/France, 2016), escrito por Paolo Virzì, Paolo Virzì, Francesca Archibugi, dirigido por Paolo Virzì, com Micaela Ramazzotti, Valeria Bruni Tedeschi, Valentina Carnelutti, Marco Messeri, Bob Messini
 
-<h2>Trailer - Loucas de Alegria<h2>
+<h2>Trailer - Loucas de Alegria</h2>

@@ -23,4 +23,4 @@ Além disso, Era o Hotel Cambridge se constitui como um retrato legítimo das di
 
 <hr>"Era O Hotel Cambridge" (France/Brazil, 2016), escrito por Luis Alberto de Abreu, Eliane Caffé, Inês Figueiró, dirigido por Eliane Caffé, com José Dumont, Paulo Américo, Suely Franco, Ibtessam Umran, Juliane Arguello
 
-<h2>Trailer - Era O Hotel Cambridge<h2>
+<h2>Trailer - Era O Hotel Cambridge</h2>

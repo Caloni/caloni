@@ -29,4 +29,4 @@ Assim como é um paradoxo entender que as maiores obras de arte talvez precisem 
 
 <hr>"Patti Cake$" (USA, 2017), escrito por Geremy Jasper, dirigido por Geremy Jasper, com Danielle Macdonald, Bridget Everett, Siddharth Dhananjay, Mamoudou Athie, Cathy Moriarty
 
-<h2>Trailer - Patti Cake$<h2>
+<h2>Trailer - Patti Cake$</h2>

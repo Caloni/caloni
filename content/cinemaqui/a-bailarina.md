@@ -17,4 +17,4 @@ O fato é que os diretores Eric Summer e Éric Warin não possuem a menor fé na
 
 <hr>"Ballerina" (France/Canada, 2016), escrito por Carol Noble, Eric Summer, Laurent Zeitoun, dirigido por Eric Summer, Éric Warin, com Elle Fanning, Dane DeHaan, Maddie Ziegler, Carly Rae Jepsen, Camille Cottin
 
-<h2>Trailer - A Bailarina<h2>
+<h2>Trailer - A Bailarina</h2>

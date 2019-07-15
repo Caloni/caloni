@@ -25,4 +25,4 @@ Há de se perceber que a história vista em Detroit em Rebelião sacrifica parte
 
 <hr>"Detroit" (USA, 2017), escrito por Mark Boal, dirigido por Kathryn Bigelow, com John Boyega, Will Poulter, Algee Smith, Jacob Latimore, Jason Mitchell
 
-<h2>Trailer - Detroit Em Rebelião<h2>
+<h2>Trailer - Detroit Em Rebelião</h2>

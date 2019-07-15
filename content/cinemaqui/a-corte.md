@@ -27,4 +27,4 @@ E é por isso que a relação que mantém com uma das juradas se torna o tema ce
 
 <hr>"L'hermine" (France, 2015), escrito por Christian Vincent, dirigido por Christian Vincent, com Fabrice Luchini, Sidse Babett Knudsen, Eva Lallier, Corinne Masiero, Sophie-Marie Larrouy
 
-<h2>Trailer - A Corte<h2>
+<h2>Trailer - A Corte</h2>

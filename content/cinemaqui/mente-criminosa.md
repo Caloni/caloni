@@ -21,4 +21,4 @@ Apenas com uma conclusão meramente conveniente, Mente Perigosa se torna um dos 
 
 <hr>"Criminal" (UK/USA, 2016), escrito por Douglas Cook, David Weisberg, dirigido por Ariel Vromen, com Gal Gadot, Ryan Reynolds, Alice Eve, Kevin Costner, Antje Traue
 
-<h2>Trailer - Mente Criminosa<h2>
+<h2>Trailer - Mente Criminosa</h2>

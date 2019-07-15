@@ -29,4 +29,4 @@ Dessa forma, BugiGangue é um experimento interessante, mas nunca consegue se de
 
 <hr>"Gadgetgang in Outerspace" (USA, 2016), escrito por Ale McHaddo, dirigido por Ale McHaddo, com Cast
 
-<h2>Trailer - BugiGangue no Espaço<h2>
+<h2>Trailer - BugiGangue no Espaço</h2>

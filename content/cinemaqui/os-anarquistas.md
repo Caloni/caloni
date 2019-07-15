@@ -25,4 +25,4 @@ Dessa forma, "Os Anarquistas" é um resultado interessante esteticamente, usa um
 
 <hr>"Les anarchistes" (France, 2015), escrito por Gaëlle Macé, Elie Wajeman, dirigido por Elie Wajeman, com Tahar Rahim, Adèle Exarchopoulos, Swann Arlaud, Guillaume Gouix, Karim Leklou
 
-<h2>Trailer - Os Anarquistas<h2>
+<h2>Trailer - Os Anarquistas</h2>

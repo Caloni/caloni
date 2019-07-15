@@ -21,4 +21,4 @@ Fala Comigo, então, parece fazer questão de normalizar o que é incômodo e in
 
 <hr>"Fala Comigo" (Brazil, 2016), escrito por Felipe Sholl, dirigido por Felipe Sholl, com Karine Teles, Tom Karabachian, Denise Fraga, Emílio de Mello, Anita Ferraz
 
-<h2>Trailer - Fala Comigo<h2>
+<h2>Trailer - Fala Comigo</h2>

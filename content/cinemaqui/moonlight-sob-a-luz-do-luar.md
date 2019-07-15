@@ -23,4 +23,4 @@ Moonlight termina sendo o que chamamos de "filme bonito", ou quando um amigo que
 
 <hr>"Moonlight" (USA, 2016), escrito por Barry Jenkins, Tarell Alvin McCraney, dirigido por Barry Jenkins, com Mahershala Ali, Shariff Earp, Duan Sanderson, Alex R. Hibbert, Janelle Monáe
 
-<h2>Trailer - Moonlight: Sob a Luz do Luar<h2>
+<h2>Trailer - Moonlight: Sob a Luz do Luar</h2>

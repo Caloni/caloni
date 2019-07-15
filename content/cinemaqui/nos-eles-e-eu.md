@@ -23,4 +23,4 @@ O mais curioso é que, ao negar suas origens e seus argumentos, na ponta da lín
 
 <hr>"NEY: Nosotros, ellos y yo" (Argentina/Israel/Occupied Palestinian Territory, 2015), escrito por Nicolás Avruj, Alejandro Dujovne, Andrea Kleinman, dirigido por Nicolás Avruj, com Nur Al Levi, Frieda Geffner, Abu Harbed, Sebastián Muller, Iosef Shai
 
-<h2>Trailer - Nós, Eles e Eu<h2>
+<h2>Trailer - Nós, Eles e Eu</h2>

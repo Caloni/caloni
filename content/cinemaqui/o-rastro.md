@@ -25,4 +25,4 @@ Sem conseguir mover nada além do impacto inicial que é cozido em banho-maria, 
 
 <hr>"O Rastro" (Brazil, 2017), escrito por Beatriz Manela, André Pereira, dirigido por J.C. Feyer, com Leandra Leal, Rafael Cardoso, Cláudia Abreu, Alice Wegmann, Jonas Bloch
 
-<h2>Trailer - O Rastro<h2>
+<h2>Trailer - O Rastro</h2>

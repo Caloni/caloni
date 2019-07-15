@@ -23,4 +23,4 @@ Há algo de Hitchcock em O Silêncio do Céu, seja na perseguição de carros ou
 
 <hr>"Era el Cielo" (Brazil, 2016), escrito por Sergio Bizzio, Sergio Bizzio, Caetano Gotardo, Lucía Puenzo, dirigido por Marco Dutra, com Leonardo Sbaraglia, Carolina Dieckmann, Chino Darín, Alvaro Armand Ugon, Mirella Pascual
 
-<h2>Trailer - O Silêncio do Céu<h2>
+<h2>Trailer - O Silêncio do Céu</h2>

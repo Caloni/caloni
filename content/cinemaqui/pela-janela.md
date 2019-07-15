@@ -21,4 +21,4 @@ E Pela Janela é também um filme sobre o tempo. O tempo que pode curar, assim c
 
 <hr>"Pela Janela" (Brazil, 2017), escrito por Caroline Leone, dirigido por Caroline Leone, com Mayara Constantino, Cacá Amaral, Magali Biff
 
-<h2>Trailer - Pela Janela<h2>
+<h2>Trailer - Pela Janela</h2>

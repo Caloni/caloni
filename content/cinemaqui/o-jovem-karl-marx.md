@@ -19,4 +19,4 @@ Porém, relevante ou não, o filme é vivo, caminha empolgado entre as diferente
 
 <hr>"Le jeune Karl Marx" (Germany/France/Belgium, 2017), escrito por Pascal Bonitzer, Raoul Peck, Pierre Hodgson, dirigido por Raoul Peck, com August Diehl, Stefan Konarske, Vicky Krieps, Olivier Gourmet, Hannah Steele
 
-<h2>Trailer - O Jovem Karl Marx<h2>
+<h2>Trailer - O Jovem Karl Marx</h2>

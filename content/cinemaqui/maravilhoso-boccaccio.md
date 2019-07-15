@@ -19,4 +19,4 @@ Ao fim, Maravilhoso Boccaccio parece uma espécie de homenagem a um autor já co
 
 <hr>"Maraviglioso Boccaccio" (Italy/France, 2015), escrito por Giovanni Boccaccio, Paolo Taviani, Vittorio Taviani, dirigido por Paolo Taviani, Vittorio Taviani, com Lello Arena, Paola Cortellesi, Carolina Crescentini, Flavio Parenti, Vittoria Puccini
 
-<h2>Trailer - Maravilhoso Boccaccio<h2>
+<h2>Trailer - Maravilhoso Boccaccio</h2>

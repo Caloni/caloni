@@ -15,4 +15,4 @@ Não é possível extrair significado de toda essa bagunça sem ritmo exceto a p
 
 <hr>"Bankan Noir" (Suécia, Montenegro, 2017), escrito e dirigido por Draen Kuljanin, com Disa Östrand, Johannes Bah Kuhnkee, Sergej Trifunovic.
 
-<h2>Trailer - Um Noir nos Balcãs<h2>
+<h2>Trailer - Um Noir nos Balcãs</h2>

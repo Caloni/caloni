@@ -25,4 +25,4 @@ Havia dito anteriormente que o filme é desses milagres onde tudo acontece dando
 
 <hr>"A Gente" (Brazil, 2013), escrito por Aly Muritiba, dirigido por Aly Muritiba, com Cast
 
-<h2>Trailer - A Gente<h2>
+<h2>Trailer - A Gente</h2>

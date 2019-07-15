@@ -25,4 +25,4 @@ Está tudo dito! (I rest my case.)
 
 <hr>"Le brio" (França, Bélgica, 2017), escrito por Bryan Marciano, Noé Debré, Victor Saint Macary, Yaël Langmann, Yvan Attal, dirigido por Yvan Attal, com Daniel Auteuil, Camélia Jordana, Yasin Houicha.
 
-<h2>Trailer - O Orgulho<h2>
+<h2>Trailer - O Orgulho</h2>

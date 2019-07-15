@@ -24,4 +24,4 @@ E dentro da lógica de A Passageira, não há mesmo salvação para nenhum dos e
 
 <hr>"Magallanes" (Peru/Argentina/Spain, 2015), escrito por Salvador del Solar, dirigido por Salvador del Solar, com Damián Alcázar, Tatiana Astengo, Jairo Camargo, Tatiana Espinoza, Nicolás Galindo
 
-<h2>Trailer - A Passageira<h2>
+<h2>Trailer - A Passageira</h2>

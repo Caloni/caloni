@@ -23,4 +23,4 @@ E se você chegou até aqui, talvez já saiba que Os Belos Dias de Aranjuez ou n
 
 <hr>"Les beaux jours d'Aranjuez" (France/Germany/Portugal, 2016), escrito por Wim Wenders, Peter Handke, dirigido por Wim Wenders, com Reda Kateb, Sophie Semin, Jens Harzer, Peter Handke, Nick Cave
 
-<h2>Trailer - Os Belos Dias de Aranjuez<h2>
+<h2>Trailer - Os Belos Dias de Aranjuez</h2>

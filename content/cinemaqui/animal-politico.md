@@ -21,4 +21,4 @@ O mais impressionante do ponto de vista técnico no filme é sua economia de rec
 
 <hr>"Animal Político" (Brasil, 2016), escrito e dirigido por Tião, com Rodrigo Bolzan, Elisa Heidrich, Victor Laet.
 
-<h2>Trailer - Animal Político<h2>
+<h2>Trailer - Animal Político</h2>

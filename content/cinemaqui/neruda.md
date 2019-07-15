@@ -20,4 +20,4 @@ Curiosamente, "Neruda" evita usar o saudosismo barato e aplica técnicas de narr
 
 <hr>"Neruda" (Chile/Argentina/France/Spain/USA, 2016), escrito por Guillermo Calderón, dirigido por Pablo Larraín, com Gael García Bernal, Luis Gnecco, Alfredo Castro, Pablo Derqui, Mercedes Morán
 
-<h2>Trailer - Neruda<h2>
+<h2>Trailer - Neruda</h2>

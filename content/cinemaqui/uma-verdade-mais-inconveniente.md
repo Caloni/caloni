@@ -17,4 +17,4 @@ Ele, assim como o diretor homenageado da Mostra esse ano, Ai Weiwei, em seu film
 
 <hr>"An Inconvenient Sequel: Truth to Power" (USA, 2017), escrito por Al Gore, dirigido por Bonni Cohen, Jon Shenk, com Al Gore, George W. Bush, John Kerry, Marco Krapels, Angela Merkel
 
-<h2>Trailer - Uma Verdade Mais Inconveniente<h2>
+<h2>Trailer - Uma Verdade Mais Inconveniente</h2>

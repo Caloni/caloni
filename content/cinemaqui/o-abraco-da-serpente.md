@@ -21,4 +21,4 @@ Concluindo de uma maneira tão irônica quanto seu início, 40 anos atrás, "O A
 
 <hr>"El abrazo de la serpiente" (Colombia/Venezuela/Argentina, 2015), escrito por Ciro Guerra, Theodor Koch-Grunberg, Richard Evans Schultes, Jacques Toulemonde Vidal, dirigido por Ciro Guerra, com Nilbio Torres, Jan Bijvoet, Antonio Bolivar, Brionne Davis, Yauenkü Migue
 
-<h2>Trailer - O Abraço da Serpente<h2>
+<h2>Trailer - O Abraço da Serpente</h2>

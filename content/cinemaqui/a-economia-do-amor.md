@@ -23,4 +23,4 @@ Interessante como estudo de personagens, mas mais interessante ainda como estudo
 
 <hr>"L'économie du couple" (France/Belgium, 2016), escrito por Fanny Burdino, Fanny Burdino, Joachim Lafosse, Joachim Lafosse, Mazarine Pingeot, dirigido por Joachim Lafosse, com Bérénice Bejo, Cédric Kahn, Marthe Keller, Jade Soentjens, Margaux Soentjens
 
-<h2>Trailer - A Economia do Amor<h2>
+<h2>Trailer - A Economia do Amor</h2>

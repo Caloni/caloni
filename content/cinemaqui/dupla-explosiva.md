@@ -25,4 +25,4 @@ Seja pela ação ou pelos bons atores, Dupla Explosiva com certeza é um program
 
 <hr>"The Hitman's Bodyguard" (USA/China/Bulgaria/Netherlands, 2017), escrito por Tom O'Connor, dirigido por Patrick Hughes, com Elodie Yung, Ryan Reynolds, Tsuwayuki Saotome, Roy Hill, Richard E. Grant
 
-<h2>Trailer - Dupla Explosiva<h2>
+<h2>Trailer - Dupla Explosiva</h2>

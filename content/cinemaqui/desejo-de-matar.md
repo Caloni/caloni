@@ -27,4 +27,4 @@ Os tempos complexos que estamos vivendo e os filmes que pegam leve com a crimina
 
 <hr>"Death Wish" (EUA, 2018), escrito por Joe Carnahan baseado no romance de Brian Garfield e no filme de 1974 de Wendell Mayes, dirigido por Eli Roth, com Bruce Willis, Vincent D'Onofrio, Elisabeth Shue.
 
-<h2>Trailer - Desejo de Matar<h2>
+<h2>Trailer - Desejo de Matar</h2>

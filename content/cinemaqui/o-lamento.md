@@ -22,4 +22,4 @@ Porém, nada disso adianta se a história que acompanhamos vai fazendo cada vez 
 
 <hr>"Goksung" (South Korea/USA, 2016), escrito por Hong-jin Na, dirigido por Hong-jin Na, com Do Won Kwak, Woo-hee Chun, Jung-min Hwang, So-yeon Jang, Han-Cheol Jo
 
-<h2>Trailer - O Lamento<h2>
+<h2>Trailer - O Lamento</h2>

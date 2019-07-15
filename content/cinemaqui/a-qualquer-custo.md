@@ -30,4 +30,4 @@ Mas a estrela do filme é mesmo o roteiro. Escrito pelo ator Taylor Sheridan (qu
 
 <hr>"Hell or High Water" (USA, 2016), escrito por Taylor Sheridan, dirigido por David Mackenzie, com Dale Dickey, Ben Foster, Chris Pine, William Sterchi, Buck Taylor
 
-<h2>Trailer - A Qualquer Custo<h2>
+<h2>Trailer - A Qualquer Custo</h2>

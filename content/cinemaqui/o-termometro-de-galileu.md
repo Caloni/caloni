@@ -23,4 +23,4 @@ Quase sempre usando sua câmera como microfone, o filme está querendo encontrar
 
 <hr>"O Termómetro de Galileu" (Portugal, 2018), escrito e dirigido por Teresa Villaverde, com Tonino De Bernardi, Mariella Navale.
 
-<h2>Trailer - O Termômetro de Galileu<h2>
+<h2>Trailer - O Termômetro de Galileu</h2>

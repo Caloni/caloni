@@ -23,4 +23,4 @@ Ou quase. Fechando seus arcos de uma maneira conveniente demais, apesar de neces
 
 <hr>"Au revoir là-haut" (França/Canadá, 2017), escrito por Albert Dupontel adaptado do livro de Pierre Lemaitre, que participou do roteiro; dirigido por Dupontel. Com Nahuel Pérez Biscayart, Albert Dupontel, Laurent Lafitte.
 
-<h2>Trailer - Nos Vemos no Paraíso<h2>
+<h2>Trailer - Nos Vemos no Paraíso</h2>

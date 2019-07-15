@@ -25,4 +25,4 @@ Ozon se aproxima de Lubitsch quando resolve discutir ideias grandiosas, ainda qu
 
 <hr>"Frantz" (France/Germany, 2016), escrito por François Ozon, Philippe Piazzo, Ernst Lubitsch, Reginald Berkeley, Samson Raphaelson, dirigido por François Ozon, com Pierre Niney, Paula Beer, Ernst Stötzner, Marie Gruber, Johann von Bülow
 
-<h2>Trailer - Frantz<h2>
+<h2>Trailer - Frantz</h2>

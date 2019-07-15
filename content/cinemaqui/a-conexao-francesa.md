@@ -23,4 +23,4 @@ Ganhando no título nacional o título original do filme de 1971 com Gene Hackma
 
 <hr>"The French Connection" (USA, 1971), escrito por Ernest Tidyman, Robin Moore, Howard Hawks, dirigido por William Friedkin, com Gene Hackman, Fernando Rey, Roy Scheider, Tony Lo Bianco, Marcel Bozzuffi
 
-<h2>Trailer - A Conexão Francesa<h2>
+<h2>Trailer - A Conexão Francesa</h2>

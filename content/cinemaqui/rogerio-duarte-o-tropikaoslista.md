@@ -28,4 +28,4 @@ O caos é algo bonito se olhado da maneira certa. Rogério Duarte com certeza me
 
 <hr>"Rogério Duarte, o Tropikaoslista" (Brasil, 2016), documentário dirigido por José Walter Lima, com Rogério Duarte, Gilberto Gil, Caetano Veloso.
 
-<h2>Trailer - Rogério Duarte, o Tropikaoslista<h2>
+<h2>Trailer - Rogério Duarte, o Tropikaoslista</h2>

@@ -21,4 +21,4 @@ Curiosamente não há muitos belos momentos de encher o fôlego no fundo do mar,
 
 <hr>"L'odyssée" (França, Bélgica, 2016), escrito por Jérôme Salle, Laurent Turner, dirigido por Jérôme Salle, com Lambert Wilson, Pierre Niney, Audrey Tautou.
 
-<h2>Trailer - A Odisseia<h2>
+<h2>Trailer - A Odisseia</h2>

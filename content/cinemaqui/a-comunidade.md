@@ -23,4 +23,4 @@ Começando de maneira simplória e terminando um arco que foi se anunciando aos 
 
 <hr>"Kollektivet" (Denmark/Sweden/Netherlands, 2016), escrito por Tobias Lindholm, Thomas Vinterberg, dirigido por Thomas Vinterberg, com Ulrich Thomsen, Fares Fares, Trine Dyrholm, Julie Agnete Vang, Helene Reingaard Neumann
 
-<h2>Trailer - A Comunidade<h2>
+<h2>Trailer - A Comunidade</h2>

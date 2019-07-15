@@ -25,4 +25,4 @@ PS: Por falar em ironia, a dublagem nacional conta com o corredor Rubinho Barric
 
 <hr>"Cars 3" (USA, 2017), escrito por Brian Fee, Ben Queen, Eyal Podell, Jonathon E. Stewart, Kiel Murray, dirigido por Brian Fee, com Owen Wilson, Cristela Alonzo, Chris Cooper, Nathan Fillion, Larry Guy the Cable
 
-<h2>Trailer - Carros 3<h2>
+<h2>Trailer - Carros 3</h2>

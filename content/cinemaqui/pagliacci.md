@@ -18,4 +18,4 @@ Aos poucos se revelando como "um filme para fãs", sejam eles as pessoas por tr�
 
 <hr>"Pagliacci" (Brasil, 2018), dirigido por Chico Gomes, Júlio Hey, Pedro Moscalcoff, Luiz Villaça e Luiza Villaça, com Alexandre Roit, Carla Candiotto, Chico Pelúcio, Domingos Montagner, Fernando Paz, Fernando Sampaio, Filipe Bregantim, Keila Bueno.
 
-<h2>Trailer - Pagliacci<h2>
+<h2>Trailer - Pagliacci</h2>

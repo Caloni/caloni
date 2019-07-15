@@ -25,4 +25,4 @@ A tempo: sempre antenado com os tempos atuais, este filme também possui refugia
 
 <hr>"La villa" (França, 2017), escrito por Robert Guédiguian e Serge Valletti, dirigido por Guédiguian, com Ariane Ascaride, Jean-Pierre Darroussin, Gérard Meylan.
 
-<h2>Trailer - Uma Casa à Beira Mar<h2>
+<h2>Trailer - Uma Casa à Beira Mar</h2>

@@ -19,4 +19,4 @@ Este é com certeza um filme dotado de todas as características do cinema de au
 
 <hr>"Isle of Dogs" (Alemanha, EUA 2018), dirigido e escrito por Wes Anderson baseado na história de Roman Coppola, Jason Schwartzman, Kunichi Nomura, com Bryan Cranston, Koyu Rankin, Edward Norton, Bob Balaban, Bill Murray, Jeff Goldblum, Kunichi Nomura, Greta Gerwig, Frances McDormand, Scarlett Johansson, Harvey Keitel, F. Murray Abraham, Yoko Ono, Tilda Swinton, Ken Watanabe, Roman Coppola, Anjelica Huston.
 
-<h2>Trailer - Ilha dos Cachorros<h2>
+<h2>Trailer - Ilha dos Cachorros</h2>

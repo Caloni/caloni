@@ -19,4 +19,4 @@ Não importa. E nem importa o leque de possibilidades. O filme muito bem poderia
 
 <hr>"Magical Girl" (Spain/France, 2014), escrito por Carlos Vermut, dirigido por Carlos Vermut, com José Sacristán, Marina Andruix, Raimundo Reyes de los, Lucía Pollán, Luis Bermejo
 
-<h2>Trailer - A Garota de Fogo<h2>
+<h2>Trailer - A Garota de Fogo</h2>

@@ -20,4 +20,4 @@ Conseguindo se alongar desnecessariamente em menos de 90 minutos de projeção, 
 
 <hr>"No Meio de Nós" (Brazil, 2017), escrito por Juliano Pozati, dirigido por Juliano Pozati, com Renato Prieto.
 
-<h2>Trailer - No Meio de Nós<h2>
+<h2>Trailer - No Meio de Nós</h2>

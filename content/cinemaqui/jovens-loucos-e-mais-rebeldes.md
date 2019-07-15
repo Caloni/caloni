@@ -23,4 +23,4 @@ Com menos cenas de ação do que sua versão de 23 anos atrás, "Jovens, Loucos 
 
 <hr>"Everybody Wants Some!!" (USA, 2016), escrito por Richard Linklater, dirigido por Richard Linklater, com Blake Jenner, Juston Street, Ryan Guzman, Tyler Hoechlin, Wyatt Russell
 
-<h2>Trailer - Jovens, Loucos e Mais Rebeldes<h2>
+<h2>Trailer - Jovens, Loucos e Mais Rebeldes</h2>

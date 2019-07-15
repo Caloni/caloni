@@ -21,4 +21,4 @@ E é por isso que eu não citei esse elemento recorrente em Missão Impossível 
 
 <hr>"Mission: Impossible - Fallout" (EUA, 2018), escrito e dirigido por Christopher McQuarrie (baseado na série de Bruce Geller), com Tom Cruise, Henry Cavill, Ving Rhames, Simon Pegg, Rebecca Ferguson, Sean Harris, Angela Bassett, Vanessa Kirby, Michelle Monaghan.
 
-<h2>Trailer - Missão Impossível: Efeito Fallout<h2>
+<h2>Trailer - Missão Impossível: Efeito Fallout</h2>

@@ -21,4 +21,4 @@ Dessa forma, "Paulistas" se compromete como documentário denúncia ou ficção 
 
 <hr>"Paulitas" (Brasil, 2017), escrito por Daniel Nolasco, dirigido por Daniel Nolasco
 
-<h2>Trailer - Paulistas<h2>
+<h2>Trailer - Paulistas</h2>

@@ -25,4 +25,4 @@ Até o criador desta história não merece ser apunhalado. Ela é triste o sufic
 
 <hr>"New Life" (USA, 2016), escrito por Erin Bethea, Candice Irion, Josh Spake, Drew Waters, dirigido por Drew Waters, com James Marsters, Barry Corbin, Terry O'Quinn, Bill Cobbs, Erin Bethea
 
-<h2>Trailer - Uma Razao Para Recomecar<h2>
+<h2>Trailer - Uma Razao Para Recomecar</h2>

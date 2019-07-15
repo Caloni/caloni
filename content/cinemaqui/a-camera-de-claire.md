@@ -19,4 +19,4 @@ Os pedaços do tecido cortado pela menina do filme por raiva lembram os polaroid
 
 <hr>"La caméra de Claire" (França, Coreia do Sul, 2017), escrito e dirigido por Sang-soo Hong, com Isabelle Huppert, Min-hee Kim, Mi-hee Chang.
 
-<h2>Trailer - A Câmera de Claire<h2>
+<h2>Trailer - A Câmera de Claire</h2>

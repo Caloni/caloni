@@ -27,4 +27,4 @@ Felizmente, hoje em dia não é preciso dar sermões às pessoas para elas enxer
 
 <hr>"Chocolat" (France, 2015), escrito por Cyril Gely, Olivier Gorce, Gérard Noiriel, Roschdy Zem, dirigido por Roschdy Zem, com Omar Sy, James Thierrée, Clotilde Hesme, Olivier Gourmet, Frédéric Pierrot
 
-<h2>Trailer - Chocolate<h2>
+<h2>Trailer - Chocolate</h2>

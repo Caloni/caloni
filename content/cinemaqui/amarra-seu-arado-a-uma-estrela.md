@@ -17,4 +17,4 @@ Obcecada pelos momentos mais brilhantes de Fernando Birri, "Amarra Seu Arado a U
 
 <hr>"Ata tu arado a una estrella" (Argentina, 2017), escrito por Carmen Guarini, dirigido por Carmen Guarini, com Fernando Birri, Osvaldo Bayer, Carmen Papio Birri.
 
-<h2>Trailer - Amarra Seu Arado a Uma Estrela<h2>
+<h2>Trailer - Amarra Seu Arado a Uma Estrela</h2>

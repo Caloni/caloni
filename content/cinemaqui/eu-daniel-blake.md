@@ -22,4 +22,4 @@ Por fim, a questão que fica é a que reside na carta de Daniel Blake, que afirm
 
 <hr>"I, Daniel Blake" (UK/France/Belgium, 2016), escrito por Paul Laverty, dirigido por Ken Loach, com Dave Johns, Hayley Squires, Sharon Percy, Briana Shann, Dylan McKiernan
 
-<h2>Trailer - Eu, Daniel Blake<h2>
+<h2>Trailer - Eu, Daniel Blake</h2>

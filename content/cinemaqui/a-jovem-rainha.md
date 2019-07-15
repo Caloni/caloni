@@ -23,4 +23,4 @@ Mas tudo isso parece ser citado de passagem muitas vezes, sem nunca ser consider
 
 <hr>"The Girl King" (Finland/Germany/Canada/Sweden/France, 2015), escrito por Michel Marc Bouchard, dirigido por Mika Kaurismäki, com Malin Buska, Sarah Gadon, Michael Nyqvist, Lucas Bryant, Laura Birn
 
-<h2>Trailer - A Jovem Rainha<h2>
+<h2>Trailer - A Jovem Rainha</h2>

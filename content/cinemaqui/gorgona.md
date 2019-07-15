@@ -21,4 +21,4 @@ Não há nada de novo sobre como a arte é (des)valorizada no Brasil, mas apenas
 
 <hr>"Idem" (Brasil, 2018), escrito por Pedro Jezler, Fábio Furtado, dirigido por Pedro Jezler, Fábio Furtado, com Maria Alice Vergueiro, Pascoal Da Conceicao, Danilo Grangheia.
 
-<h2>Trailer - Górgona<h2>
+<h2>Trailer - Górgona</h2>

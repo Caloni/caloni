@@ -25,4 +25,4 @@ E, como sempre, a religião do sofrimento depende tanto da dor que ela parece um
 
 <hr>"Silence" (USA/Taiwan/Mexico, 2016), escrito por Jay Cocks, Martin Scorsese, Shûsaku Endô, dirigido por Martin Scorsese, com Andrew Garfield, Adam Driver, Liam Neeson, Tadanobu Asano, Ciarán Hinds
 
-<h2>Trailer - Silêncio<h2>
+<h2>Trailer - Silêncio</h2>

@@ -35,4 +35,4 @@ Construído a partir de um romance de espiões, Operação Red Sparrow poderia m
 
 <hr>"Red Sparrow" (EUA, 2018), escrito por Justin Haythe, dirigido por Francis Lawrence, com Jennifer Lawrence, Joel Edgerton, Matthias Schoenaerts, Jeremy Irons.
 
-<h2>Trailer - Operação Red Sparrow<h2>
+<h2>Trailer - Operação Red Sparrow</h2>

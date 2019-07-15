@@ -21,4 +21,4 @@ Certamente há algo a se aprender com os autistas. Isso já está claro para o m
 
 <hr>"Life, Animated" (USA, 2016), escrito por Ron Suskind, dirigido por Roger Ross Williams, com Jonathan Freeman, Gilbert Gottfried, Alan Rosenblatt, Owen Suskind, Ron Suskind
 
-<h2>Trailer - Life, Animated<h2>
+<h2>Trailer - Life, Animated</h2>

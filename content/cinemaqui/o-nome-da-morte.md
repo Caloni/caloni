@@ -23,4 +23,4 @@ Enquanto isso, a atuação de Marco Pigossi e o arco de seu personagem denota os
 
 <hr>"O Nome da Morte" (Brasil, 2018), escrito por Henrique Goldman e George Moura, com colaboração de Vitor Leite, dirigido por Goldman, com André Mattos, Marco Pigossi, Marie Paquim.
 
-<h2>Trailer - O Nome da Morte<h2>
+<h2>Trailer - O Nome da Morte</h2>

@@ -18,4 +18,4 @@ Nem laços sobrenaturais ela criou. Quando analisamos suas fitas gravadas perceb
 
 <hr>"Hilda Hilst Pede Contato" (Brasil, 2018), escrito e digirido por Gabriela Greeb, com Luciana Domschke, Hilda Hilst, Lygia Fagundes Telles, Fernando Lemos e outros amigos de Hilst.
 
-<h2>Trailer - Hilda Hilst Pede Contato<h2>
+<h2>Trailer - Hilda Hilst Pede Contato</h2>

@@ -21,4 +21,4 @@ Os Fantasmas de Ismael é um filme em constante construção. Assim como sua his
 
 <hr>"Les fantômes d'Ismaël" (França, 2017), escrito por Arnaud Desplechin, Julie Peyr e Léa Mysius, dirigido por Desplechin, com Mathieu Amalric, Marion Cotillard, Charlotte Gainsbourg, Louis Garrel, Alba Rohrwacher.
 
-<h2>Trailer - Os Fantasmas de Ismael<h2>
+<h2>Trailer - Os Fantasmas de Ismael</h2>

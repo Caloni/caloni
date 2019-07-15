@@ -31,4 +31,4 @@ Este é um filme que acredita na luta entre o bem e o mal, pintados de cores dif
 
 <hr>"Taeksi Woonjunsa" (South Korea, 2017), escrito por Yu-na Eom, dirigido por Hun Jang, com Kang-ho Song, Thomas Kretschmann, Hae-jin Yoo, Jun-yeol Ryu, Hyuk-kwon Park
 
-<h2>Trailer - O Motorista de Táxi<h2>
+<h2>Trailer - O Motorista de Táxi</h2>

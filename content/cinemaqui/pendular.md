@@ -19,4 +19,4 @@ Da forma como quiser e imaginar, Pendular irá te aborrecer. Exceto, talvez, pel
 
 <hr>"Pendular" (Brazil/Argentina/France, 2017), escrito por Júlia Murat, Matias Mariani, dirigido por Júlia Murat, com Raquel Karro, Rodrigo Bolzan, Valeria Barretta, Renato Linhares, Neto Machado
 
-<h2>Trailer - Pendular<h2>
+<h2>Trailer - Pendular</h2>

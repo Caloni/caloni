@@ -19,4 +19,4 @@ No final, temos uma tomada estática que retorna à cidade, e que por demorar de
 
 <hr>"Djon Africa" (Brasil, Portugal, Cabo Verde, 2018), escrito por João Miller Guerra e Pedro Pinho, dirigido por Filipa Reis e Guerra, com Bitori Nha Bibinha, Isabel Muñoz Cardoso, Miguel Moreira.
 
-<h2>Trailer - Djon Africa<h2>
+<h2>Trailer - Djon Africa</h2>

@@ -19,4 +19,4 @@ Caminhando a passos lentos, mas sempre chamando a atenção para a história que
 
 <hr>"Sir" (Índia, França, 2018), escrito e dirigido por Rohena Gera, com Ahmareen Anjum, Vivek Gomber, Geetanjali Kulkarni.
 
-<h2>Trailer - A Costureira dos Sonhos<h2>
+<h2>Trailer - A Costureira dos Sonhos</h2>

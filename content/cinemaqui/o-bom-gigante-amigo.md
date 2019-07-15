@@ -23,4 +23,4 @@ Sem conseguir contar qualquer história, mas ao mesmo tempo conseguindo entreter
 
 <hr>"The BFG" (UK/Canada/USA, 2016), escrito por Melissa Mathison, Roald Dahl, dirigido por Steven Spielberg, com Mark Rylance, Ruby Barnhill, Penelope Wilton, Jemaine Clement, Rebecca Hall
 
-<h2>Trailer - O Bom Gigante Amigo<h2>
+<h2>Trailer - O Bom Gigante Amigo</h2>

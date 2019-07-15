@@ -21,4 +21,4 @@ Submersão é um filme que tenta unir a todos nós como espécie, ou a própria 
 
 <hr>"Submergence" (Alemanha/França/Espanha/EUA, 2017), escrito por Erin Dignam (roteiro), J.M. Ledgard (romance), dirigido por Wim Wenders, com Alicia Vikander, James McAvoy, Alexander Siddig.
 
-<h2>Trailer - Submersão<h2>
+<h2>Trailer - Submersão</h2>

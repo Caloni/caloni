@@ -29,4 +29,4 @@ O diretor Breno Silveira também mereceria material melhor. Sem conseguir aplica
 
 <hr>"Entre Irmãs" (Brazil, 2017), escrito por Patrícia Andrade, Frances Peebles de Pontes, dirigido por Breno Silveira, com Ângelo Antônio, Rita Assemany, Cyria Coentro, Letícia Colin, Nanda Costa
 
-<h2>Trailer - Entre Irmãs<h2>
+<h2>Trailer - Entre Irmãs</h2>

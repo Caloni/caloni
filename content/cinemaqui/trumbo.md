@@ -19,4 +19,4 @@ E é por isso que "Trumbo" é ótimo entretenimento, nos coloca no tempo e espa�
 
 <hr>"Trumbo" (USA, 2015), escrito por John McNamara, Bruce Cook, dirigido por Jay Roach, com Bryan Cranston, Michael Stuhlbarg, David Maldonado, John Getz, Diane Lane
 
-<h2>Trailer - Trumbo<h2>
+<h2>Trailer - Trumbo</h2>

@@ -27,4 +27,4 @@ Em Pedaços possui um título nacional de péssimo gosto, pois implica em chamar
 
 <hr>"In the Fade" (Alemanha/França, 2017), escrito por Fatih Akin e Hark Bohm, dirigido por Fatih Akin, com Diane Kruger, Denis Moschitto, Numan Acar.
 
-<h2>Trailer - Em Pedaços<h2>
+<h2>Trailer - Em Pedaços</h2>

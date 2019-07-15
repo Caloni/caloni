@@ -21,4 +21,4 @@ Porém, ao chegar no fim, vemos que se trata mais de uma experimentação cinema
 
 <hr>"Dégradé" (Occupied Palestinian Territory/France/Qatar, 2015), escrito por Arab Nasser, Tarzan Nasser, dirigido por Arab Nasser, Tarzan Nasser, com Hiam Abbass, Victoria Balitska, Manal Awad, Mirna Sakhla, Maisa Abd Elhadi
 
-<h2>Trailer - Degradê<h2>
+<h2>Trailer - Degradê</h2>

@@ -19,4 +19,4 @@ Assim como A Qualquer Custo, este é um filme tipicamente americano. Bom, A Qual
 
 <hr>"Lean on Pete" (EUA, 2017), escrito por Andrew Haigh baseado no romance de Willy Vlautin, dirigido por Haigh, com Charlie Plummer, Amy Seimetz, Travis Fimmel.
 
-<h2>Trailer - A Rota Selvagem<h2>
+<h2>Trailer - A Rota Selvagem</h2>

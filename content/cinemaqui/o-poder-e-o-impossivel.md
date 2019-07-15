@@ -23,4 +23,4 @@ O Poder e o Impossível é um filme forte e tenso. Não é uma história com um 
 
 <hr>"6 Below: Miracle on the Mountain" (USA, 2017), escrito por Madison Turner, Eric LeMarque, Davin Seay, dirigido por Scott Waugh, com Josh Hartnett, Mira Sorvino, Sarah Dumont, Kale Culley, Jason Cottle
 
-<h2>Trailer - O Poder e o Impossível<h2>
+<h2>Trailer - O Poder e o Impossível</h2>

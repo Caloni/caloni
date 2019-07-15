@@ -25,4 +25,4 @@ Em outros momentos, os detalhes empregados tanto pelo diretor Ben Lewin quanto p
 
 <hr>"Please Stand By" (EUA, 2017), escrito por Michael Golamco, dirigido por Ben Lewin, com Dakota Fanning, Toni Collette, Alice Eve.
 
-<h2>Trailer - Tudo que Quero<h2>
+<h2>Trailer - Tudo que Quero</h2>

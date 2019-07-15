@@ -19,4 +19,4 @@ O "clímax" do filme envolve um baque psicológico em todos do circo, e provavel
 
 <hr>"Os Pobres Diabos" (Brazil, 2013), escrito por Rosemberg Cariry, dirigido por Rosemberg Cariry, com Sâmia Bittencourt, Sílvia Buarque, Gero Camilo, Georgina Castro, Chico Díaz
 
-<h2>Trailer - Os Pobres Diabos<h2>
+<h2>Trailer - Os Pobres Diabos</h2>

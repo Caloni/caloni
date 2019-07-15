@@ -21,4 +21,4 @@ Entregando uma trilha sonora internacional e momentos "pop" bem embalados em um 
 
 <hr>"Amori che non sanno stare al mondo" (Italy, 2017), escrito por Francesca Comencini, Francesca Manieri, Laura Paolucci, dirigido por Francesca Comencini, com Lucia Mascino, Thomas Trabacchi, Valentina Bellè, Iaia Forte, Carlotta Natoli
 
-<h2>Trailer - Histórias de Amor Que Não Percentem a Este Mundo<h2>
+<h2>Trailer - Histórias de Amor Que Não Percentem a Este Mundo</h2>

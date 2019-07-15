@@ -29,4 +29,4 @@ Alguns desses detalhes no filme são uma recompensa agradável em um filme que n
 
 <hr>"I, Tonya" (EUA, 2017), escrito por Steven Rogers, dirigido por Craig Gillespie, com Margot Robbie, Sebastian Stan, Allison Janney.
 
-<h2>Trailer - Eu, Tonya<h2>
+<h2>Trailer - Eu, Tonya</h2>

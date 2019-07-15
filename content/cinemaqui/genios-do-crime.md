@@ -19,4 +19,4 @@ Nesse sentido, Gênios do Crime até é engraçado, embora não seja hilário. P
 
 <hr>"Masterminds" (USA, 2016), escrito por Chris Bowman, Hubbel Palmer, Emily Spivey, Emily Spivey, Chris Bowman, dirigido por Jared Hess, com Kate McKinnon, Kristen Wiig, Jason Sudeikis, Zach Galifianakis, Owen Wilson
 
-<h2>Trailer - Gênios do Crime<h2>
+<h2>Trailer - Gênios do Crime</h2>

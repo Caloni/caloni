@@ -27,4 +27,4 @@ Filmes de bandas sempre possuem a vantagem da trilha sonora e da dinâmica do v�
 
 <hr>"Legalize Já! Amizade Nunca Morre" (Brasil, 2017), escrito por Felipe Braga e L.G. Bayão, dirigido por Johnny Araújo e Gustavo Bonafé, com Renato Góes, Ícaro Silva, Marina Provenzzano.
 
-<h2>Trailer - Legalize Já! Amizade Nunca Morre<h2>
+<h2>Trailer - Legalize Já! Amizade Nunca Morre</h2>

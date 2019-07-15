@@ -19,4 +19,4 @@ Iniciando como um trailer e se alongando desnecessariamente para conseguir agrup
 
 <hr>"L'Opéra" (Switzerland/France, 2017), escrito por Writers, dirigido por Jean-Stéphane Bron, com Stéphane Lissner, Benjamin Millepied
 
-<h2>Trailer - A Ópera de Paris<h2>
+<h2>Trailer - A Ópera de Paris</h2>

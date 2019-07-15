@@ -18,4 +18,4 @@ O que podemos analisar em um filme como esse é como ele estragou a experiência
 
 <hr>"El Creador de Universos" (Uruguai, 2017), escrito e dirigido por Mercedes Dominioni, com atores desconhecidos.
 
-<h2>Trailer - O Criador de Universos<h2>
+<h2>Trailer - O Criador de Universos</h2>

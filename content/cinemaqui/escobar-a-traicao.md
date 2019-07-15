@@ -25,4 +25,4 @@ Pecando talvez apenas por uma trilha sonora excessivamente exagerada na tensão,
 
 <hr>"Loving Pablo" (Espanha, Bulgária, 2017), escrito por Fernando León de Aranoa baseado no livro de Virginia Vallejo, dirigido por Aranoa, com Javier Bardem, Penélope Cruz, Peter Sarsgaard.
 
-<h2>Trailer - Escobar - A Traição<h2>
+<h2>Trailer - Escobar - A Traição</h2>

@@ -35,4 +35,4 @@ Em aspectos gerais, Aronofsky é o tipo de diretor confortável em falar sobre o
 
 <hr>"Mother!" (USA, 2017), escrito por Darren Aronofsky, dirigido por Darren Aronofsky, com Jennifer Lawrence, Javier Bardem, Ed Harris, Michelle Pfeiffer, Brian Gleeson
 
-<h2>Trailer - Entrevista Darren Aronofsky<h2>
+<h2>Trailer - Entrevista Darren Aronofsky</h2>

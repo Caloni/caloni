@@ -19,4 +19,4 @@ São as lacunas, ou estilhaços, que se formam no tempo e no espaço entre esses
 
 <hr>"Louder Than Bombs" (Norway/France/Denmark, 2015), escrito por Joachim Trier, Eskil Vogt, dirigido por Joachim Trier, com Rachel Brosnahan, Jesse Eisenberg, Amy Ryan, Gabriel Byrne, Ruby Jerins
 
-<h2>Trailer - Mais Forte Que Bombas<h2>
+<h2>Trailer - Mais Forte Que Bombas</h2>

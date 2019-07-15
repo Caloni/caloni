@@ -23,4 +23,4 @@ Alguns vão dizer que este é um filme parado que não vai para lugar algum. Ess
 
 <hr>"Lucky" (USA, 2017), escrito por Logan Sparks, Drago Sumonja, dirigido por John Carroll Lynch, com Harry Dean Stanton, David Lynch, Ron Livingston, Ed Begley Jr., Tom Skerritt
 
-<h2>Trailer - Lucky<h2>
+<h2>Trailer - Lucky</h2>

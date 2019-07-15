@@ -21,4 +21,4 @@ Embora exista o desejo claro de realizar discursos sociais, o roteiro de Taylor 
 
 <hr>"Wind River" (UK/Canada/USA, 2017), escrito por Taylor Sheridan, dirigido por Taylor Sheridan, com Kelsey Asbille, Jeremy Renner, Julia Jones, Teo Briones, Apesanahkwat
 
-<h2>Trailer - Terra Selvagem<h2>
+<h2>Trailer - Terra Selvagem</h2>

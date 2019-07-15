@@ -20,4 +20,4 @@ Mas não é o suficiente. A história de O Ídolo caminha por caminhos corretos 
 
 <hr>"Ya tayr el tayer" (Occupied Palestinian Territory, 2015), escrito por Hany Abu-Assad, Sameh Zoabi, dirigido por Hany Abu-Assad, com Tawfeek Barhom, Kais Attalah, Hiba Attalah, Ahmad Qasem, Abdel Kareem Barakeh
 
-<h2>Trailer - O Ídolo<h2>
+<h2>Trailer - O Ídolo</h2>

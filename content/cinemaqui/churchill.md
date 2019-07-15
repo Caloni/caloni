@@ -23,4 +23,4 @@ Churchill, assim como Dama de Ferro, parecem mostrar que os britânicos possuem 
 
 <hr>"Churchill" (UK, 2017), escrito por Alex von Tunzelmann, dirigido por Jonathan Teplitzky, com Brian Cox, Miranda Richardson, John Slattery, Ella Purnell, Julian Wadham
 
-<h2>Trailer - Churchill<h2>
+<h2>Trailer - Churchill</h2>

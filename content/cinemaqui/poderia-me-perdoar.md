@@ -25,4 +25,4 @@ Apresentando em sua reviravolta a única peça de um quebra-cabeças que parece 
 
 <hr>"Can You Ever Forgive Me?" (EUA, 2018), escrito por Nicole Holofcener e Jeff Whitty, dirigido por Marielle Heller, com Melissa McCarthy, Richard E. Grant, Dolly Wells.
 
-<h2>Trailer - Poderia Me Perdoar?<h2>
+<h2>Trailer - Poderia Me Perdoar?</h2>

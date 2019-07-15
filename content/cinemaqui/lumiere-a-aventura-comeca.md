@@ -21,4 +21,4 @@ Não há muito o que falar da arte do filme em si, essa colagem histórica forma
 
 <hr>"Lumière!" (France, 2016), escrito por Thierry Frémaux, dirigido por Thierry Frémaux, com Thierry Frémaux, Martin Scorsese, François Clerc, Benoît Duval, Leopoldo Fregoli
 
-<h2>Trailer - Lumière! A Aventura Começa<h2>
+<h2>Trailer - Lumière! A Aventura Começa</h2>

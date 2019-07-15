@@ -21,4 +21,4 @@ E é justamente este o ponto de impacto de um filme claro, simples, mas nunca si
 
 <hr>"Noces" (France/Belgium/Pakistan/Luxembourg, 2016), escrito por Stephan Streker, dirigido por Stephan Streker, com Lina El Arabi, Sébastien Houbani, Babak Karimi, Nina Kulkarni, Olivier Gourmet
 
-<h2>Trailer - A Garota Ocidental - Entre o Coração e a Tradição<h2>
+<h2>Trailer - A Garota Ocidental - Entre o Coração e a Tradição</h2>

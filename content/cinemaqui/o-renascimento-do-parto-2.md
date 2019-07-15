@@ -22,4 +22,4 @@ E por falar em protagonismo, neste filme não há uma protagonista. No máximo u
 
 <hr>"O Renascimento Do Parto 2" (Brasil, 2018), dirigido por Eduardo Chauvet.
 
-<h2>Trailer - O Renascimento Do Parto 2<h2>
+<h2>Trailer - O Renascimento Do Parto 2</h2>

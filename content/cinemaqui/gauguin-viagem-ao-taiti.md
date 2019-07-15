@@ -19,4 +19,4 @@ O roteiro é baseado no livro do próprio Paul Gauguin, Noa Noa, que muitos dize
 
 <hr>"Gauguin - Voyage de Tahiti" (França, 2017), escrito por Edouard Deluc, Etienne Comar, Thomas Lilti e Sarah Kaminsky baseados no livro de Paul Gauguin, dirigido por Edouard Deluc, com Vincent Cassel, Tuheï Adams, Malik Zidi.
 
-<h2>Trailer - Gauguin: Viagem ao Taiti<h2>
+<h2>Trailer - Gauguin: Viagem ao Taiti</h2>

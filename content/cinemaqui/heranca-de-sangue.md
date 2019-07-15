@@ -21,4 +21,4 @@ Focando na relação pai e filha, Herança de Sangue é um drama com cenas de a�
 
 <hr>"Blood Father" (France, 2016), escrito por Peter Craig, Andrea Berloff, Peter Craig, dirigido por Jean-François Richet, com Mel Gibson, Erin Moriarty, Diego Luna, Michael Parks, William H. Macy
 
-<h2>Trailer - Herança de Sangue<h2>
+<h2>Trailer - Herança de Sangue</h2>

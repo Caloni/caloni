@@ -21,4 +21,4 @@ Talvez por isso que o filme nunca tente de fato pender para um dos lados, pois n
 
 <hr>"Una" (UK/USA/Canada, 2016), escrito por David Harrower, dirigido por Benedict Andrews, com Rooney Mara, Riz Ahmed, Ben Mendelsohn, Tobias Menzies, Poppy Corby-Tuech
 
-<h2>Trailer - Una<h2>
+<h2>Trailer - Una</h2>

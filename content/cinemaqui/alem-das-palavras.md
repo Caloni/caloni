@@ -27,4 +27,4 @@ Cheio de virtudes técnicas e narrativas, Além das Palavras é um filme que exi
 
 <hr>"A Quiet Passion" (UK/Belgium, 2016), escrito por Terence Davies, dirigido por Terence Davies, com Cynthia Nixon, Jennifer Ehle, Duncan Duff, Keith Carradine, Jodhi May
 
-<h2>Trailer - Além das Palavras<h2>
+<h2>Trailer - Além das Palavras</h2>

@@ -21,4 +21,4 @@ Entregando mais do mesmo de uma maneira a tentar agradar massas e fãs de ação
 
 <hr>"Kidnap" (USA, 2017), escrito por Knate Lee, dirigido por Luis Prieto, com Halle Berry, Sage Correa, Chris McGinn, Lew Temple, Jason George
 
-<h2>Trailer - O Sequestro<h2>
+<h2>Trailer - O Sequestro</h2>

@@ -17,4 +17,4 @@ Filmado com enquadramentos deslumbrantes, como um em que vemos apenas uma linha 
 
 <hr>"L'astragale" (France, 2015), escrito por Serge Le Péron, Albertine Sarrazin, Brigitte Sy, dirigido por Brigitte Sy, com Leïla Bekhti, Reda Kateb, Esther Garrel, Jocelyne Desverchère, India Hair
 
-<h2>Trailer - Astrágalo<h2>
+<h2>Trailer - Astrágalo</h2>

@@ -24,4 +24,4 @@ Em um jogo narrativo soberbo, sabemos mais sobre a personagem a partir do moment
 
 <hr>"Personal Shopper" (France/Germany, 2016), escrito por Olivier Assayas, Olivier Assayas, dirigido por Olivier Assayas, com Kristen Stewart, Lars Eidinger, Sigrid Bouaziz, Anders Danielsen Lie, Ty Olwin
 
-<h2>Trailer - Personal Shopper<h2>
+<h2>Trailer - Personal Shopper</h2>

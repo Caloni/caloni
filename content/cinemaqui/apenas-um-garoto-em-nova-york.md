@@ -29,4 +29,4 @@ E a maior distância do mundo é a que existe entre a realidade que achamos que 
 
 <hr>"The Only Living Boy in New York" (USA, 2017), escrito por Allan Loeb, dirigido por Marc Webb, com Callum Turner, Jeff Bridges, Kate Beckinsale, Pierce Brosnan, Cynthia Nixon
 
-<h2>Trailer - Apenas um Garoto em Nova York<h2>
+<h2>Trailer - Apenas um Garoto em Nova York</h2>

@@ -22,4 +22,4 @@ E por isso mesmo é um trabalho curioso. Ele depende de personagens que se torna
 
 <hr>"The 9th Life of Louis Drax" (UK/Canada/USA, 2016), escrito por Liz Jensen, Max Minghella, dirigido por Alexandre Aja, com Jamie Dornan, Aiden Longworth, Sarah Gadon, Michael Adamthwaite, Aaron Paul
 
-<h2>Trailer - A Nona Vida de Louis Drax<h2>
+<h2>Trailer - A Nona Vida de Louis Drax</h2>

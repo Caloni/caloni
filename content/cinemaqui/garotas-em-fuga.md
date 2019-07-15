@@ -17,4 +17,4 @@ Este é um filme cru com reviravoltas naturais e que portanto não precisa manip
 
 <hr>"Cavale" (Bélgica, 2018), escrito por Micha Wald, dirigido por Virginie Gourmel, com Lisa Viance, Yamina Zaghouanie, Noa Pellizari.
 
-<h2>Trailer - Garotas em Fuga<h2>
+<h2>Trailer - Garotas em Fuga</h2>

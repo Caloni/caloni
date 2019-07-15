@@ -21,4 +21,4 @@ O uso de cores sisudas (e sombrias) e cenários imponentes (apesar de vermos tud
 
 <hr>"The Dinner" (USA, 2017), escrito por Oren Moverman, Herman Koch, dirigido por Oren Moverman, com Michael Chernus, Taylor Rae Almonte, Steve Coogan, Charlie Plummer, Seamus Davey-Fitzpatrick
 
-<h2>Trailer - O Jantar<h2>
+<h2>Trailer - O Jantar</h2>

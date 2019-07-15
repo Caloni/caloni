@@ -17,4 +17,4 @@ O material se torna quase um completo desastre nas mãos da diretora Noémie Sag
 
 <hr>"Telle mère, telle fille" (France, 2017), escrito por Agathe Pastorino, Noémie Saglio, dirigido por Noémie Saglio, com Juliette Binoche, Camille Cottin, Lambert Wilson, Catherine Jacob, Jean-Luc Bideau
 
-<h2>Trailer - Tal Mãe, Tal Filha<h2>
+<h2>Trailer - Tal Mãe, Tal Filha</h2>

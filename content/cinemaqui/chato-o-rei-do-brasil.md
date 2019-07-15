@@ -17,4 +17,4 @@ Se tornando aos poucos um passatempo cada vez menos atraente e com um ou outro m
 
 <hr>"Chatô - O Rei do Brasil" (Brazil, 2015), escrito por João Emanuel Carneiro, Guilherme Fontes, Matthew Robbins, Fernando Morais, dirigido por Guilherme Fontes, com Andrea Beltrão, Paulo Betti, Ingrid Borgoin, Gabriel Braga Nunes, Nathália França
 
-<h2>Trailer - Chatô - O Rei do Brasil<h2>
+<h2>Trailer - Chatô - O Rei do Brasil</h2>

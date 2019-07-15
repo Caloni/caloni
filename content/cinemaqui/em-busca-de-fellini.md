@@ -23,4 +23,4 @@ E esta vida é certinha demais para fascinar. Ou talvez Fellini não tenha mais 
 
 <hr>"In Search of Fellini" (USA, 2017), escrito por Nancy Cartwright, Peter Kjenaas, dirigido por Taron Lexton, com Maria Bello, Ksenia Solo, Mary Lynn Rajskub, Barbara Bouchet, Beth Riesgraf
 
-<h2>Trailer - Em Busca de Fellini<h2>
+<h2>Trailer - Em Busca de Fellini</h2>

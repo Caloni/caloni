@@ -21,4 +21,4 @@ Mas não necessariamente ele vai agradar a todos. Solene e com uma trilha sonora
 
 <hr>"Pedro e Inês" (Portugal, França, Brasil, 2018), escrito por António Ferreira baseado no romance de Rosa Lobato Faria, dirigido por Ferreira, com Diogo Amaral, Joana de Verona, Vera Kolodzig, João Lagarto, Miguel Monteiro.
 
-<h2>Trailer - Pedro e Inês<h2>
+<h2>Trailer - Pedro e Inês</h2>

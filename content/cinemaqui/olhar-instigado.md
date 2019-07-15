@@ -19,4 +19,4 @@ Dessa forma temos um trabalho competente que se transforma tematicamente em mais
 
 <hr>"Olhar Instigado" (Brasil, 2015), escrito por Guilherme Moraes Quintella, Chico Gomes, dirigido por Chico Gomes, Felipe Lion
 
-<h2>Trailer - Olhar Instigado<h2>
+<h2>Trailer - Olhar Instigado</h2>

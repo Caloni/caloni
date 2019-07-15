@@ -21,4 +21,4 @@ Guerra Fria não é um filme apenas sobre pessoas, mas como essas pessoas são a
 
 <hr>"Zimna wojna (aka Cold War)" (Polônia, França, Reino Unido, 2018), escrito por Pawel Pawlikowski, Janusz Glowacki e Piotr Borkowski, dirigido por Pawlikowski, com Joanna Kulig, Tomasz Kot, Borys Szyc.
 
-<h2>Trailer - Guerra Fria<h2>
+<h2>Trailer - Guerra Fria</h2>

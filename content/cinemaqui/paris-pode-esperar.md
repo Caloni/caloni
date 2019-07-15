@@ -21,4 +21,4 @@ Paris Pode Esperar talvez soe entediante para muitos, mas abrir o apetite para o
 
 <hr>"Bonjour Anne" (USA, 2016), escrito por Eleanor Coppola, dirigido por Eleanor Coppola, com Diane Lane, Alec Baldwin, Arnaud Viard, Linda Gegusch, Élodie Navarre
 
-<h2>Trailer - Paris Pode Esperar<h2>
+<h2>Trailer - Paris Pode Esperar</h2>

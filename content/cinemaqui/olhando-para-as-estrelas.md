@@ -23,4 +23,4 @@ O quão mais longe cada ser humano consegue ir, dada a oportunidade certa?
 
 <hr>"Olhando para as Estrelas" (Brazil/USA, 2016), escrito por Melissa Rebelo Kerezsi, Alexandre Peralta, dirigido por Alexandre Peralta, com Geyza Pereira, Fernanda C. Bianchini Saad, Thalia Macedo, Cesar Albuquerque, Sandra Macedo
 
-<h2>Trailer - Olhando Para As Estrelas<h2>
+<h2>Trailer - Olhando Para As Estrelas</h2>
