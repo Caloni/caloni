@@ -1,6 +1,6 @@
 ---
 imdb: "0166396"
-img: "https://m.media-amazon.com/images/M/MV5BYjg3YThlNTYtZTNiYS00MmU4LWIwM2YtYWZjYjIzYjUyNzE0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2015-11-06"
 categories: [ "movies" ]
 title: "A Fortuna de Ned"

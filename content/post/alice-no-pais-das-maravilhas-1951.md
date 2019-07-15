@@ -1,6 +1,6 @@
 ---
 imdb: "0043274"
-img: "https://m.media-amazon.com/images/M/MV5BMTgyMjM2NTAxMF5BMl5BanBnXkFtZTgwNjU1NDc2MTE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-11-13"
 review: [ "2013" ]
 categories: [ "movies" ]

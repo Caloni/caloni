@@ -1,6 +1,6 @@
 ---
 imdb: "0301199"
-img: "https://m.media-amazon.com/images/M/MV5BNDMxOGM4ZjgtZjJhNS00MzVjLWI2ZjctYzhjN2NkMGI5OWZkXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-04-30"
 categories: [ "movies" ]
 title: "Coisas Belas E Sujas"

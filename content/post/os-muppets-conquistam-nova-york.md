@@ -1,6 +1,6 @@
 ---
 imdb: "0087755"
-img: "https://m.media-amazon.com/images/M/MV5BNmFiYTU2YjEtNjcxNy00MzViLTljMGEtNWI4OTU0ZTRhZTM1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDIwODAwNzg@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-07-20"
 categories: [ "movies" ]
 title: "Os Muppets Conquistam Nova Iorque"

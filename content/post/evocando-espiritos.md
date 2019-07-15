@@ -1,6 +1,6 @@
 ---
 imdb: "0492044"
-img: "https://m.media-amazon.com/images/M/MV5BMjE0NDU1NzY0OV5BMl5BanBnXkFtZTcwOTY4NTczMg@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-06-12"
 categories: [ "movies" ]
 title: "Evocando Espíritos"

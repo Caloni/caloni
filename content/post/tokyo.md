@@ -5,7 +5,7 @@ desc: "Tokyo! França, Japão, Coréia do Sul, Alemanha, 2008. Dirigido por Mich
 imdb: "0976060"
 categories: [ "movies" ]
 stars: "5/5"
-img: "https://m.media-amazon.com/images/M/MV5BNWFiYjkxNTYtNzNmZi00MTcyLWEwMzEtNmM1M2VjODFlZTE1XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg"
+
 ---
 Só tem diretor foda nesse filme. Mas diretores foda podem fazer cagada de vez em quando. Felizmente não é o caso de "Tokyo!", que nos apresenta o tema cidade-título de uma maneira que [Nova Iorque](/movies/nova-york-eu-te-amo)/[Paris](/movies/paris-te-amo) Eu Te Amo nem sonham em fazer.
 

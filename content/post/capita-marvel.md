@@ -3,7 +3,7 @@ date: 2019-03-12T15:15:59-03:00
 title: "Capitã Marvel"
 desc: "Captain Marvel. Dirigido por Anna Boden (mulheres primeiro) e Ryan Fleck. Escrito por Anna Boden, Geneva Robertson-Dworet, Geneva Robertson-Dworet , Meg LeFauve, Nicole Perlman, Ryan Fleck. Com Brie Larson, Samuel L. Jackson, Ben Mendelsohn."
 imdb: "4154664"
-img: "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 ---

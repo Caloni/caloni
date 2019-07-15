@@ -3,7 +3,7 @@ date: 2018-08-01T16:27:10-03:00
 title: "Predestinados"
 desc: "Birthmarked. Canadá, 2018. Escrito por Emanuel Hoss-Desmarais e Marc Tulin. Dirigido por Hoss-Desmarais. Com Matthew Goode, Toni Collette, Fionnula Flanagan."
 imdb: "4702826"
-img: "https://m.media-amazon.com/images/M/MV5BMTY3NzE5NzU2Nl5BMl5BanBnXkFtZTgwMTIzMzc4NDM@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 ---

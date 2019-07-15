@@ -1,6 +1,6 @@
 ---
 imdb: "0094291"
-img: "https://m.media-amazon.com/images/M/MV5BNmEyZGQ4NDQtNTEzZC00MDczLWE4ZTEtYTg0ODg2NTkyMWM3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-05-23"
 categories: [ "movies" ]
 title: "Wall Street Poder e Cobiça"

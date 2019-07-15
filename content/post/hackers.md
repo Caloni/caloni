@@ -1,6 +1,6 @@
 ---
 imdb: "0113243"
-img: "https://m.media-amazon.com/images/M/MV5BNmExMTkyYjItZTg0YS00NWYzLTkwMjItZWJiOWQ2M2ZkYjE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-11-19"
 categories: [ "movies" ]
 title: "Hackers"

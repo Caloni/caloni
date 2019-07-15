@@ -1,6 +1,6 @@
 ---
 imdb: "1259571"
-img: "https://m.media-amazon.com/images/M/MV5BMTI3MjE3NDIxNF5BMl5BanBnXkFtZTcwODM3NTY5Mg@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-06-10"
 categories: [ "movies" ]
 title: "A Saga Crepúsculo: Lua Nova"

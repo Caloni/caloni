@@ -1,6 +1,6 @@
 ---
 imdb: "1200060"
-img: "https://m.media-amazon.com/images/M/MV5BMTg5NTAxMTc3OF5BMl5BanBnXkFtZTgwNDY0MjA2MDE@._V1_SY150_CR6,0,101,150_.jpg"
+
 date: "2015-10-24"
 categories: [ "movies" ]
 title: "The English Surgeon"

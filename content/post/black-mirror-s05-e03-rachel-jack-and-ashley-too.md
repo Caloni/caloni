@@ -5,7 +5,7 @@ desc: "Black Mirror S05 E03 Rachel Jack and Ashley Too. Reino Unido, 2019. Dirig
 imdb: "9053874"
 categories: [ "series" ]
 stars: "2/5"
-img: "https://m.media-amazon.com/images/M/MV5BYTc4N2NhOWEtZGY0Ny00ZGNiLTk0OWItYzRhZWIxYTZiOGU4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_SX1777_CR0,0,1777,806_AL_.jpg"
+
 ---
 O último episódio dessa temporada de Black Mirror faz aquela empoderada básica, de cartilha, pra empolgar o público feminino, e no meio de grandes ideias desperdiça todas em um final que lembra qualquer outra série de suspense e ação menos a própria Black Mirror, essa série britânica que ficou conhecida por nos fazer pensar e não possuir finais fáceis.
 

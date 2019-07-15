@@ -1,6 +1,6 @@
 ---
 imdb: "0096734"
-img: "https://m.media-amazon.com/images/M/MV5BNWE1OGExYzQtYzRjOS00MmJhLWE3OTYtZjkzOTNlMjJlZTQ4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-07-20"
 categories: [ "movies" ]
 title: "Meus Vizinhos São um Terror"

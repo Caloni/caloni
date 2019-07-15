@@ -1,6 +1,6 @@
 ---
 imdb: "0387808"
-img: "https://m.media-amazon.com/images/M/MV5BMWQ4MzI2ZDQtYjk3MS00ODdjLTkwN2QtOTBjYzIwM2RmNzgyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-06-07"
 categories: [ "movies" ]
 title: "Idiocracia"

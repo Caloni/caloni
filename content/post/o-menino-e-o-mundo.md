@@ -1,6 +1,6 @@
 ---
 imdb: "3183630"
-img: "https://m.media-amazon.com/images/M/MV5BMTY4MTAwODg1NF5BMl5BanBnXkFtZTgwMTUyMDQyNzE@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2016-02-23"
 categories: [ "movies" ]
 title: "O Menino e o Mundo"

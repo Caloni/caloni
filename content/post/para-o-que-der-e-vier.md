@@ -3,7 +3,7 @@ date: 2018-07-28T11:09:44-03:00
 title: "Para o Que Der e Vier"
 desc: "Are You Here. EUA, 2013. Escrito e dirigido por Matthew Weiner. Com Owen Wilson, Zach Galifianakis, Amy Poehler."
 imdb: "1545754"
-img: "https://m.media-amazon.com/images/M/MV5BNjY3NzM2NDg0MV5BMl5BanBnXkFtZTgwOTE2MjU5MTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 ---

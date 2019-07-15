@@ -1,6 +1,6 @@
 ---
 imdb: "0116367"
-img: "https://m.media-amazon.com/images/M/MV5BZjk3YmZhMDAtOWUzMS00YjE5LTkxNzAtY2I1NGZjMDA2ZTk0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-09-19"
 categories: [ "movies" ]
 title: "Um Drink no Inferno"

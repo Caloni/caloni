@@ -1,6 +1,6 @@
 ---
 imdb: "0790636"
-img: "https://m.media-amazon.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-11-30"
 categories: [ "movies" ]
 title: "Clube de Compras Dallas"

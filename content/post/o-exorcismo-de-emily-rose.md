@@ -1,6 +1,6 @@
 ---
 imdb: "0404032"
-img: "https://m.media-amazon.com/images/M/MV5BMTI2NTM5MjQ0Nl5BMl5BanBnXkFtZTcwNDAxNjAzMQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-03-08"
 categories: [ "movies" ]
 title: "O Exorcismo de Emily Rose"

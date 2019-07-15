@@ -1,6 +1,6 @@
 ---
 imdb: "1013856"
-img: "https://m.media-amazon.com/images/M/MV5BMTMzMjM3OTc1MV5BMl5BanBnXkFtZTcwMTc4MDQ1Mw@@._V1_SY150_CR3,0,101,150_.jpg"
+
 date: "2011-05-29"
 categories: [ "movies" ]
 title: "Singularidades de uma Rapariga Loura"

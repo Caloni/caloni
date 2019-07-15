@@ -1,6 +1,6 @@
 ---
 imdb: "1130080"
-img: "https://m.media-amazon.com/images/M/MV5BMTc4MDIyMTM3NV5BMl5BanBnXkFtZTcwNDQ2Nzg2Mg@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-04-15"
 categories: [ "movies" ]
 title: "O Desinformante!"

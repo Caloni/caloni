@@ -1,6 +1,6 @@
 ---
 imdb: "0409459"
-img: "https://m.media-amazon.com/images/M/MV5BY2IzNGNiODgtOWYzOS00OTI0LTgxZTUtOTA5OTQ5YmI3NGUzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-09-04"
 categories: [ "movies" ]
 title: "Watchmen O Filme"

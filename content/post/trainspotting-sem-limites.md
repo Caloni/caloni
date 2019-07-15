@@ -1,6 +1,6 @@
 ---
 imdb: "0117951"
-img: "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-05-21"
 categories: [ "movies" ]
 title: "Trainspotting Sem Limites"

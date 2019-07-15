@@ -1,6 +1,6 @@
 ---
 imdb: "0082912"
-img: "https://m.media-amazon.com/images/M/MV5BNzRiNzUxMzMtNWE4OS00YjA5LWJiZWQtM2YwNzYzNjZmMWEzXkEyXkFqcGdeQXVyMTE2OTg4Mjg@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-12-07"
 categories: [ "movies" ]
 title: "Pixote: A Lei do Mais Fraco"

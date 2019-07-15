@@ -1,6 +1,6 @@
 ---
 imdb: "6085308"
-img: "https://m.media-amazon.com/images/M/MV5BMzliZjZkOTktMTFjZi00MjdjLTkxMDUtYjQ0NmI3YjY0MmRhXkEyXkFqcGdeQXVyNTI5MTAyMzU@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: 2017-12-14T23:44:06
 categories: [ "movies" ]
 title: "Algo de Novo"

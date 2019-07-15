@@ -1,6 +1,6 @@
 ---
 imdb: "0133093"
-img: "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-12-20"
 categories: [ "movies" ]
 title: "Matrix"

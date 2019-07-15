@@ -1,6 +1,6 @@
 ---
 imdb: "0296915"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ3Njk0NTc0OF5BMl5BanBnXkFtZTcwODgwMjcyMQ@@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2012-06-13"
 categories: [ "movies" ]
 title: "Valentin"

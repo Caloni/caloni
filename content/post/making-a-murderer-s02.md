@@ -1,6 +1,6 @@
 ---
 imdb: "5189670"
-img: "https://m.media-amazon.com/images/M/MV5BMTg4Mjc1NjE4Ml5BMl5BanBnXkFtZTgwMjk2NjA1NjM@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2018-10-31
 categories: [ "series" ]
 title: "Making a Murderer S02"

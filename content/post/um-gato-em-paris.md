@@ -1,6 +1,6 @@
 ---
 imdb: "1673702"
-img: "https://m.media-amazon.com/images/M/MV5BMTAzODU0NDExMTNeQTJeQWpwZ15BbWU3MDk2NjMxMzc@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2011-06-12"
 categories: [ "movies" ]
 title: "Um Gato em Paris"

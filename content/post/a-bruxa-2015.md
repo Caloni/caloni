@@ -1,6 +1,6 @@
 ---
 imdb: "4263482"
-img: "https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-06-24"
 categories: [ "movies" ]
 title: "A Bruxa"

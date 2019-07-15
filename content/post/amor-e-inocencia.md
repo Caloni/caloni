@@ -1,6 +1,6 @@
 ---
 imdb: "0416508"
-img: "https://m.media-amazon.com/images/M/MV5BMTIzMjQyMDMxM15BMl5BanBnXkFtZTcwMjAwOTM1MQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-04-27"
 categories: [ "movies" ]
 title: "Amor e Inocência"

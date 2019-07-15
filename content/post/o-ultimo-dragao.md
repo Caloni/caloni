@@ -1,6 +1,6 @@
 ---
 imdb: "0089461"
-img: "https://m.media-amazon.com/images/M/MV5BMjlkNDA2NTQtYzNlOS00YmY1LTk5YzEtMWVhYTY0ZDI0ZDIxXkEyXkFqcGdeQXVyNjEwMTA0NTc@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-07-07"
 categories: [ "movies" ]
 title: "O Último Dragão"

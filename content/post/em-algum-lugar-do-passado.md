@@ -1,6 +1,6 @@
 ---
 imdb: "0081534"
-img: "https://m.media-amazon.com/images/M/MV5BOTBhZWNlNTgtOWQwYi00N2YwLTkwZjItMjFhOGRmYzU4NDhmXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2013-07-12"
 categories: [ "movies" ]
 title: "Em Algum Lugar do Passado"

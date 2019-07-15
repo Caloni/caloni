@@ -1,6 +1,6 @@
 ---
 imdb: "1014759"
-img: "https://m.media-amazon.com/images/M/MV5BMTMwNjAxMTc0Nl5BMl5BanBnXkFtZTcwODc3ODk5Mg@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-04-23"
 categories: [ "movies" ]
 title: "Alice no País das Maravilhas"

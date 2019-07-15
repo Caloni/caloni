@@ -1,6 +1,6 @@
 ---
 imdb: "0477348"
-img: "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-03-04"
 categories: [ "movies" ]
 title: "Onde os Fracos não Têm Vez"

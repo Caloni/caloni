@@ -1,6 +1,6 @@
 ---
 imdb: "1189073"
-img: "https://m.media-amazon.com/images/M/MV5BMjMwOTYyNDY4NV5BMl5BanBnXkFtZTcwNDI1ODk0Ng@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-11-18"
 categories: [ "movies" ]
 title: "A Pele que Habito"

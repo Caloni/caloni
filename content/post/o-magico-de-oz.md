@@ -1,6 +1,6 @@
 ---
 imdb: "0032138"
-img: "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-01-11"
 categories: [ "movies" ]
 title: "O Mágico de Oz"

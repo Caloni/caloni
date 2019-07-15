@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "3956754"
-img: "https://m.media-amazon.com/images/M/MV5BODYyNTk4NjI1Nl5BMl5BanBnXkFtZTgwNzcxODQyNzE@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2015-04-19"
 categories: [ "movies" ]
 title: "A Vida Privada dos Hipopótamos"

@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "1974419"
-img: "https://m.media-amazon.com/images/M/MV5BNTAyOTkxNTQ3NV5BMl5BanBnXkFtZTgwMjQ1NzQxOTE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2016-09-23"
 categories: [ "movies" ]
 title: "Demônio de Neon"

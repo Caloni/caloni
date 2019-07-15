@@ -1,6 +1,6 @@
 ---
 imdb: "0072431"
-img: "https://m.media-amazon.com/images/M/MV5BMTEwNjg2MjM2ODFeQTJeQWpwZ15BbWU4MDQ1MDU5OTEx._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-04-11"
 categories: [ "movies" ]
 title: "O Jovem Frankenstein"

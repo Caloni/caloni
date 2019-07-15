@@ -1,6 +1,6 @@
 ---
 imdb: "1655442"
-img: "https://m.media-amazon.com/images/M/MV5BMDUyZWU5N2UtOWFlMy00MTI0LTk0ZDYtMzFhNjljODBhZDA5XkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2012-02-16"
 categories: [ "movies" ]
 title: "O Artista"

@@ -1,6 +1,6 @@
 ---
 imdb: "5933966"
-img: "https://m.media-amazon.com/images/M/MV5BZDMyNjIyYmMtZTIwYy00MDNmLWJhYjMtOTkwNDUwNDBkODY5XkEyXkFqcGdeQXVyNjU1MzEwNDU@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2016-10-25"
 categories: [ "movies" ]
 title: "Ascent"

@@ -1,6 +1,6 @@
 ---
 imdb: "1839492"
-img: "https://m.media-amazon.com/images/M/MV5BMjE2OTM5OTUyOF5BMl5BanBnXkFtZTcwODI4Nzg3Nw@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-10-17"
 categories: [ "movies" ]
 title: "Ruby Sparks A Namorada Perfeita"

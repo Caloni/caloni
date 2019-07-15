@@ -3,7 +3,7 @@ date: 2018-11-08T14:01:49-02:00
 title: "The Square: A Arte da Discórdia"
 desc: "The Square. Suécia, Alemanha, França, Dinamarca, 2017. Escrito e dirigido por Ruben Östlund. Com Claes Bang, Elisabeth Moss, Dominic West. Arte, sociedade, alternativo."
 imdb: "4995790"
-img: "https://m.media-amazon.com/images/M/MV5BMzc1MDY3NDIwMV5BMl5BanBnXkFtZTgwNzkwNzU0MzI@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 ---

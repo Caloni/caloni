@@ -1,6 +1,6 @@
 ---
 imdb: "1211837"
-img: "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-11-17"
 categories: [ "movies" ]
 title: "Doutor Estranho"

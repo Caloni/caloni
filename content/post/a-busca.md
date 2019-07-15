@@ -1,6 +1,6 @@
 ---
 imdb: "2125425"
-img: "https://m.media-amazon.com/images/M/MV5BMDI4ZmQ5MmYtYzEzOC00NTAyLWExODgtMDYzMWM1ZjA1MTcxXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-11-02"
 categories: [ "movies" ]
 title: "A Busca"

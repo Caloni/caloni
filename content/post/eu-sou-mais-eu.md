@@ -3,7 +3,7 @@ date: 2019-01-14T15:15:22-02:00
 title: "Eu Sou Mais Eu"
 desc: "Eu Sou Mais Eu (Brasil, 2019), escrito por L.G. Bayão e Angélica Lopes, dirigido por Pedro Amorim, com Kéfera Buchmann como Camilla, Giovanna Lancellotti como Drica, João Côrtes como Cabeça."
 imdb: "9214280"
-img: "https://m.media-amazon.com/images/M/MV5BMjVjNjZkZjAtNzk3Ny00MmI0LThlZjQtY2E5MjBkYjdmNDczXkEyXkFqcGdeQXVyMjM1OTI3OQ@@._V1_SY150_CR3,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"

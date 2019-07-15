@@ -1,6 +1,6 @@
 ---
 imdb: "3531824"
-img: "https://m.media-amazon.com/images/M/MV5BMTUzOTg1OTM4NV5BMl5BanBnXkFtZTgwMTg2Mjg0OTE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2016-11-17"
 categories: [ "movies" ]
 title: "Nerve: Um Jogo Sem Regras"

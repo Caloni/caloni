@@ -3,7 +3,7 @@ date: 2018-05-07T19:12:15-03:00
 title: "O Renascimento do Parto"
 categories: [ "movies" ]
 imdb: "2974412"
-img: "https://m.media-amazon.com/images/M/MV5BMzE3NmM1ZmEtYjc1MS00M2YzLTgyMWYtOTBjNjdhZWIzYzlmXkEyXkFqcGdeQXVyNDYzNTAxNjM@._V1_SY150_CR0,0,101,150_.jpg"
+
 stars: "2/5"
 desc: "O Renascimento do Parto. Documentário escrito por Érica de Paula, dirigido por Eduardo Chauvet."
 ---

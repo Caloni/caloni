@@ -1,6 +1,6 @@
 ---
 imdb: "0025316"
-img: "https://m.media-amazon.com/images/M/MV5BZmViYmM5OTYtNGQ4Ny00YjQyLThiNjEtYTE4MGZhZTNmZjcyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-11-01"
 categories: [ "movies" ]
 title: "Aconteceu Naquela Noite"

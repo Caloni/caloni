@@ -1,6 +1,6 @@
 ---
 imdb: "0479997"
-img: "https://m.media-amazon.com/images/M/MV5BMzc3MjYxNzg2N15BMl5BanBnXkFtZTcwNzQyMTkwNA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-02-05"
 categories: [ "movies" ]
 title: "Caça às Bruxas"

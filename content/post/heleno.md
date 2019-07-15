@@ -1,6 +1,6 @@
 ---
 imdb: "1720114"
-img: "https://m.media-amazon.com/images/M/MV5BM2QzYmE3ZDAtYzcxZC00ZjQ2LWJkNTUtYzFhYjRmZjEwMzdhXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_SX101_.jpg"
+
 date: "2013-01-20"
 categories: [ "movies" ]
 title: "Heleno"

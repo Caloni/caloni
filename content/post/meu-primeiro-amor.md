@@ -1,6 +1,6 @@
 ---
 imdb: "0102492"
-img: "https://m.media-amazon.com/images/M/MV5BYWM2ZDliNjItZTcxOC00NTY2LWE1ODctNzRhNGM3YWIyYjBiXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-10-29T17:52:19
 categories: [ "movies" ]
 title: "Meu Primeiro Amor"

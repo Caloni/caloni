@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "6288250"
-img: "https://m.media-amazon.com/images/M/MV5BOTZiNGIxNzgtMGUyMy00Y2IwLWI0Y2QtN2FhNWNhNjcyODM5XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-11-18T20:59:14
 categories: [ "movies" ]
 title: "Patti Cake$"

@@ -1,6 +1,6 @@
 ---
 imdb: "2173244"
-img: "https://m.media-amazon.com/images/M/MV5BMTA2Mjc2MDYxMDdeQTJeQWpwZ15BbWU4MDMzMjg0MDQx._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2017-03-10"
 categories: [ "movies" ]
 title: "Tiempos Felices"

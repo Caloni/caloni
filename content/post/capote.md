@@ -1,6 +1,6 @@
 ---
 imdb: "0379725"
-img: "https://m.media-amazon.com/images/M/MV5BMTczMzU0MjM1MV5BMl5BanBnXkFtZTcwMjczNzgyNA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-03-13"
 categories: [ "movies" ]
 title: "Capote"

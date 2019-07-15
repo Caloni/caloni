@@ -1,6 +1,6 @@
 ---
 imdb: "1064964"
-img: "https://m.media-amazon.com/images/M/MV5BZjRiZjExZTYtMDEwZi00MGZiLTk2ODktNmJkOGUwNTZiYzdjXkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SY150_CR6,0,101,150_.jpg"
+
 date: "2012-03-04"
 categories: [ "movies" ]
 title: "Leur morale... et la nôtre"

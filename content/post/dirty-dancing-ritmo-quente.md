@@ -1,6 +1,6 @@
 ---
 imdb: "0092890"
-img: "https://m.media-amazon.com/images/M/MV5BMTc3MDY3ODQ2OV5BMl5BanBnXkFtZTgwOTQ2NTYxMTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-02-15"
 categories: [ "movies" ]
 title: "Dirty Dancing Ritmo Quente"

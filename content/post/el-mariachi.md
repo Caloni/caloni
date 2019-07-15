@@ -1,6 +1,6 @@
 ---
 imdb: "0104815"
-img: "https://m.media-amazon.com/images/M/MV5BNjMwNzA1NmQtYjUyYS00MTNlLWJiNDktODM3YTFlZDA0ZWUxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-02-26"
 categories: [ "movies" ]
 title: "O Mariachi"

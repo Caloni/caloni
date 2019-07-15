@@ -1,6 +1,6 @@
 ---
 imdb: "0448694"
-img: "https://m.media-amazon.com/images/M/MV5BMTMxMTU5MTY4MV5BMl5BanBnXkFtZTcwNzgyNjg2NQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-01-09"
 categories: [ "movies" ]
 title: "O Gato de Botas"

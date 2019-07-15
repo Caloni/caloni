@@ -1,6 +1,6 @@
 ---
 imdb: "0427229"
-img: "https://m.media-amazon.com/images/M/MV5BMTg0OTc2MDQ3NV5BMl5BanBnXkFtZTcwNDUwMjEzMw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-06-12"
 categories: [ "movies" ]
 title: "Armações do Amor"

@@ -1,6 +1,6 @@
 ---
 imdb: "2925942"
-img: "https://m.media-amazon.com/images/M/MV5BMjI1OTU5Njk5NV5BMl5BanBnXkFtZTgwMTgxODQyNzE@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2013-05-17"
 categories: [ "movies" ]
 title: "O Que Se Move"

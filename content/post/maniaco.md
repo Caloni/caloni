@@ -1,6 +1,6 @@
 ---
 imdb: "2103217"
-img: "https://m.media-amazon.com/images/M/MV5BYzUyODkwNzUtNGQ0Yy00MGExLTg2NGItNjA4NTEyYjIxYWNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: 2017-11-30T00:07:56
 categories: [ "movies" ]
 title: "Maníaco"

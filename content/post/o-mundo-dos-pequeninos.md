@@ -1,6 +1,6 @@
 ---
 imdb: "1568921"
-img: "https://m.media-amazon.com/images/M/MV5BMTAxNjk3OTYyODReQTJeQWpwZ15BbWU3MDgyODY2OTY@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-12-06"
 categories: [ "movies" ]
 title: "O Mundo dos Pequeninos"

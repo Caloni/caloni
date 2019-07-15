@@ -1,6 +1,6 @@
 ---
 imdb: "1356928"
-img: "https://m.media-amazon.com/images/M/MV5BMTUxODczODA2NV5BMl5BanBnXkFtZTcwNzExMjQ1Mw@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2011-06-12"
 categories: [ "movies" ]
 title: "O Pai dos Meus Filhos"

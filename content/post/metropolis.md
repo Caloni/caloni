@@ -1,6 +1,6 @@
 ---
 imdb: "0017136"
-img: "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-06-06"
 categories: [ "movies" ]
 title: "Metrópolis"

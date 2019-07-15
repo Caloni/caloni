@@ -1,6 +1,6 @@
 ---
 imdb: "0797093"
-img: "https://m.media-amazon.com/images/M/MV5BZGE1NWU4ZTEtNjZiNy00ZmY1LWFiYWQtOGNmNjRkZDhlZDQ1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyOTc2Mzg5OQ@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2012-09-30"
 categories: [ "movies" ]
 title: "De Quem é a Cinta Liga?"

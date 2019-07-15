@@ -3,7 +3,7 @@ date: 2018-03-26T22:05:17-03:00
 title: "Zama"
 categories: [ "movies" ]
 imdb: "3409848"
-img: "https://m.media-amazon.com/images/M/MV5BODczZjE1MmYtY2RiNi00ZjRjLWI2NDktZGY5ODlhNjk0ZTk4XkEyXkFqcGdeQXVyNTQwMDA5NTg@._V1_SX101_CR0,0,101,150_.jpg"
+
 stars: "2/5"
 desc: "Zama (Argentina, 2017), escrito por Antonio Di Benedetto, Lucrecia Martel, dirigido por Lucrecia Martel, com Daniel Giménez Cacho, Lola Dueñas, Matheus Nachtergaele."
 external: "cinemaqui"

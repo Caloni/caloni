@@ -1,6 +1,6 @@
 ---
 imdb: "1421051"
-img: "https://m.media-amazon.com/images/M/MV5BMTg1MzE1NDA0M15BMl5BanBnXkFtZTcwODM2MDY1Mw@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-12-25"
 categories: [ "movies" ]
 title: "Um Lugar Qualquer"

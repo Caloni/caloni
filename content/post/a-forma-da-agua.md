@@ -3,7 +3,7 @@ date: 2018-04-20T21:05:49-03:00
 title: "A Forma da Água"
 categories: [ "movies" ]
 imdb: "5580390"
-img: "https://m.media-amazon.com/images/M/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY150_CR0,0,101,150_.jpg"
+
 stars: "3/5"
 desc: "The Shape of Water. EUA, 2017. Escrito por Vanessa Taylor e Guillermo del Toro (a partir de sua história), dirigido por Guillermo del Toro. Com Sally Hawkins, Octavia Spencer, Michael Shannon e Richard Jenkins."
 ---

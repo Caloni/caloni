@@ -1,6 +1,6 @@
 ---
 imdb: "0903624"
-img: "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-12-17"
 categories: [ "movies" ]
 title: "O Hobbit Uma Jornada Inesperada"

@@ -1,6 +1,6 @@
 ---
 imdb: "0080684"
-img: "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-12-31"
 categories: [ "movies" ]
 title: "Star Wars Episódio V O Império Contra-Ataca"

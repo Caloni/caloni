@@ -1,6 +1,6 @@
 ---
 imdb: "0119528"
-img: "https://m.media-amazon.com/images/M/MV5BYjZlYmJjYWYtZDM0NS00YmZlLWIyMTAtMDY5ZTNjZTgwMDhjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-01-04"
 categories: [ "movies" ]
 title: "O Mentiroso"

@@ -1,6 +1,6 @@
 ---
 imdb: "2386278"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ4MDAyNzEyNl5BMl5BanBnXkFtZTgwNjU5OTUwMTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-06-15"
 categories: [ "movies" ]
 title: "A Face do Mal"

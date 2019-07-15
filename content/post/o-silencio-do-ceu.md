@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "5125930"
-img: "https://m.media-amazon.com/images/M/MV5BMWJlYWU3NzItMWI2Ni00ODc4LWIwNmMtYWQzMWRkMmVjYjQyXkEyXkFqcGdeQXVyMDYxMjcxMQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-09-13"
 categories: [ "movies" ]
 title: "O Silêncio do Céu"

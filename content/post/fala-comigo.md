@@ -2,7 +2,7 @@
 external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/fala-comigo/"
 imdb: "5657776"
-img: "https://m.media-amazon.com/images/M/MV5BOTI0YzU1ZTUtNTFlMi00ZTRhLWIwNzctYTY3ODE4N2Y4Y2EyXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2017-07-04"
 categories: [ "movies" ]
 title: "Fala Comigo"

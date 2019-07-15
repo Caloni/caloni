@@ -1,6 +1,6 @@
 ---
 imdb: "2279373"
-img: "https://m.media-amazon.com/images/M/MV5BMjYyNDczNTE0MF5BMl5BanBnXkFtZTgwNjkzNDYxMzE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-02-16"
 categories: [ "movies" ]
 title: "Bob Esponja: Um Herói Fora d'Água"

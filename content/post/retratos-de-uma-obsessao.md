@@ -1,6 +1,6 @@
 ---
 imdb: "0265459"
-img: "https://m.media-amazon.com/images/M/MV5BYWVkMjAzY2QtZTA4Yi00OWZmLTliMzctZTkyODU4NTc3MmRjL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-07-21"
 categories: [ "movies" ]
 title: "Retratos de uma Obsessão"

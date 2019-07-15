@@ -1,6 +1,6 @@
 ---
 imdb: "4693358"
-img: "https://m.media-amazon.com/images/M/MV5BM2E1OTRlZDUtNTFjZC00ZDMxLTk4YjYtYmIzN2Q1ZWQ5OTBkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-10-24T02:12:31
 categories: [ "movies" ]
 title: "Otherlife"

@@ -1,6 +1,6 @@
 ---
 imdb: "0332280"
-img: "https://m.media-amazon.com/images/M/MV5BMTk3OTM5Njg5M15BMl5BanBnXkFtZTYwMzA0ODI3._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-03-15"
 categories: [ "movies" ]
 title: "Diário de uma Paixão"

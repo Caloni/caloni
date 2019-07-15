@@ -1,6 +1,6 @@
 ---
 imdb: "0144084"
-img: "https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-02-26"
 categories: [ "movies" ]
 title: "Psicopata Americano"

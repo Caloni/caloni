@@ -1,6 +1,6 @@
 ---
 imdb: "0775489"
-img: "https://m.media-amazon.com/images/M/MV5BNjQ5MmRmNTYtZmNiNS00NGMwLWJhOTMtMWJiZWVjZDk2ZDE2XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2010-10-27"
 categories: [ "movies" ]
 title: "O Mágico"

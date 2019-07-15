@@ -6,6 +6,6 @@ imdb: "1489887"
 categories: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"
-img: "https://m.media-amazon.com/images/M/MV5BYTNjYzk4YmItNDEyMC00MDI2LTlkYjMtMTRjODI0OWZiNDdjXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg"
+
 ---
 A diretora estreante 13 do House, ou melhor dizendo, Olívia Wilde, que me fez voltar a ter esperanças de comédias no cinema, como um divertimento de escape, claro, mas com bom gosto. Eu deveria comentar sobre a cartilha lésbica e essas coisas de minorias no filme, mas passou batido, porque é assim que deve ser na vida real. Sinal de que o filme é tão bem feito que não precisa de muletas sociais, pois gira em torno simplesmente de seres humanos. E a atriz que faz a gordinha simplesmente detona com D maior.

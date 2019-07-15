@@ -1,6 +1,6 @@
 ---
 imdb: "1067106"
-img: "https://m.media-amazon.com/images/M/MV5BMTM1MTI5ODU4MV5BMl5BanBnXkFtZTcwNTYyNTU4Mg@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-03-21"
 categories: [ "movies" ]
 title: "Os Fantasmas de Scrooge"

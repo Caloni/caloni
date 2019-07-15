@@ -1,6 +1,6 @@
 ---
 imdb: "0118884"
-img: "https://m.media-amazon.com/images/M/MV5BYWNkYmFiZjUtYmI3Ni00NzIwLTkxZjktN2ZkMjdhMzlkMDc3XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-12-29"
 categories: [ "movies" ]
 title: "Contato"

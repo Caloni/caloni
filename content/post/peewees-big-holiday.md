@@ -1,6 +1,6 @@
 ---
 imdb: "0837156"
-img: "https://m.media-amazon.com/images/M/MV5BMjIyODA1MzYyM15BMl5BanBnXkFtZTgwMjQxODYyODE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-03-29"
 categories: [ "movies" ]
 title: "Pee-wee's Big Holiday"

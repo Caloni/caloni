@@ -1,6 +1,6 @@
 ---
 imdb: "3882082"
-img: "https://m.media-amazon.com/images/M/MV5BMTc1MjcxNzcwMV5BMl5BanBnXkFtZTgwMTE0NTE2NzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-09-11"
 categories: [ "movies" ]
 title: "Boneco do Mal"

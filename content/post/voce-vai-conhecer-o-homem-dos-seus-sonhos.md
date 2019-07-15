@@ -1,6 +1,6 @@
 ---
 imdb: "1182350"
-img: "https://m.media-amazon.com/images/M/MV5BMTkzOTI3MTE0OF5BMl5BanBnXkFtZTcwOTg3NDI3Mw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-11-26"
 categories: [ "movies" ]
 title: "Você Vai Conhecer o Homem dos Seus Sonhos"

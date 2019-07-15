@@ -1,6 +1,6 @@
 ---
 imdb: "2357547"
-img: "https://m.media-amazon.com/images/M/MV5BM2QyNmZkNTYtZWQyZi00NDhhLWEzMDItYmIzY2U4ZWVmOWNhXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-08-18"
 categories: [ "series" ]
 title: "Jessica Jones"

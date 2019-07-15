@@ -1,6 +1,6 @@
 ---
 imdb: "1579361"
-img: "https://m.media-amazon.com/images/M/MV5BMTM1NDc0MzAxNF5BMl5BanBnXkFtZTcwMjY1NzE3OA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-02-09"
 categories: [ "movies" ]
 title: "Chasing Ice"

@@ -1,6 +1,6 @@
 ---
 imdb: "0974015"
-img: "https://m.media-amazon.com/images/M/MV5BYWVhZjZkYTItOGIwYS00NmRkLWJlYjctMWM0ZjFmMDU4ZjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-11-24T19:14:37
 categories: [ "movies" ]
 title: "Liga da Justiça"

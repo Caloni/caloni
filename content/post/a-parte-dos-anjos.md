@@ -1,6 +1,6 @@
 ---
 imdb: "1924394"
-img: "https://m.media-amazon.com/images/M/MV5BZWE2ZmViNmItODQ5YS00OTJkLWExZTMtZDZhZDhhYzYzMzlhXkEyXkFqcGdeQXVyMjQ2MTk1OTE@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2013-04-01"
 categories: [ "movies" ]
 title: "A Parte dos Anjos"

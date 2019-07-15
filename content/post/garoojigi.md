@@ -1,7 +1,7 @@
 ---
 date: 2018-01-30T19:30:18
 imdb: "1433775"
-img: "https://m.media-amazon.com/images/M/MV5BNGYyNGFmMTAtMjg2My00ZDQ1LTg3ODItZjYxYmYyOGU2NDU3XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SY150_CR2,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "2/5"
 title: "Garoojigi"

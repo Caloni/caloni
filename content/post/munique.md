@@ -1,6 +1,6 @@
 ---
 imdb: "0408306"
-img: "https://m.media-amazon.com/images/M/MV5BMTcwNzYzMzMwMF5BMl5BanBnXkFtZTcwMzMzODczMQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-12-20"
 categories: [ "movies" ]
 title: "Munique"

@@ -1,6 +1,6 @@
 ---
 imdb: "0089606"
-img: "https://m.media-amazon.com/images/M/MV5BNjQzYmFjZTUtMzU3NC00ZWYyLTkzNWItMWQ4MWE4YmZlMmJhXkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2015-08-02"
 categories: [ "movies" ]
 title: "Minha Vida de Cachorro"

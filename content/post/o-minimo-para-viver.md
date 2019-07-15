@@ -1,6 +1,6 @@
 ---
 imdb: "5541240"
-img: "https://m.media-amazon.com/images/M/MV5BMTU1MTQ0NDAyNV5BMl5BanBnXkFtZTgwNjQ4MjE4MjI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-08-06T18:30:44
 categories: [ "movies" ]
 title: "O Mínimo Para Viver"

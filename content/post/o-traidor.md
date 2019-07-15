@@ -1,6 +1,6 @@
 ---
 imdb: "4844288"
-img: "https://m.media-amazon.com/images/M/MV5BNWY5OWUxNGItMDU5Mi00MjZjLWFlZTctOTU4ODY4YzljYzc0XkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2016-09-04"
 categories: [ "movies" ]
 title: "O Traidor"

@@ -1,6 +1,6 @@
 ---
 imdb: "2215537"
-img: "https://m.media-amazon.com/images/M/MV5BMDhlOTliOTEtYTE4My00MDc4LTg1YTgtNTkwMDI0MzJmOWRkXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-05-14"
 categories: [ "movies" ]
 title: "Somos Tão Jovens"

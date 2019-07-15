@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "3612984"
-img: "https://m.media-amazon.com/images/M/MV5BMTA0NjAxNzU2NDBeQTJeQWpwZ15BbWU4MDI2NjI0Nzcx._V1_SY150_CR6,0,101,150_.jpg"
+
 date: "2016-09-30"
 categories: [ "movies" ]
 title: "Caprice: Amor à Francesa"

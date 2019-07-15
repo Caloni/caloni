@@ -1,6 +1,6 @@
 ---
 imdb: "1229822"
-img: "https://m.media-amazon.com/images/M/MV5BNjU0Mjc0NzU3NF5BMl5BanBnXkFtZTcwMTU4OTkwNA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-01-15"
 categories: [ "movies" ]
 title: "Jane Eyre"

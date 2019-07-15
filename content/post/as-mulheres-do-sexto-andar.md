@@ -1,6 +1,6 @@
 ---
 imdb: "1805297"
-img: "https://m.media-amazon.com/images/M/MV5BMTY1MzY2OTQzNF5BMl5BanBnXkFtZTcwNzM3NTIyNQ@@._V1_SY150_CR5,0,101,150_.jpg"
+
 date: "2012-03-01"
 categories: [ "movies" ]
 title: "As Mulheres do Sexto Andar"

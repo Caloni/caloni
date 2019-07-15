@@ -1,6 +1,6 @@
 ---
 imdb: "2395695"
-img: "https://m.media-amazon.com/images/M/MV5BZTk5OTQyZjYtMDk3Yy00YjhmLWE2MTYtZmY4NTg1YWUzZTQ0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-09-25"
 review: [ "2015" ]
 categories: [ "series" ]

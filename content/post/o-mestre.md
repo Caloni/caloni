@@ -1,6 +1,6 @@
 ---
 imdb: "1560747"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ2NjQ5MzMwMF5BMl5BanBnXkFtZTcwMjczNTAzOA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-02-20"
 categories: [ "movies" ]
 title: "O Mestre"

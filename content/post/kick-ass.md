@@ -1,6 +1,6 @@
 ---
 imdb: "1250777"
-img: "https://m.media-amazon.com/images/M/MV5BMTMzNzEzMDYxM15BMl5BanBnXkFtZTcwMTc0NTMxMw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-06-18"
 categories: [ "movies" ]
 title: "Kick-Ass Quebrando Tudo"

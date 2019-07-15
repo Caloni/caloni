@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "5186236"
-img: "https://m.media-amazon.com/images/M/MV5BYTJlN2ZhNjMtZjEyNC00YTZlLTg5ODctNjU5ZDlmMGQ3MWExXkEyXkFqcGdeQXVyNjkwNjU5OTk@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: 2017-08-10T21:31:36
 categories: [ "movies" ]
 title: "Afterimage"

@@ -1,6 +1,6 @@
 ---
 imdb: "0961097"
-img: "https://m.media-amazon.com/images/M/MV5BMTgxNTg3MTE1NF5BMl5BanBnXkFtZTcwODI4NzgzNw@@._V1_SY150_CR6,0,101,150_.jpg"
+
 date: "2014-04-05"
 categories: [ "movies" ]
 title: "Um Monstro em Paris"

@@ -1,6 +1,6 @@
 ---
 imdb: "2334873"
-img: "https://m.media-amazon.com/images/M/MV5BMTc0ODk5MzEyMV5BMl5BanBnXkFtZTcwMzI0MDY1OQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-01-07"
 categories: [ "movies" ]
 title: "Blue Jasmine"

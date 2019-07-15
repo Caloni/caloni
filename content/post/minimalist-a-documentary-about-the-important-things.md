@@ -1,6 +1,6 @@
 ---
 imdb: "3810760"
-img: "https://m.media-amazon.com/images/M/MV5BMTkwNzU1OTEzNV5BMl5BanBnXkFtZTgwODY5NzA3NTE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2017-04-18"
 categories: [ "movies" ]
 title: "Minimalism: A Documentary About the Important Things"

@@ -1,6 +1,6 @@
 ---
 imdb: "1496005"
-img: "https://m.media-amazon.com/images/M/MV5BMTUxNjEwMzc3M15BMl5BanBnXkFtZTcwMDQwMDM2NQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-07-01"
 categories: [ "movies" ]
 title: "A Árvore"

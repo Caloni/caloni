@@ -1,6 +1,6 @@
 ---
 imdb: "1463167"
-img: "https://m.media-amazon.com/images/M/MV5BZjU3ZTA4NTAtZDRhNS00Zjc5LTlmYTUtNjJkMjkzYjUxY2U0XkEyXkFqcGdeQXVyMjM2ODIzMjM@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2011-09-07"
 categories: [ "movies" ]
 title: "A Viagem de Lucia"

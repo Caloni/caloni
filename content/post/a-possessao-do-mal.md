@@ -1,6 +1,6 @@
 ---
 imdb: "2282016"
-img: "https://m.media-amazon.com/images/M/MV5BNTUzMzUxNzU4OF5BMl5BanBnXkFtZTgwNzUyMTcxMjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-10-01"
 categories: [ "movies" ]
 title: "A Possessão do Mal"

@@ -1,6 +1,6 @@
 ---
 imdb: "2576852"
-img: "https://m.media-amazon.com/images/M/MV5BMTcwODI0MzEwOF5BMl5BanBnXkFtZTgwNjkyNTEwMTE@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2015-07-26"
 categories: [ "movies" ]
 title: "O Conto da Princesa Kaguya"

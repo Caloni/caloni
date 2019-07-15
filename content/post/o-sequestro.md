@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "1458169"
-img: "https://m.media-amazon.com/images/M/MV5BOTZjNzFmN2YtZjExNS00ZTM0LTk4ZTEtMWJmNjA1ZTQyYWNiXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: 2017-08-28T17:55:37
 categories: [ "movies" ]
 title: "O Sequestro"

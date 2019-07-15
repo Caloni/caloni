@@ -1,6 +1,6 @@
 ---
 imdb: "1727776"
-img: "https://m.media-amazon.com/images/M/MV5BMTY4NjczNjE4OV5BMl5BanBnXkFtZTgwODk0MjQ5NjE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-12-09"
 categories: [ "movies" ]
 title: "Como Sobreviver a Um Ataque Zumbi"

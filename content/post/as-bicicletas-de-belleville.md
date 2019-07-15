@@ -1,6 +1,6 @@
 ---
 imdb: "0286244"
-img: "https://m.media-amazon.com/images/M/MV5BMjAzMzUxNzc5M15BMl5BanBnXkFtZTgwODc2NDE2MDE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-07-23"
 categories: [ "movies" ]
 title: "As Bicicletas de Belleville"

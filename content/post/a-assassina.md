@@ -1,6 +1,6 @@
 ---
 imdb: "3508840"
-img: "https://m.media-amazon.com/images/M/MV5BNTczMTk3MjMyOV5BMl5BanBnXkFtZTgwMjA2Mjk4NjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-01-05"
 categories: [ "movies" ]
 title: "A Assassina"

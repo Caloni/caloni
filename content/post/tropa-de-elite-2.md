@@ -1,6 +1,6 @@
 ---
 imdb: "1555149"
-img: "https://m.media-amazon.com/images/M/MV5BMjEzMzMxOTUyNV5BMl5BanBnXkFtZTcwNjI3MDc5Ng@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-10-08"
 categories: [ "movies" ]
 title: "Tropa de Elite 2 O Inimigo Agora É Outro"

@@ -1,6 +1,6 @@
 ---
 imdb: "2132324"
-img: "https://m.media-amazon.com/images/M/MV5BMTM5MjQzMDkyM15BMl5BanBnXkFtZTcwMjczMjk2Nw@@._V1_SY150_CR3,0,101,150_.jpg"
+
 date: "2013-02-06"
 categories: [ "movies" ]
 title: "Elefante Branco"

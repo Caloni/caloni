@@ -1,6 +1,6 @@
 ---
 imdb: "1730133"
-img: "https://m.media-amazon.com/images/M/MV5BMTg0NDE5MDIzNl5BMl5BanBnXkFtZTcwMjQwODYzNw@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-05-10"
 categories: [ "movies" ]
 title: "Qualquer Gato Vira-Lata"

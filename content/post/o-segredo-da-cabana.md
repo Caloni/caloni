@@ -1,6 +1,6 @@
 ---
 imdb: "1259521"
-img: "https://m.media-amazon.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-11-28"
 categories: [ "movies" ]
 title: "O Segredo da Cabana"

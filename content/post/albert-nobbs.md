@@ -1,6 +1,6 @@
 ---
 imdb: "1602098"
-img: "https://m.media-amazon.com/images/M/MV5BMTM1MjU1NTYzMV5BMl5BanBnXkFtZTcwODk2NzAwNw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-03-27"
 categories: [ "movies" ]
 title: "Albert Nobbs"

@@ -3,7 +3,7 @@ date: 2018-11-17T18:34:54-02:00
 title: "Super Drags"
 desc: "Idem. Criado por Paulo Lescaut, Anderson Mahanski, Fernando Mendonça. Com Suzy Brasil, Guilherme Briggs, Sérgio Cantú."
 imdb: "8912244"
-img: "https://m.media-amazon.com/images/M/MV5BMjQ1Nzg1NDI0MF5BMl5BanBnXkFtZTgwMzQ4Nzk1NjM@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "series" ]
 stars: "3/5"
 ---

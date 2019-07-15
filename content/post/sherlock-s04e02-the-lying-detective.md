@@ -1,6 +1,6 @@
 ---
 imdb: "3845888"
-img: "https://m.media-amazon.com/images/M/MV5BODA2ZTg1NjgtMDJkYi00YWQxLTgzNGQtOTI3ZmY3MjIwYjNkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjE0OTE2MDY@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2017-04-16"
 categories: [ "series" ]
 title: "Sherlock - Quarta Temporada, Episódio 2: The Lying Detective"

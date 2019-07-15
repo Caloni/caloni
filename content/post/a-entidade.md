@@ -1,6 +1,6 @@
 ---
 imdb: "1922777"
-img: "https://m.media-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-01-20"
 categories: [ "movies" ]
 title: "A Entidade"

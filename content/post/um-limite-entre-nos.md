@@ -1,6 +1,6 @@
 ---
 imdb: "2671706"
-img: "https://m.media-amazon.com/images/M/MV5BOTg0Nzc1NjA0MV5BMl5BanBnXkFtZTgwNTcyNDQ0MDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2017-02-07"
 categories: [ "movies" ]
 title: "Um Limite Entre Nós"

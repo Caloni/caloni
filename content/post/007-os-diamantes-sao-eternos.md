@@ -1,6 +1,6 @@
 ---
 imdb: "0066995"
-img: "https://m.media-amazon.com/images/M/MV5BMTM0MDI2MzYzOF5BMl5BanBnXkFtZTcwNDY4NTMzNA@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-06-25"
 categories: [ "movies" ]
 title: "007 Os Diamantes São Eternos"

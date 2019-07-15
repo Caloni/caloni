@@ -1,6 +1,6 @@
 ---
 imdb: "0092005"
-img: "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-04-25"
 categories: [ "movies" ]
 title: "Conta Comigo"

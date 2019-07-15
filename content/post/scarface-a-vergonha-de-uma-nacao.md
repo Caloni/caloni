@@ -1,6 +1,6 @@
 ---
 imdb: "0023427"
-img: "https://m.media-amazon.com/images/M/MV5BYmMxZTU2ZDUtM2Y1MS00ZWFmLWJlN2UtNzI0OTJiOTYzMTk3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-12-29"
 categories: [ "movies" ]
 title: "Scarface: A Vergonha de uma Nação"

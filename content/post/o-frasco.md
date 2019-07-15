@@ -1,6 +1,6 @@
 ---
 imdb: "1278055"
-img: "https://m.media-amazon.com/images/M/MV5BNjU0ZWM5NjUtMWIyMi00NmI5LThiMDQtMjYwMjg5NWY1YzhhXkEyXkFqcGdeQXVyMzcwMzQ3MzM@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2012-10-28"
 categories: [ "movies" ]
 title: "O Frasco"

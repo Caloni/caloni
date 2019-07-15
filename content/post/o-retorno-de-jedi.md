@@ -1,6 +1,6 @@
 ---
 imdb: "0086190"
-img: "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-12-31"
 categories: [ "movies" ]
 title: "Star Wars Episódio VI O Retorno do Jedi"

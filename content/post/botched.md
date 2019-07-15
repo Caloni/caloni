@@ -3,7 +3,7 @@ date: 2018-07-04T13:52:08-03:00
 title: "Botched"
 desc: "EUA, 2014. Série com Paul Nassif, Terry J. Dubrow, Rajee Narinesingh."
 imdb: "3781836"
-img: "https://m.media-amazon.com/images/M/MV5BMjIxOTcyMTMwOF5BMl5BanBnXkFtZTgwNjk4MzAxMzE@._V1_SY150_CR38,0,101,150_.jpg"
+
 categories: [ "series" ]
 stars: "3/5"
 ---

@@ -1,6 +1,6 @@
 ---
 imdb: "0458413"
-img: "https://m.media-amazon.com/images/M/MV5BMTc0MTg0MDI2Ml5BMl5BanBnXkFtZTgwNzM4MDYwMTE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-01-11"
 categories: [ "movies" ]
 title: "Uma Longa Queda"

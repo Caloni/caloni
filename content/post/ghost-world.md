@@ -5,7 +5,7 @@ desc: "Ghost World. United States, United Kingdom, Germany, 2001. Dirigido por T
 imdb: "0162346"
 categories: [ "movies" ]
 stars: "4/5"
-img: "https://m.media-amazon.com/images/M/MV5BMjE1OTU3NDc4N15BMl5BanBnXkFtZTgwODk5Mzk1MDI@._V1_SY1000_CR0,0,1426,1000_AL_.jpg"
+
 ---
 Duas garotas se formam no colégio. Uma encara a realidade, arruma um emprego e vai morar sozinha. A outra é a de artes. É aí que o filme começa.
 

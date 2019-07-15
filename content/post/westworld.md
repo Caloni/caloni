@@ -1,6 +1,6 @@
 ---
 imdb: "0475784"
-img: "https://m.media-amazon.com/images/M/MV5BNThjM2Y3MDUtYTIyNC00ZDliLWJlMmItNWY1N2E5NjhmMGM4XkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2018-12-30
 categories: [ "series" ]
 title: "Westworld"

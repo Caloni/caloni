@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "2917388"
-img: "https://m.media-amazon.com/images/M/MV5BMTYyOTQwODc4NV5BMl5BanBnXkFtZTgwMDgwMzkxNDE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-04-30"
 categories: [ "movies" ]
 title: "Jogada de Mestre"

@@ -1,6 +1,6 @@
 ---
 imdb: "1216475"
-img: "https://m.media-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-07-20"
 categories: [ "movies" ]
 title: "Carros 2"

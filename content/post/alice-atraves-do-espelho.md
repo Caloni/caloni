@@ -1,6 +1,6 @@
 ---
 imdb: "2567026"
-img: "https://m.media-amazon.com/images/M/MV5BMTc2NjExMTIyN15BMl5BanBnXkFtZTgwMjg0OTIwODE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-05-29"
 categories: [ "movies" ]
 title: "Alice Através do Espelho"

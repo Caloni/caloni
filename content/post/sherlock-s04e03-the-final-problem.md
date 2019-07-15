@@ -1,6 +1,6 @@
 ---
 imdb: "3845892"
-img: "https://m.media-amazon.com/images/M/MV5BODJkNGNmYjUtMmJiYS00NjhkLTk0YWYtNzgyNDdkNWE2MTVkXkEyXkFqcGdeQXVyNTAzOTQ2ODU@._V1_SY150_CR62,0,101,150_.jpg"
+
 date: "2017-04-16"
 categories: [ "series" ]
 title: "Sherlock - Quarta Temporada, Episódio 3: The Final Problem"

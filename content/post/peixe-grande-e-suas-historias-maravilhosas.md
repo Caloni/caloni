@@ -1,6 +1,6 @@
 ---
 imdb: "0319061"
-img: "https://m.media-amazon.com/images/M/MV5BMTYyMzM3MzgyNV5BMl5BanBnXkFtZTcwMTI4MzUyMQ@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2013-12-30"
 categories: [ "movies" ]
 title: "Peixe Grande e Suas Histórias Maravilhosas"

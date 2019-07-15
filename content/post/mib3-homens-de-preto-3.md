@@ -1,6 +1,6 @@
 ---
 imdb: "1409024"
-img: "https://m.media-amazon.com/images/M/MV5BMTU2NTYxODcwMF5BMl5BanBnXkFtZTcwNDk1NDY0Nw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-06-04"
 categories: [ "movies" ]
 title: "MIB Homens de Preto 3"

@@ -1,6 +1,6 @@
 ---
 imdb: "1621039"
-img: "https://m.media-amazon.com/images/M/MV5BNjE0NjIwMzAwOF5BMl5BanBnXkFtZTgwOTIyMzMzMDE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-08-15"
 categories: [ "movies" ]
 title: "Free Birds"

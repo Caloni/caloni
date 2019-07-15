@@ -1,6 +1,6 @@
 ---
 imdb: "2241116"
-img: "https://m.media-amazon.com/images/M/MV5BMTkyOTIxMjk3Ml5BMl5BanBnXkFtZTgwNzgyMzQ2MzE@._V1_SY150_CR4,0,101,150_.jpg"
+
 date: "2016-01-04"
 categories: [ "movies" ]
 title: "White Rabbit"

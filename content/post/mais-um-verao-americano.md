@@ -1,6 +1,6 @@
 ---
 imdb: "4341500"
-img: "https://m.media-amazon.com/images/M/MV5BMTc5MDM1Njg2Nl5BMl5BanBnXkFtZTgwODE1MjUxNjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-09-12"
 categories: [ "series" ]
 title: "Mais um Verão Americano (piloto)"

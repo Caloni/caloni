@@ -1,6 +1,6 @@
 ---
 imdb: "5607970"
-img: "https://m.media-amazon.com/images/M/MV5BMjkxMjM5MTkzM15BMl5BanBnXkFtZTgwNDAwODIzMTI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-04-04"
 categories: [ "series" ]
 title: "Ultimate Beastmaster - Primeira Temporada"

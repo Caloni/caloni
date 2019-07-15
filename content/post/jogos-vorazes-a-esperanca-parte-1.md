@@ -1,6 +1,6 @@
 ---
 imdb: "1951265"
-img: "https://m.media-amazon.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-04-19"
 categories: [ "movies" ]
 title: "Jogos Vorazes: A Esperança - Parte 1"

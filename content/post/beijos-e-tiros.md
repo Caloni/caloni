@@ -1,6 +1,6 @@
 ---
 imdb: "0373469"
-img: "https://m.media-amazon.com/images/M/MV5BMTY5NDExMDA3M15BMl5BanBnXkFtZTYwNTc2MzA3._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-07-22"
 categories: [ "movies" ]
 title: "Beijos e Tiros"

@@ -1,6 +1,6 @@
 ---
 imdb: "0234215"
-img: "https://m.media-amazon.com/images/M/MV5BODE0MzZhZTgtYzkwYi00YmI5LThlZWYtOWRmNWE5ODk0NzMxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2016-05-06"
 categories: [ "movies" ]
 title: "Matrix Reloaded"

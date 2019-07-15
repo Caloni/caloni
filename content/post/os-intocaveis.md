@@ -1,6 +1,6 @@
 ---
 imdb: "0094226"
-img: "https://m.media-amazon.com/images/M/MV5BYTVjYWJmMWQtYWU4Ni00MWY3LWI2YmMtNTI5MDE0MWVmMmEzL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2010-11-20"
 categories: [ "movies" ]
 title: "Os Intocáveis"

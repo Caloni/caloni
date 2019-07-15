@@ -1,6 +1,6 @@
 ---
 imdb: "2101383"
-img: "https://m.media-amazon.com/images/M/MV5BMjQyOTcwODIyNF5BMl5BanBnXkFtZTgwMDE4OTI4NzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-11-26"
 categories: [ "movies" ]
 title: "Cavaleiro de Copas"

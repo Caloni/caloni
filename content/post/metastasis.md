@@ -1,6 +1,6 @@
 ---
 imdb: "3190448"
-img: "https://m.media-amazon.com/images/M/MV5BYzRkZWJhNTMtM2QxMC00MGE2LWEzNTMtMTVjMmQ3ZjUxZTFkXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_SY150_CR12,0,101,150_.jpg"
+
 date: "2015-03-03"
 categories: [ "series" ]
 title: "Metástasis (piloto)"

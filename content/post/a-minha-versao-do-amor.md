@@ -1,6 +1,6 @@
 ---
 imdb: "1423894"
-img: "https://m.media-amazon.com/images/M/MV5BMTM4MTUwNDg0OF5BMl5BanBnXkFtZTcwMjUyODYxNA@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-04-27"
 categories: [ "movies" ]
 title: "A Minha Versão do Amor"

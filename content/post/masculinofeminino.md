@@ -1,6 +1,6 @@
 ---
 imdb: "0060675"
-img: "https://m.media-amazon.com/images/M/MV5BMGI0Mjk1MWItNGNlYy00Njc5LWE3MTAtNDk1MThkYTQyMzIwXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SY150_CR5,0,101,150_.jpg"
+
 date: "2016-02-19"
 categories: [ "movies" ]
 title: "Masculino-Feminino"

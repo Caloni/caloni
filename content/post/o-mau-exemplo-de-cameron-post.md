@@ -3,7 +3,7 @@ date: 2018-10-23T21:59:57-02:00
 title: "O Mau Exemplo de Cameron Post"
 desc: "The Miseducation of Cameron Post. EUA, 2018. Escrito por Desiree Akhavan e Cecilia Frugiuele baseado no romance de Emily M. Danforth. Dirigido por Akhavan. Com Chloë Grace Moretz, Steven Hauck, Quinn Shephard. Gays, homossexualidade, drama, religião. #mostrasp"
 imdb: "6257174"
-img: "https://m.media-amazon.com/images/M/MV5BNGI5ZDlkN2EtNTY5NC00ZDdjLTkzODktNzkwOGMwODcxZTI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX101_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 ---

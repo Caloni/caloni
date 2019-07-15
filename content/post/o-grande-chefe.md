@@ -1,6 +1,6 @@
 ---
 imdb: "0469754"
-img: "https://m.media-amazon.com/images/M/MV5BMjAzNjM0NzM1MV5BMl5BanBnXkFtZTcwMDE5Mzg0MQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-09-30"
 categories: [ "movies" ]
 title: "O Grande Chefe"

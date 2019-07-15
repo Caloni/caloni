@@ -1,6 +1,6 @@
 ---
 imdb: "1564585"
-img: "https://m.media-amazon.com/images/M/MV5BMjAwNDkwOTc5M15BMl5BanBnXkFtZTcwMTE2MTMwNA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-12-03"
 categories: [ "movies" ]
 title: "Skyline A Invasão"

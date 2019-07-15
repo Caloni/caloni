@@ -1,6 +1,6 @@
 ---
 imdb: "0015324"
-img: "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-06-06"
 categories: [ "movies" ]
 title: "Sherlock Jr."

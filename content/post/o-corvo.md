@@ -1,6 +1,6 @@
 ---
 imdb: "1486192"
-img: "https://m.media-amazon.com/images/M/MV5BNTU4OGY5MjYtNTg5Zi00NGEyLTlhYTgtMTU3NzBmYmMzYWU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2012-05-24"
 categories: [ "movies" ]
 title: "O Corvo"

@@ -1,6 +1,6 @@
 ---
 imdb: "1320082"
-img: "https://m.media-amazon.com/images/M/MV5BOTMwNDc5MzYtYjYxMy00OGE5LWI3YmQtN2RmZDU2ZWNhMjFhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjM5Mjc1MDQ@._V1_SY150_CR5,0,101,150_.jpg"
+
 date: "2010-12-24"
 categories: [ "movies" ]
 title: "O concerto"

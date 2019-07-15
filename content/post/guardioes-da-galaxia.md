@@ -1,6 +1,6 @@
 ---
 imdb: "2015381"
-img: "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-12-06"
 categories: [ "movies" ]
 title: "Guardiões da Galáxia"

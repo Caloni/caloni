@@ -1,6 +1,6 @@
 ---
 imdb: "0090605"
-img: "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-12-08"
 categories: [ "movies" ]
 title: "Aliens O Resgate"

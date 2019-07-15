@@ -1,6 +1,6 @@
 ---
 imdb: "0379217"
-img: "https://m.media-amazon.com/images/M/MV5BYzQxNzMzZTEtNjc1YS00NzExLWI0ZGItMWMxZTQzNDI1MjQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-12-20"
 categories: [ "movies" ]
 title: "Sobre Café e Cigarros"

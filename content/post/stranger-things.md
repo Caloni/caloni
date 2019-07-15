@@ -1,6 +1,6 @@
 ---
 imdb: "4574334"
-img: "https://m.media-amazon.com/images/M/MV5BZGExYjQzNTQtNGNhMi00YmY1LTlhY2MtMTRjODg3MjU4YTAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-08-04"
 categories: [ "series" ]
 title: "Stranger Things (e a irrelevância da bilheteria Netflixiana)"

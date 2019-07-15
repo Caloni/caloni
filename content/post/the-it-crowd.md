@@ -3,7 +3,7 @@ date: 2018-04-16T22:53:45-03:00
 title: "The IT Crowd"
 categories: [ "series" ]
 imdb: "0487831"
-img: "https://m.media-amazon.com/images/M/MV5BMjE5MThjMzAtNWVmNC00YThkLTlmNzktMTM3Yzk4YTZhMTgwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR2,0,101,150_.jpg"
+
 stars: "4/5"
 desc: "The IT Crowd"
 ---

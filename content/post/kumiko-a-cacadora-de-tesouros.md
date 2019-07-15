@@ -1,6 +1,6 @@
 ---
 imdb: "3263614"
-img: "https://m.media-amazon.com/images/M/MV5BMTAzNzI1MTkyNzBeQTJeQWpwZ15BbWU4MDQ0NDU0MzQx._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-06-21"
 categories: [ "movies" ]
 title: "Kumiko, a Caçadora de Tesouros"

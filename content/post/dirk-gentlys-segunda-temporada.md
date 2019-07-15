@@ -1,7 +1,7 @@
 ---
 date: 2018-01-19T16:47:20
 imdb: "4047038"
-img: "https://m.media-amazon.com/images/M/MV5BMTU3MDkzNzM5NF5BMl5BanBnXkFtZTgwMzEyNTgyMDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "series" ]
 stars: "4/5"
 title: "Dirk Gently's - Segunda Temporada"

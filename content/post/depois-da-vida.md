@@ -1,6 +1,6 @@
 ---
 imdb: "0165078"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ4MTg3OTIwMF5BMl5BanBnXkFtZTcwMjg1MDIyMQ@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2012-01-15"
 categories: [ "movies" ]
 title: "Depois da Vida"

@@ -1,6 +1,6 @@
 ---
 imdb: "0017075"
-img: "https://m.media-amazon.com/images/M/MV5BMjE4OTg0ODgyNF5BMl5BanBnXkFtZTgwMDY3NTMzMjE@._V1_SY150_CR4,0,101,150_.jpg"
+
 date: "2017-01-11"
 categories: [ "movies" ]
 title: "The Lodger: A Story of the London Fog"

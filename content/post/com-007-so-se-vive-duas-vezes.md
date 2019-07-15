@@ -1,6 +1,6 @@
 ---
 imdb: "0062512"
-img: "https://m.media-amazon.com/images/M/MV5BZWU0MzNlZTUtNGIxYi00NzFiLWJkOTMtMzRlYmQxN2RlZmZjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-11-28"
 categories: [ "movies" ]
 title: "Com 007 Só Se Vive Duas Vezes"

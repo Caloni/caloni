@@ -1,6 +1,6 @@
 ---
 imdb: "4326894"
-img: "https://m.media-amazon.com/images/M/MV5BMjhiNTZhNGEtYTRhNS00NGZlLWIxNjktYzI0NDAyMTQ0NzY3XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SY150_CR4,0,101,150_.jpg"
+
 date: "2016-01-30"
 categories: [ "series" ]
 title: "F is for Family"

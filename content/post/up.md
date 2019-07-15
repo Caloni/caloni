@@ -1,6 +1,6 @@
 ---
 imdb: "1049413"
-img: "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-04-01"
 categories: [ "movies" ]
 title: "Up Altas Aventuras"

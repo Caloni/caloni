@@ -1,6 +1,6 @@
 ---
 imdb: "5562056"
-img: "https://m.media-amazon.com/images/M/MV5BMjA3MTAyNzUyNF5BMl5BanBnXkFtZTgwNDk4NzgwMDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2016-10-23"
 categories: [ "series" ]
 title: "Easy"

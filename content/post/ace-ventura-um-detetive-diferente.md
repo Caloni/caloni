@@ -1,6 +1,6 @@
 ---
 imdb: "0109040"
-img: "https://m.media-amazon.com/images/M/MV5BYmVhNmFmOGYtZjgwNi00ZGQ0LThiMmQtOGZjMDUzNzJhMGIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-05-29"
 categories: [ "movies" ]
 title: "Ace Ventura - Um Detetive Diferente"

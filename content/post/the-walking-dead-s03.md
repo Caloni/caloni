@@ -1,6 +1,6 @@
 ---
 imdb: "1520211"
-img: "https://m.media-amazon.com/images/M/MV5BNDM2OTA1NzIzMV5BMl5BanBnXkFtZTgwOTkxMTk5NjM@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-04-03"
 categories: [ "series" ]
 title: "The Walking Dead - Terceira Temporada"

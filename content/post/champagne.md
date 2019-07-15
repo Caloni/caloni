@@ -1,6 +1,6 @@
 ---
 imdb: "0018756"
-img: "https://m.media-amazon.com/images/M/MV5BNjNkZWI0M2QtMWViYy00MDJmLWJhZjktYzE2MTMyNDQwZjA1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY150_CR6,0,101,150_.jpg"
+
 date: "2017-01-18"
 categories: [ "movies" ]
 title: "Champagne"

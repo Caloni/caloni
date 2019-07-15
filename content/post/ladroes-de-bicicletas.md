@@ -1,6 +1,6 @@
 ---
 imdb: "0040522"
-img: "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2015-06-18"
 categories: [ "movies" ]
 title: "Ladrões de Bicicletas"

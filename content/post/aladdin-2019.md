@@ -3,7 +3,7 @@ date: 2019-05-22T13:00:00-03:00
 title: "Aladdin (2019)"
 desc: "Aladdin (EUA, 2019), escrito por John August e Guy Ritchie, dirigido por Ritchie, com Will Smith, Mena Massoud, Naomi Scott, Marwan Kenzari, Navid Negahban, Nasim Pedrad."
 imdb: "6139732"
-img: "https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"

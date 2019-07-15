@@ -1,6 +1,6 @@
 ---
 imdb: "0780571"
-img: "https://m.media-amazon.com/images/M/MV5BMTQyNTk5MTMxN15BMl5BanBnXkFtZTcwNTc0ODI1NA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-04-27"
 categories: [ "movies" ]
 title: "Instinto Secreto"

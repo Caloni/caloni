@@ -1,6 +1,6 @@
 ---
 imdb: "3799694"
-img: "https://m.media-amazon.com/images/M/MV5BMjcwNDA5MDYyNl5BMl5BanBnXkFtZTgwNjg0NDkzNzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-07-28"
 categories: [ "movies" ]
 title: "Dois Caras Legais"

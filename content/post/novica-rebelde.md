@@ -1,6 +1,6 @@
 ---
 imdb: "0059742"
-img: "https://m.media-amazon.com/images/M/MV5BODIxNjhkYjEtYzUyMi00YTNjLWE1YjktNjAyY2I2MWNkNmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2014-11-15"
 categories: [ "movies" ]
 title: "A Noviça Rebelde"

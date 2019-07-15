@@ -1,6 +1,6 @@
 ---
 imdb: "1266029"
-img: "https://m.media-amazon.com/images/M/MV5BMTk0ODYwNzc5OF5BMl5BanBnXkFtZTcwNDI2MDYzMw@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2010-12-03"
 categories: [ "movies" ]
 title: "O Garoto de Liverpool"

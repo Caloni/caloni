@@ -1,6 +1,6 @@
 ---
 imdb: "1277953"
-img: "https://m.media-amazon.com/images/M/MV5BMTM2MTIzNzk2MF5BMl5BanBnXkFtZTcwMDcwMzQxNw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-06-13"
 categories: [ "movies" ]
 title: "Madagascar 3 Os Procurados"

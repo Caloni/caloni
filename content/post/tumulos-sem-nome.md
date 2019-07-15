@@ -3,7 +3,7 @@ date: 2018-10-26T00:19:07-02:00
 title: "Túmulos Sem Nome"
 desc: "Les tombeaux sans noms (aka Graves Without a Name) (Cambódia, França, 2018), escrito por Rithy Panh, Agnès Sénémaud, dirigido por Panh. Documentáro, guerra, comunismo, política, atrocidades, fome. #mostrasp"
 imdb: "8790662"
-img: "https://m.media-amazon.com/images/M/MV5BODc1MzJlZDEtMTcxYS00YjNmLTkwZjMtNzFkZmVmNjBhZGRjXkEyXkFqcGdeQXVyNTM2NTg3Nzg@._V1_SY150_CR2,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"

@@ -1,6 +1,6 @@
 ---
 imdb: "1650062"
-img: "https://m.media-amazon.com/images/M/MV5BMjIzNjEyMzcwOF5BMl5BanBnXkFtZTcwMTkyMjE0NQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-08-15"
 categories: [ "movies" ]
 title: "Super 8"

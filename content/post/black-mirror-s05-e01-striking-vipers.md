@@ -5,7 +5,7 @@ desc: "Black Mirror S05 E01 Striking Vipers. (São Paulo, Brasil, 2019). Dirigid
 imdb: "8503298"
 categories: [ "series" ]
 stars: "3/5"
-img: "https://m.media-amazon.com/images/M/MV5BNDU3OWYyZTQtNzFlMC00YjMxLWI4MmEtOGExMDRlOGQxMDZmXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,1333,1000_AL_.jpg"
+
 ---
 Black Mirror S05 abre com uma história de broderagem filmada em São Paulo, Brazil, lugar do universo onde mais tem broderagem. Pra quem desconhece o termo, é quando você é viado, mas só com seu abiguinho.
 

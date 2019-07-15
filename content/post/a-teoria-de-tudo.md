@@ -1,7 +1,7 @@
 ---
 date: "2018-01-11"
 imdb: "2980516"
-img: "https://m.media-amazon.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1_SY150_CR0,0,101,150_.jpg"
+
 stars: "3/5"
 categories: [ "movies" ]
 title: "A Teoria de Tudo"

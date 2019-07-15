@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "1663655"
-img: "https://m.media-amazon.com/images/M/MV5BMjYyOTM2MjcyOF5BMl5BanBnXkFtZTgwMzAwMTA1NzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-03-31"
 categories: [ "movies" ]
 title: "Martyrs"

@@ -1,6 +1,6 @@
 ---
 imdb: "0088286"
-img: "https://m.media-amazon.com/images/M/MV5BMmNhMTZlMmItMDRkYy00YjBlLThiZTEtZDQ1ZjNmYWM4NWVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-12-04"
 categories: [ "movies" ]
 title: "Top Secret! Super Confidencial"

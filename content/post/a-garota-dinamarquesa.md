@@ -1,6 +1,6 @@
 ---
 imdb: "0810819"
-img: "https://m.media-amazon.com/images/M/MV5BMjA0NjA4NjE2Nl5BMl5BanBnXkFtZTgwNzIxNTY2NjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-02-12"
 categories: [ "movies" ]
 title: "A Garota Dinamarquesa"

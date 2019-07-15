@@ -1,6 +1,6 @@
 ---
 imdb: "1675434"
-img: "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2016-07-28
 review: [ "2015", "2018" ]
 categories: [ "movies" ]

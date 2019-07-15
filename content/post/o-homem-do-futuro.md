@@ -1,6 +1,6 @@
 ---
 imdb: "2027178"
-img: "https://m.media-amazon.com/images/M/MV5BNzFmZDc3ODQtMDBkNy00OTY2LTlhODItN2NhYzI3ZDIzOWY3XkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-09-11"
 categories: [ "movies" ]
 title: "O Homem do Futuro"

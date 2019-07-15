@@ -1,6 +1,6 @@
 ---
 imdb: "0054331"
-img: "https://m.media-amazon.com/images/M/MV5BMjc4MTUxN2UtMmU1NC00MjQyLTk3YTYtZTQ0YzEzZDc0Njc0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2010-07-20"
 categories: [ "movies" ]
 title: "Spartacus"

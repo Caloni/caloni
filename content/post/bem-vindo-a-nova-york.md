@@ -1,6 +1,6 @@
 ---
 imdb: "2758890"
-img: "https://m.media-amazon.com/images/M/MV5BMjA3Mzc0NjcxOF5BMl5BanBnXkFtZTgwMzIzMDQ5MTE@._V1_SY150_CR4,0,101,150_.jpg"
+
 date: "2014-09-11"
 categories: [ "movies" ]
 title: "Bem-Vindo a Nova York"

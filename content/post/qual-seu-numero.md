@@ -1,6 +1,6 @@
 ---
 imdb: "0770703"
-img: "https://m.media-amazon.com/images/M/MV5BMjIzNTc2MTgwNV5BMl5BanBnXkFtZTcwMzYzMzgxNQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-10-17"
 categories: [ "movies" ]
 title: "Qual Seu Número?"

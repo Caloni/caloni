@@ -1,6 +1,6 @@
 ---
 imdb: "3322314"
-img: "https://m.media-amazon.com/images/M/MV5BMjAxOTM3NjEwMV5BMl5BanBnXkFtZTgwNTkyOTY4NTM@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-10-17"
 categories: [ "series" ]
 title: "Luke Cage"

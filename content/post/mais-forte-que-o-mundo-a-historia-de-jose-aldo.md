@@ -1,6 +1,6 @@
 ---
 imdb: "3918584"
-img: "https://m.media-amazon.com/images/M/MV5BYWE2NGYwYzctNmQ5MS00NDU1LThmOTgtOTgyZjgwN2I2MDNhXkEyXkFqcGdeQXVyOTU3ODk4MQ@@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2016-07-14"
 categories: [ "movies" ]
 title: "Mais Forte que o Mundo: A História de José Aldo"

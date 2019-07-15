@@ -1,6 +1,6 @@
 ---
 imdb: "0120903"
-img: "https://m.media-amazon.com/images/M/MV5BZmIyMDk5NGYtYjQ5NS00ZWQxLTg2YzQtZDk1ZmM4ZDBlN2E3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-07-16"
 categories: [ "movies" ]
 title: "X-Men: O Filme"

@@ -1,6 +1,6 @@
 ---
 imdb: "0093748"
-img: "https://m.media-amazon.com/images/M/MV5BM2I1ZWNkYjEtYWY3ZS00MmMwLWI5OTEtNWNkZjNiYjIwNzY0XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-11-16"
 categories: [ "movies" ]
 title: "Antes Só do que Mal Acompanhado"

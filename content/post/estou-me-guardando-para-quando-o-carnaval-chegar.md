@@ -3,7 +3,7 @@ date: 2019-07-09T23:46:45-03:00
 title: "Estou Me Guardando Para Quando O Carnaval Chegar"
 imdb: "10240438"
 desc: "Waiting for the Carnival. Brazil, 2019. Dirigido por Marcelo Gomes, escrito por Marcelo Gomes. Com ."
-img: "https://m.media-amazon.com/images/M/MV5BNjgxYjU0YzAtYmU4Mi00NTQ3LTljYjQtMWUyZmNkY2YyYTdkXkEyXkFqcGdeQXVyMTQ5Mzc5MDU@._V1_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"

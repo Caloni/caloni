@@ -1,7 +1,7 @@
 ---
 date: 2018-01-25T00:06:49
 imdb: "1665071"
-img: "https://m.media-amazon.com/images/M/MV5BN2Q0Y2NmNjYtYzVkNi00MmEwLTk2NWQtNGI4MTFmYzgwYjJhXkEyXkFqcGdeQXVyNjExNDU1MzA@._V1_SY150_CR62,0,101,150_.jpg"
+
 categories: [ "series" ]
 stars: "4/5"
 title: "Sherlock Temporada 1, Episódio 1: A Study in Pink"

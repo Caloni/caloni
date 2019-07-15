@@ -1,6 +1,6 @@
 ---
 imdb: "4365518"
-img: "https://m.media-amazon.com/images/M/MV5BMjE1Mjc4ODI0Nl5BMl5BanBnXkFtZTgwNTE4NjI4OTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-10-21"
 categories: [ "movies" ]
 title: "Tempestade de Areia"

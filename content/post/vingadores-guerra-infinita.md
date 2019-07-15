@@ -3,7 +3,7 @@ date: 2018-05-03T22:42:56-03:00
 title: "Vingadores: Guerra Infinita"
 categories: [ "movies" ]
 imdb: "4154756"
-img: "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SY150_CR0,0,101,150_.jpg"
+
 stars: "4/5"
 desc: "Avengers: Infinity War. EUA, 2018. Escrito por uma porrada de gente, dirigido por Anthony Russo, Joe Russo. Com uma porrada de gente."
 ---

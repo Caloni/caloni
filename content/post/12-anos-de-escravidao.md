@@ -1,6 +1,6 @@
 ---
 imdb: "2024544"
-img: "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-03-19"
 categories: [ "movies" ]
 title: "12 Anos de Escravidão"

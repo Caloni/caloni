@@ -1,6 +1,6 @@
 ---
 imdb: "1046173"
-img: "https://m.media-amazon.com/images/M/MV5BMTQzMTU1NzQwNl5BMl5BanBnXkFtZTcwNDg4NzMzMw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-08-14"
 categories: [ "movies" ]
 title: "G.I. Joe A Origem de Cobra"

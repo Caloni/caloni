@@ -3,7 +3,7 @@ date: 2019-02-15T22:34:40-02:00
 title: "Clube da Luta"
 desc: "Fight Club é um filme dos EUA de 1999 que se tornou um clássico moderno sobre anti-sistema. É escrito por Jim Uhls baseado no romance de Chuck Palahniuk e tem direção de David Fincher. Em seu elenco brilham Edward Norton como 'o narrador' e Brad Pitt como o icônico Tyler Durden. Helena Bonham Carter também participa, e já parecia suja naquela época, apesar de brilhante como uma mulher que já desistiu de viver há um bom tempo."
 imdb: "0137523"
-img: "https://m.media-amazon.com/images/M/MV5BMjJmYTNkNmItYjYyZC00MGUxLWJhNWMtZDY4Nzc1MDAwMzU5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "5/5"
 ---

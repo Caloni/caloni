@@ -1,6 +1,6 @@
 ---
 imdb: "0435651"
-img: "https://m.media-amazon.com/images/M/MV5BMTY1MTIxMjg2Ml5BMl5BanBnXkFtZTgwMjUyNzgwMjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-04-01"
 categories: [ "movies" ]
 title: "O Doador de Memórias"

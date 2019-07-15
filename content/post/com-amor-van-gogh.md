@@ -1,6 +1,6 @@
 ---
 imdb: "3262342"
-img: "https://m.media-amazon.com/images/M/MV5BMTU3NjE2NjgwN15BMl5BanBnXkFtZTgwNDYzMzEwMzI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-12-09T22:42:16
 categories: [ "movies" ]
 title: "Com Amor Van Gogh"

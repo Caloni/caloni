@@ -1,6 +1,6 @@
 ---
 imdb: "0097757"
-img: "https://m.media-amazon.com/images/M/MV5BN2JlZTBhYTEtZDE3OC00NTA3LTk5NTQtNjg5M2RjODllM2M0XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-07-21"
 categories: [ "movies" ]
 title: "A Pequena Sereia"

@@ -1,6 +1,6 @@
 ---
 imdb: "1440345"
-img: "https://m.media-amazon.com/images/M/MV5BZDY2NDA0OTktYmIxYS00NzNkLWEyNzctMzFmYWVjMWQ2Y2Q5XkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_SY150_CR3,0,101,150_.jpg"
+
 date: "2013-10-20"
 categories: [ "movies" ]
 title: "Aqui é o Meu Lugar"

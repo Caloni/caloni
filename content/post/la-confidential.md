@@ -1,6 +1,6 @@
 ---
 imdb: "0119488"
-img: "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-11-09"
 categories: [ "movies" ]
 title: "L.A. Confidential"

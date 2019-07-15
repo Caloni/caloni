@@ -5,7 +5,7 @@ desc: "Black Mirror S05 E02 Smithereens. Reino Unido, 2019. Dirigido por James H
 imdb: "8758202"
 categories: [ "series" ]
 stars: "4/5"
-img: "https://m.media-amazon.com/images/M/MV5BMTM3MzhmMmYtOTMzMi00MWY3LTkwMjUtN2UyODE5NWU3OGI2XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_SX1500_AL_.jpg"
+
 ---
 Eu sei, eu também gostava da versão futurista do Black Mirror, e acredito que eles continuarão a produzir episódios sobre o daqui a pouco tecnológico que nós tanto anseiamos como tememos. Porém, de vez em quando é de muito bom tom lembrar que coisas horríveis podem acontecer com a tecnologia que já temos hoje, nos alertando sobre o que preferimos ignorar: não são robôs dominando o mundo o grande medo de nossa evolução, mas humanos se comportando como robôs.
 

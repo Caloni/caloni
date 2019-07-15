@@ -1,6 +1,6 @@
 ---
 imdb: "0879870"
-img: "https://m.media-amazon.com/images/M/MV5BMTY5NDkyNzkyM15BMl5BanBnXkFtZTcwNDQyNDk0Mw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-10-01"
 categories: [ "movies" ]
 title: "Comer Rezar Amar"

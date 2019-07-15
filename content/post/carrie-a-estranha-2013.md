@@ -1,6 +1,6 @@
 ---
 imdb: "1939659"
-img: "https://m.media-amazon.com/images/M/MV5BODg2MDU2MjYxNl5BMl5BanBnXkFtZTcwMDQ5MzU0OQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-09-26"
 categories: [ "movies" ]
 title: "Carrie, a Estranha"

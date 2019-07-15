@@ -1,6 +1,6 @@
 ---
 imdb: "3072482"
-img: "https://m.media-amazon.com/images/M/MV5BNjIzNTcwMDc3Nl5BMl5BanBnXkFtZTgwNzU5NTY5NzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-08-16"
 categories: [ "movies" ]
 title: "Hardcore: Missão Extrema"

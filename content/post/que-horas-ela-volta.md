@@ -1,6 +1,6 @@
 ---
 imdb: "3742378"
-img: "https://m.media-amazon.com/images/M/MV5BMzU0MzE5Mjk3OF5BMl5BanBnXkFtZTgwMjM3NjQzNjE@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2015-09-15"
 categories: [ "movies" ]
 title: "Que Horas Ela Volta?"

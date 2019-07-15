@@ -1,6 +1,6 @@
 ---
 imdb: "2006109"
-img: "https://m.media-amazon.com/images/M/MV5BNTcwM2UyNDAtZDhkZC00ZGMzLWI4NWEtNDFjYTYyNWVjNzE4XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-10-16"
 categories: [ "movies" ]
 title: "Família Vende Tudo"

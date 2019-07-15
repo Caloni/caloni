@@ -1,6 +1,6 @@
 ---
 imdb: "1954379"
-img: "https://m.media-amazon.com/images/M/MV5BMjI1NjQ5OTY2NV5BMl5BanBnXkFtZTgwOTA5NTA2MDE@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2011-10-29"
 categories: [ "movies" ]
 title: "Kids of Töday"

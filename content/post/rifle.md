@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "3476694"
-img: "https://m.media-amazon.com/images/M/MV5BZWE5ZDQ3NDgtN2E1OC00MmQxLWE5ZjgtNjJmZWRkMzEyNzNkL2ltYWdlXkEyXkFqcGdeQXVyMzYzNDAwNzI@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: 2017-07-26T16:56:50
 categories: [ "movies" ]
 title: "Rifle"

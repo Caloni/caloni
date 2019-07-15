@@ -1,6 +1,6 @@
 ---
 imdb: "0056172"
-img: "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2016-01-18"
 categories: [ "movies" ]
 title: "Lawrence da Arábia"

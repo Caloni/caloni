@@ -1,6 +1,6 @@
 ---
 imdb: "0085407"
-img: "https://m.media-amazon.com/images/M/MV5BMDk2ZGVkY2UtZGE0MS00NTY1LThiZjYtYjQxMTAwMjM5M2VlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-03-01"
 categories: [ "movies" ]
 title: "A Hora da Zona Morta"

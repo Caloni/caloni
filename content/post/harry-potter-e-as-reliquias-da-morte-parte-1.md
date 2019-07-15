@@ -1,6 +1,6 @@
 ---
 imdb: "0926084"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-11-19"
 categories: [ "movies" ]
 title: "Harry Potter e as Relíquias da Morte Parte 1"

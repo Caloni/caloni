@@ -1,6 +1,6 @@
 ---
 imdb: "1865505"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ2MDMwNjEwNV5BMl5BanBnXkFtZTgwOTkxMzI0MzE@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2015-04-02"
 categories: [ "movies" ]
 title: "Song of the Sea"

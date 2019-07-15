@@ -1,6 +1,6 @@
 ---
 imdb: "0134402"
-img: "https://m.media-amazon.com/images/M/MV5BNTBkOTA5ODYtOWUxMy00MWMxLWJkYWItMTY0NGEzNjIzMzFhXkEyXkFqcGdeQXVyNDc2MTA2NDg@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2012-09-20"
 categories: [ "movies" ]
 title: "Cabra Marcado Para Morrer"

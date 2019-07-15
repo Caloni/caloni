@@ -1,6 +1,6 @@
 ---
 imdb: "4016454"
-img: "https://m.media-amazon.com/images/M/MV5BMjE0MzgxNjYzOV5BMl5BanBnXkFtZTgwMzk3NDUyNTM@._V1_SY150_CR3,0,101,150_.jpg"
+
 date: "2016-10-22"
 categories: [ "series" ]
 title: "Supergirl"

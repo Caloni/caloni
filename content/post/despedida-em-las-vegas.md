@@ -1,6 +1,6 @@
 ---
 imdb: "0113627"
-img: "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-10-22"
 categories: [ "movies" ]
 title: "Despedida em Las Vegas"

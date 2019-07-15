@@ -1,6 +1,6 @@
 ---
 imdb: "0112641"
-img: "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2016-02-10"
 categories: [ "movies" ]
 title: "Cassino"

@@ -1,6 +1,6 @@
 ---
 imdb: "1133985"
-img: "https://m.media-amazon.com/images/M/MV5BMTMyMTg3OTM5Ml5BMl5BanBnXkFtZTcwNzczMjEyNQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-08-29"
 categories: [ "movies" ]
 title: "Lanterna Verde"

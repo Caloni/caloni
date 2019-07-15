@@ -1,6 +1,6 @@
 ---
 imdb: "2250912"
-img: "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2017-07-09"
 categories: [ "movies" ]
 title: "Homem-Aranha: De Volta ao Lar"

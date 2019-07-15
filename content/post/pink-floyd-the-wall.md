@@ -1,6 +1,6 @@
 ---
 imdb: "0084503"
-img: "https://m.media-amazon.com/images/M/MV5BZDhlZTYxOTYtYTk3Ny00ZDljLTk3ZmItZTcxZWU5YTIyYmFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2010-11-06"
 categories: [ "movies" ]
 title: "Pink Floyd The Wall"

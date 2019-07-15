@@ -1,6 +1,6 @@
 ---
 imdb: "0947798"
-img: "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-02-23"
 categories: [ "movies" ]
 title: "Cisne Negro"

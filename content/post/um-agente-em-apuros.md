@@ -1,6 +1,6 @@
 ---
 imdb: "0283534"
-img: "https://m.media-amazon.com/images/M/MV5BNGY3NWExYTctNTdlYS00MGU4LWE3OTAtMjA5YjZlYmNmM2E5XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-07-14"
 categories: [ "movies" ]
 title: "Um Agente em Apuros"

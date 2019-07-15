@@ -1,6 +1,6 @@
 ---
 imdb: "1392214"
-img: "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-10-25"
 categories: [ "movies" ]
 title: "Os Suspeitos"

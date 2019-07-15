@@ -1,6 +1,6 @@
 ---
 imdb: "0064116"
-img: "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-10-31"
 categories: [ "movies" ]
 title: "Era Uma Vez no Oeste"

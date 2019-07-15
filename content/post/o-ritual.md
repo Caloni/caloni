@@ -1,6 +1,6 @@
 ---
 imdb: "1161864"
-img: "https://m.media-amazon.com/images/M/MV5BMTcxNTAxMTMzNF5BMl5BanBnXkFtZTcwMjQ1MDAxNA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-11-02"
 categories: [ "movies" ]
 title: "O Ritual"

@@ -1,6 +1,6 @@
 ---
 imdb: "5026038"
-img: "https://m.media-amazon.com/images/M/MV5BMjU3MTA0NzcwMV5BMl5BanBnXkFtZTgwNzA1MzYwNzE@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2016-02-06"
 categories: [ "movies" ]
 title: "Reza a Lenda"

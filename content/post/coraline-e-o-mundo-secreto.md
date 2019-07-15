@@ -1,6 +1,6 @@
 ---
 imdb: "0327597"
-img: "https://m.media-amazon.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-11-29"
 categories: [ "movies" ]
 title: "Coraline e o Mundo Secreto"

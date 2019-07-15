@@ -1,6 +1,6 @@
 ---
 imdb: "2401878"
-img: "https://m.media-amazon.com/images/M/MV5BMTkyMzI2MzQ1N15BMl5BanBnXkFtZTgwNDg0MzQxNzE@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2016-07-31"
 categories: [ "movies" ]
 title: "Anomalisa"

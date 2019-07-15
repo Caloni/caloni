@@ -1,6 +1,6 @@
 ---
 imdb: "1728179"
-img: "https://m.media-amazon.com/images/M/MV5BMTc1NDgwODE0MF5BMl5BanBnXkFtZTgwNTIwMDY0MDE@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2011-03-28"
 categories: [ "movies" ]
 title: "Atividade Paranormal Tóquio"

@@ -1,6 +1,6 @@
 ---
 imdb: "0861739"
-img: "https://m.media-amazon.com/images/M/MV5BMGJjN2M1ZGMtNjg3ZC00MTA1LWEyZDItMjIzZTRlYzgzODRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-09-25"
 categories: [ "movies" ]
 title: "Tropa de Elite"

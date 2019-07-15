@@ -1,6 +1,6 @@
 ---
 imdb: "0773262"
-img: "https://m.media-amazon.com/images/M/MV5BMTM5MjkwMTI0MV5BMl5BanBnXkFtZTcwODQwMTc0OQ@@._V1_SY150_CR4,0,101,150_.jpg"
+
 date: "2014-11-09"
 categories: [ "series" ]
 title: "Dexter - Sétima Temporada"

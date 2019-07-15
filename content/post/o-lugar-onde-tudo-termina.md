@@ -1,6 +1,6 @@
 ---
 imdb: "1817273"
-img: "https://m.media-amazon.com/images/M/MV5BMjc1OTEwNjU4N15BMl5BanBnXkFtZTcwNzUzNDIwOQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-11-22"
 categories: [ "movies" ]
 title: "O Lugar Onde Tudo Termina"

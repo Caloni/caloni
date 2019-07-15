@@ -1,6 +1,6 @@
 ---
 imdb: "1827391"
-img: "https://m.media-amazon.com/images/M/MV5BNTk3NDRmOTktM2Y2ZC00NzIxLWFkZDctMTU1N2NiMDliZTI2XkEyXkFqcGdeQXVyMjQyNzQxMTQ@._V1_SY150_CR11,0,101,150_.jpg"
+
 date: "2011-08-29"
 categories: [ "movies" ]
 title: "Diario de Uma Busca"

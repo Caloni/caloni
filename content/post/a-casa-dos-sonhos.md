@@ -1,6 +1,6 @@
 ---
 imdb: "1462041"
-img: "https://m.media-amazon.com/images/M/MV5BMTM5MzUxMDc5Ml5BMl5BanBnXkFtZTcwMTMwMjIwNg@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-11-16"
 categories: [ "movies" ]
 title: "A Casa dos Sonhos"

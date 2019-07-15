@@ -1,6 +1,6 @@
 ---
 imdb: "2630336"
-img: "https://m.media-amazon.com/images/M/MV5BMTUyOTIxNzc0NF5BMl5BanBnXkFtZTgwMDU2Mzg3NzE@._V1_SY150_CR6,0,101,150_.jpg"
+
 date: "2015-06-29"
 categories: [ "movies" ]
 title: "O Mordomo de Preto"

@@ -1,6 +1,6 @@
 ---
 imdb: "1967545"
-img: "https://m.media-amazon.com/images/M/MV5BMjMxODE0NTUxNV5BMl5BanBnXkFtZTgwNTkzNzY1MDE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-07-18"
 categories: [ "movies" ]
 title: "Refém da Paixão"

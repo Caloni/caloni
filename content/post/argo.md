@@ -1,6 +1,6 @@
 ---
 imdb: "1024648"
-img: "https://m.media-amazon.com/images/M/MV5BNzljNjY3MDYtYzc0Ni00YjU0LWIyNDUtNTE0ZDRiMGExMjZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-11-18"
 categories: [ "movies" ]
 title: "Argo"

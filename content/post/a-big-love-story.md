@@ -1,6 +1,6 @@
 ---
 imdb: "1769383"
-img: "https://m.media-amazon.com/images/M/MV5BMTk2OTM1MDkyOV5BMl5BanBnXkFtZTcwNjU3MjY3OQ@@._V1_SY150_CR8,0,101,150_.jpg"
+
 date: "2014-03-03"
 categories: [ "movies" ]
 title: "A Big Love Story"

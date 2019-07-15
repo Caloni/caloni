@@ -1,6 +1,6 @@
 ---
 imdb: "0219822"
-img: "https://m.media-amazon.com/images/M/MV5BM2FiNzM1NzgtYzJmYi00NzRjLWFmYzktMzI1M2FlMWYzYjVhXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-01-19"
 categories: [ "movies" ]
 title: "Natureza Quase Humana"

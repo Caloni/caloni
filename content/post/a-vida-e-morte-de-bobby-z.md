@@ -1,6 +1,6 @@
 ---
 imdb: "0473188"
-img: "https://m.media-amazon.com/images/M/MV5BMjMxZDJlZTgtMmRkMC00OThiLTgyYWYtYTBkZjk2OWY0M2ZkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-01-01"
 categories: [ "movies" ]
 title: "A Vida e a Morte De Bobby Z"

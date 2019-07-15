@@ -1,6 +1,6 @@
 ---
 imdb: "4047038"
-img: "https://m.media-amazon.com/images/M/MV5BMTU3MDkzNzM5NF5BMl5BanBnXkFtZTgwMzEyNTgyMDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-01-01"
 categories: [ "series" ]
 title: "Dirk Gently's Holistic Detective Agency - Primeira Temporada, Episódios 1 ao 3"

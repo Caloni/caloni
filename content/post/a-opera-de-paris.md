@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "6599064"
-img: "https://m.media-amazon.com/images/M/MV5BMDVlMGU4ZWItMDI3MS00ZWE4LWE2MWMtNWQzOGZkM2M2YWY3XkEyXkFqcGdeQXVyNTkyMjQwNw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-11-24T18:31:36
 categories: [ "movies" ]
 title: "A Ópera de Paris"

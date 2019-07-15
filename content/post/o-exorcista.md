@@ -1,7 +1,7 @@
 ---
 date: 2018-01-18T21:34:13
 imdb: "0070047"
-img: "https://m.media-amazon.com/images/M/MV5BYjhmMGMxZDYtMTkyNy00YWVmLTgyYmUtYTU3ZjcwNTBjN2I1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "5/5"
 title: "O Exorcista"

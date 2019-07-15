@@ -1,6 +1,6 @@
 ---
 imdb: "1698648"
-img: "https://m.media-amazon.com/images/M/MV5BMTEyMDgyNDYwNjReQTJeQWpwZ15BbWU3MDc1MDQwNjk@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-01-18"
 categories: [ "movies" ]
 title: "Minha Vida Dava um Filme"

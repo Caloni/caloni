@@ -1,6 +1,6 @@
 ---
 imdb: "0121955"
-img: "https://m.media-amazon.com/images/M/MV5BOGE2YWUzMDItNTg2Ny00NTUzLTlmZGYtNWMyNzVjMjQ3MThkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-10-15"
 categories: [ "series" ]
 title: "South Park - Vigésima Temporada, Episódios 1 a 4"

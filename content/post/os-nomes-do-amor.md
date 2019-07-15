@@ -1,6 +1,6 @@
 ---
 imdb: "1646974"
-img: "https://m.media-amazon.com/images/M/MV5BMjEzODY2MjgxMV5BMl5BanBnXkFtZTcwNDA5ODI1NQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-12-12"
 categories: [ "movies" ]
 title: "Os Nomes do Amor"

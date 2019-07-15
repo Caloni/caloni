@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "4427060"
-img: "https://m.media-amazon.com/images/M/MV5BMTZhMDU1MDktNmIyOS00OGZmLThmNzctYjE1MzI3ZThkNGRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2015-10-02"
 categories: [ "movies" ]
 title: "Beira-Mar"

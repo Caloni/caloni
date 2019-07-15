@@ -3,7 +3,7 @@ date: 2018-09-15T18:18:17-03:00
 title: "Limites"
 desc: "Boundaries. Canadá, EUA, 2018. Escrito e dirigido por Shana Feste. Com Vera Farmiga, Christopher Plummer, Lewis MacDougall."
 imdb: "5686062"
-img: "https://m.media-amazon.com/images/M/MV5BMDYzNWE1ZWUtMTU3Ni00ZWU2LTkxYWUtMTY5NjlkM2Q3YzMyXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 ---

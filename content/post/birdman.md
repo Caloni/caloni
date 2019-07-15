@@ -1,6 +1,6 @@
 ---
 imdb: "2562232"
-img: "https://m.media-amazon.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-03-13"
 categories: [ "movies" ]
 title: "Birdman ou (A Inesperada Virtude da Ignorância)"

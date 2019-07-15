@@ -1,6 +1,6 @@
 ---
 imdb: "1229238"
-img: "https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-01-09"
 categories: [ "movies" ]
 title: "Missão Impossível Protocolo Fantasma"

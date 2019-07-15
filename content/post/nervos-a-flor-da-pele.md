@@ -1,6 +1,6 @@
 ---
 imdb: "1634524"
-img: "https://m.media-amazon.com/images/M/MV5BMTg4MzM4NTI3MV5BMl5BanBnXkFtZTcwNDcyOTM3OA@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2011-10-24"
 categories: [ "movies" ]
 title: "Jitters"

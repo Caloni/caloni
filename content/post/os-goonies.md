@@ -1,6 +1,6 @@
 ---
 imdb: "0089218"
-img: "https://m.media-amazon.com/images/M/MV5BNGViMjJjNTUtY2IzNi00YzcyLWFjODUtMjc0NTI3YWNhNjgzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-10-13"
 categories: [ "movies" ]
 title: "Os Goonies"

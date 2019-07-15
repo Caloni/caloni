@@ -1,6 +1,6 @@
 ---
 imdb: "0104070"
-img: "https://m.media-amazon.com/images/M/MV5BNzM2YjIwMzgtZTg4Yy00NmJlLWIzOTYtYTQ0Zjc3NjIyZDcyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-11-02"
 categories: [ "movies" ]
 title: "A Morte lhe Cai Bem"

@@ -3,7 +3,7 @@ date: 2018-12-30
 title: "12 Regras para a Vida"
 categories: [ "reading" ]
 desc: "12 Rules for Life. Por Jordan B. Peterson"
-img: "https://images-na.ssl-images-amazon.com/images/I/41xrGjLlM0L._SX329_BO1,204,203,200_.jpg"
+
 ---
 12 Regras para a Vida, como o nome indica, é um livro de auto-ajuda, mas diferente do que você poderia esperar. Livros de auto-ajuda que usam o exemplo de vida do autor servem como guia apenas para... er... o autor. Já o livro do psicólogo/filósofo Jordan Peterson utiliza a sabedoria das narrativas antigas, dos usos e costumes das sociedades, aliado ao que a ciência já descobriu sobre nossa espécie para chegar a um denominador comum de quais são as regras mais valiosas para se viver uma vida significativa. Ah, sim, Peterson está menos preocupado com viver feliz do que viver com significado. "Precisamos de regras; quaisquer regras". Esse livro é a tentativa de elencar as melhores.
 
@@ -134,7 +134,7 @@ Essas são apenas minhas anotações preliminares da primeira leitura. São pess
 >
 >...
 >
-> We rebel against our own totalitarianism, as much as that of others. I cannot merely order myself to action, and neither can you. "I will stop procrastinating," I say, but I don't. "I will eat properly," I say, but I don't. "I will end my drunken misbehavior," I say, but I don't. I cannot merely make myself over in the image constructed by my intellect (particularly if that intellect is possessed by an ideology). I have a nature, and so do you, and so do we all. We must discover that nature, and contend with it, before making peace with ourselves. What is it, that we most truly are? What is it that we could most truly become, knowing who we most truly are? We must get to the very bottom of things before such questions can be truly answered.
+> We rebel against our own totalitarianism, as much as that of others. I cannot merely order myself to action, and neither can you. "I will stop procrastinating," I say, but I don't. "I will eat properly," I say, but I don't. "I will end my drunken misbehavior," I say, but I don't. I cannot merely make myself over in the image constructed by my intellect (particularly if that intellect is possessed by an ideology). I have a nature, and so do you, and so do we all. We must discover that nature, and contend with it, before making peace with ourselves. What is it, that we most truly are? What is it that we could most truly become, knowing who we most truly are? We must get to the very bottom of things before such questions can be truly answered.
 > Chaos is the deep ocean bottom to which Pinocchio voyaged to rescue his father from Monstro, whale and fire-breathing dragon. That journey into darkness and rescue is the most difficult thing a puppet must do, if he wants to be real; if he wants to extract himself from the temptations of deceit and acting and victimization and impulsive pleasure and totalitarian subjugation; if he wants to take his place as a genuine Being in the world.
 >
 > ...

@@ -1,6 +1,6 @@
 ---
 imdb: "2191671"
-img: "https://m.media-amazon.com/images/M/MV5BMDEyN2U1YTItNDY1Zi00YjljLWI5YzItNWU3YWViYjhiZTgxXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-01-11"
 categories: [ "series" ]
 title: "Elementary (piloto)"

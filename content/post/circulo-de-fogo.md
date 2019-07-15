@@ -1,6 +1,6 @@
 ---
 imdb: "1663662"
-img: "https://m.media-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-08-10"
 categories: [ "movies" ]
 title: "Círculo de Fogo"

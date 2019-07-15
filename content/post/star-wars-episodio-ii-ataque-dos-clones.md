@@ -1,6 +1,6 @@
 ---
 imdb: "0121765"
-img: "https://m.media-amazon.com/images/M/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-05-29"
 categories: [ "movies" ]
 title: "Star Wars Episódio II Ataque dos Clones"

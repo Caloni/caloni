@@ -1,6 +1,6 @@
 ---
 imdb: "1289401"
-img: "https://m.media-amazon.com/images/M/MV5BMTg3OTM4NTM4NV5BMl5BanBnXkFtZTgwOTI3NDc0OTE@._V1_SY150_SX101_.jpg"
+
 date: "2016-10-12"
 categories: [ "movies" ]
 title: "Caça-Fantasmas"

@@ -1,6 +1,6 @@
 ---
 imdb: "0199777"
-img: "https://m.media-amazon.com/images/M/MV5BMTU5ODUzNTE1MV5BMl5BanBnXkFtZTcwNjQzNjgyMQ@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2012-04-20"
 categories: [ "movies" ]
 title: "Molokh"

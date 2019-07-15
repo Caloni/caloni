@@ -1,6 +1,6 @@
 ---
 imdb: "0089853"
-img: "https://m.media-amazon.com/images/M/MV5BY2E1YWRlNzAtYzAwYy00MDg5LTlmYTUtYjdlZDI0NzFkNjNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-12-16"
 categories: [ "movies" ]
 title: "A Rosa Púrpura do Cairo"

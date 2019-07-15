@@ -1,6 +1,6 @@
 ---
 imdb: "0423294"
-img: "https://m.media-amazon.com/images/M/MV5BMjE4NDE3NzcwM15BMl5BanBnXkFtZTcwMTI0ODYzMw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-12-30"
 categories: [ "movies" ]
 title: "Tá Dando Onda"

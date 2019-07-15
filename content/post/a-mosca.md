@@ -1,6 +1,6 @@
 ---
 imdb: "0091064"
-img: "https://m.media-amazon.com/images/M/MV5BODcxMGMwOGEtMDUxMi00MzE5LTg4YTYtYjk1YjA4MzQxNTNlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: 2017-11-27T19:26:57
 categories: [ "movies" ]
 title: "A Mosca"

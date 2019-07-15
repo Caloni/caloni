@@ -1,6 +1,6 @@
 ---
 imdb: "1605777"
-img: "https://m.media-amazon.com/images/M/MV5BMTc0MDE3MDgwNV5BMl5BanBnXkFtZTcwOTg3NTA5Nw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-08-07T02:08:52
 categories: [ "movies" ]
 title: "Estranha Obsessão"

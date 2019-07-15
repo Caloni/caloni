@@ -1,6 +1,6 @@
 ---
 imdb: "0185431"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ4MTk3Mzk5NV5BMl5BanBnXkFtZTYwMTQ3NzI3._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-08-09"
 categories: [ "movies" ]
 title: "Little Nick - Um Diabo Diferente"

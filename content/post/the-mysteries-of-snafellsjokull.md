@@ -1,6 +1,6 @@
 ---
 imdb: "1508304"
-img: "https://m.media-amazon.com/images/M/MV5BYjhlZmI2ZWItZDYwMC00Mzc0LWJhNzAtMjQ0YjRkMGU2ZGM0XkEyXkFqcGdeQXVyODIxNzY2MA@@._V1_SY150_CR83,0,101,150_.jpg"
+
 date: "2012-04-02"
 categories: [ "blog" ]
 title: "Le mystère du Snæfellsjökull"

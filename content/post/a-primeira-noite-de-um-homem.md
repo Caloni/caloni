@@ -1,6 +1,6 @@
 ---
 imdb: "0061722"
-img: "https://m.media-amazon.com/images/M/MV5BNjQ4MzUzYjYtYzk1My00M2Y2LWExMDEtY2E1NTlhMmQ0NGQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2015-06-16"
 categories: [ "movies" ]
 title: "A Primeira Noite de um Homem"

@@ -1,6 +1,6 @@
 ---
 imdb: "1411697"
-img: "https://m.media-amazon.com/images/M/MV5BMTM2MTM4MzY2OV5BMl5BanBnXkFtZTcwNjQ3NzI4NA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-04-17"
 categories: [ "movies" ]
 title: "Se Beber, Não Case! Parte II"

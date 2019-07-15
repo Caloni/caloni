@@ -3,7 +3,7 @@ date: 2018-04-11T17:48:24-03:00
 title: "Jogador No. 1"
 categories: [ "movies" ]
 imdb: "1677720"
-img: "https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SY150_CR0,0,101,150_.jpg"
+
 stars: "2/5"
 desc: "Ready Player One, 2018. Dirigido por Steven Spielberg, escrito por Zak Penn baseado no romance de Ernest Cline. Com Tye Sheridan, Olivia Cooke, Ben Mendelsohn."
 ---

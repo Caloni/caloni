@@ -3,7 +3,7 @@ date: 2019-04-24T21:22:25-03:00
 title: "Bonding"
 desc: "Bonding. EUA, 2019. Com Zoe Levin, Brendan Scannell, Micah Stock."
 imdb: "7718088"
-img: "https://m.media-amazon.com/images/M/MV5BOWZkNjIyZTUtZTIyOC00NzUxLTljMzAtOWQ2ZWI3Zjg3N2QwXkEyXkFqcGdeQXVyMjAyNjk2NDU@._V1_SY150_CR6,0,101,150_.jpg"
+
 categories: [ "series" ]
 stars: "4/5"
 ---

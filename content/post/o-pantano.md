@@ -5,7 +5,7 @@ desc: "La Ciénaga. Por Lucrecia Martel. Com Mercedes Morán, Graciela Borges, M
 imdb: "0240419"
 categories: [ "movies" ]
 stars: "3/5"
-img: "https://m.media-amazon.com/images/M/MV5BYTIzMjA2MTUtY2EyYy00OGQ1LTg3ZDAtNWIzMDgyMDNlY2YzXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg"
+
 ---
 É daqueles filmes intimistas que fala sobre a família em tempos bucólicos, sem maldade, com geladeira velha e matriarca que não para de beber. O que deu de errado com essa família de classe média baixa?
 

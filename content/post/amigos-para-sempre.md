@@ -3,7 +3,7 @@ date: 2018-12-19T15:05:05-02:00
 title: "Amigos Para Sempre"
 desc: "The Upside (EUA, 2018), escrito por Jon Hartmere baseado no filme escrito por Éric Toledano e Olivier Nakache, dirigido por Neil Burger, com Kevin Hart com Dell (antigo Driss), Bryan Cranston como Phillip (antigo Philippe), Nicoke Kidman como Yvonne (antes interpretado por Anne Le Ny) e Julianna Margulies (The Good Wife) em uma ponta."
 imdb: "1987680"
-img: "https://m.media-amazon.com/images/M/MV5BNzY3NzYyNjI0N15BMl5BanBnXkFtZTgwNjYzMDc0NjM@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"

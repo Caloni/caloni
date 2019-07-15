@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "4157844"
-img: "https://m.media-amazon.com/images/M/MV5BMGQxNDU4OTItMjM2Mi00NDdlLTk1NTEtMGNkNDEyZDA3MzM0XkEyXkFqcGdeQXVyMzQ3NjU3Mjk@._V1_SY150_CR0,0,101,150_.jpg"
+
 stars: "3/5"
 title: "Torquato Neto - Todas as horas do fim"
 date: 2018-03-01T18:11:58

@@ -1,6 +1,6 @@
 ---
 imdb: "1791528"
-img: "https://m.media-amazon.com/images/M/MV5BMjI2ODQ2NzUwMl5BMl5BanBnXkFtZTgwNjU3NTE4MjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-03-27"
 categories: [ "movies" ]
 title: "Vício Inerente"

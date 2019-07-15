@@ -1,6 +1,6 @@
 ---
 imdb: "1679335"
-img: "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-11-17"
 categories: [ "movies" ]
 title: "Trolls"

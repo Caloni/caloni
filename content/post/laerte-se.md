@@ -1,6 +1,6 @@
 ---
 imdb: "6795136"
-img: "https://m.media-amazon.com/images/M/MV5BYWIxODBmNzMtNTg4Zi00MzM3LWJjNTQtMDI5ZGFlNzlhNjhlXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: 2017-09-24T22:25:35
 categories: [ "movies" ]
 title: "Laerte Se"

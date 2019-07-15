@@ -1,6 +1,6 @@
 ---
 imdb: "1817191"
-img: "https://m.media-amazon.com/images/M/MV5BYTU1ODI0MGQtNGE5OS00MjA5LTk1MTEtZDQ3YzdhOGRlMGIyXkEyXkFqcGdeQXVyMjYyNzc4MQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-08-23"
 categories: [ "movies" ]
 title: "A Vida de Outra Mulher"

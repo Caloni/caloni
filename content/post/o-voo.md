@@ -1,6 +1,6 @@
 ---
 imdb: "1907668"
-img: "https://m.media-amazon.com/images/M/MV5BMTUxMjI1OTMxNl5BMl5BanBnXkFtZTcwNjc3NTY1OA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-02-10"
 categories: [ "movies" ]
 title: "O Voo"

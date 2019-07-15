@@ -1,6 +1,6 @@
 ---
 imdb: "2415458"
-img: "https://m.media-amazon.com/images/M/MV5BMzg2NjE5OTQwNl5BMl5BanBnXkFtZTgwNjYwNDk2NTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-10-12"
 categories: [ "movies" ]
 title: "Os Irmãos Lobo"

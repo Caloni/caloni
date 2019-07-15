@@ -1,7 +1,7 @@
 ---
 date: 2018-01-26T01:12:24
 imdb: "5052448"
-img: "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 title: "Corra!"

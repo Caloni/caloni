@@ -1,6 +1,6 @@
 ---
 imdb: "2356777"
-img: "https://m.media-amazon.com/images/M/MV5BMTY0ODc2NTc0NF5BMl5BanBnXkFtZTgwMDcyNTAwNzM@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-10-29T18:28:42
 categories: [ "series" ]
 title: "True Detective: Primeiras Impressões do Piloto"

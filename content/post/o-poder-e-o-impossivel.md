@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "5503688"
-img: "https://m.media-amazon.com/images/M/MV5BMTUwMzAxNTU2NV5BMl5BanBnXkFtZTgwOTU5MzUyMzI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-12-09T01:24:13
 categories: [ "movies" ]
 title: "O Poder e o Impossível"

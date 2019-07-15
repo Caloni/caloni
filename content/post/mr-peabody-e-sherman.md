@@ -1,6 +1,6 @@
 ---
 imdb: "0864835"
-img: "https://m.media-amazon.com/images/M/MV5BMTkxMzM0NzcwN15BMl5BanBnXkFtZTgwNzk1MjMzMTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-01-01"
 categories: [ "movies" ]
 title: "Mr. Peabody e Sherman"

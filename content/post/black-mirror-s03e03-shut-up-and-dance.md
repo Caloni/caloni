@@ -1,6 +1,6 @@
 ---
 imdb: "5709230"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ3OTQ5OTIxNl5BMl5BanBnXkFtZTgwNzI2MzgzMDI@._V1_SY150_CR62,0,101,150_.jpg"
+
 date: "2016-10-28"
 categories: [ "series" ]
 title: "Black Mirror - S03E03 - Shut Up and Dance"

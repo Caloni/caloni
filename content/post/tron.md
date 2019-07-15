@@ -1,6 +1,6 @@
 ---
 imdb: "0084827"
-img: "https://m.media-amazon.com/images/M/MV5BMzZhNjYyZDYtZmE4MC00M2RlLTlhOGItZDVkYTVlZTYxOWZlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2010-12-04"
 categories: [ "movies" ]
 title: "Tron Uma Odisséia Eletrônica"

@@ -1,6 +1,6 @@
 ---
 imdb: "3553976"
-img: "https://m.media-amazon.com/images/M/MV5BMjE5OTM0OTY5NF5BMl5BanBnXkFtZTgwMDcxOTQ3ODE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-11-25T13:54:00
 categories: [ "movies" ]
 title: "Capitão Fantástico"

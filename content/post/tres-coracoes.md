@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "2822742"
-img: "https://m.media-amazon.com/images/M/MV5BMjAxOTY1MDg2N15BMl5BanBnXkFtZTgwNDQ3OTI0NDE@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2015-04-16"
 categories: [ "movies" ]
 title: "Três Corações"

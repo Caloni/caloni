@@ -1,6 +1,6 @@
 ---
 imdb: "4181052"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ2MzUwODQzMF5BMl5BanBnXkFtZTgwMTA5MDM0ODE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-05-22"
 categories: [ "movies" ]
 title: "Special Correspondents"

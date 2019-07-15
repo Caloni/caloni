@@ -2,7 +2,7 @@
 external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/os-belos-dias-de-aranjuez/"
 imdb: "4715652"
-img: "https://m.media-amazon.com/images/M/MV5BZTY3ZGE4NDQtMDdhNS00MTI2LWE4MDctZjU5OWJlNjczYWE4XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2017-03-26"
 categories: [ "movies" ]
 title: "Os Belos Dias de Aranjuez"

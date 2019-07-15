@@ -1,6 +1,6 @@
 ---
 imdb: "4302938"
-img: "https://m.media-amazon.com/images/M/MV5BMjA2Mzg2NDMzNl5BMl5BanBnXkFtZTgwMjcwODUzOTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-12-03"
 categories: [ "movies" ]
 title: "Kubo e as Cordas Mágicas"

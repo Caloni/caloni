@@ -1,6 +1,6 @@
 ---
 imdb: "0067185"
-img: "https://m.media-amazon.com/images/M/MV5BY2M5Mzg3NjctZTlkNy00MTU0LWFlYTQtY2E2Y2M4NjNiNzllXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-11-27"
 categories: [ "movies" ]
 title: "Ensina-me a Viver"

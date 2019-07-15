@@ -1,6 +1,6 @@
 ---
 imdb: "1428538"
-img: "https://m.media-amazon.com/images/M/MV5BMjA4MDQwODg2NV5BMl5BanBnXkFtZTcwNTc5ODc2OA@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-01-28"
 categories: [ "movies" ]
 title: "João e Maria Caçadores de Bruxas"

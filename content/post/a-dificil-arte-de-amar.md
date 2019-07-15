@@ -1,6 +1,6 @@
 ---
 imdb: "0091188"
-img: "https://m.media-amazon.com/images/M/MV5BY2I3ODU4MWItZDJmOS00NGFkLTkzYWMtMWI4NTFmNDI2MjNmXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-06-13"
 categories: [ "movies" ]
 title: "A Difícil Arte de Amar"

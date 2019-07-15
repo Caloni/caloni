@@ -1,6 +1,6 @@
 ---
 imdb: "0019421"
-img: "https://m.media-amazon.com/images/M/MV5BOTg2MjUyMjYyOV5BMl5BanBnXkFtZTgwNjM0NDAwMjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-01-06"
 categories: [ "movies" ]
 title: "Marinheiro de Encomenda"

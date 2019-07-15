@@ -1,6 +1,6 @@
 ---
 imdb: "0025452"
-img: "https://m.media-amazon.com/images/M/MV5BZWY2ODJhOTYtMTE1My00OTBiLTliZTgtNWIwZWIyMWNjODczXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-06-16"
 categories: [ "movies" ]
 title: "O Homem que Sabia Demais"

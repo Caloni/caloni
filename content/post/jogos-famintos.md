@@ -1,6 +1,6 @@
 ---
 imdb: "2403029"
-img: "https://m.media-amazon.com/images/M/MV5BMTgwOTk2OTY4MV5BMl5BanBnXkFtZTgwMTU5MjE0MDE@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2015-11-18"
 categories: [ "movies" ]
 title: "Jogos Famintos"

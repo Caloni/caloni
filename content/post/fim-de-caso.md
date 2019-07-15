@@ -3,7 +3,7 @@ date: 2019-06-23T17:23:39-03:00
 title: "Fim de Caso"
 imdb: "0172396"
 desc: "The End of the Affair. United Kingdom, United States, 1999. Dirigido por Neil Jordan, escrito por Graham Greene (livro), Neil Jordan. Com Ralph Fiennes, Stephen Rea, Julianne Moore."
-img: "https://m.media-amazon.com/images/M/MV5BMTQ2MTQ3NzYxNF5BMl5BanBnXkFtZTYwMDg1NzE3._V1_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 ---

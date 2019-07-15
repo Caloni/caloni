@@ -3,7 +3,7 @@ date: 2018-07-01T15:53:00-03:00
 title: "Tig Notaro: Happy to Be Here"
 desc: "Idem. EUA, 2018. Documentário dirigido e escrito pela comediante de standup Tig Notaro. Com Indigo Girls, Tig Notaro, Amy Ray."
 imdb: "8342946"
-img: "https://m.media-amazon.com/images/M/MV5BNWQxMDgzYjAtZTZkOS00MWM2LWIxNTUtZTUwYmUxMWQ0NzM1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR3,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 ---

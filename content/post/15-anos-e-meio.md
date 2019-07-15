@@ -1,6 +1,6 @@
 ---
 imdb: "1075111"
-img: "https://m.media-amazon.com/images/M/MV5BMjM5NTc4NzMyOV5BMl5BanBnXkFtZTgwOTU1NTQyMjE@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2010-07-07"
 categories: [ "movies" ]
 title: "15 Anos e Meio"

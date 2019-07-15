@@ -1,6 +1,6 @@
 ---
 imdb: "2872718"
-img: "https://m.media-amazon.com/images/M/MV5BN2U1YzdhYWMtZWUzMi00OWI1LWFkM2ItNWVjM2YxMGQ2MmNhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2015-04-30"
 categories: [ "movies" ]
 title: "O Abutre"

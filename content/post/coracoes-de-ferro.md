@@ -1,6 +1,6 @@
 ---
 imdb: "2713180"
-img: "https://m.media-amazon.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-07-14"
 categories: [ "movies" ]
 title: "Corações de Ferro"

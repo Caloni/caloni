@@ -1,6 +1,6 @@
 ---
 imdb: "1877832"
-img: "https://m.media-amazon.com/images/M/MV5BZGIzNWYzN2YtMjcwYS00YjQ3LWI2NjMtOTNiYTUyYjE2MGNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-05-26"
 categories: [ "movies" ]
 title: "X-Men Dias de um Futuro Esquecido"

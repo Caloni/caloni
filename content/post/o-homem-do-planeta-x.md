@@ -1,6 +1,6 @@
 ---
 imdb: "0043778"
-img: "https://m.media-amazon.com/images/M/MV5BMGY3YWMyNDUtZWU1ZC00NTU1LWE2MzAtNDc1Y2RiYjhiNGU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-03-04"
 categories: [ "movies" ]
 title: "O Homem do Planeta X"

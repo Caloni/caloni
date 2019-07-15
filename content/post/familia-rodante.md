@@ -3,7 +3,7 @@ date: 2019-04-29T10:44:51-03:00
 title: "Família Rodante"
 desc: "Familia rodante. Argentina, Brasil, França, Alemanha, Espanha, Reino Unido, 2004. De Pablo Trapero, com Graciana Chironi, Nicolás López, Liliana Capurro."
 imdb: "0359254"
-img: "https://m.media-amazon.com/images/M/MV5BMTA1MTI2MTU0MDZeQTJeQWpwZ15BbWU3MDIzMTkyNDE@._V1_SY150_CR2,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 ---

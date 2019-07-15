@@ -3,7 +3,7 @@ date: 2019-06-23T11:46:10-03:00
 title: "Traídos pelo Desejo"
 imdb: "0104036"
 desc: "The Crying Game. United Kingdom, Japan, United States, 1992. Dirigido por Neil Jordan, escrito por Neil Jordan. Com Forest Whitaker, Miranda Richardson, Stephen Rea, Jaye Davidson."
-img: "https://m.media-amazon.com/images/M/MV5BMTBkZWU3ZDItMGY2My00YTllLWFkZWQtZDdlOTYwZmMwZGQ2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg"
+
 categories: [ "movies" ]
 stars: "5/5"
 ---

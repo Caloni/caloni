@@ -1,6 +1,6 @@
 ---
 imdb: "0414993"
-img: "https://m.media-amazon.com/images/M/MV5BMTU5OTczMTcxMV5BMl5BanBnXkFtZTcwNDg3MTEzMw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-03-21"
 categories: [ "movies" ]
 title: "Fonte da Vida"

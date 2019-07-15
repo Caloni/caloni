@@ -1,6 +1,6 @@
 ---
 imdb: "1282140"
-img: "https://m.media-amazon.com/images/M/MV5BMjE1MzU1Mjg1OF5BMl5BanBnXkFtZTcwNDc3NDQ2Mw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-03-14"
 categories: [ "movies" ]
 title: "A Mentira"

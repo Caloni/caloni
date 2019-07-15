@@ -1,6 +1,6 @@
 ---
 imdb: "1649419"
-img: "https://m.media-amazon.com/images/M/MV5BMjA5NTA3NzQ5Nl5BMl5BanBnXkFtZTcwOTYxNjY0OA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-01-07"
 categories: [ "movies" ]
 title: "O Impossível"

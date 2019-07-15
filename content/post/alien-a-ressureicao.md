@@ -1,6 +1,6 @@
 ---
 imdb: "0118583"
-img: "https://m.media-amazon.com/images/M/MV5BNDljNGZkNmItNDlmMi00YzJhLWJiYWUtNGY4OGEwNmY0ODg4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2011-12-12"
 categories: [ "movies" ]
 title: "Aliens A Ressueição"

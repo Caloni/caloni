@@ -1,6 +1,6 @@
 ---
 imdb: "0816442"
-img: "https://m.media-amazon.com/images/M/MV5BOTE3NzkyMjAyNF5BMl5BanBnXkFtZTgwMDc5MTE0MDE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-02-01"
 categories: [ "movies" ]
 title: "A Menina que Roubava Livros"

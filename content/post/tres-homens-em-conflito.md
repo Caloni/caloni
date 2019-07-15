@@ -1,6 +1,6 @@
 ---
 imdb: "0060196"
-img: "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2010-12-20"
 categories: [ "movies" ]
 title: "Três Homens em Conflito"

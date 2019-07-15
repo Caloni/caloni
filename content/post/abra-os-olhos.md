@@ -5,7 +5,7 @@ categories: [ "movies" ]
 title: "Abra os Olhos"
 stars: "5/5"
 desc: "Abra os Olhos. Abre los ojos (Spain, 1997). Dirigido por Alejandro Amenábar. Escrito por Alejandro Amenábar, Mateo Gil. Com Eduardo Noriega, Penélope Cruz, Chete Lera, Fele Martínez, Najwa Nimri, Gérard Barray, Jorge de Juan, Miguel Palenzuela, Pedro Miguel Martínez."
-img: "https://m.media-amazon.com/images/M/MV5BYjA2MTA1MjUtYmUyNy00NGZiLTk2NTAtMDk3N2M3YmMwOTc1XkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_SY150_CR1,0,101,150_.jpg"
+
 ---
 Acabei de ver o original de Vanilla Sky, aquele com o Tom Cruise correndo como um louco. Uma produção espanhola/italiana/francesa, o filme de 1997 conta também com a participação de Penélope Cruz como Sofia, mas diferente do tom experimental em 2001 dado pelo diretor Cameron Crowe (Jerry Maguire - A Grande Virada), a direção madura de Alejandro Amenábar (Os Outros), por incrível que pareça, transforma completamente a narrativa de dois filmes que foram filmados praticamente quadro a quadro.
 

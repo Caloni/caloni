@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "5348236"
-img: "https://m.media-amazon.com/images/M/MV5BM2IwMDM4NDUtZjJlMS00YjQxLWIzNGEtMzE2OTMyMWU5ZmY0XkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-07-21T13:44:32
 categories: [ "movies" ]
 title: "O Reencontro"

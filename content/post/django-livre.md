@@ -1,6 +1,6 @@
 ---
 imdb: "1853728"
-img: "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-02-05"
 categories: [ "movies" ]
 title: "Django Livre"

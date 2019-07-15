@@ -2,7 +2,7 @@
 external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/frantz/"
 imdb: "5029608"
-img: "https://m.media-amazon.com/images/M/MV5BZmM3MDE2MmEtY2NhNS00MTQyLWFhNzMtZThiZjM1ZmNiNzM4XkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_SY150_CR6,0,101,150_.jpg"
+
 date: "2017-05-26"
 categories: [ "movies" ]
 title: "Frantz"

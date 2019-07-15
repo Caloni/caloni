@@ -1,6 +1,6 @@
 ---
 imdb: "2788710"
-img: "https://m.media-amazon.com/images/M/MV5BMTQzMTcwMzgyMV5BMl5BanBnXkFtZTgwMzAyMzQ2MzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-01-18"
 categories: [ "movies" ]
 title: "A Entrevista"

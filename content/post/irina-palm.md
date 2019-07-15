@@ -5,7 +5,7 @@ desc: "Irina Palm. Dirigido por Sam Garbarski, escrito por Philippe Blasband e M
 imdb: "0762110"
 categories: [ "movies" ]
 stars: "3/5"
-img: "https://static01.nyt.com/images/2008/03/21/arts/21palm-600.jpg"
+
 ---
 Irina Palm se passa em uma cinzenta Londres, no mundo real. A história é sobre como a geração dos nossos avós precisam arregaçar as mangas enquanto nossos millenials ficam chorando em um canto, inconformados com tamanha injustiça no mundo onde as pessoas devem se sacrificar pelo que acreditam.
 

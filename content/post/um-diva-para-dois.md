@@ -1,6 +1,6 @@
 ---
 imdb: "1535438"
-img: "https://m.media-amazon.com/images/M/MV5BMjIxODY2OTg2N15BMl5BanBnXkFtZTcwODAyODg5Nw@@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2012-08-24"
 categories: [ "movies" ]
 title: "Um Divã para Dois"

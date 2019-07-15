@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "4699388"
-img: "https://m.media-amazon.com/images/M/MV5BOGNkYjQ2NDctZmI0YS00NTk2LTlmOWUtZmIxZTBjMWJlOTYxXkEyXkFqcGdeQXVyNDA2NTMyMzE@._V1_SY150_CR5,0,101,150_.jpg"
+
 date: "2016-06-03"
 categories: [ "movies" ]
 title: "Um Amor À Altura"

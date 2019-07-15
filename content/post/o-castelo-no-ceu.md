@@ -1,6 +1,6 @@
 ---
 imdb: "0092067"
-img: "https://m.media-amazon.com/images/M/MV5BNTg0NmI1ZGQtZTUxNC00NTgxLThjMDUtZmRlYmEzM2MwOWYwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2014-12-24"
 categories: [ "movies" ]
 title: "O Castelo no Céu"

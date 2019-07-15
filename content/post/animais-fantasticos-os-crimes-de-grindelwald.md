@@ -3,7 +3,7 @@ date: 2018-12-07T21:32:00-02:00
 title: "Animais Fantásticos: Os Crimes De Grindelwald"
 desc: "Fantastic Beasts: The Crimes of Grindelwald. Reino Unido, EUA, 2018. Escrito por J.K. Rowling baseada nos personagens de... J.K. Rowling. Dirigido por um cansado David Yates. Eddie Redmayne, Katherine Waterston, Dan Fogler. Harry Potter sem Harry Potter."
 imdb: "4123430"
-img: "https://m.media-amazon.com/images/M/MV5BZjFiMGUzMTAtNDAwMC00ZjRhLTk0OTUtMmJiMzM5ZmVjODQxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "2/5"
 ---

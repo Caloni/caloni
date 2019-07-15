@@ -1,6 +1,6 @@
 ---
 imdb: "1486834"
-img: "https://m.media-amazon.com/images/M/MV5BMTcyODc4Njg4OF5BMl5BanBnXkFtZTgwNDIwNDA4MTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-02-14"
 categories: [ "movies" ]
 title: "Será Que?"

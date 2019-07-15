@@ -1,6 +1,6 @@
 ---
 imdb: "1542344"
-img: "https://m.media-amazon.com/images/M/MV5BMTc2NjMzOTE3Ml5BMl5BanBnXkFtZTcwMDE0OTc5Mw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-02-23"
 categories: [ "movies" ]
 title: "127 Horas"

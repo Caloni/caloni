@@ -1,6 +1,6 @@
 ---
 imdb: "2103281"
-img: "https://m.media-amazon.com/images/M/MV5BMTgwODk3NDc1N15BMl5BanBnXkFtZTgwNTc1NjQwMjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-01-15"
 categories: [ "movies" ]
 title: "Planeta dos Macacos: O Confronto"

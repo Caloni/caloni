@@ -1,6 +1,6 @@
 ---
 imdb: "0081573"
-img: "https://m.media-amazon.com/images/M/MV5BMWUzNDJjMDUtNGEzMi00YThlLTlkMmEtNjVlOGQwOWM3MjM3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-09-13"
 categories: [ "movies" ]
 title: "Superman II - A Aventura Continua"

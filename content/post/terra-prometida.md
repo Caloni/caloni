@@ -1,6 +1,6 @@
 ---
 imdb: "0072446"
-img: "https://m.media-amazon.com/images/M/MV5BMTQwMjc4NzQyN15BMl5BanBnXkFtZTgwMDUzMjkwMTE@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2016-10-26"
 categories: [ "movies" ]
 title: "Terra Prometida"

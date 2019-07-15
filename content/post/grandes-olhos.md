@@ -1,6 +1,6 @@
 ---
 imdb: "1126590"
-img: "https://m.media-amazon.com/images/M/MV5BMjA2ODM5MDE3N15BMl5BanBnXkFtZTgwOTIxNjc1MzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-05-02"
 categories: [ "movies" ]
 title: "Grandes Olhos"

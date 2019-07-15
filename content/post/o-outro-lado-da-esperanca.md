@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "5222918"
-img: "https://m.media-amazon.com/images/M/MV5BOGM2Njk1OWMtYWE0Yi00N2E4LTg3NjItYzJiYzljZTVjZmJlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTIxMzMzMzE@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: 2017-11-06T20:49:42
 categories: [ "movies" ]
 title: "O Outro Lado da Esperanca"

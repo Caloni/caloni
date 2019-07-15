@@ -1,6 +1,6 @@
 ---
 imdb: "1735898"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ1NDA0MTk5OV5BMl5BanBnXkFtZTcwMTM4NDMwNw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-07-20"
 categories: [ "movies" ]
 title: "Branca de Neve e o Caçador"

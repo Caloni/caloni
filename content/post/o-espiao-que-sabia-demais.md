@@ -1,6 +1,6 @@
 ---
 imdb: "1340800"
-img: "https://m.media-amazon.com/images/M/MV5BMTU2OTkwNzMyM15BMl5BanBnXkFtZTcwOTI4ODg2Ng@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-01-17"
 categories: [ "movies" ]
 title: "O Espião Que Sabia Demais"

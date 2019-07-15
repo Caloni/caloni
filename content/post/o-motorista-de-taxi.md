@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "6878038"
-img: "https://m.media-amazon.com/images/M/MV5BMTA5ZGE4ZTQtYjVjOS00MTllLTkwZWEtYzQ5NzljMWJkYWE4XkEyXkFqcGdeQXVyMTk0NTY2ODQ@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-10-20T19:21:42
 categories: [ "movies" ]
 title: "O Motorista de Táxi"

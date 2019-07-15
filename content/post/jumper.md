@@ -1,6 +1,6 @@
 ---
 imdb: "0489099"
-img: "https://m.media-amazon.com/images/M/MV5BMjEwOTkyOTI3M15BMl5BanBnXkFtZTcwNTQxMjU1MQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-04-27"
 categories: [ "movies" ]
 title: "Jumper"

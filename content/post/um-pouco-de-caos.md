@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "2639254"
-img: "https://m.media-amazon.com/images/M/MV5BMjI3Mzg5ODkwM15BMl5BanBnXkFtZTgwNjc3MDMzNTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-06-27"
 categories: [ "movies" ]
 title: "Um Pouco de Caos"

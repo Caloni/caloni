@@ -1,6 +1,6 @@
 ---
 imdb: "1615918"
-img: "https://m.media-amazon.com/images/M/MV5BMTNiMGI2YWMtNTg0ZS00NDg4LWE5ZTgtMjhiMjIzYzVlYTE3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-02-15"
 categories: [ "movies" ]
 title: "Alvin e os Esquilos 3"

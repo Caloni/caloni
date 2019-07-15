@@ -1,6 +1,6 @@
 ---
 imdb: "3917908"
-img: "https://m.media-amazon.com/images/M/MV5BNTdhOTM2MzAtYzMyYS00NTkxLWIwNDMtMjMyODhlMDk1ZjJkXkEyXkFqcGdeQXVyMTU3MDU1NDY@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-11-02"
 categories: [ "movies" ]
 title: "Um Homem Insignificante"

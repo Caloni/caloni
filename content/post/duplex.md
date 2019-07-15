@@ -1,6 +1,6 @@
 ---
 imdb: "0266489"
-img: "https://m.media-amazon.com/images/M/MV5BODAzNmI0MTYtMzZlNi00Yjk5LThhMjItOTFkMDRhNjdhYjUxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2012-07-31"
 categories: [ "movies" ]
 title: "Duplex"

@@ -1,6 +1,6 @@
 ---
 imdb: "1542852"
-img: "https://m.media-amazon.com/images/M/MV5BNTA3MDgwMTY0NV5BMl5BanBnXkFtZTcwNzk4NzEzNA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-03-04"
 categories: [ "movies" ]
 title: "Abutres"

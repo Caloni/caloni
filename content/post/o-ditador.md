@@ -1,6 +1,6 @@
 ---
 imdb: "1645170"
-img: "https://m.media-amazon.com/images/M/MV5BNTlkOWYzZDYtNzQ1MS00YTNkLTkyYTItMjBmNjgyMDBlMjI4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-09-06"
 categories: [ "movies" ]
 title: "O Ditador"

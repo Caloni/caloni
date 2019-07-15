@@ -1,6 +1,6 @@
 ---
 imdb: "1559547"
-img: "https://m.media-amazon.com/images/M/MV5BMTQyMjYwODMwMl5BMl5BanBnXkFtZTcwODUwNzY5OA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-07-10"
 categories: [ "movies" ]
 title: "Dezesseis Luas"

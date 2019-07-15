@@ -1,6 +1,6 @@
 ---
 imdb: "0095088"
-img: "https://m.media-amazon.com/images/M/MV5BMzFlZGU5ZjQtNTE4Zi00OGNmLTk0MzQtZjBhYzk5OWEyY2Q4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-11-08"
 categories: [ "movies" ]
 title: "Elvira A Rainha das Trevas"

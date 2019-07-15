@@ -1,6 +1,6 @@
 ---
 imdb: "0808399"
-img: "https://m.media-amazon.com/images/M/MV5BMTI3NDYxOTM4OF5BMl5BanBnXkFtZTcwOTEwNTI4Mg@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2019-03-17"
 categories: [ "movies" ]
 title: "Nova York, Eu Te Amo"

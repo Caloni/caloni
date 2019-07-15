@@ -2,7 +2,7 @@
 external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/a-jovem-rainha"
 imdb: "1254322"
-img: "https://m.media-amazon.com/images/M/MV5BMGRkNTcwYzQtNTczNi00MWExLWE3MWMtYTJjMmE2MDBlNTdmXkEyXkFqcGdeQXVyMzE0MjY5ODA@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2017-02-16"
 categories: [ "movies" ]
 title: "A Jovem Rainha"

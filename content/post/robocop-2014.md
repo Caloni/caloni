@@ -1,6 +1,6 @@
 ---
 imdb: "1234721"
-img: "https://m.media-amazon.com/images/M/MV5BMjAyOTUzMTcxN15BMl5BanBnXkFtZTgwMjkyOTc1MDE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-02-24"
 categories: [ "movies" ]
 title: "RoboCop"

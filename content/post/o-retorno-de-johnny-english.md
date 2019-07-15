@@ -1,6 +1,6 @@
 ---
 imdb: "1634122"
-img: "https://m.media-amazon.com/images/M/MV5BMjEzODY2MjU1Nl5BMl5BanBnXkFtZTcwMzc1ODUzNg@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-11-13"
 categories: [ "movies" ]
 title: "O Retorno de Johnny English"

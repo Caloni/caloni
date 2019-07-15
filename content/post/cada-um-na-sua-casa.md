@@ -1,6 +1,6 @@
 ---
 imdb: "2224026"
-img: "https://m.media-amazon.com/images/M/MV5BMjExOTQ4MDMyMV5BMl5BanBnXkFtZTgwMTE3NDM2MzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-09-25"
 categories: [ "movies" ]
 title: "Cada Um Na Sua Casa"

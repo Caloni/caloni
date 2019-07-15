@@ -1,6 +1,6 @@
 ---
 imdb: "0780504"
-img: "https://m.media-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-03-13"
 categories: [ "movies" ]
 title: "Drive"

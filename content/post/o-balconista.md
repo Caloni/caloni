@@ -1,6 +1,6 @@
 ---
 imdb: "0109445"
-img: "https://m.media-amazon.com/images/M/MV5BNzE1Njk0NmItNDhlMC00ZmFlLWI4ZTUtYTY4ZjgzNjkyMTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-10-20"
 categories: [ "movies" ]
 title: "O Balconista"

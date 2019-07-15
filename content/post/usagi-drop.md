@@ -1,6 +1,6 @@
 ---
 imdb: "1672214"
-img: "https://m.media-amazon.com/images/M/MV5BMzZmYzBhNTAtMzVmZC00ZDVkLTg4YTItNmY2MzI3MjczNWQ2XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_SY150_CR3,0,101,150_.jpg"
+
 date: 2017-07-31T20:10:47
 categories: [ "movies" ]
 title: "Usagi Drop"

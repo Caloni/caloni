@@ -1,6 +1,6 @@
 ---
 imdb: "0185125"
-img: "https://m.media-amazon.com/images/M/MV5BZTk2ZTMzMmUtZjUyNi00YzMyLWE3NTAtNDNjNzU3MGQ1YTFjXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY150_CR6,0,101,150_.jpg"
+
 date: "2011-12-31"
 categories: [ "movies" ]
 title: "Tudo Sobre Minha Mãe"

@@ -1,6 +1,6 @@
 ---
 imdb: "1273235"
-img: "https://m.media-amazon.com/images/M/MV5BNmEyODc1M2YtZDFiNS00YmQxLWEwY2YtMTQwNTk1NzUyYTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-07-31"
 categories: [ "movies" ]
 title: "A Serbian Film Terror sem Limites"

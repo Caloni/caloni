@@ -1,6 +1,6 @@
 ---
 imdb: "5354986"
-img: "https://m.media-amazon.com/images/M/MV5BZjFlZjM3OGItNzlmOS00ZWQ5LTk4ZmMtMzNiM2E2MTAxYmZjXkEyXkFqcGdeQXVyODY1Njg5NQ@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2016-10-21"
 categories: [ "movies" ]
 title: "Profundidade Dois"

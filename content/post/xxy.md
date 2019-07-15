@@ -1,6 +1,6 @@
 ---
 imdb: "0995829"
-img: "https://m.media-amazon.com/images/M/MV5BNmYxZWJmMWMtMWU4Ni00Y2I2LTkzYzYtYjQ1YjE4ZDUyM2UxXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2012-01-24"
 categories: [ "movies" ]
 title: "XXY"

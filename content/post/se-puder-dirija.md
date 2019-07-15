@@ -1,7 +1,7 @@
 ---
 title: "Se Puder... Dirija!"
 imdb: "2211808"
-img: "https://m.media-amazon.com/images/M/MV5BYmUwMWFiZDMtOTliNy00M2E2LTg2MDktNjNhY2EwNGFkYWMzXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR0,0,101,150_.jpg"
+
 stars: "2/5"
 date: "2013-09-07"
 categories: [ "movies" ]

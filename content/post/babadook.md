@@ -1,6 +1,6 @@
 ---
 imdb: "2321549"
-img: "https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-01-22"
 categories: [ "movies" ]
 title: "The Babadook"

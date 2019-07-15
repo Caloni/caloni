@@ -1,6 +1,6 @@
 ---
 imdb: "0337909"
-img: "https://m.media-amazon.com/images/M/MV5BMjE3NzcxMDU2MV5BMl5BanBnXkFtZTYwOTgyNTc2._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-01-27"
 categories: [ "movies" ]
 title: "Garotas do Calendário"

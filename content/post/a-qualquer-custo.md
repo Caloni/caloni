@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "2582782"
-img: "https://m.media-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-12-08"
 categories: [ "movies" ]
 title: "A Qualquer Custo"

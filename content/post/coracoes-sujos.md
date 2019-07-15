@@ -1,6 +1,6 @@
 ---
 imdb: "1653653"
-img: "https://m.media-amazon.com/images/M/MV5BMTcyODkyNDIyNV5BMl5BanBnXkFtZTcwNjUxNjY4Ng@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-08-19"
 categories: [ "movies" ]
 title: "Corações Sujos"

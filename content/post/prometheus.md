@@ -1,6 +1,6 @@
 ---
 imdb: "1446714"
-img: "https://m.media-amazon.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-06-19"
 categories: [ "movies" ]
 title: "Prometheus"

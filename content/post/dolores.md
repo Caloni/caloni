@@ -1,6 +1,6 @@
 ---
 imdb: "4990694"
-img: "https://m.media-amazon.com/images/M/MV5BZWZmOGY3NjgtZjY2Yi00MDdlLWE2N2QtNjEzMGZmOTdjZTJjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjE4MTIyNDI@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2016-10-28"
 categories: [ "movies" ]
 title: "Dolores"

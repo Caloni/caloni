@@ -1,6 +1,6 @@
 ---
 imdb: "0099077"
-img: "https://m.media-amazon.com/images/M/MV5BMjI5NjEzMDYyMl5BMl5BanBnXkFtZTgwNjgwNTg4NjE@._V1_SY150_CR5,0,101,150_.jpg"
+
 date: "2013-05-27"
 categories: [ "movies" ]
 title: "Tempo de Despertar"

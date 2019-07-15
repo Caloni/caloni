@@ -1,6 +1,6 @@
 ---
 imdb: "0780536"
-img: "https://m.media-amazon.com/images/M/MV5BMTUwOGFiM2QtOWMxYS00MjU2LThmZDMtZDM2MWMzNzllNjdhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-03-07"
 categories: [ "movies" ]
 title: "Na Mira do Chefe"

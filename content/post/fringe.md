@@ -1,6 +1,6 @@
 ---
 imdb: "1119644"
-img: "https://m.media-amazon.com/images/M/MV5BNjJjY2VmZmMtN2IxMi00NTNkLWJiNzItNmM5OGZhMGU2MTExXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-12-12"
 categories: [ "series" ]
 title: "Fringe (piloto)"

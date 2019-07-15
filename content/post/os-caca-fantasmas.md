@@ -1,6 +1,6 @@
 ---
 imdb: "0087332"
-img: "https://m.media-amazon.com/images/M/MV5BMTkxMjYyNzgwMl5BMl5BanBnXkFtZTgwMTE3MjYyMTE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-01-24"
 categories: [ "movies" ]
 title: "Os Caça-Fantasmas"

@@ -3,7 +3,7 @@ date: 2018-03-26T22:17:35-03:00
 title: "O Mecanismo"
 categories: [ "series" ]
 imdb: "6873658"
-img: "https://m.media-amazon.com/images/M/MV5BNWM0NTFhOTEtZjdlNS00NDdkLWE5OTAtZjUwODc3MTY1MGYxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR3,0,101,150_.jpg"
+
 stars: "2/5"
 desc: "O Mecanismo. Brasil, 2018. Direção e roteiro de José Padilha, com Selton Mello, Caroline Abras, Enrique Diaz."
 ---

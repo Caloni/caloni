@@ -1,6 +1,6 @@
 ---
 imdb: "0317248"
-img: "https://m.media-amazon.com/images/M/MV5BMGU5OWEwZDItNmNkMC00NzZmLTk1YTctNzVhZTJjM2NlZTVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-12-30"
 categories: [ "movies" ]
 title: "Cidade de Deus"

@@ -1,6 +1,6 @@
 ---
 imdb: "2372162"
-img: "https://m.media-amazon.com/images/M/MV5BMjA3MTE5ODM3M15BMl5BanBnXkFtZTgwNTIyMjQ5NTM@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-06-19"
 categories: [ "series" ]
 title: "Orange is the New Black - Segunda Temporada"

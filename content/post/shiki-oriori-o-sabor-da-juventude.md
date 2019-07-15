@@ -3,7 +3,7 @@ date: 2018-08-12T21:01:40-03:00
 title: "Shiki Oriori: O Sabor da Juventude"
 desc: "Dirigido (e escrito?) por Haoling Li, Yoshitaka Takeuch, Xiaoxing Yi. Com Taito Ban, Dorothy Elias-Fahn, Matt Fowler (todos na versão internacional em inglês)."
 imdb: "8176578"
-img: "https://m.media-amazon.com/images/M/MV5BYmVkZjU5NWYtNmVhNC00Y2FjLWFiZGUtZGRlMzk3M2YzYmI5XkEyXkFqcGdeQXVyMTk2MDc1MjQ@._V1_SY150_CR6,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 ---

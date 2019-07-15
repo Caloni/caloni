@@ -1,6 +1,6 @@
 ---
 imdb: "0112604"
-img: "https://m.media-amazon.com/images/M/MV5BMTIyMzAzMDgyN15BMl5BanBnXkFtZTcwMjY3ODkxMQ@@._V1_SY150_CR3,0,101,150_.jpg"
+
 date: "2015-03-25"
 categories: [ "movies" ]
 title: "O Beijo da Borboleta"

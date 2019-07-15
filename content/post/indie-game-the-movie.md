@@ -1,6 +1,6 @@
 ---
 imdb: "1942884"
-img: "https://m.media-amazon.com/images/M/MV5BMjA5NTUzMjQ1MV5BMl5BanBnXkFtZTcwMzc1MzQ4Nw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-06-17"
 categories: [ "movies" ]
 title: "Indie Game The Movie"

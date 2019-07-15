@@ -1,6 +1,6 @@
 ---
 imdb: "2318092"
-img: "https://m.media-amazon.com/images/M/MV5BOTYzNDU1MzEyN15BMl5BanBnXkFtZTgwOTYwMTU0MDE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-06-13"
 categories: [ "movies" ]
 title: "Amor Sem Fim"

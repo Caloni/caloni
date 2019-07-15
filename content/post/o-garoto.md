@@ -1,6 +1,6 @@
 ---
 imdb: "0012349"
-img: "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-12-25"
 categories: [ "movies" ]
 title: "O Garoto"

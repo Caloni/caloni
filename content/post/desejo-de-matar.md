@@ -3,7 +3,7 @@ date: 2018-05-08T17:36:55-03:00
 title: "Desejo de Matar"
 categories: [ "movies" ]
 imdb: "1137450"
-img: "https://m.media-amazon.com/images/M/MV5BMTkzNjU3MjE0MF5BMl5BanBnXkFtZTgwNTIyNDk0NDM@._V1_SY150_CR0,0,101,150_.jpg"
+
 stars: "4/5"
 desc: "Death Wish (EUA, 2018), escrito por Joe Carnahan baseado no romance de Brian Garfield e no filme de 1974 de Wendell Mayes, dirigido por Eli Roth, com Bruce Willis, Vincent D'Onofrio, Elisabeth Shue."
 external: "cinemaqui"

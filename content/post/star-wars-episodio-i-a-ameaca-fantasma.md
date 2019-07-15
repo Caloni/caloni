@@ -1,6 +1,6 @@
 ---
 imdb: "0120915"
-img: "https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-05-27"
 categories: [ "movies" ]
 title: "Star Wars Episódio I A Ameaça Fantasma"

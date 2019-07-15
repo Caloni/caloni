@@ -1,6 +1,6 @@
 ---
 imdb: "0453047"
-img: "https://m.media-amazon.com/images/M/MV5BMTQxMTAzNDA4NV5BMl5BanBnXkFtZTcwOTQ2MTU0MQ@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2010-12-30"
 categories: [ "movies" ]
 title: "Elsa e Fred"

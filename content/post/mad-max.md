@@ -1,6 +1,6 @@
 ---
 imdb: "0079501"
-img: "https://m.media-amazon.com/images/M/MV5BMTM4Mjg5ODEzMV5BMl5BanBnXkFtZTcwMDc3NDk0NA@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-11-30"
 categories: [ "movies" ]
 title: "Mad Max"

@@ -1,6 +1,6 @@
 ---
 imdb: "0889573"
-img: "https://m.media-amazon.com/images/M/MV5BODQ5ODc0MjU1N15BMl5BanBnXkFtZTcwMTc3NzcyMw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-05-16"
 categories: [ "movies" ]
 title: "Coincidências do Amor"

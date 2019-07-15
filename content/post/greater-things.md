@@ -1,6 +1,6 @@
 ---
 imdb: "3044584"
-img: "https://m.media-amazon.com/images/M/MV5BMjA2Njg3NjI5OV5BMl5BanBnXkFtZTgwNjQzNDcwODE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2016-10-20"
 categories: [ "movies" ]
 title: "Greater Things"

@@ -1,6 +1,6 @@
 ---
 imdb: "5821276"
-img: "https://m.media-amazon.com/images/M/MV5BOWM2MTk4MjctMzQ1Yi00Y2U3LTgzN2MtOTZjMDcyYTRjOTliL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjYyMjY1MTc@._V1_SY150_CR13,0,101,150_.jpg"
+
 date: "2016-10-26"
 categories: [ "movies" ]
 title: "Bench Cinema"

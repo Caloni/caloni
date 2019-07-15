@@ -1,6 +1,6 @@
 ---
 imdb: "1631867"
-img: "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-06-10"
 categories: [ "movies" ]
 title: "No Limite do Amanhã"

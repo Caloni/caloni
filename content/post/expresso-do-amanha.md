@@ -1,6 +1,6 @@
 ---
 imdb: "1706620"
-img: "https://m.media-amazon.com/images/M/MV5BOTdjM2NmZTgtYTFlMS00ZWE1LWExNzItZWEyZGE3NjE3OWQ5XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-01-13"
 categories: [ "movies" ]
 title: "Expresso do Amanhã"

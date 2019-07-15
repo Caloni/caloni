@@ -1,6 +1,6 @@
 ---
 imdb: "1579223"
-img: "https://m.media-amazon.com/images/M/MV5BMjI5ZTRjZDgtN2U2NS00NWVkLWIwMjEtNDVmYmUwMjlmNTY0XkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-08-23"
 categories: [ "movies" ]
 title: "Assalto ao Banco Central"

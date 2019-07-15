@@ -1,6 +1,6 @@
 ---
 imdb: "0842926"
-img: "https://m.media-amazon.com/images/M/MV5BMjE4NTMwNDg5MF5BMl5BanBnXkFtZTcwNDY2ODE0Mw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-06-08"
 categories: [ "movies" ]
 title: "Minhas Mães e Meu Pai"

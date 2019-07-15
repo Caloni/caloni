@@ -1,6 +1,6 @@
 ---
 imdb: "1292566"
-img: "https://m.media-amazon.com/images/M/MV5BNzI4MDMwMzUwNF5BMl5BanBnXkFtZTgwMDgyNzkyNzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-11-17"
 categories: [ "movies" ]
 title: "Como Ser Solteira"

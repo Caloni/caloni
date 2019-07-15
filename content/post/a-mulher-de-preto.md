@@ -1,6 +1,6 @@
 ---
 imdb: "1596365"
-img: "https://m.media-amazon.com/images/M/MV5BMjEwMzIxOTg3N15BMl5BanBnXkFtZTcwMjI4ODUzNw@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-03-04"
 categories: [ "movies" ]
 title: "A Mulher de Preto"

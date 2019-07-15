@@ -1,6 +1,6 @@
 ---
 imdb: "0848228"
-img: "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-04-28"
 categories: [ "movies" ]
 title: "The Avengers Os Vingadores"

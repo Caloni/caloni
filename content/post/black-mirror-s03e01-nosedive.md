@@ -1,6 +1,6 @@
 ---
 imdb: "5497778"
-img: "https://m.media-amazon.com/images/M/MV5BNzI2NDA3MTA4OF5BMl5BanBnXkFtZTgwMjA5MzkzMDI@._V1_SY150_CR62,0,101,150_.jpg"
+
 date: "2016-10-23"
 categories: [ "series" ]
 title: "Black Mirror - S03E01 - Nosedive"

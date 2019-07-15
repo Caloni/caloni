@@ -1,6 +1,6 @@
 ---
 imdb: "1179259"
-img: "https://m.media-amazon.com/images/M/MV5BMWIyNjc5YTYtNDFlMS00ZTBiLThjMDgtNTgzOWUxOGQ1NmQ5XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2016-07-28"
 categories: [ "movies" ]
 title: "Colegas"

@@ -1,6 +1,6 @@
 ---
 imdb: "2382009"
-img: "https://m.media-amazon.com/images/M/MV5BODU2OTljNGYtNjIwMC00ZWIwLWE1NTEtNTk1ZDM5YWI5NzU2XkEyXkFqcGdeQXVyMjQ2MTk1OTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2016-06-06
 categories: [ "movies" ]
 title: "Ninfomaníaca Volume 2"

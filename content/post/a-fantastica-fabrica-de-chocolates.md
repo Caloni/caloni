@@ -1,6 +1,6 @@
 ---
 imdb: "0067992"
-img: "https://m.media-amazon.com/images/M/MV5BZTllNDU0ZTItYTYxMC00OTI4LThlNDAtZjNiNzdhMWZiYjNmXkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-12-26"
 categories: [ "movies" ]
 title: "A Fantástica Fábrica de Chocolate"

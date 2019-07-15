@@ -1,6 +1,6 @@
 ---
 imdb: "1832288"
-img: "https://m.media-amazon.com/images/M/MV5BNzZlZWZiN2UtMWQ1Mi00N2VhLTgyYjgtYmQ5ZmE5NGZiODVlXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-12-19"
 categories: [ "movies" ]
 title: "Aparecida O Milagre"

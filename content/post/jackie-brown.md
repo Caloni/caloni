@@ -1,6 +1,6 @@
 ---
 imdb: "0119396"
-img: "https://m.media-amazon.com/images/M/MV5BNmY5ODRmYTItNWU0Ni00MWE3LTgyYzUtYjZlN2Q5YTcyM2NmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2016-02-08"
 categories: [ "movies" ]
 title: "Jackie Brown"

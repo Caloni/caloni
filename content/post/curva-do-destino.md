@@ -1,6 +1,6 @@
 ---
 imdb: "0037638"
-img: "https://m.media-amazon.com/images/M/MV5BYTVhNTU2YzMtOTVjNy00YzhhLTk5OWItMjU4ZGMyNDQ4ZDIwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2010-10-13"
 categories: [ "movies" ]
 title: "A Curva do Destino"

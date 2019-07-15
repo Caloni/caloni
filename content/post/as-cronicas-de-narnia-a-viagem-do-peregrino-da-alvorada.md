@@ -1,6 +1,6 @@
 ---
 imdb: "0980970"
-img: "https://m.media-amazon.com/images/M/MV5BNjQ2MDQzMzExNl5BMl5BanBnXkFtZTcwMTYzOTc5Mw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-10-21"
 categories: [ "movies" ]
 title: "As Crônicas de Nárnia A Viagem do Peregrino da Alvorada"

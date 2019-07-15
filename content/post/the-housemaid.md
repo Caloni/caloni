@@ -1,6 +1,6 @@
 ---
 imdb: "0150980"
-img: "https://m.media-amazon.com/images/M/MV5BYTNlNjZlYWYtMWViMy00MDRjLTllNjQtYTFkZTExM2IyYzg1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-07-08"
 categories: [ "movies" ]
 title: "The Housemaid"

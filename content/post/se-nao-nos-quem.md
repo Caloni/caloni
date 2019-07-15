@@ -1,6 +1,6 @@
 ---
 imdb: "1671496"
-img: "https://m.media-amazon.com/images/M/MV5BMjIwMDg3NDIzMl5BMl5BanBnXkFtZTcwNzEzMTg3OA@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2011-11-17"
 categories: [ "movies" ]
 title: "Se Não Nós Quem?"

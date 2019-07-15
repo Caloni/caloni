@@ -3,7 +3,7 @@ date: 2019-06-09
 title: "Feliz! S02"
 categories: [ "series" ]
 imdb: "2452242"
-img: "https://m.media-amazon.com/images/M/MV5BNzk2NjYxMDMxMV5BMl5BanBnXkFtZTgwMzQxODcwNDI@._V1_SY150_SX101_.jpg"
+
 stars: "2/5"
 desc: "Happy! (EUA, 2017). Criado por Grant Morrison e Brian Taylor. Escrito por Morrison e Taylor; dirigido por Taylor. Com Christopher Meloni, Ritchie Coster, Lili Mirojnick."
 ---

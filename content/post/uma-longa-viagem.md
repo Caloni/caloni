@@ -1,6 +1,6 @@
 ---
 imdb: "2058107"
-img: "https://m.media-amazon.com/images/M/MV5BMTQzNDU1NjE0NF5BMl5BanBnXkFtZTgwODA3NDczMDE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-01-04"
 categories: [ "movies" ]
 title: "Uma Longa Viagem"

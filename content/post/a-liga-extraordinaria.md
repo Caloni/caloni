@@ -1,6 +1,6 @@
 ---
 imdb: "0311429"
-img: "https://m.media-amazon.com/images/M/MV5BZTFlOTdkMjEtNGVmMS00YTA3LThlNjQtMjAzZmFjZDAzNjllL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-01-01"
 categories: [ "movies" ]
 title: "A Liga Extraordinária"

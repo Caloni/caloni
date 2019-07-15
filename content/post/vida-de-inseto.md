@@ -1,6 +1,6 @@
 ---
 imdb: "0120623"
-img: "https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-12-08"
 categories: [ "movies" ]
 title: "Vida de Inseto"

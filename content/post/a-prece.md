@@ -3,7 +3,7 @@ date: 2018-11-05T16:37:06-02:00
 title: "A Prece"
 desc: ""
 imdb: "7839456"
-img: "https://m.media-amazon.com/images/M/MV5BMDYxZjc5MGMtMGI0ZC00YzljLWIzNmUtNjAyZDY2MDExYjkxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR2,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"

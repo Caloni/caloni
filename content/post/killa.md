@@ -1,6 +1,6 @@
 ---
 imdb: "3341582"
-img: "https://m.media-amazon.com/images/M/MV5BMTY1NTIwMTY2NV5BMl5BanBnXkFtZTgwNDU2MDY4MjE@._V1_SY150_CR6,0,101,150_.jpg"
+
 date: "2016-12-04"
 categories: [ "movies" ]
 title: "Killa"

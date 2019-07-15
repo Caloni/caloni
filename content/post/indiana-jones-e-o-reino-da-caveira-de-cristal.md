@@ -1,6 +1,6 @@
 ---
 imdb: "0367882"
-img: "https://m.media-amazon.com/images/M/MV5BMTIxNDUxNzcyMl5BMl5BanBnXkFtZTcwNTgwOTI3MQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-11-04"
 categories: [ "movies" ]
 title: "Indiana Jones e o Reino da Caveira de Cristal"

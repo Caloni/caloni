@@ -1,6 +1,6 @@
 ---
 imdb: "2049543"
-img: "https://m.media-amazon.com/images/M/MV5BMTc2NDAyOTc4MV5BMl5BanBnXkFtZTgwNjE4Mjk0NzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-03-26"
 categories: [ "movies" ]
 title: "Synchronicity"

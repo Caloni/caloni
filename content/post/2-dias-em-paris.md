@@ -1,6 +1,6 @@
 ---
 imdb: "0841044"
-img: "https://m.media-amazon.com/images/M/MV5BMjAyNTY3NTcyOF5BMl5BanBnXkFtZTcwMTcyMjM1MQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-05-16"
 categories: [ "movies" ]
 title: "2 Dias em Paris"

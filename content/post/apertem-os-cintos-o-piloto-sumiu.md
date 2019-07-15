@@ -1,6 +1,6 @@
 ---
 imdb: "0080339"
-img: "https://m.media-amazon.com/images/M/MV5BZjA3YjdhMWEtYjc2Ni00YzVlLWI0MTUtMGZmNTJjNmU0Yzk2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-09-24"
 categories: [ "movies" ]
 title: "Apertem os Cintos... O Piloto Sumiu"

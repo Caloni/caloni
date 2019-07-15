@@ -1,6 +1,6 @@
 ---
 imdb: "0798732"
-img: "https://m.media-amazon.com/images/M/MV5BNWQ2MGNlYzQtNjBhMi00MTk0LWFmMWQtNTA2ZTcyNGFkYzYxXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-04-27"
 categories: [ "movies" ]
 title: "Polaróides Urbanas"

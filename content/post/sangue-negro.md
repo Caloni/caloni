@@ -1,6 +1,6 @@
 ---
 imdb: "0469494"
-img: "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2018-01-23"
 categories: [ "movies" ]
 title: "Sangue Negro"

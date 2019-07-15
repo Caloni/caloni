@@ -1,6 +1,6 @@
 ---
 imdb: "2109248"
-img: "https://m.media-amazon.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-12-20"
 categories: [ "movies" ]
 title: "Transformers: A Era da Extinção"

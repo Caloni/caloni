@@ -3,7 +3,7 @@ date: 2019-04-29T10:49:00-03:00
 title: "Requiém Para Um Sonho"
 desc: "Requiem for a Dream. EUA, 2000. Dirigido por Darren Aronofsky, escrito em uma parceria entre Aronofsky e Hubert Selby Jr., baseado em seu próprio livro. Com Ellen Burstyn, Jared Leto, Jennifer Connelly."
 imdb: "0180093"
-img: "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX101_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "5/5"
 ---

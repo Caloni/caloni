@@ -1,6 +1,6 @@
 ---
 imdb: "0047396"
-img: "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-01-15"
 categories: [ "movies" ]
 title: "Janela Indiscreta"

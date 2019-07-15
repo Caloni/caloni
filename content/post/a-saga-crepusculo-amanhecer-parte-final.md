@@ -1,6 +1,6 @@
 ---
 imdb: "1673434"
-img: "https://m.media-amazon.com/images/M/MV5BMTcyMzUyMzY1OF5BMl5BanBnXkFtZTcwNDQ4ODk1OA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-11-20"
 categories: [ "movies" ]
 title: "A Saga Crepúsculo Amanhecer Parte 2"

@@ -1,6 +1,6 @@
 ---
 imdb: "1754656"
-img: "https://m.media-amazon.com/images/M/MV5BNjg0OTM5OTQyNV5BMl5BanBnXkFtZTgwNDg5NDQ0NTE@._V1_SY150_CR4,0,101,150_.jpg"
+
 date: "2015-08-29"
 categories: [ "movies" ]
 title: "O Pequeno Príncipe"

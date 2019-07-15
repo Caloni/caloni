@@ -1,6 +1,6 @@
 ---
 imdb: "1541160"
-img: "https://m.media-amazon.com/images/M/MV5BMzU3NjM1MTk5NF5BMl5BanBnXkFtZTcwNDI4NDQ4NQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-11-28"
 categories: [ "movies" ]
 title: "Assalto em Dose Dupla"

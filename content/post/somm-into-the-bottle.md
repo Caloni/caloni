@@ -1,6 +1,6 @@
 ---
 imdb: "5161502"
-img: "https://m.media-amazon.com/images/M/MV5BMTk4NzcxMDgzMF5BMl5BanBnXkFtZTgwNTY5NDE5NzE@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2016-12-04"
 categories: [ "movies" ]
 title: "SOMM: Into the Bottle"

@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "1051904"
-img: "https://m.media-amazon.com/images/M/MV5BMjA1OTUzNTQ5Ml5BMl5BanBnXkFtZTgwODQ4NDkxNjE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-10-21"
 categories: [ "movies" ]
 title: "Goosebumps: Monstros e Arrepios"

@@ -1,6 +1,6 @@
 ---
 imdb: "1462758"
-img: "https://m.media-amazon.com/images/M/MV5BZTRmZmIxMDktZjVmMS00NmFiLWExNmMtMzg0MTIyZDYwNWZjXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY150_CR3,0,101,150_.jpg"
+
 date: "2010-12-10"
 categories: [ "movies" ]
 title: "Enterrado vivo"

@@ -1,6 +1,6 @@
 ---
 imdb: "2114504"
-img: "https://m.media-amazon.com/images/M/MV5BNjJjMmRkNjYtNmJhNi00ZDM1LWEzMjMtOWZjNjgxODc1YmFlXkEyXkFqcGdeQXVyOTQyNTIzNjM@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: 2017-11-06T21:26:48
 categories: [ "movies" ]
 title: "Pica Pau: o Filme"

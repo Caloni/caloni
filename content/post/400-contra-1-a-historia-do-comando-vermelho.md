@@ -1,6 +1,6 @@
 ---
 imdb: "1781755"
-img: "https://m.media-amazon.com/images/M/MV5BYjlmMjA1ZGYtMzA0OC00ZDA3LWFlMWItOTVmMmNmMWRhMjU5XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2010-08-06"
 categories: [ "movies" ]
 title: "400 contra 1 A História do Comando Vermelho"

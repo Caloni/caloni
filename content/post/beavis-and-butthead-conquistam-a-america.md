@@ -1,6 +1,6 @@
 ---
 imdb: "0115641"
-img: "https://m.media-amazon.com/images/M/MV5BNWY3NmNlYzYtNzY5Yy00Y2Q1LWE1NWEtYzQ2NDM4YTMyYjVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-11-28"
 categories: [ "movies" ]
 title: "Beavis and Butt-head Conquistam a América"

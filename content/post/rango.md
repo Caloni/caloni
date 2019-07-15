@@ -1,6 +1,6 @@
 ---
 imdb: "1192628"
-img: "https://m.media-amazon.com/images/M/MV5BMjE5ODg1NTk3OF5BMl5BanBnXkFtZTcwNzA5NTMyNA@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2018-02-19"
 categories: [ "movies" ]
 title: "Rango"

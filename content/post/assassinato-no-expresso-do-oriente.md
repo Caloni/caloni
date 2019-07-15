@@ -1,6 +1,6 @@
 ---
 imdb: "3402236"
-img: "https://m.media-amazon.com/images/M/MV5BMTAxNDkxODIyMDZeQTJeQWpwZ15BbWU4MDQ2Mjg4NDIy._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-12-11T17:34:52
 categories: [ "movies" ]
 title: "Assassinato no Expresso do Oriente"

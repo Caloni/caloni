@@ -1,6 +1,6 @@
 ---
 imdb: "0087469"
-img: "https://m.media-amazon.com/images/M/MV5BMGI1NTk2ZWMtMmI0YS00Yzg0LTljMzgtZTg4YjkyY2E5Zjc0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2016-10-23"
 categories: [ "movies" ]
 title: "Indiana Jones e o Templo da Perdição"

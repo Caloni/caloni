@@ -1,6 +1,6 @@
 ---
 imdb: "0918927"
-img: "https://m.media-amazon.com/images/M/MV5BYWFjZmE2NGYtNGIzYi00Nzc2LTlhZWMtMTNkOTBkOTQ0MTJmXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2012-11-18"
 categories: [ "movies" ]
 title: "Dúvida"

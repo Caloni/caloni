@@ -3,7 +3,7 @@ date: 2018-10-23T21:37:56-02:00
 title: "O Segredo de Nápoles"
 desc: "Napoli velata (aka Naples in Veils). (Itália, 2017), escrito por Ferzan Ozpetek, Gianni Romoli, Valia Santella, dirigido por Ferzan Ozpetek, com Giovanna Mezzogiorno, Alessandro Borghi, Anna Bonaiuto.#mostrasp"
 imdb: "6892206"
-img: "https://m.media-amazon.com/images/M/MV5BZDZmYmE1NDctZDliNC00YTUxLTlkNGYtN2YzZDk3M2QwZjA3XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY150_CR2,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"

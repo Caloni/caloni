@@ -1,6 +1,6 @@
 ---
 imdb: "1911658"
-img: "https://m.media-amazon.com/images/M/MV5BMTEyMDg4MDU4MjdeQTJeQWpwZ15BbWU4MDQyOTc3MjIx._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-01-28"
 categories: [ "movies" ]
 title: "Os Pinguins de Madagascar"

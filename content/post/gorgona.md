@@ -1,7 +1,7 @@
 ---
 date: 2018-03-14T23:36:56
 imdb: "6285776"
-img: "https://m.media-amazon.com/images/M/MV5BM2M5YjA5N2QtZDNlNi00NzE2LWJmYTAtNzQ1YTFlMTkxNzE4XkEyXkFqcGdeQXVyNDY2NDMxNDY@._V1_SX101_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 title: "Górgona"

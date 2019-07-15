@@ -1,6 +1,6 @@
 ---
 imdb: "0816711"
-img: "https://m.media-amazon.com/images/M/MV5BNDQ4YzFmNzktMmM5ZC00MDZjLTk1OTktNDE2ODE4YjM2MjJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-09-23"
 categories: [ "movies" ]
 title: "World War Z"

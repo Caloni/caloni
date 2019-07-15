@@ -1,6 +1,6 @@
 ---
 imdb: "1298650"
-img: "https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-06-01"
 categories: [ "movies" ]
 title: "Piratas do Caribe Navegando em Águas Misteriosas"

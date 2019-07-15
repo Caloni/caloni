@@ -3,7 +3,7 @@ date: 2018-03-29T15:19:01-03:00
 title: "Submersão"
 categories: [ "movies" ]
 imdb: "3563262"
-img: "https://m.media-amazon.com/images/M/MV5BNjE2NDUyMTY3M15BMl5BanBnXkFtZTgwODU0MDQ5NDM@._V1_SY150_CR0,0,101,150_.jpg"
+
 stars: "4/5"
 desc: "Submergence (Alemanha/França/Espanha/EUA, 2017), escrito por Erin Dignam (roteiro), J.M. Ledgard (romance), dirigido por Wim Wenders, com Alicia Vikander, James McAvoy, Alexander Siddig."
 external: "cinemaqui"

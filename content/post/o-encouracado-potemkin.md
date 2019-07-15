@@ -1,6 +1,6 @@
 ---
 imdb: "0015648"
-img: "https://m.media-amazon.com/images/M/MV5BMTEyMTQzMjQ0MTJeQTJeQWpwZ15BbWU4MDcyMjg4OTEx._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2010-11-20"
 categories: [ "movies" ]
 title: "O Encouraçado Potemkin"

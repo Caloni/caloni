@@ -1,6 +1,6 @@
 ---
 imdb: "0018328"
-img: "https://m.media-amazon.com/images/M/MV5BMDFiZjU0NmYtMjE4Mi00YjAwLThiNDQtYmJkYzI2NTAyYTNkXkEyXkFqcGdeQXVyMTM3NzQ5NzQ@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2017-01-17"
 categories: [ "movies" ]
 title: "O Ring"

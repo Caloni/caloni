@@ -1,6 +1,6 @@
 ---
 imdb: "1564367"
-img: "https://m.media-amazon.com/images/M/MV5BMjE0MTk3MjE2Nl5BMl5BanBnXkFtZTcwMjE0ODA0NA@@._V1_SY150_CR6,0,101,150_.jpg"
+
 date: "2011-03-09"
 categories: [ "movies" ]
 title: "Esposa de Mentirinha"

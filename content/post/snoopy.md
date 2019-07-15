@@ -1,6 +1,6 @@
 ---
 imdb: "2452042"
-img: "https://m.media-amazon.com/images/M/MV5BNTE5NzMxNzkwNl5BMl5BanBnXkFtZTgwOTQ0Nzk5NzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-01-17"
 categories: [ "movies" ]
 title: "Snoopy & Charlie Brown: Peanuts, o Filme"

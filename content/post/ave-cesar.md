@@ -1,6 +1,6 @@
 ---
 imdb: "0475290"
-img: "https://m.media-amazon.com/images/M/MV5BOTI1M2FlMzItY2VjYS00Y2VkLWI5OTQtMzA0MWMyNmQzZmQ0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-08-01"
 categories: [ "movies" ]
 title: "Ave, César!"

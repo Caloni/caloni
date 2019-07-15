@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "1959563"
-img: "https://m.media-amazon.com/images/M/MV5BMjQ5NjA2NDg1MV5BMl5BanBnXkFtZTgwMDAzNDc4MjI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: 2017-08-24T17:47:41
 categories: [ "movies" ]
 title: "Dupla Explosiva"

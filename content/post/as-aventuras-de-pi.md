@@ -1,6 +1,6 @@
 ---
 imdb: "0454876"
-img: "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-01-03"
 categories: [ "movies" ]
 title: "As Aventuras de Pi"

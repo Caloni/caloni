@@ -1,6 +1,6 @@
 ---
 imdb: "2870756"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ3NDY5NjIwN15BMl5BanBnXkFtZTgwNjQ2ODkxMjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-06-30"
 categories: [ "movies" ]
 title: "Magia ao Luar"

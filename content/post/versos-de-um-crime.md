@@ -1,6 +1,6 @@
 ---
 imdb: "1311071"
-img: "https://m.media-amazon.com/images/M/MV5BMjA4MzAxMTE1N15BMl5BanBnXkFtZTgwMDY2OTIxMDE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-09-10"
 categories: [ "movies" ]
 title: "Versos de Um Crime"

@@ -1,6 +1,6 @@
 ---
 imdb: "0138596"
-img: "https://m.media-amazon.com/images/M/MV5BNGI5NjQzYWMtODNiNi00NzYzLWJiOGUtNGE3ODUxOTI3NDlmXkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2012-04-24"
 categories: [ "movies" ]
 title: "A Marvada Carne"

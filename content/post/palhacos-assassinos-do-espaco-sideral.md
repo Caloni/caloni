@@ -1,6 +1,6 @@
 ---
 imdb: "0095444"
-img: "https://m.media-amazon.com/images/M/MV5BMDM5YzZmZjUtMjkzOS00ODBkLWE1OWUtODdmMTYzOTQwNDRkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-09-24"
 categories: [ "movies" ]
 title: "Palhaços Assassinos"

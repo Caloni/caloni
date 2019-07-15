@@ -1,6 +1,6 @@
 ---
 imdb: "2660888"
-img: "https://m.media-amazon.com/images/M/MV5BZDRiOGE5ZTctOWIxOS00MWQwLThlMDYtNWIwMDQwNzBjZDY1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-09-07"
 categories: [ "movies" ]
 title: "Star Trek: Sem Fronteiras"

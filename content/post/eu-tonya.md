@@ -1,7 +1,7 @@
 ---
 date: 2018-01-13T17:50:54
 imdb: "5580036"
-img: "https://m.media-amazon.com/images/M/MV5BMjI5MDY1NjYzMl5BMl5BanBnXkFtZTgwNjIzNDAxNDM@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 title: "Eu, Tonya"

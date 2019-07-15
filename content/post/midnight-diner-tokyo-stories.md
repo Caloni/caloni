@@ -1,6 +1,6 @@
 ---
 imdb: "3958276"
-img: "https://m.media-amazon.com/images/M/MV5BOGM2ZGQ1YjItNzVkMS00MjM3LWFkY2QtNTRmNzQyNWM5MWE2XkEyXkFqcGdeQXVyMTg1NzQxOTg@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2016-10-23"
 categories: [ "series" ]
 title: "Midnight Diner: Tokyo Stories"

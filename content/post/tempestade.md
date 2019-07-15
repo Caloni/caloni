@@ -1,6 +1,6 @@
 ---
 imdb: "3757648"
-img: "https://m.media-amazon.com/images/M/MV5BMDlkOGMzYmItYzhmMi00ZmFmLTkyMjUtZGQ5MGZiZTRhYTBhXkEyXkFqcGdeQXVyMjI5MTAzNzA@._V1_SY150_CR6,0,101,150_.jpg"
+
 date: "2016-10-21"
 categories: [ "movies" ]
 title: "Tempestade"

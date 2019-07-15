@@ -1,6 +1,6 @@
 ---
 imdb: "0377981"
-img: "https://m.media-amazon.com/images/M/MV5BMjAyNDM2MDA2NF5BMl5BanBnXkFtZTcwOTMxMDAxNA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-03-10"
 categories: [ "movies" ]
 title: "Gnomeu e Julieta"

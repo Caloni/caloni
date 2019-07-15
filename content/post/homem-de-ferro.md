@@ -1,6 +1,6 @@
 ---
 imdb: "0371746"
-img: "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-07-30"
 categories: [ "movies" ]
 title: "Homem de Ferro"

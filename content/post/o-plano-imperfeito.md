@@ -3,7 +3,7 @@ date: 2018-06-28T18:00:49-03:00
 title: "O Plano Imperfeito"
 desc: "Set It Up. EUA, 2018. Escrito por Katie Silberman, dirigido por Claire Scanlon. Com Zoey Deutch, Glen Powell, Lucy Liu."
 imdb: "5304992"
-img: "https://m.media-amazon.com/images/M/MV5BMTk0MDUyMzA1OF5BMl5BanBnXkFtZTgwNzA4NzE1NTM@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "2/5"
 ---

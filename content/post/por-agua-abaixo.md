@@ -1,6 +1,6 @@
 ---
 imdb: "0424095"
-img: "https://m.media-amazon.com/images/M/MV5BMTI1MzE1MDk2N15BMl5BanBnXkFtZTYwMjEwMzI3._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-10-12"
 categories: [ "movies" ]
 title: "Por Água Abaixo"

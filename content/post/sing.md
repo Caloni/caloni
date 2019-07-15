@@ -1,6 +1,6 @@
 ---
 imdb: "3470600"
-img: "https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-12-29"
 categories: [ "movies" ]
 title: "Sing: Quem Canta Seus Males Espanta"

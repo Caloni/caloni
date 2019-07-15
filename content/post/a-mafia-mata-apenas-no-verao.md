@@ -1,6 +1,6 @@
 ---
 imdb: "3374966"
-img: "https://m.media-amazon.com/images/M/MV5BNzAyMDU4MjU4MV5BMl5BanBnXkFtZTgwNTY2MjcyNjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-04-10"
 categories: [ "movies" ]
 title: "A Máfia Mata Apenas no Verão"

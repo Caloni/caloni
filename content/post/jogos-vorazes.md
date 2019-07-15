@@ -1,6 +1,6 @@
 ---
 imdb: "1392170"
-img: "https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-04-01"
 categories: [ "movies" ]
 title: "Jogos Vorazes"

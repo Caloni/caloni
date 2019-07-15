@@ -1,6 +1,6 @@
 ---
 imdb: "0120631"
-img: "https://m.media-amazon.com/images/M/MV5BN2FhYTY5ODItOGU4OC00MTkyLTlmYTMtYjIxN2Y4MmVlMDVhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-11-17"
 categories: [ "movies" ]
 title: "Para Sempre Cinderela"

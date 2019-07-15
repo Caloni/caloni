@@ -1,6 +1,6 @@
 ---
 imdb: "0070666"
-img: "https://m.media-amazon.com/images/M/MV5BYTU4ZTI0NzAtYzMwNi00YmMxLThmZWItNTY5NzgyMDAwYWVhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-08-31"
 categories: [ "movies" ]
 title: "Serpico"

@@ -1,6 +1,6 @@
 ---
 imdb: "1706593"
-img: "https://m.media-amazon.com/images/M/MV5BYmRkY2RhM2QtMjQwNC00NDVjLTk4MTQtZGNiMjYxMmJmODVhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-03-14"
 categories: [ "movies" ]
 title: "Poder sem Limites"

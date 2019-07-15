@@ -1,7 +1,7 @@
 ---
 title: "La muerte de Pinochet"
 imdb: "1817190"
-img: "https://m.media-amazon.com/images/M/MV5BNzU5MTEwY2YtYzNhYy00NDI4LTg4NzktOTViYTliMGY1NDhlXkEyXkFqcGdeQXVyMTAxMDQ0ODk@._V1_SY150_CR2,0,101,150_.jpg"
+
 stars: "3/5"
 date: "2011-10-24"
 categories: [ "movies" ]

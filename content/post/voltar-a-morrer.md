@@ -1,6 +1,6 @@
 ---
 imdb: "0101669"
-img: "https://m.media-amazon.com/images/M/MV5BZmM1Zjc3YTEtNDM4OC00ODI5LTlmMmUtYmIyZWZhNGJiYzZjXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-03-04"
 categories: [ "movies" ]
 title: "Voltar a Morrer"

@@ -3,7 +3,7 @@ date: 2019-05-25T23:21:20-03:00
 title: "Pokemon: Detetive Pikachu"
 desc: "Pokemon Detective Pikachu. EUA, Japão, Canadá, 2019. Dirigido por Rob Letterman. Roteiro por Dan Hernandez, Benji Samit, Rob Letterman, Derek Connolly, estória de Dan Hernandez, Benji Samit, Nicole Perlman, baseado na criação de Satoshi Tajiri, Ken Sugimori, Junichi Masuda, personagens de Atsuko Nishida e estória original de Tomokazu Ohara, Haruka Utsui. Tudo isso para fazer uma bosta de história. Com Ryan Reynolds que aparece primeiro nos créditos mas tem apenas 10 segundos em tela (o resto é dublagem que você provavemente não assistirá nos cinemas brasileiros), Justice Smith, Kathryn Newton. E... Ken Watanabe? O que você tá fazendo aqui?"
 imdb: "5884052"
-img: "https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "2/5"
 ---

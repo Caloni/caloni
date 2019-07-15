@@ -1,6 +1,6 @@
 ---
 imdb: "0450405"
-img: "https://m.media-amazon.com/images/M/MV5BMTI1NDA1MTMwNl5BMl5BanBnXkFtZTcwNTg0MDE4Mg@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-06-20"
 categories: [ "movies" ]
 title: "Cirque du Freak O Aprendiz de Vampiro"

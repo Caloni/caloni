@@ -5,7 +5,7 @@ desc: "Shi gan (aka Time). Por Ki-duk Kim, com Jung-woo Ha, Ji-Yeon Park, Jun-ye
 imdb: "0497986"
 categories: [ "movies" ]
 stars: "4/5"
-img: "https://m.media-amazon.com/images/M/MV5BMTc2MDYwODEyN15BMl5BanBnXkFtZTcwMjI5NzQ5MQ@@._V1_.jpg"
+
 ---
 Você sempre sai de um filme do diretor coreano Kim-Ki Duk ([Fôlego](/movies/folego), [Pieta](/movies/pieta), [Primavera Verão Outono Inverno e Primavera](/movies/primavera-verao-outono-inverno-e-primavera),  [Tipo Ruim](/movies/tipo-ruim)) pensativo. É uma marca deste cineasta não fechar as pontas e abrir mais algumas. "Time" faz isso, e faz de uma maneira que dá pra se divertir no processo.
 

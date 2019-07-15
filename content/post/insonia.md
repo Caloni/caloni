@@ -1,6 +1,6 @@
 ---
 imdb: "0278504"
-img: "https://m.media-amazon.com/images/M/MV5BYzlkZTEyYjUtMTY5NS00ZjU0LTk5OTYtM2M0ZDg1NmNjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-04-02"
 categories: [ "movies" ]
 title: "Insônia"

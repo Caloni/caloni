@@ -1,6 +1,6 @@
 ---
 imdb: "0095705"
-img: "https://m.media-amazon.com/images/M/MV5BODk1ZWM4ZjItMjFhZi00MDMxLTgxNmYtODFhNWZlZTkwM2UwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-12-01"
 categories: [ "movies" ]
 title: "Corra que a Polícia Vem Aí!"

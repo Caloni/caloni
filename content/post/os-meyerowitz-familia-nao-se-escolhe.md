@@ -1,7 +1,7 @@
 ---
 date: 2018-01-31T23:40:19
 imdb: "5536736"
-img: "https://m.media-amazon.com/images/M/MV5BMTY1MTA1MjU4NV5BMl5BanBnXkFtZTgwMTAwMzE2MzI@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 title: "Os Meyerowitz: Família Não se Escolhe"

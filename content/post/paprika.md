@@ -1,6 +1,6 @@
 ---
 imdb: "0851578"
-img: "https://m.media-amazon.com/images/M/MV5BNDI4MGEwZDAtZDg0Yy00MjFhLTg1MjctODdmZTMyNTUyNDI3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-03-25"
 categories: [ "movies" ]
 title: "Paprika"

@@ -1,6 +1,6 @@
 ---
 imdb: "2636522"
-img: "https://m.media-amazon.com/images/M/MV5BNjY5ODU0MzU3Nl5BMl5BanBnXkFtZTcwNzk0OTgxOQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-11-30"
 categories: [ "movies" ]
 title: "The Unbelievers"

@@ -1,6 +1,6 @@
 ---
 imdb: "0107144"
-img: "https://m.media-amazon.com/images/M/MV5BZjU2ODlmZWMtODEwZS00NTQ0LTk1ZDYtYzk0ZjE3ZGZhMGM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2017-03-05"
 categories: [ "movies" ]
 title: "Top Gang 2! - A Missão"

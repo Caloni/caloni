@@ -3,7 +3,7 @@ date: 2018-09-30T22:13:19-03:00
 title: "Maniac"
 desc: "Maniac. EUA, 2018. Criado por Cary Joji Fukunaga e Patrick Somerville, dirigiro por Fukunaga. Com Jonah Hill, Emma Stone, Sonoya Mizuno."
 imdb: "5580146"
-img: "https://m.media-amazon.com/images/M/MV5BMDMwOTgyNzYtNWI2Zi00MDcwLWEyNmUtMGQ5YzA3ZTljMTA2XkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_SY150_CR1,0,101,150_.jpg"
+
 categories: [ "series" ]
 stars: "4/5"
 ---

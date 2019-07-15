@@ -1,6 +1,6 @@
 ---
 imdb: "1821641"
-img: "https://m.media-amazon.com/images/M/MV5BMjE5MTUzNDk3M15BMl5BanBnXkFtZTgwMTUwNTQ5MTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-01-04"
 categories: [ "movies" ]
 title: "O Congresso Futurista"

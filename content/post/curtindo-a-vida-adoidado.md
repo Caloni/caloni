@@ -1,6 +1,6 @@
 ---
 imdb: "0091042"
-img: "https://m.media-amazon.com/images/M/MV5BMDA0NjZhZWUtNmI2NC00MmFjLTgwZDYtYzVjZmNhMDVmOTBkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-04-02"
 categories: [ "movies" ]
 title: "Curtindo a Vida Adoidado"

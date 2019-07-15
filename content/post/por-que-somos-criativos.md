@@ -3,7 +3,7 @@ date: 2018-10-28T02:01:55-02:00
 title: "Por Que Somos Criativos"
 desc: " Why Are We Creative: The Centipede's Dilemma (Alemanha, 2018), dirigido por Hermann Vaske. Documentário. #mostrasp"
 imdb: "8804436"
-img: "https://m.media-amazon.com/images/M/MV5BYjY1MjQ5ZDItNGEyYi00NzJhLTgxMzctMjNhNTc5NjFhODg0XkEyXkFqcGdeQXVyNzYzODE5OTQ@._V1_SY150_CR2,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "2/5"
 external: "cinemaqui"

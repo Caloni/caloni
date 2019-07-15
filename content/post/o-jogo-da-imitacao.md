@@ -1,6 +1,6 @@
 ---
 imdb: "2084970"
-img: "https://m.media-amazon.com/images/M/MV5BOTgwMzFiMWYtZDhlNS00ODNkLWJiODAtZDVhNzgyNzJhYjQ4L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTYxNTQ@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-03-15"
 categories: [ "movies" ]
 title: "O Jogo da Imitação"

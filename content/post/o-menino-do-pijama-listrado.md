@@ -1,6 +1,6 @@
 ---
 imdb: "0914798"
-img: "https://m.media-amazon.com/images/M/MV5BMTMzMTc3MjA5NF5BMl5BanBnXkFtZTcwOTk3MDE5MQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-10-21"
 categories: [ "movies" ]
 title: "O Menino do Pijama Listrado"

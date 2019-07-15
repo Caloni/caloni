@@ -3,7 +3,7 @@ date: 2019-05-20T21:10:47-03:00
 title: "Aladdin"
 desc: "Aladdin. EUA, 1992. Dirigido por Ron Clements e John Musker. Escrito a partir de um pitch do compositor Howard Ashman de um musical; Ashman escreveu 40 páginas de um roteiro. Nós sabemos que Aladdin fez parte dos Contos da Mil e Uma Noites, apesar de não ter sido parte do texto em árabe original, pois foi adicionado posteriormente no século 19 pelo arqueologista Antoine Galland que adquiriu o conto do escritor e narrador sírio Hanna Diyab. O final da história é que os créditos de Alladin, da Disney, listam 20 pessoas, e entre elas nem constam os autores originais. O problema foi que o projeto foi sendo empurrado por seis anos porque a Disney estava mais interessada em terminar A Bela e A Fera e O Rei Leão. Com Scott Weinger, Robin Williams como O Gênio da Lâmpada e Linda Larkin."
 imdb: "0103639"
-img: "https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 ---

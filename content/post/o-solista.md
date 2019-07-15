@@ -1,6 +1,6 @@
 ---
 imdb: "0821642"
-img: "https://m.media-amazon.com/images/M/MV5BMjExODQ3MTI5Nl5BMl5BanBnXkFtZTcwMDEyMTQ5MQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-08-22"
 categories: [ "movies" ]
 title: "O Solista"

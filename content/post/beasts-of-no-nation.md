@@ -1,6 +1,6 @@
 ---
 imdb: "1365050"
-img: "https://m.media-amazon.com/images/M/MV5BMTYwMzMzMDI0NF5BMl5BanBnXkFtZTgwNDQ3NjI3NjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-03-11"
 categories: [ "movies" ]
 title: "Beasts of No Nation"

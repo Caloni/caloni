@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "3774114"
-img: "https://m.media-amazon.com/images/M/MV5BMTg2MzYzNzgzOF5BMl5BanBnXkFtZTgwOTg4NzQ4OTE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2016-11-02"
 categories: [ "movies" ]
 title: "Snowden"

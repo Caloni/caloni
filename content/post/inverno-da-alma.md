@@ -1,6 +1,6 @@
 ---
 imdb: "1399683"
-img: "https://m.media-amazon.com/images/M/MV5BMjA0OTM3MDMxNF5BMl5BanBnXkFtZTcwMDY1MjI0Mw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-01-30"
 categories: [ "movies" ]
 title: "Inverno da Alma"

@@ -1,6 +1,6 @@
 ---
 imdb: "1467273"
-img: "https://m.media-amazon.com/images/M/MV5BNzYwMzE1Nzc4M15BMl5BanBnXkFtZTcwNzg4OTEyMw@@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2012-02-15"
 categories: [ "movies" ]
 title: "La prima cosa bella"

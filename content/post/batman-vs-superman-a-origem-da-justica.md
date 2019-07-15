@@ -1,6 +1,6 @@
 ---
 imdb: "2975590"
-img: "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-04-02"
 categories: [ "movies" ]
 title: "Batman vs Superman: A Origem da Justiça"

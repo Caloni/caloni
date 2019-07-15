@@ -3,7 +3,7 @@ date: "2007-10-12"
 title: "A Linguagem de Programação C"
 desc: "The C Programming Language (2nd Edition, 1989, 288p). Por Brian Kernighan e Dennis Ritchie. Editora Campus"
 categories: [ "reading" ]
-img: "http://i.imgur.com/yZzTEsX.jpg"
+
 ---
 O clássico de Ritchie e Kernighan, criadores da linguagem C, não foi meu primeiro livro de programação. E nem deveria ser. Não o recomendo para iniciantes, pois é necessário possuir algun conhecimento e prática para realmente aproveitar os conceitos desse livro.
 

@@ -5,7 +5,7 @@ desc: "Dayereh. Irã, Itália, Suíça, 2000. Dirigido por Jafar Panahi, escrito
 imdb: "0255094"
 categories: [ "movies" ]
 stars: "5/5"
-img: "https://m.media-amazon.com/images/M/MV5BZGFhMWQ4ZTItY2FhMC00ZDJkLWIxNTgtODgyMzUwODUwYmM1XkEyXkFqcGdeQXVyNjkxOTM4ODY@._V1_.jpg"
+
 ---
 Uma sociedade realmente sexista existe no Irã e o diretor Jafar Panahi filma a opressão como um documentário em tempo real. É um plano-sequência com cortes. A transição de personagens apenas reforça a universalização da violência sistematizada contra as mulheres em mais um dia nessa sociedade que não tem como enxergar suas falhas assim como um peixe não enxerga a água em que vive.
 

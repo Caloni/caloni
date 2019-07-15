@@ -1,6 +1,6 @@
 ---
 imdb: "0071360"
-img: "https://m.media-amazon.com/images/M/MV5BYTQxYWJlYTgtMTk5MS00ZGFiLWI5MWItYjhkNjM3YmUyNjYxXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-11-16"
 categories: [ "movies" ]
 title: "A Conversação"

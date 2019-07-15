@@ -3,7 +3,7 @@ date: 2018-07-13T16:24:19-03:00
 title: "Ilha dos Cachorros"
 desc: "Isle of Dogs (Alemanha, EUA 2018), dirigido e escrito por Wes Anderson baseado na história de Roman Coppola, Jason Schwartzman, Kunichi Nomura, com Bryan Cranston, Koyu Rankin, Edward Norton, Bob Balaban, Bill Murray, Jeff Goldblum, Kunichi Nomura, Greta Gerwig, Frances McDormand, Scarlett Johansson, Harvey Keitel, F. Murray Abraham, Yoko Ono, Tilda Swinton, Ken Watanabe, Roman Coppola, Anjelica Huston."
 imdb: "5104604"
-img: "https://m.media-amazon.com/images/M/MV5BMTYyOTUwNjAxM15BMl5BanBnXkFtZTgwODcyMzE0NDM@._V1_SX101_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"

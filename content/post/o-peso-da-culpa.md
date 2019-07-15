@@ -1,6 +1,6 @@
 ---
 imdb: "2069985"
-img: "https://m.media-amazon.com/images/M/MV5BMTc5MzA0MjU3Nl5BMl5BanBnXkFtZTcwNDA3OTk2Nw@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2012-10-28"
 categories: [ "movies" ]
 title: "O Peso da Culpa"

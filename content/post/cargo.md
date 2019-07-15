@@ -1,6 +1,6 @@
 ---
 imdb: "0381940"
-img: "https://m.media-amazon.com/images/M/MV5BNzUyOTgwMTA0MV5BMl5BanBnXkFtZTcwNTMwOTYyMw@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2010-11-01"
 categories: [ "movies" ]
 title: "Cargo"

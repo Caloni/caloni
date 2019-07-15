@@ -1,6 +1,6 @@
 ---
 imdb: "1837492"
-img: "https://m.media-amazon.com/images/M/MV5BNDgwNDU2MjgwMl5BMl5BanBnXkFtZTgwMTE2NzQ0NTM@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-12-07T01:12:59
 categories: [ "series" ]
 title: "13 Reasons Why"

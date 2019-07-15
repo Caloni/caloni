@@ -3,7 +3,7 @@ date: 2018-05-28T19:43:06-03:00
 title: "Mob Psycho 100"
 categories: [ "series" ]
 imdb: "5897304"
-img: "https://m.media-amazon.com/images/M/MV5BMDgyYjI4MDQtNmM5Mi00NjAwLWFkZjYtZjE1YzZjM2U1NjUwXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_SY150_CR0,0,101,150_.jpg"
+
 stars: "3/5"
 desc: "Mob Psycho 100. Teleplay por Kei Kunii e Reiko Yoshida baseados no mangá de One. Com Tatsuomi Hamada, Atsushi Arai, Masayuki Deai."
 ---

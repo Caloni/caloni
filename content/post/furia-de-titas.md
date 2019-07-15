@@ -1,6 +1,6 @@
 ---
 imdb: "0800320"
-img: "https://m.media-amazon.com/images/M/MV5BMTYxNjg4MzU5OV5BMl5BanBnXkFtZTcwOTA3NTUwMw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-05-21"
 categories: [ "movies" ]
 title: "Fúria de Titãs"

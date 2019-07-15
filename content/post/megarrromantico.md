@@ -3,7 +3,7 @@ date: 2019-03-10T23:45:35-03:00
 title: "Megarrromântico"
 desc: "Isn't It Romantic. EUA, 2019. Dirigido por Todd Strauss-Schulson. Escrito por Erin Cardillo, Dana Fox, Katie Silberman. Com Rebel Wilson, Liam Hemsworth, Adam Devine. Assisti na Netflix e quase me arrependi. Não, me arrependi."
 imdb: "2452244"
-img: "https://m.media-amazon.com/images/M/MV5BZGE1NGYxOWItODdmMy00NWNhLTgxZmMtYmVjYmViMGI0NTdmXkEyXkFqcGdeQXVyNzE2MTQyMzM@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "2/5"
 ---

@@ -3,7 +3,7 @@ date: 2019-05-06T21:12:58-03:00
 title: "Edifício Master"
 desc: "Edifício Master. Brasil, 2002. De Eduardo Coutinho com Fernando José."
 imdb: "0333388"
-img: "https://m.media-amazon.com/images/M/MV5BMjdkNzEwZDUtM2MyMS00N2QwLTk3MTAtMGVkZDY3Y2Y5ZmEwXkEyXkFqcGdeQXVyMTU2ODc4ODQ@._V1_SY150_CR2,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 ---

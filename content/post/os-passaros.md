@@ -1,6 +1,6 @@
 ---
 imdb: "0056869"
-img: "https://m.media-amazon.com/images/M/MV5BMTAxNDA1ODc5MDleQTJeQWpwZ15BbWU4MDg2MDA4OTEx._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-12-20"
 categories: [ "movies" ]
 title: "Os Pássaros"

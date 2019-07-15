@@ -3,7 +3,7 @@ date: 2018-05-24T22:41:19-03:00
 title: "The Room"
 categories: [ "movies" ]
 imdb: "0368226"
-img: "https://m.media-amazon.com/images/M/MV5BYjEzN2FlYmYtNDkwMC00NGFkLWE5ODctYmE5NmYxNzE2MmRiXkEyXkFqcGdeQXVyMjMwODc5Mw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 stars: "1/5"
 desc: "The Room. EUA, 2003. Escrito, produzido, dirigido e estrelado por Tommy Wiseau. Também com Greg Sestero e Juliette Danielle."
 ---

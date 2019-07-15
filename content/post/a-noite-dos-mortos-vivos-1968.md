@@ -1,6 +1,6 @@
 ---
 imdb: "0063350"
-img: "https://m.media-amazon.com/images/M/MV5BMjRjZjE3OGUtYzIyYy00NGRkLTliYTUtYmI1ZjQ3YmZjYTZiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-05-07"
 categories: [ "movies" ]
 title: "A Noite dos Mortos-Vivos"

@@ -3,7 +3,7 @@ date: 2019-02-10T18:31:19-02:00
 title: "Tomates Verdes Fritos"
 desc: "Fried Green Tomatoes. EUA, 1991. Escrito por Carol Sobieski e Fannie Flagg baseada em seu próprio romance. Dirigido por Jon Avnet. Com Kathy Bates, Jessica Tandy, Mary Stuart Masterson, Mary-Louise Parker."
 imdb: "0101921"
-img: "https://m.media-amazon.com/images/M/MV5BOWQ1ZWE0MTQtMmEwOS00YjA3LTgyZTAtNjY5ODEyZTJjNDI2XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 ---

@@ -1,6 +1,6 @@
 ---
 imdb: "0357413"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ2MzYwMzk5Ml5BMl5BanBnXkFtZTcwOTI4NzUyMw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-05-08"
 categories: [ "movies" ]
 title: "O Âncora A Lenda de Ron Burgundy"

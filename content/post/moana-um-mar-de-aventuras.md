@@ -1,6 +1,6 @@
 ---
 imdb: "3521164"
-img: "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-01-07"
 categories: [ "movies" ]
 title: "Moana: Um Mar de Aventuras"

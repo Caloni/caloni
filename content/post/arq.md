@@ -1,6 +1,6 @@
 ---
 imdb: "5640450"
-img: "https://m.media-amazon.com/images/M/MV5BMjAxODQ2MzkyMV5BMl5BanBnXkFtZTgwNjU3MTE5OTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-04-01"
 categories: [ "movies" ]
 title: "ARQ"

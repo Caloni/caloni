@@ -1,6 +1,6 @@
 ---
 imdb: "1194577"
-img: "https://m.media-amazon.com/images/M/MV5BYzM3Yzk2MmItNmExMy00MWQxLWJmYjUtY2RkN2QxZDVkODgxXkEyXkFqcGdeQXVyNjAwOTM4MDE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-03-11"
 categories: [ "movies" ]
 title: "Atrás da Porta"

@@ -1,6 +1,6 @@
 ---
 imdb: "2625598"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ2NzEwNzkzM15BMl5BanBnXkFtZTgwNjYzNjcwMDE@._V1_SY150_CR6,0,101,150_.jpg"
+
 date: "2015-09-20"
 categories: [ "movies" ]
 title: "Living on One Dollar"

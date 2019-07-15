@@ -1,6 +1,6 @@
 ---
 imdb: "0054698"
-img: "https://m.media-amazon.com/images/M/MV5BNGEwMTRmZTQtMDY4Ni00MTliLTk5ZmMtOWMxYWMyMTllMDg0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-11-29"
 categories: [ "movies" ]
 title: "Bonequinha de Luxo"

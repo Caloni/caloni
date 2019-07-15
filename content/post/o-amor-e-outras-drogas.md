@@ -1,6 +1,6 @@
 ---
 imdb: "0758752"
-img: "https://m.media-amazon.com/images/M/MV5BMTgxOTczODEyMF5BMl5BanBnXkFtZTcwMDc0NDY4Mw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-02-05"
 categories: [ "movies" ]
 title: "Amor e Outras Drogas"

@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "6304046"
-img: "https://m.media-amazon.com/images/M/MV5BMjk0NjI2MjM1NF5BMl5BanBnXkFtZTgwODc2NjU0MzI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-11-16T01:06:11
 categories: [ "movies" ]
 title: "Thelma"

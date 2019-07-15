@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "4746484"
-img: "https://m.media-amazon.com/images/M/MV5BNzQ1MTg2ODkxMV5BMl5BanBnXkFtZTgwNjI3OTE4MjI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-11-21"
 categories: [ "movies" ]
 title: "A Economia do Amor"

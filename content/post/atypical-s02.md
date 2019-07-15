@@ -1,7 +1,7 @@
 ---
 date: 2018-11-17T18:13:24-02:00
 imdb: "6315640"
-img: "https://m.media-amazon.com/images/M/MV5BMTcyNzk3MzM2OF5BMl5BanBnXkFtZTgwODcwMzYxNjM@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "series" ]
 title: "Atypical - Segunda Temporada"
 stars: "3/5"

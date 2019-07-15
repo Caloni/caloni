@@ -3,7 +3,7 @@ date: 2019-01-12T12:24:10-02:00
 title: "Homem-Aranha no Aranhaverso"
 desc: "Spider-Man: Into the Spider-Verse. EUA, 2018. Escrito por Phil Lord, Rodney Rothman e infinitos personagens de universos paralelos de vários criadores. Dirigido por Bob Persichetti, Peter Ramsey e Rodney Rothman (três diretores? sério? de universos diferentes?). Com as vozes de Shameik Moore como Miles Morales, Chris Pine como Peter Parker, Hailee Steinfeld como Gwen Stacy, Mahershala Ali como Tio Aaron, Lily Tomlin como Tia May, Kathryn Hahn como Doc Ock."
 imdb: "4633694"
-img: "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "5/5"
 ---

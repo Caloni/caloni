@@ -1,6 +1,6 @@
 ---
 imdb: "0245429"
-img: "https://m.media-amazon.com/images/M/MV5BOGJjNzZmMmUtMjljNC00ZjU5LWJiODQtZmEzZTU0MjBlNzgxL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-12-27"
 categories: [ "movies" ]
 title: "A Viagem de Chihiro"

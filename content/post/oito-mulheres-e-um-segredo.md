@@ -3,7 +3,7 @@ date: 2018-11-18T11:47:52-02:00
 title: "Oito Mulheres e Um Segredo"
 desc: "EUA, 2018. Escrito por Gary Ross e Olivia Milch baseado em história de Ross e personagens de George Clayton Johnson e Jack Golden Russel. Dirigido por Gary Ross. Com Sandra Bullock, Cate Blanchett, Anne Hathaway, Helena Bonham Carter, Mindy Kaling, Rihanna, Awkwafina, Sarah Paulson, Richard Armitage. Filmes de golpe."
 imdb: "5164214"
-img: "https://m.media-amazon.com/images/M/MV5BMjAyNDEyMzc4Ml5BMl5BanBnXkFtZTgwMjEzNjM0NTM@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 ---

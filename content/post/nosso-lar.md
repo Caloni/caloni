@@ -1,6 +1,6 @@
 ---
 imdb: "1467388"
-img: "https://m.media-amazon.com/images/M/MV5BMTgwMzk4MTEzNV5BMl5BanBnXkFtZTcwNjA4ODUwNw@@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2010-09-03"
 categories: [ "movies" ]
 title: "Nosso Lar"

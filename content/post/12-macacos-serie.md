@@ -1,6 +1,6 @@
 ---
 imdb: "3148266"
-img: "https://m.media-amazon.com/images/M/MV5BMTkwOTcxNzMzOV5BMl5BanBnXkFtZTgwODYxNjg0ODE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2017-03-29"
 categories: [ "series" ]
 title: "12 Macacos"

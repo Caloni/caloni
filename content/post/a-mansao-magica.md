@@ -1,6 +1,6 @@
 ---
 imdb: "3148834"
-img: "https://m.media-amazon.com/images/M/MV5BMTEzOTk1NjYyNjVeQTJeQWpwZ15BbWU4MDg5ODI2NTIx._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2014-12-30"
 categories: [ "movies" ]
 title: "A Mansão Mágica"

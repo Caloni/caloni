@@ -1,6 +1,6 @@
 ---
 imdb: "0449059"
-img: "https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-01-22"
 categories: [ "movies" ]
 title: "Pequena Miss Sunshine"

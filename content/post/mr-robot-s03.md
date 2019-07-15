@@ -1,7 +1,7 @@
 ---
 date: 2018-02-27T22:04:08
 imdb: "4158110"
-img: "https://m.media-amazon.com/images/M/MV5BMTYzMDE2MzI4MF5BMl5BanBnXkFtZTgwNTkxODgxOTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "series" ]
 stars: "5/5"
 title: "Mr Robot: Terceira Temporada"

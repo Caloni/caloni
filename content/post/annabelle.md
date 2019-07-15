@@ -1,6 +1,6 @@
 ---
 imdb: "3322940"
-img: "https://m.media-amazon.com/images/M/MV5BOTQwZmQyYzEtODk5ZC00OTY3LWExMjAtYzRjNWFhNGM3MzBlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-01-18"
 categories: [ "movies" ]
 title: "Annabelle"

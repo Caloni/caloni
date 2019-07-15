@@ -1,6 +1,6 @@
 ---
 imdb: "0268126"
-img: "https://m.media-amazon.com/images/M/MV5BZjIwZWU0ZDItNzBlNS00MDIwLWFlZjctZTJjODdjZWYxNzczL2ltYWdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-06-18"
 categories: [ "movies" ]
 title: "Adaptação"

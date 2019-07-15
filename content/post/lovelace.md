@@ -1,6 +1,6 @@
 ---
 imdb: "1426329"
-img: "https://m.media-amazon.com/images/M/MV5BOTM0Mzc2MjgyN15BMl5BanBnXkFtZTcwOTIzNDQ4OQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-09-18"
 categories: [ "movies" ]
 title: "Lovelace"

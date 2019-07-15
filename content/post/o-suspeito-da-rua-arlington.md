@@ -1,6 +1,6 @@
 ---
 imdb: "0137363"
-img: "https://m.media-amazon.com/images/M/MV5BMzg4NTYwMWItZmQzMC00MTM2LWFjN2ItOGM2YWNlMDRjMDQ5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-04-10"
 categories: [ "movies" ]
 title: "O Suspeito da Rua Arlington"

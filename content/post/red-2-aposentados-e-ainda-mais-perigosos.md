@@ -1,6 +1,6 @@
 ---
 imdb: "1821694"
-img: "https://m.media-amazon.com/images/M/MV5BMjI2ODQ4ODY3Nl5BMl5BanBnXkFtZTcwNTc2NzE1OQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-08-05"
 categories: [ "movies" ]
 title: "Red 2 Aposentados e Ainda Mais Perigosos"

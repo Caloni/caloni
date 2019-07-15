@@ -1,6 +1,6 @@
 ---
 imdb: "2551492"
-img: "https://m.media-amazon.com/images/M/MV5BMTgwMDM4MzMwMl5BMl5BanBnXkFtZTgwMzUyNzUxMTE@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2013-10-19"
 categories: [ "movies" ]
 title: "Wajma"

@@ -1,6 +1,6 @@
 ---
 imdb: "0364569"
-img: "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-07-22"
 categories: [ "movies" ]
 title: "Old Boy"

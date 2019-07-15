@@ -3,7 +3,7 @@ date: 2019-03-20T15:08:12-03:00
 title: "Quando Margot Encontra Margot"
 desc: "La belle et la belle (França, 2018), escrito e dirigido por Sophie Fillières, com Sandrine Kiberlain, Agathe Bonitzer, Melvil Poupaud."
 imdb: "6690176"
-img: "https://m.media-amazon.com/images/M/MV5BY2FmYTJmZjUtNjBhYy00NmE0LTljY2EtMDgzOGUxNDJjY2RhXkEyXkFqcGdeQXVyMTc5OTQwMzk@._V1_SY150_CR4,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"

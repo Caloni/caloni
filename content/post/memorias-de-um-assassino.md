@@ -1,6 +1,6 @@
 ---
 imdb: "0353969"
-img: "https://m.media-amazon.com/images/M/MV5BZWYyYTk5ODQtNjFjZi00ZDFlLWEwNGEtNGQwZTdmYWRhNmU3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-01-01"
 categories: [ "movies" ]
 title: "Memórias de um Assassino"

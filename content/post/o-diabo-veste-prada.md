@@ -1,6 +1,6 @@
 ---
 imdb: "0458352"
-img: "https://m.media-amazon.com/images/M/MV5BZjQ3ZTIzOTItMGNjNC00MWRmLWJlMGEtMjJmMDM5ZDIzZGM3XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-10-21T20:36:04
 categories: [ "movies" ]
 title: "O Diabo Veste Prada"

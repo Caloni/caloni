@@ -1,6 +1,6 @@
 ---
 imdb: "0080678"
-img: "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-12-01"
 categories: [ "movies" ]
 title: "O Homem Elefante"

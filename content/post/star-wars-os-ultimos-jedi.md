@@ -1,6 +1,6 @@
 ---
 imdb: "2527336"
-img: "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-12-14T21:49:10
 categories: [ "movies" ]
 title: "Star Wars: os Últimos Jedi"

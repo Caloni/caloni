@@ -1,6 +1,6 @@
 ---
 imdb: "0096438"
-img: "https://m.media-amazon.com/images/M/MV5BMDhiOTM2OTctODk3Ny00NWI4LThhZDgtNGQ4NjRiYjFkZGQzXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-01-19"
 categories: [ "movies" ]
 title: "Uma Cilada para Roger Rabbit"

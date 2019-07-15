@@ -1,6 +1,6 @@
 ---
 imdb: "2488496"
-img: "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2019-05-15"
 review: [ "2019" ]
 categories: [ "movies" ]

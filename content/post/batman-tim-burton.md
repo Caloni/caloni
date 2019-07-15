@@ -1,6 +1,6 @@
 ---
 imdb: "0096895"
-img: "https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-12-01"
 categories: [ "movies" ]
 title: "Batman de Tim Burton"

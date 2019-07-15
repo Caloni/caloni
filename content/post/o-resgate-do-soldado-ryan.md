@@ -1,7 +1,7 @@
 ---
 date: 2018-01-12T00:16:55
 imdb: "0120815"
-img: "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "5/5"
 title: "O Resgate do Soldado Ryan"

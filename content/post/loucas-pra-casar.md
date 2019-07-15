@@ -1,6 +1,6 @@
 ---
 imdb: "3948438"
-img: "https://m.media-amazon.com/images/M/MV5BZDdlNzkwMjMtMmM4YS00ZGViLThkOWItZTZhYzE4ZThmODk4XkEyXkFqcGdeQXVyNDA4NzUyMzg@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-01-04"
 categories: [ "movies" ]
 title: "Loucas pra Casar"

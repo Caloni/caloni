@@ -1,6 +1,6 @@
 ---
 imdb: "0014538"
-img: "https://m.media-amazon.com/images/M/MV5BMjI3OTEzODA4NF5BMl5BanBnXkFtZTgwODc0NDIwMjE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-09-18"
 categories: [ "movies" ]
 title: "As Três Idades"

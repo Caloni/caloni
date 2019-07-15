@@ -1,6 +1,6 @@
 ---
 imdb: "1255953"
-img: "https://m.media-amazon.com/images/M/MV5BZTViOTVkOTAtYzljZS00YjQyLTlhNDMtYTExMGE2YmYxMWE5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2011-09-28"
 categories: [ "movies" ]
 title: "Incêndios"

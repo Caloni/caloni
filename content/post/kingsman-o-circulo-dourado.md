@@ -1,7 +1,7 @@
 ---
 date: 2018-03-05T01:55:16
 imdb: "4649466"
-img: "https://m.media-amazon.com/images/M/MV5BMjQ3OTgzMzY4NF5BMl5BanBnXkFtZTgwOTc4OTQyMzI@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 title: "Kingsman: O Círculo Dourado"

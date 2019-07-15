@@ -1,6 +1,6 @@
 ---
 imdb: "4908644"
-img: "https://m.media-amazon.com/images/M/MV5BNTY4MDgwOTI3M15BMl5BanBnXkFtZTgwNjYxMjU3NjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-03-27"
 categories: [ "movies" ]
 title: "Winter on Fire"

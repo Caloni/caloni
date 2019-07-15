@@ -1,6 +1,6 @@
 ---
 imdb: "0266697"
-img: "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2010-09-09"
 categories: [ "movies" ]
 count: 2

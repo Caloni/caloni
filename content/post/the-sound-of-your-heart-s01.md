@@ -1,6 +1,6 @@
 ---
 imdb: "4613520"
-img: "https://m.media-amazon.com/images/M/MV5BOTNjMDIyMDktMDQwOS00OGU0LWI1ZjAtNTliOTZlNzA0MmMzXkEyXkFqcGdeQXVyMjgxMTM2OQ@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2017-04-16"
 categories: [ "series" ]
 title: "The Sound of Your Heart - Primeira Temporada"

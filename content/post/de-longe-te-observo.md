@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "4721400"
-img: "https://m.media-amazon.com/images/M/MV5BMTUxNzI0MjUyNV5BMl5BanBnXkFtZTgwODE1NzYwOTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-07-16"
 categories: [ "movies" ]
 title: "De Longe Te Observo"

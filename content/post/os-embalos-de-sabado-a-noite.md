@@ -1,6 +1,6 @@
 ---
 imdb: "0076666"
-img: "https://m.media-amazon.com/images/M/MV5BOWU0NjZhMWEtMWU2Zi00NTgwLWI1OTQtNDJlNDAyNzdlZjljXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-12-11"
 categories: [ "movies" ]
 title: "Os Embalos de Sábado à Noite"

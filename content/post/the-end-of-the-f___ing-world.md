@@ -1,7 +1,7 @@
 ---
 date: 2018-02-06T20:52:37
 imdb: "6257970"
-img: "https://m.media-amazon.com/images/M/MV5BMzhhMTczMDQtNWE0Yy00OTJiLTlmYjgtNWU1MmVkYTVlYWVhXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "series" ]
 stars: "3/5"
 title: "The End Of The F***ing World"

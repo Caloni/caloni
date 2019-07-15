@@ -1,6 +1,6 @@
 ---
 imdb: "0455760"
-img: "https://m.media-amazon.com/images/M/MV5BMjEyNDQwMTQ3OV5BMl5BanBnXkFtZTcwMTY5MzI0MQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-12-10"
 categories: [ "movies" ]
 title: "Gritos Mortais"

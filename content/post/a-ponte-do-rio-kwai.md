@@ -1,6 +1,6 @@
 ---
 imdb: "0050212"
-img: "https://m.media-amazon.com/images/M/MV5BNmMyNzI1MGEtNDkyZS00MmY2LWJlZmUtMjA1MzMwZjM3OWViXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY150_CR3,0,101,150_.jpg"
+
 date: "2016-07-18"
 categories: [ "movies" ]
 title: "A Ponte do Rio Kwai"

@@ -2,7 +2,7 @@
 external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/mulher-do-pai/"
 imdb: "6032376"
-img: "https://m.media-amazon.com/images/M/MV5BZjg0ODZjZjgtYzQ1My00ZTJlLWI2NjQtZWQ0MGFiZmFiODAwXkEyXkFqcGdeQXVyOTU3ODk4MQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-06-13"
 categories: [ "movies" ]
 title: "Mulher do Pai"

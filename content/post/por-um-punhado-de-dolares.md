@@ -1,6 +1,6 @@
 ---
 imdb: "0058461"
-img: "https://m.media-amazon.com/images/M/MV5BYjA1MGVlMGItNzgxMC00OWY4LWI4YjEtNTNmYWIzMGUxOGQzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2012-06-10"
 categories: [ "movies" ]
 title: "Por Um Punhado de Dólares"

@@ -1,6 +1,6 @@
 ---
 imdb: "1643222"
-img: "https://m.media-amazon.com/images/M/MV5BMTgxMDA3OTUwNF5BMl5BanBnXkFtZTgwNTEzMTg5MDE@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2012-10-25"
 categories: [ "movies" ]
 title: "Um Inferno"

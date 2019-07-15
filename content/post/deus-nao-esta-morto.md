@@ -1,6 +1,6 @@
 ---
 imdb: "2528814"
-img: "https://m.media-amazon.com/images/M/MV5BMjEwNDQ3MzYyOV5BMl5BanBnXkFtZTgwNDE0ODM3MDE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-09-28"
 categories: [ "movies" ]
 title: "Deus Não Está Morto"

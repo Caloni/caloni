@@ -3,7 +3,7 @@ date: 2019-01-18T11:46:42-02:00
 title: "Como Treinar Seu Dragão 3"
 desc: "How to Train Your Dragon: The Hidden World. Escrito e dirigido por Dean DeBlois baseado nos personagens de Cressida Cowell."
 imdb: "2386490"
-img: "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_SX101_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 ---

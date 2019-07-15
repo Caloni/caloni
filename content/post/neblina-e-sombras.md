@@ -3,7 +3,7 @@ date: 2019-02-15T22:20:45-02:00
 title: "Neblina e Sombras"
 desc: "Shadows and Fog é produção dos EUA de 1991 escrito e dirigido por Woody Allen em p&b. Com Allen, Mia Farrow, John Malkovich, Madonna, David Ogden Stiers, Jodie Foster, Kathy Bates, John Cusack."
 imdb: "0105378"
-img: "https://m.media-amazon.com/images/M/MV5BMTc2NzIwNzE4OV5BMl5BanBnXkFtZTcwNDM0NzI5NA@@._V1_SX101_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 ---

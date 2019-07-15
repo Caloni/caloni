@@ -1,6 +1,6 @@
 ---
 imdb: "0097523"
-img: "https://m.media-amazon.com/images/M/MV5BOTQ1NTg4MDAtOGU0OS00ZGQwLTliZjQtNDEzZjAzZGI5MjFjXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-01-16"
 categories: [ "movies" ]
 title: "Querida, Encolhi as Crianças"

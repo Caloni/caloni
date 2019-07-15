@@ -3,7 +3,7 @@ date: 2018-06-25T14:59:30-03:00
 title: "Morte Na Escadaria (Staircase)"
 desc: "Soupçons. França, 2004. Com Michael Peterson, David Rudolf, Ron Guerette."
 imdb: "0388644"
-img: "https://m.media-amazon.com/images/M/MV5BNTU4NTE3MDY4NF5BMl5BanBnXkFtZTgwODk4NjY1NTM@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "series" ]
 stars: "4/5"
 ---

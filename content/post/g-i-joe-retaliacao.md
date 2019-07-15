@@ -1,6 +1,6 @@
 ---
 imdb: "1583421"
-img: "https://m.media-amazon.com/images/M/MV5BNzk5ODM0OTQ0N15BMl5BanBnXkFtZTcwODg2ODE4OA@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-04-04"
 categories: [ "movies" ]
 title: "G.I. Joe Retaliação"

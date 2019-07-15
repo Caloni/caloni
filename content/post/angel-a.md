@@ -1,6 +1,6 @@
 ---
 imdb: "0473753"
-img: "https://m.media-amazon.com/images/M/MV5BZGMxOTMyYTktODNkZS00NmY5LWI0NmMtYWE4OGRiY2M2ZTA0XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2017-03-26"
 categories: [ "movies" ]
 title: "Angel-A"

@@ -1,6 +1,6 @@
 ---
 imdb: "0770828"
-img: "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-07-13"
 categories: [ "movies" ]
 title: "O Homem de Aço"

@@ -1,6 +1,6 @@
 ---
 imdb: "1920849"
-img: "https://m.media-amazon.com/images/M/MV5BZGQ1YjkyZGQtZDk0ZS00ZDgwLTlhYjgtNzQxNjkwMmQ0Mzk5XkEyXkFqcGdeQXVyMjA5MTIzMjQ@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-12-17"
 categories: [ "movies" ]
 title: "Quatro Amigas e um Casamento"

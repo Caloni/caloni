@@ -3,7 +3,7 @@ date: 2018-07-19T13:22:51-03:00
 title: "A Era da Inocência"
 desc: "L'âge des ténèbres (ou Days of Darknes em inglês). Escrito e dirigido por Denys Arcand. Com Marc Labrèche, Diane Kruger, Sylvie Léonard."
 imdb: "0819953"
-img: "https://m.media-amazon.com/images/M/MV5BNmI3MTI4ZTMtNThkNC00NGFkLWI1NTctYjhjZTQ5OWNhMmZmXkEyXkFqcGdeQXVyMjQzMjY4MjU@._V1_SY150_CR2,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 ---

@@ -1,6 +1,6 @@
 ---
 imdb: "1103153"
-img: "https://m.media-amazon.com/images/M/MV5BMTU0NDIwOTcwOV5BMl5BanBnXkFtZTcwNjU3NTQ0Mw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-08-27"
 categories: [ "movies" ]
 title: "Par Perfeito"

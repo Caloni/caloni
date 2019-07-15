@@ -1,6 +1,6 @@
 ---
 imdb: "0985694"
-img: "https://m.media-amazon.com/images/M/MV5BZWUxODc2NmItNThkNS00Mzc4LThlYTQtOTYwZjVhYjRiNmMwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-10-10"
 categories: [ "movies" ]
 title: "Machete"

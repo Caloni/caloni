@@ -1,6 +1,6 @@
 ---
 imdb: "2172584"
-img: "https://m.media-amazon.com/images/M/MV5BMTY3MjQwNzYyNV5BMl5BanBnXkFtZTgwNTY3NDQ5MzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-03-19"
 categories: [ "movies" ]
 title: "Mapas para as Estrelas"

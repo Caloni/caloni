@@ -1,6 +1,6 @@
 ---
 imdb: "0280760"
-img: "https://m.media-amazon.com/images/M/MV5BMTUwNTk2NjY0NF5BMl5BanBnXkFtZTcwMjQ3MTI0NA@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-09-10"
 categories: [ "movies" ]
 title: "A Estranha Famíllia de Igby"

@@ -3,7 +3,7 @@ date: 2018-11-09T22:46:12-02:00
 title: "A Casa Que Jack Construiu"
 desc: "The House That Jack Built. Dinamarca, França, Alemanha, Suécia, 2018. Escrito por Lars von Trier baseado na história de Jenle Hallund. Dirigido por von Trier. Com Matt Dillon, Bruno Ganz, Uma Thurman. Serial killer, violência, inferno de Dante, simbologia, niilismo."
 imdb: "4003440"
-img: "https://m.media-amazon.com/images/M/MV5BNDQ4Y2E5ODktODI5ZS00ZGVkLTgyZTEtNWY1ZjNiZTFjOTE3XkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 ---

@@ -1,6 +1,6 @@
 ---
 imdb: "2088962"
-img: "https://m.media-amazon.com/images/M/MV5BODdlZDg1YjYtZGNiOC00YzdkLThiNzctNWEwYjlkYmJjY2Q5XkEyXkFqcGdeQXVyMjYyNzc4MQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-03-15"
 categories: [ "movies" ]
 title: "De Coração Aberto"

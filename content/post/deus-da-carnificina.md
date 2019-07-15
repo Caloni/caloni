@@ -1,6 +1,6 @@
 ---
 imdb: "1692486"
-img: "https://m.media-amazon.com/images/M/MV5BMTc4MjAyMDUwNl5BMl5BanBnXkFtZTcwOTQwMDMwNw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-10-07"
 categories: [ "movies" ]
 title: "Deus da Carnificina"

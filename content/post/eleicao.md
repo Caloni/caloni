@@ -1,6 +1,6 @@
 ---
 imdb: "0126886"
-img: "https://m.media-amazon.com/images/M/MV5BYjViYWQ4NjAtZmUzNy00Nzg5LWJkMzctMTgwOTRhNjdjYWI3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-12-02"
 categories: [ "movies" ]
 title: "Eleição"

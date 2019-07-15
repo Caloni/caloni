@@ -1,6 +1,6 @@
 ---
 imdb: "0374546"
-img: "https://m.media-amazon.com/images/M/MV5BMTI0ODMwOTIxOV5BMl5BanBnXkFtZTcwMzE2NDUyMQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-12-20"
 categories: [ "movies" ]
 title: "Primavera Verão Outono Inverno e Primavera"

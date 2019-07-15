@@ -1,6 +1,6 @@
 ---
 imdb: "1424432"
-img: "https://m.media-amazon.com/images/M/MV5BMTc5MTUzOTAxMl5BMl5BanBnXkFtZTcwODQzMjg3NA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-11-26"
 categories: [ "movies" ]
 title: "Senna"

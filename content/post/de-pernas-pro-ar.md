@@ -1,6 +1,6 @@
 ---
 imdb: "1564916"
-img: "https://m.media-amazon.com/images/M/MV5BMTk3NzgxNzE3OV5BMl5BanBnXkFtZTcwMDI1Njc4NQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-12-30"
 categories: [ "movies" ]
 title: "De Pernas pro Ar"

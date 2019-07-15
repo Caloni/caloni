@@ -1,6 +1,6 @@
 ---
 imdb: "1588398"
-img: "https://m.media-amazon.com/images/M/MV5BMjI5OTk3Mjg4MV5BMl5BanBnXkFtZTcwNzQ2NTQxNw@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2012-04-07"
 categories: [ "movies" ]
 title: "Beleza Adormecida"

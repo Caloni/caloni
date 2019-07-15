@@ -1,6 +1,6 @@
 ---
 imdb: "1600524"
-img: "https://m.media-amazon.com/images/M/MV5BNTM4MTg1YzYtN2JlOC00N2Q3LTljNDQtN2U0ZjRmNmNjODg0XkEyXkFqcGdeQXVyMjA2MjkwNzE@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2011-11-20"
 categories: [ "movies" ]
 title: "Amores Imaginários"

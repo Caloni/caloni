@@ -1,6 +1,6 @@
 ---
 imdb: "3498820"
-img: "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-05-31"
 categories: [ "movies" ]
 title: "Capitão América: Guerra Civil"

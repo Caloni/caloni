@@ -1,6 +1,6 @@
 ---
 imdb: "0837562"
-img: "https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-02-22"
 categories: [ "movies" ]
 title: "Hotel Transilvânia"

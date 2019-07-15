@@ -1,6 +1,6 @@
 ---
 imdb: "3853452"
-img: "https://m.media-amazon.com/images/M/MV5BMjAzNzUwMTk4OV5BMl5BanBnXkFtZTgwOTE2MjAwNTE@._V1_SY150_CR4,0,101,150_.jpg"
+
 date: "2015-12-28"
 categories: [ "movies" ]
 title: "Assassination Classroom"

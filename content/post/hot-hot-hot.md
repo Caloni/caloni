@@ -1,6 +1,6 @@
 ---
 imdb: "1665412"
-img: "https://m.media-amazon.com/images/M/MV5BMjA2MjQ1NDM0OV5BMl5BanBnXkFtZTcwNDY5NTI1NQ@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2012-11-02"
 categories: [ "movies" ]
 title: "Hot Hot Hot"

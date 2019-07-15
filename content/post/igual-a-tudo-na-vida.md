@@ -1,6 +1,6 @@
 ---
 imdb: "0313792"
-img: "https://m.media-amazon.com/images/M/MV5BNjkyNjYyMzAzNV5BMl5BanBnXkFtZTYwMTMxNDU3._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-11-02"
 categories: [ "movies" ]
 title: "Igual a Tudo na Vida"

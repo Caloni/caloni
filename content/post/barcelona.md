@@ -3,7 +3,7 @@ date: 2019-05-18T21:37:16-03:00
 title: "Barcelona"
 desc: "Barcelona. EUA, 1994. Dirigido, escrito e produzido por Whit Stillman. Com Taylor Nichols, Chris Eigeman, Tushka Bergen, Mira Sorvino."
 imdb: "0109219"
-img: "https://m.media-amazon.com/images/M/MV5BNWU2YzE2YzctNDg1OS00ZDdhLWI3M2ItYWY1MzExZjlmOGM5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SY150_CR1,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 ---

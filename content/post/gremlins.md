@@ -1,6 +1,6 @@
 ---
 imdb: "0087363"
-img: "https://m.media-amazon.com/images/M/MV5BZDVjN2FkYTQtNTBlOC00MjM5LTgzMWEtZWRlNGUyYmNiOTFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-11-27"
 categories: [ "movies" ]
 title: "Gremlins"

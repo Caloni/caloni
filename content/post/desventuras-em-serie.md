@@ -1,6 +1,6 @@
 ---
 imdb: "0339291"
-img: "https://m.media-amazon.com/images/M/MV5BMjE3MDM4NTg0NV5BMl5BanBnXkFtZTcwNjI4MTczMw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-11-29"
 categories: [ "movies" ]
 title: "Desventuras em Série"

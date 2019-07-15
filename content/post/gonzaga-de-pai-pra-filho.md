@@ -1,6 +1,6 @@
 ---
 imdb: "2478746"
-img: "https://m.media-amazon.com/images/M/MV5BOTUyNzUyODk4MV5BMl5BanBnXkFtZTgwNzkyNzQ5NTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-12-02"
 categories: [ "movies" ]
 title: "Gonzaga De Pai pra Filho"

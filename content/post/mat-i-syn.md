@@ -1,6 +1,6 @@
 ---
 imdb: "0119711"
-img: "https://m.media-amazon.com/images/M/MV5BMTQwNTk4Nzk1MV5BMl5BanBnXkFtZTcwOTc0MDAyMQ@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2012-01-11"
 categories: [ "movies" ]
 title: "Mãe e Filho"

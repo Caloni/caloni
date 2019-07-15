@@ -1,6 +1,6 @@
 ---
 imdb: "2014338"
-img: "https://m.media-amazon.com/images/M/MV5BNjY4MTE5NTE1M15BMl5BanBnXkFtZTcwODA4MzEzOA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-10-21"
 categories: [ "movies" ]
 title: "Lado a Lado"

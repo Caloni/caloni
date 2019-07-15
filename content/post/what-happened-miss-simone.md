@@ -1,6 +1,6 @@
 ---
 imdb: "4284010"
-img: "https://m.media-amazon.com/images/M/MV5BZmY0ODI4NDgtNDE4Ni00ZTAzLTkwMzQtYmEwYjMxMWJhNTAzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-02-17"
 categories: [ "movies" ]
 title: "What Happened, Miss Simone?"

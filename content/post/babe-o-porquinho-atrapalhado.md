@@ -1,6 +1,6 @@
 ---
 imdb: "0112431"
-img: "https://m.media-amazon.com/images/M/MV5BYjg4ZjUzMzMtYzlmYi00YTcwLTlkOWUtYWFmY2RhNjliODQzXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-01-30"
 categories: [ "movies" ]
 title: "Babe O Porquinho Atrapalhado"

@@ -1,6 +1,6 @@
 ---
 imdb: "0439547"
-img: "https://m.media-amazon.com/images/M/MV5BZWQ2MzEwYjItMzk5OS00NjRlLTg0OTctNzAyNGI3NzY5YjQ3XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-03-25"
 categories: [ "movies" ]
 title: "2 Filhos De Francisco A História De Zezé Di Camargo e Luciano"

@@ -1,6 +1,6 @@
 ---
 imdb: "1219342"
-img: "https://m.media-amazon.com/images/M/MV5BMjE0NjA5OTA4N15BMl5BanBnXkFtZTcwODA3MTA3Mw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2010-08-08"
 categories: [ "movies" ]
 title: "A Lenda dos Guardiões"

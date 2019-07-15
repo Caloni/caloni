@@ -1,6 +1,6 @@
 ---
 imdb: "1498569"
-img: "https://m.media-amazon.com/images/M/MV5BMTg0OTk5MjY1NV5BMl5BanBnXkFtZTcwNjkzNjQ4NQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-11-29"
 categories: [ "movies" ]
 title: "Inquietos"

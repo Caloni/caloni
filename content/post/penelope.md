@@ -1,6 +1,6 @@
 ---
 imdb: "0472160"
-img: "https://m.media-amazon.com/images/M/MV5BNjM1M2Y3NWUtOWM1MS00YjUzLThiNmEtNjdiMTZmMzg3NTY3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2014-04-05"
 categories: [ "movies" ]
 title: "Penelope"

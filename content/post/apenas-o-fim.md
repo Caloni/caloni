@@ -1,6 +1,6 @@
 ---
 imdb: "1424746"
-img: "https://m.media-amazon.com/images/M/MV5BYmMwMWUzNzgtNjM0MC00ODAzLWFhZDItMDI4NmE5ODUyOGI3XkEyXkFqcGdeQXVyMjUyODM5MTQ@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-07-31"
 categories: [ "movies" ]
 title: "Apenas o Fim"

@@ -1,6 +1,6 @@
 ---
 imdb: "0204824"
-img: "https://m.media-amazon.com/images/M/MV5BMTUzMDMzMTgzOV5BMl5BanBnXkFtZTcwMjg5MDQyMQ@@._V1_SY150_CR5,0,101,150_.jpg"
+
 date: "2011-04-27"
 categories: [ "movies" ]
 title: "A Revolução dos Bichos"

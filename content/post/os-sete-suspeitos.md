@@ -1,6 +1,6 @@
 ---
 imdb: "0088930"
-img: "https://m.media-amazon.com/images/M/MV5BM2VlNTE1ZmMtOTAyNS00ODYwLWFmY2MtZWEzOTE2YjE1NDE2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-03-04"
 categories: [ "movies" ]
 title: "Os 7 Suspeitos"

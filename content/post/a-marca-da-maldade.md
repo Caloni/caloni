@@ -1,6 +1,6 @@
 ---
 imdb: "0052311"
-img: "https://m.media-amazon.com/images/M/MV5BOTA1MjA3M2EtMmJjZS00OWViLTkwMTEtM2E5ZDk0NTAyNGJiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-01-31"
 categories: [ "movies" ]
 title: "A Marca da Maldade"

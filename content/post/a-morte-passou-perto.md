@@ -1,6 +1,6 @@
 ---
 imdb: "0048254"
-img: "https://m.media-amazon.com/images/M/MV5BM2FiNjRlMWQtNDk0Ny00OTA0LWI0ZjEtNTM4NmZlZTllZDFlXkEyXkFqcGdeQXVyNjMxMzM3NDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-10-19"
 categories: [ "movies" ]
 title: "A Morte Passou Perto"

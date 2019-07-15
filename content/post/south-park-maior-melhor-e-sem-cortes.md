@@ -1,6 +1,6 @@
 ---
 imdb: "0158983"
-img: "https://m.media-amazon.com/images/M/MV5BOGE0ZWI0YzAtY2NkZi00YjkyLWIzYWEtNTJmMzJjODllNjdjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-11-02"
 categories: [ "movies" ]
 title: "South Park Maior Melhor e Sem Cortes"

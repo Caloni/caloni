@@ -3,7 +3,7 @@ date: 2019-03-29T18:18:05-03:00
 title: "Batman: O Cavaleiro Das Trevas"
 desc: "The Dark Knight. EUA, Reino Unido, 2008. Dirigido por Christopher Nolan, escrito por Jonathan e Christopher Nolan, além da história de David S. Goyer e personagens de Bob Kane. Com Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine, Maggie Gyllenhaal, Gary Oldman, Morgan Freeman, Cillian Murphy."
 imdb: "0468569"
-img: "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "5/5"
 ---

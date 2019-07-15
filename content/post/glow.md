@@ -1,6 +1,6 @@
 ---
 imdb: "5770786"
-img: "https://m.media-amazon.com/images/M/MV5BOTA0ODc1MzM3M15BMl5BanBnXkFtZTgwMDM3MTA3NTM@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-07-31T20:21:24
 categories: [ "series" ]
 title: "Glow"

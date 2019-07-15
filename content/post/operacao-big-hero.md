@@ -1,6 +1,6 @@
 ---
 imdb: "2245084"
-img: "https://m.media-amazon.com/images/M/MV5BMDliOTIzNmUtOTllOC00NDU3LWFiNjYtMGM0NDc1YTMxNjYxXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2014-12-31"
 categories: [ "movies" ]
 title: "Operação Big Hero"

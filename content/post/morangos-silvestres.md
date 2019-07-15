@@ -1,6 +1,6 @@
 ---
 imdb: "0050986"
-img: "https://m.media-amazon.com/images/M/MV5BM2NiYjhmMzctMzliMC00NDBlLWJkYzItZjIwYjYzNDg3OGQzXkEyXkFqcGdeQXVyMzAxNjg3MjQ@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-01-05"
 categories: [ "movies" ]
 title: "Morangos Silvestres"

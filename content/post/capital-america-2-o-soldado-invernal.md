@@ -1,6 +1,6 @@
 ---
 imdb: "1843866"
-img: "https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2014-04-27"
 categories: [ "movies" ]
 title: "Capitão América 2 O Soldado Invernal"

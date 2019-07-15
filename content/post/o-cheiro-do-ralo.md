@@ -1,6 +1,6 @@
 ---
 imdb: "0489458"
-img: "https://m.media-amazon.com/images/M/MV5BMTM4NjI0ODMzOF5BMl5BanBnXkFtZTcwMzk1OTQ2OA@@._V1_SY150_CR3,0,101,150_.jpg"
+
 date: "2014-05-31"
 categories: [ "movies" ]
 title: "O Cheiro do Ralo"

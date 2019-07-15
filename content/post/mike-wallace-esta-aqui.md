@@ -3,7 +3,7 @@ date: 2019-03-29T16:55:28-03:00
 title: "Mike Wallace Está Aqui"
 desc: "Mike Wallace Is Here (EUA, 2019), dirigido por Avi Belkin."
 imdb: "9353436"
-img: "https://m.media-amazon.com/images/M/MV5BNGEzMDYwZTItMzI1MS00ODc2LTlmYWQtZTk2NmFjYzlhODZjXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"

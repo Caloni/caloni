@@ -1,6 +1,6 @@
 ---
 imdb: "2180411"
-img: "https://m.media-amazon.com/images/M/MV5BMTY4MzQ4OTY3NF5BMl5BanBnXkFtZTgwNjM5MDI3MjE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-05-11"
 categories: [ "movies" ]
 title: "Caminhos da Floresta"

@@ -1,7 +1,7 @@
 ---
 date: 2018-01-14T16:23:49
 imdb: "1485796"
-img: "https://m.media-amazon.com/images/M/MV5BMjI1NDYzNzY2Ml5BMl5BanBnXkFtZTgwODQwODczNTM@._V1_SY150_CR1,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 title: "O Rei do Show"

@@ -1,6 +1,6 @@
 ---
 imdb: "0320691"
-img: "https://m.media-amazon.com/images/M/MV5BMTk1OTc2ZmUtODU0Yy00NGJiLWJmNmQtODI0MzBjODk3MjI4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-03-04"
 categories: [ "movies" ]
 title: "Anjos da Noite"

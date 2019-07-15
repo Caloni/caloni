@@ -1,6 +1,6 @@
 ---
 imdb: "1482459"
-img: "https://m.media-amazon.com/images/M/MV5BMTU1MTAwMjk1NF5BMl5BanBnXkFtZTcwMDI5NDc4Ng@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-04-02"
 categories: [ "movies" ]
 title: "O Lorax Em Busca da Trúfula Perdida"

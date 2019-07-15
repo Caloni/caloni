@@ -1,6 +1,6 @@
 ---
 imdb: "0458339"
-img: "https://m.media-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-08-09"
 categories: [ "movies" ]
 title: "Capitão América O Primeiro Vingador"

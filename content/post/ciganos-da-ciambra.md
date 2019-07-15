@@ -3,7 +3,7 @@ date: 2018-04-20T15:00:15-03:00
 title: "Ciganos da Ciambra"
 categories: [ "movies" ]
 imdb: "6802896"
-img: "https://m.media-amazon.com/images/M/MV5BNzNkZjA3ZWItNmE2ZS00MzM1LTllNTItMWM1MzkwYjViZDQ3XkEyXkFqcGdeQXVyMjY4MjAwNTM@._V1_SY150_CR5,0,101,150_.jpg"
+
 stars: "5/5"
 desc: "Ciambra (Itália, 2017), escrito e dirigido por Jonas Carpignano, com Pio Amato, Koudous Seihon, Damiano Amato."
 external: "cinemaqui"

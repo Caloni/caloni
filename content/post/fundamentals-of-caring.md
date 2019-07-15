@@ -1,6 +1,6 @@
 ---
 imdb: "2452386"
-img: "https://m.media-amazon.com/images/M/MV5BMTA1Mjc4ODI0NzReQTJeQWpwZ15BbWU4MDQ3MzAwMjkx._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-01-27"
 categories: [ "movies" ]
 title: "The Fundamentals of Caring"

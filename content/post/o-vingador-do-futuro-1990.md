@@ -1,6 +1,6 @@
 ---
 imdb: "0100802"
-img: "https://m.media-amazon.com/images/M/MV5BYzU1YmJjMGEtMjY4Yy00MTFlLWE3NTUtNzI3YjkwZTMxZjZmXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY150_SX101_.jpg"
+
 date: "2012-11-04"
 categories: [ "movies" ]
 title: "O Vingador do Futuro"

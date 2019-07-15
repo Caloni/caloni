@@ -1,6 +1,6 @@
 ---
 imdb: "0910559"
-img: "https://m.media-amazon.com/images/M/MV5BMTYyNzU2MjI5Ml5BMl5BanBnXkFtZTcwNjAzMjAzMg@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-10-29"
 review: [ "2014", "2019" ]
 categories: [ "movies" ]

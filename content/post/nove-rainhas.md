@@ -1,6 +1,6 @@
 ---
 imdb: "0247586"
-img: "https://m.media-amazon.com/images/M/MV5BMTYxMDdlYjItMDVkYy00MjYzLThhMTYtYjIzZjZiODk1ZWRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-11-18"
 categories: [ "movies" ]
 title: "Nove Rainhas"

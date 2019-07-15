@@ -1,6 +1,6 @@
 ---
 imdb: "4555426"
-img: "https://m.media-amazon.com/images/M/MV5BNTU4MjMwOTgyMV5BMl5BanBnXkFtZTgwODQzNjY2NDM@._V1_SY150_CR0,0,101,150_.jpg"
+
 details: "Darkest Hour (2017), escrito por Anthony McCarten, dirigido por Joe Wright, com Gary Oldman, Lily James, Kristin Scott Thomas."
 stars: "4/5"
 title: "O Destino de uma Nação"

@@ -1,6 +1,6 @@
 ---
 imdb: "1655441"
-img: "https://m.media-amazon.com/images/M/MV5BMTAzMTQzMTA2MjheQTJeQWpwZ15BbWU4MDk2MTg2MzUx._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-09-11"
 categories: [ "movies" ]
 title: "A Incrível História de Adaline"

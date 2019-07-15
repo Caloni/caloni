@@ -3,7 +3,7 @@ date: 2018-05-16T18:05:25-03:00
 title: "A Vida Extra-Ordinária de Tarso de Castro"
 categories: [ "movies" ]
 imdb: "8327798"
-img: "https://m.media-amazon.com/images/M/MV5BOGRkY2MwODgtN2UwNC00NWIxLTg3YzUtZGU5MDRmNzE4N2NlXkEyXkFqcGdeQXVyNDY0MjEzNTk@._V1_SY150_CR4,0,101,150_.jpg"
+
 stars: "3/5"
 desc: "A Vida Extra-Ordinária de Tarso De Castro (Brasil, 2017), escrito e dirigido por Leo Garcia e Zeca Brito, com João Vicente de Castro, Paulo Cesar Pereio, Caetano Veloso e outros."
 external: "cinemaqui"

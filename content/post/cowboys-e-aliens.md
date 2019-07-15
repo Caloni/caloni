@@ -1,6 +1,6 @@
 ---
 imdb: "0409847"
-img: "https://m.media-amazon.com/images/M/MV5BMTM1MzkyNzQ3OV5BMl5BanBnXkFtZTcwMDk1NTg2NQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-09-18"
 categories: [ "movies" ]
 title: "Cowboys e Aliens"

@@ -1,6 +1,6 @@
 ---
 imdb: "6397576"
-img: "https://m.media-amazon.com/images/M/MV5BMTNmOTBmYWUtYjZlNC00OWY3LWJkMTktNzY3ZjI4MDYyM2ExXkEyXkFqcGdeQXVyNTU2OTAxNjM@._V1_SY150_CR83,0,101,150_.jpg"
+
 date: "2017-03-08"
 categories: [ "series" ]
 title: "Abstract: The Art of Design"

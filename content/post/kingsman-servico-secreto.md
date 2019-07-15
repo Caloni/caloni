@@ -1,6 +1,6 @@
 ---
 imdb: "2802144"
-img: "https://m.media-amazon.com/images/M/MV5BMTkxMjgwMDM4Ml5BMl5BanBnXkFtZTgwMTk3NTIwNDE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-05-20"
 categories: [ "movies" ]
 title: "Kingsman: Serviço Secreto"

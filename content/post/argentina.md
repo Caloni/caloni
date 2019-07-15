@@ -2,7 +2,7 @@
 external: "cinemaqui"
 cinemaqui: "http://www.cinemaqui.com.br/argentina/"
 imdb: "4483460"
-img: "https://m.media-amazon.com/images/M/MV5BMTY5MDQ5ODQyMF5BMl5BanBnXkFtZTgwODgyODI2ODE@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2017-03-31"
 categories: [ "movies" ]
 title: "Argentina"

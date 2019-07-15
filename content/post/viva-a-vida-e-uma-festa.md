@@ -1,7 +1,7 @@
 ---
 date: 2018-02-20T02:01:20
 imdb: "2380307"
-img: "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SY150_CR2,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 title: "Viva: A Vida é uma Festa"

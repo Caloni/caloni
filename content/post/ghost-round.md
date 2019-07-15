@@ -1,6 +1,6 @@
 ---
 imdb: "1097194"
-img: "https://m.media-amazon.com/images/M/MV5BODUwZjE3YmEtMjJmNS00ZTBhLWEzYzQtMWJkMThmNjFkNDI0XkEyXkFqcGdeQXVyMTk2MDc1MjQ@._V1_SY150_CR18,0,101,150_.jpg"
+
 date: "2016-10-23"
 categories: [ "series" ]
 title: "Ghost Hound"

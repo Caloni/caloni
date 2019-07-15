@@ -1,6 +1,6 @@
 ---
 imdb: "1415283"
-img: "https://m.media-amazon.com/images/M/MV5BMTI5NDUxNDU4OF5BMl5BanBnXkFtZTcwNDk1NjM1Mw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-09-03"
 categories: [ "movies" ]
 title: "Nanny McPhee e as Lições Mágicas"

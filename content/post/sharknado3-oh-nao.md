@@ -3,7 +3,7 @@ date: 2018-03-18T21:55:28-03:00
 title: "Sharknado 3"
 categories: [ "movies" ]
 imdb: "3899796"
-img: "https://m.media-amazon.com/images/M/MV5BMTc5MDUzNzQzOF5BMl5BanBnXkFtZTgwMDg4NTYzNTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 stars: "1/5"
 desc: "Sharknado 3: Oh Hell No!"
 ---

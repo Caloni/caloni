@@ -1,6 +1,6 @@
 ---
 imdb: "0490086"
-img: "https://m.media-amazon.com/images/M/MV5BYzRkZGJmMWEtZDQwZC00ZjkzLWE3YjgtZmY1ZDhjNDUzOTdiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2010-04-04"
 categories: [ "movies" ]
 title: "Big Stan Arrebentando na Prisão"

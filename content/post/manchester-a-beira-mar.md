@@ -1,6 +1,6 @@
 ---
 imdb: "4034228"
-img: "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-02-13"
 categories: [ "movies" ]
 title: "Manchester À Beira-Mar"

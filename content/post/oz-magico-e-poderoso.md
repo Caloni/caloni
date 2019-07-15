@@ -1,6 +1,6 @@
 ---
 imdb: "1623205"
-img: "https://m.media-amazon.com/images/M/MV5BMjMyMzQ1ODM1MF5BMl5BanBnXkFtZTcwMjE2MTQxOQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-03-14"
 categories: [ "movies" ]
 title: "Oz Mágico e Poderoso"

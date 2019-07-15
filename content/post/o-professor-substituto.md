@@ -3,7 +3,7 @@ date: 2019-07-11T18:39:40-03:00
 title: "O Professor Substituto"
 imdb: "7175992"
 desc: "School's Out. France, 2018. Dirigido por Sébastien Marnier, escrito por Christophe Dufossé, Elise Griffon, Sébastien Marnier. Com Laurent Lafitte, Emmanuelle Bercot, Luàna Bajrami."
-img: "https://m.media-amazon.com/images/M/MV5BNWFjYWQ5ODYtZTUwOS00NzQwLTgxY2YtMmUxMTU0NzVhMTBjXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"

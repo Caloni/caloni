@@ -1,6 +1,6 @@
 ---
 imdb: "0182576"
-img: "https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_SY150_CR6,0,101,150_.jpg"
+
 date: "2015-07-28"
 categories: [ "series" ]
 title: "Family Guy"

@@ -1,6 +1,6 @@
 ---
 imdb: "1028528"
-img: "https://m.media-amazon.com/images/M/MV5BYTdmZmY3Y2QtNjU5NC00OGUxLTg3MWQtMmE2ODM5Mzg3MzcyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2010-07-16"
 categories: [ "movies" ]
 title: "À Prova de Morte"

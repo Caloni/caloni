@@ -1,6 +1,6 @@
 ---
 imdb: "0099785"
-img: "https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-10-13"
 categories: [ "movies" ]
 title: "Esqueceram de Mim"

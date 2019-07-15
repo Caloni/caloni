@@ -1,6 +1,6 @@
 ---
 imdb: "3168230"
-img: "https://m.media-amazon.com/images/M/MV5BMTg5MjE0Njk0MF5BMl5BanBnXkFtZTgwNTgwMjQ4NTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-12-27"
 categories: [ "movies" ]
 title: "Mr. Holmes"

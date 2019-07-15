@@ -1,6 +1,6 @@
 ---
 imdb: "1790885"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ4OTUyNzcwN15BMl5BanBnXkFtZTcwMTQ1NDE3OA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-02-21"
 categories: [ "movies" ]
 title: "A Hora Mais Escura"

@@ -1,6 +1,6 @@
 ---
 imdb: "0898367"
-img: "https://m.media-amazon.com/images/M/MV5BMTAwNzk4NTU3NDReQTJeQWpwZ15BbWU3MDg3OTEyODI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-12-31"
 categories: [ "movies" ]
 title: "A Estrada"

@@ -1,6 +1,6 @@
 ---
 imdb: "1452628"
-img: "https://m.media-amazon.com/images/M/MV5BMTQxMTU4NDg5OF5BMl5BanBnXkFtZTcwMzU5OTcxNA@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-03-14"
 categories: [ "movies" ]
 title: "Mistério da Rua 7"

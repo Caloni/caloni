@@ -1,6 +1,6 @@
 ---
 imdb: "1288558"
-img: "https://m.media-amazon.com/images/M/MV5BNTQ3OTkwNTgyN15BMl5BanBnXkFtZTcwNTAzOTAzOQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2013-05-09"
 categories: [ "movies" ]
 title: "A Morte do Demônio"

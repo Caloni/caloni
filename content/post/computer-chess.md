@@ -1,6 +1,6 @@
 ---
 imdb: "2007360"
-img: "https://m.media-amazon.com/images/M/MV5BNTIzNzA0MDE1Nl5BMl5BanBnXkFtZTcwMDIxMDY2OQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-06-06"
 categories: [ "movies" ]
 title: "Computer Chess"

@@ -1,6 +1,6 @@
 ---
 imdb: "2379713"
-img: "https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-11-14"
 categories: [ "movies" ]
 title: "007 Contra Spectre"

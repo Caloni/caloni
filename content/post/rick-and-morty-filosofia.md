@@ -1,6 +1,6 @@
 ---
 imdb: "2861424"
-img: "https://m.media-amazon.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: 2017-10-21T21:16:24
 categories: [ "series" ]
 title: "A Filosofia de Rick And Morty: Primeira Temporada (anotações)"

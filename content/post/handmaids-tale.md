@@ -3,7 +3,7 @@ date: 2018-04-15T21:12:02-03:00
 title: "The Handmaid's Tale (O Conto da Aia)"
 categories: [ "series" ]
 imdb: "5834204"
-img: "https://m.media-amazon.com/images/M/MV5BMTU0MTI0MDAyM15BMl5BanBnXkFtZTgwMDg5MzYyNTM@._V1_SY150_CR1,0,101,150_.jpg"
+
 stars: "4/5"
 desc: "Handmaid's Tale. EUA, 2017. Criado por Bruce Miller. Dirigido por Mike Barker, Kari Skogland, Reed Morano, Kate Dennis, Floria Sigismondi. Com Elisabeth Moss, Yvonne Strahovski, Max Minghella."
 ---

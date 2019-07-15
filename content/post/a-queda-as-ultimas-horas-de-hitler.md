@@ -1,6 +1,6 @@
 ---
 imdb: "0363163"
-img: "https://m.media-amazon.com/images/M/MV5BZDFmNzI3YmItMTMyMy00YjE1LTliYTgtN2Q4M2QzZDE5MTlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-06-12"
 categories: [ "movies" ]
 title: "A Queda! As Últimas Horas de Hitler"

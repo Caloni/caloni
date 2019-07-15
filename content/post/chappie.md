@@ -1,6 +1,6 @@
 ---
 imdb: "1823672"
-img: "https://m.media-amazon.com/images/M/MV5BMTUyNTI4NTIwNl5BMl5BanBnXkFtZTgwMjQ4MTI0NDE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-05-26"
 categories: [ "movies" ]
 title: "Chappie"

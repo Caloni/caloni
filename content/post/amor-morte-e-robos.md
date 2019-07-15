@@ -3,10 +3,10 @@ date: 2019-06-09T12:08:39-03:00
 title: "Amor, Morte & Robôs"
 desc: "Love, Death & Robots. EUA, 2019. Criado por Tim Miller, produzida por Joshua Donen, David Fincher, Jennifer Miller, and Tim Miller. Com Scott Whyte, Nolan North, Matthew Yang King e muitos outros.  Escrito por Philip Gelatt, John Scalzi, Alastair Reynolds, Claudine Griggs, Peter F. Hamilton, Marko Kloos, Joe R. Lansdale, Alberto Mielgo, Janis Robertson. Dirigido por Víctor Maldonado, Alfredo Torres, Gabriele Pennacchioli, Franck Balson, Dominique Boidin, Léon Bérelle, Jerome Chen, Rémi Kozyra, Maxime Luère, Alberto Mielgo, Tim Miller, Damian Nenow, Javier Recio Gracia, Vitaliy Shushko, Owen Sullivan, Oliver Thomas, Robert Valley, Dave Wilson, Jon Yeo, István Zorkóczy."
 imdb: "9561862"
-img: "https://m.media-amazon.com/images/M/MV5BMTc1MjIyNDI3Nl5BMl5BanBnXkFtZTgwMjQ1OTI0NzM@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "series" ]
 stars: "4/5"
-img: "https://m.media-amazon.com/images/M/MV5BMTc1MjIyNDI3Nl5BMl5BanBnXkFtZTgwMjQ1OTI0NzM@._V1_SY150_CR0,0,101,150_.jpg"
+
 ---
 Love, Death + Robots é aquela série de animação que faz nós, nerds da primeira geração de vídeo games, com seus quadrados e retângulos de 16 cores que viram exploradores na selva (Pitfail, estou olhando para você) vibrarem como aquele personagem de Detona Ralph vibrou quando viu quanta resolução havia no rosto de sua amada.
 

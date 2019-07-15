@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "4621872"
-img: "https://m.media-amazon.com/images/M/MV5BOTM0NzhlNjMtZWEzMS00ZTY0LWIxNjMtMjZlYjdhODBkMTVkXkEyXkFqcGdeQXVyMTQwMjkwNjI@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2016-08-17"
 categories: [ "movies" ]
 title: "Loucas de Alegria"

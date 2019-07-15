@@ -1,6 +1,6 @@
 ---
 imdb: "0029583"
-img: "https://m.media-amazon.com/images/M/MV5BMTQwMzE2Mzc4M15BMl5BanBnXkFtZTcwMTE4NTc1Nw@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2012-07-20"
 categories: [ "movies" ]
 title: "Branca de Neve e os Sete Anões"

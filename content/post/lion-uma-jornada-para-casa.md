@@ -1,6 +1,6 @@
 ---
 imdb: "3741834"
-img: "https://m.media-amazon.com/images/M/MV5BMjA3NjkzNjg2MF5BMl5BanBnXkFtZTgwMDkyMzgzMDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-02-17"
 categories: [ "movies" ]
 title: "Lion: Uma Jornada Para Casa"

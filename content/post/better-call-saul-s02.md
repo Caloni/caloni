@@ -1,6 +1,6 @@
 ---
 imdb: "3032476"
-img: "https://m.media-amazon.com/images/M/MV5BMTAxOTQ0MjUzMzJeQTJeQWpwZ15BbWU4MDY0NTAxNzMx._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-04-22"
 categories: [ "series" ]
 title: "Better Call Saul - Segunda Temporada"

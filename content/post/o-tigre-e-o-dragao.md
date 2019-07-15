@@ -1,6 +1,6 @@
 ---
 imdb: "0190332"
-img: "https://m.media-amazon.com/images/M/MV5BNDdhMzMxOTctNDMyNS00NTZmLTljNWEtNTc4MDBmZTYxY2NmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-03-15"
 categories: [ "movies" ]
 title: "O Tigre e o Dragão"

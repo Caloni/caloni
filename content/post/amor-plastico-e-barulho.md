@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "2650414"
-img: "https://m.media-amazon.com/images/M/MV5BMTczMzA0NzQ1NF5BMl5BanBnXkFtZTgwMDQ3Nzg1NjE@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2015-01-08"
 categories: [ "movies" ]
 title: "Amor, Plástico e Barulho"

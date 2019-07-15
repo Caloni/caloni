@@ -1,6 +1,6 @@
 ---
 imdb: "1571222"
-img: "https://m.media-amazon.com/images/M/MV5BMTU5Mjk3NjgxMl5BMl5BanBnXkFtZTcwMDM5MjA5Ng@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-10-02"
 categories: [ "movies" ]
 title: "Um Método Perigoso"

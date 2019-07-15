@@ -1,6 +1,6 @@
 ---
 imdb: "0048545"
-img: "https://m.media-amazon.com/images/M/MV5BMjMwNWIwYzAtMWVhZi00YzQ2LTlmNGYtOTg3NDdkNTRjOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2016-01-30"
 categories: [ "movies" ]
 title: "Juventude Transviada"

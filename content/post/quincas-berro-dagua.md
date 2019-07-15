@@ -1,6 +1,6 @@
 ---
 imdb: "1068962"
-img: "https://m.media-amazon.com/images/M/MV5BZjUxMTQ1MzktMWJkOS00NjFkLTljZTQtMjNhMGQwNjI2YjY1XkEyXkFqcGdeQXVyMTU2ODc4ODQ@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2010-05-21"
 categories: [ "movies" ]
 title: "Quincas Berro d'Água"

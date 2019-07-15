@@ -1,6 +1,6 @@
 ---
 imdb: "2156927"
-img: "https://m.media-amazon.com/images/M/MV5BOTUzOWZjZGYtM2QxNC00Y2JjLTlkMjItZTE1MTA4MzFmMTJkXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2013-02-04"
 categories: [ "movies" ]
 title: "País do Desejo"

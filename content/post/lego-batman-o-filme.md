@@ -1,6 +1,6 @@
 ---
 imdb: "4116284"
-img: "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-02-12"
 categories: [ "movies" ]
 title: "LEGO Batman: O Filme"

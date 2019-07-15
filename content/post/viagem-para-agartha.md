@@ -1,6 +1,6 @@
 ---
 imdb: "1839494"
-img: "https://m.media-amazon.com/images/M/MV5BMzZmZTQ4YjMtODgxYS00NDBlLTgyYWYtNWFkNjVhZGUyODRlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2016-08-05"
 categories: [ "movies" ]
 title: "Viagem Para Agartha"

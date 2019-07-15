@@ -1,6 +1,6 @@
 ---
 imdb: "0362270"
-img: "https://m.media-amazon.com/images/M/MV5BMTYzODYzNzg2MF5BMl5BanBnXkFtZTcwMTkzOTQzMw@@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2016-01-09"
 categories: [ "movies" ]
 title: "A Vida Marinha com Steve Zissou"

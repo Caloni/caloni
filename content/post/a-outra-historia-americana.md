@@ -1,6 +1,6 @@
 ---
 imdb: "0120586"
-img: "https://m.media-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-02-26"
 categories: [ "movies" ]
 title: "A Outra História Americana"

@@ -1,6 +1,6 @@
 ---
 imdb: "2200144"
-img: "https://m.media-amazon.com/images/M/MV5BMjM1MDg1NTY4N15BMl5BanBnXkFtZTgwOTczNTcwMTE@._V1_SY150_CR4,0,101,150_.jpg"
+
 date: "2016-03-13"
 categories: [ "movies" ]
 title: "Demi-soeur"

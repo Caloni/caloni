@@ -3,7 +3,7 @@ date: 2019-05-05T14:38:22-03:00
 title: "Os 27 Beijos Perdidos"
 desc: "27 Missing Kisses. Alemanha, Georgia, Reino Unido, França, 2000. Dirigido por Nana Dzhordzhadze, escrito por Dzhordzhadze e Irakli Kvirikadze. Com Nutsa Kukhianidze, Evgeniy Sidikhin, Shalva Iashvili."
 imdb: "0246405"
-img: "https://m.media-amazon.com/images/M/MV5BMjA5MDEzMDY2N15BMl5BanBnXkFtZTYwNDE1ODc5._V1_SY150_CR3,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "3/5"
 ---

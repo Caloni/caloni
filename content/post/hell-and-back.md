@@ -1,6 +1,6 @@
 ---
 imdb: "2141773"
-img: "https://m.media-amazon.com/images/M/MV5BMjM4NzUxODgyNV5BMl5BanBnXkFtZTgwMDM5MzA3NjE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2016-03-13"
 categories: [ "movies" ]
 title: "Hell and Back"

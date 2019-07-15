@@ -1,6 +1,6 @@
 ---
 imdb: "0065651"
-img: "https://m.media-amazon.com/images/M/MV5BYTc1MDJjZjAtNDZlMi00Mzg5LWE3NGUtNzRjM2YzMjQwY2Q4XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SY150_CR6,0,101,150_.jpg"
+
 date: "2010-08-17"
 categories: [ "movies" ]
 title: "Domicilio Conjugal"

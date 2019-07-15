@@ -3,7 +3,7 @@ date: 2019-05-24T19:39:32-03:00
 title: "Alemanha, Ano Zero"
 desc: "Germania anno zero. Itália, França, Alemanha, 1948. Dirigido e escrito por Roberto Rossellini (diálogos); a versão italiana é de Sergio Amidei. Baseado na ideia de Basilio Franchina. Com Edmund Moeschke, Ernst Pittschau, Ingetraud Hinze."
 imdb: "0039417"
-img: "https://m.media-amazon.com/images/M/MV5BMDRlOWRiMTktYmQ0Zi00ZDRhLWIwNjUtYmM1MDA0MjZiZjlmXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 ---

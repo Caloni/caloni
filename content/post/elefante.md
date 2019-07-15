@@ -3,7 +3,7 @@ date: 2019-03-31T14:15:07-03:00
 title: "Elefante"
 desc: "Elephant. EUA, 2003. Escrito e dirigido por Gus Van Sant. Com Elias McConnell, Alex Frost, Eric Deulen."
 imdb: "0363589"
-img: "https://m.media-amazon.com/images/M/MV5BZWRhNDZkMzQtZDQ3Ny00NjdjLWJmZjAtMWQxNDQyZTYzZjU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR2,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "5/5"
 ---

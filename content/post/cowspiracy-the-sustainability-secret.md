@@ -1,6 +1,6 @@
 ---
 imdb: "3302820"
-img: "https://m.media-amazon.com/images/M/MV5BMTU5NzAyMzk1MF5BMl5BanBnXkFtZTgwODE3NjQyNTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-12-17"
 categories: [ "movies" ]
 title: "Cowspiracy: The Sustainability Secret"

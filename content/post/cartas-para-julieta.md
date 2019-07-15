@@ -1,6 +1,6 @@
 ---
 imdb: "0892318"
-img: "https://m.media-amazon.com/images/M/MV5BMjg0OTU0NDYwNF5BMl5BanBnXkFtZTcwNzUwNTMyMw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-10-10"
 categories: [ "movies" ]
 title: "Cartas Para Julieta"

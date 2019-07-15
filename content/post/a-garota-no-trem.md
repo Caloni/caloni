@@ -1,6 +1,6 @@
 ---
 imdb: "3631112"
-img: "https://m.media-amazon.com/images/M/MV5BNzFlMjA0ZmUtZWI0Mi00ZGJkLTlmMmYtZmE1ODZiMjhjMGM0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2017-01-23"
 categories: [ "movies" ]
 title: "A Garota no Trem"

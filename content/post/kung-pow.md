@@ -1,6 +1,6 @@
 ---
 imdb: "0240468"
-img: "https://m.media-amazon.com/images/M/MV5BMGQxZDEwZDctMjNkMi00YmIxLTgyN2MtYmJhYjEzZGY0NjljXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2015-08-23"
 categories: [ "movies" ]
 title: "Kung Pow - O Mestre da Kung-Fu-São"

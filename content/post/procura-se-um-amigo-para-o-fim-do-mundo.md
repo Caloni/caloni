@@ -1,6 +1,6 @@
 ---
 imdb: "1307068"
-img: "https://m.media-amazon.com/images/M/MV5BMTk4MDQ1NzE3N15BMl5BanBnXkFtZTcwMjA0MDkzNw@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2014-12-20"
 categories: [ "movies" ]
 title: "Procura-se um Amigo para o Fim do Mundo"

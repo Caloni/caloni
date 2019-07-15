@@ -1,6 +1,6 @@
 ---
 imdb: "4276820"
-img: "https://m.media-amazon.com/images/M/MV5BMzExNDg0MDk1M15BMl5BanBnXkFtZTgwNzE1Mjg0MDI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-05-28"
 categories: [ "movies" ]
 title: "Fome de Poder"

@@ -3,7 +3,7 @@ date: 2018-09-15T20:24:09-03:00
 title: "Final Space"
 desc: "Criado por Olan Rogers e David Sacks."
 imdb: "6317068"
-img: "https://m.media-amazon.com/images/M/MV5BZWMwNTRiNWUtNzgxZC00NmYzLTgwZjUtODA5YjRlYjY0ZTVhXkEyXkFqcGdeQXVyODQyNDU2MTU@._V1_SX101_CR0,0,101,150_.jpg"
+
 categories: [ "series" ]
 stars: "3/5"
 ---

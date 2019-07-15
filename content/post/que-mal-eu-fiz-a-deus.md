@@ -1,6 +1,6 @@
 ---
 imdb: "2800240"
-img: "https://m.media-amazon.com/images/M/MV5BMjI3MDI3MTA0OV5BMl5BanBnXkFtZTgwOTUwNTYxMjE@._V1_SY150_CR4,0,101,150_.jpg"
+
 date: "2015-11-01"
 categories: [ "movies" ]
 title: "Que Mal Eu Fiz a Deus?"

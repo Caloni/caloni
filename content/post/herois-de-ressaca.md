@@ -1,6 +1,6 @@
 ---
 imdb: "1213663"
-img: "https://m.media-amazon.com/images/M/MV5BNzA1MTk1MzY0OV5BMl5BanBnXkFtZTgwNjkzNTUwMDE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-03-19"
 categories: [ "movies" ]
 title: "Heróis de Ressaca"

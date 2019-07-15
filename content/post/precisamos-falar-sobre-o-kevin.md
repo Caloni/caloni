@@ -1,6 +1,6 @@
 ---
 imdb: "1242460"
-img: "https://m.media-amazon.com/images/M/MV5BMjE0NDE0MjYxNF5BMl5BanBnXkFtZTcwNjM2NTY5Ng@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-12-30"
 categories: [ "movies" ]
 title: "Precisamos Falar Sobre o Kevin"

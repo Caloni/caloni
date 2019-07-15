@@ -1,6 +1,6 @@
 ---
 imdb: "2208192"
-img: "https://m.media-amazon.com/images/M/MV5BNGM0OTAwZDAtZDU1Mi00MGU0LTllMDktYmQ3YzAxNGJmNTQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzgwOTA2MzQ@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2012-11-01"
 categories: [ "movies" ]
 title: "Os Visitantes"

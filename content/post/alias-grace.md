@@ -1,6 +1,6 @@
 ---
 imdb: "1034007"
-img: "https://m.media-amazon.com/images/M/MV5BMjI4OTI1NTkwNV5BMl5BanBnXkFtZTgwMDc0ODc0MzI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: 2017-11-12T20:25:38
 categories: [ "series" ]
 title: "Alias Grace"

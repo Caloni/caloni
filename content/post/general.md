@@ -1,6 +1,6 @@
 ---
 imdb: "0017925"
-img: "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2015-04-07"
 categories: [ "movies" ]
 title: "General"

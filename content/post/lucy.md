@@ -1,6 +1,6 @@
 ---
 imdb: "2872732"
-img: "https://m.media-amazon.com/images/M/MV5BODcxMzY3ODY1NF5BMl5BanBnXkFtZTgwNzg1NDY4MTE@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-11-30"
 categories: [ "movies" ]
 title: "Lucy"

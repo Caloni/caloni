@@ -1,6 +1,6 @@
 ---
 imdb: "1020938"
-img: "https://m.media-amazon.com/images/M/MV5BMTI3MjA4OTE1MF5BMl5BanBnXkFtZTcwNDk3NjYwMw@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2011-05-01"
 categories: [ "movies" ]
 title: "Bebês"

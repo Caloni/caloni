@@ -1,6 +1,6 @@
 ---
 imdb: "1302011"
-img: "https://m.media-amazon.com/images/M/MV5BYzQ0ZWIxZjAtYWI3Yy00MGM0LWFjOGYtNzcyYThiOTA3ODI1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-06-12"
 categories: [ "movies" ]
 title: "Kung Fu Panda 2"

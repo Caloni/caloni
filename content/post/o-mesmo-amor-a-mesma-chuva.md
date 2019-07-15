@@ -1,6 +1,6 @@
 ---
 imdb: "0210843"
-img: "https://m.media-amazon.com/images/M/MV5BMjMzOGIxZWQtZGZmMS00MmYyLTlkMWUtMGM2ZjVmMzFlNTIzXkEyXkFqcGdeQXVyOTc2Mzg5OQ@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2013-07-13"
 categories: [ "movies" ]
 title: "El Mismo Amor La Misma Lluvia"

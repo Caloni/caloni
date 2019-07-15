@@ -1,6 +1,6 @@
 ---
 imdb: "0120595"
-img: "https://m.media-amazon.com/images/M/MV5BMjI4ZDQ3NjktNjQ4Mi00NjU2LWFiZTEtYzhjODNlM2VhYTIzXkEyXkFqcGdeQXVyNDIwODAwNzg@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-01-30"
 categories: [ "movies" ]
 title: "Babe O Porquinho Atrapalhado na Cidade"

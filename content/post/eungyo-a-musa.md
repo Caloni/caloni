@@ -1,6 +1,6 @@
 ---
 imdb: "2390253"
-img: "https://m.media-amazon.com/images/M/MV5BZTcwZTMwODUtZTE2Yi00MDQyLWEwM2YtODcwYzc0MWIwODFlXkEyXkFqcGdeQXVyNjUxMDU4NjM@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2016-09-04"
 categories: [ "movies" ]
 title: "Eungyo - A Musa"

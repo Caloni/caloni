@@ -1,6 +1,6 @@
 ---
 imdb: "0017825"
-img: "https://m.media-amazon.com/images/M/MV5BY2IzMGE0NTEtMWY1ZS00YzNlLThjMmQtZWUxYmE4MjVkYjM5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2016-12-15"
 categories: [ "movies" ]
 title: "Downhill"

@@ -1,6 +1,6 @@
 ---
 imdb: "0426769"
-img: "https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-10-16"
 categories: [ "series" ]
 title: "Peppa Pig"

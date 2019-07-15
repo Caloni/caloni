@@ -1,6 +1,6 @@
 ---
 imdb: "2356777"
-img: "https://m.media-amazon.com/images/M/MV5BMTY0ODc2NTc0NF5BMl5BanBnXkFtZTgwMDcyNTAwNzM@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-11-01T21:42:54
 categories: [ "series" ]
 title: "True Detective: Primeira Temporada"

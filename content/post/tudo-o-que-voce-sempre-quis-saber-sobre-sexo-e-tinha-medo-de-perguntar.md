@@ -1,6 +1,6 @@
 ---
 imdb: "0068555"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ2ODA3Mzc3Ml5BMl5BanBnXkFtZTcwNTkyNzYzNA@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2014-05-10"
 categories: [ "movies" ]
 title: "Tudo o Que Você Sempre Quis Saber Sobre Sexo E Tinha Medo de Perguntar"

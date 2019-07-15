@@ -1,6 +1,6 @@
 ---
 imdb: "1396218"
-img: "https://m.media-amazon.com/images/M/MV5BMTcwMDI4NjEyOF5BMl5BanBnXkFtZTcwNzg5MzEwNQ@@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2011-07-04"
 categories: [ "movies" ]
 title: "Os Pinguins do Papai"

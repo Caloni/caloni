@@ -3,7 +3,7 @@ date: 2018-04-11T17:31:48-03:00
 title: "Tudo que Quero"
 categories: [ "movies" ]
 imdb: "4652650"
-img: "https://m.media-amazon.com/images/M/MV5BMTU3MzUzMjIxMV5BMl5BanBnXkFtZTgwODY5MTIzNDM@._V1_SY150_CR0,0,101,150_.jpg"
+
 stars: "3/5"
 desc: "Tudo que Quero (Please Stand By). EUA, 2017. Escrito por Michael Golamco, dirigido por Ben Lewin, com Dakota Fanning, Toni Collette, Alice Eve."
 external: "cinemaqui"

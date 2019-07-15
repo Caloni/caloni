@@ -3,7 +3,7 @@ date: 2018-08-04T16:27:07-03:00
 title: "Você Nunca Esteve Realmente Aqui"
 desc: "You Were Never Really Here (Reino Unido, França, 2017), escrito por Lynne Ramsay baseado no livro de Jonathan Ames, dirigido por Ramsay, com Joaquin Phoenix, Judith Roberts, Ekaterina Samsonov."
 imdb: "5742374"
-img: "https://m.media-amazon.com/images/M/MV5BMDkwOTE0ZjMtZmRiYS00M2M3LWE3MzUtNzNmNmExNTNmNjg5XkEyXkFqcGdeQXVyODE1MjMyNzI@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "5/5"
 external: "cinemaqui"

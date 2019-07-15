@@ -1,6 +1,6 @@
 ---
 imdb: "0093870"
-img: "https://m.media-amazon.com/images/M/MV5BZWVlYzU2ZjQtZmNkMi00OTc3LTkwZmYtZDVjNmY4OWFmZGJlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-09-27"
 categories: [ "movies" ]
 title: "RoboCop O Policial do Futuro"

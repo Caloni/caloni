@@ -1,6 +1,6 @@
 ---
 imdb: "0061811"
-img: "https://m.media-amazon.com/images/M/MV5BZjZhZTZkNWItZGE1My00MTRkLWI2ZDktMWZkZTIxZWYxOTgzXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2016-02-08"
 categories: [ "movies" ]
 title: "No Calor da Noite"

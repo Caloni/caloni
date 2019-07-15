@@ -1,6 +1,6 @@
 ---
 imdb: "4677578"
-img: "https://m.media-amazon.com/images/M/MV5BNmVhZDY1NDUtN2UzNS00MWViLWEyZjItNmNmODBlOWNhNmYxXkEyXkFqcGdeQXVyNjUxODU0NzU@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: 2017-10-22T21:57:15
 categories: [ "movies" ]
 title: "A Leoa"

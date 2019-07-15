@@ -1,6 +1,6 @@
 ---
 imdb: "0808245"
-img: "https://m.media-amazon.com/images/M/MV5BMTQ0Mzk2NDIxN15BMl5BanBnXkFtZTcwNTk4NDI5Mw@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2010-10-04"
 categories: [ "movies" ]
 title: "A Letter to Elia"

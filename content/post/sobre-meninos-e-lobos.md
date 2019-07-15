@@ -1,6 +1,6 @@
 ---
 imdb: "0327056"
-img: "https://m.media-amazon.com/images/M/MV5BMTIzNDUyMjA4MV5BMl5BanBnXkFtZTYwNDc4ODM3._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-10-08"
 categories: [ "movies" ]
 title: "Sobre Meninos e Lobos"

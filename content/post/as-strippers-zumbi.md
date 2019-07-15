@@ -1,6 +1,6 @@
 ---
 imdb: "0960890"
-img: "https://m.media-amazon.com/images/M/MV5BMTI5MTM4NTA5MV5BMl5BanBnXkFtZTcwNzc0MTU2MQ@@._V1_SX101_CR0,0,101,150_.jpg"
+
 date: "2013-07-28"
 categories: [ "movies" ]
 title: "As Strippers Zumbi"

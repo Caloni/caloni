@@ -1,6 +1,6 @@
 ---
 imdb: "0110912"
-img: "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY150_CR1,0,101,150_.jpg"
+
 date: "2012-12-23"
 categories: [ "movies" ]
 title: "Pulp Fiction Tempo de Violência"

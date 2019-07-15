@@ -1,6 +1,6 @@
 ---
 imdb: "2463512"
-img: "https://m.media-amazon.com/images/M/MV5BMTQzMTc3MjY5NV5BMl5BanBnXkFtZTgwNzM0MzI1MTE@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2017-03-21"
 categories: [ "movies" ]
 title: "Amores Inversos"

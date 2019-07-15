@@ -1,6 +1,6 @@
 ---
 imdb: "0918575"
-img: "https://m.media-amazon.com/images/M/MV5BMjIwMTgwNTA1Ml5BMl5BanBnXkFtZTcwODg4MzIxNA@@._V1_SY150_CR62,0,101,150_.jpg"
+
 date: "2013-08-11"
 categories: [ "movies" ]
 title: "Victim"

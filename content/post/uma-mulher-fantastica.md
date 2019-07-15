@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15T00:00:03
 imdb: "5639354"
-img: "https://m.media-amazon.com/images/M/MV5BNGJhNWM4ZjItYWRhYS00N2UzLTg3OWItOGEzOWFmMGQ1ZjlkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
+
 categories: [ "movies" ]
 stars: "4/5"
 title: "Uma Mulher Fantástica"

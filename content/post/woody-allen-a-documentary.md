@@ -1,6 +1,6 @@
 ---
 imdb: "2397619"
-img: "https://m.media-amazon.com/images/M/MV5BNDkxNjM3NDQ0OF5BMl5BanBnXkFtZTcwNzkyMjM5OA@@._V1_SY150_CR24,0,101,150_.jpg"
+
 date: "2015-03-23"
 categories: [ "movies" ]
 title: "Woody Allen: A Documentary"

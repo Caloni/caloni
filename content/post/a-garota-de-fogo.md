@@ -1,7 +1,7 @@
 ---
 external: "cinemaqui"
 imdb: "3089326"
-img: "https://m.media-amazon.com/images/M/MV5BNmFkYzQ2MWItM2NkOS00OGFkLThlNjEtOWI5YzVlOTMzY2VmXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2016-04-14"
 categories: [ "movies" ]
 title: "A Garota de Fogo"

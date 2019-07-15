@@ -1,6 +1,6 @@
 ---
 imdb: "6150202"
-img: "https://m.media-amazon.com/images/M/MV5BZGZkZmVjMjktMjUxYS00YTQ0LWEzZmItYTZhZGMxMTMzNmRmXkEyXkFqcGdeQXVyNjkyNzkyNzU@._V1_SY150_CR2,0,101,150_.jpg"
+
 date: "2016-10-21"
 categories: [ "movies" ]
 title: "O Que Restou da Minha Vida"

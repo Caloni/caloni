@@ -1,6 +1,6 @@
 ---
 imdb: "3903322"
-img: "https://m.media-amazon.com/images/M/MV5BZmE2MTc0YWYtY2QyMS00ODYyLTgzMzYtZmQ3ZWNmNDQxYWExXkEyXkFqcGdeQXVyNjY1OTY4MTk@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: 2017-09-24T22:43:51
 categories: [ "movies" ]
 title: "The Birth Of Sake"

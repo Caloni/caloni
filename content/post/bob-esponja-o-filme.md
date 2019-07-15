@@ -1,6 +1,6 @@
 ---
 imdb: "0345950"
-img: "https://m.media-amazon.com/images/M/MV5BOGQwNWE3NmEtMmQwNS00OTY4LWExN2ItN2UwOGJmZjExZTJjXkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_SY150_CR0,0,101,150_.jpg"
+
 date: "2012-08-01"
 categories: [ "movies" ]
 title: "Bob Esponja O Filme"
