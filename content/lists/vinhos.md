@@ -3,141 +3,104 @@ title: "Vinhos"
 categories: [ "lists" ]
 date: 2019-07-01
 ---
-2019-07-14 Finca Flichman Chardonay Roble 2008 foi um vinho esquecido na geladeira por alguns meses, que veio não sei daonde (a origem é de Mendoza, Argentina) e que não está com gosto de vinagre.
 
-2019-07-01 Valpolicella é um vinho italiano leve, quase aguado, mas bom de beber sem pressa apreciando a imbatível combinação de amargo e doce (do molho) da pizza de escarola da Cantina do Araújo em Poços de Caldas.
-
-2019-06-19 Já o Cabernet Sauvignon deles, Tempos, é azedo. Não lembra Cabernet, exceto pelo corpo fraco para médio. Bom para comer com queijo. Bom e barato se você não espera nada além de um vinho honesto e de entrada.
-
-2019-06-19 O Góes seco é um vinho básico, tão básico que você sente que não há nuance alguma: é uva fermentada e pronto. Sem acidez e sem amargor. Uva, leve e alcoólica.
-
-2019-06-17 Colomé de Rio Negro (Argentina) 2016. Corpo médio/forte, marca registrada da região de solo castigado. Frutas negras e/ou vermelhas maduras mais intensas que Malbec médio. Um pouco azedo e ácido, vai vem com carne mais gordurosa ou um Ancho de final de semana preguiçoso.
-
-2019-06-17 Rivani é o espumante chique que meu amigo comprou pra festa de casamento. Ele vem como Extra Dry, mas seu corpo médio é levemente adocicado, sem ofender os sentidos para outras características, como sua óbvia secura e taninos.
-
-humberto-canale-intimo-cabernet-sauvignon 2019-05-29 Humberto Canale Íntimo 2017 é Cabernet de Rio Negro, região de Neuquen, no começo é bem mais forte que os outros Cabernet, mas com o tempo ele suaviza mantendo corpo.
-
-gran-tarapaca-carmenere-reserva-2017 2019-05-20 Mais um Gran Tarapaca Carménère tomado em copo de plástico. Ele continua elegante, vistoso, frutoso e gostoso.
-
-aime-moscatel-de-alejandria 2019-05-20 Aimé Moscatel de Alejandria 2016 da Ruca Malen é o vinho doce argentino mais fácil de beber. Seu aspecto floral e herbal suavizam o paladar de uma maneira elegante. Não é muito doce.
-
-ruca-malen-malbec 2019-05-15 Ruca Malen Reserva Malbec 2015 é a complexidade que eu estava esperando de Mendoza. Com 12 meses de barrica (80% francês, 20% americano de segundo e terceiro uso) ele não tem apenas os tons frutados do Malbec, mas oferece nuances sutis de ervas e minerais.
-
-del-fin-del-mundo-malbec 2019-05-15 Esse Del Fin Del Mundo Malbec 2016 é o jeito certo do mundo acabar: com um Malbec delicioso como esse, doce, frutado, tânico e com personalidade.
-
-zorro-y-arena-malbec 2019-05-11 Com Zorro Y Arena Malbec 2017 descobri que zorro quer dizer raposa em Neuquen, na Argentina, e esse vinho da região faz lembrar que existem várias por lá. Pra mim parecem apenas um cachorro com rabo esquisito.
-
-gloria-cota-cosecha-tardia 2019-05-06 Gloria Cota Cosecha Tardia 2014 é de uma vinícola de Mendoza e de uma uva desconhecida. Como toda colheita tardia, doce. Talvez por ter passado tanto tempo, apenas doce, mesmo. Um levíssimo gosto alcoólico (que se mistura do levíssimo amargo), mas continua com seus 13.5% e sobe rápido. Beber com queijo ou doces não muito doces.
-
-miolo-tannat-reserva 2019-05-01 Peguei esse Tannat Reserva 2017 como uma forma de voltar a experimentar alguns vinhos brasileiros que dizem que é bom. Vou pausar esse projeto por enquanto. Os vinhos nacionais da Miolo representam bem a vinicultura brasileira: cara, ineficiente e chinfrim.
-
-humberto-canale-malbec 2019-04-29 Os Malbecs do Rio Negro, na Patagônia argentina, são densos, mas ainda mantém a fruta e o aroma de um Malbec, como este Humberto Canale 2017, que é elegante em alguns momentos, ríspido em outros.
-
-aniello-006 2019-04-28 Esse Malbec do Rio Negro, Aniello 006 (com relevo no rótulo), da região Centro-Sul argentina, pode-se dizer que é bem básico por ser jovem, mas no fundo é da região menos interessante dos vinhos dos hermanos.
-
-domaine-les-barthes 2019-04-28 Domaine Les Barthes Comté Tolosan. Malbec da França. Confere, produção? Sim, e ele é frutado como Malbec argentino, mas menos ácido, menos adstringente, menos sofrido. Uma experiência de comparação de terroirs. Ele foi a garrafa do meio entre dois Malbecs, um de Mendoza e outro de Rio Negro.
-
-nina-moscato-gialo 2019-04-22 Nina é um vinho naturalmente doce de uma uva que nunca tinha provado e que não fez diferença chamada Moscato Gialo. Imagino que daí veio moscatel. Ele é doce, mas nem tanto. Fácil de beber e de esquecer. Vinhos brancos e suas sensações leves demais.
-
-aime-ruca-malen 2019-04-20 Aimé Ruca Malen Malbec 2017 que tinha comprado lá em Neuquen pra abrir (mas me senti meio enjoado no dia) e ele estava bom, embora nada demais. Um Malbec frutas negras e corpo médio.
-
-el-esteco-malbec 2019-04-20 El Esteco Malbec 2014 que achei no Carrefour de Neuquen (Argentina) por 30 conto e estava amargo demais. Deixei na geladeira e depois de um tempo ficou bacananinha, adstringentes e com frutas negras, alguma textura, apesar de ainda nada demais para um Malbec envelhecido em supermercado.
-
-la-poderosa 2019-04-13 Vinho La Poderosa em homenagem ao genocida Che Guevara quando deu seu rolê de bike pelo deserto. É vinho meio amargo, sem estrutura. Del Fin Del Mundo.
-
-estancia-mendoza 2019-03-22 Estancia Mendoza foi um blend Malbec/Cabernet 2015 encontrado no mercado de casa, mas não foi um bom achado. Um pouco queimado, faz lembrar que mercadinho de bairro cuida de seus vinhos como a bunda. 20/04 É, tava estragado, mesmo, joguei fora.
-
-el-porvenir-laborum-malbec-tardio 2019-02-25 El Porvenir Laborum Malbec Tardio 2016 mantém sabor do Malbec em solução aquosa e doce, além de oleosa e encorpada. Não é vinho com açúcar como os brasileiros baratos.
-
-el-porvenir-laborum-syrah 2019-02-24 El Porvenir Laborum Syrah 2014 de acordo com o Fabio merecia mais anos de guarda pelo alto teor de álcool. Eu discordo, pois não tenho certeza se a guarda em carvalho criou estrutura suficiente; se não se nota a madeira hoje, se notará amanhã?
-
-valtier-utiel 2019-01-04 Valtier Utiel-Requena Reserva 2013. Depois de mais de uma semana na geladeira não é que o gosto deu uma suavizada interessante? Mas ainda é um vinho de personalidade forte, que sempre te chama a atenção pelo azedo ou tanino. Bom com fusili e molho de tomate sem acidez.
-
-cava-familia-oliveda-brut 2019-01-04 Cava Família Oliveda Brut (Méthode Tradicionnelle) é brut, mas não parece tão seco assim. Bom pro calor de uma reunião de acionistas na varanda.
-
-valtier-utiel 2019-01-04 Valtier Utiel-Requena Reserva 2013 é um espanhol que tem o corpo de um reserva sem o peso da madeira. Mas os aromas estão lá, amadurecidos. Bom, talvez nem tanto.
-
-jose-luis-mounier-reserva 2019-01-04 Jose Luis Mounier Reserva 2013 (Malbec/Tannat/Cabernet) foi feito com muito carinho e decicação; estrutura impecável, corpo médio pra forte, álcool que orna com o carvalho (15 meses) seguido de frutas maduras e especiarias. Vai bem com carne forte e até gordurosa (tem Tannat).
-
-chandon-brut-rose 2019-01-04 Quem não curte frisantes docinhos nem super-secos, o Chandon Brut Rosé é uma boa pedida; rosé levemente gaseificado com aspectos florais que lembra frutas vermelhas frescas (por causa do azedo). Fácil de beber se já provou vinhos secos e gostou; para clima de virada.
-
-salentein-portillo-malbec 2018-12-31 Salentein Portillo Malbec em sua edição 2017 continua o mesmo Malbec com sabor de frutas vermelhas (mais compota que frescas) e um corpo médio que é ótimo custo/benefício se você não pagasse imposto de importacão (infelizmente você paga, trouxa).
-
-dancing-crow-vineyards-zinfandel 2018-12-31 Dancing Crow Vineyards Zinfandel Lake County 2017. Estava aberto há uma semana, perdeu o pouco do álcool que tinha e a pouca vibração dos corvos que trazia. Mas o doce também se foi, deixando um gosto ligeiramente agradável de um Zinfandel californiano.
-
-anciano-tempranillo-gran-reserva 2018-12-30 Apesar das expectativas, o Anciano Tempranillo Gran Reserva 2007 Valdepeñas que nosso amigo trouxe ao churrasco decepcionou. Depois de 11 anos em reserva ele simplesmente parece um vinho de apenas 3. Mas é bom, embora não compense guardar.
-
-rosso-california-red-wine 2018-12-30 Rosso California Red Wine 2015 é o típico "vinho tinto default" da Califórnia. E não é nada demais. Não importa se você colocou por 36 meses na barrica.
-
-biscardo-valpolicella-ripasso 2018-12-30 Biscardo Valpolicella Ripasso foi presente de um amigo/colega e eu gostei muito. Se trata de um vinho italiano com um corpo decente e um equilíbrio agradabilíssimo no paladar. Fácil de beber (ainda mais com carne).
-
-josel-gott-zinfandel 2018-12-30 Joel Gott Zinfandel 2016 é um Zinfandel que consegue até ser equilibrado. Você vai precisar de uma carne muito boa na churrasqueira (como a da festa de fim de ano da BitForge) para conseguir acompanhar.
-
-menage-a-trois 2018-12-30 Quem nunca experimentou um Ménage à Trois não sabe o que está perdendo. Se trata de um blend de três uvas. Essa vinícola de Napa tem pelo menos duas receitas.
-
-vinhos-napa-valley 2018-12-30 Algumas observações sobre os vinhos em Napa Valley. Uva da Argentina produzida no Chile em formato americano é prova da globalização do local (um ótimo custo/benefício, btw). 36 meses em Napa Valley é um valor comum de reserva na barrica (e o gosto não melhora muito). Inglenook ou a vinícola do Copolla é estilosa, quase brega, mas ainda pra quem curte cinema é o Ó. Os vinhos italiano da uva Primitivo são renomeados nos EUA como Zinfandel (não sei bem pq). Napa importando vinhos australianos que usam uvas de outros lugares do mundo é mais uma prova da globalização. PS: A foto do vinho moneda é uma homenagem ao meu amigo @drmadera.
-
-domingo-molina-cabernet-sauvignon 2018-11-11 Domingo Molina Cabernet Sauvignon 2014 não é o Cabernet que você está acostumado a tomar; criado na terra pobre e seca da região de Salta, essa uva que costuma ser leve ganha um corpo direto do solo e posteriormente nas barricas de carvalho onde descansa e apura seu gosto de frutas maduras e corpo médio pra forte. Mas ainda acompanha lasanha.
-
-casillero-del-diablo-cabernet-sauvignon 2018-11-10 Casillero del Diablo Cabernet Sauvignon sempre é a opção para o final do rolê: confiável, meio termo e simples, como deve ser para um bando de bêbados.
-
-pata-negra-tempranillo 2018-11-10 Pata Negra Tempranillo 2016 é uma opção tão boa e leve que dois trouxeram para o rolê. Como se o Cabernet decidisse ter um pouco mais de frescor e personalidade.
-
-quinta-de-bons-ventos 2018-11-10 Quinta de Bons-Ventos continua sendo aquele vinho português meio tudo um pouco, meio doce (frutas maduras), meio azedinho, meio vibrante e perfeito para um churrasco na casa do Fernandão.
-
-castelvere-castelloc-abiano 2018-11-05 Castelvere Castelloc Abiano 2016 é um rosé italiano que servem no Maremonti, um restaurante de massas que tem no Park Shopping São Caetano; sua primeira impressão é que mesmo custando o olho da cara dá dor de cabeça. A segunda impressão não me lembro.
-
-sunal-malbec 2018-11-05 Sunal Malbec 2014 foi comprado no restaurante Bad Brothers em Cafayate. Ele está sedoso, quentinho, complexo a ponto de despertar poesia, ácido na medida certa e corpo mais difícil de tomar, embora irresistível. Altamente recomendável para fãs de Malbec entenderem o que é o deserto de Salta.
-
-gualiama-malbec 2018-11-05 Gualiama Malbec 2016 da Salvador Figueroa, menor vinícola da Argentina, foi comprada em 2017 e mantida por um ano e meio envelhecendo na minha adega. Ela possui estrutura pra mais. Envelhecida em tonéis de carvalho ela está ainda doce, como frutas vermelhas mais maduras (ou compota) e um teor alcoólico que abraça a boca, é sedoso embora levemente rudimentar com corpo difícil. Levemente enjoativo, pode aguardar mais tempo, quiçá uns dois anos.
-
-hermanos-torrontes 2018-11-05 Hermanos Torrontés Dulce Natural 2017, da bodega Domingos Molina em Cafayate (Argentina) é o vinho docinho com complexidade, estrutura, frescor e acidez; é possível degustá-lo sozinho.
-
-porvenir-laborum-shiraz 2018-10-28 Shiraz 2014 da Porvenir série Laborum comprova que é a melhor vinícola de Cafayate, Argentina, do plantio ao tratamento dos visitantes. Possui corpo médio, personalidade em camadas, difícil de beber porque suas frutas maduras mantêm o cérebro funcionando e apreciando.
-
-quara-torrontes-dulce 2018-10-28 Quará Torrontes Dulce 2017 é docinho, simples, corpo médio e fácil de beber; pouco enjoativo.
-
-quara-malbec 2018-10-14 Quará Malbec 2014 foi a aquisição direto da bodega para provar um vinho que eu não pagaria 200 reais aqui no Brasil. Mas seu corpo médio com presença de frutas vermelhas e maduras, um aroma rápido e macio, assim como seu sabor tânico e pouco alcoólico comprovam que ele pode muito bem valer 100, e se não fosse o roubo feito na passagem de fronteira custaria mesmo.
-
-ruca-malen-malbec 2018-10-12 Ruca Malen Malbec 2016 no começo é um mabec leve demais, frutado; mais tarde fica meio tânico, corpo médio e enebriante.
-
-cosecha-tarapaca-cabernet-sauvignon 2018-10-09 Cabernet Sauvignon da Cosecha Tarapaca 2016 mantém a camada extra de elegância de um vinho industrial, mas que justamente por isso entrega em bom custo benefício.
-
-el-porvenir-laborum-malbec-tardio 2018-10-02 El Porvenir de Cafayate Laborum Malbec Tardío 2018. Um Malbec tão tardio que um mês aberto na geladeira dá sinais de azedo.
-
-travessia-malbec 2018-09-26 Travessia é um Malbec alcoólico e frutado para macho, pois seu corpo é pelo menos médio e exige um pouco de postura para beber. Bom ponto de entrada se quer começar a beber vinho como homem.
-
-famille-hugel-pinot-noir 2018-09-23 Famille Hugel Pinot Noir 2014 é leve demais, sem álcool, sem corpo, nem estrutura. Demonstra como é muito errado manter em reserva esta uva (pelo menos esta versão).
-
-tamari-ar-malbec 2018-09-23 Tamari AR Malbec 2013 é daqueles momentos onde valeu muito a pena beber vinhos medíocres, pois este é sensacional. Frutado, tânico, estruturado em corpo médio pra forte.
-
-cave-de-ladac-rouge 2018-09-01 Cave De Ladac Rouge. Este vinho francês tem corpo leve como Cabernet, fácil de beber, tem umas nuances que lembra fermento frutado, frutas não-cítricas, e é muito bom para conversar com amigos em churrasco na varanda.
-
-trivento-tribu-syrah 2018-09-01 Trivento Tribu Syrah 2017 é um ótimo Mendoza onde o custo/benefício fala mais alto que a busca por vinhos mais complexos dessa bodega de respeito; um pouco alcoólico demais, mas dá pro gasto depois de um tempo.
-
-el-porvenir-amauta-corte-iii 2018-09-01 El Porvenir Amauta Corte III 2017. Essa família de vinhos da El Porvenir possui 4 cortes, cada um com sua personalidade; este Corte III é Reflexão; um Malbec/Cabernet com corpo médio pra forte, pouco frutado e aromático, mas seu corpo compensa as frivolidades vermelhas que os Malbecs costumam ter.
-
-salentein-portillo-dulce-natural 2018-09-01 Salentein Portillo Dulce Natural Sauvignon Blanc 2017. Que surpresa este vinho doce que achamos no mercado de Tucuman. Ele combina perfeitamente com o queijo de cabra que trouxemos para compartilhar com os amigos e ainda combinou com um delicioso doce de abacaxi da anfitriã. Não é um doce enjoativo, é um doce harmonioso, sem adição de açúcar; apenas esta inusitada uva do Sauv. Blanc em colheita tardia.
-
-concha-y-tory-reservado-malbec 2018-08-21 O Reservado Malbec 2017 Concha Y Toro possui uma cor tijolada que não faz muito sentido vindo de um Malbec. Mas isso é porque o mercadinho do lado deve ter deixado esquentando em algum canto por lá. Não importa. Ele ainda mantém o gosto de geléia ou compota de frutas vermelhas e um corpo médio semi-ríspido e pouco aroma. Um vinho do dia-a-dia (apesar do Reservado enganoso).
-
-garo-negro-malbec 2018-08-13 O Gato Negro Malbec 2016, também do mercadinho do lado, é um bom custo/benefício para quem gosta de Malbecs frutados (como são os Malbecs), mas sem a frequência de nuances. É um vinho pomposo sem ser caro.
-
-santa-helena-reservado-malbec 2018-08-13 O Santa Helena Reservado Malbec 2016 do mercado aqui perto de casa não está tão caro, mas para um Malbec relativamente recente ele está queimado. Seu gosto é agradável, mas seu aroma de frutas já se foi há tempos.
-
-catena-zapata-malbec 2018-08-10 Catena Zapata Malbec 2015 é um pouco decepcionante pelo preço vendido aqui no Brasil e por ser um Malbec tão equilibrado que se torna comportado demais. As notas de frutas vermelhas semi maduras vem mais no sabor, e o aroma não agride mas não cativa. E depois de muito tempo respirando a coisa fica na mesma.
-
-santa-helena-malbec 2018-07-13 O Malbec 2016 Santa Helena do mercadinho precisa respirar, pois é muito alcoólico. Mas depois disso vira um ótimo custo/benefício. Corpo médio pra forte com frutado e tanino médios, este Malbec cai bem para degustações leves.
-
-trassoles-cabernet-sauvignon-malbec 2018-07-01 Trassoles Cabernet Sauvignon Malbec é o único tinto da vinícola cooperativa de Cafayate que está aberta há dez anos. Uma ótima ideia do pessoal de lá, para se proteger da exploração das grandes vinícolas. Esse é bem ríspido, forte e ácido, mas com tempo de respiro fica pouco frutado e tânico. Experimentando com blend de queijo da produtora local (trouxe tudo de lá).
-
-the-winehouse-tinto-douro 2018-06-25 The WineHouse Tinto Douro. Este vinho portuga estava na minha guarda e abri em seguida ao Pinot Noir para tomá-lo sozinho. Ele é bem mais frutado e doce, encorpado que o Pinot, e mesmo bêbado achei sensacional. Tive que guardar a taça servida para outro momento.
-
-portillo-pinot-noir 2018-06-25 Portillo Pinot Noir 2016. O Pinot Noir da Salentein parece suquinho acompanhado de comida (estrogonofe que a Mitiko fez), mas tomando sozinho tem um leve azedo com leves aromas de um rosé (apesar de ser tinto). Fácil de beber e um perigo.
-
-san-pedro-de-yacochuya-cabernet-sauvignon 2018-06-24 San Pedro de Yacochuya Cabernet Sauvignon 2015 Rancho Cuatro. A 2035 metros acima do mar e mantido metade em barricas de roble francês de primeiro uso e a outra metade em segundo, este vinho de Cafayate da região que leva o nome indígena que significa água leve não tem nada de leve em suas uvas. O Malbec de lá é forte, intenso e de um amargor áspero. Seu blend Malbec/Cabernet, um pouco menos. Porém, este 100% Cabernet Sauvignon alia essa postura agressiva das uvas em um terreno centenário e árido com o envelhecimento por 12 meses na barrica. É possível sentir a madeira em toda sua composição e as notas de personalidade deixadas por esta em um Cabernet que é tudo, menos trivial. Apreciado com a família Incrível no churrasco em casa.
-
-domingo-molina-tannat 2018-06-24 Domingo Molina Tannat 2014. Mais um Tannat frutado, mas com corpo de presença, de Cafayate. Os Tannats da Argentina não são os mesmos do Uruguai. Os de Salta, como esse, reserva de 2014, mantém a leveza do Tannat com a robustez de seu processo que começa no deserto. Difícil extrair e boa entrada para o churrasco com a família Incrível.
+ - Continente
+  - Américas
+   - Sul
+    - Argentina
+     - 2019-07-14 Finca Flichman Chardonay Roble 2008 foi um vinho esquecido na geladeira por alguns meses, que veio não sei daonde (a origem é de Mendoza, Argentina) e que não está com gosto de vinagre.
+     - 2019-06-17 Colomé de Rio Negro (Argentina) 2016. Corpo médio/forte, marca registrada da região de solo castigado. Frutas negras e/ou vermelhas maduras mais intensas que Malbec médio. Um pouco azedo e ácido, vai vem com carne mais gordurosa ou um Ancho de final de semana preguiçoso.
+     - 2019-05-29 Humberto Canale Íntimo 2017 é Cabernet de Rio Negro, região de Neuquen, no começo é bem mais forte que os outros Cabernet, mas com o tempo ele suaviza mantendo corpo.
+     - 2019-05-20 Mais um Gran Tarapaca Carménère tomado em copo de plástico. Ele continua elegante, vistoso, frutoso e gostoso.
+     - 2019-05-20 Aimé Moscatel de Alejandria 2016 da Ruca Malen é o vinho doce argentino mais fácil de beber. Seu aspecto floral e herbal suavizam o paladar de uma maneira elegante. Não é muito doce.
+     - 2019-05-15 Ruca Malen Reserva Malbec 2015 é a complexidade que eu estava esperando de Mendoza. Com 12 meses de barrica (80% francês, 20% americano de segundo e terceiro uso) ele não tem apenas os tons frutados do Malbec, mas oferece nuances sutis de ervas e minerais.
+     - 2019-05-15 Esse Del Fin Del Mundo Malbec 2016 é o jeito certo do mundo acabar: com um Malbec delicioso como esse, doce, frutado, tânico e com personalidade.
+     - 2019-05-11 Com Zorro Y Arena Malbec 2017 descobri que zorro quer dizer raposa em Neuquen, na Argentina, e esse vinho da região faz lembrar que existem várias por lá. Pra mim parecem apenas um cachorro com rabo esquisito.
+     - 2019-05-06 Gloria Cota Cosecha Tardia 2014 é de uma vinícola de Mendoza e de uma uva desconhecida. Como toda colheita tardia, doce. Talvez por ter passado tanto tempo, apenas doce, mesmo. Um levíssimo gosto alcoólico (que se mistura do levíssimo amargo), mas continua com seus 13.5% e sobe rápido. Beber com queijo ou doces não muito doces.
+     - 2019-05-01 Peguei esse Tannat Reserva 2017 como uma forma de voltar a experimentar alguns vinhos brasileiros que dizem que é bom. Vou pausar esse projeto por enquanto. Os vinhos nacionais da Miolo representam bem a vinicultura brasileira: cara, ineficiente e chinfrim.
+     - 2019-04-29 Os Malbecs do Rio Negro, na Patagônia argentina, são densos, mas ainda mantém a fruta e o aroma de um Malbec, como este Humberto Canale 2017, que é elegante em alguns momentos, ríspido em outros.
+     - 2019-04-28 Esse Malbec do Rio Negro, Aniello 006 (com relevo no rótulo), da região Centro-Sul argentina, pode-se dizer que é bem básico por ser jovem, mas no fundo é da região menos interessante dos vinhos dos hermanos.
+     - 2019-04-22 Nina é um vinho naturalmente doce de uma uva que nunca tinha provado e que não fez diferença chamada Moscato Gialo. Imagino que daí veio moscatel. Ele é doce, mas nem tanto. Fácil de beber e de esquecer. Vinhos brancos e suas sensações leves demais.
+     - 2019-04-20 Aimé Ruca Malen Malbec 2017 que tinha comprado lá em Neuquen pra abrir (mas me senti meio enjoado no dia) e ele estava bom, embora nada demais. Um Malbec frutas negras e corpo médio.
+     - 2019-04-20 El Esteco Malbec 2014 que achei no Carrefour de Neuquen (Argentina) por 30 conto e estava amargo demais. Deixei na geladeira e depois de um tempo ficou bacananinha, adstringentes e com frutas negras, alguma textura, apesar de ainda nada demais para um Malbec envelhecido em supermercado.
+     - 2019-04-13 Vinho La Poderosa em homenagem ao genocida Che Guevara quando deu seu rolê de bike pelo deserto. É vinho meio amargo, sem estrutura. Del Fin Del Mundo.
+     - 2019-03-22 Estancia Mendoza foi um blend Malbec/Cabernet 2015 encontrado no mercado de casa, mas não foi um bom achado. Um pouco queimado, faz lembrar que mercadinho de bairro cuida de seus vinhos como a bunda. 20/04 É, tava estragado, mesmo, joguei fora.
+     - 2019-02-25 El Porvenir Laborum Malbec Tardio 2016 mantém sabor do Malbec em solução aquosa e doce, além de oleosa e encorpada. Não é vinho com açúcar como os brasileiros baratos.
+     - 2019-02-24 El Porvenir Laborum Syrah 2014 de acordo com o Fabio merecia mais anos de guarda pelo alto teor de álcool. Eu discordo, pois não tenho certeza se a guarda em carvalho criou estrutura suficiente; se não se nota a madeira hoje, se notará amanhã?
+     - 2019-01-04 Valtier Utiel-Requena Reserva 2013. Depois de mais de uma semana na geladeira não é que o gosto deu uma suavizada interessante? Mas ainda é um vinho de personalidade forte, que sempre te chama a atenção pelo azedo ou tanino. Bom com fusili e molho de tomate sem acidez.
+     - 2019-01-04 Jose Luis Mounier Reserva 2013 (Malbec/Tannat/Cabernet) foi feito com muito carinho e decicação; estrutura impecável, corpo médio pra forte, álcool que orna com o carvalho (15 meses) seguido de frutas maduras e especiarias. Vai bem com carne forte e até gordurosa (tem Tannat).
+     - 2018-12-31 Salentein Portillo Malbec em sua edição 2017 continua o mesmo Malbec com sabor de frutas vermelhas (mais compota que frescas) e um corpo médio que é ótimo custo/benefício se você não pagasse imposto de importacão (infelizmente você paga, trouxa).
+     - 2018-11-11 Domingo Molina Cabernet Sauvignon 2014 não é o Cabernet que você está acostumado a tomar; criado na terra pobre e seca da região de Salta, essa uva que costuma ser leve ganha um corpo direto do solo e posteriormente nas barricas de carvalho onde descansa e apura seu gosto de frutas maduras e corpo médio pra forte. Mas ainda acompanha lasanha.
+     - 2018-11-05 Sunal Malbec 2014 foi comprado no restaurante Bad Brothers em Cafayate. Ele está sedoso, quentinho, complexo a ponto de despertar poesia, ácido na medida certa e corpo mais difícil de tomar, embora irresistível. Altamente recomendável para fãs de Malbec entenderem o que é o deserto de Salta.
+     - 2018-11-05 Gualiama Malbec 2016 da Salvador Figueroa, menor vinícola da Argentina, foi comprada em 2017 e mantida por um ano e meio envelhecendo na minha adega. Ela possui estrutura pra mais. Envelhecida em tonéis de carvalho ela está ainda doce, como frutas vermelhas mais maduras (ou compota) e um teor alcoólico que abraça a boca, é sedoso embora levemente rudimentar com corpo difícil. Levemente enjoativo, pode aguardar mais tempo, quiçá uns dois anos.
+     - 2018-11-05 Hermanos Torrontés Dulce Natural 2017, da bodega Domingos Molina em Cafayate (Argentina) é o vinho docinho com complexidade, estrutura, frescor e acidez; é possível degustá-lo sozinho.
+     - 2018-10-28 Shiraz 2014 da Porvenir série Laborum comprova que é a melhor vinícola de Cafayate, Argentina, do plantio ao tratamento dos visitantes. Possui corpo médio, personalidade em camadas, difícil de beber porque suas frutas maduras mantêm o cérebro funcionando e apreciando.
+     - 2018-10-28 Quará Torrontes Dulce 2017 é docinho, simples, corpo médio e fácil de beber; pouco enjoativo.
+     - 2018-10-14 Quará Malbec 2014 foi a aquisição direto da bodega para provar um vinho que eu não pagaria 200 reais aqui no Brasil. Mas seu corpo médio com presença de frutas vermelhas e maduras, um aroma rápido e macio, assim como seu sabor tânico e pouco alcoólico comprovam que ele pode muito bem valer 100, e se não fosse o roubo feito na passagem de fronteira custaria mesmo.
+     - 2018-10-12 Ruca Malen Malbec 2016 no começo é um mabec leve demais, frutado; mais tarde fica meio tânico, corpo médio e enebriante.
+     - 2018-10-02 El Porvenir de Cafayate Laborum Malbec Tardío 2018. Um Malbec tão tardio que um mês aberto na geladeira dá sinais de azedo.
+     - 2018-09-26 Travessia é um Malbec alcoólico e frutado para macho, pois seu corpo é pelo menos médio e exige um pouco de postura para beber. Bom ponto de entrada se quer começar a beber vinho como homem.
+    - Chile
+     - 2018-11-10 Casillero del Diablo Cabernet Sauvignon sempre é a opção para o final do rolê: confiável, meio termo e simples, como deve ser para um bando de bêbados.
+     - 2018-10-09 Cabernet Sauvignon da Cosecha Tarapaca 2016 mantém a camada extra de elegância de um vinho industrial, mas que justamente por isso entrega em bom custo benefício.
+    - Brasil
+     - 2019-06-19 Já o Cabernet Sauvignon deles, Tempos, é azedo. Não lembra Cabernet, exceto pelo corpo fraco para médio. Bom para comer com queijo. Bom e barato se você não espera nada além de um vinho honesto e de entrada.
+     - 2019-06-19 O Góes seco é um vinho básico, tão básico que você sente que não há nuance alguma: é uva fermentada e pronto. Sem acidez e sem amargor. Uva, leve e alcoólica.
+   - Norte
+    - EUA
+     - 2018-12-31 Dancing Crow Vineyards Zinfandel Lake County 2017. Estava aberto há uma semana, perdeu o pouco do álcool que tinha e a pouca vibração dos corvos que trazia. Mas o doce também se foi, deixando um gosto ligeiramente agradável de um Zinfandel californiano.
+     - 2018-12-30 Rosso California Red Wine 2015 é o típico "vinho tinto default" da Califórnia. E não é nada demais. Não importa se você colocou por 36 meses na barrica.
+     - 2018-12-30 Joel Gott Zinfandel 2016 é um Zinfandel que consegue até ser equilibrado. Você vai precisar de uma carne muito boa na churrasqueira (como a da festa de fim de ano da BitForge) para conseguir acompanhar.
+     - 2018-12-30 Quem nunca experimentou um Ménage à Trois não sabe o que está perdendo. Se trata de um blend de três uvas. Essa vinícola de Napa tem pelo menos duas receitas.
+     - 2018-12-30 Algumas observações sobre os vinhos em Napa Valley. Uva da Argentina produzida no Chile em formato americano é prova da globalização do local (um ótimo custo/benefício, btw). 36 meses em Napa Valley é um valor comum de reserva na barrica (e o gosto não melhora muito). Inglenook ou a vinícola do Copolla é estilosa, quase brega, mas ainda pra quem curte cinema é o Ó. Os vinhos italiano da uva Primitivo são renomeados nos EUA como Zinfandel (não sei bem pq). Napa importando vinhos australianos que usam uvas de outros lugares do mundo é mais uma prova da globalização. PS: A foto do vinho moneda é uma homenagem ao meu amigo @drmadera.
+  - Europa
+   - Itália
+    - 2019-07-01 Valpolicella é um vinho italiano leve, quase aguado, mas bom de beber sem pressa apreciando a imbatível combinação de amargo e doce (do molho) da pizza de escarola da Cantina do Araújo em Poços de Caldas.
+    - 2018-12-30 Biscardo Valpolicella Ripasso foi presente de um amigo/colega e eu gostei muito. Se trata de um vinho italiano com um corpo decente e um equilíbrio agradabilíssimo no paladar. Fácil de beber (ainda mais com carne).
+    - 2018-11-05 Castelvere Castelloc Abiano 2016 é um rosé italiano que servem no Maremonti, um restaurante de massas que tem no Park Shopping São Caetano; sua primeira impressão é que mesmo custando o olho da cara dá dor de cabeça. A segunda impressão não me lembro.
+   - França
+    - 2019-04-28 Domaine Les Barthes Comté Tolosan. Malbec da França. Confere, produção? Sim, e ele é frutado como Malbec argentino, mas menos ácido, menos adstringente, menos sofrido. Uma experiência de comparação de terroirs. Ele foi a garrafa do meio entre dois Malbecs, um de Mendoza e outro de Rio Negro.
+   - Espanha
+    - 2019-01-04 Valtier Utiel-Requena Reserva 2013 é um espanhol que tem o corpo de um reserva sem o peso da madeira. Mas os aromas estão lá, amadurecidos. Bom, talvez nem tanto.
+    - 2018-11-10 Pata Negra Tempranillo 2016 é uma opção tão boa e leve que dois trouxeram para o rolê. Como se o Cabernet decidisse ter um pouco mais de frescor e personalidade.
+   - Portugal
+    - 2018-11-10 Quinta de Bons-Ventos continua sendo aquele vinho português meio tudo um pouco, meio doce (frutas maduras), meio azedinho, meio vibrante e perfeito para um churrasco na casa do Fernandão.
+
+2019-01-04 Quem não curte frisantes docinhos nem super-secos, o Chandon Brut Rosé é uma boa pedida; rosé levemente gaseificado com aspectos florais que lembra frutas vermelhas frescas (por causa do azedo). Fácil de beber se já provou vinhos secos e gostou; para clima de virada.
+
+2018-12-30 Apesar das expectativas, o Anciano Tempranillo Gran Reserva 2007 Valdepeñas que nosso amigo trouxe ao churrasco decepcionou. Depois de 11 anos em reserva ele simplesmente parece um vinho de apenas 3. Mas é bom, embora não compense guardar.
+
+2018-09-23 Famille Hugel Pinot Noir 2014 é leve demais, sem álcool, sem corpo, nem estrutura. Demonstra como é muito errado manter em reserva esta uva (pelo menos esta versão).
+
+2018-09-23 Tamari AR Malbec 2013 é daqueles momentos onde valeu muito a pena beber vinhos medíocres, pois este é sensacional. Frutado, tânico, estruturado em corpo médio pra forte.
+
+2018-09-01 Cave De Ladac Rouge. Este vinho francês tem corpo leve como Cabernet, fácil de beber, tem umas nuances que lembra fermento frutado, frutas não-cítricas, e é muito bom para conversar com amigos em churrasco na varanda.
+
+2018-09-01 Trivento Tribu Syrah 2017 é um ótimo Mendoza onde o custo/benefício fala mais alto que a busca por vinhos mais complexos dessa bodega de respeito; um pouco alcoólico demais, mas dá pro gasto depois de um tempo.
+
+2018-09-01 El Porvenir Amauta Corte III 2017. Essa família de vinhos da El Porvenir possui 4 cortes, cada um com sua personalidade; este Corte III é Reflexão; um Malbec/Cabernet com corpo médio pra forte, pouco frutado e aromático, mas seu corpo compensa as frivolidades vermelhas que os Malbecs costumam ter.
+
+2018-09-01 Salentein Portillo Dulce Natural Sauvignon Blanc 2017. Que surpresa este vinho doce que achamos no mercado de Tucuman. Ele combina perfeitamente com o queijo de cabra que trouxemos para compartilhar com os amigos e ainda combinou com um delicioso doce de abacaxi da anfitriã. Não é um doce enjoativo, é um doce harmonioso, sem adição de açúcar; apenas esta inusitada uva do Sauv. Blanc em colheita tardia.
+
+2018-08-21 O Reservado Malbec 2017 Concha Y Toro possui uma cor tijolada que não faz muito sentido vindo de um Malbec. Mas isso é porque o mercadinho do lado deve ter deixado esquentando em algum canto por lá. Não importa. Ele ainda mantém o gosto de geléia ou compota de frutas vermelhas e um corpo médio semi-ríspido e pouco aroma. Um vinho do dia-a-dia (apesar do Reservado enganoso).
+
+2018-08-13 O Gato Negro Malbec 2016, também do mercadinho do lado, é um bom custo/benefício para quem gosta de Malbecs frutados (como são os Malbecs), mas sem a frequência de nuances. É um vinho pomposo sem ser caro.
+
+2018-08-13 O Santa Helena Reservado Malbec 2016 do mercado aqui perto de casa não está tão caro, mas para um Malbec relativamente recente ele está queimado. Seu gosto é agradável, mas seu aroma de frutas já se foi há tempos.
+
+2018-08-10 Catena Zapata Malbec 2015 é um pouco decepcionante pelo preço vendido aqui no Brasil e por ser um Malbec tão equilibrado que se torna comportado demais. As notas de frutas vermelhas semi maduras vem mais no sabor, e o aroma não agride mas não cativa. E depois de muito tempo respirando a coisa fica na mesma.
+
+2018-07-13 O Malbec 2016 Santa Helena do mercadinho precisa respirar, pois é muito alcoólico. Mas depois disso vira um ótimo custo/benefício. Corpo médio pra forte com frutado e tanino médios, este Malbec cai bem para degustações leves.
+
+2018-07-01 Trassoles Cabernet Sauvignon Malbec é o único tinto da vinícola cooperativa de Cafayate que está aberta há dez anos. Uma ótima ideia do pessoal de lá, para se proteger da exploração das grandes vinícolas. Esse é bem ríspido, forte e ácido, mas com tempo de respiro fica pouco frutado e tânico. Experimentando com blend de queijo da produtora local (trouxe tudo de lá).
+
+2018-06-25 The WineHouse Tinto Douro. Este vinho portuga estava na minha guarda e abri em seguida ao Pinot Noir para tomá-lo sozinho. Ele é bem mais frutado e doce, encorpado que o Pinot, e mesmo bêbado achei sensacional. Tive que guardar a taça servida para outro momento.
+
+2018-06-25 Portillo Pinot Noir 2016. O Pinot Noir da Salentein parece suquinho acompanhado de comida (estrogonofe que a Mitiko fez), mas tomando sozinho tem um leve azedo com leves aromas de um rosé (apesar de ser tinto). Fácil de beber e um perigo.
+
+2018-06-24 San Pedro de Yacochuya Cabernet Sauvignon 2015 Rancho Cuatro. A 2035 metros acima do mar e mantido metade em barricas de roble francês de primeiro uso e a outra metade em segundo, este vinho de Cafayate da região que leva o nome indígena que significa água leve não tem nada de leve em suas uvas. O Malbec de lá é forte, intenso e de um amargor áspero. Seu blend Malbec/Cabernet, um pouco menos. Porém, este 100% Cabernet Sauvignon alia essa postura agressiva das uvas em um terreno centenário e árido com o envelhecimento por 12 meses na barrica. É possível sentir a madeira em toda sua composição e as notas de personalidade deixadas por esta em um Cabernet que é tudo, menos trivial. Apreciado com a família Incrível no churrasco em casa.
+
+2018-06-24 Domingo Molina Tannat 2014. Mais um Tannat frutado, mas com corpo de presença, de Cafayate. Os Tannats da Argentina não são os mesmos do Uruguai. Os de Salta, como esse, reserva de 2014, mantém a leveza do Tannat com a robustez de seu processo que começa no deserto. Difícil extrair e boa entrada para o churrasco com a família Incrível.
 
 2018-06-24 El Esteco Tinto Tardio Malbec 2015. Ainda jovem, manteve o sabor visto na degustação, de um doce excepcional que apenas a uva Malbec colhida tardiamente possui.
 
