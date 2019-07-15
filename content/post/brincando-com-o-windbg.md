@@ -3,7 +3,7 @@ date: "2007-10-30"
 title: Brincando com o WinDbg
 categories: [ "code" ]
 ---
-No primeiro artigo sobre o WinDbg usamos o aplicativo Logger para verificar as funções APIs que são chamadas por um determinado programa. Agora iremos dar um passo adiante e depurar de fato um aplicativo qualquer, com o detalhe que não teremos o código-fonte.
+No [primeiro artigo sobre o WinDbg](/introducao-ao-debugging-tools-for-windows) usamos o aplicativo Logger para verificar as funções APIs que são chamadas por um determinado programa. Agora iremos dar um passo adiante e depurar de fato um aplicativo qualquer, com o detalhe que não teremos o código-fonte.
 
 Existem duas maneiras de depurar um programa localmente usando o WinDbg: iniciá-lo pelo próprio WinDbg ou conectar o depurador (_attach_) em um programa já em execução. Podemos especificar o que faremos direto na linha de comando ou pela sua interface.
 
@@ -15,7 +15,7 @@ Pela linha de comando:
 
 Pela interface:
 
-WinDbg Debug
+[![WinDbg Debug](http://i.imgur.com/I1he0sD.png)](/images/windbg-debug.png)
 
 Para variar, iremos depurar o Bloco de Notas, o maravilhoso editor de textos da Microsoft e plataforma de testes para serviços, GINAs e _drivers_. Para começar, poderemos usar quaisquer das opções anteriores, o que nos levará para uma saída parecida com a seguinte:
 
@@ -86,7 +86,7 @@ Muito bem. Agora vamos explicar resumidamente o que cada parte significa:
 
 Explicado o começo, o resto é fácil. Para continuar a execução do bloco de notas basta usarmos o comando **g** (_Go_), ou pressionar F5, ou ir no menu "Debug, Go", ou ainda apertar este botão:
 
-Windbg Go Button
+[![Windbg Go Button](http://i.imgur.com/SXmOldC.png)](/images/windbg-go-button.png)
 
 Na maioria dos comandos mais comums você terá todas essas opções ao seu dispor. Na maioria dos comandos mais incomuns tudo o que você terá será o _prompt_ de comando do WinDbg e a ajuda, acionada por F1 ou pelo comando **.hh <tópico>**. Geralmente os comandos do WinDbg possuem milhares de parâmetros, e é considerada atitude sábia olhar de vez em quando o que alguns desses parâmetros significam para que, aos poucos, aprenda-se alguns truques até a chegada da iluminação completa, onde seu espírito irá fluir livremente pela memória de todos os processos do sistema.
 
@@ -98,9 +98,9 @@ Por enquanto, basta apertar **g** e **<enter>**.
 
 Vamos fazer algo não tão esperto para ver como o bloco de notas reage. Tente abrir um arquivo com um nome inexistente:
 
-Notepad File Not Found
+[![Notepad File Not Found](http://i.imgur.com/TNg0kuU.png)](/images/notepad-file-not-found.png)
 
-" e tudo o mais. O importante aqui não é que você não sabe digitar nomes de arquivos, mas sim que a função que o notepad usa para exibir sua mensagem de erro é a conhecida API [MessageBox, cujo protótipo é o seguinte:
+Como podemos ver, o Bloco de Notas exibe uma mensagem de erro indicando que o arquivo cujo nome você digitou não existe, pede para você verificar a "[orografia](http://support.microsoft.com/kb/331708/pt-br)" e tudo o mais. O importante aqui não é que você não sabe digitar nomes de arquivos, mas sim que a função que o notepad usa para exibir sua mensagem de erro é a conhecida API [MessageBox](msdn2.microsoft.com/en-us/library/ms645505.aspx), cujo protótipo é o seguinte:
 
     
     int WINAPI MessageBox(
@@ -211,7 +211,7 @@ Para continuar a execução, como já vimos, usamos o comando **g** (_Go_), e é
 
 O comando **bp** (_**B**reak**P**oint_) permite que sejam especificados comandos para serem executados automaticamente sempre que o _breakpoint_ for ativado. Por isso, ao passar em user32!MessageBoxW colocamos dois comandos (separados por ponto-e-vírgula): **ezu**, que **E**dita uma _string_ _**U**nicode_ com outra _string _terminada em **Z**ero, e o comando **g**, que já estamos carecas de saber. O resultado é óbvio, mas divertido de ver:
 
-Notepad File Not Found Thaks
+[![Notepad File Not Found Thaks](http://i.imgur.com/cFZ0bn3.png)](/images/notepad-file-not-found-thanks.png)
 
 #### Coisas a notar  sobre o maravilhoso Bloco de Notas
 

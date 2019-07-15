@@ -3,13 +3,13 @@ date: "2008-04-11"
 title: Aprendendo assembly com o depurador
 categories: [ "code" ]
 ---
-Além de servir para corrigir alguns bugs escabrosos, o nosso bom e fiel amigo depurador também possui uma utilidade inusitada: ensinar _assembly_! A pessoa interessada em aprender alguns conceitos básicos da arquitetura do 8086 pode se exercitar na frente de um depurador 16 ou 32 bits sem ter medo de ser feliz.
+Além de servir para corrigir alguns [bugs escabrosos](/analisando-dumps-com-windbg-e-ida), o nosso bom e fiel amigo depurador também possui uma utilidade inusitada: ensinar _assembly_! A pessoa interessada em aprender alguns conceitos básicos da arquitetura do 8086 pode se exercitar na frente de um depurador 16 ou 32 bits sem ter medo de ser feliz.
 
 Vamos ver alguns exemplos?
 
 #### A pilha é você quem manda
 
-Para quem está começando, recomendo usar um depurador simples, 16 bits e que existe em todo e qualquer Windows: o **debug**. Já usado para depurar a MBR no Caloni.com.br, poderá agora ser usado para ensinar alguns princípios da plataforma de uma maneira indolor. Basta iniciá-lo na linha de comando:
+Para quem está começando, recomendo usar um depurador simples, 16 bits e que existe em todo e qualquer Windows: o **debug**. Já usado para depurar a MBR no [Caloni.com.br](/depuracao-da-mbr), poderá agora ser usado para ensinar alguns princípios da plataforma de uma maneira indolor. Basta iniciá-lo na linha de comando:
 
     
     debug
@@ -17,7 +17,7 @@ Para quem está começando, recomendo usar um depurador simples, 16 bits e que e
 
 Os comandos mais úteis são o _**r**_ (ver ou alterar registradores), o _**t**_/_**p**_ (executar passo-a-passo), o _**d**_ (exibir memória), o _**u**_ (desmontar assembly) e o _**a**_ (montar assembly). Ah, não se esquecendo do _**?**_ (ajuda).
 
-Teste do debug 16 bits
+![Teste do debug 16 bits](/images/debug-testpng.PNG)
 
 Outro ensinamento bem interessante diz respeito à pilha. Aprendemos sempre que a pilha cresce de **cima pra baixo**, ou seja, de endereços superiores para valores mais baixos. Também vimos que os registradores responsáveis por controlar a memória da pilha são o _**sp**_ (stack pointer) e o _**ss**_ (stack segment). Pois bem. Vamos fazer alguns testes para ver isso acontecer.
 
@@ -118,7 +118,7 @@ Como vemos, ao empilhar coisas na pilha, o valor do registrador sp diminui. E ao
     0:000> g
     ModLoad: 75f50000 7604d000   C:\WINDOWS\system32\BROWSEUI.dll
 
-WinDbg x Notepad
+[![WinDbg x Notepad](http://i.imgur.com/hyDEQtn.png)](/images/windbgxnotepad.png)
 
 Aposto que você sabe em qual dos três botões eu cliquei =)
 
@@ -129,39 +129,39 @@ Depurar é um processo que exige dedicação (experiência) tanto ou mais do que
 Básico a intermediário:
 
 	
-  * Guia básico para programadores de primeiro breakpoint
+  * [Guia básico para programadores de primeiro breakpoint](/guia-basico-para-programadores-de-primeiro-breakpoint)
 
 	
-  * Brincando com o WinDbg
+  * [Brincando com o WinDbg](/brincando-com-o-windbg)
 
 	
-  * Encontrando as respostas do Flash Pops
+  * [Encontrando as respostas do Flash Pops](/encontrando-as-respostas-do-flash-pops)
 
 Intermediário a avançado:
 
 	
-  * Hook de API no WinDbg
+  * [Hook de API no WinDbg](/hook-de-api-no-windbg)
 
 	
-  * Hook de COM no WinDbg
+  * [Hook de COM no WinDbg](/hook-de-com-no-windbg)
 
 	
-  * Detectando hooks globais no WinDbg
+  * [Detectando hooks globais no WinDbg](/detectando-hooks-globais-no-windbg)
 
 	
-  * Analisando dumps com WinDbg e IDA
+  * [Analisando dumps com WinDbg e IDA](/analisando-dumps-com-windbg-e-ida)
 
 Blogues que eu acho superinteressantes sobre _debugging_ (do mais essencial para o mais avançado):
 
 	
-  * Debugging Toolbox
+  * [Debugging Toolbox](http://blogs.msdn.com/debuggingtoolbox/default.aspx)
 
 	
-  * Mark's Blog
+  * [Mark's Blog](http://blogs.technet.com/markrussinovich/default.aspx)
 
 	
-  * Advanced Windows Debugging
+  * [Advanced Windows Debugging](http://blogs.msdn.com/ntdebugging)
 
 	
-  * Crash Dump Analysis
+  * [Crash Dump Analysis](http://www.dumpanalysis.org/blog/)
 

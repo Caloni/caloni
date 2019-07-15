@@ -15,7 +15,7 @@ A partir daí, para chegar em uma LIB, já é meio caminho andado.
 
 Boa pergunta. Uma LIB, ou biblioteca, nada mais é do que um punhado de ".obj" colocados todos no mesmo arquivo, geralmente um ".lib". Esses ".obj" são o resultado da compilação de seus respectivos ".c" de origem.
 
-salada2.gif
+[![salada2.gif](http://i.imgur.com/SiYvl1N.gif)](/images/salada2.gif)
 
 Alguns acreditam ser esse negócio de LIB uma pura perda de tempo, pois existem trocentas configurações diferentes (e incompatíveis) e trocentas compilações diferentes para gerenciar. Outros acham que o problema está no tempo de compilação, enquanto outros defendem o uso dos ".obj" de maneira separada. Esse artigo não presume que nem um nem outro seja melhor. Apenas ensina o que você precisa saber para criar sua primeira LIB usando o Visual Studio Express.
 
@@ -25,15 +25,15 @@ Vamos lá?
 
 Após abrir o VS, tudo que precisamos fazer é ir em New, Project, e escolher a configuração de "Win32 Project":
 
-myfirstlib.png
+[![myfirstlib.png](http://i.imgur.com/o2OVzZn.png)](/images/myfirstlib.png)
 
 A seguir, escolhemos nas opções do assistente criar uma "Static library", e desmarcamos a opção de "Precompiled header" para evitar má sorte logo no primeiro projeto de LIB (má sorte significa horas procurando erros incríveis que você só irá fazer desaparecer se recompilar tudo com o uso do famigerado "Rebuild All"; espero que isso dê certo para você, para mim não tem funcionado).
 
-myfirstlib2.png
+![myfirstlib2.png](http://i.imgur.com/8q9Xv2B.png)
 
 E pronto! Temos um projeto de LIB completo, funcional e... um tanto inútil. Mas, calma lá. Ainda não terminamos.
 
-myfirstlib3.png
+![myfirstlib3.png](http://i.imgur.com/HiIw4iE.png)
 
 #### Adicionando arquivos à sua LIB
 
@@ -79,11 +79,11 @@ Adicionamos esses dois arquivos ao projeto (se já não estão), e _voilà_!
 
 Para usar uma LIB temos inúmeras maneiras de fazê-lo. A mais simples que eu conheço é criar um novo projeto no mesmo Solution de sua LIB. Um console, por exemplo:
 
-myfirstlib4.png
+![myfirstlib4.png](http://i.imgur.com/cokWnIx.png)
 
-myfirstlib5.png
+![myfirstlib5.png](http://i.imgur.com/Lr5Jhfd.png)
 
-myfirstlib6.png
+![myfirstlib6.png](http://i.imgur.com/4yLsZ3p.png)
 
 Se você seguiu todos os passos direitinho, e eu estou assumindo que você já sabia como criar um projeto console, sua saída da compilação talvez seja mais ou menos essa:
 
@@ -103,9 +103,9 @@ Dois erros! Ele não achou os símbolos _mult e _sum. Mas eles estão logo ali! 
 
 Nada a temer: tudo que temos que fazer é falar para o Solution que o projeto myfirstcmd depende do projeto myfirstlib:
 
-myfirstlib7.png
+![myfirstlib7.png](http://i.imgur.com/2SNMdya.png)
 
-myfirstlib8.png
+![myfirstlib8.png](http://i.imgur.com/I0roqBK.png)
 
     
     ------ Build started: Project: MyFirstCmd, Configuration: Debug Win32 ------

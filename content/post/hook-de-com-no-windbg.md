@@ -3,13 +3,13 @@ date: "2007-09-18"
 title: Hook de COM no WinDbg
 categories: [ "code" ]
 ---
-Continuando com o tema _hooks_ no WinDbg, vamos aqui "hookear" e analisar as chamadas de métodos de um objeto COM. O que será feito aqui é o mesmo experimento feito para uma palestra de engenharia reversa que apresentei há um tempo atrás [1], mas com as opções de _pause_, _rewind_, _replay_ e câmera lenta habilitadas.
+Continuando com o tema [_hooks_ no WinDbg](http://www.caloni.com.br/blog/?s=hook+WinDbg), vamos aqui "hookear" e analisar as chamadas de métodos de um objeto COM. O que será feito aqui é o mesmo experimento feito para uma palestra de engenharia reversa que apresentei há um tempo atrás [1], mas com as opções de _pause_, _rewind_, _replay_ e câmera lenta habilitadas.
 
-, aqui e [aqui.
+Antes de começar, se você não sabe nada sobre COM, não deveria estar aqui, mas [aqui](http://search.msdn.microsoft.com/search/Default.aspx?brand=msdn&locale=en-us&query=component+object+model), [aqui](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_com) e [aqui](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=COM+Don+Box&site_origem=1293522).
 
 Pra começar, vamos dar uma olhada na representação da interface IUnknown em UML e em memória:
 
-Layout da VTable
+[![Layout da VTable](http://i.imgur.com/qPjEQSJ.png)](/images/vtable_layout.png)
 
 Como podemos ver, para implementar o polimorfismo, os endereços das funções virtuais de uma classe são colocados em uma tabela, a chamada _vtable_, famosa tanto no COM quanto no C++. Existe uma tabela para cada classe-base polimórfica, e não para cada objeto. Se fosse para cada objeto não faria sentido deixar esses endereços "do lado de fora" do leiaute. E não seria nada simples e elegante fazer uma cópia desse objeto.
 
@@ -17,7 +17,7 @@ Assim, quando você chama uma função virtual de um objeto, o código em _assem
 
 Sabendo de tudo isso, agora sabemos como teoricamente proceder para colocar uns _breakpoints_ nessas chamadas:
 
-Breakpoints na VTable
+[![Breakpoints na VTable](http://i.imgur.com/sElYmOP.png)](/images/vtable_breakpoints.png)
 
 Note que o _breakpoint_ não é colocado dentro da tabela, o que seria absurdo. Uma tabela são dados e dados geralmente não são executados (eu disse geralmente). Porém, usamos a tabela para saber onde está o começo da função para daí colocar a parada nesse endereço, que por fazer parte do código da função é (quem diria!) executado.
 
@@ -56,9 +56,9 @@ IMalloc : public IUnknown
 
 Nesse experimento, como iremos interceptar quando alguém aloca ou desaloca memória, nossos alvos são os métodos Alloc e Free. Para saber onde eles estão na tabela, é só contar, começando pelos métodos do IUnknown, que é de quem o IMalloc deriva. Se houvessem mais derivações teríamos que contar da primeira interface até a última. Portanto: QueryInterface um, AddRef dois, Release três, Alloc quatro, Realloc cinco, Free seis. OK. Contar foi a parte mais fácil.
 
- ou a [CoGetClassObject diretamente na DLL que pretende interceptar. Outras vezes, você receberá o ponteiro em alguma ocasião diversa. O importante é conseguir o ponteiro de alguma forma.
+Agora iremos precisar interceptar primeiro a função que irá retornar essa interface, pois do contrário não saberemos onde fica a _vtable_. Nesse caso, a função é a [ole32!CoGetMalloc](http://msdn2.microsoft.com/en-us/library/ms693395.aspx). Muitas vezes você irá usar a [ole32!CoCreateInstance(Ex)](http://msdn2.microsoft.com/en-us/library/ms680701.aspx) ou a [CoGetClassObject](http://msdn2.microsoft.com/en-us/library/ms684007.aspx) diretamente na DLL que pretende interceptar. Outras vezes, você receberá o ponteiro em alguma ocasião diversa. O importante é conseguir o ponteiro de alguma forma.
 
-Nesse exemplo iremos obter o ponteiro através de um aplicativo de teste trivial, ignorando todas aquelas proteções _antidebugging_ que podem estar presentes no momento da reversa, feitos por alguém que lê meu blog:
+Nesse exemplo iremos obter o ponteiro através de um aplicativo de teste trivial, ignorando todas aquelas proteções _antidebugging_ que podem estar presentes no momento da reversa, feitos por alguém que [lê meu blog](http://www.caloni.com.br/blog/?s=antidebug) (quanta pretensão!):
 
 ```cpp
 /** @brief A stupid sample for show WinDbg COM hooking!
@@ -116,7 +116,7 @@ WinDbg. Na opção "File, Open Executable" selecionamos a nossa vítima, cujo no
     ole32!CoGetMalloc:
     774ddcf8 8bff            mov     edi,edi
 
-Maravilha. Alguém chamou a função que queríamos (quem será?). Agora podemos dar uma olhada na pilha e no protótipo da CoGetMalloc:
+Maravilha. Alguém chamou a função que queríamos (quem será?). Agora podemos dar uma olhada na pilha e no [protótipo da CoGetMalloc](http://msdn2.microsoft.com/en-us/library/ms693395.aspx):
 
     
     HRESULT CoGetMalloc(DWORD
@@ -203,4 +203,8 @@ E não é que tudo deu certo? A variável foi preenchida, e partir dela demos um
 Note que a função pode eventualmente ser chamada internamente (pelo próprio objeto) ou até por outro objeto que não estamos interessados em interceptar (lembre-se que os métodos de uma classe são compartilhados por todos os objetos). Por isso é importante sempre dar uma olhada no primeiro parâmetro, que é o **_this_** que obtemos primeiramente.
 
 Com isso termina o nosso pequeno experimento de como é possível interceptar chamadas COM simplesmente contando e usando o WinDbg. OK, talvez um pouquinho a mais, mas nada de quebrar a cabeça.
+
+[1] Engenharia Reversa para Principiantes:
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cgeTnnM8pSIG0O" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/WanderleyCaloni/engenharia-reversa-para-principiantes" title="Engenharia Reversa para Principiantes" target="_blank">Engenharia Reversa para Principiantes</a> </strong> from <strong><a href="//www.slideshare.net/WanderleyCaloni" target="_blank">Wanderley Caloni</a></strong> </div>
 

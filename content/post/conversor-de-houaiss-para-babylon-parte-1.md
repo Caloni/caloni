@@ -3,7 +3,7 @@ date: "2008-02-27"
 title: Conversor de Houaiss para Babylon - parte 1
 categories: [ "code" ]
 ---
- estão gravadas em um primeiro momento, para depois remontarmos essa informação de maneira que ela possa ser usada em outro dicionário de uso mais flexível, o [Babylon. Ou seja, este não é um guia de vandalismo. Estava apenas querendo usar um dicionário de qualidade excelente em outro dicionário cuja interface é muito boa.
+Este artigo é sobre desmontar e montar novamente. Iremos descobrir como as entradas do [dicionário Houaiss eletrônico](http://compare.buscape.com.br/categoria?id=30&lkout=1&kw=houaiss&site_origem=1293522) estão gravadas em um primeiro momento, para depois remontarmos essa informação de maneira que ela possa ser usada em outro dicionário de uso mais flexível, o [Babylon](http://www.babylon.com). Ou seja, este não é um guia de vandalismo. Estava apenas querendo usar um dicionário de qualidade excelente em outro dicionário cuja interface é muito boa.
 
 **Sobre pirataria**
 
@@ -11,15 +11,15 @@ Considero o Houaiss o melhor dicionário da atualidade, uso todo santo dia e ten
 
 Assim como adquiri o Houaiss, também comprei o Babylon, um programa-dicionário, cuja interface permite buscar o significado das palavras lidas no computador simplesmente clicando nelas. A qualidade de seu dicionário português embutido é medíocre, mas o que ele ganha mesmo é em sua interface fácil para acessar palavras. Exatamente por faltar um dicionário em português de peso no Babylon, e eu ter adquirido outro muito melhor, quis que ambos funcionassem juntos, ou seja, acesso o Babylon e tenho o resultado adicional desse meu dicionário tupiniquim.
 
-O Babylon possui um mecanismo para criação de dicionários chamado Babylon Builder. Sabendo que possuo ambas as licenças desses dois programas me sinto mais aliviado em tentar desencriptar a base de dados do primeiro para construir um dicionário para o segundo, e assim realizar meu sonho de consumo: um Babylon com um dicionário de peso!
+O Babylon possui um mecanismo para criação de dicionários chamado [Babylon Builder](http://www.babylon.com/display.php?id=15&tree=3&level=2). É muito simples e fácil de usar (além de ser gratuito). Sabendo que possuo ambas as licenças desses dois programas me sinto mais aliviado em tentar desencriptar a base de dados do primeiro para construir um dicionário para o segundo, e assim realizar meu sonho de consumo: um Babylon com um dicionário de peso!
 
-Licença do Houaiss
+[![Licença do Houaiss](http://i.imgur.com/y35XTT7.png)](/images/houaiss-license.png)
 
 #### Instalação
 
 É necessário que, na hora da instalação, seja escolhida a opção de copiar os arquivos para o disco. Estarei utilizando o path padrão de um Windows em português, que é "C:\Arquivos de Programas\Houaiss".
 
-Instalação do Houaiss
+[![Instalação do Houaiss](http://i.imgur.com/XDSMDu9.png)](/images/houaiss-install.png)
 
 A estrutura de diretórios interna da instalação é bem simples:
 
@@ -37,11 +37,11 @@ Se analisarmos o conteúdo dos arquivos dentro da pasta Dicionario vamos descobr
     
     for %i in (*.*) do type %i | less
 
-Saída dos arquivos do dicionário
+[![Saída dos arquivos do dicionário](http://i.imgur.com/u3IQ3aD.gif)](/images/cmd.gif)
 
 #### Análise
 
-Sabendo que o conteúdo do dicionário está em arquivos localizados no disco, e que teoricamente o programa não deve copiar todo o conteúdo para a memória, iremos depurar o processo do dicionário de olho nas chamadas da função ReadFile quando clicarmos em uma definição de palavra.
+Sabendo que o conteúdo do dicionário está em arquivos localizados no disco, e que teoricamente o programa não deve copiar todo o conteúdo para a memória, iremos depurar o processo do dicionário de olho nas chamadas da função [ReadFile](http://msdn2.microsoft.com/en-us/library/aa365467(VS.85).aspx) quando clicarmos em uma definição de palavra.
 
     
     windbg -pn houaiss2.exe

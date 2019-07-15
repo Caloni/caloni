@@ -7,9 +7,9 @@ categories: [ "code" ]
 
 Mas se analisarmos dessa maneira pode parecer até coisa de "ráquer", o que certamente não é. Na verdade, se trata de um programa didático que visa ensinar a digitação em leiautes de teclados diferentes do normal em idiomas latinos. Pelo menos essa foi a intenção original. 
 
- e estava na hora de pôr em prática no computador. Mas, como quase nunca treinava, quando tentava procurar uma palavra no [Babylon ou arriscar uma expressão nas conversas com minha amiga de Moscou me perdia completamente para encontrar as letras. A necessidade é a mãe da invenção e foi aí que começou o desenvolvimento.
+Na época eu estava às voltas com o leiaute do famoso teclado russo (percebeu a origem do nome do programa?). Eu havia estudado [cirílico](http://en.wikipedia.org/wiki/Cyrillic) e estava na hora de pôr em prática no computador. Mas, como quase nunca treinava, quando tentava procurar uma palavra no [Babylon](http://www.babylon.com/) ou arriscar uma expressão nas conversas com minha amiga de Moscou me perdia completamente para encontrar as letras. A necessidade é a mãe da invenção e foi aí que começou o desenvolvimento.
 
-Um alfabeto é uma das muitas maneiras de representar as palavras de uma língua por escrito. Uma palavra escrita é um conjunto de letras que representa os sons que usamos para falar essa palavra. Cada som usado é chamado de fonema.
+Um alfabeto é uma das muitas maneiras de representar as palavras de uma língua por escrito. Uma palavra escrita é um conjunto de letras que representa os sons que usamos para falar essa palavra. Cada som usado é chamado de [fonema](http://en.wikipedia.org/wiki/Phoneme).
 
 Assim sendo, embora o alfabeto russo seja diferente do alfabeto latino muitos fonemas são compartilhados. Isso quer dizer que podemos pegar algumas letras do cirílico e traduzir diretamente para algumas letras do nosso alfabeto, e outras letras não. Exemplos de letras que podemos fazer isso:
 
@@ -22,7 +22,7 @@ Assim sendo, embora o alfabeto russo seja diferente do alfabeto latino muitos fo
 
 Porém, após a tradução de uma letra no teclado, a posição dela geralmente não é a mesma posição do nosso teclado. Daí temos uma letra de nosso alfabeto em outro lugar. Se for feita uma tradução aproximada entre os dois alfabetos, nossas letras em um teclado russo ficariam dispostas assim:
 
-Russian Keyboard
+[![Russian Keyboard](http://i.imgur.com/0ylTrKm.png)](/images/russian-keyboard.png)
 
 Bem diferente do QWERT ASDFG que estamos acostumados, não?
 
@@ -33,7 +33,7 @@ A idéia é simples, e o código também não é nada complexo. Só preciso de u
     
     g_hHook = SetWindowsHookEx(WH_GETMESSAGE, HookProc, GetModuleHandle(MODULE_NAME), 0);
 
-Nas chamadas da função de _callback_ da DLL, manipulo a mensagem WM_CHAR, que corresponde à digitação de caracteres, para trocar os caracteres originais do teclado pelos caracteres que deveriam existir no recém-inventado formato latino-russo, totalmente fora dos padrões e normas de segurança existentes:
+Nas chamadas da função de _callback_ da DLL, manipulo a mensagem [WM_CHAR](http://msdn.microsoft.com/library/en-us/winui/winui/windowsuserinterface/userinput/keyboardinput/keyboardinputreference/keyboardinputmessages/wm_char.asp), que corresponde à digitação de caracteres, para trocar os caracteres originais do teclado pelos caracteres que deveriam existir no recém-inventado formato latino-russo, totalmente fora dos padrões e normas de segurança existentes:
 
 ```cpp
 switch( pMsg->message )
@@ -56,5 +56,5 @@ switch( pMsg->message )
 Simples assim. E temos um _keylogger_ que troca caracteres! É impressionante como as coisas mais simples podem se transformar nos momentos mais divertidos de um programador em um feriado.
 
     
-  * Endereço do artigo (e fontes) no Code Project
+  * [Endereço do artigo (e fontes) no Code Project](http://www.codeproject.com/KB/winsdk/ruskey.aspx)
 

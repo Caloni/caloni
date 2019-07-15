@@ -5,7 +5,7 @@ categories: [ "code" ]
 ---
 Após algumas semanas de suspense, chegamos finalmente à nossa segunda e última parte da saga do dicionário Houaiss.
 
-Como devem estar lembrados, a primeira parte se dispôs a desmontar a ofuscação usada nos arquivos do dicionário para permitir nossa posterior análise, com o simples e justo objetivo de importá-lo para o Babylon, cujas funcionalidades de busca são bem superiores.
+Como devem [estar lembrados](/conversor-de-houaiss-para-babylon-parte-1), a primeira parte se dispôs a desmontar a ofuscação usada nos arquivos do dicionário para permitir nossa posterior análise, com o simples e justo objetivo de importá-lo para o Babylon, cujas funcionalidades de busca são bem superiores.
 
 Feito isso, agora nos resta entender a estrutura interna do Houaiss para montar um conversor que irá ajudar o Babylon Builder a construir nosso Houaiss-Babylon. Simples, não?
 
@@ -15,7 +15,7 @@ O nosso rústico importador fez o trabalho de desofuscar todos os 53 arquivos us
 
 Partindo do bom senso, abriremos o arquivo maior, deah001.txt, e abriremos o próprio dicionário Houaiss, em busca de um padrão que faça sentido. Como poderemos ver na figura abaixo, o padrão inicial não é nem um pouco complicado.
 
-Houaiss Analysis
+[![Houaiss Analysis](http://i.imgur.com/8nBeU0z.png)](/images/houaiss-analysis.png)
 
 As duas primeiras observações do formato do arquivo nos dizem que (1) o primeiro caractere de cada linha indica o conteúdo dessa linha, e que (2) a formatação dos caracteres é feita dentro de um par de chaves {}.
 
@@ -129,12 +129,12 @@ Algumas partes ainda estão feias, eu sei. Mas, ei, isso é um código de ráque
 
 A partir dessas duas funções é possível dissecar o primeiro arquivo do dicionário, e assim, construirmos a primeira versão interessante do Houaiss no Babylon.
 
-Houaiss Babylon Installing
+![Houaiss Babylon Installing](http://i.imgur.com/QDxFcBL.png)
 
 Como é normal a qualquer dicionário do Babylon, podemos instalá-lo simplesmente clicando duas vezes no arquivo (em uma máquina com Babylon previamente instalado).
 
-Houaiss Babylon
+[![Houaiss Babylon](http://i.imgur.com/aznsNZq.png)](/images/houaiss-babylon.png)
 
 O projeto atual está um tanto capenga, mas já desencripta os arquivos do Houaiss e gera o projeto do Babylon Builder sozinho. Em anexo já está um projeto do Babylon Builder. Basta copiar o arquivo Houaiss.txt para a pasta do projeto e gerar o projeto do Babylon.
 
-Para os interessados em incrementar a versão atual, sintam-se à vontade.
+Para os interessados em incrementar [a versão atual](/images/houaiss2babylon.7z), sintam-se à vontade.

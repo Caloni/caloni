@@ -52,7 +52,7 @@ void __fastcall TForm2::Button1Click(TObject *Sender)
 
 ```
 
-Agora, no evento de **OnClose** (acho que você conhece o Object Inspector, não? Bom, se não conhece, talvez isso mereça um artigo à parte do **TForm1** insira o seguinte código:
+Agora, no evento de **OnClose** (acho que você conhece o Object Inspector, não? Bom, se não conhece, talvez isso mereça um [artigo à parte](http://www.caloni.com.br/introducao-ao-c-builderturbo-c)) do **TForm1** insira o seguinte código:
 
 ```cpp
 void __fastcall TForm1::FormClose(TObject *Sender, TCloseAction &Action)
@@ -66,11 +66,11 @@ Pronto! Agora você decide onde termina e onde acaba sua aplicação.
 
 #### Por baixo dos panos da VCL
 
-C++ Builder Forms
+[![C++ Builder Forms](http://i.imgur.com/ECCRWxD.png)](/images/cppbuilder-forms.png)
 
-Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o _loop_ de mensagens que já conhecemos.
+Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o _loop_ de mensagens que [já conhecemos](/historia-do-windows-parte-30).
 
-Para analisarmos melhor o que ocorre nos _internals_ da coisa, criei um projeto simplista terminar aplicação. Os dois formulários são tão parecidos que desconfio que sejam gêmeos.
+Para analisarmos melhor o que ocorre nos _internals_ da coisa, criei um [projeto simplista](/images/cppbuilder-forms.7z) que possui dois _forms_, ambos com quatro botões: 1) mostrar o outro _form_, 2) esconder a si mesmo, 3) fechar a si mesmo e 4) terminar aplicação. Os dois formulários são tão parecidos que desconfio que sejam gêmeos.
 
 Além disso, iremos precisar do nosso velho e fiel amigo WinDbg, o que o trás de volta à cena do crime depois de alguns artigos de jejum.
 
@@ -79,9 +79,9 @@ Além disso, iremos precisar do nosso velho e fiel amigo WinDbg, o que o trás d
 > 
 > #### Não fique de fora!
 > 
-_Para saber mais sobre o WinDbg e dar suas "WinDbgzadas", dê uma olhada em alguns artigos interessantes_ _sobre depuração usando WinDbg_.</blockquote>
+_Para saber mais sobre o WinDbg e dar suas "WinDbgzadas", dê uma olhada em alguns [artigos interessantes](http://www.caloni.com.br/blog/search/WinDbg)_ _sobre depuração usando WinDbg_.</blockquote>
 
-A primeira coisa que um _loop_ de mensagens deveria fazer seria chamar a função GetMessage, que obtém a primeira mensagem em espera na fila de mensagens da _thread_ chamadora. Portanto, vamos dar uma olhada nas chamadas dessa função:
+A primeira coisa que um _loop_ de mensagens deveria fazer seria chamar a função [GetMessage](http://msdn2.microsoft.com/en-us/library/ms644936.aspx), que obtém a primeira mensagem em espera na fila de mensagens da _thread_ chamadora. Portanto, vamos dar uma olhada nas chamadas dessa função:
 
     
     windbg Project1.exe
@@ -92,7 +92,7 @@ A primeira coisa que um _loop_ de mensagens deveria fazer seria chamar a funçã
 
 E o resultado é... nada! Mesmo mexendo com a janela e apertando seus botões não há uma única ocorrência do GetMessage. Bruxaria? Programação oculta?
 
-Nem tanto. Uma alternativa ao GetMessage, que captura a primeira mensagem da fila de mensagens e a retira, é o PeekMessage, que captura a primeira mensagem da fila, mas **mantém a mensagem na fila**. Por algum motivo, os programadores da Borland fizeram seu _loop_ de mensagens usando PeekMessage.
+Nem tanto. Uma alternativa ao GetMessage, que captura a primeira mensagem da fila de mensagens e a retira, é o [PeekMessage](http://msdn2.microsoft.com/en-us/library/ms644943.aspx), que captura a primeira mensagem da fila, mas **mantém a mensagem na fila**. Por algum motivo, os programadores da Borland fizeram seu _loop_ de mensagens usando PeekMessage.
 
     
     bc*
@@ -161,9 +161,9 @@ Podemos bater essas informações com as do aplicativo **Spy++**, que captura ja
 > 
 _Normalmente esses dois rodando juntos podem causar alguns conflitos internos. Por isso, quando for usar o Spy++, procure desabilitar seus breakpoints. Após mexer no Spy++, feche-o antes de continuar depurando._</blockquote>
 
-Spy++ Window Search
+[![Spy++ Window Search](http://i.imgur.com/6vmV4qb.png)](/images/spyxx-window-search.png)
 
-Spy++ Window Search Result
+[![Spy++ Window Search Result](http://i.imgur.com/Wzc7A0u.png)](/images/spyxx-window-search-result.png)
 
 Como podemos ver, nesse caso a janela encontrada foi justamente a que não aparece: TApplication! Sim, a classe principal da VCL é representada em _runtime_ por uma janela escondida, que controla algumas mensagens específicas da aplicação.
 

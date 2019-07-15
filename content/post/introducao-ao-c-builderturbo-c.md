@@ -3,9 +3,9 @@ date: "2007-09-26"
 title: Introdução ao C++ Builder...Turbo C++
 categories: [ "code" ]
 ---
-Após mais de [um ano de tentativas, finalmente consegui instalar e iniciar com sucesso o **Borland Developer Studio**. Esse foi o nome pomposo dado pela Borland para a "continuação" do velho [C++ Builder e seus parentes, o Delphi e o C# Builder.
+[![Borland Developer Studio](http://i.imgur.com/FYJMkF7.png)](/images/borland-developer-studio.png)Após mais de [um ano de tentativas](http://www.blogger.com/profile/05210880271965378292), finalmente consegui instalar e iniciar com sucesso o **Borland Developer Studio**. Esse foi o nome pomposo dado pela Borland para a "continuação" do velho [C++ Builder](http://cc.codegear.com/free/cppbuilder) e seus parentes, o Delphi e o C# Builder.
 
-Existem muitas coisas novas ainda para ver, mas não é a usabilidade. Assim como a IDE antiga, é fácil de sair mexendo e fazendo janelas, no bom estilo WYSIWYG dos produtos da Borland.
+Existem muitas coisas novas ainda para ver, mas não é a usabilidade. Assim como a IDE antiga, é fácil de sair mexendo e fazendo janelas, no bom estilo [WYSIWYG](http://en.wikipedia.org/wiki/Wysiwyg) dos produtos da Borland.
 
 #### Breve relato histórico do C++ Builder
 
@@ -24,7 +24,7 @@ Para as pessoas que chegam nesse nível de necessidade, existem basicamente duas
 	
   3. Mudar de sistema operacional e esquecer esse negócio de _loop_ de mensagens (eu disse duas escolhas, certo?)
 
-C++ Builder 1.0
+[![C++ Builder 1.0](http://i.imgur.com/0PabqFm.png)](/images/cppbuilder1-splash.png)
 
 Bom, eis que surge o C++ Builder: uma ferramenta idêntica ao Delphi, contudo que oferece a linguagem C++ para que todas aquelas pessoas recém-saídas da faculdade e ansiosas por entrar no mercado de trabalho esqueçam aquele papo de Pascal e passem a usar a linguagem da indústria. Pelo jeito, era mais ou menos essa a visão da Borland quando lançaram o produto.
 
@@ -32,7 +32,7 @@ Desde o princípio, o C++ Builder foi lançado em revistas de informática em ve
 
 O mais impressionante no Builder era que desde o começo, na versão 1, já tínhamos aquela palheta maravilhosa cheio de todos os controles que já faziam parte do Windows 95. Tudo isso por causa de uma estratégia simples e eficaz: os componentes são os mesmos do Delphi. O que o C++ Builder adicionou foi uma camada de interface para que C++ e Object Pascal conversassem. O resultado disso é espantoso: é possível programar em C++ puro, chamar APIs diretamente, e ainda usar os componentes em Delphi, além de também poder desenvolver em Delphi e mesclar ambas as linguagens em um projeto. É possível até usar herança entre componentes escritos em Delphi e C++ Builder.
 
- comecei a trabalhar profissionalmente com o C++ Builder, ao desenvolver o aplicativo de administração do __software de controle de acesso. Na época não tínhamos muito tempo para perder desenvolvendo tudo em Win32 API ou usar algo mais rústico como a MFC, que é mais parecido com a finada biblioteca OWL do que com a [VCL. E não, usar Visual Basic não era uma alternativa. Como a produtividade estava em jogo, hoje tenho certeza que fizemos uma boa escolha._
+> _Quando entrei na [Scua](http://www.scua.com.br) comecei a trabalhar profissionalmente com o C++ Builder, ao desenvolver o aplicativo de administração do __software de controle de acesso. Na época não tínhamos muito tempo para perder desenvolvendo tudo em Win32 API ou usar algo mais rústico como a MFC, que é mais parecido com a finada biblioteca [OWL](http://en.wikipedia.org/wiki/Object_Windows_Library) do que com a [VCL](http://en.wikipedia.org/wiki/Visual_Component_Library) (a biblioteca visual de componentes usada pela Borland para Delphi e Builder). E não, usar Visual Basic não era uma alternativa. Como a produtividade estava em jogo, hoje tenho certeza que fizemos uma boa escolha._
 
 #### Guia supersimples de instalação do Turbo Explorer em i passos
 
@@ -41,23 +41,23 @@ Eu gostava do C++ Builder antigo: sem frescura de registrar componentes e sem ne
 Mas desde que o mundo gerenciado veio à tona, para instalar esse singelo produto da Borland você vai precisar de alguns pré-requisitos da Microsoft:
 
 	
-  1. Microsoft .NET Framework SDK 1.1
+  1. [Microsoft .NET Framework SDK 1.1](http://www.google.com/search?q=Microsoft%20.NET%20Framework%20SDK%201.1)
 
 	
-  2. Visual J# .NET Redistributable Package 1.1
+  2. [Visual J# .NET Redistributable Package 1.1](http://www.google.com/search?q=Visual%20J#%20.NET%20Redistributable%20Package%201.1)
 
 	
-  3. Microsoft XML 4.0 SP2 Parser and SDK
+  3. [Microsoft XML 4.0 SP2 Parser and SDK](http://www.google.com/search?q=Microsoft%20XML%204.0%20SP2%20Parser%20and%20SDK)
 
-Se for necessária mais alguma instalação, não se preocupe: o Borland Turbo C++ Instalation Wizard irá te avisar no momento da instalação, que deverá ser a última a ser realizada.
+Se for necessária mais alguma instalação, não se preocupe: o[ Borland Turbo C++ Instalation Wizard](http://cc.codegear.com/free/cppbuilder) irá te avisar no momento da instalação, que deverá ser a última a ser realizada.
 
-Após tudo isso instalado, finalmente conseguiremos rodar nossa ferramenta RAD. Aliás, antes que eu me esqueça, RAD é uma abreviação para Rapid Application Development.
+Após tudo isso instalado, finalmente conseguiremos rodar nossa ferramenta RAD. Aliás, antes que eu me esqueça, RAD é uma abreviação para [Rapid Application Development](http://en.wikipedia.org/wiki/Rapid_application_development).
 
 #### Clique e arraste
 
 Se você nunca usou essa ferramenta, ao abrir o ambiente, irá se deparar com vários elementos que precisam ser nomeados e explicados para fazer algum sentido. Mesmo que muitas coisas sejam novas, algumas devem estar sempre gravadas em sua memória:
 
-Turbo C++ IDE
+[![Turbo C++ IDE](http://i.imgur.com/TnOnGKm.png)](/images/turbocpp-ide.png)
 
 #### Object Inspector
 
@@ -73,9 +73,9 @@ Onde estão todos os meus arquivos? O Gerenciador de Projetos está aí para aju
 
 #### Nosso primeiro projeto
 
-Builder Notepad
+[![Builder Notepad](http://i.imgur.com/qepwbbJ.png)](/images/builder-notepad.png)
 
-Considerando que o Bloco de Notas é minha vítima preferida para testes (e a vítima preferida de outros, nada melhor que nosso projeto seja um Bloco de Notas simplificado, que leia, exiba e salve arquivo-texto. Para esse projeto iremos utilizar apenas 5 componentes e cerca de 10 linhas de código:
+Considerando que o Bloco de Notas é minha vítima preferida para testes (e a vítima preferida de [outros](http://www.driverentry.com.br), também), nada melhor que nosso projeto seja um Bloco de Notas simplificado, que leia, exiba e salve arquivo-texto. Para esse projeto iremos utilizar apenas 5 componentes e cerca de 10 linhas de código:
 
 	
   * 2 botões (abrir e salvar arquivo),
@@ -86,6 +86,6 @@ Considerando que o Bloco de Notas é minha vítima preferida para testes (e a v�
 	
   * 2 caixas de diálogo comum (abrir e salvar arquivo).
 
-Builder Notepad Design
+[![Builder Notepad Design](http://i.imgur.com/8GEaElh.png)](/images/builder-notepad-design.png)
 
- em cerca de 5MB de vídeo, além dos [fontes do projeto. Bom divertimento!
+A implementação da versão alfa está [disponível para visualização](/images/turbocpp.htm) em cerca de 5MB de vídeo, além dos [fontes do projeto](/images/2007-09-26-builder-notepad.7z). Bom divertimento!

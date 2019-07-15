@@ -3,7 +3,7 @@ date: "2010-04-21"
 title: Por que Long Pointer
 categories: [ "code" ]
 ---
-, já que ainda falta explicar por que diabos os ponteiros da Microsoft começam com LP. Tentei explicar para [minha pupila que, por ser código dos anos 80, as pessoas usavam LP para tudo, pois os CDs ainda não estavam tão difundidos.
+Esse artigo continua a explicação sobre [os typedefs arcaicos](http://www.caloni.com.br/typedef-arcaico), já que ainda falta explicar por que diabos os ponteiros da Microsoft começam com LP. Tentei explicar para [minha pupila](/basico-do-basico-ponteiros) que, por ser código dos anos 80, as pessoas usavam LP para tudo, pois os CDs ainda não estavam tão difundidos.
 
     
     <span style="color: #808000;">/** @brief Para instanciar um Bozo. @date 1982-02-21 */ 
@@ -28,13 +28,13 @@ Antigamente, as pessoas mandavam cartas umas para as outras. Carta, para você, 
 
 Para mandar um e-mail, usamos o nome da pessoa e o domínio em que seu e-mail é endereçado, ex: nome-da-pessoa@dominio.com.br. Para mandar uma carta usamos duas informações básicas: o nome da rua e o número da casa.
 
-Endereço de uma carta
+[![Endereço de uma carta](http://i.imgur.com/OhPq5ZX.png)](/images/endereco-da-carta.png)
 
 Consequentemente enviamos dois comandos ao carteiro: meu amigo, vá para a rua tal. Chegando lá, encontre o número 1065.
 
 Considere que estamos falando do mesmo bairro ou cidade, o que na minha analogia seria um computador e sua memória. Para enviar cartas para outros bairros em outras cidades (outros computadores em outras redes) teríamos que informar também outros dados, como nome da cidade e CEP.
 
-Encontrando o caminho
+[![Encontrando o caminho](http://i.imgur.com/qI5DrM5.png)](/images/getting-right-on-street.png)
 
 Nesse exemplo também podemos usar o Juquinha do bairro para entregar a carta e economizarmos 10 centavos.
 
@@ -42,7 +42,7 @@ Agora, repare que interessante: em uma rua, cabem no máximo N casas. Se você t
 
 E, já que estamos falando do endereço do destinatário, já podemos relevar que esse endereço constitui um ponteiro em nossa analogia. Se você está usando dois dados para informar o endereço, então estamos falando de um ponteiro longo, long pointer, ou LP!
 
-Relação Segmento x Offset com Rua x Número
+[![Relação Segmento x Offset com Rua x Número](http://i.imgur.com/C7Rfuqi.png)](/images/relacao-endereco-carta-segmento-offset.png)
 
 #### Long Pointers
 
@@ -54,7 +54,7 @@ Ora, se seu destinatário está na mesma rua que você, tudo que você tem a diz
 
 Porém, no exemplo que demos, o destinatário está em outra rua. Se o Juquinha entregar a carta no número 1065, mas na rua errada, estará errando o destinatário. Por isso é que você deve usar um long pointer e falar para o Juquinha do segmento!
 
-Se perdendo nas ruas
+[![Se perdendo nas ruas](http://i.imgur.com/2BO8tJv.png)](/images/getting-lost-on-streets.png)
 
 "Juquinha, seu moleque safado, entrega essa carta no Segmento 0xAC89, Offset 0x496E. E vê se anda logo!"
 
@@ -71,7 +71,7 @@ Com toda essa analogia, fica fácil perceber que o Windows não cabe em uma rua 
 
 E é por isso que, historicamente, todos os ponteiros para os apelidos da API Win32 possuem sua contraparte LP.
 
-Com a era 32 bits (e mais atualmente 64 bits) os endereços passaram a ser flat, ou seja, apontam para qualquer lugar na memória. Se eu quisesse continuar minha analogia falaria que é o equivalente a uma coordenada GPS, também muito na moda, e que pode apontar para qualquer lugar do planeta. Eu, por exemplo, já trabalhei <del>trabalho</del> perto das coordenadas -23.563596,-46.653885.
+Com a era 32 bits (e mais atualmente 64 bits) os endereços passaram a ser flat, ou seja, apontam para qualquer lugar na memória. Se eu quisesse continuar minha analogia falaria que é o equivalente a uma coordenada GPS, também muito na moda, e que pode apontar para qualquer lugar do planeta. Eu, por exemplo, já trabalhei <del>trabalho</del> perto das coordenadas [-23.563596,-46.653885](http://maps.google.com.br/maps?f=q&source=s_q&hl=pt-BR&geocode=&q=av.+paulista,+sao+paulo&ie=UTF8&hq=&hnear=Av.+Paulista+-+S%C3%A3o+Paulo&z=15), o que eu costumo dizer que fica bem próximo do Paraíso =).
 
 #### Largando velhos hábitos
 

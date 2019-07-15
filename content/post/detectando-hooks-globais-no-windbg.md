@@ -38,9 +38,9 @@ Exatamente o que o comando se dispõe a fazer: **imprimir seus argumentos na tel
 
 Se essa mensagem fosse exibida mais de uma vez, poderíamos supor que é possível existir algum tipo de infecção na execução do aplicativo, como quando o código inicial carrega o original e volta a executar o mesmo ponto.
 
-Código Malicioso
+[![Código Malicioso](http://i.imgur.com/f90hl3p.gif)](/images/codigo-malicioso.gif)
 
-O objetivo aqui é "preparar o terreno" (ficar residente) antes que o código original seja executado. Com um simples _breakpoint_ e um simples .echo conseguimos visualizar esse tipo de ataque. Outra possibilidade é que se trata daqueles executáveis "empacotados" por meio de algum encriptador de códigos como UPX, que desempacota o código e reexecuta o ponto de entrada do executável.
+O objetivo aqui é "preparar o terreno" (ficar residente) antes que o código original seja executado. Com um simples _breakpoint_ e um simples .echo conseguimos visualizar esse tipo de ataque. Outra possibilidade é que se trata daqueles executáveis "empacotados" por meio de algum encriptador de códigos como [UPX](http://www.google.com.br/search?q=UPX), que desempacota o código e reexecuta o ponto de entrada do executável.
 
 Claro, esse é apenas um uso que podemos fazer desses comandos.
 
@@ -57,14 +57,14 @@ Se **Expression** for verdadeiro, **Command1** será executado; do contrário, *
     
     '.echo *** GLOBAL HOOK ***; g'"
 
-Tudo depende do uso que você fizer desde comando. Algumas peculiaridades existem com relação ao uso de aspas duplas, simples, sem aspas, com ponto-e-vírgula, etc, mas são coisas que, como diz o Thiago, "só se aprende na dor".
+Tudo depende do uso que você fizer desde comando. Algumas peculiaridades existem com relação ao uso de aspas duplas, simples, sem aspas, com ponto-e-vírgula, etc, mas são coisas que, como diz o [Thiago](http://www.codebehind.wordpress.com), "só se aprende na dor".
 
 #### Brincando com a pilha (de novo)
 
-Lembram-se de nossa peregrinação pela pilha de chamadas quando fizemos um _hook_ na função MessageBox: o ID da _thread_ para onde vai o _hook_:
+Lembram-se de nossa peregrinação pela pilha de chamadas quando fizemos um [_hook_ na função MessageBox](http://www.caloni.com.br/brincando-com-o-windbg) pelo WinDbg? Aqui é a mesma coisa, pois estou analisando um parâmetro passado na pilha (esp): o ID da _thread_ para onde vai o _hook_:
 
     
-    HHOOK SetWindowsHookEx(
+    HHOOK <a href="http://msdn2.microsoft.com/en-us/library/ms644990.aspx" title="SetWindowsHookEx no MSDN">SetWindowsHookEx</a>(
     	int idHook,
     	HOOKPROC lpfn,
     	HINSTANCE hMod,

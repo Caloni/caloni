@@ -3,9 +3,9 @@ date: "2008-07-18"
 title: O conhecido unresolved external
 categories: [ "code" ]
 ---
-O artigo anterior mostrou que nem sempre as coisas são simples de resolver, mas que sempre existe um caminho a seguir e que, eventualmente, todos os problemas se solucionarão.
+O [artigo anterior](/o-caso-da-funcao-de-delay-load-desaparecida) mostrou que nem sempre as coisas são simples de resolver, mas que sempre existe um caminho a seguir e que, eventualmente, todos os problemas se solucionarão.
 
-Porém, resolver um problema por si só não basta: é preciso **rapidez**. E como conseguimos rapidez para resolver problemas? Um jeito que eu, meu cérebro e o Dmitry Vostokov conhecem é **montando padrões**.
+Porém, resolver um problema por si só não basta: é preciso **rapidez**. E como conseguimos rapidez para resolver problemas? Um jeito que eu, meu cérebro e o [Dmitry Vostokov](http://www.dumpanalysis.org/blog/) conhecem é **montando padrões**.
 
 Um padrão nos ajuda a não pensar novamente em coisas que sabemos a resposta, de tantas vezes que já fizemos. Só precisamos saber o caminho para resolver determinado problema.
 

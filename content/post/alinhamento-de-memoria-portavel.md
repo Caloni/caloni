@@ -3,7 +3,7 @@ date: "2008-06-18"
 title: Alinhamento de memória portável
 categories: [ "code" ]
 ---
-Como vimos durante o seminário CCPP. A forma como a memória é alinhada influi diretamente em algoritmos de criptografia, por exemplo, fazendo com que o que funcionava antes não funcione mais sem mexer uma única linha de código. Eu já vi isso. E isso não é bom.
+Como vimos durante o [seminário CCPP](http://www.caloni.com.br/resultado-do-seminario-ccpp), o alinhamento de memória pode ser problemático durante momentos críticos, como migração de plataforma (16 para 32 bits) e de ambiente (compilador novo). A forma como a memória é alinhada influi diretamente em algoritmos de criptografia, por exemplo, fazendo com que o que funcionava antes não funcione mais sem mexer uma única linha de código. Eu já vi isso. E isso não é bom.
 
 A raiz do problema é que, dependendo do alinhamento usado pelo compilador, o sizeof de uma variável pode mudar de valor, mesmo que o tamanho útil não mude. Por exemplo, vamos supor que temos uma dada estrutura que iremos encriptar:
 
@@ -87,11 +87,11 @@ O código acima usa o conceito de união de estruturas (union) para fazer valer 
 
 Uma estrutura, como todos sabem, amontoa os seus membros um após o outro na memória. Dessa forma podemos tratar um bloco de memória com um leiaute que definimos com outros tipos:
 
-struct.gif
+![struct.gif](http://i.imgur.com/ZOSbCwW.gif)
 
 Em uma união, os membros não são amontoados um após o outro. Todos eles começam no mesmo ponto da memória. Eles se sobrescrevem. O tamanho da união sempre é o tamanho do seu maior membro, e não a soma de todos. É um tanto difícil de descrever esse leiaute, mas imagine que você tenha apenas uma posição na memória e queira chamá-la de vários nomes e tamanhos diferentes. Essa é a união.
 
-union.gif
+![union.gif](http://i.imgur.com/o2u9ozy.gif)
 
 Como deve ser fácil de imaginar, uma união não tem tanto uso quanto uma estrutura, mas ainda assim faz parte da linguagem. Ela possibilita enxergar a mesma região de memória sob vários ângulos. Podemos descobrir a organização de um inteiro na memória, por exemplo, byte a byte:
 
@@ -114,13 +114,13 @@ Como deve ser fácil de imaginar, uma união não tem tanto uso quanto uma estru
     
     }
 
-Dependendo se a plataforma onde o programa acima é compilado, a exibição do último printf pode mudar. Eis o motivo.
+Dependendo se a plataforma onde o programa acima é compilado, a exibição do último printf pode mudar. [Eis o motivo](http://en.wikipedia.org/wiki/Endianness).
 
 #### De volta para a solução
 
 Agora que sabemos o que são uniões fica fácil entender o esquema da solução portável. Eu simplesmente uso a segunda estrutura como uma auxiliar de alinhamento. Com ela do tamanho múltiplo do alinhamento desejado forçamos a união inteira a ter esse alinhamento, independente do tamanho da estrutura útil, a que iremos usar para armazenar dados.
 
-testealign.gif
+![testealign.gif](http://i.imgur.com/ecTWkWD.gif)
 
 Tudo que temos que saber para fazer o alinhamento é o tamanho normal de nosso tipo útil (o Teste). A partir desse valor deduzimos o próximo número que seja múltiplo de 8, através da seguinte construção:
 
@@ -133,7 +133,7 @@ Ou seja, se já for múltiplo de 8, é o próprio valor. Se não for, então div
 
 #### Tornando as coisas genéricas
 
-É lógico que, como se trata de uma construção onde temos completo domínio dos tipos e valores envolvidos, transformar isso em um _template _é "pedaço de torta".
+É lógico que, como se trata de uma construção onde temos completo domínio dos tipos e valores envolvidos, transformar isso em um _template _é "[pedaço de torta](http://en.wikipedia.org/wiki/Piece_of_cake)".
 
 ```cpp
 #include <stdio.h>

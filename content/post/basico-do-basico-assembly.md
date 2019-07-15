@@ -3,13 +3,13 @@ date: "2009-01-26"
 title: 'Básico do básico: assembly'
 categories: [ "code" ]
 ---
-É lógico que não poderia faltar no cinto de utilidades de todo bom programador C conhecimentos **básicos** da linguagem assembly, sua mãe espiritual. São tantos conceitos em comum que, uma vez aprendido seu funcionamento, fica difícil não pensar no código-assembly gerado pelo compilador C. E é nesse ponto que as coisas começam a ficar mais claras.
+É lógico que não poderia faltar no cinto de utilidades de todo bom programador C conhecimentos **básicos** da linguagem [assembly](http://pt.wikipedia.org/wiki/Assembly), sua mãe espiritual. São tantos conceitos em comum que, uma vez aprendido seu funcionamento, fica difícil não pensar no código-assembly gerado pelo compilador C. E é nesse ponto que as coisas começam a ficar mais claras.
 
 Antes de tudo, é importantíssimo lembrar que o foco aqui é apenas a arquitetura **8086**, um dos marcos na invenção de computadores de massa, mas que existem trocentros outros modelos de processadores e computadores funcionando mundo afora. Não deixe sua mente fechar para os outros tipos de modelos.
 
 A CPU trabalha em conjunto com a memória RAM. Só que o acesso à essa memória, apesar de rápida, não é comparável à velocidade em que as coisas ocorrem dentro da própria CPU. Esse é apenas um dos motivos para a existência de um conjunto bem menor de memória que vive nas entranhas do processador, bem ao lado dele. São os chamados **registradores**.
 
-Registradores da CPU
+![Registradores da CPU](http://i.imgur.com/kcKufIn.gif)
 
 Os registradores são memória do tipo ultra-rápida que funciona **no mesmo ritmo do processador**. A maioria das instruções executadas pela CPU faz referência a pelo menos um registrador. E por um motivo muito simples: é o modelo de entrada-e-saída funcionando!
 
@@ -34,13 +34,13 @@ A operação acima é realizada através de microinstruções bem sucintas:
 	
   4. **Carregue memória x com valor do registrador 1**
 
-Os registradores da CPU em ação
+![Os registradores da CPU em ação](http://i.imgur.com/N90ooMD.gif)
 
 É lógico que o sistema não se baseia apenas em movimentações simples de memória. Existem algumas abstrações que estão incrustadas no funcionamento da arquitetura. Uma das mais importantes é o conceito de **pilha**, vital tanto em arquitetura, quanto assembly, quanto linguagem C e muitas outras linguagens, também.
 
 Pilha é uma forma de armazenar memória em blocos empilhados um-a-um. Esses blocos são empilhados na ordem a, b, c e desempilhados na ordem c, b, a. Ou seja, quem foi empilhado por último será o primeiro a ser desempilhado. A analogia com uma pilha de pratos é óbvia e simples de imaginar.
 
-![Exemplo de pilha na memória.
+![Pratos de cozinha empilhados.](http://i.imgur.com/wZ6kKs8.jpg)![Exemplo de pilha na memória.](http://i.imgur.com/EmiZKdc.gif)
 
 Para isso funcionar em termos de memória computacional, o programa reserva um espaço de memória com começo e fim que irá guardar os blocos empilhados. Além de ter começo e fim é necessário ter um marcador de onde estamos para empilhar o próximo item ou desempilhar o último.
 
@@ -58,7 +58,7 @@ Você os verá em 90% das ocasiões em que desassemblar seu código C, pois a ro
 
 #### Flags?
 
-Ah, sim, as flags! Elas são importantíssimas para o funcionamento sadio de nossos programas. Sem as flags, não teríamos coisas maravilhosas e fundamentais na programação moderna, tais como o salto condicional.
+Ah, sim, as flags! Elas são importantíssimas para o funcionamento sadio de nossos programas. Sem as flags, não teríamos coisas maravilhosas e fundamentais na programação moderna, tais como o [salto condicional](/a-inteligencia-do-if-parte-1).
 
 As flags são bits que **mudam de acordo com algumas instruções**, principalmente as de **comparação** (vide cmp). Após a execução de comparação, o estado de determinadas flags junto da próxima instrução (que deverá ser um salto condicional) irá dizer para onde o programa irá pular sua execução. É assim que temos o if:
 
@@ -119,4 +119,4 @@ O código acima seria representado em assembly mais ou menos como abaixo:
 
 Desmonte programas, chamadas API. Veja que funções internas elas chamam para realizar determinada tarefa. Tente mudar o comportamento do programa para provar que suas observações sobre o funcionamento estavam corretas.
 
- [mais [detalhado de artigos estava sendo publicado pelo DQ. Recomendo veementemente sua leitura.</blockquote>
+<blockquote>PS.: Ia me esquecendo. Enquanto estava escrevendo este artigo, um [conjunto](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-14.html) [bem](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-24.html) [mais](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-34.html) [detalhado](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-44.html) de artigos estava sendo publicado pelo DQ. Recomendo veementemente sua leitura.</blockquote>

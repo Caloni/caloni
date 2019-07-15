@@ -3,9 +3,9 @@ date: "2007-07-02"
 title: Introdução ao SoftICE
 categories: [ "code" ]
 ---
-O que acontece quando você precisa depurar um programa e não tem o Visual Studio instalado na máquina onde o problema está ocorrendo? Ora, para isso que existe o Remote Debugging. Eu uso direto. Você só precisa rodar um pequeno programa na máquina que vai ser depurada e abrir uma porta ou duas. O resto o Visual Studio da máquina que vai depurar faz.
+O que acontece quando você precisa depurar um programa e não tem o Visual Studio instalado na máquina onde o problema está ocorrendo? Ora, para isso que existe o [Remote Debugging](http://msdn2.microsoft.com/en-us/library/bt727f1t(vs.80).aspx). Eu uso direto. Você só precisa rodar um pequeno programa na máquina que vai ser depurada e abrir uma porta ou duas. O resto o Visual Studio da máquina que vai depurar faz.
 
-Tudo bem, mas e se estamos falando de depuração em _kernel mode_? Bem, nesse caso o mais indicado é o nosso já conhecido WinDbg. Só precisamos de um cabo serial, _firewire_ ou USB conectando as duas máquinas.
+Tudo bem, mas e se estamos falando de depuração em _kernel mode_? Bem, nesse caso o mais indicado é o nosso já conhecido [WinDbg](/introducao-ao-debugging-tools-for-windows). Só precisamos de um cabo serial, _firewire_ ou USB conectando as duas máquinas.
 
 **Tá certo. Só que eu estou depurando o _kernel-mode_ de um ****Windows 95/98/ME.**
 
@@ -19,13 +19,13 @@ Para piorar as coisas, existe mais um último problema: a máquina não está ao
 
 O SoftICE é um depurador de _kernel_ e _user mode_ que é instalado na própria máquina depurarada. Ou seja, ele não precisa de uma segunda máquina só para rodar o depurador ou parte dele. Funciona no MS-DOS (versão 16 bits), plataforma 9x e NT. Criado pela **Numega**, mais tarde foi comprado pela **Compuware**, que passou a vendê-lo como um pacote para desenvolvimento de drivers, o **Driver Studio**. No seu time de desenvolvimento passaram nomes consagrados como **Matt Pietrek** e **Mark Russinovich**.
 
-Essa ferramenta teve seus dias de glória quando a maioria dos _crackers _a utilizava para quebrar a proteção de programas e do sistema operacional. Tanto foi famosa que foram desenvolvidas diversas técnicas para detectar se o SoftICE estava ativo na máquina, mais ou menos o equivalente das diversas técnicas atuais para detectar se um programa está sendo executado dentro de uma **máquina virtual**.
+Essa ferramenta teve seus dias de glória quando a maioria dos _crackers _a utilizava para quebrar a proteção de programas e do sistema operacional. Tanto foi famosa que foram desenvolvidas diversas técnicas para detectar se o SoftICE estava ativo na máquina, mais ou menos o equivalente das diversas [técnicas](http://invisiblethings.org/papers/redpill.html) atuais para detectar se um programa está sendo executado dentro de uma **máquina virtual**.
 
 **Script básico para uso do SoftICE**
 
 O SoftICE deve ser instalado na máquina do desenvolvedor para gerar os símbolos dos programas e na máquina que vai ser depurada para depurar. Isso quer dizer que ele não precisa ser ativado na máquina do desenvolvedor. Só precisamos usar uma ferramenta chamada **Symbol Loader**, responsável por gerar símbolos e empacotar os fontes para serem usados na máquina depurada.
 
-Instalação do SoftICE
+[![Instalação do SoftICE](http://i.imgur.com/0TDI9Yv.png)](/images/softice-install.png)
 
 Na hora de instalar, você tem três opções:
 
@@ -55,7 +55,7 @@ Se tudo der certo no final teremos dois arquivos a serem copiados para a máquin
 
 Depois de copiados e o _driver_ instalado, insira pelo Symbol Loader o arquivo NMS na lista de símbolos a serem carregados no _reboot._ Após configurar o depurador como lhe aprouver basta reiniciar a máquina. Feito o _reboot_, existe uma tecla mágica que irá nos levar para o mundo da tela preta, o ambiente padrão do SoftICE: **Ctrl + D**.
 
-SoftICE
+[![SoftICE](http://i.imgur.com/zwns3XE.png)](/images/softice.png)
 
 A interface é divida em pseudojanelas que ficam organizadas em camadas. Para exibir/esconder as janelas ou especificar o tamanho de uma delas usa-se o comando **w**. Aliás, basta começar a digitar um comando e o programa irá listar os comandos possíveis.
 
@@ -71,6 +71,6 @@ Com certeza existe um monte de coisas novas para aprender quando se troca de dep
   * Os nomes dos comandos se assemelham aos do WinDbg. Tente usá-los e sinta as diferenças.
 
 	
-  * A ajuda do programa é muito boa e explica direitinho todos os detalhes do ambiente. Caso algo falhe, RTFM!
+  * A ajuda do programa é muito boa e explica direitinho todos os detalhes do ambiente. Caso algo falhe, [RTFM](http://en.wikipedia.org/wiki/Rtfm)!
 
 Essa parece ser uma introdução muito básica ao SoftICE. E na verdade é. Teremos outras oportunidades mais pra frente de usar esse poderoso depurador, principalmente naqueles casos onde um problema só acontece no Windows 95 Release A e sem rede. Isso não é tão incomum quanto parece.

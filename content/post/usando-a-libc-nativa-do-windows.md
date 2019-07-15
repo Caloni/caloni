@@ -121,8 +121,8 @@ E agora o tamanho final de nosso executável passou para espantosos 2KB! Isso a 
 #### Para quem é viciado por economia de espaço
 
     
-  * Reduce EXE and DLL Size with LIBCTINY.LIB - Matt Pietrek
+  * [Reduce EXE and DLL Size with LIBCTINY.LIB](http://msdn.microsoft.com/msdnmag/issues/01/01/hood/) - Matt Pietrek
 
     
-  * Creating the smallest possible PE executable
+  * [Creating the smallest possible PE executable](http://www.phreedom.org/solar/code/tinype/)
 

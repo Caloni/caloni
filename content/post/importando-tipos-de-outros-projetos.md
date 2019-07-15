@@ -3,7 +3,7 @@ date: "2010-01-11"
 title: Importando tipos de outros projetos
 categories: [ "code" ]
 ---
-A engenharia reversa das entranhas do kernel não tem limites se você sabe o que está fazendo. No entanto, algumas facilidades do depurador podem ajudar a minimizar o tempo que gastamos para analisar uma simples estrutura. Por exemplo, o Process Environment Block de um processo específico.
+A engenharia reversa das entranhas do kernel não tem limites se você sabe o que está fazendo. No entanto, algumas facilidades do depurador podem ajudar a minimizar o tempo que gastamos para analisar uma simples estrutura. Por exemplo, o [Process Environment Block](http://msdn.microsoft.com/en-us/library/aa813706%28VS.85%29.aspx) de um processo específico.
 
     
     windbg -kl
@@ -33,13 +33,13 @@ A engenharia reversa das entranhas do kernel não tem limites se você sabe o qu
         DirBase: 0ac80a80  ObjectTable: e143a7d8  HandleCount: 152.
         Image: notepad.exe
 
- traz inúmeras informações sobre essa estrutura. Mas talvez estivéssemos interessados em coisas não mostradas por esse comando, mas [que existem na estrutura.
+O comando [!peb](http://windbg.info/doc/1-common-cmds.html#11_process) traz inúmeras informações sobre essa estrutura. Mas talvez estivéssemos interessados em coisas não mostradas por esse comando, mas [que existem na estrutura](http://undocumented.ntinternals.net/UserMode/Undocumented%20Functions/NT%20Objects/Process/PEB.html).
 
-PEB ¿não-documentado¿
+![PEB ¿não-documentado¿](http://i.imgur.com/L3E4KSS.png)
 
 Nesse caso, podemos criar um projeto vazio que contenha a definição da estrutura **como acreditamos** que esteja na versão do kernel que estamos depurando.
 
-MyPEB
+![MyPEB](http://i.imgur.com/l4oLJHR.png)
 
 Compilamos e geramos um PDB (arquivo de símbolos) que contém a definição desse tipo. Tudo que precisamos fazer agora é carregar esse símbolo na sessão que estivermos depurando.
 
@@ -87,7 +87,7 @@ Compilamos e geramos um PDB (arquivo de símbolos) que contém a definição des
     start    end        module name
     bac60000 bac66700   USBSTOR  M (private pdb symbols)  <font color="#0000ff">C:\Tests\KernelTypes\Debug\usbstor.pdb</font>
 
-Depois que o símbolo foi carregado em nosso módulo de mentirinha, tudo que temos a fazer é alterar o contexto do processo atual (para que os endereços de user mode façam sentido) e moldar nossa memória com o comando dt, usando o tipo importado do símbolo carregado.
+Depois que o símbolo foi carregado em nosso módulo de mentirinha, tudo que temos a fazer é alterar o contexto do processo atual (para que os endereços de user mode façam sentido) e moldar nossa memória com o comando [dt](http://windbg.info/doc/1-common-cmds.html#12_thread), usando o tipo importado do símbolo carregado.
 
     
     lkd> .process 89068700
@@ -115,6 +115,6 @@ Depois que o símbolo foi carregado em nosso módulo de mentirinha, tudo que tem
        +0x03c TlsExpansionCounter : 0
     ...
 
-Para que isso funcione, a estrutura definida tem que bater offset por offset com os dados na memória, o que envolve alinhamento (se lembre do pragma pack e versionamento corretos. Se isso não ocorrer, logo aparecerá algum lixo nos membros da estrutura que não fará sentido. Se isso ocorrer, detecte onde o lixo começa e verifique se o membro existe nessa versão do sistema operacional, ou se o alinhamento está de acordo com o módulo analisado.
+Para que isso funcione, a estrutura definida tem que bater offset por offset com os dados na memória, o que envolve alinhamento (se lembre do [pragma pack](http://msdn.microsoft.com/en-us/library/2e70t5y1%28VS.80%29.aspx)) e versionamento corretos. Se isso não ocorrer, logo aparecerá algum lixo nos membros da estrutura que não fará sentido. Se isso ocorrer, detecte onde o lixo começa e verifique se o membro existe nessa versão do sistema operacional, ou se o alinhamento está de acordo com o módulo analisado.
 
 Acho que não é preciso dizer que isso não serve apenas para kernel mode =)

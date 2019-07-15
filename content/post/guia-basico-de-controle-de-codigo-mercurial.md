@@ -5,20 +5,20 @@ categories: [ "code" ]
 ---
 Houve um bom motivo para que, semana passada, eu estivesse caçando inúmeras versões de um projeto desenvolvido fora da empresa: **falta de controle de código**. Esse tipo de lapso pode consumir de horas a dias de tempo perdido, dependendo de em quantas cópias de máquinas virtuais ficou espalhado o código.
 
-Já escrevi a respeito da importância de controlar e gerenciar o código-fonte para que a falta de um histórico exato das alterações não seja motivo de recorreções de problemas, binários no cliente sem contraparte para ajustes, além de uma série de dores de cabeça que costumam começar a ocorrer assim que nos damos conta que nosso software está uma bagunça que dói.
+Já [escrevi a respeito](/guia-basico-de-controle-de-codigo-source-safe) da importância de controlar e gerenciar o código-fonte para que a falta de um histórico exato das alterações não seja motivo de recorreções de problemas, binários no cliente sem contraparte para ajustes, além de uma série de dores de cabeça que costumam começar a ocorrer assim que nos damos conta que nosso software está uma bagunça que dói.
 
- e [Subversion, ambos largamente utilizados no mundo todo.
+Na época, discursei brevemente sobre alguns exemplos de gerenciadores de fonte que utilizam **modelo centralizado**, e nos exemplos práticos usamos o famigerado **Source Safe**, velho amigo de quem já programa ou programou Windows por alguns anos. Além dele, temos os conhecidíssimos [CVS](http://www.nongnu.org/cvs/) e [Subversion](http://subversion.tigris.org/), ambos largamente utilizados no mundo todo.
 
-. Nesse tipo de gerenciamento, a liberdade aumenta exponencialmente, permitindo coisas que no modelo antigo seriam muito difíceis de serem implementadas. Não vou me delongar explicando a teoria por trás da idéia, sabendo que, além de existir um ótimo texto explicando as vantagens em cima do modelo centralizado [disponível na web, o próprio sítio das implementações atuais explica a idéia de maneira muito convincente. E são elas:
-
-	
-  * Git. Conhecido como o controlador de fontes do _kernel_ do Linux. Escrita a versão inicial por Linux Torvalds em C e módulos de Perl pendurados, hoje em dia tem como principal desvantagem a falta de suporte nos ambientes Windows, impactando negativamente em projetos portáveis. Sua principal vantagem, no entanto, é a rapidez: é o controle de fonte mais rápido do oeste.
+No entanto, uma nova forma de controlar fontes está nascendo já há algum tempo, com relativo sucesso e crescentes esperanças: o [modelo distribuído](http://en.wikipedia.org/wiki/Distributed_revision_control). Nesse tipo de gerenciamento, a liberdade aumenta exponencialmente, permitindo coisas que no modelo antigo seriam muito difíceis de serem implementadas. Não vou me delongar explicando a teoria por trás da idéia, sabendo que, além de existir um ótimo texto explicando as vantagens em cima do modelo centralizado [disponível na web](http://ianclatworthy.files.wordpress.com/2007/10/dvcs-why-and-how3.pdf), o próprio sítio das implementações atuais explica a idéia de maneira muito convincente. E são elas:
 
 	
-  * Mercurial. Sem dúvida o mais fácil de usar. Bem documentado e com comandos intuitivos para o usuário, vem ganhando mais adeptos a cada dia. Seu desempenho é comparável ao do Git, e seu sistema de arquivos é bem eficiente.
+  * [Git](http://git.or.cz/). Conhecido como o controlador de fontes do _kernel_ do Linux. Escrita a versão inicial por Linux Torvalds em C e módulos de Perl pendurados, hoje em dia tem como principal desvantagem a falta de suporte nos ambientes Windows, impactando negativamente em projetos portáveis. Sua principal vantagem, no entanto, é a rapidez: é o controle de fonte mais rápido do oeste.
 
 	
-  * Bazaar. O irmão mais próximo do Mercurial, com comandos bem parecidos. Um costuma lembrar os comandos do outro, com pequenas diferenças. Seu desempenho não chega a ser comparável aos dois acima, mas sua robustez compensa, pois é o único, de acordo com testes e estudos, que suporta o controle total de operações de renomeação de arquivos e pastas. Recentemente seu projeto tem evoluído muito.
+  * [Mercurial](http://www.selenic.com/mercurial/wiki/) (ou _**hg**_). Sem dúvida o mais fácil de usar. Bem documentado e com comandos intuitivos para o usuário, vem ganhando mais adeptos a cada dia. Seu desempenho é comparável ao do Git, e seu sistema de arquivos é bem eficiente.
+
+	
+  * [Bazaar](http://bazaar-vcs.org/) (ou _**bzr**_). O irmão mais próximo do Mercurial, com comandos bem parecidos. Um costuma lembrar os comandos do outro, com pequenas diferenças. Seu desempenho não chega a ser comparável aos dois acima, mas sua robustez compensa, pois é o único, de acordo com testes e estudos, que suporta o controle total de operações de renomeação de arquivos e pastas. Recentemente seu projeto tem evoluído muito.
 
 #### Distribuído x Centralizado
 
@@ -34,7 +34,7 @@ Porém, a maior vantagem em termos de desenvolvimento acaba sendo a liberdade do
 
 #### Caso de uso: Mercurial
 
-Comecei a usar em meus projetos pessoais o **Mercurial** por ter ouvido falar dele primeiro. Achei a idéia fantástica, pois já estava à procura de um substituto para meu velho Source Safe, meio baleado das tantas inovações de controle de fonte que surgiram nos projetos de fonte aberto. Outro motivo para desistir do Source Safe foi o fato de ser uma solução comercial que custa dinheiro e não chega a ser absurdamente mais fácil de usar a ponto de valer a pena usá-lo.
+Comecei a usar em meus projetos pessoais o **Mercurial** por ter [ouvido falar](http://www.evilbitz.com/2007/11/04/an-approach-to-revision-control-your-documents/) dele primeiro. Achei a idéia fantástica, pois já estava à procura de um substituto para meu velho Source Safe, meio baleado das tantas inovações de controle de fonte que surgiram nos projetos de fonte aberto. Outro motivo para desistir do Source Safe foi o fato de ser uma solução comercial que custa dinheiro e não chega a ser absurdamente mais fácil de usar a ponto de valer a pena usá-lo.
 
 O princípio de uso de uma ferramenta distribuída é muito simples: se você tiver um diretório de projeto já criado, basta, dentro dessa pasta, iniciar o repositório de fontes.
 
@@ -85,9 +85,9 @@ Se o programa não disse nada ao efetuar o _commit_, é porque está tudo certo.
 
 Como vimos, ao alterar um arquivo controlado este é mostrado pelo comando _status_ como alterado (o M na frente do Main.cpp). Também existem controles para cópia e exclusão de arquivos.
 
- feita pelo meu amigo [Márcio.
+Esse é o básico que se precisa saber para usar o Mercurial. Simples, não? O resto também é simples: fazer _branches_ e juntá-los é uma questão de costume, e está entre as boas práticas de uso. Eu recomendo fortemente a leitura do tutorial "**Entendendo o Mercurial**", disponível no sítio do projeto, até para entender o que existe por trás da idéia do controle descentralizado de fontes. Existe uma [tradução muito boa](http://www.selenic.com/mercurial/wiki/index.cgi/BrazilianPortugueseUnderstandingMercurial) feita pelo meu amigo [Márcio](http://marcioandreyoliveira.blogspot.com/).
 
-Como usuário de Windows, posso dizer que a versão funciona muito bem, e é possível fazer coisas como, por exemplo, usar o WinMerge para juntar _branches_ ou comparar versões automaticamente, o que por si só já mata toda a necessidade que eu tinha do Source Safe.
+Como usuário de Windows, posso dizer que a versão funciona muito bem, e é possível fazer coisas como, por exemplo, usar o [WinMerge](http://winmerge.org/) para juntar _branches_ ou comparar versões automaticamente, o que por si só já mata toda a necessidade que eu tinha do Source Safe.
 
 #### Mercurial ou Bazaar?
 
@@ -96,10 +96,10 @@ Testei o Mercurial por cerca de três meses desde que o conheci. Esse fim-de-sem
 #### Para começar começando
 
 	
-  * Leia o tutorial passo-a-passo do Mercurial
+  * [Leia o tutorial passo-a-passo do Mercurial](http://www.selenic.com/mercurial/wiki/index.cgi/BrazilianPortugueseTutorial)
 
 	
-  * Leia o tutorial passo-a-passo do Bazaar
+  * [Leia o tutorial passo-a-passo do Bazaar](http://doc.bazaar-vcs.org/bzr.dev/en/mini-tutorial/index.html)
 
 	
   * Comece a usá-los em projetos simples e pequenos

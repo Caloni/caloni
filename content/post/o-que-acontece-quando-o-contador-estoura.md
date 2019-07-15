@@ -75,4 +75,4 @@ E o mais legal é que agora sabemos que o primeiro número é o **maior valor po
 > 
 > #### Para pensar
 > 
-_Consegue imaginar como os cálculos são feitos pelo computador? Curioso? Então dê uma olhada_.</blockquote>
+_Consegue imaginar como os cálculos são feitos pelo computador? Curioso? Então [dê uma olhada](http://en.wikipedia.org/wiki/Twos_complement)_.</blockquote>

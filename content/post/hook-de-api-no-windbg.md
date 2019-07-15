@@ -3,9 +3,9 @@ date: "2007-08-29"
 title: Hook de API no WinDbg
 categories: [ "code" ]
 ---
- ou ele chama a função [kernel32!GetProcAddress explicitamente [1].
+[![MiniBSOD - Pequena tela azul](http://i.imgur.com/NTPiyb4.png)](/images/minibsod.png)Basicamente existem duas maneiras de um executável obter o endereço de uma função API do Windows: ou ele usa uma lib de interface com a DLL (o chamado "_link_ estático") ou ele chama a função [kernel32!GetProcAddress](http://msdn2.microsoft.com/en-us/library/ms683212.aspx) explicitamente [1].
 
-Para conseguir saber as funções das quais um executável obtém o endereço através da primeira técnica podemos utilizar o mundialmente famoso Dependency Walker, mas não costuma funcionar muito bem com _trojans_, pois eles capotam antes que alguma coisa interessante ocorra.
+Para conseguir saber as funções das quais um executável obtém o endereço através da primeira técnica podemos utilizar o mundialmente famoso [Dependency Walker](http://www.dependencywalker.com/). Ele nos mostrará quais DLLs ele utiliza e quais funções por DLL ele quer o endereço. Ele também nos avisa sobre as DLLs que estão utilizando _delay load_, uma técnica inventada no Visual Studio para que os executáveis não dependam estaticamente de APIs muito novas que podem não existir em versões do Windows mais antigas. Com o Depends também é possível fazer _hook_ de chamadas de API utilizando a opção _profiling_ (F7), mas não costuma funcionar muito bem com _trojans_, pois eles capotam antes que alguma coisa interessante ocorra.
 
 O importante do Dependency Walker para o WinDbg é que com um editor é possível copiar todas as funções exibidas em sua interface para um editor, usar um pouco de _regular expressions_ e criar uma batelada de _breakpoints_ no WinDbg:
 
@@ -73,11 +73,11 @@ Essa é uma maneira rústica, porém eficaz e rápida de obter a lista de execu�
 #### Outras ferramentas úteis para análise de chamadas
 
 	
-  * http://www.kakeeware.com: sítio com monitor de chamadas de API e outras ferramentas interessantes. Detalhe notável: o cara faz tudo usando apenas _assembly_, o que torna os programas realmente pequenos e rápidos.
+  * [http://www.kakeeware.com](http://www.kakeeware.com): sítio com monitor de chamadas de API e outras ferramentas interessantes. Detalhe notável: o cara faz tudo usando apenas _assembly_, o que torna os programas realmente pequenos e rápidos.
 
 	
-  * ComTrace: outro monitor de chamadas, mas de componentes COM. Intercepta todas as chamadas de métodos de um aplicativo.
+  * [ComTrace](http://www.blunck.se/comtrace/comtrace.html): outro monitor de chamadas, mas de componentes COM. Intercepta todas as chamadas de métodos de um aplicativo.
 
 #### Exemplo para testar
 
-Desenvolvi um exemplo didático que procura por acessos a bancos nacionais conhecidos, exibindo seu endereço caso encontre. Você pode baixar o executável
+Desenvolvi um exemplo didático que procura por acessos a bancos nacionais conhecidos, exibindo seu endereço caso encontre. Você pode [baixar o executável](/images/trojan-bin.7z) e fazer sua análise. Se conseguir descobrir o que o programa faz, não deixe de comentar neste artigo o método por você empregado, de preferência com o máximo de dados obtidos. Boa sorte =)

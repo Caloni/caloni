@@ -148,7 +148,7 @@ Bem, nesse caso, "welcome... to the desert... of the double":
 
 Pois é, 37 erros. Depois perguntam por que as pessoas ficam com medo de programar em C++...
 
-Porém, a correção é mais simples do que parece: baixar o boost e trocar o nome do namespace.
+Porém, a correção é mais simples do que parece: baixar o [boost](http://www.boost.org/) e trocar o nome do namespace.
 
 ```cpp
 #include <boost/shared_ptr.hpp>

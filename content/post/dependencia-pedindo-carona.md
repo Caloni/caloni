@@ -9,19 +9,19 @@ Foi o caso da ToolHelp32 no Windows NT 4.
 
 #### Como as coisas funcionam
 
-Quando compilamos, cada CPP vira uma coleção de funções que serão usadas, mais tarde, pelo linker, para juntar a bagunça. Para mais detalhes dessa fascinante história, recomendo o fantástico artigo sobre Os diferentes erros na linguagem C, seção **Linkedição**.
+Quando compilamos, cada CPP vira uma coleção de funções que serão usadas, mais tarde, pelo linker, para juntar a bagunça. Para mais detalhes dessa fascinante história, recomendo o fantástico artigo sobre [Os diferentes erros na linguagem C](/os-diferentes-erros-na-linguagem-c), seção **Linkedição**.
 
 Para as dependências localizadas fora do executável final, por exemplo, as DLLs do sistema, o linker cria uma entrada no formato padrão de executável que adiciona essa dependência extra que será resolvida na hora do programa rodar, quando o loader do sistema operacional terá que fazer um linker on-the-fly, catando todas as DLLs e funções necessárias para colocar o bichinho no ar.
 
 Dessa forma, quando existirem unresolved externals fora do executável final, o responsável por dar o erro é o loader do sistema:
 
-winnt4-process32next-unresolved2.png
+[![winnt4-process32next-unresolved2.png](http://i.imgur.com/4TlS0cl.png)](/images/winnt4-process32next-unresolved2.png)
 
 Isso significa que o seu processo não poderá ser executado, pois faltam funções no ambiente que ele depende.
 
 Um recurso muito útil para ver essas funções é o Dependency Walker, meu amigo de infância:
 
-depends-process32-not-found2.png
+[![depends-process32-not-found2.png](http://i.imgur.com/rBZdxkh.png)](/images/depends-process32-not-found2.png)
 
 <blockquote>"Mas, Caloni, eu nem uso essa função! Como ela pode ser necessária?"</blockquote>
 
@@ -142,6 +142,6 @@ void UsingNewApis()
 
 ```
 
-depends-process32-not-needed.png
+[![depends-process32-not-needed.png](http://i.imgur.com/2qcfbSt.png)](/images/depends-process32-not-needed.png)
 
 Agora a aplicação poderá rodar em paz naquele que é, como diz meu amigo, um sistema operacional de ponta... da outra ponta!

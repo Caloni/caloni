@@ -24,7 +24,7 @@ Estava eu outro belo dia tentando achar um problema em um driver que controla cr
 
 Analisando pelo Gerenciador de Tarefas, podemos detectar que o único processo de pé possui o PID (Process ID) do último elemento de nossa lista, curiosamente o único com um contador de handles diferente de zero.
 
-unico-explorer-no-sistema.PNG
+![unico-explorer-no-sistema.PNG](/images/unico-explorer-no-sistema.PNG)
 
 Lembrando que 1940 em hexadecimal é 0x794, exatamente o valor deixado em destaque na lista acima, e reproduzido abaixo:
 
@@ -43,7 +43,7 @@ Sendo ele o único processo a rodar, a única explicação válida para as outra
 
 Muito bem. Temos dois handles e dois ponteiros ainda abertos para o objeto processo-fantasma explorer.exe. O fato de haver um handle aberto indica que é muito provável que se trate de um outro processo rodando em user mode, já que normalmente as referências para objetos dentro do kernel são feitas com o uso de ponteiros.
 
-Para descobrirmos quem detém esse handle, existe o comando !handle, que pode exibir informações sobre todos os handles de um determinado tipo no processo atual. Como queremos procurar por todos os handles do tipo Process em todos os processos existentes, é necessário usá-lo em conjunto com o comando mais esperto !for_each_process, que pode fazer coisas incríveis para o programador de user/kernel:
+Para descobrirmos quem detém esse handle, existe o comando !handle, que pode exibir informações sobre todos os handles de um determinado tipo no processo atual. Como queremos procurar por todos os handles do tipo Process em todos os processos existentes, é necessário usá-lo em conjunto com o comando mais esperto [!for_each_process](http://www.dumpanalysis.org/blog/index.php/2008/05/30/who-opened-that-file/), que pode fazer coisas incríveis para o programador de user/kernel:
 
     
     kd> !for_each_process "!handle 0 1 @#Process Process"

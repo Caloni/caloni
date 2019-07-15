@@ -3,7 +3,7 @@ date: "2008-06-30"
 title: Reflexão em C++
 categories: [ "code" ]
 ---
-" ([reflexão, muito usado em linguagens modernas, é a capacidade de um programa de observar e até de alterar sua própria estrutura. Bom, isso você pode ler na Wikipédia. O interessante é o que podemos usar desse conceito na linguagem C++.
+O termo e conceito de "[_reflection_](http://en.wikipedia.org/wiki/Reflection_(computer_science))" ([reflexão](http://pt.wikipedia.org/wiki/Reflex%C3%A3o_%28programa%C3%A7%C3%A3o%29)), muito usado em linguagens modernas, é a capacidade de um programa de observar e até de alterar sua própria estrutura. Bom, isso você pode ler na Wikipédia. O interessante é o que podemos usar desse conceito na linguagem C++.
 
 Infelizmente não muito.
 
@@ -125,4 +125,4 @@ int main()
 
 class MyDerivatedClass1::MyMethod class MyDerivatedClass2::MyMethod
 
-Apenas se lembre de ter de fato uma classe polimórfica (eu consegui isso tornando MyMethod uma função virtual). Do contrário você pode ter problemas.
+Apenas se lembre de ter de fato uma classe polimórfica (eu consegui isso tornando MyMethod uma função virtual). Do contrário você pode [ter problemas](/typeid-e-os-perigos-do-nao-polimorfismo).

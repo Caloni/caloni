@@ -3,13 +3,13 @@ date: "2007-10-18"
 title: Por que minha DLL travou?
 categories: [ "code" ]
 ---
- alertando sobre os perigos em colocar código no **DllMain**. É algo mais completo e didático do que as simples observações do [help do MSDN. Vale a pena dar uma lida, especialmente por causa das explicações sobre o _loader lock_ e seus efeitos colaterais.
+Saiu um [documento da Microsoft](http://www.microsoft.com/whdc/driver/kernel/DLL_bestprac.mspx) alertando sobre os perigos em colocar código no **DllMain**. É algo mais completo e didático do que as simples observações do [help do MSDN](http://msdn.microsoft.com/library/en-us/dllproc/base/dllmain.asp). Vale a pena dar uma lida, especialmente por causa das explicações sobre o _loader lock_ e seus efeitos colaterais.
 
 #### O conceito
 
 O resumo da ópera é que o código do Windows chamador do DllMain das DLLs carregadas/descarregadas utiliza um objeto de acesso exclusivo (leia "_mutex_") para sincronizar as chamadas. O resultado é que, em um processo, **apenas um DllMain é chamado em um dado momento**. Esse objeto é chamado de "_loader lock_" na documentação da Microsoft.
 
-Loader Lock explained
+[![Loader Lock explained](http://i.imgur.com/mjJ0Xmm.gif)](/images/loaderlock.gif)
 
 #### O código
 
@@ -93,7 +93,7 @@ int main()
 
 ```
 
- e do [EXEcutável e use os comandos abaixo para gerar os arquivos:
+Para ver o problema de _lock_ em ação, baixe os fontes da [DLL](/images/loaderlock.cpp) e do [EXEcutável](/images/loaderlock-exe.cpp) e use os comandos abaixo para gerar os arquivos:
 
     
     cl /c loaderlock.cpp loaderlock-exe.cpp
@@ -107,8 +107,8 @@ int main()
 #### Mais informações
 
     
-  1. NT Loader (MSJ Sep 99) - Matt Pietrek
+  1. [NT Loader (MSJ Sep 99)](http://www.microsoft.com/msj/0999/hood/hood0999.aspx) - Matt Pietrek
 
     
-  2. mgrier's WebLog - NT Loader team participant
+  2. [mgrier's WebLog](http://blogs.msdn.com/mgrier/default.aspx) - NT Loader team participant
 

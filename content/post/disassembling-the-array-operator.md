@@ -5,7 +5,7 @@ categories: [ "code" ]
 ---
 Arrays are fascinating in C language because they are so simple and so powerful at the same time. When we start to really understand them and realize all its power we are very close to understand another awesome feature of the language: **pointers**.
 
-When I was reading the K&R I was enjoying the language specification details in the **Appendix A**. It was specially odd the description as an array must be accessed:
+When I was reading the [K&R](http://www.amazon.com/C-Programming-Language-2nd/dp/0131103628) book (again) I was enjoying the language specification details in the **Appendix A**. It was specially odd the description as an array must be accessed:
 
 <blockquote>_A postfix expression followed by an expression in square brackets is a postfix expression. One of the expressions shall have the type "pointer to T" and the other shall have enumeration or integral type. The result is an lvalue of type "T". (...) The expression E1 [ E2 ] is identical (by definition) to *( (E1) + (E2) )._</blockquote>
 
@@ -31,11 +31,11 @@ int main()
 
 ```
 
-The quoteindex] bellow shows that we can use both orders and the code will compile successfully ([try it.
+The quote[index] bellow shows that we can use both orders and the code will compile successfully ([try it](/images/2007/06/disassembling-array.cpp)!).
 
 _**std::cout << "And the language is: " << index [ quote ] << std::endl;**_
 
-This code doesn't show how obscure we can be. If we use a **constant integer** replacing the index, by example, the code starts to be an IOCCC participant:
+This code doesn't show how obscure we can be. If we use a **constant integer** replacing the index, by example, the code starts to be an [IOCCC](http://www.ioccc.org/) participant:
 
 _**std::cout << "And the language is: " << 13 [ quote ] << std::endl;**_
 

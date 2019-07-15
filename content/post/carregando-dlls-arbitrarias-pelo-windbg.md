@@ -6,7 +6,7 @@ categories: [ "code" ]
 Durante meus testes para a correção de um bug me deparei com a necessidade de carregar uma DLL desenvolvida por mim no processo depurado. O detalhe é que o processo depurado é de terceiros e não possuo o fonte. Portanto, as opções para mim mais simples são:
 
 	
-  * Usar o projeto RmThread.
+  * Usar o projeto [RmThread](http://www.codeproject.com/threads/RmThread.asp) para injetar a DLL (nesse caso iniciando o processo através dele).
 
 	
   * Fazer um módulo _wrapper_ para uma DLL qualquer e ser carregado de brinde.

@@ -89,13 +89,13 @@ void ExecutionThread()
 
 O algoritmo da _thread_ de execução continua o mesmo. Só que o ponto onde cada instrução é executada depende do lançamento de uma exceção. Note que essa exceção **tem que ocorrer** para que a chamada da próxima instrução ocorra. Isso é **fundamental**, pois dessa forma ninguém pode simplesmente retirar o int 3 do código para evitar o lançamento da exceção. Se fizer isso, então mais nenhuma instrução será executada.
 
-Na prática, se alguém tentar depurar um programa desse tipo vai ter que enfrentar dezenas ou centenas de lançamento de exceções até descobrir o que está acontecendo. Claro que, como em toda a proteção de software, ela não é definitiva; tem por função **dificultar o trabalho** de quem tenta entender o software. Isso não vai parar aqueles que são realmente bons no que fazem.
+Na prática, se alguém tentar depurar um programa desse tipo vai ter que enfrentar dezenas ou centenas de lançamento de exceções até descobrir o que está acontecendo. Claro que, como em toda a proteção de software, ela não é definitiva; tem por função **dificultar o trabalho** de quem tenta entender o software. Isso não vai parar aqueles que são [realmente bons no que fazem](http://www.codebreakers-journal.com/).
 
 **Nada é de graça**
 
 O preço pago por essa proteção fica na **visibilidade e compreensão** do código-fonte comprometidos pelo uso da técnica. A programação fica baseada em uma **máquina de estados** e as funções ficam limitadas a algum tipo de padronização no comportamento. Quando mais **granular** for o _pseudoscript_, ou seja, quanto menores forem os blocos de código contido nas minifunções, mais difícil de entender o código será.
 
-, por exemplo. Baixe o código-fonte [aqui.
+O exemplo abaixo recebe entrada por um prompt de comandos e **mapeia a primeira palavra digitada** para o índice de uma função que deve ser chamada. O resto da linha digitada é passado como parâmetro para essa função. A _thread_ de interpretação lê a entrada do usuário e escreve em uma **variável-_string_ global**, ao mesmo tempo que a _thread_ de execução espera essa _string_ ser preenchida para executar a ação. Foi usado o _pool_ dessa variável para o código ficar mais simples, mas o ideal seria algum tipo de sincronismo, como [eventos](http://msdn.microsoft.com/library/en-us/dllproc/base/createevent.asp), por exemplo. Baixe o código-fonte [aqui](/images/antidebug.cpp).
 
 ```cpp
 /** @brief Sample demonstrating how to implemente antidebug in a code exception based.
@@ -184,7 +184,7 @@ DWORD FilterException()
       getline(line, params);
 
       // 5. run some well-defined function by number
-      if( ! g_miniFuncsg_miniFuncIdx[function] 
+      if( ! g_miniFuncs[g_miniFuncIdx[function] ](params) )
          ret = EXCEPTION_CONTINUE_SEARCH;
    }
 

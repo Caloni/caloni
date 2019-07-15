@@ -17,7 +17,7 @@ struct Element
 
 A primeira coisa que você precisa ter em sua lista é onde ela começa. Isso pode ser uma variável especial que não é usada para nada exceto indicar qual o primeiro elemento da sua lista (esse, sim, um elemento). Ele pode ser simplesmente um ponteiro para o próximo (no caso o primeiro) elemento:
 
-
+![](https://i.imgur.com/PTZOB72.png)
 
 ```
 Element* g_head = NULL; // este eh o inicio de tudo
@@ -25,7 +25,7 @@ Element* g_head = NULL; // este eh o inicio de tudo
 
 Este ponteiro começa em NULL porque a lista está vazia. Mas assim que inserirmos um item ele deixará de ser nulo:
 
-
+![](https://i.imgur.com/0I1wSXc.png)
 
 ```
 Element* InsertElement(Element* next)
@@ -38,7 +38,7 @@ Element* InsertElement(Element* next)
 }
 ```
 
-
+![](https://i.imgur.com/0RsyYKi.png)
 
 A única coisa que liga um elemento ao outro é o membro next:
 
@@ -49,7 +49,7 @@ if( next != NULL )
 
 Geralmente adicionamos um novo elemento no meio de uma lista, e por isso não nos preocupamos aqui com o membro next sobrescrito (que obviamente é NULL). Porém, para um resultado mais genérico podemos verificar se ele de fato é NULL. Se não for ele se tornará o next do elemento inserido (o que quer dizer que ele não será o último!):
 
-
+![](https://i.imgur.com/omD6IlR.png)
 
 ```
 if( next != NULL )
@@ -96,7 +96,7 @@ else
 
 Remover é a parte mais complicada de uma lista ligada, pois temos que atualizar o elemento de trás (se houver):
 
-
+![](https://i.imgur.com/bZajm9o.png)
 
 ```
 void RemoveElement(Element* prev)

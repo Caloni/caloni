@@ -186,7 +186,7 @@ Usamos _merge _no lugar do _pull _e ganhamos agora um conflito no arquivo bzppil
 
 #### Como funcionam os merges no Bazaar
 
-A última coisa que um controle de fonte quer fazer é confundir ou chatear o usuário. Por isso mesmo, a maioria dos conflitos que o Bazaar encontrar nos fontes serão resolvidos usando o algoritmo "se só um mexeu, então coloca a mudança". A tabela do guia do usuário ilustra esse algoritmo em possibilidades:
+A última coisa que um controle de fonte quer fazer é confundir ou chatear o usuário. Por isso mesmo, a maioria dos conflitos que o Bazaar encontrar nos fontes serão resolvidos usando o algoritmo "se só um mexeu, então coloca a mudança". A tabela do [guia do usuário](http://doc.bazaar-vcs.org/bzr.dev/en/user-guide/#merging-changes) ilustra esse algoritmo em possibilidades:
 
     
     Ancestral   Usuário1   Usuário2    Resultado   Comentário

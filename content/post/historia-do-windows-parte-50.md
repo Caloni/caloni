@@ -3,21 +3,21 @@ date: "2007-10-08"
 title: História do Windows - parte 5.0
 categories: [ "code" ]
 ---
-Windows 2000 Logo**Windows 2000**
+[![Windows 2000 Logo](..http://i.imgur.com/9rFlXJ1.png)](http://en.wikipedia.org/wiki/Windows_2000)**Windows 2000**
 
 Em novembro de 1998 (apenas para parceiros Microsoft) é lançada a versão 5.0 do Windows NT, conhecida como Windows 2000. Melhorias significativas foram feitas no acesso à internet, intranet e extranet. Aplicações de gerenciamento se integram fortemente e a grande novidade em termos de estruturação de dados é o Active Directory, uma tecnologia compatível com o conceito de _Distributed File System_, que viabiliza uma nova forma das empresas organizarem seus dados de maneira mais transparente à rede.
 
-Vamos aproveitar que a versão NT foi melhorada para dar uma recapitulada geral de como as coisas funcionam internamente no sistema operacional.
+Vamos aproveitar que a versão NT foi melhorada para dar uma recapitulada geral de como as coisas funcionam [internamente](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=windows+internals+russinovich&site_origem=1293522) no sistema operacional.
 
 #### Fazendo como Jack
 
 A ilustração abaixo divide os módulos que fazem parte do sistema operacional. É importante sempre ter essa imagem indelével em nossa mente para entender como as coisas funcionam.
 
-Windows Architecture
+[![Windows Architecture](http://i.imgur.com/SHFTZIx.png)](http://en.wikipedia.org/wiki/Image:Windows_2000_architecture.svg)
 
 É importante notar que essa distribuição já existia desde a primeira versão do NT, sendo que apenas alguns itens foram adicionados (como o Gerenciador de _Plug & Play_ e o Gerenciador de Energia).
 
-> _Um outro item importantíssimo que foi movido da versão 3.51 para a 4.0 é a GDI, responsável pelo gráfico. Inicialmente ela estava no modo de usuário, mas a necessidade de aumentar o desempenho do sistema fez com que ela fosse incorporada ao núcleo do sistema._
+> _Um outro item importantíssimo que foi movido da versão 3.51 para a 4.0 é a GDI, responsável pelo gráfico. Inicialmente ela estava no modo de usuário, mas a necessidade de aumentar o desempenho do sistema fez com que ela fosse [incorporada](http://www.windowsitpro.com/Articles/ArticleID/2469/2469/pg/2/2.html?Ad=1) ao núcleo do sistema._
 
 Agora vamos dissecar as partes interessantes.
 
@@ -75,5 +75,5 @@ A não ser que estejamos falando do Xbox, o _hardware_ é feito por terceiros, c
 #### Para saber mais
 
 	
-  * Outros artigos sobre a história do windows
+  * [Outros artigos sobre a história do windows](http://www.caloni.com.br/blog/search/historia%20do%20windows%20-%20parte)
 

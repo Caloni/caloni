@@ -205,7 +205,7 @@ c:\Projects\goto>nogoto2
 c:\Projects\goto>
 ```
 
-Aliás, esse uso do `goto` é a maneira de aplicar RAII. Implícito em linguagens como C++ e seus destrutores de objetos, em C é você que precisa fazer a faxina. E se a bagunça foi feita da direita pra esquerda a faxina deve ser feita da esquerda pra direita.
+Aliás, esse uso do `goto` é a maneira de aplicar [RAII](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization) em C (Resource acquisition is initialization). Implícito em linguagens como C++ e seus destrutores de objetos, em C é você que precisa fazer a faxina. E se a bagunça foi feita da direita pra esquerda a faxina deve ser feita da esquerda pra direita.
 
 Esse uso super-aninhado do código me lembra do exemplo clássico de sair de muitos loops aninhados. Apenas por didática, vamos citá-lo:
 
@@ -234,7 +234,7 @@ main(int argc, char* argv[])
 }
 ```
 
-Comentei no começo do texto que os `cases` do `switch` são labels de goto disfarçados. E são mesmo. Um dos algoritmos mais famosos de transformação de loop chamado Duff's device junta um `do-while` com `switch` e realiza uma cópia de buffer com um número de bytes variável:
+Comentei no começo do texto que os `cases` do `switch` são labels de goto disfarçados. E são mesmo. Um dos algoritmos mais famosos de transformação de loop chamado [Duff's device](https://en.wikipedia.org/wiki/Duff%27s_device) junta um `do-while` com `switch` e realiza uma cópia de buffer com um número de bytes variável:
 
 ```c
 send(to, from, count)
@@ -346,4 +346,4 @@ Isso lembra outra utilidade do `goto` que você pode anotar no seu caderninho: e
 
 Esse último exemplo é um dos programas C mais lindos do universo. Sua única instrução é o comando rotulado por `infinite` e referencia ele mesmo. É quase o salto incondicional do assembly, materializado na linguagem mais elegante jamais criada em nossa realidade.
 
-PS: Código no GitHub.
+PS: Código no [GitHub](/goto).

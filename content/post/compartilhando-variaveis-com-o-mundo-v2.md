@@ -5,7 +5,7 @@ categories: [ "code" ]
 ---
 <blockquote>_Nota de desempenho: esse artigo finaliza (finalmente) a republicação de todos os artigos do antigo blogue. Isso quer dizer que a partir de agora eu sou obrigado a trabalhar, e, se quiser manter meu ritmo atual, vou ter que fazer mais do que cinco cliques do mouse._</blockquote>
 
-Como todas as coisas que fazemos e pensamos depois, descobrimos que **sempre existe uma outra maneira de fazer a mesma coisa**. Se é melhor ou não, pode ser uma questão de gosto, estética, objetivos de vida, etc. Com a implementação das variáveis mapeadas globais não foi diferente. Bem, é isso que se espera fazer com código experimental: experimentos. E deu no que deu: SharedVar versão 2.0 alpha Enterprise Edition.
+Como todas as coisas que fazemos e pensamos depois, descobrimos que **sempre existe uma outra maneira de fazer a mesma coisa**. Se é melhor ou não, pode ser uma questão de gosto, estética, objetivos de vida, etc. Com a [implementação das variáveis mapeadas globais](/compartilhando-variaveis-com-o-mundo) não foi diferente. Bem, é isso que se espera fazer com código experimental: experimentos. E deu no que deu: SharedVar versão 2.0 alpha Enterprise Edition.
 
 #### POO na cabeça
 

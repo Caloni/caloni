@@ -3,13 +3,13 @@ date: "2008-01-18"
 title: Otimização em funções recursivas
 categories: [ "code" ]
 desc: "Atualizado em 2019-06-10 por alguns toques do pessoal do Telegram."
-
+img: "https://i.imgur.com/9cRzLPq.png"
 ---
-. Porém, tive uma agradável surpresa de achar um truque muito sabido que não conhecia, chamado de [tail recursion. Fiz questão de testar nos dois compiladores mais conhecidos e eis o resultado.
+O [livro que estou lendo](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=Dominando+algoritmos+com+C&site_origem=1293522) fala sobre algoritmos em C. Os primeiros capítulos são praticamente uma revisão para quem já programou em C, pois tratam de coisas que programadores com mais de cinco anos de casa devem ter na memória cachê (listas, pilhas, recursão, etc). Porém, tive uma agradável surpresa de achar um truque muito sabido que não conhecia, chamado de [tail recursion](http://en.wikipedia.org/wiki/Tail_recursion). Fiz questão de testar nos dois compiladores mais conhecidos e eis o resultado.
 
 #### Recursividade cara
 
-Imagine uma função recursiva que calcula o fatorial e recursivas, que no caso chamam a mesma função n vezes.
+Imagine uma função recursiva que calcula o [fatorial](http://pt.wikipedia.org/wiki/Fatorial) de um número. Apenas para lembrar, o fatorial de um número n é igual a n * n-1 * n-2 * n-3 até o número 1. Existem implementações iterativas (com um laço for, por exeplo) e recursivas, que no caso chamam a mesma função n vezes.
 
 ```c
 int factorial(int n)

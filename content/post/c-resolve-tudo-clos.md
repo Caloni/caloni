@@ -6,11 +6,11 @@ desc: "Implementação de sistema polimórfico de chamada de métodos do CLOS (C
 ---
 Continuando nossa série, conforme sugerido pelo @colemaker do grupo C/C++/42/Império do Brasil, a próxima ideia a ser implementada em C é o sistema polimórfico de chamadas do Lisp orientado a objetos. Esse sistema permite realizar a seguinte manobra:
 
-
+![](https://i.imgur.com/VcPXDcJ.jpg)
 
 O aspecto-chave aqui, conforme eu descobri, é implementar a estratégia de prioridades entre as sobrecargas dos métodos de acordo com os tipos passados. Analisando bem por cima devemos sempre priorizar os métodos com os tipos mais específicos e ir realizando underpromotion até chegarmos no menos específico (se houver).
 
-A implementação está no GitHub.
+A implementação está [no GitHub](https://github.com/Caloni/cdefgeneric).
 
 # Sistema de tipos
 
@@ -30,7 +30,7 @@ static bar_instance bar = { "bar" };
 
 ~~As estruturas estão usando STL. O quê? Mas não era C? Sim, você tem toda razão. Porém, estou usando uma lib mais conhecida. Há milhares de libs containers em C para você escolher para trocar a implementação. Lembre-se que o mais importante não é ser purista, mas atingir os objetivos. Como eventualmente veremos nessa série de artigos, o próprio C++ e toda a sua biblioteca pode ser implementada em C. Este é apenas um atalho para fins didáticos e de produtividade (como eu já falei, produtividade não é o foco aqui, mas enxergar por debaixo dos panos).~~
 
-Inicialmente feito em STL pela produtividade, a solução atual no GitHub é feita inteiramente em C usando a glib e já foi muito usada e testada, além de possuir estruturas e algoritmos simples que fazem parte do pacote básico de qualquer programador, como arrays, strings, hash tables.
+Inicialmente feito em STL pela produtividade, a solução atual no GitHub é feita inteiramente em C usando a [glib](https://developer.gnome.org/glib/) (lib comum em Linux com estrutura de dados, etc). O legal dessa biblioteca é que ela tem 20 anos (desde 1998) e já foi muito usada e testada, além de possuir estruturas e algoritmos simples que fazem parte do pacote básico de qualquer programador, como arrays, strings, hash tables.
 
 ```c
 #include "cclos.h"

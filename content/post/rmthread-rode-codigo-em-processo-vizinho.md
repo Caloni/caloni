@@ -3,9 +3,9 @@ date: "2008-01-28"
 title: 'RmThread: rode código em processo vizinho'
 categories: [ "code" ]
 ---
-, republico aqui este [artigo que já está mofando no Code Projet, mas que espero que sirva de ajuda pra muita gente que gosta de fuçar nos internals do sistema. Boa leitura!_</blockquote>
+<blockquote>_Aproveitando que utilizei a mesma técnica semana passada para desenvolver um vírus para [Ethical Hacking](http://en.wikipedia.org/wiki/White_hat), republico aqui este [artigo que já está mofando no Code Projet](http://www.codeproject.com/KB/threads/RmThread.aspx), mas que espero que sirva de ajuda pra muita gente que gosta de fuçar nos internals do sistema. Boa leitura!_</blockquote>
 
- , ["Three Ways to Inject Your Code into Another Process". No entanto, não utilizei código algum. Queria aprender sobre isso, pesquisei pela internet, e me influenciei pela técnica **CreateRemoteThread** & **LoadLibrary**. O resto foi uma mistura de "chamada de funções certas" e MSDN.
+RmThread é um projeto que fiz baseado em uma das três idéias do artigo de [Robert Kuster](http://www.codeproject.com/script/profile/whos_who.asp?id=136330) , ["Three Ways to Inject Your Code into Another Process"](http://www.codeproject.com/threads/winspy.asp). No entanto, não utilizei código algum. Queria aprender sobre isso, pesquisei pela internet, e me influenciei pela técnica **CreateRemoteThread** & **LoadLibrary**. O resto foi uma mistura de "chamada de funções certas" e MSDN.
 
 O projeto que fiz é útil para quem precisa rodar algum código em um processo vizinho, mas não quer se preocupar em desenvolver a técnica para fazer isso. Quer apenas escrever o código que vai ser executado remotamente. O projeto de demonstração, RmThread.exe, funciona exatamente como a técnica citada anteriormente. Você diz qual o processo a ser executado e a DLL a ser carregada, e ele inicia o processo e carrega a DLL em seu contexto. O resto fica por conta do código que está na DLL.
 
@@ -121,5 +121,5 @@ Um detalhe interessante é que é necessária a chamada de **FreeLibraryAndExitT
 Um problema chato (que você poderá encontrar) é que, se a DLL não for carregada com sucesso, não há uma maneira trivial de obter o código de erro da chamada de **LoadLibrary**. Uma vez que a thread inicia e termina nessa função API, o LastError se perde. Alguma idéia?
 
     
-  * Endereço do artigo (e fontes) no Code Project
+  * [Endereço do artigo (e fontes) no Code Project](http://www.codeproject.com/KB/threads/RmThread.aspx)
 

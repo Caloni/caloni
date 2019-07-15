@@ -11,11 +11,11 @@ Uma coisa de cada vez: existem **modificadores **(ou qualificadores) de tipo e *
 
     
     6.5.2.2 enum-specifier
-     enum
+     <a href="http://www.caloni.com.br/enum">enum</a>
     
     6.5.3 type-qualifier
-     const
-     volatile
+     <a href="http://www.caloni.com.br/const-e-volatile">const</a>
+     <a href="http://www.caloni.com.br/const-e-volatile">volatile</a>
     
     6.5.2.1 struct-or-union
      struct
@@ -32,14 +32,14 @@ Uma coisa de cada vez: existem **modificadores **(ou qualificadores) de tipo e *
 
     
     type-specifier
-     enum-specifier
+     <a href="http://www.caloni.com.br/enum">enum-specifier</a>
     
     enum-specifier
-     enum
+     <a href="http://www.caloni.com.br/enum">enum</a>
     
     cv-qualifier
-     const
-     volatile
+     <a href="http://www.caloni.com.br/const-e-volatile">const</a>
+     <a href="http://www.caloni.com.br/const-e-volatile">volatile</a>
     
     class-key
      class
