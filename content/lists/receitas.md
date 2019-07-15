@@ -1,6 +1,6 @@
 ---
-title: "Lista de Receitas"
-categories: [ "food" ]
+title: "Receitas"
+categories: [ "lists" ]
 date: 2019-06-23
 ---
 Lista de receitas já feitas:

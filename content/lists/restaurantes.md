@@ -1,6 +1,6 @@
 ---
-title: "Lista de Restaurantes"
-categories: [ "food" ]
+title: "Restaurantes"
+categories: [ "lists" ]
 date: 2019-02-16
 ---
 2019-02-16 O Ikkousha Tonkotsu Ramen na Liberdade tem a maior concentração de colágeno por caldo quadrado. Isso porque eles deixam mais de 24 horas cozinhando ossos de porco até o cálcio começar a derreter. O resultado? Manjar dos deuses. Para paladares corajosos.

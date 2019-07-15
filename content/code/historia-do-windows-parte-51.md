@@ -1,7 +1,7 @@
 ---
 date: "2007-11-19"
 title: História do Windows - parte 5.1
-categories: [ "blog" ]
+categories: [ "code" ]
 ---
 **Windows e_XP_erience**
 

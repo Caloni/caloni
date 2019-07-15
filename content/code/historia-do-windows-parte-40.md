@@ -1,7 +1,7 @@
----
+code
 date: "2007-09-04"
 title: História do Windows - parte 4.0
-categories: [ "blog" ]
+categories: [ "code" ]
 ---
 **Windows 95**
 

@@ -1,6 +1,6 @@
 ---
-title: "Recuperando a Memória"
-categories: [ "reading" ]
+title: "Citações"
+categories: [ "lists" ]
 date: 2019-06-06
 ---
 Lembre-se:
