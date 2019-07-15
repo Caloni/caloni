@@ -10,7 +10,7 @@ Antes de tudo é preciso saber que estou usando Windows. Provavelmente as coisas
 
 Mas, você deve estar se perguntando: se é para Android, por que C++? Bom, uma vez que você baixou os fontes do protobuf é necessário gerar o compilador. Você poderia baixar um binário compilado, mas usar direto dos fontes garante que os unit tests estão todos alinhados e que não haverão problemas de versão.
 
-Os guias contidos nos READMEs espalhados pelo fonte, começando pelo primeiro exigido na [página do GitHub](https://github.com/google/protobuf), são muito bem explicados. Não deve ser nenhum problema segui-los, desde que se atente em colocar os caminhos necessários no path, como a localização do JDK (que pode ser o que vem no Android Studio, mesmo) e abrir um prompt com as variáveis de ambiente para a compilação via Visual Studio. Eu recomendo baixar uma versão estável entre as releases, e pode já baixar a 3 em diante, que contém um monte de features novas e legais.
+Os guias contidos nos READMEs espalhados pelo fonte, começando pelo primeiro exigido na página do GitHub e abrir um prompt com as variáveis de ambiente para a compilação via Visual Studio. Eu recomendo baixar uma versão estável entre as releases, e pode já baixar a 3 em diante, que contém um monte de features novas e legais.
 
 Depois de compilar o protoc e colocá-lo no devido lugar, há uma questão importante: a versão em Java usa um gerenciador de build do Apache que funciona muito naquelas para Windows, dando erro nos testes e na instalação. Minha solução foi simplesmente usar a segunda opção descrita no README: compilar o Descriptor.proto e com ele gerar todos os .java necessários para sua compilação. Com isso fica até mais simples montar no projeto Android uma solução mais enxuta, apenas com as classes necessárias (no meu caso, pelo menos o JsonFormat e dependências).
 
@@ -64,6 +64,6 @@ if( ! BuildConfig.is_server_mock )
 
 O Android Studio tem um botão esperto em sua interface onde, depois de alterado o local.properties, é possível refazer o BuildConfig:
 
-![](http://i.imgur.com/mHJuChp.png)
+!
 
 E com isso podemos ter o protocol buffers e um sistema de mock simples e prático para a depuração e testes locais com nosso app que vai revolucionar o mundo =)

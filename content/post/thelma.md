@@ -8,7 +8,7 @@ title: "Thelma"
 stars: "4/5"
 desc: "Thelma. Thelma (Norway, 2017). Dirigido por Joachim Trier. Escrito por Joachim Trier, Eskil Vogt. Com Eili Harboe (Thelma), Kaya Wilkins (Anja), Henrik Rafaelsen (Trond), Ellen Dorrit Petersen (Unni), Ludvig Algeback (Little brother), Isabel Christine Andreasen (Student), Camilla Belsvik (Nurse), Lars Berge (Lifeguard), Vanessa Borgli (Anja's mother Vilde)."
 ---
-Thelma é a continuação visualmente temática do último filme de Joachim Trier, o [Mais Forte Que Bombas](/mais-forte-que-bombas). E quando digo visualmente me refiro à paleta fria, aos enquadramento deslumbrantes e aos ângulos inusitados. Tudo para construir-se um thriller que leva contornos de Carrie, a Estranha, porém sem a parte humana de Brian de Palma. Apesar deste thriller flertar com drama intimista, ele é muito insípido e não nos dá o gosto de se aproximar melhor de sua personagem-título.
+Thelma é a continuação visualmente temática do último filme de Joachim Trier, o Mais Forte Que Bombas. E quando digo visualmente me refiro à paleta fria, aos enquadramento deslumbrantes e aos ângulos inusitados. Tudo para construir-se um thriller que leva contornos de Carrie, a Estranha, porém sem a parte humana de Brian de Palma. Apesar deste thriller flertar com drama intimista, ele é muito insípido e não nos dá o gosto de se aproximar melhor de sua personagem-título.
 
 Ou seria ela incapaz de se aproximar de qualquer ser humano de maneira autêntica?
 

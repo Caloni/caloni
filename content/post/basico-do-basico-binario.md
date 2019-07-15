@@ -3,7 +3,7 @@ date: "2008-12-18"
 title: 'Básico do básico: binário'
 categories: [ "code" ]
 ---
-[![Número um e zero caindo do computador.](http://i.imgur.com/lj26csA.png)](http://www.illustrationsof.com/details/clipart/8741.html)Apesar do tema binário, o assunto de hoje no fundo remete-nos a todo e qualquer tipo de **representação**. É o faz-de-conta um pouco mais intenso, vindo das profundezas da matemática e dominado com maestria pela nossa mente e sua capacidade lógica de abstrair.
+!Número um e zero caindo do computador.Apesar do tema binário, o assunto de hoje no fundo remete-nos a todo e qualquer tipo de **representação**. É o faz-de-conta um pouco mais intenso, vindo das profundezas da matemática e dominado com maestria pela nossa mente e sua capacidade lógica de abstrair.
 
 Como todos sabemos, nós, seres humanos, somos dotados de dez dedos: cinco em cada mão. Isso influenciou fortemente nosso sistema de contagem de coisas, e, como consequência, nossa forma de representar números.
 
@@ -59,7 +59,7 @@ Para nos comunicarmos com a raça alienígena que usa dois símbolos poderíamos
     111,
     ...
 
-[![Os bichos-preguiça possuem dois dedos!](http://i.imgur.com/jQTGnH6.gif)](http://www.colegiosaofrancisco.com.br/alfa/animais/bicho-preguica.php)O valor do número, como sabemos, depende de sua posição. Mas, calma lá! O 111 logo acima não é idêntico ao 111 que vimos anteriormente, pois **mudamos a base**! Agora só temos dois símbolos para representar números, quando antes tínhamos dez.
+!Os bichos-preguiça possuem dois dedos!O valor do número, como sabemos, depende de sua posição. Mas, calma lá! O 111 logo acima não é idêntico ao 111 que vimos anteriormente, pois **mudamos a base**! Agora só temos dois símbolos para representar números, quando antes tínhamos dez.
 
 O "segredo" do valor posicional também está na base, pois o zero, apesar de não possuir valor, marca a quantidade de símbolos que foram utilizados para se esgotar uma posição qualquer. Dessa forma, enquanto o nosso conhecido 10 (dez) vale todos os símbolos não-nulos (nove) mais um (nove + um = dez), o outro 10 (um-zero) da raça alienígena de dois dedos também vale todos os símbolos deles nã-nulos (um) mais um (um + um = dois).
 
@@ -119,7 +119,7 @@ Bom, acho que é isso. Já ultrapassei o limite do teórico, porque na verdade o
   * Conte em binário quando não estiver fazendo nada. É simples e ajuda a fixar. Dessa forma: um, um-zero, um-um, um-zero-zero, um-um-zero, um-um-um, ...
 
 	
-  * Decore a relação entre os números hexadecimal e binário. Você pode até esquecer isso depois, mas o esforço para decorar será útil para fixar. E nunca se sabe quando você terá que [reaver a MBR](http://www.caloni.com.br/depuracao-da-mbr) de um cliente seu.
+  * Decore a relação entre os números hexadecimal e binário. Você pode até esquecer isso depois, mas o esforço para decorar será útil para fixar. E nunca se sabe quando você terá que reaver a MBR de um cliente seu.
 
 	
   * Estude a lógica por trás da tabela ASCII e seus valores binários. Irá descobrir que existem relações muito óbvias entre letras, números (maíusculos e minúsculos) e sinais. Tente decorar.

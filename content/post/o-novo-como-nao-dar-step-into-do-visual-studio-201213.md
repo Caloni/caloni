@@ -45,9 +45,9 @@ Podemos simplesmente adicionar mais duas opções para o parzinho STL/Boost:
 
 A boa nova, pelo menos para o Visual Studio 2013, é que agora é possível, se quisermos, entrar nas funções que serão ignoradas:
 
-[![Step Into Specific no Visual Studio 2013](http://i.imgur.com/5cda0E7.jpg)](/images/14786101612_688e12a363_c.jpg)
+!Step Into Specific no Visual Studio 2013
 
 Eu não sei qual vai ser a próxima novidade do step into, mas para mim, já está bem ótimo.
 
-_(Fonte da informação: [Andy Pennell's Blog](http://blogs.msdn.com/b/andypennell/archive/2004/02/06/69004.aspx))._
+_(Fonte da informação: Andy Pennell's Blog._
 

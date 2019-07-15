@@ -3,7 +3,7 @@ date: "2011-03-10"
 title: Reorganizando meus feeds (de novo)
 categories: [ "blog" ]
 ---
-Depois da minha opinião dada ao Efetividade na matéria sobre ferramentas para gerenciar as [leituras](http://www.efetividade.net/2010/10/21/gerenciamento-de-leituras-pendentes-as-ferramentas-preferidas-dos-leitores/) tenho que atualizar que não utilizo mais o esquema das estrelinhas, porque acabei me dando conta que nunca lia o que marcava para ler "depois".
+Depois da minha opinião dada ao Efetividade na matéria sobre ferramentas para gerenciar as leituras tenho que atualizar que não utilizo mais o esquema das estrelinhas, porque acabei me dando conta que nunca lia o que marcava para ler "depois".
 
 Porém, ainda utilizo o Google Reader por uma série de motivos:
 
@@ -11,21 +11,21 @@ Porém, ainda utilizo o Google Reader por uma série de motivos:
   * Integrado com as ferramentas Google, que eu venero;
 
 	
-  * Tem [atalhos no teclado](http://www.google.com/reader/ui/444944535-en-keyboard-help-tearoff?hl=en), que eu [venero](http://www.caloni.com.br/mousetool-clique-automatico-do-seu-rato)
+  * Tem atalhos no teclado](http://www.google.com/reader/ui/444944535-en-keyboard-help-tearoff?hl=en), que eu [venero
 
 	
-  * Consigo [anotar](http://www.google.com/support/reader/bin/answer.py?hl=en&answer=98739) o que quiser em qualquer página que navegar;
+  * Consigo anotar o que quiser em qualquer página que navegar;
 
 	
   * Posso organizar os feeds por categorias.
 
-[![](http://i.imgur.com/qoVgRHE.png)](http://i.imgur.com/CH7gDSg.png)
+!
 
 Minha organização de feeds, até semana passada, usava categorias específicas (programação, cinema, economia) e tinha duas categorias no topo que organizava por frequência (diário, semanal), seguindo uma dica de um leitor do Efetividade. Porém, meu maior problema sempre fora os feeds que cospem milhares de entradas por dia, e que sempre ficava para ler no meu fim-de-semana, consumindo às vezes o dia inteiro!
 
 Por isso, para evitar ser abarrotado de notícias, mantenho a seguinte organização de categorias:
 
-[![](http://i.imgur.com/ZkoH1vj.png)](/images/reorganizando-meus-feeds-de-novo2.png)
+!
 
 	
   1. **Notícias**: todos os feeds que cospem milhares de entradas. Organizo por "mágica" e leio apenas os que ficarem no topo. Ao final, clico no famigerado "Mark all as read" e fim de história.

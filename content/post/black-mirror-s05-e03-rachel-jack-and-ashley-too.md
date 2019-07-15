@@ -9,7 +9,7 @@ stars: "2/5"
 ---
 O último episódio dessa temporada de Black Mirror faz aquela empoderada básica, de cartilha, pra empolgar o público feminino, e no meio de grandes ideias desperdiça todas em um final que lembra qualquer outra série de suspense e ação menos a própria Black Mirror, essa série britânica que ficou conhecida por nos fazer pensar e não possuir finais fáceis.
 
-Ela emprega uma garota de quinze anos, Rachel (a competente Angourie Rice, de [Dois Caras Legais](/movies/dois-caras-legais)), órfã de mãe e fascinada pela cantora pop Ashley O (Miley Cyrus) que, nenhuma surpresa, é um produto de marketing exposto em uma vitrine composta de shows e entrevistas para a mídia (qualquer relação com Miley Cyrus e sua persona Hannah Montana não é uma coincidência). A responsável pelo sucesso de Ashley é sua tia e empresária, que tomou conta de sua sobrinha desde pequena ao se tornar órfã e desenvolver complexo de culpa pela morte dos pais.
+Ela emprega uma garota de quinze anos, Rachel (a competente Angourie Rice, de Dois Caras Legais. A responsável pelo sucesso de Ashley é sua tia e empresária, que tomou conta de sua sobrinha desde pequena ao se tornar órfã e desenvolver complexo de culpa pela morte dos pais.
 
 Esse passado traumático de Ashley e a morte da mãe de Rachel criam os ambientes que se conversam à distância, e essa tem sido a maior virtude da série: nos mostrar como vivendo em diferentes classes sociais e status não cria diferenças em nossa humanidade. É através da vida das duas jovens que a história se desenvolve melhor, pois observa como a tristeza de ambas se reflete, ou tenta se refletir, na vida real, em uma através das músicas que cria, e em outra é absorvida pelas frases fáceis de "você pode tudo" da figura de Ashley O.
 

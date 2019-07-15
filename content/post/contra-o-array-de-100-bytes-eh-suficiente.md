@@ -64,6 +64,6 @@ int main()
 }
 ```
 
-Note que estamos obtendo o endereço do primeiro elemento do nosso vector STL porque, desde o padrão C++0x03, [__vetores são garantidos que serão contínuos__](https://herbsutter.com/2008/04/07/cringe-not-vectors-are-guaranteed-to-be-contiguous/). Essa garantia de leiaute de memória pode facilitar muitos usos de vector que estavam dependentes da implementação. O exemplo acima é apenas o mais simples deles, mas imagine que qualquer tipo de memória contígua cujo tamanho é desconhecido em tempo de compilação pode ser deixado seu gerenciamento para a STL cuidar.
+Note que estamos obtendo o endereço do primeiro elemento do nosso vector STL porque, desde o padrão C++0x03, __vetores são garantidos que serão contínuos__. Essa garantia de leiaute de memória pode facilitar muitos usos de vector que estavam dependentes da implementação. O exemplo acima é apenas o mais simples deles, mas imagine que qualquer tipo de memória contígua cujo tamanho é desconhecido em tempo de compilação pode ser deixado seu gerenciamento para a STL cuidar.
 
 Ah, e a partir do C++11 podemos usar vector::data() para obter os dados sem deferenciar o primeiro elemento. Particularmente acho mais expressiva a sintaxe dos arrays, mas fica a gosto do freguês.

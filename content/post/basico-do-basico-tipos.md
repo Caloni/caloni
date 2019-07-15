@@ -3,9 +3,9 @@ date: "2008-12-12"
 title: 'Básico do básico: tipos'
 categories: [ "code" ]
 ---
-![Forma de bolo.](http://i.imgur.com/hSQliI2.jpg)Um tipo nada mais é que do que uma forma (ô) de bolo, que **molda a memória** como acharmos melhor moldá-la. Bom, para isso fazer sentido é necessário explicar memória, que é um conceito **mais básico ainda**.
+!Forma de bolo. de bolo, que **molda a memória** como acharmos melhor moldá-la. Bom, para isso fazer sentido é necessário explicar memória, que é um conceito **mais básico ainda**.
 
-A memória é **qualquer lugar** onde eu possa **guardar alguma coisa**. No [artigo anterior](http://www.caloni.com.br/basico-do-basico-ponteiros) era um punhado de [gavetas](http://i.imgur.com/sx9fYjS.gif). Mas poderiam muito bem ser caixas de presente. Ou um caderno. Ou até uma placa de memória RAM. O que sua criatividade quiser.
+A memória é **qualquer lugar** onde eu possa **guardar alguma coisa**. No artigo anterior](http://www.caloni.com.br/basico-do-basico-ponteiros) era um punhado de [gavetas. Mas poderiam muito bem ser caixas de presente. Ou um caderno. Ou até uma placa de memória RAM. O que sua criatividade quiser.
 
 O importante no conceito de memória, computacionalmente falando, é saber que ela pode guardar qualquer tipo de informação, mas ela **não sabe o que você está guardando**. E eis que surge o segredo do **tipo**: ele conta para você, e seu programa, o que de fato está guardado na memória.
 
@@ -58,7 +58,7 @@ Como esse texto é guardado na memória de um computador, se ele só entende nú
 
 Através da nossa já conhecida tabela ASCII! Na verdade, números são armazenados na memória, mas por representarem as letras 'C', 'A', 'S' e 'A', são traduzidos de volta para o formato texto pelo Bloco de Notas, que conhece o que guardou na memória.
 
-![Bloco de Notas acessando memória RAM.](http://i.imgur.com/W9jtDwK.gif)
+!Bloco de Notas acessando memória RAM.
 
 #### A memória pode guardar qualquer coisa com números
 
@@ -81,7 +81,7 @@ Na programação do dia-a-dia, as coisas funcionam da mesma forma. As tão falad
 
 Esses elementos, na memória, são um bando de número que, sem os tipos, não possuem significado algum, como podemos ver na depuração do programa abaixo:
 
-[![Interpretação de memória de texto e números em um programa C.](http://i.imgur.com/zpBbtuD.png)](/images/interpretacao-de-memoria-texto-e-numeros.png)
+!Interpretação de memória de texto e números em um programa C.
 
     Note que os números não estão aqui representados em decimal, onde se esperaria 35 e 42, pois a representação formal da memória geralmente está no formato hexadecimal, transformando esses números em 0x23 e 0x2a, respectivamente. Para entender essa diferença cabe estudar um pouco sobre base numérica, outro tema básico do programador sólido.
 
@@ -101,11 +101,11 @@ Nada é bem aprendido se não for apreendido. Algumas tarefas programáticas que
 #### Outros faz-de-conta bem famosos
 
 	
-  * [Ordenação de extremidades](http://pt.wikipedia.org/wiki/Extremidade_(ordena%C3%A7%C3%A3o)): O problema Little Endian e Big Endian.
+  * Ordenação de extremidades: O problema Little Endian e Big Endian.
 
 	
-  * [UNICODE](http://pt.wikipedia.org/wiki/UNICODE): Por um conjunto de letras universal.
+  * UNICODE: Por um conjunto de letras universal.
 
 	
-  * [Base numérica](http://pt.wikipedia.org/wiki/Convers%C3%A3o_de_base_num%C3%A9rica): O que são binário e hexadecimal e como eles afetam nossa vida.
+  * Base numérica: O que são binário e hexadecimal e como eles afetam nossa vida.
 

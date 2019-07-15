@@ -3,7 +3,7 @@ date: "2007-07-24"
 title: C++0x parcial no novo GCC 4.3
 categories: [ "blog" ]
 ---
-A [nova versão do GCC](http://gcc.gnu.org/gcc-4.3/cxx0x_status.html) implementa em caráter de teste algumas novas características da [nova versão da linguagem C++](http://www.artima.com/cppsource/cpp0x.html), que será lançada ainda nesta década (provavelmente em 2009). As novas funcionalidades são empolgantes e já fazem parte do imaginário dos programadores C++ já há algum tempo.
+A nova versão do GCC](http://gcc.gnu.org/gcc-4.3/cxx0x_status.html) implementa em caráter de teste algumas novas características da [nova versão da linguagem C++. As novas funcionalidades são empolgantes e já fazem parte do imaginário dos programadores C++ já há algum tempo.
 
 #### Asserção estática** **
 
@@ -52,4 +52,4 @@ Outras pequenas correções também serão feitas para tornar a linguagem mais r
 	
   3. Problema do fecha-_templates_ duplo (>>).
 
-Podemos esperar por outras grandes mudanças que irão ocorrer nesse novo padrão? Não exatamente. As principais estarão na biblioteca C++, com a inclusão de diversas classes e funções do projeto [Boost](http://www.boost.org). O resto são pequenas correções e melhorias de uma linguagem que, cá entre nós, já está bem poderosa e complexa.
+Podemos esperar por outras grandes mudanças que irão ocorrer nesse novo padrão? Não exatamente. As principais estarão na biblioteca C++, com a inclusão de diversas classes e funções do projeto Boost. O resto são pequenas correções e melhorias de uma linguagem que, cá entre nós, já está bem poderosa e complexa.

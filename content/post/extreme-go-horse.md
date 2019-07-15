@@ -9,7 +9,7 @@ Contudo, eles não contavam com a versão turbinada do desleixo humano.
 
 A eXtreme Go Horse (XGP) é o suprassumo das metodologias do mercado brasileiro de desenvolvimento. Quem nunca trabalhou em uma empresa gerida por essas regras? (Bom, pelo menos XGH pelo jeito tem até controle de fonte, algo que era até meio raro uns anos atrás):
 
-[![](http://i.imgur.com/jwAWHMD.png)](/images/horse21.png)
+!
 
 **1- Pensou, não é XGH**
 
@@ -99,4 +99,4 @@ O fracasso e o sucesso andam sempre de mãos dadas, e no XGH não é diferente. 
 
 Nunca ponha a mão numa classe cujo autor não é você. Caso um membro da equipe morra ou fique doente por muito tempo, o barco irá afundar! Nesse caso, utilize o Axioma 8.
 
-_Este texto foi copiado [daqui](http://www.carlostristacci.com.br/blog/extreme-go-horse-xgh/) e [daqui](http://www.electronplace.com/ghpextremegohorse.htm). Não existem donos conhecidos do XGH (já devem ter morrido de desgosto). Fiquei com medo de não encontrar mais essa metologia, que é pouco divulgada e muito útil._
+_Este texto foi copiado daqui](http://www.carlostristacci.com.br/blog/extreme-go-horse-xgh/) e [daqui. Fiquei com medo de não encontrar mais essa metologia, que é pouco divulgada e muito útil._

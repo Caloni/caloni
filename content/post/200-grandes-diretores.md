@@ -8,7 +8,7 @@ Pessoas geralmente gostam de se divertir vendo filmes com seus atores favoritos.
 
 Essa busca pode ser potencializada através do uso do diretor(es) e do roteirista(s) responsáveis pelo filme. Essa informação você consegue facilmente no Cine Tênis Verde através do painel de informações, ou clicando no ícone do IMDB, o que o levará à ficha do filme com todos os dados de produção, elenco, curiosidades, etc. Ao clicar no nome do diretor no IMDB, por exemplo, ele te levará a todos os filmes que ele tem em seu currículo.
 
-Há algum tempo encontrei uma coleção inestimável de filmes de diretores conhecidos pela sua habilidade em contar histórias. Essa coleção está no formato de torrents, que são arquivos com informações onde esses filmes podem ser baixados. Caso você se interesse em baixá-los diretamente, pode [clicar aqui](https://drive.google.com/open?id=0ByZutmiSLHTwa0lFSlBWbzR4eFU) e navegar ou baixar a coleção inteira de 200 grandes diretores e mais de 1000 filmes!
+Há algum tempo encontrei uma coleção inestimável de filmes de diretores conhecidos pela sua habilidade em contar histórias. Essa coleção está no formato de torrents, que são arquivos com informações onde esses filmes podem ser baixados. Caso você se interesse em baixá-los diretamente, pode clicar aqui e navegar ou baixar a coleção inteira de 200 grandes diretores e mais de 1000 filmes!
 
 Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que esta página, dê uma olhada na lista abaixo para se inspirar. Caso goste de algum filme citado, é bem provável que vá gostar de outros filmes do mesmo diretor. Não é uma garantia, mas ajuda =)
 
@@ -50,7 +50,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Alain Resnais - Muriel ou Le temps d'un retour (1963)
  - Alain Resnais - Night and Fog (1955)
  - Alain Resnais - Toute la memoire du monde (1956)
- - Alain Resnais - [Hiroshima mon amour](/hiroshima-meu-amor) (1959)
+ - Alain Resnais - Hiroshima mon amour
  - Alan J. Pakula - All the President's Men (1976)
  - Alexander Mackendrick - Sweet Smell of Success (1957)
  - Alexander Mackendrick - The Man in the White Suit (1951)
@@ -100,18 +100,18 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Alfred Hitchcock - Vertigo (1958)
  - Alfred Hitchcock - Waltzes from Vienna (1934)
  - Alfred Hitchcock - Young and Innocent (1937)
- - Alfred Hitchcock - [Champagne](/champagne) (1928)
- - Alfred Hitchcock - [Downhill](/downhill) (1927)
- - Alfred Hitchcock - [The Lodger: A Story of the London Fog](/the-lodger-a-story-of-the-london-fog) (1927)
- - Alfred Hitchcock - [The Pleasure Garden](/the-pleasure-garden) (1925)
- - Alfred Hitchcock - [The Ring](/o-ring) (1927)
+ - Alfred Hitchcock - Champagne
+ - Alfred Hitchcock - Downhill
+ - Alfred Hitchcock - The Lodger: A Story of the London Fog
+ - Alfred Hitchcock - The Pleasure Garden
+ - Alfred Hitchcock - The Ring
  - Andrei Tarkovsky - Andrei Rublev (1966)
  - Andrei Tarkovsky - Ivan's Childhood (1962)
  - Andrei Tarkovsky - Mirror (1975)
  - Andrei Tarkovsky - Nostalghia (1983)
  - Andrei Tarkovsky - Sacrifice (1986)
  - Andrei Tarkovsky - Stalker (1979)
- - Andrei Tarkovsky - [Solaris](/solaris-1972) (1972)
+ - Andrei Tarkovsky - Solaris
  - Andrzej Wajda - Ashes and Diamonds (1958)
  - Andy Warhol - Chelsea Girls (1967)
  - Anthony Mann - Bend of the River (1952)
@@ -144,16 +144,16 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Billy Wilder - The Major and the Minor (1942)
  - Billy Wilder - The Private Life of Sherlock Holmes (1970)
  - Billy Wilder - Witness for the Prosecution (1957)
- - Billy Wilder - [The Apartment](/se-meu-apartamento-falasse) (1960)
+ - Billy Wilder - The Apartment
  - Billy Wilder - stalag 17 (1953)
  - Blake Edwards - The Party (1968)
- - Blake Edwards - [Breakfast at Tiffany's](/bonequinha-de-luxo) (1961)
+ - Blake Edwards - Breakfast at Tiffany's
  - Bob Fosse - All That Jazz (1979)
  - Bob Fosse - Cabaret (1972)
  - Brian De Palma - Blow Out (1981)
  - Brian De Palma - Carrie (1976)
- - Brian De Palma - [Scarface](/scarface) (1983)
- - Brian De Palma - [The Untouchables](/os-intocaveis) (1987))
+ - Brian De Palma - Scarface
+ - Brian De Palma - The Untouchables
  - Buster Keaton - Battling Butler (1926)
  - Buster Keaton - College (1927)
  - Buster Keaton - Doughboys (1930)
@@ -172,9 +172,9 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Buster Keaton - The Saphead (1920)
  - Buster Keaton - Three Ages (1923)
  - Buster Keaton - What! No Beer? (1933)
- - Buster Keaton - [Sherlock Jr.](/sherlock-jr) (1924)
- - Buster Keaton - [Steamboat Bill, Jr.](/marinheiro-de-encomenda) (1928)
- - Buster Keaton - [The General](/general) (1926)
+ - Buster Keaton - Sherlock Jr.
+ - Buster Keaton - Steamboat Bill, Jr.
+ - Buster Keaton - The General
  - Carl Dreyer - Bride of Glomdal (1926)
  - Carl Dreyer - Day of Wrath (1943)
  - Carl Dreyer - De Naede Fargen (SF) (1948)
@@ -190,7 +190,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Carl Dreyer - Vampyr (1932)
  - Carol Reed - Odd Man Out (1947)
  - Carol Reed - The Fallen Idol (1948)
- - Carol Reed - [The Third Man](/o-terceiro-homem) (1949)
+ - Carol Reed - The Third Man
  - Cecil B. DeMille - Samson and Delilah (1949)
  - Chantal Akerman - Jeanne Dielman
  - Charles Burnett - Killer of Sheep (1977)
@@ -220,23 +220,23 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - David Cronenberg - Dead Ringers (1988)
  - David Cronenberg - Eastern Promises (2007)
  - David Cronenberg - Videodrome (1983)
- - David Cronenberg - [The Fly](/a-mosca) (1986)
+ - David Cronenberg - The Fly
  - David Lean - A Passage to India (1982)
  - David Lean - Blithe Spirit (1945)
  - David Lean - Brief Encounter (1945)
  - David Lean - Great Expectations (1946)
  - David Lean - Oliver Twist (1948)
  - David Lean - Ryan's Daughter (1970)
- - David Lean - [Lawrence of Arabia](/lawrence-da-arabia) (1962)
- - David Lean - [The Bridge on the River Kwai](/a-ponte-do-rio-kwai) (1957)
+ - David Lean - Lawrence of Arabia
+ - David Lean - The Bridge on the River Kwai
  - David Lynch - Eraserhead (1978)
  - David Lynch - Inland Empire (2006)
  - David Lynch - Lost Highway (1996)
  - David Lynch - Mulholland Dr. (2001)
  - David Lynch - The Straight Story (1999)
  - David Lynch - Wild at Heart (1990)
- - David Lynch - [Blue Velvet](/veludo-azul) (1986)
- - David Lynch - [The Elephant Man](/o-homem-elefante) (1980)
+ - David Lynch - Blue Velvet
+ - David Lynch - The Elephant Man
  - Don Siegel - Dirty Harry (1971)
  - Don Siegel - Invasion of the Body Snatchers (1956)
  - Douglas Sirk - A Time to Love and a Time to Die (1958)
@@ -248,7 +248,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Douglas Sirk - There's Always Tomorrow (1956)
  - Douglas Sirk - Thunder on the Hill (1951)
  - Douglas Sirk - Written on the Wind (1956)
- - Dziga Vertov - [The Man with a Movie Camera](/man-with-a-movie-camera) (1929)
+ - Dziga Vertov - The Man with a Movie Camera
  - Edgar G. Ulmer - Detour (1945)
  - Edgar G. Ulmer - People on Sunday (1929)
  - Edward Yang - A Brighter Summer Day (1991)
@@ -287,7 +287,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Ernst Lubitsch - The Shop Around the Corner (1940)
  - Ernst Lubitsch - To Be or Not to Be (1942)
  - F W Murnau - Faust (1926)
- - F W Murnau - [Nosferatu](/nosferatu) (1922)
+ - F W Murnau - Nosferatu
  - Federico Fellini - 8½ (1963)
  - Federico Fellini - Amarcord (1973)
  - Federico Fellini - Boccaccio '70 (1962)
@@ -320,7 +320,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Francis Ford Coppola - Rumble Fish (1983)
  - Francis Ford Coppola - The Rain People (1969)
  - Francis Ford Coppola - Tucker The Man and His Dream (1988)
- - Francis Ford Coppola - [The Conversation](/a-conversacao) (1974)
+ - Francis Ford Coppola - The Conversation
  - Francois Truffaut - Confidentially Yours (1983)
  - Francois Truffaut - Day for Night (1973)
  - Francois Truffaut - Jules et Jim (1962)
@@ -373,8 +373,8 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Fritz Lang - Western Union (1941)
  - Fritz Lang - While the City Sleeps (1956)
  - Fritz Lang - You Only Live Once (1937)
- - Fritz Lang - [M](/m-o-vampiro-de-dusseldorf) (1931)
- - Fritz Lang - [Metropolis](/metropolis) (1927)
+ - Fritz Lang - M
+ - Fritz Lang - Metropolis
  - G.W. Pabst - Diary of a Lost Girl (1929)
  - G.W. Pabst - Pandora's Box (1928)
  - George Cukor - A Star is Born (1954)
@@ -402,11 +402,11 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Glauber Rocha - Black God, White Devil (1964)
  - Glauber Rocha - Terra em Transe (1967)
  - Hal Ashby - Being There (1979)
- - Hal Ashby - [Harold and Maude](/ensina-me-a-viver) (1972)
- - Hal Ashby - [The Last Detail](/a-ultima-missao) (1973)
+ - Hal Ashby - Harold and Maude
+ - Hal Ashby - The Last Detail
  - Hayao Miyazaki - Howl's Moving Castle (2004)
- - Hayao Miyazaki - [My Neighbour Totoro](/meu-amigo-totoro) (1988)
- - Hayao Miyazaki - [Spirited Away](/a-viagem-de-chihiro) (2001)
+ - Hayao Miyazaki - My Neighbour Totoro
+ - Hayao Miyazaki - Spirited Away
  - Henri-Georges Clouzot - Le Corbeau (1943)
  - Henri-Georges Clouzot - Les Diaboliques (1955)
  - Henri-Georges Clouzot - The Wages of Fear (1952)
@@ -430,7 +430,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Howard Hawks - The Big Sleep (1946)
  - Howard Hawks - The Thing from Another World (1951)
  - Howard Hawks - To Have and Have Not (1944)
- - Howard Hawks - [Scarface](/scarface-a-vergonha-de-uma-nacao) (1932)
+ - Howard Hawks - Scarface
  - Humphrey Jennings - A Diary for Timothy (1945)
  - Humphrey Jennings - Fires Were Started (1943)
  - Humphrey Jennings - Listen to Britain (1941)
@@ -455,7 +455,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Ingmar Bergman - To Joy (1950)
  - Ingmar Bergman - Touch (1971)
  - Ingmar Bergman - Winter Light (1962)
- - Ingmar Bergman - [Wild Strawberries](/morangos-silvestres) (1957
+ - Ingmar Bergman - Wild Strawberries (1957
  - Jacques Becker - Casque d'or (1952
  - Jacques Becker - Le Trou (1959)
  - Jacques Demy - Bay of Angels (1963)
@@ -478,8 +478,8 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - James Cameron - Avatar (2009)
  - James Cameron - Terminator 2  Judgment Day (1991)
  - James Cameron - The Terminator (1984)
- - James Cameron - [Aliens](/aliens-o-resgate) (1986)
- - James Cameron - [Titanic](/titanic) (1997)
+ - James Cameron - Aliens
+ - James Cameron - Titanic
  - James Whale - Bride of Frankenstein (1935)
  - James Whale - Frankenstein (1931)
  - Jane Campion - Bright Star (2009)
@@ -503,7 +503,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Jean Luc-Godard - Two or Three Things I Know About Her (1966)
  - Jean Luc-Godard - Vivre sa vie (1963)
  - Jean Luc-Godard - Week-End (1967)
- - Jean Luc-Godard - [Masculin Feminin](/masculinofeminino) (1966)
+ - Jean Luc-Godard - Masculin Feminin
  - Jean Pierre-Melville - Bob le flambeur (1955)
  - Jean Pierre-Melville - Dirty Money (1972)
  - Jean Pierre-Melville - Le Doulos (1962)
@@ -534,10 +534,10 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Joel Coen and Ethan Coen - O Brother, Where Art Thou (2000)
  - Joel Coen and Ethan Coen - The Hudsucker Proxy (1994)
  - Joel Coen and Ethan Coen - The Man Who Wasn't There (2001)
- - Joel Coen and Ethan Coen - [Fargo](/fargo) (1996)
- - Joel Coen and Ethan Coen - [No Country For Old Men](/onde-os-fracos-nao-tem-vez) (2007)
- - Joel Coen and Ethan Coen - [Raising Arizona](/arizona-nunca-mais) (1987)
- - Joel Coen and Ethan Coen - [The Big Lebowski](/o-grande-levowski) (1998)
+ - Joel Coen and Ethan Coen - Fargo
+ - Joel Coen and Ethan Coen - No Country For Old Men
+ - Joel Coen and Ethan Coen - Raising Arizona
+ - Joel Coen and Ethan Coen - The Big Lebowski
  - John Carpenter - Assault on Precinct 13 (1976)
  - John Carpenter - Halloween (1978)
  - John Cassavetes - A Woman Under the Influence (1974)
@@ -685,10 +685,10 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Martin Scorscese - The Last Temptation of Christ (1988)
  - Martin Scorscese - The Last Waltz (1978)
  - Martin Scorscese - Whos That Knocking at My Door (1967)
- - Martin Scorscese - [Casino](/cassino) (1995)
- - Martin Scorscese - [Goodfellas](/os-bons-companheiros) (1990)
- - Martin Scorscese - [Taxi Driver](/taxi-driver) (1976)
- - Martin Scorscese - [The King of Comedy](/o-rei-da-comedia) (1983)
+ - Martin Scorscese - Casino
+ - Martin Scorscese - Goodfellas
+ - Martin Scorscese - Taxi Driver
+ - Martin Scorscese - The King of Comedy
  - Max Ophuls - Caught (1949)
  - Max Ophuls - La Ronde (1950)
  - Max Ophuls - Letter from an Unknown Woman (1948)
@@ -696,7 +696,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Max Ophuls - The Earrings of Madame De... (1953)
  - Max Ophuls - The Reckless Moment (1949)
  - Mel Brooks - The Producers (1968)
- - Mel Brooks - [Young Frankenstein](/o-jovem-frankestein) (1974)
+ - Mel Brooks - Young Frankenstein
  - Merian C. Cooper & Ernest B. Schoedsack - King Kong (1933)
  - Michael Cimino - Heaven's Gate (1980)
  - Michael Cimino - The Deer Hunter (1978)
@@ -733,7 +733,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Michelanegelo Antonioni - The Passenger (1975)
  - Michelanegelo Antonioni - Zabriskie Point (1970)
  - Mike Leigh - Naked (1993)
- - Mike Nichols - [The Graduate](/a-primeira-noite-de-um-homem) (1967)
+ - Mike Nichols - The Graduate
  - Mikio Naruse - Floating Clouds (1955)
  - Milos Forman - One Flew Over the Cuckoo's Nest (1975)
  - Milos Forman - Taking Off (1971)
@@ -748,7 +748,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Nicholas Ray - Party Girl (1958)
  - Nicholas Ray - The Lusty Men (1952)
  - Nicholas Ray - They Live by Night (1948)
- - Nicholas Ray - [Rebel Without a Cause](/juventude-transviada) (1955)
+ - Nicholas Ray - Rebel Without a Cause
  - Nicolas Roeg - Don't Look Now (1973)
  - Nicolas Roeg - Performance (1970)
  - Nicolas Roeg - The Man Who Fell to Earth (1976)
@@ -764,18 +764,18 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Orson Welles - The Magnificent Ambersons (1942
  - Orson Welles - The Stranger (1946)
  - Orson Welles - The Trial (1963)
- - Orson Welles - [Touch of Evil](/a-marca-da-maldade) (1958)
+ - Orson Welles - Touch of Evil
  - Ousmane Sembene - Moolade (2004)
  - Ousmane Sembene - Xala (1975)
  - Paul Thomas Anderson - Boogie Nights (1997)
  - Paul Thomas Anderson - Magnolia (1999)
- - Paul Thomas Anderson - [Punch-Drunk Love](/embriagado-de-amor) (2002)
- - Paul Thomas Anderson - [There Will Be Blood](/sangue-negro) (2007)
- - Paul Verhoeven - [Robocop](/robocop-o-policial-do-futuro-1987) (1987)
- - Paul Verhoeven - [Starship Troopers](/tropas-estelares) (1997)
+ - Paul Thomas Anderson - Punch-Drunk Love
+ - Paul Thomas Anderson - There Will Be Blood
+ - Paul Verhoeven - Robocop
+ - Paul Verhoeven - Starship Troopers
  - Pedro Almondovar - Law of Desire (1987)
  - Pedro Almondovar - Talk to Her (2002)
- - Pedro Almondovar - [All About My Mother](/tudo-sobre-minha-mae) (1999)
+ - Pedro Almondovar - All About My Mother
  - Peter Bogdanovich - The Last Picture Show (1971)
  - Peter Jackson - O Senhor dos Anéis - A Sociedade do Anel (2001)
  - Peter Jackson - O Senhor dos Anéis - Duas Torres (2002)
@@ -785,7 +785,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Peter Weir - Picnic at Hanging Rock (1975)
  - Peter Weir - The Year of Living Dangerously (1983)
  - Peter Weir - Witness (1985)
- - Peter Weir - [The Truman Show](/o-show-de-truman) (1998)
+ - Peter Weir - The Truman Show
  - Pier Paolo Pasolini - Accattone (1961)
  - Pier Paolo Pasolini - La Rabbia (1963)
  - Pier Paolo Pasolini - Mamma Roma (1962)
@@ -799,10 +799,10 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Preston Sturges - The Palm Beach Story (1942)
  - Preston Sturges - Unfaithfully Yours (1948)
  - Quentin Tarantino - Reservoir Dogs (1991)
- - Quentin Tarantino - [Jackie Brown](/jackie-brown) (1997)
- - Quentin Tarantino - [Kill Bill Vol. 1](/kill-bill-volume-1) (2003)
- - Quentin Tarantino - [Kill Bill Vol. 2](/kill-bill-volume-2) (2004)
- - Quentin Tarantino - [Pulp Fiction](/pulp-fiction-tempo-de-violencia) (1994)
+ - Quentin Tarantino - Jackie Brown
+ - Quentin Tarantino - Kill Bill Vol. 1
+ - Quentin Tarantino - Kill Bill Vol. 2
+ - Quentin Tarantino - Pulp Fiction
  - Rainer Werner Fassbinder - Ali, Fear Eats the Soul (1974)
  - Rainer Werner Fassbinder - BRD Trilogy (Maria Braun (1978), Lola (1981), Veronika Voss (1982))
  - Rainer Werner Fassbinder - Berlin Alexanderplatz (1980) - 14 Episodes
@@ -815,15 +815,15 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Rainer Werner Fassbinder - The Bitter Tears of Petra von Kant (1972)
  - Rainer Werner Fassbinder - The Merchant of Four Seasons (1971)
  - Rainer Werner Fassbinder - Why Does Herr R. Run Amok (1970)
- - Richard Linklater - [Dazed and Confused](/jovens-loucos-e-mais-rebeldes) (1993)
+ - Richard Linklater - Dazed and Confused
  - Ridley Scott - American Gangster (2007)
  - Ridley Scott - Blade Runner (1982)
  - Ridley Scott - Gladiator (2000)
  - Ridley Scott - Matchstick Men (2003)
  - Ridley Scott - Someone to Watch Over Me (1987)
  - Ridley Scott - The Duellists (1977)
- - Ridley Scott - [Alien](/alien-o-oitavo-passageiro) (1979)
- - Ridley Scott - [Thelma & Louise](/thelma--louise) (1991)
+ - Ridley Scott - Alien
+ - Ridley Scott - Thelma & Louise
  - Ritwik Ghatak - The Cloud-Capped Star (1960)
  - Rob Reiner - The Princess Bride (1987)
  - Rob Reiner - This is Spinal Tap (1984)
@@ -863,10 +863,10 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Robert Mulligan - To Kill a Mockingbird (1962)
  - Robert Wise - The Day the Earth Stood Still (1951)
  - Robert Wise - West Side Story (1961)
- - Robert Wise - [The Sound of Music](/novica-rebelde) (1965)
- - Robert Zemeckis - [Back to the Future](/de-volta-para-o-futuro) (1985)
- - Robert Zemeckis - [Forrest Gump](/forrest-gump-o-contador-de-historias) (1994)
- - Robert Zemeckis - [Who Framed Roger Rabbit](/uma-cilada-para-roger-rabbit) (1988)
+ - Robert Wise - The Sound of Music
+ - Robert Zemeckis - Back to the Future
+ - Robert Zemeckis - Forrest Gump
+ - Robert Zemeckis - Who Framed Roger Rabbit
  - Roberto Rosselini - Europa '51 (1952)
  - Roberto Rosselini - General Della Rovere (1959)
  - Roberto Rosselini - Germany, Year Zero (1948)
@@ -917,13 +917,13 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Sergei Eisenstein - Oktyabr (1928)
  - Sergei Eisenstein - Que viva Mexico! (1932)
  - Sergei Eisenstein - The general line (1929)
- - Sergei Eisenstein - [Battleship Potemkin](/o-encouracado-potemkin) (1925)
- - Sergei Eisenstein - [Strike](/a-greve) (1924)
- - Sergio Leone - [A Fistful of Dollars](/por-um-punhado-de-dolares) (1964)
- - Sergio Leone - [For a Few Dollars More](/por-uns-dolares-a-mais) (1965)
- - Sergio Leone - [Once Upon a Time in America](/era-uma-vez-na-america) (1984)
- - Sergio Leone - [Once Upon a Time in the West](/era-uma-vez-no-oeste) (1968)
- - Sergio Leone - [The Good, the Bad and the Ugly](/tres-homens-em-conflito) (1966)
+ - Sergei Eisenstein - Battleship Potemkin
+ - Sergei Eisenstein - Strike
+ - Sergio Leone - A Fistful of Dollars
+ - Sergio Leone - For a Few Dollars More
+ - Sergio Leone - Once Upon a Time in America
+ - Sergio Leone - Once Upon a Time in the West
+ - Sergio Leone - The Good, the Bad and the Ugly
  - Shohei Imamura - Ballad of Narayama (1983)
  - Sidney Lumet - 12 Angry Men (1957)
  - Sidney Lumet - Dog Day Afternoon (1975)
@@ -931,9 +931,9 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Sidney Lumet - Running on Empty (1988)
  - Sidney Lumet - The Hill (1965)
  - Sidney Lumet - The Verdict (1982)
- - Sidney Lumet - [Before the Devil Knows You're Dead](/antes-que-o-diabo-saiba-que-voce-esta-morto) (2007)
- - Sidney Lumet - [Network](/rede-de-intrigas) (1976)
- - Sidney Lumet - [Serpico](/serpico) (1973)
+ - Sidney Lumet - Before the Devil Knows You're Dead
+ - Sidney Lumet - Network
+ - Sidney Lumet - Serpico
  - Spike Lee - 25th Hour (2002)
  - Spike Lee - Do the Right Thing (1989)
  - Spike Lee - Malcolm X (1992)
@@ -946,12 +946,12 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Stanley Kubrick - Lolita (1962)
  - Stanley Kubrick - Paths of Glory (1957)
  - Stanley Kubrick - The Shining (1980)
- - Stanley Kubrick - [2001: A Space Odyssey](/2001-uma-odisseia-no-espaco) (1968)
- - Stanley Kubrick - [Barry Lyndon](/barry-lyndon) (1975)
- - Stanley Kubrick - [Dr. Strangelove](/dr-fantastico) (1964)
- - Stanley Kubrick - [Killer's Kiss](/a-morte-passou-perto) (1955)
- - Stanley Kubrick - [Spartacus](/spartacus) (1960)
- - Stanley Kubrick - [The Killing](/o-grande-golpe) (1956)
+ - Stanley Kubrick - 2001: A Space Odyssey
+ - Stanley Kubrick - Barry Lyndon
+ - Stanley Kubrick - Dr. Strangelove
+ - Stanley Kubrick - Killer's Kiss
+ - Stanley Kubrick - Spartacus
+ - Stanley Kubrick - The Killing
  - Steven Spielberg - A.I. Artificial Intelligence (2001)
  - Steven Spielberg - Amistad (1997)
  - Steven Spielberg - Catch Me if You Can (2002)
@@ -966,22 +966,22 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Steven Spielberg - The Color Purple (1985)
  - Steven Spielberg - The Sugarland Express (1974)
  - Steven Spielberg - War of the Worlds (2005)
- - Steven Spielberg - [Indiana Jones and The Last Crusade](/indiana-jones-e-a-ultima-cruzada) (1989)
- - Steven Spielberg - [Indiana Jones and The Temple of Doom](/indiana-jones-e-o-templo-da-perdicao) (1984)
- - Steven Spielberg - [Raiders of The Lost Ark](/os-cacadores-da-arca-perdida) (1981)
- - Steven Spielberg - [Saving Private Ryan](/o-resgate-do-soldado-ryan) (1998)
+ - Steven Spielberg - Indiana Jones and The Last Crusade
+ - Steven Spielberg - Indiana Jones and The Temple of Doom
+ - Steven Spielberg - Raiders of The Lost Ark
+ - Steven Spielberg - Saving Private Ryan
  - Sydney Pollack - Out of Africa (1985)
  - Sydney Pollack - Tootsie (1982)
  - Terry Gilliam - Monty Python and the Holy Grail (1975
- - Terry Gilliam - [Brazil](/brazil-o-filme) (1985)
+ - Terry Gilliam - Brazil
  - Theo Angelopoulos - Eternity and a Day (1998)
  - Theo Angelopoulos - The Travelling Players (1975
- - Tim Burton - [Ed Wood](/ed-wood) (1994)
- - Tim Burton - [Edward Scissorhands](/edward-maos-de-tesoura) (1990)
+ - Tim Burton - Ed Wood
+ - Tim Burton - Edward Scissorhands
  - Tobe Hooper - The Texas Chainsaw Massacre (1974)
  - Victor Fleming - Gone with the Wind (1939)
  - Victor Fleming - Red dust (1932)
- - Victor Fleming - [The Wizard of Oz](/o-magico-de-oz) (1939)
+ - Victor Fleming - The Wizard of Oz
  - Victor Sjöstrom - Phantom Carriage (1920)
  - Victor Sjöstrom - The Wind (1928)
  - Vincent Minnelli - An American in Paris (1951)
@@ -1001,7 +1001,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Vittorio De Sica - The Garden of the Finzi-Continis (1970)
  - Vittorio De Sica - Two Women (1960)
  - Vittorio De Sica - Umberto D. (1952)
- - Vittorio De Sica - [The Bicycle Thief](/ladroes-de-bicicletas) (1948)
+ - Vittorio De Sica - The Bicycle Thief
  - Werner Herzog - Aguirre, The Wrath of God (1972)
  - Werner Herzog - Fata Morgana (1971)
  - Werner Herzog - Fitzcarraldo (1982)
@@ -1015,7 +1015,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Werner Herzog - The Enigma of Kaspar Hauser (1974)
  - Werner Herzog - The Great Ecstasy of Woodcarver Steiner (1974)
  - William Friedkin - The French Connection (1971)
- - William Friedkin - [The Exorcist](/o-exorcista) (1973)
+ - William Friedkin - The Exorcist
  - William Wellman - The Ox-Bow Incident (1943)
  - William Wyler - Ben-Hur (1959)
  - William Wyler - Carrie (1952)
@@ -1060,10 +1060,10 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Woody Allen - Sweet and Lowdown (1999)
  - Woody Allen - The Curse of the Jade Scorpion (2001)
  - Woody Allen - Zelig (1983)
- - Woody Allen - [Annie Hall](/noivo-neurotico-noiva-nervosa) (1977)
- - Woody Allen - [Deconstructing Harry](/descontruindo-harry) (1997)
- - Woody Allen - [Manhattan](/manhattan) (1979)
- - Woody Allen - [The Purple Rose of Cairo](/a-rosa-purpura-do-cairo) (1985)
+ - Woody Allen - Annie Hall
+ - Woody Allen - Deconstructing Harry
+ - Woody Allen - Manhattan
+ - Woody Allen - The Purple Rose of Cairo
  - Yasujiro Ozu + Kenji Mizoguchu - An Autumn Afternoon (1962)
  - Yasujiro Ozu + Kenji Mizoguchu - Brothers and Sisters of the Toda Family (1941)
  - Yasujiro Ozu + Kenji Mizoguchu - EIGHT JAPANESE MASTER COLLECTION.........
@@ -1072,7 +1072,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Yasujiro Ozu + Kenji Mizoguchu - Late Spring (1949)
  - Yasujiro Ozu + Kenji Mizoguchu - The Flavor of Green Tea over Rice (1952)
  - Yasujiro Ozu + Kenji Mizoguchu - The Lady and the Beard (1931)
- - Yasujiro Ozu + Kenji Mizoguchu - [Tokyo Story](/era-uma-vez-em-toquio-1953) (1953)
+ - Yasujiro Ozu + Kenji Mizoguchu - Tokyo Story
  - Zhang Yimou - Ju Dou (1990)
  - Zhang Yimou - Raise The Red Lantern (1991)
  - Zhang Yimou - Red Sorghum (1987)

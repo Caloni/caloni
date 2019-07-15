@@ -3,7 +3,7 @@ date: "2011-10-22"
 title: Vida e Software
 categories: [ "blog" ]
 ---
-[caption id="attachment_1229" align="alignleft" width="168" caption="Fonte: semichaotic.spreadshirt.com"][![](http://i.imgur.com/sR2DCZ0.png)](/images/life-code_design.png)[/caption]
+caption id="attachment_1229" align="alignleft" width="168" caption="Fonte: semichaotic.spreadshirt.com"]![[/caption]
 
 Desenvolver software está bem longe de ser uma ciência exata e muito próxima de ser uma ciência humana. Eu, pessoalmente, considero um ramo esotérico, onde vale muito mais ter a atitude de reconhecer que não temos muito controle sobre como as coisas funcionam do que querer ter as rédeas de algo desgovernado.
 
@@ -20,5 +20,5 @@ De uma forma ou de outra, como toda atividade humana, escrever código nos defin
 #### Para devanear mais
 
 	
-  * [Para quê filosofia?](http://www.verdadestraumaticas.com/2011/08/para-que-filosofia-marilena-chaui.html) ¿ Marilena Chauí
+  * Para quê filosofia? ¿ Marilena Chauí
 

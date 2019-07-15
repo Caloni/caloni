@@ -44,7 +44,7 @@ Tirando o fato que o retorno void não é mais um protótipo padrão da função
     <strong>cl getcomputername.cpp
     getcomputername.cpp(26) : error C3861: 'GetComputerNameEx': identifier not found</strong>
 
-A função GetComputerNameEx parece não ter sido definida, apesar de estarmos incluindo o _header_ windows.h, que é o pedido pela [documentação do MSDN](http://msdn2.microsoft.com/en-us/library/ms724301.aspx):
+A função GetComputerNameEx parece não ter sido definida, apesar de estarmos incluindo o _header_ windows.h, que é o pedido pela documentação do MSDN:
 
 #### Requirements
 
@@ -185,6 +185,6 @@ void _tmain(void)
 
 Outra observação que poderia ter ajudado na hora de codificar seria dar uma olhada no que os caras escrevem na seção de advertências (_remarks) _da documentação_:_
 
-> _To compile an application that uses this function, define the _WIN32_WINNT macro as 0x0500 or later. For more information, see [Using the Windows Headers](http://msdn2.microsoft.com/en-us/library/aa383745.aspx)._
+> _To compile an application that uses this function, define the _WIN32_WINNT macro as 0x0500 or later. For more information, see Using the Windows Headers._
 
-Podemos também notar pela definição do COMPUTER_NAME_FORMAT dentro do main que o código estava no meio do caminho de cometer um sacrilégio: declarar funções e estruturas que já estão definidas nos _headers_ da API. Portanto, se você já encontrou algum código parecido com esse, é hora de colocar em prática algumas teorias de _[refactoring](http://en.wikipedia.org/wiki/Code_refactoring)._
+Podemos também notar pela definição do COMPUTER_NAME_FORMAT dentro do main que o código estava no meio do caminho de cometer um sacrilégio: declarar funções e estruturas que já estão definidas nos _headers_ da API. Portanto, se você já encontrou algum código parecido com esse, é hora de colocar em prática algumas teorias de _refactoring._

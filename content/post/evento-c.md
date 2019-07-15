@@ -5,11 +5,11 @@ categories: [ "blog" ]
 ---
 Esse fim-de-semana houve o tão falado evento C++, com a presença de dezenas de pessoas, algo que eu sinceramente não esperava. O bom desse evento foi saber que existem tantas pessoas interessadas em manter contato com quem gosta e pratica essa linguagem e também em saber que o nível técnico das palestras estão de alto para avançado.
 
-Infelizmente em nenhuma das duas palestras práticas (minha e do Fernando) houve participação interativa, e ninguém que eu saiba abriu meu pacote-surpresa com os dumps a serem analisados. De qualquer forma, minha palestra ficou bagunçada pelo excesso de conteúdo e falta de tempo, o que me fez dar boas risadas ao ouvir no twitter que [minha palestra foi mais um brainstorm](http://twitter.com/nicolasgavlak/status/21201995301). A intenção não era essa, claro, mas meu claro despreparo para muito conteúdo gerou essa impressão. Espero que do pouco que consegui explicar alguém tenha achado utilidade.
+Infelizmente em nenhuma das duas palestras práticas (minha e do Fernando) houve participação interativa, e ninguém que eu saiba abriu meu pacote-surpresa com os dumps a serem analisados. De qualquer forma, minha palestra ficou bagunçada pelo excesso de conteúdo e falta de tempo, o que me fez dar boas risadas ao ouvir no twitter que minha palestra foi mais um brainstorm. A intenção não era essa, claro, mas meu claro despreparo para muito conteúdo gerou essa impressão. Espero que do pouco que consegui explicar alguém tenha achado utilidade.
 
 E, pelo jeito, futuramente irei aplicar essa mesma metodologia brainstorm em um videocast, que ainda não decidi como irei preparar. A ideia é analisarmos alguns dumps em conjunto e, para os que acompanharem online, a interatividade de perguntas & respostas.
 
-Mas enquanto isso não acontece vamos dar uma olhada no que tínhamos no [pacote-surpresa](http://www.caloni.com.br/nao-e-minha-culpa).
+Mas enquanto isso não acontece vamos dar uma olhada no que tínhamos no pacote-surpresa.
 
 #### 1. NotMyFaultEither.exe.mdmp - Stack Trash
 
@@ -142,11 +142,11 @@ Esse foi meio de brinde. Uma exceção de breakpoint (int 3, ntdll!DbgBreakPoint
 
 ##### 5. ntdll_cliente.dll - Importação de símbolos
 
-[![vm-sony-xp-2010-08-08-17-59-22.png](http://i.imgur.com/ETJrBGa.png)](/images/vm-sony-xp-2010-08-08-17-59-22.png)
+!vm-sony-xp-2010-08-08-17-59-22.png
 Essa foi a DLL encontrada no cliente quando ocorreu o problema relatado na imagem, também em anexo. Isso foi demonstrado na palestra com a ajuda do meu script que carrega DLLs, além de um pouco de sorte. Podemos analisar esse caso com mais calma em outro artigo. Acho que já falei demais por aqui.
 
 #### Slides
 
 	
-  * Download dos [slides](/images/crash-dump-analysis-slides.zip) usados na palestra.
+  * Download dos slides usados na palestra.
 

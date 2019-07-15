@@ -3,7 +3,7 @@ date: "2007-11-27"
 title: Carregando DLLs arbitrárias pelo WinDbg - parte 2
 categories: [ "code" ]
 ---
-Como pudemos ver no [artigo anterior](http://www.caloni.com.br/carregando-dlls-arbitrarias-pelo-windbg), o processo para carregar uma DLL pelo WinDbg é muito extenso, enfadonho e sujeito a erros. Por esse motivo, e para tornar as coisas mais divertidas, resolvi transformar tudo aquilo em um simples _script_ que pode ser executado digitando apenas uma linha.
+Como pudemos ver no artigo anterior, o processo para carregar uma DLL pelo WinDbg é muito extenso, enfadonho e sujeito a erros. Por esse motivo, e para tornar as coisas mais divertidas, resolvi transformar tudo aquilo em um simples _script_ que pode ser executado digitando apenas uma linha.
 
 Se trata do meu primeiro _script_ grande para o WinDbg, por isso, peço que tenham dó de mim =).
 
@@ -40,7 +40,7 @@ No caso do _script_ desse artigo, utilizaremos a última forma, pois precisamos 
 
 #### Modo de usar
 
-Não há qualquer dificuldade. Tudo que você tem que fazer é baixar o [_script_ que carrega DLLs](/images/loadlibrary.txt) e salvá-lo em um lugar de sua preferência. Depois é só digitar o comando que carrega _scripts_, o _path_ de nosso _script_ e o nome da DLL a ser carregada em uma das três formas exibidas. Eu costumo criar uma pasta chamada "_scripts_" dentro do diretório de instalação do Debugging Tools, o que quer dizer que posso simplesmente chamar todos meus _scripts_ (ou seja, 1) dessa maneira:
+Não há qualquer dificuldade. Tudo que você tem que fazer é baixar o _script_ que carrega DLLs dessa maneira:
 
     
     $$>a<scripts\LoadLibrary.txt mydll.dll
@@ -145,7 +145,7 @@ Por falar em olhar, uma primeira olhada revela a seguinte estrutura:
        ...
     }
 
-Qualquer semelhança com as instruções em C não é mera coincidência. Essa estrutura de fato verifica se o resultado dentro do .if é verdadeiro. No caso o _script_ verifica se o primeiro parâmetro foi passado, já que os argumentos são acessíveis através dos _alias_ (apelidos) **$arg1 - $argn**. Essa maneira de usar os argumentos passados no WinDbg ainda não foi documentada, mas encontrei essa dica em [um artigo do Roberto Farah](http://blogs.msdn.com/debuggingtoolbox/archive/2007/05/03/windbg-script-get-portable-executable-headers.aspx), um grande escritor de _scripts_ para o WinDbg.
+Qualquer semelhança com as instruções em C não é mera coincidência. Essa estrutura de fato verifica se o resultado dentro do .if é verdadeiro. No caso o _script_ verifica se o primeiro parâmetro foi passado, já que os argumentos são acessíveis através dos _alias_ (apelidos) **$arg1 - $argn**. Essa maneira de usar os argumentos passados no WinDbg ainda não foi documentada, mas encontrei essa dica em um artigo do Roberto Farah, um grande escritor de _scripts_ para o WinDbg.
 
 Da mesma forma, o que não deve ser nenhuma surpresa, o WinDbg suporta comentários. Todas as linhas que contêm '$$' isoladamente são comentários, e seu conteúdo da direita é ignorado, salvo se for encontrado um ponto-e-vírgula.
 
@@ -257,4 +257,4 @@ Eu não me responsabilizo por qualquer (mau) uso do _script_ aqui disponibilizad
 
 #### Atualização
 
-O criador do [DriverEntry](http://www.driverentry.com.br) me questionou se não seria mais fácil, em vez de escrever todos os opcodes em hexa, usar o comando **a**, que permite entrar o código _assembly_ diretamente a partir de um endereço especificado. Essa realmente é uma ótima idéia, e de fato eu tentei isso no começo de meus testes. Porém, infelizmente para _scripts_ isso não funciona bem. A partir do comando **a** o _prompt_ fica esperando uma entrada do usuário, não lendo o _assembly_ que estaria no próprio _script_. Pior ainda, a escrita do _assembly_ não permite usar os registradores temporários, como $t0 ou $t1, o que nos força a escrever um código dependende de valores constantes. Por esses motivos, tive que apelar para o comando **e**, que é a forma mais confusa de escrever e entender _assembly. _Nesse tipo de edição é vital comentar bem cada linha que se escreve.
+O criador do DriverEntry me questionou se não seria mais fácil, em vez de escrever todos os opcodes em hexa, usar o comando **a**, que permite entrar o código _assembly_ diretamente a partir de um endereço especificado. Essa realmente é uma ótima idéia, e de fato eu tentei isso no começo de meus testes. Porém, infelizmente para _scripts_ isso não funciona bem. A partir do comando **a** o _prompt_ fica esperando uma entrada do usuário, não lendo o _assembly_ que estaria no próprio _script_. Pior ainda, a escrita do _assembly_ não permite usar os registradores temporários, como $t0 ou $t1, o que nos força a escrever um código dependende de valores constantes. Por esses motivos, tive que apelar para o comando **e**, que é a forma mais confusa de escrever e entender _assembly. _Nesse tipo de edição é vital comentar bem cada linha que se escreve.

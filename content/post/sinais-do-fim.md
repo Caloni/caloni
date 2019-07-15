@@ -26,7 +26,7 @@ Não há nada de errado em autores independentes quererem se expressar. É assim
 
 ## Links interessantes
 
- - Para comprar os livros de Dario em ebook, vá no [saite da editora](http://velhasnovidadespublic.blogspot.com.br/).
- - Canal do Dario no [YouTube](https://www.youtube.com/channel/UC5VnkNyfDzru7Lz2yHNTkEg).
- - Reportagem da [Cultivando](http://blogaps4.wixsite.com/cultivando/single-post/2016/11/21/VOC%C3%8A-PRECISA-LER-SOBRE-AUTORES-INDEPENTES) sobre autores independentes.
+ - Para comprar os livros de Dario em ebook, vá no saite da editora.
+ - Canal do Dario no YouTube.
+ - Reportagem da Cultivando sobre autores independentes.
 

@@ -3,15 +3,15 @@ date: "2008-01-10"
 title: Analisando dumps com WinDbg e IDA
 categories: [ "code" ]
 ---
-Apesar de ser recomendado que 100% dos componentes de um software esteja configurado corretamente para gerar símbolos na versão _release_, possibilitando assim a visualização do nome das funções internas através de um [arquivo de _dump_](http://support.microsoft.com/kb/315263) (despejo) gerado na ocorrência de um _crash_, essa verdade só ocorre em 80% das vezes. Quis Murphy que dessa vez a única parte não "simbolizada" fosse a que gerou a tela azul em um [Intel Quad Core](http://compare.buscape.com.br/categoria?id=22&lkout=1&kw=Intel+Quad+Core&site_origem=1293522) que estou analisando esses dias.
+Apesar de ser recomendado que 100% dos componentes de um software esteja configurado corretamente para gerar símbolos na versão _release_, possibilitando assim a visualização do nome das funções internas através de um arquivo de _dump_](http://support.microsoft.com/kb/315263) (despejo) gerado na ocorrência de um _crash_, essa verdade só ocorre em 80% das vezes. Quis Murphy que dessa vez a única parte não "simbolizada" fosse a que gerou a tela azul em um [Intel Quad Core que estou analisando esses dias.
 
-Para incluir um programa novo em nosso leque de opções, vamos usar dessa vez uma ferramenta chamada [IDA](http://www.hex-rays.com/idapro/overview.htm), um disassembler estático cujo nome é uma clara homenagem à nossa [primeira programadora da história](http://pt.wikipedia.org/wiki/Ada_Lovelace). E, é lógico, o WinDbg não poderá ficar de fora, já que ele será nosso analisador de dumps.
+Para incluir um programa novo em nosso leque de opções, vamos usar dessa vez uma ferramenta chamada IDA](http://www.hex-rays.com/idapro/overview.htm), um disassembler estático cujo nome é uma clara homenagem à nossa [primeira programadora da história. E, é lógico, o WinDbg não poderá ficar de fora, já que ele será nosso analisador de dumps.
 
 #### A primeira noite de um dump
 
-Tecnicamente falando, um dump nada mais é do que o conjunto de informações relevantes de um sistema em um determinado momento da execução, geralmente logo após um _crash_, onde tudo pára e morre. No caso do Windows, o _crash_ é chamado de [BSOD](http://www.google.com/search?q=bsod), Blue Screen Of Death, ou Tela Azul da Morte (bem macabro, não?). Do ponto de vista do usuário, é aquela simpática tela azul que aparece logo após o travamento da máquina.
+Tecnicamente falando, um dump nada mais é do que o conjunto de informações relevantes de um sistema em um determinado momento da execução, geralmente logo após um _crash_, onde tudo pára e morre. No caso do Windows, o _crash_ é chamado de BSOD. Do ponto de vista do usuário, é aquela simpática tela azul que aparece logo após o travamento da máquina.
 
-<blockquote>_Em algumas máquinas, essa tela nem mais é vista, pois o Windows XP é configurado automaticamente para exibir um simpático __reboot que joga todos os seus dados não-salvos naquele momento para o limbo (ou, como diria o [Thiago](http://codebehind.wordpress.com/), para o "céu dos dados não-salvos antes de uma tela azul")._</blockquote>
+<blockquote>_Em algumas máquinas, essa tela nem mais é vista, pois o Windows XP é configurado automaticamente para exibir um simpático __reboot que joga todos os seus dados não-salvos naquele momento para o limbo (ou, como diria o Thiago._</blockquote>
 
 Dumps podem ser abertos por um depurador que entenda o tipo de dump gerado (Visual Studio, WinDbg, OllyDbg, IDA, sd, etc). Se estamos falando de aplicativos que travaram, o Visual Studio pode dar conta do recado. Se é realmente uma tela azul, o WinDbg é o mais indicado.
 
@@ -151,7 +151,7 @@ Esse é o resultado de um dos minidumps recebidos.
 A partir daí podemos extrair algumas informações úteis, que eu sublinhei na saída do WinDbg. Na ordem de chegada:
 
     
-  1. **O código do Bug Check**. Esse é talvez o mais importante, pois pode resolver rapidamente o nosso problema. Procurando [na ajuda do WinDbg](http://www.caloni.com.br/blog/wp-admin/mk:@MSITStore:%programfiles%%5CDebugging%20Tools%20for%20Windows%5Cdebugger.chm::/hh/Debugger/t04_bugs_00_493ab992-8cee-4ee8-b39b-da780b6dcb7e.xml.htm) pelo código do erro (obs: execute o link pelo explorer) conseguimos ter algumas dicas de como evitar esse erro:
+  1. **O código do Bug Check**. Esse é talvez o mais importante, pois pode resolver rapidamente o nosso problema. Procurando na ajuda do WinDbg conseguimos ter algumas dicas de como evitar esse erro:
 "_The MAXIMUM_WAIT_OBJECTS_EXCEEDED bug check has a value of 0x0000000C. This indicates that the current thread exceeded the permitted number of wait objects._"
 Mais sobre isso pra depois.
 
@@ -165,11 +165,11 @@ Com isso em mãos, mesmo sem símbolos e nomes de funções no código, consegui
 
 #### A primeira noite com IDA
 
-No [sítio do IDA](http://www.datarescue.com/idabase/idadown.htm) podemos encontrar o download para uma versão gratuita do IDA, isso se usado com objetivos não-comerciais. Ou seja, para você que está lendo esse blogue por aprendizado, não terá nenhum problema você baixar essa versão e fazer alguns testes com seu _driver _favorito.
+No sítio do IDA podemos encontrar o download para uma versão gratuita do IDA, isso se usado com objetivos não-comerciais. Ou seja, para você que está lendo esse blogue por aprendizado, não terá nenhum problema você baixar essa versão e fazer alguns testes com seu _driver _favorito.
 
 O funcionamento básico do IDA é bem básico, mesmo. Simplesmente escolhemos um executável para ele destrinchar e nos mostrar um assembly bem amigável, com todos os nomes de funções que ele puder deduzir. Como não temos os símbolos do próprio executável, as funções internas ganham "apelidos", como sub_6669, loc_13F35 e por aí vai. Isso não importa, já que temos nomes amigáveis de APIs para pesquisar no código-fonte e tentar encontrar as funções originais em C.
 
-[![Driver na IDA](http://i.imgur.com/KExTNg9.png)](/images/driver-ida-01.png)
+!Driver na IDA
 
 Pois bem. Como manda o figurino, o primeiro ponto do assembly que temos que procurar é o ponto em que uma função interna é chamada logo após IopLoadDriver, **mydriver+0x4058**. Por coincidência (ou não, já que essa é a função do IopLoadDriver), se trata da função inicial do executável, ou seja, provavelmente a função **DriverEntry** no código-fonte (obs: estamos analisando um driver feito para plataforma NT).
 
@@ -212,7 +212,7 @@ Como podemos ver pela imagem acima, o ponto de retorno é logo após uma chamada
     .text:000119AD                 mov     ecx, [esp+20h]
     .text:000119B1                 push    0
 
-Voilà! O caminho não foi tão longo. Chegamos rapidamente no ponto onde é chamada a função [KeWaitForMultipleObject](http://www.osronline.com/DDKx/kmarch/k105_18oi.htm) que, de acordo com o WinDbg e com a OSR, pode gerar uma tela azul se esperarmos por mais de três objetos e não especificarmos um buffer no parâmetro **WaitBlockArray**. Agora podemos olhar no fonte e ver por quantos objetos esperamos e tirar nossa própria conclusão do que está acontecendo:
+Voilà! O caminho não foi tão longo. Chegamos rapidamente no ponto onde é chamada a função KeWaitForMultipleObject que, de acordo com o WinDbg e com a OSR, pode gerar uma tela azul se esperarmos por mais de três objetos e não especificarmos um buffer no parâmetro **WaitBlockArray**. Agora podemos olhar no fonte e ver por quantos objetos esperamos e tirar nossa própria conclusão do que está acontecendo:
 
 ```c
 //...

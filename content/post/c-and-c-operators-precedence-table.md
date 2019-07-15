@@ -3,14 +3,14 @@ date: "2007-07-30"
 title: C and C++ Operators Precedence Table
 categories: [ "code" ]
 ---
-> _Wanderley,__[your explanation](http://www.caloni.com.br/precedence-difference) about why a program compiles in C++ and not in C seems to me logic and correct, but gave me some doubts, because I always learned that the C and C++ operator precedence are the same thing.__I checked out the Appendix A in the "[C ++ - How To Program](http://compare.buscape.com.br/categoria?lkout=1&id=3482&kw=C+++How+to+Program&site_origem=1293522)" (sixth edition) and the book table is equal to the C operators precedence table and it is different from the C++ precedence table presented by you in the article.__I went to the internet and found out in two websites the table and both are equal to the book table. __[http://en.wikipedia.org/wiki/Operators_in_C_and_C](http://en.wikipedia.org/wiki/Operators_in_C_and_C)
-[http://www.cppreference.com/operator_precedence.html](http://www.cppreference.com/operator_precedence.html)__
+> _Wanderley,__your explanation](http://www.caloni.com.br/precedence-difference) about why a program compiles in C++ and not in C seems to me logic and correct, but gave me some doubts, because I always learned that the C and C++ operator precedence are the same thing.__I checked out the Appendix A in the "C ++ - How To Program and the book table is equal to the C operators precedence table and it is different from the C++ precedence table presented by you in the article.__I went to the internet and found out in two websites the table and both are equal to the book table. __[http://en.wikipedia.org/wiki/Operators_in_C_and_C
+http://www.cppreference.com/operator_precedence.html__
 > 
 > From where did you get the presented C++ table?__
 >
 > []s,
 > 
-> [_Márcio Andrey Oliveira_](http://marcioandreyoliveira.blogspot.com/)
+> _Márcio Andrey Oliveira_
 
 Dear Márcio,
 
@@ -32,7 +32,7 @@ and not as
 
 **( a ? b ) , ( c : d )**
 
-that would be the logic result if we followed the precedence table, since the comma operator has **lower** precedence than the ternary operator. But that doesn't make any sense in the language, and that's why the first form is understood by the compiler, **even contradicting the precedence table**. This is corroborated by the following [quote from Wikipedia](http://en.wikipedia.org/wiki/Operators_in_C_and_C):
+that would be the logic result if we followed the precedence table, since the comma operator has **lower** precedence than the ternary operator. But that doesn't make any sense in the language, and that's why the first form is understood by the compiler, **even contradicting the precedence table**. This is corroborated by the following quote from Wikipedia:
 
 > _A precedence table, while mostly adequate, cannot resolve a few details. In particular, note that the ternary operator allows any arbitrary expression as its middle operand, despite being listed as having higher precedence than the assignment and comma operators._
 

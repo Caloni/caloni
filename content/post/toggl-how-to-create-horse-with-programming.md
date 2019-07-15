@@ -5,9 +5,9 @@ categories: [ "blog" ]
 ---
 Cansado do transporte moderno? Um monte de feno rolando por aí? Parece que você poderia estar melhor no mercado de cavalos. Mas talvez não um construído com uma linguagem de programação. Por que não? Bom, você verá...
 
-![](https://i.imgur.com/aihgUB8.jpg)
+!
 
-Esse quadrinho foi desenvolvido pelo Toggl Goon Squad. O quadrinho original está [no blogue deles](https://blog.toggl.com/build-horse-programming/).
+Esse quadrinho foi desenvolvido pelo Toggl Goon Squad. O quadrinho original está no blogue deles.
 
 ### Bônus: textos dos quadrinhos
 

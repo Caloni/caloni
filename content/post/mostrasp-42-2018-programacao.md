@@ -8,7 +8,7 @@ A 42ª Mostra Internacional de Cinema em São Paulo, que acontece entre 18 e 31 
 
 # HOMENAGENS
 
-## Prêmio Humanidade: [Hirokazu Kore-eda](/post/?q=Hirokazu)
+## Prêmio Humanidade: Hirokazu Kore-eda
 
 ASSUNTO DE FAMÍLIA, de Hirokazu Kore-eda / Japão
 
@@ -36,7 +36,7 @@ FELIZ ANO VELHO, de Roberto Gervitz / Brasil (1988)
 
 JARDIM DE GUERRA, de Neville de Almeida / Brasil (1968)
 
-[PIXOTE: A LEI DO MAIS FRACO](/pixote-a-lei-do-mais-fraco), de Hector Babenco / Brasil (1981) 
+PIXOTE: A LEI DO MAIS FRACO 
 
 ## MASP
 
@@ -88,7 +88,7 @@ LA HORA DE LOS HORNOS, de Fernando E. Solanas, Octavio Getino / Argentina (1968)
 
 VIAJE A LOS PUEBLOS FUMIGADOS, de Fernando E. Solanas / Argentina 
 
-## [Amos Gitai](/post/?q=amos gitai) - Entre Israel e Palestina
+## Amos Gitai - Entre Israel e Palestina
 
 A CASA, de Amos Gitai / Israel (1980)
 
@@ -96,7 +96,7 @@ UM TREM EM JERUSALÉM, de Amos Gitai / Israel, França
 
 UMA CARTA PARA UM AMIGO EM GAZA, de Amos Gitai / Israel
 
-## [Lars Von Trier](/post/?q=lars von trier)
+## Lars Von Trier
 
 A CASA QUE JACK CONSTRUIU, de Lars Von Trier / Dinamarca, França, Alemanha, Suécia
 
@@ -132,7 +132,7 @@ VOX LIPOMA, de Jane Magnusson, Liv Strömquist / Suécia
 
 A FAVORITA, de Yorgos Lanthimos / Reino Unido, Irlanda, EUA
 
-ROMA, de [Alfonso Cuarón](/post/?q=Alfonso Cuarón) / EUA, México
+ROMA, de Alfonso Cuarón / EUA, México
 
 ## COMPETIÇÃO NOVOS DIRETORES
 
@@ -434,7 +434,7 @@ GRASS, de Hong Sangsoo / Coreia do Sul
 
 A GUERRA DE ANNA, de Aleksey Fedorchenko / Rússia
 
-GUERRA FRIA, de [Pawel Pawlikowski](/post/?q=Pawel Pawlikowski) / Polônia, França, Reino Unido
+GUERRA FRIA, de Pawel Pawlikowski / Polônia, França, Reino Unido
 
 GUTLAND, de Govinda Van Maele / Luxemburgo, Bélgica, Alemanha
 

@@ -13,7 +13,7 @@ Vocês não têm documentador no projeto? Ah, tá. Bem-vindo ao grupo.
 
 #### Doxygen
 
-O [Doxygen](http://www.stack.nl/~dimitri/doxygen/) é uma ferramenta que consegue extrair comentários do seu código-fonte, formatados ou não, e transformar em arquivos html, doc, chm, etc. O resultado é muito impressionante, pois ele é capaz de interpretar algumas linguagens (como C++) e mostrar a hierarquia de classes e funções.
+O Doxygen e mostrar a hierarquia de classes e funções.
 
 Ele não obriga que o desenvolvedor formate corretamente os comentários, mas ao fazer isso podemos descrever o funcionamento exato de funções de interface, como o que cada parâmetro significa, o valor de retorno, algumas observações quanto ao uso, etc.
 
@@ -21,7 +21,7 @@ Aprender a usar Doxygen é muito fácil. Ele possui uma ajuda com vários exempl
 
 #### Primeiras regras
 
-Por ser uma ferramenta bem flexível, são permitidos inúmeros formatos para se auto-documentar o código. Vou descrever como eu faço, mas pode ser que outro formato lhe agrade mais. Para conhecê-los, dê uma olhada no [manual](http://www.stack.nl/~dimitri/doxygen/docblocks.html).
+Por ser uma ferramenta bem flexível, são permitidos inúmeros formatos para se auto-documentar o código. Vou descrever como eu faço, mas pode ser que outro formato lhe agrade mais. Para conhecê-los, dê uma olhada no manual.
 
 A primeira coisa a saber sobre comentários de documentação é que eles devem vir sempre ANTES do elemento que estamos comentando. Por exemplo, uma classe:
 
@@ -91,5 +91,5 @@ Existem diversos outros tipos de marcadores e com certeza você encontrará muit
 #### Mais artigos interessantes
 
 	
-  * Usando o Doxygen ([Parte 1](http://dqsoft.blogspot.com/2008/07/usando-o-doxygen-parte-1.html) e [Parte 2](http://dqsoft.blogspot.com/2008/07/usando-o-doxygen-parte-2.html)) - Daniel Quadros
+  * Usando o Doxygen (Parte 1](http://dqsoft.blogspot.com/2008/07/usando-o-doxygen-parte-1.html) e [Parte 2 - Daniel Quadros
 

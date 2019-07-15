@@ -7,31 +7,31 @@ desc: "Apostas Oscar 2018 (com resultados)."
 Resultado das apostas. Inspirado pelo meu amigo, vamos lá com alguns chutes de quem não sabe nada sobre Oscar (apenas que é um concurso de beleza capitalista):
 
 #### Writing Original
- - **Minha aposta:** [Get Out/Corra!](/corra) (Jordan Peele).
+ - **Minha aposta:** Get Out/Corra!.
  - **Explicação:** A forma de dar prêmio por cota racial sem prejudicar melhor filme, etc (além de ser um ótimo roteiro).
  - **Quem ganhou: Corra! (That's a Bingo!)**
  - **Considerações finais:** Ponto para a representatividade e a inventividade de Peele, reciclando o gênero.
 
 #### Writing Adapted
- - **Minha aposta:** [Logan](/logan) (Scott Frank).
+ - **Minha aposta:** Logan.
  - **Explicação:** Porque eu quero (assim como Corra!).
  - **Quem ganhou: Call Me by Your Name**
  - **Considerações finais:** OK, talvez a representatividade estivesse alta demais...
 
 #### Visual Effects
- - **Minha aposta:** [Guardians of the Galaxy Vol. 2](/guardioes-da-galaxia-vol-2).
+ - **Minha aposta:** Guardians of the Galaxy Vol. 2.
  - **Explicação:** Rejuvenescimento de Kurt Russel e o Planeta Ego).
  - **Quem ganhou: Blade Runner 2049**
  - **Considerações finais:** Não vi.
 
 #### Sound Mixing
- - **Minha aposta:** [Star Wars: The Last Jedi](/star-wars-os-ultimos-jedi).
+ - **Minha aposta:** Star Wars: The Last Jedi.
  - **Explicação:** Poderia ser Dunkirk, mas acho que vão equilibrar.
  - **Quem ganhou: Dunkirk**
  - **Considerações finais:** E não é que foi pra Dunkirk, mesmo...
 
 #### Sound Editing
- - **Minha aposta:** [Dunkirk](/dunkirk).
+ - **Minha aposta:** Dunkirk.
  - **Explicação:** Fala sério, né. Dá pra ouvir com perfeição a capa da bala cair em um chão molhado de dentro de um bunker abandonado.
  - **Quem ganhou: Dunkirk (That's a Bingo!)**
  - **Considerações finais:** É, não tinha pra ninguém; devia ter botado mais fé e chutado mixagem.
@@ -43,13 +43,13 @@ Resultado das apostas. Inspirado pelo meu amigo, vamos lá com alguns chutes de 
  - **Considerações finais:** Até aqui a representatividade tá em alta?
 
 #### Production Design
- - **Minha aposta:** [Darkest Hour/O Destino de uma Nação](/o-destino-de-uma-nacao).
+ - **Minha aposta:** Darkest Hour/O Destino de uma Nação.
  - **Explicação:** Nenhuma em especial.
  - **Quem ganhou: Shape of Water**
  - **Considerações finais:** É...
 
 #### Music Song
- - **Minha aposta:** "This is Me" ([The Greatest Showman/O Rei do Show](/o-rei-do-show)).
+ - **Minha aposta:** "This is Me" (The Greatest Showman/O Rei do Show.
  - **Explicação:** está brincando, é um hit (assim como toda a trilha).
  - **Quem ganhou: "Remember Me" from Coco**
  - **Considerações finais:** É só ser mexicano que ganha até do Wolverine.
@@ -67,7 +67,7 @@ Resultado das apostas. Inspirado pelo meu amigo, vamos lá com alguns chutes de 
  - **Considerações finais:** Onde ele não devia ganhar... se bem que, será?
 
 #### Foreign Language
- - **Minha aposta:** [On Body and Soul/Corpo e Alma](/corpo-e-alma) (Ildikó Enyedi).
+ - **Minha aposta:** On Body and Soul/Corpo e Alma.
  - **Explicação:** o único que eu vi, está no mesmo ângulo do Oscar SJW (mas os velhos ainda podem vetar).
  - **Quem ganhou: A Fantastic Woman**
  - **Considerações finais:** Mexicanos e falantes em espanhol, vocês estão em alta.
@@ -97,13 +97,13 @@ Resultado das apostas. Inspirado pelo meu amigo, vamos lá com alguns chutes de 
  - **Considerações finais:** Difícil prever prêmios técnicos quando todos os filmes são perfeitos...
 
 #### Animated
- - **Minha aposta:** [Coco/Viva: A Vida é uma Festa](/viva-a-vida-e-uma-festa) (Lee Unkrich).
+ - **Minha aposta:** Coco/Viva: A Vida é uma Festa.
  - **Explicação:** lágrimas.
  - **Quem ganhou: Coco (That's a Bingo!)**
  - **Considerações finais:** Disney/Pixar, você ganha até quando não deveria; esse ano é seu, mesmo.
 
 #### Actress Supporting
- - **Minha aposta:** Allison Janney ([I, Tonya](/eu-tonya)).
+ - **Minha aposta:** Allison Janney (I, Tonya.
  - **Explicação:** papel fácil de ser adorado (vilã engraçada).
  - **Quem ganhou: Allison Janney (That's a Bingo!)**
  - **Considerações finais:** Fácil, fácil...

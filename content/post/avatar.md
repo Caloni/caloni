@@ -13,7 +13,7 @@ Esses sonhos são traduzidos nesta mega-produção de James Cameron em uma hist�
 
 Nessa história temos Jake Sully (Sam Worthington) como sua alma e os Na'vi sua alma mater. Ex-militar que perdeu o movimento das pernas, ele toma o lugar de seu falecido irmão para ter a oportunidade de se sentir vivo novamente, ou mais ainda: colocá-lo sob o comando remoto no corpo de um gigante nativo de um outro planeta que está sendo explorado por uma mega-corporação paramilitar.
 
-Há dois lados disputando a forma de abordar este Novo Mundo chamado Pandora. De um lado temos a ciência, compreensiva, mas que ao mesmo tempo mantém um certo grau de arrogância. A sua cientista-chefe, interpretada de forma saudosa por Sigourney Weaver (ela e Cameron trabalharam em [Aliens O Resgate](/aliens-o-resgate)), mantém o ceticismo e sarcasmo em alta ao lado do ex-milico Jake e seu relaxo em estudar os conhecimentos até então adquiridos deste povo que vive intensamente com a natureza de seu planeta.
+Há dois lados disputando a forma de abordar este Novo Mundo chamado Pandora. De um lado temos a ciência, compreensiva, mas que ao mesmo tempo mantém um certo grau de arrogância. A sua cientista-chefe, interpretada de forma saudosa por Sigourney Weaver (ela e Cameron trabalharam em Aliens O Resgate, mantém o ceticismo e sarcasmo em alta ao lado do ex-milico Jake e seu relaxo em estudar os conhecimentos até então adquiridos deste povo que vive intensamente com a natureza de seu planeta.
 
 Do outro lado temos o capitalismo predador irracional, em um mundo onde provavelmente sequer existe mais o jogo de fantoches representado por governos e onde as corporações vão direto ao ponto. Disposta a destruir tudo e todos do planeta "descoberto" para obter seu minério valioso, esse lado mantém a divertida mas exagerada caricatura de Stephen Lang como o Coronel Miles Quaritch, que parece ter surgido direto de um episódio de G. I. Joe. E ele vem com sangue nos olhos.
 
@@ -21,7 +21,7 @@ O que importa é que nos primeiros segundos dentro deste universo completamente 
 
 O que o torna poderoso pode ser os gigabytes de uma computação gráfica absurdamente perfeccionista, que entrega cada quadro como uma pequena obra de arte, embalada sob a densa e correta trilha sonora de James Horner, mas nada disso importaria se não fosse a coesão narrativa e o controle absoluto de seu diretor, que quando decide impressionar uma plateia, rapaz, ele impressiona.
 
-James Cameron se apaixonou em suas explorações no oceano e nutriu o sonho de Avatar em seu coração. Para conseguir o dinheiro ele inventou esse romance clichê em outra mega-produção chamado [Titanic](/titanic), ganhou bilhões (além de uma dúzia de Oscars) e usou-os "para o bem". Ele explora Pandora aqui com a melhor das intenções, e o subtexto da invasão do Iraque está sonora e clara nas falas dos personagens ("vamos combater terror com terror").
+James Cameron se apaixonou em suas explorações no oceano e nutriu o sonho de Avatar em seu coração. Para conseguir o dinheiro ele inventou esse romance clichê em outra mega-produção chamado Titanic.
 
 O visual do filme é fantástico como uma animação. É como se os Estúdios Ghibli, de Hayao Miyasaki, com suas mensagens de ecologia, decididem dar uma guinada de 180 graus ao Ocidente e realizar tudo à moda do Oeste. Não se pode criticar qual lado inicia um movimento que tem valores tão nobres.
 

@@ -3,7 +3,7 @@ date: "2008-03-29"
 title: 'EPA-CCPP 4: nossa comunidade ganhando forma'
 categories: [ "blog" ]
 ---
-Nesse último sábado ocorreu mais uma vez, como [todos sabem](http://www.caloni.com.br/quarto-encontro-c), o [Encontro de Programadores e Aficionados por C++](http://picasaweb.google.com/ccppmeetings/4oEncontroDeProgramadoresEAficcionadosDoGrupoCCBrasilSampa), (in)formalmente apelidado de EPA-CCPP, de acordo com [algumas conversas](http://groups.google.com/group/ccppbrasil/browse_thread/thread/10b370b5b2bd85d5/eabf850054cfc5c9?lnk=gst&q=EPA#eabf850054cfc5c9) da nossa lista de discussão.
+Nesse último sábado ocorreu mais uma vez, como todos sabem](http://www.caloni.com.br/quarto-encontro-c), o Encontro de Programadores e Aficionados por C++formalmente apelidado de EPA-CCPP, de acordo com [algumas conversas da nossa lista de discussão.
 
 Mais uma vez, temos que dar uma salva de palmas e agradecer de coração a todos que colaboraram direta ou indiretamente para a realização do evento, que teve uma qualidade ainda maior que o último encontro.
 
@@ -43,7 +43,7 @@ Ao final pudemos ver que foi um tema que gerou interesse especial do grupo, pois
 
 No final, tivemos uma série de sorteios de livros-referência em C++, convites para o seminário C++ e algumas licenças de software. Por isso é importante lembrar aos que saíram antes que poderiam ter ganhado mais conhecimento, para que da próxima vez tentem apertar apenas mais um pouco seus compromissos.
 
-Além das palestras, tivemos o relato de [Fábio Galupo](http://fabiogaluppo.spaces.live.com) sobre o que foi o [SD West 2008](http://www.sdexpo.com/), o evento que reuniu alguns gurus do C++ para discutirem, entre outras coisas, o futuro da linguagem. Entre outras tantas coisas interessantes que ele nos trouxe, achei duas particularmente interessantes.
+Além das palestras, tivemos o relato de Fábio Galupo](http://fabiogaluppo.spaces.live.com) sobre o que foi o [SD West 2008, o evento que reuniu alguns gurus do C++ para discutirem, entre outras coisas, o futuro da linguagem. Entre outras tantas coisas interessantes que ele nos trouxe, achei duas particularmente interessantes.
 
 A primeira diz respeito à importância do bom uso de interfaces entre os programadores C++. Esse foi um tema levantado por Bjarne Stroustrup em uma de suas palestras, e é de fato algo preocupante em nossa linguagem, que não possui ainda uma organização tão produtiva quanto outros grupos de desenvolvedores.
 

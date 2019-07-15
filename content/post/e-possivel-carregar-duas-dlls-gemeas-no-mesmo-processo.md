@@ -3,7 +3,7 @@ date: "2008-06-21"
 title: É possível carregar duas DLLs gêmeas no mesmo processo?
 categories: [ "code" ]
 ---
-Um [dos últimos artigos](http://www.dumpanalysis.org/blog/index.php/2008/06/19/crash-dump-analysis-patterns-part-64/) de Dmitry Vostokov, e tenho que falar assim porque o cara escreve **muito** em pouco tempo, fala sobre os perigos de termos uma mesma DLL carregada duas vezes em um único processo, muitas vezes em versões diferentes. Para os observadores atentos como Dmitry esse é um perigo que muitas vezes temos que estar preparados. Para os espertinhos de plantão, a resposta padrão seria: "não vou me preocupar, porque o contador de instâncias cuida disso".
+Um dos últimos artigos de Dmitry Vostokov, e tenho que falar assim porque o cara escreve **muito** em pouco tempo, fala sobre os perigos de termos uma mesma DLL carregada duas vezes em um único processo, muitas vezes em versões diferentes. Para os observadores atentos como Dmitry esse é um perigo que muitas vezes temos que estar preparados. Para os espertinhos de plantão, a resposta padrão seria: "não vou me preocupar, porque o contador de instâncias cuida disso".
 
 Será mesmo tão simples?
 
@@ -76,7 +76,7 @@ Nesse caso, ambos os retornos serão nulos, que é o natural e esperado quando a
 
 #### DLL existe apenas no caminho do aplicativo
 
-No segundo caso, a DLL é carregada com sucesso se usado o caminho relativo, pois o caminho atual faz parte da [lista de caminhos que o sistema percorre](http://msdn.microsoft.com/en-us/library/ms682586.aspx) para encontrá-la. A primeira chamada deve falhar.
+No segundo caso, a DLL é carregada com sucesso se usado o caminho relativo, pois o caminho atual faz parte da lista de caminhos que o sistema percorre para encontrá-la. A primeira chamada deve falhar.
 
     
     K:\Docs\Projects>cl /LD dll.c
@@ -123,7 +123,7 @@ Apesar do mundo parecer injusto, temos uma segunda regra que podemos usar para a
 
 #### Regra número 2: você pode contar para o _loader _o que pretende fazer
 
-Vamos supor que estamos no meio de uma mudança bem radical no produto e queremos ter certeza que qualquer chamada à nossa DLL irá invocar unicamente a que estiver dentro do caminho do produto (caminho atual). Para esse caso o Windows permite uma saída muito interessante, que é o uso de um arquivo com o nome do aplicativo mais o sufixo ".local". Se esse arquivo existir, [de acordo com o MSDN](http://msdn.microsoft.com/en-us/library/ms682600(VS.85).aspx), então qualquer chamada à DLL irá ter sempre a prioridade do caminho atual.
+Vamos supor que estamos no meio de uma mudança bem radical no produto e queremos ter certeza que qualquer chamada à nossa DLL irá invocar unicamente a que estiver dentro do caminho do produto (caminho atual). Para esse caso o Windows permite uma saída muito interessante, que é o uso de um arquivo com o nome do aplicativo mais o sufixo ".local". Se esse arquivo existir, de acordo com o MSDN, então qualquer chamada à DLL irá ter sempre a prioridade do caminho atual.
 
     
     K:\Docs\Projects>copy con app.exe.local

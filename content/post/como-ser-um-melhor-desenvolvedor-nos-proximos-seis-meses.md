@@ -3,7 +3,7 @@ date: "2007-07-18"
 title: Como ser um melhor desenvolvedor nos próximos seis meses
 categories: [ "blog" ]
 ---
-Graças ao meu amigo Thiago estive acompanhando [uma](http://codebetter.com/blogs/scott.bellware/archive/2007/07/14/165610.aspx) [série](http://codebetter.com/blogs/jeffrey.palermo/archive/2007/07/09/6-months-to-become-a-better-developer.aspx) [de](http://graysmatter.codivation.com/HowIAmBecomingABetterDeveloperPart1OfInfinity.aspx) [_posts_](http://weblogs.asp.net/bsimser/archive/2007/07/05/being-a-better-developer-in-6-months.aspx) de gente renomada sobre o tema deste artigo. Eles fazem parte de uma nova modalidade entre os blogueiros (pelo menos para mim) chamada de _tagging._ Funciona assim: você escreve sobre algo (por exemplo, "como ser um melhor cozinheiro em 6 meses") e manda uma _tag_ para que outras pessoas também escrevam sobre o mesmo assunto, o que pode ser feito referenciando o [sítio](http://www.sualingua.com.br/06/06_site_saite_sitio.htm) dessas pessoas.
+Graças ao meu amigo Thiago estive acompanhando uma](http://codebetter.com/blogs/scott.bellware/archive/2007/07/14/165610.aspx) série](http://codebetter.com/blogs/jeffrey.palermo/archive/2007/07/09/6-months-to-become-a-better-developer.aspx) de [_posts_ e manda uma _tag_ para que outras pessoas também escrevam sobre o mesmo assunto, o que pode ser feito referenciando o [sítio dessas pessoas.
 
 Ainda não tive tempo de ler todos os artigos (nem vou ter, pela velocidade com que isso se espalha), mas acho que dá tempo de escrever um pouco sobre isso.
 
@@ -27,4 +27,4 @@ Minha lista não é muito diferente da dos outros. Basicamente se resume em: ler
 **E meus convocados são...
 **
 
-Agora que já passei pelo sofrimento de taguear nada como escolher minhas vítimas. Não conheço pessoalmente muitos blogueiros, mas pelo menos essa minha lista é fiel e sincera. [Rodrigo Strauss](http://1bit.com.br/content.1bit/weblog/um_melhor_programador), [Fernando Roberto ](http://www.driverentry.com.br/blog/2007/07/exallocatepool-with-tagging.html)e [Thiago Oliveira](http://codebehind.wordpress.com/2007/07/22/como-ser-um-melhor-programador-nos-proximos-6-meses/): o que vocês farão nos próximos seis meses para se tornarem melhores desenvolvedores (ainda)?
+Agora que já passei pelo sofrimento de taguear nada como escolher minhas vítimas. Não conheço pessoalmente muitos blogueiros, mas pelo menos essa minha lista é fiel e sincera. Rodrigo Strauss](http://1bit.com.br/content.1bit/weblog/um_melhor_programador), Fernando Roberto e [Thiago Oliveira?

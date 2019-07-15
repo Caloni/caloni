@@ -3,9 +3,9 @@ date: "2012-05-27"
 title: Problemas comuns no WinDbg e suas soluções
 categories: [ "blog" ]
 ---
-Depois de uma agradável manhã e tarde acompanhando o [curso de desenvolvimento de drivers do meu amigo Ferdinando](http://driverentry.com.br/blog/?page_id=16) voltei para a casa para brincar um pouco mais com o mundo kernel e voltar a encontrar problemas com o WinDbg & Cia que há mais ou menos 1 ano atrás não tinha.
+Depois de uma agradável manhã e tarde acompanhando o curso de desenvolvimento de drivers do meu amigo Ferdinando voltei para a casa para brincar um pouco mais com o mundo kernel e voltar a encontrar problemas com o WinDbg & Cia que há mais ou menos 1 ano atrás não tinha.
 
-Pesquisando por um problema específico envolvendo PDBs reencontrei o [blogue do Ken Johnson](http://www.nynaeve.net/), MVP Microsoft e analista por profissão e diversão, é conhecido por suas excelentes contribuições no mundo da depuração de sistema (notadamente WinDbg). Existe um post específico que ele escreveu para economizar tempo com problemas que ocorrem de vez em quando em uma sessão ou outra de depuração, mas nunca paramos tempo o suficiente para resolver.
+Pesquisando por um problema específico envolvendo PDBs reencontrei o blogue do Ken Johnson. Existe um post específico que ele escreveu para economizar tempo com problemas que ocorrem de vez em quando em uma sessão ou outra de depuração, mas nunca paramos tempo o suficiente para resolver.
 
 Além de outros, ele lista alguns que particularmente já aconteceram comigo ou com colegas de depuração:
 
@@ -27,4 +27,4 @@ E, como brinde, um grande aliado da produtividade: **como evitar que o WinDbg bl
 
 .reload -u modulo
 
-Fonte: Blog do [Nynaeve](http://www.nynaeve.net/?p=164).
+Fonte: Blog do Nynaeve.

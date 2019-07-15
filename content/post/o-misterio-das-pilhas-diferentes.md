@@ -3,7 +3,7 @@ date: "2008-03-12"
 title: O mistério das pilhas diferentes
 categories: [ "code" ]
 ---
-Mal comecei a leitura do meu mais novo ["mother-fucker" livro](http://advancedwindowsdebugging.com/) e já encontrei a solução para nunca mais viver o terror que vivi quando tive que testar minha engenharia reversa do artigo sobre o Houaiss. Se trata de uma simples questão que não sei por que não sigo todas as vezes religiosamente: **configure seus símbolos corretamente**.
+Mal comecei a leitura do meu mais novo "mother-fucker" livro e já encontrei a solução para nunca mais viver o terror que vivi quando tive que testar minha engenharia reversa do artigo sobre o Houaiss. Se trata de uma simples questão que não sei por que não sigo todas as vezes religiosamente: **configure seus símbolos corretamente**.
 
 Esse é o primeiro ponto abordado pelo autor, por se tratar de algo que, caso não seja bem feito, pode dar dores de cabeça piores do que o próprio problema que originou a sessão de _debugging_. Por isso eu repito:
 
@@ -13,7 +13,7 @@ Vamos acompanhar alguns momentos de tortura alheia?
 
 #### Era uma vez
 
-Tudo aconteceu quando inesperadamente perdi metade do [artigo que estava escrevendo](http://www.caloni.com.br/conversor-de-houaiss-para-babylon-parte-1) para explicar o processo de engenharia reversa no dicionário Houaiss. Tive que refazer todos os meus testes que havia feito no _laptop_. Como a preguiça é a mãe de todas as descobertas, não estava com ele ligado no momento do "reteste" e por isso acabei usando a máquina _desktop_, mesmo.
+Tudo aconteceu quando inesperadamente perdi metade do artigo que estava escrevendo para explicar o processo de engenharia reversa no dicionário Houaiss. Tive que refazer todos os meus testes que havia feito no _laptop_. Como a preguiça é a mãe de todas as descobertas, não estava com ele ligado no momento do "reteste" e por isso acabei usando a máquina _desktop_, mesmo.
 
 A análise inicial consistia simplesmente em verificar as entradas e saídas da função **ReadFile**, na esperança de entender a formatação interna do dicionário. Repetindo a seqüência:
 
@@ -59,7 +59,7 @@ Se notarmos no artigo anterior, veremos que o conteúdo do arquivo lido **não �
 
 A leitura foi feita e o texto direto do arquivo veio em claro? O que está acontecendo? Quando abro pelo comando type ele aparece todo obscuro...
 
-[![Saída dos arquivos do dicionário](http://i.imgur.com/u3IQ3aD.gif)](/images/cmd.gif)
+!Saída dos arquivos do dicionário
 
 Sim, alguma coisa não-trivial acaba de acontecer. Testei esse procedimento no _laptop_ e no _desktop_, sendo que esse problema aconteceu apenas no _desktop_. Dessa vez a curiosidade falou mais alto que a preguiça, e tive que abrir as duas máquinas e comparar os resultados.
 
@@ -158,7 +158,7 @@ Tudo igual.
 
 Decidi então usar aquela lógica cética que é desenvolvida por quem costuma depurar coisas sinistras e esotéricas por anos e anos e não duvida de mais nada, mas também acredita piamente que **tudo tem um motivo**. Se não está aparente, basta descobri-lo. E foi o que eu fiz. Gerei dois _dumps _distintos, um no _laptop_ e outro no _desktop_. Ambos estavam com os ponteiros de instrução apontados exatamente para a entrada da função ReadFile, início de todo esse problema. Copiei o _dump_ do _desktop_ para o _laptop_ e vice-versa.
 
-[![WinDbg Nerd](http://i.imgur.com/qPcDz79.gif)](/images/windbg-nerd.gif)
+!WinDbg Nerd
 
 Abri o _dump_ do _desktop_ no _laptop_: tudo funcionando. Abri o _dump_ do _laptop _no _desktop_: mesmo erro.
 

@@ -3,7 +3,7 @@ date: "2009-12-30"
 title: Devaneio nerd rápido sobre profecias
 categories: [ "blog" ]
 ---
-![crystallball.jpg](http://i.imgur.com/fEtiA9w.jpg)Para quem já analisou os dados de uma tela azul sabe que, quando o Windows acha um culpado (vulgo driver) a data de sua compilação é exibida em um formato conhecido como **DateStamp** ou **TimeStamp**. Nesse formato o que temos é um número hexadecimal que segue o [formato de tempo do Unix](http://en.wikipedia.org/wiki/Unix_timestamp), que no caso é o número de segundos desde o dia primeiro de Janeiro de 1970. Isso, por curiosidade, nos dá uma margem de 140 anos antes dos número se repetirem se usarmos 32 bits nessa contagem.
+!crystallball.jpg](http://i.imgur.com/fEtiA9w.jpg)Para quem já analisou os dados de uma tela azul sabe que, quando o Windows acha um culpado (vulgo driver) a data de sua compilação é exibida em um formato conhecido como **DateStamp** ou **TimeStamp**. Nesse formato o que temos é um número hexadecimal que segue o [formato de tempo do Unix, que no caso é o número de segundos desde o dia primeiro de Janeiro de 1970. Isso, por curiosidade, nos dá uma margem de 140 anos antes dos número se repetirem se usarmos 32 bits nessa contagem.
 
 O comando .formats do WinDbg nos consegue trazer desse número a hora exata em que determinado componente foi compilado. Se, por exemplo, um driver faltoso apresentou um DateStamp igual a 49EE9758, podemos concluir que ele foi compilado no dia 22 de abril de 2009, uma linda quarta-feira.
 
@@ -35,6 +35,6 @@ Isso aos poucos - entre uma tela azul e outra - me deixou curioso a respeito de 
       Float:   low 8.58993e+009 high 0
       Double:  6.63124e-315
 
-Pois é, meus amigos. O DateStamp para a virada do contador Unix se fará numa manhã de sexta. Para ser preciso, uma [sexta-feira 13](http://pt.wikipedia.org/wiki/Sexta_Feira_13).
+Pois é, meus amigos. O DateStamp para a virada do contador Unix se fará numa manhã de sexta. Para ser preciso, uma sexta-feira 13.
 
-Curioso, não? Mais curioso que isso, só sabendo que o ano que isso vai ocorrer é o igualmente fatídico [2012](http://www.youtube.com/watch?v=Hz86TsGx3fc). Felizmente antes de dezembro.
+Curioso, não? Mais curioso que isso, só sabendo que o ano que isso vai ocorrer é o igualmente fatídico 2012. Felizmente antes de dezembro.

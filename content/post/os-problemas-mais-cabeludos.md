@@ -3,11 +3,11 @@ date: "2009-03-05"
 title: Os problemas mais cabeludos
 categories: [ "code" ]
 ---
-![Detetive do Computador](http://i.imgur.com/kxC1lN8.png)Quase todos os problemas do Universo são resolvidos depois de um belo dia de depuração, código comentado/descomentado/recomentado e umas muitas e boas doses de café. Alguns outros problemas mais cabeludos precisam de uma boa noitada na frente do computador, e mais café. E, finalmente, existem aqueles que **nem tomando o estoque inteiro de café a coisa anda**.
+!Detetive do ComputadorQuase todos os problemas do Universo são resolvidos depois de um belo dia de depuração, código comentado/descomentado/recomentado e umas muitas e boas doses de café. Alguns outros problemas mais cabeludos precisam de uma boa noitada na frente do computador, e mais café. E, finalmente, existem aqueles que **nem tomando o estoque inteiro de café a coisa anda**.
 
 Um exemplo: um _hook _global do Windows que quando ativado em determinados eventos envia mensagens para uma única janela que cataloga informações sobre diversas janelas e processos no sistema. Esse procedimento é uma subfunção do programa principal, que já possui seus próprios problemas e idiossincrasias. Em momentos aparentemente aleatórios algumas funcionalidades não parecem estar de acordo com o que se espera.
 
-Para esse tipo de situação que envolve 1. o sistema como um todo, 2. processos de terceiros e 3. comportamento obscuro por parte do resto do código, vale a pena seguir um **checklist mais rigoroso**, colocar seu [bonezinho de CSI](http://www.caloni.com.br/csi-crashed-server-investigation) e partir para desmembrar o funcionamento do código problemático:
+Para esse tipo de situação que envolve 1. o sistema como um todo, 2. processos de terceiros e 3. comportamento obscuro por parte do resto do código, vale a pena seguir um **checklist mais rigoroso**, colocar seu bonezinho de CSI e partir para desmembrar o funcionamento do código problemático:
 
 	
   1. Como o programa deveria funcionar?
@@ -27,7 +27,7 @@ Cada uma dessas perguntas deve ser respondida com a maior sinceridade e discipli
 
 Esse deve ser o primeiro e mais importante indício do que pode estar acontecendo. Sem entender o funcionamento do programa, dificilmente conseguiremos passar para os passos seguintes. Na maioria das vezes, sem saber onde a coisa começa e termina, o problema vai ficar rindo da nossa cara até entendermos de fato que aquele if não merece estar naquela linha.
 
-Para facilitar esse entendimento, nada como elaborar uma pequena explicação para si mesmo no estilo [How Stuff Works](http://www.hsw.uol.com.br/). Não precisa exagerar e fazer uma tese a respeito e criar vídeos explicativos. Só precisa descrever o fluxo com os **detalhes aparentemente importantes para a resolução do problema**.
+Para facilitar esse entendimento, nada como elaborar uma pequena explicação para si mesmo no estilo How Stuff Works. Não precisa exagerar e fazer uma tese a respeito e criar vídeos explicativos. Só precisa descrever o fluxo com os **detalhes aparentemente importantes para a resolução do problema**.
 
 Continuando nosso exemplo:
 
@@ -64,7 +64,7 @@ Exemplos de respostas possíveis: a tabela estatística perde a lógica em deter
 
 Essa pergunta deve ser respondida com uma análise das respostas das duas primeiras perguntas. Batendo os sintomas do problema com o seu funcionamento macro, uma ou mais cabeças aos poucos irão elaborando teorias a respeito de **onde pode estar falhando**.
 
-Ex: talvez por algum motivo a DLL esteja sendo descarregada (que lugares podem ser estes?), alguém está desinstalando o hook (quais as partes do código que fazem isso?), alguma ferramenta de análise está atrapalhando nossos resultados (o que acontece se rodarmos sem o [DebugView](http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx)?).
+Ex: talvez por algum motivo a DLL esteja sendo descarregada (que lugares podem ser estes?), alguém está desinstalando o hook (quais as partes do código que fazem isso?), alguma ferramenta de análise está atrapalhando nossos resultados (o que acontece se rodarmos sem o DebugView.
 
 Ao mesmo tempo que os sintomas do problema acusam que algo está errado, existem os sintomas de que alguma coisa, afinal de contas, está funcionando nessa porcaria de código. Através dos sintomas positivos é possível chegar a algumas conclusões sobre **o que está funcionando bem**.
 

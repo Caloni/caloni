@@ -6,7 +6,7 @@ categories: [ "blog" ]
 ---
 Esta palestra tem como objetivo ensinar o que são moedas digitais, como o bitcoin, e cada passo necessário o algoritmo e implementação para torná-la real. Será utilizado C++ como a linguagem-base e o foco está mais na implementação do que na matemática ou no algoritmo. Assim como foi criado o bitcoin, o importante a aprender é como unir diferentes tipos de conhecimento e tecnologia em torno de um objetivo único, simples e prático.
 
-![](http://i.imgur.com/TAunJPB.png)
+!
 
 A partir da criação da moeda surge a necessidade de facilitar o seu uso, um problema recorrente em todas as mais de 700 moedas digitais existentes no mercado e no laboratório, incluindo o bitcoin. Após a palestra teremos uma discussão de como levar a tecnologia ao usuário comum.
 
@@ -33,7 +33,7 @@ Up and running!
 
 OK, tio rodando e ativo. Podemos navegar já pelos seus contêineres usando o InteliHubExplorer:
 
-![](http://i.imgur.com/YJZ7wxC.png)
+!
 
 Por convenção os contêineres seguem um padrão de nomes que se assemelha a uma hierarquia de diretórios, e os nomes que começam com underline são internos/reservados. O contêiner __meta__/sessions, por exemplo, contém uma lista simples das conexões ativas deste nó.
 
@@ -67,7 +67,7 @@ try
     {
         tio::containers::list<string> transactionsMonitor;
         transactionsMonitor.open(&conn, "transactions");
-        transactionsMonitor.subscribe([](auto container, auto containerEvt, auto key, auto value)
+        transactionsMonitor.subscribe(
                 {
                 int eventCode = stoi(containerEvt);
 
@@ -125,16 +125,16 @@ catch (...)
 
 Após executar esse código passando o argumento "--build" e atualizarmos o IntelihubExplorer poderemos ver o novo contêiner e seu conteúdo:
 
-![](http://i.imgur.com/3Mhj2lE.png)
+!
 
 É possível ler o código rodando o mesmo programa sem passar o argumento "--build":
 
-![](http://i.imgur.com/CxdmZhy.png)
+!
 
 Agora imagine que exista um cliente da tiocoin que está monitorando as transações deste servidor para verificar a partir de qual momento uma transação foi aceita (supondo que este contêiner possui as transações aceitas):
 
-![](http://i.imgur.com/kLrPawv.png)
+!
 
 Voilà! Agora temos um sistema inicial com um contêiner que irá manter os IDs de supostas transações de nossa moeda digital. Está compilando e está rodando, e em cima disso poderemos ir adicionando as funcionalidades.
 
-Atenção: você poderá encontrar o repositório do tiocoin [aqui](https://github.com/bitforgebr/tiocoin).
+Atenção: você poderá encontrar o repositório do tiocoin aqui.

@@ -31,7 +31,7 @@ Esse é um detalhe que pode passar despercebido da maioria da população Borlan
 	
   8. Em Remote Host especifique o nome ou o IP da máquina remota.
 
-[![Builder Remote Debugger](http://i.imgur.com/L5zVWzq.png)](/images/builder-remote-debug.png)
+!Builder Remote Debugger
 	
   9. Execute o aplicativo através do Builder (certifique-se que o cliente do Builder está rodando na máquina remota).
 
@@ -40,6 +40,6 @@ Esse é um detalhe que pode passar despercebido da maioria da população Borlan
 
 #### Observação econômica
 
-Infelizmente essa opção não está disponível nas versões _Standard_ do produto, assim como não está o _debugging_ remoto no Visual Studio Express. Porém, a nova versão do Builder, renomeada para [Borland Turbo C++](http://www.borland.com/br/products/turbo/index.html), é gratuita a possui essa feature embutida. O único porém é que a instalação não é automatizada, e os arquivos devem ser copiados "na mão", seguindo um dos tópicos da ajuda. Melhor que nada.
+Infelizmente essa opção não está disponível nas versões _Standard_ do produto, assim como não está o _debugging_ remoto no Visual Studio Express. Porém, a nova versão do Builder, renomeada para Borland Turbo C++, é gratuita a possui essa feature embutida. O único porém é que a instalação não é automatizada, e os arquivos devem ser copiados "na mão", seguindo um dos tópicos da ajuda. Melhor que nada.
 
 Para os que utilizam o Visual Studio Express, realmente ainda não achei solução a não ser usar o bom, velho e fiel companheiro WinDbg. Não saia de casa sem ele.

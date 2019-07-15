@@ -3,7 +3,7 @@ date: "2008-01-30"
 title: Compartilhando variáveis com o mundo
 categories: [ "code" ]
 ---
-Desde que comecei a programar, para compartilhar variáveis entre processo é meio que consenso usar-se a milenar técnica do **crie uma seção compartilhada no seu executável/DLL**. Isso funciona desde a época em que o Windows era [em preto e branco](http://dqsoft.blogspot.com/2006/10/gerenciamento-de-memria-windows-16-bits.html). Mas, como tudo em programação, existem mil maneiras de assar o pato. Esse artigo explica uma delas, a não-tão-milenar técnica do **use memória mapeada nomeada misturada com templates.**
+Desde que comecei a programar, para compartilhar variáveis entre processo é meio que consenso usar-se a milenar técnica do **crie uma seção compartilhada no seu executável/DLL**. Isso funciona desde a época em que o Windows era em preto e branco. Mas, como tudo em programação, existem mil maneiras de assar o pato. Esse artigo explica uma delas, a não-tão-milenar técnica do **use memória mapeada nomeada misturada com templates.**
 
 #### Antigamente...
 
@@ -46,7 +46,7 @@ Algumas desvantagens dessa técnica são:
     
   * Não possui proteção, ou seja, se for uma DLL, qualquer executável que a carregar tem acesso à área de memória.
 
-Muitas vezes essa abordagem é suficiente, como em [_hooks _globais](http://msdn.microsoft.com/library/en-us/winui/winui/windowsuserinterface/windowing/hooks/hookreference/hookfunctions/setwindowshookex.asp), que precisam apenas de uma ou duas variáveis compartilhadas. Também pode ser útil como contador de instâncias, do mesmo jeito que usamos as **variáveis estáticas de uma classe em C++** (vide [shared_ptr](http://www.boost.org/libs/smart_ptr/shared_ptr.htm) do boost, ou a CString do ATL, que usa o mesmo princípio).
+Muitas vezes essa abordagem é suficiente, como em _hooks _globais](http://msdn.microsoft.com/library/en-us/winui/winui/windowsuserinterface/windowing/hooks/hookreference/hookfunctions/setwindowshookex.asp), que precisam apenas de uma ou duas variáveis compartilhadas. Também pode ser útil como contador de instâncias, do mesmo jeito que usamos as **variáveis estáticas de uma classe em C++** (vide [shared_ptr.
 
 #### Memória mapeADA compartilhADA nomeADA
 
@@ -199,11 +199,11 @@ Preciso lembrar que essa é uma versão inicial ainda, mas que pode muito bem se
 #### Para saber mais
 
     
-  * [MSDN Library](http://msdn.microsoft.com/) - by Microsoft
+  * MSDN Library - by Microsoft
 
     
-  * [Code Project](http://www.codeproject.com/) - by Developers
+  * Code Project - by Developers
 
     
-  * [Google](http://www.google.com/) - by Google
+  * Google - by Google
 

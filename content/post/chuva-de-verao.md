@@ -17,4 +17,4 @@ Para conseguir esse efeito o filme nos carrega por momentos que são belíssimos
 
 Há um momento extremamente catártico no final que pode fazer alguns espectadores desatentos passarem realmente mal com a situação. É algo chocante, mas não inesperado. É natural. Tráfico e natural. A vida adulta chega como um soco no estômago dessa jovem.
 
-Estamos hipnotizados assistindo este filme. Ele vai muito fundo sobre o quão rasa é a vida. Bate forte para os mais desavisados. E como Kirsten Dunst em [Melancolia](/movies/melancolia), é justamente o que desejamos.
+Estamos hipnotizados assistindo este filme. Ele vai muito fundo sobre o quão rasa é a vida. Bate forte para os mais desavisados. E como Kirsten Dunst em Melancolia, é justamente o que desejamos.

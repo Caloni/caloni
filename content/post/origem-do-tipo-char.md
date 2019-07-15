@@ -3,7 +3,7 @@ date: "2015-01-26"
 title: Origem do tipo char
 categories: [ "code" ]
 ---
-![](http://i.imgur.com/SKX1ZjT.jpg?1)
+!
 
 Programadores C e C++, preparem-se para explodir as cabeças!
 
@@ -29,6 +29,6 @@ void *memset( void *dest, int c, size_t count ); // sets buffers to a specified 
 
 Links interessantes para filólogos de plantão:
 
- - [Dennis Ritchie Home Page](http://www.cs.bell-labs.com/who/dmr/)
- - [BCPL Reference Manual](http://cm.bell-labs.com/cm/cs/who/dmr/bcpl.html) by Martin Richards
- - [Users' Reference to B](http://cm.bell-labs.com/cm/cs/who/dmr/kbman.html) by Ken Thompson
+ - Dennis Ritchie Home Page
+ - BCPL Reference Manual by Martin Richards
+ - Users' Reference to B by Ken Thompson

@@ -12,7 +12,7 @@ Para realizar esta operação será necessário usar as seguintes ferramentas:
  - sort
  - Calibre
 
-O projeto de conversão (disponível [aqui](https://github.com/Caloni/sep_to_kindle)) foi feito pensando em usuários do Windows, mas pode ser adaptado facilmente para qualquer ambiente. Se trata de um conjunto de arquivos batch (script) que realiza vários comandos, a saber:
+O projeto de conversão (disponível aqui que realiza vários comandos, a saber:
 
 ### calibre_download.bat (baixa conteúdo do site da Stanford)
 
@@ -66,14 +66,14 @@ sort calibre_entries.txt > calibre_entries_sorted.txt
 
 ### Apagar duplicatas
 
-Ao final do processo com o wget percebi que algumas entradas foram baixadas mais de uma vez. Várias delas. Por isso eliminei as duplicatas usando um programa Windows chamado [doublekiller.exe](https://www.bigbangenterprises.de/en/doublekiller/), mas basta você usar qualquer ferramenta que encontra os .html da mesma pasta que possuem o mesmo hash e eliminar as duplicadas. Isso deve ser feito nesse passo antes de:
+Ao final do processo com o wget percebi que algumas entradas foram baixadas mais de uma vez. Várias delas. Por isso eliminei as duplicatas usando um programa Windows chamado doublekiller.exe, mas basta você usar qualquer ferramenta que encontra os .html da mesma pasta que possuem o mesmo hash e eliminar as duplicadas. Isso deve ser feito nesse passo antes de:
 
 ### calibre_entries_to_template.bat (converte entradas da enciclopédia para o template do Calibre)
 
 Essa parte do processo precisa converter as entradas no formato Título Link para entradas HTML com a tag **a**, no formato que o Calibre espera:
 
 ```
-sed -e "s/\(^.*\) \(index.*$\)/        <a href=\"\2\">\1<\/a><br\/>/" calibre_entries_sorted.txt > calibre_template_entries.html
+sed -e "s/\(^.*\) \(index.*$\)/        \1<\/a><br\/>/" calibre_entries_sorted.txt > calibre_template_entries.html
 ```
 
 ### calibre_merge_templates.bat (junta início, meio e fim do template do Calibre)

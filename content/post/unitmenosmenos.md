@@ -3,21 +3,21 @@ date: "2016-09-05"
 title: "unit-menos-menos"
 categories: [ "blog" ]
 ---
-Fazer o setup inicial de testes unitários em seu projeto C++ pode ser algo enfadonho se você precisa baixar e compilar uma lib do Google ou do Boost. Há uma alternativa mais leve e bem direta, que um dia apareceu nesses CodeProject da vida, mas que hoje está, até onde eu vi, no [GitHub](https://github.com/gcross/unit--).
+Fazer o setup inicial de testes unitários em seu projeto C++ pode ser algo enfadonho se você precisa baixar e compilar uma lib do Google ou do Boost. Há uma alternativa mais leve e bem direta, que um dia apareceu nesses CodeProject da vida, mas que hoje está, até onde eu vi, no GitHub.
 
 E como se faz para começar a montar os testes unitários? Bom, suponha que você tenha um projeto qualque que já compila, roda e faz alguma coisa de útil:
 
-![](http://i.imgur.com/HjYVkyp.png)
+!
 
 Apenas crie um projeto do lado, console, ou copie e cole o projeto, mas use os arquivos-fonte do projeto original. Dessa forma ele irá compilar com os fontes que estão sendo modificados/compilados.
 
-![](http://i.imgur.com/NT2C1SC.png)
+!
 
 Apenas se lembra de não incluir o módulo que contém o int main. Esse módulo deve ficar apartado do projeto principal.
 
 Depois basta incluir apenas um arquivo do projeto unit--, que é seu cpp principal.
 
-![](http://i.imgur.com/P8bEvns.png)
+!
 
 Com isso existirá um main lá dentro, definido em algum lugar. E tudo o que você precisa fazer é ir criando seus testes em outro arquivo fonte gerado para isso. O corpo e o formato dos unit cases é bem simples. Note que tudo que você fez para já sair testando seu projeto foi copiar um projeto já existente e inserir um módulo de outro projeto. Tudo compilando junto e já podemos fazer os primeiros testes do programa original (desde, claro, que ele seja testável, algo primordial):
 

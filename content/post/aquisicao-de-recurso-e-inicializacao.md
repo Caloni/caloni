@@ -3,7 +3,7 @@ date: "2007-09-14"
 title: Aquisição de recurso é inicialização
 categories: [ "code" ]
 ---
-O título desse artigo é uma técnica presente no paradigma da programação em C++, razão pela qual [não temos o operador finally](http://public.research.att.com/~bs/bs_faq2.html#finally). A idéia por trás dessa técnica é conseguirmos usar recursos representados por objetos locais de maneira que ao final da função esses objetos sejam destruídos e, junto com eles, os recursos que foram alocados. Podemos chamar de recursos aquele arquivo que necessita ser aberto para escrita, o bitmap que é exibido na tela, o ponteiro de uma interface COM, etc. O nosso exemplo é sobre arquivos:
+O título desse artigo é uma técnica presente no paradigma da programação em C++, razão pela qual não temos o operador finally. A idéia por trás dessa técnica é conseguirmos usar recursos representados por objetos locais de maneira que ao final da função esses objetos sejam destruídos e, junto com eles, os recursos que foram alocados. Podemos chamar de recursos aquele arquivo que necessita ser aberto para escrita, o bitmap que é exibido na tela, o ponteiro de uma interface COM, etc. O nosso exemplo é sobre arquivos:
 
 ```cpp
 #include <windows.h>
@@ -107,7 +107,7 @@ int UseFile2()
 
 Nesse caso o código de UseFile2 acaba deixando um recurso alocado por conta de uma exceção que ocorreu em uma função secundária chamada lá pelas tantas em um momento delicado demais para ocorrerem exceções. Note que o destrutor de File2 é chamado assim como o de File, só que este não libera os recursos do objeto. Ele não usa a técnica RAII (Resource Acquisition Is Initialization, ou o título do artigo em inglês).
 
-#### [POG](http://desciclo.pedia.ws/wiki/POG) aplicado
+#### POG aplicado
 
 Nesse tipo de classe o convívio com exceções gera um dilema: onde está o erro? Como consertá-lo? Se o problema é encontrado numa hora apertada e temos cinco minutos para revolver isso, capturar a exceção causada por BlowUpFunction é uma boa idéia. Só que nem sempre as soluções de cinco minutos são as mais maduras. Podemos não saber muito bem o que fazer com esse tipo de exceção, por exemplo. Isso geraria um tratamento de erro ou redundante - se tratarmos ali mesmo o Scatadush, já tratado em um escopo mais externo - ou fragmentado - se apenas desalocarmos o recurso de File2 e relançarmos a exceção. Eu nem diria fragmentado, pois estamos tratando um erro inventado, se considerarmos que é função dos objetos desalocarem os recursos que foram por eles mesmos alocados.
 

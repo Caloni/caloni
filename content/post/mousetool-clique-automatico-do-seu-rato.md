@@ -3,15 +3,15 @@ date: "2008-05-21"
 title: 'MouseTool: clique automático do seu rato'
 categories: [ "blog" ]
 ---
-Bem, como a maioria de você já sabe, eu realmente não gosto de _mouses_. Apesar disso respeito os usuário que usam-no e até gostam dele. Essa é a razão por que estou escrevendo mais uma vez sobre isso. Dessa vez, irei mostrar um programa que eu uso todos os dias: MouseTool, para os usuários [que  não usam o ](http://www.codinghorror.com/blog/000825.html)_[mouse](http://www.codinghorror.com/blog/000825.html), _mas gostam dele.
+Bem, como a maioria de você já sabe, eu realmente não gosto de _mouses_. Apesar disso respeito os usuário que usam-no e até gostam dele. Essa é a razão por que estou escrevendo mais uma vez sobre isso. Dessa vez, irei mostrar um programa que eu uso todos os dias: MouseTool, para os usuários que  não usam o ](http://www.codinghorror.com/blog/000825.html)_[mouse, _mas gostam dele.
 
-[![MouseTool no tray](http://i.imgur.com/xH2uEyB.png)](/images/mousetool-tray.png)O principal objetivo do programa é evitar de clicar no _mouse, _simulando um clique toda vez que o usuário pára de mover o ponteiro. E é só isso: simples, eficiente e _mouseless_ =).
+!MouseTool no tray.
 
 Existem algumas outras opções como arrastar-e-soltar e clique-duplo, ambas disponíveis pelo próprio programa através de atalhos do teclado ou mudança de estado, situação onde o usuário antes pousa o ponteiro sobre a ação desejada e depois pousa o ponteiro sobre o alvo, dessa forma alternando entre os três modos.
 
 O MouseTool originalmente foi uma ferramente de fonte aberto. Isso significa que a última versão do código-fonte está disponível, certo? **Errado. **Na verdade, eu não consegui, por mais que tentasse achar,  a versão para baixar do código.
 
-Felizmente meu amigo [Marcio](http://marcioandreyoliveira.blogspot.com/) já havia baixado o fonte algum tempo atrás e, assim como eu, ele gostaria de torná-lo disponível para todos que gostassem de usá-lo e alterá-lo. Por isso que estou publicando-o aqui. Ele é gratuito e aberto. Façam o que quiserem com ele =).
+Felizmente meu amigo Marcio.
 
 #### Como usar um código-fonte de terceiros
 
@@ -24,23 +24,23 @@ Por exemplo, dados os arquivos-fonte, nós podemos explorar algumas partes inter
 Clique nos liques abaixo para baixar o programa, e faça bom uso dele.
 
 	
-  * [Código-fonte do MouseTool ](/images/src-mtool-v31.7z)
+  * Código-fonte do MouseTool 
 
 	
-  * [Binários do MouseTool ](/images/bin-mtool-v31.7z)
+  * Binários do MouseTool 
 
 ####  Atualização
 
 MouseTool agora tem uma versão Linux em um projeto no Source Forge! Seu nome é GMouseTool, projeto criado por Márcio de Oliveira.
 
 	
-  * [Página Inicial do ](http://gmousetool.sourceforge.net/)[GMouseTool ](http://gmousetool.sourceforge.net/)
+  * Página Inicial do ](http://gmousetool.sourceforge.net/)[GMouseTool 
 
 #### Usando o MouseTool direto do Bazaar
 
 Aproveitando que estou usando o Bazaar como controlador de fontes em meus projetos, (re)publiquei o MouseTool no formato de um repositório projeto Bazaar de gelo. Ele pode ser obtido no endereço abaixo:
 
-[http://code.launchpad.net/mtool](http://code.launchpad.net/mtool)
+http://code.launchpad.net/mtool
 
 Para baixá-lo através do Bazaar, use o seguinte comando:
 

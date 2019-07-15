@@ -18,6 +18,6 @@ Em determinado momento Joe fala que a última digressão de seu amigo foi a mais
 No final, um discurso feminista que faz todo sentido, seguido da lembrança de que tudo o que vimos foi um ser humano tentando achar seu lugar na sociedade. Infelizmente, com todas as mulheres temendo que seus maridos sejam roubados e com todos os homens. Que maneira triste, mesquinha e... verdadeira, de enxergar a sociedade.
 
 {% for post in site.tags.nymphomaniac %}
- - [{{post.title}}]({{post.url}})
+ - {{post.title}}
 {% endfor %}
 

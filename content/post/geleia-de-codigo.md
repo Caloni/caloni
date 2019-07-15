@@ -3,9 +3,9 @@ date: "2014-04-15"
 title: Geleia de Código
 categories: [ "blog" ]
 ---
-[![jam2014](http://i.imgur.com/zXzJlL5.jpg)](/images/13878076723_dc8556a364_o.jpg)
+!jam2014
 
-Não costumo participar de campeonatos de programação por alguns motivos vagos: é perda de tempo (não ganho nada com isso), sou um péssimo programador (ou pasteleiro), dá preguiça (esse é o mais válido) e por aí vai o mimimi. Dessa forma, sempre passei ileso de eventos como o atual [Google Code Jam](https://code.google.com/codejam/contest/2974486/dashboard), que pretende levar a categoria de código ofuscado para um novo patamar.
+Não costumo participar de campeonatos de programação por alguns motivos vagos: é perda de tempo (não ganho nada com isso), sou um péssimo programador (ou pasteleiro), dá preguiça (esse é o mais válido) e por aí vai o mimimi. Dessa forma, sempre passei ileso de eventos como o atual Google Code Jam, que pretende levar a categoria de código ofuscado para um novo patamar.
 
 No entanto, esse ano apareceram dois motivos que me levaram a gastar cinco minutos de paciência com as historinhas bestas da equipe do Google. Primeiro o Python, que desde 2013 tem renovado em mim a sensação que programar ainda é divertido (e que o pessoal da Microsoft e do padrão C++ tinham tirado de mim há muito tempo com seus compiladores cada vez mais complexos/lentos e as IDEs que demoram o tempo do cafezinho para abrir). Segundo o que move o mundo: a concorrência. Minha digníssima esposa, levada por alguns pontos-extra na faculdade (uma iniciativa até que louvável do professor), resolveu participar da primeira fase (a classificação desta fase também dava pontos).
 

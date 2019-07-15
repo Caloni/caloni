@@ -3,13 +3,13 @@ date: "2007-11-07"
 title: 'Ponteiro de método: qual this é usado?'
 categories: [ "code" ]
 ---
-Depois de publicado o artigo anterior sobre ponteiros de métodos surgiu uma dúvida muito pertinente do autor do blogue [CodeBehind](http://codebehind.wordpress.com/), um escovador de bits disfarçado de programador .NET: **qual objeto que vale na hora de chamar um método pelo ponteiro?**
+Depois de publicado o artigo anterior sobre ponteiros de métodos surgiu uma dúvida muito pertinente do autor do blogue CodeBehind, um escovador de bits disfarçado de programador .NET: **qual objeto que vale na hora de chamar um método pelo ponteiro?**
 
 Isso me estimulou a desdobrar um pouco mais os mistérios por trás dos ponteiro de métodos e de membros, e descobrir os detalhes mais ocultos desse lado esotérico da linguagem.
 
 Para entender por inteiro o que acontece quando uma chamada ou acesso utilizando ponteiros dependentes de escopo, algumas pequenas mudanças foram feitas no nosso pequeno FuzzyCall.
 
-#### Versão 3 de fuzzycall ([baixe aqui](/images/fuzzycall3.cpp))
+#### Versão 3 de fuzzycall (baixe aqui
 
 ```cpp
 #include <windows.h>
@@ -89,7 +89,7 @@ O novo código chama através do mesmo ponteiro o mesmo método (duh), mas atrav
 
 Cada compilador e plataforma tem a liberdade de implementar o padrão C++ da maneira que quiser, mas o conceito no final acaba ficando quase a mesma coisa. No caso de ponteiros de métodos, o ponteiro guarda realmente o endereço da função que pertence à classe. Porém, como todo método não-estático em C++, para chamá-lo é necessário possuir um **_this_**, ou seja, o ponteiro para a instância:
 
-[![Fuzzy Call](http://i.imgur.com/rdyYiGX.gif)](/images/fuzzycall.gif)
+!Fuzzy Call
 
 Em _assembly_ (comando "**cl /Fafuzzycall3.asm fuzzycall3.cpp**" para gerar a listagem), teremos algo assim:
 

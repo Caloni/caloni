@@ -41,7 +41,7 @@ E como fazer para descobrir esse tipo de leak?
 
 #### HandleLeaker
 
-O HandleLeaker é apenas um exemplo de aplicação que realiza o leak de um handle por segundo. Ele tenta (e consegue) abrir um handle para seu próprio processo, e deixa o handle aberto (programas em Win32 API não são muito bons em [RAII](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization)).
+O HandleLeaker é apenas um exemplo de aplicação que realiza o leak de um handle por segundo. Ele tenta (e consegue) abrir um handle para seu próprio processo, e deixa o handle aberto (programas em Win32 API não são muito bons em RAII.
 
 ```cpp
 int main()
@@ -60,38 +60,38 @@ O Perfmon(.msc) está aí no Windows já faz algumas versões (quase todas). Tud
 
 Ao executá-lo a primeira coisa que ele monitora é o processamento da máquina. Podemos eliminar ou esconder esse indicador direto na lista abaixo da ferramenta.
 
-![](http://i.imgur.com/TSAZhI0.png)
+!
 
 Existem incontáveis contadores no Perfmon. Para o que precisamos vamos em Process e escolhemos o contador de Handles:
 
-![](http://i.imgur.com/dR2awj1.png)
+!
 
 Depois de um tempo o Perfmon irá exibir o histórico que determina para onde está indo o seu contador:
 
-![](http://i.imgur.com/smbb54b.png)
+!
 
 Se os valores do seu contador estão fora da faixa do histórico é possível ajustar a escala nas propriedades:
 
-![](http://i.imgur.com/OYhOMob.png)
+!
 
 Se a frequência for muito menor do que um handle por segundo (isso acontece, principalmente com serviços que rodam por dias/semanas/meses), é possível mudar também pelas propriedades, mas gerais:
 
-![](http://i.imgur.com/O6wBqBo.png)
+!
 
 A mudança que fizemos captura o dado monitorado de dez em dez segundos e realiza essa operação por 600 segundos (10 minutos), até repetir o gráfico de histórico:
 
-![](http://i.imgur.com/iyu6PBR.png)
+!
 
 #### Process Explorer
 
 Outra forma de verificar como andam os handles da máquina é usando a já famosa ferramenta da SysInternals. Através das inúmeras colunas que ela fornece existe o contador de handles de cada processo, através do qual é possível verificar quais são os processos com mais handles abertos:
 
-![](http://i.imgur.com/RATAymD.png)
-![](http://i.imgur.com/mR5c2kk.png)
+!
+!
 
 Se seu programa for um handle hog, vai conseguir até ver esse leak acontecendo em tempo real (como o nosso programa mal-educado):
 
-![](http://i.imgur.com/gR0Qe9D.gif)
+!
 
 E como encontrar o código-fonte responsável por esse leak? Mais detalhes em um próximo post.
 

@@ -3,9 +3,9 @@ date: "2009-07-20"
 title: À procura de vida extraterrestre
 categories: [ "blog" ]
 ---
-[![Seti@Home](http://i.imgur.com/YFvUgpe.thumbnail.png)](http://i.imgur.com/lEypW47.png)Faz uns bons dez anos que eu instalei pela primeira vez em meu Pentium 133 MHz o [seti@home](http://setiathome.ssl.berkeley.edu/), um programinha que se propunha a localizar vida extraterrena através de emissões de rádio capturadas pelas nossas potentes antenas de [Arecibo](http://en.wikipedia.org/wiki/Arecibo_Observatory). Ele dizia fazer isso durante o tempo ocioso do meu processador. Como eu sou uma pessoa que <strike>costuma</strike> costumava confiar bastante nas pessoas, além de ser fã incondicional de [Contato](http://www.imdb.com/title/tt0118884/), instalei sem medo.
+!Seti@Home](http://i.imgur.com/YFvUgpe.thumbnail.png)](http://i.imgur.com/lEypW47.png)Faz uns bons dez anos que eu instalei pela primeira vez em meu Pentium 133 MHz o seti@home, um programinha que se propunha a localizar vida extraterrena através de emissões de rádio capturadas pelas nossas potentes antenas de [Arecibo. Ele dizia fazer isso durante o tempo ocioso do meu processador. Como eu sou uma pessoa que <strike>costuma</strike> costumava confiar bastante nas pessoas, além de ser fã incondicional de [Contato, instalei sem medo.
 
-Algum tempo se passou e hoje volto a instalar o mesmo programa, agora envolto em um invólucro de programas de mesmo teor chamado [Boinc](http://boinc.berkeley.edu/), que junta todas essas redes de trabalho em equipe. O computador é usado hoje em dia para diversos trabalhos que exigem um certo esforço no processamento que torna proibitivo alocar máquinas somente para isso (se não impossível do ponto de vista geográfico).
+Algum tempo se passou e hoje volto a instalar o mesmo programa, agora envolto em um invólucro de programas de mesmo teor chamado Boinc.
 
 Eis uma lista dos principais projetos disponíveis através do Boinc que me chamaram a atenção:
 

@@ -6,5 +6,5 @@ desc: "Para a Cúpula Filho Da Puta."
 ---
 O Facebook me lembrou de uma imagem antiga do cartunista do Oatmeal que traduzi para o português há cinco anos. Continua atual, será?
 
-![Imgur](http://i.imgur.com/5IJu6sa.jpg)
+!Imgur
 

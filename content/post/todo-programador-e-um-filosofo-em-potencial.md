@@ -3,9 +3,9 @@ date: "2008-09-12"
 title: Todo programador é um filósofo em potencial
 categories: [ "blog" ]
 ---
-Tivemos uma conversa muito frutífera hoje durante o almoço ao conhecer uma professora que sentava ao nosso lado, exímia conhecedora da mente humana e amante das artes nobres como a [filosofia ](http://pt.wikipedia.org/wiki/Filosofia)e a [lógica](http://pt.wikipedia.org/wiki/L%C3%B3gica).
+Tivemos uma conversa muito frutífera hoje durante o almoço ao conhecer uma professora que sentava ao nosso lado, exímia conhecedora da mente humana e amante das artes nobres como a filosofia ](http://pt.wikipedia.org/wiki/Filosofia)e a [lógica.
 
-O importante dessa colóquio foi ter encontrado um motivo muito mais forte para gostar de programação do que [qualquer outro](http://www.1bit.com.br/content.1bit/weblog/why_do_you_code_) que já me surgira na cabeça desde que mexo com essas coisas:
+O importante dessa colóquio foi ter encontrado um motivo muito mais forte para gostar de programação do que qualquer outro que já me surgira na cabeça desde que mexo com essas coisas:
 
 <blockquote>_O computador não deve dar ordens ao homem e este repeti-las como uma máquina. O homem, como ser pensante, deve dizer ao computador o que fazer, e este responder-lhe diligentemente._</blockquote>
 
@@ -17,13 +17,13 @@ E ser feliz é isso: achar significado para o que fazemos. É **criar**. Pura e 
 
 Criar é pensar. Programadores pensam em coisas novas todos os dias e as executam. Quando encontram algo repetitivo, organizam o código para não terem que repetir mais a mesma baboseira e voltam a fazer coisas interessantes e originais. Se existe um processo enfadonho e chato, o programador inventa um jeito para o computador fazê-lo, e não ele. E a vida do programador sempre gira em torno desse ciclo: dispensa as coisas chatas mandando o computador fazer e se dedica a fazer coisas novas.
 
-![programmer-cicle.gif](http://i.imgur.com/PhWsj2b.gif)
+!programmer-cicle.gif
 
 #### Livros, livros e mais livros?
 
 A discussão não parou por aí, pois me levou a entender o vazio que eu sinto ao estudar coisas que não uso nunca. Porque aprender por aprender não vai me levar a lugar algum. Pode até ser perigoso ler coisas que não servem para nada. Me faz parecer inútil.
 
-![c-programming-language-cover.jpg](http://i.imgur.com/pktOJCa.jpg)E é por isso que eu gosto de livros curtos, simples e claros.
+!c-programming-language-cover.jpgE é por isso que eu gosto de livros curtos, simples e claros.
 
 E não livros longos, ricos em detalhes e que fazem perder o fio da meada ao terminá-lo.
 
@@ -36,8 +36,8 @@ E é por isso, realmente, que amo o que eu faço.
 #### Para pensar
 
 	
-  * [Informação demais é anti-informação?](http://webinsider.uol.com.br/index.php/2008/05/06/informacao-demais-e-anti-informacao/)
+  * Informação demais é anti-informação?
 
 	
-  * [If Philosophers Were Programmers](http://developeronline.blogspot.com/2009/04/if-philosophers-were-programmers.html)
+  * If Philosophers Were Programmers
 

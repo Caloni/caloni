@@ -3,13 +3,13 @@ date: "2008-07-14"
 title: Segunda versão do Houaiss2Babylon
 categories: [ "blog" ]
 ---
-Depois de [vários comentários](http://www.caloni.com.br/conversor-de-houaiss-para-babylon-parte-2#comment-757) de pessoas tendo problemas em converter seus dicionários Houaiss para o formato Babylon, resolvi criar vergonha na cara e dar uma pequena melhora na versão beta do conversor.
+Depois de vários comentários de pessoas tendo problemas em converter seus dicionários Houaiss para o formato Babylon, resolvi criar vergonha na cara e dar uma pequena melhora na versão beta do conversor.
 
 Agora a maioria dos erros que houver será descrita por uma mensagem no seguinte formato:
 
-![houaiss2babylonerror.PNG](/images/houaiss2babylonerror.PNG)
+!houaiss2babylonerror.PNG
 
-O primeiro erro acima ocorre principalmente se não houver algum Houaiss instalado que o programa possa detectar. Resolva este problema [fazendo uma busca no Buscapé](http://compare.buscape.com.br/categoria?id=30&lkout=1&kw=Dicionario+Houaiss&site_origem=1293522).
+O primeiro erro acima ocorre principalmente se não houver algum Houaiss instalado que o programa possa detectar. Resolva este problema fazendo uma busca no Buscapé.
 
 Abaixo segue a função criada para exibir essas mensagens:
 

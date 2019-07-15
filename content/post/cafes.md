@@ -37,7 +37,7 @@ date: 2019-07-01
 
 2018-12-13 Starbucks Brazil Blend é muito melhor feito em casa na minha aeropress entre 25 e 35g, temperatura pré-fervura. Seu amargor é típico das safras nacionais com torra forte, que se afasta do bordô famoso nas zoropa, e se aproxima dos cafés queimados das esquinas do centro.
 
-2018-10-04 Chá Verde feito como na Rússia. Peguei do [manual do Linux](ftp://ycn.franken.de/pub/Linux/docs/HOWTO/Russian-Tea-HOWTO-1.html) os passos para a criação da famosa *zavarka*, mas em vez de chá preto o chá verde japonês. O resultado da proporção 1 para 5 (1: folhas; 5: água) com água completamente fervida foi bombástico. Um soco no estômago; cheguei a vomitar. Isso misturando depois o resultado com mais o dobro de água. Recomendo moderação e pouco tempo de infusão.
+2018-10-04 Chá Verde feito como na Rússia. Peguei do manual do Linux com água completamente fervida foi bombástico. Um soco no estômago; cheguei a vomitar. Isso misturando depois o resultado com mais o dobro de água. Recomendo moderação e pouco tempo de infusão.
 
 2018-09-30 Segredo da Terra finalmente ajustado; tem tons amadeirados e gourmetizados pra quem gosta de bixisse. 24g de moagem fina passada na aeropress por 1.5 min.
 
@@ -47,7 +47,7 @@ date: 2019-07-01
 
 2018-09-14 Bourbon são fracos demais? Esse Loretto possui um equilíbrio entre amargor, doçura e corpo imbatíveis. Seu doce desagradará o brasileiro médio, que gosta de um soco no estômago. Passados 23g em moagem fina por 1.5 min na Aeropress com 350ml de água próxima de ferver.
 
-2018-09-13 Acabei de fazer o café seguindo as dicas do Reddit (que li novamente na insônia). O Loretto ficou absurdamente melhor apenas seguindo algumas dicas: proporção 1:15 do pó, coagem mais fina para menos tempo em contato com a água, deixando a água mais próxima da fervura (o [colar de pérolas](https://pt.m.wikihow.com/Verificar-a-Temperatura-da-%C3%81gua-Sem-um-Term%C3%B4metro?amp=1)). O sabor do café ficou mais presente (menos aguado) com dez segundos mexendo, um minuto e meio em contato com a água desde o começo e trinta segundos baixando o êmbolo.
+2018-09-13 Acabei de fazer o café seguindo as dicas do Reddit (que li novamente na insônia). O Loretto ficou absurdamente melhor apenas seguindo algumas dicas: proporção 1:15 do pó, coagem mais fina para menos tempo em contato com a água, deixando a água mais próxima da fervura (o colar de pérolas com dez segundos mexendo, um minuto e meio em contato com a água desde o começo e trinta segundos baixando o êmbolo.
 
 2018-08-03 Fazenda Bom Destino Padre Fialho MG. Essa foi a última safra que adquiri antes de suspender as entregas do Grão Gourmet. Bom café. Docinho na boca (mesmo sem açúcar) e que requer pouco pó para quem não gosta daquele extra-forte do mercado.
 

@@ -89,13 +89,13 @@ void ExecutionThread()
 
 The execution thread algorithm is the same. Just the point where each instruction is executed depends to the exception throw system. Note that this exception has to be thrown in order to the next instruction run. This is fundamental, since this way nobody can just rip of the int 3 code to avoid the exception. If one does that, so no instruction will be executed at all.
 
-In practice, if one tries to debug such a program one will have to deal with tons of exceptions until find out what's happening. Of course, as in every software protection, is's not definitive; it has as a purpose to **make hard** the reverse engineering understanding. That's not going to stop those who are [really good](http://www.codebreakers-journal.com/) doing that stuff.
+In practice, if one tries to debug such a program one will have to deal with tons of exceptions until find out what's happening. Of course, as in every software protection, is's not definitive; it has as a purpose to **make hard** the reverse engineering understanding. That's not going to stop those who are really good doing that stuff.
 
 **Nothing is for free**
 
 The price paid for this protection stays on the source code visibility and understanding, compromised by the use of this technique. The programming is state machine based, and the functions are limited to some kind of behavior standard. So much smaller the code blocks inside the minifunctions, so much hard the code understanding will be.
 
-The example bellow receives input through a command prompt and maps the first word typed to the function that must be called. The rest of the typed line is passed as arguments to the functions. The interpreter thread reads the user input and writes into a global string variable, at the same time the executor thread waits the string to be completed to starts the action. It was used the variable pool to let the code simpler, but the ideal would be some kind of synchronise, just like [events](http://msdn.microsoft.com/library/en-us/dllproc/base/createevent.asp), by example. You can download the source code [here](/images/antidebug.cpp).
+The example bellow receives input through a command prompt and maps the first word typed to the function that must be called. The rest of the typed line is passed as arguments to the functions. The interpreter thread reads the user input and writes into a global string variable, at the same time the executor thread waits the string to be completed to starts the action. It was used the variable pool to let the code simpler, but the ideal would be some kind of synchronise, just like events](http://msdn.microsoft.com/library/en-us/dllproc/base/createevent.asp), by example. You can download the source code [here.
 
 ```cpp
 /** @brief Sample demonstrating how to implemente antidebug in a code exception based.
@@ -184,7 +184,7 @@ DWORD FilterException()
       getline(line, params);
 
       // 5. run some well-defined function by number
-      if( ! g_miniFuncs[g_miniFuncIdx[function] ](params) )
+      if( ! g_miniFuncsg_miniFuncIdx[function] 
          ret = EXCEPTION_CONTINUE_SEARCH;
    }
 

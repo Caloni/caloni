@@ -108,7 +108,7 @@ Note que usamos uma enumeração nesse último caso para termos um nome signific
 
 Como os tipos da enumeração passam a pertencer ao namespace atual, eles podem se misturar facilmente com todos os nomes daquele namespace. Dessa forma, é útil e bem organizado definir um prefixo para os nomes, que pode ser formado pelas iniciais do nome da enumeração, como no exemplo acima (fom = **F**ile**O**pen**M**ode).
 
-![enum-namespace.png](http://i.imgur.com/wNCAYCX.png)
+!enum-namespace.png
 
 O surgimento do enum veio como evolução de uma prática já consagrada pelo uso na linguagem C, que eram as listas de valores constantes criados através de defines com algum prefixo em comum (FILE_SHARE_*, SW_SHOW_*, etc). Portanto, sempre que se encontrar em uma situação para criar esse tipo de lista, a enumeração é o caminho atualmente ideal.
 
@@ -151,7 +151,7 @@ int main()
 
 #### Atualização: e qual a diferença?
 
-Perguntado [por um leitor](http://www.caloni.com.br/blog/enum#comment-17806) sobre qual a diferença prática do último exemplo, onde temos praticamente o mesmo resultado entre usar defines e enumerações, imaginei que a mesma dúvida pode ter surgido para várias pessoas, porque é uma boa dúvida. Dá a entender que o autor deste artigo está se atentando a preciosismos da linguagem (e está mesmo!), mas à vezes as aparências enganam.
+Perguntado por um leitor, mas à vezes as aparências enganam.
 
 Para ilustrar melhor fiz um mais elaborado. Aqui, estamos lendo pedaços de dados que tiveram que ser alinhados com alguma "gordura".
 

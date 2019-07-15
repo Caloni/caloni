@@ -3,7 +3,7 @@ date: "2008-09-23"
 title: V
 categories: [ "blog" ]
 ---
-Parabéns a todos que participaram e ajudaram para que todos nós chegássemos ao quinto encontro de programadores/aficionados C/C++. Parece mentira, mas hoje temos capacidade para lotar um auditório razoável, e temos a ousadia de sempre poder contar com uma grade de palestras pra lá de avançadas. Vejamos o que foi visto até hoje nesses últimos três encontros ([III](http://www.caloni.com.br/cppcon-iii), [IV](http://www.caloni.com.br/quarto-encontro-c) e o [seminário](http://www.caloni.com.br/seminario-ccpp-portabilidade-e-performance)):
+Parabéns a todos que participaram e ajudaram para que todos nós chegássemos ao quinto encontro de programadores/aficionados C/C++. Parece mentira, mas hoje temos capacidade para lotar um auditório razoável, e temos a ousadia de sempre poder contar com uma grade de palestras pra lá de avançadas. Vejamos o que foi visto até hoje nesses últimos três encontros (III](http://www.caloni.com.br/cppcon-iii), IV e o [seminário:
 
 	
   * C++ com WxWidgets
@@ -40,7 +40,7 @@ Parabéns a todos que participaram e ajudaram para que todos nós chegássemos a
 
 E esse é só o começo.
 
-#### [Grade para o Quinto Encontro CCPP](http://www.ccppbrasil.org/wiki/Grupo:Encontro_V)
+#### Grade para o Quinto Encontro CCPP
 
 04 de outubro de 2008, São Paulo, Brasil
 
@@ -59,7 +59,7 @@ E esse é só o começo.
 	
   * Criando Linguagens Embutidas para Otimização por Felipe Almeida
 
-#### [Grade para o Evento C & C++ Para Sistemas Embarcados](http://www.temporealeventos.com.br/?area=118&tipo=1&id=2295)
+#### Grade para o Evento C & C++ Para Sistemas Embarcados
 
 08 de novembro de 2008, São Paulo, Brasil
 

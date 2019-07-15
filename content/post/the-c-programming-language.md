@@ -7,7 +7,7 @@ categories: [ "reading" ]
 ---
 O clássico de Ritchie e Kernighan, criadores da linguagem C, não foi meu primeiro livro de programação. E nem deveria ser. Não o recomendo para iniciantes, pois é necessário possuir algun conhecimento e prática para realmente aproveitar os conceitos desse livro.
 
-Então, o que ler antes disso? Existem tantos livros bons para iniciantes (e tantos livros péssimos). Eu comecei com [C Completo e Total](http://www.bondfaro.com.br/categorias?id=3482&lkout=1&kw=C+Completo+e+Total&site_origem=1293522), de Herbert Schildt. Não me arrependi. O autor vai descrevendo C para quem já tentou fazer algumas coisas, já programou outras e está afim de tirar as principais dúvidas sobre essa linguagem que tantos abominam por ser difícil, e tantos idolatram por ser poderosa. As práticas do livro já são um bom início para quem quer pensar, entender e programar.
+Então, o que ler antes disso? Existem tantos livros bons para iniciantes (e tantos livros péssimos). Eu comecei com C Completo e Total, de Herbert Schildt. Não me arrependi. O autor vai descrevendo C para quem já tentou fazer algumas coisas, já programou outras e está afim de tirar as principais dúvidas sobre essa linguagem que tantos abominam por ser difícil, e tantos idolatram por ser poderosa. As práticas do livro já são um bom início para quem quer pensar, entender e programar.
 
 Depois de Schildt, passei a ler os livros da Viviane, os famosíssimos módulos do **Treinamento em Linguagem C**. São ótimos para a prática e para reafirmar os conceitos lidos no primeiro livro. Para uma linguagem tão importante, uma segunda opinião é sempre bem-vinda.
 
@@ -43,9 +43,9 @@ No desenvolvimento de _software_ a organização é um dos pilares que irá tran
 
 A dificuldade com que muitos programadores C têm com essas duas características da linguagem fizeram com que fosse dedicado um capítulo inteiro para explicar e reexplicar como os _arrays_ (vetores) e ponteiros funcionam e qual a relação intrínseca entre eles. É também explicada a relação _strings_ x _arrays_, já que em C uma _string_ é uma cadeia de caracteres.
 
-[![Pointer to Vector](http://i.imgur.com/G40wPZ2.gif)](/images/pointer-to-vector.gif)
+!Pointer to Vector
 
-Se você programa em C e até hoje tem dificuldades para entender completamente esse assunto, sugiro que largue o que você está fazendo agora e leia esse capítulo até o final. Será bem mais proveitoso que ficar zanzando no meio de um monte de blogues (como [este aqui](http://www.caloni.com.br/blog)).
+Se você programa em C e até hoje tem dificuldades para entender completamente esse assunto, sugiro que largue o que você está fazendo agora e leia esse capítulo até o final. Será bem mais proveitoso que ficar zanzando no meio de um monte de blogues (como este aqui.
 
 #### _Chapter 6: Structures_
 
@@ -53,7 +53,7 @@ A estrutura é uma composição complexa em C, mas permite um organização melh
 
 Aparentemente o tema estrutura é mais simples que ponteiros, e deveria ser tratado antes. Porém, fazer isso impediria abordar o tema de listas ligadas e outras estruturas que dependem do uso de ponteiros para que estruturas referenciem elas mesmas, algo extremamente recorrente no mundo da programação.
 
-[![Binary Tree](http://i.imgur.com/aH4UTVG.gif)](/images/binary-tree.gif)
+!Binary Tree
 
 É sempre bom lembrar que o uso de estruturas foi o nascimento do C++, que prima pela elegância na organização e harmonia entre seu código e dados. A linguagem C também não fica para trás, mas é importante saber usar.
 
@@ -67,7 +67,7 @@ Os adendos são incrivelmente úteis e os utilizo ainda hoje como referência. C
 
 Por outro lado, sempre fui contra a reinvenção da roda. O que quer dizer que sempre fui a favor do pleno conhecimento da biblioteca padrão, pois ela fornece funções das mais usadas no dia-a-dia, e algumas outras que poderão ter sua serventia um dia desses. Mas para isso elas devem ser conhecidas. Isso quer dizer que uma passada de olhos no **Apêndice B** não faz mal a ninguém.
 
-O **Apêndice C** hoje é um pequeno guia dos curiosos para as mudanças que foram infligidas na linguagem quando esta foi padronizada. Como fã incondicional de C, não pude deixar de ler e reler essa parte, já que me dedico também a conhecer [os primórdios](http://www.google.com.br/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fwww.caloni.com.br%2Fblog%2Farchives%2Fhistoria-da-linguagem-c-parte-1&ei=iXQSR-aKPJ6ieamJ9f0K&usg=AFQjCNGV-OipwleGCQsRL_0PQBg-N8_KNA&sig2=e3pFWyZnkQzJzFC3y04PmA) dessa linguagem. Contudo, é parte opcional para as pessoas práticas (a não ser que você esteja com problemas com código legado do século passado).
+O **Apêndice C** hoje é um pequeno guia dos curiosos para as mudanças que foram infligidas na linguagem quando esta foi padronizada. Como fã incondicional de C, não pude deixar de ler e reler essa parte, já que me dedico também a conhecer os primórdios.
 
 #### Conclusão
 

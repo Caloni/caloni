@@ -11,7 +11,7 @@ Meryl Streep em um dos melhores papéis de sua carreira (o que não é pouca coi
 
 "That's all."
 
-O brilhantismo da escalação de Streep é que o roteiro nunca a coloca em posição de protagonismo, o que poderia ser perigoso para a magnética atriz, que rouba os holofotes de Amy Adams em [Julie & Julia](/julie-e-julia). Aqui cada participação de Streep é magnética na medida certa, pois ela se resume a interações com a personagem de Anne Hathaway.
+O brilhantismo da escalação de Streep é que o roteiro nunca a coloca em posição de protagonismo, o que poderia ser perigoso para a magnética atriz, que rouba os holofotes de Amy Adams em Julie & Julia. Aqui cada participação de Streep é magnética na medida certa, pois ela se resume a interações com a personagem de Anne Hathaway.
 
 Dessa forma Hathaway tem a oportunidade de ouro de construir um personagem convincente graças à sua vilã. Ela é a gata borralheira (aqui jornalista idealista) que precisa do emprego para se manter, e aos poucos simpatiza pelo mundo da moda, ou pelo menos entende as motivações de sua chefe, a megera odiada e aclamada e que todos possuem um exemplo em suas áreas de atuação. Afinal de contas, este filme é baseado em um livro homônimo escrito por um funcionário, descontente ou não (essa parte da minha crítica é ficcional). De qualquer forma a mensagem faz sentido: chefes rudes e implacáveis é uma regra de empresas bem-sucedidas; não exceção.
 

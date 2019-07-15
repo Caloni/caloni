@@ -10,7 +10,7 @@ Imagine uma função que usa remove_if para remover todas as idades de potenciai
 ```cpp
 void RemoveIfLolita(vector<int>& ages)
 {
-	remove_if(ages.begin(), ages.end(), [&](int age) { return age < 18; } );
+	remove_if(ages.begin(), ages.end(), &;
 }
 ```
 
@@ -19,7 +19,7 @@ Ou até sua contraparte usando um array C:
 ```cpp
 void RemoveIfLolita(int* ages, int size)
 {
-	remove_if(ages, ages + size, [&](int age) { return age < 18; } );
+	remove_if(ages, ages + size, &;
 }
 ```
 
@@ -34,12 +34,12 @@ using namespace std;
 
 void RemoveIfLolita(int* ages, int size)
 {
-	remove_if(ages, ages + size, [&](int age) { return age < 18; } );
+	remove_if(ages, ages + size, &;
 }
 
 void RemoveIfLolita(vector<int>& ages)
 {
-	remove_if(ages.begin(), ages.end(), [&](int age) { return age < 18; } );
+	remove_if(ages.begin(), ages.end(), &;
 }
 
 int main()
@@ -60,7 +60,7 @@ int main()
 
 	RemoveIfLolita(ages);
 	cout << "Vector (" << ages.size() << "):\n";
-	for_each(ages.begin(), ages.end(), [&](int age) { cout << age << endl; });
+	for_each(ages.begin(), ages.end(), &;
 
 	int newAges[] = { 10, 21, 66, 18, 16, 15, 8, 24, 12, 20, 13, 13 };
 	const int newAgesSz = (int) ( sizeof(newAges) / sizeof(int) );
@@ -71,13 +71,13 @@ int main()
 
 ```
 
-[![RemoveIfErrado](http://i.imgur.com/AzliFSS.png)](/images/12056971746_f5852acde2_o.png)
+!RemoveIfErrado
 
 Isso ocorre porque o comportamento do remove_if é copiar todos os elementos que retornem false (não remova) e pular elementos que retornem true (remova). No entanto, o tamanho do contêiner, e consequentemente seu ponteiro end(), permanecem o mesmo.
 
-[![RemoveIfComportamento](http://i.imgur.com/JHucsWz.png)](/images/12056450103_9cc50c00e2_o.png)
+!RemoveIfComportamento
 
-De acordo com [o saite cplusplus.com](http://www.cplusplus.com/reference/algorithm/remove_if/), o algoritmo STL é previsível, simples, e por isso mesmo sujeito a otimizações do compilador:
+De acordo com o saite cplusplus.com, o algoritmo STL é previsível, simples, e por isso mesmo sujeito a otimizações do compilador:
 
 ```cpp
 template <class ForwardIterator, class UnaryPredicate>
@@ -108,13 +108,13 @@ using namespace std;
 
 int RemoveIfLolita(int* ages, int size)
 {
-	auto newEnd = remove_if(ages, ages + size, [&](int age) { return age < 18; } );
+	auto newEnd = remove_if(ages, ages + size, &;
 	return newEnd - ages;
 }
 
 void RemoveIfLolita(vector<int>& ages)
 {
-	auto newEnd = remove_if(ages.begin(), ages.end(), [&](int age) { return age < 18; } );
+	auto newEnd = remove_if(ages.begin(), ages.end(), &;
 	ages.resize(distance(ages.begin(), newEnd));
 }
 
@@ -136,7 +136,7 @@ int main()
 
 	RemoveIfLolita(ages);
 	cout << "Vector (" << ages.size() << "):\n";
-	for_each(ages.begin(), ages.end(), [&](int age) { cout << age << endl; });
+	for_each(ages.begin(), ages.end(), &;
 
 	int newAges[] = { 10, 21, 66, 18, 16, 15, 8, 24, 12, 20, 13, 13 };
 	int newAgesSz = (int) ( sizeof(newAges) / sizeof(int) );
@@ -147,6 +147,6 @@ int main()
 
 ```
 
-[![RemoveIfFunciona](http://i.imgur.com/Q7f2N1G.png)](/images/12059866914_0a75cb036a_o.png)
+!RemoveIfFunciona
 
 Esse C++... intuitivo como nunca!

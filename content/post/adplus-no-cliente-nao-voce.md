@@ -3,7 +3,7 @@ date: "2009-08-10"
 title: AdPlus no cliente, não você!
 categories: [ "blog" ]
 ---
-O AdPlus é uma das poderosas ferramentas do pacote [Debugging Tools for Windows](http://www.caloni.com.br/introducao-ao-debugging-tools-for-windows). Se trata basicamente de um _script _que serve para realizar múltiplas fotografias no estado de um programa em execução usando para isso os depuradores do próprio pacote. Quando alguma coisa estiver errada, principalmente um _crash _ou travamento, ele paralisa a execução e gera um _dump _final com toda a história contada desde o começo.
+O AdPlus é uma das poderosas ferramentas do pacote Debugging Tools for Windows. Se trata basicamente de um _script _que serve para realizar múltiplas fotografias no estado de um programa em execução usando para isso os depuradores do próprio pacote. Quando alguma coisa estiver errada, principalmente um _crash _ou travamento, ele paralisa a execução e gera um _dump _final com toda a história contada desde o começo.
 
 Ele pode ser usado na situação mais comum: o programa trava/quebra em um cliente específico e/ou em um momento específico que pode acontecer em cinco segundos ou daqui a quinze horas. Como você não pode ficar monitorando o tempo todo a execução do programa (haja indexadores no PerfMon!) então você precisa de alguém que monitore por você. Como seres humanos costumam ter _deficit_ de atenção muito facilmente você vai lá no cliente (ou pede para alguém ir) e executa o AdPlus, que dá conta do recado:
 
@@ -12,7 +12,7 @@ Ele pode ser usado na situação mais comum: o programa trava/quebra em um clien
 
 Esse notepad, viu! Sempre ele!
 
-![notepad-adplux-together.png](http://i.imgur.com/5tmP63l.png)
+!notepad-adplux-together.png
 
 Bom, vamos fazer alguma brincadeira de desmontar para ver seu funcionamento. Com o notepad recém-aberto por esse comando, vamos abrir outro depurador em modo de visualização e alterar alguma chamada-chave para quebrar propositadamente:
 
@@ -25,11 +25,11 @@ Bom, vamos fazer alguma brincadeira de desmontar para ver seu funcionamento. Com
 
 Após isso só precisamos abrir um arquivo qualquer que não existe:
 
-![notepad-opening-file-crash.png](http://i.imgur.com/2Vro4W5.png)
+!notepad-opening-file-crash.png
 
 Depois desse lapso de memória o AdPlus irá gerar dois _"dumpões_" e um "_dumpinho_" para você:
 
-![notepad-crash-adplus-dumping.png](http://i.imgur.com/IrC0jFJ.png)
+!notepad-crash-adplus-dumping.png
 
 O dumpinho é a exceção de _first chance_, que ele iria gerar de qualquer forma se houvesse uma exceção capturada pelo programa. É apenas um _minidump_.
 

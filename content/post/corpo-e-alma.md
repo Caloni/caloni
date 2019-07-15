@@ -15,7 +15,7 @@ O filme escrito e dirigido por Ildikó Enyedi ganhou o Festival de Berlim. O tem
 
 A rotina do abatedouro e seu refeitório acaba se tornando palco de uma comunicação inusitada entre o humano e a humana que observávamos agora há pouco. Eles são o diretor financeiro e a novata naquela fábrica. Ela é isolada pelo seu autismo. Ele pela seu braço paralisado. Ambos, muito lentamente, vão desenvolvendo uma relação amorosa inusitada, enquanto um roubo inusitado do "pó do amor" para os bovinos vai sendo desenvolvido em uma investigação psicológica.
 
-As pontas de Corpo e Alma nunca são presas o suficiente para que seu tema fique claro. Ele é sutil demais para nos manter atentos ou nos entregar algo marcante. Porém, sua leveza frente a cenas fortes é arrebatadora. Quase poética. Uma versão espiritual de [Boy Meets Girl](/boy-meets-girl-1984) sem ter muito o que desenvolver. Se trata apenas de olhar e experenciar.
+As pontas de Corpo e Alma nunca são presas o suficiente para que seu tema fique claro. Ele é sutil demais para nos manter atentos ou nos entregar algo marcante. Porém, sua leveza frente a cenas fortes é arrebatadora. Quase poética. Uma versão espiritual de Boy Meets Girl sem ter muito o que desenvolver. Se trata apenas de olhar e experenciar.
 
 O proprio gênero oscila atrapalhadamente entre o humor e o drama. A menina é autista e seus problemas de comunicação podem ser vistos como engraçados, apesar de dramáticos. Fica um ponto de interrogação toda hora. O público fica em dúvida. O filme fica em dúvida. O filme está com o vidro embaçado, apesar de lindo e apesar de sereno.
 

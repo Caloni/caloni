@@ -3,7 +3,7 @@ date: "2008-06-24"
 title: Como estou trabalhando com o Bazaar
 categories: [ "blog" ]
 ---
-Depois de alguns ajustes e muitas perguntas do meu amigo-colega desenvolvedor [Rafael](http://www.sk5.com.br/), conseguimos definir alguns usos e costumes em nosso código controlado pelo Bazaar. Este é um guia para _Dummies_ de como é possível organizar um ou mais projetos de forma a favorecer o _refactoring _e a liberdade de uso.
+Depois de alguns ajustes e muitas perguntas do meu amigo-colega desenvolvedor Rafael, conseguimos definir alguns usos e costumes em nosso código controlado pelo Bazaar. Este é um guia para _Dummies_ de como é possível organizar um ou mais projetos de forma a favorecer o _refactoring _e a liberdade de uso.
 
 #### Primeiro passo: padrão de árvore
 
@@ -78,22 +78,22 @@ O repositório do servidor pode ser criado com a opção que não cria o diretó
 
 O Bazzar possui um esquema de servidor embutido nele, que fica escutando em uma porta e se comunica em um protocolo otimizado. Nós gostamos desse esquema, pois protege os projetos de acidentes de usuários que podem apagar uma pasta sem querer.
 
-Para manter o Bazaar eternamente rodando, usamos [o programa do DriverEntry](http://www.driverentry.com.br/blog/2007/02/prog2svc-servio-sem-trabalho.html) que transforma qualquer coisa no formato de um serviço [de gelo](http://en.wikipedia.org/wiki/Wonder_Twins).
+Para manter o Bazaar eternamente rodando, usamos o programa do DriverEntry](http://www.driverentry.com.br/blog/2007/02/prog2svc-servio-sem-trabalho.html) que transforma qualquer coisa no formato de um serviço [de gelo.
 
     
     prog2svc -add Bazaar "c:\program files\Bazaar\bzr.exe serve --allow-writes --diretory=c:\src"
 
 Ou não sei usar direito esse programa ou ele não permite uso de aspas no nome do aplicativo junto de argumentos. Por isso tive que editar o registro onde ele fica para colocar aspas duplas em torno do bzr.exe.
 
-[![bazaar-prog2svc.png](http://i.imgur.com/Md7EXVK.png)](/images/bazaar-prog2svc.png)
+!bazaar-prog2svc.png
 
 Após isso, ainda temos que configurar o serviço para iniciar automaticamente e usar um usuário conhecido. Enquanto o computador estiver ligado, mesmo que sem sessões abertas, nenhuma tela irá aparecer, mas o Bazaar estará rodando e ativo, escutando em sua porta padrão:
 
-[![bazaar-service.png](http://i.imgur.com/ydtBG4o.png)](/images/bazaar-service.png)
+!bazaar-service.png
 
 Se estiver tudo certo, ao iniciar o serviço o Bazaar passará a ficar escutando e pronto para fazer _commits _e _branches_.
 
-[![bazaar-tcpview.png](http://i.imgur.com/FkKIdGa.png)](/images/bazaar-tcpview.png)
+!bazaar-tcpview.png
 
 Agora qualquer usuário da rede consegue fazer _updates _e _commits. _Um desenvolvedor novo faria o seguinte comando:
 
@@ -105,7 +105,7 @@ Agora qualquer usuário da rede consegue fazer _updates _e _commits. _Um desenvo
 
 #### Quinto passo: ensinando as pessoas a usar
 
-O Bazaar por ser muito flexível entra naquela categoria de "[Difícil de acertar a maneira certa de utilizar](http://www.driverentry.com.br/blog/2008/06/utilizando-o-registry-parte-2.html)". Bom, mais ou menos. Eu sinceramente não acho que exista uma maneira errada de usar o Bazaar, mas vamos ver as maneiras mais comuns, que não são exclusivas entre si.
+O Bazaar por ser muito flexível entra naquela categoria de "Difícil de acertar a maneira certa de utilizar". Bom, mais ou menos. Eu sinceramente não acho que exista uma maneira errada de usar o Bazaar, mas vamos ver as maneiras mais comuns, que não são exclusivas entre si.
 
 #### Desenvolvedor _standalone_
 

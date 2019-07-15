@@ -32,7 +32,7 @@ void MinhaClasse::MeuMetodo()
 }
 ```
 
-E contexto nesse sentido nada mais é que um endereço na memória para alguma coisa que nos interessa. Tal qual uma função API do Windows -- tal qual [FindFirstFile](https://msdn.microsoft.com/en-us/library/windows/desktop/aa364418(v=vs.85).aspx) -- que recebe ou retorna uma __struct__ com o que precisamos, esse geralmente é o contexto procurado.
+E contexto nesse sentido nada mais é que um endereço na memória para alguma coisa que nos interessa. Tal qual uma função API do Windows -- tal qual FindFirstFile -- que recebe ou retorna uma __struct__ com o que precisamos, esse geralmente é o contexto procurado.
 
 ```cpp
 WIN32_FIND_DATA findData;
@@ -45,7 +45,7 @@ if( findH != INVALID_HANDLE_VALUE )
 //...
 ```
 
-![](http://i.imgur.com/l5RSlmW.context.gif)
+!
 
 No caso de nós, que escrevemos uma "classe", o contexto é recebido "de fora":
 

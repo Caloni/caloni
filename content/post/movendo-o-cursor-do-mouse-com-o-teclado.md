@@ -9,9 +9,9 @@ _Nota de desculpas: eu sei que estou sendo rabugento demais com o mouse. Já é 
 
 **Utilidade do programa**
 
-Como eu já havia dito [anteriormente](http://www.caloni.com.br/google-shortcuts), uso o _mouse_ quando necessário. Quando ele não é necessário ele fica clicando inconscientemente no Windows Explorer, já que utilizo a configuração de [clique único](http://www.google.com.br/search?q=windows+explorer+folder+options+single-click), onde as pastas e arquivos ficam selecionáveis apenas pousando o cursor sobre eles. Eu gosto dessa configuração, exceto pelo comportamento desagradável que ocorre quando mudo para a janela do Windows Explorer e meu _mouse_ ganha vida própria, selecionando alguma pasta ou arquivo e mudando meu foco de seleção. Preparei um [vídeo](/images/hidemouse.htm) especialmente para demonstrar essa situação.
+Como eu já havia dito anteriormente](http://www.caloni.com.br/google-shortcuts), uso o _mouse_ quando necessário. Quando ele não é necessário ele fica clicando inconscientemente no Windows Explorer, já que utilizo a configuração de clique único, onde as pastas e arquivos ficam selecionáveis apenas pousando o cursor sobre eles. Eu gosto dessa configuração, exceto pelo comportamento desagradável que ocorre quando mudo para a janela do Windows Explorer e meu _mouse_ ganha vida própria, selecionando alguma pasta ou arquivo e mudando meu foco de seleção. Preparei um [vídeo especialmente para demonstrar essa situação.
 
-Portanto, o objetivo desse programa é simples e direto: mover o _mouse_ para um canto enquanto eu uso meu teclado. Nada mais, nada menos. Para isso iremos registrar alguns atalhos globais no Windows. Para registrar atalhos globais no Windows utilizamos a função [RegisterHotKey](http://msdn2.microsoft.com/en-us/library/ms911003.aspx).
+Portanto, o objetivo desse programa é simples e direto: mover o _mouse_ para um canto enquanto eu uso meu teclado. Nada mais, nada menos. Para isso iremos registrar alguns atalhos globais no Windows. Para registrar atalhos globais no Windows utilizamos a função RegisterHotKey.
 
 _**BOOL RegisterHotKey(HWND hWnd, int id, UINT fsModifiers, UINT vk);**_
 
@@ -21,7 +21,7 @@ O importante aqui é saber que iremos ser avisados do pressionamento das teclas 
 
 Resumidamente, um _loop_ de mensagens é a maneira definida pelo Windows para **avisar as aplicações** dos eventos que ocorrerem no sistema que são relevantes para as suas janelas. Teremos chance de observar isso mais vezes, mas por enquanto basta ter uma visão geral do fluxo de mensagens que ocorre quando digitarmos a nossa tecla de atalho:
 
-[![loop-de-mensagens.gif](http://i.imgur.com/tO2R0qY.gif)](/images/loop-de-mensagens.gif)
+!loop-de-mensagens.gif
 
 **O código**
 
@@ -141,7 +141,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, PSTR, int)
 
 ```
 
-É possível baixar o fonte junto de um projeto para Visual Studio 2005 [aqui](/images/hidecursor.7z).
+É possível baixar o fonte junto de um projeto para Visual Studio 2005 aqui.
 
 __Atualização__. É possível compilar diretamente o exemplo mostrado acima simplesmente copiando e colando em um arquivo C(PP). Para fazer isso com o Visual Studio ou SDK, e considerando que o arquivo se chame nomouse.cpp, digite os seguintes comandos:
 
@@ -152,7 +152,7 @@ __Atualização__. É possível compilar diretamente o exemplo mostrado acima si
 
 **A explicação**
 
-Como você pode ver o código não tem muitos segredos. Para registrar os atalhos, usamos a função RegisterHotKey. Para manipular os eventos usamos o tal _loop_ de mensagens e manipulamos a mensagem WM_HOTKEY de acordo com a tecla pressionada. Para mover o _mouse_ usamos a função [SetCursorPos](http://msdn2.microsoft.com/en-us/library/ms648394.aspx) (e para armazenar a posição atual [GetCursorPos](http://msdn2.microsoft.com/en-us/library/ms648390.aspx)). Por fim, para ler configurações de um .ini usamos a função [GetPrivateProfileInt](http://msdn2.microsoft.com/en-us/library/ms724345.aspx). Abaixo um exemplo desse arquivo texto:
+Como você pode ver o código não tem muitos segredos. Para registrar os atalhos, usamos a função RegisterHotKey. Para manipular os eventos usamos o tal _loop_ de mensagens e manipulamos a mensagem WM_HOTKEY de acordo com a tecla pressionada. Para mover o _mouse_ usamos a função SetCursorPos](http://msdn2.microsoft.com/en-us/library/ms648394.aspx) (e para armazenar a posição atual GetCursorPos. Por fim, para ler configurações de um .ini usamos a função [GetPrivateProfileInt. Abaixo um exemplo desse arquivo texto:
 
 _**[HideCursor]
 DisableX=600

@@ -7,7 +7,7 @@ imdb: "0058331"
 categories: [ "movies" ]
 stars: "4/5"
 ---
-Mary Poppins é um musical adorável que foi crescendo como um segundo clássico após [Noviça Rebelde](/novica-rebelde), ambos trabalhos fenomenais de Julie Andrews como a queridinha que canta e dança. Aqui sua persona é mais rígida, e tem tudo a ver com a história.
+Mary Poppins é um musical adorável que foi crescendo como um segundo clássico após Noviça Rebelde, ambos trabalhos fenomenais de Julie Andrews como a queridinha que canta e dança. Aqui sua persona é mais rígida, e tem tudo a ver com a história.
 
 Estamos na Inglaterra dos anos 10. O patriarcado, simbolizado pelo chefe da família Banks (David Tomlinson) tenta controlar a família como um banco: rigidez, mas a distância. Um problema clássico que é eternizado neste trabalho com direção de arte, fotografia e figurino impecáveis. Quando surge a nova babá, vinda das nuvens e de um pedido honesto e das próprias crianças, tudo se conecta: chaminés, vizinhos ex-marinheiros, homens de uma banda só, fantasia e realidade trabalhando em função do tema: como manter o frescor da infância apesar dos adultos por perto?
 

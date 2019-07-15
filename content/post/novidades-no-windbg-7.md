@@ -11,13 +11,13 @@ Entre as mudanças mais esperadas, e entre as mais inesperadas, encontramos essa
 
 Hoje em dia é um trabalho um pouco tedioso encontrar qual dos drivers possuía a memória de endereço 0xB8915423, mas agora, juntando o interpretador de símbolos internos e o sistema de tooltips do Windbg, será possível passar o mouse sobre um endereço qualquer e ele mostrará imediatamente quem possui a memória, como ela foi alocada e qual seu conteúdo.
 
-![windbg-tooltips.png](http://i.imgur.com/fb4hw4x.png)
+!windbg-tooltips.png
 
-Isso só é possível, é claro, com os símbolos corretamente carregados. Algo não muito difícil se você seguir as [recomendações de John Robbins](http://msdn.microsoft.com/en-us/magazine/cc301459.aspx). E é uma mão na roda na hora de dar um feedback instantâneo para o suporte técnico quando der uma tela azul.
+Isso só é possível, é claro, com os símbolos corretamente carregados. Algo não muito difícil se você seguir as recomendações de John Robbins. E é uma mão na roda na hora de dar um feedback instantâneo para o suporte técnico quando der uma tela azul.
 
 #### Edit and Continue
 
-Sim! Agora se o [ddkbuild](http://www.osronline.com/article.cfm?article=43)  estiver no path do WinDbg e você **editar o código-fonte** do seu driver durante a depuração (na próxima versão a visualização não será apenas read-only) e der um step-into, automaticamente o depurador irá perguntar se deseja recompilar o projeto. Depois de ativar o processo de build, através das conexões serial/firewire/usb-debug, a nova imagem irá parar diretamente na memória kernel da máquina target.
+Sim! Agora se o ddkbuild e der um step-into, automaticamente o depurador irá perguntar se deseja recompilar o projeto. Depois de ativar o processo de build, através das conexões serial/firewire/usb-debug, a nova imagem irá parar diretamente na memória kernel da máquina target.
 
 Algumas ressalvas são colocadas pela equipe da Microsoft, no entanto. Se existirem mudanças que dizem respeito a **alocação dinâmica de memória em nonpaged-pool**, o Edit and Continue não será possível naquele momento, apenas depois do reboot.
 
@@ -154,4 +154,4 @@ Resumidamente, é um !analyze mais esperto com o algoritmo heurístico do Visual
     Followup: MachineOwner
     ---------
 
-Existem um pouco de polêmica em torno dessa funcionalidade. Alguns dizem que ela vai mais atrapalhar do que ajudar os programadores de kernel com a vinda de [analistas de sistemas Júnior programando filtros de file system](http://groups.google.com/group/ccppbrasil/msg/f1f6d52aa167c1ab?dmode=source) sem a menor discrepância entre o que é um IRP assíncrono e uma ISR. Outros dizem que existirá uma versão paga do WinDbg com essa funcionalidade, nos mesmos moldes do Visual Studio 2010, que virá com a depuração reversa no Enterprise. Essas especulações só o tempo dirá se são verdade ou não. Se eu tiver que pagar mais caro por essas features, o lobby na empresa onde eu trabalho está garantido.
+Existem um pouco de polêmica em torno dessa funcionalidade. Alguns dizem que ela vai mais atrapalhar do que ajudar os programadores de kernel com a vinda de analistas de sistemas Júnior programando filtros de file system sem a menor discrepância entre o que é um IRP assíncrono e uma ISR. Outros dizem que existirá uma versão paga do WinDbg com essa funcionalidade, nos mesmos moldes do Visual Studio 2010, que virá com a depuração reversa no Enterprise. Essas especulações só o tempo dirá se são verdade ou não. Se eu tiver que pagar mais caro por essas features, o lobby na empresa onde eu trabalho está garantido.

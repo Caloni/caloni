@@ -80,7 +80,7 @@ Isso em fontes pequenos é facilmente identificável. Em fontes maiores, é prec
 
 Após o processo de preprocessamento, de todos os arquivos indicados terem sido incluídos, de todas as macros terem sido substituídas, todas as constantes colocadas literalmente no código-fonte, temos  o que é chamado **unidade de compilação**, que será entregue ao compilador, que, por sua vez, irá começar a análise sintática de fato, descobrindo novos erros que podem ou não (como vimos) ter a ver com a fase anterior. A figura abaixo ilustra esse processo, com algumas trocas conhecidas:
 
-[![Preprocessor](http://i.imgur.com/dLZA8Xh.gif)](/images/preprocessor.gif)
+!Preprocessor
 
 <blockquote>_Dica: quando o bicho estiver pegando, e tudo o que você sabe sobre linguagem C não estiver te ajudando a resolver um problema, tente gerar uma unidade de compilação em C e analisar sua saída. Às vezes o que é claro no código pode se tornar obscuro após o preprocessamento. Para fazer isso no VC++ em linha de comando, use o parâmetro /E._</blockquote>
 
@@ -145,7 +145,7 @@ Alguns erros mais encontrados aqui são as funções não encontradas por falta 
 
 Do ponto de vista técnico, é a fase onde o _linker_ junta todos os arquivos-objeto especificados, encontra as funções, métodos e classes necessárias e monta uma **unidade executável**, como ilustrado pela figura abaixo.
 
-[![Linker](http://i.imgur.com/RJtiCkA.gif)](/images/linker.gif)
+!Linker
 
 <blockquote>_Dica: uma LIB, ou biblioteca, nada mais é que uma coleção de arquivos-objeto que já foram compilados, ou seja, já passaram pelas duas primeiras fases, mas ainda não foram linkeditados. Muitas vezes é importante manter compatibilidade entre LIBs e os projetos que as usam, de forma que o processo de linkedição ocorra da maneira menos dolorosa possível._</blockquote>
 
@@ -162,8 +162,8 @@ Entre esses erros, os mais comuns costumam se aproveitar de macros, como max, qu
 
 Um outro erro que já encontrei algumas vezes é quando a definição de uma classe tem um sizeof diferente do compilado em sua LIB, pela exclusão ou adição de novos membros. Isso pode (vai) fazer com que, durante a execução, a pilha seja corrompida, membros diferentes sejam acessados, entre outras traquinagens. Esses erros costumam acusar a falta de sincronismo entre os _header_s usados e suas reais implementações.
 
-Enfim, na vida real, é impossível catalogar todos os erros que podem ocorrer em um fonte em C. Se isso fosse possível, ou não existiriam bugs, ou pelo menos existiria uma [ferramenta](http://en.wikipedia.org/wiki/Lint_programming_tool) para automaticamente procurar por esses erros e corrigi-los.
+Enfim, na vida real, é impossível catalogar todos os erros que podem ocorrer em um fonte em C. Se isso fosse possível, ou não existiriam bugs, ou pelo menos existiria uma ferramenta para automaticamente procurar por esses erros e corrigi-los.
 
 #### Um projeto cheio de erros
 
-Criei uma [solução](/images/cpperrors.7z) no Visual Studio com alguns erros básicos, alguns demonstrados aqui, outros não, mas enfim, completamente configuráveis e divididos nessas três fases. É possível habilitar e desabilitar erros através do _header _cpperrors.h. Espero que gostem.
+Criei uma solução no Visual Studio com alguns erros básicos, alguns demonstrados aqui, outros não, mas enfim, completamente configuráveis e divididos nessas três fases. É possível habilitar e desabilitar erros através do _header _cpperrors.h. Espero que gostem.

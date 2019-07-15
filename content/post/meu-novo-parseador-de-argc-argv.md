@@ -4,7 +4,7 @@ title: "Meu Novo Parseador de Argc Argv"
 categories: [ "blog" ]
 desc: ""
 ---
-Eis que me deparo com um projeto onde não posso usar STL. Ou seja, nada de map nem string. Isso quer dizer que [minha função bonita e completa de parseamento de argumentos](/como-parsear-argc-argv-para-um-map-stl) argc/argv não pode ser usado. Essa é uma má notícia. A boa notícia é que achei uma forma muito mais simples e à prova de falhas de fazer isso. Quer ver?
+Eis que me deparo com um projeto onde não posso usar STL. Ou seja, nada de map nem string. Isso quer dizer que minha função bonita e completa de parseamento de argumentos argc/argv não pode ser usado. Essa é uma má notícia. A boa notícia é que achei uma forma muito mais simples e à prova de falhas de fazer isso. Quer ver?
 
 ```c++
 /** Interpreta argumentos da linha de comando (versão raiz).
@@ -28,7 +28,7 @@ const char* GetArg(int argc, char* argv[], const char* arg)
 }
 ```
 
-![](https://i.imgur.com/asi80x3.png)
+!
 
 Essa função é tão simples, e tem tão poucas dependências (strcmp) que você pode usá-la em praticamente qualquer programa que use argc/argv e que use os parâmetros dos mais complexos:
 

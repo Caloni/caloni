@@ -19,13 +19,13 @@ SetConsoleOutputCP(CP_UTF8);
 
 Com tudo UTF-8 a vida fica mais fácil.
 
-Outro ponto interessante é que o fonte é muito C++ moderno, com direito a inclusive usar headers ainda experimentais, como o <filesystem> (C++ 17). Ele usa também um conjunto de paths sobre onde estão as coisas (instalação, pacotes, etc). Há muito código no vcpkg que são módulos independentes que soam como retrabalho de coisas comuns, como [parseamento de argumentos](/getarg) (e a já citada transformação em UTF-8), mas o objetivo do projeto é ser independente de tudo. Do contrário ele não seria um bom gerenciador de pacotes.
+Outro ponto interessante é que o fonte é muito C++ moderno, com direito a inclusive usar headers ainda experimentais, como o <filesystem> (C++ 17). Ele usa também um conjunto de paths sobre onde estão as coisas (instalação, pacotes, etc). Há muito código no vcpkg que são módulos independentes que soam como retrabalho de coisas comuns, como parseamento de argumentos, mas o objetivo do projeto é ser independente de tudo. Do contrário ele não seria um bom gerenciador de pacotes.
 
 O arquivo vcpkg\installed\vcpkg\status contém em formato texto simples o status de todos os pacotes instalados (se foi instalado com sucesso ou não, etc). A pasta vcpkg\ports contém todos os pacotes, instalados ou não. O início de tudo é o executável na pasta-raiz após compilado, vcpkg.exe, feito em C++ e que realiza todas as bruxarias para montar a hierarquia de pastas e arquivos em texto. Tudo é tão simples e baseado em arquivos de texto que vejo que a M$ finalmente se rendeu ao jeito unix de fazer as coisas (mais conhecido como o jeito certo).
 
 ### Triplets
 
-No gerenciador de pacotes há um conceito chamado de [triplet](https://github.com/Microsoft/vcpkg/blob/master/docs/users/triplets.md), que não é uma novidade; é uma forma de especificar um conjunto de elementos do ambiente para cross compiling utilizando um simples nome.
+No gerenciador de pacotes há um conceito chamado de triplet, que não é uma novidade; é uma forma de especificar um conjunto de elementos do ambiente para cross compiling utilizando um simples nome.
 
 ```
 c:\Libs\vcpkg>vcpkg help triplet
@@ -53,7 +53,7 @@ O vcpkg já vem com alguns triplets de fábrica, mas você pode criar os seus pr
  - VCPKG_CMAKE_SYSTEM_NAME. A plataforma alvo, que pode ser vazio (o Windows desktop padrão), WindowsStore, Darwin (Mac OSX) ou Linux.
  - VCPKG_PLATFORM_TOOLSET. O toolset do Visual Studio (mais uma coisa do Zwindows); v141, v140 são valores válidos (vazio também).
  - VCPKG_VISUAL_STUDIO_PATH. Onde está a instalação do Visual Studio (é, o vcpkg tem uma certa tendência pro Zwindows).
- - VCPKG_CHAINLOAD_TOOLCHAIN_FILE. Esse não é do Zwindows, mas do [CMake](https://cmake.org/cmake/help/v3.11/manual/cmake-toolchains.7.html); a possibilidade de escolher outro toolchain (diferente de scripts/toolchains) para o CMake.
+ - VCPKG_CHAINLOAD_TOOLCHAIN_FILE. Esse não é do Zwindows, mas do CMake para o CMake.
 
 #### VCPKG_CXX_FLAGS
 
@@ -150,9 +150,9 @@ No exemplo estou usando um vcpkg disponível na pasta c:\libs (que é basicament
 
 Note como as pastas de instalação dos pacotes do triplet selecionado são incluídas na configuração de um projeto do Visual Studio. As libs ficam na subpasta installed/<triplet>/lib, os binários em installed/<triplet>/bin, os includes em installed/<triplet>/include e assim por diante. A ramificação dos pacotes está de acordo com o basename de cada um deles.
 
-A mágica ocorre já na hora de dar include. E é mágica desde o autocomplete até o link. Por exemplo, digamos que vamos fazer um embedded de Python usando o [exemplo do help](https://docs.python.org/3/extending/embedding.html):
+A mágica ocorre já na hora de dar include. E é mágica desde o autocomplete até o link. Por exemplo, digamos que vamos fazer um embedded de Python usando o exemplo do help:
 
-![](https://i.imgur.com/7XMj026.png)
+!
 
 ```
 int main(int argc, char* argv[])
@@ -204,8 +204,8 @@ Se você prestou atenção ao conteúdo de msbuild\vcpkg.targets lá em cima vai
 
 É isso que resolve o problema de saber qual o nome da lib resultante de um pacote instalado. Porém, isso não é o ideal, principalmente por dois motivos:
 
- 1. Os nomes de configuração do projeto tem que ser Debug ou Release (maneiras de melhorar já está sendo discutido [no GitHub](https://github.com/Microsoft/vcpkg/issues/1638)).
- 2. O usuário final não tem qualquer controle do que adicionar como dependência; simplesmente vai todos os pacotes instalados (mais uma discussão [no GitHub](https://github.com/Microsoft/vcpkg/issues/306)).
+ 1. Os nomes de configuração do projeto tem que ser Debug ou Release (maneiras de melhorar já está sendo discutido no GitHub.
+ 2. O usuário final não tem qualquer controle do que adicionar como dependência; simplesmente vai todos os pacotes instalados (mais uma discussão no GitHub.
 
 Porém, no momento é assim que funciona. Para o problema #1 a solução paliativa é o próprio usuário adicionar em seu msbuild as condições de sua configuração. A sugestão da thread é boa:
 
@@ -287,7 +287,7 @@ if (Test-Path "$installedDir\$_") {
 
 O uso do CMake permite aos usuários do vcpkg ter boas ideias apenas lendo os scripts do projeto. Se você abrir o solution vcpkg.sln dentro de toolsrc vai descobrir todos os scripts listados por lá. Há funções espertinhas como o download e extração de pacotes 7zip do Source Forge.
 
-![](https://i.imgur.com/aOHtf5a.png)
+!
 
 Essa parte fica em **vcpkg/scripts/cmake**. Olhe, por exemplo, como retornar a versão do Windows SDK (vcpkg_get_windows_sdk.cmake):
 
@@ -534,5 +534,5 @@ c:\Libs\vcpkg\installed\x86-windows\share\bitforge
 
 E voilá! Agora o include está disponível, as funções estão disponíveis, o link está funcionando e seu pacote pode ser compartilhado com toda a empresa. Basta copiar a pasta ports/bitforge ou adicioná-la no repositório por um commit.
 
-![](https://i.imgur.com/XeeD4Se.png)
+!
 

@@ -5,12 +5,12 @@ date: 2019-06-06
 ---
 Lembre-se:
 
- - A lógica implícita de construir disciplina é estabilizar um relacionamento mais construtivo e melhorar o equilíbrio de poderes entre suas funções executivas superiores -- sua mente adulta racional -- e sua criança de três anos interior que o faz se desanimar com suas decisões. [Practical discipline](http://www.wisdomination.com/practical-discipline/)
- - Finalizar com sucesso tarefas traz o estado interior que procrastinadores crônicos pensam que precisam para iniciar as tarefas em primeiro lugar. [Practical discipline](http://www.wisdomination.com/practical-discipline/)
- - Consistência é questão de vida-e-morte para seu sentido de eu. [Practical discipline](http://www.wisdomination.com/practical-discipline/)
- - Procrastinação não é preguiça, mas associar performance com o que você vale. [HN](https://news.ycombinator.com/item?id=5378462)
- - Auto-estima baixa é ruim porque gera auto-consciência alta. [HN](https://news.ycombinator.com/item?id=2462040)
- - A preocupação é válida? Conserte-a. Não é? Marque como resolvido. [HN](https://news.ycombinator.com/item?id=509283)
+ - A lógica implícita de construir disciplina é estabilizar um relacionamento mais construtivo e melhorar o equilíbrio de poderes entre suas funções executivas superiores -- sua mente adulta racional -- e sua criança de três anos interior que o faz se desanimar com suas decisões. Practical discipline
+ - Finalizar com sucesso tarefas traz o estado interior que procrastinadores crônicos pensam que precisam para iniciar as tarefas em primeiro lugar. Practical discipline
+ - Consistência é questão de vida-e-morte para seu sentido de eu. Practical discipline
+ - Procrastinação não é preguiça, mas associar performance com o que você vale. HN
+ - Auto-estima baixa é ruim porque gera auto-consciência alta. HN
+ - A preocupação é válida? Conserte-a. Não é? Marque como resolvido. HN
  - Aqui e agora: abandone-o, mude-o, ou aceite-o; capte o interior e ele vira exterior; não resista; sem tempo sem problema; fazer igual a acontecer. O Poder do Agora (Eckhart Tolle)
  - No xadrez o que importa não é a análise correta, mas o resultado final. IQ and Chess strength
  - A desigualdade não é ruim por si só; decida se ela é justificável: toda a riqueza do mundo daria para cada um 760 euros. Capital in the Twenty-First Century (Thomas Piketty)

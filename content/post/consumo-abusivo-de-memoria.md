@@ -80,15 +80,15 @@ int main(int argc, char* argv[]) // No princípio havia a pilha, quando Deus dis
 
 Se olharmos de perto o processamento e a memória consumida por esse processo, veremos que no início existe um boom de ambos, mas após um momento de pico, o processamento praticamente pára, mas a memória se mantém:
 
-[![](http://i.imgur.com/hoxWfdi.png)](/images/MemoryGraph.png)
+!
 
-Depois de pesquisar [por meus tweets favoritos](https://twitter.com/#!/caloni/status/138632431765954560), fica fácil ter a receita para verificarmos isso usando nosso depurador favorito: <del>Visual Studio</del> WinDbg!
+Depois de pesquisar por meus tweets favoritos, fica fácil ter a receita para verificarmos isso usando nosso depurador favorito: <del>Visual Studio</del> WinDbg!
 
-[![](http://i.imgur.com/ZKVVT0O.png)](/images/TweetHeap.png)
+!
 
 windbg -pn MemoryConsumption.exe
 
-[![](http://i.imgur.com/Bzb2XVY.png)](/images/MemorySummary.png)
+!
 
 Achamos onde está a memória consumida. Agora precisamos de dicas do que pode estar consumindo essa memória. Vamos começar por listar os chunks alocados por tamanho de alocação:
 
@@ -127,9 +127,9 @@ O Top 3 é de tamanhos conhecidos pelo código, de 1024 a 1024 + QUEUES_SIZE - 
      00599a38 0221 0221 [00] 00599a50 01037 - (busy)
      0059de58 0(...)
 
-A listagem do depurador nos dá o endereço onde o chunk foi alocado no heap e o endereço devolvido para o usuário, onde colocamos nossas tralhas. Através de ambos é possível trackear a pilha da chamada que alocou cada pedaço de memória. Isso, claro, se previamente tivermos habilitado essa informação através do [GFlags](http://msdn.microsoft.com/en-us/library/windows/hardware/ff549596(v=vs.85).aspx):
+A listagem do depurador nos dá o endereço onde o chunk foi alocado no heap e o endereço devolvido para o usuário, onde colocamos nossas tralhas. Através de ambos é possível trackear a pilha da chamada que alocou cada pedaço de memória. Isso, claro, se previamente tivermos habilitado essa informação através do GFlags:
 
-[![](http://i.imgur.com/JeqoBju.png)](/images/GFlagsMemoryStack.png)
+!
 
     
     0:004> !heap -p -a <span style="color: #ff0000;">00558600</span>
@@ -178,22 +178,22 @@ Outra informação relevante é o que está gravado na memória, que pode nos da
     00558678 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51 QQQQQQQQQQQQQQQQ
     00558688 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51 QQQQQQQQQQQQQQQQ
 
-Não é o caso, mas vamos supor que fosse um objeto/tipo conhecido. Poderíamos simplesmente "importar" o tipo diretamente do PDB que estamos para modelar a memória que encontramos em volta. Mais detalhes [em outro artigo](http://www.caloni.com.br/importando-tipos-de-outros-projetos).
+Não é o caso, mas vamos supor que fosse um objeto/tipo conhecido. Poderíamos simplesmente "importar" o tipo diretamente do PDB que estamos para modelar a memória que encontramos em volta. Mais detalhes em outro artigo.
 
 #### Funções/classes usadas nesse artigo
 
     
-  * [CreateThread](http://msdn.microsoft.com/en-us/library/windows/desktop/ms682453(v=vs.85).aspx). Cria uma nova linha de execução.
+  * CreateThread. Cria uma nova linha de execução.
 
     
-  * [WaitForMultipleObjects](http://msdn.microsoft.com/en-us/library/windows/desktop/ms687025(v=vs.85).aspx). Pode aguardar diferentes linhas de execução terminarem.
+  * WaitForMultipleObjects. Pode aguardar diferentes linhas de execução terminarem.
 
     
-  * [std::list](http://www.cplusplus.com/reference/stl/list/front/). Lista na STL para inserir/remover objetos na frente e atrás (ui).
+  * std::list.
 
     
-  * [Initialize](http://msdn.microsoft.com/en-us/library/windows/desktop/ms683472(v=vs.85).aspx), [Enter](http://msdn.microsoft.com/en-us/library/windows/desktop/ms682608(v=vs.85).aspx) e [LeaveCriticalSection](http://msdn.microsoft.com/en-us/library/windows/desktop/ms684169(v=vs.85).aspx). Uma maneira simples de criar blocos de entrada atômica (apenas uma thread entra por vez).
+  * Initialize](http://msdn.microsoft.com/en-us/library/windows/desktop/ms683472(v=vs.85).aspx), Enter e [LeaveCriticalSection.
 
     
-  * [memset](http://www.cplusplus.com/reference/clibrary/cstring/memset/). Se você não sabe usar memset, provavelmente não entendeu nada desse artigo.
+  * memset. Se você não sabe usar memset, provavelmente não entendeu nada desse artigo.
 

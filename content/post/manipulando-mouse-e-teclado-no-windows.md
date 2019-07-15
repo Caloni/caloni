@@ -13,6 +13,6 @@ Nota: usar essas APIs na própria máquina pode ser bem frustrante. Tenha sempre
 
 Funções citadas neste texto:
 
- - [BlockInput](https://msdn.microsoft.com/en-us/library/windows/desktop/ms646290(v=vs.85).aspx)
- - [SendInput](https://msdn.microsoft.com/en-us/library/windows/desktop/ms646310(v=vs.85).aspx)
+ - BlockInput
+ - SendInput
 

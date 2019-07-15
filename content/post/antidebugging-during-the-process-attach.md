@@ -3,7 +3,7 @@ date: "2008-08-05"
 title: Antidebugging during the process attach
 categories: [ "code" ]
 ---
-Today was a great day for reverse engineering and protection analysis. I've found two great programs to to these things: a [API call monitor](http://www.kakeeware.com/) and a [COM call monitor](http://www.blunck.info/comtrace.html). Besides that, in the first program site - from a enthusiastic of the good for all Win32 Assembly - I've found the source code for one more antidebugging technique, what bring us back to our series of [antidebugging techniques](http://www.caloni.com.br/blog/?s=antidebug%3A).
+Today was a great day for reverse engineering and protection analysis. I've found two great programs to to these things: a API call monitor](http://www.kakeeware.com/) and a COM call monitor. Besides that, in the first program site - from a enthusiastic of the good for all Win32 Assembly - I've found the source code for one more antidebugging technique, what bring us back to our series of [antidebugging techniques.
 
 #### The antiattaching technique
 
@@ -90,8 +90,6 @@ After the program has been running, every try to attach will show a detection me
     windbg -pn antiattach.exe
 
     
-    <a href="http://i.imgur.com/mdRqvjp.png" title="Detecção de attach"><img src="http://www.caloni.com.br/blog/wp-content/uploads/antiattach.png" alt="Detecção de attach"></img></a>
-
 #### Code peculiarities
 
 Yes, I know. Sometimes we have to use "brute force codding" and make obscure codes, like this:
@@ -107,7 +105,7 @@ BYTE jmpToAntiAttachAbort[] =
 
 ```
 
-There are a lot of ways to do the same thing. The example above is what is normally called in the crackers community as a [**shellcode**](http://shellcode.org/Shellcode/), what is a pretty name for "byte array that is really the assembly code that does interesting things". _Shellcode for short_ =).
+There are a lot of ways to do the same thing. The example above is what is normally called in the crackers community as a **shellcode**.
 
 Alternative ways to do this are:
 

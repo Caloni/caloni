@@ -3,7 +3,7 @@ date: "2008-07-22"
 title: Aprenda a usar sua API
 categories: [ "blog" ]
 ---
-É conhecido que uma das desvantagens de se programar diretamente em Win32 API é a dificuldade de se entender os parâmetros e o retorno das funções. Concordo em parte. Constituída de [boa documentação](http://msdn.microsoft.com), parte da culpa dos programas mal-feitos reside na preguiça do programador em olhar a documentação por completo.
+É conhecido que uma das desvantagens de se programar diretamente em Win32 API é a dificuldade de se entender os parâmetros e o retorno das funções. Concordo em parte. Constituída de boa documentação, parte da culpa dos programas mal-feitos reside na preguiça do programador em olhar a documentação por completo.
 
 A Win32 API está longe de ser perfeita, mas pelo menos está razoavelmente documentada, e é na leitura atenta da documentação que iremos encontrar as respostas que precisamos para que o programa funcione.
 
@@ -41,7 +41,7 @@ int main()
 
 No entanto, está errado.
 
-É fato que a maioria das funções que retornam _handles_ retornam NULL para indicar o erro na tentativa de obter o recurso. Ao comparar o retorno com NULL, o programador geralmente faz uma chamada a [GetLastError](http://msdn.microsoft.com/en-us/library/ms679360(VS.85).aspx) para saber o que aconteceu. No entanto, uma das funções mais usadas, a CreateFile, não retorna NULL, mas INVALID_HANDLE_VALUE.
+É fato que a maioria das funções que retornam _handles_ retornam NULL para indicar o erro na tentativa de obter o recurso. Ao comparar o retorno com NULL, o programador geralmente faz uma chamada a GetLastError para saber o que aconteceu. No entanto, uma das funções mais usadas, a CreateFile, não retorna NULL, mas INVALID_HANDLE_VALUE.
 
 Sendo assim, o código acima deveria ser:
 
@@ -50,7 +50,7 @@ Sendo assim, o código acima deveria ser:
 
 #### 2. GetVersion
 
-Taí uma função que muitos erraram. Erraram tanto que eles fizeram uma nova versão menos complicada. Como está escrito no [MSDN](http://msdn.microsoft.com/en-us/library/ms724439(VS.85).aspx):
+Taí uma função que muitos erraram. Erraram tanto que eles fizeram uma nova versão menos complicada. Como está escrito no MSDN:
 
 <blockquote>"_The GetVersionEx function was developed because many existing applications err when examining the packed DWORD value returned by GetVersion, transposing the major and minor version numbers._"</blockquote>
 
@@ -92,7 +92,7 @@ int main()
 
 ```
 
-![jurassicpark.PNG](/images/jurassicpark.PNG)
+!jurassicpark.PNG
 
 #### 3. CloseHandle. Mesmo??
 

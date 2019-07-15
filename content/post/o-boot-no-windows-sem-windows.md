@@ -3,20 +3,20 @@ date: "2009-08-18"
 title: 'O boot no Windows: sem Windows'
 categories: [ "code" ]
 ---
-![raios-torre-eiffel.jpg](http://i.imgur.com/r5TyVcK.jpg)Desde quando o usuário liga o computador até o momento em que ele vê a barra de tarefas e aqueles [fundos lindos de papel de parede](http://www.baixaki.com.br/download/windows-7-rc-official-wallpapers.htm) existem diversas coisas sendo feitas por debaixo do pano. Essa série de artigos irá explicar essas diversas coisas, ou seja, como funciona e quais as fases do _[boot](http://pt.wikipedia.org/wiki/Boot) _de uma máquina que possui Windows instalado ([plataforma NT](http://pt.wikipedia.org/wiki/Windows_NT)).
+!raios-torre-eiffel.jpg](http://i.imgur.com/r5TyVcK.jpg)Desde quando o usuário liga o computador até o momento em que ele vê a barra de tarefas e aqueles fundos lindos de papel de parede](http://www.baixaki.com.br/download/windows-7-rc-official-wallpapers.htm) existem diversas coisas sendo feitas por debaixo do pano. Essa série de artigos irá explicar essas diversas coisas, ou seja, como funciona e quais as fases do _[boot _de uma máquina que possui Windows instalado ([plataforma NT.
 
-O que esses artigos **não vão fazer muito bem** é explicar o lado do _kernel mode_ funcionando, até porque temos [artigos melhores](http://www.driverentry.com.br/blog/2009/08/notificando-eventos-aplicacao.html) explicando esse ponto de vista. Essa é uma abordagem mais _"high level_", apesar de _"low enough_". No entanto, espero que seja divertido. É esse o mais importante requisito em qualquer aprendizado, certo? Let's go!
+O que esses artigos **não vão fazer muito bem** é explicar o lado do _kernel mode_ funcionando, até porque temos artigos melhores explicando esse ponto de vista. Essa é uma abordagem mais _"high level_", apesar de _"low enough_". No entanto, espero que seja divertido. É esse o mais importante requisito em qualquer aprendizado, certo? Let's go!
 
 #### Cabum!
 
-Tudo começa no hardware, que recebe um lampejo de energia que o põe em funcionamento ("levanta-te e anda!"). Isso faz com que um pequeno pedaço de software comece a rodar. Esse pedaço inicial de código é chamado de [firmware](http://pt.wikipedia.org/wiki/Firmware), que é um meio termo entre hardware e software.
+Tudo começa no hardware, que recebe um lampejo de energia que o põe em funcionamento ("levanta-te e anda!"). Isso faz com que um pequeno pedaço de software comece a rodar. Esse pedaço inicial de código é chamado de firmware, que é um meio termo entre hardware e software.
 
 O firmware fica gravado na placa-mãe e normalmente nós ouvimos falar dele pelo nome de **BIOS, Basic Input Output System **(Sistema Básico de Entrada e Saída). É nele que estão gravadas as rotinas mais básicas para fazer o hardware mais básico funcionar: CPU, memória, vídeo e teclado.
 
 Quando o computador é ligado, o código da BIOS realiza duas operações vitais antes de continuar:
 
 	
-  1. [Ver se todos os componentes de hardware estão bem](http://pt.wikipedia.org/wiki/POST);
+  1. Ver se todos os componentes de hardware estão bem;
 
 	
   2. **Ver quem é o dispositivo que inicia o sistema operacional**.
@@ -35,7 +35,7 @@ Uma MBR padrão procura por essa partição e lê seu primeiro setor, fazendo um
 
 Vamos supor que você tenha algum Windows moderno na partição ativa. A MBR irá carregar o primeiro pedaço de código desse sistema operacional moderno, que, até então, estará rodando em modo real desprotegido como o bom e velho MS-DOS.
 
-<blockquote>(Note que, mesmo que se trate de uma MBR escrita por terceiros, se ela se comportar como manda o figurino, irá carregar o primeiro setor da partição ativa descrita na tabela de partições. Isso é o que faz com que MBRs escritas pelo pessoal do Linux (e.g. [Lilo](http://en.wikipedia.org/wiki/LILO_%28boot_loader%29)) consiga fazer o boot de uma partição Microsoft.)</blockquote>
+<blockquote>(Note que, mesmo que se trate de uma MBR escrita por terceiros, se ela se comportar como manda o figurino, irá carregar o primeiro setor da partição ativa descrita na tabela de partições. Isso é o que faz com que MBRs escritas pelo pessoal do Linux (e.g. Lilo</blockquote>
 
 Agora chegamos em todos os passos iniciais realizados antes de entrar em cena o S.O.:
 
@@ -62,7 +62,7 @@ Agora chegamos em todos os passos iniciais realizados antes de entrar em cena o 
 
 Todos os componentes principais desse boot podem ser visualizados de uma forma bem macro na figura abaixo.
 
-![boot.png](http://i.imgur.com/jIlqfeF.png)
+!boot.png
 
 Alguns detalhes sórdidos que podem fazer alguma diferença para você, desenvolvedor de sistemas operacionais, um dia desses:
 
@@ -80,20 +80,20 @@ Alguns detalhes sórdidos que podem fazer alguma diferença para você, desenvol
 
 #### Depurando a pré-história do boot
 
-Para detectar problemas de hardware, a BIOS pode ajudar com seus [beeps significativos](http://pt.wikipedia.org/wiki/POST). Isso aparentemente parece ser o fim da picada, mas não é. O [DQ](http://dqsoft.blogspot.com/2008/08/microcontroladores-parte-1.html) sabe muito bem que podemos ter problemas no hardware que exigem análises mais sofisticadas (como comprimento de onda dos sinais).
+Para detectar problemas de hardware, a BIOS pode ajudar com seus beeps significativos](http://pt.wikipedia.org/wiki/POST). Isso aparentemente parece ser o fim da picada, mas não é. O [DQ.
 
 Se for detectar algum problema no sistema de boot baseado em MBR, então você tem dois caminhos:
 
 	
-  * Usar o **SoftICE 16 bits** e [depurar o carregamento da MBR pela BIOS](http://www.caloni.com.br/debug-da-bios-com-o-softice-16-bits)
+  * Usar o **SoftICE 16 bits** e depurar o carregamento da MBR pela BIOS
 
 	
-  * Usar o **Debug 16 bits** do MS-DOS (ou similar) e [depurar diretamente o código de boot da MBR](http://www.caloni.com.br/depuracao-da-mbr), reproduzindo os passos anteriores da BIOS.
+  * Usar o **Debug 16 bits** do MS-DOS (ou similar) e depurar diretamente o código de boot da MBR, reproduzindo os passos anteriores da BIOS.
 
 Se o problema for durante o carregamento do próprio sistema operacional, as mensagens de erro do loader são significativas. No entanto, pode-se usar o Debug mais uma vez e depurar essa parte, logo antes, é claro, do sistema entrar em modo protegido de 32 bits, o que daí já é outra história (que pretendo contar em breve).
 
 #### Sobre outros boots
 
 	
-  * [Artigo sobre o boot no Linux](http://www.csl.mtu.edu/~machoudh/blog/?p=258)
+  * Artigo sobre o boot no Linux
 

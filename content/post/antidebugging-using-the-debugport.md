@@ -22,7 +22,7 @@ Among these events we can tell the most frequent:
     
   * Process exit
 
-In the case of connecting into a existent process, the API [DebugActiveProcess](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fmsdn2.microsoft.com%2Fen-us%2Flibrary%2Fms679295.aspx&ei=cqDERvWoA4GKerippJ0M&usg=AFQjCNFzrdQ83SQzTQxBiT9iEauTFyUPcA&sig2=4p-HOh1Wk6uhDYD0ceEMDw) is called. Since this call, if successful, the caller program is free now to call the API [DebugActiveProcess](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fmsdn2.microsoft.com%2Fen-us%2Flibrary%2Fms679295.aspx&ei=cqDERvWoA4GKerippJ0M&usg=AFQjCNFzrdQ83SQzTQxBiT9iEauTFyUPcA&sig2=4p-HOh1Wk6uhDYD0ceEMDw), looking for debugging events. The main loop for a debugger is, so, pretty simple:
+In the case of connecting into a existent process, the API DebugActiveProcess](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fmsdn2.microsoft.com%2Fen-us%2Flibrary%2Fms679295.aspx&ei=cqDERvWoA4GKerippJ0M&usg=AFQjCNFzrdQ83SQzTQxBiT9iEauTFyUPcA&sig2=4p-HOh1Wk6uhDYD0ceEMDw) is called. Since this call, if successful, the caller program is free now to call the API [DebugActiveProcess, looking for debugging events. The main loop for a debugger is, so, pretty simple:
 
 ```cpp
 void DebugLoop()
@@ -156,7 +156,7 @@ The needed steps to test the code above are:
 
 After the attach process, the debug port is occupied, and the communication between the debugger and debuggee is made throug LPC. Bellow we can see a little illustration of how things work:
 
-[![debug-port2.gif](http://i.imgur.com/dVz6dYQ.gif)](/images/debug-port2.gif)
+!debug-port2.gif
 
 Basically the process stay receiving debugging events (through the LPC message queue) until the final event, the process exit. Notice that if someone try to terminate the protector process the debuggee process will be terminated, too.
 

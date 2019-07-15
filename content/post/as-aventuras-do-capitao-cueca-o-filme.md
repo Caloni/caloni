@@ -9,7 +9,7 @@ desc: "As Aventuras Do Capitao Cueca O Filme. Captain Underpants: The First Epic
 ---
 As Aventuras do Capitão Cueca prova que no Cinema, dado qualquer conceito, ele pode ser explorado e se tornar um ótimo filme. Mesmo que este conceito envolva duas crianças criativas e zoeras que falam com o espectador, pregam todas as peças da escola e criem um super-herói em seus quadrinhos que não usa uma cueca por cima das calças, mas apenas a cueca.
 
-Dirigido por David Soren, que já tinha feito o subestimado [Turbo](/turbo), Capitão Cueca é um trabalho adaptado pelo roteirista Nicholas Stoller (Cegonhas), mas cuja origem vem do autor de epic novels Dav Pilkey. Pilkey, diagnosticado com Transtorno de Déficit de Atenção e dislexia, é dono de uma mente tão atribulada quanto criativa. Seu personagem de cueca aparece em vários de seus trabalhos e é um best seller.
+Dirigido por David Soren, que já tinha feito o subestimado Turbo, mas cuja origem vem do autor de epic novels Dav Pilkey. Pilkey, diagnosticado com Transtorno de Déficit de Atenção e dislexia, é dono de uma mente tão atribulada quanto criativa. Seu personagem de cueca aparece em vários de seus trabalhos e é um best seller.
 
 A transição disso vai para uma história em que dois garotos, George (Kevin Hart) e Harold (Thomas Middleditch), amigos inseparáveis, vivem pregando peças na escola, parando na sala do diretor e criando histórias mirabolantes. Uma dela é do Capitão Cueca, cuja origem traz bastante referência de Super-Homem. Exceto que quando chega na Terra o garoto é criado por um casal de golfinhos fazendeiros. Golfinhos é um tema recorrente nos desenhos dos garotos, e uma das inúmeras eficientes piadas recorrentes do longa.
 

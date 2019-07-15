@@ -3,9 +3,9 @@ date: "2017-05-28"
 title: "SystemRescueCD: um CD cheio de ferramentas Linux para desenvolvedores e suporte"
 categories: [ "blog" ]
 ---
-Há diversas distros Linux capazes de bootar via CD e com uma penca de ferramentas. Conheci há alguns anos uma delas: a [SystemRescueCd](http://www.system-rescue-cd.org/SystemRescueCd_Homepage): um disco de recuperação de HDs com diversas ferramentas embutidas. Dentro dele pode ser inserido outras ferramentas que achar interessante, e o mais importante, desenvolver através do próprio CD suas ferramentas.
+Há diversas distros Linux capazes de bootar via CD e com uma penca de ferramentas. Conheci há alguns anos uma delas: a SystemRescueCd: um disco de recuperação de HDs com diversas ferramentas embutidas. Dentro dele pode ser inserido outras ferramentas que achar interessante, e o mais importante, desenvolver através do próprio CD suas ferramentas.
 
-A modificação do CD pode ser feita bootando com ele mesmo, seguinto o [tutorial da própria SystemRescueCd](http://www.system-rescue-cd.org/Sysresccd-manual-en_How_to_personalize_SystemRescueCd). No entanto, para facilitar o uso, é possível utilizá-lo em um ambiente virtualizado (criar uma VMWare que boote pelo CD, por exemplo, e depois instalar no HD virtual).
+A modificação do CD pode ser feita bootando com ele mesmo, seguinto o tutorial da própria SystemRescueCd.
 
 Outra opção interessante é montar outras partições partindo do próprio CD. Ao bootar com o CD da SystemRescue, após ter acesso ao terminal pela primeira vez, detecte e formate o HD Linux usando a ferramenta fdisk. Dentro da ferramenta use as opções padrão e crie uma particão Linux. Ao final, escreva com 'w', formate a partição (ex: mkfs.ext4) e a partição já deverá estar disponível no próximo boot.
 

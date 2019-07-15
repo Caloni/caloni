@@ -3,7 +3,7 @@ date: "2008-01-02"
 title: Como ser um melhor desenvolvedor em 2008
 categories: [ "blog" ]
 ---
-Aproveitando que está se aproximando meu prazo final para minhas resoluções de [seis meses atrás](http://www.caloni.com.br/como-ser-um-melhor-desenvolvedor-nos-proximos-seis-meses), e o DQ já fez o [_checklist _dele](http://dqsoft.blogspot.com/2008/01/resolues-de-ano-novo-2008-edition.html), vou dar uma espiada na minha lista de desejos atual e fazer uma nova lista para 2008.
+Aproveitando que está se aproximando meu prazo final para minhas resoluções de seis meses atrás](http://www.caloni.com.br/como-ser-um-melhor-desenvolvedor-nos-proximos-seis-meses), e o DQ já fez o [_checklist _dele, vou dar uma espiada na minha lista de desejos atual e fazer uma nova lista para 2008.
 
 #### <strike>Fazer um curso de memorização</strike>
 
@@ -17,7 +17,7 @@ Comecei, fiz quase todos os exercícios e terminei. De fato melhorou em muito mi
 
 #### <strike>Aprender o meu ritmo</strike>
 
-Não existe milagre, mas existem coisas que podemos fazer para ajudá-lo a acontecer. Foi isso que aprendi durante minhas inúmeras tentativas de dominar o tempo e o espaço no desenvolvimento de _software_. Aprendi muita coisa, inclusive que escritórios não foram criados para serem lugares produtivos, e quase sempre é necessário se defender dos [riscos que a internet faz para a saúde](http://www.efetividade.net).
+Não existe milagre, mas existem coisas que podemos fazer para ajudá-lo a acontecer. Foi isso que aprendi durante minhas inúmeras tentativas de dominar o tempo e o espaço no desenvolvimento de _software_. Aprendi muita coisa, inclusive que escritórios não foram criados para serem lugares produtivos, e quase sempre é necessário se defender dos riscos que a internet faz para a saúde.
 
 Enfim, essa tarefa também terminou. Agora é só manutenção constante e disciplinada.
 
@@ -33,7 +33,7 @@ _Por fim, considero se achar melhor depois de ter melhorado um ou dois itens da 
 Sem estar na lista previamente concebida, comecei a fazer outras coisas de maneira mais eficiente, seja relacionado ao trabalho ou não:
 
 	
-  * **Aprender o leiaute do teclado [Dvorak](http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard)**. Treino todo dia cinco minutos há três meses a digitação usando esse leiaute, porque é mais simples, mais rápido e dói menos os dedos.
+  * **Aprender o leiaute do teclado Dvorak**. Treino todo dia cinco minutos há três meses a digitação usando esse leiaute, porque é mais simples, mais rápido e dói menos os dedos.
 
 	
   * **Anotar todas as coisas importantes.** Seja uma idéia nova, uma idéia sobre uma idéia, ou até mesmo melhoramentos em algum software que dou manutenção, é importante manter tudo anotado, porque sabe-se lá quando isso vai ser usado. Mas, quando for, quem vai se lembrar?
@@ -42,7 +42,7 @@ Sem estar na lista previamente concebida, comecei a fazer outras coisas de manei
   * **Bloguear constantemente.** Apesar dos sacrifícios que isso às vezes causa, é edificante nunca "deixar a bola cair". Minha regra é sempre publicar um artigo dia sim, dia não durante a semana. Em uma semana começo na segunda, em outra na terça, e assim sucessivamente. Tem funcionado desde que reiniciei o blogue há seis meses, e espero que continue assim.
 
 	
-  * **Usar novo controle de versão em casa.** Há um mês mais ou menos conheci o [Mercurial](http://www.selenic.com/mercurial/wiki/), que é um sistema de controle de versão muito leve e não-centralizado, duas coisas que fazem uns sininhos soarem em minha cabeça. Ele é baseado conjunto de modificações e _merge_, duas coisas a que não estou acostumado e me forcei a aprender.
+  * **Usar novo controle de versão em casa.** Há um mês mais ou menos conheci o Mercurial, que é um sistema de controle de versão muito leve e não-centralizado, duas coisas que fazem uns sininhos soarem em minha cabeça. Ele é baseado conjunto de modificações e _merge_, duas coisas a que não estou acostumado e me forcei a aprender.
 
 #### Nova lista de tarefas
 

@@ -7,7 +7,7 @@ title: "Nova York, Eu Te Amo"
 stars: "3/5"
 desc: "New York, I Love You. EUA, 2008. Dirigido por Fatih Akin, Yvan Attal, Randall Balsmeyer, Allen Hughes, Shunji Iwai, Wen Jiang, Shekhar Kapur, Joshua Marston, Mira Nair. Escrito por Hu Hong, Yao Meng, Israel Horovitz, Suketu Mehta, Shunji Iwai, Israel Horovitz, Olivier Lécot, Jeff Nathanson, Xan Cassavetes. Com Hayden Christensen, Andy Garcia, Rachel Bilson, Natalie Portman, Irrfan Khan, Orlando Bloom, Christina Ricci, Maggie Q, Ethan Hawke."
 ---
-Todas as comédias românticas americanas se passam em Nova York. Todos os romances se passam em Nova York. Toda a carreira de Woody Allen antes das duas últimas décadas se passa em Nova York (OK, [Noivo Neurótico, Noiva Nervosa](/noivo-neurotico-noiva-nervosa) não). Logo, ou "por quê??", que tal mais um filme onde histórias se entrelaçam, só que dessa vez em Nova York?
+Todas as comédias românticas americanas se passam em Nova York. Todos os romances se passam em Nova York. Toda a carreira de Woody Allen antes das duas últimas décadas se passa em Nova York (OK, Noivo Neurótico, Noiva Nervosa. Logo, ou "por quê??", que tal mais um filme onde histórias se entrelaçam, só que dessa vez em Nova York?
 
 Essa cidade significa muito para os americanos. É a cidade com menos americanos na América. Também é a única com alguma personalidade que é fácil de lembrar, diferente de todas as outras cidades e estados americanos em que todos insistem que possuem suas particularidades. Não importa. Nova York é a única realmente globalizada, com uma cara de cidade do mundo moderno e portanto com uma, duas, vinte, infinitas histórias para contar.
 

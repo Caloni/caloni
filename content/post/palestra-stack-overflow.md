@@ -7,17 +7,15 @@ Há umas semanas (sim, estava enrolado para falar sobre isso) ministrei uma nova
 
 Mas divago.
 
-A ideia da palestra foi do meu amigo Alan Silva (a.k.a. jumpi), e era para a [SEMANA DA COMPUTAÇÃO E TECNOLOGIA](http://secot.com.br/) -- mas nada tem a ver com computação, nem tecnologia, mas com oportunidade de emprego de estagiários para empresas corporativistas da área. O foco era sair da mesmisse que os representantes de R.H. fazem em falar de cultura, visão, valores e outras besteiras e falar um pouco mais de bits e bytes, algo que falta a essa geração.
+A ideia da palestra foi do meu amigo Alan Silva (a.k.a. jumpi), e era para a SEMANA DA COMPUTAÇÃO E TECNOLOGIA -- mas nada tem a ver com computação, nem tecnologia, mas com oportunidade de emprego de estagiários para empresas corporativistas da área. O foco era sair da mesmisse que os representantes de R.H. fazem em falar de cultura, visão, valores e outras besteiras e falar um pouco mais de bits e bytes, algo que falta a essa geração.
 
 Meu público era muito, muito jovem, e foquei erroneamente em conceitos muito, muito antigos para eles, então não tenho muita certeza se fui útil. De qualquer forma, foi um prazer falar sobre engenharia da computação atrelado a ataque na pilha de execução (sim, um salto enorme para baixo, do R.H. para a placa de memória RAM).
 
-O conteúdo e a palestra está no [GitHub](https://github.com/Caloni/StackOverflow) e a palestra em si pode ser vista logo abaixo; a apresentação do conteúdo está mais abaixo, e peço desculpas por não ter tido tempo de apresentar todo ele (mesmo com quase duas horas):
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/qRb4TSKjnf8Wx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/WanderleyCaloni/stack-overflow-61945232" title="Stack overflow" target="_blank">Stack overflow</a> </strong> from <strong><a href="//www.slideshare.net/WanderleyCaloni" target="_blank">Wanderley Caloni</a></strong> </div>
+O conteúdo e a palestra está no GitHub:
 
 _PS: Ah, esqueci. Também fiz um vídeo para complementar o conteúdo da palestra. Segue:_
 
-<div class="auto-resizable-iframe"><div><iframe frameborder="0" allowfullscreen="1" src="https://www.youtube.com/embed/kSKQQDTBRXQ?list=PLa0QVTprDkHBz6fjuzy4kU1iTLUnRWkeW"></iframe></div></div>
+https://www.youtube.com/embed/kSKQQDTBRXQ?list=PLa0QVTprDkHBz6fjuzy4kU1iTLUnRWkeW
 
 # Sobre ataques que mexem com a pilha
 

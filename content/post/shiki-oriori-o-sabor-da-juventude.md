@@ -7,7 +7,7 @@ imdb: "8176578"
 categories: [ "movies" ]
 stars: "3/5"
 ---
-Este é um filme que dá sono. Aliás, estes são três curtas. Que dão sono. Mas apesar dos bocejos e das pescadas, há algo de muito bonitinho acontecendo em Shiki Oriori, lançada pela Netflix que se orgulha em anunciar que é do mesmo estúdio de [Your Name](/your-name), o ultra-pop sucesso de Makoto Shinkai. Aqui nós temos três diretores diferentes trazendo uma percepção temática parecida entre as três histórias: a nostalgia de algo perdido em nossa juventude e que na fase adulta bate à porta.
+Este é um filme que dá sono. Aliás, estes são três curtas. Que dão sono. Mas apesar dos bocejos e das pescadas, há algo de muito bonitinho acontecendo em Shiki Oriori, lançada pela Netflix que se orgulha em anunciar que é do mesmo estúdio de Your Name, o ultra-pop sucesso de Makoto Shinkai. Aqui nós temos três diretores diferentes trazendo uma percepção temática parecida entre as três histórias: a nostalgia de algo perdido em nossa juventude e que na fase adulta bate à porta.
 
 Tendo trabalhado no departamento de animação de um curta e um longa de Shinkai, Yoshitaka Takeuch é o mais veterano dos três, que não assinam os segmentos (ou assinam coletivamente, ficando indefinido se cada um é responsável por um segmento). A animação segue uma paleta e conceitos semelhantes, com idas e vindas entre passado e presente. Há música empolgante e personagens bem-sucedidos, mas, cada um à sua maneira, melancólicos. Dois dos curtas possuem finais felizes, e são os que mais soam fake. O primeiro, sobre lámen, mais autêntico, chega a iluminar um pouco o coração. E a barriga.
 

@@ -8,19 +8,19 @@ categories: [ "reading" ]
 
  > "Personally I have never believed that it is possible to be a good coder without being a good programmer nor a good programmer without being a good designer, communicator, and thinker." - Jamie Zawinski
 
-Como [Joel](http://www.joelonsoftware.com/items/2009/09/23.html) e [Atwood](http://www.codinghorror.com/blog/2009/10/the-interview-with-the-programmer.html) disseram, a leitura de [Coders At Work](http://www.codersatwork.com/) é tão útil quanto ler o código dos outros, só que em um estilo mais condensado, que se aproveita das décadas de experiência dessa gente para aprimorarmos nossos processos de desenvolvimento e, muitas vezes, a forma de pensarmos sobre software.
+Como Joel](http://www.joelonsoftware.com/items/2009/09/23.html) e Atwood disseram, a leitura de [Coders At Work é tão útil quanto ler o código dos outros, só que em um estilo mais condensado, que se aproveita das décadas de experiência dessa gente para aprimorarmos nossos processos de desenvolvimento e, muitas vezes, a forma de pensarmos sobre software.
 
-No meu estilo de leitura circular, adaptada do brilhante (maluco?) método de [Dmitry Vostokov](http://www.softwaregeneralist.com/category/books/), as coisas vão mais devagar, e estou apenas no início do livro, tendo passado por **Jamie Zawinski** (desenvolvedor da equipe original do Netscape), Brad Fitzpatrick (criador do Live Journal) e terminado recentemente **Douglas Crockford**. O artigo de Joel sobre Zawinski demonstra seu apreço pelo codificador pensante, ou aquele que faz as coisas acontecerem e não fica preso eternamente na armadilha da arquitetura. Eu acredito que as seguintes passagens do livro demonstram seu pensamento melhor do que se eu fosse tentar traduzi-los.
+No meu estilo de leitura circular, adaptada do brilhante (maluco?) método de Dmitry Vostokov e terminado recentemente **Douglas Crockford**. O artigo de Joel sobre Zawinski demonstra seu apreço pelo codificador pensante, ou aquele que faz as coisas acontecerem e não fica preso eternamente na armadilha da arquitetura. Eu acredito que as seguintes passagens do livro demonstram seu pensamento melhor do que se eu fosse tentar traduzi-los.
 
 #### Jamie Zawinski
 
-![](http://i.imgur.com/MJ5hTKg.jpg)
+!
 
 > ersonally I have never believed that it is possible to be a good coder without being a good programmer nor a good programmer without being a good designer, communicator, and thinker. (...) Start converting it into the bad one until it stops working. That's primary tool of reverse engineering. (...) Your competitor's six-month 1.0 has crap code and they're going to have to rewrite it in two years but, guess what: they can rewrite it because you don't have a job anymore. (...) The design process is definitely an ongoing thing; you never know what the design is until the program is done. So I prefer to get my feet wet as early as possible; get something on the screen so I can look at it sideways.(...) I've noticed that one thing that separates good programmers from bad programmers is that good programmers are more facile at jumping between layers of abstraction they can keep the layers distinct while making changes and choose the right layer to make changes in. (...) I think one of the most important things, for me anyway, when building something from the ground up like that is, as quickly as possible, getting the program to a state that you, the programmer, can use it. Even a little bit. Because that tells you where to go next in a really visceral way. (...) I don't want to be a mathematician but I'm not going to criticize someone who is a mathematician. It's weird that people often confuse those two pursuits. People who are into very theoretical computer science are thought of in this same way as people who are shipping desktop applications. And they don't really have a lot to do with each other. (...) Then there was another book that everybody thought was the greatest thing ever in that same period'Design Patterns'which I just thought was crap. It was just like, programming via cut and paste. Rather than thinking through your task you looked through the recipe book and found something that maybe, kinda, sorta felt like it, and then just aped it. That's not programming; that's a coloring book. (...
 
 #### Douglas Crockford
 
-![](http://i.imgur.com/IfwkdEw.png)
+!
 
 De certa forma, o mesmo pragmatismo pode ser observado em Douglas Crockford, que utiliza o método de leitura de código tanto na entrevista por candidatos ("traga-me o código que tem orgulho de ter escrito e explique-o pra mim") quanto no dia-a-dia do projeto, para que todos entendam e aproveitem a evolução do projeto como um todo, além de constituir, na minha visão, uma das melhores dicas de auto-management que uma equipe de programadores poderia ter.
 
@@ -40,11 +40,11 @@ De certa forma, o mesmo pragmatismo pode ser observado em Douglas Crockford, que
 
 ### Brendan Eich, threads e depuração
 
-![](http://i.imgur.com/Wc5X2Y4.jpg)
+!
 
 > Proofs are hard. Most people are lazy. Larry Wall is right. Laziness should be a virtue. So that's why I prefer automation. Proofs are something that academics love and most programmers hate." - _Brendan Eic
 
-Esse pequeno trecho da entrevista de Brendan Eich, de [Coders at Work](http://www.codersatwork.com/brendan-eich.html), revela parte das frustações que os programadores de linha de frente sofrem com os ambientes de depuração, muitas vezes aquém dos desafios atuais. Sinceramente, não sinto isso em meu dia-a-dia, e acho o Visual Studio um excelente depurador com interface (mas que perde feio para o WinDbg em casos mais hardcore). Porém, fica a percepção curiosa do criador do JavaScript.
+Esse pequeno trecho da entrevista de Brendan Eich, de Coders at Work. Porém, fica a percepção curiosa do criador do JavaScript.
 
 Sobre SGI
 
@@ -52,7 +52,7 @@ Sobre SGI
 
 Ferramentas de Depuração Avançadas
 
-[caption id="attachment_1212" align="aligncenter" width="129" caption="Logo da Valgrind"][![](http://i.imgur.com/bV0kn9f.png)](/images/ValgrindLogo.png)[/caption]
+caption id="attachment_1212" align="aligncenter" width="129" caption="Logo da Valgrind"]![[/caption]
 
 > Instrumenting and having a checked model of the entire memory hierarchy is big. Robert O'Callahan, our big brain in New Zealand, did his own debugger based on the Valgrind framework, which efficiently logs every instruction so he can re-create the entire program state at any point. It's not just a time-traveling debugger. It's a full database so you see a data structure and there's a field with a scrogged value and you can say, 'Who wrote to that last?' and you get the full stack. You can reason from effects back to causes. Which is the whole game in debugging. So it's very slow. It's like a hundred times slower than real time, but there's hope.
 
@@ -62,7 +62,7 @@ Depuradores da Indústria
 
 > Debugging technology has been sadly underresearched. That's another example where there's a big gulf between industry and academia: the academics are doing proofs, sometimes by hand, more and more mechanized thanks to the POPLmark challenge and things like that. But in the real world we're all in debuggers and they're pieces of shit from the '70s like GDB.
 
-![](http://i.imgur.com/FJMbiCL.jpg)
+!
 
 > In the real world one big split is between people who use symbolic debuggers and people who use print statements." - Peter Seibe
 

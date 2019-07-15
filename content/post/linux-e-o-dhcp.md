@@ -3,13 +3,13 @@ date: "2008-04-09"
 title: Linux e o DHCP
 categories: [ "blog" ]
 ---
-Quando procuramos no google por "linux dhcp", o que vem [em resposta](http://www.google.com/search?q=linux%20dhcp) são diversas dicas, tutoriais, documentos oficiais e palpites sobre como configurar um **servidor** Linux.
+Quando procuramos no google por "linux dhcp", o que vem em resposta são diversas dicas, tutoriais, documentos oficiais e palpites sobre como configurar um **servidor** Linux.
 
 Muito bem. E a outra ponta da história?
 
 [Testes feitos em um **Fedora 8**, não me pergunte mais detalhes]
 
-O primeiro linque útil encontrado foi a [documentação da Red Hat](http://www.redhat.com/docs/manuals/linux/RHL-8.0-Manual/custom-guide/s1-dhcp-configuring-client.html). Além disso seguem alguns macetes que eu descobri no decorrer do percurso. A primeira coisa a ser configurada é o arquivo /etc/sysconfig/network. Nele devemos, em uma configuração simplista, colocar uma única linha:
+O primeiro linque útil encontrado foi a documentação da Red Hat. Além disso seguem alguns macetes que eu descobri no decorrer do percurso. A primeira coisa a ser configurada é o arquivo /etc/sysconfig/network. Nele devemos, em uma configuração simplista, colocar uma única linha:
 
     
     NETWORKING=yes

@@ -3,11 +3,11 @@ date: "2015-08-04"
 title: "Por que as startups brasileiras precisam de outsourcing"
 categories: [ "blog" ]
 ---
-![](http://i.imgur.com/sG2RKEH.jpg)
+!
 
 Não é novidade que uma boa ideia, na área de informática, muitas vezes não precisa de apenas boas intenções. Na verdade, acho que quase nunca. Saber com quem se fala, ter os contatos certos e o investidor-chave, simplesmente não irão trazer sucesso a nenhuma empresa se esta não conseguir sequer engatinhar tecnologicamente e mostrar que seu _core business_ vale a pena.
 
-Para isso que empresas como a [Bit Forge](http://bitforge.com.br) estão começando a desenvolver software sob o modelo catalisadora de startups.
+Para isso que empresas como a Bit Forge estão começando a desenvolver software sob o modelo catalisadora de startups.
 
 ## E como funciona?
 

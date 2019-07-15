@@ -5,7 +5,7 @@ categories: [ "blog" ]
 ---
 #### Fecha uma porta...
 
-Desde que comecei a programar profissionalmente, lá por volta de 2001, sempre estive envolvido com uma ou duas empresas de Segurança da Informação, na época uma promissora carreira, com direito a [hacking](http://www.caloni.com.br/blog/?s=hack), [engenharia reversa](http://www.caloni.com.br/blog/category/reversing) e outras diversões. Até programar por programar valia!
+Desde que comecei a programar profissionalmente, lá por volta de 2001, sempre estive envolvido com uma ou duas empresas de Segurança da Informação, na época uma promissora carreira, com direito a hacking](http://www.caloni.com.br/blog/?s=hack), [engenharia reversa e outras diversões. Até programar por programar valia!
 
 O tempo passou, completei uma década na área, e agora está realmente na hora de tentar programar coisa nova. Dessa forma, acompanhando minha própria tendência de investidor pessoa física na bolsa de valores, resolvi dar um novo salto em minhas aspirações nesse campo igualmente fascinante e apostar meu tempo de programação também no setor financeiro, onde C/C++ também corre na veia.
 

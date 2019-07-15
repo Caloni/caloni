@@ -9,27 +9,27 @@ Bem, para os que estavam acostumados com o Visual C++ 6.0, nada foi mais incômo
 
 E eis que alguém, muito provavelmente eu mesmo, naquele momento de inspiração, criei a seguinte configuração para a geração dos PDBs, os símbolos para depurar programas no Windows:
 
-![](http://i.imgur.com/AmoYVLS.png)
+!
 
 Faz sentido, não? Afinal de contas, o PDB costuma ter o nome do projeto, e ele já está setado até em outro lugar para gerar com o mesmo nome. Nada de novo no _front_.
 
-![](http://i.imgur.com/SYoMbtq.png)
+!
 
 Até aí tudo bem. Aliás, tudo ficou muito bem por estranhos 13 anos.
 
 Até que alguém decidiu migrar para o já não tão novo Visual Studio 2013!
 
-![](http://i.imgur.com/YZ6v5eP.png)
+!
 
 E tudo correu muito bem por algumas horas... talvez 13.
 
 Até que a depuração de repente parou de funcionar.
 
-![](http://i.imgur.com/xbk6WsP.png)
+!
 
 Será o benedito? Ou o co-piloto?
 
-![](http://i.imgur.com/5ZSZu4g.png)
+!
 
 Pesquisando nos fóruns da vida, antro dos desesperados, achei/lembrei de um comando muito útil no WinDbg que não apenas diz se os símbolos estão "mismatch", ou seja, os símbolos ou o PDB não está combinando com o EXE, mas também por quê.
 
@@ -53,17 +53,17 @@ DBGHELP: Module - no symbols loaded
 ```
 Para saber o que está errado, o famigerado **!IToldYouSo**
 
-![](http://i.imgur.com/AxapyHQ.jpg)
+!
 
-![](http://i.imgur.com/di9JV7u.png)
+!
 
 Mano, como assim?!?!? Eu acabei de compilar esse binário, eu já apaguei 15 vezes as pastas de Debug e Release, eu já rebootei mais do que o Windows me obriga a rebootar por causa das falhas de segurança.
 
 Pois, então, desesperançado, crio um projeto novo para comparar as configurações, e voltamos 13 anos atrás, naquele fatídico dia, e entendo por que o nome do PDB temporário não é igual. Bom, na verdade não entendo, mas intuo que tenha alguma relação:
 
-![](http://i.imgur.com/x19BKm4.png)
+!
 
-![](http://i.imgur.com/P23UaPY.png)
+!
 
 E, de fato. Solução? Copie as configurações usuais do "novo" Visual Studio comparando com o velho.
 
@@ -75,6 +75,6 @@ Just got stuck in the same problem, but in a C++ source that has 13 years, where
 []s
 ```
 
-![](http://i.imgur.com/uDmJxtB.png)
+!
 
-Minha próxima tarefa, aparentemente, é ver como sendo sócio da [BitForge](www.bitforge.com.br) e da [Intelitrader](www.intelitrader.com.br), e mesmo tendo já atualizado meu perfil MVP há anos, continuo sendo funcionário da UOL Diveo/Broker =/
+Minha próxima tarefa, aparentemente, é ver como sendo sócio da BitForge](www.bitforge.com.br) e da [Intelitrader, e mesmo tendo já atualizado meu perfil MVP há anos, continuo sendo funcionário da UOL Diveo/Broker =/

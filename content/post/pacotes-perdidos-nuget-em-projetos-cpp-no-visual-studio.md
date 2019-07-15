@@ -6,13 +6,13 @@ categories: [ "blog" ]
 ---
 É muito bom (para quem gosta) usar a IDE e viver feliz sem precisar se preocupar em digitar comandos estranhos no prompt. Porém, essa vida acaba quando ocorre o primeiro erro inexplicável, aquele tipo de erro que não importa onde você olhe, não há nada para olhar. Até você apelar para ferramentas de macho.
 
-Que nem hoje de manhã, quando fui inocentemente baixar uma versão limpa do [tiodb](https://github.com/tiodb/tiodb) e após baixar todos os pacotes do [NuGet](https://docs.microsoft.com/pt-br/nuget/consume-packages/overview-and-workflow), o gerenciador de pacotes do Visual Studio (inclusive para C++, agora) acusou a falta do boost, sendo que ele havia acabado de baixá-lo:
+Que nem hoje de manhã, quando fui inocentemente baixar uma versão limpa do tiodb](https://github.com/tiodb/tiodb) e após baixar todos os pacotes do [NuGet acusou a falta do boost, sendo que ele havia acabado de baixá-lo:
 
-![](http://i.imgur.com/HUp5S4K.png)
+!
 
-![](http://i.imgur.com/IfVDNN9.png)
+!
 
-![](http://i.imgur.com/Yi8kVgC.png)
+!
 
 Os pacotes do projeto ficam todos na raiz do diretório da solução na sub-pasta packages. Observando o que foi baixado lá, verifiquei que a versão do boost estava ok: ele havia baixado a 1.61 como pedido, mas o erro dizia respeito justamente a um desses pacotes.
 
@@ -61,7 +61,7 @@ gvim server\tio\tioserver.vcxproj
 :wq
 ```
 
-![](http://i.imgur.com/BLUS8XJ.png)
+!
 
 ```cmd
 1>------ Build started: Project: tioclientdll, Configuration: Debug x64 ------

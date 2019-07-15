@@ -78,7 +78,7 @@ categories: [ "blog" ]
 <td width="96" valign="top" >**CustomDumpFlags**
 </td>
 
-<td width="209" valign="top" >The custom dump options to be used. This value is used only when **DumpType** is set to 0.The options are a bitwise combination of the [**MINIDUMP_TYPE**](http://msdn.microsoft.com/en-us/library/ms680519) enumeration values.
+<td width="209" valign="top" >The custom dump options to be used. This value is used only when **DumpType** is set to 0.The options are a bitwise combination of the **MINIDUMP_TYPE** enumeration values.
 </td>
 
 <td width="95" valign="top" >REG_DWORD
@@ -91,12 +91,12 @@ categories: [ "blog" ]
 </table>
 Isso quer dizer que se:
 
-[![crash-me-build-and-run](http://i.imgur.com/8u4rV7L.png)](/images/11346140275_d325e64ae9_o.png)
+!crash-me-build-and-run
 
 Então:
 
-[![crash-me-run-and-dump](http://i.imgur.com/DEYUjLX.png)](/images/11346236114_41457fcc65_o.png)
+!crash-me-run-and-dump
 
-Fonte: [Collecting User-Mode Dumps (Windows)](http://msdn.microsoft.com/en-us/library/bb787181).
+Fonte: Collecting User-Mode Dumps (Windows).
 
-E mais! [WER Settings](http://msdn.microsoft.com/en-us/library/bb513638(VS.85).aspx)
+E mais! WER Settings

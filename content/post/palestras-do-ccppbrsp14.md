@@ -5,7 +5,7 @@ categories: [ "blog" ]
 ---
 Esse sábado, dia 25/11/2017, teremos em São Paulo nosso 14o. encontro de programadores e aficionados C/C++. Teremos palestras do pessoal das antigas e de um pessoal novato. Ou seja, terá palestras para todos os gostos. As palestras foram selecionadas pela própria comunidade CCPP através de votação, e houve excesso de palestrantes. C++ está bombando!
 
-A programação já está disponível [no saite do Grupo CCPP](http://ccppbrasil.github.io/encontros/proximo/) já faz mais de um mês, mas estou publicando para a visibilidade de que está perto! Segue o que teremos:
+A programação já está disponível no saite do Grupo CCPP já faz mais de um mês, mas estou publicando para a visibilidade de que está perto! Segue o que teremos:
 
  - C++ dentro da publicidade, arquitetura e design, por Henrique Penteado Kujawski Périgo
  - Estilos de multitasking cooperativo, loop de eventos e programação assíncrona, por Vinícius dos Santos Oliveira

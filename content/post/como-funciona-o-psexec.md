@@ -3,11 +3,11 @@ date: "2008-10-29"
 title: Como funciona o PsExec
 categories: [ "code" ]
 ---
-Semana passada precisei reproduzir o comportamento da ferramenta PsExec em um projeto, o que me fez sentir alguma nostalgia dos tempos em que eu fazia [engenharia reversa](http://www.caloni.com.br/engenharia-reversa-para-idiotas) todo dia. Este breve relato (espero) reproduz os passos que segui para descobrir o que esse programa tão útil quanto perigoso faz.
+Semana passada precisei reproduzir o comportamento da ferramenta PsExec em um projeto, o que me fez sentir alguma nostalgia dos tempos em que eu fazia engenharia reversa reproduz os passos que segui para descobrir o que esse programa tão útil quanto perigoso faz.
 
 #### Dados conhecidos
 
-Sabe-se que o PsExec consegue **executar um programa remotamente**, ou seja, de uma máquina para outra, outra essa que chamaremos de **máquina-alvo**. O programa a ser executado geralmente deve estar disponível na própria máquina-alvo (condição ideal). Além da simples execução, para aplicativos console ele permite ainda a interação como se estivéssemos executando o programa remoto em nossa própria máquina local. Ele consegue isso redirecionando sua entrada e saída, o que o torna, como nos descreve [o próprio autor](http://technet.microsoft.com/en-us/sysinternals/bb897553.aspx), um "_telnet light_":
+Sabe-se que o PsExec consegue **executar um programa remotamente**, ou seja, de uma máquina para outra, outra essa que chamaremos de **máquina-alvo**. O programa a ser executado geralmente deve estar disponível na própria máquina-alvo (condição ideal). Além da simples execução, para aplicativos console ele permite ainda a interação como se estivéssemos executando o programa remoto em nossa própria máquina local. Ele consegue isso redirecionando sua entrada e saída, o que o torna, como nos descreve o próprio autor, um "_telnet light_":
 
     
     psexec \\maquina-alvo [-u admin-na-maquina-alvo] cmd.exe
@@ -27,21 +27,21 @@ No teste acima o **myprogram.exe** é somente o **cmd.exe** renomeado. Um teste 
 
 #### Primeiro passo: reproduzir o comportamento analisado e coletar pistas
 
-Já fizemos isso logo acima. Se trata apenas de observar o programa funcionando. Ao mesmo tempo em que entendemos seu _modus operandi_ coletamos pistas sobre suas entranhas. No caso do PsExec, que faz coisas além-mar, como redirecionar os _pipes_ de entrada/saída de um programa console, iremos checar a existência de algum serviço novo na máquina-alvo e arquivos novos que foram copiados, além de opcionalmente dar uma olhada no registro. Ferramentas da própria SysInternals como [Process Explorer](http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx) e [Process Monitor](http://technet.microsoft.com/en-us/sysinternals/bb896645.aspx) também são úteis nessa análise inicial.
+Já fizemos isso logo acima. Se trata apenas de observar o programa funcionando. Ao mesmo tempo em que entendemos seu _modus operandi_ coletamos pistas sobre suas entranhas. No caso do PsExec, que faz coisas além-mar, como redirecionar os _pipes_ de entrada/saída de um programa console, iremos checar a existência de algum serviço novo na máquina-alvo e arquivos novos que foram copiados, além de opcionalmente dar uma olhada no registro. Ferramentas da própria SysInternals como Process Explorer](http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx) e [Process Monitor também são úteis nessa análise inicial.
 
-![Serviço do PsExec criado na máquina-alvo.](http://i.imgur.com/lCf4KiT.png)
+!Serviço do PsExec criado na máquina-alvo.
 
 Como podemos ver, um serviço com o nome de PsExec foi criado na máquina-alvo. Se procurarmos saber o caminho do arquivo que corresponde a esse serviço, tanto pelo Process Explorer ou o Service Manager, descobriremos que se trata de um arquivo no diretório do windows chamado **psexecsvc.exe**.
 
-![Instalação do Serviço PsExec na máquina-alvo no registro do Windows.](http://i.imgur.com/qo6PZWS.png)
+!Instalação do Serviço PsExec na máquina-alvo no registro do Windows.
 
-![Arquivo do serviço do PsExec instalado na máquina-alvo na pasta c:\Windows.](http://i.imgur.com/2sSwUA9.png)
+!Arquivo do serviço do PsExec instalado na máquina-alvo na pasta c:\Windows.
 
 Se o arquivo existe nessa pasta, então é óbvio que alguém o copiou. Resta saber **como**.
 
 #### Segundo passo: acompanhar o processo lentamente
 
-Nessa segunda fase, podemos refazer o comportamento esperado inúmeras vezes, coletando dados e pensando a partir dos dados obtidos. Para esse caso,  como quase todos que analiso, vou usar o nosso amigo [WinDbg](http://www.caloni.com.br/brincando-com-o-windbg). Para isso, como tenho sempre minhas ferramentas disponíveis no ambiente onde trabalho, basta digitar "windbg" antes do comando anterior e **dar uma olhada em algumas APIs-chave**, como a criação/abertura de arquivos e a criação de serviços. Note que é importante fazer isso em um **escopo limitado** para não perdermos horas de análise. Descobrir coisas como, por exemplo, que as ações do PsExec só começam a ser executadas após a digitação da senha do usuário, pode ajudar, pois daí só começo minha análise a partir desse ponto.
+Nessa segunda fase, podemos refazer o comportamento esperado inúmeras vezes, coletando dados e pensando a partir dos dados obtidos. Para esse caso,  como quase todos que analiso, vou usar o nosso amigo WinDbg. Para isso, como tenho sempre minhas ferramentas disponíveis no ambiente onde trabalho, basta digitar "windbg" antes do comando anterior e **dar uma olhada em algumas APIs-chave**, como a criação/abertura de arquivos e a criação de serviços. Note que é importante fazer isso em um **escopo limitado** para não perdermos horas de análise. Descobrir coisas como, por exemplo, que as ações do PsExec só começam a ser executadas após a digitação da senha do usuário, pode ajudar, pois daí só começo minha análise a partir desse ponto.
 
     
     windbg psexec \\maquina-alvo -u admin cmd.exe
@@ -106,7 +106,7 @@ Nessa segunda fase, podemos refazer o comportamento esperado inúmeras vezes, co
     001225d8 0034002e 0x30002e
     001225dc 00000000 0x34002e
 
-Uma [rápida busca no Google](http://www.google.com/search?q=\\.\PIPE\wkssvc) nos informa que o _pipe _querendo ser aberto pertence à lista de _pipes _que estão sempre disponíveis nas máquinas para responder às requisições do sistema. São importantes para a **comunicação entre processos** (IRP, _Inter Process Communication_). No entanto, quem usa esse pipe é o sistema, e ele foi chamado, como pudemos ver, pela função [WNetAddConnection2W](http://msdn.microsoft.com/en-us/library/aa385413(VS.85).aspx).
+Uma rápida busca no Google](http://www.google.com/search?q=\\.\PIPE\wkssvc) nos informa que o _pipe _querendo ser aberto pertence à lista de _pipes _que estão sempre disponíveis nas máquinas para responder às requisições do sistema. São importantes para a **comunicação entre processos** (IRP, _Inter Process Communication_). No entanto, quem usa esse pipe é o sistema, e ele foi chamado, como pudemos ver, pela função [WNetAddConnection2W.
 
 Se analisarmos mais a fundo a pilha de chamadas conseguiremos dar um olhada nos parâmetros passados. Para isso existe a opção de mostrar os argumentos passados para as funções ao exibir a pilha:
 
@@ -187,11 +187,11 @@ Muito bem! Chegamos a mais um ponto importante de nossa análise: o psexecsvc.ex
 
 Também podemos notar que, enquanto estamos parados depurando o processo psexec.exe, temos acesso ao compartilhamento admin$:
 
-![Compartilhamento admin$ disponível enquanto depuramos o PsExec.](http://i.imgur.com/vBGHXoC.png)
+!Compartilhamento admin$ disponível enquanto depuramos o PsExec.
 
 A análise desses fatos demonstra como é importante fazer as coisas, pelo menos na fase "iniciante",  bem lentamente, e entender a **mudança de estado** durante o processo. Nem sempre isso é possível, é verdade, ainda mais quando estamos falando de análise de kernel. Mas, quando as condições permitem, vale a pena pensar antes de fazer.
 
-Voltando à analise: temos direitos remotos nessa máquina. Dessa forma, fica fácil [criar um serviço](http://msdn.microsoft.com/en-us/library/ms682450(VS.85).aspx) remotamente, que é o que faz o nosso amigo PsExec:
+Voltando à analise: temos direitos remotos nessa máquina. Dessa forma, fica fácil criar um serviço remotamente, que é o que faz o nosso amigo PsExec:
 
     
     0:000> g

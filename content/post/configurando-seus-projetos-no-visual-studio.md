@@ -11,15 +11,15 @@ Porém, seus "poroberemas se acabaram-se". Com o inovador configurador de projet
 
 Inicialmente, se compilarmos um programa em Debug no Visual Studio 2005 teremos as seguintes dependências:
 
-[![Dependências do Hello, World](http://i.imgur.com/zobevmj.png)](/images/hello-world-depends.png)
+!Dependências do Hello, World
 
 A DLL **kernel32** é nativa e sempre estará presente no Windows. Porém, a **msvcr80d** não. Ela veio junto com o pacote do Visual Studio, e se não for distribuída em outras máquinas, você não conseguirá rodar seu programa, pois isso gerará o seguinte erro:
 
-[![Erro de dependência por causa da DLL do Visual Studio](http://i.imgur.com/Kbd7qrR.png)](/images/hello-world-error-depends.png)
+!Erro de dependência por causa da DLL do Visual Studio
 
 Bem, para resolver isso, a partir da IDE, temos que ir em Project, Properties, Configuration Properties, C/C++, Code Generation, Runtime Library.
 
-[![Code Generation](http://i.imgur.com/oUXU9Dc.png)](/images/vs-code-generation.png)
+!Code Generation
 
 Existem atualmente quatro tipos de _runtime_ que você pode escolher:
 
@@ -41,18 +41,18 @@ Note que, por padrão, existem dois tipos de configuração em seu projeto: Debu
 
 Pois bem. Para tirar a dependência da maldita DLL, tudo que temos que fazer é alterar a configuração, nesse caso Debug, de /MDd para /MTd. E recompilar.
 
-[![Dependências do Hello, World - parte 2](http://i.imgur.com/UAr4ynG.png)](/images/hello-world-depends2.png)
+!Dependências do Hello, World - parte 2
 
 E testar.
 
-[![Execução do Hello World com sucesso, sem dependências.](http://i.imgur.com/sMBKol2.png)](/images/hello-world-success.png)
+!Execução do Hello World com sucesso, sem dependências.
 
 #### Problemas com manifesto
 
 Além da dependência de DLLs, alguns casos especiais vão chiar por causa dos dados do manifesto embutidos no programa compilado. Por algum motivo que eu desconheço, o programa necessita que as DLLs estejam instaladas mesmo que no Dependency Walker não mostre nada. Nesses casos, uma arrancada do manifesto na versão Debug não fará mal algum.
 
-[![Manifesto Settings](http://i.imgur.com/aA8iSA5.png)](/images/manifesto-settings.png)
+!Manifesto Settings
 
 #### Mais problemas?
 
-Acho que esses são os únicos empecilhos iniciais para testar seu programa em outras máquinas. Sempre que ver o erro exibido no começo desse artigo, desconfie de alguma dependência que não está presente na máquina. Nessas horas, ter um [Dependency Walker](http://www.dependencywalker.com/) na mão vale ouro.
+Acho que esses são os únicos empecilhos iniciais para testar seu programa em outras máquinas. Sempre que ver o erro exibido no começo desse artigo, desconfie de alguma dependência que não está presente na máquina. Nessas horas, ter um Dependency Walker na mão vale ouro.

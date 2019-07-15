@@ -3,9 +3,9 @@ date: "2007-12-31"
 title: 'Gambi do dia: swap com apenas duas variáveis'
 categories: [ "blog" ]
 ---
-<blockquote>_Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência no [formulário de contato](http://www.caloni.com.br/contato) do sítio. Boa leitura!_</blockquote>
+<blockquote>_Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência no formulário de contato do sítio. Boa leitura!_</blockquote>
 
-Essa interessantíssima questão veio do meu amigo [Kabloc](http://www.kabloc.com.br/): como trocar o valor entre duas variáveis do tipo int **sem utilizar uma variável intermediária**? O algoritmo ordinário para um _swap_ entre tipos inteiros é:
+Essa interessantíssima questão veio do meu amigo Kabloc: como trocar o valor entre duas variáveis do tipo int **sem utilizar uma variável intermediária**? O algoritmo ordinário para um _swap_ entre tipos inteiros é:
 
 ```cpp
 /** Troca o valor entre duas variáveis inteiras. Ou seja, ao final da função
@@ -160,4 +160,4 @@ int main()
     first: 13, second: 42
     first: 42, second: 13
 
-Bom, preciso dizer que isso é uma gambi das grossas? Preciso dizer que **NÃO** uso isso no meu dia a dia, até porque _swap_ é uma função [já consagrada da STL](http://msdn.microsoft.com/library/en-us/vcstdlib/%20html/vclrfSwap_map.asp)? Não? Então sem _Postscript _dessa vez. E sem [bois-cornetas](http://www.google.com.br/search?q=boi+corneta+site%3Asualingua.com.br) =).
+Bom, preciso dizer que isso é uma gambi das grossas? Preciso dizer que **NÃO** uso isso no meu dia a dia, até porque _swap_ é uma função já consagrada da STL](http://msdn.microsoft.com/library/en-us/vcstdlib/%20html/vclrfSwap_map.asp)? Não? Então sem _Postscript _dessa vez. E sem [bois-cornetas.

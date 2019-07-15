@@ -3,29 +3,29 @@ date: "2009-09-09"
 title: 'O boot no Windows: pré-NTLDR'
 categories: [ "code" ]
 ---
-Conforme fui estudando para recordar os momentos sublimes do boot do Windows me deparei com o artigo mais "espetaculoso" de todos os tempos sobre esse assunto, parte integrante do livro [Windows Internals](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=Windows+Internals&site_origem=1293522) e escrito pelo nada mais nada menos Mark Russinovich: **Boot Process**, no capítulo 5, "Startup and Shutdown".
+Conforme fui estudando para recordar os momentos sublimes do boot do Windows me deparei com o artigo mais "espetaculoso" de todos os tempos sobre esse assunto, parte integrante do livro Windows Internals e escrito pelo nada mais nada menos Mark Russinovich: **Boot Process**, no capítulo 5, "Startup and Shutdown".
 
-O meu [primeiro artigo](http://www.caloni.com.br/o-boot-no-windows-sem-windows) sobre o boot sem Windows foi 80% escrito com o que eu já sabia de cabeça de tanto [mexer na MBR](http://www.caloni.com.br/depuracao-da-mbr)  e de tanto [depurar o processo de boot em 16 bits](http://www.caloni.com.br/debug-da-bios-com-o-softice-16-bits). Os artigos posteriores seriam escritos com uma pitada do que sei mais a "inspiração" da minha pesquisa. Apesar de não parecer pouco para os que não sabem inglês, deixa a desejar para os que sabem (boa parte dos meus leitores, imagino).
+O meu primeiro artigo](http://www.caloni.com.br/o-boot-no-windows-sem-windows) sobre o boot sem Windows foi 80% escrito com o que eu já sabia de cabeça de tanto mexer na MBR  e de tanto [depurar o processo de boot em 16 bits.
 
 Nesse caso decidi salpicar a explicação com uma boa dose de _reversing_ para aproveitarmos a caminhada e fuçarmos um pouco no funcionamento interno dos componentes de boot e ver no que dá. Antes de começar, porém, aviso que este não é um tratado sobre o sistema de boot. Eu diria que é apenas o resultado de algumas mexidas inconsequentes pelo _disassembly _do código de boot. Espero encontrar alguém tão curioso (ou mais) do que eu que compartilhe o que achou de todo esse processo. Antes de mais nada um mapinha para vermos até onde chegamos:
 
-[](http://i.imgur.com/MfxtBx5.png)
 
-[![boot-map.png](http://i.imgur.com/MfxtBx5.png)](/images/boot-map.png)
+
+!boot-map.png
 
 Pelo visto esse foi só o começo. O próximo passo é saber como do setor de boot chegamos ao NTLDR. O que não é nenhum segredo, uma vez que o NTLDR é um arquivo que fica na pasta raiz do sistema de arquivos. Como todos sabemos, qualquer assembly 16 bits de 400 bytes de tamanho consegue ler um arquivo de 250 KB na memória e executá-lo.
 
-![boot-components.png](http://i.imgur.com/YSNdf8w.png)
+!boot-components.png
 
 Se o NTLDR não conseguir ser encontrado, o seguinte erro será exibido:
 
-![error-ntldr-missing.png](http://i.imgur.com/JNekHia.png)
+!error-ntldr-missing.png
 
 Que usuário merece ver isso?
 
-Bom, se ele soubesse analisar o assembly do setor de boot, seria fácil entender essa mensagem. E analisar o assembly é simples demais, quase tão simples quanto entender a mensagem acima. Tudo que precisamos é do programa **Debug 16 bits**, como o que já vem com o Windows ou [aquele mais turbinado d](http://www.freedos.org/cgi-bin/lsm.cgi?mode=lsm&lsm=base/debug.lsm)[o FreeDOS](http://www.freedos.org/cgi-bin/lsm.cgi?mode=lsm&lsm=base/debug.lsm).
+Bom, se ele soubesse analisar o assembly do setor de boot, seria fácil entender essa mensagem. E analisar o assembly é simples demais, quase tão simples quanto entender a mensagem acima. Tudo que precisamos é do programa **Debug 16 bits**, como o que já vem com o Windows ou aquele mais turbinado d](http://www.freedos.org/cgi-bin/lsm.cgi?mode=lsm&lsm=base/debug.lsm)[o FreeDOS.
 
-Podemos usar o Debug 16 bits para abrir o setor de boot salvo em algum arquivo e analisá-lo. Esse "salvo em algum arquivo" nós podemos obter usando o [HxD](http://mh-nexus.de/en/hxd/), um sofware bom demais que eu uso quase todos os dias da minha vida, ou para analisar os primeiros setores do disco ou ler arquivos binários que caem na minha caixa de e-mails.
+Podemos usar o Debug 16 bits para abrir o setor de boot salvo em algum arquivo e analisá-lo. Esse "salvo em algum arquivo" nós podemos obter usando o HxD, um sofware bom demais que eu uso quase todos os dias da minha vida, ou para analisar os primeiros setores do disco ou ler arquivos binários que caem na minha caixa de e-mails.
 
 Eu não vou explicar como salvar um setor do disco em um arquivo. Pelamordedeus, isso é fácil demais. É só fuçar que se acha um jeito.
 
@@ -37,15 +37,15 @@ Se bem que, como esse é um quase-tutorial, vão abaixo apenas algumas dicas:
 
 (3) existe um campo onde é possível obter o offset de onde está o primeiro setor dessa partição (em setores);
 
-![finding-part-boot.png](http://i.imgur.com/EfbrmZd.png)
+!finding-part-boot.png
 
 (4) uma simples conversão de Little Endian e de hexadecimal para decimal nos retorna o número do setor que precisamos;
 
-![converting-setor.png](http://i.imgur.com/qSx2aLD.png)
+!converting-setor.png
 
 (5) o próprio HxD nos consegue levar para esse setor, de onde podemos selecioná-lo e salvá-lo em um arquivo!
 
-![first-partition-sector.png](http://i.imgur.com/mZoLCyZ.png)
+!first-partition-sector.png
 
 Isso é tudo o que você precisa para fazer engenharia reversa do setor de boot. Bom divertimento!
 
@@ -152,9 +152,9 @@ A segunda forma de análise que exixte é para os preguiçosos que não consegue
 
 Se fuçarmos por um tempo esse código podemos encontrar várias coisas interessantes, como por exemplo a mensagem que é exibida quando o setor de boot não contém a assinatura padrão 0x55 0xAA em seu final:
 
-![error-checking-part-sect-signature.png](http://i.imgur.com/7dZZZag.png)
+!error-checking-part-sect-signature.png
 
- Outra coisa interessante é encontrar a sub-rotina que carrega blocos e blocos de conteúdo do disco na memória, utilizando-se para isso da [interrupção 0x13 função 0x42](http://www.ctyme.com/intr/rb-0708.htm): a leitura estendida!
+ Outra coisa interessante é encontrar a sub-rotina que carrega blocos e blocos de conteúdo do disco na memória, utilizando-se para isso da interrupção 0x13 função 0x42: a leitura estendida!
 
     
     ; Leitura de blocos bem grandes no disco

@@ -17,6 +17,6 @@ Além disso, pequenos truques de magia como fotos e quadros animados e escadaria
 
 Todas essas novas experiências são cercadas por um mistério envolvendo inimigos do bruxinho e uma história de vingança. Hoje ela é conhecida por todos, mas hoje também os filmes infantis são inofensivos, o que os tornam facilmente esquecidos. Aqui a morte passa próximo das crianças, e é isso que nos faz levar a aventura a sério.
 
-Ainda assim, a direção de Chris Columbus ([Esqueceram de Mim](/esqueceram-de-mim)) e a trilha sonora de John Williams (que cria o memorável tema da série) abraçam o caráter infantil desse primeiro trabalho cinematográfico da série de livros. As cores são muito vivas, e jogar quadribol voando em vassouras, apesar de arriscado, é uma atividade colorida e lúdica. Também o são as criaturas mágicas que habitam o castelo de Hogwarts e sua floresta.
+Ainda assim, a direção de Chris Columbus (Esqueceram de Mim abraçam o caráter infantil desse primeiro trabalho cinematográfico da série de livros. As cores são muito vivas, e jogar quadribol voando em vassouras, apesar de arriscado, é uma atividade colorida e lúdica. Também o são as criaturas mágicas que habitam o castelo de Hogwarts e sua floresta.
 
 Eis um filme que consegue empolgar criança e adulto. Criança porque quem não adoraria viver um mundo onde a magia, além de realidade, é um mundo cercado de mistérios? E adulto porque quem não adoraria voltar a ser criança em uma versão mágica e livre das leis da física? Eu estou na fila.

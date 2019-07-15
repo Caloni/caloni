@@ -3,21 +3,21 @@ date: "2008-10-15"
 title: Como usar WTL com o ATL do DDK
 categories: [ "blog" ]
 ---
-[![wdkandatl.png](http://i.imgur.com/OoiV6X7.png)](/images/wdkandatl.png)Eu simplemente não entendo a organização dos cabeçalhos e fontes dos SDKs da Microsoft. Houve uma vez em que o [ATL](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_ATL) era distribuído junto com o SDK, e dessa forma conseguíamos usar o [WTL](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_wtl) sem ônus. Porém, um belo dia, isso é retirado do pacote, para tristeza dos que já haviam convertido a biblioteca de janelas para fonte aberto.
+!wdkandatl.png](http://i.imgur.com/OoiV6X7.png)](/images/wdkandatl.png)Eu simplemente não entendo a organização dos cabeçalhos e fontes dos SDKs da Microsoft. Houve uma vez em que o [ATL era distribuído junto com o SDK, e dessa forma conseguíamos usar o [WTL sem ônus. Porém, um belo dia, isso é retirado do pacote, para tristeza dos que já haviam convertido a biblioteca de janelas para fonte aberto.
 
-No entanto, num belo dia, qual não foi minha surpresa ao notar [umas pastinhas](http://i.imgur.com/OoiV6X7.png) chamadas atl21, atl30 e atl71 dentro da distribuição do WDK (o finado DDK, renomeado sabe-se-lá-por-quê)? Pelo visto, tem alguém arrastando coisa errada pra onde não devia nos instaladores de Seattle. Esses estagiários!
+No entanto, num belo dia, qual não foi minha surpresa ao notar umas pastinhas? Pelo visto, tem alguém arrastando coisa errada pra onde não devia nos instaladores de Seattle. Esses estagiários!
 
 O fato é que eles fizeram isso, e agora é possível ter o WTL mais novo compilado com o WDK. E nem é tão difícil assim.
 
-A primeira coisa a fazer é obter o tal doWDK. Para variar um pouco, agora existe um [processo de registro](http://www.microsoft.com/whdc/DevTools/WDK/WDKpkg.mspx) antes de obter acesso ao _download_, mais ou menos nos termos da Borland para baixar o [Builder](http://cc.codegear.com/free/turbo) / [Turbo](http://cc.codegear.com/free/turbo) / [Developer Studio](http://cc.codegear.com/free/turbo).
+A primeira coisa a fazer é obter o tal doWDK. Para variar um pouco, agora existe um processo de registro](http://www.microsoft.com/whdc/DevTools/WDK/WDKpkg.mspx) antes de obter acesso ao _download_, mais ou menos nos termos da Borland para baixar o Builder](http://cc.codegear.com/free/turbo) / [Turbo / [Developer Studio.
 
 <blockquote>Aliás, para os que baixaram esses produtos gratuitos da Borland versão C++ e não funcionou em algumas máquinas, como foi o meu caso, está disponível para baixar uma versão mais nova; dessa vez não vi nenhum problema na compilação e depuração. Ainda.</blockquote>
 
-Após instalado, em qualquer lugar da sua escolha, configure no seu [Visual Studio Express](http://www.microsoft.com/Express/) o caminho de onde se encontra a pasta atl71 (ou a 30, ou a 21). Aproveite também para colocar a pasta do WTL e o diretório de LIBs:
+Após instalado, em qualquer lugar da sua escolha, configure no seu Visual Studio Express. Aproveite também para colocar a pasta do WTL e o diretório de LIBs:
 
-![Configurando o diretório de cabeçalhos no Visual Studio.](http://i.imgur.com/TJyNrlE.png)
+!Configurando o diretório de cabeçalhos no Visual Studio.
 
-![Configurando o diretório de biblioteca no Visual Studio.](http://i.imgur.com/VLryS9L.png)
+!Configurando o diretório de biblioteca no Visual Studio.
 
 Isso vai fazer com que pelo menos os exemplos que vêem com o WTL compilem.
 
@@ -91,8 +91,8 @@ E pronto! Agora temos todo o poder das 500 milhões de classes da ATL aliadas à
 #### Para aprender a usar WTL
 
 	
-  * [Explicando a sopa de letrinhas da programação C/C++ para Windows: WTL](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_wtl)
+  * Explicando a sopa de letrinhas da programação C/C++ para Windows: WTL
 
 	
-  * [WTL for MFC Programmers](http://www.codeproject.com/KB/wtl/wtl4mfc1.aspx)
+  * WTL for MFC Programmers
 

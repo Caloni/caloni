@@ -3,7 +3,7 @@ date: "2008-06-10"
 title: Guia básico de repositórios no Bazaar
 categories: [ "code" ]
 ---
-Alguns conceitos-chave antes de trabalhar com o [Bazaar](http://bazaar-vcs.org/) são:
+Alguns conceitos-chave antes de trabalhar com o Bazaar são:
 
 	
   * _**Revision**_ (Revisão). Um snapshot dos arquivos que você está trabalhando.
@@ -119,7 +119,7 @@ Criar um novo _branch_ totalmente duplicado pode se tornar um desperdício enorm
 
 Se compararmos o tamanho, veremos que o repositório compartilhado é que detém a maior parte dos arquivos, enquanto agora o ".bzr" que está na pasta do projeto possui apenas dados de controle. A mesma coisa irá acontecer com qualquer branch criado dentro da pasta de repositório compartilhado.
 
-![bzr-space-tests.png](http://i.imgur.com/chke8un.png)![bzr-space-project1.png](http://i.imgur.com/YOMREEh.png)
+!bzr-space-tests.png](http://i.imgur.com/chke8un.png)![bzr-space-project1.png
 
 Mas já criamos nossos dois branches cheios de arquivos, certo? Certo. Como já fizemos isso, devemos criar uma nova pasta como repositório compartilhado e criar dois novos branches dentro dessa pasta, cópias dos dois branches gordinhos:
 
@@ -138,7 +138,7 @@ Isso irá recriar esses dois branches como os originais, mas com a metade do esp
 
 #### E o tal do SubVersion?
 
-O [SubVersion](http://subversion.tigris.org/) é um sistema de controle centralizado. O Bazaar consegue se comportar exatamente como o SubVersion, além de permitir carregar o histórico inteiro consigo. Quem decide como usá-lo é apenas você, pois cada usuário do sistema tem a liberdade de escolher a melhor maneira.
+O SubVersion é um sistema de controle centralizado. O Bazaar consegue se comportar exatamente como o SubVersion, além de permitir carregar o histórico inteiro consigo. Quem decide como usá-lo é apenas você, pois cada usuário do sistema tem a liberdade de escolher a melhor maneira.
 
 Os comandos para usar o Bazaar à SubVersion são os mesmos do SubVersion: checkout e commit. No entanto, um checkout irá fazer com que seu commit crie a nova revisão primeiro no seu servidor (branch principal) e depois localmente. Se você não deseja criar um histórico inteiro localmente, pode criar um checkout leve (parâmetro --lightweight), que apenas contém arquivos de controle. No entanto, se o servidor de fontes não estiver disponível, você não será capaz de ações que dependam dele, como ver o histórico ou fazer commits.
 
@@ -170,10 +170,10 @@ Na verdade, o Bazaar vai além, e permite que um branch/checkout específico sej
 #### Mais detalhes
 
 	
-  * [Bazaar User Guide](http://doc.bazaar-vcs.org/bzr.dev/en/user-guide/)
+  * Bazaar User Guide
 
 #### Mais detalhes ainda
 
 	
-  * [Bazaar User Reference](http://doc.bazaar-vcs.org/bzr.dev/en/user-reference/bzr_man.html)
+  * Bazaar User Reference
 

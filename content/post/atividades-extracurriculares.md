@@ -23,7 +23,7 @@ De acordo com ele, o programador não consegue viver sem lógica, e quando tenta
 
 Já fiz duas dessas coisas divertidíssimas em minha tenra idade: contar binário enquanto varria o laboratório onde trabalhava, programar em papel numa noite que fiquei ao relento por ter perdido o busão. Não faço mais essas coisas. Agora eu sou fresco. "Programo em UML".
 
-Primeiro, de que lógica estamos falando? Existem [diversas lógicas](http://pt.wikipedia.org/wiki/L%C3%B3gica) e existe a intuição, lado importante e muitas vezes renegado, mas presente no cinto de utilidades. É só saber usar. Seja um, seja outro.
+Primeiro, de que lógica estamos falando? Existem diversas lógicas e existe a intuição, lado importante e muitas vezes renegado, mas presente no cinto de utilidades. É só saber usar. Seja um, seja outro.
 
 Segundo, o cérebro pode cair na vadiagem. Aliás, ele deve. Sem vadiagem, nunca conseguimos processar aquelas threads que ficam rodando em idle, no inconsciente, e que podem resolver uma série de questões que ficam ensebando em nossos conturbados egos. É como o copo cheio de água em Karate Kid (ou em "2012").
 
@@ -34,10 +34,10 @@ Independente do método empregado, nunca visualize seus esforços com ceticismo,
 O que eu adicionaria na lista?
 
 	
-  * [Assistir CSI](http://www.caloni.com.br/csi-crashed-server-investigation). Pra entender o uso prático dos métodos indutivo e dedutivo de raciocínio; mais indutivo.
+  * Assistir CSI. Pra entender o uso prático dos métodos indutivo e dedutivo de raciocínio; mais indutivo.
 
 	
-  * [Assistir House](http://www.caloni.com.br/house). Nunca é demais se imaginar como o médico-louco que cura todas as doenças esquisitas; doença aqui é bug.
+  * Assistir House. Nunca é demais se imaginar como o médico-louco que cura todas as doenças esquisitas; doença aqui é bug.
 
 	
   * Assistir Dexter. Veja como ele faz o seu trabalho seguindo sempre o mesmo método e deixando o ambiente limpinho, sem nenhuma pista.

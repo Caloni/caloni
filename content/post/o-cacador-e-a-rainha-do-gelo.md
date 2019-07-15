@@ -13,7 +13,7 @@ Jessica Chainstain, apesar de boazuda, fala que o Thor envelheceu, mas é ela qu
 
 Porém, pelo resto das suas quase duas horas é um marasmo sem fim acompanhar os mesmos personagens realizando um trajeto seguro, sem riscos, apenas pelo dim-dim. Vemos o casal apaixonado se reencontrando. Chainstain não consegue convencer (e quem conseguiria?) que eles irão ficar separados porque ela acredita que ele o abandonou. Nem plot de novela é mais tão ruim hoje em dia.
 
-Por outro lado, Emily Blunt como Rainha do Gelo é tão risível que até as bruxas de [Oz Mágico e Poderoso](/oz-magico-e-poderoso) se saíram melhor. Ela apenas exibe um doce olhar enquanto aguardamos a vinda da estonteante Theron.
+Por outro lado, Emily Blunt como Rainha do Gelo é tão risível que até as bruxas de Oz Mágico e Poderoso se saíram melhor. Ela apenas exibe um doce olhar enquanto aguardamos a vinda da estonteante Theron.
 
 Já Thor, quer dizer, Chris Hemsworth, continua com um bom timing cômico e seu jeito falastrão. Mas você acredita que o roteiro da dupla Spiliotopoulos e Mazin não conseguem tirar uma sacada engraçada do personagem?
 

@@ -25,7 +25,7 @@ Uma das piores. A expressividade sugerida é apenas blá-blá-blá de negócios.
 
 #### Comunicação entre sistemas - você está fazendo isso errado!
 
-Acho que a única palestra simpática do dia, com Anderson Casimiro, da comunidade [C/C++ Brasil](https://groups.google.com/forum/#!forum/ccppbrasil). Casimiro nos dá um panorama real de como a comunicação entre sistemas evoluiu e como tudo é mais simples que parece do que a sopa de letrinhas que tivemos que engolir nas últimas décadas. Desde a passagem de informação via arquivo gerado em uma pasta até a API rígida e tipada do Facebook, passando por REST, o resultado é uma viagem no tempo que nos entrega várias opções interessantes de comunicação e as explica em um linguajar mais simples. A comunidade não pareceu responder muito bem, sem ter muita noção de humor técnico e deixando Anderson em uma saia justa que não correspondeu ao que ele esperava.
+Acho que a única palestra simpática do dia, com Anderson Casimiro, da comunidade C/C++ Brasil. Casimiro nos dá um panorama real de como a comunicação entre sistemas evoluiu e como tudo é mais simples que parece do que a sopa de letrinhas que tivemos que engolir nas últimas décadas. Desde a passagem de informação via arquivo gerado em uma pasta até a API rígida e tipada do Facebook, passando por REST, o resultado é uma viagem no tempo que nos entrega várias opções interessantes de comunicação e as explica em um linguajar mais simples. A comunidade não pareceu responder muito bem, sem ter muita noção de humor técnico e deixando Anderson em uma saia justa que não correspondeu ao que ele esperava.
 
 ### Happy Hour
 

@@ -11,7 +11,7 @@ Until some time ago the web was not so good for shortcut users. So came out **Go
 
 **Experimental Search**
 
-Even being in test, I began to use the new keyboard shortcuts in Google search, available in the [Google Experimental Search](http://www.google.com/experimental/) website. Until now there is shortcuts for **next result (J), previous result (K), opening the search (O or <Enter>) and putting the cursor in the search box (/)**. It is just like Gmail and Google Reader. I was so excited with the idea that I changed the Google search plugin inside Firefox by myself. And now I'm going to tell how to do it (note: Windows only).
+Even being in test, I began to use the new keyboard shortcuts in Google search, available in the Google Experimental Search.
 
 **Putting Google search shortcuts inside Firefox**
 

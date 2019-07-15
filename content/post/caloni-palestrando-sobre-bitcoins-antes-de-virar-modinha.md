@@ -7,7 +7,5 @@ Naquela época o bitcoin estava oscilando entre 3000 e 5000 reais. Dá pra acred
 
 Essa minha palestra foi ministrada no Native Floripa 2017, no comecinho daquele ano acho. Faz algum tempo, então não me lembro direito, mas foi um dos eventos mais legais que participei. Boa estrutura e ótima companhia.
 
-Segue o link (ou o vídeo embutido, vamos ver):
-
-<div class="auto-resizable-iframe"><div><iframe frameborder="0" allowfullscreen="1" src="https://www.youtube.com/embed/3CP7mBmXTu4"></iframe></div></div>
+Segue o link: https://www.youtube.com/embed/3CP7mBmXTu4
 

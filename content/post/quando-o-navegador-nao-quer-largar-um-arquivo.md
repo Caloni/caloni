@@ -3,7 +3,7 @@ date: "2008-08-13"
 title: Quando o navegador não quer largar um arquivo
 categories: [ "blog" ]
 ---
-De vez em quando gosto muito de um vídeo que estou assistindo. Gosto tanto que faço questão de guardar para assistir mais vezes depois. O problema é que o meu Firefox ou, para ser mais técnico, o _plugin_ de vídeo que roda em cima do meu navegador, não permite isso. Ele simplesmente cria um arquivo temporário para exibir o vídeo e logo depois o apaga, utilizando uma técnica muito útil da função [CreateFile](http://msdn.microsoft.com/en-us/library/aa363858.aspx), que bloqueia o acesso do arquivo temporário e apaga-o logo após o uso:
+De vez em quando gosto muito de um vídeo que estou assistindo. Gosto tanto que faço questão de guardar para assistir mais vezes depois. O problema é que o meu Firefox ou, para ser mais técnico, o _plugin_ de vídeo que roda em cima do meu navegador, não permite isso. Ele simplesmente cria um arquivo temporário para exibir o vídeo e logo depois o apaga, utilizando uma técnica muito útil da função CreateFile, que bloqueia o acesso do arquivo temporário e apaga-o logo após o uso:
 
     
     HANDLE WINAPI CreateFile(
@@ -80,7 +80,7 @@ Nesse momento podemos dar uma boa olhada nos parâmetros 4 e 6 da função para 
 
 Como podemos ver, o modo de compartilhamento do arquivo é nenhum. Entre os flags definidos no sexto parâmetro, está o de apagar o arquivo ao fechar o handle, como pude constatar no header do SDK:
 
-![createfileflags.png](http://i.imgur.com/mWiWXuh.png)
+!createfileflags.png
 
 Nesse caso, a solução mais óbvia e simples foi deixar esse bit desabilitado, não importando se o modo de compartilhamento está desativado. Tudo que temos que fazer é assistir o vídeo mais uma vez e fechar a aba do navegador. O arquivo será fechado, o compartilhamento aberto, e o arquivo, não apagado.
 

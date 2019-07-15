@@ -24,6 +24,6 @@ int main()
 
 Para isso funcionar você criar um projeto console no Visual Studo. Essa opção está no Linker, System:
 
-![](https://i.imgur.com/uWYtwqL.png)
+!
 
 E voilà!

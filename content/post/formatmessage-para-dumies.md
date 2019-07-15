@@ -3,9 +3,9 @@ date: "2010-10-26"
 title: FormatMessage para... dumies?
 categories: [ "code" ]
 ---
-[![Peixe Gelatinoso Bizarro do Brasil (conhece esse país?)](http://i.imgur.com/8ZZjHlM.jpg)](http://www.caloni.com.br/blog/formatmessage-para-dumies/peixe-gelatinoso-bizarro-do-brasil-conhece-esse-pais/)
+!Peixe Gelatinoso Bizarro do Brasil (conhece esse país?)
 
-Já foi comentado em alguns círculos de ótimos programadores que a função da Win32 API [FormatMessage](http://msdn.microsoft.com/en-us/library/ms679351%28VS.85%29.aspx) é uma das criaturas mais bizarras já criadas.
+Já foi comentado em alguns círculos de ótimos programadores que a função da Win32 API FormatMessage é uma das criaturas mais bizarras já criadas.
 
 O objetivo da FormatMessage é formatar uma string, assim como sprintf, mas voltado mais a escrever uma descrição de um código de erro. Sendo assim ela é essencial para que o usuário não receba um número no lugar de uma explicação de por que a operação falhou.
 
@@ -30,11 +30,11 @@ O resto da função funciona mais ou menos como o sprintf, cuspindo a mensagem-m
 
 #### Flags
 
-As flags do parâmetro dwFlags mudam radicalmente o funcionamento da rotina, o que me lembra de outra figura bizarra: o [realloc da biblioteca padrão](http://www.cplusplus.com/reference/clibrary/cstdlib/realloc/).
+As flags do parâmetro dwFlags mudam radicalmente o funcionamento da rotina, o que me lembra de outra figura bizarra: o realloc da biblioteca padrão.
 
 No caso do FormatMessage, a variável dwFlags se divide em dois para especificar dois grupos de opções distintos. A parte maior contém as opções armazenadas tradicionalmente como um mapa de bits, enquanto o byte menos significativo define como será tratada a saída final, com respeito às novas linhas e qual será a largura máxima de uma linha na saída.
 
-[![Flags para FormatMessage](http://i.imgur.com/8nKXyBs.png)](http://www.caloni.com.br/blog/formatmessage-para-dumies/peixe-gelatinoso-bizarro-do-brasil-conhece-esse-pais/)
+!Flags para FormatMessage
 
 #### Source
 
@@ -197,6 +197,6 @@ int CALLBACK wWinMain(HINSTANCE, HINSTANCE, PWSTR errNumberStr, int)
 
 ```
 
-![Saída do nosso projetinho](http://i.imgur.com/rnrw5UN.png)
+!Saída do nosso projetinho
 
 Existem milhares de forma de usar essa função, como você deve ter percebido pelos parâmetros. Não seja tímido: se você conhece algum truquezinho esperto e quer compartilhar com os usuários da FormatMessage, essa é a hora!

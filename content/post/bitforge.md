@@ -12,7 +12,3 @@ A BitForge é uma empresa de especialistas em software que já ajudou dezenas de
 Nosso foco é oferecer consultoria e suporte especializado para ajudar sua empresa com problemas técnicos que parecem insolúveis.
 
 Contamos com know-how completo em sistemas operacionais Linux e MS Windows, e nas linguagens C/C++/C#, Python, Java, Rust e até Assembly!
-
-Se quiser saber mais sobre a empresa BitForge, <a href="http://www.bitforge.com.br">clique aqui</a>.
-
-Se quiser saber mais sobre o autor deste blogue, <a href="/sobre">clique aqui</a>.

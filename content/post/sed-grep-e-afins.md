@@ -22,7 +22,7 @@ Existem algumas ferramentas que já salvaram minha vida uma dúzia de vezes e de
 	
   * **Sort**. Use esta se quiser **ordenar** qualquer coisa da entrada padrão (inclusive arquivos, conjunto de arquivos...).
 
-<blockquote>_Essas ferramentas são nativas do ambiente Linux, mas podem ser instaladas no Windows através do [Cygwin](http://cygwin.com/), do [Mingw ](http://www.mingw.org/)ou nativamente através das ferramentas [GnuWin32](http://gnuwin32.sourceforge.net/)._</blockquote>
+<blockquote>_Essas ferramentas são nativas do ambiente Linux, mas podem ser instaladas no Windows através do Cygwin](http://cygwin.com/), do Mingw ou nativamente através das ferramentas [GnuWin32._</blockquote>
 
 O que eu queria era processar a saída de um programa de forma que eu tivesse a lista de todas as extensões dos arquivos. Por exemplo, para a seguinte entrada:
 
@@ -41,9 +41,9 @@ Eu gostaria de uma saída no seguinte formato:
 
 Basicamente é isso.
 
-Sabendo que **processamento de entrada** estaria envolvido, logo pensei em utilizar o sed para a tarefa. Justiça seja feita, depois de eu perder uma hora e meia em pesquisa eu encontrei um [tutorial muito bom](http://www.cs.hmc.edu/qref/sed.html) para quem está começando a entender melhor o funcionamento do sed, e é nele que me baseei para resolver meu problema e escrever este artigo.
+Sabendo que **processamento de entrada** estaria envolvido, logo pensei em utilizar o sed para a tarefa. Justiça seja feita, depois de eu perder uma hora e meia em pesquisa eu encontrei um tutorial muito bom para quem está começando a entender melhor o funcionamento do sed, e é nele que me baseei para resolver meu problema e escrever este artigo.
 
-<blockquote>_Obs.: sim, eu conheço os tutoriais do [Aurélio](http://aurelio.net/), e aprendi regex através do livro dele. Contudo, seu guia do sed não é tão bom quanto parece, e apesar de lê-lo de cabo a rabo, acabei precisando de ajuda extra._</blockquote>
+<blockquote>_Obs.: sim, eu conheço os tutoriais do Aurélio, e aprendi regex através do livro dele. Contudo, seu guia do sed não é tão bom quanto parece, e apesar de lê-lo de cabo a rabo, acabei precisando de ajuda extra._</blockquote>
 
 Para filtrar o _path _do arquivo, e ao mesmo tempo retirar seu nome, podemos usar o seguinte comando (fora outras trilhões de variantes):
 

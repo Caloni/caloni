@@ -3,7 +3,7 @@ date: "2008-01-16"
 title: Encontrando as respostas do Flash Pops
 categories: [ "code" ]
 ---
-[![Flash Pops](http://i.imgur.com/nwYAF4Q.png)](/images/flash-pops.png)Existe uma [série de jogos](http://www2.uol.com.br/flashpops/jogos/) no sítio da UOL onde você deve acertar o nome de filmes, programas de televisão, entre outros, que vão da [década de 40](http://www.imdb.com/title/tt0034583/) até a [atualidade](http://www.imdb.com/title/tt0109830/). É divertido e viciante fazer pesquisa na internet para encontrar os resultados, ainda mais quando já se é viciado em cinema. Ficamos jogando, eu e minha namorada, por semanas a fio. Quase chegamos a preencher tudo, e por um bom tempo ficamos travados para terminar. Então começamos a apelar para o [Google](http://www.google.com) e o [IMDB](http://www.imdb.com) até os limites do razoável. Nesse fim de semana, por exemplo, chegamos a assistir um filme de madrugada onde tocou rapidamente um trecho de uma das músicas que faltava no jogo sobre televisão. No dia seguinte procuramos a [trilha sonora do filme](http://www.imdb.com/title/tt0140688/soundtrack), ouvimos [faixa a faixa](http://www.amazon.com/exec/obidos/ASIN/B000007T6B/internetmoviedat/) e procuramos [o nome da música](http://www.google.com/search?q=) no Google, para finalmente encontrar [o resultado](http://www.imdb.com/title/tt0088559/).
+!Flash Pops](http://i.imgur.com/nwYAF4Q.png)](/images/flash-pops.png)Existe uma série de jogos](http://www2.uol.com.br/flashpops/jogos/) no sítio da UOL onde você deve acertar o nome de filmes, programas de televisão, entre outros, que vão da década de 40](http://www.imdb.com/title/tt0034583/) até a atualidade](http://www.imdb.com/title/tt0109830/). É divertido e viciante fazer pesquisa na internet para encontrar os resultados, ainda mais quando já se é viciado em cinema. Ficamos jogando, eu e minha namorada, por semanas a fio. Quase chegamos a preencher tudo, e por um bom tempo ficamos travados para terminar. Então começamos a apelar para o Google e o [IMDB até os limites do razoável. Nesse fim de semana, por exemplo, chegamos a assistir um filme de madrugada onde tocou rapidamente um trecho de uma das músicas que faltava no jogo sobre televisão. No dia seguinte procuramos a [trilha sonora do filme, ouvimos [faixa a faixa e procuramos [o nome da música no Google, para finalmente encontrar [o resultado.
 
 Essa foi a última resposta "honesta". Depois resolvi apelar para o WinDbg =)
 
@@ -13,21 +13,21 @@ A primeira coisa que pensei a respeito desse jogo foi que ele não seria tão in
 
 A primeira coisa a fazer é carregar o jogo na memória do navegador. Em seguida, seguindo meu raciocínio inicial, digitei a primeira resposta do jogo.
 
-[![Flash Pops (Filmes 1)](http://i.imgur.com/uuBC9fi.png)](/images/flash-pops-jogo.png)
+!Flash Pops (Filmes 1)
 
 A partir daí, podemos "atachar" o WinDbg no processo do navegador e rastrear a memória do processo.
 
     
     windbg -pn firefox.exe
 
-[![GPF Now!](http://i.imgur.com/57ydjgF.gif)](/images/gpfnow.gif)
+!GPF Now!
 
-[](/images/win-pan.mp3)Então, como eu dizia, não faça isso em casa enquanto estiver digitando um artigo de seu blogue dentro do navegador. Ele vai travar!
+Então, como eu dizia, não faça isso em casa enquanto estiver digitando um artigo de seu blogue dentro do navegador. Ele vai travar!
 
     
     windbg %programfiles%\Mozilla Firefox\firefox.exe
 
-OK. A primeira coisa é procurar pela string digitada, na esperança de achar a estrutura que escreve as respostas de acordo com a digitação. Isso pode ser feito facilmente graças ao WinDbg e ao [artigo de Volker von Einem](http://voneinem-windbg.blogspot.com/2007/06/scan-full-process-memory-for-pattern.html) que ensina como procurar strings por toda a memória de um processo (mais tarde iremos também usar o comando-bônus do comentário de Roberto Farah).
+OK. A primeira coisa é procurar pela string digitada, na esperança de achar a estrutura que escreve as respostas de acordo com a digitação. Isso pode ser feito facilmente graças ao WinDbg e ao artigo de Volker von Einem.
 
     
     0:017> s -a 0 0fffffff "caca fantasmas"
@@ -77,7 +77,7 @@ De fato, a lista de respostas é tudo que encontramos.
 
 #### Usando o .foreach (e uma nova busca)
 
-Assim como no [artigo sobre carregamento de DLLs arbitrárias](http://www.caloni.com.br/carregando-dlls-arbitrarias-pelo-windbg-parte-2),  vamos usar o muito útil comando **.foreach**, que caminha em uma lista de resultados de um comando para executar uma lista secundária de comandos. Apenas para relembrar, a sintaxe do foreach é a seguinte:
+Assim como no artigo sobre carregamento de DLLs arbitrárias,  vamos usar o muito útil comando **.foreach**, que caminha em uma lista de resultados de um comando para executar uma lista secundária de comandos. Apenas para relembrar, a sintaxe do foreach é a seguinte:
 
     
     .foreach [Options] ( <font color="#ff0000">Variable</font>  { <font color="#0000ff">InCommands</font> } ) { <font color="#008000">OutCommands</font> }
@@ -166,6 +166,6 @@ Bom, vou parar o _dump_ por aqui, já que, entre os leitores, pode haver quem qu
 
 Vimos que o jogo é facilmente quebrável porque armazena as respostas em texto claro. Uma solução alternativa seria utilizar um **_hash_ com colisão próxima de zero**. Com isso bastaria trocar as respostas possíveis por _hashs_ possíveis e armazená-los no lugar. Quando o usuário digitasse, tudo que o programa precisaria mudar era gerar um _hash_ a partir da resposta do usuário e comparar com o _hashs_ das respostas válidas.
 
-[![Flash Pops Seguro](http://i.imgur.com/yovlNra.gif)](/images/flash-pops.gif)
+!Flash Pops Seguro
 
-Por uma incrível coincidência, esse truquezinho eu aprendi com meu amigo [Thiago](http://codebehind.wordpress.com/) há poucos dias, que está lendo [Reversing](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=Reversing+Secrets+of+Reverse+Engineering&site_origem=1293522). Simples, porém funcional.
+Por uma incrível coincidência, esse truquezinho eu aprendi com meu amigo Thiago](http://codebehind.wordpress.com/) há poucos dias, que está lendo [Reversing. Simples, porém funcional.

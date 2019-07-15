@@ -5,9 +5,9 @@ categories: [ "code" ]
 ---
 Ou "Como esperar o término de todos os processos-filho criados a partir de um conjunto de processos".
 
-Dessa vez confesso que esperava um pouco mais de documentação do MSDN, ou pelo menos um sistema de referências cruzadas eficiente. Outro dia demorei cerca de duas horas para conseguir [criar um _**job**_](http://msdn.microsoft.com/en-us/library/ms682409(VS.85).aspx), anexar o processo desejado e, a pior parte, esperar que todos os processos (o principal e seus filhos e netos) terminassem.
+Dessa vez confesso que esperava um pouco mais de documentação do MSDN, ou pelo menos um sistema de referências cruzadas eficiente. Outro dia demorei cerca de duas horas para conseguir criar um _**job**_ terminassem.
 
-Além da [pouca documentação](http://msdn.microsoft.com/en-us/library/ms684161(VS.85).aspx), parece que não são muitas as pessoas que fazem isso e publicam na web, ou eu [não sei procurar direito](http://www.google.com.br/search?q=wait+all+processes+inside+job+object).
+Além da pouca documentação](http://msdn.microsoft.com/en-us/library/ms684161(VS.85).aspx), parece que não são muitas as pessoas que fazem isso e publicam na web, ou eu [não sei procurar direito.
 
 Mas, pra início de conversa, o que é um job mesmo?
 
@@ -17,13 +17,13 @@ Um job é um objeto "novo" no kernel do Windows 2000 em diante, e se prontifica 
 
 A abstração mais coerente que eu consigo tirar de um job é como **um trabalho a ser executada por um ou mais processos**. O objeto job controla a criação, o término e as exceções que ocorrem dentro dele mesmo.
 
-[![job.gif](http://i.imgur.com/JJM9DY8.gif)](/images/job.gif)
+!job.gif
 
 Entre as funções mais úteis de um job estão limitar o tempo de execução do conjunto de processos, o número de handles/arquivos/outros objetos abertos, limite de memória RAM ocupada e a possibilidade de terminar todos os processos de uma só vez.
 
-Para informações básicas de como criar um job e anexar processos recomendo o ótimo artigo de [Jeffrey Richter](http://www.microsoft.com/msj/0399/jobkernelobj/jobkernelobj.aspx).
+Para informações básicas de como criar um job e anexar processos recomendo o ótimo artigo de Jeffrey Richter.
 
-No final desse artigo ele chega a citar o controle mais refinado dos processos através de uma [**completion port**](http://msdn.microsoft.com/en-us/library/aa365198(VS.85).aspx), que permitirá receber eventos que ocorrem dentro de um job durante sua vida útil. Apesar de citar, não há código de exemplo que faça isso.
+No final desse artigo ele chega a citar o controle mais refinado dos processos através de uma **completion port**, que permitirá receber eventos que ocorrem dentro de um job durante sua vida útil. Apesar de citar, não há código de exemplo que faça isso.
 
 Bom, agora há:
 

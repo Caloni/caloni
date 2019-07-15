@@ -3,7 +3,7 @@ date: 2017-09-26T10:21:02-03:00
 title: "C++ Moderno Arranca os Cabelos por Você (std::move e classes simples)."
 categories: [ "blog" ]
 ---
-Um dos [últimos posts](https://groups.google.com/forum/#!topic/ccppbrasil/-AC9U7J-0Zg) no grupo CCPPBR do Thiago Adams chama mais uma vez a atenção para a complexidade infinita que linguagens como C++ estão preferindo tomar. Esta é a geração que irá sofrer as dores de compatibilidade com o passado mais que todas as outras que virão.
+Um dos últimos posts no grupo CCPPBR do Thiago Adams chama mais uma vez a atenção para a complexidade infinita que linguagens como C++ estão preferindo tomar. Esta é a geração que irá sofrer as dores de compatibilidade com o passado mais que todas as outras que virão.
 
 Isso porque mudanças pontuais que vão sendo aplicadas na linguagem e biblioteca, como *move semantics*, não cabe mais em exemplos de livrinhos de C++ para iniciantes da década de 90:
 
@@ -38,7 +38,7 @@ int main()
 
 Neste singelo exemplo, que está errado by design, a classe X não se preocupa em proteger-se de cópias simples. Mas o programador também não se protege da ignorância e usa **std::move** como se ele magicamente movesse referências const, o que é absurdo.
 
-![Imgur](https://i.imgur.com/zi5GJxE.png)
+!Imgur
 
 A questão, porém, não é sobre qual é o problema no código, mas os aspectos de design de C++ que podem levar futuros programadores a se depararem com o mesmo problema em versões multicamadas de complexidade. Este é um exemplo óbvio, mas até quando será?
 

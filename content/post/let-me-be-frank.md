@@ -6,7 +6,7 @@ imdb: "9495238"
 categories: [ "blog" ]
 stars: "5/5"
 ---
-Fato curioso: este curta produzido e protagonizado por Kevin Spacey soma três minutos de duração e mais frases brilhantes do que toda a última temporada de [House of Cards](/post/?q=house%20of%20cards), com duração aproximada de 400 minutos, protagonizada por Claire Underwood. Esta temporada da série foi a única em que a protagonista era uma mulher. Coincidência?
+Fato curioso: este curta produzido e protagonizado por Kevin Spacey soma três minutos de duração e mais frases brilhantes do que toda a última temporada de House of Cards, com duração aproximada de 400 minutos, protagonizada por Claire Underwood. Esta temporada da série foi a única em que a protagonista era uma mulher. Coincidência?
 
 Se você se ofendeu com o parágrafo inicial deste texto, que destaca o gênero de uma personagem como algo determinante na qualidade de um roteiro, percebe como é fácil brincar com a realidade. Basta colocar em relevo qualquer dado irrelevante e torná-lo de repente o detalhe mais importante de toda uma trama. Foi o que aconteceu recentemente com Kevin Spacey, retirado da produção e elenco da série abruptamente após ser colocado sob os holofotes um escândalo de assédio do passado e aos poucos surgir críticas do próprio elenco de House of Cards e da equipe sobre a forma do ator de se relacionar durante a produção.
 
@@ -14,7 +14,7 @@ E de repente esse foi o único detalhe de toda a existência do produtor/ator/pe
 
 O curioso é como a vida imita a arte, e no caso como o personagem de Spacey se esquivou tantas vezes na série de coisas que ele de fato fez, e agora luta na vida real para se esquivar de coisas que ou ele não fez ou não foi provado ainda. O resultado é um texto sucinto em que o ator brinca com referências entre a vida real e a ficção, deixando mais que claro que ele não parece se deixar abater nem em um, onde é processado por assédio, e nem em outro, onde ele está morto (ops, spoiler). Chegando ao ápice do brilhantismo, ele exclama: "apesar de tudo, apesar de minha própria morte... eu me sinto surpreendentemente bem".
 
-Segue o roteiro completo com as instigantes frases. O vídeo você acha rapidamente na internet [procurando pelo título](https://www.google.com/search?q=let+me+be+frank).
+Segue o roteiro completo com as instigantes frases. O vídeo você acha rapidamente na internet procurando pelo título.
 
 >
 > I know what you want. Oh sure they may have tried to separate us but what we have is too strong -- is too powerful.

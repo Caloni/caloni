@@ -3,7 +3,7 @@ date: "2008-08-21"
 title: ProcessLeaker
 categories: [ "blog" ]
 ---
-O [artigo anterior](http://www.caloni.com.br/os-processos-fantasma) mostrava como detectar o leak de um processo gerado pela retenção e não-liberação de handles para o Windows Explorer. O problema fora causado por um serviço malcriado. No entanto, a título de demonstração, criei um pequeno programinha sem-vergonha para fazer as coisas parecerem difíceis. No entanto o programa é bem fácil:
+O artigo anterior mostrava como detectar o leak de um processo gerado pela retenção e não-liberação de handles para o Windows Explorer. O problema fora causado por um serviço malcriado. No entanto, a título de demonstração, criei um pequeno programinha sem-vergonha para fazer as coisas parecerem difíceis. No entanto o programa é bem fácil:
 
 ```cpp
 #include <windows.h>
@@ -25,10 +25,10 @@ int main()
 
 Para usá-lo, basta abrir um Gerenciador de Tarefas com opção de exibir o PID dos processos.
 
-[![taskmanagerpid.PNG](/images/taskmanagerpid.PNG)](/images/taskmanagerpid.PNG)
+!taskmanagerpid.PNG
 
 A partir daí, é só criar e matar várias instâncias do explorer.exe. Antes de matar um, digite o PID do novo processo no ProcessLeaker.
 
-![processleaker.PNG](/images/processleaker.PNG)
+!processleaker.PNG
 
 Para listar os processos perdidos, basta usar o comando "!process 0 0" no WinDbg depurando em kernel. O resto você já sabe.

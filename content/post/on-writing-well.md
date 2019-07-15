@@ -7,7 +7,7 @@ desc: "Este é um livro de William Zinsser que já tem mais de 30 anos e que é 
 ---
 On Writing Well de William Zinsser é considerado por muitos do Hackers News como uma ótima referência para se escrever bem não-ficção. Tenho minhas dúvidas. Mas justiça seja feita, o livro parece um Syd Field (Screenplay) para não-ficção, cheio de guidelines que podem auxiliar o escritor ainda amador tentando se profissionalizar e impressionar alguns editores por aí.
 
-A melhor parte em minha opinião é dos Princípios (Parte I), pois é ali que está o verdadeiro ouro do livro, onde ele ensina o bê-a-bá do que faz os textos hoje em dia serem tão ruins e como reverter essa situação lamentável. Ele até cita o artigo de George Owell, [Politics and the English Language](/george-orwell-politics-and-the-english-language). Ainda assim, ele já dá sinais de SJW ao insistir na questão de como usar os gêneros para não ofender os sensíveis ouvidos da mulherada neurótica sobre como a gramática é patriarcal. Pelo jeito não aprendeu muito bem com Mr. Orwell.
+A melhor parte em minha opinião é dos Princípios (Parte I), pois é ali que está o verdadeiro ouro do livro, onde ele ensina o bê-a-bá do que faz os textos hoje em dia serem tão ruins e como reverter essa situação lamentável. Ele até cita o artigo de George Owell, Politics and the English Language. Ainda assim, ele já dá sinais de SJW ao insistir na questão de como usar os gêneros para não ofender os sensíveis ouvidos da mulherada neurótica sobre como a gramática é patriarcal. Pelo jeito não aprendeu muito bem com Mr. Orwell.
 
 Além disso, é nos princípios que está a verdadeira mágica para se escrever bem: pratique, trabalhe, comece a escrever. Só há uma maneira de melhorar, e é essa. Não há atalhos.
 

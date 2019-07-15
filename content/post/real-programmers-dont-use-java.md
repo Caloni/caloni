@@ -3,11 +3,11 @@ date: "2014-02-20"
 title: Real Programmers Don't Use Java
 categories: [ "blog" ]
 ---
-[![real-programmer](http://i.imgur.com/RwtN7j8.png)](/images/12645504174_342d92250f_o.png)
+!real-programmer
 
-When I was a [newbie](http://www.caloni.com.br/o-passado-torto-de-um-programador-por-acaso) (and a [wanna-be](http://www.caloni.com.br/barata-eletrica-e-o-hacker-de-antigamente)) I enjoyed reading "[Real Programmers Don't Use Pascal](http://rixstep.com/2/2/20071015,00.shtml)", a satiric text that influenced and encouraged me into the path of "C/C++ enlightenment", most even than K&R's book. Since then I thought that being a "Real Programmer" was something close to everything one needs to know to get (hard) things done (quickly). Being a "Quiche Eater" was, in couterpart, comparable to nothing. Real Programmers solve real problems! Quiche Eaters are losers who study the academic concepts of computer science and never do a damn useful and/or working program (maybe you know some guy like this).
+When I was a newbie](http://www.caloni.com.br/o-passado-torto-de-um-programador-por-acaso) (and a wanna-be I enjoyed reading "[Real Programmers Don't Use Pascal.
 
-Jokes apart, the spirit of the text can also be used by those who already find them very good programmers and believe no longer have to grow professionally. The times [my ego inflates](http://www.caloni.com.br/entrevista-com-o-caloni-no-do-zero-ao-mestre) I still remember that my code use [child APIs](http://www.caloni.com.br/retorno-do-pathisdirectory) and an [operating system](http://www.caloni.com.br/por-que-minha-dll-travou) that is a joke. I also remember that there are some people out there designing a starship that will leave the orbit of the Solar System!
+Jokes apart, the spirit of the text can also be used by those who already find them very good programmers and believe no longer have to grow professionally. The times my ego inflates](http://www.caloni.com.br/entrevista-com-o-caloni-no-do-zero-ao-mestre) I still remember that my code use child APIs and an [operating system that is a joke. I also remember that there are some people out there designing a starship that will leave the orbit of the Solar System!
 
 On the other hand, many people that just got out of CS course still find programming a difficult matter. This text reminds us that life was difficult 20, 40, 70 years ago, when engineers and programmers were the same person and when you didn't know that what you were doing could put millions at risk in a project.
 
@@ -25,7 +25,7 @@ Here follows a brief summary of the original text adapted to the current times a
 
 **Tools.** If you depend on an IDE that have Code Completion and other fancy stuff or any other editor that depends on your favorite 17,459 plugins installed, then you are not a Real Programmer. A Real Programmer actually use what he have on hand at the time, like notepad, hexdump or even some beeps . The tool is no limit to one that can really code.
 
-**Debugging.** Are you saying that you need the source code in order to debug? So you do not have a clue of what the program does. Just a few glances at [call stack](http://www.caloni.com.br/aprendendo-assembly-com-o-depurador) and [the registers](http://www.caloni.com.br/basico-do-basico-assembly) can make a Real Programmer solve a bug that Quiche Eaters would not get after analyzing those charts with boxes inside UML and use cases for months.
+**Debugging.** Are you saying that you need the source code in order to debug? So you do not have a clue of what the program does. Just a few glances at call stack](http://www.caloni.com.br/aprendendo-assembly-com-o-depurador) and [the registers can make a Real Programmer solve a bug that Quiche Eaters would not get after analyzing those charts with boxes inside UML and use cases for months.
 
 The Real Programmers **Work** is certainly not doing trivial databases to trivial programs that access SQL with trivial queries. Neither are those horrible websites with PHP/Apache and scripts and more scripts written by kids. No, sir. These are programs that deal with the OS in a more intimate way (HD encryption, file system drivers, critical communication services, etc.), or are programs that do something really useful (compilers, the operating system itself). Or maybe those programs that deal directly with hardware (complex microcontrollers, robots, ships, medical devices, etc.).
 
@@ -33,7 +33,7 @@ The **Fun** of every Real Programmer is actually chat with friends (about progra
 
 And, finally, in their **Natural Habitat,** we can find pages and pages of assembly code scattered around the table, a computer locked by a remote kernel debugging serial cable, some notes in hex on a piece of paper, a few dozen browser pages openned about the behavior of functions in BIOS SATA HDDs with 500 GB working on RAID4, coffee (of course), chips, stains on the carpet. When there's nothing to do the environment is pretty tidy and one cannot notice the presence of Real Programmers in sight.
 
-And the **Future** of Real Programmer? Well, C may even be dying. But so what? It seems C++ supports pointers as well. The rest of the useless abstractions like classes and inheritance may be totally ignored. [The basics](http://brazil.joelonsoftware.com/Articles/BacktoBasics.html) will always exist. Forget versions with multiple inheritance and enigmatic concepts. Be a (wo)man!
+And the **Future** of Real Programmer? Well, C may even be dying. But so what? It seems C++ supports pointers as well. The rest of the useless abstractions like classes and inheritance may be totally ignored. The basicsman!
 
 The real, happy, final truth is: regardless of how much more the world becomes "managed" behind frameworks and programmers who prefer to "do projects" behind their office packages and use cases, when problems pop up, some bug murky life threatening useful for a project, a Real Programmer will be there to save the day, because only a programmer really knows how to do his job well done and have a good night of sleep knowing that everything will just be OK.
 

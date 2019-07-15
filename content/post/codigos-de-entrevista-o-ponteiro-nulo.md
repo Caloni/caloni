@@ -70,7 +70,7 @@ A linha que guardamos para analisar contém uma operação de _casting_, atribu
     int* p = (int*) 0;
     *p = 0;
 
-Não tem nada de errado em atribuir o valor 0 a um ponteiro, que é equivalente ao define NULL da biblioteca C (e C++). De acordo com a [referência GNU](http://www.gnu.org/software/libc/manual/html_node/Null-Pointer-Constant.html#Null-Pointer-Constant), é recomendado o uso do define, mas nada impede utilizar o 0 "hardcoded".
+Não tem nada de errado em atribuir o valor 0 a um ponteiro, que é equivalente ao define NULL da biblioteca C (e C++). De acordo com a referência GNU, é recomendado o uso do define, mas nada impede utilizar o 0 "hardcoded".
 
 Porém, estamos escrevendo em um ponteiro nulo, o que com certeza é um comportamento não-definido de conseqüências provavelmente funestas. O ponteiro nulo é um ponteiro inválido que serve apenas para marcar um ponteiro como inválido. Se escrevermos em um endereço inválido, bem, não é preciso ler o padrão para saber o que vai acontecer =)
 

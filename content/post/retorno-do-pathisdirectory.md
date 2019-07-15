@@ -3,7 +3,7 @@ date: "2008-09-10"
 title: Retorno do PathIsDirectory
 categories: [ "blog" ]
 ---
-Estava eu outro dia programando aquele código esperto "para ontem" quando me deparei com uma situação no mínimo inusitada. Ao testar se [um caminho recebido era de fato um diretório](http://msdn.microsoft.com/en-us/library/bb773621(VS.85).aspx) me foi retornado pela API um valor diferente de TRUE. E diferente de FALSE!
+Estava eu outro dia programando aquele código esperto "para ontem" quando me deparei com uma situação no mínimo inusitada. Ao testar se um caminho recebido era de fato um diretório me foi retornado pela API um valor diferente de TRUE. E diferente de FALSE!
 
 De acordo com a documentação, o retorno deveria ser TRUE caso o caminho enviado à função fosse de fato um diretório. Caso contrário, o retorno deveria ser FALSE.
 
@@ -60,7 +60,7 @@ E, pior, o código abaixo **também não vai funcionar**!
     
     if( PathIsDirectory(path) != TRUE ) // aff... é bom rever os seus conceitos
 
-Pesquisando um pouco descobri [uma boa discussão sobre o tema](http://www.microsoft.com/communities/newsgroups/en-us/default.aspx?dg=microsoft.public.win32.programmer.kernel&tid=15f6c3fd-a57e-4c27-91ea-2ddd49aaf2a6&cat=&lang=&cr=&sloc=&p=1), e inclusive que outras pessoas descobriram o [interessante detalhe](http://svn.haxx.se/tsvn/archive-2004-10/0425.shtml) que para pastas normais o retorno é 0x10, mas para compartilhamentos o retorno é 0x1.
+Pesquisando um pouco descobri uma boa discussão sobre o tema](http://www.microsoft.com/communities/newsgroups/en-us/default.aspx?dg=microsoft.public.win32.programmer.kernel&tid=15f6c3fd-a57e-4c27-91ea-2ddd49aaf2a6&cat=&lang=&cr=&sloc=&p=1), e inclusive que outras pessoas descobriram o [interessante detalhe que para pastas normais o retorno é 0x10, mas para compartilhamentos o retorno é 0x1.
 
 #### O bug atrás dos documentos
 
@@ -325,7 +325,7 @@ O problema ocorre por causa da maneira que a função determina se o caminho é 
     00401030 83c408          add     esp,8
     0:000>
 
-Ou seja, para pastas locais a função simplesmente usa a conhecidíssima [GetFileAttributes](http://msdn.microsoft.com/en-us/library/aa364944(VS.85).aspx), que retorna o flag 0x10 setado caso se trate de uma pasta, de acordo com a documentação:
+Ou seja, para pastas locais a função simplesmente usa a conhecidíssima GetFileAttributes, que retorna o flag 0x10 setado caso se trate de uma pasta, de acordo com a documentação:
 
 "The attributes can be one or more of the following values.
 

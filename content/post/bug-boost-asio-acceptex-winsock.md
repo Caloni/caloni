@@ -71,9 +71,9 @@ ClientSocket = socket(result->ai_family, result->ai_socktype, result->ai_protoco
 
 Esses dois sockets são herdáveis por default (implementação da função socket) e são representados pelos handles listados no Process Explorer como já visto, pelo nome "\Device\Afd". O contador de handles é aumentado a partir da criação do processo-filho e esses dois handles aparecem em ambos os processos.
 
-![](https://i.imgur.com/3LV7k8G.png)
+!
 
-![](https://i.imgur.com/S7qT3Sd.png)
+!
 
 Até aí tudo bem. O problema na verdade ocorre no segundo request enviado quando o primeiro request não terminou (e.g. o primeiro request é um notepad.exe que irá demorar e o segundo request um "cmd /c dir", que executa e já volta com a saída). Nessa situação todos os sockets criados até aqui -- incluindo o cliente do primeiro request -- são herdados para o segundo processo-filho, e por questões que estão além do escopo desse estudo, mas que poderão ser verificados ao se analistar os drivers das camadas de TDI do Windows (kernel mode), o send da saída do segundo request para o socket cliente fica travado até a saída do primeiro processo-filho, onde ocorre dos handles serem fechados.
 
@@ -91,7 +91,7 @@ Até aí tudo bem. O problema na verdade ocorre no segundo request enviado quand
 
 ## Solução #1 (Windows Vista ou superior): InitializeProcThreadAttributeList e UpdateProcThreadAttribute
 
-A solução para evitar handles herdáveis que não são desejáveis é proposta pelo Raymond Chen [em seu blog](https://blogs.msdn.microsoft.com/oldnewthing/20111216-00/?p=8873/): usar as API InitializeProcThreadAttributeList e UpdateProcThreadAttribute. Com isso é possível especificar quais handles podem ser herdados pelo processo-filho, e obviamente iremos colocar na lista apenas os arquivos de entrada e saída padrão (obs: não duplicar saída-padrão com erro-padrão quando ambos são o mesmo arquivo/handle).
+A solução para evitar handles herdáveis que não são desejáveis é proposta pelo Raymond Chen em seu blog.
 
 ## Solução #2 (Windows XP): Ad Hoc
 
@@ -103,12 +103,12 @@ A terceira solução encontrada durante a compilação deste artigo é usar em v
 
 **Update (2019-01-07)**: Na verdade a flag de não-herança do socket só passou a existir no Windows 7 com SP1, o que inviabiliza essa solução para Windows Vista e XP, como previamente foi dito.
 
-![](https://i.imgur.com/FUrSKg2.png)
+!
 
 ## Solução #4: Boost.Asio
 
-Essas correções dizem respeito ao sample de uso do winsock como modelo server/client da própria Microsoft. Ele foi modificado em [um repositório que criei](https://github.com/Caloni/simple_winsock_client_server) para meus testes e poderá ser usado como correção de todos que tiverem o mesmo problema utilizando a API do Windows diretamente.
+Essas correções dizem respeito ao sample de uso do winsock como modelo server/client da própria Microsoft. Ele foi modificado em um repositório que criei para meus testes e poderá ser usado como correção de todos que tiverem o mesmo problema utilizando a API do Windows diretamente.
 
 Já para o Boost.Asio será necessário um estudo de impacto e o envio de uma proposta de correção (ou uso de um patch em que a criação do socket cliente deve ser feita sem herança). Isso pode potencialmente quebrar o funcionamento de outros tipos de programas que dependem direta ou indiretamente da herança de todos os sockets, ou talvez o Boost.Asio tenha uma maneira educada de entregar o controle da criação de sockets dependente de implementação. Eu não sei. Este é um próximo passo da pesquisa.
 
-**Update (2019-01-07)**: Embora use a função WSASocketW o Boost.Asio não suporta a parametrização das flags, e sua implementação não é sobrecarregável, fazendo parte do namespace socket_opt. Foi criado [um issue](https://github.com/boostorg/asio/issues/190) no GitHub do projeto Boost.Asio para ver os comentários e colocações da equipe. No aguardo.
+**Update (2019-01-07)**: Embora use a função WSASocketW o Boost.Asio não suporta a parametrização das flags, e sua implementação não é sobrecarregável, fazendo parte do namespace socket_opt. Foi criado um issue no GitHub do projeto Boost.Asio para ver os comentários e colocações da equipe. No aguardo.

@@ -23,14 +23,14 @@ Então vamos aos detalhes:
 |-----------|------------------|
 | Data      | 2015-03-28       |
 | Local     | Micro$oft Brasil |
-| Palestras | ![](http://i.imgur.com/1s692J2.jpg) |
+| Palestras | ! |
 
 Ops, deu um errinho acima. Acho que é porque ainda não temos as palestras.
 
-Quer colaborar? Não deixe de preencher então o nosso [formulário do Call for Papers](http://goo.gl/forms/NB1EcFF8EM)!
+Quer colaborar? Não deixe de preencher então o nosso formulário do Call for Papers!
 
-Alguma dúvida antes de preencher? Fale conosco na [thread sobre o CFP](https://groups.google.com/forum/#!topic/ccppbrasil/pf63h82yxvI)!
+Alguma dúvida antes de preencher? Fale conosco na thread sobre o CFP!
 
 Se conhece alguém que gostaria de participar do evento, palestrante ou não, por favor, espalhe a notícia o mais rápido possível. Quanto mais cedo soubermos quantas pessoas irão, melhor fica organizar melhor nosso reencontro.
 
-As próximas notícias continuarei divulgando aqui e em [fórum C/C++](https://groups.google.com/forum/#!forum/ccppbrasil). Fique atento.
+As próximas notícias continuarei divulgando aqui e em fórum C/C++. Fique atento.

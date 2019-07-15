@@ -11,11 +11,11 @@ Porém, existe um método infalível. Um método que transforma os programadores
 
 Esse método chama-se: Programa, Filho da P\*\*\*
 
-![](http://i.imgur.com/O2dhzNc.png)
+!
 
 Ou, do inglês, PMF.
 
-E o que o PMF tem a oferecer? [Esse cara](http://c00kiemon5ter.github.io/code/2011/04/16/Development-Methodologies.html) parece ter o esboço da resposta:
+E o que o PMF tem a oferecer? Esse cara parece ter o esboço da resposta:
 
 ```
 > Como nós iremos resolver problemas?

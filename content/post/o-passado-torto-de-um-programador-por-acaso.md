@@ -3,7 +3,7 @@ date: "2007-09-06"
 title: O passado torto de um programador por acaso
 categories: [ "blog" ]
 ---
-_Obs.: este é um artigo não-técnico, o que quer dizer que você pode se deparar com termos desconhecidos. Procure ter à mão um [dicionário de pessoas comuns](http://compare.buscape.com.br/categoria?id=30&lkout=1&kw=houaiss+aurelio+michaelis&site_origem=1293522)._
+_Obs.: este é um artigo não-técnico, o que quer dizer que você pode se deparar com termos desconhecidos. Procure ter à mão um dicionário de pessoas comuns._
 
 Sabe aquele senso comum de que adolescente não sabe o que quer da vida? Pois é, naquela época eu não sabia mesmo. Quando iniciei minha vida, queria ser desenhista. Então descobri que não conseguia desenhar sem uma régua, o que me levava a crer que seria engenheiro. Mas engenheiro de quê? Bom, como esse tipo de pergunta tem um nível de complexidade além dos limites de uma criança de 12 anos, decidi que decidiria isso na minha oitava série.
 
@@ -11,11 +11,11 @@ Então a oitava série chegou. Fascinado com o conceito de átomos e camadas de 
 
 Até aquele breve momento, tudo ia bem na mente daquele promissor químico de sucesso.
 
-Até que num belo dia minha mãe aparece com um folheto onde, escrito em letras garrafais, conseguia-se ler com um pouco de esforço: "curso de computação". Computação é mexer com computadores. Até então só tinha visto computadores em filmes de ficção científica e nas bibliotecas da cidade (os velhos sistemas [Unisyx](http://www.unisys.com.br/unisys/cgi/cgilua.exe/sys/start.htm?tpl=home), ainda de pé na minha velha e boa São Bernardo).
+Até que num belo dia minha mãe aparece com um folheto onde, escrito em letras garrafais, conseguia-se ler com um pouco de esforço: "curso de computação". Computação é mexer com computadores. Até então só tinha visto computadores em filmes de ficção científica e nas bibliotecas da cidade (os velhos sistemas Unisyx.
 
 Mexer com computadores (naquele folheto) até que parecia ser uma coisa legal.
 
-E lá fui eu ficar algumas horas por semana sentado à frente daquela tela verde digitando comandos em inglês. Wordstar, Lotus 1-2-3 e o tal do MS-DOS. Havia um segundo laboratório na escola, este mais novo, onde repousava intocado um outro sistema operacional. Diziam ser revolucionário, e que vinha com um novo dispositivo futurístico conhecido como _mouse_ ([rato](http://pt.wikipedia.org/wiki/Mouse), em Portugal): uma pequena caixa com dois botões conectados à CPU por um fio, tecnicamente seu rabo. Mexemos uma única vez no final de nosso curso com o tal de Windows 3.1, o sistema operacional que vinha nesses micros novos. Foi apenas um rápido e impagável  momento de test drive.
+E lá fui eu ficar algumas horas por semana sentado à frente daquela tela verde digitando comandos em inglês. Wordstar, Lotus 1-2-3 e o tal do MS-DOS. Havia um segundo laboratório na escola, este mais novo, onde repousava intocado um outro sistema operacional. Diziam ser revolucionário, e que vinha com um novo dispositivo futurístico conhecido como _mouse_ (rato: uma pequena caixa com dois botões conectados à CPU por um fio, tecnicamente seu rabo. Mexemos uma única vez no final de nosso curso com o tal de Windows 3.1, o sistema operacional que vinha nesses micros novos. Foi apenas um rápido e impagável  momento de test drive.
 
 Mas, por um motivo que até hoje desconheço, gostei do tal do MS-DOS. Eu dava comandos para o computador e ele obedecia! Achei fascinante! Me diverti muito durante os três meses do curso.
 
@@ -51,7 +51,7 @@ E comecei a estudar para o vestibular. Apenas um vestibular. Fuvest. Se não pas
 
 Foi um período interessante. Matemática, Português, História, Geografia, Inglês, Química, Física, Biologia. Livros e mais livros viviam em minha mochila. Para minha sorte, meu emprego era de office-boy, o que me garantia por lei poder ler o dia inteiro, todos os dias, na fila do banco. Algumas noites também. E algumas madrugadas também. Foi um sufoco. Quase não termino meu curso.
 
-Mas terminei. E passei. E de repente lá estava eu no antro da perdição, o início de tudo: FFLCH (lê-se "fefeléche"). E o subsolo era de fato um antro: xadrez, MPB, sebos, discussões filosóficas e muita fumaça. No meio das revoluções estratégicas do pessoal do [CAELL](http://caell0.tripod.com/index_caell.htm) eu me sentia extremamente "humanizado", seja lá o que isso for. E, sim, pela primeira vez na vida, milhares de mulheres interessantes passarelavam pelos corredores dos pensadores da palavra.
+Mas terminei. E passei. E de repente lá estava eu no antro da perdição, o início de tudo: FFLCH (lê-se "fefeléche"). E o subsolo era de fato um antro: xadrez, MPB, sebos, discussões filosóficas e muita fumaça. No meio das revoluções estratégicas do pessoal do CAELL eu me sentia extremamente "humanizado", seja lá o que isso for. E, sim, pela primeira vez na vida, milhares de mulheres interessantes passarelavam pelos corredores dos pensadores da palavra.
 
 Viva a linguística!
 

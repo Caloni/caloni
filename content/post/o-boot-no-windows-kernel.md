@@ -131,7 +131,7 @@ Podemos espetar o depurador e fazê-lo parar assim que conectado. Se estiver rod
 
 Todos os módulos carregados antes dessa fase são os drivers que tiveram seu Start definido em zero no registro. Todos os programadores que desenvolvem esses drivers gostariam de um dia poder usar o WinDbg. Mas não podem. Quem inicia a comunicação serial com o depurador é o kernel, que só recebe o controle do ntldr depois que os drivers básicos foram carregados.
 
-Brincadeira. É claro que esses programadores usam o WinDbg, usam [até demais](http://www.driverentry.com.br/blog/2007/07/bug-em-meu-driver-de-boot-j-posso.html). Mas só a partir desse ponto. Se algum problema evitar que o sistema chegue nessa fase, o desenvolvedor terá que usar métodos alternativos de depuração, como [teste de mesa](http://br.answers.yahoo.com/question/index?qid=20090203065437AAYWuPo) (risos incontroláveis).
+Brincadeira. É claro que esses programadores usam o WinDbg, usam até demais](http://www.driverentry.com.br/blog/2007/07/bug-em-meu-driver-de-boot-j-posso.html). Mas só a partir desse ponto. Se algum problema evitar que o sistema chegue nessa fase, o desenvolvedor terá que usar métodos alternativos de depuração, como [teste de mesa.
 
 De qualquer forma, estamos aí. Agora podemos depurar a criação de qualquer thread, qualquer processo, o carregamento de qualquer módulo, e a chamada a qualquer função do kernel.
 

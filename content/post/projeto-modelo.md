@@ -7,7 +7,7 @@ categories: [ "blog" ]
 
 #### Primeira coisa: controle de código
 
-Antes de começar a pensar em como as pastas estarão alinhadas, é importante saber como funcionará o controle de código do seu projeto. Como [eu disse sobre o Bazaar](http://www.caloni.com.br/como-estou-trabalhando-com-o-bazaar), a estrutura inicial permitirá a junção de dois projetos distintos se estes compartilharem do mesmo commit no começo de suas vidas.
+Antes de começar a pensar em como as pastas estarão alinhadas, é importante saber como funcionará o controle de código do seu projeto. Como eu disse sobre o Bazaar, a estrutura inicial permitirá a junção de dois projetos distintos se estes compartilharem do mesmo commit no começo de suas vidas.
 
 Portanto, trate de iniciar a estruturação em um projeto-modelo que já contenha pelo menos um commit: o das pastas vazias já estruturadas.
 
@@ -21,7 +21,7 @@ Portanto, trate de iniciar a estruturação em um projeto-modelo que já contenh
 
 #### Estruturação proposta
 
-![projeto-modelo2.png](http://i.imgur.com/HyuSdjb.png)
+!projeto-modelo2.png
 
 Build. Essa pasta contém tudo que é necessário para compilar e testar o projeto como um todo. Idealmente a execução da batch build.bat deve executar todo o processo. Após a compilação, é de competência dos componentes na subpasta Tests fazer os testes básicos do projeto para se certificar de que tudo está funcionando como deveria.
 
@@ -47,4 +47,4 @@ Tools. Além dos componentes essenciais para o funcionamento do software também
 
 Todos os componentes que disponibilizarem unidades de testes devem conter uma pasta Tests dentro de si. Essa padronização permite facilmente a localização de testes internos aos componentes. Além disso, os arquivos executáveis de testes devem sempre terminar seu nome com Test, o que permite a automatização do processo de teste durante o build.
 
-Acredito que este esboço esteja muito bom. É o modelo inicial que estou utilizando nos projetos da empresa e de casa. Deixo disponível [aqui](/images/_template.7z) para download. Críticas e sugestões são bem-vindas.
+Acredito que este esboço esteja muito bom. É o modelo inicial que estou utilizando nos projetos da empresa e de casa. Deixo disponível aqui para download. Críticas e sugestões são bem-vindas.

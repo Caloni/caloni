@@ -7,7 +7,7 @@ I know what you going to think about this one: "silly trick". That's why I just 
 
 Let's say you have to manage a big solution in Visual Studio made of more than 30 projects, and needs to rebuild all them. Suddenly, something goes wrong. The question is: how to discover, in a heartbeat, what project has failed?
 
-[![Find Error in VS projects using regex](http://i.imgur.com/hDJdrX8.png)](/images/find-error-regex2.png)
+!Find Error in VS projects using regex
 
 Note that you need to enable "Regular Expressions" option in the Find Dialog (not shown here).
 

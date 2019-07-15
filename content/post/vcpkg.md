@@ -20,7 +20,7 @@ E com isso uma série de atividades têm permeada a evolução da ferramenta de 
 
 Usar o vcpkg no Windows é tão simples que parece mágica. Ou Linux.
 
-Para instalar você só precisa seguir o passo-a-passo do [GitHub deles](https://github.com/Microsoft/vcpkg) e usar PowerShell. O prompt PS faz tudo automático. O vcpkg é basicamente um conjunto de CMakes que fazem o serviço direito e conseguem compilar quase 1000 libs, a maioria nascidas no Linux, e integrar diretamente com projetos do VS2017.
+Para instalar você só precisa seguir o passo-a-passo do GitHub deles e usar PowerShell. O prompt PS faz tudo automático. O vcpkg é basicamente um conjunto de CMakes que fazem o serviço direito e conseguem compilar quase 1000 libs, a maioria nascidas no Linux, e integrar diretamente com projetos do VS2017.
 
 Para provar todo o seu poder vamos usar a pior lib de todas: **GTK**.
 

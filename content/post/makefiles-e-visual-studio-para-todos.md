@@ -3,13 +3,13 @@ date: "2007-12-07"
 title: Makefiles (e Visual Studio para todos)
 categories: [ "code" ]
 ---
-O Visual Studio é um ambiente de programação incrível, mesmo. Ele possui _auto-complete_ quase instantâneo, navegação de tipos, ajuda de contexto e flexibilidade em seus projetos. Existem [pessoas que evitam usá-lo](http://www.caloni.com.br/desenvolvendo-em-linha-de-comando) porque ele ocupa mais de 150 MB de memória virtual e 20 MB de _working set_ sem abrir nenhum projeto, mas, francamente, ele acaba sendo mais produtivo que o Bloco de Notas (exceto para testes).
+O Visual Studio é um ambiente de programação incrível, mesmo. Ele possui _auto-complete_ quase instantâneo, navegação de tipos, ajuda de contexto e flexibilidade em seus projetos. Existem pessoas que evitam usá-lo.
 
-Devido a pedidos de amigos, resolvi dar uma pausa nos [artigos sobre o Builder](http://www.caloni.com.br/blog/search/c++%20builder) para explicar o nível que flexibilidade que podemos obter dentro da IDE do Visual Studio para compilar qualque tipo de projeto, para qualquer plataforma e sistema operacional. Temos na verdade até a liberdade para não compilar nada! De brinde veremos o básico sobre os _makefiles_, aqueles famigerados arquivos de configuração que nossos avôs usavam em seus _mainframes_.
+Devido a pedidos de amigos, resolvi dar uma pausa nos artigos sobre o Builder para explicar o nível que flexibilidade que podemos obter dentro da IDE do Visual Studio para compilar qualque tipo de projeto, para qualquer plataforma e sistema operacional. Temos na verdade até a liberdade para não compilar nada! De brinde veremos o básico sobre os _makefiles_, aqueles famigerados arquivos de configuração que nossos avôs usavam em seus _mainframes_.
 
 #### Don't built it: make it!
 
-Na verdade, o aplicativo **make**, que faz [30 anos de idade](http://en.wikipedia.org/wiki/Make_%28software%29) esse ano, foi usado e inventado originalmente nos laboratórios Bell, antro das idéias mais criativas e poderosas daquela época. Criado para ser usado nos sistemas UNIX, com o tempo o programa se espalhou para outras plataformas e ganhou espaço entre as mais diversas levas de programadores.
+Na verdade, o aplicativo **make**, que faz 30 anos de idade esse ano, foi usado e inventado originalmente nos laboratórios Bell, antro das idéias mais criativas e poderosas daquela época. Criado para ser usado nos sistemas UNIX, com o tempo o programa se espalhou para outras plataformas e ganhou espaço entre as mais diversas levas de programadores.
 
 Sua principal função continua de pé: compilar automaticamente projetos muito grandes. Isso quer dizer que, independente da complexidade do processo de geração de binários, esse aplicativo conseguia se virar e construir todo seu projeto através de um comando mágico. Melhor ainda, ele conseguia distingüir os arquivos que mudavam e compilar apenas o que mudou.
 
@@ -108,7 +108,7 @@ Note a lógica envolvida: o make tenta executar generate-file. Para isso ele pre
 
 #### Makefiles para o terceiro milênio
 
-Bom, o mundo girou, o tempo passou, e hoje temos IDEs para todos os lados cuidando de nossos CPPs como se fôssemos bebês chorões que não agüentam configurar um projeto através de um arquivo texto. A IDE cuida de tudo para você, deixando mais tempo para você fazer o que mais importa: assistir aos vídeos do [YouTube](http://www.youtube.com/watch?v=LsiT68nZNKI).
+Bom, o mundo girou, o tempo passou, e hoje temos IDEs para todos os lados cuidando de nossos CPPs como se fôssemos bebês chorões que não agüentam configurar um projeto através de um arquivo texto. A IDE cuida de tudo para você, deixando mais tempo para você fazer o que mais importa: assistir aos vídeos do YouTube.
 
 Porém, toda a flexibilidade do mundo make não foi abandonada completamente; foi apenas deixada de lado. A maioria das IDEs profissionais permite o uso de projetos baseados nos famosos makefiles, que são os tais arquivos de configuração que devemos editar na mão para dizer ao aplicativo make como compilar nosso projeto.
 
@@ -118,21 +118,21 @@ O Visual Studio permite a criação de projeto makefile. Na verdade, ele vai al�
 
 A primeira coisa a fazer é criar um projeto do tipo makefile.
 
-[![VS New Project](http://i.imgur.com/HGXtkSu.png)](/images/vs-new-project.png)
+!VS New Project
 
 Você vai encontrar este tipo de projeto na categoria General.
 
-[![VS Project](http://i.imgur.com/xOSEXhS.png)](/images/vs-makefile-project.png)
+!VS Project
 
 Durante o _wizard_ de criação, já é possível escolher qual será o comando para compilar, recompilar e limpar o projeto.
 
-[![VS Config](http://i.imgur.com/73YAEBg.png)](/images/vs-makefile-config.png)
+!VS Config
 
 Se você se esqueceu de configurar essas opções aí, não tem problema. Elas estarão sempre disponíveis através da opção de menu "Projects, Options".
 
-[![VS Config2](http://i.imgur.com/mO5PrL0.png)](/images/vs-makefile-config2.png)
+!VS Config2
 
-Após todas essas operações teremos um projeto que não é controlado pela IDE, mas por [você](http://desciclo.pedia.ws/wiki/Reversal_Russa). O comando que você colocar na última tela irá definir o que o Visual Studio terá que fazer para construir seu projeto. Isso quer dizer "qualquer coisa". Porém, no momento estamos interessados em rodar o aplicativo make, baseado em um makefile que iremos configurar.
+Após todas essas operações teremos um projeto que não é controlado pela IDE, mas por você. O comando que você colocar na última tela irá definir o que o Visual Studio terá que fazer para construir seu projeto. Isso quer dizer "qualquer coisa". Porém, no momento estamos interessados em rodar o aplicativo make, baseado em um makefile que iremos configurar.
 
 #### Um makefile que faz tudo
 
@@ -226,7 +226,7 @@ Como podem ver, não há segredo algum. Alguns ambientes eu configurei para comp
 
 A divisão é feita para mostrar de forma didática como criar makefiles para três ambientes distintos. Dessa forma, é possível chamar o makefile principal com qualquer um desses ambientes: nmake (Visual Studio), mingw32-make (GCC) ou make (Borland). A configuração no Visual Studio fica como está na figura abaixo.
 
-[![VS Config3](http://i.imgur.com/89ob8LZ.png)](/images/vs-makefile-config3.png)
+!VS Config3
 
 Porém, veremos como dividir essa bagunça de ambientes em um projeto bem organizado.
 
@@ -234,7 +234,7 @@ Porém, veremos como dividir essa bagunça de ambientes em um projeto bem organi
 
 O Visual Studio organiza suas configurações inicialmente em Debug e Release. No entanto, nada impede que criemos diferentes configurações para diferentes ambientes. Tudo isso pode ser feito através do Configuration Manager (Build, Configuration Manager). No projeto de demonstração, criei uma configuração Debug e Release para cada ambiente, além do principal, que compila para todos. A lista ficou como a figura abaixo.
 
-[![Configuration Manager](http://i.imgur.com/SKo2nyL.png)](/images/vs-makefile-configuration-manager.png)
+!Configuration Manager
 
 Para configurações específicas, comandos específicos. Para configurações genéricas, comandos que compilam todos os ambientes. Os comandos específicos mandam compilar apenas o makefile de seu respectivo ambiente:
 
@@ -253,4 +253,4 @@ E finalmente, este não é um modelo que segue todas as recomendações de como 
 
 #### Antes que eu me esqueça
 
-O projeto com todas essas configurações, e o fonte, está disponível para _download_ [aqui](/images/makefile.7z).
+O projeto com todas essas configurações, e o fonte, está disponível para _download_ aqui.

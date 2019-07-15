@@ -3,7 +3,7 @@ date: "2016-01-27"
 title: "Exportando repositórios antigos do Bazaar para Git"
 categories: [ "blog" ]
 ---
-Enquanto estudava sobre [controle de fontes distribuído](https://en.wikipedia.org/wiki/Distributed_version_control), experimentei e usei os projetos Mercurial e Bazaar, precursores desse modelo que funcionavam bem em Windows. Havia o Git, mas por conta da sua evolução assimétrica, o ambiente da Microsoft havia ficado para trás.
+Enquanto estudava sobre controle de fontes distribuído, experimentei e usei os projetos Mercurial e Bazaar, precursores desse modelo que funcionavam bem em Windows. Havia o Git, mas por conta da sua evolução assimétrica, o ambiente da Microsoft havia ficado para trás.
 
 Hoje com o Git sendo praticamente o _mainstream_ das conversões do SubVersion, e funcionando razoavelmente bem em ambientes Windows (64 ou 32), sobraram apenas os repositórios do Mercurial e do Bazaar. Na verdade, mais do Bazaar, pois eu havia migrado já do Hg pelo Bazaar possuir algo que hoje o Git emula, mas antes era um diferencial no projeto da Canonical: detecção de rename completo (com histórico e tudo). Isso para refatoração era vital, e suporte à refatoração pesada era o que eu precisava no momento.
 
@@ -11,11 +11,11 @@ Agora é hora de manter esse histórico vivo, mas convertido para o que todos us
 
 ### A migração
 
-A primeira coisa a ser feita é converter o repositório. Depois de convertido, como todas as operações estarão no universo Git, há [uma](http://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories) de [entradas](http://stackoverflow.com/questions/13040958/merge-two-git-repositories-without-breaking-file-history) no StackOverflow para nos ajudar a reunir os repositórios em um só, meu objetivo, já que o Git é mais leve e mais versátil nesse quesito.
+A primeira coisa a ser feita é converter o repositório. Depois de convertido, como todas as operações estarão no universo Git, há uma](http://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories) de [entradas no StackOverflow para nos ajudar a reunir os repositórios em um só, meu objetivo, já que o Git é mais leve e mais versátil nesse quesito.
 
 No Windows, nas últimas versões do Bazaar o comando fast-export não estava mais funcionando. Parado desde 2012, não há previsão de correções. No entanto, para essa operação, a versão 2.4.2 atendeu bem. O comando é um pouco diferente, mas ele é rápido e rodou sem problemas em conjunto com o fast-import do Git.
 
-![](http://i.imgur.com/9gzHZOz.png)
+!
 
 ```
 git init

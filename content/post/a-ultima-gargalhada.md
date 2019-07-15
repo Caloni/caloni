@@ -9,7 +9,7 @@ stars: "2/5"
 ---
 A Última Gargalhada é daqueles exemplos de produção Netflix que não precisa existir no mundo. É sobre uma história sem tensão, sem motivação e sem paixão. Um conselho: viva sua vida no lugar de assistir esse filme; será capaz de sonhar mais do que acompanhar essa série televisiva de um episódio apenas de uma hora e meia.
 
-Se trata de uma história que lembra aquela do Bill Murray como agente de celebridades que vai parar na guerra ([Rock em Cabul](/rock-em-cabul), que também é ruim), só que com gente mais velha ainda que Murray e sobre comediantes para a gente inserir aquelas piadas de internet... não sou eu que estou falando. Só estou imaginando o que alguém da produção deve ter argumentado para tirar a ideia do papel e escalado Chevy Chase para fazer esse Bill alternativo.
+Se trata de uma história que lembra aquela do Bill Murray como agente de celebridades que vai parar na guerra (Rock em Cabul, só que com gente mais velha ainda que Murray e sobre comediantes para a gente inserir aquelas piadas de internet... não sou eu que estou falando. Só estou imaginando o que alguém da produção deve ter argumentado para tirar a ideia do papel e escalado Chevy Chase para fazer esse Bill alternativo.
 
 Sou fã de Chase em dois dos seus melhores trabalhos: como o pai de família na série Férias Frustradas e 100 anos depois como o velho entediado que fazer fazer faculdade no sitcom Community. Sua persona está nos dois trabalhos porque Chase não é um ator versátil. Observe suas caras e bocas dessas duas épocas e me diga que a única diferença não são as rugas? Bom, aqui temos mais de Chase em Community, mas sem os excelentes diálogos.
 

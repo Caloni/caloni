@@ -11,7 +11,7 @@ Fui convidado a assistir um filme simples, dos que se desliga o cérebro. Tão s
 
 Aliás, uma das piadas que funcionam tem a ver com nacionalidade: sua mãe fica horrorizada em saber que a filha pode estar grávida de um americano.
 
-Mas este filme deveria ser mesmo um [Orgulho e Preconceito](../movies/orgulho-e-preconceito) dos tempos modernos. Temos Mr. Darcy na pele de Colin Firth com a erudição no nível exato em que você para de ser apenas intelectual e começa a ter problemas em se relacionar com as pessoas em volta. Ele nunca sorri, apenas de maneira doce, e sua postura é de um perfeito cavalheiro.
+Mas este filme deveria ser mesmo um Orgulho e Preconceito dos tempos modernos. Temos Mr. Darcy na pele de Colin Firth com a erudição no nível exato em que você para de ser apenas intelectual e começa a ter problemas em se relacionar com as pessoas em volta. Ele nunca sorri, apenas de maneira doce, e sua postura é de um perfeito cavalheiro.
 
 Infelizmente não temos a contraparte feminina, pois a personagem de Zellweger é apenas mais uma dessas que protagoniza comédias românticas. Todo o lado romântico se perdeu entre um filme e outro. Agora ela é Bridge Jones e não precisa provar nada para o mundo. Apenas realizar seu sonho de ter um bebê.
 

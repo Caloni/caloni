@@ -10,7 +10,7 @@ Na zona, principalmente resolvendo problemas complexos, o importante é poder co
 
 A primeira vantagem do Vim em relação a outros editores é sua capacidade de abrir arquivos grandes. Um log de 1GB pode ser um desafio para um Notepad da vida, e até para um Visual Studio, mas no Vim tudo que você precisa é de memória disponível. E mesmo que não tenha, o Windows se vira bem no gerenciamento de swap (ou Linux, tanto faz).
 
-Para navegar no código, existem duas técnicas que não necessitam de nenhum plugin. A primeira é a busca por regex, que pode ser feita com os comandos [:vimgrep](http://vimdoc.sourceforge.net/htmldoc/quickfix.html#:vimgrep) ou [:grep](http://vimdoc.sourceforge.net/htmldoc/quickfix.html#:grep), sendo que o primeiro busca em um padrão de arquivos (usando wildcard) e o segundo dentro dos buffers já abertos (útil se você já tiver uma sessão ativa; mais sobre isso depois).
+Para navegar no código, existem duas técnicas que não necessitam de nenhum plugin. A primeira é a busca por regex, que pode ser feita com os comandos :vimgrep](http://vimdoc.sourceforge.net/htmldoc/quickfix.html#:vimgrep) ou [:grep.
 
 ```vim
 " No Vim não é necessário digitar o comando completo; note que esse wildcard busca pastas recursivamente
@@ -22,7 +22,7 @@ Para navegar no código, existem duas técnicas que não necessitam de nenhum pl
 
 O bom é que, no caso de logs, se você buscar por expressões unívocas, isso já fica no histórico de seus comandos e você pode usar quando quiser para voltar para esses logs (ou se você for maluco e guardar de cabeça seus marks, pode criar um mark de vez).
 
-A segunda técnica de navegar no código é através das tags que são montadas pela ferramenta ctags. Ela é genérica o suficiente para suportar várias linguagens, mas pode ser usada até para qualquer sequência de palavras. Há plugins que realizam essa varredura do fonte automática, mas particularmente não gosto de encher meu Vim de plugins, sendo que o único que uso que me lembro é o [MRU](http://www.vim.org/scripts/script.php?script_id=521) (porque o Vim ainda não suporta algo do gênero internamente). De qualquer forma, tudo que eu preciso fazer para atualizar as tags de um projeto é abrir o readme do projeto (que geralmente fica na pasta raiz) e rodar meu atalho.
+A segunda técnica de navegar no código é através das tags que são montadas pela ferramenta ctags. Ela é genérica o suficiente para suportar várias linguagens, mas pode ser usada até para qualquer sequência de palavras. Há plugins que realizam essa varredura do fonte automática, mas particularmente não gosto de encher meu Vim de plugins, sendo que o único que uso que me lembro é o MRU e rodar meu atalho.
 
 ```vim
 " Roda recursivamente e otimiza para C++ e Python.
@@ -41,7 +41,7 @@ map <C-K> <C-]>
 map <C-J> :tnext<CR>
 ```
 
-Depois de dar uma olhada no log, encontrar os métodos que você precisa analisar, seu fluxo, etc, você terá um monte de buffers relevantes abertos nas linhas relevantes. Seria muito bom se tudo isso pudesse ser guardado em um estado para que você continue amanhã ou em sua próxima sessão de flow. Para isso existe o comando [:mksession](http://vimdoc.sourceforge.net/htmldoc/starting.html#:mksession).
+Depois de dar uma olhada no log, encontrar os métodos que você precisa analisar, seu fluxo, etc, você terá um monte de buffers relevantes abertos nas linhas relevantes. Seria muito bom se tudo isso pudesse ser guardado em um estado para que você continue amanhã ou em sua próxima sessão de flow. Para isso existe o comando :mksession.
 
 ```vim
 " Salva estado atual dos buffers
@@ -50,7 +50,7 @@ Depois de dar uma olhada no log, encontrar os métodos que você precisa analisa
 :so \temp\analise.vim
 ```
 
-O comando [:source](http://vimdoc.sourceforge.net/htmldoc/repeat.html#:source) roda um script vim que possui comandos guardados. Ele é um arquivo texto semelhante ao vimrc.
+O comando :source roda um script vim que possui comandos guardados. Ele é um arquivo texto semelhante ao vimrc.
 
 Basicamente é isso. Tudo o que você precisa em sua análise de fonte e de log se encontra na ponta de seus dedos. Não é necessário abrir nenhuma pasta nem terminal. Simplesmente navegue através do Vim para descobrir o problema e seja feliz em sua zona.
 

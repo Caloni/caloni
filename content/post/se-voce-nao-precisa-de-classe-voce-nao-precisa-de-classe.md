@@ -43,11 +43,11 @@ public:
 
 Então eu me pergunto: qual a função da classe em um código desses?
 
-Bjarne Stroustrup desde o começo, em seu livro [The C++ Programming Language](https://www.google.com.br/search?q=the+c%2B%2B+programming+language), sugere que C++ não é uma linguagem unicamente orientada a objetos, mas multi-paradigmas. Hoje, em 2017, ela é uma linguagem genérica e até funcional. Na época poderia ser usada como orientada a objetos, mas também como estruturada e imperativa comum. O goto funciona até hoje.
+Bjarne Stroustrup desde o começo, em seu livro The C++ Programming Language, sugere que C++ não é uma linguagem unicamente orientada a objetos, mas multi-paradigmas. Hoje, em 2017, ela é uma linguagem genérica e até funcional. Na época poderia ser usada como orientada a objetos, mas também como estruturada e imperativa comum. O goto funciona até hoje.
 
 Então o erro no código acima é supor mecanicamente que como é C++ precisa ter classe.
 
-![](https://i.imgur.com/OoGOCOL.jpg)
+!
 
 Não. O código não precisa ter uma classe. No entanto, seu código precisa ter classe. Entendeu?
 
@@ -64,7 +64,7 @@ int main(int argc, const char **argv)
 
     if ( SUCCEEDED(init()) )
     {
-        cmds[args]();
+        cmdsargs;
     }
 }
 

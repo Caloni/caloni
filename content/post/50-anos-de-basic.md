@@ -4,7 +4,7 @@ title: 50 Anos de BASIC
 categories: [ "code" ]
 desc: "Este artigo fala sobre um dos livros mais inocentes e mais influente em toda minha vida: Introdução Ilustrada à Computação, com seus desenhos e explicações simples e seu bê-a-bá na programação do final usando BASIC."
 ---
-[![Introdução Ilustrada à Computação](http://i.imgur.com/2EWWtK7.jpg)](/images/14172567934_032b55ff79_o.jpg)
+!Introdução Ilustrada à Computação
 
 Minha primeira linguagem de programação foi o BASIC. Aprendi durante minhas frequentes visitas à biblioteca lendo livros dos anos 80. Na verdade, eu não me lembro muito bem por que diabos resolvi aprender a programar, já que eu estava mais interessado em entender como um computador funciona. Por que? Não sei bem ao certo, parece que já nasci com um chip embutido que foi ativado quando comecei a tender muito para o lado de humanas ao iniciar a faculdade de Letras... um chip salvador!
 
@@ -14,11 +14,11 @@ Enfim, depois de explicar tudo isso e mais um pouco, no seu último capítulo ai
 
 A modalidade mais popular do BASIC quando me interessei pelo assunto rodava no Windows 95 e se chamada QuickBASIC, ou QBasic, já em sua clássica versão 4.5. Passei longas horas com aquela tela de fundo azul na madrugada corrigindo erros, anotando detalhes no papel, refazendo a lógica mentalmente, até conseguir resolver o problema. Podia ser qualquer problema, pois ele viraria inevitavelmente a diversão da noite. Podia até ser um detalhe de implementação de uma função específica embutida: o F1 funcionava e era bem rápido.
 
-[![QuickBASIC](http://i.imgur.com/CjiOacS.png)](/images/13985881480_5efbd740fd_o.png)
+!QuickBASIC
 
 O BASIC é uma linguagem fácil de aprender, não tem muitos limites e seria a minha escolha para ensinar programação para crianças caso ainda não tivessem inventado Python. Ela tem o tipo de sintaxe que você pode literalmente sair programando. Uma linha de código já imprime alguma coisa na tela. A lógica do fluxo de execução é simples, e os GOTOs ajudam a ilustrar como funciona. A depuração é sem frescuras, e os erros de tantos saltos sem nó, para variar, é do programador. Se vira, agora, com tanta SUB!
 
 Os puristas irão dizer que o aprendiz precisa ser educado de acordo com as novas tendências de programação estruturada, orientada a objetos, ou 100% funcional. Porém, eles esquecem que a programação aprendida por autodidatas como eu não era algo que podia-se chamar trabalho. Ninguém imaginava naquela época, naquela idade, fazer algo tão divertido e ser pago para isso. Exatamente, divertido. Uma linguagem precisa ser divertida para que o programador se interesse em conversar através dela com a máquina. É óbvio que, quando amadurecer, enxergará as óbvias limitações de uma linguagem imperativa como BASIC e irá passar para algo mais elaborado, seja Pascal, Java, C, C++. Não importa. A ambição técnica e perfeccionista do programador, enquanto não o engole, torna qualquer linguagem divertida. E no começo, onde erros de compilação e a falta de ponto-e-vírgula pode desanimar qualquer um, BASIC tinha esse espírito selvagem de "faço tudo o que quiser nessa linguagem até virar homem e programar em C" (ou Assembly).
 
-Por tudo isso, e por muito mais, parabéns pelos seus [50 anos de vida](http://en.wikipedia.org/wiki/BASIC), minha linguagem favorita para me fazer lembrar que programar pode ser divertido e despretensioso. BASIC, você é um amigão!
+Por tudo isso, e por muito mais, parabéns pelos seus 50 anos de vida, minha linguagem favorita para me fazer lembrar que programar pode ser divertido e despretensioso. BASIC, você é um amigão!
 

@@ -9,7 +9,7 @@ stars: "3/5"
 ---
 Limitados pela visão do banco do motorista e do passageiro de um carro acompanhamos uma mulher em sua nova vida. Divorciada com um filho que não a apoia ela conversa com algumas pessoas. O filme é tão realista que perde a graça na segunda ou terceira conversas de "Dez" que o diretor Abbas Kiarostami quer nos mostrar, divididas por um contador regressivo super-brega.
 
-Kiarostami parece de vez em quando experimentar uns conceitos que não vão para a frente, mas o Cinema só se move se alguém arrisca. Em seu último filme antes de morrer, [24 Frames](/24-frames), ele fez um filme adoravelmente tedioso sobre um experimento visual. Aqui ele é mais humano, e de tanta humanidade acabamos por ficar entediados.
+Kiarostami parece de vez em quando experimentar uns conceitos que não vão para a frente, mas o Cinema só se move se alguém arrisca. Em seu último filme antes de morrer, 24 Frames, ele fez um filme adoravelmente tedioso sobre um experimento visual. Aqui ele é mais humano, e de tanta humanidade acabamos por ficar entediados.
 
 Mas há bons momentos nas conversas montadas pelo diretor/roteirista. Os melhores saem da boca do jovem Amin (o hoje ator, diretor e roteirista Amin Maher), cuja espontaneidade e temperamento marcam o tom cômico das conversas que desenvolve com a mãe. No começo tendemos a achar que Amir tem razão sobre a impertinente mãe, que insiste em falar como está feliz hoje depois de se divorciar. Mais tarde começamos a questionar o quanto de cultura e valores está implítico nessa maneira de Amin enxergar a decisão de sua mãe.
 

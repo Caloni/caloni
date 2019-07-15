@@ -3,7 +3,7 @@ date: "2007-12-27"
 title: 'Curiosidades inúteis: o operador de subscrito em C++'
 categories: [ "code" ]
 ---
-<blockquote>_Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência no [formulário de contato](http://www.caloni.com.br/contato) do sítio. Boa leitura!
+<blockquote>_Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência no formulário de contato do sítio. Boa leitura!
 _</blockquote>
 
 Em C e C++ as regras de sintaxe são extremamente flexíveis. Essa liberdade toda se manteve no decorrer dos tempos porque se trata de uma das idéias fundamentais da linguagem C, motivo de sua criação. Me lembro certa vez que, bitolado em C Standard 89, usei uma sintaxe não lá muito usual para acessar um elemento de um _array_. Foi apenas um experimento de estudante, coisa que nunca vi em código algum e queria comprovar.
@@ -43,7 +43,7 @@ A teoria comprovada na prática: temos duas expressões no formato E1 [ E2 ] sen
     
        std::cout << <span class="string">"E a linguagem é: "</span> << indice[ditado] << std::endl;
 
-Isso também compila e tem o mesmo resultado, pois também é equivalente a *( (E1) + (E2) ). No final dá na mesma. E do jeito que está a inversão nem dá tanto susto assim, pois estamos lidando com duas variáveis. A coisa começa a ficar mais [IOCCC](http://www.ioccc.org/) se colocarmos em vez de uma delas uma constante:
+Isso também compila e tem o mesmo resultado, pois também é equivalente a *( (E1) + (E2) ). No final dá na mesma. E do jeito que está a inversão nem dá tanto susto assim, pois estamos lidando com duas variáveis. A coisa começa a ficar mais IOCCC se colocarmos em vez de uma delas uma constante:
 
     
        std::cout << <span class="string">"E a linguagem é: "</span> << 8[ditado] << std::endl;
@@ -53,4 +53,4 @@ Isso ainda é válido, certo? Os tipos das expressões estão de acordo com a re
     
        std::cout << 5[<span class="string">"Isso Compila?"</span>] << std::endl;
 
-_Nota do autor: esse tipo de "recurso obscuro" dificilmente passará por uma revisão de código, e com razão, dado que não é um método útil e muito menos conhecido. Sábio é saber evitar. Não acredito, porém, que o conhecimento de certos detalhes da linguagem em que se programa sejam completamente inúteis. Conhecimento nunca é demais, pois quanto mais se conhece maior é o número de ferramentas conceituais que se dispõe para resolver um certo problema. Em muitas vezes o "conhecimento inútil" de hoje se torna um guia sábio quando se precisa de bons conceitos sobre a coisa toda. No entanto, que não venha um [boi-corneta](http://www.google.com.br/search?q=boi+corneta+site%3Asualingua.com.br) me dizer que esse código fere as boas práticas de programação. Tenho dito._
+_Nota do autor: esse tipo de "recurso obscuro" dificilmente passará por uma revisão de código, e com razão, dado que não é um método útil e muito menos conhecido. Sábio é saber evitar. Não acredito, porém, que o conhecimento de certos detalhes da linguagem em que se programa sejam completamente inúteis. Conhecimento nunca é demais, pois quanto mais se conhece maior é o número de ferramentas conceituais que se dispõe para resolver um certo problema. Em muitas vezes o "conhecimento inútil" de hoje se torna um guia sábio quando se precisa de bons conceitos sobre a coisa toda. No entanto, que não venha um boi-corneta me dizer que esse código fere as boas práticas de programação. Tenho dito._

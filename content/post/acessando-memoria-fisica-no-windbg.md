@@ -3,9 +3,9 @@ date: "2008-05-01"
 title: Acessando memória física no WinDbg
 categories: [ "code" ]
 ---
-![dimm.gif](http://i.imgur.com/OraOKS3.gif)
+!dimm.gif
 
-Como muitos devem saber, acessar memória virtual no WinDbg é coisa de criança, assim como em todo depurador decente. Se estamos falando de _kernel mode_ então, nem se fala! A memória virtual é parte integrante do sistema operacional. Podemos saber mais sobre isso lendo o artigo do Strauss sobre [gerenciamento de memória no Windows](http://www.1bit.com.br/content.1bit/weblog/borcon_talk).
+Como muitos devem saber, acessar memória virtual no WinDbg é coisa de criança, assim como em todo depurador decente. Se estamos falando de _kernel mode_ então, nem se fala! A memória virtual é parte integrante do sistema operacional. Podemos saber mais sobre isso lendo o artigo do Strauss sobre gerenciamento de memória no Windows.
 
 Porém, existem situações, como a que passei essa semana, onde é preciso saber e alterar o conteúdo da memória de verdade, mesmo. Quando eu falo "de verdade mesmo" estou falando em acessar a memória através do seu **endereçamento real**, que conta do zero até o final da sua memória RAM, sem divisão de processos e sem proteções de acesso.
 

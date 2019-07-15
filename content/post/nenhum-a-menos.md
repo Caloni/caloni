@@ -19,7 +19,7 @@ Ela faz seus alunos irem carregar tijolos para arrumar dinheiro para pegar o ôn
 
 O filme dirigido com um neorrealismo contemporâneo muitas vezes se limita a colocar a câmera no lugar certo e deixar o espectador analisar. Uma jornalista pede para a garota olhar para a câmera como se fosse seu aluno e falasse com ela. Apenas a visão da câmera e alguns segundos são necessários para refletirmos na frieza e distanciamento da época em que vivemos.
 
-O diretor é o competente Yimou Zhang ([Herói](/movies/heroi), que possui um controle absoluto de sua câmera e consegue nos fazer sentir no mesmo filme entre a China medieval e o pós-abertura de mercado. Apenas alguns traços o tornam contemporâneo: referência a celulares e uso de máscaras para o ar poluído da cidade. O diretor chinês almeja um conto universal, e consegue em quase todos os seus momentos.
+O diretor é o competente Yimou Zhang (Herói, que possui um controle absoluto de sua câmera e consegue nos fazer sentir no mesmo filme entre a China medieval e o pós-abertura de mercado. Apenas alguns traços o tornam contemporâneo: referência a celulares e uso de máscaras para o ar poluído da cidade. O diretor chinês almeja um conto universal, e consegue em quase todos os seus momentos.
 
 Ao mesmo tempo a professora tentando das formas mais erradas possíveis encontrar o aluno se torna uma mensagem que às vezes não adianta ser persistente se não há educação básica, apesar de contrariar essa mensagem minutos depois. É um trabalho de diversidade de reflexões sobre o mundo moderno e a condição do homem no pós-revolução, reflexão essa construída justamente com o material escolar tão cobiçado pelos pobres alunos do vilarejo. Note como o tema não muda: se expande.
 

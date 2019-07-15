@@ -12,7 +12,7 @@ Até algum tempo atrás a _web _não era muito convidativa para usuários de ata
 
 **Busca Experimental**
 
-Ainda em teste, eu comecei a usar os novos atalhos de teclado na busca do Google disponíveis no saite [Google Experimental Search](http://www.google.com/experimental/). Até agora existem atalhos para **próximo resultado (J)**, **resultado anterior (K), abertura da busca (O ou <enter>)** e **colocação do cursor na caixa de busca (/)**. Eles funcionam exatamente como o Gmail e o Google Reader. Eu fiquei tão empolgado com a idéia que mudei o complemento de busca do Google de dentro do meu Firefox. E agora vou contar como isso pode ser feito facilmente (nota: minhas dicas servem para usuário de Windows apenas).
+Ainda em teste, eu comecei a usar os novos atalhos de teclado na busca do Google disponíveis no saite Google Experimental Search.
 
 **Colocando atalhos do Google dentro do Firefox**
 

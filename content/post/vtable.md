@@ -3,7 +3,7 @@ date: "2011-03-01"
 title: VTable
 categories: [ "code" ]
 ---
-Acho que na breve história desse blogue nunca contei a história do vtable. No máximo fizemos um [hookzinho nos métodos de um componente COM](http://www.caloni.com.br/hook-de-com-no-windbg). Mas só.
+Acho que na breve história desse blogue nunca contei a história do vtable. No máximo fizemos um hookzinho nos métodos de um componente COM. Mas só.
 
 Não encontro uma analogia simples, assim, de cabeça. Então vou contar no cru, mesmo. Talvez seja até mais divertido.
 
@@ -71,7 +71,7 @@ Pergunte para o programador semi-experiente em C++ por que as coisas são assim 
 
 A vtable é uma tabela que guarda o endereço dos métodos virtuais de uma classe. Se uma classe derivada sobrescrever um ou mais métodos de sua classe base, ela terá uma outra vtable com os endereços dos métodos "corrigidos".
 
-[![](http://i.imgur.com/Ye5mA8L.png)](/images/vtable11.png)
+!
 
 Dessa forma, algo um pouco diferente ocorre na chamada c->method() quando estamos lidando com classes polimórficas: o início de um objeto dessa classe terá um ponteiro para a vtable de sua classe. Quando um método virtual é chamado, em vez do compilador gerar uma chamada estática para o endereço do método da classe cujo tipo estamos usando, ele irá redirecionar essa chamada para uma posição na vtable para onde esse objeto aponta. No caso de um objeto do tipo D, a entrada para method em sua vtable apontará não para C::method, mas para D::method, uma função com a mesma assinatura contida na classe base C e que, portanto, a sobrescreve.
 
@@ -91,4 +91,4 @@ Façamos um pequeno teste para comprovar o que falamos. Vamos escancarar a chama
     cl /Zi vtable3.cpp
     windbg vtable3.exe
 
-[![vtable2.png](http://i.imgur.com/9408xv1.png)](/images/vtable2.png)
+!vtable2.png

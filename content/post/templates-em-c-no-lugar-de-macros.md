@@ -5,7 +5,7 @@ categories: [ "code" ]
 ---
 A grande vantagem dos templates é manter o tipo de seus argumentos. Infelizmente, eles não existem na linguagem C, mas podem ser usados em construções C feitas com a linguagem C++, como ocorre com quem desenvolve device drivers para Windows.
 
-Imagine, por exemplo, a estrutura [LIST_ENTRY](https://msdn.microsoft.com/en-us/library/windows/hardware/ff554296(v=vs.85).aspx), que é uma tentativa de generalizar não só o tipo de uma lista ligada, como seu posicionamento:
+Imagine, por exemplo, a estrutura LIST_ENTRY, que é uma tentativa de generalizar não só o tipo de uma lista ligada, como seu posicionamento:
 
 ```cpp
 typedef struct _LIST_ENTRY {
@@ -16,7 +16,7 @@ typedef struct _LIST_ENTRY {
 
 A lógica por trás de LIST_ENTRY é que esse membro pode ser inserido em qualquer lugar da estrutura que representará um elemento:
 
-![](http://i.imgur.com/865mgsu.jpg)
+!
 
 Ele pode estar realmente no __meio__ do elemento, pois isso não importa, desde que você saiba voltar para o começo da estrutura. Isso é útil quando um elemento pode fazer parte de diferentes listas.
 

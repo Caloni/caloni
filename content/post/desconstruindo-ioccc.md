@@ -3,11 +3,11 @@ date: "2008-02-11"
 title: Desconstruindo IOCCC
 categories: [ "code" ]
 ---
-Como alguns devem saber, e outros não (ou não deveriam), existe uma competição internacional para escolher quem escreve o código em C mais ofuscado. Isso mesmo. O evento se chama [The International Obfuscated C Code Contest](http://www.ioccc.org) (IOCCC resumidamente) e costuma premiar anualmente os melhores "do ramo" com a chamada "menção desonrosa".
+Como alguns devem saber, e outros não (ou não deveriam), existe uma competição internacional para escolher quem escreve o código em C mais ofuscado. Isso mesmo. O evento se chama The International Obfuscated C Code Contest e costuma premiar anualmente os melhores "do ramo" com a chamada "menção desonrosa".
 
 Acredito que a real valia de um campeonato desse porte é fazer as pessoas pensarem mais a fundo sobre as regras da linguagem. Isso faz com que erros mais obscuros que encontramos no dia-a-dia se tornem mais fáceis. Claro que ninguém deveria programar como os caras desse torneio, mas a título de aprendizagem, é uma grande aula sobre C.
 
-Publico aqui a interpretação do primeiro programa a ganhar a tal [menção desonrosa](http://www0.us.ioccc.org/1984/anonymous.hint), em 1984. Se trata do batidíssimo "Hello World", só que um pouco compactado e confuso. Vejamos o [fonte original](http://www0.us.ioccc.org/1984/anonymous.c):
+Publico aqui a interpretação do primeiro programa a ganhar a tal menção desonrosa](http://www0.us.ioccc.org/1984/anonymous.hint), em 1984. Se trata do batidíssimo "Hello World", só que um pouco compactado e confuso. Vejamos o [fonte original:
 
     
     int i;main(){for(;i["]<i;++i){--i;}"];read('-'-'-',i+++"hell\
@@ -59,7 +59,7 @@ Ora, sabendo que a variável "i" inicialmente tem o valor zero, o que estamos ve
     
     0["] < i; ++i ){--i;}"]
 
-E uma vez que aprendemos algumas [peculiaridades sobre o operador de subscrito](http://www.caloni.com.br/curiosidades-inuteis-o-operador-de-subscrito-em-c) em C, sabemos que a linha acima é equivalente a essa linha abaixo:
+E uma vez que aprendemos algumas peculiaridades sobre o operador de subscrito em C, sabemos que a linha acima é equivalente a essa linha abaixo:
 
     
     "] < i; ++i ){--i;}"[0]
@@ -120,9 +120,9 @@ Também devemos lembrar que o caractere de controle '\n' é representado apenas 
 
 #### Funções read e write
 
-Em um passado bem longínquo, o padrão ANSI C não existia, e outras funções dominavam o ambiente UNIX. Muitas dessas funções foram adaptadas, e outras completamente copiadas para a formação do padrão. No entanto, ainda que o padrão não tenha colocado algumas funções clássicas, elas continuaram sendo usadas e suportadas. Um bom exemplo disso são as funções read e write, que, apesar de não estarem no padrão, estão no [livro de K&R](http://www.caloni.com.br/the-c-programming-language), no capítulo sobre fluxos (_streams_) em UNIX, provando que são bem populares.
+Em um passado bem longínquo, o padrão ANSI C não existia, e outras funções dominavam o ambiente UNIX. Muitas dessas funções foram adaptadas, e outras completamente copiadas para a formação do padrão. No entanto, ainda que o padrão não tenha colocado algumas funções clássicas, elas continuaram sendo usadas e suportadas. Um bom exemplo disso são as funções read e write, que, apesar de não estarem no padrão, estão no livro de K&R em UNIX, provando que são bem populares.
 
-Dentro desse mundo paralelo, existem identificadores de fluxos padrões para a entrada e a saída padrão. Melhor ainda, esses identificadores são inteiros que estão especificados da seguinte maneira (tirado da [referência GNU](http://www.gnu.org/software/libc/manual/html_node/Descriptors-and-Streams.html#index-STDIN_005fFILENO-1235) da linguagem C, meu grifo):
+Dentro desse mundo paralelo, existem identificadores de fluxos padrões para a entrada e a saída padrão. Melhor ainda, esses identificadores são inteiros que estão especificados da seguinte maneira (tirado da referência GNU:
 
 <blockquote>_"There are also symbolic constants defined in unistd.h for the file descriptors belonging to the standard streams stdin, stdout, and stderr; see Standard Streams._
 

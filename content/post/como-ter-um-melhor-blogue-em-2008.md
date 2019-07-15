@@ -3,9 +3,9 @@ date: "2008-01-08"
 title: Como ter um melhor blogue em 2008
 categories: [ "blog" ]
 ---
-Não é exatamente uma receita de bolo, tampouco uma lista de regras imutáveis. Na verdade, apenas [algumas dicas](http://www.wired.com/culture/lifestyle/news/2007/12/blog_advice) que o criador do termo _(we)blog _deu sobre como ele imagina que os blogueiros deveriam se comportar em relação aos seus blogues. Entre os toques, ele inicialmente comenta que o princípio de um weblog é ser um histórico dos sítios que navegamos, e que eventualmente podemos publicar conteúdo original. Bem, esse humilde blogue faz exatamente o oposto, acreditando que o conteúdo publicado aqui em português dificilmente será encontrado na web, além de que me sinto um inútil se não colaborar com o mundo usando o conhecimento que aprendi e aprendo no dia-a-dia.
+Não é exatamente uma receita de bolo, tampouco uma lista de regras imutáveis. Na verdade, apenas algumas dicasblog _deu sobre como ele imagina que os blogueiros deveriam se comportar em relação aos seus blogues. Entre os toques, ele inicialmente comenta que o princípio de um weblog é ser um histórico dos sítios que navegamos, e que eventualmente podemos publicar conteúdo original. Bem, esse humilde blogue faz exatamente o oposto, acreditando que o conteúdo publicado aqui em português dificilmente será encontrado na web, além de que me sinto um inútil se não colaborar com o mundo usando o conhecimento que aprendi e aprendo no dia-a-dia.
 
-Por isso mesmo, aqui vão as dicas traduzidas, que encontrei no [blogue de Lino Resende](http://www.linoresende.com.br/blog/os-conselhos-de-um-veterano/), verbatim (com meus comentários em _itálico_):
+Por isso mesmo, aqui vão as dicas traduzidas, que encontrei no blogue de Lino Resende:
 
 	
   1. Um blog verdadeiro é um log de todos os sítios que você gostaria de salvar ou dividir. (Então, hoje, o del.icio.us é melhor para os bloggers do que o próprio Blogger).
@@ -41,7 +41,7 @@ _Essa dica é mais para weblogs de fato. Eu passo._
 
 	
   9. Escolha alguns autores favoritos ou celebridades e crie um feed no Google News, acompanhando novas menções a eles. Assim, outros fãs podem segui-los através do seu blog.
-_Você pode seguir os que sigo através da minha [Home Page](http://www.caloni.com.br). Eventualmente compartilho posts através do [Google Reader](http://www.google.com/reader/shared/09109253063119516476)._
+_Você pode seguir os que sigo através da minha Home Page](http://www.caloni.com.br). Eventualmente compartilho posts através do [Google Reader._
 
 	
   10. Reindique seus links favoritos de tempos em tempos para quem os perdeu, esquece ou o está lendo pela primeira vez.

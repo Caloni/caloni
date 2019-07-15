@@ -3,9 +3,9 @@ date: "2008-04-17"
 title: 'Crash Dump Analysis: o livro'
 categories: [ "reading" ]
 ---
-Para quem acabou de terminar o [Advanced Windows Debugging](http://www.amazon.com/Advanced-Debugging-Addison-Wesley-Microsoft-Technology/dp/0321374460/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1208351461&sr=8-1) (como eu) e não consegue ler no computador os complicados artigos de Dmitry Vostokov (como eu), "seus problemas acabaram-se": acabou de ser lançado o [Memory Dump Analysis Volume 1](http://www.dumpanalysis.org/blog/index.php/2008/04/15/the-first-windows-memory-dump-analysis-book/) em hardware! Em modelos portáveis (_paperback_) e desktop (_hardcover_).
+Para quem acabou de terminar o Advanced Windows Debugging](http://www.amazon.com/Advanced-Debugging-Addison-Wesley-Microsoft-Technology/dp/0321374460/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1208351461&sr=8-1) (como eu) e não consegue ler no computador os complicados artigos de Dmitry Vostokov (como eu), "seus problemas acabaram-se": acabou de ser lançado o [Memory Dump Analysis Volume 1.
 
-Se você perder um pouco de tempo lendo o [índice online](http://www.lulu.com/browse/preview.php?fCID=2086149), perceberá que boa parte do conteúdo (se não todo) está em seu sítio, disponível gratuitamente. Porém, não há nada como ter um livro organizado para ler no conforto do ônibus para o serviço (ou do metrô para casa). Ainda mais depois de ter aguçado os sentidos com o [livro](http://www.amazon.com/s?ie=UTF8&tag=mozilla-20&index=blended&link%5Fcode=qs&field-keywords=advanced%20windows%20debugging&sourceid=Mozilla-search) de Mario Hewardt e Daniel Pravat.
+Se você perder um pouco de tempo lendo o índice online](http://www.lulu.com/browse/preview.php?fCID=2086149), perceberá que boa parte do conteúdo (se não todo) está em seu sítio, disponível gratuitamente. Porém, não há nada como ter um livro organizado para ler no conforto do ônibus para o serviço (ou do metrô para casa). Ainda mais depois de ter aguçado os sentidos com o [livro de Mario Hewardt e Daniel Pravat.
 
 Selecionei alguns tópicos que acredito que por si só já valeria a pena a aquisição do livro:
 
@@ -75,4 +75,4 @@ Selecionei alguns tópicos que acredito que por si só já valeria a pena a aqui
 	
     * Este é um tópico que eu defendo, e que só uma pessoa como Dmitry consegue entender: usar UML para descrever o funcionamento do kernel mode. Além de tornar as coisas mais simples de enxergar, é uma ótima oportunidade de migração de "coder to developer" para o pessoal de baixo nível.
 
-Enfim, estou coçando os dedos para comprar logo um exemplar. Já sei pelo menos que com certeza serã a versão em brochura, pois não agüento mais fazer exercício muscular com o [mais novo integrante](http://www.amazon.com/Programming-Environment-Addison-Wesley-Professional-Computing/dp/0201433079/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1208351433&sr=8-1) da minha maleta.
+Enfim, estou coçando os dedos para comprar logo um exemplar. Já sei pelo menos que com certeza serã a versão em brochura, pois não agüento mais fazer exercício muscular com o mais novo integrante da minha maleta.

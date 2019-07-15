@@ -50,7 +50,7 @@ c:\fileserver\fileserver.exe
 
 Para testar basta acessar o endereço via browser:
 
-![](http://i.imgur.com/hSnmzqv.png)
+!
 
 ### Lado cliente
 
@@ -60,7 +60,7 @@ Do lado cliente há ferramentas GNU como curl e wget para conseguir baixar rapid
 powershell wget http://127.0.0.1:8000/Procmon.exe -OutFile Procmon.exe
 ```
 
-Porém, caso não seja possível usar o Power Shell o [pacote básico do wget do GnuWin32](http://gnuwin32.sourceforge.net/packages/wget.htm), de 2MB, já consegue realizar o download.
+Porém, caso não seja possível usar o Power Shell o pacote básico do wget do GnuWin32, de 2MB, já consegue realizar o download.
 
 ```
 c:\Temp\bitforge\wget>dir

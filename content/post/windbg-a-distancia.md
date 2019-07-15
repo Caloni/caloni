@@ -11,7 +11,7 @@ Já é fato consumado que os maiores problemas da humanidade ocorrem sempre no c
 
 O **ambiente de desenvolvimento** (em teoria) não se deve confundir com o **ambiente de testes**, um lugar onde o desenvolvedor deveria colocar o pé somente quando fosse chamado e quando existisse um problema na versão _Release_. Por isso e portanto, a única coisa permitida em um ambiente de testes é (deveria ser) um **servidor de depuração**.
 
-O servidor de depuração nada mais é do que um processo que deixa alguma porta aberta  na máquina de testes para que o desenvolvedor consiga facilmente depurar problemas que ocorreram durantes os testes de produção. Ele pode ser facilmente configurado através da instalação do pacote [Debugging Tools for Windows](http://www.microsoft.com/whdc/devtools/debugging/default.mspx).
+O servidor de depuração nada mais é do que um processo que deixa alguma porta aberta  na máquina de testes para que o desenvolvedor consiga facilmente depurar problemas que ocorreram durantes os testes de produção. Ele pode ser facilmente configurado através da instalação do pacote Debugging Tools for Windows.
 
 Existem alguns cenários muito comuns de depuração remota que serão abordados aqui. O resto dos cenários se baseia nos exemplos abaixo, e pode ser montado com uma simples releitura dos tópicos de ajuda do WinDbg sobre o assunto (procure por **dbgsrv.exe**).
 
@@ -41,7 +41,7 @@ Se for necessário, é possível convidar mais gente pra festa, pois o WinDbg pe
     .echo E ae, galera? Como que a gente vai consertar essa &%$*&?
     .echo Putz, sei lá. Acho que vou tomar mais café...
 
-![Windbg Remote](http://i.imgur.com/DFnxGQC.gif)
+!Windbg Remote
 
 #### 2. Depuração em cliente
 
@@ -78,7 +78,7 @@ Caso não se saiba a porta usada para iniciar o servidor, ou queira-se listar to
 > 
 O exemplo acima utilizou uma conexão TCP para montar o ambiente de depuração remota, o que possibilita inclusive correção de problemas via internet. No entanto, nem sempre podemos nos dar ao luxo de abrir portas não-autorizadas, requisito mínimo para estabelecer a conexão com o depurador. Nesse caso, podemos configurar conexões pela porta serial, por _pipes_ nomeados, por SSL. Se for realmente necessário usar a pilha TCP, mas o lado servidor possui um _firewall_, ainda assim é possível configurar este tipo de conexão com a opção **clicon**. Dessa forma, quem estabelece a conexão é o servidor, evitando que o cliente fique bloqueado de acessar o ambiente de depuração.</blockquote>
 
-![Windbg Remote](http://i.imgur.com/tIbty17.gif)
+!Windbg Remote
 
 #### Notas finais
 

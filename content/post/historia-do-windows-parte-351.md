@@ -7,7 +7,7 @@ categories: [ "code" ]
 
 Nos anos 90, a relação IBM/Microsoft era muito próxima por causa do desenvolvimento do OS/2, o projeto de um novo sistema operacional. As empresas cooperavam entre si e tinham acesso uma ao código da outra. A Microsoft desejava avançar seu desenvolvimento no Windows, enquanto a IBM desejava que todo trabalho futuro fosse baseado em OS/2. Para resolver essa tensão, as duas combinaram que a IBM iria desenvolver o OS/2 versão 2.0 para substituir o OS/2 versão 1.3 e o Windows v3.0, enquanto a Microsoft iria desenvolver um novo sistema operacional, o OS/2 versão 3.0 para depois suceder ao OS/2 anterior. É lógico que esse acordo foi por água abaixo.
 
-[![Exemplo de tela do OS/2, da IBM](http://i.imgur.com/3evUgy8.png)](http://upload.wikimedia.org/wikipedia/en/f/f0/Nt351excel.png)
+!Exemplo de tela do OS/2, da IBM
 
 A relação IBM/Microsoft foi terminada. A IBM continuou a desenvolver o OS/2 v2.0 enquanto a Microsoft mudou o nome de seu ainda não lançado OS/2 v3.0 para Windows NT. O Windows NT foi tão massivamente promovido que a maioria das pessoas nem se deu conta que ele era um OS/2 redesenhado. Ambas as empresas obtiveram os direitos de utilizarem as tecnologias do OS/2 e do Windows que foram desenvolvidas até a quebra do acordo.
 
@@ -15,7 +15,7 @@ A IBM lançou a versão 2.0 do OS/2 no início dos anos 90. O sistema foi uma gr
 
 Para concorrer com a IBM, a Microsoft lançou o Windows 3.1, com pequenas melhorias à sua versão anterior, a 3.0.
 
-[![Microsoft Office 97 rodando em cima do Windows NT 3.51](http://upload.wikimedia.org/wikipedia/en/f/f0/Nt351excel.png)](http://upload.wikimedia.org/wikipedia/en/f/f0/Nt351excel.png)
+!Microsoft Office 97 rodando em cima do Windows NT 3.51
 
 A Microsoft continuou a desenvolver o Windows NT. A empresa requeriu os serviços de Dave Cutler, um dos chefes arquitetos da VMS na Digital Equipment Corporation (hoje parte da Compaq) para desenvolver o NT dentro de um projeto de sistema operacional mais capaz. Cutler estava desenvolvendo um seguimento para o VMS na DEC chamado Mica, e quando a DEC desistiu do projeto ele acabou trazendo para a Microsoft sua especialidade nesse sistema e algum engenheiros do projeto com ele. A DEC acreditava que ele usara parte do código do Mica no Windows NT e acabou processando a Microsoft. A empresa de Gates teve que eventualmente pagar 150 milhões para a DEC, além de concordar em suportar o chip Alpha CPU da DEC na plataforma NT.
 
@@ -57,19 +57,19 @@ O Windows NT é um sistema operacional de 32 bits. Isso quer dizer, entre outras
 
 Além disso, foi criada uma camada de abstração do _hardware_ (HAL, _Hardware Abstraction Layer_)_ _que livrou boa parte do código de ter sido escrito em _assembly_, fazendo assim que ele fosse facilmente portável. A figura abaixo demonstra a divisão básica entre os componentes do sistema, tanto do _kernel mode _quanto do _user mode_:
 
-[![Arquitetura do Windows NT](http://i.imgur.com/HARIMUp.gif)](/images/windows-nt-architecture.gif)
+!Arquitetura do Windows NT
 
 **Para conhecer mais**
 
 	
-  * [Inside Microsoft Windows NT](http://compare.buscape.com.br/categoria?lkout=1&id=3482&kw=Inside+WindowsNT+Solomon&site_origem=1293522), by David Solomon
+  * Inside Microsoft Windows NT, by David Solomon
 
 	
-  * [Inside Microsoft Windows 2000](http://compare.buscape.com.br/categoria?lkout=1&id=3482&kw=Inside+Windows+2000+0735610215&site_origem=1293522), by David Solomon
+  * Inside Microsoft Windows 2000, by David Solomon
 
 	
-  * [Windows Internals](http://compare.buscape.com.br/categoria?lkout=1&id=3482&kw=Windows+Internals+Russinovich&site_origem=1293522), by Mark Russinovich
+  * Windows Internals, by Mark Russinovich
 
 	
-  * [Outros artigos sobre a história do windows](http://www.caloni.com.br/search/historia%20do%20windows%20-%20parte)
+  * Outros artigos sobre a história do windows
 

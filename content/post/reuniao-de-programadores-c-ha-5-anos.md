@@ -7,7 +7,7 @@ Começo de ano, hora de fazer backup completo. Durante minha cópia anual do gma
 
 _E-mail escrito em 02/12/2005:_
 
-Um dia desses conversando com o [Rodrigo Strauss](http://www.1bit.com.br), falando sobre como é interessante trocar informações e experiências sobre C++, ele teve a brilhante e original idéia (ninguém nunca fez isso antes) de propor encontros razoavelmente regulares para fazermos isso. A idéia dele era mais ou menos essa:
+Um dia desses conversando com o Rodrigo Strauss de propor encontros razoavelmente regulares para fazermos isso. A idéia dele era mais ou menos essa:
 
 	
   * Peridiocidade dos encontros de X em X meses. Ainda não fechamos isso;

@@ -5,9 +5,9 @@ categories: [ "blog" ]
 draft: "true"
 desc: "Décimo-quarto encontro de programadores e entusiastas das linguagens C e C++ a ser realizada em algum local em São Paulo Capital no dia 6 de julho de 2019."
 ---
-![](https://i.imgur.com/aq26Lai.jpg)
+!
 
-Foi definido recentemente no [nosso grupo de Telegram](https://t.me/ccppbrasil) que nosso próximo encontro será realizado na cidade de São Paulo no dia 6 de julho de 2019. Como nossa última tentativa falhou miseravelmente por falta de inscrições suficientes estaremos iniciando a organização primeiro pelas incrições, e, havendo quórum, será feita alocação de sala(s) e coffee-break. Em paralelo iniciaremos o call for papers, onde você é convidado a palestrar em nosso encontro.
+Foi definido recentemente no nosso grupo de Telegram e coffee-break. Em paralelo iniciaremos o call for papers, onde você é convidado a palestrar em nosso encontro.
 
 ### Resumo
 
@@ -21,8 +21,8 @@ As inscrições terão o preço inicial definido em R$ 30,00 (trinta taoqueis). 
 
 ### Call for Papers
 
-Se está interessado em palestrar envie sua proposta na [página do CFP](https://easychair.org/cfp/content.cgi?a=21794885). Se atente às datas limites para envio do abstract e do conteúdo.
+Se está interessado em palestrar envie sua proposta na página do CFP. Se atente às datas limites para envio do abstract e do conteúdo.
 
 ### Atualizações
 
-Vá no [site oficial do grupo](http://ccppbrasil.github.io/) para ficar antenado das últimas atualizações sobre o evento.
+Vá no site oficial do grupo para ficar antenado das últimas atualizações sobre o evento.

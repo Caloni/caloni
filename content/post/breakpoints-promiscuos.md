@@ -7,7 +7,7 @@ Ontem falei sobre como "brincar" com os breakpoints promíscuos, ou seja, aquele
 
 é muito simples de se fazer:
 
-- [Configure uma VM para bootar em kernel debug](http://driverentry.com.br/blog/?p=433).
+- Configure uma VM para bootar em kernel debug.
 - Encontre um processo qualquer (vamos usar o notepad pra variar?).
 - Reabra os símbolos de user mode nele.
 - Defina um breakpoint em alguma DLL de user mode.
@@ -46,6 +46,6 @@ Como meus leitores são muito espertos foi partir para o momento após rodarmos 
 
 O screenshot diz tudo:
 
-[![Debug do notepad pelo kernel](http://i.imgur.com/fHldlXA.png)](/images/debug-notepad-kernel.png)
+!Debug do notepad pelo kernel
 
 Agora a parte mais divertida: experimente com outro notepad, ou com o explorer =)

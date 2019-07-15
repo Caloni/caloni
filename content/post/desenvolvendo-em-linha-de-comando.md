@@ -10,11 +10,11 @@ Desde uns tempos para cá o Visual Studio tem se tornado uma das ferramentas mai
 
 O problema é ter que "andar" do diretório padrão de início até a pasta onde está o código-fonte que desejo compilar. Porém, isso é facilmente resolvido com uma linha (no registro):
 
-[![Shell Folder Command](http://i.imgur.com/slXwEFK.png)](/images/shel-folder-command.png)
+!Shell Folder Command
 
 A partir daí, o comando "Console" existe no menu de contexto de qualquer pasta que clicarmos no Windows Explorer.
 
-[![Shell Context Menu](http://i.imgur.com/rKZdguV.png)](/images/shell-context-menu.png)
+!Shell Context Menu
 
 Note que é possível criar outros comandos, como é o meu caso, onde preciso de vez em quando compilar utilizando o Visual Studio 2005 (o comando Console) e o Visual Studio 2003 (o comando VS2003). Ao escolher a opção, um _prompt_ de comando é aberto com o ambiente de compilação montado e (adivinhe) com a pasta padrão sendo a que foi clicada no explorer.
 
@@ -33,15 +33,15 @@ Por isso mesmo que, aproveitando que agora tenho uma linha de comando personaliz
 > 
 > #### Dica para programadores profissionais
 > 
-_Além de ser rápido, pode ser usado em __builds automatizados, coisa que já fazemos. O que quer dizer que podemos matar os itens 2 e 3 do [teste do Joel](http://brazil.joelonsoftware.com/Articles/TheJoelTest.html), nos deixando um passo mais próximo do purgatório._</blockquote>
+_Além de ser rápido, pode ser usado em __builds automatizados, coisa que já fazemos. O que quer dizer que podemos matar os itens 2 e 3 do teste do Joel, nos deixando um passo mais próximo do purgatório._</blockquote>
 
 #### Depuração
 
-<blockquote>_Tudo bem, mas eu preciso depurar o código! Você não quer que eu use o [NTSD](http://www.codeproject.com/debug/cdbntsd.asp), ou quer?_</blockquote>
+<blockquote>_Tudo bem, mas eu preciso depurar o código! Você não quer que eu use o NTSD, ou quer?_</blockquote>
 
 Sabe que não é uma má idéia?
 
-Porém, se você prefere algo mais amigável, mais ainda que o [WinDbg](http://www.codeproject.com/debug/windbg_part1.asp), você pode iniciar o depurador do Visual Studio por linha de comando:
+Porém, se você prefere algo mais amigável, mais ainda que o WinDbg, você pode iniciar o depurador do Visual Studio por linha de comando:
 
     
     vsjitdebugger notepad.exe
@@ -49,6 +49,6 @@ Porém, se você prefere algo mais amigável, mais ainda que o [WinDbg](http://w
 
 Daí não tem jeito: você economiza no _start_, mas o Visual Studio vai acabar subindo. Ou um ou outro.
 
-[![VSJitDebugger](http://i.imgur.com/d2AlZoy.png)](/images/vsjitdebugger.png)
+!VSJitDebugger
 
 Por isso eu recomendo aprender a usar o WinDbg ou até o NTSD. Quer dizer, é muito melhor do que esperar por uma versão mais _light_ do Visual Studio no próximo ano.

@@ -6,7 +6,7 @@ categories: [ "blog" ]
 ---
 **Update 2019-03-20: Adicionando programa para fazer tela cheia no Windows e retirados detalhes que não uso mais.**
 
-Um [artigo anterior](/entrando-na-zona-com-vim) havia dado umas dicas de como transformar o Vim em uma ferramenta para toda obra, com isso limitando as distrações quando se está em um computador, e com isso facilitando a entrada e a permanência no estado de fluidez de produtividade que conhecemos como "flow", ou estar na zona. Agora é a vez do Windows.
+Um artigo anterior havia dado umas dicas de como transformar o Vim em uma ferramenta para toda obra, com isso limitando as distrações quando se está em um computador, e com isso facilitando a entrada e a permanência no estado de fluidez de produtividade que conhecemos como "flow", ou estar na zona. Agora é a vez do Windows.
 
 O Windows 10 já vem com atalhos pré-instalados assim que você loga nele. Tem browser, navegador de arquivos, notícias, e uma caralhada de coisas inúteis que ficam se mexendo na tela, chamando sua atenção, distraindo sobre o que é mais importante.
 

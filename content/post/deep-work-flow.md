@@ -4,7 +4,7 @@ title: "Deep Work => Flow"
 desc: "Deep Work => Flow. Por Robin Wieruch."
 categories: [ "reading" ]
 ---
-(Deep Work) => Flow - A proven Path to Satisfaction, de Robin Wieruch, é um resumo valioso de dois livros, um sobre deep work e outro sobre flow, e como ambos se relacionam. Robin é um programador e também leu [On Writing Well](/reading/on-writing-well) (ele possui [algumas notas](https://www.robinwieruch.de/lessons-learned-on-writing-well/) sobre essa leitura também).
+(Deep Work) => Flow - A proven Path to Satisfaction, de Robin Wieruch, é um resumo valioso de dois livros, um sobre deep work e outro sobre flow, e como ambos se relacionam. Robin é um programador e também leu On Writing Well](/reading/on-writing-well) (ele possui [algumas notas.
 
  - Professional activities performed in a state of distraction-free concentration that push you cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.
  - Flow can be produced by small things that cause active enjoyment rather than passive pleasure. 
@@ -16,7 +16,7 @@ categories: [ "reading" ]
  - The journalistic philosophy is the last and most advanced philosophy. In that approach you can rapidly switch between shallow to deep work. Yet we know that a disadvantage of multitasking is the usage of our finite willpower. That's why the approach is only for advanced deep workers. Cal Newport says that "[it] require[s] a sense of confidence in your work." and that "[it] requires a conviction that what you are doing is important and will succeed". You can support the philosophy by preparing your deep work schedule in advance. It will help you to preserve your willpower. 
  - Whenever you are going deep, you have to ritualize it. There are 3 basics to assist your deep work session: time, support and metrics. 
  - You can operate similar to a business. For instance, imagine a software product that gets an additional feature. The team will come up with a minimum viable product (MVP) for the feature. But the MVP needs planning. A MVP has by definition a minimum yet valuable outcome. The same planning you would need for your own outcome. You have to "identify a small number of ambitious outcomes". 
- - I can recommend to read the book [The One Thing](https://www.amazon.com.br/One-Thing-Surprisingly-Extraordinary-Results/dp/1885167776?tag=kns00-20&ascsubtag=go_952006559_46722489029_301325114772_dsa-413046190713_c_29043173378) by Gary Keller. It gives a clear guidance how you can deploy short term objectives that contribute to long term goals. 
+ - I can recommend to read the book The One Thing by Gary Keller. It gives a clear guidance how you can deploy short term objectives that contribute to long term goals. 
  - To track progress enables you to gather feedback about your efforts. Are you on track? Did you have a bad week? Maybe it is time to recalibrate your efforts based on the feedback. 
  - The attention restoration theory (ART) claims that directed attention is a finite resource. If it exhausts, you will struggle to concentrate. It can be seen quite similar to the finite amount of willpower. The conclusion is that your deep work time per day is limited. 
  - You need time to rest. Therefore you can deploy productive meditations - that's how Cal Newport calls it - where you do physical work (fitness workout, house cleaning) and no mental work. Apart from that research says that spending time in nature improves your ability to concentrate. 
