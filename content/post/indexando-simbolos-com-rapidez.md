@@ -40,7 +40,7 @@ Essa e outra técnicas de indexar fontes e binário você pode ver no meu [proje
 
 ### Simplificando
 
-Com o poder do Windows Explorer, desde o Windows 95 podemos otimizar nossas tarefas nos baseando na extensão dos arquivos que estamos lidando. No caso do indexador de símbolos, eu simplesmente utilizo uma batch que contém exatamente a linha acima (com a diferença de %1 no lugar de <MINHA-PASTA-COM-BINÁRIOS>) que eu chamo direto do Explorer através de um comando que inseri no registro. Eis o comando:
+Com o poder do Windows Explorer, desde o Windows 95 podemos otimizar nossas tarefas nos baseando na extensão dos arquivos que estamos lidando. No caso do indexador de símbolos, eu simplesmente utilizo uma batch que contém exatamente a linha acima (com a diferença de %1 no lugar de `<MINHA-PASTA-COM-BINÁRIOS>`) que eu chamo direto do Explorer através de um comando que inseri no registro. Eis o comando:
 
 ```
 Windows Registry Editor Version 5.00

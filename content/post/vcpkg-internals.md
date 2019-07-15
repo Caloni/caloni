@@ -19,7 +19,7 @@ SetConsoleOutputCP(CP_UTF8);
 
 Com tudo UTF-8 a vida fica mais fácil.
 
-Outro ponto interessante é que o fonte é muito C++ moderno, com direito a inclusive usar headers ainda experimentais, como o <filesystem> (C++ 17). Ele usa também um conjunto de paths sobre onde estão as coisas (instalação, pacotes, etc). Há muito código no vcpkg que são módulos independentes que soam como retrabalho de coisas comuns, como [parseamento de argumentos](/getarg) (e a já citada transformação em UTF-8), mas o objetivo do projeto é ser independente de tudo. Do contrário ele não seria um bom gerenciador de pacotes.
+Outro ponto interessante é que o fonte é muito C++ moderno, com direito a inclusive usar headers ainda experimentais, como o `<filesystem>` (C++ 17). Ele usa também um conjunto de paths sobre onde estão as coisas (instalação, pacotes, etc). Há muito código no vcpkg que são módulos independentes que soam como retrabalho de coisas comuns, como parseamento de argumentos, mas o objetivo do projeto é ser independente de tudo. Do contrário ele não seria um bom gerenciador de pacotes.
 
 O arquivo vcpkg\installed\vcpkg\status contém em formato texto simples o status de todos os pacotes instalados (se foi instalado com sucesso ou não, etc). A pasta vcpkg\ports contém todos os pacotes, instalados ou não. O início de tudo é o executável na pasta-raiz após compilado, vcpkg.exe, feito em C++ e que realiza todas as bruxarias para montar a hierarquia de pastas e arquivos em texto. Tudo é tão simples e baseado em arquivos de texto que vejo que a M$ finalmente se rendeu ao jeito unix de fazer as coisas (mais conhecido como o jeito certo).
 
@@ -148,7 +148,7 @@ No exemplo estou usando um vcpkg disponível na pasta c:\libs (que é basicament
 </Project>
 ```
 
-Note como as pastas de instalação dos pacotes do triplet selecionado são incluídas na configuração de um projeto do Visual Studio. As libs ficam na subpasta installed/<triplet>/lib, os binários em installed/<triplet>/bin, os includes em installed/<triplet>/include e assim por diante. A ramificação dos pacotes está de acordo com o basename de cada um deles.
+Note como as pastas de instalação dos pacotes do triplet selecionado são incluídas na configuração de um projeto do Visual Studio. As libs ficam na subpasta `installed/<triplet>/lib`, os binários em `installed/<triplet>/bin`, os includes em `installed/<triplet>/include` e assim por diante. A ramificação dos pacotes está de acordo com o basename de cada um deles.
 
 A mágica ocorre já na hora de dar include. E é mágica desde o autocomplete até o link. Por exemplo, digamos que vamos fazer um embedded de Python usando o [exemplo do help](https://docs.python.org/3/extending/embedding.html):
 

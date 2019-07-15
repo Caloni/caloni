@@ -31,7 +31,7 @@ Copie essa pasta para a máquina onde estará os processos que deseja depurar e 
 
 Mas este artigo não é sobre isso, é um pouco mais fundo: depurar serviços. Eles rodam na conta de sistema e muitas vezes é preciso depurá-los antes ou depois do logon na máquina. Às vezes é um teste sob as condições de sistema, o que é igualmente importante. Seja como for a maneira de fazer isso com o msvsmon.exe é transformá-lo também em um serviço. Para isso usaremos o [NSSM](https://nssm.cc/): o Non-Sucking Service Manager. Copie ele para a mesma máquina e o executa com o comando install <nome-do-serviço>. Os campos principais são os mais importantes.
 
-![](https://i.imgur.com/bU6sq33.png)
+Mas este artigo não é sobre isso, é um pouco mais fundo: depurar serviços. Eles rodam na conta de sistema e muitas vezes é preciso depurá-los antes ou depois do logon na máquina. Às vezes é um teste sob as condições de sistema, o que é igualmente importante. Seja como for a maneira de fazer isso com o msvsmon.exe é transformá-lo também em um serviço. Para isso usaremos o NSSM: o Non-Sucking Service Manager. Copie ele para a mesma máquina e o executa com o comando install `<nome-do-serviço>`. Os campos principais são os mais importantes.
 
 Se você digitar msvsmon.exe /h ou algo do gênero irá encontrar os parâmetros que precisa:
 

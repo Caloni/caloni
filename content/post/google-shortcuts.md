@@ -17,17 +17,17 @@ Even being in test, I began to use the new keyboard shortcuts in Google search, 
 
 Probably your search plugin will be in one of these two folder bellow. Try one of them:
 
-**%programfiles%Mozilla Firefoxsearchplugins
-%appdata%MozillaFirefoxProfiles*.defaultsearchplugins**
+    %programfiles%Mozilla Firefoxsearchplugins
+    %appdata%MozillaFirefoxProfiles*.defaultsearchplugins
 
 The search plugin file has the name **google.xml** and you can edit it using notepad or another simple text editor. Bellow is the point where you must insert the new line that will get the plugin able to show the shortcuts inside Google.
 
-<Url type="text/html" method="GET" template="http://www.google.com/search">
-<Param name="q" value="{searchTerms}"/>
-<...>
-**<Param name="esrch" value="BetaShortcuts"/> <!-- Google Shortcuts Here -->**
-<!-- Dynamic parameters -->
-<...>
-</Url>
+    <Url type="text/html" method="GET" template="http://www.google.com/search">
+    <Param name="q" value="{searchTerms}"/>
+    <...>
+    <Param name="esrch" value="BetaShortcuts"/> <!-- Google Shortcuts Here -->
+    <!-- Dynamic parameters -->
+    <...>
+    </Url>
 
 That's all. Now you can get all the best: the best search engine with shortcuts. How can we be even more productive?

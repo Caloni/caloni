@@ -38,7 +38,7 @@ for img in imgs:
 
 ```
 
-Executando este script será possível gerar um log no formato __<nome-original-do-arquivo> => <id-da-imagem-usado-pelo-imgur>__. O ID deles também é usado para link direto da imagem, de onde virá o comando sed que vai substituir nos artigos os nomes originais pelo link do imgur:
+Executando este script será possível gerar um log no formato `<nome-original-do-arquivo> => <id-da-imagem-usado-pelo-imgur>`. O ID deles também é usado para link direto da imagem, de onde virá o comando sed que vai substituir nos artigos os nomes originais pelo link do imgur:
 
 ```bat
 sed -i "s/<nome-original-do-arquivo>/http\/\/:\/<link-da-imagem-no-imgur>/<id-do-imgur>.<extensao>/" *.md

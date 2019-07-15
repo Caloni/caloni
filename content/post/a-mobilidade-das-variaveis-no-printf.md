@@ -54,7 +54,7 @@ int _tmain(int argc, _TCHAR* argv[])
     Saída:
     ======
 
-<censurado>
+    <censurado>
 
 #### 2. Passagem de tipo inteiro de tamanho diferente:
 
@@ -95,7 +95,7 @@ Com isso temos uma dica legal na saída do arquivo ASM:
     push ecx
     mov edx, DWORD PTR _myLoooongInt$[ebp] ; dois pushs da mesma variável? Est
 
-<censurado>...
+    <censurado>...
 
     
     push edx

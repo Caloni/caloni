@@ -90,7 +90,7 @@ Agora a função está pronta para ser usada.
     call 0x00030000
     004010a4
 
-E voilà! A partir do momento em que digitei o call seguido de <enter>, a função nova já começou a operar em cima do processo ainda rodando. Se quisermos voltar a função antiga, sem problemas:
+E voilà! A partir do momento em que digitei o call seguido de `<enter>`, a função nova já começou a operar em cima do processo ainda rodando. Se quisermos voltar a função antiga, sem problemas:
 
     
     0:000> a 0040109f

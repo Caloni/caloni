@@ -3,7 +3,7 @@ imdb: "1827391"
 
 date: "2011-08-29"
 categories: [ "movies" ]
-title: "Diario de Uma Busca"
+title: "Diário de Uma Busca"
 stars: "3/5"
 desc: "Diario de Uma Busca. Diario de Uma Busca (France, 2010). Dirigido por Flavia Castro. Escrito por Flavia Castro."
 ---

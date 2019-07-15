@@ -31,7 +31,7 @@ Seu caminho a partir dessa tela pode ser analisar um dump gerado (visto no artig
 [![](http://i.imgur.com/CjXbOD1.png)](/images/attach-to-process.png)
     WinDbg: "mas que bagunça é essa na memória desse processo?"
 
-O comando mais útil na maioria dos casos é mostrar a pilha em modo verbose (kv e <enter>). Porém, antes disso, precisamos:
+O comando mais útil na maioria dos casos é mostrar a pilha em modo verbose (kv e `<enter>`). Porém, antes disso, precisamos:
 
 	
   1. Ajeitar o path dos símbolos.

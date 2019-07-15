@@ -8,7 +8,7 @@ Eu adoro atalhos de teclado. Desde meus primeiros anos usando computadores, atal
 <blockquote>_Eu não tenho **nada **contra o uso do mouse nem as pessoas que o usam. Eu apenas não sou tão entusiástico em usar o mouse. Por algum tempo, eu até acreditei que o ponteiro do cursor estava me atrapalhando, então eu desenvolvi um programa para tirá-lo da tela (usando um atalho de teclado, claro). Porém, mais uma vez, não sou contra seu uso. Eu mesmo uso-o de vez em quando (quando eu preciso).__
 _</blockquote>
 
-Até algum tempo atrás a _web _não era muito convidativa para usuários de atalhos. Então surgiu o Google e as suas aplicações que suportavam essa característica, o que me deu uma razão a mais para passar a usar seu cliente de _e-mail_ e leitor de notícias sem pressionar constantemente a tecla <tab>. No entanto, ainda faltava a mesma funcionalidade para seu buscador. Felizmente, isso não é mais verdade.
+Até algum tempo atrás a _web _não era muito convidativa para usuários de atalhos. Então surgiu o Google e as suas aplicações que suportavam essa característica, o que me deu uma razão a mais para passar a usar seu cliente de _e-mail_ e leitor de notícias sem pressionar constantemente a tecla `<tab>`. No entanto, ainda faltava a mesma funcionalidade para seu buscador. Felizmente, isso não é mais verdade.
 
 **Busca Experimental**
 
@@ -18,17 +18,17 @@ Ainda em teste, eu comecei a usar os novos atalhos de teclado na busca do Google
 
 Provavelmente seu complemento de busca estará em uma das duas pastas abaixo:
 
-**%programfiles%\Mozilla Firefox\searchplugins
-%appdata%\Mozilla\Firefox\Profiles\*.default\searchplugins**
+    %programfiles%\Mozilla Firefox\searchplugins
+    %appdata%\Mozilla\Firefox\Profiles\*.default\searchplugins
 
 O arquivo do complemento tem o nome **google.xml** e você pode editá-lo usando o Bloco de Notas ou qualquer outro editor de texto simples (sem formatação). Abaixo está o ponto onde você deve inserir a nova linha que irá ativar os atalhos dentro da página de buscas do Google.
 
-<Url type="text/html" method="GET" template="http://www.google.com/search">
-<Param name="q" value="{searchTerms}"/>
-<...>
-**<Param name="esrch" value="BetaShortcuts"/> <!-- Google Shortcuts Here -->**
-<!-- Dynamic parameters -->
-<...>
-</Url>
+    <Url type="text/html" method="GET" template="http://www.google.com/search">
+    <Param name="q" value="{searchTerms}"/>
+    <...>
+    <Param name="esrch" value="BetaShortcuts"/> <!-- Google Shortcuts Here -->
+    <!-- Dynamic parameters -->
+    <...>
+    </Url>
 
-É isso aí. Agora você pode ter o melhor dos dois mundos: o melhor buscador da internete_ _com atalhos. Existirá maneira de se tornar ainda mais produtivo?
+É isso aí. Agora você pode ter o melhor dos dois mundos: o melhor buscador da internete com atalhos. Existirá maneira de se tornar ainda mais produtivo?

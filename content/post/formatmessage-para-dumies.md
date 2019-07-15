@@ -86,11 +86,9 @@ Se der errado a função retorna zero. É possível obter o erro através de Get
 
 #### Escapes na definição de mensagem
 
-Pensou que acabaria por aqui? E qual o significado das sequências de escape dentro da mensagem-modelo? O formato básico para inserção de um argumento segue o seguinte padrão:
+Pensou que acabaria por aqui? E qual o significado das sequências de escape dentro da mensagem-modelo? O formato básico para inserção de um argumento segue o padrão `%n!<format-string>!`.
 
-%n!<format-string>!
-
-Onde n é o número que identifica o argumento, como já vimos, e <format-string> é um espaço reservado para identificarmos o tipo do argumento e como ele aparecerá na mensagem de saída.
+Onde n é o número que identifica o argumento, como já vimos, e `<format-string>` é um espaço reservado para identificarmos o tipo do argumento e como ele aparecerá na mensagem de saída.
 
 Existe uma longa explicação sobre o uso de controladores de largura e precisão da saída formatada e sua localização na lista de argumentos, cujo número irá depender se estamos usando va_list ou array de DWORD_PTRs, sendo que alguns problemas podem surgir se repetirmos esses números de inserção. Em dois momentos da explicação o artigo seja a sugerir que seja usada a função StringCchPrintf, primeiro por que FormatMessage não suporta formatação de ponto flutuantes, e segundo, porque, mesmo que seja possível formatar valores de 64 bits, seria mais fácil se você usasse outra função.
 

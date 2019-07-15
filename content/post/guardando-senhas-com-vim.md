@@ -16,7 +16,7 @@ A perigosa é que uma vez que você digite a senha errada, muito cuidado com o l
 
 O mais prático de tudo é usar esse modelo de arquivo encriptado pelo Vim para salvar senhas. Um arquivo de senhas pode ser tão simples quando login/senha de todas as senhas que você deseja guardar, e tão bem protegido quanto a força de sua senha master. Nada mais, nada menos. De quebra, um arquivo pequeno cujo backup pode ser sincronizado instantaneamente na nuvem (usando Google Drive, Dropbox ou One Drive), ou até mantido em um controle de fonte (embora ele seja tratado como binário).
 
-Se você gostou desse modelo, seguem os comandos para pesquisar (:help <comando>):
+Se você gostou desse modelo, seguem os comandos para pesquisar (`:help <comando>`):
 
 ```
 ; define o algoritmo que será usado para encriptar arquivo

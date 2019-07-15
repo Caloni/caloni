@@ -23,7 +23,7 @@ Apesar de existirem [firulas gráficas](http://www.caloni.com.br/bazaar-grafico)
 
 #### Botando a mão na massa
 
-Isso vale para qualquer projeto que você esteja trabalhando. Pela linha de comando, navegue até o diretório do projeto. Digite os comandos abaixo seguidos de <enter>:
+Isso vale para qualquer projeto que você esteja trabalhando. Pela linha de comando, navegue até o diretório do projeto. Digite os comandos abaixo seguidos de `<enter>`:
 
 	
   1. bzr init

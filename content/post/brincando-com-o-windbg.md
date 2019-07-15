@@ -82,17 +82,17 @@ Muito bem. Agora vamos explicar resumidamente o que cada parte significa:
   * ModLoad: sempre que um módulo é carregado no processo (DLLs ou o próprio executável) o WinDbg informa os endereços inicial e final de carregamente e o nome do módulo. Para rever a lista de módulos carregados usa-se o comando **lm.**
 
 	
-  * _(<pid>.<tid>): Break instruction exception - code 8000003 (first chance)_. Qualquer informação específica de uma _thread_ é informada dessa maneira no WinDbg. No caso, foi a exceção de _breakpoint_ (parada na execução) acionada no começo da depuração (e é por isso que o notepad ainda não está aparecendo).
+  * _(`<pid>.<tid>`): Break instruction exception - code 8000003 (first chance)_. Qualquer informação específica de uma _thread_ é informada dessa maneira no WinDbg. No caso, foi a exceção de _breakpoint_ (parada na execução) acionada no começo da depuração (e é por isso que o notepad ainda não está aparecendo).
 
 Explicado o começo, o resto é fácil. Para continuar a execução do bloco de notas basta usarmos o comando **g** (_Go_), ou pressionar F5, ou ir no menu "Debug, Go", ou ainda apertar este botão:
 
 [![Windbg Go Button](http://i.imgur.com/SXmOldC.png)](/images/windbg-go-button.png)
 
-Na maioria dos comandos mais comums você terá todas essas opções ao seu dispor. Na maioria dos comandos mais incomuns tudo o que você terá será o _prompt_ de comando do WinDbg e a ajuda, acionada por F1 ou pelo comando **.hh <tópico>**. Geralmente os comandos do WinDbg possuem milhares de parâmetros, e é considerada atitude sábia olhar de vez em quando o que alguns desses parâmetros significam para que, aos poucos, aprenda-se alguns truques até a chegada da iluminação completa, onde seu espírito irá fluir livremente pela memória de todos os processos do sistema.
+Na maioria dos comandos mais comums você terá todas essas opções ao seu dispor. Na maioria dos comandos mais incomuns tudo o que você terá será o _prompt_ de comando do WinDbg e a ajuda, acionada por F1 ou pelo comando `.hh <tópico>`. Geralmente os comandos do WinDbg possuem milhares de parâmetros, e é considerada atitude sábia olhar de vez em quando o que alguns desses parâmetros significam para que, aos poucos, aprenda-se alguns truques até a chegada da iluminação completa, onde seu espírito irá fluir livremente pela memória de todos os processos do sistema.
 
-Por enquanto, basta apertar **g** e **<enter>**.
+Por enquanto, basta apertar **g** e `<enter>`.
 
-<blockquote>_A tempo: após executar g e <enter> mais um monte daquelas mensagens cheias de caracteres irão aparecer. Não se preocupe. Elas realmente não são importantes no momento, mas é importante saber o básico, que é "o WinDbg está avisando você de tudo o que ocorre". No momento certo, saberemos usar as informações na tela quando houver necessidade._</blockquote>
+> A tempo: após executar g e `<enter>` mais um monte daquelas mensagens cheias de caracteres irão aparecer. Não se preocupe. Elas realmente não são importantes no momento, mas é importante saber o básico, que é "o WinDbg está avisando você de tudo o que ocorre". No momento certo, saberemos usar as informações na tela quando houver necessidade.
 
 #### Modificando o MessageBox
 
@@ -116,7 +116,7 @@ Algumas coisas a serem notadas nessa API:
   * Como (quase) toda API no Windows, a convenção de chamada é WINAPI, o que significa que quem chama empilha todos os parâmetros na pilha. **Eu estou falando apenas de Windows 32 bits.**
 
 	
-  * A função recebe 4 parâmetros e, de acordo com a convenção de chamada, podemos supor que esses parâmetros são empilhados na seguinte ordem (invertida): uType, lpCaption, lpText, hWnd, <endereço-de-retorno>.
+  * A função recebe 4 parâmetros e, de acordo com a convenção de chamada, podemos supor que esses parâmetros são empilhados na seguinte ordem (invertida): uType, lpCaption, lpText, hWnd, `<endereço-de-retorno>`.
 
 	
   * As _strings_ para as quais os dois parâmetros do meio apontam são do tipo LPCTSTR, o que significa que, além de constantes, podem ser ANSI ou UNICODE, dependendo da versão que estamos utilizando.
@@ -160,7 +160,7 @@ Vamos exibir o estado da pilha atual (no registrador **esp**) no formato de _dou
     0007cfc0  00760069 0020006f 006e0069 00780065
     0007cfd0  00730069 00650074 0074006e 002e0065
 
-A primeira coluna (cujo primeiro valor é 0007cfa0) exibe o endereço da pilha, sendo que o resto das colunas são os valores encontrados a partir do topo da pilha. Sabendo que a pilha cresce "ao contrário", de valores maiores de endereço para menores, os parâmetros empilhados invertidos aparecem agora na ordem do protótipo da função. Complicado? Nem tanto. Os parâmetros são empilhados na ordem inversa do protótipo em C, como tínhamos observado: uType, lpCaption, lpText, hWnd e por fim <endereço-de-retorno>, que é empilhado ao ser executada a instrução _call_.
+A primeira coluna (cujo primeiro valor é 0007cfa0) exibe o endereço da pilha, sendo que o resto das colunas são os valores encontrados a partir do topo da pilha. Sabendo que a pilha cresce "ao contrário", de valores maiores de endereço para menores, os parâmetros empilhados invertidos aparecem agora na ordem do protótipo da função. Complicado? Nem tanto. Os parâmetros são empilhados na ordem inversa do protótipo em C, como tínhamos observado: uType, lpCaption, lpText, hWnd e por fim `<endereço-de-retorno>`, que é empilhado ao ser executada a instrução _call_.
 
     
     push uType               ; topo da pilha (esp) = 007cfb0, <strong>decrementado</strong> em 4 bytes (<em>= double word</em>)

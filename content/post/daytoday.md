@@ -7,7 +7,7 @@ O DayToDay é um projetinho que criei para fazer tracking das minhas atividades 
 
 [![daytoday1.png](http://i.imgur.com/71ZH5Mq.png)](/images/daytoday1.png)
 
-O "conceito" é bem simples: executo o programa, ele exibe um campo texto para digitar o que estou fazendo, digito <enter> ou clico no botão de OK e ele fecha. O que eu digitei cai em um arquivo texto com o mesmo nome do programa.
+O "conceito" é bem simples: executo o programa, ele exibe um campo texto para digitar o que estou fazendo, digito `<enter>` ou clico no botão de OK e ele fecha. O que eu digitei cai em um arquivo texto com o mesmo nome do programa.
 
 [![daytoday2.png](http://i.imgur.com/LfQcHjG.png)](/images/daytoday2.png)
 

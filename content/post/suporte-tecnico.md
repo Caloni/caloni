@@ -5,10 +5,9 @@ categories: [ "blog" ]
 ---
 Máquina com parte do registro corrompida, notadamente alguma sub-chave de HKEY_CLASSES_ROOT. Resultado: ao rodar um script que abre uma segunda janela e tenta usar seu método focus é exibida a seguinte mensagem:
 
-![Erro de automação?](http://i.imgur.com/IGR3VJC.png)
-_"<Mensagem do cliente> - A classe não dá suporte para automação"_
-Abaixo um exemplo simples para ter uma ideia em JS:
+Erro de automação? ("Mensagem do cliente - A classe não dá suporte para automação")
 
+Abaixo um exemplo simples para ter uma ideia em JS:
     
     var win = window.open('minha_url_do_coracao.htm');
     win.focus(); // aqui dá o erro
