@@ -21,6 +21,6 @@ Já nos aspectos técnicos, a escolha da trilha sonora não poderia ser pior. Ce
 
 A verdade é que os personagens de Insubstituível não parecem se importar o suficiente para serem notados pelo espectador. A sutileza aqui dá vazão a um filme simpático e esquecível. O que é uma pena, se constatarmos que parece haver algo de muito sombrio, desgastante e deprimente na rotina de um médico, ainda mais convivendo com seus pacientes por décadas. Gostaria de ver mais uma história sobre isso, e não o drama comum da luta diária contra a força incomensurável da natureza, ganhando espaço a cada artéria aberta e a cada tumor que se espalha.
 
-<hr>"Médecin de campagne" (France, 2016), escrito por Thomas Lilti, Baya Kasmi, Thomas Lilti, Khalladi Shérazade, dirigido por Thomas Lilti, com François Cluzet, Marianne Denicourt, Christophe Odent, Patrick Descamps, Guy Faucher<hr>
+<hr>"Médecin de campagne" (France, 2016), escrito por Thomas Lilti, Baya Kasmi, Thomas Lilti, Khalladi Shérazade, dirigido por Thomas Lilti, com François Cluzet, Marianne Denicourt, Christophe Odent, Patrick Descamps, Guy Faucher
 
 <h2>Trailer - Insubstituível<h2>

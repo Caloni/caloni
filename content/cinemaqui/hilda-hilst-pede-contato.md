@@ -16,6 +16,6 @@ Amada por tudo e por todos, seus amigos falam mais de uma vez a facilidade com q
 
 Nem laços sobrenaturais ela criou. Quando analisamos suas fitas gravadas percebemos que seu comportamento em nada difere ao de uma criança mimada e petulante. Certa que basta chamar os nomes certos da maneira certa para que essas figuras já mortas se unam ao seu projeto aparentemente solo, com o tempo ela passa à raiva de não obter resposta e à barganha de quem deseja ansiosamente que tudo aquilo que ela imagina não passe de fé cega. Em determinado momento ela admite para si mesma que a fé brota de cada um; não depende de evidências. Mas logo em seguida conclui: "mas seria tão bom se eu tivesse alguma prova... pelas pessoas que têm medo da morte". Ela se exclui da massa de tementes, mas não desiste da busca. Porque é muito boa, claro.
 
-<hr>"Hilda Hilst Pede Contato" (Brasil, 2018), escrito e digirido por Gabriela Greeb, com Luciana Domschke, Hilda Hilst, Lygia Fagundes Telles, Fernando Lemos e outros amigos de Hilst.<hr>
+<hr>"Hilda Hilst Pede Contato" (Brasil, 2018), escrito e digirido por Gabriela Greeb, com Luciana Domschke, Hilda Hilst, Lygia Fagundes Telles, Fernando Lemos e outros amigos de Hilst.
 
 <h2>Trailer - Hilda Hilst Pede Contato<h2>

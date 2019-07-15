@@ -23,6 +23,6 @@ Além disso, há um problema com seu inusitado amigo que se torna cúmplice de s
 
 Apresentando em sua reviravolta a única peça de um quebra-cabeças que parece exageradamente grande -- o FBI? sério? -- "Poderia Me Perdoar" é uma conversa semi-sincera sobre a autoria da arte, e parece utilizar seu plot apenas como isca para mais um drama sobre escritores fracassados.
 
-<hr>"Can You Ever Forgive Me?" (EUA, 2018), escrito por Nicole Holofcener e Jeff Whitty, dirigido por Marielle Heller, com Melissa McCarthy, Richard E. Grant, Dolly Wells.<hr>
+<hr>"Can You Ever Forgive Me?" (EUA, 2018), escrito por Nicole Holofcener e Jeff Whitty, dirigido por Marielle Heller, com Melissa McCarthy, Richard E. Grant, Dolly Wells.
 
 <h2>Trailer - Poderia Me Perdoar?<h2>

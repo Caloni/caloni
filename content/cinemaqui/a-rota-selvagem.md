@@ -17,6 +17,6 @@ E dessa foram ele as humaniza, e transforma a vida difícil no grande vilão. É
 
 Assim como A Qualquer Custo, este é um filme tipicamente americano. Bom, A Qualquer Custo é tipicamente texano, mas ambos lidam com questões universais dentro da cultura e dos valores estado-unidenses. Então podemos dizer que esta é mais uma continuação, desde 2008, da crítica crescente ao capitalismo malvadão. E é soberba.
 
-<hr>"Lean on Pete" (EUA, 2017), escrito por Andrew Haigh baseado no romance de Willy Vlautin, dirigido por Haigh, com Charlie Plummer, Amy Seimetz, Travis Fimmel.<hr>
+<hr>"Lean on Pete" (EUA, 2017), escrito por Andrew Haigh baseado no romance de Willy Vlautin, dirigido por Haigh, com Charlie Plummer, Amy Seimetz, Travis Fimmel.
 
 <h2>Trailer - A Rota Selvagem<h2>

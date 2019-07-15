@@ -19,6 +19,6 @@ Se em alguns momentos a história parece girar em círculos infindáveis de busc
 
 Curiosamente não há muitos belos momentos de encher o fôlego no fundo do mar, exceto os marcados pelos dois principais personagens dos mares -- tubarões e baleias. Talvez porque este é mais um filme sobre humanos e como eles parecem ser as criaturas mais fascinantes do planeta, pois dados ao erro, quem nos diz o que devemos fazer em seguida? Talvez essa seja a grande aventura: se ousar a ir além e depois descobrir para onde virar.
 
-<hr>"L'odyssée" (França, Bélgica, 2016), escrito por Jérôme Salle, Laurent Turner, dirigido por Jérôme Salle, com Lambert Wilson, Pierre Niney, Audrey Tautou.<hr>
+<hr>"L'odyssée" (França, Bélgica, 2016), escrito por Jérôme Salle, Laurent Turner, dirigido por Jérôme Salle, com Lambert Wilson, Pierre Niney, Audrey Tautou.
 
 <h2>Trailer - A Odisseia<h2>

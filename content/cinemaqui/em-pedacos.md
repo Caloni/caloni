@@ -25,6 +25,6 @@ No entanto, Akin brilha mais em sua direção. Multifacetado em três parte com 
 
 Em Pedaços possui um título nacional de péssimo gosto, pois implica em chamar atenção para um ataque terrorista e sua mórbida consequência. Já o título em inglês, "In the Fade", ou na penumbra, no desvanecer, faz jus ao filme e o arco de sua protagonista. Além do mais, sugere de uma maneira melancólica um possível momento em que algo está sumindo e virando fumaça aos poucos. Seria nosso senso de justiça? Mais um instigante exercício de uma obra que termina de uma maneira nada fácil, mas necessária.
 
-<hr>"In the Fade" (Alemanha/França, 2017), escrito por Fatih Akin e Hark Bohm, dirigido por Fatih Akin, com Diane Kruger, Denis Moschitto, Numan Acar.<hr>
+<hr>"In the Fade" (Alemanha/França, 2017), escrito por Fatih Akin e Hark Bohm, dirigido por Fatih Akin, com Diane Kruger, Denis Moschitto, Numan Acar.
 
 <h2>Trailer - Em Pedaços<h2>

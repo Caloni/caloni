@@ -25,8 +25,8 @@ Todos os elementos da história residem nos seus personagens, que não podem evi
 
 Raiva é um filme sobre a pobreza em vários sentidos, não apenas material. Seus personagens são desagradáveis, como devem ser. Este é um filme ironicamente anti-humanidade, pois defende que ao se retirar tudo de um homem só lhe resta a emoção crua. Como um animal. E animais se abatem para comer. Logo, não entendo todo esse alvoroço pelos pobres. Além de tudo é contraditório.
 
-<hr>
+
 "Raiva" (Portugal, França, Brasil, 2018), escrito por Sérgio Tréfaut baseado em livro de Manuel da Fonseca, dirigido por Tréfaut, com Isabel Ruth, Leonor Silveira, Hugo Bentes.
-</hr>
+
 
 <h2>Trailer - Raiva</h2>

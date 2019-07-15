@@ -19,6 +19,6 @@ Se torna um pequeno feito que o ator Guillermo Pfening consiga nos fazer identif
 
 Para quem busca um retrato sutil de um pedaço de realidade específico demais, este é um filme que embala sonhos e decepções como ninguém. Ele é leve, mas que leva fácil. Pode ser assistido por corações sensíveis que vai gerar no máximo uma pequena tristeza que passa assim que a pessoa chegar na próxima Starbucks. E quando chegar, peça uma bebida quente, mesmo que esteja no verão. Enquanto estiver bebendo, pense em quantas pessoas estão vivendo nesse momento uma desilusão amorosa no mundo, e reflita. Termine sua bebida e passe para o próximo filme. Tente um mais alegrinho.
 
-<hr>"Nadie nos mira" (Argentina/Spain/Colombia/Brazil/USA, 2017), escrito por Christina Lazaridi, Julia Solomonoff, dirigido por Julia Solomonoff, com Guillermo Pfening, Katty Velasquez, Pascal Yen-Pfister, Nadja Settel, Paola Baldion<hr>
+<hr>"Nadie nos mira" (Argentina/Spain/Colombia/Brazil/USA, 2017), escrito por Christina Lazaridi, Julia Solomonoff, dirigido por Julia Solomonoff, com Guillermo Pfening, Katty Velasquez, Pascal Yen-Pfister, Nadja Settel, Paola Baldion
 
 <h2>Trailer - Ninguem Está Olhando<h2>

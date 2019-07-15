@@ -16,8 +16,8 @@ A ideia por trás do CPC é promover a arte como forma de resistência política
 
 Este é mais um daqueles registros obrigatórios do passado, está no festival É Tudo Verdade e não deve estrear em nenhum cinema. Por mais que o conteúdo seja interessante como parte da História seu formato é muito convencional e feito para home video. Seria um bom item para a coleção dos anos 60 da antologia brasileira.
 
-<hr>
+
 "Memórias do Grupo Opinião" (Brasil, 2019), escrito e dirigido por Paulo Thiago, com Carlos Diegues, Antonio Pitanga, Carlos Heitor Cony, Ferreira Gullar e imagens de arquivo.
-</hr>
+
 
 <h2>Trailer - Memórias do Grupo Opinião</h2>

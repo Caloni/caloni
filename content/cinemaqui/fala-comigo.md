@@ -19,6 +19,6 @@ E por falar em atuações, colocar Karine Teles como protagonista se torna uma d
 
 Fala Comigo, então, parece fazer questão de normalizar o que é incômodo e incomodar o que é normal. Ele inverte valores e atravessa no tempo com um filme simples e rápido, provando que muitas vezes não é necessário muito para contar muito. Quem quiser poderá prestar atenção a detalhes inconsequentes, mas que darão uma nova dimensão a um filme aparentemente despretensioso. No entanto, só pelo tirar das máscaras, os diálogos do dia-a-dia, seja no "romance proibido" ou no jantar em família, se tornam muito mais interessantes.
 
-<hr>"Fala Comigo" (Brazil, 2016), escrito por Felipe Sholl, dirigido por Felipe Sholl, com Karine Teles, Tom Karabachian, Denise Fraga, Emílio de Mello, Anita Ferraz<hr>
+<hr>"Fala Comigo" (Brazil, 2016), escrito por Felipe Sholl, dirigido por Felipe Sholl, com Karine Teles, Tom Karabachian, Denise Fraga, Emílio de Mello, Anita Ferraz
 
 <h2>Trailer - Fala Comigo<h2>

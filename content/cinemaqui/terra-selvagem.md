@@ -19,6 +19,6 @@ A inexperiente agente do FBI, que vem em primeiro nos créditos, serve simplesme
 
 Embora exista o desejo claro de realizar discursos sociais, o roteiro de Taylor Sheridan, que aqui estreia na direção, consegue evitar cair no lugar-comum e através de sua narrativa e seus inspirados diálogos se manter firme em estar inserido no modo de viver daquelas pessoas, e assim como seu roteiro anterior, A Qualquer Custo, dar uma sensação muito nítida do espírito americano atual.
 
-<hr>"Wind River" (UK/Canada/USA, 2017), escrito por Taylor Sheridan, dirigido por Taylor Sheridan, com Kelsey Asbille, Jeremy Renner, Julia Jones, Teo Briones, Apesanahkwat<hr>
+<hr>"Wind River" (UK/Canada/USA, 2017), escrito por Taylor Sheridan, dirigido por Taylor Sheridan, com Kelsey Asbille, Jeremy Renner, Julia Jones, Teo Briones, Apesanahkwat
 
 <h2>Trailer - Terra Selvagem<h2>

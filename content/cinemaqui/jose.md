@@ -23,6 +23,6 @@ Além disso, as constantes tomadas da metrópole apinhada de gente indo e vindo 
 
 Este é um filme que ganha sua força pela sua irrelevância. É um estudo natural, mas ao mesmo tempo crítico, sobre as barreiras em nossa vida construídas pelos outros. Nesse caso é a religião, mas é uma mensagem poderosa o suficiente para se tornar universal
 
-<hr>"José" (Guatemala, EUA, 2018), escrito por Li Cheng e George F. Roberson, dirigido por Cheng, com Enrique Salanic, Manolo Herrera, Ana Cecilia Mota.<hr>
+<hr>"José" (Guatemala, EUA, 2018), escrito por Li Cheng e George F. Roberson, dirigido por Cheng, com Enrique Salanic, Manolo Herrera, Ana Cecilia Mota.
 
 <h2>Trailer - José<h2>

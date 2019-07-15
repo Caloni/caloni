@@ -23,8 +23,8 @@ Este é o último filme da entitulada Trilogia do Luto e sua história também u
 
 A pergunta se mantém não-respondida durante todo o longa, mas vemos uma cena em que Cristiano treina dar tiros com uma pistola em um alvo inerte. Essa não é a resposta. Cristiano confessa que seu irmão e pai, se estivessem vivos, fariam justiça com as próprias mãos. Ele é incapaz. Seu jeito de se vingar é documentar tudo em um filme. E o jeito das mulheres se defenderem é denunciar essa violência. Tanto o filme quanto a denúncia parecem rasos demais. Principalmente quando Cristiano revela foto do assassino de sua mãe, por alguns poucos segundos. De aparência humilde, negro, ele não é um personagem no filme. O trabalho documental desaba um pouquinho no final ao percebermos que o realismo nem sempre é verdadeiro, mas construído. Mas quem irá criticar frente às injustiças da vida real, onde torneiras e policiais não funcionam como deveriam?
 
-<hr>
+
 "Elegia De Um Crime" (Brasil, 2018), escrito por Cristiano Burlan, Ana Carolina Marinho, dirigido por Cristiano Burlan, com Cristiano Burlan.
-</hr>
+
 
 <h2>Trailer - Elegia De Um Crime</h2>

@@ -19,8 +19,8 @@ Aliás, todas aquelas velhas figuras parecem estar tão acostumadas a esse jogo 
 
 Mas não se engane: haverão reviravoltas. Mais de uma. Esse ainda é um thriller clássico, apesar do filme parecer brincar com os clichês, utilizando, inclusive, uma trilha sonora extremamente batida de Vito Lo Re para toda a produção, mas que não se priva de ter personalidade, com até um tema reconhecível nos créditos finais. Porém, note a música-tema que destoa de todo o resto: Dança da Solidão. Interpretada pela inesquecível Beth Carvalho, a letra fala sobre solidão e desilusão, e é justamente esses os sentimentos que o espectador terá em notar que esta é uma história tristíssima. Tristíssima e belíssima. Como pode a injustiça ser tão glamurizada?
 
-<hr>
+
 La ragazza nella nebbia (Itália, Alemanha, França, 2017), escrito e dirigido por Donato Carrisi, com Toni Servillo, Alessio Boni, Lorenzo Richelmy e Jean Reno. Thriller, literatura, crime.
-</hr>
+
 
 <h2>Trailer - A Garota Na Névoa</h2>

@@ -23,6 +23,6 @@ E é exatamente da mesma forma com que ele se torna uma caricatura simpática de
 
 A tempo: sempre antenado com os tempos atuais, este filme também possui refugiados, e eles consome boa parte do terceiro ato. Não é como se a história deles fizessem parte da principal, pois não faz. O tema secundário simplesmente é jogado porque sim. E assim como todo e qualquer acontecimento na vila, este é mais um em que a impotência de seus moradores é o maior símbolo de todos.
 
-<hr>"La villa" (França, 2017), escrito por Robert Guédiguian e Serge Valletti, dirigido por Guédiguian, com Ariane Ascaride, Jean-Pierre Darroussin, Gérard Meylan.<hr>
+<hr>"La villa" (França, 2017), escrito por Robert Guédiguian e Serge Valletti, dirigido por Guédiguian, com Ariane Ascaride, Jean-Pierre Darroussin, Gérard Meylan.
 
 <h2>Trailer - Uma Casa à Beira Mar<h2>

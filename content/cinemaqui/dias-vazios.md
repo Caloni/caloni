@@ -19,8 +19,8 @@ Mas não há sequer espaço para ironia com esses personagens, que passam o temp
 
 O resultado não é coerente, pois é mais imaginativo, mas entretém, como todo jogo de metalinguagem. O diretor Bruno Almeida captura com certa competência o marasmo da "Província de Silvana, no Centro-Oeste do Brasil" (assim Daniel nos introduz ao local da ação em seu livro). Se entendermos que estes são os delírios adolescentes de um jovem escritor fica mais palatável de assistir, mesmo que esteja claro que de tantas referências essa história não irá conseguir extrair algo além da experiência da escrita de um livro sobre a própria vida. O que esperar de adolescentes depressivos?
 
-<hr>
+
 "Dias Vazios" (Brasil, 2018), escrito por Robney Bruno Almeida, dirigido por Robney Bruno Almeida, com Arthur Avila, Natália Dantas, Vinícius Queiroz, Carla Ribas, Nayara Tavares.
-</hr>
+
 
 <h2>Trailer - Dias Vazios</h2>

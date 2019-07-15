@@ -23,6 +23,6 @@ Até a trilha sonora, baseada em tons únicos e repetitivos, subverte um pouco e
 
 A Favorita não tem em sua história nada que já não tenha sido visto nos inúmeros eventos históricos e seus filmes. Esse particularmente nem é tão engenhoso. O forte do filme é apostar em nosso senso estético e construir com isso a estranheza tão óbvia dessa época, mas que por algum motivo poucos possuem a coragem de demonstrar em filmes caros como esse. Nem todos podem se dar a esse luxo.
 
-<hr>"The Favourite" (Irlanda, Reino Unido, EUA, 2018), escrito por Deborah Davis, Tony McNamara, dirigido por Yorgos Lanthimos, com Olivia Colman, Rachel Weisz, Emma Delves, Emma Stone.<hr>
+<hr>"The Favourite" (Irlanda, Reino Unido, EUA, 2018), escrito por Deborah Davis, Tony McNamara, dirigido por Yorgos Lanthimos, com Olivia Colman, Rachel Weisz, Emma Delves, Emma Stone.
 
 <h2>Trailer - A Favorita<h2>

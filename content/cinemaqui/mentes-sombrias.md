@@ -27,6 +27,6 @@ A direção da sul-coreana Jennifer Yuh Nelson, conhecida pelas sequências da a
 
 Porém, apesar da distopia social no mínimo curiosa e de personagens que se tornam aos poucos cativantes, Mentes Sombrias possui o velho problema do gênero de ser esquemático e sempre nos levar para o formato bem contra o mal maniqueísta, previsível e... interminável. O que é uma decepção para quem se dispõe a investir algum tempo na aventura e descobrir que ela está longe de terminar.
 
-<hr>"The Darkest Minds" (EUA, 2018), escrito por Chad Hodge baseado no romance de Alexandra Bracken, dirigido por Jennifer Yuh Nelson, com Amandla Stenberg, Harris Dickinson, Miya Cech e Skylan Brooks.<hr>
+<hr>"The Darkest Minds" (EUA, 2018), escrito por Chad Hodge baseado no romance de Alexandra Bracken, dirigido por Jennifer Yuh Nelson, com Amandla Stenberg, Harris Dickinson, Miya Cech e Skylan Brooks.
 
 <h2>Trailer - Mentes Sombrias<h2>

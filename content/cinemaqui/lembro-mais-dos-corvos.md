@@ -23,8 +23,8 @@ A câmera de Gustavo intimida. Ela faz zoom, ela acompanha Julia se trocando, el
 
 Uma madrugada em São Paulo e uma entrevista íntima e pessoal com Julia Katharine. Seguido de um curta de quase meia-hora de sua autoria (espero que quando estreie esteja junto também). A sensação é ter conversado a noite inteira com este ser humano talentoso em saber viver (apesar dos infortúnios) e em seguida observar uma de suas criações. É humanizar demais o Cinema. É arriscar demais se aproximar de um ser humano. Esteja avisado.
 
-<hr>
+
 "Lembro Mais Dos Corvos" (Brasil, 2018), escrito por Julia Katharine, Gustavo Vinagre, dirigido por Gustavo Vinagre, com Julia Katharine.
-</hr>
+
 
 <h2>Trailer - Lembro Mais Dos Corvos</h2>

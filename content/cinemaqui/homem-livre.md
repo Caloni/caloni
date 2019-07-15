@@ -17,8 +17,8 @@ Nunca saberemos. O filme está mais interessado em nos entregar inúmeros jogos 
 
 Mas o roteirista Pedro Perazzo não nos quer contar. Ele fica repetindo a mesma cena de Hélio em um carro prestes a atropelar sua vítima -- uma mulher -- mas nunca nos diz como ela se relaciona com a ninfeta. Conforme a história avança as perguntas se acumulam, e respostas não se materializam. E isso aos poucos cansa. Chega uma hora que não eu desisto. Não quero mais saber quem foi e quem é Hélio Lotte. Nem sequer mais me interesse pelo mistério de por que as pessoas o respeitam com esse nome. A partir daí basta assistir um filme no automático para depois esquecer.
 
-<hr>
+
 "Homem Livre (Brasil, 2017), escrito por Pedro Perazzo, dirigido por Alvaro Furloni, com Armando Babaioff como Hélio Lotte, Flavio Bauraqui como Pastor Gileno Maia, Thuany Andrade como Jamily."
-</hr>
+
 
 <h2>Trailer - Homem Livre</h2>

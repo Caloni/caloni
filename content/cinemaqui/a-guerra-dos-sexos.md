@@ -23,6 +23,6 @@ Já quem enquadra esse mini-retrato de uma época de uma forma mais humana, real
 
 E essa sensação das pessoas em uma sociedade estarem sempre de olho nas celebridades é bem presente. E necessária. Só assim para percebermos o verdadeiro desafio daquele dia naquela quadra. É assim com os melhores filmes de boxe e tênis. Quando o confronto final começa, é mais importante o que aprendemos sobre os adversários, seus medos, desafios e dramas, do que a luta ou a partida. Guerra dos Sexos consegue ser leve até o final, mas nunca deixa isso de lado.
 
-<hr>"Battle of the Sexes" (UK/USA, 2017), escrito por Simon Beaufoy, dirigido por Jonathan Dayton, Valerie Faris, com Emma Stone, Steve Carell, Andrea Riseborough, Natalie Morales, Sarah Silverman<hr>
+<hr>"Battle of the Sexes" (UK/USA, 2017), escrito por Simon Beaufoy, dirigido por Jonathan Dayton, Valerie Faris, com Emma Stone, Steve Carell, Andrea Riseborough, Natalie Morales, Sarah Silverman
 
 <h2>Trailer - A Guerra Dos Sexos<h2>

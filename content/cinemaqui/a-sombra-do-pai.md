@@ -23,8 +23,8 @@ Por outro lado há uma criatividade latejante neste filme, que recicla suas refe
 
 A Sombra do Pai é um terror dos bons, que referencia os clássicos e ainda possui uma identidade brasileira, que se aproveita de nossa enorme mescla de crendices e formas de enxergar o pós-vida. É de fácil acesso para o grande público, possui uma equipe técnica de talento (principalmente de fotografia, que consegue mostrar muitas cenas noturnas sem comprometer a qualidade) e acima de tudo uma diretora extremamente competente em controlar sua obra. E não é um prazer saber que há uma diretora brasileira que poderá dirigir mais filmes do gênero dialogando com nossa realidade?
 
-<hr>
+
 "A Sombra do Pai" (Brasil, 2018), escrito e dirigido por Gabriela Amaral, com Nina Medeiros, Luciana Paes, Dinho Lima Flor.
-</hr>
+
 
 <h2>Trailer - A Sombra do Pai</h2>

@@ -21,6 +21,6 @@ E o Marco Dutra consegue com a ajuda desses símbolos, de uma fotografia mestre 
 
 Há algo de Hitchcock em O Silêncio do Céu, seja na perseguição de carros ou na maneira inquietante com que Mario adentra um mundo estranho que vai aos poucos se tornando terrivelmente familiar. Não é um filme para muitos, pois seu desfecho não satisfaz os que gostam de histórias amarradas com tudo resolvido. Porém, se engana desde o começo quem acha que haverá um final feliz em uma história que começa com um estupro.
 
-<hr>"Era el Cielo" (Brazil, 2016), escrito por Sergio Bizzio, Sergio Bizzio, Caetano Gotardo, Lucía Puenzo, dirigido por Marco Dutra, com Leonardo Sbaraglia, Carolina Dieckmann, Chino Darín, Alvaro Armand Ugon, Mirella Pascual<hr>
+<hr>"Era el Cielo" (Brazil, 2016), escrito por Sergio Bizzio, Sergio Bizzio, Caetano Gotardo, Lucía Puenzo, dirigido por Marco Dutra, com Leonardo Sbaraglia, Carolina Dieckmann, Chino Darín, Alvaro Armand Ugon, Mirella Pascual
 
 <h2>Trailer - O Silêncio do Céu<h2>

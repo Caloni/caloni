@@ -17,8 +17,8 @@ Nápoles vira uma personagem onde os mistérios ocorrem, em seus corredores, rua
 
 O uso da câmera também funciona na subjetividade. Vira e mexe ela está atrás de seus personagens. E ela está certa para esse filme: seus personagens importam mais que os fatos. Os fatos, esses escravos de nossa percepção, às vezes veem à tona, às vezes não. O que aconteceu com alguém que não existe mais existe de fato? Assista sem pressa.
 
-<hr>
+
 Napoli velata (aka Naples in Veils). (Itália, 2017), escrito por Ferzan Ozpetek, Gianni Romoli, Valia Santella, dirigido por Ferzan Ozpetek, com Giovanna Mezzogiorno, Alessandro Borghi, Anna Bonaiuto.
-</hr>
+
 
 <h2>Trailer - O Segredo de Nápoles</h2>

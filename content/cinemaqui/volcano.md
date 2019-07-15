@@ -15,8 +15,8 @@ Primeira ficção do diretor Roman Bondarchuk, Volcano é um trabalho que nos ca
 
 O que mais fascina no filme é como ele consegue evitar diálogos desnecessários e passar para a observação pura e simples. E é através dessa observação que seus melhores momentos são forjados. Já seus piores momentos são as tentativas de colocar um pouco de ordem na história. Não precisamos de ordem. O que precisamos são pessoas que consigam pendurar a colher na testa.
 
-<hr>
+
 Volcano (Alemanha, Ucrânia, 2018), escrito por Alla Tyutyunnik, Dar'ya Averchenko, Roman Bondarchuk, dirigido por Bondarchuk, com Serhiy Stepansky, Viktor Zhdanov.
-</hr>
+
 
 <h2>Trailer - Volcano</h2>

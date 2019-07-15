@@ -18,6 +18,6 @@ A direção de Pedro Larraín ("No") usa artifícios inteligentes para manter o 
 
 Curiosamente, "Neruda" evita usar o saudosismo barato e aplica técnicas de narrativa literária em uma produção cinematográfica, tornando o conjunto da obra quase que uma homenagem a um poeta que não tinha muito o que dizer senão repetir suas homenagens ao homem comum, a elevação da paixão e do amor como necessidades biológicas mais fortes que a respiração e, claro, sua ode ao comunismo. Seja lá o que ele verdadeiramente quis dizer com isso. Muito provavelmente nem ele sabia.
 
-<hr>"Neruda" (Chile/Argentina/France/Spain/USA, 2016), escrito por Guillermo Calderón, dirigido por Pablo Larraín, com Gael García Bernal, Luis Gnecco, Alfredo Castro, Pablo Derqui, Mercedes Morán<hr>
+<hr>"Neruda" (Chile/Argentina/France/Spain/USA, 2016), escrito por Guillermo Calderón, dirigido por Pablo Larraín, com Gael García Bernal, Luis Gnecco, Alfredo Castro, Pablo Derqui, Mercedes Morán
 
 <h2>Trailer - Neruda<h2>

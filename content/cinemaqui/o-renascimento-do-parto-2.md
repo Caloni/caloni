@@ -20,6 +20,6 @@ E por falar na palavra "protesto", se no primeiro filme já se esboçava timidam
 
 E por falar em protagonismo, neste filme não há uma protagonista. No máximo um ícone: uma mulher, negra, sem pernas, cadeirante, que se veste para um ensaio fotográfico como um ícone feminista das antigas. Isso não é apenas viver no passado, mas tentar repeti-lo. E O Renascimento do Parto 2 tenta repetir sem tirar ou colocar uma vírgula a mesmice do seu antecessor.
 
-<hr>"O Renascimento Do Parto 2" (Brasil, 2018), dirigido por Eduardo Chauvet.<hr>
+<hr>"O Renascimento Do Parto 2" (Brasil, 2018), dirigido por Eduardo Chauvet.
 
 <h2>Trailer - O Renascimento Do Parto 2<h2>

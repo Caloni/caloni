@@ -28,6 +28,6 @@ Preenchendo com uma trilha sonora texana divertida com seus momentos dramáticos
 
 Mas a estrela do filme é mesmo o roteiro. Escrito pelo ator Taylor Sheridan (que faz uma ponta), que já havia escrito "Sicario: Terra de Ninguém", o filme de Denis Villeneuve, ele é a prova viva de que roteiros originais podem não ser o mainstream em Hollywood, mas com certeza é de onde vem as melhores surpresas. Minucioso nos detalhes e mantendo o espectador sempre com uma pontinha de querer saber mais, Sheridan consegue caminhar passo-a-passo com ambos os lados da perseguição à distância, e mesmo que nada esteja ocorrendo é na mente dos perseguidores e perseguidos que a ação se desenrola.
 
-<hr>"Hell or High Water" (USA, 2016), escrito por Taylor Sheridan, dirigido por David Mackenzie, com Dale Dickey, Ben Foster, Chris Pine, William Sterchi, Buck Taylor<hr>
+<hr>"Hell or High Water" (USA, 2016), escrito por Taylor Sheridan, dirigido por David Mackenzie, com Dale Dickey, Ben Foster, Chris Pine, William Sterchi, Buck Taylor
 
 <h2>Trailer - A Qualquer Custo<h2>

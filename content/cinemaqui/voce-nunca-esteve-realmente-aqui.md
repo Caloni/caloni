@@ -21,6 +21,6 @@ Já Ekaterina Samsonov, o que dizer dela? Aos catorze anos ela é jovem, como Jo
 
 Um destaque merecido deve ir para o design de som, pois em um filme com pouquíssima trilha, a maioria ocasional de cena, a possibilidade dos menores ruídos e sons do ambiente serem relevantes para a criação da atmosfera não é algo que pode passar despercebido. Aliás, a própria questão do "ninguém liga" é estampada em nossos ouvidos com o barulho irritante de pessoas conversando em volta de ambientes públicos. A melhor cena do filme é quando um certo personagem dá um tiro em sua própria cabeça. Observe como a fantasia representa a realidade muito melhor do que ela própria. Eis a cabeça dos anormais servindo de guia moral mais eficiente do que toda a sociedade. O filme de ação do ano, tenso do começo ao fim, com uma mensagem poderosa que ecoa após seu final para os pensamentos dos mais atentos. Imperdível.
 
-<hr>"You Were Never Really Here" (Reino Unido, França, 2017), escrito por Lynne Ramsay baseado no livro de Jonathan Ames, dirigido por Ramsay, com Joaquin Phoenix, Judith Roberts, Ekaterina Samsonov.<hr>
+<hr>"You Were Never Really Here" (Reino Unido, França, 2017), escrito por Lynne Ramsay baseado no livro de Jonathan Ames, dirigido por Ramsay, com Joaquin Phoenix, Judith Roberts, Ekaterina Samsonov.
 
 <h2>Trailer - Você Nunca Esteve Realmente Aqui<h2>

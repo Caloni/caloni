@@ -23,8 +23,8 @@ O trabalho de maquiagem e efeitos visuais feito nos atores Eva Melander e Eero M
 
 O que me lembra que este pode ser um filme difícil de ser visto por algumas pessoas. Ele não nos poupa de nenhum dos detalhes viscerais que irão surgindo, flertando em alguns momentos com um pouco do gênero de terror e suspense. Porém, se você conseguir passar por um momento em que um personagem come uma larva, talvez esteja apto para ver o filme inteiro.
 
-<hr>
+
 "Gräns" (Suécia, Dinamarca, 2018), escrito por Ali Abbasi, Isabella Eklöf e John Ajvide Lindqvist baseado em sua história, dirigido por Abbasi, com Eva Melander, Eero Milonoff, Jörgen Thorsson.
-</hr>
+
 
 <h2>Trailer - Border</h2>

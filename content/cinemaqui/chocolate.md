@@ -25,6 +25,6 @@ De uma forma ou de outra, o desempenho de ambos os atores é sensacional, mas se
 
 Felizmente, hoje em dia não é preciso dar sermões às pessoas para elas enxergarem o que é certo e errado no comportamento daqueles brancos de 100 anos atrás.
 
-<hr>"Chocolat" (France, 2015), escrito por Cyril Gely, Olivier Gorce, Gérard Noiriel, Roschdy Zem, dirigido por Roschdy Zem, com Omar Sy, James Thierrée, Clotilde Hesme, Olivier Gourmet, Frédéric Pierrot<hr>
+<hr>"Chocolat" (France, 2015), escrito por Cyril Gely, Olivier Gorce, Gérard Noiriel, Roschdy Zem, dirigido por Roschdy Zem, com Omar Sy, James Thierrée, Clotilde Hesme, Olivier Gourmet, Frédéric Pierrot
 
 <h2>Trailer - Chocolate<h2>

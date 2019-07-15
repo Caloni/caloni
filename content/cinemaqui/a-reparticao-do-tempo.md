@@ -21,6 +21,6 @@ Pelo menos uma coisa há de interessante no longa: a direção. O diretor estrea
 
 Sem um tema facilmente identificável para explorar, A Repartição do Tempo apenas se aproveita da premissa de uma máquina do tempo no formato de relógio de ponto hipster para apelar para o velho suterfúgio de viagem no tempo, cruzamentos temporais, etc. O pouco que faz com isso não justifica viajar no tempo. E tentar arrumar emoção onde não há sequer seres humanos completos é um desafio.
 
-<hr>"Idem" (Brasil, 2016), escrito por Davi Mattos, Santiago Dellape, dirigido por Santiago Dellape, com Edu Moraes, Eucir de Souza, Bianca Müller.<hr>
+<hr>"Idem" (Brasil, 2016), escrito por Davi Mattos, Santiago Dellape, dirigido por Santiago Dellape, com Edu Moraes, Eucir de Souza, Bianca Müller.
 
 <h2>Trailer - A Repartição do Tempo<h2>

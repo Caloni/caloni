@@ -29,8 +29,8 @@ Aliás, como crítica política o filme comete o deslize de ser superficial em a
 
 "Vice" é um filme sobre um vice-presidente que pode mais que todos os seus antecessores, e pode mais até que os presidentes anteriores. Seu nome não é apenas sobre isso. Significa vício em inglês; vício pelo poder. Vício por controle. Por dinheiro. Por qualquer coisa que suba acima das cabeças de seres humanos medíocres e os faça manipular tudo e todos, matando alguns no processo, para conseguir seus objetivos, sejam eles quais forem. Bom, se você já passou da fase de escolher lados, sabe que basicamente esse é a sinopse de qualquer partido político, não é mesmo?
 
-<hr>
+
 "Vice" (EUA, 2018), escrito e dirigido por Adam McKay, com Christian Bale como Dick Cheney, Amy Adams como Lynne Cheney, Steve Carell como Donald Rumsfeld, Sam Rockwell como George W. Bush.
-</hr>
+
 
 <h2>Trailer - Vice</h2>

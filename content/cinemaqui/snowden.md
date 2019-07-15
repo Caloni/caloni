@@ -22,6 +22,6 @@ Já na direção, Oliver Stone parece conseguir equilibrar o ataque ao ufanismo 
 
 Mas apesar dos pesares, Snowden é um filme eficiente do começo ao fim, tanto que consegue fazer um salto final entre ficção e realidade que deveria ser arriscada na maioria dos filmes, mas que aqui apenas encontra surpresa e admiração. Muito disso deve ser atribuído a Joseph Gordon-Levitt, que não reproduz Edward Snowden como uma máscara, mas o vive por inteiro, seja nas expressões introvertidas do sujeito ou até em sua forma de andar e manter sua cabeça levemente abaixada. Não se trata de uma atuação para prêmios, pois é sutil demais para isso. Porém, é tão eficiente que sequer se nota a diferença entre ficção e realidade. E se trazer a realidade através de um documentário já é um trabalho de heróis, imitá-la em perfeição pelo método teatral é ainda mais impressionante.
 
-<hr>"Snowden" (France/Germany/USA, 2016), escrito por Kieran Fitzgerald, Oliver Stone, Anatoly Kucherena, Luke Harding, dirigido por Oliver Stone, com Melissa Leo, Zachary Quinto, Joseph Gordon-Levitt, Jaymes Butler, Robert Firth<hr>
+<hr>"Snowden" (France/Germany/USA, 2016), escrito por Kieran Fitzgerald, Oliver Stone, Anatoly Kucherena, Luke Harding, dirigido por Oliver Stone, com Melissa Leo, Zachary Quinto, Joseph Gordon-Levitt, Jaymes Butler, Robert Firth
 
 <h2>Trailer - Snowden<h2>

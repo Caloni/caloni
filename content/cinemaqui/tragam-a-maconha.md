@@ -21,6 +21,6 @@ Nessa parte do filme vamos aprendendo mais sobre os consumidores e como o comér
 
 De qualquer forma ele consegue contar uma história falsa com certa legitimidade graças ao bom humor do presidente uruguaio (e de todos os entrevistados que comentam como Obama era uma chaminé na faculdade). O filme é levemente divertido através de seus pobres personagens, mas deixa uma mensagem importante no ar: por que alguns levam esse assunto tão a sério?
 
-<hr>"Misión No Oficial (aka Get the Weed)" (Uruguai, EUA, 2017), escrito e dirigido por Denny Brechner, Alfonso Guerrero e Marcos Hecht, com Denny Brechner, Talma Friedler, Pepe Mujica, Gustavo Olmos, Ignacio Roqueta.<hr>
+<hr>"Misión No Oficial (aka Get the Weed)" (Uruguai, EUA, 2017), escrito e dirigido por Denny Brechner, Alfonso Guerrero e Marcos Hecht, com Denny Brechner, Talma Friedler, Pepe Mujica, Gustavo Olmos, Ignacio Roqueta.
 
 <h2>Trailer - Tragam a Maconha<h2>

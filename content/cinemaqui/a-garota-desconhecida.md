@@ -17,6 +17,6 @@ A dupla de diretores consegue nos manter sempre em movimento, seja com a câmera
 
 O último ato significativo que vemos da médica -- dar um abraço em uma pessoa -- é a redenção esperada por todo o filme. E é a única coisa que podemos fazer enquanto a humanidade vai se perdendo em cada um de nós, indiferentes às mortes que ocorrem todos os dias, muitas vezes no nosso bairro, rua ou prédio. Há uma mensagem maior em A Garota Desconhecida do que um simples caso de morte de indigentes. A maior virtude do filme é justamente ir em busca de qual é essa mensagem.
 
-<hr>"La fille inconnue" (Belgium/France, 2016), escrito por Jean-Pierre Dardenne, Luc Dardenne, dirigido por Jean-Pierre Dardenne, Luc Dardenne, com Adèle Haenel, Olivier Bonnaud, Jérémie Renier, Louka Minnella, Christelle Cornil<hr>
+<hr>"La fille inconnue" (Belgium/France, 2016), escrito por Jean-Pierre Dardenne, Luc Dardenne, dirigido por Jean-Pierre Dardenne, Luc Dardenne, com Adèle Haenel, Olivier Bonnaud, Jérémie Renier, Louka Minnella, Christelle Cornil
 
 <h2>Trailer - A Garota Desconhecida<h2>

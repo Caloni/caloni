@@ -21,8 +21,8 @@ Suportado por um trabalho de maquiagem e direção de arte impecáveis, é recom
 
 Aliás, a escolha de Marina Provenzzano como Ana é igualmente um símbolo. De pele clara e significando pureza, sua personagem aos poucos vai sofrendo o peso de ser uma mártir em uma cidade que a está esmagando por todos os lados, e lentamente. Provenzzano faz uma Ana corajosa, mas que está perdendo o rumo de suas ações. E o filme a utiliza como o símbolo final, para satisfação dos espectadores do Cinema que ultrapassa alguns limites da realidade para ascender como algo que não nos esqueceremos tão cedo.
 
-<hr>
+
 "Mormaço" (Brasil, 2018), escrito por Felipe Bragança e Marina Meliande e dirigido por Meliande, com Marina Provenzzano, Sandra Maria, Pedro Gracindo.
-</hr>
+
 
 <h2>Trailer - Mormaço</h2>

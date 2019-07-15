@@ -30,6 +30,6 @@ Com uma trilha sonora saudosista e apaixonante (embora sutil), e uma fotografia 
 
 Por fim, a maneira com que edição trabalha a dualidade do casal, não como um casal, mas duas mentes pensantes cada vez mais em sincronia, consegue ainda se desvencilhar de mais um clichê: de que casais juntos formam uma voz uníssona. A defesa da individualidade de cada um, enquanto ao mesmo tempo vão alinhando seus "discursos" um com o outro, talvez seja o detalhe final para tornar Michelle e Obama um romance que conseguiu a mesma coisa que Antes do Amanhecer: ao final do filme, há ainda o desejo de acompanhar aquele casal por muito, muito mais tempo.
 
-<hr>"Southside with You" (USA, 2016), escrito por Richard Tanne, dirigido por Richard Tanne, com Tika Sumpter, Parker Sawyers, Vanessa Bell Calloway, Phillip Edward Van Lear, Taylar Fondren<hr>
+<hr>"Southside with You" (USA, 2016), escrito por Richard Tanne, dirigido por Richard Tanne, com Tika Sumpter, Parker Sawyers, Vanessa Bell Calloway, Phillip Edward Van Lear, Taylar Fondren
 
 <h2>Trailer - Michelle e Obama<h2>

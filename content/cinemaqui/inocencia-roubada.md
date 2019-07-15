@@ -21,8 +21,8 @@ Por outro lado, ao encontrar um refúgio sincero em seu companheiro, o filme nos
 
 Apesar de não ser pesado este não é um filme fácil para os que preferem não tocar em alguns assuntos da vida adulta, e justamente por isso esse se torna um trabalho merecedor de nossas atenções, no melhor sentido de "precisamos falar sobre isso". Mas nem sempre apenas falar ajuda. É necessário encontrar o tom. E Inocência Roubada consegue essa proeza de todas as maneiras possíveis, doa a quem doer. Um trabalho sincero, tocante, digno de admiração e de aplausos no final.
 
-<hr>
+
 "Little Tickles. France, 2018. Dirigido por Andréa Bescond, Eric Métayer, escrito por Andréa Bescond, Andréa Bescond, Andréa Bescond. Com Andréa Bescond, Karin Viard, Clovis Cornillac."
-</hr>
+
 
 <h2>Trailer - Inocência Roubada</h2>

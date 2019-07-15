@@ -27,6 +27,6 @@ Enquanto isso o dueto teatral entre Clarissa Kiste e Maria Luísa Mendonça func
 
 Além de atuar, Rafael Primot dirige aqui com absoluta tranquilidade e uma certa petulância, que pode ou não fazer parte do jogo dos clichês. Apostando nas cenas mais fechadas ele mantém o orçamento sob controle e nos traz mais para a intimidade daquelas pessoas. Foram sete dias de filmagens com pouquíssimo tempo para ensaios que realizaram um pequeno milagre que merece ser visto na tela de cinema. Há algo aqui querendo ser dito sobre o processo de "amorização" do cinema, e pode ser algo que não havia sido dito antes. Ou, sei lá, talvez nós estivéssemos entretidos demais nos velhos e eficientes clichês do gênero.
 
-<hr>"Todo Clichê do Amor" (Brasil, 2018), escrito por Rafael Primot, dirigido por Rafael Primot, com Maria Luísa Mendonça, Débora Falabella, Marjorie Estiano, Gilda Nomacce, Rafael Primot, Gilda Nomacce.<hr>
+<hr>"Todo Clichê do Amor" (Brasil, 2018), escrito por Rafael Primot, dirigido por Rafael Primot, com Maria Luísa Mendonça, Débora Falabella, Marjorie Estiano, Gilda Nomacce, Rafael Primot, Gilda Nomacce.
 
 <h2>Trailer - Todo Clichê do Amor<h2>

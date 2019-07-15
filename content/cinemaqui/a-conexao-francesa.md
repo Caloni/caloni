@@ -21,6 +21,6 @@ No entanto, a história dos dois fica como um pano de fundo muito pálido, fican
 
 Ganhando no título nacional o título original do filme de 1971 com Gene Hackman que se passa em Nova Iorque ("The French Connection" virou "Operação França" aqui), essa é a ponta francesa do tráfico de drogas entre França e EUA, mas não deve se tornar tão famoso quanto o filme de William Friedkin. Curiosamente, é um dos filmes franceses mais americanos, já que máfia e corrupção parece ter sido uma criação que a máfia italiana nova-iorquina e os diretores de lá nasceram fazendo.
 
-<hr>"The French Connection" (USA, 1971), escrito por Ernest Tidyman, Robin Moore, Howard Hawks, dirigido por William Friedkin, com Gene Hackman, Fernando Rey, Roy Scheider, Tony Lo Bianco, Marcel Bozzuffi<hr>
+<hr>"The French Connection" (USA, 1971), escrito por Ernest Tidyman, Robin Moore, Howard Hawks, dirigido por William Friedkin, com Gene Hackman, Fernando Rey, Roy Scheider, Tony Lo Bianco, Marcel Bozzuffi
 
 <h2>Trailer - A Conexão Francesa<h2>

@@ -25,6 +25,6 @@ A trilha sonora é uma coisa marcante. Conseguindo harmonizar música de ação 
 
 Conseguindo criar tensão se haverá uma luta mesmo depois de revelada que ela acontecerá nos letreiros iniciais, A Origem do Dragão é uma grata surpresa do universo de Bruce Lee, pois não se trata totalmente de um caça-níqueis inconsequente. Há uma mensagem por trás das homenagens, referências e lutas. E ironicamente é justamente sobre isso que diziam seus firmes. Sua origem, aparentemente, é uma lição sobre a criação de sua alma. Bem ao estilo milenar chinês.
 
-<hr>"Birth of the Dragon" (China/Canada/USA, 2016), escrito por Stephen J. Rivele, Christopher Wilkinson, Michael Dorgan, dirigido por George Nolfi, com Yu Xia, Wang Xi'An, Hai Yu, Yue Wu, Billy Magnussen<hr>
+<hr>"Birth of the Dragon" (China/Canada/USA, 2016), escrito por Stephen J. Rivele, Christopher Wilkinson, Michael Dorgan, dirigido por George Nolfi, com Yu Xia, Wang Xi'An, Hai Yu, Yue Wu, Billy Magnussen
 
 <h2>Trailer - A Origem do Dragão<h2>

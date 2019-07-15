@@ -19,6 +19,6 @@ O mais impressionante do ponto de vista técnico no filme é sua economia de rec
 
 "Animal Político" é o meu tipo de filme favorito para recomendar para que as pessoas assistam com amigos e conversem a respeito. Ele é curto (uma hora e pouco), mas possui alguns momentos calmos demais. Então preste atenção até o final, acenda a churrasqueira, abra uma garrafa de cerveja e comece a imitar todos os costumes vistos. Adicione agora o ato de pensar. O espectro de Aristóteles agradece.
 
-<hr>"Animal Político" (Brasil, 2016), escrito e dirigido por Tião, com Rodrigo Bolzan, Elisa Heidrich, Victor Laet.<hr>
+<hr>"Animal Político" (Brasil, 2016), escrito e dirigido por Tião, com Rodrigo Bolzan, Elisa Heidrich, Victor Laet.
 
 <h2>Trailer - Animal Político<h2>

@@ -21,8 +21,8 @@ E, por fim, do ponto de vista do romance, este é basicamente um novelão. Acomp
 
 Mas não me leve a mal, este é um filme com temas interessantes e uma personagem idem. Eu até gostaria de ter visto mais sobre esses assuntos que giram em torno da figura de Joan, se infelizmente essa não fosse, como ela mesmo se coloca, "uma sombra em meio aos homens". Esse filme tristemente parece a colocar na mesma situação do passado, não fazendo jus à possível homenagem que poderia ter sido feito pelas suas, se não nobres, bem-intencionadas ações da época.
 
-<hr>
+
 "Red Joan" (Reino Unido, 2018), escrito por Lindsay Shapero, dirigido por Trevor Nunn, com Judi Dench, Sophie Cookson, Stephen Campbell Moore, Tom Hughes, Tereza Srbova.
-</hr>
+
 
 <h2>Trailer - A Espiã Vermelha</h2>

@@ -41,6 +41,6 @@ Os diretores estão cientes de que este é um épico. Provavelmente atemporal. P
 
 O roteiro é de uma coesão que vai do começo ao fim em um pulo. O elenco está tão absorvido por esta história que os longos momentos onde os observamos ficamos em dúvida se estamos na vida real ou em uma representação artística. A única falha é que o filme é esperto demais para existir na vida real. É o preço que se paga pela fantasia de poder resumir toda uma ideologia em um arco de historietas do trabalhador comum, o mesmo trabalhador sempre, que se sacrifica por um paraíso que descobre no final da vida que nunca existiu.
 
-<hr>"Arábia" (Brasil, 2017), escrito por João Dumans, Affonso Uchoa, dirigido por João Dumans, Affonso Uchoa, com Aristides de Sousa, Murilo Caliari, Gláucia Vandeveld.<hr>
+<hr>"Arábia" (Brasil, 2017), escrito por João Dumans, Affonso Uchoa, dirigido por João Dumans, Affonso Uchoa, com Aristides de Sousa, Murilo Caliari, Gláucia Vandeveld.
 
 <h2>Trailer - Arábia<h2>

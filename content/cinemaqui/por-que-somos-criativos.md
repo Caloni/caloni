@@ -11,8 +11,8 @@ O resumo da ópera? Talvez as únicas respostas que o diretor obteu de tantas pe
 
 Sim, o documentário de Hermann Vaske é apenas um mini-hype com artistas respondendo essa pergunta da pior maneira possível porque não entenderam sequer o que está acontecendo. Boa sorte tentando assistir esse emaranhado de "insights" e tentar extrair mais alguma coisa disso tudo.
 
-<hr>
+
 Why Are We Creative: The Centipede's Dilemma (Alemanha, 2018), dirigido por Hermann Vaske. Documentário.
-</hr>
+
 
 <h2>Trailer - Por Que Somos Criativos?</h2>

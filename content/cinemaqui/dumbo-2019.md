@@ -23,8 +23,8 @@ Tim Burton é um diretor autoral. Seu eterno tema é exagerar a parte bizarra da
 
 As versões live-action da Disney começam a soar como meras curiosidades estéticas de suas animações originais. A Bela e A Fera já foi assim, e agora Dumbo. Rei Leão está a caminho. Me chamem quando fizerem Mickey Mouse e sua turma. Isso vai ser interessante.
 
-<hr>
+
 "Dumbo" (EUA, 2019), escrito por Ehren Kruger, dirigido por Tim Burton, com Colin Farrell, Eva Green, Danny DeVito, Michael Keaton, Nico Parker.
-</hr>
+
 
 <h2>Trailer - Dumbo</h2>

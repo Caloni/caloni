@@ -15,8 +15,8 @@ A voz de mais sabedoria nesse filme são as da terceira idade. Representada em u
 
 Além dessa crise o filme tenta unir outros temas interessantes, como a vida sem graça da classe média e como os aplicativos de relacionamentos não são essa maravilha que as pessoas que nunca usaram imaginam. São momentos divertidinhos, que deve entreter mais uma vez os menos experientes. Já os mais experientes... mereceriam algo melhor.
 
-<hr>
+
 "El amor menos pensado" (Argentina, 2018), escrito por Daniel Cúparo, Juan Vera, dirigido por Juan Vera, com Ricardo Darín, Mercedes Morán, Claudia Fontán.
-</hr>
+
 
 <h2>Trailer - Um Amor Inesperado</h2>

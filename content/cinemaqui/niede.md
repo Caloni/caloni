@@ -22,8 +22,8 @@ Mas o pior defeito de "Niède" é mesmo o seu inchaço. Quando pensamos que o fi
 
 O que é uma pena para um conteúdo tão promissor. É raro vermos filmes sobre ciência sendo praticada em terrar tupiniquins, ainda mais sobre conteúdo local. Vendo este filme começa a ficar mais claro porque isso não acontece.
 
-<hr>
+
 "Niède" (Brasil, 2019), dirigido por Tiago Tambelli, com Niède Guidon.
-</hr>
+
 
 <h2>Trailer - Niède</h2>

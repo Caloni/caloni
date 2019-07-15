@@ -15,8 +15,8 @@ Sua estrela é Toivo Parikka (Martti Suosalo), o comediante mais famoso da Finl�
 
 Feito para o espectador fazer rir, mas não muito, e conseguir através de algum drama bem localizado e com trilha sonora para fazer chorar, "Rir ou Morrer" é gênero de nicho, feito para o espectador comum. Simpático, terno e esquecível. Assistir entre sessões mais pesadas.
 
-<hr>
+
 Suomen hauskin mies (aka Laugh or Die) (Finlândia, Suécia, 2018), escrito por Heikki Kujanpää, Mikko Reitala, dirigido por Kujanpää, com Martti Suosalo, Jani Volanen, Leena Pöysti e tantos outros. Primeira guerra, drama, história, comédia, humor, fatos reais.
-</hr>
+
 
 <h2>Trailer - Rir Ou Morrer</h2>

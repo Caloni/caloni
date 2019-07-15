@@ -21,6 +21,6 @@ Agu sendo o elo mais fraco entre aqueles seres humanos lutando como animais em b
 
 Beasts of No Nation, salvo um ou outros momentos manipulativos, é um exemplar raro da cinematografia naturalista, que já deu origem a obras-primas como Pixote (Hector Babenco, 1981). É intenso visualmente ao mesmo tempo que tece uma trama tão comum quanto bestial nos dias de hoje. Mais uma vez: infelizmente.
 
-<hr>"Beasts of No Nation" (USA, 2015), escrito por Cary Joji Fukunaga, Uzodinma Iweala, dirigido por Cary Joji Fukunaga, com Abraham Attah, Emmanuel Affadzi, Ricky Adelayitor, Andrew Adote, Vera Nyarkoah Antwi<hr>
+<hr>"Beasts of No Nation" (USA, 2015), escrito por Cary Joji Fukunaga, Uzodinma Iweala, dirigido por Cary Joji Fukunaga, com Abraham Attah, Emmanuel Affadzi, Ricky Adelayitor, Andrew Adote, Vera Nyarkoah Antwi
 
 <h2>Trailer - Beasts of No Nation<h2>

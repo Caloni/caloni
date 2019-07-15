@@ -23,8 +23,8 @@ Scott, Massoud e Smith recriaram e performaram as músicas do filme de uma manei
 
 Sim, "o que há dentro de nós" é sempre a mensagem Disney. Mas há formas piores e melhores de passar a mesma mensagem. Aladdin de 2019 certamente é uma das melhores.
 
-<hr>
+
 "Aladdin" (EUA, 2019), escrito por John August e Guy Ritchie, dirigido por Ritchie, com Will Smith, Mena Massoud, Naomi Scott, Marwan Kenzari, Navid Negahban, Nasim Pedrad.
-</hr>
+
 
 <h2>Trailer - Aladdin 2019</h2>

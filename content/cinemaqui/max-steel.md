@@ -19,6 +19,6 @@ Toda essa falta de criatividade parece acabar influenciando seu fraco elenco pri
 
 Quando vemos filmes assumidamente ruins como Sharknado (e suas sequências) sabemos que os criadores estão piscando para nós; eles sabem que de trata de um thrash, e ao menos eles estão tentando reciclar um gênero com um certo estilo. Filmes como Max Speed bebem da fonte de todos os filmes de origem de super-heróis (brinquedos ou não) e parece tentar emular mecanicamente algo mais do mesmo, e sem nada a acrescentar, seja estilo ou paixão.
 
-<hr>"Max Steel" (UK/USA, 2016), escrito por Christopher Yost, dirigido por Stewart Hendler, com Ben Winchell, Josh Brener, Maria Bello, Andy Garcia, Ana Villafañe<hr>
+<hr>"Max Steel" (UK/USA, 2016), escrito por Christopher Yost, dirigido por Stewart Hendler, com Ben Winchell, Josh Brener, Maria Bello, Andy Garcia, Ana Villafañe
 
 <h2>Trailer - Max Steel<h2>

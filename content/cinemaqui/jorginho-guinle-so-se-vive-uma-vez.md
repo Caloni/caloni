@@ -20,8 +20,8 @@ Acompanhamos Jorginho nessa jornada com mulheres deslumbrantes, manjares dos deu
 
 Parecendo ter sido encomendado como um filme de despedida, "Jorginho Quinle" é um filme alegre, vistoso, que dá a nós, espectadores assalariados, a leve sensação de uma vida que sequer podemos sonhar, pois nos falta imaginação. É uma biografia sobre alguém que não fez nada, mas com muito prazer e elegância. Fútil? Bom, no final da vida dá na mesma. Pelo menos é o que acharia outro ateu com crise existencial.
 
-<hr>
+
 "Jorginho Guinle - $o se Vive Uma Vez" (Brasil, 2019), escrito por Otávio Escobar, Duda Ribeiro e Dostoiewski Champagnatte, dirigido por Escobar, com Saulo Segreto, Guilhermina Guinle, Letícia Spiller, Daniel Boaventura, Davi Goular e Jorge Guinle.
-</hr>
+
 
 <h2>Trailer - Jorginho Guinle So Se Vive Uma Vez</h2>

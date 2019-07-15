@@ -17,6 +17,6 @@ O roteiro, também escrito por Cristina, em parceria com Michele Frantz (Sonhos 
 
 Para uma rotina em que não acontece nada o filme parece te prender a cada detalhe. Isso porque com um roteiro minimalista, que carece de palavras mas sobra de imagens, vamos aos poucos tateando o que a história quer dizer. E, talvez, no final das contas, o título do filme acabe chamando a atenção pelo que ele nos faz esperar. E com personagens tão simbólicos quanto estes, isolados do mundo como estes, trabalhar apenas com expectativas já prova a capacidade do filme em surpreender mesmo em cima do óbvio.
 
-<hr>"Mulher do Pai" (Brazil/Uruguay, 2016), escrito por Cristiane Oliveira, Michele Frantz, dirigido por Cristiane Oliveira, com Maria Galant, Marat Descartes, Verónica Perrotta, Áurea Baptista, Amélia Bittencourt<hr>
+<hr>"Mulher do Pai" (Brazil/Uruguay, 2016), escrito por Cristiane Oliveira, Michele Frantz, dirigido por Cristiane Oliveira, com Maria Galant, Marat Descartes, Verónica Perrotta, Áurea Baptista, Amélia Bittencourt
 
 <h2>Trailer - Mulher do Pai<h2>

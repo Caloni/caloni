@@ -17,6 +17,6 @@ A fotografia, tão importante nesse trabalho, segue um caminho interessante: as 
 
 O roteiro é baseado no livro do próprio Paul Gauguin, Noa Noa, que muitos dizem já ser em parte romantizado. Se isso for verdade, que tristeza a melodia de um homem só, que tentando viver como selvagem busca resgatar seu elo perdido, mas encontra apenas seu próprio reflexo na natureza, demonstrando que a perda da inocência não é algo irreversível, mas inevitável. Quiçá remediável. Mas isso não sabemos por este melancólico filme.
 
-<hr>"Gauguin - Voyage de Tahiti" (França, 2017), escrito por Edouard Deluc, Etienne Comar, Thomas Lilti e Sarah Kaminsky baseados no livro de Paul Gauguin, dirigido por Edouard Deluc, com Vincent Cassel, Tuheï Adams, Malik Zidi.<hr>
+<hr>"Gauguin - Voyage de Tahiti" (França, 2017), escrito por Edouard Deluc, Etienne Comar, Thomas Lilti e Sarah Kaminsky baseados no livro de Paul Gauguin, dirigido por Edouard Deluc, com Vincent Cassel, Tuheï Adams, Malik Zidi.
 
 <h2>Trailer - Gauguin: Viagem ao Taiti<h2>

@@ -21,6 +21,6 @@ O filme acompanha também os testemunhos de diferentes moradores e seus diferent
 
 Dotado de uma trilha sonora apavorante, pois usa o estilo brasileiro de música com notas dissonantes, revelando o descompasso entre a teoria e a prática de uma nação, Favela Olímpica é um trabalho robusto, completo e ritmado. Os anos que passam são sentidos pelo espectador conforme o cerco entre os moradores de aperta, casas começam a sumir, tratores começam a operar. De uma maneira torta, este é um filme que aponta na cara do brasileiro o que é essa brasilidade do comodismo, do egoísmo e da malandragem. E aponta também como as coisas poderiam ser diferentes se as vozes íntegras e honestas fossem ouvidas no lugar do som do dinheiro.
 
-<hr>"Favela Olímpica" (Switzerland, 2017), escrito por Writers, dirigido por Samuel Chalard, com Cast<hr>
+<hr>"Favela Olímpica" (Switzerland, 2017), escrito por Writers, dirigido por Samuel Chalard, com Cast
 
 <h2>Trailer - Favela Olimpica<h2>

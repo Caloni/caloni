@@ -19,6 +19,6 @@ Ou seja, este não é um filme que quer apenas criticar o regime comunista autor
 
 Guerra Fria não é um filme apenas sobre pessoas, mas como essas pessoas são afetadas pelo espírito do tempo. É um filme difícil, pois não há solução para seus personagens. A redenção ocorre apenas via religiosa, a única fonte presente na memória das pessoas (quando os regimes comunistas caem, geralmente a primeira coisa que as pessoas fazem é reconstruir as igrejas e seus rituais, antes proibidos). Também não é um filme sobre cortina de ferro, conspiração e tratamento desumano. É uma tortura psicológica, lenta e sistemática, que esmaga a alma dos mais desavisados que entraram na sala de cinema.
 
-<hr>"Zimna wojna (aka Cold War)" (Polônia, França, Reino Unido, 2018), escrito por Pawel Pawlikowski, Janusz Glowacki e Piotr Borkowski, dirigido por Pawlikowski, com Joanna Kulig, Tomasz Kot, Borys Szyc.<hr>
+<hr>"Zimna wojna (aka Cold War)" (Polônia, França, Reino Unido, 2018), escrito por Pawel Pawlikowski, Janusz Glowacki e Piotr Borkowski, dirigido por Pawlikowski, com Joanna Kulig, Tomasz Kot, Borys Szyc.
 
 <h2>Trailer - Guerra Fria<h2>

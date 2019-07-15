@@ -19,6 +19,6 @@ Mas ao mesmo tempo este é um filme fácil, para as massas. Como os Lumière sem
 
 Não há muito o que falar da arte do filme em si, essa colagem histórica formatada com a dedicação que o material merece. Apenas que seu resultado é inestimável. Se trata do nascimento de uma invenção que todos nós adoramos. O perfeito reflexo da Revolução Industrial e a consequência do avanço tecnológico que mudou radicalmente aquela realidade que vemos em proporção 1.33 em um quase quadrado com cantos arredondados, emoldurado pra presente. Um presente que todo cinéfilo deveria ser grato por poder receber.
 
-<hr>"Lumière!" (France, 2016), escrito por Thierry Frémaux, dirigido por Thierry Frémaux, com Thierry Frémaux, Martin Scorsese, François Clerc, Benoît Duval, Leopoldo Fregoli<hr>
+<hr>"Lumière!" (France, 2016), escrito por Thierry Frémaux, dirigido por Thierry Frémaux, com Thierry Frémaux, Martin Scorsese, François Clerc, Benoît Duval, Leopoldo Fregoli
 
 <h2>Trailer - Lumière! A Aventura Começa<h2>

@@ -25,6 +25,6 @@ E no final, bem no final, vai ficando claro que esta é uma mensagem genérica s
 
 "Antes que Tudo Desapareça" pode ser um longo espetáculo sobre como o trash sci-fi no Japão pode ser minimamente divertido. Ele também pode ser uma aula sobre Cinema. Todos os erros crassos de roteiro estão todos ali, mas muito bem pontuados. E, por fim, é uma aula sobre como fazer um filme-catástrofe sem apelar para efeitos digitais de quinta categoria. Basta apresentar um conceito (ou dois) que descarta a necessidade de naves penduradas com fios, para não correr o risco de virar um Plano 9 do Espaço Sideral Oriental. Mas cuidado com seus conceitos: pode haver um alien por perto tentando roubá-lo.
 
-<hr>"Sanpo suru shinryakusha" (Japão, 2017), escrito por Kiyoshi Kurosawa e Sachiko Tanaka (baseados na peça de Tomohiro Maekawa), dirigido por Kiyoshi Kurosawa, com Masami Nagasawa, Ryûhei Matsuda, Hiroki Hasegawa.<hr>
+<hr>"Sanpo suru shinryakusha" (Japão, 2017), escrito por Kiyoshi Kurosawa e Sachiko Tanaka (baseados na peça de Tomohiro Maekawa), dirigido por Kiyoshi Kurosawa, com Masami Nagasawa, Ryûhei Matsuda, Hiroki Hasegawa.
 
 <h2>Trailer - Antes que Tudo Desapareça<h2>

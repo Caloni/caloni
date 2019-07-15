@@ -19,6 +19,6 @@ Sem qualquer paixão pelo projeto, os cineastas parecem andar à deriva e possue
 
 Certamente há algo a se aprender com os autistas. Isso já está claro para o mundo e Owen é um brilhante exemplo. Porém, não é se colocando em seu próprio nível histérico de enxergar a realidade ou superestimar suas capacidades que os objetivos de comunicação com essas pessoas especiais e dignas de cuidado serão alcançados. Certamente não com um filme que emula o pior na Disney: suas esquisitices assépticas e simplificadas de como a vida funciona.
 
-<hr>"Life, Animated" (USA, 2016), escrito por Ron Suskind, dirigido por Roger Ross Williams, com Jonathan Freeman, Gilbert Gottfried, Alan Rosenblatt, Owen Suskind, Ron Suskind<hr>
+<hr>"Life, Animated" (USA, 2016), escrito por Ron Suskind, dirigido por Roger Ross Williams, com Jonathan Freeman, Gilbert Gottfried, Alan Rosenblatt, Owen Suskind, Ron Suskind
 
 <h2>Trailer - Life, Animated<h2>

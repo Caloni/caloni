@@ -17,6 +17,6 @@ Fora essa diversão despretensiosa sobre igualdade e a luta pelo poder corporati
 
 A diretora Tonie Marshall transforma o seu roteiro com Marion Doussot em um filme esquecível. Ela tem pressa em estabelecer o jogo de poder e se baseia pesadamente em diálogos reveladores para fazer isso, mas uma vez alcançado esse objetivo tudo se transforma mais ou menos em uma novela muito interessante de se ver, mas vazia de maiores ambições.
 
-<hr>"Numéro une" (França, 2017), escrito por Marion Doussot, Tonie Marshall, dirigido por Tonie Marshall, com Emmanuelle Devos, Suzanne Clément, Richard Berry<hr>
+<hr>"Numéro une" (França, 2017), escrito por Marion Doussot, Tonie Marshall, dirigido por Tonie Marshall, com Emmanuelle Devos, Suzanne Clément, Richard Berry
 
 <h2>Trailer - A Número Um<h2>

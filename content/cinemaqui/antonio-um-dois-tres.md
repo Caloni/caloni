@@ -21,8 +21,8 @@ Porém, a diversão é ir desvendando o criativo quebra-cabeças desenvolvido po
 
 Isso também reflete no eterno ensaio e criação da peça do filme antes da estreia. A rima aqui é sobre os jovens em seu eterno preparo para começar a vida adulta. E não é nenhuma surpresa que em ambos vão fracassar. O fracasso é uma coisa boa nessa história, pois faz parte do amadurecimento. Sem dinheiro, mas com tempo sobrando, a juventude explora seus horizontes como pode, e o fracasso é apenas uma das maneiras. Talvez seja a única maneira. E por isso que António pode continuar tentando. Uma, duas, três vezes.
 
-<hr>
+
 "António Um Dois Três" (Brasil, Portugal, 2017), escrito e dirigido por Leonardo Mouramateus, com Mauro Soares, Deborah Viegas, Daniel Pizamiglio.
-</hr>
+
 
 <h2>Trailer - António Um Dois Três</h2>

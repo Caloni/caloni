@@ -15,6 +15,6 @@ Al Gore não é o melhor garoto-propaganda para espalhar mensagens ecológicas. 
 
 Ele, assim como o diretor homenageado da Mostra esse ano, Ai Weiwei, em seu filme sofre refugiados, concluem a mesma coisa: se há uma luz no fim do túnel, ela não será acesa por políticos e burocratas. Somos nós mesmo que teremos que levar adiante o farol da esperança. Ou como ele diz, se referindo aos painéis solares: acima dos telhados.
 
-<hr>"An Inconvenient Sequel: Truth to Power" (USA, 2017), escrito por Al Gore, dirigido por Bonni Cohen, Jon Shenk, com Al Gore, George W. Bush, John Kerry, Marco Krapels, Angela Merkel<hr>
+<hr>"An Inconvenient Sequel: Truth to Power" (USA, 2017), escrito por Al Gore, dirigido por Bonni Cohen, Jon Shenk, com Al Gore, George W. Bush, John Kerry, Marco Krapels, Angela Merkel
 
 <h2>Trailer - Uma Verdade Mais Inconveniente<h2>

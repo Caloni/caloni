@@ -19,6 +19,6 @@ Preocupado excessivamente com enquadramentos, o diretor espanhol Luis Prieto com
 
 Entregando mais do mesmo de uma maneira a tentar agradar massas e fãs de ação visceral, O Sequestro é uma sessão convincente, tensa e ritmada. Você até esquece que já viu isso ou aquilo tantas vezes no Cinema. A moral da história está faltando, porque talvez não tenha nenhuma. Mas como arrebatamento emocional, está tudo aí, para o deleite de quem curte um bom momento pipoca. E a manteiga por cima é a recompensa.
 
-<hr>"Kidnap" (USA, 2017), escrito por Knate Lee, dirigido por Luis Prieto, com Halle Berry, Sage Correa, Chris McGinn, Lew Temple, Jason George<hr>
+<hr>"Kidnap" (USA, 2017), escrito por Knate Lee, dirigido por Luis Prieto, com Halle Berry, Sage Correa, Chris McGinn, Lew Temple, Jason George
 
 <h2>Trailer - O Sequestro<h2>

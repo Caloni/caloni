@@ -23,8 +23,8 @@ O diretor Simon Kinberg esteve envolvido na série como roteirista, no último f
 
 Eu gostaria de dizer que há muitas ideias não exploradas em "X-Men: Fênix Negra", o que daria alguma esperança para o inevitável reboot, mas eu estaria mentindo. A série soa saturada e arrastada desde Apocalipse, e muito do que vem acontecendo com o mundo soa como sintoma. Houve uma vez que os heróis mutantes eram uma bandeira sobre igualdade de direitos em um mundo intolerante, mas o jogo parece ter virado. Agora a historinha é sobre como é ruim bloquear traumas do passado para se proteger da realidade. E eu vou voltar a assistir Logan para me livrar de tantos filtros que me impedem de enxergar o mundo real.
 
-<hr>
+
 "Dark Phoenix" (EUA, 2019), escrito por Simon Kinberg com história de John Byrne, Chris Claremont e Dave Cockrum a partir dos quadrinhos criados por Jack Kirby e Stan Lee (que recebe uma simples dedicatória nos letreiros finais), dirigido por Simon Kinberg, com James McAvoy, Michael Fassbender, Jennifer Lawrence, Nicholas Hoult, Sophie Turner, Tye Sheridan, Alexandra Shipp, Evan Peters, Kodi Smit-McPhee, Jessica Chastain.
-</hr>
+
 
 <h2>Trailer - X-Men: Fênix Negra</h2>

@@ -20,6 +20,6 @@ A atuação de Valerio Mastandrea (A Primeira Coisa Bela) surge como um misto de
 
 Como é prometido pela trilha sonora romantizada, muitas vezes grandiosa, e a direção inflada de Marco Bellocchio, o filme vai muito além do drama pessoal. Ele levanta questões existenciais muito profundas, e apesar de flertar com uma petulância e um pedantismo preocupante em alguns momentos (a sequência do suicídio do presidente é quase totalmente descartável), creio este ser uma declaração sincera e apaixonada por essa busca que todos nós possuímos por conexão e identificação com outros seres humanos.
 
-<hr>"Fai bei sogni" (Italy/France, 2016), escrito por Massimo Gramellini, Valia Santella, Edoardo Albinati, Marco Bellocchio, dirigido por Marco Bellocchio, com Bérénice Bejo, Valerio Mastandrea, Fabrizio Gifuni, Guido Caprino, Barbara Ronchi<hr>
+<hr>"Fai bei sogni" (Italy/France, 2016), escrito por Massimo Gramellini, Valia Santella, Edoardo Albinati, Marco Bellocchio, dirigido por Marco Bellocchio, com Bérénice Bejo, Valerio Mastandrea, Fabrizio Gifuni, Guido Caprino, Barbara Ronchi
 
 <h2>Trailer - Belos Sonhos<h2>

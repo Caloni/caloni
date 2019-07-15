@@ -19,6 +19,6 @@ Já JR é um cineasta-incógnita. Sempre de óculos escuros e tendo estreado com
 
 A questão é que "Visages, Villages" parece um trabalho em andamento que foi filmado como um documentário de si mesmo. O que aquelas pessoas significam no todo do filme? Tudo é muito vago para encontrarmos alguma linha de raciocínio aí. Se trata de um filme itinerante, mas doce, tranquilo, com um pouquinho de tratamento narrativo e aparentemente muito improviso. Infelizmente esse improviso não vem à tona como realmente um improviso.
 
-<hr>"Visages, villages" (France, 2017), escrito por JR, Agnès Varda, dirigido por JR, Agnès Varda, com Jean-Paul Beaujon, Amaury Bossy, Yves Boulen, Jeannine Carpentier, Marie Douvet<hr>
+<hr>"Visages, villages" (France, 2017), escrito por JR, Agnès Varda, dirigido por JR, Agnès Varda, com Jean-Paul Beaujon, Amaury Bossy, Yves Boulen, Jeannine Carpentier, Marie Douvet
 
 <h2>Trailer - Visages, Villages<h2>

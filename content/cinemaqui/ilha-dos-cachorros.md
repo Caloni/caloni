@@ -17,6 +17,6 @@ Isso, de certa forma, enfraquece a mensagem do autor, que busca de uma maneira m
 
 Este é com certeza um filme dotado de todas as características do cinema de autor. Até o jovem herói Atari, de 10 anos, possui uma crush. E impossível não citar talvez a melhor canção-tema de sua filmografia: o hit "I Won't Hurt You", da banda psicodélica dos anos 60 The West Coast Pop Art Experimental Band. Sim, Wes Anderson mescla os poderes da infância, dos adultos e das drogas em uma imensa coletânea de ideias coloridas, sonoras, verbais.
 
-<hr>"Isle of Dogs" (Alemanha, EUA 2018), dirigido e escrito por Wes Anderson baseado na história de Roman Coppola, Jason Schwartzman, Kunichi Nomura, com Bryan Cranston, Koyu Rankin, Edward Norton, Bob Balaban, Bill Murray, Jeff Goldblum, Kunichi Nomura, Greta Gerwig, Frances McDormand, Scarlett Johansson, Harvey Keitel, F. Murray Abraham, Yoko Ono, Tilda Swinton, Ken Watanabe, Roman Coppola, Anjelica Huston.<hr>
+<hr>"Isle of Dogs" (Alemanha, EUA 2018), dirigido e escrito por Wes Anderson baseado na história de Roman Coppola, Jason Schwartzman, Kunichi Nomura, com Bryan Cranston, Koyu Rankin, Edward Norton, Bob Balaban, Bill Murray, Jeff Goldblum, Kunichi Nomura, Greta Gerwig, Frances McDormand, Scarlett Johansson, Harvey Keitel, F. Murray Abraham, Yoko Ono, Tilda Swinton, Ken Watanabe, Roman Coppola, Anjelica Huston.
 
 <h2>Trailer - Ilha dos Cachorros<h2>

@@ -17,6 +17,6 @@ O grande problema que existe para os detratores do político e diplomata é que 
 
 Além disso, judeus e as Nações Unidas se mobilizam para encontrar qualquer evidência contra Waldheim para evitar que eles se associem com alguém que fez parte de algo que é considerado por muitos como a parte mais horrorosa do século 20, mas essa posição é altamente discutível se lembrarmos que o este foi o mais tenebroso período de nossa história recente, com regimes totalitários cometendo milhões de assassinatos em pouquíssimos anos e décadas, sendo o único status diferenciado do Holocausto é ter atacado um grupo extremamente coeso e intelectualmente/financeiramente munido de mecanismos para contra-atacar. Não deixa de ser fascinante observar as engrenagens do poder girando de ambos os lados.
 
-<hr>"The Waldheim Waltz" (Áustria, 2018), escrito e conceitualizado por Ruth Beckermann, com Kurt Waldheim.<hr>
+<hr>"The Waldheim Waltz" (Áustria, 2018), escrito e conceitualizado por Ruth Beckermann, com Kurt Waldheim.
 
 <h2>Trailer - A Valsa de Waldheim<h2>

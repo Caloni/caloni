@@ -23,6 +23,6 @@ O título de "Silêncio" ganha uma rima temática no filme, pois, sem música, o
 
 E, como sempre, a religião do sofrimento depende tanto da dor que ela parece um personagem à parte de toda a via crucis de seu herói, que Scorsese faz questão de filmar como um evento histórico rebuscado.
 
-<hr>"Silence" (USA/Taiwan/Mexico, 2016), escrito por Jay Cocks, Martin Scorsese, Shûsaku Endô, dirigido por Martin Scorsese, com Andrew Garfield, Adam Driver, Liam Neeson, Tadanobu Asano, Ciarán Hinds<hr>
+<hr>"Silence" (USA/Taiwan/Mexico, 2016), escrito por Jay Cocks, Martin Scorsese, Shûsaku Endô, dirigido por Martin Scorsese, com Andrew Garfield, Adam Driver, Liam Neeson, Tadanobu Asano, Ciarán Hinds
 
 <h2>Trailer - Silêncio<h2>

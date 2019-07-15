@@ -23,6 +23,6 @@ E tudo isso serve de cartilha para o movimento feminista de hoje, que é seu exa
 
 Agora imagine a mesma cena com os gêneros trocados hoje em dia e entenderá como o filme escancara o problema do mundo hoje: pessoas que estejam dispostas a lavar a louça sem reclamar. E se lavassem a louça ficariam menos dispostas a reclamar da vida como se ela devesse algo para elas, mas se houvesse algo de fato a reclamar, elas quebrariam a louça. Homens e mulheres.
 
-<hr>"Die göttliche Ordnung" (Switzerland, 2017), escrito por Petra Biondina Volpe, dirigido por Petra Biondina Volpe, com Marie Leuenberger, Maximilian Simonischek, Rachel Braunschweig, Sibylle Brunner, Marta Zoffoli<hr>
+<hr>"Die göttliche Ordnung" (Switzerland, 2017), escrito por Petra Biondina Volpe, dirigido por Petra Biondina Volpe, com Marie Leuenberger, Maximilian Simonischek, Rachel Braunschweig, Sibylle Brunner, Marta Zoffoli
 
 <h2>Trailer - Mulheres Divinas<h2>

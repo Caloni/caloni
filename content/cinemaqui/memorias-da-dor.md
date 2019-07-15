@@ -17,8 +17,8 @@ A estrela do filme, Mélanie Thierry, faz uma personagem de uma nota só. E essa
 
 Este não é um fime muito empolgante. É para aqueles que topam um filme de estilo temático, quase experimental, tamanho o número de artifícios usados pelo diretor. Indo até as últimas consequências dessa tortura que lembra um pesadelo sem fim, Memórias da Dor é uma experiência angustiante recomendada apenas para os que gostam muito de cinema.
 
-<hr>
+
 "Memórias da Dor" (França, Bélgica, Suíça, 2017), escrito por Emmanuel Finkiel adaptado do romance de Marguerite Duras, dirigido por Finkiel, com Mélanie Thierry, Benoît Magimel, Benjamin Biolay.
-</hr>
+
 
 <h2>Trailer - Memórias da Dor</h2>

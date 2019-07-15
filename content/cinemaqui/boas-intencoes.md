@@ -17,8 +17,8 @@ Ao mesmo tempo há um fiapo de comentário social, como a forma com que a burgue
 
 De qualquer forma, este filme, querendo ou não, se torna quase que politicamente incorreto, pois acaba tentando nos divertir às custas da mazela do mundo. A própria Isabelle não ficaria muito feliz se pudesse assisti-la, julgando este ser apenas uma diversão burguesa. E quando analisarmos profundamente o significado do filme entenderemos o quão quebrado como sociedade nós estamos nos tornando.
 
-<hr>
+
 "Best Intentions. France, 2018. Dirigido por Gilles Legrand, escrito por Léonore Confino, Gilles Legrand. Com Agnès Jaoui, Alban Ivanov, Claire Sermonne."
-</hr>
+
 
 <h2>Trailer - Boas Intenções</h2>

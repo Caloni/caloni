@@ -21,8 +21,8 @@ Um filme sobre esse tema teria tudo para se tornar monótono, mas aqui não é o
 
 E isso se revela como um filme contemplativo ao mesmo tempo que intenso. Ele fará o espectador se segurar na poltrona em alguns momentos, e em outros até torcer. E tudo isso com uma importante reflexão sobre o valor da amizade. Mais do que do sacrifício. É a amizade o pilar que segura esse filme sobre competitidade extrema, por mais paradoxal que seja. É quando um amigo massageia a carótida do outro, em uníssono, esperando por um dia melhor.
 
-<hr>
+
 "Première année (aka The Freshman)" (França, 2018), escrito e dirigido por Thomas Lilti, com Vincent Lacoste e William Lebghil.
-</hr>
+
 
 <h2>Trailer - Primeiro Ano</h2>

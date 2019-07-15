@@ -21,6 +21,6 @@ Se sem uma grande produção e apenas com momentos reflexivos o filme se suporta
 
 Churchill, assim como Dama de Ferro, parecem mostrar que os britânicos possuem sentimentos mistos a respeito de seus líderes políticos. Ainda assim, seria divertido acompanhar toda a ambiguidade do uso do poder para sacrificar jovens soldados por uma causa enquanto os reis se trancam no castelo. Mas nada disso importa quando temos que ouvir insistentemente uma trilha sonora que venera automaticamente uma figura polêmica da História sem sequer demonstrar por que ele é polêmico em primeiro lugar.
 
-<hr>"Churchill" (UK, 2017), escrito por Alex von Tunzelmann, dirigido por Jonathan Teplitzky, com Brian Cox, Miranda Richardson, John Slattery, Ella Purnell, Julian Wadham<hr>
+<hr>"Churchill" (UK, 2017), escrito por Alex von Tunzelmann, dirigido por Jonathan Teplitzky, com Brian Cox, Miranda Richardson, John Slattery, Ella Purnell, Julian Wadham
 
 <h2>Trailer - Churchill<h2>

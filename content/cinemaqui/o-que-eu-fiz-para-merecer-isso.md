@@ -17,6 +17,6 @@ Porém, o que o filme parece fazer é ignorar toda essa loucura e aproveitar ape
 
 Por essa introspecção divertida e aparentemente inconsequente, "O Que Eu Fiz..." merece todos os créditos por utilizar os clichês ao seu favor, nunca dando mais espaço para eles do que eles merecem. O resultado é o melhor que se pode extrair de uma comédia: a que nos convida a rir das bizarrices do mundo moderno, onde nós não estamos livres: somos tanto vítimas quanto testemunhas.
 
-<hr>"Une heure de tranquillité" (France, 2014), escrito por Patrice Leconte, Florian Zeller, dirigido por Patrice Leconte, com Christian Clavier, Carole Bouquet, Valérie Bonneton, Rossy de Palma, Stéphane De Groodt<hr>
+<hr>"Une heure de tranquillité" (France, 2014), escrito por Patrice Leconte, Florian Zeller, dirigido por Patrice Leconte, com Christian Clavier, Carole Bouquet, Valérie Bonneton, Rossy de Palma, Stéphane De Groodt
 
 <h2>Trailer - O Que Eu Fiz Para Merecer Isso?<h2>

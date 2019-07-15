@@ -17,8 +17,8 @@ Acompanhamos a rotina simples do vilarejo, desde a escola até sua relação com
 
 Com uma bela produção e direção, mas sem roteiro suficiente para nos inserir em uma história que nos insira em seu rico cenário, Trinta Almas não consegue animar o espírito.
 
-<hr>
+
 Trinta Lumes (aka Thirty Souls) (Espanha, 2017), dirigido por Diana Toucedo, com Alba Arias, Samuel Vilariño. Fotografia, mockumentary, terror.
-</hr>
+
 
 <h2>Trailer - Trinta Almas</h2>

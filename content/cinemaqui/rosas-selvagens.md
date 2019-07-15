@@ -17,6 +17,6 @@ Porém, o exercício de tentar entender aquelas pessoas sem sequer entender quem
 
 Todos odeiam essa mulher cuja filha a repudia e o marido distante desconhece. Ela vive em uma verdadeira solitária cercada de pessoas estranhas, incluindo sua própria mãe. Se este é o grande problema do filme ele não parece entregar nada além do conformismo covarde e desnecessário.
 
-<hr>"Dzikie róze" (Polônia, 2017), escrito e dirigido por Anna Jadowska, com Marta Nieradkiewicz, Michal Zurawski, Natalia Bartnik.<hr>
+<hr>"Dzikie róze" (Polônia, 2017), escrito e dirigido por Anna Jadowska, com Marta Nieradkiewicz, Michal Zurawski, Natalia Bartnik.
 
 <h2>Trailer - Rosas Selvagens<h2>

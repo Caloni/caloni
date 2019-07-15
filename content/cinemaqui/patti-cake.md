@@ -27,6 +27,6 @@ O momento que resume este longa-video-clipe em formato de filme (e cuja históri
 
 Assim como é um paradoxo entender que as maiores obras de arte talvez precisem da dor lancinante e do sofrimento intenso de seus criadores, que apenas buscam um lugar ao sol em suas existências sem sentido. Seria essa busca que gera algum significado ou é a própria vida, que está ali apenas para ser interpretada por um artista que nasce através dessa dor?
 
-<hr>"Patti Cake$" (USA, 2017), escrito por Geremy Jasper, dirigido por Geremy Jasper, com Danielle Macdonald, Bridget Everett, Siddharth Dhananjay, Mamoudou Athie, Cathy Moriarty<hr>
+<hr>"Patti Cake$" (USA, 2017), escrito por Geremy Jasper, dirigido por Geremy Jasper, com Danielle Macdonald, Bridget Everett, Siddharth Dhananjay, Mamoudou Athie, Cathy Moriarty
 
 <h2>Trailer - Patti Cake$<h2>

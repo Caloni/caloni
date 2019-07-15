@@ -15,6 +15,6 @@ Porque uma coisa é certa: o espectador médio espera que lhe contem o que ele d
 
 Você pode também pensar que tudo não passa de uma maneira de observarmos, com calma, como a realidade é uma espécie de simulacro, mas que nunca nos damos conta porque... bem, porque a vivemos todo santo dia! E se tudo que estivermos vivendo não for um filme que se passa em nossas cabeças. O que vemos no mundo se parece tanto com os frames de Kiarostami, ou são os frames dele que se parecem com a vida real? E esta é a vida real, mesmo?
 
-<hr>"24 Frames" (France/Iran, 2017), escrito por Writers, dirigido por Abbas Kiarostami, com Cast<hr>
+<hr>"24 Frames" (France/Iran, 2017), escrito por Writers, dirigido por Abbas Kiarostami, com Cast
 
 <h2>Trailer - 24 Frames<h2>

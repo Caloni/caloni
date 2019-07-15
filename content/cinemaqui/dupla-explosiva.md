@@ -23,6 +23,6 @@ E por falar em sua mulher, Salma Hayek está bem, à vontade e também rouba a c
 
 Seja pela ação ou pelos bons atores, Dupla Explosiva com certeza é um programa sessão da tarde acima da média. O que é inusitado. A possível tendência iniciada com a dupla Russel Crowell e Ryan Gosling parece ter despontado um pouco de ar fresco para o saturado gênero de ação. Aguardemos pela próxima dupla dinâmica.
 
-<hr>"The Hitman's Bodyguard" (USA/China/Bulgaria/Netherlands, 2017), escrito por Tom O'Connor, dirigido por Patrick Hughes, com Elodie Yung, Ryan Reynolds, Tsuwayuki Saotome, Roy Hill, Richard E. Grant<hr>
+<hr>"The Hitman's Bodyguard" (USA/China/Bulgaria/Netherlands, 2017), escrito por Tom O'Connor, dirigido por Patrick Hughes, com Elodie Yung, Ryan Reynolds, Tsuwayuki Saotome, Roy Hill, Richard E. Grant
 
 <h2>Trailer - Dupla Explosiva<h2>

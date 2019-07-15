@@ -3,8 +3,6 @@ date: "2015-04-20"
 title: Convenção de Chamada
 categories: [ "code" ]
 ---
-<img src="../publichttp://i.imgur.com/H48Twzq.png">
-
 Pergunta de um leitor:
 
 #### Leitor: Olhe essa bizarrice em C:

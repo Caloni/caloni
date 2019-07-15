@@ -20,6 +20,6 @@ Porém, ninguém se aproximou mais de sua vida do que a filha, Diane. Interpreta
 
 Nesse sentido, A Última Lição é um ótimo filme para pensarmos a respeito de quais os limites da nossa liberdade, e porque hoje é errado fazermos o que quiser com nosso próprio corpo, mesmo que isto magoe os que mais amamos, sendo que no fundo, ao não fazermos, magoamos a pessoa mais importante dessa vida: nós mesmos.
 
-<hr>"La dernière leçon" (France, 2015), escrito por Laurent de Bartillat, Pascale Pouzadoux, dirigido por Pascale Pouzadoux, com Marthe Villalonga, Sandrine Bonnaire, Antoine Duléry, Gilles Cohen, Grégoire Montana<hr>
+<hr>"La dernière leçon" (France, 2015), escrito por Laurent de Bartillat, Pascale Pouzadoux, dirigido por Pascale Pouzadoux, com Marthe Villalonga, Sandrine Bonnaire, Antoine Duléry, Gilles Cohen, Grégoire Montana
 
 <h2>Trailer - A Última Lição<h2>

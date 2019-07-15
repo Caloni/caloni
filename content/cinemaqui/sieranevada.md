@@ -21,6 +21,6 @@ A questão é: Sieranevada não é um filme que está disposto a agradar o espec
 
 Só que não. Precisamos do almoço, esse maldito que atrasa mais de três horas. Precisamos não apenas para continuar o drama familiar, mas para nos abrigarmos novamente dentro daquela casa quentinha, cheia de humanos interagindo entre diferentes cômodos, diferentes cenas, diferentes humores. E voltamos para o sonho acordado, para finalmente nos entregarmos ao riso. Nessa hora o filme se torna curto, pois seria fácil, divertido até, acompanhar mais dramas de família como esses. Porém, tudo tem seu momento, e agora é hora de comer. Bom apetite.
 
-<hr>"Sieranevada" (Romania/France/Bosnia and Herzegovina/Croatia/Republic of Macedonia, 2016), escrito por Cristi Puiu, dirigido por Cristi Puiu, com Mimi Branescu, Mirela Apostu, Eugenia Bosânceanu, Ilona Brezoianu, Ana Ciontea<hr>
+<hr>"Sieranevada" (Romania/France/Bosnia and Herzegovina/Croatia/Republic of Macedonia, 2016), escrito por Cristi Puiu, dirigido por Cristi Puiu, com Mimi Branescu, Mirela Apostu, Eugenia Bosânceanu, Ilona Brezoianu, Ana Ciontea
 
 <h2>Trailer - Sieranevada<h2>

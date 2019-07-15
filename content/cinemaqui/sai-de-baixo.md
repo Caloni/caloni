@@ -22,8 +22,8 @@ Cercado de boas vibrações sobre a estreia, Sai de Baixo já chega aos cinemas 
 
 Esses detalhes não apenas tornam este um projeto especial, como nos faz lembrar que Sai de Baixo existe na arte e na vida real. Ainda que cinema seja algo glamuroso e cheio de holofotes, ainda não é fácil gastar alguns milhões na produção de um filme médio torcendo para que ele fique em cartaz tempo suficiente para se pagar. A vida imita a arte que imita a vida. Seja no Largo do Arouche ou nas telonas de todo país onde, torçamos, famílias brasileiras venham lotar salas e assistir e dar risada de si mesmas. Nem que seja contando moedinhas para o ingresso e sem dinheiro pra pipoca.
 
-<hr>
+
 "Sai de Baixo: O Filme" (Brasil, 2019), escrito por Cris D'Amato e Miguel Falabella, dirigido por Cris D'Amato, com Miguel Falabella, Marisa Orth, Luis Gustavo, Aracy Balabanian, Tom Cavalcante, Lúcio Mauro Filho.
-</hr>
+
 
 <h2>Trailer - Sai de Baixo: O Filme</h2>

@@ -17,6 +17,6 @@ Por este fatores imprevisíveis da indústria de Cinema americano é que ter a f
 
 PS: Naquela noite assistimos a 20 minutos ininterruptos do filme. E a maior mágica não estava em assistir a esta pequena prévia, mas em olhar para a plateia compenetrada. Isso não me relaxa, mas é este excitante mundo que gera os memes que eu aprecio.
 
-<hr>"Avengers: Infinity War" (EUA, 2018), escrito por um batalhão de gente, dirigido por Anthony e Joe Russo; com um batalhão de heróis (ou seriam os roteiristas os verdadeiros heróis?).<hr>
+<hr>"Avengers: Infinity War" (EUA, 2018), escrito por um batalhão de gente, dirigido por Anthony e Joe Russo; com um batalhão de heróis (ou seriam os roteiristas os verdadeiros heróis?).
 
 <h2>Trailer - Vingadores: Guerra Infinita<h2>

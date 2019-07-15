@@ -19,6 +19,6 @@ Porém, os melhores momentos são os últimos, onde vemos uma sequência de anos
 
 E o mais impressionante de tudo é que, depois de tudo isso, talvez ainda falte uma resposta definitiva. Não que seja decepcionante, como biografias mal-feitas. É que pessoas como ela, passando por esse planeta por 70 anos, foram insuficientes para capturar boa parte de sua essência. Quando sua filha diz que, vendo a mãe já mais velha, percebe que ela não pertence mais à epoca, a resposta é que a época já não pertence mais a ela. Isso resume bem o sentimento de um filme como esse.
 
-<hr>"What Happened, Miss Simone?" (USA, 2015), dirigido por Liz Garbus, com James Baldwin, Stokely Carmichael, Walter Cronkite, Stanley Crouch, Gerrit De Bruin<hr>
+<hr>"What Happened, Miss Simone?" (USA, 2015), dirigido por Liz Garbus, com James Baldwin, Stokely Carmichael, Walter Cronkite, Stanley Crouch, Gerrit De Bruin
 
 <h2>Trailer - What Happened, Miss Simone?<h2>

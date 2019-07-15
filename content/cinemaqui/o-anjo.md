@@ -17,6 +17,6 @@ O filme parece fazer algumas metáforas que comparam a vida dos criminosos como 
 
 Esta poderia ser uma biografia, pois não há arco visível, apenas acontecimentos em torno de Carlos, que parece contar sua história em posição privilegiada. A sua erotização e glamour são apenas cerejas do bolo de um filme vibrante, embora com pouco a dizer.
 
-<hr>"El ángel" (Argentina, Espanha, 2018), escrito por Sergio Olguín, Rodolfo Palacios e Luis Ortega, dirigido por Ortega, com Lorenzo Ferro, Chino Darín, Daniel Fanego.<hr>
+<hr>"El ángel" (Argentina, Espanha, 2018), escrito por Sergio Olguín, Rodolfo Palacios e Luis Ortega, dirigido por Ortega, com Lorenzo Ferro, Chino Darín, Daniel Fanego.
 
 <h2>Trailer - O Anjo<h2>

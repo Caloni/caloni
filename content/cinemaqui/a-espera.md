@@ -17,6 +17,6 @@ O uso de cores também é fortemente influenciado pela luz. Note como é recorre
 
 A Espera é um filme belo quando flerta com o jogo de mentiras de sua protagonista, curioso quando brinca com a mitologia cristã e estilizado e forçado ligeiramente mais do que deveria. A transição gradual entre o idioma italiano e o francês sugere não apenas a proximidade das duas personagens principais, mas o abandono de Anna do que a tornou uma italiana da Sicília, e poderia servir de mensagem sobre o próprio declínio da religião, como sutilmente o filme aponta em um momento onde Pietro, assistindo um canal que falava sobre o Papa, muda abruptamente para um canal onde passa uma comédia antiga. O fato de Anna ter sido a primeira da região a se divorciar também aumenta as chances deste ser o caso. Porém, nunca saberemos com certeza. O trabalho de Piero Messina parece estar hermeticamente fechado através de sua estilização exagerada. O que não deixa de ser curioso, também, pois mais uma vez estamos comparando realidade com religião.
 
-<hr>"L'attesa" (Italy/France, 2015), escrito por Giacomo Bendotti, Ilaria Macchia, Andrea Paolo Massara, Piero Messina, Luigi Pirandello, dirigido por Piero Messina, com Juliette Binoche, Giorgio Colangeli, Lou de Laâge, Domenico Diele, Antonio Folletto<hr>
+<hr>"L'attesa" (Italy/France, 2015), escrito por Giacomo Bendotti, Ilaria Macchia, Andrea Paolo Massara, Piero Messina, Luigi Pirandello, dirigido por Piero Messina, com Juliette Binoche, Giorgio Colangeli, Lou de Laâge, Domenico Diele, Antonio Folletto
 
 <h2>Trailer - A Espera<h2>

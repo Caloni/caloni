@@ -21,6 +21,6 @@ Com uma direção disposta a entregar a experiência completa, este é um filme 
 
 O que de maneira nenhuma desmerece todo o trabalho feito em Vida Selvagem, que surpreendentemente se constitui como uma experiência fugaz das histórias batidas que estamos acostumados a ver.
 
-<hr>"Vie sauvage" (Belgium/France, 2014), escrito por Okwari Fortin, Shahi'Yena Fortin, Xavier Fortin, Cédric Kahn, Nathalie Najem, dirigido por Cédric Kahn, com Mathieu Kassovitz, Céline Sallette, David Gastou, Sofiane Neveu, Romain Depret<hr>
+<hr>"Vie sauvage" (Belgium/France, 2014), escrito por Okwari Fortin, Shahi'Yena Fortin, Xavier Fortin, Cédric Kahn, Nathalie Najem, dirigido por Cédric Kahn, com Mathieu Kassovitz, Céline Sallette, David Gastou, Sofiane Neveu, Romain Depret
 
 <h2>Trailer - Vida Selvagem<h2>

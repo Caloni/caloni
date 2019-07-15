@@ -21,6 +21,6 @@ A forma de Heloísa fotografar todas essas cenas não poderia ser melhor. Dotada
 
 Dessa forma, parece que qualquer projeto desses hoje em dia, que tente abrir feridas de discussões das mais arraigadas entre nós, tem certa chance de sucesso. Como foi em Construindo Pontes. O mérito fica todo por conta da realizadora, que colocou sua cara a tapa e revelou no processo uma realidade interessantíssima do atual momento da sociedade, que briga constantemente nas redes sociais. Trazer isso para a vida real, no seio de uma família, foi uma tarefa metalinguística no mínimo interessante.
 
-<hr>"Construindo Pontes" (Brasil, 2017), escrito por Stefanie Kremser, Heloísa Passos, Letícia Simões, dirigido por Heloísa Passos.<hr>
+<hr>"Construindo Pontes" (Brasil, 2017), escrito por Stefanie Kremser, Heloísa Passos, Letícia Simões, dirigido por Heloísa Passos.
 
 <h2>Trailer - Construindo Pontes<h2>

@@ -23,6 +23,6 @@ Por fim, cria-se um personagem apenas para mais uma virada próximo do final do 
 
 Sem conseguir mover nada além do impacto inicial que é cozido em banho-maria, conforme as revelações avançam, já estamos anestesiados há muito tempo. E nunca de fato nos preocupamos com João, mas assistimos, aterrorizados, até onde vai a podridão humana, e como ela reflete no psicológico e, no caso desse filme, na realidade de uma nação.
 
-<hr>"O Rastro" (Brazil, 2017), escrito por Beatriz Manela, André Pereira, dirigido por J.C. Feyer, com Leandra Leal, Rafael Cardoso, Cláudia Abreu, Alice Wegmann, Jonas Bloch<hr>
+<hr>"O Rastro" (Brazil, 2017), escrito por Beatriz Manela, André Pereira, dirigido por J.C. Feyer, com Leandra Leal, Rafael Cardoso, Cláudia Abreu, Alice Wegmann, Jonas Bloch
 
 <h2>Trailer - O Rastro<h2>

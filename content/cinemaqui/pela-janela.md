@@ -19,6 +19,6 @@ Esse olhar curioso de Leone extrai do cotidiano os detalhes mais pitorescos, com
 
 E Pela Janela é também um filme sobre o tempo. O tempo que pode curar, assim como adoecer. Ele não se preocupa em concluir com todas as letras sua história, mas no fundo da alma sabemos que ela se encerra quando se deve. Sem nenhuma palavra que expõe seus personagens desnecessariamente, basta o olhar sereno de quem nunca foi de falar muito para entendermos seus sentimentos. Magali Biff mereceria uma indicação ao Oscar por este papel.
 
-<hr>"Pela Janela" (Brazil, 2017), escrito por Caroline Leone, dirigido por Caroline Leone, com Mayara Constantino, Cacá Amaral, Magali Biff<hr>
+<hr>"Pela Janela" (Brazil, 2017), escrito por Caroline Leone, dirigido por Caroline Leone, com Mayara Constantino, Cacá Amaral, Magali Biff
 
 <h2>Trailer - Pela Janela<h2>

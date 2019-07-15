@@ -21,6 +21,6 @@ Sobre a direção dos irmãos Goetz, fica difícil não citar o uso de uma profu
 
 Mesmo assim, se você não é muito fã de violência gráfica extrema, haverá um ou dois momentos propícios para virar os olhos. Nada muito exagerado. É que o psicológico de Martyrs pega pesado. E, com um pouco de atenção, o filosófico também poderá pegar você de jeito.
 
-<hr>"Martyrs" (USA, 2015), escrito por Pascal Laugier, Mark L. Smith, dirigido por Kevin Goetz, Michael Goetz, com Troian Bellisario, Bailey Noble, Kate Burton, Caitlin Carmichael, Melissa Tracy<hr>
+<hr>"Martyrs" (USA, 2015), escrito por Pascal Laugier, Mark L. Smith, dirigido por Kevin Goetz, Michael Goetz, com Troian Bellisario, Bailey Noble, Kate Burton, Caitlin Carmichael, Melissa Tracy
 
 <h2>Trailer - Martyrs<h2>

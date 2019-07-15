@@ -21,6 +21,6 @@ Mas o mais notável de tudo isso é que, aos trancos e barrancos, a mensagem de 
 
 Talvez essa seja uma defesa rasa ao filme, apelando inocentemente pela esperança de uma cidade melhor para morar. Mas não sou ingênuo. A proposta do filme é boba e simplória. Mas é justamente por ser boba que tem a chance de dar certo. Pelo menos como uma viagem intimista.
 
-<hr>"Amor em Sampa" (Brazil, 2016), escrito por Bruna Lombardi, dirigido por Carlos Alberto Riccelli, Kim Riccelli, com Bruna Lombardi, Eduardo Moscovis, Rodrigo Lombardi, Mariana Lima, Carlos Alberto Riccelli<hr>
+<hr>"Amor em Sampa" (Brazil, 2016), escrito por Bruna Lombardi, dirigido por Carlos Alberto Riccelli, Kim Riccelli, com Bruna Lombardi, Eduardo Moscovis, Rodrigo Lombardi, Mariana Lima, Carlos Alberto Riccelli
 
 <h2>Trailer - Amor em Sampa<h2>

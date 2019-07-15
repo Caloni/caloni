@@ -23,6 +23,6 @@ Enquanto isso a atriz Celia Imrie como a irmã diferentona, que nada no lago gel
 
 E por falar em irregular, o diretor Richard Loncraine, que vai de "Wimbledon: O Jogo do Amor" para "Firewall - Segurança em Risco" em menos de um piscar de olhos, é sempre um risco ambulante. Aqui ele é um poço de contradições, tentando unir comédia engraçadinha com drama intimista, e graças às atuações e à história minimamente funcional se sai maravilhosamente bem. Não assista seu próximo filme.
 
-<hr>"Finding Your Feet" (Reino Unido, 2017), escrito por Meg Leonard e Nick Moorcroft, dirigido por Richard Loncraine, com Celia Imrie, Joanna Lumley, Timothy Spall.<hr>
+<hr>"Finding Your Feet" (Reino Unido, 2017), escrito por Meg Leonard e Nick Moorcroft, dirigido por Richard Loncraine, com Celia Imrie, Joanna Lumley, Timothy Spall.
 
 <h2>Trailer - Acertando o Passo<h2>

@@ -25,8 +25,8 @@ Isso gera um debate curioso. Algo que parece implícito em todas as narrativas d
 
 E isso sem dúvida enfraquece uma narrativa, que estava indo tão bonita pelo caminho mais sutil, mais individualista, e que vai de repente em encontro com interesses alheios ao filme. É quando a revolução se torna lugar-comum que o romantismo se perde para sempre. E é quando se perde a oportunidade de se realizar um filme inesquecível sobre como o ser humano se adapta e se conquista sempre que confrontado com a realidade.
 
-<hr>
+
 "Temporada" (Brasil, 2018), escrito e dirigido por André Novais Oliveira, com Grace Passô (Juliana), Russo Apr (Russão), Rejane Faria (Lúcia), Hélio Ricardo (Hélio).
-</hr>
+
 
 <h2>Trailer - Temporada</h2>

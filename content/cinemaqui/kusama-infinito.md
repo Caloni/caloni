@@ -15,8 +15,8 @@ As explicações de sua arte são a melhor parte para leigos, pois tenta nos exp
 
 Do início ao fim convencional, mas não burocrático, pois consegue em pouco mais de uma hora expor a vida inteira de Yayoi Kusama, "Infinito" é um registro necessário dessa artista, mas que poderia ser mais criativo, já que estamos falando de um dos pilares da criação moderna.
 
-<hr>
+
 Kusama: Infinity (EUA, 2018), escrito por Heather Lenz, Keita Ideno, dirigido por Heather Lenz, com Yayoi Kusama.
-</hr>
+
 
 <h2>Trailer - Kusama - Infinito</h2>

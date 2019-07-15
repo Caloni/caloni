@@ -15,8 +15,8 @@ Por exemplo, ele constrói a narrativa da esquerda (ou o governo de situação) 
 
 Para quem gosta de novela, ou se interessa pelo que acontece em Brasília, Excelentíssimos é uma ótima pedida, pois cria relevância em sua trama através de uma edição cirúrgica que nos entrega a arquitetura de um ataque ao poder e suas consequências, como o surgimento de representantes do povo mais extremos, como Jair Bolsonaro, surgido da bancada evangélica, conservadora, e que, profeticamente, se torna o presidente nas eleições de 2018, e embora o autor do documentário não tivesse como saber disso ao fim das filmagens, ele esboça essa pontinha do futuro muito bem para o brasileiro comum, mas muito mal para quem vem de fora e não entende o surgimento no filme dessa figura seguido de gritos de "mito" por alguns cidadão do lado de fora. É preciso contextualizar para os leigos, e isso o diretor, compenetrado já no processo, se esquece de se atentar.
 
-<hr>
+
 Excelentíssimos (Brasil, 2018), dirigido por Douglas Duarte. Documentário, política, impeachment, House of Cards, história, poder, corrupção.
-</hr>
+
 
 <h2>Trailer - Excelentíssimos</h2>

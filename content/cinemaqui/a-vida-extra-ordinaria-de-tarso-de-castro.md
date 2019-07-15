@@ -23,6 +23,6 @@ Sua derrocada com a bebida é vista de passagem, mas isso fica claro conforme se
 
 Não há muitas informações neste filme sobre a História em si, e aparentemente nenhum causo suficientemente marcante sobre Castro. A imagem que o filme nos deixa deste ícone no jornalismo brasileiro é que ele realmente era uma figura de pessoa e fez o que ninguém poderia ter feito naquela época. Agora nos resta saber o quê.
 
-<hr>"A Vida Extra-Ordinária de Tarso De Castro" (Brasil, 2017), escrito e dirigido por Leo Garcia e Zeca Brito, com João Vicente de Castro, Paulo Cesar Pereio, Caetano Veloso e outros.<hr>
+<hr>"A Vida Extra-Ordinária de Tarso De Castro" (Brasil, 2017), escrito e dirigido por Leo Garcia e Zeca Brito, com João Vicente de Castro, Paulo Cesar Pereio, Caetano Veloso e outros.
 
 <h2>Trailer - A Vida Extra-Ordinária de Tarso De Castro<h2>

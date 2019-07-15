@@ -17,8 +17,8 @@ Mas já vimos filmes que realizam essa manobra, onde em algum momento há uma ex
 
 A interpretação de Mary Kay Place não é marcante, mas este é um papel injusto, pois é sua própria irrelevância como ser humano que o filme deseja demonstrar. Ela é constantemente lembrada por seus amigos que não está sozinha, mas sua expressão sempre nos diz inconscientemente a verdade oculta, que ninguém deseja mencionar: estamos todos sozinhos nesse mundo.
 
-<hr>
+
 "A Vida De Diane" (EUA, 2018), escrito por Kent Jones, dirigido por Kent Jones, com Mary Kay Place, Jake Lacy, Estelle Parsons.
-</hr>
+
 
 <h2>Trailer - A Vida De Diane</h2>

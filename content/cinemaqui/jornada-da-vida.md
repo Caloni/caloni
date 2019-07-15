@@ -19,8 +19,8 @@ Pegue, por exemplo, as infinitas menções aos antepassados, às tradições da 
 
 Muitos gostarão desse filme porque tem o lindo, simpático e convincente Omar Sy fazendo o que ele sabe fazer de melhor: ser um africano e nos mostrar por contraste o que isso significa. Mas há filmes melhores em seu currículo que já geram esse mesmo efeito. Fazer uma jornada às origens serve apenas como um serviço aos fãs e para exibir nos fins de semana para a família e amigos.
 
-<hr>
+
 "Yao. France, Senegal, 2018. Dirigido por Philippe Godeau, escrito por Philippe Godeau, Agnès de Sacy. Com Omar Sy, Lionel Louis Basse, Fatoumata Diawara."
-</hr>
+
 
 <h2>Trailer - Jornada Da Vida</h2>

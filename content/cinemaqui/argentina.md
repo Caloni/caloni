@@ -17,6 +17,6 @@ No entanto, qual o foco aqui? Sabemos no início que há uma história por trás
 
 Mesmo sem um tema definido além de mostrar a cultura musical do interior da Argentina (mais ou menos focado na região de Zonda, perto das cordilheiras), "Argentina" é um trabalho musical e artístico primoroso, que rivaliza em precisão com Pina, de Win Wenders, e que consegue mesmo filmado em um galpão/estúdio evocar através de luzes, cores, sons e movimentos um pouco do que seria a versão modernizada de um folclore regional, mas de beleza universal.
 
-<hr>"Zonda: folclore argentino" (Argentina/France/Spain, 2015), escrito por Carlos Saura, dirigido por Carlos Saura, com Pedro Aznar, Juan Falú, Marian Farías Gómez, Gabo Ferro, Liliana Herrero<hr>
+<hr>"Zonda: folclore argentino" (Argentina/France/Spain, 2015), escrito por Carlos Saura, dirigido por Carlos Saura, com Pedro Aznar, Juan Falú, Marian Farías Gómez, Gabo Ferro, Liliana Herrero
 
 <h2>Trailer - Argentina<h2>

@@ -21,8 +21,8 @@ Dragus nos dá a exata sensação de alguém fora de qualquer categoria estável
 
 Infelizmente este é um filme disposto a descrever a História de maneira burocrática, que apenas pincela alguns comentários sociais. O resto é pura direção de arte de época, com figurinos bordados à mão e as bonitas músicas tocadas ao piano por Paradis. É bonito, mas oferece pouco aos mais ansiosos por comentários atuais sobre uma época grotesca.
 
-<hr>
+
 "Mademoiselle Paradis" (Áustria, Alemanha, 2017), escrito por Kathrin Resetarits adaptado do livro de Alissa Walser, dirigido por Barbara Albert, com Maria Dragus, Devid Striesow, Lukas Miko.
-</hr>
+
 
 <h2>Trailer - Mademoiselle Paradis</h2>

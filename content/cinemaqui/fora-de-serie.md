@@ -23,8 +23,8 @@ A seleção de músicas desse filme é insana na medida do desejável. Usa Alani
 
 E por falar em fazer do jeito certo, eu termino voltando a esta nova diretora, que me fez voltar a ter esperanças de comédias no cinema, como um divertimento de escape, claro, mas com bom gosto. Eu deveria comentar sobre a cartilha lésbica e essas coisas de minorias no filme, mas passou batido, porque é assim que deve ser na vida real. Sinal de que o filme é tão bem feito que não precisa de muletas sociais, pois gira em torno simplesmente de seres humanos.
 
-<hr>
+
 "Booksmart" (EUA, 2019), escrito por Susanna Fogel, Emily Halpern, Sarah Haskins, Katie Silberman, dirigido por Olivia Wilde, com Kaitlyn Dever, Beanie Feldstein, Jessica Williams.
-</hr>
+
 
 <h2>Trailer - Fora de Série</h2>

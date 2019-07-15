@@ -22,8 +22,8 @@ Mas ainda assim, Dogman consegue nos manter por mais tempo que o esperado torcen
 O diretor Matteo Garrone sabe que precisa manter Marcello sob os holofotes, e para isso ele tira quase qualquer humanidade de seu contraponto: Simone. Um exemplo: ele tem uma mãe que apesar de ver o filho baleado o rejeita ao descobrir que ainda se droga. Vemos menos o rosto do grandalhão do que seus punhos em ação. Não há muitas maldades cometidas por Simone que não girem em torno de Marcello. O filme está martelando a todo momento que Marcello precisa se redimir e que é digno disso, o que torna doloroso concluir aos poucos que isso não é possível. E se não for aos poucos será em um momento-chave em que ele precisa assinar um papel para se livrar e livrar todos os outros dos seus problemas.
 
 Dogman é um drama violento que se estabelece fácil como uma poesia realista das mazelas do mundo onde os fortes se aproveitam das barracas de frutas onde os cacetetes policiais não alcançam. Mas mais do que isso, e isso é importante: é um filme sobre um cúmplice. Não uma vítima. Não um pai de família. Não um ser humano digno de respeito. Um rato de esgoto. Que cuida de cachorros porque eles são os únicos seres vivos que poderiam lhe dar ainda algum tipo de respeito. E isso, talvez, porque estão engaiolados e acorrentados.
-<hr>
+
 "Dogman" (Itália, França, 2018), escrito por um batalhão, dirigido por Matteo Garrone, com Marcello Fonte, Edoardo Pesce.
-</hr>
+
 
 <h2>Trailer - Dogman</h2>

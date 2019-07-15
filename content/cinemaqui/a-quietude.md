@@ -15,8 +15,8 @@ Apesar do elenco afiado é preciso dar créditos a mais para Bérénice Bejo por
 
 Tudo que não é dito em A Quietude vai se revelando ao espectador como um tapa na cara. É uma forma intensa de manter um drama pertinente o tempo todo intercalando com momentos de plena calmaria em meio ao nada. Os segredos que essa família esconde não são o verdadeiro escândalo, mas a forma como eles lidam com isso.
 
-<hr>
+
 La quietud (aka The Quietude) (Argentina, 2018), escrito e dirigido por Pablo Trapero, com Martina Gusman, Bérénice Bejo, Edgar Ramírez, Graciela Borges, Joaquín Furriel, Isidoro Tolcachir.
-</hr>
+
 
 <h2>Trailer - A Quietude</h2>

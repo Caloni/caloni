@@ -19,6 +19,6 @@ Esta também é uma história que não nos poupa dos detalhes fortes que ela con
 
 Submersão é um filme que tenta unir a todos nós como espécie, ou a própria vida e sua origem, através de mensagens que remetem a todos os tipos de conhecimento que podemos ter a respeito da natureza humana. Para isso ele emplaca em um rápido romance que é tudo menos banal, e em seu tom dramático (música de Fernando Velázquez e sua orquestra nacional Basca) explora as conexões que temos neste planeta, seja com outros povos ou com nossa própria origem, submersos no eterno vazio, sozinhos vivendo a breve aventura da vida.
 
-<hr>"Submergence" (Alemanha/França/Espanha/EUA, 2017), escrito por Erin Dignam (roteiro), J.M. Ledgard (romance), dirigido por Wim Wenders, com Alicia Vikander, James McAvoy, Alexander Siddig.<hr>
+<hr>"Submergence" (Alemanha/França/Espanha/EUA, 2017), escrito por Erin Dignam (roteiro), J.M. Ledgard (romance), dirigido por Wim Wenders, com Alicia Vikander, James McAvoy, Alexander Siddig.
 
 <h2>Trailer - Submersão<h2>

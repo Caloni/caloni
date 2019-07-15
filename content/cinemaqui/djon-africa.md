@@ -17,6 +17,6 @@ Para isso, voltando aos enquadramentos do filme, a paisagem beira-mar resgata a 
 
 No final, temos uma tomada estática que retorna à cidade, e que por demorar demais traz um significado a mais do que o simples passar dos transeuntes. Note como o foco vez ou outra captura as pessoas indo e vindo, enquanto todo o resto permanece desfocado. A história de Djon, como pode perceber, é apenas mais uma. Nós, humanos, estamos nessa busca de nossas origens, ou quem somos, do nascimento à morte. Djon Africa é essa busca que parte do particular para o universal. E é aí que o filme transcende.
 
-<hr>"Djon Africa" (Brasil, Portugal, Cabo Verde, 2018), escrito por João Miller Guerra e Pedro Pinho, dirigido por Filipa Reis e Guerra, com Bitori Nha Bibinha, Isabel Muñoz Cardoso, Miguel Moreira.<hr>
+<hr>"Djon Africa" (Brasil, Portugal, Cabo Verde, 2018), escrito por João Miller Guerra e Pedro Pinho, dirigido por Filipa Reis e Guerra, com Bitori Nha Bibinha, Isabel Muñoz Cardoso, Miguel Moreira.
 
 <h2>Trailer - Djon Africa<h2>

@@ -15,8 +15,8 @@ Porém, não há conflito; nem narrativa; nem história. Gitai nos convida, mais
 
 Mas a fotografia é bela, os movimentos de câmera divertem e há momentos belíssimos de canções típicas. O ator francês, Mathieu Amalric, em dado momento é o convidado de luxo que não quer saber dessa bagunça que é a Palestina. O turista acidental em seu percurso. Ele está com o filho e está fascinado por poder comparar a própria Jerusalém com os textos de um escritor relatando sua própria viagem. Talvez essa seja a comparação mais justa entre esse filme e uma viagem de fato na cultura e valores das pessoas que lá habitam.
 
-<hr>
+
 A Tramway in Jerusalem (Israel, França, 2018), escrito por Amos Gitai, Marie-Jose Sanselme, dirigido por Amos Gitai, com Yaël Abecassis, Mathieu Amalric, Lamis Ammar.
-</hr>
+
 
 <h2>Trailer - Um Trem Em Jerusalém</h2>

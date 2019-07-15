@@ -23,6 +23,6 @@ E embora essa insistência em soar engraçado e divertido, o mais importante no 
 
 E tudo isso empalidece diante dos últimos segundos do longa, onde a mensagem de superação de uma dificuldade interna sem a ajuda dos que fizeram caso com isso é uma prova cabal de que não são só os inimigos que não tem a mínima ideia do que as pessoas atingidas pela guerra sofrem, mas os amigos, os que tentam ajudar, também não possuem o mínimo senso de como podem ser úteis.
 
-<hr>"A Perfect Day" (Spain, 2015), escrito por Fernando León de Aranoa, Diego Farias, Paula Farias, dirigido por Fernando León de Aranoa, com Benicio Del Toro, Tim Robbins, Olga Kurylenko, Mélanie Thierry, Fedja Stukan<hr>
+<hr>"A Perfect Day" (Spain, 2015), escrito por Fernando León de Aranoa, Diego Farias, Paula Farias, dirigido por Fernando León de Aranoa, com Benicio Del Toro, Tim Robbins, Olga Kurylenko, Mélanie Thierry, Fedja Stukan
 
 <h2>Trailer - Um Dia Perfeito<h2>

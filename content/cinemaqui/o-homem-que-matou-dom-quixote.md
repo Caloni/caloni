@@ -15,8 +15,8 @@ O problema é que tudo isso está sendo comentado por uma trilha sonora enfadonh
 
 Essa é a bola fora mais fora da carreira do diretor ex-Monty Python Terry Gilliam, que exibe no início dos créditos o projeto que foi construído e... desconstruído em 25 anos. Bom, há algo que dizem de projetos intermináveis que são revistos de tempos em tempos: é provável que ele fosse melhor dentro de uma gaveta para sempre.
 
-<hr>
+
 The Man Who Killed Don Quixote (Espanha, Bélgica, França, Portugal, Reino Unido, 2018), escrito por Terry Gilliam, Tony Grisoni, dirigido por Terry Gilliam, com Adam Driver, Jonathan Pryce, Stellan Skarsgård. Literatura.
-</hr>
+
 
 <h2>Trailer - O Homem Que Matou Dom Quixote</h2>

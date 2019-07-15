@@ -18,6 +18,6 @@ E o que dizer da visão tão mais rica e com energia de um grupo de senhoras ido
 
 O resultado final é que acaba sendo um filme bem-humorado com pitadas de drama e que não se priva de abordar temas complexos enquanto narra sua história principal. O diretor Hirokazu Koreeda faz uma referência muito pertinente a Era uma Vez em Tóquio ao usar uma profundidade de campo reduzida e enfocar a casa da avó com diferentes planos sobrepostos, dando a impressão da casa ser menor ainda do que é, mas ao mesmo tempo tentando unir familiares sob o mesmo teto. E da mesma forma com que o clássico de Yasujirô Ozu cuidava das relações familiares de uma maneira natural e universal, independente da cultura japonesa, aqui Koreeda tenta atingir o mesmo nível de universalidade, com resultados mistos. É importante lembrar nessas horas que, bem ou mal, famílias pobres, mas não miseráveis, em qualquer cultura possuem problemas semelhantes nas finanças domésticas, independente da comida típica do lugar onde vivem.
 
-<hr>"Umi yori mo mada fukaku" (Japan, 2016), escrito por Hirokazu Koreeda, Hirokazu Koreeda, dirigido por Hirokazu Koreeda, com Hiroshi Abe, Yôko Maki, Taiyô Yoshizawa, Kirin Kiki, Lily Franky<hr>
+<hr>"Umi yori mo mada fukaku" (Japan, 2016), escrito por Hirokazu Koreeda, Hirokazu Koreeda, dirigido por Hirokazu Koreeda, com Hiroshi Abe, Yôko Maki, Taiyô Yoshizawa, Kirin Kiki, Lily Franky
 
 <h2>Trailer - Depois da Tempestade<h2>

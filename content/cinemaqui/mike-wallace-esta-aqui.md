@@ -19,8 +19,8 @@ Se trata de um trabalho ágil, mas sem uma narrativa coesa, que nos leve a enten
 
 Ou seja, o filme começa na incógnita e termina do mesmo jeito. Ele é divertido em um nível moderado, mas informativo em um nível frustrante. E isso para um documentário é um pecado e tanto.
 
-<hr>
+
 "Mike Wallace Is Here" (EUA, 2019), dirigido por Avi Belkin.
-</hr>
+
 
 <h2>Trailer - Mike Wallace Está Aqui</h2>

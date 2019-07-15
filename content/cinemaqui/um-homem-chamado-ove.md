@@ -21,6 +21,6 @@ Exagerado em sua estilização, embora seja agradável observar como a direção
 
 Ainda que entre as atuações as mais óbvias girem em torno do Ove de Rolf Lassgård, que é intenso e não se dá ao luxo de fugir de sua monotomia unidimensional em nenhum momento do longa, e de sua amiga Parvaneh, interpretada pela bela Bahar Pars de uma maneira iluminada, divertida e o ponto de equilíbrio de fato do filme, gosto particularmente de Ida Engvoll em seu papel minúsculo (embora importante) da amada Sonja. Ida não precisa fazer ou falar praticamente nada para dizer a que veio; uma interpretação econômica em meio a tantos exageros chega a soar mas simpático por contraste.
 
-<hr>"En man som heter Ove" (Sweden, 2015), escrito por Hannes Holm, Fredrik Backman, dirigido por Hannes Holm, com Rolf Lassgård, Bahar Pars, Filip Berg, Ida Engvoll, Tobias Almborg<hr>
+<hr>"En man som heter Ove" (Sweden, 2015), escrito por Hannes Holm, Fredrik Backman, dirigido por Hannes Holm, com Rolf Lassgård, Bahar Pars, Filip Berg, Ida Engvoll, Tobias Almborg
 
 <h2>Trailer - Um Homem Chamado Ove<h2>

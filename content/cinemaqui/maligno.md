@@ -21,8 +21,8 @@ Ao mesmo tempo Taylor Schilling (da série Orange is The New Black) consegue com
 
 Como havia dito, Maligno pode não agradar os que precisam que mesmo o terror siga uma cartilha politicamente mais correta, principalmente no que diz respeito à violência contra a mulher. Isso gera um problema complexo do ponto de vista artístico: como chocar e ao mesmo tempo "dar exemplo"? Esse filme não encontra a resposta, mas ainda assim sua história é irrepreeensível do começo ao fim. O terror como gênero se coloca à prova de julgamentos morais.
 
-<hr>
+
 "Maligno" (Canadá, EUA, 2019), escrito por Jeff Buhler, dirigido por Nicholas McCarthy, com Jackson Robert Scott, Taylor Schilling, Peter Mooney, Colm Feore.
-</hr>
+
 
 <h2>Trailer - Maligno</h2>

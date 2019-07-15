@@ -27,6 +27,6 @@ E por falar em exageros, eles praticamente não existem nas atuações, o que po
 
 Dunkirk aos poucos se configura como o trabalho mais maduro de Christopher Nolan, que o roteiriza e dirige controlando seus excessos narrativos e sua mão pesada de Cavaleiro das Trevas e ao mesmo tempo diminuindo seus problemas em desenvolver personagens (Interestelar, A Origem) simplesmente não os utilizando para este fim. Nolan parece ser o ímã que atrai talentos para seus projetos e os coordena em um esquema que garante momentos icônicos para o Cinema. Resta saber se a pretensão de um filme de guerra ultrarrealista que se configura como clássico irá envelhecer como um clássico. E isso só saberemos depois que sua importante mensagem sobre os resultados trágicos do fanatismo seja absorvida pela situação atual na Europa e no resto do mundo. Torçamos para que a guerra não seja vista como inevitável, mas como um alerta do passado sobre o que não fazer novamente com o mundo no futuro.
 
-<hr>"Dunkirk" (UK/Netherlands/France/USA, 2017), escrito por Christopher Nolan, dirigido por Christopher Nolan, com Fionn Whitehead, Damien Bonnard, Aneurin Barnard, Lee Armstrong, James Bloor<hr>
+<hr>"Dunkirk" (UK/Netherlands/France/USA, 2017), escrito por Christopher Nolan, dirigido por Christopher Nolan, com Fionn Whitehead, Damien Bonnard, Aneurin Barnard, Lee Armstrong, James Bloor
 
 <h2>Trailer - Dunkirk<h2>

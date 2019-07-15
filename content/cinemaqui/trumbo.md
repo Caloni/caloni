@@ -17,6 +17,6 @@ Aliás, os melhores momentos como drama estão quando há tensão e conflito na 
 
 E é por isso que "Trumbo" é ótimo entretenimento, nos coloca no tempo e espaço daquela época, mas consegue ser tão esquecível quanto um filme de ação inconsequente. Sentimentos mistos irão ocupar as salas de projeção. Se você gosta de realismo, talvez Trumbo não seja uma experiência muito agradável. Se prefere o água-com-açúcar de filmes que exploram o universo de sua história, aí talvez valha a pena ser inserido nesse mundo (felizmente) distante e esfumaçado.
 
-<hr>"Trumbo" (USA, 2015), escrito por John McNamara, Bruce Cook, dirigido por Jay Roach, com Bryan Cranston, Michael Stuhlbarg, David Maldonado, John Getz, Diane Lane<hr>
+<hr>"Trumbo" (USA, 2015), escrito por John McNamara, Bruce Cook, dirigido por Jay Roach, com Bryan Cranston, Michael Stuhlbarg, David Maldonado, John Getz, Diane Lane
 
 <h2>Trailer - Trumbo<h2>

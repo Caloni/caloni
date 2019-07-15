@@ -21,8 +21,8 @@ Em meio ao deserto e uma paleta opressiva de cores, onde até a grama do campo d
 
 No resto do filme há um tom de estranhamento, mas ele soa apenas incorreto. Um erro de gênero, uma escolha equivocada de quadros. Sua mensagem é um sussurro no deserto para um filme que pede vários gritos de socorro. O que há com aquelas pessoas? O que este mundo se tornou, afinal? Perguntas sem resposta. Resta apenas curtir a música e um ambiente exótico em que a ultraviolência é desumana, mas pior que isso, irracional.
 
-<hr>
+
 "Cómprame un revolver (aka Buy Me a Gun)" (México, Colômbia, 2018), escrito por Julio Hernández Cordón, dirigido por Julio Hernández Cordón, com Ángel Rafael Yanez, Wallace Pereyda, Ángel Leonel Corral.
-</hr>
+
 
 <h2>Trailer - Compra Me Um Revólver</h2>

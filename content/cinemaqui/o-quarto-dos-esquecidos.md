@@ -23,6 +23,6 @@ O único aspecto técnico que deixa a desejar é a trilha sonora, que inconstant
 
 Ainda assim, O Quarto dos Esquecidos, apesar de não ser perfeito em sua história e usar clichês já batidos desta década de terror, consegue se desvencilhar da maioria das armadilhas, como forçar sustos com o uso do som (faz isso apenas pontualmente) ou apelar desnecessariamente para a exposição. No final, ele acaba comprovando novamente que não é preciso de muito sobrenatural para assustar, quando o mais assustador reside dentro das próprias pessoas.
 
-<hr>"The Disappointments Room" (USA, 2016), escrito por D.J. Caruso, Wentworth Miller, dirigido por D.J. Caruso, com Lucas Till, Kate Beckinsale, Gerald McRaney, Michael Landes, Michaela Conlin<hr>
+<hr>"The Disappointments Room" (USA, 2016), escrito por D.J. Caruso, Wentworth Miller, dirigido por D.J. Caruso, com Lucas Till, Kate Beckinsale, Gerald McRaney, Michael Landes, Michaela Conlin
 
 <h2>Trailer - O Quarto dos Esquecidos<h2>

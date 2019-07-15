@@ -17,6 +17,6 @@ A consequência disso é que existe pouca tensão no filme, pois apesar de acomp
 
 Iniciando como um trailer e se alongando desnecessariamente para conseguir agrupar todos os eventos e shows da temporada, A Ópera de Paris é um passeio simples e despretensioso pelo funcionamento de uma casa de ópera e balé. Mas muito informativo. E possui alguns momentos de distração com boa música e excelentes artistas. E quando digo artistas aqui incluo até o pessoal que é responsável por adestrar um imenso touro para o centro do palco. Os heróis invisíveis dessa vez aparecem dentro da cena.
 
-<hr>"L'Opéra" (Switzerland/France, 2017), escrito por Writers, dirigido por Jean-Stéphane Bron, com Stéphane Lissner, Benjamin Millepied<hr>
+<hr>"L'Opéra" (Switzerland/France, 2017), escrito por Writers, dirigido por Jean-Stéphane Bron, com Stéphane Lissner, Benjamin Millepied
 
 <h2>Trailer - A Ópera de Paris<h2>

@@ -24,8 +24,8 @@ Porém, este também é um problema de conteúdo, pois nada do que vimos no film
 
 Tentando fazer um apanhado contemporâneo sobre estilos de vida que tentam fugir do sedentarismo surge apenas o senso comum. Este não chega a ser um alerta sobre nossos hábitos, mas apenas uma constatação. E quando os índices de obesidade piorarem ainda mais, estaremos nos lembrando sobre o foco excessivo dado às atividades físicas. E continuaremos ingerindo fast food. Talvez essa seja a maior reflexão do nosso tempo.
 
-<hr>
+
 "Vida Em Movimento" (Brasil, 2019), escrito por Selma Perez, Eduardo Rajabally, Márcio Atalla, Joana Kfuri baseados na ideia original de Márcio Atalla, dirigido por Eduardo Rajabally.
-</hr>
+
 
 <h2>Trailer - Vida em Movimento</h2>

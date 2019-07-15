@@ -21,8 +21,8 @@ O diretor Sébastien Marnier trabalha a adaptação do livro de Christophe Dufos
 
 Bons filmes nos ensinam lições sobre como o mundo é sem nos entregar as respostas definitivas, entendendo que esta é um tarefa impossível. Filmes não tão bons quanto O Professor Substituto nos ensinam que nada substitui o senso crítico do próprio espectador.
 
-<hr>
+
 desc: "School's Out. France, 2018. Dirigido por Sébastien Marnier, escrito por Christophe Dufossé, Elise Griffon, Sébastien Marnier. Com Laurent Lafitte, Emmanuelle Bercot, Luàna Bajrami."
-</hr>
+
 
 <h2>Trailer - O Professor Substituto</h2>

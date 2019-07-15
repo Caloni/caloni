@@ -19,8 +19,8 @@ Kevin Hart obviamente não é um substituto para o gigante Omar Sy, e essa obser
 
 Os dois precisam trabalhar nas sombras de Sy e Cluzet, e a direção de Neil Burger não os ajuda em nada. Dirigido no piloto automático, o filme usa constantemente externas para a passagem do tempo e não consegue utilizar a câmera para situar o estado de espírito de seus personagens. Vagamente idealizado, o design de produção combina com a direção geral do filme, que assume um caráter de seriado do começo ao fim. Como havia falado, este é o Intocáveis sem alma, sem apelo. Sem necessidade de ser. Ele poderia ser um filme de matinê a ser esquecido na única semana em cartaz, mas será para sempre lembrado como uma versão piorada de um outro filme que já vive em nossos corações.
 
-<hr>
+
 "The Upside" (EUA, 2018), escrito por Jon Hartmere baseado no filme escrito por Éric Toledano e Olivier Nakache, dirigido por Neil Burger, com Kevin Hart com Dell (antigo Driss), Bryan Cranston como Phillip (antigo Philippe), Nicoke Kidman como Yvonne (antes interpretado por Anne Le Ny) e Julianna Margulies (The Good Wife) em uma ponta.
-</hr>
+
 
 <h2>Trailer - Amigos Para Sempre</h2>

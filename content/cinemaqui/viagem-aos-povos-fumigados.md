@@ -21,8 +21,8 @@ Mas não me leve a mal. O trabalho é ótimo, com uma excelente edição e boas 
 
 Porém, qual a validade de um trabalho documental que apela demais para a emoção e se esquece de analisar todos os lados da questão? Fica a reflexão para um espectador mais crítico.
 
-<hr>
+
 A Journey to the Fumigated Towns (Argentina, 2018), escrito e dirigido por Fernando E. Solanas. Documentário, agricultura, agrotóxicos, natureza, ecologia, política.
-</hr>
+
 
 <h2>Trailer - Viagem Aos Povos Fumigados</h2>

@@ -15,6 +15,6 @@ Cada um dos seus pais e mães está sofrendo algum "viés", e cada um ao seu jei
 
 A melhor parte do filme é acompanhar sua trilha sonora, e tenho quase certeza que ela foi compilada para ir direto para um CD ou streaming vendável. Ela resume basicamente o que esperar deste filme: apenas momentos de entretenimento cercados de uma ou outra surpresa interessante sem ser demasiadamente arriscada. Não é o que todos esperam de umas belas férias?
 
-<hr>"Juillet août" (France, 2016), escrito por Diastème, Diastème, Camille Pouzol, dirigido por Diastème, com Luna Lou, Pascale Arbillot, Alma Jodorowsky, Patrick Chesnais, Thierry Godard<hr>
+<hr>"Juillet août" (France, 2016), escrito por Diastème, Diastème, Camille Pouzol, dirigido por Diastème, com Luna Lou, Pascale Arbillot, Alma Jodorowsky, Patrick Chesnais, Thierry Godard
 
 <h2>Trailer - Julho Agosto<h2>

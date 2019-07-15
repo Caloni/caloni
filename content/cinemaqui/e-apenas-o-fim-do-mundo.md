@@ -27,6 +27,6 @@ A trilha sonora, como sempre, é um presente à parte. Não apenas pela seleçã
 
 Xavier Dolan continua sendo o cineasta mais pessoal e intenso do Cinema contemporâneo. Ele força seu espectador a entrar no jogo a qualquer custo, e para o cinéfilo desafia a encontrar falhas na emoção meticulosamente medida quadro a quadro (Dolan também é o montador). Como competir com isso, quando o retorno do diretor é comparado ao retorno de um filho famoso e moribundo? Pelo menos, diferente do filho, o diretor ainda conhecemos. Ele não mudou muito desde a estreia. Talvez esse seja seu ponto fraco para o futuro. Vamos observar se o personagem de Vincent Cassel consegue capturar esse detalhe. Até porque nos filmes de Dolan, pessoal e artístico se combinam em um mosaico que se torna universal.
 
-<hr>"Juste la fin du monde" (Canada/France, 2016), escrito por Xavier Dolan, Jean-Luc Lagarce, dirigido por Xavier Dolan, com Nathalie Baye, Vincent Cassel, Marion Cotillard, Léa Seydoux, Gaspard Ulliel<hr>
+<hr>"Juste la fin du monde" (Canada/France, 2016), escrito por Xavier Dolan, Jean-Luc Lagarce, dirigido por Xavier Dolan, com Nathalie Baye, Vincent Cassel, Marion Cotillard, Léa Seydoux, Gaspard Ulliel
 
 <h2>Trailer - É Apenas o Fim do Mundo<h2>

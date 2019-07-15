@@ -21,6 +21,6 @@ Vincent Lindon faz aqui uma interpretação econômica e poderosa. Ele já foi o
 
 O tom intimista da direção de Brizé, com a câmera sempre na mão, e cortes secos na narrativa, tornam o conteúdo episódico e universal. Mas, não precisamos lembrar, este é um exemplo de filme maniqueísta que quer provar seu ponto. E o faz muito bem. Não quer dizer que esteja certo, mas apenas que argumenta bem. Um filme que passa rápido, que nunca entedia. A não ser, é claro, que você esteja procurando um conteúdo mais pipoca.
 
-<hr>"La loi du marché" (France, 2015), escrito por Stéphane Brizé, Olivier Gorce, dirigido por Stéphane Brizé, com Vincent Lindon, Karine de Mirbeck, Matthieu Schaller, Yves Ory, Xavier Mathieu<hr>
+<hr>"La loi du marché" (France, 2015), escrito por Stéphane Brizé, Olivier Gorce, dirigido por Stéphane Brizé, com Vincent Lindon, Karine de Mirbeck, Matthieu Schaller, Yves Ory, Xavier Mathieu
 
 <h2>Trailer - O Valor de um Homem<h2>

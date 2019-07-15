@@ -21,6 +21,6 @@ O filme nada sutilmente usa movimentos diegéticos -- sons e características ge
 
 E se você chegou até aqui, talvez já saiba que Os Belos Dias de Aranjuez ou não é um filme para você ou é exatamente o filme que você precisa. Ele lida com esse pequeno aspecto da tecnologia que nos une: ela nos torna solitários, inertes. Só pelo fato de um filme ser feito em 3D apenas para exemplificar esse nível de apatia crescente em que a humanidade se encontra, a meu ver, é motivo de sobra para entendermos que Cinema não precisa ser usado apenas para historinhas com começo, meio e fim. Resta saber se esse trabalho de Wenders será relembrado daqui a alguns dias ou, como todas as experiências que vivemos atualmente, ser esquecido como uma bobagem pretenciosa.
 
-<hr>"Les beaux jours d'Aranjuez" (France/Germany/Portugal, 2016), escrito por Wim Wenders, Peter Handke, dirigido por Wim Wenders, com Reda Kateb, Sophie Semin, Jens Harzer, Peter Handke, Nick Cave<hr>
+<hr>"Les beaux jours d'Aranjuez" (France/Germany/Portugal, 2016), escrito por Wim Wenders, Peter Handke, dirigido por Wim Wenders, com Reda Kateb, Sophie Semin, Jens Harzer, Peter Handke, Nick Cave
 
 <h2>Trailer - Os Belos Dias de Aranjuez<h2>

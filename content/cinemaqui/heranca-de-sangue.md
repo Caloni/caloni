@@ -19,6 +19,6 @@ Uma pena, portanto, que tanta dedicação com a dupla principal seja muitas veze
 
 Focando na relação pai e filha, Herança de Sangue é um drama com cenas de ação surpreendentemente boas. E de brinde você ainda leva referências mais ou menos sutis de que Mel Gibson continua tentando expurgar uma dívida no cartório da sociedade. A boa notícia é que, embora essa dívida não tenha qualquer relação com suas obras no Cinema, está dando certo.
 
-<hr>"Blood Father" (France, 2016), escrito por Peter Craig, Andrea Berloff, Peter Craig, dirigido por Jean-François Richet, com Mel Gibson, Erin Moriarty, Diego Luna, Michael Parks, William H. Macy<hr>
+<hr>"Blood Father" (France, 2016), escrito por Peter Craig, Andrea Berloff, Peter Craig, dirigido por Jean-François Richet, com Mel Gibson, Erin Moriarty, Diego Luna, Michael Parks, William H. Macy
 
 <h2>Trailer - Herança de Sangue<h2>

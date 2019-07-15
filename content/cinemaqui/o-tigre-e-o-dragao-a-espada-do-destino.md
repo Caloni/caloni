@@ -17,6 +17,6 @@ E se falta alma ao projeto, não importa o quão bem executada é uma luta. Se s
 
 E bonito por bonito, vale mais a pena rever o conteúdo original, também disponível na Netflix. Lá cada luta possui sua razão de ser, e o objetivo dos mestres não é se gabar de seu conhecimento em lutas marciais, mas utilizá-las com a mais alta sabedoria. Infelizmente, os mestres de A Espada do Destino parecem ter sido contratados pelo Circo de Soleil.
 
-<hr>"Crouching Tiger, Hidden Dragon: Sword of Destiny" (China/USA, 2016), escrito por John Fusco, Wang Du Lu, dirigido por Woo-Ping Yuen, com Donnie Yen, Michelle Yeoh, Harry Shum Jr., Natasha Liu Bordizzo, Jason Scott Lee<hr>
+<hr>"Crouching Tiger, Hidden Dragon: Sword of Destiny" (China/USA, 2016), escrito por John Fusco, Wang Du Lu, dirigido por Woo-Ping Yuen, com Donnie Yen, Michelle Yeoh, Harry Shum Jr., Natasha Liu Bordizzo, Jason Scott Lee
 
 <h2>Trailer - O Tigre e o Dragão: A Espada do Destino<h2>

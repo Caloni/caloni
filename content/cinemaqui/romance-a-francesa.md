@@ -17,6 +17,6 @@ Aliás, é necessário abrir um parênteses para a trilha sonora, que parece ter
 
 Para os muitos que se esquecem que ficção é lidar com o inusitado para construir conteúdo, é importante lembrar que a "forçação de barra" do roteiro deve ser relevada pelo bem do argumento. Quase tudo que surpreende é por um motivo maior, e não para soar inteligente. É assim com Romance à Francesa, e é assim nos melhores momentos de Woody Allen (com ou sem pessimismo).
 
-<hr>"Caprice" (France, 2015), escrito por Emmanuel Mouret, dirigido por Emmanuel Mouret, com Virginie Efira, Anaïs Demoustier, Laurent Stocker, Emmanuel Mouret, Thomas Blanchard<hr>
+<hr>"Caprice" (France, 2015), escrito por Emmanuel Mouret, dirigido por Emmanuel Mouret, com Virginie Efira, Anaïs Demoustier, Laurent Stocker, Emmanuel Mouret, Thomas Blanchard
 
 <h2>Trailer - Romance à Francesa<h2>

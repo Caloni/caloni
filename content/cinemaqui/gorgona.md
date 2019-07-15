@@ -19,6 +19,6 @@ Ao mesmo tempo, Maria Vergueiro não se contém em não dizer certas coisas. Sua
 
 Não há nada de novo sobre como a arte é (des)valorizada no Brasil, mas apenas a junção dos fatos com os sonhos em palco. É para mostrar que ninguém está com a cabeça na lua, mas que por serem artistas sonhar é vital para continuarem fazendo o que fazem. E assim é Maria Vergueiro, uma anônima hoje em dia, como tantas outras e outros, a seguir adiante nessa arte cada vez mais reservada a recintos sujos e mal iluminados. Há até certo charme decadente no ar.
 
-<hr>"Idem" (Brasil, 2018), escrito por Pedro Jezler, Fábio Furtado, dirigido por Pedro Jezler, Fábio Furtado, com Maria Alice Vergueiro, Pascoal Da Conceicao, Danilo Grangheia.<hr>
+<hr>"Idem" (Brasil, 2018), escrito por Pedro Jezler, Fábio Furtado, dirigido por Pedro Jezler, Fábio Furtado, com Maria Alice Vergueiro, Pascoal Da Conceicao, Danilo Grangheia.
 
 <h2>Trailer - Górgona<h2>

@@ -23,6 +23,6 @@ Até certo ponto esse desespero funciona. Carros 3 chega em alguns momentos em s
 
 PS: Por falar em ironia, a dublagem nacional conta com o corredor Rubinho Barrichello como um corredor medíocre com péssimas falas e que também está pendurando as calotas. E se você gostar muito, mas muito mesmo de Tom Math (que tem participação menor neste longa), espere até o final de todos os créditos por uma cena minúscula minúscula protagonizada por ele.
 
-<hr>"Cars 3" (USA, 2017), escrito por Brian Fee, Ben Queen, Eyal Podell, Jonathon E. Stewart, Kiel Murray, dirigido por Brian Fee, com Owen Wilson, Cristela Alonzo, Chris Cooper, Nathan Fillion, Larry Guy the Cable<hr>
+<hr>"Cars 3" (USA, 2017), escrito por Brian Fee, Ben Queen, Eyal Podell, Jonathon E. Stewart, Kiel Murray, dirigido por Brian Fee, com Owen Wilson, Cristela Alonzo, Chris Cooper, Nathan Fillion, Larry Guy the Cable
 
 <h2>Trailer - Carros 3<h2>

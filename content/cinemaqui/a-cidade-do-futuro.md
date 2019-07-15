@@ -19,6 +19,6 @@ Pensando ainda na ameação constante e oculta de ser punido por fazer algo "err
 
 Ao observar que o único suporte que permanece nessa família construída ao acaso são de apenas seus membros nos faz pensar em como existem grupos de valores tão díspares habitando as mesmas ruas, o que não pode nunca ser saudável a longo prazo. É uma das marcas sangrentas da democracia obrigar que pessoas que seriam banidas de sua comunidade continuarem convivendo nesse caldeirão de ódio. A Cidade do Futuro tenta montar seu palco com base na defesa da tolerância, diversidade e amor, mas se esquece que esses são hinos vazios para quem nunca foi ensinado a respeitar o próximo. Se trata de um filme incompleto, com mensagens díspares, mas muito realista, mesmo usando seus tons teatrais demais. A música escolhida para o tema, "Jeito Carinhoso", está longe de ser política. Ela fala sobre o amor e afeto, assim como a história do filme. E com isso deixa claro que o filme não tem a menor noção do que quer falar, apesar de o fazer muito bem.
 
-<hr>"A Cidade do Futuro" (Brasil, 2016), escrito por Cláudio Marques, dirigido por Cláudio Marques e Marília Hughes Guerreiro, com Gilmar Araujo, Igor Santos, Milla Suzart.<hr>
+<hr>"A Cidade do Futuro" (Brasil, 2016), escrito por Cláudio Marques, dirigido por Cláudio Marques e Marília Hughes Guerreiro, com Gilmar Araujo, Igor Santos, Milla Suzart.
 
 <h2>Trailer - A Cidade do Futuro<h2>

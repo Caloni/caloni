@@ -19,6 +19,6 @@ Também diretor, Streker escolhe sabiamente quase não incluir trilha sonora, o 
 
 E é justamente este o ponto de impacto de um filme claro, simples, mas nunca simplista. Ele coordena nossos pensamentos em torno da ideia de movimento social enquanto demonstra com propriedade como nunca estamos realmente livres dessas amarras. Seja você uma mulher sob o regime muçulmano ou uma das milhões de mães solteiras vivendo tristes pelo Ocidente. Se há algo que se pode afirmar da opinião do filme é esta: esteja onde você estiver, ele não traz  uma visão muito otimista da vida.
 
-<hr>"Noces" (France/Belgium/Pakistan/Luxembourg, 2016), escrito por Stephan Streker, dirigido por Stephan Streker, com Lina El Arabi, Sébastien Houbani, Babak Karimi, Nina Kulkarni, Olivier Gourmet<hr>
+<hr>"Noces" (France/Belgium/Pakistan/Luxembourg, 2016), escrito por Stephan Streker, dirigido por Stephan Streker, com Lina El Arabi, Sébastien Houbani, Babak Karimi, Nina Kulkarni, Olivier Gourmet
 
 <h2>Trailer - A Garota Ocidental - Entre o Coração e a Tradição<h2>

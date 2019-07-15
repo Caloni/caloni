@@ -25,6 +25,6 @@ Todos perseguem o Homem Formiga e seus companheiros nesta segunda aventura do he
 
 PS: Por falar nisso, há duas cenas pós-créditos. A primeira é logo após o encerramento e vale a espera. A segunda é por sua conta e risco.
 
-<hr>"Ant-Man and the Wasp" (EUA, 2018), escrito por Chris McKenna, Erik Sommers, Paul Rudd, Andrew Barrer, Gabriel Ferrari, dirigido por Peyton Reed, com Paul Rudd, Evangeline Lilly, Michael Peña, Michael Douglas, Laurence Fishburne e Michelle Pfeiffer.<hr>
+<hr>"Ant-Man and the Wasp" (EUA, 2018), escrito por Chris McKenna, Erik Sommers, Paul Rudd, Andrew Barrer, Gabriel Ferrari, dirigido por Peyton Reed, com Paul Rudd, Evangeline Lilly, Michael Peña, Michael Douglas, Laurence Fishburne e Michelle Pfeiffer.
 
 <h2>Trailer - Homem-Formiga e a Vespa<h2>

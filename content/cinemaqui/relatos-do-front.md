@@ -17,8 +17,8 @@ Este é um filme violento e perdido no tempo, que constrói uma narrativa sem um
 
 Estéril em sua militância, teórico demais em seu discurso e ideológico até os dentes, "Relatos do Front" é uma história repetida e desnecessária do caos urbano. Mas é bem feito. Isso não se pode negar. Pode-se dizer que é um filme; mais um entre os incontáveis lamentos da elite esclarecida. Parabéns. Agora vamos voltar para a vida real.
 
-<hr>
+
 "Relatos Do Front" (Brasil, 2018), escrito por Sergio Barata Empresa, Renato Martins e Gabriel Pardal, dirigido por Renato Martins.
-</hr>
+
 
 <h2>Trailer - Relatos do Front</h2>

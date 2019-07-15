@@ -19,6 +19,6 @@ E para preencher esta lacuna o longa também é deficitário. Estréia de Daniel
 
 Dessa forma, "Paulistas" se compromete como documentário denúncia ou ficção documental (em que a narrativa seria expõr os acontecimentos trágicos da região), mas ao mesmo tempo ganha peso quando vemos os hábitos primitivos da região, com pessoas que sabem matar um porco e aproveitar suas partes para o jantar da noite (aviso: as cenas podem ser fortes). E de quebra, fica de aviso: há um curta de animação que será exibido antes das sessões do filme, "Quando os Dias Eram Eternos", que vale cada rabisco. Programa duplo.
 
-<hr>"Paulitas" (Brasil, 2017), escrito por Daniel Nolasco, dirigido por Daniel Nolasco<hr>
+<hr>"Paulitas" (Brasil, 2017), escrito por Daniel Nolasco, dirigido por Daniel Nolasco
 
 <h2>Trailer - Paulistas<h2>

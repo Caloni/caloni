@@ -23,8 +23,8 @@ Para os religiosos é óbvio que é um filme obrigatório, mas para os ateus, de
 
 Eu sei que o Deus de David Strathairn está longe de inspirar carisma e reflexão. Ele é apenas um mensageiro de diálogos simplistas que tentam explicar uma filosofia usando parábolas e frases prontas. Ninguém pode culpá-lo. Mas, mesmo assim, Entrevista com Deus é eficiente em sua mensagem de amor, paz, sabedoria. Apesar de pouco inspirador e longe de ser dramático, vale a reflexão da sessão da tarde.
 
-<hr>
+
 An Interview with God (EUA, 2018), escrito por Ken Aguado, dirigido por Perry Lang, com Brenton Thwaites, David Strathairn, Yael Grobglas, Hill Harper, Charlbi Dean Kriek. Religião, metáforas.
-</hr>
+
 
 <h2>Trailer - Entrevista Com Deus</h2>

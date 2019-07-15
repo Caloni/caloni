@@ -15,6 +15,6 @@ Um deles diz respeito ao seu osso quebrado durante a fuga. Um osso pequeno do p�
 
 Filmado com enquadramentos deslumbrantes, como um em que vemos apenas uma linha horizontal por onde se move Albetine e dois tempos (seu torso e suas pernas), Astrágalo é uma experiência extenuante mesmo em sua pouco mais de uma hora e meia de duração. O que é curioso, pois muitos de seus momentos poderiam facilmente virar quadros belíssimos de uma França vista através de perfis muito próximos da câmera ou meros objetos de cena. A beleza plástica, ao que me parece, não consegue substituir a falta de uma trama minimamente interessante.
 
-<hr>"L'astragale" (France, 2015), escrito por Serge Le Péron, Albertine Sarrazin, Brigitte Sy, dirigido por Brigitte Sy, com Leïla Bekhti, Reda Kateb, Esther Garrel, Jocelyne Desverchère, India Hair<hr>
+<hr>"L'astragale" (France, 2015), escrito por Serge Le Péron, Albertine Sarrazin, Brigitte Sy, dirigido por Brigitte Sy, com Leïla Bekhti, Reda Kateb, Esther Garrel, Jocelyne Desverchère, India Hair
 
 <h2>Trailer - Astrágalo<h2>

@@ -21,6 +21,6 @@ No meio da história fiquei com medo deste ser um filme de Jean-Pierre Jeunet, q
 
 Ou quase. Fechando seus arcos de uma maneira conveniente demais, apesar de necessários, o filme perde o elemento surpresa muito rápido, não nos dando tempo de sentir seus personagens como se eles fossem reais. Isso faz perder o peso de toda a narrativa, e consequentemente sua mensagem anti-bélica. E o que nos faz voltar à atmosfera de um conto. Um conto que, podendo se passar em um palco, começa e termina em uma delegacia de Marrocos em 1920, na exótica e longínqua África. Os antigos épicos adoravam isso. Aqui tudo soa embrulhadinho demais. Mas apesar disso, um entretenimento de primeira.
 
-<hr>"Au revoir là-haut" (França/Canadá, 2017), escrito por Albert Dupontel adaptado do livro de Pierre Lemaitre, que participou do roteiro; dirigido por Dupontel. Com Nahuel Pérez Biscayart, Albert Dupontel, Laurent Lafitte.<hr>
+<hr>"Au revoir là-haut" (França/Canadá, 2017), escrito por Albert Dupontel adaptado do livro de Pierre Lemaitre, que participou do roteiro; dirigido por Dupontel. Com Nahuel Pérez Biscayart, Albert Dupontel, Laurent Lafitte.
 
 <h2>Trailer - Nos Vemos no Paraíso<h2>

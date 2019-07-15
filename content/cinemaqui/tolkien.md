@@ -21,8 +21,8 @@ Além disso, seu passado como filólogo e a ponte feita entre seus estudos é de
 
 A caracterização cuidadosa do excelente ator Nicholas Hoult (o Nux de Mad Max: Estrada da Fúria) consegue construir um protagonista sem chamar tanta atenção para si, o que descreve com precisão a persona de alguém estudioso vivendo a aventura de sua vida: estudar mais ainda. Uma pena, portanto, que sua atuação não encontre suporte do roteiro, que prefere deixar de lado boa parte da personalidade de Tolkien, o que provavelmente deixará não apenas os fãs religiosos, mas os fãs em geral, particularmente decepcionados com a falta de coragem tão essencial nas obras do autor.
 
-<hr>
+
 "Tolkien" (EUA, 2019), escrito por David Gleeson, Stephen Beresford, dirigido por Dome Karukoski, com Nicholas Hoult, Lily Collins, Colm Meaney.
-</hr>
+
 
 <h2>Trailer - Tolkien</h2>

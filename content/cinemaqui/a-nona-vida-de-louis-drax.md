@@ -20,6 +20,6 @@ O que nos leva à personagem de Sarah Gadon (O Homem Duplicado), Natalie. A cria
 
 E por isso mesmo é um trabalho curioso. Ele depende de personagens que se tornam insatisfatórios, mas possui uma narrativa coesa o suficiente para conseguir nos levar de cabo a rabo através de uma história não-linear que é coberta de sonhos e pesadelos e que mantém em seu núcleo um mistério mais ou menos simples de ser desvendado, mas que se torna poderoso ao percebermos como pessoas e relacionamentos podem ser doentios. Sim, A Nona Vida de Louis Drax não é um filme bonitinho. Na verdade, próximo do final, você irá notar que ele é bem horrível, o que poderá lhe dar a impressão de ser um filme ruim. No entanto, quando um filme se torna detestável por apresentar personagens horríveis, é porque ele, de fato, conseguiu mexer com alguma coisa dentro de nós. Talvez apenas por isso essa não seja uma sessão jogada no lixo. Desgastante... mas curiosa.
 
-<hr>"The 9th Life of Louis Drax" (UK/Canada/USA, 2016), escrito por Liz Jensen, Max Minghella, dirigido por Alexandre Aja, com Jamie Dornan, Aiden Longworth, Sarah Gadon, Michael Adamthwaite, Aaron Paul<hr>
+<hr>"The 9th Life of Louis Drax" (UK/Canada/USA, 2016), escrito por Liz Jensen, Max Minghella, dirigido por Alexandre Aja, com Jamie Dornan, Aiden Longworth, Sarah Gadon, Michael Adamthwaite, Aaron Paul
 
 <h2>Trailer - A Nona Vida de Louis Drax<h2>

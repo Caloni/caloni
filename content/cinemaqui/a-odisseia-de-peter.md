@@ -14,6 +14,6 @@ Ao mesmo tempo, intercalando o dia a dia, testemunhamos seus sonhos noturnos ond
 
 O filme é puro desejo. Peter não esboça nenhuma razão em suas ações, e não se pode culpar uma criança por não agir com disciplina, pois seus culpados em última análise são seus relapsos pais, que se preocupam com o filho, mas parecem incapazes de agir (não fica claro por quê). Pegando carona na recorrente história dos refugiados, o filme tenta universalizar a situação de quem deixa sua pátria mãe em busca do desconhecido. Uma visão um tanto poética, no mínimo.
 
-<hr>"Odysseya Petra" (Rússia, 2018), escrito e dirigido por Anna Kolchina e Alexey Kuzmin-Tarasov, com Dmitriy Gabrielyan, Svetlana Nemolyaeva, Maria Shashlova.<hr>
+<hr>"Odysseya Petra" (Rússia, 2018), escrito e dirigido por Anna Kolchina e Alexey Kuzmin-Tarasov, com Dmitriy Gabrielyan, Svetlana Nemolyaeva, Maria Shashlova.
 
 <h2>Trailer - A Odisseia de Peter<h2>

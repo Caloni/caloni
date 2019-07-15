@@ -21,8 +21,8 @@ A direção de Diego Freitas insiste em closes exagerados e enquadramentos estil
 
 Freitas também assina o roteiro competente, que teve ajuda da crítica Ana Maria Bahiana, e que embora capenga em seus minutos finais é eficiente na maioria do tempo. Note como alguns detalhes nem precisam ser ditos ao espectador, como quando descobrimos quem realmente está namorando a amiga de Davi, ou a relação entre Davi e seu misterioso pai. E o uso repetido de frases-chave ressaltam o caráter repetitivo das vozes que Davi escuta, em mais um sinal de respeito à inteligência do espectador. Além disso, a reviravolta evita muitos flashbacks para não soar pedante, se limitando ao necessário. Funciona. O Segredo de Davi, você irá notar, possui narrativa econômica do começo ao fim. Vai prender a atenção de muita gente.
 
-<hr>
+
 O Segredo de Davi (Brasil, 2018), escrito e dirigido por Diego Freitas, com Nicolas Prattes, Eucir de Souza, Cris Vianna.
-</hr>
+
 
 <h2>Trailer - O Segredo De Davi</h2>

@@ -19,6 +19,6 @@ Enquanto isso, a tensão é criada quase de forma automática por acompanharmos 
 
 Isso explica os momentos sublimes do final, onde expectativa e acontecimento se encontram. Intuitivamente previsível, mas nunca óbvio. Há alguma mágica em "De Longe Te Observo" que parece manter os detalhes bem longe de onde podemos facilmente observá-los.
 
-<hr>"Desde allá" (Venezuela/Mexico, 2015), escrito por Lorenzo Vigas, Guillermo Arriaga, Lorenzo Vigas, dirigido por Lorenzo Vigas, com Alfredo Castro, Luis Silva, Jericó Montilla, Catherina Cardozo, Jorge Luis Bosque<hr>
+<hr>"Desde allá" (Venezuela/Mexico, 2015), escrito por Lorenzo Vigas, Guillermo Arriaga, Lorenzo Vigas, dirigido por Lorenzo Vigas, com Alfredo Castro, Luis Silva, Jericó Montilla, Catherina Cardozo, Jorge Luis Bosque
 
 <h2>Trailer - De Longe Te Observo<h2>

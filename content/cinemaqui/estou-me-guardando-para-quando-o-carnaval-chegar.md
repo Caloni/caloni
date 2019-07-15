@@ -27,8 +27,8 @@ Enquanto a forma realista de Marcelo Gomes filmar, evitando cortar em cenas onde
 
 Mas estou sendo parcial como nosso amigo diretor. Uma resposta mais honesta seria: quanto a nossa realidade permitir.
 
-<hr>
+
 "Estou Me Guardando Para Quando O Carnaval Chegar. Brazil, 2019. Dirigido por Marcelo Gomes, escrito por Marcelo Gomes."
-</hr>
+
 
 <h2>Trailer - Estou Me Guardando Para Quando O Carnaval Chegar</h2>

@@ -23,6 +23,6 @@ Já o roteiro é completo, redondo, com gosto de trabalho feito. Tudo exigido pe
 
 E por falar em final, é preciso sempre lembrar que esses filmes não entregam um final de fato. Se trata apenas de mais um episódio na interminável série de filmes sobre o universo dos heróis. Todos se interconectam, seja por referências ou pelos créditos finais (aqui há dois). E todos no longo prazo disputam pelo título de filme de super-herói mais igual de todos. Qual a sua aposta?
 
-<hr>"Thor: Ragnarok" (USA, 2017), escrito por Eric Pearson, Craig Kyle, Christopher Yost, dirigido por Taika Waititi, com Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba, Jeff Goldblum<hr>
+<hr>"Thor: Ragnarok" (USA, 2017), escrito por Eric Pearson, Craig Kyle, Christopher Yost, dirigido por Taika Waititi, com Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba, Jeff Goldblum
 
 <h2>Trailer - Thor Ragnarök<h2>
