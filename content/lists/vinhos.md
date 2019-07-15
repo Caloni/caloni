@@ -3,6 +3,8 @@ title: "Vinhos"
 categories: [ "lists" ]
 date: 2019-07-01
 ---
+2019-07-14 Finca Flichman Chardonay Roble 2008 foi um vinho esquecido na geladeira por alguns meses, que veio não sei daonde (a origem é de Mendoza, Argentina) e que não está com gosto de vinagre.
+
 2019-07-01 Valpolicella é um vinho italiano leve, quase aguado, mas bom de beber sem pressa apreciando a imbatível combinação de amargo e doce (do molho) da pizza de escarola da Cantina do Araújo em Poços de Caldas.
 
 2019-06-19 Já o Cabernet Sauvignon deles, Tempos, é azedo. Não lembra Cabernet, exceto pelo corpo fraco para médio. Bom para comer com queijo. Bom e barato se você não espera nada além de um vinho honesto e de entrada.
