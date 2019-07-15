@@ -4,7 +4,7 @@ categories: [ "blog" ]
 title: "Sobre debates no SESC Santos"
 desc: "Sobre debates no SESC Santos."
 ---
-Esse fds participei de uma rápida ida e volta para Santos para participar de um dia com dois debates de um evento organizado pelo meu editor no CinemAqui](www.cinemaqui.com.br), o [Vinicius Carlos Vieira.
+, o [Vinicius Carlos Vieira.
 
 Com um início atribulado por conta da nossa carona, uma taxista que também é artista plástica e que condenava sua situação atual e flertava com a ideia de uma possível oportunidade de virar caminhoneira e viajar o país, talvez o melhor da viagem tenha sido conhecer meu parceiro das críticas em Sampa, o Eduardo Sandrini. Sua lógica e suas opiniões acerca de diversos filmes, além do sempre bom papo sobre Cinema, talvez tenham sido o ponto alto do dia.
 

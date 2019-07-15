@@ -7,7 +7,7 @@ imdb: "0338013"
 categories: [ "movies" ]
 stars: "5/5"
 ---
-Por que as pessoas hoje em dia estão tão ansiosas em ser felizes e se livrar rapidamente das partes ruins de um relacionamento em suas mentes? A pergunta que o roteirista Charlie Kaufman (Quero ser John Malkovich](/quero-ser-john-malkovich), Adaptação](/adaptacao), Anomalisa e seu parceiro de costume, o diretor Michel Gondry ([Natureza Quase Humana, "Rebobine, por Favor", [A Espuma dos Dias fazem neste filme é: e se elas pudessem?
+, Anomalisa e seu parceiro de costume, o diretor Michel Gondry ([Natureza Quase Humana, "Rebobine, por Favor", [A Espuma dos Dias fazem neste filme é: e se elas pudessem?
 
 E o resultado, como dificilmente poderia ser diferente, é uma experiência visualmente inventiva com uma história ambiciosa sem ser pretensiosa. Em uma hollywood decadente, já dando sinais de ter entrado em um cataclisma vicioso com seus cada vez mais enlatados gêneros lucrativos (atualmente resumido em comédias românticas e filmes de super-heróis), Kaufman e Gondry ousam criar Cinema no melhor estilo: um roteirista e um diretor autorais buscando responder questões humanas através da sétima arte. Eles não são cineastas contratados para dirigir atores de sucesso em histórias pré-fabricadas. Eles trilham seu próprio caminho, são talentosos e merecem mais atenção dos espectadores que ainda ousam pensar sobre os filmes que assistem.
 

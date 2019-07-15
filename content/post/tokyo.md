@@ -7,7 +7,7 @@ categories: [ "movies" ]
 stars: "5/5"
 
 ---
-Só tem diretor foda nesse filme. Mas diretores foda podem fazer cagada de vez em quando. Felizmente não é o caso de "Tokyo!", que nos apresenta o tema cidade-título de uma maneira que Nova Iorque](/movies/nova-york-eu-te-amo)/[Paris Eu Te Amo nem sonham em fazer.
+/[Paris Eu Te Amo nem sonham em fazer.
 
 Mas estou sendo desonesto. Esses dois outros trabalhos de curtas em volta de uma cidade ficam mais no aspecto romântico das megalópoles. Em "Tokyo!" o espírito da cidade grande japonesa se transmorfa em diferentes formas de viver, seja em um relacionamento insatisfatório com outra pessoa, uma relação de ódio com a sociedade ou até o desejado reencontro com a humanidade em um mundo que ironicamente apesar de ter tanta gente morando por perto nos escondemos mais e mais.
 

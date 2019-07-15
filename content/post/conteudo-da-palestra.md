@@ -3,7 +3,7 @@ date: "2012-03-11"
 title: Conteúdo da Palestra
 categories: [ "blog" ]
 ---
-!
+
 
 Uma nuvem mágica...
 

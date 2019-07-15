@@ -13,7 +13,7 @@ Os filmes dessa safra são simples, teatrais. São feitos para serem musicais po
 
 Se trata da busca incessante dos homens pelo poder de realizar os seus desejos. É óbvio, mas observe como para isso existe um escravo envolvido: o Gênio (Robin Williams), que deseja depois de dez mil anos preso ser livre. O gênio que tem um desejo por si mesmo. Em torno dos desejos é que se elabora uma história que sutilmente relaciona nossas pequenas prisões na vida, como o destino de uma princesa em se casar com um príncipe e das necessitudes de órfãos pobres perambulando pelas ruas buscando pela mínima oportunidade de conseguir comida.
 
-A primeira metade do filme é a mais inspiradora nesse sentido. Note como a princesa Jasmine deseja a liberdade e observa os passarinhos que liberta. Ao mesmo tempo repare o pequeno universo que o Gênio vive em meio às suas interrupções, piadas e alegorias divertidíssimas. O vilão é o mesmo vilão de sempre: uma Úrsula](/a-pequena-sereia) de barba e cajado. Disney nunca foi e nunca será capaz de criar vilões memoráveis. Bom, talvez [Scar...
+ de barba e cajado. Disney nunca foi e nunca será capaz de criar vilões memoráveis. Bom, talvez [Scar...
 
 A música-tema, A Whole New World, canta não apenas sobre o casal de apaixonados, mas sobre a possível liberdade que o Gênio poderá receber. Esta é a história da transformação para todos os personagens, e a mágica envolvida no conto é expressado no filme pelos traços irreais da equipe de animação, que utiliza nesse período os desenhos tradicionais e a ajuda computadorizada.
 

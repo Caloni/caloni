@@ -3,7 +3,7 @@ date: "2007-08-13"
 title: GINA x Credential Provider
 categories: [ "blog" ]
 ---
-Não fui convidado a participar do tema, mas como já faz algum tempo que o rascunho deste artigo está no molho, e aproveitando que meu amigo Ferdinando resolveu escrever sobre nossa amiga em comum](http://www.driverentry.com.br/blog/2007/08/personal-gina-tabajara.html), darei continuidade à minha empolgação sobre o [_tagging_ e largarei aqui este pequeno adendo.
+, darei continuidade à minha empolgação sobre o [_tagging_ e largarei aqui este pequeno adendo.
 
 Com a chegada do Windows Vista, uma velha conhecida minha e dos meus colegas deixou de fazer parte do sistema de autenticação do sistema operacional: a velha **GINA**, _**G**raphical **I**dentification a**N**d **A**utentication._
 
@@ -46,7 +46,7 @@ Já que fomos brindados com um exemplo de GINA _stub_ do Ferdinando, também ire
 
 E é isso aí. Como é que aquele cara do DriverEntry diz mesmo? Ah, sim: have fun! =P
 
-!¿Saída¿ de nossa GINA stub
+¿Saída¿ de nossa GINA stub
 
 **Para saber mais sobre Credential Providers (e o que fazer com sua GINA)
 **

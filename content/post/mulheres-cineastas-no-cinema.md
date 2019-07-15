@@ -12,11 +12,11 @@ Bom, chega de lenga-lenga. Vamos dar uma olhada em uma lista delas:
 
 ## Sofia Coppola
 
-Difícil uma lista sem ser encabeçada por ela, a filha do diretor de O Poderoso Chefão acumula virtudes tipicamente femininas e da classe alta a qual pertence em seus filmes, dentre os quais Encontros e Desencontros é o mais icônico, mas que está longe de ser o único, incluindo Virgens Suicidas, Maria Antonieta, Bling Ring A Gangue de Hollywood](/bling-ring-a-gangue-de-hollywood), [Um Lugar Qualquer, entre outros.
+, [Um Lugar Qualquer, entre outros.
 
 ## Lynne Ramsay
 
-Minha favorita da atualidade, Precisamos Falar Sobre Kevin](/precisamos-falar-sobre-o-kevin) é um trabalho de respeito. Mas [seu filme de 2018 já é outro nível, figurando para mim entre os melhores do ano. Seu forte é a relação visceral entre as pessoas, onde apesar de haver uma hierarquia aparente entre adultos e jovens isso se dissipa rapidamente em seus trabalhos, tornando a idade um meio detalhe quando a essência que seus personagens compartilham é tão poderosa.
+ é um trabalho de respeito. Mas [seu filme de 2018 já é outro nível, figurando para mim entre os melhores do ano. Seu forte é a relação visceral entre as pessoas, onde apesar de haver uma hierarquia aparente entre adultos e jovens isso se dissipa rapidamente em seus trabalhos, tornando a idade um meio detalhe quando a essência que seus personagens compartilham é tão poderosa.
 
 ## Kathryn Bigelow
 
@@ -24,7 +24,7 @@ Agora estamos falando de grande escalão. Bigelow fala sobre grandes temas inser
 
 ## Doris Dörrie
 
-Uma das minhas favoritas, seus filmes estranhos sobre relações inusitadas merece uma descoberta pelo público. Ela não é pop, mas tem algo a dizer em seus trabalhos mais icônicos como Hanami: Cerejeiras em Flor](/hanami-cerejeiras-em-flor) e no bizarro [Felicidade.
+ e no bizarro [Felicidade.
 
 ## Menções popzinhas
 

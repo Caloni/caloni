@@ -9,7 +9,7 @@ E é claro que eles já sabem que o mais relevante no momento é o acompanhament
 
 Apesar de não estar no centro dos meus estudos e dedicação nos últimos anos, a velha queda que nutro pela minha linguagem de criação além do próprio título de expertise me fizeram escolher, por todos os dias que estive no evento mundial de MVPs, pela oportunidade de ouro de assistir o que a equipe de desenvolvimento do Visual C++ tinha a dizer. O saldo foi extremamente positivo.
 
-Como devem saber, há um blogue da equipe](http://blogs.msdn.com/b/vcblog) onde são compartilhadas informações sobre como anda esse projeto que já tem mais de duas décadas. As últimas novidades incluem ferramentas para desenvolvimento mobile (Android e Windows Phone) em C++ e o Visual Studio 2015 Preview e mais uma porrada de suporte aos padrões [C++ 11, 14 e o futuro 17.
+ em C++ e o Visual Studio 2015 Preview e mais uma porrada de suporte aos padrões [C++ 11, 14 e o futuro 17.
 
 E uma última novidade muito curiosa é um saite onde é possível testar código no último compilador compilado pela equipe!
 

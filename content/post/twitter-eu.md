@@ -3,7 +3,7 @@ date: "2010-07-28"
 title: Twitter, eu?
 categories: [ "blog" ]
 ---
-!twitter_bird.jpg, dicas rápidas sobre cinema e sabe-lá-deus-o-que-mais.
+twitter_bird.jpg, dicas rápidas sobre cinema e sabe-lá-deus-o-que-mais.
 
 E isso não vai mudar. É meu twitter pessoal. Aliás, meu próprio blogue também é pessoal, e é provável que no futuro ele que mude, e não o contrário.
 

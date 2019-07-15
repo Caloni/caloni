@@ -13,7 +13,7 @@ Mas voltemos aos replicantes. Essa versão de humanos criados em laboratório é
 
 O forte é o design de produção e de arte. Note as pirâmides como mega corporações e as ruas estreitas do sub mundo, em uma chuva e escuridão eternas. O tema de Blade Runner é de uma desesperança que rivaliza apenas com este mundo caótico e sem sentido que o design de arte faz tão bem. Desde "já" um dos melhores trabalhos no Cinema sobre distopias, comparável a Metrópolis.
 
-A escalação de Harrison Ford hoje é discutível. Caçador de androides, na época era o mocinho indiscutível com trabalhos como Star Wars](/movies/guerra-nas-estrelas) e [Indiana Jones, mas hoje seu sorriso abobado soa destoante perto daquela realidade opressiva. Ele diz as falas, ok, mas seu espírito não parece estar ciente de que está realizando um clássico.
+ e [Indiana Jones, mas hoje seu sorriso abobado soa destoante perto daquela realidade opressiva. Ele diz as falas, ok, mas seu espírito não parece estar ciente de que está realizando um clássico.
 
 O que deveria saber pelo roteiro. Não podemos ignorar hoje a performance visceral, shakespeariana, do andróide macho alfa, interpretado por Rutger Hauer. Ele está em um estado de alteração permanente. Suas falas tem o potencial de roubar a cena, mas apenas uma atuação desse calibre consegue entregá-las. Apenas note em seus olhos e em seus movimentos, mas a prova final é constatar que toda cena em que ele aparece o filme melhora, enquanto que com Ford não piora, mas se suporta pelo design. É como se o detetive Deckard estivesse pela primeira vez nesse mundo, o que não condiz com sua fama de melhor caçador.
 

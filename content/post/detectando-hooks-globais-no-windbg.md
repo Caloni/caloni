@@ -38,7 +38,7 @@ Exatamente o que o comando se dispõe a fazer: **imprimir seus argumentos na tel
 
 Se essa mensagem fosse exibida mais de uma vez, poderíamos supor que é possível existir algum tipo de infecção na execução do aplicativo, como quando o código inicial carrega o original e volta a executar o mesmo ponto.
 
-!Código Malicioso
+Código Malicioso
 
 O objetivo aqui é "preparar o terreno" (ficar residente) antes que o código original seja executado. Com um simples _breakpoint_ e um simples .echo conseguimos visualizar esse tipo de ataque. Outra possibilidade é que se trata daqueles executáveis "empacotados" por meio de algum encriptador de códigos como UPX, que desempacota o código e reexecuta o ponto de entrada do executável.
 

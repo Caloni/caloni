@@ -110,7 +110,7 @@ As opções específicas são para gerar o path completo, as barras invertidas s
 
 A partir dessa configuração já é possível compilar um projeto estando em sua pasta:
 
-!
+
 
 Para o Visual Studio 2003 (ou qualquer um usando o devenv.com) é necessário mudar esse comando:
 
@@ -120,7 +120,7 @@ Para o Visual Studio 2003 (ou qualquer um usando o devenv.com) é necessário mu
 
 Sim, temos que escolher uma configuração (o msbuild já escolhe por você). E note que ele usa o arquivo atual (%) para compilar. Isso quer dizer que isso irá exigir do usuário de Vim abrir o sln ou o vcproj e executar o :make a partir daí. De qualquer forma, ele funciona também:
 
-!
+
 
 ### Refinando a saída
 
@@ -134,15 +134,15 @@ Ele pega também os warnings, mas fazer o quê. Você não quer conviver com war
 
 VS2010:
 
-!
+
 
 VS2003:
 
-!
+
 
 Note que depois de clicar em Enter ele pula para o primeiro erro da lista:
 
-!
+
 
 E para navegar na lista é como o resultado de comandos como :vimgrep. :cnext e :cprevious vão para frente e para trás na lista, sempre pulando para o ponto no código onde está o erro.
 

@@ -3,7 +3,7 @@ date: 2017-07-25T16:59:05-03:00
 title: "CppTests"
 categories: [ "blog" ]
 ---
-Iniciei um novo projeto no GitHub](https://github.com/Caloni/ccpptests) que tem por objetivo ser minha prancheta de trabalhos para minha palestra no [próximo encontro ccpp. Há uma infinitude de coisinhas novas na linguagem C++, fora as adições à biblioteca STL, mas que devem passar despercebidas da maioria dos programadores, que está mais é querendo terminar seus próprio projetos. Enquanto alguns conceitos, sintaxes e métodos não se solidificam, vale a pena dar uma espiada no futuro?
+ que tem por objetivo ser minha prancheta de trabalhos para minha palestra no [próximo encontro ccpp. Há uma infinitude de coisinhas novas na linguagem C++, fora as adições à biblioteca STL, mas que devem passar despercebidas da maioria dos programadores, que está mais é querendo terminar seus próprio projetos. Enquanto alguns conceitos, sintaxes e métodos não se solidificam, vale a pena dar uma espiada no futuro?
 
 Depende.
 
@@ -27,10 +27,10 @@ A lista que achei interessante (com seu projeto):
 
 A otimização no if através do uso da palavra-chave __constexpr__ possibilita a criação de diferentes instâncias da chamada que não contém o if, mas um dos dois branches dependendo do tipo ser integral ou não.
 
-!
+
 
 Para que a compilação dessa opção funcione no Visual Studio 2017 15.3 é necessário inserir o parâmetro /std:c++latest nas opções do projeto em __C/C++, Command Line__:
 
-!
+
 
 Todos (ou a maioria) deles ainda está em teste. Acabei de baixar o preview 5, conforma um dos membros da ML dos MVPs C++ me informou que saiu quentinha do forno. Em breve novidades.

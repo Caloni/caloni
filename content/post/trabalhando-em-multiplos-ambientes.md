@@ -60,4 +60,4 @@ Geralmente o que faço depois é compactar a pasta gerada (se desejar, use uma s
 
 Terminado o trabalho naquela máquina, geralmente gero um branch novo (para limpar o diretório) e recompacto a solução, copio para o Pendrive, e descompacto na máquina da empresa. O resto do caminho é como se eu tivesse feito as modificações na própria máquina:
 
-!Commit no server
+Commit no server

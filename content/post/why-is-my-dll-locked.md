@@ -3,13 +3,13 @@ date: "2007-09-24"
 title: Why is my DLL locked?
 categories: [ "code" ]
 ---
-There is a document](http://www.microsoft.com/whdc/driver/kernel/DLL_bestprac.mspx) from Microsoft alerting about the hazards in putting your code inside a DllMain function. what is more comprehensive and easier to read than the [MSDN observations. It is worth reading, even because the explanations about the loader lock and its side effects can do very good for your code health.
+ from Microsoft alerting about the hazards in putting your code inside a DllMain function. what is more comprehensive and easier to read than the [MSDN observations. It is worth reading, even because the explanations about the loader lock and its side effects can do very good for your code health.
 
 #### The concept
 
 In short, the Windows code responsible to call DllMain for each loaded/unloaded DLLs uses an exclusive access object (the so-called "mutex") to synchronize its calls. The result is that inside a process just one DllMain can be called at a given moment. This object-mutex is called "loader lock" into the Microsoft documentation.
 
-!Loader Lock explained
+Loader Lock explained
 
 #### The code
 
@@ -93,7 +93,7 @@ int main()
 
 ```
 
-In order to the see the locking code in action, download the DLL](/images/loaderlock.cpp) and [EXE source files and use the following commands to generate the executable files:
+ and [EXE source files and use the following commands to generate the executable files:
 
     
     cl /c loaderlock.cpp loaderlock-exe.cpp

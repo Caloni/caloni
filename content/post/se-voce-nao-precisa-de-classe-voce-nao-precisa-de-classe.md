@@ -47,7 +47,7 @@ Bjarne Stroustrup desde o começo, em seu livro The C++ Programming Language, su
 
 Então o erro no código acima é supor mecanicamente que como é C++ precisa ter classe.
 
-!
+
 
 Não. O código não precisa ter uma classe. No entanto, seu código precisa ter classe. Entendeu?
 

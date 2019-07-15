@@ -10,7 +10,7 @@ Na zona, principalmente resolvendo problemas complexos, o importante é poder co
 
 A primeira vantagem do Vim em relação a outros editores é sua capacidade de abrir arquivos grandes. Um log de 1GB pode ser um desafio para um Notepad da vida, e até para um Visual Studio, mas no Vim tudo que você precisa é de memória disponível. E mesmo que não tenha, o Windows se vira bem no gerenciamento de swap (ou Linux, tanto faz).
 
-Para navegar no código, existem duas técnicas que não necessitam de nenhum plugin. A primeira é a busca por regex, que pode ser feita com os comandos :vimgrep](http://vimdoc.sourceforge.net/htmldoc/quickfix.html#:vimgrep) ou [:grep.
+ ou [:grep.
 
 ```vim
 " No Vim não é necessário digitar o comando completo; note que esse wildcard busca pastas recursivamente

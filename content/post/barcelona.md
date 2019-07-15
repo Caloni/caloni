@@ -11,7 +11,7 @@ Barcelona é um filme que se insere em um momento político tenso na cidade-tít
 
 Isso porque ele tem uma pegada Woody Alleniana que pode afastar algumas pessoas. Isso é quando um ou dois personagens falam longos diálogos, mas estes diálogos não são enfadonhos para a maioria dos mortais que talvez não seja interessante de se assistir. Porém, para os pacientes, eles se tornam incrivelmente inteligentes, com múltiplas camadas, que dizem algo interessante por si só mas ao mesmo tempo nos permite analisar a pessoa que o diz. Se torna um exercício tão fascinante que você não vai mais querer parar de ouvir e querer entender a dinâmica dessas pessoas até o final da história.
 
-Este é um dos melhores roteiros de comédia já vistos desde A Primeira Noite de um Homem](/a-primeira-noite-de-um-homem). Ele inclusive cita o final do filme com Dustin Hoffman e que deve ter inspirado seu idealizador, o diretor/roteirista/produtor Whit Stillman, que fez em sua breve carreira até o momento meia-dúzia de filmes (fui na cabine de um deles, uma filmagem de Jane Austen, [Amor e Amizade.
+. Ele inclusive cita o final do filme com Dustin Hoffman e que deve ter inspirado seu idealizador, o diretor/roteirista/produtor Whit Stillman, que fez em sua breve carreira até o momento meia-dúzia de filmes (fui na cabine de um deles, uma filmagem de Jane Austen, [Amor e Amizade.
 
 Seus personagens são um vendedor de Chicago alocado em Barcelona e o seu primo recém-chegado, um militar da marinha, que chega no continente em um momento tenso, no final da Guerra Fria, onde atentados estão acontecendo e um sentimento anti-americano crescente evoca das ruas. Vemos alguns de vez em quando, o que torna o clima do filme tenso e nos faz prestar atenção em volta.
 

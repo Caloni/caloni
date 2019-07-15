@@ -14,6 +14,6 @@ E no caso de Varda e JR essa arte consiste em visitar diferentes vilarejos metaf
 
 O objetivo dessa dupla dinâmica não parece estar em criar algum conceito ou narrativa para seu filme, exceto o do próprio processo que participam. Dessa forma, este road-movie documental é simples e direto ao ponto, no que se torna uma experiência amigável e aconchegante para o espectador, ainda que a falta de desafios o torne ironicamente desinteressante, e é capaz que ao assisti-lo você se pegue pensando na vida e esquecendo de olhar para a tela.
 
-Porque aparentemente não há nada muito ambicioso neste projeto, o tornando constantemente morno. Talvez seja esse o objetivo, mesmo: fazer-nos olhar para o processo artístico, ou para os artistas. Egocêntrico como isso possa parecer, parece ser um processo cada vez mais atual. Vimos isso em outros trabalhos, como no recente Human Flow](/human-flow), um filme sobre imigração onde seu próprio diretor é um imigrante. Já na área da ficção, trabalhos como Birdman e [O Último Ato, com Al Pacino, discutem a posição do artista nesse mar de irrelevâncias que se tornou o planeta Terra.
+, um filme sobre imigração onde seu próprio diretor é um imigrante. Já na área da ficção, trabalhos como Birdman e [O Último Ato, com Al Pacino, discutem a posição do artista nesse mar de irrelevâncias que se tornou o planeta Terra.
 
 E dessa forma talvez "Visages, Villages" seja, de fato, um trabalho interessante. Pena que seus idealizadores, como peixes dentro da água, parecem não conseguir enxergar a água onde vivem.

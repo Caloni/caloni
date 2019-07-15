@@ -24,11 +24,11 @@ caption id="attachment_1222" align="aligncenter" width="498" caption="EXE e PDB,
 
 Mesmo que, em alguns momentos trágicos, apareça uma tela indesejada.
 
-!
+
 
 Seu caminho a partir dessa tela pode ser analisar um dump gerado (visto no artigo anterior) ou podemos atachar o WinDbg diretamente no processo (visto aqui e agora):
 
-!
+
     WinDbg: "mas que bagunça é essa na memória desse processo?"
 
 O comando mais útil na maioria dos casos é mostrar a pilha em modo verbose (kv e <enter>). Porém, antes disso, precisamos:

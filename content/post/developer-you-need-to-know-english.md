@@ -5,7 +5,7 @@ categories: [ "blog" ]
 ---
 Eu realmente gostei desse negócio de _tagging_
 
-Aproveitando o comentário do Ferdinando](http://www.driverentry.com.br/blog/2007/09/mais-ieu-num-sei-ingris.html) sobre o novo sistema de tradução eletrônica do MSDN, lanço aqui algumas dicas para aprender a tão falada língua de Shakespeare. Acredite, se você deseja [ser um melhor programador, inglês é fundamental.
+ sobre o novo sistema de tradução eletrônica do MSDN, lanço aqui algumas dicas para aprender a tão falada língua de Shakespeare. Acredite, se você deseja [ser um melhor programador, inglês é fundamental.
 
 #### Primeira dica: aprenda inglês instrumental
 
@@ -32,7 +32,7 @@ Seguem alguns primeiros passos para começar a se aventurar:
 Como todo bom aprendizado, a parte mais importante é a prática. E nada melhor para praticar do que ler pra caramba, certo? Isso quer dizer que você terá algumas tarefas diárias a partir de agora:
 
 	
-  * Compre um dicionário inglês-português](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=dicionario+ingles+portugues&site_origem=1293522) dos mais simples, seja o tradicional ou o eletrônico](http://compare.buscape.com.br/categoria?id=30&lkout=1&kw=dicionario+ingles+portugues&site_origem=1293522). Se não tiver dinheiro nem para isso, então use [os disponíveis [na internet.
+. Se não tiver dinheiro nem para isso, então use [os disponíveis [na internet.
 
 	
   * Escolha um artigo ou notícia e leia-o em um só dia. Para não desanimar, recomendo que seja relativamente curto e seja de um tema que muito te interesse. Pode até ser uma notícia curta do Slashdot.
@@ -42,7 +42,7 @@ Como todo bom aprendizado, a parte mais importante é a prática. E nada melhor 
 
 #### Terceira dica: comece a ouvir
 
-Se sua necessidade do inglês era apenas ler textos técnicos, pode parar por aqui. Mas nem sempre o conteúdo está escrito. Pode ser que existam palestras interessantíssimas do Channel9](http://channel9.msdn.com) ou _podcasts_ de [informática que você simplesmente não pode perder. Nesse caso, não há uma dica melhor do que imitar as crianças quando aprendem suas línguas nativas: ouça pessoas falando em inglês.
+ ou _podcasts_ de [informática que você simplesmente não pode perder. Nesse caso, não há uma dica melhor do que imitar as crianças quando aprendem suas línguas nativas: ouça pessoas falando em inglês.
 
 Isso, aliada à sua prática diária de leitura de artigos, pode ser complementada se prestar atenção sempre na **pronúncia correta** das palavras que vai aprendendo. Muitas pessoas se tornam exímias leitoras de textos em inglês, mas não conseguem entender uma frase comum do dia-a-dia. Isso ocorre porque o inglês escrito difere em muito das regras de pronúncia do português escrito, o que gera muita confusão. Felizmente, na maioria dos dicionários existe sempre a **transcrição fonética** no início de cada vocábulo. É importante usá-la, e pelo menos uma vez você mesmo tentar pronunciar a palavra de sua boca.
 
@@ -113,16 +113,16 @@ Para aprimorar seus conhecimentos:
 
 	
   * UsingEnglish.com - recursos para estudantes da segunda língua[
-](http://www.usingenglish.com/)
+
 
 	
   * 1-language.com - ferramentas para estudar inglês[
-](http://www.1-language.com/englishcourse/index.htm)
+
 
 	
   * Grammar Girl - dicas de gramática em um ótimo _podcast_
 
 	
   * Advanced English Lessons - gramática avançada, mas muito bem exlicada[
-](http://www.englishpage.com/)
+
 

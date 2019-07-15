@@ -17,9 +17,9 @@ Os SOs modernos possuem inúmeras maneiras de controlar e monitorar o acesso a r
 
 Resumidamente, um critical section é um recurso que **apenas uma thread por vez pode obter**. Para que outra thread tenha acesso ao mesmo critical section, a primeira thread que o obteve deve soltá-lo. Enquanto ela não solta, as outras threads ficam paradas, esperando pela chave, na sala trancada.
 
-!Threads Room
+Threads Room
 
-Do ponto de vista do programador, o critical secton é apenas uma estrutura que é usada na chamada de quatro funções básicas: para inicializar o recurso](http://msdn.microsoft.com/en-us/library/ms683472.aspx), para entrar na seção crítica](http://msdn.microsoft.com/en-us/library/ms682608(VS.85).aspx), para [sair da seção crítica e para [liberar o recurso.
+, para [sair da seção crítica e para [liberar o recurso.
 
 Falando assim, parece simples. Bom, na verdade é simples, mesmo. Tudo que você precisa para corrigir o programa do artigo anterior é criar um critical section e fazer com que as threads obtenham-no antes de mexer com o contador compartilhado.
 

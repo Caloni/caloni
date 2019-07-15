@@ -3,7 +3,7 @@ date: "2010-10-26"
 title: FormatMessage para... dumies?
 categories: [ "code" ]
 ---
-!Peixe Gelatinoso Bizarro do Brasil (conhece esse país?)
+Peixe Gelatinoso Bizarro do Brasil (conhece esse país?)
 
 Já foi comentado em alguns círculos de ótimos programadores que a função da Win32 API FormatMessage é uma das criaturas mais bizarras já criadas.
 
@@ -34,7 +34,7 @@ As flags do parâmetro dwFlags mudam radicalmente o funcionamento da rotina, o q
 
 No caso do FormatMessage, a variável dwFlags se divide em dois para especificar dois grupos de opções distintos. A parte maior contém as opções armazenadas tradicionalmente como um mapa de bits, enquanto o byte menos significativo define como será tratada a saída final, com respeito às novas linhas e qual será a largura máxima de uma linha na saída.
 
-!Flags para FormatMessage
+Flags para FormatMessage
 
 #### Source
 
@@ -197,6 +197,6 @@ int CALLBACK wWinMain(HINSTANCE, HINSTANCE, PWSTR errNumberStr, int)
 
 ```
 
-!Saída do nosso projetinho
+Saída do nosso projetinho
 
 Existem milhares de forma de usar essa função, como você deve ter percebido pelos parâmetros. Não seja tímido: se você conhece algum truquezinho esperto e quer compartilhar com os usuários da FormatMessage, essa é a hora!

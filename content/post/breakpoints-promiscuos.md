@@ -46,6 +46,6 @@ Como meus leitores são muito espertos foi partir para o momento após rodarmos 
 
 O screenshot diz tudo:
 
-!Debug do notepad pelo kernel
+Debug do notepad pelo kernel
 
 Agora a parte mais divertida: experimente com outro notepad, ou com o explorer =)

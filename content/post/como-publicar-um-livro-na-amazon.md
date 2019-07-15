@@ -14,6 +14,6 @@ Depois que você gerar conteúdo suficiente, tudo que você precisa fazer é usa
 
 Para a capa, você pode gerar a própria ou eles possuem um gerador de capas, também, que é razoável. Na hora de subir a capa do formato físico pode editar também o texto da contracapa e até colocar sua foto.
 
-Se tiver interesse em fazer alguns testes para publicação, o Cine Tênis Verde](www.cinetenisverde.com.br), meu blog que virou livro, possui um [modelo Jekyll para gerar um único html com todo o conteúdo do blog no formato que o KindleGen reconhece e formata sem problemas.
+, meu blog que virou livro, possui um [modelo Jekyll para gerar um único html com todo o conteúdo do blog no formato que o KindleGen reconhece e formata sem problemas.
 
 E se tiver interesse em adquirir o meu livro, segue o link

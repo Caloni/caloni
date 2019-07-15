@@ -3,7 +3,7 @@ date: "2008-03-24"
 title: Depuração da MBR
 categories: [ "code" ]
 ---
-Dando continuidade a um artigo beeeem antigo sobre depuração da BIOS usando SoftIce](http://www.caloni.com.br/debug-da-bios-com-o-softice-16-bits), como já vimos, podemos igualmente depurar a MBR após a chamada da INT13. Porém, devo atentar para o fato que, em algumas VMs, e sob determinadas condições do tempo e quantidade de [ectoplasma na atmosfera, é possível que a máquina trave após o _hot boot_ iniciado pelo depurador. Isso provavelmente tem cura usando o espaço de endereçamento alto da memória com a ajuda de aplicativos como LH e UMB.
+, como já vimos, podemos igualmente depurar a MBR após a chamada da INT13. Porém, devo atentar para o fato que, em algumas VMs, e sob determinadas condições do tempo e quantidade de [ectoplasma na atmosfera, é possível que a máquina trave após o _hot boot_ iniciado pelo depurador. Isso provavelmente tem cura usando o espaço de endereçamento alto da memória com a ajuda de aplicativos como LH e UMB.
 
 Porém, estou aqui para contar uma nova forma de depurar essa partezinha do código que pode se tornar um tormento se você só se basear em _tracing_ na tela (ou na COM1): usando o aplicativo **debug** do DOS.
 
@@ -13,7 +13,7 @@ O debug é um programa extremamente antigo, criado antes mesmo do MS-DOS pertenc
 
 Com o passar do tempo e com a evolução dos depuradores modernos, o uso do debug foi diminuindo até a chegada dos 32 bits, quando daí ele parou de vez de ser usado. Com um conjunto limitado de instruções, a versão MS é incapaz de decodificar o _assembly_ de 32 bits, mostrar os registradores extendidos e de depurar em modo protegido.
 
-O FreeDOS](http://www.freedos.org/) é um projeto de fonte aberto que procura criar uma réplica do sistema MS-DOS, com todos seus aplicativos (e um pouco mais). Entre eles, podemos encontrar o [Debug refeito e melhorado. Enfim, nada mau.
+. Entre eles, podemos encontrar o [Debug refeito e melhorado. Enfim, nada mau.
 
 É por isso que comecei a utilizá-lo e é nele que me baseio o tutorial logo abaixo.
 
@@ -21,7 +21,7 @@ O FreeDOS](http://www.freedos.org/) é um projeto de fonte aberto que procura cr
 
 Para conseguirmos essa proeza é necessário reiniciarmos a máquina com algum sistema 16 bits, de preferência que caiba em um disquete. Junto com ele basta uma cópia do debug.com. Após reiniciarmos e aparecer o prompt de comando, podemos chamar o depurador e começar a diversão:
 
-!Debug
+Debug
 
 A MBR fica localizada no primeiro setor do HD ativo (_master_). A BIOS automaticamente procura esse HD e faz a leitura usando a INT13, função da própria BIOS para leitura de disquetes e derivados.
 
@@ -62,7 +62,7 @@ Essa organização é diferente do endereço inicial da BIOS, que é por padrão
 
 Após definir corretamente os registradores, tudo que temos que fazer é escrever uma chamada à INT13 no endereço atual e executar. O conteúdo inicial do disco será escrito no endereço de memória 0000:7E00. Após isso trocamos o IP atual para esse endereço e começamos a depurar a MBR, como se estivéssemos logo após o _boot_ da máquina.
 
-!debug2.png
+debug2.png
 
 #### Depurando a BIOS
 

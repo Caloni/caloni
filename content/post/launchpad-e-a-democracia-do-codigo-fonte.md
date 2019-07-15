@@ -5,7 +5,7 @@ categories: [ "blog" ]
 ---
 Após a publicação dos projetos que ando mexendo no próprio saite do Caloni.com.br, recebi uma enxurrada de _downloads _e quase atingi meu limite de fluxo mensal no provedor.
 
-Devido a esse problema inesperado, irei fazer o inevitável: publicar os projetos em um repositório **sério**. E aproveitando que já estou usando o Bazaar](http://bazaar-vcs.org/), nada melhor que usar o [Launchpad.net.
+, nada melhor que usar o [Launchpad.net.
 
 #### E o que é o Launchpad.net?
 
@@ -68,7 +68,7 @@ Dessa forma os passos são os seguintes:
 
 3. Criar um par de chaves através do PuTTYgen
 
-!puttygen.png
+puttygen.png
 
 <blockquote>_ATENÇÃO
 Devido a alguns problemas, recomendo que use o texto exibido na tela do gerador de chaves em vez de copiar diretamente do arquivo da chave pública para o cadastro no saite. Guarde bem essas chaves com você, pois você as usará sempre que necessário fazer uma modificação no projeto._</blockquote>
@@ -77,7 +77,7 @@ Devido a alguns problemas, recomendo que use o texto exibido na tela do gerador 
 
 5. Usar o **Pageant** para carregar a chave privada na memória
 
-!pageant.png
+pageant.png
 
 6. Use os comandos do Bazaar passando o usuário e o branch:
 

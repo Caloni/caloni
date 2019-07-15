@@ -5,7 +5,7 @@ categories: [ "blog" ]
 draft: "true"
 desc: "Décimo-quarto encontro de programadores e entusiastas das linguagens C e C++ a ser realizada em algum local em São Paulo Capital no dia 6 de julho de 2019."
 ---
-!
+
 
 Foi definido recentemente no nosso grupo de Telegram e coffee-break. Em paralelo iniciaremos o call for papers, onde você é convidado a palestrar em nosso encontro.
 

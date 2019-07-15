@@ -14,7 +14,7 @@ Está marcado para dia 19 desse mês em São Paulo o **terceiro encontro de prog
   * 11:45 a 12:45 - **C++0x - Novas características de suporte a projetos de bibliotecas genéricas por Pedro Lamarão**
   * 12:45 a 13:15 - Debate
   * 13:15 a 14:30 - Almoço
-  * 14:30 a 15:30 - **Threads no CPP ISO](http://www.cbrasil.org/wiki/index.php?title=Threads_no_CPP_ISO) - [Wanderley Caloni**
+ - [Wanderley Caloni**
   * 15:30 a 16:00 - Debate
   * 16:00 a 16:15 - _Coffee break_
   * 16:1 a 17:00 - Fórum sobre a Organização do Grupo de Usuários e da C/C++ Conference Brasil

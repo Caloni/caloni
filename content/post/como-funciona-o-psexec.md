@@ -27,15 +27,15 @@ No teste acima o **myprogram.exe** é somente o **cmd.exe** renomeado. Um teste 
 
 #### Primeiro passo: reproduzir o comportamento analisado e coletar pistas
 
-Já fizemos isso logo acima. Se trata apenas de observar o programa funcionando. Ao mesmo tempo em que entendemos seu _modus operandi_ coletamos pistas sobre suas entranhas. No caso do PsExec, que faz coisas além-mar, como redirecionar os _pipes_ de entrada/saída de um programa console, iremos checar a existência de algum serviço novo na máquina-alvo e arquivos novos que foram copiados, além de opcionalmente dar uma olhada no registro. Ferramentas da própria SysInternals como Process Explorer](http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx) e [Process Monitor também são úteis nessa análise inicial.
+ e [Process Monitor também são úteis nessa análise inicial.
 
-!Serviço do PsExec criado na máquina-alvo.
+Serviço do PsExec criado na máquina-alvo.
 
 Como podemos ver, um serviço com o nome de PsExec foi criado na máquina-alvo. Se procurarmos saber o caminho do arquivo que corresponde a esse serviço, tanto pelo Process Explorer ou o Service Manager, descobriremos que se trata de um arquivo no diretório do windows chamado **psexecsvc.exe**.
 
-!Instalação do Serviço PsExec na máquina-alvo no registro do Windows.
+Instalação do Serviço PsExec na máquina-alvo no registro do Windows.
 
-!Arquivo do serviço do PsExec instalado na máquina-alvo na pasta c:\Windows.
+Arquivo do serviço do PsExec instalado na máquina-alvo na pasta c:\Windows.
 
 Se o arquivo existe nessa pasta, então é óbvio que alguém o copiou. Resta saber **como**.
 
@@ -106,7 +106,7 @@ Nessa segunda fase, podemos refazer o comportamento esperado inúmeras vezes, co
     001225d8 0034002e 0x30002e
     001225dc 00000000 0x34002e
 
-Uma rápida busca no Google](http://www.google.com/search?q=\\.\PIPE\wkssvc) nos informa que o _pipe _querendo ser aberto pertence à lista de _pipes _que estão sempre disponíveis nas máquinas para responder às requisições do sistema. São importantes para a **comunicação entre processos** (IRP, _Inter Process Communication_). No entanto, quem usa esse pipe é o sistema, e ele foi chamado, como pudemos ver, pela função [WNetAddConnection2W.
+. No entanto, quem usa esse pipe é o sistema, e ele foi chamado, como pudemos ver, pela função [WNetAddConnection2W.
 
 Se analisarmos mais a fundo a pilha de chamadas conseguiremos dar um olhada nos parâmetros passados. Para isso existe a opção de mostrar os argumentos passados para as funções ao exibir a pilha:
 
@@ -187,7 +187,7 @@ Muito bem! Chegamos a mais um ponto importante de nossa análise: o psexecsvc.ex
 
 Também podemos notar que, enquanto estamos parados depurando o processo psexec.exe, temos acesso ao compartilhamento admin$:
 
-!Compartilhamento admin$ disponível enquanto depuramos o PsExec.
+Compartilhamento admin$ disponível enquanto depuramos o PsExec.
 
 A análise desses fatos demonstra como é importante fazer as coisas, pelo menos na fase "iniciante",  bem lentamente, e entender a **mudança de estado** durante o processo. Nem sempre isso é possível, é verdade, ainda mais quando estamos falando de análise de kernel. Mas, quando as condições permitem, vale a pena pensar antes de fazer.
 

@@ -9,7 +9,7 @@ https://www.youtube.com/embed/i1Dc9rs6QRw
 
 Nesse vídeo eu exploro alguns dos erros mais comuns de projetos desleixados. Esses projetos em que o programador só se preocupa em entregar as coisas, e deixa os problemas de manutenção para o próximo trouxa que irá mexer com ele. Esse rapaz ou moça não usa a metologia PMF:
 
-!
+
 
 Pra começar, projetos que não compilam ou cheio de warnings são um sinal de que há algo de pobre no reino do GitHub. Ou é algo feito nas c*x*s ou é um projeto mal mantido ou é fruto de programação instintiva, que não pensa nas consequências de seus atos.
 
@@ -17,6 +17,6 @@ Depois, o sujeito usa headers com nomes complicados, inclui 2.653 headers difere
 
 E por último, mas não menos importante: INCLUI BINÁRIOS NO GIT! TEMPORÁRIOS!
 
-!
+
 
 Pensando bem, meu exemplo fictício está bonito demais perto do que existe por aí. Bom, ele tem poucas linhas. É tudo questão de tempo e (des)empenho.

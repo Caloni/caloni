@@ -15,13 +15,13 @@ E BCPL era de fato bem simples. Não tinha tipos, era limpa e poderosa. Porém, 
 
 Essa portabilidade era obtida com o uso de um artifício mais ou menos conhecido da comunidade C/C++ hoje em dia: a **divisão entre código objeto e código final**. O compilador era dividido em duas partes: a primeira parte era responsável por criar um código em **estado intermediário** feito para rodar em uma **máquina virtual**. Esse código era chamado de **O-code** (O de _object_). A segunda parte do compilador era responsável por **traduzir** esse O-code no código da **máquina-alvo** (onde iria ser rodado o programa). Essa sacada genial de 40 anos atrás permitiu que fosse mais simples fazer um compilador para uma nova plataforma e portar todo o código que já tinha sido escrito para uma plataforma anterior, driblando o grande problema daquela época: a incompatibilidade entre plataformas.
 
-!
+
 
 *Processo de geração do BCPL O-code.*
 
 Perceba que é possível fazer toda a parte do compilador detrás do código-objeto uma única vez e, conforme a necessidade, criar novos interpretadores BCPL para máquinas diferentes.
 
-!
+
 
 *Interpretação do o-code para código da máquina alvo.*
 
@@ -29,7 +29,7 @@ O código intermediário é gerado para uma **máquina virtual**. O interpretado
 
 É inevitável também não fazer a associação entre essa forma de funcionamento do compilador BCPL e a divisão feita em C/C++ entre o pré-processador, o compilador e o ligador (_linker_, em inglês_)_.
 
-!
+
 
 *Processo de compilação C/C++.*
 
@@ -45,7 +45,7 @@ O uso do pré-processador na linguagem C facilitou a portabilidade por um bom te
 
 Como é natural, o código-fonte de uma aplicação tende a crescer em muitas linhas durante sua evolução, especialmente se estamos falando de sistemas operacionais. A compilação desse código vai tomar cada vez mais tempo no processo de desenvolvimento. Por isso, manter esse código-fonte em um mesmo arquivo eventualmente torna-se inviável, tornando a compilação de módulos separados uma solução pra lá de elegante. Compila-se apenas o módulo que foi modificado e liga-se esse módulo com módulos pré-compilados.
 
-!
+
 
 *Divisão de um projeto C++ em módulos.*
 

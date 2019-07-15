@@ -3,11 +3,11 @@ date: "2009-11-26"
 title: 'O boot no Windows: NTLDR'
 categories: [ "code" ]
 ---
-!galinha-preta.jpg sobre o próximo processo de boot do Windows: o NTLDR.
+galinha-preta.jpg sobre o próximo processo de boot do Windows: o NTLDR.
 
-O nosso amigo NT Loader pode ser entendido através da leitura do já citado **Windows Internals** ou através de uma outra leitura que estou fazendo atualmente e que pouquíssimos amigos blogueiros](http://www.driverentry.com.br) irão se lembrar: o [livro da galinha preta; formalmente conhecido como **Windows Nt File System Internals**.
+ irão se lembrar: o [livro da galinha preta; formalmente conhecido como **Windows Nt File System Internals**.
 
-Para os sabichões de plantão, inclusive os que me criticaram (?) no meu último texto humorístico](http://www.caloni.com.br/programadores-de-verdade-nao-usam-java) sobre como Java é podre, eu sei que o bicho da capa não é uma galinha, mas um urubu. A troca de urubu por galinha vem do requisito básico para você fazer trabalhos esotéricos, como macumba e desenvolvimento de drivers: uma galinha preta na encruzilhada. Alguns usam [um papel dentro da boca de um sapo
+ sobre como Java é podre, eu sei que o bicho da capa não é uma galinha, mas um urubu. A troca de urubu por galinha vem do requisito básico para você fazer trabalhos esotéricos, como macumba e desenvolvimento de drivers: uma galinha preta na encruzilhada. Alguns usam [um papel dentro da boca de um sapo
 
 E, para os que leram o livro, devem entender que para explicar sobre o funcionamento do sistema de arquivos do Windows, parte intrínseca do funcionamento do próprio kernel, foi necessário ao autor explicar várias partes do kernel, inclusive **sua inicialização**; e é nessa parte que podemos aprender algo mais sobre o NT Loader.
 
@@ -15,7 +15,7 @@ Podemos aprender, por exemplo, que ele é carregado **logo depois do NT Detect**
 
 O NTLDR é um executável "híbrido" que possui tanto código em modo real quanto código em modo protegido. Com isso podemos supor que é ele o responsável por entrar em modo protegido, uma tarefa que exige alguns conhecimentos da arquitetura.
 
-!ntldr-phase.png
+ntldr-phase.png
 
 Além disso, como o próprio nome diz, ele tecnicamente "sobe" o sistema operacional, pois provê a comunicação entre o hardware (processador e periféricos da máquina) e o software (kernel e drivers de boot). O hardware é o que está espetado na máquina e o kernel é o arquivo **ntoskrnl.exe**; para a comunicação entre eles existe uma camada de abstração, o **hal.dll**.
 
@@ -27,13 +27,13 @@ Nesse ponto o nosso amigo loader faz o que todo mundo já fez na infância (não
 
 Como ele leu a lista de kernels bootáveis, é isso que ele exibe naquela famosa tela que qualquer um que depura o kernel vê:
 
-!é ele que exibe o menu de boot do sistema operacional??
+é ele que exibe o menu de boot do sistema operacional??
 
 Escolheu seu boot, é a partir daí que ele acha o executável do kernel: **ntoskrnl.exe**. Ele deve estar na pasta system32 (em ambientes 32 bits). Também é nesse momento que é carregada a HAL (hal.dll) e isola-se o hardware do software a partir daí. As DLLs que esses dois componentes dependem são identificadas e carregadas na memória.
 
 Agora é hora de abrir o registro. Quer dizer, parte dele. Dentro da pasta system32/config deve estar a hive:
 
-!driver-atapi.png
+driver-atapi.png
 
 A partir daí vários componentes do kernel serão carregados progressivamente. Só que a partir do momento que é chamada a rotina interna **KiInitializeKernel** o NTLDR não tem mais nada pra fazer: o kernel, em sua forma básica e primitiva, está carregado.
 

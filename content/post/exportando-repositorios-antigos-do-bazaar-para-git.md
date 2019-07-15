@@ -11,11 +11,11 @@ Agora é hora de manter esse histórico vivo, mas convertido para o que todos us
 
 ### A migração
 
-A primeira coisa a ser feita é converter o repositório. Depois de convertido, como todas as operações estarão no universo Git, há uma](http://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories) de [entradas no StackOverflow para nos ajudar a reunir os repositórios em um só, meu objetivo, já que o Git é mais leve e mais versátil nesse quesito.
+ de [entradas no StackOverflow para nos ajudar a reunir os repositórios em um só, meu objetivo, já que o Git é mais leve e mais versátil nesse quesito.
 
 No Windows, nas últimas versões do Bazaar o comando fast-export não estava mais funcionando. Parado desde 2012, não há previsão de correções. No entanto, para essa operação, a versão 2.4.2 atendeu bem. O comando é um pouco diferente, mas ele é rápido e rodou sem problemas em conjunto com o fast-import do Git.
 
-!
+
 
 ```
 git init

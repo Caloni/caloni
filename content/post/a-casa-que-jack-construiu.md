@@ -7,7 +7,7 @@ imdb: "4003440"
 categories: [ "movies" ]
 stars: "3/5"
 ---
-Lars von Trier precisa urgentemente largar seu estilo. Ele o adotou mais fortemente em Ninfomaníaca](/ninfomaniaca-vols-1-e-2) (Volumes 1 e [2. E aqui em A Casa Que Jack Construiu vê-se que a mesma estrutura é utilizada, mas em uma versão reduzida, o que virou inevitavelmente uma bagunça. O filme parece vilipendiado em prol da nossa percepção de que não há sentimentos por trás das ações de um serial killer. Porém, esta é uma faca de dois gumes, pois leva à conclusão de que ele não tem motivos. E o motivo que von Trier arruma para seu "herói" é simplesmente a busca da arte.
+ (Volumes 1 e [2. E aqui em A Casa Que Jack Construiu vê-se que a mesma estrutura é utilizada, mas em uma versão reduzida, o que virou inevitavelmente uma bagunça. O filme parece vilipendiado em prol da nossa percepção de que não há sentimentos por trás das ações de um serial killer. Porém, esta é uma faca de dois gumes, pois leva à conclusão de que ele não tem motivos. E o motivo que von Trier arruma para seu "herói" é simplesmente a busca da arte.
 
 E isso, aliado a um trecho do filme onde ele exibe trechos dos seus outros filmes, implica em dizer que von Trier está falando de si mesmo. De uma maneira narcisista. Ele se vê como um artista incompreendido. E para este filme escolheu um serial killer.
 

@@ -7,7 +7,7 @@ Ou "Como esperar o término de todos os processos-filho criados a partir de um c
 
 Dessa vez confesso que esperava um pouco mais de documentação do MSDN, ou pelo menos um sistema de referências cruzadas eficiente. Outro dia demorei cerca de duas horas para conseguir criar um _**job**_ terminassem.
 
-Além da pouca documentação](http://msdn.microsoft.com/en-us/library/ms684161(VS.85).aspx), parece que não são muitas as pessoas que fazem isso e publicam na web, ou eu [não sei procurar direito.
+, parece que não são muitas as pessoas que fazem isso e publicam na web, ou eu [não sei procurar direito.
 
 Mas, pra início de conversa, o que é um job mesmo?
 
@@ -17,7 +17,7 @@ Um job é um objeto "novo" no kernel do Windows 2000 em diante, e se prontifica 
 
 A abstração mais coerente que eu consigo tirar de um job é como **um trabalho a ser executada por um ou mais processos**. O objeto job controla a criação, o término e as exceções que ocorrem dentro dele mesmo.
 
-!job.gif
+job.gif
 
 Entre as funções mais úteis de um job estão limitar o tempo de execução do conjunto de processos, o número de handles/arquivos/outros objetos abertos, limite de memória RAM ocupada e a possibilidade de terminar todos os processos de uma só vez.
 

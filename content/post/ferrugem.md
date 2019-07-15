@@ -8,4 +8,4 @@ categories: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"
 ---
-O novo filme de Aly Muritiba (Para Minha Amada Morta](/para-minha-amada-morta), [A Gente. E por mais que algo seja chocante, é difícil analisar a introspecção de jovens quando faltam pistas. E por falta de pistas, a conclusão cai no automático: são aborrecentes como outros quaisquer.
+, [A Gente. E por mais que algo seja chocante, é difícil analisar a introspecção de jovens quando faltam pistas. E por falta de pistas, a conclusão cai no automático: são aborrecentes como outros quaisquer.

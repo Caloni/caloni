@@ -7,7 +7,7 @@ Depois de vários comentários de pessoas tendo problemas em converter seus dici
 
 Agora a maioria dos erros que houver será descrita por uma mensagem no seguinte formato:
 
-!houaiss2babylonerror.PNG
+houaiss2babylonerror.PNG
 
 O primeiro erro acima ocorre principalmente se não houver algum Houaiss instalado que o programa possa detectar. Resolva este problema fazendo uma busca no Buscapé.
 

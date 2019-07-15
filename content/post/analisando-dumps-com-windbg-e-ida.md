@@ -3,9 +3,9 @@ date: "2008-01-10"
 title: Analisando dumps com WinDbg e IDA
 categories: [ "code" ]
 ---
-Apesar de ser recomendado que 100% dos componentes de um software esteja configurado corretamente para gerar símbolos na versão _release_, possibilitando assim a visualização do nome das funções internas através de um arquivo de _dump_](http://support.microsoft.com/kb/315263) (despejo) gerado na ocorrência de um _crash_, essa verdade só ocorre em 80% das vezes. Quis Murphy que dessa vez a única parte não "simbolizada" fosse a que gerou a tela azul em um [Intel Quad Core que estou analisando esses dias.
+ gerado na ocorrência de um _crash_, essa verdade só ocorre em 80% das vezes. Quis Murphy que dessa vez a única parte não "simbolizada" fosse a que gerou a tela azul em um [Intel Quad Core que estou analisando esses dias.
 
-Para incluir um programa novo em nosso leque de opções, vamos usar dessa vez uma ferramenta chamada IDA](http://www.hex-rays.com/idapro/overview.htm), um disassembler estático cujo nome é uma clara homenagem à nossa [primeira programadora da história. E, é lógico, o WinDbg não poderá ficar de fora, já que ele será nosso analisador de dumps.
+, um disassembler estático cujo nome é uma clara homenagem à nossa [primeira programadora da história. E, é lógico, o WinDbg não poderá ficar de fora, já que ele será nosso analisador de dumps.
 
 #### A primeira noite de um dump
 
@@ -169,7 +169,7 @@ No sítio do IDA podemos encontrar o download para uma versão gratuita do IDA, 
 
 O funcionamento básico do IDA é bem básico, mesmo. Simplesmente escolhemos um executável para ele destrinchar e nos mostrar um assembly bem amigável, com todos os nomes de funções que ele puder deduzir. Como não temos os símbolos do próprio executável, as funções internas ganham "apelidos", como sub_6669, loc_13F35 e por aí vai. Isso não importa, já que temos nomes amigáveis de APIs para pesquisar no código-fonte e tentar encontrar as funções originais em C.
 
-!Driver na IDA
+Driver na IDA
 
 Pois bem. Como manda o figurino, o primeiro ponto do assembly que temos que procurar é o ponto em que uma função interna é chamada logo após IopLoadDriver, **mydriver+0x4058**. Por coincidência (ou não, já que essa é a função do IopLoadDriver), se trata da função inicial do executável, ou seja, provavelmente a função **DriverEntry** no código-fonte (obs: estamos analisando um driver feito para plataforma NT).
 

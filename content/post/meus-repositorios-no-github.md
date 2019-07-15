@@ -22,5 +22,5 @@ Meus  repositórios estão armazenados em alguns branches que distribuí de ac
   * Book. Um projeto em estado de larva sobre escrever um livro de engenharia reversa. Já possui um índice básico. Sugestões são bem-vindas.
 
 	
-  * DriverEntry](https://github.com/Caloni/DriverEntry). Códigos do curso de desenvolvimento de drivers que estou fazendo com o Fernando, da [DriverEntry Company. Recomendo!
+. Códigos do curso de desenvolvimento de drivers que estou fazendo com o Fernando, da [DriverEntry Company. Recomendo!
 

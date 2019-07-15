@@ -59,7 +59,7 @@ Se notarmos no artigo anterior, veremos que o conteúdo do arquivo lido **não �
 
 A leitura foi feita e o texto direto do arquivo veio em claro? O que está acontecendo? Quando abro pelo comando type ele aparece todo obscuro...
 
-!Saída dos arquivos do dicionário
+Saída dos arquivos do dicionário
 
 Sim, alguma coisa não-trivial acaba de acontecer. Testei esse procedimento no _laptop_ e no _desktop_, sendo que esse problema aconteceu apenas no _desktop_. Dessa vez a curiosidade falou mais alto que a preguiça, e tive que abrir as duas máquinas e comparar os resultados.
 
@@ -158,7 +158,7 @@ Tudo igual.
 
 Decidi então usar aquela lógica cética que é desenvolvida por quem costuma depurar coisas sinistras e esotéricas por anos e anos e não duvida de mais nada, mas também acredita piamente que **tudo tem um motivo**. Se não está aparente, basta descobri-lo. E foi o que eu fiz. Gerei dois _dumps _distintos, um no _laptop_ e outro no _desktop_. Ambos estavam com os ponteiros de instrução apontados exatamente para a entrada da função ReadFile, início de todo esse problema. Copiei o _dump_ do _desktop_ para o _laptop_ e vice-versa.
 
-!WinDbg Nerd
+WinDbg Nerd
 
 Abri o _dump_ do _desktop_ no _laptop_: tudo funcionando. Abri o _dump_ do _laptop _no _desktop_: mesmo erro.
 

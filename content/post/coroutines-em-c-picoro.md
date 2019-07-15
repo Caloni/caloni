@@ -8,7 +8,7 @@ Tantas linguagens hoje em dia tentando implementar a abstração de corrotinas e
 
 E aqui está a linguagem C com sua elegância, minimalismo e a filosofia "just works", por mais ou menos 50 anos.
 
-Estava pesquisando sobre bibliotecas de corrotinas em C e encontrei a Picoro](http://dotat.at/cgi/~fanf/dotat/~fanf/dotat/git/picoro.git), de Tony Finch. O repositório pode ser baixado [por este link. Três coisas me encantaram nela: 
+, de Tony Finch. O repositório pode ser baixado [por este link. Três coisas me encantaram nela: 
 
  1. portabilidade (fácil de testar em qualquer arquitetura).
  1. simplificade (um header e um .c com menos de 200 linhas, e a maioria são comentários).

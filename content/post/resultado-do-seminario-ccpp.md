@@ -3,9 +3,9 @@ date: "2008-06-03"
 title: Resultado do Seminário CCPP
 categories: [ "blog" ]
 ---
-!seminario.jpg](http://i.imgur.com/8W3SvZ1.thumbnail.jpg)Aconteceu nesse fim-de-semana, como era previsto, o nosso primeiro [Seminário CCPP Brasil, com direito a pessoas de todas as idades e origens, mas todas com algo em comum: a paixão e o interesse pelas linguagens-mestre do mundo da programação.
+Aconteceu nesse fim-de-semana, como era previsto, o nosso primeiro [Seminário CCPP Brasil, com direito a pessoas de todas as idades e origens, mas todas com algo em comum: a paixão e o interesse pelas linguagens-mestre do mundo da programação.
 
-Começo esse artigo agradecendo a todos os que direta e indiretamente participaram para o sucesso do evento, entre eles os organizadores](http://www.temporealeventos.com.br/), o carro-chefe responsável por acordar o espírito C++ da galera no início do ano, os palestrantes e, claro, **óbvio**, toda a [comunidade C++.
+, o carro-chefe responsável por acordar o espírito C++ da galera no início do ano, os palestrantes e, claro, **óbvio**, toda a [comunidade C++.
 
 Termino a introdução fazendo uma minicrítica ao preço pago pelos participantes. Não que eu ache que seja muito, pelo contrário: dado o alto nível técnico das palestras, parece até mentira termos acesso a um evento com essa estrutura por tão pouco. Porém, o muito e o pouco são relativos, e ainda acredito que existam pessoas que não vão aos encontros por falta de recursos. Por isso mesmo vai um apelo para que nos futuros encontros tenhamos alguma forma de permitir às pessoas menos favorecidas de participar democraticamente dessa que é a expressão viva das linguagens C e C++ em nosso país.
 
@@ -14,9 +14,9 @@ Vamos às palestras!
 **Dicas e Truques de Portabilidade**
 Wanderley Caloni
 
-Apresentação para baixar em PDF](http://www.caloni.com.br/docs/Portabilidade%20-%20Wanderley%20Caloni.pdf), PPT e [ODP.
+, PPT e [ODP.
 
-!seminario-caloni.jpgÉ muito difícil analisar uma palestra feita por você mesmo. É mais difícil ainda quando essa palestra é a primeira de uma batelada de argumentações de alto nível técnico que seguiram o dia. Posso dizer, no entanto, que consegui o que queria quando fui para o evento: demonstrar as dificuldades e as facilidades de tornar um código portável, independente se entre sistemas operacionais, ambientes ou compiladores.
+seminario-caloni.jpgÉ muito difícil analisar uma palestra feita por você mesmo. É mais difícil ainda quando essa palestra é a primeira de uma batelada de argumentações de alto nível técnico que seguiram o dia. Posso dizer, no entanto, que consegui o que queria quando fui para o evento: demonstrar as dificuldades e as facilidades de tornar um código portável, independente se entre sistemas operacionais, ambientes ou compiladores.
 
 Foi visto primeiramente o que faz da portabilidade uma coisa difícil. Detalhes como sintaxe e gramática fazem toda a diferença quando o que se almeja é um código limpo de imperfeições trazidas pelo ambiente de desenvolvimento. Também foi dada especial atenção às famigeradas extensões de compiladores, que fazem a linguagem parecer uma coisa que não é.
 
@@ -27,7 +27,7 @@ Fábio Galuppo
 
 Artigo sobre apresentação
 
-!seminario-galuppo.jpg.
+seminario-galuppo.jpg.
 
 Os programadores em nível de sistema devem ter adorado o contexto histórico dos problemas (você sabia que o primeiro _lock _inventado foi o semáforo?) tanto quanto o contexto teórico (explicação sobre modelo de memória).
 
@@ -42,12 +42,12 @@ Rodrigo Strauss
 
 Artigo sobre apresentação
 
-!seminari-strauss.jpg](http://i.imgur.com/pUQsIAP.thumbnail.jpg)](http://i.imgur.com/SDNPW1N.jpg)Como sempre, Strauss está apaixonado pelo [Boost (e a [STL. Descrevendo as partes mais importantes que todo programador C++ moderno deve saber sobre essas bibliotecas, ambas modernas, a palestra focou principalmente no uso do dia-a-dia, e as vantagens produtivas que o C++ atual pode ter sobre o velho e tradicional programa em C com listas encadeadas artesanais.
+Como sempre, Strauss está apaixonado pelo [Boost (e a [STL. Descrevendo as partes mais importantes que todo programador C++ moderno deve saber sobre essas bibliotecas, ambas modernas, a palestra focou principalmente no uso do dia-a-dia, e as vantagens produtivas que o C++ atual pode ter sobre o velho e tradicional programa em C com listas encadeadas artesanais.
 
 Entre as coisas mais importantes citadas, que todo programador do novo século deveria saber, estão:
 
 	
-  * A total falta da necessidade de desalocarmos objetos manualmente em nossos programas, visto que o auto_ptr](http://www.aoc.nrao.edu/~tjuerges/ALMA/STL/html/classstd_1_1auto__ptr.html) (STL) e [shared_ptr dão conta do recado de maneira impecável.
+ e [shared_ptr dão conta do recado de maneira impecável.
 
 	
   * A total falta da necessidade de usarmos aqueles velhos _arrays _em C que quase nunca sabemos o tamanho exato para guardar nossos valores (e que continuamente colocávamos com o tamanho 100, MAX_PATH, ou UM_OUTRO_DEFINE_COMUM_EM_LINUX). A classe boost::array provê todas as funcionalidades básicas, além das avançadas, do uso de _arrays _tradicionais, sem qualquer _overhead_ adicional de um _array _em C.
@@ -59,9 +59,9 @@ Enfim, para quem pôde ver, a palestra focou nos princípios que farão hoje em 
 **Técnicas de Otimização de Código**
 Rodrigo Kumpera & André Tupinambá
 
-!seminario-otimizacao1.jpg e teoria disciplinar, que visa alertar o _wannabe_ que otimizar pode ser uma coisa boa; porém, preste atenção aos que já fizeram isso têm a dizer.
+seminario-otimizacao1.jpg e teoria disciplinar, que visa alertar o _wannabe_ que otimizar pode ser uma coisa boa; porém, preste atenção aos que já fizeram isso têm a dizer.
 
-!seminario-otimizacao2.jpg pôde ver as dificuldades de conseguir determinar o objetivo de todo otimizador de código que, segundo eles, deve estar sempre atento na máxima de que "toda otimização é na verdade uma troca". Ou seja, se o programador quer melhor processamento, pagará com memória, se quiser otimizar espaço na RAM, irá gastar mais com processamento e/ou disco, e assim por diante.
+seminario-otimizacao2.jpg pôde ver as dificuldades de conseguir determinar o objetivo de todo otimizador de código que, segundo eles, deve estar sempre atento na máxima de que "toda otimização é na verdade uma troca". Ou seja, se o programador quer melhor processamento, pagará com memória, se quiser otimizar espaço na RAM, irá gastar mais com processamento e/ou disco, e assim por diante.
 
 Foram apresentados exemplos reais de otimização, além de dicas muito importantes sobre o comportamento das compilaçõe de cada dia.  Você sabia, por exemplo, que ao declarar em escopos mais locais suas variáveis usadas apenas em pequenos trechos de código, estará dando uma poderosa dica ao compilador para que ele consiga usar os registradores no máximo de sua capacidade?
 

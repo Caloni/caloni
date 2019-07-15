@@ -11,7 +11,7 @@ Porém, existe um método infalível. Um método que transforma os programadores
 
 Esse método chama-se: Programa, Filho da P\*\*\*
 
-!
+
 
 Ou, do inglês, PMF.
 

@@ -95,7 +95,7 @@ Na prática, se alguém tentar depurar um programa desse tipo vai ter que enfren
 
 O preço pago por essa proteção fica na **visibilidade e compreensão** do código-fonte comprometidos pelo uso da técnica. A programação fica baseada em uma **máquina de estados** e as funções ficam limitadas a algum tipo de padronização no comportamento. Quando mais **granular** for o _pseudoscript_, ou seja, quanto menores forem os blocos de código contido nas minifunções, mais difícil de entender o código será.
 
-O exemplo abaixo recebe entrada por um prompt de comandos e **mapeia a primeira palavra digitada** para o índice de uma função que deve ser chamada. O resto da linha digitada é passado como parâmetro para essa função. A _thread_ de interpretação lê a entrada do usuário e escreve em uma **variável-_string_ global**, ao mesmo tempo que a _thread_ de execução espera essa _string_ ser preenchida para executar a ação. Foi usado o _pool_ dessa variável para o código ficar mais simples, mas o ideal seria algum tipo de sincronismo, como eventos](http://msdn.microsoft.com/library/en-us/dllproc/base/createevent.asp), por exemplo. Baixe o código-fonte [aqui.
+, por exemplo. Baixe o código-fonte [aqui.
 
 ```cpp
 /** @brief Sample demonstrating how to implemente antidebug in a code exception based.

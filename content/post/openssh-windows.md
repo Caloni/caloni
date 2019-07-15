@@ -8,9 +8,9 @@ O Secure Shell (SSH) é um protocolo de sucesso nos unixes da vida para terminal
 
 O software WinSCP, um client SFTP para Windows, possui um guia. Para os que ainda precisam manter o passado há uma maneira.
 
-Se você preferir não compilar a partir dos fontes](https://github.com/PowerShell/openssh-portable) você pode baixar um pacote dos binários. O local indicado para conter os arquivos é em `C:\Program Files\OpenSSH`, conforme [o tutorial do WinSCP.
+ você pode baixar um pacote dos binários. O local indicado para conter os arquivos é em `C:\Program Files\OpenSSH`, conforme [o tutorial do WinSCP.
 
-!
+
 
 Após instalado você deve abrir a porta 22 pelo firewall do Windows (há uma maneira PowerShell de fazer se tiver um Windows novo ou usar a interface mesmo se tiver um antigo). Após esse último passo tudo deverá estar funcionando, e basta criar seu par de chaves pública/privada com o `ssh-keygen.exe` e adicionar no servidor com `ssh-add.exe`, além de copiar para um arquivo chamado `authorized_keys`... enfim, está tudo no tutorial.
 

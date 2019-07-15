@@ -5,7 +5,7 @@ categories: [ "blog" ]
 ---
 Seria bom se as coisas simples da vida fossem simples, não é mesmo?
 
-Ontem, sexta passada e quinta passada, no meio de outras tarefas "urgentes", tentava desesperadamente conseguir instalar o Bazaar](http://bazaar-vcs.org/) na minha [VM de desenvolvimento, um **Fedora 8** todinho configurado.
+ na minha [VM de desenvolvimento, um **Fedora 8** todinho configurado.
 
 Para azar da minha pessoa, o guia simples e rápido que o formato do banco de dados já se tornou incompatível.
 
@@ -28,7 +28,7 @@ O pior, no entanto, foi tentar encontrar uma solução para o problema. Fiz mil 
   * Um FAQ do Fedora
 
 	
-  * O sítio do projeto do yum](http://linux.duke.edu/projects/yum/), gerenciador de pacotes (cujo [FAQ
+, gerenciador de pacotes (cujo [FAQ
 
 	
   * Uma lista enorme de sítios

@@ -3,7 +3,7 @@ date: "2008-09-23"
 title: V
 categories: [ "blog" ]
 ---
-Parabéns a todos que participaram e ajudaram para que todos nós chegássemos ao quinto encontro de programadores/aficionados C/C++. Parece mentira, mas hoje temos capacidade para lotar um auditório razoável, e temos a ousadia de sempre poder contar com uma grade de palestras pra lá de avançadas. Vejamos o que foi visto até hoje nesses últimos três encontros (III](http://www.caloni.com.br/cppcon-iii), IV e o [seminário:
+, IV e o [seminário:
 
 	
   * C++ com WxWidgets

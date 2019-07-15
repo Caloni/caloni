@@ -7,9 +7,9 @@ Houve um bom motivo para que, semana passada, eu estivesse caçando inúmeras ve
 
 Já escrevi a respeito da importância de controlar e gerenciar o código-fonte para que a falta de um histórico exato das alterações não seja motivo de recorreções de problemas, binários no cliente sem contraparte para ajustes, além de uma série de dores de cabeça que costumam começar a ocorrer assim que nos damos conta que nosso software está uma bagunça que dói.
 
-Na época, discursei brevemente sobre alguns exemplos de gerenciadores de fonte que utilizam **modelo centralizado**, e nos exemplos práticos usamos o famigerado **Source Safe**, velho amigo de quem já programa ou programou Windows por alguns anos. Além dele, temos os conhecidíssimos CVS](http://www.nongnu.org/cvs/) e [Subversion, ambos largamente utilizados no mundo todo.
+ e [Subversion, ambos largamente utilizados no mundo todo.
 
-No entanto, uma nova forma de controlar fontes está nascendo já há algum tempo, com relativo sucesso e crescentes esperanças: o modelo distribuído](http://en.wikipedia.org/wiki/Distributed_revision_control). Nesse tipo de gerenciamento, a liberdade aumenta exponencialmente, permitindo coisas que no modelo antigo seriam muito difíceis de serem implementadas. Não vou me delongar explicando a teoria por trás da idéia, sabendo que, além de existir um ótimo texto explicando as vantagens em cima do modelo centralizado [disponível na web, o próprio sítio das implementações atuais explica a idéia de maneira muito convincente. E são elas:
+. Nesse tipo de gerenciamento, a liberdade aumenta exponencialmente, permitindo coisas que no modelo antigo seriam muito difíceis de serem implementadas. Não vou me delongar explicando a teoria por trás da idéia, sabendo que, além de existir um ótimo texto explicando as vantagens em cima do modelo centralizado [disponível na web, o próprio sítio das implementações atuais explica a idéia de maneira muito convincente. E são elas:
 
 	
   * Git. Conhecido como o controlador de fontes do _kernel_ do Linux. Escrita a versão inicial por Linux Torvalds em C e módulos de Perl pendurados, hoje em dia tem como principal desvantagem a falta de suporte nos ambientes Windows, impactando negativamente em projetos portáveis. Sua principal vantagem, no entanto, é a rapidez: é o controle de fonte mais rápido do oeste.
@@ -85,7 +85,7 @@ Se o programa não disse nada ao efetuar o _commit_, é porque está tudo certo.
 
 Como vimos, ao alterar um arquivo controlado este é mostrado pelo comando _status_ como alterado (o M na frente do Main.cpp). Também existem controles para cópia e exclusão de arquivos.
 
-Esse é o básico que se precisa saber para usar o Mercurial. Simples, não? O resto também é simples: fazer _branches_ e juntá-los é uma questão de costume, e está entre as boas práticas de uso. Eu recomendo fortemente a leitura do tutorial "**Entendendo o Mercurial**", disponível no sítio do projeto, até para entender o que existe por trás da idéia do controle descentralizado de fontes. Existe uma tradução muito boa](http://www.selenic.com/mercurial/wiki/index.cgi/BrazilianPortugueseUnderstandingMercurial) feita pelo meu amigo [Márcio.
+ feita pelo meu amigo [Márcio.
 
 Como usuário de Windows, posso dizer que a versão funciona muito bem, e é possível fazer coisas como, por exemplo, usar o WinMerge para juntar _branches_ ou comparar versões automaticamente, o que por si só já mata toda a necessidade que eu tinha do Source Safe.
 

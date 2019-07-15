@@ -13,7 +13,7 @@ Mas dessa vez está tudo sob controle, pois a Netflix não cometeria essa gafe c
 
 A diretora deste filme é Amy Poehler, a pedra fundacional de Parks And Recreation e cineasta wanna-be. Este é seu primeiro longa para o "cinema". A Netflix lançou em alguns cinemas o filme para ganhar este título. Aliás, eles devem fazer isso com todos os títulos para ter a chance de ganhar prêmios. Há ainda um forte preconceito contra as plataformas de streaming pelo mundo esnobe da sétima arte. Assim como o Merlot.
 
-Como diretora, Poehler é eficiente, mas ela pegou o roteiro errado. As roteiristas mulheres do sexo feminino Liz Cackowski e Emily Spivey fazem um trabalho encomendado. Elas são especialistas em comédia, como Vizinhos](/vizinhos) e Vizinhos 2 (ou [Gênios do Crime, além de episódios do próprio Parks & Recreation. Mas aqui falta alma.
+ e Vizinhos 2 (ou [Gênios do Crime, além de episódios do próprio Parks & Recreation. Mas aqui falta alma.
 
 A história é básica demais para termos substância: velhas amigas por trabalharem em uma pizzaria juntas, elas milagrosamente conseguem se reunir para o aniversário de 50 anos de uma delas em um fim-de-semana inteiro. A personagem de Poehler (ela está no filme também) perdeu o emprego e está se empenhando um pouco demais no itinerário do passeio que ela planejou e as outras amigas, como pode-se prever, possuem seus próprios problemas e irão colocar para fora em algum momento depois de tanto vinho (ou colocar o vinho para fora, do jeito que elas bebem).
 

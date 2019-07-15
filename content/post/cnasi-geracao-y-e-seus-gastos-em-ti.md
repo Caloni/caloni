@@ -3,7 +3,7 @@ date: "2008-09-25"
 title: Cnasi, geração Y e seus gastos em TI
 categories: [ "blog" ]
 ---
-!Eu invadindo o sistema da Cnasi e me auto-promovendo gerente!](http://i.imgur.com/3cwJBwk.jpg)Hoje descemos a rua para almoçar no shopping e aproveitamos para dar uma passada no último dia da feirinha de empresas de segurança, vulgo [Cnasi, para "prestigiar" a nossa participação nesse evento singular.
+Hoje descemos a rua para almoçar no shopping e aproveitamos para dar uma passada no último dia da feirinha de empresas de segurança, vulgo [Cnasi, para "prestigiar" a nossa participação nesse evento singular.
 
 Nosso crachá de visitantes dava direito a uma palestra. E haviam muitas. Porém, logo após a hora do almoço, das disponíveis uma era particularmente interessante, pois citava uma expressão que eu e minha colega nunca havíamos escutado: um senhor iria nos falar sobre como lidar com essas novas pessoas que estão cada vez mais invadindo nossas casas e nossos escritórios, pertencentes a esse grupinho, a tão famosa chamada **geração Y**.
 
@@ -17,7 +17,7 @@ Mas vou parar por aqui antes que alguém levante a bandeira e queira discursar a
 
 O fato é que acabamos subindo a rua novamente sem saber que tal de geração Y é essa que nos fez entrar na palestra errada. Como sempre, nada que uma boa "googada" não resolva.
 
-<blockquote>_Parênteses. Descobri recentemente que os seguidores do outro lado](http://www.microsoft.com) agora inventaram um novo "termo": Windows-Live-procurada. Um de seus [representantes, anteriormente um homem de respeito e opiniões fortes e imparciais, acredita este ser um termo de uso corrente no dia-a-dia. _</blockquote>
+ agora inventaram um novo "termo": Windows-Live-procurada. Um de seus [representantes, anteriormente um homem de respeito e opiniões fortes e imparciais, acredita este ser um termo de uso corrente no dia-a-dia. _</blockquote>
 
 #### E essa tal de geração Y?
 

@@ -17,11 +17,11 @@ Portanto, aí vão algumas dicas empíricas para lidar com esses detalhezinhos q
 
 Simples de dizer, não? No entanto, se o que você está fazendo é tão pequeno quanto duas horas passa a ficar um pouco mais fácil. E isso é possível se você souber fazer direito um cronograma, dividindo suas tarefas em tarefas menores, mais paupáveis e "pausáveis".
 
-!tarefasimportanteseurgentes.PNG
+tarefasimportanteseurgentes.PNG
 
 Um exemplo real serial o de uma mudança em um projeto que envolva três componentes: uma LIB estática, um componente COM e um _driver_. No caso de ser necessário parar no meio do projeto, é importante que essas três partes estejam bem separadas em tarefas que alteram o código-fonte um a um, sendo a última tarefa a integração entre todos. É interessante notar que, se for bem estruturado o projeto, é possível fazer testes individuais por componente antes da integração de fato, o que torna as coisa bem menos dolorosas. A divisão seria algo incremental e possivelmente paralelizável:
 
-!todolistcomponentizado.PNG
+todolistcomponentizado.PNG
 
 #### Sempre, sempre, sempre teste o básico da parte do software que irá mexer
 

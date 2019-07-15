@@ -3,7 +3,7 @@ date: "2007-11-05"
 title: 'Ponteiros de método: conceito fundamental'
 categories: [ "code" ]
 ---
-!Arrow Pointer](http://i.imgur.com/uIttDdG.jpg) - que são a grosso modo ponteiros como qualquer um - os ponteiros de método possuem uma semântica toda especial que costuma intimidar até quem está acostumado com a aritmética de ponteiros avançada. Não é pra menos: é praticamente uma definição à parte, com algumas limitações e que deixa a desejar os quase sempre criativos programadores da linguagem, que vira e mexe estão pedindo mudanças no [C++0x.
+ - que são a grosso modo ponteiros como qualquer um - os ponteiros de método possuem uma semântica toda especial que costuma intimidar até quem está acostumado com a aritmética de ponteiros avançada. Não é pra menos: é praticamente uma definição à parte, com algumas limitações e que deixa a desejar os quase sempre criativos programadores da linguagem, que vira e mexe estão pedindo mudanças no [C++0x.
 
 Três regras iniciais que devem ser consideradas para usarmos ponteiros para métodos são:
 

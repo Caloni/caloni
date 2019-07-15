@@ -142,7 +142,7 @@ Esse foi meio de brinde. Uma exceção de breakpoint (int 3, ntdll!DbgBreakPoint
 
 ##### 5. ntdll_cliente.dll - Importação de símbolos
 
-!vm-sony-xp-2010-08-08-17-59-22.png
+vm-sony-xp-2010-08-08-17-59-22.png
 Essa foi a DLL encontrada no cliente quando ocorreu o problema relatado na imagem, também em anexo. Isso foi demonstrado na palestra com a ajuda do meu script que carrega DLLs, além de um pouco de sorte. Podemos analisar esse caso com mais calma em outro artigo. Acho que já falei demais por aqui.
 
 #### Slides

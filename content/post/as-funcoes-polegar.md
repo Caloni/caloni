@@ -8,13 +8,13 @@ Como já havia dito, não há nada mais prazeroso do que ensinar a alguém os ve
 A função-polegar, uma categoria de função muito peculiar em várias APIs, possui um comportamento padrão de retorno de erros. Entre as diversas funções-polegar que conheço e uso, eis algumas que lembro de cor:
 
 	
-  * read](https://www.opengroup.org/onlinepubs/000095399/functions/read.html), [write
+, [write
 
 	
-  * connect](http://msdn.microsoft.com/en-us/library/ms737625(VS.85).aspx), [send
+, [send
 
 	
-  * ReadFile](http://msdn.microsoft.com/en-us/library/aa365467(VS.85).aspx), WriteFile, [CreateProcess
+, WriteFile, [CreateProcess
 
 O que todas essas funções têm em comum? Bom, ignorando seu funcionamento interno ou seu objetivo, todas elas possuem um **valor de retorno** no estilo sim ou não, ou seja, deu certo ou não deu. Nessas funções o código de erro, o motivo da função não ter dado certo, não é retornado diretamente. É o que chamo de esquema do **polegar pra cima** ou **polegar pra baixo**. O retorno da função especifica o ângulo giratório do dedão:
 
@@ -31,7 +31,7 @@ Por exemplo, chamamos a função ReadFile para ler um arquivo. Ela retorna FALSE
 
 
 
-!Thumbs Down
+Thumbs Down
 
 Em funções nessas condições, geralmente existe uma **segunda função (ou variável)** que retorna o último erro que ocorreu na API, ou seja, o erro que fez com que última função chamada retornasse que algo não deu certo. Nas funções de exemplo, são usados três métodos distintos, pois estamos falando de três APIs distintas:
 

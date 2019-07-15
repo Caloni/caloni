@@ -92,7 +92,7 @@ int main()
 
 ```
 
-!jurassicpark.PNG
+jurassicpark.PNG
 
 #### 3. CloseHandle. Mesmo??
 

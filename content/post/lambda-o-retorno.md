@@ -3,7 +3,7 @@ date: "2014-04-08"
 title: 'Lambda: o Retorno!'
 categories: [ "code" ]
 ---
-!Lambda: o Retorno
+Lambda: o Retorno
 
 Na última vez que foi abordado o tema "lambda na ferida" falamos brevemente sobre como C++ agora permite criar funções dentro de funções. Hoje vamos apenas falar que aquela construção bizarra que criamos fica ainda mais bizarra se precisarmos retornar alguma coisa dessa função ou usá-la mais de uma vez.
 

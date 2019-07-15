@@ -17,7 +17,7 @@ Para quem está começando, recomendo usar um depurador simples, 16 bits e que e
 
 Os comandos mais úteis são o _**r**_ (ver ou alterar registradores), o _**t**_/_**p**_ (executar passo-a-passo), o _**d**_ (exibir memória), o _**u**_ (desmontar assembly) e o _**a**_ (montar assembly). Ah, não se esquecendo do _**?**_ (ajuda).
 
-!Teste do debug 16 bits
+Teste do debug 16 bits
 
 Outro ensinamento bem interessante diz respeito à pilha. Aprendemos sempre que a pilha cresce de **cima pra baixo**, ou seja, de endereços superiores para valores mais baixos. Também vimos que os registradores responsáveis por controlar a memória da pilha são o _**sp**_ (stack pointer) e o _**ss**_ (stack segment). Pois bem. Vamos fazer alguns testes para ver isso acontecer.
 
@@ -118,7 +118,7 @@ Como vemos, ao empilhar coisas na pilha, o valor do registrador sp diminui. E ao
     0:000> g
     ModLoad: 75f50000 7604d000   C:\WINDOWS\system32\BROWSEUI.dll
 
-!WinDbg x Notepad
+WinDbg x Notepad
 
 Aposto que você sabe em qual dos três botões eu cliquei =)
 

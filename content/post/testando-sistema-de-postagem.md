@@ -3,7 +3,7 @@ date: "2016-04-10"
 title: "Testando sistema de postagem"
 categories: [ "blog" ]
 ---
-Bom, depois de criar um script para basicamente apenas escrever o texto dos filmes que assisto e buscar uma imagem agradável para meu blogue de Cinema](http://www.cinetenisverde.com.br), o próximo passo foi portar esse mesmo método para meus dois outros blogues: o da minha empresa, a [BitForge. Porém, nada mais que isso.
+, o próximo passo foi portar esse mesmo método para meus dois outros blogues: o da minha empresa, a [BitForge. Porém, nada mais que isso.
 
 **O problema mesmo é publicar nas redes sociais.**
 

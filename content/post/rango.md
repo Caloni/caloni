@@ -9,7 +9,7 @@ desc: "Rango. Rango (USA, 2011). Dirigido por Gore Verbinski. Escrito por John L
 ---
 (Du)Rango para crianças (Kid) já nasce clássico. Aliás, ele venera praticamente todo e qualquer clássico velho oeste que gastou mais de um milhão para ser produzido (ou até alguns meio baratinhos). Com uma direção de arte detalhista e uma direção geral fascinada pelo Cinema, este é um trabalho visualmente impecável e artisticamente inesquecível.
 
-Hans Zimmer deve ter ficado enlouquecido ao saber que poderia fazer uma trilha sonora inspirada nos clássicos de faroeste como Era uma Vez no Oeste](/era-uma-vez-no-oeste), [Três Homens em Conflito, O Estranho sem Nome e tantos outros.
+, [Três Homens em Conflito, O Estranho sem Nome e tantos outros.
 
 Ângulos que praticamente copiam muitos enquadramentos em clássicos de Sergio Leone, mas que ao mesmo tempo reaproveitam para contar uma história diferente, Rango é verde, enquanto todos os outros lembram a poeira e sujeira, pela cor e movimentos, além de caretas. Os mamíferos são as criaturas inteligentes dessa alegoria animalesca, e as aves são os bichos domesticados que correm, voam e cantam! Há um quarteto mexicano excepcional por trás das músicas que ouviremos sobre este épico que está sendo criado em tempo real.
 

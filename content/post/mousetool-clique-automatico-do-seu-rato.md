@@ -3,9 +3,9 @@ date: "2008-05-21"
 title: 'MouseTool: clique automático do seu rato'
 categories: [ "blog" ]
 ---
-Bem, como a maioria de você já sabe, eu realmente não gosto de _mouses_. Apesar disso respeito os usuário que usam-no e até gostam dele. Essa é a razão por que estou escrevendo mais uma vez sobre isso. Dessa vez, irei mostrar um programa que eu uso todos os dias: MouseTool, para os usuários que  não usam o ](http://www.codinghorror.com/blog/000825.html)_[mouse, _mas gostam dele.
+_[mouse, _mas gostam dele.
 
-!MouseTool no tray.
+MouseTool no tray.
 
 Existem algumas outras opções como arrastar-e-soltar e clique-duplo, ambas disponíveis pelo próprio programa através de atalhos do teclado ou mudança de estado, situação onde o usuário antes pousa o ponteiro sobre a ação desejada e depois pousa o ponteiro sobre o alvo, dessa forma alternando entre os três modos.
 
@@ -34,7 +34,7 @@ Clique nos liques abaixo para baixar o programa, e faça bom uso dele.
 MouseTool agora tem uma versão Linux em um projeto no Source Forge! Seu nome é GMouseTool, projeto criado por Márcio de Oliveira.
 
 	
-  * Página Inicial do ](http://gmousetool.sourceforge.net/)[GMouseTool 
+[GMouseTool 
 
 #### Usando o MouseTool direto do Bazaar
 

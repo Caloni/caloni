@@ -3,9 +3,9 @@ date: "2008-04-17"
 title: 'Crash Dump Analysis: o livro'
 categories: [ "reading" ]
 ---
-Para quem acabou de terminar o Advanced Windows Debugging](http://www.amazon.com/Advanced-Debugging-Addison-Wesley-Microsoft-Technology/dp/0321374460/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1208351461&sr=8-1) (como eu) e não consegue ler no computador os complicados artigos de Dmitry Vostokov (como eu), "seus problemas acabaram-se": acabou de ser lançado o [Memory Dump Analysis Volume 1.
+, "seus problemas acabaram-se": acabou de ser lançado o [Memory Dump Analysis Volume 1.
 
-Se você perder um pouco de tempo lendo o índice online](http://www.lulu.com/browse/preview.php?fCID=2086149), perceberá que boa parte do conteúdo (se não todo) está em seu sítio, disponível gratuitamente. Porém, não há nada como ter um livro organizado para ler no conforto do ônibus para o serviço (ou do metrô para casa). Ainda mais depois de ter aguçado os sentidos com o [livro de Mario Hewardt e Daniel Pravat.
+. Ainda mais depois de ter aguçado os sentidos com o [livro de Mario Hewardt e Daniel Pravat.
 
 Selecionei alguns tópicos que acredito que por si só já valeria a pena a aquisição do livro:
 

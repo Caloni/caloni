@@ -3,21 +3,21 @@ date: "2007-08-27"
 title: ToDoList
 categories: [ "blog" ]
 ---
-Vou aproveitar que o recente blogue do meu amigo resolveu falar um pouco sobre administração de tempo](http://www.kabloc.com.br/2007/08/24/estou-sem-tempo/) e citar a ferramenta que venho utilizando há quase um ano para tentar organizar minhas idéias, minhas tarefas e minha vida. Assim como o Kabloc, eu estava em sérias dificuldades para tentar fazer e organizar todas as coisas que eu tinha em mente. Ainda continuo com dificuldades para fazer, mas o mais importante é que agora eu tenho um [_roadmap_ de para onde eu quero ir.
+ e citar a ferramenta que venho utilizando há quase um ano para tentar organizar minhas idéias, minhas tarefas e minha vida. Assim como o Kabloc, eu estava em sérias dificuldades para tentar fazer e organizar todas as coisas que eu tinha em mente. Ainda continuo com dificuldades para fazer, mas o mais importante é que agora eu tenho um [_roadmap_ de para onde eu quero ir.
 
 #### ToDoList, ou "o aplicativo mais atualizado do Code Project"
 
-Eu sempre ouvi falar nesse programa desde que freqüento o The Code Project](http://www.codeproject.com), um sítio onde programadores publicam seus minicódigos para serem aproveitados (e avaliados) por toda a comunidade. Possuo algumas [pequenas contribuições por lá.
+ por toda a comunidade. Possuo algumas [pequenas contribuições por lá.
 
 O fato é que por preguiça de testar e pelo seu _screenshot_ inicial, me pareceu um programa demasiado complexo e pesado. Por isso passei vários anos sem sequer baixá-lo.
 
 No entanto, houve um momento em minha vida em que eu precisava definitivamente reunir e organizar todas as minhas idéias e atividades para conseguir concluí-las, tanto no trabalho quanto na vida pessoal. Houve então uma pequena pesquisa de minha parte de programas que fizessem o que eu precisava. Foi aí que eu baixei e testei o ToDoList, um programa pequeno, portátil (posso levar em meu _PenDrive_) e muito flexível. Eis abaixo o _screenshot_ original do artigo do Code Project:
 
-!Screenshot do ToDoList no Code Project
+Screenshot do ToDoList no Code Project
 
 Bem, me parecia mais do que eu precisava. No entanto ele é flexível, e suas colunas podem ser configuradas da maneira que lhe aprouver. Abaixo um _screenshot_ de como utilizo o ToDoList:
 
-!ToDoList screenshot
+ToDoList screenshot
 
 Entre algumas coisas legais que gosto nesse programa que me fizeram ficar com ele, consigo me lembrar da seguinte lista:
 

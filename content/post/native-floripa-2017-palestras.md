@@ -4,7 +4,7 @@ title: "Native Floripa 2017: Palestras"
 categories: [ "blog" ]
 
 ---
-Já está disponível na grade de palestras](http://www.nativefloripa.com.br/programacao/) do Native Floripa 2017 o conteúdo que será ministrado nos dois dias do final de semana dias 18 e 19 de março de 2017 em Florianópolis, na [Associação Catarinense de Empresas de Tecnologia
+ do Native Floripa 2017 o conteúdo que será ministrado nos dois dias do final de semana dias 18 e 19 de março de 2017 em Florianópolis, na [Associação Catarinense de Empresas de Tecnologia
 
  - Conectando EFL Models a Elementary Widgets
  - Usando C++14 com CPUs ATmel (Arduinos)
@@ -45,4 +45,4 @@ Se isso ainda não tocou nenhum sino em sua cabeça, talvez a lista dos palestra
  - Vitor Sousa Da Silva
  - __Wanderley Caloni (eu! eu!)__
 
-As inscrições](http://www.nativefloripa.com.br/inscricoes/) já estão abertas e o preço me impressionou. Para um evento com dois dias, está bem mais acessível que o [TDC.
+ já estão abertas e o preço me impressionou. Para um evento com dois dias, está bem mais acessível que o [TDC.

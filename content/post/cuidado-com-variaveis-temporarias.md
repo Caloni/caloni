@@ -45,11 +45,11 @@ int main()
 
 Quando chamamos func, ele lança uma exceção que é capturada no main que, por sua vez, formata uma stream e obtém sua string (através do método str) e através dessa string obtém o ponteiro da string em C puro (através do método c_str). Porém, a mensagem resultante na saída-padrão de erro não era o esperado:
 
-!
+
 
 Depurando diretamente, vemos que a stream, de fato, contém o que esperávamos. O único elemento errante é justamente o ponteiro obtido através da chamada dupla de métodos.
 
-!
+
 
 O porquê isso ocorre só fica óbvio quando vemos a ajuda da função str da classe stringstream:
 
@@ -92,7 +92,7 @@ Obviamente ele fica inválido após o fim da expressão!
 
 Vamos ver em câmera lenta:
 
-!
+
 
 Nada como assembly fresquinho para refrescar os conceitos de C++ por baixo dos panos.
 

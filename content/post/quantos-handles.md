@@ -60,38 +60,38 @@ O Perfmon(.msc) está aí no Windows já faz algumas versões (quase todas). Tud
 
 Ao executá-lo a primeira coisa que ele monitora é o processamento da máquina. Podemos eliminar ou esconder esse indicador direto na lista abaixo da ferramenta.
 
-!
+
 
 Existem incontáveis contadores no Perfmon. Para o que precisamos vamos em Process e escolhemos o contador de Handles:
 
-!
+
 
 Depois de um tempo o Perfmon irá exibir o histórico que determina para onde está indo o seu contador:
 
-!
+
 
 Se os valores do seu contador estão fora da faixa do histórico é possível ajustar a escala nas propriedades:
 
-!
+
 
 Se a frequência for muito menor do que um handle por segundo (isso acontece, principalmente com serviços que rodam por dias/semanas/meses), é possível mudar também pelas propriedades, mas gerais:
 
-!
+
 
 A mudança que fizemos captura o dado monitorado de dez em dez segundos e realiza essa operação por 600 segundos (10 minutos), até repetir o gráfico de histórico:
 
-!
+
 
 #### Process Explorer
 
 Outra forma de verificar como andam os handles da máquina é usando a já famosa ferramenta da SysInternals. Através das inúmeras colunas que ela fornece existe o contador de handles de cada processo, através do qual é possível verificar quais são os processos com mais handles abertos:
 
-!
-!
+
+
 
 Se seu programa for um handle hog, vai conseguir até ver esse leak acontecendo em tempo real (como o nosso programa mal-educado):
 
-!
+
 
 E como encontrar o código-fonte responsável por esse leak? Mais detalhes em um próximo post.
 

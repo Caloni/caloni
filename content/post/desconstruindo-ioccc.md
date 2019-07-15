@@ -7,7 +7,7 @@ Como alguns devem saber, e outros não (ou não deveriam), existe uma competiç�
 
 Acredito que a real valia de um campeonato desse porte é fazer as pessoas pensarem mais a fundo sobre as regras da linguagem. Isso faz com que erros mais obscuros que encontramos no dia-a-dia se tornem mais fáceis. Claro que ninguém deveria programar como os caras desse torneio, mas a título de aprendizagem, é uma grande aula sobre C.
 
-Publico aqui a interpretação do primeiro programa a ganhar a tal menção desonrosa](http://www0.us.ioccc.org/1984/anonymous.hint), em 1984. Se trata do batidíssimo "Hello World", só que um pouco compactado e confuso. Vejamos o [fonte original:
+, em 1984. Se trata do batidíssimo "Hello World", só que um pouco compactado e confuso. Vejamos o [fonte original:
 
     
     int i;main(){for(;i["]<i;++i){--i;}"];read('-'-'-',i+++"hell\

@@ -3,7 +3,7 @@ date: "2007-07-18"
 title: Como ser um melhor desenvolvedor nos próximos seis meses
 categories: [ "blog" ]
 ---
-Graças ao meu amigo Thiago estive acompanhando uma](http://codebetter.com/blogs/scott.bellware/archive/2007/07/14/165610.aspx) série](http://codebetter.com/blogs/jeffrey.palermo/archive/2007/07/09/6-months-to-become-a-better-developer.aspx) de [_posts_ e manda uma _tag_ para que outras pessoas também escrevam sobre o mesmo assunto, o que pode ser feito referenciando o [sítio dessas pessoas.
+ de [_posts_ e manda uma _tag_ para que outras pessoas também escrevam sobre o mesmo assunto, o que pode ser feito referenciando o [sítio dessas pessoas.
 
 Ainda não tive tempo de ler todos os artigos (nem vou ter, pela velocidade com que isso se espalha), mas acho que dá tempo de escrever um pouco sobre isso.
 
@@ -27,4 +27,4 @@ Minha lista não é muito diferente da dos outros. Basicamente se resume em: ler
 **E meus convocados são...
 **
 
-Agora que já passei pelo sofrimento de taguear nada como escolher minhas vítimas. Não conheço pessoalmente muitos blogueiros, mas pelo menos essa minha lista é fiel e sincera. Rodrigo Strauss](http://1bit.com.br/content.1bit/weblog/um_melhor_programador), Fernando Roberto e [Thiago Oliveira?
+, Fernando Roberto e [Thiago Oliveira?

@@ -3,7 +3,7 @@ date: "2011-06-04"
 title: Cronogramas baseados em fatos reais
 categories: [ "blog" ]
 ---
-Já falei sobre cronogramas](http://www.caloni.com.br/cronograma) por aqui e tudo que disse ainda se aplica. Contudo, comentei brevemente sobre entender seu próprio ritmo, que, instintivamente, sabia ser verdade. Depois que [li um pouco mais sobre técnicas XP/Scrum achei uma fórmula simples para transformar o tempo estimado em tempo realista.
+ por aqui e tudo que disse ainda se aplica. Contudo, comentei brevemente sobre entender seu próprio ritmo, que, instintivamente, sabia ser verdade. Depois que [li um pouco mais sobre técnicas XP/Scrum achei uma fórmula simples para transformar o tempo estimado em tempo realista.
 
 Vejamos o texto original (auto-plágio):
 

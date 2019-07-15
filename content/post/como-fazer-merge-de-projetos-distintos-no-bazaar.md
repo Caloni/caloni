@@ -3,7 +3,7 @@ date: "2008-06-16"
 title: Como fazer merge de projetos distintos no Bazaar
 categories: [ "blog" ]
 ---
-O problema foi o seguinte: Nós iniciamos o controle de fonte pelo Bazaar](http://bazaar-vcs.org/) na parte Linux do projeto, já que ela não iria funcionar pelo [Source Safe, mesmo. Dessa forma apenas um braço do projeto estava no controle de fonte e o resto não.
+ na parte Linux do projeto, já que ela não iria funcionar pelo [Source Safe, mesmo. Dessa forma apenas um braço do projeto estava no controle de fonte e o resto não.
 
 No segundo momento da evolução decidimos começar a migrar os projetos para o Bazaar, inclusive a parte daquele projeto que compila no Windows. Maravilha. Ambos sendo controlados é uma beleza, não é mesmo?
 
@@ -11,7 +11,7 @@ Até que veio o dia de juntar.
 
 O processo de _merge _de um controle de fonte supõe que os _branches _começaram em algum **ponto em comum**; do contrário não há como o controlador saber as coisas que mudaram em paralelo. Pois é achando a modificação **ancestral**, pai de ambos os _branches_, que ele irá medir a dificuldade de juntar as versões novamente. Se não existe ancestral, não existe análise. Como exemplificado na figura:
 
-!branches-sem-ancestral.gif
+branches-sem-ancestral.gif
 
 #### Se baseando no rebase
 
@@ -162,4 +162,4 @@ O processo que usei foi de usar esse comando n vezes para buscar revisões de um
     
     C:\Tests\linux>
 
-!branches-com-replay.gif
+branches-com-replay.gif

@@ -3,7 +3,7 @@ date: "2010-08-12"
 title: Foto dos melhores momentos
 categories: [ "blog" ]
 ---
-!Tela azul de recordação Mais um quebra-cabeças antes da nossa palestra, esse "baseado em fatos reais".
+Tela azul de recordação Mais um quebra-cabeças antes da nossa palestra, esse "baseado em fatos reais".
 
 A história é a seguinte: o cliente instalou uma versão nova do produto em algumas máquinas que, ato contínuo, começaram a apresentar telas azuis constantemente. Como essas máquinas tinham que ser usadas pelos funcionários, a administradora rapidamente desinstalou essa versão buguenta, e logo em seguida pediu por uma correção.
 

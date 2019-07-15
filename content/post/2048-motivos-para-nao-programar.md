@@ -3,13 +3,13 @@ date: "2014-04-24"
 title: 2048 motivos para não programar
 categories: [ "blog" ]
 ---
-!2048
+2048
 
 Pronto, posso programar em paz. O jogo 2048 é uma lástima para todos os trabalhadores intelectuais que dependem de suas mentes para produzir algo que preste. Ele gerou mais posts no Hacker News do que a moda dos bitcoins (talvez não) e mais projetos no GitHub do que a busca para a cura do câncer (talvez não). (Obviamente que este post vai gerar mais um commit Python no repositório de artigos
 
 Não sou fã de jogos, e dos poucos que participei logo parei (exceções honrosas: Portal e Portal 2, esses malditos). Posso dizer o mesmo de 2048, a versão de uma espécie de jogo já conhecido feita pelo italiano Gabriele Cirulli em um fds para ele descobrir se seria capaz de fazê-lo. Ele fez e o jogo e de quebra o índice de produtividade mundial cair.
 
-Houve pelo menos dois projetos de I.A. para resolver o problema que consiste em dobrar números múltiplos de 2 em um quadrado 4 x 4 até que se consiga o quadrado com o valor 2048 (e além). O artigo de Nicola Pezzotti](http://diaryofatinker.blogspot.it/2014/03/an-artificial-intelligence-for-2048-game.html) explica o mais efetivo deles, de autoria de [Robert Xiao. Ao rodar a versão executável console ele imprime cada posição do tabuleiro em um formato fácil de ser lido, como este:
+ explica o mais efetivo deles, de autoria de [Robert Xiao. Ao rodar a versão executável console ele imprime cada posição do tabuleiro em um formato fácil de ser lido, como este:
 
     
     Move #69, current score=584

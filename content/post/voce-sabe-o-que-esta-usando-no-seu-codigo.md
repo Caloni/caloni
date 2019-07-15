@@ -28,7 +28,7 @@ static const char* LIB_VERSION = "minhalib 0.0.1";
 
 Dessa forma, por pior que seja a situação do controle de seus binários, sempre haverá a possibilidade de procurar a string lá dentro.
 
-!Strings na minha lib
+Strings na minha lib
 
 Ops, esqueci que nesses compiladores modernos __o que você não usa não será incluído no binário final__. Isso quer dizer que se quisermos que essas strings de identificação de dependências apareça no binário compilado precisamos pelo menos dar a impressão de que ele esteja sendo usado:
 
@@ -57,7 +57,7 @@ int main()
 }
 ```
 
-!Strings na minha lib
+Strings na minha lib
 
 Uma solução mais genérica pode ser aplicada utilizando as famigeradas macros e...
 
@@ -117,7 +117,7 @@ public:
 USING_LIB(lib1, "0.0.1");
 ```
 
-!Todas as strings do meu projeto
+Todas as strings do meu projeto
 
 Com esse simples mecanismo que não gasta mais do que algumas chamadas de assembly no início da lib (antes do main) e o espaço ocupado na memória pelas strings somadas (menos de 1KB, provavelmente) você tem em suas mãos uma poderosa ferramenta de análise de como os binários estão sendo gerados pela sua equipe remota, ou por qual configuração foi usada na máquina de build para gerar aquela DLL com aquele problema antigo, ou porque algo que funcionava parou de funcionar e nada foi mexido (isso nunca acontece, não é mesmo?).
 

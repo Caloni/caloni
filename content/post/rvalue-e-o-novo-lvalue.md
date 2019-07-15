@@ -3,7 +3,7 @@ date: "2012-01-11"
 title: RValue é o novo LValue
 categories: [ "blog" ]
 ---
-!
+
 
 As grandes discussões filosóficas que participei durante meu estudo da linguagem C, e mais tarde de C++, muitas vezes convergiam para o significado místico daquela figura que nós da gramática da linguagem conhecemos como lvalue, ou l-value, ou left-value. Enfim, a definição de uma expressão que representa um lugar na memória e, portanto, pode ocupar o lado esquerdo de uma atribuição/cópia/passagem de argumentos qualquer. Porém, os "grandes" embates daquela época hoje parecem brincadeira de criança, como a diferença sutil entre ++x e x++ ou convergência de tipos em templates.
 
@@ -17,11 +17,11 @@ Todos concordam, então, que a mudança é necessária. Nem todos concordam, con
 
 Desde o começo de meus estudos em C++ tenho admirado a linguagem com um certo distanciamento. Enquanto a linguagem C continua sendo o supra-sumo das linguagens de médio-nível, C++ continua sendo uma abominação cujos detalhes muitos preferem esquecer. Mas esquecer tem se tornado cada vez mais difícil frente às <del>gambiarras</del> adaptações técnicas que a linguagem vem sofrendo.
 
-No caso de Rvalues, se antes existia uma discussão interminável sobre sua inclusão no novo padrão, agora existem discussões acerca do que tudo isso significa. Existe até um ótimo guia](http://thbecker.net/articles/rvalue_references/section_01.html) (thanks to [pepper_chico sobre as principais mudanças de conceitos, feito para simplificar o entendimento. Mas ele mesmo é exageradamente complexo para o programador médio. É de forçar a barra, mesmo. É pedir demais.
+ (thanks to [pepper_chico sobre as principais mudanças de conceitos, feito para simplificar o entendimento. Mas ele mesmo é exageradamente complexo para o programador médio. É de forçar a barra, mesmo. É pedir demais.
 
 #### Conversemos
 
-No próximo dia 28, sábado, nos reuniremos em mais um evento C++ organizado ](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032503387&Culture=pt-BR)<del>pela Microsoft</del> [pelo Grupo C/C++ Brasil. Estou na lista de palestrantes e conversarei com vocês sobre as otimizações que o famigerado RValue deve trazer à mesa. Espero conseguir entender um pouco mais sobre essa criatura fantástica até lá.
+<del>pela Microsoft</del> [pelo Grupo C/C++ Brasil. Estou na lista de palestrantes e conversarei com vocês sobre as otimizações que o famigerado RValue deve trazer à mesa. Espero conseguir entender um pouco mais sobre essa criatura fantástica até lá.
 
 Se o Cebolinha for um programador C++, deve estar se debatendo nesse momento.
 

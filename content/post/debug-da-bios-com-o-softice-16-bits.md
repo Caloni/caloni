@@ -3,7 +3,7 @@ date: "2007-10-02"
 title: Debug da BIOS com o SoftIce 16 bits
 categories: [ "code" ]
 ---
-Para quem ainda acha que não desceu demais o nível, existe um ótimo artigo de ShalomZ](http://www.codeproject.com/script/Articles/list_articles.asp?userid=3038165), do Code Project, sobre [como construir seu próprio sistema operacional. É simples, direta e empolgante a maneira com que ele explica e trata os detalhes básicos, desde quando o computador é ligado até quando o _boot loader_ carrega e entrega o controle de execução. Eu mesmo fiz o teste com a imagem que foi disponibilizada para _download_ e funcionou direitinho. Agora esse meu artigo se dispõe a explicar como você pode fazer para depurar o processo de _load_ do seu primeiro sistema operacional.
+, do Code Project, sobre [como construir seu próprio sistema operacional. É simples, direta e empolgante a maneira com que ele explica e trata os detalhes básicos, desde quando o computador é ligado até quando o _boot loader_ carrega e entrega o controle de execução. Eu mesmo fiz o teste com a imagem que foi disponibilizada para _download_ e funcionou direitinho. Agora esse meu artigo se dispõe a explicar como você pode fazer para depurar o processo de _load_ do seu primeiro sistema operacional.
 
 Primeiro, precisamos de uma ferramenta fundamental para esse tipo de depuração: o SoftIce versão 16 bits. Desconheço algum outro depurador de sistema em 16 bits, mas se você souber de algum, pode usá-lo com esse tutorial com as devidas adaptações.
 
@@ -59,7 +59,7 @@ Quando o código da BIOS é executado, ele precisa, entre outras coisas, fazer t
 
 O item 2 é justamente o que utiliza essa interrupção para ler do disco. Eu prefiri colocar o _breakpoint_ no item 2, mas nada impediria de você colocá-lo no item 3 e já iniciar a depuração no código do _boot loader_. Mas, como eu já passei por problemas encontrados no código da BIOS que impediam o sistema de entregar a execução para o setor de _boot_, já dei a dica de lambuja caso você também tenha a oportunidade de se divertir em um cliente depurando a BIOS de algum _laptop_ desajustado.
 
-!bpint no SoftIce durante o boot
+bpint no SoftIce durante o boot
 
 Pela imagem acima sabemos que após o _boot_ foi executada a interrupção 0x13, função 2 e que se trata de leitura em disquete, pois o conteúdo do registrador DL está em 0 (veja a referência das interrupções da BIOS em Ralf Brown's Interrupt List.
 
@@ -67,9 +67,9 @@ Pela imagem acima sabemos que após o _boot_ foi executada a interrupção 0x13,
 
 É mais ou menos o _step out_ do SoftIce 32. Ou seja, ele avança a execução até a função retornar. No caso do SoftIce 16, ele irá avançar até o próximo ret/iret. Por isso que também precisamos executar a próxima instrução (o próprio ret) para cair onde queremos. É nesse ponto que o "nosso" código começa a executar e onde conseguimos colocar _breakpoints_ "de verdade" (lembre-se que o código da BIOS está em uma memória de somente leitura, pelo menos durante a execução).
 
-!O início do pequeno OS
+O início do pequeno OS
 
-> _Adendo: fiz um_](/images/biosdebug.7z)_ [vídeo de demonstração _
+_ [vídeo de demonstração _
 
 #### Páginas usadas
 

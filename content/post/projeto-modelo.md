@@ -21,7 +21,7 @@ Portanto, trate de iniciar a estruturação em um projeto-modelo que já contenh
 
 #### Estruturação proposta
 
-!projeto-modelo2.png
+projeto-modelo2.png
 
 Build. Essa pasta contém tudo que é necessário para compilar e testar o projeto como um todo. Idealmente a execução da batch build.bat deve executar todo o processo. Após a compilação, é de competência dos componentes na subpasta Tests fazer os testes básicos do projeto para se certificar de que tudo está funcionando como deveria.
 

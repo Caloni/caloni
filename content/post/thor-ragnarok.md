@@ -10,7 +10,7 @@ desc: "Thor Ragnarök. Thor: Ragnarok (USA, 2017). Dirigido por Taika Waititi. E
 ---
 Este é o terceiro filme solo do Thor, e talvez o mais longo deles? Bom, isso não importa. Thor Ragnarök passa voando. Não apenas o personagem-título, mas o filme como um todo. Isso talvez porque ele tenha esse elenco secundário tão fofinho, fazendo piadas bem-humoradas, de bem com a vida, entrando em seus personagens. Tudo isso para suportar o Avenger mais sem-graça. E do jeito que ele perde vários elementos de sua história nessa aventura, espero que ele não tenha mais aventuras para contar.
 
-A historinha aqui é a seguinte: tem um mal que vai importunar essa galera do bem, e por conta de alguns infortúnios os heróis vão ter que se unir para conseguir vencer esse mal, mas no final vai dar tudo certo. Você sabe o plot. Já viu ele centenas de vezes. Esta é a Marvel e a sua série de filmes, e este é apenas mais um episódio. Eles fazem o ajuste fino de acordo com a demanda de fãs e críticos, e tenta lançar na próxima versão um filme mais próximo do que tem dado certo. No caso, a irreverência do Dead Pool](/deadpool) (e do recente Spideman aliada ao nostálgico e cartunesco [Guardiões da Galáxia. O resultado é uma trilha sonora mais techno, um pouco mais de cores no universo do Thor e um elenco cheio de piadinhas que funcionam.
+ (e do recente Spideman aliada ao nostálgico e cartunesco [Guardiões da Galáxia. O resultado é uma trilha sonora mais techno, um pouco mais de cores no universo do Thor e um elenco cheio de piadinhas que funcionam.
 
 Eles devem ter perdido um bom tempo com essas piadinhas, esses rapazes do roteiro...
 

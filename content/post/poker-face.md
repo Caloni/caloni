@@ -9,15 +9,15 @@ Basta um hack e commit.
 
 ## É a incerteza, idiota!
 
-!Poker Jam
+Poker Jam
 
 O problema reza que existem dois algoritmos para embaralhar uma sequência numérica (de 0 a N): o bom e o ruim. Ambos traçam um loop do iníco ao fim pegando aleatoriamente um elemento da lista e trocando de lugar com o elemento que está sendo varrido no momento.
 
-!ProperShuffle
+ProperShuffle
 
 A diferença entre o bom e o ruim é que o bom pega aleatoriamente apenas os elementos DEPOIS do elemento que está sendo varrido, enquanto o algoritmo ruim pega qualquer um dos elementos SEMPRE. Isso aparentemente e intuitivamente não parece interferir na aleatoriedade do embaralhamento, mas se levarmos ao extremo de embaralhar repetidas vezes somando a lista resultante percebemos uma tendência gritante do algoritmo ruim em manter o ordenamento inicial, ou pelo menos na média sempre tender para números menores no início e números maiores no fim, como pode ser visto nesse teste que fiz, gerado pelo Excel:
 
-!Gráfico dos Algoritmos de Embaralhamento
+Gráfico dos Algoritmos de Embaralhamento
 
 O que eu tentei fazer durante meu fim-de-semana retrasado e o feriado foi encontrar um detector de aleatoriedade (aliás, encontrei um bem interessante chamado ent. E foi essa a solução adotada por Kaizero.
 
@@ -126,7 +126,7 @@ int main()
 
 O que ele basicamente faz é acumular os resultados de três milhões de embaralhamentos feitos pelo algoritmo ruim e inferir através dos resultados que metade é bom e metade é ruim. O ruim fica do lado desbalanceado da sequência.
 
-!Tabelona
+Tabelona
 
 Tão óbvio, tão simples, tão elegante.
 

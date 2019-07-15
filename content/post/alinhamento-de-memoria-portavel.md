@@ -87,11 +87,11 @@ O código acima usa o conceito de união de estruturas (union) para fazer valer 
 
 Uma estrutura, como todos sabem, amontoa os seus membros um após o outro na memória. Dessa forma podemos tratar um bloco de memória com um leiaute que definimos com outros tipos:
 
-!struct.gif
+struct.gif
 
 Em uma união, os membros não são amontoados um após o outro. Todos eles começam no mesmo ponto da memória. Eles se sobrescrevem. O tamanho da união sempre é o tamanho do seu maior membro, e não a soma de todos. É um tanto difícil de descrever esse leiaute, mas imagine que você tenha apenas uma posição na memória e queira chamá-la de vários nomes e tamanhos diferentes. Essa é a união.
 
-!union.gif
+union.gif
 
 Como deve ser fácil de imaginar, uma união não tem tanto uso quanto uma estrutura, mas ainda assim faz parte da linguagem. Ela possibilita enxergar a mesma região de memória sob vários ângulos. Podemos descobrir a organização de um inteiro na memória, por exemplo, byte a byte:
 
@@ -120,7 +120,7 @@ Dependendo se a plataforma onde o programa acima é compilado, a exibição do �
 
 Agora que sabemos o que são uniões fica fácil entender o esquema da solução portável. Eu simplesmente uso a segunda estrutura como uma auxiliar de alinhamento. Com ela do tamanho múltiplo do alinhamento desejado forçamos a união inteira a ter esse alinhamento, independente do tamanho da estrutura útil, a que iremos usar para armazenar dados.
 
-!testealign.gif
+testealign.gif
 
 Tudo que temos que saber para fazer o alinhamento é o tamanho normal de nosso tipo útil (o Teste). A partir desse valor deduzimos o próximo número que seja múltiplo de 8, através da seguinte construção:
 

@@ -9,7 +9,7 @@ stars: "3/5"
 ---
 Colette é uma tentativa de fazer justiça a respeito das obras entituladas Claudine, escritas pela escritora ganhadora do prêmio Nobel (e famosa pelo romance "Gigi"), mas com os créditos dados ao seu marido Willy, na época um famoso crítico e escritor. Se trata de uma biografia burocrática, que descreve acontecimentos sem paixão, apenas se detendo no que mais chama a atenção do público: as relações extra-conjugais do casal.
 
-Aliado a uma trilha sonora que tenta constantemente nos manter tensos frente ao que vemos na tela, o filme nos entrega uma Keira Knightley completamente clichê e alheia, sem a leveza e a doçura vistas em Orgulho e Preconceito](/orgulho-e-preconceito) nem a sensualidade dela em Apenas uma Noite, e felizmente nada da bizarrice que encontramos em [Um Método Perigoso. Knightley não possui liberdade o suficiente em uma direção que se concentra demais na biografia e deixa em segundo plano seus personagens.
+ nem a sensualidade dela em Apenas uma Noite, e felizmente nada da bizarrice que encontramos em [Um Método Perigoso. Knightley não possui liberdade o suficiente em uma direção que se concentra demais na biografia e deixa em segundo plano seus personagens.
 
 Ainda assim, a figura intensamente canastrona de Willy é uma diversão entregue quase que naturalmente por Dominic West, que está muito mais à vontade na época e nos trejeitos. O casal juntos irão se aventurar por um relacionamento nada convencional que envolve compartilhamento de amantes (femininas) e roubo de autoria dos primeiros livros de Colette.
 

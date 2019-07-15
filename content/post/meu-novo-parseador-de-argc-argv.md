@@ -28,7 +28,7 @@ const char* GetArg(int argc, char* argv[], const char* arg)
 }
 ```
 
-!
+
 
 Essa função é tão simples, e tem tão poucas dependências (strcmp) que você pode usá-la em praticamente qualquer programa que use argc/argv e que use os parâmetros dos mais complexos:
 

@@ -7,7 +7,7 @@ O Visual Studio é uma ótima ferramenta para depurar rapidamente programas send
 
 Vamos supor que você crie seu super-projeto ZeroMQ e no meio dele acabe evoluindo uma nova forma de vida inútil e descartável, que aqui iremos chamar de HeaderInutil e seu fiel companheiro CppInutil:
 
-!
+
 
 OK. Ele não está fazendo nada, mas e daí? Compilo meu projeto normalmente e depuro ele como se nada estivesse acontecendo.
 
@@ -48,7 +48,7 @@ Mas o que acontece se eu precisar no momento do refactory (**que deve, sim, exis
 
 Continuo compilando normalmente o projeto, mas na hora de depurar...
 
-!
+
 
 Mas o que ocorre? Eu acabei de compilar o projeto! E se eu compilar novamente e pressionar F5, ele continua apresentando o mesmo problema!
 
@@ -64,14 +64,14 @@ O que pode ser feito nesse caso (além do que os personagens de The Walking Dead
 </switches>
 </system.diagnostics>
 
-!
+
 
 Depois de modificar o arquivo, reinicie o Visual Studio e tente novamente apertar F5 no mesmo projeto, **mas com o DebugView aberto**.
 
-!
+
 
 Como um amigo meu diria: "**AHÁ!!**". Descobrimos o culpado.
 
 A solução? Nesse caso não tem jeito: dar um clean no projeto e build novamente para que o VS reconstrua a árvore de dependências. Porém, **agora sabemos por que precisamos do Rebuild All**. Não é RebuildAllMania.
 
-!
+

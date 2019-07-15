@@ -3,7 +3,7 @@ date: "2007-12-21"
 title: Banco de dados no C++ Builder
 categories: [ "code" ]
 ---
-!CPPB Database
+CPPB Database
 
 Um banco de dados é qualquer lugar onde podemos ler e escrever informação geralmente persistente. Pode ser um arquivo INI, uma estrutura binária ou uma plantação de servidores para fazer busca na internet.
 
@@ -17,11 +17,11 @@ Visando preencher algumas lacunas na internet sobre esse tema, iremos agora nos 
 
 Quase como um prêmio de consolação por participarmos de um sorteio que sabemos que não iremos ganhar nunca, a Caixa generosamente oferece a opção de baixarmos todos os resultados da Mega Sena desde seu início. Iremos utilizar esse **banco de dados** para criar uma interface de visualização de resultados no C++ Builder.
 
-!Mega Sena Download
+Mega Sena Download
 
 Um problema inicial está no fato que o arquivo está no formato HTML, um formato mais difícil de usarmos no C++ Builder. Portanto, irei converter este formato em algo mais maleável, como um arquivo do Microsoft Access (manipulável pelo Open Office, o famoso **MDB**.
 
-Para a conversão, nada mais que algumas expressões regulares](http://guia-er.sourceforge.net/) e macros de edição não resolvam em 5 minutos, sem contar a opção de importação do próprio Access. Para evitar perder estes 5 minutos, deixei disponível o banco de dados gerado através do [_download_ junto com o projeto que criaremos para demonstrar a visualização.
+ e macros de edição não resolvam em 5 minutos, sem contar a opção de importação do próprio Access. Para evitar perder estes 5 minutos, deixei disponível o banco de dados gerado através do [_download_ junto com o projeto que criaremos para demonstrar a visualização.
 
 #### Borland Database Engine
 
@@ -29,7 +29,7 @@ Neste tutorial vamos usar aquilo que é o configurador oficial de banco de dados
 
 Criado o MDB, podemos clicar no BDE Administrator do Painel de Controle. A única coisa que precisamos fazer é criar uma nova base de dados, e especificar seus poucos parâmetros, como o tipo de base (MSACCESS) e o _path_ de onde está o arquivo MDB.
 
-!BDE Config
+BDE Config
 
 Ah, sim, claro, também é importante colocar um nome apropriado para a base de dados: MegaSena.
 
@@ -75,7 +75,7 @@ Após todos esses componentes não-visuais terem sido inseridos no _form_, nada 
 
 Com isso, nossa janela já exibe o conteúdo da tabela em tempo de _design_:
 
-!DB Grid
+DB Grid
 
 E é isso! Se chegamos até aqui, já sabemos o arroz com feijão de usar banco de dados com o C++ Builder. Mais para a frente podemos nos aventurar em tópicos um pouco mais avançados, como fazer buscas, navegar item a item e essas coisas que as pessoas costumam fazer com um MDB.
 

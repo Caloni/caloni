@@ -45,7 +45,7 @@ if( findH != INVALID_HANDLE_VALUE )
 //...
 ```
 
-!
+
 
 No caso de nós, que escrevemos uma "classe", o contexto é recebido "de fora":
 

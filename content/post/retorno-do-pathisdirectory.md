@@ -60,7 +60,7 @@ E, pior, o código abaixo **também não vai funcionar**!
     
     if( PathIsDirectory(path) != TRUE ) // aff... é bom rever os seus conceitos
 
-Pesquisando um pouco descobri uma boa discussão sobre o tema](http://www.microsoft.com/communities/newsgroups/en-us/default.aspx?dg=microsoft.public.win32.programmer.kernel&tid=15f6c3fd-a57e-4c27-91ea-2ddd49aaf2a6&cat=&lang=&cr=&sloc=&p=1), e inclusive que outras pessoas descobriram o [interessante detalhe que para pastas normais o retorno é 0x10, mas para compartilhamentos o retorno é 0x1.
+, e inclusive que outras pessoas descobriram o [interessante detalhe que para pastas normais o retorno é 0x10, mas para compartilhamentos o retorno é 0x1.
 
 #### O bug atrás dos documentos
 

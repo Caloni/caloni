@@ -3,13 +3,13 @@ date: "2008-02-19"
 title: Creative Commons
 categories: [ "blog" ]
 ---
-Talvez a maioria das pessoas ignore o fato que, ao publicarem algum conteúdo, qualquer conteúdo, na internet, estarão criando algo, e esse algo tem um autor, e portanto, de acordo com nossa lei](http://www.planalto.gov.br/CCIVIL/Leis/L9610.htm) (Brasil) e [alguns tratados internacionais, está protegida pelo **direito autoral**.
+ e [alguns tratados internacionais, está protegida pelo **direito autoral**.
 
 Para ajudar os autores da internet a informarem ao seu público qual o nível de proteção e liberdade dados às suas obras de maneira padronizada e internacionalizada, foi criado o Creative Commons, cuja função é exatamente essa que descrevi.
 
 Exatamente por não ser obrigado o registro de uma obra para tornar válido o seu direito autoral, o Creative Commons apenas define alguns logos e _links_ que simbolizam e especificam quais os direitos que um autor gostaria de aplicar à sua obra, variando de uma obra totalmente protegida até uma obra sem qualquer nível de proteção. No meu caso, por exemplo, as obras do Caloni.com.br estão publicadas sob as seguintes condições:
 
-!Creative Commons no Caloni.com.br
+Creative Commons no Caloni.com.br
 
 	
   * Você pode:

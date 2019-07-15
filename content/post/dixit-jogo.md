@@ -15,7 +15,7 @@ A beleza do jogo está que as cartas em si podem significar muitas poucas palavr
 
 E além disso resolve uma série de problemas que jogos costumam ter.
 
-!
+
 
 Resolve a **universalidade**, já que não há qualquer relação nem verbal nem cultural com as cartas em si, apenas com seus jogadores, e o sistema de votos usa simples números, outro traço universal. E ao mesmo tempo, se tratar-se de um grupo culturalmente diverso, explora as diferentes formas de cada pessoa enxergar os significados que as cartas podem ter. O jogo se torna até mais interessante quanto mais diverso for o grupo.
 

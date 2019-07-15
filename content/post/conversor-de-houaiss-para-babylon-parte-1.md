@@ -3,7 +3,7 @@ date: "2008-02-27"
 title: Conversor de Houaiss para Babylon - parte 1
 categories: [ "code" ]
 ---
-Este artigo é sobre desmontar e montar novamente. Iremos descobrir como as entradas do dicionário Houaiss eletrônico](http://compare.buscape.com.br/categoria?id=30&lkout=1&kw=houaiss&site_origem=1293522) estão gravadas em um primeiro momento, para depois remontarmos essa informação de maneira que ela possa ser usada em outro dicionário de uso mais flexível, o [Babylon. Ou seja, este não é um guia de vandalismo. Estava apenas querendo usar um dicionário de qualidade excelente em outro dicionário cuja interface é muito boa.
+ estão gravadas em um primeiro momento, para depois remontarmos essa informação de maneira que ela possa ser usada em outro dicionário de uso mais flexível, o [Babylon. Ou seja, este não é um guia de vandalismo. Estava apenas querendo usar um dicionário de qualidade excelente em outro dicionário cuja interface é muito boa.
 
 **Sobre pirataria**
 
@@ -13,13 +13,13 @@ Assim como adquiri o Houaiss, também comprei o Babylon, um programa-dicionário
 
 O Babylon possui um mecanismo para criação de dicionários chamado Babylon Builder. Sabendo que possuo ambas as licenças desses dois programas me sinto mais aliviado em tentar desencriptar a base de dados do primeiro para construir um dicionário para o segundo, e assim realizar meu sonho de consumo: um Babylon com um dicionário de peso!
 
-!Licença do Houaiss
+Licença do Houaiss
 
 #### Instalação
 
 É necessário que, na hora da instalação, seja escolhida a opção de copiar os arquivos para o disco. Estarei utilizando o path padrão de um Windows em português, que é "C:\Arquivos de Programas\Houaiss".
 
-!Instalação do Houaiss
+Instalação do Houaiss
 
 A estrutura de diretórios interna da instalação é bem simples:
 
@@ -37,7 +37,7 @@ Se analisarmos o conteúdo dos arquivos dentro da pasta Dicionario vamos descobr
     
     for %i in (*.*) do type %i | less
 
-!Saída dos arquivos do dicionário
+Saída dos arquivos do dicionário
 
 #### Análise
 

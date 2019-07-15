@@ -13,7 +13,7 @@ No entanto, ele me deu uma "dica": é o disjuntor. Pensei comigo mesmo: "agora o
 
 Dito e feito. No dia seguinte fui comprar um novo. Mesmo modelo, tudo certinho (aproveitei e comprei o tal testador de tensão). Quando fui retirar o velho, notei que havia um fio desencapado muito próximo de uma das entradas de energia do dito cujo.
 
-!
+
 
 É nessa entrada que se conecta um pino de onde vem a energia da central. Do lado deste pino havia um fio, como quem não quer nada, "passeando" bem próximo do pino. Notei também que havia outro do lado, no disjuntor do microondas.
 
@@ -33,7 +33,7 @@ A essa altura do campeonato, se você ainda está lendo isso, deve estar se perg
 
 Certo? Certo?
 
-Na maioria dos casos, certo. Porém, todo software tem bugs. E quando mexemos em código dos outros, em toda nossa humildade, nunca esperamos que haja um problema grave no comportamento principal do programa (ex: o Excel não fazer um cálculo direito](http://www.joelonsoftware.com/items/2007/09/26b.html)). Talvez pela falsa impressão que o simples passar do tempo já valida qualquer possível bug escondido (se esquecendo da história do BSD e [seu bug de 25 anos. Ledo engano. É aí que o bug fica difícil de ser corrigido, pois não há mais programadores desconfiadinhos do lado do código, e a nova leva sabe que ele está rodando faz tempo, então mais respeito...
+. Talvez pela falsa impressão que o simples passar do tempo já valida qualquer possível bug escondido (se esquecendo da história do BSD e [seu bug de 25 anos. Ledo engano. É aí que o bug fica difícil de ser corrigido, pois não há mais programadores desconfiadinhos do lado do código, e a nova leva sabe que ele está rodando faz tempo, então mais respeito...
 
 ### Moral da história
 

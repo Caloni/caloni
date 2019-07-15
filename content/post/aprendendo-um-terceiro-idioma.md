@@ -12,7 +12,7 @@ Primeiro, meus motivos primários:
 - Achava uma língua bem bonita e exótica;
 - <strike>Gosto de jogar xadrez (o que isso tem a ver?)</strike>.
 
-Bom, no início comecei aprendendo o alfabeto. Alguns podem dizer que não há nenhum segredo no cirílico](http://pt.wikipedia.org/wiki/Alfabeto_cir%C3%ADlico), e de fato não há. Porém, uma coisa é saber **interpretar **mais ou menos aquelas letrinhas derivadas do grego; outra completamente diferente é saber **escrever **em letra de base e em letra de mão todos os 33 caracteres, e ainda saber de cor o [leiaute do teclado russo. Isso leva um pouco de tempo, e é bem divertido!
+, e de fato não há. Porém, uma coisa é saber **interpretar **mais ou menos aquelas letrinhas derivadas do grego; outra completamente diferente é saber **escrever **em letra de base e em letra de mão todos os 33 caracteres, e ainda saber de cor o [leiaute do teclado russo. Isso leva um pouco de tempo, e é bem divertido!
 
 A partir daí passei cerca de seis meses apenas treinando a escrita e leitura do cirílico, aprendendo a diferença de som dependendo do contexto, um caderno a tiracolo no meio do ônibus, do trem e do metrô escrevendo infinitas linhas incompreensível provavelmente por 99% das pessoas que cruzavam meu caminho e olhavam curiosas.
 
@@ -20,7 +20,7 @@ Depois, o idioma em si. Nessa fase resolvi apelar para um curso disponível no m
 
 Passei mais seis meses de curso com ela e com alguns textos que ia baixando da internet. Depois do curso comprei um curso em áudio e texto que fui acompanhando morosamente pelo resto dos dois anos que passei me aventurando pelo idioma.
 
-No meio do caminho um amigo meu achou o podcast Spoonful of Russian](http://speakrussian.blogspot.com/), o que foi uma diversão só, especialmente pelo conhecimento cultural e musical do povo russo. Minha amiga também me enviou alguns CDs de bandas russas famosas, e fiquei especialmente encantando com [Ivan Kupala, que até hoje escuto. Se trata de uma banda que pegou músicas do folclore russo e adaptou para os tempos atuais, mas cantado ainda por velhinhas e velhinhos que aparentemente parecem ter saído de uma aldeia dos Montes Urais.
+, o que foi uma diversão só, especialmente pelo conhecimento cultural e musical do povo russo. Minha amiga também me enviou alguns CDs de bandas russas famosas, e fiquei especialmente encantando com [Ivan Kupala, que até hoje escuto. Se trata de uma banda que pegou músicas do folclore russo e adaptou para os tempos atuais, mas cantado ainda por velhinhas e velhinhos que aparentemente parecem ter saído de uma aldeia dos Montes Urais.
 
 O cinema e a BBC russa também representaram um instrumento de aprimoramento do listening do dia-a-dia. Uma coisa é escutar um russo falando devagar durante uma aula de declinação do futuro por aspecto. Outra coisa é ver alguém usando isso enquanto atravessa a rua conversando com um amigo no meio do barulho da cidade grande, ou uma mulher que mais parece uma metralhadora disparando 500 notícias de uma vez no podcast de um jornal da internet.
 

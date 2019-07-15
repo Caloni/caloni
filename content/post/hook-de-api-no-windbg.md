@@ -3,7 +3,7 @@ date: "2007-08-29"
 title: Hook de API no WinDbg
 categories: [ "code" ]
 ---
-!MiniBSOD - Pequena tela azul](http://i.imgur.com/NTPiyb4.png) ou ele chama a função [kernel32!GetProcAddress explicitamente [1].
+ ou ele chama a função [kernel32!GetProcAddress explicitamente [1].
 
 Para conseguir saber as funções das quais um executável obtém o endereço através da primeira técnica podemos utilizar o mundialmente famoso Dependency Walker, mas não costuma funcionar muito bem com _trojans_, pois eles capotam antes que alguma coisa interessante ocorra.
 

@@ -5,15 +5,15 @@ date: 2004-03-01
 ---
 _wanderley.caloni at bitforge com br_
 
-<img src="https://i.imgur.com/ULSCx4o.png" style="float: left; margin: 24px;"/>__Wanderley Caloni__ é um programador C/C++ especializado em __backend para Windows__ que decidiu ter seu próprio blogue técnico. Tenta mantê-lo atualizado com suas peripécias do dia-a-dia. Colaborador frequente do Grupo C/C++ Brasil, foi junto de Rodrigo Strauss](http://www.1bit.com.br/) um dos fundadores e participante do primeiro encontro de programadores C++](http://groups.google.com/group/ccppbrasil) de São Paulo. Trabalhou por dez anos na área de __Segurança da Informação__, principalmente no Controle de Acesso a Usuários](http://www.scua.com.br) e Análise de Trojans. Em seguida trabalhou em projetos de desenvolvimento para a __[Área Financeira__, vindo a ser sócio de uma [empresa especializada. Hoje é um dos sócios da __[BitForge__, uma empresa que auxilia equipes de desenvolvimento em problemas complexos, seja em arquitetura, metodologias ou escovação de bits, mesmo.
+ e Análise de Trojans. Em seguida trabalhou em projetos de desenvolvimento para a __[Área Financeira__, vindo a ser sócio de uma [empresa especializada. Hoje é um dos sócios da __[BitForge__, uma empresa que auxilia equipes de desenvolvimento em problemas complexos, seja em arquitetura, metodologias ou escovação de bits, mesmo.
 
 De 2013 a 2018 foi nomeado __MVP (Most Valued Professional)__ pela Microsoft, um prêmio em consideração pelas colaborações à comunidade C/C++.
 
-Seu principal hobby é ser __cinéfilo inveterado__, tendo mantido desde 2010 um blogue](http://cinetenisverde.com.br) com textos sobre filmes e séries, e desde 2014 é colaborador do [CinemAqui, escrevendo geralmente sobre pré-estreias de filmes alternativos.
+ com textos sobre filmes e séries, e desde 2014 é colaborador do [CinemAqui, escrevendo geralmente sobre pré-estreias de filmes alternativos.
 
 Desde 2007 estuda e administra suas finanças pessoalmente, desde títulos públicos a bolsa de valores, o que o fez estudar massivamente sobre o tema, além de se enveredar pelas ciências econômicas como leitor assíduo. Atualmente é defensor da __Escola Austríaca de Economia__ como a única capaz de analisar e prever movimentos econômicos com precisão aceitável, o que o fez também estudar sobre ação humana e filosofia, seguindo a moral objetivista de __Ayn Rand__, que valoriza o uso da mente acima de tudo.
 
-Ele costuma dar pitacos sobre todos esses temas e outros mais em seu twitter pessoal](http://twitter.com/#!/caloni). Há outros [links úteis por aqui.
+. Há outros [links úteis por aqui.
 
 Se quiser entrar em contato comigo use o bom e velho email: wanderley.caloni@bitforge.com.br.
 

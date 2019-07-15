@@ -3,7 +3,7 @@ date: "2009-08-18"
 title: 'O boot no Windows: sem Windows'
 categories: [ "code" ]
 ---
-!raios-torre-eiffel.jpg](http://i.imgur.com/r5TyVcK.jpg)Desde quando o usuário liga o computador até o momento em que ele vê a barra de tarefas e aqueles fundos lindos de papel de parede](http://www.baixaki.com.br/download/windows-7-rc-official-wallpapers.htm) existem diversas coisas sendo feitas por debaixo do pano. Essa série de artigos irá explicar essas diversas coisas, ou seja, como funciona e quais as fases do _[boot _de uma máquina que possui Windows instalado ([plataforma NT.
+ existem diversas coisas sendo feitas por debaixo do pano. Essa série de artigos irá explicar essas diversas coisas, ou seja, como funciona e quais as fases do _[boot _de uma máquina que possui Windows instalado ([plataforma NT.
 
 O que esses artigos **não vão fazer muito bem** é explicar o lado do _kernel mode_ funcionando, até porque temos artigos melhores explicando esse ponto de vista. Essa é uma abordagem mais _"high level_", apesar de _"low enough_". No entanto, espero que seja divertido. É esse o mais importante requisito em qualquer aprendizado, certo? Let's go!
 
@@ -62,7 +62,7 @@ Agora chegamos em todos os passos iniciais realizados antes de entrar em cena o 
 
 Todos os componentes principais desse boot podem ser visualizados de uma forma bem macro na figura abaixo.
 
-!boot.png
+boot.png
 
 Alguns detalhes sórdidos que podem fazer alguma diferença para você, desenvolvedor de sistemas operacionais, um dia desses:
 
@@ -80,7 +80,7 @@ Alguns detalhes sórdidos que podem fazer alguma diferença para você, desenvol
 
 #### Depurando a pré-história do boot
 
-Para detectar problemas de hardware, a BIOS pode ajudar com seus beeps significativos](http://pt.wikipedia.org/wiki/POST). Isso aparentemente parece ser o fim da picada, mas não é. O [DQ.
+. Isso aparentemente parece ser o fim da picada, mas não é. O [DQ.
 
 Se for detectar algum problema no sistema de boot baseado em MBR, então você tem dois caminhos:
 

@@ -41,7 +41,7 @@ _Essa dica é mais para weblogs de fato. Eu passo._
 
 	
   9. Escolha alguns autores favoritos ou celebridades e crie um feed no Google News, acompanhando novas menções a eles. Assim, outros fãs podem segui-los através do seu blog.
-_Você pode seguir os que sigo através da minha Home Page](http://www.caloni.com.br). Eventualmente compartilho posts através do [Google Reader._
+. Eventualmente compartilho posts através do [Google Reader._
 
 	
   10. Reindique seus links favoritos de tempos em tempos para quem os perdeu, esquece ou o está lendo pela primeira vez.

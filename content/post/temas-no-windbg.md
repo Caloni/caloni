@@ -3,7 +3,7 @@ date: "2008-01-14"
 title: Temas no WinDbg
 categories: [ "blog" ]
 ---
-!WinDbg Workspace (Visual Studio like)](http://i.imgur.com/X3IFGZb.thumbnail.png)Desde a versão [6.4.7.2.
+Desde a versão [6.4.7.2.
 
 #### Primeira coisa: limpe todos seus dados
 

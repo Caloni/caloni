@@ -25,7 +25,7 @@ Essa ferramenta teve seus dias de glória quando a maioria dos _crackers _a util
 
 O SoftICE deve ser instalado na máquina do desenvolvedor para gerar os símbolos dos programas e na máquina que vai ser depurada para depurar. Isso quer dizer que ele não precisa ser ativado na máquina do desenvolvedor. Só precisamos usar uma ferramenta chamada **Symbol Loader**, responsável por gerar símbolos e empacotar os fontes para serem usados na máquina depurada.
 
-!Instalação do SoftICE
+Instalação do SoftICE
 
 Na hora de instalar, você tem três opções:
 
@@ -55,7 +55,7 @@ Se tudo der certo no final teremos dois arquivos a serem copiados para a máquin
 
 Depois de copiados e o _driver_ instalado, insira pelo Symbol Loader o arquivo NMS na lista de símbolos a serem carregados no _reboot._ Após configurar o depurador como lhe aprouver basta reiniciar a máquina. Feito o _reboot_, existe uma tecla mágica que irá nos levar para o mundo da tela preta, o ambiente padrão do SoftICE: **Ctrl + D**.
 
-!SoftICE
+SoftICE
 
 A interface é divida em pseudojanelas que ficam organizadas em camadas. Para exibir/esconder as janelas ou especificar o tamanho de uma delas usa-se o comando **w**. Aliás, basta começar a digitar um comando e o programa irá listar os comandos possíveis.
 

@@ -5,7 +5,7 @@ categories: [ "blog" ]
 ---
 Como já foi avisado anteriormente (mas agora com local definido), nosso próximo encontro acontecerá em São Paulo (capital) dia 25 de Novembro de 2017 (sábado), no Station Vila Olímpia. Teremos uma sala equipada para palestras e coffe-break de manhã e de tarde. Mais detalhes no hot site do evento:
 
-!
+
 
 ### Inscrições
 

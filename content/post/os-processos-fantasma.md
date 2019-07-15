@@ -24,7 +24,7 @@ Estava eu outro belo dia tentando achar um problema em um driver que controla cr
 
 Analisando pelo Gerenciador de Tarefas, podemos detectar que o único processo de pé possui o PID (Process ID) do último elemento de nossa lista, curiosamente o único com um contador de handles diferente de zero.
 
-!unico-explorer-no-sistema.PNG
+unico-explorer-no-sistema.PNG
 
 Lembrando que 1940 em hexadecimal é 0x794, exatamente o valor deixado em destaque na lista acima, e reproduzido abaixo:
 

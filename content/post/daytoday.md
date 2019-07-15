@@ -5,11 +5,11 @@ categories: [ "blog" ]
 ---
 O DayToDay é um projetinho que criei para fazer tracking das minhas atividades diárias. Eu o criei há mais de 6 anos, e provavelmente se tivesse pensado em como isso seria útil para as pessoas compartilharem suas ideias e limitasse o número de caracteres para 140, estaria rico hoje.
 
-!daytoday1.png
+daytoday1.png
 
 O "conceito" é bem simples: executo o programa, ele exibe um campo texto para digitar o que estou fazendo, digito <enter> ou clico no botão de OK e ele fecha. O que eu digitei cai em um arquivo texto com o mesmo nome do programa.
 
-!daytoday2.png
+daytoday2.png
 
 Algumas "features" avançadas que é bom saber:
 

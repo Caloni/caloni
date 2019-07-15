@@ -43,7 +43,7 @@ No desenvolvimento de _software_ a organização é um dos pilares que irá tran
 
 A dificuldade com que muitos programadores C têm com essas duas características da linguagem fizeram com que fosse dedicado um capítulo inteiro para explicar e reexplicar como os _arrays_ (vetores) e ponteiros funcionam e qual a relação intrínseca entre eles. É também explicada a relação _strings_ x _arrays_, já que em C uma _string_ é uma cadeia de caracteres.
 
-!Pointer to Vector
+Pointer to Vector
 
 Se você programa em C e até hoje tem dificuldades para entender completamente esse assunto, sugiro que largue o que você está fazendo agora e leia esse capítulo até o final. Será bem mais proveitoso que ficar zanzando no meio de um monte de blogues (como este aqui.
 
@@ -53,7 +53,7 @@ A estrutura é uma composição complexa em C, mas permite um organização melh
 
 Aparentemente o tema estrutura é mais simples que ponteiros, e deveria ser tratado antes. Porém, fazer isso impediria abordar o tema de listas ligadas e outras estruturas que dependem do uso de ponteiros para que estruturas referenciem elas mesmas, algo extremamente recorrente no mundo da programação.
 
-!Binary Tree
+Binary Tree
 
 É sempre bom lembrar que o uso de estruturas foi o nascimento do C++, que prima pela elegância na organização e harmonia entre seu código e dados. A linguagem C também não fica para trás, mas é importante saber usar.
 

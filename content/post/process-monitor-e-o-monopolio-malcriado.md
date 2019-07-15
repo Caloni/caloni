@@ -3,7 +3,7 @@ date: "2008-02-05"
 title: Process Monitor e o monopólio malcriado
 categories: [ "code" ]
 ---
-!MonopolyUma das primeiras regras que aprendemos para manter a integridade do Windows é utilizá-lo somente com a conta de usuários restritos, o que evitaria, por exemplo, que um programa mal-intencionado instale um serviço ou _driver_, que teriam acesso às partes íntimas do sistema operacional.
+MonopolyUma das primeiras regras que aprendemos para manter a integridade do Windows é utilizá-lo somente com a conta de usuários restritos, o que evitaria, por exemplo, que um programa mal-intencionado instale um serviço ou _driver_, que teriam acesso às partes íntimas do sistema operacional.
 
 Essa é uma regra básica, mas não é fácil de cumpri-la.  Só quem já tentou fazer isso sabe do que estou falando. Inúmeros programas mal-escritos vão tentar, de uma hora pra outra, acessar áreas do sistema de arquivos e registro que não possuem acesso, pois agora estão rodando em uma conta mais restrita. E não são programas de administração ou manutenção do sistema. Estou falando de programas de escritório e jogos. Aqui vai um singelo exemplo que tive que lidar esse fim-de-semana.
 
@@ -11,7 +11,7 @@ Essa é uma regra básica, mas não é fácil de cumpri-la.  Só quem já tentou
 
 Primeiramente, quero deixar bem claro que jogamos Monopoly por mais ou menos dois meses sem ter qualquer tipo de problema, em três computadores diferentes. Até que resolvemos usar uma conta mais restrita. Foi o bastante para o programinha inocente começar a chiar.
 
-!Monopoly Crash
+Monopoly Crash
 
 Mau garoto. Bons tempos em que quando um jogo travava o máximo que tínhamos que fazer era apertar um botão.
 
@@ -21,19 +21,19 @@ Sua função é mostrar tudo, absolutamente tudo que o sistema está fazendo em 
 
 É por isso que ele vem "de fábrica" já com uma série de filtros, que evitam lotar o log de eventos com informação sempre gerada pelo sistema, mas quase sempre inútil. Além dos filtros-padrão, podemos inserir nossos próprios filtros. É isso que faremos aqui para pegar o monopólio malcriado (sem trocadilhos).
 
-!Procmon Filter
+Procmon Filter
 
 Como podemos ver, iremos mostrar em nosso log todos os eventos cujo nome do processo seja monopolyclassic.exe (o nosso amigo faltoso) e iremos excluir do log qualquer evento cujo resultado tenha sido sucesso (se deu certo, provavelmente não é um erro).
 
 Executamos novamente o jogo, dessa vez com o Process Monitor capturando todos seus movimentos.
 
-!Monopoly Crash
+Monopoly Crash
 
 Agora, uma pequena ressalva: eu estou cansado de ver isso, mas para quem nunca viu, pode não ser tão óbvio. Como eu disse no início do artigo, programas mal-escritos costumam tentar acessar áreas do sistema que não são acessíveis para usuários comuns. Isso quer dizer que, se o problema que está acontecendo com o jogo tem a ver com essa peculiaridade, a primeira coisa a procurar é por erros de acesso negado.
 
-!Monopoly Access Denied
+Monopoly Access Denied
 
-!Monopoly Access Denied 2
+Monopoly Access Denied 2
 
 A primeira busca retorna uma chave no registro referente às propriedades de _joystick_. Como não estou usando _joysticks_, podemos ignorar este erro por enquanto e passar adiante.
 
@@ -69,13 +69,13 @@ Como podemos ver, o que é muito natural, um arquivo dentro da pasta de instala�
     
     C:\Arquivos de programas\GameHouse\Monopoly Classic>start monopolyclassic.exe
 
-!Monopoly
+Monopoly
 
 Ora essa, estou conseguindo rodar o jogo! Isso quer dizer que nosso único problema, o acesso a esse arquivo, foi resolvido. Sabendo que um arquivo de log provavelmente não será executado por nenhuma conta privilegiada, podemos deixá-lo com acesso irrestrito para todos.
 
 Para ter certeza que isso resolveu o problema, uma segunda auditoria de execução executada pelo Process Monitor pode nos revelar mais detalhes.
 
-!Monopoly
+Monopoly
 
     
     MonopolyClassic.exe QueryStandardInformationFile C:\Documents ...\Monopoly\save.gcf SUCCESS

@@ -3,7 +3,7 @@ date: "2013-11-07"
 title: Ponto Flutuante Afundando
 categories: [ "code" ]
 ---
-Quando armazenamos valores monetários em doubles seus cálculos conseguem manter a precisão e na maioria das vezes o ajuste de precisão funciona. Porém, encontrei alguns casos onde a subtração de dois valores fazia "perder" um centavo (ou comparações exatas) justamente pela limitação da precisão do ponto flutuante. Nesse exemplo os valores são 2.358,93 - 1.386,93, que em uma conta de padaria (mas correta) dá 972,00 (até a Calc do Windows](http://www.codinghorror.com/blog/2009/01/if-you-dont-change-the-ui-nobody-notices.html) e [o Excel, mas pelo Visual Studio 2010 chega perto, mas erra o alvo:
+ e [o Excel, mas pelo Visual Studio 2010 chega perto, mas erra o alvo:
 
 ```cpp
 #include <iostream>
@@ -30,7 +30,7 @@ int main()
 
 Isso ocorre porque sua representação dentro da variável double é diferente de 272.0 do outro double. Depurando vemos mais claramente:
 
-!Ponto Flutuante Afundando
+Ponto Flutuante Afundando
 
 Ou seja, quando fazemos a subtração de d2 em d1, nossa precisão raspa um pouquinho e escapa pela beirada:
 
@@ -44,7 +44,7 @@ Ou seja, quando fazemos a subtração de d2 em d1, nossa precisão raspa um pouq
 
 Na comparação com o valor redondo aparece a falha, mas note que isso não ocorre com os outros valores d1 e d2, já que o armazenamento adquire o mesmo formato:
 
-!Ponto Flutuante Afundando (2)
+Ponto Flutuante Afundando (2)
 
 ##### Corrigindo o incorrigível
 

@@ -11,7 +11,7 @@ Entre as mudanças mais esperadas, e entre as mais inesperadas, encontramos essa
 
 Hoje em dia é um trabalho um pouco tedioso encontrar qual dos drivers possuía a memória de endereço 0xB8915423, mas agora, juntando o interpretador de símbolos internos e o sistema de tooltips do Windbg, será possível passar o mouse sobre um endereço qualquer e ele mostrará imediatamente quem possui a memória, como ela foi alocada e qual seu conteúdo.
 
-!windbg-tooltips.png
+windbg-tooltips.png
 
 Isso só é possível, é claro, com os símbolos corretamente carregados. Algo não muito difícil se você seguir as recomendações de John Robbins. E é uma mão na roda na hora de dar um feedback instantâneo para o suporte técnico quando der uma tela azul.
 

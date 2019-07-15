@@ -3,7 +3,7 @@ date: "2015-09-12"
 title: É o fonte, idiota!
 categories: [ "blog" ]
 ---
-Saiu um artigo recente](http://blogs.msdn.com/b/oldnewthing/archive/2015/09/11/10640979.aspx) no The Old New Thing (thanks Strauss. Como compartilhar código cujo fonte esteja indisponível e cujas bibliotecas sejam incompatíveis porque o projeto não é atualizado há dois pares de anos? Fiz uma vez [um artigo. No entanto, essa é uma solução sub-ótima para um problema latente.
+ no The Old New Thing (thanks Strauss. Como compartilhar código cujo fonte esteja indisponível e cujas bibliotecas sejam incompatíveis porque o projeto não é atualizado há dois pares de anos? Fiz uma vez [um artigo. No entanto, essa é uma solução sub-ótima para um problema latente.
 
 É por isso que nesse caso a cultura Linux de compartilhamento do código-fonte acaba por ser a mais flexível e melhor adaptável à mudança dos tempos. Se você encontrou uma LIB que pode te ajudar, baixe e compile usando o último compilador. Se o compilador não consegue mais gerar binário sem gerar erros antes, configure os parâmetros de compilação como eram na época que a LIB foi gerada. A _runtime_ do C (e de qualquer outro _framework_) que será usado é o da sua máquina. Afinal de contas, é o que faz mais sentido, não? Por que hoje existem diferentes conjuntos de DLLs de _runtime_ de diferentes versões do Visual Studio instalados em sua máquina? Por que os instaladores precisam se preocupar em compartilhar essas DLLs corretamente?
 

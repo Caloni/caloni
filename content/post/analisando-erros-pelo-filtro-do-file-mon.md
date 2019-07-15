@@ -3,7 +3,7 @@ date: "2015-05-06"
 title: Analisando erros pelo filtro do File Monitor
 categories: [ "blog" ]
 ---
-!
+
 
 As ferramentas da SysInternals fazem a gente economizar um tempo considerável na resolução de problemas. Não que elas sejam indispensáveis. Tudo que elas fazem é encurtar o caminho entre a análise de um _bug_ e sua resolução, o que acaba sendo muito se considerarmos que programação é 20% codificação e 80% transpiração. Ela é um atalho para muitas coisas, desde achar uma ordem de _includes_ no _header_ errada durante a compilação ou descobrir que por que um processo morreu durante o login.
 
@@ -13,7 +13,7 @@ Curiosamente ambos os exemplos que citei são de uma mesma ferramenta: Process M
 
 A __SoSo Company__ é uma empresa criada na China e que possui programadores muito bons. Eles são altamente especializados em fazer instaladores, e nas horas vagas ainda fritam pastéis de frango (ou "flango", como os nativos costumam chamar). Porém, alguma coisa está acontecendo com uma nova versão do instalador que está dando erro ao rodar o aplicativo após atualizado.
 
-!
+
 
 Isso só acontece em algumas máquinas, na maioria delas tudo funciona perfeitamente. Tanto que esse erro só foi encontrado depois de centenas máquinas terem sido atualizadas. E o primeiro a descobrir esse erro foi um cliente muito importante para a Soso. Entre as máquinas desse cliente muito importante, o erro foi acontecer justamente na máquina do CEO da empresa. (Qualquer semelhança com a vida real não é mera coincidência.)
 
@@ -97,13 +97,13 @@ void Version2()
 
 Como já vimos, o instalador da SoSo não está muito preocupado em capturar erros. Haja o que houver, o mundo continua maravilhoso. Porém, depois da atualização esse erro explodiu na máquina do diretor. E agora?
 
-!
+
 
 Sem saber muito bem o que fazer, mas com a possibilidade de testar a situação em uma nova máquina (de outro diretor), Juquinha resolveu rodar novamente o instalador, mas dessa vez com a companhia do ProcMon.
 
 Depois disso, para efeito de comparação, rodou o instalador em uma máquina qualquer onde a atualização funciona.
 
-!
+
 
 _Dica: Quando for comparar muitos eventos (ex: milhares), em vez de olhar um por um é mais fácil exportar para um CSV e deixar um comparador como o [WinMerge}(http://winmerge.org/) fazer o serviço. No entanto, para comparar muitas informações, algumas colunas precisam ser eliminadas, como o horário de execução dos eventos e o PID dos processos._
 
@@ -111,7 +111,7 @@ E voilà! Parece que alguém está bloqueando a atualização de mydll, embora m
 
 Agora, se Juquinha é um analista de nível 1, ele precisará compartilhar suas descobertas com outras pessoas da equipe. Para isso, basta duplo-clicar em um evento e usar o botão de cópia:
 
-!
+
 
 O resultado é um texto com todas as informações necessárias para uma análise aprofundada.
 
@@ -131,8 +131,8 @@ ShareMode:	None
 AllocationSize:	65,024
 ```
 
-OK, mas onde está o problema? Bom, aqui começa a pesquisa](http://lmgtfy.com/?q=CreateFile+SHARING+VIOLATION), mas se você já programou para Windows API já há algum tempo sabe que alguém abriu esse arquivo antes com um modo de compartilhamento incompatível com uma escrita (que é o que o nosso instalador tenta fazer). Para saber quem é o culpado, mais uma ferramenta da SysInternals vem a calhar: [Process Explorer.
+. Para saber quem é o culpado, mais uma ferramenta da SysInternals vem a calhar: [Process Explorer.
 
-!
+
 
 Nesse caso o culpado se mostrou mais próximo do que imaginávamos. O myanotherapp.exe fica bloqueando a dll no momento da atualização! Na verdade, o grande culpado foi mesmo o programador desse instalador, que sequer tem ideia das centenas de erros que podem ocorrer durante uma instalação/atualização. Azar do suporte técnico desse produto =/

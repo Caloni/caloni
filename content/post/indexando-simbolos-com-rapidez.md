@@ -5,7 +5,7 @@ categories: [ "blog" ]
 ---
 Trabalhar com inúmeros projetos de diferentes clientes e diferentes binários pode ser uma loucura. Quando o mundo é Windows, algumas medidas precisam ser padronizadas para evitar a perda de informação durante todo o processo de desenvolvimento, testes, deploy e manutenção.
 
-A respeito do deploy e manutenção, um dos principais é manter o código sempre atualizado, limpo e asseado, além de estar dentro de pelo menos um controle de fonte, de preferência distribuído (Mercurial](http://caloni.com.br/guia-basico-de-controle-de-codigo-mercurial), Git, [Bazaar.
+, Git, [Bazaar.
 
 Porém, voltando ao mundo Windows, os fontes não são apenas a única fonte de preocupação e zelo. Os binários também são importante. Binários eu digo os EXEs, DLLs geradas, além dos seus símbolos (PDBs), que contém o mapa entre aquele monte de 1s e 0s e o código-fonte de onde ele saiu.
 
@@ -18,13 +18,13 @@ rc_new_content = re.sub(u'^.*FILEVERSION.*$', file_version_string, rc_new_conten
 
 Quando algum binário parar na máquina de algum cliente em algum lugar do universo, basta olhar para os detalhes pelo Windows Explorer, e ele estará lá:
 
-!
+
 
 Através desse a2f3c... podemos capturar o commit exato de onde saiu o binário. Tudo, é claro, confiando no procedimento de toda a equipe: apenas gerar um binário a partir de um commit publicado.
 
 Você também pode exibir a versão dos binários em uma pasta através das colunas do Windows Explorer:
 
-!
+
 
 ### Indexando símbolos e binários
 
@@ -36,7 +36,7 @@ Para resolver isso, o mínimo que se deve fazer é super-simples e nada difícil
 "c:\Tools\DbgTools(x86)\symstore" add /r /f <MINHA-PASTA-COM-BINÁRIOS> /s c:\Tools\Symbols /t "IndexSymbols"
 ```
 
-Essa e outra técnicas de indexar fontes e binário você pode ver no meu projeto](https://github.com/Caloni/GitIndex), artigo](http://caloni.com.br/depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github), [palestra e [vídeo de demonstração. Se você for cego, ainda tem a vantagem da áudio-narração do vídeo. Brincadeira, ainda não temos isso.
+, [palestra e [vídeo de demonstração. Se você for cego, ainda tem a vantagem da áudio-narração do vídeo. Brincadeira, ainda não temos isso.
 
 ### Simplificando
 
@@ -53,7 +53,7 @@ Windows Registry Editor Version 5.00
 
 Você pode baixar um arquivo reg aqui, copiar as linhas acima em um .reg que você gerar, ou simplesmente seguir o passo-a-passo dessas linhas e gerar seu próprio registro. Após feito isso, surgirá um novo comando para qualquer DLL que você clicar com o outro botão do mouse:
 
-!
+
 
 Você também pode gerar o mesmo comando para EXEs, bastando realizar o mesmo passo-a-passo na pasta **exefile** em vez de **dllfile**.
 

@@ -5,11 +5,11 @@ categories: [ "blog" ]
 ---
 Pelo menos é a mais rápida:
 
-!VisualStudioWithVim1-3
+VisualStudioWithVim1-3
 
-!VisualStudioWithVim2-3
+VisualStudioWithVim2-3
 
-!VisualStudioWithVim3-3
+VisualStudioWithVim3-3
 
 **Observações Finais:**
 

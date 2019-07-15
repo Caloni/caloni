@@ -9,7 +9,7 @@ No meio dos meus artigos pendentes, encontrei esse, de Luiz Rocha, que fala sobr
 
 Já leio o seu site a algum tempo. Realmente acho complicado, alguns eu nem entendo =D.  Mais eh o seguinte, eu estou montando um projeto, mas eu não entendo nada de trabalhar com binários. Então pesquisei na internet, e achei um algoritmo que pode me ajudar, na lógica. É o base64 mas eu não entendi como ele converte e desconverte em binário. Será que vc pode me ajudar, obrigado!!"</blockquote>
 
-Não é a primeira pessoa que pede informações sobre algo específico demais para explicar (para isso existe a Wikipedia](http://en.wikipedia.org/wiki/Base64) e o [Google. No meio da minha escrita, percebi que já havia escrito sobre os fundamentos do conhecimento por trás da criação do Base64, conhecimento esse, acredito eu, todo programador que quer sair do lugar com os próprios pés deve ter.
+ e o [Google. No meio da minha escrita, percebi que já havia escrito sobre os fundamentos do conhecimento por trás da criação do Base64, conhecimento esse, acredito eu, todo programador que quer sair do lugar com os próprios pés deve ter.
 
 	
   * Básico do básico: assembly
@@ -48,7 +48,7 @@ Até porque na programação, 90% não se cria, se copia.
 
 Imaginemos o cenário para a criação do Base64:
 
-Alguns meios de comunicação, notadamente envio de e-mails](http://pt.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) e a [navegação web, por incrível que pareça, trabalham em um protocolo totalmente em modo texto. É até fácil de entender, pois quando essas tecnologias nasceram as limitações de velocidade e estabilidade das conexões permitiam apenas o envio de texto puro de uma ponta a outra.
+ e a [navegação web, por incrível que pareça, trabalham em um protocolo totalmente em modo texto. É até fácil de entender, pois quando essas tecnologias nasceram as limitações de velocidade e estabilidade das conexões permitiam apenas o envio de texto puro de uma ponta a outra.
 
 Isso quer dizer que, na prática, os anexos de um e-mail e as imagens de uma página trafegam, pelo protocolo definido, em modo texto.
 

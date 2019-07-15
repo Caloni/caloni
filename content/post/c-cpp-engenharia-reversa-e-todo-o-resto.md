@@ -3,7 +3,7 @@ date: "2015-04-27"
 title: C, C++, Engenharia Reversa e Todo o Resto
 categories: [ "blog" ]
 ---
-!
+
 
 "C++ é divertido, mas não paga minhas contas". Por diversas coincidências da natureza, e um bocado de empenho deste que vos fala, essa frase não precisa ser dita por mim. Tendo programado em casa por 2 ou 3 anos e lido The C Programming Language, e onde precisa-se comer muita farinha com sintaxe para construir coisas decentes. Portabilidade às vezes é um objetivo, às vezes é deixado de lado. A API Win32 já é bruta demais, e o cliente sempre tem um prazo apertado demais.
 

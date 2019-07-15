@@ -40,11 +40,11 @@ No exemplo acima, o valor de pi não pode mais ser alterado. Só que repare que 
     // desde que qualifique corretamente meu ponteiro
     const float* ppi = & pi;
 
-!const-memory.png
+const-memory.png
 
 Teoricamente a região da memória que contiver uma variável const pode ser qualificada pelo sistema operacional como somente-leitura, mas isso não é uma obrigação. É obrigação do compilador avisar sobre tentativas de alteração da variável no meio do programa, mas nem sempre é possível enxergar que a memória não é alterável. Dessa forma, resultados imprevisíveis podem ocorrer.
 
-!const-gpf.png
+const-gpf.png
 
 #### Uso prático
 
@@ -81,11 +81,11 @@ int func2(int y)
 
 O significado do volatile teoricamente muda de implementação para implementação, mas na prática é uma forma de definir uma variável que está sendo acessada por outros programas/threads/entidades espíritas que podem alterar o seu valor sem seu programa notar quando.
 
-!Se concentre! Não é esse tipo de volatile!
+Se concentre! Não é esse tipo de volatile!
 
 O exemplo clássico da API Win32 é o InterlockedIncrement, que realiza operações atômicas em valores inteiros. Para fazer isso é necessário usar um recurso interno disponível pelo processador que irá modificar a memória sem intrusão de outras threads/processadores.
 
-!interlocked-increment.png
+interlocked-increment.png
 
 #### Uso prático
 
@@ -99,6 +99,6 @@ Variáveis volatile geralmente interagem de alguma forma com o sistema em que ro
     /// endereça o relógio do sistema, atualizado a cada 1/100 milissegundos
     const volatile int* g_systemClock = (const volatile int*) 0x7689B9D4;
 
-!mutante.jpg 
+mutante.jpg 
 
 A definição de *g_systemClock é de uma memória que não pode ser alterada; só que ela é, pelo sistema. Então a variável também é volatile. No entanto, independente de ser const ou volatile, o tipo nunca será **alterado**, apenas **qualificado**. São duas coisas diferentes na linguagem.

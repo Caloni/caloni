@@ -5,7 +5,7 @@ categories: [ "blog" ]
 ---
 Muitas vezes uma solução intuitiva não é exatamente o que esperamos que seja quando o código está rodando. Gerar IDs únicos, por exemplo. Se você analisar por 5 minutos pode chegar à conclusão que um simples GetTickCount, que tem resolução de clock boa e que se repete apenas depois de 50 dias pode ser um ótimo facilitador para gerar IDs exclusivos durante o dia.
 
-!
+
 
 Porém, nada como código para provar que estamos errados:
 

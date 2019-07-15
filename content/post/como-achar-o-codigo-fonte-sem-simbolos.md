@@ -345,6 +345,6 @@ Service+0x68a6
 
 E, agora sim, encontramos o culpado!
 
-!
+
 
 Mais para a frente em minha análise consegui encontrar o objeto pelo qual todas as threads esperavam. Não tive tanta sorte, pois se tratava de um mutex, e mutexes não conseguem ser rastreados tão facilmente em user mode. Mas isso não vem ao caso. O que tentei descrever aqui foi mais ou menos o processo que você deverá seguir caso tenha que analisar um binário compilado em outras vidas. Espero que você tenha tanta sorte quanto eu.

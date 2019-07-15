@@ -22,7 +22,7 @@ Entre esses eventos podemos citar os seguintes:
     
   * Saída do processo
 
-No caso de se conectar em um processo já existente, é chamada a função da API DebugActiveProcess](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fmsdn2.microsoft.com%2Fen-us%2Flibrary%2Fms679295.aspx&ei=cqDERvWoA4GKerippJ0M&usg=AFQjCNFzrdQ83SQzTQxBiT9iEauTFyUPcA&sig2=4p-HOh1Wk6uhDYD0ceEMDw). A partir dessa chamada, se retornado sucesso, o processo que depura agora está liberado para ficar chamando continuamente a função API [WaitForDebugEvent. E o código se resume a isto:
+. A partir dessa chamada, se retornado sucesso, o processo que depura agora está liberado para ficar chamando continuamente a função API [WaitForDebugEvent. E o código se resume a isto:
 
 ```cpp
 void DebugLoop()
@@ -158,7 +158,7 @@ Os passos para testar o código acima são:
 
 Após o processo de _attach_, a porta de _debug_ é ocupada, e a comunicação entre depurador e depurado é feita através do LPC. Abaixo uma pequena ilustração de como as coisas ocorrem:
 
-!Como funciona o LPC
+Como funciona o LPC
 
 Basicamente o processo fica recebendo eventos de _debug_ (através da fila de mensagens LPC) continuamente até o evento final, o de final de processo. Note que se alguém tentar derrubar o processo que depura o processo depurado cai junto.
 

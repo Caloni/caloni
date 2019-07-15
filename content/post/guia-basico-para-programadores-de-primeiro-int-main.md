@@ -95,25 +95,25 @@ Para concluir, vamos dar uma espiada nas estruturas de comparação de um progra
 
 #### _if_
 
-!If
+If
 
 _If_ significa "se", ou seja, faz uma **comparação**, e retorna se a comparação é verdadeira (sim!) ou não (não!). Porém, o _if_ apenas faz alguma coisa se o resultado for sim.
 
 #### _else_
 
-!Else
+Else
 
 _Else_ significa "senão", ou seja, é o complemento do _if_. Lembra-se que o _if_ só faz alguma coisa se o resultado da comparação for sim? Pois bem, o _else_ permite fazer outra coisa se o resultado for não.
 
 #### _while_
 
-!While
+While
 
 _While_ significa "enquanto", e é o nosso primeiro exemplo de laço, ou _loop_. Um _loop_ faz constantemente a mesma coisa enquanto o resultado da comparação for sim. Uma vez que for não (pode ser a primeira, inclusive), ele não faz mais nada e o programa continua seu fluxo natural.
 
 #### _for_
 
-!For
+For
 
 _For_ significa "por", com o mesmo sentido que em "ele me chutou por 5 vezes seguidas". Ele pode ter muitos usos, mas o tradicional é fazer n vezes alguma coisa, sabendo que n é um número de vezes já conhecido. Nesse caso, o _loop_ serve apenas para repetir um determinado número de vezes uma ação, sem nunca variar esse número de vezes.
 
@@ -123,7 +123,7 @@ Programar não tem segredo. É tudo uma questão de gostar, aprender, executar, 
 
 #### Para saber mais
 
-  * Arquitetura de von Neumann](http://pt.wikipedia.org/wiki/Arquitetura_de_von_Neumann) - Wikipédia[
+ - Wikipédia[
   * Máquina de Turing - Wikipédia
   * A inteligência do if - parte 1
   * A inteligência do if - parte 2
@@ -133,7 +133,7 @@ Programar não tem segredo. É tudo uma questão de gostar, aprender, executar, 
   * Problemas de lógica - Revistas Coquetel
 
 	
-  * Introdução Ilustrada à Computação (Com Muito Humor)](http://www.sebol.com.br/detalhes.php?codigo=030872) - Larry Gonick ([original
+ - Larry Gonick ([original
 
 	
   * Curso de Linguagem C - UFMG

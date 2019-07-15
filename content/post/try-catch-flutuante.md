@@ -3,7 +3,7 @@ date: "2008-04-03"
 title: Try-catch flutuante
 categories: [ "code" ]
 ---
-Esse detalhe da linguagem quem me fez descobrir foi o **Yorick**, que costuma comentar](http://www.caloni.com.br/quando-o-ponteiro-nulo-nao-e-invalido#comment-345) no blogue e tive o prazer de conhecer no [4o. EPA-CCPP.
+ no blogue e tive o prazer de conhecer no [4o. EPA-CCPP.
 
 É possível, apesar de bizarro, colocar um bloco try-catch em torno da lista de inicialização de variáveis de um construtor. Essa característica da linguagem permite que possamos capturar alguma exceção lançada por algum construtor de algum membro da classe. A construção em código ficaria no estilo abaixo:
 

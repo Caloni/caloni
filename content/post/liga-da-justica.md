@@ -11,7 +11,7 @@ Há alguns bons minutos no começo de Liga da Justiça onde eu gostaria muito de
 
 Continuando a história vista em Batman Vs Superman, saiba que Superman nesse momento da história está morto. E quando digo "nesse momento" me refiro à máxima de que não existe morto permanente em filmes de super-heróis que não possa ser revertido, como chegaremos a testemunhas antes da metade da projeção, ou no final de qualquer trailer desse filme.
 
-A questão é que o diretor Zack Snyder precisa ter o time todo junto para conseguir mostrar como eles lutam tão bem quando estão juntos, embora cada um deles tenha objetivos diferentes. Para uni-los a história tem três cubos que eram guardados pelos três povos da Terra Média (ou algo assim), as Amazonas, os Molhados e os Seres Humanos. No grupo dos Molhados há o Aquaman. E para finalizar a equipe tem um rapaz que está se tornando andróide aos poucos. Pensei que ele fosse se tornar, ou seria responsável pelo surgimento, Brainiac, a IA de Krypton. Mas não, ele é apenas um rapaz aleatório negro para prencher cota. Com ele e com Flash piadista está completa (mais ou menos) uma trupe que pode servir como uma versão DC de Guardiões](/tags/guardioesdagalaxia), X-Men](/tags/xmen), [Vingadores ou [qualquer outro dos inúmeros grupos criados pela Marvel.
+, [Vingadores ou [qualquer outro dos inúmeros grupos criados pela Marvel.
 
 Só que com as cores drenadas.
 

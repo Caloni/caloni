@@ -3,7 +3,7 @@ date: "2010-01-25"
 title: House
 categories: [ "blog" ]
 ---
-Depois da analogia entre depuração e CSI](http://www.caloni.com.br/csi-crashed-server-investigation), nada como fazer o mesmo com o seriado [estilo House.
+, nada como fazer o mesmo com o seriado [estilo House.
 
 Quais as semelhanças com a profissão de programador-depurador?
 

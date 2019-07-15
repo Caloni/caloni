@@ -36,7 +36,7 @@ O motivo da thread nunca retornar (ou dar timeout), porém, não estava em nenhu
 
 Erros ao chamar a API do Win32 são comuns exatamente porque esta é uma lib arcaica, pouco intuitiva com diferentes tipos de exceções. No caso de uma operação assíncrona com overlapped, se você ler as tantas páginas da função ReadFile, por exemplo, vai acabar encontrando um adendo escondido no meio da documentação:
 
-!
+
 
 Este adendo
 

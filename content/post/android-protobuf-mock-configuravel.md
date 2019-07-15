@@ -64,6 +64,6 @@ if( ! BuildConfig.is_server_mock )
 
 O Android Studio tem um botão esperto em sua interface onde, depois de alterado o local.properties, é possível refazer o BuildConfig:
 
-!
+
 
 E com isso podemos ter o protocol buffers e um sistema de mock simples e prático para a depuração e testes locais com nosso app que vai revolucionar o mundo =)

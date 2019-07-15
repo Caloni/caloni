@@ -7,7 +7,7 @@ categories: [ "movies" ]
 stars: "4/5"
 
 ---
-Você sempre sai de um filme do diretor coreano Kim-Ki Duk (Fôlego](/movies/folego), Pieta](/movies/pieta), [Primavera Verão Outono Inverno e Primavera,  [Tipo Ruim pensativo. É uma marca deste cineasta não fechar as pontas e abrir mais algumas. "Time" faz isso, e faz de uma maneira que dá pra se divertir no processo.
+, [Primavera Verão Outono Inverno e Primavera,  [Tipo Ruim pensativo. É uma marca deste cineasta não fechar as pontas e abrir mais algumas. "Time" faz isso, e faz de uma maneira que dá pra se divertir no processo.
 
 Ele conta a história de um casal de namorados que após dois anos juntos estão sofrendo um certo desgaste. Ela acha que ele não liga mais para seu corpo e seu mesmo rosto enfadonho. Ela é linda. Ele é mulherengo e distraído. Ela é louca.
 

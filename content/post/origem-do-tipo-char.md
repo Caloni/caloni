@@ -3,7 +3,7 @@ date: "2015-01-26"
 title: Origem do tipo char
 categories: [ "code" ]
 ---
-!
+
 
 Programadores C e C++, preparem-se para explodir as cabeças!
 

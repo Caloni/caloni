@@ -10,7 +10,7 @@ desc: "Donnie Darko. (USA, 2001). Dirigido e escrito por Richard Kelly. Com Jake
 ---
 Quase 20 anos depois, Donnie Darko é um pequeno milagre dos filmes lado B de baixo orçamento. Com um elenco misteriosamente relevante -- vários atores se tornaram revelações -- e a profunda ideia de chacoalhar a sociedade americana com sua crítica às soluções imediatistas baseadas em pílulas, terapia e auto-ajuda, sua viagem no tempo é a cereja no bolo de uma história que não permite que coloquemos ou tiremos nada, mas que ao mesmo tempo permita tantas interpretações diferentes.
 
-Esta é uma versão dark e distorcida que mistura elementos de De Volta Para o Futuro](/de-volta-para-o-futuro) com [Efeito Borboleta. Por ser baixo orçamento, este é um trabalho bem mais solto, e nos leva a de fato questionar o que é está realidade que vivemos, em vez de simplesmente condená-la.
+ com [Efeito Borboleta. Por ser baixo orçamento, este é um trabalho bem mais solto, e nos leva a de fato questionar o que é está realidade que vivemos, em vez de simplesmente condená-la.
 
 Analise a questão comigo, e veja o que é melhor: um jovem morrer tragicamente em um acidente inexplicável ou seus 28 dias tortuosos e incômodos que se seguem se ele não tivesse morrido? Donnie Darko só nos permite saber dessa pergunta em sua revisita, mas da primeira vez o impacto é sentido de forma inconsciente pela sua música-tema, Mad World (mundo insano), tocada nos momentos finais do filme. Faz refletir ao mesmo tempo que consola. Agora é a hora que você vai no Spotify e dá play nessa música.
 

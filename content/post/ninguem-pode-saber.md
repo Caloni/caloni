@@ -15,4 +15,4 @@ Seu protagonista é o mais velho, que começa parecendo que será a criança que
 
 Isso porque o filme não consegue nos dar uma personalidade para eles. São apenas crianças jogadas em uma casa. No começo com a mãe presente não parece haver nada demais, e quando elas ficam sozinhas por muito tempo o drama se constrói, mas a única coisa que se sustenta é a espera de mudança.
 
-O cineasta Hirokazu Koreeda é famoso por filmes que nos inserem no cotidiano das famílias e que no processo nos faz descobrir que não existem famílias perfeitas, e isso visto do ponto de vista japonês é uma revolução e tanto. É dele filmes com temática humanista como Pais e Filhos, Assunto de Família, Depois da Vida](/depois-da-vida) e [Depois da Tempestade. Aqui ele está inserido em um bom tema com desenvolvimento que carece de melhor tratamento.
+ e [Depois da Tempestade. Aqui ele está inserido em um bom tema com desenvolvimento que carece de melhor tratamento.

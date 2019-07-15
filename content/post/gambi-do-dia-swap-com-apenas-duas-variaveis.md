@@ -160,4 +160,4 @@ int main()
     first: 13, second: 42
     first: 42, second: 13
 
-Bom, preciso dizer que isso é uma gambi das grossas? Preciso dizer que **NÃO** uso isso no meu dia a dia, até porque _swap_ é uma função já consagrada da STL](http://msdn.microsoft.com/library/en-us/vcstdlib/%20html/vclrfSwap_map.asp)? Não? Então sem _Postscript _dessa vez. E sem [bois-cornetas.
+? Não? Então sem _Postscript _dessa vez. E sem [bois-cornetas.

@@ -10,7 +10,7 @@ desc: "Star Wars: The Force Awakens (USA, 2015). Dirigido por J.J. Abrams. Escri
 ---
 Este reboot praticamente da saga vem com direito a todas as cotas possíveis e imagináveis. Daisy Ridley (mulher: check) faz a jedi que consegue fazer tudo em um episódio, desbancando Luke Skywalker e o resto da galáxia. John Boyega (negro: check) é um ex-stormtropper que possui o tom cômico que a série precisa, mas está cheio de draminhas pessoais e faz questão de envolver todos neles. Oscar Isaac tem essa faceta meio gay (check) e que eleva a ambiguidade entre triângulo amoroso e incesto do filme original para outro nível.
 
-E por falar no original, a aventura é exatamente a mesma de Uma Nova Esperança e um pouquinho de O Império Contra Ataca. O diretor e idealizador desse formato, J. J. Abrams, é especialista em reboots. Olhem a maravilha que ele fez em Star Trek](/star-trek)). E não podemos dizer que Missão: Impossível 3 não seja um reboot depois do [2 ter destruído esta bela franquia.
+. E não podemos dizer que Missão: Impossível 3 não seja um reboot depois do [2 ter destruído esta bela franquia.
 
 Mas este não é um filme sobre histórias, assim como toda a saga Star Wars nunca foi muito boa em narrativas (exceto a trilogia de George Lucas, que realiza um bonito pano de fundo para o universo). Este é um momento em que Star Wars renasce enfatizando seus valores mais preciosos: a força de fazer o que é certo porque é certo. E nós veremos isso em seu estado da arte na sequência, Os Últimos Jedi, o melhor filme de toda a saga do ponto de vista de aventura.
 

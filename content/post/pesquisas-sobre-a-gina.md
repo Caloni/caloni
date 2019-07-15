@@ -3,7 +3,7 @@ date: "2008-07-02"
 title: Pesquisas sobre a GINA
 categories: [ "blog" ]
 ---
-!250px-xp_windows_security.png](http://i.imgur.com/eNLvM3I.thumbnail.png)Já sabemos o que é uma [GINA. Afinal, todo mundo já viu uma antes. E sabemos que hoje em dia ela está morta.
+Já sabemos o que é uma [GINA. Afinal, todo mundo já viu uma antes. E sabemos que hoje em dia ela está morta.
 
 No entanto, algumas pequenas mudanças foram feitas nela no Windows XP que ainda almaldiçoam o código de quem tenta reproduzir a famosa GINA da Microsoft. Nem todos chegam no final e morrem tentando.
 
@@ -19,9 +19,9 @@ Após essa leitura picante, podemos voltar ao feijão com arroz e começar de no
   * A explicação documentada do MSDN de como funciona a interação entre Winlogon e GINA.
 
 	
-  * Um ótimo artigo dividido em duas](http://msdn.microsoft.com/en-us/magazine/cc163803.aspx) [partes que explica como fazer sua própria customização de GINA. Foi nele que encontrei o retorno que precisava para emular a execução do Gerenciador de Tarefas baseado na digitação do Ctrl + Alt + Del. De brinde ainda vem uma GINA de exemplo para _download_.
+ [partes que explica como fazer sua própria customização de GINA. Foi nele que encontrei o retorno que precisava para emular a execução do Gerenciador de Tarefas baseado na digitação do Ctrl + Alt + Del. De brinde ainda vem uma GINA de exemplo para _download_.
 
-A partir de mais algumas buscas e execuções do Process Monitor podemos encontrar os valores no registro que habilitam o Fast User Switching](http://www.pctools.com/guides/registry/detail/973/) e a [Tela de Boas Vindas do Windows XP. O valor da Tela de Boas Vindas é que habilita e desabilita a execução do Gerenciador de Tarefas baseado em Ctrl + Alt + Del. Esses itens são essenciais para os que quiserem criar uma réplica perfeita da GINA da Microsoft no Windows XP. Isso finaliza a minha busca.
+ e a [Tela de Boas Vindas do Windows XP. O valor da Tela de Boas Vindas é que habilita e desabilita a execução do Gerenciador de Tarefas baseado em Ctrl + Alt + Del. Esses itens são essenciais para os que quiserem criar uma réplica perfeita da GINA da Microsoft no Windows XP. Isso finaliza a minha busca.
 
 #### Será mesmo?
 

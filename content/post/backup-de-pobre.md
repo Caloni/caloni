@@ -24,7 +24,7 @@ Passado por esse _checklist_, podemos montar um esquema tão simples que qualque
 
 #### O mais poderoso copiador do mundo: xcopy
 
-Ele pode não parecer, mas é beeem mais antigo do que parece. Nós, veteranos, que possuímos mais anos de vida em frente ao monitor que gostaríamos de admitir (_copyright_  => DQ](http://www.cbrasil.org/wiki/index.php?title=DQuadros)), usávamos o xcopy para copiar pastas e disquetes inteiros no MS-DOS, um sistema operacional predecessor do Windows Vista que vinha em preto e branco e sem [User Account Control.
+, usávamos o xcopy para copiar pastas e disquetes inteiros no MS-DOS, um sistema operacional predecessor do Windows Vista que vinha em preto e branco e sem [User Account Control.
 
 No entanto, esse pequeno grande aplicativo sobreviveu todos esses anos, atingiu a maioridade, e hoje permite a nós, programadores de _mouse_, fazer nossos _backups_ com um simples arquivo de _batch_ e um pouco de imaginação.
 

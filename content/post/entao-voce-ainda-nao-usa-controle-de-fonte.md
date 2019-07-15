@@ -3,7 +3,7 @@ date: "2010-11-02"
 title: Então você ainda não usa controle de fonte?
 categories: [ "blog" ]
 ---
-!Bazaar Logo](..http://i.imgur.com/HjN0zFI.png)Graças aos antigos [SCMs quanto para o pessoal do Unix/Linux e seu CVS ;aliás, hoje o pesadelo de ambos foi substituído pelo SubVersion: um pesadelo light.
+Graças aos antigos [SCMs quanto para o pessoal do Unix/Linux e seu CVS ;aliás, hoje o pesadelo de ambos foi substituído pelo SubVersion: um pesadelo light.
 
 Não há nada de errado nisso. Projetos robustos com uma equipe moderada ¿ 5 a 10 programadores ¿ precisam desse tipo de organização, e tornam a resolução dos problemas do dia-a-dia mais problemática **sem** esse controle. A questão reside para o programador solitário ou a equipe minúscula ¿ 2 a 4 programadores. Esses geralmente questionam o custo-benefício de terem o trabalho de configurar e manter mais um sistema. Além disso, isso implica em uma mudança de grandes proporções em cada membro da equipe: uma **mudança cultural**.
 
@@ -13,9 +13,9 @@ Os três comandos simples não são nada do outro mundo: criar o repositório, a
 
 <blockquote>_Dica: Um commit é uma maneira de dizer ao controle de fonte: "já modifiquei o que tinha pra modificar, então mande tudo que tenho de novo para o controle". _</blockquote>
 
-Tanto faz qual controle você pretende usar. No meu exemplo usarei o Bazaar, que é a ferramenta que uso no dia-a-dia](http://www.caloni.com.br/como-estou-trabalhando-com-o-bazaar) com minha pequena equipe e serve bem para programadores solitários também. Basicamente para ter o Bazzar instalado basta [baixá-lo, next next e finish.
+ com minha pequena equipe e serve bem para programadores solitários também. Basicamente para ter o Bazzar instalado basta [baixá-lo, next next e finish.
 
-!Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando.
+Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando.
 
 _Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando._
 

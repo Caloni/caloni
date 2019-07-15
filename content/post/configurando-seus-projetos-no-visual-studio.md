@@ -11,15 +11,15 @@ Porém, seus "poroberemas se acabaram-se". Com o inovador configurador de projet
 
 Inicialmente, se compilarmos um programa em Debug no Visual Studio 2005 teremos as seguintes dependências:
 
-!Dependências do Hello, World
+Dependências do Hello, World
 
 A DLL **kernel32** é nativa e sempre estará presente no Windows. Porém, a **msvcr80d** não. Ela veio junto com o pacote do Visual Studio, e se não for distribuída em outras máquinas, você não conseguirá rodar seu programa, pois isso gerará o seguinte erro:
 
-!Erro de dependência por causa da DLL do Visual Studio
+Erro de dependência por causa da DLL do Visual Studio
 
 Bem, para resolver isso, a partir da IDE, temos que ir em Project, Properties, Configuration Properties, C/C++, Code Generation, Runtime Library.
 
-!Code Generation
+Code Generation
 
 Existem atualmente quatro tipos de _runtime_ que você pode escolher:
 
@@ -41,17 +41,17 @@ Note que, por padrão, existem dois tipos de configuração em seu projeto: Debu
 
 Pois bem. Para tirar a dependência da maldita DLL, tudo que temos que fazer é alterar a configuração, nesse caso Debug, de /MDd para /MTd. E recompilar.
 
-!Dependências do Hello, World - parte 2
+Dependências do Hello, World - parte 2
 
 E testar.
 
-!Execução do Hello World com sucesso, sem dependências.
+Execução do Hello World com sucesso, sem dependências.
 
 #### Problemas com manifesto
 
 Além da dependência de DLLs, alguns casos especiais vão chiar por causa dos dados do manifesto embutidos no programa compilado. Por algum motivo que eu desconheço, o programa necessita que as DLLs estejam instaladas mesmo que no Dependency Walker não mostre nada. Nesses casos, uma arrancada do manifesto na versão Debug não fará mal algum.
 
-!Manifesto Settings
+Manifesto Settings
 
 #### Mais problemas?
 

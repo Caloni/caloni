@@ -9,13 +9,13 @@ Para os que não sabem, o VMware é um _software _de virtualização que permite
 
 #### Primeiro passo: instalar (ou seria comprar?)
 
-O VMware, diferente de alguns](http://www.microsoft.com/windows/downloads/virtualpc/default.mspx) outros [programas de virtualização está bem cotado, sendo que seu preço é acessível pelo desenvolvedor médio. Pior que o preço da VMware com certeza será o dos sistemas operacionais convidados, se estes forem da Microsoft, que obriga cada instância do Windows, seja hospedeiro ou convidado, a possuir uma licença separada. Se rodar um Windows XP como hospedeiro e um Vista e 2000 como convidados vai desembolsar pelo menos o quíntuplo da licença da VMware.
+ outros [programas de virtualização está bem cotado, sendo que seu preço é acessível pelo desenvolvedor médio. Pior que o preço da VMware com certeza será o dos sistemas operacionais convidados, se estes forem da Microsoft, que obriga cada instância do Windows, seja hospedeiro ou convidado, a possuir uma licença separada. Se rodar um Windows XP como hospedeiro e um Vista e 2000 como convidados vai desembolsar pelo menos o quíntuplo da licença da VMware.
 
 No entanto, não entremos em mais detalhes financeiros. Os detalhes técnicos são mais interessantes.
 
 #### Segundo passo: instalar (agora sim!)
 
-!newvm.PNG
+newvm.PNG
 
 A instalação é simples e indolor, sendo constituída de cinco ou seis botões de _next_. O resto, e mais importante, é a instalação de um sistema operacional dentro de sua primeira máquina virtual. Outro assistente existe nessa fase para guiá-lo através de suas escolhas que irão configurar sua futura máquina.
 
@@ -35,7 +35,7 @@ Os HDs que criamos para nossas VMs são arquivos lógicos localizados em nosso H
 
 Se você dispõe do CD de instalação de um sistema operacional, por exemplo, Windows XP, basta inseri-lo no CD virtual de sua VM. Ela aceita também imagens ISO, se for o caso. Lembre-se apenas que ele terá que ser "bootável", do contrário é necessário um disquete de _boot_.
 
-!vmdevices.PNG
+vmdevices.PNG
 
 <blockquote>Um pouco sobre BIOS</blockquote>
 
@@ -43,7 +43,7 @@ Se você dispõe do CD de instalação de um sistema operacional, por exemplo, W
 
 A instalação do sistema operacional segue os mesmos passos que a instalação do sistema operacional de qualquer máquina de verdade.
 
-!xpinstall.PNG
+xpinstall.PNG
 
 <blockquote>As teclas mágicas
 
@@ -55,7 +55,7 @@ A instalação do sistema operacional segue os mesmos passos que a instalação 
 
 Após feita a instalação, você terá um sistema operacional rodando dentro de um sistema operacional. Isso não é legal?
 
-!xpvm.PNG
+xpvm.PNG
 
 <blockquote>_Snapshots_
 
@@ -67,6 +67,6 @@ A primeira coisa a fazer em sua VM com SO recém-instalado é criar um _snapshot
   * Abrir os seus e-mails suspeitos. Não tenha mais medo de sujar seu computador com e-mails de conteúdo duvidoso. Crie um estado seguro em sua VM através de um snapshot (fotografia de estado da máquina virtual) e execute os anexos mais absurdos. Depois basta voltar para o estado seguro.
 
 	
-  * Testes que costumam alterar o estado da máquina. Driver, GINA](http://www.caloni.com.br/gina-x-credential-provider) ou [serviço novo? Que tal usar uma VM para fazer os testes iniciais e parar de reformatar o Windows?
+ ou [serviço novo? Que tal usar uma VM para fazer os testes iniciais e parar de reformatar o Windows?
 
 As VMs possibilitam um mundo de utilidades que o mundo ainda está descobrindo. Para nós, desenvolvedores, a maior vantagem de tudo isso é termos nossos ambientes de testes mais bizarros facilmente configurados no conforto de uma caixinha de areia.

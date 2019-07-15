@@ -91,5 +91,5 @@ Existem diversos outros tipos de marcadores e com certeza você encontrará muit
 #### Mais artigos interessantes
 
 	
-  * Usando o Doxygen (Parte 1](http://dqsoft.blogspot.com/2008/07/usando-o-doxygen-parte-1.html) e [Parte 2 - Daniel Quadros
+ e [Parte 2 - Daniel Quadros
 

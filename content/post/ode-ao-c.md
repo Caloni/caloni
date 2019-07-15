@@ -81,4 +81,4 @@ Não quis alterar o texto original, mas colocaria, além de rapidez, o título *
 
 <blockquote>_Também não quis generalizar. C e C++ não são as duas únicas opções quando se fala em bom desempenho. Existe também assembly e linguagens de script._</blockquote>
 
-Ainda acredito em tudo isso que C++ proporciona e irá continuar proporcionando por muto tempo. Para os que não seguiram o linque do artigo do Strauss, existe uma modesta lista de programas escritos nessa linguagem ao redor do planeta](http://www.research.att.com/~bs/applications.html). Muitos são conhecidíssimos e usados nos quatro cantos do mundo, muitas vezes em mais de um sistema operacional. C++ está morto? Longe disso... talvez pareça assim em território nacional, mas esse é o motivo de meus [votos de sucesso no início de nosso grupo C++.
+. Muitos são conhecidíssimos e usados nos quatro cantos do mundo, muitas vezes em mais de um sistema operacional. C++ está morto? Longe disso... talvez pareça assim em território nacional, mas esse é o motivo de meus [votos de sucesso no início de nosso grupo C++.

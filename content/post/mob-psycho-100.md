@@ -9,7 +9,7 @@ desc: "Mob Psycho 100. Teleplay por Kei Kunii e Reiko Yoshida baseados no mangá
 ---
 Mob Psycho 100 sofre do mesmo problema de Death Note: a primeira metade é fascinante e a segunda metade é quase insuportável. Isso porque a grande sacada da série -- um paranormal super-poderoso que tem ambições onde o seu poder é inútil -- se trai totalmente em um momento onde seu irmão é envolvido na trama principal e todos os valores do protagonista são automaticamente descartados apenas por capricho de um roteiro que pega uma excelente ideia e transforma em mais uma daquelas aventuras com pessoas poderosas que falam demais. Não que você não tivesse visto isso antes em qualquer outro anime do passado.
 
-Essa traição se torna ainda pior quando lembramos do conflito entre ele e um estudante de outra escola que também é um paranormal, mas que usa seus poderes para proveito próprio. A conclusão a que ambos chegam e toda a evolução deste episódio o torna o melhor da série (anote: é o quinto: Ochimusha - Psychic Powers and Me), e a partir daí infelizmente não se volta nunca mais para o equilíbrio entre humor, ação e auto-crítica sobre animes de super-poderes que prometia ser uma versão alternativa, mais light, de One Punch Man](/one-punch-man-wanpanman) (também criação do mesmo autor de mangás, [One.
+ (também criação do mesmo autor de mangás, [One.
 
 A grande vantagem da versão anime de Mob Psycho é que ela não é a versão live action meras sombras de suas versões animadas.
 

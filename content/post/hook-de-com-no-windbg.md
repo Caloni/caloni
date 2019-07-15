@@ -5,11 +5,11 @@ categories: [ "code" ]
 ---
 Continuando com o tema _hooks_ no WinDbg, vamos aqui "hookear" e analisar as chamadas de métodos de um objeto COM. O que será feito aqui é o mesmo experimento feito para uma palestra de engenharia reversa que apresentei há um tempo atrás [1], mas com as opções de _pause_, _rewind_, _replay_ e câmera lenta habilitadas.
 
-Antes de começar, se você não sabe nada sobre COM, não deveria estar aqui, mas aqui](http://search.msdn.microsoft.com/search/Default.aspx?brand=msdn&locale=en-us&query=component+object+model), aqui e [aqui.
+, aqui e [aqui.
 
 Pra começar, vamos dar uma olhada na representação da interface IUnknown em UML e em memória:
 
-!Layout da VTable
+Layout da VTable
 
 Como podemos ver, para implementar o polimorfismo, os endereços das funções virtuais de uma classe são colocados em uma tabela, a chamada _vtable_, famosa tanto no COM quanto no C++. Existe uma tabela para cada classe-base polimórfica, e não para cada objeto. Se fosse para cada objeto não faria sentido deixar esses endereços "do lado de fora" do leiaute. E não seria nada simples e elegante fazer uma cópia desse objeto.
 
@@ -17,7 +17,7 @@ Assim, quando você chama uma função virtual de um objeto, o código em _assem
 
 Sabendo de tudo isso, agora sabemos como teoricamente proceder para colocar uns _breakpoints_ nessas chamadas:
 
-!Breakpoints na VTable
+Breakpoints na VTable
 
 Note que o _breakpoint_ não é colocado dentro da tabela, o que seria absurdo. Uma tabela são dados e dados geralmente não são executados (eu disse geralmente). Porém, usamos a tabela para saber onde está o começo da função para daí colocar a parada nesse endereço, que por fazer parte do código da função é (quem diria!) executado.
 
@@ -56,7 +56,7 @@ IMalloc : public IUnknown
 
 Nesse experimento, como iremos interceptar quando alguém aloca ou desaloca memória, nossos alvos são os métodos Alloc e Free. Para saber onde eles estão na tabela, é só contar, começando pelos métodos do IUnknown, que é de quem o IMalloc deriva. Se houvessem mais derivações teríamos que contar da primeira interface até a última. Portanto: QueryInterface um, AddRef dois, Release três, Alloc quatro, Realloc cinco, Free seis. OK. Contar foi a parte mais fácil.
 
-Agora iremos precisar interceptar primeiro a função que irá retornar essa interface, pois do contrário não saberemos onde fica a _vtable_. Nesse caso, a função é a ole32!CoGetMalloc](http://msdn2.microsoft.com/en-us/library/ms693395.aspx). Muitas vezes você irá usar a ole32!CoCreateInstance(Ex) ou a [CoGetClassObject diretamente na DLL que pretende interceptar. Outras vezes, você receberá o ponteiro em alguma ocasião diversa. O importante é conseguir o ponteiro de alguma forma.
+ ou a [CoGetClassObject diretamente na DLL que pretende interceptar. Outras vezes, você receberá o ponteiro em alguma ocasião diversa. O importante é conseguir o ponteiro de alguma forma.
 
 Nesse exemplo iremos obter o ponteiro através de um aplicativo de teste trivial, ignorando todas aquelas proteções _antidebugging_ que podem estar presentes no momento da reversa, feitos por alguém que lê meu blog:
 

@@ -3,11 +3,11 @@ date: "2014-02-20"
 title: Real Programmers Don't Use Java
 categories: [ "blog" ]
 ---
-!real-programmer
+real-programmer
 
-When I was a newbie](http://www.caloni.com.br/o-passado-torto-de-um-programador-por-acaso) (and a wanna-be I enjoyed reading "[Real Programmers Don't Use Pascal.
+ (and a wanna-be I enjoyed reading "[Real Programmers Don't Use Pascal.
 
-Jokes apart, the spirit of the text can also be used by those who already find them very good programmers and believe no longer have to grow professionally. The times my ego inflates](http://www.caloni.com.br/entrevista-com-o-caloni-no-do-zero-ao-mestre) I still remember that my code use child APIs and an [operating system that is a joke. I also remember that there are some people out there designing a starship that will leave the orbit of the Solar System!
+ I still remember that my code use child APIs and an [operating system that is a joke. I also remember that there are some people out there designing a starship that will leave the orbit of the Solar System!
 
 On the other hand, many people that just got out of CS course still find programming a difficult matter. This text reminds us that life was difficult 20, 40, 70 years ago, when engineers and programmers were the same person and when you didn't know that what you were doing could put millions at risk in a project.
 
@@ -25,7 +25,7 @@ Here follows a brief summary of the original text adapted to the current times a
 
 **Tools.** If you depend on an IDE that have Code Completion and other fancy stuff or any other editor that depends on your favorite 17,459 plugins installed, then you are not a Real Programmer. A Real Programmer actually use what he have on hand at the time, like notepad, hexdump or even some beeps . The tool is no limit to one that can really code.
 
-**Debugging.** Are you saying that you need the source code in order to debug? So you do not have a clue of what the program does. Just a few glances at call stack](http://www.caloni.com.br/aprendendo-assembly-com-o-depurador) and [the registers can make a Real Programmer solve a bug that Quiche Eaters would not get after analyzing those charts with boxes inside UML and use cases for months.
+ and [the registers can make a Real Programmer solve a bug that Quiche Eaters would not get after analyzing those charts with boxes inside UML and use cases for months.
 
 The Real Programmers **Work** is certainly not doing trivial databases to trivial programs that access SQL with trivial queries. Neither are those horrible websites with PHP/Apache and scripts and more scripts written by kids. No, sir. These are programs that deal with the OS in a more intimate way (HD encryption, file system drivers, critical communication services, etc.), or are programs that do something really useful (compilers, the operating system itself). Or maybe those programs that deal directly with hardware (complex microcontrollers, robots, ships, medical devices, etc.).
 

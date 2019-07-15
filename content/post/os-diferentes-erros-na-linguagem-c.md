@@ -80,7 +80,7 @@ Isso em fontes pequenos é facilmente identificável. Em fontes maiores, é prec
 
 Após o processo de preprocessamento, de todos os arquivos indicados terem sido incluídos, de todas as macros terem sido substituídas, todas as constantes colocadas literalmente no código-fonte, temos  o que é chamado **unidade de compilação**, que será entregue ao compilador, que, por sua vez, irá começar a análise sintática de fato, descobrindo novos erros que podem ou não (como vimos) ter a ver com a fase anterior. A figura abaixo ilustra esse processo, com algumas trocas conhecidas:
 
-!Preprocessor
+Preprocessor
 
 <blockquote>_Dica: quando o bicho estiver pegando, e tudo o que você sabe sobre linguagem C não estiver te ajudando a resolver um problema, tente gerar uma unidade de compilação em C e analisar sua saída. Às vezes o que é claro no código pode se tornar obscuro após o preprocessamento. Para fazer isso no VC++ em linha de comando, use o parâmetro /E._</blockquote>
 
@@ -145,7 +145,7 @@ Alguns erros mais encontrados aqui são as funções não encontradas por falta 
 
 Do ponto de vista técnico, é a fase onde o _linker_ junta todos os arquivos-objeto especificados, encontra as funções, métodos e classes necessárias e monta uma **unidade executável**, como ilustrado pela figura abaixo.
 
-!Linker
+Linker
 
 <blockquote>_Dica: uma LIB, ou biblioteca, nada mais é que uma coleção de arquivos-objeto que já foram compilados, ou seja, já passaram pelas duas primeiras fases, mas ainda não foram linkeditados. Muitas vezes é importante manter compatibilidade entre LIBs e os projetos que as usam, de forma que o processo de linkedição ocorra da maneira menos dolorosa possível._</blockquote>
 

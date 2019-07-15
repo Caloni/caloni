@@ -89,7 +89,7 @@ O novo código chama através do mesmo ponteiro o mesmo método (duh), mas atrav
 
 Cada compilador e plataforma tem a liberdade de implementar o padrão C++ da maneira que quiser, mas o conceito no final acaba ficando quase a mesma coisa. No caso de ponteiros de métodos, o ponteiro guarda realmente o endereço da função que pertence à classe. Porém, como todo método não-estático em C++, para chamá-lo é necessário possuir um **_this_**, ou seja, o ponteiro para a instância:
 
-!Fuzzy Call
+Fuzzy Call
 
 Em _assembly_ (comando "**cl /Fafuzzycall3.asm fuzzycall3.cpp**" para gerar a listagem), teremos algo assim:
 

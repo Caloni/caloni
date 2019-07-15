@@ -3,9 +3,9 @@ date: "2009-06-18"
 title: Programadores de verdade não usam Java
 categories: [ "blog" ]
 ---
-!Real Programmer](http://i.imgur.com/UCyHOVx.png)Quando era um _newbie_](http://www.caloni.com.br/o-passado-torto-de-um-programador-por-acaso) (e um _wanna-be_ gostava de ler o "[Real Programmers Don't Use Pascal", um texto humorístico que mais me influenciou e encorajou a caminho da iluminação C/C++ do que o [livro de K&R.
+ (e um _wanna-be_ gostava de ler o "[Real Programmers Don't Use Pascal", um texto humorístico que mais me influenciou e encorajou a caminho da iluminação C/C++ do que o [livro de K&R.
 
-Piadas à parte, para mim o humor do texto ainda pode ser aproveitado por aqueles que já se acham muito bons e acreditam não terem mais como crescer profissionalmente. Quando meu ego infla demais](http://www.caloni.com.br/entrevista-com-o-caloni-no-do-zero-ao-mestre), ainda me lembro que enquanto programo com APIs de brincadeirinha](http://www.caloni.com.br/retorno-do-pathisdirectory) e um [sistema operacional que é uma piada tem gente [projetando uma nave que vai sair da órbita do Sistema Solar!
+ e um [sistema operacional que é uma piada tem gente [projetando uma nave que vai sair da órbita do Sistema Solar!
 
 Por outro lado, muitas pessoas recém-saídas da faculdade de computação ainda acham programação uma matéria difícil. Esse texto nos lembra que difícil era a vida 20, 40, 70 anos atrás, quando engenheiros e programadores eram a mesma pessoa, e quando se você não soubesse o que estava fazendo colocaria projetos de milhões em risco.
 
@@ -23,7 +23,7 @@ Aqui segue um breve resumo do texto original adaptado para os tempos atuais e co
 
 **Ferramentas**. Se você depende de uma IDE que tem Code Completion e outros penduricalhos do tipo, ou depende de algum outro editor seu favorito com seus 17459 plugins instalados, então você não é um programador de verdade. um programador de verdade usa o que tiver à mão na hora que precisar, seja um notepad, um hexdump ou até mesmo alguns beeps. A ferramenta não é limite para quem sabe programar de verdade.
 
-**Depuração**. Vai dizer que precisa do código-fonte para depurar? Então você não faz a mínima ideia do que o programa faz. Apenas algumas olhadas na _call stack_](http://www.caloni.com.br/aprendendo-assembly-com-o-depurador) e nos [registradores podem fazer um programador de verdade solucionar um bug que os comedores de torta não conseguiriam depois de analisar aqueles gráficos UML com caixinhas dentro e casos de uso por meses a fio.
+ e nos [registradores podem fazer um programador de verdade solucionar um bug que os comedores de torta não conseguiriam depois de analisar aqueles gráficos UML com caixinhas dentro e casos de uso por meses a fio.
 
 O **Trabalho** de programadores de verdade com certeza não é fazer programinhas que acessam basezinhas de SQL com opção de consulta e cadastro. Nem são aqueles saitezinhos com PHP/Apache, scripts e mais scripts. Não, senhor. São programas que lidam com o Sistema Operacional de uma forma mais íntima (criptografia de HD, drivers de File System, serviços de comunicação crítica, etc), ou são programas que fazem algo de verdadeiramente útil (compiladores, o próprio sistema operacional). Ou tavez que mexam diretamente com hardware (microcontroladores complexos, robôs, naves, aparelhagem médica, etc).
 

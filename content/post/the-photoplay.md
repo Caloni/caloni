@@ -11,7 +11,7 @@ Hugo Münsterberg foi mais conhecido na área de psicologia aplicada, tendo escr
 
 Alemão que depois imigrou para os EUA, ganhando também cidadania americana, era uma pessoa interessada em várias áreas, como psicologia, medicina e artes. Sua família amava as artes. Crente em Deus e em vida após a morte, curiosamente ele também ficou conhecido por desbancar charlatões espíritas (talvez em uma busca incessante por provas). Foi considerado polêmico durante a primeira guerra por de certa forma defender a hegemonia alemã (isso já com sua segunda cidadania).
 
-!Uma das capas do trabalho de Münsterberg seguido da foto do sujeito.
+Uma das capas do trabalho de Münsterberg seguido da foto do sujeito.
 
 Trabalhando com psicologia aplicada boa parte do tempo, The Photoplay é um trabalho que inicia como uma investigação sobre os processos da mente humana, que juntos criam a impressão que aquelas fotos mostradas em sequência são figuras humanas em movimento, que transitam em diferentes lugares e tempos, muitas vezes de maneira não linear, muitas vezes exibindo apenas um detalhe em cena. Münsterberg demonstra como as deficiências na época para o cinema como a falta de som, cores, ou a própria profundidade de cenário como no teatro não eram um problema, pois se em algum momento o objetivo era se tornar um teatro barato para as massas, logo isso se tornou insuficiente, forçando os criadores dos pequenos filmes de quinze minutos mostrando uma cena cotidiana a ir além para manter a audiência.
 

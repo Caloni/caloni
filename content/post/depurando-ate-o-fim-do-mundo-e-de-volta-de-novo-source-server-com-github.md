@@ -4,7 +4,7 @@ title: "Depurando até o fim do mundo e de volta de novo: source server com GitH
 categories: [ "code" ]
 category: [ videos ]
 ---
-Semana passada fiquei sabendo que o vídeo](http://www.infoq.com/br/presentations/depurando-ate-o-fim-do-mundo#) da minha palestra "Depurando até o fim do mundo" do TDC 2014 estava disponível _online_. Resolvi assistir para ver se aprendia alguma coisa. A despeito do palestrante ser muito ruim, ele disse uma coisa interessante: com o Debugging Tools (WinDbg para os íntimos) seria possível além de indexar os símbolos (PDBs para os íntimos) usando o esquema de Symbol Server [que a própria Microsoft adota usar algumas ferramentas embutidas para conseguir obter o fonte através de um símbolo indexado.
+ usando o esquema de Symbol Server [que a própria Microsoft adota usar algumas ferramentas embutidas para conseguir obter o fonte através de um símbolo indexado.
 
 E de onde viria esse fonte? Bom, _a priori_ é necessário que exista algum controle de fonte para que as versões estivessem já "indexadas" nesse controle e fossem mapeados com strings internas no PDB. Através dessas strings o WinDbg ao analisar um _crash dump_ ou até mesmo depurando um processo com o uso do PDB conseguiria baixar os fontes automagicamente desse controle de fonte, desde que ele estivesse acessível (na internet, na intranet da própria empresa, na rede, em um disco rígido externo ou na própria máquina do desenvolvedor que não quer se matar para conseguir obter a versão exatada dos fontes daquele binário).
 
@@ -20,7 +20,7 @@ Pensando nisso, resolvi fazer uma primeira versão, em Python, de um script em q
 
 O funcionamento é muito simples, mas pede muitos parâmetros (recomendo criar um batch para armazená-los). Então vejamos:
 
-!
+
 
  - dbgtools (caminho onde está o Debugging Tools for Windows)
  - pdbpath (caminho de onde devem ser pegos os PDBs, como um output da vida)

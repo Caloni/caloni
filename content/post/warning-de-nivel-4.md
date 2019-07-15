@@ -26,7 +26,7 @@ Você já colocou aquele seu projeto favorito em /W4? Por padrão, o Visual Stud
 
 OK, este foi o nível 3 do tioserver, o projeto principal do tiodb, uma ferramenta para manter contêineres assináveis na memória e acessíveis via socket. Note que já existe um warning, mas vamos ignorar por enquanto. O objetivo aqui é descobrir quais os warnings mais comuns do projeto que você vai escolher. Vejamos o meu:
 
-!
+
 
 ```log
 1>------ Rebuild All started: Project: tioserver, Configuration: Debug x64 ------
@@ -104,7 +104,7 @@ warning C4458: declaration of 'identifier' hides class member
 warning C4701: potentially uninitialized local variable 'name' used
 ```
 
-Apenas quatro. Tão comuns que a maioria](https://msdn.microsoft.com/en-us/library/mt694070.aspx) está até em ordem numérica e diz respeito a repetição de nomes em escopos diferentes, o que esconde os nomes do escopo anterior, mais amplo. O outro, o [C4701, pode ser mais problemático, já que ele representa uma variável que potencialmente não foi inicializada, fonte comum daqueles erros de "como é que essa variável virou isso?".
+ está até em ordem numérica e diz respeito a repetição de nomes em escopos diferentes, o que esconde os nomes do escopo anterior, mais amplo. O outro, o [C4701, pode ser mais problemático, já que ele representa uma variável que potencialmente não foi inicializada, fonte comum daqueles erros de "como é que essa variável virou isso?".
 
 Felizmente só temos em um ponto do código:
 

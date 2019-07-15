@@ -22,7 +22,7 @@ Existem algumas ferramentas que já salvaram minha vida uma dúzia de vezes e de
 	
   * **Sort**. Use esta se quiser **ordenar** qualquer coisa da entrada padrão (inclusive arquivos, conjunto de arquivos...).
 
-<blockquote>_Essas ferramentas são nativas do ambiente Linux, mas podem ser instaladas no Windows através do Cygwin](http://cygwin.com/), do Mingw ou nativamente através das ferramentas [GnuWin32._</blockquote>
+, do Mingw ou nativamente através das ferramentas [GnuWin32._</blockquote>
 
 O que eu queria era processar a saída de um programa de forma que eu tivesse a lista de todas as extensões dos arquivos. Por exemplo, para a seguinte entrada:
 

@@ -91,11 +91,11 @@ categories: [ "blog" ]
 </table>
 Isso quer dizer que se:
 
-!crash-me-build-and-run
+crash-me-build-and-run
 
 Então:
 
-!crash-me-run-and-dump
+crash-me-run-and-dump
 
 Fonte: Collecting User-Mode Dumps (Windows).
 

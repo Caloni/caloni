@@ -13,7 +13,7 @@ As pessoas hoje em dia não têm paciência para observar e contemplar a beleza 
 
 O ritmo é lento porque é contemplativo. É algo para parar, observar, refletir, apreender, assimilar. E se modificar no processo.
 
-Em Sonhos o cineasta faz uma ode à natureza e alerta para os caminhos nefastos que a natureza humana está nos levando com os milagres da tecnologia. Pode ser uma argumentação anprim (anarco primitivista) ou, o mais provável, o espírito japonês, que se relaciona tão bem com a natureza. O animador Hayao Miyasaki é especialista nessa mensagem, como seus trabalhos como Ponyo](/ponyo-uma-amizade-que-veio-do-mar) já demonstram, ou até mesmo o jovem clássico [Meu Amigo Totoro.
+ já demonstram, ou até mesmo o jovem clássico [Meu Amigo Totoro.
 
 Este é um filme cheio de curtas independentes, mas que se relacionam. No começo um garoto é punido por ver o que não devia: o casamento das raposas. Sua mãe não o deixa mais entrar em casa e ele deve ir se desculpar com elas ou se matar. A analogia cristã do pecado original é óbvia, mas transformada em alegoria japonesa é fabulosa. O ritmo da marcha, o mistério da música das "raposas", é sobrenatural, e ao mesmo tempo tão visualmente completo.
 

@@ -12,10 +12,10 @@ Isso gerava várias confusões em um sistema multi-SO, algo que começou a se to
 
 Ou usar o Disk Editor, a famigerada ferramenta do Norton que já salvou a vida de muitos computadores aí afora. Eu me incluo na lista de salvadores durante o tempo que fiz a manutenção de um sistema de criptografia de HD. Usar o Disk Editor era basicamente navegar pelos bytes iniciais do HD principal para encontrar qual lógica do boot estava errada. Poderia ser um erro na tabela de partições ou um modo de endereçamento que não suportava partições muito longe do início (a tabela de partições era bem limitada; abaixo ela está selecionada).
 
-!
+
 
 Com a UEFI (Unified Extensible Firmware Interface, Inteface de Firmware Extendido Unificado) a MBR e seus 500 bytes perdem sua vez e no lugar surge uma partição inteira, onde os SOs são organizados não por tipos de entrada, mas por GUIDs únicos (números muito grandes que em teoria não são repetidos nunca). Não há mais a chance de modificar os bytes iniciais do boot para poder realizar alguma manipulação mágica, como gerenciar os diferentes SOs. A UEFI foi feita para isso, e não apenas para SOs locais, mas qualquer tipo de extensão de firmware (o código que reside direto no hardware e manipula correntes e leds). Note como a tabela de partições em um ambiente EFI não possui entradas válidas, e o setor logo em seguida é o início de sua partição:
 
-!
+
 
 A UEFI diz que há suporte ao modo antigo MBR. Isso é feito mantendo o primeiro setor disponível para escrita. Uma conversão possível seria editar a tabela de partições inserindo onde está a partição de um SO e inserindo um código padrão do MBR no lugar. A mudança do tipo de boot pode ser feito na BIOS (é o modo legado), mas se for trocada ela usará a MBR para bootar, então é necessário que ela esteja funcionando.

@@ -24,7 +24,7 @@ Eu tendo a concordar com isso não apenas em relação a filmes, mas a vinhos ta
 
 Mas voltando aos filmes. O melhor artigo que conheço sobre rankings é do Roger Ebert ("You Give Out Too Many Stars", onde ele cita o Pequeno Homem do San Francisco Chronicle como o melhor sistema de ranking já criado. Vamos dar uma olhada:
 
-!
+
 
 O que interessa-nos aqui é a posição do meio, as "três estrelas", que é um homenzinho sentado e prestando atenção no filme. Como nesse sistema de rankings eles também não tinham meia-estrelas, o homenzinho prestando atenção é um range, que vai desde quase-OK-mas-nem-tanto até quase-não-OK-mas-nem-tanto. Ou seja, pode ser tanto um filme que é quase ruim ou um que é quase bom. O que importa é que é possível que muitos gostem dele e muitos desgostem, o que é perfeitamente possível, pois gosto é subjetivo. E as estrelas, assim como o texto, vale lembrar, é a visão subjetiva de apenas uma pessoa. A explicação do Pequeno Homem também leva em conta que se uma pessoa gosta do gênero de um filme três estrelas ela possivelmente vai gostar desse filme; já alguém que não gosta do gênero não vai ver nada de mais.
 

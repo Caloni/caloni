@@ -5,7 +5,7 @@ categories: [ "blog" ]
 ---
 Well, as most of you already know, I really don't like mice. Nevertheless I respect the users who use it and like it. That is the reason why I am writing a little more about it. This time, I going to show a program I use every day: **MouseTool**, for the users who does not use the mouse and like it.
 
-!MouseTool no tray.
+MouseTool no tray.
 
 There are some options like drag-and-drop and double-click, both available through the program. You can choose to use a keyboard shortcut or the mode state, where you can switch the program default among simple-click, double-click and drag-and-drop.
 

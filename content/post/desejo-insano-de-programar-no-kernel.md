@@ -15,7 +15,7 @@ Munidos de bons motivos para fazer _drivers, _o próximo passo seria então **pe
 
 Digamos que é uma cultura bem diferente do que estamos acostumados a vivenciar em _user mode. _Eles estão muito mais ocupados com problemas relacionados especificamente com o desenvolvimento de _drivers_, e não dúvidas bestas do tipo "como eu faria isso". Lá não se briga entre linguagens gerenciadas e não-gerenciadas (nem entre linguagens gerenciadas), mas entre linguagens C e C++. Lá não se ajuda a fazer aquelas "gambis" que tanto ajudam o programador na hora do sufoco, mas sim redirecionam os hereges para o desenvolvimento "politicamente correto" (siga a documentação e seja feliz).
 
-Isso não é uma crítica destrutiva, apenas uma descrição narrativa. Nada que falo aqui é exagero ou blasfêmia. Podem perguntar para o meu amigo de ](http://www.driverentry.com.br)_[kernel mode._ Aliás, use o _blog_ dele para aprender um pouco sobre o _kernel._
+_[kernel mode._ Aliás, use o _blog_ dele para aprender um pouco sobre o _kernel._
 
 **Então o que é esse tal de _kernel programmer_? **
 

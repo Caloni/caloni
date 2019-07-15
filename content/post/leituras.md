@@ -14,7 +14,7 @@ date: 2019-06-20
 
 2019-05-15 "A chave para não cair na procrastinação final é menosprezar as notificações, nunca viver em função delas, entender que elas são o ultimate bait da humanidade." - Caloni
 
-2019-05-14 Lessons learned from On Writing Well](https://www.robinwieruch.de/lessons-learned-on-writing-well/), por Robin Wieruch, gera alguns insights diferentes dos que tive na [minha própria resenha.
+, por Robin Wieruch, gera alguns insights diferentes dos que tive na [minha própria resenha.
 
  - Make the written word your own - make it personal - only then the reader will go with you. 
  - Build up your sentences in a logical order. Think in building blocks, like in a project, where each block follows another building block. Don't write by accident. 

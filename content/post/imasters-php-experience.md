@@ -5,7 +5,7 @@ categories: [ "blog" ]
 ---
 Meu primeiro post no blog sobre PHP. Já programei alguma coisinha no passado e meu amigo Strauss fez o blogue dele todo em php, do zero. Sim. Programador de verdade ele.
 
-Mas hoje quero falar sobre o iMasters PHP Experience](https://eventos.imasters.com.br/phpexperience/), que tive a oportunidade de frequentar graças ao meu amigo [T@z. Hoje foi o keynote e amanhã serão as trilhas. Este é um evento muito bem organizado e frequentado por centenas de pessoas. Um mega-evento sobre programação. Me sinto muito bem com esse tipo de evento.
+, que tive a oportunidade de frequentar graças ao meu amigo [T@z. Hoje foi o keynote e amanhã serão as trilhas. Este é um evento muito bem organizado e frequentado por centenas de pessoas. Um mega-evento sobre programação. Me sinto muito bem com esse tipo de evento.
 
 E mesmo não programando nessa linguagem, programação é programação. Houve alguns detalhes que achei que merecem ser copiados pela comunidade C/C++ Brasil. Um deles é uma palestra standup: Integrando GO com PHP. Hilário. Rápido e letal.
 
