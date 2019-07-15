@@ -27,4 +27,4 @@ E quando menos esperamos estamos diante de um plano-sequência magistral, tecnic
 "Longa Jornada Noite Adentro" (China, França, 2018), escrito por Gan Bi, dirigido por Gan Bi, com Wei Tang, Jue Huang, Sylvia Chang.
 
 
-<h2>Trailer - Longa Jornada Noite Adentro</h2>
+

@@ -17,6 +17,6 @@ Essa é a maneira que Binoche vive, e daí toda sua tristeza existencial serve d
 
 A surpresa fica por conta do final, onde Gérard Depardieu aparece em um personagem de fechamento. Este é um filme com ótimos diálogos que discutem o que é estar junto com alguém pra valer, mas que ironicamente não consegue sustentar o diálogo tempo suficiente para estruturar nossos pensamentos. Ele vai se tornando caótico e ruma em direção ao esotérico. Se torna ofensivo como resposta a uma busca tão sincera de Binoche.
 
-<hr>"Un beau soleil intérieur" (França, 2017), escrito por Christine Angot, Claire Denis , dirigido por Claire Denis, com Juliette Binoche, Xavier Beauvois, Philippe Katerine.
+"Un beau soleil intérieur" (França, 2017), escrito por Christine Angot, Claire Denis , dirigido por Claire Denis, com Juliette Binoche, Xavier Beauvois, Philippe Katerine.
 
-<h2>Trailer - Deixe a Luz do Sol Entrar</h2>
+

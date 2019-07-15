@@ -21,6 +21,6 @@ E por falar em ideais, é Olga que carrega a chave da moral, mas a repassa ao of
 
 Paraíso é um filme forte o suficiente para fazer sessão dupla com o filme do Haneke, mas que em seu final amolece o suficiente para deixar aquele gostinho de A Lista de Schindler (o que no caso não é uma coisa boa, tamanha a ambição narrativa do resto do filme). Porém, mesmo saindo da sala com a sensação de que poderia ser melhor, alguns momentos no filme com certeza irão assombrar por um bom tempo os espíritos mais sensíveis. Não é um tema fácil de lidar; Konchalovskiy, como todo bom russo, o torna ainda mais deliciosamente insuportável.
 
-<hr>"Ray" (Russia/Germany, 2016), escrito por Elena Kiseleva, Andrey Konchalovskiy, dirigido por Andrey Konchalovskiy, com Yuliya Vysotskaya, Philippe Duquesne, Viktor Sukhorukov, Peter Kurth, Jean Denis Römer
+"Ray" (Russia/Germany, 2016), escrito por Elena Kiseleva, Andrey Konchalovskiy, dirigido por Andrey Konchalovskiy, com Yuliya Vysotskaya, Philippe Duquesne, Viktor Sukhorukov, Peter Kurth, Jean Denis Römer
 
-<h2>Trailer - Paraíso</h2>
+

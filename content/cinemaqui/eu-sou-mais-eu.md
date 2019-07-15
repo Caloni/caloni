@@ -27,4 +27,4 @@ Bônus: há várias músicas icônicas, que eram sucesso na época, tocadas no f
 "Eu Sou Mais Eu" (Brasil, 2019), escrito por L.G. Bayão e Angélica Lopes, dirigido por Pedro Amorim, com Kéfera Buchmann como Camilla, Giovanna Lancellotti como Drica, João Côrtes como Cabeça.
 
 
-<h2>Trailer - Eu Sou Mais Eu</h2>
+

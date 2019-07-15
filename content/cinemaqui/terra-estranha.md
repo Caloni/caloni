@@ -19,6 +19,6 @@ E é daí que surge a maior força do longa, que extrai de pessoas ainda estranh
 
 Dessa forma, embora não tenha tanta ação, Terra Estranha pode ser uma ótima combinação entre drama e tensão, e embora o formato meio enlatado não forneça evidências disso, seu modo honesto e persistente de narrar a história acaba fazendo valer o tempo gasto.
 
-<hr>"Strangerland" (Australia/Ireland, 2015), escrito por Michael Kinirons, Fiona Seres, Fiona Seres, dirigido por Kim Farrant, com Nicole Kidman, Joseph Fiennes, Hugo Weaving, Lisa Flanagan, Meyne Wyatt
+"Strangerland" (Australia/Ireland, 2015), escrito por Michael Kinirons, Fiona Seres, Fiona Seres, dirigido por Kim Farrant, com Nicole Kidman, Joseph Fiennes, Hugo Weaving, Lisa Flanagan, Meyne Wyatt
 
-<h2>Trailer - Terra Estranha</h2>
+

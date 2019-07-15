@@ -25,6 +25,6 @@ Há curiosas atualizações do roteiro da versão de 1976. Além da óbvia carac
 
 Os tempos complexos que estamos vivendo e os filmes que pegam leve com a criminalidade, ou que a problematizam para deixar de haver culpados nas estatísticas de violência, tornam por comparação o novo Desejo de Matar como uma desforra à altura. Pois quando lindas mulheres vendem estonteantes armas de fogo pela TV e há uma empolgante loja desses souvenirs que demonstra que é ridicularmente fácil comprar sua própria arma para se defender naqueles vinte minutos iniciais em que a polícia não estará presente na cena de um crime, isso pode escandalizar a maioria dos cordeirinhos neste novo, ilusório e triste século. Mas não esse aqui.
 
-<hr>"Death Wish" (EUA, 2018), escrito por Joe Carnahan baseado no romance de Brian Garfield e no filme de 1974 de Wendell Mayes, dirigido por Eli Roth, com Bruce Willis, Vincent D'Onofrio, Elisabeth Shue.
+"Death Wish" (EUA, 2018), escrito por Joe Carnahan baseado no romance de Brian Garfield e no filme de 1974 de Wendell Mayes, dirigido por Eli Roth, com Bruce Willis, Vincent D'Onofrio, Elisabeth Shue.
 
-<h2>Trailer - Desejo de Matar</h2>
+

@@ -26,4 +26,4 @@ O que me faz lembrar de por que tantos jovens adoram ir a cabines com superprodu
 "Alita Anjo De Combate" (Canadá, Argentina, EUA, 2019), escrito por James Cameron, Laeta Kalogridis e Robert Rodriguez baseados no mangá de Yukito Kishiro, dirigido por Robert Rodriguez, com Rosa Salazar como Alita, Keean Johnson como Hugo, Christoph Waltz como Dr. Dyson Ido, Jennifer Connelly como Dra. Chiren, Mahershala Ali como Vector.
 
 
-<h2>Trailer - Alita: Anjo de Combate</h2>
+

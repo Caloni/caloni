@@ -21,6 +21,6 @@ As poucas notas do piano, usadas parcimoniosamente, denunciam mais uma vez a eco
 
 É curioso que Wajda tenha vindo a falecer em tempos que voltam a lembrar a roda da História, repetindo tudo em ciclos. Ele é um dos bravos que hoje em dia desafia o "status quo" realizando um filme cuja ideologia vai contra praticamente tudo o que o mundo vem produzindo, infectado pela mente "igualitarista" do politicamente correto. Um bravo sem futuro que nos alerta sobre o passado, que inevitavelmente se repete, embora não da mesma forma. Com conhecimento de causa (ele viveu o comunismo polonês), junto de seu povo ele ergue a bandeira da desassociação com o pensamento dominante. Ele é o Wladyslaw Strzeminski que não aplaude ministros da cultura invadindo sua escola e seus métodos de ensino. Ele é o paladino que não se rende ao discurso fácil de justiça social que alardeia seu vazio ideológico sem perceber que, no fundo, está apenas latindo ao vento. Uma salva de palmas ao inconformismo dentro de todos nós; palmas essas batidas pelos que, independente do que a massa queira, continua a pintar seu quadro da vida, belo porque é único.
 
-<hr>"Powidoki" (Poland, 2016), escrito por Andrzej Wajda, Andrzej Mularczyk, dirigido por Andrzej Wajda, com Boguslaw Linda, Aleksandra Justa, Bronislawa Zamachowska, Zofia Wichlacz, Krzysztof Pieczynski
+"Powidoki" (Poland, 2016), escrito por Andrzej Wajda, Andrzej Mularczyk, dirigido por Andrzej Wajda, com Boguslaw Linda, Aleksandra Justa, Bronislawa Zamachowska, Zofia Wichlacz, Krzysztof Pieczynski
 
-<h2>Trailer - Afterimage</h2>
+

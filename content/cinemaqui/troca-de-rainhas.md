@@ -19,6 +19,6 @@ Aliado a isso, note como a câmera no início insiste em nos apresentar a posiç
 
 Ambientado em diversas locações apresentadas junto com a data e os eventos, "Troca de Rainhas" poderia ser uma inspirada e crítica visita a uma época onde os costumes eram muito diferentes dos atuais, mas se transforma em um diário de bordo em forma de filme com pouco ou nada a oferecer no quesito criatividade. Pelo menos é bonito.
 
-<hr>"L'échange des princesses" (França, Bélgica, 2017), escrito por Marc Dugain baseado e Chantal Thomas baseado no romance deste, dirigido por Dugain, com Lambert Wilson, Anamaria Vartolomei, Olivier Gourmet, Catherine Mouchet, Kacey Mottet Klein, Igor van Dessel, Juliane Lepoureau, Patrick Descamps, Thomas Mustin.
+"L'échange des princesses" (França, Bélgica, 2017), escrito por Marc Dugain baseado e Chantal Thomas baseado no romance deste, dirigido por Dugain, com Lambert Wilson, Anamaria Vartolomei, Olivier Gourmet, Catherine Mouchet, Kacey Mottet Klein, Igor van Dessel, Juliane Lepoureau, Patrick Descamps, Thomas Mustin.
 
-<h2>Trailer - Troca de Rainhas</h2>
+

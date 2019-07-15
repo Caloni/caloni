@@ -23,6 +23,6 @@ O uso da trilha sonora aqui é uma outra incógnita. Utilizando momentos intenso
 
 A pergunta que fica é se Soundtrack poderia ser um filme melhor ou, dado o material, esse é o máximo que ele chega? Ele entretém, isso é verdade, e isso a despeito de suas esquisitices. Mas não nos mantém muito a par de por que estamos tão interessados em sua história. Se isso é uma virtude ou não, acredito que isso fica a cargo do espectador descobrir. E ele que escolha sua própria trilha sonora para curtir o momento.
 
-<hr>"Soundtrack" (Brazil, 2017), escrito por Writers, dirigido por Directors, com Selton Mello, Ralph Ineson, Seu Jorge, Thomas Chaanhing, Lukas Loughran
+"Soundtrack" (Brazil, 2017), escrito por Writers, dirigido por Directors, com Selton Mello, Ralph Ineson, Seu Jorge, Thomas Chaanhing, Lukas Loughran
 
-<h2>Trailer - Soundtrack</h2>
+

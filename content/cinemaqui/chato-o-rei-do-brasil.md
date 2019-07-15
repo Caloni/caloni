@@ -15,6 +15,6 @@ Para piorar a situação, a direção de Guilherme Fontes transforma a experiên
 
 Se tornando aos poucos um passatempo cada vez menos atraente e com um ou outro momento interessante, "Chatô - O Rei do Brasil" é um projeto que poderia muito bem continuar engavetado para sempre, pois não consegue sequer esboçar um diálogo crítico a respeito da figura história que pretende retratar. Quem dirá se tornar um filme de referência de uma época.
 
-<hr>"Chatô - O Rei do Brasil" (Brazil, 2015), escrito por João Emanuel Carneiro, Guilherme Fontes, Matthew Robbins, Fernando Morais, dirigido por Guilherme Fontes, com Andrea Beltrão, Paulo Betti, Ingrid Borgoin, Gabriel Braga Nunes, Nathália França
+"Chatô - O Rei do Brasil" (Brazil, 2015), escrito por João Emanuel Carneiro, Guilherme Fontes, Matthew Robbins, Fernando Morais, dirigido por Guilherme Fontes, com Andrea Beltrão, Paulo Betti, Ingrid Borgoin, Gabriel Braga Nunes, Nathália França
 
-<h2>Trailer - Chatô - O Rei do Brasil</h2>
+

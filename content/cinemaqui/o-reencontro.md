@@ -21,6 +21,6 @@ A cumplicidade que vai se construindo entre as duas é ligeiramente apressado e 
 
 Mas dito isto: que bela poesia! Uma história bem amarrada muitas vezes faz perdoar um ou outro deslize como tropeços da própria vida. E um filme sobre o que significa uma vida bem vivida, sem floreios ou manipulações, merece alguns tropeços para se fazer real através do milagre da própria vida.
 
-<hr>"Sage femme" (France, 2017), escrito por Martin Provost, Martin Provost, dirigido por Martin Provost, com Catherine Deneuve, Catherine Frot, Olivier Gourmet, Quentin Dolmaire, Mylène Demongeot
+"Sage femme" (France, 2017), escrito por Martin Provost, Martin Provost, dirigido por Martin Provost, com Catherine Deneuve, Catherine Frot, Olivier Gourmet, Quentin Dolmaire, Mylène Demongeot
 
-<h2>Trailer - O Reencontro</h2>
+

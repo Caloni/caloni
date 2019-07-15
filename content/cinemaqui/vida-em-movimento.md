@@ -28,4 +28,4 @@ Tentando fazer um apanhado contemporâneo sobre estilos de vida que tentam fugir
 "Vida Em Movimento" (Brasil, 2019), escrito por Selma Perez, Eduardo Rajabally, Márcio Atalla, Joana Kfuri baseados na ideia original de Márcio Atalla, dirigido por Eduardo Rajabally.
 
 
-<h2>Trailer - Vida em Movimento</h2>
+

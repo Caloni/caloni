@@ -21,4 +21,4 @@ O uso da câmera também funciona na subjetividade. Vira e mexe ela está atrás
 Napoli velata (aka Naples in Veils). (Itália, 2017), escrito por Ferzan Ozpetek, Gianni Romoli, Valia Santella, dirigido por Ferzan Ozpetek, com Giovanna Mezzogiorno, Alessandro Borghi, Anna Bonaiuto.
 
 
-<h2>Trailer - O Segredo de Nápoles</h2>
+

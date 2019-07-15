@@ -22,6 +22,6 @@ E como todo filme de terror bem feito (ainda que seja um drama) o controle de lu
 
 Em um jogo narrativo soberbo, sabemos mais sobre a personagem a partir do momento que ela começa a se comunicar com uma pessoa desconhecida. Essa pessoa pode ser o espírito que fez contato na casa de seu irmão. Ela se comunica através de mensagens no celular, e daí nós temos uma ótima metáfora sobre pessoas que vivem no celular, com seus espíritos milhares de anos-luz distantes de seus corpos. Há um ótimo momento dessa brincadeira, quando o desconhecido fala que está observando-a nesse exato momento. Quando ela começa a olhar em volta, todas as pessoas presentes no vagão estão concentradas em seus celulares. Em que momento o mundo dos vivos virou o dos mortos?
 
-<hr>"Personal Shopper" (France/Germany, 2016), escrito por Olivier Assayas, Olivier Assayas, dirigido por Olivier Assayas, com Kristen Stewart, Lars Eidinger, Sigrid Bouaziz, Anders Danielsen Lie, Ty Olwin
+"Personal Shopper" (France/Germany, 2016), escrito por Olivier Assayas, Olivier Assayas, dirigido por Olivier Assayas, com Kristen Stewart, Lars Eidinger, Sigrid Bouaziz, Anders Danielsen Lie, Ty Olwin
 
-<h2>Trailer - Personal Shopper</h2>
+

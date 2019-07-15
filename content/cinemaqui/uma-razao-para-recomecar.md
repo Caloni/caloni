@@ -23,6 +23,6 @@ Mas não vou criticar mais nada. O diretor estreante (o ator encomendado Drew Wa
 
 Até o criador desta história não merece ser apunhalado. Ela é triste o suficiente para nos lembrar que possivelmente várias pessoas já passaram por agrúrias parecidas na vida real, e tentar dar uma guinada feliz no meio da vida acontecendo é uma decisão corajosa. Então vamos lá, eles merecem algum crédito! Imaginei até algumas boas frases de auto-ajuda para resumir o que é "Uma Razão para Recomeçar". "Desconhecemos o poder do destino", "Deus dá o frio conforme o cobertor". Ah, e "A vida é um mistério". Quer chorar no cinema?
 
-<hr>"New Life" (USA, 2016), escrito por Erin Bethea, Candice Irion, Josh Spake, Drew Waters, dirigido por Drew Waters, com James Marsters, Barry Corbin, Terry O'Quinn, Bill Cobbs, Erin Bethea
+"New Life" (USA, 2016), escrito por Erin Bethea, Candice Irion, Josh Spake, Drew Waters, dirigido por Drew Waters, com James Marsters, Barry Corbin, Terry O'Quinn, Bill Cobbs, Erin Bethea
 
-<h2>Trailer - Uma Razao Para Recomecar</h2>
+

@@ -23,6 +23,6 @@ Traçando um rastro de sangue e violência sem qualquer pudor o diretor Fernando
 
 Pecando talvez apenas por uma trilha sonora excessivamente exagerada na tensão, tomando aspecto de um policial embora a princípio e por projeto estejamos falando da passagem de Virginia na vida do traficante, "Escobar - A Traição" passa voando apesar de sua pouco mais de duas horas, e coloca mais um ponto de vista sobre uma história que está incansavelmente sendo contada. Talvez a novidade dessa vez seja que, independente de qual história ele está contando, este é um filme que eu sairia de casa para assistir.
 
-<hr>"Loving Pablo" (Espanha, Bulgária, 2017), escrito por Fernando León de Aranoa baseado no livro de Virginia Vallejo, dirigido por Aranoa, com Javier Bardem, Penélope Cruz, Peter Sarsgaard.
+"Loving Pablo" (Espanha, Bulgária, 2017), escrito por Fernando León de Aranoa baseado no livro de Virginia Vallejo, dirigido por Aranoa, com Javier Bardem, Penélope Cruz, Peter Sarsgaard.
 
-<h2>Trailer - Escobar - A Traição</h2>
+

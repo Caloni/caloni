@@ -15,6 +15,6 @@ O trio de atrizes e sua diretora estreante Virginie Gourmel (belga) usam o rotei
 
 Este é um filme cru com reviravoltas naturais e que portanto não precisa manipular seus personagens, que são forças da natureza. A amizade inusitada e rápida entre uma pré-adolescente e um garoto de cinco anos gera os momentos mais reflexivos do filme, que se esforça para não soar clichê, utilizando de metáforas com animais inocentes perambulando pela floresta ao mesmo tempo que aborda questões adultas entre crianças, e é de onde vem sua força dramática. "Por que vivemos em um mundo onde a realidade bate à porta tão cedo de alguns jovens?" deveria ser a pergunta que o filme faz. "Porque a vida real cedo ou tarde acontece, e o quanto antes as crianças forem introduzidas a eles melhor" seria a resposta correta. Mas não estou certo de que este drama é sério o suficiente para abordar respostas corajosas como essa.
 
-<hr>"Cavale" (Bélgica, 2018), escrito por Micha Wald, dirigido por Virginie Gourmel, com Lisa Viance, Yamina Zaghouanie, Noa Pellizari.
+"Cavale" (Bélgica, 2018), escrito por Micha Wald, dirigido por Virginie Gourmel, com Lisa Viance, Yamina Zaghouanie, Noa Pellizari.
 
-<h2>Trailer - Garotas em Fuga</h2>
+

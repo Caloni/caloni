@@ -16,6 +16,6 @@ Mas faltas com o espírito em um trabalho que busca a essência de uma profissã
 
 Aos poucos se revelando como "um filme para fãs", sejam eles as pessoas por trás dos picadeiros ou quem conhece a fundo as referências de grandes nomes do circo, apenas a explicação sucinta e desajeitada dos dois papéis tradicionais das duplas de palhaços -- o Branco e o Augusto -- pode ser vista como "sou de fora e aprendi algum coisa". O resto, como o próprio letreiro da última cena, é um trabalho "sobre a amizade". O coleguismo do ramo consegue nas salas de cinema sua equivocada representatividade em um trabalho esquecível.
 
-<hr>"Pagliacci" (Brasil, 2018), dirigido por Chico Gomes, Júlio Hey, Pedro Moscalcoff, Luiz Villaça e Luiza Villaça, com Alexandre Roit, Carla Candiotto, Chico Pelúcio, Domingos Montagner, Fernando Paz, Fernando Sampaio, Filipe Bregantim, Keila Bueno.
+"Pagliacci" (Brasil, 2018), dirigido por Chico Gomes, Júlio Hey, Pedro Moscalcoff, Luiz Villaça e Luiza Villaça, com Alexandre Roit, Carla Candiotto, Chico Pelúcio, Domingos Montagner, Fernando Paz, Fernando Sampaio, Filipe Bregantim, Keila Bueno.
 
-<h2>Trailer - Pagliacci</h2>
+

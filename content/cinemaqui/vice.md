@@ -33,4 +33,4 @@ Aliás, como crítica política o filme comete o deslize de ser superficial em a
 "Vice" (EUA, 2018), escrito e dirigido por Adam McKay, com Christian Bale como Dick Cheney, Amy Adams como Lynne Cheney, Steve Carell como Donald Rumsfeld, Sam Rockwell como George W. Bush.
 
 
-<h2>Trailer - Vice</h2>
+

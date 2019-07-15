@@ -21,6 +21,6 @@ Porém, o pior de tudo mesmo é o filme nunca se preocupar com um conflito princ
 
 Mas tudo isso parece ser citado de passagem muitas vezes, sem nunca ser considerado o grande conflito que o filme deve solucionar. Aliás, não é possível entender as motivações da rainha direto dela, já que os diálogos mudam de tom a todo momento e a atriz que a interpreta (Malin Buska) resume seu personagem a caras fechadas e aumento de voz. Sua interpretação sedutora é particularmente cômica, rivalizando com Bella Swan de Crepúsculo, o que definitivamente não é um elogio.
 
-<hr>"The Girl King" (Finland/Germany/Canada/Sweden/France, 2015), escrito por Michel Marc Bouchard, dirigido por Mika Kaurismäki, com Malin Buska, Sarah Gadon, Michael Nyqvist, Lucas Bryant, Laura Birn
+"The Girl King" (Finland/Germany/Canada/Sweden/France, 2015), escrito por Michel Marc Bouchard, dirigido por Mika Kaurismäki, com Malin Buska, Sarah Gadon, Michael Nyqvist, Lucas Bryant, Laura Birn
 
-<h2>Trailer - A Jovem Rainha</h2>
+

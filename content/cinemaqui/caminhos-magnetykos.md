@@ -15,6 +15,6 @@ O uso indiscriminado de fades em torno da figura de Raimundo (que pelo nome repr
 
 Os próprios revolucionários do filme são caricatos, demonstrando um senso de humor ímpar em assuntos tão caros no meio político e ideológico. Nós os vemos como espiritualistas malucos que enxergam o homem nas estrelas, mas que se limitam a ler a sorte no amor de pessoas comuns. Seu líder é ninguém menos que Ney Matogrosso, e seu hino, Rosa de Hiroshima. O ápice da loucura quando ele canta. E da beleza também, por que não. Uma beleza trágica, melancólica, mas por isso mesmo intensa e marcante. O senso estético dessa produção luso/brasileira é simples, mas eficiente.
 
-<hr>"Caminhos Magnétykos" (Portugal, Brasil, 2018), dirigido por Edgar Pêra, com Dominique Pinon, Albano Jerónimo, Alba Baptista, Ney Matogrosso.
+"Caminhos Magnétykos" (Portugal, Brasil, 2018), dirigido por Edgar Pêra, com Dominique Pinon, Albano Jerónimo, Alba Baptista, Ney Matogrosso.
 
-<h2>Trailer - Caminhos Magnétykos</h2>
+

@@ -22,6 +22,6 @@ Aos poucos percebemos que há excelentes momentos em A Passageira sabotados por 
 
 E dentro da lógica de A Passageira, não há mesmo salvação para nenhum dos envolvidos. Feridos por uma cicatriz que nunca irá sarar, a violência e estupidez de uma guerra agora parece refletir no caos urbano em que os mesmos personagens precisam lidar da maneira que podem. Resta a eles tentar tocar suas vidas, assim como qualquer ser humano decente. E se a decência lhes foi arrancada pelos atos brutais do passado, é algo que nem todo o dinheiro do mundo conseguirá curar.
 
-<hr>"Magallanes" (Peru/Argentina/Spain, 2015), escrito por Salvador del Solar, dirigido por Salvador del Solar, com Damián Alcázar, Tatiana Astengo, Jairo Camargo, Tatiana Espinoza, Nicolás Galindo
+"Magallanes" (Peru/Argentina/Spain, 2015), escrito por Salvador del Solar, dirigido por Salvador del Solar, com Damián Alcázar, Tatiana Astengo, Jairo Camargo, Tatiana Espinoza, Nicolás Galindo
 
-<h2>Trailer - A Passageira</h2>
+

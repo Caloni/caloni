@@ -19,4 +19,4 @@ O objetivo mais nobre de um documentário é conseguir documentar um ponto de vi
 Of Fathers and Sons (Alemanha, Líbano, Quatar, Síria, 2017), dirigido por Talal Derki, com Abu Osama. Documentário, guerra, Síria, muçulmanos, religião, crianças, direitos humanos.
 
 
-<h2>Trailer - Sobre Pais E Filhos</h2>
+

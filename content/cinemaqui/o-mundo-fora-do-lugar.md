@@ -19,6 +19,6 @@ Digamos apenas que a sutileza de von Trotta não favorece muito a narrativa. Det
 
 No entanto, apesar de drama pesado, este é um filme que sempre vai pelo caminho mais delicado. Seus personagens, embora bem interpretados, são contidos, e apenas a petulância da figura de Matthias Habich, o pai de Sophie, é capaz de chacoalhar um pouco as coisas.
 
-<hr>"Die abhandene Welt" (Germany, 2015), escrito por Margarethe von Trotta, dirigido por Margarethe von Trotta, com Katja Riemann, Barbara Sukowa, Matthias Habich, Robert Seeliger, Gunnar Möller
+"Die abhandene Welt" (Germany, 2015), escrito por Margarethe von Trotta, dirigido por Margarethe von Trotta, com Katja Riemann, Barbara Sukowa, Matthias Habich, Robert Seeliger, Gunnar Möller
 
-<h2>Trailer - O Mundo Fora do Lugar</h2>
+

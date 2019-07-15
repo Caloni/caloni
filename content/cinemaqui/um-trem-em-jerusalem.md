@@ -19,4 +19,4 @@ Mas a fotografia é bela, os movimentos de câmera divertem e há momentos belí
 A Tramway in Jerusalem (Israel, França, 2018), escrito por Amos Gitai, Marie-Jose Sanselme, dirigido por Amos Gitai, com Yaël Abecassis, Mathieu Amalric, Lamis Ammar.
 
 
-<h2>Trailer - Um Trem Em Jerusalém</h2>
+

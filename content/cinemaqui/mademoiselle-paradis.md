@@ -25,4 +25,4 @@ Infelizmente este é um filme disposto a descrever a História de maneira burocr
 "Mademoiselle Paradis" (Áustria, Alemanha, 2017), escrito por Kathrin Resetarits adaptado do livro de Alissa Walser, dirigido por Barbara Albert, com Maria Dragus, Devid Striesow, Lukas Miko.
 
 
-<h2>Trailer - Mademoiselle Paradis</h2>
+

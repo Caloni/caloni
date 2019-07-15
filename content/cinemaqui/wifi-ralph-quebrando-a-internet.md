@@ -23,4 +23,4 @@ Porém, no fundo, "Wifi Ralph" é um filme leve, sem maiores atribulações. Ele
 "Ralph Breaks the Internet" (EUA, 2018), escrito por Phil Johnston, Pamela Ribon, Rich Moore, Jim Reardon, Josie Trinidad e Kelly Younger (toda essa gente por essa história?), dirigido por Phil Johnston e Pamela Ribon, com John C. Reilly, Sarah Silverman, Gal Gadot, Taraji P. Henson e outros; na versão brasileira quem dublou Ralph continua sendo Tiago Abravanel, mas agora, depois de protestos no primeiro filme a dubladora de Vanellope é Flora Paulita.
 
 
-<h2>Trailer - Wifi Ralph: Quebrando a Internet</h2>
+

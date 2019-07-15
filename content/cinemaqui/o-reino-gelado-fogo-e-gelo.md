@@ -17,6 +17,6 @@ A trilha sonora do italiano Fabrizio Mancinelli é um exagero. A música faz que
 
 Tentando criar uma nova aventura de carona nas animações anteriores, O Reino Gelado é previsível e enlatado, mas ainda assim pode entreter os espectadores mais jovens em uma ou outra piada. Mas se para isso é necessário passar por uma história que não é lá muito empolgante, é melhor procurar os enlatados de Hollywood, mesmo.
 
-<hr>"Snezhnaya koroleva 3. Ogon i led" (Russia, 2016), escrito por Andrey Korenkov, Robert Lence, Vladimir Nikolaev, Aleksey Tsitsilin, Aleksey Tsitsilin, dirigido por Aleksey Tsitsilin, com Alyson Leigh Rosenfeld, Ivan Okhlobystin, Garik Kharlamov, Graham Halstead, Olga Zubkova
+"Snezhnaya koroleva 3. Ogon i led" (Russia, 2016), escrito por Andrey Korenkov, Robert Lence, Vladimir Nikolaev, Aleksey Tsitsilin, Aleksey Tsitsilin, dirigido por Aleksey Tsitsilin, com Alyson Leigh Rosenfeld, Ivan Okhlobystin, Garik Kharlamov, Graham Halstead, Olga Zubkova
 
-<h2>Trailer - O Reino Gelado: Fogo e Gelo</h2>
+

@@ -21,4 +21,4 @@ PS: A sessão da Mostra de SP é gratuita (sem mais-valia) e acompanhada de dois
 Marx Reloaded (Alemanha, 2011), escrito por Jason Barker, dirigido por Jason Barker, Alexandra Weltz, com Jason Barker, Michael Hardt, Toni Negri. Documentário, Karl Marx, história, filosofia, economia, política, crise 2008.
 
 
-<h2>Trailer - Marx Reloaded</h2>
+

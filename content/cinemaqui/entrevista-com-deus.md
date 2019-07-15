@@ -27,4 +27,4 @@ Eu sei que o Deus de David Strathairn está longe de inspirar carisma e reflexã
 An Interview with God (EUA, 2018), escrito por Ken Aguado, dirigido por Perry Lang, com Brenton Thwaites, David Strathairn, Yael Grobglas, Hill Harper, Charlbi Dean Kriek. Religião, metáforas.
 
 
-<h2>Trailer - Entrevista Com Deus</h2>
+

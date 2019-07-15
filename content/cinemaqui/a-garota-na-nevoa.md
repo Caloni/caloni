@@ -23,4 +23,4 @@ Mas não se engane: haverão reviravoltas. Mais de uma. Esse ainda é um thrille
 La ragazza nella nebbia (Itália, Alemanha, França, 2017), escrito e dirigido por Donato Carrisi, com Toni Servillo, Alessio Boni, Lorenzo Richelmy e Jean Reno. Thriller, literatura, crime.
 
 
-<h2>Trailer - A Garota Na Névoa</h2>
+

@@ -19,6 +19,6 @@ Aqui talvez o design de produção crie uma falsa expectativa de um filme descol
 
 O mais frustrante em Ferrugem é que ele é uma produção rica em detalhes, mas os detalhes estão soltos demais, nos fazendo ter que interpretar o mistério que cerca seus dois protagonistas em duas partes corretamente dissonantes, mas incorretamente enigmáticas. A transição entre as partes não é chocante, mas rápida demais, o que causa o efeito de ignorarmos o impacto de uma cena em específico (você a reconhecerá quando ela acontecer). E por mais que algo seja chocante, é difícil analisar a introspecção de jovens quando faltam pistas. E por falta de pistas, a conclusão cai no automático: são aborrecentes como outros quaisquer.
 
-<hr>"Ferrugem" (Brasil, 2018), escrito por Aly Muritiba e Jessica Candal, dirigido por Muritiba, com Giovanni de Lorenzi, Tifanny Dopke, Enrique Diaz.
+"Ferrugem" (Brasil, 2018), escrito por Aly Muritiba e Jessica Candal, dirigido por Muritiba, com Giovanni de Lorenzi, Tifanny Dopke, Enrique Diaz.
 
-<h2>Trailer - Ferrugem</h2>
+

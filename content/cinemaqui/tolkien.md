@@ -25,4 +25,4 @@ A caracterização cuidadosa do excelente ator Nicholas Hoult (o Nux de Mad Max:
 "Tolkien" (EUA, 2019), escrito por David Gleeson, Stephen Beresford, dirigido por Dome Karukoski, com Nicholas Hoult, Lily Collins, Colm Meaney.
 
 
-<h2>Trailer - Tolkien</h2>
+

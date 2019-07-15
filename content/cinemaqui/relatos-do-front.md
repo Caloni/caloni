@@ -21,4 +21,4 @@ Estéril em sua militância, teórico demais em seu discurso e ideológico até 
 "Relatos Do Front" (Brasil, 2018), escrito por Sergio Barata Empresa, Renato Martins e Gabriel Pardal, dirigido por Renato Martins.
 
 
-<h2>Trailer - Relatos do Front</h2>
+

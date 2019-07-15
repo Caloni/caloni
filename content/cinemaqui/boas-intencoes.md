@@ -21,4 +21,4 @@ De qualquer forma, este filme, querendo ou não, se torna quase que politicament
 "Best Intentions. France, 2018. Dirigido por Gilles Legrand, escrito por Léonore Confino, Gilles Legrand. Com Agnès Jaoui, Alban Ivanov, Claire Sermonne."
 
 
-<h2>Trailer - Boas Intenções</h2>
+

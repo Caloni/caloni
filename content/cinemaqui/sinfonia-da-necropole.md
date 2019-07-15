@@ -19,6 +19,6 @@ Porém, ainda que cozinhado em banho-maria todo o tempo, ele é capaz de despert
 
 É capaz que essas piadas tenham me influenciado a fazer dois trocadilhos em apenas um parágrafo, embora nenhum dos dois seja intencional. E talvez esse seja o problema com "Sinfonia". Ele consegue ser muito bom em alguns momentos, e engraçado em outros, mas parece tornar tudo muito não-intencional.
 
-<hr>"Sinfonia da Necrópole" (Brazil, 2014), escrito por Juliana Rojas, dirigido por Juliana Rojas, com Eduardo Gomes, Paulo Jordão, Germano Melo, Adriana Mendonça, Luís Mármora
+"Sinfonia da Necrópole" (Brazil, 2014), escrito por Juliana Rojas, dirigido por Juliana Rojas, com Eduardo Gomes, Paulo Jordão, Germano Melo, Adriana Mendonça, Luís Mármora
 
-<h2>Trailer - Sinfonia da Necrópole</h2>
+

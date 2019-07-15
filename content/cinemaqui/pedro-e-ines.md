@@ -19,6 +19,6 @@ A interpretação de Diogo Amaral é do mesmo rapaz, preso mentalmente no tempo 
 
 Mas não necessariamente ele vai agradar a todos. Solene e com uma trilha sonora coerente, "Pedro e Inês" pode dar sono em um espectador desatento em um primeiro momento, podendo soar como uma história que já se viu tantas outras vezes. Mas calma, respire e pense nas diferenças das outras histórias. Aqui o objetivo não é encontrar semelhanças ou diferenças desses personagens em diferentes momentos do tempo. Ele é algo mais como A Viagem (Cloud Atlas), onde é a essência que nos transporta para as lendas. Esqueça o amor proibido; foque no que você sempre quis e que por algum motivo não está conseguindo.
 
-<hr>"Pedro e Inês" (Portugal, França, Brasil, 2018), escrito por António Ferreira baseado no romance de Rosa Lobato Faria, dirigido por Ferreira, com Diogo Amaral, Joana de Verona, Vera Kolodzig, João Lagarto, Miguel Monteiro.
+"Pedro e Inês" (Portugal, França, Brasil, 2018), escrito por António Ferreira baseado no romance de Rosa Lobato Faria, dirigido por Ferreira, com Diogo Amaral, Joana de Verona, Vera Kolodzig, João Lagarto, Miguel Monteiro.
 
-<h2>Trailer - Pedro e Inês</h2>
+

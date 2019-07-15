@@ -17,6 +17,6 @@ Talvez até seja, mas é o resultado do processo de tentar desvendar um filme qu
 
 Da forma como quiser e imaginar, Pendular irá te aborrecer. Exceto, talvez, pela sua edição de som, que está sempre presente e se faz sentir. O som da cidade lá fora é o abrir e fechar de cortinas do filme, e a música e as falas, quando acontecem, podem ser ouvidas. Que glória para um filme brasileiro! Uma obra de arte, sem dúvida, que pende para a obscuridade. Está vendo como até eu consigo criar trocadilhos capengas?
 
-<hr>"Pendular" (Brazil/Argentina/France, 2017), escrito por Júlia Murat, Matias Mariani, dirigido por Júlia Murat, com Raquel Karro, Rodrigo Bolzan, Valeria Barretta, Renato Linhares, Neto Machado
+"Pendular" (Brazil/Argentina/France, 2017), escrito por Júlia Murat, Matias Mariani, dirigido por Júlia Murat, com Raquel Karro, Rodrigo Bolzan, Valeria Barretta, Renato Linhares, Neto Machado
 
-<h2>Trailer - Pendular</h2>
+

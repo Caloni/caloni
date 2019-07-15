@@ -27,6 +27,6 @@ Já o roteirista, Allan Loeb, foi se especializando em drama aos poucos. Vindo d
 
 E a maior distância do mundo é a que existe entre a realidade que achamos que vivemos e a realidade de fato. E quem disse isso não foi nenhum desses neuróticos personagens. Adivinhar quem é se torna um passatempo divertido se você for ver o filme.
 
-<hr>"The Only Living Boy in New York" (USA, 2017), escrito por Allan Loeb, dirigido por Marc Webb, com Callum Turner, Jeff Bridges, Kate Beckinsale, Pierce Brosnan, Cynthia Nixon
+"The Only Living Boy in New York" (USA, 2017), escrito por Allan Loeb, dirigido por Marc Webb, com Callum Turner, Jeff Bridges, Kate Beckinsale, Pierce Brosnan, Cynthia Nixon
 
-<h2>Trailer - Apenas um Garoto em Nova York</h2>
+

@@ -29,6 +29,6 @@ E é quando as armas de fogo aparecem (lembra que elas não existiam?) que desco
 
 Este é um filme que acredita na luta entre o bem e o mal, pintados de cores diferentes e dispostos em dois lados distintos do tabuleiro. Infelizmente ele se recusa a apontar para o Norte, onde o mal prevaleceu e prevalece. Ele é um filme moralmente míope, que prefere olhar para o próprio umbigo e usar uma bela história que já seria eficiente se contada sem floreios. Tudo para fazer chorar. E até consegue. Mas a que custo?
 
-<hr>"Taeksi Woonjunsa" (South Korea, 2017), escrito por Yu-na Eom, dirigido por Hun Jang, com Kang-ho Song, Thomas Kretschmann, Hae-jin Yoo, Jun-yeol Ryu, Hyuk-kwon Park
+"Taeksi Woonjunsa" (South Korea, 2017), escrito por Yu-na Eom, dirigido por Hun Jang, com Kang-ho Song, Thomas Kretschmann, Hae-jin Yoo, Jun-yeol Ryu, Hyuk-kwon Park
 
-<h2>Trailer - O Motorista de Táxi</h2>
+

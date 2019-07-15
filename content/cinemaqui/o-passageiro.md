@@ -19,6 +19,6 @@ Neeson não parece, como seu personagem, estar com 60 anos. Ele não aparenta a 
 
 Por fim, O Passageiro acaba sendo mais um filme com Liam Neeson em cenas de ação por uma causa maior, mas diferente de Jason Staham, ele parece estar perdendo o fôlego paulatinamente. É improvável que tenhamos um O Passageiro 2, mas se tivermos, provavelmente será alguma luta contra o tempo no corredor de uma UTI. E Liam Neeson já tem uma cena envolvendo um medidor de pressão e um estetoscópio. O estetoscópio é pro personagem dele conseguir ouvir melhor.
 
-<hr>"The Commuter" (EUA, Reino Unico, 2017), escrito por Byron Willinger, Philip de Blasi, Ryan Engle, dirigido por Jaume Collet-Serra, com Liam Neeson, Vera Farmiga, Patrick Wilson, Jonathan Banks.
+"The Commuter" (EUA, Reino Unico, 2017), escrito por Byron Willinger, Philip de Blasi, Ryan Engle, dirigido por Jaume Collet-Serra, com Liam Neeson, Vera Farmiga, Patrick Wilson, Jonathan Banks.
 
-<h2>Trailer - O Passageiro</h2>
+

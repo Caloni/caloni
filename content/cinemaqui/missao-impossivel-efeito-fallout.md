@@ -19,6 +19,6 @@ Os personagens de Henry Cavill (que faz o agente August Walker) e Angela Bassett
 
 E é por isso que eu não citei esse elemento recorrente em Missão Impossível como fórmula de sucesso. Você nota algumas variações, vê? Mas o que chama mais a atenção são os detalhes que se repetem. E Tom Cruise continua louco por adrenalina como nunca. Graças a ele você dificilmente verá cenas de ação tão sufocantes e empolgantes este ano como neste filme. A IMF segue firme e forte.
 
-<hr>"Mission: Impossible - Fallout" (EUA, 2018), escrito e dirigido por Christopher McQuarrie (baseado na série de Bruce Geller), com Tom Cruise, Henry Cavill, Ving Rhames, Simon Pegg, Rebecca Ferguson, Sean Harris, Angela Bassett, Vanessa Kirby, Michelle Monaghan.
+"Mission: Impossible - Fallout" (EUA, 2018), escrito e dirigido por Christopher McQuarrie (baseado na série de Bruce Geller), com Tom Cruise, Henry Cavill, Ving Rhames, Simon Pegg, Rebecca Ferguson, Sean Harris, Angela Bassett, Vanessa Kirby, Michelle Monaghan.
 
-<h2>Trailer - Missão Impossível: Efeito Fallout</h2>
+

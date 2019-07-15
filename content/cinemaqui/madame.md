@@ -25,6 +25,6 @@ Já Rossy de Palma, como Maria, soa autêntica. Ela em momento algum muda seus h
 
 Com momentos inspirados que extraem o verdadeiro significado do que é fazer parte de uma sufocante e decadente burguesia, "Madame" entretém do começo ao fim e no caminho nos entrega mais do que "foi pedido": uma análise social ácida escondida no meio das risadas.
 
-<hr>"Madame" (França, 2017), escrito por Amanda Sthers, dirigido por Amanda Sthers, com Toni Collete, Harvey Keitel, Rossy de Palma.
+"Madame" (França, 2017), escrito por Amanda Sthers, dirigido por Amanda Sthers, com Toni Collete, Harvey Keitel, Rossy de Palma.
 
-<h2>Trailer - Madame</h2>
+

@@ -22,4 +22,4 @@ Se vocÃª gosta de filmes que pretendem ser fechadinhos terminando por onde comeÃ
 "Blitz" (Brasil, 2018), escrito por Bosco Brasil, dirigido por Rene Tada Brasil, com Rui Ricardo Dias e Georgina Castro.
 
 
-<h2>Trailer - Blitz</h2>
+

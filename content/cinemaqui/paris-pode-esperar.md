@@ -19,6 +19,6 @@ Algumas questões parecem emergir dos breves momentos em que Diane e Jacques con
 
 Paris Pode Esperar talvez soe entediante para muitos, mas abrir o apetite para outros. Ele não é em nada pretensioso, e gosto disso nele. Mas particularmente gosto mais da maneira como os japoneses olham para suas comidas, com seus rituais e tratando-a como algo sagrado, digno de se apreciar. Jacques pode tentar dourar a pílula francesa, evocar as maravilhas da horta e da vida mais "natural", mas chega um momento que vemos que até a comida para eles parece algo menos relevante do que o que cada francês coloca em seu pedestal particular: seu próprio ego.
 
-<hr>"Bonjour Anne" (USA, 2016), escrito por Eleanor Coppola, dirigido por Eleanor Coppola, com Diane Lane, Alec Baldwin, Arnaud Viard, Linda Gegusch, Élodie Navarre
+"Bonjour Anne" (USA, 2016), escrito por Eleanor Coppola, dirigido por Eleanor Coppola, com Diane Lane, Alec Baldwin, Arnaud Viard, Linda Gegusch, Élodie Navarre
 
-<h2>Trailer - Paris Pode Esperar</h2>
+

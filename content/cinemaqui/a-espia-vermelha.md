@@ -25,4 +25,4 @@ Mas não me leve a mal, este é um filme com temas interessantes e uma personage
 "Red Joan" (Reino Unido, 2018), escrito por Lindsay Shapero, dirigido por Trevor Nunn, com Judi Dench, Sophie Cookson, Stephen Campbell Moore, Tom Hughes, Tereza Srbova.
 
 
-<h2>Trailer - A Espiã Vermelha</h2>
+

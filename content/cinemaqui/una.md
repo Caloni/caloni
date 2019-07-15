@@ -19,6 +19,6 @@ Talvez por isso que o filme nunca tente de fato pender para um dos lados, pois n
 
 "Una", apesar de ser sobre a possibilidade de diálogo sobre um tema polêmico, se torna um terreno infértil quando decide avançar na questão, pois o máximo que consegue extrair de sua história é a inevitável e repetitiva dor de algo que aconteceu e que, não importa o que os envolvidos façam dali em diante, em nada irá mudar o que se tornaram. É um filme de alma pessimista que, assim como Confiar (David Schwimmer, 2010), parece apenas servir de alerta social. E ingênuo. Quer dizer, é como se um pedófilo assistisse o filme e colocasse sua mão na consciência.
 
-<hr>"Una" (UK/USA/Canada, 2016), escrito por David Harrower, dirigido por Benedict Andrews, com Rooney Mara, Riz Ahmed, Ben Mendelsohn, Tobias Menzies, Poppy Corby-Tuech
+"Una" (UK/USA/Canada, 2016), escrito por David Harrower, dirigido por Benedict Andrews, com Rooney Mara, Riz Ahmed, Ben Mendelsohn, Tobias Menzies, Poppy Corby-Tuech
 
-<h2>Trailer - Una</h2>
+

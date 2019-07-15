@@ -17,6 +17,6 @@ A única coisa que não vemos é algo de novo. Exceto, talvez, a visão de um Ka
 
 Porém, relevante ou não, o filme é vivo, caminha empolgado entre as diferentes passagens históricas de Marx e Engels, seja em sua vida pessoal ou militante. Isso torna o trabalho minimamente interessante de acompanhar, mesmo que não tenha nada de novo a dizer. É uma releitura idêntica, clássica e didática. Pode informar algumas pessoas dispostas a entender o quê Marx viu quando se referia a relações de exploração, assim como Engels. Pode ajudar pessoas não-habituadas a esta fase da história a entender melhor as sementes que foram responsáveis pela construção de uma das obras mais ambiciosas da literatura histórica que um único indivíduo já teve a ambição de realizar.
 
-<hr>"Le jeune Karl Marx" (Germany/France/Belgium, 2017), escrito por Pascal Bonitzer, Raoul Peck, Pierre Hodgson, dirigido por Raoul Peck, com August Diehl, Stefan Konarske, Vicky Krieps, Olivier Gourmet, Hannah Steele
+"Le jeune Karl Marx" (Germany/France/Belgium, 2017), escrito por Pascal Bonitzer, Raoul Peck, Pierre Hodgson, dirigido por Raoul Peck, com August Diehl, Stefan Konarske, Vicky Krieps, Olivier Gourmet, Hannah Steele
 
-<h2>Trailer - O Jovem Karl Marx</h2>
+

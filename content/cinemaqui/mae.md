@@ -25,6 +25,6 @@ O tempo voa e cria lapsos elegantes, assim como as transições na história. Ao
 
 Aronofsky pode estar começando a se repetir em seu mantra do gnosticismo. Mãe! pode ser encarado como um mais do mesmo, ou como mais uma história no universo rico e multifacetado do diretor. Seja como for, a experiência de ver este filme é muito mais rico do que sua trama, e até no sentido religioso a história que ele nos conta parece ainda melhor. E mesmo que você não concorde com a mensagem embutida no filme, não há como desgostar do perfeccionismo da sétima arte em pleno vapor.
 
-<hr>"Mother!" (USA, 2017), escrito por Darren Aronofsky, dirigido por Darren Aronofsky, com Jennifer Lawrence, Javier Bardem, Ed Harris, Michelle Pfeiffer, Brian Gleeson
+"Mother!" (USA, 2017), escrito por Darren Aronofsky, dirigido por Darren Aronofsky, com Jennifer Lawrence, Javier Bardem, Ed Harris, Michelle Pfeiffer, Brian Gleeson
 
-<h2>Trailer - Mãe!</h2>
+

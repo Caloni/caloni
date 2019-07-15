@@ -23,6 +23,6 @@ A maior virtude do filme é vir embalado em uma viagem sensorial fascinante, com
 
 Talvez por isso todo o filme dê essa sensação de estranheza  ou incômodo. Aliás, é bom avisar: há cenas realmente fortes na conclusão. Afinal de contas, não há maneira melhor de demonstrar os sacrifícios alimentares das modelos senão pelo clima visceral que os símbolos em Demônio de Neon nos entregam. E não há sacrifício alto demais para realizar uma rima simbólica com o próprio mito da Esfinge. Felizmente para nós, espectadores, isso é apenas um incômodo temporário e maquiado. Nosso único incômodo talvez seja ouvir a belíssima música de fechamento de Sia Furler com uma conotação... diferente do usual.
 
-<hr>"The Neon Demon" (France/Denmark/USA, 2016), escrito por Nicolas Winding Refn, Nicolas Winding Refn, Mary Laws, Polly Stenham, dirigido por Nicolas Winding Refn, com Elle Fanning, Karl Glusman, Jena Malone, Bella Heathcote, Abbey Lee
+"The Neon Demon" (France/Denmark/USA, 2016), escrito por Nicolas Winding Refn, Nicolas Winding Refn, Mary Laws, Polly Stenham, dirigido por Nicolas Winding Refn, com Elle Fanning, Karl Glusman, Jena Malone, Bella Heathcote, Abbey Lee
 
-<h2>Trailer - Demônio de Neon</h2>
+

@@ -23,6 +23,6 @@ Além disso, a insistência em fazer-nos ohar para Beatriz revela o ponto mais f
 
 Nada disso teria muita importância se a história nos envolvesse, mas nunca envolve. Ela é clichê, brega, novelística demais para conseguir chamar a atenção. É um passeio inconsequente pelas praias do Rio de Janeiro e pelas suas ruas absurdamente cenográficas (incluindo o morro). Não é um filme que dê raiva. É apenas uma curiosidade que passa e acaba, e nem nos lembramos por que estávamos aqui mesmo.
 
-<hr>"Doidas e Santas" (Brazil/Argentina, 2016), escrito por Martha Medeiros, Paulo Thiago, dirigido por Paulo Thiago, com Maria Paula, Georgiana Góes, Flávia Alessandra, Jonas Bloch, Roberto Bonfim
+"Doidas e Santas" (Brazil/Argentina, 2016), escrito por Martha Medeiros, Paulo Thiago, dirigido por Paulo Thiago, com Maria Paula, Georgiana Góes, Flávia Alessandra, Jonas Bloch, Roberto Bonfim
 
-<h2>Trailer - Doidas E Santas</h2>
+

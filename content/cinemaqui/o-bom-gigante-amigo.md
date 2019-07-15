@@ -21,6 +21,6 @@ Porém, o pior mesmo é a "solução" apresentada pelo filme para os gigantes ma
 
 Sem conseguir contar qualquer história, mas ao mesmo tempo conseguindo entreter crianças e adultos pela simples arte de contar acontecimentos, O Bom Gigante Amigo é um filme de crianças que serve para adultos com mente de criança. Isso não seria preocupante se fosse uma péssima educação para os pequeninos, que aprendem desde já a resolver seus conflitos no punho.
 
-<hr>"The BFG" (UK/Canada/USA, 2016), escrito por Melissa Mathison, Roald Dahl, dirigido por Steven Spielberg, com Mark Rylance, Ruby Barnhill, Penelope Wilton, Jemaine Clement, Rebecca Hall
+"The BFG" (UK/Canada/USA, 2016), escrito por Melissa Mathison, Roald Dahl, dirigido por Steven Spielberg, com Mark Rylance, Ruby Barnhill, Penelope Wilton, Jemaine Clement, Rebecca Hall
 
-<h2>Trailer - O Bom Gigante Amigo</h2>
+

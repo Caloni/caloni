@@ -21,4 +21,4 @@ Mas o roteirista Pedro Perazzo não nos quer contar. Ele fica repetindo a mesma 
 "Homem Livre (Brasil, 2017), escrito por Pedro Perazzo, dirigido por Alvaro Furloni, com Armando Babaioff como Hélio Lotte, Flavio Bauraqui como Pastor Gileno Maia, Thuany Andrade como Jamily."
 
 
-<h2>Trailer - Homem Livre</h2>
+

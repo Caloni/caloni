@@ -25,6 +25,6 @@ Note como o uso do enquadramento, por exemplo, coloca Marcelo como um cara minú
 
 Filmes de bandas sempre possuem a vantagem da trilha sonora e da dinâmica do vídeo clipe. Aqui não é diferente. Com o adendo da amizade dos dois. Isso é suficiente para assistir esse filme se você for fã, e um motivo razoável se aprecia biografias de bandas. Para o resto, quem não curte uma viagem temporal regada a maconha? Apenas as autoridades ainda não perceberam.
 
-<hr>"Legalize Já! Amizade Nunca Morre" (Brasil, 2017), escrito por Felipe Braga e L.G. Bayão, dirigido por Johnny Araújo e Gustavo Bonafé, com Renato Góes, Ícaro Silva, Marina Provenzzano.
+"Legalize Já! Amizade Nunca Morre" (Brasil, 2017), escrito por Felipe Braga e L.G. Bayão, dirigido por Johnny Araújo e Gustavo Bonafé, com Renato Góes, Ícaro Silva, Marina Provenzzano.
 
-<h2>Trailer - Legalize Já! Amizade Nunca Morre</h2>
+

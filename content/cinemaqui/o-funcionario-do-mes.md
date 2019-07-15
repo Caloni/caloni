@@ -21,6 +21,6 @@ E, por que não, de qualquer nação. A própria existência de países já comp
 
 A grande piada, ironicamente, é que isso não parece nada civilizado.
 
-<hr>"Quo vado?" (Italy, 2016), escrito por Gennaro Nunziante, Checco Zalone, dirigido por Gennaro Nunziante, com Checco Zalone, Eleonora Giovanardi, Sonia Bergamasco, Maurizio Micheli, Lino Banfi
+"Quo vado?" (Italy, 2016), escrito por Gennaro Nunziante, Checco Zalone, dirigido por Gennaro Nunziante, com Checco Zalone, Eleonora Giovanardi, Sonia Bergamasco, Maurizio Micheli, Lino Banfi
 
-<h2>Trailer - O Funcionário do Mês</h2>
+

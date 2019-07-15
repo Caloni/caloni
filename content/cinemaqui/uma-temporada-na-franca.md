@@ -21,6 +21,6 @@ Já como diretor Mahamat-Saleh se sai muito melhor, apostando em longas tomadas 
 
 Uma Temporada na França, como havia falado, é um resultado misto. Como filme-família ele se dá bem em suavizar até onde é permitido o tema da imigração de refugiados. Mas como um filme mais sério ele peca justamente por isso. Resta ao espectador entender este é um trabalho digno de nota por um lado ou pelo outro, ou se um acaba atrapalhando o outro.
 
-<hr>"Une saison en France" (França, 2017), escrito e dirigido por Mahamat-Saleh Haroun, com Eriq Ebouaney, Sandrine Bonnaire, Aalayna Lys.
+"Une saison en France" (França, 2017), escrito e dirigido por Mahamat-Saleh Haroun, com Eriq Ebouaney, Sandrine Bonnaire, Aalayna Lys.
 
-<h2>Trailer - Uma Temporada na França</h2>
+

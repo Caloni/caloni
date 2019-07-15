@@ -25,6 +25,6 @@ A dinamarquesa Sidse Babett Knudsen, mais conhecida internacionalmente agora pel
 
 Esta trama com certeza receberia atenção maior se estivesse embasada em fatos realmente kafkanianos, como o longo processo de Steven Avery no excelente documentário-série Making a Murderer, ou até uma ficção convincente como "Eu, Daniel Blake". Porém, seus fundamentos são fracos demais para esta se tornar a clássica luta dos fracos e oprimidos contra o sistema cruel e imponente. Sua heroína não percebe a fraqueza de suas premissas, e talvez seja isso o que a torne uma heróina tão convincente.
 
-<hr>"La fille de Brest" (France, 2016), escrito por Emmanuelle Bercot, Emmanuelle Bercot, Emmanuelle Bercot, Séverine Bosschem, Séverine Bosschem, dirigido por Emmanuelle Bercot, com Sidse Babett Knudsen, Benoît Magimel, Charlotte Laemmel, Isabelle de Hertogh, Lara Neumann
+"La fille de Brest" (France, 2016), escrito por Emmanuelle Bercot, Emmanuelle Bercot, Emmanuelle Bercot, Séverine Bosschem, Séverine Bosschem, dirigido por Emmanuelle Bercot, com Sidse Babett Knudsen, Benoît Magimel, Charlotte Laemmel, Isabelle de Hertogh, Lara Neumann
 
-<h2>Trailer - 150 Miligramas</h2>
+

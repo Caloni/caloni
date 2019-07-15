@@ -21,6 +21,6 @@ Melhor que isso apenas a escolha certeira de músicas, que são famosas e soaria
 
 Começando de maneira simplória e terminando um arco que foi se anunciando aos poucos, A Comunidade acaba sendo não um estudo de personagem, embora possa ser confundido como tal, mas como um estudo de toda uma geração. E não as 70, mas a nossa. Porque por mais compreensivos e desimpedidos de preconceitos/estereótipos que possamos nos auto-declarar, alguma coisa sempre parece estar no caminho. Se isso atrapalha experiências humanas melhores, ou é algum instinto de auto-preservação, ou até outra coisa, é um mistério. Mas apenas por tentar descobrir, o filme merece todo meu respeito.
 
-<hr>"Kollektivet" (Denmark/Sweden/Netherlands, 2016), escrito por Tobias Lindholm, Thomas Vinterberg, dirigido por Thomas Vinterberg, com Ulrich Thomsen, Fares Fares, Trine Dyrholm, Julie Agnete Vang, Helene Reingaard Neumann
+"Kollektivet" (Denmark/Sweden/Netherlands, 2016), escrito por Tobias Lindholm, Thomas Vinterberg, dirigido por Thomas Vinterberg, com Ulrich Thomsen, Fares Fares, Trine Dyrholm, Julie Agnete Vang, Helene Reingaard Neumann
 
-<h2>Trailer - A Comunidade</h2>
+

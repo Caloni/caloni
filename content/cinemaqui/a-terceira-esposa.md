@@ -15,6 +15,6 @@ Você provavelmente não vai encontrar nenhum momento marcante nos longos minuto
 
 Tentando abraçar a sociedade vietnamita inteira com um evento secular no espaço de uma pequena vila, A Terceira Esposa é seleção na Mostra de São Paulo talvez pelo engajamento contemporâneo, o que é um contrassenso. O único engajamento possível nos seus últimos minutos é com um bom momento de sono.
 
-<hr>"The Third Wife" (Vietnã, 2018), escrito e dirigido por Ash Mayfair, com Long Le Vu, Mai Thu Huong Maya, Nguyen Phuong Tra My.
+"The Third Wife" (Vietnã, 2018), escrito e dirigido por Ash Mayfair, com Long Le Vu, Mai Thu Huong Maya, Nguyen Phuong Tra My.
 
-<h2>Trailer - A Terceira Esposa</h2>
+

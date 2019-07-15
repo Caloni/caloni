@@ -25,4 +25,4 @@ No resto do filme há um tom de estranhamento, mas ele soa apenas incorreto. Um 
 "Cómprame un revolver (aka Buy Me a Gun)" (México, Colômbia, 2018), escrito por Julio Hernández Cordón, dirigido por Julio Hernández Cordón, com Ángel Rafael Yanez, Wallace Pereyda, Ángel Leonel Corral.
 
 
-<h2>Trailer - Compra Me Um Revólver</h2>
+

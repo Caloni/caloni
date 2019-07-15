@@ -21,6 +21,6 @@ O filme ainda recria cenários de uma era com o tom saudosista ligado no máximo
 
 Com menos cenas de ação do que sua versão de 23 anos atrás, "Jovens, Loucos e Mais Rebeldes" é uma versão juvenil e escolar da "Trilogia do Antes" do mesmo diretor, pois contém diversas questões sendo respondidas através da observação daquelas pessoas e outros tantos através dos diálogos ocasionais. Porém, se trata de um estudo com bastante energia, e onde dança, bebidas e mulheres floreiam as boas vindas ao mundo adulto de uma forma ingênua, realista e muito agradável.
 
-<hr>"Everybody Wants Some!!" (USA, 2016), escrito por Richard Linklater, dirigido por Richard Linklater, com Blake Jenner, Juston Street, Ryan Guzman, Tyler Hoechlin, Wyatt Russell
+"Everybody Wants Some!!" (USA, 2016), escrito por Richard Linklater, dirigido por Richard Linklater, com Blake Jenner, Juston Street, Ryan Guzman, Tyler Hoechlin, Wyatt Russell
 
-<h2>Trailer - Jovens, Loucos e Mais Rebeldes</h2>
+

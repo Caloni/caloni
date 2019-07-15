@@ -19,6 +19,6 @@ Contudo, enquanto o perigo sempre constante é a forma do filme de dialogar com 
 
 Com um terceiro ato que, infelizmente, não consegue chegar aos pés da complexidade temática de todo o filme, se privando de concluir toda a trama de uma maneira significativa, preferindo a saída burocrática e oficial, "Conexão Escobar" irá deixar saudades desses personagens, que foram criados por um elenco inspirado, em um filme de ação que acertadamente decide investir no que move a ação: flertar com a confiança de sociopatas alimentados pelo mercado proibido das drogas.
 
-<hr>"The Infiltrator" (UK, 2016), escrito por Ellen Sue Brown, Robert Mazur, dirigido por Brad Furman, com Bryan Cranston, Leanne Best, Daniel Mays, Tom Vaughan-Lawlor, Niall Hayes
+"The Infiltrator" (UK, 2016), escrito por Ellen Sue Brown, Robert Mazur, dirigido por Brad Furman, com Bryan Cranston, Leanne Best, Daniel Mays, Tom Vaughan-Lawlor, Niall Hayes
 
-<h2>Trailer - Conexão Escobar</h2>
+

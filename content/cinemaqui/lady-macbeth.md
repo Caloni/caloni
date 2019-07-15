@@ -17,6 +17,6 @@ A direção do estreante em longas William Oldroyd consegue ser invasivo sem soa
 
 O mais fascinante em acompanhar esta história é que seus acontecimentos brutais poderiam ser justificados, por bem ou mal. Porém, tudo não passa de um pano de fundo para que nós nos questionemos se tudo isso realmente é justificado. Florence Pugh, que faz Katherine, exibe uma falta de sopro vital da vida no começo. Porém, assim que começa a executar seus atos maldosos, isso não muda. Ela é assim, mesmo. Ela está jogando o jogo de fachada, também, dentro e fora das regras que lhe foram impostas. Ou tudo é apenas obra de uma paixão avassaladora, que dá asas aos pensamentos e ações mais escusas. Dizem que a paixão é um tipo de loucura, diagnosticada como tal. Em Lady Macbeth a paixão não apenas é uma forma de loucura, como uma desculpa para qualquer atrocidade covarde e egoísta.
 
-<hr>"Lady Macbeth" (UK, 2016), escrito por Nikolai Leskov, Alice Birch, dirigido por William Oldroyd, com Florence Pugh, Cosmo Jarvis, Paul Hilton, Naomi Ackie, Christopher Fairbank
+"Lady Macbeth" (UK, 2016), escrito por Nikolai Leskov, Alice Birch, dirigido por William Oldroyd, com Florence Pugh, Cosmo Jarvis, Paul Hilton, Naomi Ackie, Christopher Fairbank
 
-<h2>Trailer - Lady Macbeth</h2>
+

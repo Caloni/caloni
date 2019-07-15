@@ -39,4 +39,4 @@ Mas enfim, detalhes. O importante frisar é que TS4 mantém a qualidade dos film
 "Toy Story 4" (EUA, 2019), escrito por Andrew Stanton e Stephany Folsom, dirigido por Josh Cooley, com Tom Hanks, Tim Allen, Annie Potts, Christina Hendricks.
 
 
-<h2>Trailer - Toy Story 4</h2>
+

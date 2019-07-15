@@ -23,4 +23,4 @@ Discutindo questões racionais, emocionais e religiosas ao mesmo tempo, Um Ato d
 "Um Ato de Esperança" (Reino Unido, EUA, 2017), escrito por Ian McEwan baseado no seu próprio livro, dirigido por Richard Eyre, com Emma Thompson, Stanley Tucci, Fionn Whitehead.
 
 
-<h2>Trailer - Um Ato de Esperança</h2>
+

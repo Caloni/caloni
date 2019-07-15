@@ -19,4 +19,4 @@ O que mais fascina no filme é como ele consegue evitar diálogos desnecessário
 Volcano (Alemanha, Ucrânia, 2018), escrito por Alla Tyutyunnik, Dar'ya Averchenko, Roman Bondarchuk, dirigido por Bondarchuk, com Serhiy Stepansky, Viktor Zhdanov.
 
 
-<h2>Trailer - Volcano</h2>
+

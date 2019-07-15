@@ -21,4 +21,4 @@ A conclusão do sobrevivente é de culpa e dor por ter sido um revolucionário a
 Les tombeaux sans noms (aka Graves Without a Name) (Cambódia, França, 2018), escrito por Rithy Panh, Agnès Sénémaud, dirigido por Panh. Documentáro, guerra, comunismo, política, atrocidades, fome.
 
 
-<h2>Trailer - Túmulos Sem Nome</h2>
+

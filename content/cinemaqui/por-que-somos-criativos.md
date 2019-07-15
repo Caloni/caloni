@@ -15,4 +15,4 @@ Sim, o documentário de Hermann Vaske é apenas um mini-hype com artistas respon
 Why Are We Creative: The Centipede's Dilemma (Alemanha, 2018), dirigido por Hermann Vaske. Documentário.
 
 
-<h2>Trailer - Por Que Somos Criativos?</h2>
+

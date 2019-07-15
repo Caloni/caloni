@@ -25,4 +25,4 @@ E apesar de não ser um filme sobre uma história, mas um estado de espírito, "
 "Mary Poppins Returns" (EUA, 2018), escrito por David Magee e modificado depois por ele, Rob Marshall e John DeLuca (e tudo é baseado nas histórias de Mary Poppins por P.L. Travers), dirigido por Rob Marshall, com Emily Blunt, Lin-Manuel Miranda, Ben Whishaw, Emily Mortimer, Julie Walters, Colin Firth e crianças. PS: há uma participação mais que especial de Dick Van Dyke."
 
 
-<h2>Trailer - O Retorno De Mary Poppins</h2>
+

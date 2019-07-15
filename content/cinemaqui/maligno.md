@@ -25,4 +25,4 @@ Como havia dito, Maligno pode não agradar os que precisam que mesmo o terror si
 "Maligno" (Canadá, EUA, 2019), escrito por Jeff Buhler, dirigido por Nicholas McCarthy, com Jackson Robert Scott, Taylor Schilling, Peter Mooney, Colm Feore.
 
 
-<h2>Trailer - Maligno</h2>
+

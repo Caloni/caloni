@@ -15,6 +15,6 @@ Carmen Guarini, por outro lado, parece venerar demais seu tutor, e o apresenta e
 
 Obcecada pelos momentos mais brilhantes de Fernando Birri, "Amarra Seu Arado a Uma Estrela" é uma linda homenagem e revelação da mente deste cineasta que nos deixou aos 92 anos. Mas pela falta de história se torna um filme incompleto. O jogo entre Che Guevara e Utopia são dois pedaços que não são usados para muita coisa. O resultado é um passeio agradável sem muita coisa o que dizer. Mas, ainda assim, agradável.
 
-<hr>"Ata tu arado a una estrella" (Argentina, 2017), escrito por Carmen Guarini, dirigido por Carmen Guarini, com Fernando Birri, Osvaldo Bayer, Carmen Papio Birri.
+"Ata tu arado a una estrella" (Argentina, 2017), escrito por Carmen Guarini, dirigido por Carmen Guarini, com Fernando Birri, Osvaldo Bayer, Carmen Papio Birri.
 
-<h2>Trailer - Amarra Seu Arado a Uma Estrela</h2>
+

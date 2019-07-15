@@ -19,6 +19,6 @@ Para os mais céticos, essa experiência em direção ao místico pode necessita
 
 De qualquer forma, O Ornitólogo oferece uma aventura hermética, mas nunca enfadonha. Há acontecimentos misteriosos e de certa forma perturbadores o suficiente para entreter, sem que com isso nos revele de uma vez por todas o que tudo isso quer dizer. A busca por uma narrativa em um filme que começa com um talvez seja essa busca estéril que nosso herói faz em meio a uma floresta cheio de símbolos indecifráveis, que de alguma forma o transformaram. Mais ou menos como qualquer religião do planeta, ecológica ou não.
 
-<hr>"O Ornitólogo" (Portugal/France/Brazil, 2016), escrito por João Pedro Rodrigues, dirigido por João Pedro Rodrigues, com Paul Hamy, Xelo Cagiao, João Pedro Rodrigues, Han Wen, Chan Suan
+"O Ornitólogo" (Portugal/France/Brazil, 2016), escrito por João Pedro Rodrigues, dirigido por João Pedro Rodrigues, com Paul Hamy, Xelo Cagiao, João Pedro Rodrigues, Han Wen, Chan Suan
 
-<h2>Trailer - O Ornitólogo</h2>
+

@@ -15,6 +15,6 @@ E mesmo que se aprofundasse, os objetivos desses personagens nunca parecem muito
 
 Mas, convenhamos, nada parece particularmente brilhante neste filme, exceto as estrelas no céu, que são mostradas constantemente como uma metáfora boba e esquecível.
 
-<hr>"Planetarium" (France/Belgium, 2016), escrito por Rebecca Zlotowski, Robin Campillo, dirigido por Rebecca Zlotowski, com Natalie Portman, Lily-Rose Depp, Emmanuel Salinger, Amira Casar, Pierre Salvadori
+"Planetarium" (France/Belgium, 2016), escrito por Rebecca Zlotowski, Robin Campillo, dirigido por Rebecca Zlotowski, com Natalie Portman, Lily-Rose Depp, Emmanuel Salinger, Amira Casar, Pierre Salvadori
 
-<h2>Trailer - Além da Ilusão</h2>
+

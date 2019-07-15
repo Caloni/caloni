@@ -19,4 +19,4 @@ Para as crianças mais jovens talvez tenebroso demais, para adolescente chato e 
 The Nutcracker and the Four Realms (EUA, 2018), escrito por Ashleigh Powell sugerido pelo balé de Marius Petipa e inspirado pelo conto de E.T.A. Hoffmann, dirigido por Lasse Hallström e Joe Johnston, com Mackenzie Foy, Keira Knightley, Morgan Freeman, Helen Mirren. Fantasia, computação, design de arte.
 
 
-<h2>Trailer - O Quebra Nozes E Os Quatro Reinos</h2>
+

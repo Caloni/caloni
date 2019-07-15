@@ -16,6 +16,6 @@ Para piorar, há um flerte sempre no ar entre diretor/roteirista que beira o cli
 
 O que salva parcialmente a experiência é que ele pode ser visto como um longa metragem rápido. O que não o salva é se você perceber que no fundo é um curta-metragem, quase um conto, extremamente longo. Nesse caso, apenas desejo que você goste de novelas.
 
-<hr>"The Unattainable Story" (USA, 2016), escrito por Gay Walley, Guinevere Turner, dirigido por Emilia Ferreira, com Irina Björklund, Harry Hamlin, Kevin Kilner, Edoardo Ballerini, Caprice Benedetti
+"The Unattainable Story" (USA, 2016), escrito por Gay Walley, Guinevere Turner, dirigido por Emilia Ferreira, com Irina Björklund, Harry Hamlin, Kevin Kilner, Edoardo Ballerini, Caprice Benedetti
 
-<h2>Trailer - Entre Linhas</h2>
+

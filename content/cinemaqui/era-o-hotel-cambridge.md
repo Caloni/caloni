@@ -21,6 +21,6 @@ As atuações funcionam bem porque há um clima de cenas ensaiadas, mas com pess
 
 Além disso, Era o Hotel Cambridge se constitui como um retrato legítimo das discussões sociais e políticas da atualidade. Sem muito jeito nem muita lógica, o apelo à emoção começa nas poesias recitadas por um refugiado do Oriente Médio e termina em um teatro de movimentos paralisados, exatamente a síntese de como militantes e ativistas se vêm: heróis imortalizados e/ou as vítimas/protegidos clássicos: os menos beneficiados pelo próprio Estado que tanto defendem.
 
-<hr>"Era O Hotel Cambridge" (France/Brazil, 2016), escrito por Luis Alberto de Abreu, Eliane Caffé, Inês Figueiró, dirigido por Eliane Caffé, com José Dumont, Paulo Américo, Suely Franco, Ibtessam Umran, Juliane Arguello
+"Era O Hotel Cambridge" (France/Brazil, 2016), escrito por Luis Alberto de Abreu, Eliane Caffé, Inês Figueiró, dirigido por Eliane Caffé, com José Dumont, Paulo Américo, Suely Franco, Ibtessam Umran, Juliane Arguello
 
-<h2>Trailer - Era O Hotel Cambridge</h2>
+

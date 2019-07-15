@@ -18,6 +18,6 @@ Essa é uma comédia que tenta ser em alguns momentos meio escrachada, o que qua
 
 O filme para os saudosistas é um sonho, mas para os realistas um tormento. Ele traz uma bela mensagem de humanidade simbolizada em um homem de meia-idade tentando cruzar um rio sem experiência alguma. Não deixa de ser a situação de muitos de nós, perdidos nessa imensidão de informação em tempo real, consumismo desenfreado, "soluções" para problemas que não existiam antes das soluções terem sido criadas. E todo mundo rema seguindo a corrente.
 
-<hr>"Comme un avion" (France, 2015), escrito por Bruno Podalydès, dirigido por Bruno Podalydès, com Bruno Podalydès, Sandrine Kiberlain, Agnès Jaoui, Vimala Pons, Denis Podalydès
+"Comme un avion" (France, 2015), escrito por Bruno Podalydès, dirigido por Bruno Podalydès, com Bruno Podalydès, Sandrine Kiberlain, Agnès Jaoui, Vimala Pons, Denis Podalydès
 
-<h2>Trailer - Refúgio</h2>
+

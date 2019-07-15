@@ -26,4 +26,4 @@ Dogman é um drama violento que se estabelece fácil como uma poesia realista da
 "Dogman" (Itália, França, 2018), escrito por um batalhão, dirigido por Matteo Garrone, com Marcello Fonte, Edoardo Pesce.
 
 
-<h2>Trailer - Dogman</h2>
+

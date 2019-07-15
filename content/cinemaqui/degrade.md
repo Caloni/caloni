@@ -19,6 +19,6 @@ E por falar em esperança, há uma noiva no recinto. Ela aguarda ansiosa pelo se
 
 Porém, ao chegar no fim, vemos que se trata mais de uma experimentação cinematográfica do que a tentativa de explorar algo novo nesta guerra interminável na região. Se trata de explorar como algo inofensivo, como um salão de cabelereiro, pode ficar, dependendo da situação externa, mais alterado do que imaginaríamos. Ou talvez seja assim com todos os seres humanos vivendo sob uma constante pressão e estresse, sem expectativa nenhuma de melhorar sua vida no local que é chamado de inferno várias vezes no filme. Escolha se tom nesse degradê de sentimentos e veja com qual se identifica mais. O filme parece garantir implicitamente que todos eles existem nas diferentes pessoas reais que habitam esse inferno mais do que real: fatal.
 
-<hr>"Dégradé" (Occupied Palestinian Territory/France/Qatar, 2015), escrito por Arab Nasser, Tarzan Nasser, dirigido por Arab Nasser, Tarzan Nasser, com Hiam Abbass, Victoria Balitska, Manal Awad, Mirna Sakhla, Maisa Abd Elhadi
+"Dégradé" (Occupied Palestinian Territory/France/Qatar, 2015), escrito por Arab Nasser, Tarzan Nasser, dirigido por Arab Nasser, Tarzan Nasser, com Hiam Abbass, Victoria Balitska, Manal Awad, Mirna Sakhla, Maisa Abd Elhadi
 
-<h2>Trailer - Degradê</h2>
+

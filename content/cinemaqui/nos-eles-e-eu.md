@@ -21,6 +21,6 @@ Em não tentar nunca responder perguntas, e na maioria dos momentos evitar o con
 
 O mais curioso é que, ao negar suas origens e seus argumentos, na ponta da língua (ou da lente da câmera), é nisso que se transforma uma opinião quando esta tenta ser imparcial, isenta, neutra. Inconscientemente o negócio vira uma das aberrações do (outro) sionista Amos Gitai, como em Carmel (embora não tão horrivelmente executado). Não que isso seja culpa do diretor. Sua visão pode ser pura e ingênua como os colonos da periferia de Gaza. Se desprovido de exercício intelectual e argumentativo, vira um desses trabalhos de escola relativista, que não exprime opinião por ter medo de levar nota baixa. Talvez essa seja a guerra do medo do mundo civilizado: o que você disser e não disser será usado contra você. Ainda mais se você for um sionista covarde.
 
-<hr>"NEY: Nosotros, ellos y yo" (Argentina/Israel/Occupied Palestinian Territory, 2015), escrito por Nicolás Avruj, Alejandro Dujovne, Andrea Kleinman, dirigido por Nicolás Avruj, com Nur Al Levi, Frieda Geffner, Abu Harbed, Sebastián Muller, Iosef Shai
+"NEY: Nosotros, ellos y yo" (Argentina/Israel/Occupied Palestinian Territory, 2015), escrito por Nicolás Avruj, Alejandro Dujovne, Andrea Kleinman, dirigido por Nicolás Avruj, com Nur Al Levi, Frieda Geffner, Abu Harbed, Sebastián Muller, Iosef Shai
 
-<h2>Trailer - Nós, Eles e Eu</h2>
+

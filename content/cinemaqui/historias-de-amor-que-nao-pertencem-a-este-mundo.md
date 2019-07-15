@@ -19,6 +19,6 @@ O que é mais fascinante em "Histórias de Amor..." é que o filme não se preoc
 
 Entregando uma trilha sonora internacional e momentos "pop" bem embalados em um formato comercial, "Histórias de Amor..." fala sobre um tema sério sem nos fazer chorar, mas rir. É uma confusão de sentimentos com o gostinho de como é entender uma pessoa como Claudia. Talvez nunca saberemos, pois conhecemos apenas os efeitos de suas ações. E talvez ela nunca saberá como a vemos. É o muro intransponível da comunicação entre homens e mulheres. De uma maneira particular, o muro que separa cada ser humano do próximo. Ninguém nunca nos entende quando enxergamos o futuro.
 
-<hr>"Amori che non sanno stare al mondo" (Italy, 2017), escrito por Francesca Comencini, Francesca Manieri, Laura Paolucci, dirigido por Francesca Comencini, com Lucia Mascino, Thomas Trabacchi, Valentina Bellè, Iaia Forte, Carlotta Natoli
+"Amori che non sanno stare al mondo" (Italy, 2017), escrito por Francesca Comencini, Francesca Manieri, Laura Paolucci, dirigido por Francesca Comencini, com Lucia Mascino, Thomas Trabacchi, Valentina Bellè, Iaia Forte, Carlotta Natoli
 
-<h2>Trailer - Histórias de Amor Que Não Percentem a Este Mundo</h2>
+

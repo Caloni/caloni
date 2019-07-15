@@ -15,6 +15,6 @@ Como toda paródia, há uma ou outra referência engraçadinha a outros filmes d
 
 De uma forma ou de outra, se você procura um besteirol qualquer, mas que contenha referências pop e (mal/bem)-intencionadas, 50 Tons de Preto é uma escolha interessante, passageira e divertida. Até onde durar sua perversão humorística.
 
-<hr>"Fifty Shades of Black" (USA, 2016), escrito por Marlon Wayans, Rick Alvarez, dirigido por Michael Tiddes, com Marlon Wayans, Kali Hawk, Fred Willard, Mike Epps, Affion Crockett
+"Fifty Shades of Black" (USA, 2016), escrito por Marlon Wayans, Rick Alvarez, dirigido por Michael Tiddes, com Marlon Wayans, Kali Hawk, Fred Willard, Mike Epps, Affion Crockett
 
-<h2>Trailer - 50 Tons de Preto</h2>
+

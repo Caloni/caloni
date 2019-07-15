@@ -25,4 +25,4 @@ Freitas também assina o roteiro competente, que teve ajuda da crítica Ana Mari
 O Segredo de Davi (Brasil, 2018), escrito e dirigido por Diego Freitas, com Nicolas Prattes, Eucir de Souza, Cris Vianna.
 
 
-<h2>Trailer - O Segredo De Davi</h2>
+

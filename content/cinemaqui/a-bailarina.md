@@ -15,6 +15,6 @@ Basicamente a história é um giro em torno de inúmeros clichês, câmeras lent
 
 O fato é que os diretores Eric Summer e Éric Warin não possuem a menor fé na história e na sua heroína, preferindo investir em jogadas bobas de movimentos do que na verdadeira mensagem do filme (essa, sim, interessante): o argumento de que a paixão e de existir uma história triste por trás de toda bailarina de sucesso -- na mesma medida que escritores precisam de um drama -- que é seguramente melhor do que toda essa farofada.
 
-<hr>"Ballerina" (France/Canada, 2016), escrito por Carol Noble, Eric Summer, Laurent Zeitoun, dirigido por Eric Summer, Éric Warin, com Elle Fanning, Dane DeHaan, Maddie Ziegler, Carly Rae Jepsen, Camille Cottin
+"Ballerina" (France/Canada, 2016), escrito por Carol Noble, Eric Summer, Laurent Zeitoun, dirigido por Eric Summer, Éric Warin, com Elle Fanning, Dane DeHaan, Maddie Ziegler, Carly Rae Jepsen, Camille Cottin
 
-<h2>Trailer - A Bailarina</h2>
+

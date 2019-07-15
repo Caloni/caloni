@@ -24,4 +24,4 @@ Parecendo ter sido encomendado como um filme de despedida, "Jorginho Quinle" é 
 "Jorginho Guinle - $o se Vive Uma Vez" (Brasil, 2019), escrito por Otávio Escobar, Duda Ribeiro e Dostoiewski Champagnatte, dirigido por Escobar, com Saulo Segreto, Guilhermina Guinle, Letícia Spiller, Daniel Boaventura, Davi Goular e Jorge Guinle.
 
 
-<h2>Trailer - Jorginho Guinle So Se Vive Uma Vez</h2>
+

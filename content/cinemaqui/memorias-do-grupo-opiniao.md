@@ -20,4 +20,4 @@ Este é mais um daqueles registros obrigatórios do passado, está no festival �
 "Memórias do Grupo Opinião" (Brasil, 2019), escrito e dirigido por Paulo Thiago, com Carlos Diegues, Antonio Pitanga, Carlos Heitor Cony, Ferreira Gullar e imagens de arquivo.
 
 
-<h2>Trailer - Memórias do Grupo Opinião</h2>
+

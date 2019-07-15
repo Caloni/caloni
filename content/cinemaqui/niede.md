@@ -26,4 +26,4 @@ O que é uma pena para um conteúdo tão promissor. É raro vermos filmes sobre 
 "Niède" (Brasil, 2019), dirigido por Tiago Tambelli, com Niède Guidon.
 
 
-<h2>Trailer - Niède</h2>
+

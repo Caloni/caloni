@@ -19,4 +19,4 @@ O personagem de Melvil Poupaud, o trivial Marc, é o ponto de encontro das duas 
 "La belle et la belle" (França, 2018), escrito e dirigido por Sophie Fillières, com Sandrine Kiberlain, Agathe Bonitzer, Melvil Poupaud.
 
 
-<h2>Trailer - Quando Margot Encontra Margot</h2>
+

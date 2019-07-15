@@ -23,4 +23,4 @@ Econômico em sua narrativa mas eficaz em sua mensagem, A Prece é um ótimo exe
 La prière (França, 2018), ideia original por Aude Walker, cenários por Cédric Kahn, Samuel Doux e Fanny Burdino, dirigido por Cédric Kahn, com Anthony Bajon, Damien Chapelle, Alex Brendemühl.
 
 
-<h2>Trailer - A Prece</h2>
+

@@ -20,6 +20,6 @@ A sensação é que parece haver pelo menos três filmes aí. Hong-jin Na parece
 
 Porém, nada disso adianta se a história que acompanhamos vai fazendo cada vez menos sentido, e no final a única coisa que temos é o horror bem feito esteticamente, com diferentes formas de representá-lo -- incluindo um demônio impecável -- e sem aquilo que mais um terror necessita para que ele consiga ainda ser relevante: significado. Às vezes não saber a hora de cortar pode ser a maior maldição de um filme.
 
-<hr>"Goksung" (South Korea/USA, 2016), escrito por Hong-jin Na, dirigido por Hong-jin Na, com Do Won Kwak, Woo-hee Chun, Jung-min Hwang, So-yeon Jang, Han-Cheol Jo
+"Goksung" (South Korea/USA, 2016), escrito por Hong-jin Na, dirigido por Hong-jin Na, com Do Won Kwak, Woo-hee Chun, Jung-min Hwang, So-yeon Jang, Han-Cheol Jo
 
-<h2>Trailer - O Lamento</h2>
+

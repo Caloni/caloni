@@ -27,4 +27,4 @@ O que me lembra que este pode ser um filme difícil de ser visto por algumas pes
 "Gräns" (Suécia, Dinamarca, 2018), escrito por Ali Abbasi, Isabella Eklöf e John Ajvide Lindqvist baseado em sua história, dirigido por Abbasi, com Eva Melander, Eero Milonoff, Jörgen Thorsson.
 
 
-<h2>Trailer - Border</h2>
+

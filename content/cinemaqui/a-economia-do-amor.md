@@ -21,6 +21,6 @@ Já seu marido, Boris (interpretado por Cédric Kahn de uma maneira sobrenatural
 
 Interessante como estudo de personagens, mas mais interessante ainda como estudo da geração atual europeia, A Economia do Amor fornece combustível para analisarmos as complexas mudanças em sua sociedade que está aprendendo a duras penas que as crises econômicas atingem em cheio o coração de famílias felizes do jeito que eram. O choro de Marie durante um dos poucos momentos felizes no filme demonstra a perda tanto da inocência quanto da possibilidade de retorno à normalidade.
 
-<hr>"L'économie du couple" (France/Belgium, 2016), escrito por Fanny Burdino, Fanny Burdino, Joachim Lafosse, Joachim Lafosse, Mazarine Pingeot, dirigido por Joachim Lafosse, com Bérénice Bejo, Cédric Kahn, Marthe Keller, Jade Soentjens, Margaux Soentjens
+"L'économie du couple" (France/Belgium, 2016), escrito por Fanny Burdino, Fanny Burdino, Joachim Lafosse, Joachim Lafosse, Mazarine Pingeot, dirigido por Joachim Lafosse, com Bérénice Bejo, Cédric Kahn, Marthe Keller, Jade Soentjens, Margaux Soentjens
 
-<h2>Trailer - A Economia do Amor</h2>
+

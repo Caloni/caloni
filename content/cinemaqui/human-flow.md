@@ -19,6 +19,6 @@ Outro fator estético marcante deste filme é sua trilha sonora. Naturalmente mi
 
 Excessivamente longo para um filme que possui um fiapo de narrativa, Human Flow é um filme necessário. Se foi a melhor maneira de fazê-lo, não se sabe. Há um desafio implícito quando se diz "vou fazer um documentário que envolve lugares isolados em várias partes do mundo". Esse desafio foi transposto com elegência e leveza. Tanta leveza que talvez o peso da migração precária dessas pessoas parece ter ficado no caminho. Mas quem sabe esteja no resto do material que não foi para o filme.
 
-<hr>"Human Flow" (Germany, 2017), escrito por Chin-Chin Yap, Tim Finch, Boris Cheshirkov, dirigido por Ai Weiwei, com Israa Abboud, Hiba Abed, Rami Abu Sondos, Asmaa Al-Bahiyya, Eman Al-Masina
+"Human Flow" (Germany, 2017), escrito por Chin-Chin Yap, Tim Finch, Boris Cheshirkov, dirigido por Ai Weiwei, com Israa Abboud, Hiba Abed, Rami Abu Sondos, Asmaa Al-Bahiyya, Eman Al-Masina
 
-<h2>Trailer - Human Flow</h2>
+

@@ -25,6 +25,6 @@ O que infelizmente não nos traz nenhuma surpresa, assim como esse filme. O que 
 
 A propósito, voltando ao caso real, foi descoberto que a causa da morte da menina exorcizada foi uma overdose de adrenalina dada na ambulância. Mas é claro que este spoiler da vida real não apareceria nos créditos finais. Estragaria toda a graça do filme.
 
-<hr>"The Crucifixion" (EUA/Reino Unido/Romênia, 2017), escrito por Chad Hayes, Carey W. Hayes, dirigido por Xavier Gens, com Sophie Cookson, Corneliu Ulici, Ada Lupu.
+"The Crucifixion" (EUA/Reino Unido/Romênia, 2017), escrito por Chad Hayes, Carey W. Hayes, dirigido por Xavier Gens, com Sophie Cookson, Corneliu Ulici, Ada Lupu.
 
-<h2>Trailer - Exorcismos e Demônios</h2>
+

@@ -17,6 +17,6 @@ Nessa visão distorcida já conhecida por todos, a versão da realidade onde há
 
 Dessa forma temos um trabalho competente que se transforma tematicamente em mais do mesmo. Com os valores errados como guia das ações dos cineastas (diretores e roteiristas) não há brilhantismo técnico que o suporte. Assim como, por analogia, por mais genial que seja um arquiteto, um engenheiro e a mão de obra por trás da construção de um edifício, nada resiste ao vandalismo fácil e rancoroso do dia-a-dia.
 
-<hr>"Olhar Instigado" (Brasil, 2015), escrito por Guilherme Moraes Quintella, Chico Gomes, dirigido por Chico Gomes, Felipe Lion
+"Olhar Instigado" (Brasil, 2015), escrito por Guilherme Moraes Quintella, Chico Gomes, dirigido por Chico Gomes, Felipe Lion
 
-<h2>Trailer - Olhar Instigado</h2>
+

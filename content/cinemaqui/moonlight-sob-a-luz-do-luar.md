@@ -21,6 +21,6 @@ E quando reparamos nessa falta de significado, nos lembramos que a própria foto
 
 Moonlight termina sendo o que chamamos de "filme bonito", ou quando um amigo que está aprendendo elementos narrativos da sétima arte repara que "a fotografia é muito bonita". Porém, "filme bonito" e "fotografia bonita" não querem dizer nada por si só. Um filme precisa se posicionar de alguma forma para ser levado a sério, nem que seja uma abordagem mais naturalista, onde não há interferência. Não é este o caso. Há interferência, ela é sentida em vários aspectos, mas ainda assim ela soa como ruído ao fundo de uma história que poderia ser muito melhor se contada com um silêncio ao fundo.
 
-<hr>"Moonlight" (USA, 2016), escrito por Barry Jenkins, Tarell Alvin McCraney, dirigido por Barry Jenkins, com Mahershala Ali, Shariff Earp, Duan Sanderson, Alex R. Hibbert, Janelle Monáe
+"Moonlight" (USA, 2016), escrito por Barry Jenkins, Tarell Alvin McCraney, dirigido por Barry Jenkins, com Mahershala Ali, Shariff Earp, Duan Sanderson, Alex R. Hibbert, Janelle Monáe
 
-<h2>Trailer - Moonlight: Sob a Luz do Luar</h2>
+

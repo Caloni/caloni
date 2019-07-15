@@ -17,6 +17,6 @@ Já a virtude de Philippe Le Guay na direção fica por conta dos seus cortes se
 
 Este também é um filme que tenta levar a discussão para o relacionamento entre pai e filha, e por isso envolve tanto a família, além de também abordar muito timidamente o respeito aos que já viveram demais. Porém, infelizmente a interpretação de Jean Rochefort rouba a cena, e o protagonista se torna muito maior do que qualquer assunto que o filme queira abordar, o que é uma ótima notícia, mas que torna a conclusão insatisfatória. O que é uma pena, pois a frase "não devemos brigar com os vinhos, assim como as pessoas; é perda de tempo" merecia uma situação melhor para ser dita. Não importa. Não é sempre que temos o momento certo para viver, pois os momentos são fragmentos no tempo que muitos de idade avançada não possuem o luxo de reter em suas memórias. Se o filme conseguir inspirar isso em seu espectador, já estará muito acima da média.
 
-<hr>"Floride" (France, 2015), escrito por Florian Zeller, Philippe Le Guay, Jérôme Tonnerre, dirigido por Philippe Le Guay, com Jean Rochefort, Sandrine Kiberlain, Laurent Lucas, Anamaria Marinca, Clément Métayer
+"Floride" (France, 2015), escrito por Florian Zeller, Philippe Le Guay, Jérôme Tonnerre, dirigido por Philippe Le Guay, com Jean Rochefort, Sandrine Kiberlain, Laurent Lucas, Anamaria Marinca, Clément Métayer
 
-<h2>Trailer - A Viagem de Meu Pai</h2>
+

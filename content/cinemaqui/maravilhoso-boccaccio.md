@@ -17,6 +17,6 @@ Dessa forma, é muito mais interessante ver a história do artesão ingênuo que
 
 Ao fim, Maravilhoso Boccaccio parece uma espécie de homenagem a um autor já conhecidíssimo da Idade Média em um formato mais palatável para o grande público italiano. Poderia ir direto para a TV e teria algum público cult, mas como Cinema, se torna tão competente quanto as aventuras de Moisés televisionado pela emissora de Edir Macedo.
 
-<hr>"Maraviglioso Boccaccio" (Italy/France, 2015), escrito por Giovanni Boccaccio, Paolo Taviani, Vittorio Taviani, dirigido por Paolo Taviani, Vittorio Taviani, com Lello Arena, Paola Cortellesi, Carolina Crescentini, Flavio Parenti, Vittoria Puccini
+"Maraviglioso Boccaccio" (Italy/France, 2015), escrito por Giovanni Boccaccio, Paolo Taviani, Vittorio Taviani, dirigido por Paolo Taviani, Vittorio Taviani, com Lello Arena, Paola Cortellesi, Carolina Crescentini, Flavio Parenti, Vittoria Puccini
 
-<h2>Trailer - Maravilhoso Boccaccio</h2>
+

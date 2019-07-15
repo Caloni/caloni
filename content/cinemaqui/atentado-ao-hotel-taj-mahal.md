@@ -25,4 +25,4 @@ Muitas pessoas morrem nesse filme. Pessoas que você não veria morrendo em film
 "Hotel Mumbai" (Austrália, EUA, Índia, 2018), escrito por John Collee, Anthony Maras, dirigido por Anthony Maras, com Dev Patel, Armie Hammer, Nazanin Boniadi.
 
 
-<h2>Trailer - Atentado ao Hotel Taj Mahal</h2>
+

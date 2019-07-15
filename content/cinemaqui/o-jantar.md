@@ -19,6 +19,6 @@ O diretor e roteirista Oren Moverman pega o romance do holandês Herman Koch e o
 
 O uso de cores sisudas (e sombrias) e cenários imponentes (apesar de vermos tudo mais de perto) criam uma atmosfera angustiante. A saída e entrada de pessoas à mesa deixa tudo mais inquieto. Os mistérios ainda não revelados elevam a tensão cada vez que constatamos que esta é uma família à beira da explosão. Quando o mistério é revelado se torna claro que Moverman quer abalar muito mais do que os alicerces de uma simples família.
 
-<hr>"The Dinner" (USA, 2017), escrito por Oren Moverman, Herman Koch, dirigido por Oren Moverman, com Michael Chernus, Taylor Rae Almonte, Steve Coogan, Charlie Plummer, Seamus Davey-Fitzpatrick
+"The Dinner" (USA, 2017), escrito por Oren Moverman, Herman Koch, dirigido por Oren Moverman, com Michael Chernus, Taylor Rae Almonte, Steve Coogan, Charlie Plummer, Seamus Davey-Fitzpatrick
 
-<h2>Trailer - O Jantar</h2>
+

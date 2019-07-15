@@ -23,6 +23,6 @@ E o premiado diretor/roteirista Aly Muritiba (do ótimo Para Minha Amada Morta) 
 
 Havia dito anteriormente que o filme é desses milagres onde tudo acontece dando certo, ainda que aqui se trate de um resultado tão realista quanto assimétrico, que flerta com a sensação de inacabado. O milagre é surgir desta profissão um cineasta competente como Muritiba, que encontra cada vez maneiras mais criativas e engenhosas de contar uma história, e aos poucos vai galgando posições relevantes no cinema nacional. Também é uma provocação inteligente, esta da vida real, que apenas depois de trabalhos com apelo mais comercial este filme chega às salas comerciais. Não chega a ser uma surpresa. Inserido em uma cultura da incompetência, é de se esperar que filmes sofram dos mesmos sintomas vistos na história de "A Gente". O trocadilho é a cereja no bolo.
 
-<hr>"A Gente" (Brazil, 2013), escrito por Aly Muritiba, dirigido por Aly Muritiba, com Cast
+"A Gente" (Brazil, 2013), escrito por Aly Muritiba, dirigido por Aly Muritiba, com Cast
 
-<h2>Trailer - A Gente</h2>
+

@@ -19,4 +19,4 @@ Tudo que não é dito em A Quietude vai se revelando ao espectador como um tapa 
 La quietud (aka The Quietude) (Argentina, 2018), escrito e dirigido por Pablo Trapero, com Martina Gusman, Bérénice Bejo, Edgar Ramírez, Graciela Borges, Joaquín Furriel, Isidoro Tolcachir.
 
 
-<h2>Trailer - A Quietude</h2>
+

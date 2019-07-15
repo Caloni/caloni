@@ -30,4 +30,4 @@ Tudo isso cantando "Bella Ciao", o hino informal contra o fascismo no mundo todo
 "Jovens Infelizes Ou Um Homem Que Grita Não É Um Urso Que Dança" (Brasil, 2016), escrito e dirigido por Thiago B. Mendonça, com Clarissa Moser como Clarissa, Ieltxu Martinez Ortueta como Basco, Rafaela Penteado como Rafa, Stella Prata como Ana, Alex Rocha como Alex, Bebel Mendonça como Filha, Zé Antônio de Carmmo como o Pai de Clarissa.
 
 
-<h2>Trailer - Jovens Infelizes Ou Um Homem Que Grita Não É Um Urso Que Dança</h2>
+

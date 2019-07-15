@@ -25,6 +25,6 @@ Não que isso estrague o filme. Ele é esteticamente muito refinado para nos sen
 
 O que nos faz voltar novamente para a questão levantada no filme entre ciência e sobrenatural. Seria a ciência uma versão asséptica do próprio conhecimento? Estaríamos nós enclausurados deste lado do vidro (ou espelho), incapazes de enxergar o que há além? Essas questões são levemente arranhadas pelo filme, mas nunca conduzidas além disso. O máximo que passa são alguns fios de cabelo. E o outro lado, como visto em "Thelma", também seria frio demais para que houvesse alguma novidade.
 
-<hr>"Thelma" (Norway/France/Denmark/Sweden, 2017), escrito por Joachim Trier, Eskil Vogt, dirigido por Joachim Trier, com Eili Harboe, Kaya Wilkins, Henrik Rafaelsen, Ellen Dorrit Petersen, Ludvig Algeback
+"Thelma" (Norway/France/Denmark/Sweden, 2017), escrito por Joachim Trier, Eskil Vogt, dirigido por Joachim Trier, com Eili Harboe, Kaya Wilkins, Henrik Rafaelsen, Ellen Dorrit Petersen, Ludvig Algeback
 
-<h2>Trailer - Thelma</h2>
+

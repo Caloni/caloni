@@ -25,4 +25,4 @@ Bons filmes nos ensinam lições sobre como o mundo é sem nos entregar as respo
 desc: "School's Out. France, 2018. Dirigido por Sébastien Marnier, escrito por Christophe Dufossé, Elise Griffon, Sébastien Marnier. Com Laurent Lafitte, Emmanuelle Bercot, Luàna Bajrami."
 
 
-<h2>Trailer - O Professor Substituto</h2>
+

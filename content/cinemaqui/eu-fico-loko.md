@@ -22,6 +22,6 @@ E este não é um vídeo caseiro. Muito pelo contrário. Usando locações caras
 
 Utilizando uma edição vídeo-clipe, recorrendo frequentemente a câmeras lentas e colagens que parecem eliminar o embaraço da vida real, como o som da música da banda nerd, além de utilizar uma trilha sonora empolgada e mais que apropriada com o tema jovem, "Eu Fico Loko" consegue se tornar longo em 90 minutos de duração, mas acaba acertando, já que ser um adolescente problemático é comprovar que o tempo, no universo, às vezes congela. E não temos na hora a ferramenta de edição para ficar bonito o upload.
 
-<hr>"Eu Fico Loko" (Brazil, 2017), escrito por Christian Figueiredo, Bruno Garotti, Sylvio Gonçalves, dirigido por Bruno Garotti, com Christian Figueiredo, Alessandra Negrini, Filipe Bragança, Suely Franco, Marcello Airoldi
+"Eu Fico Loko" (Brazil, 2017), escrito por Christian Figueiredo, Bruno Garotti, Sylvio Gonçalves, dirigido por Bruno Garotti, com Christian Figueiredo, Alessandra Negrini, Filipe Bragança, Suely Franco, Marcello Airoldi
 
-<h2>Trailer - Eu Fico Loko</h2>
+

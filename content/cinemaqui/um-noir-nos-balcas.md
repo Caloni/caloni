@@ -13,6 +13,6 @@ Além dos truques com as propagandas de cigarros -- um achado divertido em si me
 
 Não é possível extrair significado de toda essa bagunça sem ritmo exceto a própria estética aplicada no filme. Não é um filme sobre uma história. A história é mera isca para apreciamos vídeos antigos de médicos promovendo o fumo ou imagens de bebês que piscam em alguns momentos. Um Clube da Luta sem imaginação nem propósito preparado artesanalmente em dois dias na Suécia e cinco na Sérvia. Não me admira que tenha sido feito tão rápido: não há roteiro enquanto o filme pisca para você. Vai um cigarro aí?
 
-<hr>"Bankan Noir" (Suécia, Montenegro, 2017), escrito e dirigido por Draen Kuljanin, com Disa Östrand, Johannes Bah Kuhnkee, Sergej Trifunovic.
+"Bankan Noir" (Suécia, Montenegro, 2017), escrito e dirigido por Draen Kuljanin, com Disa Östrand, Johannes Bah Kuhnkee, Sergej Trifunovic.
 
-<h2>Trailer - Um Noir nos Balcãs</h2>
+

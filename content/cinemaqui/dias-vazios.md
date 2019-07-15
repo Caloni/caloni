@@ -23,4 +23,4 @@ O resultado não é coerente, pois é mais imaginativo, mas entretém, como todo
 "Dias Vazios" (Brasil, 2018), escrito por Robney Bruno Almeida, dirigido por Robney Bruno Almeida, com Arthur Avila, Natália Dantas, Vinícius Queiroz, Carla Ribas, Nayara Tavares.
 
 
-<h2>Trailer - Dias Vazios</h2>
+

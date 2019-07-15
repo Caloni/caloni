@@ -17,6 +17,6 @@ Seria fácil rotular o personagem de James Franco como autista, nem que seja um 
 
 O que o roteiro de Bjørn Olaf Johannessen nos entrega não e nada fácil de acompanhar. O fato de Wenders transformar em uma experiência que lembra um Swimming Pool (François Ozon, 2003) para adultos é o que torna o filme mais palatável, mesmo visualmente. Porém, ainda assim há um esgotamento mental em episódios que vão se espaçando em período de quatro anos, e o título nunca parece fazer jus à sua promessa. São esses filmes que fazem as pessoas não gostarem de "filme de arte" e o espectador mais atento, cansado da mesmice todo final de semana, ficar fascinado pelas possibilidades que o Cinema traz; mesmo que ele não goste tanto assim do resultado final.
 
-<hr>"Every Thing Will Be Fine" (Germany/Canada/France/Sweden/Norway, 2015), escrito por Bjørn Olaf Johannessen, dirigido por Wim Wenders, com Rachel McAdams, James Franco, Peter Stormare, Charlotte Gainsbourg, Julia Sarah Stone
+"Every Thing Will Be Fine" (Germany/Canada/France/Sweden/Norway, 2015), escrito por Bjørn Olaf Johannessen, dirigido por Wim Wenders, com Rachel McAdams, James Franco, Peter Stormare, Charlotte Gainsbourg, Julia Sarah Stone
 
-<h2>Trailer - Tudo Vai Fica Bem</h2>
+

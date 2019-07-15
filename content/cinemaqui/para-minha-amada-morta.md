@@ -19,6 +19,6 @@ A câmera, sempre com uma profundidade rasíssima, só utiliza o ponto de vista 
 
 A direção de Aly Muritiba -- que também escreve o roteiro -- mantém tudo sob controle, e talvez esse seja o pecadilho do filme, que prefere não ousar, mas apenas conjecturar. No entanto, como se pode testemunhar, apenas o "ele pode fazer" já é incômodo o suficiente para ganhar a total atenção de quem assiste. Um feito e tanto em um filme com poucos acontecimentos impactantes.
 
-<hr>"Para Minha Amada Morta" (Brazil, 2015), escrito por Aly Muritiba, Aly Muritiba, dirigido por Aly Muritiba, com Fernando Alves Pinto, Mayana Neiva, Lourinelson Vladmir, Giuly Biancato, Michelle Pucci
+"Para Minha Amada Morta" (Brazil, 2015), escrito por Aly Muritiba, Aly Muritiba, dirigido por Aly Muritiba, com Fernando Alves Pinto, Mayana Neiva, Lourinelson Vladmir, Giuly Biancato, Michelle Pucci
 
-<h2>Trailer - Para Minha Amada Morta</h2>
+

@@ -17,6 +17,6 @@ Mas falar de humor, que é algo tão íntimo de cada um, é um assunto complicad
 
 A sensação geral ao assistir esse filme é de uma ótima produção nacional com temas repetidos vistos sob um novo olhar. O filme vai fácil, assim como as atuações, e a despeito de se passar quase todo em um motel não é motivo para baixaria: ninguém fica de fato pelado, e o objetivo quase nunca é sensualizar, mas apenas divertir. O problema, portanto, fica na questão se o "divertir" fica acima ou abaixo das expectativas de uma "globochanchada" de todo mês.
 
-<hr>"Ninguém Entra, Ninguém Sai" (Brazil, 2017), escrito por Paulo Halm, Luis Fernando Verissimo, dirigido por Hsu Chien Hsin, com Catarina Abdalla, Karolina Albertassi, Monique Alfradique, Leo Bahia, Renata Castro Barbosa
+"Ninguém Entra, Ninguém Sai" (Brazil, 2017), escrito por Paulo Halm, Luis Fernando Verissimo, dirigido por Hsu Chien Hsin, com Catarina Abdalla, Karolina Albertassi, Monique Alfradique, Leo Bahia, Renata Castro Barbosa
 
-<h2>Trailer - Ninguém Entra, Ninguém Sai</h2>
+

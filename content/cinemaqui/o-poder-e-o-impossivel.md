@@ -21,6 +21,6 @@ Mas ele é drenado aos poucos, e Waugh sabe disso. Sua cara vai queimando aos po
 
 O Poder e o Impossível é um filme forte e tenso. Não é uma história com um final feliz tão fácil assim. É um ritual de passagem. Talvez para um amadurecimento. Isso não fica totalmente claro. Mas é menos de sobrevivência e mais de compreensão do que é a vida. Se para isso LeMarque teve que ressuscitar, é algo que se deixa para a interpretação do espectador.
 
-<hr>"6 Below: Miracle on the Mountain" (USA, 2017), escrito por Madison Turner, Eric LeMarque, Davin Seay, dirigido por Scott Waugh, com Josh Hartnett, Mira Sorvino, Sarah Dumont, Kale Culley, Jason Cottle
+"6 Below: Miracle on the Mountain" (USA, 2017), escrito por Madison Turner, Eric LeMarque, Davin Seay, dirigido por Scott Waugh, com Josh Hartnett, Mira Sorvino, Sarah Dumont, Kale Culley, Jason Cottle
 
-<h2>Trailer - O Poder e o Impossível</h2>
+

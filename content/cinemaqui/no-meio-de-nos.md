@@ -18,6 +18,6 @@ Para dar um ar de credibilidade maior que os tristes canais atuais da History Ch
 
 Conseguindo se alongar desnecessariamente em menos de 90 minutos de projeção, o vídeo encomendado definitivamente não possui nada que possa ser chamado de cinematográfico, exceto imagens em sucessão. Contudo, se houvesse uma prova, ou resquício de prova, no meio de todas as bobagens vistas no longa, com certeza valeria a pena. No entanto, a única coisa que foi ofertada a este crítico foi uma cópia do livro-alvo da campanha de marketing. Que eu enviarei com prazer (frete incluso) a qualquer um que me apresentar alguma prova cabal de qualquer um dos eventos que o filme cita. Pode até ser as Cartas de Zener, uma tentativa defasada de transformar parapsicologia em ciência através de um método testável. Aliás, um dos entrevistados, ao falar sobre uma divisão americana obscura durante a Guerra Fria, diz que a parapsicologia já havia sido provada ciência desde a década de 60, e era usada pela Nasa para se comunicar com ETs. Esse é o nível de confiabilidade do filme, caso ainda queira arriscar.
 
-<hr>"No Meio de Nós" (Brazil, 2017), escrito por Juliano Pozati, dirigido por Juliano Pozati, com Renato Prieto.
+"No Meio de Nós" (Brazil, 2017), escrito por Juliano Pozati, dirigido por Juliano Pozati, com Renato Prieto.
 
-<h2>Trailer - No Meio de Nós</h2>
+

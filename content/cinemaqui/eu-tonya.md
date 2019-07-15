@@ -27,6 +27,6 @@ Mais inventivo é a direção de arte, e mais ainda é o figurino, que reconstro
 
 Alguns desses detalhes no filme são uma recompensa agradável em um filme que não voa muito alto, mas consegue se manter em uma boa altura por tempo suficiente para estar acima da média. E se você gostar de finais tragicômico com hits de sucesso pipocando, este ainda pode ser o seu filme do ano.
 
-<hr>"I, Tonya" (EUA, 2017), escrito por Steven Rogers, dirigido por Craig Gillespie, com Margot Robbie, Sebastian Stan, Allison Janney.
+"I, Tonya" (EUA, 2017), escrito por Steven Rogers, dirigido por Craig Gillespie, com Margot Robbie, Sebastian Stan, Allison Janney.
 
-<h2>Trailer - Eu, Tonya</h2>
+

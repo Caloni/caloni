@@ -23,6 +23,6 @@ Por outro lado, a presença de Tahar Rahim é sentida, e seu personagem promete 
 
 Dessa forma, "Os Anarquistas" é um resultado interessante esteticamente, usa um grupo revolucionário da moda -- nem que seja apenas o nome -- mas nunca consegue decolar, pois carece de história necessária para isso. A vida como anarquista é muito mais simples e muito menos tensa que qualquer religioso/estatista sonha em ter. Assim como um filme que lida com espiritismo, conseguir tensão do ar da liberdade é algo extremamente difícil.
 
-<hr>"Les anarchistes" (France, 2015), escrito por Gaëlle Macé, Elie Wajeman, dirigido por Elie Wajeman, com Tahar Rahim, Adèle Exarchopoulos, Swann Arlaud, Guillaume Gouix, Karim Leklou
+"Les anarchistes" (France, 2015), escrito por Gaëlle Macé, Elie Wajeman, dirigido por Elie Wajeman, com Tahar Rahim, Adèle Exarchopoulos, Swann Arlaud, Guillaume Gouix, Karim Leklou
 
-<h2>Trailer - Os Anarquistas</h2>
+

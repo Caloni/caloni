@@ -23,6 +23,6 @@ Em outros momentos, os detalhes empregados tanto pelo diretor Ben Lewin quanto p
 
 "Tudo que Quero" como produção felizmente se beneficia de espectadores preguiçosos que possuem o dom de não investir muita atenção na sala de cinema. Ou no caso deste filme, até na sala de casa. Lançado nos EUA tanto no cinema quanto em streaming, ele já foi formatado praticamente para ser assistido enquanto se mexe no celular ou se conversa casualmente com as visitas. No final das contas o filme serve para seu propósito utilitário: uma trilha sonora bonita com alguns momentos que podem ser comentados sem sequer entender o que está acontecendo na história. A Netflix deveria pegar (mais) essa receita para seu caderninho de anotações.
 
-<hr>"Please Stand By" (EUA, 2017), escrito por Michael Golamco, dirigido por Ben Lewin, com Dakota Fanning, Toni Collette, Alice Eve.
+"Please Stand By" (EUA, 2017), escrito por Michael Golamco, dirigido por Ben Lewin, com Dakota Fanning, Toni Collette, Alice Eve.
 
-<h2>Trailer - Tudo que Quero</h2>
+

@@ -23,4 +23,4 @@ Muitos gostarão desse filme porque tem o lindo, simpático e convincente Omar S
 "Yao. France, Senegal, 2018. Dirigido por Philippe Godeau, escrito por Philippe Godeau, Agnès de Sacy. Com Omar Sy, Lionel Louis Basse, Fatoumata Diawara."
 
 
-<h2>Trailer - Jornada Da Vida</h2>
+

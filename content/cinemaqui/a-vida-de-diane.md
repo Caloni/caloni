@@ -21,4 +21,4 @@ A interpretação de Mary Kay Place não é marcante, mas este é um papel injus
 "A Vida De Diane" (EUA, 2018), escrito por Kent Jones, dirigido por Kent Jones, com Mary Kay Place, Jake Lacy, Estelle Parsons.
 
 
-<h2>Trailer - A Vida De Diane</h2>
+

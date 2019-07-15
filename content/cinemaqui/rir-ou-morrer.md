@@ -19,4 +19,4 @@ Feito para o espectador fazer rir, mas não muito, e conseguir através de algum
 Suomen hauskin mies (aka Laugh or Die) (Finlândia, Suécia, 2018), escrito por Heikki Kujanpää, Mikko Reitala, dirigido por Kujanpää, com Martti Suosalo, Jani Volanen, Leena Pöysti e tantos outros. Primeira guerra, drama, história, comédia, humor, fatos reais.
 
 
-<h2>Trailer - Rir Ou Morrer</h2>
+

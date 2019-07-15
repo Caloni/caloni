@@ -21,4 +21,4 @@ Este não é um fime muito empolgante. É para aqueles que topam um filme de est
 "Memórias da Dor" (França, Bélgica, Suíça, 2017), escrito por Emmanuel Finkiel adaptado do romance de Marguerite Duras, dirigido por Finkiel, com Mélanie Thierry, Benoît Magimel, Benjamin Biolay.
 
 
-<h2>Trailer - Memórias da Dor</h2>
+

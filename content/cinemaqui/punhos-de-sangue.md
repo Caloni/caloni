@@ -15,6 +15,6 @@ Estamos nos anos 70 como ele deve ser para esse filme, e é possível ter certez
 
 Conseguindo unir ficção, realidade, realidade e ficção novamente, Punhos de Sangue se mostra um trabalho incrivelmente coeso e que segue à altura dos melhores trabalhos do gênero. Há tanto drama (real, não maniqueísta) em seu núcleo que as músicas ligeiramente animadas e as cores sutilmente coloridas parecem tentar melhorar o clima durante a projeção. E assim como o comportamento auto-destrutivo de Wepner, elas não conseguem. E que melhor prova das virtudes desse filme quando, diferente de seu protagonista, nós não sabemos quantos mais golpes conseguiremos aguentar até o final?
 
-<hr>"The Bleeder" (USA, 2016), escrito por Jeff Feuerzeig, Jerry Stahl, Michael Cristofer, Liev Schreiber, dirigido por Philippe Falardeau, com Elisabeth Moss, Naomi Watts, Ron Perlman, Liev Schreiber, Pooch Hall
+"The Bleeder" (USA, 2016), escrito por Jeff Feuerzeig, Jerry Stahl, Michael Cristofer, Liev Schreiber, dirigido por Philippe Falardeau, com Elisabeth Moss, Naomi Watts, Ron Perlman, Liev Schreiber, Pooch Hall
 
-<h2>Trailer - Punhos de Sangue</h2>
+

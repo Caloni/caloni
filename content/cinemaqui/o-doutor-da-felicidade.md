@@ -21,6 +21,6 @@ Utilizando do começo ao fim uma trilha sonora equivocada, enlatada, que mescla 
 
 Contudo, este é um filme agradável do começo ao fim. Mas este talvez seja para mim seu maior problema. Ele não ousa se aprofundar em nenhuma das questões que apresenta; até a própria hipocondria deixa de ser a vilã. Todos os esforços para criar tensão na história são deixados de lado pelo bem de um inusitado herói que ninguém pediu. O que nos volta a lembrar: é apenas conteúdo para TV. Ou, no caso, a TV dos dias de hoje: um serviço de streaming onde as pessoas estão distraidamente assistindo vários conteúdos. Este acaba virando apenas mais um.
 
-<hr>"Knock" (França, Bélgica, 2017), escrito e digirido por Lorraine Lévy, que adaptou da peça de Jules Romains, com Omar Sy, Alex Lutz, Ana Girardot.
+"Knock" (França, Bélgica, 2017), escrito e digirido por Lorraine Lévy, que adaptou da peça de Jules Romains, com Omar Sy, Alex Lutz, Ana Girardot.
 
-<h2>Trailer - O Doutor da Felicidade</h2>
+

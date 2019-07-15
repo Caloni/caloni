@@ -21,6 +21,6 @@ Porém, perdido em mesmices, El Pampero nunca de fato consegue dizer a que veio,
 
 Não que isso seja ruim. É simplesmente mais do mesmo embalado em uma história simples demais para ser parte de um longa.
 
-<hr>"El Pampero" (Argentina/France/Uruguay, 2017), escrito por Matías Lucchesi, Gonzalo Salaya, dirigido por Matías Lucchesi, com Julio Chávez, Pilar Gamboa, César Troncoso
+"El Pampero" (Argentina/France/Uruguay, 2017), escrito por Matías Lucchesi, Gonzalo Salaya, dirigido por Matías Lucchesi, com Julio Chávez, Pilar Gamboa, César Troncoso
 
-<h2>Trailer - El Pampero</h2>
+

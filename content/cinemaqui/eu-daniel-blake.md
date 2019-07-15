@@ -20,6 +20,6 @@ O céu cinzento da Inglaterra cai como uma luva nas mãos do diretor Ken Loach, 
 
 Por fim, a questão que fica é a que reside na carta de Daniel Blake, que afirma ele não ser um cachorro, mas um cidadão, o que mereceria no mínimo o respeito à sua dignidade. Depois de termos assistido "Eu, Daniel Blake" uma outra questão, mais poderosa, é que permanece: um cidadão nos dias de hoje seria um tipo especial de cachorro, onde são dados alguns direitos, mas onde dignidade é algo opcional?
 
-<hr>"I, Daniel Blake" (UK/France/Belgium, 2016), escrito por Paul Laverty, dirigido por Ken Loach, com Dave Johns, Hayley Squires, Sharon Percy, Briana Shann, Dylan McKiernan
+"I, Daniel Blake" (UK/France/Belgium, 2016), escrito por Paul Laverty, dirigido por Ken Loach, com Dave Johns, Hayley Squires, Sharon Percy, Briana Shann, Dylan McKiernan
 
-<h2>Trailer - Eu, Daniel Blake</h2>
+

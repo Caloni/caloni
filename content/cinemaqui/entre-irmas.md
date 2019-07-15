@@ -27,6 +27,6 @@ Esse é apenas um dos primeiros exemplos de um roteiro burocrático, que apenas 
 
 O diretor Breno Silveira também mereceria material melhor. Sem conseguir aplicar o seu golpe de sorte de estreia em longas com o milagre "2 Filhos de Francisco", cambaleia um confuso "Gonzaga: De Pai pra Filho" e agora entrega este "Entre Irmãs" como sua descida derradeira. Aparentemente lhe falta história à altura, e um roteiro menos criativo. Mas não técnica. O filme é um prazer visual desprovido de alma. Se "2 Filhos" é pura emoção e técnica competente, "Entre Irmãs" é pura técnica com emoção competente. E você já viu alguma vez na vida uma emoção ser "competente"?
 
-<hr>"Entre Irmãs" (Brazil, 2017), escrito por Patrícia Andrade, Frances Peebles de Pontes, dirigido por Breno Silveira, com Ângelo Antônio, Rita Assemany, Cyria Coentro, Letícia Colin, Nanda Costa
+"Entre Irmãs" (Brazil, 2017), escrito por Patrícia Andrade, Frances Peebles de Pontes, dirigido por Breno Silveira, com Ângelo Antônio, Rita Assemany, Cyria Coentro, Letícia Colin, Nanda Costa
 
-<h2>Trailer - Entre Irmãs</h2>
+

@@ -23,6 +23,6 @@ Há um momento tão hilário em A Melhor Escolha, onde eles relembram sobre a "D
 
 E há outro momento também, onde simplesmente não há nada a ser dito. É o momento final. É quando percebemos que, quando estamos ao lado de melhores amigos, nada importa mais do que viver aquele momento, seja bom ou mau.
 
-<hr>"Last Flag Flying" (EUA, 2017), escrito por Richard Linklater, Darryl Ponicsan, dirigido por Richard Linklater, com Bryan Cranston, Laurence Fishburne, Steve Carell.
+"Last Flag Flying" (EUA, 2017), escrito por Richard Linklater, Darryl Ponicsan, dirigido por Richard Linklater, com Bryan Cranston, Laurence Fishburne, Steve Carell.
 
-<h2>Trailer - A Melhor Escolha</h2>
+

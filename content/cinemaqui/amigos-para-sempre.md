@@ -23,4 +23,4 @@ Os dois precisam trabalhar nas sombras de Sy e Cluzet, e a direção de Neil Bur
 "The Upside" (EUA, 2018), escrito por Jon Hartmere baseado no filme escrito por Éric Toledano e Olivier Nakache, dirigido por Neil Burger, com Kevin Hart com Dell (antigo Driss), Bryan Cranston como Phillip (antigo Philippe), Nicoke Kidman como Yvonne (antes interpretado por Anne Le Ny) e Julianna Margulies (The Good Wife) em uma ponta.
 
 
-<h2>Trailer - Amigos Para Sempre</h2>
+

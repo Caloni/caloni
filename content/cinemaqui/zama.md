@@ -25,6 +25,6 @@ A primeira metade de "Zama" é tão arrastada que seu terceiro ato parece um fil
 
 Todas músicas são interpretadas pelos Índios Tabajara. Isso seria uma bela piada brasileira, habituados que nós estamos ao Caceta e Planeta; mas parece que é real, mesmo, então... interessante.
 
-<hr>"Zama" (Argentina, 2017), escrito por Antonio Di Benedetto, Lucrecia Martel, dirigido por Lucrecia Martel, com Daniel Giménez Cacho, Lola Dueñas, Matheus Nachtergaele.
+"Zama" (Argentina, 2017), escrito por Antonio Di Benedetto, Lucrecia Martel, dirigido por Lucrecia Martel, com Daniel Giménez Cacho, Lola Dueñas, Matheus Nachtergaele.
 
-<h2>Trailer - Zama</h2>
+

@@ -25,4 +25,4 @@ E isso se revela como um filme contemplativo ao mesmo tempo que intenso. Ele far
 "Première année (aka The Freshman)" (França, 2018), escrito e dirigido por Thomas Lilti, com Vincent Lacoste e William Lebghil.
 
 
-<h2>Trailer - Primeiro Ano</h2>
+

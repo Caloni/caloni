@@ -33,6 +33,6 @@ Esta é mais uma oportunidade também para que James Newton Howard (King Kong, B
 
 Construído a partir de um romance de espiões, Operação Red Sparrow poderia muito bem ser uma adaptação burocrática cujos detalhes nos fazem dormir. Mas não é bem assim. Os pontos-chave da trama são tão bem colocados no início do filme que apesar do filme se estender por duas horas e vinte minutos a sensação não queremos sair daquela atmosfera que o filme nos fez amar. Ou isso ou eu tenho um fraco por filmes com belas espiãs russas interpretadas por atrizes norte-americanas. Nota a ironia desta produção?
 
-<hr>"Red Sparrow" (EUA, 2018), escrito por Justin Haythe, dirigido por Francis Lawrence, com Jennifer Lawrence, Joel Edgerton, Matthias Schoenaerts, Jeremy Irons.
+"Red Sparrow" (EUA, 2018), escrito por Justin Haythe, dirigido por Francis Lawrence, com Jennifer Lawrence, Joel Edgerton, Matthias Schoenaerts, Jeremy Irons.
 
-<h2>Trailer - Operação Red Sparrow</h2>
+

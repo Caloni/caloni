@@ -23,6 +23,6 @@ Porém, sejamos mais justos com essa comparação televisiva. Alguns dos detalhe
 
 Dessa forma, Casamento de Verdade se torna um misto de momentos interessantes com clichês novelísticos. Tudo embalado em uma trilha sonora completamente inadequada. Se trata de uma ótima produção, com um elenco no piloto automático, e um tema irrelevante para o que se pretende: fazer pessoas chorar aleatoriamente quando personagens realizam a sua batidíssima curva de aprendizado. Mas, ainda assim, uma curva perfeitamente acreditável.
 
-<hr>"Jenny's Wedding" (USA, 2015), escrito por Mary Agnes Donoghue, dirigido por Mary Agnes Donoghue, com Katherine Heigl, Tom Wilkinson, Linda Emond, Grace Gummer, Alexis Bledel
+"Jenny's Wedding" (USA, 2015), escrito por Mary Agnes Donoghue, dirigido por Mary Agnes Donoghue, com Katherine Heigl, Tom Wilkinson, Linda Emond, Grace Gummer, Alexis Bledel
 
-<h2>Trailer - Casamento de Verdade</h2>
+

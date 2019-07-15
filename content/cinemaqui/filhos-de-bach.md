@@ -21,6 +21,6 @@ De qualquer forma, este também é um filme bonito, que extrai os cartões posta
 
 Ainda assim, como havia falado, nada em Filhos de Bach parece empolgar muito. Nem seus momentos finais. Isso porque seus fundamentos estão quebrados. Eles se baseiam em roubo e chantagem, que não são perdoáveis por serem feitos por personagens que não transmitem empatia alguma. Não sabemos seu passado, só sua condição. Isso torna a experiência genérica a ponto de não nos importarmos. O que acaba não sendo uma bela mensagem para um filme que fala da esperança das crianças.
 
-<hr>"Bach in Brazil" (Germany/Brazil, 2015), escrito por Ansgar Ahlers, Ansgar Ahlers, Soern Menning, Soern Finn Menning, dirigido por Ansgar Ahlers, com Edgar Selge, Pablo Vinicius, Aldri Anunciação, Franziska Walser, Dhonata Augusto
+"Bach in Brazil" (Germany/Brazil, 2015), escrito por Ansgar Ahlers, Ansgar Ahlers, Soern Menning, Soern Finn Menning, dirigido por Ansgar Ahlers, com Edgar Selge, Pablo Vinicius, Aldri Anunciação, Franziska Walser, Dhonata Augusto
 
-<h2>Trailer - Filhos de Bach</h2>
+

@@ -23,6 +23,6 @@ E por falar em pesado, este é um filme que encontrou um uso extremamente podero
 
 Ozon se aproxima de Lubitsch quando resolve discutir ideias grandiosas, ainda que por trás de uma história intimista e familiar. Ele se distingue quando resolve trilhar o caminho das abstrações, dos pontos de vista e do jogo de expectativas de seus personagens. Se existe também um mundo particular onde ocorrem as histórias dirigidas por Ozon, garanto que lá, diferente da "Lubitschland", são permitidas ironias e maldades. O que torna tudo muito mais pesado, é claro, mas muito mais humano.
 
-<hr>"Frantz" (France/Germany, 2016), escrito por François Ozon, Philippe Piazzo, Ernst Lubitsch, Reginald Berkeley, Samson Raphaelson, dirigido por François Ozon, com Pierre Niney, Paula Beer, Ernst Stötzner, Marie Gruber, Johann von Bülow
+"Frantz" (France/Germany, 2016), escrito por François Ozon, Philippe Piazzo, Ernst Lubitsch, Reginald Berkeley, Samson Raphaelson, dirigido por François Ozon, com Pierre Niney, Paula Beer, Ernst Stötzner, Marie Gruber, Johann von Bülow
 
-<h2>Trailer - Frantz</h2>
+

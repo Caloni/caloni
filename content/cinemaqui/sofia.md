@@ -21,6 +21,6 @@ Outro ponto a favor de "Sofia" é nunca dar mais detalhes da história de vida d
 
 Como resultado, "Sofia" é consistente com sua ideia, eficiente ao transmiti-la e termina por machucar um pouquinho sua fé na humanidade (se lhe resta alguma).
 
-<hr>"Sofia" (França, Quatar, Bélgica, 2018), escrito e dirigido por Meryem Benm'Barek-Aloïsi, com Maha Alemi, Lubna Azabal, Sarah Perles.
+"Sofia" (França, Quatar, Bélgica, 2018), escrito e dirigido por Meryem Benm'Barek-Aloïsi, com Maha Alemi, Lubna Azabal, Sarah Perles.
 
-<h2>Trailer - Sofia</h2>
+

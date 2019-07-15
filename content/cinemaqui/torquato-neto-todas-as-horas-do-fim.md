@@ -17,6 +17,6 @@ A história narrada por testemuhos e ilustrada por arquivos de fotos e vídeos a
 
 A impressão geral é que o documentário é sobre o suicídio, e de repente, incidentalmente, ocorre uma transformação biográfica que nos conta começo, meio e fim de um artista brasileiro esquecido pelas massas, assim como as vaias para a Tropicália. Agora ele está disponível, em áudio e vídeo, imortalizado em um arquivo que deve durar algumas décadas, e que deve servir de ponto de partida para algumas experiências inusitadas na filmografia brasileira.
 
-<hr>"Idem" (Brasil, 2017), escrito e dirigiro por Eduardo Ades, Marcus Fernando, com Ivan Cardoso, Gilberto Gil, Torquato Neto.
+"Idem" (Brasil, 2017), escrito e dirigiro por Eduardo Ades, Marcus Fernando, com Ivan Cardoso, Gilberto Gil, Torquato Neto.
 
-<h2>Trailer - Torquato Neto - Todas as horas do fim</h2>
+

@@ -27,4 +27,4 @@ E por falar em fazer do jeito certo, eu termino voltando a esta nova diretora, q
 "Booksmart" (EUA, 2019), escrito por Susanna Fogel, Emily Halpern, Sarah Haskins, Katie Silberman, dirigido por Olivia Wilde, com Kaitlyn Dever, Beanie Feldstein, Jessica Williams.
 
 
-<h2>Trailer - Fora de Série</h2>
+

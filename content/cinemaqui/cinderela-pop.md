@@ -27,4 +27,4 @@ O livro Cinderela Pop é o primeiro de uma saga de sete livros de Paula Pimenta 
 "Cinderela Pop" (Brasil, 2019), escrito por Bruno Garotti, Flávia Lins e Silva e Marcelo Saback baseados no livro de Paula Pimenta, dirigido por Garotti, com Maisa Silva, Filipe Bragança, Fernanda Paes Leme.
 
 
-<h2>Trailer - Cinderela Pop</h2>
+

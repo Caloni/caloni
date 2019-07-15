@@ -21,6 +21,6 @@ E é claro que a maioria das situações irão justamente fazer nossos olhos obs
 
 E esta vida é certinha demais para fascinar. Ou talvez Fellini não tenha mais espaço nos dias de hoje. É capaz. Com tanta ironia e desprezo pelos sentimentos humanos, a vida se tornou um simulacro dela mesma. E tendo isso em jogo, Em Busca de Fellini pode ter um sentido metalinguístico. Onde estará, nos dias de hoje, o próximo Fellini a alçar vôo na arte que imita os sonhos?
 
-<hr>"In Search of Fellini" (USA, 2017), escrito por Nancy Cartwright, Peter Kjenaas, dirigido por Taron Lexton, com Maria Bello, Ksenia Solo, Mary Lynn Rajskub, Barbara Bouchet, Beth Riesgraf
+"In Search of Fellini" (USA, 2017), escrito por Nancy Cartwright, Peter Kjenaas, dirigido por Taron Lexton, com Maria Bello, Ksenia Solo, Mary Lynn Rajskub, Barbara Bouchet, Beth Riesgraf
 
-<h2>Trailer - Em Busca de Fellini</h2>
+

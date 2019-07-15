@@ -25,6 +25,6 @@ Não há trilha sonora, exatamente como a vida naquela época. As exceções fic
 
 Cheio de virtudes técnicas e narrativas, Além das Palavras é um filme que exige paciência, mas que deve ser recompensada a cada momento em que vemos Emily Dickinson esboçar sua opinião e concluir em poesia. Uma biografia exagerada, mas apaixonante, intensa e, sobretudo, didática.
 
-<hr>"A Quiet Passion" (UK/Belgium, 2016), escrito por Terence Davies, dirigido por Terence Davies, com Cynthia Nixon, Jennifer Ehle, Duncan Duff, Keith Carradine, Jodhi May
+"A Quiet Passion" (UK/Belgium, 2016), escrito por Terence Davies, dirigido por Terence Davies, com Cynthia Nixon, Jennifer Ehle, Duncan Duff, Keith Carradine, Jodhi May
 
-<h2>Trailer - Além das Palavras</h2>
+

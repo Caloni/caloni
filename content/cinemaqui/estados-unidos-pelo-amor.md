@@ -21,6 +21,6 @@ E, diga-se de passagem, os homens ficam de fora de toda essa equação. Eles sã
 
 O curioso em "Estados Unidos Pelo Amor" é que seu título sugere alguma crítica política ou algo do gênero, mas a atmosfera do filme está muito mais voltada aos seus personagens, de forma muito semelhante ao ótimo Ida. É um filme difícil, submerso em indizíveis, mas visualmente arrebatador, hipnotizante, que não entregará respostas fáceis aos conflitos existenciais e amorosos em sua história, mas pelo menos tenta de todas as maneiras, já se saindo muito melhor que a imensa média de acomodados.
 
-<hr>"Zjednoczone stany milosci" (Poland/Sweden, 2016), escrito por Tomasz Wasilewski, dirigido por Tomasz Wasilewski, com Julia Kijowska, Magdalena Cielecka, Dorota Kolak, Marta Nieradkiewicz, Tomasz Tyndyk
+"Zjednoczone stany milosci" (Poland/Sweden, 2016), escrito por Tomasz Wasilewski, dirigido por Tomasz Wasilewski, com Julia Kijowska, Magdalena Cielecka, Dorota Kolak, Marta Nieradkiewicz, Tomasz Tyndyk
 
-<h2>Trailer - Estados Unidos Pelo Amor</h2>
+

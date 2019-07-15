@@ -26,6 +26,6 @@ Ele cria um método de criação musical que utiliza uma ideia que pegou de um l
 
 O caos é algo bonito se olhado da maneira certa. Rogério Duarte com certeza merecia um longa para registrar sua passagem na Terra. Este é um longa que torna isso possível praticamente apenas acompanhando suas viagens e ouvindo-o falar. Ainda bem que foi feito antes dele partir em sua nave espacial.
 
-<hr>"Rogério Duarte, o Tropikaoslista" (Brasil, 2016), documentário dirigido por José Walter Lima, com Rogério Duarte, Gilberto Gil, Caetano Veloso.
+"Rogério Duarte, o Tropikaoslista" (Brasil, 2016), documentário dirigido por José Walter Lima, com Rogério Duarte, Gilberto Gil, Caetano Veloso.
 
-<h2>Trailer - Rogério Duarte, o Tropikaoslista</h2>
+

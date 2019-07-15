@@ -21,4 +21,4 @@ O inesperado no filme é seu final, catártico, mas que parece estragar toda a t
 Gusto Kita with All My Hypothalamus (Filipinas, 2018), escrito e dirigido por Dwein Baltazar, com Iana Bernardez, Nicco Manalo, Anthony Falcon.
 
 
-<h2>Trailer - Com Todo Meu Hipotálamo</h2>
+

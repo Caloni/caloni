@@ -23,4 +23,4 @@ Os diretores estiveram à frente da tela antes do início da última projeção 
 Domingo (Brasil, França, 2018), escrito por Lucas Paraizo, dirigido por Fellipe Barbosa, Clara Linhart, com Ismael Caneppele, Augusto Madeira, Camila Morgado, Ítala Nandi, Martha Nowill, Silvana Silvia, Chay Suede, Clemente Viscaino e Michael Wahrmann. Política, sociedade, história, família.
 
 
-<h2>Trailer - Domingo</h2>
+

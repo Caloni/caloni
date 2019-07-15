@@ -27,4 +27,4 @@ A pergunta se mantém não-respondida durante todo o longa, mas vemos uma cena e
 "Elegia De Um Crime" (Brasil, 2018), escrito por Cristiano Burlan, Ana Carolina Marinho, dirigido por Cristiano Burlan, com Cristiano Burlan.
 
 
-<h2>Trailer - Elegia De Um Crime</h2>
+

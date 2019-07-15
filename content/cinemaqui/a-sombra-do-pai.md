@@ -27,4 +27,4 @@ A Sombra do Pai é um terror dos bons, que referencia os clássicos e ainda poss
 "A Sombra do Pai" (Brasil, 2018), escrito e dirigido por Gabriela Amaral, com Nina Medeiros, Luciana Paes, Dinho Lima Flor.
 
 
-<h2>Trailer - A Sombra do Pai</h2>
+

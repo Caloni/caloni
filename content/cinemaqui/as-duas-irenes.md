@@ -27,6 +27,6 @@ E por falar em pensar, este filme tem um ritmo lento que vai te deixar pensando 
 
 Poucos filmes me deixam sem palavras e com muito a sentir. E esse, quando vemos uma pedra na mão de outra Irene, o vento brisando em um misto de folhas verdes das árvores, uma rima carinhosa no final, com um desfecho à altura de tudo o que vimos até então. E se formos observar de muito perto, pensar pela última vez em tudo que aconteceu, talvez não haja muito mais o que pensar afinal de contas; só sentir. Sinta o vento em seus olhos. Sinta esse tempo e essas pessoas que não existem mais.
 
-<hr>"As Duas Irenes (aka Two Irenes)" (Brasil, 2017), escrito e dirigido por Fabio Meira, com Priscila Bittencourt, Isabela Torres, Marco Ricca.
+"As Duas Irenes (aka Two Irenes)" (Brasil, 2017), escrito e dirigido por Fabio Meira, com Priscila Bittencourt, Isabela Torres, Marco Ricca.
 
-<h2>Trailer - As Duas Irenes</h2>
+

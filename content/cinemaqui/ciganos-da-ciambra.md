@@ -25,6 +25,6 @@ Já a trilha sonora é outra na categoria "vamos arriscar e ver no que dá". Emb
 
 E por ser cru é que Ciganos da Ciambra pode causar estranheza em muita gente. Não é um filme mastigado para o grande público, mas tem o apelo emocional necessário para os dispostos a se entregar em uma experiência intensa. Para os que se derem essa liberdade, prometo que irão sair da sala de cinema com alguma coisa para pensar, seja a sua própria vida ou a de outros neste planeta.
 
-<hr>"Ciambra" (Itália, 2017), escrito e dirigido por Jonas Carpignano, com Pio Amato, Koudous Seihon, Damiano Amato.
+"Ciambra" (Itália, 2017), escrito e dirigido por Jonas Carpignano, com Pio Amato, Koudous Seihon, Damiano Amato.
 
-<h2>Trailer - Ciganos da Ciambra</h2>
+

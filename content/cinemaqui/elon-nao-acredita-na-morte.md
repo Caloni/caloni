@@ -15,6 +15,6 @@ A atuação de Rômulo Braga (O Que Se Move) é precisa em não revelar quase ne
 
 Ah, sim. Isso me faz lembrar. "Elon Não Acredita..." é um filme adulto. Claro, o motivo oficial é o sexo e a nudez. Mas o verdadeiro motivo, desconfio, é o café. Você irá entender quando acontecer. Sempre é o café; principalmente quente. Não é mesmo?
 
-<hr>"Elon Não Acredita na Morte" (Brazil, 2016), escrito por Ricardo Alves Jr, Diego Hoefel, Germano Melo, João Salaviza, dirigido por Ricardo Alves Jr., com Rômulo Braga, Clara Choveaux, Ricardo Alves Jr., Helvecio Alves Izabel, Francisco Loyola
+"Elon Não Acredita na Morte" (Brazil, 2016), escrito por Ricardo Alves Jr, Diego Hoefel, Germano Melo, João Salaviza, dirigido por Ricardo Alves Jr., com Rômulo Braga, Clara Choveaux, Ricardo Alves Jr., Helvecio Alves Izabel, Francisco Loyola
 
-<h2>Trailer - Elon Não Acredita na Morte</h2>
+

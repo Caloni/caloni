@@ -17,4 +17,4 @@ O filme trata da transformação da mulher na sociedade, mas arranha muito mal o
 Fugue (Polônia, República Tcheca, Suécia, 2018), escrito por Gabriela Muskala, dirigido por Agnieszka Smoczynska, com Gabriela Muskala, Lukasz Simlat, Malgorzata Buczkowska.
 
 
-<h2>Trailer - Fuga</h2>
+

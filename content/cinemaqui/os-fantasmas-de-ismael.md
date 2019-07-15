@@ -19,6 +19,6 @@ Há referências para tudo quanto é lado sobre o cinema em geral e alguns traba
 
 Os Fantasmas de Ismael é um filme em constante construção. Assim como sua história interna. Portanto, fica difícil percebermos qual é sua conclusão quando o filme termina. Por isso é tão importante para o espectador que ele entenda que o que está sendo discutido no filme não são suas histórias, fictícia ou não, mas o processo em si. Uma vez que isso fique claro, a viagem metalinguística se torna verdadeiramente original e fascinante. Principalmente se nos lembrarmos que o diretor (real) do filme está com tudo isso em seu controle.
 
-<hr>"Les fantômes d'Ismaël" (França, 2017), escrito por Arnaud Desplechin, Julie Peyr e Léa Mysius, dirigido por Desplechin, com Mathieu Amalric, Marion Cotillard, Charlotte Gainsbourg, Louis Garrel, Alba Rohrwacher.
+"Les fantômes d'Ismaël" (França, 2017), escrito por Arnaud Desplechin, Julie Peyr e Léa Mysius, dirigido por Desplechin, com Mathieu Amalric, Marion Cotillard, Charlotte Gainsbourg, Louis Garrel, Alba Rohrwacher.
 
-<h2>Trailer - Os Fantasmas de Ismael</h2>
+

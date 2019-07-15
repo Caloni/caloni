@@ -17,6 +17,6 @@ Há também alguns personagens caricatos na cidade, como a esposa do eletricista
 
 O "clímax" do filme envolve um baque psicológico em todos do circo, e provavelmente uma grande vergonha alheia para todos os espectadores que ainda estiverem assistindo. Não irei revelar aqui, mas quando começar, você já irá perceber uns 20 minutos antes. E o resto da história não poderia ser mais arrastada. Nada pior para um espetáculo do que revelar seus truques minutos antes deles acontecerem. No caso de Os Pobres Diabos, talvez se o filme durasse apenas isso -- minutos ao vento -- ele teria sido mais palatável.
 
-<hr>"Os Pobres Diabos" (Brazil, 2013), escrito por Rosemberg Cariry, dirigido por Rosemberg Cariry, com Sâmia Bittencourt, Sílvia Buarque, Gero Camilo, Georgina Castro, Chico Díaz
+"Os Pobres Diabos" (Brazil, 2013), escrito por Rosemberg Cariry, dirigido por Rosemberg Cariry, com Sâmia Bittencourt, Sílvia Buarque, Gero Camilo, Georgina Castro, Chico Díaz
 
-<h2>Trailer - Os Pobres Diabos</h2>
+

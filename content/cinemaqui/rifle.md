@@ -17,6 +17,6 @@ Os atores do filme se tornam personagens. Seus nomes próprios são usados como 
 
 Na verdade, fica pior. Este é um ótimo exemplo de como há um certo movimento no cinema brasileiro que está usando como clichê os cortes secos, a falta de trilha, o lugar-comum das discussões sociais vazias ou sem muito preparo. São crias de trabalhos muito mais ambiciosos, como Aquarius e Que Horas Ela Volta?, mas essas crias tentam discutir as mesmas questões dando murro em ponta de faca. Ou, no caso, atirando com um rifle na beira da estrada.
 
-<hr>"Rifle" (Brazil/Germany, 2016), escrito por Davi Pretto, Richard Tavares, dirigido por Davi Pretto, com Dione Avila De Oliveira, Evaristo Pimentel Goularte, Francisco Fabrício Dutra dos Santos, Sofia Ferreira, Andressa Nogueira Goularte
+"Rifle" (Brazil/Germany, 2016), escrito por Davi Pretto, Richard Tavares, dirigido por Davi Pretto, com Dione Avila De Oliveira, Evaristo Pimentel Goularte, Francisco Fabrício Dutra dos Santos, Sofia Ferreira, Andressa Nogueira Goularte
 
-<h2>Trailer - Rifle</h2>
+

@@ -35,4 +35,4 @@ Conseguindo unir o realismo da "vida real" com o idealismo que adoramos acompanh
 "Glass" (EUA, 2019), escrito e dirigido por M. Night Shyamalan, com Samuel L. Jackson como Elijah Price / Mr. Glass, Bruce Willis como David Dunn, James McAvoy como Kevin Wendell Crumb / The Beast / Patricia / Dennis / Hedwig / Barry / Jade / Orwell / Heinrich / Norma, Sarah Paulson como Dr. Ellie Staple e Charlayne Woodard como a mãe de Elijah.
 
 
-<h2>Trailer - Vidro</h2>
+

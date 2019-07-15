@@ -19,6 +19,6 @@ A fotografia, por exemplo, não exagera nas cores, mas quando se trata de um bal
 
 Com essa premissa moralista sobre como o trabalho nos escraviza, por mais improvável que pareça, "Christopher Robin" consegue se desvencilhar muito bem do velho clichê Disney e suas lições de moral no final do filme, e isso é graça à entrega incondicional de McGregor e dos dubladores, que concretizam para o mundo real um pedaço de fantasia irretocável que, assim com O Pequeno Príncipe, nos diz o essencial sem conseguirmos de fato ver onde isso está.
 
-<hr>"Christopher Robin" (EUA, 2018), escrito por Alex Ross Perry, Tom McCarthy, Allison Schroeder, dirigido por Marc Forster, com Ewan McGregor, Hayley Atwell, Bronte Carmichael, Jim Cummings.
+"Christopher Robin" (EUA, 2018), escrito por Alex Ross Perry, Tom McCarthy, Allison Schroeder, dirigido por Marc Forster, com Ewan McGregor, Hayley Atwell, Bronte Carmichael, Jim Cummings.
 
-<h2>Trailer - Christopher Robin: Um Reencontro Inesquecível</h2>
+

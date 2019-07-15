@@ -19,4 +19,4 @@ Do início ao fim convencional, mas não burocrático, pois consegue em pouco ma
 Kusama: Infinity (EUA, 2018), escrito por Heather Lenz, Keita Ideno, dirigido por Heather Lenz, com Yayoi Kusama.
 
 
-<h2>Trailer - Kusama - Infinito</h2>
+

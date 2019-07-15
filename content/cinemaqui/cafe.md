@@ -19,6 +19,6 @@ O que há de mais rico no roteiro são os detalhes. Aprendemos através deles po
 
 No entanto, como eu disse, essa janela se abre, mas é muito estreita. Difícil perceber o que o filme quer dizer com tudo isso. Sendo filmado basicamente narrando os acontecimentos e alternando entre as histórias a impressão é que não há pausa para reflexão. Todos estão agindo sob pressão imediata. A trilha sonora, de suspense, e uma câmera na mão, com cortes rápidos demais para reflexão, tornam "Café" no próprio efeito que a bebida traz, de euforia sem significado, de um alerta sem necessidade.
 
-<hr>"Caffè" (Bélgica/China/Itália, 2016), escrito por Cristiano Bortone, Annalaura Ciervo, Minghua Shi, Matthew Thompson, dirigido por Cristiano Bortone, com Dario Aita, Hichem Yacoubi, Miriam Dalmazio.
+"Caffè" (Bélgica/China/Itália, 2016), escrito por Cristiano Bortone, Annalaura Ciervo, Minghua Shi, Matthew Thompson, dirigido por Cristiano Bortone, com Dario Aita, Hichem Yacoubi, Miriam Dalmazio.
 
-<h2>Trailer - Café</h2>
+

@@ -19,6 +19,6 @@ Todas essas formas são materializadas quase em um formato de mini-teatro, onde 
 
 Concluindo de uma maneira tão irônica quanto seu início, 40 anos atrás, "O Abraço da Serpente" é um trabalho ambicioso que mantém por boa parte do tempo a proeza do suspense eterno. Nos espantamos com quase todo novo momento, toda nova cena, todo novo personagem. Não é um filme para muitos, mas os poucos que o verem irão se sentir satisfeitos por essa viagem no tempo e espaço.
 
-<hr>"El abrazo de la serpiente" (Colombia/Venezuela/Argentina, 2015), escrito por Ciro Guerra, Theodor Koch-Grunberg, Richard Evans Schultes, Jacques Toulemonde Vidal, dirigido por Ciro Guerra, com Nilbio Torres, Jan Bijvoet, Antonio Bolivar, Brionne Davis, Yauenkü Migue
+"El abrazo de la serpiente" (Colombia/Venezuela/Argentina, 2015), escrito por Ciro Guerra, Theodor Koch-Grunberg, Richard Evans Schultes, Jacques Toulemonde Vidal, dirigido por Ciro Guerra, com Nilbio Torres, Jan Bijvoet, Antonio Bolivar, Brionne Davis, Yauenkü Migue
 
-<h2>Trailer - O Abraço da Serpente</h2>
+

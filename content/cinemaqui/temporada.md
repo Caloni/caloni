@@ -29,4 +29,4 @@ E isso sem dúvida enfraquece uma narrativa, que estava indo tão bonita pelo ca
 "Temporada" (Brasil, 2018), escrito e dirigido por André Novais Oliveira, com Grace Passô (Juliana), Russo Apr (Russão), Rejane Faria (Lúcia), Hélio Ricardo (Hélio).
 
 
-<h2>Trailer - Temporada</h2>
+
