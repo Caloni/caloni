@@ -2,7 +2,6 @@
 date: "2015-02-19"
 title: CCPPBrasil11 Brasil -- Inscrições
 categories: [ "blog" ]
-draft: "true"
 ---
 [Agora é pra valer!](http://www.ccppbrasil.org/encontro11/)
 

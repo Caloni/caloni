@@ -2,7 +2,6 @@
 date: 2019-04-19T15:59:00-03:00
 title: "14o. Encontro CCPP42BR"
 categories: [ "blog" ]
-draft: "true"
 desc: "Décimo-quarto encontro de programadores e entusiastas das linguagens C e C++ a ser realizada em algum local em São Paulo Capital no dia 6 de julho de 2019."
 ---
 ![](https://i.imgur.com/aq26Lai.jpg)

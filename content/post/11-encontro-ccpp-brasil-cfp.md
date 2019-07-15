@@ -2,7 +2,6 @@
 date: "2015-02-03"
 title: CCPPBrasil11 Brasil -- Call for Papers
 categories: [ "blog" ]
-draft: "true"
 ---
 Acho que já está na hora de nos reencontrarmos, né?
 
