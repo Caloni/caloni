@@ -22,7 +22,3 @@ Mas voltemos a Lee. Se você ainda não pescou a ideia hilária de uma escritora
 Além disso, há um problema com seu inusitado amigo que se torna cúmplice de seus crimes de falsificação, o obscuro e gay Jack Cock. Interpretado com uma mistura entre bon vivant e decadente pela idade por Richard E. Grant, ele poderia muito bem não existir de verdade na história, pois ele se assemelha mais a uma muleta narrativa que um ser humano real. Ele faz lembrar o amigo imaginário de John Nash em Uma Mente Brilhante, pois aparece apenas para os propósitos de Lee (nem que seja ir para o bar).
 
 Apresentando em sua reviravolta a única peça de um quebra-cabeças que parece exageradamente grande -- o FBI? sério? -- "Poderia Me Perdoar" é uma conversa semi-sincera sobre a autoria da arte, e parece utilizar seu plot apenas como isca para mais um drama sobre escritores fracassados.
-
-"Can You Ever Forgive Me?" (EUA, 2018), escrito por Nicole Holofcener e Jeff Whitty, dirigido por Marielle Heller, com Melissa McCarthy, Richard E. Grant, Dolly Wells.
-
-

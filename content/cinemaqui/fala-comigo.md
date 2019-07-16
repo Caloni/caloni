@@ -18,7 +18,3 @@ O estopim para essa revelação é quando Diogo e Angela começam a namorar. Ess
 E por falar em atuações, colocar Karine Teles como protagonista se torna uma decisão arriscada, pois ela não possui o jogo de cintura necessário nem a dominação necessária para sua personagem. A direção de Sholl erra pontualmente em não torná-la uma personagem mais forte, e preferir continuar naturalizando as cenas em um incômodo close. É óbvio que não é preciso muito para seduzir um garoto de 18 anos, mas daí é que reside o problema: a auto-estima de Diogo, vivido despreocupadamente por Tom Karabachian, sabota esse relacionamento, tornando-o inverossímil menos pela idade e mais pela dinâmica do "quem domina quem". Ou o filme inocentemente prefere imaginar que em uma relação dessas há apenas amor.
 
 Fala Comigo, então, parece fazer questão de normalizar o que é incômodo e incomodar o que é normal. Ele inverte valores e atravessa no tempo com um filme simples e rápido, provando que muitas vezes não é necessário muito para contar muito. Quem quiser poderá prestar atenção a detalhes inconsequentes, mas que darão uma nova dimensão a um filme aparentemente despretensioso. No entanto, só pelo tirar das máscaras, os diálogos do dia-a-dia, seja no "romance proibido" ou no jantar em família, se tornam muito mais interessantes.
-
-"Fala Comigo" (Brazil, 2016), escrito por Felipe Sholl, dirigido por Felipe Sholl, com Karine Teles, Tom Karabachian, Denise Fraga, Emílio de Mello, Anita Ferraz
-
-

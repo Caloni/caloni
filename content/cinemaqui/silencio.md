@@ -22,7 +22,3 @@ E entre esses símbolos o mais recorrente é o guia que sempre volta a atazanar 
 O título de "Silêncio" ganha uma rima temática no filme, pois, sem música, os únicos sons que ouvimos são da natureza, e as canções saem da boca das próprias pessoas. E a fotografia, seja quente ou fria, ressalta da mesma forma a natureza em torno dos personagens, seja um nevoeiro eterno, uma chuva densa e igualmente perene, ou o lindo céu estrelado de uma noite tranquila. Os enquadramentos do filme apenas reforçam o tom sagrado e solene, pois fazem questão de exibir todos os elementos dispostos como um quadro mesmo, tentando imortalizar um momento da iconografia cristã.
 
 E, como sempre, a religião do sofrimento depende tanto da dor que ela parece um personagem à parte de toda a via crucis de seu herói, que Scorsese faz questão de filmar como um evento histórico rebuscado.
-
-"Silence" (USA/Taiwan/Mexico, 2016), escrito por Jay Cocks, Martin Scorsese, Shûsaku Endô, dirigido por Martin Scorsese, com Andrew Garfield, Adam Driver, Liam Neeson, Tadanobu Asano, Ciarán Hinds
-
-

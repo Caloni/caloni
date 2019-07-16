@@ -20,9 +20,3 @@ Os roteiristas Felipe Bragança e Marina Meliande não conseguem traduzir exatam
 Suportado por um trabalho de maquiagem e direção de arte impecáveis, é recompensador observar a perda gradativa de luz e cores nos ambientes (como o aumento de folhas mortas) que vamos nos acostumando conforme acompanhamos a rotina desgastante de Ana, que sofre de uma doença desconhecida com fundo psicológico que a faz sentir um calor acima do normal para quem mora no Rio e que começa a ser afetada fisicamente por isso.
 
 Aliás, a escolha de Marina Provenzzano como Ana é igualmente um símbolo. De pele clara e significando pureza, sua personagem aos poucos vai sofrendo o peso de ser uma mártir em uma cidade que a está esmagando por todos os lados, e lentamente. Provenzzano faz uma Ana corajosa, mas que está perdendo o rumo de suas ações. E o filme a utiliza como o símbolo final, para satisfação dos espectadores do Cinema que ultrapassa alguns limites da realidade para ascender como algo que não nos esqueceremos tão cedo.
-
-
-"Mormaço" (Brasil, 2018), escrito por Felipe Bragança e Marina Meliande e dirigido por Meliande, com Marina Provenzzano, Sandra Maria, Pedro Gracindo.
-
-
-

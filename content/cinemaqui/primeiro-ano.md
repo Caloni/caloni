@@ -20,9 +20,3 @@ Os diálogos do filme quase sempre giram em torno das matérias dos alunos e dos
 Um filme sobre esse tema teria tudo para se tornar monótono, mas aqui não é o caso. Montado de maneira dinâmica e oscilando momentos viscerais, de lutas por espaço na biblioteca e nas carteiras das salas, com pausas necessárias, como a troca de comida entre Benjamin e sua vizinha estrangeira, Primeiro Ano consegue colocar o espectador no lugar daquelas pessoas e os fazer quase que relembrar os esforços passados para tentar passar no vestibular. Parte disso está em uma edição fuida, mas uma boa parcela de êxito se deve aos atores Vincent Lacoste e William Lebghil, que conseguem uma química invejável mesmo sem qualquer diálogo expositivo. Tudo acontece praticamente nos olhares e expressões.
 
 E isso se revela como um filme contemplativo ao mesmo tempo que intenso. Ele fará o espectador se segurar na poltrona em alguns momentos, e em outros até torcer. E tudo isso com uma importante reflexão sobre o valor da amizade. Mais do que do sacrifício. É a amizade o pilar que segura esse filme sobre competitidade extrema, por mais paradoxal que seja. É quando um amigo massageia a carótida do outro, em uníssono, esperando por um dia melhor.
-
-
-"Première année (aka The Freshman)" (França, 2018), escrito e dirigido por Thomas Lilti, com Vincent Lacoste e William Lebghil.
-
-
-

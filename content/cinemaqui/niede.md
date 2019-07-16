@@ -21,9 +21,3 @@ Outro problema de formato é que o filme possui um óbvio viés social que preju
 Mas o pior defeito de "Niède" é mesmo o seu inchaço. Quando pensamos que o filme está prestes a acabar ele se estende por inexplicáveis 30 minutos que não acrescentam praticamente mais nada ao filme. Sequer há notícias das últimas descobertas sobre as migrações para o continente do passado e como essas evidências se unem com a história que estamos vendo. Se isolando em si mesmo, o filme se torna pobre, limitado, anti-científico.
 
 O que é uma pena para um conteúdo tão promissor. É raro vermos filmes sobre ciência sendo praticada em terrar tupiniquins, ainda mais sobre conteúdo local. Vendo este filme começa a ficar mais claro porque isso não acontece.
-
-
-"Niède" (Brasil, 2019), dirigido por Tiago Tambelli, com Niède Guidon.
-
-
-

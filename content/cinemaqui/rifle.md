@@ -16,7 +16,3 @@ E é ironicamente a causalidade (o remorso de ter que sair da região) e um rifl
 Os atores do filme se tornam personagens. Seus nomes próprios são usados como os nomes dos personagens, e acreditamos que eles são pessoas reais. Tudo isso vai sendo entendido através de diálogos quase incompreensíveis dos nativos, que falam com sotaque em cima de um design de som pavoroso. Não é possível entender muito com essas falas, mas o pior é não conseguir entender a história pela narrativa, que é preguiçosa a ponto de não conseguir estruturar o que pretende, ou é algo tão aberto que chega a ser covarde suas conclusões. Escolha uma das duas opções. Tanto faz. O filme não fica melhor por causa disso.
 
 Na verdade, fica pior. Este é um ótimo exemplo de como há um certo movimento no cinema brasileiro que está usando como clichê os cortes secos, a falta de trilha, o lugar-comum das discussões sociais vazias ou sem muito preparo. São crias de trabalhos muito mais ambiciosos, como Aquarius e Que Horas Ela Volta?, mas essas crias tentam discutir as mesmas questões dando murro em ponta de faca. Ou, no caso, atirando com um rifle na beira da estrada.
-
-"Rifle" (Brazil/Germany, 2016), escrito por Davi Pretto, Richard Tavares, dirigido por Davi Pretto, com Dione Avila De Oliveira, Evaristo Pimentel Goularte, Francisco Fabrício Dutra dos Santos, Sofia Ferreira, Andressa Nogueira Goularte
-
-

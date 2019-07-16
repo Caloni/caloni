@@ -17,7 +17,3 @@ O que não quer dizer que seu roteiro seja. Escrito pelo próprio Hany Abu-Assad
 O interessante é que a premissa é poderosa o suficiente para concluir em um filme impactante. Porém, nada parece funcionar muito bem no agitado terceiro ato. O Assaf adulto carrega uma visão um pouco amarga do mundo, e não é por acaso. Um acontecimento traumático em seu passado faz com que ele suspenda seu sonho, talvez para sempre, e todos nós entendemos esse trauma em sua vida, tanto que torcemos pelo personagem.
 
 Mas não é o suficiente. A história de O Ídolo caminha por caminhos corretos e mantém uma tensão graças às ótimas direção, edição e trilha sonora. Porém, o suspense é perdido logo no começo. Quando é feita uma transição no final entre ficção e vida real (talvez uma tendência nos filmes biográficos de hoje em dia, vide Snowden), essa transição quase não funciona, ou demora para funcionar. O personagem do presente não é tão rico (em facetas) como o filme imagina; apenas seu passado e sua história.
-
-"Ya tayr el tayer" (Occupied Palestinian Territory, 2015), escrito por Hany Abu-Assad, Sameh Zoabi, dirigido por Hany Abu-Assad, com Tawfeek Barhom, Kais Attalah, Hiba Attalah, Ahmad Qasem, Abdel Kareem Barakeh
-
-

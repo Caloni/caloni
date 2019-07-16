@@ -22,9 +22,3 @@ Talvez o maior pecado do longa seja mesmo em não conseguir criar algo novo. Ref
 Por outro lado há uma criatividade latejante neste filme, que recicla suas referências com bom humor, como a figura do soldador como uma espécie de Ceifador das almas na Construção Civil. E nada pode ser mais assustador do que a imagem de dentes plantados em um copo como se fossem feijões de um trabalho escolar repousando sobre o criado-mudo de uma criança, ao lado dos cabelos de sua falecida mãe.
 
 A Sombra do Pai é um terror dos bons, que referencia os clássicos e ainda possui uma identidade brasileira, que se aproveita de nossa enorme mescla de crendices e formas de enxergar o pós-vida. É de fácil acesso para o grande público, possui uma equipe técnica de talento (principalmente de fotografia, que consegue mostrar muitas cenas noturnas sem comprometer a qualidade) e acima de tudo uma diretora extremamente competente em controlar sua obra. E não é um prazer saber que há uma diretora brasileira que poderá dirigir mais filmes do gênero dialogando com nossa realidade?
-
-
-"A Sombra do Pai" (Brasil, 2018), escrito e dirigido por Gabriela Amaral, com Nina Medeiros, Luciana Paes, Dinho Lima Flor.
-
-
-

@@ -20,7 +20,3 @@ Há um misto disso, por exemplo, na cena onde Ebouaney e Bonnaire estão aguarda
 Já como diretor Mahamat-Saleh se sai muito melhor, apostando em longas tomadas estáticas que apenas mostram a interação de seus personagens lado a lado, como a festa de aniversário de Carole. E de outra forma ele não se priva de mover sua câmera quando é necessário, como na sequência dos sonhos de Abbas, que enxerga sua mulher se afastando pelo corredor. E não podemos esquecer das tomadas externas de uma França periférica que aparece banhada por um sol de esperança e com ruas praticamente inabitadas. Sinal da hipocrisia dos que criticam a vinda de estrangeiros como se houvesse algum tipo de saturação populacional no continente que menos cresce no mundo.
 
 Uma Temporada na França, como havia falado, é um resultado misto. Como filme-família ele se dá bem em suavizar até onde é permitido o tema da imigração de refugiados. Mas como um filme mais sério ele peca justamente por isso. Resta ao espectador entender este é um trabalho digno de nota por um lado ou pelo outro, ou se um acaba atrapalhando o outro.
-
-"Une saison en France" (França, 2017), escrito e dirigido por Mahamat-Saleh Haroun, com Eriq Ebouaney, Sandrine Bonnaire, Aalayna Lys.
-
-

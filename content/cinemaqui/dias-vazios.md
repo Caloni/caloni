@@ -18,9 +18,3 @@ Todos fumam muito nesse filme, e boa parte da história gira em torno do final q
 Mas não há sequer espaço para ironia com esses personagens, que passam o tempo elucubrando o destino da tal Fabiana. Nós, espectadores, vamos acompanhando a mistura das duas histórias, Daniel/Alanis e Jean/Fabiana. Não é uma mistura em que eles se encontram, mas uma mistura desses personagens: o que gostam, suas falas, seus desejos e suas personalidades. Não há personalidade o suficiente para um Daniel e uma Alanis sobreviverem, mas ainda assim o filme decide compartilhar com Jean e Fabiana.
 
 O resultado não é coerente, pois é mais imaginativo, mas entretém, como todo jogo de metalinguagem. O diretor Bruno Almeida captura com certa competência o marasmo da "Província de Silvana, no Centro-Oeste do Brasil" (assim Daniel nos introduz ao local da ação em seu livro). Se entendermos que estes são os delírios adolescentes de um jovem escritor fica mais palatável de assistir, mesmo que esteja claro que de tantas referências essa história não irá conseguir extrair algo além da experiência da escrita de um livro sobre a própria vida. O que esperar de adolescentes depressivos?
-
-
-"Dias Vazios" (Brasil, 2018), escrito por Robney Bruno Almeida, dirigido por Robney Bruno Almeida, com Arthur Avila, Natália Dantas, Vinícius Queiroz, Carla Ribas, Nayara Tavares.
-
-
-

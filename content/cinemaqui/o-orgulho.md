@@ -22,7 +22,3 @@ Mas este também é um filme sobre uma relação de "amizade" curiosa que nasce 
 No que voltamos às celebridades literárias mostradas no começo do filme. Para eles não são as ideias tão importantes quanto as palavras. Um deles diz que são as palavras que fazem nascer as ideias, e com isso ele quer dizer que no fundo, no fundo, o que importa mesmo na argumentação é saber dominar as palavras com maestria. E a verdade que fique em um canto da sala. O filme não nos diz abertamente que é isso o que ele faz ao montar uma historinha de faz-de-conta em uma Paris idealizada de acordo com teorias sociais em voga. Mas se for, então retiro tudo que disse sobre seus valores: você me pegou em cheio. 
 
 Está tudo dito! (I rest my case.)
-
-"Le brio" (França, Bélgica, 2017), escrito por Bryan Marciano, Noé Debré, Victor Saint Macary, Yaël Langmann, Yvan Attal, dirigido por Yvan Attal, com Daniel Auteuil, Camélia Jordana, Yasin Houicha.
-
-

@@ -20,9 +20,3 @@ O tom realista também facilita acreditarmos na humanidade daquelas pessoas e at
 Mas é claro que você sabe que ele será o herói. Ele é intepretado por Dev Patel (Quem Quer Ser Um Milionário, Lion) e é o ator mais famoso de um elenco acertadamente low profile, o que colabora para o realismo do filme. Porém, Patel é instrumental em seu papel, pois suas ações são as mais ousadas, exigindo que nos identifiquemos desde o começo como uma figura humana e com valores que reflitam caráter. Por isso ele é que inicia o filme, sendo o pai de família responsável e carinhoso. Seu jeito manso mas firme e ligeiramente assustado de lidar com as situações é perfeito para contrapor ao seu chefe, que já demonstra mais experiência e auto-controle. Não saber ao certo como seu personagem irá reagir a cada situação adiciona uma bem-vinda imprevisibilidade que todos nós, humanos, temos ao lidar com situações de estresse.
 
 Muitas pessoas morrem nesse filme. Pessoas que você não veria morrendo em filmes mais formulaicos do mesmo gênero. Essa é uma surpresa e ao mesmo tempo um aviso: este não é um filme sobre os heróis daquele dia que sobreviveram, mas sobre todos os envolvidos, os que mataram e morreram. A mensagem que se pode extrair de "Atentado..." não é algo simples e fechado, o que é algo positivo para um filme que parece banalizar a violência. Parece, mas é justamente o contrário: através do seu uso da violência aprendemos sobre o mundo cada vez mais irracional que vivemos, e ao mesmo tempo sobre valores que estavam inertes na sociedade, mas que foram vitais aquele dia para salvar mais uma vida.
-
-
-"Hotel Mumbai" (Austrália, EUA, Índia, 2018), escrito por John Collee, Anthony Maras, dirigido por Anthony Maras, com Dev Patel, Armie Hammer, Nazanin Boniadi.
-
-
-

@@ -25,7 +25,3 @@ Mentor do movimento Tropicália antes de virar modinha (e ser absorvido pelo est
 Ele cria um método de criação musical que utiliza uma ideia que pegou de um livro, onde o autor usava cores para vogais; ele os usa também para notas, criando assim uma espécie de padrão para criação de músicas. Da época da entrevista ele tinha duzentas músicas gravadas em seu computador. Não afeito ao clichê de artista, diz ter usado o xadrez como um retorno à socialização, em mais um dos vários momentos viajantes de sua história. Rogério é o tipo do cara que quando foi se consultar com um médico para tomar LSD recebeu uma negativa porque, de acordo com o médico, se ele tomasse ácido nunca mais retornaria.
 
 O caos é algo bonito se olhado da maneira certa. Rogério Duarte com certeza merecia um longa para registrar sua passagem na Terra. Este é um longa que torna isso possível praticamente apenas acompanhando suas viagens e ouvindo-o falar. Ainda bem que foi feito antes dele partir em sua nave espacial.
-
-"Rogério Duarte, o Tropikaoslista" (Brasil, 2016), documentário dirigido por José Walter Lima, com Rogério Duarte, Gilberto Gil, Caetano Veloso.
-
-

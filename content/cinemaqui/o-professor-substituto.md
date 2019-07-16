@@ -20,9 +20,3 @@ Porém, ao se aprofundar demais em suas investigações e relevar todo o resto d
 O diretor Sébastien Marnier trabalha a adaptação do livro de Christophe Dufossé em sua tentativa infrutífera de apontar dedos sem saber o ângulo exato. Ele absorve os acontecimentos econômicos e políticos e cospe um bando de alunos super-dotados que sofrem bullying por serem desagradáveis com o resto da escola em um processo que se retroalimenta. Seu trabalho apresenta material para reflexões sobre o tempo que vivemos e nossas falhas de comunicação e empatia, mas sem ele próprio ter refletido a respeito. É um trabalho cru travestido de algo maior.
 
 Bons filmes nos ensinam lições sobre como o mundo é sem nos entregar as respostas definitivas, entendendo que esta é um tarefa impossível. Filmes não tão bons quanto O Professor Substituto nos ensinam que nada substitui o senso crítico do próprio espectador.
-
-
-desc: "School's Out. France, 2018. Dirigido por Sébastien Marnier, escrito por Christophe Dufossé, Elise Griffon, Sébastien Marnier. Com Laurent Lafitte, Emmanuelle Bercot, Luàna Bajrami."
-
-
-

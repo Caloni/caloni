@@ -18,7 +18,3 @@ A animação dos bichinhos é impecável. Não apenas a textura de pelúcia, mas
 A fotografia, por exemplo, não exagera nas cores, mas quando se trata de um balão vermelho... bom, ele é vermelho mesmo, com todas as forças! E a direção de arte transforma até uma prateleira na cozinha em uma obra de arte que une o real com o nostálgico. E note como, apesar de ser um filme cheio de efeitos, a direção de Marc Forster privilegia planos mais fechados, que favorecem a interação de Christopher com seus bichinhos. Isso ao mesmo tempo que favorece o clima de intimidade entre velhos amigos também demonstra uma confiança inabalável do poder da computação gráfica nos dias de hoje.
 
 Com essa premissa moralista sobre como o trabalho nos escraviza, por mais improvável que pareça, "Christopher Robin" consegue se desvencilhar muito bem do velho clichê Disney e suas lições de moral no final do filme, e isso é graça à entrega incondicional de McGregor e dos dubladores, que concretizam para o mundo real um pedaço de fantasia irretocável que, assim com O Pequeno Príncipe, nos diz o essencial sem conseguirmos de fato ver onde isso está.
-
-"Christopher Robin" (EUA, 2018), escrito por Alex Ross Perry, Tom McCarthy, Allison Schroeder, dirigido por Marc Forster, com Ewan McGregor, Hayley Atwell, Bronte Carmichael, Jim Cummings.
-
-

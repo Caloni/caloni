@@ -20,7 +20,3 @@ Por isso a história delas não tem a ver com conquista ou desafio. Elas já pos
 A direção de Alexandre Peralta entrega no começo um filme promissor que lentamente mostra que não sabe direito o que mostrar, senão a cartilha burocrática sobre a vida dos cegos. O mais impressionante mesmo são as lições de balé, que se baseiam no toque e na repetição. As garotas possuem pessoas bondosas e dedicadas em volta, como uma professora, um coreógrafo e dançarinos. Esta é a única instituição voltada para o ensino de balé para cegos no mundo. Isso não impressiona, mas faz pensar:
 
 O quão mais longe cada ser humano consegue ir, dada a oportunidade certa?
-
-"Olhando para as Estrelas" (Brazil/USA, 2016), escrito por Melissa Rebelo Kerezsi, Alexandre Peralta, dirigido por Alexandre Peralta, com Geyza Pereira, Fernanda C. Bianchini Saad, Thalia Macedo, Cesar Albuquerque, Sandra Macedo
-
-

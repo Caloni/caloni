@@ -18,9 +18,3 @@ Esta é a biografia de um repórter que alterou o formato das perguntas das entr
 Se trata de um trabalho ágil, mas sem uma narrativa coesa, que nos leve a entender o que quer que seja a respeito do seu trabalho. No final sequer ficamos sabendo se era ele que fazia as perguntas mais pertinentes (ou impertinentes) ou ele era apenas um pau mandado do dono da produtora.
 
 Ou seja, o filme começa na incógnita e termina do mesmo jeito. Ele é divertido em um nível moderado, mas informativo em um nível frustrante. E isso para um documentário é um pecado e tanto.
-
-
-"Mike Wallace Is Here" (EUA, 2019), dirigido por Avi Belkin.
-
-
-

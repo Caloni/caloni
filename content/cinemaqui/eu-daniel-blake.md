@@ -19,7 +19,3 @@ Apesar deste não ser um filme extremamente dramatizado, as situações que seus
 O céu cinzento da Inglaterra cai como uma luva nas mãos do diretor Ken Loach, que utiliza o roteiro simples e direto de Paul Laverty em construções que vão terminando em fades cada vez mais obscuros. A pobreza representada por sombras nas casas dos personagens (ou até sua exclusão da sociedade) e um azulejo que se quebra quando uma mãe tenta tornar o banheiro mais confortável para seu filho enquanto passa fome é o tipo de detalhe que empodera o discurso do filme, que encontra na desesperança dessas pessoas o combustível de sua revolta.
 
 Por fim, a questão que fica é a que reside na carta de Daniel Blake, que afirma ele não ser um cachorro, mas um cidadão, o que mereceria no mínimo o respeito à sua dignidade. Depois de termos assistido "Eu, Daniel Blake" uma outra questão, mais poderosa, é que permanece: um cidadão nos dias de hoje seria um tipo especial de cachorro, onde são dados alguns direitos, mas onde dignidade é algo opcional?
-
-"I, Daniel Blake" (UK/France/Belgium, 2016), escrito por Paul Laverty, dirigido por Ken Loach, com Dave Johns, Hayley Squires, Sharon Percy, Briana Shann, Dylan McKiernan
-
-

@@ -20,7 +20,3 @@ E por outro lado, Pedro Vinícius, que faz o garoto Fabrício, não pode oferece
 Porém, o mais decepcionante para mim é ver uma trilha convencional do começo ao fim dos irmãos Garbato, que nesse mesmo ano criaram os surpreendentes efeitos sonoros e musicais no excelente O Silêncio do Céu. Se em "O Silêncio" havia toda uma criação rebuscada em torno da inquietação de seus personagens e dos sons do ambiente, aqui a orquestra realiza os passos de um drama genérico mecanicamente, sem alma e sem ritmo.
 
 O Filho Eterno, enfim, não é um filme ruim por si só. Ele possui momentos interessante, mas que nunca chegam a impactar em nossa memória. É daqueles filmes que saímos da sala entendendo o conceito, sua estrutura, mas nunca maravilhados. Alguns talvez até saiam emocionados, pelo filme tratar de uma criança com um problema congênito, mas será apenas pelo seu estado, e não pela sua história.
-
-"O Filho Eterno" (Brazil, 2016), escrito por Leonardo Levis, Cristovão Tezza, dirigido por Paulo Machline, com Débora Falabella, Marcos Veras, Pedro Vinícius
-
-

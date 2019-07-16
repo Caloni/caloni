@@ -16,7 +16,3 @@ E eles obviamente são misóginos. Com uma certa sutileza, é verdade. O persona
 Fora essa diversão despretensiosa sobre igualdade e a luta pelo poder corporativo, Emmanuelle Devos é o pilar moral de todo esse circo, se mantendo fiel aos seus princípios, mudando ligeiramente suas opiniões mais éticas apenas por um bem maior. Ela se transforma no circo que as corporações são, mas ao mesmo tempo nos faz entender que é assim que se dança a valsa neste mundo.
 
 A diretora Tonie Marshall transforma o seu roteiro com Marion Doussot em um filme esquecível. Ela tem pressa em estabelecer o jogo de poder e se baseia pesadamente em diálogos reveladores para fazer isso, mas uma vez alcançado esse objetivo tudo se transforma mais ou menos em uma novela muito interessante de se ver, mas vazia de maiores ambições.
-
-"Numéro une" (França, 2017), escrito por Marion Doussot, Tonie Marshall, dirigido por Tonie Marshall, com Emmanuelle Devos, Suzanne Clément, Richard Berry
-
-

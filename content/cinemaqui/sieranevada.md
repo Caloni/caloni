@@ -20,7 +20,3 @@ Não há muito foco específico na história que acompanhamos, exceto a própria
 A questão é: Sieranevada não é um filme que está disposto a agradar o espectador com floreios, e talvez por isso mesmo seja apaixonante acompanhar esta história focada na família. Há detalhes que precisamos pescar aqui e ali para extrair significado, e sempre é admirável quando um filme não tenta mimar o espectador, mas exige que este preste atenção. Dessa forma, usando o conflito do carro em dois momentos distintos do longa, a calma e o sarcasmo do protagonista e a discussão em torno da traição, temos o conjunto completo para uma discussão, embora velada, gritantemente espalhada pela história. O filme, aliás, poderia terminar em uma cena dentro do carro, exatamente como começou.
 
 Só que não. Precisamos do almoço, esse maldito que atrasa mais de três horas. Precisamos não apenas para continuar o drama familiar, mas para nos abrigarmos novamente dentro daquela casa quentinha, cheia de humanos interagindo entre diferentes cômodos, diferentes cenas, diferentes humores. E voltamos para o sonho acordado, para finalmente nos entregarmos ao riso. Nessa hora o filme se torna curto, pois seria fácil, divertido até, acompanhar mais dramas de família como esses. Porém, tudo tem seu momento, e agora é hora de comer. Bom apetite.
-
-"Sieranevada" (Romania/France/Bosnia and Herzegovina/Croatia/Republic of Macedonia, 2016), escrito por Cristi Puiu, dirigido por Cristi Puiu, com Mimi Branescu, Mirela Apostu, Eugenia Bosânceanu, Ilona Brezoianu, Ana Ciontea
-
-

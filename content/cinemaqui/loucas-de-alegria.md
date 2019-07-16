@@ -18,7 +18,3 @@ Essa abordagem, diga-se de passagem, destoa completamente do que vemos a partir 
 E se estou contendo até agora todos os possíveis spoilers da história, mesmo os mais periféricos, é porque este é um filme que o espectador merece degustar cada momento, e escalar cada degrau desta história. Sinto muitos pelos que já viram o trailer; os desdobramentos do roteiro de Paolo Virzì e Francesca Archibugi são tão empolgantes, e tão bem aproveitados pelas duas atrizes, em total sintonia com o projeto, que vale a pena uma primeira assistida inocente.
 
 Mesmo que este não seja um filme "de uma vez só", pois é fácil de se apaixonar por essas duas garotas e querer revê-las. Ao escancarar suas duas trágicas vidas, o desejo honesto de qualquer ser humanos é abraçá-las e as consolar, apesar de tudo. Apenas não daria para dizer que tudo vai ficar bem, pois quando você vive intensamente como essas duas, os resultados são imprevisíveis. E isso é estranhamente ótimo.
-
-"La pazza gioia" (Italy/France, 2016), escrito por Paolo Virzì, Paolo Virzì, Francesca Archibugi, dirigido por Paolo Virzì, com Micaela Ramazzotti, Valeria Bruni Tedeschi, Valentina Carnelutti, Marco Messeri, Bob Messini
-
-

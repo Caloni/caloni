@@ -15,7 +15,3 @@ Talvez seja. O grande plot do filme é a avó do garoto, lúcida apesar dos 96 a
 Criando uma tela muito fina de cotidiano, sem personagens que se prezem, o roteiro adaptado da realidade de Mercedes apela para o "humanismo pelo humanismo" e acaba soando banal demais, sem potência para conseguir erguer alguma narrativa que seja. Em resumo: ele acaba sendo chato, ainda que sua história real, fora das câmeras, seja bacana.
 
 O que podemos analisar em um filme como esse é como ele estragou a experiência, e o que podemos fazer para aproveitá-lo é entender o que saiu de errado. Eu aposto na falta de detalhes suficientes do pano de fundo onde a história se passa, a falta de cuidado em editar a narrativa principal para obter detalhes mais interessantes ou a falta de bom senso em fazer um filme como esse. Seja como for, tem algo faltando no universo desse criador.
-
-"El Creador de Universos" (Uruguai, 2017), escrito e dirigido por Mercedes Dominioni, com atores desconhecidos.
-
-

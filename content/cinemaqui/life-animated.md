@@ -18,7 +18,3 @@ A narrativa conduzida pelo diretor Roger Ross Williams baseado em um livro escri
 Sem qualquer paixão pelo projeto, os cineastas parecem andar à deriva e possuem menos senso crítico do que o próprio Owen aparentemente desenvolveu. Em certo momento há um revés inesperado na vida do jovem, que é tratado como um desastre pela família, uma calamidade, e que logo é racionalizado pelo próprio Owen. Não há drama na história exceto o forçado artificialmente pelo filme, que insiste em sua premissa por cansativos 90 minutos.
 
 Certamente há algo a se aprender com os autistas. Isso já está claro para o mundo e Owen é um brilhante exemplo. Porém, não é se colocando em seu próprio nível histérico de enxergar a realidade ou superestimar suas capacidades que os objetivos de comunicação com essas pessoas especiais e dignas de cuidado serão alcançados. Certamente não com um filme que emula o pior na Disney: suas esquisitices assépticas e simplificadas de como a vida funciona.
-
-"Life, Animated" (USA, 2016), escrito por Ron Suskind, dirigido por Roger Ross Williams, com Jonathan Freeman, Gilbert Gottfried, Alan Rosenblatt, Owen Suskind, Ron Suskind
-
-

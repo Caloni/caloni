@@ -16,7 +16,3 @@ A diretora Cristiane Oliveira consegue aqui evocar um visual cheio de significad
 O roteiro, também escrito por Cristina, em parceria com Michele Frantz (Sonhos Roubados), parece não se preocupar em tornar tudo mais ou menos óbvio. Dessa forma, quando vemos a professora de arte de Nalu ensinando os alunos a moldar argila com os olhos fechados já imaginamos na vida de quem ela irá parar. Da mesma forma, quando um jovem uruguaio começa a ficar com a garota já sabemos onde isso vai dar. Não há nada de imprevisível em Mulher do Pai, mas é nos detalhes que o filme nos captura, fazendo com que sua história por si só já seja digna de acompanhar.
 
 Para uma rotina em que não acontece nada o filme parece te prender a cada detalhe. Isso porque com um roteiro minimalista, que carece de palavras mas sobra de imagens, vamos aos poucos tateando o que a história quer dizer. E, talvez, no final das contas, o título do filme acabe chamando a atenção pelo que ele nos faz esperar. E com personagens tão simbólicos quanto estes, isolados do mundo como estes, trabalhar apenas com expectativas já prova a capacidade do filme em surpreender mesmo em cima do óbvio.
-
-"Mulher do Pai" (Brazil/Uruguay, 2016), escrito por Cristiane Oliveira, Michele Frantz, dirigido por Cristiane Oliveira, com Maria Galant, Marat Descartes, Verónica Perrotta, Áurea Baptista, Amélia Bittencourt
-
-

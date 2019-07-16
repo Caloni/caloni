@@ -16,7 +16,3 @@ Este é um filme bem francês, se é que me entende. Ele conta com uma trilha so
 Essa é a maneira que Binoche vive, e daí toda sua tristeza existencial serve de filtro para analisar seus relacionamentos. Um ator faz um banqueiro acostumado a mandar em pessoas. Ele manipula sua amante como manipula um barman enquanto faz pedidos específicos demais para satisfazer seu mimado ego. Já outro ator faz um ator frustrado consigo mesmo em não conseguir se despedir de sua esposa e seu casamento falido, e ao mesmo tempo não consegue simplesmente calar a boca e beijá-la. Os momentos entre os dois no filme são os mais exemplares de como um relacionamento não deve começar nem continuar.
 
 A surpresa fica por conta do final, onde Gérard Depardieu aparece em um personagem de fechamento. Este é um filme com ótimos diálogos que discutem o que é estar junto com alguém pra valer, mas que ironicamente não consegue sustentar o diálogo tempo suficiente para estruturar nossos pensamentos. Ele vai se tornando caótico e ruma em direção ao esotérico. Se torna ofensivo como resposta a uma busca tão sincera de Binoche.
-
-"Un beau soleil intérieur" (França, 2017), escrito por Christine Angot, Claire Denis , dirigido por Claire Denis, com Juliette Binoche, Xavier Beauvois, Philippe Katerine.
-
-

@@ -16,7 +16,3 @@ Sobre a visão subjetiva (e divina) desse psicopata que só quer se divertir, re
 O filme parece fazer algumas metáforas que comparam a vida dos criminosos como viva, colorida e musical e a vida do cidadão de bem como alguém inerte, sem reação, em um mundo sombrio, sem cor e sem emoção.
 
 Esta poderia ser uma biografia, pois não há arco visível, apenas acontecimentos em torno de Carlos, que parece contar sua história em posição privilegiada. A sua erotização e glamour são apenas cerejas do bolo de um filme vibrante, embora com pouco a dizer.
-
-"El ángel" (Argentina, Espanha, 2018), escrito por Sergio Olguín, Rodolfo Palacios e Luis Ortega, dirigido por Ortega, com Lorenzo Ferro, Chino Darín, Daniel Fanego.
-
-

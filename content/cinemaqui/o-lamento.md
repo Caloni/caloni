@@ -19,7 +19,3 @@ Isso explica porque conforme a história vai se tornando cada vez mais complexa,
 A sensação é que parece haver pelo menos três filmes aí. Hong-jin Na parece não saber cortar, nem no roteiro nem no próprio filme. Mas não me leve a mal: todas as sequências são ótimas. O que não evita que elas aos poucos percam a força, justamente por irem empalidecendo o significado na história. A fotografia é ótima, bucólica, rupestre, com cores simples que se misturam com as sombras, seja da floresta ou das construções destruídas. A edição é dinâmica, interessante de seguir, pois está sempre investindo na subversão do ritmo para gerar susto, algo muito mais eficaz que o som que aumenta de repente. Aliás, até a edição de som e os efeitos sonoros são de primeira qualidade. São os sons que intensificam cada cena sem forçá-la, muitas vezes usando os personagens se assustando.
 
 Porém, nada disso adianta se a história que acompanhamos vai fazendo cada vez menos sentido, e no final a única coisa que temos é o horror bem feito esteticamente, com diferentes formas de representá-lo -- incluindo um demônio impecável -- e sem aquilo que mais um terror necessita para que ele consiga ainda ser relevante: significado. Às vezes não saber a hora de cortar pode ser a maior maldição de um filme.
-
-"Goksung" (South Korea/USA, 2016), escrito por Hong-jin Na, dirigido por Hong-jin Na, com Do Won Kwak, Woo-hee Chun, Jung-min Hwang, So-yeon Jang, Han-Cheol Jo
-
-

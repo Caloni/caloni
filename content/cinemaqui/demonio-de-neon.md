@@ -22,7 +22,3 @@ Há diferentes visões na narrativa de Demônio de Neon que alimentam com simbol
 A maior virtude do filme é vir embalado em uma viagem sensorial fascinante, com enquadramentos de encher os olhos e música de encher os ouvidos. Ironicamente, se analisado como metalinguagem, pode acusar a própria "hipocrisia" do espectador em se deliciar com um trabalho feito por uma equipe que trabalha para entregar o máximo de prazer no audiovisual. Pense nisso quando estiver elogiando a entrega total da atriz X ou do ator Y e verá que o filme não se resume em um trabalho específico do mundo da moda. A arte exige sacrifícios que pessoas estão dispostas a correr e espectadores dispostos a assistir.
 
 Talvez por isso todo o filme dê essa sensação de estranheza  ou incômodo. Aliás, é bom avisar: há cenas realmente fortes na conclusão. Afinal de contas, não há maneira melhor de demonstrar os sacrifícios alimentares das modelos senão pelo clima visceral que os símbolos em Demônio de Neon nos entregam. E não há sacrifício alto demais para realizar uma rima simbólica com o próprio mito da Esfinge. Felizmente para nós, espectadores, isso é apenas um incômodo temporário e maquiado. Nosso único incômodo talvez seja ouvir a belíssima música de fechamento de Sia Furler com uma conotação... diferente do usual.
-
-"The Neon Demon" (France/Denmark/USA, 2016), escrito por Nicolas Winding Refn, Nicolas Winding Refn, Mary Laws, Polly Stenham, dirigido por Nicolas Winding Refn, com Elle Fanning, Karl Glusman, Jena Malone, Bella Heathcote, Abbey Lee
-
-

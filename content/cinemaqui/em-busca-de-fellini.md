@@ -20,7 +20,3 @@ Ela é interpretada pela belíssima Ksenia Solo, com seus grandes olhos azuis e 
 E é claro que a maioria das situações irão justamente fazer nossos olhos observarem uma revisita ao mundo de Fellini. Esta é uma homenagem fofinha. Portanto, aproveite. Não há nada a temer, pois tudo sempre dará certo. Talvez a única falha do filme seja isso: a falta de tensão. Se até Fellini encostava seus pés no chão de vez em quando -- e isso era o que tornava seus filhos providos de um significado maior do que simplesmente uma viagem experimental ao mundo dos sonhos -- aqui o roteiro de Nancy Cartwright e Peter Kjenaas prefere não arriscar estragar um passeio tão lindo, não percebendo que as agrúrias da vida fazem parte do passeio. Principalmente quando o passeio em si é um microcosmos da vida.
 
 E esta vida é certinha demais para fascinar. Ou talvez Fellini não tenha mais espaço nos dias de hoje. É capaz. Com tanta ironia e desprezo pelos sentimentos humanos, a vida se tornou um simulacro dela mesma. E tendo isso em jogo, Em Busca de Fellini pode ter um sentido metalinguístico. Onde estará, nos dias de hoje, o próximo Fellini a alçar vôo na arte que imita os sonhos?
-
-"In Search of Fellini" (USA, 2017), escrito por Nancy Cartwright, Peter Kjenaas, dirigido por Taron Lexton, com Maria Bello, Ksenia Solo, Mary Lynn Rajskub, Barbara Bouchet, Beth Riesgraf
-
-

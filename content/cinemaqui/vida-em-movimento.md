@@ -23,9 +23,3 @@ O cerne do problema é burocrático. O formato do filme e a falta de paixão no 
 Porém, este também é um problema de conteúdo, pois nada do que vimos no filme é inédito. O uso indiscriminado da tecnologia dos celulares e tablets, uma das críticas do filme, conectados à internet nos daria essas informações, muitas vezes em formato mais interessante, e anos, décadas atrás. O exemplo de Copenhague e seus cidadãos andando de bicicleta por toda a cidade não apenas está datada, mas é praticamente conhecimento comum e usado em inúmeros trabalhos escolares.
 
 Tentando fazer um apanhado contemporâneo sobre estilos de vida que tentam fugir do sedentarismo surge apenas o senso comum. Este não chega a ser um alerta sobre nossos hábitos, mas apenas uma constatação. E quando os índices de obesidade piorarem ainda mais, estaremos nos lembrando sobre o foco excessivo dado às atividades físicas. E continuaremos ingerindo fast food. Talvez essa seja a maior reflexão do nosso tempo.
-
-
-"Vida Em Movimento" (Brasil, 2019), escrito por Selma Perez, Eduardo Rajabally, Márcio Atalla, Joana Kfuri baseados na ideia original de Márcio Atalla, dirigido por Eduardo Rajabally.
-
-
-

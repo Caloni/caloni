@@ -20,7 +20,3 @@ Desinteressado em florear muito seus motivos, Martyrs simplesmente é o que é. 
 Sobre a direção dos irmãos Goetz, fica difícil não citar o uso de uma profundidade de campo reduzida, onde quase nada do cenário, ou personagens secundários, é possível ver. Esse artifício foi utilizado pelo vencedor do Oscar esse ano de filme estrangeiro, O Filho de Saul, por motivos semelhantes, além de um quê de esconder o objeto do medo sem precisar colocá-lo atrás da porta. E funciona razoavelmente bem em conseguir esconder também parte do gore que é desnecessário, e só diretores como Eli Roth fariam questão de mostrar.
 
 Mesmo assim, se você não é muito fã de violência gráfica extrema, haverá um ou dois momentos propícios para virar os olhos. Nada muito exagerado. É que o psicológico de Martyrs pega pesado. E, com um pouco de atenção, o filosófico também poderá pegar você de jeito.
-
-"Martyrs" (USA, 2015), escrito por Pascal Laugier, Mark L. Smith, dirigido por Kevin Goetz, Michael Goetz, com Troian Bellisario, Bailey Noble, Kate Burton, Caitlin Carmichael, Melissa Tracy
-
-

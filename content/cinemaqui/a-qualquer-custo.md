@@ -27,7 +27,3 @@ Esse trio cria personagens que gostaria de ver em outros momentos, outras histó
 Preenchendo com uma trilha sonora texana divertida com seus momentos dramáticos -- e até um tema surpreendentemente eficiente -- o filme possui uma direção naturalista, que começa movimentando a câmera em um plano-sequência, mas que também interfere no que olhamos (como a grama no final, ou o uso elegante de girar do lado de fora da cena para em seguida adentrar em um veículo). O diretor David Mackenzie consegue manter o controle a todo momento, mostra a que veio, mas sem querer exagerar em qualquer ato. O resultado é um filme sóbrio, e por isso mesmo mais poderoso ainda.
 
 Mas a estrela do filme é mesmo o roteiro. Escrito pelo ator Taylor Sheridan (que faz uma ponta), que já havia escrito "Sicario: Terra de Ninguém", o filme de Denis Villeneuve, ele é a prova viva de que roteiros originais podem não ser o mainstream em Hollywood, mas com certeza é de onde vem as melhores surpresas. Minucioso nos detalhes e mantendo o espectador sempre com uma pontinha de querer saber mais, Sheridan consegue caminhar passo-a-passo com ambos os lados da perseguição à distância, e mesmo que nada esteja ocorrendo é na mente dos perseguidores e perseguidos que a ação se desenrola.
-
-"Hell or High Water" (USA, 2016), escrito por Taylor Sheridan, dirigido por David Mackenzie, com Dale Dickey, Ben Foster, Chris Pine, William Sterchi, Buck Taylor
-
-

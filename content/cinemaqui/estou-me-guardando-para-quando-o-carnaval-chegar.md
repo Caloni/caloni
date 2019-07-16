@@ -26,9 +26,3 @@ Disseram a esse sujeito, que vira uma espécie de segundo narrador do filme, que
 Enquanto a forma realista de Marcelo Gomes filmar, evitando cortar em cenas onde as pessoas perguntam se já pode começar ou quando uma garota diz estar com vergonha, são indícios que podemos ver mais do que nos seria permitido em um filme mais recortadinho, é a ironia do destino que transforma o maluco da cidade no porta-voz da razão no filme. Daí surge a pergunta: quanto vale o esforço de quem não trabalha? O filme não responde essa pergunta. Mas imagino que o resultado dessa conta seja o mesmo para qualquer pessoa, em qualquer sociedade, capitalista ou não: zero.
 
 Mas estou sendo parcial como nosso amigo diretor. Uma resposta mais honesta seria: quanto a nossa realidade permitir.
-
-
-"Estou Me Guardando Para Quando O Carnaval Chegar. Brazil, 2019. Dirigido por Marcelo Gomes, escrito por Marcelo Gomes."
-
-
-

@@ -12,9 +12,3 @@ Começando com sua temática rica do som suplantar nossas memórias, aumentando 
 O processo de ressocialização com a família possui um ar de mistério óbvio, mas como se trata de um exercício também para a família os poucos diálogos e o tempo estendido se faz necessário. Notamos como não é fácil passar a existir em uma vida que não tínhamos ideia, como uma pessoa em que não nos reconhecemos.
 
 O filme trata da transformação da mulher na sociedade, mas arranha muito mal o tema, não desenvolve a personagem (nenhum deles) para comparação com o antes e depois. Ele tenta ser universal, mas se esquece de primeiro nos envolver com uma história mais pessoal. De fotografia fria e quadros externos onde a natureza oprime o indivíduo, ele exalta a solidão, mas não nos dá motivos para refletir. É uma narrativa itinerante que nos esquecemos logo depois como a vida da heroína. Um filme que não passa de neblina na floresta.
-
-
-Fugue (Polônia, República Tcheca, Suécia, 2018), escrito por Gabriela Muskala, dirigido por Agnieszka Smoczynska, com Gabriela Muskala, Lukasz Simlat, Malgorzata Buczkowska.
-
-
-

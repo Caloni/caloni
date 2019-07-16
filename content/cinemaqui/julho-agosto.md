@@ -14,7 +14,3 @@ Ninguém leva a menina Laura a sério, como toda pivete na família, mas ela est
 Cada um dos seus pais e mães está sofrendo algum "viés", e cada um ao seu jeito, mas facilmente resumíveis em uma crise financeira e duas crises de meia-idade, cujas revelações fazem parte da trama e tentam criar algum drama onde não existe nenhum. De qualquer forma isso impacta nas férias das meninas, mas nada é motivo suficiente para estragar o clima, embora por algum motivo os jovens de classe média conseguem encontrar alguma razão para alterarem radicalmente o humor. São meninas mimadas, mas não insuportáveis. Apenas temperamentais.
 
 A melhor parte do filme é acompanhar sua trilha sonora, e tenho quase certeza que ela foi compilada para ir direto para um CD ou streaming vendável. Ela resume basicamente o que esperar deste filme: apenas momentos de entretenimento cercados de uma ou outra surpresa interessante sem ser demasiadamente arriscada. Não é o que todos esperam de umas belas férias?
-
-"Juillet août" (France, 2016), escrito por Diastème, Diastème, Camille Pouzol, dirigido por Diastème, com Luna Lou, Pascale Arbillot, Alma Jodorowsky, Patrick Chesnais, Thierry Godard
-
-

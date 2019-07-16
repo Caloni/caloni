@@ -14,7 +14,3 @@ A edição de som é tão precisa que ela se torna quase um personagem. Não fos
 A atuação de Rômulo Braga (O Que Se Move) é precisa em não revelar quase nenhum traço de sua personalidade, exceto a incapacidade de sentir qualquer coisa, como se estivesse anestesiado ou drogado. Ele parece apenas reagir à soma das percepções em sua volta, como um soco na parede durante seu exercício, e até em um momento extremamente sensual, em plelo ato sexual, que indica que ao menos através de seus corpos ele e sua mulher se entendiam bem; mesmo assim, Elon se revela um homem quase que meticuloso, como ao segurar os cabelos de Madalena enquanto ela pratica oral, ou até seu próprio ritmo ao retribuir a amada. É sensual, mas é mecânico. Todo o filme é um suspense frenético, mas Elon está igualmente mecânico.
 
 Ah, sim. Isso me faz lembrar. "Elon Não Acredita..." é um filme adulto. Claro, o motivo oficial é o sexo e a nudez. Mas o verdadeiro motivo, desconfio, é o café. Você irá entender quando acontecer. Sempre é o café; principalmente quente. Não é mesmo?
-
-"Elon Não Acredita na Morte" (Brazil, 2016), escrito por Ricardo Alves Jr, Diego Hoefel, Germano Melo, João Salaviza, dirigido por Ricardo Alves Jr., com Rômulo Braga, Clara Choveaux, Ricardo Alves Jr., Helvecio Alves Izabel, Francisco Loyola
-
-

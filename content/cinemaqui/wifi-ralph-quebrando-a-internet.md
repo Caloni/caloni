@@ -18,9 +18,3 @@ Mas logo o apelo ajeitado pela equipe de roteirista gira em torno de algo mais c
 Há algumas boas ideias ao tentar criar metáforas como os pacotes de internet trafegando pela rede, ou o divertidíssimo sistema de busca que tenta adivinhar, o sistema de spams, etc. Tudo isso parece soar datado assim que aparece no filme, mas ao mesmo tempo é muito bem feito. Note como não existe horizonte na internet; tudo que vemos é um fundo branco (o padrão nas cores dos sites) que parece inalcançável. Os usuários aparecem como versões quadradas que "navegam" por esse hiper-espaço clicando em links.
 
 Porém, no fundo, "Wifi Ralph" é um filme leve, sem maiores atribulações. Ele tem um conflito bem definido, que parece intransponível porque mexe com os sentimentos dos personagens que aprendemos a adorar, e só pelo fato da Disney estar mais interessada em um filme de ideias para crianças do que ação e vilões que surgem convenientemente no segundo ato já é um ponto positivo.
-
-
-"Ralph Breaks the Internet" (EUA, 2018), escrito por Phil Johnston, Pamela Ribon, Rich Moore, Jim Reardon, Josie Trinidad e Kelly Younger (toda essa gente por essa história?), dirigido por Phil Johnston e Pamela Ribon, com John C. Reilly, Sarah Silverman, Gal Gadot, Taraji P. Henson e outros; na versão brasileira quem dublou Ralph continua sendo Tiago Abravanel, mas agora, depois de protestos no primeiro filme a dubladora de Vanellope é Flora Paulita.
-
-
-

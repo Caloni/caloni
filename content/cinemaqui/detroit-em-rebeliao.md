@@ -22,7 +22,3 @@ Quando todos eles se encontram no Motel Algiers, não precisamos de apresentaç�
 É claro que junto da história temos uma direção de arte absolutamente impecável, que resgata cenários carregados de textura da época, seja pela roupagem dos personagens, como reparar o calor aquela noite pelos vestidos das duas meninas da história, ou até detalhes bobos que adicionam à mesma sensação de calor, como a piscina movimentada e o ventilador no quarto. E tudo isso está embalado em uma fotografia que vez ou outra se submete a uma granularidade dos filmes da época, além de usar o amarelo das luzes para enfatizar o mesmo calor. Calor aqui é um símbolo eficaz para uma situação onde há muito mais emoção que razão.
 
 Há de se perceber que a história vista em Detroit em Rebelião sacrifica parte do seu realismo ao tentar colocar sutilmente os negros como vítimas absolutas em um cenário de guerra, o que seria patético se analisado friamente. Este seria um pecadilho em um filme puramente ficcional (pelo bem da narrativa), mas se torna desonesto quando ele usa o pano de fundo de um evento real. Ainda assim, se há uma questão eternamente em aberto que poderia ser debatida por horas seria justamente sobre a incapacidade do equilíbrio e da imparcialidade em retratar pela arte um evento desses. Mas se lembrarmos que Bigelow conseguiu isso em A Hora Mais Escura, talvez não fosse pedir demais.
-
-"Detroit" (USA, 2017), escrito por Mark Boal, dirigido por Kathryn Bigelow, com John Boyega, Will Poulter, Algee Smith, Jacob Latimore, Jason Mitchell
-
-

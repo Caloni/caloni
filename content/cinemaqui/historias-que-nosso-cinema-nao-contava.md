@@ -13,7 +13,3 @@ A "história", como o título, uma brincadeira com "Histórias que Nossas Babás
 O filme peca por não ter de fato uma discussão séria. Os letreiros iniciais e finais parecem sugerir que ele tem, que aquilo foi produzido como memória para "não repetirmos os erros do passado". Mas não há erros identificáveis no filme; ou pelo menos não erros universais. Depende de quem está lendo e de suas opiniões sobre os temas pincelados. Eu, por exemplo, achei divertidíssimo o humor ocasional cercado de ironias e má atuações, e todas as piadas cercando o mercado de ações são para quem já trabalho na área ou já acompanhou notícias por mais de uma década uma pérola à parte. Os famosos nus das mulheres (e dos homens) são mostrados, mas não erotizados; chegam a ser tristes em alguns momentos, libertadores em outros.
 
 A própria bagunça que o filme faz com diferentes histórias e personagens acaba se tornando mais um exemplo digno do que é Brasil, esse caos que sob os olhos de qualquer outro povo soa como um caos imoral e completamente delicioso. Não há outra forma de ver nosso povo e nossa história. E se você adora pornochanchadas, mesmo que em outras áreas da vida seja um coxinha, é bem capaz que você tenha o vírus brasileiro no sangue; apenas não te deram o diagnóstico.
-
-"Histórias que Nosso Cinema (Não) Contava" (Brasil, 2017), dirigido por Fernanda Pessoa e montado por Luiz Cruz, com atores diversos de pornochanchadas diversas.
-
-

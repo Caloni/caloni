@@ -14,9 +14,3 @@ Tudo não passa de uma farsa, e desde o começo o espectador pode perceber. A ci
 O problema é que tudo isso está sendo comentado por uma trilha sonora enfadonha e que ao mesmo tempo nos entrega uma grandiosidade que sabemos que não existe. O sujeito está se dando conta de seus próprios delírios, mas Adam Drive, como comentei, não está seguindo a essência de um papel quixotesco, estando mais para um coadjuvante espectador. Isso gera uma perda de identidade do público, que não tem muita certeza de quem é o herói aqui, já que o diretor é cínico e antipático, apesar de atrair praticamente todas as mulheres do longa.
 
 Essa é a bola fora mais fora da carreira do diretor ex-Monty Python Terry Gilliam, que exibe no início dos créditos o projeto que foi construído e... desconstruído em 25 anos. Bom, há algo que dizem de projetos intermináveis que são revistos de tempos em tempos: é provável que ele fosse melhor dentro de uma gaveta para sempre.
-
-
-The Man Who Killed Don Quixote (Espanha, Bélgica, França, Portugal, Reino Unido, 2018), escrito por Terry Gilliam, Tony Grisoni, dirigido por Terry Gilliam, com Adam Driver, Jonathan Pryce, Stellan Skarsgård. Literatura.
-
-
-

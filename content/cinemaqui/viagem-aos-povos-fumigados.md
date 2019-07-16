@@ -20,9 +20,3 @@ Já o segundo pecado é abordar vários sub-temas sem se aprofundar em nenhum de
 Mas não me leve a mal. O trabalho é ótimo, com uma excelente edição e boas entrevistas e pesquisa. Há ainda uma direção inspirada, que utiliza da montagem para ilustrar os acontecimentos narrados pelos entrevistados. Quando uma professora fala sobre um avião com agrotóxicos em cima da escola e os alunos indo se esconder não há vídeo desse dia, mas o filme emula da mesma forma mostrando um avião e crianças correndo. É uma dramatização eficiente.
 
 Porém, qual a validade de um trabalho documental que apela demais para a emoção e se esquece de analisar todos os lados da questão? Fica a reflexão para um espectador mais crítico.
-
-
-A Journey to the Fumigated Towns (Argentina, 2018), escrito e dirigido por Fernando E. Solanas. Documentário, agricultura, agrotóxicos, natureza, ecologia, política.
-
-
-

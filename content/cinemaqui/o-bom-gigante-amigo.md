@@ -20,7 +20,3 @@ E se a trama principal soa preguiçosa e deselegante -- principalmente por ensin
 Porém, o pior mesmo é a "solução" apresentada pelo filme para os gigantes maus e selvagens. Mesmo vivendo na Terra de Gigantes e nunca haver qualquer menção de que eles atacariam Londres, apenas o risco de fazê-lo desencadeia um poderio militar que invade a terra mágica e define o destino daquelas criaturas para sempre. Não é possível saber com certeza se isso tem pouco ou muito a ver com a crescende onda xenofóbica na Europa decorrende da imigração desenfreada, mas fica difícil não relacionar dois atos insensatos relacionados com um povo estranho e "selvagem".
 
 Sem conseguir contar qualquer história, mas ao mesmo tempo conseguindo entreter crianças e adultos pela simples arte de contar acontecimentos, O Bom Gigante Amigo é um filme de crianças que serve para adultos com mente de criança. Isso não seria preocupante se fosse uma péssima educação para os pequeninos, que aprendem desde já a resolver seus conflitos no punho.
-
-"The BFG" (UK/Canada/USA, 2016), escrito por Melissa Mathison, Roald Dahl, dirigido por Steven Spielberg, com Mark Rylance, Ruby Barnhill, Penelope Wilton, Jemaine Clement, Rebecca Hall
-
-

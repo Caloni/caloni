@@ -22,7 +22,3 @@ O problema talvez é que nem o próprio Chris ao certo sabe o que veio fazer naq
 O uso da trilha sonora aqui é uma outra incógnita. Utilizando momentos intensos, com a música tomando posse de algumas cenas com toda força e sendo cortada rudemente após isso, a lógica sonora do filme nunca parece fazer sentido, parecendo apenas uma distração estética. Considerando pelo título que ela deveria ser algo importante da história, ela mais confunde que ajuda. No máximo sua participação incidental demonstra que é possível mudar nossa percepção com sons. Ótimo. Isso já sabemos. Mas há uma cena sobre uma montanha que resolve explicar isso para o público leigo, só pra ter certeza.
 
 A pergunta que fica é se Soundtrack poderia ser um filme melhor ou, dado o material, esse é o máximo que ele chega? Ele entretém, isso é verdade, e isso a despeito de suas esquisitices. Mas não nos mantém muito a par de por que estamos tão interessados em sua história. Se isso é uma virtude ou não, acredito que isso fica a cargo do espectador descobrir. E ele que escolha sua própria trilha sonora para curtir o momento.
-
-"Soundtrack" (Brazil, 2017), escrito por Writers, dirigido por Directors, com Selton Mello, Ralph Ineson, Seu Jorge, Thomas Chaanhing, Lukas Loughran
-
-

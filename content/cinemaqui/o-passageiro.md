@@ -18,7 +18,3 @@ O roteiro escrito a seis mãos e dirigido por Jaume Collet-Serra é um trabalho 
 Neeson não parece, como seu personagem, estar com 60 anos. Ele não aparenta a idade, mas aparenta estar cansado. E isso seu personagem realmente está. No entanto, é difícil ver muito mais do ator do que isso. Ele não se torna mais ágil porque é o Liam Neeson, e nem chega a voltar a ser aquele ex-policial que retorna das cinzas. Ele vai andando pelo filme sempre à deriva, sem termos certeza de suas intenções ou até de sua capacidade de desvendar o mistério que cerca o filme ou sair daquela encruzilhada.
 
 Por fim, O Passageiro acaba sendo mais um filme com Liam Neeson em cenas de ação por uma causa maior, mas diferente de Jason Staham, ele parece estar perdendo o fôlego paulatinamente. É improvável que tenhamos um O Passageiro 2, mas se tivermos, provavelmente será alguma luta contra o tempo no corredor de uma UTI. E Liam Neeson já tem uma cena envolvendo um medidor de pressão e um estetoscópio. O estetoscópio é pro personagem dele conseguir ouvir melhor.
-
-"The Commuter" (EUA, Reino Unico, 2017), escrito por Byron Willinger, Philip de Blasi, Ryan Engle, dirigido por Jaume Collet-Serra, com Liam Neeson, Vera Farmiga, Patrick Wilson, Jonathan Banks.
-
-

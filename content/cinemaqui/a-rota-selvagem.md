@@ -16,7 +16,3 @@ O ritmo do filme de Andrew Haigh consegue encontrar razões para cada movimento 
 E dessa foram ele as humaniza, e transforma a vida difícil no grande vilão. É uma crítica social óbvia à falta de oportunidades para crescer dos mais desafortunados, seja na criação, na educação, no preparo psicológico ou até na falta de recursos, mesmo. Uma crítica devidamente preparada, com o caminho traçado, para dar a impressão que este é o caminho que mais ocorre com as pessoas. Há diversas "lições" que Charley aprende com Del e seu pai e outros, que também enriquecem a mensagem.
 
 Assim como A Qualquer Custo, este é um filme tipicamente americano. Bom, A Qualquer Custo é tipicamente texano, mas ambos lidam com questões universais dentro da cultura e dos valores estado-unidenses. Então podemos dizer que esta é mais uma continuação, desde 2008, da crítica crescente ao capitalismo malvadão. E é soberba.
-
-"Lean on Pete" (EUA, 2017), escrito por Andrew Haigh baseado no romance de Willy Vlautin, dirigido por Haigh, com Charlie Plummer, Amy Seimetz, Travis Fimmel.
-
-

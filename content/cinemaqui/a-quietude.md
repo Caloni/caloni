@@ -14,9 +14,3 @@ Ao mesmo tempo a reviravolta final desdobra a história para o nível político,
 Apesar do elenco afiado é preciso dar créditos a mais para Bérénice Bejo por construir uma personagem ao mesmo tempo resiliente e sem medo das consequências dos seus atos. Acostumada a tomar as rédeas de sua vida, pois do contrário não teria o apoio de ninguém -- exceto o do pai, com quem mantém o único vínculo carinhoso -- agora sem apoio em uma casa que lhe traz más lembranças sua Eugenia é uma figura admirável de acompanhar. E Bérénice ainda consegue equilibrar força e vulnerabilidade em seu caráter.
 
 Tudo que não é dito em A Quietude vai se revelando ao espectador como um tapa na cara. É uma forma intensa de manter um drama pertinente o tempo todo intercalando com momentos de plena calmaria em meio ao nada. Os segredos que essa família esconde não são o verdadeiro escândalo, mas a forma como eles lidam com isso.
-
-
-La quietud (aka The Quietude) (Argentina, 2018), escrito e dirigido por Pablo Trapero, com Martina Gusman, Bérénice Bejo, Edgar Ramírez, Graciela Borges, Joaquín Furriel, Isidoro Tolcachir.
-
-
-

@@ -22,9 +22,3 @@ Sempre em filmes com histórias desse tipo a maior preocupação sobre a qualida
 Pecando acima do aceitável talvez apenas em sua trilha sonora ocasional, que atribuiu leveza e trivialidade demais para um filme feito com tanto esmero, "Eu Sou Mais Eu" é um trabalho coeso, bem produzido e bem aproveitado no seu momento atual. Ele tem coisas importantes a dizer sobre fama e bullying e as diz da maneira mais simples possível. Simples demais, deixando perguntas no ar. E essa perguntas não são ruins, pois abrem um diálogo interessante e saudável.
 
 Bônus: há várias músicas icônicas, que eram sucesso na época, tocadas no filme. Espalhadas pelas cenas, elas colorem momentos e marcam a época. Mas a melhor delas é cantada pela própria Kéfera e vira a síntese da história já nos créditos finais. Uma ótima pedida musical essa seleção.
-
-
-"Eu Sou Mais Eu" (Brasil, 2019), escrito por L.G. Bayão e Angélica Lopes, dirigido por Pedro Amorim, com Kéfera Buchmann como Camilla, Giovanna Lancellotti como Drica, João Côrtes como Cabeça.
-
-
-

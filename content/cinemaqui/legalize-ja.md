@@ -24,7 +24,3 @@ Ainda assim, o filme tenta traçar seu tom realista e dramático através das co
 Note como o uso do enquadramento, por exemplo, coloca Marcelo como um cara minúsculo em frente a uma paisagem urbana que intimida e aliena, ou como Skunk vira mais um artefato em meio a pôsteres da casa de shows underground Garage, para através do zoom virar personagem principal, como se ele próprio fosse o próximo pôster a ser pendurado na parede como uma lembrança saudosa.
 
 Filmes de bandas sempre possuem a vantagem da trilha sonora e da dinâmica do vídeo clipe. Aqui não é diferente. Com o adendo da amizade dos dois. Isso é suficiente para assistir esse filme se você for fã, e um motivo razoável se aprecia biografias de bandas. Para o resto, quem não curte uma viagem temporal regada a maconha? Apenas as autoridades ainda não perceberam.
-
-"Legalize Já! Amizade Nunca Morre" (Brasil, 2017), escrito por Felipe Braga e L.G. Bayão, dirigido por Johnny Araújo e Gustavo Bonafé, com Renato Góes, Ícaro Silva, Marina Provenzzano.
-
-

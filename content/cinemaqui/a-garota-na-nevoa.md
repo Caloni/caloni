@@ -18,9 +18,3 @@ Isso fica extremamente latente quando surge em cena o professor de literatura Lo
 Aliás, todas aquelas velhas figuras parecem estar tão acostumadas a esse jogo midiático onde o que vale é extrair lucro do processo que sequer entendem quando alguém sugere que talvez fosse interessante se o principal motivo de dezenas de pessoas estarem mobilizadas na investigação fosse a busca da verdade para assim fazer justiça. E mais uma vez a virtude do agora diretor Donato Carrisi é nos fazer prestar atenção mais ao processo do que no mistério de fato. O filme poderia acabar sem respostas que já seria por si só um thriller instigante por nos tornar imersos nesse mar de lama. Lembra um pouco Garota Exemplar, e talvez não seja coincidência que ambos os filmes tratam não de mulheres desaparecidas, mas dos que estão presentes no processo de busca.
 
 Mas não se engane: haverão reviravoltas. Mais de uma. Esse ainda é um thriller clássico, apesar do filme parecer brincar com os clichês, utilizando, inclusive, uma trilha sonora extremamente batida de Vito Lo Re para toda a produção, mas que não se priva de ter personalidade, com até um tema reconhecível nos créditos finais. Porém, note a música-tema que destoa de todo o resto: Dança da Solidão. Interpretada pela inesquecível Beth Carvalho, a letra fala sobre solidão e desilusão, e é justamente esses os sentimentos que o espectador terá em notar que esta é uma história tristíssima. Tristíssima e belíssima. Como pode a injustiça ser tão glamurizada?
-
-
-La ragazza nella nebbia (Itália, Alemanha, França, 2017), escrito e dirigido por Donato Carrisi, com Toni Servillo, Alessio Boni, Lorenzo Richelmy e Jean Reno. Thriller, literatura, crime.
-
-
-

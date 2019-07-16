@@ -13,7 +13,3 @@ Aliás, note como a própria realidade da vida do pequeno Peter soa como uma int
 Ao mesmo tempo, intercalando o dia a dia, testemunhamos seus sonhos noturnos onde ele revê momentos cheios de cores banhadas pelo sol com as duas pessoas favoritas de sua vida: a avó (babuska, do russo) e sua amiga mais velha. Enquanto com a avó e a casa onde passou a infância soam como fortalezas emocionais para Peter, com comida, música e pequenos prazeres bucólicos, seus momentos com sua amiga soam mais exploratório, mas que igualmente nos remete ao ambiente onde ele estava acostumado a explorar, e que agora é impossível. São esses os momentos mais ricos de sua vida passada.
 
 O filme é puro desejo. Peter não esboça nenhuma razão em suas ações, e não se pode culpar uma criança por não agir com disciplina, pois seus culpados em última análise são seus relapsos pais, que se preocupam com o filho, mas parecem incapazes de agir (não fica claro por quê). Pegando carona na recorrente história dos refugiados, o filme tenta universalizar a situação de quem deixa sua pátria mãe em busca do desconhecido. Uma visão um tanto poética, no mínimo.
-
-"Odysseya Petra" (Rússia, 2018), escrito e dirigido por Anna Kolchina e Alexey Kuzmin-Tarasov, com Dmitriy Gabrielyan, Svetlana Nemolyaeva, Maria Shashlova.
-
-

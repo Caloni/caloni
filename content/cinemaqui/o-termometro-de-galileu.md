@@ -20,7 +20,3 @@ Mas há um momento mais poderoso onde o cineasta em si comenta quando ele descob
 Quase sempre usando sua câmera como microfone, o filme está querendo encontrar momentos dignos de ser filmado, como a face do cineasta quando ele vai falar sobre o suicídio do avô. Fica claro que a documentarista resolve pegar a câmera porque o momento merece, o que nos ajuda a desvendar o resto do filme: quase mais nada merece ser filmado ou visto.
 
 (Galileu descobriu que a densidade depende da temperatura, criando assim seu termômetro que leva o título deste filme. Pela análise da densidade narrativa podemos também concluir que a temperatura tende a zero kelvin.)
-
-"O Termómetro de Galileu" (Portugal, 2018), escrito e dirigido por Teresa Villaverde, com Tonino De Bernardi, Mariella Navale.
-
-

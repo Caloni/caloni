@@ -22,7 +22,3 @@ E se o roteiro e a história são interessantes acima da média, seus temas tamb
 E embora essa insistência em soar engraçado e divertido, o mais importante no filme reside em sua mensagem de paz. Ele não fala quem deve ser o responsável por ela, mas quem não deve. Del Toro consegue ajudar duas pessoas em um ato muito mais direto e simples, através da auto-determinação dessas pessoas. Ao contrário do que sua ex afirma, a opinião de um "de menor" não é irrelevante. Pelo menos não quando esse de menor já viveu tempo suficiente em um clima inóspito para saber o que é melhor para si mesmo. E, mais curioso, é que quando Mambrú consegue realmente ajudar alguém é o momento em que parece estar também ajudado a si mesmo, a conviver com a impotência dos dias que parecem mais longos do que são.
 
 E tudo isso empalidece diante dos últimos segundos do longa, onde a mensagem de superação de uma dificuldade interna sem a ajuda dos que fizeram caso com isso é uma prova cabal de que não são só os inimigos que não tem a mínima ideia do que as pessoas atingidas pela guerra sofrem, mas os amigos, os que tentam ajudar, também não possuem o mínimo senso de como podem ser úteis.
-
-"A Perfect Day" (Spain, 2015), escrito por Fernando León de Aranoa, Diego Farias, Paula Farias, dirigido por Fernando León de Aranoa, com Benicio Del Toro, Tim Robbins, Olga Kurylenko, Mélanie Thierry, Fedja Stukan
-
-

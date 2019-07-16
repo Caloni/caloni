@@ -22,9 +22,3 @@ E a mensagem talvez seja a melhor coisa no filme. Ignorando a tradição evangé
 Para os religiosos é óbvio que é um filme obrigatório, mas para os ateus, deístas e esotéricos não é tão difícil assim de engolir. É um ponto de vista diferente, mastigado em formato mais ou menos pop em um filme levemente medíocre, episódico, que tenta (aí, sim, seguindo a tradição) usar um exemplo de vida de uma pessoa como uma forma de explicar como Deus fala para todos nós e nos guia, querendo ou não. O exemplo em si é melhor que os outros filmes, pois se concentra em um evento trivial para a humanidade, mas não para os indivíduos que sofrem: traição dentro de um relacionamento amoroso.
 
 Eu sei que o Deus de David Strathairn está longe de inspirar carisma e reflexão. Ele é apenas um mensageiro de diálogos simplistas que tentam explicar uma filosofia usando parábolas e frases prontas. Ninguém pode culpá-lo. Mas, mesmo assim, Entrevista com Deus é eficiente em sua mensagem de amor, paz, sabedoria. Apesar de pouco inspirador e longe de ser dramático, vale a reflexão da sessão da tarde.
-
-
-An Interview with God (EUA, 2018), escrito por Ken Aguado, dirigido por Perry Lang, com Brenton Thwaites, David Strathairn, Yael Grobglas, Hill Harper, Charlbi Dean Kriek. Religião, metáforas.
-
-
-

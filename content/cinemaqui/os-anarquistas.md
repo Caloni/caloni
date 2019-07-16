@@ -22,7 +22,3 @@ O filme se aproveita de maneira competente de Adèle Exarchopoulos como uma figu
 Por outro lado, a presença de Tahar Rahim é sentida, e seu personagem promete uma curva mais ou menos esperada de histórias desse formato ("infiltrado se apaixona pela causa ou por uma mulher que ali estava"). Ainda assim, o filme trata como se isso fosse algo digno de surpreender, mas se esquece de colocar uma trama o suficiente para pescarmos a tensão de ser um infiltrado, fora a ambição desmedida do rapaz. Não se trata de entender os riscos e lidar com eles, mas de apenas acompanhar um grupo paranoico em alguns momentos, mas extremamente relaxado em outros. Tudo isso tira a verossimilança, ou torna o resultado mais naturalista do que parececia poder ser.
 
 Dessa forma, "Os Anarquistas" é um resultado interessante esteticamente, usa um grupo revolucionário da moda -- nem que seja apenas o nome -- mas nunca consegue decolar, pois carece de história necessária para isso. A vida como anarquista é muito mais simples e muito menos tensa que qualquer religioso/estatista sonha em ter. Assim como um filme que lida com espiritismo, conseguir tensão do ar da liberdade é algo extremamente difícil.
-
-"Les anarchistes" (France, 2015), escrito por Gaëlle Macé, Elie Wajeman, dirigido por Elie Wajeman, com Tahar Rahim, Adèle Exarchopoulos, Swann Arlaud, Guillaume Gouix, Karim Leklou
-
-

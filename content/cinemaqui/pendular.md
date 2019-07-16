@@ -16,7 +16,3 @@ Talvez esse seja de fato o processo de criação: quanto mais intenso, mais dif�
 Talvez até seja, mas é o resultado do processo de tentar desvendar um filme que não deseja ser desvendado ou anseia por atenção. Até seus personagens parecem brincar de enigma. Ele, sempre inexpressivo, parece um zumbi realizando esforços repetitivos e sem sentido. Ela idem, apesar de todo seu charme e sensualidade. Mas talvez isso seja apenas o processo natural de observar corpos se balançando no ar. A diretora/roteirista Júlia Murat ("Histórias que Só Existem Quando Lembradas") não parece querer que o filme avance em qualquer um dos seus possíveis temas e conflitos, e é exatamente assim que seus personagens se comportam. Eles podem até estar sofrendo no processo, mas isso não importa ao filme.
 
 Da forma como quiser e imaginar, Pendular irá te aborrecer. Exceto, talvez, pela sua edição de som, que está sempre presente e se faz sentir. O som da cidade lá fora é o abrir e fechar de cortinas do filme, e a música e as falas, quando acontecem, podem ser ouvidas. Que glória para um filme brasileiro! Uma obra de arte, sem dúvida, que pende para a obscuridade. Está vendo como até eu consigo criar trocadilhos capengas?
-
-"Pendular" (Brazil/Argentina/France, 2017), escrito por Júlia Murat, Matias Mariani, dirigido por Júlia Murat, com Raquel Karro, Rodrigo Bolzan, Valeria Barretta, Renato Linhares, Neto Machado
-
-

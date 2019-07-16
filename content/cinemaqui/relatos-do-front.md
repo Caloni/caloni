@@ -16,9 +16,3 @@ Aliás, as explicações neste filme sobram. O que faltam são dados que prestem
 Este é um filme violento e perdido no tempo, que constrói uma narrativa sem uma conclusão, apenas lamentações. A coragem de seus idealizadores vai até o momento em que os tiros são disparados e as vítimas contabilizadas, mas termina por aí; não prossegue em seu raciocínio rebuscado dizer claramente qual é a solução. Eles nunca prosseguem. Preferem ficar na demagogia barata, aquela que vela por suas vítimas da sociedade, vivas ou mortas, acusa o poder público de tamanha incompetência, se coloca na equação no melhor estilo "somos todos culpados por alimentar esse sistema" (seja ele qual for) e no final faz miçangas para resolver os problemas do mundo. O objetivo do filme pode ser nobre, de conscientização, mas ele é o elemento que mais cansa nessa história, por mostrar obviedades que as pessoas revisitam todos os dias no noticiário e querer embutir uma espécie de culpa história em cada um de nós.
 
 Estéril em sua militância, teórico demais em seu discurso e ideológico até os dentes, "Relatos do Front" é uma história repetida e desnecessária do caos urbano. Mas é bem feito. Isso não se pode negar. Pode-se dizer que é um filme; mais um entre os incontáveis lamentos da elite esclarecida. Parabéns. Agora vamos voltar para a vida real.
-
-
-"Relatos Do Front" (Brasil, 2018), escrito por Sergio Barata Empresa, Renato Martins e Gabriel Pardal, dirigido por Renato Martins.
-
-
-

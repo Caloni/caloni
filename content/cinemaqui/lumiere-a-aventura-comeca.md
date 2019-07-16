@@ -18,7 +18,3 @@ Essas desculpas chegam nos cinemas com uma narração (original) em francês que
 Mas ao mesmo tempo este é um filme fácil, para as massas. Como os Lumière sempre desejaram. O narrador explica detalhes técnicos, sim, mas de uma maneira tão didática, guiando os olhos do espectador sobre as circunstâncias da filmagem, o momento historico, etc. O que serve, junto da diversão de ver as primeira filmagens da história, como uma introdução a um estudo tímido mas eficaz de Cinema. O narrador compara um enquadramento com a marca registrada de um diretor japonês. Em outro momento estabelece ligação entre uma criança vestida de forma pomposa e o movimento impressionista do pintor Auguste Renoir.
 
 Não há muito o que falar da arte do filme em si, essa colagem histórica formatada com a dedicação que o material merece. Apenas que seu resultado é inestimável. Se trata do nascimento de uma invenção que todos nós adoramos. O perfeito reflexo da Revolução Industrial e a consequência do avanço tecnológico que mudou radicalmente aquela realidade que vemos em proporção 1.33 em um quase quadrado com cantos arredondados, emoldurado pra presente. Um presente que todo cinéfilo deveria ser grato por poder receber.
-
-"Lumière!" (France, 2016), escrito por Thierry Frémaux, dirigido por Thierry Frémaux, com Thierry Frémaux, Martin Scorsese, François Clerc, Benoît Duval, Leopoldo Fregoli
-
-

@@ -22,9 +22,3 @@ E se o herói da história não consegue se conectar com sua família humana, di
 Tim Burton é um diretor autoral. Seu eterno tema é exagerar a parte bizarra das pessoas para entendermos por contraste nossa própria inadequação em um mundo que tenta nos encaixar em moldes errados. Você pode dizer que Dumbo lembra um pouco esse tema, mas apenas no original, pois este novo filme não é sobre um elefante voador. E diferente de Alice (de Tim Burton), seus personagens secundários não são peculiares para preencher esta lacuna. São pessoas Disney, ou seja, elas são os moldes inadequados.
 
 As versões live-action da Disney começam a soar como meras curiosidades estéticas de suas animações originais. A Bela e A Fera já foi assim, e agora Dumbo. Rei Leão está a caminho. Me chamem quando fizerem Mickey Mouse e sua turma. Isso vai ser interessante.
-
-
-"Dumbo" (EUA, 2019), escrito por Ehren Kruger, dirigido por Tim Burton, com Colin Farrell, Eva Green, Danny DeVito, Michael Keaton, Nico Parker.
-
-
-

@@ -18,7 +18,3 @@ Mas este é um filme feito como enlatado, formatado para as massas, o que torna 
 Preocupado excessivamente com enquadramentos, o diretor espanhol Luis Prieto compõe aqui um trabalho de decupagem ousado, que muitas vezes chama a atenção para si mesmo. Porém, estamos falando mais de um filme de ação do que um drama, e muitas vezes as jogadas de closes na tela funcionam. A noção de espaço do filme e a desorientação da personagem de Berry justificam um mise-en-scene tão caótico. Não é possível, por exemplo, acompanhar por muitos momentos ambos os carros em perseguição por mais de cinco segundos sem cortes, exceto nos merecidos respiros das cenas aéreas. O conceito-chave aqui de "mãe desesperada em busca do filho" funciona excessivamente bem, mesmo que não estejamos lidando com personagens multifacetados. São pessoas comuns em um acontecimento que tragicamente também é comum. O incomum aqui é a garra desta moça, que pensa rápido demais (para o nosso delírio).
 
 Entregando mais do mesmo de uma maneira a tentar agradar massas e fãs de ação visceral, O Sequestro é uma sessão convincente, tensa e ritmada. Você até esquece que já viu isso ou aquilo tantas vezes no Cinema. A moral da história está faltando, porque talvez não tenha nenhuma. Mas como arrebatamento emocional, está tudo aí, para o deleite de quem curte um bom momento pipoca. E a manteiga por cima é a recompensa.
-
-"Kidnap" (USA, 2017), escrito por Knate Lee, dirigido por Luis Prieto, com Halle Berry, Sage Correa, Chris McGinn, Lew Temple, Jason George
-
-

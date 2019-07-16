@@ -34,9 +34,3 @@ Outro elemento digno de prêmios são as escolhas musicais e a sua trilha sonora
 Já para Josh Cooley este é seu primeiro trabalho na direção. Tendo participado do roteiro de Divertida Mente. Cooley entende este "drama para crianças" e submete os brinquedos a várias cenas mais centradas em diálogos do que ação, o que do ponto de vista de um adulto é fascinante porque existem questões interessantíssimas sobre o relacionamento entre brinquedos que este adulto adorou testemunhar, mas talvez nem tanto se você for uma criança. De qualquer forma, Cooley faz o que é necessário e realiza enquadramentos mais centrados no rosto dos brinquedos, trazendo intimidade para essas carinhas que são nossos velhos amigos, antes meio estranhas e hoje perfeitas. Talvez perfeitas demais. Você já reparou como todos esses brinquedos fazem parte da vida de uma criança por anos e se mantém conservados de maneira sobrenatural?
 
 Mas enfim, detalhes. O importante frisar é que TS4 mantém a qualidade dos filmes anteriores ainda que possua a ambição de discutir novas ideias e arriscar algumas mudanças ousadas na série. Além desta ser uma aventura coesa, embora não necessariamente marcante como foi o final da trilogia, este pode ser o início de uma expansão do universo que nem a saga Star Wars chegou a pensar. E a notícia boa é que este quarto filme nos faz esperar pelo quinto, sexto e sétimo. Só espero que da próxima vez meus brinquedos favoritos do Cinema estejam impecavelmente desgastados, o que seria mais uma metáfora para a vida para as crianças: às vezes brincar intensamente com um brinquedo irá deixar marcas, que são lembretes dos momentos inesquecíveis que passamos juntos.
-
-
-"Toy Story 4" (EUA, 2019), escrito por Andrew Stanton e Stephany Folsom, dirigido por Josh Cooley, com Tom Hanks, Tim Allen, Annie Potts, Christina Hendricks.
-
-
-

@@ -14,9 +14,3 @@ O tempo passa rápido em Um Amor Inesperado. As cenas que acompanhamos vão se e
 A voz de mais sabedoria nesse filme são as da terceira idade. Representada em uma ou duas cenas entre o pai do personagem de Darín e a mãe da personagem de Morán, eles já sabem pelo quê vale a pena viver após os filhos criados, e estão dispostos a compartilhar. A mais bela cena do filme é quando o "pai" de Darín demonstra como ele fez para tirar da cabeça a ideia de que estava morrendo. Ela é o exemplo perfeito de como a mente nos engana enquanto o corpo quer apenas continuar.
 
 Além dessa crise o filme tenta unir outros temas interessantes, como a vida sem graça da classe média e como os aplicativos de relacionamentos não são essa maravilha que as pessoas que nunca usaram imaginam. São momentos divertidinhos, que deve entreter mais uma vez os menos experientes. Já os mais experientes... mereceriam algo melhor.
-
-
-"El amor menos pensado" (Argentina, 2018), escrito por Daniel Cúparo, Juan Vera, dirigido por Juan Vera, com Ricardo Darín, Mercedes Morán, Claudia Fontán.
-
-
-

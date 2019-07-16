@@ -14,7 +14,3 @@ Os diretores Bonni Cohen e Jon Shenk não possuem aqui uma maneira de conduzir a
 Al Gore não é o melhor garoto-propaganda para espalhar mensagens ecológicas. Ex-político, seu jeito simplório de falar conquista, mas apenas a parte menos poderosa da equação. Em um claro descompasso com a atual presidência do retrógrado Donald Trump, o vice-presidente da era Clinton consegue se comunicar muito melhor com donos de grandes corporações, e negociar propostas excelentes que modificam lentamente estruturas geopolíticas -- como repassar uma tecnologia de energia solar para a Índia -- do que convencer Washington a voltar para a sanidade.
 
 Ele, assim como o diretor homenageado da Mostra esse ano, Ai Weiwei, em seu filme sofre refugiados, concluem a mesma coisa: se há uma luz no fim do túnel, ela não será acesa por políticos e burocratas. Somos nós mesmo que teremos que levar adiante o farol da esperança. Ou como ele diz, se referindo aos painéis solares: acima dos telhados.
-
-"An Inconvenient Sequel: Truth to Power" (USA, 2017), escrito por Al Gore, dirigido por Bonni Cohen, Jon Shenk, com Al Gore, George W. Bush, John Kerry, Marco Krapels, Angela Merkel
-
-

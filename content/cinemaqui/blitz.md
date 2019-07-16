@@ -17,9 +17,3 @@ Do ponto de vista de direção, há pouco ou nada que Rene Tada Brasil possa faz
 As emoções e os questionamentos que Blitz parecem querer tratar giram em torno desse pré-julgamento que as pessoas fazem sobre casos polêmicos como esse, incluindo a própria esposa de um policial. A sociedade aqui é vizinha de longa data do casal e seus olhares são fulminantes. Mas não se trata de uma peça... perdão, filme que se pauta na realidade. É uma visão mais ampla, panorâmica, do que acontece na vida real.E isso nos faz perder a objetividade de tudo que gira em torno dos fatos usados como força motriz para esse julgamento sem sentido.
 
 Se você gosta de filmes que pretendem ser fechadinhos terminando por onde começaram, Blitz é um exercício de futilidade bem feito. Ele vai te entreter, e por alguns momentos você vai pensar estar testemunhando grandes momentos de um filme. Porém, esse santo é oco. Não há profundidade em nenhuma parte da história que você se atente. Faça o teste e descubra mais sobre como o Cinema (não) funciona do que sobre o filme em si.
-
-
-"Blitz" (Brasil, 2018), escrito por Bosco Brasil, dirigido por Rene Tada Brasil, com Rui Ricardo Dias e Georgina Castro.
-
-
-

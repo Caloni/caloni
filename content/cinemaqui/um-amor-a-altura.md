@@ -20,7 +20,3 @@ Além disso, boa parte da tensão gira mais a respeito se Diane irá levar o rel
 Ainda assim, há bons momentos protagonizados pela dupla, e apenas os dois juntos parecem funcionar em sintonia com o coração do filme. Os diálogos dos dois a sós costumam funcionar muito melhor, e é uma pena, portanto, que o terceiro ato de recuse a comunicar através das palavras.
 
 Pelo menos com uma trilha sonora bem escolhida, mas com uma direção de arte genérica e confusa (como a casa gigante de um anão), Um Amor À Altura entretém pelo absurdo e logo é esquecido. Talvez seja como Alexandre fala de sua própria visibilidade: ou as pessoas não param de encarar ou elas nunca o enxergam.
-
-"Un homme à la hauteur" (France, 2016), escrito por Marcos Carnevale, Laurent Tirard, Laurent Tirard, Laurent Tirard, Grégoire Vigneron, dirigido por Laurent Tirard, com Jean Dujardin, Virginie Efira, Cédric Kahn, Stéphanie Papanian, César Domboy
-
-

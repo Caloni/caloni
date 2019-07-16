@@ -18,7 +18,3 @@ No entanto, essa negativa em nos inundar de detalhes acaba interferindo também 
 Enquanto isso, a tensão é criada quase de forma automática por acompanharmos essa união explosiva entre pessoas completamente diferentes, enquanto tentamos entender suas motivações e o que virá a seguir. Com um nível de controle absoluto, o roteiro, também de Lorenzo Vigas, brinca com nossa percepção ao nos fazer esquecer por longos momentos do que está em jogo, para depois sequer nos lembrar disso. A história flui naturalmente, como se espectador sozinho fosse chegando às conclusões, talvez meses depois que o próprio filme.
 
 Isso explica os momentos sublimes do final, onde expectativa e acontecimento se encontram. Intuitivamente previsível, mas nunca óbvio. Há alguma mágica em "De Longe Te Observo" que parece manter os detalhes bem longe de onde podemos facilmente observá-los.
-
-"Desde allá" (Venezuela/Mexico, 2015), escrito por Lorenzo Vigas, Guillermo Arriaga, Lorenzo Vigas, dirigido por Lorenzo Vigas, com Alfredo Castro, Luis Silva, Jericó Montilla, Catherina Cardozo, Jorge Luis Bosque
-
-

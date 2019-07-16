@@ -22,7 +22,3 @@ Ou pelo menos era. Antes mulheres não podiam votar e precisavam da aprovação 
 E tudo isso serve de cartilha para o movimento feminista de hoje, que é seu exato oposto. Se preocupando mais com ideias do que ações (talvez porque as ações hoje em dia sejam inócuas; se luta pelo quê?). Então, de certa forma, enquanto Mulheres Divinas realiza um trabalho impressionante em destrinchar o passado do feminismo de maneira fácil e acessível ao espectador, que entende o movimento através das motivações das personagens (elas precisam aprovar o voto feminino para conseguir mudar leis machistas), ao mesmo tempo revela a futilidade dos movimentos nos dias de hoje (berrar quando homens abrem as pernas em transporte público), e cuja motivação pode ser medida pela mesma atitude dos homens daquela época. Quando uma mãe diz aos seus filhos que a partir de agora eles irão lavar a própria louça, um deles responde com um misógino "mas eu sou homem!".
 
 Agora imagine a mesma cena com os gêneros trocados hoje em dia e entenderá como o filme escancara o problema do mundo hoje: pessoas que estejam dispostas a lavar a louça sem reclamar. E se lavassem a louça ficariam menos dispostas a reclamar da vida como se ela devesse algo para elas, mas se houvesse algo de fato a reclamar, elas quebrariam a louça. Homens e mulheres.
-
-"Die göttliche Ordnung" (Switzerland, 2017), escrito por Petra Biondina Volpe, dirigido por Petra Biondina Volpe, com Marie Leuenberger, Maximilian Simonischek, Rachel Braunschweig, Sibylle Brunner, Marta Zoffoli
-
-

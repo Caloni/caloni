@@ -22,9 +22,3 @@ Mas mais importante que as palavras é a música desempenha um papel central na 
 A diretora/roteirista Flávia Castro já trabalhou em projeto semelhante, embora documental, no seu autobiográfico Diário de Uma Busca. O tema é o mesmo com abordagens diferentes: o resgate dos fantasmas do passado. Mas a seleção de músicas e montagem em ambos os filmes são marca registrada (Castro também trabalha como montadora).
 
 O que é mais bonito em Deslembro é que ele possui todas essas camadas interconectadas, mas na sua superfície é uma simples história de readaptação de uma jovem a sua nova vida. Pode ser assistido por todos e acredito que cada um irá encontra sua maneira de se conectar, seja pela história política, pela época saudosista dos anos 70 e 80, pelas músicas e poesia. É um filme fácil sobre um tema difícil, que segue calmo, embalando aos poucos. É a sensação de despertar para o que um dia fomos na vida.
-
-
-"Deslembro" (Brasil, 2018), escrito e dirigido por Flávia Castro, com Jeanne Boudier, Eliane Giardini, Marcio Vito.
-
-
-

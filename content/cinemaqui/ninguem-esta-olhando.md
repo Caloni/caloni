@@ -18,7 +18,3 @@ Para tudo isso a câmera tremida de Solomonoff acompanha Nico em lindos quadros 
 Se torna um pequeno feito que o ator Guillermo Pfening consiga nos fazer identificar seu drama sem perdermos o interesse. Seu olhar é distante e patético. Andando sempre cabisbaixo, suas decisões são sempre as piores. Sua vida é uma poesia triste e sonolenta, que quase mergulha na própria depressão. É curioso até que não haja momentos muito perigosos em sua vida. "Ninguém Está Olhando" não parece querer forçar nada além do aceitável, mas monta um circo que encaixa perfeitamente com a incapacidade deste rapaz de olhar as coisas de maneira um pouco mais realista.
 
 Para quem busca um retrato sutil de um pedaço de realidade específico demais, este é um filme que embala sonhos e decepções como ninguém. Ele é leve, mas que leva fácil. Pode ser assistido por corações sensíveis que vai gerar no máximo uma pequena tristeza que passa assim que a pessoa chegar na próxima Starbucks. E quando chegar, peça uma bebida quente, mesmo que esteja no verão. Enquanto estiver bebendo, pense em quantas pessoas estão vivendo nesse momento uma desilusão amorosa no mundo, e reflita. Termine sua bebida e passe para o próximo filme. Tente um mais alegrinho.
-
-"Nadie nos mira" (Argentina/Spain/Colombia/Brazil/USA, 2017), escrito por Christina Lazaridi, Julia Solomonoff, dirigido por Julia Solomonoff, com Guillermo Pfening, Katty Velasquez, Pascal Yen-Pfister, Nadja Settel, Paola Baldion
-
-

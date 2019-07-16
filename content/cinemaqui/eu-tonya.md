@@ -26,7 +26,3 @@ Isso aliado a uma trilha sonora que oferece mais hits da época que o necessári
 Mais inventivo é a direção de arte, e mais ainda é o figurino, que reconstroi as roupas de apresentação que a própria Tonya e consegue manter uma distância incômoda entre o que ela está vestindo e o que é esperado que ela vista. Suas lantejoulas, brilhos e cores exageradas oferecem uma comicidade incidental, e mesmo que o filme prefira não chamar tanto a atenção para este fato, não há como ignorar os tons aurinegros que Tonya usava, dignos de um "red neck" no seu sentido mais puro (a Bandeira de Gadsden, símbolo das colônias americanas idealizado por um dos Founding Fathers).
 
 Alguns desses detalhes no filme são uma recompensa agradável em um filme que não voa muito alto, mas consegue se manter em uma boa altura por tempo suficiente para estar acima da média. E se você gostar de finais tragicômico com hits de sucesso pipocando, este ainda pode ser o seu filme do ano.
-
-"I, Tonya" (EUA, 2017), escrito por Steven Rogers, dirigido por Craig Gillespie, com Margot Robbie, Sebastian Stan, Allison Janney.
-
-

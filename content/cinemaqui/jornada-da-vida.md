@@ -18,9 +18,3 @@ Pegue, por exemplo, as infinitas menções aos antepassados, às tradições da 
 É válida, por outro lado, a inserção do personagem de Omar Sy ao mundo africano pelo contraste. Acostumado ao comportamento do branco capitalista que enxerga tudo sob a ótica do dinheiro, ele vê o abandono do seu taxista como uma tentativa de extorsão, não conseguindo interpretar as boas vindas ao estrangeiro de sua família, que mata um animal apenas para oferecê-lo como refeição. É óbvio que a história tenta criar esse contraste para depois revertê-lo nessa busca pelas origens, mas ela ocorre de maneira tão passiva que passa despercebido ao espectador.
 
 Muitos gostarão desse filme porque tem o lindo, simpático e convincente Omar Sy fazendo o que ele sabe fazer de melhor: ser um africano e nos mostrar por contraste o que isso significa. Mas há filmes melhores em seu currículo que já geram esse mesmo efeito. Fazer uma jornada às origens serve apenas como um serviço aos fãs e para exibir nos fins de semana para a família e amigos.
-
-
-"Yao. France, Senegal, 2018. Dirigido por Philippe Godeau, escrito por Philippe Godeau, Agnès de Sacy. Com Omar Sy, Lionel Louis Basse, Fatoumata Diawara."
-
-
-

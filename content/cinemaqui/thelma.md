@@ -24,7 +24,3 @@ O resultado disso se vê claramente no terceiro ato, que soa distante e não cau
 Não que isso estrague o filme. Ele é esteticamente muito refinado para nos sentirmos roubados dentro de uma história ambiciosa o suficiente para nos prender na cadeira todo momento. A frustação é que simplesmente não há uma entrega além do que seria possível fazer, já que sempre impedindo que nossa mente viaje para cantos mais obscuros de nossa criatividade, essa visão asséptica de Trier para com seu material, se em Mais Forte que Bombas favorece um drama intimista, aqui cria distanciamento para com o drama da garota.
 
 O que nos faz voltar novamente para a questão levantada no filme entre ciência e sobrenatural. Seria a ciência uma versão asséptica do próprio conhecimento? Estaríamos nós enclausurados deste lado do vidro (ou espelho), incapazes de enxergar o que há além? Essas questões são levemente arranhadas pelo filme, mas nunca conduzidas além disso. O máximo que passa são alguns fios de cabelo. E o outro lado, como visto em "Thelma", também seria frio demais para que houvesse alguma novidade.
-
-"Thelma" (Norway/France/Denmark/Sweden, 2017), escrito por Joachim Trier, Eskil Vogt, dirigido por Joachim Trier, com Eili Harboe, Kaya Wilkins, Henrik Rafaelsen, Ellen Dorrit Petersen, Ludvig Algeback
-
-

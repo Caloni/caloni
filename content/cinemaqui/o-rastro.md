@@ -22,7 +22,3 @@ Preocupado demais em gerar terror a toda hora, há poucas explicações sobre os
 Por fim, cria-se um personagem apenas para mais uma virada próximo do final do filme. Os roteiristas parecem estar empolgadíssimos com o gênero, criando uma série de viradas que, assim como os sustos baratos, acrescentam pouco ao clima já aterrador do filme. Tentando não revelar muito do terceiro ato, apenas peço que me responda com sinceridade: você não acha que boa parte do terror que vemos no dia-a-dia, com descaso em setores como saúde e educação, já não está associado com corrupção? O que um novo possível esquema, por mais pior que seja, pode piorar a situação geral da população e atacar ainda mais sua dignidade?
 
 Sem conseguir mover nada além do impacto inicial que é cozido em banho-maria, conforme as revelações avançam, já estamos anestesiados há muito tempo. E nunca de fato nos preocupamos com João, mas assistimos, aterrorizados, até onde vai a podridão humana, e como ela reflete no psicológico e, no caso desse filme, na realidade de uma nação.
-
-"O Rastro" (Brazil, 2017), escrito por Beatriz Manela, André Pereira, dirigido por J.C. Feyer, com Leandra Leal, Rafael Cardoso, Cláudia Abreu, Alice Wegmann, Jonas Bloch
-
-

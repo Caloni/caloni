@@ -20,7 +20,3 @@ Enquanto isso, detalhes técnicos exagerados, como a trilha sonora, embora tenha
 Porém, o pior de tudo mesmo é o filme nunca se preocupar com um conflito principal. Sim, sabemos que é importante para um governante governar, mas a tensão gerada pela guerra com os alemães, por exemplo, não passa de breves falas de seus conselheiros e uma taça virada ao contrário em cima de um mapa. Também sabemos que a religião era uma bandeira muito mais importante na época do que hoje, uma época em que o homem mais poderoso do mundo era o Papa. Também sabemos que o homossexualismo da rainha, além de ser um empecilho na geração de alianças e herdeiros, seria inaceitável na época.
 
 Mas tudo isso parece ser citado de passagem muitas vezes, sem nunca ser considerado o grande conflito que o filme deve solucionar. Aliás, não é possível entender as motivações da rainha direto dela, já que os diálogos mudam de tom a todo momento e a atriz que a interpreta (Malin Buska) resume seu personagem a caras fechadas e aumento de voz. Sua interpretação sedutora é particularmente cômica, rivalizando com Bella Swan de Crepúsculo, o que definitivamente não é um elogio.
-
-"The Girl King" (Finland/Germany/Canada/Sweden/France, 2015), escrito por Michel Marc Bouchard, dirigido por Mika Kaurismäki, com Malin Buska, Sarah Gadon, Michael Nyqvist, Lucas Bryant, Laura Birn
-
-

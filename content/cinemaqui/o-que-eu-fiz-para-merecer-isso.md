@@ -16,7 +16,3 @@ Obviamente que todos os personagens são estranhamente exagerados, mas a licenç
 Porém, o que o filme parece fazer é ignorar toda essa loucura e aproveitar apenas sua estrutura, tão conhecida, para atualizá-la com questões do momento, envolvendo o espectador nessa maluquice temporária para discutir a existência dessa mesma maluquice em nossas próprias vidas, em menor ou -- sim, é possível -- maior grau. Quantas vezes não acusamos alguém de egoísmo só porque essa pessoa não está... atendendo nossos desejos egoístas?
 
 Por essa introspecção divertida e aparentemente inconsequente, "O Que Eu Fiz..." merece todos os créditos por utilizar os clichês ao seu favor, nunca dando mais espaço para eles do que eles merecem. O resultado é o melhor que se pode extrair de uma comédia: a que nos convida a rir das bizarrices do mundo moderno, onde nós não estamos livres: somos tanto vítimas quanto testemunhas.
-
-"Une heure de tranquillité" (France, 2014), escrito por Patrice Leconte, Florian Zeller, dirigido por Patrice Leconte, com Christian Clavier, Carole Bouquet, Valérie Bonneton, Rossy de Palma, Stéphane De Groodt
-
-

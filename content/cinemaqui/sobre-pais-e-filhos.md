@@ -14,9 +14,3 @@ O resultado são declarações extremamente polêmicas de seu anfitrião e pais 
 E ao mesmo tempo que os diálogos revelam exatamente os valores desse grupo de muçulmanos, não exatamente a exceção, você também irá acompanhar a ação do dia-a-dia, como a educação que seus filhos recebem, como jogar pedras nos alunos de uma escola ou brincar de fazer uma bomba caseira com terra e ácido. O treinamento de jihadistas é a parte mais pesada para as crianças, mas até lá você irá entender que essas crianças já estão inseridas nessa realidade desde a raiz, então não há de fato muito o que se pode fazer. É um outro mundo, e a grande virtude de Derki é nos entregar este mundo por completo, sem restrições, sem vitimismo.
 
 O objetivo mais nobre de um documentário é conseguir documentar um ponto de vista em um momento histórico em todas as suas nuances. "Sobre Pais e Filhos" é um desses filmes, cria de "Nanook of the North" (um dos primeiros documentários que fez isso no Cinema) e que consegue nos mostrar o começo e o fim de um sistema cruel, radical e violento. Mas autêntico. Real. Indissociável de sua própria narrativa. Há tantos momentos dignos de nota que ficarei listando o filme inteiro aqui. Então assista ele, do começo ao fim, e viva uma imersão que apenas documentários podem nos trazer.
-
-
-Of Fathers and Sons (Alemanha, Líbano, Quatar, Síria, 2017), dirigido por Talal Derki, com Abu Osama. Documentário, guerra, Síria, muçulmanos, religião, crianças, direitos humanos.
-
-
-

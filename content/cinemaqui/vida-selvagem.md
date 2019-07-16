@@ -20,7 +20,3 @@ Não há muito dialogo expositivo, e essa é uma experiência quase toda visual.
 Com uma direção disposta a entregar a experiência completa, este é um filme que se beneficia do controle enxuto de Cédric Kahn. Nenhuma tomada é feita à toa, e tudo é filmado seguindo basicamente o livro da família Fortin, apenas com diálogos compilados por Nathalie Najem e o próprio Kahn. A câmera na mão e as tomadas estilo filme independente são sacadas de gênio, pois se o filme fala de viver uma vida mais simples, este é um filme produzido de uma maneira mais simples que o normal.
 
 O que de maneira nenhuma desmerece todo o trabalho feito em Vida Selvagem, que surpreendentemente se constitui como uma experiência fugaz das histórias batidas que estamos acostumados a ver.
-
-"Vie sauvage" (Belgium/France, 2014), escrito por Okwari Fortin, Shahi'Yena Fortin, Xavier Fortin, Cédric Kahn, Nathalie Najem, dirigido por Cédric Kahn, com Mathieu Kassovitz, Céline Sallette, David Gastou, Sofiane Neveu, Romain Depret
-
-

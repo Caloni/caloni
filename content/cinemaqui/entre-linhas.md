@@ -15,7 +15,3 @@ Irrelevante pelo menos para a história que deseja contar. É sobre um diretor d
 Para piorar, há um flerte sempre no ar entre diretor/roteirista que beira o clichê, mas que o atinge completamente quando começam os testes com a atriz que  fará a heroína no teatro. Não por acaso, o narrador de tudo isso é o próprio diretor, que começa toda essa elucubração ao observar os atores em cena junto de sua roteirista.
 
 O que salva parcialmente a experiência é que ele pode ser visto como um longa metragem rápido. O que não o salva é se você perceber que no fundo é um curta-metragem, quase um conto, extremamente longo. Nesse caso, apenas desejo que você goste de novelas.
-
-"The Unattainable Story" (USA, 2016), escrito por Gay Walley, Guinevere Turner, dirigido por Emilia Ferreira, com Irina Björklund, Harry Hamlin, Kevin Kilner, Edoardo Ballerini, Caprice Benedetti
-
-

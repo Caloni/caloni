@@ -26,7 +26,3 @@ Já tecnicamente o trabalho possui o problema dos close-ups. O filme é incapaz 
 Porém, aqui o diretor Ale McHaddo consegue desempenhar um papel satisfatório. Enquanto estamos vendo cenas de ação e planos mais gerais, seja por imitação de outras obras ou competência técnica, o filme consegue fluir e quase nos esquecemos de suas deficiências narrativas. No momento em que os personagens precisam falar algo importante ou contar mais uma piada ruim, o filme desaba um pouquinho mais.
 
 Dessa forma, BugiGangue é um experimento interessante, mas nunca consegue se desvencilhar de suas limitações técnicas e artísticas. O uso do computador aqui mais que atrapalha que ajuda, já que ele é mais usado como um fim (produzir um filme) do que um meio (esboçar uma ideia). E, se olharmos mais de perto, é um filme que não se separa o suficiente de um medíocre jogo eletrônico.
-
-"Gadgetgang in Outerspace" (USA, 2016), escrito por Ale McHaddo, dirigido por Ale McHaddo, com Cast
-
-

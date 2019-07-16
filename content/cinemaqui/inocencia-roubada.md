@@ -20,9 +20,3 @@ Mas para quem acredita que irá ver um filme pesado se engana. Bescond transform
 Por outro lado, ao encontrar um refúgio sincero em seu companheiro, o filme nos desperta para a possibilidade de esperança em uma vida violada em sua formação, não sem deixar claro que este é um momento íntimo e inalienável da vida de Odette. Quem dera todas as pessoas traumatizadas desde a infância tivessem pelo menos a sorte de já na vida adulta encontrar um porto seguro para se estabilizar. Odette teve essa sorte e manteve uma tocante, embora não determinante, homenagem.
 
 Apesar de não ser pesado este não é um filme fácil para os que preferem não tocar em alguns assuntos da vida adulta, e justamente por isso esse se torna um trabalho merecedor de nossas atenções, no melhor sentido de "precisamos falar sobre isso". Mas nem sempre apenas falar ajuda. É necessário encontrar o tom. E Inocência Roubada consegue essa proeza de todas as maneiras possíveis, doa a quem doer. Um trabalho sincero, tocante, digno de admiração e de aplausos no final.
-
-
-"Little Tickles. France, 2018. Dirigido por Andréa Bescond, Eric Métayer, escrito por Andréa Bescond, Andréa Bescond, Andréa Bescond. Com Andréa Bescond, Karin Viard, Clovis Cornillac."
-
-
-

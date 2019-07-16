@@ -20,7 +20,3 @@ E César Troncoso (Elis) faz Marcos, a parte mais caricata da história, e a mai
 Porém, perdido em mesmices, El Pampero nunca de fato consegue dizer a que veio, ou se mostra decepcionante quando revela seu clímax. Sacrificando a sutileza mostrada até agora, com a câmera balançando no ritmo de um barco praticamente inerte e um ambiente fechado e claustofóbico (seja dentro do barco ou em meio a um estreiro rio cercado de árvores), o filme não sabe dosar com propriedade sutilezas e exageros, preferindo se manter como o bom e velho thriller que estamos acostumados a ver, com uma simples história, um simples objetivo e uma simples conclusão.
 
 Não que isso seja ruim. É simplesmente mais do mesmo embalado em uma história simples demais para ser parte de um longa.
-
-"El Pampero" (Argentina/France/Uruguay, 2017), escrito por Matías Lucchesi, Gonzalo Salaya, dirigido por Matías Lucchesi, com Julio Chávez, Pilar Gamboa, César Troncoso
-
-

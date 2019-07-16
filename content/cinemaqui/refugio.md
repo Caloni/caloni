@@ -17,7 +17,3 @@ Porém, ao andar com uma imensidão de coisas em seu barco é inevitável encalh
 Essa é uma comédia que tenta ser em alguns momentos meio escrachada, o que quase estraga a bela poesia do seu tema. Porém, isso ajuda em um filme que deseja ser leve falando do drama da vida moderna:  enquando estamos enfurnados de tecnologia, mesmo para curtir a natureza os penduricalhos vêm junto. Tudo parece ter um significado peculiar, lúdico e metafórico. Até o celular de Michel, azul e retangular, que acaba virando na metáfora de uma balsa improvisada, que conecta a vida a lugar algum, tal como a nossa vida tecnológica, se a deixarmos dominar nossa consciência.
 
 O filme para os saudosistas é um sonho, mas para os realistas um tormento. Ele traz uma bela mensagem de humanidade simbolizada em um homem de meia-idade tentando cruzar um rio sem experiência alguma. Não deixa de ser a situação de muitos de nós, perdidos nessa imensidão de informação em tempo real, consumismo desenfreado, "soluções" para problemas que não existiam antes das soluções terem sido criadas. E todo mundo rema seguindo a corrente.
-
-"Comme un avion" (France, 2015), escrito por Bruno Podalydès, dirigido por Bruno Podalydès, com Bruno Podalydès, Sandrine Kiberlain, Agnès Jaoui, Vimala Pons, Denis Podalydès
-
-

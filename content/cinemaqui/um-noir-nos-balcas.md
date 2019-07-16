@@ -12,7 +12,3 @@ Isso porque partindo de uma história simples -- uma mãe com a filha desapareci
 Além dos truques com as propagandas de cigarros -- um achado divertido em si mesmo --  há também o uso indiscriminado de movimento de câmera, brincando com a percepção do espectador e nos jogando longe da ficção, como quando a câmera deita junto quando alguém derruba uma árvore (muito brega), ou "piscadas" feitas em alguns momentos em que alguém está acendendo o isqueiro ou socando alguma coisa. Nada disso contribui com a história e é mera diversão estética do diretor Drazen Kuljanin, que quer que olhemos para ele em vez do filme.
 
 Não é possível extrair significado de toda essa bagunça sem ritmo exceto a própria estética aplicada no filme. Não é um filme sobre uma história. A história é mera isca para apreciamos vídeos antigos de médicos promovendo o fumo ou imagens de bebês que piscam em alguns momentos. Um Clube da Luta sem imaginação nem propósito preparado artesanalmente em dois dias na Suécia e cinco na Sérvia. Não me admira que tenha sido feito tão rápido: não há roteiro enquanto o filme pisca para você. Vai um cigarro aí?
-
-"Bankan Noir" (Suécia, Montenegro, 2017), escrito e dirigido por Draen Kuljanin, com Disa Östrand, Johannes Bah Kuhnkee, Sergej Trifunovic.
-
-

@@ -22,7 +22,3 @@ A edição de Garcia e Brito é sutil e eficaz. Ela pega os pouquíssimos elemen
 Sua derrocada com a bebida é vista de passagem, mas isso fica claro conforme seus amigos e colegas vão descrevendo aquela rotina desvairada do escritor, sempre dormindo pouco, bebendo muito e escrevendo como um louco (e há um pedaço de uma entrevista no Jô Soares que deixa mais claro seu drama). O Pasquim, em seu ápice, ultrapassou a Veja em tiragens. Um marco que merece ser lembrado. Mas o que continha no Pasquim que era tão genial? Existiam textos relevantes hoje em dia de Castro e sua turma? O que podemos aprender de tudo o que se passou desde a ditadura, a reabertura e a vinda dos blogueiros?
 
 Não há muitas informações neste filme sobre a História em si, e aparentemente nenhum causo suficientemente marcante sobre Castro. A imagem que o filme nos deixa deste ícone no jornalismo brasileiro é que ele realmente era uma figura de pessoa e fez o que ninguém poderia ter feito naquela época. Agora nos resta saber o quê.
-
-"A Vida Extra-Ordinária de Tarso De Castro" (Brasil, 2017), escrito e dirigido por Leo Garcia e Zeca Brito, com João Vicente de Castro, Paulo Cesar Pereio, Caetano Veloso e outros.
-
-

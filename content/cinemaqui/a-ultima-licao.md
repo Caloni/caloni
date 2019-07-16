@@ -19,7 +19,3 @@ E da mesma forma com que em um luto muitas pessoas não aceitem nunca a perda, o
 Porém, ninguém se aproximou mais de sua vida do que a filha, Diane. Interpretada com facilidade por Sandrine Bonnaire um papel não muito simples, Diane não parte rapidamente da tristeza e revolta para a resignação, passando por vários níveis de aceitação com sua mãe, no processo mais tocante de todo o drama. Acompanhamos aos poucos alguns flashbacks e vídeos da família no seu começo, quando Diane era apenas uma garota de tranças carregada nas costas da mãe. É inevitável que o filme queria sugerir a inevitável inversão de papéis, mas ao mesmo tempo que entende que cuidar dos pais quando velhos é um ato generoso, ele também entende que pior do que não respeitá-los é abandoná-los convenientemente em um asilo, para definharem longe dos olhos dos entes queridos. Quase como um móvel que alguém não usa mais, mas por algum valor afetivo não conseguiu se desfazer, deixa em um canto de um quartinho apenas para saber que está lá.
 
 Nesse sentido, A Última Lição é um ótimo filme para pensarmos a respeito de quais os limites da nossa liberdade, e porque hoje é errado fazermos o que quiser com nosso próprio corpo, mesmo que isto magoe os que mais amamos, sendo que no fundo, ao não fazermos, magoamos a pessoa mais importante dessa vida: nós mesmos.
-
-"La dernière leçon" (France, 2015), escrito por Laurent de Bartillat, Pascale Pouzadoux, dirigido por Pascale Pouzadoux, com Marthe Villalonga, Sandrine Bonnaire, Antoine Duléry, Gilles Cohen, Grégoire Montana
-
-

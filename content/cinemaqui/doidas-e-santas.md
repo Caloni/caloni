@@ -22,7 +22,3 @@ Aparentemente o roteiro de Martha Medeiros e Paulo Thiago (que assina a direçã
 Além disso, a insistência em fazer-nos ohar para Beatriz revela o ponto mais fraco do filme: a "atriz" Maria Paula. Sua atuação praticamente inexiste. Ela está dizendo diálogos, em alguns momentos se esforça além do necessário, mas nunca consegue criar a imagem da Beatriz que esperamos ver. Beatriz não existe no filme. Maria Paula sim. Ela é divina, alta, esbelta e com quase cinquenta anos é mais um dos milagres brasileiros. Mas seu tom de voz nunca muda, suas expressões são um enigma e até quando precisamos entender o que está acontecendo, como por exemplo a única vez que a vemos escrevendo seu próximo livro, ela se torna um exagero caricatual para compensar a falta de expressão.
 
 Nada disso teria muita importância se a história nos envolvesse, mas nunca envolve. Ela é clichê, brega, novelística demais para conseguir chamar a atenção. É um passeio inconsequente pelas praias do Rio de Janeiro e pelas suas ruas absurdamente cenográficas (incluindo o morro). Não é um filme que dê raiva. É apenas uma curiosidade que passa e acaba, e nem nos lembramos por que estávamos aqui mesmo.
-
-"Doidas e Santas" (Brazil/Argentina, 2016), escrito por Martha Medeiros, Paulo Thiago, dirigido por Paulo Thiago, com Maria Paula, Georgiana Góes, Flávia Alessandra, Jonas Bloch, Roberto Bonfim
-
-

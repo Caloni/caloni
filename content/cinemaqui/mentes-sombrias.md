@@ -26,7 +26,3 @@ Por outro lado, o núcleo de "Mentes Sombrias" recebe um tratamento especial. St
 A direção da sul-coreana Jennifer Yuh Nelson, conhecida pelas sequências da animação Kung Fu Panda da Dreamworks, tem a virtude de nunca se colocar no automático. Sua forma criativa de demonstrar como Ruby consegue entrar nas memórias das pessoas, ou como ela apaga memórias como fumaça, é um atrativo estético a mais. O uso de cores primárias para representar os tipos de crianças poderia ser levado muito a sério e cair no ridículo, mas Yuh Nelson parece sempre nos lembrar pelas expressões de seus personagens que há um pano de fundo muito sério acontecendo para que a coisa desvirtue para um enlatado infanto-juvenil.
 
 Porém, apesar da distopia social no mínimo curiosa e de personagens que se tornam aos poucos cativantes, Mentes Sombrias possui o velho problema do gênero de ser esquemático e sempre nos levar para o formato bem contra o mal maniqueísta, previsível e... interminável. O que é uma decepção para quem se dispõe a investir algum tempo na aventura e descobrir que ela está longe de terminar.
-
-"The Darkest Minds" (EUA, 2018), escrito por Chad Hodge baseado no romance de Alexandra Bracken, dirigido por Jennifer Yuh Nelson, com Amandla Stenberg, Harris Dickinson, Miya Cech e Skylan Brooks.
-
-

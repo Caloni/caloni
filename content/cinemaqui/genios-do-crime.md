@@ -16,7 +16,3 @@ Dessa forma, as figuras montadas por Zach Galifianakis, Kristen Wiig, Owen Wilso
 Não que eles não estejam bem. Porque estão (como constatei no primeiro parágrafo). Só que estão atuando para o filme errado. O roteiro escrito a seis mãos (que contou ainda com a consultoria de alguns dos envolvidos no roubo de verdade) não consegue se situar nem entre o drama engraçado ou a comédia escrachada. É simplesmente uma história que vai se desenrolando com o tempo suficiente de projeção para que os atores digam suas falas e encenem as situações engraçadas.
 
 Nesse sentido, Gênios do Crime até é engraçado, embora não seja hilário. Para chegar no hilário precisaríamos nos preocupar com seus personagens. Algo que é querer demais quando sequer os entendemos além de seus estereótipos.
-
-"Masterminds" (USA, 2016), escrito por Chris Bowman, Hubbel Palmer, Emily Spivey, Emily Spivey, Chris Bowman, dirigido por Jared Hess, com Kate McKinnon, Kristen Wiig, Jason Sudeikis, Zach Galifianakis, Owen Wilson
-
-

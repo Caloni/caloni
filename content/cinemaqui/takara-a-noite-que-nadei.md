@@ -14,7 +14,3 @@ E para Takara, seu caminho é simples: filho de um trabalhador de uma peixaria, 
 A direção dupla do filme orquestra a experiência sem um roteiro definido. É uma história simples e direta sem nenhum diálogo. Isso facilita para os não-falantes de japonês, pois não há o que ler, mas apenas observar. E o que vemos são momentos dos mais inspiradores. Pensando como adultos, ficamos o tempo todo preocupados, e o filme sempre tenta nos mover para o significado contrário dessa jornada: perceba a beleza inerente que é uma criança, com seu pouco discernimento, tentando atingir seu objetivo.
 
 A "interpretação" de Takara Kogawa é direta. Quase o vemos olhando para a câmera em alguns momentos. Quatro personagens existem nesse filme, e são todos da mesma família (no filme e na vida real): o menino, a irmã, pai e mãe. Esses últimos três quase não aparecem, apenas pavimentam o caminho para que o garoto faça seu show particular. O acompanhamos, e se tivermos paciência, seremos recompensados por um arco minimalista e que entrega 78 minutos que terminam em uma paz interior e um sentimento de leveza. Eis a alma de uma criança capturada por lentes apontadas apenas para ela.
-
-"Takara - La nuit où j'ai nagé" (Japão, França, 2017), dirigido por Kohei Igarashi e Damien Manivel, com Takara Kogawa, Keiki Kogawa, Takashi Kogawa.
-
-

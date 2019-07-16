@@ -22,9 +22,3 @@ E meio às pequenas mudanças deste remake, se há uma que valeu a pena ela repo
 Scott, Massoud e Smith recriaram e performaram as músicas do filme de uma maneira que certamente vai agradar os fãs desta franquia e do universo Disney. Os números musicais e a condução dinâmica do diretor Guy Ritchie couberam muito bem, se saindo melhor que O Retorno de Mary Poppins e sua enormidade de cortes. Note como o diretor dá espaço para as cenas se desenvolverem. Nem por isso deixa esta de ser uma superprodução dinâmica de um trabalho que parece encomendado, e o diretor não parece ter muito poder de manobra. Mas ainda assim, cheio de cortes, explosão e fantasia há um toque de Ritchie nas transições, nos ângulos e na forma pitoresca de nos mostrar esta fábula. A transição que mais gosto é da visão aérea do palácio que se transforma em uma maquete na sala do sultão, uma referência e ao mesmo tempo uma dica ao espectador para que não leve tão a sério essa história e seus detalhes, mas mais o que ela significa dentro de cada um de nós.
 
 Sim, "o que há dentro de nós" é sempre a mensagem Disney. Mas há formas piores e melhores de passar a mesma mensagem. Aladdin de 2019 certamente é uma das melhores.
-
-
-"Aladdin" (EUA, 2019), escrito por John August e Guy Ritchie, dirigido por Ritchie, com Will Smith, Mena Massoud, Naomi Scott, Marwan Kenzari, Navid Negahban, Nasim Pedrad.
-
-
-

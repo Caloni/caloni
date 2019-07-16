@@ -24,7 +24,3 @@ A fotografia do filme usa a sobriedade do seu tempo, com cores muito discretas s
 Não há trilha sonora, exatamente como a vida naquela época. As exceções ficam por conta de uma visão da escritora com seu pretendido fictício e os momentos ao piano. E note a comparação que o filme faz entre uma personagem que é a antítese da poetisa cantando e tocando maravilhosamente e Emily, quando sua mãe a pede que toque um hino clássico, narrando durante o momento sobre a morte de um garoto (repare também que a outra personagem canta em alemão, que, de acordo com os americanos, é a língua ideal para o canto).
 
 Cheio de virtudes técnicas e narrativas, Além das Palavras é um filme que exige paciência, mas que deve ser recompensada a cada momento em que vemos Emily Dickinson esboçar sua opinião e concluir em poesia. Uma biografia exagerada, mas apaixonante, intensa e, sobretudo, didática.
-
-"A Quiet Passion" (UK/Belgium, 2016), escrito por Terence Davies, dirigido por Terence Davies, com Cynthia Nixon, Jennifer Ehle, Duncan Duff, Keith Carradine, Jodhi May
-
-

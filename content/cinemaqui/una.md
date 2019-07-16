@@ -18,7 +18,3 @@ E por falar em tempo, a trilha sonora sóbria praticamente evoca um ritmo de "ti
 Talvez por isso que o filme nunca tente de fato pender para um dos lados, pois não é possível ser imparcial e ainda assim justo. O grande trunfo de "Una" parece ser observar de maneira fria como um acontecimento como esse pode ser prejudicial para todos envolvidos, e nunca ser uma coisa boa, ainda que traga lembranças que podem ser confundidas nostalgicamente com algo positivo. Como o próprio Jay pergunta, como que Una tem ideia hoje de como ela era aos treze anos? Apenas ele sabia, pois, obviamente, o controle estava apenas nas mãos de quem já tinha a consciência plenamente desenvolvida.
 
 "Una", apesar de ser sobre a possibilidade de diálogo sobre um tema polêmico, se torna um terreno infértil quando decide avançar na questão, pois o máximo que consegue extrair de sua história é a inevitável e repetitiva dor de algo que aconteceu e que, não importa o que os envolvidos façam dali em diante, em nada irá mudar o que se tornaram. É um filme de alma pessimista que, assim como Confiar (David Schwimmer, 2010), parece apenas servir de alerta social. E ingênuo. Quer dizer, é como se um pedófilo assistisse o filme e colocasse sua mão na consciência.
-
-"Una" (UK/USA/Canada, 2016), escrito por David Harrower, dirigido por Benedict Andrews, com Rooney Mara, Riz Ahmed, Ben Mendelsohn, Tobias Menzies, Poppy Corby-Tuech
-
-

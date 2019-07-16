@@ -18,7 +18,3 @@ Alguns detalhes são preguiçosos, como a TV que convenientemente começa a most
 Uma pena, portanto, que tanta dedicação com a dupla principal seja muitas vezes sabotada pelos antagonistas, genéricos e não muito inspirados. Não há personalidade nenhuma por trás do personagem de Diego Luna, e por mais charmoso que ele queira parecer este é um filme que apela para vilões mais ríspidos como em Breaking Bad, e muitas vezes mais inteligentes. Para compensar, a pequena ponta de Miguel Sandoval como um outro antigo amigo do personagem de Gibson é impagável pela economia.
 
 Focando na relação pai e filha, Herança de Sangue é um drama com cenas de ação surpreendentemente boas. E de brinde você ainda leva referências mais ou menos sutis de que Mel Gibson continua tentando expurgar uma dívida no cartório da sociedade. A boa notícia é que, embora essa dívida não tenha qualquer relação com suas obras no Cinema, está dando certo.
-
-"Blood Father" (France, 2016), escrito por Peter Craig, Andrea Berloff, Peter Craig, dirigido por Jean-François Richet, com Mel Gibson, Erin Moriarty, Diego Luna, Michael Parks, William H. Macy
-
-

@@ -16,9 +16,3 @@ Ao mesmo tempo acompanhamos os seguidores dos rituais para honrar e procurar os 
 Há momentos na história que transcendem a compreensão humana do que é normal, tanto nas crenças além-vida quanto as terríveis memórias daquele tempo. No ápice do comunismo, relata o sobrevivente, haviam filas de mortos que eram simplesmente empilhados conforme as pessoas morriam, dezenas ao dia. De fato parece que o ser humano se acostuma com tudo, mesmo.
 
 A conclusão do sobrevivente é de culpa e dor por ter sido um revolucionário ao lugar por um ideal impossível. Para o espectador que assiste resta a lembrança e o aviso para que, assim como outras tragédias do século 20 como o Holocausto, muito mais lembrado e curiosamente com muito menos mortes que os regimes comunistas da mesma época, que isso não aconteça jamais. É material digno de passar nas escolas, por mais forte que seja.
-
-
-Les tombeaux sans noms (aka Graves Without a Name) (Cambódia, França, 2018), escrito por Rithy Panh, Agnès Sénémaud, dirigido por Panh. Documentáro, guerra, comunismo, política, atrocidades, fome.
-
-
-

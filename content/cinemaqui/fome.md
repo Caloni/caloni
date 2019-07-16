@@ -16,7 +16,3 @@ Malbrough é interpretado por Jean-Claude Bernardet, um teórico, cineasta e esc
 E eis que surge a temática ambiciosa e cheia de potencial de "Fome". Articulando de maneira inocente, quase pueril, um movimento ideológico que parece criticar a burguesia, o clero, a academia "vendida" e o blá-blá-blá que gira em torno de tudo isso, a situação de abandono de Marlbrough pode ser confundida tanto com uma crítica à sociedade quanto ao próprio cinema brasileiro, transformando a figura interpretada por um crítico de cinema em um instrumento de metalinguagem recursivo.
 
 Inundado de tantas convicções, e incerto do foco que pretende tomar, o filme esbanja conjeturações, mas evita concluir qualquer coisa. Nunca satisfeito com seus inúmeros fechamentos, e tortuoso com um roteiro adaptado através da experimentação do diretor Cristiano Burlan e sua equipe, o pseudo-documentário possui a virtude de manter um preto e branco realista na medida que fotografa as diversas paisagens urbanas da parte central de uma megalópole com um granulado de luz estourada. Como ficção, possui o eterno defeito de tentar aplicar uma ideologia em cima de ideias muito mais complexas. De fato há uma guerra aqui: entre um realismo que faz pensar e uma ficção que pede para pararmos de pensar.
-
-"Hunger" (Brazil, 2015), escrito por Jean-Claude Bernardet, Cristiano Burlan, Ana Carolina Marinho, Henrique Zanoni, dirigido por Cristiano Burlan, com Henrique Zanoni, Ana Carolina Marinho, Jean-Claude Bernardet
-
-

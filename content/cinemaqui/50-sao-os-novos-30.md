@@ -12,7 +12,3 @@ A história é clichê e cheia de furos: mulher independente sem filhos recebe u
 A única piada verdadeira e honesta do filme talvez seja que quando ela conhece seu par amoroso, que vive na mesma situação de morar com os pais, ele não é capaz de lhe dizer a verdade, mas a primeira coisa que ela faz ao ganhar intimidade é explicar sua atual situação, em uma referência divertida sobre a diferença dos sexos. O resto são momentos de humor entrelaçados, mas que soam televisivos. Como a mãe de Francine comprando um bronzeador artificial e tendo um caso lésbico onde todos do bairro parecem saber. Ha ha ha. Sim, é divertido de assistir. Esquecível, também.
 
 Já a atuação de Valérie Lemercier como Marie-Francine é adequada até demais. Ela parece estar fazendo uma dramédia, mas os roteiristas Sabine Haudepin e Valérie Lemercier não parece estar alinhados com esse seu estado de espírito. O resultado se torna mais engraçado, mas sem profundidade. Assista em uma tarde despretensiosa com pipoca. De preferência antes de chegar aos 50.
-
-"Marie-Francine" (França/Bélgica, 2017). Escrito por Sabine Haudepin e Valérie Lemercier. Dirigido por Lemercier. Com Valérie Lemercier, Patrick Timsit, Hélène Vincent.
-
-

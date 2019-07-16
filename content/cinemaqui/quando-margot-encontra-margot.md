@@ -14,9 +14,3 @@ A premissa do filme de Sophie Fillières (que dirige e escreve) não é nova, ma
 A narrativa é interessante apenas por essa premissa, o que gera um ou duas piadas (há uma envolvendo Aurélie Dupont, que faz ela mesma, mas é mal explorada), e o interesse do espectador em saber como o filme acaba consegue arrastar a história sem problemas. Até o momento em que há um acidente na neve e o que se passa depois é tão sem sal que acaba diminuindo a empolgação do filme, e mesmo que depois se perceba por que e seja por um bom motivo, não valeu a pena. É uma forma preguiçosa de resolver os conflitos que o roteiro criou.
 
 O personagem de Melvil Poupaud, o trivial Marc, é o ponto de encontro das duas em um momento decisivo de suas vidas. Marc é um símbolo de uma escolha que não foi feita e que, assim como abandono da melhor amiga, acompanha Margot pela sua vida. Mas Marc não é um homem especial para elas assim como qualquer outro; o que importa mesmo é o que Margot deseja para sua vida. E essa questão vai sendo costurada com fios soltos demais para alguém que já sabe mais do seu futuro que qualquer pessoa jamais sonharia.
-
-
-"La belle et la belle" (França, 2018), escrito e dirigido por Sophie Fillières, com Sandrine Kiberlain, Agathe Bonitzer, Melvil Poupaud.
-
-
-

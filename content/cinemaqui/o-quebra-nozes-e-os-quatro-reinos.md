@@ -14,9 +14,3 @@ Se tratando de uma versão preguiçosa de crítica política onde as aparências
 Seu aspecto mais temático e menos narrativo prejudica o elenco. Em específico Keira Knightley e Helen Mirren, que possuem mais tempo de tela e que precisam criar alguma dinâmica em suas personagens para manter a história interessante. Os exageros na entonação de Knightley e a gentileza aliada à robustez de Mirren entregam boas atuações em um pacote feito meramente para entreter, e nada mais. Isso é frustrante, porque assim que as brilhantes ideias do design de arte se acabam não sobra mais nada senão acompanhar o desfecho previsível e esquecível. E por mais impactante que seja o visual, ele é vazio de significado se não há história à altura.
 
 Para as crianças mais jovens talvez tenebroso demais, para adolescente chato e sem nada a oferecer e para adultos uma experiência visual incrível que não encontra uma história que permaneça 10 minutos após a projeção, "O Quebra Nozes" é mais luz e menos ação. E ainda é tímido de usar uma trilha que virou patrimônio histórico e público do cinema e da TV. Como um mini-bônus ele tem a oportunidade de mostrar rapidamente as impressionantes performances dos dançarinos profissionais Misty Copeland e Zachary Catazaro, mas mais uma vez, a que público isso se destina?
-
-
-The Nutcracker and the Four Realms (EUA, 2018), escrito por Ashleigh Powell sugerido pelo balé de Marius Petipa e inspirado pelo conto de E.T.A. Hoffmann, dirigido por Lasse Hallström e Joe Johnston, com Mackenzie Foy, Keira Knightley, Morgan Freeman, Helen Mirren. Fantasia, computação, design de arte.
-
-
-

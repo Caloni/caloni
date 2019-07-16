@@ -26,7 +26,3 @@ Já quem, de maneira alguma, prejudica o filme é seu elenco. Afiado, harmonioso
 Esse é apenas um dos primeiros exemplos de um roteiro burocrático, que apenas segue o que lhe é esperado. Como dividir as atenções entre as irmãs (como o título sugere) e fazer rimas previsíveis com o que vai acontecendo com ambas. Como o filme é longo o espectador tem a chance de aprender durante o filme. Se uma coisa acontece a uma irmã, pode apostar com seu vizinho de poltrona que algo parecido (ou idêntico) irá acontecer com a irmã. E logo na próxima cena. No terceiro ato, quando acontece o esperado (a essa altura você já sabe), a narrativa soa ainda mais preguiçosa, pois vai apenas jogando os eventos em uma ordem simples e sem emoção. Exceto, claro, a já citada trilha sonora estridente.
 
 O diretor Breno Silveira também mereceria material melhor. Sem conseguir aplicar o seu golpe de sorte de estreia em longas com o milagre "2 Filhos de Francisco", cambaleia um confuso "Gonzaga: De Pai pra Filho" e agora entrega este "Entre Irmãs" como sua descida derradeira. Aparentemente lhe falta história à altura, e um roteiro menos criativo. Mas não técnica. O filme é um prazer visual desprovido de alma. Se "2 Filhos" é pura emoção e técnica competente, "Entre Irmãs" é pura técnica com emoção competente. E você já viu alguma vez na vida uma emoção ser "competente"?
-
-"Entre Irmãs" (Brazil, 2017), escrito por Patrícia Andrade, Frances Peebles de Pontes, dirigido por Breno Silveira, com Ângelo Antônio, Rita Assemany, Cyria Coentro, Letícia Colin, Nanda Costa
-
-

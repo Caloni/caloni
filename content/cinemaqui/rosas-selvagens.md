@@ -16,7 +16,3 @@ Mais empenhado em nos mostrar belíssimos enquadramentos da natureza polonesa em
 Porém, o exercício de tentar entender aquelas pessoas sem sequer entender quem são aqueles personagens poderia ser um estudo da sociedade polonesa, ainda entregue fortemente nas tradições católicas, incluindo a moral e os bons costumes. Mas nem isso é forte o suficiente, pois como já citei, uma criança que acaba de fazer a comunhão é a criatura mais mal-educada de um vilarejo que teria tudo para ficar escandalizado; mas nem isso temos para alimentar a tensão.
 
 Todos odeiam essa mulher cuja filha a repudia e o marido distante desconhece. Ela vive em uma verdadeira solitária cercada de pessoas estranhas, incluindo sua própria mãe. Se este é o grande problema do filme ele não parece entregar nada além do conformismo covarde e desnecessário.
-
-"Dzikie róze" (Polônia, 2017), escrito e dirigido por Anna Jadowska, com Marta Nieradkiewicz, Michal Zurawski, Natalia Bartnik.
-
-

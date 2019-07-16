@@ -20,7 +20,3 @@ Quando uma pedra do jardim é acidentalmente colocada no centro da casa, em cima
 E o Marco Dutra consegue com a ajuda desses símbolos, de uma fotografia mestre (Pedro Luque) em dominar as luzes e sombras, e uma engenharia de som rebuscada e significativa -- que nos remete ao ótimo O Som Ao Redor -- remeter a um terror psicológico de arrepiar a mente. O som é feito pelos irmãos Guilherme e Gustavo Garbato com uma tecnicidade de fazer arrepiar em vários momentos. Note o barulho repetitivo dos brinquedos do parque ao lado de onde trabalha Diana, e como o barulho do escapamento do carro em um momento-chave da trama toma conta de todas as atenções (e é usada como trilha sonora). Ao mesmo tempo note o naturalismo de Dutra em montar suas cenas, que mesmo apelando para supercloses e objetos na penumbra consegue evitar uma edição tresloucada; a passos leves caminhamos em direção ao terror.
 
 Há algo de Hitchcock em O Silêncio do Céu, seja na perseguição de carros ou na maneira inquietante com que Mario adentra um mundo estranho que vai aos poucos se tornando terrivelmente familiar. Não é um filme para muitos, pois seu desfecho não satisfaz os que gostam de histórias amarradas com tudo resolvido. Porém, se engana desde o começo quem acha que haverá um final feliz em uma história que começa com um estupro.
-
-"Era el Cielo" (Brazil, 2016), escrito por Sergio Bizzio, Sergio Bizzio, Caetano Gotardo, Lucía Puenzo, dirigido por Marco Dutra, com Leonardo Sbaraglia, Carolina Dieckmann, Chino Darín, Alvaro Armand Ugon, Mirella Pascual
-
-

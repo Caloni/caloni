@@ -24,7 +24,3 @@ Pensando agora em épicos, os livros de História perdem um pouco do brilho atra
 A primeira metade de "Zama" é tão arrastada que seu terceiro ato parece um filme de ação. Há algumas cenas com índios que se pintam de vermelho terra que é o forte da produção. Há uma certa mensagem aí sobre a chegada do europeu de fato sobre a terra que conquistou. Ficam todos vermelhos. Mas como nos mostra a diretora, a vida real é bem mais complexa que isso.
 
 Todas músicas são interpretadas pelos Índios Tabajara. Isso seria uma bela piada brasileira, habituados que nós estamos ao Caceta e Planeta; mas parece que é real, mesmo, então... interessante.
-
-"Zama" (Argentina, 2017), escrito por Antonio Di Benedetto, Lucrecia Martel, dirigido por Lucrecia Martel, com Daniel Giménez Cacho, Lola Dueñas, Matheus Nachtergaele.
-
-

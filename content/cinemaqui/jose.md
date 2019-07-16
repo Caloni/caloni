@@ -22,7 +22,3 @@ A fotografia escura, por exemplo, apesar de feia e suja, demonstra com perfeiç�
 Além disso, as constantes tomadas da metrópole apinhada de gente indo e vindo de diferentes lugares, além do amontoado de casas, fios, e luzes noturnas testemunham o caos urbano não apenas da cidade, mas de mentes como a do simples José, que apesar de um fiapo de personagem manipulável e entregue ao seu destino, possui suas linhas sendo suavemente puxadas pela mãe e pelo namorado.
 
 Este é um filme que ganha sua força pela sua irrelevância. É um estudo natural, mas ao mesmo tempo crítico, sobre as barreiras em nossa vida construídas pelos outros. Nesse caso é a religião, mas é uma mensagem poderosa o suficiente para se tornar universal
-
-"José" (Guatemala, EUA, 2018), escrito por Li Cheng e George F. Roberson, dirigido por Cheng, com Enrique Salanic, Manolo Herrera, Ana Cecilia Mota.
-
-

@@ -14,7 +14,3 @@ Casanova é o Don Juan plebeu que se ancorava na nobreza. Uma figura decadente n
 Essa fascinação que sua figura exerce no imaginário coletivo tem seus dias contados no filme, que vai dilacerando em diálogos com uma misteriosa visitante (Veronica Ferres) a verdadeira faceta de alguém que "não consegue viver de repetições". Se trata de uma história curta alongada pelos inúmeros números musicais que nessa bagunça de unir teatro, literatura e cinema, parece se divertir imensamente mais que o permitido pela paciência do espectador.
 
 O resultado é um filme sem muito o que dizer, e que contrariando o próprio Casanova, vive de repetições. E ninguém consegue viver de repetições. Nem mesmo em um filme.
-
-"Casanova Variations" (France/Austria/Portugal/Germany, 2014), escrito por Michael Sturminger, Markus Schleinzer, dirigido por Michael Sturminger, com John Malkovich, Veronica Ferres, Florian Boesch, Miah Persson, Lola Naymark
-
-

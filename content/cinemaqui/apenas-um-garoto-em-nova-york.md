@@ -26,7 +26,3 @@ Igualmente fascinante, ou curioso, é o status de seus criadores, que brinca tam
 Já o roteirista, Allan Loeb, foi se especializando em drama aos poucos. Vindo da comédia (exceção: Wall Street: O Dinheiro Nunca Dorme), seu timing dramático se alia ao status cômico de seus momentos, que parecem nunca se definir exatamente. Seu humor aqui é ocasional, sutil, e serve apenas para tornar seus personagens mais reais. Todos buscam serem melhores versões de si mesmos. E todos falham. O "todos falham" é o drama, o "todos buscam" é o romance, e no meio existe o tal do meio-termo: quando cedo ou tarde todos entendem que viviam fora da realidade.
 
 E a maior distância do mundo é a que existe entre a realidade que achamos que vivemos e a realidade de fato. E quem disse isso não foi nenhum desses neuróticos personagens. Adivinhar quem é se torna um passatempo divertido se você for ver o filme.
-
-"The Only Living Boy in New York" (USA, 2017), escrito por Allan Loeb, dirigido por Marc Webb, com Callum Turner, Jeff Bridges, Kate Beckinsale, Pierce Brosnan, Cynthia Nixon
-
-

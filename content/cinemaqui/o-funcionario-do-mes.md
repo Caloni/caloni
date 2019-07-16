@@ -20,7 +20,3 @@ Zalone assina o roteiro junto do diretor Gennaro Nunziante, que aqui aplica um "
 E, por que não, de qualquer nação. A própria existência de países já comprova a inclinação do ser humano de buscar estabilidade na vida a qualquer custo. Nem que seja ao custo dos outros.
 
 A grande piada, ironicamente, é que isso não parece nada civilizado.
-
-"Quo vado?" (Italy, 2016), escrito por Gennaro Nunziante, Checco Zalone, dirigido por Gennaro Nunziante, com Checco Zalone, Eleonora Giovanardi, Sonia Bergamasco, Maurizio Micheli, Lino Banfi
-
-

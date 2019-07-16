@@ -20,7 +20,3 @@ E ainda sobre o amadorismo, os números musicais escancaram o completo desprepar
 Mas o mais notável de tudo isso é que, aos trancos e barrancos, a mensagem de esperança funciona. É por causa dela que o sincronismo sonoro capenga das canções pode ser confundido com liberdade poética. É por causa dela que as cores berrantes podem ser confundidas com uma abordagem lúdica da natureza. E é por causa dela que as crises existenciais mais chinfrins (com o campeão sendo a da personagem de Lombardi) se misturam com o drama do dia-a-dia de pessoas comuns, rasas, mas muito das vezes, mais profundas que todos os roteiros complexos demais para levar em consideração o fator humano.
 
 Talvez essa seja uma defesa rasa ao filme, apelando inocentemente pela esperança de uma cidade melhor para morar. Mas não sou ingênuo. A proposta do filme é boba e simplória. Mas é justamente por ser boba que tem a chance de dar certo. Pelo menos como uma viagem intimista.
-
-"Amor em Sampa" (Brazil, 2016), escrito por Bruna Lombardi, dirigido por Carlos Alberto Riccelli, Kim Riccelli, com Bruna Lombardi, Eduardo Moscovis, Rodrigo Lombardi, Mariana Lima, Carlos Alberto Riccelli
-
-

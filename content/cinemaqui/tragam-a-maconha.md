@@ -20,7 +20,3 @@ Para isso há um lado útil e informativo na história toda: os nossos heróis p
 Nessa parte do filme vamos aprendendo mais sobre os consumidores e como o comércio se organiza em torno da droga. Há várias brincadeiras no meio do caminho também, como um policial uruguaio que encontram em NY ou a gangue de jamaicanos de onde pretendem conseguir a erva valiosa (que irá custar um dólar por grama no Uruguai, como anunciado mil vezes no filme, e para espanto dos americanos acostumados a pagar vinte vezes mais). O filme só não vira uma bagunça total porque ele não consegue enganar que todos os percalços fazem parte de um roteiro planejado desde o início, onde ele perde um pouco da graça e espontaneidade.
 
 De qualquer forma ele consegue contar uma história falsa com certa legitimidade graças ao bom humor do presidente uruguaio (e de todos os entrevistados que comentam como Obama era uma chaminé na faculdade). O filme é levemente divertido através de seus pobres personagens, mas deixa uma mensagem importante no ar: por que alguns levam esse assunto tão a sério?
-
-"Misión No Oficial (aka Get the Weed)" (Uruguai, EUA, 2017), escrito e dirigido por Denny Brechner, Alfonso Guerrero e Marcos Hecht, com Denny Brechner, Talma Friedler, Pepe Mujica, Gustavo Olmos, Ignacio Roqueta.
-
-

@@ -14,9 +14,3 @@ Sua heroina é June, uma criança que mobiliza todo o bairro porque ela é a don
 Alguns anos se passam, June ganha uma voz menos infantil e sua mãe adoece (sinais universais de amadurecimento). Sozinha em suas aventuras e com medo de perder a mãe, sua vida se fecha em uma bolha de segurança alimentada por ela mesma, e a sempre empolgada June começa a perder a coragem de dar asas à sua imaginação. Tudo muda quando ela descobre que as criações de sua mente podem possuir mais autonomia do que ela imaginava.
 
 Ao misturar referências de outros filmes de maneira indecisa, O Parque dos Sonhos nunca chega a construir algo além do parque imaginado em brincadeiras de mãe e filha. Durante a aventura nos lembramos de Alice no País das Maravilhas, Meu Amigo Totoro, Divertidamente e até Jurassic Park, mas o próprio Parque dos Sonhos constrói seu universo sem personalidade, personagens marcantes ou aventuras dignas e, portanto, não se fixa em nossas mentes (como os trabalhos já citados o fazem, por exemplo). Durante o relapso desenvolvimento da história há até um efeito contrário: vamos aos poucos nos esquecendo de seu belo início.
-
-
-"Wonder Park" (Espanha, EUA, 2019), escrito por Josh Appelbaum, André Nemec, dirigido por David Feiss, Clare Kilner, Robert Iscove, com Brianna Denski, Jennifer Garner, Mila Kunis, John Oliver, Ken Jeong, Matthew Broderick. Os dubladores locais possuem alguns créditos em sites de notícia, mas para variar não há muitas informações do elenco.
-
-
-

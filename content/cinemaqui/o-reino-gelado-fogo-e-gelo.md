@@ -16,7 +16,3 @@ A dublagem brasileira deixa a desejar pela artificialidade das falas, mas ao men
 A trilha sonora do italiano Fabrizio Mancinelli é um exagero. A música faz questão de acompanhar todas as cenas, e pontuar cada pedacinho da ação, seja drama ou comédia. Mas o mais irritante é a comédia. Baseando-se nos toques clichês de cada momento, a música chega a incomodar mais do que as falhas de roteiro, pois tenta nos convencer de que as cenas são muito mais do que é mostrado.
 
 Tentando criar uma nova aventura de carona nas animações anteriores, O Reino Gelado é previsível e enlatado, mas ainda assim pode entreter os espectadores mais jovens em uma ou outra piada. Mas se para isso é necessário passar por uma história que não é lá muito empolgante, é melhor procurar os enlatados de Hollywood, mesmo.
-
-"Snezhnaya koroleva 3. Ogon i led" (Russia, 2016), escrito por Andrey Korenkov, Robert Lence, Vladimir Nikolaev, Aleksey Tsitsilin, Aleksey Tsitsilin, dirigido por Aleksey Tsitsilin, com Alyson Leigh Rosenfeld, Ivan Okhlobystin, Garik Kharlamov, Graham Halstead, Olga Zubkova
-
-

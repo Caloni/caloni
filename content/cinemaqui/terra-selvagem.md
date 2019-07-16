@@ -18,7 +18,3 @@ Renner faz um caçador de predadores que busca desde e a morte de sua filha uma 
 A inexperiente agente do FBI, que vem em primeiro nos créditos, serve simplesmente como o elemento que irá explicar como este caçador é muito bom, e como seu conhecimento e sua vontade de ajudar serão importantes para uma investigação no meio do nada com quase nenhum suporte externo. São vários elementos que justificam a história que irá se desenvolver. A atuação e o papel de Kelsey Asbille não justificam seu destaque. Mas, como já havia avisado, este é um filme com doses leves de politicamente correto. Traduzindo: um filme que fala da violência contra a mulher precisa ter uma protagonista mulher, embora saibamos que sua posição no roteiro, apesar de flertar com uma Clarice Starling (Silêncio dos Inocentes), nunca chega a ficar próximo de ser comparável.
 
 Embora exista o desejo claro de realizar discursos sociais, o roteiro de Taylor Sheridan, que aqui estreia na direção, consegue evitar cair no lugar-comum e através de sua narrativa e seus inspirados diálogos se manter firme em estar inserido no modo de viver daquelas pessoas, e assim como seu roteiro anterior, A Qualquer Custo, dar uma sensação muito nítida do espírito americano atual.
-
-"Wind River" (UK/Canada/USA, 2017), escrito por Taylor Sheridan, dirigido por Taylor Sheridan, com Kelsey Asbille, Jeremy Renner, Julia Jones, Teo Briones, Apesanahkwat
-
-

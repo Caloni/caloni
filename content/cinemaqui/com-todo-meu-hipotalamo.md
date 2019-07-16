@@ -16,9 +16,3 @@ Esse é um filme que desafia o status quo do mundo atual, com seus hinos anti-ma
 As atuações são bem humoradas e criam uma tragicomédia mais comédia que "tragi". As risadas sobre a fascinação que uma mesma mulher gera em diferentes homens também serve como identificação do espectador masculino, que com certeza já teve uma crush para fazer papel de bobo.
 
 O inesperado no filme é seu final, catártico, mas que parece estragar toda a tensão construída. Uma análise interessante sobre o que nos faz manter o interesse em um objeto cobiçado. Dica: ele estar inalcançável conta muitos pontos. Mas como todos possuem o direito a sonhar, que seja com uma coisa bela.
-
-
-Gusto Kita with All My Hypothalamus (Filipinas, 2018), escrito e dirigido por Dwein Baltazar, com Iana Bernardez, Nicco Manalo, Anthony Falcon.
-
-
-

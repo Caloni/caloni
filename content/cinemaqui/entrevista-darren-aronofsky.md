@@ -32,7 +32,3 @@ Isso tem relação direta com a direção de arte de seu novo filme, em uma hist
 Se mostrando claramente empolgado com o seu maior desafio técnico até o momento, os últimos vinte últimos minutos de seu novo filme filme, Aronofsky resolveu concluir sua participação na coletiva voltando ao tema de ecologia e religião, abrindo um parênteses interessante sobre duas passagens aparentemente contraditórias no Gênesis, mas que na verdade se complementam. Conforme é dito para o homem no primeiro livro da Bíblia: vá e domine a Terra. Mas, ao mesmo tempo, também é dito que ele zele por ela. Hoje em dia, como ele disse, até o Papa fala sobre as responsabilidades do homem para com o planeta. E ele conclui com a frase que inicia este artigo: "Talvez tenhamos interpretado a Bíblia erroneamente por muito, muito tempo."
 
 Em aspectos gerais, Aronofsky é o tipo de diretor confortável em falar sobre o processo de produção, detalhes do roteiro e até mesmo sobre as opiniões acerca dos seus filmes. Ele não abraça qualquer ideia a respeito deles, mas respeitosamente ouve e conclui suas ideias. O tempo voou na coletiva graças a ótimas perguntas e respostas que, assim como seus filmes, fazem a gente refletir sobre o que estamos fazendo com nossa vida aqui na Terra.
-
-"Mother!" (USA, 2017), escrito por Darren Aronofsky, dirigido por Darren Aronofsky, com Jennifer Lawrence, Javier Bardem, Ed Harris, Michelle Pfeiffer, Brian Gleeson
-
-

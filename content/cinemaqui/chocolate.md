@@ -24,7 +24,3 @@ Talvez por nunca enxergar em Chocolate uma ameaça, Footit tenha o acolhido para
 De uma forma ou de outra, o desempenho de ambos os atores é sensacional, mas se torna particularmente tocante acompanhar a evolução do personagem de Omar Sy, pois é ele que precisa se reerguer de sua infância de destratos e das humilhações que sua família passava em sua terra natal. Agora é sua responsabilidade moral entender tudo que existia de errado naquelas memórias, e agir conforme o que acha certo.
 
 Felizmente, hoje em dia não é preciso dar sermões às pessoas para elas enxergarem o que é certo e errado no comportamento daqueles brancos de 100 anos atrás.
-
-"Chocolat" (France, 2015), escrito por Cyril Gely, Olivier Gorce, Gérard Noiriel, Roschdy Zem, dirigido por Roschdy Zem, com Omar Sy, James Thierrée, Clotilde Hesme, Olivier Gourmet, Frédéric Pierrot
-
-

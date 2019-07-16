@@ -24,7 +24,3 @@ A produção do filme brilha em seus detalhes mais sutis. Como a fotografia, sem
 Já a trilha sonora é outra na categoria "vamos arriscar e ver no que dá". Embora escolher músicas contemporâneas e pop seja sinal de preguiça, aqui não é o caso, pois como estamos testemunhando uma história com pano de fundo real, a música se torna incidental, e mesmo que não tenha uma origem para o som, ela é sentida pelos personagens, o que inclui a ótima música final, que se sai muitíssimo melhor, por exemplo, que a música de Sia nos créditos finais do já citado "Lion", que abraça a mensagem sem se desvencilhar do clichê. Aqui não existe clichê, pois tudo é cru e reto.
 
 E por ser cru é que Ciganos da Ciambra pode causar estranheza em muita gente. Não é um filme mastigado para o grande público, mas tem o apelo emocional necessário para os dispostos a se entregar em uma experiência intensa. Para os que se derem essa liberdade, prometo que irão sair da sala de cinema com alguma coisa para pensar, seja a sua própria vida ou a de outros neste planeta.
-
-"Ciambra" (Itália, 2017), escrito e dirigido por Jonas Carpignano, com Pio Amato, Koudous Seihon, Damiano Amato.
-
-

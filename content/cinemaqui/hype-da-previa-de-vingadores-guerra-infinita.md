@@ -16,7 +16,3 @@ Se a palavra hype é definida "como o exagero de algo, ou em marketing uma estra
 Por este fatores imprevisíveis da indústria de Cinema americano é que ter a figura de Chris Pratt sentado naquele palco, naquela bela noite em São Paulo, no Brasil, na América do Sul, cheia de fãs em êxtase pela sua presença e por estarmos tão próximos do maior crossover, talvez não da História, mas com certeza da História da Marvel nos cinemas, fosse o grande meme invisível que pairava no ar. Nós já sabemos que Vingadores Infinity War será um sucesso inequestionável. Mas não graças a esse hype. Justamente o contrário. O que foi construído aos poucos, nas fases anteriores até, com surpresas como Iron Man e Guardiões da Galáxia, e que hoje ocupam um destaque impossível de se prever dez anos atrás no pôster que hoje penduro temporariamente ao lado de minha mesa. Seria uma falta de educação guardá-lo enrolado na gaveta. Pôsteres de cinema não são mais o hype do momento: teasers de 20 minutos são. E isso me relaxa de certa forma.
 
 PS: Naquela noite assistimos a 20 minutos ininterruptos do filme. E a maior mágica não estava em assistir a esta pequena prévia, mas em olhar para a plateia compenetrada. Isso não me relaxa, mas é este excitante mundo que gera os memes que eu aprecio.
-
-"Avengers: Infinity War" (EUA, 2018), escrito por um batalhão de gente, dirigido por Anthony e Joe Russo; com um batalhão de heróis (ou seriam os roteiristas os verdadeiros heróis?).
-
-

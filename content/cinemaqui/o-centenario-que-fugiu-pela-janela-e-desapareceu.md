@@ -22,7 +22,3 @@ Alguns personagens somem (como a garota se uma gangue de motoqueiros) e temos at
 Apesar deste ser um "Forrest Gump" europeu sobre um velho solitário e viajante, esta não parece uma produção cara, mas o dinheiro gasto é bem aproveitado. Não podemos acreditar, claro, em todas as cenas de pontes explodindo, mas podemos comprar a ideia de um homem sendo jogado da varanda e caindo do sexto andar. Olhe, o diretor Felix Herngren está mais preocupado em ser ágil para evitar os deslizes nos efeitos. Ele também está pensando pouco. Pelo menos no enredo. Na montagem, seus enquadramentos apressados escondem tão bem as trucagens que vira um charme a mais em um filme que já tem um velhinho centenário e uma elefanta.
 
 Com fôlego de sobra para mais um século, O Centenário Que Fugiu Pela Janela e Desapareceu diverte sem muitas pretensões em uma produção barata que parece um pouco mais cara. Isso é tudo que você precisa saber sobre este filme sueco de 2013 que passou despercebido por muita gente, e que agora sendo reexibido em festivais pode ser uma nova chance para cinéfilos compulsivos.
-
-"Hundraåringen som klev ut genom fönstret och försvann" (aka "The 100 Year-Old Man Who Climbed Out the Window and Disappeared") (Suécia, Rússia, Reino Unido, França, Espanha, Alemanha, 2013), escrito por Felix Herngren e Hans Ingemansson baseados no romance de Jonas Jonasson, dirigido por Herngren, com Robert Gustafsson, Iwar Wiklander, David Wiberg.
-
-

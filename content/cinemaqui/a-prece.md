@@ -18,9 +18,3 @@ Não vemos o tempo passar corretamente, mas sabemos que ele se conta em meses e 
 Os espectadores religiosos, cristãos ou não, que estiverem dispostos a largar seus preconceitos durante a sessão poderão se beneficiar da grande força que vem da constatação racional (do filme e de Thomas) de que quando a vida faz sentido é quando Deus está mais próximo, e que não existe espaço para se viver na mentira quando é preciso viver como filho do Criador. A mentira apenas funciona temporariamente, mas como é visto de maneira mais poderosa no filme, ela está sempre fadada a ser uma muleta desajeitada para quem quer de fato andar em vez de se arrastar pela existência.
 
 Econômico em sua narrativa mas eficaz em sua mensagem, A Prece é um ótimo exemplo de filme religioso que não é propaganda e nem precisa, mas que ironicamente como consequência nos traz uma verdadeira lição de fé, amor e esperança.
-
-
-La prière (França, 2018), ideia original por Aude Walker, cenários por Cédric Kahn, Samuel Doux e Fanny Burdino, dirigido por Cédric Kahn, com Anthony Bajon, Damien Chapelle, Alex Brendemühl.
-
-
-

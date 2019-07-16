@@ -16,9 +16,3 @@ A narrativa do filme poderia se tornar episódica não fosse o dinamismo com que
 Ao mesmo tempo há um fiapo de comentário social, como a forma com que a burguesia mercantiliza até a caridade através de associações anônimas e convenientes, que servem mais para se isolar dos problemas do mundo do que para tornar qualquer tipo de ajuda eficiente, em uma versão individualista de quando países ricos jorravam milhões para a África sem qualquer resultado notável. Da mesma forma chega a ser minimamente curioso notar como o comportamento dos que eram refugiados na década passada e que hoje se transformam na burguesia, como o marido de Isabelle.
 
 De qualquer forma, este filme, querendo ou não, se torna quase que politicamente incorreto, pois acaba tentando nos divertir às custas da mazela do mundo. A própria Isabelle não ficaria muito feliz se pudesse assisti-la, julgando este ser apenas uma diversão burguesa. E quando analisarmos profundamente o significado do filme entenderemos o quão quebrado como sociedade nós estamos nos tornando.
-
-
-"Best Intentions. France, 2018. Dirigido por Gilles Legrand, escrito por Léonore Confino, Gilles Legrand. Com Agnès Jaoui, Alban Ivanov, Claire Sermonne."
-
-
-

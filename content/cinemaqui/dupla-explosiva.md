@@ -22,7 +22,3 @@ Mas antes que a imaginação do leitor produza um filme com muita história e po
 E por falar em sua mulher, Salma Hayek está bem, à vontade e também rouba a cena em seu pouco tempo de tela. Menos momentos marcantes têm a esposa de Ryan Reinolds, interpretada pela belíssima Elodie Yung e sem muito o que fazer presa em sua função burocrática de aguardar pelos dois no tribunal.
 
 Seja pela ação ou pelos bons atores, Dupla Explosiva com certeza é um programa sessão da tarde acima da média. O que é inusitado. A possível tendência iniciada com a dupla Russel Crowell e Ryan Gosling parece ter despontado um pouco de ar fresco para o saturado gênero de ação. Aguardemos pela próxima dupla dinâmica.
-
-"The Hitman's Bodyguard" (USA/China/Bulgaria/Netherlands, 2017), escrito por Tom O'Connor, dirigido por Patrick Hughes, com Elodie Yung, Ryan Reynolds, Tsuwayuki Saotome, Roy Hill, Richard E. Grant
-
-

@@ -14,7 +14,3 @@ As metáforas se acumulam junto com as referências (como a ridícula, mas engra
 O uso indiscriminado de fades em torno da figura de Raimundo (que pelo nome representará o mundo?) olhando estupefato e bêbado para as loucuras do totalitarismo de 1984 versão Extrema Direita. Isso fica claro em seu líder, nas TVs de toda casa, maquiado como um fantoche, repetindo palavras de ordem: "dissidência é traição", "liberdade é paz". O bom de "Caminhos..." é que ele é tão fácil de decifrar que se torna uma imersão divertidíssima participar da brincadeira.
 
 Os próprios revolucionários do filme são caricatos, demonstrando um senso de humor ímpar em assuntos tão caros no meio político e ideológico. Nós os vemos como espiritualistas malucos que enxergam o homem nas estrelas, mas que se limitam a ler a sorte no amor de pessoas comuns. Seu líder é ninguém menos que Ney Matogrosso, e seu hino, Rosa de Hiroshima. O ápice da loucura quando ele canta. E da beleza também, por que não. Uma beleza trágica, melancólica, mas por isso mesmo intensa e marcante. O senso estético dessa produção luso/brasileira é simples, mas eficiente.
-
-"Caminhos Magnétykos" (Portugal, Brasil, 2018), dirigido por Edgar Pêra, com Dominique Pinon, Albano Jerónimo, Alba Baptista, Ney Matogrosso.
-
-

@@ -18,7 +18,3 @@ Agnès Varda dispensa apresentações. A diretora belga de mais de 89 anos demon
 Já JR é um cineasta-incógnita. Sempre de óculos escuros e tendo estreado com um longa documental ("Women Are Heroes", em 2010), talvez seu curta mais conhecido seja Ellis (2015), onde Robert de Niro revisita sua origem de imigrante. JR também demonstra estar em constante movimento e faz sentido ele ser fascinado em fazer colagens. Seu objetivo parece ser arquivar o mundo em paredes ou películas. Embora nunca faça muito sentido vê-lo junto de uma senhorzinha minúscula e cheia de estilo, aos poucos a combinação da "dupla dinâmica" vai fazendo algum sentido. Mas não muito.
 
 A questão é que "Visages, Villages" parece um trabalho em andamento que foi filmado como um documentário de si mesmo. O que aquelas pessoas significam no todo do filme? Tudo é muito vago para encontrarmos alguma linha de raciocínio aí. Se trata de um filme itinerante, mas doce, tranquilo, com um pouquinho de tratamento narrativo e aparentemente muito improviso. Infelizmente esse improviso não vem à tona como realmente um improviso.
-
-"Visages, villages" (France, 2017), escrito por JR, Agnès Varda, dirigido por JR, Agnès Varda, com Jean-Paul Beaujon, Amaury Bossy, Yves Boulen, Jeannine Carpentier, Marie Douvet
-
-

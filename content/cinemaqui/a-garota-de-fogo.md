@@ -16,7 +16,3 @@ Porém, nem de longe ele se torna enfadonho por sua complexidade. Ele é simples
 No entanto, mesmo assim, se torna acessível ao grande público, que se tiver paciência na primeira metade, irá receber uma recompensa inquietante na segunda metade. Irá se indagar sobre o que está acontecendo e qual a moral da história. Será este filme uma crítica política, social, ambos?
 
 Não importa. E nem importa o leque de possibilidades. O filme muito bem poderia tomar qualquer outro rumo e ainda seria igualmente poderoso. Porém, é no seu jogo naturalista, que evita trilhas sonoras e diálogos expositivos, que ele encontra a força do acaso e das coincidências irritantes. O único alento é que, aconteça o que acontecer, dois mais dois continuarão sendo quatro.
-
-"Magical Girl" (Spain/France, 2014), escrito por Carlos Vermut, dirigido por Carlos Vermut, com José Sacristán, Marina Andruix, Raimundo Reyes de los, Lucía Pollán, Luis Bermejo
-
-

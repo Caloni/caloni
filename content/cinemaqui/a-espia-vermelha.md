@@ -20,9 +20,3 @@ Do ponto de vista político A Espiã Vermelha é um fiapo de história, que não
 E, por fim, do ponto de vista do romance, este é basicamente um novelão. Acompanhamos Joan e as visitas irregulares de Leo e sua entrega ou não-entrega física ou dos dados que Leo tanto quer. Em paralelo também acompanhamos o interesse amoroso de seu chefe Max (Stephen Campbell Moore), que coordena todo o projeto e vai desenvolvendo aos poucos o problema de tentar se divorciar de sua atual esposa para viver com Joan. E Sonya, em suas participações igualmente irregulares, possui uma reviravolta tão desbaratinada que quando descobrimos resta apenas haver alguma gravidez no meio da história para ela ganhar o selo novela britânica de curta duração.
 
 Mas não me leve a mal, este é um filme com temas interessantes e uma personagem idem. Eu até gostaria de ter visto mais sobre esses assuntos que giram em torno da figura de Joan, se infelizmente essa não fosse, como ela mesmo se coloca, "uma sombra em meio aos homens". Esse filme tristemente parece a colocar na mesma situação do passado, não fazendo jus à possível homenagem que poderia ter sido feito pelas suas, se não nobres, bem-intencionadas ações da época.
-
-
-"Red Joan" (Reino Unido, 2018), escrito por Lindsay Shapero, dirigido por Trevor Nunn, com Judi Dench, Sophie Cookson, Stephen Campbell Moore, Tom Hughes, Tereza Srbova.
-
-
-

@@ -18,7 +18,3 @@ A diretora estreante em longas Caroline Leone (que já trabalhou mais na ediçã
 Esse olhar curioso de Leone extrai do cotidiano os detalhes mais pitorescos, como o desenho dos azulejos do tanque onde Rosália lava sua roupa, ou a leiteira amassada onde esquenta a água que irá jogar sobre o café filtrado. Quando estão em Buenos Aires, a câmera não acompanha apenas irmão e irmã, mas dá voltas pelos corredores e janelas do hostel onde se hospedam. A imersão dos personagens em uma realidade tão pé no chão os dá identidade, autenticidade. Além de ser um filme do seu tempo.
 
 E Pela Janela é também um filme sobre o tempo. O tempo que pode curar, assim como adoecer. Ele não se preocupa em concluir com todas as letras sua história, mas no fundo da alma sabemos que ela se encerra quando se deve. Sem nenhuma palavra que expõe seus personagens desnecessariamente, basta o olhar sereno de quem nunca foi de falar muito para entendermos seus sentimentos. Magali Biff mereceria uma indicação ao Oscar por este papel.
-
-"Pela Janela" (Brazil, 2017), escrito por Caroline Leone, dirigido por Caroline Leone, com Mayara Constantino, Cacá Amaral, Magali Biff
-
-

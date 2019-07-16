@@ -22,9 +22,3 @@ O passeio deste homem pelo seu passado lembra os filmes noir dos investigadores 
 O filme em 3D, o feito para ser visto com óculos, é escuro demais. Mas este é o delírio de um homem que nunca conseguiu terminar o sonho constante que tem à noite. E Cinema é a fábrica de sonhos. Tudo muito óbvio no campo simbólico. Os contornos dessa sequência estão sempre invisíveis. São as sensações que importam.
 
 E quando menos esperamos estamos diante de um plano-sequência magistral, tecnicamente desafiador em vários momentos, que faz lembrar a cena do estádio de futebol em O Segredo dos Seus Olhos, mas que por ser um sonho remete mais claramente a Arca Russa. Porém, nenhum deles foi filmado em 3D. E é aí que está a supresinha do final. Bravo, Gan Bi. Eis um bom divertimento. Este é um filme de sensações, ainda que baratas, já que os anseios do protagonista nunca nos parecem valiosos a ponto de nos preocuparmos com eles no decorrer do filme. Em meio ao niilismo de uma busca desmotivada feita através do subjetivo do espectador da sala de cinema, voltamos ao cinema entretenimento de Hollywood. No que diferem os dois? Gan Bi tem símbolos para entreter, e 3D em locais escuros. E plano-sequência. De resto, falta motivação. E isso pelo menos os americanos têm de sobra.
-
-
-"Longa Jornada Noite Adentro" (China, França, 2018), escrito por Gan Bi, dirigido por Gan Bi, com Wei Tang, Jue Huang, Sylvia Chang.
-
-
-

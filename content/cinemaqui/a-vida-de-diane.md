@@ -16,9 +16,3 @@ A esperança da amizade dos velhos amigos surge uma única vez, uma noite fria e
 Mas já vimos filmes que realizam essa manobra, onde em algum momento há uma explosão da protagonista, e esse não é um filme desses. Fica difícil de defini-lo porque talvez seus realizadores não pensaram na mensagem como algo formatado e pronto para consumirmos, como geralmente é esperado do cinema americano. Quando ouvimos aquelas pessoas dizendo frases completamente comuns para um drama enlatado fica a impressão de estarmos vendo um filme "menor", mas é a presença de Diane nessa rotina que nos faz tentar perceber se há algo mais nesse universo melancólico do final da vida, ou pelo menos o final dos objetivos de uma vida.
 
 A interpretação de Mary Kay Place não é marcante, mas este é um papel injusto, pois é sua própria irrelevância como ser humano que o filme deseja demonstrar. Ela é constantemente lembrada por seus amigos que não está sozinha, mas sua expressão sempre nos diz inconscientemente a verdade oculta, que ninguém deseja mencionar: estamos todos sozinhos nesse mundo.
-
-
-"A Vida De Diane" (EUA, 2018), escrito por Kent Jones, dirigido por Kent Jones, com Mary Kay Place, Jake Lacy, Estelle Parsons.
-
-
-

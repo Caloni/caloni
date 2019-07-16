@@ -26,7 +26,3 @@ E o diretor Xavier Nolan mostra tudo isso como ele nasceu para mostrar: com luze
 A trilha sonora, como sempre, é um presente à parte. Não apenas pela seleção de músicas, mas pelo tom dramático de um Almodóvar existencial, tornando cada cena um duelo de egos em um palco de teatro. O roteiro foi baseado em uma peça, e o filme intensifica ainda mais as atuações dos personagens. Até o design de som reforça isso, com o relógio cuco simbólico na entrada da casa, marcando o as horas com um susto e os segundos gota-a-gota; eles vão se esvaindo conforme o movimento das pupilas da mãe pousando nos olhos do filho.
 
 Xavier Dolan continua sendo o cineasta mais pessoal e intenso do Cinema contemporâneo. Ele força seu espectador a entrar no jogo a qualquer custo, e para o cinéfilo desafia a encontrar falhas na emoção meticulosamente medida quadro a quadro (Dolan também é o montador). Como competir com isso, quando o retorno do diretor é comparado ao retorno de um filho famoso e moribundo? Pelo menos, diferente do filho, o diretor ainda conhecemos. Ele não mudou muito desde a estreia. Talvez esse seja seu ponto fraco para o futuro. Vamos observar se o personagem de Vincent Cassel consegue capturar esse detalhe. Até porque nos filmes de Dolan, pessoal e artístico se combinam em um mosaico que se torna universal.
-
-"Juste la fin du monde" (Canada/France, 2016), escrito por Xavier Dolan, Jean-Luc Lagarce, dirigido por Xavier Dolan, com Nathalie Baye, Vincent Cassel, Marion Cotillard, Léa Seydoux, Gaspard Ulliel
-
-

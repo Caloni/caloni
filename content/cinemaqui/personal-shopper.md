@@ -21,7 +21,3 @@ O diretor Olivier Assayas, além de dominar o aspecto do horror em seu filme log
 E como todo filme de terror bem feito (ainda que seja um drama) o controle de luz é absoluto, especialmente na casa de Lewis. Note como o enquadramento, sempre amplo, permitindo que vejamos um cenário de imersão na vida da personagem, na casa tem menos importância que o jogo de luzes, que indica onde devemos prestar atenção.
 
 Em um jogo narrativo soberbo, sabemos mais sobre a personagem a partir do momento que ela começa a se comunicar com uma pessoa desconhecida. Essa pessoa pode ser o espírito que fez contato na casa de seu irmão. Ela se comunica através de mensagens no celular, e daí nós temos uma ótima metáfora sobre pessoas que vivem no celular, com seus espíritos milhares de anos-luz distantes de seus corpos. Há um ótimo momento dessa brincadeira, quando o desconhecido fala que está observando-a nesse exato momento. Quando ela começa a olhar em volta, todas as pessoas presentes no vagão estão concentradas em seus celulares. Em que momento o mundo dos vivos virou o dos mortos?
-
-"Personal Shopper" (France/Germany, 2016), escrito por Olivier Assayas, Olivier Assayas, dirigido por Olivier Assayas, com Kristen Stewart, Lars Eidinger, Sigrid Bouaziz, Anders Danielsen Lie, Ty Olwin
-
-

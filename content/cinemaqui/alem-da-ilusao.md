@@ -14,7 +14,3 @@ Laura (Natalie Portman) durante as filmagens iniciais das sessões espíritas ac
 E mesmo que se aprofundasse, os objetivos desses personagens nunca parecem muito claros, e a sucessão de eventos apenas lembra um diário sem muita cadência. É interessante "per se" acompanhar as pesquisas em busca de evidência científica da existência de fantasmas, além das pequenas sutilezas que aos poucos revelam como um jogo de trapaças estava sendo configurado para jogar Korben para escanteio. Por outro lado, a personagem de Natalie Portman parece completamente descartável, embora seja vista como peça-chave na trama, onde seu encontro no começo do filme com uma pessoa em um trem desperta memórias de um passado mais brilhante com sua irmã.
 
 Mas, convenhamos, nada parece particularmente brilhante neste filme, exceto as estrelas no céu, que são mostradas constantemente como uma metáfora boba e esquecível.
-
-"Planetarium" (France/Belgium, 2016), escrito por Rebecca Zlotowski, Robin Campillo, dirigido por Rebecca Zlotowski, com Natalie Portman, Lily-Rose Depp, Emmanuel Salinger, Amira Casar, Pierre Salvadori
-
-

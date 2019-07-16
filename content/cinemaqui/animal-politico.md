@@ -18,7 +18,3 @@ Sem muita abertura para interpretações se você conhece o mínimo sobre a Hist
 O mais impressionante do ponto de vista técnico no filme é sua economia de recursos. Usando o cenário urbano e a paisagem inóspita de um quase deserto, os elementos são simples objetos e fantasias: livros, um fio elétrico, um manual da ABNT, uma TV de tubo, um aspirador de pó, uma menina irritante reclamando o tempo todo. E mais uma vez o diretor está certo em sua escolha. Se o filme é sobre costumes que se repetem indefinidamente, elementos conhecidos do nosso inconsciente apenas reforçam a mensagem.
 
 "Animal Político" é o meu tipo de filme favorito para recomendar para que as pessoas assistam com amigos e conversem a respeito. Ele é curto (uma hora e pouco), mas possui alguns momentos calmos demais. Então preste atenção até o final, acenda a churrasqueira, abra uma garrafa de cerveja e comece a imitar todos os costumes vistos. Adicione agora o ato de pensar. O espectro de Aristóteles agradece.
-
-"Animal Político" (Brasil, 2016), escrito e dirigido por Tião, com Rodrigo Bolzan, Elisa Heidrich, Victor Laet.
-
-

@@ -20,7 +20,3 @@ Se espreitando em meio às conversas, planejamentos e discussões do grupo itine
 Não demora muito para que percebamos que a questão que está sendo discutida aqui é muito maior que apenas uma criança encantada com seu futuro no circo. Tem a ver com a educação formal, a realidade da vida, e como o conflito principal se caracteriza com argumentos válidos, mas ao mesmo tempo através da figura superprotetora da mãe. A cicatriz de Jonas é a marca da preocupação que sua mãe tem do filho. Mas sua preocupação vai muito além da integridade física. Vemos o presente da mãe lutando com vendas para conseguir criar o filho e entendemos sua preocupação sobre seu futuro.
 
 E isso reflete no próprio filme. Mais ainda quando os empecilhos do sonho do menino circense começam a soar ainda mais ameaçadores. E o filme não desiste de ser feito, em um sinal de integridade da cineasta em continuar uma história não apenas apesar do revés, mas por causa dele.
-
-"Jonas e o Circo sem Lona" (Brasil, 2017), escrito por Paula Gomes, dirigido por Paula Gomes
-
-

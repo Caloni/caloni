@@ -30,9 +30,3 @@ O mesmo não se pode dizer de Samuel L. Jackson, que aqui escolhe representar um
 Mas a função de L. Jackson/Elijah não termina por aí. Sendo o ficcionado por histórias em quadrinhos, é ele que faz os comentários mais perspicazes de quebra de quarta parede, e o faz não se tornando um incômodo para a narrativa e ainda a pincelando com uma nota poética que se torna surpreendentemente tocante. Sim, é possível chorar com Shyamalan, mas não pelo drama fácil, mas pela empatia do espectador com a paixão que ele exibe em entender completamente que fatos científicos valem muito menos para os seres humanos que uma narrativa gloriosa, e que é isso, no final das contas, que se está tentando resgatar na história.
 
 Conseguindo unir o realismo da "vida real" com o idealismo que adoramos acompanhar nos quadrinhos, "Vidro" é uma combinação perfeita desses dois elementos e uma conclusão à altura dos dois outros filmes que são pontos altos na carreira de seu diretor. Ele poderia ser mais bem polido, mas do jeito que está deve empolgar os fãs da mitologia humana e irritar com moderação os caros, barulhentos, caprichosos e muitas vezes irritantes deuses do Monte Olimpo.
-
-
-"Glass" (EUA, 2019), escrito e dirigido por M. Night Shyamalan, com Samuel L. Jackson como Elijah Price / Mr. Glass, Bruce Willis como David Dunn, James McAvoy como Kevin Wendell Crumb / The Beast / Patricia / Dennis / Hedwig / Barry / Jade / Orwell / Heinrich / Norma, Sarah Paulson como Dr. Ellie Staple e Charlayne Woodard como a mãe de Elijah.
-
-
-

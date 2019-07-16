@@ -19,7 +19,3 @@ Esse tipo de "efeito dramático" geralmente acontece quando os ditos movimentos 
 E por falar na palavra "protesto", se no primeiro filme já se esboçava timidamente a cartilha básica tirada do "Dicionário da Justiça Social", como o famigerado "empoderamento da mulher" (e que sempre me faz lembrar da She-ha, a companheira do He-Man), o bingo de expressões sociais agora está completo, com as palavras já batidas que já conhecemos, tiradas do vocabulário de termos vagos para debates pré-montados, como "desconstrução", "protagonismo", "historicamente (insira qualquer bobagem)", "feminismo", e, o ultimamente mais na moda, "microagressão" (aqui chamada de "violência perfeita").
 
 E por falar em protagonismo, neste filme não há uma protagonista. No máximo um ícone: uma mulher, negra, sem pernas, cadeirante, que se veste para um ensaio fotográfico como um ícone feminista das antigas. Isso não é apenas viver no passado, mas tentar repeti-lo. E O Renascimento do Parto 2 tenta repetir sem tirar ou colocar uma vírgula a mesmice do seu antecessor.
-
-"O Renascimento Do Parto 2" (Brasil, 2018), dirigido por Eduardo Chauvet.
-
-

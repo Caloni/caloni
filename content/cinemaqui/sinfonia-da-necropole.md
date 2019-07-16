@@ -18,7 +18,3 @@ E apesar desses pesares, Sinfonia da Necrópole acerta, acredite ou não, em tod
 Porém, ainda que cozinhado em banho-maria todo o tempo, ele é capaz de despertar a simpatia por sua leveza em tratar o tema da morte. Nem que seja por piadas como "onde Judas bateu as botas" ou "esse assunto não é da nossa ossada".
 
 É capaz que essas piadas tenham me influenciado a fazer dois trocadilhos em apenas um parágrafo, embora nenhum dos dois seja intencional. E talvez esse seja o problema com "Sinfonia". Ele consegue ser muito bom em alguns momentos, e engraçado em outros, mas parece tornar tudo muito não-intencional.
-
-"Sinfonia da Necrópole" (Brazil, 2014), escrito por Juliana Rojas, dirigido por Juliana Rojas, com Eduardo Gomes, Paulo Jordão, Germano Melo, Adriana Mendonça, Luís Mármora
-
-

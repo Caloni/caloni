@@ -18,7 +18,3 @@ Porém, ao mesmo tempo, o longa se beneficia imensamente ao arriscar discutir a 
 No entanto, tantas ideias ambiciosas não é motivo para afastar fãs da boa e velha ação descerebrada, já que há também ótimas sequências de ação, que usam a história sempre ao seu favor. A escolha do diretor Ariel Vromen por uma lente com pouca profundidade de campo e tremida nos remete à série Bourne e seu imediatismo, mas sem escapar das consequências da realidade, o que a torna ainda mais impressionante.
 
 Apenas com uma conclusão meramente conveniente, Mente Perigosa se torna um dos filmes de ação do ano por conseguir assimilar realismo, ideias e explosões no mesmo contexto. E se lembrarmos de tantos trabalhos anteriores que pecam por utilizar apenas as explosões como protagonista, veremos que esse é um feito e tanto.
-
-"Criminal" (UK/USA, 2016), escrito por Douglas Cook, David Weisberg, dirigido por Ariel Vromen, com Gal Gadot, Ryan Reynolds, Alice Eve, Kevin Costner, Antje Traue
-
-

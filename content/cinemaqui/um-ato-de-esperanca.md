@@ -18,9 +18,3 @@ Thompson faz uma pessoa que chega aos cinquenta anos compenetrada em um trabalho
 No entanto, a juíza Fiona Maye tem uma semana difícil. Seu marido a acusa com propriedade de sabotar o relacionamento há anos e declara que deseja ter uma amante. Sem tempo para sequer discutir com ele, ela pula para o próximo caso onde tem que julgar se pode-se forçar um adolescente com quase 18 anos a receber uma transfusão de sangue que o salvará. A religião em que foi criado proíbe esse tratamento, mas o caso seria de simples resolução de acordo com a lei de menores (o Children Act do título original), que coloca o bem estar da criança/jovem acima de tudo. Sim, apesar de toda a tensão na corte esse seria um caso simples; não fosse o fato dela estar emocionalmente perturbada, o que a faz de maneira imprevisível capturar um detalhe que está faltando no julgamento e que precisa para chegar a uma decisão: o próprio garoto. Porém, ao entrar em contato com ele sua interferência vai além da simples aplicação da lei.
 
 Discutindo questões racionais, emocionais e religiosas ao mesmo tempo, Um Ato de Esperança nunca perde seu fôlego inicial, criando ao mesmo tempo uma atmosfera sufocante para sua heroína. Ela não consegue o tempo e o espaço necessários para tomar decisões a respeito de sua própria vida, além de estar sempre acostumada a não utilizar suas emoções; o que acaba ironicamente nos lembrando do próprio jovem cujo destino está decidindo como seu oposto. Após viver toda sua vida em um ambiente controlado sob leis que ele nunca ousou questionar, agora ele é levado a abrir os olhos à força, mas acaba se apaixonando pelo que vê: um mundo cheio de possibilidades, poesia e amor.
-
-
-"Um Ato de Esperança" (Reino Unido, EUA, 2017), escrito por Ian McEwan baseado no seu próprio livro, dirigido por Richard Eyre, com Emma Thompson, Stanley Tucci, Fionn Whitehead.
-
-
-

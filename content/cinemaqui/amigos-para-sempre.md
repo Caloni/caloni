@@ -18,9 +18,3 @@ De qualquer forma, verbalizo a implícita dica deste texto: assista ao original.
 Kevin Hart obviamente não é um substituto para o gigante Omar Sy, e essa observação vale tanto para sua estatura física quanto suas qualidades de atuação. Sy consegue ser cômico sem perder o respeito (também, daquele tamanho e com aquela atitude...). Hart é o lado cômico com um leve traço de melancolia. Leve demais. Ele faz o possível com o seu Dell, um sujeito que realizou muitos erros na vida para conseguir dar a volta por cima. O único que parece apostar no rapaz é quem não tem muito a perder: Phillip, o milionário tetraplégico que nas mãos de Cranston também perde parte do seu charme aristrocrata visto nas mãos de François Cluzet, mas que ganha com a cara de cachorro abandonado (embora não muito confiável) de Cranston.
 
 Os dois precisam trabalhar nas sombras de Sy e Cluzet, e a direção de Neil Burger não os ajuda em nada. Dirigido no piloto automático, o filme usa constantemente externas para a passagem do tempo e não consegue utilizar a câmera para situar o estado de espírito de seus personagens. Vagamente idealizado, o design de produção combina com a direção geral do filme, que assume um caráter de seriado do começo ao fim. Como havia falado, este é o Intocáveis sem alma, sem apelo. Sem necessidade de ser. Ele poderia ser um filme de matinê a ser esquecido na única semana em cartaz, mas será para sempre lembrado como uma versão piorada de um outro filme que já vive em nossos corações.
-
-
-"The Upside" (EUA, 2018), escrito por Jon Hartmere baseado no filme escrito por Éric Toledano e Olivier Nakache, dirigido por Neil Burger, com Kevin Hart com Dell (antigo Driss), Bryan Cranston como Phillip (antigo Philippe), Nicoke Kidman como Yvonne (antes interpretado por Anne Le Ny) e Julianna Margulies (The Good Wife) em uma ponta.
-
-
-

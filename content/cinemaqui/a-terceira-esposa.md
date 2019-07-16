@@ -14,7 +14,3 @@ Este é um épico no sentido literal da palavra, então espere trilha sonora fol
 Você provavelmente não vai encontrar nenhum momento marcante nos longos minutos da história. Ela é baseada em eventos reais e parecem ser eventos que demoraram um século para acontecer (e para projetar na tela do cinema). Onde supostamente há algum comentário social ele é tão sutil e tão deslocado no tempo que não gera o efeito desejado. Para quem entende que naquela época é assim que as coisas funcionavam não faz sentido ver um jovem reclamando que essas regras que todos seguem e onde todos estão inseridos não faz sentido. Tire sua própria conclusão do espírito do tempo para ver.
 
 Tentando abraçar a sociedade vietnamita inteira com um evento secular no espaço de uma pequena vila, A Terceira Esposa é seleção na Mostra de São Paulo talvez pelo engajamento contemporâneo, o que é um contrassenso. O único engajamento possível nos seus últimos minutos é com um bom momento de sono.
-
-"The Third Wife" (Vietnã, 2018), escrito e dirigido por Ash Mayfair, com Long Le Vu, Mai Thu Huong Maya, Nguyen Phuong Tra My.
-
-

@@ -20,7 +20,3 @@ Tudo isso é levado por uma trilha sonora (Grégoire Hetzel, "Incêndios") que b
 A cumplicidade que vai se construindo entre as duas é ligeiramente apressado e inusitado, o que torna os esforços da história em sair tudo bem um tanto falso. E é necessário apontar que existe uma ponta de covardia em seu final, disfarçada convenientemente de poesia.
 
 Mas dito isto: que bela poesia! Uma história bem amarrada muitas vezes faz perdoar um ou outro deslize como tropeços da própria vida. E um filme sobre o que significa uma vida bem vivida, sem floreios ou manipulações, merece alguns tropeços para se fazer real através do milagre da própria vida.
-
-"Sage femme" (France, 2017), escrito por Martin Provost, Martin Provost, dirigido por Martin Provost, com Catherine Deneuve, Catherine Frot, Olivier Gourmet, Quentin Dolmaire, Mylène Demongeot
-
-

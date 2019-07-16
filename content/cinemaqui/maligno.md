@@ -20,9 +20,3 @@ A atuação de Jackson Robert Scott como Miles é icônica. Há um preparo muito
 Ao mesmo tempo Taylor Schilling (da série Orange is The New Black) consegue compreender que o papel de mãe compreensiva e apoiadora possui seus limites, e ela consegue de maneira sutil demonstrar como é possível a uma mulher nessa situação manter seu instinto maternal e ao mesmo tempo manter em suspenso sua própria razão e tentar o impossível. Ela possui a cena mais difícil no terceiro ato, onde mãe e "filho" se revelam de uma maneira difícil de esquecer.
 
 Como havia dito, Maligno pode não agradar os que precisam que mesmo o terror siga uma cartilha politicamente mais correta, principalmente no que diz respeito à violência contra a mulher. Isso gera um problema complexo do ponto de vista artístico: como chocar e ao mesmo tempo "dar exemplo"? Esse filme não encontra a resposta, mas ainda assim sua história é irrepreeensível do começo ao fim. O terror como gênero se coloca à prova de julgamentos morais.
-
-
-"Maligno" (Canadá, EUA, 2019), escrito por Jeff Buhler, dirigido por Nicholas McCarthy, com Jackson Robert Scott, Taylor Schilling, Peter Mooney, Colm Feore.
-
-
-

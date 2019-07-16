@@ -14,7 +14,3 @@ Talvez porque ela faz questão de manter as aparências, como não contar aos se
 De inverossímil a grotesco, as piadas "arquitetadas" pela roteirista estreante Agathe Pastorino nunca funcionam. E nem poderiam. Apresentando personagens que de cara já não nos preocupamos, sequer acreditamos, o que segue são esquetes televisivos na melhor das hipóteses, e isso nem Juliette Binoche nem o clássico cachorro fofinho das comédias parece salvar.
 
 O material se torna quase um completo desastre nas mãos da diretora Noémie Saglio, que aqui redigiu os diálogos e pega uma história muito menos interessante, dinâmica e criativa que um de seus trabalhos anteriores, Beijei uma Garota, e que parece não entender o buraco em que se meteu. Misturando momentos pseudo-dramáticos -- e filmando-os como tal -- em uma orquestra e uma confusa Juliette Binoche andando em círculos com sua moto cor-de-rosa, a história só consegue não se tornar completamente insuportável porque sabemos que se trata de uma comédia, que deve acabar, e deve acabar rápido.
-
-"Telle mère, telle fille" (France, 2017), escrito por Agathe Pastorino, Noémie Saglio, dirigido por Noémie Saglio, com Juliette Binoche, Camille Cottin, Lambert Wilson, Catherine Jacob, Jean-Luc Bideau
-
-

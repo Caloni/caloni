@@ -16,7 +16,3 @@ Além disso, a direção de Wood-Ping Yuen é burocrática, e parece querer tran
 E se falta alma ao projeto, não importa o quão bem executada é uma luta. Se seu objetivo é apenas narrar um pequeno conto sobre um imperador sanguinário que deseja roubar uma espada lendária, além de no processo também narrar uma pequena lenda envolvendo bebês trocados, todas as cenas de ação parecem descartáveis e desnecessariamente longas. Nunca há o bom senso dos personagens, e todos eles possuem habilidades sobrenaturais e não parecem fazer questão de torná-las críveis; apenas bonitas.
 
 E bonito por bonito, vale mais a pena rever o conteúdo original, também disponível na Netflix. Lá cada luta possui sua razão de ser, e o objetivo dos mestres não é se gabar de seu conhecimento em lutas marciais, mas utilizá-las com a mais alta sabedoria. Infelizmente, os mestres de A Espada do Destino parecem ter sido contratados pelo Circo de Soleil.
-
-"Crouching Tiger, Hidden Dragon: Sword of Destiny" (China/USA, 2016), escrito por John Fusco, Wang Du Lu, dirigido por Woo-Ping Yuen, com Donnie Yen, Michelle Yeoh, Harry Shum Jr., Natasha Liu Bordizzo, Jason Scott Lee
-
-

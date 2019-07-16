@@ -24,7 +24,3 @@ Toni Collete é a Madame do título, e nos entrega uma mulher repulsiva sem sair
 Já Rossy de Palma, como Maria, soa autêntica. Ela em momento algum muda seus hábitos de governanta, e nos deixa perceber como os velhos costumes a atrapalham no novo ambiente quando se levanta para ajudar uma criança a cortar a carne da refeição. Ela se torna um alívio cômico sem exageros, o que serve também para o lado humano do longa, que é rodeado de criaturas grotescas que parece olhar a todo momento para seu próprio umbigo. Sua postura de nunca se entregar ao vitimismo é o que nos permite aproveitar o show.
 
 Com momentos inspirados que extraem o verdadeiro significado do que é fazer parte de uma sufocante e decadente burguesia, "Madame" entretém do começo ao fim e no caminho nos entrega mais do que "foi pedido": uma análise social ácida escondida no meio das risadas.
-
-"Madame" (França, 2017), escrito por Amanda Sthers, dirigido por Amanda Sthers, com Toni Collete, Harvey Keitel, Rossy de Palma.
-
-

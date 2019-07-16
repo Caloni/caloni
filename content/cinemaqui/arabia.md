@@ -40,7 +40,3 @@ O que torna mais potente a mensagem do filme é o pleno controle que a dupla Uch
 Os diretores estão cientes de que este é um épico. Provavelmente atemporal. Portanto, a câmera é colocada nos lugares certeiros para imortalizar uma parte da história. O filme está tão apaixonado nos belíssimos momentos que capta que corre o risco de se esquecer de seu protagonista, o que é mais um sinal de que, apesar desta ser uma ode ao trabalhador comum, ele é apenas um símbolo. Não sabemos quando o filme começa se Cristiano irá sobreviver no hospital, mas sabemos que se morrer terá sido por uma boa causa (o que não deixa de ser irônico, pois obviamente o sujeito foi afetado pelo ar envenenado que respirou por muito tempo na fábrica).
 
 O roteiro é de uma coesão que vai do começo ao fim em um pulo. O elenco está tão absorvido por esta história que os longos momentos onde os observamos ficamos em dúvida se estamos na vida real ou em uma representação artística. A única falha é que o filme é esperto demais para existir na vida real. É o preço que se paga pela fantasia de poder resumir toda uma ideologia em um arco de historietas do trabalhador comum, o mesmo trabalhador sempre, que se sacrifica por um paraíso que descobre no final da vida que nunca existiu.
-
-"Arábia" (Brasil, 2017), escrito por João Dumans, Affonso Uchoa, dirigido por João Dumans, Affonso Uchoa, com Aristides de Sousa, Murilo Caliari, Gláucia Vandeveld.
-
-

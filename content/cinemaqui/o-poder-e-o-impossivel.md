@@ -20,7 +20,3 @@ Mas se não fosse pelo diretor Scott Waugh este filme seria bem sessão da tarde
 Mas ele é drenado aos poucos, e Waugh sabe disso. Sua cara vai queimando aos poucos. Sua perna vai ficando vermelha aos poucos. Ela apodrece. Ele come um pedaço dela. O desespero do rapaz é crescente. Não explode de repente. E é em um determinado momento que o filme demonstra todo seu potencial dramático sendo aproveitado: LeMarque está deitado. O quadro é um plano-detalhe extremamente próximo do seu rosto cheio de gelo, queimaduras e sua pouca barba. Seu pelo no rosco forma uma "cena" pitoresta que lembra os pinheiros na neve. LeMarque se transformou na neve. Ele está completamente tomado. É um momento solitário, silencioso e dramático não porque a música insiste, mas porque a situação simplesmente não poderia ser diferente.
 
 O Poder e o Impossível é um filme forte e tenso. Não é uma história com um final feliz tão fácil assim. É um ritual de passagem. Talvez para um amadurecimento. Isso não fica totalmente claro. Mas é menos de sobrevivência e mais de compreensão do que é a vida. Se para isso LeMarque teve que ressuscitar, é algo que se deixa para a interpretação do espectador.
-
-"6 Below: Miracle on the Mountain" (USA, 2017), escrito por Madison Turner, Eric LeMarque, Davin Seay, dirigido por Scott Waugh, com Josh Hartnett, Mira Sorvino, Sarah Dumont, Kale Culley, Jason Cottle
-
-

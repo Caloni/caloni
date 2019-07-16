@@ -22,7 +22,3 @@ Quem embala tudo isso em um formato palatável ao grande público -- e o que dá
 Já quem enquadra esse mini-retrato de uma época de uma forma mais humana, realista e intimista são os diretores, Jonathan Dayton e Valerie Faris (Pequena Miss Sunshine), que concebem belas transições de cena -- Como de uma máquina de costura, símbolo da submissão feminina, para uma vitrola em uma rádio, símbolo que agora elas têm uma voz. Eles também conseguem uma sensação curiosa de estarmos presenciando a História e ao mesmo tempo histórias de pessoas reais, em um misto de quadros próximos de Billie Jean, câmera tremida, e o frenesi da imprensa, das rádios, TVs e do grande escalão de senhores poderosos em salas opulentas (e não apenas homens, como notamos no hilário quadro da esposa de Carrel, que como ele diz para o filho, "está sempre de olho em nós").
 
 E essa sensação das pessoas em uma sociedade estarem sempre de olho nas celebridades é bem presente. E necessária. Só assim para percebermos o verdadeiro desafio daquele dia naquela quadra. É assim com os melhores filmes de boxe e tênis. Quando o confronto final começa, é mais importante o que aprendemos sobre os adversários, seus medos, desafios e dramas, do que a luta ou a partida. Guerra dos Sexos consegue ser leve até o final, mas nunca deixa isso de lado.
-
-"Battle of the Sexes" (UK/USA, 2017), escrito por Simon Beaufoy, dirigido por Jonathan Dayton, Valerie Faris, com Emma Stone, Steve Carell, Andrea Riseborough, Natalie Morales, Sarah Silverman
-
-

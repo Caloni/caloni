@@ -16,9 +16,3 @@ O tempo avança e acompanhamos a cena de sexo mais completa do filme. A bambina 
 Nápoles vira uma personagem onde os mistérios ocorrem, em seus corredores, ruas, museus e igrejas. Nas casas seculares, como onde ocorreu o primeiro crime. Nos jardins. A câmera do diretor Ferzan Ozpetek que começou girando pela escadaria segue em movimento leve sugerindo o aspecto de sonho. As transições de cena são suaves e a trilha sonora acalma em vez de gerar tensão. Mais uma vez: há morte, mas não é um thriller de suspense.
 
 O uso da câmera também funciona na subjetividade. Vira e mexe ela está atrás de seus personagens. E ela está certa para esse filme: seus personagens importam mais que os fatos. Os fatos, esses escravos de nossa percepção, às vezes veem à tona, às vezes não. O que aconteceu com alguém que não existe mais existe de fato? Assista sem pressa.
-
-
-Napoli velata (aka Naples in Veils). (Itália, 2017), escrito por Ferzan Ozpetek, Gianni Romoli, Valia Santella, dirigido por Ferzan Ozpetek, com Giovanna Mezzogiorno, Alessandro Borghi, Anna Bonaiuto.
-
-
-

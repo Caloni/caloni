@@ -24,7 +24,3 @@ A partir daí o quarto vai mudando, e eles mudam junto. Seus rostos são maquiad
 A despeito de talvez tentar abrir horizontes com uma história não-convencional, a tela é quadrada e a fotografia não muito ajeitada (principalmente em alto-mar, que é sofrível), o que nos remete de volta para o gênero documentário. Alguns conceitos são interessantes, como a imaginação de cada um deles junto com a versão mais velha do parceiro. Mas documentários costumam funcionar melhor quando seus personagens fazem coisas interessantes. Aqui são duas pessoas desprovidas de algum talento marcante tentando "deixar sua marca no mundo".
 
 E quando a única marca é um buraco de nanquim pintado na parede de onde sai uma sequência caótica de fotos de suas vidas, soando como uma versão psicodélica da famigerada "hora de mostrar as fotos" que toda festa de casamento tem, daí fica até fácil recomendar: se for assistir esse filme, que seja sob o efeito de drogas. Ou que você concorde com Melissa, e já tenha memórias de sua vida que não faça muito sentido vistas em conjunto. Assim como esse filme.
-
-"Muito Romântico" (Germany/Brazil, 2016), escrito por Melissa Dullius, Gustavo Jahn, dirigido por Melissa Dullius, Gustavo Jahn, com Gustavo Jahn, Melissa Dullius, Gustavo Beck, Kana Chiaki, Aqico Coco
-
-

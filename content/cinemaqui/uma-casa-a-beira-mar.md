@@ -22,7 +22,3 @@ Ele representa o intelectual máximo do microcosmo. O mais inteligente e, portan
 E é exatamente da mesma forma com que ele se torna uma caricatura simpática de algo real, todos ali se tornam, cada um à sua maneira, cumprindo o seu papel, versões degradantes de um tempo que se foi de esperança e energia, e que hoje se preenche de memórias, ressentimentos e medo de viver.
 
 A tempo: sempre antenado com os tempos atuais, este filme também possui refugiados, e eles consome boa parte do terceiro ato. Não é como se a história deles fizessem parte da principal, pois não faz. O tema secundário simplesmente é jogado porque sim. E assim como todo e qualquer acontecimento na vila, este é mais um em que a impotência de seus moradores é o maior símbolo de todos.
-
-"La villa" (França, 2017), escrito por Robert Guédiguian e Serge Valletti, dirigido por Guédiguian, com Ariane Ascaride, Jean-Pierre Darroussin, Gérard Meylan.
-
-

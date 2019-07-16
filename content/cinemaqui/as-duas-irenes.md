@@ -26,7 +26,3 @@ Meira também abusa um pouco do espelho e sua simbologia da vida aqui e lá, rep
 E por falar em pensar, este filme tem um ritmo lento que vai te deixar pensando em muitas coisas. Aqui vai minha sugestão: pense. Deixe os devaneios fluírem. Será que o pai da grande Irene mimou demais a menina, não apenas por ser filha única da segunda família, mas talvez por não prover tantos recursos quanto para a primeira família? E a segunda Irene, por que ela parece tão deslocada do resto da família burguesa? E sua mãe, ela sabe? E se sabe, seus comentários tornam-se os mais divertidos, pois ela possui uma camada extra de proteção contra conversas em família. Há muitas coisas a pensar, esses são apenas exemplos.
 
 Poucos filmes me deixam sem palavras e com muito a sentir. E esse, quando vemos uma pedra na mão de outra Irene, o vento brisando em um misto de folhas verdes das árvores, uma rima carinhosa no final, com um desfecho à altura de tudo o que vimos até então. E se formos observar de muito perto, pensar pela última vez em tudo que aconteceu, talvez não haja muito mais o que pensar afinal de contas; só sentir. Sinta o vento em seus olhos. Sinta esse tempo e essas pessoas que não existem mais.
-
-"As Duas Irenes (aka Two Irenes)" (Brasil, 2017), escrito e dirigido por Fabio Meira, com Priscila Bittencourt, Isabela Torres, Marco Ricca.
-
-

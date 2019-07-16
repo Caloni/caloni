@@ -16,7 +16,3 @@ Porém, as histórias possuem suas virtudes, principalmente as últimas. O proce
 Dessa forma, é muito mais interessante ver a história do artesão ingênuo que acredita ter encontrado uma pedra que o torna invisível, ou de uma madre superiora dando um sermão a uma das freiras sobre luxúria com uma cueca na cabeça, ou até mesmo a história mais forte de todas, a de um falcão que se torna o melhor e único amigo de um caçador que vai à falência. Esses são passatempos que valem a pena se deliciar em torno da estrutura episódica do filme. Porém, sempre ao seu final ressurge a sensação de estar apenas acompanhando uma espécie de seriado com mini-episódios de curtos independentes e que nunca se relacionam com nada. Qual a moral da história? Há muitas morais a ser extraídas, mas nenhuma ideia do que os autores imaginaram ao juntar todas essas histórias.
 
 Ao fim, Maravilhoso Boccaccio parece uma espécie de homenagem a um autor já conhecidíssimo da Idade Média em um formato mais palatável para o grande público italiano. Poderia ir direto para a TV e teria algum público cult, mas como Cinema, se torna tão competente quanto as aventuras de Moisés televisionado pela emissora de Edir Macedo.
-
-"Maraviglioso Boccaccio" (Italy/France, 2015), escrito por Giovanni Boccaccio, Paolo Taviani, Vittorio Taviani, dirigido por Paolo Taviani, Vittorio Taviani, com Lello Arena, Paola Cortellesi, Carolina Crescentini, Flavio Parenti, Vittoria Puccini
-
-

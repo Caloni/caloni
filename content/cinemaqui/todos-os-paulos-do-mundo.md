@@ -18,7 +18,3 @@ Havia um experimento no teatro que Paulo retrata, chamado de Arena. Neste lugar 
 Há diferentes fontes de imagens neste filme em um trabalho admirável de pesquisa e arquivamento histórico. Fora os mais conhecidos Macunaíma, O Padre e a Moça, Todas as Mulheres do Mundo, O Homem Nu, Policarpo Quaresma e tantos outros, temos imagens de trabalhos menores e marginais que teriam se perdido facilmente. Aqui o trabalho do filme é legítimo e digno de aplausos. É verdade, o seu uso poderia ter sido muito mais frutífero caso não estívessemos acompanhando uma sequência caótica e desfigurada de momentos marcantes da filmografia de um ator. Ainda assim, o resgate da memória de um povo através de sua arte é uma missão nobre e respeitável.
 
 Porém, se para isso teremos que burocratizar o cinema em documentários que tem por finalidade catalogar o acervo nacional financiado pela Ancine e realizado da maneira mais insossa possível, seria melhor queimarmos tudo e dar espaço para o novo, pois o velho é reconhecidamente valioso demais para ser revisto e assim estragar nossas tenras memórias de algo que parecia muito maior do que aqui é visto. E esta minha última frase está muito mais coerente do que a maioria das falas de Todos os Paulos do Mundo, o que é a lástima de sintetizar o impossível: o próprio ato de atuar.
-
-"Todos Os Paulos Do Mundo" (Brasil, 2017), escrito e dirigido por Rodrigo de Oliveira, Gustavo Ribeiro, com Paulo José, Selton Mello, Joana Fomm, Fernanda Montenegro.
-
-

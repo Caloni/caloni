@@ -26,7 +26,3 @@ A performance de Danielle Macdonald está arrebatadora. Assim como suas músicas
 O momento que resume este longa-video-clipe em formato de filme (e cuja história você não precisa saber muito) é quando, em um momento auto-reflexivo do próprio filme, é dito que um quadro na parede, comprado por 2,4 milhões de dólares, foi uma ninharia, pois o que está ali representa de maneira autêntica toda a dor e violência do artista que o criou. Conseguir representar em cada linha, cada cor e cada forma a insanidade da existência humana, e ainda imprimir em alguns centímetros quadrados toda a dor resultante deste esforço, é o verdadeiro paradoxo.
 
 Assim como é um paradoxo entender que as maiores obras de arte talvez precisem da dor lancinante e do sofrimento intenso de seus criadores, que apenas buscam um lugar ao sol em suas existências sem sentido. Seria essa busca que gera algum significado ou é a própria vida, que está ali apenas para ser interpretada por um artista que nasce através dessa dor?
-
-"Patti Cake$" (USA, 2017), escrito por Geremy Jasper, dirigido por Geremy Jasper, com Danielle Macdonald, Bridget Everett, Siddharth Dhananjay, Mamoudou Athie, Cathy Moriarty
-
-

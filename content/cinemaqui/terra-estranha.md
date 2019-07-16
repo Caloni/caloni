@@ -18,7 +18,3 @@ Em Terra Estranha isso se torna mais óbvio por se tratar de uma cidadezinha iso
 E é daí que surge a maior força do longa, que extrai de pessoas ainda estranhas à família a mesma sensação que compartilham dentro de seu próprio lar: de serem estranhos vivendo sob o mesmo teto, por conveniência ou para se esconderem de quem realmente são. Todos estão com medo de aceitarem qualquer coisa fora do convencional, e isso é tão comum para todos que o filme vira uma metáfora fascinante sobre como a vida pode ser complicada ao viver com os outros.
 
 Dessa forma, embora não tenha tanta ação, Terra Estranha pode ser uma ótima combinação entre drama e tensão, e embora o formato meio enlatado não forneça evidências disso, seu modo honesto e persistente de narrar a história acaba fazendo valer o tempo gasto.
-
-"Strangerland" (Australia/Ireland, 2015), escrito por Michael Kinirons, Fiona Seres, Fiona Seres, dirigido por Kim Farrant, com Nicole Kidman, Joseph Fiennes, Hugo Weaving, Lisa Flanagan, Meyne Wyatt
-
-

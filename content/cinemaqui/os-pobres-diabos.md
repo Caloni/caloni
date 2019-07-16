@@ -16,7 +16,3 @@ Alias, a "cena do corno", que o diretor/roteirista Rosemberg Cariry resolveu ins
 Há também alguns personagens caricatos na cidade, como a esposa do eletricista, que é uma religiosa sisuda que -- adivinhem -- "surpreendentemente" se revela quando vai ao circo. Aliás, nada é surpreendente neste longa, exceto o seu declínio cada vez mais profundo nas qualidades técnicas, narrativas e artísticas. O design de som será o primeiro a ser sentido, pois há vários momentos onde não é possível entender o que os personagens estão dizendo (o que pode ser uma coisa boa), e outros momentos que entendemos praticamente tudo, mas o som parece gravado em estúdio, o que soa insuportavelmente artificial. Quando chega a este nível é algo triste se comparado com a primeira cena, flertando com um drama épico em meio ao clima desértico do Nordeste. Mas que ledo engano.
 
 O "clímax" do filme envolve um baque psicológico em todos do circo, e provavelmente uma grande vergonha alheia para todos os espectadores que ainda estiverem assistindo. Não irei revelar aqui, mas quando começar, você já irá perceber uns 20 minutos antes. E o resto da história não poderia ser mais arrastada. Nada pior para um espetáculo do que revelar seus truques minutos antes deles acontecerem. No caso de Os Pobres Diabos, talvez se o filme durasse apenas isso -- minutos ao vento -- ele teria sido mais palatável.
-
-"Os Pobres Diabos" (Brazil, 2013), escrito por Rosemberg Cariry, dirigido por Rosemberg Cariry, com Sâmia Bittencourt, Sílvia Buarque, Gero Camilo, Georgina Castro, Chico Díaz
-
-

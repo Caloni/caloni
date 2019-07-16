@@ -14,7 +14,3 @@ Mas não sejamos injustos: a história aqui é o que menos importa. Alguns detal
 Como toda paródia, há uma ou outra referência engraçadinha a outros filmes do momento, como 12 Anos de Escravidão, Whiplash, entre outros. Todos gratuitos, mas quase nenhum inserido totalmente deslocado, ou tão deslocado que não funcione. Algumas coisas funcionam bem, outras não. Rir é opcional e algo bem subjetivo nesse caso. Talvez você goste da maneira liberal americana de tirar sarro do conteúdo risível da autora E. L. James. Eu gostei; principalmente porque o politicamente correto não está em jogo aqui, ou se está, ficou tão disfarçado no meio das piadas que não faz tanta diferença.
 
 De uma forma ou de outra, se você procura um besteirol qualquer, mas que contenha referências pop e (mal/bem)-intencionadas, 50 Tons de Preto é uma escolha interessante, passageira e divertida. Até onde durar sua perversão humorística.
-
-"Fifty Shades of Black" (USA, 2016), escrito por Marlon Wayans, Rick Alvarez, dirigido por Michael Tiddes, com Marlon Wayans, Kali Hawk, Fred Willard, Mike Epps, Affion Crockett
-
-

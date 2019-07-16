@@ -14,7 +14,3 @@ Porém, a atuação inerte de Beltrão empalidece frente as caricaturas de Paulo
 Para piorar a situação, a direção de Guilherme Fontes transforma a experiência em uma minissérie ou uma novela com ritmo irregular. São pouquíssimos os momentos em que uma cena dá continuidade à outra -- não no tempo ou no espaço, necessariamente: na lógica da narrativa. E é justamente essa a abordagem de conteúdos para TV. Nunca entregando uma trama que consiga prender a atenção do espectador, a TV confia no espetáculo das atuações (no caso de uma novela ou série) e na variedade dos seus temas. Aqui o tema é um só, e ele é repetido de maneira desregular e à exaustão, sendo que nem no início nem no desenvolvimento sabemos qual é o tema.
 
 Se tornando aos poucos um passatempo cada vez menos atraente e com um ou outro momento interessante, "Chatô - O Rei do Brasil" é um projeto que poderia muito bem continuar engavetado para sempre, pois não consegue sequer esboçar um diálogo crítico a respeito da figura história que pretende retratar. Quem dirá se tornar um filme de referência de uma época.
-
-"Chatô - O Rei do Brasil" (Brazil, 2015), escrito por João Emanuel Carneiro, Guilherme Fontes, Matthew Robbins, Fernando Morais, dirigido por Guilherme Fontes, com Andrea Beltrão, Paulo Betti, Ingrid Borgoin, Gabriel Braga Nunes, Nathália França
-
-

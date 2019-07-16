@@ -24,9 +24,3 @@ Parte disso é a sua suposta crítica social, travestida pela cartilha feminista
 Isso gera um debate curioso. Algo que parece implícito em todas as narrativas de todos os filmes que seguem esse modelo: a mudança de um estereótipo para outro. Enquanto em um relaciomanento com uma pessoa que foi se afastando com o tempo gera o estereótipo da mulher casada presa eternamente ao marido, cortar o cabelo diferente e ter seus crushes por diversão gera o estereótipo da mulher independente que faz o que quiser, desde que "o que quiser" seja cortar o cabelo diferente, etc. Independente do destino de Juliana, ela se encontra em um filme inesperadamente maniqueísta que precisa colocá-la em um estereótipo; de preferência o que agrade os valores dos produtores e do diretor.
 
 E isso sem dúvida enfraquece uma narrativa, que estava indo tão bonita pelo caminho mais sutil, mais individualista, e que vai de repente em encontro com interesses alheios ao filme. É quando a revolução se torna lugar-comum que o romantismo se perde para sempre. E é quando se perde a oportunidade de se realizar um filme inesquecível sobre como o ser humano se adapta e se conquista sempre que confrontado com a realidade.
-
-
-"Temporada" (Brasil, 2018), escrito e dirigido por André Novais Oliveira, com Grace Passô (Juliana), Russo Apr (Russão), Rejane Faria (Lúcia), Hélio Ricardo (Hélio).
-
-
-

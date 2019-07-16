@@ -22,7 +22,3 @@ Com o dom de escolher as falas mais naturais possíveis e eliminar tudo que poss
 Há um momento tão hilário em A Melhor Escolha, onde eles relembram sobre a "Disneylândia do Vietnã", que chega uma hora que se torna impossível não dar risada junto com esses três. Nessa hora não há nenhum tipo de sacada no jogo de palavras nem nenhum diálogo "inteligente demais para ser verdade". Apenas três amigos tirando sarro um do outro. Mas é tão viva e nítida a sensação que isso passa pelas nossas próprias experiências de vida, que ela é engraçada exatamente como a vida pode ser, sem por nem tirar.
 
 E há outro momento também, onde simplesmente não há nada a ser dito. É o momento final. É quando percebemos que, quando estamos ao lado de melhores amigos, nada importa mais do que viver aquele momento, seja bom ou mau.
-
-"Last Flag Flying" (EUA, 2017), escrito por Richard Linklater, Darryl Ponicsan, dirigido por Richard Linklater, com Bryan Cranston, Laurence Fishburne, Steve Carell.
-
-

@@ -18,7 +18,3 @@ Há na história, claro, seus momentos de ativista, quando vai convergindo aos p
 Porém, os melhores momentos são os últimos, onde vemos uma sequência de anos e décadas sendo narrada de uma maneira coesa e tão intensa quanto os anos 60. Sua fuga para Libéria e retomada da carreira na Suíça são ganchos para que voltemos a ser convidados a entender novamente quem é Nina Simone.
 
 E o mais impressionante de tudo é que, depois de tudo isso, talvez ainda falte uma resposta definitiva. Não que seja decepcionante, como biografias mal-feitas. É que pessoas como ela, passando por esse planeta por 70 anos, foram insuficientes para capturar boa parte de sua essência. Quando sua filha diz que, vendo a mãe já mais velha, percebe que ela não pertence mais à epoca, a resposta é que a época já não pertence mais a ela. Isso resume bem o sentimento de um filme como esse.
-
-"What Happened, Miss Simone?" (USA, 2015), dirigido por Liz Garbus, com James Baldwin, Stokely Carmichael, Walter Cronkite, Stanley Crouch, Gerrit De Bruin
-
-

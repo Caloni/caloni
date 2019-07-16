@@ -18,7 +18,3 @@ O tom do filme escrito e dirigido por Margarethe von Trotta não é de comédia,
 Digamos apenas que a sutileza de von Trotta não favorece muito a narrativa. Detalhes como a forma como os homens bebem vinho pode ser extremamente revelador de suas personalidades, e até o uso da música Norma poderia ser vital para entendermos melhor o que está acontecendo em dado momento.
 
 No entanto, apesar de drama pesado, este é um filme que sempre vai pelo caminho mais delicado. Seus personagens, embora bem interpretados, são contidos, e apenas a petulância da figura de Matthias Habich, o pai de Sophie, é capaz de chacoalhar um pouco as coisas.
-
-"Die abhandene Welt" (Germany, 2015), escrito por Margarethe von Trotta, dirigido por Margarethe von Trotta, com Katja Riemann, Barbara Sukowa, Matthias Habich, Robert Seeliger, Gunnar Möller
-
-

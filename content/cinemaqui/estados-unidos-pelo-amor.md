@@ -20,7 +20,3 @@ Um filme como esse depende muito das atuações, e há algumas pequenas descober
 E, diga-se de passagem, os homens ficam de fora de toda essa equação. Eles são às vezes o alvo do desejo, mas só isso. Este é um filme que foca basicamente no drama feminino, na busca amargurada das mulheres por compreensão, carinho, saciação da vontade do próprio ser, algo que aquele mundo parece completamente incapaz de lhes entregar. E elas quase não são vistas como indivíduos, mas como mulheres parecidas, presas à situação política, econômica e afetiva do mundo que as acolheu como estereótipos de alguma função social qualquer.
 
 O curioso em "Estados Unidos Pelo Amor" é que seu título sugere alguma crítica política ou algo do gênero, mas a atmosfera do filme está muito mais voltada aos seus personagens, de forma muito semelhante ao ótimo Ida. É um filme difícil, submerso em indizíveis, mas visualmente arrebatador, hipnotizante, que não entregará respostas fáceis aos conflitos existenciais e amorosos em sua história, mas pelo menos tenta de todas as maneiras, já se saindo muito melhor que a imensa média de acomodados.
-
-"Zjednoczone stany milosci" (Poland/Sweden, 2016), escrito por Tomasz Wasilewski, dirigido por Tomasz Wasilewski, com Julia Kijowska, Magdalena Cielecka, Dorota Kolak, Marta Nieradkiewicz, Tomasz Tyndyk
-
-

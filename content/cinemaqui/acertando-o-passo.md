@@ -22,7 +22,3 @@ Ele é interpretado por um ator veterano, Timothy Spall. Você deve conhecer ele
 Enquanto isso a atriz Celia Imrie como a irmã diferentona, que nada no lago gelado, anda de bicicleta e não tem medo de viver (outro clichê), realiza uma participação extremamente vital para a felicidade de sua irmã, interpretada por Joanna Lumley (Late Bloomers - O Amor não tem Fim) com uma sincera dúvida sobre qual caminho tomar. Ela passou sua vida inteira à sombra de outra pessoa, sendo quem não é, e agora é preciso se resgatar de um passado longínquo, mas feliz. Todos esses papéis seriam tarefas ingratas se o elenco não fosse extremamente competente em nos deixar acreditar nessas pessoas mesmo elas puxando um estereótipo ou outro do cinto de ferramentas dos irregulares roteiristas Meg Leonard e Nick Moorcroft.
 
 E por falar em irregular, o diretor Richard Loncraine, que vai de "Wimbledon: O Jogo do Amor" para "Firewall - Segurança em Risco" em menos de um piscar de olhos, é sempre um risco ambulante. Aqui ele é um poço de contradições, tentando unir comédia engraçadinha com drama intimista, e graças às atuações e à história minimamente funcional se sai maravilhosamente bem. Não assista seu próximo filme.
-
-"Finding Your Feet" (Reino Unido, 2017), escrito por Meg Leonard e Nick Moorcroft, dirigido por Richard Loncraine, com Celia Imrie, Joanna Lumley, Timothy Spall.
-
-

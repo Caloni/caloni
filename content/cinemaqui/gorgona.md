@@ -18,7 +18,3 @@ Seus companheiros parecem ter a cumplicidade maior de todas, pois nem questionam
 Ao mesmo tempo, Maria Vergueiro não se contém em não dizer certas coisas. Sua vida de negócios parece ser totalmente revelada, aos poucos, no filme. E descobrimos que ela é péssima em gerir seus negócios, mas íntegra ao mesmo tempo. E está muito bem em seguir tendo o prazer de arriscar o que não tem nessa empreitada em direção à aposentadoria eterna. Ela também não está cabisbaixa, e a postura dos cineastas em fazer esse filme não foi em momento algum tornar isso uma homenagem quase póstuma, mas sim uma redescoberta dos caminhos que o teatro e seus artistas têm tomado ultimamente.
 
 Não há nada de novo sobre como a arte é (des)valorizada no Brasil, mas apenas a junção dos fatos com os sonhos em palco. É para mostrar que ninguém está com a cabeça na lua, mas que por serem artistas sonhar é vital para continuarem fazendo o que fazem. E assim é Maria Vergueiro, uma anônima hoje em dia, como tantas outras e outros, a seguir adiante nessa arte cada vez mais reservada a recintos sujos e mal iluminados. Há até certo charme decadente no ar.
-
-"Idem" (Brasil, 2018), escrito por Pedro Jezler, Fábio Furtado, dirigido por Pedro Jezler, Fábio Furtado, com Maria Alice Vergueiro, Pascoal Da Conceicao, Danilo Grangheia.
-
-

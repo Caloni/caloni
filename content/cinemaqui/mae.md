@@ -24,7 +24,3 @@ Mantendo o mesmo tom temático de Fonte da Vida, embora com outro foco e com cor
 O tempo voa e cria lapsos elegantes, assim como as transições na história. Aos poucos nos acostumamos a sentir o ritmo da história mudando. O terceiro ato é um primor nesse sentido, pois consegue esconder a segunda camada da história por muito tempo graças a uma série de acontecimentos empacotadas em uma edição ágil e claustrofóbica. Não há um momento de reviravolta: ele vai acontecendo aos poucos, e talvez a ficha vá caindo dependendo da pessoa e de como ela está encarando essa história desde o começo. Mentes mais abertas tendem a se divertir mais com esses filmes.
 
 Aronofsky pode estar começando a se repetir em seu mantra do gnosticismo. Mãe! pode ser encarado como um mais do mesmo, ou como mais uma história no universo rico e multifacetado do diretor. Seja como for, a experiência de ver este filme é muito mais rico do que sua trama, e até no sentido religioso a história que ele nos conta parece ainda melhor. E mesmo que você não concorde com a mensagem embutida no filme, não há como desgostar do perfeccionismo da sétima arte em pleno vapor.
-
-"Mother!" (USA, 2017), escrito por Darren Aronofsky, dirigido por Darren Aronofsky, com Jennifer Lawrence, Javier Bardem, Ed Harris, Michelle Pfeiffer, Brian Gleeson
-
-

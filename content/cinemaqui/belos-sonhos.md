@@ -19,7 +19,3 @@ Com tantas dicas que podem ser vistas pelo espectador, praticamente não precisa
 A atuação de Valerio Mastandrea (A Primeira Coisa Bela) surge como um misto de inanição e passividade, em um papel tão introspectivo que se torna difícil de ser notado. As nuances do ator, sua cara cabisbaixa, envergonhado, traduzem bem essa busca interna de que trata o filme. Muito mais confortável está Bérénice Bejo, cujo papel é relativamente simples frente ao seu papel principal mais intimista em A Economia do Amor. Surpreendente mesmo é a interpretação icônica do jovem (e estreante) Nicolò Cabras, que realiza a persona do garoto italiano com uma perfeição suficiente para congelarmos vários quadros entre mãe e filho.
 
 Como é prometido pela trilha sonora romantizada, muitas vezes grandiosa, e a direção inflada de Marco Bellocchio, o filme vai muito além do drama pessoal. Ele levanta questões existenciais muito profundas, e apesar de flertar com uma petulância e um pedantismo preocupante em alguns momentos (a sequência do suicídio do presidente é quase totalmente descartável), creio este ser uma declaração sincera e apaixonada por essa busca que todos nós possuímos por conexão e identificação com outros seres humanos.
-
-"Fai bei sogni" (Italy/France, 2016), escrito por Massimo Gramellini, Valia Santella, Edoardo Albinati, Marco Bellocchio, dirigido por Marco Bellocchio, com Bérénice Bejo, Valerio Mastandrea, Fabrizio Gifuni, Guido Caprino, Barbara Ronchi
-
-

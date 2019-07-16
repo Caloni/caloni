@@ -32,7 +32,3 @@ Já Francis Lawrence dirige um casting equilibrado que se beneficia das sombras 
 Esta é mais uma oportunidade também para que James Newton Howard (King Kong, Batman: O Cavaleiro das Trevas) brilhe na produção de uma trilha sonora que se aproveita dos temas de espiões, tornando a experiência carregadíssima de referências e ao mesmo tempo original. Note como o tom de deslumbramento da música-tema nos faz flutuar sobre tudo aquilo que está acontecendo, como se esta fosse uma revisita àquela época em um universo paralelo; o universo do cinema.
 
 Construído a partir de um romance de espiões, Operação Red Sparrow poderia muito bem ser uma adaptação burocrática cujos detalhes nos fazem dormir. Mas não é bem assim. Os pontos-chave da trama são tão bem colocados no início do filme que apesar do filme se estender por duas horas e vinte minutos a sensação não queremos sair daquela atmosfera que o filme nos fez amar. Ou isso ou eu tenho um fraco por filmes com belas espiãs russas interpretadas por atrizes norte-americanas. Nota a ironia desta produção?
-
-"Red Sparrow" (EUA, 2018), escrito por Justin Haythe, dirigido por Francis Lawrence, com Jennifer Lawrence, Joel Edgerton, Matthias Schoenaerts, Jeremy Irons.
-
-

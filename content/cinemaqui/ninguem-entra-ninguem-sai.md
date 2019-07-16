@@ -16,7 +16,3 @@ Todos esses personagens acabam eventualmente interagindo em uma história que po
 Mas falar de humor, que é algo tão íntimo de cada um, é um assunto complicado. O curioso das piadas aqui é que, para um mundo cercado de politicamente correto para todos os lados, o roteiro parece tentar encontrar um meio termo entre o que hoje é considerado ofensivo e as boas e velhas piadas estilo Trapalhões. Não é difícil imaginar a influência dos próprios atores nessa concepção, já que temos no elenco não apenas a ponta divertida de Gabriel Totoro mas em dois dos papéis principais um atual integrante e uma ex-integrante do canal de piadas polêmicas da internet Porta dos Fundos, que ficou conhecido justamente porque a internet desconhece barreiras para o humor.
 
 A sensação geral ao assistir esse filme é de uma ótima produção nacional com temas repetidos vistos sob um novo olhar. O filme vai fácil, assim como as atuações, e a despeito de se passar quase todo em um motel não é motivo para baixaria: ninguém fica de fato pelado, e o objetivo quase nunca é sensualizar, mas apenas divertir. O problema, portanto, fica na questão se o "divertir" fica acima ou abaixo das expectativas de uma "globochanchada" de todo mês.
-
-"Ninguém Entra, Ninguém Sai" (Brazil, 2017), escrito por Paulo Halm, Luis Fernando Verissimo, dirigido por Hsu Chien Hsin, com Catarina Abdalla, Karolina Albertassi, Monique Alfradique, Leo Bahia, Renata Castro Barbosa
-
-

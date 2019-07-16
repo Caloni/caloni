@@ -14,7 +14,3 @@ Além disso, acompanhar os almoços com a equipe e os momentos de descontração
 Carmen Guarini, por outro lado, parece venerar demais seu tutor, e o apresenta exatamente como ele é no dia-a-dia -- uma pessoa humilde, encolhida, e sagaz ao mesmo tempo -- e no processo evita tentar contar uma história. Isso empobrece o filme e o torna mais um registro histórico do que uma releitura do cinema de Birri. Ou podemos pensar como uma homenagem. Como o momento que observamos a troca de mensagens entre eles. O que faz lembrar de sua trilha sonora, que é inadequada do começo ao fim. Não há aqui a tentativa de comentar uma história, pois como já vimos, ela não existe. Então ela se torna música ambiente, que é imprópria para este tipo de homenagem.
 
 Obcecada pelos momentos mais brilhantes de Fernando Birri, "Amarra Seu Arado a Uma Estrela" é uma linda homenagem e revelação da mente deste cineasta que nos deixou aos 92 anos. Mas pela falta de história se torna um filme incompleto. O jogo entre Che Guevara e Utopia são dois pedaços que não são usados para muita coisa. O resultado é um passeio agradável sem muita coisa o que dizer. Mas, ainda assim, agradável.
-
-"Ata tu arado a una estrella" (Argentina, 2017), escrito por Carmen Guarini, dirigido por Carmen Guarini, com Fernando Birri, Osvaldo Bayer, Carmen Papio Birri.
-
-

@@ -18,7 +18,3 @@ Agora observe a trajetória dos dois protagonistas. Para um deles, o vendedor, a
 Já a trajetória de Khaled é o extremo oposto. Tentando jogar pelas regras ele se cadastra no programa de imigração do país, fica à deriva por um bom tempo e é atacado por radicais nazistas. Mesmo quando ele se dá bem por um momento, sabemos que no máximo será isso: um momento. O que não impede que a sua história também seja otimista, ou pelo menos leve.
 
 Mas seja de uma forma ou de outra, "O Outro Lado..." não consegue acertar bem o que pretende falar. Ele é estiloso, possui bons personagens em criativos momentos. Seu humor vai crescendo aos poucos, mesmo sem conseguir ser inteligível. Mas sua mensagem... essa se perdeu no mar. Apenas os imigrantes sobreviveram.
-
-"Toivon tuolla puolen" (Finland/Germany, 2017), escrito por Aki Kaurismäki, dirigido por Aki Kaurismäki, com Ville Virtanen, Dome Karukoski, Kati Outinen, Tommi Korpela, Sakari Kuosmanen
-
-

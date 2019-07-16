@@ -16,7 +16,3 @@ Porém, em torno dele, giram impressões diferentes dos outros dois homens na fa
 A traição é um tema bastante explorado no longa, mas não da forma convencional. Estamos diante de seres particularmente maduros (ou discretos) a respeito de seus próprios defeitos, e tentam conviver com eles da melhor forma possível. Como um drama intimista, o filme realiza melhor suas peripécias ao revelar seus detalhes da trama casualmente. É dessa forma que um personagem pergunta ao outro se ele o traía, ou até descobrimos que uma determinada amante sabe da existência de sua esposa.
 
 São as lacunas, ou estilhaços, que se formam no tempo e no espaço entre esses personagens, que "Mais Forte Que Bombas" prevalece como uma oportunidade de assistir um filme sem um conflito suficientemente forte para nos manter tensos, mas, ainda assim, com personagens suficientemente interessante para que a falta de um conflito maior se torne quase que irrelevante.
-
-"Louder Than Bombs" (Norway/France/Denmark, 2015), escrito por Joachim Trier, Eskil Vogt, dirigido por Joachim Trier, com Rachel Brosnahan, Jesse Eisenberg, Amy Ryan, Gabriel Byrne, Ruby Jerins
-
-

@@ -22,9 +22,3 @@ Note, por exemplo, o mocinho, Fred Prince, interpretado por Filipe Bragança de 
 Mas por falar em elenco, Maisa é ou já foi apresentadora, cantora, piadista e até atriz, de novela (Carrossel) e cinema (Tudo por um Pop Star). Apesar de não segurar a protagonice o filme dá seu jeito de torná-la a coadjuvante mais ativa das histórias paralelas. Logo depois do filme pude vê-la na coletiva de imprensa, e as expressões são as mesmas tanto no filme quanto na vida real. Porém, na vida real ela é mais simpática. Ela poderia interpretar Maisa no filme e ele se tornaria exatamente o que boa parte das pessoas que vão ao cinema querem ver.
 
 O livro Cinderela Pop é o primeiro de uma saga de sete livros de Paula Pimenta que modernizam os contos de fadas. A produtora desse primeiro filme pretende produzir todos os outros, um por ano; pelo menos esse é o plano. Mas esse filme me fez pensar em outra coisa: sobre a febre de upgrades de contos de fadas. Cinderela Baiana, Encantada... são trabalhos recorrentes, que gostam de reimaginar contos clássicos para os tempos atuais. Eu tenho até uma amiga, Bonnie Hutterer, que lançou um livro com o mesmo intuito e sobre o mesmo conto (versão do século XXI). O que está havendo no mundo? Uma escassez de ideias novas para contos de fadas? As fadas já não estão mortas? Isso são questões que podem ser respondidas analisando o que cada versão tem a oferecer. Cinderela Pop, por exemplo, tem música divertida e uma fotografia bonita. Que venham os próximos filmes celebrando histórias velhas. Carla Perez, onde está você?
-
-
-"Cinderela Pop" (Brasil, 2019), escrito por Bruno Garotti, Flávia Lins e Silva e Marcelo Saback baseados no livro de Paula Pimenta, dirigido por Garotti, com Maisa Silva, Filipe Bragança, Fernanda Paes Leme.
-
-
-

@@ -18,7 +18,3 @@ Pecando pela perfeição extrema na narrativa, "Pedro e Inês" parece assim elev
 A interpretação de Diogo Amaral é do mesmo rapaz, preso mentalmente no tempo e espaço onde a história se passa, incapaz de se desvencilhar de sua tragédia e ainda capaz de perceber que ela aconteceu em outros momentos da História, em outras transformações de sua mesma alma. Amaral é apenas impressão que nos traz tensão. Ele e os outros atores não estão ali para criar pessoas de carne e osso, mas para representar peças que se juntam em um emaranhado simples de sensações. É impressionante que mesmo sem muita história para contar, ou com uma história previsível para se desvendar, o filme consiga seguir um ritmo graças à narração apaixonada do ator.
 
 Mas não necessariamente ele vai agradar a todos. Solene e com uma trilha sonora coerente, "Pedro e Inês" pode dar sono em um espectador desatento em um primeiro momento, podendo soar como uma história que já se viu tantas outras vezes. Mas calma, respire e pense nas diferenças das outras histórias. Aqui o objetivo não é encontrar semelhanças ou diferenças desses personagens em diferentes momentos do tempo. Ele é algo mais como A Viagem (Cloud Atlas), onde é a essência que nos transporta para as lendas. Esqueça o amor proibido; foque no que você sempre quis e que por algum motivo não está conseguindo.
-
-"Pedro e Inês" (Portugal, França, Brasil, 2018), escrito por António Ferreira baseado no romance de Rosa Lobato Faria, dirigido por Ferreira, com Diogo Amaral, Joana de Verona, Vera Kolodzig, João Lagarto, Miguel Monteiro.
-
-

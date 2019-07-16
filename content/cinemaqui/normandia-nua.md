@@ -24,9 +24,3 @@ Mas voltando à pluralidade de ideias, a atuação de François Cluzet é vital 
 A grande maioria do elenco é formada por próprios moradores do vilarejo, que existe mesmo, e onde até a banda de fanfarra de um casamento que ocorre no filme é real. Esse detalhe torna o trabalho final mais humano e ao mesmo tempo simbólico, pois acontecendo ou não a polêmica foto, o diretor teve que convencer pessoas do campo de fato a fazer parte de um projeto que os arrancaria da zona de conforto de bicho do mato.
 
 Tudo isso torna Normandia Nua um filme não apenas de humanos sobre humanos, mas convida o espectador a pensar nos problemas da vida real sob o prisma do que vimos na ficção: geralmente as questões difíceis nunca possuem um ou dois lados. Geralmente é um lado por pessoa envolvida. Imagine o problema que é discutir isso em comunidade.
-
-
-"Normandie nue (aka Naked Normandy)" (França, 2018), escrito por Olivier Dazat, Philippe Le Guay e Victoria Bedos, dirigido por Philippe Le Guay, com François Cluzet como o prefeito-monarca-patriarca Georges Balbuzard, Arthur Dupont como o rapaz que é desafiado a voltar a suas origens Vincent Jousselin, François-Xavier Demaison como o cidadão urbano que quer viver a toda custa no campo Thierry Levasseur e sua filha narradora Chloé Levasseur, interpretada de maneira intransigente por Pili Groyne.
-
-
-

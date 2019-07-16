@@ -16,7 +16,3 @@ Com uma fotografia teatral (cores, luzes, sonhos) e exuberante (para não dizer 
 Aliás, é necessário abrir um parênteses para a trilha sonora, que parece ter sido escrita a dedo para cada situação. Conseguindo evocar ao mesmo tempo a atmosfera "familiar" de Domicílio Conjugal (Truffaut, 1970) e a arritmia perplexa de Masculino-Feminino (Godard, 1966), as composições conseguem oscilar sutilmente entre o romântico, o suspense e o drama.
 
 Para os muitos que se esquecem que ficção é lidar com o inusitado para construir conteúdo, é importante lembrar que a "forçação de barra" do roteiro deve ser relevada pelo bem do argumento. Quase tudo que surpreende é por um motivo maior, e não para soar inteligente. É assim com Romance à Francesa, e é assim nos melhores momentos de Woody Allen (com ou sem pessimismo).
-
-"Caprice" (France, 2015), escrito por Emmanuel Mouret, dirigido por Emmanuel Mouret, com Virginie Efira, Anaïs Demoustier, Laurent Stocker, Emmanuel Mouret, Thomas Blanchard
-
-

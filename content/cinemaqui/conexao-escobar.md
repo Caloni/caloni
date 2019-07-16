@@ -18,7 +18,3 @@ Aliás, a direção de Brad Furman torna todas as cenas tensas ao apresentar ao 
 Contudo, enquanto o perigo sempre constante é a forma do filme de dialogar com a tensão -- além de uma cena ou outra de extrema violência gratuita, onde vem também imagens referenciando Os Bons Companheiros -- há também o fato de que todos os envolvidos são seres humanos, que mesmo vivendo uma mentira, se relacionam de uma maneira intensa com as pessoas que estão enganando. Essa relação se torna particularmente tocante quando o agente, junto de sua falsa-noiva, passam a compartilhar momentos com o orquestrador da rede de mafiosos e sua esposa. Nesse momento, a vida de policial e de pai de família de Mazur ficam ausentes por um longo período, alimentando cada vez mais essa mentira, que flerta com quase virar a realidade do casal de disfarçados.
 
 Com um terceiro ato que, infelizmente, não consegue chegar aos pés da complexidade temática de todo o filme, se privando de concluir toda a trama de uma maneira significativa, preferindo a saída burocrática e oficial, "Conexão Escobar" irá deixar saudades desses personagens, que foram criados por um elenco inspirado, em um filme de ação que acertadamente decide investir no que move a ação: flertar com a confiança de sociopatas alimentados pelo mercado proibido das drogas.
-
-"The Infiltrator" (UK, 2016), escrito por Ellen Sue Brown, Robert Mazur, dirigido por Brad Furman, com Bryan Cranston, Leanne Best, Daniel Mays, Tom Vaughan-Lawlor, Niall Hayes
-
-

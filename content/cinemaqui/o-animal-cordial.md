@@ -24,7 +24,3 @@ Já Irandhir Santos, um sempre competente ator, tem pouco a acrescentar na hist�
 E Murilo Benício, como Inácio, o dono e chefe do restaurante, figura multifacetada que parece estar sempre se defendendo do mundo utilizando a violência, seja no trato com seus funcionários ou no circo que depois se forma em seu restaurante. Seu personagem tem profundidade, mas vemos suas mãos atadas dentro de uma persona que não consegue enxergar outra forma de resolver seus problemas. Ele é o epicentro de um furacão de acontecimentos no filme, é força bruta que se mantém enigmática, difícil de verbalizar, mas que está lá para todo mundo ver.
 
 Note como O Animal Cordial se beneficia do sistema de som do restaurante para traduzir o caos que se forma na cabeça das pessoas naquela situação, em uma seleção de músicas que diz muito sobre a atmosfera imprevisível do filme. Se trata de um trabalho alegórico que vem em forma de violência gráfica, quase uma catarse sem muitos motivos para serem enumerados. Quem assistir pode dar sua impressão sobre o que se trata. Ele pode se tratar de muitas coisas, mas como um restaurante contemporâneo, há um cardápio variado para você escolher por que agimos como animais em nossas cabeças e nos disfarçamos de cordiais em nossa problemática sociedade?
-
-"O Animal Cordial" (Brasil, 2017), escrito e dirigido por Gabriela Amaral Almeida, com Murilo Benício, Luciana Paes, Irandhir Santos.
-
-

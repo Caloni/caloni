@@ -24,7 +24,3 @@ No entanto, mesmo ao estarmos presenciando o julgamento de assassinato de um beb
 E é por isso que a relação que mantém com uma das juradas se torna o tema central de tudo isso. Ilegal ou inconveniente? É inconveniente um dos jurados vir de coturno às sessões, visto que há acusações do réu ter chutado o bebê até a morte? É inconveniente para a defesa existir mais mulheres no "palco"? Quais os limites entre esse teatro de pessoas normais e a vida real?
 
 É isso que A Corte pretende discutir, e o faz de uma maneira extremamente leve e inocente, o que chega a ser irônico. Não há bandidos e mocinhos neste filme, o que ajuda a torná-lo ainda mais leve, se tornando encantador em sua reflexão final. É um escrutínio da própria vida, das pessoas e seus papéis. Um filme para ser mais degustado do que assistido. Esqueça o julgamento e observe este grande palco que é montado para atores tão acostumados a improviso.
-
-"L'hermine" (France, 2015), escrito por Christian Vincent, dirigido por Christian Vincent, com Fabrice Luchini, Sidse Babett Knudsen, Eva Lallier, Corinne Masiero, Sophie-Marie Larrouy
-
-

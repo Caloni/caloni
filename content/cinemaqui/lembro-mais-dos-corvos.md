@@ -22,9 +22,3 @@ Nesse momento eu me lembro que deveria contar a vocês que Julia é uma transsex
 A câmera de Gustavo intimida. Ela faz zoom, ela acompanha Julia se trocando, ela pausa por um bom tempo em seu rosto. Talvez ele esteja dizendo algo aqui. Algo sobre a insistência em tentarmos dissecar um ser humano mesmo sem a menor capacidade de entender a nós mesmos? Só um chute.
 
 Uma madrugada em São Paulo e uma entrevista íntima e pessoal com Julia Katharine. Seguido de um curta de quase meia-hora de sua autoria (espero que quando estreie esteja junto também). A sensação é ter conversado a noite inteira com este ser humano talentoso em saber viver (apesar dos infortúnios) e em seguida observar uma de suas criações. É humanizar demais o Cinema. É arriscar demais se aproximar de um ser humano. Esteja avisado.
-
-
-"Lembro Mais Dos Corvos" (Brasil, 2018), escrito por Julia Katharine, Gustavo Vinagre, dirigido por Gustavo Vinagre, com Julia Katharine.
-
-
-

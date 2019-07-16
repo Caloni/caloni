@@ -24,7 +24,3 @@ O ator que faz Bruce Lee, Philip Ng, consegue aliar sua origem tradicional com s
 A trilha sonora é uma coisa marcante. Conseguindo harmonizar música de ação com belíssimas flautas ela também harmoniza com a fotografia, que exalta os mestres com luzes amarelas. Até a luz que incide sobre Wong Jack Wang no dia da luta revela que ele está dividido entre a luz e as trevas. E o que dizer das luzes que entram pelas janelas onde se passa a lendária luta do filme?
 
 Conseguindo criar tensão se haverá uma luta mesmo depois de revelada que ela acontecerá nos letreiros iniciais, A Origem do Dragão é uma grata surpresa do universo de Bruce Lee, pois não se trata totalmente de um caça-níqueis inconsequente. Há uma mensagem por trás das homenagens, referências e lutas. E ironicamente é justamente sobre isso que diziam seus firmes. Sua origem, aparentemente, é uma lição sobre a criação de sua alma. Bem ao estilo milenar chinês.
-
-"Birth of the Dragon" (China/Canada/USA, 2016), escrito por Stephen J. Rivele, Christopher Wilkinson, Michael Dorgan, dirigido por George Nolfi, com Yu Xia, Wang Xi'An, Hai Yu, Yue Wu, Billy Magnussen
-
-

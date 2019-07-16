@@ -24,7 +24,3 @@ Ao mesmo tempo que a direção de arte é belíssima sem servir ao propósito de
 O que infelizmente não nos traz nenhuma surpresa, assim como esse filme. O que acontece então é que apenas acompanhamos Sophie em sua investigação sem muito interesse e apenas aguardando os momentos que já sabemos que irão ocorrer e as reviravoltas já marcadas no mapa. Resta saborear a pipoca e comentar como aquele padre induz ao pecado. A própria Sophie usa isso a seu favor, mesmo que já estivesse claro que o padre a ajudaria. Este filme é pior que um jogo, pois em um jogo você participa de alguns desafios. Aqui o único desafio para Sophie parece ser manter o espectador da cabine de imprensa animado com um funcionário de um jornal jovem que consegue viajar a lugares exóticos e investigar casos já resolvidos.
 
 A propósito, voltando ao caso real, foi descoberto que a causa da morte da menina exorcizada foi uma overdose de adrenalina dada na ambulância. Mas é claro que este spoiler da vida real não apareceria nos créditos finais. Estragaria toda a graça do filme.
-
-"The Crucifixion" (EUA/Reino Unido/Romênia, 2017), escrito por Chad Hayes, Carey W. Hayes, dirigido por Xavier Gens, com Sophie Cookson, Corneliu Ulici, Ada Lupu.
-
-

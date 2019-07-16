@@ -20,7 +20,3 @@ Jean Dujardin (O Artista) é uma cara fácil, que traz simpatia e confiança, ma
 No entanto, a história dos dois fica como um pano de fundo muito pálido, ficando difícil entender quais as conexões com suas "profissões" ou até com suas próprias vidas. O preço que se paga em usar material de eventos históricos muitas vezes é perder aquele gancho, aquela reviravolta e aqueles elementos inseridos propositadamente pelos roteiristas. Aqui toda a história empolga, é interessante, mas não parece caminhar para nenhum lugar em específico, exceto a perseguição em si.
 
 Ganhando no título nacional o título original do filme de 1971 com Gene Hackman que se passa em Nova Iorque ("The French Connection" virou "Operação França" aqui), essa é a ponta francesa do tráfico de drogas entre França e EUA, mas não deve se tornar tão famoso quanto o filme de William Friedkin. Curiosamente, é um dos filmes franceses mais americanos, já que máfia e corrupção parece ter sido uma criação que a máfia italiana nova-iorquina e os diretores de lá nasceram fazendo.
-
-"The French Connection" (USA, 1971), escrito por Ernest Tidyman, Robin Moore, Howard Hawks, dirigido por William Friedkin, com Gene Hackman, Fernando Rey, Roy Scheider, Tony Lo Bianco, Marcel Bozzuffi
-
-

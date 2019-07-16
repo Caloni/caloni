@@ -20,7 +20,3 @@ E, se formos pensar, isso mais ou menos resume o trabalho de um médico. Nunca p
 Já nos aspectos técnicos, a escolha da trilha sonora não poderia ser pior. Centrada em músicas empolgadas, dá impressão de estarmos vivendo uma aventura, quando o drama é pesado, e nunca parece dar uma pausa. Aliás, se trata de um péssimo marcador de tempo, junto do próprio filme, que consegue dizer apenas vagamente se passou um ano ou alguns meses. Já a fotografia é belíssima, e justamente por isso não tem muito a dizer. Há um mini-discurso de Pierre resumindo seu trabalho como lutar contra a natureza. Mas o que vemos a todo momento é sua beleza em volta. Afinal de contas, é o interior da França.
 
 A verdade é que os personagens de Insubstituível não parecem se importar o suficiente para serem notados pelo espectador. A sutileza aqui dá vazão a um filme simpático e esquecível. O que é uma pena, se constatarmos que parece haver algo de muito sombrio, desgastante e deprimente na rotina de um médico, ainda mais convivendo com seus pacientes por décadas. Gostaria de ver mais uma história sobre isso, e não o drama comum da luta diária contra a força incomensurável da natureza, ganhando espaço a cada artéria aberta e a cada tumor que se espalha.
-
-"Médecin de campagne" (France, 2016), escrito por Thomas Lilti, Baya Kasmi, Thomas Lilti, Khalladi Shérazade, dirigido por Thomas Lilti, com François Cluzet, Marianne Denicourt, Christophe Odent, Patrick Descamps, Guy Faucher
-
-

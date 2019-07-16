@@ -16,9 +16,3 @@ Além disso, sobre a criação da tensão, o filme realiza uns truques soltos de
 A estrela do filme, Mélanie Thierry, faz uma personagem de uma nota só. E essa é a abordagem correta. Ela não é um ser multifacetado, rico e cheio de disposição. Ela está acabada, praticamente morta. Ela se sente morta e ao mesmo tempo lamenta não estar. O peso da consciência e da perda são demais para uma pessoa só. O espectador que se segure em sua poltrona.
 
 Este não é um fime muito empolgante. É para aqueles que topam um filme de estilo temático, quase experimental, tamanho o número de artifícios usados pelo diretor. Indo até as últimas consequências dessa tortura que lembra um pesadelo sem fim, Memórias da Dor é uma experiência angustiante recomendada apenas para os que gostam muito de cinema.
-
-
-"Memórias da Dor" (França, Bélgica, Suíça, 2017), escrito por Emmanuel Finkiel adaptado do romance de Marguerite Duras, dirigido por Finkiel, com Mélanie Thierry, Benoît Magimel, Benjamin Biolay.
-
-
-

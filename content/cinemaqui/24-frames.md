@@ -14,7 +14,3 @@ Porque uma coisa é certa: o espectador médio espera que lhe contem o que ele d
 É a criatividade que irá lhe dizer para onde vai esse filme, sobre o que ele é, qual a moral da história. Você pode pensar que este é um simulacro da realidade, já que os animais não parecem reais, mas computações muito bem desenhadas em cima de um matte paiting belíssimo, com uma fotografia tão deslumbrante, minimalista em cores (na maioria preto & branca) e que não cansamos de olhar.
 
 Você pode também pensar que tudo não passa de uma maneira de observarmos, com calma, como a realidade é uma espécie de simulacro, mas que nunca nos damos conta porque... bem, porque a vivemos todo santo dia! E se tudo que estivermos vivendo não for um filme que se passa em nossas cabeças. O que vemos no mundo se parece tanto com os frames de Kiarostami, ou são os frames dele que se parecem com a vida real? E esta é a vida real, mesmo?
-
-"24 Frames" (France/Iran, 2017), escrito por Writers, dirigido por Abbas Kiarostami, com Cast
-
-

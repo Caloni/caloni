@@ -18,7 +18,3 @@ A produção possui um encanto particular, que é usar trilha sonora apenas quan
 Aliado a isso, note como a câmera no início insiste em nos apresentar a posição dos criados como testemunhas de tudo que ocorre em família. Em determinado momento a avó de uma das jovens pede sua cadeira de urinol à mesa de jantar e começa a discursar sobre o que sua neta deve fazer para salvar seu país. A cena se torna um momento íntimo no começo, pois apenas vemos as duas à mesa, para apenas no final o plano se abrir e vermos atrás delas meia-dúzia de serviçais. As aparências de momento comum aliada a uma pomposidade da família real nos entrega a melhor dissonância com a realidade do filme.
 
 Ambientado em diversas locações apresentadas junto com a data e os eventos, "Troca de Rainhas" poderia ser uma inspirada e crítica visita a uma época onde os costumes eram muito diferentes dos atuais, mas se transforma em um diário de bordo em forma de filme com pouco ou nada a oferecer no quesito criatividade. Pelo menos é bonito.
-
-"L'échange des princesses" (França, Bélgica, 2017), escrito por Marc Dugain baseado e Chantal Thomas baseado no romance deste, dirigido por Dugain, com Lambert Wilson, Anamaria Vartolomei, Olivier Gourmet, Catherine Mouchet, Kacey Mottet Klein, Igor van Dessel, Juliane Lepoureau, Patrick Descamps, Thomas Mustin.
-
-

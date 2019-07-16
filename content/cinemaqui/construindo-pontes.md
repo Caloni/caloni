@@ -20,7 +20,3 @@ Por isso mesmo discutir política é uma atividade desgastante. E no caso do fil
 A forma de Heloísa fotografar todas essas cenas não poderia ser melhor. Dotada de mecanismos praticamente caseiros para realizar este trabalho, em nenhum momento temos a sensação de amadorismo. Isso também graças à edição dinâmica, que vai se movendo de um ponto a outro da história rapidamente, sem nos dar sequer tempo de raciocinar sobre qual é o tema. Dentro desse aspecto, se torna genial, pois emula praticamente o próprio trabalho da diretora, que vai de edição para filmagem e de filmagem para edição, sem saber onde tudo isso vai parar. Um processo que, diga-se de passagem, é ignorado pelo seu pai. E ele, por outro lado, com um discurso mais vivido, parece esconder uma certa sabedoria em suas palavras ditas com cuidado para sua filha, que por sua vez, sempre falando um tom de voz acima do dele, desconhece.
 
 Dessa forma, parece que qualquer projeto desses hoje em dia, que tente abrir feridas de discussões das mais arraigadas entre nós, tem certa chance de sucesso. Como foi em Construindo Pontes. O mérito fica todo por conta da realizadora, que colocou sua cara a tapa e revelou no processo uma realidade interessantíssima do atual momento da sociedade, que briga constantemente nas redes sociais. Trazer isso para a vida real, no seio de uma família, foi uma tarefa metalinguística no mínimo interessante.
-
-"Construindo Pontes" (Brasil, 2017), escrito por Stefanie Kremser, Heloísa Passos, Letícia Simões, dirigido por Heloísa Passos.
-
-

@@ -20,9 +20,3 @@ Mas esses são detalhes de um filme longo e cansativo dirigido pela austríaca B
 Dragus nos dá a exata sensação de alguém fora de qualquer categoria estável do mundo onde nasceu. Sua esperança era se tornar exímia pianista, mas quando ela começa a enxergar um pouco ela passa a não fazer nenhum dos dois direito. Os seus olhos se reviram de uma maneira completamente caótica, em uma mistura de paixão e passividade. Sua dor é sentida pelos seus agitados movimentos, mas ao mesmo tempo a alegria de fazer algo (tocar piano) tão bem feito.
 
 Infelizmente este é um filme disposto a descrever a História de maneira burocrática, que apenas pincela alguns comentários sociais. O resto é pura direção de arte de época, com figurinos bordados à mão e as bonitas músicas tocadas ao piano por Paradis. É bonito, mas oferece pouco aos mais ansiosos por comentários atuais sobre uma época grotesca.
-
-
-"Mademoiselle Paradis" (Áustria, Alemanha, 2017), escrito por Kathrin Resetarits adaptado do livro de Alissa Walser, dirigido por Barbara Albert, com Maria Dragus, Devid Striesow, Lukas Miko.
-
-
-

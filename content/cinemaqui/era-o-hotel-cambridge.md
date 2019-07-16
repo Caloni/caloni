@@ -20,7 +20,3 @@ Porém, além disso, a despeito do não-mostrado no filme, ele está bem aparelh
 As atuações funcionam bem porque há um clima de cenas ensaiadas, mas com pessoas reais. Sabemos que há uma atriz de verdade no grupo, o que parece levantar a moral do resto. E eles estão inspirados na fala. A preparação de elenco rivaliza com Cidade de Deus, com falas ágeis, com uma cadência natural que quem mora na cidade constataria como legitimamente paulista.
 
 Além disso, Era o Hotel Cambridge se constitui como um retrato legítimo das discussões sociais e políticas da atualidade. Sem muito jeito nem muita lógica, o apelo à emoção começa nas poesias recitadas por um refugiado do Oriente Médio e termina em um teatro de movimentos paralisados, exatamente a síntese de como militantes e ativistas se vêm: heróis imortalizados e/ou as vítimas/protegidos clássicos: os menos beneficiados pelo próprio Estado que tanto defendem.
-
-"Era O Hotel Cambridge" (France/Brazil, 2016), escrito por Luis Alberto de Abreu, Eliane Caffé, Inês Figueiró, dirigido por Eliane Caffé, com José Dumont, Paulo Américo, Suely Franco, Ibtessam Umran, Juliane Arguello
-
-

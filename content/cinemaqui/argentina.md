@@ -16,7 +16,3 @@ Este é um show que também se aproveita do roteiro ocasional, de pegar músicos
 No entanto, qual o foco aqui? Sabemos no início que há uma história por trás dessas músicas, que são folclóricas e que provavelmente muitos detalhes se perderam no tempo, nas guerras e nas gerações. Sabemos também que os artistas do filme são com certeza absoluta os maiores expoentes da música argentina. Os aspectos técnicos e artísticos são impecáveis, e algumas pequenas surpresas são aguardadas em cada performance, em especial a de um pianista que usa uma abordagem inusitada com seu piano, fazendo-nos ouvir a diferença entre cordas presas "pelo passado" e livres para ecoar no tempo. Uma reflexão que merece aplausos, assim como praticamente todos os números vistos.
 
 Mesmo sem um tema definido além de mostrar a cultura musical do interior da Argentina (mais ou menos focado na região de Zonda, perto das cordilheiras), "Argentina" é um trabalho musical e artístico primoroso, que rivaliza em precisão com Pina, de Win Wenders, e que consegue mesmo filmado em um galpão/estúdio evocar através de luzes, cores, sons e movimentos um pouco do que seria a versão modernizada de um folclore regional, mas de beleza universal.
-
-"Zonda: folclore argentino" (Argentina/France/Spain, 2015), escrito por Carlos Saura, dirigido por Carlos Saura, com Pedro Aznar, Juan Falú, Marian Farías Gómez, Gabo Ferro, Liliana Herrero
-
-

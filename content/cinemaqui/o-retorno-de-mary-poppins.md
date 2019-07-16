@@ -20,9 +20,3 @@ E essa nova sequência, que começa de forma inusitada e divertida, é mais long
 Mas isso não impede que não seja divertido. As sequências musicais passam voando. Parte disso é graças a coreografia que coloca os personagens muitas vezes deslizando e voando pelo palco. Em contrapartida, não há música à altura do tema de Mary Poppins ("uma colherada de açúcar"), e nem deveria. Ela é usada com muita sutileza como trilha sonora instrumental, e consegue manter o espírito no ar para os mais atentos.
 
 E apesar de não ser um filme sobre uma história, mas um estado de espírito, "O Retorno de Mary Poppins" tem a sua voz social e política. Enquanto a menina do original vira uma militante pelos trabalhadores o próprio núcleo da narrativa em torno das ações do banco do filme original pode ser visto como uma discussão honesta sobre onde estão nossos valores humanos quando se fala de dinheiro. E note que é quando o dinheiro vira algo impessoal, frio e cruel, que surge dos céus a postura humanista, mas nunca servil, de uma babá que precisa colocar os pingos nos i's. Seja bem-vinda novamente, Senhorita Poppins.
-
-
-"Mary Poppins Returns" (EUA, 2018), escrito por David Magee e modificado depois por ele, Rob Marshall e John DeLuca (e tudo é baseado nas histórias de Mary Poppins por P.L. Travers), dirigido por Rob Marshall, com Emily Blunt, Lin-Manuel Miranda, Ben Whishaw, Emily Mortimer, Julie Walters, Colin Firth e crianças. PS: há uma participação mais que especial de Dick Van Dyke."
-
-
-

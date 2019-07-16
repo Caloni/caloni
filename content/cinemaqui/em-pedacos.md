@@ -24,7 +24,3 @@ O trabalho do diretor Fatih Akin (que assina o roteiro com Hark Bohm) poderia mu
 No entanto, Akin brilha mais em sua direção. Multifacetado em três parte com vídeos caseiros separando o processo pelo qual uma mãe suporta e sobrevive a um luto duplo, a passagem do tempo é feita com sequências que trafegam pelo microcosmos da vida da protagonista. A câmera não corta nos momentos-chave da história, preferindo orbitar em torno de Katja/Kruger e os acontecimentos em torno dela. Isso desde o fatídico começo, onde ela deixa o filho e dá uma última olhada para a fachada onde seu marido e ele estão. Não é possível mais conseguir criar sequências imprevisíveis, e sabemos que algo irá acontecer com os dois no momento em que ela se vira. É um objetivo de Akin transformar tudo aquilo em uma narrativa pelo menos com desfecho aberto; objetivo que ele alcança do começo ao fim custe a quem custar.
 
 Em Pedaços possui um título nacional de péssimo gosto, pois implica em chamar atenção para um ataque terrorista e sua mórbida consequência. Já o título em inglês, "In the Fade", ou na penumbra, no desvanecer, faz jus ao filme e o arco de sua protagonista. Além do mais, sugere de uma maneira melancólica um possível momento em que algo está sumindo e virando fumaça aos poucos. Seria nosso senso de justiça? Mais um instigante exercício de uma obra que termina de uma maneira nada fácil, mas necessária.
-
-"In the Fade" (Alemanha/França, 2017), escrito por Fatih Akin e Hark Bohm, dirigido por Fatih Akin, com Diane Kruger, Denis Moschitto, Numan Acar.
-
-

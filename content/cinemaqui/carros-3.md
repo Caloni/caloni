@@ -22,7 +22,3 @@ A cereja no bolo é a trilha sonora de Randy Newman, que adora pontuar os sentim
 Até certo ponto esse desespero funciona. Carros 3 chega em alguns momentos em ser muito melhor que o original. Se bem que ser melhor que um drama saudosista em plena mística Rota 66 protagonizado por carros falantes acaba não sendo um desafio tão grande assim. Nada que arte e tecnologia a mais não resolvam. O que torna tudo mais ou menos irônico.
 
 PS: Por falar em ironia, a dublagem nacional conta com o corredor Rubinho Barrichello como um corredor medíocre com péssimas falas e que também está pendurando as calotas. E se você gostar muito, mas muito mesmo de Tom Math (que tem participação menor neste longa), espere até o final de todos os créditos por uma cena minúscula minúscula protagonizada por ele.
-
-"Cars 3" (USA, 2017), escrito por Brian Fee, Ben Queen, Eyal Podell, Jonathon E. Stewart, Kiel Murray, dirigido por Brian Fee, com Owen Wilson, Cristela Alonzo, Chris Cooper, Nathan Fillion, Larry Guy the Cable
-
-

@@ -18,7 +18,3 @@ A direção e narrativa (Ciro Guerra) de "O Abraço..." levam a crer que boa par
 Todas essas formas são materializadas quase em um formato de mini-teatro, onde cada novo acontecimento ocorre em um local específico da floresta. O tom preto e branco com uma saturação forte torna as noites mágicas, e os dias pálidos demais. A pintura que vemos na cara dos indígenas vira uma máscara monocromática vestida com perfeição. Questões filosóficas, como a invasão cultural, estão inseridas de maneira tão arraigada na história que é ela que define os rumos de tudo o que ocorre.
 
 Concluindo de uma maneira tão irônica quanto seu início, 40 anos atrás, "O Abraço da Serpente" é um trabalho ambicioso que mantém por boa parte do tempo a proeza do suspense eterno. Nos espantamos com quase todo novo momento, toda nova cena, todo novo personagem. Não é um filme para muitos, mas os poucos que o verem irão se sentir satisfeitos por essa viagem no tempo e espaço.
-
-"El abrazo de la serpiente" (Colombia/Venezuela/Argentina, 2015), escrito por Ciro Guerra, Theodor Koch-Grunberg, Richard Evans Schultes, Jacques Toulemonde Vidal, dirigido por Ciro Guerra, com Nilbio Torres, Jan Bijvoet, Antonio Bolivar, Brionne Davis, Yauenkü Migue
-
-

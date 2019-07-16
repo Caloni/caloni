@@ -16,7 +16,3 @@ Sim, o filme vai bem fundo nessa busca para quem entende sua proposta. Djon acab
 Para isso, voltando aos enquadramentos do filme, a paisagem beira-mar resgata a própria origem da vida, centenas de milhões atrás, e posiciona Djon como mais um elemento da natureza. E a língua portuguesa evoluída dentro de Cabo Verde exige mais legendas aos brasileiros que o próprio português de Portugal (que já é complicado), pois há palavras e expressões que perderam o vínculo com a mesma língua do novo continente, mas que misticamente mantém o seu poder expressivo dos fonemas que nós, falantes, tanto estamos habituados. É uma viagem histórica na própria origem do idioma, também.
 
 No final, temos uma tomada estática que retorna à cidade, e que por demorar demais traz um significado a mais do que o simples passar dos transeuntes. Note como o foco vez ou outra captura as pessoas indo e vindo, enquanto todo o resto permanece desfocado. A história de Djon, como pode perceber, é apenas mais uma. Nós, humanos, estamos nessa busca de nossas origens, ou quem somos, do nascimento à morte. Djon Africa é essa busca que parte do particular para o universal. E é aí que o filme transcende.
-
-"Djon Africa" (Brasil, Portugal, Cabo Verde, 2018), escrito por João Miller Guerra e Pedro Pinho, dirigido por Filipa Reis e Guerra, com Bitori Nha Bibinha, Isabel Muñoz Cardoso, Miguel Moreira.
-
-

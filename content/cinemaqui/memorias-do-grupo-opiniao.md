@@ -15,9 +15,3 @@ Quem conta a história e se vangloria do fato são eles próprios, em entrevista
 A ideia por trás do CPC é promover a arte como forma de resistência política. Essa é a visão de alguns membros, não de todos. Eles formam esse grupo logo em 64. Ele dura cinco anos, mas depois a resistência queima, se divide em dois e se dissipa. "O maior mal que a ditadura fez", diz um entrevistado, "foi separar a gente".
 
 Este é mais um daqueles registros obrigatórios do passado, está no festival É Tudo Verdade e não deve estrear em nenhum cinema. Por mais que o conteúdo seja interessante como parte da História seu formato é muito convencional e feito para home video. Seria um bom item para a coleção dos anos 60 da antologia brasileira.
-
-
-"Memórias do Grupo Opinião" (Brasil, 2019), escrito e dirigido por Paulo Thiago, com Carlos Diegues, Antonio Pitanga, Carlos Heitor Cony, Ferreira Gullar e imagens de arquivo.
-
-
-

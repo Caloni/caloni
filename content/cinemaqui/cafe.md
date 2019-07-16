@@ -18,7 +18,3 @@ A moral, aliás, de "Café", passa por alguns caminhos que simplificam a realida
 O que há de mais rico no roteiro são os detalhes. Aprendemos através deles porque cada pessoa toma decisões difíceis sobre suas vidas. O imigrante, por exemplo, sabe que não pode contar com a polícia local, cheia de preconceitos. O rapaz italiano aprende que mesmo indo morar na capital de produção de café do seu país e sendo um barista profissional ele não consegue emprego em uma indústria que está é demitindo pessoas. E o executivo chinês possui informações suficientes para entender que milhares de vidas podem estar em suas mãos caso ele escolha o lucro em vez da segurança dos trabalhadores.
 
 No entanto, como eu disse, essa janela se abre, mas é muito estreita. Difícil perceber o que o filme quer dizer com tudo isso. Sendo filmado basicamente narrando os acontecimentos e alternando entre as histórias a impressão é que não há pausa para reflexão. Todos estão agindo sob pressão imediata. A trilha sonora, de suspense, e uma câmera na mão, com cortes rápidos demais para reflexão, tornam "Café" no próprio efeito que a bebida traz, de euforia sem significado, de um alerta sem necessidade.
-
-"Caffè" (Bélgica/China/Itália, 2016), escrito por Cristiano Bortone, Annalaura Ciervo, Minghua Shi, Matthew Thompson, dirigido por Cristiano Bortone, com Dario Aita, Hichem Yacoubi, Miriam Dalmazio.
-
-

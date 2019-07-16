@@ -14,9 +14,3 @@ O documentário vai cronologicamente explicando sua trajetória, com testemunhos
 As explicações de sua arte são a melhor parte para leigos, pois tenta nos explicar o porquê dessa mulher ser tão importante para a arte moderna. Porém, o próprio conceito de arte moderna cai na contradição infinita de conseguir definir o que é arte, então há alguns exemplos de valores das obras e outros exibidores famosos, o que pode dar uma ideia mais precisa do peso de Kusama em todo o movimento.
 
 Do início ao fim convencional, mas não burocrático, pois consegue em pouco mais de uma hora expor a vida inteira de Yayoi Kusama, "Infinito" é um registro necessário dessa artista, mas que poderia ser mais criativo, já que estamos falando de um dos pilares da criação moderna.
-
-
-Kusama: Infinity (EUA, 2018), escrito por Heather Lenz, Keita Ideno, dirigido por Heather Lenz, com Yayoi Kusama.
-
-
-

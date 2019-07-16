@@ -16,9 +16,3 @@ Para o espectador leigo talvez esse não seja um programa muito agradável. A di
 A mensagem do filme parece ser que sempre existirão pessoas a defender uma abordagem marxista para a solução de seus problemas (e forçadamente dos outros que não pediram), assim como nazismo, fascismo e similares. Vira um alerta invertido: se você acha a crise de 2008 algo ruim, espere para experimentar as novidades dos neo-comunistas. Cuidado com as pílulas que você toma.
 
 PS: A sessão da Mostra de SP é gratuita (sem mais-valia) e acompanhada de dois curtas. "Um Dia na Sepultura de Karl Marx" é um relato animado na época do aniversário de 100 anos de Marx que delineiam o perfil do filósofo e nos ajudam a entender uma visão que as pessoas tinham 100 anos atrás. Já "Um Jovem Chamado Engels" é sobre o amigo/filantropo de Marx antes que os dois se conhecessem. Se trata das cartas de Engels trocadas com inúmeros amigos. É a parte mais divertida da sessão inteira.
-
-
-Marx Reloaded (Alemanha, 2011), escrito por Jason Barker, dirigido por Jason Barker, Alexandra Weltz, com Jason Barker, Michael Hardt, Toni Negri. Documentário, Karl Marx, história, filosofia, economia, política, crise 2008.
-
-
-
