@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-04-27"
 imdb: "3596952"
 title: "Maravilhoso Boccaccio"

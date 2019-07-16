@@ -1,9 +1,9 @@
 ---
 date: 2018-10-18T21:40:30-03:00
 title: "Tragam a Maconha"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "5069072"
-draft: "true"
+
 ---
 Este é um mockumentary engraçadinho, que não tem muitas pretensões de ser mais que isso. Talvez seja uma boa pedida entre sessões mais pesadas da Mostra de São Paulo para dar uma aliviada no meio de tantos dramas e críticas sociais e políticas, porque por incrível que pareça, este filme não tem nada disso.
 

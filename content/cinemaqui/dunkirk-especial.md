@@ -1,8 +1,8 @@
 ---
-draft: "true"
+
 imdb: "5013056"
 date: 2018-01-08
-categories: "cinemaqui"
+categories: "movies"
 title: "Dunkirk"
 ---
 Dunkirk, filme sobre um evento histórico do diretor Christopher Nolan, simplifica a narrativa humana buscando a essência da coletividade: o que causa um grupo ser maior que a soma dos seus indivíduos? Mas simples não quer dizer simplista, e Nolan sabe muito bem disso. Ele começa apresentando um soldado francês fugindo do exército alemão em busca de resgate. Seus colegas são mortos ou feridos nas últimas jardas onde uma operação gigantesca de retirada de tropas está sendo conduzida pelos britânicos. Não demora muito para que este indivíduo se torne apenas um no meio de milhares de anônimos em busca da sobrevivência.

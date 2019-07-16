@@ -1,8 +1,8 @@
 ---
 date: 2018-07-20T18:22:36-03:00
 title: "Hilda Hilst Pede Contato"
-categories: [ "cinemaqui" ]
-draft: "true"
+categories: [ "movies" ]
+
 ---
 "Não sei o que há, mas há principalmente o elogio fácil. Seria ótimo que os críticos falassem a verdade." - Hilda Hilst. Este filme é uma oportunidade perfeita para demonstrar a irrelevância intelectual do espiritismo, mas infelizmente, para os que ainda não conhecem a obra de Hilda Hist, esta pode ser uma péssima porta de entrada, cercada das reverências vazias e, como a própria Hilda coloca na citação, "o elogio fácil".
 

@@ -1,9 +1,9 @@
 ---
 date: 2019-04-18T18:02:12-03:00
 title: "Mormaço"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "8169178"
-draft: "true"
+
 ---
 Mormaço tem a cara da ficção do documentário Favela Olímpica. Ambos são sobre as consequências das Olimpíadas no panorama da desigual cidade do Rio de Janeiro. E ambos chegam atrasados aos cinemas, mas felizmente (ou infelizmente) sem perder a atualidade.
 

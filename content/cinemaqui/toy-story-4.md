@@ -1,9 +1,9 @@
 ---
 date: 2019-06-19T17:14:36-03:00
 title: "Toy Story 4"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "1979376"
-draft: "true"
+
 ---
 Toy Story 4 é a quebra de uma trilogia, e isso é ótimo. Chacoalhando um pouco o universo dos brinquedos mais queridos do Cinema, esta aventura possui duas virtudes bem-vindas dos longas da Pixar: boas ideias e mudanças de personagens.
 

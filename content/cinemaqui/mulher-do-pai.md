@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2017-06-13"
 imdb: "6032376"
 title: "Mulher do Pai"

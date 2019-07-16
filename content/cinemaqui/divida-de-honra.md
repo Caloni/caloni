@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2015-01-20"
 title: "Dívida de Honra"
 ---

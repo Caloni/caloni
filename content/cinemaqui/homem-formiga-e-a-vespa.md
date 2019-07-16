@@ -1,9 +1,9 @@
 ---
 date: 2018-06-27T13:41:52-03:00
 title: "Homem-Formiga e a Vespa"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "5095030"
-draft: "true"
+
 ---
 O segundo Homem-Formiga arruma os erros do primeiro e se torna uma aventura divertida e despretensiosa sem apelar para o ridículo ou a comédia fácil. Mas o humor existe, em sua melhor forma para filmes de ação: nos diálogos, e não na ação em si.
 

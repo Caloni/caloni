@@ -1,9 +1,9 @@
 ---
 date: 2018-11-01T18:07:46-02:00
 title: "Sobre Pais E Filhos"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "7519174"
-draft: "true"
+
 ---
 Sobre Pais e Filhos é o tipo de filme que o diretor já ganha nota máxima apenas por ter filmado tudo aquilo e voltar com vida, mas ele é ao mesmo tempo um trabalho narrativo impactante na medida certa e para os corações mais fortes, conseguindo realizar uma imersão completa do espectador para aquela realidade, poir mais revoltante, angustiante, insuportável e horrível que ela seja.
 

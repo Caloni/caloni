@@ -1,9 +1,9 @@
 ---
 date: 2018-03-27T21:54:54-03:00
 title: "Exorcismos e Demônios"
-categories: "cinemaqui"
+categories: "movies"
 imdb: "4181782"
-draft: "true"
+
 ---
 Exorcismos e Demônios é um filme que adota o estilo clássico de mistério que vai sendo desvendado, mas se esquece que para o espectador ficar interessado no mistério é necessário que ele de fato exista.
 

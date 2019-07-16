@@ -1,9 +1,9 @@
 ---
 date: 2018-05-03T13:49:01-03:00
 title: "A Câmera de Claire"
-categories: "cinemaqui"
+categories: "movies"
 imdb: "5989220"
-draft: "true"
+
 ---
 O que é uma foto senão um único snapshot da vida real? E se é apenas um snapshot no tempo, o seu movimento para frente é o que torna as pessoas diferentes. Só alguém muito sensível para perceber isso, e apesar de não estar inserida na história principal, A Câmera de Claire é essa "pessoa".
 

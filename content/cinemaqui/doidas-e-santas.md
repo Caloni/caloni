@@ -2,8 +2,8 @@
 imdb: "5221004"
 date: 2017-08-17T17:07:09
 title: "Doidas e Santas"
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 ---
 Doidas e Santas é um filme brega, bem brega, que usa o caminho do convencional e do preguiçoso, dando mais uma vez a entender que novelas em formato de filme soam cada vez mais antiquadas. E nesse caso é só olhar para os créditos iniciais e finais, com uma trilha sonora da programação televisiva da madrugada (ou de um bar decadente) e os letreiros em tons azuis e bordô que se torna evidente que a sala de cinema se transformou em uma máquina do tempo, que nos joga para os anos 80. Os viajantes perdem a memória após a sessão.
 

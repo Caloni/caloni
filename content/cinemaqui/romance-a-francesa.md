@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-09-29"
 imdb: "3612984"
 title: "Romance à Francesa"

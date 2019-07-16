@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2015-01-30"
 title: "A Mulher de Preto 2: O Anjo da Morte"
 ---

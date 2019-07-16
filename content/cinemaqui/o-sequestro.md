@@ -2,8 +2,8 @@
 imdb: "1458169"
 date: 2017-08-28T17:55:37
 title: "O Sequestro"
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 ---
 O Sequestro consegue caminhar por todos os clichês dos filmes do gênero sem tropeçar em nenhum deles. Na verdade ele parece que pisca para o espectador em alguns momentos, de tão óbvia a situação. É como se antes de acontecer algo imaginássemos: "aqui sempre acontece tal coisa". E quando não acontece, eis a recompensa do filme.
 

@@ -1,9 +1,9 @@
 ---
 date: 2019-02-28T16:52:06-03:00
 title: "Raiva"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "5553810"
-draft: "true"
+
 ---
 Raiva é adaptação de Seara do Vento, um livro inteiro do escritor Manuel da Fonseca, mas que no filme mais parece um conto. Inspirado em uma ocorrência real (o livro), a história no filme começa com um homem que desistiu da vida que levava. Isso é óbvio quando o vemos carregar sua arma e pular a janela de sua casa. Ele vai fazer justiça? Não sabemos. A única coisa que fica clara é que ele tem um motivo. E naquele momento não importa qual. E como descobriremos mais tarde, quando a dignidade humana é perdida os motivos não importam.
 

@@ -1,9 +1,9 @@
 ---
 date: 2019-03-13T00:38:53-03:00
 title: "Maligno"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "4504044"
-draft: "true"
+
 ---
 Para fãs de terror, "Maligno" é uma viagem que no mínimo paga o ingresso, mas vem com um final que pode deixar o pessoal mais antenado em justiça social com um gosto ruim na boca. Angustiante em alguns momentos e tenso em quase todos, ele vai te consumindo por dentro enquanto você acompanha uma história que é à prova da razão humana.
 

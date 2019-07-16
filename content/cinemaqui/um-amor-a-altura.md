@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-06-03"
 imdb: "4699388"
 title: "Um Amor à Altura"

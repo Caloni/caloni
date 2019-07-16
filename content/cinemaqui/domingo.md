@@ -1,9 +1,9 @@
 ---
 date: 2018-11-01T13:45:29-02:00
 title: "Domingo"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "9025112"
-draft: "true"
+
 ---
 É muito fácil tirar sarro da caricatura da burguesia, com sua gente alienada e auto-centrada no próprio umbigo e propriedades. Difícil é, além de tirar sarro, manter o realismo para que os personagens próprios não virem eles próprios caricaturas. "Domingo", trabalho conjunto de dois diretores, Fellipe Barbosa e Clara Linhart, seguindo o ambicioso roteiro de Lucas Paraizo, consegue realizar isso e ainda mantém várias bolas no ar, dando conta de diversos personagens enquanto tece sutilmente sua crítica social.
 

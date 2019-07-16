@@ -1,9 +1,9 @@
 ---
 date: 2018-10-23T21:37:55-02:00
 title: "O Segredo de Nápoles"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "6892206"
-draft: "true"
+
 ---
 O Segredo de Nápoles possui uma atmosfera de mistério junto de um drama pessoal que desafia nossa percepção da realidade, e seria ingênuo de nossa parte considerar verdade apenas o que pode ser provado. Afinal o que sabemos da vida está fadado a falhas e incertezas de nossa percepção.
 

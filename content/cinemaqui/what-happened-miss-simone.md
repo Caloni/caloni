@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-02-17"
 imdb: "4284010"
 title: "What Happened, Miss Simone?"

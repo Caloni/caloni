@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2017-07-01"
 imdb: "3072174"
 title: "Os Pobres Diabos"

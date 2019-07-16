@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-08-20"
 imdb: "1355631"
 title: "Conexão Escobar"

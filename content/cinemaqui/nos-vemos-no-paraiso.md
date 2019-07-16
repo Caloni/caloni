@@ -1,9 +1,9 @@
 ---
 date: 2018-06-29T15:20:34-03:00
 title: "Nos Vemos no Paraíso"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "5258850"
-draft: "true"
+
 ---
 Nos Vemos no Paraíso tem a estrutura de um conto de fantasia, ou uma peça de teatro, mas consegue espaço para expandir timidamente sua história através de cores, arte, música e ação. Muita ação.
 

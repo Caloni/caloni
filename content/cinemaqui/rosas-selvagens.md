@@ -1,9 +1,9 @@
 ---
 date: 2018-10-11T23:52:38-03:00
 title: "Rosas Selvagens"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "5774796"
-draft: "true"
+
 ---
 Wild Roses é uma combinação perigosa e sutil entre a defesa da liberdade da mulher e as regras rígidas e sem sentido da religião católica. Quer dizer, algo mais ou menos nessa linha, porque a sutileza do roteiro e atuações nos mantém sempre pouco atentos para o que o filme realmente quer dizer. Trocando em miúdos: é um filme que desperta o desinteresse pela sua heroína.
 

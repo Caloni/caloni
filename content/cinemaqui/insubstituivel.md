@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2017-02-24"
 imdb: "5078326"
 title: "Insubstituível"

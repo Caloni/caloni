@@ -1,9 +1,9 @@
 ---
 date: 2018-08-13T22:18:12-03:00
 title: "Troca de Rainhas"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "6350304"
-draft: "true"
+
 ---
 Troca de Rainhas descreve um momento pontual e peculiar da história da monarquia, de maneira burocrática, estática, quase parando. Os eventos se sucedem lentamente e seus personagens já sabem automaticamente o que fazer, pois "assim está escrito". Sim, são as tradições os verdadeiros monarcas: rituais que ordenam que crianças se casem para evitar guerras desnecessárias. As tradições atravessaram séculos imunes, sob as maiores adversidades, e sabem mais que qualquer rei ou rainha que já passou pela coroa o que deve ser feito.
 

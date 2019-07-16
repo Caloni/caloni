@@ -2,8 +2,8 @@
 imdb: "3519048"
 date: 2017-11-04T00:05:03
 title: "Olhando Para As Estrelas"
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 ---
 Olhando para as Estrelas é um filme fofinho que não parece enxergar dificuldades, apenas facilidades. Com isso ele perde um potencial drama da vida real, ou troca pela visão de um mundo de sonhos, onde tudo é possível. Mas se tudo é possível tão "fácil" assim, qual a graça da conquista?
 

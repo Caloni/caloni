@@ -1,9 +1,9 @@
 ---
 date: 2018-07-13T15:56:36-03:00
 title: "Ilha dos Cachorros"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "5104604"
-draft: "true"
+
 ---
 Ilha dos Cachorros é um filme que explora várias ideias adultas sobre o formato de odisseia infantil. Para os fãs de Wes Anderson e sua mente criativa e plástica pode-se dizer com segurança que está tudo ali. Temos as texturas magníficas e coloridas que dá vontade de colecionar, os planos chapados que lembram as páginas de um livro infantil e, meu deus, essa é, assim como "O Fantástico Sr. Raposo", uma animação! Provavelmente não haverá nada no design de produção que te deixe insatisfeito, pois cada quadro é um deleite de se ver, e muitos demonstram seu significado através de cores e formas.
 

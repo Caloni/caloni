@@ -2,8 +2,8 @@
 imdb: "5954462"
 date: 2017-12-02T00:56:06
 title: "Lumière! A Aventura Começa"
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 ---
 "Lumière! A Aventura Começa" entra nos arquivos dos inventores do cinematógrafo para descobrir onde surgiu o Cinema. Sim, porque a criação dos irmãos Lumière, assim como o cinetoscópio de Thomas Edison, ou qualquer outra invenção maluca da época, não era muito mais que isso: uma invenção maluca. Um entretenimento qualquer. E uma das muitas aventuras que estavam por vir no século seguinte.
 

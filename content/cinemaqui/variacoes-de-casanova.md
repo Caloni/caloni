@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2017-04-11"
 imdb: "2614400"
 title: "Variações de Casanova"

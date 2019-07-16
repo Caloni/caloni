@@ -1,8 +1,8 @@
 ---
 date: 2019-06-19T16:46:01-03:00
 title: "Blitz"
-categories: [ "cinemaqui" ]
-draft: "true"
+categories: [ "movies" ]
+
 ---
 No início de Blitz nos é informado que o roteiro foi adaptado (ou inspirado) em uma peça de teatro, mas a sensação é que não houve adaptação alguma, pois este filme é muito mais teatro, daqueles pesadões reflexivos, e menos Cinema, com seu dinamismo narrativo.
 

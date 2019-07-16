@@ -2,8 +2,8 @@
 imdb: "0460890"
 date: 2017-11-29T23:29:38
 title: "Apenas um Garoto em Nova York"
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 ---
 A sensação de Apenas um Garoto em Nova York é parecida com tantos outros. Uma mistura de drama social com romance misterioso. Com uma femme fatale mais realista. E uma relação familiar problemática. Relações de poder que são fachadas sociais... e no topo de tudo isso, um garoto tentando fazer a coisa certa. Quer dizer, pelo menos enquanto ele acredita existir a coisa certa. Ah, e o seu narrador, que o conhece tão profundamente que "seu" garoto parece ser o personagem para o qual seu livro foi criado.
 

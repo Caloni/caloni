@@ -1,8 +1,8 @@
 ---
 date: 2019-03-26T16:46:57-03:00
 title: "Memórias do Grupo Opinião"
-categories: [ "cinemaqui" ]
-draft: "true"
+categories: [ "movies" ]
+
 ---
 Memórias do Grupo Opinião é exatamente o que você terá nesse filme. O que é um pouco frustrante, diga-se de passagem. Bons documentários costumam trazer uma surpresa por trás de sua premissa.
 

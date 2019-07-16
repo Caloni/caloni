@@ -1,9 +1,9 @@
 ---
 date: 2018-12-13T12:39:21-02:00
 title: "O Retorno de Mary Poppins"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "5028340"
-draft: "true"
+
 ---
 A Disney vem realizando alguns esforços duvidosos em resgatar para live action (com atores de carne e osso) praticante todos seus clássicos de animação, um a um. Já em O Retorno de Mary Poppins o filme original já é "de verdade", e seu maior desafio é nos entregar mais uma vez essa união impossível entre o lúdico e o sóbrio. Bom, se tem algo que Walt Disney sempre nos ensinou é que para ele, e para a Senhorita Poppins, até o impossível é possível.
 

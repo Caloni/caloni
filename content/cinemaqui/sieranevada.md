@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-11-30"
 imdb: "4466490"
 title: "Sieranevada"

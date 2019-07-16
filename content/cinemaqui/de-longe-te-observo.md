@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-07-16"
 imdb: "4721400"
 title: "De Longe Te Observo"

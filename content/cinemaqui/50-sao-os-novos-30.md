@@ -1,9 +1,9 @@
 ---
 date: 2018-08-28T15:28:22-03:00
 title: "50 São os Novos 30"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "6081632"
-draft: "true"
+
 ---
 Pegando carona na lista de filmes sobre as diferenças das idades nos tempos atuais, "50 São os Novos 30" é uma comédia que aproveita sua protagonista para criar situações desconexas que existem para o riso fácil e descompromissado. O problema é que nem sempre é engraçado.
 

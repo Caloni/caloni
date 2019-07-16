@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2017-05-18"
 imdb: "1610525"
 title: "Punhos de Sangue"

@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-12-20"
 imdb: "5168192"
 title: "Eu, Daniel Blake"

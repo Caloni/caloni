@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-03-11"
 imdb: "1365050"
 title: "Beasts of No Nation"

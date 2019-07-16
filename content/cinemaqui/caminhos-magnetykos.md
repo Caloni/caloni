@@ -1,9 +1,9 @@
 ---
 date: 2018-10-22T20:49:24-02:00
 title: "Caminhos Magnétykos"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "5262162"
-draft: "true"
+
 ---
 A esquerda política está bêbada e isso é ótimo. Em Caminhos Magnétykos a mistura de emoções através de uma distopia opressora nos oferece uma viagem extra-sensorial pelas perdas do passado e a esmagadora realidade do presente. Essa é a forma artística de uma ideologia conseguir se lamentar e se perguntar: onde foi que erramos?
 

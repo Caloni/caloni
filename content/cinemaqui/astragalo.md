@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-03-07"
 imdb: "3712088"
 title: "Astrágalo"

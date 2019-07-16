@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2017-02-14"
 imdb: "5812510"
 title: "BugiGangue no Espaço"

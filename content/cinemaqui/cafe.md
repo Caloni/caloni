@@ -1,9 +1,9 @@
 ---
 date: 2018-08-01T15:42:28-03:00
 title: "Café"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "4947672"
-draft: "true"
+
 ---
 "Café" é como se uma pequena janela se abrisse para o mundo e nós pudéssemos dar uma espiada em três histórias simples ligadas apenas pelo commoditie que leva o nome do filme. Não se trata de nada profundo, mas perene, pois apela para nossos sentimentos de tradição, nostalgia e esperança, uma tríade que nunca sai de moda. Como o próprio café, por exemplo.
 

@@ -1,9 +1,9 @@
 ---
 date: 2018-07-05T17:26:26-03:00
 title: "O Orgulho"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "6462462"
-draft: "true"
+
 ---
 Para um filme que fala sobre retórica, "O Orgulho" é bem fraquinho, embora o orgulho mesmo, esse sentimento poderoso (para o bem e para o mal) é devidamente apresentado na forma de jogo de palavras. Já o filme, convencional do começo ao fim, nunca se permite levar a sério qualquer uma das questões que ele levanta, se colocando no lugar-comum dos filmes que exaltam a dinâmica professor/aluno ou mestre/pupilo. Mesmo que o mestre seja um idiota.
 

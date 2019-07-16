@@ -2,8 +2,8 @@
 imdb: "7230476"
 date: 2017-12-08T23:21:05
 title: "Pela Janela"
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 ---
 Pela Janela é um pequeno retrato de uma realidade que bate pesado no começo e que aos poucos vai nos alimentando de uma esperança no vazio, na lembrança, na memória. O ser humano é uma coisa curiosa. Sua vida certinha e ajeitada por décadas pode desabar a qualquer instante. Seu chão pode ruir. E mesmo assim, o tempo parece magicamente curar tudo.
 

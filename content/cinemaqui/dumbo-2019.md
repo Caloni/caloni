@@ -1,9 +1,9 @@
 ---
 date: 2019-03-22T14:15:48-03:00
 title: "Dumbo"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "3861390"
-draft: "true"
+
 ---
 A vida dá voltas, e enquanto Dumbo de 1941 foi feito como uma tentativa de manter os estúdios Disney de pé durante a Segunda Guerra (conseguiu), este Dumbo de 2019 surge em um momento em que o próprio estúdio de cinema se assemelha a um elefante depois de adquirir duas franquias de produções caras e com enorme bilheteria (super-heróis da Marvel e neo-nerds do Star Wars). Empreendimento pesado demais para decolar, $ua$ grande$ orelha$ tentam agora alçar voo convertendo todo seu legado de animações em produções live-action com o uso dos milagres da computação gráfica.
 

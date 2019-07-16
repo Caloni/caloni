@@ -1,9 +1,9 @@
 ---
 date: 2019-02-22T19:29:20-03:00
 title: "O Silêncio dos Outros"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "8099236"
-draft: "true"
+
 ---
 O Silêncio dos Outros é um documentário necessário, mas com final amargo quando constatamos o quão dura e lenta é a luta por justiça.
 

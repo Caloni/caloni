@@ -1,9 +1,9 @@
 ---
 date: 2018-10-15T15:07:22-03:00
 title: "José"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "6933338"
-draft: "true"
+
 ---
 Faço uma observação a respeito do pano de fundo de "José": há três ou quatro passagens bíblicas sobre homossexualidade como um ato condenável aos olhos de Deus. Espalhadas no Antigo e Novo Testamento, elas estavam mais ou menos perdidas antes dos protestantes atuais, os evangélicos, interpretarem toda a Bíblia como leis escritas em pedra para todo o sempre. Pelo teor dessas citações elas poderiam muito bem ser contra o ato de luxúria em si, um motivo suficiente entre os heterossexuais para condená-los pela fúria divina. Por que ser gay teria um peso especial no julgamento divino? Simplesmente não faz sentido, mas o que não quer dizer que não há um peso negativo em uma sociedade que segue tais leis.
 

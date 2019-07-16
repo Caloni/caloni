@@ -2,8 +2,8 @@
 date: 2018-02-20T01:28:30
 imdb: "1659619"
 title: "A Odisseia"
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 ---
 Apesar de pertencer ao imaginário como o sonho da exploração marítima sendo realizado, esta não é uma história feliz. Sacrifícios serão feitos por paixão, colocando uma família em xeque. Além disso, muitas das motivações dos personagens são prenchidas pelas suas versões ficcionais desta história real, de onde o plano geral foi obtido do que é de conhecimento comum (livros) a respeito da carreira do aventureiro Jacques-Yves Cousteau e sua família. Porém, apesar de tudo isso, temos aí uma romantização que deu certo, que atravessa problemas graças a atuações inspiradas e uma direção mais ainda.
 

@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2017-02-16"
 imdb: "1254322"
 title: "A Jovem Rainha"

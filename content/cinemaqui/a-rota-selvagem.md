@@ -1,9 +1,9 @@
 ---
 date: 2018-10-17T22:50:20-03:00
 title: "A Rota Selvagem"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "5340300"
-draft: "true"
+
 ---
 A Rota Selvagem pode parecer simples pelas suas premissas tantas vezes explorada. O garoto que se identifica com um cavalo prestes a ser vendido e abatido por não servir para sua função é exatamente o que o diretor/roteirista inglês Andrew Haigh precisa para materializar o sonho americano em seu formato mais cru, tendo como seu herói uma mente jovem e sem preconceitos. E o resultado é devastador, e seria ainda mais, se não fosse o jeito americano de fazer filmes.
 

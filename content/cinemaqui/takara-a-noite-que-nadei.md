@@ -1,9 +1,9 @@
 ---
 date: 2018-08-16T22:04:59-03:00
 title: "Takara: A Noite que Nadei"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "7336012"
-draft: "true"
+
 ---
 Largue essa pressa e esse jeito adulto de ser. "Takara - A Noite que Nadei", apesar de curto, é lento. Bem lento. Isso porque ele parece explorar o tédio através dos olhos de uma criança, ao mesmo tempo que se transforma em um conto para refletirmos sobre liberdade nas mãos de uma criança.
 

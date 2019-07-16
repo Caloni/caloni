@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2017-07-04"
 imdb: "5657776"
 title: "Fala Comigo"

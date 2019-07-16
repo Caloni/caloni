@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2015-04-19"
 title: "A vida privada dos hipopótamos"
 ---

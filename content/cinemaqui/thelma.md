@@ -2,8 +2,8 @@
 imdb: "6304046"
 date: 2017-11-16T01:06:11
 title: "Thelma"
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 ---
 Thelma é uma gostosa revisita ao mundo do thriller de "Carrie, a Estranha" (o original de Brian de Palma), que discute religião com um certo distanciamento e compreensão. Atualizado conforme manda o figurino, temos no pacote discussões sobre sexualidade, autoridade e gnosticismo. E em cima disso tudo um possível arcabouço crítico por cima da sociedade atual.
 

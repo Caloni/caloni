@@ -1,9 +1,9 @@
 ---
 date: 2018-10-22T22:24:34-02:00
 title: "A Costureira dos Sonhos"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "7142506"
-draft: "true"
+
 ---
 A Costureira dos Sonhos é a clássica história de patrão e empregada sob a dinâmica indiana, com suas castas e regras sociais rígidas. É uma história que avança sutilmente e nos deixa se acostumar com sua heroína aos poucos, embora ela não tenha tanta sutileza assim.
 

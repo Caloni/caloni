@@ -1,9 +1,9 @@
 ---
 date: 2019-02-07T22:22:16-02:00
 title: "Dogman"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "6768578"
-draft: "true"
+
 ---
 Não me lembro de um filme que conte a história do cúmplice em vez do bandido. Fraco moralmente, agindo nas sombras dos poderosos, o cúmplice é visto como um sub-humano; a escória da sociedade. Mas em Dogman ele é o protagonista. O inesperado e tardio herói de uma comunidade à beira do nada. E é no nada que os bullies atacam. Munidos do excesso de músculos no braço e falta de massa cinzenta no cérebro, os mais fortes usam a lei da física a seu favor. Mas mais do que isso: usam a lei do medo.
 

@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-12-07"
 imdb: "2582782"
 title: "A Qualquer Custo"

@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-07-05"
 imdb: "3577624"
 title: "Um Dia Perfeito"

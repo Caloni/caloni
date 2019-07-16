@@ -2,8 +2,8 @@
 imdb: "6368132"
 date: 2017-09-18T21:32:29
 title: "Pendular"
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 ---
 Pendular possui alguns simbolismos, algum conflito, algumas situações. E nada disso parece fornecer pistas suficientes para entender o que está acontecendo. Bonito por bonito, temos uma obra vazia e incoerente. Justamente o que seus idealizadores parecem buscar. Uma das primeiras falas do filme deixam isso claro: "f***-se a coerência".
 

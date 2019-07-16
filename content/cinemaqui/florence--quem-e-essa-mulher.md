@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-06-10"
 imdb: "4136084"
 title: "Florence - Quem é Essa Mulher?"

@@ -1,9 +1,9 @@
 ---
 date: 2018-04-09T14:57:39-03:00
 title: "Todo Clichê do Amor"
-categories: "cinemaqui"
+categories: "movies"
 imdb: "5607038"
-draft: "true"
+
 ---
 Tenho o prazer desta vez de poder falar sobre um filme nacional que não dependeu de quaisquer incentivos públicos, produzido de forma completamente independente. E se fazer arte é um ato político, a produção de Todo Clichê do Amor diz muito mais sobre a época que vivemos do que qualquer manifestação na Paulista.
 

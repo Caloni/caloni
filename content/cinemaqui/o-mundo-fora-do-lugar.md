@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2017-03-28"
 imdb: "3790172"
 title: "O Mundo Fora do Lugar"

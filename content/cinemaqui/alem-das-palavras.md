@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2017-04-05"
 imdb: "2392830"
 title: "Além das Palavras"

@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-04-30"
 imdb: "4598764"
 title: "Nós, Eles e Eu"

@@ -1,9 +1,9 @@
 ---
 date: 2019-06-03T14:01:12-03:00
 title: "Deslembro"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "8900098"
-draft: "true"
+
 ---
 Deslembro começa deslumbrando com seu nome, um trocadilho simpático e até poético sobre o desmembramento de uma família, o esquecimento de quem fomos e as ambiguidades dos idiomas românicos, como o português, o francês e o espanhol.
 

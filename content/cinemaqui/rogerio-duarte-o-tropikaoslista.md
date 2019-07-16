@@ -1,8 +1,8 @@
 ---
 date: 2018-04-18T16:34:59-03:00
 title: "Rogério Duarte, o Tropikaoslista"
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 ---
 A poesia é a pedra no meio do caminho entre a música e a palavra. Rogério Duarte
 

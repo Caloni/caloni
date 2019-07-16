@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2015-01-08"
 title: "Amor, Plástico e Barulho"
 ---

@@ -1,9 +1,9 @@
 ---
 date: 2018-03-28T18:45:47-03:00
 title: "Construindo Pontes"
-categories: "cinemaqui"
+categories: "movies"
 imdb: "7368464"
-draft: "true"
+
 ---
 O ditado popular reza que futebol, religião e política não se discute. Discordo. Porém, ainda que seja necessário discutir todo e qualquer tema, acho difícil alguém discordar, incluindo os participantes de Construindo Pontes, que discutir política é de longe a atividade mais extenuante de todas.
 

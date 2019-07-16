@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2017-04-25"
 imdb: "6096528"
 title: "Elon Não Acredita na Morte"

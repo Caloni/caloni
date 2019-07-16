@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-04-07"
 imdb: "3014866"
 title: "Mente Criminosa"

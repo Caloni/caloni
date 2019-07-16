@@ -1,9 +1,9 @@
 ---
 date: 2019-03-13T17:15:56-03:00
 title: "Um Ato de Esperança"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "6040662"
-draft: "true"
+
 ---
 Dramas no tribunal costumam chamar a atenção do espectador automaticamente. É do interesse humano querer saber qual será o destino das pessoas envolvidas. Quando é sobre um crime ou casos de família o interesse é maior. Dentro dessa ótica, filmes como Um Ato de Esperança já sai na vantagem logo na largada.
 

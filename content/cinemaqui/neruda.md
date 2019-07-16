@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-12-12"
 imdb: "4698584"
 title: "Neruda"

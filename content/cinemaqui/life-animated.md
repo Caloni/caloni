@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2017-02-25"
 imdb: "3917210"
 title: "Life, Animated"

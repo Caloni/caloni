@@ -2,8 +2,8 @@
 imdb: "1959563"
 date: 2017-08-24T17:47:41
 title: "Dupla Explosiva"
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 ---
 Dupla Explosiva pega carona na atmosfera cômica e absurda de Dois Caras Legais (Shane Black, 2016) e se dá muito bem com isso. O resultado é um filme de ação que consegue ser tenso com uma história que nos envolva, protagonizado por personagens carismáticos.
 

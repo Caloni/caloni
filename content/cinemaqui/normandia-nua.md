@@ -1,9 +1,9 @@
 ---
 date: 2019-01-15T14:40:42-02:00
 title: "Normandia Nua"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "6923840"
-draft: "true"
+
 ---
 Normandia Nua é uma comédia dramática que tenta abordar vários temas sob vários pontos de vista ao mesmo tempo. Ela não nos faz pensar muito nos temas, já que a todo momento nos identificamos com esse ou aquele ponto de vista, mas traça um panorama surpreendentemente rico para uma história sem muitas pretensões.
 

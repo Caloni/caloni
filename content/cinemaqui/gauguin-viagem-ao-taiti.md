@@ -1,9 +1,9 @@
 ---
 date: 2018-08-17T15:32:12-03:00
 title: "Gauguin: Viagem ao Taiti"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "6330052"
-draft: "true"
+
 ---
 A passagem de Gauguin pela Polinésia não é apenas a história de um homem do mundo moderno indo resgatar sua origem selvagem, mas um artista buscando entender sobre as perdas envolvidas nesta transição.
 

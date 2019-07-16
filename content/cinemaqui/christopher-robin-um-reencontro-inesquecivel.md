@@ -1,9 +1,9 @@
 ---
 date: 2018-08-08T22:24:04-03:00
 title: "Christopher Robin: Um Reencontro Inesquecível"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "4575576"
-draft: "true"
+
 ---
 Faz quanto tempo que você não tira férias? Acha normal isso? "Christopher Robins: Um Reencontro Inesquecível" chega aos cinemas afirmando que não, não é normal. Trabalhar sem descanso é uma morte lenta, uma hibernação forçada enquanto as coisas boas da vida ficam esperando para sempre. Ursinho Pooh nos faz lembrar de maneira bem humorada, despretensiosa e despreocupada do poder do ócio e de como é importante no dia a dia lembrar do que valorizamos mais.
 

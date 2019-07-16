@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-02-12"
 title: "Orgulho e Preconceito e Zumbis"
 ---

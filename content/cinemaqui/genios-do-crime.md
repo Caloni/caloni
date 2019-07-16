@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-08-10"
 imdb: "2461150"
 title: "Gênios do Crime"

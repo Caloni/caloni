@@ -2,8 +2,8 @@
 imdb: "6288250"
 date: 2017-11-18T20:59:14
 title: "Patti Cake$"
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 ---
 Patti Cake$ poderia ser facilmente resumido como uma mistura entre "Preciosa: Uma História de Esperança" (Lee Daniels, 2009) e "8 Mile: Rua das Ilusões" (Curtis Hanson, 2002), e qualquer um que tenha assistido a esses dois longas irá se identificar com o drama dos jovens artistas anônimos nas periferias das cidades grandes, rejeitados automaticamente pelas autoridades locais como vagabundos perdidos na sociedade.
 

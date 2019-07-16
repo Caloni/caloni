@@ -1,9 +1,9 @@
 ---
 date: 2018-10-17T22:08:00-03:00
 title: "Guerra Fria"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "6543652"
-draft: "true"
+
 ---
 Guerra Fria é o tipo de filme que acerta em tantos níveis que se torna injusto tentar resumir todas essas camadas de uma só vez. Porém, podemos dizer que obras sobre essa época tenebrosa que o título confessa geralmente usam apenas a atmosfera conspiracionista para se estabelecer e se esquecem de como as pessoas viviam na época. Felizmente o novo filme de Pawlikowski está concentrado na natureza humana de maneira tão intensa que o resultado é uma síntese brilhante do que significou uma era.
 

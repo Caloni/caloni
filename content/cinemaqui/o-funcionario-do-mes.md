@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-08-11"
 imdb: "5290524"
 title: "O Funcionário do Mês"

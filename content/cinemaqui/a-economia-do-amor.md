@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-11-21"
 imdb: "4746484"
 title: "A Economia do Amor"

@@ -1,9 +1,9 @@
 ---
 date: 2019-03-25T18:15:36-03:00
 title: "António Um Dois Três"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "6275840"
-draft: "true"
+
 ---
 "António Um, Dois, Três" é um filme simpático de se ver. Você vai acompanhando a historinha e quando menos espera está assistindo a mais um filme sobre criação artística.
 

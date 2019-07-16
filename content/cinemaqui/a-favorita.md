@@ -1,9 +1,9 @@
 ---
 date: 2018-10-18T21:50:12-03:00
 title: "A Favorita"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "5083738"
-draft: "true"
+
 ---
 A Favorita é um filme de época da realeza, mas filmado frequentemente com uma câmera olho de peixe e sempre de um ângulo baixo em longuíssima corredores, essa é uma abordagem fantasiosa, quase surreal. Mas nada é mais surreal nessa época do que os próprios acontecimentos em torno da rainha, que pra variar é uma pessoa doente cercada de parasitas.
 

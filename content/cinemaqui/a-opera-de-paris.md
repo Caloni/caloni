@@ -2,8 +2,8 @@
 imdb: "6599064"
 date: 2017-11-24T18:31:36
 title: "A Ópera de Paris"
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 ---
 Eu não entendo muito o conceito de ópera. Nem de balé. Representações caríssimas de uma história que nos faz voltar a uma época antes do Cinema, da TV e da internet pelo bem da manutenção de uma cultura considerada erudita já há muito tempo me parece um gasto desnecessário de recursos públicos. E claro que são recursos públicos. Ou você achou que alguém pagaria de livre e espontânea vontade por um espetáculo desses? E como em um momento é dito em A Ópera de Paris, há um jogo de interesses por trás da decisão de flutuar o preço entre cerca de 300 euros ou 150. E quando a discussão gira em torno de um ingresso mais "barato" de 150 euros, talvez seja a hora de abrir uma nova discussão: a de prioridades nos gastos do dinheiro dos outros.
 

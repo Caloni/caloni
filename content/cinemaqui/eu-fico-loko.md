@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-12-13"
 imdb: "5968964"
 title: "Eu Fico Loko"

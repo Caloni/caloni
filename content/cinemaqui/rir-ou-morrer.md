@@ -1,9 +1,9 @@
 ---
 date: 2018-10-23T22:44:31-02:00
 title: "Rir ou Morrer"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "7220696"
-draft: "true"
+
 ---
 Rir ou Morrer é um filme bobinho que encontra sua graça nos fiapos de personagens que vemos, baseados bem por cima em fatos reais que ocorreram durante a primeira guerra. Ironicamente é sua leveza que nos deixa imunes ao que pode acontecer com seus heróis.
 

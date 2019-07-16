@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-09-23"
 imdb: "1974419"
 title: "Demônio de Neon"

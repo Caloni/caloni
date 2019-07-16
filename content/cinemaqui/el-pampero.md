@@ -2,8 +2,8 @@
 imdb: "4210344"
 date: 2017-10-11T19:31:27
 title: "El Pampero"
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 ---
 Um homem cansado de sofrer com sua doença aceita seu destino e parte para o mar. Uma mulher acuada diante das circunstâncias tenta fugir do destino. Quando um policial entra na história o que está flutuando em águas calmas vai aos poucos se agitando, conforme a tempestade vem chegando. El Pampero, ou "O Mimo", é o encontro tenso e dramático em uma paisagem entre duas fronteiras (Argentina e Uruguai), e onde as regras são frouxas o suficiente para questionarmos se tudo aquilo não é uma metáfora para a vida.
 

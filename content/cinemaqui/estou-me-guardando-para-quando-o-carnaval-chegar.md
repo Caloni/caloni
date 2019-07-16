@@ -1,9 +1,9 @@
 ---
 date: 2019-07-09T23:31:50-03:00
 title: "Estou Me Guardando Para Quando O Carnaval Chegar"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "10240438"
-draft: "true"
+
 ---
 Estou Me Guardando Para Quando o Carnaval Chegar é daqueles documentários com nome longo e história curta. O nome longo foi tomado da música de Chico Buarque e a história curta das lembranças de Marcelo Gomes, diretor do filme.
 

@@ -1,9 +1,9 @@
 ---
 date: 2019-04-26T15:52:51-03:00
 title: "Mademoiselle Paradis"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "5584756"
-draft: "true"
+
 ---
 Mademoiselle Paradis segue a cartilha dos filmes de época, mas não deveria. O filme é muito mais do que isso, abordando temas como etiqueta e a dualidade entre ser medíocre em tudo ou sacrificar uma vida para ser algo pelo qual será lembrada.
 

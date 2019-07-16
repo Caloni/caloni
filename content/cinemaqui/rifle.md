@@ -1,9 +1,9 @@
 ---
 imdb: "3476694"
 date: 2017-07-26T16:56:50
-categories: "cinemaqui"
+categories: "movies"
 title: "Rifle"
-draft: "true"
+
 ---
 Rifle poderia ser chamado de exercício de futilidade, mas quem faz exercício tem o objetivo de melhorar. E não é isso que vemos no filme. Nele há altos e baixos que poderiam sugerir alguma linha de pensamento. O espectador anseia por significado. Mas no final fica claro que tudo não passa de uma grande bobagem.
 

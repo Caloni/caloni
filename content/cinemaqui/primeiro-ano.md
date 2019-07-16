@@ -1,9 +1,9 @@
 ---
 date: 2019-02-15T16:02:23-02:00
 title: "Primeiro Ano"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "6690004"
-draft: "true"
+
 ---
 Quero que imagine uma cena: há poucos minutos de começar um exame importantíssimo na vida deles, dois amigos massageiam a carótida um do outro, uma artéria que irriga o cérebro, para que seus batimentos cardíacos diminuam e assim possam realizar a prova com mais calma. Esse é o momento de Primeiro Ano onde nada mais importa. Não há diferenças, não há concorrência, não há individualismo. Duas almas em uníssono buscando o bem maior por si só.
 

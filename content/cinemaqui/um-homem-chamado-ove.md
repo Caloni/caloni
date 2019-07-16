@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2017-02-04"
 imdb: "4080728"
 title: "Um Homem Chamado Ove"

@@ -1,9 +1,9 @@
 ---
 date: 2018-08-01T15:56:07-03:00
 title: "O Animal Cordial"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "5126274"
-draft: "true"
+
 ---
 O Animal Cordial é um laboratório humano. Seu título já é uma contradição em termos, e durante todos os tensos 93 minutos do filme vamos encontrando o animal dentro do homem, mas nunca o cordial. Isso porque vivemos em tempos estranhos, onde a imaginação sobre o ódio atinge níveis utópicos, e nos transforma em indivíduos lutando por um espaço.
 

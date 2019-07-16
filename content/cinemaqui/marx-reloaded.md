@@ -1,9 +1,9 @@
 ---
 date: 2018-10-31T11:16:34-02:00
 title: "Marx Reloaded"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "1884351"
-draft: "true"
+
 ---
 Marx Reloaded já é um filme antigo (de 2011), sobre os 200 anos de nascimento de Karl Marx, o economista/sociólogo/filósofo criador da ideologia que mais matou seres humanos em massa na história da humanidade. É curioso como o nível de intelectualização do pensador está diretamente proporcional à sua concordância com marxismo/comunismo como algo viável e inversamente proporcional à realidade no planeta Terra e da própria natureza humana.
 

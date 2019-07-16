@@ -1,9 +1,9 @@
 ---
 date: 2018-04-26T13:19:57-03:00
 title: "Todos os Paulos do Mundo"
-categories: "cinemaqui"
+categories: "movies"
 imdb: "7633052"
-draft: "true"
+
 ---
 Existia uma aura em mim que me dizia que o ator Paulo José era uma grande persona, e uma versão mais velha do Seu Jorge, uma figura que parece presente em todos os momentos importantes da cinematografia nacional (e até mundial). Se você também tem este grande apreço por este grande ator, não indico assistir a Todos os Paulos do Mundo, uma pseudo-homenagem inglória que perde em ritmo a mesma quantidade do que perde em brilho sobre quem foi, é e será Paulo José em nossas memórias.
 

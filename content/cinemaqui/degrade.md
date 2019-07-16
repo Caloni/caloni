@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2017-05-19"
 imdb: "4429074"
 title: "Degradê"

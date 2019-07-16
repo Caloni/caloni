@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2015-04-22"
 title: "Cake: Uma Razão para Viver"
 ---

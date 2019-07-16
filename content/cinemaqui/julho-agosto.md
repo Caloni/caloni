@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2017-07-05"
 imdb: "5078158"
 title: "Julho Agosto"

@@ -1,9 +1,9 @@
 ---
 date: 2018-07-25T16:09:45-03:00
 title: "O Nome da Morte"
-categories: [ "cinemaqui" ]
+categories: [ "movies" ]
 imdb: "5991954"
-draft: "true"
+
 ---
 O cinema nacional percorreu um longo caminho desde A Cidade de Deus, um filme que explorava o ambiente miserável, violento e corrompido de uma sociedade que ainda mantinha certa fé religiosa que lhes "garantisse" alguma forma de proteção, mesmo que alguns membros dessa sociedade fossem assassinos sanguinários. Agora O Nome da Morte chega como um eco dissonante, que vem meio torto, mas que pelas suas virtudes técnicas, igualmente impecáveis, especialmente a fotografia, lembra como aos trancos e barrancos o cinema brasileiro se desenvolveu através das décadas a ponto disso se tornar algo comum, e mostra também que a discussão sobre a pobreza, violência e corrupção pode adquirir diferentes formas, mas que se mantém firme e forte como um mecanismo simbólico de estudo social rico e fascinante.
 

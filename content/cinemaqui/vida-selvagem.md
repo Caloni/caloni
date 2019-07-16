@@ -1,6 +1,6 @@
 ---
-categories: "cinemaqui"
-draft: "true"
+categories: "movies"
+
 date: "2016-06-09"
 imdb: "3480164"
 title: "Vida Selvagem"
