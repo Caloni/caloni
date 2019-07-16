@@ -11,7 +11,7 @@
     {{ partial "navbar-hero.html" . }}
 
     {{ partial "list_begin.html" . }}
-    <p>Se quiser realizar uma busca com mais parâmetros vá na página com <a href="/search">todos os detalhes dos posts</a> (carregamento mais pesado). Outra opção é buscar direto no <a href="https://www.google.com/search?as_sitesearch=caloni.com.br">Google</a></p>
+    <p>Se quiser realizar uma busca com mais parâmetros vá na página com <a href="/search">todos os detalhes dos posts</a> (carregamento mais pesado).</p>
     {{ range .Site.RegularPages }} <tr><td> <a href="{{ .Permalink }}">{{ .Title }}</a> </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
