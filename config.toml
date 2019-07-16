@@ -1,20 +1,13 @@
 baseURL = "http://www.caloni.com.br/"
-languageCode = "en-us"
+languageCode = "pt-br"
 title = "Blogue do Caloni"
 theme = "capsule"
-disqusShortname = "caloni"
-ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
-preserveTaxonomyNames = true
-footnotereturnlinkcontents = "?"
-enableGitInfo = true
-googleAnalytics = "UA-50557403-2"
 
 [taxonomies]
      category = "categories"
 
 [permalinks]
     post = "/:filename/"
-    note = "/:filename/"
 
 [[menu.main]]
     name = "search"
@@ -28,8 +21,3 @@ googleAnalytics = "UA-50557403-2"
     name = "rss"
     url = "/index.xml"
     weight = 3
-
-[params]
-    description = "A website built through Hugo and blogdown."
-    repo = "https://github.com/Caloni/caloni"
-    share = true
