@@ -1,26 +1,19 @@
 ---
-categories: "movies"
+external: "cinemaqui"
+imdb: "3411572"
 
 date: "2016-02-22"
-imdb: "3411572"
+categories: [ "movies" ]
 title: "Amor em Sampa"
+stars: "3/5"
+desc: "Amor em Sampa. Amor em Sampa (Brazil, 2016). Dirigido por Carlos Alberto Riccelli, Kim Riccelli. Escrito por Bruna Lombardi. Com Bruna Lombardi, Eduardo Moscovis, Rodrigo Lombardi, Mariana Lima, Carlos Alberto Riccelli, Tiago Abravanel, Marcello Airoldi, Miá Mello, Kim Riccelli."
 ---
-Há algo de muito brega, amador e piegas nessa comédia romântica que, seguindo os passos de Simplesmente Amor, tenta relacionar diferentes relacionamentos, e seguindo os passos de Nova Iorque Eu Te Amo, tenta relacionar todos eles em torno de uma cidade (nesse caso, a megalópole São Paulo).
+Esse filme brega aplica muito bem todos os clichês amadorísticos de novela, caminhando na zona de conforto de não arriscar nada além que o convencional. Às vezes dá a impressão que o filme assume que tratar de "sair do armário" é algo radical em 2016.
 
-Nunca conseguindo atingir o envolvimento visto nos filmes supracitados, pelo menos você ao assisti-lo irá ganhar de brinde diferentes números musicais que tentam resumir o drama de cada um dos personagens, a maioria de maneira bem-humorada e uns poucos mais dramatizados. No entanto, todos românticos, e é isso que forma o grude de todas as histórias.
+Porém, o pior de tudo é que ele é um musical. E nós sabemos como a dublagem brasileira é péssima, ou pelo menos o design de som nos filmes. Sempre em falta de sincronismo total entre a boca dos atores e o som que sai das caixas, Amor em Sampa pode ser visto como um musical com licença poética, ou simplesmente um musical mal-feito.
 
-Isso e dezenas de tomadas aéreas da cidade que nunca dorme.
+Com essa exceção, temos em seu núcleo delírios de ser uma mistura de "Simplesmente Amor" com "Nova Iorque Eu Te Amo". Bruna Lombardi, que produz o filme, também escreveu seu roteiro, além de atuar como uma mulher dona de uma mega-empresa, vista como fria e implacável pelas pessoas ao seu redor. Da mesma forma, temos entre os personagens um diretor de teatro se aproveita de sua posição de autoridade para comer suas atrizes (entre elas duas melhores amigas), e ainda um caso entre um casal já passado, com filhos e casamentos no histórico, e uma cena linda envolvendo uma personagem que teve câncer de mama, além de um carismático casal de gays. Para tentar juntar o fio da meada, um taxista é o narrador onisciente e onipresente, um absurdo se não fosse uma criação quase invisível no panorama paulistano.
 
-O roteiro e produção de Bruna Lombardi, que também participa do filme, apela para o "patriotismo" paulista dos que vieram, foram adotados pela cidade, e compreendem seus desafios no melhor sentido (e estão muito bem com isso). Além disso, a história pega elementos fáceis, do momento, como planejamento urbano (trânsito), ecologia (áreas verdes) e tolerância (gays). Além disso, arrisca criar uma diversidade de classes sociais sem miseráveis ou simplesmente pobres fedidos. Por conta disso, soa muitas vezes como novela, onde ninguém na verdade possui um drama realista: são só bocas falando e lamentando decisões da vida, ou nem isso. Às vezes é só a vida passando.
+Aliás, o filme é sobre São Paulo e seus personagens da vida real. Infelizmente, esses personagens são seletos demais, e nunca representam a diversidade dessa megalópole. Senti falta particularmente dos feios, dos pobres, dos fedidos. Todos os pedintes de semáforo eram artistas coloridos, e até a 25 de março parecia uma rua um pouco mais movimentada que o normal. A sensação junto dos personagens, com a câmera passeando em um trilho eterno, e a fotografia cheia de cores, é que tudo não passa de uma novela, onde ricos e pobres são estereotipados, e mesmo que o tema não seja esse, seus dramas românticos nunca fogem também do formulaico.
 
-Mas não é isso que soa como novela. O exagero nas cenas em que a câmera passeia pelos cenários torna tudo um balé comercial, passageiro e enlatado. As cores vibrantes parecem consequência mais do amadorismo do que um musical pensado em temas, mas não se engane: assim como nas novelas, as camadas mais ricas da sociedade são invadidas por tons monocromáticos, e as mais pobres o tom "todas as cores gritantes do universo".
-
-E ainda sobre o amadorismo, os números musicais escancaram o completo despreparo da dublagem e engenharia de som da indústria cinematográfica brasileira. Quase a maior parte do tempo a letra da música nos distrai por estarmos caçando o sincronismo entre o que está sendo cantado e a boca dos atores, revelando sua fraca estrutura, ainda que quase sempre embalada em uma dança pelo palco (e mais câmeras dançantes).
-
-Mas o mais notável de tudo isso é que, aos trancos e barrancos, a mensagem de esperança funciona. É por causa dela que o sincronismo sonoro capenga das canções pode ser confundido com liberdade poética. É por causa dela que as cores berrantes podem ser confundidas com uma abordagem lúdica da natureza. E é por causa dela que as crises existenciais mais chinfrins (com o campeão sendo a da personagem de Lombardi) se misturam com o drama do dia-a-dia de pessoas comuns, rasas, mas muito das vezes, mais profundas que todos os roteiros complexos demais para levar em consideração o fator humano.
-
-Talvez essa seja uma defesa rasa ao filme, apelando inocentemente pela esperança de uma cidade melhor para morar. Mas não sou ingênuo. A proposta do filme é boba e simplória. Mas é justamente por ser boba que tem a chance de dar certo. Pelo menos como uma viagem intimista.
-
-"Amor em Sampa" (Brazil, 2016), escrito por Bruna Lombardi, dirigido por Carlos Alberto Riccelli, Kim Riccelli, com Bruna Lombardi, Eduardo Moscovis, Rodrigo Lombardi, Mariana Lima, Carlos Alberto Riccelli
-
-
+Porém, com tantos defeitos, o filme encherá de esperança que ousar assumi-lo de braços abertos. Ele é uma mensagem de esperança, de melhorar a cidade. É piegas nesse sentido, mas sincero em todo momento. Ingênuo em boa parte do tempo, cativa o espectador mais desatento.

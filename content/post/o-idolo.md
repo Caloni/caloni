@@ -1,23 +1,19 @@
 ---
-categories: "movies"
-
-date: "2016-12-02"
+external: "cinemaqui"
 imdb: "4686692"
+
+date: "2016-12-03"
+categories: [ "movies" ]
 title: "O Ídolo"
-
+stars: "3/5"
+desc: "O Ídolo. Ya tayr el tayer (Occupied Palestinian Territory, 2015). Dirigido por Hany Abu-Assad. Escrito por Hany Abu-Assad, Sameh Zoabi. Com Tawfeek Barhom (Mohammed Assaf), Kais Attalah (Mohammed Assaf), Hiba Attalah (Nour), Ahmad Qasem (Young Ahmad), Abdel Kareem Barakeh (Young Omar), Teya Hussein (Young Amal), Dima Awawdeh (Amal), Ahmed Al Rokh (Omar), Saber Shreim (Ahmad)."
 ---
-O Ídolo possui um começo dinâmico e tocante, mas não parece usar isso ao seu favor no resto do filme. Ele aposta na catarse fácil que já vemos na televisão e em vídeos do YouTube. O que ele acaba fazendo, então, é apenas dar uma cara e uma atuação para mais um personagem da vida real.
+As pessoas se emocionam facilmente assistindo ao American Idol e outros programas do gênero e descobrindo novos talentos, seja pela televisão ou pelo YouTube. O que elas não sabem às vezes é que por trás desses talentos há uma história ainda mais emocionante.
 
-Porém, pior que isso é usar esse personagem como herói. Por ter uma boa voz e uma boa vontade. A voz ele herda da genética (e um pouco do seu teimoso instrutor de canto), e a boa vontade herda da sua irmã, que possui uma energia admirável. Ela não é apenas uma otimista, mas um ser humano que possui uma visão clara do que é capaz se tentar muito, e tirar do seu caminho tudo que não a ajudar, como uma insuficiência renal e até um possível namoradinho. Diz ela: "eu não tenho tempo para isso". Ela tem 12 anos no máximo. E é interpretada por Hiba Attalah com uma intensidade admirável.
+É o caso de O Ídolo, um filme que tenta unir impacto emocional com biografia de uma maneira dinâmica e forçada. A primeira parte do filme é linda, pois mostra a inocência da infância de dois irmãos e seus amigos tentando se tornar uma banda de sucesso. Eles saem correndo na praia, em suas bicicletas percorrem o arame farpado da faixa de Gaza e até tocam em casamentos mais modestos. Nada parece deter o sonho da líder do grupo, uma menina que se disfarça de menino por conta da cultura local, mas que carrega coragem e determinação suficientes para levar todos para frente.
 
-Essa intensidade com que Attalah personifica a imagem da irmã do talentoso Assaf, a urgência daquelas crianças em tentar sair de Gaza a todo custo e o dinamismo do diretor Hany Abu-Assad (Paradise Now) confirmam a importância dessa parte tocante e trágica do filme em todo seu resto, quando, em um piscar de olhos, o jovem Assaf (Kais Attalah) dá lugar a um adulto Assaf (Tawfeek Barhom) e o remorso de ter tido cortado o seu sonho o faz reavaliar sua infância com a irmã e seus amigos e tentar seguir em frente, como se estivesse dormindo durante todo esse tempo. A montagem é uma poderosa arma de O Ídolo.
+O diretor Hany Abu-Assad controla cada aspecto de seu elenco de maneira quase que visceral. Só perde para a cronometria de seu editor, Eyas Salman, que realiza um trabalho sólido, que faz transições entre bater de portas e atravessa anos em um piscar de olhos. A trilha sonora de Hani Asfari parece sincronizar exatamente com o timing do filme. Todos os artifícios técnicos da equipe estão em prol de uma história que flui facilmente.
 
-O que não quer dizer que seu roteiro seja. Escrito pelo próprio Hany Abu-Assad e Sameh Zoabi, a história gira em torno daqueles casos do programa televisivo de talentos. O cantor (que você já imagina quem é, e até qual programa de TV estamos falando, graças ao título do filme), além de ter uma voz impressionantemente linda (e ela é usada pelo menos uma vez como arma de manipulação, algo lindo de se ver), ele possui um passado marcante. E, como se isso não bastasse, ele mora em Gaza, o que o coloca na lista de heróis sobreviventes, muito embora não vejamos muito da violência ou do terror ou do risco de se morar na fronteira fortemente murada (e fuzilada) entre Israel e Palestina.
+Porém, o roteiro escrito por Abu-Assad e Sameh Zoabi carece de elementos mais poderosos em seu meio e final. Tudo parece ocorrer mais ou menos de maneira fácil e até natural para o agora adulto Assaf. Cada episódio é finalizado com sucesso, e o clima de video-game ganha até ares de milagre quando Assaf começa a cantar no banheiro. Sim, há um sentimento crescente, mas esse sentimento cresce muito mais no coração do espectador do que na construção da tensão pela história. A atuação de Tawfeed Barhom é sóbria demais para conseguirmos sentir a passagem do tempo, quando seu sonho (ou, na verdade, de sua irmã) congelou abruptamente.
 
-O interessante é que a premissa é poderosa o suficiente para concluir em um filme impactante. Porém, nada parece funcionar muito bem no agitado terceiro ato. O Assaf adulto carrega uma visão um pouco amarga do mundo, e não é por acaso. Um acontecimento traumático em seu passado faz com que ele suspenda seu sonho, talvez para sempre, e todos nós entendemos esse trauma em sua vida, tanto que torcemos pelo personagem.
-
-Mas não é o suficiente. A história de O Ídolo caminha por caminhos corretos e mantém uma tensão graças às ótimas direção, edição e trilha sonora. Porém, o suspense é perdido logo no começo. Quando é feita uma transição no final entre ficção e vida real (talvez uma tendência nos filmes biográficos de hoje em dia, vide Snowden), essa transição quase não funciona, ou demora para funcionar. O personagem do presente não é tão rico (em facetas) como o filme imagina; apenas seu passado e sua história.
-
-"Ya tayr el tayer" (Occupied Palestinian Territory, 2015), escrito por Hany Abu-Assad, Sameh Zoabi, dirigido por Hany Abu-Assad, com Tawfeek Barhom, Kais Attalah, Hiba Attalah, Ahmad Qasem, Abdel Kareem Barakeh
-
-
+Com um resultado misto, portanto, O Ídolo se beneficia da inocência e do dinamismo de seu começo, mas mesmo assim não consegue finalizar o gancho com seu final, onde entrega esta função para seu público, já habituado a se emocionar com vozes bonitas em vídeos do YouTube. Uma pena que as biografias hoje em dia entrem no cacoete de transitar entre a ficção e a realidade como se apenas isso gerasse uma identificação com o público. Às vezes é necessário olhar para si mesmo e entender que só porque alguém repete durante a infância que irá mudar o mundo, não necessariamente isso é verdade.

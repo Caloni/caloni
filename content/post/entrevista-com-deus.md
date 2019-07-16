@@ -1,30 +1,11 @@
 ---
 date: 2018-11-07T15:12:49-02:00
 title: "Entrevista Com Deus"
-categories: [ "movies" ]
+desc: "An Interview with God (EUA, 2018), escrito por Ken Aguado, dirigido por Perry Lang, com Brenton Thwaites, David Strathairn, Yael Grobglas, Hill Harper, Charlbi Dean Kriek. Religião, metáforas."
 imdb: "5779372"
 
+categories: [ "movies" ]
+stars: "3/5"
+external: "cinemaqui"
 ---
-A primeira impressão de Entrevista com Deus é que o filme inteiro foi baseado em apenas uma ideia: Deus é entrevistado por um ser humano. Para que esse momento único funcionasse, porém, seria necessário ou desenvolver uma fantasia mais alegórica como Todo Poderoso, o que correria o risco de ser cômico sem querer, ou desenvolver tão bem os personagens que passaríamos a entender suas motivações por trás daquele momento, delírio ou não.
-
-Infelizmente o filme de Perry Lang (da TV) não usa nenhuma dessas estratégias, preferindo se pautar na lógica daquelas pessoas que estão perdidas em algum momento da vida: elas prestam pouca atenção nos detalhes, seguem a rotina mecanicamente e não possuem o ceticismo em um nível saudável. Porém, o trabalho de Ken Aguado no roteiro (também da TV) preguiçosamente não nos fornece pistas para entender exatamente o que se passa pela cabeça do jornalista Paul Asher, preferindo apenas jogar as cartas na mesa (ou as peças no tabuleiro) na primeira oportunidade que tem.
-
-Paul vive uma crise de fé (claro) após cobrir de perto a guerra no Afeganistão. Prestes a se separar de sua mulher após uma traição, Paul não vive o seu melhor momento na vida, mas não temos como saber se algo está terrivelmente errado com ele. O ator que o faz, Brenton Thwaites, é uma figura simpática e inofensiva, mas também nice guy demais para se fazer sentir. O máximo de desespero que ele nos entrega é quando ele esmaga uma caneca de porcelana e se corta no processo. Mas ele continua andando normalmente em sua bicicleta, usa capacete e sempre a trava quando chega nos lugares. Que rapaz exemplar.
-
-Três desses lugares são pontos de encontro com Deus, que atendeu a suas preces e lhe condeceu uma entrevista. Simples assim. Resta ao espectador ir desenvolvendo a sua própria lógica para entender como isso se passa na cabeça de Paul. Será que ele pensa estar delirando, mas não liga? Será que ele está aproveitando esse senhor que se faz passar por Deus para desenvolver seu artigo? Ou será, Deus me livre, que há uma ponta de fé que o diz que aquela pessoa comum sentada ao lado dele pode realmente ser o criador dos céus e da Terra?
-
-Difícil saber. O filme todo não tem um pingo de emoção. O maior exemplo disso é ver seu chefe e amigo, interpretado por Hill Harper como alguém que ouve o amigo como se estivesse em um briefing. A experiência toda é como se fosse uma parábola filmada mais com foco na mensagem divina do que o que os personagens vivem. Poderia ser uma peça de teatro, não fossem os momentos que vemos Paul andando em sua bike, um respiro necessário ao filme. E são muitos momentos em que ele anda com ela, pois aparentemente o diretor Perry Lang precisa encher linguiça para que essa história caiba em um longa metragem. Vemos Paul tirar sua bicicleta da parede, pegar seu capacete, descer as escadas, andar pelas ciclovias, travar sua bicicleta e colocar sua mochila. Várias e várias vezes. O que significa? Eu não sei. Talvez seja uma forma divina de nos deixar menos ansiosos pelas respostas que Paul tenta arrancar de Sua Divindade.
-
-Mas seu esforço é inútil. Deus não está para papo. Ele gosta de retórica e está profundamente preocupado com Paul. Esse é o clássico formato em que uma pessoa pede ajuda a Deus e é atendida, mas realizada de maneira tão jogada que fica difícil compreender o que está acontecendo. O foco, como eu disse, é na mensagem.
-
-E a mensagem talvez seja a melhor coisa no filme. Ignorando a tradição evangélica/protestante de realizar pequenas atrocidades propagandistas como Deus Não Está Morto, onde música gospel e "milagres" forçados são usados para espalhar a Palavra, em Entrevista com Deus esse formato é atualizado e segue um modelo muito mais próximo do visto nos discursos, debates e livros de Jordan B. Peterson, psicólogo/filósofo contemporâneo que recicla antigos contos mitológicos da humanidade, incluindo os da Bíblia, utilizando-os como fonte de sabedoria. Em resumo: Deus explica a si mesmo como o processo e o caminho, e não como um objeto estático e perfeito, como visto por tantas congregações mundo afora. Ele é a própria consciência humana, vagando de cérebro em cérebro, iluminado pela ordem que surge do caos, mas ainda inseguro e ignorante do porquê de sua existência.
-
-Para os religiosos é óbvio que é um filme obrigatório, mas para os ateus, deístas e esotéricos não é tão difícil assim de engolir. É um ponto de vista diferente, mastigado em formato mais ou menos pop em um filme levemente medíocre, episódico, que tenta (aí, sim, seguindo a tradição) usar um exemplo de vida de uma pessoa como uma forma de explicar como Deus fala para todos nós e nos guia, querendo ou não. O exemplo em si é melhor que os outros filmes, pois se concentra em um evento trivial para a humanidade, mas não para os indivíduos que sofrem: traição dentro de um relacionamento amoroso.
-
-Eu sei que o Deus de David Strathairn está longe de inspirar carisma e reflexão. Ele é apenas um mensageiro de diálogos simplistas que tentam explicar uma filosofia usando parábolas e frases prontas. Ninguém pode culpá-lo. Mas, mesmo assim, Entrevista com Deus é eficiente em sua mensagem de amor, paz, sabedoria. Apesar de pouco inspirador e longe de ser dramático, vale a reflexão da sessão da tarde.
-
-
-An Interview with God (EUA, 2018), escrito por Ken Aguado, dirigido por Perry Lang, com Brenton Thwaites, David Strathairn, Yael Grobglas, Hill Harper, Charlbi Dean Kriek. Religião, metáforas.
-
-
-
+David Strathairn está longe de inspirar carisma e reflexão, mas ele é apenas um mensageiro de diálogos simplistas que tentam explicar uma filosofia muito semelhante do psicólogo/filósofo Jordan B. Peterson, usando parábolas e frases prontas de efeito (mas sem surtir efeito). Ninguém pode culpar Strathairn por isso. Mas, mesmo assim, Entrevista com Deus é eficiente em sua mensagem de amor, paz, sabedoria. Apesar de pouco inspirador e longe de ser dramático, vale a reflexão da sessão da tarde.

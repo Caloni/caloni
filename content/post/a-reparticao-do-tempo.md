@@ -1,26 +1,20 @@
 ---
-date: 2018-01-16T16:26:49-02:00
-title: "A Repartição do Tempo"
-categories: "movies"
+date: 2018-01-17T23:05:25
 imdb: "6244144"
 
+categories: [ "movies" ]
+stars: "2/5"
+title: "A Repartição do Tempo"
+desc: "A Repartição do Tempo."
 ---
-A Repartição do Tempo é a contribuição brasileira recente sobre filmes que discutem a não-unicidade dos indivíduos. E como toda contribuição brasileira em um gênero de nicho muito específico ela tropeça na realização pelos aspectos mais básicos. Como colocar Dedé Santana no filme.
+Todos querem fazer piada com a burocracia e ineficiência de Brasília. Vamos lá, é como chutar cachorro morto. E todos querem ainda usar os xingamentos que aprenderam no Facebook: petralha e comunista. Tanto é que uma equipe inteira que recebeu dinheiro para isso decidiu fazê-lo na forma de filme. E, aparentemente, nem eles parecem levar muito a sério o que fizeram. Não dá pra culpá-los. A Repartição do Tempo usa em sua história uma máquina do tempo e o prédio de invenções e patentes (risadas incontroláveis), uma das divisões mais inúteis e ineficientes do Estado (como se eles estivessem competindo). O resultado é uma piada sem graça contada várias vezes. Se me dizessem que filme é 100% estatal, eu não duvidaria.
 
-A história tenta fazer um apanhado dos estereótipos recentes sobre política brasileira para retratar a repartição mais eficiente do serviço público: o departamento de patentes. E por apanhado eu quero dizer uma busca nas redes sociais na internet. Por isso expressões bipolares como "petralha", "comunista" e similares serão jogadas no roteiro como verdadeiras piadas, mas apenas revela a falta de criatividade dos realizadores, que se limitam a repetir "xingamentos" de internet.
+Os roteirista Davi Mattos e Santiago Dellape (que dirige) criaram uma historieta de um sujeito que trabalha no tal departamento de patentes e que ao levar um suposto protótipo de máquina do tempo para ser arquivado na sala da bagunça acaba ativando a tal máquina. Começamos a ver que entramos em uma furada quando não sabemos por que ele fez isso. Ao final, nem o filme sabe.
 
-Mas continuando: na história há uma máquina do tempo, que é demonstrada inicialmente de uma maneira muito criativa, mas depois se perde nas mãos de um diretor que não parece fazer parte daquele ambiente burocrático/mama-tetas governamental e que tem ideias megalomaníacas para reverter a improdutividade sistêmica de seus subordinados. Não é nem preciso dizer que o uso que ele dá para a máquina do tempo se assemelha em inutilidade com o departamento que dirige. Eu duvido que outra pessoa (uma da vida real, por exemplo) fosse pensar em algo tão estúpido para fazer com uma máquina do tempo.
+O que acontece então é que o diretor do tal departamento observa as câmeras do local (pra quê câmeras de segurança em um prédio inútil?) para analisar o acontecimento bizarro desse funcionário viajando no tempo. Ele é um desses sujeitos que exalta a meritocracia, o trabalho duro e está totalmente perdido trabalhando para o governo. Descobrimos depois que ele é filho de uma senadora, o que não faz muito sentido, já que sendo quem é ele nem precisaria se esforçar em ir ao seu local de trabalho. Afinal, estamos em Brasília, e os únicos que trabalham lá são garis e faxineiras.
 
-Formado por figuras sintomáticas da comédia brasileira, como a alcoólatra, a secretária gostosa, a funcionária boazinha (que deve usar vestido e cabelo preso) e o herói que nunca chegou nela, o engraçadinho, e o veterano em nunca trabalhar, os personagens de A Repartição do Tempo apenas participam de quadros cômicos enquanto o fiapo de história milagrosamente vai avançando. Mas é tudo muito lento e precisamos passar pelas piadas até chegar onde interessa. Quer dizer, interessava, lá no começo.
+Daí a história envolve clones temporais, um grupo de funcionários que é quase um clone de algum programa de TV humorístico e mais algumas estripulias. Tudo manjado e tudo previsível. O que não é previsível é o tamanho das piadas que não funcionam, como a dupla de policiais, entre eles Dedé Santana (perdido por lá) em uma enquete que não funciona do começo ao fim. No final o que temos é apenas um resultado no filme: vergonha alheia do Dedé.
 
-Do meio para o final há uma bagunça generalizada que apela para reviravoltas fáceis e piadas manjadas. Dedé Santana é um péssimo comediante sozinho. Ele tenta fazer o policial bipolar em praticamente uma enquete de 5 minutos. Inicialmente calmo e tranquilo, vira um verdadeiro fascista após descobrir meia bituca de cigarro no armazém do departamento. Não estou muito certo se sua presença no longa constitui participação especial ou vergonha alheia.
+O diretor Santiago Dellape ignora o embuste e parte para uma história sem pé nem cabeça e onde sequer a localização de um certo local, primordial na história, é conhecido. É usado um sistema de tubulações capenga que não faz o menor sentido na história (afinal se trata de um abrigo nuclear com sistema de ventilação compartilhado com o resto do prédio), onde um incêndio pode terminar em tragédia.
 
-Já os atores, como o correto Edu Moraes, a perdida Bianca Müller e o desagradável Eucir da Souza (que faz o vilão) parecem ligeiramente perdidos em um filme cujos personagens são duplicados exatamente. Ora, se são exatamente qual a graça em vê-los em cena? Pois é.
-
-Pelo menos uma coisa há de interessante no longa: a direção. O diretor estreante em longas Santiago Dellape realiza aqui um trabalho que de início contém enquadramentos curiosos (como dois elevadores gêmeos que realizam a primeira explicação da viagem no tempo), além de cenários inusitados, como um abrigo nuclear que lembra exatamente o escritório original do departamento (com a exceção que eles não têm direito a licença prêmio ou ir pra casa nesse "segundo escritório").
-
-Sem um tema facilmente identificável para explorar, A Repartição do Tempo apenas se aproveita da premissa de uma máquina do tempo no formato de relógio de ponto hipster para apelar para o velho suterfúgio de viagem no tempo, cruzamentos temporais, etc. O pouco que faz com isso não justifica viajar no tempo. E tentar arrumar emoção onde não há sequer seres humanos completos é um desafio.
-
-"Idem" (Brasil, 2016), escrito por Davi Mattos, Santiago Dellape, dirigido por Santiago Dellape, com Edu Moraes, Eucir de Souza, Bianca Müller.
-
-
+Por final, fica a dúvida: se o inventor da máquina do tempo sabia que ela funcionava (ou ele simplesmente juntou todas as peças e nunca apertou os botões?) porque diabos ele iria patenteá-la? O objetivo que a maioria (todas?) as pessoas do mundo patenteiam coisas é por vantagem competitiva e para ganhar dinheiro. Você inventa uma máquina no tempo em 2018 e não pensa simplesmente em voltar alguns anos, comprar bitcoins e voltar bilionário? Como diriam na internet: jênio!

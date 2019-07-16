@@ -1,0 +1,36 @@
+---
+date: 2019-01-17T11:25:33-02:00
+title: "Vice"
+categories: [ "movies" ]
+imdb: "6266538"
+
+---
+Vice é logo depois de A Grande Aposta mais um filme escrito e dirigido por Adam McKay tentando dialogar com o público leigo a respeito de detalhes sórdidos da máquina estatal americana. Se no filme anterior o alvo era o sistema financeiro responsável pela crise de 2008 agora vamos um pouco mais para o passado dar de cara com o vice-presidente Dick Cheney durante a era Bush Jr.
+
+Este é um filme sobre bastidores da política, mas diferente da série House of Cards, há um tom bem menos glorioso. Quase todo o filme se passa em lugares apertados e escuros (um jogo de lentes na câmera que torna todos muito próximos e a profundidade da cena muito menor), com poucas pessoas e geralmente essas pessoas estão cabisbaixas, querendo não chamar atenção. Essa é a síntese comportamental do próprio Dick Cheney, que acumulou poderes durante a presidência de Bush Filho ainda que a função de vice-presidente seja considerada praticamente simbólica naquele país. Mas há motivos para a carreira de Cheney desbancar em uma posição de menos prestígio, e justamente por isso é que a sensação geral do filme é tudo estar sendo feito às escondidas.
+
+A atuação de Christian Bale é tão perfeccionista que é quase como se o ator não estivesse lá. Em seu lugar há uma versão furtiva e devidamente ridicularizada de Cheney. Criação de sua brilhante mulher Lynne, interpretada por uma Amy Adams, que melhora sua desenvoltura dramática a cada novo projeto que pega, ela percebe o potencial amoral de seu marido, ainda que nós mesmos não consigamos enxergar potencial algum. Então, como que um reflexo do voto de confiança de sua esposa, o próprio Cheney começa a aproveitar toda e qualquer oportunidade para subir um novo degrau no jogo de influências de Washington.
+
+Entre elas há a tutela do casca grossa Donald Rumsfeld, que não tem papas na língua e que vira uma incógnita no filme: como alguém tão incompetente em se relacionar se manteve por tanto tempo na Casa Branca? Não importa. Ele foi um trampolim para o futuro vice-presidente, é uma interpretação desperdiçada de Steve Carell e foi o transmissor dos valores que Cheney utilizou sua vida inteira. Quando ele questiona Rumsfeld sobre o que ele deve acreditar sua resposta é uma gargalhada que pode-se ouvir até depois que ele fecha a porta em sua cara. Isso é tudo que você precisa saber sobre os valores políticos como um todo visto no filme.
+
+Adam McKay parece particularmente fascinado pelo seu estilo em explicar conceitos complexos usando analogias do dia-a-dia, como usar um cardápio de restaurante com os itens escusos escolhidos pela equipe de Cheney para conseguir o que quer a todo custo. Trazendo este vício de linguagem de A Grande Aposta, que se sai muitíssimo melhor com as alegorias financeiras, aqui esses momentos de interrupção apenas jogam o espectador para fora do filme. Como o momento em que os créditos iniciais (reais) do filme começam a subir como um final alternativo que poderia ocorrer na vida real. É engraçado, funciona, mas não colabora muito para a narrativa do filme, e arrisca prejudicar toda a história por um capricho estilístico do diretor.
+
+Aliás, o humor constante em todo o filme consegue amenizar as barbaridades que testemunhamos serem cometidas em nome do poder a todo custo. E talvez a maior sacada de todas tenha sido de fato o narrador do filme, interpretado por Jesse Plemons e que se mantém como um personagem-coringa até um momento derradeiro que pega o espectador de sopetão. Se há justiça poética nos filmes mais sombrios, o personagem de Plemons poderia muito bem entrar na categoria.
+
+Porém, McKay não nos deixa nunca esquecer o esquema macabro que se estabelece na Casa Branca, ao demonstrar na primeira decisão governamental vista no filme o impacto direto do que foi dito por um presidente e os camponeses de uma vila do outro lado do mundo sendo massacrados por decisão estratégica. Essa dinâmica se repete durante todo o filme, em uma das decisões fortes na trama, que estabelece um peso difícil de esquecer e que nos lembra os momentos que a galera que comenta sobre o "imperialismo norte-americano" têm razão.
+
+Ao mesmo tempo há um certo sarcasmo implícito na figura dos personagens, pois apesar deles conseguirem galgar os níveis de poder da nação mais poderosa do mundo, e fazer o que muitas pessoas ingênuas a respeito de política duvidariam que pudesse ser de fato feito, "Vice" nunca nos deixa de lembrar que todas aquelas pessoas, além de seres humanos horríveis, são medíocres no que fazem. E eu não gostaria de assistir um filme comandado pelos verdadeiros profissionais.
+
+Há uma certa rima temática na visão de McKay com Scorsese em O Lobo de Wall Street. Ambos os diretores mantém a diversão em alta ainda que por outro lado haja um olhar de clara reprovação moralista sobre tudo que os personagens de Leonardo Di Caprio e Christian Bale (e suas trupes) fazem nos filmes. Mas enquanto Scorsese parece não ter medo de ir até as últimas consequências da vilania humana, McKay nos mostrando o lado podre dos republicanos parece tão tímido que é como se os vilões do filme fossem uma versão mais incompetente dos democratas.
+
+Sim, este é um filme de viés liberal (norte-americano). Mas não porque ele é tendencioso, mas porque ele mostra um pedaço da história que mancha apenas um lado dela. Tirando isso, são apenas fatos; e talvez nem sejam os mais sórdidos. Porém, mesmo assim o diretor/roteirista parece se achar na obrigação de incluir uma cena no meio dos créditos finais que tenta se desvencilhar desta crítica.
+
+Aliás, como crítica política o filme comete o deslize de ser superficial em alguns momentos onde tenta ligar o abuso da tortura norte-americana durante a campanha de guerra ao terror e a insistência em invadir o Iraque como a causa da criação de movimentos extremistas como o ISIS. Não que isso não seja possível e tenha acontecido de fato, mas a postura do filme é conservadora demais. Em contrapartida os grupos de populares criados para manipular a opinião pública é uma das melhores sacadas no filme, pois consegue unir decisões internas com guinadas à direita da população como um todo.
+
+"Vice" é um filme sobre um vice-presidente que pode mais que todos os seus antecessores, e pode mais até que os presidentes anteriores. Seu nome não é apenas sobre isso. Significa vício em inglês; vício pelo poder. Vício por controle. Por dinheiro. Por qualquer coisa que suba acima das cabeças de seres humanos medíocres e os faça manipular tudo e todos, matando alguns no processo, para conseguir seus objetivos, sejam eles quais forem. Bom, se você já passou da fase de escolher lados, sabe que basicamente esse é a sinopse de qualquer partido político, não é mesmo?
+
+
+"Vice" (EUA, 2018), escrito e dirigido por Adam McKay, com Christian Bale como Dick Cheney, Amy Adams como Lynne Cheney, Steve Carell como Donald Rumsfeld, Sam Rockwell como George W. Bush.
+
+
+

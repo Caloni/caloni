@@ -1,17 +1,17 @@
 ---
-categories: "movies"
+external: "cinemaqui"
+imdb: "2872462"
 
 date: "2015-10-26"
+categories: [ "movies" ]
 title: "Mistress America"
+stars: "5/5"
+desc: "Mistress America. Mistress America (USA, 2015). Dirigido por Noah Baumbach. Escrito por Noah Baumbach, Greta Gerwig. Com Seth Barrish, Juliet Brett, Andrea Chen, Michael Chernus, Cindy Cheung, Shana Dowdeswell, Kathryn Erbe, Joel Marsh Garland, Greta Gerwig."
 ---
-O diretor Noah Baumbach faz aqui um trabalho menos intelectualmente fechado que seu "Frances Ha", mas emprega a mesma atriz, Greta Gerwig, que surge de sopetão e é a mesma Frances que conhecemos no filme anterior.
+Quando assisti a Frances Ha notei o uso de Nova Iorque, diálogos rápidos e a óbvia homenagem a Woody Allen, com uma protagonista adoravelmente perdedora. Agora em Mistress America essa protagonista volta em uma nova roupagem, em cores, e indiretamente serve de combustível para uma futura escritora na faculdade, que aprende que Aristóteles, mais do que matemática, também fala diretamente sobre os seres humanos.
 
-A história é saborosa do começo ao fim, com diálogos inteligentes, bem colocados, e com uma dinâmica que, assim como em "Juno", de vez em quando corre o sério risco de soar "inteligente demais para ser realista". E, de fato, em muitos momentos o espectador irá parar, respirar e se imaginar mais em um palco de teatro do que em uma sala de projeção.
+E é aqui que o filme me pegou. Não pelos diálogos inteligentes, divertidos, rápidos e alguns inesquecíveis (meu favorito acho que é "eu sou autodidata; essa é uma das palavras que eu me ensinei"). Isso ajuda, mas não. Também não pela edição dinâmica de Jennifer Lame, colaboradora habitual do diretor, que consegue convergir os enquadramentos simétricos de Noah Baumbach com uma beleza estética que transforma as cenas em um palco de teatro dançante e cinematográfico.
 
-Ainda assim, a distinção fica por conta do ar menos indie que Baumbach emprega em seus personagens (escrito a quatro mãos entre ele e Gerwig), sempre apelando para a cultura pop mais acessível, além de realizar com sua editora, Jennifer Lame, um trabalho fluido demais para uma comédia pseudo-dramática, cheio de quadros certinhos até em sua simetria cômica (como quando três personagens se encontram geometricamente dispostos em uma escada olhando para o andar inferior, ou quando todos se juntam para ler).
+Tudo isso ajuda, mas não encanta. O que me encanta mesmo em Mistress America é essa discussão interna a respeito do papel da mulher, ou dos seres humanos, mas principalmente da mulher, e se é relevante que existe um papel. Se por um lado as críticas que saem do papel da jovem Tracy (Lola Kirke) acompanham o que aprendeu sobre filosofia aristotélica, por outro sua fascinação pela nova amiga e que futuramente será sua meia-irmã bate de frente com a temática de Frances Ha: como os perdedores constroem histórias infinitamente mais interessantes do que os vencedores.
 
-A história gira em torno da recém-graduanda Tracy (Lola Kirke), que luta tanto para arrumar um amigo quanto para conseguir um lugar em um exclusivo clube de escritores da faculdade. Ao conhecer sua futura meia-irmão (Gerwig), a mais velha, mais faladeira e mais-tudo Brooke, acontece uma espécie de paixão platônica entre uma escritora e sua futura obra, e conforme ambas passam os dias juntos, ela compõe uma história através da percepção que tem da sua nova amiga.
-
-Estamos em Nova Iorque, mas curiosamente, diferente dos filmes de Woody Allen, esse é apenas um detalhe do filme. O que importa, mais do que tudo, é observar a dinâmica entre essas duas, que de dependência simbiótica passa a flertar com uma espécie de relacionamento passivo-agressivo. Assim como um casal secundário que participa da farra intelectual em que se metem quando Brooke decide lutar pela sua ideia de um restaurante onde todos possam viver suas vidas em harmonia indo visitar o ex-namorado roubado por sua amiga.
-
-Impulsionado mais pela "performance" dos diálogos do que pelos atores em si, "Mistress America" é uma longa exposição de ideias filosóficas por trás do que todos acham sobre mulheres. Diferente da eterna perdedora Frances, aqui temos uma escritora disposta a capturar os inúmeros momentos da amiga. Mas isso constitui uma exploração não-requisitada? Ou são simplesmente pessoas seguindo suas vidas egoístas e interesseiras? O filme toma um lado, mas a questão é muito mais além do que aparenta no filme. Se há algo digno de nota, é justamente a capacidade do filme em oscilar seu humor sem perder a sua moral, quase aristotélica, quase matemática, e ainda assim, apaixonante.
+E isso vira sintomático principalmente na última parte do filme, onde objetivos são rearranjados menos por conveniência e mais por uma constatação óbvia: a vida não tem roteiro pré-planejado. O fato disso transparecer em um filme que te joga a todo minuto pela veredas do maniqueísmo intelectual em forma de diálogos rápidos e pensantes é uma virtude que pode passar despercebido pelos espectadores desse Frances Ha recauchutado, mas que é o que torna Mistress America original em cima de um outro trabalho. Vale a pena a nova jornada.

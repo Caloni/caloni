@@ -1,22 +1,17 @@
 ---
-categories: "movies"
+external: "cinemaqui"
+imdb: "2217859"
 
 date: "2016-03-19"
-imdb: "2217859"
+categories: [ "movies" ]
 title: "Mais Forte Que Bombas"
+stars: "4/5"
+desc: "Mais Forte Que Bombas. Louder Than Bombs (Norway, 2015). Dirigido por Joachim Trier. Escrito por Joachim Trier, Eskil Vogt. Com Rachel Brosnahan, Jesse Eisenberg, Amy Ryan, Gabriel Byrne, Ruby Jerins, David Strathairn, Isabelle Huppert, Devin Druid, Megan Ketch."
 ---
-Mais Forte Que Bombas consegue pegar o contexto mais imediatista dos conflitos armados, onde pessoas morrem e sofrem todos os dias, e através de uma fotógrafa que vive esse dia-a-dia trazer a questão de outros tipos de conflitos, mais internos e intrínsecos da convivência entre seres humano. Se torna uma tarefa difícil considerar a depressão um problema tão urgente quanto soldados atirando em mulheres e crianças, mas a dedicação  do filme em elaborar uma intrincada rede de sentimentos, navegando por diferentes períodos na vida dos seus personagens, favorece imensamente essa conexão entre sofrimento interno e externo.
+Esse é um trabalho intimista que começa no Oriente Médio, por causa da fotógrafa que pretende usar como ponto central, mas depois parte para uma família norte-americana, em que o pai e os dois filhos estão vivendo fases distintas de relacionamentos, e onde a dor da perda da mãe é fractal, pois é assim que eles estavam acostumados a vê-la, de vez em quando, em suas idas e voltas para as regiões de sofrimento humano que retratava lindamente em suas fotos.
 
-E é assim que a primeira sequência, mostrando o nascimento do bebê de um casal jovem, se transforma em poucos minutos em um exemplo de desencontro que revela mais do que deveria. É no final de um abraço inesperado, e o que ele irá significar no futuro da relação da família recém-formada, que se mantém uma narrativa cheia de movimentos sutis de o vai-e-vem do tempo vai fazendo cada vez mais sentido, pois vamos entendendo melhor cada personagem e suas relações.
+Não é um filme parado, mas é um filme que possui pouca tensão em seu conflito central, pois, bem, ele não existe realmente. É só um chamariz para adentrarmos na vida dessa familia e experimentar a confusão mental de um roteiro que vai e vem no tempo buscando respostas para quem era, de fato, a fotógrafa, e quais foram os impactos de sua ausência na vida dessa família.
 
-O roteiro, composto por Eskil Vogt e Joachim Trier, este também assinando a direção, estabelece pequenos fragmentos de conversa entre a fotógrafa Erin (Rachel Brosnahan), seu marido Gene (Gabriel Byrne), seus filhos Jonah (Jesse Eisenberg) e Conrad (Devin Druid). Essas conversas estão espalhadas no tempo pois são guiadas pelo trauma e pelo impacto da morte de Erin em um acidente de carro. O filme dedica um bom tempo com o jovem problemático Conrad, pois esse tempo é precioso justamente para que entendamos que ele não é problemático. Seu arco romântico é o que melhor define essa percepção realista de Conrad.
+Não que seja muito. Porém, a forma de conduzir a história é muito fascinante, pois cada conhecimento a mais da trama é dita casualmente, e detectar o momento em que tal coisa foi dita é por si só um exercício de aprendizagem para espectadores desatentos.
 
-Porém, em torno dele, giram impressões diferentes dos outros dois homens na família que passam por momentos diferentes em seus relacionamentos amorosos. Jonah está desesperado, premeditando que sua esposa o irá deixar. Experimentando talvez aquela ansiedade de pai de primeira viagem, ele foge de seu relacionamento buscando amparo tanto em uma ex-namorada quanto na casa de seu pai, Gene. Este, por sua vez, passa por um momento de luto em que ele precisa manter seus dois filhos no radar, mas não evita se relacionar com uma professora do colégio onde leciona e onde seu filho Conrad estuda.
-
-A traição é um tema bastante explorado no longa, mas não da forma convencional. Estamos diante de seres particularmente maduros (ou discretos) a respeito de seus próprios defeitos, e tentam conviver com eles da melhor forma possível. Como um drama intimista, o filme realiza melhor suas peripécias ao revelar seus detalhes da trama casualmente. É dessa forma que um personagem pergunta ao outro se ele o traía, ou até descobrimos que uma determinada amante sabe da existência de sua esposa.
-
-São as lacunas, ou estilhaços, que se formam no tempo e no espaço entre esses personagens, que "Mais Forte Que Bombas" prevalece como uma oportunidade de assistir um filme sem um conflito suficientemente forte para nos manter tensos, mas, ainda assim, com personagens suficientemente interessante para que a falta de um conflito maior se torne quase que irrelevante.
-
-"Louder Than Bombs" (Norway/France/Denmark, 2015), escrito por Joachim Trier, Eskil Vogt, dirigido por Joachim Trier, com Rachel Brosnahan, Jesse Eisenberg, Amy Ryan, Gabriel Byrne, Ruby Jerins
-
-
+O terceiro ato parece um pouco mais arrastado que os demais, o que dá a impressão de um final insatisfatório. Porém, o filme inteiro pode ser resumido como o prazer de observar a vida de outras pessoas e tentar entender seus problemas.

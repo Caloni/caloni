@@ -1,26 +1,25 @@
 ---
-categories: "movies"
+external: "cinemaqui"
+imdb: "4428814"
 
 date: "2016-05-20"
-imdb: "4428814"
+categories: [ "movies" ]
 title: "O Valor de um Homem"
+stars: "4/5"
+desc: "O Valor de um Homem. La loi du marché (France, 2015). Dirigido por Stéphane Brizé. Escrito por Stéphane Brizé, Olivier Gorce. Com Vincent Lindon, Karine de Mirbeck, Matthieu Schaller, Yves Ory, Xavier Mathieu, Paul Portoleau, Pierre-Jean Feld, Philippe Vesco, Christophe Rossignon."
 ---
-Lá vamos nós de novo. O Valor de um Homem não é um filme difícil, mas pode se tornar um martírio para muita gente acostumada com histórias mais "palatáveis". Esse é o típico filme que muitos comentam como "parado, sem nada acontecendo" ou, pior: sem final. Infelizmente, a história que ele pretende contar depende justamente dessa atmosfera opressiva, intimista e... parada. Sim, parada, já que não sai sequer um lufo de esperança para acalentar o protagonista desta história.
+Sim, é um filme socialista. Como poderia ser diferente, em meio a uma crise europeia, e no seu núcleo, a odiosa França, cheia de ódio pelas liberdades individuais? A França é um exemplo a ser seguido por todos os Estados: controla cada pedaço da vida de seus habitantes, e quando tudo dá errado, culpa o capitalismo.
 
-Thierry (Vincent Lindon) é um trabalhador. E está cansado de não conseguir trabalhar. Está desempregado há mais de um ano, mas vem procurando. Moralmente esgotado das conversas do grupo de colegas que foram demitidos junto com ele sobre processar a empresa, suas entrevistas denotam alguém com pouquíssimas chances de sucesso em um mundo muito competitivo e pouco caridoso com o próximo. Ele fala constantemente com sua gerente no banco, quase sempre a respeito de um empréstimo. Ela sugere decisões difíceis para Thierry, como vender o apartamento que estão quase quitando, e sutilmente sugere fazer um segudo de vida, o que pode parecer um simples ato de vendedora ou, no caso deste filme, algo que lembra os filmes mais depressivos do Cinema Coreano: às vezes a morte pode ser uma saída financeira.
+Porém, este filme é um pedaço de bom caminho, cinematograficamente falando. O diretor, Stéphane Brizé, sabe dialogar a respeito do ser humano, e fez o ótimo Mademoiselle Chambon com o mesmo ator. Aqui, Vincent Lindon faz Thierry, um operador de máquinas que, depois de ser demitido da fábrica onde trabalhava por longa data, procura por 15 meses uma recolocação no mercado.
 
-Mas não se engane. Esse filme não é tão óbvio e fácil de entender ou interpretar, e sequer a caridade de que falo. Aqui ela é justamente a mais pura, original: a que ajuda as pessoas menos capazes da sociedade. E Thierry é, sim, bem incapaz. Ao menos nos moldes da realidade que vivemos, do universo do filme. Ele não está atualizado o suficiente para continuar em seu ramo, após a despensa da fábrica em que trabalhava sabe-se lá por quanto tempo.
+Só que o mercado foi dilacerado por medidas populistas. Vemos Thierry em uma entrevista, visivelmente desesperado. Essa desespero o acompanha até o banco, onde sua gerente sabe tudo sobre ele, suas necessidades... e não pode fazer nada mais do que oferecer um seguro de vida. A morte, já dizia o cinema coreano, às vezes é uma saída fácil, financeiramente falando.
 
-Ele é incapaz até de fazer uma entrevista bem sucedida, e o vemos ser julgado por isso rodeado de pessoas sinceras demais. Preso a lembranças de uma época mais fácil, sua nostalgia o impede até de negociar a venda de um casebre que lhe daria alguma folga financeira. Mas não: Thierry é um humano simples que não consegue mais se encaixar no mundo.
+Porém, este não é um filme tão óbvio, e a direção intimista de Brizé, com a câmera na mão e closes absurdos, mesmo com o zoom meio torto, entrega um trabalho baseado em saltos no tempo e espaço que vão pincelando o que o diretor acha sobre esse tema, criando um universo em que a vida não é nada fácil para os trabalhadores e para os clientes.
 
-No entanto, disposto a priorizar as chances de sucesso de seu filho, faz de tudo para conseguir encaminhá-lo nos estudos. O que é mais um problema. Não tanto pela sua limitação física, mas pela pressão para o garoto. Nesse sentido, o pai acaba sendo reflexo do próprio mundo em que vive, e onde a competitividade pode engolir as pessoas, e onde os superiores no cargo, ou empregadores, quase nunca possuem discernimento para julgar pessoas. E, no entanto, é justamente isso que fazem.
+A virada do filme acontece quando ele de fato consegue um emprego, mas em outra área, e passa a monitorar furtos em um supermercado, e acompanha as pessoas responsáveis por pequenos delitos, sejam elas clientes ou mesmo funcionários. Sua queda financeira pode ser sentida aos poucos. A sutileza é um ponto forte do longa.
 
-E é exatamente aí que o filme se torna um exercício fascinante de abstração. Quanto pensamos que este vai ser um filme trágico, ele de desenvolve através de sua ruptura: Thierry arruma um emprego. No entanto, sua nova função é mais um artifício para discutir o tema do julgamento do próximo. Infelizmente, o filme de Stéphane Brizé é maniqueísta demais para entregar algo mais complexo do que a visão limitada de um mundo feito de zumbis, e onde as relações entre os seres humanos são todas frias.
+A interpretação de Vincent Lindon, com seu bidoge boa pinta, mas sua falta de sorriso e um olhar cabisbaixo revelam um homem prestes a desabar. Até dançando ele é metódico... e um desastre. Sua incapacidade de lidar com o mundo que o cerca é o reflexo de nós mesmos, como espectadores, vivenciando aquela realidade opressiva (do "capital", claro... das "grandes empresas", claro), onde clientes e funcionários são questionados em uma salinha do lado sobre furtos e pequenos delitos.
 
-Vincent Lindon faz aqui uma interpretação econômica e poderosa. Ele já foi o homem comum de Mademoiselle Chambon, do mesmo diretor. Agora ele é um homem comum sendo esmagado pelo sistema, e quando não o vemos de frente, seu semblante de desesperança, o vemos como a figura que observa, cada vez mais, impassível diante do que o diretor considera uma injustiça contra o ser humano.
+E, obviamente, a grande sacada do filme é que Thierry vai se tornando aos poucos "um deles". Sua existência castigada de diferentes formas, seja uma oferta baixa por um casebre onde passou bons momentos, ou os julgamentos de um grupo absurdamente sincero a respeito de um vídeo de uma entrevista sua, ou até mesmo a observação de fatos da vida, como a aposentadoria de uma funcionária com 32 anos de casa, ou o suicídio de uma outra, interrogada por utilizar cupons de descontos. Sim, a essa altura o filme joga sua sutileza para o alto e, como todo bom filme propagandista (e comunista), tenta esfregar na nossa cara o aburdo dessa situação.
 
-O tom intimista da direção de Brizé, com a câmera sempre na mão, e cortes secos na narrativa, tornam o conteúdo episódico e universal. Mas, não precisamos lembrar, este é um exemplo de filme maniqueísta que quer provar seu ponto. E o faz muito bem. Não quer dizer que esteja certo, mas apenas que argumenta bem. Um filme que passa rápido, que nunca entedia. A não ser, é claro, que você esteja procurando um conteúdo mais pipoca.
-
-"La loi du marché" (France, 2015), escrito por Stéphane Brizé, Olivier Gorce, dirigido por Stéphane Brizé, com Vincent Lindon, Karine de Mirbeck, Matthieu Schaller, Yves Ory, Xavier Mathieu
-
-
+Sim, é absurdo. Não é isso que estou questionando. Porém, desconfio que claramente divergimos quando o assunto é por que isso se tornou absurdo dessa forma. Isso o filme não discute, e nem quer saber. Assim como Thierry, sua vida vitimista vai apenas encantando as pessoas, obcecadas pela pobreza, de espírito e de dinheiro.

@@ -1,20 +1,19 @@
 ---
 title: "24 Frames"
+external: "cinemaqui"
 imdb: "6777170"
+
+stars: "4/5"
 date: 2017-10-24T01:51:39
-categories: "movies"
-
+categories: [ "movies" ]
+desc: "24 Frames. 24 Frames (France, 2017). Dirigido por Abbas Kiarostami."
 ---
-Eu sei, eu sei. 24 Frames pode não ser o melhor entretenimento para o espectador médio... não, "pode não ser" é um senhor eufemismo. Ele não é um entretenimento. Ponto. O novo filme de Abbas Kiarostami (Cópia Fiel, Um Alguém Apaixonado) vai além da própria linguagem cinematográfica começando do começo: o que é um frame? Você vai descobrir. Em 24 deles.
+24 Frames é o cinema experimental de Abbas Kiarostami, que está mais experimental que nunca. Ele resolve pegar um filme de 114 minutos e dividir em exatos 24 frames. Cada frame é praticamente estático, com a exceção de alguns animais (e pouquíssimos humanos) que se movem na tela. Há pouquíssimas cores, e muita, muita, muita neve.
 
-E através de 24 frames, ele irá ensinar o espectador que tenha a paciência de acompanhar os 114 minutos deste filme sobre o que é o exercício mental ao assistir um filme, e como nosso processo criativo, ou da imaginação, é quem de fato constrói mais dados do que imaginamos construir.
+Tudo isso em uma estrutura simples, previsível, que torna tudo entediante ao máximo. O motivo? Por contrastre, o motivo, eu diria, é fazer o espectador pensar. E ao pensar, ele irá concluir que é sua imaginação a única que pode estar criando algum significado aqui. Kiarostami tem seu estilo, mas definitivamente ele não está forçando uma narrativa aqui. Tudo depende de quem assiste.
 
-Porque uma coisa é certa: o espectador médio espera que lhe contem o que ele deve pensar e sentir. E Kiarostami está fazendo o exato oposto aqui. Em 24 quadros, onde a grande maioria é praticamente estática, veremos, na maioria também, pássaros, ou outros animais menores, se comportando como animais. Cada quadro dura em média 5 minutos (se você não fez a conta), e ao seguirmos pacientemente um a um irá sugir algo mágico em nossas cabeças: a criatividade.
+E o que será que você, caro leitor, irá pensar de tudo isso? A fotografia, apesar de minimalista, é belíssima. E os movimentos dos animais, obviamente montados via computador (sejam eles reais ou não) soam às vezes ligeiramente robóticos, o que dá a sensação de estar em um simulacro. Outra coisa que dá essa sensação é o tempo. Muita neve fica caindo incessantemente, e há muitos espaços em branco, o que dá novamente a sensação de olhar uma simulação.
 
-É a criatividade que irá lhe dizer para onde vai esse filme, sobre o que ele é, qual a moral da história. Você pode pensar que este é um simulacro da realidade, já que os animais não parecem reais, mas computações muito bem desenhadas em cima de um matte paiting belíssimo, com uma fotografia tão deslumbrante, minimalista em cores (na maioria preto & branca) e que não cansamos de olhar.
+Cada frame está separado completamente do seguinte, mas há alguns temas bem recorrentes. Quando Kiarostami dá um salto para uma Torre Eiffel, o padrão se quebra. Coincidência? Acho que não, ele quer dizer alguma coisa aqui. É seu...  nosso dever, tentar descobrir o que é.
 
-Você pode também pensar que tudo não passa de uma maneira de observarmos, com calma, como a realidade é uma espécie de simulacro, mas que nunca nos damos conta porque... bem, porque a vivemos todo santo dia! E se tudo que estivermos vivendo não for um filme que se passa em nossas cabeças. O que vemos no mundo se parece tanto com os frames de Kiarostami, ou são os frames dele que se parecem com a vida real? E esta é a vida real, mesmo?
-
-"24 Frames" (France/Iran, 2017), escrito por Writers, dirigido por Abbas Kiarostami, com Cast
-
-
+Eu desconfio. Tenho minhas filosofadas. Mas não quero compartilhar ainda. Talvez eu veja novamente este filme, que assim como aquela pegadinha de primeiro de abril da Netflix, faz você viajar em conceitos (mas esse sem narração). Não vá com sono. Ou, se você é cinéfilo, provavelmente achará essa viagem fascinante. Depois me diga o que achou ;)

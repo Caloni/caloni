@@ -1,24 +1,15 @@
 ---
+external: "cinemaqui"
 imdb: "5222918"
+
 date: 2017-11-06T20:49:42
-title: "O Outro Lado da Esperança"
-categories: "movies"
-
+categories: [ "movies" ]
+title: "O Outro Lado da Esperanca"
+stars: "3/5"
+desc: "O Outro Lado da Esperanca. Toivon tuolla puolen (Finland, 2017). Dirigido por Aki Kaurismäki. Escrito por Aki Kaurismäki. Com Ville Virtanen (Oikeussalin viranomainen), Dome Karukoski (Huligaani bussipysäkillä), Kati Outinen (Vaatekaupan omistaja), Tommi Korpela (Melartin), Sakari Kuosmanen (Wikström), Sherwan Haji (Khaled), Niroz Haji (Miriam), Tommi Eronen (Huligaani bussipysäkillä), Mirja Oksanen (Oikeussalin viranomainen)."
 ---
-O Outro Lado da Esperança cria metáforas visuais que ao longo da história servirão para martelar o incômodo e o absurdo. Vemos um navio se aproximando. A câmera se aproxima dele, que atraca no porto. É um navio que carrega asfalto. E do asfalto eis que surge um imigrante. Sujo de ponta a ponta. Toma um belo banho e está limpo de novo. A "mesma coisa" acontece com o vendedor que se livra de todo seu estoque e transforma o seu dinheiro em um restaurante. Ambos estão tentando tocar suas vidas, mas é difícil, pois ambas estão tocadas pela truculência das autoridades. Bom, pelo menos há um pouco de humor para ilustrar o absurdo da situação.
+O Outro Lado da Esperança é o cinema filandês mostrando mais uma vez como é bizarro. E aqui o humor é bizarro. A ideia é contar uma história sobre imigração, mas o resultado é limpinho demais, formatado demais, para que seja apenas isso. Vemos paredes e cenários comportados e personagens com diálogos surreais. Um vendedor se separa de sua mulher alcóolatra para abrir um restaurante, que sempre dá certo porque as pessoas bebem quando estão mal... e quando estão bem. Enquanto isso, Khaled, um imigrante dessas zonas de conflito, tem seu cabelo arrancado e seus direitos também. Sua presença de espírito é uma das melhores coisas do filme, que navega em incongruências engraçadas tentando encontrar sua própria razão de existir.
 
-O novo filme de Aki Kaurismäki explora pequenos absurdos cotidianos que não são engraçados, mas simplesmente... absurdos. O resultado é um filme leve, gráfico, teatral, mas ao mesmo tempo surreal. Ele caminha fácil entre planos, levando sua história a pontos que possivelmente já imaginaríamos, mas não com tanta criatividade.
+E aparentemente não encontra. O Outro Lado da Esperança brinca com um coisa séria como a imigração fazendo pouco caso das autoridades do seu país (o que faz todo sentido). Khaled resolve seguir o processo oficial da Finlândia e acaba recebendo a inútil (e mentirosa) informação que a zona de onde fugiu nem é tão perigosa assim. Ao mesmo tempo um vendedor de camisetas aposta tudo que tem em uma partida de pôquer ilegal. E todos adoram saber quais cartas vão ser abertas no pôquer...
 
-O filme fala sobre imigração, isso é óbvio. Mas ao mesmo tempo parece querer dialogar com todo homem comum que deseja mais. E quando o imigrante e o vendedor desejam mais, todos se viram contra eles. Mas o próprio sistema já é uma contradição ambulante. Assim como as pessoas. Repare no vendedor. Ele está insatisfeito com sua mulher, que bebe sem parar. Então ele deixa a aliança na mesa, se despede e parte para abrir um restaurante, que é um ótimo negócio, pois "as pessoas bebem quando as coisas estão mal, bebem quando as coisas estão bem".
-
-Já o imigrante, caracterizado com uma presença de espírito ímpar pelo ator estreante Sherwan Haji, consegue manter seu tom do começo ao fim. Ele quase não muda, mas o vemos mudar. Nem que seja por dentro. Ele espera resgatar sua irmã para tentar construir uma vida onde foi parar: na Finlândia. Mas a Finlândia parece uma terra de loucos. Pelo menos a trilha sonora é divertida. E a música tocada pelo seu personagem, Khaled, perfura nossos corações em poucos segundos.
-
-Agora observe a trajetória dos dois protagonistas. Para um deles, o vendedor, as coisas parecem que estão dando sempre certo. Quero dizer, o sujeito vende todo seu estoque de camisetas e vence o chefão de uma jogatina ilegal e sua quadra com um straigh flush. E mesmo lotando seus sushis com toneladas de wasabi, dezenas de clientes orientais aparecem para conferir.
-
-Já a trajetória de Khaled é o extremo oposto. Tentando jogar pelas regras ele se cadastra no programa de imigração do país, fica à deriva por um bom tempo e é atacado por radicais nazistas. Mesmo quando ele se dá bem por um momento, sabemos que no máximo será isso: um momento. O que não impede que a sua história também seja otimista, ou pelo menos leve.
-
-Mas seja de uma forma ou de outra, "O Outro Lado..." não consegue acertar bem o que pretende falar. Ele é estiloso, possui bons personagens em criativos momentos. Seu humor vai crescendo aos poucos, mesmo sem conseguir ser inteligível. Mas sua mensagem... essa se perdeu no mar. Apenas os imigrantes sobreviveram.
-
-"Toivon tuolla puolen" (Finland/Germany, 2017), escrito por Aki Kaurismäki, dirigido por Aki Kaurismäki, com Ville Virtanen, Dome Karukoski, Kati Outinen, Tommi Korpela, Sakari Kuosmanen
-
-
+Algumas esquisitices do diretor/roteirista Aki Kaurismäki passam despercebidas, mas a maioria começa a cantar em uníssono durante o filme. Este não é um filme que é fácil de entender tudo que está sendo sugerindo. Mas ele parece ser um tipo de filme simples que se vê na sessão da tarde. Paradoxal como pode ser, o importante é que coisas acontecem, e elas nunca param. O Outro Lado da Esperança ousa sonhar que geralmente as coisas acontecem para melhor.

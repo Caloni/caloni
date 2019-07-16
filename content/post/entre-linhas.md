@@ -1,21 +1,19 @@
 ---
-categories: "movies"
+external: "cinemaqui"
+imdb: "3365280"
 
 date: "2016-10-20"
-imdb: "3365280"
+categories: [ "movies" ]
 title: "Entre Linhas"
+stars: "2/5"
+desc: "Entre Linhas. The Unattainable Story (USA, 2016). Dirigido por Emilia Ferreira. Escrito por Gay Walley, Guinevere Turner. Com Irina Björklund (Jacqueline), Harry Hamlin (David), Kevin Kilner (Peter), Edoardo Ballerini (Skene), Caprice Benedetti (Annette), Margot Bingham (Alma), Ewa Da Cruz (Annick), Lukas Hassel (Stefka), Benjamin Eakeley (Teacher)."
 ---
+Este é um filme independente que se veste de narrativa complexa sobre relacionamentos e metalinguagem, mas que não consegue pintar personagens dignos de figurar em uma trama desse nível. Dessa forma, seja tecnicamente ou artisticamente, a produção de torna pedestre, e até um pouco pretensiosa, ao tentar dramatizar um thriller absurdo e psicologicamente não apenas confuso, mas raso em seu núcleo.
 
-Entre Linhas ensaia ser pretensioso, ou de alguma maneira intrincado. Porém, para que isso aconteça, é necessário que seus personagens tenham algo a dizer além de questões existenciais sobre relacionamentos. E mesmo que fôssemos elogiar sua emaranhada montagem, que preza por idas e vindas entre dois namorados muito parecidos da protagonista, isso se torna impossível a partir do momento que percebemos que não se trata de descobrir um motivo para o vai-e-vem temporal, mas de ser diferente pelo simples prazer de ter mais personagens a dizer frases aleatórias sobre a vida.
+Pois, vejamos. Jacqueline é uma escritora que ou cria relacionamentos fictícios para si e sua protagonista ou reflete seus relacionamentos passados para ela, jogando ao mesmo tempo com o atual flerte com o diretor da peça que ela pretende escrever. Dessa forma, o filme fica pulando entre dois relacionamentos passados de uma heroína fictícia que nada faz a não ser conversar com seus amantes, na praia, na prisão e em sua casa. Eles são bonitos, charmosos, mas igualmente vazios. Não há muito no filme que os tornem tridimensionais, e muito que os façam parecer clichês de novela.
 
-E, se formos notar, o próprio filme entrega sua mediocridade em uma produção em estilo independente, que mistura uma trilha sonora tensa de mistério com uma fotografia televisiva, personagens na contra-luz e, como já disse, uma montagem que não é necessariamente confusa; apenas irrelevante.
+E o que mais ajuda nesse clima de novela é a fotografia televisiva (leia: pouco trabalhada) aliada com uma trilha sonora que busca a todo momento trazer tensão ao espectador.
 
-Irrelevante pelo menos para a história que deseja contar. É sobre um diretor de teatro (Harry Hamlin) e uma escritora, Jacqueline (Irina Björklund), construindo uma peça sobre os próprios relacionamentos da autora, ou são relacionamentos fictícios vivenciados por ela como em primeira pessoa (que pode estar montando um personagem através de diferentes impressões de relacionamentos). No final das contas, isso não importa, já que seus namorados são galãs tirados de telenovelas, o que torna as comparações insípidas. Um gosta de velejar sozinho por longos dias; outro teve problemas na justiça e tenta se reabilitar através de sua arte. Esse segundo até gera algumas questões interessantes, como a incapacidade de Jacqueline de viver sob o mesmo teto com outro criador (artístico). Além disso, Jack tem uma amiga que tem um cachorro e com quem discutem esses relacionamentos e questões mais genéricas, como traição. Daí você me fala: isso tem ou não tudo a ver com uma telenovela mexicana cult?
+Tensão essa que nunca se concretiza, pois todo o emaranhado da montagem não consegue trazer nada de significativo à história, exceto não cairmos de sono.
 
-Para piorar, há um flerte sempre no ar entre diretor/roteirista que beira o clichê, mas que o atinge completamente quando começam os testes com a atriz que  fará a heroína no teatro. Não por acaso, o narrador de tudo isso é o próprio diretor, que começa toda essa elucubração ao observar os atores em cena junto de sua roteirista.
-
-O que salva parcialmente a experiência é que ele pode ser visto como um longa metragem rápido. O que não o salva é se você perceber que no fundo é um curta-metragem, quase um conto, extremamente longo. Nesse caso, apenas desejo que você goste de novelas.
-
-"The Unattainable Story" (USA, 2016), escrito por Gay Walley, Guinevere Turner, dirigido por Emilia Ferreira, com Irina Björklund, Harry Hamlin, Kevin Kilner, Edoardo Ballerini, Caprice Benedetti
-
-
+O que é um ponto positivo no filme, que é curto, quase um conto alongado, e que serve como laboratório de testes. Infelizmente, os testes feitos não parecem ter gerado o efeito desejado.

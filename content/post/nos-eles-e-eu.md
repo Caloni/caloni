@@ -1,26 +1,25 @@
 ---
-categories: "movies"
+external: "cinemaqui"
+imdb: "4598764"
 
 date: "2016-04-30"
-imdb: "4598764"
+categories: [ "movies" ]
 title: "Nós, Eles e Eu"
+stars: "3/5"
+desc: "Nós, Eles e Eu. NEY: Nosotros, ellos y yo (Argentina, 2015). Dirigido por Nicolás Avruj. Escrito por Nicolás Avruj, Alejandro Dujovne, Andrea Kleinman. Com Nur Al Levi, Frieda Geffner, Abu Harbed, Sebastián Muller, Iosef Shai."
 ---
-Um documentário não é obrigado a destilar sua opinião para todos os lados, mas no caso de "Nós, Eles e Eu", um filme feito por um diretor judeu e membro de uma família sionista, a opinião sobre o eterno conflito entre judeus e palestinos parece inevitável.
+Eis um dos primeiros filmes de um "isentão". Pelo menos um dos primeiros feito depois que o termo foi cunhado. Um argentino judeu leva 15 anos para editar o documentário de suas memórias gravadas da viagem que fez para a terra prometida quando mais jovem. Talvez tentando achar o equilíbrio perfeito de opiniões a respeito do conflito palestino, acaba se transformando em uma ode à covardia.
 
-O mais curioso do filme, então, é que não vemos muita opinião. Pelo menbos não a do filme, mas a nossa. Munidos de nossos preconceitos, qualquer novo acontecimento será interpretado com o viés de estar assistindo a "conteúdo judeu". Ledo e divertido engano. Estamos tão acostumados com visões parciais do conflito que não encontrá-las, ainda mais em um documentário pessoal, soa estranho.
+E, de fato, em um momento, um palestino comenta: todos os judeus são covardes. E todos os israelenses são judeus.
 
-O diretor, Nicolás Avruj, de família Argentina, passou um tempo vagando pelas terras israelenses e árabes, nunca revelando sua origem. Ele passa um tempo na faixa de Gaaza, nos arredores de Tel Aviv e em regiões onde a situação das pessoas nunca é de segurança. O mais fascinante de sua história contada em registros é ver que há diferentes pontos de vista. Dessa forma, chegamos a ouvir da boca de um palestino que ele ama a guerra, e que seus filhos deverão continuar os conflitos. Ele fala isso de forma natural pois passou toda sua vida nessa realidade. Para ele, é algo tão comum quanto fazer parte de uma torcida organizada, e onde não escolher um dos lados é impensável.
+Esse também é uma ode à ignorância, ou como viver em uma realidade opressiva. Alguns convivem numa boa ("eu amo a guerra, desde que nasci"), outros buscam justificativas ("Deus criou a terra, ele dá para quem quiser") e críticas demagogas ("quantas crianças Israel já matou hoje?"); poucos buscam a lucidez ("ninguém, vencedor ou perdedor, conseguirá viver nesse clima de medo").
 
-De certa forma, é mais ou menos assim que ambos os lados se sentem. Todos parecem ter um bom motivo para defender seu lado, ignorando que já fazem parte dele antes mesmo de terem opinião. Com exceção, claro, dos poucos com lucidez o suficiente para enxergar que tudo aquilo é loucura e que ninguém vive bem em um ambiente desses, vitorioso ou perdedor.
+O caso é que todos possuem uma opinião a respeito, e todos se abrem mais cedo ou mais tarde. A função do diretor aqui é se fingir de isento, mas paulatinamente tecer sua visão pacifista pró-Israel, mas nunca tendenciosa. Se algum crítico apontar isso, obviamente estará errado. Assim como nunca houve um nazista entre a população alemã.
 
-Contando uma história como retrospectiva, sendo que Avruj narra sua viagem feita 15 anos atrás, o recorte de momentos é sempre ágil, mesmo que na maioria das vezes contenha pessoas dando seu testemunho. O que gera a tensão é ele, por exemplo, estar entre palestinos com opiniões radicais, falando que judeus são covardes. Ele havia inicialmente combinado consigo mesmo não revelar sua origem judaica, exceto se lhe perguntarem. Porém, são exatamente esses momentos de tensão o fazem mudar de ideia: não irá revelar sua origem mesmo se lhe perguntarem.
+(Pronto, já cumpri a lei de Godwin, necessária nessa discussão. Podemos prosseguir em paz, antes que os judeus se transformem em baratas e fujam por debaixo da porta.)
 
-Até onde vai a loucura gerada pela péssima decisão balizada pela ONU quase 60 anos atrás? O que existia antes? O filme não se importa muito em responder essa questão. Um senhor, já bem idoso, sim. E confirma: as pessoas viviam bem antes da chegada do Estado de Israel, sendo que já existiam muitos judeus morando na região. Hoje parece inadmissível algo mais que natural: pessoas vivendo em paz (porque isso é benéfico para todos, observa uma judia que frequenta uma casa de colonos palestinos).
+O filme foi editado em um trabalho magnânimo de pinceladas dos vídeos do diretor em sua viagem quando jovem. Demorou quinze anos para ser feito, mas merece todos os créditos por inserir uma discussão equilibrada sobre o assunto, e usar pessoas comuns para essa tarefa. Ao final, você terá simpatizado com uma ou duas pessoas (no máximo) e lamentado a falta de visão de todo o resto. De uma forma ou de outra, eles estão lá, nós estamos aqui. E daí o título. É uma provocação deliciosa sentir que não fazemos parte dessa discussão que gera dor e sofrimento para milhares de pessoas todos os dias. E elas possuem falta de visão.
 
-Em não tentar nunca responder perguntas, e na maioria dos momentos evitar o conflito de ideias, mas apenas apresentá-las em uma cadência que deixa claro "de que lado se torce", "Nós, Eles e Eu", em sua isenção, acaba aos poucos se tornando a figura cada vez mais comum e ignorante do cenário político brasileiro: o "isentão". Em tentar não tomar partido, não só acaba tomando, como podemo notar pelo inevitável sionismo da origem do diretor, como tenta negá-lo a todo momento, soando hipócrita ou na melhor das hipóteses, inútil.
+É um filme ágil sobre pessoas falando. Pode dar sono em momentos pontuais, mas dificilmente irá tirar o interesse no assunto. Pelo contrário: depois que ele acaba é que começa a discussão, uma de suas melhores virtudes.
 
-O mais curioso é que, ao negar suas origens e seus argumentos, na ponta da língua (ou da lente da câmera), é nisso que se transforma uma opinião quando esta tenta ser imparcial, isenta, neutra. Inconscientemente o negócio vira uma das aberrações do (outro) sionista Amos Gitai, como em Carmel (embora não tão horrivelmente executado). Não que isso seja culpa do diretor. Sua visão pode ser pura e ingênua como os colonos da periferia de Gaza. Se desprovido de exercício intelectual e argumentativo, vira um desses trabalhos de escola relativista, que não exprime opinião por ter medo de levar nota baixa. Talvez essa seja a guerra do medo do mundo civilizado: o que você disser e não disser será usado contra você. Ainda mais se você for um sionista covarde.
-
-"NEY: Nosotros, ellos y yo" (Argentina/Israel/Occupied Palestinian Territory, 2015), escrito por Nicolás Avruj, Alejandro Dujovne, Andrea Kleinman, dirigido por Nicolás Avruj, com Nur Al Levi, Frieda Geffner, Abu Harbed, Sebastián Muller, Iosef Shai
-
-
+E discussão é o que nosso amigo "isentão" evita a todo custo, um "sacrifício" pela busca da verdade. E a verdade, é claro, está no seu filme, nas entrelinhas. Então tá.

@@ -1,30 +1,11 @@
 ---
-date: 2018-08-01T15:56:07-03:00
+date: 2018-08-01T16:22:57-03:00
 title: "O Animal Cordial"
-categories: [ "movies" ]
+desc: "O Animal Cordial (Brasil, 2017), escrito e dirigido por Gabriela Amaral Almeida, com Murilo Benício, Luciana Paes, Irandhir Santos."
 imdb: "5126274"
 
+categories: [ "movies" ]
+stars: "4/5"
+external: "cinemaqui"
 ---
-O Animal Cordial é um laboratório humano. Seu título já é uma contradição em termos, e durante todos os tensos 93 minutos do filme vamos encontrando o animal dentro do homem, mas nunca o cordial. Isso porque vivemos em tempos estranhos, onde a imaginação sobre o ódio atinge níveis utópicos, e nos transforma em indivíduos lutando por um espaço.
-
-O laboratório em questão fica em um restaurante no final da noite que está prestes a fechar. Você sabe a cena. Funcionários ansiosos para ir embora, porque nunca quiseram estar lá em primeiro lugar (enxergamos apenas o chefe que retruca, não o trabalhador que não trabalha). O último cliente logo viram três, quando chega um casal sem a menor pressa e com todos os estereótipos de pedantismo adaptado para tupiniquim em dia, incluindo o dom inexplicável do cliente que quer provar que conhece mais dos vinhos servidos pela casa do que o próprio dono.
-
-Daí de repente a panela ferve um pouco mais e a tampa já quente começa a tremer quando dois assaltantes entram no recinto para apavorar geral. A história também começa a se tornar surreal, pois nunca ouvi falar de bandidos "trabalhando" até essa hora da noite, e ainda por cima em um fim de mundo como aquele (para assaltar um restaurante decadente você está no fim de carreira nos assaltos). Também fica difícil acreditar no dono do lugar tendo uma arma e sabendo atirar, já que a sociedade brasileira se encontra atualmente como cordeirinhos obedientes esperando o lobo para os salvar.
-
-Mas para surpresa geral este brasileiro no filme tem uma arma, sabe atirar e o sangue apenas começou a ser derramado. E você torce para que mais sangue bandido respingue e manche com o tom tinto de um vinho derramado todo aquele lugar. Não sem antes uma tortura leve, pois esses animais abusaram sexualmente das mulheres no recinto. Sim, é um escape fácil e divertido querer ver sangue, e o filme parece querer não apenas nos chocar, mas nos identificar com a situação, o que gera sentimentos estranhos.
-
-Note, por exemplo, como os personagens aparentemente não ligam de levar um tiro. Ninguém tem medo de retrucar o cara que está com a arma engatilhada. Esta panela que tremeu no começo, vamos descobrindo, é de pressão. E se o roteiro da diretora Gabriela Amaral não consegue nos dar pistas suficientes exceto uma fala ou outra para entendermos que ninguém está a caminho de salvar essas pessoas, ao menos ela sabe muito bem o que faz no cada vez mais bem vindo gênero do terror brasileiro. O gore não é gratuito, mas também não é sério. É uma catarse do absurdo. Planos próximos, claustrofóbicos, nos ajudam a ver o conjunto da obra: as emoções aflorando no rosto dessas pessoas. Emoções essas sempre negativas. Não há bonzinhos a esta hora em um restaurante de beira de bairro.
-
-Há várias maneiras de interpretar este filme, e boa parte do divertimento do espectador é fazer isso sozinho. Apenas repare nos elementos que são colocados em cena, como termos vários ambientes no mesmo restaurante, como microcosmos dentro de um microcosmo. Há a cozinha e seus habitantes, o banheiro que serve de escape, o modesto salão e o balcão, lado a lado, que permite uma certa discrição, mas não muita, pois todos podem ver as ações e reações de quem se encontra lá. Essa atmosfera claustrofóbica que vai se formando e a falta de diálogos que esclareçam o que vai acontecer em seguida (nunca sabemos, isso é importante) faz nosso intelecto ganhar asas à imaginação, que está sob o efeito inebriante da violência.
-
-Luciana Paes faz aqui um papel que foge do seu padrão de comédia (Sinfonia da Necrópole) ou algo mais leve, mas ela usa suas expressões e comportamentos estranhos em prol de uma personagem que é uma incógnita. Ela está apaixonada pelo dono do restaurante, e sua visão deturpada da realidade vira mais um espelho distorcido daquela realidade absurda que vai escalando cada vez mais. E ao mesmo tempo que o assunto é sério ela consegue espaço para pequenos alívios cômicos, como a forma animalesca que ela destroça o que parece ser uma coxinha de frango, ou a maneira lúdica com que tira as sobrancelhas de uma cliente e usa como bigode. Quase parece não haver roteiro lá, pois o talento de Luciana preenche as lacunas de sua personagem além da própria ficção.
-
-Já Irandhir Santos, um sempre competente ator, tem pouco a acrescentar na história principal, mas serve de estopim e mecanismo de ódio para que o dono do restaurante tenha um alvo fácil em meio ao caos. Irandhir é Djair, o cozinheiro, aparentemente talentoso, mas com má sorte. Ele é gay, ou parece. Tem cabelos longos, que exibe com um certo orgulho inconsciente, o que é mais um motivo para que seu chefe destrate o sujeito.
-
-E Murilo Benício, como Inácio, o dono e chefe do restaurante, figura multifacetada que parece estar sempre se defendendo do mundo utilizando a violência, seja no trato com seus funcionários ou no circo que depois se forma em seu restaurante. Seu personagem tem profundidade, mas vemos suas mãos atadas dentro de uma persona que não consegue enxergar outra forma de resolver seus problemas. Ele é o epicentro de um furacão de acontecimentos no filme, é força bruta que se mantém enigmática, difícil de verbalizar, mas que está lá para todo mundo ver.
-
 Note como O Animal Cordial se beneficia do sistema de som do restaurante para traduzir o caos que se forma na cabeça das pessoas naquela situação, em uma seleção de músicas que diz muito sobre a atmosfera imprevisível do filme. Se trata de um trabalho alegórico que vem em forma de violência gráfica, quase uma catarse sem muitos motivos para serem enumerados. Quem assistir pode dar sua impressão sobre o que se trata. Ele pode se tratar de muitas coisas, mas como um restaurante contemporâneo, há um cardápio variado para você escolher por que agimos como animais em nossas cabeças e nos disfarçamos de cordiais em nossa problemática sociedade?
-
-"O Animal Cordial" (Brasil, 2017), escrito e dirigido por Gabriela Amaral Almeida, com Murilo Benício, Luciana Paes, Irandhir Santos.
-
-

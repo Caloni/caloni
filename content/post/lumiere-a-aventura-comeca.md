@@ -1,24 +1,19 @@
 ---
+external: "cinemaqui"
 imdb: "5954462"
+
 date: 2017-12-02T00:56:06
+categories: [ "movies" ]
 title: "Lumière! A Aventura Começa"
-categories: "movies"
-
+stars: "5/5"
+desc: "Lumière! A Aventura Começa. Lumière! (France, 2016). Dirigido por Thierry Frémaux. Escrito por Thierry Frémaux. Com Thierry Frémaux (Narrator), Martin Scorsese (Himself), François Clerc (The Gardener), Benoît Duval (The Boy), Leopoldo Fregoli (Himself), Loie Fuller (Herself), Madeleine Koehler (Herself), Mrs. Auguste Lumiere (Herself), Andrée Lumière (Himself)."
 ---
-"Lumière! A Aventura Começa" entra nos arquivos dos inventores do cinematógrafo para descobrir onde surgiu o Cinema. Sim, porque a criação dos irmãos Lumière, assim como o cinetoscópio de Thomas Edison, ou qualquer outra invenção maluca da época, não era muito mais que isso: uma invenção maluca. Um entretenimento qualquer. E uma das muitas aventuras que estavam por vir no século seguinte.
+Os inventores do equipamento que permitiu o surgimento da sétima arte filmaram cerca de 1400 filmes. A maioria tinha a duração de 50 segundos, o limite do primeiro rolo. Além de completamente mudo e operador por pessoas que nunca tiveram a experiência que temos de Cinema e que testemunhavam o nascimento não de uma arte, mas de uma invenção para o entretenimento. E, mesmo assim, em 108 dessas filmagens, é possível observar como, da mesma forma com que o cérebro humano cria movimento, o espectador emerge de um trabalho consciente em enxergar naquela série de imagens uma história, uma moral, uma narrativa e uma emoção.
 
-O Cinema como arte surgiu em um momento depois, e foi uma nova descoberta: a linguagem cinematográfica. Era possível se expressar de maneira diferente dos habituais textos, pinturas, esculturas, peças e fotografias. As invenções da época foram diferentes formas de "asfalto" para que novos "veículos" trafegassem por ele, em uma época onde imperavam as charretes. Ou uma analogia mais direta: foram inventadas letras para que as pessoas pudesses usar palavras.
+Já havia sugerido [um recorte](/os-10-melhores-filmes-dos-anos-90-1890/) do A.V. Club com os 10 melhores filmes da década de 1890. Já são trabalhos de respeito. Porém, o que o diretor Thierry Frémaux faz aqui é trazer um trabalho árduo de restauração, arquivamento, levantamento histórico e ainda uma narração (do próprio diretor) que tenta buscar sempre nessas cenas de 50 segundos o surgimento da arte cinematográfica. Nem que seja por acidente. Ele vê que os operadores já estavam preocupados naturalmente com questões que já nasceram junto da invenção, mas que fazem parte da linguagem artística, como enquadramento, movimento da câmera, narrativa, roteiro, profundidade de campo, mise en scene.
 
-A proposta deste filme é apresentar a arte engatinhando. Não apenas nas mãos dos Lumière, mas de seus operadores de câmera também. Os criadores do cinematógrafo mandavam seus operadores apontar suas câmeras para cenas do cotidiano, cenários históricos e alguma ficção. Seu limite era uma câmera que precisava ficar parada no chão e os 50 segundos de limite do rolo de filme.
+A forma com que ele explica em seu texto esses nuances é usando um pouco de humor, um pouco de didática e um pouco de diversão. Os irmãos Lumière sempre defenderam o cinema como entretenimento para as massas (um teatro não tão caro). Este filme mantém a visão original dos inventores, mas ao mesmo tempo arrisca ensinar o espectador médio sobre um travelling, um enquadramento. Nós vemos o entusiasmo na voz do diretor falando sobre isso, e qualquer cinéfilo também ficaria. Mas dane-se, este é um filme de e para cinéfilos. Não é para amadores.
 
-O resultado: mais de 1400 filmes em menos de 10 anos. A maioria desse conteúdo se perdeu no tempo, mas boa parte foi restaurada e remasterizada no formato digital. Este filme apresenta -- pasmem -- 108 filmes dessa época, que compreende entre os anos de 1896, a invenção do cinematógrafo, até 1905. E ele se torna, assim como o último Metrópolis exibido depois da restauração feita com cenas redescobertas, um pedido de desculpas à humanidade pela perda lastimável de um tesouro histórico e artístico.
+Mas não é por isso que se esquece do entretenimento. Há vários curtas no meio desses 108 do filme que são divertidos, curiosos, nostálgicos e no mínimo interessantes. Isso por si só já valeria o seu ingresso. Principalmente se você gosta de história.
 
-Essas desculpas chegam nos cinemas com uma narração (original) em francês que explica o contexto das gravações, aponta um ou outro elemento em cena e faz uma pequena interpretação, resenha ou até uma crítica do resultado. É como adentrar em um museu com um trabalho fenomenal de guia, além de um fundo musical inspirado, que recria sensações de pequenos pedaços de História em película. O narrador vai além do que o espectador médio vai, falando sobre travellings, enquadramento e a sofisticação dos operadores. Além de muitos, muitos golpes de sorte de momentos que aconteceram enquanto a câmera estava filmando.
-
-Mas ao mesmo tempo este é um filme fácil, para as massas. Como os Lumière sempre desejaram. O narrador explica detalhes técnicos, sim, mas de uma maneira tão didática, guiando os olhos do espectador sobre as circunstâncias da filmagem, o momento historico, etc. O que serve, junto da diversão de ver as primeira filmagens da história, como uma introdução a um estudo tímido mas eficaz de Cinema. O narrador compara um enquadramento com a marca registrada de um diretor japonês. Em outro momento estabelece ligação entre uma criança vestida de forma pomposa e o movimento impressionista do pintor Auguste Renoir.
-
-Não há muito o que falar da arte do filme em si, essa colagem histórica formatada com a dedicação que o material merece. Apenas que seu resultado é inestimável. Se trata do nascimento de uma invenção que todos nós adoramos. O perfeito reflexo da Revolução Industrial e a consequência do avanço tecnológico que mudou radicalmente aquela realidade que vemos em proporção 1.33 em um quase quadrado com cantos arredondados, emoldurado pra presente. Um presente que todo cinéfilo deveria ser grato por poder receber.
-
-"Lumière!" (France, 2016), escrito por Thierry Frémaux, dirigido por Thierry Frémaux, com Thierry Frémaux, Martin Scorsese, François Clerc, Benoît Duval, Leopoldo Fregoli
-
-
+Mas, fora isso, aqui há uma grande homenagem à sétima arte. Uma homenagem e um pedido de desculpas. Desculpas pela perda lastimável desses rolos. O Cinema nunca foi muito bem visto como arte no começo (até hoje não é) porque ele se funge tão bem com entretenimento que ninguém liga. E não deveria, mesmo. Ele é a última forma de arte, o pós-moderno, pós-Revolução Industrial que está em constante evolução, para sempre. E o passado sempre será perdido, transformado e renovado. E este filme sobre os Lumière faz exatamente isso.

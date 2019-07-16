@@ -1,23 +1,19 @@
 ---
-categories: "movies"
+external: "cinemaqui"
+imdb: "4698584"
 
 date: "2016-12-12"
-imdb: "4698584"
+categories: [ "movies" ]
 title: "Neruda"
-
+stars: "3/5"
+desc: "Neruda. Neruda (Chile, 2016). Dirigido por Pablo Larraín. Escrito por Guillermo Calderón. Com Gael García Bernal (Óscar Peluchonneau), Luis Gnecco (Pablo Neruda), Alfredo Castro (Gabriel González Videla), Pablo Derqui (Víctor Pey), Mercedes Morán (Delia del Carril), Emilio Gutiérrez Caba (Picasso), Alejandro Goic (Jorge Bellet), Marcelo Alonso (Pepe Rodríguez), Jaime Vadell (Arturo Alessandri)."
 ---
-"Neruda" é um drama poético com tons de comédia. Pois só a comédia para explicar uma história de perseguição onde nada acontece e onde seu protagonista vive para narrar o que não está acontecendo. Isso seria por si só uma péssima ideia para roteiro, um filme onde não acontece nada. Mas, estamos falando da vida de um poeta, que se define recusando qualquer definição minimamente coerente e que, por ser poeta, diz muitas coisas sobre coisa nenhuma.
+Neruda é um filme divertido, selecionado para competir no Oscar (Chile), que fala sobre o poeta comunista que não tinha nada melhor pra falar. Porém, divertido mesmo é acompanhar Gael García Bernal como o diretor de polícia que vai atrás do gordinho porque... porque... porque o presidente comandado pela CIA mandou.
 
-O poeta Pablo Neruda é uma figura que fez parte do imaginário intelectual chileno e ganhou voz mundial conforme a esquerda foi tomando conta do discurso e, naturalmente, ganhou o prêmio Nobel de literatura. Inserindo-nos na vida política do escritor como senador pelo Partido Comunista Chileno, o filme já nos coloca como "o comunista mais importante do mundo". Essa sua defesa apaixonada por sua causa o acaba colocando em maus lençois quando o presidente do Chile passa a ser influenciado fortemente pela direita conservadora americana e sua política de caça aos comunistas feito no mundo todo, mas em especial na América Latina.
+Não é um filme político no sentido de que alguma coisa faça sentido, mas ele está inserido nesse contexto por conta das pressões históricas. O que vemos é um Pablo Neruda encantado, quase canonizado, mas estático. Exceto, claro, por sua máquina de escrever frenética, que escreve, de acordo com vários personagens no filme, "longos poemas" (e de acordo com uma ex, é por isso que ele ganhou muito dinheiro). Já o policial, Óscar Peluchonneau, é um personagem da vida real transformado quase em um personagem das histórias do poeta: um filho da boemia, que traiu o movimento.
 
-O mais curioso nessa história é que a perseguição de Neruda coloca em ênfase não exatamente a figura do escritor, mas do seu perseguidor: o diretor geral da Polícia de Investigações do Chile, Óscar Peluchonneau, interpretado pelo camaleão Gael García Bernal, que ultrapassa a sua quarta parede de maneira mais intensa. Sua existência (inclusive na vida real) se torna uma brincadeira tão eficaz quanto o livro O Mundo de Sofia, o que não poderia deixar de fazer parte do emaranhado caótico que o roteirista Guillermo Calderón apresenta desta perseguição para torná-la o mais nonsense e surreal possível.
+A direção de Pablo Larraín, de "No", é econômica e ainda assim intensa. Ele nos coloca como em filmes do Hitchcock, onde as pessoas andam de carro com uma projeção no fundo, e há uma economia absurda de verba nas sequências externas. Ainda assim, isso não impede a maravilhosa fotografia de Sergio Armstrong de brilhar, especialmente nas sequências em Valparaiso e na neve, o ponto alto da trama.
 
-O roteiro de Calderón, aliás, tece uma narrativa principalmente dentro dos seus personagens. Há acontecimentos a todo momento, mas estes são vagos e servem como desculpa para mover a psique daquelas pessoas, que se sentem dentro de um livro de ficção policial narrado por um poeta fugitivo. A burrice aparente do diretor, aliás, é o que torna a perseguição mais cômica e cartunesca. Seu alvo, o poeta do povo, parece se divertir enquanto não é pego, entregando romances policiais a cada lugar que esteve, mobilizando todos seus camaradas para tentar mantê-lo livre e escrevendo (algo que Neruda faz com uma naturalidade tal qual respirar).
+O roteiro de Guillermo Calderón é confuso narrativamente, pois está interessado em contar a história do ponto de vista do psique de seus personagens, que se assemelham a personagens fictícios. Tanto Neruda quanto o policial parecem estar narrando suas aventuras, e o policial se questiona se ele é ou não o protagonista. Talvez seja. Talvez não. E é essa a grande trama.
 
-A direção de Pedro Larraín ("No") usa artifícios inteligentes para manter o orçamento no controle e ao mesmo tempo dar o ar fictício à trama. Dessa forma, as tomadas externas quase sempre se concentram em seus personagens, e quando estão dentro de um veículo, usando o artifício antigo de usar projeções ao fundo fingindo a paisagem em movimento, no melhor estilo Hitchcockiano. Isso não quer dizer que se trata de uma produção barata, mas sim uma produção que sabe muito bem onde gastar. Com uma fotografia saudosista, filmam a antiga casa de Neruda em Santiago (hoje um museu) como um labirinto artístico, de onde surgem seus amigos como num passe de mágica. E toda a sequência na neve, o ponto alto da trama, é particularmente irretocável, tanto pela sua beleza estética quanto pelo seu significado metalinguístico, pois é como se a neve resgatasse o branco das páginas de um livro que vai se compondo conforme os eventos se sucedem. A questão mais fascinante do longa é: quem é o protagonista dessa história?
-
-Curiosamente, "Neruda" evita usar o saudosismo barato e aplica técnicas de narrativa literária em uma produção cinematográfica, tornando o conjunto da obra quase que uma homenagem a um poeta que não tinha muito o que dizer senão repetir suas homenagens ao homem comum, a elevação da paixão e do amor como necessidades biológicas mais fortes que a respiração e, claro, sua ode ao comunismo. Seja lá o que ele verdadeiramente quis dizer com isso. Muito provavelmente nem ele sabia.
-
-"Neruda" (Chile/Argentina/France/Spain/USA, 2016), escrito por Guillermo Calderón, dirigido por Pablo Larraín, com Gael García Bernal, Luis Gnecco, Alfredo Castro, Pablo Derqui, Mercedes Morán
-
-
+Divertido enquanto pode, "Neruda" é um passatempo épico, uma pequena janela na vida do poeta que vira uma diversão graças ao que as pessoas pensavam dele do que dele de fato. E Bernal, mais uma vez, está imperdível.
