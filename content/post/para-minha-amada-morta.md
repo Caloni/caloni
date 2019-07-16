@@ -6,14 +6,22 @@ date: "2016-03-29"
 categories: [ "movies" ]
 title: "Para Minha Amada Morta"
 stars: "4/5"
-desc: "Para Minha Amada Morta. Para Minha Amada Morta (Brazil, 2015). Dirigido por Aly Muritiba. Escrito por Aly Muritiba, Aly Muritiba. Com Fernando Alves Pinto, Mayana Neiva, Lourinelson Vladmir, Giuly Biancato, Michelle Pucci, Vinicius Sabbag."
+desc: "Para Minha Amada Morta. Para Minha Amada Morta (Brazil, 2015). Dirigido por Aly Muritiba. Escrito por Aly Muritiba, Aly Muritiba. Com Fernando Alves Pinto, Mayana Neiva, Lourinelson Vladmir, Giuly Biancato, Michelle Pucci, Vinicius Sabbag. Crítica escrita para o site CinemAqui."
 ---
-Um thriller psicológico brasileiro envolvente. A presença da possibilidade do mal é o que prende a atenção para o espectador, mas é apenas o pano de fundo de críticas interessantes sobre o cinismo e a hipocrisia da sociedade e da religião.
+Para Minha Amada Morta é um filme que começa como drama, mas logo se revela um thriller psicológico envolvente. Não se trata muito de ação, mas de possibilidades. E dentro das possibilidades, a de fazer o mal é onde o filme impera, evocando em seus momentos sempre a questão: o que ele irá fazer em seguida?
 
-No começo temos um drama sobre a perda da pessoa amada e a lenta recuperação. Essa atmosfera se torna ideal para o baque que vem a seguir. A traição da mulher, gravada em vídeo, é mais dolorosa pela incapacidade de compreender, agora que ela se foi. O que resta a Fernando, o viúvo, é adentrar em um mundo psicótico, onde ele observa de perto a vida do ex-amante, junto de esposa e filhas.
+A história começa com um pai e um filho. Ambos estão de luto pela perda da esposa/mãe. O marido, se recompondo, encontra vídeos caseiros da mulher, desde sua infância até uma descoberta incômoda: a traição.
 
-O clima de tensão é estarrecedor. O diretor faz aqui com o engenheiro de som e trilha sonora uma macumba fabulosa com sua câmera, que se fecha para o mundo externo, revelando na obsessão do protagonista. Os enquadramentos do que pode ser o golpe fatal são infinitos, mas infinito mesmo se torna o ódio contido na observação impassível de Fernando.
+No entanto, não parece ser o ato de trair que incomoda Fernando (Fernando Alves Pinto), embora este seja o guia para o espectador, mas uma frase que sua esposa diz no vídeo para seu amante: "você foi a melhor coisa que já me aconteceu na vida".
 
-O uso de elementos recorrentes, como a arma, as fitas de vídeo, as roupas, revelam algumas características desse discurso que talvez seja melhor deixar de lado, como um aparente lado anti-armas que pode se tornar ridículo com o tempo ou cultura diferentes. No entanto, note como nada que Fernando faz chega a ser agressão, e quando se torna, como a invasão à casa de seu senhorio, é pelo menos discutível.
+Disposto a adentrar na vida do sujeito, Fernando o rastreia facilmente de seu trabalho. Fotógrafo da polícia, descobre que o ex-amante (Lourinelson Vladmir) de sua mulher fora preso, mas está hoje livre e com uma vida pacata e religiosa com mulher e filhas.  Ele está alugando a pequena casa dos fundos, e é aí que Fernando irá começar a ser uma presença física para o sujeito.
 
-Um filme para mentes fortes, com ideias poderosas.
+Disposto a explorar os sentimentos de Fernando conforme ele interage com a recatada família, tanto a edição de som e a trilha sonora, quanto os enquadramentos e a movimentação da câmera do diretor, exploram a mesma coisa: o desconforto, a claustrofobia, a metáfora do maligno. Fernando vai aos poucos se descaracterizando como ser humano frente ao espectador, mas nunca parece deixar de ter razão. Ele está (ou sempre foi) psicótico, mas o roteiro não o torna um monstro, mas um observador do cinismo e da hipocrisia da sociedade e da religião.
+
+A câmera, sempre com uma profundidade rasíssima, só utiliza o ponto de vista de Fernando, enquanto seu desafeto e familiares se posicionam em um fundo sem foco. Esse é o nível do ódio e desorientação que Fernando e o espectador vivenciam.
+
+A direção de Aly Muritiba -- que também escreve o roteiro -- mantém tudo sob controle, e talvez esse seja o pecadilho do filme, que prefere não ousar, mas apenas conjecturar. No entanto, como se pode testemunhar, apenas o "ele pode fazer" já é incômodo o suficiente para ganhar a total atenção de quem assiste. Um feito e tanto em um filme com poucos acontecimentos impactantes.
+
+"Para Minha Amada Morta" (Brazil, 2015), escrito por Aly Muritiba, Aly Muritiba, dirigido por Aly Muritiba, com Fernando Alves Pinto, Mayana Neiva, Lourinelson Vladmir, Giuly Biancato, Michelle Pucci
+
+

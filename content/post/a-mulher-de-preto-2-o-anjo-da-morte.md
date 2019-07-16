@@ -5,8 +5,18 @@ date: "2015-01-30"
 categories: [ "movies" ]
 title: "A Mulher de Preto 2: O Anjo da Morte"
 stars: "2/5"
-desc: "A Mulher de Preto 2: O Anjo da Morte. The Woman in Black 2: Angel of Death (UK, 2014). Dirigido por Tom Harper. Escrito por Jon Croker, Jon Croker, Susan Hill. Com Phoebe Fox, Merryn Pearse, Mary Roscoe, Helen McCrory, Amelia Crouch, Amelia Pidgeon, Casper Allpress, Pip Pearce, Leilah de Meza."
+desc: "A Mulher de Preto 2: O Anjo da Morte. The Woman in Black 2: Angel of Death (UK, 2014). Dirigido por Tom Harper. Escrito por Jon Croker, Jon Croker, Susan Hill. Com Phoebe Fox, Merryn Pearse, Mary Roscoe, Helen McCrory, Amelia Crouch, Amelia Pidgeon, Casper Allpress, Pip Pearce, Leilah de Meza. Crítica escrita para o site CinemAqui."
 ---
-Um terror que pega carona no seu original e que conta uma história pouco polida com várias crianças que podem morrer. Na verdade, todos podem morrer que ninguém se importa, menos um garotinho irritante que se recusa a falar e que virou o querido da professora, a heroína do filme. Empalidece frente ao já pálido original com Daniel Radcliffe.
+Se a maioria do terror produzido hoje em Hollywood já é sinônimo de filme trash, ou no máximo medíocre, o que dizer de suas continuações. E este A Mulher de Preto 2 infelizmente não foge muito da regra. Pegando carona no ambiente tenebroso da casa abandonada em torno de uma ilha, o filme nos apresenta uma história semelhante passada no mesmo lugar, embora na época da segunda guerra.
 
-Com Phoebe Fox no automático e várias crianças. Direção de Tom Harper, roteiro de Jon Croker.
+Seguindo à risca a cartilha do "novo" terror, o diretor televisivo Tom Harper não mostra muito, o que é um bom sinal, pois boa parte do medo reside no não-visto. Porém, impotente em conseguir criar qualquer tipo de cena aterrorizante, somos brindados por aqueles sustos que apelam para o aumento desproporcional do volume da trilha sonora e pela invasão irritante de objetos e criaturas fora de campo.
+
+E por falar sobre o que vemos, a fotografia, diferente da clareza assustadora no interior da casa da obra original, parece que agora as névoas em volta dela tomaram conta dos aposentos. Com isso a casa perde sua personalidade anteriormente conquistada. Vira mais uma atração de parque de diversões. O uso de lentes distorcidas e fundos desfocados também  é uma escolha arriscada, pois apesar de conseguir nos desorientar, nunca nos leva ao clima de terror de fato, se limitando a um suspense de segunda categoria.
+
+E quando digo "de segunda" me refiro à qualidade de suas surpresas, que soam sempre banais e previsíveis. Quando o pequeno Edward se aproxima da cortina do quarto já sabemos de antemão que ele nunca irá alcançá-la.
+
+A história, responsável por apresentar os personagens e seus dilemas, parece nunca alcançar a segunda fase, se satisfazendo em repetir estereótipos todo o tempo. Edward (Oaklee Pendergast), o garoto que se recusa a falar, é apenas uma criança que tomou um choque com a morte dos pais. No meio de tantos órfãos ele não se destaca. Da mesma forma temos um romance no ar junto de tudo que precisávamos saber sobre o filho abandonado da moça Eve Parkins (Phoebe Fox), algo que descobrimos logo no primeiro sonho/delírio da moça. Eve, assim como o protagonista interpretado por Daniel Radcliffe no primeiro filme, parece não ter medo de nada, e adentra lugares onde nunca esteve -- como o porão -- logo na primeira noite. Não tem medo de ficar sozinha no escuro, e os inúmeros e irritantes sustos usados no filme com um som estupidamente aumentado parecerem para ela meras distrações.
+
+Eve, quase sempre de azul, parece ser a que destoa daquele clima sem cor. Curiosamente, é a que mais se assemelha ao Anjo da Morte do subtítulo. Por que? Como vimos na primeira cena, ela é ingênua/tola o suficiente para sempre mostrar um belo e vazio sorriso. Pelo menos seu passado explica sua determinação em tentar consertar algo no presente. O copo está sempre metade cheio para ela, e mesmo que custe a vida de algumas crianças, o que importa é manter o garoto mudo a salvo.
+
+Última coisa: aquele jovem -- o interesse amoroso de Eve -- tem medo de água, uma história triste envolvendo sua tripulação, mas ele é "rebaixado" da marinha para a aeronáutica? Bom, cada um faz o que pode nesse roteiro sem sentido.
