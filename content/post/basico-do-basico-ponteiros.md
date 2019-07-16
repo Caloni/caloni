@@ -58,5 +58,5 @@ Tarefas mais específicas da minha área e que uso o tempo todo:
 
 Este vídeo é o mais didático do universo sobre como funcionam ponteiros em C. Veja e mostre pros seus filhos:
 
-<div class="auto-resizable-iframe"><div><iframe frameborder="0" allowfullscreen="1" src="https://www.youtube.com/embed/mnXkiAKbUPg"></iframe></div></div>
+https://www.youtube.com/embed/mnXkiAKbUPg
 

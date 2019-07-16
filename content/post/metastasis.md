@@ -29,7 +29,7 @@ Obviamente que não é apenas a direção que muda. Fotografia, figurino, direç
 
 A maior decepção talvez seja o ator que interpreta Jesse Pinkman no remake. Enquanto Walter White vira uma espécie de caricatura de si mesmo, Jesse é apático perto do desempenho de Aaron Paul desde o começo. Note como ele lembra o "Professor White" que ele não sabe de nada de química porque ele o reprovou.
 
-<div class="auto-resizable-iframe"><div><iframe frameborder="0" allowfullscreen="1" src="https://www.youtube.com/embed/K-JvsP56zbk"></iframe></div></div>
+https://www.youtube.com/embed/K-JvsP56zbk
 
 Não é preciso dizer, claro, que não se pode esperar nada próximo do Walter White de Brian Cranston, que também oferece uma atuação digna de prêmios já no piloto da temporada. Não encontrei a sequência completa, mas o momento em que ele decide pôr fim à própria vida é hilário e tocante ao mesmo tempo. (A do remake também é, mas de uma maneira engessada e pausterizada.)
 

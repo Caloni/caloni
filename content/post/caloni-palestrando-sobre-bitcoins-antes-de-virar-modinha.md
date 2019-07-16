@@ -9,5 +9,5 @@ Essa minha palestra foi ministrada no Native Floripa 2017, no comecinho daquele 
 
 Segue o link (ou o vídeo embutido, vamos ver):
 
-<div class="auto-resizable-iframe"><div><iframe frameborder="0" allowfullscreen="1" src="https://www.youtube.com/embed/3CP7mBmXTu4"></iframe></div></div>
+https://www.youtube.com/embed/3CP7mBmXTu4
 

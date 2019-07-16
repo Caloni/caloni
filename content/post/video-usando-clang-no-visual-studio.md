@@ -14,7 +14,7 @@ Este é um guia bem básico, mas atende os requisitos de quem quer começar a me
  4. Utilizar essa feature no Console Win32.
  5. Corrigir e entender problemas no meio do caminho.
 
-<div class="auto-resizable-iframe"><div><iframe frameborder="0" allowfullscreen="1" src="https://www.youtube.com/embed/dMY91ojS0tw"></iframe></div></div>
+https://www.youtube.com/embed/dMY91ojS0tw
 
 ## Links Úteis
 

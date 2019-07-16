@@ -43,7 +43,7 @@ Vamos depurar.
 
 Oh, oh! A stack de cooperative nos indica que ela não partiu do main, apesar de ter sido chamada através da construção de coroutine `<void>::pull_type`. O método sink chamado logo após imprimir "Hello" deve colocar essa rotina para dormir, voltando o controle para main. Vamos ver como isso é feito.
 
-<div class="auto-resizable-iframe"><div><iframe frameborder="0" allowfullscreen="1" src="https://www.youtube.com/embed/xoAxig6vdTM"></iframe></div></div>
+https://www.youtube.com/embed/xoAxig6vdTM
 
 Oh, não. O depurador do Visual Studio está fazendo caquinha, pois rodando passo-a-passo voltei para a mesma função cooperative sem passar pelo main. No entanto, a vírgula ", " foi impressa.
 

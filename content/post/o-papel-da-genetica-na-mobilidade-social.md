@@ -10,7 +10,7 @@ O que será que faz pessoas durante suas vidas ficarem mais ricas ou pobres de o
 
 O [vídeo](https://youtu.be/4x5Ttz1u-Zs) do filósofo Alysson Augusto, baseado no texto de Leandro C. Bellato, tenta explorar os resultados de uma [pesquisa recente](https://drive.google.com/file/d/1-bHLzdUcZgOYxJ5cqk_CJsGxpJSD30Af/view?usp=sharing) realizada e suas três hipóteses levantadas:
 
-<div class="auto-resizable-iframe"><div><iframe frameborder="0" allowfullscreen="1" src="https://www.youtube.com/embed/4x5Ttz1u-Zs"></iframe></div></div>
+https://www.youtube.com/embed/4x5Ttz1u-Zs
 
  - #1: Pessoas com genes que indicam sucesso na educação leva a pessoas mais bem-sucedidas na vida.
  - #2: Os genes dos pais é que geram um ambiente favorável ao sucesso pessoal de seus filho.

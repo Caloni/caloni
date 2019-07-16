@@ -206,5 +206,5 @@ Com isso termina o nosso pequeno experimento de como é possível interceptar ch
 
 [1] Engenharia Reversa para Principiantes:
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/cgeTnnM8pSIG0O" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/WanderleyCaloni/engenharia-reversa-para-principiantes" title="Engenharia Reversa para Principiantes" target="_blank">Engenharia Reversa para Principiantes</a> </strong> from <strong><a href="//www.slideshare.net/WanderleyCaloni" target="_blank">Wanderley Caloni</a></strong> </div>
+http://www.slideshare.net/slideshow/embed_code/key/cgeTnnM8pSIG0O
 

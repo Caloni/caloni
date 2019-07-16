@@ -8,7 +8,7 @@ desc: "Crítica: Comercial Friboi - A certeza do churrasco perfeito."
 
 Em tempos de regravações de westerns como Sete Homens e um Destino, a Friboi aposta no gênero e já parte em seu último comercial, "A certeza do churrasco perfeito", inovando com o conceito já inovador há pelo menos uma década de "câmera lenta com partículas em suspensão" introduzido por Guy Ritchie (Sherlock Holmes, 2009). Aqui o churrasco é visto através daquela trilha sonora afiada, fogos gerados por computação e, claro, close na destreza e precisão do mestre churrasqueiro.
 
-<div class="auto-resizable-iframe"><div><iframe frameborder="0" allowfullscreen="1" src="https://www.youtube.com/embed/19Rrx_CMKI4"></iframe></div></div>
+https://www.youtube.com/embed/19Rrx_CMKI4
 
 Note como essas partículas de sal são vistas não uma, nem duas, mas pelo menos três vezes em um comercial de 30 segundos. O sal, de acordo com o narrador com voz pseudo-sensual-pseudo-rouca, é muitas vezes vista pelo mestre churrasqueiro como o segredo do bom churrasco (o que explicaria as altas doses de dinheiro trocadas por sal-vesgo de cor diferente da chapada amazônica trazida pelos índios friboizés). Porém, isso ainda não é o que garante o sucesso dessa churrascada. Vemos, então, o mestre do churrasco preparando com toda a dedicação sua carne. Ou seja, tirando da sacolinha a vácuo da Friboi, jogando sal e metendo na brasa.
 

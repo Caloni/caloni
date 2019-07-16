@@ -7,7 +7,7 @@ desc: "Vidas de Carolina. Dirigido por Jessica Queiroz. Escrito por Jessica Quei
 ---
 O curta documental Vidas de Carolina é o primeiro trabalho da diretora Jessica Queiroz. Ele aborda a vida de uma catadora de lixo reciclável e seu talento para a narrativa. A ideia era mostrar que a capacidade pode vir de qualquer lugar e que muitos não conseguem reconhecimento por falta de oportunidade.
 
-<div class="auto-resizable-iframe"><div><iframe frameborder="0" allowfullscreen="1" src="https://www.youtube.com/embed/AkeYwVc2JL0"></iframe></div></div>
+https://www.youtube.com/embed/AkeYwVc2JL0
 
 Infelizmente, essa oportunidade também é perdida em seu filme. Carolina, já falecida, mantinha suas histórias em um caderno. De acordo com um dos entrevistados, o caderno datava da década de 50, informação essa que dá asas à imaginação do espectador, que poderia resgatar inclusive memórias do trabalho excepcional de Marcos Prado, "Estamira". No entanto, pouco vemos dos escritos de Carolina, com pouquíssimas frases lidas por uma moça que surge em preto e branco (Carolina Maria de Jesus), resgatando as memórias da senhora falecida e esteticamente produzida com uma glorificação visual que não se encaixa na história da homenageada.
 
