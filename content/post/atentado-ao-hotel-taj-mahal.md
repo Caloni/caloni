@@ -1,11 +1,28 @@
 ---
 date: 2019-04-24T16:30:30-03:00
 title: "Atentado ao Hotel Taj Mahal"
-desc: "Hotel Mumbai (Austrália, EUA, Índia, 2018), escrito por John Collee, Anthony Maras, dirigido por Anthony Maras, com Dev Patel, Armie Hammer, Nazanin Boniadi."
+categories: [ "movies" ]
 imdb: "5461944"
 
-categories: [ "movies" ]
-stars: "5/5"
-external: "cinemaqui"
 ---
+O que mais impressiona em "Atentado ao Hotel Taj Mahal", um thriller biográfico tenso, pesado e claustofóbico, é que apesar (ou por causa) de toda a brutalidade que vemos na tela, causada por diferenças culturais e conflitos políticos, aos poucos nele emerge um senso de humanidade que é livre de gênero, nacionalidade, posição social ou dinheiro. Quando pessoas estão à beira da morte é o momento em que surgem os heróis anônimos, seja em pequenos atos, como manter um bebê no colo todo momento ou tentar tranquilizar uma mulher inconsolável com um uísque 20 anos, ou em verdadeiros exemplos de hombridade, como se manter fiel ao comprometimento de um trabalho, mesmo que para isso seja necessário deixar de lado os valores mais sagrados que se tem em vida.
+
+Essa camada interpretativa por trás da ação desenfreada é desenvolvida de maneira sutil e controlada pelo diretor Anthony Maras, que estreia em longas-metragens com um trabalho onde demonstra possuir um controle invejável da ação e dos pequenos momentos onde a história ganha contornos mais complexos entre seus personagens, e isso em um filme que não tem muito tempo para isso, pois quase todas as duas horas do filme são ocupadas com muita violência e pouquíssimos diálogos. Vemos apenas tiros, mortes, gritos e sangue. Tudo isso coordenado por uma voz de um rosto que nunca vemos (uma ótima ideia manter o "mal absoluto" sem face).
+
+Estamos testemunhando sob o filtro da ficção o que realmente houve em 2008 em Mumbai, capital financeira da Índia, durante atentados realizados por toda a cidade, mas a maioria ao Sul, na região mais rica. Um dos 12 ataques registrados foi no Taj Mahal Palace Hotel, um prédio centenário que hospedou líderes de Estado e celebridades. A maior parte da ação e do filme se passa nesse hotel, e acompanhamos hóspedes e funcionários durante a luta pela sobrevivência quando dois jovens entram com armamento pesado e começam a atirar em qualquer alvo vivo.
+
+Para que o espectador se sinta desorientado o filme nunca nos mostra a localização exata dos locais onde os hóspedes estão se escondendo, e muito menos a localização atual dos atacantes. Isso gera sempre a sensação de que ao atravessar um corredor seremos pegos de surpresa por um deles e sua arma semi-automática, sem chance de reação. Não é uma sensação boa, mas se torna importante para entendermos melhor o significado das ações dessas pessoas tentando sobreviver.
+
+O roteiro escrito pelo diretor e por John Collee parece evitar todo e qualquer clichê desses filmes. Claro que eles estão narrando acontecimentos reais, mas com muita dramatização. Só que isso não impede que tudo soe plausível. Isso porque não teremos aquele personagem que está sempre causando problemas e que vai acabar se dando mal no final, ou conflitos artificiais entre os atacantes que faça com que surja uma oportunidade para os reféns escaparem. Além disso, Collee nunca nos dá um motivo para que determinado personagem morra, e assim nos sintamos menos mal com isso, o que é a forma mais digna de demonstrar respeito pelas vítimas reais. Cada acontecimento dentro daquele hotel parece que poderia acontecer de verdade, e isso depois de tantos filmes repetindo a mesma fórmula é digno de aplausos, pois finalmente é possível assistir um filme com pessoas multidimensionais reagindo como qualquer se humano reagiria.
+
+O tom realista também facilita acreditarmos na humanidade daquelas pessoas e até nos faz refletir na humanidade de quem geralmente não é bem visto, pois aquele milionário russo da mesa ao lado do restaurante que falava ao celular de maneira grosseira acaba ajudando uma esposa e mãe desamparada a se acalmar (e mesmo que você interprete esse ato de maneira bondosa não é possível rotulá-lo apenas como boa ou má pessoa), e aquele funcionário relapso que veio sem sapatos para trabalhar acaba se tornando o herói do dia.
+
+Mas é claro que você sabe que ele será o herói. Ele é intepretado por Dev Patel (Quem Quer Ser Um Milionário, Lion) e é o ator mais famoso de um elenco acertadamente low profile, o que colabora para o realismo do filme. Porém, Patel é instrumental em seu papel, pois suas ações são as mais ousadas, exigindo que nos identifiquemos desde o começo como uma figura humana e com valores que reflitam caráter. Por isso ele é que inicia o filme, sendo o pai de família responsável e carinhoso. Seu jeito manso mas firme e ligeiramente assustado de lidar com as situações é perfeito para contrapor ao seu chefe, que já demonstra mais experiência e auto-controle. Não saber ao certo como seu personagem irá reagir a cada situação adiciona uma bem-vinda imprevisibilidade que todos nós, humanos, temos ao lidar com situações de estresse.
+
 Muitas pessoas morrem nesse filme. Pessoas que você não veria morrendo em filmes mais formulaicos do mesmo gênero. Essa é uma surpresa e ao mesmo tempo um aviso: este não é um filme sobre os heróis daquele dia que sobreviveram, mas sobre todos os envolvidos, os que mataram e morreram. A mensagem que se pode extrair de "Atentado..." não é algo simples e fechado, o que é algo positivo para um filme que parece banalizar a violência. Parece, mas é justamente o contrário: através do seu uso da violência aprendemos sobre o mundo cada vez mais irracional que vivemos, e ao mesmo tempo sobre valores que estavam inertes na sociedade, mas que foram vitais aquele dia para salvar mais uma vida.
+
+
+"Hotel Mumbai" (Austrália, EUA, Índia, 2018), escrito por John Collee, Anthony Maras, dirigido por Anthony Maras, com Dev Patel, Armie Hammer, Nazanin Boniadi.
+
+
+

@@ -1,11 +1,30 @@
 ---
 date: 2019-03-07T14:30:11-03:00
 title: "Elegia De Um Crime"
-desc: "Elegia De Um Crime (Brasil, 2018), escrito por Cristiano Burlan, Ana Carolina Marinho, dirigido por Cristiano Burlan, com Cristiano Burlan."
+categories: [ "movies" ]
 imdb: "8389758"
 
-categories: [ "movies" ]
-stars: "3/5"
-external: "cinemaqui"
 ---
+Elegia de um Crime me faz pensar na ineficiência de uma torneira automática de um banheiro público. Às vezes a água vem com uma pressão que acaba molhando tudo em volta, obrigando um funcionário estar constantemente secando. Às vezes ela esguicha por muito pouco tempo, obrigando quem a usa a ficar apertando o botão em vez de lavar a mão. O ponto é que, de um jeito ou de outro, aprendemos a conviver com sistemas que parecem ter surgido com defeito desde o começo.
+
+Agora você deve estar se perguntando o que uma torneira ineficiente tem a ver com um filme sobre um assassinato hediondo. A torneira nada. A ineficiência tudo. Quando Cristiano, o diretor do filme, liga para a polícia com a localização exata do assassino foragido de sua mãe, a resposta é que ele deve ligar para outro setor da segurança pública, pois a pessoa do outro lado da linha é incapaz de ajudá-lo. E assim, como uma torneira com um defeito qualquer, o sistema parece nunca funcionar para o motivo pelo qual ele foi desenhado: lavar as mãos ou pegar criminosos.
+
+O filme dirigido por Cristiano Burlan e escrito por ele e Ana Carolina Marinho é a terceira parte de três filmes chamados de Trilogia do Luto, e caminha para processar a perda irracional de um ente querido e ao mesmo tempo recontruir a figura da querida Isabel, que apesar das poucas fotos, de acordo com seus familiares possuía o dom da beleza para sofrer na vida. Ela sofreu na vida, todos concordam, mas não é dito exatamente como, preferindo o filme manter essa vaga sensação de injustiça no ar.
+
+A morte da mãe parece ser uma ferida recente que filho/diretor tenta abrir como uma maneira de reagir ao brutal acontecimento: sua mãe Isabel é morta anos atrás de maneira covarde, asfixiada pelo seu parceiro, que nunca foi preso; pesa a impunidade e um evento trágico não-concluído nas mentes e corações de todos envolvidos. A filha de Isabel comenta que sempre que alguém que não sabe do falecimento pergunta pela sua mãe ela precisa descrever em detalhes tudo o que ocorreu. Ela espera fazer isso o resto da vida. Pelo menos espera não esquecer até lá.
+
+Da mesma forma Cristiano, já um diretor consagrado, com 14 filmes no currículo, deseja manter em memória de sua mãe um documentário sobre esses momentos. E felizmente ele o faz, pois o resultado constrói personagens da vida real que não são apenas autênticos, mas mais reais do que a ficção nunca será. Sua irmã é um pedaço de pessoa que todos nós já conhecemos. Os que moram ou já visitaram Minas, mais ainda. O sotaque mineiro e a cadência no falar revelam uma familiaridade machucada, traumatizada, mas que segue vivendo. É improvável que uma atriz conseguisse transparecer o trauma sem parecer condenada para o resto da vida. Essa é a virtude de filmar a vida real, ainda que editada.
+
+Já seu irmão, ex-detento e reformado não pelo sistema, mas pela sua vontade de se corrigir (em parte pela sua mãe), é a ovelha negra clássica que constrói o também clássico arco do desajustado. Sua participação começa despretensiosa, mas logo se revela uma daquelas pérolas da vida real, onde o (in)esperado ocorre. Cristiano, mais uma vez, prefere não revelar detalhes da vida de seu irmão, mas apenas seu desfecho recente. Quando acontece no filme gera a ideia de ciclo sem fim. O ciclo da violência oculta.
+
 Cristiano usa uma rima visual eficiente, tornando as pessoas próximas da câmera, ocupando toda a tela, nas cenas que lembram aqueles momentos que é como se a câmera estivesse desligada e as pessoas se soltassem para serem elas mesmas. Alternando entre o modo confessionário e o modo formal o filme vai tecendo uma narrativa poderosa que confia no poder da vida real. Auxiliado pelo teórico e crítico Jean-Claude Bernardet, que já trabalhou com o diretor como protagonista em Fome, existe em Elegia de Um Crime uma fina camada que separa realidade e ficção, tal como foi no filme onde Jean-Claude faz um mendigo que desistiu de sua vida de intelectual, ou levou-a até as últimas consequências. Aqui, lembrando de longe Cabra Marcado Para Morrer, as últimas consequências da impunidade é fazer um filme sobre o assunto.
+
+Este é o último filme da entitulada Trilogia do Luto e sua história também utiliza alguns traços sociais, como a violência contra a mulher. Não se trata do tema principal, mas se algo que paira no ar, alimentado pelos depoimentos que Cristiano coleta para seu filme, principalmente vindo das mulheres e quando elas parecem menos naturais em seu depoimento. O único que parece dar seu depoimento de maneira completamente honesta e natural é seu tio, que além da sinceridade mantés os pés no chão: como uma mulher vai se defender dos canalhas da vida real?
+
+A pergunta se mantém não-respondida durante todo o longa, mas vemos uma cena em que Cristiano treina dar tiros com uma pistola em um alvo inerte. Essa não é a resposta. Cristiano confessa que seu irmão e pai, se estivessem vivos, fariam justiça com as próprias mãos. Ele é incapaz. Seu jeito de se vingar é documentar tudo em um filme. E o jeito das mulheres se defenderem é denunciar essa violência. Tanto o filme quanto a denúncia parecem rasos demais. Principalmente quando Cristiano revela foto do assassino de sua mãe, por alguns poucos segundos. De aparência humilde, negro, ele não é um personagem no filme. O trabalho documental desaba um pouquinho no final ao percebermos que o realismo nem sempre é verdadeiro, mas construído. Mas quem irá criticar frente às injustiças da vida real, onde torneiras e policiais não funcionam como deveriam?
+
+
+"Elegia De Um Crime" (Brasil, 2018), escrito por Cristiano Burlan, Ana Carolina Marinho, dirigido por Cristiano Burlan, com Cristiano Burlan.
+
+
+

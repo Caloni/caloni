@@ -1,21 +1,26 @@
 ---
-external: "cinemaqui"
-imdb: "3082854"
+categories: "movies"
 
 date: "2016-08-04"
-categories: [ "movies" ]
+imdb: "3082854"
 title: "A Comunidade"
-stars: "5/5"
-desc: "A Comunidade. Kollektivet (Denmark, 2016). Dirigido por Thomas Vinterberg. Escrito por Tobias Lindholm, Thomas Vinterberg. Com Ulrich Thomsen, Fares Fares, Trine Dyrholm, Julie Agnete Vang, Helene Reingaard Neumann, Lars Ranthe, Ole Dupont, Martha Sofie Wallstrøm Hansen, Magnus Millang."
 ---
-Thomas Vinterberg (A Caça, Submarino) parece ser um diretor obcecado em entender relações humanas. Em A Comunidade, ele nos leva para o misterioso mundo do apego emocional, nos jogando para o mundo onírico dos anos 70 e o confundindo com nossa história seres humanos convivendo com outros. No processo, ele esfrega na cara a realidade do "poliamor", ou pelo menos uma de suas vertentes. Tudo bem, Vinterberg, "o sonho acabou". Mas precisava ser tão incisivo?
+A Comunidade é um filme que consegue ser doce em sua abordagem de paz e amor, mas ao mesmo tempo consegue desenvolver um tema mais maduro. É fascinante acompanhar a vida daquelas pessoas formando um mosaico de personalidades que cooperam entre si para o bem comum. Mais fascinante ainda é perceber como o filme avança seu tema sem ter medo de arriscar tudo que havia conquistado uma hora atrás.
 
-A história começa quando um professor de arquitetura herda a grande casa onde viveu a infância e tem a decisão do que fazer com ela. Embalada em altos custos, a propriedade não conseguiria ser custeada por sua pequena família de três pessoas (ele, a esposa, a filha adolescente -- ou "os nossos olhos no filme"). No entanto, sua mulher, Anna, começa a desejar um pouco de mudança naquela rotina de mais de quinze anos, e sugere convidar amigos e conhecidos para dividir aquele grande espaço de convivência.
+A história começa quando Erik (Ulrich Thomsen), um professor de arquitetura, vai receber como herança a casa que havia habitado na infância em sua terra natal. Grande para ele, a esposa Anna (Trine Dyrholm) e a filha adolescente Freja (Martha Sofie Hansen), o custo proibitivo de mantê-la torna a ideia de vender automática, exceto pelo desejo de mudança de ares da mulher, que convence o marido a convidar amigos e conhecidos para morarem juntos e assim dividir os custos, além de fazer companhia.
 
-O que se torna uma prazerosa ideia no começo, graças à fotografia estimulante de Jesper Tøffner, que nos mostra a década da paz e do amor petrificada em cores pálidas e saudosas, embalada por músicas famosas da época e por uma direção de arte que com o mínimo faz o máximo: entrarmos naquele universo e não querermos sair mais.
+No início o filme torna bem óbvio a disparidade de ideias que está por vir, e de certa forma até a influência que morar em uma casa coletiva exerce. Enquanto um realiza o desejo de ter um velho "amigo" (o ótimo Lars Ranthe) morando junto, outro desponta uma paixão baseada em admiração. Há um choque de gerações. Um duplo choque. Tudo isso não faz parte da primeira metade do filme. Nela apenas se monta a base para o que está por vir.
 
-A direção de Vinterberg, cuja câmera começa com uma profundidade de campo aberta para mostrar a grandiosidade da casa, mas conforme ela lota de pessoas aos poucos vai se tornando mais precisa, com muitos closes e profundidade reduzida, aos poucos se mostra acertada para extrair daquela situação de comunidade um drama peculiar, que nasce naturalmente e que sofre naturalmente. Os personagens vivem essa época de sonhos, mas possuem o pé no chão, o que torna tudo ainda mais fascinante. Não é um filme "que viaja" nos conceitos, mas prefere se prender ao básico para entender uma questão primordial para a convivência humana: até onde vai nosso apego pelas pessoas?
+Mas não é só do óbvio que se constrói a trama. Âncora de um telejornal conservador, Anna anuncia uma nova onda da esquerda política. Do reflexo da televisão desligada, sua observadora filha enxerga o conflito de ideias entre seus pais. Da doença de um garoto que poderá gerar sua morte precoce (o perfeito, ainda que novo, Sebastian Milbrat), percebemos na inocência a efemeridade da vida. Tudo colabora para que através da comunidade se perpetue a mensagem de carinho, amizade e solidariedade.
 
-Para responder essa questão, o filme precisa invadir aquele universo perfeito em suas imperfeições, que já não queremos mais sair, e inserir elementos que vão nos jogar contra a parede, e uma personagem em específico. O pior é que o roteiro desde o começo já indica algo nesse sentido, mas o filme com toda sua beleza nos faz esquecer dos detalhes por uma longa hora. Chega um momento que a conta chega e a realidade bate à porta.
+Porém, o filme não é assim tão ingênuo. Apresentando em seu segundo e terceiro atos uma trama quase deixada de lado pela leveza da história, a direção precisa quadro a quadro de Thomas Vinterberg (A Caça, Submarino) aos poucos admite que há algo de errado com aquele ideal do amor livre dos anos setenta. Ele não esfrega isso na nossa cara, mas nos tortura jogando a realidade na tela: não temos ainda esse nível de maturidade, ou o perdemos ao tentar algo diferente.
 
-Perseguindo a resposta para a questão do apego, A Comunidade merece aplausos não por ter essa resposta, mas por persegui-la até as últimas consequências. Porque se o sonho acabou, pelo menos eu quero descobrir o que deu errado. Para não repetir na próxima década.
+O que se torna mais doloroso ao constatar que "o sonho acabou" é que o design de produção também se entrega por completo à época, recriando um mundo onírico saudosista. A fotografia de Jesper Tøffner com cores pálidas é lindo e triste ao mesmo tempo, e aliada à direção de arte exata ainda que minimalista nos joga em um mundo que não queremos sair graças às pessoas que nele habitam. Esse mundo de compreensão e colaboração é onde queremos viver. É como se os 70 fossem reciclados em uma versão melhorada, embora misturada com uma nostalgia melancólica.
+
+Melhor que isso apenas a escolha certeira de músicas, que são famosas e soariam gratuitas não fosse o universo especial que elas enchem de cor. A trilha sonora de Fons Merkies acrescenta ainda um tom particularmente contemplativo e misterioso -- no sentido de deslumbramento -- àquele mundo.
+
+Começando de maneira simplória e terminando um arco que foi se anunciando aos poucos, A Comunidade acaba sendo não um estudo de personagem, embora possa ser confundido como tal, mas como um estudo de toda uma geração. E não as 70, mas a nossa. Porque por mais compreensivos e desimpedidos de preconceitos/estereótipos que possamos nos auto-declarar, alguma coisa sempre parece estar no caminho. Se isso atrapalha experiências humanas melhores, ou é algum instinto de auto-preservação, ou até outra coisa, é um mistério. Mas apenas por tentar descobrir, o filme merece todo meu respeito.
+
+"Kollektivet" (Denmark/Sweden/Netherlands, 2016), escrito por Tobias Lindholm, Thomas Vinterberg, dirigido por Thomas Vinterberg, com Ulrich Thomsen, Fares Fares, Trine Dyrholm, Julie Agnete Vang, Helene Reingaard Neumann
+
+

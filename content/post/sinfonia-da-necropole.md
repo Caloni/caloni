@@ -1,19 +1,24 @@
 ---
-external: "cinemaqui"
-imdb: "3906650"
+categories: "movies"
 
 date: "2016-03-30"
-categories: [ "movies" ]
+imdb: "3906650"
 title: "Sinfonia da Necrópole"
-stars: "3/5"
-desc: "Sinfonia da Necrópole. Sinfonia da Necrópole (Brazil, 2014). Dirigido por Juliana Rojas. Escrito por Juliana Rojas. Com Eduardo Gomes, Paulo Jordão, Germano Melo, Adriana Mendonça, Luís Mármora, Luciana Paes, Augusto Pompeo, Antonio Velloso, Hugo Villavicenzio."
 ---
-Um musical brasileiro que pega leve sobre a morte. Mas será que realmente este é um filme sobre a morte? Ou será sobre a vida e seus mistérios vistos por um caipira sensível? Se for, temos uma boa ideia no filme de como ele seria de fosse ótimo. Infelizmente, sabotado pelo roteiro água-com-açúcar e manipulativo, o que podemos elogiar são seus números musicais, cujos efeitos de som estão tão bons e naturais que quase não parecem vindos de uma produção nacional.
+Esse é o segundo musical brasileiro que estreia recentemente nos cinemas. O primeiro, Amor em Sampa, tropeça na falta de jeito nacional com trilha sonora. A boa notícia é que Sinfonia da Necrópole não só se sai bem melhor nesse quesito, como possui uma coleção de músicas inspiradas sobre o tema: o além-vida.
 
-A história gira em torno de Deodato, um aprendiz de coveiro sensível, que desmaia sempre que vê um morto e passa a conviver com a mais pragmática e apaixonada pela profissão Jaqueline, uma agente funerária que mobiliza todo o cemitério e seus "moradores" para conseguir espaço onde será criado um empreendimento parecido com os atuais cubículos vendidos como apartamentos, mas para mortos. Essa imagem quase vale o filme, assim como as piadas de mau gosto acidentais ("esse assunto não é de nossa ossada").
+A história de passa em um cemitério, com um aprendiz de coveiro como protagonista, o Deodato (Eduardo Gomes). Convidado pelo tio já experiente, Deodato é sensível demais para o trabalho, algo representado no filme pelos seus constantes desmaios. O timing cômico dessas cenas é péssimo.
 
-O relacionamento entre coveiro e agente é chinfrim demais para despertar qualquer sentimento diferente de "estou sendo manipulado". O conceito criado por trás do musical é bem melhor, mas está ofuscado por diálogos terríveis e atuações medíocres de personagens estereotipados.
+Curiosamente, o timing dos números musicais funciona muito melhor. Cantado pelos próprios atores, em um modelo naturalista (embora dublado em estúdio), o pecado dessas cenas é nunca conseguir trabalhar o mise-en-scene (a disposição dos elementos na tela), nem o enquadramento. Chega a ser frustrante, pois diante das possibilidades que túmulos, jazigos, flores e corredores que um cemitério como o usado para as filmagens possui, o diretor sempre nos entrega monótonos planos gerais à altura dos atores.
 
-Ainda assim, quando mortos se levantam, revoltados (na cabeça do coveiro) e saem a cantar uma canção, o filme sinceramente atinge um ápice que gostaria que fizesse parte do filme que este "Sinfonia" poderia ser.
+Quando a prática Jaqueline (Luciana Paes), uma agente funerária que chega para modernizar o cemitério, movendo alguns jazigos de lugar para construir o equivalente aos apartamentos cada vez menores de hoje em dia, Deodato é escolhido como seu ajudante, e instantaneamente rola uma química mais que forçada entre os dois.
 
-Mas é como dizem a respeito do morto: ele sempre parece melhor pelo que as pessoas falam do que se você o tivesse realmente conhecido.
+E apesar desses pesares, Sinfonia da Necrópole acerta, acredite ou não, em toda sua crítica velada (trocadilho não-intencional) ao modo de vida moderno, e ao rebuscar sua história com números musicais imaginados por Deodato, torna tudo mais interessante e mais florido (mais uma vez, trocadilho não-intencional). E quando a questão ética (ou talvez religiosa) faz com que os próprios mortos realizem sua canção, o filme chega próximo de se tornar algo mais do que um episódio inspirado em um especial de humor na TV.
+
+Porém, ainda que cozinhado em banho-maria todo o tempo, ele é capaz de despertar a simpatia por sua leveza em tratar o tema da morte. Nem que seja por piadas como "onde Judas bateu as botas" ou "esse assunto não é da nossa ossada".
+
+É capaz que essas piadas tenham me influenciado a fazer dois trocadilhos em apenas um parágrafo, embora nenhum dos dois seja intencional. E talvez esse seja o problema com "Sinfonia". Ele consegue ser muito bom em alguns momentos, e engraçado em outros, mas parece tornar tudo muito não-intencional.
+
+"Sinfonia da Necrópole" (Brazil, 2014), escrito por Juliana Rojas, dirigido por Juliana Rojas, com Eduardo Gomes, Paulo Jordão, Germano Melo, Adriana Mendonça, Luís Mármora
+
+

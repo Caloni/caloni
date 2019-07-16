@@ -1,19 +1,19 @@
 ---
-external: "cinemaqui"
-imdb: "3808342"
+categories: "movies"
 
 date: "2016-01-28"
-categories: [ "movies" ]
 title: "O Filho de Saul"
-stars: "4/5"
-desc: "O Filho de Saul. Saul fia (Hungary, 2015). Dirigido por László Nemes. Escrito por László Nemes, Clara Royer. Com Géza Röhrig, Levente Molnár, Urs Rechn, Todd Charmont, Jerzy Walczak, Gergö Farkas, Balázs Farkas, Sándor Zsótér, Marcin Czarnik."
 ---
-Esse filme consegue nos convencer a assisti-lo simplesmente com uma simples premissa: olhe para esse homem e veja o que ele faz.
+Como não poderia deixar de ser, depois do Oscar dado a Birdman, o plano-sequência -- aquela técnica de filmar que evita cortes a todo momento -- voltou à ativa. E em O Filho de Saul, assim como fez Alejandro González Iñárritu, o diretor estreante László Nemes também está preocupado com a narrativa subjetiva -- aquela que a câmera toma o ponto de vista do personagem. Em ambos os filmes, por um bom motivo. Aqui, porém, soa ainda mais esquizofrênico do que o próprio personagem fantasioso de Michael Keaton.
 
-Para atingir esse objetivo, nos mesmos moldes de Birdman, o diretor estreante László Nemes utiliza as mesmas técnicas de sequência sem cortes (plano-sequência) e câmera andando atrás do personagem (câmera subjetiva), o que significa na linguagem leiga que iremos ter pouquíssimos cortes e olharmos aquela realidade através do ponto de vista do personagem.
+O que o filme está nos dizendo a todo momento através de sua técnica é: olhe para este homem, o Saul do título (Géza Röhrig). Ele asfixia e incinera seu povo para que ele próprio não morra. Mas ele mesmo já não sente mais nada. Ele já está à mercê do horror do Holocausto. Apenas segue ordens. Até que observa um menino que sobreviveu à câmera de gás sendo asfixiado pelo médico que o examina. Ele decide (não sabemos) que é seu pai, e tenta de todas as formas realizar para ele um enterro judeu, com direito a reza do rabino e, imagino, um lugar reservado no céu.
 
-Roteirizado como um jogo de video game em primeira pessoa, aqueles que o jogador visita todas as fases, a história de Saul é simples: acabando de morrer seu suposto filho nos campos de concentração nazista, seu único objetivo na vida agora é conseguir para ele um enterro como se deve, o que exige a presença de um rabino, o qual ele sai em busca por todos os grupos de judeus escravizados para exterminar seu próprio povo.
+Ao observar o que ele faz para conseguir seu objetivo é passear no estilo jogo de tiro de primeira pessoa através de diferentes lugares e diferentes funções na máquina de extermínio em massa nazista. É ouvir gritos de ordem de todos os lados (através de uma mixagem de som tridimensional inquieta), de alemães igualmente alheios à loucura, de judeus cooptados pela chance de viver um pouco mais e de russos, preocupados com a única coisa sã que é possível fazer na situação que se encontram: tentar fugir.
 
-No entanto, Saul não é a figura do herói Hollywoodiano, mas antes a figura de um homem doente, que há muito perdeu sua humanidade. Incapaz de sentir algo enquanto organiza e limpa mais uma sessão de "banho" em um campo de concentração, sua "zumbificação" judia está na fase final: ele prefere zelar por uma remota pós-vida de seu filho do que tentar se salvar, arriscando e sacrificando no processo diversos conterrâneos.
+As cenas mais horrendas, de corpos nus amontoados e sendo arrastados, são mal vistas, pois estão fora de foco e filmadas em uma tela quase quadrada com uma profundidade de campo rasíssima (o que quer dizer que podemos ver com exatidão praticamente apenas o que está na mesma distância de Saul). Isso faz sentido. Sempre cabisbaixo, seguindo ordens sem fazer muitas perguntas, Saul é a representação de como eram tratados os escravos judeus, que, pertencentes a um Kommando apenas (um grupo de trabalhadores liderados por um soldado alemão), quase nunca enxergavam o todo. Saul nos dá esse privilégio graças ao roteiro maniqueísta, do próprio László e Clara Royer, mas suficiente pela sua história.
 
-E para os que se deixam levar pela narrativa convencional do "amor de pai", peço que preste atenção ao simbólico final e na possibilidade (razoável) de que ele não tenha filhos. Nessa história de Abraão às avessas, sacrificar um povo inteiro por um ideal talvez não seja, de qualquer forma, um conceito apenas nazista.
+Há pelo menos dois momentos brilhantes no longa, tanto pela dificuldade técnica (são dois planos-sequência) quanto pela força da narrativa: 1) quando Saul volta à sala de autópsia e encontra companhia e 2) quando ele encontra seu rabino, em meio ao caos das "horas extras noturnas" (o que talvez indique que estamos próximos da derrota alemã, quando a velocidade do genocídio foi acelerada).
+
+Com um final enigmático pelo seu simbolismo "au passant", muitos sairão do cinema inquietos por uma resolução mal acabada. Porém, estes perderam o fio da meada em seguir a história convencional de "pai que quer salvar filho no além-túmulo". Você pode assistir o filme assim, e ele funciona bem 99% do tempo com essa história (exceto o final). Porém, perceba como, mesmo se admitirmos a versão oficial da história, há algo que merece ser analisado em um homem que se preocupa mais com os mortos do que com a própria vida, e dica: não é heroísmo.
+
+O filme tem muitos momentos "olhe para esse homem", e talvez o mais aterrorizante é que olhamos para ele e não vimos nada, exceto uma obsessão cega pela sua crença. O que pode ser confundido com mais um filme denunciando a crueldade nazista, no fundo quase não a mostra, preferindo focar na loucura de uma religião, que ambígua como ela é, pode manter viva a esperança de algo melhor ao mesmo tempo que sacrifica os vivos que ainda preferem viver o aqui e agora. Acho que qualquer semelhança com críticas ao conflito do Oriente Médio deve ser analisada com cuidado, mesmo não parecendo muito longe da verdade.

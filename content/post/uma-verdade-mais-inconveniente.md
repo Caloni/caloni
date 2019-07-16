@@ -1,17 +1,20 @@
 ---
-external: "cinemaqui"
 imdb: "6322922"
-
 date: 2017-10-20T21:47:12
-categories: [ "movies" ]
 title: "Uma Verdade Mais Inconveniente"
-stars: "3/5"
-desc: "Uma Verdade Mais Inconveniente. An Inconvenient Sequel: Truth to Power (USA, 2017). Dirigido por Bonni Cohen, Jon Shenk. Escrito por Al Gore. Com Al Gore (Himself), George W. Bush (Himself), John Kerry (Himself), Marco Krapels (Himself), Angela Merkel (Herself), Barack Obama (Himself), Vladimir Putin (Himself), Donald J. Trump (Himself), Tom Rielly (Himself)."
+categories: "movies"
+
 ---
-E eis que Al Gore, alvo de piadas inspiradas em South Park, volta para a continuação sobre os perigos da extinção do homem-urso-porco. Sabe, aquela criatura mística que é metade homem, metade urso e metade porco. Sem pretensões de explicar para o público em geral que não existem três metades de uma coisa, o que Gore faz efusivamente é apelar para gráficos, imagens, vídeos de catástrofes e muita emoção. E ele consegue. Pelo menos na frente das câmeras.
+Se você já viu Uma Verdade Inconveniente, Oscar de melhor documentário de 2006, provavelmente vai se sentir em casa com essa continuação. Ela é espalhafatosa, desinformativa e um apelo à emoção. Mas isso não é nenhuma novidade para você. Conhecida por jogar números estatísticos como forma de combate, o folheto de propaganda na forma de documentário continua balançando ao vento para quem quiser e quem não quiser ver. E como os voluntários de programas sociais que vemos na Avenida Paulista, há a sensação que mais do mesmo não irá resolver o problema. Exceto que agora a calçada ficou um pouco menos agradável de se andar.
 
-O primeiro documentário ganhou um Oscar, e a visibilidade da ameaça da crise ambiental conseguiu dar uma sobrevida à conscientização da população para os perigos da subida em pequenos graus na temperatura média do planeta. Hoje vemos cada vez mais maremotos, tornados e tempestades, e o longa explica como tudo funciona de maneira conectada. É um trabalho interessante, didático, mas pouco imbuído de argumentação lógica. É um movimento emotivo que sai do fundo do coração do ex-presidente americano e atinge, através de recrutamente e de sua própria pessoa, milhares ou milhões de pessoas, americanos e o mundo todo. A apresentação do panorama feita pelos diretores Bonni Cohen e Jon Shenk é eficaz, embora morna, sem muitas artimanhas para prender a atenção do espectador menos atento; justamente o público-alvo final para que toda essa operação funcione em escala global.
+Quem segura esse folheto firme nas mãos é Al Gore. Há quarenta anos. Ele fala efusivamente para quem estiver disposto a ouvir. Ele levanta o tom, usa diversas formas de dizer a mesma coisa, apresenta gráficos, fotos e vídeos de desastres naturais. Nada parece muito convincente. Exceto pelos rostos da plateia, capturadas em harmonia com seu discurso alarmista. Os rostos sorriem, choram, balançam as cabeças e se inclinam nas cadeiras de mais algum auditório ao redor do globo. Quando Al Gore se exalta um pouco seguem os aplausos. A ode à emoção é linda de se ver quando não precisamos pensar muito a respeito.
 
-Ou talvez não. Como vemos no longa, Al Gore consegue articular com grandes corporações movimentos que seriam impossíveis via política. É curioso que um ex-presidente tenha aprendido em todos esses anos, como ele nos explica, que a solução nunca virá dos políticos, mas de nós mesmos. Algo óbvio depois que você passa dos 30 anos de idade, mas que para um político talvez exige mais de 60.
+Os diretores Bonni Cohen e Jon Shenk não possuem aqui uma maneira de conduzir a narrativa como na história original, onde alguém sensato estava disposto a ouvir mais sobre ciência e como conseguimos provar que o aquecimento global não apenas é verdade incontestável, como também sabemos que sendo causado pelo homem pela emissão de gases provenientes de combustíveis fósseis. O uso de gráficos, de imagens e de vídeos é mais para impressionar do que informar, com algumas raras exceções (como as temperaturas médias dos anos extrapolado em décadas, em um crescente preocupante). Na verdade, os diretores estão no piloto automático, pois repetem a mesma dinâmica do anterior como se este fosse o segundo episódio de uma saga que provavelmente vai terminar com o fim da vida na Terra como a conhecemos.
 
-Didático, ligeiramente divertido e extremamente espalhafatoso, este é um panfleto publicitário da melhor qualidade. Não tão boa quanto as propagandas soviéticas, mas, ei, ela consegue te convencer até de que os dados apresentados no filme estão certos ou muito próximos da realidade. Quem consegue uma proeza dessas hoje em dia, com a internet...
+Al Gore não é o melhor garoto-propaganda para espalhar mensagens ecológicas. Ex-político, seu jeito simplório de falar conquista, mas apenas a parte menos poderosa da equação. Em um claro descompasso com a atual presidência do retrógrado Donald Trump, o vice-presidente da era Clinton consegue se comunicar muito melhor com donos de grandes corporações, e negociar propostas excelentes que modificam lentamente estruturas geopolíticas -- como repassar uma tecnologia de energia solar para a Índia -- do que convencer Washington a voltar para a sanidade.
+
+Ele, assim como o diretor homenageado da Mostra esse ano, Ai Weiwei, em seu filme sofre refugiados, concluem a mesma coisa: se há uma luz no fim do túnel, ela não será acesa por políticos e burocratas. Somos nós mesmo que teremos que levar adiante o farol da esperança. Ou como ele diz, se referindo aos painéis solares: acima dos telhados.
+
+"An Inconvenient Sequel: Truth to Power" (USA, 2017), escrito por Al Gore, dirigido por Bonni Cohen, Jon Shenk, com Al Gore, George W. Bush, John Kerry, Marco Krapels, Angela Merkel
+
+

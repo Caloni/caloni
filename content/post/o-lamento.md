@@ -1,21 +1,25 @@
 ---
-external: "cinemaqui"
+categories: "movies"
+
+date: "2016-12-14"
 imdb: "5215952"
-
-date: "2016-12-15"
-categories: [ "movies" ]
 title: "O Lamento"
-stars: "3/5"
-desc: "O Lamento. Goksung (South Korea, 2016). Dirigido por Hong-jin Na. Escrito por Hong-jin Na. Com Do Won Kwak (Jong-Goo), Woo-hee Chun (The Woman of No-name), Jung-min Hwang (Il-Gwang), So-yeon Jang, Han-Cheol Jo, Hwan-hee Kim (Hyo-jin), Jun Kunimura (The Stranger)."
+
 ---
-Poucos filmes de terror que eu vi são tão eficientes na estética e deficitários na história. Se bem que menos filmes ainda em que a história é muito boa, mas a estética apelativa, brutal.
+O Lamento é um terror coreano, e só essa descrição seria o suficiente para chamar a atenção de qualquer fã de terror que se preze. Afinal de contas, terrores asiáticos já são de praxe as melhores fontes de medo humano, e geralmente vem acompanhados de lendas sempre um pouco pesadas demais, como se pode comprovar através de "O Chamado", "Espíritos - A Morte Está ao Seu Lado", "Medo", e "O Hospedeiro" (que é muito mais um drama).
 
-Por isso eu gostaria de elogiar todo o prazer estético que senti em "O Lamento", já que este é um filme que prioriza como o espectador se sente em cada cena isoladamente do que durante toda a história. Criando expectativas aterrorizantes em suas sequências devidamente ritmadas, o diretor Hong-jin Na atinge a perfeição em vários momentos, seja testemunhando um demônio de fraldas comendo tripas de animais na floresta ou um ritual místico envolvendo música alta e uma boa dose de edição.
+Em "O Lamento", como qualquer filme bom do gênero, acompanhamos um pouco da vida de Jong-Goo (Do Won Kwak) e sua família durante a resolução de dois assassinatos tenebrosos que acontecem na cidadezinha onde moram. As mortes, ocorridas em família, são inexplicáveis e revoltantes, em uma prova inicial de que o filme consegue tanto impressionar quanto estender um pequeno drama cotidiano, típico de jornais sensacionalistas, até o ponto que estranhamos as circustâncias aparentemente sobrenaturais que cerca os supostos assassinatos.
 
-Além disso, os aspectos técnicos são impressionantes. A fotografia funciona tão bem nos ambientes internos, destroçados pelo poder maligno que atinge o vilarejo, quanto na própria mística e deserta floresta, que sempre surge escura, nublada ou chuvosa. Isso sem mencionar os efeitos sonoros, que dão a exata sensação de uma pedra sendo atirada no asfalto ou pisar no meio de galhos úmidos.
+Brincando de certa forma com a cultura atual da zumbificação de nossos medos -- em uma sequência na floresta que impressiona o suficiente para se manter na memória o resto da história -- o filme inicialmente flerta até com os clichês mais básicos, usando a parada clássica do trovão para pontuar um diálogo cômico entre dois policiais, para no momento final se utililizar de um susto tão banal quanto eficiente. Porém, quanto mais avançamos na história, mais percebemos que as habilidades em nos mostrar uma cena tensa, assustadora e impactante não estão à altura de um roteiro confuso, excessivo e pesado além do ponto. Aparentemente hermético demais, o filme parece ter lendas e crendices demais para conseguir se manter coeso.
 
-Tudo isso está muito bem. O que não está bem é justamente o conjunto da obra, que aposta em um roteiro inchado com elementos místicos demais e acontecimentos místicos demais. Quero dizer, em meio a xamãs, fantasmas, demônios, zumbis e cogumelos mágicos, ainda inserir um personagem levando um raio na cabeça pode ser demais para a credulidade do espectador médio, quanto mais o especializado em terror.
+Sem contar que, se no início a rotina familiar de Jong-Goo e o tom mais ou menos caricato de sua inexperiência para investigar um caso desses tornam o filme mais leve, o resto será um espetáculo idealizado pela mente doentia e sanguinária do diretor e roteirista Hong-jin Na, que usa e abusa do terror gore e litros de sangue e feridas na pele para nos impressionar pela brutalidade da sua história. Logo o objetivo real se torna mais claro: esta não é uma história centrada em um drama (como "O Hospedeiro"), mas centrada em fazer terror, pura e simplesmente. E de todas as maneiras possíveis, talvez com o intuito de atingir o espectador em algum momento particular, já que cada um terá medo de algum aspecto ou personagem.
 
-E o núcleo da história, o policial gente boa, metade estúpido, metade sagaz, é desenvolvido pela metade com sua família, esposa, filha, sogra, para logo depois abandoná-los e só depois utilizá-los covardemente em um banho de sangue e feridas na pele que, assim como Eli Roth em O Albergue, provavelmente apenas a mente doentia do diretor/roteirista Hong-jin Na conseguiria criar.
+Isso explica porque conforme a história vai se tornando cada vez mais complexa, novos personagens e elementos vão aparecendo e apenas depois da metade do filme chega um xamã que irá tentar resolver as maldições que aparentemente assombram o vilarejo. Logo vamos percebendo que dificilmente essa história irá fechar suas pontas sem soar necessariamente forçado e ao mesmo tempo banal, já que as próprias mortes parecem se tornar cada vez mais banais.
 
-Desnecessariamente inchado, propositadamente confuso (e sem sentido), não há como defender um filme desses do começo até o fim, onde as reviravoltas vão se acumulando em um jogo besta de quem é que diz a verdade (acredite ou não, o clímax do filme). No começo ele até ensaia ser uma crítica bem-humorada a clichês, usando a batidíssima cena do trovão e a pausa em uma conversa em uma noite chuvosa. E se você prestar atenção, existem vários elementos espalhados pelo longa que continuam dando essa ideia. Porém, quando a trilha sonora, a edição e a própria história se leva a sério demais, não há outra alternativa: este é apenas mais um ótimo filme ruim de terror.
+A sensação é que parece haver pelo menos três filmes aí. Hong-jin Na parece não saber cortar, nem no roteiro nem no próprio filme. Mas não me leve a mal: todas as sequências são ótimas. O que não evita que elas aos poucos percam a força, justamente por irem empalidecendo o significado na história. A fotografia é ótima, bucólica, rupestre, com cores simples que se misturam com as sombras, seja da floresta ou das construções destruídas. A edição é dinâmica, interessante de seguir, pois está sempre investindo na subversão do ritmo para gerar susto, algo muito mais eficaz que o som que aumenta de repente. Aliás, até a edição de som e os efeitos sonoros são de primeira qualidade. São os sons que intensificam cada cena sem forçá-la, muitas vezes usando os personagens se assustando.
+
+Porém, nada disso adianta se a história que acompanhamos vai fazendo cada vez menos sentido, e no final a única coisa que temos é o horror bem feito esteticamente, com diferentes formas de representá-lo -- incluindo um demônio impecável -- e sem aquilo que mais um terror necessita para que ele consiga ainda ser relevante: significado. Às vezes não saber a hora de cortar pode ser a maior maldição de um filme.
+
+"Goksung" (South Korea/USA, 2016), escrito por Hong-jin Na, dirigido por Hong-jin Na, com Do Won Kwak, Woo-hee Chun, Jung-min Hwang, So-yeon Jang, Han-Cheol Jo
+
+

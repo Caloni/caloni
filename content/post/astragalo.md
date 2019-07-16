@@ -1,17 +1,20 @@
 ---
-external: "cinemaqui"
-imdb: "3712088"
+categories: "movies"
 
 date: "2016-03-07"
-categories: [ "movies" ]
+imdb: "3712088"
 title: "Astrágalo"
-stars: "3/5"
-desc: "Astrágalo. L'astragale (France, 2015). Dirigido por Brigitte Sy. Escrito por Serge Le Péron, Albertine Sarrazin, Brigitte Sy. Com Leïla Bekhti, Reda Kateb, Esther Garrel, Jocelyne Desverchère, India Hair, Jean-Charles Dumay, Jean-Benoît Ugeux, Delphine Chuillot, Zimsky."
 ---
-Astrágalo é uma experiência desgastante, mesmo tendo pouco mais de uma hora e meia. Não é possível que um filme com tantas cenas belíssimas conseguisse se tornar enfadonho em dois ou três momentos. Talvez seja isso o que sua protagonista estivesse sentindo na hora.
+Biografias tendem a ser chatas quando seguem muito à risca a visão literária do autor. Quando se trata de uma autobiografia, esse risco dobra. Portanto, por mais que Astrágalo seja burocrático e arrastado na maioria do tempo, de certa forma é um alívio notar a beleza de suas composições em preto e branco, além de sua estética vazia, embora evocativa de uma época charmosa, ou de uma época quando bandidos se davam ao luxo de serem charmosos.
 
-Porque este é um filme baseado em uma autobiografia, de Albertine Sarrazin, uma assassina que durante sua fuga foi salva por um outro bandido. Durante o episódio forte, ela quebra um osso do pé. Passa a mancar pelo resto da vida, mas com estilo: estamos na França, e a vida é em preto e branco.
+No entanto, este não é exatamente um representante do gênero noir, onde as sombras escondem algo mais que não conseguimos ver. Tudo é muito cristalino. Criando sua dose de amor instantânea em seus primeiros minutos, quando vemos Julien (Reda Kateb) salvar Albertine (Leïla Bekhti) de sua fuga da prisão (uma cena forte), o amor vai crescendo de forma assimétrica entre eles e entre cortes secos no tempo. A recuperação de Albertine logo traz de volta suas cicatrizes passadas: uma amiga um tanto desonesta que sequer gosta da filha e a parceira do crime que a colocou na prisão.
 
-Protagonizado por Leïla Bekhti e sua beleza exótica, além da participação charmosa de Reda Kateb, os personagens são mais importantes que a história. Quase não há história, mas sempre haverá um diálogo naturalista entre os diferentes personagens que habitam este mundo esteticamente impecável, com perfis muito próximos ou pessoas vistas como objetos de cena.
+Baseado no livro da própria Albertine Sarrazin, a diretora Brigitte Sy escolhe mostrar o que teoricamente conseguiria trazer um pouco de reflexão para uma história com poucas virtudes dramáticas, exceto pela desesperança da vida de Albertine. Entrega à própria sorte, logo ela se vê vendendo seu corpo para conseguir seu próprio dinheiro, mas não sem nunca se esquecer de quem lhe deu uma nova vida. Julien poderia muito bem ser um desses carrascos que usam mulheres indefesas para compor um harém, e o filme de certa forma flerta com isso. No entanto, talvez embaçada pela visão de uma bandida apaixonada por outro bandido, a vida narrada pela protagonista carece de fontes confiáveis, soando novelística demais, mesmo com alguns percalços colocados pelo caminho.
 
-Porém, ser belíssimo não dá ao filme muito mérito. Até Dolls (um drama japonês) tinha lá sua trama não-linear. Aqui vivemos através dos olhos de sua autora, e a vida não é muito excitante. Não mais que a vida de uma foragida, que decide vender o corpo para conseguir seu próprio dinheiro, mas que nunca esquecerá de seu salvador.
+Um deles diz respeito ao seu osso quebrado durante a fuga. Um osso pequeno do pé, que irá lhe impedir de andar normalmente pelo resto da vida. Parecendo sempre necessitar de um suporte, a metáfora é eficiente: depois de livre novamente, seu salvador se torna sua muleta na Terra. Se livrar dele não lhe parece nem cômodo, nem desejável.
+
+Filmado com enquadramentos deslumbrantes, como um em que vemos apenas uma linha horizontal por onde se move Albetine e dois tempos (seu torso e suas pernas), Astrágalo é uma experiência extenuante mesmo em sua pouco mais de uma hora e meia de duração. O que é curioso, pois muitos de seus momentos poderiam facilmente virar quadros belíssimos de uma França vista através de perfis muito próximos da câmera ou meros objetos de cena. A beleza plástica, ao que me parece, não consegue substituir a falta de uma trama minimamente interessante.
+
+"L'astragale" (France, 2015), escrito por Serge Le Péron, Albertine Sarrazin, Brigitte Sy, dirigido por Brigitte Sy, com Leïla Bekhti, Reda Kateb, Esther Garrel, Jocelyne Desverchère, India Hair
+
+

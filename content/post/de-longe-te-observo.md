@@ -1,19 +1,24 @@
 ---
-external: "cinemaqui"
-imdb: "4721400"
+categories: "movies"
 
 date: "2016-07-16"
-categories: [ "movies" ]
+imdb: "4721400"
 title: "De Longe Te Observo"
-stars: "4/5"
-desc: "De Longe Te Observo. Desde allá (Venezuela, 2015). Dirigido por Lorenzo Vigas. Escrito por Lorenzo Vigas, Guillermo Arriaga, Lorenzo Vigas. Com Alfredo Castro, Luis Silva, Jericó Montilla, Catherina Cardozo, Jorge Luis Bosque, Greymer Acosta, Auffer Camacho, Ivan Peña, Joretsis Ibarra."
 ---
-Este é o filme que levou o Leão de Ouro de Veneza, do diretor estreante Lorenzo Vigas, que também assina o roteiro. Conta a história de um velho tarado por jovens e que sente um rancor incomensurável a respeito do pai, que está de volta a Caracas.
+De Longe Te Observo é um trabalho intimista que subverte a estrutura dos elementos que formam esse thriller/drama e com isso inverte nossa percepção sobre o que realmente está acontecendo. Talvez ele não consiga nos despistar o suficiente, mas o importante aqui é que o efeito funciona. Dessa forma, previsível ou não, aqui temos uma história que mexe com conceitos como trauma, apego, dinheiro e vingança.
 
-O velho tarado, Armando (Alfredo Castro), encontra seu exato oposto em Elder (Luis Silva), um dos jovens que aborda. Elder é um desses rapazes largados na cidade grande, que até tem onde morar, tem um pequeno emprego em uma mecânica, mas também vive de praticar delitos e cometer violência. Essa é a forma que foi ensinado desde criança, pelo seu pai. E para Elder não há maiores problemas em se aproveitar, ou até machucar, um velho veado.
+Tudo começa com Armando (Alfredo Castro), que trabalha em um laboratório de prótese dentária, tem uma irmã que está para adotar um bebê e mora sozinho. Armando tem um fetiche por olhar o corpo desnudo de jovens rapazes, e paga altas quantias para que eles o acompanhem até sua casa para que possa observá-los. Através do seu olhar podemos perceber que ele sabe exatamente o que quer, mas nunca é um olhar de satisfação, mas um olhar mecânico, muitas vezes observador, mas no fundo não é possível saber.
 
-O impressionante mesmo é a atuação límpida e cristalina de Alfredo Castro, que pinta um Armando que não demonstra seus sentimentos por palavras, mas pelos olhos. E, mesmo assim, sabemos vagamente (muito vagamente) onde essa história irá nos levar. E, no entanto, apenas a dinâmica entre Elder e Armando é o suficiente para que uma tensão curiosa e crescente se instale na narrativa lenta mas hipnotizante do filme.
+É dessa forma que ele atrai o problemático Elder (Luis Silva) para sua vida, mas não de uma maneira cálida ou mecânica. Muito pelo contrário. Elder é um delinquente, que vive na rua cometendo pequenos delitos. Sua violência e deu desontrole se contrapõem perfeitamente com a calma e a obsessão de Armando, uma obsessão tão incondicional que começa aos poucos fazer Elder duvidar de seus julgamentos de valor a respeito da sexualidade de Armando, ou pior: gerar conivência através da compaixão.
 
-A tudo isso é auxiliado enormemente não apenas pelo roteiro inusitado, mas pela direção de Vigas. Usando uma profundidade de campo limitadíssima -- em um momento no início do filme, acompanhamos Armando esperando o ônibus junto de várias pessoas, mas só conseguimos ver em foco Armando -- e quase sempre usando uma câmera estática -- à semelhança do recente e excelente A Garota de Fogo. A falta de diálogos também deixa claro que é o espectador que precisa se esforçar para entender a história, mas em seu auxílio ele tem um elenco afiadíssimo no comando de personagens muito peculiares, além de uma edição de som particularmente precisa, que consegue acompanhar Armando e seus passos pela sua casa e escritório e praticamente já dizer tudo que é necessário.
+A direção do cineasta estreante Lorenzo Vigas, vencedora do Leão de Ouro em Veneza, observa seus personagens em uma profundidade de campo impossivelmente rasa, fazendo com que todo o resto que está em cena pareça desfocado, nebuloso e indiferente. Lorenzo eleva a máxima do Cinema de mostrar apenas o que importa dentro do próprio quadro, usando o resto dos elementos apenas para pincelar a realidade do cotidiano de Caracas, ou, no caso, de qualquer cidade grande de um país pobre da América Latina.
 
-Aliás, até a localização espacial se perde um pouco na direção de Vigas, que utiliza um ritmo lento, mas nunca facilita para o espectador. Dificilmente saberemos como é a disposição dos cômodos de sua casa, ou dos lugares no escritório. É essa falta de pistas que favorece imensamente a história, que é rasa, mas que está sendo contada com todos seus detalhes subvertidos, tornando-se uma charada deliciosa de acompanhar.
+No entanto, essa negativa em nos inundar de detalhes acaba interferindo também na localização espacial dos cenários -- fica praticamente impossível saber onde fica cada cômodo em sua casa ou trabalho -- e nos objetos simplesmente fora de quadro. Com uma edição de som precisa e cristalina, não é preciso mostrar as compras que Armando deixa cair no chão enquanto fala com certo rancor da volta do pai à cidade. Da mesma forma, não é necessário nenhum diálogo quando escutamos o andar cuidadoso, frio e calculista de Armando por sua casa ou escritórios.
+
+Enquanto isso, a tensão é criada quase de forma automática por acompanharmos essa união explosiva entre pessoas completamente diferentes, enquanto tentamos entender suas motivações e o que virá a seguir. Com um nível de controle absoluto, o roteiro, também de Lorenzo Vigas, brinca com nossa percepção ao nos fazer esquecer por longos momentos do que está em jogo, para depois sequer nos lembrar disso. A história flui naturalmente, como se espectador sozinho fosse chegando às conclusões, talvez meses depois que o próprio filme.
+
+Isso explica os momentos sublimes do final, onde expectativa e acontecimento se encontram. Intuitivamente previsível, mas nunca óbvio. Há alguma mágica em "De Longe Te Observo" que parece manter os detalhes bem longe de onde podemos facilmente observá-los.
+
+"Desde allá" (Venezuela/Mexico, 2015), escrito por Lorenzo Vigas, Guillermo Arriaga, Lorenzo Vigas, dirigido por Lorenzo Vigas, com Alfredo Castro, Luis Silva, Jericó Montilla, Catherina Cardozo, Jorge Luis Bosque
+
+

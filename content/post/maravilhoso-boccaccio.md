@@ -1,19 +1,22 @@
 ---
-external: "cinemaqui"
-imdb: "3596952"
+categories: "movies"
 
 date: "2016-04-27"
-categories: [ "movies" ]
+imdb: "3596952"
 title: "Maravilhoso Boccaccio"
-stars: "3/5"
-desc: "Maravilhoso Boccaccio. Maraviglioso Boccaccio (Italy, 2015). Dirigido por Paolo Taviani, Vittorio Taviani. Escrito por Giovanni Boccaccio, Paolo Taviani, Vittorio Taviani. Com Lello Arena, Paola Cortellesi, Carolina Crescentini, Flavio Parenti, Vittoria Puccini, Michele Riondino, Kim Rossi Stuart, Riccardo Scamarcio, Kasia Smutniak."
 ---
-Os Dez Mandamentos da TV Itália. Para quem não sabe, a novela do Edir Macedo virou um filme de duas horas que passou nos cinemas e que cobrava dos fiéis uns 50 reais por entrada (um dos porteiros aqui do prédio que confirmou). Esse Maravilhoso Boccaccio fala sobre alguns contos do autor italiano do século 14, e estrutura sua narrativa em torno dessas novelinhas que parecem aqueles textos de literatura juvenil que lemos quando estamos no primeiro estágio da escola.
+Fracamente inspirado no Decameron, a coletânea de novelas do autor italiano do Século 14, Maravilhoso Boccaccio é filmado como uma grande novela de contos, além de sua produção lembrar tanto uma peça de teatro quanto produções televisivas de baixo orçamento. Ainda assim, possui o mérito narrativo em suas ótimas e curtas histórias.
 
-Mas é falado em italiano, e tem um grupo de jovens lindos, homens e mulheres, o que dá a sensação de ser muito, muito bom. A juventude que exala nesse filme é tão bom quanto em "Morangos Silvestres", mas a história é inexistente. Diferente de filmes sem história que tentam se amarrar pelo tema ("Monty Python - O Sentido da Vida", "Magnolia"), aqui ela se amarra simplesmente por jovens que se juntam para deixar a cidade de Florença para trás, uma das vítimas da Peste Negra que assola a Europa em 1300 e tantos, e ficam em uma casa do interior por alguns dias. O sexo foi proibido por eles. Para não morrerem de tédio, cada um conta uma história por dia (que aparentemente dura tempo o suficiente para não se entediarem). Eles cozinham como camponeses para fazer um pão, mas o resto do tempo ficam zanzando em torno da casa. Nada realista.
+O pano de fundo é a Itália na época da Peste Negra, quando pessoas morriam aos montes e alguns belos jovens se isolaram de Florença, indo viver em uma casa no interior por alguns dias. Só para sentir o dramalhão que os diretores Paolo Taviani e Vittorio Taviani se envolveram ao adaptar Bocaccio, temos uma cena no início em que um pai enterra esposa e filho em uma das fossas coletivas das vítimas da praga, e os protege das pazadas de terra que recebem.
 
-Porém, podemos confundi-lo com "Sonhos de uma Noite de Verão", exceto que os contos são interpretados pelos mesmos atores, são curtos, e não há uma conexão clara entre eles. Há ótimas histórias sendo contadas, e esse é um passatempo mais que bem-vindo nessas duas horas que passam rápido. Nem por isso deixa de ser uma produção noveleira, de baixo orçamento e péssimo figurino. A trilha sonora é um dramalhão, com zooms exagerados e pitorescos da TV.
+A trilha sonora pitoresta da TV, os zooms exagerados, os ângulos teatrais e a história contada como uma poesia mal amarrada tornam a experiência de ver cada um dos jovens contar uma história para não se entediarem uma oportunidade para relaxar e deixar fluir a imaginação em torno da época. Infelizmente, tal qual a recente "superprodução" brasileira Os Dez Mandamentos, o figurino disfarçado de antigo não ajuda, ainda mais quando vemos uma calcinha moderna escondida entre os panos de uma moça.
 
-Ainda assim, há algo de genial em algumas tomadas, como quando uma madre superiora dá sermão com uma cueca na cabeça, ou no sacrifício absurdo de um caçador que fica pobre e tem como único amigo seu falcão.
+Porém, as histórias possuem suas virtudes, principalmente as últimas. O processo todo de acompanhar cada história, interpretada pelos próprios atores da "trama" principal, é um aprendizado dessa dinâmica, onde não há nada mais a ser contado do "lado de fora" desse vai-e-vem dos personagens principais.
 
-Ou seja, no pior dos casos, Maravilhoso Boccaccio entretém, tem atores bonitos e é uma viagem no tempo meio torta, meio eficiente.
+Dessa forma, é muito mais interessante ver a história do artesão ingênuo que acredita ter encontrado uma pedra que o torna invisível, ou de uma madre superiora dando um sermão a uma das freiras sobre luxúria com uma cueca na cabeça, ou até mesmo a história mais forte de todas, a de um falcão que se torna o melhor e único amigo de um caçador que vai à falência. Esses são passatempos que valem a pena se deliciar em torno da estrutura episódica do filme. Porém, sempre ao seu final ressurge a sensação de estar apenas acompanhando uma espécie de seriado com mini-episódios de curtos independentes e que nunca se relacionam com nada. Qual a moral da história? Há muitas morais a ser extraídas, mas nenhuma ideia do que os autores imaginaram ao juntar todas essas histórias.
+
+Ao fim, Maravilhoso Boccaccio parece uma espécie de homenagem a um autor já conhecidíssimo da Idade Média em um formato mais palatável para o grande público italiano. Poderia ir direto para a TV e teria algum público cult, mas como Cinema, se torna tão competente quanto as aventuras de Moisés televisionado pela emissora de Edir Macedo.
+
+"Maraviglioso Boccaccio" (Italy/France, 2015), escrito por Giovanni Boccaccio, Paolo Taviani, Vittorio Taviani, dirigido por Paolo Taviani, Vittorio Taviani, com Lello Arena, Paola Cortellesi, Carolina Crescentini, Flavio Parenti, Vittoria Puccini
+
+
