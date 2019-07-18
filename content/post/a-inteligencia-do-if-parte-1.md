@@ -58,7 +58,7 @@ A grande sacada computacional, motivo pelo qual hoje os computadores hoje são t
     ...
     code
 
-Os saltos condicionais, vulgarmente conhecidos como _ifs_, permitiram às linguagens de programação possuírem construções de execução mais sofisticadas: laços, iterações e seleção de caso. Claro que no fundo elas não passam de um conjunto formado por saltos condicionais e incondicionais.
+Os saltos condicionais, vulgarmente conhecidos como `if`'s, permitiram às linguagens de programação possuírem construções de execução mais sofisticadas: laços, iterações e seleção de caso. Claro que no fundo elas não passam de um conjunto formado por saltos condicionais e incondicionais.
 
     while( condition)                 begin_while:          
     {                                 if( condition )       
