@@ -1,1 +1,1 @@
-{{ partial "pos_content.html" . }}
+{{ if .Params.stars }}{{ partial "stars.html" . }} {{ end }}{{ .Title }}. {{ .Params.desc }} {{ if .Params.stars }} Nota: {{ .Params.stars }}. {{ end }} {{ if .Params.categories }} Categoria: {{ delimit .Params.categories ", " }}. {{ end }} Publicado em {{ .PublishDate.Format "2006-01-02" }}. {{ if .Params.review }}Revisto em {{ delimit .Params.review ", " }}.{{ end }}
