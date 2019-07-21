@@ -3,19 +3,18 @@ title: Sobre o autor
 categories: [ "blog" ]
 date: 2004-03-01
 ---
-_wanderley.caloni at bitforge com br_
+<img src="/img/author.png" style="float: left; margin: 24px;"/>
 
-<img src="https://i.imgur.com/ULSCx4o.png" style="float: left; margin: 24px;"/>__Wanderley Caloni__ é um programador C/C++ especializado em __backend para Windows__ que decidiu ter seu próprio blogue técnico. Tenta mantê-lo atualizado com suas peripécias do dia-a-dia. Colaborador frequente do Grupo C/C++ Brasil, foi junto de [Rodrigo Strauss](http://www.1bit.com.br/) um dos fundadores e participante do primeiro encontro de [programadores C++](http://groups.google.com/group/ccppbrasil) de São Paulo. Trabalhou por dez anos na área de __Segurança da Informação__, principalmente no [Controle de Acesso a Usuários](http://www.scua.com.br) e [Análise de Trojans](http://www.opencs.com.br/site/). Em seguida trabalhou em projetos de desenvolvimento para a __[Área Financeira](http://www.ezmarket.com.br/)__, vindo a ser sócio de uma [empresa especializada](http://www.intelitrader.com.br). Hoje é um dos sócios da __[BitForge](http://www.bitforge.com.br)__, uma empresa que auxilia equipes de desenvolvimento em problemas complexos, seja em arquitetura, metodologias ou escovação de bits, mesmo.
+Wanderley Caloni é um programador C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico a pedidos insistentes do seu amigo, Rodrigo Strauss, que já estava blogando há algum tempo [1]. Ele tentou mantê-lo atualizado, então, por longos anos de programação, depuração e transpiração, com suas peripécias do dia-a-dia.
 
-De 2013 a 2018 foi nomeado __MVP (Most Valued Professional)__ [pela Microsoft](https://mvp.microsoft.com/pt-br/PublicProfile/5000295), um prêmio em consideração pelas colaborações à comunidade C/C++.
+Colaborador frequente do Grupo C/C++ Brasil, ele e Strauss se consideram fundadores do grupo ao organizarem e participarem do primeiro encontro de programadores e aficionados da linguagem C/C++ do Brasil [2], que ocorreu em São Paulo dia 17/12/2005 às 15:00 no Outback Eldorado. Desde então o grupo vem realizando encontros técnicos no decorrer dos anos [3].
 
-Seu principal hobby é ser __cinéfilo inveterado__, tendo mantido desde 2010 [um blogue](http://cinetenisverde.com.br) com textos sobre filmes e séries, e desde 2014 é colaborador do [CinemAqui](http://www.cinemaqui.com.br), escrevendo geralmente sobre pré-estreias de filmes alternativos.
+Caloni trabalhou por dez anos na área de Segurança da Informação, principalmente em um  Sistema de Controle de Acesso a Usuários e Aplicações 100% brasileiro [4] e Análise de Trojans com Engenharia Reversa [5]. Em seguida migrou para a Área Financeira [6], vindo a ser sócio de uma empresa especializada, também desenvolvedora de sua própria solução [7]. Hoje é um dos sócios da BitForge [8], uma empresa que auxilia empresas e equipes de desenvolvimento em problemas complexos, seja em arquitetura, metodologias, cursos ou escovação de bits, mesmo.
 
-Desde 2007 estuda e administra suas finanças pessoalmente, desde títulos públicos a bolsa de valores, o que o fez estudar massivamente sobre o tema, além de se enveredar pelas ciências econômicas como leitor assíduo. Atualmente é defensor da __Escola Austríaca de Economia__ como a única capaz de analisar e prever movimentos econômicos com precisão aceitável, o que o fez também estudar sobre ação humana e filosofia, seguindo a moral objetivista de __Ayn Rand__, que valoriza o uso da mente acima de tudo.
+No mundo acadêmico Caloni participou de sua primeira faculdade em 1998 na Faculdade de Filosofia, Letras e Ciências Humanas da USP por um ano e meio antes de se descobrir perdidamente apaixonado por computação. Eventualmente se formou em Arquitetura de Redes pelo Instituto Brasileiro de Tecnologia Avançada em 2007. Fast foward e totalmente não-relacionado, de 2013 a 2018 foi nomeado MVP (Most Valued Professional) pela Microsoft [9], um prêmio em consideração pelas colaborações à comunidade C/C++.
 
-Ele costuma dar pitacos sobre todos esses temas e outros mais em seu [twitter pessoal](http://twitter.com/#!/caloni). Há outros [links úteis](/links) por aqui.
+Entre xadrez e andar de bicicleta, seu principal hobby, ou o que ele levou mais a sério, é ser cinéfilo inveterado, tendo mantido de 2010 a 2019 um blogue especializado no assunto [10]. Levando este hobby a sério demais, desde 2014 é colaborador do CinemAqui [11], participando de cabines de imprensa e escrevendo críticas sobre cinema, geralmente sobre pré-estreias de filmes fora do circuito hollywoodiano.
 
-Se quiser entrar em contato comigo use o bom e velho email: [wanderley.caloni@bitforge.com.br](mailto:wanderley.caloni@bitforge.com.br).
 
 ## Voltando para a programação
 
@@ -67,3 +66,15 @@ Abaixo temos uma breve lista (não-exaustiva) das coisas que eu andei fazendo na
 - Desenvolvimento de artigos através de blogue técnico e comunidade Code Project (esse você já sabia, não é?).
 - Desenvolvimento de API de comunicação com dispositivos HID USB.
 - Programação para interfaces mobile Windows Phone e Android.
+
+ - [1] http://www.1bit.com.br
+ - [2] http://groups.google.com/group/ccppbrasil
+ - [3] http://ccppbrasil.github.io/encontros/encontros/
+ - [4] http://www.scua.com.br
+ - [5] http://www.opencs.com.br
+ - [6] http://www.ezmarket.com.br
+ - [7] http://www.intelitrader.com.br
+ - [8] http://www.bitforge.com.b4
+ - [9] https://mvp.microsoft.com/pt-br/PublicProfile/5000295
+ - [10] http://cinetenisverde.com.br 
+ - [11] http://www.cinemaqui.com.br

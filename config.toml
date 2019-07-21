@@ -21,3 +21,11 @@ theme = "capsule"
     name = "rss"
     url = "/index.xml"
     weight = 3
+[[menu.main]]
+    name = "author"
+    url = "/sobre"
+    weight = 4
+[[menu.main]]
+    name = "contact"
+    url = "/contato"
+    weight = 5
