@@ -18,11 +18,11 @@ theme = "capsule"
     url = "https://twitter.com/caloni"
     weight = 2
 [[menu.main]]
-    name = "author"
+    name = "user"
     url = "/sobre"
     weight = 3
 [[menu.main]]
-    name = "contact"
+    name = "comment"
     url = "/contato"
     weight = 4
 [[menu.main]]

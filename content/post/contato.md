@@ -9,7 +9,7 @@ date: 2004-03-01
 
 ### Mídia Social
 
- - Github: https://github.com/Caloni
+ - GitHub: https://github.com/Caloni
  - Twitter: https://twitter.com/caloni
  - Patreon: https://www.patreon.com/caloni
  - Facebook: https://www.facebook.com/wanderleycaloni
