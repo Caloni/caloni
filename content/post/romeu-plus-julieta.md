@@ -4,7 +4,7 @@ title: "Romeu + Julieta"
 imdb: "0117509"
 desc: "Romeo + Juliet. United States, Mexico, 1996. Dirigido por Baz Luhrmann, escrito por William Shakespeare, Craig Pearce, Baz Luhrmann. Com Leonardo DiCaprio, Claire Danes, John Leguizamo."
 categories: [ "movies" ]
-stars: "4/5"
+stars: "3/5"
 ---
 Leonardo Di Caprio e Claire Danes se beijam muito nessa adaptação cinematográfica de Shakespeare que faz cair a ficha do que era esta peça na época do dramaturgo: um romance adolescente que desperta as rixas de duas tradicionais famílias.
 
