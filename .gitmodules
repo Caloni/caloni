@@ -1,9 +1,9 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/cinetenisverde/cinetenisverde.github.io
 [submodule "themes/capsule"]
 	path = themes/capsule
 	url = https://github.com/Caloni/capsule
 [submodule "themes/book"]
 	path = themes/book
 	url = https://github.com/Caloni/book
+[submodule "content/post"]
+	path = content/post
+	url = https://github.com/Caloni/post
