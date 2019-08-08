@@ -4,7 +4,16 @@ def print_desc(imdb):
     from imdb import IMDb
     ia = IMDb()
     movie = ia.get_movie(imdb)
-    print("desc: \"", movie["title"], ". ", ", ".join(map(str, movie["countries"])), ", ", movie["year"], ". Dirigido por ", ", ".join(map(str, movie["director"])), ", escrito por ", ", ".join(map(str, movie["writer"])), ". Com ", ", ".join(map(str, list(movie["cast"] if "cast" in movie else [])[0:3])), ".\"", sep="")
+    originalTitle = '"' + movie["title"] + '"'
+    countriesYear = "(" + ", ".join(map(str, movie["countries"])) + ", " + str(movie["year"]) + ")"
+    writing = movie["writer"]
+    writing = str(writing[0]) if len(writing) == 1 else (", ".join(map(str, writing[0:-1])) + " e " + str(writing[-1]))
+    director = movie["director"]
+    director = str(director[0]) if len(director) == 1 else (", ".join(map(str, director[0:-1])) + " e " + str(director[-1]))
+    casting = movie["cast"][0:3]
+    casting = str(casting[0]) if len(casting) == 1 else (", ".join(map(str, casting[0:-1])) + " e " + str(casting[-1]))
+    desc = "desc: '" + originalTitle + " " + countriesYear + ", escrito por " + writing + ", dirigido por " + director + ", com " + casting + ".'"
+    print(desc)
 
 if len(sys.argv) < 2:
     print('How to use: python imdb.py imdb')
