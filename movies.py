@@ -7,13 +7,18 @@ def print_desc(imdb, args):
     movie = ia.get_movie(imdb)
     originalTitle = '"' + movie["title"] + '"'
     countriesYear = "(" + ", ".join(map(str, movie["countries"])) + ", " + str(movie["year"]) + ")"
-    writing = movie["writer"]
-    writing = str(writing[0]) if len(writing) == 1 else (", ".join(map(str, writing[0:-1])) + " e " + str(writing[-1]))
+    writing = None
+    if "writer" in movie:
+        writing = movie["writer"]
+        writing = str(writing[0]) if len(writing) == 1 else (", ".join(map(str, writing[0:-1])) + " e " + str(writing[-1]))
     director = movie["director"]
     director = str(director[0]) if len(director) == 1 else (", ".join(map(str, director[0:-1])) + " e " + str(director[-1]))
     casting = movie["cast"][0:castMax]
     casting = str(casting[0]) if len(casting) == 1 else (", ".join(map(str, casting[0:-1])) + " e " + str(casting[-1]))
-    desc = "desc: '" + originalTitle + " " + countriesYear + ", escrito por " + writing + ", dirigido por " + director + ", com " + casting + ".'"
+    desc = "desc: '" + originalTitle + " " + countriesYear
+    if writing:
+        desc += ", escrito por " + writing
+    desc += ", dirigido por " + director + ", com " + casting + ".'"
     print(desc)
 
 if len(sys.argv) < 2:
