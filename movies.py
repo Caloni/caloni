@@ -13,12 +13,17 @@ def print_desc(imdb, args):
         writing = str(writing[0]) if len(writing) == 1 else (", ".join(map(str, writing[0:-1])) + " e " + str(writing[-1]))
     director = movie["director"]
     director = str(director[0]) if len(director) == 1 else (", ".join(map(str, director[0:-1])) + " e " + str(director[-1]))
-    casting = movie["cast"][0:castMax]
-    casting = str(casting[0]) if len(casting) == 1 else (", ".join(map(str, casting[0:-1])) + " e " + str(casting[-1]))
+    casting = None
+    if "cast" in movie:
+        casting = movie["cast"][0:castMax]
+        casting = str(casting[0]) if len(casting) == 1 else (", ".join(map(str, casting[0:-1])) + " e " + str(casting[-1]))
     desc = "desc: '" + originalTitle + " " + countriesYear
     if writing:
         desc += ", escrito por " + writing
-    desc += ", dirigido por " + director + ", com " + casting + ".'"
+    desc += ", dirigido por " + director
+    if casting:
+        desc += ", com " + casting
+    desc += ".'"
     print(desc)
 
 if len(sys.argv) < 2:
