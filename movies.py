@@ -6,18 +6,26 @@ def print_desc(imdb, args):
     ia = IMDb()
     movie = ia.get_movie(imdb)
     originalTitle = '"' + movie["title"] + '"'
-    countriesYear = "(" + ", ".join(map(str, movie["countries"])) + ", " + str(movie["year"]) + ")"
-    writing = None
-    if "writer" in movie:
-        writing = movie["writer"]
-        writing = str(writing[0]) if len(writing) == 1 else (", ".join(map(str, writing[0:-1])) + " e " + str(writing[-1]))
-    director = movie["director"]
-    director = str(director[0]) if len(director) == 1 else (", ".join(map(str, director[0:-1])) + " e " + str(director[-1]))
-    casting = None
-    if "cast" in movie:
-        casting = movie["cast"][0:castMax]
-        casting = str(casting[0]) if len(casting) == 1 else (", ".join(map(str, casting[0:-1])) + " e " + str(casting[-1]))
-    desc = "desc: '" + originalTitle + " " + countriesYear
+    
+    def getItem(name, movie, itemMax = 10):
+        ret = None
+        if name in movie:
+            ret = movie[name][0:itemMax]
+            ret = str(ret[0]) if len(ret) == 1 else (", ".join(map(str, ret[0:-1])) + " e " + str(ret[-1]))
+        return ret
+
+    director = getItem("director", movie)
+    writing = getItem("writer", movie)
+    casting = getItem("cast", movie, castMax)
+    countries = getItem("countries", movie)
+
+    if countries:
+        if "year" in movie:
+            countries = "(" + countries + ", " + str(movie["year"]) + ")"
+
+    desc = "desc: '" + originalTitle
+    if countries:
+        desc += " " + countries
     if writing:
         desc += ", escrito por " + writing
     desc += ", dirigido por " + director
@@ -25,6 +33,7 @@ def print_desc(imdb, args):
         desc += ", com " + casting
     desc += ".'"
     print(desc)
+
 
 if len(sys.argv) < 2:
     print('How to use: python imdb.py imdb')
