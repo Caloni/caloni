@@ -29,3 +29,6 @@ theme = "capsule"
     name = "rss"
     url = "/index.xml"
     weight = 5
+
+[params]
+    ContentGit = "https://github.com/Caloni/post"
