@@ -14,21 +14,13 @@ theme = "capsule"
     url = "/post"
     weight = 1
 [[menu.main]]
-    name = "twitter"
-    url = "https://twitter.com/caloni"
-    weight = 2
-[[menu.main]]
-    name = "user"
-    url = "/sobre"
-    weight = 3
-[[menu.main]]
     name = "comment"
-    url = "/contato"
-    weight = 4
+    url = "/author"
+    weight = 2
 [[menu.main]]
     name = "rss"
     url = "/index.xml"
-    weight = 5
+    weight = 3
 
 [params]
     ContentGit = "https://github.com/Caloni/post"
