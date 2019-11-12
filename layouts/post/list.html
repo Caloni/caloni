@@ -11,8 +11,9 @@
     {{ partial "navbar-hero.html" . }}
 
     {{ partial "list_begin.html" . }}
-    <p>Se quiser realizar uma busca com mais parâmetros vá na página com <a href="/search">todos os detalhes dos posts</a> (carregamento mais pesado).</p>
-    {{ range .Site.RegularPages }} <tr><td> <a href="{{ .Permalink }}">{{ .Title }}</a> </td></tr>
+    <tr><td> <a href="/allposts">Buscar em todos os posts</a> </td></tr>
+    <tr><td> <a href="/search">Buscar na descrição de todos os posts</a> </td></tr>
+    {{ range first 100 .Site.RegularPages }} <tr><td> <a href="{{ .Permalink }}">{{ .Title }}</a> </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
 

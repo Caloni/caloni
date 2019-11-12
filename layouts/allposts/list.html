@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+
+  {{ partial "head.html" . }}
+
+  <script src="/js/jquery.min.js"></script>
+  <script src="/js/list.js"></script>
+
+  <body style="min-height:100vh;display:flex;flex-direction:column">
+
+    {{ partial "navbar-hero.html" . }}
+
+    {{ partial "list_begin.html" . }}
+    <tr><td> <a href="/post">Busca dos primeiros posts</a> </td></tr>
+    <tr><td> <a href="/search">Buscar na descrição de todos os posts</a> </td></tr>
+    {{ range .Site.RegularPages }} <tr><td> <a href="{{ .Permalink }}">{{ .Title }}</a> </td></tr>
+    {{ end }}
+    {{ partial "list_end.html" . }}
+
+    {{ partial "footer.html" . }}
+
+  </body>
+
+</html>
