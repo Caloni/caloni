@@ -28,7 +28,8 @@ def print_desc(imdb, args):
         desc += " " + countries
     if writing:
         desc += ", escrito por " + writing
-    desc += ", dirigido por " + director
+    if director:
+        desc += ", dirigido por " + director
     if casting:
         desc += ", com " + casting
     desc += ".'"
