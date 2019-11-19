@@ -11,8 +11,7 @@
     {{ partial "navbar-hero.html" . }}
 
     {{ partial "list_begin.html" . }}
-    <tr><td> <a href="/post">Busca dos primeiros posts</a> </td></tr>
-    <tr><td> <a href="/search">Buscar na descrição de todos os posts</a> </td></tr>
+    <tr><td> <b><a href="/search">Buscar na descrição de todos os posts</a></b> </td></tr>
     {{ range .Site.RegularPages }} <tr><td> <a href="{{ .Permalink }}">{{ .Title }}</a> </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
