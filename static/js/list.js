@@ -63,7 +63,7 @@ function ApplyFilter(filter)
                 });
             }
 
-            $('#filter').prop('title', shows + ' de ' + total);
+            $('#results').text('Mostrando ' + shows + ' de ' + total + '.');
         }
 }
 
