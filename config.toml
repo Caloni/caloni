@@ -18,7 +18,7 @@ theme = "capsule"
     url = "/categories"
     weight = 2
 [[menu.main]]
-    name = "comment"
+    name = "user"
     url = "/author"
     weight = 3
 [[menu.main]]
