@@ -8,7 +8,7 @@
 
   <body style="min-height:100vh;display:flex;flex-direction:column">
 
-    {{ partial "navbar-hero.html" . }}
+    {{ partial "navbar.html" . }}
 
     {{ partial "list_begin.html" . }}
     {{ range .Site.RegularPages }} <tr><td> <a href="{{ .Permalink }}"> {{ if .Params.stars }}{{ partial "stars.html" . }} {{ end }}
