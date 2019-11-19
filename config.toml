@@ -14,13 +14,17 @@ theme = "capsule"
     url = "/post"
     weight = 1
 [[menu.main]]
+    name = "categories"
+    url = "/categories"
+    weight = 2
+[[menu.main]]
     name = "comment"
     url = "/author"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "rss"
     url = "/index.xml"
-    weight = 3
+    weight = 4
 
 [params]
     ContentGit = "https://github.com/Caloni/post"
