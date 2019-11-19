@@ -2,7 +2,7 @@ function ApplyFilter(filter)
 {
         query = filter
         query = $.trim(query); //trim white space
-        query = query.split('&');
+        query = query.split(' AND ');
 
         if( query.length == 1 )
         {
