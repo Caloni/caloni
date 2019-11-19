@@ -14,7 +14,7 @@ theme = "capsule"
     url = "/post"
     weight = 1
 [[menu.main]]
-    name = "categories"
+    name = "tag"
     url = "/categories"
     weight = 2
 [[menu.main]]
