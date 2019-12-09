@@ -11,18 +11,22 @@ theme = "capsule"
 
 [[menu.main]]
     name = "search"
+    identifier = "search"
     url = "/post"
     weight = 1
 [[menu.main]]
-    name = "tag"
+    name = "categories"
+    identifier = "tag"
     url = "/categories"
     weight = 2
 [[menu.main]]
-    name = "user"
+    name = "author"
+    identifier = "user"
     url = "/author"
     weight = 3
 [[menu.main]]
-    name = "rss"
+    name = "subscribe"
+    identifier = "rss"
     url = "/index.xml"
     weight = 4
 
