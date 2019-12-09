@@ -16,7 +16,7 @@ theme = "capsule"
     weight = 1
 [[menu.main]]
     name = "categories"
-    identifier = "tag"
+    identifier = "tags"
     url = "/categories"
     weight = 2
 [[menu.main]]
@@ -25,10 +25,15 @@ theme = "capsule"
     url = "/author"
     weight = 3
 [[menu.main]]
+    name = "daytoday"
+    identifier = "calendar"
+    url = "/daytoday"
+    weight = 4
+[[menu.main]]
     name = "subscribe"
     identifier = "rss"
     url = "/index.xml"
-    weight = 4
+    weight = 5
 
 [params]
     ContentGit = "https://github.com/Caloni/post"
