@@ -10,30 +10,25 @@ theme = "capsule"
     post = "/:filename/"
 
 [[menu.main]]
-    name = "search"
-    identifier = "search"
+    name = "blog"
+    identifier = "edit"
     url = "/post"
     weight = 1
 [[menu.main]]
-    name = "categories"
+    name = "tags"
     identifier = "tags"
     url = "/categories"
     weight = 2
 [[menu.main]]
-    name = "author"
+    name = "me"
     identifier = "user"
-    url = "/author"
+    url = "/me"
     weight = 3
 [[menu.main]]
-    name = "daytoday"
-    identifier = "calendar"
-    url = "/daytoday"
-    weight = 4
-[[menu.main]]
-    name = "subscribe"
+    name = "join"
     identifier = "rss"
     url = "/index.xml"
-    weight = 5
+    weight = 4
 
 [params]
     ContentGit = "https://github.com/Caloni/post"
