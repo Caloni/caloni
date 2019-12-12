@@ -3,3 +3,4 @@ public
 book
 .auth
 *.swp
+static/images
