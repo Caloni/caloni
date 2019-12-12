@@ -1,1 +1,1 @@
-<p class="subtitle">{{ if .Date.After (time "2001-01-01")}}{{ .Date.Format "2006-01-02" }}{{ end }}, {{ countwords .Content }} words, {{ .ReadingTime }} minutes</p>
+<p class="subtitle">{{ if .Date.After (time "2001-01-01")}}{{ .Date.Format "2006-01-02" }}{{ end }}, {{ .WordCount }} words, {{ .ReadingTime }} minutes</p>
