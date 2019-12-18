@@ -12,7 +12,7 @@
 
     {{ partial "list_begin.html" . }}
     {{ range .Site.RegularPages }} <tr><td style="border-bottom: 1px dotted black;"> <a href="{{ .Permalink }}"> {{ partial "stars.html" . }} 
-    {{ .Title }}. {{ .Params.desc }} {{ if .Params.stars }} Nota: {{ .Params.stars }}.{{ end }} {{ if .Params.categories }} Categoria: {{ delimit .Params.categories ", " }}. {{ end }} Publicado {{ .PublishDate.Format "2006-01-02" }}, {{ countwords .Content }} palavras, {{ .ReadingTime }} minutos. {{ if .Params.review }} Revisto em {{ delimit .Params.review ", " }}.{{ end }}</a></td></tr>
+    {{ .Title }}. {{ .Params.desc }} {{ if .Params.stars }} Nota: {{ .Params.stars }}.{{ end }} {{ if .Params.categories }} Categoria: {{ delimit .Params.categories ", " }}.{{ if .Params.imdb }} IMDB: {{ .Params.imdb }}.{{ end }} {{ end }} Publicado {{ .PublishDate.Format "2006-01-02" }}, {{ countwords .Content }} palavras, {{ .ReadingTime }} minutos. {{ if .Params.review }} Revisto em {{ delimit .Params.review ", " }}.{{ end }}</a></td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
 
