@@ -4,7 +4,7 @@ title = "Blogue do Caloni"
 theme = "capsule"
 
 [taxonomies]
-     category = "categories"
+     category = "tags"
 
 [permalinks]
     post = "/:filename/"
@@ -17,7 +17,7 @@ theme = "capsule"
 [[menu.main]]
     name = "tags"
     identifier = "tags"
-    url = "/categories"
+    url = "/tags"
     weight = 2
 [[menu.main]]
     name = "me"

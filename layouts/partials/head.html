@@ -87,9 +87,6 @@
   <meta property="article:publisher" content="https://www.facebook.com/{{.}}"/>
   {{- end }}
   <meta property="article:section" content="{{ .Section }}"/>
-  {{- with .Params.tags }}{{ range first 5 . }}
-  <meta property="article:tag" content="{{.}}"/>
-  {{- end }}{{- end }}
 
   <!-- Twitter card data -->
   <!-- twitter:card can also be summary_large_image -->
