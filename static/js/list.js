@@ -1,3 +1,6 @@
+var randomPostIndex = -1;
+var randomPost = "/";
+
 function ApplyFilter(filter)
 {
         query = $.trim(filter); //trim white space
@@ -33,6 +36,9 @@ function ApplyFilter(filter)
             });
         }
 
+        var showing = $('.sortable tr:visible').length;
+        randomPostIndex = Math.floor(Math.random() * showing);
+        randomPost = $('.sortable tr:visible').eq(randomPostIndex).find('a').prop('href');
         $('#results').text('Mostrando ' + shows + ' de ' + total + '.');
 }
 
@@ -68,5 +74,13 @@ $(document).ready(function(){
     $('#filter').val(query);
     $('#filter').focus();
     ApplyFilter(query);
+});
+
+$(document).ready(function(){
+    $("#filter").keypress(function(e){
+    if(e.which == 13) {
+            window.location = randomPost;
+        }
+    });
 });
 
