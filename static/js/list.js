@@ -3,43 +3,33 @@ var randomPost = "/";
 
 function ApplyFilter(filter)
 {
-        query = $.trim(filter); //trim white space
+    query = $.trim(filter); //trim white space
+    queryRegex = $.trim(query);
+    regex = new RegExp(queryRegex, "i");
+    hides = 0;
+    shows = 0;
 
-        total = 0;
-        // mostra todo mundo
-        $.each( $('.sortable'), function(i, sortable) {
-            $('tr', sortable).each(function() {
-            $(this).show()
-            total++;
-            });
-        });
-        shows = total;
-
-        // agora vai escondendo
-        for( var i = 0; i < query.length; ++i )
+    $.each( $('.sortable'), function(i, sortable) {
+        $('tr', sortable).each(function() {
+        var srch = $(this).text() + $(this).find('a').prop('title');
+        if( srch.search(regex) < 0 )
         {
-            queryRegex = $.trim(query[i]);
-            regex = new RegExp(queryRegex, "i");
-
-            $.each( $('.sortable'), function(i, sortable) {
-                $('tr', sortable).each(function() {
-                var srch = $(this).text() + $(this).find('a').prop('title');
-                if( srch.search(regex) < 0 )
-                {
-                    if( $(this).is(":visible") )
-                    {
-                        shows--;
-                        $(this).hide()
-                    }
-                }
-                });
-            });
+            $(this).hide()
+            hides++;
         }
+        else
+        {
+            $(this).show();
+            shows++;
+        }
+        });
+    });
 
-        var showing = $('.sortable tr:visible').length;
-        randomPostIndex = Math.floor(Math.random() * showing);
-        randomPost = $('.sortable tr:visible').eq(randomPostIndex).find('a').prop('href');
-        $('#results').text('Mostrando ' + shows + ' de ' + total + '.');
+    total = shows + hides;
+    var showing = $('.sortable tr:visible').length;
+    randomPostIndex = Math.floor(Math.random() * showing);
+    randomPost = $('.sortable tr:visible').eq(randomPostIndex).find('a').prop('href');
+    $('#results').text('Mostrando ' + shows + ' de ' + total + '.');
 }
 
 var QueryString = function () {
