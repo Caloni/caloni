@@ -1,70 +1,39 @@
 function ApplyFilter(filter)
 {
-        query = filter
-        query = $.trim(query); //trim white space
-        query = query.split(' AND ');
+        query = $.trim(filter); //trim white space
 
-        if( query.length == 1 )
+        total = 0;
+        // mostra todo mundo
+        $.each( $('.sortable'), function(i, sortable) {
+            $('tr', sortable).each(function() {
+            $(this).show()
+            total++;
+            });
+        });
+        shows = total;
+
+        // agora vai escondendo
+        for( var i = 0; i < query.length; ++i )
         {
-            queryRegex = $.trim(query[0]);
+            queryRegex = $.trim(query[i]);
             regex = new RegExp(queryRegex, "i");
-            hides = 0;
-            shows = 0;
 
             $.each( $('.sortable'), function(i, sortable) {
-              $('tr', sortable).each(function() {
+                $('tr', sortable).each(function() {
                 var srch = $(this).text() + $(this).find('a').prop('title');
                 if( srch.search(regex) < 0 )
                 {
-                    $(this).hide()
-                    hides++;
-                }
-                else
-                {
-                    $(this).show();
-                    shows++;
-                }
-                });
-            });
-
-            total = shows + hides;
-            $('#results').text('Mostrando ' + shows + ' de ' + total + '.');
-        }
-        else
-        {
-            total = 0;
-            // mostra todo mundo
-            $.each( $('.sortable'), function(i, sortable) {
-              $('tr', sortable).each(function() {
-                $(this).show()
-                total++;
-                });
-            });
-            shows = total;
-
-            // agora vai escondendo
-            for( var i = 0; i < query.length; ++i )
-            {
-                queryRegex = $.trim(query[i]);
-                regex = new RegExp(queryRegex, "i");
-
-                $.each( $('.sortable'), function(i, sortable) {
-                  $('tr', sortable).each(function() {
-                    var srch = $(this).text() + $(this).find('a').prop('title');
-                    if( srch.search(regex) < 0 )
+                    if( $(this).is(":visible") )
                     {
-                        if( $(this).is(":visible") )
-                        {
-                            shows--;
-                            $(this).hide()
-                        }
+                        shows--;
+                        $(this).hide()
                     }
-                    });
+                }
                 });
-            }
-
-            $('#results').text('Mostrando ' + shows + ' de ' + total + '.');
+            });
         }
+
+        $('#results').text('Mostrando ' + shows + ' de ' + total + '.');
 }
 
 var QueryString = function () {
