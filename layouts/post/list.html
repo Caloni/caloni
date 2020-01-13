@@ -13,6 +13,7 @@
     {{ partial "list_begin.html" . }}
     <tr><td> <b><a href="/allposts">Buscar em todos os posts</a></b> </td></tr>
     <tr><td> <b><a href="/search">Buscar na descrição de todos os posts</a></b> </td></tr>
+    <tr><td> <b><a href="/full">Site completo em uma única página</a></b> </td></tr>
     {{ range first 100 .Site.RegularPages }} <tr><td> <a href="{{ .Permalink }}">{{ .Title }}</a> </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
