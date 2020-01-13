@@ -138,6 +138,8 @@
   {{ end }}
   document.getElementById(".article-meta, .menu a, a").style.color = "blue";
   </script>
+  <script src="/js/jquery.min.js"></script>
+  <script src="/js/list.js"></script>
 
   <!-- Favicons -->
   {{ if (fileExists (print "/static" .Site.Data.defaults.icons.appleicon)) -}}
