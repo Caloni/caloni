@@ -17,7 +17,7 @@
       <pubDate>{{ .Date.Format "2006-01-02" | safeHTML }}</pubDate>
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ partial "pre_content.html" . | html }}{{ .Content | html }}{{ partial "taglist.html" . | html }}</description>
+      <description>{{ partial "pre_content.html" . | html }}{{ .Summary | html }}{{ partial "taglist.html" . | html }}</description>
     </item>
     {{ end }}
   </channel>
