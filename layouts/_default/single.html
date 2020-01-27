@@ -17,9 +17,9 @@
         {{ partial "toc.html" . }}
         
           <div class="content">
-            {{ if findRE "CinemAqui" .Params.desc }}
+            {{ if in .Params.tags "cinemaqui" }}
               {{ .Summary }}
-              Texto completo disponível no <a href="http://www.cinemaqui.com.br/?s={{ .Params.title }}">site do CinemAqui</a>.
+              Crítica escrita para o <a href="http://www.cinemaqui.com.br/?s={{ .Params.title }}">site do CinemAqui</a>.
             {{ else }}
               {{ .Content }}
             {{ end }}
