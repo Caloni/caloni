@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+
+  {{ partial "head.html" . }}
+
+  <body style="min-height:100vh;display:flex;flex-direction:column">
+
+    {{ partial "navbar.html" . }}
+
+    <section class="section" style="flex:1">
+
+      <!-- Content -->
+      <div class="container">
+        {{ partial "title.html" . }}
+        {{ partial "subtitle.html" . }}
+
+        {{ partial "toc.html" . }}
+        
+          <div class="content">
+            {{ .Content }}
+            {{ partial "gitinfo.html" . }}
+          </div>
+
+          {{ partial "taglist.html" . }}
+      </div>
+
+    </section>
+
+    {{ partial "footer.html" . }}
+  </body>
+
+</html>

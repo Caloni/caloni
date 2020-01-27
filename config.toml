@@ -1,7 +1,6 @@
 baseURL = "http://www.caloni.com.br/"
 languageCode = "pt-br"
 title = "Blogue do Caloni"
-theme = "capsule"
 
 [taxonomies]
      category = "tags"

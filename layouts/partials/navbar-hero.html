@@ -1,0 +1,53 @@
+<section class="hero is-dark is-medium">
+
+  <!-- Hero header: will stick at the top -->
+  <div class="hero-head">
+
+    <nav class="navbar {{ if not (fileExists (print "/static" .Site.Data.defaults.icons.banner)) }}has-shadow{{ end }}"
+         role="navigation" aria-label="main navigation">
+      <div class="container">
+
+        <div class="navbar-brand">
+          <a class="navbar-item" href="/">
+            <div class="title is-4">&nbsp;{{ .Site.Title }}</div>
+          </a>
+
+          <!-- Using a <label /> here -->
+          <label class="button navbar-burger is-dark" for="navbar-burger-state">
+            <span></span>                              <!--^^^^^^^^^^^^^^^^^^^-->
+            <span></span>
+            <span></span>
+          </label>
+        </div>
+
+        <!-- This checkbox is hidden -->
+        <input type="checkbox" id="navbar-burger-state"/>
+
+        <div class="navbar-menu">
+          <div class="navbar-end">
+          {{- $node := . }}
+          {{- range .Site.Menus.main }}
+          <a href="{{ .URL }}"
+             class="navbar-item
+                    {{ if or ($node.IsMenuCurrent "main" .) ($node.HasMenuCurrent "main" .) -}}
+                      is-active
+                    {{- end }}">{{ .Name }}
+          </a>
+          {{- end }}
+          </div>
+        </div>
+
+      </div>
+    </nav>
+
+  </div>
+
+{{- if (fileExists (print "/static" .Site.Data.defaults.icons.banner)) }}
+  <!-- Hero content: will be in the middle -->
+  <div class="hero-body"
+       style="background:url('{{ .Site.BaseURL }}/{{ $.Scratch.Get "prefix" }}{{ .Site.Data.defaults.icons.banner }}') center;
+              background-size: auto 100%;">
+  </div>
+{{- end }}
+
+</section>

@@ -1,0 +1,39 @@
+<nav class="navbar has-shadow is-white"
+     role="navigation" aria-label="main navigation">
+  <div class="container">
+
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/">
+        {{- if (fileExists (print "/static" .Site.Data.defaults.icons.brand)) }}
+        <img alt="Brand" src="{{ .Site.Data.defaults.icons.brand }}">
+        {{- end }}
+        <div class="title is-4">&nbsp;{{ .Site.Title }}</div>
+      </a>
+
+      <!-- Using a <label /> here -->
+      <label class="button navbar-burger is-white" for="navbar-burger-state">
+        <span></span>                               <!--^^^^^^^^^^^^^^^^^^^-->
+        <span></span>
+        <span></span>
+      </label>
+    </div>
+
+    <!-- This checkbox is hidden -->
+    <input type="checkbox" id="navbar-burger-state"/>
+
+    <div class="navbar-menu">
+      <div class="navbar-end">
+      {{- $node := . }}
+      {{- range .Site.Menus.main }}
+      <a href="{{ .URL }}"
+         class="navbar-item
+                {{ if or ($node.IsMenuCurrent "main" .) ($node.HasMenuCurrent "main" .) -}}
+                  is-active
+                {{- end }}">{{ .Name }}
+      </a>
+      {{- end }}
+      </div>
+    </div>
+
+  </div>
+</nav>
