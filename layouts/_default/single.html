@@ -17,7 +17,13 @@
         {{ partial "toc.html" . }}
         
           <div class="content">
-            {{ .Content }}
+            {{ if findRE "CinemAqui" .Params.desc }}
+              {{ .Summary }}
+              Texto completo disponível no <a href="http://www.cinemaqui.com.br/?s={{ .Params.title }}">site do CinemAqui</a>.
+            {{ else }}
+              {{ .Content }}
+            {{ end }}
+
             {{ partial "gitinfo.html" . }}
           </div>
 
