@@ -31,3 +31,4 @@ title = "Blogue do Caloni"
 
 [params]
     ContentGit = "https://github.com/Caloni/post"
+    googleAnalytics = "UA-50557403-2"
