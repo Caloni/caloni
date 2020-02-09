@@ -32,7 +32,7 @@
               <li><a href="#posts">Data (ir para Conteúdo)</a></li>
               <ul>
                 {{ range .Site.RegularPages }}
-                    <li><a href="#{{ .UniqueID }}">{{ .Title }} </a></li>
+                    <li><a href="#{{ .File }}">{{ .Title }} </a></li>
                 {{ end }}
               </ul>
             </ul>
@@ -55,7 +55,7 @@
                   {{ $.Scratch.Set "curLetter" $firstChar }}
                   <h3 id="letter{{ $firstChar }}">{{ $firstChar }}</h3>
                 {{ end }}
-                <li><a href="#{{ .UniqueID }}">{{ .Title }}</a></li>
+                <li><a href="#{{ .File }}">{{ .Title }}</a></li>
               {{ end }}
             {{ end }}
             </ul>
@@ -67,7 +67,7 @@
                   <h3 id="{{ $key }}">{{ $key | humanize }}</h3>
                     <ul>
                       {{ range $value.Pages }}
-                        <li><a href="#{{ .UniqueID }}">{{ .Title }} </a></li>
+                        <li><a href="#{{ .File }}">{{ .Title }} </a></li>
                       {{ end }}
                     </ul>
                 {{ end }}
@@ -76,7 +76,7 @@
             </ul>
             <h2 id="posts" style="page-break-before: always;">Conteúdo</h2>
             {{ range .Site.RegularPages }}
-              <h3 style="page-break-before: always" id="{{ .UniqueID }}">{{ .Title }}</h3> {{ dateFormat "2006-01-02" .Date }} {{ .Content }}
+              <h3 style="page-break-before: always" id="{{ .File }}">{{ .Title }}</h3> {{ dateFormat "2006-01-02" .Date }} {{ .Content }}
               {{ partial "taglist.html" . }}
             {{ end }}
 
