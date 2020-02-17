@@ -11,6 +11,7 @@
     {{ partial "navbar.html" . }}
 
     {{ partial "list_begin.html" . }}
+    <tr><td> <b><a href="/export">Exportar sumário de todos os posts no formato CSV</a></b> </td></tr>
     {{ range .Site.RegularPages }} <tr><td style="border-bottom: 1px dotted black;"> <a href="{{ .Permalink }}"> {{ partial "stars.html" . }} 
     {{ .Title }}. {{ .Params.desc }} {{ if .Params.stars }} Nota: {{ .Params.stars }}.{{ end }} {{ if .Params.tags }} Tags: {{ delimit .Params.tags ", " }}.{{ if .Params.imdb }} IMDB: {{ .Params.imdb }}.{{ end }} {{ end }} Publicado {{ .PublishDate.Format "2006-01-02" }}, {{ countwords .Content }} palavras, {{ .ReadingTime }} minutos. {{ if .Params.review }} Revisto em {{ delimit .Params.review ", " }}.{{ end }}</a></td></tr>
     {{ end }}
