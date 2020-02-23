@@ -2,7 +2,7 @@
 <html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
 <pre>
 Title,imdbID,WatchedDate,Rating,Review
-{{ range .Site.RegularPages }}"{{ .Title }}",{{ if .Params.imdb }}tt{{ .Params.imdb }}{{ end }},{{ .PublishDate.Format "2006-01-02" }},{{ if .Params.stars }}{{ replace .Params.stars "/5" "" }}{{ end }},"{{ .Summary }} - {{ .Permalink }}"
+{{ range .Site.RegularPages }}"{{ .Title }}",{{ if .Params.imdb }}tt{{ .Params.imdb }}{{ end }},{{ .PublishDate.Format "2006-01-02" }},{{ if .Params.stars }}{{ replace .Params.stars "/5" "" }}{{ end }},"{{ .Content }} - {{ .Permalink }}"
 {{ end }}
 </pre>
 </body>
