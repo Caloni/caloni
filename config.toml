@@ -30,5 +30,6 @@ title = "Blogue do Caloni"
     weight = 4
 
 [params]
+    baseURL = "http://www.caloni.com.br"
     ContentGit = "https://github.com/Caloni/post"
     googleAnalytics = "UA-50557403-2"

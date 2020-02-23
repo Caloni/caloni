@@ -17,7 +17,7 @@
                  {{ end }}"/>
   {{- end }}
 
-  {{ .Hugo.Generator }}
+  {{ hugo.Generator }}
 
   <!-- Schema.org markup for Google+ -->
   <meta itemprop="name" content="{{ .Title }}"/>
@@ -109,12 +109,10 @@
                  {{ end }}"/>
 
   <!-- RSS -->
-  {{- if .RSSLink }}
-  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml"
+  <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml"
         title="{{ .Site.Title }}"/>
-  <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml"
+  <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="feed" type="application/rss+xml"
         title="{{ .Site.Title }}"/>
-  {{- end }}
 
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="/css/capsule.min.css"/>

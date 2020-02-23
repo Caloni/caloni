@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+<pre>
+Title,imdbID,WatchedDate,Rating,Review
+{{ range .Site.Taxonomies.tags.movies }}{{ if .Params.imdb }}"{{ .Title }}",tt{{ .Params.imdb }},{{ .PublishDate.Format "2006-01-02" }},{{ if .Params.stars }}{{ replace .Params.stars "/5" "" }}{{ end }},"{{ .Summary }} - {{ .Site.Params.BaseURL }}{{ .RelPermalink }}"{{ end }}
+{{ end }}
+</pre>
+</body>
+</html>
