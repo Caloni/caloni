@@ -9,25 +9,35 @@ title = "Blogue do Caloni"
     post = "/:filename/"
 
 [[menu.main]]
-    name = "blog"
-    identifier = "edit"
-    url = "/post"
+    name = "code"
+    identifier = "code"
+    url = "/code"
     weight = 1
+[[menu.main]]
+    name = "movies"
+    identifier = "film"
+    url = "/movies"
+    weight = 2
+[[menu.main]]
+    name = "search"
+    identifier = "search"
+    url = "/post"
+    weight = 3
 [[menu.main]]
     name = "tags"
     identifier = "tags"
     url = "/tags"
-    weight = 2
+    weight = 4
 [[menu.main]]
-    name = "me"
+    name = "who"
     identifier = "user"
     url = "/me"
-    weight = 3
+    weight = 5
 [[menu.main]]
-    name = "join"
+    name = "rss"
     identifier = "rss"
     url = "/index.xml"
-    weight = 4
+    weight = 6
 
 [params]
     baseURL = "http://www.caloni.com.br"
