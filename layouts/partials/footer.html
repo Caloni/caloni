@@ -6,12 +6,8 @@
       <div class="level-right has-text-centered">
         <div class="level-item">
 
-          <a class="button" href="{{ .Site.BaseURL }}">
-            <span class="icon"><i class="fa fa-home"></i></span>
-          </a> &nbsp;
-
           {{- range .Site.Menus.main }}
-          <a class="button" href="{{ .URL }}">
+          <a class="button" title="{{ .Name }}" href="{{ .URL }}">
             <span class="icon"><i class="fa fa-{{ .Identifier }}"></i></span>
           </a> &nbsp;
           {{- end }}

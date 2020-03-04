@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+
+  {{ partial "head.html" .context }}
+
+  <body style="min-height:100vh;display:flex;flex-direction:column">
+
+    {{ partial "navbar.html" .context }}
+
+    <section class="section" style="flex:1">
+
+      <div class="container">
+        <div class="columns">
+
+          <div class="column">
+            <!-- Content -->
+            <div style="min-height:56vh">
+              {{ $paginator := .pages }}
+              {{- range first 10 $paginator.Pages }}
+                {{ .Render "summary" }}
+              {{- end }}
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </section>
+
+    {{ partial "footer.html" .context }}
+
+  </body>
+
+</html>
