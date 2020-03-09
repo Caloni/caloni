@@ -105,6 +105,8 @@
                  {{ else -}}
                    {{ if (fileExists (print "/static" .Site.Data.defaults.icons.logo)) -}}
                      {{ .Site.Data.defaults.icons.logo -}}
+                   {{ else }}
+                     {{ "/images/movies.png" }}
                    {{ end -}}
                  {{ end }}"/>
 
