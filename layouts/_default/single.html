@@ -30,7 +30,9 @@
           {{ partial "taglist.html" . }}
 
           <div>
-            <img src="/images/little_joanna.png"/>
+            {{ if in .Params.tags "movies" }}
+              <img src="/images/movies.png"/>
+            {{ end }}
           </div>
       </div>
 
