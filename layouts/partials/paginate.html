@@ -15,10 +15,12 @@
           <div class="column">
             <!-- Content -->
             <div style="min-height:56vh">
-              {{ $paginator := .pages }}
-              {{- range first 10 $paginator.Pages }}
-                {{ .Render "summary" }}
-              {{- end }}
+              {{ with .pages }}
+                {{ $paginator := .}}
+                {{- range first 10 $paginator.Pages }}
+                  {{ .Render "summary" }}
+                {{- end }}
+              {{ end }}
             </div>
           </div>
 
