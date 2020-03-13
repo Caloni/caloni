@@ -1,1 +1,23 @@
-{{ partial "paginate.html" (dict "context" . "pages" .Site.Taxonomies.tags.code ) }}
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+
+  {{ partial "head.html" . }}
+
+  <script src="/js/jquery.min.js"></script>
+  <script src="/js/list.js"></script>
+
+  <body style="min-height:100vh;display:flex;flex-direction:column">
+
+    {{ partial "navbar.html" . }}
+
+    {{ partial "list_begin.html" . }}
+    <tr><td>Seja bem-vindo! Estes são apenas os últimos 100 posts. Você pode <b><a href="/allposts">buscar em todos os posts pelo título</a></b> ou <b><a href="/search">em todos eles com a descrição junto</a></b> para uma busca mais completa (mas o carregamento da página é mais lento).</td></tr>
+    {{ range first 99 .Site.RegularPages }} <tr><td><big><b><a href="{{ .Permalink }}">{{ .Title }}</a></b></big><small> <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i></small></td></tr>
+    {{ end }}
+    {{ partial "list_end.html" . }}
+
+    {{ partial "footer.html" . }}
+
+  </body>
+
+</html>

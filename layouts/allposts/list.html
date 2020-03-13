@@ -11,8 +11,7 @@
     {{ partial "navbar.html" . }}
 
     {{ partial "list_begin.html" . }}
-    <tr><td> <b><a href="/search">Buscar na descrição de todos os posts</a></b> </td></tr>
-    {{ range .Site.RegularPages }} <tr><td> <a href="{{ .Permalink }}">{{ .Title }}</a> </td></tr>
+    {{ range .Site.RegularPages }} <tr><td><big><b><a href="{{ .Permalink }}">{{ .Title }}</a></b></big></td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
 
