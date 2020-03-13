@@ -11,7 +11,7 @@
     {{ partial "navbar.html" . }}
 
     {{ partial "list_begin.html" . }}
-    {{ range .Site.RegularPages }} <tr><td style="border-bottom: 1px dotted black;"> <a href="{{ .Permalink }}">  
+    {{ range .Site.RegularPages }} <tr><td style="border-bottom: 1px dotted black;">{{ partial "icons.html" . }} <a href="{{ .Permalink }}">  
     <b><big>{{ .Title }}</big></b></a> {{ partial "stars.html" . }}{{ .Params.desc }} {{ if .Params.stars }} Nota: {{ .Params.stars }}.{{ end }} {{ if .Params.tags }} Tags: {{ delimit .Params.tags ", " }}.{{ if .Params.imdb }} IMDB: {{ .Params.imdb }}.{{ end }} {{ end }} Publicado {{ .PublishDate.Format "2006-01-02" }}, {{ countwords .Content }} palavras, {{ .ReadingTime }} minutos. {{ if .Params.review }} Revisto em {{ delimit .Params.review ", " }}.{{ end }} <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i></small></td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}

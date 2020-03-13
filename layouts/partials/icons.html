@@ -1,0 +1,9 @@
+{{ if in .Params.tags "movies" }}
+<span class="icon"><i class="fa fa-film"></i></span>
+{{ else if in .Params.tags "series" }}
+<span class="icon"><i class="fa fa-film"></i></span>
+{{ else if in .Params.tags "code" }}
+<span class="icon"><i class="fa fa-code"></i></span>
+{{ else }}
+<span class="icon"><i class="fa fa-file"></i></span>
+{{ end }}
