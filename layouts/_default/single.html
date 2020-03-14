@@ -24,10 +24,13 @@
               {{ .Content }}
             {{ end }}
 
-            {{ partial "gitinfo.html" . }}
           </div>
 
           {{ partial "taglist.html" . }}
+      </div>
+
+      <div class="container">
+          {{ partial "gitinfo.html" . }}
       </div>
 
     </section>
