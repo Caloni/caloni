@@ -18,8 +18,8 @@
         
           <div class="content">
             {{ if in .Params.tags "cinemaqui" }}
-              {{ .Summary }}
-              A crítica completa foi escrita para o site <b>CinemAqui</b>. Você deve encontrá-la <a href="http://www.cinemaqui.com.br/?s={{ .Params.title }}">pesquisando por lá</a>.
+              <p>{{ .Summary }}</p>
+              <p>A crítica completa foi escrita para o site <b>CinemAqui</b>. Você deve encontrá-la <a href="http://www.cinemaqui.com.br/?s={{ .Params.title }}">pesquisando por lá</a>.</p>
             {{ else }}
               {{ .Content }}
             {{ end }}
