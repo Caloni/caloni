@@ -11,8 +11,25 @@
     {{ partial "navbar.html" . }}
 
     {{ partial "list_begin.html" . }}
-    <tr style="background-color: #f5f5f5;"><td><big>Seja bem-vindo! Estes são apenas os últimos 100 posts de uma lista muito longa. Você pode <b><a href="/allposts">buscar por toda a lista apenas pelo título</a></b> ou <b><a href="/search">buscar com todos os detalhes</a></b> para uma busca mais completa (mas o carregamento da página é mais lento).</big></td></tr>
-    {{ range first 99 .Site.RegularPages }} <tr><td>{{ partial "icons.html" . }}<big><b><a href="{{ .Permalink }}">{{ .Title }}</a></b></big><small> <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i></small></td></tr>
+    <tr><td style="background-color: #f5f5f5; padding: 1em;">
+    <big>Seja bem-vindo! Estes são apenas os últimos 100 posts de uma lista muito longa. Você pode 
+    <b><a href="/allposts">buscar por toda a lista apenas pelo título</a></b> ou 
+    <b><a href="/search">buscar com todos os detalhes</a></b> 
+    para uma busca mais completa (mas o carregamento da página é mais lento).
+    </big><br>
+    <small><i>
+    {{ range $key, $value := .Site.Taxonomies.tags }}
+    <a href="#" onclick="$('#filter').val('{{ $key }}'); $('#filter').focus();">{{ $key }}</a>
+    {{ end }}
+    </i></small>
+    </td></tr>
+
+    {{ range first 99 .Site.RegularPages }}<tr><td>{{ partial "icons.html" . }}
+    <big><b><a href="{{ .Permalink }}">{{ .Title }}</a></b></big>
+    <small> <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
+    {{ .Params.tags }}
+    </small>
+    </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
 
