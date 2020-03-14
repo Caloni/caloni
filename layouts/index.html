@@ -19,7 +19,7 @@
     </big><br>
     <small><i>
     {{ range $key, $value := .Site.Taxonomies.tags }}
-    <a href="#" onclick="$('#filter').val('{{ $key }}'); $('#filter').focus();">{{ $key }}</a>
+    <a href="#" onclick="$('#filter').val('{{ $key }}'); $('#filter').focus(); ApplyFilter('{{ $key }}');">{{ $key }}</a>
     {{ end }}
     </i></small>
     </td></tr>
