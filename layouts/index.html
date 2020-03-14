@@ -17,11 +17,6 @@
     <b><a href="/search">buscar com todos os detalhes</a></b> 
     para uma busca mais completa (mas o carregamento da página é mais lento).
     </big><br>
-    <small><i>
-    {{ range $key, $value := .Site.Taxonomies.tags }}
-    <a href="javascript:;" onclick="$('#filter').val('{{ $key }}'); ApplyFilter('{{ $key }}');">{{ $key }}</a>
-    {{ end }}
-    </i></small>
     </td></tr>
 
     {{ range first 99 .Site.RegularPages }}<tr><td>{{ partial "icons.html" . }}
