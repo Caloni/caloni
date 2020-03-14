@@ -16,7 +16,7 @@
         {{- range $key, $value := .Data.Terms.ByCount }}
           <li class="title is-4 is-flex" style="justify-content:space-between">
             <span>
-              <a href="/search/?q=tags:.* {{ $value.Name | urlize }}">
+              <a href="/allposts/?q={{ $value.Name | urlize }}">
                 {{ $value.Name }}
               </a>
             </span>
