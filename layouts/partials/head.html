@@ -118,7 +118,7 @@
 
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="/css/capsule.min.css"/>
-  {{ with .Params.css }}{{ . | safeCSS | htmlUnescape | safeHTML }}{{ end -}}
+  {{ with .Params.css }}{{ . | safeHTML }}{{ end }}
   <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
 
   <!-- JS -->

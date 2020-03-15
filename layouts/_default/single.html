@@ -26,12 +26,16 @@
 
           </div>
 
-          {{ partial "taglist.html" . }}
+        <div class="taglist">
+            {{ partial "taglist.html" . }}
+        </div>
+
+        <div class="gitinfo">
+            {{ partial "gitinfo.html" . }}
+        </div>
+
       </div>
 
-      <div class="container">
-          {{ partial "gitinfo.html" . }}
-      </div>
 
     </section>
 
