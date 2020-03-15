@@ -14,15 +14,10 @@ title = "Blogue do Caloni"
     url = "/caloni"
     weight = 1
 [[menu.main]]
-    name = "tags"
-    identifier = "tags"
-    url = "/tags"
-    weight = 2
-[[menu.main]]
     name = "rss"
     identifier = "rss"
     url = "/index.xml"
-    weight = 3
+    weight = 2
 
 [params]
     baseURL = "http://www.caloni.com.br"
