@@ -29,7 +29,7 @@ function ApplyFilter(filter)
     var showing = $('.sortable tr:visible').length;
     randomPostIndex = Math.floor(Math.random() * showing);
     randomPost = $('.sortable tr:visible').eq(randomPostIndex).find('a').prop('href');
-    $('#results').text('Mostrando ' + shows + ' de ' + total + '.');
+    $('#results').text(shows + '/' + total);
 }
 
 var QueryString = function () {

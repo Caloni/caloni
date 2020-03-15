@@ -7,14 +7,17 @@
           <div class="column">
             <!-- Content -->
             <div style="min-height:56vh">
-              <small><i>
+              <small>
               {{ range $key, $value := .Site.Taxonomies.tags }}
-              <a href="javascript:;" onclick="$('#filter').val('{{ $key }}'); ApplyFilter('{{ $key }}');">{{ $key }}</a>
+              <a href="javascript:;" onclick="$('#filter').val('{{ $key }}'); ApplyFilter('{{ $key }}');">[{{ $key }}]</a>
               {{ end }}
-              </br>Digite o título do texto ou parte dele. Para abrir um post aleatório (entre os encontrados) digite enter.
-              </i></small>
+              <a href="javascript:;" onclick="window.location = randomPost;">[random post]</a>
+              <a href="/allposts">[all titles]</a>
+              <a href="/search">[full search]</a>
+              <span name="results" id="results"></span>
+              </small>
               
               {{ .Content }}
               
               <table class="sortable">
-              <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
+              <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/>
