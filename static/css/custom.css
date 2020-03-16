@@ -47,3 +47,12 @@ tr:hover {
 .container, .taglist  {
     margin-bottom: 1em;
 }
+
+.section {
+    padding-bottom: 0;
+}
+
+.footer {
+    padding-top: 1em;
+}
+
