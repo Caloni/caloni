@@ -11,4 +11,4 @@ popd
 pushd static
 git clone git@github.com:Caloni/images.git
 popd
-echo all good
+echo all good; type publish to test and good luck!
