@@ -5,7 +5,8 @@
     {{ if .Params.tags }} &middot; {{ delimit .Params.tags " &middot; " }}{{ end }}
      &middot; {{ .PublishDate.Format "2006-01-02" }}
      {{ if .Params.review }} &middot; {{ delimit .Params.review " &middot; " }}{{ end }}
-    {{ if .Params.imdb }} &middot; <a href="https://www.imdb.com/title/tt{{ .Params.imdb }}"><span class="icon"><big><i class="fa fa-imdb"></i></big></span></a>{{ end }}
-    <a href="https://twitter.com/intent/tweet?text={{ .Title }} {{ .Permalink }} @caloni, eis o que eu acho: "><span class="icon"><big><i class="fa fa-twitter"></span></i></big></a>
-    {{ if .File }}<a href="{{ .Site.Params.ContentGit }}/blob/master/{{ .File.LogicalName }}"><span class="icon"><big><i class="fa fa-github"></i></big></span></a>{{ end }}
+    {{ if .Params.imdb }} &middot; <a href="https://www.imdb.com/title/tt{{ .Params.imdb }}" title="Internet Movie Database"><span class="icon"><big><i class="fa fa-imdb"></i></big></span></a>{{ end }}
+    {{ if .Params.imdb }} &middot; <a href="https://letterboxd.com/imdb/{{ .Params.imdb }}" title="Comentar no Letterboxd"><span class="icon"><big><i class="fa fa-comments"></i></big></span></a>{{ end }}
+     &middot; <a href="https://twitter.com/intent/tweet?text={{ .Title }} {{ .Permalink }} from @caloni " title="Compartilhar no Twitter"><span class="icon"><big><i class="fa fa-twitter"></span></i></big></a>
+    {{ if .File }} &middot; <a href="{{ .Site.Params.ContentGit }}/blob/master/{{ .File.LogicalName }}" title="Colaborar no GitHub"><span class="icon"><big><i class="fa fa-github"></i></big></span></a>{{ end }}
 {{ end }}
