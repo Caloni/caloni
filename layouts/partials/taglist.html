@@ -3,7 +3,7 @@
     {{ .Params.desc }}
     {{ if .Params.stars }} {{ .Params.stars }} {{ end }}
     {{ if .Params.tags }} &middot; {{ delimit .Params.tags " &middot; " }}{{ end }}
-    {{ if .Params.imdb }} &middot; <a href="https://www.imdb.com/title/tt{{ .Params.imdb }}">{{ .Params.imdb }}</a>{{ end }}
+    {{ if .Params.imdb }} &middot; <a href="https://www.imdb.com/title/tt{{ .Params.imdb }}"><span class="icon"><i class="fa fa-imdb"></i></span></a>{{ end }}
      &middot; {{ .PublishDate.Format "2006-01-02" }}
      {{ if .Params.review }} &middot; {{ delimit .Params.review " &middot; " }}{{ end }}
     <a href="https://twitter.com/intent/tweet?text={{ .Title }} {{ .Permalink }} @caloni, eis o que eu acho: "><span class="icon"><i class="fa fa-twitter"></span></i></a>

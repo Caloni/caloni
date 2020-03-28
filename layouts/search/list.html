@@ -19,7 +19,6 @@
     {{ .Params.desc }}
     {{ if .Params.stars }}{{ .Params.stars }}{{ end }}
     {{ if .Params.tags }} &middot; {{ delimit .Params.tags " &middot; " }}{{ end }}
-    {{ if .Params.imdb }} &middot; <a href="https://www.imdb.com/title/tt{{ .Params.imdb }}">{{ .Params.imdb }}</a>{{ end }}
      &middot; {{ .PublishDate.Format "2006-01-02" }}
      {{ if .Params.review }} &middot; {{ delimit .Params.review " &middot; " }}{{ end }}
      &middot; <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
