@@ -1,1 +1,6 @@
-<p class="subtitle"><small><i>{{ if .Date.After (time "2001-01-01")}}{{ .Date.Format "2006-01-02" }}{{ end }}, {{ .WordCount }} words, {{ .ReadingTime }} minutes</i></small></p>
+<p class="subtitle"><small>
+<i>{{ partial "icons.html" . }}
+{{ if .Date.After (time "2001-01-01")}}{{ .Date.Format "2006-01-02" }}{{ end }}
+&middot; <span class="icon"><i class="fa fa-pencil"></span></i>{{ .WordCount }}
+&middot; <span class="icon"><i class="fa fa-clock-o"></span></i>{{ .ReadingTime }} </i>
+</small></p>

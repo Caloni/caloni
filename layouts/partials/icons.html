@@ -1,13 +1,11 @@
-{{ if in .Params.tags "movies" }}
+{{ if in .Params.tags "movie" }}
 <span class="icon"><i class="fa fa-film"></i></span>
-{{ else if in .Params.tags "series" }}
+{{ else if in .Params.tags "tv" }}
 <span class="icon"><i class="fa fa-tv"></i></span>
-{{ else if in .Params.tags "code" }}
-<span class="icon"><i class="fa fa-bug"></i></span>
 {{ else if in .Params.tags "reading" }}
 <span class="icon"><i class="fa fa-book"></i></span>
 {{ else if in .Params.tags "food" }}
-<span class="icon"><i class="fa fa-flask"></i></span>
+<span class="icon"><i class="fa fa-glass"></i></span>
 {{ else }}
-<span class="icon"><i class="fa fa-pencil"></i></span>
+<span class="icon"><i class="fa fa-bug"></i></span>
 {{ end }}

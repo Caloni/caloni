@@ -40,12 +40,25 @@ body, button, input, select, textarea {
     margin-bottom: 1em;
 }
 
-tr:hover {
+tr:hover, tr:hover a {
     background-color: #f5f5f5;
 }
 
 .container, .taglist  {
     margin-bottom: 1em;
+}
+
+.title  {
+    font-size: xxx-large;
+}
+
+.subtitle  {
+    background-color: firebrick;
+    color: white;
+}
+
+.taglist  {
+    background-color: #f5f5f5;
 }
 
 .section {

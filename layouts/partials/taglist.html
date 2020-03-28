@@ -1,1 +1,11 @@
-<i>{{ partial "icons.html" . }}{{ if .Date.After (time "2001-01-01")}}{{ if .Params.stars }}{{ partial "stars.html" . }} {{ end }}{{ .Params.desc }} {{ if .Params.stars }} Nota: {{ .Params.stars }}. {{ end }} {{ if .Params.tags }} Tags: {{ delimit .Params.tags ", " }}.{{ end }}{{ if .Params.imdb }} IMDB: <a href="https://www.imdb.com/title/tt{{ .Params.imdb }}">{{ .Params.imdb }}</a>.{{ end }} Publicado em {{ .PublishDate.Format "2006-01-02" }}.{{ if .Params.review }} Revisto em {{ delimit .Params.review ", " }}.{{ end }}{{ end }}</i>
+{{ if .Date.After (time "2001-01-01")}}
+    {{ if .Params.stars }}{{ partial "stars.html" . }}{{ end }}
+    {{ .Params.desc }}
+    {{ if .Params.stars }} {{ .Params.stars }} {{ end }}
+    {{ if .Params.tags }} &middot; {{ delimit .Params.tags " &middot; " }}{{ end }}
+    {{ if .Params.imdb }} &middot; <a href="https://www.imdb.com/title/tt{{ .Params.imdb }}">{{ .Params.imdb }}</a>{{ end }}
+     &middot; {{ .PublishDate.Format "2006-01-02" }}
+     {{ if .Params.review }} &middot; {{ delimit .Params.review " &middot; " }}{{ end }}
+    <a href="https://twitter.com/intent/tweet?text={{ .Title }} {{ .Permalink }} @caloni, eis o que eu acho: "><span class="icon"><i class="fa fa-twitter"></span></i></a>
+    {{ if .File }}<a href="{{ .Site.Params.ContentGit }}/blob/master/{{ .File.LogicalName }}"><span class="icon"><i class="fa fa-github"></i></span></a>{{ end }}
+{{ end }}
