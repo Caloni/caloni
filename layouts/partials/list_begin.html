@@ -9,15 +9,15 @@
             <div style="min-height:56vh">
               <big><b>
               <a title="lista os posts de código" href="javascript:;" onclick="$('#filter').val('blog|code'); ApplyFilter('blog|code');">blogue</a>
-              <a title="lista os posts de filmes" href="javascript:;" onclick="$('#filter').val('movie|tv'); ApplyFilter('movie|tv');">cinema</a>
-              <a title="lista de todas as tags" href="/tags">tags</a>
-              <a title="abre post aleatório" href="javascript:;" onclick="window.location = randomPost;">aleatório</a>
-              <a title="lista todos os títulos do saite" href="/allposts">arquivo</a>
-              <a title="lista a busca completa do saite (mais lenta)" href="/search">busca</a>
+               &middot; <a title="lista os posts de filmes" href="javascript:;" onclick="$('#filter').val('movie|tv'); ApplyFilter('movie|tv');">cinema</a>
+               &middot; <a title="lista de todas as tags" href="/tags">tags</a>
               <span name="results" id="results"></span>
               </b></big>
+               <a title="abre post aleatório" href="javascript:;" onclick="window.location = randomPost;"><span class="icon"><i class="fa fa-random"></i></span></a>
               
               {{ .Content }}
               
               <table class="sortable">
               <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/>
+              <big><b><a title="lista todos os títulos do saite" href="/allposts">allposts</a> </b></big>
+              <a title="lista a busca completa do saite (mais lenta)" href="/search"><span style="padding-bottom: 2em;" class="icon"><i class="fa fa-search"></i></span></a>
