@@ -10,12 +10,10 @@ title = "Blogue do Caloni"
 
 [[menu.main]]
     name = "caloni"
-    identifier = "user"
     url = "/caloni"
     weight = 1
 [[menu.main]]
     name = "rss"
-    identifier = "rss"
     url = "/index.xml"
     weight = 2
 

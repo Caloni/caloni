@@ -1,20 +1,5 @@
 <footer class="footer">
   <div class="container">
-
-    <nav class="level">
-
-      <div class="level-right has-text-centered">
-        <div class="level-item">
-
-          {{- range .Site.Menus.main }}
-          <a class="button" title="{{ .Name }}" href="{{ .URL }}">
-            <span class="icon"><i class="fa fa-{{ .Identifier }}"></i></span>
-          </a> &nbsp;
-          {{- end }}
-
-        </div>
-      </div>
-
-    </nav>
+    <span style="float: right;"><i style="font-size: x-small;">Blogue do Caloni {{ .Date.Format "2006" }}. Copyright é invenção do capitalismo burguês opressor. Todos os direitos não serão reservados.</i></span>
   </div>
 </footer>
