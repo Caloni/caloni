@@ -26,24 +26,35 @@ int main() {
 	unsigned T, t, B, i, j, b, n, n2;
 	char v;
 
-	//while (!IsDebuggerPresent())
-		//Sleep(1000);
+	while (!IsDebuggerPresent())
+		Sleep(1000);
 	scanf("%d %d", &T, &B);
 
 	for (t = 1; t <= T; ++t) {
 		n = n2 = j = 0;
 
-		while (j < B) {
-			for (i = j; i < j + 10; ++i) {
+		while (j < B / 2 - 1) {
+			for (i = j; i < j + 5; ++i) {
 				printf("%d\n", i + 1); fflush(stdout);
 				scanf("%d", &b);
 				n |= (b << i);
 			}
-			for (i = j; i < j + 10; ++i) {
+			for (i = B; i > B - 5; --i) {
+				printf("%d\n", i); fflush(stdout);
+				scanf("%d", &b);
+				n |= (b << i);
+			}
+			for (i = j; i < j + 5; ++i) {
 				printf("%d\n", i + 1); fflush(stdout);
 				scanf("%d", &b);
 				n2 |= (b << i);
 			}
+			for (i = B; i > B - 5; --i) {
+				printf("%d\n", i); fflush(stdout);
+				scanf("%d", &b);
+				n2 |= (b << i);
+			}
+
 			if (n == n2)
 				;
 			else if (n == (~n2 & mask(i)))
@@ -53,7 +64,7 @@ int main() {
 			else
 				n = reverse(~n & mask(i), B);
 
-			j = i;
+			j += 5;
 		}
 		
 		for (i = 0; i < B; ++i) {
