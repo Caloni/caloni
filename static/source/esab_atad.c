@@ -23,7 +23,7 @@ unsigned reverse(unsigned n, unsigned B) {
 }
 
 int main() {
-	unsigned T, t, B, i, b, n, n2;
+	unsigned T, t, B, i, j, b, n, n2;
 	char v;
 
 	//while (!IsDebuggerPresent())
@@ -31,25 +31,30 @@ int main() {
 	scanf("%d %d", &T, &B);
 
 	for (t = 1; t <= T; ++t) {
-		n = n2 = 0;
-		for (i = 0; i < 10; ++i) {
-			printf("%d\n", i + 1); fflush(stdout);
-			scanf("%d", &b);
-			n |= (b << i);
+		n = n2 = j = 0;
+
+		while (j < B) {
+			for (i = j; i < j + 10; ++i) {
+				printf("%d\n", i + 1); fflush(stdout);
+				scanf("%d", &b);
+				n |= (b << i);
+			}
+			for (i = j; i < j + 10; ++i) {
+				printf("%d\n", i + 1); fflush(stdout);
+				scanf("%d", &b);
+				n2 |= (b << i);
+			}
+			if (n == n2)
+				;
+			else if (n == (~n2 & mask(i)))
+				n = ~n & mask(i);
+			else if (reverse(n, B) == n2)
+				n = reverse(n, B);
+			else
+				n = reverse(~n & mask(i), B);
+
+			j = i;
 		}
-		for (i = 0; i < 10; ++i) {
-			printf("%d\n", i+1); fflush(stdout);
-			scanf("%d", &b);
-			n2 |= (b << i);
-		}
-		if (n == n2)
-			;
-		else if (n == (~n2 & mask(i)))
-			n = ~n & mask(i);
-		else if (reverse(n, B) == n2)
-			n = reverse(n, B);
-		else
-			n = reverse(~n & mask(10), B);
 		
 		for (i = 0; i < B; ++i) {
 			printf("%c", ((n >> i) & 1) ? '1' : '0'); fflush(stdout);
