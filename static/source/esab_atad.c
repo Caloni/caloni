@@ -1,0 +1,60 @@
+#include <stdarg.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+#include <Windows.h>
+
+unsigned reverse(unsigned n, unsigned B) {
+	unsigned i, t, r = 0;
+	for(i=0; i < B; ++i ) {
+		t = (n & (1 << i));
+		if( t )
+			r |= (1 << ((B - 1) - i));
+	}
+	return r;
+}
+
+int main() {
+	unsigned T, t, B, i, b, n, n2, mb = 0;
+	char v;
+
+	while (!IsDebuggerPresent())
+		Sleep(1000);
+	scanf("%d %d", &T, &B);
+	for (i = 0; i < B; ++i)
+		mb |= 1 << i;
+
+	for (t = 1; t <= T; ++t) {
+		n = n2 = 0;
+		for (i = 0; i < B; ++i) {
+			printf("%d\n", i + 1); fflush(stdout);
+			scanf("%d", &b);
+			n |= (b << i);
+		}
+		for (i = 0; i < B; ++i) {
+			printf("%d\n", i+1); fflush(stdout);
+			scanf("%d", &b);
+			n2 |= (b << i);
+		}
+		if (n == n2)
+			;
+		else if (n == (~n2 & mb))
+			n = ~n & mb;
+		else if (reverse(n, B) == n2)
+			n = reverse(n, B);
+		else
+			n = reverse(~n & mb, B);
+		
+		for (i = 0; i < B; ++i) {
+			printf("%c", ((n >> i) & 1) ? '1' : '0'); fflush(stdout);
+		}
+		printf("\n"); fflush(stdout);
+		do scanf("%c", &v);
+		while (v != 'Y' && v != 'N');
+		if (v != 'Y')
+			return t;
+	}
+
+	return 0;
+}
