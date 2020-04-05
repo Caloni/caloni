@@ -26,8 +26,8 @@ int main() {
 	unsigned T, t, B, i, j, b, n, n2;
 	char v;
 
-	while (!IsDebuggerPresent())
-		Sleep(1000);
+	//while (!IsDebuggerPresent())
+		//Sleep(1000);
 	scanf("%d %d", &T, &B);
 
 	for (t = 1; t <= T; ++t) {
@@ -39,8 +39,8 @@ int main() {
 				scanf("%d", &b);
 				n |= (b << i);
 			}
-			for (i = B; i > B - 5; --i) {
-				printf("%d\n", i); fflush(stdout);
+			for (i = B - 1; i > B - 6; --i) {
+				printf("%d\n", i + 1); fflush(stdout);
 				scanf("%d", &b);
 				n |= (b << i);
 			}
@@ -49,8 +49,8 @@ int main() {
 				scanf("%d", &b);
 				n2 |= (b << i);
 			}
-			for (i = B; i > B - 5; --i) {
-				printf("%d\n", i); fflush(stdout);
+			for (i = B - 1; i > B - 6; --i) {
+				printf("%d\n", i + 1); fflush(stdout);
 				scanf("%d", &b);
 				n2 |= (b << i);
 			}
