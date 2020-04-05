@@ -1,8 +1,8 @@
 {{ if .Date.After (time "2001-01-01")}}
     {{ if .Params.stars }}{{ partial "stars.html" . }}{{ end }}
     {{ .Params.desc }}
-    {{ if .Params.stars }} {{ .Params.stars }} {{ end }}
-    {{ if .Params.tags }} &middot; {{ delimit .Params.tags " &middot; " }}{{ end }}
+    {{ if .Params.stars }} {{ .Params.stars }} &middot; {{ end }}
+    {{ if .Params.tags }} {{ delimit .Params.tags " &middot; " }}{{ end }}
      &middot; {{ .PublishDate.Format "2006-01-02" }}
      {{ if .Params.review }} &middot; {{ delimit .Params.review " &middot; " }}{{ end }}
     {{ if .Params.imdb }} <a href="https://www.imdb.com/title/tt{{ .Params.imdb }}" title="Internet Movie Database"><span class="icon"><big><i class="fa fa-imdb"></i></big></span></a>{{ end }}
