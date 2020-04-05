@@ -4,3 +4,4 @@ book
 .auth
 *.swp
 static/images
+static/sources
