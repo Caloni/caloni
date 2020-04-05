@@ -23,15 +23,15 @@ unsigned reverse(unsigned n, unsigned B) {
 }
 
 int main() {
-	unsigned T, t, B, i, j, b, n, n2;
+	unsigned T, t, B, i, j, b, n0, n, n2;
 	char v;
 
-	//while (!IsDebuggerPresent())
-		//Sleep(1000);
+	while (!IsDebuggerPresent())
+		Sleep(1000);
 	scanf("%d %d", &T, &B);
 
 	for (t = 1; t <= T; ++t) {
-		n = n2 = j = 0;
+		n0 = n = n2 = j = 0;
 
 		while (j < B / 2 - 1) {
 			for (i = j; i < j + 5; ++i) {
@@ -57,13 +57,19 @@ int main() {
 
 			if (n == n2)
 				;
-			else if (n == (~n2 & mask(i)))
-				n = ~n & mask(i);
+			else if (n == (~n2 & mask(B)))
+				n = ~n & mask(B);
 			else if (reverse(n, B) == n2)
 				n = reverse(n, B);
 			else
-				n = reverse(~n & mask(i), B);
+				n = reverse(~n & mask(B), B);
 
+			if( j > 0 )
+				n &= (mask(10) << 5);
+			else
+				n &= ~(mask(10) << 5);
+			n0 |= n;
+			n = n2 = 0;
 			j += 5;
 		}
 		
