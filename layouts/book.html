@@ -5,13 +5,18 @@
   </head>
 
   <body style="min-height:100vh;display:flex;flex-direction:column">
-
     <section class="section" style="flex:1">
-
       <div class="container">
         <div class="columns">
-
           <div class="column">
+
+            <h2><a href="#begin">Índices</a></h2>
+
+            <h2 id="posts" style="page-break-before: always;">Conteúdo</h2>
+            {{ range .Site.RegularPages.ByDate }}
+              <h3 style="page-break-before: always" id="{{ .File.ContentBaseName }}">{{ .Title }}</h3> {{ dateFormat "2006-01-02" .Date }} {{ .Content }}
+              {{ partial "taglist.html" . }}
+            {{ end }}
 
             <h2 id="begin" style="page-break-before: always;">Índices</h2>
             <ul>
@@ -59,6 +64,7 @@
               {{ end }}
             {{ end }}
             </ul>
+
             <h2 id="cat" style="page-break-before: always;">Índice por Tags</h2>
             <ul>
             {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
@@ -74,25 +80,11 @@
               {{ end }}
             {{ end }}
             </ul>
-            <h2 id="posts" style="page-break-before: always;">Conteúdo</h2>
-            {{ range .Site.RegularPages }}
-              <h3 style="page-break-before: always" id="{{ .File.ContentBaseName }}">{{ .Title }}</h3> {{ dateFormat "2006-01-02" .Date }} {{ .Content }}
-              {{ partial "taglist.html" . }}
-            {{ end }}
 
             </div>
-
-            <br>
-            <br>
-            <br>
-
           </div>
-
         </div>
       </div>
-
     </section>
-
   </body>
-
 </html>
