@@ -13,7 +13,7 @@
       <div class="container" style="min-height:56vh">
         <ul>
         {{- $data := .Data }}
-        {{- range $key, $value := .Data.Terms.ByCount }}
+        {{- range $key, $value := .Data.Terms.Alphabetical }}
           <li class="title is-4 is-flex" style="justify-content:space-between">
             <span>
               <a href="/allposts/?q={{ $value.Name | urlize }}">
