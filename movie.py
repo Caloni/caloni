@@ -34,6 +34,8 @@ def print_desc(imdb, args):
         desc += ", com " + casting
     desc += ".'"
     print(desc)
+    print('imdb: "' + imdb + '"')
+    print('stars: "3/5"')
 
 
 if len(sys.argv) < 2:
