@@ -15,7 +15,6 @@
             <h2 id="posts" style="page-break-before: always;">Conteúdo</h2>
             {{ range .Site.RegularPages.ByDate }}
               <h3 style="page-break-before: always" id="{{ .File.ContentBaseName }}">{{ .Title }}</h3> {{ dateFormat "2006-01-02" .Date }} {{ .Content }}
-              {{ partial "taglist.html" . }}
             {{ end }}
 
             <h2 id="begin" style="page-break-before: always;">Índices</h2>
