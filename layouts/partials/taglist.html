@@ -7,7 +7,7 @@
      {{ if .Params.review }} &middot; {{ delimit .Params.review " &middot; " }}{{ end }}
     {{ if .Params.imdb }} <a href="https://www.imdb.com/title/tt{{ .Params.imdb }}" title="Internet Movie Database"><span class="icon"><big><i class="fa fa-imdb"></i></big></span></a>{{ end }}
     {{ if .Params.imdb }} <a href="https://letterboxd.com/imdb/{{ .Params.imdb }}" title="Letterboxd"><span class="icon"><big><i class="fa fa-comments"></i></big></span></a>{{ end }}
-     <a href="https://twitter.com/intent/tweet?text={{ .Title }} {{ .Permalink }} from @caloni " title="Twitter"><span class="icon"><big><i class="fa fa-twitter"></span></i></big></a>
+     <a href="https://twitter.com/intent/tweet?text={{ .Title }} {{ .Permalink }} from @caloni " title="Twitter"><span class="icon"><big><i class="fa fa-twitter"></i></span></big></a>
     {{ if .File }} <a href="{{ .Site.Params.ContentGit }}/blob/master/{{ .File.LogicalName }}" title="GitHub"><span class="icon"><big><i class="fa fa-github"></i></big></span></a>{{ end }}
      <a href="#" title="Início"><span class="icon"><big><i class="fa fa-arrow-up"></i></big></span></a>
 {{ end }}
