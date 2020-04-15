@@ -11,7 +11,7 @@
     {{ partial "navbar.html" . }}
 
     {{ partial "list_begin.html" . }}
-    {{ range first 100 .Site.RegularPages }}<tr><td>{{ partial "icons.html" . }}
+    {{ range first 100 .Site.RegularPages }}<tr><td style="border-bottom: 1px dotted black;">{{ partial "icons.html" . }}
     <big><b><a href="{{ .Permalink }}">{{ .Title }}</a></b></big>
     <small> <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
     {{ if .Params.tags }}{{ delimit .Params.tags " &middot; " }}{{ end }}   
