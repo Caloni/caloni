@@ -11,7 +11,9 @@
     {{ partial "navbar.html" . }}
 
     {{ partial "list_begin.html" . }}
-    {{ range .Site.RegularPages }} <tr><td>{{ partial "icons.html" . }}<big><b><a href="{{ .Permalink }}">{{ .Title }}</a></b></big><small><i> {{ if .Params.tags }} &middot; {{ delimit .Params.tags " &middot; " }}{{ end }}</small></i></td></tr>
+    {{ range .Site.RegularPages }} <tr><td>{{ partial "icons.html" . }}<big><b><a href="{{ .Permalink }}">{{ .Title }}</a></b></big><small><i> 
+    {{ if .Params.tags }}<i>{{ range .Params.tags }}{{ printf "%s%s" " #" . }}{{ end }}</i>{{ end }}   
+    </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
 
