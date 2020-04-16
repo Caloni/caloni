@@ -2,6 +2,7 @@
 pushd content\post
 git add --all
 git commit -m "Publishing."
+git pull
 git push
 popd
 git add --all
