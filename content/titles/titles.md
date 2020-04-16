@@ -1,5 +1,5 @@
 ---
 categories: [ "blog" ]
-title: "All Posts"
+title: "All Titles"
 date: "2010-04-01"
 ---

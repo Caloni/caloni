@@ -8,17 +8,18 @@
             <!-- Content -->
             <div style="min-height:56vh">
               <big><b>
-              <a title="lista os posts de código" href="javascript:;" onclick="$('#filter').val('#blog|#code'); ApplyFilter('#blog|#code');">blogue</a>
-              &middot; <a title="lista os posts de filmes" href="javascript:;" onclick="$('#filter').val('#movie|#tv|#cinema|#short'); ApplyFilter('#movie|#tv|#cinema|#short');">cinema</a>
+              <a title="lista os posts de código" href="javascript:;" onclick="$('#filter').val('#blog|#code'); $('#filterbutton').click();">blogue</a>
+              &middot; <a title="lista os posts de filmes" href="javascript:;" onclick="$('#filter').val('#movie|#tv|#cinema|#short'); $('#filterbutton').click();">cinema</a>
               &middot; <a title="lista de todas as tags" href="/tags">tags</a>
               &middot; <a title="abre post aleatório" href="javascript:;" onclick="window.location = randomPost;">rand</a>
-              &middot; <a title="lista todos os títulos do saite" href="/allposts">posts</a>
-              &middot; <a title="lista a busca completa do saite (mais lenta)" href="/search"><span class="icon"><i class="fa fa-search"></i></span></a>
-              <i><span name="results" id="results"></span></i>
+              &middot; <a title="lista todos os títulos do saite" href="/titles">titles</a>
+              &middot; <a title="lista a busca completa do saite (mais lenta)" href="/search">search</i></span></a>
+              &middot; <i><span name="results" id="results">...</span></i>
               </b></big>
               
               {{ .Content }}
               
               <table class="sortable">
-              <input type="text" name="filter" value="" id="filter" placeholder="Digite o que está procurando e enter" style="width: 100%; font-size: 16px; margin-top: 1em;" title=""/>
               <div style="padding-bottom: 1em;"></div>
+              <input type="text" name="filter" value="" id="filter" placeholder="filter" style="width: 80%; font-size: 16px; margin-top: 1em; margin-left: 10px;" title=""/>
+              <button id="filterbutton" onclick="ApplyFilter($('#filter').val());"><span class="icon"><i class="fa fa-search"></i></span></button>
