@@ -58,7 +58,7 @@ var QueryString = function () {
 $(document).ready(function(){
     $("#filter").keyup(function(event){
         query = $(this).val();
-        ApplyFilter(query);
+        //ApplyFilter(query);
     });
     var query = QueryString['q'];
     $('#filter').val(query);
@@ -69,7 +69,8 @@ $(document).ready(function(){
 $(document).ready(function(){
     $("#filter").keypress(function(e){
     if(e.which == 13) {
-            window.location = randomPost;
+            query = $(this).val();
+            ApplyFilter(query);
         }
     });
 });
