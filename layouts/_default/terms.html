@@ -16,7 +16,7 @@
         {{- range $key, $value := .Data.Terms.Alphabetical }}
           <li class="title is-4 is-flex" style="justify-content:space-between">
             <span>
-              <a href="/allposts/?q=%23{{ $value.Name | urlize }}">
+              <a href="/titles/?q=%23{{ $value.Name | urlize }}">
                 {{ $value.Name }}
               </a>
             </span>
