@@ -14,7 +14,7 @@
         <ul>
         {{- $data := .Data }}
         {{- range $key, $value := .Data.Terms.Alphabetical }}
-          <li class="title is-4 is-flex" style="justify-content:space-between">
+          <li class="title is-4 is-flex"  style="border-bottom: 1px dotted black; justify-content:space-between;">
             <span>
               <a href="/tags/{{ $value.Name | urlize }}">
                 {{ $value.Name }}
