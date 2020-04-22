@@ -7,23 +7,14 @@
 
     {{ partial "navbar.html" . }}
 
-    <section class="section" style="flex:1">
-
-      <!-- Content -->
-      <div class="container" style="min-height:56vh">
-        {{- if .Data.Singular }}
-        <p class="title">{{ .Data.Singular | title }}: {{ .Title }}</p>
-        {{- else }}
-        <p class="title">{{ .Kind | title }}: {{ .Title }}</p>
-        {{- end }}
-
-      </div>
-
-      <br>
-      <br>
-      <br>
-
-    </section>
+    {{ partial "list_begin_partial.html" . }}
+    {{ range .Pages }}<tr><td style="border-bottom: 1px dotted black; padding: 10px;">{{ partial "icons.html" . }}
+    <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
+    (<b><a href="{{ .Permalink }}">{{ .Title }}</a></b>)
+    {{ if .Params.tags }}<i>{{ range .Params.tags }}{{ printf "%s%s" " #" . }}{{ end }}</i>{{ end }}   
+    </td></tr>
+    {{ end }}
+    {{ partial "list_end.html" . }}
 
     {{ partial "footer.html" . }}
 

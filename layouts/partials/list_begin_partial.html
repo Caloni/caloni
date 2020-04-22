@@ -1,0 +1,23 @@
+
+    <section class="section" style="flex:1">
+
+      <div class="container">
+        <div class="columns">
+
+          <div class="column">
+            <!-- Content -->
+            <div style="min-height:56vh">
+              <big><b>
+              <a title="volta para o início do blogue" href="/">home</a>
+              &middot; <a title="lista de todas as tags" href="/tags">tags</a>
+              &middot; <a title="abre post aleatório" href="javascript:;" onclick="window.location = randomPost;">rand</a>
+              &middot; <a title="assinar rss desta tag" href="/tags/{{ .Title }}/index.xml">{{ .Title }}</a>
+              &middot; <i><span name="results" id="results">...</span></i>
+              </b></big>
+              
+              {{ .Content }}
+              
+              <table class="sortable">
+              <div style="padding-bottom: 1em;"></div>
+              <input type="text" name="filter" value="" id="filter" placeholder="filter" style="width: 80%; font-size: 16px; margin-top: 1em; margin-left: 10px;" title=""/>
+              <button id="filterbutton" onclick="ApplyFilter($('#filter').val());"><span class="icon"><i class="fa fa-search"></i></span></button>
