@@ -25,9 +25,8 @@
       <div class="navbar-end" style="padding: 10px;">
       {{- $node := . }}
       <big><b>
-      <a title="lista todos os títulos do saite" href="/titles">títulos</a>
-      &middot; <a title="lista a busca completa do saite (mais lenta)" href="/search">busca</i></span></a>
-      &middot; {{ range .Site.Menus.main }} <a href="{{ .URL }}"><span class="icon"><i class="fa fa-{{ .Name }}"></i></a>{{ end }}
+      {{ range .Site.Taxonomies.categories }} <a title="posts dessa categoria" href="/categories/{{ .Page.Title | urlize }}">{{ .Page.Title }}</a> &middot; {{ end }}
+      {{ range .Site.Menus.main }} <a href="{{ .URL }}"><span class="icon"><i class="fa fa-{{ .Name }}"></i></a>{{ end }}
       </big></b>
       </div>
     </div>

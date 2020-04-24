@@ -9,10 +9,6 @@ title = "Blogue do Caloni"
     name = "user"
     url = "/caloni"
     weight = 1
-[[menu.main]]
-    name = "rss"
-    url = "/index.xml"
-    weight = 2
 
 [params]
     baseURL = "http://www.caloni.com.br"
