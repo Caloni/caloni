@@ -1,21 +1,7 @@
-{{ if in .Params.tags "movie" }}
+{{ if in .Params.categories "cinema" }}
 <span class="icon"><i class="fa fa-film"></i></span>
-{{ else if in .Params.tags "short" }}
-<span class="icon"><i class="fa fa-film"></i></span>
-{{ else if in .Params.tags "cinema" }}
-<span class="icon"><i class="fa fa-film"></i></span>
-{{ else if in .Params.tags "tv" }}
-<span class="icon"><i class="fa fa-tv"></i></span>
-{{ else if in .Params.tags "book" }}
-<span class="icon"><i class="fa fa-book"></i></span>
-{{ else if in .Params.tags "reading" }}
-<span class="icon"><i class="fa fa-book"></i></span>
-{{ else if in .Params.tags "food" }}
-<span class="icon"><i class="fa fa-glass"></i></span>
-{{ else if in .Params.tags "recipe" }}
-<span class="icon"><i class="fa fa-glass"></i></span>
-{{ else if in .Params.tags "code" }}
+{{ else if in .Params.categories "code" }}
 <span class="icon"><i class="fa fa-bug"></i></span>
 {{ else }}
-<span class="icon"><i class="fa fa-bug"></i></span>
+<span class="icon"><i class="fa fa-bookmark"></i></span>
 {{ end }}

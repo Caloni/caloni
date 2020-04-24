@@ -8,10 +8,7 @@
             <!-- Content -->
             <div style="min-height:56vh">
               <big><b>
-              <a title="lista os posts de código" href="/tags/code">code</a>
-              &middot; <a title="lista os posts de filmes" href="/tags/movie">cinema</a>
-              &middot; <a title="lista de todas as tags" href="/tags">tags</a>
-              &middot; <a title="abre post aleatório" href="javascript:;" onclick="window.location = randomPost;">rand</a>
+              <a title="lista de todas as tags" href="/tags">tags</a>
               &middot; <a title="lista todos os títulos do saite" href="/titles">titles</a>
               &middot; <a title="lista a busca completa do saite (mais lenta)" href="/search">search</i></span></a>
               &middot; <i><span name="results" id="results">...</span></i>
@@ -21,5 +18,6 @@
               
               <table class="sortable">
               <div style="padding-bottom: 1em;"></div>
-              <input type="text" name="filter" value="" id="filter" placeholder="filter" style="width: 80%; font-size: 16px; margin-top: 1em; margin-left: 10px;" title=""/>
+              <input type="text" name="filter" value="" id="filter" placeholder="filter" style="width: 70%; font-size: 16px; margin-top: 1em; margin-left: 10px;" title=""/>
               <button id="filterbutton" onclick="ApplyFilter($('#filter').val());"><span class="icon"><i class="fa fa-search"></i></span></button>
+              <button id="randombutton" onclick="window.location = randomPost;"><span class="icon"><i class="fa fa-magic"></i></span></button>

@@ -7,28 +7,18 @@
 
     {{ partial "navbar.html" . }}
 
-    <section class="section" style="flex:1">
-
-      <!-- Content -->
-      <div class="container" style="min-height:56vh">
-        <ul>
-        {{- $data := .Data }}
-        {{- range $key, $value := .Data.Terms.Alphabetical }}
-          <li class="title is-4 is-flex"  style="border-bottom: 1px dotted black; justify-content:space-between;">
-            <span>
-              <a href="/tags/{{ $value.Name | urlize }}">
-                {{ $value.Name }}
-              </a>
-            </span>
-            <span>
-              {{ $value.Count }} posts
-            </span>
-          </li>
-        {{- end }}
-        </ul>
-      </div>
-
-    </section>
+    {{ partial "list_begin.html" . }}
+    {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+      {{ range $key, $value := $taxonomy }}
+        <tr><td style="border-bottom: 1px dotted black; padding: 10px;">
+        <big><b><span class="icon"><i class="fa fa-{{ $taxonomyname }}"></i></span><a href="/{{ $taxonomyname }}/{{ $key | urlize }}">{{ $key }}</a></b></big>
+        {{ range first 1 $value.Pages }} <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
+        (<b><a href="{{ .Permalink }}">{{ .Title }}</a></b>){{ end }}
+        #{{ $taxonomyname }}   
+        </td></tr>
+      {{ end }}
+    {{ end }}
+    {{ partial "list_end.html" . }}
 
     {{ partial "footer.html" . }}
 

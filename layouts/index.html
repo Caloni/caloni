@@ -9,9 +9,8 @@
   <body style="min-height:100vh;display:flex;flex-direction:column">
 
     {{ partial "navbar.html" . }}
-
     {{ partial "list_begin.html" . }}
-    {{ range first 100 .Site.RegularPages }}<tr><td style="border-bottom: 1px dotted black; padding: 10px;">{{ partial "icons.html" . }}
+    {{ range first 7 .Site.RegularPages }}<tr><td style="border-bottom: 1px dotted black; padding: 10px;">{{ partial "icons.html" . }}
     <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
     (<b><a href="{{ .Permalink }}">{{ .Title }}</a></b>)
     {{ if .Params.tags }}<i>{{ range .Params.tags }}{{ printf "%s%s" " #" . }}{{ end }}</i>{{ end }}   

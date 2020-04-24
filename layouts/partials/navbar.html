@@ -22,16 +22,12 @@
     <input type="checkbox" id="navbar-burger-state"/>
 
     <div class="navbar-menu">
-      <div class="navbar-end">
+      <div class="navbar-end" style="padding: 10px;">
       {{- $node := . }}
-      {{- range .Site.Menus.main }}
-      <a href="{{ .URL }}"
-         class="navbar-item
-                {{ if or ($node.IsMenuCurrent "main" .) ($node.HasMenuCurrent "main" .) -}}
-                  is-active
-                {{- end }}">{{ .Name }}
-      </a>
-      {{- end }}
+      <big>
+      {{ range .Site.Taxonomies.categories }} <a title="posts dessa categoria" href="/categories/{{ .Page.Title | urlize }}">{{ .Page.Title }}</a> &middot; {{ end }}
+      {{ range .Site.Menus.main }} <a href="{{ .URL }}"><span class="icon"><i class="fa fa-{{ .Name }}"></i></a>{{ end }}
+      </big>
       </div>
     </div>
 

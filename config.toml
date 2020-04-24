@@ -2,14 +2,11 @@ baseURL = "http://www.caloni.com.br/"
 languageCode = "pt-br"
 title = "Blogue do Caloni"
 
-[taxonomies]
-     category = "tags"
-
 [permalinks]
     post = "/:filename/"
 
 [[menu.main]]
-    name = "caloni"
+    name = "user"
     url = "/caloni"
     weight = 1
 [[menu.main]]
