@@ -8,15 +8,15 @@
             <!-- Content -->
             <div style="min-height:56vh">
               <big><b>
-      {{ range .Site.Taxonomies.categories }} <a title="posts dessa categoria" href="/categories/{{ .Page.Title | urlize }}">{{ .Page.Title }}</a> &middot; {{ end }}
+              {{ range .Site.Taxonomies.categories }} <a title="posts dessa categoria" href="/categories/{{ .Page.Title | urlize }}">{{ .Page.Title }}</a> &middot; {{ end }}
               <a title="lista de todas as tags" href="/tags">tags</a>
               </b></big>
               
               {{ .Content }}
               
+              <div><big><b><span style="padding: 5px;" name="results" id="results">...</span></b></big></div>
               <table class="sortable">
               <div style="padding-bottom: 1em;"></div>
-              <input type="text" name="filter" value="" id="filter" placeholder="filter" style="width: 50%; font-size: 16px; margin-top: 1em; margin-left: 10px;" title=""/>
+              <input type="text" name="filter" value="" id="filter" placeholder="filtrar resultados" style="width: 60%; font-size: 16px; margin-top: 1em; margin-left: 10px;" title=""/>
               <button id="filterbutton" onclick="ApplyFilter($('#filter').val());"><span class="icon"><i class="fa fa-search"></i></span></button>
               <button id="randombutton" onclick="window.location = randomPost;"><span class="icon"><i class="fa fa-magic"></i></span></button>
-              <small><i><span style="padding: 5px;" name="results" id="results">...</span></i></small>
