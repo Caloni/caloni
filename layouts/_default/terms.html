@@ -13,9 +13,9 @@
         <tr><td style="border-bottom: 1px dotted black; padding: 10px;">
         {{ range first 1 $value.Pages }} 
         {{ partial "icons.html" . }}
+        <a href="/{{ $taxonomyname }}/{{ $key | urlize }}">{{ $key }}<span style="font-size: 0.6em;"> ({{ $value.Count }})</span></a>
         <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
         <big><b><a href="{{ .Permalink }}">{{ .Title }}</a></big></b>{{ end }}
-        <a href="/{{ $taxonomyname }}/{{ $key | urlize }}">{{ $key }}<span style="font-size: 0.6em;"> ({{ $value.Count }})</span></a>
         </td></tr>
       {{ end }}
     {{ end }}
