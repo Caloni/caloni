@@ -7,21 +7,20 @@
 
     {{ partial "navbar.html" . }}
     {{ partial "list_begin.html" . }}
+
     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
       {{ range $key, $value := $taxonomy }}
         <tr><td style="border-bottom: 1px dotted black; padding: 10px;">
-        <big><b><span class="icon"><i class="fa fa-{{ $taxonomyname }}"></i></span>
-        <a href="/{{ $taxonomyname }}/{{ $key | urlize }}">{{ $key }}
-          <span style="font-size: 0.6em;">({{ $value.Count }})</span></a>
-        </b></big>
-        {{ range first 1 $value.Pages }} <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
-        (<b><a href="{{ .Permalink }}">{{ .Title }}</a></b>){{ end }}
-        #{{ $taxonomyname }}   
+        {{ range first 1 $value.Pages }} 
+        {{ partial "icons.html" . }}
+        <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
+        <big><b><a href="{{ .Permalink }}">{{ .Title }}</a></big></b>{{ end }}
+        <a href="/{{ $taxonomyname }}/{{ $key | urlize }}">{{ $key }}<span style="font-size: 0.6em;"> ({{ $value.Count }})</span></a>
         </td></tr>
       {{ end }}
     {{ end }}
-    {{ partial "list_end.html" . }}
 
+    {{ partial "list_end.html" . }}
     {{ partial "footer.html" . }}
 
   </body>

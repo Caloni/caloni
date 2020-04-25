@@ -10,7 +10,7 @@
     {{ range .Pages }}<tr><td style="border-bottom: 1px dotted black; padding: 10px;">{{ partial "icons.html" . }}
     <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
     (<b><a href="{{ .Permalink }}">{{ .Title }}</a></b>)
-    {{ if .Params.tags }}<i>{{ range .Params.tags }}{{ printf "%s%s" " #" . }}{{ end }}</i>{{ end }}   
+    {{ if .Params.tags }}<i>{{ range .Params.tags }}<a href="/tags/{{ . | urlize }}">{{ printf "%s%s" " #" . }}</a>{{ end }}</i>{{ end }}   
     </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
