@@ -6,7 +6,6 @@
   <body style="min-height:100vh;display:flex;flex-direction:column">
 
     {{ partial "navbar.html" . }}
-
     {{ partial "list_begin.html" . }}
     {{ range .Pages }}<tr><td style="border-bottom: 1px dotted black; padding: 10px;">{{ partial "icons.html" . }}
     <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>

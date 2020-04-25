@@ -3,7 +3,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-  <title>{{ .Title }}</title>
+  {{- if .IsHome }}
+  <title>{{ .Site.Title }}</title>
+  {{- else }}
+  <title>{{ .Site.Title }} - {{ .Title }}</title>
+  {{- end }}
   <meta name="author" content="{{ .Site.Author.name }}" />
   {{- if .IsPage }}
   <meta name="description"

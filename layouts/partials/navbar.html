@@ -3,11 +3,17 @@
   <div class="container">
 
     <div class="navbar-brand">
-      <a class="navbar-item" href="/">
+      <a class="navbar-item" title="Go to Home" href="/">
         {{- if (fileExists (print "/static" .Site.Data.defaults.icons.brand)) }}
         <img alt="Brand" src="{{ .Site.Data.defaults.icons.brand }}">
         {{- end }}
+        {{- if .IsHome }}
         <div class="title is-4">&nbsp;{{ .Site.Title }}</div>
+        {{- else if .IsPage }}
+        <div class="title is-4">&nbsp;{{ .Site.Title }}</div>
+        {{- else }}
+        <div class="title is-4">&nbsp;{{ .Site.Title }}::{{ .Title }}</div>
+        {{- end }}
       </a>
 
       <!-- Using a <label /> here -->

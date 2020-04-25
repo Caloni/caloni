@@ -1,8 +1,9 @@
 {{ if .Date.After (time "2001-01-01")}}
     {{ if .Params.stars }}{{ partial "stars.html" . }}{{ end }}
     {{ .Params.desc }}
-    {{ if .Params.stars }} {{ .Params.stars }} &middot; {{ end }}
-    {{ if .Params.tags }} {{ delimit .Params.tags " &middot; " }}{{ end }}
+    {{ if .Params.stars }} {{ .Params.stars }} {{ end }}
+    {{ if .Params.categories }} {{ range .Params.categories }} &middot; <a href="/categories/{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
+    {{ if .Params.tags }} {{ range .Params.tags }} &middot; <a href="/tags/{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
     &middot; {{ .PublishDate.Format "2006-01-02" }}
     {{ if .Params.review }} &middot; {{ delimit .Params.review " &middot; " }}{{ end }}
     {{ if .Params.imdb }} &middot; <a href="https://www.imdb.com/title/tt{{ .Params.imdb }}" title="Internet Movie Database">IMDB</a>{{ end }}

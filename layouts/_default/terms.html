@@ -6,12 +6,14 @@
   <body style="min-height:100vh;display:flex;flex-direction:column">
 
     {{ partial "navbar.html" . }}
-
     {{ partial "list_begin.html" . }}
     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
       {{ range $key, $value := $taxonomy }}
         <tr><td style="border-bottom: 1px dotted black; padding: 10px;">
-        <big><b><span class="icon"><i class="fa fa-{{ $taxonomyname }}"></i></span><a href="/{{ $taxonomyname }}/{{ $key | urlize }}">{{ $key }}</a></b></big>
+        <big><b><span class="icon"><i class="fa fa-{{ $taxonomyname }}"></i></span>
+        <a href="/{{ $taxonomyname }}/{{ $key | urlize }}">{{ $key }}
+          <span style="font-size: 0.6em;">({{ $value.Count }})</span></a>
+        </b></big>
         {{ range first 1 $value.Pages }} <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
         (<b><a href="{{ .Permalink }}">{{ .Title }}</a></b>){{ end }}
         #{{ $taxonomyname }}   
