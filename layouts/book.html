@@ -5,85 +5,71 @@
   </head>
 
   <body style="min-height:100vh;display:flex;flex-direction:column">
-    <section class="section" style="flex:1">
-      <div class="container">
-        <div class="columns">
-          <div class="column">
 
-            <h2><a href="#begin">Índices</a></h2>
+    <h2 id="text" style="page-break-before: always;">E Deus disse: 'int main() {}'. E pronto: surgiu o primeiro erro de compilação...</h2>
+    {{ range .Site.RegularPages.ByDate }}
+      <h3 style="page-break-before: always" id="{{ .File.ContentBaseName }}">{{ .Title }}</h3> {{ dateFormat "2006-01-02" .Date }} {{ .Content }}
+    {{ end }}
 
-            <h2 id="posts" style="page-break-before: always;">Conteúdo</h2>
-            {{ range .Site.RegularPages.ByDate }}
-              <h3 style="page-break-before: always" id="{{ .File.ContentBaseName }}">{{ .Title }}</h3> {{ dateFormat "2006-01-02" .Date }} {{ .Content }}
-            {{ end }}
+    <h2 id="toc" style="page-break-before: always;">Index</h2>
+    <h2>
+    {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+    {{ range $letters }}<a href="#letter{{ . }}">{{ . }}</a>
+    {{ end }}
+    </h2>
 
-            <h2 id="begin" style="page-break-before: always;">Índices</h2>
-            <ul>
-              <li><a href="#idx">Alfabético</a></li>
-              <ul>
-                <li>{{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
-                  {{ range $letters }}
-                    <a href="#letter{{ . }}">{{ . }}</a>
-                  {{ end }}
-                </li>
-              </ul>
-              <li><a href="#cat">Tags</a></li>
-              <ul>
-                {{ range $key, $value := .Site.Taxonomies.tags }}
-	               <li><a href="#{{ $key }}">{{ $key | humanize }}({{ len $value }})</a></li>
-                {{ end }}
-              </ul>
-              <li><a href="#posts">Data (ir para Conteúdo)</a></li>
-              <ul>
-                {{ range .Site.RegularPages }}
-                    <li><a href="#{{ .File.ContentBaseName }}">{{ .Title }} </a></li>
-                {{ end }}
-              </ul>
-            </ul>
+    {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+      <h2 id="{{ $taxonomyname }}">{{ $taxonomyname | humanize }}</h2>
+      <ul>
+      {{ range $key, $value := $taxonomy }}
+        <li><a href="#{{ $taxonomyname }}-{{ $key }}">{{ $key | humanize }}({{ len $value }})</a></li>
+      {{ end }}
+      </ul>
+    {{ end }}
 
-            <h2 id="idx" style="page-break-before: always;">Índice Alfabético</h2>
-            <ul>
-            <!-- create a list with all uppercase letters -->
-            {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
-            <!-- range all pages sorted by their title -->
-            {{ range .Site.RegularPages.ByTitle }}
-              <!-- get the first character of each title. Assumes that the title is never empty! -->
-              {{ $firstChar := substr .Title 0 1 | upper }}
-              <!-- in case $firstChar is a letter -->
-              {{ if $firstChar | in $letters }}
-                <!-- get the current letter -->
-                {{ $curLetter := $.Scratch.Get "curLetter" }}
-                <!-- if $curLetter isn't set or the letter has changed -->
-                {{ if ne $firstChar $curLetter }}
-                  <!-- update the current letter and print it -->
-                  {{ $.Scratch.Set "curLetter" $firstChar }}
-                  <h3 id="letter{{ $firstChar }}">{{ $firstChar }}</h3>
-                {{ end }}
-                <li><a href="#{{ .File.ContentBaseName }}">{{ .Title }}</a></li>
-              {{ end }}
-            {{ end }}
-            </ul>
+    <h2><a href="#text">Posts</a></h2>
+    <ul>
+      {{ range .Site.RegularPages }}
+          <li><a href="#{{ .File.ContentBaseName }}">{{ .Title }} </a></li>
+      {{ end }}
+    </ul>
 
-            <h2 id="cat" style="page-break-before: always;">Índice por Tags</h2>
-            <ul>
-            {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-              {{ if eq "tags" $taxonomyname }}
-                {{ range $key, $value := $taxonomy }}
-                  <h3 id="{{ $key }}">{{ $key | humanize }}</h3>
-                    <ul>
-                      {{ range $value.Pages }}
-                        <li><a href="#{{ .File.ContentBaseName }}">{{ .Title }} </a></li>
-                      {{ end }}
-                    </ul>
-                {{ end }}
-              {{ end }}
-            {{ end }}
-            </ul>
+    <h2 id="letters" style="page-break-before: always;">Letters</h2>
+    <ul>
+    <!-- create a list with all uppercase letters -->
+    {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+    <!-- range all pages sorted by their title -->
+    {{ range .Site.RegularPages.ByTitle }}
+      <!-- get the first character of each title. Assumes that the title is never empty! -->
+      {{ $firstChar := substr .Title 0 1 | upper }}
+      <!-- in case $firstChar is a letter -->
+      {{ if $firstChar | in $letters }}
+        <!-- get the current letter -->
+        {{ $curLetter := $.Scratch.Get "curLetter" }}
+        <!-- if $curLetter isn't set or the letter has changed -->
+        {{ if ne $firstChar $curLetter }}
+          <!-- update the current letter and print it -->
+          {{ $.Scratch.Set "curLetter" $firstChar }}
+          <h3 id="letter{{ $firstChar }}">{{ $firstChar }}</h3>
+        {{ end }}
+        <li><a href="#{{ .File.ContentBaseName }}">{{ .Title }}</a></li>
+      {{ end }}
+    {{ end }}
+    </ul>
 
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+      <h2 id="{{ $taxonomyname }}" style="page-break-before: always;">{{ $taxonomyname | humanize }}</h2>
+      <ul>
+      {{ range $key, $value := $taxonomy }}
+        <h3 id="{{ $taxonomyname }}-{{ $key }}">{{ $key | humanize }}</h3>
+          {{ range $value.Pages }}
+            <li><a href="#{{ .File.ContentBaseName }}">{{ .Title }} </a></li>
+          {{ end }}
+      {{ end }}
+      </ul>
+    {{ end }}
+
+    <div id="end" style="page-break-before: always;">Obrigado por ler. Blogue do Caloni {{ .Date.Format "2006" }}. Copyright é invenção do capitalismo burguês opressor. Todos os direitos não serão reservados.</i></div>
+
   </body>
 </html>

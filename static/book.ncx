@@ -9,10 +9,7 @@
 </docTitle>
 
 <navMap>
-
-<navPoint id="" playOrder="3"> <navLabel> <text> </text> </navLabel> <content src="book.html#" /> </navPoint>
-
-<navPoint id="begin"            playOrder="1"><navLabel>  <text>Início</text>                 </navLabel> <content src="book.html#begin"          /> </navPoint>
-
+<navPoint id="text" playOrder="1"><navLabel> <text>int main</text> </navLabel> <content src="book.html#text"/> </navPoint>
+<navPoint id="toc" playOrder="2"><navLabel> <text>#include <map></text> </navLabel> <content src="book.html#toc"/> </navPoint>
 </navMap>
 </ncx>
