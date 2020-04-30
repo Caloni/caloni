@@ -3,22 +3,18 @@
 
   {{ partial "head.html" . }}
 
-  <script src="/js/jquery.min.js"></script>
-  <script src="/js/list.js"></script>
-
   <body style="min-height:100vh;display:flex;flex-direction:column">
-
     {{ partial "navbar.html" . }}
 
     {{ partial "list_begin.html" . }}
-    {{ range .Site.RegularPages }} <tr><td style="border-bottom: 1px dotted black; padding: 10px;">{{ partial "icons.html" . }}<big><b><a href="{{ .Permalink }}">{{ .Title }}</a></b></big><small><i> 
-    {{ if .Params.tags }}<i>{{ range .Params.tags }}<a href="/tags/{{ . | urlize }}">{{ printf "%s%s" " #" . }}</a>{{ end }}</i>{{ end }}   
-    </td></tr>
+    {{ range .Site.RegularPages }}
+        <tr><td style="border-bottom: 1px dotted black; padding: 10px;">{{ partial "icons.html" . }}<big><b><a href="{{ .Permalink }}">{{ .Title }}</a></b></big><small><i> 
+        {{ if .Params.tags }}<i>{{ range .Params.tags }}<a href="/tags/{{ . | urlize }}">{{ printf "%s%s" " #" . }}</a>{{ end }}</i>{{ end }}   
+        </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
 
     {{ partial "footer.html" . }}
-
   </body>
 
 </html>

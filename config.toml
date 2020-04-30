@@ -1,6 +1,7 @@
 baseURL = "http://www.caloni.com.br/"
 languageCode = "pt-br"
 title = "Blogue do Caloni"
+copyright = "Copyright é invenção do capitalismo burguês opressor. Todos os direitos não serão reservados."
 
 [permalinks]
     post = "/:filename/"
@@ -9,8 +10,13 @@ title = "Blogue do Caloni"
     name = "user"
     url = "/caloni"
     weight = 1
+[[menu.main]]
+    name = "rss"
+    url = "index.xml"
+    weight = 2
 
 [params]
     baseURL = "http://www.caloni.com.br"
-    ContentGit = "https://github.com/Caloni/post"
+    contentGit = "https://github.com/Caloni/post"
     googleAnalytics = "UA-50557403-2"
+    namespace = "caloni"

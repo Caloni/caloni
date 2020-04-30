@@ -4,19 +4,18 @@
   {{ partial "head.html" . }}
 
   <body style="min-height:100vh;display:flex;flex-direction:column">
-
     {{ partial "navbar.html" . }}
+
     {{ partial "list_begin.html" . }}
     {{ range .Pages }}<tr><td style="border-bottom: 1px dotted black; padding: 10px;">{{ partial "icons.html" . }}
-    <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
-    <big><b><a href="{{ .Permalink }}">{{ .Title }}</a></big></b>
-    {{ if .Params.tags }}<i>{{ range .Params.tags }}<a href="/tags/{{ . | urlize }}">{{ printf "%s%s" " #" . }}</a>{{ end }}</i>{{ end }}   
-    </td></tr>
+        <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
+        <big><b><a href="{{ .Permalink }}">{{ .Title }}</a></big></b>
+        {{ if .Params.tags }}<i>{{ range .Params.tags }}<a href="/tags/{{ . | urlize }}">{{ printf "%s%s" " #" . }}</a>{{ end }}</i>{{ end }}   
+        </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
 
     {{ partial "footer.html" . }}
-
   </body>
 
 </html>
