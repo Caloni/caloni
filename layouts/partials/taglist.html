@@ -8,5 +8,5 @@
     {{ if .Params.review }} &middot; {{ delimit .Params.review " &middot; " }}{{ end }}
     {{ if .Params.imdb }} &middot; <a href="https://www.imdb.com/title/tt{{ .Params.imdb }}" title="Internet Movie Database">IMDB</a>{{ end }}
     {{ if .Params.imdb }} &middot; <a href="https://letterboxd.com/imdb/{{ .Params.imdb }}" title="Letterboxd">Letterboxd</a>{{ end }}
-    &middot; <a href="https://twitter.com/intent/tweet?text={{ .Title }} {{ .Permalink }} from @caloni " title="Twitter">Twitter</big></a>
+    &middot; <a href="https://twitter.com/intent/tweet?text={{ .Summary | safeHTML | truncate 120 "..." -}}%20{{ .Permalink }} from @caloni " title="Twitter">Twitter</big></a>
 {{ end }}
