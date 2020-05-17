@@ -4,4 +4,5 @@ title: "{{ replace .TranslationBaseName "-" " " | title }}"
 desc: "{{ replace .TranslationBaseName "-" " " | title }}"
 categories: [ "blog" ]
 tags: [ "" ]
+draft: true
 ---
