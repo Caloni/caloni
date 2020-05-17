@@ -1,0 +1,2 @@
+{{ with .NextInSection }}<span style="float: right;">{{ .Title }}<a href="{{ .Permalink }}"><span class="icon"><i class="fa fa-arrow-right"></i></span></a></span>{{ end }}
+{{ with .PrevInSection }}<span style="float: left;"><a href="{{ .Permalink }}"><span class="icon"><i class="fa fa-arrow-left"></i></span></a>{{ .Title }}</span>{{ end }}
