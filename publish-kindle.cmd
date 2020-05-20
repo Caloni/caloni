@@ -1,6 +1,6 @@
 rem @echo off
 copy /y layouts\book.html layouts\index.html
-hugo
+hugo --buildDrafts
 pushd public
 move /y index.html book.html
 kindlegen.exe book.opf -o caloni.mobi
