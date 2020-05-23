@@ -1,8 +1,8 @@
 import sys
+from imdb import IMDb
 
 def print_desc(imdb, args):
     castMax = 3 if len(args) == 0 else int(args[0])
-    from imdb import IMDb
     ia = IMDb()
     movie = ia.get_movie(imdb)
     originalTitle = '"' + movie["title"] + '"'
@@ -38,8 +38,29 @@ def print_desc(imdb, args):
     print('stars: "3/5"')
 
 
+def save_database(imdb, path):
+    ignore_keys = [ 'synopsis', 'plot', 'writer', 'director', 'miscellaneous' ]
+    f = open(path, 'w', encoding='utf8')
+    ia = IMDb()
+    movie = ia.get_movie(imdb)
+    f.write('[imdb]\n"id" = "' + imdb + '"\n')
+    for k, v in movie.iteritems():
+        if k not in ignore_keys:
+            if type(v) == type([]):
+                items = map(lambda s: '"' + str(s).replace('"', "'") + '"', v[0:6])
+                items = list(dict.fromkeys(items))
+                items = [i for i in items if i and i != '""'] 
+                v = ", ".join(items)
+                f.write('"' + k + '" = [ ' + str(v) + ' ]\n')
+            else:
+                f.write('"' + k + '" = "' + str(v).replace('"', "'") + '"\n')
+
+
 if len(sys.argv) < 2:
-    print('How to use: python imdb.py imdb')
+    print('How to use: python movies.py imdb')
 else:
-    print_desc(sys.argv[1], sys.argv[2:])
+    if sys.argv[1] == 'cinemaqui':
+        print_desc(sys.argv[2], sys.argv[3:])
+    else:
+        save_database(sys.argv[1], sys.argv[2])
 
