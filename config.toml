@@ -18,5 +18,6 @@ copyright = "Copyright é invenção do capitalismo burguês opressor. Todos os 
 [params]
     baseURL = "http://www.caloni.com.br"
     contentGit = "https://github.com/Caloni/post"
+    blogGit = "https://github.com/Caloni/caloni"
     googleAnalytics = "UA-50557403-2"
     namespace = "caloni"
