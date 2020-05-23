@@ -1,14 +1,19 @@
 {{ if .Date.After (time "2001-01-01")}}
     {{ if .Params.stars }}{{ partial "stars.html" . }}{{ end }}
-    {{ .Params.desc }}
-    {{ if .Params.stars }} {{ .Params.stars }} {{ end }}
+    {{ with (index .Site.Data.post .File.BaseFileName) }}
+        {{ with .imdb }}
+            {{ .title }}
+            ({{ if .countries }}{{ delimit .countries ", " }}{{ else }}Unknwown{{ end }}, {{ .year }}).
+            {{ if .directors }} Dirigido por {{ delimit .directors ", " }}.{{ end }}
+            {{ if .writers }} Escrito por {{ delimit .writers ", " }}.{{ end }}
+            {{ if .cast }} Com {{ delimit .cast ", " }}.{{ end }}
+             &middot; <a href="https://www.imdb.com/title/tt{{ .id }}" title="Internet Movie Database">IMDB</a>
+             &middot; <a href="https://letterboxd.com/imdb/{{ .id }}" title="Letterboxd">Letterboxd</a>
+        {{ end }}
+        &middot; <a href="{{ $.Site.Params.BlogGit }}/blob/master/data/post/{{ $.File.BaseFileName }}.toml">More Details</a>
+    {{ end }}
     {{ if .Params.categories }} {{ range .Params.categories }} &middot; <a href="/categories/{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
     {{ if .Params.tags }} {{ range .Params.tags }} &middot; <a href="/tags/{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
-    &middot; {{ .PublishDate.Format "2006-01-02" }}
     {{ if .Params.review }} &middot; {{ delimit .Params.review " &middot; " }}{{ end }}
-    {{ if .Params.imdb }} &middot; <a href="https://www.imdb.com/title/tt{{ .Params.imdb }}" title="Internet Movie Database">IMDB</a>{{ end }}
-    {{ if .Params.imdb }} &middot; <a href="https://letterboxd.com/imdb/{{ .Params.imdb }}" title="Letterboxd">Letterboxd</a>{{ end }}
     &middot; <a href="https://twitter.com/intent/tweet?text={{ .Summary | safeHTML | truncate 120 "..." -}}%20{{ .Permalink }} from @caloni " title="Twitter">Twitter</big></a>
-    {{ with (index .Site.Data.post .File.BaseFileName) }}
-    {{ end }}
 {{ end }}
