@@ -12,7 +12,15 @@
         {{ partial "icons.html" . }}
         <a href="{{ .Permalink }}"><b><big>{{ .Title }}</big></b></a>
         {{ partial "stars.html" . }}
-        {{ .Params.desc }}
+        {{ with (index .Site.Data.post .File.BaseFileName) }}
+            {{ with .imdb }}
+                {{ .title }}
+                ({{ if .countries }}{{ delimit .countries ", " }}{{ else }}Unknwown{{ end }}, {{ .year }}).
+                {{ if .directors }} Dirigido por {{ delimit .directors ", " }}.{{ end }}
+                {{ if .writers }} Escrito por {{ delimit .writers ", " }}.{{ end }}
+                {{ if .cast }} Com {{ delimit .cast ", " }}.{{ end }}
+            {{ end }}
+        {{ end }}
         {{ if .Params.stars }}{{ .Params.stars }}{{ end }}
         {{ if .Params.tags }}<i>{{ range .Params.tags }}{{ printf "%s%s" " #" . }}{{ end }}</i>{{ end }}   
          &middot; {{ .PublishDate.Format "2006-01-02" }}

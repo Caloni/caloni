@@ -5,5 +5,15 @@
   {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
   <guid>{{ .Permalink }}</guid>
   <description>{{ .Summary | html }}</description>
-  <details>{{ with .Params.desc }}{{ . }}{{ end }}</details>
+  <details>
+  {{ with (index .Site.Data.post .File.BaseFileName) }}
+      {{ with .imdb }}
+          {{ .title }}
+          ({{ if .countries }}{{ delimit .countries ", " }}{{ else }}Unknwown{{ end }}, {{ .year }}).
+          {{ if .directors }} Dirigido por {{ delimit .directors ", " }}.{{ end }}
+          {{ if .writers }} Escrito por {{ delimit .writers ", " }}.{{ end }}
+          {{ if .cast }} Com {{ delimit .cast ", " }}.{{ end }}
+      {{ end }}
+  {{ end }}
+  </details>
 </item>

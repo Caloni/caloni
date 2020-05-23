@@ -15,5 +15,5 @@
     {{ if .Params.categories }} {{ range .Params.categories }} &middot; <a href="/categories/{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
     {{ if .Params.tags }} {{ range .Params.tags }} &middot; <a href="/tags/{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
     {{ if .Params.review }} &middot; {{ delimit .Params.review " &middot; " }}{{ end }}
-    &middot; <a href="https://twitter.com/intent/tweet?text={{ .Summary | safeHTML | truncate 120 "..." -}}%20{{ .Permalink }} from @caloni " title="Twitter">Twitter</big></a>
+    &middot; <a href="https://twitter.com/intent/tweet?text={{ .Summary | safeHTML | truncate 120 "..." -}}%20{{ .Permalink }} from @caloni " title="Twitter">Twitter</big></a> &middot;
 {{ end }}
