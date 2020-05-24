@@ -1,6 +1,6 @@
 {{ if .Date.After (time "2001-01-01")}}
     {{ if .Params.stars }}{{ partial "stars.html" . }}{{ end }}
-    {{ with (index .Site.Data.post .File.BaseFileName) }}
+    {{ with .File }}{{ with (index $.Site.Data.post .BaseFileName) }}
         {{ with .imdb }}
             {{ .title }}
             ({{ if .countries }}{{ delimit .countries ", " }}{{ else }}Unknwown{{ end }}, {{ .year }}).
@@ -11,7 +11,7 @@
              &middot; <a href="https://letterboxd.com/imdb/{{ .id }}" title="Letterboxd">Letterboxd</a>
         {{ end }}
         &middot; <a href="{{ $.Site.Params.BlogGit }}/blob/master/data/post/{{ $.File.BaseFileName }}.toml">More Details</a>
-    {{ end }}
+    {{ end }}{{ end }}
     {{ if .Params.categories }} {{ range .Params.categories }} &middot; <a href="/categories/{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
     {{ if .Params.tags }} {{ range .Params.tags }} &middot; <a href="/tags/{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
     {{ if .Params.review }} &middot; {{ delimit .Params.review " &middot; " }}{{ end }}

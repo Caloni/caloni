@@ -6,7 +6,7 @@
   <guid>{{ .Permalink }}</guid>
   <description>{{ .Summary | html }}</description>
   <details>
-  {{ with (index .Site.Data.post .File.BaseFileName) }}
+  {{ with .File }}{{ with (index $.Site.Data.post .BaseFileName) }}
       {{ with .imdb }}
           {{ .title }}
           ({{ if .countries }}{{ delimit .countries ", " }}{{ else }}Unknwown{{ end }}, {{ .year }}).
@@ -14,6 +14,6 @@
           {{ if .writers }} Escrito por {{ delimit .writers ", " }}.{{ end }}
           {{ if .cast }} Com {{ delimit .cast ", " }}.{{ end }}
       {{ end }}
-  {{ end }}
+  {{ end }}{{ end }}
   </details>
 </item>
