@@ -56,11 +56,27 @@ def save_database(imdb, path):
                 f.write('"' + k + '" = "' + str(v).replace('"', "'") + '"\n')
 
 
+def search_movie(query):
+    ia = IMDb()
+    movies = ia.search_movie(query)
+    results = []
+    for m in movies:
+        plot = ia.get_movie_plot(m.movieID)['data']['plot'][0][0:140]
+        results.append({ 'id': str(m.movieID), 'title': str(m), 'plot': plot})
+    for r in results:
+        print(r)
+    opt = input('what is the movie? ')
+    return results[int(opt)]['id']
+
+
 if len(sys.argv) < 2:
     print('How to use: python movies.py imdb')
 else:
     if sys.argv[1] == 'cinemaqui':
         print_desc(sys.argv[2], sys.argv[3:])
+    elif sys.argv[1] == 'search':
+        imdb = search_movie(sys.argv[2].replace('-', ' '))
+        save_database(imdb, sys.argv[3])
     else:
         save_database(sys.argv[1], sys.argv[2])
 
