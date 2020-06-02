@@ -60,8 +60,12 @@ def search_movie(query):
     ia = IMDb()
     movies = ia.search_movie(query)
     results = []
-    for m in movies:
-        plot = ia.get_movie_plot(m.movieID)['data']['plot'][0][0:140]
+    for m in movies[0:5]:
+        plot = ia.get_movie_plot(m.movieID)
+        if 'plot' in plot['data']:
+            plot = plot['data']['plot'][0][0:140]
+        else:
+            plot = 'This is a Michael Bay plot.'
         results.append({ 'id': str(m.movieID), 'title': str(m), 'plot': plot})
     for r in results:
         print(r)
