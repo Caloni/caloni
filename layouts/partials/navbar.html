@@ -31,7 +31,7 @@
       <div class="navbar-end" style="padding: 10px;">
       {{- $node := . }}
       <big><b>
-      {{ range .Site.Taxonomies.categories }} <a title="posts dessa categoria" href="/categories/{{ .Page.Title | urlize }}">{{ .Page.Title }}</a> &middot; {{ end }}
+      {{ range .Site.Taxonomies.categories }} <a title="posts dessa categoria" href="/categories/{{ .Page.Title | urlize }}">{{ .Page.Title }}</a> {{ end }}
       {{ range .Site.Menus.main }} <a href="{{ .URL }}"><span class="icon"><i class="fa fa-{{ .Name }}"></i></a>{{ end }}
       </big></b>
       </div>

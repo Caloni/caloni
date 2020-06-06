@@ -1,4 +1,4 @@
-<p class="subtitle"><small>
+<p class="subtitle">
 <i>{{ partial "icons.html" . }}
 {{ if .Date.After (time "2001-01-01")}}
     {{ if .File }}<a href="{{ .Site.Params.ContentGit }}/commits/master/{{ .File.LogicalName }}" title="History">{{ end }}
@@ -7,4 +7,4 @@
 {{ end }}
 &middot; <span class="icon"><i class="fa fa-clock-o"></span></i>{{ .ReadingTime }} </i>
 {{ if .File }} &middot; <span class="icon"><i class="fa fa-pencil"></i></span><a href="{{ .Site.Params.ContentGit }}/blob/master/{{ .File.LogicalName }}" title="GitHub">{{ .WordCount }}</a>{{ end }}
-</small></p>
+</p>

@@ -9,8 +9,8 @@
             <div style="min-height:56vh">
               <big><b>
               <a title="lista a busca completa do saite (mais lenta)" href="/search">search</i></span></a>
-              &middot; <a title="lista todos os títulos do saite" href="/titles">titles</a>
-              &middot; <a title="lista de todas as tags" href="/tags">tags</a>
+              <a title="lista todos os títulos do saite" href="/titles">titles</a>
+              <a title="lista de todas as tags" href="/tags">tags</a>
               </b></big>
 
               {{ .Content }}
@@ -18,6 +18,6 @@
               <div><big><b><span style="visibility: hidden; padding: 5px;" name="results" id="results">...</span></b></big></div>
               <table class="sortable">
               <div style="padding-bottom: 1em;"></div>
-              <input type="text" name="filter" value="" id="filter" placeholder="filter" style="width: 60%; font-size: 16px; margin-top: 1em; margin-left: 10px;" title=""/>
-              <button id="filterbutton" onclick="ApplyFilter($('#filter').val());"><span class="icon"><i class="fa fa-filter"></i></span></button>
-              <button id="randombutton" onclick="window.location = randomPost;"><span class="icon"><i class="fa fa-magic"></i></span></button>
+              <input type="text" name="filter" value="" id="filter" placeholder="filter" style="width: 60%; font-size: 1.5rem; margin-top: 1em; margin-left: 10px;" title=""/>
+              <button id="filterbutton" style="font-size: 1.5rem;" onclick="ApplyFilter($('#filter').val());"><span class="icon"><i class="fa fa-filter"></i></span></button>
+              <button id="randombutton" style="font-size: 1.5rem;" onclick="window.location = randomPost;"><span class="icon"><i class="fa fa-magic"></i></span></button>
