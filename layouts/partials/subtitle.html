@@ -5,6 +5,6 @@
     {{ .Date.Format "2006-01-02" }}
     {{ if .File }}</a>{{ end }}
 {{ end }}
-&middot; <span class="icon"><i class="fa fa-clock-o"></span></i>{{ .ReadingTime }} </i>
-{{ if .File }} &middot; <span class="icon"><i class="fa fa-pencil"></i></span><a href="{{ .Site.Params.ContentGit }}/blob/master/{{ .File.LogicalName }}" title="GitHub">{{ .WordCount }}</a>{{ end }}
+<span class="icon"><i class="fa fa-clock-o"></span></i>{{ .ReadingTime }} </i>
+{{ if .File }} <span class="icon"><i class="fa fa-pencil"></i></span><a href="{{ .Site.Params.ContentGit }}/blob/master/{{ .File.LogicalName }}" title="GitHub">{{ .WordCount }}</a>{{ end }}
 </p>
