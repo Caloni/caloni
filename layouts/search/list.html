@@ -22,10 +22,10 @@
             {{ end }}
         {{ end }}{{ end }}
         {{ if .Params.stars }}{{ .Params.stars }}{{ end }}
-        {{ if .Params.tags }}<i>{{ range .Params.tags }}{{ printf "%s%s" " #" . }}{{ end }}</i>{{ end }}   
-         &middot; {{ .PublishDate.Format "2006-01-02" }}
-         {{ if .Params.review }} &middot; {{ delimit .Params.review " &middot; " }}{{ end }}
-         &middot; <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
+        {{ if .Params.tags }}<i>{{ range .Params.tags }}{{ printf "%s%s" " " . }}{{ end }}</i>{{ end }}   
+         {{ .PublishDate.Format "2006-01-02" }}
+         {{ if .Params.review }} {{ delimit .Params.review " " }}{{ end }}
+         <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
         </small>
         </td></tr>
     {{ end }}
