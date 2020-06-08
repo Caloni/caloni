@@ -9,8 +9,9 @@
   <body style="min-height:100vh;display:flex;flex-direction:column">
 
     {{ partial "navbar.html" . }}
+    {{ partial "section_begin.html" . }}
+    {{ partial "lists.html" . }}
     {{ partial "list_begin.html" . }}
-
     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.categories }}
         {{ range first 3 $taxonomy.Pages }} 
             <tr><td style="border-bottom: 1px dotted black; padding: 10px;">{{ partial "icons.html" . }}
@@ -20,8 +21,8 @@
             </td></tr>
         {{ end }}
     {{ end }}
-
     {{ partial "list_end.html" . }}
+    {{ partial "section_end.html" . }}
     {{ partial "footer.html" . }}
 
   </body>

@@ -6,6 +6,7 @@
   <body style="min-height:100vh;display:flex;flex-direction:column">
 
     {{ partial "navbar.html" . }}
+    {{ partial "section_begin.html" . }}
     {{ partial "list_begin.html" . }}
 
     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
@@ -21,6 +22,7 @@
     {{ end }}
 
     {{ partial "list_end.html" . }}
+    {{ partial "section_end.html" . }}
     {{ partial "footer.html" . }}
 
   </body>

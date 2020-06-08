@@ -12,7 +12,7 @@
         {{- else if .IsPage }}
         <div class="title is-6">&nbsp;{{ .Site.Title }}</div>
         {{- else }}
-        <div class="title is-6">&nbsp;{{ .Site.Params.Namespace }}::{{ .Title }}</div>
+        <div class="title is-6">&nbsp;{{ .Site.Params.Namespace }}::{{ lower .Title }}</div>
         {{- end }}
       </a>
 
