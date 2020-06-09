@@ -22,7 +22,7 @@ git pull
 git push
 popd
 
-pushd static/code
+pushd static\code
 git add --all
 git commit -m "publish: %*"
 git pull
