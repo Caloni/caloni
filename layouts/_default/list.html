@@ -8,10 +8,10 @@
     {{ partial "section_begin.html" . }}
     {{ partial "filter.html" . }}
     {{ partial "list_begin.html" . }}
-    {{ range .Pages }}<tr><td style="border-bottom: 1px dotted black; padding: 10px;">{{ partial "icons.html" . }}
+    {{ range .Pages }}<tr><td style="border-bottom: 1px dotted black; padding: 10px;">
         <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
-        <big><b><a href="{{ .Permalink }}">{{ .Title }}</a></big></b>
-        {{ if .Params.tags }}<i>{{ range .Params.tags }}<a href="/tags/{{ . | urlize }}">{{ printf "%s%s" " " . }}</a>{{ end }}</i>{{ end }}   
+        <b><a href="{{ .Permalink }}">{{ .Title }}</a></b>
+        {{ if .Params.tags }}<i>{{ range .Params.tags }}<a style="color: gray;" href="/tags/{{ . | urlize }}">{{ printf "%s%s" " " . }}</a>{{ end }}</i>{{ end }}   
         </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}

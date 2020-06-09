@@ -1,5 +1,5 @@
 <p class="subtitle">
-<i>{{ partial "icons.html" . }}
+<i>
 {{ if .Date.After (time "2001-01-01")}}
     {{ if .File }}<a href="{{ .Site.Params.ContentGit }}/commits/master/{{ .File.LogicalName }}" title="History">{{ end }}
     {{ .Date.Format "2006-01-02" }}

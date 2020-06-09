@@ -13,10 +13,9 @@
       {{ range $key, $value := $taxonomy }}
         <tr><td style="border-bottom: 1px dotted black; padding: 10px;">
         {{ range first 1 $value.Pages }} 
-        {{ partial "icons.html" . }}
-        <a href="/{{ $taxonomyname }}/{{ $key | urlize }}">{{ $key }}<span style="font-size: 0.6em;"> ({{ $value.Count }})</span></a>
+        <b><a href="/{{ $taxonomyname }}/{{ $key | urlize }}">{{ $key }}<span style="font-size: 0.6em;"> ({{ $value.Count }})</span></a></b>
         <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
-        <big><b><a href="{{ .Permalink }}">{{ .Title }}</a></big></b>{{ end }}
+        <b><a style="color: gray;" href="{{ .Permalink }}">{{ .Title }}</a></b>{{ end }}
         </td></tr>
       {{ end }}
     {{ end }}

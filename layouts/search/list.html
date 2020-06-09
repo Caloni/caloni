@@ -10,8 +10,7 @@
     {{ partial "list_begin.html" . }}
     {{ range .Site.RegularPages }}
         <tr><td style="border-bottom: 1px dotted black; padding: 10px;">
-        {{ partial "icons.html" . }}
-        <a href="{{ .Permalink }}"><b><big>{{ .Title }}</big></b></a>
+        <a href="{{ .Permalink }}"><b>{{ .Title }}</b></a>
         {{ partial "stars.html" . }}
         {{ with .File }}{{ with (index $.Site.Data.post .BaseFileName) }}
             {{ with .imdb }}
