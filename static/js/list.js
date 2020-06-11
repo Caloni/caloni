@@ -3,33 +3,30 @@ var randomPost = "/";
 
 function ApplyFilter(filter)
 {
-    query = $.trim(filter); //trim white space
-    queryRegex = $.trim(query);
-    regex = new RegExp(queryRegex, "i");
-    hides = 0;
-    shows = 0;
+    if( filter )
+    {
+        console.log("search query:", filter);
 
-    $.each( $('.sortable'), function(i, sortable) {
-        $('tr', sortable).each(function() {
-        var srch = $(this).text() + $(this).find('a').prop('title');
-        if( srch.search(regex) < 0 )
+        $.each( $('.sortable tr'), function() 
         {
-            $(this).hide()
-            hides++;
-        }
-        else
-        {
-            $(this).show();
-            shows++;
-        }
+            var content = $.trim( $(this).text().replace(/[\t\n]+/g,' ').replace(/  +/g, ' ') );
+            var result = content.match(new RegExp(filter, "i"));
+
+            if( result )
+            {
+                $(this).show();
+            }
+            else
+            {
+                $(this).hide();
+            }
+
         });
-    });
 
-    total = shows + hides;
-    var showing = $('.sortable tr:visible').length;
-    randomPostIndex = Math.floor(Math.random() * showing);
-    randomPost = $('.sortable tr:visible').eq(randomPostIndex).find('a').prop('href');
-    $('#results').text(shows + '/' + total);
+        var showing = $('.sortable tr:visible').length;
+        randomPostIndex = Math.floor(Math.random() * showing);
+        randomPost = $('.sortable tr:visible').eq(randomPostIndex).find('a').prop('href');
+    }
 }
 
 var QueryString = function () {
