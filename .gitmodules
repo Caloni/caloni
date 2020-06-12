@@ -1,6 +1,0 @@
-[submodule "content/post"]
-	path = content/post
-	url = git@github.com:Caloni/post.git
-[submodule "calonibot"]
-	path = calonibot
-	url = git@github.com:Caloni/calonibot.git
