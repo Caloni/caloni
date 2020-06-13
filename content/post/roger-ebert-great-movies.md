@@ -1,0 +1,371 @@
+---
+categories: [ "cinema" ]
+date: "2019-09-22"
+tags: [ "draft", "lists" ]
+title: "Roger Ebert Great Movies"
+---
+ - 12 Angry Men 1957
+ - 2001: A Space Odyssey 1968
+ - 25th Hour 2002
+ - 3 Women 1977
+ - 8½ 1963
+ - Ace in the Hole 1951
+ - Adaptation. 2002
+ - The Adventures of Robin Hood 1938
+ - After Dark, My Sweet 1990
+ - After Hours 1985
+ - The Age of Innocence 1993
+ - Aguirre, the Wrath of God 1972
+ - A.I. Artificial Intelligence 2001
+ - Ali: Fear Eats the Soul 1974
+ - Alien 1979
+ - All About Eve 1950
+ - Amadeus 1984
+ - Amarcord 1973
+ - Annie Hall 1977
+ - The Apartment 1960
+ - Apocalypse Now 1979
+ - Pather Panchali 1955
+ - Army of Shadows 1969
+ - Atlantic City 1980
+ - Au Hasard Balthazar 1966
+ - Au Revoir les Enfants 1987
+ - An Autumn Afternoon 1962
+ - Babel 2006
+ - Badlands 1973
+ - The Ballad of Narayama 1958
+ - The Band Wagon 1953
+ - The Bank Dick 1940
+ - Baraka 1992
+ - Barry Lyndon 1975
+ - The Battle of Algiers 1966
+ - Battleship Potemkin 1925
+ - Beat the Devil 1953
+ - Beauty and the Beast 1946
+ - Being There 1979
+ - Belle de Jour 1967
+ - La Belle Noiseuse 1991
+ - The Best Years of Our Lives 1946
+ - Bicycle Thieves 1948
+ - The Big Heat 1953
+ - The Big Lebowski 1998
+ - The Big Red One 1980
+ - The Big Sleep 1946
+ - The Birth of a Nation 1915
+ - Blade Runner 1982
+ - Blow-Up 1966
+ - The Blue Kite 1993
+ - Bob le Flambeur 1956
+ - Body Heat 1981
+ - Bonnie and Clyde 1967
+ - Breathless 1960
+ - The Bride of Frankenstein 1935
+ - The Bridge on the River Kwai 1957
+ - Bring Me the Head of Alfredo Garcia 1974
+ - Broken Blossoms 1919
+ - Le Boucher 1970
+ - The Cabinet of Dr. Caligari 1920
+ - Cabiria 1914
+ - Caché 2005
+ - Casablanca 1942
+ - Cat People 1942
+ - La Cérémonie 1995
+ - Un Chien Andalou 1929
+ - Children of Paradise 1945
+ - Chimes at Midnight 1965
+ - Chinatown 1974
+ - Chop Shop 2007
+ - A Christmas Story 1983
+ - The Circus 1928
+ - Citizen Kane 1941
+ - City Lights 1931
+ - Cléo from 5 to 7 1962
+ - La Collectionneuse 1967
+ - The Color Purple 1985
+ - Come and See 1985
+ - Contact 1997
+ - The Conversation 1974
+ - Cool Hand Luke 1967
+ - Cries and Whispers 1972
+ - Crimes and Misdemeanors 1989
+ - Crumb 1994
+ - Dark City 1998
+ - Day for Night 1973
+ - Days of Heaven 1978
+ - The Dead 1987
+ - The Decalogue 1989
+ - Departures 2008
+ - Detour 1945
+ - Diary of a Country Priest 1951
+ - Diary of a Lost Girl 1929
+ - The Discreet Charm of the Bourgeoisie 1972
+ - Diva 1981
+ - Do the Right Thing 1989
+ - Dog Day Afternoon 1975
+ - Don't Look Now 1973
+ - Double Indemnity 1944
+ - The Double Life of Véronique 1991
+ - Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 1964
+ - Dracula 1931
+ - Duck Soup 1933
+ - E.T. the Extra-Terrestrial 1982
+ - The Earrings of Madame de… 1953
+ - Easy Rider 1969
+ - El Norte 1983
+ - El Topo 1970
+ - The Enigma of Kaspar Hauser 1974
+ - Eternal Sunshine of the Spotless Mind 2004
+ - Exotica 1994
+ - The Exterminating Angel 1962
+ - The Fall of the House of Usher 1928
+ - Fanny & Alexander 1982
+ - Fargo 1996
+ - Faust 1926
+ - The Firemen's Ball 1967
+ - Fitzcarraldo 1982
+ - Five Easy Pieces 1970
+ - Floating Weeds 1959
+ - Forbidden Games 1952
+ - The 400 Blows 1959
+ - French Cancan 1955
+ - Gates of Heaven 1978
+ - The General 1926
+ - The Godfather 1972
+ - The Godfather: Part II 1974
+ - Goldfinger 1964
+ - Gone with the Wind 1939
+ - The Good, the Bad and the Ugly 1966
+ - GoodFellas 1990
+ - The Gospel According to Matthew 1964
+ - Grand Illusion 1937
+ - The Grapes of Wrath 1940
+ - Grave of the Fireflies 1988
+ - The Great Dictator 1940
+ - Great Expectations 1946
+ - Greed 1924
+ - The Grey Zone 2001
+ - Groundhog Day 1993
+ - The Hairdresser's Husband 1990
+ - Harakiri 1962
+ - A Hard Day's Night 1964
+ - Heart of Glass 1976
+ - Hoop Dreams 1994
+ - House of Games 1987
+ - Howards End 1992
+ - The Hustler 1961
+ - Ikiru 1952
+ - In a Lonely Place 1950
+ - In Cold Blood 1967
+ - Inherit the Wind 1960
+ - It's a Wonderful Life 1946
+ - Ivan the Terrible, Part I 1944
+ - Ivan the Terrible, Part II: The Boyars' Plot 1958
+ - Jaws 1975
+ - JFK 1991
+ - Johnny Guitar 1954
+ - Jules and Jim 1962
+ - Juliet of the Spirits 1965
+ - Killer of Sheep 1978
+ - The Killing 1956
+ - Kind Hearts and Coronets 1949
+ - King Kong 1933
+ - L'Atalante 1934
+ - L'Avventura 1960
+ - L.A. Confidential 1997
+ - La Dolce Vita 1960
+ - The Lady Eve 1941
+ - The Last Laugh 1924
+ - The Last Picture Show 1971
+ - Last Tango in Paris 1972
+ - The Last Temptation of Christ 1988
+ - Last Year at Marienbad 1961
+ - Late Spring 1949
+ - Laura 1944
+ - Lawrence of Arabia 1962
+ - Le Samouraï 1967
+ - Leaving Las Vegas 1995
+ - Leolo 1992
+ - Léon Morin, Priest 1961
+ - The Leopard 1963
+ - The Life and Death of Colonel Blimp 1943
+ - The Life of Oharu 1952
+ - The Long Goodbye 1973
+ - Lost in Translation 2003
+ - M 1931
+ - Magnolia 1999
+ - Make Way for Tomorrow 1937
+ - The Maltese Falcon 1941
+ - A Man Escaped 1956
+ - The Man Who Laughs 1928
+ - The Man Who Shot Liberty Valance 1962
+ - Man with a Movie Camera 1929
+ - The Manchurian Candidate 1962
+ - Manhattan 1979
+ - The Marriage of Maria Braun 1979
+ - The Match Factory Girl 1990
+ - McCabe & Mrs. Miller 1971
+ - Mean Streets 1973
+ - Mephisto 1981
+ - Metropolis 1927
+ - Mishima: A Life in Four Chapters 1985
+ - Mon Oncle 1958
+ - Mon oncle Antoine 1971
+ - My American Uncle 1980
+ - Monsieur Hire 1989
+ - Moolaadé 2004
+ - Moonstruck 1987
+ - Monsieur Hulot's Holiday 1953
+ - Mulholland Drive 2001
+ - The Music Room 1958
+ - My Darling Clementine 1946
+ - My Dinner with Andre 1981
+ - My Fair Lady 1964
+ - My Man Godfrey 1936
+ - My Neighbor Totoro 1988
+ - Mystery Train 1989
+ - Nanook of the North 1922
+ - Nashville 1975
+ - The Navigator 1924
+ - Network 1976
+ - Night Moves 1975
+ - The Night of the Hunter 1955
+ - Nights of Cabiria 1957
+ - Nosferatu 1922
+ - Nosferatu the Vampyre 1979
+ - Notorious 1946
+ - On the Waterfront 1954
+ - One Flew Over the Cuckoo's Nest 1975
+ - The Only Son 1936
+ - Ordet 1955
+ - Orpheus 1950
+ - Our Hospitality 1923
+ - Out of the Past 1947
+ - Pale Flower 1964
+ - Pan's Labyrinth 2006
+ - Pandora's Box 1929
+ - Paris, Texas 1984
+ - The Passion of Joan of Arc 1928
+ - Paths of Glory 1957
+ - Patton 1970
+ - Peeping Tom 1960
+ - Persona 1966
+ - The Phantom of the Opera 1925
+ - Pickpocket 1959
+ - Picnic at Hanging Rock 1975
+ - Pink Floyd: The Wall 1982
+ - Pinocchio 1940
+ - Pixote 1981
+ - Planes, Trains and Automobiles 1987
+ - PlayTime 1967
+ - The Pledge 2001
+ - A Prairie Home Companion 2006
+ - The Producers 1967
+ - Psycho 1960
+ - Pulp Fiction 1994
+ - Raging Bull 1980
+ - Raiders of the Lost Ark 1981
+ - Raise the Red Lantern 1991
+ - Ran 1985
+ - Rashomon 1950
+ - Rear Window 1954
+ - Rebel Without a Cause 1955
+ - Red Beard 1965
+ - Red River 1948
+ - The Red Shoes 1948
+ - Richard III 1995
+ - Rififi 1955
+ - The Right Stuff 1983
+ - Rio Bravo 1959
+ - Ripley's Game 2002
+ - Rocco and His Brothers 1960
+ - The River 1951
+ - Romeo and Juliet 1968
+ - The Rules of the Game 1939
+ - Safety Last! 1923
+ - Samurai Rebellion 1967
+ - Sansho the Bailiff 1954
+ - Santa Sangre 1989
+ - Saturday Night Fever 1977
+ - Say Anything… 1989
+ - Scarface 1983
+ - The Scarlet Empress 1934
+ - Schindler's List 1993
+ - The Searchers 1956
+ - Secrets & Lies 1996
+ - Senso 1954
+ - Se7en 1995
+ - Seven Samurai 1954
+ - The Seventh Seal 1957
+ - Shadow of a Doubt 1943
+ - Shane 1953
+ - The Shawshank Redemption 1994
+ - The Shining 1980
+ - Shoah 1985
+ - The Silence of the Lambs 1991
+ - The Silence 1963
+ - Singin' in the Rain 1952
+ - Smiles of a Summer Night 1955
+ - Snow White and the Seven Dwarfs 1937
+ - Solaris (1972)
+ - Some Like It Hot 1959
+ - Souls for Sale 1923
+ - The Spirit of the Beehive 1973
+ - Spirited Away 2001
+ - Spring, Summer, Fall, Winter… and Spring 2003
+ - Stagecoach 1939
+ - Star Wars 1977
+ - Steamboat Bill, Jr. 1928
+ - Strangers on a Train 1951
+ - Stroszek 1977
+ - A Sunday in the Country 1984
+ - Sunrise: A Song of Two Humans 1927
+ - Sunset Boulevard 1950
+ - Superman 1978
+ - Sweet Smell of Success 1957
+ - Swing Time 1936
+ - A Tale of Winter 1992
+ - Taxi Driver 1976
+ - Tender Mercies 1983
+ - The Terrorist 1998
+ - The Thief of Bagdad 1940
+ - The Thin Man 1934
+ - The Third Man 1949
+ - This Is Spinal Tap 1984
+ - The Three Colors Trilogy
+ - Through a Glass Darkly 1961
+ - Tokyo Story 1953
+ - Top Hat 1935
+ - Touch of Evil 1958
+ - Touchez Pas au Grisbi 1954
+ - The Treasure of the Sierra Madre 1948
+ - Triumph of the Will 1935
+ - Trouble in Paradise 1932
+ - Ugetsu 1953
+ - Umberto D. 1952
+ - Unforgiven 1992
+ - Vengeance Is Mine 1979
+ - Veronika Voss 1982
+ - Vertigo 1958
+ - Victim 1961
+ - Viridiana 1961
+ - Vivre Sa Vie 1962
+ - Waking Life 2001
+ - Walkabout 1971
+ - Werckmeister Harmonies 2000
+ - West Side Story 1961
+ - What Ever Happened to Baby Jane? 1962
+ - The Wild Bunch 1969
+ - Wings of Desire 1987
+ - Winter Light 1963
+ - Withnail & I 1987
+ - The Wizard of Oz 1939
+ - Woman in the Dunes 1964
+ - A Woman Under the Influence 1974
+ - A Woman's Tale 1991
+ - Woodstock 1970
+ - WR: Mysteries of the Organism 1971
+ - Written on the Wind 1956
+ - Yankee Doodle Dandy 1942
+ - A Year of the Quiet Sun 1984
+ - Yellow Submarine 1968
+ - Yojimbo 1961
