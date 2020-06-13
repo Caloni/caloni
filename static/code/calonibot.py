@@ -44,6 +44,7 @@ import urllib.request
 from git import Repo
 import json
 import re
+import argparse
 
 import calonibot_auth as auth
 # sample for calonibot_auth.py:
@@ -77,8 +78,8 @@ response_sample = [
 ]
 
 
-def request_posts():
-    tree = ET.parse('index.xml')
+def request_posts(path):
+    tree = ET.parse(path)
     return tree
 
 
@@ -104,27 +105,37 @@ def find_posts(regex, root):
     return links[0:50]
 
 
-def echo(bot):
+def echo(params, bot):
     """Echo the message the user sent."""
     global update_id
-    repo = Repo('.')
-    repo.remotes[0].pull("master")
+    if params.repo:
+        try:
+            repo = Repo(params.repo)
+            repo.remotes[0].pull("master")
+        except Exception as e:
+            print("exception trying to pull repo " + params.repo + ": " + str(e))
     # Request updates after the last update_id
     for update in bot.get_updates(offset=update_id, timeout=10):
         update_id = update.update_id + 1
 
         if update.inline_query:
             regex = update.inline_query['query']
-            posts = request_posts()
+            posts = request_posts(params.rss)
             response = find_posts(regex, posts)
             update.inline_query.answer(response)
 
 
 def main():
 
-    if len(sys.argv) == 2:
-        lines = request_posts()
-        resp = find_post(sys.argv[1], lines)
+    argparser = argparse.ArgumentParser('Caloni BOT')
+    argparser.add_argument('--rss', help="RSS file to search.")
+    argparser.add_argument('--repo', help="Git repo working dir; update it if provided.")
+    argparser.add_argument('--find-post', help="Find single post test.")
+    params = argparser.parse_args()
+
+    if params.find_post:
+        lines = request_posts(params.rss)
+        resp = find_posts(params.find_post, lines)
         for r in resp:
             print(r)
         return
@@ -151,7 +162,7 @@ def main():
 
     while True:
         try:
-            echo(bot)
+            echo(params, bot)
         except NetworkError:
             sleep(1)
         except Unauthorized:
