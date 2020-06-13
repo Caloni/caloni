@@ -46,40 +46,27 @@ import json
 import re
 import argparse
 
-import calonibot_auth as auth
-# sample for calonibot_auth.py:
-# auth_token = 'telegram-bot-token'
-# google_search_cx = 'google-search-cx'
-# google_search_key = 'google-search-key'
-
-
 update_id = None
 thumb_url_sample = "http://caloni.com.br/images/caloni.png"
 
 response_sample = [
 
     InlineQueryResultArticle('1'
-        , u'C Resolve Tudo Clos'
-        , telegram.InputTextMessageContent('http://www.caloni.com.br/c-resolve-tudo-clos/')
-        , url='http://www.caloni.com.br'
+        , u'Wanderley Caloni'
+        , telegram.InputTextMessageContent('https://caloni.com.br/caloni/')
+        , url='https://caloni.com.br/caloni/'
         , thumb_url=thumb_url_sample)
 
     , InlineQueryResultArticle('2'
-        , 'Coroutines Em C: Picoro'
-        , telegram.InputTextMessageContent('http://www.caloni.com.br/coroutines-em-c-picoro/')
-        , url='http://www.caloni.com.br'
-        , thumb_url=thumb_url_sample)
-
-    , InlineQueryResultArticle('3'
-        , 'Const Int Pointer Var'
-        , telegram.InputTextMessageContent('http://www.caloni.com.br/const-int-pointer-var/')
-        , url='http://www.caloni.com.br'
+        , 'Search'
+        , telegram.InputTextMessageContent('https://caloni.com.br/search/')
+        , url='https://caloni.com.br/search/'
         , thumb_url=thumb_url_sample)
 ]
 
 
 def request_posts(path):
-    tree = ET.parse(path)
+    tree = ET.parse(path) if path else None
     return tree
 
 
@@ -88,19 +75,22 @@ def find_posts(regex, root):
     links = []
 
     counter = 1
-    for item in root.iter('item'):
-        title = item.find('title').text
-        desc = item.find('description').text
-        detail = item.find('details').text
-        link = item.find('link').text
-        mt = re.search(regex, title, flags=re.I) 
-        md = desc if desc == None else re.search(regex, desc, flags=re.I) 
-        md2 = detail if detail == None else re.search(regex, detail, flags=re.I) 
-        if mt or md or md2:
-            content = telegram.InputTextMessageContent(link)
-            links.append(InlineQueryResultArticle(str(counter), title, content, url=link, description=desc, thumb_url=thumb_url_sample))
-            counter += 1
-            if counter > 50: break
+    if root:
+        for item in root.iter('item'):
+            title = item.find('title').text
+            desc = item.find('description').text
+            detail = item.find('details').text
+            link = item.find('link').text
+            mt = re.search(regex, title, flags=re.I) 
+            md = desc if desc == None else re.search(regex, desc, flags=re.I) 
+            md2 = detail if detail == None else re.search(regex, detail, flags=re.I) 
+            if mt or md or md2:
+                content = telegram.InputTextMessageContent(link)
+                links.append(InlineQueryResultArticle(str(counter), title, content, url=link, description=desc, thumb_url=thumb_url_sample))
+                counter += 1
+                if counter > 50: break
+    else:
+        links = response_sample
 
     return links[0:50]
 
@@ -128,6 +118,7 @@ def echo(params, bot):
 def main():
 
     argparser = argparse.ArgumentParser('Caloni BOT')
+    argparser.add_argument('--auth', help="Telegram authorization token.")
     argparser.add_argument('--rss', help="RSS file to search.")
     argparser.add_argument('--repo', help="Git repo working dir; update it if provided.")
     argparser.add_argument('--find-post', help="Find single post test.")
@@ -149,7 +140,7 @@ def main():
     global update_id
     global response
     # Telegram Bot Authorization Token
-    bot = telegram.Bot(auth.auth_token)
+    bot = telegram.Bot(params.auth)
 
     # get the first pending update_id, this is so we can skip over it in case
     # we get an "Unauthorized" exception.
