@@ -1,4 +1,4 @@
-rem @echo off
+@echo off
 git add --all
 git commit -m "publish: %*"
 git pull
