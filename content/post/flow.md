@@ -6,4 +6,5 @@ tags: [ "books" ]
 title: "Flow"
 ---
  - Passei os recortes para o arquivo toml;
- - Instalei o app PIEL Survey para testar o ESM.
+ - Instalei o app PIEL Survey para testar o ESM;
+ - Lidos os recortes.

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2020-06-07"
 tags: [ "work" ]
 title: "Leak de Memória"
