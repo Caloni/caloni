@@ -1,5 +1,4 @@
 {{ if .Date.After (time "2001-01-01")}}
-    {{ if .Params.stars }}{{ partial "stars.html" . }}{{ end }}
     {{ with .File }}{{ with (index $.Site.Data.post .BaseFileName) }}
         {{ with .imdb }}
             {{ .title }}
