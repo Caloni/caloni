@@ -11,7 +11,6 @@
     {{ range .Site.RegularPages }}
         <tr><td style="border-bottom: 1px dotted black; padding: 10px;">
         <a href="{{ .Permalink }}"><b>{{ .Title }}</b></a>
-        {{ partial "stars.html" . }}
         {{ with .File }}{{ with (index $.Site.Data.post .BaseFileName) }}
             {{ with .imdb }}
                 {{ .title }}
@@ -21,7 +20,6 @@
                 {{ if .cast }} Com {{ delimit .cast ", " }}.{{ end }}
             {{ end }}
         {{ end }}{{ end }}
-        {{ if .Params.stars }}{{ .Params.stars }}{{ end }}
         {{ if .Params.tags }}<i>{{ range .Params.tags }}{{ printf "%s%s" " " . }}{{ end }}</i>{{ end }}   
          {{ .PublishDate.Format "2006-01-02" }}
          {{ if .Params.review }} {{ delimit .Params.review " " }}{{ end }}
