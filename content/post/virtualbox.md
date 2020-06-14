@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-07-04"
 tags: [ "draft", "tools" ]
 title: "VirtualBox"

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2011-03-23"
 tags: [ "draft", "tools" ]
 title: "Bazaar com Subversion"

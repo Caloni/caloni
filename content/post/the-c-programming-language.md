@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2007-10-12"
 tags: [ "draft", "books" ]
 title: "A Linguagem de Programação C"

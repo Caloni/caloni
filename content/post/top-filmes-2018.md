@@ -1,7 +1,7 @@
 ---
-categories: [ "blog" ]
+categories: [ "cinema" ]
 date: "2018-12-31"
-tags: [ "draft", "cinemaqui" ]
+tags: [ "draft", "lists", "cinemaqui" ]
 title: "Top Filmes 2018"
 ---
 Como usar esta lista: Antes de enumerar os 9 (nove) filmes que, acredito, mereçam constar em uma lista de consideração pelo Cinema, explico que listas nunca são exaustivas, nunca são permanentes e nunca são objetivas, mas subjetivas, dependendo do tempo-espaço e da pessoa que a compila. Essa que segue tenta fugir um pouco do lugar-comum, mas que irá falhar miseravelmente porque cinéfilos e críticos costumam enxergar a beleza no mesmo lugar. Porém, eu não assisti a todas as belezas cinematográficas que estrearam no Brasil esse ano, o que me dá um pouco de ponto-fora-da-curvisse salutar.

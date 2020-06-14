@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2020-04-18"
 tags: [ "draft", "events", "tools", "reversing" ]
 title: "Minha palestra sobre Windbg"

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2007-07-24"
 tags: [ "draft", "ccpp" ]
 title: "C++0x parcial no novo GCC 4.3"

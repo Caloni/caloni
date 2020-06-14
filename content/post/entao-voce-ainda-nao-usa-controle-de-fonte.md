@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2010-11-02"
 tags: [ "draft", "essays", "tools" ]
 title: "Então você ainda não usa controle de fonte?"

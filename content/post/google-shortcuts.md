@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2007-07-06"
 tags: [ "draft",  ]
 title: "Google shortcuts"

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2016-01-27"
 tags: [ "draft", "tools" ]
 title: "Exportando repositórios antigos do Bazaar para Git"

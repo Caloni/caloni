@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-06-04"
 tags: [ "draft", "tools" ]
 title: "Launchpad e a democracia do código-fonte"

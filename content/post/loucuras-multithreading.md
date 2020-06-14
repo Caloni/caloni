@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2011-03-18"
 tags: [ "draft", "debug" ]
 title: "Loucuras multithreading"

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-06-24"
 tags: [ "draft", "tools" ]
 title: "Como estou trabalhando com o Bazaar"

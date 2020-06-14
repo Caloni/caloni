@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2010-08-08"
 tags: [ "draft", "debug" ]
 title: "Não é minha culpa"

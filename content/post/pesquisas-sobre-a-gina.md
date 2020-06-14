@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-07-02"
 tags: [ "draft",  ]
 title: "Pesquisas sobre a GINA"

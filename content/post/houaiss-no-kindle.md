@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2011-03-22"
 tags: [ "draft", "projects" ]
 title: "Houaiss no Kindle"

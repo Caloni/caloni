@@ -9,6 +9,9 @@
             <a href="https://www.imdb.com/title/tt{{ .id }}" style="text-decoration: underline;" title="Internet Movie Database">imdb</a>
             <a href="https://letterboxd.com/imdb/{{ .id }}" style="text-decoration: underline;" title="Letterboxd">letterboxd</a>
         {{ end }}
+        {{ range $key, $value := .repo }}
+            <a href="{{ $value }}" style="text-decoration: underline;">{{ $key }}()</a>
+        {{ end }}
         {{ range $key, $value := .code }}
             <a href="/code/{{ $value }}" style="text-decoration: underline;">{{ $key }}()</a>
         {{ end }}

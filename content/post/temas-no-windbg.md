@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-01-14"
 tags: [ "draft", "tools" ]
 title: "Temas no WinDbg"

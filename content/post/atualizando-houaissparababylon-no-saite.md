@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2010-10-22"
 tags: [ "draft", "projects" ]
 title: "Atualizando HouaissParaBabylon no saite"

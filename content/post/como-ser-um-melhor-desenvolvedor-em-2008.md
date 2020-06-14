@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-01-02"
 tags: [ "draft", "essays" ]
 title: "Como ser um melhor desenvolvedor em 2008"

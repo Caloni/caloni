@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2009-05-25"
 tags: [ "draft",  ]
 title: "Como compilar em somente um passo"

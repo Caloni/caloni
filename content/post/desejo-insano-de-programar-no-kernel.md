@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2007-07-12"
 tags: [ "draft", "essays" ]
 title: "Desejo insano de programar no kernel"

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-03-20"
 tags: [ "draft",  ]
 title: "Como rodar qualquer coisa como serviço"

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2009-06-18"
 tags: [ "draft", "essays", "fun" ]
 title: "Programadores de verdade não usam Java"

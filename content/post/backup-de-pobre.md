@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-03-28"
 tags: [ "draft",  ]
 title: "Backup de pobre"

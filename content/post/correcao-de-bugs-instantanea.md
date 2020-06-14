@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2010-02-01"
 tags: [ "draft", "essays" ]
 title: "Correção de bugs instantânea"

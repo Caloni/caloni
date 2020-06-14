@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2014-07-22"
 tags: [ "draft", "tools" ]
 title: "Integrando BitBucket/GitHub com Trello"

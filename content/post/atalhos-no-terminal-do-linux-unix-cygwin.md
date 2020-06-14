@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2017-02-27"
 tags: [ "draft", "tools" ]
 title: "Atalhos no terminal do Linux/Unix"

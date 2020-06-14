@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2017-07-25"
 tags: [ "draft", "tools" ]
 title: "CppTests"

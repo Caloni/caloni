@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-04-29"
 tags: [ "draft", "tools" ]
 title: "Bazaar e Fedora 8: a saga"

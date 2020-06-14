@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2014-06-18"
 tags: [ "draft", "tools", "debug" ]
 title: "Dando cabo do WinDbg"

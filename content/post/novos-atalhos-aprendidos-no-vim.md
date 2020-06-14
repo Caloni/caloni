@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2012-06-09"
 tags: [ "draft", "tools" ]
 title: "Novos atalhos aprendidos no Vim"

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2007-11-15"
 tags: [ "draft", "tools" ]
 title: "SDelete"

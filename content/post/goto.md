@@ -320,5 +320,3 @@ Os programadores usaram o apelo clássico do while. Sem motivo, pois goto é usa
 Isso lembra outra utilidade do goto que você pode anotar no seu caderninho: ele pode voltar o fluxo, de baixo para cima.
 
 Esse último exemplo é um dos programas C mais lindos do universo. Sua única instrução é o comando rotulado por infinite e referencia ele mesmo. É quase o salto incondicional do assembly, materializado na linguagem mais elegante jamais criada em nossa realidade.
-
-PS: Código no GitHub.

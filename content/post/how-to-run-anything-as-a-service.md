@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-05-27"
 tags: [ "draft", "english" ]
 title: "How to run anything as a service"

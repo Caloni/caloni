@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2018-07-15"
 tags: [ "draft", "tools", "philosophy" ]
 title: "Stanford Encyclopedia of Philosophy Para Kindle"

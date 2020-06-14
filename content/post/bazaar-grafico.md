@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2010-02-25"
 tags: [ "draft", "tools" ]
 title: "Bazaar gráfico"

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2020-05-10"
 tags: [ "projects" ]
 title: "Bug no Calonibot Rodando Como Serviço"

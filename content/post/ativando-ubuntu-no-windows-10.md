@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2017-08-29"
 tags: [ "draft", "kernel" ]
 title: "Ativando Ubuntu No Windows 10"

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2009-02-10"
 tags: [ "draft", "tools" ]
 title: "WinDbg.info"

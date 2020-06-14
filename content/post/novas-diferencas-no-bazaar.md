@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2010-08-04"
 tags: [ "draft", "tools" ]
 title: "Novas diferenças no Bazaar"

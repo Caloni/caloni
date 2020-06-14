@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "cinema" ]
 date: "2017-09-24"
 tags: [ "draft", "cinemaqui" ]
 title: "Entrevista com Darren Aronofsky"

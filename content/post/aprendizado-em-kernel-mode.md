@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-08-07"
 tags: [ "draft", "kernel" ]
 title: "Aprendizado em kernel mode"

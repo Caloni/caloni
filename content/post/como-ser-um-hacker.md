@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2015-11-18"
 tags: [ "draft", "essays" ]
 title: "Como ser um hacker"

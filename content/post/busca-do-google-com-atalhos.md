@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-05-19"
 tags: [ "draft",  ]
 title: "Busca do Google com atalhos"

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2017-03-14"
 tags: [ "draft", "tools" ]
 title: "Entrando na zona com Windows"

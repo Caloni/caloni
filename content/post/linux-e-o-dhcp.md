@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-04-09"
 tags: [ "draft", "tools" ]
 title: "Linux e o DHCP"

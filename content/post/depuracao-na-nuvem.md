@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2013-04-01"
 tags: [ "draft", "tools" ]
 title: "Depuração na nuvem com o novo Visual Studio"

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2007-07-18"
 tags: [ "draft", "essays" ]
 title: "Como ser um melhor desenvolvedor nos próximos seis meses"

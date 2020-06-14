@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2012-05-17"
 tags: [ "draft",  ]
 title: "Coletando dumps automaticamente"

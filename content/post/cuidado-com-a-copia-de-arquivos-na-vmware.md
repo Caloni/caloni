@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2009-07-27"
 tags: [ "draft", "tools" ]
 title: "Cuidado com a cópia de arquivos na VMWare"

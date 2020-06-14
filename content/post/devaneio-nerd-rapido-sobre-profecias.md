@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2009-12-30"
 tags: [ "draft",  ]
 title: "Devaneio nerd rápido sobre profecias"

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2010-04-10"
 tags: [ "draft", "tools", "english" ]
 title: "Using TodoList and Microsoft Project together"

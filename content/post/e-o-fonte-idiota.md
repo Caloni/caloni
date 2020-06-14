@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2015-09-12"
 tags: [ "draft", "essays" ]
 title: "É o fonte, idiota!"

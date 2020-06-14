@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2020-06-01"
 tags: [ "projects" ]
 title: "Transmission"

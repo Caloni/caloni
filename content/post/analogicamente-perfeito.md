@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2010-05-19"
 tags: [ "essays" ]
 title: "Analogicamente perfeito"

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2016-10-05"
 tags: [ "draft", "tools" ]
 title: "Guardando senhas com Vim"

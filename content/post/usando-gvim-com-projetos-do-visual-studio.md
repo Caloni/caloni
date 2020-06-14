@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2016-09-18"
 tags: [ "draft", "tools" ]
 title: "Usando GVim com projetos do Visual Studio"

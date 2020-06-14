@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2010-03-15"
 tags: [ "draft",  ]
 title: "Convivendo entre TodoList e Microsoft Project"

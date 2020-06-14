@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2012-09-27"
 tags: [ "draft", "fun" ]
 title: "eXtreme Go Horse"

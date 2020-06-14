@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2007-11-01"
 tags: [ "draft",  ]
 title: "Desenvolvendo em linha de comando"

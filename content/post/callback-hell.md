@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2020-04-09"
 tags: [ "draft", "essays" ]
 title: "Callback Hell"

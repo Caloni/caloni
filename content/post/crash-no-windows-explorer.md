@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2016-03-01"
 tags: [ "draft", "debug" ]
 title: "Crash no Windows Explorer"

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2010-08-12"
 tags: [ "draft", "debug" ]
 title: "Foto dos melhores momentos"

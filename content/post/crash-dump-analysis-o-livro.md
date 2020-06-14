@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-04-17"
 tags: [ "draft", "books" ]
 title: "Crash Dump Analysis"

@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-04-21"
 tags: [ "draft", "ccpp" ]
 title: "Ode ao C++"

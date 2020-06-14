@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2018-12-11"
 tags: [ "tools" ]
 title: "A Maneira Errada de Começar um Projeto é com Visual Studio"

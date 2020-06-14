@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "code" ]
 date: "2008-06-16"
 tags: [ "draft", "tools" ]
 title: "Como fazer merge de projetos distintos no Bazaar"
