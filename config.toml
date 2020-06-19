@@ -4,7 +4,7 @@ title = "Blogue do Caloni"
 copyright = "Copyright é invenção do capitalismo burguês opressor. Todos os direitos não serão reservados."
 
 [permalinks]
-    post = "/:filename/"
+    posts = "/:filename/"
 
 [params]
     contentGit = "https://github.com/Caloni/blog"

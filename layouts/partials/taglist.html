@@ -2,5 +2,4 @@
     {{ if .Params.categories }} {{ range .Params.categories }} <a href="/categories/{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
     {{ if .Params.tags }} {{ range .Params.tags }} <a href="/tags/{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
     {{ if .Params.review }} {{ delimit .Params.review " " }}{{ end }}
-    <a href="https://twitter.com/intent/tweet?text={{ .Summary | safeHTML | truncate 120 "..." -}}%20{{ .Permalink }} from @caloni " style="text-decoration: underline;" title="Twitter">twitter</big></a>
 {{ end }}
