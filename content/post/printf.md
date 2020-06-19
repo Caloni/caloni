@@ -13,8 +13,6 @@ Porém, existe um problema com essa abordagem: a string variável pode ter mais 
 Fiz um exemplo bem sucinto, que pede o nome das branches master e slave de um controle de fonte e imprime as duas no final, alinhando o nome das branches à esquerda e o número de commits de cada uma à direita, incluindo um header.
 
 
-	    clean_stdin_buffer();
-
 Executando com nomes pequenos de branches essa será a saída formatada:
 
 
