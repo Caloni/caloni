@@ -79,12 +79,10 @@ def find_posts(regex, root):
         for item in root.iter('item'):
             title = item.find('title').text
             desc = item.find('description').text
-            detail = item.find('details').text
             link = item.find('link').text
             mt = re.search(regex, title, flags=re.I) 
             md = desc if desc == None else re.search(regex, desc, flags=re.I) 
-            md2 = detail if detail == None else re.search(regex, detail, flags=re.I) 
-            if mt or md or md2:
+            if mt or md:
                 content = telegram.InputTextMessageContent(link)
                 links.append(InlineQueryResultArticle(str(counter), title, content, url=link, description=desc, thumb_url=thumb_url_sample))
                 counter += 1
