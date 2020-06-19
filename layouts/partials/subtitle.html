@@ -1,5 +1,4 @@
 <p class="subtitle">
-<i>
 {{ if .Date.After (time "2001-01-01")}}
     {{ if .File }}<a href="{{ .Site.Params.ContentGit }}/blob/master/content/post/{{ .File.LogicalName }}" title="source">{{ end }}
     {{ .Date.Format "2006-01-02" }}
