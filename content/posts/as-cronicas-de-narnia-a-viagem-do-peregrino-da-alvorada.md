@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-10-21"
+link: "https://www.imdb.com/title/tt0980970"
 tags: [ "draft", "movies" ]
 title: "As Crônicas de Nárnia A Viagem do Peregrino da Alvorada"
 ---

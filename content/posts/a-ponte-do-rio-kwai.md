@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-07-18"
+link: "https://www.imdb.com/title/tt0050212"
 tags: [ "draft", "movies" ]
 title: "A Ponte do Rio Kwai"
 ---

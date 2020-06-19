@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2013-01-20"
+link: "https://www.imdb.com/title/tt1623288"
 tags: [ "draft", "movies" ]
 title: "ParaNorman"
 ---

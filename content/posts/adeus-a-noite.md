@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-31"
+link: "https://www.imdb.com/title/tt8569390"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Adeus à Noite"
 ---

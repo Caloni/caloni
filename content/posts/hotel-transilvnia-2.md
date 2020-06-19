@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-02-22"
+link: "https://www.imdb.com/title/tt2510894"
 tags: [ "draft", "movies" ]
 title: "Hotel Transilvânia 2"
 ---

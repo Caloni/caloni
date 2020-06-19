@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2017-04-24"
+link: "https://www.imdb.com/title/tt5442430"
 tags: [ "draft", "movies" ]
 title: "Vida"
 ---

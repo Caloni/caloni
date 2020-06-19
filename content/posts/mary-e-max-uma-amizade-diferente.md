@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-04-16"
+link: "https://www.imdb.com/title/tt0978762"
 tags: [ "draft", "movies" ]
 title: "Mary e Max uma Amizade Diferente"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-01-04"
+link: "https://www.imdb.com/title/tt3948438"
 tags: [ "draft", "movies" ]
 title: "Loucas pra Casar"
 ---

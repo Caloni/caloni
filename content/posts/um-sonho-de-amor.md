@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-12-25"
+link: "https://www.imdb.com/title/tt1226236"
 tags: [ "draft", "movies" ]
 title: "Um Sonho de Amor"
 ---

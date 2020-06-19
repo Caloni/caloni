@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-07-08"
+link: "https://www.imdb.com/title/tt2935564"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Conexão Francesa"
 ---

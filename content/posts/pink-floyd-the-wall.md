@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-11-06"
+link: "https://www.imdb.com/title/tt0084503"
 tags: [ "draft", "movies" ]
 title: "Pink Floyd The Wall"
 ---

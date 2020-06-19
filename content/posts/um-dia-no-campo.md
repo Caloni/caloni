@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-26"
+link: "https://www.imdb.com/title/tt0028445"
 tags: [ "draft", "movies" ]
 title: "Um Dia No Campo"
 ---

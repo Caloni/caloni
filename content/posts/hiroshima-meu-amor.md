@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-01-09"
+link: "https://www.imdb.com/title/tt0052893"
 tags: [ "draft", "movies" ]
 title: "Hiroshima Meu Amor"
 ---

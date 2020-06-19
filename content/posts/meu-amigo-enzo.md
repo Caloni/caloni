@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-01"
+link: "https://www.imdb.com/title/tt1478839"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Meu Amigo Enzo"
 ---

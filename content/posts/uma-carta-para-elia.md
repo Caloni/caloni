@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-10-04"
+link: "https://www.imdb.com/title/tt0808245"
 tags: [ "draft", "movies" ]
 title: "A Letter to Elia"
 ---

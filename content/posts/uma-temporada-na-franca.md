@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-04-02"
+link: "https://www.imdb.com/title/tt7177156"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Uma Temporada na França"
 ---

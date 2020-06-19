@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-09"
+link: "https://www.imdb.com/title/tt0401792"
 tags: [ "draft", "movies" ]
 title: "Sin City: A Cidade do Pecado"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2017-10-14"
+link: "https://www.imdb.com/title/tt2931140"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Uma Razao Para Recomecar"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-09-17"
+link: "https://www.imdb.com/title/tt1081935"
 tags: [ "draft", "movies" ]
 title: "Baarìa - A Porta do Vento"
 ---

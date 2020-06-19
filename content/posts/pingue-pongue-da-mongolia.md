@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-17"
+link: "https://www.imdb.com/title/tt0461804"
 tags: [ "draft", "movies" ]
 title: "Pingue-Pongue da Mongólia"
 ---

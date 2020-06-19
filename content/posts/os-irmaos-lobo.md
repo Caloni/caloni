@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-12"
+link: "https://www.imdb.com/title/tt2415458"
 tags: [ "draft", "movies" ]
 title: "Os Irmãos Lobo"
 ---

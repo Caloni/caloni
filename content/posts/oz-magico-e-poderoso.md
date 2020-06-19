@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2013-03-14"
+link: "https://www.imdb.com/title/tt1623205"
 tags: [ "draft", "movies" ]
 title: "Oz Mágico e Poderoso"
 ---

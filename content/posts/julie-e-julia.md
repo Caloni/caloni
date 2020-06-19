@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-12-20"
+link: "https://www.imdb.com/title/tt1135503"
 tags: [ "draft", "movies" ]
 title: "Julie e Julia"
 ---

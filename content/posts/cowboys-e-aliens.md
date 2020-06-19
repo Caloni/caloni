@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-09-18"
+link: "https://www.imdb.com/title/tt0409847"
 tags: [ "draft", "movies" ]
 title: "Cowboys e Aliens"
 ---

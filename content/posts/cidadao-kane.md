@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-07-09"
+link: "https://www.imdb.com/title/tt0033467"
 tags: [ "draft", "movies" ]
 title: "Cidadão Kane"
 ---

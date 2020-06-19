@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2014-06-12"
+link: "https://www.imdb.com/title/tt0492044"
 tags: [ "draft", "movies" ]
 title: "Evocando Espíritos"
 ---

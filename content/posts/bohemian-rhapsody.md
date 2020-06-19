@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-11-15"
+link: "https://www.imdb.com/title/tt1727824"
 tags: [ "draft", "movies" ]
 title: "Bohemian Rhapsody"
 ---

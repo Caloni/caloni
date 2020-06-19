@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2014-06-12"
+link: "https://www.imdb.com/title/tt0427229"
 tags: [ "draft", "movies" ]
 title: "Armações do Amor"
 ---

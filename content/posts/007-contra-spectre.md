@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-11-14"
+link: "https://www.imdb.com/title/tt2379713"
 tags: [ "draft", "movies" ]
 title: "007 Contra Spectre"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-02-20"
+link: "https://www.imdb.com/title/tt1243957"
 tags: [ "draft", "movies" ]
 title: "O Turista"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-03-01"
+link: "https://www.imdb.com/title/tt1707380"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Tudo Vai Ficar Bem"
 ---

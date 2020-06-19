@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-10-11"
+link: "https://www.imdb.com/title/tt1454910"
 tags: [ "draft", "movies" ]
 title: "Copacabana"
 ---

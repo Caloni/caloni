@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-12-03"
+link: "https://www.imdb.com/title/tt1285016"
 tags: [ "draft", "movies" ]
 title: "A Rede Social"
 ---

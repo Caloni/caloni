@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2017-03-26"
+link: "https://www.imdb.com/title/tt2442080"
 tags: [ "draft", "movies" ]
 title: "Chuck Norris vs. Communism"
 ---

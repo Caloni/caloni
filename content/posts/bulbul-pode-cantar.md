@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-23"
+link: "https://www.imdb.com/title/tt8659050"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Bulbul Pode Cantar"
 ---

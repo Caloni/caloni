@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-12-14"
+link: "https://www.imdb.com/title/tt0872230"
 tags: [ "draft", "movies" ]
 title: "A Sétima Alma"
 ---

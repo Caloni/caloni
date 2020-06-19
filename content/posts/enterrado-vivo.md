@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-12-10"
+link: "https://www.imdb.com/title/tt1462758"
 tags: [ "draft", "movies" ]
 title: "Enterrado vivo"
 ---

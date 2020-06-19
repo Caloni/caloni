@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-10-22"
+link: "https://www.imdb.com/title/tt7142506"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Costureira dos Sonhos"
 ---

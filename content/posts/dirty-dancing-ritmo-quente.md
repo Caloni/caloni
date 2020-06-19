@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-02-15"
+link: "https://www.imdb.com/title/tt0092890"
 tags: [ "draft", "movies" ]
 title: "Dirty Dancing Ritmo Quente"
 ---

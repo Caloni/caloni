@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-09-24"
+link: "https://www.imdb.com/title/tt0948530"
 tags: [ "draft", "movies" ]
 title: "Moscow Belgium"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-03-27"
+link: "https://www.imdb.com/title/tt1602098"
 tags: [ "draft", "movies" ]
 title: "Albert Nobbs"
 ---

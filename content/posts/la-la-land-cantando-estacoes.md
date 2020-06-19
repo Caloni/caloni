@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2017-01-27"
+link: "https://www.imdb.com/title/tt3783958"
 tags: [ "draft", "movies" ]
 title: "La La Land: Cantando Estações"
 ---

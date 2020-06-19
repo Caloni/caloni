@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2014-03-22"
+link: "https://www.imdb.com/title/tt1054606"
 tags: [ "draft", "movies" ]
 title: "O Mundo Imaginário do Doutor Parnassus"
 ---

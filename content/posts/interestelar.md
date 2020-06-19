@@ -2,6 +2,7 @@
 categories: [ "cinema" ]
 count: 2
 date: "2014-11-15"
+link: "https://www.imdb.com/title/tt0816692"
 tags: [ "draft", "movies" ]
 title: "Interestelar"
 ---

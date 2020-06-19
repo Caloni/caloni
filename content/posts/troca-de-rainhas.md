@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-08-13"
+link: "https://www.imdb.com/title/tt6350304"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Troca de Rainhas"
 ---

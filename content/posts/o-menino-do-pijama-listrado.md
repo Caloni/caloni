@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-10-21"
+link: "https://www.imdb.com/title/tt0914798"
 tags: [ "draft", "movies" ]
 title: "O Menino do Pijama Listrado"
 ---

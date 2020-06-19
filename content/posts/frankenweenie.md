@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-11-16"
+link: "https://www.imdb.com/title/tt1142977"
 tags: [ "draft", "movies" ]
 title: "Frankenweenie"
 ---

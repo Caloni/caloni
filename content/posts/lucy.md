@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2014-11-30"
+link: "https://www.imdb.com/title/tt2872732"
 tags: [ "draft", "movies" ]
 title: "Lucy"
 ---

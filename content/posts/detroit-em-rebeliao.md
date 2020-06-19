@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2017-09-27"
+link: "https://www.imdb.com/title/tt5390504"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Detroit em Rebelião"
 ---

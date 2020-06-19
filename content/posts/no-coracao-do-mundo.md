@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-07-24"
+link: "https://www.imdb.com/title/tt9646768"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "No Coração do Mundo"
 ---

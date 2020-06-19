@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-04-07"
+link: "https://www.imdb.com/title/tt0399295"
 tags: [ "draft", "movies" ]
 title: "O Senhor das Armas"
 ---

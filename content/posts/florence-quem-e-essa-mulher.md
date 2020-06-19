@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-06-10"
+link: "https://www.imdb.com/title/tt4136084"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Florence - Quem é Essa Mulher?"
 ---

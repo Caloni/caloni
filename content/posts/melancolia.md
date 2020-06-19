@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-08-07"
+link: "https://www.imdb.com/title/tt1527186"
 tags: [ "draft", "movies" ]
 title: "Melancolia"
 ---

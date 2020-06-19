@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-09-03"
+link: "https://www.imdb.com/title/tt1764651"
 tags: [ "draft", "movies" ]
 title: "Os Mercenários 2"
 ---

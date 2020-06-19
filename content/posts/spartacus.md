@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-07-20"
+link: "https://www.imdb.com/title/tt0054331"
 tags: [ "draft", "movies" ]
 title: "Spartacus"
 ---

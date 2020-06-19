@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-07-24"
+link: "https://www.imdb.com/title/tt4912910"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Missão Impossível: Efeito Fallout"
 ---

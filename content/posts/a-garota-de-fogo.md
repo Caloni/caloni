@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-04-14"
+link: "https://www.imdb.com/title/tt3089326"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Garota de Fogo"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-10-25"
+link: "https://www.imdb.com/title/tt2087864"
 tags: [ "draft", "movies" ]
 title: "Là-bas A Criminal Education"
 ---

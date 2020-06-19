@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-09-20"
+link: "https://www.imdb.com/title/tt2625598"
 tags: [ "draft", "movies" ]
 title: "Living on One Dollar"
 ---

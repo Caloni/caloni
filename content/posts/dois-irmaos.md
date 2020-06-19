@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-10-08"
+link: "https://www.imdb.com/title/tt1576382"
 tags: [ "draft", "movies" ]
 title: "Dois Irmãos"
 ---

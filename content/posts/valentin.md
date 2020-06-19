@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-06-13"
+link: "https://www.imdb.com/title/tt0296915"
 tags: [ "draft", "movies" ]
 title: "Valentin"
 ---

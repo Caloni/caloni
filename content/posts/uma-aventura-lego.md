@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2014-03-03"
+link: "https://www.imdb.com/title/tt1490017"
 tags: [ "draft", "movies" ]
 title: "Uma Aventura LEGO"
 ---

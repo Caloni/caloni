@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-06-10"
+link: "https://www.imdb.com/title/tt0059578"
 tags: [ "draft", "movies" ]
 title: "Por uns Dólares a Mais"
 ---

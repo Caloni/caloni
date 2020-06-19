@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-12-23"
+link: "https://www.imdb.com/title/tt0110912"
 tags: [ "draft", "movies" ]
 title: "Pulp Fiction Tempo de Violência"
 ---

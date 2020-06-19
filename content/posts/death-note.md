@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2017-09-18"
+link: "https://www.imdb.com/title/tt0877057"
 tags: [ "draft", "series", "animes" ]
 title: "Death Note: Notas da Morte"
 ---

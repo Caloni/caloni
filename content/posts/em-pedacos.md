@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-01-30"
+link: "https://www.imdb.com/title/tt5723272"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Em Pedaços"
 ---

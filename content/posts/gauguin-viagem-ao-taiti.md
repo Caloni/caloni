@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-08-17"
+link: "https://www.imdb.com/title/tt6330052"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Gauguin: Viagem ao Taiti"
 ---

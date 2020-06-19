@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-10-02"
+link: "https://www.imdb.com/title/tt6792282"
 tags: [ "draft", "movies" ]
 title: "Uma Noite de 12 Anos"
 ---

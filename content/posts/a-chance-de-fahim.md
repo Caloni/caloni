@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2020-02-05"
+link: "https://www.imdb.com/title/tt4693588"
 tags: [ "draft", "movies", "cinemaqui" ]
 title: "A Chance de Fahim"
 ---

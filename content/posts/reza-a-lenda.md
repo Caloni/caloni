@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-02-06"
+link: "https://www.imdb.com/title/tt5026038"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Reza a Lenda"
 ---

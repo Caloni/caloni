@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2014-02-09"
+link: "https://www.imdb.com/title/tt1579361"
 tags: [ "draft", "movies" ]
 title: "Chasing Ice"
 ---

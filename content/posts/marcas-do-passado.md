@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-08-10"
+link: "https://www.imdb.com/title/tt0432289"
 tags: [ "draft", "movies" ]
 title: "Marcas do Passado"
 ---

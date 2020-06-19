@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-08-06"
+link: "https://www.imdb.com/title/tt1781755"
 tags: [ "draft", "movies" ]
 title: "400 contra 1 A História do Comando Vermelho"
 ---

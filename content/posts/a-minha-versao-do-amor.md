@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-04-27"
+link: "https://www.imdb.com/title/tt1423894"
 tags: [ "draft", "movies" ]
 title: "A Minha Versão do Amor"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-11-01"
+link: "https://www.imdb.com/title/tt0291988"
 tags: [ "draft", "movies" ]
 title: "Historias mínimas"
 ---

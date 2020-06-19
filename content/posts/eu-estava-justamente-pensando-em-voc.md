@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-10-09"
+link: "https://www.imdb.com/title/tt2965412"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Eu Estava Justamente Pensando em Você"
 ---

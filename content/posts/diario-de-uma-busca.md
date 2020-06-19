@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-08-29"
+link: "https://www.imdb.com/title/tt1827391"
 tags: [ "draft", "movies" ]
 title: "Diário de Uma Busca"
 ---

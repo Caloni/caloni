@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-12-02"
+link: "https://www.imdb.com/title/tt2478746"
 tags: [ "draft", "movies" ]
 title: "Gonzaga De Pai pra Filho"
 ---

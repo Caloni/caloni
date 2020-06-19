@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-02-02"
+link: "https://www.imdb.com/title/tt5507620"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Jovens Infelizes Ou Um Homem Que Grita Não É Um Urso Que Dança"
 ---

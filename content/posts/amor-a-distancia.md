@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-09-10"
+link: "https://www.imdb.com/title/tt1322312"
 tags: [ "draft", "movies" ]
 title: "Amor à Distância"
 ---

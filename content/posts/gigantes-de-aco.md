@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2014-04-16"
+link: "https://www.imdb.com/title/tt0433035"
 tags: [ "draft", "movies" ]
 title: "Gigantes de Aço"
 ---

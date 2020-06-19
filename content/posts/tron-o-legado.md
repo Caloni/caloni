@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-05-14"
+link: "https://www.imdb.com/title/tt1104001"
 tags: [ "draft", "movies" ]
 title: "Tron: o Legado"
 ---

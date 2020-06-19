@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-02-15"
+link: "https://www.imdb.com/title/tt2231505"
 tags: [ "draft", "movies" ]
 title: "Selkirk el verdadero Robinson Crusoe"
 ---

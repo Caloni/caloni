@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-12-09"
+link: "https://www.imdb.com/title/tt0790663"
 tags: [ "draft", "movies" ]
 title: "O Aluno"
 ---

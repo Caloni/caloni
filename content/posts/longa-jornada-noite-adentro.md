@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-04-30"
+link: "https://www.imdb.com/title/tt8185182"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Longa Jornada Noite Adentro"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-08-06"
+link: "https://www.imdb.com/title/tt0057012"
 tags: [ "draft", "movies" ]
 title: "Dr. Fantástico"
 ---

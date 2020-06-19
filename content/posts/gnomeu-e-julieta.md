@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-03-10"
+link: "https://www.imdb.com/title/tt0377981"
 tags: [ "draft", "movies" ]
 title: "Gnomeu e Julieta"
 ---

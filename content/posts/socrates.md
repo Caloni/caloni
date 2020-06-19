@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-09-20"
+link: "https://www.imdb.com/title/tt8026554"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Sócrates"
 ---

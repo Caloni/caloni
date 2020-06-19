@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-23"
+link: "https://www.imdb.com/title/tt1097194"
 tags: [ "draft", "series", "animes" ]
 title: "Ghost Hound"
 ---

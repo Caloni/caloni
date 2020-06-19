@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-10-17"
+link: "https://www.imdb.com/title/tt1839492"
 tags: [ "draft", "movies" ]
 title: "Ruby Sparks A Namorada Perfeita"
 ---

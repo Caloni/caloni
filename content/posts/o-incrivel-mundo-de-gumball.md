@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-16"
+link: "https://www.imdb.com/title/tt1942683"
 tags: [ "draft", "series" ]
 title: "O Incrível Mundo de Gumball"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-04-01"
+link: "https://www.imdb.com/title/tt1392170"
 tags: [ "draft", "movies" ]
 title: "Jogos Vorazes"
 ---

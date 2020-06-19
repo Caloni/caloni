@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-11-02"
+link: "https://www.imdb.com/title/tt0313792"
 tags: [ "draft", "movies" ]
 title: "Igual a Tudo na Vida"
 ---

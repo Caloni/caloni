@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-01-14"
+link: "https://www.imdb.com/title/tt1458175"
 tags: [ "draft", "movies" ]
 title: "72 horas"
 ---

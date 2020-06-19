@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2014-09-07"
+link: "https://www.imdb.com/title/tt0286112"
 tags: [ "draft", "movies" ]
 title: "Kung-Fu Futebol Clube"
 ---

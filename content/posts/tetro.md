@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-12-10"
+link: "https://www.imdb.com/title/tt0964185"
 tags: [ "draft", "movies" ]
 title: "Tetro"
 ---

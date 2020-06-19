@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-09-09"
+link: "https://www.imdb.com/title/tt8075192"
 tags: [ "draft", "movies" ]
 title: "Assunto de Família"
 ---

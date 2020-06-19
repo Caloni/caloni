@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-04-02"
+link: "https://www.imdb.com/title/tt1482459"
 tags: [ "draft", "movies" ]
 title: "O Lorax Em Busca da Trúfula Perdida"
 ---

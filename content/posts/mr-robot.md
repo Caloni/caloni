@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-09-11"
+link: "https://www.imdb.com/title/tt4158110"
 tags: [ "draft", "series" ]
 title: "Mr. Robot"
 ---

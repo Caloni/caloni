@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-12-04"
+link: "https://www.imdb.com/title/tt0084827"
 tags: [ "draft", "movies" ]
 title: "Tron Uma Odisséia Eletrônica"
 ---

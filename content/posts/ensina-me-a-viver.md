@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-11-27"
+link: "https://www.imdb.com/title/tt0067185"
 tags: [ "draft", "movies" ]
 title: "Ensina-me a Viver"
 ---

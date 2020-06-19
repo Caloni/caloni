@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-26"
+link: "https://www.imdb.com/title/tt0072446"
 tags: [ "draft", "movies" ]
 title: "Terra Prometida"
 ---

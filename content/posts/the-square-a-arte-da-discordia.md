@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-11-08"
+link: "https://www.imdb.com/title/tt4995790"
 tags: [ "draft", "movies" ]
 title: "The Square: A Arte da Discórdia"
 ---

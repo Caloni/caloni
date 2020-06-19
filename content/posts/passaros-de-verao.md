@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-07"
+link: "https://www.imdb.com/title/tt6386748"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Pássaros de Verão"
 ---

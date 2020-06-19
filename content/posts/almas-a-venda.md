@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-06-09"
+link: "https://www.imdb.com/title/tt1127877"
 tags: [ "draft", "movies" ]
 title: "Almas à venda"
 ---

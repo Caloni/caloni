@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-10"
+link: "https://www.imdb.com/title/tt4777008"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Malévola: Dona do Mal"
 ---

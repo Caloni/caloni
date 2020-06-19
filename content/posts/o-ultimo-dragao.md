@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-07-07"
+link: "https://www.imdb.com/title/tt0089461"
 tags: [ "draft", "movies" ]
 title: "O Último Dragão"
 ---

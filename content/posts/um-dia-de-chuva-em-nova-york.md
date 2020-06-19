@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-11-07"
+link: "https://www.imdb.com/title/tt7139936"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Um Dia De Chuva Em Nova York"
 ---

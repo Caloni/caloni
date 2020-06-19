@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-07-16"
+link: "https://www.imdb.com/title/tt0903747"
 tags: [ "draft", "series" ]
 title: "Breaking Bad - Primeira Temporada"
 ---

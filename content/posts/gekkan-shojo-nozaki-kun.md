@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2020-05-16"
+link: "https://www.imdb.com/title/tt3615002"
 tags: [ "series", "animes" ]
 title: "Gekkan Shojo Nozaki Kun"
 ---

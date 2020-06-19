@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-10-18"
+link: "https://www.imdb.com/title/tt5083738"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Favorita"
 ---

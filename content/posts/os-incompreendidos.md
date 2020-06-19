@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-22"
+link: "https://www.imdb.com/title/tt0053198"
 tags: [ "draft", "movies" ]
 title: "Os Incompreendidos"
 ---

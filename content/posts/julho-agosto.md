@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2017-07-05"
+link: "https://www.imdb.com/title/tt5078158"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Julho Agosto"
 ---

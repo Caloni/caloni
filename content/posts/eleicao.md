@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-12-02"
+link: "https://www.imdb.com/title/tt0126886"
 tags: [ "draft", "movies" ]
 title: "Eleição"
 ---

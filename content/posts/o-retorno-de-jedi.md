@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-12-31"
+link: "https://www.imdb.com/title/tt0086190"
 tags: [ "draft", "movies" ]
 title: "Star Wars Episódio VI O Retorno do Jedi"
 ---

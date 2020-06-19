@@ -2,6 +2,7 @@
 categories: [ "cinema" ]
 count: 2
 date: "2014-03-07"
+link: "https://www.imdb.com/title/tt1798709"
 tags: [ "draft", "movies" ]
 title: "Ela"
 ---

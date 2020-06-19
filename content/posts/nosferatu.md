@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-11-02"
+link: "https://www.imdb.com/title/tt0013442"
 tags: [ "draft", "movies" ]
 title: "Nosferatu"
 ---

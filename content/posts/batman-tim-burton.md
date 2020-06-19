@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2014-12-01"
+link: "https://www.imdb.com/title/tt0096895"
 tags: [ "draft", "movies" ]
 title: "Batman de Tim Burton"
 ---

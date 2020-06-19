@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2017-04-25"
+link: "https://www.imdb.com/title/tt6096528"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Elon Não Acredita na Morte"
 ---

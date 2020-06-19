@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-06-23"
+link: "https://www.imdb.com/title/tt1424381"
 tags: [ "draft", "movies" ]
 title: "Predadores"
 ---

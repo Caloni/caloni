@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-09"
+link: "https://www.imdb.com/title/tt6616336"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Hálito Azul"
 ---

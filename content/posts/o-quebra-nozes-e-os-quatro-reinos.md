@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-11-02"
+link: "https://www.imdb.com/title/tt5523010"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Quebra Nozes E Os Quatro Reinos"
 ---

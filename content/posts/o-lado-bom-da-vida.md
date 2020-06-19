@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2013-02-07"
+link: "https://www.imdb.com/title/tt1045658"
 tags: [ "draft", "movies" ]
 title: "O Lado Bom da Vida"
 ---

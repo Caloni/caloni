@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-01-06"
+link: "https://www.imdb.com/title/tt2639344"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Amor é Estranho"
 ---

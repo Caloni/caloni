@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2013-12-23"
+link: "https://www.imdb.com/title/tt2278871"
 tags: [ "draft", "movies" ]
 title: "Azul é a Cor Mais Quente"
 ---

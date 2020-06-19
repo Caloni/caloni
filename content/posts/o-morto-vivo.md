@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2013-08-05"
+link: "https://www.imdb.com/title/tt1336006"
 tags: [ "draft", "movies" ]
 title: "O Morto Vivo"
 ---

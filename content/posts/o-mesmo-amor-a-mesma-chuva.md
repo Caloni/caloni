@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2013-07-13"
+link: "https://www.imdb.com/title/tt0210843"
 tags: [ "draft", "movies" ]
 title: "El Mismo Amor La Misma Lluvia"
 ---

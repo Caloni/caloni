@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-23"
+link: "https://www.imdb.com/title/tt9351980"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Indústria Americana"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-05-16"
+link: "https://www.imdb.com/title/tt0841044"
 tags: [ "draft", "movies" ]
 title: "2 Dias em Paris"
 ---

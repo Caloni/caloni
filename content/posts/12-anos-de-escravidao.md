@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-03-19"
+link: "https://www.imdb.com/title/tt2024544"
 tags: [ "draft", "movies" ]
 title: "12 Anos de Escravidão"
 ---

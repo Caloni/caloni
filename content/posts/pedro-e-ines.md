@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-10-09"
+link: "https://www.imdb.com/title/tt2050452"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Pedro e Inês"
 ---

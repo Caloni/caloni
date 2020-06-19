@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-01-18"
+link: "https://www.imdb.com/title/tt0056172"
 tags: [ "draft", "movies" ]
 title: "Lawrence da Arábia"
 ---

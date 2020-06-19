@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2013-01-23"
+link: "https://www.imdb.com/title/tt0087233"
 tags: [ "draft", "movies" ]
 title: "Amor à Primeira Vista"
 ---

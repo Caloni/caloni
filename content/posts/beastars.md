@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-22"
+link: "https://www.imdb.com/title/tt11043632"
 tags: [ "draft", "series", "animes" ]
 title: "Beastars"
 ---

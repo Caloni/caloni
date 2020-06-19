@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-07-22"
+link: "https://www.imdb.com/title/tt0364569"
 tags: [ "draft", "movies" ]
 title: "Old Boy"
 ---

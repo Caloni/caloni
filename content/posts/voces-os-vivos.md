@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2020-06-07"
+link: "https://www.imdb.com/title/tt0445336"
 tags: [ "movies" ]
 title: "Vocês, Os Vivos"
 ---

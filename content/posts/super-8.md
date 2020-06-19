@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-08-15"
+link: "https://www.imdb.com/title/tt1650062"
 tags: [ "draft", "movies" ]
 title: "Super 8"
 ---

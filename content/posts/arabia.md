@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-03-24"
+link: "https://www.imdb.com/title/tt6400280"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Arábia"
 ---

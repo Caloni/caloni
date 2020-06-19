@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-01-17"
+link: "https://www.imdb.com/title/tt8963328"
 tags: [ "draft", "series", "animes" ]
 title: "Hi Score Girl"
 ---

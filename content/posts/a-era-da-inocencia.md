@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-07-19"
+link: "https://www.imdb.com/title/tt0819953"
 tags: [ "draft", "movies" ]
 title: "A Era da Inocência"
 ---

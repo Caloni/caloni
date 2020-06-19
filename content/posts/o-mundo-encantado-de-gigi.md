@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-12-24"
+link: "https://www.imdb.com/title/tt1039651"
 tags: [ "draft", "movies" ]
 title: "O Mundo Encantado de Gigi"
 ---

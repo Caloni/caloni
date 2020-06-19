@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-01-11"
+link: "https://www.imdb.com/title/tt1821549"
 tags: [ "draft", "movies" ]
 title: "Nebraska"
 ---

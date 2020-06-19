@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-11-18"
+link: "https://www.imdb.com/title/tt1024648"
 tags: [ "draft", "movies" ]
 title: "Argo"
 ---

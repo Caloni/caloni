@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-06-30"
+link: "https://www.imdb.com/title/tt0876563"
 tags: [ "draft", "movies" ]
 title: "Ponyo Uma Amizade que Veio do Mar"
 ---

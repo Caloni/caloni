@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2013-09-18"
+link: "https://www.imdb.com/title/tt1426329"
 tags: [ "draft", "movies" ]
 title: "Lovelace"
 ---

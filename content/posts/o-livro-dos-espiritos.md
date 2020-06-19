@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-10-08"
+link: "https://www.imdb.com/title/tt2210871"
 tags: [ "draft", "movies" ]
 title: "O Filme dos Espíritos"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-12-20"
+link: "https://www.imdb.com/title/tt0374546"
 tags: [ "draft", "movies" ]
 title: "Primavera Verão Outono Inverno e Primavera"
 ---

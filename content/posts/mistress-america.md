@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-10-26"
+link: "https://www.imdb.com/title/tt2872462"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Mistress America"
 ---

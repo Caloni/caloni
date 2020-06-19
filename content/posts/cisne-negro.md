@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-02-23"
+link: "https://www.imdb.com/title/tt0947798"
 tags: [ "draft", "movies" ]
 title: "Cisne Negro"
 ---

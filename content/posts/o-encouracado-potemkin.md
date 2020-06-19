@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-11-20"
+link: "https://www.imdb.com/title/tt0015648"
 tags: [ "draft", "movies" ]
 title: "O Encouraçado Potemkin"
 ---

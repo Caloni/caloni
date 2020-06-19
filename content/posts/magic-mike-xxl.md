@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-08-06"
+link: "https://www.imdb.com/title/tt2268016"
 tags: [ "draft", "movies" ]
 title: "Magic Mike XXL"
 ---

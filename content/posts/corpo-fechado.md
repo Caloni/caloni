@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-07-24"
+link: "https://www.imdb.com/title/tt0217869"
 tags: [ "draft", "movies" ]
 title: "Corpo Fechado"
 ---

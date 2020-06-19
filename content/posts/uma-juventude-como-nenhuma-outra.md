@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2020-01-06"
+link: "https://www.imdb.com/title/tt0478999"
 tags: [ "draft", "movies" ]
 title: "Uma Juventude Como Nenhuma Outra"
 ---

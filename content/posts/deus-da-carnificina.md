@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-10-07"
+link: "https://www.imdb.com/title/tt1692486"
 tags: [ "draft", "movies" ]
 title: "Deus da Carnificina"
 ---

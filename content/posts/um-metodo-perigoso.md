@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-10-02"
+link: "https://www.imdb.com/title/tt1571222"
 tags: [ "draft", "movies" ]
 title: "Um Método Perigoso"
 ---

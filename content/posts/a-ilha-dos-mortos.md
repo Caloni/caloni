@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-12-20"
+link: "https://www.imdb.com/title/tt1134854"
 tags: [ "draft", "movies" ]
 title: "A Ilha dos Mortos"
 ---

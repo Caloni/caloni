@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2020-01-09"
+link: "https://www.imdb.com/title/tt8673610"
 tags: [ "draft", "series", "animes" ]
 title: "Cells at Work!"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-02-09"
+link: "https://www.imdb.com/title/tt1979388"
 tags: [ "draft", "movies" ]
 title: "O Bom Dinossauro"
 ---

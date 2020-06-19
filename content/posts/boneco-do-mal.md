@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-09-11"
+link: "https://www.imdb.com/title/tt3882082"
 tags: [ "draft", "movies" ]
 title: "Boneco do Mal"
 ---

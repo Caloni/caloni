@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2014-11-09"
+link: "https://www.imdb.com/title/tt0119488"
 tags: [ "draft", "movies" ]
 title: "L.A. Confidential"
 ---

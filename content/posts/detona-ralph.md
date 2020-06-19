@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-12-30"
+link: "https://www.imdb.com/title/tt1772341"
 tags: [ "draft", "movies" ]
 title: "Detona Ralph"
 ---

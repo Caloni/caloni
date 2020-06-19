@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-03-09"
+link: "https://www.imdb.com/title/tt2652118"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Tigre e o Dragão: A Espada do Destino"
 ---

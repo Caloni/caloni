@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-03-20"
+link: "https://www.imdb.com/title/tt6690176"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Quando Margot Encontra Margot"
 ---

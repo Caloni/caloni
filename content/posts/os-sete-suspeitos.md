@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-03-04"
+link: "https://www.imdb.com/title/tt0088930"
 tags: [ "draft", "movies" ]
 title: "Os 7 Suspeitos"
 ---

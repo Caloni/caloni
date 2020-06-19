@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2017-08-28"
+link: "https://www.imdb.com/title/tt4158110"
 tags: [ "draft", "series" ]
 title: "Filosofia De Mr Robot"
 ---

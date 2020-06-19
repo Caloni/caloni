@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-07-27"
+link: "https://www.imdb.com/title/tt1437357"
 tags: [ "draft", "movies" ]
 title: "Faust"
 ---

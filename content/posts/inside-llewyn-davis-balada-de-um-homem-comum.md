@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2014-03-24"
+link: "https://www.imdb.com/title/tt2042568"
 tags: [ "draft", "movies" ]
 title: "Inside Llewyn Davis Balada de Um Homem Comum"
 ---

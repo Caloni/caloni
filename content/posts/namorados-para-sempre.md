@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-06-09"
+link: "https://www.imdb.com/title/tt1120985"
 tags: [ "draft", "movies" ]
 title: "Namorados Para Sempre"
 ---

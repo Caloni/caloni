@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-02-12"
+link: "https://www.imdb.com/title/tt0810819"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Garota Dinamarquesa"
 ---

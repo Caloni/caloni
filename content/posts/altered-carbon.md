@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-03-04"
+link: "https://www.imdb.com/title/tt2261227"
 tags: [ "draft", "series" ]
 title: "Altered Carbon"
 ---

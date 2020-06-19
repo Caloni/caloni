@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-11-20"
+link: "https://www.imdb.com/title/tt1600524"
 tags: [ "draft", "movies" ]
 title: "Amores Imaginários"
 ---

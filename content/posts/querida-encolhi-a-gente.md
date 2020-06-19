@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-01-26"
+link: "https://www.imdb.com/title/tt0119310"
 tags: [ "draft", "movies" ]
 title: "Querida, Encolhi a Gente"
 ---

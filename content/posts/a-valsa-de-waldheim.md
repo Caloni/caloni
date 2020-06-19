@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-10-21"
+link: "https://www.imdb.com/title/tt8055880"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Valsa de Waldheim"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-03-18"
+link: "https://www.imdb.com/title/tt0500140"
 tags: [ "draft", "series" ]
 title: "Standup de 98 de Seinfeld é melhor que último do Gervais (graças ao SJW)"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-05-14"
+link: "https://www.imdb.com/title/tt1285246"
 tags: [ "draft", "movies" ]
 title: "Mademoiselle Chambon"
 ---

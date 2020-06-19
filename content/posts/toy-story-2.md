@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2010-06-25"
+link: "https://www.imdb.com/title/tt0120363"
 tags: [ "draft", "movies" ]
 title: "Toy Story 2"
 ---

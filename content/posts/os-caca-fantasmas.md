@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2013-01-24"
+link: "https://www.imdb.com/title/tt0087332"
 tags: [ "draft", "movies" ]
 title: "Os Caça-Fantasmas"
 ---

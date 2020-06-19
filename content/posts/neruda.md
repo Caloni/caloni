@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-12-12"
+link: "https://www.imdb.com/title/tt4698584"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Neruda"
 ---

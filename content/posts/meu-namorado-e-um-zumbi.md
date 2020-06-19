@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2013-02-14"
+link: "https://www.imdb.com/title/tt1588173"
 tags: [ "draft", "movies" ]
 title: "Meu Namorado é um Zumbi"
 ---

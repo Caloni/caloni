@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-09-06"
+link: "https://www.imdb.com/title/tt1645170"
 tags: [ "draft", "movies" ]
 title: "O Ditador"
 ---

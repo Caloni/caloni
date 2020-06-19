@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2014-11-30"
+link: "https://www.imdb.com/title/tt0079501"
 tags: [ "draft", "movies" ]
 title: "Mad Max"
 ---

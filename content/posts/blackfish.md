@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-01-11"
+link: "https://www.imdb.com/title/tt2545118"
 tags: [ "draft", "movies" ]
 title: "Blackfish: Fúria Animal"
 ---

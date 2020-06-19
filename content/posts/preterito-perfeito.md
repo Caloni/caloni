@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2020-05-13"
+link: "https://www.imdb.com/title/tt1578707"
 tags: [ "movies" ]
 title: "Pretérito Perfeito"
 ---

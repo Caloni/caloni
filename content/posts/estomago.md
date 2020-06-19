@@ -2,6 +2,7 @@
 categories: [ "cinema" ]
 date: "2020-06-13"
 draft: "true"
+link: "https://www.imdb.com/title/tt1039960"
 tags: [ "movies" ]
 title: "Estômago"
 ---

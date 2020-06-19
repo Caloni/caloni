@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-05-14"
+link: "https://www.imdb.com/title/tt0107507"
 tags: [ "draft", "movies" ]
 title: "Um Misterioso Assassinato em Manhattan"
 ---

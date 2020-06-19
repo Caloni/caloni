@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-05-24"
+link: "https://www.imdb.com/title/tt1825683"
 tags: [ "draft", "movies" ]
 title: "Pantera Negra"
 ---

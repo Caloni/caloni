@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-08-28"
+link: "https://www.imdb.com/title/tt2616114"
 tags: [ "draft", "movies" ]
 title: "O Concurso"
 ---

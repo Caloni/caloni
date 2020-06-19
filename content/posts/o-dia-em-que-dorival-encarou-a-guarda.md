@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-11"
+link: "https://www.imdb.com/title/tt0125721"
 tags: [ "draft", "shorts" ]
 title: "O Dia em que Dorival Encarou a Guarda"
 ---

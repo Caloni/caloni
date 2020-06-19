@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-10-05"
+link: "https://www.imdb.com/title/tt1979319"
 tags: [ "draft", "movies" ]
 title: "Samurai X 1: O Filme"
 ---

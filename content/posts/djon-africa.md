@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-10-07"
+link: "https://www.imdb.com/title/tt7862998"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Djon Africa"
 ---

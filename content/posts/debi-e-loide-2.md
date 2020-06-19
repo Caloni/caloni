@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2014-12-10"
+link: "https://www.imdb.com/title/tt2096672"
 tags: [ "draft", "movies" ]
 title: "Debi e Lóide 2"
 ---

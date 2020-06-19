@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-03-06"
+link: "https://www.imdb.com/title/tt0048356"
 tags: [ "draft", "movies" ]
 title: "Marty"
 ---

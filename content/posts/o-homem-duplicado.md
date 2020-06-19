@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-03-13"
+link: "https://www.imdb.com/title/tt2316411"
 tags: [ "draft", "movies" ]
 title: "O Homem Duplicado"
 ---

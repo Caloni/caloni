@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2013-01-01"
+link: "https://www.imdb.com/title/tt0099685"
 tags: [ "draft", "movies" ]
 title: "Os Bons Companheiros"
 ---

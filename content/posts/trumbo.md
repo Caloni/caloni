@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-02-09"
+link: "https://www.imdb.com/title/tt3203606"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Trumbo"
 ---

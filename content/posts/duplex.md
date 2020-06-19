@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-07-31"
+link: "https://www.imdb.com/title/tt0266489"
 tags: [ "draft", "movies" ]
 title: "Duplex"
 ---

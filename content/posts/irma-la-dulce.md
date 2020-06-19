@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-17"
+link: "https://www.imdb.com/title/tt0057187"
 tags: [ "draft", "movies" ]
 title: "Irma la Dulce"
 ---

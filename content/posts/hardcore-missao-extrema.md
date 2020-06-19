@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-08-16"
+link: "https://www.imdb.com/title/tt3072482"
 tags: [ "draft", "movies" ]
 title: "Hardcore: Missão Extrema"
 ---

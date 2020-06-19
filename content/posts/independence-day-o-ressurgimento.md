@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-07-14"
+link: "https://www.imdb.com/title/tt1628841"
 tags: [ "draft", "movies" ]
 title: "Independence Day: O Ressurgimento"
 ---

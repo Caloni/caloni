@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-04-17"
+link: "https://www.imdb.com/title/tt6182402"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Cidade do Futuro"
 ---

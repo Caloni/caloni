@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-01-11"
+link: "https://www.imdb.com/title/tt8731138"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Temporada"
 ---

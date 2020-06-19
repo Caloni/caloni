@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-05-03"
+link: "https://www.imdb.com/title/tt5989220"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Câmera de Claire"
 ---

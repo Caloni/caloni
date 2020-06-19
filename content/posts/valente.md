@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2012-07-20"
+link: "https://www.imdb.com/title/tt1217209"
 tags: [ "draft", "movies" ]
 title: "Valente"
 ---

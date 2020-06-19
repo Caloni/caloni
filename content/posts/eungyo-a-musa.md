@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-09-04"
+link: "https://www.imdb.com/title/tt2390253"
 tags: [ "draft", "movies" ]
 title: "Eungyo - A Musa"
 ---

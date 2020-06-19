@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-22"
+link: "https://www.imdb.com/title/tt9016026"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Fotográfo De Guerra"
 ---

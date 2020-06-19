@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-22"
+link: "https://www.imdb.com/title/tt10153664"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Alva"
 ---

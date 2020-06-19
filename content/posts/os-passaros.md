@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2011-12-20"
+link: "https://www.imdb.com/title/tt0056869"
 tags: [ "draft", "movies" ]
 title: "Os Pássaros"
 ---

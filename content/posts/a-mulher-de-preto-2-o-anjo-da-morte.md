@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-01-30"
+link: "https://www.imdb.com/title/tt2339741"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Mulher de Preto 2: O Anjo da Morte"
 ---

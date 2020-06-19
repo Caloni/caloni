@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2018-05-16"
+link: "https://www.imdb.com/title/tt6126346"
 tags: [ "draft", "movies" ]
 title: "Thi Mai: Rumo ao Vietnam"
 ---

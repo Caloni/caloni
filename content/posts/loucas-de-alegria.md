@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2016-08-17"
+link: "https://www.imdb.com/title/tt4621872"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Loucas de Alegria"
 ---

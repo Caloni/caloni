@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2015-09-19"
+link: "https://www.imdb.com/title/tt3613454"
 tags: [ "draft", "series" ]
 title: "Terror in Resonance"
 ---

@@ -1,6 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2020-01-09"
+link: "https://www.imdb.com/title/tt0154443"
 tags: [ "draft", "movies" ]
 title: "8 1/2 Mulheres"
 ---
