@@ -39,7 +39,7 @@
             {{ if .process }} Processo: {{ .process }}.{{ end }}
             {{ if .notes }} Notas: {{ .notes }}{{ end }}
         {{ end }}
-        <a href="{{ $.Site.Params.BlogGit }}/blob/master/data/post/{{ $.File.BaseFileName }}.toml" style="text-decoration: underline;">references</a>
+        <a href="{{ $.Site.Params.ContentGit }}/blob/master/data/post/{{ $.File.BaseFileName }}.toml" style="text-decoration: underline;">references</a>
     {{ end }}{{ end }}
     {{ if .Params.categories }} {{ range .Params.categories }} [<a href="/categories/{{ . | urlize }}">{{ . }}</a>] {{ end }}{{ end }}
     {{ if .Params.tags }} {{ range .Params.tags }} [<a href="/tags/{{ . | urlize }}">{{ . }}</a>] {{ end }}{{ end }}
