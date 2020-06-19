@@ -1,6 +1,7 @@
 ---
 categories: [ "code" ]
 date: "2019-05-28"
+link: "https://github.com/Caloni/goto"
 tags: [ "draft",  ]
 title: "C Resolve Tudo: goto"
 ---

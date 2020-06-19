@@ -1,6 +1,7 @@
 ---
 categories: [ "code" ]
 date: "2018-07-15"
+link: "https://github.com/Caloni/sep_to_kindle"
 tags: [ "draft", "tools", "philosophy" ]
 title: "Stanford Encyclopedia of Philosophy Para Kindle"
 ---
