@@ -22,11 +22,12 @@ function ApplyFilter(filter)
             }
 
         });
-
-        var showing = $('.sortable tr:visible').length;
-        randomPostIndex = Math.floor(Math.random() * showing);
-        randomPost = $('.sortable tr:visible').eq(randomPostIndex).find('a').prop('href');
     }
+    else { $.each( $('.sortable tr'), function() { $(this).show(); }); }
+
+    var showing = $('.sortable tr:visible').length;
+    randomPostIndex = Math.floor(Math.random() * showing);
+    randomPost = $('.sortable tr:visible').eq(randomPostIndex).find('a').prop('href');
 }
 
 var QueryString = function () {
