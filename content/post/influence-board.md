@@ -20,19 +20,6 @@ Agora ficou muito mais fácil de perceber que a única saída do rei não possui
 
 Essa maneira de mostrar as influências em um tabuleiro de xadrez eu apelidei de Influence Board, e criei um projeto em linha de comando para fazer as devidas considerações a respeito de uma posição determinada. Mas como ninguém hoje em dia gosta de usar o WinDbg pra jogar xadrez, transformei meu projeto em pseudo-plugin para o WinBoard, um famoso frontend de xadrez que costumo usar em minhas esporádicas partidas.
 
-    
-    C:\Projects\xboard infboard\winboard>nmake msvc.mak
-    
-    Microsoft (R) Program Maintenance Utility Version 8.00.50727.42
-    Copyright (C) Microsoft Corporation.  All rights reserved.
-    
-            link /DEBUG /DEBUGTYPE:cv  /INCREMENTAL:NO /NOLOGO -subsystem:windows,5.0 WIN2000_DEBUG\winb
-    oard.obj WIN2000_DEBUG\backend.obj WIN2000_DEBUG\parser.obj WIN2000_DEBUG\moves.obj WIN2000_DEBUG\li
-    sts.obj  WIN2000_DEBUG\gamelist.obj WIN2000_DEBUG\pgntags.obj WIN2000_DEBUG\wedittags.obj WIN2000_DE
-    BUG\wgamelist.obj WIN2000_DEBUG\zippy.obj  WIN2000_DEBUG\wsockerr.obj WIN2000_DEBUG\wclipbrd.obj WIN
-    2000_DEBUG\woptions.obj WIN2000_DEBUG\infboard.obj  wsock32.lib comctl32.lib winmm.lib oldnames.lib
-    kernel32.lib  advapi32.lib user32.lib gdi32.lib comdlg32.lib winspool.lib  ws2_32.lib   WIN2000_DEBU
-    G\winboard.rbj -out:WIN2000_DEBUG\winboard.exe
 
 Após compilado, basta copiar na pasta de instalação do programa, rodá-lo e habilitar a opção "Show Influence" do menu General. Voilà! É possível até jogar às cegas com esse brinquedinho (opção Blindfold).
 

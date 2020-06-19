@@ -18,7 +18,5 @@ Para esse tipo de problema eu costumo usar um programinha esperto chamado SDelet
 
 Uma outra coisa que ele faz, muito útil quando comecei a usá-lo, é apagar todos os setores não usados que existem no disco inteiro (ou uma pasta inteira). Com isso podemos começar uma vida nova. Apenas tome muito cuidado nessa hora para especificar o comando, pois um errinho no comando pode realmente fazer você começar uma vida nova.
 
-    
-    sdelete -c -s p:
 
 O SDelete segue o padrão DOD 5220.22-M, o que quer dizer que ele está dentro das especificações da indústria que garantem a confidencialidade dos dados apagados. Além do mais, você pode especificar quantas "passadas" nos setores você deseja, para evitar aqueles ataques mais rebuscados em que é analisada a impedância das trilhas físicas de um disco magnético para obter os dados que uma vez estavam lá. É claro que isso não deve valer muito a pena se você está usando um PenDrive com memória flash =).

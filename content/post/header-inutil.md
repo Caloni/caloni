@@ -55,11 +55,6 @@ Acontece que existe uma árvore de dependências que o Visual Studio mantém par
 
 O que pode ser feito nesse caso (além do que os personagens de The Walking Dead costumam fazer) é configurar o arquivo devenv.exe.config (presente em %programfiles(x86)%\Microsoft Visual Studio 10.0\Common7\IDE) e adicionar as seguintes linhas após a seção configSections. (Esses passos estão descritos no blogue da equipe do VC.)
 
-    <system.diagnostics>
-    <switches>
-    <add name="CPS" value="4" />
-    </switches>
-    </system.diagnostics>
 
 Depois de modificar o arquivo, reinicie o Visual Studio e tente novamente apertar F5 no mesmo projeto, mas com o DebugView aberto.
 

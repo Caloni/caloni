@@ -22,40 +22,6 @@ O picoro organiza tudo isso em torno de uma lista ligada. Aliás, de duas listas
 
 Vamos começar com um exemplo simples: apenas um corrotina que recebe um inteiro e incrementa três vezes. A cada vez que ele incrementa ele devolve o controle de execução via yield. O main cria três dessas corrotinas e dá resume em cada uma delas três vezes, finalizando a execução de todas. Ao final, o counter final é de 9.
 
-    #include "..\picoro\picoro.h"
-    #include <stdio.h>
-    
-    void* mycoroutine(void* arg)
-    {
-    	int* counter = (int*) arg;
-    	(*counter) += 1;
-    	yield(arg);
-    	(*counter) += 1;
-    	yield(arg);
-    	(*counter) += 1;
-    	return arg;
-    }
-    
-    int main()
-    {
-        int counter = 0;
-    	int i;
-    	coro coroutines[3];
-    	int maxi = sizeof(coroutines) / sizeof(coro);
-    
-    	for (i = 0; i < maxi; ++i)
-    		coroutines[i] = coroutine(mycoroutine);
-    
-    	for (i = 0; i < maxi; ++i)
-    		resume(coroutines[i], &counter);
-    	for (i = 0; i < maxi; ++i)
-    		resume(coroutines[i], &counter);
-    	for (i = 0; i < maxi; ++i)
-    		resume(coroutines[i], &counter);
-    
-        printf("final counter: %d\n", counter);
-    	return 0;
-    }
 
 É importante observar que o uso de troca de contexto pode facilmente consumir a pilha, pois ela está sendo compartilhada com muitas funções em paralelo. Para reservar espaço a `coroutinestart` aloca um array de 16 KB (fixo). Esses detalhes de implementação podem ser alterados, pois a biblioteca é tão mínima e simples de entender que construir qualquer coisa em cima dela é trivial.
 

@@ -10,23 +10,6 @@ O problema da lib hidapi era que a comunicação usb era feita de forma assíncr
 
 O funcionamento padrão via overlapped é bem simples: faça a operação de I/O (passando a estrutura) e verifique o retorno. Ele deve ser FALSE e o retorno do próximo GetLastError deve ser ERRORIOPENDING. Bom, descrevendo a operação ela não parece ser tão intuitiva. Mas funciona:
 
-    if (!ReadFile(hFile,
-                     pDataBuf,
-                     dwSizeOfBuffer,
-                     &NumberOfBytesRead,
-                     &osReadOperation )
-       {
-          if (GetLastError() != ERROR_IO_PENDING)
-          {
-             // Some other error occurred while reading the file.
-             ErrorReadingFile();
-             ExitProcess(0);
-          }
-          else
-             // Operation has been queued and
-             // will complete in the future.
-             fOverlapped = TRUE;
-       }
 
 A questão que nós encontramos nesse projeto apenas aconteceu porque após a operação de I/O assíncrona a thread responsável por retornar o resultado ficava em wait eterno ou dava timeout. Ambas as situações são normais e esperadas. Ficar aguardando para sempre um device acontece quando este simplesmente não responde com nenhum dado. E dar timeout acontece quando não queremos aguardar o device para sempre (WaitForSingleObject(handle, 1000), por exemplo, daria timeout depois de 1 segundo, ou 1000 milissegundos).
 
@@ -44,42 +27,6 @@ Ou seja, em caso da função ReadFile (ou WriteFile) retornar TRUE em uma opera�
 
 Uma colinha da M$ de como deve ser feito o tratamento:
 
-       if (!ReadFile(hFile,
-                     pDataBuf,
-                     dwSizeOfBuffer,
-                     &NumberOfBytesRead,
-                     &osReadOperation )
-       {
-          if (GetLastError() != ERROR_IO_PENDING)
-          {
-             // Some other error occurred while reading the file.
-             ErrorReadingFile();
-             ExitProcess(0);
-          }
-          else
-             // Operation has been queued and
-             // will complete in the future.
-             fOverlapped = TRUE;
-       }
-       else
-          // Operation has completed immediately.
-          fOverlapped = FALSE;
-    
-       if (fOverlapped)
-       {
-          // Wait for the operation to complete before continuing.
-          // You could do some background work if you wanted to.
-          if (GetOverlappedResult( hFile,
-                                   &osReadOperation,
-                                   &NumberOfBytesTransferred,
-                                   TRUE))
-             ReadHasCompleted(NumberOfBytesTransferred);
-          else
-             // Operation has completed, but it failed.
-             ErrorReadingFile();
-       }
-       else
-          ReadHasCompleted(NumberOfBytesRead);
 
 Após essa correção no projeto as coisas começaram a funcionar normalmente.
 

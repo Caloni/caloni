@@ -8,8 +8,6 @@ Desde a versão 6.4.7.2 que o WinDbg fornece uma subpasta chamada Themes, onde l
 
 O WinDbg salva suas configurações no registro. Para apagar os valores previamente gravados, rode o seguinte comando:
 
-    
-    reg delete HKCU\Software\Microsoft\WinDbg
 
 Você pode gravar um tema, rodar o WinDbg (sem parâmetros), ver se gosta do que viu, e tentar novamente. Quando estiver satisfeito com a aparência, fique com ela e comece o próximo passo.
 
@@ -30,7 +28,5 @@ Depois de configurar tudo isso, ajuste as janelas na melhor maneira e proporçã
 
 Como esses passos deram algum trabalho, trate de salvar as configurações, caso tenha que usá-las em outras máquinas ou restaurá-las caso algo de ruim aconteça com seu SO (como quando você depura seus drivers na mesma máquina em que desenvolve, por exemplo).
 
-    
-    reg save HKCU\Software\Microsoft\WinDbg c:\Tools\DbgTools\Themes\MyTheme.reg
 
 Leia a documentação do WinDbg sobre temas (dentro de Themes, Themes.doc). Foi de lá que eu fiz a tradução e adaptação dos passos mais importantes. E esqueça do Visual Studio =)

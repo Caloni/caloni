@@ -20,11 +20,6 @@ O código intermediário é gerado para uma máquina virtual. O interpretador, c
 
 O uso do pré-processador na linguagem C facilitou a portabilidade por um bom tempo, quando não existiam typedefs. Diferente do BCPL, C já tinha tipagem, o que quer dizer que era necessário escolher o espaço de armazenamento que seria utilizado para as variáveis. Com o pré-processamento, essa escolha pode ser feita de maneira seletiva, documentada e generalizada.
 
-    #ifdef SBRUBLE_PLATFORM
-    #define UINT unsigned char /* space limitation */
-    #else
-    #define UINT unsigned int
-    #endif
 
 Como é natural, o código-fonte de uma aplicação tende a crescer em muitas linhas durante sua evolução, especialmente se estamos falando de sistemas operacionais. A compilação desse código vai tomar cada vez mais tempo no processo de desenvolvimento. Por isso, manter esse código-fonte em um mesmo arquivo eventualmente torna-se inviável, tornando a compilação de módulos separados uma solução pra lá de elegante. Compila-se apenas o módulo que foi modificado e liga-se esse módulo com módulos pré-compilados.
 

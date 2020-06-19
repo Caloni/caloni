@@ -14,13 +14,9 @@ As instruções eram definidas em termos de if's e goto's e as variáveis eram d
 
 Como esse padrão de bits nunca muda de tamanho, todas as rotinas da biblioteca recebiam e retornavam sempre valores do mesmo tamanho na memória. Isso na linguagem C quer dizer que o char da época ocupava tanto quanto o int. Existia inclusive uma função que retornava o caractere de uma string na posição especificada:
 
-    c = char(string, i); // the i-th character of the string is returned
 
 Sim! Char era uma função, um conversor de "tipos". No entanto a própria variável que armazenava um char tinha o tamanho de qualquer objeto da linguagem. Esse é o motivo pelo qual, tradicionalmente, as seguintes funções recebem e retornam ints em C:
 
-    int getchar( void ); // read a character from stdin
-    int putchar( int c ); // writes a character to stdout
-    void *memset( void *dest, int c, size_t count ); // sets buffers to a specified character
 
 Links interessantes para filólogos de plantão:
 

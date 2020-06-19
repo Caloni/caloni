@@ -18,12 +18,6 @@ A primeira coisa é compilar o projeto tiodb, que irá disponibilizar alguns bin
 
 Podemos rodar o tio deixando ele usar os parâmetros padrão ou alterar número da porta e outros detalhes. Vamos executar da maneira mais simples:
 
-    C:\Projects\tiocoin\tiodb\bin\x64\Debug>tio
-    Tio, The Information Overlord. Copyright Rodrigo Strauss (www.1bit.com.br)
-    Starting infrastructure...
-    Saving files to C:/Users/Caloni/AppData/Local/Temp
-    Listening on port 2605
-    Up and running!
 
 OK, tio rodando e ativo. Podemos navegar já pelos seus contêineres usando o InteliHubExplorer:
 
@@ -33,85 +27,6 @@ A partir do servidor funcionando é possível criar novos contêineres e mantê-
 
 Vamos criar e popular um contêiner inicial de transações com  um GUID zerado, e a partir dele vamos adicionando novas "transações". Também iremos permitir o monitoramento dessas transações.
 
-    try
-    {
-        tio::Connection conn;
-        conn.Connect(server, port);
-    
-        if (args.find("--build") != args.end())
-        {
-            tio::containers::list<string> transactionsBuilder;
-            transactionsBuilder.create(&conn, "transactions", "volatile_list");
-            transactionsBuilder.push_back("{00000000-0000-0000-0000-0000000000000");
-        }
-        else if (args.find("--add") != args.end())
-        {
-            tio::containers::list<string> transactionsAdd;
-            transactionsAdd.create(&conn, "transactions", "volatile_list");
-            string newTransaction = NewGuid();
-            if( newTransaction.size())
-                transactionsAdd.push_back(newTransaction);
-            else
-                cout << "Error creating transaction\n";
-        }
-        else if (args.find("--monitor") != args.end())
-        {
-            tio::containers::list<string> transactionsMonitor;
-            transactionsMonitor.open(&conn, "transactions");
-            transactionsMonitor.subscribe([](auto container, auto containerEvt, auto key, auto value)
-                    {
-                    int eventCode = stoi(containerEvt);
-    
-                    switch (eventCode)
-                    {
-                    case TIO_COMMAND_PING:
-                    cout << "Ping!\n";
-                    break;
-    
-                    case TIO_EVENT_SNAPSHOT_END:
-                    cout << "Snapshot end\n";
-                    break;
-    
-                    case TIO_COMMAND_PUSH_BACK:
-                    cout << "New transaction " << value << " inserted\n";
-                    break;
-    
-                    default:
-                    cout << "Unknown event " << hex << eventCode << " with key " << dec << key << " and with value " << value;
-                    break;
-                    }
-                    });
-            while (true)
-            {
-                conn.WaitForNextEventAndDispatch(0);
-                Sleep(1000);
-            }
-        }
-        else
-        {
-            tio::containers::list<string> transactionsReader;
-            transactionsReader.open(&conn, "transactions");
-            for( size_t transactionIdx = 0; transactionIdx < transactionsReader.size(); ++transactionIdx )
-                cout << "Transaction " << transactionsReader.at(transactionIdx) << endl;
-        }
-    
-        break; // just testing and developing...
-    }
-    catch (tio::tio_exception& e)
-    {
-        Log("Connection error: %s", e.what());
-        break;
-    }
-    catch (std::runtime_error& e)
-    {
-        Log("Runtime error: %s", e.what());
-        break;
-    }
-    catch (...)
-    {
-        Log("Catastrophic error");
-        break;
-    }
 
 Após executar esse código passando o argumento "--build" e atualizarmos o IntelihubExplorer poderemos ver o novo contêiner e seu conteúdo. É possível ler o código rodando o mesmo programa sem passar o argumento "--build".
 

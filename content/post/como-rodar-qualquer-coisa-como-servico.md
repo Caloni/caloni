@@ -14,24 +14,14 @@ Um artigo do Alex Ionescu falava sobre esse aplicativo linha de comando usado pa
 
 Bem, o Bloco de Notas é a vítima padrão de testes. Logo, a linha a seguir provaria que é possível rodá-lo na conta de sistema:
 
-    
-    sc create Notepad binpath= "%systemroot%\NOTEPAD.EXE" type= interact type= own
 
 Porém, como todo serviço, é esperado que ele se comunique com o Gerenciador de Serviços do Windows. Como o Bloco de Notas mal imagina que agora ele é um motta-fucka service, expira o timeout de inicialização e o SCM mata o processo.
 
-    
-    >net start notepad
-    The service is not responding to the control function.
-    
-    More help is available by typing NET HELPMSG 2186.
 
 Como diria meu amigo Thiago, "não bom".
 
 Porém porém, o SCM não mata os processos filhos do processo-serviço. Bug? Feature? Gambi? Seja o que for, pode ser usado para iniciar o nosso querido msvcmon:
 
-    
-    set binpath=%systemroot%\system32\cmd.exe /c c:\Tools\msvcmon.exe -tcpip -anyuser -timeout -1
-    sc create Msvcmon binpath= "%binpath%" type= interact type= own
 
 Agora, quando iniciarmos o serviço Msvcmon, o processo cmd.exe será criado, que por sua vez irá rodar o msvcmon.exe que queríamos, e ficará esperando inocentemente pela sua "funesta morte" pelo SCM.
 

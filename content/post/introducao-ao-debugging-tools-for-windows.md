@@ -22,40 +22,12 @@ Existem ainda outras ferramentas, mas estas são as principais que costumo utili
 
 Já baixei e instalei. E agora, o que eu faço? Para exemplificar um uso prático dessas ferramentas vamos usar o Loggerpara descobrir quais funções API estão sendo chamadas constantemente por um cavalo de tróia, uma coisa um tanto comum em ataques a bancos. Para tornar as coisas mais reais ainda vamos utilizar o código-fonte de um suposto cavalo de tróia usado em minhas apresentações:
 
-    #include <windows.h>
-    #include <shlwapi.h>
-    
-    int WINAPI WinMain(HINSTANCE, HINSTANCE, PSTR, int)
-    {
-    	CHAR wndTxt[MAX_PATH];
-    
-    	while( true )
-    	{
-    		HWND fgWin = GetForegroundWindow();
-    		wndTxt[0] = 0;
-    
-    		if( GetWindowText(fgWin, wndTxt, sizeof(wndTxt)) )
-    		{
-    			if( StrStrI(wndTxt, "Fict Bank") )
-    			{
-    				MessageBox(fgWin, "Hello! Would you like to be under attack?",
-    					"Free Trojan", MB_OK | MB_ICONINFORMATION);
-    				break;
-    			}
-    		}
-    	}
-    
-    	ExitProcess(ERROR_SUCCESS);
-    } 
 
 Para compilar esse programa, você só precisa digitar os seguintes comandos em um console do Visual Studio:
 
-    cl /c freetrojan.cpp
-    link freetrojan.obj user32.lib shlwapi.lib
 
 O logger.exe possui uma extensão que pode ser usada pelo WinDbg para usar os mesmos comandos a partir do depurador. Mas para tornar as coisas mais fáceis nesse primeiro contato iremos iniciar o programa através do próprio executável:
 
-    logger freetrojan.exe
 
 Irá aparecer uma janela onde selecionamos o conjunto de APIs que serão capturadas. Podemos manter todas as categorias selecionadas e mandar rodar usando o botão "Go".
 
@@ -76,7 +48,6 @@ De quebra ele exibe todos os parâmetros das funções de acordo com o tipo, ide
 
 Seguem alguns blogs dedicados inteiramente ao assunto WinDbg e debugging:
 
-    
   * Microsoft Advanced Windows Debugging and Troubleshooting - site mantido pelo time de resolução de problemas críticos da Microsoft.
   * Debugging Toolbox - _blog_ mantido pelo Roberto Farah, contém muitos _scripts_ para ser utilizando no Windbg.
   * Crash Dump Analysis - uma exploração profunda na análise de telas azuis e o motivo delas existirem.

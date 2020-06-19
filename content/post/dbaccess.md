@@ -8,34 +8,11 @@ Bancos de dados são uma dor de cabeça para o desenvolvedor acessar. Quase tão
 
 O DBAccess é mais um dos códigos-fonte desenterrados dos meus backups. Esse eu usei já em vários projetos, porque é simples e rápido de usar.
 
-    class DBAccess
-    {
-    public:
-    	/// Factory para base de dados específica.
-    	/// @param database Pode ser "sqlite" ou "oledb".
-    	static DBAccess* CreateDBAccess(const std::string& database);
-    
-    	typedef std::string ColumnName;
-    	typedef std::vector<std::string> Rows;
-    	typedef std::map<ColumnName, Rows> RowSet;
-    
-    	virtual ~DBAccess() { }
-    
-    	virtual bool Connect(const std::string& connectionString) = 0;
-    	virtual bool Disconnect() = 0;
-    
-    	/// Executa uma instrução SQL e retorna opcionalmente os resultados (se for uma query).
-    	virtual bool Execute(const std::string& command, RowSet* response = 0) = 0;
-    };
 
 Sua função é abstrair a abertura de um banco de dados, sua execução e sua saída. Para isso ele cria uma interface simples que usa STL. Por debaixo dos panos, usa OLEDB, que abstrai qualquer coisa, só precisando de instalar o driver e aprender qual das 500 mil combinações é a string de conexão correta. Para não ter que usar outras funções para coisas simples como sqlite, foi incluído seu suporte (que é mais uma tradução entre interfaces), necessitando para seu uso daquele projeto do sqlite que contém um header e um .c (pelo jeito o pessoal desse projeto também gosta de simplificar as coisas).
 
 O código que trata o OLEDB é um pouco grande (umas 300 linhas) por conta da manipulação dos componentes COM. Porém, feito decentemente, faça uma vez e use um milhão (ainda falta fazer alguns unit tests, aliás).
 
-    IDataInitialize* pIDataInitialize;
-    IDBInitialize* pIDBInitialize;
-    IDBCreateSession* pIDBCreateSession;
-    IDBCreateCommand* pIDBCreateCommand;
 
 É um bom projeto para entender o uso da minha batidíssima biblioteca de parsear argumentos argv/argc (Args.cpp/h) e a mais batidíssima ainda biblioteca de Log, que utiliza variadic templates para se livrar da maldição dos crashs causados pela falta de tipagem do printf e derivados (em Log.cpp/h).
 

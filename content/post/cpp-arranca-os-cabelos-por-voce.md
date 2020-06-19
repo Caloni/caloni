@@ -8,32 +8,6 @@ Um dos últimos posts no grupo CCPPBR do Thiago Adams chama mais uma vez a aten�
 
 Isso porque mudanças pontuais que vão sendo aplicadas na linguagem e biblioteca, como move semantics, não cabe mais em exemplos de livrinhos de C++ para iniciantes da década de 90:
 
-    #include <string.h>
-    #include <stdlib.h>
-    #include <memory>
-    
-    struct X
-    {
-        char * pString = 0;
-        X() {}
-        X(const char* s)
-        {
-            pString = _strdup(s);
-        }
-        ~X()
-        {
-            free(pString);
-        }
-    };
-    
-    int main()
-    {
-        X x1;
-        const X x2("a");
-        x1 = std::move(x2);
-    
-        return 0;
-    }
 
 Neste singelo exemplo, que está errado by design, a classe X não se preocupa em proteger-se de cópias simples. Mas o programador também não se protege da ignorância e usa std::move como se ele magicamente movesse referências const, o que é absurdo.
 

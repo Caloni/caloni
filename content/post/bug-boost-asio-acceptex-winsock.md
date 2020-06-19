@@ -8,56 +8,17 @@ Depois de um mês de correção e mais um ou dois meses preparando um compilado 
 
 O problema ocorreu em um uso padrão do Boost.Asio de modo assíncrono. Sem querer entrar muito em código nesse momento -- que teve como base nosso projeto de servidor de requisições mais rápido do universo, o motherforker -- se trata apenas de um listening que usa spawn de um lambda para tratar os accepts e dentro dele cria processos, redirecionando sua entrada e saída.
 
-    // pseudocode
-    void Acceptor::doAccept()
-    {
-        while(!isStopping())
-        {
-            async_accept();
-            spawn(Acceptor::createProcessGetOutputAndSendBack);
-        }
-    }
 
 Nas entranhas do Boost.Asio na implementação para Windows o accept utiliza a API AcceptEx, que já cria o socket cliente antes mesmo da conexão ser fechada. Se trata de uma operação de IO assíncrono como os que tem no Windows: faz tudo que é necessário fazer e é responsabilidade do programa verificar se houve IO (de maneira síncrona ou assíncrona). No caso do Asio a maneira de verificar é via checagem do handle de completion durante os momentos de idle do ioservice.
 
-    BOOL AcceptEx(
-      SOCKET       sListenSocket,
-      SOCKET       sAcceptSocket, // <--- socket cliente já criado
-      PVOID        lpOutputBuffer,
-      DWORD        dwReceiveDataLength,
-      DWORD        dwLocalAddressLength,
-      DWORD        dwRemoteAddressLength,
-      LPDWORD      lpdwBytesReceived,
-      LPOVERLAPPED lpOverlapped
-    );
 
 Quando há uma nova conexão o método createProcessGetOutputAndSendBack lê dados do socket cliente como um comando a ser executado e utiliza a API CreateProcess passando esse comando. A saída desse processo criado é capturada via saída-padrão. Para isso é usada a flag de herança de handles e handles de arquivos (poderiam ser pipes) são usados para enviar entrada, capturar saída, etc.
 
-    BOOL CreateProcessA(
-      LPCSTR                lpApplicationName,
-      LPSTR                 lpCommandLine,
-      LPSECURITY_ATTRIBUTES lpProcessAttributes,
-      LPSECURITY_ATTRIBUTES lpThreadAttributes,
-      BOOL                  bInheritHandles, // <--- flag de herança de handles
-      DWORD                 dwCreationFlags,
-      LPVOID                lpEnvironment,
-      LPCSTR                lpCurrentDirectory,
-      LPSTARTUPINFOA        lpStartupInfo,
-      LPPROCESS_INFORMATION lpProcessInformation
-    );
-    
-    // usando flags de uso de entrada/saída padrão
-    STARTUPINFO si = { sizeof(si) };
-    si.dwFlags = STARTF_USESTDHANDLES;
-    si.hStdInput = CreateFileA(inputTempFilePath, GENERIC_READ, 0, &sa, OPEN_EXISTING, 0, NULL);
-    si.hStdOutput = CreateFileA(outputTempFilePath, GENERIC_WRITE, FILE_SHARE_READ, &sa, CREATE_ALWAYS, 0, NULL);
-    si.hStdError = si.hStdOutput;
 
 Após o término do processo a saída estará no arquivo aberto em si.hStdOutput. Basta abri-lo para leitura e enviar seu conteúdo via socket para o cliente. O trabalho dessa conexão termina por aí.
 
 O que não estava previsto é que junto da herança dos handles vai também handles indesejados. Como o de "\Device\Afd", que é um recurso usado na comunicação do winsock. Ao usar as funções síncronas e tradicionais do winsock, que constitui em criar o socket server, dar listen e no accept o socket cliente ter sido criado, o AcceptEx exige já um socket cliente criado, o que é feito no sample da Microsoft com a função socket e no Boost.Asio com a duplicação do socket existente (que também foi criado via socket function).
 
-    ClientSocket = socket(result->ai_family, result->ai_socktype, result->ai_protocol);
 
 Esses dois sockets são herdáveis por default (implementação da função socket) e são representados pelos handles listados no Process Explorer como já visto, pelo nome "\Device\Afd". O contador de handles é aumentado a partir da criação do processo-filho e esses dois handles aparecem em ambos os processos.
 

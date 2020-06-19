@@ -18,8 +18,6 @@ Abordamos o boot do Windows com nt, o uso do kd.exe por baixo dos panos do WinDb
 
 Cabo virtual, sargento. Usamos a VMWare, pré-configurada após alguns pesadelos de impressora se metendo no meio do caminho. Configuramos a porta serial, que é a melhor ever. E apontamos como named pipe para o WinDbg "de fora" conectar. Ou o kd.exe. As linhas abaixo são equivalentes.
 
-    windbg.exe -b -k com:pipe,port=\\.\pipe\com_1,resets=0
-    kd.exe -b -k com:pipe,port=\\.\pipe\com_1,resets=0
 
 Para exemplificar a depuração de um serviço bem no início (ou fim) ou o load de processos antes dele existir checamos uma flag na gflags.exe da máquina depurada para que quando o notepad.exe subisse o ntsd fosse depurá-lo e passasse o controle para o debug do sistema. E com isso fechamos o círculo sagrado da depuração holística.
 
@@ -29,17 +27,7 @@ Já para debug de BIOS em rede. Bem... esse é um nível hackudo. Sei que a Inte
 
 Sim. Como o Mercês me ajudou a lembrar, existe um rundll32.exe, um executável que já vem no Windows e que pode carregar a DLL para você. Daí tudo que você precisa fazer é colocar o breakpoint das funções exportadas que deseja chamar. Dá para especificar essas funções pelo rundll32.exe também:
 
-    //project.cpp
-    void chama_eu()
-    {
-    	MessageBox(NULL, "Welcome to MBConf@Home2020", "MBConf2020", 0);
-    }
-    
-    ;project.def
-    EXPORTS
-    chama_eu
 
-    >rundll32.exe project.dll,chama_eu
 
 Recomendo sempre o WinDbg.info como cheat sheet e docs.microsoft.com em seus artigos "Getting Started with WinDbg (User-Mode)" e "Getting Started with WinDbg (Kernel-Mode)" (sorry, m$, vcs mudam os links demais para eu colocar aqui).
 

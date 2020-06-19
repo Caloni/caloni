@@ -10,21 +10,6 @@ Basicamente, o problema pede que, dado um quadrado de tamanho N, e 2*N-1 linhas 
 
 Bom, não consegui chegar numa solução para o problema errado (encaixar as linhas), mas fui, como sempre, dar uma espiada nas respostas dos competidores, em especial a do primeiro colocado. O grande barato de competições como essa é aprender com a inteligência e genialidade dos outros. Para mim, esse é um exemplo de genialidade:
 
-    int cnt[2501] = {}; // zerando o array
-    
-    int main()
-    {
-    	for(int i = 0; i < n * (2 * n - 1); i++)
-    	{
-    		cin >> j;
-    		cnt[j] ^= 1; // inverte primeiro bit do inteiro
-    	}
-    	printf("Case #%d:", t);
-    	for(int i = 1; i < 2500; i++)
-    		if (cnt[i]) 
-    			cout << " " << i; // se não for zero (ou seja, ímpar) imprime
-    	cout << endl;
-    }
 
 Obs.: O código está higienizado, pois esse pessoal usa bastante macros, etc.
 

@@ -8,12 +8,6 @@ Acho que já está na hora de nos reencontrarmos, né?
 
 A comunidade CCPP Brasil está preparando mais um daqueles eventos em que conversaremos sobre nossa maior paixão: B, BCPL, C e C++!
 
-    #include <ccpp-people.h>
-    
-    int main()
-    {
-        std::cout << "Hello, C/C++ Brasil!\n";
-    }
 
 Então vamos aos detalhes:
 

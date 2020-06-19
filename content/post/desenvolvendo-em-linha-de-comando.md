@@ -6,8 +6,6 @@ title: "Desenvolvendo em linha de comando"
 ---
 Desde uns tempos para cá o Visual Studio tem se tornado uma das ferramentas mais pesadas de desenvolvimento já criadas. Como se não bastasse, a compilação de pequenos trechos de código é algo desnecessariamente complicado no ambiente. Por esse motivo estou ganhando o costume de usar a linha de comando para esse tipo de tarefa. Afinal de contas,  na maioria das  vezes a única coisa que eu preciso fazer é abrir o atalho "Visual Studio Command Prompt" e digitar uma linha:
 
-    
-    cl meu-codigo-fonte-do-coracao.cpp
 
 O problema é ter que "andar" do diretório padrão de início até a pasta onde está o código-fonte que desejo compilar. Porém, isso é facilmente resolvido com uma linha (no registro):
 
@@ -19,9 +17,6 @@ Nossos projetos aqui na empresa costumam ser divididos em inúmeras soluções d
 
 Por isso mesmo que, aproveitando que agora tenho uma linha de comando personalizada com o ambiente de compilação, faço uso da compilação de soluções em modo console que o devenv (a IDE do Visual Studio) oferece:
 
-    
-    devenv meu-solution-do-coracao.sln /build Debug
-    devenv meu-project-do-coracao.vcproj /build Release
 
 > 
 > #### Dica para programadores profissionais
@@ -34,9 +29,6 @@ Sabe que não é uma má idéia?
 
 Porém, se você prefere algo mais amigável, mais ainda que o WinDbg, você pode iniciar o depurador do Visual Studio por linha de comando:
 
-    
-    vsjitdebugger notepad.exe
-    vsjitdebugger -p meu-pid-do-coracao
 
 Daí não tem jeito: você economiza no start, mas o Visual Studio vai acabar subindo. Ou um ou outro.
 

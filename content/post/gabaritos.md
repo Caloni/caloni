@@ -8,29 +8,9 @@ Um template -- ou, como é na tradução da primeira edição de The C++ Program
 
 Em C++, fazer uma função template é muito simples:
 
-    #include <iostream>
-    
-    using namespace std;
-    
-    template<typename T>
-    bool Compare(T& var1, T& var2)
-    {
-    	return var1 < var2;
-    }
-    
-    int main()
-    {
-    	int x = 24, y = 42;
-    	double dx = 100.0, dy = 10.0;
-    
-    	cout << "x is " << ( Compare(x, y) ? "lesser" : "bigger" ) << " than y\n";
-    	cout << "dx is " << ( Compare(dx, dy) ? "lesser" : "bigger" ) << " than dy\n";
-    }
 
 Continuando nosso tema de fazer as mesmas coisas em C, templates não é tão simples, pois não existe de fato na linguagem. Templates são interpretados pelo compilador, que gera um esqueleto de algoritmo que é usado para preencher código de todos os tipos utilizados. Em C isso era feito usando macros. Porém, macros não fazem parte da linguagem C. É apenas uma ferramenta chamada pré-processador que substitui texto antes do programa ser compilado. É através do pré-processador que, por exemplo, os headers são incluídos em um código-fonte. Isso já foi explicado em um artigo bem velhinho, e mais recentemente em uma palestra.
 
-    // qual o tipo de x e y? qualquer um que faça comparação
-    #define MACRO(x, y) x < y
 
 Eu não recomendaria usar macros em C++, assim como não recomendo em C. Porém, em C é a única opção para reciclar algoritmos de maneira estática. Exceto se você usar ponteiros de função, o que adiciona pouco overhead, mas se perde, assim como a técnica de macro, a informação dos tipos. A própria libc contém uma função, qsort, que é "genérica" através do uso de ponteiros sem tipo (void*) e ponteiro de função. A função ordena elementos de uma lista, mas para isso depende da função de comparação que é passada por parâmetro. Essa função recebe dois void* que deve comparar. Além disso, o leiaute na memória tem que ser fixo, contínuo, pois é assim que a função consegue mover os elementos. Ou seja, bem limitado.
 

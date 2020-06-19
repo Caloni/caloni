@@ -22,15 +22,6 @@ Por ser uma ferramenta bem flexível, são permitidos inúmeros formatos para se
 
 A primeira coisa a saber sobre comentários de documentação é que eles devem vir sempre ANTES do elemento que estamos comentando. Por exemplo, uma classe:
 
-    
-    /** Nova classe de exemplo
-    *
-    * Essa classe é um exemplo de como utilizar o Doxygen
-    */
-    class ClasseDeExemplo
-    {
-       // ...
-    };
 
 Note que o comentário inicia com um duplo asterisco "/". Isso indica ao Doxygen que vem documentação por aí.
 
@@ -38,36 +29,9 @@ Observe que seria mais simples que o Doxygen pegasse todo e qualquer comentário
 
 Também existe um outro formato bem popular, usado pelo pessoal do Java, que são os comentários que se iniciam com três barras:
 
-    
-    ///
-    /// Nova classe de exemplo
-    ///
-    /// Essa classe é um exemplo de como utilizar o Doxygen
-    /// E esse comentário é equivalente ao anterior
-    ///
-    class ClasseDeExemplo
-    {
-       // ...
-    };
 
 Além desse estilo de comentário, existem campos-chave que podemos colocar. Para definir um campo-chave, uma forma válida é usar o arroba seguido do seu nome, e a descrição. Eis um exemplo cheio deles:
 
-    
-    /** @brief Função de exemplo
-    *
-    * Essa função tem por objetivo exemplificar o uso do Doxygen
-    *
-    * @param firstParam Serve como primeiro parâmetro da função
-    * @param[out] anotherParam Esse é outro parâmetro que recebemos
-    *
-    * @return Se der erro, retorna -1. Se der tudo certo, 0.
-    *
-    * @remarks Essa função não pode ser chamada antes de ChamaEuPrimeiro.
-    */
-    int FuncaoDeExemplo(int firstParam, int anotherParam)
-    {
-       // ...
-    }
 
 Vejamos:
 

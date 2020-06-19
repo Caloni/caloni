@@ -20,18 +20,9 @@ Essas ferramentas são nativas do ambiente Linux, mas podem ser instaladas no Wi
 
 O que eu queria era processar a saída de um programa de forma que eu tivesse a lista de todas as extensões dos arquivos. Por exemplo, para a seguinte entrada:
 
-    
-    c:\path\arquivo1.cpp
-    c:\path\arquivo2.h
-    c:\arquivo3.hpp
-    c:\path\path2\arquivo4.cpp
 
 Eu gostaria de uma saída no seguinte formato:
 
-    
-    .cpp
-    .h
-    .hpp
 
 Basicamente é isso.
 
@@ -41,47 +32,12 @@ Obs.: sim, eu conheço os tutoriais do Aurélio, e aprendi regex através do liv
 
 Para filtrar o path do arquivo, e ao mesmo tempo retirar seu nome, podemos usar o seguinte comando (fora outras trilhões de variantes):
 
-    
-    programa | sed -e "s/^.*\\//" -e "s/.*\.\(.*\)/\1/"
 
 Após esse processamento, a saída é um monte de extensões vindas de um monte de arquivos:
 
-    
-    cpp
-    h
-    cpp
-    h
-    c
-    h
-    cpp
-    h
-    mak
-    vcproj
-    h
-    cpp
-    h
-    cpp
-    h
-    cpp
-    h
-    cpp
-    h
-    c
-    h
-    txt
-    c
-    cpp
-    h
-    mak
-    vcproj
-    cpp
-    h
-    ...
 
 Como podemos ver e é óbvio de imaginar, muitas extensões irão se repetir. Para eliminar as repetições e ordenar a saída da saída corretamente, usamos o comando sort:
 
-    
-    programa | sed -e "s/^.*\\//" -e "s/.*\.\(.*\)/\1/" | sort -u
 
 	
   * Os caracteres .*[]^$\ dão problemas se usados sem escape no sed, pois fazem parte dos comandos para procurar expressões regulares. Use-os com o caractere de escape \.
@@ -93,7 +49,6 @@ Como podemos ver e é óbvio de imaginar, muitas extensões irão se repetir. Pa
   * Para fazer o escape das barras do caminho de um arquivo temos que usar o conjunto \/ (obs.: caminhos em formato Unix). Para evitar esse uso enfadonho podemos substituir o caractere de divisão do comando s colocando-o na frente:
 
 	
-    * s/path\/muito\/muito\/muito\/longo.cpp/outropath\/muito\/muito\/longo.cpp/
 s#/path/muito/muito/muito/longo.cpp#/outropath/muito/muito/longo.cpp#
 
 	

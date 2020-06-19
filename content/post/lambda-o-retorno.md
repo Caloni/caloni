@@ -9,33 +9,6 @@ Na última vez que foi abordado o tema "lambda na ferida" falamos brevemente sob
 
 O padrão do lambda é supor que sua função embutida e enlatada não precisa retornar nada, o que torna a sintaxe mais simples: é um void AlgumaCoisa(argumentos). No entanto, para algoritmos como o findif isso não funciona, então é necessário retornar algo. E, no caso de findif, chamá-lo mais de uma vez pode ser feito facilmente criando uma variável lambda:
 
-    #include "Common.h"
-    #include <algorithm>
-    #include <vector>
-    #include <string>
-    
-    int main()
-    {
-    	std::vector<Employee> employees; // um bando de empregados
-    	std::string currentDate = GetCurrentDate();
-    
-    	// definindo uma função, como quem não quer nada, dentro de uma função
-    	auto FindByBithDate = &->bool // <-- tipo de retorno
-    	{
-    		return employee.birthDate == currentDate;
-    	};
-    
-    	GetEmployees(employees);
-    
-    	auto findIt = std::find_if(employees.begin(), employees.end(), FindByBithDate);
-    
-    	while( findIt != employees.end() )
-    	{
-    		SendMail(*findIt);
-    		findIt = std::find_if(findIt + 1, employees.end(), FindByBithDate);
-    	}
-    }
-    
 
 O tipo de retorno que colocamos através de uma flechinha é obrigatória? De fato, não. Se eu omiti-la vai funcionar do mesmo jeito porque o único ponto de saída da minha função retorna um bool.
 

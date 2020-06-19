@@ -16,17 +16,12 @@ Menos a parte de mudar o sshdconfig.
 
 Como nos informa um post do Stack Overflow, é preciso comentar no arquivo c:\programdata\ssh\sshconfig, próximo do final, essas duas linhas:
 
-    Match Group administrators
-           AuthorizedKeysFile __PROGRAMDATA__/ssh/administrators_authorized_keys
 
 Para isso:
 
-    #Match Group administrators
-    #       AuthorizedKeysFile __PROGRAMDATA__/ssh/administrators_authorized_keys
 
 Aí, sim. Reiniciar, o serviço e testar a conexão:
 
-    ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no domain\user@host
 
 Os programas ssh.exe (shell remoto) e scp.exe (cópia remota de arquivos) também estão disponíveis no pacote OpenSSH, mas a versão do Cygwin ou até do Git (que vem com um pacote de ferramentas básicas de Linux) funcionam.
 

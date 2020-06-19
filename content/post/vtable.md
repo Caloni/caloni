@@ -12,57 +12,13 @@ A vtable foi um mecanismo criado para implementar o polimorfismo em C++ quando f
 
 A coisa fica mais simples quando explicamos que em C++ você só paga pelo que usa. Se você declarar uma classe que não tenha nenhum método virtual, os objetos dessa classe não precisarão de uma vtable. No entanto, você não conseguirá sobrescrever um método dessa classe através de uma derivada:
 
-    #include <iostream>
-    
-    class C
-    {
-    public:
-            void method()
-    	{
-    		std::cout << "C::method\n";
-    	}
-    };
-    
-    class D : public C
-    {
-    public:
-            void method()
-    	{
-    		std::cout << "D::method\n";
-    	}
-    };
-    
-    void func(C* c)
-    {
-            c->method(); 
-    }
-    
-    int main()
-    {
-            D d;
-            func(&d); // passa endereço de C "dentro de D"
-    }
-    
-     
-    
 
-    
-    Saída
-    =====
 
-    
-    C::method
 
 No exemplo acima, a chamada feita em func irá chamar o método da classe C, mesmo que a classe D tenha sobrescrito esse método. O programador semi-experiente deve pensar "lógico, ela não é virtual!", e está certo, assim como qualquer pessoa que decora essas formulazinhas de vestibular.
 
 Para criarmos polimorfismo de verdade, precisamos declarar o método em C como virtual:
 
-    
-    class C
-    {
-    public:
-            virtual void method();
-    };
 
 Agora sim, a chamada em func irá ser para D::method.
 
@@ -74,17 +30,5 @@ Dessa forma, algo um pouco diferente ocorre na chamada c->method() quando estamo
 
 Façamos um pequeno teste para comprovar o que falamos. Vamos escancarar a chamada feita a partir de uma instância de D e a partir de uma instância de C. Nada que um WinDbg não resolva de braços cruzados:
 
-    
-    int main()
-    {
-            D d;
-            C c;
-    
-            func(&d);
-            func(&c);
-    }
 
-    
-    cl /Zi vtable3.cpp
-    windbg vtable3.exe
 

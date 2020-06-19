@@ -45,7 +45,6 @@ Ah, sim, as flags! Elas são importantíssimas para o funcionamento sadio de nos
 
 As flags são bits que mudam de acordo com algumas instruções, principalmente as de comparação (vide cmp). Após a execução de comparação, o estado de determinadas flags junto da próxima instrução (que deverá ser um salto condicional) irá dizer para onde o programa irá pular sua execução. É assim que temos o if:
 
-    if( x == 10 )XEhIgualA10();elseXEhDiferenteDe10();
 
 O código acima seria representado em assembly mais ou menos como abaixo:
 

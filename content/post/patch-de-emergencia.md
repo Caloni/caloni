@@ -12,32 +12,6 @@ Oh, meu Deus!
 
 Com toda a calma do mundo, você saca o seu netbook, baixa a versão homologada do controle de fonte e descobre facilmente o problema, gerando um patch e recompilando o projeto.
 
-    #include <windows.h>
-    #include <stdio.h>
-    #include <time.h>
-    #include <stdlib.h>
-    
-    void DoProcess()
-    {
-    	int nextNumber = rand() % 1000;
-    	//bool even = nextNumber % 2;
-    	bool even = !(nextNumber % 2);
-    	printf("%d => %s\n", nextNumber, even ? "even" : "odd");
-    }
-    
-    int main()
-    {
-    	srand( time(0) );
-    
-    	while( true )
-    	{
-    		DoProcess();
-    		Sleep(3000);
-    	}
-    }
-    
-     
-    
 
 Feliz da vida, avisa o seu chefe que a única coisa que precisam trocar é o serviço crítico. Parar, trocar o arquivo, reiniciar o serviço. Simples.
 
@@ -51,34 +25,11 @@ Nota: O parâmetro -pv permite depurar um processo de forma não-invasiva, mas a
 
 Analisando o disassembly da função nova e antiga podemos perceber que o tamanho delas não mudou (bom sinal), mas o uso dos registradores e a lógica interna teve uma alteração significativa (mau sinal):
 
-    
-    Função antiga: bool even = nextNumber % 2;
-    test    edx,edx
-    setne   al
-    mov     byte ptr [ebp-1],al
-    movzx   ecx,byte ptr [ebp-1]
-    test    ecx,ecx
-    je      criticalservice!DoProcess+0x3f (0040105f)
-    
-    Função nova: bool even = !(nextNumber % 2);
-    neg     edx
-    sbb     edx,edx
-    inc     edx
-    mov     byte ptr [ebp-1],dl
-    movzx   eax,byte ptr [ebp-1]
-    test    eax,eax
-    je      criticalservice!DoProcess+0x3f (0040105f)
 
 Podemos começar escrevendo a função nova da memória do processo de teste para um arquivo, e lendo em seguida para cima da função antiga. Só que para isso temos que nos certificar que os endereços que referenciam para fora da função sejam os mesmos. Nesse caso, felizmente, são.
 
-    
-    0:001> .writemem c:\tests\newfunc.dat criticalservice!DoProcess 0040107e
-    Writing 5f bytes.
 
 Em seguida iremos sobrescrever a função antiga no processo em execução. Para evitar crashes é vital que tenhamos certeza que a função não estará sendo executada nesse momento. No nosso caso basta aguardar a entrada na função Sleep da API, que dorme por 3 segundos, tempo suficiente para a atualização.
 
-    
-    0:000> .readmem c:\tests\newfunc.dat criticalservice!DoProcess 0040107e
-    Reading 5f bytes.
 
 Atualizada a função, apenas nos lembramos de renomear o arquivo antigo e atualizar o novo para evitar reativar o problema. Agora podemos voltar para a apreciação das belezas da natureza...

@@ -18,7 +18,5 @@ O problema é que não existe nenhuma dica do que está errado em condições no
 
 A partir daí teremos mais saída na janela de output do build. Logo no começo (talvez pela equipe do VS saber que isso é bem comum) há uma dica de quais arquivos exige o rebuild (você pode fazer isso apenas clicanco em build do projeto que sempre acusa como out of date):
 
-    1>----- Up-To-Date check: Project: myproject, Configuration: Debug Win32 -----
-    1>Prtoject not up to date because build input 'C:\Projects\headers\header_missing.hpp' is missing.
 
 Depois de detectado o arquivo faltante, é só removê-lo ou atualizar o path. Esse erro não deve mais acontecer e agora você só precisa compilar uma vez e sair depurando.

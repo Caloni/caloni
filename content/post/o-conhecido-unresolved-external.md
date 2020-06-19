@@ -18,8 +18,6 @@ Dica extra: às vezes você pensa que está usando uma LIB em um determinado cam
 
 Às vezes, porém, não estamos usando a função diretamente e não conhecemos quem a usaria. Para isso que hoje em dia os compiladores mais espertos nos dizem em que parte do código foi referenciado a tal função:
 
-    
-    test.obj : error LNK2019: unresolved external symbol _func referenced in function _main
 
 É sábio primeiro inspecionar a função que referencia, para depois entender porque ela não foi encontrada. Mesmo parecendo diferente, essa operação faz parte do primeiro passo, que é identificar a origem.
 

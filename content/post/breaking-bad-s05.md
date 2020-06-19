@@ -10,20 +10,6 @@ Apesar de gostar muito de várias das frases do "químico do mal", arrisco dizer
 
 Essa frase pertence ao início do episódio mais perfeito de toda a saga. O antepenúltimo da quinta temporada, entitulado Ozymandias. O nome vem do grego e diz respeito ao faraó egípcio Ramsés II. É o título de um soneto do poeta Percy Bysshe Shelley, composto junto com a chegada de fragmentos da pirâmide onde o faraó foi enterrado em um museu britânico. Shelly escreveu:
 
-    I met a traveller from an antique land
-    Who said: "Two vast and trunkless legs of stone
-    Stand in the desert. Near them, on the sand,
-    Half sunk, a shattered visage lies, whose frown,
-    And wrinkled lip, and sneer of cold command,
-    Tell that its sculptor well those passions read
-    Which yet survive, stamped on these lifeless things,
-    The hand that mocked them and the heart that fed:
-    And on the pedestal these words appear:
-    'My name is Ozymandias, king of kings:
-    Look on my works, ye Mighty, and despair!'
-    Nothing beside remains. Round the decay
-    Of that colossal wreck, boundless and bare
-    The lone and level sands stretch far away."
 
 A história tem a ver em como os maiores feitos dos maiores reis, imperadores e etc de toda a humanidade eventualmente irão virar pó, serem esquecidos, conforme o nível de areia vai os encobrindo. Sim, esse é o episódio-queda de Heisenberg, e assim como o final da quarta temporada, é mais um ponto de escape perfeito para a série.
 

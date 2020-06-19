@@ -16,18 +16,13 @@ Para ter acesso aos meus projetos iniciais é simples: basta usar o mesmo comand
 
 	
   * MouseTool - Simulador de clique de mouse
-    * bzr branch https://code.launchpad.net/mtool
   * Influence Board - Complemento ao Winboard que mostra a influência das peças
-    * bzr branch https://code.launchpad.net/infboard
   * Conversor Houaiss Babylon - Converte de um dicionário para o outro
-    * bzr branch https://code.launchpad.net/houaiss2babylon
 
 
 
 Como o Bazaar foi feito integrado com o Launchpad, também é possível usar um comando bem mais fácil:
 
-    
-    bzr branch lp:project_name
 
 Assim como é possível usar comandos de repositório, também é possível navegar pelo histórico de mudanças do projeto simplesmente usando os linques acima no navegador de sua preferência. E é nessa hora que começa a ficar interessante publicar seu projeto na web. Por falar nisso, que tal aprender como
 
@@ -50,6 +45,5 @@ Devido a alguns problemas, recomendo que use o texto exibido na tela do gerador 
 
 6. Use os comandos do Bazaar passando o usuário e o branch:
 
-    bzr branch lp:~seu-usuario/projeto/branch
 
 Simples e direto. E funciona!

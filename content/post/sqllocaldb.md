@@ -10,28 +10,7 @@ Após degladiar novamente com problemas com o SQL Server Express 17 minha espera
 
 O marketing da Microsoft sempre será melhor do que as reais soluções entregues. Depois de ver tudo isso funcionar em um banco criado com o LocalDB em pequenos e simples passos, as dores de cabeça começaram na hora de compartilhar ou de criar do zero este mesmo banco em uma conta de sistema, que é como rodam geralmente os serviços do projeto:
 
-    C:\WINDOWS\system32>psexec -s cmd.exe
-    
-    PsExec v2.11 - Execute processes remotely
-    Copyright (C) 2001-2014 Mark Russinovich
-    Sysinternals - www.sysinternals.com
-    
-    Microsoft Windows [Version 10.0.17763.615]
-    (c) 2018 Microsoft Corporation. All rights reserved.
-    C:\WINDOWS\system32>sqllocaldb i
-    MSSQLLocalDB
-    
-    C:\WINDOWS\system32>sqllocaldb create "test"
-    LocalDB instance "test" created with version 13.1.4001.0.
-    
-    C:\WINDOWS\system32>sqllocaldb start "test"
-    LocalDB instance "test" started.
-    
-    C:\WINDOWS\system32>sqlcmd -S (localdb)\test
 
-    ...
-    ... hangs forever
-    ...
 
 O fun fact até aqui é que a primeira versão que tentei, a Express 2017, sequer chegava nesse ponto, dando erros de conexão com named pipe ou timeout no login. Não estou certo de como funcionaria um login em um acesso local em um arquivo, mas essa era uma mensagem extremamente longa e potencialmente inútil. Encontrei uma outra alma sofredora na internet neste mesmo dia de hoje que recomendou fazer o rollback para o Server 2016 [2] (por isso a versão 13.1 no prompt acima), mas os erros apenas mudam de figura ou se repetem indefinidamente.
 

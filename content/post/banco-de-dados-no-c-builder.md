@@ -40,28 +40,9 @@ Criado o banco e testado (experimente conectar pelo próprio BDE) podemos agora 
 
 Abaixo segue a configuração de cada um deles, ou seja, as propriedades que você deve mudar para que tudo funcione.
 
-    
-      object Database1: TDatabase
-        AliasName = 'MegaSena'
-        Connected = True
-        DatabaseName = 'MegaSena'
-        LoginPrompt = False
-      end
-      object Table1: TTable
-        Active = True
-        DatabaseName = 'MegaSena'
-        TableName = 'Resultados'
-      end
-      object DataSource1: TDataSource
-        DataSet = Table1
-      end
 
 Após todos esses componentes não-visuais terem sido inseridos no form, nada como colocar alguma coisa que o usuário veja: um TDBGrid.
 
-    
-      object DBGrid1: TDBGrid
-        DataSource = DataSource1
-      end
 
 Com isso, nossa janela já exibe o conteúdo da tabela em tempo de design:
 

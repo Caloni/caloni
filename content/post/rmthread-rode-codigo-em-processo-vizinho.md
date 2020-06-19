@@ -14,94 +14,15 @@ Para fazer a DLL, existe um projeto de demonstração que se utiliza de uma téc
 
 Existem três funções que poderão ser utilizadas pelo seu programa:
 
-    /** Run process and get rights for running remote threads. */
-    HANDLE CreateAndGetProcessGodHandle(LPCTSTR lpApplicationName, LPTSTR lpCommandLine);
-    
-    /** Load DLL in another process. */
-    HMODULE RemoteLoadLibrary(HANDLE hProcess, LPCTSTR lpFileName);
-    
-    /** Free DLL in another process. */
-    BOOL RemoteFreeLibrary(HANDLE hProcess, HMODULE hModule); 
-    
 
 Eis a rotina principal simplificada demonstrando como é simples a utilização das funções:
 
-    //...
-    // Start process and get handle with powers.
-    hProc = CreateAndGetProcessGodHandle(tzProgPath, tzProgArgs);
-    
-    if( hProc != NULL )
-    {
-    	// Load DLL in the create process context.
-    	HMODULE hDll = RemoteLoadLibrary(hProc, tzDllPath);
-    
-    	if( hDll != NULL )
-    		RemoteFreeLibrary(hProc, hDll);
-    
-    	CloseHandle(hProc);
-    }
-    //... 
-    
 
 A parte mais complicada talvez seja o que fazer quando a sua DLL é carregada. Considerando que ao ser chamada em seu ponto de entrada, o código da DLL possui algumas limitações (uma já citada; para mais, vide a ajuda de DllMain no MSDN), fiz uma "execução alternativa", criando uma thread na função DllMain:
 
-    BOOL APIENTRY DllMain(HANDLE hModule, DWORD ul_reason_for_call, LPVOID lpReserved)
-    {
-    	switch( ul_reason_for_call )
-    	{
-    		case DLL_PROCESS_ATTACH:
-    		{
-    			DWORD dwThrId;
-    
-    			// Fill global variable with handle copy of this thread.
-    
-    			BOOL bRes =
-    			DuplicateHandle(GetCurrentProcess(),
-    				GetCurrentThread(),
-    				GetCurrentProcess(),
-    				g_hThrDllMain,
-    				0,
-    				FALSE,
-    				0);
-    
-    			if( bRes == FALSE )
-    				break;
-    
-    			// Call function that do the useful stuff with its DLL handle.
-    			CloseHandle(CreateThread(NULL,
-    				0,
-    				RmThread,
-    				(LPVOID) LoadLibrary(g_tzModuleName),
-    				0,
-    				dwThrId));
-    				}
-    			break;
-    			//... 
-    
 
 A função da thread, por sua vez, é esperar pela finalização da thread DllMain (temos o handle dessa thread armazenado em ghThrDllMain), fazer o que tem que fazer, e retornar, liberando ao mesmo tempo o handle da DLL criado para si:
 
-    /**
-    * Sample function, called remotely for RmThread.exe.
-    */
-    DWORD WINAPI RmThread(LPVOID lpParameter)
-    {
-    	HMODULE hDll = (HMODULE) lpParameter;
-    	LPCTSTR ptzMsg = _T("Congratulations! You called RmThread.dll successfully!");
-    
-    	// Wait DllMain termination.
-    	WaitForSingleObject(g_hThrDllMain, INFINITE);
-    
-    	//TODO: Put your remote code here.
-    	MessageBox(NULL,
-    		ptzMsg,
-    		g_tzModuleName,
-    		MB_OK : MB_ICONINFORMATION);
-    
-    	// Do what the function name says.
-    	FreeLibraryAndExitThread(hDll, 0);
-    } 
-    
 
 A marca TODO é aonde seu código deve ser colocado (você pode tirar o MessageBox, se quiser). Como DllMain já foi previamente executada, essa parte do código está livre para fazer o que quiser no contexto do processo vizinho.
 
@@ -109,6 +30,5 @@ Um detalhe interessante é que é necessária a chamada de FreeLibraryAndExitThr
 
 Um problema chato (que você poderá encontrar) é que, se a DLL não for carregada com sucesso, não há uma maneira trivial de obter o código de erro da chamada de LoadLibrary. Uma vez que a thread inicia e termina nessa função API, o LastError se perde. Alguma idéia?
 
-    
   * Endereço do artigo (e fontes) no Code Project
 

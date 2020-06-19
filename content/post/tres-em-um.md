@@ -10,37 +10,12 @@ Na verdade, não fiz tanto, mesmo. Muitas mensagens do Outlook, gráficos UML e 
 
 Definir que estamos programando para XP ou superior:
 
-    
-    #define _WIN32_WINNT 0x0600
 
 Inserir suporte a linques na biblioteca de controles comuns:
 
-    
-    INITCOMMONCONTROLSEX icc = { sizeof(icc), ICC_LINK_CLASS }; 
-    InitCommonControlsEx(&icc);
 
 Usar o CreateWindow com a classe certa, fazer markup html dentro do título e cuidar das mensagens de click e enter no controle:
 
-    CreateWindowEx(0, WC_LINK, 
-    	L"<a href=\"http://www.caloni.com.br\">This site rocks!</a>", 
-    	WS_VISIBLE | WS_CHILD | WS_TABSTOP, ...);
-    
-    //...
-    
-    	case WM_NOTIFY:
-    		switch( ((LPNMHDR)lParam)->code )
-    		{
-    		case NM_CLICK:
-    		case NM_RETURN:
-    		{
-    			PNMLINK pNMLink = (PNMLINK)lParam;
-    			LITEM item = pNMLink->item;
-    			if( (((LPNMHDR)lParam)->hwndFrom == st_linkHwnd[hWndDlg]) )
-    			{
-    				// codigo util
-    			}
-     
-    
 
 Você que não está fazendo subclassing de janelas existe outra técnica que você pode utilizar: arrastar-e-soltar o controle do seu ToolBox. Qual é a graça?
 
@@ -48,15 +23,6 @@ Você que não está fazendo subclassing de janelas existe outra técnica que vo
 
 A partir do Vista temos uma nova API para fazer isso. E é muito simples:
 
-    
-    BOOL WINAPI ShutdownBlockReasonCreate( 
-      __in  HWND hWnd, 
-      __in  LPCWSTR pwszReason 
-    );   
-    
-    BOOL WINAPI ShutdownBlockReasonDestroy( 
-      __in  HWND hWnd 
-    );
 
 Quando ao receber a famigerada WMQUERYENDSESSION, basta retornar FALSE. O Windows faz o resto.
 

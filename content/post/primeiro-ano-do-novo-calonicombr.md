@@ -12,17 +12,7 @@ E por falar em variedade, falamos de vários assuntos desde o início. Entre um 
 
 No placar, as coisas ficaram mais ou menos distribuídas:
 
-    
-    Assunto		Artigos
 
-    
-    Programação	10
-    C++		31
-    Windows		11
-    Depuração	10
-    WinDbg		18
-    Dicas		27
-    Código		15
 
 Sobre os visitantes, eles ainda são uma incógnita. Relacho meu, admito. Não faço nem uma simples pesquisa para saber se a maioria está no nível iniciante Juquinha ou avançado "The Guy". Prometo melhorar isso no segundo ano.
 

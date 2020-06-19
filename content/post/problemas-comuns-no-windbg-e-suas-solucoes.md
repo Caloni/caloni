@@ -26,6 +26,5 @@ Talvez ele exista, mas por algum motivo foi copiado corrompido para o symbol ser
 
 E, como brinde, um grande aliado da produtividade: como evitar que o WinDbg bloqueie seu PDB enquanto você precisa constantemente recompilar seu driver:
 
-    .reload -u modulo
 
 Fonte: Blog do Nynaeve.

@@ -16,14 +16,6 @@ Ou, do inglês, PMF.
 
 E o que o PMF tem a oferecer? Esse cara parece ter o esboço da resposta:
 
-    > Como nós iremos resolver problemas?
-    > Programando, filho da pata
-    > Como nós iremos testar?
-    > Programando, filho da pata
-    > Como iremos completar tarefas no prazo e abaixo do orçamento?
-    > Programando, filho da pata
-    > Como nós iremos ter certeza que os programadores estão felizes e fazendo o seu serviço?
-    > Programando, filho da pata
 
 E como ele pretende fazer isso? Bom, existe um algoritmo, é claro:
 

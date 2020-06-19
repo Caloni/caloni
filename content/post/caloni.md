@@ -19,7 +19,6 @@ Entre xadrez e andar de bicicleta, o hobby que levei mais a sério foi mesmo ser
 
 Abaixo vemos uma breve e não-exaustiva lista das coisas que eu andei fazendo na minha não tão breve vida de escovação de bits. E espero que essa lista continue crescendo.
 
-    .dump /ma curriculo.dmp
 
 Desenvolvi uma solução de cópia de arquivos entre máquinas famigeradamente conhecida como "CopyFile que não copia" usando tecnologia COM e expansão de macros. Foi meu primeiro sistema a ser lançado em produção e me orgulho bastante dele ter sido concebido ainda por um programador de nível Júnior que mal sabia compilar uma DLL.
 

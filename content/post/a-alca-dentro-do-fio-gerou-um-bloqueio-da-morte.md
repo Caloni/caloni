@@ -26,18 +26,6 @@ E, depois de se acostumar com o termo, ler em outro capítulo:
 
 Um exemplo notável é o famoso livro de algoritmos em C da O'Reilly, que mesmo na nova edição com uma errata de 49 itens foi possível detectar mais erros. O exemplo abaixo consta no item 46 da edição de 2000 (Editora Ciência Moderna):
 
-    if (opos > 0) {
-    
-        if ((temp = (unsigned char *)realloc(orig, opos + 1)) == NULL) {
-    
-            bitree_destroy(tree);
-            free(tree);
-            free(original); /* original? */
-            return -1;
-        }
-    
-        orig = temp;
-    }
 
 Obs.: importante notar que no original não consta esse erro.
 

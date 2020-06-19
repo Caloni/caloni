@@ -24,79 +24,18 @@ Se você está apenas acompanhando estes artigos sem ter se aprofundado em um li
 
 Também não deve ser muita surpresa saber que uma caixa de diálogo também possui sua função de janela, que é praticamente idêntica a do CreateWindow. A diferença está mais no tratamento das mensagens.
 
-    INT_PTR CALLBACK DialogProc(HWND hwndDlg, UINT uMsg, 
-    							WPARAM wParam, LPARAM lParam)
-    {
-    	INT_PTR ret = TRUE;
-    
-    	switch( uMsg )
-    	{
-    	case WM_INITDIALOG:
-    		g_singleDialogHandle = hwndDlg;
-    		StartBruteForceThread();
-    		break;
-    	case WM_COMMAND:
-    		if( LOWORD(wParam) == IDC_EDIT1 && HIWORD(wParam) == EN_CHANGE )
-    		{
-    			TCHAR pwd[MAX_PATH];
-    
-    			if( GetDlgItemText(hwndDlg, IDC_EDIT1, 
-    				pwd, SIZEOF_ARRAY(pwd)) )
-    			{
-    				lstrcpy(g_currentPassword, pwd);
-    				g_currentPasswordSize = lstrlen(pwd);
-    
-    				RestartBruteForceThread();
-    			}
-    		}
-    		break;
-    	case WM_CLOSE:
-    		EndDialog(hwndDlg, TRUE);
-    		break;
-    	default:
-    		ret = FALSE;
-    	}
-    
-    	return ret;
-    } 
-    
 
 A surpresa maior deve ficar por conta da nova thread, que é criada através da função da API CreateThread:
 
-    void StartBruteForceThread()
-    {
-    	g_bruteForceContinue = TRUE;
-    	g_bruteForceThread = CreateThread(NULL, 0, BruteForceThread, NULL, 
-    		0, &g_bruteForceThreadId);
-    } 
-    
 
 Assim como na criação de janelas, é passada uma função de callback. Só que diferente de uma função de janela, essa função não é executada na mesma thread que criou a janela, mas é um novo "int main" para uma nova linha de execução, que irá rodar em paralelo com a primeira. Essa segunda linha de execução termina quando retornamos dessa função, que no nosso exemplo é nunca, mas poderia ser quando fosse terminada sua tarefa.
 
 Depois que uma thread termina, existem maneiras das outras threads ficarem sabendo e até obterem seu código de retorno. Isso pode ser feito utilizando-se o handle retornado pela função CreateThread, uma duplicação desse mesmo handle ou até a obtenção de um novo handle através do identificador da thread, o Thread Id (TID).
 
-    DWORD WINAPI ThreadProc(PVOID param)
-    {
-    	// Executing in a new thread...
-    	return ERROR_SUCCESS; // Exiting the function, finalizing the thread.
-    } 
-    
 
 Bom, acho que para explicar o uso de um sistema multithreading em um artigo só não basta. Mas para explicar por que sua senha deve ter mais de três caracteres, acho que é o bastante. Até a próxima.
 
-    while( g_bruteForceContinue )
-    {
-    	if( lstrcmp(currentPassword, breakPassword) != 0 )
-    	{
-    		IncrementPassword(breakPassword, 
-    			SIZEOF_ARRAY(breakPassword) - 1);
-    	}
-    
-    	SetDlgItemText(g_singleDialogHandle, IDC_EDIT2, breakPassword);
-    } 
-    
 
-    
   * Outros artigos sobre a história do windows
   * Windows 95: quinze anos de grandes feitos e telas azuis
 

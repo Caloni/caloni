@@ -9,9 +9,6 @@ Máquina com parte do registro corrompida, notadamente alguma sub-chave de HKEYC
 Erro de automação? ("Mensagem do cliente - A classe não dá suporte para automação")
 
 Abaixo um exemplo simples para ter uma ideia em JS:
-    
-    var win = window.open('minha_url_do_coracao.htm');
-    win.focus(); // aqui dá o erro
 
 A primeira coisa que se faz nesse caso é pesquisar no Google por pessoas que já tiveram esse problema. A maioria dizia ser necessária registrar novamente as DLLs do navegador/shell, coisa que fizemos à exaustão e não resolveu o problema. Também imaginamos haver relação com a versão da SDocVw.dll que estava alocada na lista de assemblies .NET cacheados, o chamado GAC. Ou seja, já estávamos viajando geral.
 
@@ -55,8 +52,6 @@ Foi esse o procedimento seguido:
 
 Essa série de passos foi reproduzida em menos de uma hora até chegarmos a apenas uma linha no registro:
 
-    
-    [-HKEY_CLASSES_ROOT\CLSID\{C5598E60-B307-11D1-B27D-006008C3FBFB}]
 
 Que se revelou pertencer à DLL dispex.dll:
 
@@ -68,8 +63,6 @@ Não conserta.
 
 Porém, ao usar o Method 1 (registrar novamente a DLL) o problema foi resolvido. Exportei o registro antes e depois da operação e por algum motivo a máquina do cliente estava com o GUID das interfaces IDispatchEx e IObjectIdentity adulteradas:
 
-    Antes: C5598E60-B307-11D1-B27D-006008C3FBFB}
-    Depois: 10E2414A-EC59-49D2-BC51-5ADD2C36FEBC}
 
 Realizei o mesmo teste com nossa DLL que gerou o problema inicial e descobri que não houve mudanças nessa parte do registro por conta dela.
 

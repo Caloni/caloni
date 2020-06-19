@@ -20,39 +20,6 @@ As duas primeiras observações do formato do arquivo nos dizem que (1) o primei
 
 Dessa forma, podemos começar a construir nosso interpretador de arquivos do Houaiss em seu formato básico.
 
-    #include <iostream>
-    #include <string>
-    
-    int main()
-    {
-    	char cmd; // comando da linha atualmente lida
-    	string line; // linha atualmente lida
-    	int count = 0; // contador de palavras
-    
-    	while( getline(cin, line) )
-    	{
-    		cmd = line[0]; // guardamos o comando
-    		line.erase(0, 1); // tiramos o comando da linha
-    		format(line); // formatação da linha (explicações adiante)
-    
-    		switch( cmd ) // que comando é esse?
-    		{
-    		case '*': // verbete
-    			++count;
-    			cout << '\n' << line << '\n';
-    			break;
-    
-    		case ':': // definição
-    			cout << line << "<br>\n";
-    			break;
-    		}
-    	}
-    
-    	return 0;
-    }
-    
-     
-    
 
 Simples e funcional. Com esse código já é possível extrair o básico que precisamos de um dicionário: os vocábulos e suas definições.
 
@@ -60,63 +27,6 @@ Para conseguir mais, é necessário mais trabalho.
 
 A formatação segue o estilo já identificado, de forma que podemos aos poucos montar um interpretador de formatação para HTML, que é o formato reconhecido pelo Babylon Builder. Podemos seguir o seguinte molde, chamado no exemplo de código anterior:
 
-    void format(string& str)
-    {
-    	string::size_type pos1 = 0;
-    	string::size_type pos2 = 0;
-    
-    	while( (pos1 = str.find('<')) != string::npos )
-    		str.replace(pos1, 1, "<");
-    
-    	while( (pos1 = str.find('>')) != string::npos )
-    		str.replace(pos1, 1, ">");
-    
-    	while( (pos1 = str.find('{')) != string::npos )
-    	{
-    		if( pos1 && str[pos1 - 1] == '\\' ) // caractere de escape
-    			str.replace(pos1 - 1, 2, "{");
-    		else
-    		{
-    			string subStr;
-    
-    			pos2 = str.find('}', pos1);
-    
-    			if( pos2 != string::npos )
-    				subStr = str.substr(pos1 + 1, pos2 - pos1 - 1);
-    			else
-    				subStr = str.substr(pos1 + 1);
-    
-    			istringstream is(subStr);
-    
-    			string fmt;
-    			string word;
-    			is >> fmt;
-    			getline(is, word);
-    			if( word[0] == ' ' )
-    			word.erase(0, 1);
-    
-    			if( fmt.find("\\i") != string::npos )
-    				word = "<i>" + word + "</i>";
-    
-    			if( fmt.find("\\b") != string::npos )
-    				word = "<b>" + word + "</b>";
-    
-    			if( fmt.find("\\f20") != string::npos )
-    				word = "<font style=\"text-transform: uppercase;\">" + word + "</font>";
-    
-    			if( fmt.find("\\super") != string::npos )
-    				word = "<font style=\"vertical-align: super;\">" + word + "</font>";
-    
-    			if( pos2 != string::npos )
-    				str.replace(pos1, pos2 - pos1 + 1, word);
-    			else
-    				str.replace(pos1, pos2, word);
-    		}
-    	}
-    }
-    
-     
-    
 
 Algumas partes ainda estão feias, eu sei. Mas, ei, isso é um código de ráquer, não é mesmo? Além do mais, se isso não é desculpa suficiente, estamos trabalhando em uma versão beta.
 

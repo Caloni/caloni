@@ -8,14 +8,6 @@ Já escrevi sobre debug remoto no finado C++ Builder, sobre como usar o msvcmon.
 
 Resumo dos comandos:
 
-    Busca do pacote de debug:
-    c:\>dir /s /b "Remote Debugger"
-    Executável:
-    C:\Tools\Remote Debugger\x64\msvsmon.exe
-    Argumentos:
-    /noauth /anyuser /timeout 99999999 /silent
-    Serviço:
-    C:\Tools\nssm.exe install Msvcmon
 
 Hoje em dia, às vésperas do Visual Studio 2019, espero que todo mundo use pelo menos o Visual Studio 2010 porque a partir dessa versão tornou-se muito fácil depurar remotamente, pois um pacote feito para isso já é instalado junto do Visual Studo. É uma pasta que basta copiar e colar na máquina-alvo. Para encontrá-la basta digitar "Remote Debugger" dentro do Program Files.
 

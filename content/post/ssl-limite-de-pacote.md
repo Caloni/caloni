@@ -12,17 +12,9 @@ Sim, a camada de aplicação tem que estar ligada que existe SSL abaixo dela.
 
 Isso quer dizer que este snippet de código, por exemplo:
 
-    _sock.write_some(::boost::asio::buffer(output.data(), output.size()), err);
 
 Não é inocente e não funciona sempre. Se sock for um socket cuja comunicação está encriptada por SSL (em outras palavras -- em Boostês -- ele for um sslsocket) você precisa escrever output em pequenas quantidades. Como em outra implementação inocente:
 
-    do
-    {
-        size_t sz = std::min((size_t) LESS_THAN_16_KB, output.size());
-        _sock.write_some(::boost::asio::buffer(output.data(), sz), err);
-        output.erase(0, sz);
-    }
-    while (err.value() == boost::system::errc::success && output.size() > 0 );
 
 Se isso não for feito e a ponta server escrever, digamos, 512KB, ou 17KB, ou qualquer coisa acima de 16KB, ela irá receber... 16 KB. E acabou. O resto se perder.
 

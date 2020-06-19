@@ -19,12 +19,6 @@ Pensando nisso, resolvi fazer uma primeira versão, em Python, de um script em q
 
 O funcionamento é muito simples, mas pede muitos parâmetros (recomendo criar um batch para armazená-los). Então vejamos:
 
-    gitindex.py --help
-    usage: gitindex.py [-h] 
-    --dbgtools DBGTOOLS 
-    --pdbpath PDBPATH 
-    --projname PROJNAME 
-    --repo REPO
 
  - dbgtools é o caminho onde está o Debugging Tools for Windows;
  - pdbpath é o caminho de onde devem ser pegos os PDBs, como um output da vida;

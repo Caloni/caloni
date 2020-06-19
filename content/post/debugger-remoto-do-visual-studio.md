@@ -18,67 +18,14 @@ Copiados esses arquivos na máquina-alvo é necessário copiar também o execut�
 
 A primeira execução de toda ferramenta, seu help, irá nos mostrar o seguinte no msvcmon:
 
-    C:\Tools\msvcmon-vs2003>msvcmon /?
-    Microsoft (R) Visual C++ Remote Debug Monitor(x86) Version 7.10.3077
-    Copyright (C) Microsoft Corporation 1987-2002. All rights reserved.
-    
-    Usage: msvcmon.exe [options]
-    
-    Options:
-    
-    -?
-            Display options
-    
-    -anyuser             (tcp/ip only)
-            Allow any user to debug through msvcmon
-    
-    -maxsessions number  (tcp/ip only)
-            Change the number of concurrent debug sessions allowed
-    
-    -nowowwarn
-            Do not warn when running under WOW64
-    
-    -s pipe_suffix_name  (pipe only)
-            Create main pipe with suffix pipe_suffix_name appended to pipe name
-    
-    -tcpip
-            Operate in tcp-ip mode
-    
-    -timeout seconds     (tcp/ip only)
-            Termination timeout - reset on every connection request
-            (use -1 for no timeout)
-    
-    -u xyz\abc           (pipe only)
-            Allow "abc" user/group in domain "xyz" to connect
-    
-    C:\Tools\msvcmon-vs2003>
 
 Minhas opções favoritas são -tcpip -anyuser -timeout -1, o que libera o acesso a qualquer usuário direto por TCP/IP e o timeout da execução é infinito. All access no limits =)
 
-    C:\Tools\msvcmon-vs2003>msvcmon -tcpip -anyuser -timeout -1
-    Microsoft (R) Visual C++ Remote Debug Monitor(x86) Version 7.10.3077
-    Copyright (C) Microsoft Corporation 1987-2002. All rights reserved.
-    Maximum number of concurrent sessions:20
-    
-    **TCP-IP Mode**
-    
-    WARNING: TCP-IP mode is not a secure way to debug your application. For better
-    security use msvcmon in pipe mode or the default port in the processes
-    dialog to debug your application.
-    
-    To use the default port you will need to install the full set of remote
-    debugging components. For further information see 'Remote Debug Setup' in Help.
-    
-    *WARNING- infinite timeout value set. Msvcmon will not timeout and exit*
-    Waiting for Connections - everyone is allowed access
 
 Agora no Visual Studio 2003 vá em Debug, Processes (ou Ctrl+Alt+P para os íntimos) e escolha a opção de Transport como TCP/IP, digite o IP... explore sua ferramenta, poxa!
 
 Depois de conectar remotamente por essa janela o console do msvcmon irá mostrar que usuário se logou:
 
-    *WARNING- infinite timeout value set. Msvcmon will not timeout and exit*
-    Waiting for Connections - everyone is allowed access
-            A Debug session has been started for user: Caloni
 
 Para configurar o início da depuração remota pelo próprio projeto você terá que ir nas opções de debug dele e mexer em Remote Settings. Para começar os problemas é sempre bom lembrar que projetos compilados como debug precisam das DLLs de runtime do Visual Studio que sejam debug. Mas você já sabe disso.
 

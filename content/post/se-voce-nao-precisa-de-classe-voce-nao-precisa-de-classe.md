@@ -6,37 +6,9 @@ title: "Se você não precisa de classe você não precisa de classe"
 ---
 Nos últimos dias me deparei com o seguinte (pseudo-)código:
 
-    int main(int argc, const char **argv)
-    {
-        MyClass obj;
-        HRESULT hr = obj.init();
-    
-        if ( SUCCEEDED(hr) )
-        {
-            if ( args have "cmd1" )
-            {
-                hr = obj.cmd1();
-            }
-            else if ( args have "cmd2" )
-            {
-                hr = obj.cmd2();
-            }
-            ... // você entendeu a ideia
-        }
-    }
 
 Dentro de MyClass a seguinte estrutura:
 
-    class MyClass
-    {
-    public:
-        HRESULT m_result = S_OK;
-    
-        HRESULT init();
-        HRESULT cmd1();
-        HRESULT cmd2();
-        // você pegou a ideia
-    };
 
 Então eu me pergunto: qual a função da classe em um código desses?
 
@@ -48,22 +20,6 @@ Ter classe é para poucos. É para programadores que se preocupam com a relaçã
 
 Uma pequena sugestão:
 
-    #include <map>
-    
-    int main(int argc, const char **argv)
-    {
-        MyMap cmds;
-    
-        if ( SUCCEEDED(init()) )
-        {
-            cmds[args]();
-        }
-    }
-    
-    HRESULT init();
-    HRESULT cmd1();
-    HRESULT cmd2();
-    // você pegou a ideia
 
 É a melhor solução? Não. Só uma ideia para tornar o código simples de entender, enxuto para manter, com apenas o modelito básico. Tem até um map para evitar encher de ifs. Mas não precisaria se você tem meia-dúzia de funções.
 

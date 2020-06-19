@@ -38,8 +38,6 @@ Portanto, criemos um indicador: foco. Ele é um valor entre 0 e 1 e estima a por
 
 Levarei 35 horas para codificar todo o processo de autenticação por reconhecimento de face, trabalhando sem parar.
 
-    
-    35 / 0.7 = 50
 
 No entanto, como consigo apenas 70% de foco em média, sei que essa tarefa irá levar 50 horas na verdade.
 
@@ -51,8 +49,6 @@ Vamos supor, então, que, historicamente, essa fase tem sido, digamos, 20% do pe
 
 Levarei 50 horas para codificar tudo considerando o quesito foco.
 
-    
-    50 * 1,2 = 60
 
 Porém, para poder entregar, preciso dedicar cerca de 20% aos testes, retrabalho e uma documentação mínima. Nesse caso, 60 horas é o prazo de entrega.
 

@@ -6,33 +6,6 @@ title: "Aquisição de recurso é inicialização"
 ---
 O título desse artigo é uma técnica presente no paradigma da programação em C++, razão pela qual não temos o operador finally. A idéia por trás dessa técnica é conseguirmos usar recursos representados por objetos locais de maneira que ao final da função esses objetos sejam destruídos e, junto com eles, os recursos que foram alocados. Podemos chamar de recursos aquele arquivo que necessita ser aberto para escrita, o bitmap que é exibido na tela, o ponteiro de uma interface COM, etc. O nosso exemplo é sobre arquivos:
 
-    #include <windows.h>
-    
-    class File
-    {
-    	public:
-    	File(const char* fileName)
-    	{
-    		m_file = CreateFile(fileName, GENERIC_READ, FILE_SHARE_READ, 
-    		NULL, OPEN_EXISTING, 0, NULL); // if we open the file...
-    	}
-    
-    	~File()
-    	{
-    		CloseHandle(m_file); // ... we need to close it!
-    		m_file = NULL;
-    	}
-    
-    	HANDLE m_file; // aquired resource
-    };
-    
-    int UseFile()
-    {
-    	File config("config.txt"); // local object: aquired resource
-    	// using config.txt
-    	return 0; // the aquired resource  (config.txt) is automagically released
-    } 
-    
 
 Ignorei tratamento de erros e a dor de cabeça que é a discussão sobre inicializações dentro do construtor, matéria para um outro artigo. Fora os detalhes, o que temos é: 1. uma classe que se preocupa em alocar os recursos que necessita e no seu fim desalocá-los, 2. uma função que usa um objeto dessa classe, alegremente apenas preocupada em usar e abusar do objeto. A demonstração da técnica reside no fato que a função não se preocupa em desalocar os recursos alocados pelo objeto config. Algo óbvio, desejável e esperado.
 
@@ -40,63 +13,11 @@ Para vislumbrarmos melhor a utilidade dessa técnica convém lidarmos com as fam
 
 Por outro lado, ao usarmos objetos, devemos ter plena confiança nas suas capacidades de gerenciar os recursos que foram por eles alocados. Só assim se tem liberdade o suficiente para nos concentrarmos no código da função e solenemente ignorarmos a implementação da classe que estamos utilizando. Afinal, temos que considerar que muitas vezes o código-fonte não está disponível. Veja a mesma função com uma chance de desvio incondicional (o lançamento de uma exceção):
 
-    void BlowUpFunction()
-    {
-    	// the things are not that good. so...
-    	throw Scatadush();
-    }
-    
-    int UseFileEx()
-    {
-    	File config("config.txt"); // local object: aquired resource
-    
-    	// using config.txt
-    	BlowUpFunction(); // an exception is thrown: config.txt is automagically released
-    	// using config.txt
-    
-    	return 0; // the aquired resource  (config.txt) is released automagically
-    } 
-    
 
 Nesse exemplo tudo funciona, certo? Até se a exceção for lançada, o recurso será desalocado, pois o objeto é destruído. Isso ilustra como várias técnicas de C++ podem conviver harmoniosamente. Mais que isso, se ajudam mutuamente. O que seria das exceções se não existissem os construtores e destrutores? Da mesma forma, os recursos são alocados e desalocados baseado na premissa de construção e destruição de objetos. Por sua vez, essa premissa vale em qualquer situação, existindo ou não exceções.
 
 Agora, e se a exceção de BlowUpFunction é lançada e a classe File não está preparada para fechar o arquivo no destrutor? Esse é o caso da versão 2 de nossa classe File, logo abaixo. Apesar de ser a segunda versão ela foi piorada (acontece nas melhores famílias e classes):
 
-    class File2
-    {
-    public:
-    	// the user MUST open the file before the object construction
-    	DWORD Open(const char* fileName)
-    	{
-    		m_file = CreateFile(fileName, GENERIC_READ, FILE_SHARE_READ, 
-    			NULL, OPEN_EXISTING, 0, NULL);
-    	}
-    
-    	// ... and MUST close it before its destruction
-    	void Close()
-    	{
-    		CloseHandle(m_file);
-    		m_file = NULL;
-    	}
-    
-    	HANDLE m_file; // aquired resource
-    };
-    
-    int UseFile2()
-    {
-    	File2 config; // local object
-    
-    	config.Open("config.txt"); // aquired resource
-    
-    	// using config...
-    	BlowUpFunction(); // exception thrown: the resource was NOT released
-    	// using config...
-    
-    	config.Close(); // resource released
-    
-    	return 0;
-    } 
-    
 
 Nesse caso o código de UseFile2 acaba deixando um recurso alocado por conta de uma exceção que ocorreu em uma função secundária chamada lá pelas tantas em um momento delicado demais para ocorrerem exceções. Note que o destrutor de File2 é chamado assim como o de File, só que este não libera os recursos do objeto. Ele não usa a técnica RAII (Resource Acquisition Is Initialization, ou o título do artigo em inglês).
 

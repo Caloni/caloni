@@ -24,38 +24,6 @@ Tudo que um ponteiro faz de útil em C/C++ foi emprestado para a STL usar em seu
 
   * Dois ponteiros podem ser subtraídos para sabermos a distância entre dois elementos.
 
-    
-    template<typename T>
-    T VaiSomandoVaiSomando(T begin, T end)
-    {
-        T current = begin;
-        T next = begin + 1;
-    
-        while( next != end )
-        {
-            *next = *current + *next;
-            ++current;
-            ++next;
-        }
-    
-        return current;
-    }
-    
-    #include <vector>
-    #include <iostream>
-    
-    int main()
-    {
-        int aInts[10] = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-    
-        std::vector<int> vInts;
-        for( int i = 0; i < 10; ++i )
-            vInts.push_back(i);
-    
-        std::cout << *VaiSomandoVaiSomando(&aInts[0], &aInts[10]) << std::endl;
-        std::cout << *VaiSomandoVaiSomando(vInts.begin(), vInts.end()) << std::endl;
-    }
-    
 
 Da mesma forma, operações como cópia, movimentação, ordenação, caotização, pode ser feito usando dois ponteiros/iteradores de dois contêiners distintos, desde que algumas regras básicas sejam seguidas, como um iterador deve sempre apontar para algo válido (ou disponibilizar alguma abstração que insira novos elementos em um contêiner menor). Veremos essas regras em um próximo post sobre o tema. Apontarei para ele aqui.
 

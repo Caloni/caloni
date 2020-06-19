@@ -14,17 +14,8 @@ Ainda em teste, eu comecei a usar os novos atalhos de teclado na busca do Google
 
 Provavelmente seu complemento de busca estará em uma das duas pastas abaixo:
 
-    %programfiles%\Mozilla Firefox\searchplugins
-    %appdata%\Mozilla\Firefox\Profiles\*.default\searchplugins
 
 O arquivo do complemento tem o nome google.xml e você pode editá-lo usando o Bloco de Notas ou qualquer outro editor de texto simples (sem formatação). Abaixo está o ponto onde você deve inserir a nova linha que irá ativar os atalhos dentro da página de buscas do Google.
 
-    <Url type="text/html" method="GET" template="http://www.google.com/search">
-    <Param name="q" value="{searchTerms}"/>
-    <...>
-    <Param name="esrch" value="BetaShortcuts"/> <!-- Google Shortcuts Here -->
-    <!-- Dynamic parameters -->
-    <...>
-    </Url>
 
 É isso aí. Agora você pode ter o melhor dos dois mundos: o melhor buscador da internete com atalhos. Existirá maneira de se tornar ainda mais produtivo?

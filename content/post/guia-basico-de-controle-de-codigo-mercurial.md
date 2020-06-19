@@ -30,50 +30,14 @@ Comecei a usar em meus projetos pessoais o Mercurial por ter ouvido falar dele p
 
 O princípio de uso de uma ferramenta distribuída é muito simples: se você tiver um diretório de projeto já criado, basta, dentro dessa pasta, iniciar o repositório de fontes.
 
-    
-    > hg init
 
 Após isso, será criada uma pasta com o nome .hg. Dentro dela é armazenado todo o histórico dos fontes. Podemos inicialmente adicionar os arquivos do projeto existente e fazer o primeiro commit, que irá começar a controlar os arquivos adicionados dentro dessa pasta e subpastas:
 
-    
-    > hg add
-    adding Header.h
-    adding Main.cpp
-    adding Project.cpp
-    adding Project.vcproj
 
-    
-    > hg commit -m "Primeira versao"
 
 Se o programa não disse nada ao efetuar o commit, é porque está tudo certo. Agora podemos controlar as mudanças de nosso código usando o comando status. Para vermos o histórico usamos o comando log.
 
-    
-    > hg log
-    changeset:   0:e9246bcf2107
-    tag:         tip
-    user:        Wanderley Caloni <wanderley@caloni.com.br>
-    date:        Tue Apr 15 09:05:27 2008 -0300
-    summary:     Primeira versao
 
-    
-    > echo bla bla bla >> Main.cpp
-    
-    > hg status
-    M Main.cpp
-    
-    > hg commit -m "Alterado algumas coisas"
-    
-    > hg log
-    changeset:   1:829b081df653
-    tag:         tip
-    user:        Wanderley Caloni <wanderley@caloni.com.br>
-    date:        Tue Apr 15 09:06:29 2008 -0300
-    summary:     Alterado algumas coisas
-    
-    changeset:   0:e9246bcf2107
-    user:        Wanderley Caloni <wanderley@caloni.com.br>
-    date:        Tue Apr 15 09:05:27 2008 -0300
-    summary:     Primeira versao
 
 Como vimos, ao alterar um arquivo controlado este é mostrado pelo comando status como alterado (o M na frente do Main.cpp). Também existem controles para cópia e exclusão de arquivos.
 

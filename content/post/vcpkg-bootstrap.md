@@ -10,40 +10,10 @@ Sabendo de tudo isso, a única coisa que você precisa em um projeto isolado é 
 
 Vejamos como seria um bootstrap.bat:
 
-    @echo off
-    
-    if not exist vcpkg (
-        git clone https://url/vcpkg.git
-    ) else (
-        echo vcpkg already cloned
-    )
-    
-    if not exist vcpkg\vcpkg.exe (
-        pushd vcpkg
-        call bootstrap-vcpkg.bat
-        popd
-    ) else (
-        echo vcpkg already installed
-    )
-    
-    if exist vcpkg\vcpkg.exe (
-        pushd vcpkg
-        vcpkg update
-        vcpkg install boost-asio:x86-windows boost-program-options:x86-windows [...] openssl:x86-windows
-        vcpkg integrate install
-        popd
-    )
 
 Com esse script na pasta raiz do seu projeto ele irá criar uma subpasta chamada vcpkg e após realizar as operações descritas acima integrar ao Visual Studio. Dessa forma quando for compilar o projeto os includes e libs já estarão disponíveis para que ele funcione, mesmo diretamente de uma máquina limpa.
 
 Esse script pode ser integrado à lib principal do projeto ou o projeto da solution que primeiro deve compilar (porque todos dependem dele). Para isso existe o Pre-Build Event nas configurações de um projeto do Visual Studio. Os comandos que estiverem lá serão executados sempre antes da compilação.
 
-    <PreBuildEvent>
-        <Command>
-            pushd $(SolutionDir)
-            call bootstrap.bat
-            popd
-        </Command>
-    </PreBuildEvent>
 
 O único passo não-descrito neste artigo é baixar o projeto e iniciar o build, tarefas triviais de integração.

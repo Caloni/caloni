@@ -20,20 +20,6 @@ Pesquisando nos fóruns da vida, antro dos desesperados, achei/lembrei de um com
 
 Bom, para saber se está mismatch é aquela fórmula de bolo:
 
-    ntdll!LdrpDoDebuggerBreak+0x2b:
-    77e13bad cc              int     3
-    0:000> .symfix
-    No downstream store given, using C:\Tools\DbgTools(x86)\sym
-    0:000> !sym noisy
-    noisy mode - symbol prompts on
-    0:000> .reload /f Module.exe
-    SYMSRV:  C:\Tools\DbgTools(x86)\sym\Module.pdb\7CD3DD6A80254CE29E8A2E8D7C26BF1B2\Module.pdb not found
-    SYMSRV:  http://msdl.microsoft.com/download/symbols/Module.pdb/7CD3DD6A80254CE29E8A2E8D7C26BF1B2/Module.pdb not found
-    DBGHELP: C:\Users\Caloni\Projects\Project\Source\_Output\bin\Debug\Module.pdb - mismatched pdb
-    DBGHELP: Couldn't load mismatched pdb for C:\Users\Caloni\Projects\Project\Source\_Output\bin\Debug\Module.exe
-    *** WARNING: Unable to verify checksum for Module.exe
-    *** ERROR: Module load completed but symbols could not be loaded for Module.exe
-    DBGHELP: Module - no symbols loaded
 Para saber o que está errado, o famigerado !IToldYouSo
 
 Mano, como assim?!?!? Eu acabei de compilar esse binário, eu já apaguei 15 vezes as pastas de Debug e Release, eu já rebootei mais do que o Windows me obriga a rebootar por causa das falhas de segurança.
@@ -45,5 +31,4 @@ E, de fato. Solução? Copie as configurações usuais do "novo" Visual Studio c
 Abaixo a chamada do suporte em inglês, se alguém achar o mesmo problema em algum fórum e quiser "espalhar a palavra".
 
 > Just got stuck in the same problem, but in a C++ source that has 13 years, where its first solution was in VS 2003. Comparing the Project Properties in C/C++, Output Files, Program Database File Name, I found out that the project was pointing to the same file path that Linker, Debugging, Generate Program Database File, when the normal situation is to generate a vc120.pdb. Comparing with a new project, the "right" value can't be $(OutDir)$(TargetName).pdb (ou ProjectName), but $(IntDir)vc$(PlatformToolsetVersion).pdb. That solved the problem. I hope solve another one's problem as well =)
-    
 Minha próxima tarefa, aparentemente, é ver como sendo sócio da BitForge e da Intelitrader, e mesmo tendo já atualizado meu perfil MVP há anos, continuo sendo funcionário da UOL Diveo/Broker =/

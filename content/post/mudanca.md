@@ -15,11 +15,4 @@ A empresa que estou deixando agora está à caça de uma pessoa para se tornar m
 
 Segue a descrição da vaga, feita por mim mesmo, sozinho. Interessados: sem timidez, please.
 
-    Analista Programador C++
-    
-    Conhecimentos avançados em Windows: serviços, DLLs, (drivers desejável).
-    Programação: libc, Win32 API, (STL/Boost e Assembly 8086 desejáveis).
-    Ferramentas: Visual Studio 2003, Bazaar, VMWare, (WinDbg desejável).
-    Funções: codificação, análise, reunião técnica, refatoração, (UML desejável).
-    Perfil: vontade de aprender, pró-atividade, comunicação.
 

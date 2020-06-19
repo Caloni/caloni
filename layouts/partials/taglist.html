@@ -1,48 +1,6 @@
 {{ if .Date.After (time "2001-01-01")}}
-    {{ with .File }}{{ with (index $.Site.Data.post .BaseFileName) }}
-        {{ with .imdb }}
-            {{ .title }}
-            ({{ if .countries }}{{ delimit .countries ", " }}{{ else }}Unknwown{{ end }}, {{ .year }}).
-            {{ if .directors }} Dirigido por {{ delimit .directors ", " }}.{{ end }}
-            {{ if .writers }} Escrito por {{ delimit .writers ", " }}.{{ end }}
-            {{ if .cast }} Com {{ delimit .cast ", " }}.{{ end }}
-            <a href="https://www.imdb.com/title/tt{{ .id }}" style="text-decoration: underline;" title="Internet Movie Database">imdb</a>
-            <a href="https://letterboxd.com/imdb/{{ .id }}" style="text-decoration: underline;" title="Letterboxd">letterboxd</a>
-        {{ end }}
-        {{ range $key, $value := .repo }}
-            <a href="{{ $value }}" style="text-decoration: underline;">{{ $key }}()</a>
-        {{ end }}
-        {{ range $key, $value := .code }}
-            <a href="/code/{{ $value }}" style="text-decoration: underline;">{{ $key }}()</a>
-        {{ end }}
-        {{ with .wine }}
-            {{ if .link }}
-                <a href="{{ .link }}" style="text-decoration: underline;">{{ .title }}</a>
-            {{ else }}
-                {{ .title }}.
-            {{ end }}
-            {{ if .local }} Região: {{ .local }}.{{ end }}
-            {{ if .grapes }} Uvas: {{ delimit .grapes ", " }}.{{ end }}
-            {{ if .year }} Safra: {{ .year }}.{{ end }}
-            {{ if .notes }} Notas: {{ .notes }}{{ end }}
-            {{ if .harmonization }} Harmonização: {{ .harmonization }}{{ end }}
-        {{ end }}
-        {{ with .coffee }}
-            {{ if .link }}
-                <a href="{{ .link }}" style="text-decoration: underline;">{{ .title }}</a>
-            {{ else }}
-                {{ .title }}.
-            {{ end }}
-            {{ if .type }} Tipo: {{ .type }}.{{ end }}
-            {{ if .local }} Região: {{ .local }}.{{ end }}
-            {{ if .harvest }} Colheita: {{ .harvest }}.{{ end }}
-            {{ if .process }} Processo: {{ .process }}.{{ end }}
-            {{ if .notes }} Notas: {{ .notes }}{{ end }}
-        {{ end }}
-        <a href="{{ $.Site.Params.ContentGit }}/blob/master/data/post/{{ $.File.BaseFileName }}.toml" style="text-decoration: underline;">references</a>
-    {{ end }}{{ end }}
-    {{ if .Params.categories }} {{ range .Params.categories }} [<a href="/categories/{{ . | urlize }}">{{ . }}</a>] {{ end }}{{ end }}
-    {{ if .Params.tags }} {{ range .Params.tags }} [<a href="/tags/{{ . | urlize }}">{{ . }}</a>] {{ end }}{{ end }}
+    {{ if .Params.categories }} {{ range .Params.categories }} <a href="/categories/{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
+    {{ if .Params.tags }} {{ range .Params.tags }} <a href="/tags/{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
     {{ if .Params.review }} {{ delimit .Params.review " " }}{{ end }}
     <a href="https://twitter.com/intent/tweet?text={{ .Summary | safeHTML | truncate 120 "..." -}}%20{{ .Permalink }} from @caloni " style="text-decoration: underline;" title="Twitter">twitter</big></a>
 {{ end }}

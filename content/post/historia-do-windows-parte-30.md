@@ -16,128 +16,20 @@ Programar interfaces naquela época não era bem o "clicar e arrastar" de hoje e
 
 Antes de ser criada uma janela, é necessário registrar uma classe de janela no sistema, cuja relação com uma janela é mais ou menos a mesma entre classe e objeto no paradigma de orientação a objetos. Você primeiro define uma classe para sua janela e posteriormente pode criar inúmeras janelas a partir da mesma classe.
 
-    
-    WNDCLASS wndclass; //Dados sobre a classe de janela.
-    wndclass.style = CS_HREDRAW | CS_VREDRAW;
-    wndclass.lpfnWndProc = WndProc; // Função de janela (isso é importante!)
-    ...
-    wndclass.lpszClassName = szAppName;
-    RegisterClass (&wndclass) ; // Registra a classe de janela.
 
 Quando você define uma classe e a registra está dizendo para o sistema qual será sua função de janela, i. e., qual será a função responsável por receber as mensagens das janelas criadas.
 
-    
-    wndclass.lpfnWndProc = WndProc ; // Função de janela.
-    ...
-    long FAR PASCAL WndProc (HWND hwnd, WORD message, WORD wParam, LONG lParam)
-    {
-    switch( message ) // Manipulando as mensagens.
-    ...
-    }
 
 Uma mensagem é um evento que ocorre relativo à sua janela ou o que está acontecendo ao redor dela no mundo Windows. Por exemplo, as janelas recebem eventos a respeito dos cliques do usuário, redesenho da janela, etc. Quem envia essas mensagens é o próprio Windows, e ele espera uma resposta da sua função de janela. Agora a parte esquisita: quem envia essas mensagens para o Windows é o seu próprio aplicativo!
 
 O aplicativo fica aguardando por eventos em um loop conhecido como loop de mensagens. A função do loop basicamente é chamar a função GetMessage e redirecionar as mensagens obtidas para as respectivas funções de janela.
 
-    
-    while( GetMessage (&msg, NULL, 0, 0) )
-    {
-       TranslateMessage (&msg);
-       DispatchMessage (&msg); // Despacha a mensagem para a função de janela.
-    }
 
 E aqui está o código completo:
 
-    /*--------------------------------------------------------
-       HELLOWIN.C -- Displays "Hello, Windows" in client area
-                     (c) Charles Petzold, 1990
-      --------------------------------------------------------*/
-    
-    #include <windows.h>
-    
-    long FAR PASCAL WndProc (HWND, WORD, WORD, LONG) ;
-    
-    int PASCAL WinMain (HANDLE hInstance, HANDLE hPrevInstance,
-                        LPSTR lpszCmdParam, int nCmdShow)
-         {
-         static char szAppName[] = "HelloWin" ;
-         HWND        hwnd ;
-         MSG         msg ;
-         WNDCLASS    wndclass ;
-    
-         if (!hPrevInstance)
-              {
-              wndclass.style         = CS_HREDRAW | CS_VREDRAW ;
-              wndclass.lpfnWndProc   = WndProc ;
-              wndclass.cbClsExtra    = 0 ;
-              wndclass.cbWndExtra    = 0 ;
-              wndclass.hInstance     = hInstance ;
-              wndclass.hIcon         = LoadIcon (NULL, IDI_APPLICATION) ;
-              wndclass.hCursor       = LoadCursor (NULL, IDC_ARROW) ;
-              wndclass.hbrBackground = GetStockObject (WHITE_BRUSH) ;
-              wndclass.lpszMenuName  = NULL ;
-              wndclass.lpszClassName = szAppName ;
-    
-              RegisterClass (&wndclass) ;
-    	  }
-    
-         hwnd = CreateWindow (szAppName,         // window class name
-    		    "The Hello Program",     // window caption
-                        WS_OVERLAPPEDWINDOW,     // window style
-                        CW_USEDEFAULT,           // initial x position
-                        CW_USEDEFAULT,           // initial y position
-                        CW_USEDEFAULT,           // initial x size
-                        CW_USEDEFAULT,           // initial y size
-                        NULL,                    // parent window handle
-                        NULL,                    // window menu handle
-                        hInstance,               // program instance handle
-    		    NULL) ;		     // creation parameters
-    
-         ShowWindow (hwnd, nCmdShow) ;
-         UpdateWindow (hwnd) ;
-    
-         while (GetMessage (&msg, NULL, 0, 0))
-              {
-              TranslateMessage (&msg) ;
-              DispatchMessage (&msg) ;
-              }
-         return msg.wParam ;
-         }
-    
-    long FAR PASCAL WndProc (HWND hwnd, WORD message, WORD wParam, LONG lParam)
-         {
-         HDC         hdc ;
-         PAINTSTRUCT ps ;
-         RECT	 rect ;
-    
-         switch (message)
-              {
-              case WM_PAINT:
-    	       hdc = BeginPaint (hwnd, &ps) ;
-    
-                   GetClientRect (hwnd, &rect) ;
-    
-    	       DrawText (hdc, "Hello, Windows!", -1, &rect,
-    			 DT_SINGLELINE | DT_CENTER | DT_VCENTER) ;
-    
-    	       EndPaint (hwnd, &ps) ;
-                   return 0 ;
-    
-              case WM_DESTROY:
-                   PostQuitMessage (0) ;
-                   return 0 ;
-              }
-    
-         return DefWindowProc (hwnd, message, wParam, lParam) ;
-         } 
-    
 
 Esse exemplo é bem velho, mas compila e funciona até hoje, depois de passados 17 anos:
 
-    
-    cl /c hellowin.c
-    link hellowin.obj user32.lib gdi32.li
-    hellowin.exe
 
 O Windows 3.x tinha uma particularidade nefasta: qualquer aplicativo poderia travar o sistema como um todo. Se lembrarmos que o Windows antigamente era multitarefa e não-preemptivo, podemos deduzir que enquanto é executada a função de janela de um aplicativo o sistema aguarda por esse aplicativo indefinidamente. Se o aplicativo trava, ele nunca retorna. Se ele nunca retorna, o sistema fica eternamente esperando pelo retorno da função de janela. Alguns travamentos conseguiam ser resolvidos por interrupção, mas a maioria não. No próximo capítulo da série veremos como os sistemas de 32 bits resolveram esse pequeno problema.
 

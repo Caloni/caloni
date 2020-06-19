@@ -23,57 +23,23 @@ O preprocessamento é especificado pelos padrões C e C++, mas, tecnicamente, n�
 
 Essa parte do processo lida com substituição de texto e diretivas baseadas em arquivos e símbolos. Por exemplo, a diretiva de preprocessamento mais conhecida
 
-    
-    #include <stdio.h>
 
 faz com que todo o conteúdo do arquivo especificado seja incluído exatamente no ponto onde for colocada essa diretiva. Isso quer dizer que, antes sequer do código-fonte ser compilado, todo o conteúdo desse header padrão estará no corpo do arquivo C.
 
 Para evitar que o mesmo header seja incluído inúmeras vezes dentro da mesma unidade em C, causando assim erros de redefinição, existe outra diretiva muito usada para cercar esses arquivos públicos:
 
-    
-    #ifndef __MEUHEADER__ // se já estiver definido, caio fora até endif
-    #define __MEUHEADER__
-    
-    // conteúdo do header
-    
-    #endif // __MEUHEADER__
 
 Esse conjunto de duas diretivas, por si só, é capaz de gerar os mais criativos e bizarros erros de compilação em C. E estamos falando de erros que ocorrem antes que sequer seja iniciado o processo de compilação propriamente dito. Obviamente que os erros serão capturados durante a compilação, mas o motivo deles terem ocorrido foi um erro decorrente do processo de preprocessamento. Por exemplo, vamos supor que um determinado fonte necessita de uma declaração de função contida em meuheader.h:
 
-    
-    #include "header-do-mal.h"
-    #include "meuheader.h"
-    
-    int func()
-    {
-       meuheaderFunc();
-    }
 
 Porém, num daqueles acasos da natureza, o header-do-mal.h define justamente o que não poderia definir jamais (obs.: e isso pode muito bem acontecer na vida real, se usamos definições muito comuns):
 
-    
-    #ifndef __HEADERDOMAL__
-    #define __HEADERDOMAL__
-    
-     // tirei header da jogada, huahuahua (risos maléficos)
-    #define __MEUHEADER__
-    
-    #endif // __HEADERDOMAL__
 
 Na hora do preprocessamento, o preprocessador não irá mais incluir o conteúdo dentro de header.h:
 
-    
-    #ifndef __MEUHEADER__ // se já estiver definido, caio fora até endif
-    #define __MEUHEADER__
-    
-    int meuheaderFunc(); // talvez alguém precise disso
-    
-    #endif // __MEUHEADER__
 
 Conseqüentemente, durante a compilação do código-fonte já preprocessado, sem a declaração da função meuheaderFunc, irá ocorrer o seguinte erro:
 
-    
-    error C3861: 'meuheaderFunc': identifier not found
 
 Isso em fontes pequenos é facilmente identificável. Em fontes maiores, é preciso ter um pouco mais de cuidado.
 
@@ -85,31 +51,9 @@ Se você conseguir passar ileso para a fase de compilação, pode se considerar 
 
 Aqui você irá encontrar geralmente erros bem comportados, como conversão entre tipos, else sem if e esquecimento de pontuação ou parênteses.
 
-    
-    int cannotConvertError(const char* message)
-    {
-    	int ret = message[0];
-    	return ret;
-    }
-    
-    int ret = cannotConvertError(3);
-    
-    error C2664: 'cannotConvertError' : cannot convert parameter 1 from 'int' to 'const char *'
 
-    
-    if( test() )
-    	something;
-    	something-else;
-    else
-    	else-something;
 
-    
-    error C2181: illegal else without matching if
 
-    
-    while( (x  b ? a : b )
-    
-    int z = max( func(10), 30 );
 
 Um outro erro que já encontrei algumas vezes é quando a definição de uma classe tem um sizeof diferente do compilado em sua LIB, pela exclusão ou adição de novos membros. Isso pode (vai) fazer com que, durante a execução, a pilha seja corrompida, membros diferentes sejam acessados, entre outras traquinagens. Esses erros costumam acusar a falta de sincronismo entre os headers usados e suas reais implementações.
 

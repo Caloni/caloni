@@ -19,68 +19,15 @@ Isso vai fazer com que pelo menos os exemplos que vêem com o WTL compilem.
 
 No entanto, você verá o seguinte erro durante a compilação dos recursos:
 
-    
-    ------ Build started: Project: MTPad, Configuration: Debug Win32 ------
-    Compiling resources...
-    Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
-    Copyright (C) Microsoft Corporation.  All rights reserved.
-    Linking...
-    CVTRES : fatal error CVT1100: duplicate resource.  type:MANIFEST, name:1, language:0x0409
-    LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
-    Build log was saved at "file://c:\Lng\WTL\Samples\MTPad\Debug\BuildLog.htm"
-    MTPad - 2 error(s), 0 warning(s)
-    ========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
 
 Para resolver esse problema, remova a inclusão do arquivo de manifesto no arquivo RC:
 
-    
-    2 TEXTINCLUDE DISCARDABLE
-    BEGIN
-        "#include ""atlres.h""\r\n"
-        "\0"
-    END
-    
-    3 TEXTINCLUDE DISCARDABLE
-    BEGIN
-        "CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST ""res\\\\MTPad.exe.manifest""\r\n"
-        "\0"
-    END
-    
-    #endif    // APSTUDIO_INVOKED
-    
-    ...
-    
-    #ifndef APSTUDIO_INVOKED
-    /////////////////////////////////////////////////////////////////////////////
-    //
-    // Generated from the TEXTINCLUDE 3 resource.
-    //
-    CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "res\\MTPad.exe.manifest"
-    
-    /////////////////////////////////////////////////////////////////////////////
-    #endif    // not APSTUDIO_INVOKED
 
 Depois dessa alteração, deve ainda existir o seguinte erro de linquedição:
 
-    
-    ------ Build started: Project: MTPad, Configuration: Debug Win32 ------
-    Compiling resources...
-    Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
-    Copyright (C) Microsoft Corporation.  All rights reserved.
-    Linking...
-    mtpad.obj : error LNK2019: unresolved external symbol
-       "void * __stdcall ATL::__AllocStdCallThunk(void)" (bla bla bla)
-    mtpad.obj : error LNK2019: unresolved external symbol
-       "void __stdcall ATL::__FreeStdCallThunk(void *)" (bla bla bla)
-    .\Debug/MTPad.exe : fatal error LNK1120: 2 unresolved externals
-    Build log was saved at "file://c:\Lng\WTL\Samples\MTPad\Debug\BuildLog.htm"
-    MTPad - 3 error(s), 0 warning(s)
-    ========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
 
 Esse problema ocorre porque as funções de alocação e desalocação de memória da ATL estão em outra LIB que os exemplos da WTL desconhecem. Para resolver, basta incluir essa nova dependência:
 
-    
-    #pragma comment(lib, "atlthunk.lib")
 
 E pronto! Agora temos todo o poder das 500 milhões de classes da ATL aliadas à ilimitada flexibilidade das classes de janelas da WTL.
 

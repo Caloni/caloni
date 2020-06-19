@@ -14,21 +14,10 @@ No modo real, onde vivem sistemas como o MS-DOS e programas como o Turbo C, a me
 
 Dessa forma, foi necessário o uso de mais 4 bits para fazer a coisa funcionar, pois como podemos notar logo abaixo, a representação do último byte de 640 KB exige isso:
 
-    
-       10   16   16   16   16   (decimal)
-       A    0    0    0    0    (hexadecimal)
-       1010 0000 0000 0000 0000 (binário)
 
 Para conseguir esses 4 bits adicionais foram usados dois registradores em conjunto, o segmento e o offset. Funciona assim: o segmento é multiplicado por 16 (ou deslocado 4 bits à esquerda) e logo depois é somado com o offset, resultando no endereçamento desejado:
 
-    
-       segmento:      0x   9022
-       offset:        0x   1514
 
-    
-                      0x   9022
-                      0x    1514 (+)
-       endereço real: 0x   91734
 
 Ou seja, para acessar o byte de número 595764, ou 0x91734, podemos usar o segmento 0x9022 com o offset 0x1514. A soma desses dois com o segmento deslocado irá resultado no endereço flag, ou seja, aquele que obtemos se contarmos a memória do zero até o final da RAM.
 
@@ -36,26 +25,10 @@ Na época, a RAM não costumava ser de valores como 2GB ou até 4GB, mas em KB m
 
 Se nós repararmos bem, veremos que esse método implica em conseguirmos acessar o mesmo byte com um conjunto de segmentos e offsets diferentes, já que a soma pode ser resultado de operandos diversos. Esse é o chamado efeito de overlapping da memória segmentada, onde os programadores em assembly daquela época tinham que tomar alguns cuidados básicos para não atravessar a memória dos outros. No nosso exemplo acima, por exemplo, seria bem mais fácil chamar nosso bytezinho de segmento 0x9000, offset 0x1734.
 
-    
-       0x  9000
-       0x   1734 (+)
-       0x  91734
 
 É verdade! Então, o WinDbg possui alguns comandos extendidos e formas de representar essa memória real, atualmente limitada não mais em 640 KB, mas até onde seus pentes de RAM agüentarem. Os mais comuns são os que imitam os nossos conhecidos dumps de memória: db, dc, dd... Temos daí as extensões !db, !dc, !dd... (note a exclamação do início).
 
-    
-    windbg -kl $$ kernel debugging local
 
-    
-    lkd> !db 91734
-    #   91734 00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00 ................
-    #   91744 00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00 ................
-    #   91754 00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00 ................
-    #   91764 00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00 ................
-    #   91774 00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00 ................
-    #   91784 00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00 ................
-    #   91794 00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00 ................
-    $$ o sinal de # no início denota memória real
 
 Simples, assim.
 
@@ -69,12 +42,6 @@ Nesse caso é possível, embora fique por sua conta e risco, ler qualquer memór
 
 É possível fazer mais brincadeiras usando os comandos comuns do WinDbg e uma notação diferente da memória. No entanto, é preciso tomar alguns cuidados quando mexer com isso. É recomendado o uso de uma máquina-vítima para esses testes, e não depuração local como estou fazendo.
 
-    
-       notação  descrição                     exemplo
 
-    
-       %        endereços de 32 ou 64 bits    %6400000   (primeiro byte de 100 MB)
-       &        endereço em modo real 8086    &9000:1734 (segmento 9000, offset 1734)
-       #        endereço em modo real 8086    #4C        (endereço da int 0x13)
 
 É isso aí. Não espero que você use muitas vezes essa forma de acessar memória. Só que eu usei e... nunca se sabe =)

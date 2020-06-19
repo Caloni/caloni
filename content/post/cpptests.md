@@ -26,13 +26,6 @@ A lista que achei interessante (com seu projeto):
 
 A otimização no if através do uso da palavra-chave constexpr possibilita a criação de diferentes instâncias da chamada que não contém o if, mas um dos dois branches dependendo do tipo ser integral ou não.
 
-    void f(const T& value)
-    {
-      if constexpr(is_integral<T>())
-        cout << "Integer\n";
-      else
-        cout << "Non Integer\n";
-    }
 
 Para que a compilação dessa opção funcione no Visual Studio 2017 15.3 é necessário inserir o parâmetro /std:c++latest nas opções do projeto em C/C++, Command Line, Additional Options.
 

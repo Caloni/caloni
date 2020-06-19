@@ -12,61 +12,14 @@ Porém, existe um problema com essa abordagem: a string variável pode ter mais 
 
 Fiz um exemplo bem sucinto, que pede o nome das branches master e slave de um controle de fonte e imprime as duas no final, alinhando o nome das branches à esquerda e o número de commits de cada uma à direita, incluindo um header.
 
-    struct GitBranches {
-    	char name[50];
-    	int commits;
-    };
-    
-    void printf_string_align_variable_size()
-    {
-    	struct GitBranches branches[2];
-    	char* cr;
-    	size_t len1, len2, maxlen;
-    
-    	printf("master branch: ");
-    	fgets(branches[0].name, sizeof(branches[0].name), stdin);
-    	if (cr = strrchr(branches[0].name, '\n'))
-    		*cr = 0;
-    	printf("number of commits: ");
-    	scanf("%d", &branches[0].commits);
-    	len1 = strlen(branches[0].name);
 
 	    clean_stdin_buffer();
-    
-    	printf("slave branch: ");
-    	fgets(branches[1].name, sizeof(branches[1].name), stdin);
-    	if (cr = strrchr(branches[1].name, '\n'))
-    		*cr = 0;
-    	printf("number of commits: ");
-    	scanf("%d", &branches[1].commits);
-    	len2 = strlen(branches[1].name);
-    
-    	maxlen = max(len1, len2);
-    	printf("\n%-*s %s\n", maxlen, "branches", "commits");
-    	printf("%-*s %d\n", maxlen, branches[0].name, branches[0].commits);
-    	printf("%-*s %d\n", maxlen, branches[1].name, branches[1].commits);
-    }
 
 Executando com nomes pequenos de branches essa será a saída formatada:
 
-    master branch: main
-    number of commits: 10
-    slave branch: secondary
-    number of commits: 30
 
-    branches  commits
-    main      10
-    secondary 30
 
 Executando com nomes maiores de branches o alinhamento ainda é respeitado:
 
-    master branch: small_commits_matter
-    number of commits: 2
-    slave branch: anti_malloquist
-    number of commits: 42
-    
-    branches             commits
-    small_commits_matter 2
-    anti_malloquist      42
 
 É assim que o printf resolve esse tipo de problema de saída formatada: de maneira simples e elegante, sem inventar moda nem querer "revolucionar" a computação.

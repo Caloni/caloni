@@ -6,22 +6,7 @@ title: "Por que Long Pointer"
 ---
 Esse artigo continua a explicação sobre os typedefs arcaicos, já que ainda falta explicar por que diabos os ponteiros da Microsoft começam com LP. Tentei explicar para minha pupila que, por ser código dos anos 80, as pessoas usavam LP para tudo, pois os CDs ainda não estavam tão difundidos.
 
-    
-    <span style="color: #808000;">/** @brief Para instanciar um Bozo. @date 1982-02-21 */ 
-    typedef struct _BOZO { 
-       char helloMsg[100]; /* definir para "alô, criançada, o bozo chegou..." */ 
-       float currentTime; /* definir para 5e60 */ 
-    }
-     BOZO, <span style="text-decoration: underline;"><span style="color: #ff0000;">*LP</span></span>BOZO;</span>
 
-    
-    <span style="color: #339966;">/** @brief Para instanciar um Pokemon. @date 1996-03-01 */</span> 
-    <span style="color: #0000ff;">typedef</span> <span style="color: #0000ff;">struct</span> <span style="color: #808080;">_PIKACHU</span> 
-    <span style="color: #ff00ff;">{</span> 
-    <span style="color: #0000ff;"> char</span> <span style="color: #808080;">helloMsg</span><span style="color: #ff00ff;">[</span><span style="color: #00ccff;">100</span><span style="color: #ff00ff;">]</span>; <span style="color: #339966;">// setar para "pika, pika pikachuuuuuuu..."</span> 
-    <span style="color: #0000ff;"> int </span><span style="color: #808080;">pokemonID</span><span style="color: #ff00ff;">;</span> <span style="color: #339966;">// setar para </span><span style="color: #ff00ff;">24</span> 
-    <span style="color: #ff00ff;">}
-    </span><span style="color: #808080;">PIKACHU</span><span style="color: #ff00ff;">,</span> <span style="color: #ff0000;"><span style="text-decoration: underline;">*CD</span></span>PIKACHU<span style="color: #ff00ff;">;</span>
 
 Não colou. Então vou tentar explicar do jeito certo.
 
@@ -53,10 +38,6 @@ Essa frase era muito usada nos anos 80, com seus 16 bits e tudo mais.
 
 Com toda essa analogia, fica fácil perceber que o Windows não cabe em uma rua só. Seus aplicativos precisam de muitas ruas para rodar. Isso exige que todos seus ponteiros sejam long, pois do contrário o Juquinha estará entregando as cartas sempre nos endereços errados. Dessa forma, foi estipulado o typedef arcaico padrão para todos os tipos da API que usasse LP (Long Pointer) como prefixo:
 
-    
-    typedef unsigned long WORD, *LPDWORD;
-    typedef const char* LPCSTR;
-    typedef <coloque-seu-tipo-aqui> APELIDO, *LPAPELIDO;
 
 E é por isso que, historicamente, todos os ponteiros para os apelidos da API Win32 possuem sua contraparte LP.
 
@@ -64,9 +45,5 @@ Com a era 32 bits (e mais atualmente 64 bits) os endereços passaram a ser flat,
 
 De uns anos pra cá, existem novos typedefs nos headers que permitem o uso dos apelidos Win32 apenas com um P inicial.
 
-    
-    typedef unsigned long WORD, *LPDWORD, *PDWORD;
-    typedef const char *LPCSTR, *PCSTR;
-    typedef <coloque-seu-tipo-aqui> APELIDO, *LPAPELIDO, *PAPELIDO;
 
 A escolha é livre. Assim como com o typedef arcaico.

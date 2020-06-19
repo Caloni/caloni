@@ -22,8 +22,6 @@ A única desvantagem é não ter uma GUI tão poderosa quando o "WinDbg fonte co
 
 Para ativar qualquer programa que irá rodar nesse modo, basta usar o aplicativo gflags:
 
-    
-    gflags /p /enable servico.exe /debug "c:\path\ntsd.exe -d"
 
 É preciso dar uma lida bem profunda na ajuda do Debugging Tools para entender como as coisas estão funcionando nessa configuração milagrosa que estamos usando. Procure por "Controlling the User-Mode Debugger from the Kernel Debugger". Também é possível ouvir falar parcamente sobre isso no livro Advanced Windows Debugging na parte "Redirecting a User Mode Debugger Through a Kernel". A vantagem é que vem de brinde uma bela figura para pendurar em um quadro no escritório (embora eu possa jurar que já vi essa figura na ajuda do WinDbg):
 
@@ -33,15 +31,5 @@ Como podemos notar, o controlador de tudo é o kernel debugger. Assim que o depu
 
 A depuração com a linha atual no código-fonte demarcando onde estamos também não é possível, uma vez que o WinDbg da ponta de cá apenas faz o papel de garoto de recados para o "depurador de verdade" do outro lado (no nosso exemplo, o ntsd). Isso quer dizer que a forma mais "fácil" de ir passo-a-passo é usar o comando p (step) ou t (trace), além de habilitar o uso de fonte em 100%.
 
-    
-    input> .srcpath c:\maquina-vitima\src
-    input> l+* $$ habilita uso de código-fonte no ntsd
-    ...
-    0:000> p
-    >  15: int main() $$ número da linha seguido do fonte
-    >  16: {
-    0:000> bp myFunction
-    0:000> g
-    0:000>
 
 Um tipo de problema que só pode ser depurado dessa maneira enfatiza a importância do uso de unit tests, além de um controle de qualidade mais aguçado antes de liberar uma versão para o cliente.

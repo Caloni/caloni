@@ -12,8 +12,6 @@ Porém, voltando ao mundo Windows, os fontes não são apenas a única fonte de 
 
 Nós da BitForge costumamos pelo menos indexar binários com fonte, através dos resources do binário. Como isso é feito? Basicamente editando o arquivo RC na parte da versão do binário e inserindo o hash do commit usado para gerar aquele binário. Com isso qualquer binário produzido possui seu pai ("use the source, Luke!"). Usamos um script em Python muito simples e muito eficaz para isso, que indexa .NET e C++ (através do Visual Studio, mas não está com muitas amarras de ambiente):
 
-    rc_new_content = re.sub(u'^.*ProductVersion.*$', product_version_string, rc_original_content, flags=re.MULTILINE)
-    rc_new_content = re.sub(u'^.*FILEVERSION.*$', file_version_string, rc_new_content, flags=re.MULTILINE)
 
 Quando algum binário parar na máquina de algum cliente em algum lugar do universo, basta olhar para os detalhes pelo Windows Explorer, e ele estará lá.
 
@@ -23,18 +21,11 @@ Outro detalhe de binários é que eles vivem sendo sobrescritos. Todo "Project, 
 
 Para resolver isso, o mínimo que se deve fazer é super-simples e nada difícil: crie uma pasta em algum lugar, nomeie essa pasta seu servidor de símbolos, a cada novo binário que será entregue, indexe o binário e os seus símbolos. Como? Com o "Debugging Tools for Windows".aspx), como dizia um amigo meu, é mamão com açúcar:
 
-    "c:\Tools\DbgTools(x86)\symstore" add /r /f MINHA-PASTA-COM-BINÁRIOS /s c:\Tools\Symbols /t "IndexSymbols"
 
 Essa e outra técnicas de indexar fontes e binário você pode ver no meu projeto, artigo, palestra e vídeo de demonstração. Se você for cego, ainda tem a vantagem da áudio-narração do vídeo. Brincadeira, ainda não temos isso.
 
 Com o poder do Windows Explorer, desde o Windows 95 podemos otimizar nossas tarefas nos baseando na extensão dos arquivos que estamos lidando. No caso do indexador de símbolos, eu simplesmente utilizo uma batch que contém exatamente a linha acima (com a diferença de %1 no lugar de MINHA-PASTA-COM-BINÁRIOS) que eu chamo direto do Explorer através de um comando que inseri no registro. Eis o comando:
 
-    Windows Registry Editor Version 5.00
-    
-    [HKEY_CLASSES_ROOT\dllfile\shell\Index Symbols]
-    
-    [HKEY_CLASSES_ROOT\dllfile\shell\Index Symbols\command]
-    @="cmd.exe /c c:\\tools\\indexsymbols.bat  \"%1\""
 
 Você pode seguir o passo-a-passo dessas linhas e gerar seu próprio registro. Após feito isso, surgirá um novo comando para qualquer DLL que você clicar com o outro botão do mouse. Você também pode gerar o mesmo comando para EXEs, bastando realizar o mesmo passo-a-passo na pasta exefile em vez de dllfile.
 

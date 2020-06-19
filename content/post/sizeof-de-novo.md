@@ -8,9 +8,6 @@ Algumas coisas em C parecem tão simples na programação do dia-a-dia que em al
 
 Vamos tomar, por exemplo, o seguinte minicódigo:
 
-    
-    size_t len = sizeof("A simple string");
-    memcpy(buf, "A simple string", len);
 
 A pergunta ingênua: quantos bytes são copiados para buf?
 
@@ -38,18 +35,9 @@ Os grifos são meus, para demonstrar que o operador sizeof irá retornar o núme
 
 Bem, todos sabemos o resultado das linhas abaixo:
 
-    
-    char charArray[100];
-    size_t len = sizeof(charArray);
 
 Nesse caso é simples de observar que o operador sizeof irá retornar 100, que é o número em bytes para abrigar o tipo do operando, que é de "array de 100 caracteres". Podemos, então, imaginar que a nossa idiomática expressão do início é no fundo um resumo das linhas que se seguem.
 
-    
-    ...
-    static char aSimpleString[] = "A simple string";
-    ...
-    size_t len = sizeof(aSimpleString);
-    memcpy(buf, aSimpleString, len); // obs: dependente da implementação
 
 Ou seja, o tipo de nossa string é na verdade de array estático de caracteres, como se uma variável tivesse sido definida anteriormente com o conteúdo da string, que deve estar em algum lugar da memória do programa. Visto dessa forma fica bem mais simples de entender o que acontece na versão resumida.
 

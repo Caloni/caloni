@@ -32,23 +32,6 @@ Isso vale para qualquer projeto que você esteja trabalhando. Pela linha de coma
 
 Pronto! Você está oficialmente com seu projeto dentro de um controle de fonte.
 
-    
-    C:\Users\Caloni\Documents\Projetos>cd MeuProjeto
-    
-    C:\Users\Caloni\Documents\Projetos\MeuProjeto>bzr init
-    Created a standalone tree (format: 2a)
-    
-    C:\Users\Caloni\Documents\Projetos\MeuProjeto>bzr add
-    adding MeuProjeto.cpp
-    adding MeuProjeto.h
-    
-    C:\Users\Caloni\Documents\Projetos\MeuProjeto>bzr commit -m "Primeiro commit no controle de fonte"
-    Committing to: C:/Users/Caloni/Documents/Projetos/MeuProjeto/
-    added MeuProjeto.cpp
-    added MeuProjeto.h
-    Committed revision 1.
-    
-    C:\Users\Caloni\Documents\Projetos\MeuProjeto>
 
 Os passos seguintes seguem o mesmo padrão, exceto o passo 1, que é substituído pelo seu trabalho:
 
@@ -61,14 +44,5 @@ Os passos seguintes seguem o mesmo padrão, exceto o passo 1, que é substituíd
 	
   3. bzr commit -m "Comentário sobre modificação que fiz"
 
-    
-    C:\Users\Caloni\Documents\Projetos\MeuProjeto>vim MeuProjeto.cpp
-    
-    C:\Users\Caloni\Documents\Projetos\MeuProjeto>bzr add
-    
-    C:\Users\Caloni\Documents\Projetos\MeuProjeto>bzr commit -m "Corrigido bug de nao exibir cores"
-    Committing to: C:/Users/Caloni/Documents/Projetos/MeuProjeto/
-    modified MeuProjeto.cpp
-    Committed revision 2.
 
 Basicamente, sim. É claro que um controle de fonte não se baseia apenas em commits. Existem arquivos a serem ignorados (os obj da vida) e eventualmente algum trabalho paralelo ou com mais programadores. No futuro poderá comparar versões diferentes do código. Porém, apenas seguindo essa simples receita acima você já pode se gabar de ter um controle de fontes confiável em seus projetos. Já estará se aproveitando desse controle no futuro, quando aprender mais sobre ele.

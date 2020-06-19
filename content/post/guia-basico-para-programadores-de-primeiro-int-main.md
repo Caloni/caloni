@@ -12,7 +12,6 @@ E do que é feito um programa? Basicamente de duas coisas: dados de entrada e in
 
 Vamos analisar essas abstrações em exemplos da vida real:
 
-    
 | Exemplo         | Dados de entrada            | Processamento                 | Dados de saída                    |
 | --------------  | --------------------------  | ----------------------------  | --------------------------------- |
 | Bloco de Notas  | Digitação do usuário        | Leitura do teclado            | Texto exibido na tela             |
@@ -34,32 +33,6 @@ Porém, se fosse sempre assim, isso quer dizer que o programa seria executado se
 
 Seguindo esse raciocínio, podemos deduzir que um programa deve tomar decisões para saber o que fazer. E para tomar essas decisões ele usa o que recebeu como entrada, que são exatamente os dados de entrada. Nesse contexto, tomar decisão significa alterar o fluxo de execução. Ou seja, a ordem não necessariamente será sempre linha 1, linha 2, linha 3, etc, mas poderá ser, por exemplo, linha 1, linha 52, linha 237643, linha 52 de novo, linha 890, e assim por diante.
 
-    
-    Linha 0001: inicia o programa
-    Linha 0002: lê dados de entrada
-    Linha 0003: devo atirar?
-    Linha 0004: sim! vou para a linha 0514
-    Linha 0005: não! vou para a linha 0002
-    Linha 0006: ...
-    ...
-    Linha 0514: acertei o inimigo?
-    Linha 0515: sim! vou para a linha 3489
-    Linha 0516: não! vou para a linha 1234
-    Linha 0517: ...
-    ...
-    Linha 1234: fui acertado?
-    Linha 1235: sim! vai para linha 8918
-    Linha 1236: não! vai para a linha 0002
-    ...
-    Linha 3489: aumenta pontos
-    Linha 3490: vai para linha 0002
-    ...
-    Linha 8918: morri?
-    Linha 8919: sim! vai para linha 9000
-    Linha 8920: não! vai para a linha 0002
-    ...
-    Linha 9000: game over!
-    Linha 9001: sai do programa
 
 Note que existem várias perguntas que o programa precisa responder para seguir em frente. Para respondê-las, o programa pede a ajuda do computador para fazer comparações entre variáveis. E aí está o uso desses dados internos.
 

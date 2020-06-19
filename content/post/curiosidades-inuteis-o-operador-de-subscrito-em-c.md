@@ -14,30 +14,14 @@ As regras de acesso a elementos de um array (subscrito) são definidas não em t
 
 Isso traduzido em miúdos quer dizer que com duas expressões formando a construção E1 [ E2 ], sendo uma delas do tipo ponteiro para um tipo e a outra do tipo integral, o resultado é equivalente a *( (E1) + (E2) ). Como no código abaixo:
 
-    #include <iostream>
-    
-    int main()
-    {
-    	char ditado[] = "Diga-me com que programas e eu te direi quem és.";
-    	int indice = 8;
-    
-    	std::cout << "E a linguagem é: " << ditado[indice] << std::endl;
-    } 
-    
 
 A teoria comprovada na prática: temos duas expressões no formato E1 [ E2 ] sendo uma do tipo ponteiro para char e a outra do tipo int, exatamente como a regra define. O detalhe obscuro que permaneceu durante a evolução dessas duas linguagens é que a regra de acesso a elementos não define a ordem das expressões. Assim sendo, me aproveito dessa flexibilidade e inverto os elementos do subscrito:
 
-    
-       std::cout << <span class="string">"E a linguagem é: "</span> << indice[ditado] << std::endl;
 
 Isso também compila e tem o mesmo resultado, pois também é equivalente a *( (E1) + (E2) ). No final dá na mesma. E do jeito que está a inversão nem dá tanto susto assim, pois estamos lidando com duas variáveis. A coisa começa a ficar mais IOCCC se colocarmos em vez de uma delas uma constante:
 
-    
-       std::cout << <span class="string">"E a linguagem é: "</span> << 8[ditado] << std::endl;
 
 Isso ainda é válido, certo? Os tipos das expressões estão de acordo com a regra. Fica simples de visualizar se sempre pensarmos no "equivalente universal" *( (E1) + (E2) ). Até coisas bizarras como essa acabam ficando simples:
 
-    
-       std::cout << 5[<span class="string">"Isso Compila?"</span>] << std::endl;
 
 Nota do autor: esse tipo de "recurso obscuro" dificilmente passará por uma revisão de código, e com razão, dado que não é um método útil e muito menos conhecido. Sábio é saber evitar. Não acredito, porém, que o conhecimento de certos detalhes da linguagem em que se programa sejam completamente inúteis. Conhecimento nunca é demais, pois quanto mais se conhece maior é o número de ferramentas conceituais que se dispõe para resolver um certo problema. Em muitas vezes o "conhecimento inútil" de hoje se torna um guia sábio quando se precisa de bons conceitos sobre a coisa toda. No entanto, que não venha um boi-corneta me dizer que esse código fere as boas práticas de programação. Tenho dito.

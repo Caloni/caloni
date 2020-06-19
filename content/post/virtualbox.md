@@ -10,16 +10,6 @@ Desenvolvido pela Sun Microsystems, as características do VirtualBox impression
 
 No entanto, entre as coisas que testamos (instalado em um Windows Vista SP1 como host), o que não funcionou já não agradou tanto. A lista de prós e contras ainda confirma a liderança da VMWare, pelo menos em qualidade:
 
-    
-    Funcionalidade          VMWare             VirtualBox
-    
-    Snapshots               Sim                Sim. Mesma velocidade.
-    USB                     Sim                Sim. Não funcionou.
-    Seamless Mode           Não                Sim.
-    Clipboard               Sim                Sim. Não funcionou.
-    Shared Folders          Sim                Sim. Erros de acesso.
-    Ferramentas Guest       Sim                Sim.
-    Pause Momentâneo        Não                Sim.
 
 Além da tabela de testes acima, é necessário notar que por mas três vezes a VM simplesmente parou de responder, sendo necessário reiniciar o programa Host.
 

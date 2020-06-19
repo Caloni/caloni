@@ -18,10 +18,5 @@ O mais prático de tudo é usar esse modelo de arquivo encriptado pelo Vim para 
 
 Se você gostou desse modelo, seguem os comandos para pesquisar (:help comando):
 
-    ; define o algoritmo que será usado para encriptar arquivo
-    :set cm=blowfish2
-    
-    ; define senha de criptografia ao salvar arquivo
-    :X
 
 Este post foi inspirado em meu próprio uso do Vim, mas mais inspirado ainda depois de ler o artigo da invert.

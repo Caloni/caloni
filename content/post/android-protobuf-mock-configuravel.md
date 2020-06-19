@@ -18,37 +18,15 @@ A grande vantagem do Android Studio é que ele já escaneia os diretórios do pr
 
 Para a parte do mock eu recomendo usar o sistema de variáveis do Gradle. Ele mantém uma lista de variáveis em um formato específico no arquivo app/build.gradle:
 
-    buildTypes {
-        debug {
-            buildConfigField "boolean", "is_server_mock", IsServerMock
-            buildConfigField "String", "server_mock_data", ServerMockData
-        }
-    }
 
 Você pode jogar direto o valor que deseja, mas há uma solução ainda mais elegante que usa um arquivo apartado chamado local.properties, onde é ideal não jogar no controle de fonte, e de onde todo desenvolvedor pode customizar. No caso de ServerMockData, ele pode ser um json com sua mensagem protobuf já certinha para uso, como se esses fossem os dados do server:
 
-        ServerMockData = '"{\\"session\\":\\"mock\\",\\"item\\":[{\\"itemData\\":{\\"sbrurles\\":[{\\"id\\":10,\\"name\\":\\"Something\\",\\"number\\":\\"282\\"}"}}]}\\n"'
 
 Isso pode estar errado (parênteses demais), mas você entendeu a ideia. É possível jogar um json nesse arquivo e depois o Android e o Gradle irão jogá-lo diretament em uma classe estática, a BuildConfig:
 
-    public final class BuildConfig {
-      public static final boolean DEBUG = Boolean.parseBoolean("true");
-      public static final String BUILD_TYPE = "debug";
-      public static final String FLAVOR = "";
-      public static final int VERSION_CODE = 35;
-      // Fields from build type: debug
-      public static final boolean is_server_mock = true;
-      public static final String server_mock_data = "{\"session\":\"mock\",\"item\":[{\"itemData\"...";
-    }
 
 A partir dessa string é possível obter rapidamente a mensagem equivalente:
 
-    if( ! BuildConfig.is_server_mock )
-    {
-        ServerData.Builder builder = ServerData.newBuilder();
-        JsonFormat.parser().merge(BuildConfig.server_mock_data, builder);
-        ServerData data = builder.build();
-    }
 
 DICA: O Android Studio tem um botão esperto em sua interface onde, depois de alterado o local.properties, é possível refazer o BuildConfig.
 

@@ -14,12 +14,6 @@ Um alfabeto é uma das muitas maneiras de representar as palavras de uma língua
 
 Assim sendo, embora o alfabeto russo seja diferente do alfabeto latino muitos fonemas são compartilhados. Isso quer dizer que podemos pegar algumas letras do cirílico e traduzir diretamente para algumas letras do nosso alfabeto, e outras letras não. Exemplos de letras que podemos fazer isso:
 
-    
-    ¿ == B
-    ¿ == V
-    ¿ == G
-    ¿ == D
-    ...
 
 Porém, após a tradução de uma letra no teclado, a posição dela geralmente não é a mesma posição do nosso teclado. Daí temos uma letra de nosso alfabeto em outro lugar. Se for feita uma tradução aproximada entre os dois alfabetos, nossas letras em um teclado russo ficariam dispostas assim:
 
@@ -29,29 +23,11 @@ Ao digitar usando esse pseudo-leiaute o treino do leiaute do teclado russo estar
 
 A idéia é simples, e o código também não é nada complexo. Só preciso de um EXE e uma DLL. No EXE chamo uma função exportada pela DLL que por sua vez instala um hook de mensagens:
 
-    
-    g_hHook = SetWindowsHookEx(WH_GETMESSAGE, HookProc, GetModuleHandle(MODULE_NAME), 0);
 
 Nas chamadas da função de callback da DLL, manipulo a mensagem WMCHAR, que corresponde à digitação de caracteres, para trocar os caracteres originais do teclado pelos caracteres que deveriam existir no recém-inventado formato latino-russo, totalmente fora dos padrões e normas de segurança existentes:
 
-    switch( pMsg->message )
-    {
-    	case WM_CHAR:
-    	{
-    		LPTSTR ptzChar =
-    		_tcschr(g_tzRussAlphabet, (TCHAR) pMsg->wParam);
-    
-    		if( ptzChar )
-    		{
-    			size_t offset = ptzChar - g_tzRussAlphabet;
-    			pMsg->wParam = (WPARAM) g_tzPortAlphabet[offset];
-    		}
-    	}
-    } 
-    
 
 Simples assim. E temos um keylogger que troca caracteres! É impressionante como as coisas mais simples podem se transformar nos momentos mais divertidos de um programador em um feriado.
 
-    
   * Endereço do artigo (e fontes) no Code Project
 

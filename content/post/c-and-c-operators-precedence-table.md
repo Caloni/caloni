@@ -26,15 +26,12 @@ This way, the table can resolve 99% of the evaluation order issues in a language
 
 Let's see, by example, the conditional operator, most of the times known by ternary operator. Given its peculiar format, even having the precedence lower than the comma operator, the language doesn't allow a misinterpretation. If so,
 
-    a ? b , c : d
 
 will be interpreted as
 
-    a ? ( b , c ) : d
 
 and not as
 
-    ( a ? b ) , ( c : d )
 
 that would be the logic result if we followed the precedence table, since the comma operator has lower precedence than the ternary operator. But that doesn't make any sense in the language, and that's why the first form is understood by the compiler, even contradicting the precedence table. This is corroborated by the following quote from Wikipedia:
 
@@ -46,31 +43,21 @@ That is one of the reasons why the precedence table is just a way to express the
 
 We can see from my example, the Wikipedia example and the Stroustrup example that the ternary operator is the main victim. Not for less. Talking about the grammar, the C ternary operator definition is different from the C++ ternary operator definition. While in C this operator is defined like this:
 
-    conditional-expression:
-    logical-OR-expression
-    logical-OR-expression ? expression : conditional-expression
 
 In C++ language it is defined like this:
 
-    conditional-expression:
-    logical-OR-expression
-    logical-OR-expression ? expression : assignment-expression
 
 This little difference can give us some (rare) situations where we can get a syntax error in C. As in a Wikipedia example , the following expression:
 
-    e = a ? b : c = d
 
 is interpreted by the C language as:
 
-    e = ( ( a ? b : c ) = d )
 
 In the C++ language is interpreted as:
 
-    e = ( a ? b : ( c = d ) )
 
 In the C language case, we have a compilation error because the code is trying to assign a value to a lvalue (remember that lvalues can't be assigned to anything).
 
-    ( a ? b : c ) = d
 
 But in C++ there's no invalid assignment, what makes a no error compilation performed.
 
@@ -78,7 +65,6 @@ Now, one last question, that seems to be the most relevant in this precedence is
 
 Why is the Stroustrup book precedence table different from the C precedence table?  Well, I believe that, after all our analysis, the answer must be somewhat obvious: knowing that, in the ternary operator, the third operand is an assignment-expression, it is most likely the table is agree with the grammar if we put a extra weight for the assignment operators before the ternary operator. This way, if the third operand is an assignment operation (as the case above), the imaginary parentesis will be put first in the assignment operation, making the grammar definition valid (green is in C++; red is in C):
 
-    ( a ? b : ( c ) = d )
 
 I hope this second post about the precedence table have cleared a bit more about the subject. Is not easy to understand the C language, but once you start to try, one magic door opens. Some things to remember from this experience:
 

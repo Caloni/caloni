@@ -32,40 +32,6 @@ Agora é hora de abrir o registro. Quer dizer, parte dele. Dentro da pasta syste
 
 A partir daí vários componentes do kernel serão carregados progressivamente. Só que a partir do momento que é chamada a rotina interna KiInitializeKernel o NTLDR não tem mais nada pra fazer: o kernel, em sua forma básica e primitiva, está carregado.
 
-    
-    windbg notepad
-    $$>a<<a href="/carregando-dlls-arbitrarias-pelo-windbg-parte-2">scripts\loadlibrary.txt</a> ntoskrnl.exe
 
-    
-    0:000> lm m nt*
-    start    end        module name
-    00400000 00629000   ntoskrnl   (pdb symbols)          c:\tools\symbols\ntkrnlmp.pdb\46DFBE2D3E484140A0909F7519B1700A2\ntkrnlmp.pdb
-    7c900000 7c9b6000   ntdll      (pdb symbols)          c:\tools\symbols\ntdll.pdb\6992F4DAF4B144068D78669D6CB5D2072\ntdll.pdb
-    0:000> x ntoskrnl!KiInit*
-    005ef332 ntoskrnl!KiInitializePcr = <no type information>
-    005eefc0 ntoskrnl!KiInitQueuedSpinLocks = <no type information>
-    005ef1de ntoskrnl!KiInitSystem = <no type information>
-    00439ded ntoskrnl!KiInitializeTSS = <no type information>
-    005eadd2 ntoskrnl!KiInitializeKernel = <no type information>
-    0043aefb ntoskrnl!KiInitializeAbios = <no type information>
-    005e4add ntoskrnl!KiInitMachineDependent = <no type information>
-    0058faa4 ntoskrnl!KiInitializePAT = <no type information>
-    005dde52 ntoskrnl!KiInitializeTSS2 = <no type information>
-    004105e5 ntoskrnl!KiInitializeUserApc = <no type information>
-    00415619 ntoskrnl!KiInitializeContextThread = <no type information>
-    0043afdb ntoskrnl!KiInitializeAbiosGdtEntry = <no type information>
-    005dde01 ntoskrnl!KiInitializeMachineType = <no type information>
-    005e51f7 ntoskrnl!KiInitializeMTRR = <no type information>
-    
-    0:000> u ntoskrnl!KiInitializeKernel
-    ntoskrnl!KiInitializeKernel:
-    005eadd2 6a28            push    28h
-    005eadd4 68c0784300      push    offset ntoskrnl!KiDebugRegisterContextOffsets+0x3c (004378c0)
-    005eadd9 e8a510e2ff      call    ntoskrnl!_SEH_prolog (0040be83)
-    005eadde e8b531ffff      call    ntoskrnl!KiSetProcessorType (005ddf98)
-    005eade3 e8cfffffff      call    ntoskrnl!KiSetCR0Bits (005eadb7)
-    005eade8 e8d334ffff      call    ntoskrnl!KiIsNpxPresent (005de2c0)
-    005eaded 8845e7          mov     byte ptr [ebp-19h],al
-    005eadf0 64a11c000000    mov     eax,dword ptr fs:[0000001Ch]
 
 Veremos nos próximos capítulos como podemos nos aproveitar do ntoskrnl.exe para poder depurar o código a partir daí. Até lá.

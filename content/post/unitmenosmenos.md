@@ -16,31 +16,8 @@ Depois basta incluir apenas um arquivo do projeto unit--, que é seu cpp princip
 
 Com isso existirá um main lá dentro, definido em algum lugar. E tudo o que você precisa fazer é ir criando seus testes em outro arquivo fonte gerado para isso. O corpo e o formato dos unit cases é bem simples. Note que tudo que você fez para já sair testando seu projeto foi copiar um projeto já existente e inserir um módulo de outro projeto. Tudo compilando junto e já podemos fazer os primeiros testes do programa original (desde, claro, que ele seja testável, algo primordial):
 
-    // Precisamos definir uma suíte de testes.
-    testSuite(DayToDayTests)
-    
-    // Se eu digito uma linha, ela deve estar no arquivo daytoday.txt.
-    testCase(GetUmaLinha, DayToDayTests)
-    {
-        //...
-        bool lineOk = TestAlgumaCoisa();
-        assertTrue(lineOk);
-    }
-    
-    // Se eu digito duas linhas, ambas devem estar no arquivo daytoday.txt.
-    testCase(GeraDuasLinhas, DayToDayTests)
-    {
-        //...
-        bool lineOk = TestOutraCoisa();
-        assertTrue(lineOk);
-    }
 
 E assim por diante. O resultado é que quando você roda o executável de teste, ele execute toda a bateria e já te entregue todos os casos que você deseja testar, sem frescura:
 
-    ......
-    OK
-    Total 6 test cases
-    0 sec.
-    Press any key to continue . . .
 
 E voilà! Sistema de teste unitário pronto e rodando. Agora cada nova situação de erro ou que você precise validar, basta escrever um novo teste. Se esse projeto ir se tornando algo muito maior, a transição para testes unitários mais parrudos é apenas um regex. No momento, foque em codificar e testar muito bem o que está fazendo.

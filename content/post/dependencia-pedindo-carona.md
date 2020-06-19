@@ -22,56 +22,7 @@ Um recurso muito útil para ver essas funções é o Dependency Walker, meu amig
 
 Pois é. As coisas nem sempre acabam sendo como o esperado. Se você possuir uma LIB, por exemplo, e nela existirem duas funções, como abaixo, e você se limitar a usar em seu programa apenas a primeira, todas as dependências da segunda também irão parar no executável final.
 
-    #include "LibMod.h"
-    #include <windows.h>
-    #include <Tlhelp32.h>
-    #include <stdio.h>
-    
-    // Essa função é usada pelo nosso App
-    int UsingOldApis()
-    {
-    	DWORD ver = GetVersion(); // API paleozoica, OK.
-    	return int( (DWORD)(LOBYTE(LOWORD(ver))) );
-    }
-    
-    // Essa função NÃO é usada pelo nosso App
-    void UsingNewApis()
-    {
-    	// Opa: função moderninha!!
-    	if( HANDLE snapshot = CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS, NULL) )
-    	{
-    		PROCESSENTRY32 procEntry;
-    
-    		// Tudo bem, nosso App não vai usar essa função.
-    		if( Process32First(snapshot, &procEntry) )
-    		{
-    			printf("Process list:\n");
-    
-    			do
-    			{
-    				printf("%s\n", procEntry.szExeFile);
-    			}
-    			while( Process32Next(snapshot, &procEntry) );
-    		}
-    
-    		CloseHandle(snapshot);
-    	}
-    }
-     
-    
 
-    #include "LibMod.h"
-    #include <stdio.h>
-    #include <stdlib.h>
-    
-    int main()
-    {
-    	// Usando apenas funções paleozoicas, certo?
-    	printf("Our Major OS version is %d\n", UsingOldApis() );
-    	system("pause");
-    }
-     
-    
 
 Acontece que o nosso amigo linker gera uma lista de dependências por módulo (CPP), e não por função. Dessa forma, tudo que vier é lucro.
 
@@ -79,50 +30,6 @@ Só que às vezes é prejuízo, também. Quando usamos um SO da época do guaran
 
 Sempre existe. Nesse caso, migrarmos as funções moderninhas para um segundo CPP, recompilarmos a LIB e a dependência milagrosamente desaparecerá!
 
-    #include "LibMod.h"
-    #include <windows.h>
-    #include <Tlhelp32.h>
-    #include <stdio.h>
-    
-    // Essa função é usada pelo nosso App
-    int UsingOldApis()
-    {
-    	DWORD ver = GetVersion(); // API paleozoica, OK.
-    	return int( (DWORD)(LOBYTE(LOWORD(ver))) );
-    }
-    
-     
-    
 
-    #include "LibMod.h"
-    #include <windows.h>
-    #include <Tlhelp32.h>
-    #include <stdio.h>
-    
-    // Essa função NÃO é usada pelo nosso App
-    void UsingNewApis()
-    {
-    	// Opa: função moderninha!!
-    	if( HANDLE snapshot = CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS, NULL) )
-    	{
-    		PROCESSENTRY32 procEntry;
-    
-    		// Tudo bem, nosso App não vai usar essa função.
-    		if( Process32First(snapshot, &procEntry) )
-    		{
-    			printf("Process list:\n");
-    
-    			do
-    			{
-    				printf("%s\n", procEntry.szExeFile);
-    			}
-    			while( Process32Next(snapshot, &procEntry) );
-    		}
-    
-    		CloseHandle(snapshot);
-    	}
-    }
-     
-    
 
 Agora a aplicação poderá rodar em paz naquele que é, como diz meu amigo, um sistema operacional de ponta... da outra ponta!

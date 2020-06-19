@@ -8,38 +8,6 @@ No primeiro artigo vimos como é possível "enganar" o depurador através de exc
 
 O upgrade apresentado aqui continua utilizando o lançamento de exceções intrinsecamente, mas agora não depende mais da divisão do código em minifunções e chamá-las aos poucos. Em invés disso, temos apenas que pegar traços de código e colocá-los em torno de uma macro milagrosa que fará tudo o que quisermos. Isso, claro, depois de algumas marteladas que serão explicadas aqui.
 
-    // Go back to place pre-defined by the restoration point.
-    void LongJmp(restorePoint)
-    {
-    	// Here we will generate an exception to make things difficult.
-    	// @todo Make a breakpoint exception and catch it.
-    
-    	// 3. We return to the if without using the stack, but from the restoration point.
-    	GoBackToTheStartFunction(restorePoint);
-    }
-    
-    // Here everything begins.
-    int Start()
-    {
-    	// Obs.: follow the agreement flow according to the numbers.
-    
-    	// 1. First pass: we define a restoration point to the return of LongJmp.
-    	// 4. Second pass: we go back from the LongJmp function, but this time we get into the else.
-    	if( RestorePointDefined() == Defined )
-    	{
-    		// 2. We call the function that will return to the if.
-    		LongJmp( if );
-    	}
-    	else
-    	{
-    		// 5. Call the real function, our true target.
-    		CallTheUsefulFunction();
-    	}
-    
-    	// 6. End of execution.
-    	return 0;
-    } 
-    
 
 A solução acima está apresentada em pseudo-código para tornar mais claro o conceito. Note que existe uma espécie de "retorno invisível", não baseado em retorno de pilha, envolvido. Para implementá-lo, contudo, podemos nos ajeitar com o velho e bom padrão C ANSI, com as rotinas setjmp (passo 1) e longjmp (passo 3). Para entender a implementação dessa funções na plataforma 8086 precisamos ter primeiro uma visão básica da estrutura de chamada de funções baseada em pilha.
 
@@ -81,108 +49,11 @@ Func:
 
 Toda essa esculhambada em assembly não precisa ser necessariamente feita em linguagem de baixo nível. Foi apenas uma maneira que encontrei pra ilustrar as diferenças entre retorno baseado em pilha e alteração no fluxo do código. Como já foi dito, para a sorte e o bem-estar de todos, essa mesma técnica pode ser implementada com funções C da biblioteca ANSI:
 
-    jmp_buf env; // Contains the next instruction (stack state).
-    
-    void Func()
-    {
-    	// 3. Return using the "nonconventional" way
-    	longjmp(env, 1);
-    }
-    
-    void CallFunc()
-    {
-    	// 1. If we're setting, returns 0.
-    	// 2. If we're returning, returns a value different from 0.
-    	if( setjmp(env) == 0 )
-    		Func();
-    
-    	int x = 10; // 4. Next instruction.
-    } 
-    
 
 Essa foi a técnica adicionada à solução do lançamento de exceções. O código final ficou mais claro:
 
-    /** The only purpose of this function is to generate an exception.
-    */
-    DWORD LongJmp(jmp_buf* env)
-    {
-    	__try
-    	{
-    		__asm int 3
-    	}
-    		__except( EXCEPTION_EXECUTE_HANDLER )
-    	{
-    		longjmp(*env, 1);
-    	}
-    
-    	return ERROR_SUCCESS;
-    }
-    
-    /** And God said: 'int main!'
-    */
-    int main()
-    {
-    	DWORD ret = ERROR_SUCCESS;
-    
-    	while( cin )
-    	{
-    		string line;
-    
-    		cout << "Type something\n";
-    		getline(cin, line);
-    
-    		jmp_buf env;
-    
-    		if( setjmp(env) == 0 )
-    		{
-    			LongJmp(&env);
-    		}
-    		else
-    		{
-    			cout << line << endl;
-    		}
-    	}
-    
-    	return (int) ret;
-    } 
-    
 
 À primeira vista parece um desperdício o if estar diretamente no código (lembre-se que vamos utilizar a mesma estrutura condicional em várias e várias partes do código. Para tornar mais claro seu uso, resumir a chamada protegida e permitir que a proteção seja desabilitada em debug, vamos criar uma macro:
 
-    /** Use this macro instead LongJmp
-    */
-    #define ANTIDEBUG(code)
-    {
-    	jmp_buf env;
-    
-    	if( setjmp(env) == 0 )
-    	{
-    		LongJmp(&env);
-    	}
-    	else
-    	{
-    		code;
-    	}
-    }
-    
-    /** And God said: 'int main!'
-    */
-    int main()
-    {
-    	DWORD ret = ERROR_SUCCESS;
-    
-    	while( cin )
-    	{
-    		string line;
-    
-    		cout << "Type something\n";
-    		getline(cin, line);
-    
-    		ANTIDEBUG(( cout << line << endl ));
-    	}
-    
-    	return (int) ret;
-    } 
-    
 
 Veja que como agora permitimos a seleção do anti-debug por chamada, fica mais fácil escolher quais os pontos a serem protegidos e quais não devem/podem por conta de perfomance ou outro detalhe obscuro que sempre existe na vida de um programador C++.

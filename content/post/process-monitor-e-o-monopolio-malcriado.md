@@ -25,49 +25,17 @@ Agora, uma pequena ressalva: eu estou cansado de ver isso, mas para quem nunca v
 
 A primeira busca retorna uma chave no registro referente às propriedades de joystick. Como não estou usando joysticks, podemos ignorar este erro por enquanto e passar adiante.
 
-    
-    MonopolyClassic.exe CreateFile	C:\Documents and ...\TikGames\Monopoly NAME COLLISION
-    MonopolyClassic.exe CreateFile	C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log ACCESS DENIED
-    MonopolyClassic.exe QueryOpen	C:\Arquivos de programas\GameHouse\Monopoly Classic\DBGHELP.DLL NAME NOT FOUND
-    MonopolyClassic.exe RegOpenKey	HKLM\Software\Microsoft\...\DBGHELP.DLL NAME NOT FOUND
 
 O próximo erro diz respeito a uma tentativa de acesso ao arquivo Monopoly.log localizado no diretório de instalação do jogo, o que já é mais sugestivo. Podemos fazer um pequeno teste alterando o acesso desse arquivo.
 
-    
-    C:\Arquivos de programas\GameHouse\Monopoly Classic>cacls Monopoly.log
-    C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log BUILTIN\Usuários:R
-                                                                     BUILTIN\Administradores:F
-                                                                     AUTORIDADE NT\SYSTEM:F
-                                                                     MITY\Caloni:F
-    
-    C:\Arquivos de programas\GameHouse\Monopoly Classic>
 
 Como podemos ver, o que é muito natural, um arquivo dentro da pasta de instalação de programas permite acesso de somente leitura para usuários comuns a seus arquivos, inclusive o Monopoly.log. Para fazer o teste, podemos simplesmente adicionar controle total a apenas esse arquivo, e rodar novamente o jogo.
 
-    
-    cacls Monopoly.log /E /G Usuários:F
-    arquivo processado: C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log
-    
-    C:\Arquivos de programas\GameHouse\Monopoly Classic>cacls Monopoly.log
-    C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log BUILTIN\Usuários:F
-                                                                     BUILTIN\Administradores:F
-                                                                     AUTORIDADE NT\SYSTEM:F
-                                                                     MITY\Caloni:F
 
-    
-    C:\Arquivos de programas\GameHouse\Monopoly Classic>start monopolyclassic.exe
 
 Ora essa, estou conseguindo rodar o jogo! Isso quer dizer que nosso único problema, o acesso a esse arquivo, foi resolvido. Sabendo que um arquivo de log provavelmente não será executado por nenhuma conta privilegiada, podemos deixá-lo com acesso irrestrito para todos.
 
 Para ter certeza que isso resolveu o problema, uma segunda auditoria de execução executada pelo Process Monitor pode nos revelar mais detalhes.
 
-    
-    MonopolyClassic.exe QueryStandardInformationFile C:\Documents ...\Monopoly\save.gcf SUCCESS
-    MonopolyClassic.exe ReadFile C:\Documents ...\Monopoly\save.gcf SUCCESS
-    MonopolyClassic.exe CloseFile C:\Documents ...\Monopoly\save.gcf SUCCESS
-    MonopolyClassic.exe CreateFile C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log SUCCESS
-    MonopolyClassic.exe CreateFile C:\Arquivos de programas\GameHouse\Monopoly Classic SUCCESS
-    MonopolyClassic.exe CloseFile C:\Arquivos de programas\GameHouse\Monopoly Classic SUCCESS
-    MonopolyClassic.exe WriteFile C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log SUCCESS
 
 Moral da história: se algum dia você vier a escrever um programa inocente, deixe que pessoas inocentes consigam utilizá-lo.

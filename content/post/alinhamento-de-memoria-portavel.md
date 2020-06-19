@@ -8,29 +8,13 @@ Como vimos durante o seminário CCPP, o alinhamento de memória pode ser problem
 
 A raiz do problema é que, dependendo do alinhamento usado pelo compilador, o sizeof de uma variável pode mudar de valor, mesmo que o tamanho útil não mude. Por exemplo, vamos supor que temos uma dada estrutura que iremos encriptar:
 
-    
-    struct EstruturaQueIremosEncriptar    /* 4 + 31 = 35 bytes */
-    {
-        int size;        /* 4 bytes  */
-        char name[31];   /* 31 bytes */
-    };
 
 Se usarmos a construção "sizeof(EstruturaQueIremosEncriptar)", podemos obter o valor 35 caso o alinhamento seja feito em 1 byte, ou podemos obter o valor 40 se o alinhamento estiver configurado em 8 bytes. E é aí que começa o problema.
 
 Já pensando nesse problema, os projetistas de vários compiladores suportam uma extensão não-padrão que permite definir, para um dado conjunto de estruturas e variáveis, o alinhamento que deve ser seguido. Isso de cara já resolve o problema, SE sua solução usar apenas compiladores que suportem essa idéia. No Visual C++ essa idéia é traduzida por uma diretiva pragma:
 
-    
-    #pragma pack( push, 8 )
 
-    
-    struct EstruturaQueIremosEncriptar    /* 4 + 31 = 35 bytes */
-    {
-        int size;        /* 4 bytes  */
-        char name[31];   /* 31 bytes */
-    };
 
-    
-    #pragma pack( pop )
 
 A diretiva pragma está definida no padrão C (6.8.6) e C++ (16.6) e seu uso não torna um programa não-padrão. No entanto, o que vai depois da diretiva é dependente da implementação e não é garantido que irá funcionar.
 
@@ -40,41 +24,6 @@ Existem aqueles compiladores que não suportam essa idéia da mesma forma, ou n�
 
 Pelo que eu pude constatar, existe, sim.
 
-    #include <stdio.h>
-    
-    union TesteAlign
-    {
-    
-    	struct Teste
-    	{
-    		char buf[13];
-    		int x;
-    	}
-    	t;
-    
-    	unsigned char align[ (sizeof(struct Teste) % 8) ?
-    		(sizeof(struct Teste) / 8 + 1) * 8
-    		: (sizeof(struct Teste))
-    		];
-    
-    };
-    
-    int main()
-    {
-    	union TesteAlign tst;
-    
-    	printf("Alinhamento. Union: %d; Teste: %d; Align: %d.\n",
-    			sizeof(union TesteAlign), 
-    			sizeof(struct Teste), 
-    			sizeof(tst.align) );
-    
-    	printf("t: %p, align: %p\n", &tst.t, tst.align);
-    
-    	return 0;
-    }
-    
-     
-    
 
 O código acima usa o conceito de união de estruturas (union) para fazer valer um alinhamento na marra (no caso, 8). Para os que não conhecem unions, é necessário uma breve explicação do conceito.
 
@@ -84,24 +33,9 @@ Em uma união, os membros não são amontoados um após o outro. Todos eles come
 
 Como deve ser fácil de imaginar, uma união não tem tanto uso quanto uma estrutura, mas ainda assim faz parte da linguagem. Ela possibilita enxergar a mesma região de memória sob vários ângulos. Podemos descobrir a organização de um inteiro na memória, por exemplo, byte a byte:
 
-    
-    int main()
-    {
-        union {
-            int i;
-            unsigned char uc[ sizeof(int) ];
-        }
-        myUnion;
 
-    
-       myUnion.i = 0x12345678;
 
-    
-       printf("Int: %d.\n", myUnion.i);
-        printf("Bytes: %02X %02X %02X %02X.\n", uc[0], uc[1], uc[2], uc[3]);
 
-    
-    }
 
 Dependendo se a plataforma onde o programa acima é compilado, a exibição do último printf pode mudar. Eis o motivo.
 
@@ -109,52 +43,10 @@ Agora que sabemos o que são uniões fica fácil entender o esquema da solução
 
 Tudo que temos que saber para fazer o alinhamento é o tamanho normal de nosso tipo útil (o Teste). A partir desse valor deduzimos o próximo número que seja múltiplo de 8, através da seguinte construção:
 
-    
-    ( sizeof(struct Teste) % 8 ) ?
-          (sizeof(struct Teste) / 8 + 1) * 8
-        : (sizeof(struct Teste))
 
 Ou seja, se já for múltiplo de 8, é o próprio valor. Se não for, então dividimos por 8 e multiplicamos pelo mesmo valor adicionado de um, o que nos retorna o próximo múltiplo.
 
 É lógico que, como se trata de uma construção onde temos completo domínio dos tipos e valores envolvidos, transformar isso em um template é "pedaço de torta".
 
-    #include <stdio.h>
-    
-    template<typename Teste, int Align>
-    union TesteAlignTemplate
-    {
-    
-    	Teste t;
-    
-    	unsigned char align[ (sizeof(Teste) % Align) ?
-    		(sizeof(Teste) / Align + 1) * Align
-    		: (sizeof(Teste))
-    		];
-    
-    };
-    
-    struct Teste
-    {
-    	char buf[13];
-    	int x;
-    };
-    
-    int main()
-    {
-    	typedef TesteAlignTemplate<Teste, 8> TesteAlign;
-    	TesteAlign tst;
-    
-    	printf("Alinhamento. Union: %d; Teste: %d; Align: %d.\n",
-    			sizeof(TesteAlign), 
-    			sizeof(Teste), 
-    			sizeof(tst.align) );
-    
-    	printf("t: %p, align: %p\n", &tst.t, tst.align);
-    
-    	return 0;
-    }
-    
-     
-    
 
 E essa é a melhor parte de descobrir um padrão em um tipo: o template nasce quase que naturalmente. A beleza da linguagem floresce.

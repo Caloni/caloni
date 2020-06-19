@@ -10,13 +10,6 @@ Antes de começar a pensar em como as pastas estarão alinhadas, é importante s
 
 Portanto, trate de iniciar a estruturação em um projeto-modelo que já contenha pelo menos um commit: o das pastas vazias já estruturadas.
 
-    
-    bzr init _Template
-    cd _Template
-    bzr mkdir Docs
-    bzr mkdir Interface
-    bzr ...
-    bzr ci -m "Projeto-modelo. Herde desse projeto sua estrutura inicial"
 
 Build. Essa pasta contém tudo que é necessário para compilar e testar o projeto como um todo. Idealmente a execução da batch build.bat deve executar todo o processo. Após a compilação, é de competência dos componentes na subpasta Tests fazer os testes básicos do projeto para se certificar de que tudo está funcionando como deveria.
 

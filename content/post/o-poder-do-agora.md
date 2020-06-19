@@ -14,9 +14,4 @@ O primeiro exercício que ele pede que se faça é "observar o pensador", essa v
 
 A partir daí, não existem problemas, apenas situações no momento, que podem ser gerenciadas facilmente, pois agora não são apenas projeções mentais de um tempo e espaço inatingíveis: estão bem na nossa frente. E mesmo assim, a situação existe no tempo, enquanto a nossa vida é agora. Enquanto a situação de vida continua sendo uma coisa da mente, a nossa vida é algo mais: é real.
 
-     Aqui e agora: abandone-o, mude-o, ou aceite-o.
-     Capte o interior e ele vira exterior.
-     Não resista.
-     Sem tempo, sem problema.
-     O fazer é igual ao acontecer.
 

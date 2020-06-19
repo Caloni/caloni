@@ -12,34 +12,14 @@ A postfix expression followed by an expression in square brackets is a postfix e
 
 Notice that the rules don't specify the order of expressions to access the array. In other words, it doesn't matter for the language if we use a pointer before the integer or an integer before the pointer.
 
-    #include <iostream>
-    #include <cassert>
-    
-    int main()
-    {
-    	char quote[] = "Show me your Code, and I'll tell you who you are.";
-    	int index = 13;
-    	
-    	std::cout << "And the language is: " << quote [ index ] << std::endl;
-    	
-    	assert( quote[index] == index[quote] );
-    	assert( quote[13] == 13[quote] );
-    	assert( *(quote + index) == "That's C!"[7] );
-    	
-    	return 13[quote] - "CThings"[0];
-    } 
-    
 
 The quote[index] bellow shows that we can use both orders and the code will compile successfully.
 
-    std::cout << "And the language is: " << index [ quote ] << std::endl;
 
 This code doesn't show how obscure we can be. If we use a constant integer replacing the index, by example, the code starts to be an IOCCC participant:
 
-    std::cout << "And the language is: " << 13 [ quote ] << std::endl;
 
 Is this a valid code yet, right? The expression types are following the rule. It is easy to see if we always think about using the "universal match" *( (E1) + (E2) ). Even bizarre things like this are easy to realize:
 
-    std::cout << 8["Is this Code right?"] << std::endl;
 
 Obs.: this kind of "obscure rule" hardly will pass in a code review since it is a useless feature. Be wise and don't use it in production code. This is just an amusing detail in the language specification scope. It can help in analysis, never in programming.

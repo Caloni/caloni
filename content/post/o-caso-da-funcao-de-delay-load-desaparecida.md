@@ -14,8 +14,6 @@ Porém, um outro problema decorrente dessa situação é que a função chamada 
 
 Para verificar a existência de todas as DLLs e funções necessárias para nosso programa podemos utilizar o mundialmente conhecido Dependency Walker:
 
-    
-    depends meu_executa<strike></strike>vel.exe
 
 Se a função ou DLL não existe no sistema, o seguinte erro costuma ocorrer (isso depende da versão do Sistema Operacional):
 
@@ -25,21 +23,11 @@ Existe uma LIB no Visual Studio que serve para substituir a dependência estáti
 
 Essa LIB contém algumas funções-chave que o Visual Studio utiliza ser for usado o seguinte parâmetro de compilação:
 
-    
-    /delayload:iphlpapi.dll
 
 A função principal se chama "delayLoadHelper@8", ou seja, é uma função com convenção de chamada WINAPI (stdcall) que recebe dois parâmetros.
 
 Isso costuma sempre funcionar, sendo que tive uma grande surpresa com os seguintes erros de compilação na versão do programa que deve ser executada em Windows 95:
 
-    
-    --------------------Configuration: Project - Win32 Win95 Release--------------------
-    Linking...
-    iphlpapi.lib(iphlpapi.dll) : error LNK2001: unresolved external symbol ___delayLoadHelper@8
-    release/meu_executavel.exe : fatal error LNK1120: 1 unresolved externals
-    Error executing link.exe.
-    
-    meu_executavel.exe - 3 error(s), 0 warning(s)
 
 Isso, é claro, depois de ter checado e rechecado a existência da LIB de Delay Load na lista de LIBs a serem lincadas:
 
@@ -49,9 +37,6 @@ O Process Monitor pode ser usado para obter exatamente a localização da LIB qu
 
 Após localizar o local, podemos listar seus símbolos, mais precisamente a função "delayLoadHelper":
 
-    
-    C:\DDK\3790\lib\w2k\i386>dumpbin /symbols delayimp.lib | grep delayLoadHelper
-    108 00000000 SECT3C notype ()    External     | ___delayLoadHelper2@8
 
 A análise mostra que a função possui um "2" no final de seu nome, causando o erro de linque.
 

@@ -44,7 +44,6 @@ Tarefas mais específicas da minha área e que uso o tempo todo:
 	
   * Obter o endereço de uma função do Windows dinamicamente. E chamá-la.
 
-    Nota: Não use as classes superiores de C++ nem referências. Estou falando de estudar ponteiros nua e cruamente. Não seja preguiçoso. Algumas coisas devem ser feitas da maneira mais "primitiva" até se entender com o que se está lidando. Lembre-se que os melhores programadores possuem os alicerces mais fortes.
 
 Este vídeo é o mais didático do universo sobre como funcionam ponteiros em C. Veja e mostre pros seus filhos:
 

@@ -14,73 +14,11 @@ Pelo Wizard do VS podemos criar para um projeto C++ qualquer um projeto de teste
 
 Este é nosso projeto de exemplo:
 
-    #include "CalculatorTabajara.h"
-    
-    int soma(int x, int y)
-    {
-    	return x + y;
-    }
-    
-    int subtrai(int x, int y)
-    {
-    	return x - y;
-    }
-    
-    int multiplica(int x, int y)
-    {
-    	return x * y;
-    }
-    
-    int divide(int x, int y)
-    {
-    	return x / y;
-    }
-    
-    int main()
-    {
-    }
 
 Para conseguir testar o projeto principal adicione-o como referência.
 
 Após isso basta incluir algum header que contenha os tipos, funções, classes e métodos que deseja testar e vá criando métodos de teste dentro da classe de exemplo:
 
-    #include "pch.h"
-    #include "CppUnitTest.h"
-    #include "..\CalculatorTabajara.h"
-    
-    using namespace Microsoft::VisualStudio::CppUnitTestFramework;
-    
-    namespace UnitTest1
-    {
-    	TEST_CLASS(UnitTest1)
-    	{
-    	public:
-    		
-    		TEST_METHOD(TestaSoma)
-    		{
-    			int z = soma(3, 2);
-    			Assert::AreEqual(z, 5);
-    		}
-    
-    		TEST_METHOD(TestaSubtracao)
-    		{
-    			int z = subtrai(3, 2);
-    			Assert::AreEqual(z, 1);
-    		}
-    
-    		TEST_METHOD(TestaMultiplicacao)
-    		{
-    			int z = multiplica(3, 2);
-    			Assert::AreEqual(z, 6);
-    		}
-    
-    		TEST_METHOD(TestaDivisao)
-    		{
-    			int z = divide(3, 2);
-    			Assert::AreEqual(z, 1);
-    		}
-    	};
-    }
 
 Agora abrindo o jogo para você, amigo programador C++ que gosta de saber tudo que ocorre debaixo dos panos:
 
@@ -100,32 +38,6 @@ E se você prestar atenção na ordem de exportação desse símbolos verá que 
 
 Os headers e fontes do CppUnitTest ficam em paths do Visual Studio como VC\Auxiliary\VS\UnitTest, nas pastas include e lib. Nele é possível dar uma olhada no significado das macros e das classes disponibilizadas. Logo abaixo das macros, no arquivo principal, é possível ver como funciona o reflection:
 
-    namespace Microsoft{ namespace VisualStudio {namespace CppUnitTestFramework
-    {
-    
-    	struct ClassMetadata
-    	{
-    		const wchar_t *tag;
-    		const unsigned char *helpMethodName;
-    		const unsigned char *helpMethodDecoratedName;
-    	};
-    
-    	struct MethodMetadata
-    	{
-    		const wchar_t *tag;
-    		const wchar_t *methodName;
-    		const unsigned char *helpMethodName;
-    		const unsigned char *helpMethodDecoratedName;
-    		const wchar_t *sourceFile;
-    		int lineNo;
-    	};
-    
-    	struct ModuleAttributeMetadata
-    	{
-    		enum AttributeType { MODULE_ATTRIBUTE };
-    		const wchar_t *tag;
-    		const wchar_t *attributeName;
-            //...
 
 É uma lib pequena e elegante que permite uma interação não apenas com a IDE, como poderia ser automatizada por um script, uma vez que sabe-se o funcionamento interno e algumas interfaces.
 

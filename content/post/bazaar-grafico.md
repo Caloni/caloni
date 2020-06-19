@@ -10,27 +10,6 @@ Ele é leve, vem enrustido embutido na última versão e pode economizar alguns 
 
 Para exibir a lista de comandos "amigáveis", digite no prompt os comandos do Bazaar filtrando-os para os que começam com "q":
 
-    
-    bzr help commands | grep ^q.*
-    
-    qadd                 GUI for adding files or directories. [qbzr]
-    qannotate            Show the origin of each line in a file. [qbzr]
-    qbranch              Create a new copy of a branch. [qbzr]
-    qbrowse              Show inventory. [qbzr]
-    qcat                 View the contents of a file as of a given revision. [qbzr]
-    qcommit              GUI for committing revisions. [qbzr]
-    qconfig              Configure Bazaar. [qbzr]
-    qdiff                Show differences in working tree in a GUI window. [qbzr]
-    qgetnew              Creates a new working tree (either a checkout or full branch) [qbzr]
-    qgetupdates          Fetches external changes into the working tree [qbzr]
-    qinfo                 [qbzr]
-    qinit                Initializes a new (possibly shared) repository. [qbzr]
-    qlog                 Show log of a repository, branch, file, or directory in a Qt window. [qbzr]
-    qmerge               Perform a three-way merge. [qbzr]
-    qpull                Turn this branch into a mirror of another branch. [qbzr]
-    qpush                Update a mirror of this branch. [qbzr]
-    qrevert              Revert changes files. [qbzr]
-    qtag                 Edit tags. [qbzr]
 
 Os que eu mais uso no dia-a-dia são:
 

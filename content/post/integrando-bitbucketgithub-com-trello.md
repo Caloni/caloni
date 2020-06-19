@@ -18,32 +18,6 @@ Pelo menos a parte de geração de chave/segredo é simples. Depois disso, mesmo
 
 Por fim, para fazer o código que irá comentar dentro de um card no Trello, basta usar dois ou três métodos que lidam com enviar coisas pela web (não me pergunte mais que isso):
 
-    <?php
-    
-    $url = 'https://trello.com/1/cards/ID_DO_CARD/actions/comments';
-    
-    $msg = 'Hello, World!';
-    
-    $data = array(
-            'key' => 'AQUI_VAI_SUA_CHAVE', 
-            'token' => 'AQUI_VAI_SEU_TOKEN_DE_ACESSO',
-            'text' => $msg
-            );
-    
-    $options = array(
-            'http' => array(
-                'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
-                'method'  => 'POST',
-                'content' => http_build_query($data),
-                ),
-            );
-    
-    $context  = stream_context_create($options);
-    
-    $result = file_get_contents($url, false, $context);
-    
-    ?>
-    
 
 As informações AQUIVAISUACHAVE e AQUIVAISEUTOKENDEACESSO você já obteve no linque de geração de key/secret. Já o IDDOCARD é algo que depende de em qual lista seu card está, mas felizmente também existe um shortlink único e imutável para cada card no sistema:
 
@@ -57,39 +31,6 @@ Lembre-se de colocar seu código PHP em um servidor visível na web. Lembre-se t
 
 Pois bem. No código que irá receber o payload do GitHub precisamos de duas coisas: saber qual a estrutura que vai ser recebida e como localizar o id do card onde iremos enviar a informação. Nesse caso, mais uma vez, para simplificar, vamos procurar pelo próprio linque permanente do cartão na mensagem do commit. Aliás, doS commitS (sendo um push, é provável que o evento seja gerado com diversos commits aninhados).
 
-    <?php
-    
-    $pushData = json_decode($_POST['payload']);
-    
-    foreach( $pushData->commits as $c )
-    {
-        $msg = $c->message;
-        $pattern = '#http[s]*://trello.com/c/([A-Za-z0-9]+)#';
-        if( preg_match($pattern, $msg, $matches) == 0 )
-            continue;
-    
-        $url = 'https://trello.com/1/cards/' . $matches[1] . '/actions/comments';
-        $msg = $c->message . ' Commit: ' . $c->url;
-        $data = array(
-                'key' => 'AQUI_VAI_SUA_CHAVE', 
-                'token' => 'AQUI_VAI_SEU_TOKEN_DE_ACESSO',
-                'text' => $msg
-                );
-    
-        $options = array(
-                'http' => array(
-                    'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
-                    'method'  => 'POST',
-                    'content' => http_build_query($data),
-                    ),
-                );
-    
-        $context  = stream_context_create($options);
-    
-        $result = file_get_contents($url, false, $context);
-    }
-    ?>
-    
 
 Agora é só testar. Posso pegar esse mesmo artigo e comitá-lo no repositório do blogue usando o linque único do card da tarefa de escrever este artigo. Ou seja, aqui é Inception na veia, mermão!
 
@@ -99,37 +40,4 @@ E o negócio é rápido, viu?
 
 A única coisa que muda no caso do BitBucket é a tela onde deve ser inserido seu webhook (método POST, sempre) e a estrutura JSon que é enviada. De lambuja, eis o que deve ser feito com esse payload:
 
-    <?php
-    
-    $bitData = json_decode($_POST["payload"]);
-    
-    foreach( $bitData->commits as $c )
-    {
-        $msg = $c->message;
-        $pattern = '#http[s]*://trello.com/c/([A-Za-z0-9]+)#';
-        if( preg_match($pattern, $msg, $matches) == 0 )
-            continue;
-    
-        $url = 'https://trello.com/1/cards/' . $matches[1] . '/actions/comments';
-        $msg = $c->message . ' Commit: ' . $bitData->canon_url . $bitData->repository->absolute_url . 'commits/' . $c->raw_node;
-        $data = array(
-                'key' => 'AQUI_VAI_SUA_CHAVE', 
-                'token' => 'AQUI_VAI_SEU_TOKEN_DE_ACESSO',
-                'text' => $msg
-                );
-    
-        $options = array(
-                'http' => array(
-                    'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
-                    'method'  => 'POST',
-                    'content' => http_build_query($data),
-                    ),
-                );
-    
-        $context  = stream_context_create($options);
-    
-        $result = file_get_contents($url, false, $context);
-    }
-    ?>
-    
 

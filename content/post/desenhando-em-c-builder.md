@@ -10,44 +10,11 @@ Vamos fazer da área da janela principal uma tela onde possamos desenhar. Para i
 
 Saber o estado dos botões é trivial, podemos capturar isso nos eventos OnMouseDown e OnMouseUp e guardar em alguma variável.
 
-    //...
-    private:
-    	bool mouseDown; // essa variável guarda o estado do mouse...
-    //...
-    
-    __fastcall TForm1::TForm1(TComponent* Owner)
-    	: TForm(Owner)
-    {
-    	mouseDown = false; // ... e é importante iniciá-la
-    }
-    
-    void __fastcall TForm1::FormMouseUp(TObject *Sender, TMouseButton Button,
-    	TShiftState Shift, int X, int Y)
-    {
-    	mouseDown = false;
-    }
-    
-    void __fastcall TForm1::FormMouseDown(TObject *Sender, TMouseButton Button,
-    	TShiftState Shift, int X, int Y)
-    {
-    	Canvas->PenPos = TPoint(X, Y); // mais tarde veremos o porquê disso
-    	mouseDown = true;
-    } 
-    
 
 Saber quando o mouse está sendo arrastado também é um passo trivial, uma vez que temos esse evento (OnMove) para tratar no controle da janela.
 
 Para desenhar, todo formulário e mais alguns controles gráficos possuem um objeto chamado Canvas, do tipo TCanvas (duh). Essa classe representa uma superfície de desenho que você pode acessar a partir de seus métodos. Isso é a abstração do conhecido device context da GDI, tornando a programação mais fácil. O desenho de uma linha, por exemplo, é feito literalmente em uma linha de código.
 
-    void __fastcall TForm1::FormMouseMove(TObject *Sender, TShiftState Shift,
-    	int X, int Y)
-    {
-    	if( mouseDown )
-    	{
-    		Canvas->LineTo(X, Y);
-    	}
-    } 
-    
 
 O método LineTo() desenha uma linha do ponto onde está atualmente a caneta de desenho até a coordenada especificada. Esse é o motivo pelo qual no evento OnMouseDown alteramos a propriedade PenPos do Canvas para o ponto onde o usuário pressiona o botão do mouse.
 
@@ -57,21 +24,4 @@ Um dos problemas nele reflete o comportamento de gráficos em janelas no Windows
 
 Se precisamos repintar, logo precisamos saber tudo o que o usuário fez até então. Uma das técnicas mais baratas no quesito memória para salvar o estado gráfico de uma janela é guardar um histórico das operações realizadas sobre sua superfície e executá-las novamente ao repintar a janela. A GDI é rápida o bastante para que o custo de processamento não seja sentido na maioria dos casos. Para o nosso Paint, apenas um array de coordenadas origem-destino já dá conta do recado:
 
-    //...
-    private:
-    	bool mouseDown; // essa variavel guarda o estado do mouse
-    	std::vector<TRect> mouseHistory; // um TRect guarda duas posicoes XY
-    //...
-    
-    // ...
-    {
-    	if( mouseDown )
-    	{
-    		// guardando a pincelada para reproduzi-la depois
-    		mouseHistory.push_back( TRect(Canvas->PenPos, TPoint(X, Y)) );
-    		Canvas->LineTo(X, Y);
-    	}
-    }
-    //... 
-    
 

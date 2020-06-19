@@ -10,104 +10,24 @@ O objetivo dessa proteção é detectar se, após o executável ter sido iniciad
 
 O código que eu encontrei nada mais faz do que se aproveitar de uma peculiaridade do processo de attach: ao disparar o evento, a função ntdll!DbgUiRemoteBreakin é chamada. Ora, se é chamada, é lá que devemos estar, certo? E isso, como vemos abaixo, é relativamente fácil:
 
-    #include <windows.h>
-    #include <iostream>
-    #include <assert.h>
-    
-    using namespace std;
-    
-    /** This function is triggered when a debugger try to attach into our process.
-    */
-    void AntiAttachAbort()
-    {
-    	// this is a test application, remember?
-    	MessageBox(NULL, "Espertinho, hein?", "AntiAttachDetector", MB_OK | MB_ICONERROR);
-    
-    	// this is the end
-    	TerminateProcess(GetCurrentProcess(), -1);
-    }
-    
-    /** This function installs  a trigger that is activated when a debugger try to attach.
-    @see AntiAttachAbort.
-    */
-    void InstallAntiAttach()
-    {
-    	PVOID attachBreak = GetProcAddress(
-    		GetModuleHandle("ntdll"), // this dll is ALWAYS loaded
-    		"DbgUiRemoteBreakin"); // this function is ALWAYS called on the attach event
-    
-    	assert(attachBreak); // attachBreak NEVER can be null
-    
-    	// opcodes to run a jump to the function AntiAttachAbort
-    	BYTE jmpToAntiAttachAbort[] =
-    	{ 0xB8, 0xCC, 0xCC, 0xCC, 0xCC,   // mov eax, 0xCCCCCCCC
-    	0xFF, 0xE0 };                     // jmp eax
-    
-    	// we change 0xCCCCCCCC using a more useful address
-    	*reinterpret_cast<PVOID*>(&jmpToAntiAttachAbort[1]) = AntiAttachAbort;
-    
-    	DWORD oldProtect = 0;
-    
-    	if( VirtualProtect(attachBreak, sizeof(jmpToAntiAttachAbort), 
-    		PAGE_EXECUTE_READWRITE, &oldProtect) )
-    	{
-    		// if we can change the code page protection we put a jump to our code
-    		CopyMemory(attachBreak, 
-    			jmpToAntiAttachAbort, sizeof(jmpToAntiAttachAbort));
-    
-    		// restore old protection
-    		VirtualProtect(attachBreak, sizeof(jmpToAntiAttachAbort), 
-    			oldProtect, &oldProtect);
-    	}
-    }
-    
-    /** In the beginning, God said: 'int main!'
-    */
-    int main()
-    {
-    	InstallAntiAttach();
-    	cout << "Try to attach, if you can...";
-    	cin.get();
-    } 
-    
 
 Para compilar o código acima, basta chamar o compilador seguido do ligador. Obs.: precisamos da user32.lib para chamar a função API MessageBox:
 
-    
-    cl /c antiattach.cpp
-    link antiattach.obj user32.lib
 
-    
-    antiattach.exe
-    Try to attach, if you can...
 
 Após o programa ter sido executado, qualquer tentativa de attach irá exibir nossa mensagem de detecção, seguida pelo capotamento do programa.
 
-    
-    windbg -pn antiattach.exe
 
-    
-    <a href="/images/mdRqvjp.png" title="Detecção de attach"><img src="/images/mdRqvjp.png" alt="Detecção de attach"></img></a>
 
 Sim, eu sei. Às vezes temos que apelar pra "ignorância" e fazer códigos obscuros como esse:
 
-    // opcodes to run a jump to the function AntiAttachAbort
-    BYTE jmpToAntiAttachAbort[] =
-    { 0xB8, 0xCC, 0xCC, 0xCC, 0xCC,   // mov eax, 0xCCCCCCCC
-    0xFF, 0xE0 };                     // jmp eax
-    
-    // we change 0xCCCCCCCC using a more useful address
-    *reinterpret_cast<PVOID*>(&jmpToAntiAttachAbort[1]) = AntiAttachAbort; 
-    
 
 Existem inúmeras maneiras de fazer a mesma coisa. O exemplo acima é o que é chamado comumente nas rodinhas de crackers de shellcode, que é um nome bonitinho para "array de bytes que na verdade é um assembly de um código que faz coisas interessantes". Shellcode for short =).
 
 Maneiras alternativas de fazer isso são:
 
-    
   1. Declarar uma função _naked_ no Visual Studio, criar uma função vazia logo após e fazer continha de mais e menos para chegar ao tamanho que deve ser copiado.
 
-    
   2. Criar uma estrutura cujos membros são _opcodes_ disfarçados. Dessa forma é possível no construtor dessa estrutura preencher os valores corretamente e usá-la como uma "função móvel".
 
 Ambas possuem prós e contras. Os contras estão relacionados com a dependência do ambiente. Na primeira alternativa é necessário configurar o projeto para desabilitar o "Edit and Continue", enquanto no segundo é necessário alinhar a estrutura em 1 byte.

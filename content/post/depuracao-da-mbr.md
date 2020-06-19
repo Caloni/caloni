@@ -28,24 +28,9 @@ Para fazer isso, algumas informações são necessárias, e tudo está disponív
 
 Como queremos ler um setor do disco, a função da interrupção que devemos chamar é a AH=02:
 
-    
-    AH = 02h
-    AL = number of sectors to read (must be nonzero)
-    CH = low eight bits of cylinder number
-    CL = sector number 1-63 (bits 0-5)
-    high two bits of cylinder (bits 6-7, hard disk only)
-    DH = head number
-    DL = drive number (bit 7 set for hard disk)
-    ES:BX -> data buffer
 
 Muito bem. Tudo que temos a fazer é preencher os registradores com os valores corretos:
 
-    
-    rax 0201 ; função e número de setores (1)
-    rcx 0001 ; número do cilindro e do setor (cilindro = 0, setor = 1)
-    rdx 0080 ; número da cabeça (0) e do drive (HD = 0, o bit 7 deve estar levantado)
-    res 0000 ; segmento em que é executada a MBR
-    rbx 7e00 ; offset em que é executada a MBR
 
 Essa é a maneira em que as coisas são. Você certamente poderia usar outro endereço, mas estamos tentando deixar a emulação de um boot o mais próximo possível  de um boot de verdade. E, tradicionalmente, o endereço de execução da MBR é em 0000:7E00. Para recordar disso, basta lembrar que o tamanho de um setor é de 0x200 bytes, e que dessa forma a MBR vai parar bem no final do endereçamento baixo (apenas offset).
 
@@ -55,7 +40,3 @@ Após definir corretamente os registradores, tudo que temos que fazer é escreve
 
 Além da MBR, muitas vezes é preciso depurar a própria BIOS para descobrir o que está acontecendo. Nesse caso, tudo que precisamos fazer é colocar o ponteiro de próxima instrução para a região de memória 0xFFFF0, que traduzido para segmento/offset fica f000:fff0 (mais explicações sobre isso talvez em um futuro artigo).
 
-    
-    -rcs f000
-    -rip fff0
-    -t

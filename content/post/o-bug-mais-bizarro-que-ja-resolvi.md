@@ -32,40 +32,6 @@ Pois bem: bora aprender como funciona esse algoritmo passo a passo, pois o códi
 
 Mas, enfim, não conseguirei descrever melhor o cenário em que eu estava naquela semana. Tudo que me lembro é que de fato foi uma semana de 40 ou mais horas. E tornando agora esta história que já está longa em algo mais curto, segue o commit que corrigiu essa bagaça:
 
-    commit 56f510... (tag: 1.49)
-    Author: root <root@desenv05x>
-    Date: Mon Apr 21 03:26:50 2008 -0300
-    
-    Corrigido bug na encriptacao por 
-        Blowfish em assembly.
-    
-    O problema ocorria por causa da 
-    inversao desnecessaria do iv, e 
-    existia apenas na funcao de 
-    encriptacao (escritas no disco), 
-    funcionando normalmente, portanto, 
-    na desencriptacao (leituras 
-    no disco).
-    
-    Esse bug provavelmente afetava 
-    somente boots de sistemas que 
-    tentavam escrever no disco 
-    antes de entrar o driver.
-    
-    -  xor     4[si], eax
-    +  xor     [si] eax
-       add     bx, #4
-       seg     es
-       mov   eax, [bx]
-    -  xor     [si], eax
-    +  xor     4[si], eax
-    ...
-    -  xchg    eax, 4[si]
-    -  bswap   eax
-       mov     [si], eax
-    +  mov     eax, 4[si]
-    +  bswap   eax
-    +  mov     4[si], eax
 
 O IV, ou Initialization Vector, é um array de bytes usado em algoritmos criptográficos para diminuir a previsibilidade da série de bytes resultantes do algoritmo. Sem o IV pode-se usar força bruta com várias chaves até encontrar a certa. Com o IV, que é alterado de maneira previsível, mas difícil de rastrear, a mesma chave gera séries de bytes completamente diferentes, impedindo esse tipo de ataque.
 

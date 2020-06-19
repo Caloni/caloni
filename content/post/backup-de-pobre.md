@@ -29,8 +29,6 @@ Aos mocinho e mocinhas presentes: os arquivos de batch, de extensão .bat ou .cm
 
 O uso do programa pode ser aprendido dando-se uma olhada em sua ajuda (xcopy /?)
 
-    
-    xcopy origem [destino] [opções]
 
 Algumas opções bem úteis para efetuar cópias de segurança de arquivos modificados:
 
@@ -54,26 +52,9 @@ Para a cópia do patrimônio mais valioso de um programador, os fontes, podemos 
 
 O resultado é o que vemos abaixo:
 
-    
-    xcopy <pasta-origem> <pasta-destino> /M /E /C /Y /Z /EXCLUDE:sources.flt
 
 O conteúdo de sources.flt (extensão escolhida arbitrariamente) pode ser o seguinte:
 
-    
-    .obj
-    .res
-    .pch
-    .pdb
-    .tlb
-    .idb
-    .ilk
-    .opt
-    .ncb
-    .sbr
-    .sup
-    .bsc
-    \Debug\
-    \Release\
 
 Só isso já basta para um backup simples, pequeno e fácil de executar. Só precisamos copiar a chamada ao xcopy em um arquivo de extensão .bat ou .cmd e executarmos sempre que acharmos interessante termos um backup quentinho em folha. Por exemplo, podemos manter os fontes do projeto atual em um pen drive e, ao acessarmos uma máquina confiável, rodar um backup que copia os arquvos-fonte para um ambiente mais seguro e estável.
 

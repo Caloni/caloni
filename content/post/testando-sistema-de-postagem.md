@@ -25,32 +25,9 @@ De qualquer forma, posso continuar utilizando o título do artigo como base para
 
 Postar no Twitter é algo relativamente fácil. O script abaixo faz isso com dois pés no joelho:
 
-    def PublishToTwitter(postInfo):
-        """
-        https://pypi.python.org/pypi/twitter
-        """
-        t = twitter.Twitter(auth=twitter_credentials.auth)
-        
-        with open("C:\\daytoday\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
-        	imagedata = imagefile.read()
-        t_up = twitter.Twitter(domain='upload.twitter.com', auth=twitter_credentials.auth)
-        id_img1 = t_up.media.upload(media=imagedata)["media_id_string"]
-        st = postInfo['title'] + '\n\n' + postInfo['tagline'] + '\n\n' + postInfo['shortlink'].encode('utf-8')
-        if len(st) > 120: # giving space to image attachment
-            st = stars + ' ' + postInfo['title'] + '\n\n' + '\n\n' + postInfo['shortlink'].encode('utf-8')
-        t.statuses.update(status=st, media_ids=",".join([id_img1]))
 
 Já postar no Facebook é mais ou menos uma tortura. As chaves de acesso costumam expirar, e para conseguir uma que não expira este tutorial é femonenal, pois economiza muito, muito tempo de pesquisa.
 
 Curiosamente, o código para postar é muito semelhante ao do Twitter, até mais simples, talvez:
 
-    def PublishToFacebook(postInfo):
-        """
-        http://nodotcom.org/python-facebook-tutorial.html
-        """
-        with open("C:\\daytoday\\caloni.github.io\\images\\" + postInfo["permalink"] + ".jpg", "rb") as imagefile:
-        	imagedata = imagefile.read()
-    
-        st = postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + baseUrl + postInfo['permalink']
-        post = facebook_credentials.auth.put_photo(image=imagedata, message=st)
 

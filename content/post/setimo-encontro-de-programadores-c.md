@@ -10,10 +10,6 @@ Mas nem por isso deixei de terminar uma primeira versão do aplicativo que irei 
 
 Enquanto isso, continuo descobrindo maravilhas do WinDbg. Essa semana fiquei brincando de colocar breakpoint em user-mode, mas depurando o kernel, como fizeram os rapazes do Ntdebugging. A conclusão é que ele vale para todos os aplicativos abertos. Tente com o MessageBox!
 
-    
-    !process 0 0 notepad.exe
-    .reload /user
-    bp user32!MessageBoxW
 
 Mas devaneio. Talvez outra boa qualidade de um bom programador.
 

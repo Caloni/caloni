@@ -16,27 +16,14 @@ Existem alguns cenários muito comuns de depuração remota que serão abordados
 
 Nesse caso podemos supor que a máquina tem total acesso e controle do desenvolvedor. Tudo o que temos que fazer é iniciar um WinDbg na máquina-vítima e outro WinDbg na máquina-programador. O WinDbg da máquina-vítima deve ser iniciado no modo-servidor, enquanto o da máquina-programador no modo-cliente.
 
-    
-    windbg -server tcp:port=6666
-    windbg -remote tcp:server=maquina-vitima,port=6666
 
 A vantagem dessa técnica é que tanto o WinDbg da máquina-vítima quanto o da máquina-programador podem emitir comandos, e todos vêem os resultados. Uma possível desvantagem é que os símbolos devem estar disponíveis a partir da máquina-vítima.
 
 Se for necessário, é possível convidar mais gente pra festa, pois o WinDbg permite se transformar em uma instância servidora pelo comando .server, que possui a mesma sintaxe da linha de comando. Para a comunicação entre todos esses depuradores ambulantes um comando muito útil é o .echo.
 
-    
-    windbg -server tcp:port=6667 -remote tcp:server=maquina-vitima,port=6666
 
-    
-    windbg -remote tcp:server=maquina-vitima,port=6666
-    .server tcp:port=6667
 
-    
-    MAQUINA-PROGRAMADOR66\caloni (tcp 222.234.235.236:1974) connected at Mon Mar 24 11:47:55 2008
 
-    
-    .echo E ae, galera? Como que a gente vai consertar essa &%$*&?
-    .echo Putz, sei lá. Acho que vou tomar mais café...
 
 Nesse ambiente muito mais hostil, é salutar e recomendável utilizar um servidor genérico que não imprima coisa alguma na tela "do outro lado". Após iniciar o depurador na máquina que está dando o problema, o programador tem virtualmente uma série de comandos úteis que podem ser executados remotamente, como iniciar novos processos, se anexar a processos já existentes, copiar novas versões de executáveis, etc.
 
@@ -46,18 +33,12 @@ O nome do processo do lado servidor para modo usuário é dbgsrv.exe. Para o mod
 
 Para iniciar o servidor de depuração e deixar as portas abertas para o depurador temos apenas que iniciar o processo dbgsrv.exe:
 
-    
-    dbgsrv -t tcp:port=6666
 
 Para iniciar o processo depurador, a sintaxe é quase a mesma, só que no lugar de remote especificamos premote:
 
-    
-    windbg -premote tcp:server=maquina-vitima,port=6666
 
 Caso não se saiba a porta usada para iniciar o servidor, ou queira-se listar todos os servidores disponíveis em uma determinada máquina, usa-se o comando -QR.
 
-    
-    cdb -QR \\maquina-vitima
 
 
 

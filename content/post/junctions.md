@@ -12,8 +12,6 @@ Um junction é um link simbólico (symbolic link) de diretório. É praticamente
 
 Para criar um junction pode-se usar uma ferramenta disponível no Windows Resource Kit chamada linkd.exe. Porém, para evitar de ter que baixar todo o pacote para usar um único arquivo, existe uma outra ferramenta desenvolvida à parte por Russinovich chamada junction.exe. O comando para criar junctions é bem fácil e direto:
 
-    junction c:\library\mssdk "c:\program files\microsoft platform sdk"
-    junction c:\library\ddk c:\winddk
 
 E é isso aí. A partir de agora tanto as pastas originais quanto os junctions criados para elas respondem como se fossem a mesma coisa, porém com paths diferentes.
 
