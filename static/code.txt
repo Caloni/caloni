@@ -12638,40 +12638,6 @@ o-boot-no-windows-pre-ntldr.md:    0CDD:0265 07                POP     ES
 o-boot-no-windows-pre-ntldr.md:    0CDD:0266 1F                POP     DS
 o-boot-no-windows-pre-ntldr.md:    0CDD:0267 6661              POPAD
 o-boot-no-windows-pre-ntldr.md:    0CDD:0269 C3                RET
-o-bug-mais-bizarro-que-ja-resolvi.md:    commit 56f510... (tag: 1.49)
-o-bug-mais-bizarro-que-ja-resolvi.md:    Author: root <root@desenv05x>
-o-bug-mais-bizarro-que-ja-resolvi.md:    Date: Mon Apr 21 03:26:50 2008 -0300
-o-bug-mais-bizarro-que-ja-resolvi.md:    
-o-bug-mais-bizarro-que-ja-resolvi.md:    Corrigido bug na encriptacao por 
-o-bug-mais-bizarro-que-ja-resolvi.md:        Blowfish em assembly.
-o-bug-mais-bizarro-que-ja-resolvi.md:    
-o-bug-mais-bizarro-que-ja-resolvi.md:    O problema ocorria por causa da 
-o-bug-mais-bizarro-que-ja-resolvi.md:    inversao desnecessaria do iv, e 
-o-bug-mais-bizarro-que-ja-resolvi.md:    existia apenas na funcao de 
-o-bug-mais-bizarro-que-ja-resolvi.md:    encriptacao (escritas no disco), 
-o-bug-mais-bizarro-que-ja-resolvi.md:    funcionando normalmente, portanto, 
-o-bug-mais-bizarro-que-ja-resolvi.md:    na desencriptacao (leituras 
-o-bug-mais-bizarro-que-ja-resolvi.md:    no disco).
-o-bug-mais-bizarro-que-ja-resolvi.md:    
-o-bug-mais-bizarro-que-ja-resolvi.md:    Esse bug provavelmente afetava 
-o-bug-mais-bizarro-que-ja-resolvi.md:    somente boots de sistemas que 
-o-bug-mais-bizarro-que-ja-resolvi.md:    tentavam escrever no disco 
-o-bug-mais-bizarro-que-ja-resolvi.md:    antes de entrar o driver.
-o-bug-mais-bizarro-que-ja-resolvi.md:    
-o-bug-mais-bizarro-que-ja-resolvi.md:    -  xor     4[si], eax
-o-bug-mais-bizarro-que-ja-resolvi.md:    +  xor     [si] eax
-o-bug-mais-bizarro-que-ja-resolvi.md:       add     bx, #4
-o-bug-mais-bizarro-que-ja-resolvi.md:       seg     es
-o-bug-mais-bizarro-que-ja-resolvi.md:       mov   eax, [bx]
-o-bug-mais-bizarro-que-ja-resolvi.md:    -  xor     [si], eax
-o-bug-mais-bizarro-que-ja-resolvi.md:    +  xor     4[si], eax
-o-bug-mais-bizarro-que-ja-resolvi.md:    ...
-o-bug-mais-bizarro-que-ja-resolvi.md:    -  xchg    eax, 4[si]
-o-bug-mais-bizarro-que-ja-resolvi.md:    -  bswap   eax
-o-bug-mais-bizarro-que-ja-resolvi.md:       mov     [si], eax
-o-bug-mais-bizarro-que-ja-resolvi.md:    +  mov     eax, 4[si]
-o-bug-mais-bizarro-que-ja-resolvi.md:    +  bswap   eax
-o-bug-mais-bizarro-que-ja-resolvi.md:    +  mov     4[si], eax
 o-caso-da-funcao-de-delay-load-desaparecida.md:    
 o-caso-da-funcao-de-delay-load-desaparecida.md:    depends meu_executa<strike></strike>vel.exe
 o-caso-da-funcao-de-delay-load-desaparecida.md:    
