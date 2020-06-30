@@ -1,6 +1,7 @@
 ---
 categories: [ "code" ]
 date: "2020-04-05"
+link: "https://github.com/Caloni/golang_c"
 tags: [ "draft",  ]
 title: "Golang e C"
 ---
