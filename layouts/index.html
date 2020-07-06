@@ -14,7 +14,7 @@
     {{ partial "list_begin.html" . }}
     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.categories }}
         {{ range first 3 $taxonomy.Pages }} 
-            <tr><td style="border-bottom: 1px dotted black; padding: 10px;">
+            <tr><td>
             <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
             <b><a href="{{ .Permalink }}">{{ .Title }}</a></b>
             {{ if .Params.tags }}<i>{{ range .Params.categories }}<a style="color: gray;" href="/categories/{{ . | urlize }}">{{ printf "%s%s" " " . }}</a>{{ end }}</i>{{ end }}   
