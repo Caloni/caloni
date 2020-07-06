@@ -1,9 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: "2020-07-05"
-draft: true
 link: "https://www.imdb.com/title/tt0086567"
-tags: [ "movies" ]
+tags: [ "draft", "movies" ]
 title: "War Games"
 ---
 Jogos de Guerra se passa no auge dos anos 80. Matthew Broderick é um nerd/hacker vivendo sua adolescência em Seattle e buscando conciliar seus desejos por máquinas e uma garota fitness de sua sala. Ambos vivem uma aventura de tirar o fôlego e que se passa dentro de um enorme galpão cheio de luzes piscando e pessoas vestidas de militares. O fantasma da Guerra Fria está desaparecendo, mas fica uma reflexão pertinente quando computadores começam cada vez mais a fazer parte da família americana: qual a melhor estratégia para evitar uma nova guerra senão sequer começá-la?
