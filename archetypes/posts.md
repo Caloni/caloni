@@ -2,6 +2,6 @@
 categories: [ "blog" ]
 date: "{{ now.Format "2006-01-02" }}"
 link: ""
-tags: [ ]
+tags: [ "draft" ]
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 ---
