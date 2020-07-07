@@ -4,16 +4,17 @@ date: "2014-09-03"
 tags: [ "draft",  ]
 title: "Shareando Ponteiros"
 ---
-Apesar de já ter palestrado algumas vezes sobre Boost e STL, acho que eu nunca escrevi muito sobre esses assuntos no blogue. Acho que o tamanho dessas bibliotecas assusta um pouco. Mas temos que começar de algum lugar, certo? E já que é pra começar, eu gostaria muito de saber de você, programador miserável, que passou poucas e boas nesses 10 anos de padrão 98 brincando com templates quando eles ainda estavam em beta: se fosse para melhorar um aspecto da sua vida de código, qual seria? Qual é aquela coisa que te atormenta como insetos vidrados no seu monitor noite adentro?
+Apesar de ter palestrado algumas vezes sobre Boost e STL nunca escrevi muito sobre esses assuntos aqui. O tamanho dessas bibliotecas assusta um pouco. Mas temos que começar de algum lugar.
 
-Que tal alocação de memória e ponteiros? Vamos matar dois coelhos com um template só?
+E por isso eu gostaria de saber de você, programador miserável, que passou poucas e boas nesses dez anos de padrão 98 brincando com templates quando eles ainda estavam em beta: se fosse para melhorar um aspecto da sua vida de código C++, qual seria? Qual é aquela coisa que te atormenta como insetos vidrados no seu monitor noite adentro?
 
-"Ah, mas tem que usar alguma biblioteca bizarra com milhões de dependências e que vai quebrar todo o fonte aqui da empresa. Sem contar que vai ter que passar de novo pelos unit tests, vai dar erro de compilação, a LIB XPTO não funciona sem dar três pulinhos virado para a cafeteira e..."
+Se eu fosse você reponderia: alocação de memória e ponteiros. E portanto vamos matar dois coelhos com um template só usando smart pointers, que desalocam memória quando não precisamos mais dela e mantém os ponteiros gerenciados.
 
-Cada caso é um caso, existe o melhor dos mundos e o pior. Mas (quase) todos têm solução. Mesmo que tudo que você tenha disponível seja um bartante e um clipe, podemos tentar alguma mágica/gambiarra/adaptação técnica. Vamos ver os casos mais comuns:
+"Ah, mas tem que usar uma biblioteca bizarra com milhões de dependências e que vai quebrar todo o fonte aqui da empresa. Sem contar que vai ter que passar de novo pelos unit tests, vai dar erro de compilação, a LIB XPTO não funciona sem dar três pulinhos virado para a cafeteira e..."
+
+Cada caso é um caso, existe o melhor dos mundos e o pior. Mas (quase) todos têm solução. Mesmo que tudo que você tenha disponível seja um barbante e um clipe, podemos tentar alguma mágica/gambiarra/adaptação técnica. Vamos ver os casos mais comuns:
 
 Um cenário perfeito para começar. A única coisa que você precisa fazer em seus novos projetos e refatorações é incluir um único cabeçalho:
-
 
 E pronto! Se abriu um mundo mágico onde as alocações serão compartilhadas entre funções sem se perder quem deleta o quê. Não precisa nem checar se o ponteiro é nulo, basta alocar direto e jogar para dentro do nosso mais novo smart pointer da STL:
 
