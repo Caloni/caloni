@@ -10,7 +10,6 @@
     {{ partial "list_begin.html" . }}
     {{ range .Pages }}
         <tr><td><b><a href="{{ .Permalink }}">{{ .Title }}</a></b><small><i> 
-        {{ if .Params.tags }}<i>{{ range .Params.tags }}<a style="color: gray;" href="/tags/{{ . | urlize }}">{{ printf "%s%s" " " . }}</a>{{ end }}</i>{{ end }}   
         </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
