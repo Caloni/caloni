@@ -1,6 +1,7 @@
 ---
 categories: [ "code" ]
 date: "2009-06-18"
+link: "http://www.pbm.com/~lindahl/real.programmers.html"
 tags: [ "draft", "essays", "fun" ]
 title: "Programadores de verdade não usam Java"
 ---
