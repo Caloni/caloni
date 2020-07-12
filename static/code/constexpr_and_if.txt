@@ -1,0 +1,49 @@
+
+f<int>
+template<typename T>
+void f(const T& value)
+{
+00252510  push        ebp  
+00252511  mov         ebp,esp  
+00252513  sub         esp,0C0h  
+00252519  push        ebx  
+0025251A  push        esi  
+0025251B  push        edi  
+0025251C  lea         edi,[ebp-0C0h]  
+00252522  mov         ecx,30h  
+00252527  mov         eax,0CCCCCCCCh  
+0025252C  rep stos    dword ptr es:[edi]  
+    if constexpr(is_integral<T>())
+        cout << "Integer " << value << endl;
+0025252E  mov         esi,esp  
+00252530  push        offset std::endl<char,std::char_traits<char> > (0251096h)  
+00252535  mov         edi,esp  
+00252537  mov         eax,dword ptr [value]  
+0025253A  mov         ecx,dword ptr [eax]  
+0025253C  push        ecx  
+0025253D  push        offset string "Integer " (0259B34h)  
+
+f<char[2])
+template<typename T>
+void f(const T& value)
+{
+002523F0  push        ebp  
+002523F1  mov         ebp,esp  
+002523F3  sub         esp,0C0h  
+002523F9  push        ebx  
+002523FA  push        esi  
+002523FB  push        edi  
+002523FC  lea         edi,[ebp-0C0h]  
+00252402  mov         ecx,30h  
+00252407  mov         eax,0CCCCCCCCh  
+0025240C  rep stos    dword ptr es:[edi]  
+    if constexpr(is_integral<T>())
+        cout << "Integer " << value << endl;
+    else
+        cout << "Non Integer " << value << endl;
+0025240E  mov         esi,esp  
+00252410  push        offset std::endl<char,std::char_traits<char> > (0251096h)  
+00252415  mov         eax,dword ptr [value]  
+00252418  push        eax  
+00252419  push        offset string "Non Integer " (0259B40h)  
+

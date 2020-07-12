@@ -1,7 +1,7 @@
 ---
 categories: [ "code" ]
 date: "2020-06-18"
-link: "https://gist.github.com/Caloni/f5cd66ed725c4ffeea2dce71472528af"
+link: "/code/printf.c"
 tags: [ "ccpp" ]
 title: "Printf"
 ---

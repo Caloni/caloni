@@ -1,0 +1,27 @@
+commit 56f510... (tag: 1.49)
+Author: caloni <caloni@desenv06x>
+Date: Mon Apr 21 03:26:50 2008 -0300
+
+Corrigido bug na encriptacao por Blowfish em assembly.
+
+O problema ocorria por causa da inversao desnecessaria do iv, e existia 
+apenas na funcao de encriptacao (escritas no disco), funcionando 
+normalmente, portanto, na desencriptacao (leituras no disco).
+
+Esse bug provavelmente afetava somente boots de sistemas que tentavam 
+escrever no disco antes de entrar o driver.
+
+-  xor     4[si], eax
++  xor     [si] eax
+   add     bx, #4
+   seg     es
+   mov   eax, [bx]
+-  xor     [si], eax
++  xor     4[si], eax
+...
+-  xchg    eax, 4[si]
+-  bswap   eax
+   mov     [si], eax
++  mov     eax, 4[si]
++  bswap   eax
++  mov     4[si], eax

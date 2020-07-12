@@ -1,7 +1,7 @@
 ---
 categories: [ "code" ]
 date: "2019-08-08"
-link: "https://gist.github.com/Caloni/e37965e49b419245187b2f4ffa077fff"
+link: "/code/hacker-rank.cpp"
 tags: [ "draft", "ccpp", "puzzle", "english" ]
 title: "Some things I learned in a Hacker Rank exercise"
 ---

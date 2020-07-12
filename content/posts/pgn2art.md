@@ -1,7 +1,7 @@
 ---
 categories: [ "blog" ]
 date: "2020-06-27"
-link: "https://gist.github.com/Caloni/1ac52ab61cef7d290537080f7ba38d28"
+link: "/code/pgn2art.py"
 tags: [ "projects" ]
 title: "Pgn2art"
 ---

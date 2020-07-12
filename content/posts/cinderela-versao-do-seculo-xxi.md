@@ -1,7 +1,7 @@
 ---
 categories: [ "blog" ]
 date: "2020-06-21"
-link: "https://www.amazon.com/Cinderela-vers%C3%A3o-s%C3%A9culo-XXI-Portuguese-ebook/dp/B07GKQKPSD"
+link: "/text/cinderela-versao-do-seculo-xxi.txt"
 tags: [ "books" ]
 title: "Cinderela: Versão do Século XXI"
 ---

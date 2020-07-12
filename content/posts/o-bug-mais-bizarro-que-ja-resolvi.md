@@ -1,7 +1,7 @@
 ---
 categories: [ "code" ]
 date: "2020-05-10"
-link: "https://gist.github.com/Caloni/2e093cd93c4627601be65821d2372c17"
+link: "/code/o-bug-mais-bizarro-que-ja-resolvi.patch"
 tags: [ "draft", "debug" ]
 title: "O Bug Mais Bizarro Que Já Resolvi"
 ---
