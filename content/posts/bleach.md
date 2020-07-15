@@ -2,7 +2,7 @@
 categories: [ "cinema" ]
 date: "2020-07-11"
 link: "https://www.imdb.com/title/tt0434665"
-tags: [ "series", "anime" ]
+tags: [ "series", "animes" ]
 title: "Bleach"
 ---
 Apesar de ser de 2006 Bleach lembra animes dos anos noventa como Evangelion pela sua pegada intimista, mas que aos poucos revela ser desse século, mesmo, sobre as constantes divagações sobre nossa essência, em uma abordagem mais abstrata, embora não menos direta: há fantasmas bons e maus. Apresentada rapidamente, a trama é sobre esse jovem que consegue ver espíritos. A família cuida dos vivos em uma clínica e ele cuida dos mortos. É colocado em constante treinamento físico pelo seu pai que se preocupa em ensiná-lo a se defender e a suas irmãs, já que sua mãe se foi (pode haver algo aí na trama futura).
