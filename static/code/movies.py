@@ -30,7 +30,7 @@ def print_desc(imdb, args):
         if "year" in movie:
             countries = "(" + countries + ", " + str(movie["year"]) + ")"
 
-    desc = "desc: '" + originalTitle
+    desc = originalTitle
     if countries:
         desc += " " + countries
     if writing:
@@ -39,10 +39,8 @@ def print_desc(imdb, args):
         desc += ", dirigido por " + director
     if casting:
         desc += ", com " + casting
-    desc += ".'"
+    desc += "."
     print(desc)
-    print('imdb: "' + imdb + '"')
-    print('stars: "3/5"')
 
 
 def save_database(imdb, path):
