@@ -1,6 +1,6 @@
 <p class="subtitle">
 {{ if .Date.After (time "2001-01-01")}}
-    {{ if .File }}<a style="text-decoration: underline;" href="{{ .Site.Params.ContentGit }}/blob/master/content/posts/{{ .File.LogicalName }}" title="source">{{ end }}
+    {{ if .File }}<a style="" href="{{ .Site.Params.ContentGit }}/blob/master/content/posts/{{ .File.LogicalName }}" title="source">{{ end }}
     {{ .Date.Format "2006-01-02" }}
     {{ if .File }}</a>{{ end }}
 {{ end }}
