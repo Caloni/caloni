@@ -80,12 +80,9 @@ td {
     padding-top: 1em;
 }
 
-.content h1,
-.content h2,
-.content h3,
-.content h4,
-.content h5,
-.content h6
-{
-    font-size: large;
-}
+.content h1 { font-size: 1.5em; }
+.content h2 { font-size: 1.0em; }
+.content h3 { font-size: 1em; }
+.content h4 { font-size: 1em; }
+.content h5 { font-size: 1em; }
+.content h6 { font-size: 1em; }

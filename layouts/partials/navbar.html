@@ -1,5 +1,6 @@
 <nav class="navbar has-shadow is-white"
      role="navigation" aria-label="main navigation">
+
   <div class="container">
 
     <div class="navbar-brand">
@@ -15,17 +16,7 @@
         <div class="title is-6">&nbsp;{{ .Site.Params.Namespace }}::{{ lower .Title }}</div>
         {{- end }}
       </a>
-
-      <!-- Using a <label /> here -->
-      <label class="button navbar-burger is-white" for="navbar-burger-state">
-        <span></span>                               <!--^^^^^^^^^^^^^^^^^^^-->
-        <span></span>
-        <span></span>
-      </label>
     </div>
-
-    <!-- This checkbox is hidden -->
-    <input type="checkbox" id="navbar-burger-state"/>
 
     <div class="navbar-menu">
       <div class="navbar-end" style="padding: 10px;">
