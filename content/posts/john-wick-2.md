@@ -5,15 +5,15 @@ link: "https://www.imdb.com/title/tt4425200"
 tags: [ "draft" ]
 title: "John Wick 2: Um Novo Dia para Counter Strike"
 ---
-A trama funciona tão bem em apresentar um começo, meio e fim para esse herói atormentado, em um drama de uma nota só que se conecta de maneira perfeita a um filme de ação, pois o próprio gênero já trabalha com emoções minimalistas e brutais.
+A trama funciona tão bem em apresentar um começo, meio e fim para esse herói atormentado em um drama de uma nota só que se conecta de maneira perfeita a um filme de pancadaria, pois o próprio gênero de ação já trabalha com emoções minimalistas e brutais.
 
 Mad Max: Fury Road funciona horrores porque o único motivo de existência da história do filme é a fuga, e o único motivo de existência de John Wick (no original) é vingança de quem não tem mais nada a perder.
 
 Todos no filme falam o quão John Wick é uma lenda, e nós temos que acreditar neles porque não é olhando para Keanu Reeves que vamos comprar essa ideia. O ator faz o que tem de melhor, que é ser Keanu Reeves, e a equipe de lutadores, assim como em Matrix, o prepara para as cenas que todos estão esperando, com porrada, sangue e porrada em cima de sangue.
 
-Embora, na minha opinião, nesses filmes violentos e comerciais de Hollywood do novo século sempre falta sangue.
+Embora, na minha opinião, esses filmes violentos e comerciais de Hollywood do novo século estão sempre com falta de sangue.
 
-Os dois diretores que iniciaram essa franquia de sucesso vieram do mundo dos dublês e coreografia de cenas de ação. No primeiro filme aproveitam este roteiro minimalista para construir uma atmosfera do homem que é um mero fantasma do que um dia foi, e nossa imaginação preenche as lacunas.
+Os dois diretores que iniciaram essa franquia de sucesso, Chad Stahelski e David Leitch, vieram do mundo dos dublês e coreografias de cenas de ação. No primeiro filme aproveitam este roteiro mínimo para construir uma atmosfera do homem que é um fantasma do que um dia foi, e nossa imaginação preenche as lacunas.
 
 Agora, se você já jogou Counter Strike já assistiu a John Wick 2 algumas vezes. Matar de maneira bem explícita adversários anônimos com detalhes gráficos pode ter sua beleza estética para gamers, mas ainda há dúvidas se filmes de ação se sustentam apenas com violência coreografada.
 
