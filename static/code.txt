@@ -11864,48 +11864,6 @@ mbconf-at-home-2020-palestra-windbg.md:    ;project.def
 mbconf-at-home-2020-palestra-windbg.md:    EXPORTS
 mbconf-at-home-2020-palestra-windbg.md:    chama_eu
 mbconf-at-home-2020-palestra-windbg.md:    >rundll32.exe project.dll,chama_eu
-meu-novo-parseador-de-argc-argv.md:    /** Interpreta argumentos da linha de comando (versão raiz).
-meu-novo-parseador-de-argc-argv.md:    
-meu-novo-parseador-de-argc-argv.md:    @author Wanderley Caloni <wanderley.caloni@bitforge.com.br>
-meu-novo-parseador-de-argc-argv.md:    @date 2018-08
-meu-novo-parseador-de-argc-argv.md:    */
-meu-novo-parseador-de-argc-argv.md:    const char* GetArg(int argc, char* argv[], const char* arg)
-meu-novo-parseador-de-argc-argv.md:    {
-meu-novo-parseador-de-argc-argv.md:        for (int i = 1; i < argc; ++i)
-meu-novo-parseador-de-argc-argv.md:        {
-meu-novo-parseador-de-argc-argv.md:            if( strcmp(argv[i], arg) == 0 )
-meu-novo-parseador-de-argc-argv.md:            {
-meu-novo-parseador-de-argc-argv.md:                if( i < argc - 1 )
-meu-novo-parseador-de-argc-argv.md:                    return argv[i+1];
-meu-novo-parseador-de-argc-argv.md:                else
-meu-novo-parseador-de-argc-argv.md:                    return "";
-meu-novo-parseador-de-argc-argv.md:            }
-meu-novo-parseador-de-argc-argv.md:        }
-meu-novo-parseador-de-argc-argv.md:        return NULL;
-meu-novo-parseador-de-argc-argv.md:    }
-meu-novo-parseador-de-argc-argv.md:           ---      --- 
-meu-novo-parseador-de-argc-argv.md:    argv: | * |--> | * | "testbin"
-meu-novo-parseador-de-argc-argv.md:           ---      --- 
-meu-novo-parseador-de-argc-argv.md:                    --- 
-meu-novo-parseador-de-argc-argv.md:                   | * | "foo"
-meu-novo-parseador-de-argc-argv.md:                    --- 
-meu-novo-parseador-de-argc-argv.md:                    --- 
-meu-novo-parseador-de-argc-argv.md:                   | * | "100"
-meu-novo-parseador-de-argc-argv.md:                    --- 
-meu-novo-parseador-de-argc-argv.md:            --- 
-meu-novo-parseador-de-argc-argv.md:     argc: | 3 |
-meu-novo-parseador-de-argc-argv.md:            --- 
-meu-novo-parseador-de-argc-argv.md:    MeuPrograma.exe --debug --file c:\path\arquivo.ext --readonly 1
-meu-novo-parseador-de-argc-argv.md:    if ( GetArg(argc, argv, "--debug") )
-meu-novo-parseador-de-argc-argv.md:    {
-meu-novo-parseador-de-argc-argv.md:        printf("Waiting for debugger...\n");
-meu-novo-parseador-de-argc-argv.md:        while (!IsDebuggerPresent())
-meu-novo-parseador-de-argc-argv.md:            Sleep(1000);
-meu-novo-parseador-de-argc-argv.md:    }
-meu-novo-parseador-de-argc-argv.md:    if ( const char* configFile = GetArg(argc, argv, "--configfile") )
-meu-novo-parseador-de-argc-argv.md:    {
-meu-novo-parseador-de-argc-argv.md:        strcpy(g_configFile, configFile, _countof(g_configFile));
-meu-novo-parseador-de-argc-argv.md:    }
 meu-roteiro-c.md:    
 meu-roteiro-c.md:    
 meu-roteiro-c.md:    * A linguagem BCPL
