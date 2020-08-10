@@ -2,7 +2,7 @@
 categories: [ "blog" ]
 date: "2020-08-10"
 link: "https://www.imdb.com/title/tt3111426"
-tags: [ "draft" ]
+tags: [ "draft", "cinemaqui" ]
 title: "Lost Girls"
 ---
 Lost Girls não nos diz realmente nada sobre essas pessoas, exceto os estereótipos que irá tentar defender em um jogo de cartas marcadas que dizem o seguinte: ninguém liga para as prostitutas assassinadas e por isso as famílias das vítimas devem ser unir por justiça. Esse mantra se repete algumas várias vezes e chega um momento que você acha que deve estar acabando, mas o relógio indica que nem passou meia-hora. E lá vem de novo aquela trilha sonora difícil de engolir.
