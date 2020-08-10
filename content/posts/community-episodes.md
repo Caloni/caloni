@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "draft" ]
 date: "2020-08-10"
 link: "https://en.wikipedia.org/wiki/List_of_Community_episodes"
 tags: [ "draft" ]

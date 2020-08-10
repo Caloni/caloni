@@ -1,5 +1,5 @@
 ---
-categories: [ "blog" ]
+categories: [ "draft" ]
 date: "2020-08-10"
 link: "https://www.imdb.com/title/tt3111426"
 tags: [ "draft", "cinemaqui" ]
