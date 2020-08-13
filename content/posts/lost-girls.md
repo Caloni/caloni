@@ -5,13 +5,6 @@ link: "https://www.imdb.com/title/tt3111426"
 tags: [ "movies", "cinemaqui" ]
 title: "Lost Girls"
 ---
----
-categories: [ "cinema" ]
-date: "2020-08-10"
-link: "https://www.imdb.com/title/tt3111426"
-tags: [ "movies", "cinemaqui" ]
-title: "Lost Girls"
----
 Lost Girls não nos diz realmente nada sobre essas pessoas, exceto os estereótipos que irá tentar defender em um jogo de cartas marcadas que dizem o seguinte: ninguém liga para as prostitutas assassinadas e por isso as famílias das vítimas devem ser unir por justiça. Esse mantra se repete algumas várias vezes e chega um momento que você acha que deve estar acabando, mas o relógio indica que nem passou meia-hora. E lá vem de novo aquela trilha sonora difícil de engolir.
 
 Geralmente filmes sobre serial killers são muito bons. Eles focam no que chama nossa atenção, sobre a natureza humana e a crueldade. Há também os que são sobre a história da investigação, ou da "desinvestigação", quando o tema é a (frequente) incompetência policial. Thrillers e policiais sobre assassinos em série costumam pelo menos entreter. Até comédia, eventualmente. Porém, dramas puros costumam ser bem complicados. É comum encontrarmos personagens mal construídos, e o elenco sofre para torná-los multidimensionais, dizendo falas que nunca poderiam ser pronunciadas por um ser humano real. Há também muito exagero no tom, com trilha sonora melancólica e aquele céu cinzento de uma chuva que nunca passa. Desnecessário dizer, nem o cinza do céu nem a música triste costumam ter muita relação com a história. É material técnico para o gênero e produto da alienação de cineastas, mais preocupados em gerenciar um projeto do que fazer arte.
