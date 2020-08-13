@@ -13,6 +13,30 @@
 
   {{ hugo.Generator }}
 
+  <!-- OpenGraph data -->
+  <meta property="og:title" content="{{ .Title }}"/>
+  <meta property="og:type"
+        content="{{ if .IsPage }}article{{ else }}website{{ end }}"/>
+  <meta property="og:url" content="{{ .Permalink }}"/>
+  <meta property="og:image"
+        content="{{ with .Params.image }}{{ . -}}
+                 {{ else -}}
+                   {{ if (fileExists (print "/static" .Site.Data.defaults.icons.logo)) -}}
+                     {{ .Site.Data.defaults.icons.logo -}}
+                   {{ end -}}
+                 {{ end }}"/>
+  {{- if .IsPage }}
+  <meta property="og:description"
+        content="{{ with .Description }}{{ . -}}
+                 {{ else }}{{ .Content | safeHTML | truncate 200 "..." -}}
+                 {{ end }}"/>
+  {{- else }}
+  <meta property="og:description"
+        content="{{ with .Description }}{{ . -}}
+                 {{ else }}{{ .Params.description -}}
+                 {{ end }}"/>
+  {{- end }}
+
   <!-- RSS -->
   <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="feed" type="application/rss+xml"
         title="{{ .Site.Title }}"/>
