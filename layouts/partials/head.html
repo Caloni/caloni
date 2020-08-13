@@ -13,6 +13,18 @@
 
   {{ hugo.Generator }}
 
+  {{- if .IsPage }}
+  <meta name="description"
+        content="{{ with .Description }}{{ . -}}
+                 {{ else }}{{ .Content | safeHTML | truncate 200 "..." -}}
+                 {{ end }}"/>
+  {{- else }}
+  <meta name="description"
+        content="{{ with .Description }}{{ . -}}
+                 {{ else }}{{ .Params.description -}}
+                 {{ end }}"/>
+  {{- end }}
+
   <!-- OpenGraph data -->
   <meta property="og:title" content="{{ .Title }}"/>
   <meta property="og:type"
