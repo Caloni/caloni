@@ -1,7 +1,7 @@
 ---
 categories: [ "blog" ]
 date: "2020-08-04"
-link: "/code/getargs_array.c"
+link: "https://gist.github.com/Caloni/1e449591020d636b2cc41fb53245d783"
 tags: [ "ccpp", "work" ]
 title: "GetArgs v. Array"
 ---

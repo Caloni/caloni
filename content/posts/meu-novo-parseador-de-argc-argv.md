@@ -3,7 +3,7 @@ categories: [ "code" ]
 date: "2018-08-21"
 tags: [ "ccpp" ]
 title: "Meu Novo Parseador de Argc Argv"
-link: "/code/getargs.c"
+link: "https://gist.github.com/Caloni/5b9ccc66722a1b235f4aab8251822cdb"
 ---
 Eis que me deparo com um projeto onde não posso usar STL. Ou seja, nada de map nem string. Isso quer dizer que minha função bonita e completa de parseamento de argumentos argc/argv não pode ser usado. Essa é uma má notícia. A boa notícia é que achei uma forma muito mais simples e à prova de falhas de fazer isso. Ele basicamente percorre o array argv em busca do nome do parâmetro enviado para a função. Uma vez que ele encontre ele retorna o próximo elemento. Na falta de próximo elemento ele simplesmente retorna uma string vazia que não é nulo, mas já indica que há o parâmetro na lista de argumento.
 

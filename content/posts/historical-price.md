@@ -1,7 +1,7 @@
 ---
 categories: [ "code" ]
 date: "2020-06-13"
-link: "/code/historical-price.awk"
+link: "https://gist.github.com/Caloni/368a8ce88206c13aac6ca27a56975af2"
 tags: [ "work" ]
 title: "Historical Price"
 ---
