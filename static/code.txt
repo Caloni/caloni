@@ -1,15 +1,3 @@
-a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:    if (opos > 0) {
-a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:    
-a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:        if ((temp = (unsigned char *)realloc(orig, opos + 1)) == NULL) {
-a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:    
-a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:            bitree_destroy(tree);
-a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:            free(tree);
-a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:            free(original); /* original? */
-a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:            return -1;
-a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:        }
-a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:    
-a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:        orig = temp;
-a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:    }
 a-fila-das-threads.md:    #include <windows.h>
 a-fila-das-threads.md:    #include <stdio.h>
 a-fila-das-threads.md:    
