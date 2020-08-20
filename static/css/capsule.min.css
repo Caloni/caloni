@@ -213,7 +213,7 @@ body {
     font-weight: 400;
     line-height: 1.5;
 }
-code, pre, small {
+pre, small {
     font-size: .875em;
 }
 a {
@@ -222,12 +222,6 @@ a {
 }
 a:hover, table th {
     color: #363636;
-}
-code {
-    background-color: #f5f5f5;
-    color: #ff3860;
-    font-weight: 400;
-    padding: .25em .5em;
 }
 hr {
     background-color: #f5f5f5;
@@ -248,21 +242,8 @@ span {
 strong {
     color: #363636;
 }
-pre {
-    -webkit-overflow-scrolling: touch;
-    background-color: #f5f5f5;
-    overflow-x: auto;
-    padding: 1.25rem 1.5rem;
-    white-space: pre;
-    word-wrap: normal;
-}
 .is-clipped, .is-sr-only {
     overflow: hidden!important;
-}
-pre code {
-    background-color: transparent;
-    font-size: 1em;
-    padding: 0;
 }
 .columns.is-gapless>.column, .is-paddingless, .is-sr-only {
     padding: 0!important;
@@ -2071,13 +2052,6 @@ a.box:active {
 .content figure figcaption {
     font-style: italic;
 }
-.content pre {
-    -webkit-overflow-scrolling: touch;
-    overflow-x: auto;
-    padding: 1.25em 1.5em;
-    white-space: pre;
-    word-wrap: normal;
-}
 .content sub, .content sup {
     font-size: 75%}
 .content table {
@@ -3186,12 +3160,6 @@ a.box:active {
 .notification strong {
     color: currentColor;
 }
-.notification code, .notification pre {
-    background: #fff;
-}
-.notification pre code {
-    background: 0 0;
-}
 .notification>.delete {
     position: absolute;
     right: .5rem;
@@ -3819,12 +3787,6 @@ a.tag:hover {
     border-width: 0 0 0 4px;
     color: #4a4a4a;
     padding: 1.25em 1.5em;
-}
-.message-body code, .message-body pre {
-    background-color: #fff;
-}
-.message-body pre code {
-    background-color: transparent;
 }
 .navbar {
     background-color: #fff;
