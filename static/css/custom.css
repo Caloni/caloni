@@ -2,6 +2,13 @@
     color: firebrick;
 }
 
+.external {
+    background-image: url(/img/external-link-ltr-icon-red.svg);
+    background-position: center right;
+    background-repeat: no-repeat;
+    padding-right: 13px;
+}
+
 .tag:not(body).is-link {
     background-color: firebrick;
     color:#fff
