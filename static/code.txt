@@ -4,69 +4,6 @@
 11-encontro-ccpp-brasil-cfp.md:    {
 11-encontro-ccpp-brasil-cfp.md:        std::cout << "Hello, C/C++ Brasil!\n";
 11-encontro-ccpp-brasil-cfp.md:    }
-2048-motivos-para-nao-programar.md:    
-2048-motivos-para-nao-programar.md:    Move #69, current score=584
-2048-motivos-para-nao-programar.md:     1356
-2048-motivos-para-nao-programar.md:     0051
-2048-motivos-para-nao-programar.md:     0012
-2048-motivos-para-nao-programar.md:     0000
-2048-motivos-para-nao-programar.md:    from PIL import Image
-2048-motivos-para-nao-programar.md:    from PIL import ImageFont
-2048-motivos-para-nao-programar.md:    from PIL import ImageDraw
-2048-motivos-para-nao-programar.md:    from itertools import islice
-2048-motivos-para-nao-programar.md:    
-2048-motivos-para-nao-programar.md:    TilePositions = [
-2048-motivos-para-nao-programar.md:            [32, 216], [153, 216], [274, 216], [395, 216],
-2048-motivos-para-nao-programar.md:            [32, 339], [153, 339], [274, 339], [395, 339],
-2048-motivos-para-nao-programar.md:            [32, 461], [153, 461], [274, 461], [395, 461],
-2048-motivos-para-nao-programar.md:            [32, 584], [153, 584], [274, 584], [395, 584]
-2048-motivos-para-nao-programar.md:    	]
-2048-motivos-para-nao-programar.md:    TileSize = 106
-2048-motivos-para-nao-programar.md:    
-2048-motivos-para-nao-programar.md:    def LoadTemplate():
-2048-motivos-para-nao-programar.md:    	img = Image.open('2048.png')
-2048-motivos-para-nao-programar.md:    	draw= ImageDraw.Draw(img)
-2048-motivos-para-nao-programar.md:    	return img, draw
-2048-motivos-para-nao-programar.md:    
-2048-motivos-para-nao-programar.md:    def DrawBoard(board):
-2048-motivos-para-nao-programar.md:    	img, draw = LoadTemplate()
-2048-motivos-para-nao-programar.md:    	bigFont = ImageFont.truetype('DejaVuSans-Bold.ttf', 48)
-2048-motivos-para-nao-programar.md:    	smallFont = ImageFont.truetype('DejaVuSans-Bold.ttf', 24)
-2048-motivos-para-nao-programar.md:    	dbgFont = ImageFont.truetype('DejaVuSans-Bold.ttf', 8)
-2048-motivos-para-nao-programar.md:    	for r in range(len(board)):
-2048-motivos-para-nao-programar.md:    		for c in range(len(board[r])):
-2048-motivos-para-nao-programar.md:    			number = 2 ** board[r][c]
-2048-motivos-para-nao-programar.md:    			if number > 1:
-2048-motivos-para-nao-programar.md:    				tileX, tileY = TilePositions[r*4 +c][0], TilePositions[r*4 +c][1]
-2048-motivos-para-nao-programar.md:    				font = smallFont if number > 64 else bigFont
-2048-motivos-para-nao-programar.md:    				text = str(number)
-2048-motivos-para-nao-programar.md:    				textW, textH = draw.textsize(text, font=font)
-2048-motivos-para-nao-programar.md:    				x, y = tileX + (TileSize - textW) / 2, tileY + (TileSize - textH) /2
-2048-motivos-para-nao-programar.md:    				dbgText = str(tileX) + ' + (' + str(TileSize) + ' - ' + str(textW) + ') / 2'
-2048-motivos-para-nao-programar.md:                                    draw.text((x, y), text, (0,0,0), font=font)
-2048-motivos-para-nao-programar.md:    	return img
-2048-motivos-para-nao-programar.md:    
-2048-motivos-para-nao-programar.md:    def ReadNextBoard(f):
-2048-motivos-para-nao-programar.md:    	lines = [lines for lines in islice(f, 4)]
-2048-motivos-para-nao-programar.md:    	if (len(lines)) == 4:
-2048-motivos-para-nao-programar.md:    		board = [
-2048-motivos-para-nao-programar.md:    			[ int(lines[0][0], 16), int(lines[0][1], 16), int(lines[0][2], 16), int(lines[0][3], 16) ],
-2048-motivos-para-nao-programar.md:    			[ int(lines[1][0], 16), int(lines[1][1], 16), int(lines[1][2], 16), int(lines[1][3], 16) ],
-2048-motivos-para-nao-programar.md:    			[ int(lines[2][0], 16), int(lines[2][1], 16), int(lines[2][2], 16), int(lines[2][3], 16) ],
-2048-motivos-para-nao-programar.md:    			[ int(lines[3][0], 16), int(lines[3][1], 16), int(lines[3][2], 16), int(lines[3][3], 16) ]
-2048-motivos-para-nao-programar.md:    			]
-2048-motivos-para-nao-programar.md:    		return board
-2048-motivos-para-nao-programar.md:    	return None
-2048-motivos-para-nao-programar.md:    
-2048-motivos-para-nao-programar.md:    def ProcessGame(filePath):
-2048-motivos-para-nao-programar.md:        f = open(filePath)
-2048-motivos-para-nao-programar.md:        board = ReadNextBoard(f)
-2048-motivos-para-nao-programar.md:        boardNumber = 1
-2048-motivos-para-nao-programar.md:        while board:
-2048-motivos-para-nao-programar.md:                DrawBoard(board).save('2048-' + str(boardNumber) + '.png')
-2048-motivos-para-nao-programar.md:                board = ReadNextBoard(f)
-2048-motivos-para-nao-programar.md:                boardNumber = boardNumber + 1
-2048-motivos-para-nao-programar.md:    
 a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:    if (opos > 0) {
 a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:    
 a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:        if ((temp = (unsigned char *)realloc(orig, opos + 1)) == NULL) {
