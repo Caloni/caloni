@@ -1,9 +1,3 @@
-11-encontro-ccpp-brasil-cfp.md:    #include <ccpp-people.h>
-11-encontro-ccpp-brasil-cfp.md:    
-11-encontro-ccpp-brasil-cfp.md:    int main()
-11-encontro-ccpp-brasil-cfp.md:    {
-11-encontro-ccpp-brasil-cfp.md:        std::cout << "Hello, C/C++ Brasil!\n";
-11-encontro-ccpp-brasil-cfp.md:    }
 a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:    if (opos > 0) {
 a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:    
 a-alca-dentro-do-fio-gerou-um-bloqueio-da-morte.md:        if ((temp = (unsigned char *)realloc(orig, opos + 1)) == NULL) {
