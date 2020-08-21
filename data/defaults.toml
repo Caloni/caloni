@@ -1,5 +1,5 @@
 [icons]
-  banner = "/banner.svg"
-  brand = "/brand.svg"
-  favicon = "/favicon.ico"
-  logo = "/author.jpg"
+  banner = "/img/banner.svg"
+  brand = "/img/brand.svg"
+  favicon = "/img/favicon.ico"
+  logo = "/img/author.jpg"

@@ -13,13 +13,13 @@
         </dc-metadata>
     </metadata>
     <manifest>
-        <item id="content" media-type="text/x-oeb1-document" href="book.html"></item>
+        <item id="content" media-type="text/x-oeb1-document" href="index.html"></item>
     </manifest>
     <spine toc="toc">
         <itemref idref="content"/>
     </spine>
     <guide>
-        <reference href="book.html#text" type ="text" title ="int main"/>
-        <reference href="book.html#toc" type ="toc" title ="#include <map>"/>
+        <reference href="index.html#text" type ="text" title ="int main"/>
+        <reference href="index.html#toc" type ="toc" title ="#include <map>"/>
     </guide>
 </package>
