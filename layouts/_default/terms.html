@@ -7,16 +7,19 @@
 
     {{ partial "navbar.html" . }}
     {{ partial "section_begin.html" . }}
+    {{ partial "categories.html" . }}
     {{ partial "list_begin.html" . }}
 
     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-      {{ range $key, $value := $taxonomy }}
-        <tr><td style="border-bottom: 1px dotted black; padding: 10px;">
-        {{ range first 1 $value.Pages }} 
-        <b><a href="/{{ $taxonomyname }}/{{ $key | urlize }}">{{ $key }}<span style="font-size: 0.6em;"> ({{ $value.Count }})</span></a></b>
-        <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
-        <b><a style="color: gray;" href="{{ .Permalink }}">{{ .Title }}</a></b>{{ end }}
-        </td></tr>
+      {{ if eq $taxonomyname "tags" }}
+        {{ range $key, $value := $taxonomy }}
+          <tr><td style="border-bottom: 1px dotted black; padding: 10px;">
+          {{ range first 1 $value.Pages }} 
+          <b><a href="/{{ $taxonomyname }}/{{ $key | urlize }}">{{ $key }}<span style="font-size: 0.6em;"> ({{ $value.Count }})</span></a></b>
+          <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
+          <b><a style="color: gray;" href="{{ .Permalink }}">{{ .Title }}</a></b>{{ end }}
+          </td></tr>
+        {{ end }}
       {{ end }}
     {{ end }}
 
