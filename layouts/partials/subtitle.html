@@ -3,7 +3,18 @@
   {{ if in .Params.tags "draft" }}
     Este é um rascunho e está sujeito a mudanças.
   {{ else }}
-    {{ $.Site.Params.author }}, {{ .Date.Format "2006-01-02" }}
+    {{ $.Site.Params.author }},
+    {{ range $.Site.Params.external }}
+      {{ if in $.Params.tags .tag }}
+        {{ if .searchLink }}
+          escrito para <a href="{{ .searchLink }}{{ $.Params.title }}">{{ .name }}</a>,
+        {{ end }}
+        {{ if .link }}
+          escrito para <a href="{{ .link }}">{{ .name }}</a>,
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ .Date.Format "2006-01-02" }}
   {{ end }}
 {{ end }}
 </p>

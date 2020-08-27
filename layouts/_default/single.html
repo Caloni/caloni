@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
 
+  {{ $summary := false }}
+  {{ range .Site.Params.external }}
+      {{ if in $.Params.tags .tag }}
+        {{ $summary = .summaryOnly }}
+      {{ end }}
+  {{ end }}
+
   {{ partial "head.html" . }}
 
   <body style="min-height:100vh;display:flex;flex-direction:column">
@@ -14,9 +21,9 @@
         {{ partial "toc.html" . }}
         
           <div class="content">
-            {{ if in .Params.tags "cinemaqui" }}
-              <p>{{ .Summary }}</p>
-              <p>A crítica completa foi escrita para o site <b>CinemAqui</b>. Você deve encontrá-la <a href="http://www.cinemaqui.com.br/?s={{ .Params.title }}">pesquisando por lá</a>.</p>
+
+            {{ if $summary }}
+              {{ .Summary }}
             {{ else }}
               {{ .Content }}
             {{ end }}

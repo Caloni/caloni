@@ -12,7 +12,21 @@ copyright = "Copyright é invenção do capitalismo burguês opressor. Todos os 
     namespace = "caloni"
     author = "Wanderley Caloni"
 
+[params.external]
+
+[params.external.cinemaqui]
+    tag = "cinemaqui"
+    name = "Cinemaqui"
+    searchLink = "http://www.cinemaqui.com.br/?s="
+    summaryOnly = true
+
+[params.external.ccppbr]
+    tag = "ccppbr"
+    name = "C/C++ Brasil"
+    link = "http://ccppbrasil.github.io"
+
 [markup.goldmark]
+
 [markup.goldmark.extensions]
     definitionList = true
     footnote = true
@@ -21,10 +35,12 @@ copyright = "Copyright é invenção do capitalismo burguês opressor. Todos os 
     table = true
     taskList = true
     typographer = false
+
 [markup.goldmark.parser]
     attribute = true
     autoHeadingID = true
     autoHeadingIDType = "github"
+
 [markup.goldmark.renderer]
     hardWraps = false
     unsafe = false
