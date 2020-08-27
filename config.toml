@@ -10,3 +10,22 @@ copyright = "Copyright é invenção do capitalismo burguês opressor. Todos os 
     contentGit = "https://github.com/Caloni/blog"
     googleAnalytics = "UA-50557403-2"
     namespace = "caloni"
+    author = "Wanderley Caloni"
+
+[markup.goldmark]
+[markup.goldmark.extensions]
+    definitionList = true
+    footnote = true
+    linkify = true
+    strikethrough = true
+    table = true
+    taskList = true
+    typographer = false
+[markup.goldmark.parser]
+    attribute = true
+    autoHeadingID = true
+    autoHeadingIDType = "github"
+[markup.goldmark.renderer]
+    hardWraps = false
+    unsafe = false
+    xhtml = false
