@@ -9,11 +9,11 @@
         <img alt="Brand" src="{{ .Site.Data.defaults.icons.brand }}">
         {{- end }}
         {{- if .IsHome }}
-        <div class="title is-4">&nbsp;{{ .Site.Title }}</div>
+        <div class="is-4">&nbsp;{{ .Site.Title }}</div>
         {{- else if .IsPage }}
-        <div class="title is-6">&nbsp;{{ .Site.Title }}</div>
+        <div class="is-6">&nbsp;{{ .Site.Title }}</div>
         {{- else }}
-        <div class="title is-6">&nbsp;{{ .Site.Params.Namespace }}::{{ lower .Title }}</div>
+        <div class="is-6">&nbsp;{{ .Site.Params.Namespace }}::{{ lower .Title }}</div>
         {{- end }}
       </a>
     </div>
