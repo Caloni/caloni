@@ -62,12 +62,17 @@ td {
 
 .title  {
     font-size: 1.5rem;
+    margin-color: firebrick;
+    color: firebrick;
+    margin-bottom: 3px;
 }
 
 .subtitle  {
-    margin: 1px;
-    margin-color: firebrick;
-    color: firebrick;
+    font-size: 1.0rem;
+    margin-top: 3px;
+    margin-color: black;
+    color: black;
+    font-style: italic;
 }
 
 .taglist  {
