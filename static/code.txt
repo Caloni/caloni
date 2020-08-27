@@ -1,3 +1,4 @@
+a-inteligencia-do-if-parte-1.md: revisa!
 a-inteligencia-do-if-parte-2.md:    ascii art:
 a-inteligencia-do-if-parte-2.md:    +------------+
 a-inteligencia-do-if-parte-2.md:    | A Register |----+
