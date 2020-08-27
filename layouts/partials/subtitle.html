@@ -1,5 +1,9 @@
 <p class="subtitle">
 {{ if .Date.After (time "2001-01-01")}}
-{{ $.Site.Params.author }}, {{ .Date.Format "2006-01-02" }}
+  {{ if in .Params.tags "draft" }}
+    Este é um rascunho e está sujeito a mudanças.
+  {{ else }}
+    {{ $.Site.Params.author }}, {{ .Date.Format "2006-01-02" }}
+  {{ end }}
 {{ end }}
 </p>
