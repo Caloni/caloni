@@ -3,7 +3,7 @@ categories: [ "cinema" ]
 date: "2017-12-14"
 link: "https://www.imdb.com/title/tt2527336"
 tags: [ "draft", "movies" ]
-title: "Star Wars: os Últimos Jedi"
+title: "Star Wars: Os Últimos Jedi"
 ---
 Uma série de filmes que mantém uma mitologia sobre uma energia vital no Universo por décadas precisa ser atualizada de tempos em tempos para não perder o compasso com a Ciência. Se na primeira trilogia a Força era algo mais espiritual e na segunda trilogia algo mais biológico, essa terceira trilogia acertadamente a coloca como nem uma coisa nem outra: é algo metafísico. E com isso estabelece pela primeira vez uma base que se pode trabalhar com as diferentes camadas de realidade. Não só mais falamos sobre política em SW (essa dualidade esquerda/direita já cansou), mas sobre filosofia, moral, valores, etc. Quem diria que Star Wars chegaria em sua fase adulta?
 

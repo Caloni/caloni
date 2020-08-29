@@ -3,7 +3,7 @@ categories: [ "cinema" ]
 date: "2012-10-09"
 link: "https://www.imdb.com/title/tt1276104"
 tags: [ "draft", "movies" ]
-title: "Looper Assassinos do Futuro"
+title: "Looper: Assassinos do Futuro"
 ---
 Não é sempre que uma ideia fantasiosa pode render uma boa história, como infelizmente foi visto no irregular O Preço do Amanhã. Porém, apenas a tentativa de usar um conceito futurístico como viagem no tempo e tentar aplicá-lo em um filme de ação já merece créditos. No caso de Looper estamos falando de um roteiro original escrito e dirigido por Rian Johnson, que também assina a dupla função em Vigaristas e A Ponta de um Crime.
 
