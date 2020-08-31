@@ -5,12 +5,6 @@ link: "https://www.imdb.com/title/tt0322629"
 tags: [ "draft" ]
 title: "Houve uma Vez Dois Verões"
 ---
-O humor dos roteiros de Furtado sempre misturam diálogos naturais do dia a dia e acontecimentos extraordinários.
+Meninas virgens costumam ter o que vulgarmente se conhece como "amor de pica", que é quando ela não consegue mais evitar ficar com o garoto que a desvirginou para o resto de sua vida. Em contrapartida, Houve Uma Vez Dois Verões parte da história de um menino virgem que tem uma noite apenas com a garota perfeita, jogadora de fliperama, e desenvolve o que chamaríamos, também vulgarmente, de "amor de buça".
 
-Essa história de amor adolescente de férias começa romântico e ganha aquela pitada abrasileirada, mas não liga de entregar um final convencional.
-
-Menina consegue oscilar entre garota de férias, mãe solteira e garota de programa no mesmo filme.
-
-Menino não é bobo, mas age como um garoto, e garotos perto de uma mulher são só garotos.
-
-A trilha sonora empolga uma
+André Arteche é Chico, um adolescente comum que com seu amigo procuram oportunidade para transar em qualquer lugar e situação para logo sair do ponto de partida. Apesar de passarem as férias na maior praia por extensão do mundo, no Sul do Brasil, os pais para economizar fazem a viagem em baixa temporada, e o que vemos é uma praia maior ainda, com pouca gente, e quase nenhuma menina. Mas a sorte de Chico muda com a aparição milagrosa de Roza (com Z mesmo), encarnada pela paradisíaca Ana Maria Mainieri (ou paradisíaca na visão de um adolescente espinhudo, pelo menos).
