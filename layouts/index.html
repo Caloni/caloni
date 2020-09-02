@@ -9,14 +9,13 @@
     {{ partial "section_begin.html" . }}
     {{ partial "lists.html" . }}
     {{ partial "list_begin.html" . }}
-    {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.categories }}
-        {{ range first 3 $taxonomy.Pages }} 
-            <tr><td>
-            <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
-            <b><a href="{{ .Permalink }}">{{ .Title }}</a></b>
-            {{ if .Params.tags }}<i>{{ range .Params.categories }}<a style="color: gray;" href="/categories/{{ . | urlize }}">{{ printf "%s%s" " " . }}</a>{{ end }}</i>{{ end }}   
-            </td></tr>
-        {{ end }}
+    {{ range first 10 .Site.RegularPages }}
+        <tr><td>
+        <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
+        <b><a href="{{ .Permalink }}">{{ .Title }}</a></b>
+        <i>{{ range .Params.categories }}<a style="color: gray;" href="/categories/{{ . | urlize }}">{{ printf "%s%s" " " . }}</a>{{ end }}</i>
+        <i>{{ range .Params.tags }}<a style="color: gray;" href="/tags/{{ . | urlize }}">{{ printf "%s%s" " " . }}</a>{{ end }}</i>
+        </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
     {{ partial "section_end.html" . }}
