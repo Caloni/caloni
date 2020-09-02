@@ -1,7 +1,7 @@
 <p class="subtitle">
 {{ if .Date.After (time "2001-01-01")}}
   {{ if in .Params.tags "draft" }}
-    Este é um rascunho e está sujeito a mudanças.
+    Este é um rascunho e está sujeito a <a style="" href="{{ .Site.Params.ContentGit }}/blob/master/content/posts/{{ .File.LogicalName }}" title="source">mudanças</a>.
   {{ else }}
     {{ $.Site.Params.author }},
     {{ range $.Site.Params.external }}
