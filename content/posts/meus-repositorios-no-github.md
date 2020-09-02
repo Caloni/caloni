@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2012-06-04"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Meus repositórios no GitHub"
 ---
 Depois de vacilar por alguns meses, incentivado pelo meu amigo Chico Pimenta, resolvi experimentar o tal do GitHub, e consequentemente o sistema de controle de fontes distribuído Git, que antes era meio exclusivo do Linux (continua meio sendo, mas com suporte um pouco melhor para Windows).

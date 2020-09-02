@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2017-01-17"
 link: "https://www.imdb.com/title/tt0018328"
 tags: [ "draft", "movies" ]

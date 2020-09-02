@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2014-07-01"
-tags: [ "draft", "reading" ]
+tags: [ "blog", "draft", "reading" ]
 title: "Introdução à Introdução à Computação"
 ---
 

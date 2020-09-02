@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2014-08-01"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "O novo 'como não dar step into' do Visual Studio 2012/13"
 ---
 Toda vez que instalo um Visual Studio novo e começo a depurar sempre surge a necessidade de fazê-lo calar a boca nos step intos da STL, Boost, ATL e coisas que sei que não vai dar pau. (Obviamente, quando dá pau, preciso ir no disassembly e cutucar a STL para ela me entregar qual o problema com o meu contêiner.)

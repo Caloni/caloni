@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2015-10-12"
 tags: [ "draft", "events", "lists" ]
 title: "Diretores da 39a. Mostra de Cinema em São Paulo"

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2020-06-22"
 link: "https://www.imdb.com/title/tt11958344"
 tags: [ "movies" ]

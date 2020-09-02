@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2016-11-29"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Quantos handles sua aplicação está abrindo?"
 ---
 Mesmo que você não programe em C/C++, mas programe para Windows (ex: .NET), sempre há a possibilidade de seu programa estar causando leaks de handles indefinidamente, o que não se traduz em aumento significativo de memória alocada para seu processo, mas é, sim, um problema a ser tratado.

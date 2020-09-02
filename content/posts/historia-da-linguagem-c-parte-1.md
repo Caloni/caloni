@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-08-01"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "História da linguagem C - parte 1"
 ---
 Confesso que adoro estudar sobre a história da linguagem C. Essa verdadeira adoração pela linguagem me fez estudar suas precursoras, como as linguagens BCPL e B. Posso dizer que todo esse conhecimento, no final das contas, valeu a pena. Hoje entendo muito melhor as decisões tomadas na criação da linguagem e, principalmente, a origem de algumas idiossincrasias e boas idéias que permaneceram até hoje.

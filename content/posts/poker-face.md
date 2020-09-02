@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2014-05-06"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Poker Face"
 ---
 O segundo round da segunda fase do Code Jam passou nesse sábado. Disléxico que sou, consegui fazer apenas 8 pontos ¿ como todo mundo ¿ no teste small do problema B, que envolvia apenas dois loops aninhados (a versão large fica para outro post). Na verdade, estou aqui para expressar minha gratidão ao campeonato por ter aprendido mais uma bela lição vendo o código do primeiro colocado do primeiro round, vulgo Kaizero, um coreano que deu uma solução simples, rápida e prática para um problema de probabilidade tão error-prone que até os juízes do Google deram uma lambuja de alguns testes errados (sem contar que houve apenas a categoria small), e me fez pensar em quantas vezes pensamos em demasiado tentando encontrar a solução perfeita para algo que simplesmente... não precisa.

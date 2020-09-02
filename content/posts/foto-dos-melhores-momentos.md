@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2010-08-12"
-tags: [ "draft", "debug" ]
+tags: [ "code", "draft", "debug" ]
 title: "Foto dos melhores momentos"
 ---
 Mais um quebra-cabeças antes da nossa palestra, esse "baseado em fatos reais".

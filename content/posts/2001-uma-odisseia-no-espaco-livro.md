@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2018-05-16"
-tags: [ "draft", "books" ]
+tags: [ "blog", "draft", "books" ]
 title: "2001: Uma Odisseia no Espaço (livro)"
 ---
 Comprei este livro na Black Friday do ano passado da Amazon. Ou ganhei porque o prefeito de São Paulo é um retardado e ficou intimando essa empresa? Pra ser sincero não lembro mais. E não importa. O fato é que não sou muito de ler ficção. Quando começo a ler já desisto. Antes desse tentei Grande Sertão: Veredas. Mas talvez esteja lendo as coisas erradas. Gosto muito de sci-fi, e 2001 é um dos meus filmes prediletos. Portanto, comecei a ler este. E em duas semanas, lendo esporadicamente, já cheguei na metade. É um livro que fala diretamente com quem é fascinado por viagens espaciais, mas, acima de tudo, os que são fascinados pela complexidade da consciência humana e do universo em si.

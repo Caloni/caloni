@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-10-17"
 link: "https://www.imdb.com/title/tt7766886"
 tags: [ "draft", "movies" , "cinemaqui" ]

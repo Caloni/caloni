@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2017-08-25"
 tags: [ "draft", "series" ]
 title: "Chef & My Fridge"

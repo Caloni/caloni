@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-03-12"
 link: "https://www.imdb.com/title/tt4154664"
 tags: [ "draft", "movies" ]

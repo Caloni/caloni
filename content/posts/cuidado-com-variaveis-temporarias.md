@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2011-07-26"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Cuidado com variáveis temporárias"
 ---
 Um dos problemas que a linguagem C++ possui para seus iniciantes é o de não deixar muito explícito partes do seu comportamento, principalmente as partes que lidam com ponteiros/referências e o jogo da vida dos objetos. Às  vezes a coisa fica de tal como complexa que fica até difícil explicar o porquê das coisas.

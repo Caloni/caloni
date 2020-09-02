@@ -1,8 +1,7 @@
 ---
-categories: [ "code" ]
 date: "2020-04-10"
 link: "https://github.com/Caloni/winmock"
-tags: [ "draft", "projects" ]
+tags: [ "code", "draft", "projects" ]
 title: "Winmock"
 ---
 Testar sistemas com rede simulada pode ser muito complexo ou muito simples. Se for feito em C ou se os endpoints forem em C é muito simples: basta trocar as funções originais pelas suas. Como tudo em C são funções com nome bem definido e assinatura flexível (você não precisa declarar a assinatura da função, ou pode mudar no meio do caminho).

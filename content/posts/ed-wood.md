@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2013-08-23"
 link: "https://www.imdb.com/title/tt0109707"
 tags: [ "draft", "movies" ]

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2016-11-03"
 link: "https://www.imdb.com/title/tt0097576"
 tags: [ "draft", "movies" ]

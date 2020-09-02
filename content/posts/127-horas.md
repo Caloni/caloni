@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2011-02-23"
 link: "https://www.imdb.com/title/tt1542344"
 tags: [ "draft", "movies" ]

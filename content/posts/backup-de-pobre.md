@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-03-28"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Backup de pobre"
 ---
 O backup - ato de fazer cópia(s) de segurança de dados considerados importantes -, como tudo na vida, para se tornar efetivo e transformador deve antes se tornar um hábito.

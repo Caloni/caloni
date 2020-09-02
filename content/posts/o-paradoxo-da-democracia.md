@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-10-28"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Paradoxo da Democracia"

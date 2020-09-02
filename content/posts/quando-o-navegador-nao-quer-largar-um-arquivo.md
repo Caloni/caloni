@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-08-13"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Quando o navegador não quer largar um arquivo"
 ---
 De vez em quando gosto muito de um vídeo que estou assistindo. Gosto tanto que faço questão de guardar para assistir mais vezes depois. O problema é que o meu Firefox ou, para ser mais técnico, o plugin de vídeo que roda em cima do meu navegador, não permite isso. Ele simplesmente cria um arquivo temporário para exibir o vídeo e logo depois o apaga, utilizando uma técnica muito útil da função CreateFile, que bloqueia o acesso do arquivo temporário e apaga-o logo após o uso:

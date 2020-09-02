@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2010-05-31"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Enum"
 ---
 Padrão C (ISO/IEC 9899:1990)

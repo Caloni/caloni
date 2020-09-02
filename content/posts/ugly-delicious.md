@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2018-11-17"
 link: "https://www.imdb.com/title/tt7907916"
 tags: [ "draft", "series" ]

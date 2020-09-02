@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-05-27"
-tags: [ "draft", "english" ]
+tags: [ "code", "draft", "english" ]
 title: "How to run anything as a service"
 ---
 The biggest advantage running an application as a service, interactive or not, is to allow its start before a logon be performed. An example that happens to me is the need of debugging a GINA. In order to do this, I need the Visual Studio remote debugger be started before logon. The easiest and fastest solution is to run Msvcmon, the server part of debugging, as a service.

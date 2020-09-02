@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2018-03-11"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Contra o 'Array de 100 bytes é suficiente'"
 ---
 Desde o C++ moderno (pós-03) o uso de arrays de tamanho fixo estão se tornando depreciados. E por um bom motivo: você nunca sabe realmente qual o tamanho que você precisa para um array de bytes até você saber. Daí a próxima grande questão é: "como gerenciar essa memória dinâmica de forma efetiva?". E a resposta moderna sempre é: "não faça isso você mesmo". Eis o porquê:

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2015-03-05"
 link: "https://www.imdb.com/title/tt1361318"
 tags: [ "draft", "movies" , "cinemaqui" ]

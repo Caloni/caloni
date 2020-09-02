@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2012-12-17"
 link: "https://www.imdb.com/title/tt1920849"
 tags: [ "draft", "movies" ]

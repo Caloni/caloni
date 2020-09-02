@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2018-12-15"
 tags: [ "draft", "essays" ]
 title: "Como o Sistema de Estrelas como Nota Funciona"

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2018-03-13"
 link: "https://www.imdb.com/title/tt4925292"
 tags: [ "draft", "movies" ]

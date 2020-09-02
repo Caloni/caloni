@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2008-06-13"
-tags: [ "draft",  ]
+tags: [ "blog", "draft",  ]
 title: "Primeiro ano do novo Caloni.com.br"
 ---
 Melhor que ter feito aniversário de dois anos no antigo blogue foi ter feito o primeiro aninho nesse novo formato, mais atualizado, mais diversificado e mais antenado com o meu dia-a-dia real.

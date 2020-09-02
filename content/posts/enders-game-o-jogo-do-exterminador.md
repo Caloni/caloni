@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2014-06-21"
 link: "https://www.imdb.com/title/tt1731141"
 tags: [ "draft", "movies" ]

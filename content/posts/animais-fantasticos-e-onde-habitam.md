@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2016-12-15"
 link: "https://www.imdb.com/title/tt3183660"
 tags: [ "draft", "movies" ]

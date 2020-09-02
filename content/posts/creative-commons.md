@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2008-02-19"
-tags: [ "draft",  ]
+tags: [ "blog", "draft",  ]
 title: "Creative Commons"
 ---
 Talvez a maioria das pessoas ignore o fato que, ao publicarem algum conteúdo, qualquer conteúdo, na internet, estarão criando algo, e esse algo tem um autor, e portanto, de acordo com nossa lei (Brasil) e alguns tratados internacionais, está protegida pelo direito autoral.

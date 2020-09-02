@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-02-29"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Quando o ponteiro nulo não é inválido"
 ---
 

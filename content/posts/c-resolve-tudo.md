@@ -1,8 +1,7 @@
 ---
-categories: [ "code" ]
 date: "2019-05-17"
 link: "https://github.com/Caloni/coo"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "C Resolve Tudo: Orientação a Objetos (com Polimorfismo)"
 ---
 Como programadores há um vício em nossas cabeças que é estar constantemente buscando a bala de prata, ou seja, a solução final e única para todos os nossos problemas de implementação. Com o tempo e alguma experiência descobrimos que tal coisa não existe, mas até lá nos encantamos com esse ou aquele framework, e claro, com essa ou aquela linguagem.

@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2015-06-29"
-tags: [ "draft", "books" ]
+tags: [ "blog", "draft", "books" ]
 title: "O Poder do Agora"
 ---
 > "Embora eu continuasse vivendo normalmente, tinha percebido que nada que eu viesse a fazer poderia mudar realmente a minha vida. Eu já tinha tudo de que necessitava."

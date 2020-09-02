@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2019-05-08"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Coroutines Em C: Picoro"
 ---
 Tantas linguagens hoje em dia tentando implementar a abstração de corrotinas e inserindo mais camadas de abstração (fibras e cereais)... há duas implementações já no Boost, ambas dependendo de uma biblioteca de contexto de stack que é dependente de arquitetura (programada em Assembly).

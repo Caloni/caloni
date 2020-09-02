@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-01-18"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Otimização em funções recursivas"
 ---
 O livro que estou lendo fala sobre algoritmos em C. Os primeiros capítulos são praticamente uma revisão para quem já programou em C, pois tratam de coisas que programadores com mais de cinco anos de casa devem ter na memória cachê (listas, pilhas, recursão, etc). Porém, tive uma agradável surpresa de achar um truque muito sabido que não conhecia, chamado de tail recursion. Fiz questão de testar nos dois compiladores mais conhecidos e eis o resultado.

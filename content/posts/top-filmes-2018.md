@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2018-12-31"
 tags: [ "draft", "lists", "cinemaqui" ]
 title: "Top Filmes 2018"

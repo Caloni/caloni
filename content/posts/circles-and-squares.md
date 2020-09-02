@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-11-17"
 tags: [ "draft", "essays" ]
 title: "Circles and Squares"

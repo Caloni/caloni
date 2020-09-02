@@ -1,8 +1,7 @@
 ---
-categories: [ "code" ]
 date: "2020-06-13"
 link: "https://gist.github.com/Caloni/368a8ce88206c13aac6ca27a56975af2"
-tags: [ "work" ]
+tags: [ "code", "work" ]
 title: "Historical Price"
 ---
 Havia um job esta semana de um assunto que me encanta desde a época de investidor: base histórica de cotações. Estamos falando de ações da Bovespa. Na época que era investidor frequente mantinha uma base que era atualizada por um programinha em Java (esqueci o nome), mas nunca tive certeza se os ajustes feitos pelo programa eram os corretos. Surgiu agora a possibilidade de eu realizar código que converte uma base histórica recebida com um minuto por linha em campos divididos por ponto-e-vírgula (o CSV do Windows) para candles de várias periodicidades. E isso justo agora que ando estudando awk. Então não deu outra: usei esta linguagem clássica como ferramenta para esta conversão.

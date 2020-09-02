@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2017-07-19"
-tags: [ "draft", "ccppbr" ]
+tags: [ "blog", "draft", "ccppbr" ]
 title: "13 Encontro (Relâmpago) C/C++ Brasil Indaiatuba (SP) 5 de Agosto de 2017"
 ---
 Depois desse título não há muito o que falar. Será um encontro relâmpago porque não tivemos tempo de fazer call for papers nem de muita divulgação, que será feita pela Diebold Nixdorf, a empresa que está patrocinando esta edição.

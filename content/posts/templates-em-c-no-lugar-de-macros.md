@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2016-01-14"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Templates em C no lugar de macros"
 ---
 A grande vantagem dos templates é manter o tipo de seus argumentos. Infelizmente, eles não existem na linguagem C, mas podem ser usados em construções C feitas com a linguagem C++, como ocorre com quem desenvolve device drivers para Windows.

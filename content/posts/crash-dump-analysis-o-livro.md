@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-04-17"
-tags: [ "draft", "books" ]
+tags: [ "code", "draft", "books" ]
 title: "Crash Dump Analysis"
 ---
 Para quem acabou de terminar o Advanced Windows Debugging (como eu) e não consegue ler no computador os complicados artigos de Dmitry Vostokov (como eu), "seus problemas acabaram-se": acabou de ser lançado o Memory Dump Analysis Volume 1 em hardware! Em modelos portáveis (paperback) e desktop (hardcover).

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-09-26"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Introdução ao C++ Builder...Turbo C++"
 ---
 Após mais de um ano de tentativas, finalmente consegui instalar e iniciar com sucesso o Borland Developer Studio. Esse foi o nome pomposo dado pela Borland para a "continuação" do velho C++ Builder e seus parentes, o Delphi e o C# Builder.

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2020-04-20"
 link: "https://www.imdb.com/title/tt0049366"
 tags: [ "draft", "movies" ]

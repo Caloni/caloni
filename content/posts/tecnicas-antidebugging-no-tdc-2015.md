@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2015-07-27"
-tags: [ "draft", "events" ]
+tags: [ "blog", "draft", "events" ]
 title: "Técnicas antidebugging no TDC 2015"
 ---
 Esse fim-de-semana, quer dizer, contando com a sexta-feira (dia 24/07/2015), tivemos a trilha de segurança no TDC 2015, e eu palestrei pela segunda vez, dessa vez com um material mais antigo ainda, mas que parece ter agradado alguns: técnicas antidebugging.

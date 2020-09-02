@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2020-06-04"
-tags: [ "work" ]
+tags: [ "code", "work" ]
 title: "Azure Missing Lines"
 ---
 É curioso como os problemas mais triviais não são resolvidos em ferramentas feitas para resolver esses problemas. No Azure Pipelines existe um fluxo padrão para configurar um build em que você primeiro cria uma tarefa para obter o código de um repositório git remoto e em seguida configura, compila e empacota através de uma máquina chamada de agente. O problema surge logo nesses primeiros passos, para desespero do iniciante.

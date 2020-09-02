@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 count: 2
 date: "2014-05-06"
 link: "https://www.imdb.com/title/tt1872181"

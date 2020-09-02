@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2016-10-21"
 tags: [ "draft",  ]
 title: "Mini-Debate com diretor de O Que Restou da Minha Vida"

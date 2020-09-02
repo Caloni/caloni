@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-02-18"
 tags: [ "draft", "play" ]
 title: "Dogville Teatro"

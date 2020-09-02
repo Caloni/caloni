@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-10-26"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Mês Que Não Terminou"

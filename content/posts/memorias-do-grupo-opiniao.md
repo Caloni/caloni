@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-03-26"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Memórias do Grupo Opinião"

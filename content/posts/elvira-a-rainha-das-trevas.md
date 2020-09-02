@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2013-11-08"
 link: "https://www.imdb.com/title/tt0095088"
 tags: [ "draft", "movies" ]

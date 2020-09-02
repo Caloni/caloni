@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2010-05-19"
-tags: [ "essays" ]
+tags: [ "code", "essays" ]
 title: "Analogicamente perfeito"
 ---
 É possível explicar tudo no mundo da informática através de analogias? Pela minha singela experiência de professor informal, eu acredito que sim. Durante esses dois anos, explanei diversos assuntos e, em todos eles, difíceis ou não, consegui um certo grau de sucesso graças ao uso de metáforas e parábolas.

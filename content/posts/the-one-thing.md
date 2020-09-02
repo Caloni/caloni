@@ -1,8 +1,7 @@
 ---
-categories: [ "blog" ]
 date: "2019-04-12"
 dest: "The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results. Por Gary Keller."
-tags: [ "draft", "books" ]
+tags: [ "blog", "draft", "books" ]
 title: "The ONE Thing"
 ---
 The ONE Thing é um livro que comecei a ler inspirado na dica do Robin Wieruch, que já leu um ou dois livros que eu também já li. Este é um clássico da auto-ajuda empresarial e começa ensinando umas poucas e boas para o leitor comum, mas é particularmente inspirador para quem já sabe que as lições de Gary Keller servem mais para ele do que para qualquer outro ser humano no planeta.

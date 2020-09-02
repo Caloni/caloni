@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 count: 2
 date: "2010-11-05"
 link: "https://www.imdb.com/title/tt1789810"

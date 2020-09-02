@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2017-08-25"
 link: "https://www.imdb.com/title/tt1219827"
 tags: [ "draft", "movies" ]

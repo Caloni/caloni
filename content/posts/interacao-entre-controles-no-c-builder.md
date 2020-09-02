@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-12-05"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Interação entre controles no C++ Builder"
 ---
 

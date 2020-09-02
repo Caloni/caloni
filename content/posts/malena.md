@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2014-02-05"
 link: "https://www.imdb.com/title/tt0213847"
 tags: [ "draft", "movies" ]

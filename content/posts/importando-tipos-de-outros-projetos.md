@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2010-01-11"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Importando tipos de outros projetos"
 ---
 A engenharia reversa das entranhas do kernel não tem limites se você sabe o que está fazendo. No entanto, algumas facilidades do depurador podem ajudar a minimizar o tempo que gastamos para analisar uma simples estrutura. Por exemplo, o Process Environment Block de um processo específico.

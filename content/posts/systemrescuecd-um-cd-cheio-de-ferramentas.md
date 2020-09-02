@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2017-05-28"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "SystemRescueCD: um CD cheio de ferramentas Linux para desenvolvedores e suporte"
 ---
 Há diversas distros Linux capazes de bootar via CD e com uma penca de ferramentas. Conheci há alguns anos uma delas: a SystemRescueCd: um disco de recuperação de HDs com diversas ferramentas embutidas. Dentro dele pode ser inserido outras ferramentas que achar interessante, e o mais importante, desenvolver através do próprio CD suas ferramentas.

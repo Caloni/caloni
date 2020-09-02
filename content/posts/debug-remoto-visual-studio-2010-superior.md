@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2019-03-06"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Debug Remoto no Visual Studio 2010 ou Superior"
 ---
 Já escrevi sobre debug remoto no finado C++ Builder, sobre como usar o msvcmon.exe no VS 2003 e o msvsmon.exe no 2010+. Sobre como depurar um serviço quando a máquina está para desligar, e até sobre depurar através de um servidor de símbolos. Está na hora de tornar a depuração mais simples para programadores de serviços Win32.

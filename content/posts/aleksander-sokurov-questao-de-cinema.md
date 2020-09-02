@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2011-10-24"
 tags: [ "draft", "movies" ]
 title: "Aleksander Sokurov: Uma Questão de Cinema"

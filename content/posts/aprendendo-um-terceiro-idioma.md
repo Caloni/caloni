@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2009-12-11"
-tags: [ "draft", "essays" ]
+tags: [ "blog", "draft", "essays" ]
 title: "Aprendendo um terceiro idioma"
 ---
 Inspirado pelo texto de Chad Fowler que explica como o aprendizado de um segundo idioma mudou sua vida (sua língua-mãe é o inglês americano), resolvi descrever brevemente o que foi o momento da minha vida que decidi que iria tentar aprender Russo. Lógico, sem todo o folclore e a experiência de vida do autor do original.

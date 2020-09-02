@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2020-03-02"
 link: "https://www.imdb.com/title/tt0495596"
 tags: [ "draft", "movies" ]

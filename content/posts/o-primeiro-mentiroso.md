@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2018-07-20"
 link: "https://www.imdb.com/title/tt1058017"
 tags: [ "draft", "movies" ]

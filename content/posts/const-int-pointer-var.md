@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2019-04-29"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Const Int Pointer Var"
 ---
 A melhor forma de declarar variáveis ponteiros (constante ou não, mas segue o exemplo) é const int pointer var. Explicação:

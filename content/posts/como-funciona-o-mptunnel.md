@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2019-12-11"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Como Funciona o MPTunnel"
 ---
 A ideia por trás de um sistema multipath de rede é fornecer mais de um caminho para o tráfego de pacotes. O objetivo pode ser diminuir a perda de pacotes por causa da instabilidade da rede, mas também isso irá fazer com que o throughput da comunicação seja maior pela diminuição da razão da perda de pacotes, além da melhor rota acabar sendo por onde os pacotes irão chegar primeiro, em uma espécie de seleção natural da arquitetura.

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-07-16"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "What happens inside the sizeof operator"
 ---
 The question: how to get the size of a struct member without declaring it as a variable in memory? In pseudocode:

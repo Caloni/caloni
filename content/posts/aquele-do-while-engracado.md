@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-05-15"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Aquele do-while engraçado"
 ---
 Nesses últimos dias andei conversando com um amigo que está estudando sistemas operacionais na faculdade. Melhor ainda, vendo o código real de um sistema operacional em funcionamento. A conseqüência é que, além de aprender um bocado de como as coisas funcionam de verdade debaixo dos panos, acaba-se aprendendo alguns truquezinhos básicos e tradicionais da linguagem C.

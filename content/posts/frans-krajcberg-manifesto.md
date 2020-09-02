@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-09-28"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Frans Krajcberg: Manifesto"

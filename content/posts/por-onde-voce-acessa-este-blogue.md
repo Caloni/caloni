@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2017-02-01"
-tags: [ "draft",  ]
+tags: [ "blog", "draft",  ]
 title: "Por onde você acessa este blogue?"
 ---
 Sério, esta é uma pergunta relevante neste momento. Ao menos para mim. Estou cansado de tentar manter duas áreas distintas do conhecimento, que venho arquivando por anos, e estou pensando em publicar sobre absolutamente qualquer coisa relacionada com meu dia-a-dia por aqui, o que irá envolver necessariamente assuntos que não girem em torno de programação e nem em C++.

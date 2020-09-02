@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2010-08-26"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Gerando dumps automatizados"
 ---
 Agora que a temporada das telas azuis passou estou às voltas com o nosso sistema de detecção de crashes, além de alguns dumps e logs pra relaxar de vez em quando.

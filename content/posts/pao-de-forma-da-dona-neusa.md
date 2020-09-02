@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2017-10-21"
-tags: [ "draft", "food", "recipes" ]
+tags: [ "blog", "draft", "food", "recipes" ]
 title: "Receita: Pão de Forma da Dona Neusa"
 ---
 

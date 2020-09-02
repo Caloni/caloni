@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-09-19"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Reúna seus comandos mais usados no WinDbg com .cmdtree"
 ---
 Tudo começou com o artigo de Roberto Farah sobre o comando "escondido" do WinDbg .cmdtree. Logo depois meus outros colegas do fã-clube do WinDbg Volker von Einem e Dmitry Vostokov comentaram sobre a imensa utilidade desse comando.

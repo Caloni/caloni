@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-11-27"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Carregando DLLs arbitrárias pelo WinDbg - parte 2"
 ---
 Como pudemos ver no artigo anterior, o processo para carregar uma DLL pelo WinDbg é muito extenso, enfadonho e sujeito a erros. Por esse motivo, e para tornar as coisas mais divertidas, resolvi transformar tudo aquilo em um simples script que pode ser executado digitando apenas uma linha.

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-11-29"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Desenhando em C++ Builder"
 ---
 Uma das partes mais fáceis e divertidas de se mexer no C++ Builder é a que lida com gráficos. A abstração da VCL toma conta da alocação e liberação dos objetos gráficos da GDI e nos fornece uma interface para desenhar linhas e figuras geométricas, mexer com bitmaps, usar fontes etc. Concomitantemente, temos acesso ao handles "crus" da Win32 API para que possamos chamar alguma função esotérica necessária para o seu programa, o que nos garante flexibilidade suficiente.

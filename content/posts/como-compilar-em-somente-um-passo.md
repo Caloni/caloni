@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2009-05-25"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Como compilar em somente um passo"
 ---
 Uma das primeiras perguntas do teste do Joel é saber se você pode compilar todo o projeto em apenas um passo. Essa é uma questão essencial e um desafio para muitas equipes. Perdem-se horas sagradas para gerar um novo Release.

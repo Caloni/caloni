@@ -1,8 +1,7 @@
 ---
-categories: [ "code" ]
 date: "2011-03-03"
 link: "https://github.com/Caloni/daytoday"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Projeto DayToDay"
 ---
 O DayToDay é um projetinho que criei para fazer tracking das minhas atividades diárias. Eu o criei há mais de 6 anos, e provavelmente se tivesse pensado em como isso seria útil para as pessoas compartilharem suas ideias e limitasse o número de caracteres para 140, estaria rico hoje.

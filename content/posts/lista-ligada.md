@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2018-04-24"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Lista Ligada; tá ligado?"
 ---
 Uma lista ligada é uma lista de alguma coisa. Essa alguma coisa podem ser inteiros, strings ou estruturas inteiras. Independente do que for, você vai precisar de uma estrutura. Sabe por quê? Porque existe além dos dados em si mais uma informação que você precisará guardar em cada elemento de sua lista: o próximo elemento.

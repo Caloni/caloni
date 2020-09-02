@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2015-03-04"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Guia de alocação (nos clientes)"
 ---
 Se você trabalha com T.I. (nem precisa ser programação) e mora em São Paulo (ou qualquer outro lugar com pessoas paranoicas) então talvez em algum momento da sua carreira teve que ficar alocado (como uma memória que contém um vírus) em algum de seus clientes (ou da empresa onde trabalha/ou). Usando seus apetrechos pessoais dentro de uma mochila para zarpar no final do dia sem deixar rastros.

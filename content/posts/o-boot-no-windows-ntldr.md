@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2009-11-26"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "O boot no Windows: NTLDR"
 ---
 Minhas análises estão demorando muito para ser feitas. Talvez seja a hora de revelar o pouco que sei (e pesquisei) sobre o próximo processo de boot do Windows: o NTLDR.

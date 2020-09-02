@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2012-06-09"
-tags: [ "draft", "tools" ]
+tags: [ "code", "draft", "tools" ]
 title: "Novos atalhos aprendidos no Vim"
 ---
 Sempre é bom reler as referências e tentar melhorar o que já está bom. No momento minha inspiração é o excelente Vim: From Essentials to Mastery, uma coleção de slides bem-humorada que a cada releitura fornece dicas importantes para aprimorar o dia-a-dia com um dos editores mais poderosos do planeta.

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-10-12"
-tags: [ "draft", "books" ]
+tags: [ "code", "draft", "books" ]
 title: "A Linguagem de Programação C"
 ---
 O clássico de Ritchie e Kernighan, criadores da linguagem C, não foi meu primeiro livro de programação. E nem deveria ser. Não o recomendo para iniciantes, pois é necessário possuir algun conhecimento e prática para realmente aproveitar os conceitos desse livro.

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-01-28"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "RmThread: rode código em processo vizinho"
 ---
 Aproveitando que utilizei a mesma técnica semana passada para desenvolver um vírus para Ethical Hacking, republico aqui este artigo que já está mofando no Code Projet, mas que espero que sirva de ajuda pra muita gente que gosta de fuçar nos internals do sistema. Boa leitura!

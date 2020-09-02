@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2020-03-08"
 tags: [ "draft", "movies", "cinemaqui" ]
 title: "Disforia"

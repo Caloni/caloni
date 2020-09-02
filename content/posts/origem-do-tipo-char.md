@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2015-01-26"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Origem do tipo char"
 ---
 Programadores C e C++, preparem-se para explodir as cabeças!

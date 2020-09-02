@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2019-11-13"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "DTLS Simples... simples?"
 ---
 

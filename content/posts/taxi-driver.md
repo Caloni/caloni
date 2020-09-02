@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2012-05-14"
 link: "https://www.imdb.com/title/tt0075314"
 tags: [ "draft", "movies" ]

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2013-04-03"
 link: "https://www.imdb.com/title/tt1520211"
 tags: [ "draft", "series" ]

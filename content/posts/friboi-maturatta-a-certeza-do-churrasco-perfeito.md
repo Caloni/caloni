@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2016-10-16"
 tags: [ "draft",  ]
 title: "Crítica: Comercial Friboi - A certeza do churrasco perfeito"

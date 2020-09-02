@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-08-07"
-tags: [ "draft", "kernel" ]
+tags: [ "code", "draft", "kernel" ]
 title: "Aprendizado em kernel mode"
 ---
 Hoje terminei minha primeira leitura de Memory Dump Analysis Vol. 1, e qual não foi a minha surpresa ao encontrar entre os últimos posts justamente o que eu estava precisando: um guia de livros que se deve ler para começar a programar em kernel mode.

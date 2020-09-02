@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2010-04-08"
-tags: [ "draft", "projects" ]
+tags: [ "code", "draft", "projects" ]
 title: "Houaiss Para Babylon!"
 ---
 Os últimos comentários de Henrique Esteves (quando havia seção de comentários no blogue) sobre o HouaissParaBabylon me fizeram dar mais uma fuçada nele e ver se tento deixá-lo compatível com o Houaiss 3. Foram apenas algumas horas e acho que resolvi os probleminhas relacionados com a troca do registro de instalação e o nome dos arquivos que armazenam os verbetes.

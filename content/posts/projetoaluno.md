@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2018-03-21"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Projeto Aluno"
 ---
 Observar um estudante de computação (qualquer curso) lutando nos primeiros meses para conseguir fazer seus programas compilarem em C é um misto de emoções. É uma mistura entre risos, risadas e gargalhadas. Há vários motivos para isso, mas o principal, o que vem à minha mente sempre que isso acontece, é a eterna questão: por que a pessoa encontra fórum de programação para perguntar sobre variável mas não consegue ler duas páginas de um livro?

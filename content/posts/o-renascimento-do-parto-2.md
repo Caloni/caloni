@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2018-05-10"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Renascimento do Parto 2"

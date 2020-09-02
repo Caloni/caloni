@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-11-17"
 tags: [ "draft", "essays" ]
 title: "Is There a Cure for Film Criticism? by Pauline Kael (excerpts)"

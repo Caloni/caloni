@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2020-05-10"
 link: "https://www.imdb.com/title/tt0475784"
 tags: [ "series" ]

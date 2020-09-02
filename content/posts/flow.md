@@ -1,5 +1,4 @@
 ---
-categories: [ "draft" ]
 date: "2020-07-12"
 link: "https://gist.githubusercontent.com/Caloni/e426b01d96a2792f39c0d7cba7c461ec/raw/4497840f5faa5abaaa73f1649958df412cd0ce02/flow.txt"
 tags: [ "draft" ]

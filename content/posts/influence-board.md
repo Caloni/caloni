@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-03-14"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Influence Board"
 ---
 Há muito tempo sou enxadrista não-praticante. Acho que os anos de programação me deixaram mais viciado em codar do que pensar no xeque-mate. No entanto, sempre que posso, dou uma escapulida do Visual Studio e jogo uma partida ou duas na rede, quase sempre, é claro, tomando um piau psicológico.

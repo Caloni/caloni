@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2020-04-07"
-tags: [ "draft", "fun" ]
+tags: [ "code", "draft", "fun" ]
 title: "Meu Try Lock de Pelúcia"
 ---
 Alguns implementam mutex pero no mucho, que é aquele mutex que não faz nada porque ele sabe que só tem uma thread rodando no processo. É uma solução elegante para abstrair o uso de lock em um processo que pode ou não rodar multithread.

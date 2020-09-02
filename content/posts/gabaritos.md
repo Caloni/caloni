@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2016-01-13"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Gabaritos"
 ---
 Um template -- ou, como é na tradução da primeira edição de The C++ Programming Language, de Bjarne Stroustrup, aqui no Brasil: gabarito -- é um molde que pode ser usado por diferentes tipos para traduzir o mesmo algoritmo, ou pelo menos a mesma intenção de algoritmo (por pela sobrecarga de operadores é possível que o comportamento de tipos diferentes pode ser diferente).

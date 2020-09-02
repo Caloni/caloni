@@ -1,8 +1,7 @@
 ---
-categories: [ "code" ]
 date: "2020-05-10"
 link: "https://gist.github.com/Caloni/f59d150ce9f42af278e1e43b2f6f5a04"
-tags: [ "draft", "debug" ]
+tags: [ "code", "draft", "debug" ]
 title: "O Bug Mais Bizarro Que Já Resolvi"
 ---
 Máquina IBM velha e empoeirada. Criptografia blowfish. Assembly 16 bits. Programa residente. E nenhum depurador funcionando. Tudo o que eu tinha se resumia em dois itens de inventário: o conhecimento, adquirido aos poucos do sistema, e minha imaginação. Era uma amena semana de abril em 2008 isolado em uma sala. Tudo que havia em volta eram papéis com anotações feitas. Observava uma nova pista todo dia, embora sem ter muita certeza. Àquela altura qualquer coisa serviria.

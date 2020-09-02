@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2009-03-05"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Os problemas mais cabeludos"
 ---
 Quase todos os problemas do Universo são resolvidos depois de um belo dia de depuração, código comentado, descomentado, recomentado e umas muitas e boas doses de café. Alguns outros problemas mais cabeludos precisam de uma boa noitada na frente do computador, e mais café. E, finalmente, existem aqueles que nem tomando o estoque inteiro de café a coisa anda.

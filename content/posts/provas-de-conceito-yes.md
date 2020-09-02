@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2009-03-19"
-tags: [ "draft", "essays" ]
+tags: [ "blog", "draft", "essays" ]
 title: "Provas de conceito... yes!"
 ---
 Uma prova de conceito bem feita segue todos os passos em uma forma micro para entender e provar como as coisas irão funcionar no código de produção: a forma macro.

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2011-01-17"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Esse ponteiro vai até onde?"
 ---
 Brincando com obtenções e conversões de SIDs, tive uma pequena dificuldade de usar a função ConvertStringSidToSid, de Sddl.h. Seu objetivo é receber uma string-SID no formato usado pela ferramenta PsGetSid e retornar uma sequência de bytes de tamanho arbitrário, que é o SID como o sistema o enxerga. Como ela retorna apenas o ponteiro final, do tipo PSID, o que parece fácil pode se tornar tricky se quisermos copiar o SID binário para algum buffer na pilha, já que não sabemos o número de bytes no buffer de origem. Tudo que sabemos é que, após o uso, devemos desalocar essa memória retornada pela API com outra API: LocalFree.

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2018-10-10"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Odisseia de Peter"

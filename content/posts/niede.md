@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-03-27"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Niède"

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2017-02-20"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Visualizando QString no Visual Studio"
 ---
 O Qt não é um framework que pode apenas ser usado no QtCreator. Através de um projeto bem configurado pelo CMake, por exemplo, é possível ter um projeto que pode ser compilado e depurado tanto nas ferramentas do Qt quanto no Visual Studio. No entanto, na hora de depurar algumas coisas são difíceis de fazer. Por exemplo: como olhar o conteúdo de uma QString?

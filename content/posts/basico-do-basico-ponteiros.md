@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-12-06"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Básico do básico: ponteiros"
 ---
 Nessas últimas semanas tenho gastado meu tempo junto da mais nova pupila da SCUA, aspirante a programadora em C e Install Shield Script. Minha tarefa? Explicar tudo, desde o mais simples, como variáveis, até as coisas não tão triviais, como símbolos de depuração.

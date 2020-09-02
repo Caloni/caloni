@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2018-04-18"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Rogério Duarte, o Tropikaoslista"

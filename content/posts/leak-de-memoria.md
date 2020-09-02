@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2020-06-07"
-tags: [ "work" ]
+tags: [ "code", "work" ]
 title: "Leak de Memória"
 ---
 Esse fim de semana vi um programa, sem leak de memória, que só de ficar alocando e desalocando apresentava um consumo crescente no Process Explorer. Imaginando que poderia ser alguma lib externa, como o redis, fui eliminando uma por uma as variáveis do sistema, até chegar em um loop em que a única coisa feita no corpo do código era alocar e desalocar memória. E ela apenas subia.

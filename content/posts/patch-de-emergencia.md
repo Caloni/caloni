@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2010-11-08"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Patch de emergência"
 ---
 Após um projeto muito bem sucedido, entregue no prazo e homologado em tempo recorde, você e sua equipe estão aproveitando suas devidas férias nas Bahamas, tomando água de coco na sombra de uma palmeira e apreciando a beleza natural da região. Ambas as belezas. =)

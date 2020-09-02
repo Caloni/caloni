@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2011-04-28"
-tags: [ "draft", "projects" ]
+tags: [ "code", "draft", "projects" ]
 title: "Houaiss 1.3"
 ---
 

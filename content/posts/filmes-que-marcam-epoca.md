@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-12-02"
 link: "https://www.imdb.com/title/tt10681222"
 tags: [ "draft", "series" ]

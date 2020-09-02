@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2020-01-09"
 link: "https://www.imdb.com/title/tt7335184"
 tags: [ "draft", "series" ]

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2018-09-12"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Vcpkg Internals: como o gerenciador de pacotes da M$ funciona por dentro (e como fazer seu próprio pacote!)"
 ---
 Depois de entender mais ou menos como funciona o vcpkg é hora de realmente entrar no código e entender qual a grande sacada dessa ferramenta da Microsoft.

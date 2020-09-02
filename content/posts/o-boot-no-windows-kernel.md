@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2009-12-04"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "O boot no Windows: Kernel"
 ---
 Finalmente chegamos em um pouco onde podemos usar o WinDbg.

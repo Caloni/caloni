@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2013-10-02"
-tags: [ "draft",  ]
+tags: [ "blog", "draft",  ]
 title: "Mais um CPP MVP"
 ---
 Tenho o prazer de informar à comunidade C/C++ que vocês possuem mais um representante formal. Quer dizer, pelo menos no que diz respeito à Microsoft: eu.

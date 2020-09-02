@@ -1,8 +1,7 @@
 ---
-categories: [ "blog" ]
 date: "2020-07-11"
 link: "https://www.imdb.com/title/tt0254312"
-tags: [ "movies" ]
+tags: [ "blog", "movies" ]
 title: "Estrela Nua"
 ---
 No final da época das pornochanchadas, este filme, como se diz em grupos menores de homens, "paga peitinho", mas se veste de drama intimista, que é quando a coisa desmorona. Se levar a sério demais é o primeiro passo que todo filme ruim deve dar se quer se tornar péssimo a partir daí.

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2018-11-18"
 link: "https://www.imdb.com/title/tt5164214"
 tags: [ "draft", "movies" ]

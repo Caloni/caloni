@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-05-11"
 link: "https://www.imdb.com/title/tt8169446"
 tags: [ "draft", "movies" ]

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2017-07-27"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Forma Mais Simples De Depurar Processos Antes Do Logon"
 ---
 No post anterior sobre debug eu havia me focado mais na depuração de processos remotos no Visual Studio 2003 de maneira convencional. Aqui eu vou abordar o assunto de uma maneira menos convencional: usando o Visual Studio 2017 mais novo e depurando uma DLL (C++) que é carregada por um serviço antes do logon no Windows 7.

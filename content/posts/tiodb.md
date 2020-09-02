@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2019-07-27"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "tiodb"
 ---
 Antigamente ele era conhecido apenas como tio, mas seu nome foi trocado para a nova modinha dos hubs com o sufixo db: são os chamados nosql. De qualquer forma, o tio, ou The Information Overlord (pesquise na web para ver se acha essa referência), começou com um núcleo e uma ideia muito simples que continuam até hoje, e que ainda é difícil de achar por aí: um servidor que mantém em memória contêineres STL disponíveis via socket em um protocolo simples. Este artigo irá explicar como baixar os fontes do servidor, compilar e acessar esses contêineres via telnet, o que possibilita a integração com virtualmente qualquer coisa que se comunique via socket.

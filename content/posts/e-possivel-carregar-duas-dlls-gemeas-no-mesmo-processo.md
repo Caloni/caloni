@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-06-21"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "É possível carregar duas DLLs gêmeas no mesmo processo?"
 ---
 Um dos últimos artigos de Dmitry Vostokov, e tenho que falar assim porque o cara escreve muito em pouco tempo, fala sobre os perigos de termos uma mesma DLL carregada duas vezes em um único processo, muitas vezes em versões diferentes. Para os observadores atentos como Dmitry esse é um perigo que muitas vezes temos que estar preparados. Para os espertinhos de plantão, a resposta padrão seria: "não vou me preocupar, porque o contador de instâncias cuida disso".

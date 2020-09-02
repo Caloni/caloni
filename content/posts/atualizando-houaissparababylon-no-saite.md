@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2010-10-22"
-tags: [ "draft", "projects" ]
+tags: [ "code", "draft", "projects" ]
 title: "Atualizando HouaissParaBabylon no saite"
 ---
 O último comentário no meu último artigo sobre o conversor Houaiss para Babylon me fez lembrar de algo muito importante: eu não atualizei o branch do saite com a última versão. Deve ser por isso que as pessoas estão tendo problemas com o uso do código. Resolvo isso já:

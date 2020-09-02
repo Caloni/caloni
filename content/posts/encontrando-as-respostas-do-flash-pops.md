@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-01-16"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Encontrando as respostas do Flash Pops"
 ---
 Existe uma série de jogos no sítio da UOL onde você deve acertar o nome de filmes, programas de televisão, entre outros, que vão da década de 40 até a atualidade. É divertido e viciante fazer pesquisa na internet para encontrar os resultados, ainda mais quando já se é viciado em cinema. Ficamos jogando, eu e minha namorada, por semanas a fio. Quase chegamos a preencher tudo, e por um bom tempo ficamos travados para terminar. Então começamos a apelar para o Google e o IMDB até os limites do razoável. Nesse fim de semana, por exemplo, chegamos a assistir um filme de madrugada onde tocou rapidamente um trecho de uma das músicas que faltava no jogo sobre televisão. No dia seguinte procuramos a trilha sonora do filme, ouvimos faixa a faixa e procuramos o nome da música no Google, para finalmente encontrar o resultado.

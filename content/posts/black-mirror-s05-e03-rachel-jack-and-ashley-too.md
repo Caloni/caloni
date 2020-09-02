@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-06-15"
 link: "https://www.imdb.com/title/tt9053874"
 tags: [ "draft", "series" ]

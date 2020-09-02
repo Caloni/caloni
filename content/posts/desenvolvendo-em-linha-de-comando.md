@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-11-01"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Desenvolvendo em linha de comando"
 ---
 Desde uns tempos para cá o Visual Studio tem se tornado uma das ferramentas mais pesadas de desenvolvimento já criadas. Como se não bastasse, a compilação de pequenos trechos de código é algo desnecessariamente complicado no ambiente. Por esse motivo estou ganhando o costume de usar a linha de comando para esse tipo de tarefa. Afinal de contas,  na maioria das  vezes a única coisa que eu preciso fazer é abrir o atalho "Visual Studio Command Prompt" e digitar uma linha:

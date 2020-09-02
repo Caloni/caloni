@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2011-11-03"
 link: "https://www.imdb.com/title/tt1522238"
 tags: [ "draft", "shorts" ]

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-06-19"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Blitz"

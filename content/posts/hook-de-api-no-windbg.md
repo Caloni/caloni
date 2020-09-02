@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-08-29"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Hook de API no WinDbg"
 ---
 Basicamente existem duas maneiras de um executável obter o endereço de uma função API do Windows: ou ele usa uma lib de interface com a DLL (o chamado "link estático") ou ele chama a função kernel32!GetProcAddress explicitamente [1].

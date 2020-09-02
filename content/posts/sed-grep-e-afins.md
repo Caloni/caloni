@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-03-10"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Sed, Grep e afins"
 ---
 Esse artigo é resultado de eu ter me matado para conseguir encontrar a forma correta de usar o aplicativo sed para fazer uma filtragem simples nos resultados de uma listagem de arquivos.

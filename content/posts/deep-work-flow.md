@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2019-05-09"
-tags: [ "draft", "reading" ]
+tags: [ "blog", "draft", "reading" ]
 title: "Deep Work => Flow"
 ---
 (Deep Work) => Flow - A proven Path to Satisfaction, de Robin Wieruch, é um resumo valioso de dois livros, um sobre deep work e outro sobre flow, e como ambos se relacionam. Robin é um programador e também leu On Writing Well (ele possui algumas notas sobre essa leitura também).

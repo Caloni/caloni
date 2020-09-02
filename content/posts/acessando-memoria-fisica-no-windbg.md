@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-05-01"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Acessando memória física no WinDbg"
 ---
 Como muitos devem saber, acessar memória virtual no WinDbg é coisa de criança, assim como em todo depurador decente. Se estamos falando de kernel mode então, nem se fala! A memória virtual é parte integrante do sistema operacional. Podemos saber mais sobre isso lendo o artigo do Strauss sobre gerenciamento de memória no Windows.

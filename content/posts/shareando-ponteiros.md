@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2014-09-03"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Shareando Ponteiros"
 ---
 Apesar de ter palestrado algumas vezes sobre Boost e STL nunca escrevi muito sobre esses assuntos aqui. O tamanho dessas bibliotecas assusta um pouco. Mas temos que começar de algum lugar.

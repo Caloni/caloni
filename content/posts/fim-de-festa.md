@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2020-02-17"
 tags: [ "draft", "movies", "cinemaqui" ]
 title: "Fim de Festa"

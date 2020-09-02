@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2008-09-23"
-tags: [ "draft", "ccppbr" ]
+tags: [ "blog", "draft", "ccppbr" ]
 title: "V"
 ---
 Parabéns a todos que participaram e ajudaram para que todos nós chegássemos ao quinto encontro de programadores/aficionados C/C++. Parece mentira, mas hoje temos capacidade para lotar um auditório razoável, e temos a ousadia de sempre poder contar com uma grade de palestras pra lá de avançadas. Vejamos o que foi visto até hoje nesses últimos três encontros (III, IV e o seminário):

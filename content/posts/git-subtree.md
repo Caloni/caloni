@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2020-03-22"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Git Subtree"
 ---
 É a segunda vez que uso subtrees no Git. Não é algo que me acostumei usar por rotina, mas é uma técnica que eu recomendo que todo programador conheça para unir repositórios que não dependa dos pesadelos de configurar submodules.

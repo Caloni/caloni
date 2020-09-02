@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2011-11-01"
 tags: [ "draft", "movies" ]
 title: "Fora do Figurino"

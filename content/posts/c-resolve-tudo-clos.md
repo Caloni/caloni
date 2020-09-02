@@ -1,8 +1,7 @@
 ---
-categories: [ "code" ]
 date: "2019-05-17"
 link: "https://github.com/Caloni/cdefgeneric"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "C Resolve Tudo Clos"
 ---
 Continuando nossa série, conforme sugerido pelo @colemaker do grupo C/C++/42/Império do Brasil, a próxima ideia a ser implementada em C é o sistema polimórfico de chamadas do Lisp orientado a objetos. Esse sistema permite realizar a seguinte manobra:

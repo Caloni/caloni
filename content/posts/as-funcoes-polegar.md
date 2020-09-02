@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2009-01-30"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "As funções-polegar"
 ---
 Como já havia dito, não há nada mais prazeroso do que ensinar a alguém os velhos truques da profissão e relembrar o porquê de tantas coisas que guardamos na cabeça sobre programação. Hoje tive a oportunidade de explicar como funcionam as funções-polegar.

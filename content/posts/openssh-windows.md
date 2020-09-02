@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2019-04-29"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "OpenSSH no Windows"
 ---
 O Secure Shell (SSH) é um protocolo de sucesso nos unixes da vida para terminal remoto e seguro por décadas, mas no Windows nunca houve uma forma simples e protegida de abrir um terminal ou copiar arquivos. A opção é instalar um cygwin com esse componente ou tentar compilar um protocolo SSL e em cima dele o SSH. Porém, há detalhes na autenticação que estão relacionadas com o Sistema Operacional e que precisa ser feito. O OpenSSH é uma maneira de compilar tudo isso e ainda funcionar no Windows.

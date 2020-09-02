@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2018-05-28"
 link: "https://www.imdb.com/title/tt5897304"
 tags: [ "draft", "series", "animes" ]

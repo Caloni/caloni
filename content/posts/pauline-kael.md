@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2020-07-12"
-tags: [ "quotes" ]
+tags: [ "blog", "quotes" ]
 title: "Pauline Kael"
 ---
 "Big money and its way of life is exciting; the vulgarity of the powerful is ugly, but not boring. This, you begin to feel, is how people behave when they're strong enough to act out their fantasies of wealth. In this environment, if you're not making it in a big way, you're worse than nothing -- you're a failure." (I Lost it at the Movies)

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-04-15"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Guia básico de controle de código (Mercurial)"
 ---
 Houve um bom motivo para que, semana passada, eu estivesse caçando inúmeras versões de um projeto desenvolvido fora da empresa: falta de controle de código. Esse tipo de lapso pode consumir de horas a dias de tempo perdido, dependendo de em quantas cópias de máquinas virtuais ficou espalhado o código.

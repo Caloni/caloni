@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-10-23"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Partida"

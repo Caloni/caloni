@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2009-07-13"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Name mangling"
 ---
 A sobrecarga estática possui algumas desvantagens em relação ao sistema de nomes da boa e velha linguagem C: ela não foi padronizada entre compiladores. O que isso quer dizer na prática é que funções exportadas de bibliotecas dinâmicas (DLLs) vão possuir nomes diferentes dependendo do compilador utilizado (e sua versão). Isso é o que chamamos name mangling.

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-12-19"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Drag and drop no C++ Builder"
 ---
 O sistema de drag and drop do C++ Builder é muito fácil de usar, integrado que está com o sistema de classes e objetos do framework. Tanto para o objeto de drag quanto para o objeto de drop tudo que temos que fazer é definirmos a propriedade DragMode para dmAutomatic como mostra a figura. Isso fará com que toda a troca de mensagens seja manipulada automaticamente pela VCL.

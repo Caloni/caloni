@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2016-11-03"
-tags: [ "draft", "books" ]
+tags: [ "blog", "draft", "books" ]
 title: "O Mundo de Sofia"
 ---
 Este foi o livro meio unanimidade dos fóruns de filosofia quando questionado qual o melhor começo para a área, que dê uma visão global, histórica e funcional do que é, afinal de contas, filosofia. Bem, e também o começo mais divertido, o que para uma área como essa deve se resumir aos quadrinhos do Existencial Comics e o livro de Jostein Gaarder.

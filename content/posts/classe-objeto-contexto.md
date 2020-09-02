@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2016-01-10"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Classe, objeto, contexto"
 ---
 Para entender conceitos simples em C++, como métodos de uma classe, ajuda muito seguir o raciocínio dos programadores C e como eles lidavam com o tipo de problema que C++ resolve elegantemente implementando um novo compilador com uma nova linguagem.

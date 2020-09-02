@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-06-06"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Declaração x definição"
 ---
 Uma diferença que eu considero crucial na linguagem C/C++ é a questão da declaração/definição (em inglês, declaration/definition). É a diferença entre esses dois conceitos que permite, por exemplo, que sejam criadas estruturas prontas para serem conectadas a listas ligadas:

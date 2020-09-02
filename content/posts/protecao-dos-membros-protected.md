@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-10-26"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Proteção dos membros protected"
 ---
 Quando queremos que um membro de nossa classe seja visível apenas dentro dos métodos da classe e dentro dos métodos das classes derivadas dessa classe usamos o nível de proteção protected. Isso, é claro, não quer dizer que uma classe derivada vá ter acesso aos membros protegidos de outra:

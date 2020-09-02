@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2010-08-27"
 link: "https://www.imdb.com/title/tt1155076"
 tags: [ "draft", "movies" ]

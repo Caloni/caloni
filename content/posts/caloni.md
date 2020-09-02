@@ -1,8 +1,7 @@
 ---
-categories: [ "blog" ]
 css: "<style>section .title, .subtitle, .taglist { display: none; }</style>"
 date: "2007-06-14"
-tags: [ "draft" ]
+tags: [ "blog", "draft" ]
 title: "Wanderley Caloni"
 ---
 Wanderley Caloni é um programador C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico a pedidos insistentes do seu amigo, Rodrigo Strauss, que estava blogando já fazia alguns anos no www.1bit.com.br. Busco mantê-lo atualizado por esses longos anos de programação, depuração e transpiração com minhas peripécias do dia-a-dia. Eventualmente me tornei crítico de cinema e juntei aqui essas duas escovas de dentes, os textos técnicos e cinematográficos, o que acabou tornando o saite gigante, a ponto de eu precisar trocar meu static site generator para algo mais rápido como Hugo.

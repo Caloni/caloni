@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2017-09-24"
 link: "https://www.imdb.com/title/tt3903322"
 tags: [ "draft", "movies" ]

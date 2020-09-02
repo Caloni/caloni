@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-08-21"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Erro de compilação: funções muito novas na Win32 API"
 ---
 Quando fala-se em depuração geralmente o pensamento que vem é de um código que já foi compilado e está rodando em alguma outra máquina e gerando problemas não detectados nos testes de desenvolvedor. Mas nem sempre é assim. Depuração pode envolver problemas durante a própria compilação. Afinal de contas, se não está compilando, ou foi compilado errado, é porque já existem problemas antes mesmo da execução começar.

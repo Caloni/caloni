@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-07-20"
 tags: [ "draft", "essays" ]
 title: "Anti-Spoilers e o Escudo Pró-Hype"

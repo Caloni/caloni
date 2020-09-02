@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2015-02-03"
-tags: [ "ccppbr" ]
+tags: [ "blog", "ccppbr" ]
 title: "CCPP Brasil 11: Call For Papers"
 ---
 Acho que já está na hora de nos reencontrarmos, né?

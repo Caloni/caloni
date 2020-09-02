@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-06-26"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Primeiros passos na documentação de código-fonte usando Doxygen"
 ---
 Comentários são essenciais em um código-fonte bem feito. O código pode até fazer milagres, salvar vidas e multiplicar pães, mas se não tiver um apóstolo eficiente que escreva um evangelho para ele, as pessoas não vão conseguir usar!

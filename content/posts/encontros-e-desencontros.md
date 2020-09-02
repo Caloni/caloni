@@ -1,8 +1,7 @@
 ---
-categories: [ "blog" ]
 date: "2020-07-26"
 link: "https://www.imdb.com/title/tt0335266"
-tags: [ "draft" ]
+tags: [ "blog", "draft" ]
 title: "Encontros e Desencontros"
 ---
 Confesso que este filme me dava sono, mas havia algo mágico em seu ritmo quando o vi a primeira vez aos vinte e poucos anos. Ainda que de maneira inconsciente, havia percebido uma linda mensagem por trás dos acontecimentos sempre banais da história dos ricos e famosos.

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2015-09-12"
 link: "https://www.imdb.com/title/tt4341500"
 tags: [ "draft", "series" ]

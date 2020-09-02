@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2018-04-16"
 link: "https://www.imdb.com/title/tt0487831"
 tags: [ "series" ]

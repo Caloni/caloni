@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2014-05-20"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Estruturas VS Classes: fight!"
 ---
 

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2020-01-24"
 link: "https://www.imdb.com/title/tt7735502"
 tags: [ "draft", "movies" , "cinemaqui" ]

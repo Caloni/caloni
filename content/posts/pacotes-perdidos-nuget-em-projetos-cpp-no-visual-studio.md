@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2017-02-08"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Pacotes perdidos do NuGet em projetos C++ no Visual Studio"
 ---
 É muito bom (para quem gosta) usar a IDE e viver feliz sem precisar se preocupar em digitar comandos estranhos no prompt. Porém, essa vida acaba quando ocorre o primeiro erro inexplicável, aquele tipo de erro que não importa onde você olhe, não há nada para olhar. Até você apelar para ferramentas de macho.

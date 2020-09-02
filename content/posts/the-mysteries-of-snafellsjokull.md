@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2012-04-02"
 link: "https://www.imdb.com/title/tt1508304"
 tags: [ "draft", "shorts" ]

@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2011-02-07"
-tags: [ "draft",  ]
+tags: [ "blog", "draft",  ]
 title: "Mudança"
 ---
 

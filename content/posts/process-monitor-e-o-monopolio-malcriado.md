@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-02-05"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Process Monitor e o monopólio malcriado"
 ---
 

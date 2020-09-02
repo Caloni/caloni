@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2012-03-27"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Header Inútil"
 ---
 O Visual Studio é uma ótima ferramenta para depurar rapidamente programas sendo desenvolvidos e para o resto usamos Vim. No entanto, a versão 2010 do ambiente (ainda não testei a 2011 beta) possui um pequeno deslize com sua árvore de dependências que não chega a prejudica o desenvolvedor, mas o deixa com um bug atrás da orelha.

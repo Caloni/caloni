@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2020-07-11"
 link: "https://www.imdb.com/title/tt0434665"
 tags: [ "series", "animes" ]

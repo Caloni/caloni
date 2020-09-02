@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2017-02-19"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Palestra: como criar moedas digitais em casa com C++ (kick-off)"
 ---
 Esta palestra tem como objetivo ensinar o que são moedas digitais, como o bitcoin, e cada passo necessário o algoritmo e implementação para torná-la real. Será utilizado C++ como a linguagem-base e o foco está mais na implementação do que na matemática ou no algoritmo. Assim como foi criado o bitcoin, o importante a aprender é como unir diferentes tipos de conhecimento e tecnologia em torno de um objetivo único, simples e prático.

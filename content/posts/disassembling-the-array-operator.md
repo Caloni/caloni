@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-06-22"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Disassembling the array operator"
 ---
 Arrays are fascinating in C language because they are so simple and so powerful at the same time. When we start to really understand them and realize all its power we are very close to understand another awesome feature of the language: pointers.

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2017-07-09"
 revison: ['2017-08-03']
 link: "https://www.imdb.com/title/tt2250912"

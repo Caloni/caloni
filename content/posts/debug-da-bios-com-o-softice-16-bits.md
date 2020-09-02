@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-10-02"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Debug da BIOS com o SoftIce 16 bits"
 ---
 Para quem ainda acha que não desceu demais o nível, existe um ótimo artigo de ShalomZ, do Code Project, sobre como construir seu próprio sistema operacional. É simples, direta e empolgante a maneira com que ele explica e trata os detalhes básicos, desde quando o computador é ligado até quando o boot loader carrega e entrega o controle de execução. Eu mesmo fiz o teste com a imagem que foi disponibilizada para download e funcionou direitinho. Agora esse meu artigo se dispõe a explicar como você pode fazer para depurar o processo de load do seu primeiro sistema operacional.

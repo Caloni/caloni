@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2011-05-29"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Novo branch para projetos do Caloni.com.br"
 ---
 

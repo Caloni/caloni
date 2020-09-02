@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2008-09-12"
-tags: [ "draft", "essays" ]
+tags: [ "blog", "draft", "essays" ]
 title: "Todo programador é um filósofo em potencial"
 ---
 Tivemos uma conversa muito frutífera hoje durante o almoço ao conhecer uma professora que sentava ao nosso lado, exímia conhecedora da mente humana e amante das artes nobres como a filosofia e a lógica.

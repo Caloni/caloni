@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2015-02-17"
 tags: [ "draft",  ]
 title: "Como é escolher um filme pelo trailer"

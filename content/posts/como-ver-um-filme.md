@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2016-05-14"
-tags: [ "draft", "books" ]
+tags: [ "blog", "draft", "books" ]
 title: "Livro: Como Ver Um Filme"
 ---
 O livro de Ana Maia Bahiana é cativante do começo ao fim. Ele dá dicas sem frescuras e para o cinéfilo amador -- aquela pessoa que adora ver filmes, mas não sabe muito sobre sua criação nem como escolher um filme ou apurar seu gosto -- e ao mesmo tempo evita a todo custo soar pedante, crítica ou pior: erudita. Muito pelo contrário: o conteúdo é informativo e atinge das camadas mais básicas (como funciona a indústria de Hollywood) até as mais controversas (o que é gênero?).

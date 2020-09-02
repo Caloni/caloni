@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2017-08-25"
 tags: [ "draft", "fun" ]
 title: "Para a Cúpula Filho Da Puta"

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2019-04-07"
-tags: [ "draft", "puzzle" ]
+tags: [ "code", "draft", "puzzle" ]
 title: "Code Jam 2019 Qualification Round"
 ---
 Estou viajando e com poucas horas de acesso a um computador, mas os dois primeiros desafios do Code Jam esse ano foram tão simples que sequer precisaram de meia-hora. Isso para um chinês, campeões em campeonatos de programação, deve ser equivalente a cinco minutos com um código C enxuto. Mas estou apenas aprendendo.

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-09-24"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Why is my DLL locked?"
 ---
 There is a document from Microsoft alerting about the hazards in putting your code inside a DllMain function. what is more comprehensive and easier to read than the MSDN observations. It is worth reading, even because the explanations about the loader lock and its side effects can do very good for your code health.

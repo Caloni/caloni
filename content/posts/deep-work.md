@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2020-03-15"
-tags: [ "draft", "books" ]
+tags: [ "blog", "draft", "books" ]
 title: "Deep Work"
 ---
 > "Let your mind become a lens, thanks to the converging rays of attention; let your soul be all intent on whatever it is that is established in your mind as a dominant, wholly absorbing idea." - Antonin-Dalmace Sertillanges

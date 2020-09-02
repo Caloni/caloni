@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2018-07-15"
-tags: [ "draft", "books" ]
+tags: [ "blog", "draft", "books" ]
 title: "Por Dentro do Roteiro"
 ---
 O livro de Tom Stempel, acadêmico e crítico cinematográfico, parece ter sido feito com um olho nos negócios e outro no entretenimento. Isso porque para Stempel o importante em um roteiro não é seguir uma estrutura estética agradável, nem mover a história em uma trama que te prenda, mas fazer os personagens serem tão reais que você os seguirá para onde quer que seja. Mesmo em um blockbuster.

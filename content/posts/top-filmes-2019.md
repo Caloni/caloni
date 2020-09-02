@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-12-29"
 tags: [ "draft", "lists", "cinemaqui" ]
 title: "Top Filmes 2019"

@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2015-08-04"
-tags: [ "draft", "essays" ]
+tags: [ "blog", "draft", "essays" ]
 title: "Por que as startups brasileiras precisam de outsourcing"
 ---
 Não é novidade que uma boa ideia, na área de informática, muitas vezes não precisa de apenas boas intenções. Na verdade, acho que quase nunca. Saber com quem se fala, ter os contatos certos e o investidor-chave, simplesmente não irão trazer sucesso a nenhuma empresa se esta não conseguir sequer engatinhar tecnologicamente e mostrar que seu core business vale a pena.

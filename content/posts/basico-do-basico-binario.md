@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-12-18"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Básico do básico: binário"
 ---
 Apesar do tema binário, o assunto de hoje no fundo remete-nos a todo e qualquer tipo de representação. É o faz-de-conta um pouco mais intenso, vindo das profundezas da matemática e dominado com maestria pela nossa mente e sua capacidade lógica de abstrair.

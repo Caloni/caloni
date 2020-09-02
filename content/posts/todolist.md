@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2007-08-27"
-tags: [ "draft", "projects", "tools" ]
+tags: [ "blog", "draft", "projects", "tools" ]
 title: "ToDoList"
 ---
 Vou aproveitar que o recente blogue do meu amigo resolveu falar um pouco sobre administração de tempo e citar a ferramenta que venho utilizando há quase um ano para tentar organizar minhas idéias, minhas tarefas e minha vida. Assim como o Kabloc, eu estava em sérias dificuldades para tentar fazer e organizar todas as coisas que eu tinha em mente. Ainda continuo com dificuldades para fazer, mas o mais importante é que agora eu tenho um roadmap de para onde eu quero ir.

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-12-21"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Banco de dados no C++ Builder"
 ---
 

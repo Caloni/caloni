@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2009-08-18"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "O boot no Windows: sem Windows"
 ---
 Desde quando o usuário liga o computador até o momento em que ele vê a barra de tarefas e aqueles fundos lindos de papel de parede existem diversas coisas sendo feitas por debaixo do pano. Essa série de artigos irá explicar essas diversas coisas, ou seja, como funciona e quais as fases do boot de uma máquina que possui Windows instalado (plataforma NT).

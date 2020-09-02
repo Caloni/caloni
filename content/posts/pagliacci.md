@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2018-04-13"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Pagliacci"

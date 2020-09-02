@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2016-03-20"
 link: "https://www.imdb.com/title/tt0099088"
 tags: [ "draft", "movies" ]

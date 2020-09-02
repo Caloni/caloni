@@ -1,8 +1,7 @@
 ---
-categories: [ "code" ]
 date: "2019-05-28"
 link: "https://github.com/Caloni/goto"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "C Resolve Tudo: goto"
 ---
 Para quem decide usar a linguagem C para resolver tudo, a gota da água é o goto. Ele é flexível, cabe em (quase) qualquer ponto do código e tem 1001 utilidades. O goto é o bombril da engenharia de software.

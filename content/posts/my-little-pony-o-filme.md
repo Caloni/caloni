@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2017-10-16"
 link: "https://www.imdb.com/title/tt4131800"
 tags: [ "draft", "movies" ]

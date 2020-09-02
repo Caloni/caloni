@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2014-04-08"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Lambda: o Retorno!"
 ---
 

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2020-07-26"
 link: "https://www.imdb.com/title/tt8543390"
 tags: [ "series" ]

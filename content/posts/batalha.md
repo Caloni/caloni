@@ -1,8 +1,7 @@
 ---
-categories: [ "blog" ]
 date: "2020-06-07"
 link: "http://vinhosbatalha.com.br/"
-tags: [ "wine" ]
+tags: [ "blog", "wine" ]
 title: "Batalha"
 ---
 Em 1836 ocorre a Batalha do Seival, onde hoje fica o município de Candiota, RS. Esse conflito militar ocorreu quando os revolucionários da Revolução Farroupilha venceram o exército do Império Brasileiro e ensejaram a sonhada República Riograndense. Bons tempos. Em um dos melhores momentos da Guerra dos Farrapos.

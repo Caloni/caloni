@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2016-10-28"
 link: "https://www.imdb.com/title/tt5709230"
 tags: [ "draft", "series" ]

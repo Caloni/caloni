@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2011-11-24"
 link: "https://www.imdb.com/title/tt1778304"
 tags: [ "draft", "movies" ]

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-07-27"
 tags: [ "draft", "series" ]
 title: "Cinco Séries da Netflix"

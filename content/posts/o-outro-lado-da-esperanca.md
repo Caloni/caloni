@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2017-11-06"
 link: "https://www.imdb.com/title/tt5222918"
 tags: [ "draft", "movies" , "cinemaqui" ]

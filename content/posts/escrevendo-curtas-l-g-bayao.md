@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2018-07-16"
-tags: [ "draft", "books" ]
+tags: [ "blog", "draft", "books" ]
 title: "Escrevendo Curtas"
 ---
 Este é um livro curto, e sou fã de livros curtos. Porém, para um livro ser bom não basta ser curto. No seu pequeno conteúdo ele tem que ter algo a dizer. E o livro de L.G. Bayão tem, sim. Ele é um guia rápido e conciso que explica como não apenas curtas-metragens funcionam, mas como a indústria e linguagem cinematográficas funcionam na vida real, e de onde o curta é talvez o elemento mais basal e essencial para o começo (ou o final) de toda criação na sétima arte.

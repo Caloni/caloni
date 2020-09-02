@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2012-04-17"
-tags: [ "draft", "reversing", "events" ]
+tags: [ "blog", "draft", "reversing", "events" ]
 title: "Engenharia Reversa em Itajubá"
 ---
 Essa segunda (ontem, 16 de abril de 2012) foi dia da minha palestra na Unifei, parte do II Composium Unifei, que reúne diversos profissionais e suas especialidades para que estudantes vejam o quão útil pode ser o curso de engenharia.

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2010-04-20"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Typedef arcaico"
 ---
 A API do Windows geralmente prima pela excelência em maus exemplos. A Notação Húngara e o Typedef Arcaico são duas técnicas que, por motivos históricos, são usados a torto e a direito pelos códigos de exemplo.

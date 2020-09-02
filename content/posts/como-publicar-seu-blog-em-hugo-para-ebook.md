@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2019-07-10"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Como Publicar Seu Blog Em Hugo Para Ebook"
 ---
 Eu publico meu blog inteiro de tempos em tempos para um ebook que construo formatando primeiro em html através de um tema do Hugo, o parser de blog que estou usando no momento porque ele suporta 2500 posts sem reclamar. É uma receita simples de sucesso se você precisar ter todo seu conteúdo indexado para rápida referência ou leitura cronológica.

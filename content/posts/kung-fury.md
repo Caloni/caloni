@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2015-10-29"
 link: "https://www.imdb.com/title/tt3472226"
 tags: [ "draft", "shorts" ]

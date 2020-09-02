@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2018-09-28"
-tags: [ "draft", "events" ]
+tags: [ "blog", "draft", "events" ]
 title: "Native Floripa 2018"
 ---
 O Native Floripa desse ano foi um evento de nerds que adoro e também uma viagem e encontro de nerds (que também adoro). Isso quer dizer que este é um post duplo, onde analiso tanto a viagem quanto o evento.

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2016-11-02"
 tags: [ "draft", "events" ]
 title: "Saldo da 40a. MostraSP"

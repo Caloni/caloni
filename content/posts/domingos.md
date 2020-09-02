@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2011-11-28"
 tags: [ "draft", "movies" ]
 title: "Domingos"

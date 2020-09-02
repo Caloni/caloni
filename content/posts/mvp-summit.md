@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2014-11-21"
-tags: [ "draft",  ]
+tags: [ "blog", "draft",  ]
 title: "MVP C++ Summit e/ou Visual C++ ressurgindo das cinzas."
 ---
 Esse ano aproveitei meu status de Most Valuable Professional (já renovado para mais um ano...  yes!) e visitei o Campus de Seattle da Microsoft no evento global MVP Summit. A ideia desse evento é que os MVPs troquem ideias entre eles e com as equipes dos produtos Microsoft. No meu caso, houve um dia que visitamos o prédio da equipe do Visual C++, assistindo apresentações sobre a nova e próximas versões de C++ e também dando opiniões e visões acerca do que é relevante e o que não é no momento para a comunidade de desenvolvedores.

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2014-03-28"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "A moda agora é levar lambda na função"
 ---
 

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2018-05-22"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "SSL e seu limite de pacote"
 ---
 O protocolo TLS/SSL tem por objetivo criar uma camada de criptografia assimétrica para a aplicação. E quando eu falo em camada não estou me referindo às camadas OSI. Nem às camadas TCP/IP. Isso porque o SSL não se encaixa em nenhuma das duas. Ele interfere com muitas, inclusive a aplicação. E aprendi isso a duras penas: na ponta do depurador.

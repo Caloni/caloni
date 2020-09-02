@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2014-02-20"
-tags: [ "draft", "essays", "english", "fun" ]
+tags: [ "code", "draft", "essays", "english", "fun" ]
 title: "Real Programmers Don't Use Java"
 ---
 

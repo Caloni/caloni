@@ -1,8 +1,7 @@
 ---
-categories: [ "blog" ]
 date: "2020-08-03"
 link: "https://www.imdb.com/title/tt4425200"
-tags: [ "draft" ]
+tags: [ "blog", "draft" ]
 title: "John Wick 2: Um Novo Dia para Counter Strike"
 ---
 A trama funciona tão bem em apresentar um começo, meio e fim para esse herói atormentado em um drama de uma nota só que se conecta de maneira perfeita a um filme de pancadaria, pois o próprio gênero de ação já trabalha com emoções minimalistas e brutais.

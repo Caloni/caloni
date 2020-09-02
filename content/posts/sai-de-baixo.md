@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2019-02-13"
 tags: [ "draft", "cinemaqui" ]
 title: "Como a geração de Sai de Baixo se encontra com a geração Não me Toque"

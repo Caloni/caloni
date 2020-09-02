@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-04-29"
-tags: [ "draft", "tools" ]
+tags: [ "code", "draft", "tools" ]
 title: "Bazaar e Fedora 8: a saga"
 ---
 Seria bom se as coisas simples da vida fossem simples, não é mesmo?

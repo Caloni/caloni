@@ -1,8 +1,7 @@
 ---
-categories: [ "code" ]
 category: [ videos ]
 date: "2015-05-26"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Depurando até o fim do mundo e de volta de novo: source server com GitHub"
 ---
 Semana passada fiquei sabendo que o vídeo da minha palestra "Depurando até o fim do mundo" do TDC 2014 estava disponível online. Resolvi assistir para ver se aprendia alguma coisa. A despeito do palestrante ser muito ruim, ele disse uma coisa interessante: com o Debugging Tools (WinDbg para os íntimos) seria possível além de indexar os símbolos (PDBs para os íntimos) usando o esquema de Symbol Server que a própria Microsoft adota usar algumas ferramentas embutidas para conseguir obter o fonte através de um símbolo indexado.

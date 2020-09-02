@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2008-01-04"
-tags: [ "draft", "ccppbr" ]
+tags: [ "blog", "draft", "ccppbr" ]
 title: "CppCon III"
 ---
 O ano de 2008 promete. Pelo menos no começo.

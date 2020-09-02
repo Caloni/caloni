@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2018-06-02"
 link: "https://www.imdb.com/title/tt1700841"
 tags: [ "draft", "movies" ]

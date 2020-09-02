@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2016-08-12"
 link: "https://www.imdb.com/title/tt5290524"
 tags: [ "draft", "movies" , "cinemaqui" ]

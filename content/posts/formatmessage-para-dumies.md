@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2010-10-26"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "FormatMessage para... dumies?"
 ---
 Já foi comentado em alguns círculos de ótimos programadores que a função da Win32 API FormatMessage é uma das criaturas mais bizarras já criadas.

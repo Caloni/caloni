@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2012-05-27"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Problemas comuns no WinDbg e suas soluções"
 ---
 Depois de uma agradável manhã e tarde acompanhando o curso de desenvolvimento de drivers do meu amigo Ferdinando voltei para a casa para brincar um pouco mais com o mundo kernel e voltar a encontrar problemas com o WinDbg & Cia que há mais ou menos 1 ano atrás não tinha.

@@ -1,8 +1,7 @@
 ---
-categories: [ "blog" ]
 date: "2020-07-11"
 link: "https://www.imdb.com/title/tt0233809"
-tags: [ "movies" ]
+tags: [ "blog", "movies" ]
 title: "Revelações Secretas de Uma Mulher"
 ---
 Filme de baixo orçamento sobre a ex do seu diretor, Miyuki, uma feminista bissexual radical que tem tantos filhos que fica difícil contar o número dos pais. Kazuo Hara, o diretor, nasceu em 1945, um péssimo momento para estar vivo no Japão. Segundo longa seu e já habituado a polemizar em seus conteúdos.

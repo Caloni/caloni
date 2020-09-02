@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-10-10"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Engenharia reversa para principiantes"
 ---
 Dei uma reformada em minha última palestra sobre engenharia reversa. O tema escolhido foi tentar abranger os níveis de conhecimento que uma pessoa disposta a se dedicar à engenharia reversa de programas deveria ter, desde programação, passando pelo sistema operacional e terminando no uso de ferramentas. Achei interessante abordar esse tipo de conteúdo pelo fato de existirem pessoas que gostariam de começar ou já começaram e não sabem para onde ir.

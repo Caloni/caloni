@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2018-03-07"
-tags: [ "draft", "events" ]
+tags: [ "blog", "draft", "events" ]
 title: "PHP Experience 2018 Dia 2: Críticas"
 ---
 Grades decepcionantes. O segundo dia do PHP Experience demonstrou pela qualidadade e teor das palestras pelo menos duas coisas: 1) a comunidade parece interessada em boas práticas e arquitetura (o que é ruim), 2) a comunidade parece mais interessada em "diversidade" que qualidade (o que é duplamente ruim).

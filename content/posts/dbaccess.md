@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2016-08-16"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "DBAccess"
 ---
 Bancos de dados são uma dor de cabeça para o desenvolvedor acessar. Quase tão motivation killer que as configurações do .NET. Se for um programador em C++ para Windows, então, desista.

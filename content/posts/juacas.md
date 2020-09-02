@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2017-05-18"
 tags: [ "draft", "series" ]
 title: "Juacas"

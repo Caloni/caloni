@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2009-07-27"
-tags: [ "draft", "tools" ]
+tags: [ "code", "draft", "tools" ]
 title: "Cuidado com a cópia de arquivos na VMWare"
 ---
 Quebrei a cabeça com uma DLL de hook que não estava funcionando para usuários comuns. No entanto, para qualquer administrador funcionava.

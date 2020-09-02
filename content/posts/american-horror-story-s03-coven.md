@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2015-11-28"
 link: "https://www.imdb.com/title/tt1844624"
 tags: [ "draft", "series" ]

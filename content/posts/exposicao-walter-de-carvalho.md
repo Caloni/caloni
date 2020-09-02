@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2014-10-03"
 tags: [ "draft",  ]
 title: "Walter de Carvalho"

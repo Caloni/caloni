@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2015-01-21"
-tags: [ "draft", "ccppbr" ]
+tags: [ "blog", "draft", "ccppbr" ]
 title: "RIP, Alberto"
 ---
 Acho que como muitos aqui de vocês, eu sou (fui?) um fã condicional de Alberto Fabiano, o mestre em várias coisas, não se restringindo apenas à informática. Alberto, é preciso dizer, foi um hacker de verdade.

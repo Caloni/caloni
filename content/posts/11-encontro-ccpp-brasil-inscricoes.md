@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2015-02-19"
-tags: [ "ccppbr" ]
+tags: [ "blog", "ccppbr" ]
 title: "CCPPBrasil 11 Brasil (Inscrições)"
 ---
 O Call for Papers já iniciou há duas semanas e deverá ser encerrado no final de Fevereiro, quando publicaremos o cronograma do nosso evento. Até lá a página oficial do evento deverá ser atualizada com coisas a mais do que os dois coffee breaks. Porém, antes que o preço aumente, você já pode garantir o seu lugar e pagar mais barato. Para uma dica do que poderá ser selecionado de palestras compilamos uma lista de palavras-chave.

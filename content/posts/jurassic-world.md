@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2015-06-24"
 link: "https://www.imdb.com/title/tt0369610"
 tags: [ "draft", "movies" ]

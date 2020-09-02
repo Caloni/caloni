@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2015-11-18"
-tags: [ "draft", "essays" ]
+tags: [ "code", "draft", "essays" ]
 title: "Como ser um hacker"
 ---
 Talvez as pessoas estejam com preguiça de ler. Talvez estejam apenas inundadas por tanta informação que temos hoje. Talvez seja apenas falta de foco pelas interrupções consecutivas de novos "espertofones" ou nossas redes sociais viciantes, pois oferecem muito a troco de nada.

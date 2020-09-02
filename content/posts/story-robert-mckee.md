@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2019-09-08"
-tags: [ "draft", "books" ]
+tags: [ "blog", "draft", "books" ]
 title: "Story, by Robert McKee"
 ---
 

@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2018-05-07"
 tags: [ "draft", "essays" ]
 title: "A Pior e Mais Ridícula Crítica de Todos os Tempos"

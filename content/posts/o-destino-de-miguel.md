@@ -1,5 +1,4 @@
 ---
-categories: [ "cinema" ]
 date: "2016-09-11"
 tags: [ "draft", "shorts" ]
 title: "O Destino de Miguel"

@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2014-07-16"
-tags: [ "draft", "events" ]
+tags: [ "blog", "draft", "events" ]
 title: "TDC 2014: Segurança"
 ---
 Nesse TDC, além da minha palestra usual na trilha C/C++ irei participar da trilha de segurança, voltando às minhas origens, quando programava em empresas da segurança da informação. Foram 10 anos!

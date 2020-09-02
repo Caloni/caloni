@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-05-13"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Kernel Mode >> User Mode"
 ---
 Existem algumas situações onde um depurador WYSIWYG é artigo de luxo.

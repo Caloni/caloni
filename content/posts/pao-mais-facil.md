@@ -1,7 +1,6 @@
 ---
-categories: [ "blog" ]
 date: "2019-12-26"
-tags: [ "draft", "food", "recipes" ]
+tags: [ "blog", "draft", "food", "recipes" ]
 title: "Receita: Pão mais Fácil do Mundo"
 ---
 A partir de um vídeo do canal Pão da Casa comecei a experimentar fazer pão usando fermento natural. A primeira vez que experimentei essa receita usei o fermento seco de mercado, pois estava ainda experimentando, e funcionou. Agora com fermento natural o resultado fica mais azedo.

@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-10-18"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Por que minha DLL travou?"
 ---
 Saiu um documento da Microsoft alertando sobre os perigos em colocar código no DllMain. É algo mais completo e didático do que as simples observações do help do MSDN. Vale a pena dar uma lida, especialmente por causa das explicações sobre o loader lock e seus efeitos colaterais.

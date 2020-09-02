@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-04-03"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Try-catch flutuante"
 ---
 Esse detalhe da linguagem quem me fez descobrir foi o Yorick, que costuma comentar no blogue (na época que o blogue tinha comentários) e tive o prazer de conhecer no 4o. EPA-CCPP.

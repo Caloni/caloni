@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2008-06-24"
-tags: [ "draft", "tools" ]
+tags: [ "code", "draft", "tools" ]
 title: "Como estou trabalhando com o Bazaar"
 ---
 Depois de alguns ajustes e muitas perguntas do meu amigo-colega desenvolvedor Rafael, conseguimos definir alguns usos e costumes em nosso código controlado pelo Bazaar. Este é um guia para Dummies de como é possível organizar um ou mais projetos de forma a favorecer o refactoring e a liberdade de uso.

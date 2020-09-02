@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2012-05-20"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Sobrecarga de função às avessas"
 ---
 > Navegando pelo Archive.org, que possibilita viajar no tempo e encontrar coisas enterradas que seria melhor deixar por lá, consegui encontrar um post que se perdeu na dobra espaço-temporal entre o old-fashioned Caloni.com.br (com direito à velha joaninha psicodélica, desenho do meu amigo t@z) e o finado CThings. No final, consegui matar a marmota, chegar a 80 milhas por hora e voltar para o presente. Enjoy it!

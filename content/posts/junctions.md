@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2007-08-17"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Junctions"
 ---
 Semana passada baixei uma nova imagem para minha máquina de desenvolvimento. Esse esquema do pessoal da engenharia instalar as coisas para você facilita muito as coisas, mas existe o risco de algo ser instalado no lugar errado, que foram os casos do DDK e do SDK do Windows. Aqui no desenvolvimento, para efeito de padronização, utilizamos a seguinte estrutura de diretórios para esses dois aplicativos:

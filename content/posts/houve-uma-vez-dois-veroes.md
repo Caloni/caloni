@@ -1,5 +1,4 @@
 ---
-categories: [ "draft" ]
 date: "2020-08-31"
 link: "https://www.imdb.com/title/tt0322629"
 tags: [ "draft" ]

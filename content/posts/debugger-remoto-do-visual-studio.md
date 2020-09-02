@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2017-06-13"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Debugger remoto do Visual Studio"
 ---
 Então você está quebrando a cabeça para descobrir por que seu código não faz o que deveria fazer? Então você é desses que acha que é melhor ficar imaginando com um bloquinho de papel na mão do que colocar logo a mão na massa e ver exatamente o código passando pelo processador? Talvez você mude de ideia ao ver como é ridiculamente fácil depurar código em uma máquina remota, seja uma VM ou a máquina do cliente. Neste post vou ensinar a maneira mais antiga e a mais nova que conheço de usar o depurador do Visual Studio. Vamos usar a versão 2003 e a versão 2017 RC.

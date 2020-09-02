@@ -1,7 +1,6 @@
 ---
-categories: [ "code" ]
 date: "2016-04-10"
-tags: [ "draft",  ]
+tags: [ "code", "draft",  ]
 title: "Testando sistema de postagem"
 ---
 Bom, depois de criar um script para basicamente apenas escrever o texto dos filmes que assisto e buscar uma imagem agradável para meu finado blogue de Cinema, o próximo passo foi portar esse mesmo método para meus dois outros blogues: o da minha empresa, a BitForge e esse aqui. O processo envolve algo a mais: buscar as imagens usadas (que muitas vezes não é só uma). Porém, nada mais que isso.
