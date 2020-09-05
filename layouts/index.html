@@ -9,7 +9,7 @@
     {{ partial "section_begin.html" . }}
     {{ partial "lists.html" . }}
     {{ partial "list_begin.html" . }}
-    {{ range first 10 .Site.RegularPages }}
+    {{ range first .Site.Params.homePosts .Site.RegularPages }}
         <tr><td>
         <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
         <b><a href="{{ .Permalink }}">{{ .Title }}</a></b>
