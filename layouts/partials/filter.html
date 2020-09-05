@@ -1,4 +1,6 @@
-<div style="padding-bottom: 1em;"></div>
-<input type="text" name="filter" value="" id="filter" placeholder="filter" style="width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;" title=""/></br>
-<button id="filterbutton" style="font-size: 1.5rem;" onclick="ApplyFilter($('#filter').val());">filter</button>
-<button id="randombutton" style="font-size: 1.5rem;" onclick="window.location = randomPost;">random</button>
+{{ if ge (len .Pages) $.Site.Params.showFilterAfter }}
+  <div style="padding-bottom: 1em;"></div>
+  <input type="text" name="filter" value="" id="filter" placeholder="filter" style="width: 100%; font-size: 1.5rem; margin-top: 1em; margin-bottom: 0.5em;" title=""/></br>
+  <button id="filterbutton" style="font-size: 1.5rem;" onclick="ApplyFilter($('#filter').val());">filter</button>
+  <button id="randombutton" style="font-size: 1.5rem;" onclick="window.location = randomPost;">random</button>
+{{ end }}
