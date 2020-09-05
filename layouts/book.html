@@ -27,12 +27,14 @@
     </h2>
 
     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-      <h2 id="{{ $taxonomyname }}">{{ $taxonomyname | humanize }}</h2>
-      <ul>
-      {{ range $key, $value := $taxonomy }}
-        <li><a href="#{{ $taxonomyname }}-{{ $key }}">{{ $key | humanize }}({{ len $value }})</a></li>
+      {{ if gt (len $taxonomy) 0 }}
+        <h2 id="{{ $taxonomyname }}">{{ $taxonomyname | humanize }}</h2>
+        <ul>
+        {{ range $key, $value := $taxonomy }}
+          <li><a href="#{{ $taxonomyname }}-{{ $key }}">{{ $key | humanize }}({{ len $value }})</a></li>
+        {{ end }}
+        </ul>
       {{ end }}
-      </ul>
     {{ end }}
 
     <h2><a href="#text">Posts</a></h2>
