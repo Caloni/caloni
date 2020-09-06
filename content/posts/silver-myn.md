@@ -1,7 +1,7 @@
 ---
 date: "2020-08-04"
 link: "https://vinhos.sociedadedamesa.com.br/silver-myn-2016-10afrsm1806002/p"
-tags: [ "blog", "wine" ]
+tags: [ "wine" ]
 title: "Silver Myn"
 ---
 Há anos não comprava vinhos da Sociedade da Mesa. Minhas viagens para Argentina bastavam para encher a adega. Mas, suspensas essas aventuras, adquiri algumas garrafas do clube, e entre veio duas desse vinho francês de Bordeaux, o Silver Myn 2016, que é uma mistura de várias uvas da região de Gironde: Merlot, Cabernet Sauvignon, Cabernet Franc, Petit Verdot e Malbec. Dessa mistura vem uma sensação mista entre frescor e tradição.

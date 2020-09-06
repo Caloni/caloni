@@ -1,6 +1,6 @@
 ---
 date: "2017-03-14"
-tags: [ "blog", "draft", "books" ]
+tags: [ "draft", "books" ]
 title: "Mastery: The Keys to Success and Long-Term Fulfillment"
 ---
 O livro de George Leonard é um curto e didático passeio através dos mistérios que tornam o ser humano cada vez mais habituado ao seu "eudaimonia" aristotélico, ou seja, o estado de plenitude do ser que está ao alcance de todos que se derem a liberdade da melhora contínua em qualquer coisa que fizermos nesse mundo.

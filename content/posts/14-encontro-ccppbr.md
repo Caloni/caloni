@@ -1,6 +1,6 @@
 ---
 date: "2019-04-19"
-tags: [ "blog", "ccppbr" ]
+tags: [ "ccppbr" ]
 title: "Décimo-Quarto Encontro CCPP42BR"
 ---
 Foi definido recentemente no nosso grupo de Telegram que nosso próximo encontro será realizado na cidade de São Paulo no dia 6 de julho de 2019. Como nossa última tentativa falhou miseravelmente por falta de inscrições suficientes estaremos iniciando a organização primeiro pelas incrições, e, havendo quórum, será feita alocação de sala(s) e coffee-break. Em paralelo iniciaremos o call for papers, onde você é convidado a palestrar em nosso encontro.

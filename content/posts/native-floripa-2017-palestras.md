@@ -1,6 +1,6 @@
 ---
 date: "2017-02-09"
-tags: [ "blog", "draft", "events" ]
+tags: [ "draft", "events" ]
 title: "Native Floripa 2017: Palestras"
 ---
 Já está disponível na grade de palestras do Native Floripa 2017 o conteúdo que será ministrado nos dois dias do final de semana dias 18 e 19 de março de 2017 em Florianópolis, na Associação Catarinense de Empresas de Tecnologia (Rodovia SC 401, Km 4, Bairro Saco Grande, Florianópolis, SC, CEP 88032-000, Telefone (48) 2107-2700). As palestras englobam trabalhos acadêmicos, teoria da computação, demonstração de bibliotecas e práticas comuns no dia-a-dia, treinamentos em engenharia reversa, embarcados e internet das coisas, e toda coleção de linguagens bizarras que você poderá conhecer. Ah, e moedas digitais (eu! eu!) =)

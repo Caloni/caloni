@@ -1,6 +1,6 @@
 ---
 date: "2018-12-30"
-tags: [ "blog", "draft", "books" ]
+tags: [ "draft", "books" ]
 title: "12 Regras Para a Vida, por Jordan Peterson"
 ---
 12 Regras para a Vida, como o nome indica, é um livro de auto-ajuda, mas diferente do que você poderia esperar. Livros de auto-ajuda que usam o exemplo de vida do autor servem como guia apenas para... er... o autor. Já o livro do psicólogo/filósofo Jordan Peterson utiliza a sabedoria das narrativas antigas, dos usos e costumes das sociedades, aliado ao que a ciência já descobriu sobre nossa espécie para chegar a um denominador comum de quais são as regras mais valiosas para se viver uma vida significativa. Ah, sim, Peterson está menos preocupado com viver feliz do que viver com significado. "Precisamos de regras; quaisquer regras". Esse livro é a tentativa de elencar as melhores.

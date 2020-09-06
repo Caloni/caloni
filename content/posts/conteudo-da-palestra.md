@@ -1,6 +1,6 @@
 ---
 date: "2012-03-11"
-tags: [ "blog", "draft", "ccppbr" ]
+tags: [ "draft", "ccppbr" ]
 title: "Conteúdo da Palestra"
 ---
 Uma nuvem mágica...

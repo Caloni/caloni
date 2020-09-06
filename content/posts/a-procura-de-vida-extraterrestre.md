@@ -1,6 +1,6 @@
 ---
 date: "2009-07-20"
-tags: [ "blog", "philosophy" ]
+tags: [ "philosophy" ]
 title: "À procura de vida extraterrestre"
 ---
 Faz uns bons dez anos que eu instalei pela primeira vez em meu Pentium 133 MHz o seti@home, um programinha que se propunha a localizar vida extraterrena através de emissões de rádio capturadas pelas nossas potentes antenas de Arecibo. Ele dizia fazer isso durante o tempo ocioso do meu processador. Como eu sou uma pessoa que costuma costumava confiar bastante nas pessoas, além de ser fã incondicional do filme Contato, instalei sem medo.

@@ -1,7 +1,7 @@
 ---
 author: "Wanderley Caloni"
 date: "2017-04-24"
-tags: [ "blog", "draft", "books" ]
+tags: [ "draft", "books" ]
 title: "Como publicar um livro na Amazon"
 ---
 Estou finalizando essa semana a publicação do meu primeiro livro. Não, não é sobre programação, mas sobre Cinema. Mais de 1500 páginas sobre Cinema. Isso está acontecendo porque eu resolvi testar a possibilidade de publicar facilmente alguma coisa na Amazon baseado em um blog feito através de Jekyll (uma linguagem de marcação simples e um punhado de arquivos markdown). E, guess what? Funciona, é simples e relativamente descomplicado. Eis o caminho das pedras.

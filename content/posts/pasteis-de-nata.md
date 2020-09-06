@@ -1,6 +1,6 @@
 ---
 date: "2019-06-23"
-tags: [ "blog", "draft", "food", "recipes" ]
+tags: [ "draft", "food", "recipes" ]
 title: "Receita: Pastéis de Nata"
 ---
 Quantidade: 10 a 12 unidades

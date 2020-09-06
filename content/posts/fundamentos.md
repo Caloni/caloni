@@ -1,6 +1,6 @@
 ---
 date: "2015-10-21"
-tags: [ "blog", "draft", "essays" ]
+tags: [ "draft", "essays" ]
 title: "Fundamentos"
 ---
 Um amigo meu costumava dizer que qualquer conhecimento precisa ter bases sólidas. "Os fundamentos", dizia ele. Sem os fundamentos, o prédio do conhecimento vai abaixo em pouco tempo. Mas com eles, construídos de cimento armado, reforçados e com alicerces bem planejados, não há informação demais suficiente para abalar o prédio do conhecimento.

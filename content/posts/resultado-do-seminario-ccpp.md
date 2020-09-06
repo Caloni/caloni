@@ -1,6 +1,6 @@
 ---
 date: "2008-06-03"
-tags: [ "blog", "draft", "essays" ]
+tags: [ "draft", "essays" ]
 title: "Resultado do Seminário CCPP"
 ---
 Aconteceu nesse fim-de-semana, como era previsto, o nosso primeiro Seminário CCPP Brasil, com direito a pessoas de todas as idades e origens, mas todas com algo em comum: a paixão e o interesse pelas linguagens-mestre do mundo da programação.

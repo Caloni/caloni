@@ -1,6 +1,6 @@
 ---
 date: "2016-01-28"
-tags: [ "blog", "draft", "essays" ]
+tags: [ "draft", "essays" ]
 title: "Não Atualize seu Sistema"
 ---
 De quem é o interesse que você atualize constantemente seu sistema? Muito provavelmente não é seu. Sistemas -- operacionais ou não -- costumam ser escritos por programadores, que não fogem muito do que você conhece como ciclo de desenvolvimento, o que quer dizer que o sistema que atualiza sempre estará sempre testando suas novas features no seu dispositivo (computador, celular, tablet), verificando as mais nova correções e, claro, lhe fornecendo o que há de mais novo e mais difícil de contornar no que diz respeito a bugs, já que quase não haverá páginas no Stack Overflow te dizendo o que fazer sobre o bug que foi instalado em todas as máquinas do mundo há cinco minutos. Muito menos páginas descrevendo o SEU problema específico, com o SEU driver específico e hardware específico. Sim, Windows, eu estou falando com você.

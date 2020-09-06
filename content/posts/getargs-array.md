@@ -1,7 +1,7 @@
 ---
 date: "2020-08-04"
 link: "https://gist.github.com/Caloni/1e449591020d636b2cc41fb53245d783"
-tags: [ "blog", "ccpp", "work" ]
+tags: [ "ccpp", "work" ]
 title: "GetArgs v. Array"
 ---
 Algumas pessoas ficam chateadas quando não se programa usando Boost para tudo. E por isso eu continuo escrevendo código simples e funcional para meu blogue. Esse código vai continuar funcionando por mais cem anos e o código da Boost vai explodir antes que seus filhos nasçam.

@@ -1,6 +1,6 @@
 ---
 date: "2010-07-26"
-tags: [ "blog", "draft", "ccppbr" ]
+tags: [ "draft", "ccppbr" ]
 title: "Sétimo Encontro de Programadores C++"
 ---
 Mais um fim-de-semana no ócio e na vadiagem. Tenho que manter minhas qualidades de bom programador que sou: preguiçoso, impaciente e pretensioso.

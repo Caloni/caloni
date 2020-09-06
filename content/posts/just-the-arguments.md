@@ -1,6 +1,6 @@
 ---
 date: "2018-02-27"
-tags: [ "blog", "draft", "reading" ]
+tags: [ "draft", "reading" ]
 title: "Just the Arguments"
 ---
 Just The Arguments, como o próprio nome diz, explora apenas os argumentos dos debates filosóficos mais relevantes na história da Filosofia, e também tenta na contemporaneidade se manter neutro ou equilibrado (como se isso fosse possível).

@@ -1,6 +1,6 @@
 ---
 date: "2008-03-29"
-tags: [ "blog", "draft", "ccppbr" ]
+tags: [ "draft", "ccppbr" ]
 title: "Quarto encontro C++"
 ---
 Para os desavisados de plantão, irá acontecer no dia 29 de março de 2008 o quarto encontro de programadores e aficionados C++. Mais detalhes no link anterior. Em suma, as palestras são estas:

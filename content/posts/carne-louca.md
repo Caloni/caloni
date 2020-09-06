@@ -1,6 +1,6 @@
 ---
 date: "2018-09-28"
-tags: [ "blog", "draft", "food", "recipes" ]
+tags: [ "draft", "food", "recipes" ]
 title: "Receita: Carne Louca"
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: "2020-06-27"
 link: "https://gist.github.com/Caloni/4d5f81365a01ef9567d5d4e077403d70"
-tags: [ "blog", "projects" ]
+tags: [ "projects" ]
 title: "Pgn2art"
 ---
 Meu sonho de consumo para acompanhar partidas de xadrez é às cegas, apenas lendo ou ouvindo o próximo lance e imaginando em minha cabeça o tabuleiro. Porém, enquanto não tenho essa habilidade, um meio-termo aceitável é ver um tabuleiro em ascii art se modificando a cada lance. É possível acompanhar uma partida dessa forma como se estivesse lendo um livro, e por isso esse formato é prático, também, pois posso jogar esse ascii art no meu Kindle.

@@ -1,6 +1,6 @@
 ---
 date: "2019-05-20"
-tags: [ "blog", "draft", "fun" ]
+tags: [ "draft", "fun" ]
 title: "Dixit (Jogo)"
 ---
 Uma festa com karaokê e jogos de mesa. O que pode surgir de interessante em um cenário millenial como esse? Um jogo de cartas que em sua simplicidade revela um intrincado sistema que soluciona todos os problemas que outros jogos de mesa costumam ter.

@@ -1,6 +1,6 @@
 ---
 date: "2017-03-21"
-tags: [ "blog", "draft", "events" ]
+tags: [ "draft", "events" ]
 title: "NativeFloripa 2017: Impressões"
 ---
 A despeito de poucas pessoas envolvidas na organização, o primeiro evento no estilo Encontro CCPPBrasil (sem ser um encontro CCPPBrasil) foi um grande sucesso. Houve um nível de palestras razoável com um público idem. Houve também uma maior participação das pessoas, com perguntas e às vezes quase um debate. Houve café no coffee break, mas mais importante: houve chope artesanal no Happy Hour. E por causa disso não há comparativos com encontros C++ de Sampa e Rio =).

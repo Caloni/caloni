@@ -1,6 +1,6 @@
 ---
 date: "2014-07-30"
-tags: [ "blog", "draft", "essays" ]
+tags: [ "draft", "essays" ]
 title: "Vestindo a Camisa da Minha Empresa"
 ---
 Pois é, o tempo passou, e desde 2011 eu passei mais de três anos nessa minha nova empreitada no Mercado Financeiro. Bom, tudo que é bom acaba, para começar algo melhor ainda. No caso da minha experiência com a EzMarket (hoje UOL/Diveo Broker) foi algo quase que surreal trabalhar em um ambiente tão formidável com pessoas mais formidáveis ainda, tanto pessoalmente quanto tecnicamente. Aprendi muito sobre análise de risco e um tanto sobre conexões e protocolos de rede, e mais ainda sobre serialização e desempenho. Tive momentos prazerosos em reuniões de definição de arquitetura, (poucas) madrugadas de debugging e testes no cliente, (muitas) idas ao café da esquina para um ótimo papo e vários outros momentos que não me lembro agora, mas que não me arrependarei jamais, e sempre sentirei saudades.

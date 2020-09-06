@@ -1,6 +1,6 @@
 ---
 date: "2019-12-11"
-tags: [ "blog", "draft", "food", "recipes" ]
+tags: [ "draft", "food", "recipes" ]
 title: "Receita: Panetone"
 ---
 

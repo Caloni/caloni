@@ -1,6 +1,6 @@
 ---
 date: "2017-09-12"
-tags: [ "blog", "draft", "essays" ]
+tags: [ "draft", "essays" ]
 title: "Escopo Fechado: Receita De Fracasso"
 ---
 Quando questionado por clientes se haveria uma forma de fechar o escopo de um projeto maior que 20 horas, dessa forma limitando a interação em uma entrega única já com os requisitos definidos por ele, geralmente nossa resposta é: "isso nunca vai funcionar; ou se funcionar, vai sair bem caro".

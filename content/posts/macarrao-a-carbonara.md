@@ -1,6 +1,6 @@
 ---
 date: "2020-04-05"
-tags: [ "blog", "draft", "food", "recipes" ]
+tags: [ "draft", "food", "recipes" ]
 title: "Receita: Macarrão a Carbonara"
 ---
 Essa receita foi inventada por um solteiro na Itália, e é muito útil para solteiros no mundo todo. Se for em um restaurante italiano pela primeira vez, siga o conselho do meu amigo, que sempre pede uma Carbonara. Com bacon, queijo, ovos e macarrão na receita, para o restaurante errar essa receita ele terá que ser muito ruim.

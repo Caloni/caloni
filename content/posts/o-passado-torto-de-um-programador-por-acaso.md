@@ -1,6 +1,6 @@
 ---
 date: "2007-09-06"
-tags: [ "blog", "draft", "essays" ]
+tags: [ "draft", "essays" ]
 title: "O passado torto de um programador por acaso"
 ---
 Obs.: este é um artigo não-técnico, o que quer dizer que você pode se deparar com termos desconhecidos. Procure ter à mão um dicionário de pessoas comuns.

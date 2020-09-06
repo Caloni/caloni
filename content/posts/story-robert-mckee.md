@@ -1,6 +1,6 @@
 ---
 date: "2019-09-08"
-tags: [ "blog", "draft", "books" ]
+tags: [ "draft", "books" ]
 title: "Story, by Robert McKee"
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: "2019-06-23"
-tags: [ "blog", "draft", "food", "recipes" ]
+tags: [ "draft", "food", "recipes" ]
 title: "Receita: Pão de Queijo Mineiro"
 ---
 Quantidade: 4 formas, pode congelar

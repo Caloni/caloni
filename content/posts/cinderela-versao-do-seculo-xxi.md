@@ -1,7 +1,7 @@
 ---
 date: "2020-06-21"
 link: "https://gist.githubusercontent.com/Caloni/7ba7f358b032ed9226855e37819d893a/raw/c3f066601fb2f3280f012ed24d974cf221183ee2/cinderela-versao-do-seculo-xxi.txt"
-tags: [ "blog", "books" ]
+tags: [ "books" ]
 title: "Cinderela: Versão do Século XXI"
 ---
 Este livro é um respiro de ar fresco em meio a uma sociedade que vem apodrecendo em ritmo crescente. Ele fala sobre valores e moral. Sobre a dureza das conquistas. Sobre valorizar os que vieram antes de nós. E em termos compaixão antes de pena.

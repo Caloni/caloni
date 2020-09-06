@@ -1,7 +1,7 @@
 ---
 date: "2020-08-04"
 link: "http://www.loretto.com.br/"
-tags: [ "blog", "coffee" ]
+tags: [ "coffee" ]
 title: "Loretto"
 ---
 Os cafés da Loretto se dividem em três tipos: Bourbon, Espresso e o Gourmet. Bourbon é o mais doce deles, com um sabor mais presente que o aroma. Bom, talvez nenhum desses cafés seja lembrado pelo aroma, e parte disso é por causa do sistema de vendas deles nem sempre entregarem os grãos mais frescos ou melhores torrados. Este é um café de exportação e com o mercado agitado fica difícil reter talentos.

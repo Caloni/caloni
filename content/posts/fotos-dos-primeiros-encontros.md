@@ -1,6 +1,6 @@
 ---
 date: "2016-06-07"
-tags: [ "blog", "draft", "ccppbr" ]
+tags: [ "draft", "ccppbr" ]
 title: "Fotos dos primeiros encontros"
 ---
 Essas fotos já estavam disponíveis no Picasa do Alberto Fabiano, organizador-catalisador de todos os encontros (Rodrigo Strauss fundou e organizou os primeiros dois encontros; a partir do terceiro rolaram várias conexões, inclusive com o pessoal do Rio).

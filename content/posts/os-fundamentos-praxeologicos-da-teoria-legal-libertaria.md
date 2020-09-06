@@ -1,6 +1,6 @@
 ---
 date: "2017-05-28"
-tags: [ "blog", "draft", "reading", "philosophy" ]
+tags: [ "draft", "reading", "philosophy" ]
 title: "Os fundamentos praxeológicos da Teoria Legal Libertária"
 ---
 Em essência, a ética libertária não ambiciona buscar o que é certo, mas em determinar o que com certeza não pode ser justificado. Este meu artigo cita alguns pontos vitais do artigo de Lacombi Lauss.
