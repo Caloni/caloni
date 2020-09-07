@@ -1,5 +1,5 @@
 ---
-date: "2020-07-12"
+date: "2020-09-07"
 link: "/text/flow.txt"
 tags: [ "draft" ]
 title: "Flow: The Psychology of Optimal Experience"
