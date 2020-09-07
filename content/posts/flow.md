@@ -6,7 +6,7 @@ title: "Flow: The Psychology of Optimal Experience"
 ---
 Este é um dos livros mais importantes que já li e acredito que pode ser muito importante para você também. Por isso quero dedicar algumas linhas para argumentar por que você deve lê-lo, ainda que ele seja denso demais para a maioria das pessoas.
 
-> Rather than presenting...
+> "Rather than presenting a list of dos and don'ts, this book intends to be a voyage through the realms of the mind, charted with the tools of science. Like all adventures worth having it will not be an easy one. Without some intellectual effort, a commitment to reflect and think hard about your own experience, you will not gain much from what follows."
 
 Baseado na pesquisa científica conduzida nos anos 90 pelo psicólogo Mihaly Csikszentmihalyi, o intuito era descobrir o que torna as pessoas felizes. Os resultados são descritos em uma explicação loquaz, densa, filosófica e quase inalcançável. Há tantas notas de rodapé que elas constituem um grande capítulo à parte no final, nos direcionando de maneira enfática para outras obras onde essa questão é explorada em mais detalhes. Nada mais justo, pois a felicidade é tema desde sempre para toda a humanidade. Portanto, há muito material prévio, começando por Aristóteles.
 
