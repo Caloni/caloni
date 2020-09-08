@@ -1,3 +1,5 @@
-{{ with .Params.link }} <a href="{{ . }}">{{ end }}
-<p class="title">{{ .Title }}</p>
+<p class="title">
+{{ with .Params.link }} <a class="external" href="{{ . }}">{{ end }}
+{{ .Title }}
 {{ with .Params.link }}</a>{{ end }}
+</p>
