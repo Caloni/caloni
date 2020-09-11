@@ -11,8 +11,11 @@ copyright = "Copyright é invenção do capitalismo burguês opressor. Todos os 
     googleAnalytics = "UA-50557403-2"
     namespace = "caloni"
     author = "Wanderley Caloni"
-    homePosts = 7
     showFilterAfter = 20
+
+[params.home]
+    postsCount = 7
+    tags = [ "code" ]
 
 [params.external]
 
