@@ -101,4 +101,4 @@ Já programei para interfaces mobile do finado Windows Phone e para o Android. P
 
 Venho mantendo as soluções de baixo nível da Intelitrader, principalmente as que envolvem market data, pois o fluxo de dados nesses sistemas é absurdamente alto em tempos de crise. Ou seja, atualmente, todo o tempo.
 
-> Não basta saber: temos que aplicar. Não basta querer: temos que fazer. Goethe
+> "Não basta saber: temos que aplicar. Não basta querer: temos que fazer." Goethe
