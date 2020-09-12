@@ -40,4 +40,4 @@ O que estava acontecendo nesse caso para o boot estar intermitente era que, como
 Descrevendo a descoberta desse bug hoje, doze anos após o ocorrido, ainda não entendo como consegui descobri-lo. Porém, ele exigiu tanta concentração que me lembro com um prazer indescritível de ter sido capaz de fazê-lo. Todo o tempo despendido se tornou uma marca de felicidade em minha memória, gravada em meu HD temporário desta vida. Lembrarei desses momentos com carinho, e como ela está criptografada também, entenderei que em alguns momentos ela irá soar amarga, mas em vários outros irei ter certeza de ter sido um feito e tanto para um ser humano entender uma máquina em seus detalhes mais obscuros. Esta é a verdadeira felicidade da profissão.
 
 [Matrix]: /matrix
-[commit que gloriosamente assinei]: /code/o-bug-mais-bizarro-que-ja-resolvi.patch
+[commit que gloriosamente assinei]: /code/o-bug-mais-bizarro-que-ja-resolvi.patch.txt
