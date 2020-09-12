@@ -7,17 +7,18 @@
         {{- if (fileExists (print "/static" .Site.Data.defaults.icons.brand)) }}
         <img alt="Brand" src="{{ .Site.Data.defaults.icons.brand }}">
         {{- end }}
+        &nbsp;
         {{- if .IsHome }}
         <a class="navbar-item" title="Who is this?" href="/about">
-            <div class="is-4">&nbsp;{{ .Site.Title }}</div>
+            <div class="is-4">{{ .Site.Title }}</div>
         </a>
         {{- else if .IsPage }}
         <a class="navbar-item" title="Go to Home" href="/">
-            <div class="is-6">&nbsp;{{ .Site.Title }}</div>
+            <div class="is-6">{{ .Site.Title }}</div>
         </a>
         {{- else }}
         <a class="navbar-item" title="Go to Home" href="/">
-            <div class="is-6">&nbsp;{{ .Site.Params.Namespace }}::{{ lower .Title }}</div>
+            <div class="is-6">{{ .Site.Params.Namespace }}::{{ lower .Title }}</div>
         </a>
         {{- end }}
     </div>

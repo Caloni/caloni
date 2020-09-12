@@ -14,7 +14,7 @@
         <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
         <b><a href="{{ .Permalink }}">{{ .Title }}</a></b>
         <i>{{ range .Params.categories }}<a style="color: gray;" href="/categories/{{ . | urlize }}">{{ printf "%s%s" " " . }}</a>{{ end }}</i>
-        <i>{{ range .Params.tags }}<a style="color: gray;" href="/tags/{{ . | urlize }}">{{ printf "%s%s" " " . }}</a>{{ end }}</i>
+        <i>{{ range .Params.tags }} <a style="color: gray;" href="/tags/{{ . | urlize }}">{{ . }}</a>{{ end }}</i>
         </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
