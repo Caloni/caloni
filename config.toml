@@ -2,6 +2,7 @@ baseURL = "http://www.caloni.com.br/"
 languageCode = "pt-br"
 title = "Blogue do Caloni"
 copyright = ""
+disableKinds = [ "sitemap" ]
 
 [permalinks]
     posts = "/:filename/"
