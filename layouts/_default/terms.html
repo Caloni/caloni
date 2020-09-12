@@ -8,6 +8,7 @@
     {{ partial "navbar.html" . }}
     {{ partial "section_begin.html" . }}
     {{ partial "categories.html" . }}
+    {{ partial "filter.html" . }}
     {{ partial "list_begin.html" . }}
 
     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
