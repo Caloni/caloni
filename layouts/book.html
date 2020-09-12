@@ -11,7 +11,7 @@
       <h3 style="page-break-before: always" id="{{ .File.ContentBaseName }}">{{ .Title }}</h3>
       {{ if .Date.After (time "2001-01-01")}}
         {{ if in .Params.tags "draft" }}
-          Este é um rascunho e está sujeito a mudanças.
+          <i>Este é um rascunho e está sujeito a mudanças.</i>
         {{ else }}
           {{ $.Site.Params.author }}, {{ .Date.Format "2006-01-02" }}
         {{ end }}
