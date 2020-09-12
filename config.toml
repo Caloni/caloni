@@ -1,7 +1,7 @@
 baseURL = "http://www.caloni.com.br/"
 languageCode = "pt-br"
 title = "Blogue do Caloni"
-copyright = "Copyright é invenção do capitalismo burguês opressor. Todos os direitos não serão reservados."
+copyright = ""
 
 [permalinks]
     posts = "/:filename/"
