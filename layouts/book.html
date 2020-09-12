@@ -13,7 +13,7 @@
         {{ if in .Params.tags "draft" }}
           <i>Este é um rascunho e está sujeito a mudanças.</i>
         {{ else }}
-          {{ $.Site.Params.author }}, {{ .Date.Format "2006-01-02" }}
+          <i>{{ $.Site.Params.author }}, {{ .Date.Format "2006-01-02" }}</i>
         {{ end }}
       {{ end }}
       {{ .Content }}
