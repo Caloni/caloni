@@ -8,7 +8,7 @@
 
     <h2 id="text" style="page-break-before: always;">E Deus disse: 'int main() {}'. E pronto: surgiu o primeiro erro de compilação...</h2>
     {{ range .Site.RegularPages.ByDate }}
-      <h3 style="page-break-before: always" id="{{ .File.ContentBaseName }}">{{ .Title }}</h3>
+      <h3 class="title" style="page-break-before: always" id="{{ .File.ContentBaseName }}">{{ .Title }}</h3>
       {{ if .Date.After (time "2001-01-01")}}
         {{ if in .Params.tags "draft" }}
           <i>Este é um rascunho e está sujeito a mudanças.</i>
