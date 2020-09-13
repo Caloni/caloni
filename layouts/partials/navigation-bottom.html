@@ -1,2 +1,2 @@
-{{ with .PrevInSection }}<span style="float: right;"><a href="{{ .Permalink }}">{{ .Title }} &#x25B7;</a></span>{{ end }}
-{{ with .NextInSection }}<span style="float: left;"><a href="{{ .Permalink }}">&#x25C1; {{ .Title }}</a></span>{{ end }}
+{{ with .NextInSection }}<span class="next-in-section"><a href="{{ .Permalink }}">&#x25C1; {{ .Title }}</a></span>{{ end }}
+{{ with .PrevInSection }}<span class="prev-in-section"><a href="{{ .Permalink }}">&#x25B7; {{ .Title }}</a></span>{{ end }}
