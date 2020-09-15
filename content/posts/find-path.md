@@ -1,7 +1,7 @@
 ---
 date: "2020-07-01"
 link: "https://vcpkg.readthedocs.io/en/latest/examples/installing-and-using-packages/"
-tags: [ "code", "work" ]
+tags: [ "blog", "tools", "work" ]
 title: "Find Path ou Por Que O Vcpkg Não Colocou o Path da Minha Biblioteca?"
 ---
 Algumas bibliotecas portadas para o vcpkg, gerenciador de pacotes direto do fonte da Microsoft, não vêm exatamente como esperamos que elas venham em ambientes mais estáveis como UNIX-like. A GLib, por exemplo, uma biblioteca fenomenal se você deseja trabalhar com um framework puramente em C, está disponível pelo vcpkg através do pacote glib, mas vem encapsulado no namespace unofficial::glib::glib. Isso ocorre porque este não é um port oficial.

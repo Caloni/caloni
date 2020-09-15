@@ -1,7 +1,7 @@
 ---
 date: "2020-06-21"
 link: "https://en.cppreference.com/w/cpp/language/coroutines"
-tags: [ "code", "essays", "ccpp" ]
+tags: [ "blog", "ccpp" ]
 title: "C++ Co Routines"
 ---
 Entre os gêneros mais famosos do cinema e da programação está o terror, esse estado mental que se caracteriza pelo medo ou pela aversão a uma situação que envolve a perda de controle. Nesse quesito se encaixam as novas corrotinas que serão adotadas pelo padrão C++.

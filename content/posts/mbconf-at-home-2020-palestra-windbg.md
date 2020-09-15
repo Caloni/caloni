@@ -1,7 +1,7 @@
 ---
 date: "2020-04-18"
-tags: [ "code", "draft", "events", "tools", "reversing" ]
-title: "Minha palestra sobre Windbg"
+tags: [ "blog", "draft", "events" ]
+title: "Minha Palestra Sobre Windbg"
 ---
 A MBConf@Home2020 foi um sucesso. Parabéns aos organizadores, palestrantes e apoiadores. Eu nunca fui em um evento de tecnologia em que tudo funcionou do começo ao fim. Simplesmente fantástico o nível de qualidade da organização. Fora que trezentas pessoas ficaram em casa e participaram conosco dessa troca de conhecimento =).
 
@@ -25,7 +25,6 @@ Não. Para depurar a BIOS local há o caminho do debug.com (um depurador bem sim
 Já para debug de BIOS em rede. Bem... esse é um nível hackudo. Sei que a Intel tem desenvolvido chips para diagnóstico e obtenção de dados de hardware pela rede antes mesmo do SO estar ligado, mas não cheguei a pesquisar a fundo.
 
 Sim. Como o Mercês me ajudou a lembrar, existe um rundll32.exe, um executável que já vem no Windows e que pode carregar a DLL para você. Daí tudo que você precisa fazer é colocar o breakpoint das funções exportadas que deseja chamar. Dá para especificar essas funções pelo rundll32.exe também:
-
 
 
 Recomendo sempre o WinDbg.info como cheat sheet e docs.microsoft.com em seus artigos "Getting Started with WinDbg (User-Mode)" e "Getting Started with WinDbg (Kernel-Mode)" (sorry, m$, vcs mudam os links demais para eu colocar aqui).

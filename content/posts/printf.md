@@ -1,7 +1,7 @@
 ---
 date: "2020-06-18"
 link: "https://gist.github.com/Caloni/dd1429495c835a27ece61523e939ec7f"
-tags: [ "code", "ccpp" ]
+tags: [ "blog", "ccpp" ]
 title: "Printf"
 ---
 Entre os segredos escondidos das funções básicas da lib padrão da linguagem C o printf e o scanf lideram o ranking. O printf possui a capacidade de alinhamento de colunas das string impressas com tamanho variável. Sabia disso? Pois é, isso não se ensina nas escolas.
