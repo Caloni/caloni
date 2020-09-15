@@ -2231,40 +2231,6 @@ aquisicao-de-recurso-e-inicializacao.md:
 aquisicao-de-recurso-e-inicializacao.md:    	return 0;
 aquisicao-de-recurso-e-inicializacao.md:    } 
 aquisicao-de-recurso-e-inicializacao.md:    
-awk.md:    # comment
-awk.md:    Pattern1 { ACTIONS; }
-awk.md:    
-awk.md:    # comment
-awk.md:    Pattern2 { ACTIONS; }
-awk.md:    
-awk.md:    # comment
-awk.md:    Pattern3 { ACTIONS; }
-awk.md:    
-awk.md:    # comment
-awk.md:    Pattern4 { ACTIONS; }
-awk.md:    BEGIN { # Can be modified by the user
-awk.md:      FS = ",";   # Field Separator
-awk.md:      RS = "\n";  # Record Separator (lines)
-awk.md:      OFS = " ";  # Output Field Separator
-awk.md:      ORS = "\n"; # Output Record Separator (lines)
-awk.md:    }
-awk.md:    { # Can't be modified by the user
-awk.md:      NF          # Number of Fields in the current Record (line)
-awk.md:      NR          # Number of Records seen so far
-awk.md:      ARGV / ARGC # Script Arguments
-awk.md:    }
-awk.md:    { print $0; }  # prints $0. In this case, equivalent to 'print' alone
-awk.md:    { exit; }      # ends the program
-awk.md:    { next; }      # skips to the next line of input
-awk.md:    { a=$1; b=$0 } # variable assignment
-awk.md:    { c[$1] = $2 } # variable assignment (array)
-awk.md:    
-awk.md:    { if (BOOLEAN) { ACTION }
-awk.md:      else if (BOOLEAN) { ACTION }
-awk.md:      else { ACTION }
-awk.md:    }
-awk.md:    { for (i=1; i<x; i++) { ACTION } }
-awk.md:    { for (item in c) { ACTION } }
 backup-de-pobre.md:    
 backup-de-pobre.md:    xcopy origem [destino] [opções]
 backup-de-pobre.md:    
@@ -3715,23 +3681,6 @@ carregando-dlls-arbitrarias-pelo-windbg.md:    ModLoad: 6f880000 6fa4a000   C:WI
 carregando-dlls-arbitrarias-pelo-windbg.md:    ModLoad: 76b40000 76b6d000   C:WINDOWSsystem32WINMM.dll
 carregando-dlls-arbitrarias-pelo-windbg.md:    ModLoad: 774e0000 7761d000   C:WINDOWSsystem32ole32.dll
 carregando-dlls-arbitrarias-pelo-windbg.md:    ...
-cast-operator.md:    struct T 
-cast-operator.md:    {
-cast-operator.md:      explicit operator uint64_t()
-cast-operator.md:      {
-cast-operator.md:        return 10;
-cast-operator.md:      }
-cast-operator.md:    };
-cast-operator.md:    
-cast-operator.md:    int main()
-cast-operator.md:    {
-cast-operator.md:      T t;
-cast-operator.md:      t(); // error: term does not evaluate to a function taking 0 arguments
-cast-operator.md:      uint64_t i = (uint64_t) t; // i == 10
-cast-operator.md:    }
-cast-operator.md:      uint64_t i = t;
-cast-operator.md:      operator uint64_t(); // cast-operator
-cast-operator.md:      uint64_t operator (); // function-operator
 classe-objeto-contexto-metodo-polimorfismo.md:    ClasseCpp obj;
 classe-objeto-contexto-metodo-polimorfismo.md:    obj.Metodo(); // passando this implicitamente
 classe-objeto-contexto-metodo-polimorfismo.md:    
@@ -15890,86 +15839,6 @@ sizeof-de-novo.md:    static char aSimpleString[] = "A simple string";
 sizeof-de-novo.md:    ...
 sizeof-de-novo.md:    size_t len = sizeof(aSimpleString);
 sizeof-de-novo.md:    memcpy(buf, aSimpleString, len); // obs: dependente da implementação
-sobrecarga-de-funcao-as-avessas.md:    GUID guid;
-sobrecarga-de-funcao-as-avessas.md:    wstring guidS;
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:    CreateNewGUID(guidS); // chama void CreateNewGUID(wstring&)
-sobrecarga-de-funcao-as-avessas.md:    CreateNewGUID(guid); // chama void CreateNewGUID(GUID&) (o compilador sabe disso)
-sobrecarga-de-funcao-as-avessas.md:    // Codigo-fonte disponivel no GitHub https://github.com/Caloni/Caloni.com.br.
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:    GUID guid;
-sobrecarga-de-funcao-as-avessas.md:    wstring guidS;
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:    guidS = CreateNewGUID(); // chama wstring CreateNewGUID()
-sobrecarga-de-funcao-as-avessas.md:    guid = CreateNewGUID(); // chama GUID CreateNewGUID() (o compilador sabe disso?)
-sobrecarga-de-funcao-as-avessas.md:     
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:        error C2556: 'GUID CreateNewGUID(void)' :
-sobrecarga-de-funcao-as-avessas.md:        overloaded function differs only by return type from 'std::wstring CreateNewGUID(void)'
-sobrecarga-de-funcao-as-avessas.md:    struct CreateNewGUID
-sobrecarga-de-funcao-as-avessas.md:    {
-sobrecarga-de-funcao-as-avessas.md:       // o que vai aqui?
-sobrecarga-de-funcao-as-avessas.md:    }; 
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:    guidS = CreateNewGUID(); // instancia um CreateNewGUID
-sobrecarga-de-funcao-as-avessas.md:    guid = CreateNewGUID(); // instancia um CreateNewGUID. A diferença está no "retorno" 
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:    struct CreateNewGUID
-sobrecarga-de-funcao-as-avessas.md:    {
-sobrecarga-de-funcao-as-avessas.md:       operator wstring () { ... } // a conversão é a "chamada da função".
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:       operator GUID () { ... } // E como existem duas conversões... sobrecarga!
-sobrecarga-de-funcao-as-avessas.md:    }; 
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:    // instancia um CreateNewGUID e chama CreateNewGUID::operator wstring()
-sobrecarga-de-funcao-as-avessas.md:    guidS = CreateNewGUID();
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:    // instancia um CreateNewGUID e chama CreateNewGUID::operator GUID()
-sobrecarga-de-funcao-as-avessas.md:    guid = CreateNewGUID(); 
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:    #include <windows.h>
-sobrecarga-de-funcao-as-avessas.md:    #include <objbase.h>
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:    #include <iostream>
-sobrecarga-de-funcao-as-avessas.md:    #include <string>
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:    using namespace std;
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:    struct CreateNewGUID
-sobrecarga-de-funcao-as-avessas.md:    {
-sobrecarga-de-funcao-as-avessas.md:       operator wstring ()
-sobrecarga-de-funcao-as-avessas.md:       {
-sobrecarga-de-funcao-as-avessas.md:          GUID guid = operator GUID();
-sobrecarga-de-funcao-as-avessas.md:          OLECHAR buf[40] = { };
-sobrecarga-de-funcao-as-avessas.md:          ::StringFromGUID2(guid, buf, sizeof(buf));
-sobrecarga-de-funcao-as-avessas.md:          return wstring(buf);
-sobrecarga-de-funcao-as-avessas.md:       }
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:       operator GUID ()
-sobrecarga-de-funcao-as-avessas.md:       {
-sobrecarga-de-funcao-as-avessas.md:          GUID guid = { };
-sobrecarga-de-funcao-as-avessas.md:          ::CoCreateGuid(&guid);
-sobrecarga-de-funcao-as-avessas.md:          return guid;
-sobrecarga-de-funcao-as-avessas.md:       }
-sobrecarga-de-funcao-as-avessas.md:    };
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:    int _tmain(int argc, _TCHAR* argv[])
-sobrecarga-de-funcao-as-avessas.md:    {
-sobrecarga-de-funcao-as-avessas.md:       wstring guidS;
-sobrecarga-de-funcao-as-avessas.md:       GUID guid;
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:       // instancia um CreateNewGUID e chama CreateNewGUID::operator wstring()
-sobrecarga-de-funcao-as-avessas.md:       guidS = CreateNewGUID();
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:       // instancia um CreateNewGUID e chama CreateNewGUID::operator GUID()
-sobrecarga-de-funcao-as-avessas.md:       guid = CreateNewGUID();
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:       wcout << L"Pra nao dizer que esse exemplo nao imprime nada:\n"
-sobrecarga-de-funcao-as-avessas.md:             << guidS << L'\n';
-sobrecarga-de-funcao-as-avessas.md:    
-sobrecarga-de-funcao-as-avessas.md:       return 0;
-sobrecarga-de-funcao-as-avessas.md:    } 
-sobrecarga-de-funcao-as-avessas.md:    
 sqllocaldb.md:    C:\WINDOWS\system32>psexec -s cmd.exe
 sqllocaldb.md:    
 sqllocaldb.md:    PsExec v2.11 - Execute processes remotely
