@@ -1,9 +1,9 @@
 ---
 date: "2007-10-08"
-tags: [ "code", "draft",  ]
+tags: [ "draft", "windows" ]
 title: "História do Windows - parte 5.0"
 ---
-Em novembro de 1998 (apenas para parceiros Microsoft) é lançada a versão 5.0 do Windows NT, conhecida como Windows 2000. Melhorias significativas foram feitas no acesso à internet, intranet e extranet. Aplicações de gerenciamento se integram fortemente e a grande novidade em termos de estruturação de dados é o Active Directory, uma tecnologia compatível com o conceito de Distributed File System, que viabiliza uma nova forma das empresas organizarem seus dados de maneira mais transparente à rede.
+Em novembro de 1998 (apenas para parceiros Microsoft) é lançada a versão 5.0 do Windows NT, conhecida como Windows 2000. Melhorias significativas foram feitas no acesso à internet, intranet e extranet. Aplicações de gerenciamento se integram fortemente e a grande novidade em termos de estruturação de dados é o Active Directory, uma tecnologia compatível com o conceito de Distributed File System, que viabiliza uma nova forma das empresas organizarem seus dados de maneira mais transparente à rede. Assim começou a [História do Windows] para redes de gente grande.
 
 Vamos aproveitar que a versão NT foi melhorada para dar uma recapitulada geral de como as coisas funcionam internamente no sistema operacional.
 
@@ -41,6 +41,4 @@ A HAL é totalmente dependente de plataforma. Por causa disso, ela é totalmente
 
 A não ser que estejamos falando do Xbox, o hardware é feito por terceiros, como a Intel, a AMD e a NVIDIA, e é onde você instala o seu sistema operacional do coração para rodar seus aplicativos do coração. O bom de um sistema operacional do coração é que você não percebe sua existência quando está rodando seu jogo do coração. Pelo menos não deveria.
 
-	
-  * Outros artigos sobre a história do windows
-
+[História do Windows]: /historia-do-windows

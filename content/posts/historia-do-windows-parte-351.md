@@ -1,9 +1,9 @@
 ---
 date: "2007-08-07"
-tags: [ "code", "draft",  ]
+tags: [ "draft", "windows" ]
 title: "História do Windows - parte 3.51"
 ---
-Nos anos 90, a relação IBM/Microsoft era muito próxima por causa do desenvolvimento do OS/2, o projeto de um novo sistema operacional. As empresas cooperavam entre si e tinham acesso uma ao código da outra. A Microsoft desejava avançar seu desenvolvimento no Windows, enquanto a IBM desejava que todo trabalho futuro fosse baseado em OS/2. Para resolver essa tensão, as duas combinaram que a IBM iria desenvolver o OS/2 versão 2.0 para substituir o OS/2 versão 1.3 e o Windows v3.0, enquanto a Microsoft iria desenvolver um novo sistema operacional, o OS/2 versão 3.0 para depois suceder ao OS/2 anterior. É lógico que esse acordo foi por água abaixo.
+Bem-vindos. Esta é a série [História do Windows]. Nos anos 90, a relação IBM/Microsoft era muito próxima por causa do desenvolvimento do OS/2, o projeto de um novo sistema operacional. As empresas cooperavam entre si e tinham acesso uma ao código da outra. A Microsoft desejava avançar seu desenvolvimento no Windows, enquanto a IBM desejava que todo trabalho futuro fosse baseado em OS/2. Para resolver essa tensão, as duas combinaram que a IBM iria desenvolver o OS/2 versão 2.0 para substituir o OS/2 versão 1.3 e o Windows v3.0, enquanto a Microsoft iria desenvolver um novo sistema operacional, o OS/2 versão 3.0 para depois suceder ao OS/2 anterior. É lógico que esse acordo foi por água abaixo.
 
 A relação IBM/Microsoft foi terminada. A IBM continuou a desenvolver o OS/2 v2.0 enquanto a Microsoft mudou o nome de seu ainda não lançado OS/2 v3.0 para Windows NT. O Windows NT foi tão massivamente promovido que a maioria das pessoas nem se deu conta que ele era um OS/2 redesenhado. Ambas as empresas obtiveram os direitos de utilizarem as tecnologias do OS/2 e do Windows que foram desenvolvidas até a quebra do acordo.
 
@@ -21,23 +21,12 @@ Em setembro de 1994 é lançada o Windows NT 3.5. A versão Workstation substitu
 
 Como todo projeto de sucesso, a primeira coisa a ser feita é definir os objetivos principais. No caso do Windows NT não foi diferente. É importante para nós sabermos que objetivos eram esses e como eles foram mudando de acordo com o momento histórico de forma a analisarmos as conseqüências. Em outubro de 1988, os objetivos do novo sistema operacional eram os seguintes:
 
-	
-  * <strike>Compatibilidade com OS/2</strike>
-
-	
-  * Segurança
-
-	
-  * Suporte a POSIX
-
-	
-  * Multiprocessamento
-
-	
-  * Rede integrada
-
-	
-  * Confiabilidade
+ - Compatibilidade com OS/2
+ - Segurança
+ - Suporte a POSIX
+ - Multiprocessamento
+ - Rede integrada
+ - Confiabilidade
 
 Como o Windows 3.0 fez um sucesso enorme, a compatibilidade nativa passou a ser do próprio Windows caseiro, sendo o OS/2 sendo implementado como um mero subsistema. Subsistema no Windows basicamente quer dizer ambiente virtual de execução de processos feitos para rodar em outro sistema operacional. Essa maneira de suportar processos de outros sistemas operacionais foi usado tanto para o OS/2 quanto para o Windows 16 bits, o MS-DOS e aplicativos POSIX.
 
@@ -45,10 +34,6 @@ O tempo do projeto foi inicialmente estimado em pouco mais de dois anos. Ao fina
 
 O Windows NT é um sistema operacional de 32 bits. Isso quer dizer, entre outras coisas, que ele suporta duas propriedades fundamentais dos sistemas operacionais modernos: modo protegido de execução e memória virtual. O modo protegido de execução permite a divisão entre a parte confiável do sistema operacional (kernel mode) e a parte não-confiável, que não possui acesso às instruções privilegiadas (user mode). A memória virtual abstrai a memória física e permite isolamento de memória entre aplicativos, evitando que um programa invada a memória do outro.
 
-Além disso, foi criada uma camada de abstração do hardware (HAL, Hardware Abstraction Layer) que livrou boa parte do código de ter sido escrito em assembly, fazendo assim que ele fosse facilmente portável. A figura abaixo demonstra a divisão básica entre os componentes do sistema, tanto do kernel mode quanto do user mode:
+Além disso, foi criada uma camada de abstração do hardware (HAL, Hardware Abstraction Layer) que livrou boa parte do código de ter sido escrito em assembly, fazendo assim que ele fosse facilmente portável.
 
-  * Inside Microsoft Windows NT, by David Solomon
-  * Inside Microsoft Windows 2000, by David Solomon
-  * Windows Internals, by Mark Russinovich
-  * Outros artigos sobre a história do windows
-
+[História do Windows]: /historia-do-windows

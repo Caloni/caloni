@@ -1,9 +1,9 @@
 ---
 date: "2007-11-19"
-tags: [ "code", "draft",  ]
+tags: [ "draft", "windows" ]
 title: "História do Windows - parte 5.1"
 ---
-Chega às lojas no dia 25 de outubro de 2001 a unificação entre as plataformas de uso doméstico e corporativo do sistema. O Windows XP usa o kernel de 32 bits de seus antecessores Windows NT e Windows 2000. É vendido em duas edições: Home e Professional Edition. O design do sistema foi totalmente remodulado para suportar ao mesmo tempo a facilidade de uso do usuário doméstico e a robustez e confiabilidade dos clientes corporativos.
+Continuando a [História do Windows], chega às lojas no dia 25 de outubro de 2001 a unificação entre as plataformas de uso doméstico e corporativo do sistema. O Windows XP usa o kernel de 32 bits de seus antecessores Windows NT e Windows 2000. É vendido em duas edições: Home e Professional Edition. O design do sistema foi totalmente remodulado para suportar ao mesmo tempo a facilidade de uso do usuário doméstico e a robustez e confiabilidade dos clientes corporativos.
 
 Do ponto de vista da arquitetura, pouca coisa mudou, e essa versão mudou internamente de 5.0 (Windows 2000) para 5.1 (Windows XP) . Ou seja, praticamente um patch de correção.
 
@@ -45,6 +45,4 @@ Para a organização dos recursos do sistema foi adotado um outro modelo, semelh
 
 Essa organização foi adotada principalmente pela sua grande vantagem de minimizar mudanças, uma vez que as informações sobre os recursos são armazenadas em estruturas opacas, isto é, elas existem, porém não são acessíveis a todos. Isso permite que elas sofram mudanças internas no decorrer do tempo sem impactar para seus usuários.
 
-	
-  * Artigos sobre a história do Windows no Caloni.com.br
-
+[História do Windows]: /historia-do-windows
