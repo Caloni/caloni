@@ -1,6 +1,6 @@
 ---
 date: "2008-03-10"
-tags: [ "code", "draft",  ]
+tags: [ "code", "draft", "tools" ]
 title: "Sed, Grep e afins"
 ---
 Esse artigo é resultado de eu ter me matado para conseguir encontrar a forma correta de usar o aplicativo sed para fazer uma filtragem simples nos resultados de uma listagem de arquivos.
@@ -31,25 +31,11 @@ Obs.: sim, eu conheço os tutoriais do Aurélio, e aprendi regex através do liv
 
 Para filtrar o path do arquivo, e ao mesmo tempo retirar seu nome, podemos usar o seguinte comando (fora outras trilhões de variantes):
 
-
 Após esse processamento, a saída é um monte de extensões vindas de um monte de arquivos:
-
 
 Como podemos ver e é óbvio de imaginar, muitas extensões irão se repetir. Para eliminar as repetições e ordenar a saída da saída corretamente, usamos o comando sort:
 
-
-	
-  * Os caracteres .*[]^$\ dão problemas se usados sem escape no sed, pois fazem parte dos comandos para procurar expressões regulares. Use-os com o caractere de escape \.
-
-	
-  * Para concatenar comandos no sed, use sempre -e "comando". A ordem de execução dos comandos é a ordem em que eles são inseridos na linha de comando, ou seja, podemos confiar que no segundo comando o primeiro já terá sido executado e assim por diante.
-
-	
-  * Para fazer o escape das barras do caminho de um arquivo temos que usar o conjunto \/ (obs.: caminhos em formato Unix). Para evitar esse uso enfadonho podemos substituir o caractere de divisão do comando s colocando-o na frente:
-
-	
-s#/path/muito/muito/muito/longo.cpp#/outropath/muito/muito/longo.cpp#
-
-	
-  * Para agrupar expressõe, use sempre "\(" e "\)". É o contrário do uso dos caracteres especiais. Coisas de Unix.
-
+ - Os caracteres .*[]^$\ dão problemas se usados sem escape no sed, pois fazem parte dos comandos para procurar expressões regulares. Use-os com o caractere de escape \.
+ - Para concatenar comandos no sed, use sempre -e "comando". A ordem de execução dos comandos é a ordem em que eles são inseridos na linha de comando, ou seja, podemos confiar que no segundo comando o primeiro já terá sido executado e assim por diante.
+ - Para fazer o escape das barras do caminho de um arquivo temos que usar o conjunto \/ (obs.: caminhos em formato Unix). Para evitar esse uso enfadonho podemos substituir o caractere de divisão do comando s colocando-o na frente: s#/path#/outropath#
+ - Para agrupar expressõe, use sempre "\(" e "\)". É o contrário do uso dos caracteres especiais. Coisas de Unix.

@@ -5,13 +5,9 @@ title: "C and C++ Operators Precedence Table"
 ---
 > Wanderley, your explanation about why a program compiles in C++ and not in C seems to me logic and correct, but gave me some doubts, because I always learned that the C and C++ operator precedence are the same thing. I checked out the Appendix A in the "C ++ - How To Program" (sixth edition) and the book table is equal to the C operators precedence table and it is different from the C++ precedence table presented by you in the article. I went to the internet and found out in two websites the table and both are equal to the book table.
 >
-> http://en.wikipedia.org/wiki/OperatorsinCandC
->
-> http://www.cppreference.com/operatorprecedence.html
-> 
 > From where did you get the presented C++ table?
 >
-> []s,
+> []s
 > 
 > Márcio Andrey Oliveira
 
