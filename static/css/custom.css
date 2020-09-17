@@ -37,6 +37,10 @@ body, button, input, select, textarea {
     display: flex;
 }
 
+table {
+    table-layout: fixed;
+}
+
 td {
     border-bottom: 1px dotted black; 
     padding: 5px;
