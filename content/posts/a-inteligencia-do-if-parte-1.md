@@ -1,7 +1,7 @@
 ---
 date: "2007-06-18"
-tags: [ "code", "learning", "kernel",  ]
-title: "A inteligência do if - parte 1"
+tags: [ "code", "essays" ]
+title: "A Inteligência do if: Parte 1"
 ---
 No nível mais baixo, podemos dizer que as instruções de um computador se baseiam simplesmente em cálculos matemáticos e manipulação de memória. E entre os tipos de manipulação existe aquela que muda o endereço da próxima instrução que será executada. A essa manipulação damos o nome de salto.
 
@@ -98,4 +98,6 @@ Essa lógica embutida nas linguagens de programação são convertidas pelo comp
       code
     label:
 
-Neste artigo vimos como todas as construções de uma linguagem de programação, independente do seu nível, podem ser convertidas em um conjunto de saltos, condicionais e incondicionais. Em um próximo artigo, que chamaremos de "A inteligência do if - parte 2", veremos como o salto condicional verdadeiramente funciona, e como pode ser implementado usando apenas operações matemáticas. Afinal, matemática básica é o bloco lógico mais básico que temos em um computador; qualquer computador.
+Neste artigo vimos como todas as construções de uma linguagem de programação, independente do seu nível, podem ser convertidas em um conjunto de saltos, condicionais e incondicionais. Em um [próximo artigo] veremos como o salto condicional verdadeiramente funciona, e como pode ser implementado usando apenas operações matemáticas. Afinal, matemática básica é o bloco lógico mais básico que temos em um computador. Qualquer computador.
+
+[próximo artigo]: /a-inteligencia-do-if-parte-2
