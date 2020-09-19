@@ -1,7 +1,7 @@
 ---
 date: "2016-10-05"
-tags: [ "code", "draft", "tools" ]
-title: "Guardando senhas com Vim"
+tags: [ "blog", "tools" ]
+title: "Guardando Senhas com Vim"
 ---
 Eu já sabia que havia um sistema de criptografia de arquivos no Vim. Isso pode ser útil para textos secretos, ou para enviar qualquer bobagem para outra pessoa que sabe de uma senha que só vocês conhecem. Porém, o método default de criptografia dele não me animava. O pkzip é usa um algoritmo fraco, e os inúmeros programas que quebram zips encriptados estão aí para demonstrar. Além do mais, o blowfish da versão 7 do Vim tem problemas em gerar seu salt que favorece ataques de força bruta tão baratos quanto um XOR. E é aí que entra em cena o Vim 8.
 
@@ -15,7 +15,4 @@ A perigosa é que uma vez que você digite a senha errada, muito cuidado com o l
 
 O mais prático de tudo é usar esse modelo de arquivo encriptado pelo Vim para salvar senhas. Um arquivo de senhas pode ser tão simples quando login/senha de todas as senhas que você deseja guardar, e tão bem protegido quanto a força de sua senha master. Nada mais, nada menos. De quebra, um arquivo pequeno cujo backup pode ser sincronizado instantaneamente na nuvem (usando Google Drive, Dropbox ou One Drive), ou até mantido em um controle de fonte (embora ele seja tratado como binário).
 
-Se você gostou desse modelo, seguem os comandos para pesquisar (:help comando):
-
-
-Este post foi inspirado em meu próprio uso do Vim, mas mais inspirado ainda depois de ler o artigo da invert.
+Se você gostou desse modelo, pesquise na ajuda do editor pelos comandos e opções "cm" e ":X". Leia com atenção. Este post foi inspirado em meu próprio uso do Vim, mas mais inspirado ainda depois de ler um artigo da invert (não me lembro o link).
