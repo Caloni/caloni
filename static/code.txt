@@ -11358,18 +11358,6 @@ logs-em-servicos-e-outras-coisas.md:    		GetLastError());
 logs-em-servicos-e-outras-coisas.md:    
 logs-em-servicos-e-outras-coisas.md:    	os << buffer;
 logs-em-servicos-e-outras-coisas.md:    }
-mbconf-at-home-2020-palestra-windbg.md:    windbg.exe -b -k com:pipe,port=\\.\pipe\com_1,resets=0
-mbconf-at-home-2020-palestra-windbg.md:    kd.exe -b -k com:pipe,port=\\.\pipe\com_1,resets=0
-mbconf-at-home-2020-palestra-windbg.md:    //project.cpp
-mbconf-at-home-2020-palestra-windbg.md:    void chama_eu()
-mbconf-at-home-2020-palestra-windbg.md:    {
-mbconf-at-home-2020-palestra-windbg.md:    	MessageBox(NULL, "Welcome to MBConf@Home2020", "MBConf2020", 0);
-mbconf-at-home-2020-palestra-windbg.md:    }
-mbconf-at-home-2020-palestra-windbg.md:    
-mbconf-at-home-2020-palestra-windbg.md:    ;project.def
-mbconf-at-home-2020-palestra-windbg.md:    EXPORTS
-mbconf-at-home-2020-palestra-windbg.md:    chama_eu
-mbconf-at-home-2020-palestra-windbg.md:    >rundll32.exe project.dll,chama_eu
 meu-roteiro-c.md:    
 meu-roteiro-c.md:    
 meu-roteiro-c.md:    * A linguagem BCPL
