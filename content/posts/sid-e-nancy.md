@@ -2,7 +2,7 @@
 date: "2020-04-22"
 link: "https://www.imdb.com/title/tt0091954"
 tags: [ "movies", "miniviews" ]
-title: "Sid e Nancy"
+title: "Sid & Nancy, o Amor Mata"
 ---
 Todo o clima insano, niilista, absurdo e depressivo do movimento punk da época dos Sex Pistols você confere neste filme sobre o baixista da banda e sua amada. Esta é uma biografia maior que suas partes, pois a sociedade vista por estas pessoas se reflete no filme e na forma com que seus heróis se enxergam.
 
