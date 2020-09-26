@@ -79,7 +79,12 @@ def search_movie(query):
 
 
 if len(sys.argv) < 2:
-    print('How to use: python movies.py imdb')
+    print("""How to use:
+    python movies.py cinemaqui imdb-id [cast-max]
+    python movies.py search file-slug path-to-save
+    python movies.py imdb-id path-to-save
+    """
+    )
 else:
     if sys.argv[1] == 'cinemaqui':
         print_desc(sys.argv[2], sys.argv[3:])
