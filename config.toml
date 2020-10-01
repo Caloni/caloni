@@ -4,6 +4,15 @@ title = "Blogue do Caloni"
 copyright = ""
 disableKinds = [ "sitemap" ]
 
+[outputs]
+  home = ["HTML", "RSS"]
+
+[outputFormats]
+
+[outputFormats.CSV]
+    isPlainText = true
+    mediaType = "text/csv"
+
 [permalinks]
     posts = "/:filename/"
 
