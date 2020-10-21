@@ -1,7 +1,7 @@
 ---
 date: "2020-10-19"
 link: "https://mostraplay.mostra.org/film/apenas-mortais/"
-tags: [ "draft" ]
+tags: [ "draft", "cinemaqui" ]
 title: "Apenas Mortais"
 ---
 Apenas Mortais é uma "ficção-denúncia" sobre a presença cada vez maior de idosos na sociedade chinesa, e consequentemente o aumento de doenças degenerativas entre as famílias e os problemas decorrentes de seu sistema de saúde, embora o longa fique em cima do muro em questões governamentais e esteja mais disposto a explorar o drama familiar.
