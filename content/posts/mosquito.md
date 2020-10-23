@@ -1,0 +1,7 @@
+---
+date: "2020-10-22"
+link: "https://www.imdb.com/title/tt5658540"
+tags: [ "cinemaqui", "draft" ]
+title: "Mosquito"
+---
+Introspecção de um garoto em uma guerra próximo do final. Ele tem 17 anos e espera poder fazer parte de uma batalha, mas está em um pelotão cujo objetivo é ficar de boas. Acaba se distanciando e vivendo uma imersão cultural em uma tribo onde só há mulheres (onde estão os homens? ele pergunta. quem é o chefe? ignorando que boa parte dos homens estão com os portugueses, trabalhando como escravos). Ele também vira escravo, pois é pequeno e mirrado e está abatido. A escravidão já existia na África, e aqui é visto sob o ponto de vista invertido como algo mais "humano" (não que não fosse, pois já faz parte da cultura de vários povos desde a antiguidade). O delírio é usado para subjetivizar as viagens do garoto, quando ele encontra dois desertores (um português, outro alemão) e a cena chocante do final, quando ele finalmente encontra seu pelotão, é chocante, mas é lugar-comum de guerra. Óbvio que o filme é anti-belicista. Qual o objetivo aqui? O leão é o que ruge mais forte. Esta é uma história onde o mais forte troca de lados várias vezes, sendo a força física ou a lucidez. É uma viagem meio teatro. Não há momentos visuais brilhantes. Claramente inspirado em trabalhos como Além da Linha Vermelha ou Resgate do Soldado Ryan (em sua estética), mas falta algo. É cansativo porque não entendemos as movitações do garoto. Ele não é uma boa atuação ou mau utilizado.
