@@ -1,6 +1,6 @@
 ---
 date: "2016-04-16"
-tags: [ "code", "draft", "puzzle" ]
+tags: [ "code", "draft" ]
 title: "Rank and File"
 ---
 Passou o Round 1A do Code Jam, e para variar, fui muito mal, só respondendo a primeira questão. A segunda me fez ficar pensando um tempo desproporcional sobre como encaixar as diferentes linhas e colunas para achar a linha restante.

@@ -1,6 +1,6 @@
 ---
 date: "2015-09-12"
-tags: [ "code", "draft", "essays" ]
+tags: [ "code", "draft" ]
 title: "É o fonte, idiota!"
 ---
 Saiu um artigo recente no The Old New Thing (thanks Strauss pelo tuíte) que fala sobre não misturar runtimes do C de diferentes versões do compilador (especialmente se essas versões estão separadas pelo tempo em nada mais nada menos que dezenove anos!). Concordo. Aliás, a cultura Microsoftiana do uso de binários carece em C/C++ de um fundamento que facilite o reúso e compartilhamento de código exatamente por essa incompatibilidade inerente de uma biblioteca, se não em constante evolução, em constante aprimoramento pontual (como a STL). Como compartilhar código cujo fonte esteja indisponível e cujas bibliotecas sejam incompatíveis porque o projeto não é atualizado há dois pares de anos? Fiz uma vez um artigo explicando como usar a LIBC nativa do sistema operacional (nem sei se isso funciona ainda, provavelmente não). No entanto, essa é uma solução sub-ótima para um problema latente.

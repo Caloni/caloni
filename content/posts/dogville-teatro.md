@@ -1,6 +1,6 @@
 ---
 date: "2019-02-18"
-tags: [ "draft", "play" ]
+tags: [ "draft" ]
 title: "Dogville Teatro"
 ---
 Eu não me lembro direito do filme de Lars von Trier, mas eu sei que ele foi impactante quando o vi, provavelmente em 2005. Estupro, escravidão, tiros. Quando você vai assistir a um filme do diretor dinamarquês é necessário que você esteja preparado para o pior. A peça dirigida por Zé Henrique de Paula talvez se prepare demais.

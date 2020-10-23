@@ -1,6 +1,6 @@
 ---
 date: "2018-08-26"
-tags: [ "draft", "reading", "philosophy" ]
+tags: [ "draft", "reading" ]
 title: "O Papel da Genética na Mobilidade Social"
 ---
 O que será que faz pessoas durante suas vidas ficarem mais ricas ou pobres de onde começaram? Nascer rico com certeza ajuda, mas e se não for apenas isso? Há habilidades inatas de cada indivíduo, carregadas pelos genes de seus pais, que poderiam influenciar nesse processo? E se sim, qual a relevância de quem são seus pais? Um estudo genético quis investigar as possíveis respostas.

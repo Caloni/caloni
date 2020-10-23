@@ -1,6 +1,6 @@
 ---
 date: "2010-02-25"
-tags: [ "code", "draft", "tools" ]
+tags: [ "code", "draft" ]
 title: "Bazaar gráfico"
 ---
 Bom, já que por enquanto os assuntos de macho estão em falta (acabei de voltar de férias), apresento-lhes o maravilhoso mundo do Bazaar para boiolas user-friendly!

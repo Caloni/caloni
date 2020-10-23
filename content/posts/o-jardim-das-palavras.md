@@ -1,7 +1,7 @@
 ---
 date: "2016-08-06"
 link: "https://www.imdb.com/title/tt2591814"
-tags: [ "draft", "shorts" ]
+tags: [ "draft" ]
 title: "O Jardim das Palavras"
 ---
 Makoto Shinkai tem um apuro visual muito interessante. Adentrando em uma megalópole para narrar este conto intimista entre uma professora e um aluno, ele consegue encontrar os quadros perfeitos para animar e dar a sensação, através do som, de estarmos de fato experimentando um dia-a-dia naquela cidade movimentada que contém em seus dias de chuva um refúgio secreto entre duas pessoas.

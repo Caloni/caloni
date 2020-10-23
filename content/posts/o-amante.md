@@ -1,7 +1,7 @@
 ---
 date: "2020-03-28"
 link: "https://www.imdb.com/title/tt0101316"
-tags: [ "movies", "miniviews" ]
+tags: [ "movies" ]
 title: "O Amante"
 ---
 Eis um filme perfeito do início ao fim. Seu início é enfadonho e preguiçoso, mas no primeiro momento em que este milionário chinês e esta ninfeta europeia se encontram na cama de um quarto sujo de um bairro pobre e distante dos grandes centros, ele nunca mais volta a ser enfadonho.

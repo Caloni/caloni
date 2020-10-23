@@ -1,6 +1,6 @@
 ---
 date: "2019-08-21"
-tags: [ "draft", "food" ]
+tags: [ "draft" ]
 title: "Restaurante Nara Lámen"
 ---
 Quando for pela primeira vez no Nara Lámen, peça apenas o Shyo Lámen Nara. Apenas isso. E aprecie sem pressa.

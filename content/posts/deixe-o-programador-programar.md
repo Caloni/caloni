@@ -1,6 +1,6 @@
 ---
 date: "2009-04-09"
-tags: [ "draft", "essays" ]
+tags: [ "draft" ]
 title: "Deixe o programador programar"
 ---
 Seis meses se passaram desde que defini o cronograma para um projeto importante (mas não urgente) que deveria ser entregue cinco meses atrás. O tempo em dias que estimei na época não havia mudado nada, mas uma série de desventuras (tarefas brotando do chão e umas férias bem merecidas) fizeram com que quase nenhuma linha de código tivesse sido produzida para aquele projeto. No entanto, tenho a consciência tranquila, já que estou em uma de minhas fases mais produtivas e inovadoras.

@@ -1,7 +1,7 @@
 ---
 date: "2020-10-11"
 link: "https://www.crunchyroll.com/pt-pt/magia-record-puella-magi-madoka-magica-side-story"
-tags: [ "animes", "animation", "series", "miniviews" ]
+tags: [ "animes", "series" ]
 title: "Magia Record: Puella Magi Madoka Magica Side Story"
 ---
 Meu Deus, como essa produtora gosta de títulos gigantescos em seus animes. Isso acontece principalmente porque a obra original foi um game ou mangá e a única estratégia conhecida da distribuidora pelo mundo é deixar bem claro: é uma continuação do mangá dramático Madoka Mágica, mas uma história de spin-off, e baseado em um video-game produzido pela Magia Record e depois adaptado para mangá, e finalmente para anime. Entendeu a confusão?

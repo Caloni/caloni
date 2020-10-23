@@ -1,7 +1,7 @@
 ---
 date: "2020-10-04"
 link: "https://www.crunchyroll.com/my-first-girlfriend-is-a-gal"
-tags: [ "animes", "animation", "miniviews" ]
+tags: [ "animes" ]
 title: "My First Girlfriend is a Gal"
 ---
 Não tire conclusões precipitadas. Gal é a transliteração de gyaru, do inglês girl, ou garota, mas não é apenas sobre garotas que este título fala. As Gals do anime são garotas que seguem o modelo exagerado (do ponto de vista japonês) com que as garotas se produzem. E a Gal que este virjão começa a namorar na série dá a exata noção de o quão distante ele estaria na vida real de uma mulher dessas. Felizmente ele é um personagem de anime.

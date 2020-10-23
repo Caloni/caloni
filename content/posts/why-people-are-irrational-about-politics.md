@@ -1,6 +1,6 @@
 ---
 date: "2017-06-27"
-tags: [ "draft", "reading", "philosophy" ]
+tags: [ "draft", "reading" ]
 title: "Why People Are Irrational about Politics"
 ---
 A teoria da "Irracionalidade Racional" do filósofo Michael Huemer estabelece uma base teórica que nos permite afirmar que qualquer discussão política é em sua essência irracional:

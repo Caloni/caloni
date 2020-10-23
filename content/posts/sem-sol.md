@@ -1,7 +1,7 @@
 ---
 date: "2020-04-26"
 link: "https://www.imdb.com/title/tt0084628"
-tags: [ "movies", "miniviews" ]
+tags: [ "movies" ]
 title: "Sem Sol"
 ---
 Sem sol e sem sentido. Este longa de Chris Marker é sobre um francês enxergando o mundo à sua maneira: injusto e caótico. A única coisa que ele não enxerga é o tamanho da pretensão na cabeça de um francês.

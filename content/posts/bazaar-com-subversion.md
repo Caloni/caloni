@@ -1,6 +1,6 @@
 ---
 date: "2011-03-23"
-tags: [ "code", "draft", "tools" ]
+tags: [ "code", "draft" ]
 title: "Bazaar com Subversion"
 ---
 Para pessoas que ficaram viciadas em commits curtos e todo o histórico do fonte na própria máquina, foi uma surpresa descobrir que com o uso do plugin bzr-svn (já incluso no pacote de instalação), consigo ainda utilizar o Bazaar, mesmo que agora esteja trabalhando com um branch do Subversion.

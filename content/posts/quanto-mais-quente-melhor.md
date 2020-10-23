@@ -1,7 +1,7 @@
 ---
 date: "2020-04-18"
 link: "https://www.imdb.com/title/tt0053291"
-tags: [ "movies", "miniviews" ]
+tags: [ "movies" ]
 title: "Quanto mais Quente Melhor"
 ---
 Marilyn Monroe era bojudinha. Não quero dizer gorda. Bojudinha, mesmo. Não é aquele corpo magricela das mulheres de hoje idealizadas como o modelo de mulher forte, independente e sem graça. Monroe é ela mesma, o que incluir não ser muito boa atriz. Mas tem um certo carisma. E curvas. Imperfeitas, mas, graças a Deus, curvas.

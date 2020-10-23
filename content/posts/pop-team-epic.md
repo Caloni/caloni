@@ -1,7 +1,7 @@
 ---
 date: "2020-10-04"
 link: "https://www.crunchyroll.com/pop-team-epic"
-tags: [ "animes", "animation", "miniviews" ]
+tags: [ "animes" ]
 title: "Pop Team Epic"
 ---
 Olha o nível dessa série: ela apresenta um enredo formado, uma música e introdução e... simplesmente para e você vê duas adolescentes com traços no mínimo estranhos dubladas por dois marmanjos. E há uma sequência ininterruptas de quadros totalmente não-relacionados uns com os outros, exceto essas duas meninas. E ao final assistimos ao mesmo desenho com outros dubladores (a parte francesa com legenda).

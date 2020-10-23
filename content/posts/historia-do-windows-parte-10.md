@@ -1,6 +1,6 @@
 ---
 date: "2007-06-26"
-tags: [ "draft", "windows" ]
+tags: [ "draft" ]
 title: "História do Windows - parte 1.0"
 ---
 Devido à grande procura através de mecanismos de busca (vulgo Google), estarei republicando esse artigo dividido em partes (até porque existem partes não acabadas), cada parte descrevendo um conceito geral do que representou cada versão do sistema operacional. Bem-vindos ao [História do Windows].

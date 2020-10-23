@@ -1,6 +1,6 @@
 ---
 date: "2018-10-26"
-tags: [ "draft", "play" ]
+tags: [ "draft" ]
 title: "1984: A Peça"
 ---
 1984 está nas mentes e na alma de nossa sociedade. Ela foi concebida como um alerta por George Orwell contra o autoritarismo e totalitarismo crescente na Europa da segunda guerra, mas por seu formato universal, tal qual A Revolução dos Bichos, se transforma em um guia útil para qualquer época em que isso for um risco para a sociedade. E, sejamos honestos, sempre existirá esse risco.

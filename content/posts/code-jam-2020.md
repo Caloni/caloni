@@ -1,7 +1,7 @@
 ---
 date: "2020-04-05"
 link: "https://gist.github.com/Caloni/fd22d49ad7e9c046120d98876c8cad38"
-tags: [ "blog", "puzzle" ]
+tags: [ "blog" ]
 title: "Code Jam 2020"
 ---
 O Code Jam esse ano terminou rápido para mim. Estou enferrujado? Nem tanto. Apenas dei menos atenção ao evento no seu início, mas apesar de me concentrar nas últimas 11 horas não tive um resultado satisfatório, obtendo 24 pontos ao total, o que não me dá direito para o torneio, que exige pelo menos 30.

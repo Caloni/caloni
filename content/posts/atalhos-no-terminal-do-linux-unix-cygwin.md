@@ -1,6 +1,6 @@
 ---
 date: "2017-02-27"
-tags: [ "code", "draft", "tools" ]
+tags: [ "code", "draft" ]
 title: "Atalhos no terminal do Linux/Unix"
 ---
 Há pouca coisa que você pode fazer para manipular a linha de comando que está digitando em um terminal do Windows. Isso faz sentido. O terminal da Microsoft é apenas um resquício do MS-DOS, que foi herdado pelas inúmeras versões do Windows para que desenvolvedores e suporte pudessem executar alguns comandos não disponíveis pelo clique de um mouse. Já no Unix a história é inversa. Durante tantas décadas sendo usado, o sistema Unix, hoje, em sua mais nova reencarnação, Linux, foi acumulando diferentes teclas de atalho para conseguirmos refazer, desfazer e fazer melhor a montagem dos comandos digitados na linha de comando. Um sistema bash padrão já deve ter implementado o mínimo que você precisa para sobreviver na linha de comando. Aparentemente esse é um conhecimento tão bem divulgado pela comunidade que ninguém se dá ao trabalho de escrever um artigo sobre isso. Eu fiz algumas pesquisas uns tempos atrás e cheguei na seguinte lista, que tem muito mais do que eu preciso, e que seria bom aprender, nem que fosse aos poucos.

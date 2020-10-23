@@ -1,7 +1,7 @@
 ---
 date: "2017-01-05"
 link: "https://github.com/Caloni/vim/blob/master/vimrc"
-tags: [ "blog", "tools" ]
+tags: [ "blog" ]
 title: "Entrando na Zona com Vim"
 ---
 Se você é programador é bem provável que já tenha ouvido falar em [Flow] ou [The Zone]. Se for leitor assíduo do Hacker News, então, nem se fala. De qualquer forma, uma das maneira mais produtivas do programador programar é entrar na famosa "zona". É lá que muito de nós nascemos. Lembra a primeira vez que mexeu em um computador ou afim e ficou tão obcecado que não viu o tempo passar? Pois bem. Você esteve na zona. E estar nela é um bom lugar para trabalhar.

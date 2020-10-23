@@ -1,6 +1,6 @@
 ---
 date: "2019-01-06"
-tags: [ "draft", "fun" ]
+tags: [ "draft" ]
 title: "Minecraft: O Jogo"
 ---
 Fundamentado em bases materialistas, a partir das quais Karl Marx se orgulharia, Minecraft é uma luta por recursos e sobrevivência. E por ser simples e fácil de jogar, as crianças adoram. Isso e porque também tem skins na aparência dos players.

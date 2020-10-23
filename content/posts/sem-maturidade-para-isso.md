@@ -1,7 +1,7 @@
 ---
 date: "2020-10-04"
 link: "https://www.imdb.com/title/tt6994156"
-tags: [ "series", "animation", "miniviews" ]
+tags: [ "series" ]
 title: "Sem Maturidade Para Isso"
 ---
 Dos mesmos criadores de [Regular Show], eis uma animação com momentos frenéticos, ideias estupendas, ótimas sacadas e que cai na mesmice uns três episódios depois, mas a primeira temporada é tão breve que você mal percebe.

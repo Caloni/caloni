@@ -1,6 +1,6 @@
 ---
 date: "2013-04-01"
-tags: [ "code", "draft", "tools" ]
+tags: [ "code", "draft" ]
 title: "Depuração na nuvem com o novo Visual Studio"
 ---
 Uma das novidades do futuro Visual Studio pouco comentada ainda em fóruns por seu caráter sigiloso e ainda em testes (mas que pode facilmente ser observada pela engenharia reversa dos binários do Visual C++) é a possibilidade de depurar trechos de código "na nuvem", ou seja, dentro dos gigantescos servidores de clusters de serviços de escalabilidade da Amazon, do Google e, claro, da Microsoft.

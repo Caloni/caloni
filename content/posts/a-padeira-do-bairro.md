@@ -1,7 +1,7 @@
 ---
 date: "2020-05-19"
 link: "https://www.imdb.com/title/tt0056884"
-tags: [ "shorts" ]
+tags: [ "blog" ]
 title: "A Padeira do Bairro"
 ---
 Este curta de Éric Rohmer veio de brinde no DVD de A Carreira de Suzane, mas é até bem longo, com 20 minutos de duração. É uma sessão dupla, praticamente, pois com a atração principal tendo menos de uma hora é natural assistir esse em seguida. E ele trata também da análise de mulheres a partir do pensamento de um homem obcecado por uma dama alta e que se veste bem que sempre encontra pelos seus caminhos no bairro. Após o primeiro contato ela some por três semanas, o que faz com que ele desenvolva o péssimo hábito de comer todo dia um doce da padaria da esquina. Se a moça demorasse mais ele muito provavelmente teria engordado muito e ela nem o reconheceria.

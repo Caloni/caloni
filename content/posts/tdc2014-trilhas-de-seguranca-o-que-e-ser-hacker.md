@@ -1,6 +1,6 @@
 ---
 date: "2014-08-11"
-tags: [ "draft", "events" ]
+tags: [ "draft" ]
 title: "TDC2014: Trilhas de Segurança: o que é ser hacker?"
 ---
 Tirando a palestra-propaganda de Welington Strutz, a trilha de segurança no TDC desse ano foi bem heterogênea e focou tanto na proteção quanto nos ataques possíveis da web. Infelizmente, para alguns participantes, a grande questão de hacking se resume a apenas invasão de saites, o que nem era de longe o intuito da rotulação "hacker" no início dos famosos ratos de computador, em um ambiente com pouca RAM, nenhuma Web e onde o poder de processamento mais pesado rodava nas mentes criativas desses pequenos gênios da informática.

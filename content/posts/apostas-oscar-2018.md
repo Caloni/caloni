@@ -1,6 +1,6 @@
 ---
 date: "2018-03-05"
-tags: [ "draft", "events" ]
+tags: [ "draft" ]
 title: "Apostas Oscar 2018 (com resultados)"
 ---
 Resultado das apostas. Inspirado pelo meu amigo, vamos lá com alguns chutes de quem não sabe nada sobre Oscar (apenas que é um concurso de beleza capitalista):

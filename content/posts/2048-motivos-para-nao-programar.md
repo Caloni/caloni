@@ -1,7 +1,7 @@
 ---
 date: "2014-04-24"
 link: "https://gist.github.com/Caloni/ef21412075c5600c9700d967702419be"
-tags: [ "code", "puzzle",  ]
+tags: [ "code",  ]
 title: "2048 motivos para não programar"
 ---
 Pronto, posso programar em paz. O jogo 2048 é uma lástima para todos os trabalhadores intelectuais que dependem de suas mentes para produzir algo que preste. Ele gerou mais posts no Hacker News do que a moda dos bitcoins (talvez não) e mais projetos no GitHub do que a busca para a cura do câncer (talvez não). Obviamente que este post vai gerar mais um gist Python para minha coleção.

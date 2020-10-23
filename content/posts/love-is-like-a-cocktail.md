@@ -1,7 +1,7 @@
 ---
 date: "2020-10-04"
 link: "https://www.crunchyroll.com/love-is-like-a-cocktail"
-tags: [ "animes", "animation", "miniviews" ]
+tags: [ "animes" ]
 title: "Love is Like a Cocktail"
 ---
 Fiquei muito empolgado com essa ideia de animes com episódios de três minutos. Três meros minutos. Enquanto isso a Netflix e o Prime Video nos bombardeiam com séries de uma hora de um irrelevante primeiro episódio que já dá vontade de parar no meio.

@@ -1,6 +1,6 @@
 ---
 date: "2007-09-28"
-tags: [ "draft", "essays" ]
+tags: [ "draft" ]
 title: "Developer: you need to know English!"
 ---
 Eu realmente gostei desse negócio de tagging. =)

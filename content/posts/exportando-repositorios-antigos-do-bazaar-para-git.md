@@ -1,6 +1,6 @@
 ---
 date: "2016-01-27"
-tags: [ "code", "draft", "tools" ]
+tags: [ "code", "draft" ]
 title: "Exportando repositórios antigos do Bazaar para Git"
 ---
 Enquanto estudava sobre controle de fontes distribuído, experimentei e usei os projetos Mercurial e Bazaar, precursores desse modelo que funcionavam bem em Windows. Havia o Git, mas por conta da sua evolução assimétrica, o ambiente da Microsoft havia ficado para trás.

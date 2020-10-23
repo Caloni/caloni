@@ -1,7 +1,7 @@
 ---
 date: "2020-09-29"
 link: "https://www.imdb.com/title/tt0154420"
-tags: [ "blog", "movies", "miniviews" ]
+tags: [ "blog", "movies" ]
 title: "Festa de Família"
 ---
 O Dogma 95 foi um movimento iniciado por diretores escandinavos como Lars von Trier (conhecido fã de Hitler e seu trabalho) que "prega" que um filme para fazer parte do Dogma deve seguir uma série de limitações em sua produção, como ausência de sons inseridos, a câmera deve acompanhar os atores onde eles forem (então ausência de iluminação artificial também). Ausência de qualquer peça de cenário que já não fizesse parte da locação. A lista é bem extensa e torna a tarefa do diretor mais desafiadora e interessante.

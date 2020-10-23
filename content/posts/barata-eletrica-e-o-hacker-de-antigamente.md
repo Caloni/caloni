@@ -1,6 +1,6 @@
 ---
 date: "2007-08-31"
-tags: [ "draft", "essays" ]
+tags: [ "draft" ]
 title: "Barata Elétrica e o hacker de antigamente"
 ---
 

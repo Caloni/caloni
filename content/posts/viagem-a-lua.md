@@ -1,7 +1,7 @@
 ---
 date: "2011-09-01"
 link: "https://www.imdb.com/title/tt0000417"
-tags: [ "draft", "shorts" ]
+tags: [ "draft" ]
 title: "Viagem à Lua"
 ---
 O francês Georges Méliès foi um dos privilegiados que assistiu à famosa primeira projeção (coletiva) de Cinema da história: A chegada do trem na estação.

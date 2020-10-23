@@ -1,7 +1,7 @@
 ---
 date: "2018-07-15"
 link: "https://github.com/Caloni/sep_to_kindle"
-tags: [ "code", "draft", "tools", "philosophy" ]
+tags: [ "code", "draft" ]
 title: "Stanford Encyclopedia of Philosophy Para Kindle"
 ---
 A enciclopédia mais completa e de maior respeito da internet não é um enciclopédia geral, mas uma de filosofia. Está hospedada na Universidade de Stanford e possui revisão por pares e toda a autoridade de ser escrita por especialistas nos verbetes em questão. O único problema (até agora) era não ser possível baixá-la para degustar no Kindle. Até agora.

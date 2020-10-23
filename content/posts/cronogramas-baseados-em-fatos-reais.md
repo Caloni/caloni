@@ -1,6 +1,6 @@
 ---
 date: "2011-06-04"
-tags: [ "draft", "essays" ]
+tags: [ "draft" ]
 title: "Cronogramas baseados em fatos reais"
 ---
 Já falei sobre cronogramas por aqui e tudo que disse ainda se aplica. Contudo, comentei brevemente sobre entender seu próprio ritmo, que, instintivamente, sabia ser verdade. Depois que li um pouco mais sobre técnicas XP/Scrum (que nada mais são do que formalizações do que os programadores Agile perceberam no decorrer dos seus projetos) achei uma fórmula simples para transformar o tempo estimado em tempo realista.

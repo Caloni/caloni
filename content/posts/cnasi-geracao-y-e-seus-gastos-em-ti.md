@@ -1,6 +1,6 @@
 ---
 date: "2008-09-25"
-tags: [ "draft", "essays" ]
+tags: [ "draft" ]
 title: "Cnasi, geração Y e seus gastos em TI"
 ---
 

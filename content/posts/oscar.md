@@ -1,7 +1,7 @@
 ---
 date: "2020-06-21"
 link: "https://www.cinemaqui.com.br/oscar-tera-10-indicados-fixos-para-melhor-filme"
-tags: [ "essays" ]
+tags: [ "blog" ]
 title: "Oscar"
 ---
 Quando o chefão do Oscar faz um discurso dizendo que agora oficialmente serão dez os indicados a melhor filme para promover representatividade, diversidade e todos os ades de quem é ista, ele não está sendo um cara legal. Ele está apenas revelando o quanto o Oscar e/ou a sociedade como um todo funciona e o que irão fazer a respeito: nada. Porque nada é o que este povo que se diz politicamente consciente está acostumado a fazer para mostrar que sabe de algo que você, alienado, não sabe, e farão algo a respeito. Bom, resumo da história como sempre: não, não sabem e não, não farão. Não sabem matemática e não farão uma revolução. Provarão ignorância na arte dos números e hipocrisia e conveniência na arte política.

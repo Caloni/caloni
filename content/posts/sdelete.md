@@ -1,6 +1,6 @@
 ---
 date: "2007-11-15"
-tags: [ "code", "draft", "tools" ]
+tags: [ "code", "draft" ]
 title: "SDelete"
 ---
 Minha vida tem que ser portátil. Existem pelo menos três lugares diferentes onde costumo ficar com um computador (não o mesmo). Por causa disso, os dados mais relevantes e que precisam fazer parte do meu sistema biológico eu carrego comigo pra cima e pra baixo em meu PenDrive/MP3Player.

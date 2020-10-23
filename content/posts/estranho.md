@@ -1,6 +1,6 @@
 ---
 date: "2008-03-06"
-tags: [ "fun" ]
+tags: [ "blog" ]
 title: "Estranho"
 ---
 Bom, é hora de dizer tchau. Essa é minha última semana escovando bits na empresa onde estava por três anos. É estranho e esquisito dizer isso, mas me sinto um tanto aliviado. Nessa empreitada, porém, aprendi algumas coisas que valem a pena colocar na bagagem. Sempre é melhor entender do que criticar.

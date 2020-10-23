@@ -1,7 +1,7 @@
 ---
 date: "2020-10-18"
 link: "https://www.imdb.com/title/tt13034494"
-tags: [ "movies", "cinemaqui", "mostrasp" ]
+tags: [ "movies", "cinemaqui" ]
 title: "O Tremor"
 ---
 Onde está O Tremor que destruiu um vilarejo perdido no meio da Índia? Este é o tema deste filme minimalista, de pouco mais de uma hora de duração, que acompanha um fotojornalista em busca do epicentro de sua profissão: registrar o desastre alheio. Quando mais catastrófico melhor.

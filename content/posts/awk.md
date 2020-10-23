@@ -1,6 +1,6 @@
 ---
 date: "2020-06-07"
-tags: [ "code", "tools" ]
+tags: [ "code" ]
 title: "Awk"
 ---
 Meu amigo sugeriu que aprender awk poderia ser útil de várias maneiras. Uma delas para organizar finanças pessoais. Dei uma lida em alguns tutoriais, sendo que o melhor custo benefício foi o [Awk in 20 Minutes], de Fred Hebert (ele é o mesmo autor de um livro sobre erlang). Gostei. É sobre tratamento de texto como sed, mas em uma versão estendida e criada na época com a mesma sintaxe de C.

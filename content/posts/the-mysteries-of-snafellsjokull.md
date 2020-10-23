@@ -1,7 +1,7 @@
 ---
 date: "2012-04-02"
 link: "https://www.imdb.com/title/tt1508304"
-tags: [ "draft", "shorts" ]
+tags: [ "draft" ]
 title: "Le mystère du Snæfellsjökull"
 ---
 Esse média-metragem islandês procura mostrar a história de uma região no país em que, de acordo com "relatos" e com a declaração e Júlio Verne de que ali seria o ponto de entrada para o centro da Terra, é um lugar de concentração de energias e poderia muito bem ser o ponto de contato com extraterrestres.

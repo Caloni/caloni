@@ -1,6 +1,6 @@
 ---
 date: "2018-03-05"
-tags: [ "draft", "events" ]
+tags: [ "draft" ]
 title: "iMasters PHP Experience"
 ---
 Meu primeiro post no blog sobre PHP. Já programei alguma coisinha no passado e meu amigo Strauss fez o blogue dele todo em php, do zero. Sim. Programador de verdade ele.

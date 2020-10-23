@@ -1,6 +1,6 @@
 ---
 date: "2019-09-08"
-tags: [ "draft", "food", "recipes" ]
+tags: [ "draft", "recipes" ]
 title: "Receita: Canja de Frango"
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: "2010-11-02"
-tags: [ "code", "draft", "essays", "tools" ]
+tags: [ "code", "draft" ]
 title: "Então você ainda não usa controle de fonte?"
 ---
 

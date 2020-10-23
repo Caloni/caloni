@@ -1,6 +1,6 @@
 ---
 date: "2016-10-05"
-tags: [ "blog", "tools" ]
+tags: [ "blog" ]
 title: "Guardando Senhas com Vim"
 ---
 Eu já sabia que havia um sistema de criptografia de arquivos no Vim. Isso pode ser útil para textos secretos, ou para enviar qualquer bobagem para outra pessoa que sabe de uma senha que só vocês conhecem. Porém, o método default de criptografia dele não me animava. O pkzip é usa um algoritmo fraco, e os inúmeros programas que quebram zips encriptados estão aí para demonstrar. Além do mais, o blowfish da versão 7 do Vim tem problemas em gerar seu salt que favorece ataques de força bruta tão baratos quanto um XOR. E é aí que entra em cena o Vim 8.

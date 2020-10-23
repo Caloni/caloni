@@ -1,7 +1,7 @@
 ---
 date: "2020-04-07"
 link: "https://www.imdb.com/title/tt0190590"
-tags: [ "movies", "miniviews" ]
+tags: [ "movies" ]
 title: "E Aí, Meu Irmão, Cadê Você?"
 ---
 Irmãos Coen e seu amor pelo folclore americano. E suas músicas. É época da Depressão e eles juntam com a Odisseia de Ulisses e várias músicas regionais.

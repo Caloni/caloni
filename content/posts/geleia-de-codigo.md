@@ -1,6 +1,6 @@
 ---
 date: "2014-04-15"
-tags: [ "code", "draft", "puzzle" ]
+tags: [ "code", "draft" ]
 title: "Geleia de Código"
 ---
 

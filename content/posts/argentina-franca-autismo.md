@@ -1,6 +1,6 @@
 ---
 date: "2018-07-01"
-tags: [ "draft", "essays" ]
+tags: [ "draft" ]
 title: "Argentina vs França e o Fim da Geração dos Autistas"
 ---
 A tecnologia e o profissionalismo chegaram na copa em um nível nunca antes visto. Se compararmos com o que o atacante que fez o primeiro gol na primeira copa, o francês Lucien Laurent, notamos o abismo entre o ontem e o hoje do Planeta Futebol:

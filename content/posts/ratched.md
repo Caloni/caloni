@@ -1,7 +1,7 @@
 ---
 date: "2020-10-04"
 link: "https://www.imdb.com/title/tt7423538"
-tags: [ "series", "miniviews" ]
+tags: [ "series" ]
 title: "Ratched"
 ---
 Tudo é desculpa para fazer um filme ou série de streaming. Nesse caso é a personagem Enfermeira Mildred Ratched, do livro, peça e filme Um Estranho no Ninho, aquele protagonizado por Jack Nicholson e que cria uma das vilãs mais icônicas do cinema, a tal enfermeira.

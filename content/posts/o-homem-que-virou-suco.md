@@ -1,7 +1,7 @@
 ---
 date: "2020-04-26"
 link: "https://www.imdb.com/title/tt0178585"
-tags: [ "movies", "miniviews" ]
+tags: [ "movies" ]
 title: "O Homem Que Virou Suco"
 ---
 O pacote comunista completo anos 80 em um filme imperdível. Ele retrata São Paulo nessa época de maneira tão dinâmica e vibrante que se torna um documentário. Ele desbrava esse preconceito e esses maus tratos com o nordestino sem filtros, e com isso revela não uma ferida do passado, mas um motivo separatista: nordestinos e sulistas são povos distintos com culturas conflitantes.
