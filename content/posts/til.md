@@ -11,3 +11,5 @@ Se você guardar o mínimo de conhecimento que aprendeu em um dia de sua vida e 
  - 2020-10-22: para desabilitar expiração de senhas no Oracle o comando `alter user user_name identified by new_password account unlock;` resolve. Para as senhas não expirarem novamente em ambiente de desenv é só usar o comando `ALTER PROFILE "DEFAULT" LIMIT PASSWORD_VERIFY_FUNCTION NULL;` uma vez no banco.
 
  - 2020-10-22: para apagar tags dos posts é possível usar o seguinte comando `sed -e "s/\[ \"tag\"[,]*/[/" -e "s/[,]* \"tag\" ]/ ]/" -e "s/, \"tag\", /, /"`.
+
+ - 2020-10-26: para dar sleep em C++ moderno com resolução de milissegundos é `std::this_thread::sleep_for(std::chrono::milliseconds(200));`. É tão intuitivo que achei preciso anotar.
