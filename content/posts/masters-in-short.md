@@ -1,7 +1,7 @@
 ---
 date: "2020-10-25"
 link: "https://mostraplay.mostra.org/film/masters-in-short/"
-tags: [ "draft" ]
+tags: [ "cinemaqui" ]
 title: "Masters in Short"
 ---
 A proposta da sessão Masters in Short da Mostra de São Paulo esse ano é apresentar alguns curtas de diretores consagrados. São cinco curtas ao total e seis diretores diferentes.
@@ -12,6 +12,6 @@ Os dois curtas seguintes são experimentais. "Os Caçadores de Coelhos" e "O Adi
 
 Outro campeão em fazer passar sono é este "Uma Noite na Ópera", de Sergei Loznitsa. Feito apenas com imagens de arquivos das décadas de 50 e 60 ele captura toda a pomposidade com que diferentes celebridades do show business e da política adentram o teatro de ópera em Paris, Palais Garnier. Cerca de 70% do filme é sobre a entrada da burguesia ao recinto e 30% vemos a performance de uma cantora. Que vale todo o preço, já que é uma performance de respeito, ainda que por alguns meros minutos.
 
-Também vale uma espera a menos glamurosa "Escondida", de Jafar Panahi, em que diretor e filha acompanham uma amiga até um vilarejo distante no Irã em que ela descobriu uma menina com uma voz maravilhosa. Proibida de cantar pela família, o clima deste curta é de documentário informal filmado com celulares Apple, o que combina bem com o estilo desse diretor. Eles filmam com dois celulares. Um deles se afasta durante a rápida performance da menina, escondida atrás de um pano. É nesse momento que aprendemos a função do movimento no cinema. Depois que a câmera para, não tem por que continuar a ouvindo. A mágica de repente some quando nada se mexe na tela.
+Também vale uma espera a menos glamurosa "Escondida", de Jafar Panahi, em que diretor e filha acompanham uma amiga até um vilarejo distante no Irã em que ela descobriu uma menina com uma voz maravilhosa. Proibida de cantar pela família, o clima deste curta é de documentário informal filmado com celulares Apple, o que combina bem com o estilo desse diretor. Eles filmam com dois celulares. Um deles se afasta durante a rápida performance da menina, escondida atrás de um pano. É nesse momento que aprendemos a função do movimento no cinema. Depois que a câmera para, não tem por que continuar a ouvindo.
 
-Sobre a parada do movimento, em todos os sentidos. Isso, sim, tem tudo a ver com a quarentena.
+Curioso como "a mágica" do cinema de repente some quando nada se mexe na tela. E a parada do movimento, em todos os sentidos... isso, sim, tem tudo a ver com a quarentena.
