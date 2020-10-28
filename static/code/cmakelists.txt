@@ -1,5 +1,4 @@
 cmake_minimum_required(VERSION 3.16)
 project (samples)
 add_executable(samples)
-target_compile_features(samples PUBLIC cxx_std_11)
-target_sources(samples PRIVATE rational_numbers.cpp)
+target_sources(samples PRIVATE pega_senha.c)
