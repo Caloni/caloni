@@ -4,12 +4,18 @@ link: "https://www.imdb.com/title/tt11084432"
 tags: [ "draft" ]
 title: "Meu Coração Só Irá Bater se Você Pedir"
 ---
-A menina que faz a irmã usa sua expressão a seu favor. Enigmático sorriso, olhar obstinado.
+Meu Coração Só Irá Bater se Você Pedir tem um título tão fofinho, mas é tão brutal. Se trata de um thriller de terror que faz você ficar preso na poltrona (ou, no caso da pandemia, no sofá) do começo ao fim. Curto na medida certa, seus eventos vão se desenrolando com naturalidade até o clímax necessário, esperado e catártico.
 
-Já o irmão cabisbaixo tenta olhar para um futuro pelo porta retratos do seu quarto.
+A história é simples e direta: três irmãos vivem reclusos, pois os dois mais velhos, Dwight e Jessie, precisam alimentar o caçula, Thomas, com sangue humano. Dwight por ser homem é quem sai à caça de vítimas, geralmente sem-teto à beira de viadutos, em lugares onde ninguém irá notar a ausência de um. Thomas, vampiresco nos detalhes ruins, não pode sair à luz do sol. E Jessie trabalha como garçonete, servindo outros que não o irmão na lanchonete da cidade, atenta a potenciais próximas vítimas, pois sem o sangue o irmão, já abatido, sucumbirá rápido.
 
-Iluminação soberba, amarelada.
+O filme não nos dá os motivos pelo qual essa família está assim formada, nem por que não podem apelar para hospitais ou o furto de bancos de sangue. A história simplesmente é. Somos jogados nela e nos divertimos com seu desenrolar, e ela fica boa menos pelo roteiro e mais pelo ótimo elenco e excelente direção.
 
-Trilha silenciosa, eles precisam da música para suportar o que fazem.
+Dwight é o protagonista e já está farto de ter que matar inocentes e sua hesitação acaba tornando a situação mais complicada ainda. A atuação de Patrick Fugit nos torna testemunhas de sua dor e sonhos de libertação; ele tenta olhar para um futuro pelo porta retratos do seu quarto. Jesse, que é interpretada por Ingrid Sophie Schram que usa sua expressão obstinada a seu favor, é quem manda na casa e impõe regras rígidas para que a família consiga se manter funcional. Já Thomas, vivido por Owen Campbell, possui um misto entre carisma e temperamento controlador, algo já visto em Jesse. Nós acreditamos que esses três personagens de fato são irmãos, pois partes da personalidade de um é encontrado no outro. É uma das melhores virtudes do filme ter encontrado esse trio de atores para os papéis principais.
 
-Domínio completo do quadro, limitado, mas preenchendo toda a tela.
+A iluminação de "Meu Coração Só Irá Bater" é soberba em sua pobreza meticulosa. Amarelada, a luz interna da casa dos irmãos permite com que as sombras se tornem mais ameaçadoras, e os móveis velhos que parecem sem vida nunca ficariam tão desconfortáveis não fosse essa fotografia impressionista, minimalista, de Michael Cuartas, irmão do diretor, Jonathan.
+
+Ambos já trabalharam juntos em curtas, mas esta é a estreia de ambos em um longa-metragem. E enquanto Michael nos controla pelos filtros com que consegue trazer um novo tom para a escuridão, Jonathan demonstra um domínio completo de seus quadros, limitados em uma proporção de tela reduzida, o que causa um efeito claustofóbico em nossos dias de widescreen. Jonathan consegue preencher todo o seu campo de visão com elementos do cenário, mas, principalmente, deixa de fora cantos vazios para o espectador respirar.
+
+Com uma trilha na maior parte do tempo silenciosa, é curioso como os irmãos precisam da música para suportar a vida que levam. Eles também comemoram o natal uma vez por mês, se dando presentes. A riqueza dos detalhes para por aí, pois Jonathan evita no roteiro trazer referências à mitologia do vampiro ou relações metafóricas com a realidade. Não há rodeios nem floreios na ação deste terror dramático, o que faz perder um pouco o potencial da atmosfera eficiente que é criada a cada novo plano. É eficiente como narrativa, mas falta algo que nos faça lembrar deste trabalho por mais tempo que sua uma hora e meia. Deixe-me Entrar, por exemplo, terror sueco em que uma criatura que se assemelha a uma vampira, possui outros temas acontecendo em paralelo, e pode ser também um estudo de personagem sobre bullying escolar. Aqui as pressões familiares são sugeridas, mas sem ênfase necessária para isso se tornar um detalhe marcante do filme.
+
+Meu Coração Só Irá Bater se Você Pedir, verso da música da cantora Helene Smith, é um filme perturbador enquanto o assistimos, mas fácil de ver e dormir tranquilo à noite. Não há fantasmas para nos assombrar no universo de Jonathan Cuartas, embora sua estética seja apaixonante por si só.
