@@ -1,7 +1,7 @@
 ---
 date: "2020-11-01"
 link: "https://www.imdb.com/title/tt11084432"
-tags: [ "draft" ]
+tags: [ "cinemaqui", "movies", "reviews" ]
 title: "Meu Coração Só Irá Bater se Você Pedir"
 ---
 Meu Coração Só Irá Bater se Você Pedir tem um título tão longo e tão fofinho, mas é tão brutal. Se trata de um thriller de terror que faz você ficar preso na poltrona (ou, no caso da pandemia, no sofá) do começo ao fim. Curto na medida certa, seus eventos vão se desenrolando com naturalidade até o clímax necessário, esperado e catártico.
@@ -20,6 +20,6 @@ Ambos já trabalharam juntos em curtas, mas esta é a estreia de ambos em um lon
 
 Com uma trilha na maior parte do tempo silenciosa, mas eficiente nos poucos momentos que se faz presente, é curioso como os irmãos precisam da música para suportar a vida que levam. Eles também comemoram o natal uma vez por mês, se dando presentes. Há poucos elementos que enriquecem a atmosfera do filme, mas esses poucos sempre melhoram o filme.
 
-Infelizmente a riqueza dos detalhes para por aí, pois Jonathan evita no roteiro trazer referências à mitologia do vampiro ou relações metafóricas com a realidade. Não há rodeios nem floreios na ação deste terror dramático, o que faz perder um pouco o potencial da atmosfera eficiente que é criada a cada novo plano. É eficiente como narrativa, mas falta algo que nos faça lembrar deste trabalho por mais tempo que sua uma hora e meia. Por comparação, por exemplo, Deixe-me Entrar, terror sueco que também envolve vampirismo, contém outros temas em paralelo, e se torna também um estudo de personagem sobre bullying escolar. Em "Meu Coração" apenas pressões familiares são sugeridas, mas sem ênfase necessária para isso se tornar um detalhe marcante.
+Infelizmente a riqueza dos detalhes para por aí, pois Jonathan evita no roteiro trazer referências à mitologia do vampiro ou relações metafóricas com a realidade. Não há rodeios nem floreios na ação deste terror dramático, o que faz perder um pouco o potencial da atmosfera eficiente que é criada a cada novo plano. É eficiente como narrativa, mas falta algo que nos faça lembrar deste trabalho por mais tempo que sua uma hora e meia. Por comparação, por exemplo, Deixe-me Entrar, terror sueco que também envolve vampirismo, contém outros temas em paralelo, e se torna também um estudo de personagem sobre bullying escolar. Em "Meu Coração" apenas pressões da família e da solidão são sugeridas, mas sem ênfase necessária para isso se tornar um detalhe marcante.
 
 Meu Coração Só Irá Bater se Você Pedir, também verso da música da cantora Helene Smith, é um filme perturbador enquanto o assistimos, mas fácil de ver e dormir tranquilo à noite. Não há fantasmas para nos assombrar no universo de Jonathan Cuartas, embora sua estética seja apaixonante por si só.
