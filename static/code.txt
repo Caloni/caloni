@@ -6707,12 +6707,6 @@ depuracao-na-nuvem.md:    000007f9`bd5900ff ...
 depuracao-na-nuvem.md:    000007f9`bd59015f call __internal_wait_for_replies
 depuracao-na-nuvem.md:    000007f9`bd59017f pop esp
 depuracao-na-nuvem.md:    ...
-depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github.md:    gitindex.py --help
-depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github.md:    usage: gitindex.py [-h] 
-depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github.md:    --dbgtools DBGTOOLS 
-depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github.md:    --pdbpath PDBPATH 
-depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github.md:    --projname PROJNAME 
-depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github.md:    --repo REPO
 desconstruindo-ioccc.md:    
 desconstruindo-ioccc.md:    int i;main(){for(;i["]<i;++i){--i;}"];read('-'-'-',i+++"hell\
 desconstruindo-ioccc.md:    o, world!\n",'/'/'/'));}read(j,i,p){write(j/p+p,i---j,i/i);}
