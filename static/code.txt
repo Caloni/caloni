@@ -1,36 +1,3 @@
-acessando-memoria-fisica-no-windbg.md:    
-acessando-memoria-fisica-no-windbg.md:       10   16   16   16   16   (decimal)
-acessando-memoria-fisica-no-windbg.md:       A    0    0    0    0    (hexadecimal)
-acessando-memoria-fisica-no-windbg.md:       1010 0000 0000 0000 0000 (binário)
-acessando-memoria-fisica-no-windbg.md:    
-acessando-memoria-fisica-no-windbg.md:       segmento:      0x   9022
-acessando-memoria-fisica-no-windbg.md:       offset:        0x   1514
-acessando-memoria-fisica-no-windbg.md:    
-acessando-memoria-fisica-no-windbg.md:                      0x   9022
-acessando-memoria-fisica-no-windbg.md:                      0x    1514 (+)
-acessando-memoria-fisica-no-windbg.md:       endereço real: 0x   91734
-acessando-memoria-fisica-no-windbg.md:    
-acessando-memoria-fisica-no-windbg.md:       0x  9000
-acessando-memoria-fisica-no-windbg.md:       0x   1734 (+)
-acessando-memoria-fisica-no-windbg.md:       0x  91734
-acessando-memoria-fisica-no-windbg.md:    
-acessando-memoria-fisica-no-windbg.md:    windbg -kl $$ kernel debugging local
-acessando-memoria-fisica-no-windbg.md:    
-acessando-memoria-fisica-no-windbg.md:    lkd> !db 91734
-acessando-memoria-fisica-no-windbg.md:    #   91734 00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00 ................
-acessando-memoria-fisica-no-windbg.md:    #   91744 00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00 ................
-acessando-memoria-fisica-no-windbg.md:    #   91754 00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00 ................
-acessando-memoria-fisica-no-windbg.md:    #   91764 00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00 ................
-acessando-memoria-fisica-no-windbg.md:    #   91774 00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00 ................
-acessando-memoria-fisica-no-windbg.md:    #   91784 00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00 ................
-acessando-memoria-fisica-no-windbg.md:    #   91794 00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00 ................
-acessando-memoria-fisica-no-windbg.md:    $$ o sinal de # no início denota memória real
-acessando-memoria-fisica-no-windbg.md:    
-acessando-memoria-fisica-no-windbg.md:       notação  descrição                     exemplo
-acessando-memoria-fisica-no-windbg.md:    
-acessando-memoria-fisica-no-windbg.md:       %        endereços de 32 ou 64 bits    %6400000   (primeiro byte de 100 MB)
-acessando-memoria-fisica-no-windbg.md:       &        endereço em modo real 8086    &9000:1734 (segmento 9000, offset 1734)
-acessando-memoria-fisica-no-windbg.md:       #        endereço em modo real 8086    #4C        (endereço da int 0x13)
 adplus-no-cliente-nao-voce.md:    
 adplus-no-cliente-nao-voce.md:    AdPlus.vbs -crash -sc notepad.exe
 adplus-no-cliente-nao-voce.md:    
