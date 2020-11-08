@@ -11509,10 +11509,6 @@ openssh-windows.md:           AuthorizedKeysFile __PROGRAMDATA__/ssh/administrat
 openssh-windows.md:    #Match Group administrators
 openssh-windows.md:    #       AuthorizedKeysFile __PROGRAMDATA__/ssh/administrators_authorized_keys
 openssh-windows.md:    ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no domain\user@host
-origem-do-tipo-char.md:    c = char(string, i); // the i-th character of the string is returned
-origem-do-tipo-char.md:    int getchar( void ); // read a character from stdin
-origem-do-tipo-char.md:    int putchar( int c ); // writes a character to stdout
-origem-do-tipo-char.md:    void *memset( void *dest, int c, size_t count ); // sets buffers to a specified character
 os-diferentes-erros-na-linguagem-c.md:    
 os-diferentes-erros-na-linguagem-c.md:    #include <stdio.h>
 os-diferentes-erros-na-linguagem-c.md:    
