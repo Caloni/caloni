@@ -1,5 +1,6 @@
 ---
 date: "2007-08-09"
+link: "/ppt/antidebugging-eu-nao-quero-que-vc-mexa-no-meu-codigo.pdf"
 tags: [ "code", "draft",  ]
 title: "Antidebug: interpretação baseada em exceção (parte 2)"
 ---

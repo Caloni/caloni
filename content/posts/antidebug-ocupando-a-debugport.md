@@ -1,5 +1,6 @@
 ---
 date: "2007-08-23"
+link: "/ppt/antidebugging-eu-nao-quero-que-vc-mexa-no-meu-codigo.pdf"
 tags: [ "code", "draft",  ]
 title: "Antidebug: ocupando a DebugPort"
 ---

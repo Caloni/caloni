@@ -1,5 +1,6 @@
 ---
 date: "2008-08-05"
+link: "/ppt/antidebugging-eu-nao-quero-que-vc-mexa-no-meu-codigo.pdf"
 tags: [ "code", "draft",  ]
 title: "Antidebugging during the process attach"
 ---

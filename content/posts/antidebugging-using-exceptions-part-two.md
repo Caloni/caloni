@@ -1,5 +1,6 @@
 ---
 date: "2008-07-30"
+link: "/ppt/antidebugging-eu-nao-quero-que-vc-mexa-no-meu-codigo.pdf"
 tags: [ "code", "draft",  ]
 title: "Antidebugging using exceptions (part two)"
 ---
