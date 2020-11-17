@@ -1,7 +1,7 @@
 ---
 date: "2010-06-11"
 link: "https://www.imdb.com/title/tt1212436"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Plano B"
 ---
 O produtor e diretor de TV Alan Poul resolve fazer este seu único longa para o Cinema que se transforma em uma mesmice sem tamanho. E olha que em questão de comédias românticas, mesmice já é a regra.
@@ -16,8 +16,7 @@ O filme ganha situações e expressões inusitadas (e um ritmo mais movimentado)
 
 No entanto, esse filme é cozido em banho-maria, sendo que me lembro apenas de dois momentos que ele finalmente parece se sair melhor do que é:
 
-1. Stan com o cara do parque, que com pouquíssimas palavras e muitos movimentos demonstra o que é ter três filho.
-
-2. A cena em que paulatinamente vamos percebendo que ela não faz parte do grupo das mães solteiras.
+ - Stan com o cara do parque, que com pouquíssimas palavras e muitos movimentos demonstra o que é ter três filho.
+ - A cena em que paulatinamente vamos percebendo que ela não faz parte do grupo das mães solteiras.
 
 Tirando isso, Plano B se sai melhor como um entretenimento no meio de uma tarde chuvosa sem ter mesmo muito o que fazer.

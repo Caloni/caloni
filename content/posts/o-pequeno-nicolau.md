@@ -1,7 +1,7 @@
 ---
 date: "2010-06-02"
 link: "https://www.imdb.com/title/tt1264904"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Pequeno Nicolau"
 ---
 O Pequeno Nicolau é aquele típico exemplo de filme fofinho que funciona pela dedicação de sua direção de arte em reconstruir a época com um esmero tocante, por seu roteiro que entende a mente das crianças, e como sua criatividade às vezes (quase sempre) extrapola os limites da vida real de maneira encantadora, por sua direção que não mede esforços para situar o ponto de vista de tudo que acontece através dos olhos do pequeno Nicolau do título, um personagem famoso em livros franceses.

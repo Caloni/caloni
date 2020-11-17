@@ -1,7 +1,7 @@
 ---
 date: "2010-06-09"
 link: "https://www.imdb.com/title/tt1127877"
-tags: [ "draft", "movies" ]
+tags: [ "movies", "reviews" ]
 title: "Almas à venda"
 ---
 Esse filme escrito e dirigido pela estreante Sophie Barthes tenta usar o conceito de alma mais ou menos como um órgão transplantado, mas muito mais flexível, já que é possível usar a alma de outras pessoas para potencializar áreas na vida em que se é um zero à esquerda. Aí é que entra Paul Giamatti que interpreta... Paul Giamatti! Ele está com problemas com uma nova peça e resolve trocar de alma por uma que seja compatível com o personagem que tenta interpretar.
@@ -10,4 +10,6 @@ Sendo filmado como um thriller cômico, o filme ganha ritmo apenas ao tentar exp
 
 Outro aspecto interessante é que as almas possuem cores e formas diferentes, e é óbvia a piada das celebridades terem almas "maiores" fisicamente, enquanto a do protagonista é minúscula e possui um formato pouco lisonjeador. A forma como a alma é tratada implica em como tratamos coisas de hoje em dia de maneira completamente banal. Se antes, no senso geral, a alma é algo inviolável, sagrado, na conversa com o Dr. fica bem óbvio que passa a ser mais um simples órgão, ou o que o valha. (O ator exclama "até que ponto chegamos", no que o Dr. responde "é a tecnologia, seu avanço", como se esse fosse o único empecilho para a agora possível extração de almas).
 
-Ao ver a técnica de extrair almas é inevitável a comparação com o apagar de memória em Brilho Eterno de uma Mente sem Lembranças, e é notável como pode-se comparar ambos os filmes, principalmente na superioridade do roteiro de Brilho Eterno, que não se deixa intimidar pela ideia origina e poderosa. Infelizmente, Almas à Venda sucumbe à sua própria ideia de ser original e em seu segundo e terceiro atos parte para um thriller clichê. É triste ver um tema tão bom não ser expandido em suas potencialidades, se bastando em uma historinha besta que poderia muito bem estar em outro contexto (tráfico de qualquer outro órgão, por exemplo).
+Ao ver a técnica de extrair almas é inevitável a comparação com o apagar de memória em [Brilho Eterno de uma Mente sem Lembranças], e é notável como pode-se comparar ambos os filmes, principalmente na superioridade do roteiro de Brilho Eterno, que não se deixa intimidar pela ideia original e poderosa. Infelizmente, Almas à Venda sucumbe à sua própria ideia de ser original e em seu segundo e terceiro atos parte para um thriller clichê. É triste ver um tema tão bom não ser expandido em suas potencialidades, se bastando em uma historinha besta que poderia muito bem estar em outro contexto (tráfico de qualquer outro órgão, por exemplo).
+
+[Brilho Eterno de uma Mente sem Lembranças]: /brilho-eterno-de-uma-mente-sem-lembrancas
