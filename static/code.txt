@@ -16385,36 +16385,6 @@ vcpkg-boost-windows-xp.md:
 vcpkg-boost-windows-xp.md:    #Running ConsoleApplication1.exe from Windows XP
 vcpkg-boost-windows-xp.md:    C:\Temp>ConsoleApplication1.exe
 vcpkg-boost-windows-xp.md:    [2019-09-16 15:59:44.261500] [0x00000194] [error]   test
-vcpkg-bootstrap.md:    @echo off
-vcpkg-bootstrap.md:    
-vcpkg-bootstrap.md:    if not exist vcpkg (
-vcpkg-bootstrap.md:        git clone https://url/vcpkg.git
-vcpkg-bootstrap.md:    ) else (
-vcpkg-bootstrap.md:        echo vcpkg already cloned
-vcpkg-bootstrap.md:    )
-vcpkg-bootstrap.md:    
-vcpkg-bootstrap.md:    if not exist vcpkg\vcpkg.exe (
-vcpkg-bootstrap.md:        pushd vcpkg
-vcpkg-bootstrap.md:        call bootstrap-vcpkg.bat
-vcpkg-bootstrap.md:        popd
-vcpkg-bootstrap.md:    ) else (
-vcpkg-bootstrap.md:        echo vcpkg already installed
-vcpkg-bootstrap.md:    )
-vcpkg-bootstrap.md:    
-vcpkg-bootstrap.md:    if exist vcpkg\vcpkg.exe (
-vcpkg-bootstrap.md:        pushd vcpkg
-vcpkg-bootstrap.md:        vcpkg update
-vcpkg-bootstrap.md:        vcpkg install boost-asio:x86-windows boost-program-options:x86-windows [...] openssl:x86-windows
-vcpkg-bootstrap.md:        vcpkg integrate install
-vcpkg-bootstrap.md:        popd
-vcpkg-bootstrap.md:    )
-vcpkg-bootstrap.md:    <PreBuildEvent>
-vcpkg-bootstrap.md:        <Command>
-vcpkg-bootstrap.md:            pushd $(SolutionDir)
-vcpkg-bootstrap.md:            call bootstrap.bat
-vcpkg-bootstrap.md:            popd
-vcpkg-bootstrap.md:        </Command>
-vcpkg-bootstrap.md:    </PreBuildEvent>
 vcpkg-internals.md:    SetConsoleCP(CP_UTF8);
 vcpkg-internals.md:    SetConsoleOutputCP(CP_UTF8);
 vcpkg-internals.md:    c:\Libs\vcpkg>vcpkg help triplet
