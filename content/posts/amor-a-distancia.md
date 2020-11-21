@@ -1,7 +1,7 @@
 ---
 date: "2010-09-10"
 link: "https://www.imdb.com/title/tt1322312"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Amor à Distância"
 ---
 Os personagens desse filme vivem citando filmes, como na cena em que o protagonista imita Morgan Freeman em "Um Sonho de Liberdade". Com essa cena podemos dizer que o filme não é nada original, e usa referências à toa.

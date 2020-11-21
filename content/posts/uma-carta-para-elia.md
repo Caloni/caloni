@@ -1,7 +1,7 @@
 ---
 date: "2010-10-04"
 link: "https://www.imdb.com/title/tt0808245"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "A Letter to Elia"
 ---
 O documentário logo se revela mais pessoal que o normal, pois os nomes das pessoas não são apresentadas na primeira vez que elas aparecem (basicamente Elia Kazaan e Scorcese, o diretor do filme).
@@ -14,5 +14,4 @@ As opiniões de Scorcese e Kazaan às vezes são confrontadas, como se ambos est
 
 O filme acaba revelando muito mais sobre o próprio Scorcese, sua visão estilística dos filmes do colega e suas motivações como diretor, do que propriamente revelações sobre o destinatário da "carta".
 
-Interessante notar, por exemplo, como todo cinéfilo, Scorcese aprendeu primeiro a apreciar a arte por ela mesma, para depois se dedicar aos estudos técnicos, como é bem mostrado na descrição das cenas e da história de Vidas Amargas, quando ao final ele descreve tecnicamente uma cena no cenário que ele chama de "O" corredor.
-
+Interessante notar que, como todo cinéfilo, Scorcese aprendeu primeiro a apreciar a arte por ela mesma, para depois se dedicar aos estudos técnicos, como é bem mostrado na descrição das cenas e da história de Vidas Amargas, quando ao final ele descreve tecnicamente uma cena no cenário que ele chama de "O" corredor.

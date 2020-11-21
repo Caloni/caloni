@@ -1,8 +1,8 @@
 ---
 date: "2010-10-08"
 link: "https://www.imdb.com/title/tt1555149"
-tags: [ "draft", "movies" ]
-title: "Tropa de Elite 2 O Inimigo Agora É Outro"
+tags: [ "movies" ]
+title: "Tropa de Elite 2: O Inimigo Agora é Outro"
 ---
 Os trailers da continuação da história do morro do ponto de vista do Cap. Nascimento deixam bem visível, inclusive no seu subtítulo, que iremos acompanhar uma nova guinada na explicação do sistema, algo um pouco mais acima da hierarquia: vai entrar no mundo da política. Isso pode dar a impressão que a história ficaria mais monótona e com pouca ação. Talvez dê até a impressão que não será possível fazer os belos quadros que vimos no primeiro, que junta todos os pontos da narrativa de maneira tão eficaz. Ledo engano: essa continuação fica ainda mais densa e com uma história ainda mais perversa e criativa, nos dando a oportunidade de ir mais além na história do morro, imaginando como seria se o BOPE realmente detonasse os traficantes.
 

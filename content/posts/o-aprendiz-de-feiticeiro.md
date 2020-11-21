@@ -1,7 +1,7 @@
 ---
 date: "2010-08-13"
 link: "https://www.imdb.com/title/tt0963966"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Aprendiz de Feiticeiro"
 ---
 E aqui vamos nós para mais um filme bonitinho, emocionante e formatado nos últimos padrões que a Disney recomenda para que tenhamos mais uma possível franquia seguindo os modelos razoavelmente bem sucedidos dos Piratas do Caribe e Crônicas de Nárnia, e também a futura promessa do Príncipe da Pérsia.
@@ -20,4 +20,6 @@ Uma brincadeira/referência interessante a Nikola Tesla, que anda cada vez mais 
 
 É impressionante como a única cena de morte, a do motorista que é atingido por Horvath enquanto este procura o vaso de Morgana, é escondido pelo vidro quebrado, provando igual competência que os filmes Transformer em esconder que um massacre está ocorrendo (nesse caso, foi apenas um "mero" assassinato, o que aumentaria considerável e desnecessariamente o nível de censura do filme como um todo).
 
-E se estamos assistindo a um filme da Disney, pelo menos é um alívio não termos que ver apenas a referência tosca inicial do despertados do Buzz Lighyear, mas uma tentativa de reconstrução admirável da cena das vassouras em Fantasia, com direito à mesma trilha sonora. Foi o momento mais mágico do filme, pela nostalgia e pelo esforço.
+Assistindo filmes da Disney hoje em dia quer dizer não ver apenas referências toscas ao seu universo comprado, como o despertador de Buzz Lightyear de [Toy Story], mas uma tentativa de reconstrução admirável da cena das vassouras em Fantasia, com direito à mesma trilha sonora. Foi o momento mais mágico do filme. Pelo esforço e pela nostalgia.
+
+[Toy Story]: /toy-story

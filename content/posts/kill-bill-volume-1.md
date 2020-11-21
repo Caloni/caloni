@@ -2,8 +2,8 @@
 count: 2
 date: "2010-09-09"
 link: "https://www.imdb.com/title/tt0266697"
-tags: [ "draft", "movies" ]
-title: "Kill Bill Volume 1"
+tags: [ "movies" ]
+title: "Kill Bill: Volume 1"
 ---
 Não é preciso dizer que Quentin Tarantino é um diretor pop e cult, e uma coisa o levou à outra. Também não é preciso dizer o quanto filmes de artes marciais são um pedaço importantíssimo na cultura pop/"trash" dos anos 70 e 80. Se juntarmos esses dois universos teremos Kill Bill, um filme feito para ser um só, mas que por motivos comerciais acabou inchando e dividindo-se.
 

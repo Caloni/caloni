@@ -1,10 +1,10 @@
 ---
 date: "2010-08-27"
 link: "https://www.imdb.com/title/tt0125439"
-tags: [ "draft", "movies" ]
+tags: [ "movies", "reviews" ]
 title: "Um Lugar Chamado Notting Hill"
 ---
-Está é uma história estilo conto de fadas, em que uma famosa atriz, inalcançável pela maioria dos mortais, acaba visitando um pequeno bairro de Londres (o Notting Hill do título) e conhece o dono de uma loja de livros de viagem (e é curioso que provavelmente ela deve ter viajado para muitos dos lugares descritos nos livros de suas estantes) e vivem um inusitado romance.
+Esta é uma história estilo conto de fadas, em que uma famosa atriz, inalcançável pela maioria dos mortais, acaba visitando um pequeno bairro de Londres (o Notting Hill do título) e conhece o dono de uma loja de livros de viagem (e é curioso que provavelmente ela deve ter viajado para muitos dos lugares descritos nos livros de suas estantes) e vivem um inusitado romance.
 
 Como eu disse, é uma história não-verossímil, e tanto a direção de arte quanto a fotografia sabem disso. Escolhendo um bairro bucólico da fria Londres, os ambientes parecem cinematográficos por natureza. Apostando em uma luminosidade mais clara que de costume o filme remete a um sonho, onde tudo é mais claro, mas ao mesmo tempo mais confuso (note a explosão de cores na feira e o quão agitadas são as ruas).
 
@@ -12,7 +12,7 @@ Os atores são conhecidíssimos, e isso por um lado favorece Julia Roberts e por
 
 Se por um lado a história é incrível demais para ser verdade, ela é levada como algo factível, com todas as nuances que uma história assim teria se fosse real. Dessa forma podemos acompanhar o jantar de aniversário da irmã caçula de Grant de forma bem confortável, pois enxergamos perfeitamente a situação daqueles mortais tentando soar autênticos no meio da musa do cinema.
 
-Alguns detalhes da vida de atriz são bem mostradas, como o momento em que ele, no meio de uma coletiva da imprensa após a exibição da prévia de seu filme, seu afeto tem que fingir ser um repórter de uma revista enquanto seu empresário circula pela mesma sala onde conversam.
+Alguns detalhes da vida de atriz fazem sentido, como o momento em que o personagem de Grant, no meio de uma coletiva da imprensa após a exibição de um filme, ele tem que fingir ser um repórter de uma revista enquanto o empresário da personagem de Roberts circula pela mesma sala onde conversam.
 
 Com algumas reviravoltas a mais, a narrativa estabelece de forma competente o aumento na intimidade de ambos conforme a história avança, e a própria evolução do tempo é bem estruturada, muitas vezes demonstrada visualmente de forma tão econômica quanto na sequência da passagem de um ano como uma caminhada na rua da feira que "tem todos os dias" (e note que a moça grávida do início dessa cena aparece no final carregando seu filho, ou como o casal que está junto briga no meio da caminhada).
 

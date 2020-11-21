@@ -1,7 +1,7 @@
 ---
 date: "2010-10-08"
 link: "https://www.imdb.com/title/tt1576382"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Dois Irmãos"
 ---
 O maior mérito da direção deste filme é deixar a história fluir sem interferências, dando vazão a ambas às interpretações, ambas dignas, apesar de gerarem efeitos diversos.
@@ -21,4 +21,3 @@ E sensivelmente, em seu primeiro teste, ele demonstra como pode ser bom ator, e 
 Os sussurros nas paredes, em que eles escutam pelos copos, são usados para ambos dizerem verdades (quer dizer, ele dizer). E durante o sono da irmã, ele também pode atacá-la.
 
 Ao final, o quadro belíssimo: agora ambos os irmãos olha o rio do mesmo lado. O que me faz pensar: seria isso uma tentativa de metaforizar a relação argentina-uruguai?
-

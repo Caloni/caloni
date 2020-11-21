@@ -1,7 +1,7 @@
 ---
 date: "2010-09-03"
 link: "https://www.imdb.com/title/tt1024899"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Enfim Viúva"
 ---
 Essa é uma comédia francesa em que uma mulher tem seu marido morto em um acidente de carro justo quando está prestes a se despedir deste e fugir com seu amante, um pescador da região, e morar com ele na China. Junto da morte do marido vem toda sua família, inclusive seu filho, que fazem de tudo para "cuidar dela" e impedi-la de "curtir" seus primeiros momentos de viuvez.

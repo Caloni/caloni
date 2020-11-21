@@ -1,12 +1,12 @@
 ---
 date: "2010-10-26"
 link: "https://www.imdb.com/title/tt1679538"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Bróder"
 ---
 A história do estreante diretor Jeferson De, cuja sessão em que estava presente tive o privilégio de participar, inicia com uma grande sequência sem cortes em que Macu desce a ladeira de sua casa pelos becos e ruas do bairro; uma cena que, além de nos mostrar o nível de intimidade do protagonista com seus vizinhos, ainda dá uma ideia muito boa da extensão desse ambiente. A música de abertura, inicialmente não fazendo parte do ambiente, se transforma em música de rádio. Podemos ver essa brincadeira acontecer em quase toda a trilha sonora, que corajosamente escolhe não salpicar as cenas de música, criando tensão em várias cenas simplesmente por diálogos exaltados e movimentos de câmera.
 
-Com alguns artifícios conhecidos como plano-sequência já citado no primeiro parágrafo e o "rack focus" para denotar o "sujeito do mal" enquanto Macu anda pelas ruas de Capão Redondo ou o enquadramento do carrão de Jaiminho pelo corredor estreito onde ele para demonstram que o diretor começa sua carreira experimentando o que havia estudado, e se tenta usar várias técnicas ao mesmo tempo, pelo menos as escolhe seletivamente, nunca abusando da auto-indulgência.
+Com alguns artifícios conhecidos como plano-sequência já citado no primeiro parágrafo e o "rack focus" para denotar o "sujeito do mal" enquanto Macu anda pelas ruas de Capão Redondo, ou o enquadramento do carrão de Jaiminho pelo corredor estreito onde ele para, demonstram que o diretor começa sua carreira experimentando o que havia estudado, e se tenta usar várias técnicas ao mesmo tempo, pelo menos as escolhe seletivamente, nunca abusando da auto-indulgência.
 
 Com elementos que trazem identidade à vida de classe pobre da capital paulista, como garrafas de cerveja dentro de uma sacola de feira, ou a simpatia de benzedeira
 
