@@ -1,4 +1,4 @@
 cmake_minimum_required(VERSION 3.16)
 project (samples)
 add_executable(samples)
-target_sources(samples PRIVATE quick_sort.c)
+target_sources(samples PRIVATE anagram_main.c permutation.c words.c)
