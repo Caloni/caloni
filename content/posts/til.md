@@ -13,3 +13,5 @@ Se você guardar o mínimo de conhecimento que aprendeu em um dia de sua vida e 
  - 2020-10-22: para apagar tags dos posts é possível usar o seguinte comando `sed -e "s/\[ \"tag\"[,]*/[/" -e "s/[,]* \"tag\" ]/ ]/" -e "s/, \"tag\", /, /"`.
 
  - 2020-10-26: para dar sleep em C++ moderno com resolução de milissegundos é `std::this_thread::sleep_for(std::chrono::milliseconds(200));`. É tão intuitivo que achei preciso anotar.
+
+ - 2020-11-21: para eliminar qualquer nova-linha em uma string C após ler uma linha da entrada usar uma desconhecida função padrão: `buffer[strcspn(buffer, "\r\n")] = 0;`.
