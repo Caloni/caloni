@@ -1,19 +1,17 @@
 ---
 date: "2016-04-07"
-link: "https://www.imdb.com/title/tt1475582"
-tags: [ "draft", "series" ]
-title: "Sherlock - A Noiva Abominável"
+link: "https://www.imdb.com/title/tt3845232"
+tags: [ "series" ]
+title: "Sherlock: The Abominable Bride"
 ---
-Como li em algum lugar, ser fã da série Sherlock é aguardar ansiosamente por um ano três episódios que terminam em um fim-de-semana. Depois disso, mais um ano (ou dois) de espera interminável.
+A quarta temporada da série possui apenas um episódio por enquanto, e como todos os episódios anteriores, do tamanho de um filme de uma hora e meia, mantendo um clima morno metade do seu tempo, diminuindo seu ritmo para retratar a época vitoriana abandonada pela própria premissa da série de se atualizar. Neste episódio estamos na época original de Sherlock Holmes, e em uma de suas história originais, vinda de seus livros que, claro, continuam aqui sendo escritos por Watson.
 
-Mas que episódios!
+O episódio, claro, utiliza os mesmos atores e personagens, mas em disposições ligeiramente diferentes: o irmão mais velho de Sherlock é gigantesco de gordo, e Molly Hooper se disfarça de homem para trabalhar no necrotério. E o roteiro se diverte imensamente dessas diferenças: Sherlock e o irmão apostam em quanto tempo Mycroft irá morrer por comer feito um porco e, em vez de não perceber o amor platônico de Hooper, Holmes não percebe que ela é uma mulher de bigode. O grande trunfo deste episódio é dar uma oxigenada na série e reviver momentos semelhantes de maneira diferente ao de costume.
 
-Elementar, meu caro spoiler.
+Além de manter os artifícios que tornaram "Sherlock" um trabalho monumental de roteiro e uma evolução no que diz respeito a direção de arte e fotografia, a direção mantém o mesmo ritmo de melhora contínua. As transições elegantes entre um labirinto de plantas e os dedos pensativos de Holmes ou um testemunho na sala de estar do detetive "se jogando" frente à cena do crime são dois exemplos de uma série racional, pautada em diálogos, mas sem perder seu dinamismo visual, sua provocação constante e eclética na mente do espectador.
 
-A quarta temporada da série possui apenas um episódio (por enquanto), do tamanho de um filme -- não uma exclusividade, isso já foi feito -- e que mantêm um clima morno metade do tempo, diminuindo o ritmo e retratando uma outra época: a época original de Sherlock, a história original de seus livros (que, claro, continuam aqui sendo escritos por Watson).
+Sendo assim, se é divertido acompanhar os letreiros que pulam na tela quando um personagem recebe um bilhete, ou os recortes de jornais flutuando em frente a um Sherlock Holmes concentrado e dopado, esses detalhes escalam para o nível de brilhantismo quando descobrimos a verdade por trás da história, fazendo com que o roteiro de Mark Gatiss e Steven Moffat figure com honra entre os deliciosamente mais complexos e inusitados da série, provavelmente do lado de A Scandal in Belgravia. Depois da reviravolta principal nada mais parece o mesmo, e até um espectador menos atento irá perceber as referências inseridas de maneira mais orgânica até do que trabalhos igualmente minuciosos como [A Origem], que é excelente, mas burocrático e técnico.
 
-Utilizando os mesmos atores (e personagens) em disposições ligeiramente diferentes (o irmão mais velho de Sherlock é gigantesco de gordo, Molly Hooper se disfarça de homem para trabalhar no necrotério), e se divertindo imensamente a respeito disso (Sherlock e seu irmão apostam em quanto tempo Mycroft irá morrer por comer feito um porco, e, em vez de não perceber o amor platônico de Hooper por Holmes, este não percebe que ela é uma mulher de bigode), o grande trunfo do episódio é dar uma oxigenada na série e reviver momentos semelhantes de maneira diferente do que estamos acostumados, mas ainda assim mantendo os artifícios que tornaram "Sherlock", além de um trabalho monumental de roteiro, um polimento requintado em direção de arte, fotografia e direção. Note as transições elegantes entre um labirinto de plantas e os dedos pensativos de Holmes, ou um testemunho na sala de estar do detetive "se jogando" frente à cena do crime e verá o poder visual de uma série pautada em diálogos.
+Jogando o espectador nos exatos quatro minutos em que Sherlock foi expatriado, logo no final do episódio anterior, a abertura desta quarta temporada é um trabalho tão ambicioso que mais uma vez sou obrigado a compará-lo com o melhor que o Cinema tem a oferecer. Mais uma vez um trabalho que merece não só estrear em streaming, mas ocupar algumas salas de cinema pelo mundo.
 
-Sendo assim, se é divertido acompanhar os letreiros que pulam na tela quando um personagem recebe um bilhete, ou os recortes de jornais flutuando em frente a um Sherlock Holmes concentrado e dopado, isso se torna ainda mais quando descobrimos a verdade por trás dessa história, fazendo com que o roteiro de Mark Gatiss e Steven Moffat figure fortemente entre os deliciosamente mais complexos e inusitados da série. Depois dessa revelação, nada mais parece o mesmo, e o espectador menos atento irá perceber as referências colocadas de maneira muito mais orgânica que trabalhos como "A Origem" (que é excelente, mas burocraticamente técnico).
-
-Nos jogando nos exatos quatro minutos em que Sherlock foi expatriado, logo no final do último episódio da temporada anterior, Sherlock S04E01 é um trabalho tão ambicioso que mais uma vez sou obrigado a compará-lo com o melhor que o Cinema convencional tem a oferecer. Mais uma vez um trabalho que merece não só estrear na Netflix, mas ocupar algumas salas de cinema pelo mundo.
+[A Origem]: /a-origem
