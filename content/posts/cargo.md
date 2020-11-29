@@ -1,7 +1,7 @@
 ---
 date: "2010-11-01"
 link: "https://www.imdb.com/title/tt0381940"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Cargo"
 ---
 Se fosse resumir essa ficção-científica, diria que ela começa como Aliens - O Resgate e termina como Matrix. De fato, muitas características do longa nos lembra esses dois filmes. Porém, longe de se igualar em qualidade narrativa, este cai no lugar comum de passeios contemplativos pelo cenário com trilhas sonoras igualmente batidas.
@@ -12,7 +12,6 @@ O fato da fotografia na primeira tomada ser tão bela contrapõe-se de maneira g
 
 No início desse texto dizia que o filme lembrava Aliens. A própria autópsia do comandante morto pela queda já remete ao oitavo passageiro, e a criança encontrada remete à sua continuação. E é interessante que ao mesmo tempo em que a médica corre perigo ainda estamos mais preocupados com o mistério na nave que com a vida dela, o que demonstra como a artificialidade do roteiro faz par com uma direção morna que não se preocupa, por exemplo, com a empatia da protagonista para o espectador.
 
-A despeito dos cortes incessantes que repetem a fórmula do suspense durante toda a narrativa, não há na história um senso simples de continuidade, deixando o espectador mais perdido que interessado nos cortes ríspidos de câmera. Cada sub-conclusão é fechada pelo mesmo fade-out, outro recurso repetido à exaustão até à revelação da verdade, onde há uma mudança radical que poderia ser o trampolim para um pouco de ação intelectual.
+A despeito dos cortes incessantes que repetem a fórmula do suspense durante toda a narrativa, não há na história um senso simples de continuidade, deixando o espectador mais perdido que interessado nos cortes ríspidos de câmera. Cada sub-conclusão é fechada pelo mesmo fade-out, outro recurso repetido à exaustão até a revelação da verdade, onde há uma mudança radical que poderia ser o trampolim para um pouco de ação intelectual.
 
 Infelizmente o final se importa mais em muitas delongas e o batidíssimo artifício do tempo se esgotando. Ainda bem que eventualmente acaba.
-

@@ -1,7 +1,7 @@
 ---
 date: "2010-12-14"
 link: "https://www.imdb.com/title/tt0872230"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "A Sétima Alma"
 ---
 Aquela velha maldição que atordoa as pessoas de um vilarejo.

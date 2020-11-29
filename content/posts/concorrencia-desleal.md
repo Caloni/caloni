@@ -1,7 +1,7 @@
 ---
 date: "2010-12-20"
 link: "https://www.imdb.com/title/tt0254235"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Concorrência Desleal"
 ---
 Mais um filme político de Scola. Dessa vez o foco da história é a concorrência entre um alfaiate e um lojista, que dividem a fachada de suas lojas e suas casas, a amizade de seus filhos menores e um romance entre seu filho e sua filha maiores. Possuem muitas coisas em comum, menos uma: uma família é de judeus; a outra, não.
@@ -12,7 +12,7 @@ O início do diretor se dá com um econômico travelling que parte da loja de te
 
 É impressionante também notar que cada trilha sonora é encaixada perfeitamente em uma cena, nunca soando demais, nunca perdendo a beleza da cena e dos magníficos enquadramentos de Scola, que consegue sempre criar quadros de suas tomadas, seguidos por toques simples que remetem à nostalgia e tristeza que são sentidas daquela época.
 
-Note como quando o rapaz lê o bilhete de sua amada na banheira a música que ela toca no concerto vem à mente dele e do espectador, um detalhe que faz parte do emaranhado planejado pelo diretor para nos fazer sentir realmente a história em todos os nuances.
+Note como quando o rapaz lê o bilhete de sua amada na banheira a música que ela toca no concerto vem à mente dele e do espectador, um detalhe que faz parte do emaranhado planejado pelo diretor para nos fazer sentir realmente a história em todas as nuances.
 
 A criança desenha caricaturas dos personagens conforme a história passa, e de fato universaliza a situação que aquele pedaço da Itália está passando para todo o mundo, com seus personagens e tudo mais. A forma como é contado esse desenho (sempre que somos apresentados a um personagem, já existe o corte seco para a criança desenhando).
 
@@ -20,7 +20,7 @@ Enquadramento de toda família na festa de 80 anos da vó.
 
 Sequência da moça descendo a escadaria para beijar o amado na parte de fora, sem cortes, para demonstrar um breve momento.
 
-Detalhes aos poucos são mencionados ou simplesmente mostrados, como a placa que proíbe falar de política, ou a confiscação do rádio dos judeus, e até o repúdio aos estrangeirismos. Aliás, existe uma belíssima cena sobre uma moça que vai à loja comprar um tecido e é mal atentida pela funcionária, para depois ser bem recebida pelo dono. Emana um não-sei-o-quê de Schindler no dono da loja nesse momento e tantos outros antes do final do filme.
+Detalhes aos poucos são mencionados ou simplesmente mostrados, como a placa que proíbe falar de política, ou a confiscação do rádio dos judeus, e até o repúdio aos estrangeirismos. Aliás, existe uma belíssima cena sobre uma moça que vai à loja comprar um tecido e é mal atendida pela funcionária, para depois ser bem recebida pelo dono. Emana um não-sei-o-quê de Schindler no dono da loja nesse momento e tantos outros antes do final do filme.
 
 Note o belo enquadramento do interior da loja, no escuro, enquanto os dois irmãos visualizam a rua.
 

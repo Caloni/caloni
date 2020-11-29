@@ -1,11 +1,9 @@
 ---
 date: "2010-11-20"
 link: "https://www.imdb.com/title/tt0094226"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Os Intocáveis"
 ---
-Trilha sonora que nos remete ao solete faroeste, e apesar de não ser um filme desse gênero, o ambiente sem lei que Chicago aparenta torna mais do que adequada a escolha.
+Trilha sonora que nos remete a um solene faroeste, e apesar de não ser um filme desse gênero, o ambiente sem lei que Chicago aparenta torna mais do que adequada a escolha. Com paisagens largas e esbeltas, a fotografia sempre impressiona pelas cores límpidas e cristalinas, criadas para um épico. A cena da escadaria é, além de uma homenagem a Eiseinsten, que fez a sequência em que ela é inspirada em [O Encouraçado Potemkin], cria outra belíssima, memorável, cena.
 
-Com paisagens largas e esbeltas, a fotografia sempre impressiona pela limpeza da paleta.
-
-E a cena da escadaria é, além de uma homenagem a Eiseinsten, outra belíssima cena.
+[O Encouraçado Potemkin]: /o-encouracado-potemkin

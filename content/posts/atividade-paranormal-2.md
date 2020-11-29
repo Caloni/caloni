@@ -1,7 +1,7 @@
 ---
 date: "2010-11-07"
 link: "https://www.imdb.com/title/tt1536044"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Atividade Paranormal 2"
 ---
 Assim como o primeiro filme, essa continuação tenta passar a impressão documental através de uma mensagem da produtora agradecendo os envolvidos pelas cenas que veremos a seguir. Apesar desse aviso deixar sua devida pulga na orelha, não é uma solução que por si só baste, dependendo principalmente da competência da narrativa em introduzir a sensação de que o que estamos vendo são filmagens realizadas de forma caseira e que relatam acontecimentos verdadeiramente inexplicáveis.
@@ -19,4 +19,3 @@ Porém, basta alguma novidade acontecer para aparecer à superfície o nosso lad
 Mesmo que no filme exista uma sub-explicação pesquisada pela filha do casal, que imagina existir um demônio na casa perseguindo o irmão mais novo, nada disso importa nos momentos de maior tensão, quando descobrir a origem de tudo é irrelevante, e essencial é saber onde se encontra o sobrenatural, busca essa demonstrada tão bem em uma cena no porão, onde tentamos de forma inútil achar lógica nos contornos bizarros das tranqueiras que ali repousam.
 
 E mesmo que a conclusão (que não vou revelar aqui) talvez peque pelo excesso, ela consegue convencer ao ponto de encontrarmos ligações com o primeiro filme, em uma espécie de lupa que não aumenta apenas o significado da história, mas a sensação de desconforto em sair da sala de projeção.
-

@@ -1,7 +1,7 @@
 ---
 date: "2010-12-20"
 link: "https://www.imdb.com/title/tt1323594"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Meu Malvado Favorito"
 ---
 Meu Malvado Favorito é um ótimo exemplo de filme que divide opiniões, assim como Transformers: de um lado as pessoas que veem claramente uma péssima construção de história em conjunto com péssimas sequências para esta história. De outro, as pessoas que enxergam seus méritos no projeto ou 1) por gostarem do argumento desde o início ou 2) por entenderem sua proposta de uma maneira menos... crítica?
@@ -14,8 +14,8 @@ A piada sobre o "Banco do Mal" (antigo Lehman Brothers) é datada, mas pode ser 
 
 Os flashbacks do protagonista e suas ideias imaginadas possuem um toque de humor negro, quando por exemplo ele imagina se livrar das meninas na montanha-russa.
 
-Significativo que o raio encolhedor estava sendo desenvolvido no leste asiático? (e eles costumam "encolher" as invenções do ocidente)
+Significativo que o raio encolhedor estava sendo desenvolvido no leste asiático, já que eles costumam "encolher" invenções tecnológicas do Ocidente.
 
 As diferenças entre o Vetor e o protagonista se fazem sentir pelo estilo clássico e antiquado do último, conforme sua casa decorada com elementos ditos "malignos" (sofá de crocodilo, poltrona de rinoceronte, porta-casacos de cobra), detalhes démodé (carpete vermelho, maçaneta decorada das portas). O primeiro, por ser mais jovem, possui aquele estilo descolado e nerd de usar coisas com curvas mais suaves (repare a diferença no design de ambas as naves) e mais da moda (ele joga um videogame que se assemelha ao Wii).
 
-O final, que termina com com todos dançando (inclusive seu vilão) lembra filmes no estilo "poderiam ser um pouco melhor": Quem Quer ser Milionário?
+O final, que termina com com todos dançando (inclusive seu vilão) lembra filmes no estilo "poderia ser um pouco melhor". Como Quem Quer ser Milionário?, por exemplo.

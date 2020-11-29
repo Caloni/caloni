@@ -1,7 +1,7 @@
 ---
 date: "2010-12-20"
 link: "https://www.imdb.com/title/tt0076085"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Um Dia Muito Especial"
 ---
 Um drama de um relacionamento de um dia entre uma dona-de-casa e seu vizinho homossexual que mostra de diversas formas como a Itália fascista estava se transformando. O dia em questão calha com a visita de Hitler à Roma. O filme conta com Sophia Loren e Marcelo Mastroiana nos papéis principais, e é dirigido por Ecolla.
@@ -25,4 +25,3 @@ O tapa que ela dá na face dele também é dado na mesma contraluz do terraço. 
 Um corte preciso e orgânico; depois que ele prepara seu omelete, o vemos cortando no seu prato. Logo após esse corte o plano aumenta e vemos outro prato com outro omelete; ela está comendo ao seu lado.
 
 A câmera sempre escolhe os melhores ângulos; quando ela avança a mão para cima dele na cena de sexo, por exemplo, a mão que faz isso é a que contém a aliança. Temos câmeras mostrando ele por baixo e ela por cima, com representações significativas de ambos, mais dele, pela sua experiência heterossexual.
-

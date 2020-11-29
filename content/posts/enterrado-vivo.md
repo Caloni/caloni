@@ -1,7 +1,7 @@
 ---
 date: "2010-12-10"
 link: "https://www.imdb.com/title/tt1462758"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Enterrado vivo"
 ---
 O trabalho final em cima de um filme de um cenário só evoca uma trilha de suspense dos anos 60, além de ter seu design gráfico lembrando pequenos caixões que vão descendo a tela.

@@ -1,14 +1,14 @@
 ---
 date: "2010-12-20"
 link: "https://www.imdb.com/title/tt1134854"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "A Ilha dos Mortos"
 ---
-Em uma introdução ultra-rápida em off, temos o cenário e o resumo do que irá acontecer durante o filme inteiro, em uma síntese cuja forma também será usada por todo a história, mostrando a segurança de Romero em estabelecer as ligações primordiais e avançar ideologicamente em pontos mais aprofundados do tema "mortos-vivos".
+Em uma introdução ultra-rápida em off temos o cenário e o resumo do que irá acontecer durante o filme inteiro, em uma síntese cuja forma também será usada por toda a história, mostrando a segurança de Romero em estabelecer as ligações primordiais e avançar ideologicamente em pontos mais aprofundados do tema "mortos-vivos".
 
 Notamos que a voz em off, do protagonista, é onisciente, pois ele narra sobre o patriarca de uma família que mora numa ilha governada e rivalizada por duas famílias tradicionais, mas faz isso antes mesmo de conhecer o sujeito. Por outro lado, nessa primeira "invasão" à ilha, vemos esse patriarca com outros olhos, como uma pessoa enlouquecida, coisa que esqueceremos depois, quando o vermos mais pra frente no filme.
 
-A trilha sonora, típica de terror e filmes fantásticos, segue precisamente as cenas de espanto, assim como os closes, zooms e outros artifícios forjados para dar a impressão certeira de um representante digno da categoria trash; e até poderia ser, se o pano de fundo e a narrativa não fossem extremamente bem feitas para vermos que tudo aquilo já faz parte daquele mundo criado por Romero, um gigante nessas alegorias.
+A trilha sonora, típica de terror e filmes fantásticos, segue precisamente as cenas de espanto, assim como os closes, zooms e outros artifícios forjados para dar a impressão certeira de um representante digno da categoria trash; e até poderia ser, se o pano de fundo e a narrativa não fossem extremamente eficientes e vermos que tudo aquilo já faz parte daquele mundo criado por Romero, um gigante nessas alegorias.
 
 Essas duas famílias rivalizam exatamente o que fazer com os mortos-vivos. A primeira família acha que devemos matar a todos, e matam novamente os mortos. A segunda acredita que devemos manter os mortos presos até acharmos uma solução para o dilema deles quererem comer os humanos vivos. Esses lados convivem na ilha, e tudo é mostrado com um certo tom épico e bíblico no começo, como se existisse uma filosofia profunda e bem articulada de ambos os lados.
 
@@ -24,9 +24,9 @@ Aliás, o timing das cenas é completamente dominado, uma vez que cenário e mor
 
 O filme, assim, se torna extremamente divertido e cativante, sem se tornar ruim (apesar de seguir a linha trash). Mas isso só é possível graças à nossa inserção nesse contexto fantasioso desde o começo, como é explicado na introdução e fortalecido nas cenas posteriores.
 
-Os mortos, por exemplo, estão sempre disponível para aparecerem como alvos das armas mais bizarras e criativas já criadas para matar um morto (como uma salsicha em um garfo).
+Os mortos, por exemplo, estão sempre disponíveis para aparecerem como alvos das armas mais bizarras e criativas já criadas para matar um morto (como uma salsicha em um garfo).
 
-Em outros momentos vemos a tensão de uma cena crescer exponencialmente, como quando o garoto vai buscar água para acordar o capitão que acabou de desmaiar, por ter sido almejado no ombro.
+Em outros momentos vemos a tensão de uma cena crescer exponencialmente, como quando o garoto vai buscar água para acordar o capitão que acabou de desmaiar.
 
 Seriam as irmãs gêmeas um deus ex-machina? Provavelmente não, pois essa parte da descrição inicial pode muito bem ter sido propositadamente deixado de lado.
 
