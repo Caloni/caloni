@@ -3,6 +3,7 @@ languageCode = "pt-br"
 title = "Blogue do Caloni"
 copyright = ""
 disableKinds = [ "sitemap" ]
+theme = "blog"
 
 [outputs]
   home = ["HTML", "RSS"]

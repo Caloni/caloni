@@ -1,5 +1,0 @@
-{{ if .Date.After (time "2001-01-01")}}
-    {{ if .Params.categories }} {{ range .Params.categories }} <a href="/categories/{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
-    {{ if .Params.tags }} {{ range .Params.tags }} <a href="/tags/{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
-    {{ if .Params.review }} {{ delimit .Params.review " " }}{{ end }}
-{{ end }}
