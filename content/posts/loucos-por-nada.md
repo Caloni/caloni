@@ -1,7 +1,7 @@
 ---
 date: "2011-03-24"
 link: "https://www.imdb.com/title/tt0494222"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Loucos por Nada"
 ---
 O primeiro trabalho de longa metragem cinematográfico (já havia feito trabalhos para a TV) de Taika Waititi é simpático e divertido de assistir. Talvez pelo fato de uma produção Indie ser simpática pela própria natureza de agradar pelo diferente e pela quebra das amarras hollywoodianas que demarcam o terreno onde as produções dignas de pipoca devem ser produzidas.

@@ -1,7 +1,7 @@
 ---
 date: "2011-03-10"
 link: "https://www.imdb.com/title/tt0377981"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Gnomeu e Julieta"
 ---
 Como diz a introdução dessa nova animação, a história que será contada já foi contada várias vezes. Porém, e continua a introdução, nunca foi contada da maneira que será nesse filme. É uma pena, portanto, constatar que a única coisa que muda nessa recriação de fato são a técnica (animação) e o apelo infantil (gnomos de jardim). Porém, pior do que isso, esse "remake" chega à proeza de tornar enfadonho acompanhar uma das mais populares histórias de William Shakespeare.

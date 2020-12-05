@@ -1,14 +1,14 @@
 ---
 date: "2011-05-27"
 link: "https://www.imdb.com/title/tt0120915"
-tags: [ "draft", "movies" ]
-title: "Star Wars Episódio I A Ameaça Fantasma"
+tags: [ "movies" ]
+title: "Star Wars, Episódio I: A Ameaça Fantasma"
 ---
 Quando se mexe com algo sagrado como a trilogia clássica de Star Wars ou alguém está produzindo uma sátira ou essa pessoa é George Lucas. Por mais que os fãs apontem defeitos e/ou sugestões, o Criador da saga sempre teve palavra final. Portanto, não é de se admirar que a nova trilogia comece com seu roteiro, direção, e autoridade.
 
 Porém, autoridade não é sinônimo de competência. Não que o resultado final seja ruim, de fato, mas acaba se tornando reflexo do enorme poder de influência dos filmes anteriores, causando um certo tipo de "empolgação por tabela".
 
-Aqui temos a história de um evento na República que ameaça Rainha Amidala e seu povo, ao mesmo tempo que um Jedi encontra um menino dotado de capacidades especiais. Ambientada em diferentes planetas, como de costume, e em diferentes contextos, a narrativa mantém um subtexto através de pistas nos diálogos, no movimento de câmera e na música que tentam sempre definir o que está por vir, que é o surgimento de Darth Vader, o personagem mais marcante da trilogia clássica. A tentativa acaba funcionando na maioria dos casos, embora apresente pistas de uma maneiras tão discreta que em um primeiro momento poderia passar despercebido pela maioria dos espectadores, o que é uma pena, pois é esse subtexto que é construído durante a trama que nos remete à história original e que une as pontas entre as diferentes aventuras da saga.
+Aqui temos a história de um evento na República que ameaça Rainha Amidala e seu povo, ao mesmo tempo que um Jedi encontra um menino dotado de capacidades especiais. Ambientada em diferentes planetas, como de costume, e em diferentes contextos, a narrativa mantém um subtexto através de pistas nos diálogos, no movimento de câmera e na música que tentam sempre definir o que está por vir, que é o surgimento de Darth Vader, o personagem mais marcante da trilogia clássica. A tentativa acaba funcionando na maioria dos casos, embora apresente pistas de uma maneira tão discreta que em um primeiro momento poderia passar despercebido pela maioria dos espectadores, o que é uma pena, pois é esse subtexto que é construído durante a trama que nos remete à história original e que une as pontas entre as diferentes aventuras da saga.
 
 São detalhes que já sinalizam o que vai acontecer, como a música-tema do Império quando Yoda confessa a Obi-Wan Kenobi (McGregor) que teme pelo treinamento de Anakin Skywalker (Lloyd), ou quando os Jedis comentam que os Siths, algo como "Jedis do mal", costumam andar sempre em pares (um aprendiz e um mestre), no que a própria câmera dá uma pista, uma prova da astúcia de Lucas de implantar pequenas dicas para os fãs mais atentos. E, ao final dos créditos, pode-se ouvir a respiração do personagem já citado.
 

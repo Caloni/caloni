@@ -1,7 +1,7 @@
 ---
 date: "2011-03-28"
 link: "https://www.imdb.com/title/tt1728179"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Atividade Paranormal Tóquio"
 ---
 Verdade seja dita: os asiáticos sabem fazer terror como nunca.

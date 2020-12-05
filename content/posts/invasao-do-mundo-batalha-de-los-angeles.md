@@ -1,8 +1,8 @@
 ---
 date: "2011-04-27"
 link: "https://www.imdb.com/title/tt1217613"
-tags: [ "draft", "movies" ]
-title: "Invasão do Mundo Batalha de Los Angeles"
+tags: [ "movies" ]
+title: "Invasão do Mundo: Batalha de Los Angeles"
 ---
 Cloverfield abriu o portal de obras de ficção filmados em estilo documental, mesmo em uma produção cara e mais aprimorada que o experimento primordial de Bruxa de Blair.
 

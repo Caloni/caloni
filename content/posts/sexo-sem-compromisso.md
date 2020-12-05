@@ -1,7 +1,7 @@
 ---
 date: "2011-03-21"
 link: "https://www.imdb.com/title/tt1411238"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Sexo Sem Compromisso"
 ---
 Seguindo a tendência libertária de nossas relações sociais, que "evoluíram" sensivelmente nos últimos dez anos, "Sexo sem Compromisso" adota como pano de fundo a moderna relação de "amigos com benefícios", ou seja, o que o título do filme de fato sugere.

@@ -1,8 +1,8 @@
 ---
 date: "2011-06-01"
 link: "https://www.imdb.com/title/tt1298650"
-tags: [ "draft", "movies" ]
-title: "Piratas do Caribe Navegando em Águas Misteriosas"
+tags: [ "movies" ]
+title: "Piratas do Caribe: Navegando em Águas Misteriosas"
 ---
 A direção de Bob Marshall resgata o antigo objetivo da Disney em transformar a atração do seu parque de diversões em um longa-metragem que tenha as mesmas características do seu brinquedo: um passeio que diverte em pontos estratégicos, localizados em cenários dedicados e com piratas que se parecem com os de verdade, porém, é claro, inofensivos. Talvez não uma mera coincidência, os trabalhos do diretor também navegam em águas mornas: acostumado com eventos episódicos típicos do gênero musical (Nine e Chicago estão em sua lista), Marshall repete o feito de nos levar por um simples passeio turístico por sets de filmagem que mal conseguem se unir para contar uma história coesa, tudo sob o rótulo de aventura.
 
@@ -13,4 +13,3 @@ Como se as coisas não pudessem piorar a partir daqui, dessa vez o inimigo do an
 Porém, pelo menos essa nova versão de Jack Sparrow se entrega novamente ao auto-deboche, o que acaba sendo o único sinal de melhora desde o fastidioso No Fim do Mundo. A própria cena final confirma o que já estava nas entrelinhas da confusa narrativa. Em um filme cujos pontos de tensão não conduzem a trama alguma e, se tentam, desistem no meio do caminho, não há, de fato, uma motivação principal por trás do desfile vazio de roupas de pirata e da mesma trilha sonora irritante invadindo toda e qualquer cenazinha de ação, sob o pretexto de, aí sim, tentar encaixar uma unidade: a de história de pirata com Jack Sparrow e muita aventura.
 
 Infelizmente, apenas isso não sustenta uma narrativa no mínimo interessante.
-

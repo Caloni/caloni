@@ -1,7 +1,7 @@
 ---
 date: "2011-01-30"
 link: "https://www.imdb.com/title/tt0398286"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Enrolados"
 ---
 A história clássica de Rapunzel é recriada com o novo senso se humor Disney/Pixar, em que o príncipe é um ladrão procurado, e a frágil princesa não é tão frágil assim. Temos aí os mesmos elementos que tornaram a Disney tão amada pelas crianças e adultos: números de música inspirados (com destaque para o bar do patinho) e uma história sem muitos conflitos e um final feliz.

@@ -1,7 +1,7 @@
 ---
 date: "2011-04-27"
 link: "https://www.imdb.com/title/tt1882041"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "As Mães de Chico Xavier"
 ---
 Como grande sucesso do primeiro longa metragem que mostra a vida do famoso espírita Chico Xavier, vemos uma tentativa de realizar uma franquia com um seriado de televisão e, agora, com histórias alternativas que giram em torno dos poderes do aclamado médium.

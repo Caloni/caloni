@@ -1,8 +1,8 @@
 ---
 date: "2011-06-07"
 link: "https://www.imdb.com/title/tt1270798"
-tags: [ "draft", "movies" ]
-title: "X-Men Primeira Classe"
+tags: [ "movies" ]
+title: "X-Men: Primeira Classe"
 ---
 Quando se fala de X-Men no cinema é sempre bom relembrar que uma ficção científica, assim como qualquer filme, é um documentário da época em que foi filmado. No caso do gênero Sci-Fi, as liberdades são significativamente maiores, e por isso mesmo permitem alegorias/caracterizações que nos levam a viajar para outro universo e debater temas tão presentes no mundo de hoje quanto o preconceito e a intolerância.
 
@@ -35,4 +35,3 @@ Mesmo em um filme com um tema sóbrio como esse, as piadas possuem seu lugar e s
 Ainda que a comunicação visual seja vital para o filme, os diálogos são funcionais o suficiente para explicarem partes importantes da trama. Dessa forma, podemos compreender que, quando Magneto usa seus poderes de forma descomunal, internamente sabemos que os sentimentos por trás de tamanha façanha são fruto de um conjunto de sentimentos difusos, e portanto, compreendemos o sacrifício que para ele isso representa.
 
 O que nos faz voltar ao mais dramático dos personagens, em uma participação admirável de Michael Fassbender, que consegue, ao mesmo tempo, evocar o Magneto que se tornará obcecado por suas ideias, e enriquecer um personagem que já era fascinante pela construção anterior de Ian McKellen. Se a cena que o coloca, com um toque de genialidade, em xeque pelas suas própria convicções, e o força a encarar um destino tão dramático e irônico que só pode ser comparado às obras de Shakespeare, não é algo digno de aplausos, não sei mais o que seria em um filme com tantas virtudes.
-

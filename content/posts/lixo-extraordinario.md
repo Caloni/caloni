@@ -1,7 +1,7 @@
 ---
 date: "2011-01-30"
 link: "https://www.imdb.com/title/tt1268204"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Lixo Extraordinário"
 ---
 O início e no programa do Jô possui um sentido maior por causa da mensagem de que, no final, o lixo de todas as pessoas que assistem a televisão vai parar no mesmo lugar?
@@ -19,4 +19,3 @@ O mais revelador é que assistimos a tudo ainda imaginando o que deverá sair ao
 O impacto inicial, da transformação do lixo reciclável em arte usando como modelo as pessoas e a criação de riqueza nesse processo (um dos quadros criados é vendido por cem mil reais).
 
 O impacto final, quando os quadros criados são entregues aos seus respectivos "donos", e a mensagem que fica é imensamente maior que todo o processo: que é possível reciclar pessoas, por piores as condições que elas estejam ou pareçam estar.
-

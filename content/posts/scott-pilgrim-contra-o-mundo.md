@@ -1,7 +1,7 @@
 ---
 date: "2011-05-16"
 link: "https://www.imdb.com/title/tt0446029"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Scott Pilgrim Contra o Mundo"
 ---
 Scott Pilgrim é o tipo de filme que abraça um conceito até o fim. Melhor: começa como um filme comum, mas vai apresentando o seu conceito de forma orgânica e cada vez mais intensa. E intensidade é uma palavra que resume muito bem toda a experiência que esse filme proporciona.

@@ -1,7 +1,7 @@
 ---
 date: "2011-01-14"
 link: "https://www.imdb.com/title/tt1458175"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "72 horas"
 ---
 Um drama contado em um ritmo adequado, que consegue avançar para um filme de ação em seu terceiro ato de forma surpreendentemente competente, visto que o filme consegue uma identificação com o drama de seus personagens, mesmo que perifericamente, e extrai disso uma emoção maior da perseguição final, pois não estamos assistindo mais um filme de perseguição qualquer.
@@ -17,4 +17,3 @@ Ao mesmo tempo que torcemos pelo protagonista, por termos acompanhado seu plano,
 Já não é tão importante no final se ela é culpada ou não, pois sequer nos importamos com isso. Porém, para efeito de conclusão, a última visita ao local do crime tem um caráter simbólico, pois o botão que comprovaria a inocência do réu fica preso na tampa do bueiro, e escapa aos olhos atentos do investigador, igualzinho, da mesma forma com que os fugitivos conseguiram a escapada que parecia impossível.
 
 E se o beijo do filho no final do filme soa piegas, é por pura necessidade de fechar os arcos lançados no decorrer do filme.
-

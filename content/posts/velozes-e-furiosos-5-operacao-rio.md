@@ -1,8 +1,8 @@
 ---
 date: "2011-05-25"
 link: "https://www.imdb.com/title/tt1596343"
-tags: [ "draft", "movies" ]
-title: "Velozes e Furiosos 5 Operação Rio"
+tags: [ "movies" ]
+title: "Velozes & Furiosos 5: Operação Rio"
 ---
 O Rio de Janeiro está em alta no cinema mundial esse ano: palco de duas produções internacionais de prestígio, a uma vez chamada Cidade Maravilhosa começa a mostrar aos poucos sua nova cara para o mundo, mesmo que sob a ótica distorcida das produções de Hollywood.
 

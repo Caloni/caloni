@@ -1,12 +1,12 @@
 ---
 date: "2011-03-14"
 link: "https://www.imdb.com/title/tt1452628"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Mistério da Rua 7"
 ---
 Mensagem de cunho católico no mesmo molde de O Nevoeiro, porém, determinado a sacrificar a história pelo bem de um contra-ataque nada elegante?
 
-Pelo menos temos alguns aspectos técnicos que, além de corretos, tornam a cinematografia distinga: note a fotografia pálida nos momentos de luz, representando, ironicamente, a falta cada vez maior da própria luz.
+Pelo menos temos alguns aspectos técnicos que, além de corretos, tornam a cinematografia distinta: note a fotografia pálida nos momentos de luz, representando, ironicamente, a falta cada vez maior da própria luz.
 
 Mas como nem tudo são flores (ou luzes), o uso pouco imaginativo dos efeitos visuais compromete a experiência pretensiosamente aterrorizante das sombras que observam encostadas nas paredes. E se somos levados a esse ambiente pelos efeitos sonoros dos inúmeros sussurros que ecoam dessas mesmas paredes, nos falta o ritmo adequado para acompanharmos algumas das melhores cenas (como o resgate do projecionista machucado no ponto de ônibus).
 
