@@ -10,3 +10,4 @@ Preparo: bater os líquidos e o açúcar com a pitada de sal no liquidificador, 
 
  - 2018-02-18 Mesma receita anterior, ficou perfeito.
  - 2018-11-05 Mesma receita com fubá da fazenda (moínho de pedra), ficou mais molhado talvez, mas acho que exagerei levemente no sal (uma pitada é apenas uma pitada, mesmo) e coloquei o dobro de margarina sem querer.
+ - 2020-12-01 Fiz de novo essa receita à noite com menos açúcar. Sem chá. E Milharina. Leve.
