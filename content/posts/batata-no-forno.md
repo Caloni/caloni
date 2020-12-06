@@ -1,7 +1,7 @@
 ---
 date: "2019-09-08"
 tags: [ "draft", "recipes" ]
-title: "Receita: Batata no Forno"
+title: "Batata no Forno"
 ---
 
 Ingredientes: batatas (asterix de preferência), azeite (para molhar as batatas cortadas), pimenta (pápripa picante, curry, escolha a sua), salsa ou alecrim (ou os dois), sal.

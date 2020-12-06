@@ -1,7 +1,7 @@
 ---
 date: "2019-12-11"
 tags: [ "draft", "recipes" ]
-title: "Receita: Panetone"
+title: "Panetone"
 ---
 
 Ingredientes: Recheio / Responsável pelo Aroma: Uva passas preta: 60g, Frutas Cristalizadas: 40g, Raspa de casca de laranja: 3g (1 colher de chá), Raspa de casca de limão3g (1 colher de chá), Fava de baunilha: 1/4 ou 3g de extrato de baunilha (1 colher de chá), Água: 40g.  Fermento Natural: Farinha: 50g, Água: 50g, Isca de Fermento Natural: 25g (ou uma pitada de fermento seco).  Massa: Farinha de trigo branca: 200g (cerca de 2 xícaras), Fermento Natural: 125g (1 xícara), Gema de ovos: 125g (aprox 7 ovos), Fermento seco: 3g ou 4 pitadas ou Fermento fresco: 7g, Sal: 3g (1/2 colher de chá), Mel: 3g (1 colher de café), Açúcar: 60g (1/3 xícara), Manteiga fria: 60g (cortada em cubos pequenos), Recheio frutas: 150g, 1 ovo para pincelar.

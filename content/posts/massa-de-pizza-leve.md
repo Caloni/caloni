@@ -1,7 +1,7 @@
 ---
 date: "2017-05-30"
 tags: [ "draft", "recipes" ]
-title: "Receita: Massa de Pizza Leve"
+title: "Massa de Pizza Leve"
 ---
 
 Ingredientes: 1/2 Kg de farinha, 30g de fermento de pão (em cubo) ou ? envelope de fermento seco, 250 ml (1 copo) de água morna, 240 ml (½ xícara) de óleo de soja, 1 colher de café de açúcar, 1 dose de cachaça (opcional), sal a gosto.
