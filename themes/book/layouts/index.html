@@ -8,7 +8,7 @@
 
     <h2 id="text" style="page-break-before: always;">E Deus disse: 'int main() {}'. E pronto: surgiu o primeiro erro de compilação...</h2>
     {{ range .Site.RegularPages.ByDate }}
-      <h3 class="title" style="page-break-before: always" id="{{ .File.ContentBaseName }}">{{ .Title }}</h3>
+      <h3 class="title" style="page-break-before: always" id="{{ .File.ContentBaseName }}">{{ if .Title }}{{ .Title }}{{ else }}{{ .File.TranslationBaseName }}{{ end }}</h3>
       {{ if .Date.After (time "2001-01-01")}}
         {{ if in .Params.tags "draft" }}
           <i>Este é um rascunho e está sujeito a mudanças.</i>
@@ -40,7 +40,7 @@
     <h2><a href="#text">Posts</a></h2>
     <ul>
       {{ range .Site.RegularPages }}
-          <li><a href="#{{ .File.ContentBaseName }}">{{ .Title }} </a></li>
+          <li><a href="#{{ .File.ContentBaseName }}">{{ if .Title }}{{ .Title }}{{ else }}{{ .File.TranslationBaseName }}{{ end }} </a></li>
       {{ end }}
     </ul>
 
@@ -62,7 +62,7 @@
           {{ $.Scratch.Set "curLetter" $firstChar }}
           <h3 id="letter{{ $firstChar }}">{{ $firstChar }}</h3>
         {{ end }}
-        <li><a href="#{{ .File.ContentBaseName }}">{{ .Title }}</a></li>
+        <li><a href="#{{ .File.ContentBaseName }}">{{ if .Title }}{{ .Title }}{{ else }}{{ .File.TranslationBaseName }}{{ end }}</a></li>
       {{ end }}
     {{ end }}
     </ul>
@@ -73,7 +73,7 @@
       {{ range $key, $value := $taxonomy }}
         <h3 id="{{ $taxonomyname }}-{{ $key }}">{{ $key | humanize }}</h3>
           {{ range $value.Pages }}
-            <li><a href="#{{ .File.ContentBaseName }}">{{ .Title }} </a></li>
+            <li><a href="#{{ .File.ContentBaseName }}">{{ if .Title }}{{ .Title }}{{ else }}{{ .File.TranslationBaseName }}{{ end }} </a></li>
           {{ end }}
       {{ end }}
       </ul>
