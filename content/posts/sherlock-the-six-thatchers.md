@@ -10,4 +10,8 @@ A história apresenta novas formas de demonstrar como a mente do poderoso deteti
 
 No entanto, este exemplar é obviamente superior a tudo que se faz em torno de séries do gênero, e por isso merece ser, assim como a série inteira, degustada sem pudor.
 
+ - 2020-12-02: https://www.imdb.com/title/tt3538760
+
+Sherlock já começa a inventar histórias que soam um pouco melodramáticas demais. Porém, foi o jeito para continuar com esta última, derradeira, temporada. Ladeira abaixo, mas ainda bem acima da média.
+
 [episódio anterior]: /sherlock-the-abominable-bride
