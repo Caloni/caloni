@@ -1,5 +1,5 @@
 <p class="title">
 {{ with .Params.link }} <a class="external" href="{{ . }}">{{ end }}
-{{ .Title }}
+{{ if .Title }}{{ .Title }}{{ else }}{{ .File.TranslationBaseName }}{{ end }}
 {{ with .Params.link }}</a>{{ end }}
 </p>
