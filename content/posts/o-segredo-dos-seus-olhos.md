@@ -1,10 +1,10 @@
 ---
 date: "2011-06-26"
 link: "https://www.imdb.com/title/tt1305806"
-tags: [ "draft", "movies" ]
+tags: [ "movies", "reviews" ]
 title: "O Segredo dos Seus Olhos"
 ---
-Juan José Campanella (O Filho da Noiva, Clube da Lua) mostra como um roteiro bem escrito e uma direção impecável conseguem apresentar duas tramas entrecortadas de uma maneira tão fluida e transparente que, no fundo, parece que estamos assistindo a uma única história. Como se fosse pouco, a narrativa se desenvolve alternando um presente e um passado separados por mais de 25 anos. Em uma obra com tantas virtudes, acompanhar a evolução do personagem de Ricardo Darín (Un Cuento Chino) através desses dois momentos em sua vida é mais um bônus nesse filme que merece ser assistido por muitas e muitas vezes.
+Juan José Campanella ([O Filho da Noiva], Clube da Lua) mostra como um roteiro bem escrito e uma direção impecável conseguem apresentar duas tramas entrecortadas de uma maneira tão fluida e transparente que, no fundo, parece que estamos assistindo a uma única história. Como se fosse pouco, a narrativa se desenvolve alternando um presente e um passado separados por mais de 25 anos. Em uma obra com tantas virtudes, acompanhar a evolução do personagem de Ricardo Darín (Un Cuento Chino) através desses dois momentos em sua vida é mais um bônus nesse filme que merece ser assistido por muitas e muitas vezes.
 
 Desde o início é possível perceber uma atração sutil, apenas entre gestos, olhares e diálogos enviesados, entre Benjamín Esposito (Darín), um conselheiro legal de origem humilde, e sua recém-chegada superiora, Irene Menéndez Hastings (Villamil). Vinda de família rica e superior em vários quesitos em comparação com o humilde Esposito, a delicadeza inata de apresentar posições invertidas em uma sociedade na época ainda patriarcal favorece nossa identificação com o drama de Esposito, que, assim como persegue seu suspeito número um do seu agora romance, e, como se soubesse o que o espera em sua vida, parece perseguir um outro futuro para si mesmo a todo momento em que a vê.
 
@@ -18,3 +18,4 @@ E por falar em pista-recompensa, por que não falar de uma muito mais sutil, que
 
 O fato é que O Segredo dos Seus Olhos contém mais segredos em sua composição do que uma resenha sobre ele poderia revelar. Felizmente, sua tecnicidade não afeta sua compreensão e, portanto, nos mesmos moldes de O Poderoso Chefão, é possível, sim, acompanhar a trajetória de Esposito como um "simples" espectador e, ao mesmo tempo, ter uma mini-aula sobre como é fazer Cinema.
 
+[O Filho da Noiva]: /o-filho-da-noiva

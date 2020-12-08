@@ -1,7 +1,7 @@
 ---
 date: "2011-07-12"
 link: "https://www.imdb.com/title/tt1430607"
-tags: [ "draft", "movies" ]
+tags: [ "movies", "reviews" ]
 title: "Operação Presente"
 ---
 A nova animação da Sony parte para o óbvio gênero de filmes natalinos dessa época, mas faz bonito: Operação Presente subverte nossos conceitos do que é atualmente o natal, parte do ponto de vista do Papai Noel e seus elfos e acusa de maneira inteligente o modo superficial pelo qual muitos de nós enxergamos essa data que um dia foi muito especial.
@@ -12,5 +12,6 @@ Enquanto detalhes do escritório de Arthur o mostram como um lugar aconchegante,
 
 Contudo, mesmo com todo esse controle, uma criança acaba sendo esquecida, e esse é o ponto de partida para a Operação Presente do título. A consequência mais triste é que ela acaba virando uma porcentagem mínima se comparada com todas as crianças do mundo e entra no "controle de qualidade" de Steve como uma reles margem de erro, como se não houvesse uma criança por trás do número. Nesse momento, nos perguntamos se isso de certa forma torna todo o processo frio, automático e sujeito a racionalizações como a que é feita por Steve para justificar o "sucesso" da operação. E quantas vezes não fazemos o mesmo, nos esquecendo do essencial para nos focarmos em detalhes periféricos? (Apenas para dar um exemplo fora de contexto, quantos torcedores de futebol hoje se concentram bem mais nas estatísticas do seu clube do que nos jogos e jogadores em si?)
 
-Nesse sentido, a forma espontânea, embora atrapalhada de seu filho mais novo fazem um contraponto à toda aquela eficácia, e trazem à frente os valores mais essenciais do natal: as crianças. É nesse momento que o roteiro tem a sacada genial de apresentar o trenó do Papai Noel como um elemento nostálgico na trama, simbolizando as coisas feitas à mão. Note que o trenó em si não seria de muita importância em um filme tradicional de natal, mas aqui ganha um significado tão poderoso quanto o próprio trenó-chave de Cidadão Kane.
+Nesse sentido, a forma espontânea, embora atrapalhada de seu filho mais novo fazem um contraponto à toda aquela eficácia, e trazem à frente os valores mais essenciais do natal: as crianças. É nesse momento que o roteiro tem a sacada genial de apresentar o trenó do Papai Noel como um elemento nostálgico na trama, simbolizando as coisas feitas à mão. Note que o trenó em si não seria de muita importância em um filme tradicional de natal, mas aqui ganha um significado tão poderoso quanto o próprio trenó-chave de [Cidadão Kane].
 
+[Cidadão Kane]: /cidadao-kane
