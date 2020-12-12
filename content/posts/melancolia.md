@@ -1,12 +1,12 @@
 ---
 date: "2011-08-07"
 link: "https://www.imdb.com/title/tt1527186"
-tags: [ "draft", "movies" ]
+tags: [ "reviews", "movies" ]
 title: "Melancolia"
 ---
-(Spoilers liberados. Portanto, sugiro ler depois de assistir ao filme.)
-
 Lars von Trier é um realizador corajoso. Especialista em explorar as facetas menos nobres de nossos sentimentos, já ousou colocar Bjork em Dançando no Escuro, um musical sem final feliz, e Nicole Kidman no vilarejo de Dogville, onde mora o que existe de mais desprezível nas relações sociais. De uma maneira geral, a decadência humana sempre foi retratada em seus trabalhos de uma forma emblemática, porém, visual, que é onde reside a força do seu cinema.
+
+Spoilers estão liberados a seguir. Portanto, sugiro ler depois de assistir ao filme.
 
 Em Anticristo, seu trabalho anterior, o filme lidava com os símbolos cristãos ao mesmo tempo que explorava o nosso lado amoral e perverso. O fato de lidar com símbolos tornava as alegorias construídas obscuras o suficiente para dar margem a diversas interpretações. Dessa vez, em Melancolia, a história é didaticamente dividida em duas partes, sendo que logo no início existe uma espécie de prólogo em forma de sonho, onde podemos ter uma visão holística de tudo o que veremos no decorrer das duas histórias.
 
@@ -22,13 +22,12 @@ A história da primeira parte começa a fazer mais sentido quando os sentimentos
 
 O final, não é preciso dizer, é extremamente melancólico, e foge obviamente da cartilha de Hollywood. É óbvio que, se fosse diferente, isso insultaria a inteligência do espectador e do próprio idealizador, pois fugiria da mensagem principal do filme. Pessoalmente, não me senti particularmente depressivo, pois é uma conclusão já esperada e em diversos pontos da história previamente salientada. É bem possível que existam vários elementos "ocultos" que façam valer assistir novamente. Quem sabe dessa vez, pelo menos para mim, o filme pareça mais melancólico do que a proposta original.
 
-Trivia
+## Trivia
 
  - De certa forma, fiquei pensando se o fato do planeta estar se aproximando não teria alterado o humor de várias pessoas, como Justine, e deixadas melancólicas um pouco antes do fim e, nos últimos momentos, fazê-la se acalmar (assim como os cavalos).
 
  - Imagine acompanhar o mesmo filme trocando apenas a música para a Nona de Beethoven, em uma sugestão usada no próprio filme. Apenas imaginando isso, fica claro que os objetivos da produção estavam longe de ter o tema superação ou dar um tom feliz ao final trágico.
 
- - O cavalo de Justine se chama Abraão, um personagem bíblioco, em uma suposta referência ao trabalho anterior do diretor.
+ - O cavalo de Justine se chama Abraão, um personagem bíblico, em uma suposta referência ao trabalho anterior do diretor.
 
  - Talvez seja coincidência, mas o fato do personagem de Jack Bauer, tão acostumado a salvar o mundo no seriado 24 Horas, se matar no final, estabelece uma dessas ironias cinematográficas impagáveis.
-

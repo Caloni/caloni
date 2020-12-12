@@ -1,7 +1,7 @@
 ---
 date: "2011-08-17"
 link: "https://www.imdb.com/title/tt1499658"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Quero Matar Meu Chefe"
 ---
 Muitas pessoas com certeza rirão das piadas sobre trabalho, sexo e racismo de Quero Matar Meu Chefe, tradução não-literal de Horrible Bosses (Chefes Horríveis, o que não melhora muito as coisas). Novo trabalho de Seth Gordon (Surpresas do Amor e umas pontas em The Office e Community), o longa reúne mais talentos cômicos do que supostamente ele conseguirá no resto de sua vida como diretor.
@@ -16,5 +16,4 @@ Seguindo esse ritmo de gags sobre gags, conseguimos acompanhar as cada vez mais 
 
 Enfim, chega um momento em que as piadas não bastam mais e o terceiro ato atravessa inevitavelmente pela peneira da lógica completamente destroçado. Não é preciso dizer que à essa altura nada muito genial era esperado, de forma que o resultado ficou bem ao nível de toda a "trama".
 
-Após esse exercício de futilidade que poderia muito bem passar no sábado à noite, tudo que temos a fazer é sair da sessão e esperar pelo melhor para esse grupo de atores talentosos que acabou se metendo em uma Cilada.com.
-
+Após esse exercício de futilidade que poderia muito bem passar no sábado à noite, tudo que temos a fazer é sair da sessão e esperar pelo melhor para esse grupo de atores talentosos que acabou se metendo em uma verdadeira cilada.

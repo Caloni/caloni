@@ -1,7 +1,7 @@
 ---
 date: "2011-08-23"
 link: "https://www.imdb.com/title/tt1579223"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Assalto ao Banco Central"
 ---
 Assalto ao Banco Central está longe de ser o filme insuportável pintado pela crítica. Porém, o que é mais importante: Assalto é um filme que decepciona em todos os gêneros que tenta se inserir.
@@ -15,4 +15,3 @@ Paralelamente às atividades da quadrilha acompanhamos o delegado titular Amorim
 Porém, o pior em Assalto acaba sendo em não se fortalecer no seu gênero-mestre, a ação, que é anunciada desde o início e que nunca acontece, ou, quando acontece, é morna e sem sal. No fundo, sequer percebemos que estamos no terceiro ato e, pior ainda, um terceiro ato que termina de forma completamente absurda e caricatural, gerando vergonha alheia a todos os policiais do gênero que contém plot twists reais e arquitetados.
 
 Por fim, é triste constatar que o cinema brasileiro ainda caminhe por caminhos tortuosos, onde milhões são gastos em projetos que poderiam muito bem ser engavetados e dar lugar à nossa criatividade inesgotável na arte de realmente contar uma história.
-

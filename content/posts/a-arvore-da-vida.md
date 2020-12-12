@@ -1,7 +1,7 @@
 ---
 date: "2011-08-17"
 link: "https://www.imdb.com/title/tt0478304"
-tags: [ "draft", "movies" ]
+tags: [ "reviews", "movies" ]
 title: "A Árvore da Vida"
 ---
 O início de O Filme: Um Estudo Psicológico (1916), de Hugo Münsterberg, primeiro livro sobre crítica da história do cinema, coloca o fenômeno da percepção do movimento nos olhos de quem vê. A interpretação que fazemos das imagens estáticas em sequência é subjetiva, de forma que, mesmo que o autor da obra tenha escolhido o que filmar, é o espectador que irá extrair da imagem o significado. Dessa forma, um filme, como toda obra de arte, apenas se comunica quando houver um espectador, que irá se relacionar diretamente com a obra e a filtrar pelas nossas experiências de vida e como enxergamos a realidade à nossa volta.
@@ -21,6 +21,3 @@ Por outro lado, se o pai é a antropomorfização de Deus, a mãe é vista como 
 Porém, não é a morte o fim de tudo. A vida está sempre fluindo e se transformando, como demonstrada na sequência inicial, e durante todo o filme através da câmera, que está sempre em um movimento que se assemelha a uma dança. E não é à toa que a música, mais um símbolo da vida, está presente em diversos momentos do filme.
 
 Enfim, existe muito para se refletir e aproveitar em A Árvore da Vida. Se você pretende se aventurar em uma sessão, recomendo abrir sua mente, seus olhos e sua imaginação. Fique atento, pois muitas coisas podem ser comunicadas através de imagens estáticas exibidas em sequência.
-
-Dica cultural: curiosamente, o Cine Cultura da Paulista está exibindo tanto Melancolia quanto A Árvore da Vida, que eu considero uma dobradinha mais que apropriada (nessa mesma ordem).
-

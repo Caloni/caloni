@@ -1,8 +1,8 @@
 ---
 date: "2011-08-09"
 link: "https://www.imdb.com/title/tt0458339"
-tags: [ "draft", "movies" ]
-title: "Capitão América O Primeiro Vingador"
+tags: [ "reviews", "movies" ]
+title: "Capitão América: O Primeiro Vingador"
 ---
 A Marvel parece que resolveu esquecer de vez a construção de histórias com profundidade dramática para dar vazão aos seus heróis secundários. O objetivo maior é o lançamento dos Vingadores, seu ambicioso projeto que exigiu a criação de diversos filmes, cada um retratando um personagem diferente que fará parte dessa equipe de super-heróis.
 
@@ -16,9 +16,8 @@ Por outro lado, esse estilo quadrinhos cria uma das sequências das mais diverti
 
 Porém, as tiradas cômicas mais eficientes ficam por conta de Tommy Lee Jones, que incorpora um coronel durão sem tender para o caricato. Infelizmente, não se pode dizer o mesmo de Hugo Weaving, um vilão afetado demais para soar ameaçador (e é uma pena também que foram entregues para ele as piores falas).
 
-O elo fraco do elenco acaba sendo Hayley Atwell como Peggy Carter, o interesse amoroso do herói. Aparecendo principalmente para mostrar seu olhar de admiração por Steve, sua função bem definida (e descartável) acaba por soar repetitiva, e é sintoma disso a tentativa do roteiro de tentar colocar um pouco de conflito (boto) em um momento pontual da trama.
+O elo fraco do elenco acaba sendo Hayley Atwell como Peggy Carter, o interesse amoroso do herói. Aparecendo principalmente para mostrar seu olhar de admiração por Steve, sua função bem definida (e descartável) acaba por soar repetitiva, e é sintoma disso a tentativa do roteiro de tentar colocar um pouco de conflito (bobo) em um momento pontual da trama.
 
 Mas o que parece se tornar um prelúdio para a verdadeira ação acaba se tornando o melhor momento do longa, que nunca consegue sair do morno, e as tentativas (sempre falhas) de solenizar as ações do herói sempre soam forçadas. O primeiro encontro com Johann Schmidt, que deveria estabelecer a relação herói/anti-herói, acaba apenas por estabelecer ambos como cobaias do mesmo experimento, e só. Todo o esforço em representar a luta do bem contra o mal é sabotada e deixada em segundo plano em detrimento dos efeitos especiais, que são, no último ato, de tirar o fôlego.
 
 Após o terceiro ato fica muito clara a construção do filme como catapulta para o lançamento do esperado Primeiro Vingador. Todo esse frisson de meses (anos?), aliás, acaba por elevar as expectativas sobre Os Vingadores em níveis acima do normal. Apenas esperamos que o lançamento de tantos resultados medianos faça valer a pena essa tão esperada produção.
-

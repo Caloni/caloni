@@ -1,7 +1,7 @@
 ---
 date: "2011-09-05"
 link: "https://www.imdb.com/title/tt0110357"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Rei Leão"
 ---
 O Rei Leão visto como deve ser visto  ou seja, em 2D  consegue impressionar pela síntese dramática que escolhe para não tornar o programa demasiadamente infantil para o seu principal público-alvo (as crianças) mas consegue se manter íntegro e representar de maneira irretocável a contribuição Disney para manter viva a lenda e uma das peças mais conhecidas de Shakespeare: Hamlet.
@@ -16,7 +16,7 @@ Voltando agora da sessão 3D (leia-se: mutilada) do clássico dos clássicos da 
 
 É óbvio que a trilha sonora é magnífica, e consegue oscilar perfeitamente entre as cenas dramáticas, de ação e de humor, como podemos ver pela leveza da música-lema de Timão e Pumba, em detrimento ao clima sombrio e ameaçador dos toques sufocantes da fuga para os espinheiros. Da mesma forma, a sequência do estouro dos antílopes consegue unir de maneira completamente orgânica o trotar das centenas de animais em disparada e o tema composto por Hans Zimmer para a cena, que evoca um misto de urgência e perigo, caindo no final, para um melancólico destoar.
 
-Já a fotografia, marca registrada das produções 2D da Disney, consegue se expressar aqui com o uso de traços que lembram aquarela, ainda que mantenha sua precisão. E perceba como o humor de Simba e do reino de seu pai é determinante paraa palheta dominante, e perceba como o acizentado sombrio e desconfortante da morada das hienas toma o lugar que antes era cheio de cores vivas e em movimento.
+Já a fotografia, marca registrada das produções 2D da Disney, consegue se expressar aqui com o uso de traços que lembram aquarela, ainda que mantenha sua precisão. E perceba como o humor de Simba e do reino de seu pai é determinante para a palheta dominante, e perceba como o acizentado sombrio e desconfortante da morada das hienas toma o lugar que antes era cheio de cores vivas e em movimento.
 
 Da mesma forma, o roteiro segue uma coerência inatacável, embora a força da história esteja justamente em sua simplicidade que deve conseguir tocar o coração de pessoas de todas as idades. Muitos dizem que O Rei Leão evoca um tema Shakesperiano, e muito provavelmente a alma de Shakespeare passeia pelo reino de Mufasa e seu ciclo da vida.
 

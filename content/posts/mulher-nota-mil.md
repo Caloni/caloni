@@ -1,7 +1,7 @@
 ---
 date: "2011-08-22"
 link: "https://www.imdb.com/title/tt0090305"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Mulher Nota Mil"
 ---
 Mulher Nota Mil representa precisamente a época em que foi produzido, bem no meio da década de 80. E, ao mesmo tempo, serve como um belo reflexo de produções recentes, como American Pie, que demonstram que no que tange à síndrome dos garotos impopulares que nunca conseguem namoradas no colégio, o cinema não avançou quase nada: foi apenas atualizado para os padrões modernos.
@@ -15,4 +15,3 @@ A partir daí, somos levados para uma infinidade de situações engraçadas que 
 A ação e o absurdos crescem em uníssono, a ponto de em dado momento ser inserido no filme uma gangue de mutantes arruaceiros em cima de motos (Mad Max?). Nesse momento, somos capazes de perceber a mente tresloucada de John Hughes, que assina a direção e o roteiro do filme. O próprio Hughes dirigiu na época Curtindo a Vida Adoidado e o Clube dos Cinco, o que me faz desconfiar que este era um projeto bem mais experimental.
 
 Apesar de não passar do teste dos 15 anos, fica claro que este era o exemplo de filmes de "desligar o cérebro". E se serviu para a efervescência criativa de John Hughes, que depois escreveria grandes aventuras como Esqueceram de Mim, Beethoven, Dennis - O Pimentinha e 101 Dálmatas, podemos estar certos de que este era o primeiro de muitos.
-
