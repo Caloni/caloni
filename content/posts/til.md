@@ -1,5 +1,5 @@
 ---
-date: "2020-10-22"
+date: "2020-12-08"
 link: "https://www.reddit.com/r/todayilearned/"
 tags: [ "blog", "lists" ]
 title: "TIL: Today I Learned"
@@ -15,3 +15,7 @@ Se você guardar o mínimo de conhecimento que aprendeu em um dia de sua vida e 
  - 2020-10-26: para dar sleep em C++ moderno com resolução de milissegundos é `std::this_thread::sleep_for(std::chrono::milliseconds(200));`. É tão intuitivo que achei preciso anotar.
 
  - 2020-11-21: para eliminar qualquer nova-linha em uma string C após ler uma linha da entrada usar uma desconhecida função padrão: `buffer[strcspn(buffer, "\r\n")] = 0;`.
+
+ - 2020-12-08: é possível abrir uma VPN pelo WSL e direcionar a porta RDP de uma máquina remota para uma porta local no Windows e acessar máquinas via RDP em uma porta local. Para a VPN uso o Openvpn. Para o redirect um projeto no GitHub chamado [rinetd].
+
+[rinetd]: https://github.com/boutell/rinetd
