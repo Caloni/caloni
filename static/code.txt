@@ -1,33 +1,3 @@
-adplus-no-cliente-nao-voce.md:    
-adplus-no-cliente-nao-voce.md:    AdPlus.vbs -crash -sc notepad.exe
-adplus-no-cliente-nao-voce.md:    
-adplus-no-cliente-nao-voce.md:    windbg -pv -pn notepad.exe
-adplus-no-cliente-nao-voce.md:    a user32!MessageBoxW
-adplus-no-cliente-nao-voce.md:    jmp 0
-adplus-no-cliente-nao-voce.md:    .detach
-adplus-no-cliente-nao-voce.md:    q
-adplus-no-cliente-nao-voce.md:    
-adplus-no-cliente-nao-voce.md:    windbg -z PID-0__Spawned0__2nd_chance_AccessViolation__full_0854_2009-07-28_09-03-54-723_0d34.dmp
-adplus-no-cliente-nao-voce.md:    
-adplus-no-cliente-nao-voce.md:    This dump file has an exception of interest stored in it.
-adplus-no-cliente-nao-voce.md:    The stored exception information can be accessed via .ecxr.
-adplus-no-cliente-nao-voce.md:    (d34.7b0): Access violation - code c0000005 (first/second chance not available)
-adplus-no-cliente-nao-voce.md:    eax=0007cfb8 ebx=80004005 ecx=7e37a622 edx=0000000a esi=00000208 edi=003604e2
-adplus-no-cliente-nao-voce.md:    eip=00000000 esp=0007cfa0 ebp=0007d9e4 iopl=0         nv up ei ng nz na pe nc
-adplus-no-cliente-nao-voce.md:    cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000286
-adplus-no-cliente-nao-voce.md:    00000000 ??              ???
-adplus-no-cliente-nao-voce.md:    k
-adplus-no-cliente-nao-voce.md:    
-adplus-no-cliente-nao-voce.md:    ChildEBP RetAddr
-adplus-no-cliente-nao-voce.md:    WARNING: Frame IP not in any known module. Following frames may be wrong.
-adplus-no-cliente-nao-voce.md:    0007cf9c 763ab8a8 0x0
-adplus-no-cliente-nao-voce.md:    0007d9e4 763ab90c comdlg32!CDMessageBox+0x76
-adplus-no-cliente-nao-voce.md:    0007da04 7638beee comdlg32!InvalidFileWarningNew+0x54
-adplus-no-cliente-nao-voce.md:    0007e278 763873cf comdlg32!CFileOpenBrowser::OKButtonPressed+0x9f0
-adplus-no-cliente-nao-voce.md:    0007e4b8 763872d7 comdlg32!CFileOpenBrowser::ProcessEdit+0x192
-adplus-no-cliente-nao-voce.md:    0007e4f8 7638277f comdlg32!CFileOpenBrowser::OnCommandMessage+0x1d3
-adplus-no-cliente-nao-voce.md:    0007e738 7e368734 comdlg32!OpenDlgProc+0x2f5
-adplus-no-cliente-nao-voce.md:    0007e764 7e373ce4 user32!InternalCallWinProc+0x28
 alinhamento-de-memoria-portavel.md:    
 alinhamento-de-memoria-portavel.md:    struct EstruturaQueIremosEncriptar    /* 4 + 31 = 35 bytes */
 alinhamento-de-memoria-portavel.md:    {
