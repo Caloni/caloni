@@ -1,7 +1,7 @@
 ---
 date: "2011-10-08"
 link: "https://www.imdb.com/title/tt2210871"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Filme dos Espíritos"
 ---
 O Filme dos Espíritos é mais uma tentativa de "catequizar" (com o perdão da palavra) ou talvez educar os fiéis dessa crença religiosa da vida após a morte, dando sequência ao bom "Chico Xavier" e o desastroso As Mães de Chico Xavier. Aqui, porém, a alçada propagandista ganha contornos bem maiores que sua qualidade como filme  o que, de certa forma, lembra Olga, uma obra com o mesmo estigma. Dessa forma, o uso do cinema como ferramenta "educativa" se torna um completo desastre quando constatamos que toda essa ambição ideológica anti-aborto não se justifica em uma produção de caráter e gosto duvidosos.
@@ -14,5 +14,4 @@ Para ajudar, a trilha sonora segue bombardeando qualquer traço dramático que p
 
 Como se não bastasse esse show de horrores, o filme tem a audácia de ir contra o aborto baseado em suas próprias crenças religiosas, retrocedendo décadas de compreensão científica a respeito da origem da vida. "Ora, mas é um filme religioso! Seria óbvio ele pregar seus dogmas, não?" Claro. Porém, em uma atitude desinformada, um dos personagens, médico, em uma das falas tenta associar a visão científica e aproximá-la (!) com a sua visão religiosa e ainda assim, continuar condenando o aborto e utilizando expressões como "justiça divina", que por si só revelam o verdadeiro (mau) caráter desse filme.
 
-Não há nada no verdadeiro Cinema contra filmes religiosos que defendam seus dogmas. Diversos filmes nacionais foram lançados que mereceram algum destaque, como o já citado Chico Xavier e o mais recente Aparecida  o Milagre. Porém, infelizmente esse não é o caso. Apenas o que temos aqui é um vídeo propagandista que insere a questão do aborto em seu núcleo narrativo de forma simplista e covarde, se escondendo atrás de leis religiosas escritas por um obscuro doutor há cerca de 150 anos atrás, cuja produção possui mais defeitos que virtudes. Ou seja, é um raro caso de produção cinematográfica duplamente descartável.
-
+Não há nada no verdadeiro Cinema contra filmes religiosos que defendam seus dogmas. Diversos filmes nacionais foram lançados que mereceram algum destaque, como o já citado Chico Xavier e o mais recente Aparecida - O Milagre. Porém, infelizmente esse não é o caso. Apenas o que temos aqui é um vídeo propagandista que insere a questão do aborto em seu núcleo narrativo de forma simplista e covarde, se escondendo atrás de leis religiosas escritas por um obscuro doutor há cerca de 150 anos atrás, cuja produção possui mais defeitos que virtudes. Ou seja, é um raro caso de produção cinematográfica duplamente descartável.

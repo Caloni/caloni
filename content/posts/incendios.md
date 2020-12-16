@@ -1,7 +1,7 @@
 ---
 date: "2011-09-28"
 link: "https://www.imdb.com/title/tt1255953"
-tags: [ "draft", "movies" ]
+tags: [ "reviews", "movies" ]
 title: "Incêndios"
 ---
 Os melhores filmes, ou os que merecem revisitas mesmo depois de conhecermos o seu desfecho, geralmente são aqueles que permitem múltiplas interpretações e que conseguem impressionar pela sua engenhosa criação. Ou seja, ao mesmo tempo emocionam e possuem um prazer intelectual implícito em sua estrutura. Esse é sem dúvida o caso de Incêndios, que não apenas apresenta uma história arrebatadora do começo ao fim em seu nível emocional (personagens) como também permite análises em camadas mais racionais, sem com isso diminuir o impacto de sua história.
@@ -21,4 +21,3 @@ Por falar na sequência do ônibus, ela é sublime em diversos aspectos, e é di
 E não é só a direção que possui virtudes a salientar. O roteiro cresce durante a narrativa, entregando aos poucos o resultado de um jogo intrincado de relações, que irão se ligar de maneira satisfatória e engrandecer cada vez mais a história, que nunca se perde apesar da complexa montagem. A razão disso acontecer é o controle consciente da câmera, que aponta os detalhes do filme inteiro, muitas vezes de forma inconsciente para o espectador. Prova disso é que seu último ato ela consegue nos remeter a diversos momentos do filme que poderiam muito bem passar despercebidos se não fossem os detalhes focados em determinados momentos, mesmo que estes fizessem parte de uma cena de dois segundos. Por estar lá, e por confiar na percepção de seu espectador, é um projeto que merece uma salva de palmas de pé por sua coesão e economia linguística.
 
 Ao final, o olhar catatônico da mâe, parada em frente à piscina, é exatamente o olhar que ficaremos no desfecho da história, criando uma sensação de empatia completa com o impacto que ela sofreu. Ao mesmo tempo, porém, existe algo maior, talvez um prazer estético pelo desfecho da trama, que retorna de uma longa jornada para nos entregar, de maneira magistral, uma conclusão intelectualmente arrebatadora.
-

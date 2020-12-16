@@ -1,8 +1,8 @@
 ---
 date: "2011-09-11"
 link: "https://www.imdb.com/title/tt1235841"
-tags: [ "draft", "movies" ]
-title: "Medianeras Buenos Aires da Era do Amor Virtual"
+tags: [ "reviews", "movies" ]
+title: "Medianeras: Buenos Aires da Era do Amor Virtual"
 ---
 Estreia de Gustavo Taretto na direção de longas, Medianeras inicia já com uma proposta criativa e que funciona muito bem: com dois narradores em off, temos a impressão de assistir a dois filmes interlaçados que aos poucos se aproximam, o que por si só já revela muito sobre as ideias por trás da história. 
 
@@ -18,4 +18,4 @@ Assistindo pela segunda vez (agora na Netflix) por esta estreia do diretor Gusta
 
 No entanto, os personagens flutuam muito bem nessa áurea depressiva graficamente exposta por uma penumbra que nunca se ilumina. Há sempre um canto escuro em seus apartamentos, e é nesse canto que muitas vezes os nossos heróis da vida moderna insistem em sobreviver. No entanto, suas desventuras amorosas fazem rima com a martelada incessante a respeito de nós mesmos.
 
-Talvez uma discussão necessária sobre o mundo cada vez mais virtual e paradoxalmente desconectado. Com certeza a insistência em dizer-nos isso é uma fala grave de narrativa que nos afasta cada vez mais.
+Talvez uma discussão necessária sobre o mundo cada vez mais virtual e paradoxalmente desconectado. Com certeza a insistência em dizer-nos isso é uma falha grave de narrativa que nos afasta cada vez mais.

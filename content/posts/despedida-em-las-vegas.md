@@ -1,7 +1,7 @@
 ---
 date: "2011-10-22"
 link: "https://www.imdb.com/title/tt0113627"
-tags: [ "draft", "movies" ]
+tags: [ "reviews", "movies" ]
 title: "Despedida em Las Vegas"
 ---
 Talvez eu seja vítima da regra dos 15 anos -- a que reza que qualquer filme visto antes dos 15 anos continua em nossa memória como bom -- mas Ben e Sera foram dois dos personagens mais queridos da minha juventude de cinéfilo. Adorava a entrega completa de Nicholas Cage e de Elizabech Shue em seus papéis que ainda considero os melhores de ambos, em um filme deprimente do começo ao fim. Essa minha revisita continua a confirmar o fato de que, se Cage costuma ser criticado por overacting, aqui praticamente esquecemos que existe algum ator por trás do divertido, patético e trágico Ben Sanderson.
@@ -19,4 +19,3 @@ Ben, ao contrário, é um ser totalmente exposto, exposição essa que por conta
 O clima depressivo do filme é ajustado (leia-se aumentado) através de uma seleção inspiradíssima de músicas que evocam ritmos mais lentos e reflexivos (aliás o próprio diretor e Cage participam na confecção de algumas trilhas). Os ângulos da câmera e a fotografia distorcida gera tanto a sensação que a bebida causa em Ben quanto a concepção artística de Las Vegas como uma cidade que vive de dejetos humanos e de falsidades. A relação de ambos com as outras pessoas também é sempre baseada nessas assumpções, o que reforça mais ainda o sentimento de excluídos e às margens da sociedade).
 
 É trivial falar que ambos os atores fizeram sua lição de casa para viveram personagens tão marcantes, chegando Cage a frequentar o "AA" e Shue a ter conversas de campo com garotas de programa. Porém, ainda sou levado a acreditar naqueles casos de filmes que são feitos no lugar certo pelas pessoas certas. O resultado nesse caso não poderia ter sido melhor.
-

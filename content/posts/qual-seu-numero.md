@@ -1,10 +1,10 @@
 ---
 date: "2011-10-17"
 link: "https://www.imdb.com/title/tt0770703"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Qual Seu Número?"
 ---
-Aparentemente não há limites para a "criatividade" de Hollywood para comédias românticas. Quem diria que a Cindy (Anna Faris), da franquia Todo Mundo em Pânico, seria par romântico com o Capitão América (Chris Evans)? Um desafio interessante para ambos, visto que seus respectivos currículos de "menina fácil (e alvo de socos) em comédia-paródia" e "super-herói simpático" são ligeiramente diferentes nesse novo longa de Mark Mylod (Quem é Morto Sempre Aparece).
+Aparentemente não há limites para a "criatividade" de Hollywood para comédias românticas. Quem diria que a Cindy (Anna Faris), da franquia Todo Mundo em Pânico, seria par romântico com o [Capitão América] (Chris Evans)? Um desafio interessante para ambos, visto que seus respectivos currículos de "menina fácil (e alvo de socos) em comédia-paródia" e "super-herói simpático" são ligeiramente diferentes nesse novo longa de Mark Mylod (Quem é Morto Sempre Aparece).
 
 A história gira em torno da fascinação feminina pelas pesquisas de revistas femininas (nesse caso, a Marie Claire). Ally (Faris), durante os preparativos para o casamento de sua irmão Daisy (Graynor), percebe que o número de seus parceiros sexuais está ligeiramente acima da média nacional (o dobro) através de uma pesquisa da citada revista, e, de acordo com a mesma reportagem, mulheres que passam dos 20 parceiros acabam nunca se casando. Por coincidência, falta apenas um parceiro para que ela preencha os 20 redondos, e fatidicamente ela acaba preenchendo "a vaga" com quem não desejaria se casar. Desiludida, tem a "brilhante" ideia de reciclar seus ex-parceiros para conseguir não fugir às estatística da reportagem da revista feminina e evitar a maldição de ficar pra titia.
 
@@ -18,3 +18,4 @@ Ciente da falta de emoção na maioria do longa, a trilha investe então na cena
 
 Bobo e infantil do começo ao fim, ao menos possui coerência interna, e uma seleção de músicas simpática. Mas é só.
 
+[Capitão América]: /capitao-america-o-primeiro-vingador

@@ -1,8 +1,8 @@
 ---
 date: "2011-10-24"
 link: "https://www.imdb.com/title/tt1841584"
-tags: [ "draft", "movies" ]
-title: "El gato desaparece"
+tags: [ "reviews", "movies" ]
+title: "O Desaparecimento do Gato"
 ---
 Diferente da ótica tão comum nos filmes de encarar a loucura como uma doença trágica, Carlos Sorín dedica seus esforços em sua nova película para entreter o espectador e deixá-lo ver com seus próprios olhos que a loucura, de uma maneira geral, pode estar em todos nós, da maneira mais corriqueira e cotidiana que for. De maneira brilhante, O Desaparecimento do Gato consegue transmitir essa sensação através de inúmeras facetas.
 
@@ -14,7 +14,8 @@ Mais interessante, no entanto, é que aos poucos somos levados a crer que tudo o
 
 Porém, e aí entra a genialidade de Sorín, essa "vida normal" que vemos é exposta através de uma lente que insiste em olhar as coisas de ângulos diferentes, onde até ouvir uma pessoa cantando pode despertar um sintoma preocupante (e a transição de uma trilha sonora de suspense para o sinal de um telefone é surpreendentemente funcional). Outro ponto são os closes um pouco acima do normal das faces dos personagens, o que evoca o ponto de vista de cada um sobre o que vai acontecendo (ao mesmo tempo que deixa todo o resto meio desfocado, em uma alusão ao mundinho privado em que os loucos vivem).
 
-E diferente de um filme recente que vi (o péssimo Roubando Vidas), onde o óbvio chega a ser uma ofensa ao espectador, nesse caso sabemos que muitos elementos do longa são previsíveis, mas entramos de tal forma na atmosfera paranoica da esposa que um simples saco de lixo pode se transformar de uma hora pra outra em algo mais. Isso funciona tão bem porque, assim como ela, nós também temos nossas dúvidas sobre a sanidade de Luis.
+E diferente de um filme recente que vi (o péssimo [Roubando Vidas]), onde o óbvio chega a ser uma ofensa ao espectador, nesse caso sabemos que muitos elementos do longa são previsíveis, mas entramos de tal forma na atmosfera paranoica da esposa que um simples saco de lixo pode se transformar de uma hora pra outra em algo mais. Isso funciona tão bem porque, assim como ela, nós também temos nossas dúvidas sobre a sanidade de Luis.
 
 Mantendo o controle absoluto da história, a conclusão tensa enriquece novamente toda a experiência, pois detalhes menos importantes passam a corresponder ao nosso entendimento (como as férias para o Brasil). E isso faz toda a diferença em uma história de qualidade.
 
+[Roubando Vidas]: /roubando-vidas

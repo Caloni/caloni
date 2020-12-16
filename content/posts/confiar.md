@@ -1,7 +1,7 @@
 ---
 date: "2011-09-27"
 link: "https://www.imdb.com/title/tt1529572"
-tags: [ "draft", "movies" ]
+tags: [ "reviews", "movies" ]
 title: "Confiar"
 ---
 Dirigido e escrito pelos estreante no cinema David Schwimmer e Andy Bellin (esta co-roteirizada por Robert Festinger, do excelente Entre Quatro Paredes), este drama de tons realistas e de caráter emergencial conta a história de Annie, uma jovem colegial que acaba de completar 14 anos e que pertence a uma família tranquila e estruturada. Como todas as jovens de sua idade, costuma passar o tempo alheia à vida em sua volta, se comunicando com amigos virtuais através do celular e de seu computador (presente de aniversário de seu pai, um detalhe sutil, mas trágico).
@@ -17,4 +17,3 @@ E se o elenco ajuda a pontuar as mudanças familiares, a fotografia se estabelec
 Note como, por outro lado, o comportamento de Annie, a principal envolvida, é linear e previsível. Não à toa: isso é mais uma vez o filme nos escancarando a incapacidade de uma jovem nessa idade possuir a vivência necessária não só para entender as reais intenções do seu molestador, mas o que ocorre com ela mesma após essa experiência, o que nos lembra que o mais horripilante na interpretação do seu estuprador é a facilidade com que é possível convencer sua vítima contra todos os conselhos e avisos de uma formação adequada, o que reflete não só a impotência dos pais (por melhor educação que eles tenham dado) em proteger seus filhos dos seres inescrupulosos que habitam não só a internet, como o mundo real.
 
 Porém, ao mesmo tempo, o filme nos deixa uma pequena-grande reflexão sobre o que seria essa confiança, ensinada pelos pais por sua essência na relação familiar, mas inútil se aplicada sem discernimento na vida real. E como pedir para seres humanos em sua fase de descobertas e medição de valores para já possuírem em seu kit de sobrevivência a capacidade de dividir as pessoas em confiáveis e não-confiáveis? Mais do que acomodar os espectadores, a retórica de Confiar acaba por deixá-los mais inquietos do que antes.
-

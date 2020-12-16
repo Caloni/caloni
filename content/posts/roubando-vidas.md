@@ -1,7 +1,7 @@
 ---
 date: "2011-10-23"
 link: "https://www.imdb.com/title/tt0364045"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Roubando Vidas"
 ---
 Esse é mais um thriller policial que envolve uma dupla de elementos que vem se tornando frequente: histórias previsíveis e Angelina Jolie. Nesse caso, Jolie é uma agente do FBI que precisa capturar um serial killer que rouba a identidade de suas vítimas.
@@ -15,4 +15,3 @@ Mesmo assim, o clima sombrio em que é transformada a cidade onde os crimes ocor
 E por falar em psicologia, talvez o maior erro do filme tenha sido apostar na performance mental do serial killer, o que, infelizmente nesse caso, ainda mais depois do desfecho, revela um conceito que parece ainda inacabado e que aplica subterfúgios pedestres para que pareça mais complexa do que de fato é. Não há detalhes que eu possa revelar sem deixar a história mais previsível ainda, portanto, me abstenho.
 
 Ao final, pelo menos ficamos com os olhos e os lábios de Angelina Jolie, o que é sempre um atrativo, não importando muito o gênero do filme ou sua história.
-
