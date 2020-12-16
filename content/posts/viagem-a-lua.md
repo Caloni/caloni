@@ -1,7 +1,7 @@
 ---
 date: "2011-09-01"
 link: "https://www.imdb.com/title/tt0000417"
-tags: [ "draft" ]
+tags: [ "movies" ]
 title: "Viagem à Lua"
 ---
 O francês Georges Méliès foi um dos privilegiados que assistiu à famosa primeira projeção (coletiva) de Cinema da história: A chegada do trem na estação.
@@ -16,4 +16,4 @@ Apesar da cópia precária disponibilizada no Archive.org, podemos ver que se tr
 
 As regras para assistir A Viagem para a Luz são as mesmas de hoje em dia: temos que nos deixar enganar, suspender a realidade, e participar do mundo fantasioso criado por Méliès (e uma ajudinha de Júlio Verne). A Lua do filme, ironicamente, é o próprio ser humano. Os cientistas, muito eloquentes, se trancam em seus próprios pensamentos, discutem entre eles. Seria a ciência um grupo fechado de pessoas com suas maluquices peculiares aos olhos do cidadão comum? Teríamos conseguido estreitar as barreiras de comunicação das descobertas científicas com o povo, ou ainda a visão comum de muitas coisas beira o misticismo? Seria esse o motivo de tantas religiões e rituais primitivos ainda predominarem sobre a moral humanista, mesmo com tantos avanços tecnológicos e filosóficos?
 
-Nada que um filme de 100 anos atrás não faça pensar. Como diz Pablo Villaça: "não existe filme velho; só filme ainda não assistido."
+Nada que um filme de 100 anos atrás não faça pensar. Como diz o crítico de cinema Pablo Villaça: "não existe filme velho; só filme ainda não assistido."
