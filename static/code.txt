@@ -1,25 +1,3 @@
-android-protobuf-mock-configuravel.md:    buildTypes {
-android-protobuf-mock-configuravel.md:        debug {
-android-protobuf-mock-configuravel.md:            buildConfigField "boolean", "is_server_mock", IsServerMock
-android-protobuf-mock-configuravel.md:            buildConfigField "String", "server_mock_data", ServerMockData
-android-protobuf-mock-configuravel.md:        }
-android-protobuf-mock-configuravel.md:    }
-android-protobuf-mock-configuravel.md:        ServerMockData = '"{\\"session\\":\\"mock\\",\\"item\\":[{\\"itemData\\":{\\"sbrurles\\":[{\\"id\\":10,\\"name\\":\\"Something\\",\\"number\\":\\"282\\"}"}}]}\\n"'
-android-protobuf-mock-configuravel.md:    public final class BuildConfig {
-android-protobuf-mock-configuravel.md:      public static final boolean DEBUG = Boolean.parseBoolean("true");
-android-protobuf-mock-configuravel.md:      public static final String BUILD_TYPE = "debug";
-android-protobuf-mock-configuravel.md:      public static final String FLAVOR = "";
-android-protobuf-mock-configuravel.md:      public static final int VERSION_CODE = 35;
-android-protobuf-mock-configuravel.md:      // Fields from build type: debug
-android-protobuf-mock-configuravel.md:      public static final boolean is_server_mock = true;
-android-protobuf-mock-configuravel.md:      public static final String server_mock_data = "{\"session\":\"mock\",\"item\":[{\"itemData\"...";
-android-protobuf-mock-configuravel.md:    }
-android-protobuf-mock-configuravel.md:    if( ! BuildConfig.is_server_mock )
-android-protobuf-mock-configuravel.md:    {
-android-protobuf-mock-configuravel.md:        ServerData.Builder builder = ServerData.newBuilder();
-android-protobuf-mock-configuravel.md:        JsonFormat.parser().merge(BuildConfig.server_mock_data, builder);
-android-protobuf-mock-configuravel.md:        ServerData data = builder.build();
-android-protobuf-mock-configuravel.md:    }
 antidebug-detectando-attach.md:    #include <windows.h>
 antidebug-detectando-attach.md:    #include <iostream>
 antidebug-detectando-attach.md:    #include <assert.h>

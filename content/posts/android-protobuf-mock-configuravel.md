@@ -1,7 +1,7 @@
 ---
 date: "2017-02-06"
-tags: [ "code", "draft",  ]
-title: "Android protobuf, mock configurável"
+tags: [ "code" ]
+title: "Android Protobuf, Mock Configurável"
 ---
 A comunicação oferecida pelo Protocol Buffers, uma maneira otimizada de codificar mensagens em alto nível, é uma das formas mais ideais de realizar a ponte entre cliente e servidor quando se fala de aplicativos mobile. A solução já suporta inúmeras linguagens, desde C++ (a linguagem oficial) até Java, passando por Python e .NET. Um mesmo arquivo de definição pode ser usado entre diferentes tipos de tecnologia. Este artigo mostra o caminho das pedras para compilar o protobuf para Android e de quebra mostra como é fácil fazer um mock de servidor local em uma configuração local com o gerenciador de builds do Android.
 
@@ -13,20 +13,8 @@ Os guias contidos nos READMEs espalhados pelo fonte, começando pelo primeiro ex
 
 Depois de compilar o protoc e colocá-lo no devido lugar, há uma questão importante: a versão em Java usa um gerenciador de build do Apache que funciona muito naquelas para Windows, dando erro nos testes e na instalação. Minha solução foi simplesmente usar a segunda opção descrita no README: compilar o Descriptor.proto e com ele gerar todos os .java necessários para sua compilação. Com isso fica até mais simples montar no projeto Android uma solução mais enxuta, apenas com as classes necessárias (no meu caso, pelo menos o JsonFormat e dependências).
 
-A grande vantagem do Android Studio é que ele já escaneia os diretórios do projeto, sendo apenas necessário copiar os fontes e ele já integra no projeto. A partir daí os imports funcionam e ele compila tudo junto. Resolvido.
+A grande vantagem do Android Studio é que ele já escaneia os diretórios do projeto, sendo apenas necessário copiar os fontes e ele já integra no projeto. A partir daí os imports funcionam e ele compila tudo junto. Para a parte do mock eu recomendo usar o sistema de variáveis do Gradle. Ele mantém uma lista de variáveis no arquivo app/build.gradle. Você pode jogar direto o valor que deseja, mas há uma solução ainda mais elegante que usa um arquivo apartado chamado local.properties, onde é ideal não jogar no controle de fonte, e de onde todo desenvolvedor pode customizar.
 
-Para a parte do mock eu recomendo usar o sistema de variáveis do Gradle. Ele mantém uma lista de variáveis em um formato específico no arquivo app/build.gradle:
+No caso de ServerMockData, ele pode ser um json com sua mensagem protobuf já certinha para uso, como se esses fossem os dados do server. É possível jogar um json nesse arquivo e depois o Android e o Gradle irão jogá-lo diretament em uma classe estática, a BuildConfig. A partir dessa string é possível obter rapidamente a mensagem equivalente.
 
-
-Você pode jogar direto o valor que deseja, mas há uma solução ainda mais elegante que usa um arquivo apartado chamado local.properties, onde é ideal não jogar no controle de fonte, e de onde todo desenvolvedor pode customizar. No caso de ServerMockData, ele pode ser um json com sua mensagem protobuf já certinha para uso, como se esses fossem os dados do server:
-
-
-Isso pode estar errado (parênteses demais), mas você entendeu a ideia. É possível jogar um json nesse arquivo e depois o Android e o Gradle irão jogá-lo diretament em uma classe estática, a BuildConfig:
-
-
-A partir dessa string é possível obter rapidamente a mensagem equivalente:
-
-
-DICA: O Android Studio tem um botão esperto em sua interface onde, depois de alterado o local.properties, é possível refazer o BuildConfig.
-
-E com isso podemos ter o protocol buffers e um sistema de mock simples e prático para a depuração e testes locais com nosso app que vai revolucionar o mundo =)
+O Android Studio tem um botão esperto em sua interface onde, depois de alterado o local.properties, é possível refazer o BuildConfig. E com isso podemos ter o protocol buffers e um sistema de mock simples e prático para a depuração e testes locais com o próximo app que vai revolucionar o mundo =).
