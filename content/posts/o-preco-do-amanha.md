@@ -1,7 +1,7 @@
 ---
 date: "2011-11-17"
 link: "https://www.imdb.com/title/tt1637688"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Preço do Amanhã"
 ---
 A grande sacada do gênero de ficção-científica, tanto no cinema quanto na literatura, é conseguir discutir alguma questão da sociedade atual sob a ótica de um mundo fantasioso. Para isso, as pessoas são colocadas em situações em que normalmente não existiriam, mas que lembram ou simbolizam uma questão do mundo real, ainda que encoberto de uma aura futurista.
@@ -21,4 +21,3 @@ Chega a repetir duas vezes que o custo de uma ligação de um minuto custa... um
 Depois que as cenas de ação são exauridas, o filme perde o fôlego, o que acaba denunciando a falta de ideias além de seu argumento inicial. Os personagens ficam patinando em suas posições, à espera de mais cenas de ação, pois não há, de fato, mais filosofia a ser aplicada (nem trocadilhos com relação a dinheiro).
 
 Depois da sessão, confesso que não consegui pensar em como desenvolver o argumento do filme de uma forma mais... produtiva. Isso explicaria, em partes, porque o diretor do filme é o roteirista e o próprio produtor. Ninguém mais compraria uma ideia como essa para produzir um filme de milhões... nem que tivesse tempo sobrando.
-

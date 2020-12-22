@@ -1,7 +1,7 @@
 ---
 date: "2011-11-16"
 link: "https://www.imdb.com/title/tt1462041"
-tags: [ "draft", "movies" ]
+tags: [ "reviews", "movies" ]
 title: "A Casa dos Sonhos"
 ---
 Vendido como uma história de terror/suspense, a história gira em torno de Will Atenton (Craig) que, depois de anos dedicado ao seu emprego, se aposenta e volta a morar junto de sua família em um bairro afastado, onde terá todo o tempo para, além de curtir sua amada esposa (Weisz) e suas adoráveis filhas (ambas irmãs na vida real, que já fizeram ponta em A Origem), terminar o romance que vinha escrevendo nas horas vagas.
@@ -13,4 +13,3 @@ Que vem, infelizmente, da pior maneira possível. As tristes escolhas de trilha 
 Porém, para encaixar duas histórias complexas por natureza o roteiro forçosamente empurra personagens a fazer o que nunca fariam se fossem reais, e para entender isso basta ter o mínimo de atenção nos personagens secundários, como o bando de policiais confusos ou as vizinhas boas samaritanas.
 
 A conclusão óbvia é que, para conseguir a segunda reviravolta, não há outra saída menos elegante do que colocar os culpados em situação completamente expositiva, com falas que denotam exatamente o que ocorreu cinco anos atrás, época dos assassinatos, o tipo de coisa que, convenhamos, entrega uma resposta fácil para um problema complexo, desfalecendo todas nossas expectativas por um final inteligente.
-

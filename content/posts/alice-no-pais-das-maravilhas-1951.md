@@ -1,7 +1,7 @@
 ---
 date: "2011-11-13"
 link: "https://www.imdb.com/title/tt0043274"
-tags: [ "draft", "movies" ]
+tags: [ "reviews", "movies" ]
 title: "Alice no País das Maravilhas (1951)"
 ---
 Tantos roteiristas, tantos adiamentos e tanta dúvida sobre se esse projeto seria viável valeram a pena. A versão de Alice de 1951, conduzida por perto pelo próprio Walt Disney, é irretocável do começo ao fim. É o tipo de filme que encanta por nunca ter envelhecido, de fato, e pela sua riqueza nos detalhes visíveis e invisíveis.
@@ -17,4 +17,3 @@ Com uma conclusão precipitada, mas que ainda condiz com a lógica interna do se
 Depois de tantos atrasos e revisitas, o projeto de Disney de filmar o clássico de Lewis Carroll finalmente saiu do papel em grande estilo. Mesmo visto diversas vezes, sempre é possível aprender novas ideias e estabelecer novos conceitos sobre o que é Alice e o mundo onde ela foi parar. E, mesmo que não, só as cantorias, os movimentos, as cores e a forma de apresentar os seus personagens vale a revisita.
 
 Alice é o filme favorito de minha sobrinha, e um dos meus favoritos da cinegrafia Disney. Suas cores, seu humor, seu movimento e sua música formam um conjunto completo de experiências que conseguem sempre nos puxar mais e mais para dentro do seu mundo. Não é à toa que adultos e crianças concordem com isso.
-
