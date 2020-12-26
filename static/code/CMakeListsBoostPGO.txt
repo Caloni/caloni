@@ -1,0 +1,23 @@
+cmake_minimum_required(VERSION 3.16)
+
+project (samples C CXX)
+
+set(Boost_USE_STATIC_LIBS ON) 
+set(Boost_USE_MULTITHREADED ON)
+find_package(Boost 1.72.0 EXACT REQUIRED COMPONENTS date_time filesystem system thread program_options regex iostreams)
+
+add_executable(samples)
+
+target_sources(samples PRIVATE desafio5-win64-v3.c)
+
+target_include_directories(samples PRIVATE ${Boost_INCLUDE_DIRS})
+
+target_link_libraries(samples PRIVATE ${Boost_LIBRARIES})
+
+if ("${CMAKE_BUILD_TYPE}" STREQUAL "PROFILE_GEN")
+  target_compile_options(samples PRIVATE "/GL")
+  set_target_properties(samples PROPERTIES LINK_FLAGS " /LTCG /GENPROFILE")
+elseif ("${CMAKE_BUILD_TYPE}" STREQUAL "PROFILE_BUILD")
+  target_compile_options(samples PRIVATE "/GL")
+  set_target_properties(samples PROPERTIES LINK_FLAGS "/PGD:${PROJECT_BINARY_DIR}/${CMAKE_CFG_INTDIR}/samples.pgd /LTCG:PGOptimize")
+endif()
