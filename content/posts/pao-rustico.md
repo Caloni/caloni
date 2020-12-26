@@ -13,3 +13,5 @@ A sova deve ser aquela que depois de uns 10, 15 mins, a massa parece aquela gosm
 Antes de colocar no forno jogue um spray ou com os dedos uma água quentinha por cima dos moldes, para depois espalhar generosamente farinha por cima. Por fim, faça aquele corte diagonal com faca de serra, só que profundo e de ponta a ponta; segure a faca firme para ficar uniforme.
 
 Vai de 25 a 30 minutos no forno a 220 graus, ou até ficar bem dourado marrom. Aguarde esfriar antes de cortar.
+
+ - 2020-12-19 Ficou muito bom, mas só depois de eu sovar e ficar parecido com a gosma do jogo Portal. Deixei na geladeira da noite pro dia e depois tirei, dividi em dois e moldei de maneira oval. A massa é fácil de modelar. Untei com manteiga e deu esse aspecto meio queimado/crocante embaixo. Por dentro macio com um leve azedo do fermento natural. Ficou macio, nada parecido com o sem sovar com alta hidratação, que gera uma casca grossa (ou seria porque asso dentro da panela?).
