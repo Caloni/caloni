@@ -1,0 +1,190 @@
+---
+date: "2020-12-27"
+tags: [ "wines", "lists" ]
+title: "Degustações esporádicas de vinhos"
+---
+ - 2019-07-01 Valpolicella é um vinho italiano leve, quase aguado, mas bom de beber sem pressa apreciando a imbatível combinação de amargo e doce (do molho) da pizza de escarola da Cantina do Araújo em Poços de Caldas.
+ - 2019-06-19 O Góes seco é um vinho básico, tão básico que você sente que não há nuance alguma: é uva fermentada e pronto. Sem acidez e sem amargor. Uva, leve e alcoólica.
+ - 2019-06-19 Já o Cabernet Sauvignon deles, Tempos, é azedo. Não lembra Cabernet, exceto pelo corpo fraco para médio. Bom para comer com queijo. Bom e barato se você não espera nada além de um vinho honesto e de entrada.
+ - 2019-06-17 Rivani é o espumante chique que meu amigo comprou pra festa de casamento. Ele vem como Extra Dry, mas seu corpo médio é levemente adocicado, sem ofender os sentidos para outras características, como sua óbvia secura e taninos.
+ - 2019-05-20 Gran Tarapaca Carménère Reserva 2017. Tomado em copo de plástico. Continua elegante, vistoso, frutoso e gostoso.
+ - 2018-06-24 Finca Las Nubes Cabernet Malbec 2016. Este vinho jovem da vinícola Las Nubes em Cafayate eu comprei quando a bodega estava em reforma, impossibilitando degustarmos com queijos da região naquela paisagem estonteante. Mas abrimos com queijos de cabra que trouxemos para casa, também, e o resultado foi sensacional. Cheiro de tanques da vinícola, após uma semana aberto um gosto frutado peculiar.
+ - 2018-06-24 El Esteco Tinto Tardio Malbec 2015. Ainda jovem, manteve o sabor visto na degustação, de um doce excepcional que apenas a uva Malbec colhida tardiamente possui.
+ - 2018-06-20 Prelatura Barbera Reserva 2014. Esse vinho não existe. O rótulo diz que foi feito por monges neste Vale da Argentina. Eu não vi nenhum monge por lá, nem vinícola, e a internet concorda comigo. As únicas informações que as pessoas conseguem vem do seu rótulo. À venda na Casa das Empanadas, que é o melhor restaurante de Cafayate para empanadas e pelo seu custo/benefício. Só não sei onde acharam esse vinho de gosto forte, ácido e azedo, que só amoleceu depois de alguns dias no hotel, aguardando por uma revisita nas empanadas.
+ - 2018-06-20 Plan B Malbec. Ácido como o malbec, este vinho com rótulo brega tem corpo leve para médio, e amoleceu durante a viagem de volta de Tucumán, Argentina. Aqui no Brasil estava mais frutado fresco e tânico. Serve bem tanto bife de chorizo (para o qual o Malbec foi criado) quanto queijo de cabras provençal (que trouxemos da queijaria de Cafayate).
+ - 2018-05-16 François Labet Pinot Noir 2016. Como todos os Pinots que já conheci, esse vem leve, muito leve, quase flutua, e em uma conversa animada pode render altos devaneios involuntários. Frutas mais maduras que o esperado da casta e pouquíssimo alcoólico. Recomendo abrir uma garrafa a dois.
+ - 2018-04-06 Pata Negra Oro Tempranillo 2014. Este vinho espanhol industrial clássico foi um achado de um armazém próximo da Brigadeiro com a Paulista; ao abrir há um frescor e um buquê floral intenso; depois de uns dias guardados mais a quentura dessa uva.
+ - 2018-03-18 Cosecha Tarapaca Carmenere 2016. Um achado no mercadinho do lado de casa, o Tarapaca Carmenere 2016 tem um buquê frutado maravilhoso ao abrir, e um corpo médio de muita propriedade e elegância, com taninos firmes que vão apresentando aromas terciários no decorrer da degustação. Comprei mais duas garrafas depois que fiquei sabendo.
+ - 2018-02-23 Il Badalisc Montepulciano DAbruzzo DOC. Um vinho italiano raiz, com corpo médio e um tanino forte; o álcool permanece por uma hora e depois surgem notas secundárias de condimentos doces e minerais; acompanha bem carnes condimentadas ou apenas sozinho.
+ - 2018-01-17 Humberto Barberis Edicion Limitada 2015. Frutado como Malbec; corpo leve. Contra congelado que descongelei mais ou menos sozinho.
+ - 2017-12-25 Santa Helena Reservado Cabernet Sauvignon 2015. Acho que fritou no mercado, pois ele ficou bem pouco aromático e um tanto amargo com corpo médio pra fraco. Aberto no Natal aqui em casa.
+ - 2017-12-24 Los Gatos Pinot Noir 2016. Peguei este bom custo/benefício para o Natal em Osasco, ele tem corpo muito fraco, vai fácil, pouco frutado e levemente aromático.
+ - 2017-12-20 The 7th Generation Carmenere Wine of Chile 2013. Equilibrado com corpo forte. Confraternização BitForge 2017 (Fábio trouxe).
+ - 2017-12-20 Perini Fração Única Merlot 2012. Gostaria de provar este reserva menos bêbado; parecia bem bom, com corpo fraco pra médio. Confraternização BitForge 2017 (o Gianni trouxe, ganhamos do cara da Ali).
+ - 2017-12-20 Jean Bousquet Finca Lalande Malbec 2006. Envelhecidíssimo, mas sem sedimentos dessa vez pouco amadeirado, meio amargo com doce. Confraternização BitForge 2017 abri minha garrafa.
+ - 2017-12-20 Domingo Molina Sauvignon Blanc 2016. Um dos brancos (o último) de Salta que tinha guardado, é meio desagradável. Confraternização BitForge 2017.
+ - 2017-12-20 Callia Alta Torrontes 2016. Azedo e doce na medida certa. Confraternização BitForge 2017.
+ - 2017-12-20 Callia Alta Malbec 2016. Um pouco mais amargo que o frutado típido do Malbec.
+ - 2017-11-26 Petits Detours Grenache Collline de La Moure 2016. Degustação nervosa na casa do Incrível, este francês com uva esquisita tem aroma e sabor de frutas maduras, um azedo equilibrado com uma mistura excêntrica.
+ - 2017-11-26 Humberto Barberis Corte Classico 2015. Degustação nervosa na casa do Incrível, este corte mendocino tem ricos aromas e um tanino que se pronuncia apenas próximo do final da garrafa.
+ - 2017-11-21 Quinta de Bons-Ventos 2015 Lisboa. Tom violáceo na cor com corpo médio pra forte, dependendo da sua sensibilidade; um pouco alcoólico demais, médio tânico, frutado maduro com geleia. Abrindo para comer com queijo de cabra e presunto espanhol que sobrou na geladeira.
+ - 2017-11-13 Casa Valduga Heitor Villa-Lobos Cabernet Sauvignon 2011. Amadeirado, aromático, frutado e tânico nas medidas certas; um vinho extremamente redondo. Provado no evento do Hotel Intercontinental (foi de graça, ainda por cima!).
+ - 2017-11-05 Cordillera Andina Cabernet Sauvignon 2016. Corpo médio, com certo caráter; pouco aromático, mas com um tom amadeirado que se junta com o frutado no gosto. Acabei uma garrafa com a Ana.
+ - 2017-11-02 120 Carmenere Cabernet Franc Cabernet Sauvignon Reserva Especial 2016 Santa Rita. Blend bem equilibrado, frutado, aromático e fácil de beber em um médio corpo pra menos. Churrasco na casa do Glauser.
+ - 2017-10-04 Caracter Malbec 2017. Frutado simples, corpo leve, vinho jovem agradável, quase doce. É o baratinho do mercado de casa.
+ - 2017-10-03 Quattrocchi Malbec Tempranillo 2014. Pouco frutado, seco no começo com final mais suave que o esperado.
+ - 2017-10-03 Quattrocchi Malbec Tempranillo 2014. Comprado no mercado de casa envinagrado, passou do ponto. Tentando beber com queijos.
+ - 2017-10-03 Caracter Malbec 2017. Fácil de beber, meio azedinho; qualidade acima do preço.
+ - 2017-09-30 Nanni Torrentes Tardio 2016. Limão, mel com final floral; não tão doce como se pode imaginar. Noite de embutidos e queijo de cabra em casa.
+ - 2017-09-23 Caracter Malbec 2017. Fácil de beber, meio azedinho; qualidade acima do preço. Tomado no churrasco-niver do Toshio.
+ - 2017-09-20 Nanni Reserve Tannat 2015. Corpo médio, extremamente equilibrado e frutado com um tanino impressionante, assim que aberto. Abri pra comer com presunto espanhol e rondeli de SBC.
+ - 2017-09-17 Piattelli Grand Reserve Malbec 2014. Surpreendentemente doce, corpo fácil para um Malbec; quase um suco; frutado fresco e pouco alcoólico. Churrasco em casa com toda a família.
+ - 2017-09-03 El Esteco Fincas Notables Tannat 2013. Gosto de frutas vermelhas, não amadeirado, mas tânico o suficiente para se tornar azedo e marrento na medida certa. Tomando com o macarrão sem molho e tomates cereja.
+ - 2017-08-20 Nederburg 1791 Cabernet Sauvignon 2016. Corpo leve, Cabernet bem comum; um pouco azedo, nada tânico. Lasanha na casa de Dona Neusa em casa cheia.
+ - 2017-08-17 Domingo Molina M2 Malbec Malbec 2014. Pouco corpo, não muito interessante; oleoso, pouco tânico. Carnes no aniversário do Glauser e Rafael.
+ - 2017-08-13 El Esteco Ciclos Cabernet Sauvignon 2014. Para um Cabernet tem um corpo bem forte, como todos os vinhos de Salta; amadeirado levemente e tânico agradável sem muitos aromas. Abri para visita do Incrível onde só bebemos sem comida; no dia seguinte com bife de chorizo ficou interessante
+ - 2017-08-13 Domingo Molina Rupestre Blend Malbec Merlot Tannat 2013. Corpo médio pra forte, frutas maduras, bem amadeirado e seco. Com o bife de chorizo do Sonda coube perfeitamente.
+ - 2017-08-10 Santa Ana Seleccion 2016. Sem ano, sem uva, de Mendoça/Argentina; Sem muito aroma ou sabor, custa 12 reais no mercado; corpo fraco. Tomando porque a Mitiko comprou pra fazer bebida doce.
+ - 2017-08-08 El Porvenir Icono 2013. Corpo médio, frutado maduro, cheiro de vinícola. Aberto na degustação de pão italiano com manteiga, queijos e molhos em casa.
+ - 2017-08-01 Del Fin Del Mundo Malbec Reserva 2015. Um pouco amargo (frutas maduras demais?), corpo médio pra suave, azedo equilibrado. Churrasco a dois no terraço.
+ - 2017-07-30 El Esteco Don David Reserva Malbec Tannat 2015. Ameixa, acidez e corpo médios (corpo um pouco mais), frutas maduras. Bom custo e benefício em um churrasco caseiro de domingo a dois.
+ - 2017-07-16 El Porvenir Laborum Malbec Tardio 2016. Malbec tardio tem gosto de Malbec com um doce não muito forte, mas o suficiente para ficar enjoativo para algumas pessoas; possível de comer com carnes. Acabamos os 500ml, eu e a Mitiko, no churrasco de sobrô do domingo.
+ - 2017-07-16 El Esteco Old Vines 1958 Criolla 2015. Corpo leve, pouco azedo e quase branco; pouco doce. Combinou razoavelmente bem com o fondue de chocolate no terraço com os amigos da IBM da Mitiko depois do churrasco.
+ - 2017-07-15 El Legado Blend Tannat Syrah 2013. Fácil de beber, pouco azedo e médio corpo; tanino em desenvolvimento. Todos dos amigos da IBM curtiram no churrasco do terraço.
+ - 2017-07-02 Humberto Barberis Malbec Edición Limitada 2016. Frutado como Malbec; corpo leve. Festa mexicana casa da cunhada da Su.
+ - 2017-07-02 Humberto Barberis Corte Clássico 2015. Malbec pouco frutado e mais encorpado que versão Edición Limitada. Festa mexicana casa da cunhada da Su.
+ - 2017-07-02 Del Fin Del Mundo Pinot Noir Reserva 2015. Frutado em corpo leve sem parecer geleia como Malbec, mas como frutas secas (ameixa) frescas. Festa mexicana casa da cunhada da Su.
+ - 2017-07-02 Colcha y Toro Cabernet. Cabenert básico com corpo leve. Festa mexicana casa da cunhada da Su.
+ - 2017-06-25 El Legado Syrah Reserva 2015. Leve, mas com muitas frutas negras; pouco tânico por ser reserva. Vai bem com lasanha de escarola que fiz no domingo com molho italiano.
+ - 2017-06-18 El Porvenir Laborum Cabernet Sauvignon 2015. Frutado, encorpado, pouco azedo e quente; frutas secas. Churrasco no sítio do Glauser em Itapeva.
+ - 2017-06-12 Bodega Boutique El Legado Tannat Reserva 2015. Frutado puxando para o amargo; encorpado. Tomando segunda taça da geladeira comendo pão com mortadela.
+ - 2017-06-11 Fincas Privadas Malbec 2016. Vinho de mercado (Joanin) com preço ligeiramente acima da média, não é encorpado e um tanto amargo, mas se acostuma com o tempo. Tomando no chá de bebê do amigo da Mitiko que mora perto de casa.
+ - 2017-06-07 Marchesi del Salen. Italiano encorpado e não tão doce quanto eles costumam ser; pouco amargo e salgado. Do Fabio no churrasco na casa do Thiago.
+ - 2017-06-07 Famiglia Bianchi Malbec 2014. Bem frutado no aroma e encorpado no sabor, combina bem com carne de churrasco. No churrasco do niver do Thiago.
+ - 2017-06-07 Don David Malbec Reserva 2014. Última taça na geladeira; após esquentar, um pouco azedo; falta aroma e frutado, mas ambos estão lá. Tomando com canja de frango caseira.
+ - 2017-06-07 Chevalier Laubrac. Um francês importado da Polônia que é azedo, pouco encorpado e sutil. Do Fabio no churrasco do niver do Thiago.
+ - 2017-05-30 Portillo Malbec. Acidez média, cheiro de vinícola, frutas negras, corpo médio.
+ - 2017-05-30 Callia Alta. Ácido, azedo, quente, frutado e encorpado; compota (como o Portillo depois); amadeirado após respirar.
+ - 2017-05-27 Vina Barroca Mencia Bierzo Tempranillo Reserva. Frutas Negras em vez de vermelhas, madeira e tanino sutil. Aberto na noite de pizza na casa do Incrível com o Jimmy.
+ - 2017-05-27 Moura Basto Vinho Verde. Equilibrado entre doce e seco, pouco ácido, acompanha bem queijos. Aberto na noite de pizza na casa do Incrível com o Jimmy.
+ - 2017-05-27 Las Nubes Salta Torrontes Colheita Tardia. Maçã verde, limão, ácido e azedo, doce constante, mas equilibrado. Com queijo de vaca é perfeito. Continuamos bebendo na noite de pizza na casa do Incrível com o Jimmy.
+ - 2017-05-27 Don Nelson Ariano Special Reserve Tannat 2010. Cor atijolada, amadeirado cheio de aromas; encorpado, ácido leve e com final frutas negras e taninos. Aberto na casa do Glauser e Michele com uma picanha no forno; foi respirando bem durante as horas.
+ - 2017-05-27 Bad Brothers MaTaCa Blend 2015. Amadeirado cheio de aromas sutis; corpo médio pra forte; acidez média. Aberto na noite de pizza na casa do Incrível com o Jimmy.
+ - 2017-05-22 Vasija Secreta Lacrado Malbec 2016. Pouco azedo e pouco ácido; fácil de beber no começo, mas tem corpo médio. Aberto no dia das mães atrasado após comprá-lo na viagem para Salta.
+ - 2017-05-20 Susana Balbo Crios Malbec 2016. Pouco ácido, corpo médio para forte, um tanto azedo e pouco frutado (frutas maduras). Combina bem com pão e queijo do Fratelli em jantar com as mães; com massa, fica um pouco amargo.
+ - 2017-05-17 Quara Bonarda Reserva 2015. Corpo fácil para um reserva; pouco amadeirado e razoavelmente frutado. Muito bom no último jantar em Buenos Aires, com salada, provoleta e ojo de bife na melhor parrillada da cidade em uma noite ébria e um atendimento tranquilo.
+ - 2017-05-17 Piattelli Grand Reserve Malbec 2014. Ácido que favorece o sabor; profundo e balanceado; um pouco tânico.
+ - 2017-05-17 Nanni Torrentes Tardio 2016. Limão, mel com final floral; não tão doce como se pode imaginar.
+ - 2017-05-17 Nanni Reserve Tannat 2015. Encorpado e frutado; taninos secos; aguardar três anos (menos seco e um pouco doce).
+ - 2017-05-17 Famiglia Bianchi Malbec 2014. Primeira impressão é doce, depois picante; combina com pratos brasileiros ou steak americano tradicional; algum tanino. Aberto no churrasco do niver do Thiago.
+ - 2017-05-17 El Porvenir Laborum Syrah 2014. Acidez média e estrutura firme; sabores amadeirados com um retrogosto simples. Na adega.
+ - 2017-05-17 El Porvenir Laborum Malbec Tardio 2016. Corpo leve, aromas complexos, frutado; final seco; não tão doce; acompanha carne.
+ - 2017-05-17 El Porvenir Laborum Cabernet Sauvignon 2015. Taninos leves; compota e picante.
+ - 2017-05-17 El Porvenir Icono 2013. Seco e frutado.
+ - 2017-05-17 El Esteco Old Vines 1958 Criolla 2015. Nariz delicado; acompanhar com laranja banhada no chocolate ou macaron de pistache.
+ - 2017-05-17 El Esteco Fincas Notables Tannat 2013. Encorpado com explosão de sabores (frutas negras).
+ - 2017-05-17 El Esteco Don David Reserva Malbec Tannat 2015. Suave com final tânico.
+ - 2017-05-17 El Esteco Ciclos Cabernet Sauvignon 2014. Um Cabernet para carnes, encorpado e com sabor poderoso.
+ - 2017-05-17 Domingo Molina Rupestre Blend Malbec Merlot Tannat 2013. Encorpado, seco, tânico.
+ - 2017-05-17 Domingo Molina M2 Malbec Malbec 2014. Frutado arenoso e ácido e taninos leves.
+ - 2017-05-17 Del Fin Del Mundo Pinot Noir Reserva 2015. Frutado como um Cabernet, ácido se não deixar uns minutos repousando. Aberto na festa mexicana na casa da irmã da Su.
+ - 2017-05-17 Del Fin Del Mundo Malbec Reserva 2015. Suave, frutado sem ser pesado, taninos sedosos; fácil de beber.
+ - 2017-05-17 Bad Brothers MaTaCa Blend 2015. Interessante mistura que lembra algo completamente diferente das três uvas.
+ - 2017-05-16 Amalaya Gran Corte 2013. Ácido, quase nada doce e levemente azedo; meio corpo e quente; taninos se demonstram após um tempo respirando. Segundo jantar no Dubai, restaurante árabe de Salta.
+ - 2017-05-11 Vasija Secreta Torrontes 2015. Pouco doce no aroma, muito azedo no sabor. Degustação pós-visita na bodega.
+ - 2017-05-11 Vasija Secreta Malbec 2015. Frutas maduras com vermelhas (bem pouco); tânico e quente (acabou de ser aberto para degustação). Degustação pós-visita na bodega.
+ - 2017-05-11 El Esteco Ciclos Torrontes 2016. Maçã verde, azedo mas equilibrado, aroma doce (mas não é doce). Degustação pós-visita na bodega.
+ - 2017-05-11 El Esteco Ciclos Cabernet 2014. Amargor com frutas maduras, pouco tânico, mas fácil de ser sentido. Degustação pós-visita na bodega.
+ - 2017-05-10 Salvador Figueroa Gualiama Oak Aged Malbec Gran Reserva 12 meses 2014. Seco, mas agradável; o frutado vem aos poucos; pouco aromático; 10k garrafas anuais e 2500 Gran Reserva. Provado direto da menor bodega do mundo (que só aceita dinheiro e fica em uma ruazinha de Cafayate).
+ - 2017-05-10 Domingo Hermanos Torrontes. Aroma doce floral, mas gosto muito seco.
+ - 2017-05-10 Domingo Hermanos Torrontes Cosecha Tardia. Doce demais, gosto de compota.
+ - 2017-05-10 Domingo Hermanos Malbec 2014 (6 meses barrica francesa). Ácido, seco e amargo.
+ - 2017-05-09 Nanni Tannat Reserva 2016. O frutado do Tannat junto da madeira e do tom seco.
+ - 2017-05-09 Nanni Malbec Reserva 2016. A madeira deixou o Malbec pouco frutado, ou com frutas muito maduras.
+ - 2017-05-09 El Transito Pietro Marini Roble Cabernet Sauvignon-Syrah. Não me lembro como foi a degustação na bodega (a primeira de Cafayate).
+ - 2017-05-09 El Transito Pedro Moises. Não me lembro como foi a degustação na bodega (a primeira de Cafayate).
+ - 2017-05-09 El Esteco Don David Malbec 2016. Muito ácido e quente, mas respirando e bochechando solta taninos interessantes, com gosto de ameixa ou frutas maduras e deixa de ser tão quente.
+ - 2017-05-08 El Esteco Elementos Malbec 2016. Ácido demais; não dei tempo para respirar. Primeiro almoço em Salta.
+ - 2017-05-03 Salentein Reserve Malbec 2014. Violáceo com aroma de frutas maduras; última taça com um amargor não-característico.
+ - 2017-04-09 Juan Carrau Tannat de Reserva 2014. Decantado de um dia pro outro na taça fica extremamente azedo e perde o aroma e as nuances.
+ - 2017-04-04 Juan Carrau Tannat de Reserva 2014. Quente e intenso, frutas maduras e retro gosto amadeirado; tem personalidade forte.
+ - 2017-03-28 West Lane Winey Calignane California 2012. Com 36 meses em barrica de carvalho francês, o gosto amadeirado é o mais presente; já está com tom amadurecido.
+ - 2017-03-02 Alma Mora Malbec 2016. Ameixa, muito frutado, pouco alcoólico; violáceo atraente; depois de um tempo um pouco azedo, um pouco groselha ou frutas vermelhas.
+ - 2017-02-18 Jean Bousquet Finca Lalande Malbec 2006. Envelhecidíssimo com sedimentos e tudo, amadeirado, doce e pouco quente; frutas muito mais maduras que um jovem.
+ - 2017-02-05 Nero D'Avola Duca Sargento. Italiano que demorou pra ficar bom; muito quente e sem aroma, mas depois de amaciado agradável.
+ - 2017-02-05 Callia Alta Malbec 2016. Vinho argentino bom como sempre; frutado no aroma e no sabor; cereja meio geleia; um pouco enjoativo sem acompanhamento.
+ - 2017-01-19 Novecento Malbec 2016. Dessa vez, igualmente denso com pouco aroma, mas um gosto azedo com personalidade.
+ - 2017-01-15 Novecento Malbec 2016. Um tanto denso, mas sem muitos aromas; decepcionante para um malbec.
+ - 2017-01-10 Quantum Classic Ruby Red Blend Merlot/Pinotage/Ruby Cabernet África do Sul. Oleoso, pouco tânico, mas amadeirado no aroma; frutas vermelhas, vibrante e quente sempre.
+ - 2017-01-03 Santa Rita 120 Reserva Especial Syrah 2014. Deixei com a rolha e agora está cheirando a uva; gelado é meio verde; esquentando volta o amadeirado leve.
+ - 2016-12-31 Santa Rita 120 Reserva Especial Syrah 2014. Amadeirado, pouco aromático, quente, azedo.
+ - 2016-12-22 Lidio Carraro Sociedade da Mesa Tannat 2011. Todos os sinais que ainda tem muito que desenvolver; equilibrado e completamente escuro. Na adega.
+ - 2016-12-20 Portillo Malbec Salentein 2016. Frutado maduro e azedo, cor violácea, bem tânico, pouco alcoólico.
+ - 2016-12-16 Alamos Catena Zapata Malbec 2015. Amadeirado sempre presente, além das frutas maduras; alcoólico.
+ - 2016-12-12 Santa Julia Malbec 2015. Quente, frutas maduras com acidez gritante.
+ - 2016-11-20 Dada de Finca Las Moras 2016. Muito frutado, fresco, fácil de beber, transparente.
+ - 2016-11-13 El Legado Tannat Reserva 2015. Mais jovem parece melhor.
+ - 2016-11-13 El Legado Reserva Syrah 2015. Tânico e amadeirado; baunilha (aroma) e frutas negras (pouco); um bom buquê. Aberto para uma lasanha de escarola de domingo.
+ - 2016-11-13 El Legado Gran Reserva Edicion Especial Blend Tannat Syrah 2013. Um vinho social bom com carne.
+ - 2016-11-13 El Legado Blend Tannat Syrah 2013. Um vinho social bom com carne.
+ - 2016-11-13 Don Nelson Ariano Special Reserve Tannat 2010. Encorpado com final leve; pouco frutado e muito seco e tânico; combina com bife.
+ - 2016-09-23 Le Vigne Di Zamo Zamo Rosso. Um vinho quente, mas agradável; experimentei no mercado italiano da J.K.; pena que vinhos italianos são tão caros.
+ - 2016-08-30 La Perdices Petit Verdot 2015. Um vinho agradável, meio azedo, mas com um sabor que se mantém agradável em todo momento.
+ - 2016-06-20 De Gras Gran Reserva Carmenére 2015. Um Carmenére não muito forte, que perde o álcool.
+ - 2016-05-12 Magnesia Öküzgözü. Fácil demais de beber. Bom para visitas.
+ - 2016-05-12 Gato Preto Malbec 2014. Muito bom custo/benefício.
+ - 2016-05-12 Cosecha Tarapaca Carmenére 2014. Bom custo Bom custo benefício, mas mais caro que a média.
+ - 2016-05-07 Magnesia Kalecik Karasi. Fácil demais de beber. Bom para visitas.
+ - 2016-03-07 Taste Shiraz Cabernet 2013. Um sabor agradável, desce bem; pouco alcoólico.
+ - 2015-12-10 Tarapaca Cabernet Carmenére 2013. Um pouco quente, mas encorpado atrativo; boa cor.
+ - 2015-12-09 Alpasión Malbec 2012. No final, menos alcóolico, mais tânico.
+ - 2015-11-22 Alpasión Malbec 2012. No começo alcóolico; passando uma hora, além de aromático, sedoso, e com um amargor intenso, mas breve.
+ - 2015-11-06 CarinaE Prestige Blend Mendoza 2009. Menos alcoólico, mas é muito forte, mesmo. Quente.
+ - 2015-11-02 CarinaE Prestige Blend Mendoza 2009. Ainda alcoólico (depois do fechador à vácuo), meio amargo, pouco aroma.
+ - 2015-10-26 CarinaE Prestige Blend Mendoza 2009. Ao abrir, muitos aromas. Depois de um dia ou dois, um tanto sem graça e forte. Pode ter sido efeito do momento.
+ - 2015-09-29 Manos Negras Pinot Noir 2013. Alcoólico ao abrir, leve.
+ - 2015-09-07 Miguel Torres Cabernet Sauvignon Gran Reserva 2009. Chile	Amadeirado já no aroma, quente mas não alcoólico, um pouco doce.
+ - 2015-09-06 Rosso Dell'Emilia Amabile. Doce naturalmente, meio enjoativo. A japa gostou.
+ - 2015-09-06 Nederburg. Ainda com frutas vermelhas mais doces como groselha. Enjoa um pouco depois da segunda taça.
+ - 2015-09-06 Gérard Bertrand Grand Terroir Syrah/Carignan/Mourvedre 2013. Muito aromático, complexo, pouco corpo, mas tânico. Com chocolate.
+ - 2015-09-06 Club de Sommeliers. Frutado no melhor estilo Malbec, mas com um corpo parecido com um Carmenére.
+ - 2015-08-30 Fuzion Templanillo/Malbec 2013. Manteve suas características de antes, mas depois de uma semana começou a parecer mais agradável com massa.
+ - 2015-08-23 Fuzion Templanillo/Malbec 2013. Equilibrado, não muito quente, gosto de groselha, mas sem exagerar.
+ - 2015-08-20 Manos Negras Malbec 2012. Interessante, seu amargor é curioso.
+ - 2015-08-20 Bouza Tannat 2013. Extremamente equilibrado, acho que poucos vinhos que tomei se equiparam a esse na casa do Incrível (talvez o Azul).
+ - 2015-07-26 Manos Negras Pinot Noir 2013. É azedo com final amargo, um Pinot Noir mais forte, seco.
+ - 2015-07-14 CarinaE Hommage Malbed 2009. No começo bem legal como na vinícola; agora já não está assim, um aroma...
+ - 2015-06-25 Gratia Agere Res. Está mais azedo, forte, um tanto amargo. Em suma: agradabilíssimo em poucas quantidades.
+ - 2015-06-21 Gratia Agere Res. É um sabor agradável, de vinho jovem, mas ainda não muito maturado.
+ - 2015-06-16 Don Pascual Tannat 2012. Não está envinagrado como eu temia, mas ainda é meio alcoólico e puxa a língua; não deixa de ser interessante, mas parece bem básico para um "Reservado".
+ - 2015-06-12 Don Pascual Tannat 2012. Bem forte, talvez um pouco avinagrado já, então não vou arriscar dizer que é ruim, mas a garrafa talvez já esteja comprometida.
+ - 2015-05-01 Grey Glacier. Frutado mais amargo e um pouco azedo, agradável.
+ - 2015-04-30 JP Zeitão Red Castelão/Aragonez/Syrah 2013. Um vinho maduro e bem equilibrado. Continua ótimo custo-benefício.
+ - 2015-04-29 Teliani Valley. Continua agradável. O difícil é imaginar que uva é essa.
+ - 2015-04-29 Tarapaca Cabernet Sauvignon. Continua sendo um bom custo/benefício. Geléia de frutas sem ser tão enjoativo quanto um Malbec nacional depois de oxidar.
+ - 2015-04-26 Catamayor. Um pouco azedo, sabor intenso. Talvez tenha passado do ponto.
+ - 2015-04-19 Callia Alta Malbec. Bem forte e equilibrava bem com o Skirt Steak do Ouback.
+ - 2015-04-15 Oumsiyat Jaspe. Ainda razoável, frutado forte, quase amargo, pouco aroma.
+ - 2015-04-13 Santa Carolina Cabernet Sauvignon 2014. Equilibrado, bem leve, bom para massas.
+ - 2015-04-13 Oumsiyat Jaspe. Cheiroso, leve, mas nada de mais.
+ - 2015-03-23 Crios Cabernet Sauvignon 2004. O aroma é de madeira, a cor é de tijolo, e eu adorei a experiência de provar um vinho de 11 anos.
+ - 2015-03-04 Luna Benegas Cabernet Sauvignon 2011. É um Cabernet bem forte, mesmo. Difícil de tomar sozinho (até com queijo). Talvez mais difícil que alguns Malbecs.
+ - 2015-03-01 Luna Benegas Cabernet Sauvignon 2011. Cabernet frutado, fica bem alcoólico na saída.
+ - 2015-02-08 Portillo Malbec Salentein. A garrafa trazida da Argentina tem um gostinho mais especial por ser tão barata. Mas é o mesmo frutado, pouco alcoólico e tradicional malbec que combina com uma fraldinha suculenta.
+ - 2015-02-07 Concha y Toro Reservado Cabernet Sauvignon. Razoável; custo/benefício parece interessante no dia-a-dia.
+ - 2015-01-25 Nerderburgh Sul-Africano 2013. Bem azedo, um tanto forte demais em sua intensidade.
+ - 2015-01-24 Nerderburgh Sul-Africano 2013. Assim que abriu, vibrante, frutado. Depois de um tempo há um azedo bem presente.
+ - 2015-01-12 Mountain Hector Pinot Noir 2013. Já não lembra tanto assim uma vinícola. Parece mais maduro.
+ - 2015-01-01 Mountain Hector Pinot Noir 2013. Acabei de abrir já lembra uma vinícola.
+ - 2014-12-31 JP Zeitão Red Castelão/Aragonez/Syrah 2013. O pequeno tom amadeirado e sóbrio continua interessante.
+ - 2014-12-31 False Bay Pinotage 2012. Leve como sempre, anda meio enjoativo.
+ - 2014-12-31 Cepas Nobles Tannat 2009. Amadurecido, mas sem muita complexidade.
+ - 2014-12-31 Altavista Atemporal Pinot Noir/Chardonnay 2012. Doce, azedo, mas equilibrado. Muito frutado.
+ - 2014-12-28 Mountain Hector Pinot Noir 2013. O cheiro começou a lembrar aqueles dias visitando vinícolas, os tanques com vinho e o cheiro no ar.
+ - 2014-12-25 Mountain Hector Pinot Noir 2013. Bem frutado, azedo.
+ - 2014-12-24 Mountain Hector Sauvignon Blanc 2013. Sem muito aroma, corpo azedo, curioso.
+ - 2014-12-21 Gato Negro Cabernet. Fácil, frutado, pouco alcoólico.
+ - 2014-12-21 False Bay Pinotage 2012. Meio geleia, enjoativo. Um pouco quente. Não sei se compraria mais, tem que ver combina com que.
+ - 2014-12-21 Concha y Toro. Reserva Muito bom, verificar preço.
+ - 2014-12-21 Agostino Familia Blend 2008. Bom corpo, ameixa, frutado e levemente amadeirado, um pouco quente.
+ - 2014-12-20 Gottweiger Berg Zweigelt 2011. Alcoólico, já 2 meses aberto na geladeira, meio vinagroso.
