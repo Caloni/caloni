@@ -1,10 +1,10 @@
 ---
 date: "2011-11-24"
 link: "https://www.imdb.com/title/tt1778304"
-tags: [ "draft", "movies" ]
+tags: [ "reviews", "movies" ]
 title: "Atividade Paranormal 3"
 ---
-Usando ainda a velha fórmula de câmeras caseiras que registram eventos aparentemente sobrenaturais, essa quarta edição de Atividade Paranormal (houve um "spin-off" japonês: "A.P. ? Desafio em Tóquio"?) continua funcionando muito bem como terror ao gerar medo tanto pelas situações comuns pelos quais todos nós passamos (como a sensação de ter o cobertor puxado no meio da noite) quanto o caráter documental do filme, sem contar a tensão sempre crescente por estarmos, obviamente, aguardando por sustos. Este último ingrediente da série, aliás, chega a ser o tempero especial, pois os sustos geralmente são entregues aos poucos e de maneira caprichosa, o que acaba gerando mais tensão ainda para o grand finale.
+Usando ainda a velha fórmula de câmeras caseiras que registram eventos aparentemente sobrenaturais, essa é a quarta edição de Atividade Paranormal, já que houve um spin-off [japonês], em contrapartida ao que houve na série Velozes e Furiosos; algo como A.P. : Desafio em Tóquio. Continua funcionando muito bem como terror ao gerar medo tanto pelas situações comuns pelos quais todos nós passamos (como a sensação de ter o cobertor puxado no meio da noite) quanto o caráter documental do filme, sem contar a tensão sempre crescente por estarmos, obviamente, aguardando por sustos. Este último ingrediente da série, aliás, chega a ser o tempero especial, pois os sustos geralmente são entregues aos poucos e de maneira caprichosa, o que acaba gerando mais tensão ainda para o grand finale.
 
 A história dessa vez está contida em vídeos que foram gravados pelo pai de uma família no final dos anos 80 no bom e velho VHS. Ele registra festas de casamento, o que automaticamente explica o fato dele ter diversas câmeras. O motivo inicial das filmagens caseiras, porém, está na estranha poeira capturada em uma gravação acidental que deu a impressão para ele e seu irmão que se tratava da silhueta de uma pessoa. Disposto a capturar fenômenos parecidos, o marido começa a gravar as noites em seu quarto e no de suas duas filhas pequenas.
 
@@ -20,3 +20,4 @@ Dessa forma, é ponto positivo que a relação entre os membros da família most
 
 Apesar das novas invencionices o novo exemplar mais uma vez cai no conceito ao apresentar um plano final totalmente inspirado nos longas anteriores, o que praticamente revela seu desfecho. É digno de nota como, ao mesmo tempo que se beneficia do fruto de projetos experimentais anteriores como A Bruxa de Blair (até na hora de apresentar ruídos quase inaudíveis para aguçar a imaginação), ainda assim falta coragem artística (ou amarras comerciais?) para que seja apresentada uma conclusão tão corajosa quanto a dessa produção de 12 anos atrás.
 
+[japonês]: /atividade-paranormal-toquio
