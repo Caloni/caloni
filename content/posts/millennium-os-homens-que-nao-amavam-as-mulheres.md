@@ -1,7 +1,7 @@
 ---
 date: "2012-02-19"
 link: "https://www.imdb.com/title/tt1568346"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Millennium Os Homens que Não Amavam as Mulheres"
 ---
 O filme é um remake do sueco homônimo de dois anos atrás, sendo que ambos foram criados a partir da mesma fonte: o primeiro livro da trilogia escrita por Stieg Larsson que se tornou um best-seller póstumo (Larsson faleceu um ano antes da primeira publicação). Dadas essas condições, me parece que o projeto possui uma missão particularmente difícil: adaptar um livro complexo por conter uma trama cheio de detalhes que se debruça sobre a psique de seus personagens (e são muitos) e sair-se melhor do que o filme original (do contrário, para que fazer de novo?).
@@ -17,4 +17,3 @@ Da mesma forma, o comportamento meio desajeitado e vulnerável de Blowkvist vem 
 Porém, a história ainda é complexa, e é preciso entender que o filme precisa se alongar o suficiente para explicar o andamento das investigações e as mudanças que ocorrem no relacionamento dos personagens, e para isso temos a quase sempre evocativa trilha sonora, que cria pares de momentos para refletir e agir com uma maestria apenas igualável à fotografia límpida e cristalina de Jeff Cronenweth, mais um fator para não desgrudarmos os olhos da tela. Esses dois fatores aliados à uma história sempre fluida compensam a longa duração.
 
 Até mesmo a conclusão conturbada, por reunir diversos eventos em pouco espaço de tempo, não diminui a expectativa do filme como um todo, pois do momento em que vemos a brilhante introdução musical do início  que pode se tornar um elemento de união para dois outros futuros filmes que venham a fechar a trilogia literária  ao momento em que testemunhamos o desfecho dos personagens principais, não há dúvida que a atmosfera criada por Fincher e os diálogos inspirados de Zaillan (ou Stieg Larsson) conseguirão entreter novamente os espectadores mais exigentes que tentarem uma revisita.
-

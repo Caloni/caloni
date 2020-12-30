@@ -1,7 +1,7 @@
 ---
 date: "2012-01-31"
 link: "https://www.imdb.com/title/tt0052311"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "A Marca da Maldade"
 ---
 Orson Welles aparentemente sempre esteve preocupado com a questão da lei, da justiça e da verdade. Tudo isso a partir de uma grande questão: os que zelam pela ordem e segurança são realmente de confiança? Ou quem vigia os que nos vigiam? Se formos considerar que a questão do poder foi tratada exaustivamente em seu clássico Cidadão Kane, esse A Marca da Maldade consegue desviar um pouco da rota sem perder a essência.
@@ -11,4 +11,3 @@ O filme inicia com uma longa e famosa sequência na introdução, ainda durante 
 Mais uma vez com o uso de enquadramentos inusitados, sombras que passeiam com os personagens e o ângulo baixo, que evidencia, por exemplo, a ameaça de Quinlan sempre que ele aparece à tela, Welles não se intimida de soar graficamente expositivo em sua história, o que se por um lado funciona em muitas cenas, em outras lembra apenas um diretor brincando com técnicas de filmagem. A cena em que Vargas precisa usar um receptor de um microfone para uma "escuta ambulante" merece destaque, pois nota-se o preparo da construção da cena sem soar expositivo, mas orgânico.
 
 Com uma conclusão ainda impactante, de uma coisa não podemos reclamar de Welles: seu perfeccionismo quase obsessivo gera trabalhos constantes e muitas vezes originais, mesmo que vez ou outra repetitivos em sua própria obsessão.
-

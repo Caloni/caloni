@@ -1,7 +1,7 @@
 ---
 date: "2010-12-20"
 link: "https://www.imdb.com/title/tt1694539"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Sem Medo: As Canções De Luciano Ligabue"
 ---
 Esse é um documentário que, em um tom misto de atualidade e nostalgia, conta a história dos italianos pelos olhos de sua Constituição, criada após a Segunda Guerra, e como esses ideais foram (ou não) evoluindo na passagem das gerações.
@@ -17,4 +17,3 @@ E o que isso representa para nós, brasileiros? Antes que uma forma de enxergar 
 Da mesma forma, quando vemos as pessoas aplaudindo a prisão de um conhecido mafioso enxergamos o que ocorre pros lados de cá quando um assassino que emerge da mídia é finalmente preso em consequência de seus atos e, mais importante, da pressão pública.
 
 A semelhança acaba no momento que vemos que o engajamento político do cantor, que exibe texto da Constituição de seu país enquanto canta uma das músicas no Coliseu. Há muito tempo por aqui esse costume também era uma realidade. Perto da cena em que ele usa uma filmadora para gravar os fãs naquele momento é dito que o povo não liga pra mais nada a não ser "o grande irmão" (Big Brother Itália?).
-

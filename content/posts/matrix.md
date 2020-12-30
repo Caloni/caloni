@@ -1,14 +1,14 @@
 ---
 date: "2011-12-20"
 link: "https://www.imdb.com/title/tt0133093"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Matrix"
 ---
 Animes, quadrinhos, Kung-Fu, filosofia, tecnologia: Que filme conseguiria compor, de forma inquestionável, esses universos tão grandiosos quanto diferentes entre si?
 
-Dirigido pelos Irmãos Wachowski (V de Vingança, Speed Racer), o filme contém uma história com elementos nada criativos, mas que possuem algo em comum: faziam parte do universo da época (fazem?), onde computadores e internet começavam a dominar o mundo, e a diferença entre mundo real e mundo virtual começava a aparecer na vida das pessoas.
+Dirigido pelos Irmãos Wachowski (V de Vingança, [Speed Racer]), o filme contém uma história com elementos nada criativos, mas que possuem algo em comum: faziam parte do universo da época (fazem?), onde computadores e internet começavam a dominar o mundo, e a diferença entre mundo real e mundo virtual começava a aparecer na vida das pessoas.
 
-Se fosse exibido hoje, ainda seria visto como a identificação da nossa era. Já conhecido e aglutinado ao universo de onde as ideias vieram, hoje é visto como um clássico, uma visão que estava à frente do seu tempo, e nos acompanhou até hoje. Seria uma nostalgia dos tempos ainda ingênuos, quando ainda estávamos engatinhando no conceito de vida virtual.
+Se fosse exibido hoje (2011) ainda seria visto como a identificação da nossa era. Já conhecido e aglutinado ao universo de onde as ideias vieram, hoje é visto como um clássico, uma visão que estava à frente do seu tempo, e nos acompanhou até hoje. Seria uma nostalgia dos tempos ainda ingênuos, quando ainda estávamos engatinhando no conceito de vida virtual.
 
 E se parece exagero, uma prova maior de sua influência são as referências internas do filme, que tentam homenagear os universos de onde foi inspirado, e que acabam por fim referenciando o próprio universo criado, misturando-se com a evolução dos mundos onde foi inspirado.
 
@@ -18,12 +18,4 @@ Antigamente, a fotografia verde representava dentro da matrix, enquanto azul rep
 
 Cada vez que entramos a fundo, hoje, na análise de Matrix, são tantas as analogias nas telas com o mundo real (e virtual) que chega a ser uma paródia ou referência do mesmo universo que homenageia. A forma como é demonstrado como o conhecimento instantâneo é adquirido pelo cérebro para o uso prático no mundo virtual, ou a forma como são carregados novos programas, de maneira instantânea.
 
-## A questão trans (2020-12-06)
-
-Os irmãos Wachowski hoje são irmãs. Ambos passaram por cirurgias de mudança de sexo. Recentemente, durante entrevistas sobre a produção de Matrix 4, foi comentado por uma delas que o primeiro Matrix era uma alegoria sobre transexualidade.
-
-De fato. Ao reassistir com essa visão é possível observar a dedicação dos diretores em mostrar o esforço sobrehumano do resgate de Neo. Antes de ser abduzido pela nave comandada por Morpheus ele era um ser do underground sem nenhuma marca de injeção de drogas ou substâncias alteradoras de humor. Logo após isso vemos o lento e doloroso processo em transformá-lo em um ser humano funcional fora da realidade virtual mantida pelas máquinas. Ele possui vários orifícios em torno do corpo, nos membros e tórax, sendo o principal deles, o mais sensível, na nuca, em uma conexão direto com o cérebro.
-
-A analogia é forte demais com os transexuais. Dispostos a ir em busca da verdade eles submetem seu corpo a todo tipo de manipulação e humilhação. O resultado é alguém que aprendeu sobre a realidade em um outro nível, mas que nunca mais poderá se tornar um ser humano completo. Sua existência é ser um mutilado vivendo no esgoto.
-
-Claro que Matrix permite fazer analogias com várias filosofias diferentes, pois o conceito, desde A Caverna de Platão, é muito vasta. Peço apenas que note o quão a produção é dedicada a esmiuçar o processo de transformação de Neo. É um foco que havia passado despercebido por muita gente porque ninguém imaginou a reviravolta na vida das agora irmãs diretoras, nem sabe a desgraça que é viver como um ser mutilado da nossa realidade. É uma dor nunca antes mostrada em uma ficção científica com tanto afinco.
+[Speed Racer]: /speed-racer

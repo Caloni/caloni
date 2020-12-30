@@ -1,10 +1,10 @@
 ---
 date: "2011-12-10"
 link: "https://www.imdb.com/title/tt0103644"
-tags: [ "draft", "movies" ]
+tags: [ "reviews", "movies" ]
 title: "Aliens 3"
 ---
-Oito anos após "Aliens, o Retorno" (James Cameron), continuação do original "Alien, o Oitavo Passageiro" (Ridley Scott), o Cinema mais uma vez revisita esse universo, dessa vez pela visão do ainda inexperiente David Fincher (Seven, Clube da Luta, A Rede Social), que não conseguiu enriquecê-lo à altura de seus antecessores, mas cria um drama que no mínimo aumenta um pouco nossa percepção a respeito da criatura.
+Oito anos após [Aliens, o Resgate] (James Cameron), continuação do [filme original de Ridley Scott], o Cinema mais uma vez revisita esse universo, dessa vez pela visão do ainda inexperiente David Fincher (Seven, [Clube da Luta], [A Rede Social]), que não conseguiu enriquecê-lo à altura de seus antecessores, mas cria um drama que no mínimo aumenta um pouco nossa percepção a respeito da criatura.
 
 Aplicando um ritmo mais reflexivo a maior parte do tempo e com cara de reboot já nascido morto, o filme inicia na sequência do anterior, quando a nave usada para escape identifica um incêndio (que vemos ter sido causado por um "facehugger") e inicia um procedimento de aterrisagem no planeta mais próximo. O lugar, porém, revela ser uma prisão de segurança máxima, onde Ripley (Sigourney Weaver), além de ser a única sobrevivente, é a única mulher existente, o que acaba gerando um certo desconforto aos seus habitantes.
 
@@ -18,3 +18,7 @@ Para "medir" a falta de ritmo e história no projeto, basta sentir a reação do
 
 Enfim, um filme mediano que pode ter seus méritos próprios, mas que, por aqui se tratar de mais um da série Alien, fica muito aquém dos trabalhos anteriores sobre esse universo tão rico e ainda não totalmente explorado.
 
+[A Rede Social]: /a-rede-social
+[Aliens, o Retorno]: /aliens-o-resgate
+[Clube da Luta]: /clube-da-luta
+[filme original de Ridley Scott]: /alien-o-oitavo-passageiro

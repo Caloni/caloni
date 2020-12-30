@@ -1,7 +1,7 @@
 ---
 date: "2011-12-04"
 link: "https://www.imdb.com/title/tt0112471"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Antes do Amanhecer"
 ---
 Os personagens de Jesse e Celine são adoráveis desde o começo, e é agradável vê-los conversando sobre temas tão universais e constantemente abordados por casais que nós mesmos formamos na vida. O mais interessante, porém, é a forma natural e (aparentemente) despropositada que o roteiro e direção de Richard Linklater nos apresenta seus personagens, criando mais ou menos um pacto com o espectador, que aceita aquela situação em prol da poesia e da mágica daqueles momentos.
@@ -11,4 +11,3 @@ Contudo, é preciso notar que a história nunca tira o pé do chão, e tanto os 
 E por falar em tempo, o ato mais notável da direção/montagem é fornecer indícios de passagem temporal que nos permitam contar o ritmo do dia de maneira inquestionável, o que, mais uma vez, aumenta o realismo (pois fornece pistas confiáveis para o espectador).
 
 Não poupando-nos do realismo nem em seu doce final, Linklater ainda flerta com uma possível continuação, não sem fechar o arco aberto nesse filme, e nem fechando essa possibilidade por completo.
-
