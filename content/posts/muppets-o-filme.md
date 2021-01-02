@@ -2,7 +2,7 @@
 date: "2012-02-15"
 link: "https://www.imdb.com/title/tt0079588"
 tags: [ "movies" ]
-title: "Muppets O Filme"
+title: "Muppets: O Filme"
 ---
 O potencial dos bonecos é evidente no filme, pois todos possuem personalidades marcantes que geram diversas situações ingenuamente engraçadas. E é de modo ingênuo que a história inicia, e a forma de narrar a vida dos irmãos, em que um deles é um boneco que portanto nunca cresce, já denota de modo inconsciente que a interação entre humanos e muppets é algo completamente comum naquele universo fabuloso.
 
