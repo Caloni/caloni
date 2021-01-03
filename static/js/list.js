@@ -7,7 +7,7 @@ function ApplyFilter(filter)
     {
         console.log("search query:", filter);
 
-        $.each( $('.sortable tr'), function() 
+        $.each( $('.sortable tr:visible'), function() 
         {
             var content = $.trim( $(this).text().replace(/[\t\n]+/g,' ').replace(/  +/g, ' ') );
             var result = content.match(new RegExp(filter, "i"));
@@ -28,6 +28,35 @@ function ApplyFilter(filter)
     var showing = $('.sortable tr:visible').length;
     randomPostIndex = Math.floor(Math.random() * showing);
     randomPost = $('.sortable tr:visible').eq(randomPostIndex).find('a').prop('href');
+    $('#filter').val('');
+    $('#filter').attr('placeholder', showing + ' results');
+}
+
+function ApplyNotFilter(filter)
+{
+    if( filter )
+    {
+        console.log("search query:", filter);
+
+        $.each( $('.sortable tr:visible'), function() 
+        {
+            var content = $.trim( $(this).text().replace(/[\t\n]+/g,' ').replace(/  +/g, ' ') );
+            var result = content.match(new RegExp(filter, "i"));
+
+            if( result )
+            {
+                $(this).hide();
+            }
+
+        });
+    }
+    else { $.each( $('.sortable tr'), function() { $(this).show(); }); }
+
+    var showing = $('.sortable tr:visible').length;
+    randomPostIndex = Math.floor(Math.random() * showing);
+    randomPost = $('.sortable tr:visible').eq(randomPostIndex).find('a').prop('href');
+    $('#filter').val('');
+    $('#filter').attr('placeholder', showing + ' results');
 }
 
 var QueryString = function () {
