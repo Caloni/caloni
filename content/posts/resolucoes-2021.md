@@ -16,6 +16,6 @@ Vejamos os resultados.
 
 ## Assistir um DVD por semana
 
-Acredito que tenha cumprido essa meta em sua maioria.
+Acredito que tenha cumprido essa meta em sua maioria. Alterei o leiaute das lists do blog para conseguir filtrar isso e ele me informa que dos filmes que vi que não foram em cabines de imprensa.
 
 [post que vi]: http://dqsoft.blogspot.com/2021/01/resolucoes-de-ano-novo-edicao-2021.html
