@@ -22,7 +22,7 @@ theme = "blog"
     googleAnalytics = "UA-50557403-2"
     namespace = "caloni"
     author = "Wanderley Caloni"
-    showFilterAfter = 20
+    showFilterAfter = 10
 
 [params.home]
     postsCount = 7
