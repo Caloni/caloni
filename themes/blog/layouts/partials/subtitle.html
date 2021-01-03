@@ -1,20 +1,16 @@
 <p class="subtitle">
 {{ if .Date.After (time "2001-01-01")}}
-  {{ if in .Params.tags "draft" }}
-    Este é um rascunho e está sujeito a mudanças<a href="{{ .Site.Params.contentGit }}/blob/master/content/posts/{{ .File.LogicalName }}">.</a>
-  {{ else }}
-    {{ $.Site.Params.author }},
-    {{ range $.Site.Params.external }}
-      {{ if in $.Params.tags .tag }}
-        {{ if .searchLink }}
-          escrito para <a href="{{ .searchLink }}{{ $.Params.title }}">{{ .name }}</a>,
-        {{ end }}
-        {{ if .link }}
-          escrito para <a href="{{ .link }}">{{ .name }}</a>,
-        {{ end }}
+  {{ $.Site.Params.author }},
+  {{ range $.Site.Params.external }}
+    {{ if in $.Params.tags .tag }}
+      {{ if .searchLink }}
+        escrito para <a href="{{ .searchLink }}{{ $.Params.title }}">{{ .name }}</a>,
+      {{ end }}
+      {{ if .link }}
+        escrito para <a href="{{ .link }}">{{ .name }}</a>,
       {{ end }}
     {{ end }}
-    {{ .Date.Format "2006-01-02" }}<a href="{{ .Site.Params.contentGit }}/blob/master/content/posts/{{ .File.LogicalName }}">.</a>
   {{ end }}
+  {{ .Date.Format "2006-01-02" }}<a href="{{ .Site.Params.contentGit }}/blob/master/content/posts/{{ .File.LogicalName }}">.</a>
 {{ end }}
 </p>

@@ -10,13 +10,13 @@
     {{ range .Site.RegularPages.ByDate }}
       <h3 class="title" style="page-break-before: always" id="{{ .File.ContentBaseName }}">{{ if .Title }}{{ .Title }}{{ else }}{{ .File.TranslationBaseName }}{{ end }}</h3>
       {{ if .Date.After (time "2001-01-01")}}
-        {{ if in .Params.tags "draft" }}
-          <i>Este é um rascunho e está sujeito a mudanças.</i>
-        {{ else }}
-          <i>{{ $.Site.Params.author }}, {{ .Date.Format "2006-01-02" }}</i>
-        {{ end }}
+        <i>{{ $.Site.Params.author }}, {{ .Date.Format "2006-01-02" }}</i>
       {{ end }}
       {{ .Content }}
+      {{ if .Date.After (time "2001-01-01")}}
+          <span>{{ if .Params.categories }} {{ range .Params.categories }} <a href="#categories-{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
+          {{ if .Params.tags }} {{ range .Params.tags }} <a href="#tags-{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}</span>
+      {{ end }}
     {{ end }}
 
     <h2 id="toc" style="page-break-before: always;">Index</h2>
