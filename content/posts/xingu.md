@@ -4,7 +4,7 @@ link: "https://www.imdb.com/title/tt2142055"
 tags: [ "draft", "movies" ]
 title: "Xingu"
 ---
-É um sintoma relevante do Cinema no Brasil que os temas mais polêmicos  salvo jovens clássicos como Cidade de Deus e Tropa de Elite  sofram uma obliteração criativa. Xingu, novo trabalho de Cao Hamburguer na direção (O Ano em Que Meus Pais Saíram de Férias), com produção de Fernando Meirelles (que dispensa apresentações), não consegue fugir desse estigma completamente, embora tenha seus bons momentos.
+É um sintoma relevante do Cinema no Brasil que os temas mais polêmicos, salvo jovens clássicos como Cidade de Deus e Tropa de Elite, sofram uma obliteração criativa. Xingu, novo trabalho de Cao Hamburguer na direção (O Ano em Que Meus Pais Saíram de Férias), com produção de Fernando Meirelles (que dispensa apresentações), não consegue fugir desse estigma completamente, embora tenha seus bons momentos.
 
 Baseado nas experiências que três irmãos passaram durante uma expedição de reconhecimento de áreas inabitadas no Brasil o filme busca traçar uma relação entre os históricos Villas-Bôas e suas versões fictícias. Com narração em off de um dos irmãos o filme segue um rumo didático e burocrático, salvo os empolgantes momentos de ação ampliados pela ótima trilha sonora. Os pensamentos narrativos depois de um certo momento nem mais importam, pois o impacto gerado pelo encontro entre os índios e a nossa civilização dispensa palavras (em que língua deveriam elas ser ditas?).
 
