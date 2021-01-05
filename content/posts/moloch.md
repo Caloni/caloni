@@ -1,10 +1,10 @@
 ---
 date: "2012-04-20"
 link: "https://www.imdb.com/title/tt0199777"
-tags: [ "draft", "movies" ]
-title: "Molokh"
+tags: [ "movies" ]
+title: "Moloch"
 ---
-Aleksandr Sokurov tem um estilo próprio para contar histórias. Quase sempre apostando na imersão do espectador pelos longos quadros e movimentos exóticos de seus personagens, muitas vezes a situação é propícia e gera grandes trabalhos (como Mãe e Filho), e em outras, como este Moloch, fica aquém do impressionante, mas mesmo assim é uma imersão que vale a pena ser vivida.
+Aleksandr Sokurov tem um estilo próprio para contar histórias. Quase sempre apostando na imersão do espectador pelos longos quadros e movimentos exóticos de seus personagens, muitas vezes a situação é propícia e gera grandes trabalhos (como [Mãe e Filho]), e em outras, como este Moloch, fica aquém do impressionante, mas mesmo assim é uma imersão que vale a pena ser vivida.
 
 Estamos diante de uma história que contém figuras históricas do nazismo que passam um fim-de-semana isolados em um castelo em cima de um monte onde nada pode-se ver abaixo a não ser uma névoa impenetrável. Nesse cenário podemos notar tanto a liberdade explícita do ambiente (como pode ser visto na primeira tomada, quando uma mulher desfila nua em torno das paredes externas do castelo) quanto a liberdade implícita contida na posição privilegiada daquelas figuras, no auge da Segunda Guerra Mundial. Vistos sempre em torno da névoa da região ou em aposentos quase sempre grandes demais e mal iluminados, representando com maestria tanto a privacidade quanto o aspecto obscuro de suas personalidades em torno da grandiosidade de seus atos (não aqui, historicamente).
 
@@ -16,3 +16,4 @@ Hitler está, mais do que nunca, fora do seu eixo. O trabalho de Leonid Mozgovoy
 
 Porém, muito diferente do que vemos no brilhante "A Queda!", aqui há uma introspecção que ao mesmo tempo que nos revela muito, ainda abre um leque ainda maior de nuances, principalmente na relação entre Hitler e Goebbels e as respectivas esposas Eva Braun e Magda Goebbels. Talvez isso alerte para o fato que, não importa o quanto estudemos sobre essas figuras históricas, elas são e continuarão sendo imensos poços de mistério, e nunca conseguiremos entendê-los, mesmo que conseguíssemos observá-los na privacidade de seus lares.
 
+[Mãe e Filho]: /mae-e-filho

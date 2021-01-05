@@ -1,10 +1,10 @@
 ---
 date: "2012-04-09"
 link: "https://www.imdb.com/title/tt1201167"
-tags: [ "draft", "movies" ]
-title: "Tá Rindo de Que?"
+tags: [ "movies", "reviews" ]
+title: "Tá Rindo do Que?"
 ---
-Funny People, aqui no Brasil conhecido como "Tá Rindo de Quê?" e lançado diretamente para as locadoras por não ser um filme típico para o grande, mas limitado, público de Adam Sandler, é uma mescla entre drama e comédia, que está presente exatamente por ser esta uma história em torno de um comediante de sucesso que, como muitos no ramo, iniciou sua carreira na comédia de stand-up (entre eles, Jim Carrey, Robin Williams e Eddie Murphy).
+Funny People, aqui no Brasil conhecido como "Tá Rindo do Que?" e lançado diretamente para as locadoras por não ser um filme típico para o grande, mas limitado, público de Adam Sandler, é uma mescla entre drama e comédia, que está presente exatamente por ser esta uma história em torno de um comediante de sucesso que, como muitos no ramo, iniciou sua carreira na comédia de stand-up (entre eles, Jim Carrey, Robin Williams e Eddie Murphy).
 
 George Simmons é aclamado pelo público e faz sucesso com seus filmes de humor duvidoso (Adam Sandler, quem poderia ser). Quando ele se vê diante de um problema de saúde que pode lhe dar apenas mais algum tempo de vida ele decide refrescar seu repertório de piadas e voltar a ter mais contato com o público de stand-up, como se quisesse um contato mais íntimo com seus admiradores e ao mesmo tempo anunciasse para todos de forma velada seu fim mais ou menos próximo.
 
