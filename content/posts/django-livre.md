@@ -4,7 +4,7 @@ link: "https://www.imdb.com/title/tt1853728"
 tags: [ "draft", "movies" ]
 title: "Django Livre"
 ---
-Django Livre é divertido moderadamente e possui um conteúdo pseudo-histórico de impacto que faz jus aos bons faroestes. Quentin Tarantino poderia ter futuramente  caso conseguisse controlar seu gigantesco ego  a mesma habilidade e maestria na direção que tornou Sergio Leone conhecido para sempre na história do Cinema.
+Django Livre é divertido moderadamente e possui um conteúdo pseudo-histórico de impacto que faz jus aos bons faroestes. Quentin Tarantino poderia ter futuramente, caso conseguisse controlar seu gigantesco ego, a mesma habilidade e maestria na direção que tornou Sergio Leone conhecido para sempre na história do Cinema.
 
 Poderia, mas não é dessa vez.
 

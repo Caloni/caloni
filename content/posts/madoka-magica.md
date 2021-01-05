@@ -10,7 +10,7 @@ Madoka Mágica é um trabalho caricatual que segue à risca a cartilha de heroin
 
 E há vários momentos que merecem ser congelados para nossa apreciação.
 
-A história gira em torno de Madoka Kaname, uma garota comum que encontra um bicho estranho e mágico que revela que existem garotas mágicas que lutam contra bruxas e salvam pessoas de suicídios. Na verdade, revela mais: ela e sua amiga, Sayaka Miki, podem se tornar garotas mágicas também, e a recompensa por este feito heróico é terem um desejo  qualquer desejo  realizado pelo tal bicho mágico.
+A história gira em torno de Madoka Kaname, uma garota comum que encontra um bicho estranho e mágico que revela que existem garotas mágicas que lutam contra bruxas e salvam pessoas de suicídios. Na verdade, revela mais: ela e sua amiga, Sayaka Miki, podem se tornar garotas mágicas também, e a recompensa por este feito heróico é terem um desejo, qualquer desejo, realizado pelo tal bicho mágico.
 
 O curioso da série é que ela não tem pressa em realizar o que 90% das produções semelhantes ocidentais fariam: um grupo de garotas lutando contra o mal a la Meninas Superpoderosas. No fundo, o "mal" aqui não está materializado e nem tem desejo de fúria. Ele é um conceito, e relativo, dependendo do ponto de vista. Sequer há emoções em jogo. Na verdade, é mais profundo que isso: a emoção aqui é usada de uma maneira completamente diferente. Uma Meninas Superpoderosas para gente grande.
 

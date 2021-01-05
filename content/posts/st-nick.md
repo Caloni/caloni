@@ -1,8 +1,8 @@
 ---
 date: "2012-05-04"
-link: "https://www.imdb.com/title/tt2479066"
-tags: [ "draft", "movies" ]
-title: "The Real St. Nick"
+link: "https://www.imdb.com/title/tt1124058"
+tags: [ "movies" ]
+title: "St. Nick"
 ---
 Quando o filme se inicia, e não sabemos exatamente quem são aquelas crianças, é muito fácil confundi-las com uma situação comum que vemos todos os dias: crianças brincando de aventureiros. Porém, conforme adentramos no mundo lúdico, mas cruel, de suas realidades, a consciência pesa demais para um filme supostamente despretensioso. Mais interessante, porém, é constatar que as pessoas que as encontram imaginam o mesmo que nós imaginávamos minutos antes, o que não deixa de ser irônico e trágico, pois agora vemos que muito da vida passa na nossa frente sem sequer nos darmos conta. A nossa realidade, andando com pressa pela calçada, não enxerga muito além dela própria.
 
@@ -13,4 +13,3 @@ A menina, em seus gestos e andar tímidos entre as crianças de uma festa de ani
 Cortes certeiros e um ritmo mais que correto dão o tom milimetricamente planejado com uma embalagem indie, mas sem soar clichê/oportunista. É o cinema puro e singelo construído em torno de duas criaturas que aos poucos se tornam adoráveis e melancólicas. Seus motivos não nos interessam, mas o fato de estarem lá, sim. Compartilhamos com elas esse pensamento maldoso de qualquer adulto medroso: como será o amanhã? Haverá mais marshmallows?
 
 Traçando um pouco das influências que Terrence Malick teve para criar sua Árvore da Vida, a fotografia naturalista e os movimentos involuntários ao sabor do vento criam uma poesia involuntária incapaz de ser atingida por qualquer filtro fotográfico qualquer, embora as paisagens do horizonte sejam de encher o coração. É a poesia da vida real, da dura realidade de duas crianças que, ainda que passem seus sufocos, ainda podem sonhar.
-

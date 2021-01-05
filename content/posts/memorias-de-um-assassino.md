@@ -10,5 +10,5 @@ Infelizmente, muito do que se gostaria de saber sobre esses dois personagens fic
 
 O que nos sobra é a investigação em si, que se aproveita sim da psique dos dois policiais, mas consegue nossa atenção por mais de duas horas de uma busca frustrada exatamente pela criação de um ritmo que oscila de maneira competente entre o humor e o suspense. Acompanhamos cada pista e cada incidente como se fizéssemos parte daquele grupo, e perdemos e reganhamos as esperanças exatamente como eles.
 
-Mantendo a coerência narrativa até o fim, um ato se extrema honestidade com o espectador  ainda que muitos possam não gostar da ideia , Memórias de um Assassino inverte nossas expectativas a todo o momento, misturando realismo e fantasia frequentemente. O final pertence ao campo do realismo, o que não o torna melhor nem pior que outros filmes do gênero, mas sim extremamente honesto.
+Mantendo a coerência narrativa até o fim, um ato se extrema honestidade com o espectador, ainda que muitos possam não gostar da ideia , Memórias de um Assassino inverte nossas expectativas a todo o momento, misturando realismo e fantasia frequentemente. O final pertence ao campo do realismo, o que não o torna melhor nem pior que outros filmes do gênero, mas sim extremamente honesto.
 

@@ -6,7 +6,7 @@ title: "Oz Mágico e Poderoso"
 ---
 A visão em preto e branco em uma tela quadrada de Kansas nos revela um lugar com pouco lugar para imaginação. Isso não impede que Oscar (James Franco), um mágico em um circo itinerante, apresente seus espetáculos como shows inesquecíveis para o público. Isso gera uma crença descomunal do povo, que acha que o homem é capaz de realizar milagres. Por não pertencer a esse mundo, sua fuga o leva literalmente a outro: um fabuloso, colorido e dentro de uma ampla tela. É assim que o diretor Sam Raimi (trilogia Homem Aranha) quer que vejamos Oz, uma terra verdadeiramente mágica.
 
-O espetáculo visual que é Oz não impede que sejam feitas referências no modo de construir o encantamento visual. Embora não precisasse, os cenários ao horizonte revelam o artifício de Matte Painting  pinturas no fundo do estúdio  usado no filme original. De certa forma, os recursos digitais mais aproximam-se do burlesco e de Mary Poppins.
+O espetáculo visual que é Oz não impede que sejam feitas referências no modo de construir o encantamento visual. Embora não precisasse, os cenários ao horizonte revelam o artifício de Matte Painting, pinturas no fundo do estúdio, usado no filme original. De certa forma, os recursos digitais mais aproximam-se do burlesco e de Mary Poppins.
 
 James Franco não é um grande ator, mas sua simpatia combina com o personagem de Oz, que é um ser inventivo e carismático. O mesmo não se pode dizer das mulheres que o rodeiam, que fazem um esforço descomunal para parecerem inocentes (ou não). Mesmo Michelle Williams, inspiradora na primeira parte da história, é forçada pelo roteiro a se tornar uma mera coadjuvante feminina no melhor estilo Disney.
 

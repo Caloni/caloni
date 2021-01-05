@@ -8,7 +8,7 @@ E aqui vamos nós para mais um filme bonitinho, emocionante e formatado nos últ
 
 Aqui se trata de um aprendiz de feiticeiro que procura pelo primeiro descendente de Merlin que irá ter poderes para derrotar a poderosa bruxa Morgana, atualmente presa em uma espécie de boneca russa, mas que assim que libertada, e não for impedida, poderá destruir o mundo como o conhecemos.
 
-Soou piegas? Com certeza. Além disso, temos um romancezinho de infância do protagonista que é o aprendiz de feiticeiro do título. Fora isso, o filme diverte na dose certa, com um bom ritmo de ação temperado com efeitos mágicos que enriquecem a narrativa  aliás, como deveria ser.
+Soou piegas? Com certeza. Além disso, temos um romancezinho de infância do protagonista que é o aprendiz de feiticeiro do título. Fora isso, o filme diverte na dose certa, com um bom ritmo de ação temperado com efeitos mágicos que enriquecem a narrativa, aliás, como deveria ser.
 
 Até o início da "aventura", enquanto Dave tenta desesperadamente alcançar o papel em que está escrito se a menina citada quer ser sua amiga ou namorada (eu disse que era piegas), uma sequência simples e eficiente, tudo parece fluir para mais uma aventura Disney.
 

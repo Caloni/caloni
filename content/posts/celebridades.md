@@ -10,5 +10,5 @@ Não há muito foco nos personagens, mas muito mais na atmosfera de Hollywood qu
 
 O filme começa com a separação entre Lee e Robin. Robin está inconsolada, e parece que nunca voltará à tona. Já Lee encara tudo como um processo natural, e, apesar de romântico, está sempre à cata de celebridades para alimentar o seu ego massacrado pelo fato de saber ser ele um escritor medíocre fadado previamente ao fracasso.A partir daí o espectador precisa se atentar às nuances por trás dos acontecimentos. Nada é ao acaso, mas soa como se pudesse ser.
 
-Com participações inspiradas  com destaque na sequência com Di Caprio  Allen conduz sua orquestra desafinada através de diálogos não particularmente brilhantes, mas que talvez por isso questionem tanto o papel das tais celebridades retratadas em preto e branco. Serão elas de fato o reflexo da sociedade? Como todo bom filmes de Allen, a questão está sempre em aberto.
+Com participações inspiradas, com destaque na sequência com Di Caprio, Allen conduz sua orquestra desafinada através de diálogos não particularmente brilhantes, mas que talvez por isso questionem tanto o papel das tais celebridades retratadas em preto e branco. Serão elas de fato o reflexo da sociedade? Como todo bom filmes de Allen, a questão está sempre em aberto.
 

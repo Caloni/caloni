@@ -4,7 +4,7 @@ link: "https://www.imdb.com/title/tt0095444"
 tags: [ "draft", "movies" ]
 title: "Palhaços Assassinos"
 ---
-Os irmãos Chiodo  hoje praticamente desconhecidos mas responsáveis por efeitos em filmes insólitos como Um Duende em Nova York, Team America e A Hora das Criaturas  fizeram este trabalho mais em um formato laboratório de ideias bizarras do que algo que de fato pudesse conter um enredo. O igualmente bizarro é que o resultado não é tão mal assim, ou, como alguns preferem dizer, é tão ruim que acaba ficando bom.
+Os irmãos Chiodo, hoje praticamente desconhecidos mas responsáveis por efeitos em filmes insólitos como Um Duende em Nova York, Team America e A Hora das Criaturas, fizeram este trabalho mais em um formato laboratório de ideias bizarras do que algo que de fato pudesse conter um enredo. O igualmente bizarro é que o resultado não é tão mal assim, ou, como alguns preferem dizer, é tão ruim que acaba ficando bom.
 
 Fica até difícil encontrar alguma cena de destaque que não revele as absurdas ideias do roteiro dos irmãos. A história toda começa quando uma estrela cadente cai em uma pequena cidadezinha. Na verdade o que "cai" é uma nave espacial no formato de circo que contém grandes palhaços com diversas armas de brinquedo que servem para transformar os seres humanos em gigantescos algodões-doces. Teoricamente o objetivo dos alienígenas de nariz vermelho é estocar uma quantidade grande desses humanos para mais tarde comê-los. Para isso invadem a cidade com um triciclo, tortas e um carro de palhaços (que, pra variar, está cheio deles).
 
