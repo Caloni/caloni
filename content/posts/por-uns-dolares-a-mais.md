@@ -10,5 +10,4 @@ Agora existem prisões, onde os que ainda não foram mortos aguardam. Um deles, 
 
 As viagens aumentam, e não ficamos focados apenas em uma cidade, e embora El Paso seja o cenário principal há muito que acontece em seus arredores. Isso, além de dar um espaço maior para cavalgadas, torna o destino de nossos personagens mais dinâmico e imprevisível.
 
-Porém, fora tudo que o filme nos proporciona, sua maior contribuição é ser o primeiro passo para que cheguemos a Três Homens em Conflito, a obra máxima da trilogia, onde o Cinema atinge seu ápice, sustentado por uma guinada épica no conceito de faroeste iniciado por Sergio Leone em três filmes.
-
+Porém, fora tudo que o filme nos proporciona, sua maior contribuição é ser o primeiro passo para que cheguemos a Três Homens em Conflito, a obra máxima da trilogia, onde o Cinema atinge seu ápice, sustentado por uma guinada épica no conceito de faroeste.

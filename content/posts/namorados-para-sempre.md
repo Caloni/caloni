@@ -15,4 +15,3 @@ Aliás, respeito é a palavra que resume bem a única postura de Cindy para com 
 Contudo, o tratamento realista do filme vai aos poucos revelando-nos que as coisas na "vida real" não são tão simples, e que apesar da força de vontade das pessoas, a realidade dos fatos acaba massacrando-as sem dó. É um rolo compressor, um sentimento visceral, que passa por cima das nossas maiores esperanças, construídas justamente pela belíssima entrega que, assim como visto em Antes do Pôr-do-Sol, Gosling e Williams fazem a seus trágicos personagens.
 
 PS: Mais uma vez as distribuidoras brasileiras pisam feio na bola ao nomear esse título com o horrível, incompreensível e oportunista Namorados Para Sempre, um drama intimista que deve ter enganado muitos casais no dias dos namorados daquele ano.
-

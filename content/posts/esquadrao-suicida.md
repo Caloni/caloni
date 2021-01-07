@@ -10,7 +10,7 @@ Mas estou sendo um pouco injusto sobre o "ver". Afinal de contas, ver os persona
 
 Tanto não dá a mínima que ele se concentra o tempo todo em explicar uma trama sem sentido desde o começo, justificando o que não tem explicação. Por outro lado, ele utiliza as explicações para reinserir personagens vistos no ultimo filme do universo DC, como Batman e Flash, de uma maneira desleixada, como se estivesse pagando uma dívida eterna para os fãs (ou plantando verde para colher maduro nas próximas produções).
 
-Mas, afinal de contas, um filme desmiolado com anti-heróis idem deveria ser pelo menos divertido. Robbie concorda comigo, mas aparentemente é a única. O resto segue um roteiro turístico sem sequer apreciar a paisagem (que no caso é uma Nova Iorque mais uma vez aos pedaços). Robbie e Smith ao menos olham para a janelinha do ônibus, e mesmo que Smith viva mais uma vez o pai amargurado, pelo menos convence.
+Mas, afinal de contas, um filme desmiolado com anti-heróis idem deveria ser pelo menos divertido. Robbie concorda comigo, mas aparentemente é a única. O resto segue um roteiro turístico sem sequer apreciar a paisagem (que no caso é uma Nova York mais uma vez aos pedaços). Robbie e Smith ao menos olham para a janelinha do ônibus, e mesmo que Smith viva mais uma vez o pai amargurado, pelo menos convence.
 
 Já os outros personagens, que diferem em praticamente nada (talvez o Crocodilo... mas só um pouco), estão tão dispersos e tão anestesiados que parecem não estar enxergando de fato a história, mas inúmeros fundos verdes com quem precisam interagir para ganhar seu cachê. Há muitas explicações de por que essas pessoas são a elite do mal, mas muitos poucos motivos no filme para realmente acreditar nisso.
 

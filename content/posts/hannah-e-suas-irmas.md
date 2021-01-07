@@ -8,7 +8,7 @@ Terminar um filme do Woody Allen como Hannah e Suas Irmãs é voltar a ter esper
 
 A história é mais uma de traição em família, mas dessa vez com mais personagens e uma complexidade que sempre nos mantém entretidos em observar como essas bolas conseguem ficar no ar por tanto tempo e pousarem nas mãos do roteirista de maneira tão graciosa no momento certo.
 
-Como o título já sugere, esta é a história que fala sobre Hannah e suas três irmãs, todas bem diferentes entre si e ainda assim com uma espécie de conexão de quem sabe que são irmãs. Seus pais eram lindos, do show business e hoje se limitam a gritar um com o outro e realizarem um show privado com toda família no dia de Ação de Graças em frente ao piano. Você de imediato acredita que esta é uma família upper side de Nova Iorque e eu acredito que eles moram lá mesmo.
+Como o título já sugere, esta é a história que fala sobre Hannah e suas três irmãs, todas bem diferentes entre si e ainda assim com uma espécie de conexão de quem sabe que são irmãs. Seus pais eram lindos, do show business e hoje se limitam a gritar um com o outro e realizarem um show privado com toda família no dia de Ação de Graças em frente ao piano. Você de imediato acredita que esta é uma família upper side de Nova York e eu acredito que eles moram lá mesmo.
 
 O marido de Hannah tem uma queda pela cunhada, Lee, que vive com seu ex-professor da faculdade, que quando começa a falar sobre o declínio da sociedade contemporânea fica claro como ambos estão dessincronizados da vida. Já Elliot, marido de Hannah, é um mero estopim de um acontecimento que você percebe as consequências conforme o estado de humor de Elliot se altera, mas é mais marcante observar se Hannah irá descobrir o acontecido, ou se isso importa em primeiro lugar.
 

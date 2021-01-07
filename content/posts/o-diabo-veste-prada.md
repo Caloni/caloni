@@ -14,7 +14,7 @@ Dessa forma Hathaway tem a oportunidade de ouro de construir um personagem convi
 
 Porque o fato é: se você tem mais de trinta anos e já passou pela fase humanista ao extremo, da em que você vive com unicórnios, sabe que a vida real funciona assim. Os mais obstinados com excelência prevalecerão, pelo menos enquanto forem úteis para o sistema. O sistema não tem coração, mas tem paixão. Ele não ama as pessoas que fazem parte dele, mas adora como as roupas, os adornos e as cores combinam com a construção de identidade dessas mesmas pessoas. Fútil? Me fale mais como a maioria das mentes humanas é tão fascinante. Spoiler: não é.
 
-Então se a beleza interior é pura invenção para que ninguém saia se matando por aí, o universo da moda gira em torno de sacrifícios, de fazer o que se odeia, de ser uma masoquista disfarçada de sádica. E essa posição, essa condição, nem a editora da revista mais famosa de moda de Nova Iorque consegue fugir.
+Então se a beleza interior é pura invenção para que ninguém saia se matando por aí, o universo da moda gira em torno de sacrifícios, de fazer o que se odeia, de ser uma masoquista disfarçada de sádica. E essa posição, essa condição, nem a editora da revista mais famosa de moda de Nova York consegue fugir.
 
 Afinal, ela é capaz de manter um jantar após um evento traumático e escolher uma pessoa que detesta para promoção, se isso for relevante para seus planos. E seus planos giram em torno de continuar sendo a mesma para sempre.
 

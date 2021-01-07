@@ -20,7 +20,7 @@ Sobre os 48 FPS (frames por segundo).
 
 Uma nova tecnologia nasce no Cinema. Pode ser revolucionário ou temporário. Vai depender, como sempre, dos espectadores.
 
-Como cinéfilo, preciso apontar minha satisfação em detectar algumas vantagens na nova forma de projeção, principalmente aliado ao 3D: geralmente mais escuro por motivos óbvios, apenas metade da luz passa por um óculos 3D, a outra metade serve para dar o efeito de profundidade, a exibição de um quadro a mais por segundo consegue dar mais nitidez às cenas noturnas ou com pouca luz. Se antes o que víamos era um borrão escuro, agora pelo menos temos a chance de observar pequenas nuanças e texturas.
+Como cinéfilo, preciso apontar minha satisfação em detectar algumas vantagens na nova forma de projeção, principalmente aliado ao 3D: geralmente mais escuro por motivos óbvios, apenas metade da luz passa por um óculos 3D, a outra metade serve para dar o efeito de profundidade, a exibição de um quadro a mais por segundo consegue dar mais nitidez às cenas noturnas ou com pouca luz. Se antes o que víamos era um borrão escuro, agora pelo menos temos a chance de observar pequenas nuances e texturas.
 
 Da mesma forma, a mesma nitidez em vermos o dobro de quadros por segundo permite que Peter Jackson em O hobbit possa mover sua câmera com mais velocidade e mesmo assim não perdermos o foco ou o senso de profundidade. Acostumados a perder um pouco do movimento do cenário quando a câmera se move, em 48 fps parece que a ação nunca se perde, e os contornos dos objetos continuam, independente de quanta ação está sendo mostrada na tela.
 

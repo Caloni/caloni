@@ -8,7 +8,7 @@ O estúdio responsável pelo Meu Malvado Favorito e Os Minions agora vem recicla
 
 E não se sai tão mal em seu início.
 
-Introduzindo a rotina dos pets em Nova Iorque (sempre ela), com seus donos saindo pela manhã e voltando à tarde, o roteiro escrito a várias mãos explora essa noção que temos dos animais. O cachorro como amigo fiel, o gato como um ser que não está nem aí para humanos, e assim por diante. A animação é de qualidade, e o uso de cenas panorâmicas e câmeras se movendo por cima de uma versão romantizada de NY torna tudo aquilo muito fofinho e engraçado.
+Introduzindo a rotina dos pets em Nova York (sempre ela), com seus donos saindo pela manhã e voltando à tarde, o roteiro escrito a várias mãos explora essa noção que temos dos animais. O cachorro como amigo fiel, o gato como um ser que não está nem aí para humanos, e assim por diante. A animação é de qualidade, e o uso de cenas panorâmicas e câmeras se movendo por cima de uma versão romantizada de NY torna tudo aquilo muito fofinho e engraçado.
 
 Depois entramos em uma trama mais que conhecida. Uma das donas de um dos cachorros (que é o protagonista, o.... Max) arruma um segundo cachorro muito maior, e juntos os dois acabam se desentendendo, entrando em uma enrascada, depois uma aventura e acabam bons amigos. Fim.
 

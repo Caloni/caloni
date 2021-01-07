@@ -10,7 +10,7 @@ O que torna Bob Esponja divertido são as piadas com fundo do mar, que flerta in
 
 O filme se trata de um road movie em que Pe-wee sai pela primeira vez de sua cidadezinha pacata e previsível. O rapaz chega a criar uma maquete da cidade e na sua saída um senhor atualiza o número de habitantes sempre que passa pela fronteira.
 
-Seu destino é a oposta Nova Iorque, cosmopolita e lar de Joe Manganiello, com quem fez uma amizade instantânea quando ambos descobriram que possuem várias coisas em comum, incluindo um doce chamado "barrilzinho doce".
+Seu destino é a oposta Nova York, cosmopolita e lar de Joe Manganiello, com quem fez uma amizade instantânea quando ambos descobriram que possuem várias coisas em comum, incluindo um doce chamado "barrilzinho doce".
 
 Pee-Wee pode ser doce e inocente. Esse não é o problema. O problema é quando o filme se trata como doce, inocente e infantil. Infantil demais. Não chega a entreter uma criança, e dificilmente irá ganhar as graças de um adulto.
 

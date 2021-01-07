@@ -4,7 +4,7 @@ link: "https://www.imdb.com/title/tt6789126"
 tags: [ "draft", "movies" ]
 title: "Meu Nome Não é Ruben Blades"
 ---
-Rubén Blades é o cantor mais famoso do Panamá. Também já fez pontas de ator em Hollywood, se candidatou a presidente (foi nomeado ministro), faz ataques ferrenhos ao imperialismo americano enquanto mora em Nova Iorque e defende o povo enquanto bebe água Perrier em seus shows. Ou seja, um membro da esquerda caviar básico. Isso tudo você aprende neste burocrático documentário.
+Rubén Blades é o cantor mais famoso do Panamá. Também já fez pontas de ator em Hollywood, se candidatou a presidente (foi nomeado ministro), faz ataques ferrenhos ao imperialismo americano enquanto mora em Nova York e defende o povo enquanto bebe água Perrier em seus shows. Ou seja, um membro da esquerda caviar básico. Isso tudo você aprende neste burocrático documentário.
 
 O diretor e roteirista panamenho Abner Benaim precisa de um motivo para filmar esta produção patrocinada pelo governo argentino. Então ele usa o populismo das massas e mostra diversos shows lotados do cantor mais famoso do seu país. Abner Benaim parece gente boa olhando de longe, além de visivelmente inteligente.
 

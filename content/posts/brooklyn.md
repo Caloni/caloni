@@ -6,7 +6,7 @@ title: "Brooklyn"
 ---
 Aroma de série de TV. Acontecimentos espaçados em episódios, convenientemente movendo a história. Apesar disso, este é um filme que consegue dialogar o tema da imigração com uma sutileza ímpar ao lidar com o arco narrativo de sua heroína de maneira sóbria.
 
-A heroína decide sair de sua terra natal, Irlanda, e ir tentar a sorte na América, mais especificamente em Nova Iorque, mais especificamente no bairro que dá título ao filme e que possui cada vez mais irlandeses.
+A heroína decide sair de sua terra natal, Irlanda, e ir tentar a sorte na América, mais especificamente em Nova York, mais especificamente no bairro que dá título ao filme e que possui cada vez mais irlandeses.
 
 A saudade não só da família, mas das raízes, é sentida por Eilis (Saoirse Ronan) do fundo de seus lindos olhos. Não se pode dizer que a linda atriz não tente, de todas as formas, expressar seus sentimentos. E consegue. Eles são simples, vindos de uma pessoa simples, que busca apenas fazer o certo, mas que arriscou um pouco além do que imaginava poder.
 

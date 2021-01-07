@@ -14,4 +14,4 @@ A história é a mais clichê: um jornalista de rádio bonitão (Eric Bana) e um
 
 Faltando peso dramático para tal, o ponto forte do longa acaba sendo, como sempre, o timing cômico de Gervais, que assume um papel itinerante que não exige muito de seus dons interpretativos.
 
-Tudo mais constante, temos uma comédia de situação em Nova Iorque que, bem-humorada do começo ao fim, entretem, diverte pontualmente e serve para ser esquecida no minuto subsequente.
+Tudo mais constante, temos uma comédia de situação em Nova York que, bem-humorada do começo ao fim, entretem, diverte pontualmente e serve para ser esquecida no minuto subsequente.

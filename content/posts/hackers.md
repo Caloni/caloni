@@ -8,7 +8,7 @@ O mundo dos computadores na década de 90 poderia parecer muito intimidador para
 
 O resultado de toda essa insegurança é o que vemos na primeira cena de Hackers, quando um grupo de policiais fortemente armados invade uma residência em busca do invasor do sistema de negociação de Wall Street, que acabou gerando perdas financeiras milionárias. Depois dessa operação especial não deixa de ser irônico constatarmos que a "mente criminosa" capturada, Dade Murphy, no fundo é um garoto de 11 anos, que no mundo virtual se auto-intitula com o nickname "Zero Cool".
 
-Fora a pesada multa sobre a família pelos atos do garoto, ele é penalizado em não encostar mais em um computador ou telefone até que completasse 18 anos. Flash rápido, o vemos em um voo acompanhado da mãe pronto para sua maioridade. Ele é um garoto comum, mas, logo que tomamos seu ponto de vista, na janela do avião, o vemos observando os prédios e as avenidas de Nova Iorque como se fossem chips e circuitos eletrônicos de um gigantesco computador.
+Fora a pesada multa sobre a família pelos atos do garoto, ele é penalizado em não encostar mais em um computador ou telefone até que completasse 18 anos. Flash rápido, o vemos em um voo acompanhado da mãe pronto para sua maioridade. Ele é um garoto comum, mas, logo que tomamos seu ponto de vista, na janela do avião, o vemos observando os prédios e as avenidas de Nova York como se fossem chips e circuitos eletrônicos de um gigantesco computador.
 
 E é essa a metáfora visual empregada pelo diretor Ian Softley (A Chave Mestra) para que nos aproximemos da mente privilegiada de Dave, agora intitulado Crash Override (Jonny Lee Miller).
 

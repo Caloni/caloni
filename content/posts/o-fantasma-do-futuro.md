@@ -6,7 +6,7 @@ title: "O Fantasma do Futuro"
 ---
 Não, esse não é o "original". Aliás, o conceito de originalidade, ou individualidade, é justamente o que é atacado em Ghost in the Shell, uma animação japonesa que precede em muito toda a discussão filosófica gerada pelo filme Matrix, dos irmãos Wachoski, e que marca a predominância do tema em Hollywood.
 
-Porém, atacar talvez seja uma palavra forte. Esse é um filme que explora de maneira intensa, intelectualmente falando, todas as nuanças, consequências e questões existenciais que surgem em um mundo futurista onde já é possível trocar órgãos do corpo humano como se fossem peças de reposição, e os primeiros androides começam a ser fabricados, em um país desconhecido, mas que não preza muito pelos direitos humanos.
+Porém, atacar talvez seja uma palavra forte. Esse é um filme que explora de maneira intensa, intelectualmente falando, todas as nuances, consequências e questões existenciais que surgem em um mundo futurista onde já é possível trocar órgãos do corpo humano como se fossem peças de reposição, e os primeiros androides começam a ser fabricados, em um país desconhecido, mas que não preza muito pelos direitos humanos.
 
 Uma dessas androides é Motoko Kusanagi, que trabalha para o serviço de inteligência desse governo ao lado de Batou, um humano que já passou por tantas reposições em seu corpo que se identifica mais com uma androide do que com um humano. O que diferencia um ou outro nesse universo é o que é chamado de alma: sinais neurais de um ser humano original. Esse conceito, no entanto, terá que mudar em algum momento. A questão da individualidade já foi longe demais. 
 

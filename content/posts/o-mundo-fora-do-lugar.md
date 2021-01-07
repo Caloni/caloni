@@ -8,7 +8,7 @@ O Mundo Fora do Lugar é uma sutil defesa dos psicologicamente abusados (coincid
 
 O pilar da história é Sophie uma mulher que não consegue manter um relacionamento por mais de dois anos (Katja Riemann). Ela ironicamente realiza cerimônias não-oficiais de casamento, e observa com um certo tom de sarcasmo o que torna um casal junto por quase uma década. Sua paixão é cantar, como sua mãe, mas ela é demitida por estar no lugar errado. Ela não se encaixa no mundo em sua volta, e tudo o que resta a ela é se cobrir em sua cama e lamentar.
 
-Até que seu pai (Matthias Habich) a chama. Ele achou na internet uma cantora de ópera que é idêntica à sua esposa (Barbara Sukowa), falecida há um ano. Ela é famosa e vai se apresentar no Metropolitan, em Nova Iorque. E ele praticamente exige que ela faça um voo intercontinental e vá se encontrar com ela, em uma situação obviamente embaraçosa.
+Até que seu pai (Matthias Habich) a chama. Ele achou na internet uma cantora de ópera que é idêntica à sua esposa (Barbara Sukowa), falecida há um ano. Ela é famosa e vai se apresentar no Metropolitan, em Nova York. E ele praticamente exige que ela faça um voo intercontinental e vá se encontrar com ela, em uma situação obviamente embaraçosa.
 
 Mas mais embaraçoso fica por conta do temperamento fechado e mau-humorado de Caterina Fabiani. Ela atrai fama com seu canto lírico e afasta todos seus potenciais amigos, mantendo na linha seu ex-marido e apenas um tratamento correto, embora distante, com seu filho. O que ela menos quer é uma "fã" que acha que sua mãe se parece muito com ela.
 
