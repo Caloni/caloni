@@ -1,7 +1,7 @@
 ---
 date: "2012-05-24"
 link: "https://www.imdb.com/title/tt1486192"
-tags: [ "draft", "movies" ]
+tags: [ "movies", "reviews" ]
 title: "O Corvo"
 ---
 Edgar Allan Poe é considerado um dos precursores da literatura norte-americana, e com Júlio Verne, dos gêneros de ficção-científica e fantástica. Suas histórias geralmente giram em torno de crimes e mortes bizarras, o que revela não apenas a genialidade na arte de escrever como também sua criatividade mórbida, fruto do mais novo filme sobre ele, O Corvo, estrelando John Cusack na pele do escritor de contos.
