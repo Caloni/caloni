@@ -4,9 +4,9 @@ link: "https://www.imdb.com/title/tt0268126"
 tags: [ "movies" ]
 title: "Adaptação"
 ---
-Apenas três anos após Charlie Kaufman surpreender o mundo do Cinema com Quero ser John Malkovich, um dos roteiros mais originais de todos os tempos, temos o lançamento de seu próximo trabalho que coloca como protagonista ninguém nada menos do que... Charlie Kaufman! Apesar de isso aparentar uma auto-indulgência sem limites, é preciso lembrarmos de estarmos falando de uma versão insegura, tímida e menos talentosa de Charlie Kaufman (talvez o motivo dele ser interpretado por ninguém nada menos do que Nicholas Cage, em uma surpreendente atuação dupla).
+Apenas três anos após Charlie Kaufman surpreender o mundo do Cinema com [Quero ser John Malkovich], um dos roteiros mais originais de todos os tempos, temos o lançamento de seu próximo trabalho que coloca como protagonista ninguém nada menos do que... Charlie Kaufman! Apesar de isso aparentar uma auto-indulgência sem limites, é preciso lembrarmos de estarmos falando de uma versão insegura, tímida e menos talentosa de Charlie Kaufman (talvez o motivo dele ser interpretado por ninguém nada menos do que Nicholas Cage, em uma surpreendente atuação dupla).
 
-Algumas pessoas lidam mal com seus sucessos. Sem saber, ou até por saber, que nunca conseguiriam igualar a genialidade do trabalho anterior (James Cameron e Titanic, Orson Wells e Cidadão Kane), ficam paralisados diante do seu próximo trabalho. No caso de Kaulfman a coisa seja até pior, pois por ser roteirista, um cargo geralmente ignorado pelo público, o fato de pessoas fora da indústria do Cinema conseguirem se lembrar de seu nome é mais impressionante ainda.
+Algumas pessoas lidam mal com seus sucessos. Sem saber, ou até por saber, que nunca conseguiriam igualar a genialidade do trabalho anterior (James Cameron e [Titanic], Orson Wells e [Cidadão Kane]), ficam paralisados diante do seu próximo trabalho. No caso de Kaulfman a coisa seja até pior, pois por ser roteirista, um cargo geralmente ignorado pelo público, o fato de pessoas fora da indústria do Cinema conseguirem se lembrar de seu nome é mais impressionante ainda.
 
 Tudo isso deve ter contribuído com a auto-criação de um roteirista pós-sucesso inseguro e orgulhoso ao mesmo tempo diante de sua falta de regras ao criar suas histórias. Enquanto isso, seu irmão-gêmeo, Donald (Cage novamente), decide ir morar com ele e decide também criar roteiros, com uma pequena ajuda de um curso milagroso de Robert McKee (Brian Cox), um professor de roteiros da vida real (ora, mas se o próprio Charlie também o é).
 
@@ -20,3 +20,6 @@ Porém, talvez o maior exemplo de sua capacidade artística esteja em fazer com 
 
 Se antes o conceito genial de entrar na mente de um sujeito como John Malkovich era espetacular, é com grande satisfação que podemos afirmar que a ideia e concepção de entrarmos na cabeça de seu roteirista é ainda mais brilhante. Charlie Kaulfman ainda é um nome que devemos sempre procurar no meio dos créditos de uma produção hollywoodiana.
 
+[Cidadão Kane]: /cidadao-kane
+[Quero ser John Malkovich]: /quero-ser-john-malkovich
+[Titanic]: /titanic

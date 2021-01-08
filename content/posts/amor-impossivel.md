@@ -13,4 +13,3 @@ A partir das dificuldades de ambos em conciliar seus interesses e de seus proble
 Para piorar, a direção de Hallström insiste em transformar o filme em uma fábula de sessão da tarde, colocando embaraçosos planos-detalhes de salmões pulando pelo rio ou mesmo espiando os humanos acima da água.
 
 Com uma proposta inicial desajeitada, um desenvolvimento embaraçoso e uma conclusão extremamente previsível e galhofa, o que nos resta é admirar a paisagem inócua de um projeto tão mirabolante quanto a adaptação do romance de Paul Torday.
-
