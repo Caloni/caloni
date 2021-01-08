@@ -1,7 +1,7 @@
 ---
 date: "2012-06-19"
 link: "https://www.imdb.com/title/tt1446714"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Prometheus"
 ---
 Como fã convicto da série Alien, desde seu Oitavo Passageiro ao controverso A Ressurreição, tenho autoridade não apenas como estudioso de Cinema mas como fã estudioso de considerar o novo trabalho de Ridley Scott como uma involução não apenas da série, mas do gênero de ficção científica/terror como um todo.
