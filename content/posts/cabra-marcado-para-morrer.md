@@ -1,7 +1,7 @@
 ---
 date: "2012-09-20"
 link: "https://www.imdb.com/title/tt0134402"
-tags: [ "draft", "movies" ]
+tags: [ "movies", "reviews" ]
 title: "Cabra Marcado Para Morrer"
 ---
 O documentário que Eduardo Coutinho começou a produzir nos anos 60 e que foi interrompido após o golpe militar, tendo 40% do roteiro filmado e apreendido pela polícia como material subversivo, vira um filme completo só na década de 80, com a reabertura política e o reencontro do diretor e sua película. E não apenas isso: o reencontro da história de Elizabeth Teixeira, a viúva de João Pedro, líder dos camponeses assassinado brutalmente na época, e do cinema revolucionário de Glauber Rocha que havia ficado no esquecimento.
