@@ -1,7 +1,7 @@
 ---
 date: "2012-11-02"
 link: "https://www.imdb.com/title/tt1665412"
-tags: [ "draft", "movies" ]
+tags: [ "movies", "reviews" ]
 title: "Hot Hot Hot"
 ---
 A maior virtude criativa de Hot Hot Hot, primeiro longa do cineasta Beryl Koltz, é abordar o arco dramático de Ferdinand (Rob Stanley) do ponto de vista de um pequeno peixe e o seu processo migratório das águas frias de um aquário solitário para o ambiente quente - no sentido sexual e térmico - de uma sauna e a sua tão peculiar fauna.
@@ -13,4 +13,3 @@ Como as possibilidades de analogia com o mundo aquático são aparentemente ilim
 Mesmo com tudo isso fotografia e trilha sonora possuem papeis de destaque acima das invencionices, pois são as duas que realmente comentam e ilustram a realidade desse mundo, com o uso constante dos tons de azul e laranja para representar a mescla de protagonista e novo mundo. A trilha sonora, parte integrante e esquecida da vida de Ferdinand, passa a ter papel ativo no ambiente da sauna e de sua própria postura diante dos acontecimentos.
 
 Não direi mais nada. Não vale a pena estragar as surpresas da história, pois estas são secundárias. Em vez disso, se atente ao aspecto estético e temático. Há algo de sublime que se mantém independente da história.
-

@@ -1,6 +1,6 @@
 ---
 date: "2020-08-29"
-link: "https://www.youtube.com/watch?v=CViyz_iAHxA"
+link: "https://youtu.be/5M-8XFkQ33k"
 tags: [ "blog" ]
 title: "Jejum de Dopamina"
 ---
