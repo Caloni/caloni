@@ -1,7 +1,7 @@
 ---
 date: "2012-11-18"
 link: "https://www.imdb.com/title/tt0918927"
-tags: [ "draft", "movies" ]
+tags: [ "movies", "reviews" ]
 title: "Dúvida"
 ---
 Baseado em uma peça de teatro escrita por John Patrick Shanley, que aqui também faz o papel duplo de diretor/roteirista. Conseguindo para os papéis principais Philip Seymour Hoffman como o padre Brendan Flynn, um orador com capacidade ímpar de sugar a atenção de seus fiéis, e Meryl Streep, como a severa irmã Aloysius Beauvier, que zela por regras que parecem ter sido definidas 2000 anos atrás. A história, pode-se arriscar, gira em torno dos dois conceitos que esses personagens representam, que não deveriam, mas parecem opostos na igreja católica: compaixão e tradição.
@@ -13,4 +13,3 @@ Ora, essa sabedoria sem provas sempre foi a base de toda a fé cristã, e tem no
 Embora seja um tema complexo e aberto a diversas interpretações e lados, o texto de Patric Shanley não se intimida, provocando e ao mesmo tempo sendo honesto o tempo todo para ambos os lados. O que está em julgamento não é a igreja católica, mas nossa fé e razão, a bondade pela humanidade inerente ao ser humano ou o uso da preceitos religiosos como bússola moral para qualquer situação. O clima fica ainda mais pesado com a participação da mãe do rapaz, em um dos diálogos mais inspirados (embora o menos realista, se considerarmos quem está proferindo frases com tamanha carga filosófica), onde coloca além da discussão moral o uso prático dessa moral no dia-a-dia dos outros mortais, as pessoas que estão no meio das trincheiras.
 
 No entanto, Dúvida ganha de fato o panteão de grandes filmes ao assumir abertamente que não sabe a resposta para essas questões. E é ao assumir sua própria ignorância, mas não se furtar de discuti-la, que o filme ganha igualmente o direito a revisitas quantas vezes for necessário. Ou melhor dizendo, enquanto a religião continuar tapando o sol do conhecimento com a peneira da tradicionalidade.
-
