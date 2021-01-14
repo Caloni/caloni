@@ -16,7 +16,7 @@ Os melhores exemplos coletados são ricos, inspiradores, mas não para simples i
 
 A problemática da complexidade do livro para a maioria dos leitores é que ele vai fundo demais, analisando a relação do indivíduo com a sociedade, com a religião e cultura em um nível histórico, biológico e até mesmo filosófico. O autor primeiro se esforça para definir o que é consciência da maneira mais científica, sucinta e brilhante que você verá em um texto com esse rigor, e a partir disso ele analisa como nós podemos nos aproveitar de seu funcionamento para tirar o máximo possível dessa experiência mágica que é estar vivo.
 
-O próprio ato de ler este livro já se torna fruto de momentos inesquecíveis de prazer. E o motivo é porque entendê-lo é um desafio à altura. Não é fácil, mas nem difícil demais. O leitor médio e leigo pode alcançar a compreensão, e é justamente a dificuldade em entendê-lo que o faz ter valor, e ao ter valor nos sentimos recompensados pela atividade de decifrar o problema de viver a boa vida proposto no livro.
+O próprio ato de ler este livro já se torna fruto de momentos inesquecíveis de prazer. E o motivo é porque entendê-lo é um desafio à altura. Não é fácil, mas nem difícil demais. O leitor médio e leigo pode alcançar a compreensão, e é justamente a dificuldade em entendê-lo que o faz ter valor, e ao ter valor nos sentimos recompensados pela atividade de decifrar o problema de viver a boa vida proposta no livro.
 
 Sobre a consciência, ele revela seus limites usando métricas de processamento de dados, como quantos bits de informação nossa mente focada é capaz de processar por segundo, e por que, seguindo essa métrica, concluímos que é impossível prestar atenção, por exemplo, em quatro pessoas falando ao mesmo tempo.
 
