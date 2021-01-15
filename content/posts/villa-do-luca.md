@@ -1,5 +1,6 @@
 ---
 date: "2021-01-14"
+link: "https://vinhos.sociedadedamesa.com.br/vinho-tinto-villa-doluca-klasik-2019-10tursm2010001/p"
 tags: [ "wines" ]
 title: "Villa do Luca"
 ---
