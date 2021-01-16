@@ -1,10 +1,10 @@
 ---
 date: "2012-12-24"
 link: "https://www.imdb.com/title/tt1611224"
-tags: [ "draft", "movies" ]
-title: "Abraham Lincoln Caçador de Vampiros"
+tags: [ "movies", "reviews" ]
+title: "Abraham Lincoln: Caçador de Vampiros"
 ---
-Há uma, e apenas uma, ideia interessante por trás de todo o enredo de "Abraham Lincoln", roteiro escrito por Seth Grahame-Smith (Sombras da Noite) baseado em seu próprio romance: a alegoria do povo do sul como vampiros que se alimentam dos seus escravos. Tirando essa semi-brilhante sacada, todo o resto parece criar uma experiência boba, infantil e que tenta justificar cenas de luta coreografadas através dos seus delírios de grandeza.
+Há uma, e apenas uma, ideia interessante por trás de todo o enredo de "Abraham Lincoln", roteiro escrito por Seth Grahame-Smith ([Sombras da Noite]) baseado em seu próprio romance: a alegoria do povo do sul como vampiros que se alimentam dos seus escravos. Tirando essa semi-brilhante sacada, todo o resto parece criar uma experiência boba, infantil e que tenta justificar cenas de luta coreografadas através dos seus delírios de grandeza.
 
 Ao tentar inserir contextualmente a história do jovem Abraham (Lux Haney-Jardine) como um idealista por um país livre, tendo um amigo negro, e estabelecendo ao mesmo tempo o conflito criado pela morte da mãe por causa de um vampiro real o filme consegue fazer florescer no menino um leve sentimento de justiça e ressentimento pelos escravocratas, sentimentos esses que serão o combustível futuro quando este estiver em uma idade pós-adolescente (Benjamin Walker).
 
@@ -18,3 +18,4 @@ Mas talvez o problema incurável do filme seja se levar a sério demais, colocan
 
 No entanto, é o que parece sobrar no final. Pelo visto, cada vez mais a coreografia e os efeitos digitais (incluindo o 3D) prevalecem sobre uma história minimamente apresentável.
 
+[Sombras da Noite]: /sombras-da-noite

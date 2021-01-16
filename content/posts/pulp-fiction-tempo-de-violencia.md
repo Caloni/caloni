@@ -1,10 +1,10 @@
 ---
 date: "2012-12-23"
 link: "https://www.imdb.com/title/tt0110912"
-tags: [ "draft", "movies" ]
-title: "Pulp Fiction Tempo de Violência"
+tags: [ "movies", "reviews" ]
+title: "Pulp Fiction: Tempo de Violência"
 ---
-Segundo trabalho de Quentin Tarantino (Cães de Aluguel, Kill Bill), Pulp Fiction é seu filme com o roteiro mais intenso, e talvez um dos melhores representantes do seu gênero no quesito introduzir perigosos criminosos em seu dia-a-dia.
+Segundo trabalho de Quentin Tarantino ([Cães de Aluguel], [Kill Bill]), Pulp Fiction é seu filme com o roteiro mais intenso, e talvez um dos melhores representantes do seu gênero no quesito introduzir perigosos criminosos em seu dia-a-dia.
 
 Mas qual é o significado de Pulp Fiction? Ora, o próprio Tarantino explica no início, colocando a descrição literal do dicionário American Heritage após acompanharmos um diálogo de um casal que decide assaltar o restaurante onde estão tomando café-da-manhã:
 
@@ -22,3 +22,5 @@ E se eu disser que mais fascinante do que esses dois conflitos é toda a sequên
 
 No fundo, a montagem do filme não poderia ser feita de outra maneira. Caminhando lado a lado dos seus personagens, Tarantino consegue extrair o mais inusitado que qualquer um conseguiria em um filme de gângsteres: sua alma de pessoas comuns que por mero capricho de acontecimentos "Pulp" estão onde estão. Não importa como chegaram ali, mas entender o que fazem a partir disso é que faz toda a diferença.
 
+[Cães de Aluguel]: /caes-de-aluguel
+[Kill Bill]: /kill-bill-volume-1
