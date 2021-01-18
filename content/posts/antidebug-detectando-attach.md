@@ -21,6 +21,6 @@ Ambas possuem prós e contras. Os contras estão relacionados com a dependência
 
 Seja qual for a solução escolhida, ao menos temos a vantagem do impacto no sistema de nosso aplicativo ser praticamente nulo, pois isolamos em duas funções - AntiAttachAbort e InstallAntiAttach - um hook de uma API local (do próprio processo) que supostamente nunca deveria ser chamada em um binário de produção. Além do mais, existem maneiras mais a la C++ de fazer coisas como "live assembly". Mas isso já é matéria para futuros e excitantes artigos =D.
 
-[código que eu encontrei]: /code/antidebug-detectando-attach.cpp
+[código que eu encontrei]: /code/antidebug/antidebug-attach.cpp
 [monitor de chamadas de API]: http://www.kakeeware.com
 [monitor de chamadas de COM]: http://www.blunck.info/comtrace.html

@@ -58,21 +58,3 @@ int main()
 	cin.get();
 } 
 
-
-cl /c antiattach.cpp
-link antiattach.obj user32.lib
-
-antiattach.exe
-Try to attach, if you can...
-
-windbg -pn antiattach.exe
-
-<a href="/images/mdRqvjp.png" title="Detecção de attach"><img src="/images/mdRqvjp.png" alt="Detecção de attach"></img></a>
-// opcodes to run a jump to the function AntiAttachAbort
-BYTE jmpToAntiAttachAbort[] =
-{ 0xB8, 0xCC, 0xCC, 0xCC, 0xCC,   // mov eax, 0xCCCCCCCC
-0xFF, 0xE0 };                     // jmp eax
-
-// we change 0xCCCCCCCC using a more useful address
-*reinterpret_cast<PVOID*>(&jmpToAntiAttachAbort[1]) = AntiAttachAbort; 
-
