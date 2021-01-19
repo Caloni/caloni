@@ -1,7 +1,7 @@
 ---
 date: "2013-02-21"
 link: "https://www.imdb.com/title/tt1790885"
-tags: [ "draft", "movies" ]
+tags: [ "movies", "reviews" ]
 title: "A Hora Mais Escura"
 ---
 Por tratar de eventos que ocorreram na vida real durante a caçada a Bin Laden, A Hora Mais Escura apresenta seus fatos de uma forma semidocumental e corre o risco de ser mal visto ao tratar a tortura um meio justificável e o assassinato de seres humanos um evento impessoal. No primeiro caso (tortura) podemos dizer que as pessoas deste século tendem a encarar o evento com mais compaixão (até pelo histórico de parentes e conhecidos que vivenciaram isso de perto). Já no segundo caso (assassinato), por envolver a morte do terrorista mais odiado de todo o mundo civilizado os sentimentos não caminham tão bem pelo estômago das pessoas que viram o horror de perto e ao vivo.
@@ -13,4 +13,3 @@ Acompanhamos a transição da agente, ainda assustada pelos métodos usados pelo
 Por fim, quando Kathryn Bigelow mostra a que veio e relata de maneira exemplar a missão que dá nome ao título original, se aproveita da trilha de Alexandre Desplat para ressaltar tanto a grandiosidade do evento quando esse misto de sentimentos que rodeia o desejo agora já frio e distante da vingança. Aliás, a música do filme é o unico elemento que diz algo sobre o humor do filme que gira em torno de diálogos longos e burocráticos e que ilustram bem o ritmo de trabalho no decorrer de tantos anos.
 
 Encontrando a cadência exata entre os breves momentos que vemos Maya, os soldados e sua visão noturna piorada por movimentos bruscos constantes, a montagem transforma a contemporaneidade dos eventos em uma experiência única, servindo de metalinguagem da vida real para o que está acontecendo nesse momento. As feridas abertas do povo americano ainda permeiam a cena final com o potencial mais dramático de todos: a frágil humanidade de nossas escolhas.
-
