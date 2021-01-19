@@ -1,7 +1,7 @@
 ---
 date: "2013-02-07"
 link: "https://www.imdb.com/title/tt1707386"
-tags: [ "draft", "movies" ]
+tags: [ "movies", "reviews" ]
 title: "Os Miseráveis"
 ---
 Baseado em uma peça musical (que é baseado no clássico literário de Vitor Hugo), a história de Os Miseráveis se passa na França pós-revolução e gira em torno de Jean Valjean (Hugh Jackman), um ex-prisioneiro que foi condenado por ter roubado um pão e que cumpriu pena por 19 anos. Os destinos de diversos personagens se encontram com Valjean, inclusive Javert (Russell Crowe), o inspetor que cuidava das galés onde realizava trabalhos forçados, e Fantine (Anne Hathaway), mãe da pequena Cosette (Amanda Seyfried crescida) e que faz de tudo para sustentar a filha, inclusive chegando a se prostituir.
@@ -11,4 +11,3 @@ Com praticamente todos os diálogos cantados, não há números de dança, mas u
 No entanto, mesmo assim há surpresas pontuais que revigoram a história, mas que não necessariamente são conduzidos com a grandiosidade com que foram concebidos originalmente. A batalha entre os jovens revolucionários e os soldados, forte apenas pelo seu simbolismo, perde a mão na indecisão de Tom Hooper, que consegue a proeza de suavizá-la (e até mesmo banalizá-la) mesmo com a morte de uma criança.
 
 Se não é o elenco empenhando em resgatar o filme do desastre de direção, o estrago com certeza seria irreparável.
-

@@ -1,14 +1,14 @@
 ---
 date: "2013-02-10"
 link: "https://www.imdb.com/title/tt1907668"
-tags: [ "draft", "movies" ]
+tags: [ "movies", "reviews" ]
 title: "O Voo"
 ---
 No início do drama intimista somos apresentados a Whip Whitaker, um piloto "old-timer" que pilota um avião comercial com 102 pessoas a bordo como quem dirige um carro. Só que seu próximo voo apresentaria um defeito mecânico que o deixaria na mão. Utilizando seu instinto e habilidade, decide girar o avião de cabeça para baixo e com isso ganha impulso o suficiente para um pouso forçado em campo aberto, sendo obstruído apenas, que ironia, por uma torre de igreja. A sequência é arrebatadora por sua dramaticidade e impacto visual de um acidente em tempo real acontecendo diante de nós. Não é um espetáculo visual, mas um drama visceral ocorrendo no ar. Quando tudo termina, o resultado frio e matemático é de 6 mortes.
 
 Já as consequências do evento são apresentadas para Whitaker no hospital desde sua primeira conversa, e já de forma a dividir opiniões: enquanto o representante do sindicato diz que ele salvou 96 pessoas, os representantes da auditoria apontam que o voo sob a responsabilidade do piloto resultou em mortes. Os motivos da queda são irrelevantes desde o início, pois estão no fundo procurando por um culpado, e Whitaker pode ser um deles exatamente por ter ingerido álcool e cocaína antes do voo.
 
-O tema mais interessante do novo filme de Robert Zemeckis (Forrest Gump, O Náufrago) é a inversão de expectativa que ele causa em nós: enquanto visto como um herói pelas pessoas e tendo de fato todo o controle na cabine do avião durante o acidente, sua vida parece carecer dessa mesma auto-confiança. Whip Whitaker é um alcoólico inveterado, além de extremamente desonesto, como podemos observar em sua primeira atitude ao sair do hospital: se isolar no sítio de seu avô e jogar fora todas as bebidas. (a princípio podemos pensar que fosse uma mudança de atitude, o que não se comprova quando ele descobre que os testes de álcool no sangue já haviam sido feitos no hospital).
+O tema mais interessante do novo filme de Robert Zemeckis ([Forrest Gump], O Náufrago) é a inversão de expectativa que ele causa em nós: enquanto visto como um herói pelas pessoas e tendo de fato todo o controle na cabine do avião durante o acidente, sua vida parece carecer dessa mesma auto-confiança. Whip Whitaker é um alcoólico inveterado, além de extremamente desonesto, como podemos observar em sua primeira atitude ao sair do hospital: se isolar no sítio de seu avô e jogar fora todas as bebidas. (a princípio podemos pensar que fosse uma mudança de atitude, o que não se comprova quando ele descobre que os testes de álcool no sangue já haviam sido feitos no hospital).
 
 O destino de um sujeito desses não seria difícil de imaginar caso ele não tivesse conhecido no hospital Nicole (Kelly Reilly), uma viciada em recuperação. Diferente de Whitaker, Nicole está ciente que sua vida depende que ela pare (e é interessante que o roteiro estabeleça essa relação entre drogas injetáveis e álcool, uma droga tão letal quanto as proibidas por lei). Whip a traz para sua vida, mas os efeitos positivos da companhia de Nicole nunca parecem penetrar na visão egoísta e descontrolada do piloto.
 
@@ -25,3 +25,5 @@ No caso de O Voo, o piloto Whip Whitaker não possui controle sobre sua vida, e 
 A partir do momento em que Whip Whitaker decide contar a verdade a respeito da bebida em sua vida e passa a ter responsabilidade sobre seus atos o diretor Robert Zemeckis faz uma belíssima transição girando a câmera em torno de Whip Whitaker e o colocando já na prisão, anos depois, falando aos presos. A câmera continua a enfocar o ex-piloto, só que nesse momento ele está no centro da tela. Daí ocorre algo que considero tão emocionante quanto brilhante: a câmera ao se aproximar do protagonista vai lentamente o colocando à direita da tela, em um claro reajuste da própria postura do sujeito a partir de então para com sua vida. Também no diálogo final com seu filho ele está pela primeira vez totalmente à direita da tela, quando fecha a última cena.
 
 Repito a pergunta feita no texto sem spoilers: como não gostar de um filme desses?
+
+[Forrest Gump]: /forrest-gump-o-contador-de-historias

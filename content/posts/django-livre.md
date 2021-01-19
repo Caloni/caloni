@@ -1,7 +1,7 @@
 ---
 date: "2013-02-05"
 link: "https://www.imdb.com/title/tt1853728"
-tags: [ "draft", "movies" ]
+tags: [ "movies", "reviews" ]
 title: "Django Livre"
 ---
 Django Livre é divertido moderadamente e possui um conteúdo pseudo-histórico de impacto que faz jus aos bons faroestes. Quentin Tarantino poderia ter futuramente, caso conseguisse controlar seu gigantesco ego, a mesma habilidade e maestria na direção que tornou Sergio Leone conhecido para sempre na história do Cinema.
@@ -19,4 +19,3 @@ Voltando aos detalhes culturais, a visão de Calvin Candie sobre o mundo é simi
 Onde chegamos ao terceiro e decepcionante ato, onde talvez as participações inspiradas de Christopher Waltz e Leonardo DiCaprio tenham suas "parcelas de culpa", pois em ambas as ausências tornam o personagem de Jammie Foxx obviamente obliterado. Porém, o que fica óbvio é que Tarantino mais uma vez sabota sua própria obra, colocando o seu ego à frente dos eventos e criando uma reviravolta extremamente incoerente com um dos seus personagens no momento mais crucial da sua história, parecendo que com o único objetivo de fazer-nos ver mais tiroteio e chuvas de sangue estilizadas. O efeito para os fãs do diretor pode até funcionar, mas para os fãs do Cinema é um verdadeiro soco para fora do filme, que fica ainda maior quando nos deparamos com o próprio Tarantino atuando.
 
 Dizer que os últimos 20 minutos de filme estragaram toda a experiência é ser um tanto desonesto, mas não se pode negar que a maestria de Tarantino é tamanha que é incômodo constatar que esta foi boicotada por ninguém nada menos que... Quentin Tarantino.
-
