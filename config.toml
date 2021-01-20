@@ -4,6 +4,7 @@ title = "Blogue do Caloni"
 copyright = ""
 disableKinds = [ "sitemap" ]
 theme = "blog"
+uglyurls = true
 
 [outputs]
   home = ["HTML", "RSS"]
@@ -15,7 +16,7 @@ theme = "blog"
     mediaType = "text/csv"
 
 [permalinks]
-    posts = "/:filename/"
+    posts = "/:filename"
 
 [params]
     contentGit = "https://github.com/Caloni/blog"
