@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+
+  <body style="min-height:100vh;display:flex;flex-direction:column">
+
+      {{ if .Date.After (time "2001-01-01")}}
+        <i>{{ $.Site.Params.author }}, {{ .Date.Format "2006-01-02" }}</i>
+      {{ end }}
+      {{ .Content }}
+      {{ if .Date.After (time "2001-01-01")}}
+          <span>{{ if .Params.categories }} {{ range .Params.categories }} <a href="#categories-{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}
+          {{ if .Params.tags }} {{ range .Params.tags }} <a href="#tags-{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}</span>
+      {{ end }}
+
+  </body>
+
+</html>
