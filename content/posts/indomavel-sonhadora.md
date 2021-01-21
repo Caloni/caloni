@@ -1,7 +1,7 @@
 ---
 date: "2013-03-05"
 link: "https://www.imdb.com/title/tt2125435"
-tags: [ "draft", "movies" ]
+tags: [ "movies", "reviews" ]
 title: "Indomável Sonhadora"
 ---
 Desde o começo Hushpuppy (Quvenzhané Wallis), a Indomável Sonhadora do título nacional, carrega a história nas costas. O que não é pouca coisa se considerarmos que ela mal aparenta dez anos de idade. Acompanhamos sua jornada precoce rumo à maturidade junto de uma inspirada orquestra que toca cada passagem da história como se fosse um momento único e solene rumo a sua emancipação. A fotografia árida, ajudada pelos grãos difusos e o foco oscilante, e a sempre tremendo câmera parecem sugerir um mundo instável prestes a acabar em um deserto. Pudera. Se até para os adultos a vida não é fácil conseguimos imaginar os esforços da pequena. Sua experiência de vida é muito diferente da vida na cidade, e o que parece cruel ou duro demais a uma criança acaba soando apenas como mais um rito de iniciação.
