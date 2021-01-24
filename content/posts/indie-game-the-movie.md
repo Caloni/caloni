@@ -1,8 +1,8 @@
 ---
 date: "2013-06-17"
 link: "https://www.imdb.com/title/tt1942884"
-tags: [ "draft", "movies" ]
-title: "Indie Game The Movie"
+tags: [ "movies" ]
+title: "Indie Game: The Movie"
 ---
 Focado principalmente no amor, dedicação, desespero e muitas vezes loucura dos criadores de jogos de computador independentes, Indie é uma grata surpresa ao mostrar os nerds solitários como artistas que lutam pelo reconhecimento, mas, acima de tudo, pela máxima expressão de si mesmos dentro dos bits e bytes que insistem em escrever.
 
@@ -13,4 +13,3 @@ Porém, não há mistérios o suficiente que consigam carregar essa áurea por t
 Boa parte da narrativa parece justamente querer isso, mostrando a infância problemática dos autores e suas opiniões egocêntricas e claramente infantis a respeito da indústria dos jogos, como falar que jogos de milhões produzidos por centenas de pessoas não passa de lixo. Ironicamente a mesma indústria é usada como alavanca de vendas (e pode ter sido uma péssima ideia usar a plataforma da Microsoft como exemplo de esperança de publicidade para programadores independentes, fazendo com que toda a narrativa pareça cair em uma dura contradição).
 
 De qualquer forma, Indie é uma compilação inédita de momentos com nerds onde a criação é mais importante que a criatura. Um bom motivo para uma olhada entre fases.
-

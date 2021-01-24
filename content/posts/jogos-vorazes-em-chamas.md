@@ -1,10 +1,10 @@
 ---
 date: "2013-07-12"
 link: "https://www.imdb.com/title/tt1951264"
-tags: [ "draft", "movies" ]
-title: "Jogos Vorazes Em Chamas"
+tags: [ "movies" ]
+title: "Jogos Vorazes: Em Chamas"
 ---
-É curioso que quase uma década depois a estrutura narrativa de Catching Fire nos faça lembrar do ótimo Matrix Reloaded. Apesar de também ser uma continuação, Jogos Vorazes pelo menos sabia que não terminaria no primeiro. No entanto, ambos tratam de esperança surgida em meio a uma guerra eterna, e embora a escravidão consentida pelos Distritos à Capital por tantas gerações soe às vezes meio forçada, o fato é que o aspecto político e social é o que mais cativa na história.
+É curioso que quase uma década depois a estrutura narrativa de Catching Fire nos faça lembrar do ótimo [Matrix Reloaded]. Apesar de também ser uma continuação, [Jogos Vorazes] pelo menos sabia que não terminaria no primeiro. No entanto, ambos tratam de esperança surgida em meio a uma guerra eterna, e embora a escravidão consentida pelos Distritos à Capital por tantas gerações soe às vezes meio forçada, o fato é que o aspecto político e social é o que mais cativa na história.
 
 Mas essa também é uma história para as menininhas irem ao Cinema suspirarem pelo amor não correspondido do jovem Peeta pela sempre tensa Katniss (e comentarem durante toda a sessão). Eis um outro aspecto curioso de uma trama que explora a tendência atual dos reality shows e de como as pessoas tomam por verdade tudo que veem pela TV.
 
@@ -14,6 +14,9 @@ O que me faz lembrar que outra virtude memorável em Jogos Vorazes é como suas 
 
 Esse filme já adota uma postura melhor adequada de violência. Se no original Katlin não seria capaz de ferir uma pessoa, aqui está disposta a matar se for preciso. Isso por um lado é reflexo de voltar para um lugar que tinha certeza que não mais sairia, e outra por entender que não se trata mais de um inocente jogo como todos os outros patrocinados anualmente.
 
-Se a beleza das imagens dizem quase tudo, é uma pena que o roteiro não seja nem um pouco sutil no desenrolar da história, quase nos fazendo crer em uma reviravolta completamente articulada pelo criador do jogo (o sempre ótimo ator). A trilha sonora não se sai muito melhor, com exceção da música tema, que já se tornou memorável.
+Se a beleza das imagens dizem quase tudo, é uma pena que o roteiro não seja nem um pouco sutil no desenrolar da história, quase nos fazendo crer em uma reviravolta completamente articulada pelo criador do jogo (o sempre ótimo Philip Seymour Hoffman). A trilha sonora não se sai muito melhor, com exceção da música tema, que já se tornou memorável.
 
 Mesmo com seu pecadilhos, Jogos Vorazes mantém o interesse constante em seu 140 minutos de duração.
+
+[Jogos Vorazes]: /jogos-vorazes
+[Matrix Reloaded]: /matrix-reloaded
