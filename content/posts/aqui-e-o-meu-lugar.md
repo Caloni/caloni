@@ -1,7 +1,7 @@
 ---
 date: "2013-10-20"
 link: "https://www.imdb.com/title/tt1440345"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Aqui é o Meu Lugar"
 ---
 Sean Penn é um excelente ator, diga-se de passagem. Mas nesse trabalho em que ele coloca uma peruca (que insiste em assoprar) e fala como se fosse desmaiar a qualquer momento é daqueles típicos casos de vergonha alheia.
@@ -10,5 +10,6 @@ Não há nada que se defenda no filme do diretor italiano Paolo Sorrentino excet
 
 O que o filme não consegue é estipular os motivos do seu protagonista em realizar essa viagem de mudanças. Se não é possível definir quem é Cheyenne (Penn), quem dirá o que ele deseja ser. Pior ainda: aparentemente os roteiristas acreditam que a relação entre as roupas desgastadas de roqueiro, sua voz rouca e seu penteado despenteado sejam indícios que algo está errado em sua vida e que merece uma "transformação" que envolverá necessariamente uma mudança radical do seu visual. O que é obviamente preconceituoso, bobo e inócuo.
 
-Iniciando com um plot piorado do excelente Flores Partidas e continuando como uma versão trash de Transamérica, Aqui é o Meu Lugar se estabelece de vez na categoria dos filmes "nonsense" ao emplacar numa investigação e busca de Cheyenne pelo torturador de seu recém-falecido pai.
+Iniciando com um plot piorado do excelente [Flores Partidas] e continuando como uma versão trash de Transamérica, Aqui é o Meu Lugar se estabelece de vez na categoria dos filmes "nonsense" ao emplacar numa investigação e busca de Cheyenne pelo torturador de seu recém-falecido pai.
 
+[Flores Partidas]: /flores-partidas

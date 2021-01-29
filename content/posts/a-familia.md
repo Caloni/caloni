@@ -1,7 +1,7 @@
 ---
 date: "2013-10-04"
 link: "https://www.imdb.com/title/tt2404311"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "A Família"
 ---
 Aquele filme esquecível que até que tem uma ideia interessante: proteger uma família de mafiosos. Protagonizada por Robert de Niro. Encabeçada por Michelle Pfeiffer. Assessorada por Tommy Lee Jones. O que poderia dar errado?
@@ -10,6 +10,8 @@ Tecnicamente nada, e essa falta de surpresas é um problema em si para um filme 
 
 A direção de Luc Besson passeia por tudo isso sem empolgar em nenhum momento. Pior: se acerta em algumas transições, como entre golpes empolgados da filha e uma máquina de escrever que testemunha o passado nada nobre do pai, erra feio ao usar os mesmos personagens na bizarra relação entre uma cena de sexo e um jantar delicioso. Não que não houvesse relação entre ambos os prazeres, mas o clima incestuoso meio que atrapalha nossa concentração (acho que a última coisa que eu gostaria de ver após aquela cena seria Robert de Niro cabeludo e barbudo).
 
-Com atuações que beiram o automático, o pouco que se salva são as participações competentes do garoto e de Michelle Pfeiffer, que tentam (ou são tentados) uma hora ou outra tomar as rédeas de seus personagens. O próprio de Niro (ou o roteiro) perde uma chance de ouro ao encarnar um escritor americano que comenta o clássico gangster Os Bons Companheiros (e é preciso lembrar que Scorsese é o produtor executivo).
+Com atuações que beiram o automático, o pouco que se salva são as participações competentes do garoto e de Michelle Pfeiffer, que tentam (ou são tentados) uma hora ou outra tomar as rédeas de seus personagens. O próprio de Niro (ou o roteiro) perde uma chance de ouro ao encarnar um escritor americano que comenta o clássico gangster [Os Bons Companheiros] (e é preciso lembrar que Scorsese é o produtor executivo).
 
 A contagem de mortos final é o que chega mais próximo de não convencer, mas toda a experiência em geral possui episódios isolados demais para estabelecer uma identidade para essas pessoas. Eu mesmo já esqueci de metade delas. 
+
+[Os Bons Companheiros]: /os-bons-companheiros

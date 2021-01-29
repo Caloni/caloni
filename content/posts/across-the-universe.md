@@ -1,7 +1,7 @@
 ---
 date: "2013-09-28"
 link: "https://www.imdb.com/title/tt0445922"
-tags: [ "draft", "movies" ]
+tags: [ "movies", "reviews" ]
 title: "Across the Universe"
 ---
 Este não é simplesmente um musical que utiliza a trilha sonora dos Beatles. Across the Universe respira as influências da banda desde seu título até o final, recriando diversos momentos de sua "antologia" (real ou ficção) e fortalecendo suas obras em um contexto narrativo que, ainda que frágil em diversos momentos, mais do que compensa essa revisita ao universo criado e vivido por John Lennon, Paul McCartney, Ringo Starr e George Harrison.
@@ -17,4 +17,3 @@ Não contente apenas com isso, o longa investe em personagens secundários que v
 Toda essa miscelânea de contextos é regada, claro, com letras e músicas da banda. A história, muitas vezes, parece se contorcer para conseguir inserir um novo som (como na sequência de Dear Prudence). Porém, em outros momentos, a reinterpretação das obras compostas por Lennon/McCartney ganha uma força surpreendente até então desconhecida, como Strawberry Fields, que relaciona morangos com o sangue dispendido por uma guerra inútil. Indo no mesmo sentido, I Want You se torna uma experiência dolorosa que reflete com exatidão o martírio dos jovens que devem lutar por uma causa que não acreditam.
 
 Encontrando espaço suficiente para desenvolver seus personagens, o forte do longa parece residir mesmo nessa capacidade de reorganizar as letras da banda de maneira a contar uma história simplista, muitas vezes desconexa, mas que sobretudo honra as mensagens que suas letras tão cheias de amor sempre quiseram passar. Com isso, Across the Universe não apenas reinterpreta Beatles, mas cria um verdadeiro universo paralelo cheio de música, cores e ideais.
-

@@ -1,10 +1,10 @@
 ---
 date: "2013-08-01"
 link: "https://www.imdb.com/title/tt1595656"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Amor Pleno"
 ---
-É difícil analisar os filmes de Terrence Malick através da abordagem tradicional de "historinha". O que é possível observar nesse seu novo trabalho é sua semelhança com Árvore da Vida (semelhança narrativa) com muito menos glamour. Assim como a reflexão de Almodóvar em Amantes Passageiros (depois do tenso A Pele que Habito), Malick parece querer não se aprofundar demais em temas existenciais como fez anteriormente, mas mesmo assim não consegue evitar de ligar as referências, como em determinado momento sua câmera foge para o mundo subaquático, quase como uma tentativa de conectar-se com seu predecessor no melhor estilo continuação dos grande temas.
+É difícil analisar os filmes de Terrence Malick através da abordagem tradicional de "historinha". O que é possível observar nesse seu novo trabalho é sua semelhança com [A Árvore da Vida] (semelhança narrativa) com muito menos glamour. Assim como a reflexão de Almodóvar em [Os Amantes Passageiros] (depois do tenso [A Pele que Habito]), Malick parece querer não se aprofundar demais em temas existenciais como fez anteriormente, mas mesmo assim não consegue evitar de ligar as referências, como em determinado momento sua câmera foge para o mundo subaquático, quase como uma tentativa de conectar-se com seu predecessor no melhor estilo continuação dos grande temas.
 
 E o amor é o grande tema dessa vez, e mais uma vez a religião é a lupa usada em sua análise, na figura de um padre questionando repetidamente sua fé e a inexistência do amor do casal principal em sua relação com um ser supremo.
 
@@ -14,3 +14,6 @@ Aqui como em Árvore o uso dos sons, da música e principalmente da luz é vital
 
 Não é difícil contemplar as obras de Mallick. A não ser que você precise racionalizar isso de alguma forma.
 
+[A Pele que Habito]: /a-pele-que-habito
+[A Árvore da Vida]: /a-arvore-da-vida
+[Os Amantes Passageiros]: /os-amantes-passageiros
