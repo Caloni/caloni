@@ -1,7 +1,7 @@
 ---
 date: "2012-09-03"
 link: "https://www.imdb.com/title/tt1764651"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Os Mercenários 2"
 ---
 Mercenários 2 já começa sua história querendo arrebentar o maior número de muros, cabeças e corpos humanos por centímetro cinematográfico quadrado. O som das armas parece verdadeiro, ou melhor: parece surreal. Não há nada pode deter o maior arrebatamento de heróis de ação de um passado já distante, mas que é aqui comemorado de uma maneira perigosamente indulgente.

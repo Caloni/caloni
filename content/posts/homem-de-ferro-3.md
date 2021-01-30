@@ -1,7 +1,7 @@
 ---
 date: "2013-05-03"
 link: "https://www.imdb.com/title/tt1300854"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Homem de Ferro 3"
 ---
 Críticas ao [Superman] são comuns pelo fato do super-herói ser virtualmente invencível, sendo sua única fraqueza a sua fé na humanidade. No caso de um herói como Tony Stark, gênio, bilionário, sedutor e munido de uma armadura extremamente resistente, nem o lado humano pode ser considerada uma fraqueza. As inúmeras facetas de Tony se descascam como seus inúmeros protótipos de robôs, e a própria imagem do Homem de Ferro se apresenta como uma figura completamente destacada da pessoa que a veste ou controla à distância. Para ele seu avatar (ou avatares) são um elemento importante de sua personalidade atual, mais do que ele mesmo. E assim como no filme anterior, [Homem de Ferro 2], não [Os Vingadores], a jornada de Tony Stark é mais interna que externa. O vilão mais uma vez tem algo a dizer sobre o herói, mas não só ele. Se antes a história do pai era o que movia o drama no segundo filme, aqui essa relação é revista entre o gênio bilionário e um garoto (Ty Simpkins) que se revela o reflexo perfeito de sua própria imaturidade. Nesse sentido a interpretação de Robert Downey Jr. vai no automático, o que não é ruim na maioria dos momentos, mas prejudica a história em momentos-chave onde os sentimentos do personagem são postos à prova. Até onde me lembro, seu romance com Pepper Potts (Gwyneth Paltrow) era o elemento humano que deveria fazer alguma diferença em sua forma de ver a vida. Em sua terceira aventura, todos os elementos já explorados são quase inexistentes, e o que sobre é um Stark robótico até fora da armadura.

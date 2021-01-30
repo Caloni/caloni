@@ -1,7 +1,7 @@
 ---
 date: "2012-06-18"
 link: "https://www.imdb.com/title/tt0268126"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Adaptação"
 ---
 Apenas três anos após Charlie Kaufman surpreender o mundo do Cinema com [Quero ser John Malkovich], um dos roteiros mais originais de todos os tempos, temos o lançamento de seu próximo trabalho que coloca como protagonista ninguém nada menos do que... Charlie Kaufman! Apesar de isso aparentar uma auto-indulgência sem limites, é preciso lembrarmos de estarmos falando de uma versão insegura, tímida e menos talentosa de Charlie Kaufman (talvez o motivo dele ser interpretado por ninguém nada menos do que Nicholas Cage, em uma surpreendente atuação dupla).

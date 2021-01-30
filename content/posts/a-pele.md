@@ -1,7 +1,7 @@
 ---
 date: "2012-12-30"
 link: "https://www.imdb.com/title/tt0422295"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "A Pele"
 ---
 Quem é Diane Arbus? Com um objetivo um tanto curioso o filme de Steven Shainberg nos transporta em uma espécie de realidade alternativa onde a fotógrafa vivida por Nicole Kidman não só transfere sua inspiração e rédeas de seu processo criativo para o circense Lionel Sweeney (Robert Downey Jr.), que sofre de Hipertricose, o crescimento excessivo do pelo, como sugere que ele seria o (único) fruto da necessidade da artista de enfocar constantemente em seus trabalhos pessoas com algum tipo de deformação anti-natural.

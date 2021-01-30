@@ -1,7 +1,7 @@
 ---
 date: "2010-05-21"
 link: "https://www.imdb.com/title/tt0800320"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Fúria de Titãs"
 ---
 Fúria de Titãs busca ser uma superprodução sobre deuses e humanos, mas falha miseravelmente em sua abordagem 3D, especialmente em suas transições, onde um bebê no barco parece distorcido ou a aparência de Hades quando este aparece entre os humanos.

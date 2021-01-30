@@ -1,7 +1,7 @@
 ---
 date: "2013-08-23"
 link: "https://www.imdb.com/title/tt0109707"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Ed Wood"
 ---
 Talvez o fato do filme sobre Edward D. Wood Jr., o pior diretor de todos os tempos (eleito dois anos após sua morte), ser um dos melhores do diretor Tim Burton, acostumado a flertar com o gênero, seja algo inesperado, mas ainda assim propício para um tema tão metalinguístico. Além de ser a homenagem devida ao diretor trash mais cultuado de sua geração (ou talvez de toda a história do Cinema) o longa de Burton mergulha fundo na atmosfera dos filmes B, onde o fato de ser rodado em P&B ajuda, mas não é só: é fácil entrar nessa dimensão criada pelo diretor a partir de suas duas realidades. O diretor brinca com o gênero e ao mesmo tempo é um narrador onisciente de produções típicas. Isso torna muito difícil não adorá-lo como o filme que representa a esperança dos menos afortunados da indústria do Cinema, mas que nem por isso deixam de ser amantes incondicionais da Sétima Arte.

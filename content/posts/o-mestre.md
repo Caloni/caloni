@@ -1,7 +1,7 @@
 ---
 date: "2013-02-20"
 link: "https://www.imdb.com/title/tt1560747"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "O Mestre"
 ---
 Desde o início Freddie Quell (Joaquin Phoenix) é um animal não domesticado, obediente aos seus instintos mais primitivos e dotado de traços animalescos e infantis (como se divertir com peidos). Constatamos isso ainda pelo seu ritual de beber um quase veneno preparado por ele e brigar como um animal raivoso e enxergar sexo em qualquer lugar.

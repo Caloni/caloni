@@ -1,7 +1,7 @@
 ---
 date: "2020-04-05"
 link: "https://www.imdb.com/title/tt0140888"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Central do Brasil"
 ---
 Eu acho que não gosto muito desses filmes da retomada do cinema brasileiro. Prefiro as pornochanchadas, mais honestas, menos desconexas com a realidade. Esse filme estilizado ainda mantém um pé muito forte no "cinematográfico" de Hollywood, mas não apara as arestas de uma cópia do que considera ser cinematográfico (essa palavra no sentido de vendável lá fora).

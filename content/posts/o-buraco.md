@@ -1,7 +1,7 @@
 ---
 date: "2012-04-12"
 link: "https://www.imdb.com/title/tt0156610"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "O Buraco"
 ---
 O Buraco é muito mais sobre nossa posição como seres humanos e como nos relacionamos com ambientes e situações que quase sempre nos diz mais do que ela mesma. Após a descoberta de uma epidemia de um vírus que levava à loucura e à morte em uma região de Taiwan o governo ordena a retirada das pessoas e deixa o local em estado de quarentena. No entanto, vários moradores fazem questão ainda de sobreviver no bairro onde antes viviam normalmente, só que com o passar do tempo o estado mental e seu ânimo estavam muito diferentes do usual. O aparecimento de um vazamento no chão entre os apartamentos de um rapaz e uma moça, que vivem em torno de goteiras e vazamentos, representa não só o estado de calamidade do local como o próprio estado de espírito.

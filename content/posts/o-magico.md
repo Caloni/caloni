@@ -1,7 +1,7 @@
 ---
 date: "2010-10-27"
 link: "https://www.imdb.com/title/tt0775489"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "O Mágico"
 ---
 Esse é o novo longa de Sylvain Chomet, o mesmo diretor de [As Bicicletas de Belleville]. Foi baseado em um roteiro de Jacques Tati (do filme Meu Tio). Ou seja, temos aqui um roteiro de algo belo em sua pureza sendo dirigido por alguém com o controle nato do surreal. Não bom.

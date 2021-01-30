@@ -1,7 +1,7 @@
 ---
 date: "2020-09-26"
 link: "https://www.imdb.com/title/tt9616700"
-tags: [ "movies", "reviews", "cinemaqui" ]
+tags: [ "movies", "cinemaqui" ]
 title: "Adú"
 ---
 Adú mistura temas totalmente não-relacionados e ainda espera que o espectador imagine estar vendo um novo Babel, 21 Gramas ou Traffic, onde o drama dos personagens se cruzam e no final vira aquela mensagem de "estamos todos conectados". Infelizmente o máximo que ele consegue é nos fazer ver como o roteiro é mal feito.

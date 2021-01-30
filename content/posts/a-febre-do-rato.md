@@ -1,7 +1,7 @@
 ---
 date: "2012-08-03"
 link: "https://www.imdb.com/title/tt2200908"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "A Febre do Rato"
 ---
 Acredito que a maior virtude do filme de Cláudio Assis é conseguir, a despeito das cenas chocantes de cunho sexual, criar uma atmosfera tão natural para o desenvolvimento de seus personagens que é quase como se estivéssemos assistindo à própria vida real. Claro, em uma versão embalada no formato dos filmes revolucionários das décadas de 60 e 70 no Brasil, e que nunca viriam a público em sessões abertas. A vantagem de uma democracia é que podemos, hoje, entender a bandeira que esses filmes tentaram levantar no passado.

@@ -1,7 +1,7 @@
 ---
 date: "2010-04-04"
 link: "https://www.imdb.com/title/tt0490086"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Big Stan Arrebentando na Prisão"
 ---
 Se algumas pessoas possuem preconceitos (bobos) de não ver Rob Schneider atuar, o que diriam a respeito de um filme em que ele não apenas atua, como dirige!

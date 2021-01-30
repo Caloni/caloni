@@ -1,7 +1,7 @@
 ---
 date: "2012-09-24"
 link: "https://www.imdb.com/title/tt0095444"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Palhaços Assassinos do Espaço Sideral"
 ---
 Os irmãos Chiodo, hoje praticamente desconhecidos mas responsáveis por efeitos em filmes insólitos como Um Duende em Nova York, Team America e A Hora das Criaturas, fizeram este trabalho mais em um formato laboratório de ideias bizarras do que algo que de fato pudesse conter um enredo. O igualmente bizarro é que o resultado não é tão mal assim, ou, como alguns preferem dizer, é tão ruim que acaba ficando bom.

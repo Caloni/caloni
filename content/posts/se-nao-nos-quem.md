@@ -1,7 +1,7 @@
 ---
 date: "2011-11-17"
 link: "https://www.imdb.com/title/tt1671496"
-tags: [ "reviews", "movies" ]
+tags: ["movies" ]
 title: "Se Não Nós, Quem?"
 ---
 Na primeira cena do filme, vemos um gato comendo um filhote que põe o ninho muito baixo. Logo depois, um menino tenta esconder o gato. Na visão de seu pai, o gato é o judeu do mundo animal, e deve ser eliminado sem dó.

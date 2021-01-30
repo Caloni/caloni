@@ -1,7 +1,7 @@
 ---
 date: "2012-11-18"
 link: "https://www.imdb.com/title/tt1024648"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Argo"
 ---
 O início de Argo, terceiro trabalho de Ben Affleck atrás das câmeras, já mostra a que veio. Com uma sequência que envolve a invasão do consulado americano pela população Iraniana, revoltada pelo exílio de seu ex-ditador sanguinário pelos EUA, a tensão se estabelece como um ruído ensurdecedor em boa parte da projeção. A fotografia documental do filme, realista pelas cores fracas e grãos maiores, imediata pelos movimentos incessantes de câmera, consegue se fundir com imagens reais do acontecimento que de fato ocorreu no início da década de 80. A câmera, ao aplicar zooms nas pessoas envolvidas, aproxima o espectador do drama pessoal que se estabelece com esse evento quando descobrimos que seis refugiados poderão ser executados a qualquer momento se forem descobertos.

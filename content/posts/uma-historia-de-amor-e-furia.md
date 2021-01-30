@@ -1,7 +1,7 @@
 ---
 date: "2013-04-11"
 link: "https://www.imdb.com/title/tt2231208"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Uma História de Amor e Fúria"
 ---
 Um delírio técnico e estilístico que permite que vejamos nossa história como povo através da lente da dura e cruel realidade dos oprimidos, Uma História de Amor e Fúria estabelece desde o início seu tom fantasioso ao revelar a idade do narrador e protagonista envolvido em uma jornada de cerca de 600 anos através do passado e futuro do Brasil.

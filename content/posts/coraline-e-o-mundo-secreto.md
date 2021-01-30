@@ -1,7 +1,7 @@
 ---
 date: "2011-11-29"
 link: "https://www.imdb.com/title/tt0327597"
-tags: [ "reviews", "movies" ]
+tags: [ "movies" ]
 title: "Coraline e o Mundo Secreto"
 ---
 Existem filmes que encantam apenas pelo seus esforços periféricos (direção de arte, música, fotografia) e existem os que apenas chamam a atenção pelo seu desenvolvimento central (roteiro e direção). No caso de Coraline é difícil não ficar deslumbrado com o apuro técnico de todo um mundo criado e que ganhou movimento graças ao tradicional uso do stop motion, onde a ação é montada quadro-a-quadro. Além disso, é o primeiro filme desse estilo ao ser rodado em 3D, o que levanta alguns aspectos interessantes da sua narrativa, como o uso das agulhas.

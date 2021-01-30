@@ -1,7 +1,7 @@
 ---
 date: "2012-04-04"
 link: "https://www.imdb.com/title/tt1440266"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Pina"
 ---
 Nada como diretores como Wim Wenders e [Martin Scorsese] para resgatar a esperança do Cinema no 3D. Inicialmente usado para aumentar o rendimento das bilheterias e forçar o espectador a ir às salas ver algo que não poderia ver em sua própria casa, o 3D foi massacrado inúmeras vezes em seus primeiros anos, ou com brincadeiras adolescentes de jogar objetos na "cara" do espectador ou com as terríveis versões convertidas. Agora, aos poucos, diretores que conhecem Cinema em sua essência se arriscam a experimentar novos caminhos para a Sétima Arte, e quem ganha com isso obviamente somos nós, cinéfilos.

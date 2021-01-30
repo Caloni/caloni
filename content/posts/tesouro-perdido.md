@@ -1,7 +1,7 @@
 ---
 date: "2020-05-04"
 link: "https://www.imdb.com/title/tt0018478"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Tesouro Perdido"
 ---
 Este é o primeiro filme mudo p&b brasileiro que vejo. E é no mínimo uma confusão sofrível. Seu idealizador, Humberto Mauro, um self-made man, estudou engenharia elétrica e gostava dos mecanismos por trás da fotografia. Daí para o cinema foi um pulo. Ele consegue uma parceria e filma já em sua própria Terra Natal, lá em Minas. Um pioneiro do cinema nacional. Este é seu segundo longa, que conta uma história confusa sobre a herança de antepassados que esconderam dos brasileiros um tesouro da época da independência (eles tomaram partido dos portugueses), e agora que o pai do protagonista morre deixa um "roteiro" (assim era escrito) para o tal tesouro. Bandidos se interessam e começa o que seria uma aventura, com cavalo a galope, mortes e muita emoção com uma moral no final de que o verdadeiro tesouro é o amor.

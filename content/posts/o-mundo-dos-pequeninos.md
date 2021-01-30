@@ -1,7 +1,7 @@
 ---
 date: "2012-12-06"
 link: "https://www.imdb.com/title/tt1568921"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "O Mundo dos Pequeninos"
 ---
 Não é nenhuma novidade a virtuosidade técnica do estúdio de animação Ghibli, do diretor Hayao Miyazaki, que, entre outros, já produziu pequenas obras-primas como [A Viagem de Chihiro], [O Castelo Animado] e Princesa Mononoke (sem contar outros igualmente interessantes, como [Meu Amigo Totoro], [O Serviço de Entregas da Kiki] e [Ponyo - Uma Amizade que Veio do Mar]). Nesse sentido não é nenhuma novidade descobrir nesse primeiro trabalho de direção de Hiromasa Yonebayashi as mesmas características técnicas que tornaram os filmes do estúdio comparáveis à fábrica de sonhos de Walt Disney.

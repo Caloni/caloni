@@ -1,7 +1,7 @@
 ---
 date: "2013-07-13"
 link: "https://www.imdb.com/title/tt0770828"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "O Homem de Aço"
 ---
 "Nós vamos lutar até um de nós morrer." E obviamente é o que eles fazem. A falta de complexidade aliada à ação desenfreada chega a cansar, e o fato de tanto Zod (Michael Shannon) quanto Superman (Henry Cavill) partirem para a violência gratuita revela mais sobre o último do que sobre o primeiro, programado desde a concepção para guerrear pelo seu povo. Chega a ser um quase insulto que o filho do cientista Jor-El se limite a imitá-lo. Justo ele, que foi um bebê "concebido naturalmente", o que inteligentemente levanta algumas questões sobre livre-arbítrio que nunca são desenvolvidas. Não é sensato que o filme queira que odiemos Zod por ser uma pessoa que quer reconstruir seu povo, e nesse sentido ele falha como vilão temeroso que Zack Snyder parece acreditar que ele seja, mas podemos sim nos sentir frustrados pela aparente indecisão do Homem de Aço em confrontá-lo.

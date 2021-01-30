@@ -1,7 +1,7 @@
 ---
 date: "2012-12-12"
 link: "https://www.imdb.com/title/tt1764234"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "O Homem da Máfia"
 ---
 Esse é um ótimo filme sobre as ações e decisões de um grupo de mafiosos a respeito do destino do seu negócio de jogatina. Basicamente o que se coloca em jogo é a confiança dos donos dessas casas depois que um deles, Markie Trattman (Ray Liotta), rouba seu próprio negócio. O que o torna um filme excepcional é que essa manutenção da confiança no sistema ilegal de jogos de azar traça um paralelo direto com a crise econômica nos Estados Unidos iniciada em 2007 e que até hoje ecoa pelas casas vazias e massas de desempregados cheios de dívidas. A confiança no sistema financeiro também foi abalada naquele momento e algo teve que ser feito.

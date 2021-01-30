@@ -1,7 +1,7 @@
 ---
 date: "2012-01-03"
 link: "https://www.imdb.com/title/tt0381681"
-tags: [ "reviews", "movies" ]
+tags: [ "movies" ]
 title: "Antes do Pôr-do-Sol"
 ---
 A continuação do terno romance de um dia entre Jesse e Celine é assinada não apenas pelo diretor Richard Linklater, mas também pelos próprios atores Ethan Hawke e Julie Delpy, o que dá o tom de filme casual que tenta fechar um [arco iniciado] nove anos atrás, usando o mesmo espaço de tempo entre os lançamentos dos filmes. 

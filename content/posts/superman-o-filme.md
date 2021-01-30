@@ -1,7 +1,7 @@
 ---
 date: "2010-08-12"
 link: "https://www.imdb.com/title/tt0078346"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Superman: O Filme"
 ---
 Cercado de evocações épicas em seus quadros, no tom solene da partida de Krypton (protagonizada por ninguém menos que Marlon Brando) e até mesmo na fotografia dos diversos ambientes em que vemos o personagem-título, o fato é que "Superman: O Filme" funciona bem exatamente por tudo isso junto, ainda aliado às convincentes interpretações dos personagens, uniformes em suas representações do mundo fantasioso vivido pelo homem de aço, que estranhamente não soa piegas ou exagerado, mas possui o tom cartunesco corretíssimo para manter a lenda e ao mesmo tempo não se levar a sério demais.

@@ -1,7 +1,7 @@
 ---
 date: "2011-11-18"
 link: "https://www.imdb.com/title/tt1189073"
-tags: [ "reviews", "movies" ]
+tags: [ "movies" ]
 title: "A Pele que Habito"
 ---
 É fascinante acompanhar a carreira de um diretor habilidoso como Almodóvar. Ele possui aquela flexibilidade rara que permite que entre em qualquer projeto mantendo a sua marca, mas ao mesmo tempo contribuindo positivamente para a narrativa, sem torná-la autoral. Ou pelo menos tenta.

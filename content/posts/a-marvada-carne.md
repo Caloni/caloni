@@ -1,7 +1,7 @@
 ---
 date: "2012-04-24"
 link: "https://www.imdb.com/title/tt0138596"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "A Marvada Carne"
 ---
 É muito fácil assistir à Marvada Carne sem compreender o mínimo de subtexto em uma trama que de tão simples parece totalmente despretensiosa. No entanto, se engana quem imagina que existem filmes que estão aí apenas para entreter. Todo filme reflete necessariamente uma opinião, um argumento e um ponto de vista. Partindo desse princípio, podemos afirmar que A Marvada Carne não só contém muito mais do que aparenta ter em sua superfície como tristemente seu conteúdo carece de exemplos na recente filmografia da comédia nacional, que aposta na exploração sexual e nas piadas contemporâneas vazias.

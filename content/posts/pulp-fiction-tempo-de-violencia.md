@@ -1,7 +1,7 @@
 ---
 date: "2012-12-23"
 link: "https://www.imdb.com/title/tt0110912"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Pulp Fiction: Tempo de Violência"
 ---
 Segundo trabalho de Quentin Tarantino ([Cães de Aluguel], [Kill Bill]), Pulp Fiction é seu filme com o roteiro mais intenso, e talvez um dos melhores representantes do seu gênero no quesito introduzir perigosos criminosos em seu dia-a-dia.

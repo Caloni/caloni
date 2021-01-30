@@ -1,7 +1,7 @@
 ---
 date: "2012-10-25"
 link: "https://www.imdb.com/title/tt1835980"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Felicidade"
 ---
 Há uma introdução vigorosa e poderosa em Felicidade, novo trabalho da diretora Doris Dörrie ([Cerejeiras em Flor]). Sem diálogos e um jogo de sons e imagens extremamente econômicos em sua mensagem, acompanhamos a vida perfeita e feliz de Irina (Alba Rohrwacher) em seu país de origem seguido da tragédia que vem com a guerra, representada por um grupo impiedoso de soldados. O choque de realidades é intenso, mas em poucos momentos aliviado com a visão de um cervo, que representa não apenas a última visão de Irina e sua terra natal, mas a capacidade do filme de amenizar passagens fortes de sua história, uma virtude e ao mesmo tempo a sua maior fraqueza.

@@ -1,7 +1,7 @@
 ---
 date: "2013-09-26"
 link: "https://www.imdb.com/title/tt1457767"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Invocação do Mal"
 ---
 Diferente do que poderíamos imaginar, a direção precisa, acelerada e gore de James Wan em Jogos Mortais não apresenta comparações neste Invocação do Mal, que se insere no gênero de horror realizando pequenas homenagens de obras icônicas enquanto ensaia um estilo visual mais agradável ao público de hoje.

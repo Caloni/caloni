@@ -1,7 +1,7 @@
 ---
 date: "2011-12-10"
 link: "https://www.imdb.com/title/tt0103644"
-tags: [ "reviews", "movies" ]
+tags: [ "movies" ]
 title: "Aliens 3"
 ---
 Oito anos após [Aliens, o Resgate] (James Cameron), continuação do [filme original de Ridley Scott], o Cinema mais uma vez revisita esse universo, dessa vez pela visão do ainda inexperiente David Fincher (Seven, [Clube da Luta], [A Rede Social]), que não conseguiu enriquecê-lo à altura de seus antecessores, mas cria um drama que no mínimo aumenta um pouco nossa percepção a respeito da criatura.

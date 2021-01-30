@@ -1,7 +1,7 @@
 ---
 date: "2012-06-14"
 link: "https://www.imdb.com/title/tt0461770"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Encantada"
 ---
 Encantada inicia com um desenho de conto de fadas genérico, cuja introdução apenas serve para nos habituarmos com aquele mundo e a sua dinâmica. A largura da tela diminui sutilmente e faz-se a transição para o mundo real, mais amplo, na própria visão da princesa Giselle.

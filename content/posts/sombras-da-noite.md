@@ -1,7 +1,7 @@
 ---
 date: "2012-06-27"
 link: "https://www.imdb.com/title/tt1077368"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Sombras da Noite"
 ---
 Em minha cabeça há um filme muito bonito que reconstrói Drácula com um apuro técnico que apenas um diretor como Tim Burton poderia conceber com sua singular visão gótica do mundo. Se transportarmos esse mundo para os coloridos anos 70 teremos então um divertido e promissor choque cultural entre épocas separadas por nada menos do que duzentos anos.

@@ -1,7 +1,7 @@
 ---
 date: "2010-08-08"
 link: "https://www.imdb.com/title/tt1219342"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "A Lenda dos Guardiões"
 ---
 Mais um filme 3D que usa foco. Parece que ou a noção de ambiente tridimensional ainda não possui seu lugar no cinto de utilidades narrativas moderna ou a tentativa de economizar nas filmagens em 2D acaba por gerar o mesmo filme passado por dois filtros distintos.

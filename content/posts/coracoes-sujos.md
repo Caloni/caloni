@@ -1,7 +1,7 @@
 ---
 date: "2012-08-19"
 link: "https://www.imdb.com/title/tt1653653"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Corações Sujos"
 ---
 Quando fui apresentado no início do filme à história, a zona de tensão entre os imigrantes japoneses no Brasil ao final da WWII, pois muitos ainda acreditavam que a guerra havia sido ganha pelo lado nipônico, fiquei extremamente entusiasmado, principalmente por dois motivos: 1) se tratar de um primeiro movimento do Cinema Nacional de resgatar o passado histórico e exorcizar seus demônios e 2) pelo tratamento aparentemente dedicado da produção, que utiliza o japonês como idioma-base, desafiando uma realidade crescente de salas populares que priorizam a comodidade da dublagem em detrimento à mutilação da sétima arte.

@@ -1,7 +1,7 @@
 ---
 date: "2011-11-24"
 link: "https://www.imdb.com/title/tt1778304"
-tags: [ "reviews", "movies" ]
+tags: [ "movies" ]
 title: "Atividade Paranormal 3"
 ---
 Usando ainda a velha fórmula de câmeras caseiras que registram eventos aparentemente sobrenaturais, essa é a quarta edição de Atividade Paranormal, já que houve um spin-off [japonês], em contrapartida ao que houve na série Velozes e Furiosos; algo como A.P. : Desafio em Tóquio. Continua funcionando muito bem como terror ao gerar medo tanto pelas situações comuns pelos quais todos nós passamos (como a sensação de ter o cobertor puxado no meio da noite) quanto o caráter documental do filme, sem contar a tensão sempre crescente por estarmos, obviamente, aguardando por sustos. Este último ingrediente da série, aliás, chega a ser o tempero especial, pois os sustos geralmente são entregues aos poucos e de maneira caprichosa, o que acaba gerando mais tensão ainda para o grand finale.

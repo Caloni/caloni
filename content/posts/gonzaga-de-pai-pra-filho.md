@@ -1,7 +1,7 @@
 ---
 date: "2012-12-02"
 link: "https://www.imdb.com/title/tt2478746"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Gonzaga: De Pai pra Filho"
 ---
 "Gonzaga: De Pai pra Filho", do diretor Breno Silveira ([2 Filhos de Francisco], O Homem do Ano), possui aqueles temas emocionantes por natureza, sem maquiagens e pelo simples poder do Cinema de transformar o que já foi imaginado, lido e pensado. Vemos em som e diversas cores o ícone do sanfoneiro Luis Gonzaga, que trouxe, como bem diz o roteiro de Patrícia Andrade, "o sertão esquecido para o resto do Brasil". Há algo de mágico nos momentos que Breno Silveira escolhe compartilhar conosco; algo de solene, quase místico.

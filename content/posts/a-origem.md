@@ -1,7 +1,7 @@
 ---
 date: "2010-08-06"
 link: "https://www.imdb.com/title/tt1375666"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "A Origem"
 ---
 Christopher Nolan, tanto como diretor como roteirista, tem o dom de traduzir para o espectador as experiências de seus personagens na tela. Vimos isso em Amnésia com a montagem invertida fazendo o papel do protagonista que não consegue se lembrar o que estava fazendo cinco minutos atrás. Em O Grande Truque as trucagens do roteiro são tão ágeis que se assemelham a um número de mágica bem conduzido. E agora em A Origem participamos de um exercício narrativo que consegue unir todas as ideias modernas a respeito dos sonhos, mas que ao mesmo tempo se deixa levar pela metalinguagem e faz uma sutil homenagem ao próprio Cinema.

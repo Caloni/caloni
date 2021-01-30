@@ -1,7 +1,7 @@
 ---
 date: "2011-08-09"
 link: "https://www.imdb.com/title/tt0458339"
-tags: [ "reviews", "movies" ]
+tags: [ "movies" ]
 title: "Capitão América: O Primeiro Vingador"
 ---
 A Marvel parece que resolveu esquecer de vez a construção de histórias com profundidade dramática para dar vazão aos seus heróis secundários. O objetivo maior é o lançamento dos Vingadores, seu ambicioso projeto que exigiu a criação de diversos filmes, cada um retratando um personagem diferente que fará parte dessa equipe de super-heróis.

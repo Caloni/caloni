@@ -1,7 +1,7 @@
 ---
 date: "2012-10-03"
 link: "https://www.imdb.com/title/tt0052357"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Um Corpo Que Cai"
 ---
 No topo da lista de melhores filmes de todos os tempos, [Cidadão Kane], em 2012, deixa a respeitável posição para o suspense Um Corpo que Cai. É uma notícia que não muda em praticamente nada a importância da obra de Orson Welles para o Cinema, mas altera a percepção do espectador médio para com a Sétima Arte. Se antes as pessoas não enxergavam como que fosse possível que um filme preto e branco recheado de diálogos e múltiplos pontos de vista, uma bagunça, enfim, pudesse ser considerada a obra máxima audiovisual, com o filme de Hitchcock as coisas ficam um pouco mais fáceis.

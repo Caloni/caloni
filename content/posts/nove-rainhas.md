@@ -1,7 +1,7 @@
 ---
 date: "2012-11-18"
 link: "https://www.imdb.com/title/tt0247586"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Nove Rainhas"
 ---
 Conheci esse filme através do seu clone norte-americano, Criminal, de 2004 (também conhecido como 171). Havia achado um roteiro incrível, principalmente pela sua capacidade de enganar o espectador durante tanto tempo. Nas minhas lembranças dos idos de 2005 o ato final continua sendo tão sensacional quanto seu original argentino. Porém, ao assistir à versão portenha é preciso tirar o chapéu: um ótimo roteiro com uma direção calma, precisa e cirúrgica conseguem deixar o remake no chinelo, se transformando em uma verdadeira ode aos engana-trouxas de todos os tempos.

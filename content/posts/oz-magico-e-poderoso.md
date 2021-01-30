@@ -1,7 +1,7 @@
 ---
 date: "2013-03-14"
 link: "https://www.imdb.com/title/tt1623205"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Oz: Mágico e Poderoso"
 ---
 A visão em preto e branco em uma tela quadrada de Kansas nos revela um lugar com pouco lugar para imaginação. Isso não impede que Oscar (James Franco), um mágico em um circo itinerante, apresente seus espetáculos como shows inesquecíveis para o público. Isso gera uma crença descomunal do povo, que acha que o homem é capaz de realizar milagres. Por não pertencer a esse mundo, sua fuga o leva literalmente a outro: um fabuloso, colorido e dentro de uma ampla tela. É assim que o diretor Sam Raimi (trilogia Homem Aranha) quer que vejamos Oz, uma terra verdadeiramente mágica.

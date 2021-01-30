@@ -1,7 +1,7 @@
 ---
 date: "2012-08-01"
 link: "https://www.imdb.com/title/tt0345950"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Bob Esponja: O Filme"
 ---
 Bobinho, mas divertido. Possui lição de moral e elementos já manjados da própria série. Hoje assistindo pela quarta (quinta?) vez vejo que no fundo é um episódio expandido, e não possui pretensões muito... cinematográficas. Mas, dizer o quê de uma esponja quadrada que fala e seu amigo estrela-do-mar de bermuda? Ainda acho mais divertido que os Rugrats.

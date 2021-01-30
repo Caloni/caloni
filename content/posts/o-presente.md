@@ -1,7 +1,7 @@
 ---
 date: "2013-01-06"
 link: "https://www.imdb.com/title/tt0482629"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "O Presente"
 ---
 O filme baseado no livro homônimo de Jim Stovall, escritor cego engajado em trabalhos para deficientes, claramente tenta passar uma mensagem de caridade para com os mais necessitados. Para isso, contudo, se esquece de estabelecer uma relação afetiva com seus personagens e acaba resumindo uma sequência de eventos simbólicos que forçam a emoção do espectador.

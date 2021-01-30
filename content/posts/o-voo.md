@@ -1,7 +1,7 @@
 ---
 date: "2013-02-10"
 link: "https://www.imdb.com/title/tt1907668"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "O Voo"
 ---
 No início do drama intimista somos apresentados a Whip Whitaker, um piloto "old-timer" que pilota um avião comercial com 102 pessoas a bordo como quem dirige um carro. Só que seu próximo voo apresentaria um defeito mecânico que o deixaria na mão. Utilizando seu instinto e habilidade, decide girar o avião de cabeça para baixo e com isso ganha impulso o suficiente para um pouso forçado em campo aberto, sendo obstruído apenas, que ironia, por uma torre de igreja. A sequência é arrebatadora por sua dramaticidade e impacto visual de um acidente em tempo real acontecendo diante de nós. Não é um espetáculo visual, mas um drama visceral ocorrendo no ar. Quando tudo termina, o resultado frio e matemático é de 6 mortes.

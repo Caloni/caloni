@@ -1,7 +1,7 @@
 ---
 date: "2012-11-02"
 link: "https://www.imdb.com/title/tt1665412"
-tags: [ "movies", "reviews" ]
+tags: [ "movies" ]
 title: "Hot Hot Hot"
 ---
 A maior virtude criativa de Hot Hot Hot, primeiro longa do cineasta Beryl Koltz, é abordar o arco dramático de Ferdinand (Rob Stanley) do ponto de vista de um pequeno peixe e o seu processo migratório das águas frias de um aquário solitário para o ambiente quente - no sentido sexual e térmico - de uma sauna e a sua tão peculiar fauna.
