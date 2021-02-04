@@ -1,8 +1,8 @@
 ---
 date: "2013-11-08"
 link: "https://www.imdb.com/title/tt0095088"
-tags: [ "draft", "movies" ]
-title: "Elvira A Rainha das Trevas"
+tags: [ "movies" ]
+title: "Elvira, a Rainha das Trevas"
 ---
 Aquela comédia sessão da tarde, leve e despretensiosa, que consegue ser digerida passo-a-passo sem maiores problemas. Esse modo inofensivo de Elvira é provavelmente seu ponto mais fraco.
 
@@ -11,4 +11,3 @@ Iniciando com a personagem-título (Cassandra Peterson) apresentando filmes tras
 Porém, disse "sexual" sem a devida proporção. Essa é uma sessão matinê com censura livre. Desafiar a moral vigente daquele vilarejo é tão somente exibir seu generoso decote e dizer o que pensa. Digamos que para um divertimento leve há cenas picantes o suficiente.
 
 É nessa gana de obter dinheiro e sucesso que a apresentadora de filmes ruins acaba fazendo parte de um. Essa ironia, ainda que tímida, é o que torna Elvira um espécime pelo menos interessante.
-
