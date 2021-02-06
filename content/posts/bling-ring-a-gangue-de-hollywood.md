@@ -1,8 +1,8 @@
 ---
 date: "2014-01-02"
 link: "https://www.imdb.com/title/tt2132285"
-tags: [ "draft", "movies" ]
-title: "Bling Ring A Gangue de Hollywood"
+tags: [ "movies" ]
+title: "Bling Ring: A Gangue de Hollywood"
 ---
 O mundo é materialista e não há nada de errado nisso. Somos feitos de matéria e a matéria circula por nossos poros. Não há nada mais que matéria, ainda que esforços descomunais da mente tentem imaginar algo mágico saindo por detrás de nossas cabeças. Entre esses esforços, a tal da "fama".
 

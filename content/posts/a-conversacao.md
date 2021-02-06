@@ -1,7 +1,7 @@
 ---
 date: "2013-11-16"
 link: "https://www.imdb.com/title/tt0071360"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "A Conversação"
 ---
 Geralmente quando o Cinema se volta para si mesmo (rendendo boa parte das vezes filmes memoráveis) ele nunca pensa em descrever como o som é importante. Direção, atores, fotografia, trilha sonora, tudo isso parece relevante para o público médio. Mas o som, esse pobre coitado, é renegado à posição de "quanto mais invisível, melhor".
@@ -12,5 +12,4 @@ Harry realiza seu trabalho mais impressionante, e o filme começa presenciando i
 
 A fascinação que surge diante de um profissional desses apenas rivaliza com sua obsessão em permanecer anônimo. Seus clientes geralmente lhe pedem escutas de conversas reveladoras apenas para eles, cujo conteúdo Harry solenemente e profissionalmente ignora. Ciente do perigo que é para as pessoas em sua volta, vive uma rotina métódica de fantasma. Não tem telefone, não tem amigos, e sua companheira não sabe onde ele mora e o que faz. Tudo isso vamos descobrindo apenas acompanhando os passos desse homem calado. Para quem analisa tão profundamente os efeitos do som no ambiente Harry é alguém que não interfere nesse mesmo ambiente.
 
-Sua vida parecia inerte por anos, até que suas dúvidas a respeito de que seus atos podem estar prejudicando seriamente a vida do casal que escutou o faz repensar seus atos. Sua moral religiosa também faz parte do repertório de métodos para não enlouquecer sozinho. Suas decisões a partir daí também são silenciosas. Conforme seu mundo vai mudando, percebemos seu desmoronamento apenas em seu olhar e seu jeito de andar. Todo o resto fica por conta dos sons ao redor. Que trabalho mais fascinante o de trabalhar com ecos invisíveis!
-
+Sua vida parecia inerte por anos, até que suas dúvidas a respeito das consequências de seu último trabalho o faz repensar seus atos. Sua moral religiosa também faz parte do repertório de métodos para não enlouquecer sozinho. Suas decisões a partir daí também são silenciosas. Conforme seu mundo vai mudando, percebemos seu desmoronamento apenas em seu olhar e seu jeito de andar. Todo o resto fica por conta dos sons ao redor. Que trabalho mais fascinante o de trabalhar com ecos invisíveis!
