@@ -1,7 +1,7 @@
 ---
 date: "2014-02-07"
 link: "https://www.imdb.com/title/tt0118715"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Grande Lebowski"
 ---
 Um filme é basicamente contar uma história. A forma como você conta é que pode fazer toda a diferença entre um pedaço inútil de película (ou bits) ou um grande filme que, faça rir, faça chorar, mas, principalmente, faça pensar.

@@ -1,7 +1,7 @@
 ---
 date: "2014-01-19"
 link: "https://www.imdb.com/title/tt0484111"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Sonhando Acordado"
 ---
 Martin Freeman, da saga do Hobbit e do novo Watson, também consegue fazer um drama, ainda que hilário. Aqui ele vive um músico tão frustrado com seu emprego e namorada ( Gwyneth Paltrow, quem não estaria). Tentando encontrar algo de bom na vida quando está dormindo, compartilha seus sonhos com a estonteante Anna (Penélope Cruz), uma figura diametralmente oposta a seu próprio ego.

@@ -1,8 +1,8 @@
 ---
 date: "2014-01-29"
 link: "https://www.imdb.com/title/tt0125659"
-tags: [ "draft", "movies" ]
-title: "Abra os Olhos"
+tags: [ "movies" ]
+title: "Preso na Escuridão (aka Abra os Olhos)"
 ---
 Acabei de ver o original de Vanilla Sky, aquele com o Tom Cruise correndo como um louco. Uma produção espanhola/italiana/francesa, o filme de 1997 conta também com a participação de Penélope Cruz como Sofia, mas diferente do tom experimental em 2001 dado pelo diretor Cameron Crowe (Jerry Maguire - A Grande Virada), a direção madura de Alejandro Amenábar (Os Outros), por incrível que pareça, transforma completamente a narrativa de dois filmes que foram filmados praticamente quadro a quadro.
 
