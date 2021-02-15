@@ -1,7 +1,7 @@
 ---
 date: "2014-03-04"
 link: "https://www.imdb.com/title/tt0043778"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Homem do Planeta X"
 ---
 Esse é um trash dos anos 50 no sentido mais típico da palavra. Tentando criar uma atmosfera de tensão ao incluir um alienígena cujas intenções não são conhecidas em torno de homens com objetivos bem distintos entre eles, um repórter, um cientista e um ganancioso, O Homem do Planeta X se esquece de incluir também explicações mais verossímeis para sua história, mesmo se tratando de uma época onde a ingenuidade reinava no Cinema.

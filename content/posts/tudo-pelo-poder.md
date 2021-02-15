@@ -4,7 +4,7 @@ link: "https://www.imdb.com/title/tt1124035"
 tags: ["movies" ]
 title: "Tudo pelo Poder"
 ---
-Geralmente filmes que tentam revelar os bastidores da política soam pretenciosos e bobinhos em suas conjecturas infantis e roteiros confusos e incompletos. Esse não é o caso de Tudo Pelo Poder, que consegue, de maneira didática e assustadora, revelar muito mais sobre o pano de fundo de influências do que gostaríamos de saber ou de admitir.
+Geralmente filmes que tentam revelar os bastidores da política soam pretensiosos e bobinhos em suas conjecturas infantis e roteiros confusos e incompletos. Esse não é o caso de Tudo Pelo Poder, que consegue, de maneira didática e assustadora, revelar muito mais sobre o pano de fundo de influências do que gostaríamos de saber ou de admitir.
 
 Nesse sentido, e apesar de textos muitas vezes necessariamente longos, a direção concisa de George Clooney revela de maneira brilhante as inúmeras subtramas no contexto do poder e como ele vira mercadoria negociável, independente das aspirações ou princípios dos candidatos à presidência. Aliás, o próprio caráter das pessoas envolvidas, mesmo que aparente, vira moeda de influência que possibilita, por exemplo, que figuras competentes da propaganda como Stephen Meyers (Ryan Gosling) confiem e arquitetem de maneira impecável cada próximo movimento de seu candidado, no caso o governador Mike Morris (George Clooney), justamente pela esperança que seus discursos representam para uma nação que depois da crise terrorista e posteriormente econômica anseia quase que desesperadamente.
 

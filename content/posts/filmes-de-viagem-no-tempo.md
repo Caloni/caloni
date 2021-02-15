@@ -16,7 +16,7 @@ A continuação do universo criado no primeiro filme recebe um upgrade temático
 
 Para os que gostam de paradoxos este é de cair o queixo, além de conter uma ótima trama niilista em seu núcleo narrativo. Preste atenção aos detalhes.
 
-Um filme de perseguição despretencioso, mas tão bem amarrado em sua névoa política que acaba divertindo fazendo pensar.
+Um filme de perseguição despretensioso, mas tão bem amarrado em sua névoa política que acaba divertindo fazendo pensar.
 
 Mais um daqueles filmes que nos faz pensar em possibilidades. Este aqui tem um elenco-mirim de primeira categoria, e só é sabotado pela falta de profundidade do ator Ashton Kutcher.
 

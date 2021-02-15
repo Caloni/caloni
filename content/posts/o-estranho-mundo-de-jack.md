@@ -1,7 +1,7 @@
 ---
 date: "2014-03-02"
 link: "https://www.imdb.com/title/tt0107688"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Estranho Mundo de Jack"
 ---
 O diretor Henry Selick já tem seu lugar de destaque nas animações por produzir com sua equipe trabalhos com tanto esmero quanto Coraline e o Mundo Secreto e este O Estranho Mundo de Jack. Bancado por Tim Burton, cujos projetos góticos possuem total similaridade com ambos os filmes, Selick em 93 já investia no que seria quase que um renascimento da arte stop-motion nos cinemas, de onde surgiriam ótimos trabalhos como A Noiva-Cadáver (esse sim dirigido por Tim Burton) e atingiria seu ápice em Mary e Max (Adam Elliot, 2009).

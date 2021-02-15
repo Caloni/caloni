@@ -1,8 +1,8 @@
 ---
 date: "2014-03-06"
 link: "https://www.imdb.com/title/tt0084516"
-tags: [ "draft", "movies" ]
-title: "Poltergeist O Fenômeno"
+tags: [ "movies" ]
+title: "Poltergeist: O Fenômeno"
 ---
 Um terror produzido e roteirizado em parte por Steven Spielberg não poderia ser lá muito assustador. Chega a ser até um pouco engraçado, como na cena inicial com dois controles remotos que controlam a mesma televisão. Porém, diferente de metade dos terrores produzidos antigamente e hoje em dia, pelo menos é coeso e tenta puxar um pouco mais o espectador.
 

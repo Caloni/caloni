@@ -1,7 +1,7 @@
 ---
 date: "2014-02-15"
 link: "https://www.imdb.com/title/tt2023587"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Mama"
 ---
 Mama, além de ter premissas ruins, nem filme de terror é. "Inspirado" pelo curta homônimo de 2008 do próprio Andrés Muschietti, o diretor recebe visibilidade através de Guillermo del Toro (O Labirinto do Fauno), que assina a produção. A história gira em torno de duas meninas que ficam abandonadas em uma cabana na floresta por cinco anos após terem sido raptadas pelo pai que por sua vez é capturado por uma espécie de assombração. Tendo um descartável irmão gêmeo do pai das meninas para restabelecer o elo com a casa onde moravam e sua namorada (Jessica Chastain) que fica aliviada por não estar grávida, mas vira alvo de ciúmes da já citada assombração que (oh!) se revela como um fantasma de uma mãe que perdeu seu filho.

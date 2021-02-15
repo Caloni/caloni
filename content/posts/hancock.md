@@ -4,7 +4,7 @@ link: "https://www.imdb.com/title/tt0448157"
 tags: [ "draft", "movies" ]
 title: "Hancock"
 ---
-Imagine que existe um super-herói que não gosta que lhe chamem de "asshole" (idiota na legenda brasileira, mas em inglês um xingamento que remete ao orifício anal). A maneira mais comum dele ameaçar quem lhe incomoda é enfiar a cabeça de um no orifício anal do outro. Achou engraçado? Se sim, esse é um filme de ação que você não pode perder. Se não, então talvez seja melhor assistir um filme da Marvel menos pretencioso (já viu Guardiões da Galáxia?).
+Imagine que existe um super-herói que não gosta que lhe chamem de "asshole" (idiota na legenda brasileira, mas em inglês um xingamento que remete ao orifício anal). A maneira mais comum dele ameaçar quem lhe incomoda é enfiar a cabeça de um no orifício anal do outro. Achou engraçado? Se sim, esse é um filme de ação que você não pode perder. Se não, então talvez seja melhor assistir um filme da Marvel menos pretensioso (já viu Guardiões da Galáxia?).
 
 O que poderia muito bem ser um projeto de Adam Sandler (desconfio que ele esteja envolvido de alguma forma) acaba ganhando alguém com um ego maior ainda: Will Smith. Fala sério: você já imaginava que isso iria acontecer, mais cedo ou mais tarde. Smith, acostumado a papéis em que ele se sacrifica pelos outros e possui uma culpa incomensurável (Sete Vidas), agora em sua versão com o sub-gênero mais popular atualmente.
 

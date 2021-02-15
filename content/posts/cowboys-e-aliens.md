@@ -16,7 +16,7 @@ Já pulando para o "gênero ET", é interessante notar sua constituição em tor
 
 (Igualmente interessante é sua nave-mãe, que coincidentemente lembra nossos foguetes que irão existir daqui a duas centenas de anos.)
 
-É verdade que o filme empolga no final, e eventualmente diverte. Porém, o método burocrático de proteger ambos os gêneros talvez tenha travado o humor, por exemplo, que costuma ocorrer nos diálogos inspirados dos [clássicos de Sergio Leone], ou até os menos pretenciosos exemplos de Western-Spaguetti.
+É verdade que o filme empolga no final, e eventualmente diverte. Porém, o método burocrático de proteger ambos os gêneros talvez tenha travado o humor, por exemplo, que costuma ocorrer nos diálogos inspirados dos [clássicos de Sergio Leone], ou até os menos pretensiosos exemplos de Western-Spaguetti.
 
 [Homem de Ferro]: /homem-de-ferro
 [clássicos de Sergio Leone]: /tres-homens-em-conflito
