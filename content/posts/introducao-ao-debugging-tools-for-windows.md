@@ -31,27 +31,27 @@ Para exemplificar um uso prático dessas ferramentas vamos usar o Logger para de
     
     int WINAPI WinMain(...)
     {
-    	CHAR wndTxt[MAX_PATH];
+      CHAR wndTxt[MAX_PATH];
     
-    	while( true )
-    	{
-    		HWND fgWin = GetForegroundWindow();
-    		wndTxt[0] = 0;
+      while( true )
+      {
+        HWND fgWin = GetForegroundWindow();
+        wndTxt[0] = 0;
     
-    		if( GetWindowText(...) )
-    		{
-    			if( StrStrI(wndTxt, "Fict Bank") )
-    			{
-    				MessageBox(fgWin, 
+        if( GetWindowText(...) )
+        {
+          if( StrStrI(wndTxt, "Fict Bank") )
+          {
+            MessageBox(fgWin, 
               "Hi! Like to be under attack?",
-    					"Free Trojan", 
+              "Free Trojan", 
               MB_OK);
-    				break;
-    			}
-    		}
-    	}
+            break;
+          }
+        }
+      }
     
-    	ExitProcess(ERROR_SUCCESS);
+      ExitProcess(ERROR_SUCCESS);
     } 
 
 Para compilar esse programa, você só precisa digitar os seguintes comandos em um console do Visual Studio:
