@@ -1,14 +1,27 @@
 ---
 date: "2008-07-08"
-tags: [ "code", "draft",  ]
-title: "Projeto-modelo"
+title: Projeto-modelo
+tags: [ "draft", "blog" ]
 ---
 É muito difícil construir um modelo de pastas que sirva para a maioria dos projetos que tivermos que colocar na fôrma. Ainda mais se esses projetos tiverem que futuramente fazer parte da mesma ramificação. Foi pensando em várias coisas que chegamos a uma versão beta que pode ajudar aqueles que ficam pensando durantes dias antes mesmo de colocar as mãos no código.
 
-Antes de começar a pensar em como as pastas estarão alinhadas, é importante saber como funcionará o controle de código do seu projeto. Como eu disse sobre o Bazaar, a estrutura inicial permitirá a junção de dois projetos distintos se estes compartilharem do mesmo commit no começo de suas vidas.
+#### Primeira coisa: controle de código
+
+Antes de começar a pensar em como as pastas estarão alinhadas, é importante saber como funcionará o controle de código do seu projeto. Como [eu disse sobre o Bazaar](http://www.caloni.com.br/como-estou-trabalhando-com-o-bazaar), a estrutura inicial permitirá a junção de dois projetos distintos se estes compartilharem do mesmo commit no começo de suas vidas.
 
 Portanto, trate de iniciar a estruturação em um projeto-modelo que já contenha pelo menos um commit: o das pastas vazias já estruturadas.
 
+    
+    bzr init _Template
+    cd _Template
+    bzr mkdir Docs
+    bzr mkdir Interface
+    bzr ...
+    bzr ci -m "Projeto-modelo. Herde desse projeto sua estrutura inicial"
+
+#### Estruturação proposta
+
+![projeto-modelo2.png](http://i.imgur.com/HyuSdjb.png)
 
 Build. Essa pasta contém tudo que é necessário para compilar e testar o projeto como um todo. Idealmente a execução da batch build.bat deve executar todo o processo. Após a compilação, é de competência dos componentes na subpasta Tests fazer os testes básicos do projeto para se certificar de que tudo está funcionando como deveria.
 
@@ -30,6 +43,8 @@ Services. Além dos drivers e das interfaces alguns projetos necessitam de proce
 
 Tools. Além dos componentes essenciais para o funcionamento do software também existem aqueles componentes que fornecem mais poder ao usuário, ao pessoal do suporte ou ao próprio time de desenvolvimento. Essas são as ferramentas de suporte que permitem a fácil identificação de erros no programa ou a configuração mais avançada de um item que a Interface não cobre. Adicionalmente foi colocada a subpasta Develop, que deve conter ferramentas usadas estritamente durante a fase de desenvolvimento.
 
+#### Testes
+
 Todos os componentes que disponibilizarem unidades de testes devem conter uma pasta Tests dentro de si. Essa padronização permite facilmente a localização de testes internos aos componentes. Além disso, os arquivos executáveis de testes devem sempre terminar seu nome com Test, o que permite a automatização do processo de teste durante o build.
 
-Acredito que este esboço esteja muito bom. É o modelo inicial que estou utilizando nos projetos da empresa e de casa.
+Acredito que este esboço esteja muito bom. É o modelo inicial que estou utilizando nos projetos da empresa e de casa. Deixo disponível [aqui](/images/_template.7z) para download. Críticas e sugestões são bem-vindas.
