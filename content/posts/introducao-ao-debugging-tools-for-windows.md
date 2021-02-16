@@ -7,7 +7,7 @@ O WinDbg é uma ferramenta obrigatória em uma das minhas mais divertidas tarefa
 
 Abaixo um esboço de como o WinDbg se parece, com suas principais janelas. A de comandos é a da direita.
 
-![](/img/windbg.png)
+![Imagem ilustrativa das janelas do Windbg](/img/windbg.png)
 
 Ele não está limitado apenas para engenharia reversa de código malévolo. Esse é o uso que eu faço dele. Meu amigo Thiago, por exemplo, resolve problemas em servidores que rodam código gerenciado com WinDbg. É a maneira ideal de depurar um problema em uma máquina onde o ambiente de desenvolvimento não está disponível nem pode ser instalado. Outro ponto relevante é que ele não depura apenas um programa em particular, mas pode ser usado para depurar um sistema inteiro. Chamado de kernel debugging, podemos usar esse modo de funcionamento para resolver os problemas que surgem logo depois de espetar algum periférico novo comprado na Santa Ifigênia.
 
