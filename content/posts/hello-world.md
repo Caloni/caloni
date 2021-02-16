@@ -1,11 +1,11 @@
 ---
 date: "2007-06-15"
-tags: [ "draft",  ]
+tags: [ "blog" ]
 title: "O bom filho à casa retorna"
 ---
 Depois de seis meses blogueando em um novo domínio, que seria totalmente focado em C++, descobri que não consigo viver escrevendo apenas sobre a linguagem em que programo. Não é que falte assunto. Simplesmente meu dia-a-dia nunca se resume apenas em regras de sintaxe e erros de compilação.
 
-Por outro lado, aprendi muitas coisas novas desde o começo desse ano. Decorei novos comandos do Windbg, novos atalhos no Google Reader. E fiz outras tantas coisas novas também. Projetei um sistema de comunicação entre processos - versão alfa, tudo bem, mas projetei. Decifrei o formato do banco de dados do dicionário Houaiss para poder usá-lo no Babylon. E por aí vai.
+Por outro lado, aprendi muitas coisas novas desde o começo desse ano. Decorei novos comandos do Windbg, novos atalhos no Google Reader. E fiz outras tantas coisas novas também. Projetei um sistema de comunicação entre processos -- versão alfa, tudo bem, mas projetei. Decifrei o formato do banco de dados do dicionário Houaiss para poder usá-lo no Babylon. E por aí vai.
 
 E por falar em escovação de bits, apresentei mais duas vezes aquela palestra sobre engenharia reversa. O curioso é que, em vez de eu aumentar o conteúdo da transparência, eu diminuo. Talvez isso seja uma ingênua tentativa de tornar a apresentação menos enfadonha e mais interessante para o público em geral, por mais leigos que eles sejam. Nessa última versão (3.0) cheguei a explicar o processo de análise dos cavalos de tróia dentro da Open Security, desde a descoberta da ameaça até a implementação da cura.
 
