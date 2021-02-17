@@ -1,7 +1,7 @@
 ---
 date: "2014-04-05"
 link: "https://www.imdb.com/title/tt0961097"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Um Monstro em Paris"
 ---
 Uma animação francesa de alta qualidade em sua direção de arte, movimento dos personagens e números musicais que são bonitinhos por natureza, mas às vezes parecem mal trabalhados pela artificialidade do ritmo (talvez uma câmera aqui e ali resolvessem, mas a maioria dos números insiste em se manter na visão da plateia). É uma história batida a respeito de um monstro que surge na cidade de Paris na época em que ela abrigava ninguém menos que George Méliès, o mago da arte cinematográfica que tinha acabado de nascer e que foi homenageado recentemente no arranca-lágrimas Hugo Cabret.
