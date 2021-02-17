@@ -1,6 +1,6 @@
 ---
 date: "2007-06-26"
-tags: [ "blog" ]
+tags: [ "code" ]
 title: "História do Windows - parte 1.0"
 ---
 Devido à grande procura através de mecanismos de busca (vulgo Google), estarei republicando esse artigo dividido em partes (até porque existem partes não acabadas), cada parte descrevendo um conceito geral do que representou cada versão do sistema operacional. Bem-vindos ao [História do Windows].
@@ -20,6 +20,8 @@ Um produto chamado Top View fora lançado pela IBM em fevereiro de 1985, baseado
 Antes do lançamento do Windows, advogados da Apple alertavam sobre a possibilidade do sistema infringir os direitos e patentes que a empresa tinha sobre as características da sua interface gráfica, a LISA (janelas com barra de título, menus drop-downs, suporte a mouse, etc). Daí o fundador da Microsoft, Bill Gates, teve a idéia brilhante de firmar um contrato de licença com a Apple, dando-lhe o direito de incluir em todas as futuras versões do Windows e programas os conceitos de GUI adquiridos pelo sistema gráfico da Apple (isso antes do Windows ser lançado).
 
 Finalmente, em 20 de novembro de 1985, a Microsoft lança o Windows 1.0, quase dois anos depois da promessa inicial. Foi vendido inicialmente por 100 USD. Continha em seu pacote: MS-DOS Executive, Calendar, Cardfile, Notepad, Terminal, Calculator, Clock, Reversi, Control Panel, PIF (Program Information File) Editor, Print Spooler, Clipboard, RAMDrive, Windows Write e Windows Paint.
+
+![Windows 1.0](/img/windows1.png)
 
 O novo sistema não fez muito sucesso de imediato. Pelo contrário, foi considerado lento e primitivo. Devido às limitações impostas pela Apple o sistema não pôde apresentar certas características como a sobreposição de janelas e a famosa lixeira (um conceito proprietário da Apple). Ficou cerca de dois anos boiando no mercado até que foi lançado um produto chamado Aldus PageMaker 1.0. PageMaker foi o primeiro programa WYSIWYG (What You Seee Is What You Get) para o PC. Tinha a grande novidade de juntar tipos e gráficos no mesmo documento. Depois de um ano, a Microsoft lança uma planilha de cálculos chamada Excel. Mais tarde outros produtos como Microsoft Word e Corel Draw ajudaram a aumentar a popularidade do Windows, embora esse ainda precisasse de muitas melhoras.
 

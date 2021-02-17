@@ -1,6 +1,6 @@
 ---
 date: "2007-07-04"
-tags: [ "draft" ]
+tags: [ "code" ]
 title: "História do Windows - parte 2.0"
 ---
 > Eu seu, eu sei. A maioria dos meus leitores odiou o tema [História do Windows] na era paleozóica. Porém, como eu disse na parte 1.0, estou apenas satisfazendo a outra parte de leitores que procurou no Google por esse tema e acabou caindo no meu antigo blog. Mas vejamos o lado bom: a partir da próxima versão iremos destrinchar a API do sistema, entendendo o porquê das coisas serem como elas são. No momento os deixo apenas com história, pois é desconhecido para mim como funcionavam os primeiros rabiscos do MS-DOS Shell, mais conhecido como Windows/386. Bom divertimento!
@@ -16,6 +16,8 @@ Uma outra frase resume o caminho trilhado pela empresa a partir de então:
 > "Microsoft become the top software vendor in 1988 and never looked back..." - Microsoft
 
 Com o advento dos novos lançamentos da Intel, os processadores 80286 e 80386, o Windows acabou sendo atualizado duas vezes para aproveitar as novas características dos dois sistemas. E assim nasceram as versões 2.1.x do Windows, respectivamente conhecidas como Windows/286 e Windows/386.
+
+![Windows 2.0](/img/windows2.jpg)
 
 A próxima versão do Windows é que vai alavancar as vendas da Microsoft de uma vez por todas. Veremos que boa parte da API que usamos hoje em dia já existia no Windows 3.0, e boa parte das peculiaridades que nos perseguem até hoje.
 

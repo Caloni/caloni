@@ -1,4 +1,3 @@
 cmake_minimum_required(VERSION 3.16)
 project (samples)
-add_executable(samples)
-target_sources(samples PRIVATE espiral.c)
+add_executable(samples WIN32 hellowin.c)
