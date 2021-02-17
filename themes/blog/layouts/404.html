@@ -1,25 +1,28 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
 
+  {{ $summary := false }}
+  {{ range .Site.Params.external }}
+      {{ if in $.Params.tags .tag }}
+        {{ $summary = .summaryOnly }}
+      {{ end }}
+  {{ end }}
+
   {{ partial "head.html" . }}
 
-  <body>
+  <body style="min-height:100vh;display:flex;flex-direction:column">
 
-    <section class="hero is-dark is-fullheight">
-      <div class="hero-body">
-        <div class="container">
-          <a href="{{ .Site.BaseURL }}">
-            <p class="title">
-              Opa, essa página não foi encontrada.
-            </p>
-            <p class="subtitle">
-              Não quer fazer uma <u><a href="/posts">busca</a></u>? Às vezes eu mexo e remexo as coisas por aqui.
-            </p>
-          </a>
-        </div>
+    {{ partialCached "navbar.html" . }}
+
+      <!-- Content -->
+      <div class="container">
+        <p class="title">Opa, essa página não foi encontrada.</p>
+          <div class="content">
+            <p>Não quer fazer uma <a href="/posts">busca</a>? Às vezes eu mexo e remexo as coisas por aqui.</p>
+          </div>
       </div>
-    </section>
 
+    {{ partial "footer.html" . }}
   </body>
 
 </html>
