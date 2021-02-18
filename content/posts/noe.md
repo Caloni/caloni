@@ -1,7 +1,7 @@
 ---
 date: "2014-04-09"
 link: "https://www.imdb.com/title/tt1959490"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Noé"
 ---
 O filme é muito melhor que o livro, mas nesse caso estamos falando de um livro escrito há milênios atrás e que sequer é um livro, mas dois ou três versículos de Gênesis, o primeiro dos mais de 70 trabalhos da Bíblia. Porém, o dilúvio, ou inundação global, também é um mito amplamente conhecido por povos antigos, todos à mesma época, e existiam diversas formas de contar a mesma história (incluindo o Livro de Enoque, que cita a existência dos anjos vigilantes). Nesse sentido, podemos dizer que a versão escrita pelo diretor Darren Aronofsky (Cisne Negro, O Lutador, Pi) e seu produtor Ari Handel consegue mesclar de maneira surpreendente essas histórias em uma discussão razoavelmente interessante sobre a luta do bem contra o mal, da crença e dos desígnios de um Criador e da natureza de nosso livre-arbítrio.

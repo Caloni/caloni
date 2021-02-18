@@ -1,7 +1,7 @@
 ---
 date: "2014-04-23"
 link: "https://www.imdb.com/title/tt1702014"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Hoje Eu Quero Voltar Sozinho"
 ---
 Quatro anos depois do diretor Daniel Ribeiro realizar um dos curtas mais concisos e injustamente chamados de polêmicos a respeito da paixão de um garoto cego por um aluno novo da escola, eis que o mesmo Daniel Ribeiro dirige e escreve com os mesmos atores principais a versão em longa metragem dessa história, e se isso geralmente é uma péssima ideia por tentar alongar uma ideia que só funciona por dezessete minutos, nesse caso o resultado é no mínimo cativante.

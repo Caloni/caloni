@@ -1,7 +1,7 @@
 ---
 date: "2014-04-16"
 link: "https://www.imdb.com/title/tt0433035"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Gigantes de Aço"
 ---
 Esse é aquele tipinho de filme que tem o espírito Disney e Spielberg ao mesmo tempo, tanto que é produzido por ambos, mas felizmente consegue lançar uma nova e empolgante luz para uma história já batida. Conduzido pelo diretor/produtor Shawn Levy e escrito por John Gatins (O Voo e... arght! Norbit), ambos estão claramente "inspirados" pelo coração de Mickey Mouse e o dedo de E.T.: a história une pai e filho, até então completos desconhecidos, em torno da luta de robôs de aço gigantes, uma mania que se tornou a regra após a decadência do boxe e das lutas de UFC por conta da sede cada vez maior do público por destruição total.
