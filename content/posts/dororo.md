@@ -1,7 +1,7 @@
 ---
 date: "2021-02-15"
 link: "https://www.imdb.com/title/tt9458304"
-tags: [ "series", "animes" ]
+tags: [ "animes" ]
 title: "Dororo"
 ---
 Originalmente um mangá da década de 60, este remake animado mantém alguns aspectos brutais deste drama em contexto histórico com muita instabilidade política, violência e extrema pobreza. Estes elementos são piorados ou representados pelas figuras de monstros e demônios habitando o Japão durante o declínio de seu sistema feudal, guerra civil e, portanto, tempos de incerteza.
