@@ -111,6 +111,13 @@ a:hover {
     padding-right: 13px;
 }
 
+.externalgray {
+    background-image: url(/img/external-link-ltr-icon-gray.svg);
+    background-position: center right;
+    background-repeat: no-repeat;
+    padding-right: 13px;
+}
+
 pre, blockquote {
     font-size: 0.75rem;
     font-style: italic;
