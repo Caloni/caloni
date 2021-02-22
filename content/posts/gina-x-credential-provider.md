@@ -1,11 +1,11 @@
 ---
 date: "2007-08-13"
-tags: [ "code", "draft",  ]
+tags: [ "code" ]
 title: "GINA x Credential Provider"
 ---
 Não fui convidado a participar do tema, mas como já faz algum tempo que o rascunho deste artigo está no molho, e aproveitando que meu amigo Ferdinando resolveu escrever sobre nossa amiga em comum, darei continuidade à minha empolgação sobre o tagging e largarei aqui este pequeno adendo.
 
-Com a chegada do Windows Vista, uma velha conhecida minha e dos meus colegas deixou de fazer parte do sistema de autenticação do sistema operacional: a velha GINA, Graphical Identification aNd Autentication.
+Com a chegada do Windows Vista, uma velha conhecida minha e dos meus colegas deixou de fazer parte do sistema de autenticação do sistema operacional: a velha GINA, Graphical Identification aNd Authentication.
 
 Basicamente se trata de uma DLL que é chamada pelo WinLogon, o componente responsável pelo famoso Secure Attention Sequence (SAS), mais conhecido por Ctrl + Alt + Del. Ele efetua o logon do usuário, mas quem mostra as telas de autenticação, troca de senha, bloqueio da estação é a GINA. Mexi com várias GINAs há um tempo atrás: GINAs invisíveis, GINAs que autenticam smart cards, GINAs que autenticam pela impressão digital, e por aí vai a valsa.
 
@@ -19,26 +19,16 @@ O sistema de Credential Provider permite que inúmeras DLLs sejam registradas no
 
 O sistema de coleta foi simplificado e modernizado: agora a interface não se baseia em funções exportadas, como a GINA, mas em interfaces COM disponíveis. O desenvolvedor também consegue escolher os cenários em que ele pretende entrar em ação:
 
-	
-  * Efetuar logon
-
-	
-  * Desbloquear estação
-
-	
-  * Mudar a senha
-
-	
-  * Efetuar conexão de rede (antes do logon)
+ - Efetuar logon.
+ - Desbloquear estação.
+ - Mudar a senha.
+ - Efetuar conexão de rede (antes do logon).
 
 Baseado no número de CPs registrados no sistema, o LogonUI (processo responsável por exibir a tela de boas vindas) irá exibir as respectivas credenciais para cada um dos CPs envolvidos no logon.
 
-Já que fomos brindados com um exemplo de GINA stub do Ferdinando, também irei disponibilizar um outro exemplo, este um pouco mais perigoso, da época de laboratório da faculdade. Se trata igualmente de uma GINA que se aproveita da implementação da GINA original, porém na hora de autenticar um usuário ela captura os dados do logon (usuário e senha) e grava em uma parte do registro acessível apenas pelo sistema (lembre-se que a GINA, por fazer parte do WinLogon, roda na conta de sistema).
+Já que fomos brindados com [um exemplo de GINA stub] do Ferdinando também irei disponibilizar [um outro exemplo], este um pouco mais perigoso, da época de laboratório da faculdade. Se trata igualmente de uma GINA que se aproveita da implementação da GINA original, porém na hora de autenticar um usuário ela captura os dados do logon (usuário e senha) e grava em uma parte do registro acessível apenas pelo sistema (lembre-se que a GINA, por fazer parte do WinLogon, roda na conta de sistema).
 
 > É claro que para utilizar essa GINA, você deve possuir direitos de administração, ou conhecer alguma brecha de segurança. Eu optei pela segunda opção, já que não tinha a primeira. Podemos dizer apenas que o artigo sobre falhas de segurança relacionadas a usuários avançados do Russinovich pôde resolver meu problema.
 
-	
-  * Última referência técnica
-  * Documentação das interfaces
-  * Guia de migração GINA => CP
-
+[um exemplo de GINA stub]: http://driverentry.com.br/blog/?p=415
+[um outro exemplo]: https://github.com/Caloni/Geenah
