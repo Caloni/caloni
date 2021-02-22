@@ -1,8 +1,8 @@
 ---
 date: "2014-05-26"
 link: "https://www.imdb.com/title/tt1877832"
-tags: [ "draft", "movies" ]
-title: "X-Men Dias de um Futuro Esquecido"
+tags: [ "movies" ]
+title: "X-Men: Dias de um Futuro Esquecido"
 ---
 A franquia X-Men parece ter chegado a algum tipo de saturação nesse "Dias de um Futuro Esquecido" onde o diretor Bryan Singer, que estreou a série e sua continuação, parece recontar momentos históricos da luta entre humanos e mutantes quando, mais uma vez, mutantes pacíficos e mutantes violentos se reúnem.
 
@@ -16,4 +16,4 @@ Sem parecer ter muito tempo para explorar nenhum dos dois "tempos" em que a hist
 
 Todas as sequências de ação e de drama em "X-Men: Dias de um Futuro Esquecido" são ótimas, com destaque para o uso dos portais já citados e a belíssima sequência de fuga do Magneto culminando na cena envolvendo policiais, balas, gotas de água e um garoto muito rápido (Evan Peters, de American Horror Story), mas parecem empalidecer quando comparadas com exemplos dos filmes anteriores. Mesmo a cena do estádio, que causa um certo impacto, acaba lembrando através de sua sombra um momento muito mais extasiante envolvendo uma ponte em "O Confronto Final". E se foi uma ótima ideia utilizar Wolverine e Mística como os personagens mais relevantes da história, o mesmo não pode ser dito de suas participações cercadas de diálogos medíocres que não harmonizam com a inteligência de ambos. E por falar em inteligência, chega a ser inviável imaginar Raven tendo um embate interno a respeito de suas ações quando se torna óbvio para todos envolvidos que seu objetivo nunca poderá ser alcançado da maneira que pretende.
 
-Com atuações acertadas, embora não inspiradas, o filme favorece momentos de reflexão, embora nunca seja ambicioso em delineá-los. Se, por um lado, matar humanos para se defender da cada vez mais presente represália que os mutantes poderão sofrer, nenhum argumento contra parece soar razoável quando estamos falando de algo que salvará não apenas os mutantes do futuro, como toda a humanidade. Portanto, sem escapatória em seus embates filosóficos mal-formados, quase lembrando Prometheus (mas nem tanto), o que resta é mais uma sequência dos nossos já conhecidos heróis, que lutarão mais uma vez em uma nova aventura cujo teaser você poderá conferir ao final de todos os créditos.
+Com atuações acertadas, embora não inspiradas, o filme favorece momentos de reflexão, embora nunca seja ambicioso em delineá-los. Sobre matar humanos para se defender de represálias que os mutantes poderão sofrer nenhum contra-argumento soa razoável, especialmente quando estamos falando de algo que salvará não apenas os mutantes do futuro como toda a humanidade. Portanto, sem escapatória em seus embates filosóficos mal-formados, quase lembrando Prometheus de Ridley Scott (mas nem tanto), o que resta é mais uma sequência dos nossos já conhecidos heróis, que lutarão mais uma vez em uma nova aventura cujo teaser você poderá conferir ao final de todos os créditos.

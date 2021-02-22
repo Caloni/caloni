@@ -1,8 +1,8 @@
 ---
 date: "2014-05-08"
 link: "https://www.imdb.com/title/tt0357413"
-tags: [ "draft", "movies" ]
-title: "O Âncora A Lenda de Ron Burgundy"
+tags: [ "movies" ]
+title: "O Âncora: A Lenda de Ron Burgundy"
 ---
 Não incomoda ver homens adultos, profissionais da mídia televisiva, se comportando como adolescentes estúpidos que só pensam em mulheres como objetos sexuais e, pior, rivais à sua suposta inteligência superior? Para um machista contemporâneo a parte da mulher como objeto sexual permanece, mas como bem demonstra O Âncora, o medo de ser mais burro e a vontade de transar podem ser dois lados de uma mesma moeda de um centavo.
 

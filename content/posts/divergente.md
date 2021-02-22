@@ -1,7 +1,7 @@
 ---
 date: "2014-05-13"
 link: "https://www.imdb.com/title/tt1840309"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Divergente"
 ---
 Divergente é o Jogos Vorazes sem muita ação, sem muito drama, sem atuações e com pouca inspiração. No entanto, não deixa de ser um filme OK. Ele se mantém morno o tempo todo, mas aqui e ali existem momentos que prometem ser mais alguma coisa. Infelizmente, são apenas momentos. A apresentação do mundo distópico ocupa uma parte da história, e a tentativa da protagonista, Beatrice/Tris (Shailene Woodley de Os Descendentes), de não ser eliminada da facção que escolheu ocupa a outra parte da história. É necessário dizer que Tris é uma Divergente.

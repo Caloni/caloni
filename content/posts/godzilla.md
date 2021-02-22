@@ -1,7 +1,7 @@
 ---
 date: "2014-05-28"
 link: "https://www.imdb.com/title/tt0831387"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Godzilla"
 ---
 O filmes-desastre costumam colocar em seu "currículo" o envolvimento de seus personagens (para tornar pessoal), alguma perda familiar (para tornar doloroso) e um momento de honra (ou político) que unirá todos contra o "mal" que assola a humanidade. No mundo real, nenhum destes itens costuma ser muito frequente ou relevante porque ninguém, exceto religiosos, costuma personalizar os infortúnios de um terremoto, tsunami, epidemias ou até mesmo acidentes nucleares como um inimigo que deve ser combatido (ou como punição aos infiéis). Também sabermos que discursos otimistas fazem parte da rotina burocrática de chefes de estado e nunca atingem a população mais prejudicada. Dessa forma, qual o sentido do monstro nipo-clássico Godzilla ser encarado como um inimigo? Nenhum! E é exatamente isso que o segundo longa de Gareth Edwards evita fazer durante os 123 minutos dessa produção hollywoodiana que mantém suas origens e homenagens orientais bem localizadas.
