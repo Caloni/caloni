@@ -1,6 +1,6 @@
 ---
 date: "2007-08-27"
-tags: [ "draft" ]
+tags: [ "blog" ]
 title: "ToDoList"
 ---
 Vou aproveitar que o recente blogue do meu amigo resolveu falar um pouco sobre administração de tempo e citar a ferramenta que venho utilizando há quase um ano para tentar organizar minhas idéias, minhas tarefas e minha vida. Assim como o Kabloc, eu estava em sérias dificuldades para tentar fazer e organizar todas as coisas que eu tinha em mente. Ainda continuo com dificuldades para fazer, mas o mais importante é que agora eu tenho um roadmap de para onde eu quero ir.
@@ -13,16 +13,18 @@ No entanto, houve um momento em minha vida em que eu precisava definitivamente r
 
 Bem, me parecia mais do que eu precisava. No entanto ele é flexível, e suas colunas podem ser configuradas da maneira que lhe aprouver. Abaixo um screenshot de como utilizo o ToDoList:
 
+![](/img/todolist.png)
+
 Entre algumas coisas legais que gosto nesse programa que me fizeram ficar com ele, consigo me lembrar da seguinte lista:
 
-  * Posso levar onde quiser e salvar minhas configurações em um arquivo ini.
-  * Ele fica na área de notificação e posso ativá-lo com um atalho global.
-  * Ele conta o tempo de uma tarefa se você quiser.
-  * Ele exporta as listas em formatos como Excel, HTML e texto puro.
-  * Ele é pequeno e não precisa de instalação.
-  * O código-fonte é disponível e está sempre sendo atualizado.
-  * Posso salvar minhas listas em XML (padrão) ou encriptado.
-  * Pode ser estendido por meio de _plugins._
+ - Posso levar onde quiser e salvar minhas configurações em um arquivo ini.
+ - Ele fica na área de notificação e posso ativá-lo com um atalho global.
+ - Ele conta o tempo de uma tarefa se você quiser.
+ - Ele exporta as listas em formatos como Excel, HTML e texto puro.
+ - Ele é pequeno e não precisa de instalação.
+ - O código-fonte é disponível e está sempre sendo atualizado.
+ - Posso salvar minhas listas em XML (padrão) ou encriptado.
+ - Pode ser estendido por meio de plugins.
 
 Bem, ele sozinho não resolveu meus problemas. Assim como o Kabloc disse, é você, e unicamente você, o responsável por organizar a sua agenda. E eu tive que passar muito tempo junto da minha para conseguir encontrar a maneira ideal para eu trabalhar. Cada um tem a sua.
 
@@ -32,11 +34,4 @@ Por esse motivo que uso o ToDoList para catalogar e listar todas as idéias que 
 
 Porém, é claro que catalogar tudo também não é tudo. É preciso agir. Por esse motivo costumo dividir minhas tarefas em duas listas (fora a da empresa onde trabalho): Curto Prazo e Longo Prazo. As tarefas no curto prazo são as mais imediatas, e representam as coisas que devo fazer antes da semana, do mês ou do ano acabar. Geralmente dou uma olhada diária nessa lista. As de longo prazo não são menos importantes, mas possuem um tempo de finalização mais longo, ou porque não são interessantes atualmente, ou porque fazem parte do meu projeto de vida, algo que se deve pensar mais e agir aos poucos. Costumo dar uma olhada semanal nessa lista.
 
-Enfim, cada pessoa tem sua maneira de encarar problemas, catalogar idéias e fazer acontecer. Essa ferramenta, na minha opinião, pode ajudar. Recomendo também dar uma olhada nos sítios recomendados pelo Kabloc. Aliás, agora que ele está de sítio novo, espero que ele consiga tempo para mantê-lo e seguir seus próprios conselhos =).
-
-Para continuar divagando:
-
-  * Artigo no Code Project sobre a ferramenta (e _link_ para _download)._
-  * Sítio do criador do programa (com mais recursos para baixar).
-  * Como fazer cronogramas (dicas simples e rápidas para programadores).
-
+Enfim, cada pessoa tem sua maneira de encarar problemas, catalogar idéias e fazer acontecer. Essa ferramenta, na minha opinião, pode ajudar.
