@@ -1,8 +1,8 @@
 ---
 date: "2014-06-13"
 link: "https://www.imdb.com/title/tt1407050"
-tags: [ "draft", "movies" ]
-title: "American Pie Apresenta O Livro do Amor"
+tags: [ "movies" ]
+title: "American Pie: O Livro do Amor"
 ---
 Ótimas piadas, uma história batida, mas que segue a lógica e até meio que homenageia os filmes sobre nerds dos anos 80. E por falar em anos 80, a melhor surpresa é Brandon Hardesty, que faz o gordo desajeitado que fantasia mulheres se entregando para ele a todo o momento. Além de ser a melhor surpresa é praticamente a única, pois seus dois amigos, apesar de socialmente desajeitados, não podem ser rotulados como incapazes de se relacionar com mulheres.
 

@@ -1,8 +1,8 @@
 ---
 date: "2014-06-21"
 link: "https://www.imdb.com/title/tt1731141"
-tags: [ "draft", "movies" ]
-title: "Enders Game O Jogo do Exterminador"
+tags: [ "movies" ]
+title: "Ender's Game: O Jogo do Exterminador"
 ---
 Por que estão treinando crianças para guerrear contra um povo alienígena? Se já se passaram 50 anos, onde estão os jovens dessa geração? A função de Ender é explicada em mais da metade do filme, mas qual a função de todos os outros da equipe, e por que foram escolhidos? Todas essas perguntas podem permanecer sem resposta, pois "Ender's Game" é praticamente um folclore que tenta ensinar -- ou ao menos fazer pensar -- a respeito de nossa posição no mundo entre as diferentes espécies que ajudamos a ameaçar de extinção, o que gera uma última e fatal pergunta: onde está a ética que define a sobrevivência de qual espécie é a mais importante?
 
