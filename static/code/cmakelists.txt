@@ -1,3 +1,4 @@
 cmake_minimum_required(VERSION 3.16)
 project (samples)
-add_executable(samples antidebug-debugport.cpp)
+add_executable(load_dll_lock load_dll_lock.cpp)
+add_library(dll_lock SHARED dll_lock.cpp)
