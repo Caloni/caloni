@@ -1,10 +1,10 @@
 ---
 date: "2014-09-13"
 link: "https://www.imdb.com/title/tt0042546"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Meu Amigo Harvey"
 ---
-Todos tem aquele amigo indesejável ou, o mais provável, aquela qualidade indesejável em um ente querido que queremos esconder para não nos tornarmos menos aceitos pela sociedade. Se não for em um ente querido pelo menos em nós mesmos. A questão é: "Harvey", uma produção de 1950 dirigida por Henry Koster (O Manto Sagrado) e estrelada por James Stewart (dos filmes de Hitchcock) mostra isso de uma maneira genial: cria um coelho gigante como amigo invisível de um gentil senhor que vive com sua família.
+Todos têm aquele amigo indesejável ou, o mais provável, aquela qualidade indesejável em um ente querido que queremos esconder para nos tornarmos aceitos pela sociedade. Se não for em um ente querido pelo menos em nós mesmos. A questão é: "Harvey", uma produção de 1950 dirigida por Henry Koster (O Manto Sagrado) e estrelada por James Stewart (dos filmes de Hitchcock) mostra isso de uma maneira genial: cria um coelho gigante como amigo invisível de um gentil senhor que vive com sua família.
 
 A partir dessa proposta simples e direta somos apresentados a Elwood P. Dowd e toda a polidez, generosidade e compreensão de mundo que um ser humano consegue ter quando está enfeitiçado pelo espírito do "não se levar a sério". Encarado por todos como um louco, o trunfo do filme é nunca negar isso, mas fazer repensar o conceito de loucura.
 

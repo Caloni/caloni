@@ -1,7 +1,7 @@
 ---
 date: "2014-09-21"
 link: "https://www.imdb.com/title/tt0108065"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Lances Inocentes"
 ---
 Estreia do diretor Steven Zaillian, Lances Inocentes conta a história do jovem enxadrista Joshua Waitzkin baseado no livro escrito pelo seu pai. No entanto, seria simplista demais considerá-lo um filme apenas sobre xadrez (ou sobre jovens enxadristas), uma vez que o roteiro escrito também por Zaillian busca não apenas compreender o universo desse microcosmos de pessoas obcecadas por esse jogo como também consegue levantar diferentes questionamentos a respeito das decisões (ou indecisões) dos pais desses jovens prodígios e do próprio amadurecimento prematuro do caráter desses pequenos gênios, além de comparar a juventude inocente e ingenuamente cordial com o rancor de quem nunca chegou tão longe no ranking dos vencedores, apesar de ter dedicado toda sua vida para esta tríade lógica chamada ao mesmo tempo de esporte, ciência e... arte.

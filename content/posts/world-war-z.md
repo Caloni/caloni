@@ -1,7 +1,7 @@
 ---
 date: "2014-09-23"
 link: "https://www.imdb.com/title/tt0816711"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "World War Z"
 ---
 Mais um filme de zumbi? Sim e não. World War Z está mais para o primeiro filme empolgante de fato sobre uma epidemia mundial. Estrelado por Brad Pitt, esse filme de catástrofe consegue chamar a atenção quase todo o momento, seja para seu lado bom ou ruim.
@@ -10,7 +10,7 @@ Tudo começa na cidade onde Gerry Lane (Brad Pitt) e sua família moram, onde ve
 
 Resgatado por seu amigo do exército não por compaixão, mas antes por convocação, Gerry se vê na obrigação de ajudar para manter sua família nos navios militares que servem de abrigo. Tudo acontece muito rápido e os detalhes são pescados aqui e ali. Sabemos, por exemplo, que a grande esperança dessa gente reside em um cientista de 20 e poucos anos, o que pode soar absurdo, mas soa passável depois de vermos o ataque inicial. Os mais ágeis sobreviverão.
 
-Porém, em uma situação como essas, não basta apenas ser ágil e ter conhecimento. É preciso ter a cabeça no lugar. E é isso que Gerry parece se tornar para nós -- desesperados do outro lado da tela.
+Porém, em uma situação como essa, não basta apenas ser ágil e ter conhecimento. É preciso ter a cabeça no lugar. E é isso que Gerry parece se tornar para nós -- desesperados do outro lado da tela.
 
 Por falar em desespero, o medo de ser pego exerce um controle muito efetivo em quase todas as cenas movimentadas. Faz-nos até esquecer alguns tropeços em tanto realismo que o filme parece querer entregar (como um zumbi escondido em um avião, ou o timing certeiro de Gerry ao presenciar um segundo holocausto em terra santa). Nesse sentido, realismo e susto convergem para um sentimento de urgência ritmado entre cada novo cenário.
 

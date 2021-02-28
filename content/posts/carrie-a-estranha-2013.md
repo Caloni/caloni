@@ -1,8 +1,8 @@
 ---
 date: "2014-09-26"
 link: "https://www.imdb.com/title/tt1939659"
-tags: [ "draft", "movies" ]
-title: "Carrie, a Estranha"
+tags: [ "movies" ]
+title: "Carrie, a Estranha (2013)"
 ---
 Talvez esse remake do clássico de Brian de Palma seja até eficiente na maior parte do tempo, ou não sei se pegando carona na memória afetiva do original ele consegue se sair melhor do que aparenta, até por discutir a história de Carrie quase como uma análise do bullying escolar dos tempos atuais e da diferença de visões religiosas dos mais jovens. Porém, uma direção grosseira e um roteiro equivocado conseguem estragar uma revisita até que curiosa.
 
