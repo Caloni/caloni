@@ -27,7 +27,7 @@ A simple victim of all this can be an executable using a poorly written DLL, jus
 
 It is important to remember that a DllMain dependant code is a very, very bad thing. Nevertheless, there are some particular cases the only place to run our code is inside DllMain. In these cases, when detected, try to run a side by side communication with your locked thread using an event object (or equivalent) before it really returns. Using this craft the thread can warn the waiting thread that the important thing to be done is done, and the waiting thread can go to sleep and stop waiting forever locked threads.
 
-Entre os clássicos e inestimáveis artigos de Matt Pietrek no Microsoft Journal há na [edição de setembro de 1999] um bem curto a respeito da inicialização de DLLs. Essa é a leitura mais sucinta, didátia e esclarecedora sobre a questão.
+Among the classic Matt Pietrek posts in Microsoft Journal there is in the [1999 september edition] a short one about DLL initialization. That is the more sucint, didatic and simple text about this question.
 
 [silly code]: /code/dll_lock.cpp
-[edição de setembro de 1999]: http://bytepointer.com/resources/pietrek_debug_init_routines.htm
+[[1999 september edition]]: http://bytepointer.com/resources/pietrek_debug_init_routines.htm
