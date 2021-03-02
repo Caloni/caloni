@@ -1,4 +1,3 @@
 cmake_minimum_required(VERSION 3.16)
 project (samples)
-add_executable(cassino cassino.c)
-add_executable(cassino_exploit cassino_exploit.c)
+add_executable(typeid typeid.cpp)
