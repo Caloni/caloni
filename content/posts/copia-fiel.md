@@ -1,7 +1,7 @@
 ---
 date: "2014-11-16"
 link: "https://www.imdb.com/title/tt1020773"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Cópia Fiel"
 ---
 Afinal, eles são casados ou não? E o que são aqueles diálogos que não conseguimos ouvir? Por que não conseguimos acompanhar a ação dos dois personagens -- "marido" e "mulher" -- quando não estão conversando juntos? E, finalmente, por que nas conversas à mesa os personagens olham para nós?

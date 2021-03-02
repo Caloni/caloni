@@ -1,7 +1,7 @@
 ---
 date: "2014-10-13"
 link: "https://www.imdb.com/title/tt0099785"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Esqueceram de Mim"
 ---
 Esse foi o primeiro filme que eu vi no cinema. Não me lembro de tê-lo revisto por inteiro depois (nem na televisão) e curiosamente me recordo quase que na íntegra toda sua divertida e poderosa narrativa (diferente de Superman III, que vi no cinema três anos depois). É o tipo de filme que adultos e crianças podem gostar, mas provavelmente será por motivos diferentes. Antes eu adorava pelas invenções que o jovem Macaulay Culkin criava quase que de maneira sobrenatural (afinal, um menino de oito anos não teria tanta criatividade, pensava, lá com os meus... dez anos). Agora eu adoro pela apresentação de seus personagens, sua história, seus cenários, sua trilha sonora, seus enquadramentos feitos sob medida. Tudo para acreditarmos que é possível que uma família esqueça um de seus filhos sozinho em casa enquanto parte para uma viagem em um lugar distante. No Natal.
@@ -10,4 +10,4 @@ Macaulay Culkin está longe de ser um bom ator, mas como vários atores-mirins, 
 
 É importante notar que este é mais um filme com as mãos de John Hughes (Clube dos Cinco, Curtindo a Vida Adoidado) como produtor e roteirista, além do diretor Chris Columbus (Os Goonies, Gremlins). Para finalizar o trabalho sensacional que os dois fazem de uma história que tinha tudo para ser uma comédia pastelão esquecível, o compositor John Williams cria um tema para Home Alone que, para variar, se torna inesquecível (tocá-la em diferentes momentos com diferentes tons e versões também ajudou um pouco).
 
-Independente de ter envelhecido bem, filmes como esse lembram que envelhecemos junto com os filmes, e uma revisita sempre é bem-vinda. Nunca sabemos quando iremos discordar de nós mesmo. Nem tudo que é ruim e adoramos fica para trás da regra dos 15 anos.
+Independente de ter envelhecido bem, filmes como esse lembram que envelhecemos junto com os filmes, e uma revisita sempre é bem-vinda. Nunca sabemos quando iremos discordar de nós mesmo. Existe um podcast antigo de nerds que cunhou a regra dos 15 anos, sobre filmes supostamente ruins que assistimos em uma época que temos pouco senso crítico, ou seja, abaixo dos 15 anos de idade. Mas nem tudo que "é ruim" e adoramos segue essa regra. Experimente.

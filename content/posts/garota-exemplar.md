@@ -1,7 +1,7 @@
 ---
 date: "2014-11-15"
 link: "https://www.imdb.com/title/tt2267998"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Garota Exemplar"
 ---
 Todo mundo conhece aquela história em que a esposa desaparece em uma bela manhã e o marido vira o suspeito número um. Esse clichê é tão batido que o diretor David Fincher (A Rede Social) não faz o menor esforço para construir essa dúvida em nós, espectadores. Por isso ele escala para o papel o Ben acima-de-qualquer-suspeita Afleck. Na verdade ele parece mais interessado em discutir exatamente o oposto: a falta de dúvidas de uma sociedade ansiosa por tomar um lado e apontar rapidamente seu dedo para o "culpado" da vez, escolhido por uma mídia que irá decidir pela versão dos fatos que atrair para si mais consumidores de conteúdo.
