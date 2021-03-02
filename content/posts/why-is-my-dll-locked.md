@@ -14,15 +14,15 @@ A simple victim of all this can be an executable using a poorly written DLL, jus
     int main()
     {
       printf("load dll");
-    	HMODULE lockDll = LoadLibrary(_T("dll_lock.dll"));
+      HMODULE lockDll = LoadLibrary(_T("dll_lock.dll"));
     
-    	if( lockDll )
-    	{
-    		Sleep(2000);
+      if( lockDll )
+      {
+        Sleep(2000);
         printf("free dll");
-    		FreeLibrary(lockDll), lockDll  = NULL;
+        FreeLibrary(lockDll), lockDll  = NULL;
         printf("done");
-    	}
+      }
     }
 
 It is important to remember that a DllMain dependant code is a very, very bad thing. Nevertheless, there are some particular cases the only place to run our code is inside DllMain. In these cases, when detected, try to run a side by side communication with your locked thread using an event object (or equivalent) before it really returns. Using this craft the thread can warn the waiting thread that the important thing to be done is done, and the waiting thread can go to sleep and stop waiting forever locked threads.
