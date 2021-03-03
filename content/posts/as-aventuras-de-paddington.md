@@ -1,7 +1,7 @@
 ---
 date: "2014-12-10"
 link: "https://www.imdb.com/title/tt1109624"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "As Aventuras de Paddington"
 ---
 É uma espécie de Pequeno Stuart Little britânico para ursos. A consequência de ser um filme mais recente são os efeitos que tornam um pequeno urso falante algo natural em praticamente todas as cenas que ele aparece com humanos.

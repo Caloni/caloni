@@ -1,7 +1,7 @@
 ---
 date: "2014-12-01"
 link: "https://www.imdb.com/title/tt0080678"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Homem Elefante"
 ---
 Não vi muitos filmes do David Lynch, mas este é de longe o mais "comportado" em narrativa. Tem começo, meio e fim. Possui uma narração gradativa, dando tempo para pensarmos no que exatamente está acontecendo em volta de John Merrick (John Hurt), um homem desfigurado usado como atração de circo e conhecido como O Homem Elefante. Quando conhecemos Merrick ele não tem nome e quase não o vemos, só na imaginação. E ele tem um dono: um sujeito conhecido como Bytes (Freddie Jones), que não se preocupa em tratá-lo como um animal de fato. O próprio filme começa com a visualização dessa fantasia do imaginário popular: o filho de uma mulher e um elefante.

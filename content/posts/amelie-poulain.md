@@ -1,10 +1,10 @@
 ---
 date: "2014-12-16"
 link: "https://www.imdb.com/title/tt0211915"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Fabuloso Destino de Amélie Poulain"
 ---
-A edição em Blu-Ray dO Fabuloso Destino de Amélie Poulain é uma pequena jóia. A qualidade da imagem do filme é impresionante. Todos os detalhes que faz qualquer cinéfilo de carteririnha vibrar estão lá: fotografia, direção de arte, trilha sonora. Com uma TV decente o Home Video pode te entregar (quase) a mesma sensação de ter participado de uma das sessões mágicas em que esse filme foi exibido.
+A edição em Blu-Ray dO Fabuloso Destino de Amélie Poulain é uma pequena jóia. A qualidade da imagem do filme é impresionante. Todos os detalhes que faz qualquer cinéfilo de carteiririnha vibrar estão lá: fotografia, direção de arte, trilha sonora. Com uma TV decente o Home Video pode te entregar (quase) a mesma sensação de ter participado de uma das sessões mágicas em que esse filme foi exibido.
 
 Desde sua estreia oficial no Brasil assisti esse filme já três vezes no cinema (até agora). Curiosamente, em todas elas com a plateia lotada. Treze anos após sua estreia, em minha terceira vez, no interior da Argentina, ao final de uma péssima exibição, o filme foi aplaudido. É um filme fácil, para o grande público, e consequência disso (embora não seja atestado de qualidade) foram suas cinco indicações ao Oscar (apesar de ser falado em francês): roteiro original, fotografia, direção de arte, som e, claro, filme estrangeiro (perdeu para o bósnio Terra de Ninguém).
 

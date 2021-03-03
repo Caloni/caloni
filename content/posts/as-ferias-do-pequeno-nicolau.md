@@ -1,10 +1,10 @@
 ---
 date: "2014-12-18"
 link: "https://www.imdb.com/title/tt3019796"
-tags: [ "draft", "movies" , "cinemaqui" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "As Férias do Pequeno Nicolau"
 ---
-O créditos iniciais de "As Férias do Pequeno Nicolau" usam uma sequência de cartões postais sendo girados, o que está longe das encantadoras dobraduras que vimos no primeiro filme. Porém, as comparações negativas com o original param por aí: a segunda aventura com o personagem dos livros infantis consegue manter a divertida brincadeira do mundo imaginado pelas crianças em alto nível e ainda acerta em cheio em suas comparações com o mundo dos adultos sem nunca soar inadequado para seu público mais jovem; uma rara ocasião hoje em dia para os pequeninos irem ao cinema assistir uma não-animação que guarda muito da sua estética cartunesca.
+Os créditos iniciais de "As Férias do Pequeno Nicolau" usam uma sequência de cartões postais sendo girados, o que está longe das encantadoras dobraduras que vimos no primeiro filme. Porém, as comparações negativas com o original param por aí: a segunda aventura com o personagem dos livros infantis consegue manter a divertida brincadeira do mundo imaginado pelas crianças em alto nível e ainda acerta em cheio em suas comparações com o mundo dos adultos sem nunca soar inadequado para seu público mais jovem; uma rara ocasião hoje em dia para os pequeninos irem ao cinema assistir uma não-animação que guarda muito da sua estética cartunesca.
 
 A estrutura adotada pelo diretor Laurent Tirard inicialmente confunde um pouco, mas não chega a ser um problema. Por exemplo, mesmo cinco anos depois de filmado a idade do protagonista é a mesma, graças à inclusão de um segundo ator para o papel principal -- o estreante Mathéo Boisselier, que não fica devendo para seu antecessor Maxime Godart. A história decide também ignorar a existência de sua recém-nascida irmã, mas deixa claro que a história não se passa antes disso, já que Nicolau e Marie-Edwige (Chann Aglat), que havia conhecido melhor no filme anterior, são agora namorados. Nicolau promete enviar cartas para ela durante suas férias, o que acaba rendendo diversos momentos divertidos da história.
 
