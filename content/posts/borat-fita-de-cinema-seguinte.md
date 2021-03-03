@@ -1,7 +1,7 @@
 ---
 date: "2020-11-22"
 link: "https://www.imdb.com/title/tt13143964"
-tags: [ "draft" ]
+tags: [ "draft", "movies" ]
 title: "Borat: Fita de Cinema Seguinte"
 ---
 O novo filme do Borat não consegue ser mais um mockumentary como o primeiro, nem apresenta qualquer crítica aguda ao American Way of Life como o primeiro. Como poderia? É um filme encomendado por uma mega-corporação vendendo streaming internacionalmente, mas fundada em solo americano. É um sistema de troca capitalista, onde ele te entrega algumas risadas em troca de sua alma.

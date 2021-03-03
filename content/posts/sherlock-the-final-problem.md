@@ -1,7 +1,7 @@
 ---
 date: "2020-12-08"
 link: "https://www.imdb.com/title/tt3845892"
-tags: [ "draft" ]
+tags: [ "draft", "series" ]
 title: "Sherlock: The Final Problem"
 ---
 O último episódio da série da BBC sobre o detetive mais famoso de todos os tempos (e sua família) está longe de ser o melhor de todos, mas assistindo agora em revisita soa melhor do que a primeira vez. Talvez as séries e filmes que assisti nesses últimos três anos não tenham ajudado muito a elevar a sétima arte, com raras exceções. O mundo está muito chato e condescendente com uma barra que talvez nunca tenha baixado tanto em tão pouco tempo.

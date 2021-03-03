@@ -1,9 +1,11 @@
 ---
 date: "2020-11-14"
 link: "https://www.imdb.com/title/tt10048342"
-tags: [ "draft" ]
-title: "O Gambito da Rainha: xadrez para os fracos"
+tags: [ "draft", "series" ]
+title: "O Gambito da Rainha"
 ---
+## Xadrez para os fracos
+
 Esta série da Netflix, que por isso me dá certa alergia, só me chamou a atenção porque tem xadrez no meio, do qual sou aficionado, mas depois descobri que é do mesmo roteirista de [Logan]. A história é de uma garotinha que se tornou órfã de mãe após um trágico acidente de carro e no orfanato aprende xadrez apenas observando o zelador e jogando em sua mente. Ela toma calmantes, naquela época medicação dada para crianças, e se torna uma viciada, mas consegue antes de dormir enxergar do teto de seu quarto um tabuleiro gigante onde analisa suas partidas.
 
 Sabemos que ela não irá se livrar de nenhum dos dois vícios porque o filme começa com ela já adulta e a série inteira é quase um enorme flashback. Vemos a Beth Harmon do presente uma bagunça, que mistura sexo, drogas e xadrez, uma mistura que já existe em sua personalidade desde o início e o "filme" de sete horas tem uma forma peculiar de adicionar isso logo no primeiro episódio, com ela ainda criança, pela curiosidade com que ela observa os garotos mais velhos de longe.

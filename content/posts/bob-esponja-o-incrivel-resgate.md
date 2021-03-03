@@ -1,7 +1,7 @@
 ---
 date: "2020-11-14"
 link: "https://www.imdb.com/title/tt4823776"
-tags: [ "draft" ]
+tags: [ "draft", "movies" ]
 title: "Bob Esponja: o Incrível Resgate"
 ---
 Certamente esta é a obra mais ofensiva ao legado de Bob Esponja. Não-canônica (explica as origens das amizades tudo errado) e apelando para sentimentos baratos com uma trama descaradamente copiada do [filme original], "O Incrível Resgate" mantém alguns bons momentos do personagem aloprado e seus amigos, mas trai nossas expectativas em sequências inteiras no melhor dos casos desncessárias e no pior dos casos completamente contra a atmosfera da série animada original.

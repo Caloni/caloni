@@ -1,7 +1,7 @@
 ---
 date: "2020-11-14"
 link: "https://www.imdb.com/title/tt0194669"
-tags: [ "draft" ]
+tags: [ "draft", "movies" ]
 title: "Anuska, Manequim e Mulher"
 ---
 É interessante assistir esses filmes antigos brasileiros. Este da década de 60, muito próximo da intervenção militar, flerta com o cenário político do país e é um dos últimos a fazer isso. Francisco Cuoco é Bernardo, um escritor frustrado de um jornal convencional que se fecha cada vez mais para a realidade. Ele conhece a belíssima Anuska do título, interpretada por Marília Branco, e ambos criam junto do diretor Francisco Ramalho Jr. quadros que evocam o desolamento e a tentativa de ser feliz em um país à beira do colapso.
