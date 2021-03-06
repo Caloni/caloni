@@ -19,7 +19,7 @@ DO 17 I = 1. 10
 DO 17 I = 1, 10
 ```
 
-Mas pela troca da vírgula pelo ponto, e como em FORTRAN os caracteres de espaço não são significativos, a linha com o bug não representa mais um loop, mas uma atribuição à uma variável chamada "DO17I":
+Mas pela troca da vírgula pelo ponto, e como em FORTRAN os caracteres de espaço não são significativos, a linha com o bug não representa mais um loop, mas uma atribuição a uma variável chamada "DO17I":
 
 ```fortran
 DO17I = 1.10

@@ -19,7 +19,7 @@ O salto simples e direto permite a organização do código em subrotinas. Subro
       code
       call sub
 
-Ela é, na prática, equivalente à uma rotina que contém várias cópias da subrotina na memória, uma seguida da outra.
+Ela é, na prática, equivalente a uma rotina que contém várias cópias da subrotina na memória, uma seguida da outra.
 
     routine:
       code

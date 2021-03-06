@@ -19,6 +19,6 @@ Do ponto de vista estatístico (sempre ela!), então, nem se fala. Na região on
 	
   * Me foi contado que aniversários são eventos para celebrar a vida, principalmente do aniversariante. Ótimo! Isso quer dizer que a vida de cada um vale menos de 0,3% do ano inteiro, já que reservamos apenas um dia em 360 para confirmar que ainda estamos respirando.
 
-Bom, esse artigo já devanou demais. E como meu objetivo nem foi chegar à uma conclusão, termino por aqui. Ah, para dar mais corda pra pensar: feliz natal!
+Bom, esse artigo já devanou demais. E como meu objetivo nem foi chegar a uma conclusão, termino por aqui. Ah, para dar mais corda pra pensar: feliz natal!
 
 PS: Mensagens de feliz aniversário serão devidamente descartadas. Ah, e feliz ano-novo pra você, também.

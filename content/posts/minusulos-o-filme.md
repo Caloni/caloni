@@ -1,7 +1,7 @@
 ---
 date: "2015-01-04"
 link: "https://www.imdb.com/title/tt2368672"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Minúsculos O Filme"
 ---
 Me encantam filmes cuja ideia não parece muito boa ou de difícil execução, mas então, remando contra a maré, surge um trabalho inspirador.

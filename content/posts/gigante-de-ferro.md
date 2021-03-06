@@ -1,10 +1,10 @@
 ---
 date: "2014-12-20"
 link: "https://www.imdb.com/title/tt0129167"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Gigante de Ferro"
 ---
-Primeiro trabalho em longas de Brad Bird ("Os Incríveis", Ratatouille), essa simpática animação peca apenas por ter alguns efeitos desajeitados e por carecer de expressões melhores para seus personagens. Fora isso, é um trabalho conciso e coeso e uma espécie de "reimaginação" de ET como um ser robótico e construído realmente com fins militares.
+Primeiro trabalho em longas de Brad Bird (Os Incríveis, Ratatouille), essa simpática animação peca apenas por ter alguns efeitos desajeitados e por carecer de expressões melhores para seus personagens. Fora isso, é um trabalho conciso e coeso e uma espécie de "reimaginação" de ET como um ser robótico e construído realmente com fins militares.
 
 A história gira em torno do tal robô gigante que cai próximo a uma cidadezinha do litoral durante a Guerra Fria (uma informação que Bird sabe que não precisa ser divulgada verbalmente em um filme de crianças, preferindo usar em sua primeira cena o Sputnik, primeiro satélite russo lançado ao espaço). Um garoto o descobre escondido na floresta e o ensina a se comunicar. O robô se alimenta de ferro, e logo carros aparecem mastigados na paisagem e um inspetor do governo vem averiguar o que está acontecendo. O ritmo dos acontecimentos pontua bem a relação crescente robô/garoto e também a incompetência conveniente do inspetor.
 

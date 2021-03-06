@@ -1,7 +1,7 @@
 ---
 date: "2014-12-20"
 link: "https://www.imdb.com/title/tt2109248"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Transformers: A Era da Extinção"
 ---
 Convenhamos: Michael Bay sabe fazer um show e tanto, mas não consegue chegar nem perto de contar uma história coerente em sua franquia dos robôs gigantes que se transformam em automóveis, mas agora também possuem uma versão-dinossauro, embora nem um nem outro consigam ter qualquer fiapo de lógica. Acompanhamos agora a "saga" sabendo que os alienígenas responsáveis pelos Transformers já visitaram o planeta Terra há milhões de anos, e foram também os responsáveis pela extinção dos dinossauros (aparentemente algum geólogo confundiu um meteoro com um power-blast de nave ET). Tanto os "autobots" quanto os "decepticons" (que apesar do nome também se transformam em automóveis) tiveram a mesma origem: ETs que vão de planeta em planeta sugar os recursos necessários, aniquilando qualquer espécie de vida que eventualmente existir. Qualquer semelhança com Independence Day -- exceto que nesse não havia dinossauros -- é mera coincidência (ou não).

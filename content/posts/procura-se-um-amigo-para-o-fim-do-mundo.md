@@ -1,7 +1,7 @@
 ---
 date: "2014-12-20"
 link: "https://www.imdb.com/title/tt1307068"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Procura-se um Amigo para o Fim do Mundo"
 ---
 Esse filme começa com uma premissa interessante e um tanto absurda: foi declarado que um meteoro irá se chocar com a Terra em 21 dias e que todos irão morrer. No mesmo instante a mulher do personagem de Steve Carell (sua própria esposa, Nancy Carell) sai do carro e foge de sua vida. No dia seguinte o vemos indo ao serviço como se nada tivesse acontecido e, o pior: há pessoas indo trabalhar normalmente.

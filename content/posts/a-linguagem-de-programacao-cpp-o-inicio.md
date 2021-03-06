@@ -30,7 +30,7 @@ Stroustrup não fez tudo do zero, nem fez tudo de uma vez. A primeira necessidad
         Func(cpp);
     }
 
-A grande sacada é que no meio de toda essa sintaxe de chamada de método havia a passagem de um parâmetro escondido, o this, que se referia à uma instância específica da classe: um objeto.
+A grande sacada é que no meio de toda essa sintaxe de chamada de método havia a passagem de um parâmetro escondido, o this, que se referia a uma instância específica da classe: um objeto.
 
     int Cpp::GetX()
     {

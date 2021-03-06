@@ -115,7 +115,7 @@ int main()
 
 [![StructVsClassStreams](http://i.imgur.com/np4trf9.jpg)](/images/14043966560_422ae353d9_z.jpg)
 
-Enfim, não há nenhum limite que se aplica à uma _struct_ além do bom senso. A criação da palavra _class_ não foi por falta do que fazer. Ela diz claramente que estamos definindo um objeto que contém usos mais adequados à orientação a objetos de C++ do que a programação estruturada de C, e vice-versa. É uma forma de tornar o código mais legível, mas nada do outro mundo. Sabemos, no final das contas, que o compilador trata as duas (quase) da mesma maneira.
+Enfim, não há nenhum limite que se aplica a uma _struct_ além do bom senso. A criação da palavra _class_ não foi por falta do que fazer. Ela diz claramente que estamos definindo um objeto que contém usos mais adequados à orientação a objetos de C++ do que a programação estruturada de C, e vice-versa. É uma forma de tornar o código mais legível, mas nada do outro mundo. Sabemos, no final das contas, que o compilador trata as duas (quase) da mesma maneira.
 
 Qual será a próxima batalha épica? Você escolhe!
 
