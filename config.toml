@@ -23,7 +23,7 @@ theme = "blog"
     namespace = "caloni"
     author = "Wanderley Caloni"
     showFilterAfter = 10
-    comments = "https://t.me/bloguedocalonidiscuss"
+    comments = "https://telegram.me/share/url?url="
 
 [params.home]
     postsCount = 7
