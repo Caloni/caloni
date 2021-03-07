@@ -118,9 +118,11 @@ a:hover {
     padding-right: 13px;
 }
 
-pre, blockquote {
+pre, blockquote, code {
     font-size: 0.75rem;
     font-style: italic;
     font-weight: bold;
+    white-space: normal;
+    word-break: break-word;
 }
 
