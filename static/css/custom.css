@@ -14,6 +14,7 @@ body, button, input, select, textarea {
 .container {
     margin: 0 auto;
     position: relative;
+    max-width: 100%;
 }
 .container.is-fluid {
     margin-left: 64px;
@@ -71,7 +72,6 @@ tr:hover, tr:hover a {
     margin-bottom: 1em;
 }
 .taglist:hover, .navigation-bottom:hover  {
-    overflow: auto;
     background-color: lightgray;
 }
 .taglist a {
@@ -122,5 +122,10 @@ pre, blockquote, code {
     font-size: 0.75rem;
     font-style: italic;
     font-weight: bold;
+    overflow: scroll;
+}
+
+img {
+    max-width: 100%;
 }
 
