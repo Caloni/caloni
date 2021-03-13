@@ -1,7 +1,7 @@
 ---
 date: "2015-01-09"
 link: "https://www.imdb.com/title/tt0052893"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Hiroshima Meu Amor"
 ---
 Me desculpem os adoradores, mas esse é um filme supervalorizado. É a segunda vez que assisto a história dos dois amantes que se despedem por um longo dia em Hiroshima antes que ela se vá para Paris (a atriz de Amor, de Haneke). O impasse "vai ou não vai" se perpetua por longuíssimos 90 minutos, com diálogos que frequentemente também se repetem: o "não quero que se vá" vs "irei, sim" mais longo que os efeitos da bomba jogada sobre a cidade.

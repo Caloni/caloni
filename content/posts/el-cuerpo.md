@@ -1,8 +1,8 @@
 ---
 date: "2015-02-14"
 link: "https://www.imdb.com/title/tt1937149"
-tags: [ "draft", "movies" ]
-title: "El Cuerpo"
+tags: [ "movies" ]
+title: "O Corpo"
 ---
 El Cuerpo possui um desenvolvimento razoavelmente tenso e uma atmosfera que lembra muito o excelente Uma Simples Formalidade. Ambientado em torno do desaparecimento do cadáver da ex-mulher de um herdeiro de uma fortuna (Hugo Silva), os passos dados pelo icônico inspetor interpretado por José Coronado e o passado da mulher falecida que o atormenta criam uma base muito interessante para as investigações da insana possibilidade da mulher ter ressucitado e procurado vingança pelo seu assassinato.
 

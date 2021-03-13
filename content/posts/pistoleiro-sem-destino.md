@@ -1,10 +1,10 @@
 ---
 date: "2015-01-21"
 link: "https://www.imdb.com/title/tt0067204"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Pistoleiro Sem Destino"
 ---
-Peter Fonda atuou em dezenas de filmes e dirigiu três. Homem sem destino é o primeiro deles, em que ele também atua. É um retrato honesto de um pedacinho do velho oeste, mas mostrado de maneira romantizada e uma inesquecível trilha sonora.
+Peter Fonda atuou em dezenas de filmes e dirigiu três. Pistoleiro sem destino é o primeiro deles, em que ele também atua. É um retrato honesto de um pedacinho do velho oeste, mas mostrado de maneira romantizada e uma inesquecível trilha sonora.
 
 A história é simples: três homens são amigos, pescam juntos. Um decide voltar para sua mulher depois de a ter abandonado por sete anos. Os outros dois decidem ir até a costa conhecer o mar. Acontecimentos inesperados, porém, levam dois desses homens para o lar de um deles. Sua ex-mulher aceita ambos como mão-de-obra, e uma vez abandonada, essa possibilidade assombra ambos.
 

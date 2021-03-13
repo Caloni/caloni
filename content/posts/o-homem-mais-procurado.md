@@ -1,7 +1,7 @@
 ---
 date: "2015-01-17"
 link: "https://www.imdb.com/title/tt1972571"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Homem Mais Procurado"
 ---
 O Homem Mais Procurado é um daqueles filmes que tenta te manter quase que completamente atento apenas pelo poder de persuasão de seu protagonista. Para sorte do diretor Anton Corbijn (Um Homem Misterioso), o intérprete Philip Seymour Hoffman, apesar de ter ido jovem, foi um dos grandes de sua geração, e constrói mais uma vez um personagem, se não multidimensional, crível naquele esquema de espionagem pós-atentados 11/9.

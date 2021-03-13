@@ -1,7 +1,7 @@
 ---
 date: "2015-01-18"
 link: "https://www.imdb.com/title/tt2278388"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Grande Hotel Budapeste"
 ---
 Wes Anderson sendo, como sempre, Wes Anderson, pode prejudicar um pouco seus trabalhos com seu enquadramento engessado e seus cenários surrealmente coloridos. Porém, quando o material se encaixa em seu estilo, temos um resultado espetacular. Como é o caso desse O Grande Hotel Budapeste, cuja história remete a um país meio Leste Europeu, meio Oriente, e que contém elementos fantasiosos que remetem justamente ao mundo que o diretor possui em sua mente.

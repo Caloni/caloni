@@ -1,7 +1,7 @@
 ---
 date: "2015-01-11"
 link: "https://www.imdb.com/title/tt2545118"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Blackfish: Fúria Animal"
 ---
 Blackfish expõe como nunca a ignorância humana aliada à sua arrogância em se achar superior a qualquer outra espécie animal com quem compartilhamos o planeta. Porém, melhor do que isso, entrega um dossiê rico em imagens e depoimentos que fluem dinamicamente em torno da história do parque de entretenimento Sea World, relatando diferentes mortes de treinadores por quatro décadas até o fatídico assassinato anunciado da carismática treinadora Dawn Brancheau pela baleia Tilikum.

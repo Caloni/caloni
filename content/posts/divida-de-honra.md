@@ -1,7 +1,7 @@
 ---
 date: "2015-01-20"
 link: "https://www.imdb.com/title/tt2398231"
-tags: [ "draft", "movies" , "cinemaqui" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Dívida de Honra"
 ---
 Diferente de como o Cinema costuma retratar o velho Oeste americano, o ator e diretor Tommy Lee Jones abraça um projeto que planeja desmistifica-lo. Em uma versão desprovida do romantismo de Bravura Indômita dos Irmãos Coen, a história de Dívida de Honra é um road-movie com dois excluídos da sociedade levando outros três em uma viagem reveladora antes mesmo do seu início.
@@ -14,6 +14,6 @@ Por falar em ambiente, é curioso perceber como é ele o responsável por moldar
 
 Embora até aqui o filme pareça uma maravilha impecável, seu Calcanhar de Aquiles começa na direção e termina na escolha do elenco. Apesar do trabalho eficiente de Tommy Lee Jones, a sua atuação como o "velho inútil" com um passado de erros acaba perdendo o tom da narrativa. Seus momentos mais engraçados são os que ele justamente não os força para ser. Já Hilary Swank tem uma personagem tão coesa que flerta com sua unidimensionalidade. É uma personagem trágica por definição, mas a escolha da atriz por seu trabalho passado é uma bobagem. Sua nostalgia da "civilização" (mais do que sua família) e seu tom pragmático são uma fraqueza fundamental em sua existência. Paradoxalmente é Tommy Lee com seu papel de bruto que ganha notoriedade por nos fazer voltar sempre à questão histórica e cultural. É um homem simples cujas conclusões o tornam complexo.
 
-Por fim, mas não menos importante, a ação acontece no território de Nebraska, criando uma comparação curiosa com os habitantes do filme recente homônimo (para não-americanos, uma maneira de entender a sociedade por lá, embora talvez simplista). Não é incomum por lá os ventos levarem toda a plantação e invernos rigorosos acabarem com muitas vidas. Quase podemos fazer um paralelo com o Nordeste brasileiro primordial, onde o nordestino, de acordo com certo escritor, é antes de tudo um bruto.
+Por fim, mas não menos importante, a ação acontece no território de Nebraska, criando uma comparação curiosa com os habitantes do filme recente homônimo (para não-americanos, uma maneira de entender a sociedade, embora talvez simplista). Não é incomum por lá os ventos levarem toda a plantação e invernos rigorosos acabarem com muitas vidas. Quase podemos fazer um paralelo com o Nordeste brasileiro primordial, onde o nordestino, de acordo com Euclides da Cunha (Grande Sertão: Veredas), é antes de tudo um forte.
 
 Há um momento em que o personagem de Tommy Lee resolve um possível conflito com os índios em cinco minutos, alertando sabiamente: se eles virem, não tente usar a espingarda, entre na carroça e dê um tiro na cabeça. Essa cena fascina menos pela tensão e mais pela possibilidade de isso ter ocorrido de fato em algum canto do Oeste selvagem.
