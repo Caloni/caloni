@@ -34,9 +34,9 @@ Visto isso, passemos a um [exemplo simples], um chamador de métodos aleatórios
         }
     
       private:
-        void FuncOne()   { cout << "One!\n"; }
-        void FuncTwo()   { cout << "Two!\n"; }
-        void FuncThree() { cout << "Three!\n"; }
+        void FuncOne()   { std::cout << "One!\n"; }
+        void FuncTwo()   { std::cout << "Two!\n"; }
+        void FuncThree() { std::cout << "Three!\n"; }
     
         static FP m_funcs[3];
     };
@@ -50,8 +50,8 @@ Visto isso, passemos a um [exemplo simples], um chamador de métodos aleatórios
     }
     
     /** No princípio Deus disse:
-        'int main!'
-    */
+      'int main!'
+     */
     int main()
     {
       Rand r;
