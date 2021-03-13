@@ -1,3 +1,3 @@
 cmake_minimum_required(VERSION 3.16)
 project (samples)
-add_executable(typeid typeid.cpp)
+add_executable(member_pointer member_pointer.cpp)
