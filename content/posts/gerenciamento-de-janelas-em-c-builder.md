@@ -1,107 +1,79 @@
 ---
 date: "2007-12-11"
-title: Gerenciamento de janelas em C++ Builder
+title: "Gerenciamento de janelas em C++ Builder"
 tags: [ "draft", "code" ]
 ---
-As janelas criadas no C++ Builder são equivalentes às janelas criadas pela API, com o detalhe que a VCL gerencia tudo automaticamente. Isso não quer dizer que não **podemos** tomar controle de tudo. Quer dizer que não **precisamos**.
+As janelas criadas no C++ Builder são equivalentes às janelas criadas pela API, com o detalhe que a VCL gerencia tudo automaticamente. Isso não quer dizer que não podemos tomar controle de tudo. Quer dizer que não precisamos.
 
-Abra o Builder. Um projeto padrão é criado. Agora no menu **File**, vá em **New**, **Form**. Isso adicionará um novo formulário ao projeto padrão. Pronto! Temos dois formulários. Agora se formos dar uma passeada no WinMain, vemos que o código para iniciar a VCL se alterou conforme a música:
+Abra o Builder. Um projeto padrão é criado. Agora no menu File, vá em New, Form. Isso adicionará um novo formulário ao projeto padrão. Pronto! Temos dois formulários. Agora se formos dar uma passeada no WinMain, vemos que o código para iniciar a VCL se alterou conforme a música:
 
-```cpp
-//...
-try
-{
-	Application->Initialize();
-	Application->CreateForm(__classid(TForm1), &Form1);
-	Application->CreateForm(__classid(TForm2), &Form2);
-	Application->Run();
-}
-//... 
+    try
+    {
+    	Application->Initialize();
+    	Application->CreateForm(__classid(TForm1), &Form1);
+    	Application->CreateForm(__classid(TForm2), &Form2);
+    	Application->Run();
+    }
 
-```
+Porém, se rodarmos a aplicação nesse momento, podemos notar que o programa exibe apenas a janela correspondente ao primeiro formulário. De fato, ao chamar o método Application->Run(), apenas o primeiro form criado é exibido. Isso não significa, é claro, que o segundo form não tenha sido criado. Para demonstrar como ele está lá, coloque o seguinte evento no clique de um botão do Form1:
 
-Porém, se rodarmos a aplicação nesse momento, podemos notar que o programa exibe apenas a janela correspondente ao primeiro formulário. De fato, ao chamar o método **Application->Run()**, apenas o primeiro _form_ criado é exibido. Isso não significa, é claro, que o segundo _form_ não tenha sido criado. Para demonstrar como ele está lá, coloque o seguinte evento no clique de um botão do **Form1**:
+    #include "Unit2.h" // extern PACKAGE TForm2 *Form2;
+    
+    void __fastcall TForm1::Button1Click(TObject *Sender)
+    {
+    	Form2->Show();
+    } 
 
-```cpp
-#include "Unit2.h" // extern PACKAGE TForm2 *Form2;
-
-void __fastcall TForm1::Button1Click(TObject *Sender)
-{
-	Form2->Show();
-} 
-
-```
-
-Agora ao clicar do botão a janela correspondente ao formulário número 2 também aparece. Podemos fechá-la e abri-la quantas vezes quisermos que o aplicativo continua rodando. Apenas ao fechar a janela no. 1 o aplicativo realmente encerra. Esse comportamento segue o mesmo padrão da função **main()** na forma clássica das linguagens C/C++:
+Agora ao clicar do botão a janela correspondente ao formulário número 2 também aparece. Podemos fechá-la e abri-la quantas vezes quisermos que o aplicativo continua rodando. Apenas ao fechar a janela no. 1 o aplicativo realmente encerra. Esse comportamento segue o mesmo padrão da função main() na forma clássica das linguagens C/C++:
 
     
-    ShowMessage(<span class="string">"O MainForm de Application é o primeiro TForm criado. "</span>
-    <span class="string">            "É o princípio e o fim, o Alfa e o Ômega. Nele tudo começa e tudo termina"</span>);
+    ShowMessage("O MainForm de Application é o primeiro TForm criado. "
+      "É o princípio e o fim, o Alfa e o Ômega. Nele tudo começa e tudo termina");
 
-Podemos, também como em C/C++ padrão, finalizar explicitamente a aplicação chamando o método **Application->Terminate**. O MainForm em tempo de execução é uma propriedade de somente leitura de Application. Em tempo de _design_, ele pode ser alterado pela ordem de criação dos formulários no código ou pela IDE em **Project**, **Options**, **Forms**. Lá você também escolhe quais _forms_ serão criados automaticamente.
+Podemos, também como em C/C++ padrão, finalizar explicitamente a aplicação chamando o método Application->Terminate. O MainForm em tempo de execução é uma propriedade de somente leitura de Application. Em tempo de design, ele pode ser alterado pela ordem de criação dos formulários no código ou pela IDE em Project, Options, Forms. Lá você também escolhe quais forms serão criados automaticamente.
 
 Esse funcionamento e automação na criação de janelas da VCL foi feita para facilitar a vida do programador. Contudo, nunca estamos presos a somente isso. As maneiras das coisas funcionarem apenas refletem o uso mais comum no ambiente e não tem como função limitar a criatividade do desenvolvedor.
 
 Para exemplificar, vamos inverter as coisas. Coloque um botão no segundo formulário que finalize o programa de maneira explítica:
 
-```cpp
-void __fastcall TForm2::Button1Click(TObject *Sender)
-{
-	Application->Terminate();
-} 
+    void __fastcall TForm2::Button1Click(TObject *Sender)
+    {
+    	Application->Terminate();
+    } 
 
-```
+Agora, no evento de OnClose (acho que você conhece o Object Inspector, não? Bom, se não conhece, talvez isso mereça um [artigo à parte]) do TForm1 insira o seguinte código:
 
-Agora, no evento de **OnClose** (acho que você conhece o Object Inspector, não? Bom, se não conhece, talvez isso mereça um [artigo à parte](http://www.caloni.com.br/introducao-ao-c-builderturbo-c)) do **TForm1** insira o seguinte código:
-
-```cpp
-void __fastcall TForm1::FormClose(TObject *Sender, TCloseAction &Action)
-{
-	Action = caNone;
-} 
-
-```
+    void __fastcall TForm1::FormClose(TObject *Sender, TCloseAction &Action)
+    {
+    	Action = caNone;
+    } 
 
 Pronto! Agora você decide onde termina e onde acaba sua aplicação.
 
-#### Por baixo dos panos da VCL
+![C++ Builder Forms](/img/cppbuilder-forms.png)
 
-[![C++ Builder Forms](http://i.imgur.com/ECCRWxD.png)](/images/cppbuilder-forms.png)
+Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o loop de mensagens que [já conhecemos].
 
-Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o _loop_ de mensagens que [já conhecemos](http://www.caloni.com.br/historia-do-windows-parte-30).
-
-Para analisarmos melhor o que ocorre nos _internals_ da coisa, criei um [projeto simplista](/images/cppbuilder-forms.7z) que possui dois _forms_, ambos com quatro botões: 1) mostrar o outro _form_, 2) esconder a si mesmo, 3) fechar a si mesmo e 4) terminar aplicação. Os dois formulários são tão parecidos que desconfio que sejam gêmeos.
+Para analisarmos melhor o que ocorre nos internals da coisa, criei um [projeto simplista](/images/cppbuilder-forms.7z) que possui dois forms, ambos com quatro botões: 1) mostrar o outro form, 2) esconder a si mesmo, 3) fechar a si mesmo e 4) terminar aplicação. Os dois formulários são tão parecidos que desconfio que sejam gêmeos.
 
 Além disso, iremos precisar do nosso velho e fiel amigo WinDbg, o que o trás de volta à cena do crime depois de alguns artigos de jejum.
 
-<blockquote>
+Para saber mais sobre o WinDbg e dar suas "WinDbgzadas", dê uma olhada em alguns [artigos interessantes](http://www.caloni.com.br/blog/search/WinDbg) sobre depuração usando WinDbg.
 
-> 
-> #### Não fique de fora!
-> 
-_Para saber mais sobre o WinDbg e dar suas "WinDbgzadas", dê uma olhada em alguns [artigos interessantes](http://www.caloni.com.br/blog/search/WinDbg)_ _sobre depuração usando WinDbg_.</blockquote>
+A primeira coisa que um loop de mensagens deveria fazer seria chamar a função [GetMessage](http://msdn2.microsoft.com/en-us/library/ms644936.aspx), que obtém a primeira mensagem em espera na fila de mensagens da thread chamadora. Portanto, vamos dar uma olhada nas chamadas dessa função:
 
-A primeira coisa que um _loop_ de mensagens deveria fazer seria chamar a função [GetMessage](http://msdn2.microsoft.com/en-us/library/ms644936.aspx), que obtém a primeira mensagem em espera na fila de mensagens da _thread_ chamadora. Portanto, vamos dar uma olhada nas chamadas dessa função:
-
-    
     windbg Project1.exe
-    0:001> bm /a user32!GetMessage?
-      1: 7e4191c6 @!"USER32!GetMessageW"
-      2: 7e42e002 @!"USER32!GetMessageA"
+    0:001> bm /a user32!GetMessage?  1: 7e4191c6 @!"USER32!GetMessageW" 2: 7e42e002 @!"USER32!GetMessageA"
     g
 
 E o resultado é... nada! Mesmo mexendo com a janela e apertando seus botões não há uma única ocorrência do GetMessage. Bruxaria? Programação oculta?
 
-Nem tanto. Uma alternativa ao GetMessage, que captura a primeira mensagem da fila de mensagens e a retira, é o [PeekMessage](http://msdn2.microsoft.com/en-us/library/ms644943.aspx), que captura a primeira mensagem da fila, mas **mantém a mensagem na fila**. Por algum motivo, os programadores da Borland fizeram seu _loop_ de mensagens usando PeekMessage.
+Nem tanto. Uma alternativa ao GetMessage, que captura a primeira mensagem da fila de mensagens e a retira, é o [PeekMessage](http://msdn2.microsoft.com/en-us/library/ms644943.aspx), que captura a primeira mensagem da fila, mas mantém a mensagem na fila. Por algum motivo, os programadores da Borland fizeram seu loop de mensagens usando PeekMessage.
 
-    
     bc*
-    0:001> bm /a user32!PeekMessage?
-      1: 7e41929b @!"USER32!PeekMessageW"
-      2: 7e41c96c @!"USER32!PeekMessageA"
+    0:001> bm /a user32!PeekMessage?  1: 7e41929b @!"USER32!PeekMessageW" 2: 7e41c96c @!"USER32!PeekMessageA"
     g
 
-    
     0:001> g
     Breakpoint 2 hit
     eax=00b1c6b0 ebx=00000000 ecx=0012ff44 edx=0012fef8 esi=00b1c6b0 edi=0012fef8
@@ -114,64 +86,28 @@ Agora, sim!
 
 Analisando os parâmetros da função PeekMessage podemos obter algumas informações interessantes sobre uma mensagem, como seu código e a janela destino:
 
-    
-    0:000> dd @$csp L2
-
-* o que tem nessa pilha?
-
-    
+    0:000> dd @$csp L2 * o que tem nessa pilha?
     0012fec8  52079211
-
-0012fef8* pMsg
-
-    
-    0:000> dd poi(@$csp+4) L6
-
-* mostrando membros da estrutura MSG
-
-    
-    0012fef8
-
-000903ba00000113
-
-    
-     00000001 00000000
-
-* handle da janela
-
-    
-    ,
-
-código da mensagem
-
-    
-    , etc
+    0012fef8* pMsg
+    0:000> dd poi(@$csp+4) L6 * mostrando membros da estrutura MSG
+    0012fef8 000903ba00000113 00000001 00000000 * handle da janela, código da mensagem, etc
     0012ff08  007bb129 000000e7
 
-Podemos bater essas informações com as do aplicativo **Spy++**, que captura janelas e suas mensagens:
+Podemos bater essas informações com as do aplicativo Spy++, que captura janelas e suas mensagens:
 
-    
     bd *
     g
 
-<blockquote>
+Normalmente esses dois rodando juntos podem causar alguns conflitos internos. Por isso, quando for usar o Spy++, procure desabilitar seus breakpoints. Após mexer no Spy++, feche-o antes de continuar depurando.
 
-> 
-> #### Cuidado com Spy++ x WinDbg
-> 
-_Normalmente esses dois rodando juntos podem causar alguns conflitos internos. Por isso, quando for usar o Spy++, procure desabilitar seus breakpoints. Após mexer no Spy++, feche-o antes de continuar depurando._</blockquote>
+![Spy++ Window Search](/img/spyxx-window-search.png)
 
-[![Spy++ Window Search](http://i.imgur.com/6vmV4qb.png)](/images/spyxx-window-search.png)
+![Spy++ Window Search Result](/img/spyxx-window-search-result.png)
 
-[![Spy++ Window Search Result](http://i.imgur.com/Wzc7A0u.png)](/images/spyxx-window-search-result.png)
+Como podemos ver, nesse caso a janela encontrada foi justamente a que não aparece: TApplication! Sim, a classe principal da VCL é representada em runtime por uma janela escondida, que controla algumas mensagens específicas da aplicação.
 
-Como podemos ver, nesse caso a janela encontrada foi justamente a que não aparece: TApplication! Sim, a classe principal da VCL é representada em _runtime_ por uma janela escondida, que controla algumas mensagens específicas da aplicação.
+Tem tudo a ver! Mais do que simplesmente programar interfaces, esses conhecimentos permitem fazer a análise de qualquer aplicativo que possua um loop de mensagens. O importante descoberto aqui é que o C++ Builder, assim como o .NET, o Java e o "próximo framework gerenciado", não pode escapar da fatal realidade de que, para exibir janelas, o aplicativo deverá dançar a música da API Win32.
 
-#### Mas o que tudo isso tem a ver com o Builder?
-
-Tem tudo a ver! Mais do que simplesmente programar interfaces, esses conhecimentos permitem fazer a análise de qualquer aplicativo que possua um _loop_ de mensagens. O importante descoberto aqui é que o C++ Builder, assim como o .NET, o Java e o "próximo framework gerenciado", não pode escapar da fatal realidade de que, para exibir janelas, o aplicativo deverá dançar a música da API Win32.
-
-    
     0:001> bc*
     0:001> bp user32!PeekMessageA ".echo PeekMessage; g"
     0:001> bp user32!DispatchMessageA ".echo DispatchMessage; g"
@@ -181,90 +117,7 @@ Tem tudo a ver! Mais do que simplesmente programar interfaces, esses conheciment
     PeekMessage
     DispatchMessage
     PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
-    DispatchMessage
-    PeekMessage
+    ...
     DispatchMessage
     PeekMessage
     eax=77c3f88a ebx=00000000 ecx=77c3e9f9 edx=77c61a70 esi=7c90e88e edi=00000000
@@ -273,3 +126,5 @@ Tem tudo a ver! Mais do que simplesmente programar interfaces, esses conheciment
     ntdll!KiFastSystemCallRet:
     7c90eb94 c3              ret
 
+[artigo à parte]: /introducao-ao-c-builderturbo-c
+[já conhecemos]: /historia-do-windows-parte-30
