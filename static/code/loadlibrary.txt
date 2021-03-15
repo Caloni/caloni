@@ -1,0 +1,43 @@
+$$
+$$ @brief Loads a module inside the debuggee process.
+$$ @author Wanderley Caloni <wanderley@caloni.com.br>
+$$ @date 2007-11
+$$
+.if( ${/d:$arg1} )
+{
+	r $t2 = @$ip
+	.foreach /pS 5 ( addr { .dvalloc 0x1000 } ) { r$t0 = addr }
+	r $t1 = @$t0 + 0x100
+	eza @$t0 "${$arg1}"
+	.echo Trying to load the following module:
+	da @$t0
+	$$ push $ip
+	eb @$t1 0x68
+	ed @$t1 + 0x01 @$t2
+	$$ pushfd
+	eb @$t1 + 0x05 0x9c
+	$$ pushad
+	eb @$t1 + 0x06 0x60
+	$$ push $t0
+	eb @$t1 + 0x07 0x68
+	ed @$t1 + 0x08 @$t0
+	$$ call LoadLibrary
+	eb @$t1 + 0x0c 0xe8
+	ed @$t1 + 0x0d ( kernel32!LoadLibraryA - @$t1 - 0x11 )
+	$$ popad
+	eb @$t1 + 0x11 0x61
+	$$ popfd
+	eb @$t1 + 0x12 0x9d
+	$$ ret
+	eb @$t1 + 0x13 0xc3
+	r $ip = @$t1
+	bp /1 @$t2 ".dvfree @$t0 0"
+	g
+}
+.else
+{
+	.echo How to use:
+	.echo $$>a<path\LoadLibrary.txt mydll.dll
+	.echo $$>a<path\LoadLibrary.txt c:\\path\\mydll.dll
+	.echo $$>a<path\LoadLibrary.txt "c:\\path with space\\mydll.dll"
+}
