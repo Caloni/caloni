@@ -1,7 +1,7 @@
 ---
 date: "2015-03-19"
 link: "https://www.imdb.com/title/tt0298203"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "8 Mile: Rua das Ilusões"
 ---
 Eminem não é um ator: é um rapper. Esse é o pecado original de 8 Mile, um filme que tenta reproduzir a história de vida do cantor através dele mesmo e de uma atmosfera inebriante nos guetos de Detroit. Usa um elenco inspirado -- Mekhi Phifer como o "paizão" Future e o hilário Evan Jones como o ingênuo Cheddar -- e uma fotografia sombria que aposta nos verdes e que ajuda a entrar no universo da fumaça, das gangues, das rimas improvisadas, do frio das ruas e do carro lotado. Há diversas cenas no carro da mãe de B-Rabbit (Eminem) e parece haver uma trocentas pessoas lá dentro. As câmeras responsáveis por filmar a cena são incríveis, mas melhor ainda são os cortes realizados que geram uma fluidez que te coloca como o enésimo passageiro daquele carro que pode falhar a qualquer momento.
