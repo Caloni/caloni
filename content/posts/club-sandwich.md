@@ -1,7 +1,7 @@
 ---
 date: "2015-04-08"
 link: "https://www.imdb.com/title/tt3118696"
-tags: [ "draft", "movies" , "cinemaqui" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Club Sandwich"
 ---
 Escrito e dirigido pelo mexicano Fernando Eimbcke, "Club Sandwich" é uma produção minimalista que gira em torno da relação mãe/filho de Héctor (Lucio Giménez Cacho) e Paloma (María Renée Prudencio) durante sua estadia em um hotel em baixa temporada. Usando um tempo extraordinariamente longo para estabelecer essa relação, a terceira personagem relevante da história, a jovem Jazmín (Danae Reynaud), aparece quase já na metade da projeção.
@@ -14,4 +14,4 @@ Tudo isso vai sendo mostrado em Club Sandwich de maneira muito contemplativa, ma
 
 Porém, não apenas detalhes sutis formam o mosaico de sentimentos e simbolismos nesse ritual de amadurecimento dessas duas pessoas. Se formos considerar relações mais óbvias como a dualidade entre o ventilador e o ar condicionado (Jazmín não pode usar o último, e isso vira a primeira informação que Paloma tem dela) ou a piscina e a praia, veremos que os diálogos é o que menos importa na maioria da história. É no visual que está o segredo para entender a linguagem do filme. Exceto, é claro, no momento impecável em que dois jovens e uma mãe bêbada participam de um jogo nada inocente de cartas. Nesse momento o diálogo é importante, mas continuam sendo as expressões do trio e seus movimentos o principal (tanto que não vemos nenhuma carta sequer).
 
-E é com esse jogo de ritmo definido e aprendido por nós que Club Sandwich consegue impressionar sem precisar se polêmico e fazer refletir sem fórmulas mirabolantes ou ousadas. Basta a construção de um motivo e o emprego correto dos seus personagens que qualquer tema consegue ser levado adiante pela arte do audiovisual.
+E é com esse jogo de ritmo definido e aprendido por nós que Club Sandwich consegue impressionar sem precisar ser polêmico e fazer refletir sem fórmulas mirabolantes ou ousadas. Basta a construção de um motivo e o emprego correto dos seus personagens que qualquer tema consegue ser levado adiante pela arte do audiovisual.

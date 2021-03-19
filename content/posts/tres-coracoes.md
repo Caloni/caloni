@@ -1,7 +1,7 @@
 ---
 date: "2015-04-16"
 link: "https://www.imdb.com/title/tt2822742"
-tags: [ "draft", "movies" , "cinemaqui" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Três Corações"
 ---
 Marc conheceu Sylvie por este ter perdido o trem e ela por ter ido comprar um cigarro. Marc perdeu a hora em seu segundo e último encontro. Marc então conhece Sophie coincidentemente no lugar onde trabalha, no interior da França. O fato de Sophie e Sylvie serem irmãs e melhores amigas é o único fato que torna toda a trama uma longa e fatalista sequência que persegue os personagens por anos de suas vidas.

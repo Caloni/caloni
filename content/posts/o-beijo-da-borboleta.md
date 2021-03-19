@@ -1,7 +1,7 @@
 ---
 date: "2015-03-25"
 link: "https://www.imdb.com/title/tt0112604"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Beijo da Borboleta"
 ---
 O Beijo da Borboleta é um filme com ares de independente, e o que comprova isso é sua trilha sonora. Nenhuma produção usaria músicas tão manjadas, tão fáceis e tão perfeitas para cada momento da história que se abre em torno de duas garotas. As músicas constroem momentos de videoclipe para duas personagens reais. O resultado só pode ser traduzido, talvez, como tenso.

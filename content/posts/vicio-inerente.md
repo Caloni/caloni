@@ -1,10 +1,10 @@
 ---
 date: "2015-03-27"
 link: "https://www.imdb.com/title/tt1791528"
-tags: [ "draft", "movies" , "cinemaqui" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Vício Inerente"
 ---
-Paul Thomas Anderson volta ao seu estilo Boogie Nights e, de certa forma, Magnólia, com esse Vício Inerente. A história gira em torno de Larry "Doc" Sportello (Joaquin Phoenix), um hippie, viciado em diversas drogas e detetive particular nas horas vagas. Horas vagas essas que se tornam uma constante quando ele vai pegando três casos de uma só vez que parecem estar ligados em torno da persona do empreiteiro Mickey Wolfmann. Tudo começa quando sua ex-namorada, Shasta (Katherine Waterston), lhe faz a mais estranhas das visitas dizendo que Mickey é seu novo amante e pede que Doc impeça que a esposa do empreiteiro e seu amante internem-no em um asilo. Apenas essa premissa já seria complicada, mas as coisas vão piorando.
+Paul Thomas Anderson volta ao seu estilo Boogie Nights e, de certa forma, Magnólia, com esse Vício Inerente. A história gira em torno de Larry "Doc" Sportello (Joaquin Phoenix), um hippie, viciado em diversas drogas e detetive particular nas horas vagas. Horas vagas essas que se tornam uma constante quando ele vai pegando três casos de uma só vez que parecem estar ligados em torno da persona do empreiteiro Mickey Wolfmann. Tudo começa quando sua ex-namorada, Shasta (Katherine Waterston), lhe faz a mais estranha das visitas dizendo que Mickey é seu novo amante e pede que Doc impeça que a esposa do empreiteiro e seu amante internem-no em um asilo. Apenas essa premissa já seria complicada, mas as coisas vão piorando.
 
 Envolvendo na trama o detetive durão Christian F. "Bigfoot" Bjornsen (Josh Brolin) e uma dezena de atores conhecidos com papéis que complementam a história de maneira não-essencial, o filme é basicamente uma "viagem" completa que contém a atmosfera de sua época (anos 70) com seres surreais, incluindo mulheres libidinosas passeando pelos olhos do protagonista. Quer dizer, isso é o que vemos e que parece estar se passando na cabeça do nosso "herói", pois não há nenhuma cena sem sua presença. Doc, seu ar cansado digno dos filmes noir, é o centro de sua história e todos giram em torno dele, incluindo sua própria narradora onisciente, interpretada como uma mulher (Joanna Newsom) que decide seguir sua vida e narrar seus pensamentos.
 

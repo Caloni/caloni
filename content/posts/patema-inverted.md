@@ -1,7 +1,7 @@
 ---
 date: "2015-04-19"
 link: "https://www.imdb.com/title/tt2981768"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Patema Inverted"
 ---
 Esse é o primeiro filme que assisto com a premissa de pessoas que possuem a gravidade invertida. Sim, Mundos Opostos é de um ano antes, e apesar de não ter sido lançado no Brasil (alguém acredita que Patema será?) ele possui atores conhecidos e uma produção razoavelmente cara. No entanto, nunca se sabe quando alguém teve a ideia primeiro. E, hoje em dia, é quase certeza que ela veio dos livros ou qualquer outro formato que não o Cinema, onde as grandes empresas parecem ter desistido de arriscar em roteiros originais. No caso do Japão isso é ainda mais padronizado, pois o conteúdo ou vem de um mangá (revista em quadrinhos) ou anime (série de animação), e esse Patema foi distribuído via streaming um ano antes de ser montado como um filme.

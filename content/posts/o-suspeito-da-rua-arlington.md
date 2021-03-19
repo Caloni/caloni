@@ -1,7 +1,7 @@
 ---
 date: "2015-04-10"
 link: "https://www.imdb.com/title/tt0137363"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Suspeito da Rua Arlington"
 ---
 Esse é um filme morno que escapa da mediocridade em seus minutos finais, quando o seu final surpreendente te faz repensar toda a história, achar alguns furos (bem óbvios) e terminar ainda com um saldo positivo. "É, tem furos, foi um desenvolvimento medíocre, mas faz pensar em um bocado de coisas". Entre filmes que são ótimos de assistir e ótimos de esquecer e filmes que são razoáveis mas vão te deixar pensando por um bom tempo neles, prefira os últimos.
