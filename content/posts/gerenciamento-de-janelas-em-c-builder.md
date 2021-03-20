@@ -1,7 +1,7 @@
 ---
 date: "2007-12-11"
 title: "Gerenciamento de janelas em C++ Builder"
-tags: [ "draft", "code" ]
+tags: [ "code" ]
 ---
 As janelas criadas no C++ Builder são equivalentes às janelas criadas pela API, com o detalhe que a VCL gerencia tudo automaticamente. Isso não quer dizer que não podemos tomar controle de tudo. Quer dizer que não precisamos.
 
@@ -26,9 +26,14 @@ Porém, se rodarmos a aplicação nesse momento, podemos notar que o programa ex
 
 Agora ao clicar do botão a janela correspondente ao formulário número 2 também aparece. Podemos fechá-la e abri-la quantas vezes quisermos que o aplicativo continua rodando. Apenas ao fechar a janela no. 1 o aplicativo realmente encerra. Esse comportamento segue o mesmo padrão da função main() na forma clássica das linguagens C/C++:
 
-    
-    ShowMessage("O MainForm de Application é o primeiro TForm criado. "
-      "É o princípio e o fim, o Alfa e o Ômega. Nele tudo começa e tudo termina");
+    ShowMessage(
+      "O MainForm de Application"
+      " é o primeiro TForm criado."
+      " É o princípio e o fim,"
+      " o Alfa e o Ômega."
+      " Nele tudo começa"
+      " e tudo termina"
+    );
 
 Podemos, também como em C/C++ padrão, finalizar explicitamente a aplicação chamando o método Application->Terminate. O MainForm em tempo de execução é uma propriedade de somente leitura de Application. Em tempo de design, ele pode ser alterado pela ordem de criação dos formulários no código ou pela IDE em Project, Options, Forms. Lá você também escolhe quais forms serão criados automaticamente.
 
@@ -54,26 +59,32 @@ Pronto! Agora você decide onde termina e onde acaba sua aplicação.
 
 Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o loop de mensagens que [já conhecemos].
 
-Para analisarmos melhor o que ocorre nos internals da coisa, criei um [projeto simplista](/images/cppbuilder-forms.7z) que possui dois forms, ambos com quatro botões: 1) mostrar o outro form, 2) esconder a si mesmo, 3) fechar a si mesmo e 4) terminar aplicação. Os dois formulários são tão parecidos que desconfio que sejam gêmeos.
+Para analisarmos melhor o que ocorre nos internals da coisa, criei um [projeto simplista] que possui dois forms, ambos com quatro botões: 1) mostrar o outro form, 2) esconder a si mesmo, 3) fechar a si mesmo e 4) terminar aplicação. Os dois formulários são tão parecidos que desconfio que sejam gêmeos.
 
-Além disso, iremos precisar do nosso velho e fiel amigo WinDbg, o que o trás de volta à cena do crime depois de alguns artigos de jejum.
+Além disso, iremos precisar do nosso velho e fiel amigo WinDbg, o que o trás de volta à cena do crime depois de alguns artigos de jejum. Para saber mais sobre o WinDbg e dar suas "WinDbgzadas", [faça uma busca] no blogue.
 
-Para saber mais sobre o WinDbg e dar suas "WinDbgzadas", dê uma olhada em alguns [artigos interessantes](http://www.caloni.com.br/blog/search/WinDbg) sobre depuração usando WinDbg.
-
-A primeira coisa que um loop de mensagens deveria fazer seria chamar a função [GetMessage](http://msdn2.microsoft.com/en-us/library/ms644936.aspx), que obtém a primeira mensagem em espera na fila de mensagens da thread chamadora. Portanto, vamos dar uma olhada nas chamadas dessa função:
+A primeira coisa que um loop de mensagens deveria fazer seria chamar a função GetMessage, que obtém a primeira mensagem em espera na fila de mensagens da thread chamadora. Portanto, vamos dar uma olhada nas chamadas dessa função:
 
     windbg Project1.exe
-    0:001> bm /a user32!GetMessage?  1: 7e4191c6 @!"USER32!GetMessageW" 2: 7e42e002 @!"USER32!GetMessageA"
-    g
+    0:001> g
+    ModLoad: addr module1.dll
+    ModLoad: addr module2.DLL
+    ModLoad: addr module3.dll
+    ...
+    Ctrl+Break
+    0:001> bm /a user32!GetMessage?
+    1: 7e4191c6 @!"USER32!GetMessageW"
+    2: 7e42e002 @!"USER32!GetMessageA"
+    0:001> g
 
 E o resultado é... nada! Mesmo mexendo com a janela e apertando seus botões não há uma única ocorrência do GetMessage. Bruxaria? Programação oculta?
 
-Nem tanto. Uma alternativa ao GetMessage, que captura a primeira mensagem da fila de mensagens e a retira, é o [PeekMessage](http://msdn2.microsoft.com/en-us/library/ms644943.aspx), que captura a primeira mensagem da fila, mas mantém a mensagem na fila. Por algum motivo, os programadores da Borland fizeram seu loop de mensagens usando PeekMessage.
+Nem tanto. Uma alternativa ao GetMessage, que captura a primeira mensagem da fila de mensagens e a retira, é o PeekMessage, que captura a primeira mensagem da fila, mas mantém a mensagem na fila. Por algum motivo, os programadores da Borland fizeram seu loop de mensagens usando PeekMessage.
 
-    bc*
-    0:001> bm /a user32!PeekMessage?  1: 7e41929b @!"USER32!PeekMessageW" 2: 7e41c96c @!"USER32!PeekMessageA"
-    g
-
+    0:001> bc*
+    0:001> bm /a user32!PeekMessage?
+      1: 7e41929b @!"USER32!PeekMessageW"
+      2: 7e41c96c @!"USER32!PeekMessageA"
     0:001> g
     Breakpoint 2 hit
     eax=00b1c6b0 ebx=00000000 ecx=0012ff44 edx=0012fef8 esi=00b1c6b0 edi=0012fef8
@@ -86,17 +97,16 @@ Agora, sim!
 
 Analisando os parâmetros da função PeekMessage podemos obter algumas informações interessantes sobre uma mensagem, como seu código e a janela destino:
 
-    0:000> dd @$csp L2 * o que tem nessa pilha?
-    0012fec8  52079211
-    0012fef8* pMsg
-    0:000> dd poi(@$csp+4) L6 * mostrando membros da estrutura MSG
-    0012fef8 000903ba00000113 00000001 00000000 * handle da janela, código da mensagem, etc
-    0012ff08  007bb129 000000e7
+    0:000> dd @$csp L2
+    0019fe9c  4005aa1c 0019fec8
+    0:000> dd poi(@$csp+4) L6
+    0019fec8  00160708 00000113 00000001 00000000
+    0019fed8  0869c6e1 00000244
 
 Podemos bater essas informações com as do aplicativo Spy++, que captura janelas e suas mensagens:
 
-    bd *
-    g
+    0:000> bd *
+    0:000> g
 
 Normalmente esses dois rodando juntos podem causar alguns conflitos internos. Por isso, quando for usar o Spy++, procure desabilitar seus breakpoints. Após mexer no Spy++, feche-o antes de continuar depurando.
 
@@ -128,3 +138,5 @@ Tem tudo a ver! Mais do que simplesmente programar interfaces, esses conheciment
 
 [artigo à parte]: /introducao-ao-c-builderturbo-c
 [já conhecemos]: /historia-do-windows-parte-30
+[projeto simplista]: https://github.com/Caloni/cppbuilder-forms
+[faça uma busca]: http://www.caloni.com.br/posts/?q=windbg
