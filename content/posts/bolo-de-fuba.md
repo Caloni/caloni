@@ -1,6 +1,6 @@
 ---
 date: "2019-09-08"
-tags: [ "draft", "recipes" ]
+tags: [ "draft", "food" ]
 title: "Bolo de Fubá"
 ---
 

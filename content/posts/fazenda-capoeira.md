@@ -1,7 +1,7 @@
 ---
 date: "2020-05-05"
 link: "https://www.graogourmet.com/produto/cafe-gourmet-torrado-da-fazenda-capoeira/"
-tags: [ "coffee" ]
+tags: [ "food" ]
 title: "Fazenda Capoeira"
 ---
 Fazenda Capoeira é um café doce, torra clara, pouca acidez e tons de caramelo aveludado. Pouca expressão após degustar, e parece enjoativo no final, mas sempre acabo passando uma nova caneca no meio do dia.

@@ -1,6 +1,6 @@
 ---
 date: "2017-05-30"
-tags: [ "draft", "recipes" ]
+tags: [ "draft", "food" ]
 title: "Bolo de Cenoura com Chocolate"
 ---
 
