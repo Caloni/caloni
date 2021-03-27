@@ -1,6 +1,6 @@
 ---
 date: "2020-12-27"
-tags: [ "wines", "lists" ]
+tags: [ "food", "lists" ]
 title: "Degustações esporádicas de vinhos"
 ---
  - 2019-07-01 Valpolicella é um vinho italiano leve, quase aguado, mas bom de beber sem pressa apreciando a imbatível combinação de amargo e doce (do molho) da pizza de escarola da Cantina do Araújo em Poços de Caldas.
