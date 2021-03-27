@@ -1,7 +1,7 @@
 ---
 date: "2007-12-21"
 title: Banco de dados no C++ Builder
-tags: [ "draft", "code" ]
+tags: [ "code" ]
 ---
 Um banco de dados é qualquer lugar onde podemos ler e escrever informação geralmente persistente. Pode ser um arquivo INI, uma estrutura binária ou uma plantação de servidores para fazer busca na internet. O uso de banco de dados em programação é mais que essencial, pois permite que armazenemos os resultados de um processamento e utilizemos esses mesmos resultados em futuras execuções.
 
@@ -21,11 +21,11 @@ Neste tutorial vamos usar aquilo que é o configurador oficial de banco de dados
 
 Criado o MDB, podemos clicar no BDE Administrator do Painel de Controle. A única coisa que precisamos fazer é criar uma nova base de dados, e especificar seus poucos parâmetros, como o tipo de base (MSACCESS) e o path de onde está o arquivo MDB.
 
-[![BDE Config](http://i.imgur.com/CGK70TT.png)](/images/bde-config.png)
+![BDE Config](/img/bde-config.png)
 
 Ah, sim, claro, também é importante colocar um nome apropriado para a base de dados: MegaSena.
 
-A partir daí, clicando no botão Apply ![BDE Apply](http://i.imgur.com/V7nz629.png), tudo deve fluir. Como em informática tudo quer dizer nada, eu deixo por conta do leitor a resolução de quaisquer problemas que acontecerem durante a configuração.
+A partir daí clicando no botão Apply tudo deve fluir. Como em informática tudo quer dizer nada, eu deixo por conta do leitor a resolução de quaisquer problemas que acontecerem durante a configuração.
 
 Criado o banco e testado (experimente conectar pelo próprio BDE) podemos agora criar um novo projeto VCL e colocar alguns componentes interessantes feitos especialmente para banco de dados. São eles:
 
@@ -52,16 +52,17 @@ Abaixo segue a configuração de cada um deles, ou seja, as propriedades que voc
 
 Após todos esses componentes não-visuais terem sido inseridos no form, nada como colocar alguma coisa que o usuário veja: um TDBGrid.
 
-    
     object DBGrid1: TDBGrid
       DataSource = DataSource1
     end
 
 Com isso, nossa janela já exibe o conteúdo da tabela em tempo de design:
 
-[![DB Grid](http://i.imgur.com/gQZWVxo.png)](/images/cppb-dbgrid.png)
+![DB Grid](/img/cppb-dbgrid.png)
 
 E é isso! Se chegamos até aqui, já sabemos o arroz com feijão de usar banco de dados com o C++ Builder. Mais para a frente podemos nos aventurar em tópicos um pouco mais avançados, como fazer buscas, navegar item a item e essas coisas que as pessoas costumam fazer com um MDB.
+
+ - 2021-03-27. Durante a revisão deste post eu tentei rodar a aplicação sem sucesso. Existem erros na abertura e configuração do arquivo mdb que não perdi mais tempo tentando resolver.
 
 [Caixa Econômica Federal]: http://loterias.caixa.gov.br
 [repositório do projeto]: https://github.com/Caloni/MegaSena
