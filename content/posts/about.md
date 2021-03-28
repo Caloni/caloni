@@ -4,6 +4,8 @@ date: "2007-06-14"
 tags: [ "blog" ]
 title: "Wanderley Caloni"
 ---
+Quer entrar em contato? Mante o bom e velho [email].
+
 Wanderley Caloni é um programador C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico a pedidos insistentes do seu amigo Rodrigo Strauss, que estava blogando já fazia alguns anos no www.1bit.com.br. Busco mantê-lo atualizado por esses longos anos de programação, depuração e transpiração com minhas peripécias do dia-a-dia. Eventualmente me tornei crítico de cinema e juntei aqui essas duas escovas de dentes, textos técnicos e cinematográficos, o que acabou tornando o saite gigante a ponto de eu precisar trocar meu static site generator para algo mais rápido como Hugo.
 
 ## Overview geral por cima
@@ -108,3 +110,4 @@ Venho mantendo as soluções de baixo nível da Intelitrader, principalmente as 
 
 [um ótimo artigo aqui no blog]: /o-bug-mais-bizarro-que-ja-resolvi
 [pelo Code Project]: https://www.codeproject.com/Articles/caloni
+[email]: mailto:wanderleycaloni@gmail.com
