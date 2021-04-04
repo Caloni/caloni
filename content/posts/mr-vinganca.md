@@ -1,7 +1,7 @@
 ---
 date: "2015-05-26"
 link: "https://www.imdb.com/title/tt0310775"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Mr. Vingança"
 ---
 A vingança vista em Old Boy, de Chan-wook Park, é o segundo filme do diretor sobre o tema. O primeiro, esse Mr. Vingança, é mais bruto. Não no sentido da violência ou da revelação final. Não há revelações finais, aliás (spoiler alert!), mas há duas metades de uma história: na primeira metade as pessoas e suas relações são escancaradas para que, na segunda metade, uma espiral sem fim de atos de vingança tome conta da tela. Muitas vezes o filme tenta soar apenas um pouco além do que ele verdadeiramente é, e por isso trai sua própria perfeição estética em troca de uma história muitas vezes sem rumo ou simbólica demais. 

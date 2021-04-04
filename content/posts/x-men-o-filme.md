@@ -1,7 +1,7 @@
 ---
 date: "2015-07-16"
 link: "https://www.imdb.com/title/tt0120903"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "X-Men: O Filme"
 ---
 "X-Men: o Filme" é um dos primeiros trabalhos de fantasia que volta a explorar super-heróis verossímeis, no sentido de respeitá-los como seres complexos envoltos em um universo onde sua existência não apenas é possível, mas moldada por ela. Dessa forma, ele faz o gancho com os quase esquecidos "Superman: o Filme" e "Superman: a Aventura Continua" e ainda nos apresenta uma aventura onde existe uma penca deles, conseguindo fazer com que tudo tivesse não apenas um sentido direto, mas simbólico.
@@ -12,4 +12,4 @@ Rapidamente também aprendemos que a maioria dos mutantes teme pela sua vida (pe
 
 Dessa forma, "X-Men: o Filme" está muito longe daquela fórmula maniqueísta de "bem vs mal", já que tudo é uma questão de ponto de vista. Ainda assim, realiza um ótimo trabalho em demonstrar como alguma atitudes, embora vestidas de nobre, soam covarde sob o escrutínio lógico. É assim que Wolverine (Hugh Jackman), o X-Men mais complexo, consegue desmascarar os planos de Magneto, que além de covarde é hipócrita.
 
-Iniciando uma franquia de maneira satisfatória, já que de certa forma consegue concluir a trama principal sem ficar prometendo filmes melhor resolvidos para depois (um pecado comum nas produções da Marvel), o filme de Bryan Singer pode até ser acusado de infantil, já que usa a fantasia em excesso para não fazer perder suas referências nos quadrinhos. Porém, se isso é de fato uma acusação, acusemos também o primeiro Star Wars, Indiana Jones e até E.T.. Indo mais além, até "Superman: o Filme", mesmo épico, é um filme de criança. Torçamos, então, para que todos os filmes de criança permitam a entrada de adultos na sala de exibição.
+Iniciando uma franquia de maneira satisfatória, já que de certa forma consegue concluir a trama principal sem ficar prometendo filmes melhor resolvidos para depois (um pecado comum nas produções da Marvel), o filme de Bryan Singer pode até ser acusado de infantil, já que usa a fantasia em excesso para não fazer perder suas referências nos quadrinhos. Porém, se isso é de fato uma acusação, acusemos também o primeiro Star Wars, Indiana Jones e até E.T. Indo mais além, até "Superman: o Filme", mesmo épico, é um filme de criança. Torçamos, então, para que todos os filmes de criança permitam a entrada de adultos na sala de exibição.

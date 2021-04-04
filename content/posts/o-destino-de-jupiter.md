@@ -1,7 +1,7 @@
 ---
 date: "2015-05-12"
 link: "https://www.imdb.com/title/tt1617661"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "O Destino de Júpiter"
 ---
 Esse é um ótimo filme se você quiser descobrir o que os irmãos Wachowski, da trilogia Matrix, fariam com a tecnologia atual contando uma história bem parecida com Matrix Revolutions no sentido de cenários grandiosos, personagens heroicos e o tempo dividido em metade ação, metade reflexão. Sinceramente, eu esperava um pouco mais dos diretores que criaram Cloud Atlas, uma odisseia que passeia por eras e cujo conflito é muito mais metafísico do que neste filme. Aqui o objetivo é fazer com que a garota Jupiter não seja morta e salvar a humanidade. A garota é Mila Kunis, aquela menina atraente de Cisne Negro que se deita com Natalie Portman, e está em boas mãos aqui, protegida pelo igualmente voluptuoso Caine Wise (Channing Tatum). Podemos criticar diversos aspectos da filmografia dos Wachoski, mas uma coisa que eles sabem escolher são tipos físicos para suas histórias.
@@ -12,4 +12,4 @@ Apresentando Júpiter como a garota filha de um astrônomo (que morre no começo
 
 O que estraga o filme é essa necessidade de existir ação desenfreada e um romancezinho de boteco. Do começo até o final, a relação entre Júpiter e Caine nunca faz sentido. Nem a amorosa e nem a de fidelidade, pois Caine protege Júpiter como se fosse a amada de séculos atrás, mas nunca descobrimos direito o porquê. Enfim, tudo é motivo para explosão em cima de explosão e Júpiter é salva por Caine em meia-dúzia de situações que já fazem parte da cartilha de clichês de filme de ação há muito tempo. Já sabemos o que vai acontecer. Assistimos sequências burocráticas atrás de mais história, pois ela é a única que parece valer a pena ser assistida.
 
-E Mila Kunis, tão bela e tão vazia, não consegue extrair nada de sua Júpiter, a união entre a razão e o sentimento. De sentimentos, o rosto da atriz carece de algum, e de razão, não faz o menor sentido ela assimilar tão rapidamente as descobertas envolvendo o planeta, o universo e ela mesma. O que Douglas Adams precisa de um ou mais livros para explicar para os terráqueos, aqui parece ser apenas uma distração para a menina aparentemente mimada (embora limpe banheiros). Talvez a contradição de sua personalidade esteja em seu signo.
+E Mila Kunis, tão bela e tão vazia, não consegue extrair nada de sua Júpiter, a união entre a razão e o sentimento. De sentimentos, o rosto da atriz carece de algum, e de razão, não faz o menor sentido ela assimilar tão rapidamente as descobertas envolvendo o planeta, o universo e ela mesma. O que Douglas Adams precisa de um ou mais livros para explicar para os terráqueos, aqui parece ser apenas uma distração para a menina mimada que limpa banheiros. Talvez a contradição de sua personalidade esteja em seu signo.

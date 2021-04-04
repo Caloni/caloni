@@ -1,10 +1,10 @@
 ---
 date: "2015-06-27"
 link: "https://www.imdb.com/title/tt2639254"
-tags: [ "draft", "movies" , "cinemaqui" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Um Pouco de Caos"
 ---
-Um Pouco de Caos é um passeio tranquilo -- até demais -- no mundo da aristocracia francesa (embora todos falem inglês sem cerimônias) para fazer-nos apreciar a atmosfera dominante do blasé frente aos que ainda precisam lutar para serem aceitos na alta sociedade. Durante o processo, é tão óbvio que encontraremos um amor proibido que até isso se torna blasé.
+Um Pouco de Caos é um passeio tranquilo, até demais, no mundo da aristocracia francesa (embora todos falem inglês sem cerimônias) para fazer-nos apreciar a atmosfera dominante do blasé frente aos que ainda precisam lutar para serem aceitos na alta sociedade. Durante o processo é tão óbvio que haverá um amor proibido que até isso se torna sem graça.
 
 Dirigido por Alan Rickman -- o Professor Severus Snape da série Harry Potter -- depois de sua estreia na direção quase 20 anos atrás, é o primeiro filme em que ele também atua, como o Rei Luís XIV durante a construção dos jardins de Versalhes. O palácio, localizado longe do centro de Paris, suas doenças e seus pobres, contém uma coleção inigualável de jardins criados a mando do rei, e cujos projetos eram constantemente disputados pelos mais proeminentes paisagistas, especialmente os que seguem o guia moral de sua majestade: a perfeição da ordem.
 

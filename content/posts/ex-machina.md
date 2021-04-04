@@ -1,7 +1,7 @@
 ---
 date: "2015-05-19"
 link: "https://www.imdb.com/title/tt0470752"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Ex Machina"
 ---
 Um exercício filosófico em forma de filme que entrega um thriller que prende a atenção do começo ao fim, mas que por evitar usar palavras "complicadas", ou melhor dizendo, empregar relações mais complexas entre seus personagens, constrói uma experiência "sanitizada". Todo o ambiente reflete isso: as paredes acinzentadas, as portas idênticas, os padrões geométricos repetidos. Porém, ao usar vidros por todos os lados e diálogos reveladores, há pelo menos uma coisa que somos obrigados a encarar de frente: a nossa humanidade sendo roubada por nossa própria criação.
@@ -10,7 +10,7 @@ Porém, a humanidade retratada aqui é tão estéril que não sentimos muita com
 
 Caleb é sorteado para passar uma semana na fortaleza da solidão de Nathan, e com isso tem acesso -- após assinar um termo em que se compromete a guardar o que vir para si mesmo -- ao fruto da última pesquisa de Nathan: uma Inteligência Artificial em forma de moça: Ava (Alicia Vikander, cujo o nome de sua personagem é um paralelo óbvio demais com a Bíblia). Sua fisiologia parece idêntica a um ser humano, até no seu modo de andar. As duas únicas exceções parecem residir nos materiais usados e ainda na idade prematura de sua mente, algo que parece ser corrigido rapidamente a cada novo dia de sua existência.
 
-Fechando a lista dos únicos personagens relevante, Kyoko é a única funcionária a serviço de Nathan. Calada, não conhece a língua que falam, um artifício usado por Nathan para proteger a informação que é trocada nas conversas casuais durante o almoço. Isso é, seriam conversas casuais se Caleb e Nathan não se comportassem como robôs, principalmente o primeiro. Nathan também, mas de outra forma. Sua humanidade parece que foi sugada pela sua própria invenção. Suas duas únicas preocupações parecem se resumir em sempre ficar completamente bêbado e proteger o acesso aos dados de sua pesquisa. É tão irônico quanto compreensível que o criador de uma das ferramentas que mais invade a privacidade das pessoas tome tantas precauções para evitar a sua própria.
+Fechando a lista dos únicos personagens relevante, Kyoko é a única funcionária a serviço de Nathan. Calada, não conhece a língua que falam, um artifício usado por Nathan para proteger a informação que é trocada nas conversas casuais durante o almoço. Isso é, seriam conversas casuais se Caleb e Nathan não se comportassem como robôs, principalmente o primeiro. Nathan também, mas de outra forma. Sua humanidade parece que foi sugada pela sua própria invenção. Suas duas únicas preocupações parecem se resumir em sempre ficar completamente bêbado e proteger o acesso aos dados de sua pesquisa. É tão irônico, hipócrita e compreensível que o criador de uma das ferramentas que invade a privacidade das pessoas tome tantas precauções para evitar que a sua própria seja exposta.
 
 Contando a trama através de um dia-a-dia rotineiro, em que Caleb tem por função realizar perguntas para Ava de forma a julgá-la através do famoso Teste de Turing -- que permite reconhecer que um computador passou a ter uma consciência que o torna indistinguível de um ser humano --, parece que esses dias são curtos demais, e as perguntas sem nenhuma imaginação. Pior: é difícil acreditar que Caleb e Nathan realmente passam uma semana tão estéril quanto a sexualidade do rapaz, não havendo quase nenhuma pergunta que desperte nosso interesse.
 

@@ -1,14 +1,14 @@
 ---
 date: "2015-06-07"
 link: "https://www.imdb.com/title/tt1528071"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Amaldiçoado"
 ---
 Horns é uma fábula contada da forma mais banal possível: a investigação de um crime em uma cidadezinha. Passando por todos os clichês do gênero, a parte divertida é mais ou menos a metade do filme: observar a "maldade" inerente em todo e qualquer ser humano.
 
 Tendo como seu núcleo dramático a relação entre Ig (Daniel Radcliffe) e Merrin (Juno Temple), mas se estendendo a todos os seus amigos de infância, que não saíram da cidade e cresceram e se tornaram os adultos "esperados" de uma sequência em flashback onde estão todos juntos, o assassinato da garota por seu namorado é tido como certo desde o início, dadas as circunstâncias da noite em que foi morta. circunstâncias essas que o roteiro de Keith Bunin baseado no romance de Joe Hill vai contando aos poucos, sem pressa, o que serve pelo menos para manter o interesse médio durante todo o trajeto.
 
-Fora isso, depois que Ig urina e chuta alguns símbolos religiosos no local do crime, começam a crescer chifres demoníacos no rapaz, e as pessoas em sua presença sentem um irresistível vontade de confessar seus desejos mais egoístas, pedindo permissão para Ig para executá-los. Praticamente ninguém se safa da maldição que ele passa a carregar, de forma que ele a usa como virtude para descobrir o verdadeiro assassino de sua amada (mesmo mantendo o suspense, você não acreditou que ele fosse realmente suspeito, não? de qualquer forma, parece que o roteiro acredita que somos, sim, bobos de acreditar nisso).
+Fora isso, depois que Ig urina e chuta alguns símbolos religiosos no local do crime, começam a crescer chifres demoníacos no rapaz, e as pessoas em sua presença sentem um irresistível vontade de confessar seus desejos mais egoístas, pedindo permissão a Ig para executá-los. Praticamente ninguém se safa da maldição que ele passa a carregar, de forma que ele a usa como virtude para descobrir o verdadeiro assassino de sua amada (mesmo mantendo o suspense, você não acreditou que ele fosse realmente suspeito, não? de qualquer forma, parece que o roteiro acredita que somos, sim, bobos de acreditar nisso).
 
 É preciso dizer que Daniel Radcliffe é perfeito para o papel, que mistura o drama com um certo humor (negro), mas seu personagem é um mero joguete nas mãos de uma história que luta para nunca representar nenhuma ameaça para a visão medíocre de um espectador preguiçoso acostumado a ver e rever a mesma história de assassinato misterioso envolvendo um trio (ou quarteto) amoroso. Por outro lado, se o objetivo ao assistir esse filme é a preguiça de pensar, vá em frente. Está tudo mastigado.
 

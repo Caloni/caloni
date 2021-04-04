@@ -1,7 +1,7 @@
 ---
 date: "2015-06-16"
 link: "https://www.imdb.com/title/tt0061722"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "A Primeira Noite de um Homem"
 ---
 Esse é um filme que possui a alma dos anos 60. Quebra de convenções por todos os lados, e um cuidado especial na condução de uma... quem diria, comédia romântica, em tons sortidos; pelo menos o suficiente para que não encaremos os detalhes inseridos na trama apenas como engraçados, mas também dramáticos; e fiquemos apreensivos pelo destino de um dos heróis mais icônicos e irônicos do Cinema: Ben Braddock.
@@ -14,6 +14,6 @@ O roteiro adaptado por Calder Willingham (que também escreveu Glória Feita de 
 
 E esse "deseja mudar algo" é uma metáfora das mais inspiradas. Desafiando o status quo através da eterna luta adultos x jovens que ficou bem acirrada naquela época, os adultos também representavam o poder (e eles frequentemente escolhem o que é melhor para a vida de Ben), a religião (que merece uma bela homenagem em seu terceiro ato), o monopólio do sexo. Tudo isso está representado em uma história que caminha por caminho não-convencionais para o mais tradicional dos clichês das ComRom. Às vezes não tem como fugir do formato, mas os bons diretores conseguem extrair ouro do que já está escrito em pedra por tantos anos (e hoje é tão batido).
 
-Até a música de The Graduate remete diretamente àquela época com todo seu ímpeto, sua poesia, sua narração bem próxima do personagem. Cantada pela dupla Simon & Garfunke e tendo a versão instrumental por Dave Grusin, meio que se torno o hino de uma geração. Ao contrário do que você pode pensar, não é sobre nerds virgens, mas sobre homens que desejam retomar o controle de suas vidas. Controle esse constantemente nas mãos dos pais. Bom, chegou a hora da retomada. Diferente dos igualmente importantes filmes de John Hughes sobre os conflitos adolescentes, é a glória juvenil homenageada e inserida em uma sociedade que já está com os dias contados.
+Até a música de The Graduate remete diretamente àquela época com todo seu ímpeto, sua poesia, sua narração bem próxima do personagem. Cantada pela dupla Simon & Garfunke e tendo a versão instrumental por Dave Grusin se torna o hino de uma geração. Ao contrário do que você pode pensar, não é sobre nerds virgens, mas sobre homens que desejam retomar o controle de suas vidas. Controle esse constantemente nas mãos dos pais. Bom, chegou a hora da retomada. Diferente dos igualmente importantes filmes de John Hughes sobre os conflitos adolescentes, é a glória juvenil homenageada e inserida em uma sociedade que já está com os dias contados.
 
 Com tudo de errado representado pelos "adultos" e a liberdade cantada e descrita pelos movimentos desarticulados do frenético e brilhante Dustin Hoffman, encontramos no final de um túnel de reflexões um turbilhão de emoções, onde uma cruz, um parapeito e um ônibus conseguem em menos de alguns momentos representar uma das sequências mais belas produzidas pelo Cinema. É cafona, assim como a época, e é por isso que funciona do começo ao fim. E, ironicamente, envelheceu como ninguém.
