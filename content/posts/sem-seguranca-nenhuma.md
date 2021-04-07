@@ -1,7 +1,7 @@
 ---
 date: "2015-07-20"
 link: "https://www.imdb.com/title/tt1862079"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Sem Segurança Nenhuma"
 ---
 Até que não incomoda tanto o fato de Sem Segurança Nenhuma não se esforçar para sair de sua própria mediocridade, pois é possível constatar durante todo o trajeto guiado pela tensão de sua premissa inicial (a viagem no tempo) que há algo de agradável em sua eloquência, mesmo que seus personagens sejam batidos, suas histórias sejam clichês e suas piadas, assim como o melancólico Regular Show, tenham viajado para o presente direto dos anos 80.
@@ -12,4 +12,4 @@ Sempre se utilizando como suporte dramático da dúvida cruel se o maluco está 
 
 Quem também brilha são o diretor Colin Trevorrow (também de Jurassic World) e seus editores Joe Landauer e Franklin Peterson, que têm a proeza de manter interessante uma produção obviamente de baixo orçamento e baseada mais em diálogos do que ações, ainda que esses diálogos sejam ditos sempre em movimento (uma ideia eficiente). Além disso, os diferente ângulos e os cortes rápidos mantém o sentimento de urgência da situação, pois Kenneth pretende "zarpar" em breve, e a dúvida do espectador de se tudo aquilo é verdade parece escorregar por entre os dedos a todo o momento.
 
-Como eu disse, Sem Segurança Nenhuma não é nenhuma obra-prima, pois está baseada em uma história "nada de mais". No entanto, seus esforços em tornar aquilo muito mais do que uma experiência vazia são dignas de nota. Os criadores do filme podem dormir em paz, sem desejar voltar no tempo para a sala de edição.
+Como eu disse, Sem Segurança Nenhuma não é nenhuma obra-prima, pois está baseada em uma história "nada demais". No entanto, seus esforços em tornar tudo aquilo muito mais do que uma experiência vazia são dignos de nota. Os criadores do filme podem dormir em paz, sem desejar voltar no tempo para a sala de edição.
