@@ -1,7 +1,7 @@
 ---
 date: "2015-08-23"
 link: "https://www.imdb.com/title/tt3108662"
-tags: [ "draft", "movies" , "cinemaqui" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Entrando Numa Roubada"
 ---
 Uma comédia mista, cuja criatividade consegue protagonizar pelo menos um momento icônico (no deserto), está cheio de galhofas pretensiosas envolvendo filmes de faroeste Sergio Leoleano espalhadas em uma história que diverte pelo seu elenco, mas falha lamentavelmente no drama que procura mesclar e substituir o humor.

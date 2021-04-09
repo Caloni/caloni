@@ -1,7 +1,7 @@
 ---
 date: "2015-08-23"
 link: "https://www.imdb.com/title/tt1361313"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Os Acompanhantes"
 ---
 Não é de hoje que acompanho o ótimo desempenho de Paul Dano e sua ascenção desde Pequena Miss Sunshine. Dotado de uma feição característica, sua figura simpática e ingênua soa familiar na maioria dos seus filmes em que é o mocinho. Porém, o que mais gosto nele são seus trabalhos como vilão (Sangue Negro, 12 Anos de Escravidão, Os Suspeitos), pois sua feição "característica" adquire uma função muito mais efetiva: a vontade de socar a sua cara.
