@@ -1,7 +1,7 @@
 ---
 date: "2015-09-17"
 link: "https://www.imdb.com/title/tt0016332"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Sete Oportunidades"
 ---
 Seven Chances é um filme de uma hora de Buster Keaton que mais uma vez consegue a proeza de contar uma história datada, fútil e banal da maneira mais prosaica, mais hilária e mais movimentada possível.

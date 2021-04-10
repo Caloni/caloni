@@ -1,12 +1,12 @@
 ---
 date: "2015-09-16"
 link: "https://www.imdb.com/title/tt2406252"
-tags: [ "draft", "movies" , "cinemaqui" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "A Pele de Vênus"
 ---
 Finalmente chega no Brasil "A Pele de Vênus", filme de 2013 do diretor Roman Polanski e que lembra bastante Lua de Fel ao falar das complexidades da relação entre os sexos, principalmente sobre dominação de um sobre outro.
 
-Contando com apenas dois personagens e um cenário, o filme é um longo ensaio para a peça que o roteirista e diretor Thomas (Mathieu Amalric) escreveu como adaptação de um romance do século 19 que lida com o empoderamento da mulher (pelo menos em sua visão). Exausto após um dia de testes com candidatas aquém da mulher que procura, o surgimento da magnética Vanda (Emmanuelle Seigner) no meio de uma tempestade o faz iniciar um mini-relacionamento simbólico de uma hora e meia através dos dois personagens da trama.
+Contando com apenas dois personagens e um cenário, o filme é um longo ensaio para a peça que o roteirista e diretor Thomas (Mathieu Amalric) escreveu como adaptação de um romance do século 19 que lida com o empoderamento da mulher (pelo menos em sua visão). Exausto após um dia de testes com candidatas, todas aquém da mulher que procura, o surgimento da magnética Vanda (Emmanuelle Seigner) no meio de uma tempestade inicia um mini-relacionamento simbólico de uma hora e meia de trama.
 
 Após entendermos o fascinante mecanismo de troca de cenas, papéis e posições de dominação empregados por Polanski, que assina o roteiro junto do dramaturgo David Ives, é fácil perceber que o ponto alto do filme está logo no seu início, onde partimos de uma Vanda completamente tresloucada, ainda que intimista e confiante, e que se transforma quase que instantaneamente na "Vanda" (também é o nome da personagem da peça/romance) que Thomas tanto procurava. Encantado com a moça (para dizer o mínimo), ele participa da brincadeira em que ambos interpretam os personagens da peça, e onde Vanda começa aos poucos a tomar conta do roteiro de Thomas.
 

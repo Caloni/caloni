@@ -1,8 +1,8 @@
 ---
 date: "2015-09-20"
 link: "https://www.imdb.com/title/tt2625598"
-tags: [ "draft", "movies" ]
-title: "Living on One Dollar"
+tags: [ "movies" ]
+title: "Vivendo Com Um Dólar"
 ---
 Alguns filmes são propositadamente desonestos com suas premissas, dramatizando em excesso para conseguir validar seus argumentos. No processo, consegue realizar um bom trabalho, ainda que parcial demais. Dessa safra temos Blackfish e Chasing Ice.
 
@@ -12,10 +12,10 @@ Já este Living on One Dollar não poderia ser acusado de manipulador, pois não
 
 É nesse sentido que o filme sai do seu lugar-comum para extrair daqueles moradores da região pobre da Guatemala uma experiência de vida comum a um sexto da população mundial: viver com menos de 1 dólar por dia.
 
-O fascinante no projeto dos diretores -- que vivem essa experiência saindo de seus confortáveis lares norte-americanos após suas confortáveis infância e adolescência -- é que embora com uma premissa simples, detalhes da forma de viver dos moradores do vilarejo escolhido e como esses detalhes impactam bruscamente na sua qualidade de vida. Então, por exemplo, saber usar o fogo com mais eficiência ou acrescentar gordura à dieta comum pode oferecer maiores chances de sobrevivência.
+O fascinante no projeto dos diretores -- que vivem essa experiência saindo de seus confortáveis lares norte-americanos após suas confortáveis infância e adolescência -- é que embora com a simples premissa de viver como os moradores de um vilarejo são os detalhes que impactam bruscamente na sua qualidade de vida. Então, por exemplo, saber usar o fogo com mais eficiência ou acrescentar gordura à dieta comum pode oferecer maiores chances de sobrevivência.
 
 Ironicamente, outros detalhes, como a ajuda que um membro da comunidade oferece para salvar uma vida, e como essa pessoa, por possuir um emprego fixo, possui a chance de ajudar, prova que a máxima da esquerda de que "sem o governo, quem vai ajudar os pobres?" se torna tão falha quanto desonesta, já que o próprio pobre, em uma situação um pouco melhor que a média de seus vizinhos, possui a empatia necessária para alavancar vidas ou até salvá-las. Como um dos diretores coloca em dado momento do filme, a vontade de retribuir a gratidão do vizinho é imensa. E deve ser, mesmo. Seres humanos não são essa crueldade toda pintada por inimigos da livre iniciativa. 
 
-Tanto é que o maior sinal de esperança do vilarejo parte justamente das iniciativa empreendedoras de seus moradores. Ou melhor dizendo, de suas moradoras, já que são elas com mais tempo livre (homens e crianças precisam trabalhar continuamente para sobreviver) e muito provavelmente melhores quando o assunto é administrar dinheiro. São elas que obtêm empréstimos de um banco rural e consegue não só consertar o telhado de casa ou manter um fundo de emergência, mas criar novos negócios que garantem uma vida um pouco menos desconfortável. Não é muito difícil imaginar como um grupo de pessoas como esse consegue evoluir ao longo do tempo, graças à pequena ajuda vinda por meio de quem possui capital acumulado: o bom e velho empréstimo. Nada parece ser dado de graça no filme.
+Tanto é que o maior sinal de esperança do vilarejo parte justamente das iniciativas empreendedoras de seus moradores. Ou melhor dizendo, de suas moradoras, já que são elas com mais tempo livre (homens e crianças precisam trabalhar continuamente para sobreviver) e muito provavelmente melhores quando o assunto é administrar dinheiro. São elas que obtêm empréstimos de um banco rural e conseguem não só consertar o telhado de casa ou manter um fundo de emergência, mas criar novos negócios que garantem uma vida um pouco menos desconfortável. Não é muito difícil imaginar como um grupo de pessoas como esse consegue evoluir ao longo do tempo, graças à pequena ajuda vinda por meio de quem possui capital acumulado: o bom e velho empréstimo. Nada parece ser dado de graça no filme.
 
 E ainda que com uma mensagem buscando por caridade no final do filme pareça um pouco demais, além da conclusão de que "soluções mistas são a solução", ela é válida dado o teor do documentário, assim como um aviso à humanidade mais desenvolvida financeiramente: pare de empregar seu capital em empreitadas perniciosas não-geradoras de riqueza (em suma: gastos supérfluos ou investimentos errados). Se quer ajudar de fato a humanidade a evoluir, empreste dinheiro aos que podem fazer algo com ele. O governo, é claro, está excluído dessa lista.

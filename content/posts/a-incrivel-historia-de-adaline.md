@@ -1,7 +1,7 @@
 ---
 date: "2015-09-11"
 link: "https://www.imdb.com/title/tt1655441"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "A Incrível História de Adaline"
 ---
 A premissa por trás de "Adaline" é muito interessante, como toda ficção científica bem imaginada costuma ser. O filme, aliás, possui diversos pontos altos em sua história. Porém, o novelão romântico ao qual ele se entrega não deixa de incomodar durante todo o tempo, fazendo com que uma experiência fascinante vá aos poucos nos lembrando das velhas fórmulas de fazer romance com um drama genérico.
@@ -12,7 +12,7 @@ Descoberta, porém, na era do Macartismo, Adaline foge e resolve adotar um crono
 
 Sem muita desenvoltura, a atuação de Blake Lively tem um ou outro detalhe curioso -- como a forma contemplativa e lenta "para alguém de sua idade" ao observar a realidade à sua volta -- mas nada que consiga imprimir um século de existência, exceto os detalhes curiosos e descartáveis inseridos pelo roteiro de J. Mills Goodloe, como o fato dela falar inúmeras línguas.
 
-Porém, se por um lado a memória de Adaline permanece intocável por tanto tempo, em outros há a impressão de que os momentos de sua existência se misturam em uma cornucópia mágica e infinita de anos que parecem se repetir e nunca significar mais do que vagas lembranças. Sua filha é o único ponto constante, e mesmo assim ela pouco a visita. O sinal de que em breve ela não mais estará com ela acende seu alarme interno de que talvez seja a hora de confiar em mais uma pessoa.
+Porém, se por um lado a memória de Adaline permanece intocável por tanto tempo, em outros há a impressão de que os momentos de sua existência se misturam em uma cornucópia mágica e infinita de anos que se repetem e nunca significam mais do que vagas lembranças. Sua filha é o único ponto constante, e mesmo assim ela pouco a visita. O sinal de que em breve ela não mais estará com ela acende seu alarme interno de que talvez seja a hora de confiar em mais uma pessoa.
 
 E é assim que o filme dirigido por Lee Toland Krieger dá uma guinada interessante ao questionar a necessidade do ser humano de plantar raízes e evoluir em seus relacionamentos para justificar sua existência ou até mesmo descobri-la. Junto a isso ocorre um evento extraordinário demais para fazer sentido lógico, e é aí que o esoterismo parece flertar mais ainda com seu personagem.
 
