@@ -1,7 +1,7 @@
 ---
 date: "2015-09-29"
 link: "https://www.imdb.com/title/tt0367027"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Shortbus"
 ---
 Um indie por natureza, apresentado em uma Nova York de maquete com textura surreal, colorido todo o tempo com uma extensa e agradável trilha sonora, protagonizado por atores em sua maioria completos desconhecidos e, para salpicar ainda mais, recheado de cenas de sexo reais, por casais, trios e grupos inteiros.
