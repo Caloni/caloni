@@ -1,41 +1,29 @@
 ---
 date: "2008-01-18"
 title: Otimização em funções recursivas
-tags: [ "draft", "code" ]
-desc: "Atualizado em 2019-06-10 por alguns toques do pessoal do Telegram."
-img: "https://i.imgur.com/9cRzLPq.png"
+tags: [ "code" ]
 ---
-O [livro que estou lendo](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=Dominando+algoritmos+com+C&site_origem=1293522) fala sobre algoritmos em C. Os primeiros capítulos são praticamente uma revisão para quem já programou em C, pois tratam de coisas que programadores com mais de cinco anos de casa devem ter na memória cachê (listas, pilhas, recursão, etc). Porém, tive uma agradável surpresa de achar um truque muito sabido que não conhecia, chamado de [tail recursion](http://en.wikipedia.org/wiki/Tail_recursion). Fiz questão de testar nos dois compiladores mais conhecidos e eis o resultado.
-
-#### Recursividade cara
+O livro que estou lendo, Dominando Algoritmo com C, como o próprio nome diz, fala sobre algoritmos em C. Os primeiros capítulos são praticamente uma revisão para quem já programou em C, pois tratam de coisas que programadores com mais de cinco anos de casa devem ter na memória cachê (listas, pilhas, recursão, etc). Porém, tive uma agradável surpresa de achar um truque muito sabido que não conhecia, chamado de [tail recursion]. Fiz questão de testar nos dois compiladores mais conhecidos e eis o resultado.
 
 Imagine uma função recursiva que calcula o [fatorial](http://pt.wikipedia.org/wiki/Fatorial) de um número. Apenas para lembrar, o fatorial de um número n é igual a n * n-1 * n-2 * n-3 até o número 1. Existem implementações iterativas (com um laço for, por exeplo) e recursivas, que no caso chamam a mesma função n vezes.
 
-```c
-int factorial(int n)
-{
-	if (n > 1)
-		return factorial(n - 1) * n;
-	else
-		return 1;
-}
-
-int main()
-{
-	return factorial(1000);
-}
- 
-
-```
-
-Para ver o _overhead_ de uma função dessas, compilamos com a opção de debug e depuramos no CDB.
-
+    int factorial(int n)
+    {
+    	if (n > 1)
+    		return factorial(n - 1) * n;
+    	else
+    		return 1;
+    }
     
-    cl /Zi recursive-factorial1.c
+    int main()
+    {
+    	return factorial(1000);
+    }
 
-    
-    cdb recursive-factorial1.exe
+Para ver o overhead de uma função dessas, compilamos com a opção de debug e depuramos no CDB.
 
+    >cl /Zi recursive-factorial1.c
+    >cdb recursive-factorial1.exe
     
     Microsoft (R) Windows Debugger Version 6.8.0004.0 X86
     Copyright (c) Microsoft Corporation. All rights reserved.
@@ -114,11 +102,10 @@ Para ver o _overhead_ de uma função dessas, compilamos com a opção de debug 
     0012fff0 00000000 kernel32!BaseProcessStart+0x23
     0:000>
 
-Ou seja, conforme chamamos a função recursivamente, a pilha tende a crescer. Agora imagine todo o _overhead_ da execução, que precisa, a cada chamada, gerar um _stack frame_.
+Ou seja, conforme chamamos a função recursivamente, a pilha tende a crescer. Agora imagine todo o overhead da execução, que precisa, a cada chamada, gerar um stack frame.
 
 A mesma coisa podemos notar se compilarmos o mesmo fonte no GCC e depurarmos pelo GDB. Aliás, a primeira participação especial do GDB nesse blogue =)
 
-    
     $ gcc -g recursive-factorial1.c
     $ gdb a.exe
     GNU gdb 6.5.50.20060706-cvs (cygwin-special)
@@ -195,59 +182,43 @@ A mesma coisa podemos notar se compilarmos o mesmo fonte no GCC e depurarmos pel
     #8  0x004010b3 in main () at recursive-factorial1.c:11
     (gdb)
 
-#### Recursividade barata
+Isso acontece porque o compilador é obrigado a montar um novo stack frame para cada chamada da mesma função, já que os valores locais precisam manter-se intactos até o retorno recursivo da função. Porém, existe uma otimização chamada de tail recursion, que ocorre se, e somente se (de acordo com meu livro):
 
-Isso acontece porque o compilador é obrigado a montar um novo _stack frame_ para cada chamada da mesma função, já que os valores locais precisam manter-se intactos até o retorno recursivo da função. Porém, existe uma otimização chamada de _tail recursion_, que ocorre se, e somente se (de acordo com meu livro):
+ - A chamada recursiva é a última instrução que será executada no corpo da função.
+ - O valor de retorno da chamada não é parte de uma expressão.
 
+Note que ser a última instrução não implica em ser a última linha da função, o importante é que seja a última linha executada. No nosso exemplo, isso já é fato, só que usamos o retorno em uma expressão.
     
-  * A chamada recursiva é a última instrução que será executada no corpo da função.
-
-    
-  * O valor de retorno da chamada não é parte de uma expressão.
-
-Note que ser a última instrução não implica em ser a última linha da função, o importante é que seja a última linha **executada**. No nosso exemplo, isso já é fato, só que usamos o retorno em uma expressão.
-
-    
-```cpp
     return factorial(n - 1) * n;
     // o retorno da chamada recursiva 
     // é parte de uma expressão
-```
 
 
-Por isso é necessário desenvolver uma segunda versão do código, que utiliza dois parâmetros para que aconteça a situação de _tail recursion_.
+Por isso é necessário desenvolver uma segunda versão do código, que utiliza dois parâmetros para que aconteça a situação de tail recursion.
 
-```c
-int factorial(int n, int a)
-{
-	if (n < 0)
-		return 0;
-	else if (n == 0)
-		return 1;
-	else if (n == 1)
-		return a;
-	else
-		return factorial(n - 1, n * a);
-}
-
-int main()
-{
-	return factorial(1000, 1);
-}
- 
-
-```
+    int factorial(int n, int a)
+    {
+    	if (n < 0)
+    		return 0;
+    	else if (n == 0)
+    		return 1;
+    	else if (n == 1)
+    		return a;
+    	else
+    		return factorial(n - 1, n * a);
+    }
+    
+    int main()
+    {
+    	return factorial(1000, 1);
+    }
 
 Nessa segunda versão, a chamada da função recursiva não mais é parte de uma expressão, e continua sendo a última instrução executada. Agora só temos que compilar com a opção de otimização certa em ambos os compiladores e testar.
 
 Para o Visual Studio, podemos usar a flag /Og (otimização global).
 
-    
-    cl /Zi /Og recursive-factorial2.c
-
-    
-    cdb recursive-factorial2.exe
-
+    >cl /Zi /Og recursive-factorial2.c
+    >cdb recursive-factorial2.exe
     
     ...
     bp factorial
@@ -336,9 +307,7 @@ Como podemos ver, após n chamadas, a pilha continua apenas com uma chamada a fa
 
 Para o GCC, a opção é mais explítica, e funciona da mesma forma.
 
-    
     $ gcc -g -foptimize-sibling-calls  recursive-factorial2.c
-
     
     $ gdb a.exe
     ...
@@ -444,35 +413,34 @@ Voilà!
 
 PS: De brinde uma versão que permite passar o número via linha de comando para facilitar os testes (e você vai reparar que há um problema em calcular o fatorial de 1000: ele é estupidamente grande! Resolver isso fica como exercício =).
 
-```c
-#include <stdio.h>
-
-int factorial(int n, int a)
-{
-    if (n < 0)
-        return 0;
-    else if (n == 0)
-        return 1;
-    else if (n == 1)
-        return a;
-    else
-        return factorial(n - 1, n * a);
-}
-
-int main(int argc, char* argv[])
-{
-    if( argc == 2 )
+    #include <stdio.h>
+    
+    int factorial(int n, int a)
     {
-        int num = atoi(argv[1]);
-        int ret = factorial(num, 1);
-        printf("factorial %d = %d\n", num, ret);
-        return ret;
+        if (n < 0)
+            return 0;
+        else if (n == 0)
+            return 1;
+        else if (n == 1)
+            return a;
+        else
+            return factorial(n - 1, n * a);
     }
-    else
+    
+    int main(int argc, char* argv[])
     {
-        printf("how to use: %s <number>\n", argv[0]);
-        return 1;
+        if( argc == 2 )
+        {
+            int num = atoi(argv[1]);
+            int ret = factorial(num, 1);
+            printf("factorial %d = %d\n", num, ret);
+            return ret;
+        }
+        else
+        {
+            printf("how to use: %s <number>\n", argv[0]);
+            return 1;
+        }
     }
-}
-```
 
+[tail recursion]: http://en.wikipedia.org/wiki/Tail_recursion
