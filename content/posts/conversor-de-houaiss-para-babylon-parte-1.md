@@ -1,7 +1,7 @@
 ---
 date: "2008-02-27"
 title: "Conversor de Houaiss para Babylon - parte 1"
-tags: [ "draft", "code" ]
+tags: [ "code" ]
 ---
 Este artigo é sobre desmontar e montar novamente. Iremos descobrir como as entradas do dicionário Houaiss eletrônico estão gravadas em um primeiro momento, para depois remontarmos essa informação de maneira que ela possa ser usada em outro dicionário de uso mais flexível, o Babylon. Ou seja, este não é um guia de vandalismo. Estava apenas querendo usar um dicionário de qualidade excelente em outro dicionário cuja interface é muito boa.
 
@@ -9,7 +9,7 @@ Considero o Houaiss o melhor dicionário da atualidade, uso todo santo dia e ten
 
 Assim como adquiri o Houaiss, também comprei o Babylon, um programa-dicionário, cuja interface permite buscar o significado das palavras lidas no computador simplesmente clicando nelas. A qualidade de seu dicionário português embutido é medíocre, mas o que ele ganha mesmo é em sua interface fácil para acessar palavras. Exatamente por faltar um dicionário em português de peso no Babylon, e eu ter adquirido outro muito melhor, quis que ambos funcionassem juntos, ou seja, acesso o Babylon e tenho o resultado adicional desse meu dicionário tupiniquim.
 
-O Babylon possui um mecanismo para criação de dicionários chamado [Babylon Builder](http://www.babylon.com/display.php?id=15&tree=3&level=2). É muito simples e fácil de usar (além de ser gratuito). Sabendo que possuo ambas as licenças desses dois programas me sinto mais aliviado em tentar desencriptar a base de dados do primeiro para construir um dicionário para o segundo, e assim realizar meu sonho de consumo: um Babylon com um dicionário de peso!
+O Babylon possui um mecanismo para criação de dicionários chamado Babylon Builder. É muito simples e fácil de usar (além de ser gratuito). Sabendo que possuo ambas as licenças desses dois programas me sinto mais aliviado em tentar desencriptar a base de dados do primeiro para construir um dicionário para o segundo, e assim realizar meu sonho de consumo: um Babylon com um dicionário de peso!
 
 ![Licença do Houaiss](/img/houaiss-license.png)
 
@@ -29,7 +29,7 @@ Se analisarmos o conteúdo dos arquivos dentro da pasta Dicionario vamos descobr
 
 ![Saída dos arquivos do dicionário](/img/cmd.gif)
 
-Sabendo que o conteúdo do dicionário está em arquivos localizados no disco, e que teoricamente o programa não deve copiar todo o conteúdo para a memória, iremos depurar o processo do dicionário de olho nas chamadas da função [ReadFile](http://msdn2.microsoft.com/en-us/library/aa365467(VS.85).aspx) quando clicarmos em uma definição de palavra.
+Sabendo que o conteúdo do dicionário está em arquivos localizados no disco, e que teoricamente o programa não deve copiar todo o conteúdo para a memória, iremos depurar o processo do dicionário de olho nas chamadas da função ReadFile quando clicarmos em uma definição de palavra.
 
     windbg -pn houaiss2.exe
     0:001> bp kernel32!ReadFile "dd @$csp L6" $$ Dando uma olhada nos parâmetros
@@ -44,9 +44,9 @@ Ao clicar na definição de "programa-fonte", o breakpoint é ativado:
     kernel32!ReadFile:
     7c80180e 6a20            push    20h
     
-    $$ O buffer de saída é 08bbf1d0 
-    
-    $$ O número de bytes lidos é 200
+    $$ dados acima:
+    $$  - O buffer de saída é 08bbf1d0 
+    $$  - O número de bytes lidos é 200
 
     0:000> db 08bbf1d0 L80
     08bbf1d0  00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00  ................
@@ -135,9 +135,7 @@ Depois da leitura, não temos muitas alternativas a não ser fazer o tracking de
     08bbf230  70 65 6c 6f 20 70 72 6f-67 72 61 6d 61 64 6f 72  pelo programador
     08bbf240  20 65 6d 20 75 6d 61 20-6c 69 6e 67 75 61 67 65   em uma linguage
 
-Pois bem. Logo depois de chamar a função Houaiss2+0xb8a6c magicamente o buffer incompreensível se transformou no início da definição da palavra "programa-fonte". Como não temos o programa-fonte do Houaiss, teremos que descer mais um nível no "assemblão", mesmo.
-
-(Note que reexecutei os passos anteriores para cair na mesma condição)
+Pois bem. Logo depois de chamar a função Houaiss2+0xb8a6c magicamente o buffer incompreensível se transformou no início da definição da palavra "programa-fonte". Como não temos o programa-fonte do Houaiss, teremos que descer mais um nível no "assemblão", mesmo. Note que a saída abaixo se repete porque reexecutei os passos anteriores para cair na mesma condição.
 
     Houaiss2+0xb9079:
     004b9079 e8eef9ffff      call    Houaiss2+0xb8a6c (004b8a6c)
@@ -236,7 +234,7 @@ Acredito que para todo profissional de engenharia reversa a parte mais emocionan
     Houaiss2+0xb8a7b:
     004b8a7b 83c30b          add ebx,0Bh
 
-Note que essa operação é realizada para cada byte lido do buffer usado na leitura do arquivo. Conseqüentemente, não é difício de imaginar que o valor 0x0B é a chave usada para ofuscar o dicionário em arquivo, subtraindo esse valor de cada byte. Para desfazer a ofuscação, portanto, basta adicionar novamente o mesmo valor, que é exatamente o que faz a instrução assembly acima, e o meu singelo código de desofuscação do dicionário Houaiss abaixo:
+Note que essa operação é realizada para cada byte lido do buffer usado na leitura do arquivo. Conseqüentemente, não é difícil de imaginar que o valor 0x0B é a chave usada para ofuscar o dicionário em arquivo, subtraindo esse valor de cada byte. Para desfazer a ofuscação, portanto, basta adicionar novamente o mesmo valor, que é exatamente o que faz a instrução assembly acima, e o meu singelo código de desofuscação do dicionário Houaiss abaixo:
 
     #define _CRT_SECURE_NO_DEPRECATE
     #include <windows.h>
