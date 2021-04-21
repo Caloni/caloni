@@ -27,7 +27,7 @@ theme = "blog"
 
 [params.home]
     postsCount = 7
-    tags = [ "code" ]
+    tags = [ "home" ]
 
 [params.external]
 

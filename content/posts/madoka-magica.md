@@ -1,7 +1,7 @@
 ---
 date: "2014-04-14"
 link: "https://www.imdb.com/title/tt1773185"
-tags: [ "draft", "series", "animes" ]
+tags: [ "animes", "home" ]
 title: "Madoka Magica"
 ---
 A revisita a este animê que para mim ainda é meu favorito -- pela originalidade e pela fuga do lugar-comum e dos roteiros fáceis que a maioria das adaptações dos quadrinhos japoneses são submetidos -- foi feita em apenas uma noite. Mais de quatro horas depois posso reafirmar com convicção: é uma obra ousada para seu formato tanto em história quanto na direção/edição/arte. Desafia o espectador a esquecer os detalhes centrais de uma história que vai se abrindo muito lentamente, e sua força é sentida exatamente por esse cuidado em cada detalhe.
@@ -14,4 +14,4 @@ A história gira em torno de Madoka Kaname, uma garota comum que encontra um bic
 
 O curioso da série é que ela não tem pressa em realizar o que 90% das produções semelhantes ocidentais fariam: um grupo de garotas lutando contra o mal a la Meninas Superpoderosas. No fundo, o "mal" aqui não está materializado e nem tem desejo de fúria. Ele é um conceito, e relativo, dependendo do ponto de vista. Sequer há emoções em jogo. Na verdade, é mais profundo que isso: a emoção aqui é usada de uma maneira completamente diferente. Uma Meninas Superpoderosas para gente grande.
 
-Mas além da empolgante história o que cativa mesmo o espectador é a qualidade narrativa criada não apenas a partir dos sensacionais traços dos criadores, mas de uma invejável e coesa trilha sonora (Yuki Kajiura) e uma fotografia de cair o queixo (Shinichiro Eto). Tudo isso, com a edição de Rie Matsuhara, combina em uma experiência sensorial cada vez mais fácil de ser encontrada em séres de TV ambiciosas e menos nos cinemas comerciais.
+Mas além da empolgante história o que cativa mesmo o espectador é a qualidade narrativa criada não apenas a partir dos sensacionais traços dos criadores, mas de uma invejável e coesa trilha sonora (Yuki Kajiura) e uma fotografia de cair o queixo (Shinichiro Eto). Tudo isso, com a edição de Rie Matsuhara, combina em uma experiência sensorial cada vez mais fácil de ser encontrada em séries de TV ambiciosas e menos nos cinemas comerciais.

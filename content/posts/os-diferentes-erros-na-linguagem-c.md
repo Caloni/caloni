@@ -1,7 +1,7 @@
 ---
 date: "2008-02-15"
 title: "Os diferentes erros na linguagem C"
-tags: [ "code", "ccpp" ]
+tags: [ "code", "ccpp", "home" ]
 ---
 Uma coisa que me espanta de vez em quando é o total desconhecimento por programadores mais ou menos experientes dos níveis de erros que podem ocorrer em um fonte escrito em C ou C++. Desconheço o motivo, mas desconfio que o fato de outras linguagens não terem essa divisão de processos pode causar alguma nivelação entre as linguagens e fazer pensar que o processo de compilação em C é como em qualquer outra linguagem.
 
