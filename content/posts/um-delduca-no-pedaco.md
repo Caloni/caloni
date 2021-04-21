@@ -1,6 +1,6 @@
 ---
 date: "2021-01-17"
-tags: [ "blog" ]
+tags: [ "series", "draft" ]
 title: "Um Delduca no Pedaço"
 ---
 Esta série de anime obscura iniciou há mais de três décadas. Na época na região de Mococa, interior do estado de São Paulo, nasciam os primeiros computadores pessoais e esta é a história de um jovem que aprendeu a usá-los como ninguém.

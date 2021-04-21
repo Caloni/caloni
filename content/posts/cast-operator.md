@@ -1,6 +1,6 @@
 ---
 date: "2020-04-22"
-tags: [ "blog", "ccpp" ]
+tags: [ "code", "ccpp" ]
 title: "Cast Operator"
 ---
 O código abaixo não é C++ moderno. É 98. Porém, ele já demonstra alguns problemas na linguagem que foram aumentados desde então. Não se sabe exatamente qual a tradução semântica de construções tão parecidas quanto o operador-função e o operador-cast. Enquanto o primeiro serve para transformar objetos em funções chamáveis o segundo serve para extrair tipos de maneira educada.

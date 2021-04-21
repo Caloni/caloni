@@ -1,6 +1,6 @@
 ---
 date: "2020-04-09"
-tags: [ "blog" ]
+tags: [ "code" ]
 title: "Callback Hell"
 ---
 Foi aprendendo sobre kernel do Windows que eu descobri que a linguagem C suporta todas as abstrações que um homem crescido precisa para desenvolver sistemas. Também aprendi que você precisa ser um homem crescido para saber usar direito.

@@ -1,6 +1,6 @@
 ---
 date: "2015-01-26"
-tags: [ "ccpp" ]
+tags: [ "code", "ccpp" ]
 title: "Origem do Tipo char"
 ---
 Programadores C e C++, preparem-se para explodir as cabeças! No princípio... não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados srs. dos Laboratórios Bell, K. Thompson e [D. Ritchie], criaram uma linguagem chamada B. E B era bom.
