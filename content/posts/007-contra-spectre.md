@@ -1,7 +1,7 @@
 ---
 date: "2015-11-14"
 link: "https://www.imdb.com/title/tt2379713"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "007 Contra Spectre"
 ---
 Spectre é tão bom ou tão ruim quanto Quantum of Solace, mas por motivos opostos. Enquanto na segunda aventura de Daniel Craig como James Bond a complexidade do roteiro piorava uma experiência que já se repetiu em mais de vinte filmes, dessa vez a sua simplicidade quase infantil gera uma decepção crescente a cada minuto que se passa na projeção.

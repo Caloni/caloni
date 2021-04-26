@@ -1,7 +1,7 @@
 ---
 date: "2015-11-07"
 link: "https://www.imdb.com/title/tt0478970"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Homem-Formiga"
 ---
 Mês passado, enquanto trabalhava em meu escritório em casa, um pequeno grilo pulou da janela para do lado de minha mesa. Ele "averiguou" o local e ficou no ponto mais alto do recinto: o suporte fechado de minha câmera. Passados três dias, resolvi alimentá-lo com um pedaço de folha de alface e uma uva. Logo foram folhas do manjericão e salsinha, direto dos meus vasos do quintal. Quando ele ia passear em torno do aquecedor, fui aos poucos abrindo o suporte onde ele ficava até atingir quase a altura do parapeito da janela, no que ele voltava a escalá-lo, sempre permanecendo parado por longas horas no seu ponto mais alto.
@@ -16,7 +16,7 @@ Com efeitos digitais que funcionam bem pela velocidade das cenas de ação e pel
 
 Referenciando sempre a fonte de dinheiro da produtora, com seus Vingadores e a dúzia de filmes e as centenas de milhões que isso representa, Homem-Formiga já chega fazendo parte honorária do já famigerado "projeto Vingadores", citando a S.H.I.E.L.D. (que já possui série própria) e a Hydra (Capitão-América, 2011), o bem e o mal cartunizados para o deleite do fã de embates binários.
 
-Infelizmente, todo esse ímpeto em referenciar figuras do universo Marvel ganha contornos muito pálidos quando o filme tenta se encaixar no atual momento que vive o mundo, fazendo de Scott Lang um pretenso herói por se vingar de uma empresa gananciosa que enganou um monte de gente (ecos da crise de 2008), e literalmente encolhendo uma outra companhia dona de uma ideia de dezenas ou centenas de bilhões. A discussão de patentes sequer é citada, mas é o grande vilão do filme. Se a companhia fundada pelo Dr. Hank Pym (Douglas) mas conduzida por caminhos obscuros pelo cruel Darren Cross (Corey Stoll), que sacrifica ovelhinhas, patentear um mecanismo de alteração de tamanho molecular da matéria, se tornará automaticamente dona do mundo, mesmo que o mecanismo já tivesse sido inventado há muito tempo no porão da casa de um velho senhor.
+Infelizmente, todo esse ímpeto em referenciar figuras do universo Marvel ganha contornos muito pálidos quando o filme tenta se encaixar no atual momento que vive o mundo, fazendo de Scott Lang um pretenso herói por se vingar de uma empresa gananciosa que enganou um monte de gente (ecos da crise de 2008), e literalmente encolhendo uma outra companhia dona de uma ideia de dezenas ou centenas de bilhões. A discussão de patentes sequer é citada, mas é o grande vilão do filme. Siga a vilania: 1) a companhia fundada pelo Dr. Hank Pym (Douglas) conduzida por caminhos obscuros pelo cruel Darren Cross (Corey Stoll) sacrifica ovelhinhas; 2) quem patentear um mecanismo de alteração de tamanho molecular da matéria se tornará dono do mundo; 3) mesmo inventado há muito tempo no porão de um velho senhor, quem patenteia essas coisas é o grande ganhador do mundo inescrupuloso que vivemos.
 
 Portanto, ignorar o subtexto mais interessante para se render em seu terceiro ato para o velho duelo de um super-herói vs super-vilão é voltar para o próprio ano da crise, 2008, quando um Homem de Ferro ainda jovem estragava seu terceiro ato com um duelo idêntico e com razões completamente alheias à trama do filme. Ainda assim, para os que desejam se divertir com esse velho esquema, Homem-Formiga pode ser traduzido como uma "sessão da tarde" com ótimos efeitos e boas piadas.
 
