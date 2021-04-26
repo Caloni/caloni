@@ -1,7 +1,7 @@
 ---
 date: "2015-10-26"
 link: "https://www.imdb.com/title/tt2872462"
-tags: [ "draft", "movies" , "cinemaqui" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Mistress America"
 ---
 O diretor Noah Baumbach faz aqui um trabalho menos intelectualmente fechado que seu "Frances Ha", mas emprega a mesma atriz, Greta Gerwig, que surge de sopetão e é a mesma Frances que conhecemos no filme anterior.
@@ -10,7 +10,7 @@ A história é saborosa do começo ao fim, com diálogos inteligentes, bem coloc
 
 Ainda assim, a distinção fica por conta do ar menos indie que Baumbach emprega em seus personagens (escrito a quatro mãos entre ele e Gerwig), sempre apelando para a cultura pop mais acessível, além de realizar com sua editora, Jennifer Lame, um trabalho fluido demais para uma comédia pseudo-dramática, cheio de quadros certinhos até em sua simetria cômica (como quando três personagens se encontram geometricamente dispostos em uma escada olhando para o andar inferior, ou quando todos se juntam para ler).
 
-A história gira em torno da recém-graduanda Tracy (Lola Kirke), que luta tanto para arrumar um amigo quanto para conseguir um lugar em um exclusivo clube de escritores da faculdade. Ao conhecer sua futura meia-irmão (Gerwig), a mais velha, mais faladeira e mais-tudo Brooke, acontece uma espécie de paixão platônica entre uma escritora e sua futura obra, e conforme ambas passam os dias juntos, ela compõe uma história através da percepção que tem da sua nova amiga.
+A história gira em torno da recém-graduanda Tracy (Lola Kirke), que luta tanto para arrumar um amigo quanto para conseguir um lugar em um exclusivo clube de escritores da faculdade. Ao conhecer sua futura meia-irmã, a mais velha, mais faladeira e mais-tudo Brooke (Gerwig), acontece uma espécie de paixão platônica entre uma escritora e sua futura obra, e conforme ambas passam os dias juntos, ela compõe uma história através da percepção que tem da sua nova amiga.
 
 Estamos em Nova York, mas curiosamente, diferente dos filmes de Woody Allen, esse é apenas um detalhe do filme. O que importa, mais do que tudo, é observar a dinâmica entre essas duas, que de dependência simbiótica passa a flertar com uma espécie de relacionamento passivo-agressivo. Assim como um casal secundário que participa da farra intelectual em que se metem quando Brooke decide lutar pela sua ideia de um restaurante onde todos possam viver suas vidas em harmonia indo visitar o ex-namorado roubado por sua amiga.
 
