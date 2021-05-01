@@ -1,7 +1,7 @@
 ---
 date: "2008-04-03"
 title: "Try-catch flutuante"
-tags: [ "code" ]
+tags: [ "ccpp" ]
 ---
 Esse detalhe da linguagem quem me fez descobrir foi o Yorick, que costuma comentar no blogue e tive o prazer de conhecer no [4o. EPA-CCPP].
 
