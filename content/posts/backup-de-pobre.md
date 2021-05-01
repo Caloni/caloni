@@ -1,7 +1,7 @@
 ---
 date: "2008-03-28"
 title: "Backup de pobre"
-tags: [ "blog" ]
+tags: [ "code" ]
 ---
 Como tudo na vida, o backup -- ato de fazer cópia(s) de segurança de dados considerados importantes -- para se tornar efetivo e transformador deve antes se tornar um hábito.
 
