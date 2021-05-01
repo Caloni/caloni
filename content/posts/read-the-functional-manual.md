@@ -1,13 +1,13 @@
 ---
 date: "2008-05-07"
-tags: [ "draft", "ccppbr" ]
+tags: [ "blog" ]
 title: "Read The Functional Manual"
 ---
 Percebi essa semana que talvez boa parte da população informática que não progride em suas habilidades, mas gostaria muito, pode ser impedida pela falta de hábito em ler a ajuda do programa | da linguagem | do sistema com calma para encontrar o que procura. Independente do que você é, e para onde quer chegar, saiba que nem tudo na vida pode ser perguntado ao seu colega de baia. Senão você não evolui!
 
 Se você quer dominar um assunto, ou aprender sobre ele, saiba que existem estágio nesse processo. O primeiro estágio é formado principalmente por livros. Se você quer aprender algo, e tem livros sobre o assunto, você é um cara sortudo e feliz.
 
-Eu concordo com o cara do 1bit quando ele diz que livros são MUITO importantes. Provavelmente eu não seria metade do programador que me considero hoje se só tivesse a experiência, mas não a base fundamental necessária para realmente progredir no que se gosta.
+Eu concordo com [o cara do 1bit] quando ele diz que livros são MUITO importantes. Provavelmente eu não seria metade do programador que me considero hoje se só tivesse a experiência, mas não a base fundamental necessária para realmente progredir no que se gosta.
 
 Para algumas coisas pode não existir um livro bem estruturado e organizado nos moldes de "pra iniciante". Nesse caso, na maioria das vezes existe pelo menos o chamado tutorial, ou guia do usuário, que dá o pontapé inicial na cabeça do cara que quer começar a mexer com algum negócio novo.
 
@@ -40,3 +40,5 @@ Também existe um outro caso de desespero, que é quando você sabe que vai perd
 Eu disse que existem duas escolhas nesse estágio. A primeira é perguntar para quem entende do assunto. Porém, o que acontece se você é uma das pessoas que mais entende do assunto que você conhece?
 
 Aí o jeito é resolver sozinho. E, se possível, publicar em algum lugar a solução. A rede agradece.
+
+[o cara do 1bit]: http://www.1bit.com.br
