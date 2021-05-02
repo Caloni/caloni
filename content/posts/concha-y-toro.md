@@ -1,6 +1,7 @@
 ---
 date: "2014-12-21"
 categories: [ "food" ]
+tags: [ "wine" ]
 title: "Concha Y Toro"
 ---
 Reserva Muito bom, verificar preço.

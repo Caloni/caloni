@@ -1,6 +1,7 @@
 ---
 date: "2017-05-17"
 categories: [ "food" ]
+tags: [ "wine" ]
 title: "El Porvenir Laborum Shiraz 2014"
 ---
 Acidez média e estrutura firme; sabores amadeirados com um retrogosto simples. Na adega.

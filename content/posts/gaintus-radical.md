@@ -2,6 +2,7 @@
 date: "2020-10-04"
 link: "https://www.montrubi.com/radical"
 categories: [ "food" ]
+tags: [ "wine" ]
 title: "Gaintus Radical"
 ---
 Que uva é essa. Ela é bem diferente. Azeda, espanhola. Da região da Catalônia. Corpo parece fraco, mas é médio, intensidade do sabor curiosa. Dá pra passar um bom tempo pensando nesse vinho enquanto bebe. Melhor assim que abre. Depois é pra trocar ideia com os amigos.
