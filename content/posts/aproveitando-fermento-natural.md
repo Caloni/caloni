@@ -1,6 +1,7 @@
 ---
 date: "2020-04-26"
 categories: [ "food" ]
+tags: [ "recipes" ]
 title: "Aproveitando Fermento Natural"
 ---
 Esta é uma dica para os que cultivam seu próprio fermento, mas não sabem o que fazer para evitar o desperdício do descarte.

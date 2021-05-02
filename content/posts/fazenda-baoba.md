@@ -2,6 +2,7 @@
 date: "2021-02-15"
 link: "https://bsca.com.br/property/show/id/128"
 categories: [ "food" ]
+tags: [ "coffee" ]
 title: "Fazenda Baobá"
 ---
 No meio das minhas compras de estocagem de café peguei 250g deste grão que veio lá da região de Média Mogiana, em São Sebastião da Grama, interior de SP (mas do lado de MG). Ele pode ser encontrado no mercado Santa Luzia e comprado online.

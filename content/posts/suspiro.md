@@ -1,6 +1,7 @@
 ---
 date: "2020-01-04"
 categories: [ "draft", "food" ]
+tags: [ "recipes" ]
 title: "Suspiro"
 ---
 Esta é uma receita aprendida por um artigo do programa da Ana Maria Braga onde minha amiga chef confeiteira Silvana Oliveira dá dicas de como fazer este doce tão famoso.

@@ -1,6 +1,7 @@
 ---
 date: "2017-05-30"
 categories: [ "draft", "food" ]
+tags: [ "recipes" ]
 title: "Massa de Pizza da Dona Neusa"
 ---
 

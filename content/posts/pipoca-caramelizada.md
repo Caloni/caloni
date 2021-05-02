@@ -1,6 +1,7 @@
 ---
 date: "2019-09-08"
 categories: [ "draft", "food" ]
+tags: [ "recipes" ]
 title: "Pipoca Caramelizada"
 ---
 

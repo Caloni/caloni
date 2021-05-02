@@ -1,6 +1,7 @@
 ---
 date: "2019-01-07"
 categories: [ "draft", "food" ]
+tags: [ "recipes" ]
 title: "Empanadas Argentinas"
 ---
 

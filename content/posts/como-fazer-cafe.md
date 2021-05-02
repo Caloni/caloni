@@ -1,6 +1,7 @@
 ---
 date: "2021-03-14"
 categories: [ "draft", "food" ]
+tags: [ "coffee" ]
 title: "Como Fazer Café"
 ---
 Ao longo dos anos meu processo de fazer café mudou radicalmente, mas alguns princípios sempre se mantiveram ou foram descobertos e mantidos no caminho. Este é um guia básico e prático para quem deseja trilhar essa aventura de fazer sempre um café melhor que o de ontem.
