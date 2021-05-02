@@ -1,3 +1,4 @@
 cmake_minimum_required(VERSION 3.16)
 project (samples)
-add_executable(loadlibrary loadlibrary.c)
+add_executable(helloworld service.c)
+target_compile_options(helloworld PRIVATE /MT)

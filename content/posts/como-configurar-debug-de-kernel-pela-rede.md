@@ -1,8 +1,8 @@
 ---
 date: "2021-05-01"
-link: "https://medium.com/@ophirharpaz/kdnet-tutorial-for-noobs-68669778bbd4"
+link: "https://youtu.be/PU0O_HYMoCw"
 tags: [ "draft", "code" ]
-title: "Como Configurar Debug De Kernel Pela Rede (Hyper-V Edition)"
+title: "Como Configurar Debug de Kernel Pela Rede (Hyper-V Edition)"
 ---
 Estava pensando em transformar alguns posts antigos que estou revisando em vídeos no YouTube. Acho que o esforço para fazer isso é relativamente baixo se for sem áudio, sem edição e apenas com o que eu naturalmente faria para validar as partes técnicas, e muita gente poderia aprender algumas coisas, como, por exemplo, configurar o debug de kernel.
 
@@ -10,7 +10,7 @@ Foi nessas que eu comecei a gravar um vídeo para [o post] onde eu ensino a depu
 
 No vídeo original comecei na inocência seguindo o tutorial da Microsoft para configurar o kdnet, mas acabei gastando quase uma hora nesse esforço, e foi em vão. Eu não consegui usar os passos descritos no tutorial para fazer o boot finalmente conectar no kd.exe.
 
-Pesquisando sobre pessoas que tiveram o mesmo problema encontro um post da Ophir Harpaz no Medium dizendo que irá ensinar o porquê de cada comando na configuração desse tipo de debug. O título do post é apenas um chamariz, pois também é um passo-a-passo sem explicação nenhuma dos motivos por trás de cada comando. Porém, os passos são diferentes do da Microsoft, e esses funcionaram. Então vou gravar o vídeo, e de brinde segue o passo-a-passo:
+Pesquisando sobre pessoas que tiveram o mesmo problema encontro um [post da Ophir Harpaz] no Medium dizendo que irá ensinar o porquê de cada comando na configuração desse tipo de debug. O título do post é apenas um chamariz, pois também é um passo-a-passo sem explicação nenhuma dos motivos por trás de cada comando. Porém, os passos são diferentes do da Microsoft, e esses funcionaram. Então vou gravar o vídeo, e de brinde segue o passo-a-passo:
 
 Com uma VM de Windows 10 criada no Hyper-V, desabilite o Secure Boot pelas configurações da VM:
 
@@ -56,3 +56,4 @@ Ele vai ficar nessa de aguardar até a máquina target estar disponível, ou sej
 Depois de algumas horas eu finalmente consegui. Agora é hora de começar a gravar o vídeo para o post antigo. Ou outro dia.
 
 [o post]: /kernel-mode-user-mode
+[post da Ophir Harpaz]: https://medium.com/@ophirharpaz/kdnet-tutorial-for-noobs-68669778bbd4
