@@ -1,5 +1,6 @@
 ---
 date: "2008-05-13"
+link: "https://youtu.be/j1f7DQkFI5A"
 title: "Kernel Mode >> User Mode, ou Como Fazer Debug de User Mode pelo Kernel Mode usando WinDbg"
 tags: [ "code" ]
 ---
