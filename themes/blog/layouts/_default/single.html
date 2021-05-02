@@ -17,7 +17,6 @@
       <!-- Content -->
       <div class="container">
         {{ partial "title.html" . }}
-        {{ partial "subtitle.html" . }}
         {{ partial "toc.html" . }}
         
           <div class="content">
@@ -31,16 +30,12 @@
           </div>
 
         <div class="taglist">
+            {{ partial "author.html" . }}
             {{ partial "taglist.html" . }}
-        </div>
-
-        <div class="navigation-bottom">
-            {{ partial "navigation-bottom.html" . }}
         </div>
 
       </div>
 
-    {{ partial "footer.html" . }}
   </body>
 
 </html>
