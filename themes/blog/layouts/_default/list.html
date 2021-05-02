@@ -10,7 +10,7 @@
     {{ partial "list_begin.html" . }}
     {{ range .Pages }}
         <tr><td><b><a href="{{ .Permalink }}" title="">{{ if .Title }}{{ .Title }}{{ else }}{{ .File.TranslationBaseName }}{{ end }}</a></b><small><i> 
-        {{ .Params.date.Format "2006-01-02" }} {{ with .Params.categories }} {{ . }} {{ end }} {{ with .Params.tags }} {{ . }} {{ end }}
+        {{ .Params.date.Format "2006-01-02" }} {{ with .Params.categories }} {{ . }} {{ end }} {{ with .Params.tags }} {{ . }} {{ end }}</small></i>
         </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}
