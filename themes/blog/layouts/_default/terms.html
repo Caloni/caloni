@@ -4,26 +4,21 @@
   {{ partial "head.html" . }}
 
   <body style="min-height:100vh;display:flex;flex-direction:column">
-
     {{ partial "navbar.html" . }}
     {{ partial "section_begin.html" . }}
     {{ partial "categories.html" . }}
     {{ partial "filter.html" . }}
     {{ partial "list_begin.html" . }}
-
     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
       {{ if eq $taxonomyname "tags" }}
         {{ range $key, $value := $taxonomy }}
           <tr><td style="border-bottom: 1px dotted black; padding: 10px;">
-          {{ range first 1 $value.Pages }} 
           <b><a href="/{{ $taxonomyname }}/{{ $key | urlize }}">{{ $key }}<span style="font-size: 0.6em;"> ({{ $value.Count }})</span></a></b>
-          <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
-          <b><a style="color: gray;" href="{{ .Permalink }}">{{ .Title }}</a></b>{{ end }}
+          <small><i>{{ range first $.Site.Params.home.tagPostsCount $value.Pages }}{{ .Title }}, {{ end }}...</i></small>
           </td></tr>
         {{ end }}
       {{ end }}
     {{ end }}
-
     {{ partial "list_end.html" . }}
     {{ partial "section_end.html" . }}
     {{ partial "footer.html" . }}

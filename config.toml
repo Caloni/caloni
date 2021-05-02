@@ -26,7 +26,8 @@ theme = "blog"
     comments = "https://telegram.me/share/url?url="
 
 [params.home]
-    postsCount = 7
+    postsCount = 5
+    tagPostsCount = 15
     tags = [ "home" ]
 
 [params.external]
