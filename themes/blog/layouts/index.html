@@ -9,12 +9,11 @@
     {{ partial "section_begin.html" . }}
     {{ partial "lists.html" . }}
     {{ partial "list_begin.html" . }}
-    {{ range first .Site.Params.home.postsCount (where .Site.RegularPages "Params.tags" "intersect" .Site.Params.home.tags) }}
+    {{ range first .Site.Params.home.postsCount (where .Site.RegularPages "Params.categories" "intersect" .Site.Params.home.categories) }}
         <tr><td>
         <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
         <b><a href="{{ .Permalink }}">{{ .Title }}</a></b>
         <i>{{ range .Params.categories }}<a style="color: gray;" href="/categories/{{ . | urlize }}">{{ printf "%s%s" " " . }}</a>{{ end }}</i>
-        <i>{{ range .Params.tags }} <a style="color: gray;" href="/tags/{{ . | urlize }}">{{ . }}</a>{{ end }}</i>
         </td></tr>
     {{ end }}
     {{ partial "list_end.html" . }}

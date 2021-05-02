@@ -6,11 +6,10 @@
   <body style="min-height:100vh;display:flex;flex-direction:column">
     {{ partial "navbar.html" . }}
     {{ partial "section_begin.html" . }}
-    {{ partial "categories.html" . }}
     {{ partial "filter.html" . }}
     {{ partial "list_begin.html" . }}
     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-      {{ if eq $taxonomyname "tags" }}
+      {{ if eq (lower (string $taxonomyname)) (lower (string $.Name)) }}
         {{ range $key, $value := $taxonomy }}
           <tr><td style="border-bottom: 1px dotted black; padding: 10px;">
           <b><a href="/{{ $taxonomyname }}/{{ $key | urlize }}">{{ $key }}<span style="font-size: 0.6em;"> ({{ $value.Count }})</span></a></b>

@@ -22,13 +22,13 @@ theme = "blog"
     googleAnalytics = "UA-50557403-2"
     namespace = "caloni"
     author = "Wanderley Caloni"
-    showFilterAfter = 10
+    showFilterAfter = 1
     comments = "https://telegram.me/share/url?url="
 
 [params.home]
     postsCount = 5
     tagPostsCount = 15
-    tags = [ "home" ]
+    categories = [ "home" ]
 
 [params.external]
 
