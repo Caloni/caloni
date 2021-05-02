@@ -1,7 +1,8 @@
 ---
 date: "2020-02-04"
 link: "https://www.imdb.com/title/tt7178226"
-categories: [ "draft", "movies", "cinemaqui" ]
+categories: [ "draft", "movies", ]
+tags: [ "cinemaqui"  ]
 title: "The Cave"
 ---
 Atraso de vinte minutos. Sala lotada em uma tarde chuvosa. Quando acho que finalmente vai começar The Cave, um dos documentários indicados ao Oscar esse ano, percebo o nível de promoção ao filme quando somos introduzidos a um historiador da PUC que irá nos mostrar um gráfico no tempo das tomadas de território em torno da região onde se passa o filme e falar por alguns minutos para nos dar o panorama histórico do que ocorreu e está ocorrendo no Oriente Médio naquela região. Ele possui descendência libanesa e o conflito se passa próximo das fronteiras com a Síria.

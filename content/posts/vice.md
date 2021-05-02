@@ -1,7 +1,8 @@
 ---
 date: "2019-01-17"
 link: "https://www.imdb.com/title/tt6266538"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Vice"
 ---
 Vice é logo depois de A Grande Aposta mais um filme escrito e dirigido por Adam McKay tentando dialogar com o público leigo a respeito de detalhes sórdidos da máquina estatal americana. Se no filme anterior o alvo era o sistema financeiro responsável pela crise de 2008 agora vamos um pouco mais para o passado dar de cara com o vice-presidente Dick Cheney durante a era Bush Jr.

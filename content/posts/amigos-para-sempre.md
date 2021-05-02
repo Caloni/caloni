@@ -1,7 +1,8 @@
 ---
 date: "2018-12-19"
 link: "https://www.imdb.com/title/tt1987680"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Amigos Para Sempre"
 ---
 Bom, Amigos Para Sempre é um filme impossível de não ser comparado com o seu original, Intocáveis. Aliás, a primeira pergunta que surge é: por que refazer um trabalho magnífico (e recente) e entregar algo que estará sempre à sombra de seu antecessor? A segunda pergunta é: por que Kevin Hart e Bryan Cranston no elenco?

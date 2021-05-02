@@ -1,7 +1,8 @@
 ---
 date: "2019-11-11"
 link: "https://www.imdb.com/title/tt8613070"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Retrato de Uma Jovem em Chamas"
 ---
 Apaixonado pela temática feminista, Retrato de Uma Jovem em Chamas é um filme que nos entrega o sabor de uma paixão que surge sem maiores explicações. Seus personagens são meras pinceladas de um passado histórico onde mulheres não possuíam muitas opções para viver, e a diretora e roteirista Céline Sciamma resolve dar essas opções por um breve momento e ver no que dá.

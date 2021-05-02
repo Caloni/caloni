@@ -1,7 +1,8 @@
 ---
 date: "2016-09-17"
 link: "https://www.imdb.com/title/tt4072352"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "A Passageira"
 ---
 A Passageira pode ser descrito como um melodrama que se aproveita de sua notável qualidade narrativa e técnica para dar ares de ser algo mais artístico. A mesma razão pode ser dada ao dizer que o herói do filme realmente fez um ato bondoso e por isso, independente de seu passado, é digno de aplausos.

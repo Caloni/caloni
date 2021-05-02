@@ -1,7 +1,8 @@
 ---
 date: "2016-11-21"
 link: "https://www.imdb.com/title/tt4746484"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "A Economia do Amor"
 ---
 A Economia do Amor, trocadilhos à parte, é também um filme econômico em sua produção. E é quando a arte encontra os benefícios da crise europeia, tanto no assunto quanto no orçamento.

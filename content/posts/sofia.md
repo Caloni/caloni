@@ -1,7 +1,8 @@
 ---
 date: "2018-10-18"
 link: "https://www.imdb.com/title/tt8296592"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Sofia"
 ---
 "As pessoas conseguem se acostumar com tudo", um personagem diz em certo momento de Sofia, um filme que se você não parou pelo menos por alguns minutos para refletir após ter assistido, pense de novo. O personagem tem razão.

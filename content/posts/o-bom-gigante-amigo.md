@@ -1,7 +1,8 @@
 ---
 date: "2016-07-31"
 link: "https://www.imdb.com/title/tt3691740"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "O Bom Gigante Amigo"
 ---
 O Bom Gigante Amigo é um filme de criança baseado em um livro para crianças. Produzido pela Disney e dirigido por Steven Spielberg, deveria ser o ápice da pureza e inocência, mas parece trazer uma forte carga política em sua mensagem, acidental ou não. Pode ser impressão de uma história fraca e sem muito sentido, mas só por sugerir uma relação entre sua lúdica história e a história da Europa contemporânea é digno de nota.

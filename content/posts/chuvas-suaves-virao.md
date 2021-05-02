@@ -1,7 +1,8 @@
 ---
 date: "2019-10-09"
 link: "https://www.imdb.com/title/tt9213792"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Chuvas Suaves Virão"
 ---
 É uma adaptação de livro? Poderia ser. Chuvas Suaves Virão explora essa possibilidade lúdica de livro infanto-juvenil com suas ilustrações de início de capítulo junto da frase principal, e nos coloca em contato com uma aventura protagonizada por crianças que estão sempre segurando lanternas, a la Stranger Things, mas argentinas, menos barulhentas e mais maduras.

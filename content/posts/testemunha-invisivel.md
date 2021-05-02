@@ -1,7 +1,8 @@
 ---
 date: "2020-01-24"
 link: "https://www.imdb.com/title/tt7735502"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Testemunha Invisível"
 ---
 O filme se chama Testemunha Invisível, tanto aqui quanto na Itália, o que já nos diz mais do que o necessário sobre as diferentes reviravoltas deste thriller psicológico de mistério, que lida com adultério como se vivêssemos nos anos 80 ("se descobrirem que ele tinha uma amante acabou sua vida") e que pune os ricos e poderosos como se vivêssemos no mundo de Parasita ("ele aprendeu que não podia contar com a polícia comprada para ajudá-lo"). Esta é uma mescla ruim que acaba funcionando no final porque, como todo filme de mistério, queremos com todas as forças nos ludibriar sobre qual a versão real dos fatos.

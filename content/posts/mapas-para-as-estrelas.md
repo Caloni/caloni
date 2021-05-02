@@ -1,7 +1,8 @@
 ---
 date: "2015-03-19"
 link: "https://www.imdb.com/title/tt2172584"
-categories: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Mapas para as Estrelas"
 ---
 O novo filme de David Cronenberg (Cosmópolis) quer falar sobre incesto, mas não de uma maneira direta, e não exatamente sobre incesto. Ele quer discutir através das celebridades de Los Angeles o que há de podre por trás de todo ser humano. Diferente do filme de Sofia Copolla, Bling Ring, ser um ator ou atriz famosa não tem relação com o comportamento dessas pessoas, pois elas já são problemáticas. A dinâmica tem mais a ver em como o fato delas serem famosas gera uma tendência curiosa da sociedade em fazer vista grossa para seus atos mais maldosos. Maldosos, porém, inerentemente humanos.

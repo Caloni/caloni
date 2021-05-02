@@ -1,7 +1,8 @@
 ---
 date: "2018-03-20"
 link: "https://www.imdb.com/title/tt7697854"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Amarra Seu Arado em Uma Estrela"
 ---
 Amarra Seu Arado a Uma Estrela é um singelo documentário de Carmen Guarini, discípula do documentarista Fernando Birri, e se torna imperdível conforme observamos que este é um filme onde é possível aprender um pouco do modus operandi de Birri em fazer seus próprios filmes e, mais importante, aprender um pouco quem era este ser humano que amava a vida e questionava a todo momento a essência do ser.

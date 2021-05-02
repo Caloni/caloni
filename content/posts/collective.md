@@ -1,7 +1,8 @@
 ---
 date: "2020-03-10"
 link: "https://www.imdb.com/title/tt10706602"
-categories: [ "draft", "movies", "cinemaqui" ]
+categories: [ "draft", "movies", ]
+tags: [ "cinemaqui"  ]
 title: "Collective"
 ---
 Chegamos na vigésima-quinta edição de É Tudo Verdade, um festival internacional de documentários criado em São Paulo nos anos 90 e que hoje é referência mundial, sendo o único a tornar elegível para o Oscar dois longa-metragem e dois curtas no mesmo evento. Sua seleção passa pela análise de mais de dois mil filmes do mundo todo. Estive na coletiva de imprensa antes de iniciar a sessão de um dos quase cem filmes selecionados este ano: Collective, de Alexander Nanau, sobre a corrupção estarrecedora que é descoberta na rede de hospitais na Romênia após um incêndio em uma boate ter matado mais jovens que foram hospitalizados do que no próprio local.

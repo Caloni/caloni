@@ -1,7 +1,8 @@
 ---
 date: "2015-10-09"
 link: "https://www.imdb.com/title/tt2965412"
-categories: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Eu Estava Justamente Pensando em Você"
 ---
 O amor está no ar, mas seus portadores estão com dúvidas existenciais, são espertos demais para senti-lo ou sofrem da doença do século: ansiedade.

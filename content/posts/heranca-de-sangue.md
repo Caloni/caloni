@@ -1,7 +1,8 @@
 ---
 date: "2016-09-04"
 link: "https://www.imdb.com/title/tt3647498"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Herança de Sangue"
 ---
 Mel Gibson não apenas é a escolha perfeita para seu papel paternal em Herança de Sangue: a sua persona dentro e fora das telas parece ser o mecanismo-chave que faz tudo funcionar no longa de Jean-François Richet. A sua rebelde filha se assusta quando vê seu pai, um sujeito com traços agressivos, sem a barba que escondia no início do filme seu rosto da época dos escândalos de violência doméstica que fez parte. Há uma cena na estrada com motos e um "acidente" que lembra muito a série de filmes Mad Max. Há até um antigo amigo do personagem de Gibson que negocia artefatos nazistas (Gibson, é interessante lembrar, ficou conhecido após A Paixão de Cristo como um cineasta com sentimentos anti-semitas). Simplesmente não há como não enxergar que o roteiro escrito por Peter Craig baseado em seu romance homônimo não tivesse Gibson como parte de sua inspiração (ou que pelo menos a adaptação apostasse nisso). O filme parece ainda pegar todas as oportunidades do roteiro para de certa forma redimir Gibson por ser (ou ter sido) um babaca na vida real. Ele até é um ex-condenado em condicional, querendo dizer que ele não pode pegar em armas e ferir pessoas na sequência mais divertida do filme, onde ele vai enumerando seus delitos.

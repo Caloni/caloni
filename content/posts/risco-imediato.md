@@ -1,7 +1,8 @@
 ---
 date: "2015-03-05"
 link: "https://www.imdb.com/title/tt1361318"
-categories: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Risco Imediato"
 ---
 Esse é um filme bem violento, considerando que os heróis são um casal de estrangeiros tentando construir suas vidas em torno de uma casa caindo aos pedaços. Os bandidos parecem pouco interessados no dinheiro, fruto de um golpe, e na heroína deixada para trás pelo traidor da gangue, agora morto. E para piorar temos um francês buscando vingança da rede de corrupção instaurada por um bandido extremamente sanguinário. No pano de fundo de tudo isso reside um policial incorruptível e alheio à burocracia e política. Tudo que ele quer é compensação pela perda de sua filha para o mundo das drogas.

@@ -1,7 +1,8 @@
 ---
 date: "2019-10-17"
 link: "https://www.imdb.com/title/tt9514970"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Filhos da Dinamarca"
 ---
 Filhos da Dinamarca junta o tema óbvio do momento político atual de extremos com uma pesada dose de drama shakespeariano, e para isso nada como estar na Dinamarca. E há algo de podre nesse reino.

@@ -1,7 +1,8 @@
 ---
 date: "2018-08-21"
 link: "https://www.imdb.com/title/tt6289724"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "As Duas Irenes"
 ---
 Poucos filmes me deixam sem palavras por causa das camadas emocionais em que ele coloca o espectador (e que depois fica difícil de sair uma a uma). As Duas Irenes é um desses filmes, mas longe do motivo ser apenas a história ou as atuações. É toda a produção. Isso pode ser minha memória afetiva que foi aguçada com tantas referências a uma época que não existe mais. E se for, garanto que vai sentir o mesmo se prestar atenção.

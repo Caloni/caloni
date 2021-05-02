@@ -1,7 +1,8 @@
 ---
 date: "2016-03-30"
 link: "https://www.imdb.com/title/tt3906650"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Sinfonia da Necrópole"
 ---
 Esse é o segundo musical brasileiro que estreia recentemente nos cinemas. O primeiro, Amor em Sampa, tropeça na falta de jeito nacional com trilha sonora. A boa notícia é que Sinfonia da Necrópole não só se sai bem melhor nesse quesito, como possui uma coleção de músicas inspiradas sobre o tema: o além-vida.

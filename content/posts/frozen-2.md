@@ -1,7 +1,8 @@
 ---
 date: "2019-11-26"
 link: "https://www.imdb.com/title/tt4520988"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Frozen 2"
 ---
 Você já sabe como funciona. Frozen, um novo filme de princesa, arrebata multidões por não ser um "filme de princesa", mas sobre a relação essencial entre duas irmãs, misturada com a história de um reino nórdico que sugere lendas e valores sem apontar diretamente para nenhuma em específica, exceto sua inspiração inicial, o conto de fadas do século 19 do dinamarquês Hans Christian Andersen, A Princesa do Gelo. Como diria a versão capitalista do Tio Ben, "com grandes bilheterias vêm grandes continuações", e eis que surge Frozen 2, que chega com a ideia fixa de um começo e um fim, e no meio uma nova aventura, que demonstra tanto a beleza do ápice da arte digital dos estúdios Disney quanto sua incapacidade de criar algo novo partindo de suas próprias premissas.

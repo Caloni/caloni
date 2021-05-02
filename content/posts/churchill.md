@@ -1,7 +1,8 @@
 ---
 date: "2017-09-28"
 link: "https://www.imdb.com/title/tt2674454"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Churchill"
 ---
 Churchill é uma pálida tentativa em reviver os últimos momentos da Segunda Guerra sob a prisma do polêmico e brutal ministro britânico. Parecendo feito para televisão e sem muita atmosfera nem história para conseguir realizar a imersão necessária na história, seu principal defeito é acreditar piamente que o que está sendo visto na tela é emocionante e honroso, simplesmente por ter em seu epicentro o grutão inglês mais famoso da política recente.

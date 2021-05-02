@@ -1,7 +1,8 @@
 ---
 date: "2017-08-21"
 link: "https://www.imdb.com/title/tt5247544"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "150 Miligramas"
 ---
 Há uma tendência atual do cinema francês em explorar casos que estabelecem de maneira caricata a dualidade clichê "mocinhos versus bandidos". E em "150 Miligramas", mais uma vez, o bandido é uma fabricante de medicamentos (uma corporação), e o mocinho é alguém que luta contra um sistema cruel nascido das duas próprias preocupações com a famigerada "saúde pública" francesa.

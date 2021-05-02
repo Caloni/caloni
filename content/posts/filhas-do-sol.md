@@ -1,7 +1,8 @@
 ---
 date: "2019-08-13"
 link: "https://www.imdb.com/title/tt6704880"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Filhas do Sol"
 ---
 O objetivo de Filhas do Sol é ser algo grandioso e poético como os filmes do Terrence Malick (Árvore da Vida, você conhece o sujeito), ou a adaptação de um romance épico, que exalte as verdadeiras heroínas que essas mulheres são, arriscando suas próprias vidas em uma guerra. Que mártires.

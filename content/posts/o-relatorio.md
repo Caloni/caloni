@@ -1,7 +1,8 @@
 ---
 date: "2019-10-23"
 link: "https://www.imdb.com/title/tt8236336"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "O Relatório"
 ---
 Nas últimas 72 horas este é meu décimo-quinto filme e texto da Mostra de São Paulo, mas O Relatório não me cansou em nenhum momento pela história que quer contar. O que me desanimou profundamente foi constatar que estava assistindo a um documentário político em forma de ficção com uma das escalações mais inúteis que tenho memória.

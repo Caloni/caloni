@@ -1,7 +1,8 @@
 ---
 date: "2019-02-05"
 link: "https://www.imdb.com/title/tt0437086"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Alita: Anjo de Combate"
 ---
 As cabines de imprensa de superproduções são lotadas de jovens, e "Alita: Anjo de Combate" é um desses filmes, apesar de sua cara de segundo escalão seu orçamento foi de cerca de duzentos milhões de dólares. Duzentos. Milhões. De. Dólares. E o dinheiro do roteirista?

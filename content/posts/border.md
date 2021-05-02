@@ -1,7 +1,8 @@
 ---
 date: "2019-03-29"
 link: "https://www.imdb.com/title/tt5501104"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Border"
 ---
 Border (fronteira em inglês) dialoga sobre vários limites entre dois elementos. Há o limite de fronteiras entre países, o limite das diferenças entre as pessoas, o limite da violência e da exploração, e por fim, um limite mais literal, material, que torna todo o resto irrelevante. E a beleza do filme está em escalar tudo isso com extrema humanidade, sem nos deixar afastar por repulsa em momento algum, por mais repulsivo que sua história pudesse ser vista sob narrativas mais convencionais. Curioso?

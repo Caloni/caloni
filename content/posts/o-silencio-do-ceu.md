@@ -1,7 +1,8 @@
 ---
 date: "2016-09-13"
 link: "https://www.imdb.com/title/tt5125930"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "O Silêncio do Céu"
 ---
 O Silêncio do Céu é mais uma incursão do diretor Marco Dutra ("Trabalhar Cansa") em um filme que flerta entre o drama e o terror. Porém, nesse caso não há o apelo ao sobrenatural, mas a uma substância social que permeia cada um de nós: o medo.

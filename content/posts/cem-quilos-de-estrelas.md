@@ -1,7 +1,8 @@
 ---
 date: "2020-02-20"
 link: "https://www.imdb.com/title/tt7501966"
-categories: [ "draft", "movies", "cinemaqui" ]
+categories: [ "draft", "movies", ]
+tags: [ "cinemaqui"  ]
 title: "Cem Quilos de Estrelas"
 ---
 A cabine de imprensa teve convidadas ilustres que nunca apareceram antes: mulheres obesas interessadas na temática de Cem Quilos de Estrelas, estreia em longas-metragens de Marie-Sophie Chambon, protagonizada por uma adolescente com o peso e inteligência acima da média. Antes de iniciar a sessão ouvimos a introdução da assessora sobre o filme, que mencionou em algum momento a palavra "gordofobia". Iniciado o filme, duas das convidadas ilustres ficaram mexendo no celular o tempo todo, e três delas chegaram atrasadas e conversando em um tom de voz que parecia estar em uma praça de alimentação.

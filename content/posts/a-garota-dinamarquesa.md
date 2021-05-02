@@ -1,7 +1,8 @@
 ---
 date: "2016-02-12"
 link: "https://www.imdb.com/title/tt0810819"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "A Garota Dinamarquesa"
 ---
 Quantas vezes uma pessoa aguenta receber o diagnóstico errado do problema de sua vida e perceber que está apenas se enganando em um mundo que não está pronta para recebê-la?

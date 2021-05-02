@@ -1,7 +1,8 @@
 ---
 date: "2019-11-08"
 link: "https://www.imdb.com/title/tt8183418"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Azougue Nazaré"
 ---
 As tradições e os conflitos religiosos da Zona da Mata em Pernambuco são o pano de fundo de Azougue Nazaré, um filme que evoca seu tom de fantasia sobrenatural logo antes que poderíamos apostar de este ser um documentário. Primeira direção de Tiago Melo, este filme pode ser proposto tanto quanto um documentário da cultura da Zona da Mata quanto uma ficção solta sobre os conflitos atuais da região.

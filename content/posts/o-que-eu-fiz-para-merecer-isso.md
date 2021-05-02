@@ -1,7 +1,8 @@
 ---
 date: "2016-04-15"
 link: "https://www.imdb.com/title/tt3667648"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "O Que Eu Fiz Para Merecer Isso?"
 ---
 Um homem quer ouvir um disco que para ele tem muito valor. Suas tentativas frustradas vão escalando em uma história cada vez mais absurda. Essa é a premissa básica de O Que Eu Fiz Para Merecer Isso?, que realiza uma farsa -- aquela comédia em que todos os personagens são críveis, mas exagerados -- em praticamente um cenário. 

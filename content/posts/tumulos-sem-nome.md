@@ -1,7 +1,8 @@
 ---
 date: "2018-10-26"
 link: "https://www.imdb.com/title/tt8790662"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Túmulos Sem Nome"
 ---
 Não é nenhum segredo as atrocidades cometidas durante o regime comunista da Cambódia, quando pessoas morriam de fome, doença ou eram sumariamente executadas. O que é inesperado no documentário de Rithy Panh são as consequências nas crenças do povo que sobreviveu.

@@ -1,7 +1,8 @@
 ---
 date: "2017-04-25"
 link: "https://www.imdb.com/title/tt6096528"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Elon Não Acredita na Morte"
 ---
 Elon Não Acredita na Morte é uma thriller policial que consegue manter seu suspense por um bom tempo. Desde que você seja paciente. Ele explora nossa percepção do cotidiano visto de duas maneiras muito peculiares. Uma delas é o senso comum guiando seu protagonista pelos corredores, portas e pessoas. A outra está em conseguirmos preencher uma lacuna vital para a compreensão do todo, um pequeno detalhe que fica em um passado próximo, mas que "infelizmente" se passa antes do filme começar. E é daí que vem todo o suspense.

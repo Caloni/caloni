@@ -1,7 +1,8 @@
 ---
 date: "2017-07-31"
 link: "https://www.imdb.com/title/tt4291600"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Lady Macbeth"
 ---
 Primeiro simpatize com Lady MacBeth. Ou pelo menos simpatize com sua situação. Comprada junto de um pedaço de terra, ela conhece seu marido, filho do seu comprador, no quarto do recém-casal. Perguntada pela criada se ela estaria com frio ou nervosa, a resposta é um duplo-negativo. Katherine não sente frio. "Tenho a pele grossa", diz ela. No entanto, ela está alheia e à deriva desses dois homens, que a dizem quando e como se portar. Exatamente como se ela fosse propriedade.

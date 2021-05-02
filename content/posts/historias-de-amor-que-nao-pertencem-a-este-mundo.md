@@ -1,7 +1,8 @@
 ---
 date: "2017-11-11"
 link: "https://www.imdb.com/title/tt7133340"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Histórias de Amor Que Não Pertencem a Este Mundo"
 ---
 Você já conviveu intimamente com alguém que possui muito medo do desconhecido, uma ansiedade angustiante e que não consegue deixar de falar sobre todas as terríveis possibilidades (para essas pessoas é uma certeza) que o futuro nos espera? Se sim, talvez "Histórias de Amor Que Não Pertencem a Este Mundo" o ajude a entender melhor essa pessoa, e a entender que, apesar de tanto fatalismo, há por trás um ser humano que deseja ser feliz à sua maneira.

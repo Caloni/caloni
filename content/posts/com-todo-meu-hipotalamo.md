@@ -1,7 +1,8 @@
 ---
 date: "2018-10-26"
 link: "https://www.imdb.com/title/tt8710234"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Com Todo Meu Hipotálamo"
 ---
 Se há uma coisa que Com Todo Meu Hipotálamo nos ensina é que o ser humano não pode viver sem a beleza. E não se trata dessa beleza abstrata, pós-moderna, localizada em privadas sanitárias espalhadas em museus que sistematicamente ofendem nosso senso estético. De jeito nenhum. A beleza que o filme trata é a mais simples, pura, instintiva: a mulher desejada.

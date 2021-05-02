@@ -1,7 +1,8 @@
 ---
 date: "2020-01-04"
 link: "https://www.imdb.com/title/tt5697572"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Cats"
 ---
 Este foi o primeiro filme que vi no cinema este ano. Fui para acompanhar um amigo, e hoje não estou certo se meu motivo mais forte foi a amizade ou o masoquismo. Para me ajudar a tirar essa dúvida há uma música que não me sai da cabeça desde então: a apresentação de um dos gatos do filme, o Mister Mistoffelees. O refrão repete este nome milhares de vezes até onde eu lembro, e isso me lembra agora que este é um musical muito mais infantil do que adulto, mas em uma época em que adultos são criaturas mais infantis que crianças, isso me deprime de uma maneira irremediável. Concluído isto, acho que já me decidi pelo motivo mais forte: foi masoquísmo o que me fez ver este filme.

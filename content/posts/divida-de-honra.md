@@ -1,7 +1,8 @@
 ---
 date: "2015-01-20"
 link: "https://www.imdb.com/title/tt2398231"
-categories: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Dívida de Honra"
 ---
 Diferente de como o Cinema costuma retratar o velho Oeste americano, o ator e diretor Tommy Lee Jones abraça um projeto que planeja desmistifica-lo. Em uma versão desprovida do romantismo de Bravura Indômita dos Irmãos Coen, a história de Dívida de Honra é um road-movie com dois excluídos da sociedade levando outros três em uma viagem reveladora antes mesmo do seu início.

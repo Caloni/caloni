@@ -1,7 +1,8 @@
 ---
 date: "2015-10-26"
 link: "https://www.imdb.com/title/tt2872462"
-categories: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Mistress America"
 ---
 O diretor Noah Baumbach faz aqui um trabalho menos intelectualmente fechado que seu "Frances Ha", mas emprega a mesma atriz, Greta Gerwig, que surge de sopetão e é a mesma Frances que conhecemos no filme anterior.

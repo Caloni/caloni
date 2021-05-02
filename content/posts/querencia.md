@@ -1,7 +1,8 @@
 ---
 date: "2019-10-21"
 link: "https://www.imdb.com/title/tt9657946"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Querência"
 ---
 Querência, quem diria, é uma cidade de verdade, localizada no estado de Mato Grosso. Mas o que acaba não sendo nem de verdade, nem de mentira, é este filme escrito e dirigido por Helvécio Marins, que cria uma ficção com personagens da vida real, e demonstra uma das péssimas formas de unir duas formas de filme em um resultado insosso e sem alma.

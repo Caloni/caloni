@@ -1,7 +1,8 @@
 ---
 date: "2016-09-09"
 link: "https://www.imdb.com/title/tt2937696"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Jovens, Loucos e Mais Rebeldes"
 ---
 Jovens, Loucos e Mais Rebeldes é a mais nova experimentação de Richard Linklater (Boyhood), que entra a fundo em uma análise sobre uma geração e seus estilos, ou suas tribos, e que semelhante a seus filmes anteriores, parece mais interessado na análise em si do que criar qualquer história.

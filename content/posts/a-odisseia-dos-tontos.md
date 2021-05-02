@@ -1,7 +1,8 @@
 ---
 date: "2019-10-26"
 link: "https://www.imdb.com/title/tt10384744"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "A Odisseia dos Tontos"
 ---
 Fermín Perlassi, personagem de Ricardo Darín, acaba de explicar seu plano de empreender em uma cooperativa local onde a economia da vida de vários moradores servirão para o início do projeto. Ele termina dizendo a famigerada pergunta retórica "o que pode dar errado?", e duas linhas de letreiros "respondem", uma após a outra, deixando claro que A Odisseia dos Tontos não poderia ter um título melhor. A primeira linha: Argentina. A segunda linha: agosto de 2001.

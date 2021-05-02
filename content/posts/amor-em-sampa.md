@@ -1,7 +1,8 @@
 ---
 date: "2016-02-22"
 link: "https://www.imdb.com/title/tt3411572"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Amor em Sampa"
 ---
 Há algo de muito brega, amador e piegas nessa comédia romântica que, seguindo os passos de Simplesmente Amor, tenta relacionar diferentes relacionamentos, e seguindo os passos de Nova York Eu Te Amo, tenta relacionar todos eles em torno de uma cidade (nesse caso, a megalópole São Paulo).

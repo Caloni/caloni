@@ -1,7 +1,8 @@
 ---
 date: "2019-10-15"
 link: "https://www.imdb.com/title/tt7844518"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Bellingcat: A Verdade Em Um Mundo Pós-Verdade"
 ---
 Bellingcat é um documentário sobre esse grupo de jornalistas investigativos amadores que conseguiram construir a partir de evidências extraídas da internet o caso que ligou a queda do avião MH17 sobrevoando a Ucrânia por militares russos.

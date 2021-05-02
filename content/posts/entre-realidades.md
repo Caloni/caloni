@@ -1,7 +1,8 @@
 ---
 date: "2020-02-14"
 link: "https://www.imdb.com/title/tt11388406"
-categories: [ "draft", "movies", "cinemaqui" ]
+categories: [ "draft", "movies", ]
+tags: [ "cinemaqui"  ]
 title: "Entre Realidades"
 ---
 Entre Realidades tem cara de independente e hipster. Foi escrito pela atriz Alison Brie e pelo diretor Jeff Baena, que ficou conhecido pelo ótimo Vida Após Beth, com Aubrey Plaza. Filmado pela Netflix em Los Angeles, faz pensar em como qualquer tipo de espectador hoje em dia é um espectador de streaming. (Essa frase foi escrita antes da pandemia do Corona Vírus, mas agora é sério e literal, pelo menos nas próximas semanas: todo espectador é um espectador de streaming. Por favor, fiquem em casa.)

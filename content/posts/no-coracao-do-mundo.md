@@ -1,7 +1,8 @@
 ---
 date: "2019-07-24"
 link: "https://www.imdb.com/title/tt9646768"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "No Coração do Mundo"
 ---
 No Coração do Mundo é exercício de estilo, filme de golpe, drama social/poético e antologia mineira, e algumas dessas características deste adorável longa você deve gostar. Nem que seja da antologia mineira. Fique para um cafezinho.

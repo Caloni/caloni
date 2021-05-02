@@ -1,7 +1,8 @@
 ---
 date: "2017-08-09"
 link: "https://www.imdb.com/title/tt3203620"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "O Jantar"
 ---
 O Jantar é um filme difícil de ver. Ele é tenso, coloca seus nervos à flor da pele, discute temas difíceis e ainda por cima possui um elenco afiado em encarnar personagens difíceis de engolir em uma discussão de fachada que revela mais sobre o espectador que está assistindo do que sobre aquelas pessoas tentando encontrar consenso onde não existe nenhum.

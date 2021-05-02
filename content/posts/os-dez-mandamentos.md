@@ -1,7 +1,8 @@
 ---
 date: "2016-02-05"
 link: "https://www.imdb.com/title/tt5431016"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Os Dez Mandamentos - O Filme"
 ---
 Assistir a esse remake da superprodução de Cecil B. de Mille (seja o de 23 ou o de 56) evoca sentimentos mistos. Se por um lado essa novela disfarçada de filme produzida pela Igreja/TV Record tem uma péssima qualidade em quase tudo que toca -- semelhante ao cajado de Deus que espalha sete pragas pelo Egito -- por outro o potencial dramático e épico que o livro/filme evocam equilibram o resultado final, que é capenga, mas é carregado nas costas por uma história milenar. Com um sentimento ainda tribal, a "inspiração divina" de antigamente hoje se revela como uma tentativa de controlar um povo através do amor incondicional aos deuses, como pregam quase todas as religiões do planeta, incluindo a judaica. Essa apela para a diferença de ter apenas um deus, o "único e verdadeiro" (e tenho certeza que quase 10 em 10 espectadores -- cristãos -- irão concordar).

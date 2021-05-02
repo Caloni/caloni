@@ -1,7 +1,8 @@
 ---
 date: "2020-07-20"
 link: "https://www.imdb.com/title/tt1545304"
-categories: [ "movies", "cinemaqui" ]
+categories: [ "movies", ]
+tags: [ "cinemaqui"  ]
 title: "Desperados"
 ---
 Desperados passou pelo top 10 dos últimos dias na Netflix, e desde que eles inauguraram essa lista fica mais claro o perfil do espectador médio. Pode ser uma surpresa para alguns, uma constatação para outros. Para mim foi uma constatação. Eu não gostei do filme por ele próprio e pelo que ele representa. Ele representa filmes feitos às pressas, sem carinho nem motivo, exceto o comercial. Ele é fácil demais para nos envolvermos, e esse é o nível de risco que as produtoras de streaming na maioria dos filmes está disposta a correr: não se envolva muito e assista à próxima atração. Quem gostaria de viver assim se não estivesse condenado ao sofá da sala?

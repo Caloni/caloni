@@ -1,7 +1,8 @@
 ---
 date: "2019-10-22"
 link: "https://www.imdb.com/title/tt9296808"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Ecos"
 ---
 Ecos pode ser muito chato para algumas pessoas e fascinante para outras. É um filme feito de pequeníssimos momentos que não significam nada sozinhos, mas que pela sua soma geram uma sensação de existência. E é bom existir.

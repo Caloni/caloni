@@ -1,7 +1,8 @@
 ---
 date: "2019-10-23"
 link: "https://www.imdb.com/title/tt8054608"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Deus é Mulher e Seu Nome é Petúnia"
 ---
 "Eu tenho valor", diz a protagonista em Deus é Mulher e Seu Nome é Petúnia, "Petúnia é inteligente e trabalhadora", diz seu pai, "O único problema de minha filha é não ter um emprego", diz sua mãe. E nenhum deles parece ter razão.

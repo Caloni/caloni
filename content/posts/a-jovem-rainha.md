@@ -1,7 +1,8 @@
 ---
 date: "2017-02-16"
 link: "https://www.imdb.com/title/tt1254322"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "A Jovem Rainha"
 ---
 A Jovem Rainha tem vários assuntos para tratar durante o conturbado reinado da rainha Cristina no império sueco do século 17, mas não parece conseguir se adequar ao tom mais apropriado. Se em alguns momentos gera o humor incidental da típica loucura dos monarcas, em outros tenta puxar a grandiosidade dos acontecimentos históricos, e no meio do caminho flerta perigosamente com um episódio de seriado de TV.

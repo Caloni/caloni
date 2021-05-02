@@ -1,7 +1,8 @@
 ---
 date: "2017-04-11"
 link: "https://www.imdb.com/title/tt2614400"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Variações de Casanova"
 ---
 Variações de Casanova consegue provar que a ópera, até mesmo a transformada em filme, não é desse mundo. Não o mundo de hoje. Ela é terrivelmente mais lenta que isso, e por isso mesmo alheia à sua existência. Mas, além disso, aqui temos uma versão de Casanova que está em descompasso com a visão positiva de conquistador de mulheres. É um moribundo, e isso sim, diz muito mais sobre a época em que vivemos do que uma ópera de Mozart.

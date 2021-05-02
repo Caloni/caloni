@@ -1,7 +1,8 @@
 ---
 date: "2017-01-16"
 link: "https://www.imdb.com/title/tt3715122"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "A Espera"
 ---
 A Espera é um filme que mergulha fundo no tema da morte de um filho. Tão fundo quanto a mitologia cristã. Para isso ele entende que é imprescindível a figura de Juliette Binoche, que não é uma madre italiana, o que pode tornar a mensagem confusa ou universal. De qualquer forma, ela manda bem, e as expressões dos seus exuberantes olhos contidos em um rosto envelhecido, mas ainda lindo, faz boa parte do trabalho do diretor italiano Piero Messina valer a pena.

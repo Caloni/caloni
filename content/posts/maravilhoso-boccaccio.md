@@ -1,7 +1,8 @@
 ---
 date: "2016-04-27"
 link: "https://www.imdb.com/title/tt3596952"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Maravilhoso Boccaccio"
 ---
 Fracamente inspirado no Decameron, a coletânea de novelas do autor italiano do Século 14, Maravilhoso Boccaccio é filmado como uma grande novela de contos, além de sua produção lembrar tanto uma peça de teatro quanto produções televisivas de baixo orçamento. Ainda assim, possui o mérito narrativo em suas ótimas e curtas histórias.

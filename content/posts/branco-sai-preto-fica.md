@@ -1,7 +1,8 @@
 ---
 date: "2015-03-13"
 link: "https://www.imdb.com/title/tt4287610"
-categories: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Branco Sai, Preto Fica"
 ---
 "Branco sai preto fica" tem uma ideia promissora, consegue implementá-la, e ainda que se alongue desnecessariamente em vários momentos, consegue estabelecer um argumento no mínimo interessante. Passado, presente e futuro se combinam para convergir em um ponto no tempo: a invasão policial em uma danceteria na região periférica de Brasília que fez com que duas pessoas não conseguissem mais andar normalmente. Para nosso protagonista, Marquim, o mais trágico é não poder dançar. Marquim, além de ator, é um personagem da vida real.

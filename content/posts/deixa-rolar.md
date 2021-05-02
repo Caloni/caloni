@@ -1,7 +1,8 @@
 ---
 date: "2015-02-11"
 link: "https://www.imdb.com/title/tt2139555"
-categories: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Deixa Rolar"
 ---
 Ah, os clichês! Ruim com eles, pior sem eles. Para não funcionar alguém precisa usá-los de forma preguiçosa, relapsa. Afinal de contas, eles já fizeram sucesso milhares de vezes antes de se solidificarem em um lugar-comum. E no caso de Deixa Rolar não se pode dizer se eles são bons ou maus, já que sua própria estrutura depende da análise do que há de mais banal nesses filmes. Vejamos o plot:

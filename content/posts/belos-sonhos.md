@@ -1,7 +1,8 @@
 ---
 date: "2016-12-19"
 link: "https://www.imdb.com/title/tt4746506"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Belos Sonhos"
 ---
 Belos Sonhos é uma verdadeira homenagem e uma investigação sobre essa relação tão íntima, possessiva e determinadora de caráter entre uma criança e sua mãe italiana, a figura eterna da mama. Sutil e visual, se transforma em um trabalho equilibrado, embora intenso, como todo bom filme italiano deve ser.

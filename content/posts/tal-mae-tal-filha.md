@@ -1,7 +1,8 @@
 ---
 date: "2017-05-30"
 link: "https://www.imdb.com/title/tt5975354"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Tal Mãe, Tal Filha"
 ---
 Tal Mãe, Tal Filha supostamente é uma comédia, mas há poucos momentos em que peguei dando risada. Por outro lado, houve vários momentos que observei, atônito, o quão baixo uma comédia consegue ir. E mesmo assim não funcionar.

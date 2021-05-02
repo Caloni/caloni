@@ -1,7 +1,8 @@
 ---
 date: "2020-03-04"
 link: "https://www.imdb.com/title/tt9056192"
-categories: [ "draft", "movies", "cinemaqui" ]
+categories: [ "draft", "movies", ]
+tags: [ "cinemaqui"  ]
 title: "Zombi Child"
 ---
 Das profundezas do meu inconsciente trasheiro, eu esperava, sinceramente, ver zumbis cinematográficos em Zombi Child, um filme que não desiste de apresentar sua "revelação final" mesmo que depois de quinze minutos de tela nós espectadores já soubéssemos qual é.

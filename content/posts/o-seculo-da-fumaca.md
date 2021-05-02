@@ -1,7 +1,8 @@
 ---
 date: "2019-10-17"
 link: "https://www.imdb.com/title/tt9810932"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "O Século da Fumaça"
 ---
 O Século da Fumaça parece uma reprise. Eu me lembro de ter visto um filme muito semelhante em outras mostras há um bom tempo, mas a data de produção de 2018 aponta para sua triste atualidade.

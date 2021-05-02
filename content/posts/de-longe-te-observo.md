@@ -1,7 +1,8 @@
 ---
 date: "2016-07-16"
 link: "https://www.imdb.com/title/tt4721400"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "De Longe Te Observo"
 ---
 De Longe Te Observo é um trabalho intimista que subverte a estrutura dos elementos que formam esse thriller/drama e com isso inverte nossa percepção sobre o que realmente está acontecendo. Talvez ele não consiga nos despistar o suficiente, mas o importante aqui é que o efeito funciona. Dessa forma, previsível ou não, aqui temos uma história que mexe com conceitos como trauma, apego, dinheiro e vingança.

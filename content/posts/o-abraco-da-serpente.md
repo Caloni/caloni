@@ -1,7 +1,8 @@
 ---
 date: "2016-02-18"
 link: "https://www.imdb.com/title/tt4285496"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "O Abraço da Serpente"
 ---
 O Abraço da Serpente é uma viagem cósmica através da descendência de todos os homens. Razão e tradição se digladiam para contar uma história que atravessa o senso da individualidade sem perder o senso da responsabilidade. E, sim, é também sobre índios.

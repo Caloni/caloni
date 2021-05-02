@@ -1,7 +1,8 @@
 ---
 date: "2019-10-19"
 link: "https://www.imdb.com/title/tt8372298"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Devorar"
 ---
 Swallow, ou da tradução "errada", Devorar, é daqueles roteiros que começa com uma ideia tão inusitada que você vibra quando acontece, porque é um respiro de ar fresco. Mas além disso ele trata de temas repetidos de uma nova forma, não expandindo, mas apenas mudando nosso ângulo de visão.

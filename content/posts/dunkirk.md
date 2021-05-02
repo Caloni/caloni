@@ -1,7 +1,8 @@
 ---
 date: "2017-07-25"
 link: "https://www.imdb.com/title/tt5013056"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Dunkirk"
 ---
 Dunkirk é um considerável esforço técnico. São tiros disparados, bombas explodindo e hélices se mexendo a todo vapor, conduzidos com um naturalismo impressionante e uma trilha sonora soberba, no sentido pretensioso da palavra. O resultado é uma imersão realista sobre um evento histórico que parece trazer muito mais euforia e catarse do que melancolia pelas misérias da guerra.

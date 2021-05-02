@@ -1,7 +1,8 @@
 ---
 date: "2017-07-21"
 link: "https://www.imdb.com/title/tt5348236"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "O Reencontro"
 ---
 O Reencontro traz Catherine Deneuve em boa forma em um filme que, apesar de leve, consegue trazer à tona o tema de uma pessoa que sabe que vai morrer. Porém, é mais que isso, pois ele junta a persona fantástica de Deneuve e de Catherine Frot através dos problemas sociais da atualidade em uma história que lida com perdas e ganhos que se entrelaçam em uma bonita composição da arte que fala sobre a vida.

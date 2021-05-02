@@ -1,7 +1,8 @@
 ---
 date: "2019-10-29"
 link: "https://www.imdb.com/title/tt7984734"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "O Farol"
 ---
 Do mesmo diretor e roteirista de A Bruxa surge O Farol, o segundo longa metragem de Robert Eggers e que zera o universo do terror, quebrando a própria quebra de expectativa do gênero e descrevendo sensações à prova de lógica. Analisar este filme usando teorias da linguagem cinematográfica tende ao fracasso. Porém, há um caminho para a compreensão, e talvez seja até uma blasfêmia dizê-lo hoje em dia: entender sobre masculinidade.

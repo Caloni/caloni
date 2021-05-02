@@ -1,7 +1,8 @@
 ---
 date: "2018-04-17"
 link: "https://www.imdb.com/title/tt6182402"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "A Cidade do Futuro"
 ---
 Que trabalho lindo de direção este de A Cidade do Futuro. Ele guia seus atores não-atores para realizarem seus símbolos. Ele conta uma história sem precisar das falas. Em suma, ele não precisa do elenco para narrar, mas os utiliza como potência e movimento.

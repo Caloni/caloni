@@ -1,7 +1,8 @@
 ---
 date: "2017-05-23"
 link: "https://www.imdb.com/title/tt5748480"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Muito Romântico"
 ---
 Há um momento em Muito Romântico em que sua protagonista faz uma relação entre as memórias que carregamos na vida e uma colcha de retalhos. A colcha inteira, de acordo com ela, não tem sentido (assim como na vida). Porém, cada pequeno retalho mantém seu significado. Isso vale para as memórias que acumulamos durante a vida, imagino eu.

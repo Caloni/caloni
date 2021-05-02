@@ -1,7 +1,8 @@
 ---
 date: "2018-11-02"
 link: "https://www.imdb.com/title/tt5523010"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "O Quebra Nozes E Os Quatro Reinos"
 ---
 "Quebra Nozes E Os Quebra Reinos" tem cara de filme que inicia franquia. Inspirado no famoso balé de Tchaikovsky que por sua vez se baseou em um conto do escritor E. T. A. Hoffmann, a essência da história foi totalmente modificada, estendida e esticada para basicamente propósitos de direção de arte e trilha sonora. Uma história que era sobre um soldadinho quebrador de nozes de repente vira uma espécie de versão em miniatura de Crônicas de Nárnia com direito a guerra, traição, perda e todo um conjunto dramático.

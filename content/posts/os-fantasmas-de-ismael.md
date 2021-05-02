@@ -1,7 +1,8 @@
 ---
 date: "2018-04-29"
 link: "https://www.imdb.com/title/tt5687040"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Os Fantasmas de Ismael"
 ---
 Este é mais um filme sobre o processo de criação. Mas ele é tão intenso que ele quase parece se deixar levar como uma auto-análise do seu criador. Eu disse quase, já que Os Fantasmas de Ismael é um trabalho que se mantém sob controle se você olhar de perto, mas para o leigo, esta é uma aventura muito, muito louca, que com um pouco de esperança irá te dar alguns insights sobre como somos manipulados todo o tempo nas artes cênicas e na literatura.

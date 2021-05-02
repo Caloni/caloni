@@ -1,7 +1,8 @@
 ---
 date: "2019-08-28"
 link: "https://www.imdb.com/title/tt4523910"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Chicuarotes"
 ---
 A sensação de impotência em Chicuarotes é o que constrói uma tensão que consegue ser ao mesmo tempo trágica e engraçada. Por um lado há o velho clichê de chorar sobre a desgraça dos mais pobres, mas por outro há esse lado humano que reconhece que, dizendo de forma bem chula e preconceituosa, pobre não vale muita coisa, mesmo.

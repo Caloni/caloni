@@ -1,7 +1,8 @@
 ---
 date: "2017-10-14"
 link: "https://www.imdb.com/title/tt2931140"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Uma Razao Para Recomecar"
 ---
 Uma Razão Para Recomeçar, se você ainda não sabe, vou te poupar um tempo ou te dar uma dica: ele tem aquele formato que te faz chorar em alguns momentos e que te dá esperança no final. Agora, dependendo de você, a esperança pode ser uma mensagem otimista sobre a vida ou a esperança que o filme acabe. No meu caso foi para que o filme acabasse. E, adivinha só? Minhas preces foram atendidas!

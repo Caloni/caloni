@@ -1,7 +1,8 @@
 ---
 date: "2015-03-13"
 link: "https://www.imdb.com/title/tt2381941"
-categories: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Golpe Duplo"
 ---
 Os diretores/roteiristas Glenn Ficarra e John Requa têm um histórico interessante em O Golpista do Ano: um filme que envolve não apenas uma trama de reviravoltas, mas também interpretações e interações certeiras de seu elenco. Sendo assim, é compreensível que Golpe Duplo, apesar de construir uma trama cheia de virtudes, tenha que se render às fracas performances de Will Smith e Margot Robbie (O Lobo de Wall Street) e inserir muletas narrativas que enfraquecem o projeto. Felizmente, a qualidade no roteiro compensa os artifícios usados para tornar o resultado final mais palatável ao grande público (e, claro, aos fãs de Will Smith).

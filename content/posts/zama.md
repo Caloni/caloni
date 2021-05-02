@@ -1,7 +1,8 @@
 ---
 date: "2018-03-26"
 link: "https://www.imdb.com/title/tt3409848"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Zama"
 ---
 Em algum momento na metade de Zama, da diretora argentina Lucrecia Martel, o protagonista se muda para um casebre pior de onde estava e começa a ser rodeado de mulheres que não existem. Esse poderia ser o clímax de um desejo reprimido que foi aumentando na mesma medida que suas frustrações, perdido em uma terra de ninguém. No entanto, como o filme nunca muda de tom, ainda estamos no mesmo estado de quando o filme começou. Exceto o sentimento de tempo perdido e um sono épico.

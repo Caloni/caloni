@@ -1,6 +1,7 @@
 ---
 date: "2017-03-08"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Jonas e o Circo sem Lona"
 ---
 Jonas e o Circo sem Lona é um documentário onde a documentarista não só realiza um trabalho de metalinguagem como chega a desempenhar um papel ativo na própria história que pretende contar.

@@ -1,7 +1,8 @@
 ---
 date: "2015-06-10"
 link: "https://www.imdb.com/title/tt4255626"
-categories: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Beijei uma Garota"
 ---
 Embora no começo pareça uma comédia romântica daquelas bem clichê, com o protagonista sendo narrador em off e aquelas piadinhas previsíveis inseridas durante toda a trama, Beijei uma Garota se mantém honesto ao seu conteúdo original do começo ao fim, trazendo a questão da homossexualidade como alvo de uma chacota inocente, embora nunca ofensiva, e muito menos improvável.

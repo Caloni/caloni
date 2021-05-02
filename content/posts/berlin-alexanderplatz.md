@@ -1,7 +1,8 @@
 ---
 date: "2020-11-07"
 link: "https://www.imdb.com/title/tt6470924"
-categories: [ "cinemaqui", "movies" ]
+categories: [ "movies" ]
+tags: [ "cinemaqui",  ]
 title: "Berlin Alexanderplatz"
 ---
 Berlin Alexanderplatz é um filme de três horas que passam voando. Se trata do conto do homem comum, narrado por uma voz onisciente que a divide em partes, que não fazem lá muito sentido, mas com reviravoltas entre elas. Ser dividido em partes torna a tarefa de assisti-lo mais fácil. É como um livro e seus capítulos.

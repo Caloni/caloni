@@ -1,7 +1,8 @@
 ---
 date: "2020-03-13"
 link: "https://www.imdb.com/title/tt7902124"
-categories: [ "draft", "movies", "cinemaqui" ]
+categories: [ "draft", "movies", ]
+tags: [ "cinemaqui"  ]
 title: "O Chão Sob Meus Pés"
 ---
 É lugar-comum pisar nas conquistas das outras pessoas quando elas se tornam bem-sucedidas demais. Uma maneira clássica e bem-vista de se fazer isso é colocar os "valores humanos" acima das virtudes individuais da pessoa atacada. Usando um malabarismo dialético joga-se fora ou minimiza-se todas as adversidades pelas quais a pessoa passou para chegar onde está, e se exalta as dificuldades da vida de outra pessoa que se quer defender por comparação. Essa outra pessoa é a chamada vítima. Em O Chão Sob Meus Pés essa construção dialética ganha um contorno tão sutil que o filme precisa da ajuda do espectador para interpretar e descobrir quais seriam esses "valores humanos". Mais difícil ainda, porém, é constatar que eles seriam de alguma forma superiores às conquistas e à felicidade de uma pessoa.

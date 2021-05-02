@@ -1,7 +1,8 @@
 ---
 date: "2019-10-22"
 link: "https://www.imdb.com/title/tt4844140"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "A Verdadeira História da Gangue de Ned Kelly"
 ---
 Desde 1906 (The Story of the Kelly Gang) se fazem ficções que buscam contar os acontecimentos em torno do fora-da-lei australiano Ned Kelly. Agora, no século 21, a partir do livro de Peter Carey, que busca contar os mesmos acontecimentos pelo ponto de vista de Kelly, surge essa adaptação cinematográfica de Shaun Grant, A Verdadeira História da Gangue de Ned Kelly, que é uma bagunça talvez comparável ao que se passava na cabeça do pobre bandido.

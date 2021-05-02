@@ -1,6 +1,7 @@
 ---
 date: "2019-02-13"
-categories: [ "draft", "cinemaqui" ]
+categories: [ "draft", ]
+tags: [ "cinemaqui"  ]
 title: "Como a geração de Sai de Baixo se encontra com a geração Não me Toque"
 ---
 A coletiva de imprensa para "Sai de Baixo: O Filme" pode ser resumida da seguinte maneira: uma trupe de militantes mimimi fazendo perguntas sobre sentimentos e o elenco do filme respondendo à altura sem sair do salto; muito pelo contrário, com muita propriedade: "temos que dizer uma coisa que todo pobre concorda e se identifica: ser pobre é ruim!". Parecia um quadro de humor combinado. E que rendeu (a mim pelo menos) ótimas risadas.

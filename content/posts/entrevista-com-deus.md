@@ -1,7 +1,8 @@
 ---
 date: "2018-11-07"
 link: "https://www.imdb.com/title/tt5779372"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Entrevista Com Deus"
 ---
 A primeira impressão de Entrevista com Deus é que o filme inteiro foi baseado em apenas uma ideia: Deus é entrevistado por um ser humano. Para que esse momento único funcionasse, porém, seria necessário ou desenvolver uma fantasia mais alegórica como Todo Poderoso, o que correria o risco de ser cômico sem querer, ou desenvolver tão bem os personagens que passaríamos a entender suas motivações por trás daquele momento, delírio ou não.

@@ -1,7 +1,8 @@
 ---
 date: "2019-01-14"
 link: "https://www.imdb.com/title/tt9214280"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Eu Sou Mais Eu"
 ---
 "Eu Sou Mais Eu" é aquele velho filme da pessoa revivendo sua adolescência enquanto analisa o seu eu atual, e o que deixou para trás entre esses dois momentos. Geralmente são aqueles valores que se perdem, as amizades significativas, etc. No entanto, a tentativa aqui é reaver mesmo o nosso eu, aquele eu estranho que foi desmoralizado na escola e que acabou se escondendo por trás de uma máscara de auto-suficiência que, como todo adulto sabe, é só um instrumento para se auto-torturar.

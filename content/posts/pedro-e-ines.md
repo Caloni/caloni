@@ -1,7 +1,8 @@
 ---
 date: "2018-10-09"
 link: "https://www.imdb.com/title/tt2050452"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Pedro e Inês"
 ---
 "Pedro e Inês" é uma viagem lindíssima por três tempos, três costumes e a mesma perda. Brincando com diferentes narrativas e suas trágicas coincidências, o estado da loucura pode ser impossível de mapear na razão ou é apenas a beleza do essencial que ofusca a rotina.

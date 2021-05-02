@@ -1,7 +1,8 @@
 ---
 date: "2016-10-20"
 link: "https://www.imdb.com/title/tt3365280"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Entre Linhas"
 ---
 

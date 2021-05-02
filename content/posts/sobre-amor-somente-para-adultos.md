@@ -1,7 +1,8 @@
 ---
 date: "2021-04-12"
 link: "https://www.imdb.com/title/tt7273648"
-categories: [ "movies", "cinemaqui" ]
+categories: [ "movies", ]
+tags: [ "cinemaqui"  ]
 title: "Sobre Amor. Somente Para Adultos"
 ---
 Sobre Amor. Somente para Adultos. Um passeio bacaninha por alguns relacionamentos que parecem diferentões (não são) enquanto John Malkovich conduz sua palestra em Moscou sobre como a crescente enxurrada de divórcios ao redor do mundo, que só aumentam a cada ano, e o que fazer para manter o amor. Ah, esse amor idealizado. O amor é de fato hoje em dia essa coisa fluida profetizada por um sociólogo famoso cujo nome não lembro, mas vou pesquisar depois. Zygmunt Bauman. Essa internet decepciona menos os seres humanos do que sua busca por amor.

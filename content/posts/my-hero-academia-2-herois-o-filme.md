@@ -1,7 +1,8 @@
 ---
 date: "2019-08-01"
 link: "https://www.imdb.com/title/tt7745068"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "My Hero Academia: 2 Heróis - O Filme"
 ---
 Acho engraçado esses animes que viram filme e querem apresentar todo o contexto já no título. Esse é o caso de My Hero Academia: 2 Heróis - O Filme, que depois do mangá virar anime e agora virar filme tem dois subtítulos. Imagino o título do futuro live action que será lançado: My Hero Academia: 2 Heróis - O Filme - Live Action - Dublagem Especial Contratada Pela Sato Company: A Revanche.

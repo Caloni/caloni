@@ -1,7 +1,8 @@
 ---
 date: "2020-10-22"
 link: "https://www.imdb.com/title/tt5658540"
-categories: [ "cinemaqui", "movies" ]
+categories: [ "movies" ]
+tags: [ "cinemaqui",  ]
 title: "Mosquito"
 ---
 Mosquito, um filme português, é sobre a introspecção de um garoto em uma guerra próximo do final. Ele tem 17 anos e como todo jovem descerebrado cheio de energia para morrer espera poder fazer parte de uma batalha, mas está em um pelotão cujo objetivo é ficar "de boa na lagoa" (no caso na savana).

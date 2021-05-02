@@ -1,7 +1,8 @@
 ---
 date: "2017-05-19"
 link: "https://www.imdb.com/title/tt4429074"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Degradê"
 ---
 Degradê é um filme onde o seu começo é o melhor momento para suas personagens. E olha que nem é tão bom assim. Seguindo seu título à risca, a situação vai gradualmente de um dia quente e ensolarado para uma noite de pesadelos.

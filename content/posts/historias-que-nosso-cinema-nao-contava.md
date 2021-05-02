@@ -1,6 +1,7 @@
 ---
 date: "2018-08-23"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Histórias que Nosso Cinema (Não) Contava"
 ---
 Se você se lembra das pornochanchadas -- produções de baixo orçamento, cunho erótico e qualidade duvidosa lançadas na época da intervenção militar -- é bem capaz que irá gostar muito desse filme. Ele dá uma nova cor ao tema. Não se trata de uma mistura inconsequente como aquelas homenagens vazias. A montagem das cenas, ou seja, a sequência que elas seguem, é o núcleo da narrativa que ele tenta criar a partir do nada. Sua ambição: fazer um memorial político/sócio/econômico da época. Dentro das pretensões das pornochanchadas, até que não está muito longe.

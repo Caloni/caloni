@@ -1,7 +1,8 @@
 ---
 date: "2019-07-11"
 link: "https://www.imdb.com/title/tt7175992"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "O Professor Substituto"
 ---
 Uma classe de alunos está compenetrada estudando. O calor é tão forte que é possível sentir seu barulho, no começo incômodo, no final ensurdecedor. O professor pega uma cadeira para chegar ao parapeito da janela e se joga, deixando seu posto vago de uma maneira mórbida. O Professor Substituto chega em um momento delicado para a escola, para os alunos e para toda a sociedade.

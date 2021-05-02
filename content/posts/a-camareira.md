@@ -1,7 +1,8 @@
 ---
 date: "2019-11-06"
 link: "https://www.imdb.com/title/tt8331988"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "A Camareira"
 ---
 A Camareira é um filme lento sobre uma pessoa lenta que nem sabe o próprio signo. O objetivo é termos dó dessa criatura, devagar no raciocínio, mas muito caprichosa, embora com movimentos de um zumbi, que vai aos poucos aprendendo que ser competente apenas beneficia aos outros. O drama surge na banalidade das ações do dia a dia, e essa banalidade contamina o próprio filme, pois ele aos poucos, em vez de se tornar relevante, se torna esquecível.

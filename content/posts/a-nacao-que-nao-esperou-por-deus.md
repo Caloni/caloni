@@ -1,7 +1,8 @@
 ---
 date: "2015-07-18"
 link: "https://www.imdb.com/title/tt4659524"
-categories: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "A Nação Que Não Esperou Por Deus"
 ---
 Tudo começou em 1999, quando Lúcia Murat escreveu, produziu e dirigiu o filme "Brava Gente Brasileira", que retrata a conturbada relação entre portugueses e índios no século XVIII, justamente a tribo dos Cadiueus (há outros nomes, como Kadiweu, Kadivéus e por aí vai a valsa). Agora a mesma diretora retoma uma jornada de redescoberta de um povo que quinze anos depois de "descobrir" a eletricidade, as novelas e a religião dos brancos, agora corre o risco de perder o último de seus resquícios palpáveis em sua sociedade: a terra.

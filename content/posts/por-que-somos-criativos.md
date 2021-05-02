@@ -1,7 +1,8 @@
 ---
 date: "2018-10-28"
 link: "https://www.imdb.com/title/tt8804436"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Por Que Somos Criativos"
 ---
 "Por Que Somos Criativos?" é assim: imagine o diretor Hermann Vaske coletando testemunhos e assinaturas por várias décadas para responder uma pergunta que ele próprio não deve ter entendido até agora. Pois bem. Agora ele tem "rolos e rolos" de filme com essa história. O que ele faz? Junta tudo em um documentário que responde uma questão que ninguém nunca fez porque não faz o menor sentido (exceto artistas, talvez). O resultado é um emaranhado de nada cercado de celebridades que irão alavancar o filme às custas de suas imagens e seus possíveis insights.

@@ -1,7 +1,8 @@
 ---
 date: "2019-11-06"
 link: "https://www.imdb.com/title/tt9207188"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Os Parças 2"
 ---
 Logo antes da sessão de Os Parças 2 reli o texto do CinemAqui sobre o primeiro filme, para entrar no clima. Isso abaixou mais ainda minhas expectativas sobre o que viria. Mas não o suficiente. Agora o próximo passo é fazer terapia vendo algum filme ruim que pelo menos consiga divertir por tão ruim que ele é. Sharknado, por exemplo.

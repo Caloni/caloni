@@ -1,7 +1,8 @@
 ---
 date: "2019-03-29"
 link: "https://www.imdb.com/title/tt9353436"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Mike Wallace Está Aqui"
 ---
 Mike Wallace Está Aqui é um documentário ágil que pega bastante da linguagem televisiva, mas sem mastigar muito a informação. o formato parece estar um pouco acima do conteúdo, o que não é um problema para a televisão, mas é para o cinema.

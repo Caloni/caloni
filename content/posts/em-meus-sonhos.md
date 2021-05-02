@@ -1,7 +1,8 @@
 ---
 date: "2020-10-28"
 link: "https://www.imdb.com/title/tt11744850"
-categories: [ "cinemaqui", "movies" ]
+categories: [ "movies" ]
+tags: [ "cinemaqui",  ]
 title: "Em Meus Sonhos"
 ---
 Em Meus Sonhos é um filme turco independente desta Mostra de São Paulo em formato de streaming e não me parece o tipo de filme que entraria em uma seleção com sessões no cinema. Tem mais cara de filme lançado direto para TV. Que quase ninguém assiste. Se você tem esse perfil de ficar com insônia na madrugada, pode ser que no futuro esteja passando nos corujões da vida, porque o dono da emissora comprou um pacotão de filmes e veio esse de brinde.

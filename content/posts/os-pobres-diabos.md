@@ -1,7 +1,8 @@
 ---
 date: "2017-07-01"
 link: "https://www.imdb.com/title/tt3072174"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Os Pobres Diabos"
 ---
 Depois de quase quatro anos após ganhar o Festival de Brasília em 2013, chega nas telas Os Pobres Diabos, um filme onde provavelmente sua melhor parte é a primeira cena, que evoca O Palhaço (Selton Mello, 2011), com seu clima de desesperança poética nordestina de Graciliano Ramos e José Lins do Rêgo, uma trilha sonora inspirada em temas de circo com um toque de melancolia, e possivelmente um road movie. Toda essa promessa, infelizmente, dá entrada para um show de clichês cujo objetivo, diferente do circo mais humilde, está muito longe de entreter e muito próximo de virar propaganda ideológica da pior espécie: a que se coloca acima do seu conteúdo artístico.

@@ -1,7 +1,8 @@
 ---
 date: "2021-04-10"
 link: "https://www.imdb.com/title/tt9415108"
-categories: [ "movies", "cinemaqui" ]
+categories: [ "movies", ]
+tags: [ "cinemaqui"  ]
 title: "O Protocolo de Auschwitz"
 ---
 História baseada em fatos registrados sobre a fuga de dois judeus eslovenos do campo de concentração nazista mais famoso, em O Protocolo Auschwitz a chave é a direção sóbria de Peter Bebjak que entrega uma visão fatalista, claro, pois todos sabemos o desfecho geral da segunda guerra, mas ao mesmo tempo realista. E não estamos falando daquele realismo dramático. A câmera de Bebjak acompanha esses dois heróis e seus companheiros pelo pesadelo de olhos abertos que essas pessoas viveram nesses duros dias de um passado que vai se tornando cada vez mais apagado na memória do povo.

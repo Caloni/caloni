@@ -1,7 +1,8 @@
 ---
 date: "2016-10-11"
 link: "https://www.imdb.com/title/tt2364897"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "O Quarto dos Esquecidos"
 ---
 O Quarto dos Esquecidos pega todo aquele nosso preconceito (no bom sentido) de "filmes de famílias problemáticas que se mudam para casas no campo" (um sub-gênero do terror cada vez mais usado) e transforma em um drama envolvente, ou no mínimo quase envolvente. E assim como o excelente Babadook, ele utiliza metáforas para explorar esse ser fora de controle que vive em cada um de nós.

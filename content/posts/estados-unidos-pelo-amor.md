@@ -1,7 +1,8 @@
 ---
 date: "2016-12-09"
 link: "https://www.imdb.com/title/tt5333110"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Estados Unidos Pelo Amor"
 ---
 É curioso como em "Estados Unidos Pelo Amor" -- novo trabalho do diretor (e roteirista) Tomasz Wasilewski -- o destino de cada personagem termina necessariamente em um drama, mas que nunca é suficientemente trágico. Pelo menos não para as mulheres envolvidas em quatro histórias que se cruzam em um vilarejo na Polônia na época comunista. Este é acima de tudo um filme sobre um grito silencioso na imensidão do horizonte.

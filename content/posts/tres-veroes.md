@@ -1,7 +1,8 @@
 ---
 date: "2019-10-28"
 link: "https://www.imdb.com/title/tt10785310"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Três Verões"
 ---
 Regina Casé é um colírio de interpretação para os olhos. A maneira com que ela torna a caseira Madá uma representante da brasilidade pobre da periferia do Rio de Janeiro convivendo com figurões de uma família de ricaços é o suficiente para sustentar "Três Verões" sozinho, do começo ao fim.

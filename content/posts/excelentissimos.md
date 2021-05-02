@@ -1,7 +1,8 @@
 ---
 date: "2018-11-15"
 link: "https://www.imdb.com/title/tt9046772"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Excelentíssimos"
 ---
 Não sou uma pessoa chegada a política, mas curto assistir à série House of Cards. Todo esse emaranhado de poder materializado em homens engravatados munidos de retórica e troca de influências em um verdadeiro circo imoral de personagens temporários me fascina pela exatidão com que essa barbárie sofisticada é desmistificada na fala, no grito e na "lei". Excelentíssimos, documentário/colagem do diretor Douglas Duarte, consegue nos fornecer exatamente isso a respeito de um evento marcante do Brasil recente que transformou completamente a visão que o brasileiro médio tinha da já tão surrada democracia que vivemos.

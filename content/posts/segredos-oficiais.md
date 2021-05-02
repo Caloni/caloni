@@ -1,7 +1,8 @@
 ---
 date: "2019-10-30"
 link: "https://www.imdb.com/title/tt5431890"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Segredos Oficiais"
 ---
 Esta é uma história real que envolve política e a Guerra do Iraque deste século, mas está fora do timing; é um filme britânico deslocado dos assuntos do momento, como o #brexit. Além disso, seu assunto jurídico é chato, cheio de detalhes legais que precisamos aprender para entender a trama. Sua heroína é uma subalterna de um órgão terceirizado do governo, sem qualquer appealing. Seu desfecho é totalmente anticlimático, sabotando nosso envolvimento pelas últimas duas horas. E apesar de tudo isso, Segredos Oficiais é absurdo de tão bom. Tenso, comovente, claro e empolgante. Como tudo isso funciona apesar de?

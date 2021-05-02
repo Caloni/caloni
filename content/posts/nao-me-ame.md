@@ -1,7 +1,8 @@
 ---
 date: "2019-10-24"
 link: "https://www.imdb.com/title/tt8445700"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Não me Ame"
 ---
 Não me Ame é cinema experimental, e eu admiro isso. Porém, seus símbolos vão se multiplicando a cada diálogo em um ritmo indecifrável, e isso não tem perdão.

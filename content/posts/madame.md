@@ -1,7 +1,8 @@
 ---
 date: "2018-03-19"
 link: "https://www.imdb.com/title/tt6045466"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Madame"
 ---
 É uma comédia de costumes que analisa a elite decadente que janta em uma mansão em Paris como parte do jogo de ser rico. No meio deles está a governanta da anfitriã, disfarçada de realeza. Só que a história é menos sobre a plebeia e mais sobre como aquelas criaturas interagem com aquele brinquedo ocasional.

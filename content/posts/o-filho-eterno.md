@@ -1,7 +1,8 @@
 ---
 date: "2016-11-22"
 link: "https://www.imdb.com/title/tt5341098"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "O Filho Eterno"
 ---
 O Filho Eterno é mais uma incursão no mundo das pessoas com Síndrome de Down. Ao ouvir disso, no Brasil, nos lembramos de Colegas, de 2012, cuja produção tem um coração gigante, mas sua realização carece dos preceitos básicos que tornam o Cinema um contador de histórias eficiente. Aqui temos o livro de Cristovão Tezza por trás da história, o que torna seu arco dramático um pouco mais ajeitado. Porém, mesmo assim, além das dificuldade de se adaptar uma obra literária que usa simbolismos demais, há muito o que aprender quando se trabalha com atores que possuem um distúrbio genético que os limitam por natureza.

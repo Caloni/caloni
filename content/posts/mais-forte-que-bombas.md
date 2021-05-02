@@ -1,7 +1,8 @@
 ---
 date: "2016-03-19"
 link: "https://www.imdb.com/title/tt2217859"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Mais Forte Que Bombas"
 ---
 Mais Forte Que Bombas consegue pegar o contexto mais imediatista dos conflitos armados, onde pessoas morrem e sofrem todos os dias, e através de uma fotógrafa que vive esse dia-a-dia trazer a questão de outros tipos de conflitos, mais internos e intrínsecos da convivência entre seres humano. Se torna uma tarefa difícil considerar a depressão um problema tão urgente quanto soldados atirando em mulheres e crianças, mas a dedicação  do filme em elaborar uma intrincada rede de sentimentos, navegando por diferentes períodos na vida dos seus personagens, favorece imensamente essa conexão entre sofrimento interno e externo.

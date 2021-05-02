@@ -1,7 +1,8 @@
 ---
 date: "2017-08-10"
 link: "https://www.imdb.com/title/tt5186236"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Afterimage"
 ---
 Afterimage é uma breve biografia que se passa em uma distopia onde o governo proíbe toda forma de Arte contra seus interesses e... ops. Espera. Não é uma distopia, é a Polônia soviética.

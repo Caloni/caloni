@@ -1,7 +1,8 @@
 ---
 date: "2016-09-23"
 link: "https://www.imdb.com/title/tt1974419"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Demônio de Neon"
 ---
 A única esfinge presente na mitologia grega é um demônio e se assemelha a um leão alado com cabeça de mulher. Presente na peça Édipo Rei, Ela olha onipotente para os mortais que desejavam passar e desfere seu famoso enigma. Para os que não o decifram, ela os devora. O enigma tem relação com as diferentes fases na idade do homem, mas para acertar você precisa descobrir que a criatura aparentemente disforme, que muda de patas durante o dia, é o próprio homem. Não por acaso, Demônio de Neon em sua primeira cena, ou melhor dizendo, em seu primeiríssimo quadro, mostra uma jovem de beleza estonteante deitada em um divã ao som de uma música estilo dance psicodélico, empolgante e ao mesmo tempo grandioso, revelando todos os passos de como este filme deve ser desvendado. A moça aparentemente está morta, pois escorre sangue de seu braço até o chão de vidro com um tom rubi. Apesar de trágica, a cena permanece belíssima enquanto a câmera, nossos olhos, se afastam, como em fascinação. E o novo filme "de grife" do diretor Nicolas Winding Refn (Drive) parece explorar justamente essa fascinação que temos, tanto do belo quanto do horrível. Muitas vezes ao mesmo tempo.

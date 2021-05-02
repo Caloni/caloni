@@ -1,7 +1,8 @@
 ---
 date: "2019-11-17"
 link: "https://www.imdb.com/title/tt0438488"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "O Exterminador do Futuro: A Salvação"
 ---
 Este é o quarto da série de filmes em que humanos e máquinas estão brigando, desde 1984, e de certa forma a primeira continuação aguardada. Se considerarmos o final de A Rebelião das Máquinas, onde o fraco John Connor interpretado por Nick Stahl é acompanhado por sua futura esposa, Kate Brewster, para um abrigo anti-nuclear horas após as máquinas controladas pela rede Skynet destruíssem boa parte da raça humana e iniciassem uma guerra sem precedentes, O Exterminador do Futuro: A Salvação é um filme previsto há décadas nos roteiros anteriores de James Cameron, Gale Anne Hurd e William Wisher.

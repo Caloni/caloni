@@ -1,7 +1,8 @@
 ---
 date: "2019-09-05"
 link: "https://www.imdb.com/title/tt7025388"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Abigail e a Cidade Proibida"
 ---
 Abigail e a Cidade Proibida é a história de alguém que bateu forte a cabeça e começou a escrever uma lista dos clichês mais insuportáveis do século 20 na literatura, no cinema e no teatro. Depois ele conseguiu convencer algumas pessoas da indústria a filmar o que vamos chamar aqui de "história". E ele estava com sorte, porque para ser um big boss nessa área você também deve desenvolver um tino para clichês, ou ter nascido desse jeito. É o que chamamos de um dom natural.

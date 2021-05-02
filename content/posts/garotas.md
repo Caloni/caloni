@@ -1,7 +1,8 @@
 ---
 date: "2015-04-24"
 link: "https://www.imdb.com/title/tt3655522"
-categories: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Garotas"
 ---
 Garotas é daqueles filmes que você começa assistir sem entender muito bem qual a história que quer ser contada. Sabemos que é sobre adolescência, essa fase impulsiva. A primeira cena mostra meninas dando duro em um jogo de futebol americano. A cena seguinte as mostra juntas, falando todas ao mesmo tempo, empolgadas. A cena que finaliza a introdução as mostra quietas, já no conjunto de prédios onde moram, e onde aos poucos vão se separando. Até sobrar Marieme (Karidja Touré em sua estreia).

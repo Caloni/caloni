@@ -1,7 +1,8 @@
 ---
 date: "2017-12-03"
 link: "https://www.imdb.com/title/tt5818818"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Mulheres Divinas"
 ---
 Mulheres nas ruas com placas de protesto dizendo "não somos animais de estimação". Queima de sutiãs em praça pública. Amor livre sob o efeito de drogas. Calças boca de sino. Para quem não conhece muito bem os detalhes por trás do movimento feminista dos anos 70 pode achar tudo um grande exagero. E Mulheres Divinas vem aí atualizar a cartilha das pessoas e até das atuais feministas, demonstrando todo o mecanismo por trás de por que, afinal de contas, as mulheres reclamavam tanto para lavar louça.

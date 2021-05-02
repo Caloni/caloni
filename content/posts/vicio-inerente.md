@@ -1,7 +1,8 @@
 ---
 date: "2015-03-27"
 link: "https://www.imdb.com/title/tt1791528"
-categories: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Vício Inerente"
 ---
 Paul Thomas Anderson volta ao seu estilo Boogie Nights e, de certa forma, Magnólia, com esse Vício Inerente. A história gira em torno de Larry "Doc" Sportello (Joaquin Phoenix), um hippie, viciado em diversas drogas e detetive particular nas horas vagas. Horas vagas essas que se tornam uma constante quando ele vai pegando três casos de uma só vez que parecem estar ligados em torno da persona do empreiteiro Mickey Wolfmann. Tudo começa quando sua ex-namorada, Shasta (Katherine Waterston), lhe faz a mais estranha das visitas dizendo que Mickey é seu novo amante e pede que Doc impeça que a esposa do empreiteiro e seu amante internem-no em um asilo. Apenas essa premissa já seria complicada, mas as coisas vão piorando.

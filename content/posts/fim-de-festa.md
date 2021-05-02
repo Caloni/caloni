@@ -1,6 +1,7 @@
 ---
 date: "2020-02-17"
-categories: [ "draft", "movies", "cinemaqui" ]
+categories: [ "draft", "movies", ]
+tags: [ "cinemaqui"  ]
 title: "Fim de Festa"
 ---
 Fim de Festa é uma guerra declarada contra a lógica opressora burguesa, dessas que abomina o Carnaval e exige que lindas mulheres cubram os seios em público, mas ao mesmo tempo é uma diversão acompanhar essa aventura investigativa sob os olhos de quem pensa diferente: os subversivos. Que de subversivos não têm nada. É a elite brasileira que é careta, mesmo.

@@ -1,7 +1,8 @@
 ---
 date: "2016-02-02"
 link: "https://www.imdb.com/title/tt3296658"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "A Ovelha Negra"
 ---
 O tema de A Ovelha Negra é sobre a família, mas vamos aprendendo isso aos poucos, em uma mudança de estações no melhor estilo Ki-duk Kim (diretor de Primavera, Verão, Outono, Inverno... E Primavera). A introdução se apresenta como uma história de rivalidade entre dois criadores de ovelhas. Observamos o cuidado com que Gummi (Sigurður Sigurjónsson) cuida de suas duas ovelhas premiadas, selecionando no final uma delas para um torneio anual onde encara com frustração o prêmio de segundo lugar enquanto aguarda seu vizinho, Kiddi (Theodór Júlíusson) e sua ovelha negra ganharem o prêmio principal.

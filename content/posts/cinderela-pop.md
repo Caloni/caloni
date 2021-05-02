@@ -1,7 +1,8 @@
 ---
 date: "2019-02-18"
 link: "https://www.imdb.com/title/tt8716800"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Cinderela Pop"
 ---
 Engraçado a forma como o tempo passa no Brasil. De Cinderela Baiana, clássico da filmografia nacional, para Cinderela Pop. Muita coisa mudou durante esse tempo e entre essas duas versões brasileiras da história imortalizada pela Disney. Maisa, aquela menina irritante e esperta que interagia com o apresentador de TV Sílvio Santos nasceu, cresceu e se produziu, enquanto o próprio Sílvio sequer envelheceu. E não se houve falar de Carla Perez há um bom tempo.

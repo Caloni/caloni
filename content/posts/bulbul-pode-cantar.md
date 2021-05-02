@@ -1,7 +1,8 @@
 ---
 date: "2019-10-23"
 link: "https://www.imdb.com/title/tt8659050"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Bulbul Pode Cantar"
 ---
 Este filme se chama Bulbul Pode Cantar, porque é a única coisa de divertido que ela pode fazer com a aprovação da sociedade em que vive. Infelizmente, ela não consegue cantar direito em público, se sente envergonhada. E é aí que começa mais um drama de valores de uma sociedade oprimindo as mentes jovens deste século.

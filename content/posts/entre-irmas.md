@@ -1,7 +1,8 @@
 ---
 date: "2017-10-02"
 link: "https://www.imdb.com/title/tt7308092"
-categories: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , ]
+tags: [ "cinemaqui"  ]
 title: "Entre Irmãs"
 ---
 Entre Irmãs é um filme de época que parece feito também em outra época. Uma época mais ingênua, onde filmes como esse não seriam tão clichês, tão bregas. Infelizmente, para o público de hoje, clichê e brega é exatamente o que ele parece.
