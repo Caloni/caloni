@@ -1,6 +1,6 @@
 ---
 date: "2016-05-29"
-tags: [ "food" ]
+categories: [ "food" ]
 title: "Shorstein Pale Ale"
 ---
 Amargor equilibrado, não muito intenso. Não muito barato.

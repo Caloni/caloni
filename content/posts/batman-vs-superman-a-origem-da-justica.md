@@ -1,7 +1,7 @@
 ---
 date: "2016-04-02"
 link: "https://www.imdb.com/title/tt2975590"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Batman vs Superman: A Origem da Justiça"
 ---
 Os deuses da DC descem do Olimpo para se exibir. Não há muito o que mostrar senão uma demonstração interminável de força, poder e loucura. São tempos sinistros para amantes dos quadrinhos, mas mais sinistros ainda para cinéfilos que se enveredam pelos filmes dessa trupe que gosta de se vestir engraçado.

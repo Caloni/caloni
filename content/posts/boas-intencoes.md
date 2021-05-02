@@ -1,7 +1,7 @@
 ---
 date: "2019-06-24"
 link: "https://www.imdb.com/title/tt9016296"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Boas Intenções"
 ---
 Se refletirmos profundamente sobre nossas ações, surge uma inquietante questão: o quanto somos quebrados por dentro. Em Boas Intenções os refugiados são apenas pano de fundo para um estudo de personagem que acaba se tornando muito comum em nossa sociedade contemporânea cheia de desigualdades a nível global: os que ajudam os mais necessitados não para se sentirem bem, mas que precisam ajudar para não se sentirem imprestáveis.

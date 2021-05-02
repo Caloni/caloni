@@ -1,7 +1,7 @@
 ---
 date: "2011-04-27"
 link: "https://www.imdb.com/title/tt0416508"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Amor e Inocência"
 ---
 Depois de acompanharmos as divertidas adaptações dos romances de Jane Austen (Razão e Sensibilidade, Emma, Orgulho e Preconceito), chegou a hora de vermos a história da própria Jane, e como ela se tornou a escritora dos romances de época.

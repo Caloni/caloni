@@ -1,7 +1,7 @@
 ---
 date: "2015-04-22"
 link: "https://www.imdb.com/title/tt2582802"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Whiplash: Em Busca da Perfeição"
 ---
 As distribuidoras simplesmente não param. A cada dez filmes assistidos, onze possuem um subtítulo vergonha-alheia. Talvez elas estejam por trás da queda vertiginosa de público nos cinemas brasileiros. Afinal, quem vai querer ver "Em Busca da Perfeição" ou "Uma Razão para Viver" pela enésima vez?

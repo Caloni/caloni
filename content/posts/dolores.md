@@ -1,7 +1,7 @@
 ---
 date: "2016-10-28"
 link: "https://www.imdb.com/title/tt4990694"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Dolores"
 ---
 Este é um filme feito para a televisão, com um orçamento aparentemente baixo, mas com grandes ideias. Ele repete os passos hitchcockianos e seus mistérios fantasiosos, mas com pouco jeito. Se tratando de um filme que é sobre a cópia perfeita da realidade, este Hitchcock queimou um pouco no forno.

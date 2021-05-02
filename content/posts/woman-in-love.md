@@ -1,7 +1,7 @@
 ---
 date: "2014-04-18"
 link: "https://www.imdb.com/title/tt1802810"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Woman in Love (aka Rubbeldiekatz)"
 ---
 Essa é uma comédia romântica estilo Notting Hill, com a diferença de ser na Alemanha e ter o plot de um ator que se veste de mulher para conseguir o papel em um curta produzido por Hollywood sobre o nazismo (sempre ele). O resultado é algumas pouquíssimas piadas semi-originais, quase sempre envolvendo o ator que representa Hitler, e muitas piadas recicladas daquela velha situação do homem travestido já visto em produções tão bizarras desde "Glen ou Glenda?" (Ed Wood, 1953) passando por As Branquelas (2004).

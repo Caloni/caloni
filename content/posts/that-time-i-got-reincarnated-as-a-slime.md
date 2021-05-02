@@ -1,7 +1,7 @@
 ---
 date: "2021-03-27"
 link: "https://www.imdb.com/title/tt9054364"
-tags: [ "animes" ]
+categories: [ "animes" ]
 title: "That Time I Got Reincarnated as a Slime"
 ---
 Depois da [programadora que encheu a cara e convidou um dragão para morar com ela] este é um anime que começa com um executivo que é assassinado em plena luz do dia e, como diz o título, ele reencarna como um slime. E tudo como desculpa para uma aventura estilo Zelda.

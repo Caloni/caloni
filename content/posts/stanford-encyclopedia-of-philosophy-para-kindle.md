@@ -1,7 +1,7 @@
 ---
 date: 2018-07-15T21:53:55-03:00
 title: "Stanford Encyclopedia of Philosophy Para Kindle"
-tags: [ "draft", "reading" ]
+categories: [ "draft", "reading" ]
 ---
 A enciclopédia mais completa e de maior respeito da internet não é um enciclopédia geral, mas uma de filosofia. Está hospedada na Universidade de Stanford e possui revisão por pares e toda a autoridade de ser escrita por especialistas nos verbetes em questão. O único problema (até agora) era não ser possível baixá-la para degustar no Kindle. Até agora.
 

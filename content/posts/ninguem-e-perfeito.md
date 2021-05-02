@@ -1,7 +1,7 @@
 ---
 date: "2013-07-14"
 link: "https://www.imdb.com/title/tt0155711"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Ninguém é Perfeito"
 ---
 Robert de Niro é Walt Koontz, um policial aposentado como herói. Philip Seymour Hoffman é Rusty, uma drag queen que canta em uma boate gay em seu próprio show. Ambos vivem em um prédio decadente dos subúrbios, e Walt odeia a ideia de conviver com esses seres bizarros, até que um roubo entre criminosos faz ambos se encontrarem e terem que conviver com suas diferenças.

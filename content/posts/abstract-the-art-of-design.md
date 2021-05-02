@@ -1,7 +1,7 @@
 ---
 date: "2017-03-08"
 link: "https://www.imdb.com/title/tt6397576"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Abstract: The Art of Design"
 ---
 O mais decepcionante desta série documental da Netflix é que ela termina cedo demais. Estava pronto para acompanhar mais umas duas horas -- ou até o seriado inteiro -- a respeito de Christoph Niemann, o ilustrador de capas da revista The New Yorker. A criatividade e sagacidade aparentemente inocentes de Niemann encantam, mas é a capacidade do diretor Morgan Neville em desenhar o episódio que é o mais fascinante. Encontrando uma forma de unir a cidade de Nova York aos delírios criativos de Niemann, Neville embarca em uma viagem deliciosa a respeito do dia-a-dia de um criador e sua mente, algo que o documentário indicado ao Oscar esse ano, "Life, Animated", deveria aprender algumas lições.

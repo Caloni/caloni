@@ -1,7 +1,7 @@
 ---
 date: "2014-06-07"
 link: "https://www.imdb.com/title/tt1587707"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Saída pela Loja de Presentes"
 ---
 Exit Through the Gift Shop, ou "Saia Pela Loja de Souvenires" (alguém viu isso lançado no Brasil?), um dos indicados ao Oscar 2011 de melhor documentário, parece um documentário, e se assume como um. No entanto, seu terceiro ato é tão surreal, mas tão surreal, que surgiu a especulação de que o personagem cuja vida serviu de base para a história na realidade nunca existiu. Mais do que isso, a estrutura criada (supostamente) pelo diretor e artista de rua "Banksy", que no próprio filme dá um depoimento com seu rosto censurado e sua voz transformada, é incrivelmente bem arquitetada, pois não faz o espectador se perder ao acompanhar o filme que conta a história do homem que queria fazer um filme sobre artistas de rua, incluindo o próprio Bansky.

@@ -1,7 +1,7 @@
 ---
 date: "2008-12-06"
 title: "Básico do básico: ponteiros"
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 ![Alicerces de uma casa.](http://i.imgur.com/8jW9wJy.png)Nessas últimas semanas tenho gastado meu tempo junto da mais nova pupila da [SCUA](http://www.scua.com.br), aspirante a programadora em C e Install Shield Script. Minha tarefa? Explicar tudo, desde o mais simples, como **variáveis**, até as coisas não tão triviais, como **símbolos de depuração**.
 

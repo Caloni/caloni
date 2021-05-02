@@ -1,7 +1,7 @@
 ---
 date: "2019-01-11"
 link: "https://www.imdb.com/title/tt8731138"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Temporada"
 ---
 O filme "Temporada" é um retrato natural do cotidiano de uma cidade e sua cultura sob o ponto de vista de um ser humano em mudança. Mudança de cidade, de postura, de atitude. Pode chamar de redescoberta ou "cair na real". Pode chamar de fantasia ou crítica social.

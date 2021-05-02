@@ -1,7 +1,7 @@
 ---
 date: "2011-04-27"
 link: "https://www.imdb.com/title/tt0798732"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Polaróides Urbanas"
 ---
 O único exemplo cinematográfico de Miguel Falabela como diretor demonstra o talento de seu idealizador no formato tão conhecido por ele e praticado por anos a fio: o teatro.

@@ -1,7 +1,7 @@
 ---
 date: "2012-10-25"
 link: "https://www.imdb.com/title/tt1643222"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Um Inferno"
 ---
 UmInferno cresce bem, como qualquer trabalho de terror/suspense bem executado. O que fortalece o primeiro trabalho do diretor Tim Fehlbaum como trama, porém, é o uso sem ressalvas de um dos seus personagens mais importantes: o sol.

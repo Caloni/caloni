@@ -1,7 +1,7 @@
 ---
 date: "2017-02-13"
 link: "https://www.imdb.com/title/tt4034228"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Manchester À Beira-Mar"
 ---
 Este é um filme que se constrói inteiro na performance do seu ator principal, Casey Affleck, que estabelece um protagonista (Lee Chandler) traumatizado com um realismo que só consegue ser sentido no seu último momento na companhia de sua ex-esposa (uma Michelle Williams igualmente competente e com muito menos tempo de tela). Também é um filme que te leva fácil, pois tem uma história fácil para contar. São as entrelinhas que interessam, e se fossem um pouquinho mais grossas dariam um filmaço. Mas o filme prefere ser ele mesmo e se tornar com isso impecável.

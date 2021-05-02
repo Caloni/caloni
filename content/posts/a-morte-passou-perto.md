@@ -1,7 +1,7 @@
 ---
 date: "2013-10-19"
 link: "https://www.imdb.com/title/tt0048254"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Morte Passou Perto"
 ---
 Primeiro longa de Kubrick é noir de linha de produção

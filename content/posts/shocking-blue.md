@@ -1,7 +1,7 @@
 ---
 date: "2011-11-03"
 link: "https://www.imdb.com/title/tt1307010"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Shocking Blue"
 ---
 Com um elenco coeso e uma direção segura, o filme holandês da safra do ano passado conseguem empolgar demasiadamente correto em seus 82 minutos de projeção. A única limitação acaba sendo a própria narrativa, que ganha ares despretensiosos, mas que evoca exatamente isso em sua maioria, tornando-se enfadonho, embora nunca desinteressante.

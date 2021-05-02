@@ -1,7 +1,7 @@
 ---
 date: "2018-10-27"
 link: "https://www.imdb.com/title/tt7962890"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Viagem Aos Povos Fumigados"
 ---
 Viagem Aos Povos Fumigados é um documentário estilo denúncia, mas que parece inflado de conclusões precipitadas e carece de investigação mais abrangente. Ele é feito pelo documentarista itinerante Fernando Solanas, que descobriu uma pista para esta impactante história ao final das filmagens de seu último trabalho.

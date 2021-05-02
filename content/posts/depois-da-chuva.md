@@ -1,7 +1,7 @@
 ---
 date: "2021-03-27"
 link: "https://www.imdb.com/title/tt6591406"
-tags: [ "draft", "animes" ]
+categories: [ "draft", "animes" ]
 title: "Depois da Chuva (aka Koi wa Ameagari no You ni)"
 ---
 Que piloto, meus amigos! Um exemplo de episódio. Vamos descobrindo sobre o que é o anime aos poucos. As dores e descobertas do passado conversam com a Akira do presente que não sabe o que será da Tachibana San do futuro.

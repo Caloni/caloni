@@ -1,7 +1,7 @@
 ---
 date: "2019-03-06"
 link: "https://www.imdb.com/title/tt0094721"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Beetlejuice: Os Fantasmas Se Divertem"
 ---
 Se vocês assistiram Uma Aventura Lego 2 recentemente, podem confiar na opinião do Batman: Michael Keaton está ótimo em Beetlejuice.

@@ -1,7 +1,7 @@
 ---
 date: "2019-05-18"
 link: "https://www.imdb.com/title/tt0109219"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Barcelona"
 ---
 Barcelona é um filme que se insere em um momento político tenso na cidade-título e extrai momentos brilhantes acima da média em seu texto e em suas gags visuais. Ele mostra uma dupla de primos que moram juntos saindo e se envolvendo com lindas garotas espanholas, mas seu sub-texto é tanto político quanto um leve e agradável estudo de personagem. É um filme engraçado, mas para se rir com a mente, não com o estômago.

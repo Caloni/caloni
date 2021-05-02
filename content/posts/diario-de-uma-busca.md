@@ -1,7 +1,7 @@
 ---
 date: "2011-08-29"
 link: "https://www.imdb.com/title/tt1827391"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Diário de Uma Busca"
 ---
 Assistir a filmes constantemente e por muito tempo te dá, aos poucos, a capacidade de discernir a linguagem de cada autor e, o que eu acho mais interessante de tudo, extrair as técnicas usadas de forma inconsciente, apenas deixando fluir a percepção comum de um espectador assistindo a uma sessão de cinema. É uma sensação meio que mágica.

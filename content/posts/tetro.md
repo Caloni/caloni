@@ -1,7 +1,7 @@
 ---
 date: "2010-12-10"
 link: "https://www.imdb.com/title/tt0964185"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Tetro"
 ---
 O aspecto teatral do longa já é exibido em sua introdução, numa espécie de pôster suspenso, além do próprio P&B, evocando seu tom artístico e expressivo ao contar a história da família Tetrocini. A introdução é mais do que efetiva, pois em parcas quatro cenas já sabemos tudo que precisamos saber para aos poucos ir desvendando a relação passada da família do ponto de vista dos irmãos.

@@ -1,6 +1,6 @@
 ---
 date: "2017-02-23"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Olhar Instigado"
 ---
 Nos primeiros minutos de Olhar Instigado é possível perceber um controle narrativo que parece determinar com precisão qual será o tom no filme inteiro. Será um filme com movimento, cortes rápidos, montagem fluida e trilha sonora empolgante. Para um documentário isso já é muito mais que o medíocre esquema de pessoas sentadas falando.

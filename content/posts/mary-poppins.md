@@ -1,7 +1,7 @@
 ---
 date: "2018-12-11"
 link: "https://www.imdb.com/title/tt0058331"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Mary Poppins"
 ---
 Mary Poppins é um musical adorável que foi crescendo como um segundo clássico após Noviça Rebelde, ambos trabalhos fenomenais de Julie Andrews como a queridinha que canta e dança. Aqui sua persona é mais rígida, e tem tudo a ver com a história.

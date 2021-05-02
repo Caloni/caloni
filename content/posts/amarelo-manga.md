@@ -1,7 +1,7 @@
 ---
 date: "2021-03-13"
 link: "https://www.imdb.com/title/tt0333074"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Amarelo Manga"
 ---
 Nunca vi um filme inspirador que se passa no Recife. Tudo de ruim acontece naquela cidade. As pessoas não prestam e a miséria material e espiritual impera. É o inferno no Nordeste. Por isso o povo de artes adora fazer filmes sobre a cidade. Universitários adoram a pobreza glamurizada. É um mundo diferente para eles. Rola até uma estilizada na fotografia.

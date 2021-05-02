@@ -1,7 +1,7 @@
 ---
 date: "2015-06-01"
 link: "https://www.imdb.com/title/tt2872750"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Shaun, o Carneiro: O Filme"
 ---
 Apesar de eficiente por oito anos em pequenos episódios de sete minutos, a série dos estúdios Aardman nunca se aventurou em um longa-metragem sobre um carneiro muito esperto, um cachorro e fazendeiro que lembram versões agrícolas de Wallace e Gromit, e um bando de ovelhas que esbanjam charme e bom humor. O resultado não é apenas um longo episódio como a série televisiva, mas um filme que se aproveita de homenagens e referências muitas antigas sobre o Cinema e o próprio universo sempre criativo desses personagens, onde o fato de serem miniaturas manipuladas em stop motion nunca é um empecilho para criar as mais hilárias sequências.

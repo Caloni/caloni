@@ -1,6 +1,6 @@
 ---
 date: "2016-11-02"
-tags: [ "lists" ]
+categories: [ "lists" ]
 title: "Saldo da 40a. MostraSP"
 ---
 Vinte e dois filmes. Essa foi a quantidade que consegui assistir nessa primeira mostra que me dedico nos dias de semana (uma bagatela de ter a própria empresa). Na maioria dos dias foram três sessões seguidas; em alguns dias tive que me ausentar, outros simplesmente entrei na sala errada! (e acabei vendo, por exemplo, o ótimo [O Contador]). No entanto, foi de longe a edição do festival em que mais vi filmes, e a primeira em que escrevi sobre todos eles.

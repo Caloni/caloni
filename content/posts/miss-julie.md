@@ -1,7 +1,7 @@
 ---
 date: "2015-05-17"
 link: "https://www.imdb.com/title/tt2667960"
-tags: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , "cinemaqui" ]
 title: "Miss Julie"
 ---
 Miss Julie é um filme de época um pouco atípico. Dirigido pela também atriz Liv Ullmann e apenas com quatro atores, sendo que 80% do tempo apenas dois contracenam, chamá-lo de filme de época seria pouco para defini-lo. É também um filme minimalista e intimista. Apesar de todos os elementos de cena geralmente inseridos nesse universo estarem lá, como os cenários grandiosos e as terras a perder de vista, falta o elemento principal: as pessoas. Isso faz com que a narrativa se aproveite desse fato e faça uma longa digressão sobre a relação entre nobres e seus serviçais, especialmente os que não se diferem dos donos de terras em termos de instrução, educação e ambição.

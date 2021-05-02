@@ -1,7 +1,7 @@
 ---
 date: "2017-03-31"
 link: "https://www.imdb.com/title/tt4483460"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Argentina"
 ---
 Até para quem não ouve muita música, ou tem um estilo diferente do retratado em Argentina, último longa documental musical de Carlos Saura, há de se emocionar. Pelo menos em seus primeiros quinze minutos, onde um grupo de cantores evoca através de suas potentes vozes cânticos que traduzem a história de uma cultura que se formou através da união de diferentes regiões, que, separadas naturalmente por desertos e montanhas, não parece conhecer limites para a poesia do homem e da mulher simples, batalhadores de todo dia, sofredores como eternos oprimidos, trovadores do sol e da lua.

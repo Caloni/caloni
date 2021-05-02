@@ -1,7 +1,7 @@
 ---
 date: "2015-02-28"
 link: "https://www.imdb.com/title/tt2322441"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Cinquenta Tons de Cinza"
 ---
 Anastasia e Christian Grey. Esses nomes serão difíceis de esquecer, já que são repetidos muitas vezes em Cinquenta Tons de Cinza, cujo título remete ao personagem de Mr. Grey, "cinza" em inglês, um trocadilho que foi perdido na tradução do Brasil. Se pelo menos tivessem usado a mesma estratégia de Metastasis, uma série-remake versão latina da norte-americana Breaking Bad, que rebatiza seus personagens para que mantenham os nomes e cores, talvez pudessem extravasar o lado cômico e leve deste filme que, por mais roupas sendo arrancadas e chicotes sendo levantados por minuto, continua sendo uma trivialidade para países menos puritanos.

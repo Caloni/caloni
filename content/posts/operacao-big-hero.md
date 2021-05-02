@@ -1,7 +1,7 @@
 ---
 date: "2014-12-31"
 link: "https://www.imdb.com/title/tt2245084"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Operação Big Hero"
 ---
 Essa é uma animação Disney, mas não se engane: embaixo de sua cara inocente e fofinha existe a mancha de mais uma série de personagens da famigerada Marvel, que vem tentando destruir o departamento de criação no Cinema já faz alguns filmes, criando um universo onde sempre que um grupo de amigos se encontram, obviamente é para se transformarem em super-heróis e combater o mal (e/ou vilões que vão pelo lado contrário). Duncan Rouleau e Steven T. Seagle criaram os personagens ainda no gibi, Jordan Roberts, Daniel Gerson e Robert L. Baird assinam o roteiro. Mas os verdadeiros culpados por esse Pixar mutilado são Paul Briggs e Joseph Mateo, que assinam como Head of Story, ou seja, os caras que gerenciam um time de roteiristas para que a história não vire um caos completo. O que aqui, infelizmente, é quase o que vemos em sua metade final.

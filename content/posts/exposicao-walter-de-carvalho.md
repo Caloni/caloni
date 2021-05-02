@@ -1,6 +1,6 @@
 ---
 date: "2014-10-03"
-tags: [ "draft",  ]
+categories: [ "draft",  ]
 title: "Walter de Carvalho"
 ---
 

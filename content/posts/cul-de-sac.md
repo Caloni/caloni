@@ -1,7 +1,7 @@
 ---
 date: "2020-06-01"
 link: "https://www.imdb.com/title/tt0060268"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Cul-de-Sac"
 ---
 Assisti dois terços. O DVD travou. É um filme preto e branco. Tem uma atriz francesa loira jovem que morreu jovem em um acidente de carro. As loiras jovens da carreira do diretor estão amaldiçoadas. É um filme com cara de autoral e independente, mas possui um elenco solto, de teatro. Ele perde a tensão por ter personagens fora da realidade. Fala sobre um castelo onde vivia um escritor no século onze e agora mora um pedante afeminado com sua amada. Eles são abordados por um bandido culto que se impõe para conseguir consertar um golpe que deu errado. Lembra um pouco a comédia de erros Fargo.

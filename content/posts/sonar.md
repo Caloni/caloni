@@ -1,7 +1,7 @@
 ---
 date: "2016-10-31"
 link: "https://www.imdb.com/title/tt4538652"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Sonar"
 ---
 Este é o segundo filme que vejo na Mostra com um personagem que grava sons do ambiente (o outro é O Que Restou da Minha Vida). Sonar escolhe falar sobre uma imigrante mulher de um país africano que ainda trata mulheres como submissas. O interessante é que, considerando o que o filme faz dessa personagem, não temos pista nenhuma que nos faça evitar em pensar que, no fundo, ela também seria no Ocidente como apenas mais uma vadia.

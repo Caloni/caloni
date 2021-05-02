@@ -1,7 +1,7 @@
 ---
 date: "2012-12-08"
 link: "https://www.imdb.com/title/tt0120623"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Vida de Inseto"
 ---
 Historinha politicamente correta e chata da Pixar.

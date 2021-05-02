@@ -1,7 +1,7 @@
 ---
 date: "2012-02-25"
 link: "https://www.imdb.com/title/tt0970179"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Invenção de Hugo Cabret"
 ---
 Hugo é o primeiro filme em 3D do mestre Scorsese ([Os Bons Companheiros], [Táxi Driver]) e nesse caso o uso da tecnologia é totalmente justificado. Abordando uma história que gira em torno do cinema e seus primórdios, a ideia de "separar" a criação de filmes antigos do próprio filme cria um exercício metalinguístico admirável e uma aventura extremamente emocionante. O uso da tecnologia, além de ser aplicada com competência, difere de filmes anteriores principalmente pela já velha questão do foco. Em [Avatar], por exemplo, o primeiro grande exemplo de 3D "de verdade", James Cameron ainda aplica o foco de maneira binária nos personagens, se esquecendo que estamos em um cenário com profundidade de campo variável. Já em Hugo o que ocorre é uma perda gradual de foco, com o fundo ficando aos poucos "embaçado", ou seja, uma simulação de mais ou menos como nossos olhos funcionam em um ambiente como no mundo real. O uso de engrenagens e cenários internos com longos corredores consegue ajudar a nos ambientar nessa profundidade de campo facilmente, e embora esse recurso seja repetido meio à exaustão ele é importante para nos situar no universo do protagonista. Mesmo os cenários "externos", ainda sofrendo a limitação da tecnologia em planos aéreos, pois faz com que os objetos pareçam maquetes, dentro do espírito fabuloso da narrativa encaixa-se perfeitamente.

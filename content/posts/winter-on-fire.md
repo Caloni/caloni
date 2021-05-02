@@ -1,7 +1,7 @@
 ---
 date: "2016-03-27"
 link: "https://www.imdb.com/title/tt4908644"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Winter on Fire"
 ---
 Um hino à liberdade em três atos. No primeiro ato, a repulsa à traição do líder máximo da nação com uma manifestação espontânea e apartidária. No segundo ato, um cenário de conflitos que são dominados pelo patriotismo e organização cooperativa. No terceiro ato, o estado, esse monstro disforme que mata tudo que toca, revela sua última faceta, e transforma o hino de liberdade em um banho de sangue.

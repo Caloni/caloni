@@ -1,7 +1,7 @@
 ---
 date: "2018-08-01"
 link: "https://www.imdb.com/title/tt4702826"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Predestinados"
 ---
 Este não é um filme sobre crianças. Elas mal aparecem no filme. O que aparece no filme são as reações de seus pais. E eles fazem parte do universo das comédias fáceis e sem implicações dramáticas, o que torna toda a experiência de ver seus filhos sendo cobaias de um experimento sobre a vida tão fascinante como ideia quanto frustrante na execução.

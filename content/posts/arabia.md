@@ -1,7 +1,7 @@
 ---
 date: "2018-03-24"
 link: "https://www.imdb.com/title/tt6400280"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Arábia"
 ---
 Arábia é um filme com muitos momentos marcantes. E esses momentos são marcantes principalmente por conta de seus belíssimos enquadramentos, que evocam em todos os elementos presentes em cena o significado da história que está sendo contada. E o mais impressionante é que a história contada é um épico de um homem comum, anônimo, e por que não, invisível.

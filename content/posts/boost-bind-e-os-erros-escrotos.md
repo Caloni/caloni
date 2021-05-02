@@ -1,7 +1,7 @@
 ---
 date: 2018-10-01T16:34:25-03:00
 title: "Boost.Bind e os Erros Escrotos"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 desc: "Um pequeno desabafo quando encontramos aqueles erros odiáveis de compilação da Boost (em um exemplo simples)."
 ---
 Estou voltando a programar algumas coisas no boost. Algo que eu perdi ao me isolar do movimento de modernização do C++ foi a capacidade brilhante da biblioteca boost em encapsular e abstrair conceitos de engenharia de software de maneira portável e mantendo a filosofia por trás da STL, que ainda é a melhor maneira de trabalhar algoritmos já criada em qualquer linguagem de programação séria.

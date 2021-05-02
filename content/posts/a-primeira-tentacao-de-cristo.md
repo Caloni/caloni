@@ -1,7 +1,7 @@
 ---
 date: "2019-12-09"
 link: "https://www.imdb.com/title/tt11310004"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "A Primeira Tentação de Cristo"
 ---
 Já virou tradição de natal o grupo de comediantes do Porta dos Fundos em parceria com o serviço de streaming Netflix lançar no final do ano mais uma revisita bem-humorada ao clássico dos clássicos (pelo menos para o cristão). E em A Primeira Tentação de Cristo há mais um divertido estudo de personagens, que provoca tanto os mais dogmáticos quanto os mais heteroflexíveis.

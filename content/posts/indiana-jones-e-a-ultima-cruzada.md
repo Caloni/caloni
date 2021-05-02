@@ -1,7 +1,7 @@
 ---
 date: "2016-11-03"
 link: "https://www.imdb.com/title/tt0097576"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Indiana Jones e a Última Cruzada"
 ---
 Há filmes que parecem diferentes dependendo do período da vida que você os assiste. A Última Cruzada, última aventura de Indiana Jones nos anos 80, para mim foi quando criança uma aventura sólida, divertida, emocionante e cujos valores cristãos eu compactuava na época. Hoje, mais velho, e alguns milhares de filmes depois, continuo vendo como quase tudo isso (tirando a parte cristã), mas com um sentimento que foi adicionado com o passar dos anos: o saudosismo, ou até a saudade, da época em que ação de verdade envolvia o herói ficar pendurado do lado de fora de um tanque e comer poeira aguardando sua morte imediata.

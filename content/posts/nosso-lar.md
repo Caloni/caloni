@@ -1,7 +1,7 @@
 ---
 date: "2010-09-03"
 link: "https://www.imdb.com/title/tt1467388"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Nosso Lar"
 ---
 Nosso Lar é um exercício de paciência para quem assiste, sempre em busca de um motivo de sermos levados aos mundos idealizados pelos espíritas, procurando algo pelo que torcer, algo por esperar ou acompanhar. Mas é difícil manter esse ritmo quando nunca enxergamos o fio condutor de alguma narrativa, por menor que seja.

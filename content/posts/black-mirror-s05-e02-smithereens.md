@@ -1,7 +1,7 @@
 ---
 date: "2019-06-14"
 link: "https://www.imdb.com/title/tt8758202"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Black Mirror S05 E02 Smithereens"
 ---
 Eu sei, eu também gostava da versão futurista do Black Mirror, e acredito que eles continuarão a produzir episódios sobre o daqui a pouco tecnológico que nós tanto anseiamos como tememos. Porém, de vez em quando é de muito bom tom lembrar que coisas horríveis podem acontecer com a tecnologia que já temos hoje, nos alertando sobre o que preferimos ignorar: não são robôs dominando o mundo o grande medo de nossa evolução, mas humanos se comportando como robôs.

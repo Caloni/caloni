@@ -1,7 +1,7 @@
 ---
 date: "2013-02-18"
 link: "https://www.imdb.com/title/tt1371111"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Viagem"
 ---
 Há uma belíssima transição em A Viagem quando duas pessoas fogem de sua escravidão e procuram provar o seu valor enquanto ainda se acostumam com o recente status adquirido. A diferença poética dessa mudança de cena é que ela ocorre em espaço e tempo completamente díspares, mas compartilham dos mesmos sentimentos e ideais humanos: a luta pela liberdade.

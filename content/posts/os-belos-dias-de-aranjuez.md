@@ -1,7 +1,7 @@
 ---
 date: "2017-03-26"
 link: "https://www.imdb.com/title/tt4715652"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Os Belos Dias de Aranjuez"
 ---
 Aviso aos navegantes: se você entrou em A Árvore da Vida apenas para reclamar sobre a chatice do filme para logo em seguida sair da sala nem gaste seu dinheiro com Os Belos Dias de Aranjuez. Assim como o(s) trabalho(s) de Terrence Malick, este filme de Win Wenders não busca satisfazer os princípios básicos de narrativa que estamos acostumados a acompanhar, com começo, meio e fim. Ele sequer consegue estabelecer diálogos minimamente interessantes. Seu ponto alto é sua música inicial, exaltando o dia perfeito que virá. A partir daí, caminhamos em um dégradé que converte a felicidade inicial para a música final, que afirma duas coisas que resumem muito bem este dramático, embora não trágico, longa: a Terra está pegando fogo. E eu te amo.

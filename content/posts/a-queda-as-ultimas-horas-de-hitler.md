@@ -1,7 +1,7 @@
 ---
 date: "2011-06-12"
 link: "https://www.imdb.com/title/tt0363163"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Queda! As Últimas Horas de Hitler"
 ---
 A proposta de evitar criar-se um microcosmos do ambiente onde Hitler passou seus últimos dias, enclausurado em um bunker com seu alto escalão e suas pessoas mais próximas, é digno de nota, pois, no decorrer da projeção, temos a sensação que muitas coisas estão acontecendo com o povo da Alemanha, não apenas em suas crescentes baixas de exércitos e civis, mas, principalmente, em sua moral.

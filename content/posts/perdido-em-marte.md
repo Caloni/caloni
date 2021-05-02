@@ -1,7 +1,7 @@
 ---
 date: "2016-01-15"
 link: "https://www.imdb.com/title/tt3659388"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Perdido em Marte"
 ---
 Esse é um filme para nerds e hackers no seu sentido mais puro. Ele envolve pessoas usando todo seu conhecimento para resolver um problema de vida ou morte. Como consequência, é um exemplo do que todo grande cientista faz ao longo de sua carreira, só que espremido em um filme de ação, drama e comédia de pouco mais de duas horas. Ele é intenso e realista; como sci-fi, encontra maneiras criativas de evitar muito tropeços científicos, e os que comete são pelo bem na narrativa.

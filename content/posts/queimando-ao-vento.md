@@ -1,7 +1,7 @@
 ---
 date: "2019-08-02"
 link: "https://www.imdb.com/title/tt0308071"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Queimando ao Vento"
 ---
 Há algo de literário em trabalhos de adaptação de livros, como este, dirigido por Silvio Soldini e escrito com Doriana Leondeff, que se baseia no romance de Agota Kristof. É essa mania do protagonista ser o narrador e estar escrevendo um livro, mesmo que ele seja um maníaco desde criança e viva recluso fugido de seu país de origem.

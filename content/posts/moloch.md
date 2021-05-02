@@ -1,7 +1,7 @@
 ---
 date: "2012-04-20"
 link: "https://www.imdb.com/title/tt0199777"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Moloch"
 ---
 Aleksandr Sokurov tem um estilo próprio para contar histórias. Quase sempre apostando na imersão do espectador pelos longos quadros e movimentos exóticos de seus personagens, muitas vezes a situação é propícia e gera grandes trabalhos (como [Mãe e Filho]), e em outras, como este Moloch, fica aquém do impressionante, mas mesmo assim é uma imersão que vale a pena ser vivida.

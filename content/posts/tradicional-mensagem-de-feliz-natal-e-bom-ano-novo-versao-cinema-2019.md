@@ -1,6 +1,6 @@
 ---
 date: "2019-12-21"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 title: "Tradicional Mensagem de Feliz Natal e Bom 2020 Versão Cinema"
 ---
 Tudo começou há mais ou menos... não me lembro. O que eu sei é que meu grande amigo Pikachu me colocou em um aviso anual sobre compilar uma mensagem de final de ano com referências a filmes que foram lançados esse ano no cinema (ou algum filme mais antigo de vez em quando, se surgir a oportunidade). Esta é a primeira vez que transformo essa mensagem em um post.

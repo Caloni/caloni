@@ -1,7 +1,7 @@
 ---
 date: "2012-01-01"
 link: "https://www.imdb.com/title/tt0311429"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Liga Extraordinária"
 ---
 O filme pretende contar a história de pessoas que, dotadas de alguma capacidade especial para sobreviver, são reunidos pelo Império Britânico para tentar evitar que seja instaurada uma possível guerra mundial, tentativas de um ganancioso sujeito que usa uma máscara e simula ataque entre nações. Isso na virada para o século XX em uma Era Vitoriana alternativa.

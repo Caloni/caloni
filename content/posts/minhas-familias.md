@@ -1,7 +1,7 @@
 ---
 date: "2019-05-10"
 link: "https://www.imdb.com/title/tt9097148"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Minhas Famílias"
 ---
 Minhas Famílias é uma pequeníssima janela que o documentarista Hao Wu abre a respeito de sua vida homossexual e a convivência com os pais e com a famíla em geral, chineses tradicionalistas. O lado ruim dele é que não há conteúdo suficiente para valer a pena um longa-metragem, ficando ele no meio do caminhho com seus 39 minutos, e o lado bom é que ele consegue ser sucinto a respeito e evita a todo custo criar um conflito que não existe. As coisas são como elas são. Essa é a mensagem.

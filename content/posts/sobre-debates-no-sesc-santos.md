@@ -1,6 +1,6 @@
 ---
 date: "2015-08-03"
-tags: [ "draft",  ]
+categories: [ "draft",  ]
 title: "Sobre debates no SESC Santos"
 ---
 Esse fds participei de uma rápida ida e volta para Santos para participar de um dia com dois debates de um evento organizado pelo meu editor no CinemAqui, o Vinicius Carlos Vieira.

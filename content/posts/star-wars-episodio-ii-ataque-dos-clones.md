@@ -1,7 +1,7 @@
 ---
 date: "2011-05-29"
 link: "https://www.imdb.com/title/tt0121765"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Star Wars, Episódio II: Ataque dos Clones"
 ---
 A República começa a perder a força, e o desespero pela resolução da crise no Senado faz com que forças especiais sejam entregues ao Chanceler Palpatine. Como podemos ver, a história caminha em ritmo adequado para o ponto de encontro com o antes chamado Guerra nas Estrelas e rebatizado para Episódio IV.

@@ -1,7 +1,7 @@
 ---
 date: "2019-10-24"
 link: "https://www.imdb.com/title/tt7037712"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Dinamarca"
 ---
 Tempos difíceis geram homens fortes; homens fortes geram tempos fáceis; tempos fáceis geram homens molengas; homens molengas geram tempos difíceis. "Dinamarca" é uma história que se passa em nossos tempos difíceis e com um de seus homens molengas, um homem que não fará nada a respeito de sua própria vida exceto tentar se manter sendo servido por alguém.

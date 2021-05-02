@@ -1,7 +1,7 @@
 ---
 date: "2018-02-27"
 link: "https://www.imdb.com/title/tt4093826"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Twin Peaks (2017)"
 ---
 Você que conhece o diretor David Lynch sabe que ele não é muito afeito a narrativas ortodoxas e pensamentos não-oníricos. Então faz muito sentido você, que não assistiu à primeira versão de Twin Peaks, se tornar completamente perdido ao acompanhar esta pseudo-continuação do diretor em uma versão mais moderna, mas ainda assim, hermética.

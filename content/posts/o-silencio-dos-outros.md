@@ -1,7 +1,7 @@
 ---
 date: "2019-02-22"
 link: "https://www.imdb.com/title/tt8099236"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "O Silêncio dos Outros"
 ---
 O Silêncio dos Outros é um documentário necessário, mas com final amargo quando constatamos o quão dura e lenta é a luta por justiça.

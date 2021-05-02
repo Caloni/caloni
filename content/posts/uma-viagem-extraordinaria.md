@@ -1,7 +1,7 @@
 ---
 date: "2014-12-01"
 link: "https://www.imdb.com/title/tt1981107"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Uma Viagem Extraordinária"
 ---
 Jean-Pierre Jeunet parece ter ganhado uma muleta narrativa: é incapaz de desenvolver seus personagens sem esmiuçar suas características com todo tipo de artifício voando pela tela. O ruim disso é que nem sempre é necessário para o desenvolvimento da história, e em Uma Viagem Extraordinária certamente não o é para todos os seus personagens, exceto para T.S. Spivet (Kyle Catlett), o herói da viagem do título. Um garoto de 10 anos que vive com sua família em uma fazenda no oeste dos Estados Unidos, uma região montanhosa que a ótima fotografia de Thomas Hardmeier é capaz de tornar ainda mais bela com o uso das cores primárias (azul, vermelho, verde) adoradas pelo diretor. Ele é um menino prodígio da ciência e demonstra isso constantemente através da sua maneira obsessiva com que cataloga dados do mundo à sua volta, e nesse caso os gráficos voadores de Piere Jeunet vem bem a calhar, pois dá uma "visão científica" da realidade.

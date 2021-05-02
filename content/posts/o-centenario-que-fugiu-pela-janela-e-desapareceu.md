@@ -1,7 +1,7 @@
 ---
 date: "2018-08-19"
 link: "https://www.imdb.com/title/tt2113681"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "O Centenário Que Fugiu Pela Janela e Desapareceu"
 ---
 Este filme tem um longo nome. Tão longo quanto a vida de Allan Karlsson, o centenário que protagoniza essa comédia de erros. A princípio talvez você não entenda o que o filme quer dizer, além do que ele já diz no seu título. Então vai aqui uma dica: não pense, apenas assista.

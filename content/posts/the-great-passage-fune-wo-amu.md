@@ -1,7 +1,7 @@
 ---
 date: "2021-02-19"
 link: "https://www.imdb.com/title/tt6142628"
-tags: [ "draft", "animes" ]
+categories: [ "draft", "animes" ]
 title: "The Great Passage (Fune Wo Amu)"
 ---
 Um anime sobre dicionários. Esse é o nível de riqueza dos assuntos das animações japonesas.

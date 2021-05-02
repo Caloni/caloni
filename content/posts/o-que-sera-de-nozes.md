@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 link: "https://www.imdb.com/title/tt1821658"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Que Será de Nozes?"
 ---
 The Nub Job é uma animação com orçamento limitado, pequenos defeitos na caracterização de seus personagens (visualmente e direto do roteiro) e que usa uma moral deturpada que abraça o coletivismo em uma história rapidamente esquecível. Ele arrisca ainda em seu roteiro e montagem contar duas histórias ao mesmo tempo, mas é por demais amador e ainda no rascunho.

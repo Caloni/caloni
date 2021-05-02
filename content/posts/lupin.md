@@ -1,7 +1,7 @@
 ---
 date: "2021-02-19"
 link: "https://www.imdb.com/title/tt2531336"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Lupin"
 ---
 Cuidado com essa minissérie, que de mini não tem nada. Ela apresenta em quatro horas uma história que não termina, o que vem se tornando um padrão em streaming. Vá assistir dois filmes lançados antes de 2010 que você ganha mais.

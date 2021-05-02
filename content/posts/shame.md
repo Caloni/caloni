@@ -1,7 +1,7 @@
 ---
 date: "2012-03-18"
 link: "https://www.imdb.com/title/tt1723811"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Shame"
 ---
 A princípio Shame não parece um filme que fuja do lugar-comum. Com um ritmo mais lento e, portanto, reflexivo, ele nos leva a conhecer aos poucos a vida de Brandon Sullivan (Michael Fassbender), um rapaz comum que mora sozinho, tem um belo emprego, mas que é um inveterado por sexo, solitário ou com prostitutas. Paradoxalmente, Brandon não consegue ter relacionamentos duradouros, e nem a presença de sua irmã Sissy (Carey Mulligan) faz com que ele consiga se conectar com o mundo. Alheio a tudo que não seja relativo ao ato sexual, Brandon sabe que possui um tipo de doença, e essa consciência é que torna tudo muito mais humano em sua história.

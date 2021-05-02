@@ -1,7 +1,7 @@
 ---
 date: "2018-03-14"
 link: "https://www.imdb.com/title/tt6285776"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Górgona"
 ---
 Era uma vez uma atriz com 50 anos de carreira, mais de 80 de idade. Ela é reconhecida por todos que tiveram o prazer de testemunhar seu trabalho. A crítica sempre é positiva a respeito de suas peças. E a despeito de tudo isso, "Górgona" começa como se estivéssemos diante de uma despedida triste e solitária.

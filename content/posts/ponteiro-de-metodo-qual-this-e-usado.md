@@ -1,7 +1,7 @@
 ---
 date: "2007-11-07"
 title: "Ponteiro de método: qual this é usado?"
-tags: [ "code" ]
+categories: [ "code" ]
 ---
 Depois de publicado o artigo anterior sobre ponteiros de métodos surgiu uma dúvida muito pertinente do autor do blogue [CodeBehind](http://codebehind.wordpress.com/), um escovador de bits disfarçado de programador .NET: qual objeto que vale na hora de chamar um método pelo ponteiro?
 

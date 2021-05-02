@@ -1,7 +1,7 @@
 ---
 date: "2016-10-16"
 link: "https://www.imdb.com/title/tt1942683"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "O Incrível Mundo de Gumball"
 ---
 Mais um desenho de adultos que apela para o absurdo, a metalinguagem, o fofinho, o humor negro e o slapstick que ultrapassa o convencional em um formato quase tão criativo quanto A Hora da Aventura. Felizmente, Gumball tem senso do ridículo ou acaba sendo mais adulto.

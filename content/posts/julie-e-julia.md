@@ -1,7 +1,7 @@
 ---
 date: "2011-12-20"
 link: "https://www.imdb.com/title/tt1135503"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Julie e Julia"
 ---
 Paralelo interessante entre as duas histórias, não fica óbvio que passam em épocas diferentes, mas o espectador vai percebendo isso aos poucos. Interpretação de Meryl Streep fica sendo a principal, apesar da protagonista talvez não ser ela (será?).

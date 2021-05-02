@@ -1,7 +1,7 @@
 ---
 date: "2012-04-11"
 link: "https://www.imdb.com/title/tt0459666"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Três Tempos"
 ---
 "Dê seu preço. Eu quero vender minha alma. Sem passado. Sem futuro. Apenas um ganancioso presente."

@@ -1,7 +1,7 @@
 ---
 date: "2017-03-26"
 link: "https://www.imdb.com/title/tt0473753"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Angel-A"
 ---
 O diretor e roteirista Luc Besson nos entrega um filme noir dos anos 2000 em p&b, que se passa em Paris em um ritmo bem-humorado, um tanto sarcástico e que mais uma vez estuda personagens à margem da sociedade e esquisitões em geral. Usa o weirdo Jameil Debbouze (Amélie Poulain) e a gata Rie Rasmussen (Femme Fatale). Também usa trilha sonora de jazz e um roteiro todo redondinho, higienizado com respeito ao sexo e apropriado para uma esquecível degustação.

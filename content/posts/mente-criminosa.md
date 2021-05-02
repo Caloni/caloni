@@ -1,7 +1,7 @@
 ---
 date: "2016-04-07"
 link: "https://www.imdb.com/title/tt3014866"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Mente Criminosa"
 ---
 Mente Criminosa consegue ser um filme de ação e com temas pensantes. Ele discute política, moral e até filosofia. Usa um pouco de ficção científica na receita, mas apenas o suficiente para explorar os temas já citados.

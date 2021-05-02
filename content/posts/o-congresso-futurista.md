@@ -1,7 +1,7 @@
 ---
 date: "2015-01-04"
 link: "https://www.imdb.com/title/tt1821641"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Congresso Futurista"
 ---
 Essa é a minha visão sobre o futuro. Obviamente, no filme as coisas não saem como o esperado. Mas quem disse que na vida real é diferente? Quantas vezes idealizamos algo e esse algo se perde no meio do caminho para virar outra coisa que, não obstante, parece bater de frente com nossos objetivos iniciais?

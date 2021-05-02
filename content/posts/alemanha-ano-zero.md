@@ -1,7 +1,7 @@
 ---
 date: "2019-05-24"
 link: "https://www.imdb.com/title/tt0039417"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Alemanha, Ano Zero"
 ---
 Este é o último filme da trilogia neorrealista sobre a segunda guerra do cineasta Roberto Rossellini, o diretor que seduziu meio mundo e engravidou a atriz Ingmar Bergman, dando origem a outra atriz, Isabela Rosselini. Depois desse babado talvez você não queira mais saber do filme.

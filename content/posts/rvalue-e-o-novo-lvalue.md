@@ -1,6 +1,6 @@
 ---
 date: "2012-01-11"
-tags: [ "code", "draft", "ccppbr" ]
+categories: [ "code", "draft", "ccppbr" ]
 title: "RValue é o novo LValue"
 ---
 

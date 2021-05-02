@@ -1,7 +1,7 @@
 ---
 date: "2017-10-28"
 link: "https://www.imdb.com/title/tt5642124"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Amante Do Dia"
 ---
 O Amante do Dia é um filme francês da atualizade em preto e branco e com ideinhas liberais. É de um diretor liberal com alguma ideia de que tudo aquilo de ter casos extraconjugais seja algo muito moderninho em 2017. E algo me diz que ele viajou no tempo e foi teletransportado diretamente dos anos 60.

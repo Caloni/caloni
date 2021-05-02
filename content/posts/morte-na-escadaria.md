@@ -1,7 +1,7 @@
 ---
 date: "2018-06-25"
 link: "https://www.imdb.com/title/tt0388644"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Morte Na Escadaria (Staircase)"
 ---
 Mais uma série que demonstra a incompetência e/ou a má fé do sistema americano de justiça. Ou podemos dizer a má fé de qualquer sistema de justiça estatal? Perdoem-me os religiosos, mas um sistema que paga juiz e advogado de acusação pela mesma folha não tem muitas chances de ser algo remotamente imparcial.

@@ -1,7 +1,7 @@
 ---
 date: "2016-09-09"
 link: "https://www.imdb.com/title/tt0106677"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Jovens, Loucos e Rebeldes"
 ---
 Este é o filme de uma geração de Richard Linklater (Trilogia do Antes, Boyhood), um de seus primeiros, de 1993. Ele conta com um elenco de desconhecidos, onde alguns irá começar a ser mais conhecido. Ele conta uma história simples, que evoca o naturalismo, mas que contém tensão o suficiente para entreter. E ele contém o mais importante: a empatia do público que sabe como é ser jovem, como é experimentar coisas novas e sabe como é estar naquele momento mágico, vivenciando tudo isso, tendo toda a vida pela frente.

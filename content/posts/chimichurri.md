@@ -1,6 +1,6 @@
 ---
 date: "2019-01-07"
-tags: [ "draft", "food" ]
+categories: [ "draft", "food" ]
 title: "Chimichurri"
 ---
 

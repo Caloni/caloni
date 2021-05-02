@@ -1,7 +1,7 @@
 ---
 date: "2013-10-06"
 link: "https://www.imdb.com/title/tt0373074"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Kung-Fusão"
 ---
 Após uma revisita ao filme-gêmeo de [Shaolin Soccer], ambos exploram esse conceito do Kung-fu extrapolado ao cotidiano, a sensação é de um frescor de ingenuidade e violência comparados a Kick Ass (e não me admiraria que este fosse inspirado naquele). Só pelo fato da violência existir com mortes e essas mortes serem relevantes para estabelecer o peso da tensão em um filme que obviamente é uma comédia já mereceria créditos de sobra.

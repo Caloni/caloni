@@ -1,7 +1,7 @@
 ---
 date: "2015-01-28"
 link: "https://www.imdb.com/title/tt1911658"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Os Pinguins de Madagascar"
 ---
 Assim como Carros 2, jogar personagens secundários -- e engraçadinhos -- em um trabalho solo raramente gera bons resultados.

@@ -1,7 +1,7 @@
 ---
 date: "2016-01-19"
 link: "https://www.imdb.com/title/tt0096438"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Uma Cilada para Roger Rabbit"
 ---
 Um filme de 1988 que conseguiu unir desenhos com live action de uma maneira que até hoje não parece datado. Sua grande sacada é já fazer um filme de época, a Hollywood da década de 40, e embutir todos os desenhos icônicos em um longa-metragem que é usado apenas para realizar essa façanha, mas que em si possui um roteiro com uma trama inteligente por utilizar a própria fusão do mundo dos desenhos e dos humanos.

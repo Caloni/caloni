@@ -1,7 +1,7 @@
 ---
 date: "2013-02-21"
 link: "https://www.imdb.com/title/tt1790885"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Hora Mais Escura"
 ---
 Por tratar de eventos que ocorreram na vida real durante a caçada a Bin Laden, A Hora Mais Escura apresenta seus fatos de uma forma semidocumental e corre o risco de ser mal visto ao tratar a tortura um meio justificável e o assassinato de seres humanos um evento impessoal. No primeiro caso (tortura) podemos dizer que as pessoas deste século tendem a encarar o evento com mais compaixão (até pelo histórico de parentes e conhecidos que vivenciaram isso de perto). Já no segundo caso (assassinato), por envolver a morte do terrorista mais odiado de todo o mundo civilizado os sentimentos não caminham tão bem pelo estômago das pessoas que viram o horror de perto e ao vivo.

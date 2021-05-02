@@ -1,7 +1,7 @@
 ---
 date: "2018-11-17"
 link: "https://www.imdb.com/title/tt6315640"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Atypical - Segunda Temporada"
 ---
 A segunda temporada de Atypical já demonstra o que o final da primeira temporada já arriscava em dizer: se trata de uma novelinha típica norte-americana aliada a algumas tentativas de conscientizar as pessoas acerca do autismo.

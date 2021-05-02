@@ -1,7 +1,7 @@
 ---
 date: "2015-11-28"
 link: "https://www.imdb.com/title/tt1844624"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "História de Horror Americana - Freak Show"
 ---
 Acho que já disse que AHS não é uma série de terror no sentido convencional -- assustar pessoas -- mas muito pior do que isso: mostrar o horror implícito no ser humano, e ir às últimas consequências do que a violência de seres egoístas, mesquinhos, vaidosos, orgulhosos e invejosos consegue produzir. E o resultado impressona, mas impressiona muito mais a capacidade dessas pessoas de fazer o mal, quase como se o mal nem precisasse depender dessas pessoas para existir, como se fosse materializado e aparecesse diante de nossos olhos sob a forma de ação, representada pelo horror gráfico, mas com um significado muito maior do que chocar pelo ato em si. É a pessoa responsável pelo ato -- ou às vezes apenas a situação -- que chocam muito mais.

@@ -1,7 +1,7 @@
 ---
 date: "2016-03-07"
 link: "https://www.imdb.com/title/tt0780536"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Na Mira do Chefe"
 ---
 Esse filme parece uma coisa, mas é outra. Vendido como uma comédia despretensiosa e potencialmente um pastelão, Na Mira do Chefe é um trabalho de roteiro que brinca com seu universo próprio achando graça em levar a sério as histórias de máfia.

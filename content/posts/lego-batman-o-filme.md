@@ -1,7 +1,7 @@
 ---
 date: "2017-02-12"
 link: "https://www.imdb.com/title/tt4116284"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "LEGO Batman: O Filme"
 ---
 Dos mesmos "mestres construtores" de Uma Aventura LEGO, este Lego Batman vem para iniciar uma franquia já sugerida no original. E vira um dos melhores filmes de Batman sobre filmes de Batman já idealizados por uma criança!

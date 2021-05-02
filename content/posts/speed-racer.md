@@ -1,7 +1,7 @@
 ---
 date: "2013-11-28"
 link: "https://www.imdb.com/title/tt0811080"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Speed Racer"
 ---
 Speed Racer está para os animes infantis assim como Scott Pilgrim está para o mundo dos vídeogames: dois filmes que homenageiam seu universo abraçando-o sem limites e que por isso são rechaçados pelo público em geral. Uma linguagem tão inovadora pode causar medo e desconforto, mas é o ponto de virada de todo cinéfilo que se preze e que que deseja sentir mais pelos filmes que assiste.

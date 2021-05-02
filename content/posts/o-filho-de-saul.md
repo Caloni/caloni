@@ -1,7 +1,7 @@
 ---
 date: "2016-01-28"
 link: "https://www.imdb.com/title/tt3808342"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "O Filho de Saul"
 ---
 Como não poderia deixar de ser, depois do Oscar dado a Birdman, o plano-sequência -- aquela técnica de filmar que evita cortes a todo momento -- voltou à ativa. E em O Filho de Saul, assim como fez Alejandro González Iñárritu, o diretor estreante László Nemes também está preocupado com a narrativa subjetiva -- aquela que a câmera toma o ponto de vista do personagem. Em ambos os filmes, por um bom motivo. Aqui, porém, soa ainda mais esquizofrênico do que o próprio personagem fantasioso de Michael Keaton.

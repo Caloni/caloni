@@ -1,7 +1,7 @@
 ---
 date: "2020-07-15"
 link: "https://www.amazon.com/Historia-do-Xadrez-Edward-Lasker/dp/8534800561"
-tags: [ "books" ]
+categories: [ "books" ]
 title: "História do Xadrez"
 ---
 Já tinha ouvido falar deste clássico do enxadrista campeão mundial Emmanuel Lasker, mas nunca a oportunidade de lê-lo. Então ele caiu no meu colo em meio a inúmeros downloads de livros sobre xadrez e comecei a folheá-lo digitalmente. Para minha surpresa ele é curto, fluido e divertido para fãs do jogo. Há algo que nos leva a ler cada vez mais, principalmente se você é um enxadrista, amador ou profissional, e se encanta em como o xadrez passou por tantos séculos e tantas culturas diferentes, saindo do místico Oriente e indo se situar confortavelmente no berço europeu e, posteriormente, na União Soviética, de onde surgiram os maiores ícones do último século.

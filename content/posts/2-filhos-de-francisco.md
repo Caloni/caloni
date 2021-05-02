@@ -1,7 +1,7 @@
 ---
 date: "2012-03-25"
 link: "https://www.imdb.com/title/tt0439547"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "2 Filhos de Francisco: A História De Zezé di Camargo & Luciano"
 ---
 Há filmes que estão aí para provar que uma ideia não tão "empolgante" ou mesmo original pode dar origem a trabalhos dignos de nota exatamente por conseguirem se sobressair com muito pouco, ou com apenas uma boa história. O enredo complicado da história baseada em personagens reais que deram origem à dupla sertaneja de sucesso Zezé de Camargo & Luciano, que precisa cobrir diversos eventos em um espaço curto de tempo, mas ao mesmo tempo apresentar coesão espacial e, principalmente nesse caso, emocional, deu origem a um pequeno milagre.

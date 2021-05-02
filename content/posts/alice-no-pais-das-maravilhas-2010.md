@@ -1,7 +1,7 @@
 ---
 date: "2010-04-23"
 link: "https://www.imdb.com/title/tt1014759"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Alice no País das Maravilhas"
 ---
 Os experimentos 3D do início da década mostraram pouquíssimas decisões acertadas (Pina, A Invenção de Hugo Cabret), mas muitos caminhos, se não errados, bem tortuosos. Podemos encontrar decisões completamente equivocadas a respeito do uso da tecnologia até mesmo no irretocável Avatar de James Cameron.

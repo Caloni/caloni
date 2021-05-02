@@ -1,7 +1,7 @@
 ---
 css: "<style>section .title, .subtitle, .taglist { display: none; }</style>"
 date: "2007-06-14"
-tags: [ "blog" ]
+categories: [ "blog" ]
 title: "Wanderley Caloni"
 ---
 Quer entrar em contato? Mante o bom e velho [email].

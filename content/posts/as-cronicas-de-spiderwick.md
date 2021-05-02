@@ -1,7 +1,7 @@
 ---
 date: "2014-04-17"
 link: "https://www.imdb.com/title/tt0416236"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "As Crônicas de Spiderwick"
 ---
 Essa é basicamente uma versão infanto-juvenil de A Morte do Demônio: alguém acha um livro amaldiçoado em uma casa abandonada e que ninguém deveria habitar e agora está impossibilitado de sair do lugar, pois parte da maldição prega que tanto o livro quanto seus leitores devem ser eliminados. A parte infanto-juvenil da história é que ela deve envolver ogros, globlins, trolls, ter uma moral da história, que se for Disney/Spielberg, vai envolver uma relação pai e filho... bingo!, e, o essencial: ninguém deve se machucar no processo, mas todos devem se divertir como em um parque de diversões temático.

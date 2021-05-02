@@ -1,7 +1,7 @@
 ---
 date: "2020-02-04"
 link: "https://www.imdb.com/title/tt0104008"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Conto De Inverno"
 ---
 Um dos filme da quadrilogia do proficiente Éric Rohmer (As 4 Aventuras De Reinette E Mirabelle), Charlotte Véry está leve e tresloucada em um papel de mãe solteira dividida entre três amores: dois presentes não lhe bastam, um ausente é sua razão de viver.

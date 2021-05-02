@@ -1,7 +1,7 @@
 ---
 date: "2010-12-20"
 link: "https://www.imdb.com/title/tt1323594"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Meu Malvado Favorito"
 ---
 Meu Malvado Favorito é um ótimo exemplo de filme que divide opiniões, assim como Transformers: de um lado as pessoas que veem claramente uma péssima construção de história em conjunto com péssimas sequências para esta história. De outro, as pessoas que enxergam seus méritos no projeto ou 1) por gostarem do argumento desde o início ou 2) por entenderem sua proposta de uma maneira menos... crítica?

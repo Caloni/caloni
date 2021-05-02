@@ -1,7 +1,7 @@
 ---
 date: "2016-01-22"
 link: "https://www.imdb.com/title/tt0448157"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Hancock"
 ---
 Imagine que existe um super-herói que não gosta que lhe chamem de "asshole" (idiota na legenda brasileira, mas em inglês um xingamento que remete ao orifício anal). A maneira mais comum dele ameaçar quem lhe incomoda é enfiar a cabeça de um no orifício anal do outro. Achou engraçado? Se sim, esse é um filme de ação que você não pode perder. Se não, então talvez seja melhor assistir um filme da Marvel menos pretensioso (já viu Guardiões da Galáxia?).

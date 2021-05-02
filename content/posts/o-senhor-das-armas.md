@@ -1,7 +1,7 @@
 ---
 date: "2011-04-07"
 link: "https://www.imdb.com/title/tt0399295"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Senhor das Armas"
 ---
 O roteirista-diretor Andrew Niccol, que esteve nessa função dupla nas produções Gattaca e S1mone, além de ter escrito O Show de Truman e O Terminal, dessa vez parte para uma imersão no real, tratando do submundo do comércio ilegal de armas.

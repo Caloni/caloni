@@ -1,7 +1,7 @@
 ---
 date: "2008-02-01"
 title: "Compartilhando variáveis com o mundo v2"
-tags: [ "code" ]
+categories: [ "code" ]
 ---
 Nota de desempenho: esse artigo finaliza (finalmente) a republicação de todos os artigos do antigo blogue. Isso quer dizer que a partir de agora eu sou obrigado a trabalhar, e, se quiser manter meu ritmo atual, vou ter que fazer mais do que cinco cliques do mouse.
 

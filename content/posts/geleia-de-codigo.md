@@ -1,7 +1,7 @@
 ---
 date: "2014-04-15"
 title: Geleia de Código
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 [![jam2014](http://i.imgur.com/zXzJlL5.jpg)](/images/13878076723_dc8556a364_o.jpg)
 

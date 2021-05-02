@@ -1,7 +1,7 @@
 ---
 date: "2016-12-09"
 link: "https://www.imdb.com/title/tt0790663"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Aluno"
 ---
 Este é daqueles filmes bonitinhos, com lição de moral, ou lição de vida, que tenta aumentar a trilha sonora solene e emocionante sempre que pode, além de colocar lágrimas nos rostos dos personagens para induzir o espectador ao choro fácil. Choro fácil este que não vem, já que seus personagens não são assim tão carismáticos, e o protagonista, apesar da história de vida sofrida, parece não possuir condições de exprimi-la de uma maneira civilizada.

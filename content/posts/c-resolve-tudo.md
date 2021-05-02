@@ -1,7 +1,7 @@
 ---
 date: 2019-05-17T13:53:21-03:00
 title: "C Resolve Tudo: Orientação a Objetos (com Polimorfismo)"
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 desc: "Formas de fazer com a linguagem C o que as outras linguagens fazem by design. Se quiser algum artigo sobre alguma feature de alguma linguagem ou ferramenta, comente."
 ---
 Como programadores há um vício em nossas cabeças que é estar constantemente buscando a bala de prata, ou seja, a solução final e única para todos os nossos problemas de implementação. Com o tempo e alguma experiência descobrimos que tal coisa não existe, mas até lá nos encantamos com esse ou aquele framework, e claro, com essa ou aquela linguagem.

@@ -1,7 +1,7 @@
 ---
 date: "2016-10-22"
 link: "https://www.imdb.com/title/tt4016454"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Supergirl"
 ---
 A nova série da "menina de aço" parece importada do seu original de 1984 e atualizada de maneira preguiçosa com os temas do momento (leia: feminazismo). Se até a metade do piloto conseguimos nos importar minimamente com a trama e, principalmente, com o destino de Kara e a decisão de ser quem ela verdadeiramente é (uma super-heroína), de lá pra frente o que vemos é a entrega total ao televisivo, a soluções fáceis e a modelos de entretenimento que utilizam referências dos últimos trabalhos da DC para soar antenado.

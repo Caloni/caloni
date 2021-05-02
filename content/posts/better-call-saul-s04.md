@@ -1,7 +1,7 @@
 ---
 date: "2018-10-26"
 link: "https://www.imdb.com/title/tt3032476"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Better Call Saul S04"
 ---
 Better Call Saul em sua quarta temporada segue o mesmo formato de todas as anteriores: é uma novela porque se estende demais -- as regras um pouco degastantes de uma série -- mas entrega o que promete mais uma vez: um protagonista um pouco mais próximo de se tonar o Saul Goodman que todos nós conhecemos de Breaking Bad.

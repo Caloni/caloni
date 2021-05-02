@@ -1,7 +1,7 @@
 ---
 date: "2019-05-11"
 link: "https://www.imdb.com/title/tt8169446"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Entre Vinho e Vinagre"
 ---
 Entre Vinho e Vinagre, ou Wine Country, é uma versão alternativa de Sideways se ele fosse sobre mulheres de meia-idade e seus roteiristas soubesse de antemão que menosprezar uvas pode chacoalhar o mercado de vinhos. Você sabia que por causa que no filme estrelado por Paul Giamatti seu personagem destrata o Merlot por ser "fácil demais de beber", elogia as qualidades do Pinot Noir e os preços dessas uvas na vida real despencam e disparam? Este é o "Sideways Effect" e este é o mundo do vinho, onde qualquer comentário subjetivo de um personagem fictício de um filme pode influenciar um mercado bilionário de gente rica e esnobe.

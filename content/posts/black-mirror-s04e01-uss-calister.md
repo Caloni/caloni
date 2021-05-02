@@ -1,7 +1,7 @@
 ---
 date: "2018-01-12"
 link: "https://www.imdb.com/title/tt2085059"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Black Mirror - S04E01 - USS Calister"
 ---
 A quarta temporada de Black Mirror começa razoavelmente bem, mas dá sinais de cansaço. A ideia de brincar com Star Trek, vinda de autores obviamente fascinados por séries como essa e Além da Imaginação (há uma brincadeira igualmente inventiva no último episódio dessa temporada) parece ter dado a origem um terror estelar de simulação que irá nos mostrar que a série começa a abusar dos conceitos de simulação (jogos ou não) e em alguns momentos as ideias do papel (como ideia/argumento) não parece tão bem conduzidas pela série.

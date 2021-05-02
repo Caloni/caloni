@@ -1,7 +1,7 @@
 ---
 date: "2017-11-06"
 link: "https://www.imdb.com/title/tt5222918"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "O Outro Lado da Esperanca"
 ---
 O Outro Lado da Esperança cria metáforas visuais que ao longo da história servirão para martelar o incômodo e o absurdo. Vemos um navio se aproximando. A câmera se aproxima dele, que atraca no porto. É um navio que carrega asfalto. E do asfalto eis que surge um imigrante. Sujo de ponta a ponta. Toma um belo banho e está limpo de novo. A "mesma coisa" acontece com o vendedor que se livra de todo seu estoque e transforma o seu dinheiro em um restaurante. Ambos estão tentando tocar suas vidas, mas é difícil, pois ambas estão tocadas pela truculência das autoridades. Bom, pelo menos há um pouco de humor para ilustrar o absurdo da situação.

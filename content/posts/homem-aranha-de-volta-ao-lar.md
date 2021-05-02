@@ -2,7 +2,7 @@
 date: "2017-07-09"
 revison: ['2017-08-03']
 link: "https://www.imdb.com/title/tt2250912"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Homem-Aranha: De Volta ao Lar"
 ---
 A re-re-estreia do Homem-Aranha em filme solo -- dessa vez no insosso universo dos Vingadores -- é uma divertida abordagem de um Peter Parker jovem e sem traumas (ou seja: sem Uncle Ben) que atualiza o personagem para uma época pressionada pela gangue do politicamente correto, mas também pela geração do bom humor, das ações sem consequências, do "Homem-Aranha do YouTube". Este é um filme definitivamente para assistir com pipoca, do lado dos filhos, sem estar muito preso aos detalhes que destoam dos gibis.

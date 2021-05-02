@@ -1,7 +1,7 @@
 ---
 date: "2013-04-01"
 link: "https://www.imdb.com/title/tt1049413"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Up: Altas Aventuras"
 ---
 Uma produção da Pixar possui, como todo o filme, o(s) nome(s) do diretor. Contudo, a dedicação dos seus produtores e toda a equipe é tamanha que transparece o amor pelo Cinema em cada canto da tela e em cada detalhe técnico de suas produções.

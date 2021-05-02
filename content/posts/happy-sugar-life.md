@@ -1,7 +1,7 @@
 ---
 date: "2020-10-04"
 link: "https://www.imdb.com/title/tt8696458"
-tags: [ "animes" ]
+categories: [ "animes" ]
 title: "Happy Sugar Life"
 ---
 Essa série foca mais nas emoções e memórias de traumas passados por essas duas meninas. Ela se estende para todos os personagens, que pouco ou muito, passaram por transformações em suas vidas e precisam encontrar uma maneira de sobreviver a tudo isso. A animação segue uma lógica visual como em [Madoka Mágica], mas fala de temas mais sérios do que a morte: a dor do passado.

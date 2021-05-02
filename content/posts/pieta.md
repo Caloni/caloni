@@ -1,7 +1,7 @@
 ---
 date: "2013-03-19"
 link: "https://www.imdb.com/title/tt2299842"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Pieta"
 ---
 Finalmente, depois de ganhar prêmios na Europa e ser exibido apenas na Mostra do Rio do ano passado (em uma atitude claramente estúpida dos organizadores da Mostra SP), algumas distribuidoras nacionais resolveram estrear o novo trabalho de Kim Ki-duk. É impressionante como parece que a qualidade dos trabalhos lá fora é inversamente proporcional à pressa das distribuidoras brasileiras em fornecer conteúdo para o público local.

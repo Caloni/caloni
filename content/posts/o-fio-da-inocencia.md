@@ -1,7 +1,7 @@
 ---
 date: "2020-05-04"
 link: "https://www.imdb.com/title/tt0165773"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Fio da Inocência"
 ---
 Este é um filme atordoante. Ele começa como um drama, vai tomando aspectos de thriller e nunca perde seu primeiro tom. Esquizofrênico, nos apresenta um personagem carismático, mas olhe de novo e verá outra coisa. Porém, o carisma continua lá em alguma lugar. E isso bate no espectador como um jogo moral difícil de se desvencilhar.

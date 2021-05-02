@@ -1,7 +1,7 @@
 ---
 date: "2019-06-11"
 link: "https://www.imdb.com/title/tt0976060"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Tokyo!"
 ---
 Só tem diretor foda nesse filme. Mas diretores foda podem fazer cagada de vez em quando. Felizmente não é o caso de "Tokyo!", que nos apresenta o tema cidade-título de uma maneira que Nova York/Paris Eu Te Amo nem sonham em fazer.

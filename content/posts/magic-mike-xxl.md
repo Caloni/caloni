@@ -1,7 +1,7 @@
 ---
 date: "2015-08-06"
 link: "https://www.imdb.com/title/tt2268016"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Magic Mike XXL"
 ---
 Continuação que pretende sempre fazer uma cena de reencontro com todo mundo do filme original que reaparece. Abraços, beijos e nada a acrescentar (nem um "ei, você engordou!").

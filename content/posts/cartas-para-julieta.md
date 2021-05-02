@@ -1,7 +1,7 @@
 ---
 date: "2011-10-10"
 link: "https://www.imdb.com/title/tt0892318"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Cartas Para Julieta"
 ---
 Sophie e Victor estão noivos e vão passar uma "pré-lua-de-mel" na Itália, onde Victor (García Bernal) pretende conseguir contatos com fornecedores para o restaurante que pretende abrir. Enquanto isso, Sophie (Seyfried) se desilude com as supostas férias e procura algo melhor para fazer: escrever respostas para as mulheres que lotam a frente da casa de Julieta, a mesma da peça de Shakespeare, com cartas românticas.

@@ -1,7 +1,7 @@
 ---
 date: "2007-07-06"
 title: Google shortcuts
-tags: [ "blog", "english" ]
+categories: [ "blog", "english" ]
 ---
 I love shortcuts. Since my very first years using computers, shortcuts had become my obsession. I research them through the time, collecting them, using them. For a long time I avoid myself from touching the mouse, trainning to remember all keystroke sequences I know.
 

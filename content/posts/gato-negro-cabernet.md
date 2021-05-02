@@ -1,6 +1,6 @@
 ---
 date: "2014-12-21"
-tags: [ "food" ]
+categories: [ "food" ]
 title: "Gato Negro Cabernet"
 ---
 Fácil, frutado, pouco alcoólico.

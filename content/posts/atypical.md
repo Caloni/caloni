@@ -1,7 +1,7 @@
 ---
 date: "2017-08-21"
 link: "https://www.imdb.com/title/tt6315640"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Atypical"
 ---
 Mais do mesmo com o algoritmo já batido da Netflix. Depois do "gênero" indie invadir Hollywood com suas famílias desajustadas, agora é a vez dos espertos computadores da gigante de streaming entregar uma família desajustada por série. Esta tem no pacote uma mulher traidora e um autista.

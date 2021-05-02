@@ -1,6 +1,6 @@
 ---
 date: "2019-09-03"
-tags: [ "draft", "code", "draft",  ]
+categories: [ "draft", "code", "draft",  ]
 title: "Do Bit para o Código"
 ---
 Olá. Esta é uma viagem para dentro do computador. Como funciona um computador? Você sabe? Pois é, nem eu. Mas vamos explorar alguns pontos onde nossa vã metafísica mal encosta na singularidade que é uma arquitetura Von Neumann.

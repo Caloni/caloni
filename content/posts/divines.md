@@ -1,7 +1,7 @@
 ---
 date: "2016-11-27"
 link: "https://www.imdb.com/title/tt4730986"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Divines"
 ---
 Eis mais um drama francês sobre a pobreza dos imigrantes e dos desprezados pelo sistema. Porém, este é o pano de fundo de uma história de uma amizade tocante entre duas amigas que compartilham tudo isso, e também uma pitada de romance porque... porque sim. Mas o rapaz é segurança de mercado e dançarino, o que já coloca um pouco de arte e a questão de gêneros na fórmula mágica esquerdista. Esse pessoal não perde tempo contando apenas um drama de cada vez.

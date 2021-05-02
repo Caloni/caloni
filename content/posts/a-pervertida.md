@@ -1,7 +1,7 @@
 ---
 date: "2020-07-11"
 link: "https://www.imdb.com/title/tt0200192"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Pervertida"
 ---
 Divertido e inusitado como Sensual Demais, o filme independente do cara com a lenda de ter o membro grande demais para fazer sexo com sua esposa e por isso se aliviava no milharal, este filme da lenda Tint Brass (Calígula) apresenta a bunda de sua estrela mais vezes do que sua cara, é italiano dublado em inglês, e a maioria das falas são suspiros de tesão.

@@ -1,7 +1,7 @@
 ---
 date: "2019-02-19"
 link: "https://www.imdb.com/title/tt7972528"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Lembro Mais Dos Corvos"
 ---
 Lembro Mais dos Corvos é aquele documentário minimalista ao máximo que lembra que Cinema pode ser apenas uma câmera filmando e uma pessoa falando, e se essa ideia não lhe apetece fique longe desse filme. Contudo, esteja avisado também disso: esse é provavelmente um dos filmes mais humanos que você irá ver esse ano. Talvez porque a vida não se controla. Apenas deixamos fluir, e quando menos se percebe, houve a conexão entre seres humanos. Esse filme tenta emular isso no cinema.

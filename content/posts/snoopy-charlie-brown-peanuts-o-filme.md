@@ -1,7 +1,7 @@
 ---
 date: "2016-01-17"
 link: "https://www.imdb.com/title/tt2452042"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Snoopy & Charlie Brown: Peanuts, o Filme"
 ---
 O menino tenta empinar sua pipa; sempre sem sucesso; e ele nunca desiste. Passa o tempo. Agora uma pipa empina um homem; que aprendeu que seus maiores valores encontram-se dentro de si mesmo; e ninguém é capaz de tirar isso dele. Entre esses dois estados da natureza de uma pessoa há um filme extraordinariamente depressivo que, ainda assim, pode e deve ser considerado infantil. Ele evoca a criança deprimida e tímida dentro de cada um de nós; sejam ainda crianças ou já crescidas. Incertos a respeito dos outros, de todos os outros que com nós habitam essa realidade, esse mundo sempre será essa eterna sala de aula. Gostaríamos de sermos aceitos para que conseguíssemos ter um pouco de autoestima. Não é pedir muito: "Se pelo menos, uma vez apenas, eu conseguisse empinar essa pipa..."

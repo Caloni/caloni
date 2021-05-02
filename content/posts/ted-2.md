@@ -1,7 +1,7 @@
 ---
 date: "2015-12-31"
 link: "https://www.imdb.com/title/tt2637276"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Ted 2"
 ---
 Personagens tão carismáticos em um filme tão disposto a comprar a ideia de um urso de pelúcia com vida adulta não poderia gerar uma continuação mais chata, mecânica e automática das comédias pastelonas.

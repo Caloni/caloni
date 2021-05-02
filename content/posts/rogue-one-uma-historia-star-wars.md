@@ -1,7 +1,7 @@
 ---
 date: "2016-12-28"
 link: "https://www.imdb.com/title/tt3748528"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Rogue One: Uma História Star Wars"
 ---
 É um prazer poder experimentar um pouco do universo dos filmes de Star Wars sem se preocupar (muito) com personagens centrais, tramas que mudarão a galáxia e, principalmente, histórias que nunca terminam. E apesar disso, aí está você de novo, estrelinha da morte. A fixação da alegoria com morte e destruição nunca termina. Ela se mantém quase como um fetiche escondido e refletido nos "inimigos", braço esquerdo da mesma Força. O lado negro sempre é a visão mais clara do que acontece quando o poder está nas mãos de poucos, sejam eles tiranos malignos ou pseudo-representantes do "povo".

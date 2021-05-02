@@ -1,7 +1,7 @@
 ---
 date: "2012-10-08"
 link: "https://www.imdb.com/title/tt0327056"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Sobre Meninos e Lobos"
 ---
 Dono de uma cinegrafia invejável como diretor, Clint Eastwood aqui começa a demonstrar uma mudança dramática na maneira de contar uma história. Sem pressa para desenvolver a trama e ao mesmo tempo mostrando apenas o necessário para que se mantenha o suspense, o roteiro de Brian Helgeland caminha por igual na vida de cada personagem para que entendamos o peso de cada encontro e de cada diálogo. Além disso, as cenas possuem uma fluidez admirável, ainda mais se considerarmos a quebra de ritmo que poderia surgir ao abordar tantos pontos de vista diferentes para um mesmo fato.

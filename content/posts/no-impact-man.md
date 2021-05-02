@@ -1,7 +1,7 @@
 ---
 date: "2014-04-27"
 link: "https://www.imdb.com/title/tt1280011"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "No Impact Man"
 ---
 Esse é daqueles documentários ecológicos que se baseia no escritor Colin Beavan e sua família, a esposa compradora compulsória Michelle Conlin e a pequena e inocente filha. Os três passarão um ano cuidando de suas vidas sem tentar causar qualquer impacto ambiental no meio de Nova York. Primeiramente, devo perguntar: o que seria um impacto ambiental para uma família dessas, e por quê?

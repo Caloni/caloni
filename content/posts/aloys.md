@@ -1,7 +1,7 @@
 ---
 date: "2016-10-21"
 link: "https://www.imdb.com/title/tt5065810"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Aloys"
 ---
 Aloys é uma viagem fascinante pelo mundo dos efeitos sonoros que criam a realidade em torno dos dois personagens principais. Para esse feito, é necessário uma edição e montagem impecáveis, além de um design de som que prima pela redundância. Redundância essa necessária para que o espectador consiga penetrar no mundo dividido entre todas as pessoas que vivem dentro do mundo interno de cada um de nós.

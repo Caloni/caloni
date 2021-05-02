@@ -1,7 +1,7 @@
 ---
 date: "2016-07-16"
 link: "https://www.imdb.com/title/tt2400463"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "the Invitation"
 ---
 Esse filme de 2015 não estreou nos cinemas do Brasil, mas graças à Netflix -- que não precisa de nenhuma cota idiota -- ele está disponível para espectadores caseiros. Se trata de um thriller travestido de drama, com todos os atores desconhecidos, algumas técnicas batidas e um certo gosto de estranheza que acompanha a tela pela maioria do tempo.

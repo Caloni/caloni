@@ -1,7 +1,7 @@
 ---
 date: "2016-05-03"
 link: "https://www.imdb.com/title/tt3754940"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Truman"
 ---
 Esse talvez seja um dos mais decepcionantes filmes com Ricardo Darín, mas não deixa de ser interessante em alguns momentos, como quando discute a diferença entre ser tratado como um ser humano ordinário e um ser humano moribundo.

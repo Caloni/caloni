@@ -1,7 +1,7 @@
 ---
 date: "2008-02-25"
 title: Códigos de entrevista - o ponteiro nulo
-tags: [ "code" ]
+categories: [ "code" ]
 ---
 Bom, parece que o "mother-fucker" wordpress ferrou com meu artigo sobre o Houaiss. Enquanto eu choro as pitangas aqui vai um outro artigo um pouco mais simples, mas igualmente interessante.
 

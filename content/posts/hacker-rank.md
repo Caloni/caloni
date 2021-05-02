@@ -1,7 +1,7 @@
 ---
 date: "2019-08-08"
 link: "https://gist.github.com/Caloni/31fd1105dd18374105d2eb00bce7ee3f"
-tags: [ "draft", "code", "draft", "ccpp", "english" ]
+categories: [ "draft", "code", "draft", "ccpp", "english" ]
 title: "Some things I learned in a Hacker Rank exercise"
 ---
 A couple of days ago I subscribed to Hacker Hank, a website specialized in provide interview exercises. The site is as a better version of Code Jam, with the possibility to Compile & Run the code, as well as running several test cases.

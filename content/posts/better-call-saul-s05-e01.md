@@ -1,7 +1,7 @@
 ---
 date: "2020-03-02"
 link: "https://www.imdb.com/title/tt3032476"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Better Call Saul (S05 E01)"
 ---
 Avançando no futuro e no passado, eis que chegamos ao momento que Jimmy se torna Saul. E não é nada glamoroso. Causa uma estranheza um advogado com ternos coloridos de tamanhos inadequados aparecer de repente, como uma borboleta defeituosa, com uma asa faltando, que surge do casulo.

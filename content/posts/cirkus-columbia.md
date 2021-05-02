@@ -1,7 +1,7 @@
 ---
 date: "2010-11-01"
 link: "https://www.imdb.com/title/tt1417067"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Cirkus Columbia"
 ---
 A primeira coisa que nota-se em Cirkus Columbia é a deslumbrante fotografia. Criada de forma magistral, torna a história um épico instantâneo pelo simples fato de reapresentar ao mundo um país anteriormente arrasado pela guerra, onde são aproveitadas não só os quadros da tela larga, mas as luzes também.

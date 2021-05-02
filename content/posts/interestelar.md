@@ -1,7 +1,7 @@
 ---
 date: "2014-11-15"
 link: "https://www.imdb.com/title/tt0816692"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Interestelar"
 ---
 O novo filme de Christopher Nolan é sobre exploração espacial futurista em um momento delicado para a humanidade: uma crise alimentar afeta toda a vida na Terra e pode levar à sua extinção. O primeiro ponto positivo do roteiro (escrito por ele e o irmão) é discutir a necessidade de se investir recursos em avanços tecnológicos enquanto pessoas morrem de fome, uma questão que ainda hoje gera controvérsias, mas que nesse futuro distópico divide fortemente as opiniões. As escolas tentam formar cada vez mais fazendeiros, chegando ao cúmulo de regredir o ensino "reinterpretando" a História de maneira maliciosa de forma a atrair jovens para a vida no campo (qualquer relação com fundamentalismo religioso tristemente não é uma mera coincidência).

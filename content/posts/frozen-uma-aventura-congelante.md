@@ -1,7 +1,7 @@
 ---
 date: "2014-01-09"
 link: "https://www.imdb.com/title/tt2294629"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Frozen: Uma Aventura Congelante"
 ---
 Foi uma surpresa mais que gratificante descobrir que Frozen é muito mais do que aquele trailer tosco com um bonequinho de neve falante (apesar do boneco funcionar, e muito bem). Inspirado mais uma vez em um conto de princesa, mas dessa vez incluindo uma força dramática tão madura e ambiciosa que é difícil de conceber como um trabalho da Disney, a história gira em torno do relacionamento entre duas irmãs, Anna e Elsa. A mais velha possui um poder incontrolável de congelar tudo em sua volta, o que causou um grave ferimento à irmã quando crianças. Por causa disso e por decisão dos pais, ela se esconde do mundo e quase nunca aparece. Porém, o inevitável acontece, e nesse momento já estamos estupefatos diante da grandiosidade com que Frozen é narrado.

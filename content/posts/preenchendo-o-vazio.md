@@ -1,7 +1,7 @@
 ---
 date: "2013-10-16"
 link: "https://www.imdb.com/title/tt2219514"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Preenchendo o Vazio"
 ---
 Uma fuga de nossa cultura vigente às vezes faz bem. Curioso constatar que, mesmo imersos na rotina, crenças e cânticos da religião judia ortodoxa, os mesmos dramas humanos se configuram.

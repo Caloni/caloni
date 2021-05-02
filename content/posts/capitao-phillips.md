@@ -1,7 +1,7 @@
 ---
 date: "2018-01-12"
 link: "https://www.imdb.com/title/tt1535109"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Capitão Phillips"
 ---
 Este é um filme tenso. Bem tenso. Ele começa já tenso. Daí ele caminha para algo mais tenso ainda. O realismo do filme de Paul Greengrass (O Ultimato Bourne) remete diretamente à história real que ocorreu com o real Capitão Phillips. Tom Hanks está em um papel ingrato para ele, mas ainda assim faz muito e bonito. Ele é um capitão carismático, que tenta salvar sua tripulação de piratas somalianos que abordam seu navio. Ele tenta negociar de todo jeito, e alguns momentos, quando o longa começa a perder um pouco o ritmo, ele é retomado novamente graças às expressões, à forma de agir e de falar do personagem capturado por Hanks. E apenas isso já é digno de assisti-lo.

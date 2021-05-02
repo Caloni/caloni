@@ -1,7 +1,7 @@
 ---
 date: "2019-04-15"
 link: "https://www.imdb.com/title/tt6789126"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Meu Nome Não é Ruben Blades"
 ---
 Rubén Blades é o cantor mais famoso do Panamá. Também já fez pontas de ator em Hollywood, se candidatou a presidente (foi nomeado ministro), faz ataques ferrenhos ao imperialismo americano enquanto mora em Nova York e defende o povo enquanto bebe água Perrier em seus shows. Ou seja, um membro da esquerda caviar básico. Isso tudo você aprende neste burocrático documentário.

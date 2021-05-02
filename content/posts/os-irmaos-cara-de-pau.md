@@ -1,7 +1,7 @@
 ---
 date: "2014-03-30"
 link: "https://www.imdb.com/title/tt0080455"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Os Irmãos Cara de Pau"
 ---
 Não se fazem mais filmes sem computadores, e isso pode ser uma coisa ruim. Os efeitos digitais invadem as telonas e as pessoas dessa geração mal percebem que estão olhando para pixels plásticos gerados em ambientes impossíveis. O velho acidente de carro capotando parece só existir agora "photoshopado" em inúmeras camadas de irrealidade.

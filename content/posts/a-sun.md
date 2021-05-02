@@ -1,7 +1,7 @@
 ---
 date: "2021-02-15"
 link: "https://www.imdb.com/title/tt10883506"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Sun"
 ---
 Depois que acabou o filme minha esposa pergunta o que eu achei e eu pergunto "que filme", tinha esquecido o ocorrido de duas horas e meia. O diretor gosta de fazer cena aérea e com detalhes do cenário sem relação com a história. Não pesquisei, mas deve ser um webmillenial. Os pais disseram que ele podia ser tudo na vida e o desgraçado escolhe diretor de cinema.

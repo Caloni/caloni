@@ -1,7 +1,7 @@
 ---
 date: "2016-01-21"
 link: "https://www.imdb.com/title/tt0022100"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "M, O Vampiro de Dusseldorf"
 ---
 Esse é um filme que explora a moral de um assassino de uma maneira tão absurda e dúbia quanto seus momentos cômicos. O expressionismo de Fritz Lang (e o alemão) colaboram para um filme hoje engraçado em alguns momentos, quando uma pessoa segura um fósforo aceso na mão à espera de uma resposta, mas hipertensos em outros, quando os argumentos de um inesperado advogado de defesa revelam uma relativização perigosa da ação e liberdade humanas, e uma discussão sobre direitos igualmente fascinante.

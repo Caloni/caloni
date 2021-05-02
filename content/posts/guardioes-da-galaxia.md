@@ -1,7 +1,7 @@
 ---
 date: "2014-12-06"
 link: "https://www.imdb.com/title/tt2015381"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Guardiões da Galáxia"
 ---
 Me lembro que Guardiões da Galáxia foi o trailer mais interessante desses filmes de super-heróis com seus pseudo-dramas fantásticos e seu atual modelo engessado de vários heróis para um grande vilão (Vingadores, Capitão América 2, X-Men... não, esse é legal). Porém, por algum motivo, acabei não assistindo este filme no cinema. Paciência. Agora surgiu uma oportunidade durante um voo e lá vou eu apertar o play para mais uma aventura impossível com personagens irrelevantes e explosões digitais. Felizmente a minúscula tela em frente à minha poltrona me protegia de sangrar demais pelos meus olhos.

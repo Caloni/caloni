@@ -1,7 +1,7 @@
 ---
 date: "2015-05-17"
 link: "https://www.imdb.com/title/tt0983193"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "As Aventuras de Tintim"
 ---
 Quem diria que, no meio de tantos filmes de super-herói machões com frases de efeito e diferentes efeitos digitais para fazer você comer pipoca freneticamente, As Aventuras de Tintim seja o que possui o personagem mais maduro e o conflito mais adulto de todos?

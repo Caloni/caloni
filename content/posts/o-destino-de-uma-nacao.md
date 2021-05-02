@@ -1,7 +1,7 @@
 ---
 date: "2018-02-26"
 link: "https://www.imdb.com/title/tt4555426"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Destino de uma Nação"
 ---
 Esta é a versão cinematográfica de um momento na história da Inglaterra que talvez lendo os livros não tenha tanto apelo emocional quanto um Gary Oldman incorporando totalmente o tom feroz, bonachão e icônico de Sir Winston Churchill, que abraça na marra o espírito inglês de sobrevivência (ou insanidade). Se isso não for patriotismo, nada mais será.

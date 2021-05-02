@@ -1,6 +1,6 @@
 ---
 date: "2020-09-16"
-tags: [ "lists" ]
+categories: [ "lists" ]
 title: "História do Windows"
 ---
 Escrevi esta lista de artigos sobre a evolução do sistema operacional Windows há muitos anos, mas eles nunca estiveram juntos em um post que é uma lista. Bom, segue:

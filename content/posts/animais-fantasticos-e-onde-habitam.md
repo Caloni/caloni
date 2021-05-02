@@ -1,7 +1,7 @@
 ---
 date: "2016-12-15"
 link: "https://www.imdb.com/title/tt3183660"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Animais Fantásticos e Onde Habitam"
 ---
 Quando a série Harry Potter terminou nos cinemas veio a sensação de saudade com um misto de "saga intocável", no sentido de qualquer tentativa de "George Lucarizar" a franquia estaria fadada ao fracasso. A não ser que fosse apenas utilizado o universo onde se passam os filmes, mas não os mesmos personagens, ou as mesmas situações (mago do mal, cada filme um ano na escola). Pois bem. A partir de Animais Fantásticos, a escritora J. K. Rowling pode ganhar o título de "escritora fodona" de verdade. Ela não recicla ideias que a tornaram um sucesso (e milionária). Ela não usa personagens que os fãs abraçaram como muletas afetivas. Ela cria uma história do zero, fugindo completamente do mundo HP e apresentando novas criaturas e novos conceitos, enriquecendo e expandindo o universo em vez de sugando-o. Aprendeu como se faz, George Lucas/J.J. Abrams?

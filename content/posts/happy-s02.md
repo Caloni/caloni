@@ -1,7 +1,7 @@
 ---
 date: "2019-06-09"
 link: "https://www.imdb.com/title/tt2452242"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Feliz! S02"
 ---
 Passou o primeiro episódio da segunda temporada de Happy! diante dos meus olhos e eu não tenho a mínima ideia do que está acontecendo. Meu Deus, eu assisti o resumo da temporada anterior e fiquei mais perdido do que antes. A única coisa que vale a pena está nos primeiros cinco minutos: freiras explodindo ao som da música tema de uma temporada de American Horror Story. E eu não preciso assistir uma série inteira por isso.

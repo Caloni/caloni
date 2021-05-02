@@ -1,7 +1,7 @@
 ---
 date: "2013-07-01"
 link: "https://www.imdb.com/title/tt0098635"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Harry e Sally: Feitos um para o Outro"
 ---
 Nora Ephron morreu ano passado. Escreveu e dirigiu trabalhos desde os anos 80 que hoje são agradáveis passeios pelas origens da comédia romântica como hoje a vemos (ainda que algumas bem datadas, como [A Difícil Arte de Amar]). No entanto, "Harry & Sally", comparado com a média das com-rom atuais, possui virtudes o suficiente para elevá-lo à categoria de grande filme.

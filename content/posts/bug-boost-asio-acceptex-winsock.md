@@ -1,7 +1,7 @@
 ---
 date: 2019-01-06T19:03:52-02:00
 title: "Bug no Boost Asio usando função AcceptEx do Winsock"
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 desc: "Handles herdados pelos processos geram travamento na resposta do segundo socket criado."
 ---
 Depois de um mês de correção e mais um ou dois meses preparando um compilado do que ocorreu no software que estamos mantendo, foi descoberta uma situação muito peculiar que ocorre tanto em Windows XP quanto no Windows 10, mas que no 10 tem uma correção bem-educada e no XP... bom, nem tanto.

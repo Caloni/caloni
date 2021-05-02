@@ -1,7 +1,7 @@
 ---
 date: "2015-03-03"
 link: "https://www.imdb.com/title/tt3190448"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Metástasis (piloto)"
 ---
 Tive uma experiência no mínimo curiosa esta noite. Não, não é o que você pode estar pensando se você não me conhece. Quem participou da experiência comigo foi a Netflix. E Saul Goodman, ou James McGill. E Walter White e seu alter ego latino, "Señor Blanco".

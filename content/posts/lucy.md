@@ -1,7 +1,7 @@
 ---
 date: "2014-11-30"
 link: "https://www.imdb.com/title/tt2872732"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Lucy"
 ---
 Um misto de ficção científica e ação policial. Lucy (Scarlett Johansson) começa como vítima de circunstâncias que a levam a se tornar prisioneira de uma máfia chinesa e burro de carga de uma nova droga desenvolvida que aumenta consideravelmente o uso do cérebro. Concomitantemente somos apresentados ao professor Normal (Morgan Freeman), que possui uma teoria de que se isso fosse possível poderíamos controlar completamente nosso corpo e até o corpo de outras pessoas (e sabe-se-lá mais o quê).

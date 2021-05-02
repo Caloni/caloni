@@ -1,6 +1,6 @@
 ---
 date: "2016-11-02"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Então Morri"
 ---
 Um documentário que passa direto para nossos sentidos. Começa na morte e vai voltando pela dor, alegria, ou seja, emoções dos seus personagens da vida real.

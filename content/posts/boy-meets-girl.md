@@ -1,7 +1,7 @@
 ---
 date: "2014-01-23"
 link: "https://www.imdb.com/title/tt0086994"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Boy Meets Girl"
 ---
 São filmes assim que me revelam como um cinéfilo ainda burro. Mesmo assim, tenho a ousadia de gostar de alguns deles, mesmo sem saber muito bem por quê.

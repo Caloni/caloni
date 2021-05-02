@@ -1,7 +1,7 @@
 ---
 date: "2010-11-19"
 link: "https://www.imdb.com/title/tt0926084"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Harry Potter e as Relíquias da Morte - Parte 1"
 ---
 A sensação do final é de que poderíamos muito bem assistir muito mais. Isso porque, com transições equilibradas entre cenas de ação e de reflexão, as quase duas horas e meia não soam cansativas durante a experiência, que é ao mesmo tempo empolgante e visualmente emocionante.

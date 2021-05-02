@@ -1,7 +1,7 @@
 ---
 date: "2019-12-02"
 link: "https://www.imdb.com/title/tt11131980"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Ninguém Tá Olhando"
 ---
 É gostoso assistir a uma série nova e sua ideia fresca, com algumas sacadas que revisitam temas anteriores, mas sob um novo olhar: o olhar brazuca. É assim que chega Ninguém Tá Olhando na Netflix, um trabalho conjunto entre uma cineasta de curtas documentais de aspecto social (Carolina Markowicz), o autor da terrível série 3% (Teodoro Poppovic) e um editor de filmes com forte fundo social, como Tropa de Elite e Cidade de Deus (Daniel Rezende), que justamente por conta de seus criadores e do formato televisito da rede de streaming vira uma maçaroca de dar dó já no seu terceiro episódio.

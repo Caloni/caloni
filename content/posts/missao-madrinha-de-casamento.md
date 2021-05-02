@@ -1,7 +1,7 @@
 ---
 date: "2013-12-14"
 link: "https://www.imdb.com/title/tt1478338"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Missão Madrinha de Casamento"
 ---
 Bridesmaids poderia ser citado na cinematografia atual apenas por ser uma comédia romântica que tem o foco unicamente nas mulheres e em seu universo feminino. Não há em seu núcleo a busca pelo marido perfeito, pois nossa protagonista não é aquela mocinha inocente que costuma aparecer nesses filmes (e, francamente, depois dos 21 anos seria forçar demais a barra acreditar que uma mulher dessas existiria hoje em dia salvo produções da Disney, como o próprio longa ironiza). No entanto, ser diferente é o que menos importa quando o resultado final é tão bem explorado e conduzido, tornando-o também o filme que dá esperanças a esse gênero tão batido e surrado.

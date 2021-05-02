@@ -1,6 +1,6 @@
 ---
 date: "2015-06-11"
-tags: [ "draft" ]
+categories: [ "draft" ]
 title: "TDC SP 2015 (Call for Papers)"
 ---
 Antes do nosso encontro 12 no Rio, no segundo semestre, teremos o TDC São Paulo, que já está em sua fase de chamada de trabalhos. Se você tem alguma coisa para apresentar, não se acanhe. Todos são bem-vindos! =)

@@ -1,7 +1,7 @@
 ---
 date: "2021-01-28"
 link: "https://www.imdb.com/title/tt0095327"
-tags: [ "draft", "movies", "animes" ]
+categories: [ "draft", "movies", "animes" ]
 title: "Túmulo dos Vagalumes"
 ---
 Esse é um filme que me foi apresentado a primeira vez 15 anos atrás como o filme mais triste que eu veria e que choraria litros ao vê-lo. Não chorei, e para falar a verdade não havia entendido muito bem o drama por trás da atmosfera fatalista que cerca este garoto e sua irmãzinha, sobrevivendo os últimos meses da guerra sem qualquer suporte familiar ou comunitário.

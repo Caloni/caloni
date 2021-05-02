@@ -1,6 +1,6 @@
 ---
 date: "2019-09-08"
-tags: [ "draft", "food" ]
+categories: [ "draft", "food" ]
 title: "Carne na Pressão"
 ---
 

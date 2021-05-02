@@ -1,6 +1,6 @@
 ---
 date: "2019-09-16"
-tags: [ "draft", "code", "draft",  ]
+categories: [ "draft", "code", "draft",  ]
 title: "Vcpkg: Boost para Windows XP"
 ---
 Quem programa em C++ no Brasil geralmente precisa estar preparado para manter velharias. Boa parte do parque de máquinas das empresas usam Windows, e não estou falando de Windows 10, mas muitas vezes XP. Apesar da Microsoft ter largado uma das melhores versões do seu SO para trás, milhares de máquinas ainda rodam esse bichinho, e muitos programadores precisam manter e desenvolver em nome da compatibilidade.

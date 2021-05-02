@@ -1,7 +1,7 @@
 ---
 date: "2016-08-04"
 link: "https://www.imdb.com/title/tt3082854"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "A Comunidade"
 ---
 A Comunidade é um filme que consegue ser doce em sua abordagem de paz e amor, mas ao mesmo tempo consegue desenvolver um tema mais maduro. É fascinante acompanhar a vida daquelas pessoas formando um mosaico de personalidades que cooperam entre si para o bem comum. Mais fascinante ainda é perceber como o filme avança seu tema sem ter medo de arriscar tudo que havia conquistado uma hora atrás.

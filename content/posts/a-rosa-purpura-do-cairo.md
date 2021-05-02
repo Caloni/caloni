@@ -1,7 +1,7 @@
 ---
 date: "2013-12-16"
 link: "https://www.imdb.com/title/tt0089853"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Rosa Púrpura do Cairo"
 ---
 Woody Allen parece dirigir tantos filmes que seus temas começam a girar em torno do seu próprio processo criativo. Se isso fica óbvio no excelente Desconstruindo Harry, fica fascinante a manipulação e as críticas desse processo em A Rosa Púrpura do Cairo, onde um dos personagens de um filme sai da tela ao se apaixonar por uma espectadora que viu o mesmo filme por várias vezes.

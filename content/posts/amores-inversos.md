@@ -1,7 +1,7 @@
 ---
 date: "2017-03-21"
 link: "https://www.imdb.com/title/tt2463512"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Amores Inversos"
 ---
 Hoje Kristen Wiig é a queridinha das comédias femininas. Em 2013 ela ainda estava galgando sua trajetória da TV para o Cinema, onde atingiria seu clímax na combinação explosiva de roteiro, direção e atuação em Missão Madrinha de Casamento. Nesse drama intimista independente dirigido por Liza Johnson e roteirizado com toques de exagero por Mark Poirier e Alice Munro, ela e Guy Pearce vivem personagens caricatos e só são salvos graças às atuações convincentes de ambos (Kristen mais).

@@ -1,7 +1,7 @@
 ---
 date: "2019-06-22"
 link: "https://www.imdb.com/title/tt0162346"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Ghost World: Aprendendo a Viver"
 ---
 Duas garotas se formam no colégio. Uma encara a realidade, arruma um emprego e vai morar sozinha. A outra é a de artes. É aí que o filme começa.

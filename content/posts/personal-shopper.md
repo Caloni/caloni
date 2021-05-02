@@ -1,7 +1,7 @@
 ---
 date: "2017-02-20"
 link: "https://www.imdb.com/title/tt4714782"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Personal Shopper"
 ---
 Personal Shopper envolve espiritismo em um mundo impessoal e materialista. Sequer há emoção no filme, embora a história gire em torno do luto de um ente querido. Mas talvez, no final das contas, o que conte mais não é a esperança que haja algo após a morte, mas que haja algo depois de uma vida não vivida, mas meramente suportada.

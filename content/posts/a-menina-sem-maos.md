@@ -1,7 +1,7 @@
 ---
 date: "2016-10-25"
 link: "https://www.imdb.com/title/tt5698496"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Menina Sem Mãos"
 ---
 Mais um desenho baseado em conto dos Irmãos Grimm. Na verdade, Jacob e Wilhelm Grimm, além de resgatar um pouco da origem das línguas germânicas e ajudar a fundar o estudo organizado de linguística, eles também coletaram a cultura desses povos, o que significa na prática suas crendices e valores, estruturadas em contos que eram contados de geração em geração. Ao salvar como escrita, eles conseguiram salvar boa parte da História no formato de folclore.

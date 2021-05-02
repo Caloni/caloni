@@ -1,7 +1,7 @@
 ---
 date: "2020-09-18"
 link: "https://www.imdb.com/title/tt7939766"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Estou Pensando em Acabar com Tudo"
 ---
 Eu sei como você se sente, Kaufman. Eu sei. E não vai passar. O novo filme dirigido e escrito por Charlie transpõe para a tela o ritmo exato de declínio da sociedade contemporânea. A maior prova disso é que ninguém vai entender. Irão buscar vídeos explicativos de seus gurus favoritos que lhe digam o que pensar. Mas não é apenas a sociedade que este longo e tortuoso filme espelha: também espelha seu idealizador, Charlie Kaufman.

@@ -1,7 +1,7 @@
 ---
 date: "2016-01-30"
 link: "https://www.imdb.com/title/tt0048545"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Juventude Transviada"
 ---
 James Dean ficou conhecido como o ícone de uma geração. Morreu jovem, o que só ajudou a fortalecer a lenda. Fez no total três filmes para Cinema (esse estreou no ano de sua morte). Em Rebelde sem Causa -- ou Juventude Transviada -- ele faz um jovem mimado da classe média americana que arruma confusão em todos os lugares que passa. O filme começa com todos o paparicando: o delegado de polícia, seus pais, sua avó. Na própria delegacia ele já conhece seu melhor amigo, que tem uma forte carência paternal e instabilidade emocional, e seu par romântico, a "rebelde" Y, que também possui problemas com o pai, que evita beijos na boca de sua filha de 16 anos por considerar inapropriado. Olhando para ela e seus lábios pintados escandalosamente de vermelho, quem poderia culpá-lo?

@@ -1,7 +1,7 @@
 ---
 date: "2011-11-20"
 link: "https://www.imdb.com/title/tt0382932"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Ratatouille"
 ---
 Ratatouille na época representou a capacidade grandiosa que um bom roteiro e uma excepcional produção conseguiam fazer, na animação computadorizada, como limite máximo de expressão na arte cinematográfica.

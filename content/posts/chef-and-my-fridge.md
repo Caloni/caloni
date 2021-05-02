@@ -1,6 +1,6 @@
 ---
 date: "2017-08-25"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Chef & My Fridge"
 ---
 Da Geladeira para a Mesa, Take Care of My Refrigerator, Take Care of the Fridge, Take Care of the Refrigerator, Good Care of the Fridge. Com tantos nomes já é possível deduzir que é um programa maluco da TV coreana, traduzindo a forma simpática, polida e divertida com que os asiáticos costumam se comportar. Isso inclui este programa gastronômico que mesmo sendo uma repetição barata à exaustão em seu formato, consegue divertir sem ofender, e ainda educar a respeito da alta gastronomia sem muitos exageros. E isso vindo da Coreia do Sul é algo a se destacar.

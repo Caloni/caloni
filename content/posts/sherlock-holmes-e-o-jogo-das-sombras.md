@@ -1,7 +1,7 @@
 ---
 date: "2012-02-15"
 link: "https://www.imdb.com/title/tt1515091"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Sherlock Holmes e o Jogo das Sombras"
 ---
 Guy Ritchie adora estilização via câmera lenta. Fora isso, as novas aventuras do famoso detetive de Baker Street parece ganhar fôlego extra graças a um vilão, se não memorável, digno das capacidades cognitivas de Holmes.

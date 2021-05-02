@@ -1,7 +1,7 @@
 ---
 date: "2016-01-30"
 link: "https://www.imdb.com/title/tt4326894"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "F is for Family"
 ---
 Juventude Transviada e filmes do John Hughes são exemplos de filmes icônicos que discutem essa distância incômoda e fascinante entre as gerações de pais e filhos. F for Family é a tentativa da Netflix de mostrar isso E a distância que nos separa dos costumes de uma era: os (hoje) controversos anos 70, onde fumar em qualquer lugar era tão lei quanto falar palavrões na frente das crianças (e depois se perguntar onde foi que eles aprenderam a falar assim). E se formos perceber momentos mais reflexivos da série, seus próprios personagens estão propensos a questionarem seus próprios hábitos, sem nem ter muitas dicas do por que disso.

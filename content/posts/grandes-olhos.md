@@ -1,7 +1,7 @@
 ---
 date: "2017-05-02"
 link: "https://www.imdb.com/title/tt1126590"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Grandes Olhos"
 ---
 Olhos Grandes é uma incursão do diretor Tim Burton por um universo já existente, o que se por um lado favorece seu lado de direção de arte a exagerar um conteúdo já determinado, por outro lado limita sua capacidade de fazer o mesmo com seus personagens, que soam irreais em uma história baseada em fatos reais.

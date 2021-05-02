@@ -1,7 +1,7 @@
 ---
 date: "2011-11-17"
 link: "https://www.imdb.com/title/tt1637688"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Preço do Amanhã"
 ---
 A grande sacada do gênero de ficção-científica, tanto no cinema quanto na literatura, é conseguir discutir alguma questão da sociedade atual sob a ótica de um mundo fantasioso. Para isso, as pessoas são colocadas em situações em que normalmente não existiriam, mas que lembram ou simbolizam uma questão do mundo real, ainda que encoberto de uma aura futurista.

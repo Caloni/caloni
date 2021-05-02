@@ -1,7 +1,7 @@
 ---
 date: "2017-05-23"
 link: "https://www.imdb.com/title/tt2316204"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Alien: Covenant"
 ---
 É muito bom poder assistir um terror espacial novamente. Reviver o pouco do brilho da tripulação original de Alien. Eu faria isso facilmente pela vida toda. E depois do infelizmente medíocre Prometheus, é possível quase perdoar as pequenas falhas de "Alien: Covenant,", a segunda aventura dessa nova fase que pretende se estender pelo menos mais um episódio.

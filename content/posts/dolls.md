@@ -1,7 +1,7 @@
 ---
 date: "2019-03-26"
 link: "https://www.imdb.com/title/tt0330229"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Dolls"
 ---
 Dolls é um filme lento, mas suas três histórias de amor são arrebatadoras. Não são convencionais, e muitos não chamariam de amor, mas não se pode dizer que não são histórias fortes, que mexem com nossos instintos de preservação. Essas pessoas entregaram suas vidas ao destino. Nenhuma é recompensada. E ainda é um filme lindo.

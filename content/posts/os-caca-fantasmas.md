@@ -1,7 +1,7 @@
 ---
 date: "2013-01-24"
 link: "https://www.imdb.com/title/tt0087332"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Os Caça-Fantasmas"
 ---
 O que torna Os Caça-Fantasmas ainda um excelente filme e nos faz acreditar em sua história é a sua entrega total ao universo criado desde o início: existem fantasmas por toda Nova York e ninguém discute isso. Eles estão começando a se manifestar, e não há lugar melhor para isso do que uma biblioteca.

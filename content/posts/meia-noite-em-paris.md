@@ -1,7 +1,7 @@
 ---
 date: "2011-07-31"
 link: "https://www.imdb.com/title/tt1605783"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Meia-Noite em Paris"
 ---
 Quando sabemos estar admirando o último enquadramento de Meia-Noite em Paris, é de doer o coração. O longa de Allen não só empolga, e muito, no início, como mantém suspenso o interesse pelos personagens (que não são poucos). Acredito que, se fosse possível, assistiríamos mais duas, três, ou até quatro horas de filmagem nesse universo criado por Allen.

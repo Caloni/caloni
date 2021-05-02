@@ -1,7 +1,7 @@
 ---
 date: "2018-08-06"
 link: "https://www.imdb.com/title/tt4580372"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Merlí"
 ---
 Merlí de Héctor Lozano segue uma cartilha de novela moderada, onde seus personagens nunca se transformam em algo diferente do que são, mas coisas do cotidiano acontecem a eles para movimentar uma história em torno de um professor de filosofia.

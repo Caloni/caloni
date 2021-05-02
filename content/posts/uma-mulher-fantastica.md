@@ -1,7 +1,7 @@
 ---
 date: "2018-03-15"
 link: "https://www.imdb.com/title/tt5639354"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Uma Mulher Fantástica"
 ---
 Uma declaração de direitos humanos. Tudo que um ser humano não deveria sofrer psicologicamente está neste filme. E para isso basta as pessoas entenderem que o gênero não importa. E acredite ou não, estamos em 2018 e isso ainda é um grande desafio para a humanidade. Mas talvez não seja tão inacreditável assim, já que todas as misérias sociais pelos quais as pessoas passam hoje em dia é graças unicamente aos socialistas. Explico por que:

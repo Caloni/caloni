@@ -1,7 +1,7 @@
 ---
 date: "2016-11-26"
 link: "https://www.imdb.com/title/tt2101383"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Cavaleiro de Copas"
 ---
 É difícil não gostar do estilo do diretor Terrence Malick. Em meio ao turbilhão de narrativas que preferem esfregar fatos na cara do espectador a cada segundo, Malick está sempre disposto a dar tempo ao tempo, rodar por duas horas e nos fazer questionar a própria textura da realidade em que a história se passa. Suas aventuras não estão limitadas a eventos pontuais, mas a transformações graduais, assim como na vida. Tudo isso pode ser fascinante se você, assim como eu, se cansa às vezes da mesmice narrativa de filmes convencionais, ou, por outro lado, pode ser uma tortura eterna tentar acompanhar filmes como Cavaleiro de Copas, que insiste que o conteúdo faz parte da mensagem.

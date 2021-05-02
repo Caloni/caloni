@@ -1,7 +1,7 @@
 ---
 date: "2017-06-13"
 link: "https://www.imdb.com/title/tt6032376"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Mulher do Pai"
 ---
 Apesar do que sugere o nome e a sinopse exagerada, Mulher do Pai é um estudo delicado e sutil sobre amadurecimento dos mais jovens, algo que não estamos mais acostumados a ver em um mundo cada vez mais conectado. De fora dessa aldeia global há ainda pequenos mundos rurais. E dentro desses mundos há a possibilidade de revisitarmos o bê-a-bá do crescimento humano.

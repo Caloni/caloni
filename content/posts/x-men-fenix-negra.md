@@ -1,7 +1,7 @@
 ---
 date: "2019-06-05"
 link: "https://www.imdb.com/title/tt6565702"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "X-Men: Fênix Negra"
 ---
 "X-Men: Fênix Negra" é uma grande metáfora de como ao ganhar poderes incontroláveis movimentos sociais como feminismo criam vítimas aleatórias por onde quer que passem com poder de ferir justamente os que te querem bem: os únicos amigos que aguentaram ficar perto de você.

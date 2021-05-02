@@ -1,6 +1,6 @@
 ---
 date: "2016-09-01"
-tags: [ "code", "draft",  ]
+categories: [ "code", "draft",  ]
 title: "Vídeo: Resolvendo problemas em projetos desleixados"
 ---
 Quem nunca teve que mexer em um projeto cheio de bugs de compilação, péssima organização, documentação e nomes de funções, classes e argumentos? Que você acaba de baixar em sua máquina e ele não compila (e você não tem a mínima noção por quê). Que a equipe que trabalha com você ouviu falar do projeto, mas nunca arregaçou as mangas e organizou. Que tal fazer isso agora?

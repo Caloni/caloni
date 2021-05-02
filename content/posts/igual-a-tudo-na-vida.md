@@ -1,7 +1,7 @@
 ---
 date: "2015-11-02"
 link: "https://www.imdb.com/title/tt0313792"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Igual a Tudo na Vida"
 ---
 Este é um filme típico de um Woody Allen contemporâneo: atores conhecidos em outras comédias (Jason Biggs é o protagonista em American Pie) realizando as personas de Allen como trabalhadores intelectuais e suas crises de relacionamentos enquanto passeiam por Nova York. Porém, diferente dos "bons Woody Allen", este patina sobre um mesmo tema sem levantar qualquer questão mais ou menos interessante, entregando personagens patéticos por si só, sem precisar de nenhuma crise ou complexo grandes o suficiente para tornarem suas vidas amorosas um desastre.

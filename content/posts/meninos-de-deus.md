@@ -1,7 +1,7 @@
 ---
 date: "2021-03-27"
 link: "https://www.imdb.com/title/tt0238924"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Meninos de Deus"
 ---
 Este filme de 2002 ainda cheira a anos 90. O padre interpretado por Vincent D'Onofrio fuma em plena igreja e não lembra em nada um padre, exceto que suas bolas ficam bem presas na presença da Jodie Madre Superiora Foster.

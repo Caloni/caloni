@@ -1,7 +1,7 @@
 ---
 date: 2018-08-30T14:41:33-03:00
 title: "GetArg: the ultimate badass argv/argc parser"
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 desc: "Sample de parse de argv/argc usando apenas strcmp."
 ---
 Sim, eu acho que já resumi o suficiente meu parseador de argv/argc no meu [último artigo sobre o tema](/meu-novo-parseador-de-argc-argv). Sim, eu também acho que a [versão com STL](/como-parsear-argc-argv-para-um-map-stl) bonitinha (mas ordinária). A questão agora não são as dependências, mas o uso no dia-a-dia: precisa ter o argc nessa equação?

@@ -1,7 +1,7 @@
 ---
 date: "2015-07-06"
 link: "https://www.imdb.com/title/tt2431438"
-tags: [ "series" ]
+categories: [ "series" ]
 title: "Sense8"
 ---
 Essa é uma série que tem todos os motivos de ser "acusada" de novela, no sentido da história estar totalmente focada nas reviravoltas amorosas de seus personagens. Mas o que dizer quando o destino amoroso do personagem X, Y e Z estão unidos de uma maneira tão fantástica que é impossível de disassociá-los e montar a velha tabela par romântico ou trio amoroso?

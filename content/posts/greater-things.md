@@ -1,7 +1,7 @@
 ---
 date: "2016-10-20"
 link: "https://www.imdb.com/title/tt3044584"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Greater Things"
 ---
 Este é um filme que possui poucos diálogos, o que o torna o mais cinematográfico possível. Isso quer dizer que o que vemos e o que ouvimos consegue passar a mensagem. E muitas vezes a mensagem é formada pelo que não vemos e não ouvimos.

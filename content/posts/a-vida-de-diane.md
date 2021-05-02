@@ -1,7 +1,7 @@
 ---
 date: "2019-05-04"
 link: "https://www.imdb.com/title/tt6705860"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "A Vida De Diane"
 ---
 A Vida de Diane é um filme de sensações, mas só vamos percebendo isso conforme a rotina se torna cada vez menos relevante para o que é realmente importante. "Precioso", como a própria Diane diz em sua última fala.

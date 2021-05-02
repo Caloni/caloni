@@ -1,7 +1,7 @@
 ---
 date: "2019-10-26"
 link: "https://www.imdb.com/title/tt10850518"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Andrey Tarkovsky: Uma Oração de Cinema"
 ---
 "Andrey Tarkovsky: Uma Oração de Cinema" é o documentário dirigido pelo filho de um dos mais importantes cineasta da história do cinema. Sim, o filho dirige seu primeiro longa, e é sobre o pai. Apenas isso já deveria chamar sua atenção de cinéfilo, mas se não fez efeito talvez nem o resto desse texto faça.

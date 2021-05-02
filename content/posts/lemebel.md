@@ -1,7 +1,7 @@
 ---
 date: "2019-10-29"
 link: "https://www.imdb.com/title/tt9654050"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Lemebel"
 ---
 Lemebel é trabalho da diretora estreante Joanna Reposi Garibaldi sobre o ensaísta, crônico e novelista Pedro Segundo Mardones Lemebel, um ativista político no Chile em plena ditadura de Pinochet. Sua maior conquista em toda sua vida? Ser abertamente gay nessa época.

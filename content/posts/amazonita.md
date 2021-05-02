@@ -1,6 +1,6 @@
 ---
 date: "2019-07-16"
-tags: [ "draft", "books" ]
+categories: [ "draft", "books" ]
 title: "Amazonita é ficção curtinha de época sobre folclores brasileiro"
 ---
 Tudo começou em um grupo de filosofia no Telegram. Oi? Sim, foi lá que encontrei a escritora Nati Oliver na época em que se chamava Natalia Oliveira (a conheci antes de virar modinha). Fora do grupo começamos a bater papo e descobrimos nosso prazer mútuo por Agatha Christie, além de ambos sermos escritores de mundos distintos (ficção e não-ficção dialogam à distância). Ah, outro detalhe importante: ela mora na região de Minas Gerais que eu adoro: Poços de Caldas (queijos, cafés e cervejarias artesanais).

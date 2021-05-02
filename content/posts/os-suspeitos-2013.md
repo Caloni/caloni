@@ -1,7 +1,7 @@
 ---
 date: "2013-10-25"
 link: "https://www.imdb.com/title/tt1392214"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Os Suspeitos"
 ---
 O cansaço, desânimo e um envolvimento ilimitado na busca de duas meninas desaparecidas é o que forma a base de Os Suspeitos, mantida todo o tempo por três pilares fundamentais: o detetive e o pai incansáveis formam dois deles; a direção impecável de Denis Villeneuve (do excelente [Incêndios]) no desenvolvimento da trama forma o terceiro.

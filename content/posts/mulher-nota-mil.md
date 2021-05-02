@@ -1,7 +1,7 @@
 ---
 date: "2011-08-22"
 link: "https://www.imdb.com/title/tt0090305"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Mulher Nota Mil"
 ---
 Mulher Nota Mil representa precisamente a época em que foi produzido, bem no meio da década de 80. E, ao mesmo tempo, serve como um belo reflexo de produções recentes, como American Pie, que demonstram que no que tange à síndrome dos garotos impopulares que nunca conseguem namoradas no colégio, o cinema não avançou quase nada: foi apenas atualizado para os padrões modernos.

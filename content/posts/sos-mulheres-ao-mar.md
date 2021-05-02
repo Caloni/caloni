@@ -1,7 +1,7 @@
 ---
 date: "2016-01-04"
 link: "https://www.imdb.com/title/tt3035582"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "S.O.S.: Mulheres ao Mar"
 ---
 Este filme é um longo comercial de uma empresa de cruzeiros. A história poderia muito bem acontecer em uma cidade qualquer, já que não há nenhuma cena que justifique a presença dos personagens em um navio. Salvo, claro, as patéticas "homenagens" a Titanic, tornando-o, por comparação, como se Plano 9 do Espaço Sideral, considerado o pior filme de todos os tempos, homenageasse Cidadão Kane, considerado um dos melhores.

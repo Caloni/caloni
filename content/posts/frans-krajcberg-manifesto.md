@@ -1,6 +1,6 @@
 ---
 date: "2019-09-28"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Frans Krajcberg: Manifesto"
 ---
 Coisa mais linda no mundo o timing de "Frans Krajcberg: Manifesto", documentário sobre o artista-militante naturalista polonês que veio morar na floresta amazônica aqui no Brasil após a guerra e que foi um ser revoltado com o descaso dos brasileiros até seus últimos dias de vida ano passado, aos 96 anos. Profético o filme, Frans estaria mais revoltado ainda hoje, quando as políticas federais afrouxam o controle do desmatamento e temos novos recordes de queimadas em uma floresta que pouco a pouco vai sendo consumida pela ganância econômica.

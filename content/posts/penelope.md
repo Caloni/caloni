@@ -1,7 +1,7 @@
 ---
 date: "2014-04-05"
 link: "https://www.imdb.com/title/tt0472160"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Penelope"
 ---
 Peguemos um livro de contos infantis e transformemos em um filme live-action (com atores de carne-e-osso). Pode ser aquela história da maldição da empregada que é renegada pelo seu amor de um aristocrata, de novo?, e cuja mãe é uma bruxa e roga uma praga que transforma a primeira filha da família de sangue azul em uma abominação. Quer dizer, o nome "abominação" vai depender de quem consegue enxergar na bela Christina Ricci um monstro, quando no fundo a única coisa que incomoda em seu visual são suas orelhas flácidas e seu focinho de porco. Nada que justifique tantas janelas quebradas de pretendentes que parecem ter se encontrado com uma besta selvagem prestes a devorá-los.

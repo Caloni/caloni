@@ -1,7 +1,7 @@
 ---
 date: "2010-10-29"
 link: "https://www.imdb.com/title/tt1720038"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Suprema Felicidade"
 ---
 [Baarìa - A Porta do Vento], trabalho mais pessoal de Giuseppe Tornatore (Cinema Paradiso), é uma superprodução que tem como característica marcante não definir um foco específico ao contar sua história. Disposto a tornar a Baarìa do título, um vilarejo no interior da Itália, protagonista de tudo que aconteceu no país ao longo de décadas de história, Tornatore sacrifica a clareza narrativa em prol de um bem maior: a absurdamente estonteante rima final, que torna o seu filme, como um todo, uma experiência única e inesperada.

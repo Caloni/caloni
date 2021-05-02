@@ -1,7 +1,7 @@
 ---
 date: "2014-03-15"
 link: "https://www.imdb.com/title/tt0332280"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Diário de uma Paixão"
 ---
 É curioso que Ryan Gosling (Drive, O Lugar Onde Tudo Termina) tenha protagonizado um filme tão cândido e seis anos depois tenha dividido a tela com Michelle Williams em Blue Valentine, para despedaçar qualquer traço de esperança romântica que qualquer fã do ator tivesse em torno da persona idealista que criou. O fato é que Diário de Uma Paixão obtém sua força justamente em fazer-nos crer que um romance totalmente desvinculado da razão conseguisse suportar a situação adversa e, ainda mais, a passagem do tempo que destrói e transforma tudo em sua volta.

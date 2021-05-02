@@ -1,7 +1,7 @@
 ---
 date: "2015-04-11"
 link: "https://www.imdb.com/title/tt0072431"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Jovem Frankenstein"
 ---
 As comédias do Mel Brooks são sempre um esculacho, mas nunca podemos acusá-lo de ser relapso no tema que pretende abordar. Nesse O Jovem Frankestein, por exemplo, é seguido à risca não só os conceitos e a história-base de Mary Shelley como a própria atmosfera dos primeiros filmes que caracterizavam o doutor obcecado com experimentos pós-vida e o icônico monstro que não apenas possui uma alma, mas como é mais gentil que todo o vilarejo onde moram. Tanto que o filme é em preto e branco, usa uma pintura para mostrar o castelo, letreiros antigos e uma trilha sonora inspirada.

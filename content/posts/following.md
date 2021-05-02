@@ -1,7 +1,7 @@
 ---
 date: "2014-05-14"
 link: "https://www.imdb.com/title/tt0154506"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Following"
 ---
 Following é um filme-noir dos tempos atuais, mesmo sendo em preto e branco. É o primeiro longa-metragem dirigido, escrito e produzido por Christopher Nolan, o queridinho dos estúdios atualmente depois da trilogia Batman e trabalhos ambiciosos como Amnésia, A Origem e, claro, O Grande Truque. Ele conta a história de um jovem escritor que para conseguir inspiração começa a seguir pessoas a esmo, mas que comete o terrível erro de começar a seguir as mesmas pessoas. Isso o leva a descobrir o pior que há na natureza humana: roubos, chantagens, mentiras e assassinatos.

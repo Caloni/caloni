@@ -1,7 +1,7 @@
 ---
 date: "2012-04-28"
 link: "https://www.imdb.com/title/tt0848228"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Os Vingadores - The Avengers"
 ---
 Há um momento na nova produção da Marvel em que o personagem central Nick Fury (Samuel L. Jackson) comenta que o conceito de super-heróis é antiquado. Iss pode até soar contraditório vindo de uma figura como Nick, crente que sua heterogênea equipe de seres com poderes extraordinários, mesmo com suas diferenças, é o melhor que a Terra precisa em momentos de apuro. Porém também é uma maneira do espectador não-fã de quadrinhos conceber o absurdo da situação de reunir tantos heróis em uma única história. E se a maior virtude de um filme é conhecer seu universo e fazer de tudo para que as pessoas acreditem nele, nesse sentido Os Vingadores se sai muitíssimo bem.

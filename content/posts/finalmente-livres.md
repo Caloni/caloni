@@ -1,7 +1,7 @@
 ---
 date: "2019-11-28"
 link: "https://www.imdb.com/title/tt7534068"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Finalmente Livres"
 ---
 Finalmente Livres é uma comédia francesa que escala de maneira tão dinâmica suas ideias no decorrer da suas quase duas horas que é possível ignorar a falta de criatividade e de coerência em uma história tresloucada e cheia de energia.

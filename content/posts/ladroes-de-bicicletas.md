@@ -1,7 +1,7 @@
 ---
 date: "2015-06-18"
 link: "https://www.imdb.com/title/tt0040522"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Ladrões de Bicicletas"
 ---
 Ladrões de Bicicletas é um filme curto (menos de uma hora e meia) e antigo (da década de 40) e italiano. Porém, apesar dele ser curto ele é completo, apesar dele ser antigo ele é atual, e apesar dele ser italiano ele é, felizmente ou infelizmente, universal. Para os que se interessam por bobagens, foi um dos primeiros longa-metragens a ganhar um Oscar de Filme Estrangeiro, um título que não existia e era dado de vez em quando pela academia. Para os que se interessam pelo Cinema como arte, este filme virou um dos exemplos mais conhecidos do neo-realismo italiano, um estilo de fazer filmes que buscava refletir a realidade social da época, sendo filmado quase como um documentário. Tanto que os personagens não são nada especiais, podendo ser qualquer um na megalópole italiana naquela época pós-guerra.

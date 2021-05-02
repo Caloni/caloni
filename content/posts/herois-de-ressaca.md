@@ -1,7 +1,7 @@
 ---
 date: "2016-03-19"
 link: "https://www.imdb.com/title/tt1213663"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Heróis de Ressaca"
 ---
 Uma comédia britânica que não se resume a boas risadas. Aliás, talvez você nem encontre boas risadas, dependendo do seu senso de humor. A questão é que há muita falta de timing cômico na maioria das cenas, tornando a atuação exagerada de Simon Pegg simplesmente exagerada.

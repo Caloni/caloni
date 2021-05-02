@@ -1,7 +1,7 @@
 ---
 date: "2013-09-28"
 link: "https://www.imdb.com/title/tt0445922"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Across the Universe"
 ---
 Este não é simplesmente um musical que utiliza a trilha sonora dos Beatles. Across the Universe respira as influências da banda desde seu título até o final, recriando diversos momentos de sua "antologia" (real ou ficção) e fortalecendo suas obras em um contexto narrativo que, ainda que frágil em diversos momentos, mais do que compensa essa revisita ao universo criado e vivido por John Lennon, Paul McCartney, Ringo Starr e George Harrison.

@@ -1,7 +1,7 @@
 ---
 date: "2018-10-27"
 link: "https://www.imdb.com/title/tt7658384"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "A Quietude"
 ---
 O novo filme de Pablo Trapero, A Quietude, é drama cheio de controvérsias em seu núcleo familiar. Pra começar, há uma cena entre duas irmãs na cama que começa inocente e que passa para um momento, digamos, mais intenso. Sim, é um filme forte. Mas a sua força narrativa reside justamente na sutileza de seus detalhes. É um jogo de contrapontos que alia família, política e histórica em um pacote só.

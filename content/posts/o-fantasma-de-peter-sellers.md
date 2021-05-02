@@ -1,7 +1,7 @@
 ---
 date: "2019-10-21"
 link: "https://www.imdb.com/title/tt4857058"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "O Fantasma de Peter Sellers"
 ---
 Com a ascenção vertiginosa vem a queda dura. E O Fantasma de Peter Sellers é o trabalho do diretor Peter Medak que vem revisitar o maior desastre da carreira deste diretor, que teve a péssima ideia de usar Peter Sellers como seu galã em uma produção em alto-mar e foi acometido pela maldição dos espíritos dos piratas.

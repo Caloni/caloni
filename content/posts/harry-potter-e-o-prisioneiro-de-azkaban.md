@@ -1,7 +1,7 @@
 ---
 date: "2019-12-29"
 link: "https://www.imdb.com/title/tt0304141"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Harry Potter e o Prisioneiro de Azkaban"
 ---
 O bruxo Harry Potter e seus amigos atingindo uma idade em que a história começa a ficar ligeiramente mais interessante e menos infantil, menos magia por magia, menos efeitos tomando conta da história, embora os efeitos em si criam uma nova dimensão ao entretenimento.

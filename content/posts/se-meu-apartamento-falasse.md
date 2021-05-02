@@ -1,7 +1,7 @@
 ---
 date: "2016-07-19"
 link: "https://www.imdb.com/title/tt0053604"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Se Meu Apartamento Falasse"
 ---
 Jack Lemmon consegue a proeza de fazer dois personagens absolutamente distintos em duas comédias de Billy Wilder um ano seguido do outro. A primeira, "Quanto Mais Quente Melhor", Lemmon faz com Tony Curtis dois foragidos da polícia que se vestem de mulher e participam de uma banda que contém ninguém menos que Marylin Monroe. Já em "Se Meu Apartamento Falasse", Lemmon mora em um apartamento que serve de pulada de muro para seus "amigos" no escritório, incluindo um deles que tenta levar uma loira parecida com Marylin Monroe. O detalhe é que a única semelhança é que ela é loira.

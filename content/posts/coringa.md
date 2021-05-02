@@ -1,7 +1,7 @@
 ---
 date: "2019-10-06"
 link: "https://www.imdb.com/title/tt7286456"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Coringa"
 ---
 Coringa começa já em seu título a pretensão de determinar um início definitivo do icônico personagem dos quadrinhos revisitado em sua terceira encarnação (Jared Leto não conta) nos cinemas. Em um mundo onde truques narrativos, como narração em off, flashbacks e tempo não-linear substituem qualidade, o filme dirigido por Todd Phillips (Um Parto de Viagem) e escrito por ele e Scott Silver (O Vencedor) ignora tudo isso e segue o formato mais convencional possível para contar a história de um doente mental: começa no começo, termina no fim. Apenas essa decisão já constitui declaração de guerra à tão megalomaníaca quanto convencional Hollywood, disposta a sempre mutilar roteiros, além de abusar de efeitos e explosões para acobertar sua mediocridade.

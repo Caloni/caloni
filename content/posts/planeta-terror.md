@@ -1,7 +1,7 @@
 ---
 date: "2015-09-27"
 link: "https://www.imdb.com/title/tt1077258"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Planeta Terror"
 ---
 Quando se fala em fazer um filme trash, o diretor Robert Rodriguez não brinca em serviço. Planeta Terror, o filme-parceiro do projeto grindhouse criado por ele e Tarantino -- em que cada um realiza um filme com essa proposta de filme antigo Lado B -- é um exemplo de filme ruim que é ruim por ambos os motivos: o real e o imaginado. Porém, para realizar este feito ele precisa percorrer o destino de diferentes personagens que se tornam marcantes por dois motivos: as ótimas atuações dos atores que o interpretam e o velho jeito Robert Rodriguez de criar momentos icônicos, ainda que desprovidos de senso estético.

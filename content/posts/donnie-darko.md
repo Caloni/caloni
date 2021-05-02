@@ -1,7 +1,7 @@
 ---
 date: "2019-05-10"
 link: "https://www.imdb.com/title/tt0246578"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Donnie Darko"
 ---
 Quase 20 anos depois, Donnie Darko é um pequeno milagre dos filmes lado B de baixo orçamento. Com um elenco misteriosamente relevante -- vários atores se tornaram revelações -- e a profunda ideia de chacoalhar a sociedade americana com sua crítica às soluções imediatistas baseadas em pílulas, terapia e auto-ajuda, sua viagem no tempo é a cereja no bolo de uma história que não permite que coloquemos ou tiremos nada, mas que ao mesmo tempo permita tantas interpretações diferentes.

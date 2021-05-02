@@ -1,7 +1,7 @@
 ---
 date: "2019-05-06"
 link: "https://www.imdb.com/title/tt0333388"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Edifício Master"
 ---
 Esse Eduardo Coutinho sabe fazer documentários. Olhe como ele organiza uma força-tarefa para entrevistar moradores do Edifício Master, que tem cerca de 500 moradores, em frente ao Copacabana no Rio. Ele não apenas encontra histórias interessantes como realiza uma primorosa edição que foca nas histórias e nas pessoas, pura e simplesmente. Não há rodeios. Não dá sono. Dá vontade de viver e conhecer mais pessoas.

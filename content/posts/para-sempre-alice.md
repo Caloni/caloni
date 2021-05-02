@@ -1,7 +1,7 @@
 ---
 date: "2015-02-14"
 link: "https://www.imdb.com/title/tt3316960"
-tags: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , "cinemaqui" ]
 title: "Para Sempre Alice"
 ---
 No decorrer do filme esqueci completamente de Julianne Moore. Sim, é claro que a atriz estava ali, e não é difícil capturar seus trejeitos característicos. Porém, determinada em criar uma personagem unidimensional que representasse a espécie humana como seres individuais e efêmeros, apenas Alice existia, e deixava de existir, assim como cada um de nós. A diferença entre nós e Alice simplesmente é o ritmo. Todos nós iremos nos extinguir. Nossas memórias, pensamentos, sentimentos e aquele "algo a mais" que podemos ou não acreditar irão evaporar em átomos que não conterão sequer uma pista do que foram no passado: aquele ser orgânico dotado de consciência e raciocício só existiu por um momento. A força contida em Para Sempre Alice é que, para ela, a cada momento esse processo de morte acontece repentinamente, e um dia pode ter a duração de um mês. Aumentando o ritmo, esse processo que todos nós sofremos se torna extremamente dramático.

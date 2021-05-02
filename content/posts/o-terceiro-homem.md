@@ -1,7 +1,7 @@
 ---
 date: "2016-01-11"
 link: "https://www.imdb.com/title/tt0041959"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Terceiro Homem"
 ---
 Um filme com uma trilha sonora leve e temático e enquadramentos tortos que lembram que algo está errado. E está, mesmo: Viena está tomada por quatros povos diferentes, cada um fala um idioma, e o povo local fala alemão. Escambos perigosos no mercado negro estão por toda a parte. A atmosfera de O Terceiro Homem é densa, e seus acontecimentos precisos, cirúrgicos. É daqueles raros filmes que não se pode arriscar remover um momento ou expressão sequer. E muito menos uma das inúmeras câmeras tombadas.

@@ -1,7 +1,7 @@
 ---
 date: "2013-01-20"
 link: "https://www.imdb.com/title/tt1922777"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Entidade"
 ---
 O desenvolvimento de A Entidade diz mais sobre o espectador do que sobre a própria história. Em um mundo cada vez mais cínico e cético, a dificuldade em gerar tensão em um filme de horror, com exceção das [inúmeras] [versões] de [Atividade Paranormal], permanece na credibilidade dos acontecimentos. Se nossas crenças já não mais estabelecem espíritos e demônios como os seres supremos do mal a imersão nas histórias contemporâneas caminham cada vez mais para os efeitos dessas forças malignas: a morte, simplesmente.

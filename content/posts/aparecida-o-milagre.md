@@ -1,7 +1,7 @@
 ---
 date: "2010-12-19"
 link: "https://www.imdb.com/title/tt1832288"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Aparecida: O Milagre"
 ---
 Tizuka Yamasaki está acostumada a realizar trabalhos "globais" como O Noviço Rebelde, Xuxa Requebra e... arght! Lua de Cristal. Seus quatro roteiristas, incluindo Paulo Halm e Carlos Gregório, desenvolvem histórias como Pequeno Dicionário Amoroso, Guerra de Canudos e arght! Se Eu Fosse Você (1 e 2!). Aparecida, A Revanche Católic... quer dizer, O Milagre, é um filme maniqueísta (como deve ser) e cafona (como esperado), mas inesperadamente bem conduzido, que tenta desviar ao máximo da narrativa vergonhosamente novelística e se focar na mensagem mais importante do projeto: milagres são possíveis e é por isso que nunca devemos desistir da vida.

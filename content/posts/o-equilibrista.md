@@ -1,7 +1,7 @@
 ---
 date: "2014-03-02"
 link: "https://www.imdb.com/title/tt1155592"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Equilibrista"
 ---
 O Equilibrista é um trabalho fascinante de documentário porque explora de diversas maneiras o uso da câmera, montagem e roteiro para conseguir trazer a atenção do espectador no seu máximo em torno de um projeto que poderia muito bem virar uma reportagem sem graça de cinco minutos em um telejornal qualquer.

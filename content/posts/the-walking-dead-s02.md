@@ -1,7 +1,7 @@
 ---
 date: "2013-04-03"
 link: "https://www.imdb.com/title/tt1520211"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "The Walking Dead - Segunda Temporada"
 ---
 Nunca se viu antes zumbis tão realistas e humanos tão inverossímeis. Não é tão difícil acreditar nos mortos-vivos, pois já vimos isso antes em inúmeras obras do que tornou um sub-gênero do terror. Porém, um grupo de humanos como esse tentando sobreviver nessa selva de carne podre (e dentes, claro) é algo inédito e inacreditável. E mesmo assim, é exatamente dessa forma que a maioria de nós vive, o que acaba não dando muitas esperanças caso o universo de George Romero realmente viesse à tona.

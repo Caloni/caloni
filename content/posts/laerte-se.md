@@ -1,7 +1,7 @@
 ---
 date: "2017-09-24"
 link: "https://www.imdb.com/title/tt6795136"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Laerte Se"
 ---
 Laerte é um cartunista famoso que em uma fase avançada da vida decide sair do armário da maneira mais torta possível: começa a se vestir de mulher. Só isso. O que se segue é um filme que analisa de maneira repetida, clichê e bem morna as "aventuras" deste artista simples, humano e, ainda que saindo palavras militantes saindo de sua boca, extremamente avesso a qualquer problematização da classe violenta e hierarquizada dos transsexuais.

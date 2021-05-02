@@ -1,7 +1,7 @@
 ---
 date: "2014-09-07"
 link: "https://www.imdb.com/title/tt0805564"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Garota Ideal"
 ---
 Vendido como comédia, esse filme é sobre um rapaz com problemas para se socializar (Ryan Gosling) após a morte do pai e que resolve comprar uma boneca pela internet (você sabe, "aquela" boneca) e tratá-la como sua namorada na frente de seu irmão e esposa e para toda a cidadezinha onde moram. Nada é forçado, exceto a reação praticamente positiva de todos os habitantes da cidadela, que gosta de um rapaz ausente da vida em comunidade exceto pelas missas na igreja e as idas e vindas do trabalho.

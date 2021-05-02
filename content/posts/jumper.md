@@ -1,7 +1,7 @@
 ---
 date: "2011-04-27"
 link: "https://www.imdb.com/title/tt0489099"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Jumper"
 ---
 Em vários momentos de Jumper, principalmente na sua conclusão, podemos sentir o desperdício completo de uma boa ideia, melhor aproveitada em um filme mais intrigante do que este.

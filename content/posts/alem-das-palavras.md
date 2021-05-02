@@ -1,7 +1,7 @@
 ---
 date: "2017-04-05"
 link: "https://www.imdb.com/title/tt2392830"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Além das Palavras"
 ---
 Além das Palavras, biografia da poetisa norte-americana Emily Dickinson, é um trabalho que já estabelece desde sua primeira cena a posição que a mulher tem na sociedade em que ela viveu. O filme começa em uma escola apenas para mulheres, onde chega a hora em que elas devem escolher que caminho seguirão: a salvação garantida de Deus ou se viver como pecadoras, esposas de seus maridos, na esperança do perdão final. Não há terceira opção.

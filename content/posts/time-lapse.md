@@ -1,7 +1,7 @@
 ---
 date: "2017-04-04"
 link: "https://www.imdb.com/title/tt2669336"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Time Lapse"
 ---
 Mais um filme de viagem no tempo. Dessa vez quem viaja é só a luz. Uma câmera tira fotos 24 horas no futuro e entrega para três jovens que perderam a capacidade do livre-arbítrio. Isso porque agora eles precisam reproduzir a foto tirada custe o que custar, se não quiserem morrer.

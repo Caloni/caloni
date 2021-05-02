@@ -1,7 +1,7 @@
 ---
 date: "2017-11-12"
 link: "https://www.imdb.com/title/tt1034007"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Alias Grace"
 ---
 Homens retardados, animalescos, vivendo em torno de mulheres histéricas, depressivas ou apáticas. Este é o retrato da história contada por Grace Marks para um doutor, igualmente abjeto, Dr. Simon Jordan. A narrativa de Grace sob os olhos da série da Netflix representa um dos últimos pilares do movimento igualmente abjeto chamado (ainda) de feminismo: a crença marxista que homens e mulheres são definidos através de sua relação de opressores e oprimidos. Da mesma forma que a fantasia de Marx sobre o sistema de classes.

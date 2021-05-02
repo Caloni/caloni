@@ -1,7 +1,7 @@
 ---
 date: "2015-06-05"
 title: Logs em serviços (e outras coisas)
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 ![](http://i.imgur.com/p9kH1LW.jpg)
 

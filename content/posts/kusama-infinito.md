@@ -1,7 +1,7 @@
 ---
 date: "2018-10-26"
 link: "https://www.imdb.com/title/tt1893269"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Kusama - Infinito"
 ---
 Kusama - Infinito é um documentário de praxe, desses que tem aos montes na TV e na Netflix (aliás, este possui agradecimentos do serviço de streamin nos créditos finais, o que indica que em breve deve estar disponível para os assinantes).

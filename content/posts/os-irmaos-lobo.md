@@ -1,7 +1,7 @@
 ---
 date: "2016-10-12"
 link: "https://www.imdb.com/title/tt2415458"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Os Irmãos Lobo"
 ---
 Este documentário conta a história de vários irmãos que não podiam sair de casa durante a infância e alimentam sua visão do mundo através dos filmes. É interessante em alguns momentos, principalmente o seu começo, mas aos poucos ele parte para um estilo "casos de família" que apenas estende sua narrativa para virar um filme.

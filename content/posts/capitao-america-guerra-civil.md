@@ -1,7 +1,7 @@
 ---
 date: "2016-05-31"
 link: "https://www.imdb.com/title/tt3498820"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Capitão América: Guerra Civil"
 ---
 Esse não é um filme do Capitão América. Mas acho que todos vocês já estão acostumados com esses títulos bizarros e tão insignificantes quanto a história que é apresentada. Desde seu filme solo, o personagem interpretado por Chris Evans quase nunca consegue manter as rédeas de um protagonista. Quando está com os Vingadores, então, particularmente com o Homem de Ferro (Robert Downey Jr.), essa suposta "protagonice" some completamente. Stark, aliás, está bem sóbrio, e quase lembra o governo Bush em seus discursos de guerra (se não estivéssemos aqui falando, é claro, de qualquer governo).

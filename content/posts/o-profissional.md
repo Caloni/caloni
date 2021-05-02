@@ -1,7 +1,7 @@
 ---
 date: "2015-03-23"
 link: "https://www.imdb.com/title/tt0110413"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Profissional"
 ---
 Quando descobrimos que Luc Besson escreveu e dirigiu "Léon", ou O Profissional, é de ficar boquiaberto como o diretor perdeu a mão por tantos anos, acertando aqui e ali somente (Joana dArc é um ótimo exemplo).

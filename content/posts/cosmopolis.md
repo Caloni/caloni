@@ -1,7 +1,7 @@
 ---
 date: "2012-10-12"
 link: "https://www.imdb.com/title/tt1480656"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Cosmópolis"
 ---
 Se visto como um filme com começo, meio e fim, Cosmópolis pode se transformar em uma decepção. No entanto, se percebermos o padrão utilizado em seus caóticos diálogos, será possível destrinchar ao menos o tema da história: um dia na vida de Eric Packer (Robert Pattinson), um bilionário resultado da soma da especulação financeira com sua inteligência fora do comum ao transformar em dinheiro a commoditiy mais importante da nossa era: a informação. Sintetizando a frase anterior, como o próprio Eric o faria: um dia na era da informação.

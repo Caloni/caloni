@@ -1,7 +1,7 @@
 ---
 date: "2011-05-29"
 title: Novo branch para projetos do Caloni.com.br
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 [![](http://i.imgur.com/3aDY3rK.png)](http://i.imgur.com/fxh5Kvn.png)
 

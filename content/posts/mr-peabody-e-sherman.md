@@ -1,7 +1,7 @@
 ---
 date: "2015-01-01"
 link: "https://www.imdb.com/title/tt0864835"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "As Aventuras de Peabody & Sherman"
 ---
 Peabody (Ty Burrell) é um cão super-inteligente que nunca foi adotado por não se comportar como um pet convencional. Depois de ter ajudado a sociedade com uma série de invenções resolve adotar um garotinho, Sherman (Max Charles), o que gera algumas críticas da mesma sociedade que ajudou depois de uma briga na escola envolvendo seu filho. Se essa última frase, que envolve dizer que um garoto é filho de um cão, te incomoda, Mr. Peabody e Sherman é exatamente o filme que tenta quebrar esse estigma: a adoção de crianças por homossexuais. Sim, uma animação para crianças consegue levantar questões extremamente adultas de uma maneira super-divertida.

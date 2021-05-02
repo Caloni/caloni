@@ -1,7 +1,7 @@
 ---
 date: "2010-06-14"
 link: "https://www.imdb.com/title/tt0473075"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Príncipe da Pérsia: As Areias do Tempo"
 ---
 Inspirado pelo post recente do Daniel Quadros, um programador como eu, mas que gosta de se aventurar em outras áreas (como eu), resolvi publicar minhas impressões sobre esse filme de 2010, que assisti no cinema com o meu antigo caderno de anotações (hoje aposentado até segunda ordem). Minha ideia era apenas praticar minha sensibilidade sobre a sétima arte, mas aos poucos estou organizando os textos da época.

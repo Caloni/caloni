@@ -1,7 +1,7 @@
 ---
 date: "2015-01-06"
 link: "https://www.imdb.com/title/tt0019421"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Marinheiro de Encomenda"
 ---
 Esse filme, assim como Os Irmãos Cara-de-Pau, tem um ritmo que cozinha em fogo lento até uma sequência absurda e frenética (até para a época) envolvendo um acontecimento que muda todo o rumo da história. É difícil saber como toda ela foi criada: Buster Keaton é um especialista em trucagens cinematográficas, como já visto em Sherlock Jr. Porém, é impossível ficar impassível a tantos truques que além de impressionantes continuam colaborando com a narrativa.

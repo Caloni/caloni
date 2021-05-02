@@ -1,7 +1,7 @@
 ---
 date: "2016-11-30"
 link: "https://www.imdb.com/title/tt4466490"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Sieranevada"
 ---
 Sieranevada faz jus à descrição do Cinema, a sétima arte, como mundo dos sonhos, ou onde se sonha acordado. A sinopse deste filme: espiamos a vida de uma grande família durante os preparativos de uma refeição que parece que nunca vai ocorrer. Se isso parece um pouco fora de foco pra você, trago duas observações, uma objetiva e outra subjetiva, que podem ser importantes na hora de assisti-lo: o filme tem quase três horas de duração; e um dos seus maiores defeitos é ser curto demais.

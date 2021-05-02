@@ -1,7 +1,7 @@
 ---
 date: "2010-12-03"
 link: "https://www.imdb.com/title/tt1285016"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Rede Social"
 ---
 O objetivo de Fincher, assim como em Clube da Luta, é destrinchar situações e pensamentos da sociedade moderna. Dessa vez, ele usou uma história real e contemporânea para falar sobre a digitalização de nossas amizades, e nada como usar como exemplo a história do próprio criador da maior rede social de todos os tempos: o Facebook, atualmente com mais de 500 milhões de participantes.

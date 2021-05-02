@@ -1,7 +1,7 @@
 ---
 date: "2010-12-24"
 link: "https://www.imdb.com/title/tt1320082"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Concerto"
 ---
 Trama principal: o próprio concerto; trama secundária: a relação de Andrey e sua solista, Anne-Marie.

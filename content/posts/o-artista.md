@@ -1,7 +1,7 @@
 ---
 date: "2012-02-16"
 link: "https://www.imdb.com/title/tt1655442"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Artista"
 ---
 Logo no início do filme, me senti acompanhando uma digna e merecida reverência ao Cinema Mudo, presente nos primórdios da arte e que acabou durante a década de 30 (mesmo ainda com defensores ferrenhos e influentes, como Chaplin). Porém, mesmo que você não entenda nada de arte cinematográfica vale a pena acompanhar o arco dramático de George Valentin, que vivia seu auge no cinema ainda não-falado (apenas com músicas de fundo, geralmente tocadas ao vivo por uma orquestra), e que subitamente foi afastado pela novidade dos personagens que agora falavam diretamente, e não com a ajuda dos cartões de falas colocados após alguma declaração importante.

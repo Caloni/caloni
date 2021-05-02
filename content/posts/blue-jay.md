@@ -1,7 +1,7 @@
 ---
 date: "2016-12-10"
 link: "https://www.imdb.com/title/tt5912454"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Blue Jay"
 ---
 Antes eles imitavam o futuro. Hoje eles se reencontram e retornam ao passado. Um filme inteiro em preto e branco porque é sobre memórias. A beleza dos tons de cinza de um filme invocam a poesia da realidade. Porém, no paradoxo mais charmoso do Cinema, o p&b também torna a vida mais real.

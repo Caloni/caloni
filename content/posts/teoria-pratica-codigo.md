@@ -1,7 +1,7 @@
 ---
 date: "2020-06-21"
 link: "https://t.me/progclucb/29383"
-tags: [ "blog" ]
+categories: [ "blog" ]
 title: "Teoria, Prática e Código"
 ---
 Quando se está aprendendo programação é muito bom praticar escrevendo código. Muitos querem aprender a programar e não começam programando, e se você já começou colocando a mão na massa, parabéns por isso.

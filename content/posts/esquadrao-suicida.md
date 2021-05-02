@@ -1,7 +1,7 @@
 ---
 date: "2016-08-12"
 link: "https://www.imdb.com/title/tt1386697"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Esquadrão Suicida"
 ---
 As músicas deste filme faz com que o que ouvimos se torne infinitamente melhor do que o que vemos (e por "ver" eu quero dizer não só visualmente, mas as situações e os diálogos). Como prêmio de compensação, torna o pacote completo um pouquinho melhor.

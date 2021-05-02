@@ -1,7 +1,7 @@
 ---
 date: "2019-09-11"
 link: "https://www.imdb.com/title/tt0443584"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "100 Escovadas Antes De Dormir"
 ---
 Os hormônios da adolescência junto com a química da paixão geram altos e baixos tão extremos que é como se a natureza tivesse inventado a maneira perfeita de testar a resistência à vida antes mesmo da fase adulta. Enquanto isso os filmes de Hollywood mostram a paixão como algo sempre positivo, e se esquecem de que ela pode ser tão danosa quando uma doença.

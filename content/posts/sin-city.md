@@ -1,7 +1,7 @@
 ---
 date: "2016-10-09"
 link: "https://www.imdb.com/title/tt0401792"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Sin City: A Cidade do Pecado"
 ---
 Muitos não gostaram do resultado final em Sin City, um longa que emula com perfeição o visual de uma graphic novel. Isso, de certa forma, explica o marasmo do Cinema comercial, onde a mesmice é condecorada, e as criações originais, boas ou ruins, são vistas simplesmente como chatas. Não se engane: quando alguém diz que não gostou de algo diferente, na esmagadora maioria dos casos não é porque ela possui uma visão crítica com argumentos de por que aquilo, em sua visão, é ruim. É simplesmente porque, sabe como é, "eu só queria me divertir um pouco e deixar o cérebro em casa. E agora vocês querem que eu pense?"

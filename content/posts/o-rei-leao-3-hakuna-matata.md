@@ -1,7 +1,7 @@
 ---
 date: "2019-03-06"
 link: "https://www.imdb.com/title/tt0318403"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Rei Leão 3 Hakuna Matata"
 ---
 Se Shakespeare tivesse visto essa versão de Rei Leão ele teria feito uma segunda versão de Sonhos de Uma Noite de Verão. Subtítulo: Hakuna Matata.

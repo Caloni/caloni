@@ -1,7 +1,7 @@
 ---
 date: "2015-12-27"
 link: "https://www.imdb.com/title/tt3168230"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Mr. Holmes"
 ---
 Ian McKellen protagoniza um Sherlock Holmes no fim de sua vida, se divertindo no processo com expressões de um velho quase senil, aposentado após um caso que se arrepende de seu desfecho, embora não se lembre mais qual foi. Tudo o que resta são pequenas pistas e flashes que surgem conflitando com a versão ficcional de seu amigo já falecido, Dr. Watson. Acompanhado de seu jovem amigo Roger (Milo Parker), filho da governanta (Laura Linney), tenta escrever a versão real da história que causou sua aposentadoria.

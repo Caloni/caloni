@@ -1,7 +1,7 @@
 ---
 date: "2011-02-17"
 link: "https://www.imdb.com/title/tt1228987"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Deixe-me Entrar"
 ---
 Apesar de ser um remake, e os diálogos, os cenários e muitos ângulos se assemelharem ao original sueco de 2008, o filme estabelece seu próprio estilo baseado principalmente na trilha sonora, na fotografia e na maneira peculiar do diretor Matt Reeves contar um romance-terror entre dois jovens. Eu diria mais: o filme, do ponto de vista estético, empolga em um nível suficiente para renovar o defasado gênero de terror.

@@ -1,7 +1,7 @@
 ---
 date: "2019-08-05"
 link: "https://www.imdb.com/title/tt8083606"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Mulheres Armadas, Homens na Lata"
 ---
 Um espectro sonda a Europa -- o espectro do feminismo. Todas as nações europeias já o estão conjurando, sobretudo a França. Mulheres Armadas, Homens na Lata é o resultado. Um filme leve, dinâmico, divertido e que se tem uma preocupação que seja, é fazer essas garotas saírem por cima a qualquer custo.

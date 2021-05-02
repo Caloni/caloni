@@ -1,7 +1,7 @@
 ---
 date: "2017-08-21"
 link: "https://www.imdb.com/title/tt4326894"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "F is for Family - Segunda Temporada"
 ---
 Enquanto a primeira temporada afiava seu tom do humor para algo dos anos 70 que divertia os que não ligam para o politicamente correto ao mesmo tempo que demonstrava por que estamos na fase do politicamente correto, a sequência de F is for Family explora melhor seus personagens, dando a eles a medida certa de tempo em cena. Exceto pela caçula que quer ser programadora de computadores. E sempre que sua ambição aparece faz meus olhos brilharem.

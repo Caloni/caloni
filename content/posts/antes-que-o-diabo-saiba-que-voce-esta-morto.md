@@ -1,7 +1,7 @@
 ---
 date: "2012-05-02"
 link: "https://www.imdb.com/title/tt0292963"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Antes que o Diabo Saiba que Você Está Morto"
 ---
 Não é fácil perceber a genialidade de um dos diretores mais esquecidos pela academia (nunca ganhou um Oscar) e pelo público em geral. Regente de projetos aparentemente simplórios, mas que envolvem o espectador de uma maneira sem volta (Um Dia de Cão), quem leu seu livro Making Movies (Fazendo Filmes) percebe que sua maneira de trabalhar é ordenada e disciplinada, o que mais ou menos garante que os objetivos do filme estejam tanto no início do projeto quanto no final, na sessão de estreia.

@@ -1,7 +1,7 @@
 ---
 date: "2016-03-13"
 link: "https://www.imdb.com/title/tt2200144"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Demi-soeur"
 ---
 Essa comédia francesa com certeza segue o molde do estereótipo... "comédia francesa". Fala sobre amor em família, personagens cativantes e transformações de caráter.

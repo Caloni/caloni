@@ -1,7 +1,7 @@
 ---
 date: "2019-05-01"
 link: "https://www.imdb.com/title/tt0168629"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Dançando No Escuro"
 ---
 "Eu gosto de musicais porque nada de ruim acontece em musicais", diz a personagem de Björk. Bom, ela não contava com um musical por Lars Von Trier. Pobre garota.

@@ -1,7 +1,7 @@
 ---
 date: "2019-12-02"
 link: "https://www.imdb.com/title/tt0368913"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Osama"
 ---
 Escrito e dirigido pelo diretor afegão estreante em longas de ficção Siddiq Barmak, "Osama" se aproveita do timing trágico pós-atentado das Torres Gêmeas em Nova York, o ataque orquestrado cujo mandante foi o jihadista Osama Bin Laden, inimigo público número 1 dos EUA e do mundo dito civilizado. Esse timing nada tem a ver com o que se vê neste filme, que ficionaliza uma realidade muito próxima do próprio elenco que participa do filme.

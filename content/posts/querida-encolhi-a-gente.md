@@ -1,7 +1,7 @@
 ---
 date: "2015-01-26"
 link: "https://www.imdb.com/title/tt0119310"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Querida, Encolhi a Gente"
 ---
 Parece demais um filme inteiro com a ideia de mostrar como as crianças conseguem se virar sozinhas sem a presença dos pais. Ainda mais por se tratar de uma continuação da continuação e tentar reciclar velhas ideias da série usando os mesmo efeitos que hoje já se pode notar algumas marcas do passado. E isso em um filme de 97!

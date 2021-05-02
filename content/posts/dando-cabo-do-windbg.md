@@ -1,6 +1,6 @@
 ---
 date: "2014-06-18"
-tags: [ "code", "draft" ]
+categories: [ "code", "draft" ]
 title: "Dando cabo do WinDbg"
 ---
 Na semana passada falei sobre a ideia de comentar algumas mudanças entre o Windows XP e o novo mundo Vista/7/8/ que fizeram com que adaptássemos algum código que obviamente não funcionaria mais. Falamos sobre a famigerada GINA (ou famiGINADA), e agora apenas vou comentar brevemente sobre o sistema de boot, que também mudou.

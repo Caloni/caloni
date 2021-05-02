@@ -1,7 +1,7 @@
 ---
 date: "2018-07-29"
 link: "https://www.imdb.com/title/tt4477536"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Cinquenta Tons de Liberdade"
 ---
 Cinquenta Tons de Liberdade é um grande vídeo de casamento feito para um casal rico que tenta criar algum drama em suas vidas vazias e desinteressantes. Para isso se tornar minimamente assistível para nós, reles mortais e espectadores boquiabertos pelo fiapo de vida das pessoas ricas, foi necessário lotar o vídeo com mansões, jatos, iates, carrões, guarda-costas, alguns acontecimentos levemente empolgantes, uma trama sem sentido e com um clímax enjoativo, e a luxúria que parece tornar a sala vermelha do casal Grey a coisa mais sexy e controversa que existe no Cinema da atualidade. Esses americanos, aparentemente, nunca viram um filme europeu na vida.

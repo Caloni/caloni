@@ -1,7 +1,7 @@
 ---
 date: "2015-10-16"
 link: "https://www.imdb.com/title/tt1340138"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Exterminador do Futuro: Gênesis"
 ---
 Diferente dos outros dois filmes anteriores, Genesys resolve homenagear a saga original revendo as cenas clássicas do filme de 1984, refilmando-as com menos charme, e entregando novas reviravoltas. Como tradição, inova o modelo T-800, mais uma vez trazendo uma novidade da época, a nanotecnologia. Não se saindo tão mal quanto o terceiro filme, mas impedindo qualquer empatia do público com essas novas versões de Sarah Connor, Kyle Reese, John Connor e Terminator, sua "sacada genial" é revelada no meio da história, e para os que tiveram a sorte de não assistir nenhum trailer e não ver nenhum pôster, pode até ser uma surpresa, mas surpresas não necessariamente tornam um filme melhor, e nesse caso temos o efeito contrário.

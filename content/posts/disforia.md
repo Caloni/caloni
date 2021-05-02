@@ -1,6 +1,6 @@
 ---
 date: "2020-03-08"
-tags: [ "draft", "movies", "cinemaqui" ]
+categories: [ "draft", "movies", "cinemaqui" ]
 title: "Disforia"
 ---
 Não se pode negar que Disforia é um trabalho tenso e esteticamente chamativo. Contudo, ambientando naquele mundo revisitado tantas e tantas vezes pelo gênero do terror, habitado por psicólogos e casais traumatizados (aqui o filme tem ambos) e crianças amaldiçoadas, desde o começo sabemos que não se pode esperar muita coisa de ideias tão desgastadas e que aqui não fazem questão de ser contadas de outra forma. Até as frases parecem recicladas de algo já visto.

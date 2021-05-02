@@ -1,7 +1,7 @@
 ---
 date: "2016-03-31"
 link: "https://www.imdb.com/title/tt1663655"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Martyrs"
 ---
 Martyrs, como todo terror que se preza, possui uma história bem simples. O que o torna envolvente é a sua forma de representar a insanidade humana, seja através da religião ou de uma ideologia qualquer que utilize o ser humano como objeto de sacrifício.

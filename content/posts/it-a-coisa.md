@@ -1,7 +1,7 @@
 ---
 date: "2018-12-07"
 link: "https://www.imdb.com/title/tt1396484"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "It: A Coisa"
 ---
 O que é o medo? Eis uma pergunta extremamente importante para os que desejam adaptar a obra icônica de Stephen King, "It", onde o medo é descrito de maneira literária. E abstrata. Ela não é um palhaço aterrorizante, nem criaturas que saem dos quadros, nem qualquer clichê cinematográfico de filmes de horror.

@@ -1,7 +1,7 @@
 ---
 date: "2015-07-20"
 link: "https://www.imdb.com/title/tt1862079"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Sem Segurança Nenhuma"
 ---
 Até que não incomoda tanto o fato de Sem Segurança Nenhuma não se esforçar para sair de sua própria mediocridade, pois é possível constatar durante todo o trajeto guiado pela tensão de sua premissa inicial (a viagem no tempo) que há algo de agradável em sua eloquência, mesmo que seus personagens sejam batidos, suas histórias sejam clichês e suas piadas, assim como o melancólico Regular Show, tenham viajado para o presente direto dos anos 80.

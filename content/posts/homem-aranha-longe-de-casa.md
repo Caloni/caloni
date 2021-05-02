@@ -1,7 +1,7 @@
 ---
 date: "2019-07-17"
 link: "https://www.imdb.com/title/tt6320628"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Homem Aranha: Longe De Casa"
 ---
 Começando como uma Sessão da Tarde de férias e terminando com um Tom Holland um pouco mais maduro em seu papel de collant, "Spider-Man: Far from Home" é o filme que consolida o status-quo da Aranha-Teen junto da saga infinita da Marvel, a mega-produtora da série para o cinema. Com a vantagem em já possuir fãs assíduos da saga, o episódio conta com um casting minimalista de personagens e atores carismáticos que piscam o tempo todo sobre onde vivem, as aventuras que viveram e os heróis que eles conhecem. E que estão ocupados porque essa é a aventura de um adolescente e sua puberdade.

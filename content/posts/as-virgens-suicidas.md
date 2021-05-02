@@ -1,7 +1,7 @@
 ---
 date: "2019-03-31"
 link: "https://www.imdb.com/title/tt0159097"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "As Virgens Suicidas"
 ---
 O primeiro filme de Sofia Coppola, produzido pelo pai, ninguém menos que Francis Ford Coppola, é o debut de uma filhinha de papai que vai melhorando o estilo a cada novo filme, explorando a sofrida vida dos ricos, mas que nesse começa prepotente demais para um dramazinho adolescente cujo drama em si nunca é visto.

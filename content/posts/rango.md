@@ -1,7 +1,7 @@
 ---
 date: "2018-02-19"
 link: "https://www.imdb.com/title/tt1192628"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Rango"
 ---
 (Du)Rango para crianças (Kid) já nasce clássico. Aliás, ele venera praticamente todo e qualquer clássico velho oeste que gastou mais de um milhão para ser produzido (ou até alguns meio baratinhos). Com uma direção de arte detalhista e uma direção geral fascinada pelo Cinema, este é um trabalho visualmente impecável e artisticamente inesquecível.

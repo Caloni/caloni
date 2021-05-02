@@ -1,7 +1,7 @@
 ---
 date: "2019-10-17"
 link: "https://www.imdb.com/title/tt6760876"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Wasp Network"
 ---
 Wasp Network faz o melhor com o que tem para contar uma história confusa sem protagonista definido, e o diretor/roteirista Olivier Assayas nos traz um filme leve quando essa opção seria a única que não poderia ser escolhida.

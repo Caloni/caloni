@@ -1,6 +1,6 @@
 ---
 date: "2017-05-30"
-tags: [ "draft", "food" ]
+categories: [ "draft", "food" ]
 title: "Massa de Pizza Leve"
 ---
 

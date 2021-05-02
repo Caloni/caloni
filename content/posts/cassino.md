@@ -1,7 +1,7 @@
 ---
 date: "2016-02-10"
 link: "https://www.imdb.com/title/tt0112641"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Cassino"
 ---
 Vindo de Martin Scorsese (O Lobo de Wall Street, Taxi Driver, Touro Indomável), esse parece o Bons Companheiros -- que ele também dirige -- versão longa. É também sobre ascenção e queda, embora a ascenção pareça muito mais rápida que a queda. É sobre os bons e velhos tempos dos Cassinos em Las Vegas, a época das extorsões, da vista grossa, e onde os espertinhos eram tratados lá mesmo, em uma sala à parte, de preferência com um martelo. Ele conta a história de três tipos de pessoas que viviam por lá: o capanga violento e leal enquanto bem alimentado (Joe Pesci), a prostituta especialista em tomar dinheiro de apostadores (Sharon Stone) e alguém frio e calculista e disposto a atingir a perfeição para não perder seu lugar no que ele chama de paraíso (Robert De Niro).

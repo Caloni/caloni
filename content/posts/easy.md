@@ -1,7 +1,7 @@
 ---
 date: "2016-10-23"
 link: "https://www.imdb.com/title/tt5562056"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Easy"
 ---
 Easy é uma série muito interessante da Netflix. Ela explora os relacionamentos mostrando como eles, na verdade, são bem mais simples do que a esmagadora maioria das pessoas pensa que é. Todo o drama, as complicações, a falta de comunicação é traduzida em uma linguagem simples, de São Francisco, que envolve diferentes tipos de casais (ou outros) em diferentes tipos de situações. Seus pontos em comum? Tentar complicar o que é muito, muito simples.

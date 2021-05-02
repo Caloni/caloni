@@ -1,7 +1,7 @@
 ---
 date: "2017-02-04"
 link: "https://www.imdb.com/title/tt4080728"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Um Homem Chamado Ove"
 ---
 Um Homem Chamado Ove é um filme extremamente fácil de se ver. Indicado ao Oscar por filme estrangeiro e maquiagem, acaba sendo paradoxal ver um filme que se esforça tanto em ser tão agradável sobre um homem que parece fazer de tudo para não o ser.

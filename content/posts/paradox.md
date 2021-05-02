@@ -1,7 +1,7 @@
 ---
 date: "2017-04-01"
 link: "https://www.imdb.com/title/tt4540434"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Paradox"
 ---
 Paradox é o tipo de filme que vale a pena conferir pelos conceitos de seu roteiro. Ele é produzido em baixo orçamento, com fotografia de televisão, trilha sonora enlatada e atuações sofríveis. Porém, ignorando tudo isso, este é o filme de viagem no tempo que estava faltando: um que ironicamente evite nos colocar na velha questão dos paradoxos temporais.

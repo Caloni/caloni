@@ -1,7 +1,7 @@
 ---
 date: "2015-09-20"
 link: "https://www.imdb.com/title/tt3090670"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Advantageous"
 ---
 Este filme possui um conceito interessante com pouco substrato. São pessoas interagindo com uma pintura futurista ao fundo. Quando tudo termina, não há conflito, mas a concretização do que já se esperava no começo.

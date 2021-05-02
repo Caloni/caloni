@@ -1,7 +1,7 @@
 ---
 date: "2015-06-22"
 link: "https://www.imdb.com/title/tt2174934"
-tags: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , "cinemaqui" ]
 title: "Casadentro"
 ---
 Casadentro é um trabalho tão neo-realista quanto intimista. Baseado em quadros estáticos, o filme se dedica a mostrar como o ser humano ignora a passagem do tempo de sua própria vida, e ao mesmo tempo resolve discutir a relação entre quatro gerações debaixo do mesmo teto pelo período de 24 horas. Se sentindo tão opaco quanto os pensamentos dessas pessoas, o filme consegue acelerar um dia sem mover um centímetro de câmera. Conseguindo se mostrar presente durante todo o momento, o estilo de direção parece interessado demais que seja notado.

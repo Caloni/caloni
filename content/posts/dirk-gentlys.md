@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 link: "https://www.imdb.com/title/tt4047038"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Dirk Gently's Holistic Detective Agency - Primeira Temporada, Episódios 1 ao 3"
 ---
 Tudo que é britânico eu já tenho meu preconceito que diz que vai ser bom. Agora, tudo que é humor britânico, eu tenho minhas certezas.

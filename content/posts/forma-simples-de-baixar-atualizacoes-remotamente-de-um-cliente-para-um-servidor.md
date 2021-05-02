@@ -1,7 +1,7 @@
 ---
 date: "2017-03-23"
 title: "Forma simples de baixar atualizações remotamente de um cliente para um servidor"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 
 ---
 A forma mais simples e independente de código para efetuar essa tarefa para Windows é no servidor subir um file server em qualquer porta disponível, e a forma de file server mais simples que existe é o embutido em qualquer instalação Python:

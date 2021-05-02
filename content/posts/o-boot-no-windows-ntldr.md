@@ -1,7 +1,7 @@
 ---
 date: "2009-11-26"
 title: "O boot no Windows: NTLDR"
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 ![galinha-preta.jpg](http://i.imgur.com/Xkv51C4.jpg)Minhas análises estão demorando muito para ser feitas. Talvez seja a hora de revelar o pouco que sei (e pesquisei) sobre o próximo processo de boot do Windows: o NTLDR.
 

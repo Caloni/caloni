@@ -1,7 +1,7 @@
 ---
 date: "2012-05-19"
 title: Consumo abusivo de memória
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 Era um belo dia em um ambiente de processamento fictício de filas fictícias e threads fictícias. Eis um belo código com filas, threads e processamentos feitos em stop-motion:
 

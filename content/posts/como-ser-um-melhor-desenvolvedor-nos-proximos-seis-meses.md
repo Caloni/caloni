@@ -1,6 +1,6 @@
 ---
 date: "2007-07-18"
-tags: [ "blog" ]
+categories: [ "blog" ]
 title: "Como ser um melhor desenvolvedor nos próximos seis meses"
 ---
 Graças ao meu amigo Thiago estive acompanhando uma série de posts de gente renomada sobre o tema deste artigo. Eles fazem parte de uma nova modalidade entre os blogueiros (pelo menos para mim) chamada de tagging. Funciona assim: você escreve sobre algo (por exemplo, "como ser um melhor cozinheiro em 6 meses") e manda uma tag para que outras pessoas também escrevam sobre o mesmo assunto, o que pode ser feito referenciando o sítio dessas pessoas.

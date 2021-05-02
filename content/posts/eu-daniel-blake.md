@@ -1,7 +1,7 @@
 ---
 date: "2016-12-20"
 link: "https://www.imdb.com/title/tt5168192"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Eu, Daniel Blake"
 ---
 "Se não fosse o governo, os pobres morreriam de fome." Quantas vezes já não se ouviu essa argumentação em acaloradas discussões políticas, geralmente no conforto do lar? No entanto, ninguém morre de fome nesse filme, assim como dificilmente alguém hoje em dia morre de fome no mundo civilizado. Se há algo que morre (e esta é uma morte lenta e dolorosa) é a dignidade das pessoas honestas e trabalhadoras. E isso, podemos dizer com um certo grau de certeza, milhões de pessoas vivendo sob o regime de bem-estar social morrem, pelo menos um pouco, todos os dias. E a grande virtude de "Eu, Daniel Blake", novo filme de Ken Loach, é desvendar esse processo com o mínimo de dramatização possível.

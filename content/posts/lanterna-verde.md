@@ -1,7 +1,7 @@
 ---
 date: "2011-08-29"
 link: "https://www.imdb.com/title/tt1133985"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Lanterna Verde"
 ---
 Cada vez mais começo a acreditar que o uso de muitos roteiristas (nesse temos incríveis 7 pessoas colaborando!) acaba por nivelar por baixo uma história até com um certo potencial. Nesse novo filme de super-herói, a impressão geral que fica é que, ao tentar explicar tudo detalhadamente, para não restar dúvidas aos espectadores, foi feito um filme cuja chatice é inversamente proporcional ao número de efeitos visuais.

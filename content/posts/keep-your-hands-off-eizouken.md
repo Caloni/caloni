@@ -1,7 +1,7 @@
 ---
 date: "2020-10-04"
 link: "https://www.imdb.com/title/tt10320398"
-tags: [ "animes" ]
+categories: [ "animes" ]
 title: "Keep Your Hands Off Eizouken!"
 ---
 Este anime apela para fãs do anime, mas também apela para fãs de arte. E a arte neste primeiro episódio é primorosa. Em um jogo de estilo pelo estilo, a primeira cena da história da vinda de Midori Asakusa para seu novo habitat (um clichê típico) se transforma em um mini-guia do que será este episódio, mas também serve como um guia para o que podemos esperar de toda a temporada ou série, validando minha opinião de que para avaliar um anime bastam alguns minutos (claro que ele pode logo depois distorcer tudo porque uma equipe diferente foi contratada, mas você pegou a ideia).

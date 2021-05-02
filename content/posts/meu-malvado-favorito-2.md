@@ -1,7 +1,7 @@
 ---
 date: "2013-07-09"
 link: "https://www.imdb.com/title/tt1690953"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Meu Malvado Favorito 2"
 ---
 Apesar de suas fraquezas expostas por uma trama simplista, [Meu Malvado Favorito] (2010) possui momentos divertidos demais para ser esquecido (ainda mais se comparado com franquias já bem mais desgastadas, como [A Era do Gelo] e [Madagascar]). Pegando carona no sucesso conquistado, a sua sequência explora melhor a relação entre seus personagens sem deixar de perder a sua identidade: piadas ligeiras e rasteiras que divertem pontualmente e dialogam muito bem com seu público.

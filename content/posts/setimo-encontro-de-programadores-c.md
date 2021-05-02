@@ -1,7 +1,7 @@
 ---
 date: "2010-07-26"
 title: Sétimo Encontro de Programadores C++
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 Mais um fim-de-semana no ócio e na vadiagem. Tenho que manter minhas [qualidades de bom programador](http://c2.com/cgi/wiki?LazinessImpatienceHubris) que sou: preguiçoso, impaciente e pretensioso.
 

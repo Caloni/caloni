@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 link: "https://www.imdb.com/title/tt4922804"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "3%: spoilers sobre uma série para bandidos"
 ---
 Michele e Rafael são idiotas úteis movidos por vingança -- e que poderia muito bem ser outro sentimento negativo, como inveja -- e instrumentados por um movimento semelhante ao PCC de São Paulo, Brasil. Seu objetivo como grupo é claro: roubar a riqueza dos que prosperam do "lado de lá", uma sociedade formada inteiramente através de um processo meritocrático, e que não precisou de nem um centavo das milhares de miseráveis que sobrevivem como selvagens em uma grande favela sem leis chamada de "lado de cá".

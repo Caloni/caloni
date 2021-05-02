@@ -1,7 +1,7 @@
 ---
 date: "2016-05-14"
 link: "https://www.imdb.com/title/tt4466336"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Os Anarquistas"
 ---
 Uma névoa cinzenta cobre a fotografia de Os Anarquistas, um filme que trata mais da desesperança de um grupo revolucionário à margem de qualquer comparação do que a possibilidade de vitória.

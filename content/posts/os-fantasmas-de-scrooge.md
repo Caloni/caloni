@@ -1,7 +1,7 @@
 ---
 date: "2011-03-21"
 link: "https://www.imdb.com/title/tt1067106"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Os Fantasmas de Scrooge"
 ---
 Jim Carrey em Motion Capture é, em poucas palavras, inusitadamente fabuloso. O trabalho feito em seu personagem, protagonista do clássico conto de Charles Dickens, que se mantém homônimo no título original, é, de longe, um trabalho rebuscado tanto nas expressões quanto nos movimentos do boneco através dos cenários igualmente trabalhados à exaustão.

@@ -1,7 +1,7 @@
 ---
 date: "2016-11-17"
 link: "https://www.imdb.com/title/tt1679335"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Trolls"
 ---
 Um milagre acontece. E está um bom ano para milagres em animação. trolls, assim como Angry Birds como adaptação de games e Zootopia como a contemporaneidade da vida social, consegue se tornar um exemplo ainda melhor de como pegar um fiapo de argumento -- brinquedos feios da década de 80/90 -- e transformar em uma ode à felicidade, à referência de uma era, ao retorno da simples e não-cínica vida comum.

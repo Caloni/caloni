@@ -1,7 +1,7 @@
 ---
 date: "2016-01-16"
 link: "https://www.imdb.com/title/tt0097523"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Querida, Encolhi as Crianças"
 ---
 Os efeitos estão datados, mas nem por isso não funcionam em sua maioria. Rick Moranis está hilário procurando seus filhos com uma lupa sobre seus óculos pendurado no jardim suspenso por uma televisão. Seus vizinhos são malucos em um sentido diferente, mas todos eles possuem um objetivo no roteiro esquemático: juntar novamente a família. O feminismo, quem diria, sempre foi um mote na série.

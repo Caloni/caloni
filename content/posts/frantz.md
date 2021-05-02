@@ -1,7 +1,7 @@
 ---
 date: "2017-05-26"
 link: "https://www.imdb.com/title/tt5029608"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Frantz"
 ---
 Ao final de Frantz, apesar de ensaiar uma mensagem de esperança, há ainda um peso imenso a ser erguido quando nos levantamos da poltrona. Este é um filme que explora seu tema de forma tão sistemática e apaixonada que não sobram muitas lacunas para onde irá o espectador mais crítico se esconder. Ainda que seja um drama um tanto exagerado, não se pode acusá-lo de não ser honesto. E assim como ao final de uma guerra, não sobram perdedores e vitoriosos, mas dois lados ressentidos e amargurados que se mantém em estado de melancolia generalizada.

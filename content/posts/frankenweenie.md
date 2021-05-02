@@ -1,7 +1,7 @@
 ---
 date: "2012-11-16"
 link: "https://www.imdb.com/title/tt1142977"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Frankenweenie"
 ---
 Desde o início há algo de mágico em Frankenweenie. Baseado em um curta dirigido pelo próprio Tim Burton e, quem diria, produzido pela Disney, o diretor e roteiro repetem os mesmos passos certeiros do trabalho original, conseguem desviar dos errados e acrescentam, além de uma divertidíssima homenagem ao Terror em seus momentos mais fortes, uma saudável discussão em torno de como as pessoas enxergam a ciência hoje em dia. Afinal de contas, o Frankestein de Mary Shelley nunca esteve tão presente nas discussões de botequim, misturado com superstições religiosas que continuam assombrando-nos até hoje.

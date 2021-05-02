@@ -1,7 +1,7 @@
 ---
 date: "2011-08-17"
 link: "https://www.imdb.com/title/tt0478304"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Árvore da Vida"
 ---
 O início de O Filme: Um Estudo Psicológico (1916), de Hugo Münsterberg, primeiro livro sobre crítica da história do cinema, coloca o fenômeno da percepção do movimento nos olhos de quem vê. A interpretação que fazemos das imagens estáticas em sequência é subjetiva, de forma que, mesmo que o autor da obra tenha escolhido o que filmar, é o espectador que irá extrair da imagem o significado. Dessa forma, um filme, como toda obra de arte, apenas se comunica quando houver um espectador, que irá se relacionar diretamente com a obra e a filtrar pelas nossas experiências de vida e como enxergamos a realidade à nossa volta.

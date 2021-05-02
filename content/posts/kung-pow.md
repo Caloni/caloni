@@ -1,7 +1,7 @@
 ---
 date: "2015-08-23"
 link: "https://www.imdb.com/title/tt0240468"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Kung Pow - O Mestre da Kung-Fu-São"
 ---
 Como todo fã de Tela Class, a redublagem de filmes de artes marciais da década de 70 pelos comediantes Hermes e Renato, seria de se esperar que a expectativa em torno de Kong Pow, um filme completamente redublado e com novos atores "anexados" à construção da cena original, fosse alta pelo desafio que este representa. No entanto, a expectativa se torna frustração na maioria do tempo, pois parece que o real objetivo de Steve Oedekerk (Ace Ventura 2 - Um Maluco na África) é menos homenagear essas obras esquecidas em cineclubes empoeirados e na programação da TV Aberta (estou olhando para você, Band) e mais realizar uma espécie de paródia que ataca a obra original de uma maneira não muito... polida.

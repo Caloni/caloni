@@ -1,7 +1,7 @@
 ---
 date: "2017-03-05"
 link: "https://www.imdb.com/title/tt3315342"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Logan"
 ---
 O diretor e roteirista James Mangold apresenta um fechamento de personagem que soa estranho aos fãs da Marvel mais coloridos e menos afoitos com a dura realidade da vida: pessoas morrem nesses filmes.

@@ -1,7 +1,7 @@
 ---
 date: "2011-04-27"
 link: "https://www.imdb.com/title/tt0204824"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Revolução dos Bichos"
 ---
 Nunca recomendo a ninguém que leia um livro antes de assistir à sua adaptação cinematografia. Por motivos óbvios. É grande a chance que a pessoa irá se decepcionar com relação a detalhes ou omissões do roteiro, construção de personagens e cenários que já estavam dentro do imaginário do espectador antes mesmo dele vislumbrar a primeira cena do filme. Isso pode ser maléfico em muitos casos, e benéfico em raríssimas exceções, das quais lembro de cabeça apenas Contato.

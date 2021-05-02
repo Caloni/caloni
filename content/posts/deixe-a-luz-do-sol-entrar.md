@@ -1,7 +1,7 @@
 ---
 date: "2018-03-24"
 link: "https://www.imdb.com/title/tt6423776"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Deixe a Luz Do Sol Entrar"
 ---
 O estado de luto pró-ativo, ou limbo, é onde a personagem da agradabilíssima Juliette Binoche parece estar, devaneando em torno de inúmeros homens. Mas ela não morreu, nem seu companheiro. Não se trata de um detalhe da história de fato, mas uma das inúmeras metáforas que vamos colecionando no decorrer de "Deixe a Luz do Sol Entrar". Vestida sempre de preto com detalhes escuros ela se senta eternamente nessa montanha russa de emoções aguardando por alguém que a preencha.

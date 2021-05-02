@@ -1,7 +1,7 @@
 ---
 date: "2015-05-19"
 link: "https://www.imdb.com/title/tt0470752"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Ex Machina"
 ---
 Um exercício filosófico em forma de filme que entrega um thriller que prende a atenção do começo ao fim, mas que por evitar usar palavras "complicadas", ou melhor dizendo, empregar relações mais complexas entre seus personagens, constrói uma experiência "sanitizada". Todo o ambiente reflete isso: as paredes acinzentadas, as portas idênticas, os padrões geométricos repetidos. Porém, ao usar vidros por todos os lados e diálogos reveladores, há pelo menos uma coisa que somos obrigados a encarar de frente: a nossa humanidade sendo roubada por nossa própria criação.

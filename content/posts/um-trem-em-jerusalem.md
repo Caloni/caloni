@@ -1,7 +1,7 @@
 ---
 date: "2018-10-26"
 link: "https://www.imdb.com/title/tt8896640"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Um Trem Em Jerusalem"
 ---
 Esses filmes do diretor sionista que exibe pedaços da vida de várias pessoas cruzando a Terra Santa são mensagens confusas e ambíguas, de um naturalismo capenga porque canalha. Esse mais recente, "Um Trem em Jerusalém", próximo de seu final nos dá vontade de falar ao seu diretor: vá para casa, Amos Gitai; você está bêbado.

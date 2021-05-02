@@ -1,7 +1,7 @@
 ---
 date: "2016-01-04"
 link: "https://www.imdb.com/title/tt3948438"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Loucas pra Casar"
 ---
 Dirigido e escrito como uma telenovela, Loucas Pra Casar tem uma boa ideia para uma peça de teatro (talvez até seja) e tenta esticá-la em um filme inteiro usando uma estrutura baseada em episódios descartáveis e bobos, tornando toda a experiência um exercício de futilidade com nenhuma tensão e zero carisma.

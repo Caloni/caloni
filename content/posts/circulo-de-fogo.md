@@ -1,7 +1,7 @@
 ---
 date: "2013-08-10"
 link: "https://www.imdb.com/title/tt1663662"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Círculo de Fogo"
 ---
 Ao contrário de [Homem de Aço], que apesar de voar se esforça em manter seus dois pés no chão da realidade, Círculo de Fogo parece navegar por outras águas, sempre disposto a impulsionar sua fantasia em direção daquele mundinho que habita nossa mente de criança (espero que você ainda a tenha) em busca de desafios cada vez maiores para nossos gigantes heróis. 

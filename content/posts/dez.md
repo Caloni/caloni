@@ -1,7 +1,7 @@
 ---
 date: "2019-03-31"
 link: "https://www.imdb.com/title/tt0301978"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Dez"
 ---
 Limitados pela visão do banco do motorista e do passageiro de um carro acompanhamos uma mulher em sua nova vida. Divorciada com um filho que não a apoia ela conversa com algumas pessoas. O filme é tão realista que perde a graça na segunda ou terceira conversas de "Dez" que o diretor Abbas Kiarostami quer nos mostrar, divididas por um contador regressivo super-brega.

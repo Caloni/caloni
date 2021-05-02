@@ -1,7 +1,7 @@
 ---
 date: "2015-04-19"
 link: "https://www.imdb.com/title/tt3956754"
-tags: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , "cinemaqui" ]
 title: "A Vida Privada dos Hipopótamos"
 ---
 Se eu te dissesse que vou te contar uma história incrível, que fez até que eu desistisse de um outro projeto na minha vida apenas para contá-la, você provavelmente criaria expectativas absurdas antes mesmo de eu começar a falar. Da mesma forma, a expectativa gerada no começo de "A Vida Privada dos Hipopótamos" apenas consegue fazer que você não saia muito satisfeito no final.

@@ -1,7 +1,7 @@
 ---
 date: "2019-06-17"
 link: "https://www.imdb.com/title/tt0240419"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Pântano"
 ---
 É daqueles filmes intimistas que fala sobre a família em tempos bucólicos, sem maldade, com geladeira velha e matriarca que não para de beber. O que deu de errado com essa família de classe média baixa?

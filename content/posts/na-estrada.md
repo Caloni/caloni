@@ -1,7 +1,7 @@
 ---
 date: "2012-07-31"
 link: "https://www.imdb.com/title/tt0337692"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Na Estrada"
 ---
 É impressionante a capacidade que este filme tem de se manter coeso e tenso, apesar de cansativo. Porém, esse cansaço, permita-me deduzir, é proposital: estamos vendo uma história que se passa principalmente em horas de viagem, preenchidas pelos diálogos, sentimentos e sensações dos amigos/amantes de Dean Moriarty (Garrett Hedlund), uma dessas pessoas com personalidade magnética. Ele atrai inclusive o jovem escritor Sal Paradise (Sam Riley), que busca se envolver em sua vida justamente para conseguir material para seu primeiro grande livro.

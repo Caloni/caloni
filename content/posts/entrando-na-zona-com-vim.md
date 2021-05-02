@@ -1,7 +1,7 @@
 ---
 date: "2017-01-05"
 title: "Entrando na zona com Vim"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 
 ---
 Se você é programador é bem provável que já tenha ouvido falar em [Flow] [1] ou [The Zone] [2]. Se for leitor assíduo do Hacker News, então, nem se fala. De qualquer forma, uma das maneira mais produtivas do programador programar é entrar na famosa "zona". É lá que muito de nós nascemos. Lembra a primeira vez que mexeu em um computador ou afim e ficou tão obcecado que não viu o tempo passar? Pois bem. Você esteve na zona. E estar nela é um bom lugar para trabalhar.

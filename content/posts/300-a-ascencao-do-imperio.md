@@ -1,7 +1,7 @@
 ---
 date: "2014-03-25"
 link: "https://www.imdb.com/title/tt1253863"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "300: A Ascensão do Império"
 ---
 Esse é um filme nitidamente encomendado para pegar carona no sucesso do original de Zack Snyder (que dirigiu o primeiro "300" e assina o roteiro deste novo) baseado em seu público potencial, que aparentemente sente prazer em ver pessoas musculosas arrancando sangue de pessoas/bonecos genéricos em câmera lenta. Tudo de forma estilizada, é claro, mas, dessa vez, sem o preciosismo visual que tornava seu antecessor tão fascinante.

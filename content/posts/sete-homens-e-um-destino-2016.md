@@ -1,7 +1,7 @@
 ---
 date: "2016-10-12"
 link: "https://www.imdb.com/title/tt2404435"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Sete Homens e um Destino"
 ---
 Remake do clássico de Akira Kurosawa em 1960, série televisiva em 1998, e agora uma revisita muito bem-vinda à história da defesa dos fracos e oprimidos por matadores profissionais. Menos pela discussão da questão da honra dos sete homens do título; mais como lente de aumento das mudanças ocorridas nos EUA que o fizeram sair do título de país da liberdade para uma ditadura socialista em questão de décadas.

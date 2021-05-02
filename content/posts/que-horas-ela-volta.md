@@ -1,7 +1,7 @@
 ---
 date: "2015-09-15"
 link: "https://www.imdb.com/title/tt3742378"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Que Horas Ela Volta?"
 ---
 "Que Horas Ela Volta" tem a virtude de conseguir se tornar um filme essencial para a discussão contemporânea e ao mesmo tempo se entregar a uma cartilha retrógrada que é usada a cada momento como combustível para uma esquerda brasileira (igualmente retrógrada) com sede de vingança e miopia de caráter.

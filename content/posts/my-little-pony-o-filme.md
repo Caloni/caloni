@@ -1,7 +1,7 @@
 ---
 date: "2017-10-16"
 link: "https://www.imdb.com/title/tt4131800"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "My Little Pony: O Filme"
 ---
 "My Little Pony: O Filme" continua sendo tudo que os fãs de My Little Pony poderiam querer mais um pouco. E estou falando até dos fãs adultos da série de animação. Applejack, Rainbow Dash e suas amigas continuam usando o poder da amizade para enfrentar todos os perigos e transformar seus inimigos em leais aliados.

@@ -1,7 +1,7 @@
 ---
 date: "2011-02-20"
 link: "https://www.imdb.com/title/tt1243957"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Turista"
 ---
 Há filmes que enriquecem ainda mais em uma revisita (O Sexto Sentido, Donnie Darko, Cidade dos Sonhos). Porém, ter um segredo final que pode mudar tudo o que vínhamos assistindo desde o início nem sempre se revela uma boa ideia (Os Esquecidos, A Caixa, A Passagem). Infelizmente, O Turista se encaixa nessa segunda situação.

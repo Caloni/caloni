@@ -1,6 +1,6 @@
 ---
 date: "2017-04-18"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "No Meio de Nós"
 ---
 Antes de tudo, um alerta: este filme não é um documentário. Documentários, mesmo os mais parciais, ao menos tentam buscar informações e apresentá-los ao espectador da maneira mais clara e inteligível possível. Já "No Meio de Nós" reúne uma série de especialistas em diferentes áreas de conhecimento e esoterismo para juntos realizar o que não consegue parecer muito diferente de um vídeo publicitário. O que ele vende? O livro Mergulho no Hiperespaço, de um General Ufólogo da década de 60, e o próprio filme, lançado no site da produtora em DVD esta semana.

@@ -1,7 +1,7 @@
 ---
 date: "2016-10-21"
 link: "https://www.imdb.com/title/tt5354986"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Profundidade Dois"
 ---
 Um documentário que é uma peça de museu. Fala sobre um massacre "de guerra" feito em civis perpetrado pelos capangas psicopatas de um presidente. Bom, o que há de novo? 100% dos massacres são assim.

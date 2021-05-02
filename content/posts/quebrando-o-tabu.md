@@ -1,7 +1,7 @@
 ---
 date: "2011-06-23"
 link: "https://www.imdb.com/title/tt1951090"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Quebrando o Tabu"
 ---
 Existem filmes que não são apenas interessantes de se assistir como mais uma manifestação de arte. Os documentários, por natureza, quase sempre tentam nos envolver em algum tipo de realidade que, por muitas vezes não fazer parte da nossa, é preciso ser escancarada e dissecada da maneira como os idealizadores do projeto acreditam ser importante.

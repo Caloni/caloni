@@ -1,7 +1,7 @@
 ---
 date: "2018-10-07"
 link: "https://www.imdb.com/title/tt3416742"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Que Fazemos nas Sombras"
 ---
 Taika Waititi é um diretor neo-zelandês. Ele uma fez fez um filme chamado Loucos por Nada, um indie onde estrelava o curioso ator Jemaine Clement. Sete anos depois os dois dirigem e estrelam este O Que Fazemos nas Sombras, que é uma versão mais longa de um trabalho homônimo feito em 2005. Então, vejam bem, esses cineastas estão empenhados em explorar as partes bizarras da existência humana, como seus mitos, em forma de mocumentário.

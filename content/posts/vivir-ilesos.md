@@ -1,7 +1,7 @@
 ---
 date: "2019-10-15"
 link: "https://www.imdb.com/title/tt9682578"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Vivir Ilesos"
 ---
 Vivir Ilesos começa deixando claro, talvez até demais, que é um filme de baixo orçamento. Ele se aproveita de um elenco medíocre para fazer referência a filmes policiais lado B dos anos 70. Por que ele faz isso? Porque o resultado é risível.

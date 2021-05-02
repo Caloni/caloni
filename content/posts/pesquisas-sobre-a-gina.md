@@ -1,6 +1,6 @@
 ---
 date: "2008-07-02"
-tags: [ "code", "draft",  ]
+categories: [ "code", "draft",  ]
 title: "Pesquisas sobre a GINA"
 ---
 Já sabemos o que é uma GINA. Afinal, todo mundo já viu uma antes. E sabemos que hoje em dia ela está morta.

@@ -1,7 +1,7 @@
 ---
 date: "2018-08-28"
 link: "https://www.imdb.com/title/tt8792492"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Como é Cruel Viver Assim"
 ---
 Um "pai de família" procura um emprego de taxista. E nem como taxista ele é aceito. Então ele caminha pela rua, observa os transeuntes em uma praça, e avista uma senhora idosa vendendo alguma coisa de aspecto sujo em uma forma levantada pelo seu único braço. O outro braço ela não tinha. Ele tem um insight, e decide que precisa fazer um sequestro para conseguir ter meios para viver.

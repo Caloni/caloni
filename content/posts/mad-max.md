@@ -1,7 +1,7 @@
 ---
 date: "2014-11-30"
 link: "https://www.imdb.com/title/tt0079501"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Mad Max"
 ---
 Um dos primeiros filmes que aborda perseguições de carros e motos em estradas, amado pela sua geração a ponto de virar cult. Vou confessar, no entanto, que a primeira metade do filme hoje em dia é lenta e um tanto decepcionante. A abordagem realista do diretor George Miller é sabotada por ele próprio ao usar uma trilha sonora de suspense de ficção científica dos anos 60 e enfocar constantemente um corvo ou uma ave que se alimenta dos corpos deixados na estrada, criando uma fuga do drama da história, esse sim, sensível o suficiente para que prestemos atenção nas condições deploráveis da polícia daquela época e dos habitantes das cidades desérticas do que pode muito bem ser qualquer lugar onde o motorista senta do lado "errado" do carro. O "futuro" de Mad Max é muito mais os queridos anos 70, e não há a menor tentativa de futurizá-lo.

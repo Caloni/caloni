@@ -1,7 +1,7 @@
 ---
 date: "2019-01-18"
 link: "https://www.imdb.com/title/tt2386490"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Como Treinar Seu Dragão 3"
 ---
 Enquanto as animações quase sempre tentam se concentrar no poder de encantar e divertir seu público mais jovem através de piadas e caminhos fáceis de superação dos seus mini heróis, a saga Como Treinar Seu Dragão se arisca cada vez mais em flertar com a o rito de passagem do seu herói, Soluço, que caminha da puberdade para se tornar não apenas um adulto, mas o líder do povo que seu pai liderou.

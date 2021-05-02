@@ -1,7 +1,7 @@
 ---
 date: "2012-02-19"
 link: "https://www.imdb.com/title/tt1568346"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Millennium: Os Homens que Não Amavam as Mulheres"
 ---
 O filme é um remake do sueco homônimo de dois anos atrás, sendo que ambos foram criados a partir da mesma fonte: o primeiro livro da trilogia escrita por Stieg Larsson que se tornou um best-seller póstumo (Larsson faleceu um ano antes da primeira publicação). Dadas essas condições, me parece que o projeto possui uma missão particularmente difícil: adaptar um livro complexo por conter uma trama cheio de detalhes que se debruça sobre a psique de seus personagens (e são muitos) e sair-se melhor do que o filme original (do contrário, para que fazer de novo?).

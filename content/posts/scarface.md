@@ -1,7 +1,7 @@
 ---
 date: "2014-05-10"
 link: "https://www.imdb.com/title/tt0086250"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Scarface"
 ---
 Scarface é um clássico instantâneo, desses que nasce um dia e já gera uma multidão de fãs. O mais novo seriado de sucesso, Breaking Bad, faz praticamente uma apologia ao filme de Brian de Palma. Porém, diferente de Walter White, Tony Montana já se mostra um bicho ruim desde a primeira cena, interrogado e acuado por americanos que precisam verificar quais dentre os milhares de cubanos que chegaram ao "país da liberdade" são criminosos. Tony se denomina um preso político, e fala horrores do regime e da figura de Fidel Castro. Sua revolta contra o comunismo encontrará uma rima poética em suas reclamações contra os capitalistas ambiciosos depois de um arco de quase três horas de duração ter se fechado.

@@ -1,7 +1,7 @@
 ---
 date: "2016-01-09"
 link: "https://www.imdb.com/title/tt0362270"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Vida Marinha com Steve Zissou"
 ---
 A Vida Marinha e Terrestre por Wes Anderson. Esse é o diretor que brinca com cenários paralelos e movimentos geométricos de câmera e revela sem nenhum pudor a excentricidade de seus personagens. Do ponto de vista da narrativa, ele brinca também com eles -- seus personagens -- como curiosidades dignas de serem abertas e analisadas através da inteligência de seus idealizadores -- os atores -- e como a interação entre eles revela isso é o mais interessante em sua cinematografia.

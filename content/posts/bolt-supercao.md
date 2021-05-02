@@ -1,7 +1,7 @@
 ---
 date: "2013-12-13"
 link: "https://www.imdb.com/title/tt0397892"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Bolt: Supercão"
 ---
 O grande trunfo de "Bolt" em sua narrativa é primeiro nos brindar com cenas megalomaníacas de ação (ecos de Os Incríveis) e nos fazer acreditar que Bolt, que faz rima não-ocasional com "bold", ou seja, "corajoso, valente", de fato possui todos esses poderes. Mesmo assistindo pela segunda vez o truque permanece pela eficiência dos cortes e enquadramentos, que conseguem inclusive nos enganar a ponto de não pensarmos como eles podem cruzar uma cidade inteira se tudo termina dentro de um estúdio.

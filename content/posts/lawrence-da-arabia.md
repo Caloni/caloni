@@ -1,7 +1,7 @@
 ---
 date: "2016-01-18"
 link: "https://www.imdb.com/title/tt0056172"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Lawrence da Arábia"
 ---
 Nota: O filme que estou me referindo é a versão restaurada por Robert A. Harris com a supervisão do diretor David Lean, em 1989. Ela exclui alguns diálogos e, se formos considerar o tamanho da versão original, creio que podemos descartar as menores diferenças entre as duas. Além disso, essa versão também recebeu um tratamento de restauração para ser lançada em DVD em 2000 por Martin Scorsese e Steven Spielberg. Scorsese, como se sabe, é um ávido militante pela restauração de obras clássicas do Cinema e mantém um acervo digital inestimável.

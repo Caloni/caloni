@@ -1,7 +1,7 @@
 ---
 date: "2014-09-25"
 link: "https://www.imdb.com/title/tt2395695"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Cosmos: Uma Odisséia do Espaço-Tempo"
 ---
 Esse é um remake atualizado da série homônima dos anos 80 apresentada por Carl Sagan, um astrônomo famoso na época (até hoje, na verdade) e que ficou famoso para mim quando assisti (e li) o clássico absoluto de ficção científica Contato. Essa versão do programa, com visual e conteúdo atualizados, possui como apresentador também um "pop-star" da ciência: Neil deGrasse Tyson, um atrofísico renomado que curiosamente era fã e chegou a visitar Sagan ainda bem jovem. Sagan indiretamente o influenciou a se tornar o cientista que ele é hoje. Descobrimos isso no primeiro episódio em uma sequência particularmente tocante, pois também descobrimos como eram altos os valores humanos do atrônomo e como ser bom com as pessoas pode mudar uma vida.

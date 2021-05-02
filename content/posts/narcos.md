@@ -1,7 +1,7 @@
 ---
 date: "2015-09-11"
 link: "https://www.imdb.com/title/tt2707408"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Narcos"
 ---
 Assisti os três (quatro?) primeiro episódio de Narcos, a série da Netflix produzida por José Padilha (Tropa de Elite) e que dirigiu o piloto. No elenco, Wagner Moura faz o famigerado criminoso que roubou o dinheiro dos americanos e os corações dos colombianos em um negócio ilegal que custou vidas e uma investigação difícil da polícia.

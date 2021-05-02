@@ -1,7 +1,7 @@
 ---
 date: "2019-05-06"
 link: "https://www.imdb.com/title/tt8301540"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Dias Vazios"
 ---
 Dias Vazios repousa convenientemente no marasmo narrativo da metalinguagem e na filosofia barata de Nietzsche. Não barata no sentido de ordinária, mas no sentido de leitura adolescente sobre o vazio da vida. Aliás, é por isso que Nietzsche é pop: graças ao Super-Homem, e não aquela baboseira de que Deus está morto.

@@ -1,7 +1,7 @@
 ---
 date: "2017-01-12"
 link: "https://www.imdb.com/title/tt4975722"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Moonlight: Sob a Luz do Luar"
 ---
 Moonlight contém uma história simples demais depois que é desvendada. Porém, esse não é um filme que foca em sua história, mas sim em seus personagens. Ele usa toda técnica disponível para explorar o isolamento afetivo dessas pessoas, e por algum motivo, de dentro de suas sutilezas, acaba berrando seu estilo aos quatro ventos, como se o estilo por si só criasse um grande filme.

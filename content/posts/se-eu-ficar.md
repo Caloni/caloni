@@ -1,7 +1,7 @@
 ---
 date: "2015-05-04"
 link: "https://www.imdb.com/title/tt1355630"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Se Eu Ficar"
 ---
 Fale-me mais sobre clichês. Esse filme tem de montes e nenhum é usado direito. Há a narrativa em off de uma protagonista que faz questão de ser desinteressante (mas parece que o filme acha o fato dela tocar violoncelo cool o suficiente para ser uma personagem digna de ser seguida), mas que mesmo assim arrisca nos primeiros 10 segundos a se comparar com Beethoven. Há o romance entre um casal igualmente desinteressante, mas que o filme acha muito cool pelo fato do rapaz cantar em uma banda e juntos formarem dois "extremos" musicais. Por fim, ele acha a família da moça tão cool que até evita falar muito sobre eles, para quando todos morrerem não fazerem a mínima falta, por mais que a garota berre ao saber do seu irmão mais novo.

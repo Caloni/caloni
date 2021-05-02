@@ -1,7 +1,7 @@
 ---
 date: "2011-06-12"
 link: "https://www.imdb.com/title/tt0121766"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Star Wars, Episódio III: A Vingança dos Sith"
 ---
 A impressão que temos ao assistir o último capítulo da nova saga criada por George Lucas é que este preparou os [dois] [filmes] iniciais tão somente para ter a chance de produzir este terceiro, tamanho o peso narrativo que o diferencia dos seus antecessores.

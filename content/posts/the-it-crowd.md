@@ -1,7 +1,7 @@
 ---
 date: "2018-04-16"
 link: "https://www.imdb.com/title/tt0487831"
-tags: [ "series" ]
+categories: [ "series" ]
 title: "The IT Crowd"
 ---
 Já tentou desligar e ligar o computador de novo? Sabe o que quer dizer TI?  Então talvez você goste dessa comédia britânica em formato de sitcom e seus momentos quase fora da realidade, que nos faz lembrar de maneira muito divertida como (não) funciona o ecossistema do pessoal de suporte técnico.

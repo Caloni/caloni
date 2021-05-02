@@ -1,7 +1,7 @@
 ---
 date: "2017-09-15"
 link: "https://www.imdb.com/title/tt1536537"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Onde Está Segunda?"
 ---
 Hoje em dia até os títulos dos filmes encomendados pela Netflix são ruins. E nesse caso não há erro: esse filme é muito ruim. Não ruim de trash (para se divertir), nem ruim de estilo (para ficar com ódio). Ruim de você não sentir nada, mesmo.

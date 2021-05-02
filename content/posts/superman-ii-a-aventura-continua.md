@@ -1,7 +1,7 @@
 ---
 date: "2014-09-13"
 link: "https://www.imdb.com/title/tt0081573"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Superman II: A Aventura Continua"
 ---
 Superman II teve complicações que começam lá na história do trabalho original. O diretor Richard Donner havia imaginado o final do primeiro como o início do segundo, e o clímax do segundo seria o final do primeiro. A versão original proposta por Donner foi quase totalmente refeita e lançada para Home Vídeo em 2006, uma vez que ele já havia filmado quase todas as cenas antes de ser demitido e ter seu lugar ocupado por Richar Lester (que refilmou todas as cenas).

@@ -1,7 +1,7 @@
 ---
 date: "2010-12-03"
 link: "https://www.imdb.com/title/tt1001526"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Megamente"
 ---
 Uma troca de papéis eficiente que faz repensar a dicotomia do bem contra o mal, ainda mais que hoje em dia, em que mais pessoas se livram das superstições antigas (religiões) que pregam essa dicotomia como algo inerente à existência, o filme transporta essa realidade para uma animação leve, mas que esconde algum drama mais complexo, quase que existencial.

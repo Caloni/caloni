@@ -1,7 +1,7 @@
 ---
 date: "2019-03-24"
 link: "https://www.imdb.com/title/tt0089530"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Mad Max 3: Além da Cúpula do Trovão"
 ---
 "Mad Max 3: Além da Cúpula do Trovão" já possui um lindo nome e no Brasil decidem apenas traduzir o subtítulo. Muito bem, não se mexe onde está ganhando. Traz Tina Turner junto de Mel Gibson nos créditos principais, mas o principal trabalho da cantora está menos no filme e mais nas músicas de abertura e encerramento do espetáculo. Você vai se lembrar da música do final, por isso não desligue antes dos créditos.

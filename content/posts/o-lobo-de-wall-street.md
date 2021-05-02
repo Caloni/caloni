@@ -1,7 +1,7 @@
 ---
 date: "2018-10-07"
 link: "https://www.imdb.com/title/tt0993846"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Lobo de Wall Street"
 ---
 Assistir um filme do Scorsese, mesmo que acabou de estrear, é ser convidado para os anos 70. O que eu quero dizer com isso é que sexo, drogas, violência e moral serão mostradas sem aquele filtro horrível que infantiliza a nossa época. Curiosamente, se há uma característica que os "heróis" de O Lobo de Wall Street carregam em comum é a imaturidade. Porém, uma maturidade animalesca, que faz jus ao personagem-título.

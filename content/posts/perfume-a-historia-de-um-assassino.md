@@ -1,7 +1,7 @@
 ---
 date: "2011-01-31"
 link: "https://www.imdb.com/title/tt0396171"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Perfume: A História de um Assassino"
 ---
 Jean-Baptiste Grenouille é um personagem atípico. Abandonado pela mãe logo após o parto, sua maior (única?) destreza são suas capacidades olfativas: capaz de sentir o cheiro até mesmo de elementos normalmente inodoros como vidro e cobre, e isso nos submete imediatamente ao conceito de fábula, ele segue seu destino tendo como única obsessão na vida criar o perfume perfeito.

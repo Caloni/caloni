@@ -1,7 +1,7 @@
 ---
 date: "2018-02-27"
 link: "https://www.imdb.com/title/tt6468322"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "La Casa De Papel"
 ---
 O que está acontecendo com as pessoas? A série "La Casa de Papel" está sendo pesadamente recomendada por ser "viciante", "impressionante", "tenso" e "imperdível", sendo que no melhor dos casos esta parece ser uma versão estendida e dramática de Onze Homens e Um Segredo, um filme que, diga-se de passagem, sabia rir de si mesmo ao empregar uma música empolgante e nada séria. Aqui parece que estamos à beira de um colapso nervoso com uma história que tem mais a acrescental ao rol de novelas televisivas que o cinema propriamente.

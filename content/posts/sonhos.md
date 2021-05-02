@@ -1,7 +1,7 @@
 ---
 date: "2019-05-05"
 link: "https://www.imdb.com/title/tt0100998"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Sonhos"
 ---
 Assisti a Sonhos, de Akira Kurosawa, dividido em dois. Minha esposa dormiu na metade. Eu avisei para ela que esse cineasta é lento.

@@ -1,6 +1,6 @@
 ---
 date: "2012-05-17"
-tags: [ "code", "draft",  ]
+categories: [ "code", "draft",  ]
 title: "Coletando dumps automaticamente"
 ---
 | Value           | Description | Type        | Default value             |

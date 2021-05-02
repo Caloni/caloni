@@ -1,7 +1,7 @@
 ---
 date: "2016-12-04"
 link: "https://www.imdb.com/title/tt4922804"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "3%"
 ---
 Mais uma série Netflix advinda de um experimento de produtores brasileiros. Cheguei a ver o piloto experimental no YouTube. Parecia promissor, ainda que precisasse de polimento no formato novelístico e superficial. Hoje, com a primeira temporada já produzida em nível Netflix, é possível afirmar que ele ainda precisa de polimento, pois possui os mesmos defeitos ignorados pela gangue de roteiristas.

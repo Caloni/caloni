@@ -1,7 +1,7 @@
 ---
 date: "2016-08-21"
 link: "https://www.imdb.com/title/tt1985949"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Angry Birds: O Filme"
 ---
 Filmes baseados em jogos não costumam gerar resultados positivos. Um jogo para celulares, então, teria probabilidades maiores ainda de fracassar como Cinema. Porém, eis aqui um filme que aproveita cada oportunidade de sua história para evocar o universo simples de Angry Birds. Ele constrói personagens e seu mundinho baseados nos elementos do jogo, mas está longe de ser apenas isso. É um filme sobre como os sentimentos ditos como negativos -- como a raiva -- podem ser positivos em alguns momentos da vida.

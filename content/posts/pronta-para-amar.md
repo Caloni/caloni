@@ -1,7 +1,7 @@
 ---
 date: "2011-09-21"
 link: "https://www.imdb.com/title/tt1440161"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Pronta Para Amar"
 ---
 Nessa simpática comédia romântica que tenta fugir de vários clichês (não só do seu gênero), Kate Hudson encarna Marley, uma garota que teme relacionamentos mais que a morte (embora seja adepta do sexo casual), mas ao ser confrontada com esta ao descobrir ter um câncer incurável, resolve mudar radicalmente sua forma de viver, aproximando seus entes queridos, evitando encarar sua doença com seriedade e, quem sabe, conseguir um relacionamento com seu próprio médico.

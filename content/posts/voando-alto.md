@@ -1,7 +1,7 @@
 ---
 date: "2017-05-02"
 link: "https://www.imdb.com/title/tt1083452"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Voando Alto"
 ---
 Este é um filme para observar a atuação de Taron Egerton em um papel muito diferente do que ele fez em Kingsman. Também é um filme para observarmos como nem sempre a persona de Hugh Jackman, como visto em Gigantes de Aço, consegue ser tão eficaz. E, de forma geral, este é um filme que repassa alguns momentos da vida real de Eddie Edwards, uma criança inglesa que parece já ter nascido com a ideia obcecada de participar das olimpíadas.

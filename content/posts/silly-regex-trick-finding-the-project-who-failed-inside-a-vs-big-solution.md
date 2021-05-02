@@ -1,7 +1,7 @@
 ---
 date: "2008-02-07"
 title: "Silly regex trick: finding the project who failed inside a big VS solution"
-tags: [ "english", "code" ]
+categories: [ "english", "code" ]
 ---
 I know what you going to think about this one: "silly trick". That's why I just put it in the title. Anyway, that is something I use everyday, so I thought it might be useful to who cares about productivity.
 

@@ -1,7 +1,7 @@
 ---
 date: "2016-06-09"
 link: "https://www.imdb.com/title/tt3480164"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Vida Selvagem"
 ---
 Vida Selvagem conta a história verídica de um pai (Mathieu Kassovitz) que sequestrou seus filhos (David Gastou, Sofiane Neveu) para viverem no mato. Os fatos são descritos de uma maneira que não deixa muitas brechas para interpretação. As cenas fazem parte de uma narrativa apressada, intimista e, de certa forma poética.

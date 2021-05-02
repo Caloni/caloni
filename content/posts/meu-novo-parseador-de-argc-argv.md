@@ -1,6 +1,6 @@
 ---
 date: "2018-08-21"
-tags: [ "code", "ccpp" ]
+categories: [ "code", "ccpp" ]
 title: "Meu Novo Parseador de Argc Argv"
 link: "https://gist.github.com/Caloni/5b9ccc66722a1b235f4aab8251822cdb"
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2011-04-02"
 link: "https://www.imdb.com/title/tt0964517"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Vencedor"
 ---
 O filme começa como um documentário, mas corta para outro documentário sobre o vício do irmão. Isso acaba derrubando nossa visão inicial, mas o tom documental dá realismo ao filme.

@@ -1,7 +1,7 @@
 ---
 date: "2017-04-06"
 link: "https://www.imdb.com/title/tt2315582"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Una"
 ---
 "Una" é a possibilidade de um diálogo entre dois adultos sobre o que fizeram quando um deles ainda era apenas uma criança. Baseado na peça "Blackbird", de David Harrower (que assina o roteiro), a direção do estreante Benedict Andrews cria um drama intimista que possibilita que o passado ecoe no presente e, em retrospecto, a vida dessas pessoas tente fazer algum sentido.

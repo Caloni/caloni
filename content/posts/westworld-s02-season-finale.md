@@ -1,7 +1,7 @@
 ---
 date: "2018-12-30"
 link: "https://www.imdb.com/title/tt0475784"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Westworld S02 Season Finale"
 ---
 Foi uma longa jornada desde o começo da temporada, mas nossos neurônios mereciam um pouco mais de respeito. Eu sei que seres humanos não fazem escolha e tudo mais, mas a filosofia de boteco de Ford pós-morte é de matar. Se fosse possível escolher seria fácil: reescreve esses últimos dois episódios, o 9 e o 10, que tá fácil de consertar. Anda. Eu fico esperando.

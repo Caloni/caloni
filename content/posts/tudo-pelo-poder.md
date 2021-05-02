@@ -1,7 +1,7 @@
 ---
 date: "2011-12-30"
 link: "https://www.imdb.com/title/tt1124035"
-tags: ["movies" ]
+categories: ["movies" ]
 title: "Tudo pelo Poder"
 ---
 Geralmente filmes que tentam revelar os bastidores da política soam pretensiosos e bobinhos em suas conjecturas infantis e roteiros confusos e incompletos. Esse não é o caso de Tudo Pelo Poder, que consegue, de maneira didática e assustadora, revelar muito mais sobre o pano de fundo de influências do que gostaríamos de saber ou de admitir.

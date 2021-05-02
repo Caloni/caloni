@@ -1,7 +1,7 @@
 ---
 date: "2016-08-28"
 link: "https://www.imdb.com/title/tt2616114"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Concurso"
 ---
 Este é mais um dos filmes bobos, praticamente sem graça e datados da Globo Filmes. O Concurso continua fazendo piadas no melhor/pior estilo A Praça é Nossa ou Zorra Total. Pior: sequer tem vergonha de usar um fiapo de história que apenas serve para juntar situações entre humoristas se fazendo de atores com personagens tipicamente rasos.

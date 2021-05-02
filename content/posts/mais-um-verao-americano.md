@@ -1,7 +1,7 @@
 ---
 date: "2015-09-12"
 link: "https://www.imdb.com/title/tt4341500"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Mais um Verão Americano (piloto)"
 ---
 A Netflix é uma empresa, e como toda empresa ambiciona o lucro. Por causa disso obviamente não consegue se desvencilhar do seu destino Hollywoodiano de descobrir uma fórmula e repeti-la à exaustão. É assim com seu conteúdo adulto -- sexo ocasional + violência exarcebada -- e é assim com suas comédias agrada-público-medíocre -- atores divertidos/comediantes, uma ou outra fala interessante, o tema acima da arte.

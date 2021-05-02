@@ -1,7 +1,7 @@
 ---
 date: "2016-12-15"
 link: "https://www.imdb.com/title/tt3854770"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "A Última Lição"
 ---
 A Última Lição é um filme importante para o tema "liberdade sobre o próprio corpo" levado para o aconchego do sub-gênero "filme para a família", o que é uma coisa natural para a família francesa, mas anormal em boa parte do mundo. De qualquer forma, este é um filme que tenta se livrar dos preconceitos e analisar uma situação delicada com a sensibilidade que ela merece.

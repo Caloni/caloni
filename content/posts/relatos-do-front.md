@@ -1,7 +1,7 @@
 ---
 date: "2019-06-10"
 link: "https://www.imdb.com/title/tt9627016"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Relatos do Front"
 ---
 Desde seu título, Relatos do Front compra a briga de chamar de guerra os conflitos entre a polícia de operações especiais do Rio de Janeiro e os traficantes do morro. Isso porque entre bandido e polícia muito mais gente morre, incluindo inocentes moradores das zonas de risco. Junto disso o bolo de sessenta mil homicídios por ano no país inteiro entra nas estatísticas deste documentário de Renato Martins. Por quê? Acredito que porque usar números não é um ponto forte do pessoal de humanas.

@@ -1,6 +1,6 @@
 ---
 date: "2014-05-13"
-tags: [ "code", "draft",  ]
+categories: [ "code", "draft",  ]
 title: "50 Anos de BASIC"
 ---
 Minha primeira linguagem de programação foi o BASIC. Aprendi durante minhas frequentes visitas à biblioteca lendo livros dos anos 80. Na verdade, eu não me lembro muito bem por que diabos resolvi aprender a programar, já que eu estava mais interessado em entender como um computador funciona. Por que? Não sei bem ao certo, parece que já nasci com um chip embutido que foi ativado quando comecei a tender muito para o lado de humanas ao iniciar a faculdade de Letras... um chip salvador!

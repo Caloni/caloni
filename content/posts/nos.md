@@ -1,7 +1,7 @@
 ---
 date: "2019-12-12"
 link: "https://www.imdb.com/title/tt6857112"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Nós"
 ---
 > "Portanto, assim diz o Senhor: Eis que trarei sobre eles mal, de que não poderão escapar; e, se clamarem a mim, não os ouvirei."

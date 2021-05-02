@@ -1,7 +1,7 @@
 ---
 date: "2011-08-23"
 link: "https://www.imdb.com/title/tt1579223"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Assalto ao Banco Central"
 ---
 Assalto ao Banco Central está longe de ser o filme insuportável pintado pela crítica. Porém, o que é mais importante: Assalto é um filme que decepciona em todos os gêneros que tenta se inserir.

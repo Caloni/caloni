@@ -1,7 +1,7 @@
 ---
 date: "2016-03-09"
 link: "https://www.imdb.com/title/tt2652118"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "O Tigre e o Dragão: A Espada do Destino"
 ---
 Embora pareça ser um simples caça-níqueis, dezesseis anos depois do lançamento da pequena obra-prima de Ang Lee, a produção de "O Tigre e o Dragão: A Espada do Destino" possui uma qualidade acima de um "fan film", e respeita até um certo momento o universo original. Porém, se arrastando em diálogos e expressões sem qualquer trama muito complexa, o filme se torna uma série de pausas até a próxima luta.

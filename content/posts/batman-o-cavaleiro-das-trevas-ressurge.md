@@ -1,7 +1,7 @@
 ---
 date: "2012-08-17"
 link: "https://www.imdb.com/title/tt1345836"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Batman: O Cavaleiro das Trevas Ressurge"
 ---
 O Batman de Nolan possui uma virtude cada vez mais ausente em produções Hollywoodianas de super-heróis: a capacidade de fazer pensar. O que é uma pena, já que o universo fantasioso em que se passam essas histórias tem potencial para ser o pano de fundo de questões filosóficas das mais diversas. No caso de [Batman, O Cavaleiro das Trevas], a grande discussões que Nolan se propõe a fazer é com respeito à violência nas grandes cidades e como essa violência transforma o destino das pessoas que nela vivem.

@@ -1,7 +1,7 @@
 ---
 date: "2016-08-04"
 link: "https://www.imdb.com/title/tt4574334"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Stranger Things (e a irrelevância da bilheteria Netflixiana)"
 ---
 A Netflix conseguiu mais uma vez. Usando seu algoritmo de análise do que o público quer ver, aí está justamente o que a grande massa adoraria ver: referências doentias aos anos 80 sem qualquer vergonha de se render ao clichê, ou apelar para emoções baratas. As pistas de uma série misteriosa aparecem na primeira cena que são usadas. Além de tudo, o roteiro é preguiçoso.

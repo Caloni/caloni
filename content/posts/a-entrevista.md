@@ -1,7 +1,7 @@
 ---
 date: "2015-01-18"
 link: "https://www.imdb.com/title/tt2788710"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Entrevista"
 ---
 A Entrevista é daqueles filmes que se aproveitam de um momento histórico atual para tentar chamar atenção para si mesmo, quando na verdade não passa de uma comédia medíocre construída sob uma estrutura falha que, assim como Zohan: O Agente Bom de Corte, tenta resolver um problema complexo de maneira simplória jogando ao público o que ele quer ver.

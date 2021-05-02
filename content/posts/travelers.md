@@ -1,7 +1,7 @@
 ---
 date: "2017-02-28"
 link: "https://www.imdb.com/title/tt5651844"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Travelers"
 ---
 Viagem no tempo, física quântica, mulheres bonitas e gostosas: uma fórmula que geralmente merece dar uma olhada, para diversos fãs, de diferentes conteúdos. No caso da primeira temporada de Travelers, da Netflix, a química entre esses elementos oscila de maneira irregular, quase sempre frustrando ideias mais ambiciosas e quase sempre se rendendo ao juvenil politicamente correto. Quer dizer, no futuro os animais são nossos amigos e as pessoas passam mal em ver bacon? Fala sério!

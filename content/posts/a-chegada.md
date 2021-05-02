@@ -1,7 +1,7 @@
 ---
 date: "2017-02-04"
 link: "https://www.imdb.com/title/tt2543164"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Chegada"
 ---
 Denis Villeneuve (Incêndios, Os Suspeitos, O Homem Duplicado) nos apresenta uma ficção científica completamente focada em seu drama. Tudo o que está além da realidade no filme nos serve como reflexão sobre as falhas de comunicação da humanidade como um todo, e uma reflexão ainda maior sobre a falha de comunicação dos nossos sentimentos uns para com os outros. A Chegada imortaliza um conceito apresentando-o da maneira mais perfeccionista possível. É um filme basicamente sobre ideias, não sobre ação, aventura ou terror. Mas, ainda assim, o tema sonoro composto por Jóhann Jóhannsson se torna icônico justamente pelo incômodo que suas notas arrítmicas geram, além da estranheza de cordas. A fotografia acinzentada nos fornece pistas de um mundo ainda sob forte ameaça de desestabilizar, como comprovam as primeiras horas e depois dias depois que doze naves, como os apóstolos de Cristo (mas sem o Salvador), pousam em localizações que não fazem o menor sentido político hoje. Até porque este não é um filme político antes de tudo, mas sobre conhecimento e os problemas da cooperação.

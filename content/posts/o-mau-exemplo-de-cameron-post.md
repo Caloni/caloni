@@ -1,7 +1,7 @@
 ---
 date: "2018-10-23"
 link: "https://www.imdb.com/title/tt6257174"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Mau Exemplo de Cameron Post"
 ---
 O Mau Exemplo de Cameron Post é um dos melhores exemplos sobre hipocrisia e lavagem cerebral religiosa quando o tema é homossexualidade. Ele é tão bom assim porque ele espalha as incoerências e intolerância durante um suposto tratamento para uma cura gay. E quer melhor momento para rever esse tema?

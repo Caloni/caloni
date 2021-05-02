@@ -1,7 +1,7 @@
 ---
 date: "2016-04-07"
 link: "https://www.imdb.com/title/tt3845232"
-tags: [ "series" ]
+categories: [ "series" ]
 title: "Sherlock: The Abominable Bride"
 ---
 A quarta temporada da série possui apenas um episódio por enquanto, e como todos os episódios anteriores, do tamanho de um filme de uma hora e meia, mantendo um clima morno metade do seu tempo, diminuindo seu ritmo para retratar a época vitoriana abandonada pela própria premissa da série de se atualizar. Neste episódio estamos na época original de Sherlock Holmes, e em uma de suas história originais, vinda de seus livros que, claro, continuam aqui sendo escritos por Watson.

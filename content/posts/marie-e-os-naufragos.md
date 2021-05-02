@@ -1,7 +1,7 @@
 ---
 date: "2016-10-28"
 link: "https://www.imdb.com/title/tt4428774"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Marie e os Náufragos"
 ---
 Um filme que atravessa o indie usando uma metalinguagem Kaufmaniana, descobrindo seus personagens no percurso, realizando uma trama eficiente que, por mais absurda que seja, mantém sempre o interesse do espectador.

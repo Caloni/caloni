@@ -1,7 +1,7 @@
 ---
 date: "2019-08-19"
 link: "https://www.imdb.com/title/tt0074360"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Cria Corvos"
 ---
 Engraçado como a memória funciona. Organizada de maneira não-linear em nosso cérebro, perdendo algumas ligações aqui e ali, ganhando outras sem querer... no final das contas esse conjunto de quase-conhecimento sobre nós mesmos, sobre quem amamos ou a sociedade onde vivemos é tudo o que podemos chamar de "eu". A nossa identidade inteira, baseada em frágeis conexões elétricas bem atrás de nossos olhos.

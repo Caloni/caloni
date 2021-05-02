@@ -1,7 +1,7 @@
 ---
 date: "2014-11-09"
 link: "https://www.imdb.com/title/tt0773262"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Dexter - Sétima Temporada"
 ---
 Dexter Morgan é um ser humano buscando seu lugar no mundo. O fato dele ser um sociopata e um serial killer é o que torna sua história mais... profunda. No entanto, fora isso, somos como ele, procurando se encaixar em um mundo que muitas vezes não faz sentido.

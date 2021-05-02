@@ -1,7 +1,7 @@
 ---
 date: "2011-10-23"
 link: "https://www.imdb.com/title/tt0364045"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Roubando Vidas"
 ---
 Esse é mais um thriller policial que envolve uma dupla de elementos que vem se tornando frequente: histórias previsíveis e Angelina Jolie. Nesse caso, Jolie é uma agente do FBI que precisa capturar um serial killer que rouba a identidade de suas vítimas.

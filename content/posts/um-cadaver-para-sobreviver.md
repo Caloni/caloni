@@ -1,7 +1,7 @@
 ---
 date: "2017-01-05"
 link: "https://www.imdb.com/title/tt4034354"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Um Cadáver Para Sobreviver"
 ---
 Swiss Army Man é o grito de desespero do tímido comum elevado à décima potência, o que segundo meus cálculos, pela regra do absurdo, gera um filme com um humor tão hilário quanto triste. Acorrentado em seus próprios medos, o tímido comum busca uma conexão com quem não o julga, ou quem não se parece superior a ele. Eu diria que qualquer um se sentiria menos inferior do lado de um defunto que continua soltando gases e nem sabe ainda o que é masturbação.

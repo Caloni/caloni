@@ -1,7 +1,7 @@
 ---
 date: "2017-09-15"
 link: "https://www.imdb.com/title/tt5109784"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Mãe!"
 ---
 Para quem já conhece o diretor perfeccionista e gnóstico Darren Aronofsky não será nenhuma surpresa constatar que seu novo trabalho, "Mãe!", além de tecnicamente impecável é denso, tenso e emocionalmente visceral. E embora nenhuma dessas palavras consiga sequer arranhar toda a expressividade e simbolismos do criador de Cisne Negro, O Lutador e Noé, esta continuação temática de Fonte da Vida não precisa de muitas apresentações aos fãs, mas ao mesmo tempo se torna uma viagem sensorial que é universal, e que apenas a experiência audiovisual do Cinema consegue oferecer em tantas camadas.

@@ -1,7 +1,7 @@
 ---
 date: "2015-05-05"
 link: "https://www.imdb.com/title/tt2305051"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Livre"
 ---
 Baseado no livro autobiográfico "Wild: From Lost to Found on the Pacific Crest Trail", a protagonista absoluta do filme são as memórias da autora Cheryl Strayed, interpretada pela competente (ou bem escolhida) Reese Witherspoon. No entanto, além de Sheryl, parece haver ainda um espírito maior que quer contar uma história maior. Um espírito interpretado pelo fantasma de sua mãe, a simpática e intensa Bobbi (Laura Dern, quase roubando a cena). Um espírito trabalhado em todo homem e mulher do filme. Um espírito que luta pela liberdade do ser humano independente do seu gênero. Um espírito tão empenhado em conduzir essa tarefa na mente de seus espectadores que avança um pouco o sinal, se tornando quase um manifesto feminista de bolso. 

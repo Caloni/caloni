@@ -1,7 +1,7 @@
 ---
 date: "2015-07-14"
 link: "https://www.imdb.com/title/tt0451094"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Lady Vingança"
 ---
 Lady Vingança é o terceiro filme de Chan-wook Park sobre... adivinha? Claro, a vingança, esse ato que já virou tema de filmes excelentes -- Kill Bill Vol 1 e 2, Old Boy, do próprio Chan-wook -- e outros igualmente admiráveis -- Mr. Vingança, primeiro do Chan-wook, Lady Snowblood, inspiração do Tarantino para Kill Bill. Tão ou mais estilizado que Old Boy, sua obra mais conhecida no ocidente, a narrativa de Lady Vingança possui a beleza da fluidez incessante e dos recortes cartunescos, mas ao mesmo tempo traz uma certa petulância em ser excessivamente complexo apenas pela capacidade de ser (o famoso "porque sim").

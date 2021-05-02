@@ -1,6 +1,6 @@
 ---
 date: "2007-09-12"
-tags: [ "code" ]
+categories: [ "code" ]
 title: "Guia básico de controle de código (Source Safe)"
 ---
 O primeiro passo para se passar no Teste do Joel é possuir algum tipo de controle de código. E ele está mais do que certo. Não existe nada mais frustrante do que não ter exatamente o código-fonte da versão que está rodando no cliente ou não saber o que mudou desde que a versão foi entregue. Esse tipo de coisa pode acabar com uma empresa ou fazer com que ela fique muito mal vista no mercado.

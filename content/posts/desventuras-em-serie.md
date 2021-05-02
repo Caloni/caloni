@@ -1,7 +1,7 @@
 ---
 date: "2015-11-29"
 link: "https://www.imdb.com/title/tt0339291"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Desventuras em Série"
 ---
 Ninguém escuta as crianças. Essa é a premissa básica que torna possível toda a série de situações mortais em que três jovens órfãos ficam à mercê de um cruel parente distante em busca da herança dos afortunados Baudelaire.

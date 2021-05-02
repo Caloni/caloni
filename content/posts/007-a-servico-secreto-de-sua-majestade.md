@@ -1,7 +1,7 @@
 ---
 date: "2013-02-01"
 link: "https://www.imdb.com/title/tt0064757"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "007 - A Serviço Secreto de Sua Majestade"
 ---
 Mais intenso, talvez pela incerteza na troca de Sean Connery por George Lazenby, e já entregando uma trama que mexe na vida pessoal do agente secreto como nunca antes, A Serviço Secreto de Sua Majestade é também um excelente filme de ação, tanto para sua época quanto para agora.

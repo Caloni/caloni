@@ -1,7 +1,7 @@
 ---
 date: "2019-01-03"
 link: "https://www.imdb.com/title/tt6288124"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Pé Ele Não Vai Longe"
 ---
 Com a estreia desse filme talvez o politicamente correto anuncie os seus finalmente em 2019. Ou talvez não. A polêmica por trás do cartunista John Callahan existiu simplesmente porque ele escrevia em uma cidadezinha que levava a sério demais tudo que dizia respeito aos incapacitados, religiosos, etc. Bom, não se pode culpá-los, pois essa tendência em exagerar os dramas da vida moderna se espalhou para praticamente todo o Ocidente.

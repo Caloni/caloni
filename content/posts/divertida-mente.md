@@ -1,7 +1,7 @@
 ---
 date: "2015-06-24"
 link: "https://www.imdb.com/title/tt2096673"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Divertida Mente"
 ---
 Divertida Mente é um sinal de que Disney/Pixar, apesar de às vezes parecer que está saindo dos trilhos, produzindo mais e mais continuações e se transformando em uma franquia comercialmente poderosa enquanto artisticamente repetitiva, dessa vez arrisca pra valer, apostando em uma versão de Ela (Spike Jonze, 2013) para o público infantil, destrinchando as emoções que nos formam de uma maneira que dificilmente você verá em produções do gênero.

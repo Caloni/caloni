@@ -1,7 +1,7 @@
 ---
 date: "2011-07-31"
 link: "https://www.imdb.com/title/tt1273235"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Serbian Film - Terror sem Limites"
 ---
 Segundo um relatório sobre a Guerra da Bósnia feito pela Agência Central de Inteligência americana, 90% dos crimes de guerra foram cometidos pelos sérvios. Em uma região conturbada política e religiosamente por mais de um século, o povo sérvio se acostumou a um ambiente instável. A grande questão é como isso afeta a moral dessas pessoas.

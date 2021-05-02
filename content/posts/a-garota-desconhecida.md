@@ -1,7 +1,7 @@
 ---
 date: "2017-01-24"
 link: "https://www.imdb.com/title/tt4630550"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "A Garota Desconhecida"
 ---
 A Garota Desconhecida, em um resumão narrativo, é sobre o arco de sua protagonista, Dra. Jenny Davin, que ao não abrir a porta após o horário de seu consultório por uma mera questão de capricho -- e sofrer as duras consequência de seu ato -- acaba abrindo uma outra porta: para a possibilidade de redenção, aceitando que seus pacientes são seres humanos, e mais do que tudo: de que ela pode se dar ao direito de ser também humana.

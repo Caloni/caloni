@@ -1,7 +1,7 @@
 ---
 date: "2010-08-17"
 link: "https://www.imdb.com/title/tt0065651"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Domicilio Conjugal"
 ---
 Comédia romântica francesa datada de 70 e conduzida por François Truffaut. Nesse caso temos um casal vivendo sua vida em um condomínio de casas que mais lembra, nos minutos iniciais, um bom cortiço brasileiro. Mas aos poucos os detalhes culturais vão ganhando forma, não prejudicando a mensagem principal, que é contar a história de um casal como outro qualquer que passa por suas felicidades e tristezas, juntos ou separados.

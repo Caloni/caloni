@@ -1,7 +1,7 @@
 ---
 date: "2019-09-20"
 link: "https://www.imdb.com/title/tt8026554"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Sócrates"
 ---
 Sócrates, além de ser um filme arrebatador, como produção é mais um exemplo a ser seguido pelo cinema brasileiro. Iniciando com baixo orçamento, ganhando fôlego necessário na pós-produção, e viajando o mundo ganhando prêmios (Grécia, Alemanha, EUA), a única parte que não é admirável em todo o processo é ter que esperar todo esse tempo por sua estreia em seu país de origem. Mas, ainda assim: que momento para nos orgulharmos do cinema nacional.

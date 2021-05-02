@@ -1,7 +1,7 @@
 ---
 date: "2017-10-25"
 link: "https://www.imdb.com/title/tt3501632"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Thor Ragnarök"
 ---
 Você já sabe: todos os filmes de super-heróis são iguais. Pelo menos os da Marvel são. Mas ultimamente alguns têm se tornado mais iguais que outros. Sempre que um filme é lançado temos uma horda de apreciadores e detratores, e ultimamente a horda de apreciadores tem elogiado muito o clima despojado de Dead Pool e Spiderman, além da atmosfera cartunesca e divertida de Guardiões da Galáxia em seus dois volumes. E eis que surge Thor: Ragnarök, repetindo alguns conceitos de sucesso desses trabalhos anteriores e se tornando com isso um dos filmes mais iguais dos últimos anos. E isso, ao falarmos da Marvel, é um senhor elogio.

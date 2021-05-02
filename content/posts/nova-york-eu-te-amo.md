@@ -1,7 +1,7 @@
 ---
 date: "2019-03-17"
 link: "https://www.imdb.com/title/tt0808399"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Nova York, Eu Te Amo"
 ---
 Todas as comédias românticas americanas se passam em Nova York. Todos os romances se passam em Nova York. Toda a carreira de Woody Allen antes das duas últimas décadas se passa em Nova York (OK, Noivo Neurótico, Noiva Nervosa não). Logo, ou "por quê??", que tal mais um filme onde histórias se entrelaçam, só que dessa vez em Nova York?

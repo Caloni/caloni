@@ -1,7 +1,7 @@
 ---
 date: "2020-04-07"
 link: "https://www.imdb.com/title/tt0071411"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Dersu Uzala"
 ---
 Você vai ouvir esse nome muitas vezes no filme de 75 de Kurosawa, falado em russo, e com cenários e situações realistas que compõem esta amizade entre um oficial russo e um caçador do povo Nanai, um dos habitantes da extrema Sibéria.

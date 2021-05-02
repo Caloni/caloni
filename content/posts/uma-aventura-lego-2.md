@@ -1,7 +1,7 @@
 ---
 date: "2019-03-05"
 link: "https://www.imdb.com/title/tt3513498"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Uma Aventura Lego 2"
 ---
 Nada é tão incrível. Sim, é a dura verdade da vida. E como conseguir viver dessa forma? Bem, a lição de Uma Aventura Lego 2 é mais do que incrível: é complexa e profunda. Bem profunda. Das profundezas do fundo de uma máquina de lavar roupas. Do escuro vazio e sem sentido de uma caixa de brinquedos. Do niilismo inerente quando começamos a brincar de auto-análise com viagem no tempo. Sim, nada é tão incrível, mas não quer dizer que não devamos tentar viver juntos a aventura de viver.

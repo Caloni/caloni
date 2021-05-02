@@ -1,7 +1,7 @@
 ---
 date: 2018-07-14T14:11:43-03:00
 title: "Python27, protobuf, py2exe e build_exe"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 Para quem está tentando compilar um executável usando py2exe e protobuf, #ficadica: desista. Ele não vai funcionar ou se funcionar vai dar trabalho. Em vez disso melhor usar build_exe (através do pacote cx_freeze), que é um esquema marotinho que permite configurar tudo e há apenas um patchzinho que precisa ser feito.
 

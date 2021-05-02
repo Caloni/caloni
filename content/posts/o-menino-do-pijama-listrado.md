@@ -1,7 +1,7 @@
 ---
 date: "2012-10-21"
 link: "https://www.imdb.com/title/tt0914798"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Menino do Pijama Listrado"
 ---
 Há filmes que possuem uma catarse tão forte e fluida durante a narrativa que parece fácil produzir isso no espectador. No entanto, muitas vezes tudo isso é fruto da nossa imaginação, e há um trabalho grande do início ao fim para que esse efeito seja criado da maneira com que ocorre. Ora, como explicar que um amontoado de bonecas consiga ser tão impactante para os nossos olhos?

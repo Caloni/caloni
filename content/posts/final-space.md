@@ -1,7 +1,7 @@
 ---
 date: "2018-09-15"
 link: "https://www.imdb.com/title/tt6317068"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Final Space"
 ---
 Esta é uma série animada da Netflix que apresenta uma espécie anti-herói (embora bem infantil) e personagens que possuem a pretensão de estarem em uma super-aventura galáctica. Só que não. E por algum motivo, apesar de irreverente, lhe escapa esse sentido do humor: que quando você tira importância de alguns elementos da história, mas mantém outros, você não entendeu direito a ideia por trás do seu próprio projeto.

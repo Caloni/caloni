@@ -1,7 +1,7 @@
 ---
 date: "2017-03-10"
 link: "https://www.imdb.com/title/tt2173244"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Tiempos Felices"
 ---
 Este é o clichê versão argentina daquela comédia onde o namorado quer se separar mas não consegue dizer para a namorada. A partir daí você já deve conseguir concluir que verá aquela velha cena dele imaginando que está se separando e as possíveis reações da sua ex-amada.

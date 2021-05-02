@@ -1,7 +1,7 @@
 ---
 date: "2016-08-30"
 title: "Programa, Mãe Foca!"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 A história das metodologias de desenvolvimento de software segue mais ou menos as oscilações naturais do próprio software: caminha em direção ao caos (e as sessões de refactory buscam desacelerar essa inevitável tendência). Assim como aquela classe que parecia perfeita assim que foi feita, uma metodologia irá se desmanchar frente à lei da mediocridade. Você não consegue software bom com programadores ruins seguindo a melhor metodologia do planeta.
 

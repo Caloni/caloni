@@ -1,7 +1,7 @@
 ---
 date: "2019-09-25"
 link: "https://www.imdb.com/title/tt7937758"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Onde Quer Que Você Esteja"
 ---
 Pelos sobrenomes dos dois diretores de "Onde Quer Que Você Esteja", Bel Bechara e Sandro Serpa, você não imagina que são casados, mas na coletiva de imprensa que aconteceu logo após a exibição do filme pode-se perceber a simbiose típica que ocorre entre duas pessoas que conviveram muito tempo juntas. Bel é encantada com os detalhes encontrados pelo seu elenco para enriquecer ainda mais seus personagens, como a ideia de Debora Duboc de sua personagem reciclada de um curta poder cantar em algum momento; para ela são esses pequenos momentos que valeram a pena todos os problemas orçamentários pelos quais os dois passaram durante a produção. Já Sandro, introspecto, possui uma visão técnica apurada sobre o projeto, entregando filmes de referência para seus atores se prepararem. No entanto, Bel também se interessa pelo processo, e observa todo o trabalho de ajustar as inúmeras camadas de som de um filme onde boa parte se passa em uma estação de rádio e com pessoas conversando ao fundo. E logo você vê que esta é de fato uma co-direção, onde não há hierarquia, mas parceria.

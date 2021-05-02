@@ -1,7 +1,7 @@
 ---
 date: "2020-11-02"
 link: "https://www.imdb.com/title/tt11394288"
-tags: [ "cinemaqui", "movies" ]
+categories: [ "cinemaqui", "movies" ]
 title: "Verão Branco"
 ---
 Não nos lembramos exatamente como era a nossa infância, a nossa adolescência e o que havia nesse meio tempo. O "meio tempo", essa fase dos doze anos até a maturidade, é a premissa de Verão Branco, filme de estreia do mexicano Rodrigo Ruiz Patterson que estreou no Festival de Sundance e agora disponível na Mostra de São Paulo. É um filme direto sobre a visão bem peculiar de um jovem com sérios problemas emocionais.

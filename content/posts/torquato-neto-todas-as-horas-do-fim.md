@@ -1,7 +1,7 @@
 ---
 date: "2018-03-01"
 link: "https://www.imdb.com/title/tt4157844"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Torquato Neto - Todas as horas do fim"
 ---
 Torquato Neto, a ver pelo seu próprio documentário -- Torquato Neto - Todas as horas do fim -- foi um rapaz sem muita lógica. Ele é um poeta que sente, e sai a escrever, falar, cantar. Um dos influenciadores do movimento contracultural da Tropicália, trabalhou com grandes nomes hoje da música brasileira como Gilberto Gil, Gal Costa e Edu Lobo. Se suicidou aos 28 anos após passar uma noite inteira com amigos, em uma verdadeira incógnita. Como deve ser. Mas esse filme, violando as leis caóticas da mente do compositor, tenta encontrar uma razão para seu trágico fim. E isso é imperdoável.

@@ -1,7 +1,7 @@
 ---
 date: "2010-10-23"
 link: "https://www.imdb.com/title/tt1594460"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Suécia Hoje"
 ---
 A partir de depoimentos de várias pessoas e suas diferentes rotinas, este documentário traça um panorama dos últimos anos da história desse país. Assim como a maioria das grandes cidades, se antigamente o trabalhador passava a vida inteira empregado em apenas uma empresa, e os shoppings estavam vazios, de acordo com o narrador, porque esses trabalhadores precisavam restaurar as energias para uma nova semana de trabalho, hoje em dia a maioria trabalha como freelancer, e os shoppings estão cheios todos os dias e a economia é pulsante, pois cada vez mais pessoas querem comer, beber e fazer mais coisas com as 24 horas diárias.

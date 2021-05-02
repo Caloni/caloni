@@ -1,7 +1,7 @@
 ---
 date: "2020-11-01"
 link: "https://www.imdb.com/title/tt11084432"
-tags: [ "cinemaqui", "movies" ]
+categories: [ "cinemaqui", "movies" ]
 title: "Meu Coração Só Irá Bater se Você Pedir"
 ---
 Meu Coração Só Irá Bater se Você Pedir tem um título tão longo e tão fofinho, mas é tão brutal. Se trata de um thriller de terror que faz você ficar preso na poltrona (ou, no caso da pandemia, no sofá) do começo ao fim. Curto na medida certa, seus eventos vão se desenrolando com naturalidade até o clímax necessário, esperado e catártico.

@@ -1,7 +1,7 @@
 ---
 date: "2013-08-11"
 link: "https://www.imdb.com/title/tt0918575"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Victim"
 ---
 Adoro filmes que me surpreendem. Melhor ainda quando eles começam não prometendo quase nada. É o caso desse "Meu Passado me Condena" (Victim, no original e no IMDB), que inicia como um thriller nada original, caminha por estradas tortuosas do gênero para finalmente se definir no terceiro ato com seu momento glorioso que nos faz voltar desde o começo e entender que nada do que parecia era exatamente como se supunha.

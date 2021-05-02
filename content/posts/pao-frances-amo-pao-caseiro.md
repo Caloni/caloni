@@ -1,7 +1,7 @@
 ---
 date: "2021-04-17"
 link: "https://amopaocaseiro.com.br/receita/pao-frances/"
-tags: [ "draft", "food" ]
+categories: [ "draft", "food" ]
 title: "Pão Francês (Amo Pão Caseiro)"
 ---
 Hoje vou tentar uma nova receita de pão francês que já havia visto antes. Nessa as proporções e o tempo mudam um pouco, e por não ter o tempo de geladeira durante a noite havia evitado. Mas dane-se, vou usar a geladeira de qualquer jeito na hora da fermentação longa.

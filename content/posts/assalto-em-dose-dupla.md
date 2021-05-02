@@ -1,7 +1,7 @@
 ---
 date: "2011-11-28"
 link: "https://www.imdb.com/title/tt1541160"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Assalto em Dose Dupla"
 ---
 Apenas o fato da direção de arte de Assalto em Dose Dupla tentar fazer lembrar os detalhes do banco de Um Dia de Cão chega a parecer uma ofensa, pois enquanto o clássico de Sidney Lumet tenta fazer rir através do inusitado em um assalto, mas sempre se lembrando que todos os envolvidos são seres humanos, o roteiro de Jon Lucas e Scott Moore (ambos de Se Beber Não Case) cria constrangimentos a partir de estereótipos que cria, como se apenas isso fosse motivo de risadas, o que de fato se comprova, pois a maioria das piadas se limita a apenas isso.

@@ -1,7 +1,7 @@
 ---
 date: "2018-08-26"
 link: "https://www.imdb.com/title/tt5531346"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Animal Político"
 ---
 Animal Político é uma fábula que se parece muito densa para o espectador médio, mas que ao mesmo tempo tenta manter suas sensações, analogias e símbolos mais próximos possível do cidadão comum. Isso porque é um filme que fala, como o título já denuncia, sobre nós como animais políticos. Esse conceito vem de milhares de anos atrás, de um filósofo grego chamado Aristóteles e de um livro chamado Política. Bom, já deu pra perceber que a história vem de longe; e essa discussão está longe de acabar.

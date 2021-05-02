@@ -1,7 +1,7 @@
 ---
 date: "2021-04-04"
 link: "https://www.imdb.com/title/tt10635210"
-tags: [ "draft", "animes" ]
+categories: [ "draft", "animes" ]
 title: "Science Fell in Love, So I Tried to Prove It (Rikei ga Koi ni Ochita no de Shōmei Shite Mita)"
 ---
 Este é um [Cells At Work] para o método científico. Você irá aprender e um esquema padrão de anime alguns conceitos fundamentais que faça com que a ciência avance. E tudo gira em torno de um casal de cientistas apaixonados.

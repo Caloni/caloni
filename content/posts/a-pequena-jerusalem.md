@@ -1,7 +1,7 @@
 ---
 date: "2020-01-14"
 link: "https://www.imdb.com/title/tt0428965"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Pequena Jerusalém"
 ---
 A Pequena Jerusalém é filme de judeu para judeu. Ele demonstra como é difícil para nós, gentios, infiéis, entenderem o que se passa na cabeça e nos corações desse povo que segue rituais arcaicos e valores bizarros dissociados da vida moderna em plena Paris. Um não judeu que o assista não terá a mínima empatia sobre a cultura e as pessoas que a seguem, o que por si só já explica o sentimento anti-semita de todo o resto do mundo civilizado.

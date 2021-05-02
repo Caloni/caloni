@@ -1,7 +1,7 @@
 ---
 date: "2018-05-23"
 link: "https://www.imdb.com/title/tt2543472"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Extraordinário"
 ---
 São tão cansativos aqueles filmes que insistem em fazer o espectador chorar apenas "porque sim" que quando vem o primeiro choro de Extraordinário ele é tão natural, tão coisa simples, tão "uma criança diria isso", que você chega a perdoar todas as vezes que o filme pretende levanta a bandeira da diversidade e de todos merecem uma medalha por existirem.

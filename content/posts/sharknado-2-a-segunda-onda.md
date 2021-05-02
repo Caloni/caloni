@@ -1,7 +1,7 @@
 ---
 date: "2016-08-20"
 link: "https://www.imdb.com/title/tt3062074"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Sharknado 2: A Segunda Onda"
 ---
 Há uma coisa de se orgulhar da série Sharknado: ela não tem medo de passar vergonha. Os personagens ruins falando diálogos escritos por crianças de seis anos em situações absurdamente toscas parecem existir nesse universo por apenas um motivo: inserir no meio deles os tubarões voadores criados por uma computação gráfica que tornou o primeiro Sharknado "famoso", tão famoso que gerou uma série de filmes. Porém, diferente da pretensiosa "saga" Crepúsculo, o objetivo da série é bem mais claro e honesto: "fale mal, fale péssimo, mas fale de mim".

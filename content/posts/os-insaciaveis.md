@@ -1,7 +1,7 @@
 ---
 date: "2020-05-28"
 link: "https://www.imdb.com/title/tt0057917"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Os Insaciáveis"
 ---
 Uma produção da época dos grandes produtores e diretores de fantoche, que seguiam as fórmulas para as grandes produções. As atrizes eram suas mulheres e os atores e atrizes moviam a indústria. Esta deveria ser a história de Howard Hughes, cuja biografia autorizada foi dirigida por Martin Scorsese em O Aviador, com Leonardo DiCaprio no papel, mas devido à indiscrição e à paródia desta versão ela usa nomes falsos para contar a fictícia história deste outro herdeiro milionário que virou produtor de filmes e aviador. Qualquer semelhança é mera coincidência.

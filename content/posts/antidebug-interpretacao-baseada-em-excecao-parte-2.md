@@ -1,7 +1,7 @@
 ---
 date: "2007-08-09"
 title: "Antidebug: interpretação baseada em exceção (parte 2)"
-tags: [ "code" ]
+categories: [ "code" ]
 ---
 No [primeiro artigo] vimos como é possível "enganar" o depurador através de exceções e assim fazer o atacante perder um tempo considerável tentando se desvencilhar dos breakpoints de mentira. Porém, vimos também que essa é uma solução difícil de manter no código-fonte, além de possuir o ponto fraco de ser facilmente contornada se descoberta. Agora é a hora de tornar as coisas mais fáceis de manter e ao mesmo tempo garantir maior dificuldade mesmo que o atacante descubra o que está acontecendo debaixo do seu nariz.
 

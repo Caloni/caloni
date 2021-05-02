@@ -1,7 +1,7 @@
 ---
 date: "2014-06-24"
 title: "Se iterando com os pseudo-ponteiros: uma breve introdução"
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 Como [já vimos algumas vezes](http://www.caloni.com.br/remove_if-ate-remove-so-que-diferente), a STL não prima por interfaces intuitivas, preferindo abstrações que criem um leque de ferramentas genéricas para tratamento uniformizado de coleções de dados através de algoritmos. O problema disso é que novos programadores da linguagem terão que aprender uma maneira nova de lidar com problemas baseada na percepção dos criadores do padrão na época em que foi lançado de como seria a evolução da ciência da computação nos próximos anos. Muitos dos conceitos ali abordados realmente se tornaram padrão _de facto_, mas na briga pela expansão da linguagem quem perdeu por muito tempo foi o próprio desenvolvedor, que teve que se contentar com uma lista de algoritmos genéricos parcialmente compilado.
 

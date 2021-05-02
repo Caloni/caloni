@@ -1,7 +1,7 @@
 ---
 date: "2015-12-15"
 link: "https://www.imdb.com/title/tt3488710"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Travessia"
 ---
 A liberdade é uma coisa engraçada. Quando a perdemos através do medo, isso cria os mais diversos níveis de negação, fazendo-nos chegar ao cúmulo de aceitar o máximo de segurança pelo mínimo de liberdade, sendo que, ironicamente, acabamos perdendo ambos.

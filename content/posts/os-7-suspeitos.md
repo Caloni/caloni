@@ -1,7 +1,7 @@
 ---
 date: "2012-03-04"
 link: "https://www.imdb.com/title/tt0088930"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Os 7 Suspeitos"
 ---
 Já faz algumas décadas que não revia essa comédia ambientada nos anos 50 que mistura elementos de suspense, terror e policial de uma maneira particularmente competente. De certa forma, quando eu tinha cerca de 10 anos já sabia que a graça do filme residia tanto em sua história quanto na dinâmica do grupo, os suspeitos do título.

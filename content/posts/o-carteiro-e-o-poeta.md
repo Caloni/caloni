@@ -1,7 +1,7 @@
 ---
 date: "2020-03-19"
 link: "https://www.imdb.com/title/tt0110877"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Carteiro e o Poeta"
 ---
 Uma produção fofinha dos anos 90, lembro que foi sucesso na época, assisti a primeira vez em VHS. É um filme feito para o Oscar e para as multidões. Mario Ruopollo é um italiano tão doce e falso quanto o Pablo Neruda do filme. Veja como Philippe Noiret, o ator que faz Neruda, se veste como um poeta, sorri como um poeta e fala como gostaríamos que falasse um poeta. Ele está atuando em um filme e isso é muito claro para o espectador, mas em nenhum momento ele consegue nos convencer de que quem estamos vendo na tela é de fato Pablo Neruda, diferentemente de sua versão como projecionista de um cinema em um vilarejo da Itália no inesquecível [Cinema Paradiso].

@@ -1,7 +1,7 @@
 ---
 date: "2019-01-21"
 link: "https://www.imdb.com/title/tt7427356"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Última Gargalhada"
 ---
 A Última Gargalhada é daqueles exemplos de produção Netflix que não precisa existir no mundo. É sobre uma história sem tensão, sem motivação e sem paixão. Um conselho: viva sua vida no lugar de assistir esse filme; será capaz de sonhar mais do que acompanhar essa série televisiva de um episódio apenas de uma hora e meia.

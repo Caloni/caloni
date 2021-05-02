@@ -1,7 +1,7 @@
 ---
 date: "2014-12-30"
 link: "https://www.imdb.com/title/tt0116683"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "James e o Pêssego Gigante"
 ---
 Antes de qualquer ataque óbvio ao roteiro formulaico e aos personagens caricatos e unidimensionais, é melhor avisar: se trata de um filme Disney. Ou seja, o mau é mau, o bom é bom e não há praticamente nada que fuja do bê-a-bá dos estúdios "da moral e dos bons costumes". Dito isto, damo-nos por satisfeitos a inexistência de princesas e fadas.

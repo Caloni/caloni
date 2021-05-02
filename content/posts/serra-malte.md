@@ -1,6 +1,6 @@
 ---
 date: "2015-07-10"
-tags: [ "food" ]
+categories: [ "food" ]
 title: "Serra Malte"
 ---
  - 2015-07-10 Experimentei de novo em Minas, é muito bom e forte (e lá barato).

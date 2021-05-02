@@ -1,7 +1,7 @@
 ---
 date: "2017-12-07"
 link: "https://www.imdb.com/title/tt1837492"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "13 Reasons Why"
 ---
 Essa novelinha pré-adolescente consegue ser bem irritante às vezes. Não é uma produção barata nem tosca. Muito pelo contrário. Há muitas virtudes narrativas em um trabalho que parece descartar apenas uma virtude dentre as que escolheu: coerência. E é através dessa "pequena" falha que podemos concluir que, apesar de tecnicamente interessante e artisticamente bonito, "13 Reasons Why" é uma merda colossal que revela que esta geração tem pouquíssimas chances de sobreviver a eles mesmos.

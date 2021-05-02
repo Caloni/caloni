@@ -1,7 +1,7 @@
 ---
 date: "2015-10-06"
 link: "https://www.imdb.com/title/tt1182345"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Lunar"
 ---
 Três anos. Apenas isso, e termina o contrato entre Lunar, uma corporação que domina o ramo de energia na Terra, e Sam (Sam Rockwell), o trabalhador solitário da estação de coleta de Hélio 3 na Lua. Como única companhia, Sam dispõe de GERTY (Kevin Spacey), um computador que reconhece a voz e o sentimento do astronauta. Em "Lunar", curiosamente, a única voz amiga do ser humano é um programa cibernético.

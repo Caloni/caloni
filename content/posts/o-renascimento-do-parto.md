@@ -1,7 +1,7 @@
 ---
 date: "2018-05-07"
 link: "https://www.imdb.com/title/tt2974412"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Renascimento do Parto"
 ---
 Quase um panfleto institucional. Mas longo demais. O Renascimento do Parto é uma grande falácia pelo apelo à natureza, pelo apelo à emoção e muita desinformação que apela para evidências científicas ao mesmo tempo que fala sobre energia cósmica. Se trata da bagunça que surge quando o pessoal de humanas resolve debater. Quer dizer, não se trata de fato um debate, mas uma posição bem formada desde o início pró-alguma coisa e em seguida o descascamento de testemunhos e especialistas validando a única opinião que pode estar certa, e se você estiver errado você é... como é mesmo o nome? Ah, sim: fascista.

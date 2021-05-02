@@ -1,7 +1,7 @@
 ---
 date: "2011-12-31"
 link: "https://www.imdb.com/title/tt0086190"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Star Wars, Episódio VI: O Retorno do Jedi"
 ---
 Hora de assistir novamente a conclusão da saga de George Lucas, dessa vez após ter visto a nova trilogia e o significado que ela insere na antiga (em especial [A Vingança dos Sith]). Uma direção de arte cada vez mais impecável, que consegue equilibrar o tema espacial com a fantasia por trás da história. Quando C3PO narra a aventura épica dos personagens em torno da fogueira é o momento mais icônico e que melhor representa o conceito por trás das lendas filmadas de Star Wars. Parece não haver mais o que acrescentar a este universo, embora a direção aqui se mostre mais pausada, madura e consciente de seu final mais trágico que de costume.

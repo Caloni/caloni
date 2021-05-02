@@ -1,7 +1,7 @@
 ---
 date: "2016-06-03"
 link: "https://www.imdb.com/title/tt4699388"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Um Amor À Altura"
 ---
 É estranha a sensação de assistir a Um Amor À Altura, sabendo que esta é uma comédia romântica francesa. Ao mesmo tempo que podemos encontrar situações em sua história tipicamente europeias (e francesas), há um misto com comédia pastelão que dificilmente funciona. E é preciso lembrar que ainda existe um terceiro filme acontecendo: o terrível drama que é o mundo dos ricos e bem-sucedidos. Sim, há até um pouco de Nancy Meyers em uma comédia romântica francesa.

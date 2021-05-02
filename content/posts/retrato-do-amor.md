@@ -1,7 +1,7 @@
 ---
 date: "2019-08-06"
 link: "https://www.imdb.com/title/tt7778680"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Retrato do Amor"
 ---
 Sabe aquelas sensações perdidas em um mundo onde as pessoas vivem correndo de um canto para o outro e não têm tempo para apreciar uma tarde quente, ensolarada e movimentada no Portão de Mumbai? Retrato do Amor é um trabalho sensível do diretor indiano Ritesh Batra porque resgata isso para nossos olhos, mentes e corações.

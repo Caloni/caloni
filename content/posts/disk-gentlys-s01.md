@@ -1,7 +1,7 @@
 ---
 date: "2017-04-21"
 link: "https://www.imdb.com/title/tt4047038"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Dirk Gently's Holistic Detective Agency - Primeira Temporada"
 ---
 Eis que termino a primeira temporada dessa série, e sou obrigado a dizer que quem estiver disposto a assisti-la terá que necessariamente ir até o minuto final para entender a engenhosa estrutura de seu roteiro, que consegue tornar o todo melhor que a soma de suas partes. Não que já não seja divertido acompanhar tantos weirdos por metro quadrado.

@@ -1,7 +1,7 @@
 ---
 date: "2018-05-26"
 link: "https://www.imdb.com/title/tt6060156"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Toc Toc"
 ---
 Este é um filme de mau-gosto. Ele explora como comédia diferentes tipos de Transtornos Obsessivo-Compulsivos. E ele não é de mau-gosto por causa do Politicamente Incorreto, mas justamente por causa dele. Como ele é leve demais se torna uma afronta usar a doença dessas pessoas para criar um filme sem graça, com piadas soltas e que não possui sequer personagens reais.

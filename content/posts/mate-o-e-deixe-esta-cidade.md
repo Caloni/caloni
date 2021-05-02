@@ -1,7 +1,7 @@
 ---
 date: "2020-10-18"
 link: "https://www.imdb.com/title/tt8387918"
-tags: [ "movies", "cinemaqui" ]
+categories: [ "movies", "cinemaqui" ]
 title: "Mate-o e Deixe Esta Cidade"
 ---
 Que viagem é este Mate-o e Deixe Esta Cidade. Ótima música pelo compositor e guitarrista polonês Tadeusz Nalepa, que esteve ativo na cena rock/blues nos anos 70 com a banda Breakout. É uma música que vai na alma e que tem tudo a ver com esta vigorosa, conceitual, mórbida animação.

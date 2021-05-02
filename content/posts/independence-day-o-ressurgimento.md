@@ -1,7 +1,7 @@
 ---
 date: "2016-07-14"
 link: "https://www.imdb.com/title/tt1628841"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Independence Day: O Ressurgimento"
 ---
 Mais um remake que uma continuação. Infestado de momentos, diálogos e situações idênticas ao original, "Independency Day: Resurgence" se rende à fórmula que o tornou uma das farofas mais divertidas e rentáveis da década de 90.

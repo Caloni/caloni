@@ -1,7 +1,7 @@
 ---
 date: "2020-09-06"
 link: "https://www.imdb.com/title/tt1529569"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Uma Doce Mentira"
 ---
 Vivemos em tempos cínicos e desprovido de leveza. São tempos em que quando alguém encontra doces palavras de amor em letra de mão endereçadas a você o primeiro pensamento é que só pode ser obra de um velho tarado.

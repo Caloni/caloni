@@ -1,7 +1,7 @@
 ---
 date: "2011-02-13"
 link: "https://www.imdb.com/title/tt1007028"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Pagando Bem, que Mal Tem?"
 ---
 Embora Seth Rogen possua um carisma que transforma as piadas de sua boca, por mais insossas que sejam, como a coisa mais divertida do mundo, o fato é que "Pagando Bem" mal consegue se segurar em sua narrativa confusa e embaraçosa.

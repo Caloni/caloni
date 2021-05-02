@@ -1,7 +1,7 @@
 ---
 date: "2015-12-27"
 link: "https://www.imdb.com/title/tt0074958"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Rede de Intrigas"
 ---
 Sidney Lumet é um gênio em pegar questões delicadas e profundas da nossa sociedade e inseri-las em histórias corriqueiras ou com uma roupagem 100% pessoal. É assim com os clássicos Um Dia de Cão e Serpico, e não seria diferente quando o tema agora é a TV como ferramenta de divulgação de notícias. Ou pelo menos essa era a ideia original.

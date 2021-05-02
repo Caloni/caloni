@@ -1,7 +1,7 @@
 ---
 date: "2020-09-07"
 link: "https://www.imdb.com/title/tt0114134"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Livro de Cabeceira"
 ---
 Esta adaptação do texto clássico japonês recebe o tratamento experimental do diretor Peter Greenaway, o que quer dizer que durante quase todo filme você vai se sentir dentro de uma daquelas salinha de museu de arte moderna vendo um vídeo conceitual. Infelizmente este vídeo tem duas horas de duração.

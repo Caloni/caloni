@@ -1,7 +1,7 @@
 ---
 date: "2008-02-05"
 title: "Process Monitor e o monopólio malcriado"
-tags: [ "code" ]
+categories: [ "code" ]
 ---
 Uma das primeiras regras que aprendemos para manter a integridade do Windows é utilizá-lo somente com a conta de usuários restritos, o que evitaria, por exemplo, que um programa mal-intencionado instale um serviço ou driver, que teriam acesso às partes íntimas do sistema operacional.
 

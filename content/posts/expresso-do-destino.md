@@ -1,7 +1,7 @@
 ---
 date: "2020-07-20"
 link: "https://www.imdb.com/title/tt11988512"
-tags: [ "movies", "cinemaqui" ]
+categories: [ "movies", "cinemaqui" ]
 title: "Expresso do Destino"
 ---
 Expresso do Destino começa meio estranho. Os diálogos são fracos. Um misto entre realismo e amadorismo. Este é o cinema independente do século 21, onde tudo já foi tentado e a mínima diferença se destaca e ganha prêmios.

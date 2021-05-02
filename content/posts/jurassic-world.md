@@ -1,7 +1,7 @@
 ---
 date: "2015-06-24"
 link: "https://www.imdb.com/title/tt0369610"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Jurassic World: O Mundo dos Dinossauros"
 ---
 A trilha sonora de John Williams é bem aproveitada nessa continuação de emoções de Jurassic Park, mais de 20 anos depois de ser produzido, para um público mais aficionado por efeitos, 3D e a computação gráfica no seu limite. Por isso mesmo não se pode negar que no quesito entretenimento ele se sai maravilhosamente bem, impressionando quase da mesma forma com que o filme de Steven Spielberg nos impressionou. E quase já é algo muito bom para uma franquia já desgastada tentando se reerguer com ideias "novas".

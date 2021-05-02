@@ -1,7 +1,7 @@
 ---
 date: "2016-07-31"
 link: "https://www.imdb.com/title/tt2381111"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Brooklyn"
 ---
 Aroma de série de TV. Acontecimentos espaçados em episódios, convenientemente movendo a história. Apesar disso, este é um filme que consegue dialogar o tema da imigração com uma sutileza ímpar ao lidar com o arco narrativo de sua heroína de maneira sóbria.

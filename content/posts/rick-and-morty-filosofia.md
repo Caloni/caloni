@@ -1,7 +1,7 @@
 ---
 date: "2017-10-21"
 link: "https://www.imdb.com/title/tt2861424"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "A Filosofia de Rick And Morty: Primeira Temporada (anotações)"
 ---
 Reassistindo a Primeira Temporada de Rick & Morty para revisar alguns pontos filosóficos fascinantes da série. Acabei vendo a Segunda Temporada e, como já acabou, a Terceira também. E a terceira é provavelmente a melhor de todas. Vejam! Eu sou Pickle Rick!!

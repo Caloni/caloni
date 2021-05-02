@@ -1,7 +1,7 @@
 ---
 date: "2011-06-07"
 link: "https://www.imdb.com/title/tt1270798"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "X-Men: Primeira Classe"
 ---
 Quando se fala de X-Men no cinema é sempre bom relembrar que uma ficção científica, assim como qualquer filme, é um documentário da época em que foi filmado. No caso do gênero Sci-Fi, as liberdades são significativamente maiores, e por isso mesmo permitem alegorias/caracterizações que nos levam a viajar para outro universo e debater temas tão presentes no mundo de hoje quanto o preconceito e a intolerância.

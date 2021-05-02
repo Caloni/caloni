@@ -1,7 +1,7 @@
 ---
 date: "2015-08-23"
 link: "https://www.imdb.com/title/tt3595966"
-tags: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , "cinemaqui" ]
 title: "Numa Escola de Havana"
 ---
 Uma sociedade onde o filho cuida da mãe drogada, é explorado pelo suposto pai e ainda precisa seguir o que os adultos lhe dizem para fazer, pois, como se costuma dizer, uma criança "nunca deveria estar fazendo essas coisas". Pois adivinhe só? Em "Numa Escola em Havana", o governo não se importa com que uma criança trabalhe, mas impede que um pai sustente sua família por morar no distrito errado.

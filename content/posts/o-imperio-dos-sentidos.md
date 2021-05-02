@@ -1,7 +1,7 @@
 ---
 date: "2019-06-03"
 link: "https://www.imdb.com/title/tt0074102"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Império dos Sentidos"
 ---
 Meu amigo tem um conselho sobre mulheres: "arrume as vadias e fique longe das loucas." Este é um filme pra quem gosta de putaria. Ele tem putaria do começo ao fim. É um homem comendo um monte de mulher, até que chega a novinha louca. Ele não tem um amigo como eu, e está condenado a ser sugado, literalmente e metaforicamente, pela japinha insaciável.

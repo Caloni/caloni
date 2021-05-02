@@ -1,7 +1,7 @@
 ---
 date: "2012-03-13"
 link: "https://www.imdb.com/title/tt0780504"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Drive"
 ---
 A filmagem no estilo homenagem aos anos 80 cativa e ao mesmo tempo cria uma atmosfera que aceitamos exatamente pelas inúmeras referências da época, como os créditos estilosos ou as frequentes mas elegantes transições em que o personagem de Ryan Gosling ([Tudo pelo Poder]) aparece em um plano detalhe e se "esfumaça" para outra cena.

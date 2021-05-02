@@ -1,7 +1,7 @@
 ---
 date: "2015-08-09"
 link: "https://www.imdb.com/title/tt0185431"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Um Diabo Diferente (aka Little Nicky)"
 ---
 Todo momento em Little Nicky pode ser resumido em pausar a ação, ver uma piada de gosto duvidoso, dar ou não uma risada -- algo muito pessoal -- e continuar a história do filho do diabo que precisa reencontrar seus dois irmãos na Terra e enviá-los de volta para o inferno ou seu pai, o Diabo, irá derreter até definhar.

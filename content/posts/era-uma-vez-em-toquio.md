@@ -1,7 +1,7 @@
 ---
 date: "2013-10-31"
 link: "https://www.imdb.com/title/tt0046438"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Era uma Vez em Tóquio"
 ---
 Tokyo Story, ou Era Uma Vez em Tóquio, como seus títulos ocidentais sugerem, é um conto, que se constrói no Japão pós-guerra e faz uma dura crítica à sociedade ocidentalista da época, mas como todo grande filme se torna atual mesmo 50 anos depois pelas suas mensagens eternas sobre vida e família.

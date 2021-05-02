@@ -1,7 +1,7 @@
 ---
 date: "2012-04-02"
 link: "https://www.imdb.com/title/tt0800369"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Thor"
 ---
 Não há nada para se ver em Thor. É bobinho, está na direção automática e possui uma fotografia e uma trilha sonora que combinam com sua falta de personalidade. Ou seja, a Marvel pode levar a sério seus cronogramas e personagens, mas não o Cinema em si.

@@ -1,7 +1,7 @@
 ---
 date: "2014-04-29"
 title: Que geleia de mocotó
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 [![cowblet-cover](http://i.imgur.com/iqT5sSy.jpg)](/images/14065766204_532438eaed_n.jpg)
 

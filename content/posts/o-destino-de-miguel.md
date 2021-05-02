@@ -1,6 +1,6 @@
 ---
 date: "2016-09-11"
-tags: [ "draft" ]
+categories: [ "draft" ]
 title: "O Destino de Miguel"
 ---
 Graças às leis de propriedade intelectual não temos muitas produções desse tipo, mas felizmente temos algumas. E essa, produzida de forma profissional por grandes nomes da dramaturgia brasileira, realiza um curta-metragem mais que necessário como extra de DVD do filme Shakespeare Apaixonado, aquele hollywoodiano que ganhou Oscar porque... porque... bom, porque não é dublado como O Destino de Miguel.

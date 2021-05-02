@@ -1,7 +1,7 @@
 ---
 date: "2017-09-24"
 link: "https://www.imdb.com/title/tt3903322"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "The Birth Of Sake"
 ---
 Este filme é uma passagem integral, burocrática e um tanto poética de uma fabricante de saquê nos moldes tradicionais do Japão. Há pouca informação e muita pseudo-emoção. Quase um apelo pela sobrevivência dos tradicionalistas, frente a uma indústria que automatizou quase todo o processo com máquinas.

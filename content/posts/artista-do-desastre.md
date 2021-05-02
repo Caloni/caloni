@@ -1,7 +1,7 @@
 ---
 date: "2018-06-05"
 link: "https://www.imdb.com/title/tt3521126"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Artista do Desastre"
 ---
 The Room é um filme especial para muita gente (eu incluso). A maioria dos filmes ruins são apenas filmes com um roteiro equivocado, baixo orçamento, atuações pedestres e uma direção perdida. Os sharknados da vida, por exemplo, são divertidos, mas foram já feitos sem a intenção de serem bons. E a saga Transformers apenas comprova que Michael Bay está cada vez mais senil. Já obras como The Room possui um charme em sua produção que transcende o trash, o gore ou qualquer outro atributo que você utilize para a categoria dos filmes ruins. Ele transcende de tal forma que ele merece um filme sobre ele, tal poder de sedução ele exerce para o cinéfilo apaixonado pelo Cinema e o que quer que seja que ele tem a oferecer. Vamos analisar um pouco o que é isso.

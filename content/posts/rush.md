@@ -1,7 +1,7 @@
 ---
 date: "2016-03-20"
 link: "https://www.imdb.com/title/tt1979320"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Rush: No Limite da Emoção"
 ---
 Rush não é um filme apenas sobre a rivalidade de dois pilotos de corrida, mas sobre dois estilos de vida. Melhor ainda, é sobre uma rivalidade que de fato existiu na vida real, entre o britânico James Hunt (Chris Hemsworth) e o austríaco Niki Lauda (Daniel Brühl). O primeiro é o ápice do estereótipo dos pilotos de Fórmula 1: sexo, drogas e fama. O segundo é seu oposto: um profissional das pistas. Hunt tem os cabelos compridos e em seu macacão está escrito "sexo: o café-da-manhã dos campeões". Lauda analisa o risco de não sair vivo de uma corrida e estabelece para si o limite de 20%.

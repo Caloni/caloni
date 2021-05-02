@@ -1,7 +1,7 @@
 ---
 date: "2019-03-31"
 link: "https://www.imdb.com/title/tt0363589"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Elefante"
 ---
 Coincidência ver esse filme agora, pois semana passada estava conversando com um amigo meu sobre Boyhood e se a produção de um filme deve/pode interferir na forma como o filme é visto e avaliado. Esta é uma coincidência porque Elefante é um caso mais extremo ainda, pois se assistimos sem saber nada de antemão descobrimos apenas nos créditos finais que seus personagens são estudantes reais, e isso reflete diretamente sobre como enxegamos este trabalho excepcional de Cinema.

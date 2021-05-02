@@ -1,6 +1,6 @@
 ---
 date: "2019-06-17"
-tags: [ "draft", "reading" ]
+categories: [ "draft", "reading" ]
 title: "Film Theory and Criticism"
 ---
 Este é um livro-referência sobre crítica cinematográfica que você encontra em respostas do Quora sobre onde aprender mais sobre o assunto. Aliás, falando sobre a profissão, a resposta do crítico Mark Hughes é bem completa, além de desanimadora para os interessados em ingressar na área. Mas voltemos à teoria.

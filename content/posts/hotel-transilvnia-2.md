@@ -1,7 +1,7 @@
 ---
 date: "2016-02-22"
 link: "https://www.imdb.com/title/tt2510894"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Hotel Transilvânia 2"
 ---
 Adam Sandler consegue a proeza de tornar a tosca dublagem brasileira menos pior do que ouvi-lo arriscar um sotaque que é uma mistura de Zohan com trechos de Little Nick.

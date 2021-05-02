@@ -1,7 +1,7 @@
 ---
 date: "2011-11-01"
 link: "https://www.imdb.com/title/tt1645109"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Maria My Love"
 ---
 Existem filmem que costumam martelar um mesmo conceito por um motivo qualquer. No caso de Maria My Love, projeto independente filmado em um discutível digital (mas "assistível"), o amadorismo no uso do foco é o tal conceito, pois pode-se perceber durante todo o filme sua insistência irritante em nunca manter a lente focada, não importando se o que estamos vendo é um personagem ou objeto.

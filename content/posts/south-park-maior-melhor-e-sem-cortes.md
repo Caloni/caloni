@@ -1,7 +1,7 @@
 ---
 date: "2013-11-02"
 link: "https://www.imdb.com/title/tt0158983"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "South Park: Maior, Melhor e Sem Cortes"
 ---
 Não é nenhuma novidade que [a série South Park] preza pelo irreverente e polêmico em prol da comédia e, principalmente, na análise da estupidez humana (espectadores inclusos). No seu longa-metragem, portanto, nada muda. O diferencial é um frescor de piadas sobre os últimos acontecimentos no mundo que seriam feitas na versão televisiva de uma forma ou outra.

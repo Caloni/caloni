@@ -1,7 +1,7 @@
 ---
 date: "2014-03-14"
 link: "https://www.imdb.com/title/tt1282140"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Mentira"
 ---
 Temas como em "Easy A" existem aos montes na cinematografia adolescente estadounidense. Em um país cada vez mais puritano o fato de você ser uma adolescente que teve momentos íntimos com um cara já é sinal de má conduta; ter momentos íntimos com dois caras ou mais que isso já é certificado de prostituta. No caso desse filme dirigido por Will Gluck (Amizade Colorida) e escrito por Bert V. Royal (?) essa nada original história é vagamente explorada em torno de personagens que se misturam e nunca conseguem convencer como pessoas de carne e osso, e confesso que em alguns momentos sequer me lembrava dos coadjuvantes mais próximos de Olive, a protagonista (Ah, Emma Stone...).

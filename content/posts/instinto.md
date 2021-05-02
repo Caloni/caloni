@@ -1,7 +1,7 @@
 ---
 date: "2020-01-14"
 link: "https://www.imdb.com/title/tt8386898"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Instinto"
 ---
 A imersão tensa e crescente de Instinto, estreia da atriz Halina Reijn na direção, possui suas bases nas atuações de Carice van Houten e de Marwan Kenzari, que fazem uma psicóloga e seu paciente, e ambos estão sem controle. Ela foi e é abusada pela mãe; ele é um estuprador em série em habilitação. Incapazes de tomar as rédeas de suas vidas, ambos caminham por essa tênue linha entre as regras de convívio social e uma intimidade física brutal.

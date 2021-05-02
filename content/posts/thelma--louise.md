@@ -1,7 +1,7 @@
 ---
 date: "2015-12-28"
 link: "https://www.imdb.com/title/tt0103074"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Thelma & Louise"
 ---
 "Quantas vezes mais essas mulheres vão ser maltratadas?", pergunta um personagem perto do final do filme. Se formos considerar tudo que aconteceu com essas mulheres e por que elas seguiram por esse caminho, veremos que além da pergunta ser retórica, ela se dirige muito mais para o espectador do que para as pessoas do filme.

@@ -1,7 +1,7 @@
 ---
 date: "2010-11-26"
 link: "https://www.imdb.com/title/tt1424432"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Senna"
 ---
 De que são feitos os heróis? Como uma pessoa cresce internamente e transparece externamente, para o resto do mundo, como alguém que faz a diferença; tanto profissional, quanto moralmente?

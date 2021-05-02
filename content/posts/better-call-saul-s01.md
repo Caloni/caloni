@@ -1,7 +1,7 @@
 ---
 date: "2016-04-22"
 link: "https://www.imdb.com/title/tt3032476"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Better Call Saul - Primeira Temporada"
 ---
 A primeira temporada de Better Call Saul, spin-off do personagem Saul Goodman da série Breaking Bad, realiza um arco tão lendário quando o Walter White da série original. Esse arco é mais simples, previsível em sua própria estrutura, mas simplório jamais. Oscilando entre o cômico e o dramático, ganha mais o espectador que encara tudo aquilo como um drama tão intenso que consegue soar às vezes caricato, mas no final acaba se transformando em um tema digno de reflexão: como pode um sujeito ser esmagado de tantas formas diferentes e, ainda assim, continuar resistindo?

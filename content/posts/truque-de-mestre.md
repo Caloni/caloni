@@ -1,7 +1,7 @@
 ---
 date: "2016-06-21"
 link: "https://www.imdb.com/title/tt1670345"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Truque de Mestre"
 ---
 Abracadabra! Surge um péssimo filme. Embalado naquele formato de reviravoltas, este filme não contém nenhuma, pois ele nunca nos faz crer em X para depois revelar Y. Todas suas "bombásticas" revelações são simplesmente isso: revelações. Geralmente algo novo que não tinha qualquer relação com o que foi mostrado até agora, e se tem alguma, é jogada no ar como uma carta qualquer.

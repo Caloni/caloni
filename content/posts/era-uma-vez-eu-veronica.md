@@ -1,7 +1,7 @@
 ---
 date: "2013-01-10"
 link: "https://www.imdb.com/title/tt1663661"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Era Uma Vez Eu, Verônica"
 ---
 Cinema, Aspirinas e Urubus se tornava mais interessante à medida que prestávamos menos atenção à história e mais em seus personagens. Aqui, o diretor Marcelo Gomes repete a fórmula de maneira mais introspectiva ainda, acompanhando a vida de Verônica através quase apenas de seu gravador e seus pensamentos.

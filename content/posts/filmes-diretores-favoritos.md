@@ -1,6 +1,6 @@
 ---
 date: "2017-08-23"
-tags: [ "draft",  ]
+categories: [ "draft",  ]
 title: "Filmes e Diretores Favoritos"
 ---
 Essas perguntas no estilo de listas me fazem travar. Minha resposta sempre será injusta porque eu vou esquecer filmes e diretores que gosto mais do que os que eu citar. 

@@ -1,7 +1,7 @@
 ---
 date: "2020-09-26"
 link: "https://www.imdb.com/title/tt10168672"
-tags: [ "movies", "cinemaqui" ]
+categories: [ "movies", "cinemaqui" ]
 title: "Os Infiéis"
 ---
 Os Infiéis captura tão bem a essência das traições do ponto de vista dos homens que deverá acabar sendo mal visto por todos que o assistirem, mesmo que gostem. Desculpem, é a lei. Hoje em dia não dá pra gostar de filmes com muita verdade. Sujeito a multa.

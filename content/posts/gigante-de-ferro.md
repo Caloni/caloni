@@ -1,7 +1,7 @@
 ---
 date: "2014-12-20"
 link: "https://www.imdb.com/title/tt0129167"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Gigante de Ferro"
 ---
 Primeiro trabalho em longas de Brad Bird (Os Incríveis, Ratatouille), essa simpática animação peca apenas por ter alguns efeitos desajeitados e por carecer de expressões melhores para seus personagens. Fora isso, é um trabalho conciso e coeso e uma espécie de "reimaginação" de ET como um ser robótico e construído realmente com fins militares.

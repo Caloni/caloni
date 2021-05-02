@@ -1,6 +1,6 @@
 ---
 date: "2018-10-10"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "A Odisseia de Peter"
 ---
 É difícil imaginar o que se passa pela cabeça de uma criança de 12 anos. E essa é a sensação ao assistir A Odisseia de Peter, um filme que lida com a quebra repentina de laços familiares, culturais e linguísticos de um garoto russo e sua incessante vontade inconsciente de conseguir essas raízes de volta.

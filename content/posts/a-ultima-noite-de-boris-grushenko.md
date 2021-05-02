@@ -1,7 +1,7 @@
 ---
 date: "2020-12-09"
 link: "https://www.imdb.com/title/tt0073312"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Última Noite de Bóris Grushenko"
 ---
 Ainda na fase comédia pastelão tem essa paródia dos romances russos que Woody Allen tanto evoca em seus diálogos existencialistas e filosóficos. Ele dirige um filme de guerra e traição como quem está montando um quadro para o final de noite no Zorra Total, mas é muito charmoso, ingênuo e sagaz. Ele não consegue evitar pensar a respeito dos temas que se propõe a falar, e por tabela não nos deixa, espectadores, parar de pensar também. Comédias de Allen são exaustivas, e as como essa são exaustivas apesar de medíocres.

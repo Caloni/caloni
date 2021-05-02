@@ -1,7 +1,7 @@
 ---
 date: "2019-06-24"
 link: "https://www.imdb.com/title/tt1473832"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Bebê de Bridge Jones"
 ---
 Fui convidado a assistir um filme simples, dos que se desliga o cérebro. Tão simples que é a segunda continuação de uma história e você não precisa saber muita coisa ou nada de como anda esta novela em que Renée Zellweger fala com sotaque britânico admirável. Detalhe: ela é americana.

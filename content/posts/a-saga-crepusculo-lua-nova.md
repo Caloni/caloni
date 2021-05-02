@@ -1,7 +1,7 @@
 ---
 date: "2012-06-10"
 link: "https://www.imdb.com/title/tt1259571"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Saga Crepúsculo: Lua Nova"
 ---
 O [filme inicial] da "saga Crepúsculo" merecia o benefício da dúvida, pois pelas condições com que a história foi desenvolvida ficava muito difícil encaixar o filme no grupo de filmes sérios ou nas paródias. No entanto, com Lua Nova essa dúvida se dissipa completamente, graças aos torturantes 130 minutos que insistem em colocar a protagonista Bella Swan (Kristen Stewart) em diversas situações que nada alteram seu conflito inicial: devo conseguir obrigar meu namorado vampiro Edward Cullen (Robert Pattinson) a me transformar em um ser imortal ou devo morrer tentando?

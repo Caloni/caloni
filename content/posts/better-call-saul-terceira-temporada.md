@@ -1,7 +1,7 @@
 ---
 date: "2017-07-03"
 link: "https://www.imdb.com/title/tt3032476"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Better Call Saul - Terceira Temporada"
 ---
 O espírito de Better Call Saul é o mesmo de Breaking Bad. A moral de seus personagens frequentemente oscila entre o aceitável e o criminoso. Porém, enquanto em Breaking Bad as ações de Walter White paulatinamente caminhariam em direção a atos que, sem sombra de dúvida, o deveria colocar por detrás das grades, este spin-off com o advogado da série original como protagonista nunca chega nesse nível, preferindo trabalhar a ambiguidade e a forma torta da justiça na vida real, onde às vezes -- ou quase sempre? -- as decisões dependem mais da narrativa e menos dos fatos.

@@ -1,7 +1,7 @@
 ---
 date: "2016-07-05"
 link: "https://www.imdb.com/title/tt3577624"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Um Dia Perfeito"
 ---
 Esse é um filme que pode irritá-lo pela quantidade indiscriminada de músicas animadas (e rock pesado) floreando um drama que tenta ser bem-humorado e mais intenso do que na verdade é. No entanto, ignore isso e terá um ótimo filme que usa o humor para aproximar as pessoas de um drama que parece existir apenas em países longínquos que vivem em guerra, mas que, se olharmos mais de perto, acharemos algo estranhamente familiar nessas pessoas: elas são tão humanas quanto qualquer um de nós.

@@ -1,7 +1,7 @@
 ---
 date: "2019-12-26"
 link: "https://www.imdb.com/title/tt7959026"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Mula"
 ---
 Todos estão compenetrados em seus celulares, mas Earl Stone continua vivendo sem o uso de aparelhos. A triste história é que o último filme de Eastwood é o clichê do pai ausente, mas a boa notícia é que ele tira sarro de justiceiros sociais com certa sutileza, ou às vezes não, como quando um latino está sendo enquadrado pela polícia e fica repetindo como aqueles cinco minutos são os mais perigosos de sua vida, sendo latino e tudo mais. Ele teme por sua vida baseado em estatísticas que nem ele sabe direito traduzir, em uma tradução simples e eficiente de como o pensamento liberal americano está corrompido por uma lógica vazia que tenta sustentar sentimentos contraditórios com a realidade. Enfim, é sempre bom poder ver um novo filme do velho Clint.

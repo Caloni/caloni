@@ -1,6 +1,6 @@
 ---
 date: "2008-10-07"
-tags: [ "draft", "ccppbr" ]
+categories: [ "draft", "ccppbr" ]
 title: "Impressões do quinto encontro de CCPP"
 ---
 Pois é, passou, acabou... e foi muito bom!

@@ -1,7 +1,7 @@
 ---
 date: "2011-12-20"
 link: "https://www.imdb.com/title/tt0446687"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Lições de Vida"
 ---
 Filme estrelado por Rupert Grint, e quem está acostumado com seus trejeitos na [saga Harry Potter](onde ele faz Ron Weasley, o melhor amigo de Harry) não vai se decepcionar. Para os que esperavam uma atuação mais envolvida com um projeto apartado dos livros dos bruxinhos, vai.

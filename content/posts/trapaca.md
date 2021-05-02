@@ -1,7 +1,7 @@
 ---
 date: "2014-02-13"
 link: "https://www.imdb.com/title/tt1800241"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Trapaça"
 ---
 Uma história baseada em acontecimentos da década de 70 não poderia deixar de incluir em sua trilha sonora clássicos badalados de uma era musicalmente ambiciosa e transcendental como aquela. Também não poderia deixar de incluir o sexo livre, uma das frentes do movimento hippie iniciado na década anterior e que já operava mudanças na estrutura social americana (discussões sobre divórcio). E, de fato, as músicas escolhidas em Trapaça são um atrativo à parte que nos ajuda a mergulhar naquela atmosfera. Já o sexo, mais sugerido que prático, mantém a visão puritana atual (diferente dO Lobo de Wall Street, de Scorsese), mas não deixa de escandalizar ao trazer uma Amy Adams (Encantada, O Homem de Aço) completamente transformada em uma sex appeal disposta a usar suas curvas, pele e olhos como um atrativo e tanto para dezenas de olhares masculinos. Porém, o que Adams não exibe, mas sabemos no início que possui em boa dose, é sua inteligência. Diferente de Rosalyn (Jennifer Lawrence), cuja concorrência pela atenção do seu marido Irving (Christian Bale) é fisicamente e intelectualmente desleal.

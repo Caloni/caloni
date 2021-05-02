@@ -1,7 +1,7 @@
 ---
 date: "2012-10-21"
 link: "https://www.imdb.com/title/tt1325004"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Eclipse"
 ---
 Eclipse encontra no eterno drama -- protagonizado pelo trio Jacob (Lautner), Edward (Pattinson) e Bella (Stewart) -- o combustível para prosseguir com a saga das famílias de vampiros e lobisomems mutantes que povoam o limitado universo da escritora Stephenie Meyer.

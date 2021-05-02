@@ -1,7 +1,7 @@
 ---
 date: "2013-11-22"
 link: "https://www.imdb.com/title/tt1817273"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Lugar Onde Tudo Termina"
 ---
 É uma satisfação imensa presenciar tantas virtudes técnicas juntas em um filme ambicioso também em seu lado narrativo e temático. Há muitas ideias a serem interpretadas e sentidas em O Lugar Onde Tudo Termina, sendo a principal delas é: até que ponto nossas escolhas conseguem influenciar de alguma forma o futuro? Há uma justiça (divina ou não) em algum lugar ou tudo é uma questão de interpretação?

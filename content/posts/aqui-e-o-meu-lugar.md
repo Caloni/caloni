@@ -1,7 +1,7 @@
 ---
 date: "2013-10-20"
 link: "https://www.imdb.com/title/tt1440345"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Aqui é o Meu Lugar"
 ---
 Sean Penn é um excelente ator, diga-se de passagem. Mas nesse trabalho em que ele coloca uma peruca (que insiste em assoprar) e fala como se fosse desmaiar a qualquer momento é daqueles típicos casos de vergonha alheia.

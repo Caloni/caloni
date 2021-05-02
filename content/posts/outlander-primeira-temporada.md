@@ -1,7 +1,7 @@
 ---
 date: "2017-07-19"
 link: "https://www.imdb.com/title/tt3006802"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Outlander - Primeira Temporada"
 ---
 Essa série parece uma cria da fórmula criada por Game of Thrones, onde sexo, violência e coadjuvantes de passagem são a lei. Porém, logo fica claro que a intenção nunca foi fugir muito do esquema noveleiro, onde torcemos por um casal principal. Ainda assim, a Escócia e os escoceses são retratados com tanto carinho nostálgico que é possível assistir à novela para se permitir viajar para aqueles tempos de outrora, onde costumes, valores, economia, política e sociedade parecem ligeiramente diferente do que vivemos hoje em dia.

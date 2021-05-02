@@ -1,7 +1,7 @@
 ---
 date: "2019-09-12"
 link: "https://www.imdb.com/title/tt0401383"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Escafandro e a Borboleta"
 ---
 Como adaptar a biografia de alguém que mexe apenas um olho? Esta é uma história real, emocionante para alguns, tendendo ao tédio para outros (eu incluso), mas que no filme de Julian Schnabel consegue nos convencer a embarcar nessa viagem filosófica de auto-conhecimento humano.

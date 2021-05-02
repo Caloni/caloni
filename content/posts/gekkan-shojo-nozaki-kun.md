@@ -1,7 +1,7 @@
 ---
 date: "2020-05-16"
 link: "https://www.imdb.com/title/tt3615002"
-tags: [ "series", "animes" ]
+categories: [ "series", "animes" ]
 title: "Gekkan Shojo Nozaki Kun"
 ---
 Assisti a esta série a temporada inteira e me esforcei para não debochar da fórmula e em troca ganhei algumas piadinhas. Algumas até engraçadas, mesmo que previsíveis. Quem não liga para isso é mais feliz assistindo animes.

@@ -1,7 +1,7 @@
 ---
 date: "2020-08-29"
 link: "https://www.imdb.com/title/tt8946378"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Entre Facas e Segredos"
 ---
 Assisti a este filme do cineasta Rian Johnson tendo em mente que ele é o diretor do melhor filme Guerra nas Estrelas até agora, "Star Wars: Os Últimos Jedi". Além, é claro, do ótimo "Looper: Assassinos do Futuro" e de pelo menos dois dos melhores episódios da série dramática "Breaking Bad". Porém, também sabia que esse filme recebeu ótimos elogios pela sua crítica social, então já esperava que a história não prestaria o suficiente. Os dramalhões com minorias oprimidas e caricaturas da elite americana é lugar tão comum neste século que apenas uma sociedade em decadência para chamar isto de crítica e não de uma maneira sarcástica.

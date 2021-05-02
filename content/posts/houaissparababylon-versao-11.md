@@ -1,6 +1,6 @@
 ---
 date: "2008-12-30"
-tags: [ "code", "draft" ]
+categories: [ "code", "draft" ]
 title: "HouaissParaBabylon versão 1.1"
 ---
 Saindo mais um do forno.

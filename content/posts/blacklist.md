@@ -1,7 +1,7 @@
 ---
 date: "2016-05-20"
 link: "https://www.imdb.com/title/tt2741602"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Blacklist (piloto)"
 ---
 Um episódio, e nada impressionante. Blacklist -- uma série com James Spader, Megan Boone e Harry Lennix -- apresenta um anti-herói que deve começar a fazer "delações premiadas" em troca de imunidade, sendo que ele próprio irá tirar vantagem disso, por conhecer tão bem o submundo do crime e por conhecer melhor ainda o passado, presente e talvez futuro da recém-agente do FBI/CIA/Whatever Elizabeth Keen (Boone).

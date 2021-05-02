@@ -1,7 +1,7 @@
 ---
 date: "2008-07-08"
 title: Projeto-modelo
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 É muito difícil construir um modelo de pastas que sirva para a maioria dos projetos que tivermos que colocar na fôrma. Ainda mais se esses projetos tiverem que futuramente fazer parte da mesma ramificação. Foi pensando em várias coisas que chegamos a uma versão beta que pode ajudar aqueles que ficam pensando durantes dias antes mesmo de colocar as mãos no código.
 

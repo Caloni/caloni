@@ -1,7 +1,7 @@
 ---
 date: "2011-09-27"
 link: "https://www.imdb.com/title/tt1529572"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Confiar"
 ---
 Dirigido e escrito pelos estreante no cinema David Schwimmer e Andy Bellin (esta co-roteirizada por Robert Festinger, do excelente Entre Quatro Paredes), este drama de tons realistas e de caráter emergencial conta a história de Annie, uma jovem colegial que acaba de completar 14 anos e que pertence a uma família tranquila e estruturada. Como todas as jovens de sua idade, costuma passar o tempo alheia à vida em sua volta, se comunicando com amigos virtuais através do celular e de seu computador (presente de aniversário de seu pai, um detalhe sutil, mas trágico).

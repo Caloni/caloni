@@ -1,7 +1,7 @@
 ---
 date: "2015-04-30"
 link: "https://www.imdb.com/title/tt2179136"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Sniper Americano"
 ---
 Sniper Americano é um filme de Clint Eastwood, e com isso deduzimos de onde vem a sensibilidade da maior parte do filme e a calma com que o tempo é conduzido na história de Chris Kyle (um Bradley Cooper irreconhecível), um "caipira" patriota e que resolveu se candidatar ao exército de elite, desistindo de sua vida de caubói e deixando sua esposa sozinha cuidado de seus filhos em longos hiatos, que são as operações que ele participou na última cagada norte-americana: a Guerra do Iraque.

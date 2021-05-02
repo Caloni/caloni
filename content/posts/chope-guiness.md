@@ -1,6 +1,6 @@
 ---
 date: "2017-05-31"
-tags: [ "food" ]
+categories: [ "food" ]
 title: "Chope Guiness"
 ---
 Equilíbrio entre doce, amargo e um toque de café.

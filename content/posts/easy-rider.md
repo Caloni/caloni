@@ -1,7 +1,7 @@
 ---
 date: "2020-06-01"
 link: "https://www.imdb.com/title/tt0064276"
-tags: [ "movies"]
+categories: [ "movies"]
 title: "Easy Rider"
 ---
 O conto de fadas dos motoqueiros liberais americanos que se meteram em negócios com drogas nos estados americanos conservadores. Um Thelma e Louise masculino. Produzido e atuado por Peter Fonda, escrito e atuado por Dennis Hopper, este road movie independente de baixo orçamento apresenta "lindas paisagens" do deserto americano e se leva a sério demais, em uma ode aos tempos simples, que nunca existiram, em que os homens deixavam de brigar por dinheiro, ou o que quer que existisse na época, seja poder ou valores morais.

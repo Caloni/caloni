@@ -1,7 +1,7 @@
 ---
 date: "2015-01-23"
 link: "https://www.imdb.com/title/tt2333784"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Os Mercenários 3"
 ---
 A série Mercenários tem um objetivo bem claro e um público-alvo definido: os fãs dos filmes de ação dos anos 80, onde eu me incluo. Queremos ver esses caras de novo, de preferência todos juntos. Queremos a maior reunião de testosterona jamais feita. Queremos explosões, lutas e cenas de tirar o fôlego.

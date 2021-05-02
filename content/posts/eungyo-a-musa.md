@@ -1,7 +1,7 @@
 ---
 date: "2016-09-04"
 link: "https://www.imdb.com/title/tt2390253"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Eungyo - A Musa"
 ---
 Uma relação entre uma jovem de 17 anos e um velho escritor aclamado de 70 anos é o tema deste drama que começa lúdico, se desenvolve com uma temática ambiciosa com uma crítica de nossa geração, e termina com um inesperado thriller. A sensação é de que ele é longo demais, quando na verdade parece apenas inacabado.

@@ -1,7 +1,7 @@
 ---
 date: "2011-09-07"
 link: "https://www.imdb.com/title/tt1463167"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Viagem de Lucia"
 ---
 Uma produção ítalo-argentina obscura que conta a história de Lúcia e Lea, duas mulheres com visões completamente diferentes da vida que acabam se encontrando e compartilham momentos que irão transformar a vida de uma delas.

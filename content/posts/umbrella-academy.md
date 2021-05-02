@@ -1,7 +1,7 @@
 ---
 date: "2019-05-15"
 link: "https://www.imdb.com/title/tt1312171"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "The Umbrella Academy"
 ---
 Estava assistindo The Umbrella Academy e lá pelo terceiro episódio tive uma ideia genial: assistir já o último. A ideia para um crítico de cinema como eu é clara: não há nada que seja desenvolvido nos episódios intermediários que não será citado ou terá referências no season finale, e se houver não importa tanto assim. Tempo economizado, pretendo fazer isso com todas as séries se o começo não tiver indícios de que o resto seja acima da média.

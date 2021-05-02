@@ -1,7 +1,7 @@
 ---
 date: "2015-07-28"
 link: "https://www.imdb.com/title/tt0145487"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Homem-Aranha"
 ---
 Construído como um clássico fortemente inspirado em Super-Homem de Richard Donner, o debut de Sam Raimi peca por imitação enquanto acerta em todo o resto. "Com grande poder vem grandes responsabilidades" diz menos sobre o garoto picado por uma aranha e mais sobre o homem que o dirige.

@@ -1,7 +1,7 @@
 ---
 date: "2017-08-07"
 link: "https://www.imdb.com/title/tt1605777"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Estranha Obsessão"
 ---
 Pawel Pawlikowski, diretor e roteirista do mais recente e interessante Ida, traça aqui através do romance de Douglas Kennedy um thriller que vai escalando naturalmente, dando tempo ao espectador para se habituar ao drama do escritor Tom Ricks (o habilidoso Ethan Hawke), que chega em Paris em busca da fiha de seis anos e sua esposa, aparentemente possui problemas com a polícia e ainda tem sua mala e carteira roubados. A partir dessa premissa surge um suspense tenso sem forçar muito a situação. Um trabalho econômico e eficiente.

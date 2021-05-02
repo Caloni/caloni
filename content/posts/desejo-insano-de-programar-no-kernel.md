@@ -1,6 +1,6 @@
 ---
 date: "2007-07-12"
-tags: [ "essays" ]
+categories: [ "essays" ]
 title: "Desejo insano de programar no kernel"
 ---
 Muitas vezes meus amigos (um em particular) me perguntam por que não me interesso em programar em kernel mode, como se isso fosse um objetivo a ser alcançado por qualquer programador em user mode. Bom, não é.

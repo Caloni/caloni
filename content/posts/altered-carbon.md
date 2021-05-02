@@ -1,7 +1,7 @@
 ---
 date: "2018-03-04"
 link: "https://www.imdb.com/title/tt2261227"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Altered Carbon"
 ---
 Esta é uma série que lida com algumas questões já abordadas em trabalhos clássicos, como Blade Runner, Ghost in the Shell, etc. E por isso mesmo faz questão de homenageá-las em seu design. Dessa forma, é curioso ver como a megalópole é retratada como um misto entre esses dois trabalhos citados.

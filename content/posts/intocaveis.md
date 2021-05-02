@@ -1,7 +1,7 @@
 ---
 date: "2016-07-28"
 link: "https://www.imdb.com/title/tt1675434"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Intocáveis"
 ---
 Uma das falas mais emocionantes do novo longa de Olivier Nakache e Eric Toledano é quando Philippe (François Cluzet) -- um tetraplégico ricaço que contratou recentemente Driss (Omar Sy), um rapaz pobre e sem experiência como seu enfermeiro -- é questionado por seu amigo se não acharia perigoso estar sempre ao lado de uma pessoa que notadamente não demonstra qualquer compaixão pelo ser humano. Contrariando nossas expectativas, Philippe confessa que é exatamente isso que ele precisa no momento: de alguém que não tenha compaixão de si e de sua condição de dependente da ajuda dos outros para uma vida toda.

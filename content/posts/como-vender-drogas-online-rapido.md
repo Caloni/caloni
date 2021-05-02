@@ -1,7 +1,7 @@
 ---
 date: "2019-06-09"
 link: "https://www.imdb.com/title/tt9184994"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Como Vender Drogas Online (Rápido)"
 ---
 Esta série pisca para os nerds. A geração X (é essa mesmo? Fxda-se) não quer nada da vida e o Zuckerberg da Alemanha resolve vender drogas na darkweb apenas por um motivo: bxcxta.

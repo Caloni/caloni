@@ -1,7 +1,7 @@
 ---
 date: "2020-10-25"
 link: "https://www.imdb.com/title/tt7900106"
-tags: [ "cinemaqui", "movies" ]
+categories: [ "cinemaqui", "movies" ]
 title: "Pari"
 ---
 Não é à toa que o cinema iraniano vira estereótipo de filme que a crítica adora: são os amantes da estética contra os amantes da emoção. No entanto, o clichê de filme iraniano reza de que ele deve ser parado, e não é isso que acontece em Pari, um trabalho tenso, compenetrante, que não nos deixa desviar o olho da tela nem por um segundo. Os únicos momentos para respirar servem como reflexão do que aconteceu até agora, para logo seguir adiante.

@@ -1,7 +1,7 @@
 ---
 date: "2010-11-09"
 title: Patch de emergência 2
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 No artigo anterior fizemos um patch rapidinho na memória se aproveitando de um Sleep nojento que o código nos forneceu.
 

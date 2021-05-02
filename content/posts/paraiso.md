@@ -1,7 +1,7 @@
 ---
 date: "2017-01-20"
 link: "https://www.imdb.com/title/tt4551318"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Paraíso"
 ---
 Paraíso poderia de uma maneira peculiar fazer sessão dupla com A Fita Branca. Enquanto o trabalho de Michael Haneke explora em boa parte do tempo o que tornou uma nação propensa a cometer os horrores que seriam cometidos na Segunda Guerra, este trabalho russo/alemão do diretor Andrey Konchalovskiy já está imerso nesta situação. Vemos as pessoas executando e racionalizando suas tarefas da melhor maneira possível, mesmo que sua tarefa seja quebrar os joelhos de alguém tentando salvar duas crianças ou queimar o maior número de judeus na câmara de gás. Por trás das máscaras sociais dessa época Konchalovskiy conta uma história fascinante de terror através do ultrarrealismo.

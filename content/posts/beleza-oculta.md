@@ -1,7 +1,7 @@
 ---
 date: "2017-03-01"
 link: "https://www.imdb.com/title/tt4682786"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Beleza Oculta"
 ---
 Will Smith se especializou em histórias que o trazem como um heroi carismático que esconde isso por trás de uma máscara de dor e sofrimento. Filmes ótimos com ele como À Procura da Felicidade e Eu Sou A Lenda fazem isso com louvor. Filmes medíocres como Hancock (onde ele é não um heroi, mas um super-heroi) fazem isso no automático. E até filmes ruins como Sete Vidas e Esquadrão Suicida fazem isso de uma forma ou de outra, se entregando às lágrimas fáceis (se você estiver disposto a isso). Então não seria errado pensar que em Beleza Oculta estamos revisitando novamente esta persistente faceta da persona do ator, que está conseguindo realizar este trabalho cada vez mais próximo da perfeição.

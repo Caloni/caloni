@@ -1,7 +1,7 @@
 ---
 date: 2018-01-23T20:40:50-02:00
 title: "Como Apagar o Prompt do seu Programa Windows"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 Geralmente se cria um projeto console/prompt quando há a necessidade de interfacear com o usuário com o uso da tela preta, saída padrão, etc. E no caso do Windows também há a possibilidade de criar um programa Win32 onde não há prompt, pois a função do programa ou é ser invisível ou criar, sabe como é, janelas. Mas nenhum dos dois possibilita ambos ao mesmo tempo. Este snippet permite que você faça isso.
 

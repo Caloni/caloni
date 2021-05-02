@@ -1,7 +1,7 @@
 ---
 date: "2013-10-28"
 link: "https://www.imdb.com/title/tt2013293"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Vidas ao Vento"
 ---
 Não há o que criticar da perfeição técnica dos estúdios Ghibli. Acostumados a entregar desenhos que já seriam motivo de prazer e satisfação só de olhar, os filmes dirigidos pelo mestre Hayao Miyazaki prezam também por uma história completa, uma trilha sonora, uma fotografia, direção de arte, efeitos sonoros que representam juntos sempre o ápice daquele estilo.

@@ -1,7 +1,7 @@
 ---
 date: "2008-08-01"
 title: Antidebugging using the DebugPort
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 When a debugger starts a process to be debugged or, the article case, connects to a already created process, the communication between these processes is made through an internal resource inside Windows called LPC (Local Procedure Call). The system creates a "magic" communication port for debugging and the debugging events pass throw it.
 

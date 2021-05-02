@@ -1,7 +1,7 @@
 ---
 date: "2020-08-19"
 link: "https://www.imdb.com/title/tt0182616"
-tags: [ "series" ]
+categories: [ "series" ]
 title: "Jaspion: mais profundo que Star Wars"
 ---
 Não à toa, essa série japonesa dos anos 80 fez enorme sucesso no Japão e no mundo. Ele eleva a fórmula de ação japonesa com monstros gigantes (gênero conhecido como tokusatsu) a um novo patamar, adicionando estrutura no roteiro, direção coesa, trilha sonora envolvente, efeitos visuais satisfatórios (até hoje), poucos diálogos explicativos (o que é uma mania japonesa, principalmente em animes) e profundidade filosófica mais madura que Star Wars (o que não é difícil, mas convenhamos: é sobre monstros e um robô gigante).

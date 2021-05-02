@@ -1,7 +1,7 @@
 ---
 date: "2019-08-23"
 link: "https://www.imdb.com/title/tt9351980"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Indústria Americana"
 ---
 Os bons momentos em "Indústria Americana", novo documentário da Netflix, são quando os diretores Steven Bognar e Julia Reichert se aprofundam em demonstrar as diferenças brutais entre as culturas chinesa e americana, momento em que finalmente começamos a entender (ou pensamos estar entendendo) o que está acontecendo com o mundo atual e de como ele veio a se tornar como está. E os maus momentos do filme, pra variar, provém da ignorância quase completa da complexa economia contemporânea que rege o mundo, um erro fatal quando se tenta analisar o modus operandi do capitalismo.

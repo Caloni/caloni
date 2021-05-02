@@ -1,7 +1,7 @@
 ---
 date: "2007-12-05"
 title: "Interação entre controles no C++ Builder"
-tags: [ "code" ]
+categories: [ "code" ]
 ---
 Como próxima lição da nossa jornada Borland, vamos aprender a fazer os controles de um form interagirem entre si com a força do pensamento.
 

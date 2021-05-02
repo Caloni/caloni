@@ -1,7 +1,7 @@
 ---
 date: "2017-10-29"
 link: "https://www.imdb.com/title/tt2356777"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "True Detective: Primeiras Impressões do Piloto"
 ---
 True Detective, em sua primeira temporada, é uma série que apresenta Matthew McConaughey e Woody Harrelson em papéis principais em uma narração dupla baseada em depoimentos e flashbacks. Ao final do piloto percebemos que o assunto em que ambos estavam sendo investigados continua à tona, o que gera um dos ganchos mais impressionantes em uma série. Ambientado em Lousiana com locações em lugares pobres e isolados, esta é uma série que por estas pistas já deveria chamar a atenção de quem está procurando por algo acima da média. Mas deixe-me explicar como se chega a essa conclusão assistindo apenas ao primeiro episódio.

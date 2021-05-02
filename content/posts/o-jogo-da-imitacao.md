@@ -1,7 +1,7 @@
 ---
 date: "2015-03-15"
 link: "https://www.imdb.com/title/tt2084970"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Jogo da Imitação"
 ---
 Todo ano existem trabalhos gêmeos no Cinema, ou seja, filmes que por uma razão ou outra estão intrinsecamente relacionados. O Jogo da Imitação é um filme que conta a história do projeto secreto do MI-6 -- o serviço de inteligência britânico -- em quebrar o código da criptografia dos nazistas em plena Segunda Grande Guerra. O projeto se confunde com um de seus idealizadores, Alan Turing, um matemático responsável por desenvolver a teoria que possibilitou a construção dos primeiros computadores digitais e que acreditava que apenas uma outra máquina conseguiria ser tão rápida a ponto de quebrar o código do inimigo durante a janela de 18 horas.

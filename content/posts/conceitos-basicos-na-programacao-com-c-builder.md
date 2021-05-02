@@ -1,7 +1,7 @@
 ---
 date: "2007-12-03"
 title: "Conceitos básicos na programação com C++ Builder"
-tags: [ "code" ]
+categories: [ "code" ]
 ---
 No projeto que é criado quando iniciamos a IDE três arquivos-fonte são gerados: Project1.cpp, Unit1.cpp e Unit1.h. Desses três, vamos analisar o primeiro:
 

@@ -1,7 +1,7 @@
 ---
 date: "2011-07-20"
 link: "https://www.imdb.com/title/tt1216475"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Carros 2"
 ---
 O ponto mais forte no longa original eram as ideias por trás do conceito de carros se comportando como humanos. E até os pequenos detalhes de produção, como o fato dos mosquitos voando serem pequenos carrinhos com asas, contribuíam para tornar aquele universo todo especial.

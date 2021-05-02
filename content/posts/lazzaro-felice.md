@@ -1,7 +1,7 @@
 ---
 date: "2018-12-18"
 link: "https://www.imdb.com/title/tt6752992"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Lazzaro Felice"
 ---
 Este é daqueles filmes que as pessoas assistem e saem um pouco confusas, sem saber direito se entenderam e se gostaram. Mas a boa notícia é que não é necessário desvendar completamente esta pérola para se aproveitar dos momentos dramáticos, cômicos e absurdos deste primeiro longa de ficção da diretora/roteirista Alice Rohrwacher, que ganhou Cannes como melhor roteiro. Sua história é simples o suficiente e seu protagonista cativante o suficiente para que essa fábula se construa como uma ponte entre o divino e o profano.

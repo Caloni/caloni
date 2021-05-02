@@ -1,7 +1,7 @@
 ---
 date: "2017-02-04"
 title: "Um commit por feature"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 
 ---
 Imagine que você vai começar a trabalhar em algo novo. Daí você baixa a última versão do branch de dev e começa a codar. Então chega um momento em que o primeiro, segundo, terceiro commits são necessários para manter a ordem em sua cabeça. "Fiz isso logo de manhã, testei algo diferente antes do almoço e de tarde fui incrementando a solução final até passar todos os testes." Tudo bonito. Mas como fica na hora de subir essa bagaça pras pessoas verem?

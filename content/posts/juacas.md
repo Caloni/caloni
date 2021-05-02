@@ -1,6 +1,6 @@
 ---
 date: "2017-05-18"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Juacas"
 ---
 A nova série da Disney, Juacas, tem todos os elementos que  você esperaria de um conteúdo tipicamente Disney. Focado em uma galera jovem e despreocupada, há moças e rapazes em um clima descolado e um ambiente que lembra um pouco a novela Malhação, mas que ensaia contar uma história mais minissérie.

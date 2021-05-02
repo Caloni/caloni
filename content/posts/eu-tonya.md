@@ -1,7 +1,7 @@
 ---
 date: "2018-01-13"
 link: "https://www.imdb.com/title/tt5580036"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Eu, Tonya"
 ---
 Para quem gosta de biografias que contam a história de esportistas com uma infância difícil, uma carreira rodeada de percalços, uma dose sadia de ironia, um final tragicômico e uma trilha sonora com os hits da época, então "Eu, Tonya" talvez seja para você o filme do ano. Do início, pelo menos.

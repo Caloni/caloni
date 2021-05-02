@@ -1,7 +1,7 @@
 ---
 date: "2010-10-08"
 link: "https://www.imdb.com/title/tt1576382"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Dois Irmãos"
 ---
 O maior mérito da direção deste filme é deixar a história fluir sem interferências, dando vazão a ambas às interpretações, ambas dignas, apesar de gerarem efeitos diversos.

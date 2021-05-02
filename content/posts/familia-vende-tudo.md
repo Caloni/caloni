@@ -1,7 +1,7 @@
 ---
 date: "2011-10-16"
 link: "https://www.imdb.com/title/tt2006109"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Família Vende Tudo"
 ---
 É fato que Lima Duarte está no estado de gênio, e cada novela que participa é um desperdício do Cinema. Semelhantes comparações podem ser feitas em boa parte do elenco de Família Vende Tudo, novo longa de Alain Fresnot. Este é um filme adiado em suas interpretações, por mais que não façam sentido ou soem deslocadas. E é aí que temos outro indício de desperdício, dessa vez no próprio Cinema: a capacidade de vender uma ideia divertida e fácil em uma história que sequer consegue chegar a uma conclusão sobre seu assunto central, e que desperdiça interpretações primorosas em um projeto sem pé nem cabeça.

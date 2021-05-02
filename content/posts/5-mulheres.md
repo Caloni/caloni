@@ -1,7 +1,7 @@
 ---
 date: "2016-10-25"
 link: "https://www.imdb.com/title/tt5651272"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "5 Mulheres"
 ---
 Este supostamente é um thriller, mas se confunde tanto com uma comédia, e é também um drama que vai adocicando demais, tornando o conjunto nenhum bom representante de nenhum gênero. Pelo menos há um entretenimento inteligente acontecendo, o que já torna a experiência menos tortuosa.

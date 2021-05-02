@@ -1,7 +1,7 @@
 ---
 date: "2010-06-11"
 link: "https://www.imdb.com/title/tt1212436"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Plano B"
 ---
 O produtor e diretor de TV Alan Poul resolve fazer este seu único longa para o Cinema que se transforma em uma mesmice sem tamanho. E olha que em questão de comédias românticas, mesmice já é a regra.

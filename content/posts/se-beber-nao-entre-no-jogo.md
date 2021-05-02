@@ -1,7 +1,7 @@
 ---
 date: "2015-12-05"
 link: "https://www.imdb.com/title/tt3138104"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Se Beber, Não Entre no Jogo"
 ---
 Esse é mais um filme-paródia que usa a estrutura de Jogos Vorazes para misturar filmes como "Se Beber, Não Case", TED e outros cuja "influência" reside apenas em fantasias de personagens de Johnny Depp e outros falando obviedades sobre quem não gostou dos filmes em que eles aparecem. Talvez Jogos Vorazes se torne um campeão disso porque muitas pessoas não gostaram da série, e também porque sua estrutura de jogo na selva já é batido, fácil de acompanhar e não exige muito esforço intelectual inserir piadinhas sem graça no meio de um roteiro que já existe.

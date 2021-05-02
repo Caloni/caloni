@@ -1,7 +1,7 @@
 ---
 date: "2015-03-29"
 link: "https://www.imdb.com/title/tt1455151"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Minhas Tardes com Margueritte"
 ---
 Esse é um filme doce e maniqueísta. Porém, seu maniqueísmo só se reflete nos personagens secundários, aqueles que são criados para criar tensão e colorir o universo de Germain Chazes, um faz-tudo que vive em um trailer. Todos zombam de Germain por ser ignorante, e sua ignorância é explicada através da diferentes flashbacks de sua infância onde ele é maltratado pelos professores e por sua própria mãe, que o considera um acidente. A relação entre os dois é a base para entendermos a dinâmica de sua nova amizade com Margueritte, uma senhora que se senta à tarde na praça da cidadezinha onde moram para observar os pombos e realizar uma atividade para ela prazerosa e para Germain uma verdadeira tortura: ler. Porém, à medida que ele aprende que ler é enxergar o mundo à sua volta através de símbolos cuja tradução lhe foi negada desde criança, Germain passa a se tornar o que chamamos de homem completo, o que é interessado em sua vida e busca seus próprios interesses. É capaz de se soltar das amarras nefastas da ignorância graças ao convívio com uma pessoa que, apesar de estar no fim da vida, ainda tem muito a oferecer a qualquer um que tiver a paciência de parar e ouvir.

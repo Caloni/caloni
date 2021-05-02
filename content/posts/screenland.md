@@ -1,7 +1,7 @@
 ---
 date: "2018-06-29"
 link: "https://www.imdb.com/title/tt6148128"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Screenland"
 ---
 Essa série parece ter a intenção de reconhecer a genialidade dos gamers em antecipar futuras tendências nos jogos eletrônicos que virão com a melhora da inteligência artificial e a construção de ambientes virtuais, sejam eles realistas ou não.

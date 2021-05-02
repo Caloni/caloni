@@ -1,7 +1,7 @@
 ---
 date: "2013-05-27"
 link: "https://www.imdb.com/title/tt0099077"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Tempo de Despertar"
 ---
 Robin Williams é sempre Robin Williams. Felizmente, esse fato não é o suficiente para estragar um filme que se esforça de maneira tocante ao tentar estabelecer uma conexão entre quem assiste e o drama dos pacientes que, sem se mover por décadas, conseguem experimentar milagrosamente uma janela de normalidade.

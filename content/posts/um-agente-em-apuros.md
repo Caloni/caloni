@@ -1,7 +1,7 @@
 ---
 date: "2015-07-14"
 link: "https://www.imdb.com/title/tt0283534"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Um Agente em Apuros"
 ---
 Essa é comédia britânica estilo anos 80, mas foi filmada em 2001. Passou no SBT (TV aberta) essas noites, por conta do falecimento de Omar Shariff esse mês. Shariff participa pontualmente, pois o "astro" é Steve Coogan, quase um sócia de Steve Carrel, mas que depende mais de gags. Coogan, pode-se dizer, manda bem.

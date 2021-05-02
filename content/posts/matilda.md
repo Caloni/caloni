@@ -1,7 +1,7 @@
 ---
 date: "2018-12-07"
 link: "https://www.imdb.com/title/tt0117008"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Matilda"
 ---
 Matilda passa na regra dos 15 anos. Se trata de um filme infantil, com premissas infantis, enxergadas do ponto de vista de uma criança. Mas, perdoem os maniqueísmos, é uma louvável lição sobre como quando as coisas certas acontecem nos ambiente errados.

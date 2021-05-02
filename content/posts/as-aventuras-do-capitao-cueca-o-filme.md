@@ -1,7 +1,7 @@
 ---
 date: "2017-10-21"
 link: "https://www.imdb.com/title/tt2091256"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "As Aventuras Do Capitao Cueca O Filme"
 ---
 As Aventuras do Capitão Cueca prova que no Cinema, dado qualquer conceito, ele pode ser explorado e se tornar um ótimo filme. Mesmo que este conceito envolva duas crianças criativas e zoeras que falam com o espectador, pregam todas as peças da escola e criem um super-herói em seus quadrinhos que não usa uma cueca por cima das calças, mas apenas a cueca.

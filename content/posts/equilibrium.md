@@ -1,7 +1,7 @@
 ---
 date: "2016-05-08"
 link: "https://www.imdb.com/title/tt0238380"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Equilibrium"
 ---
 Equilibrium é um filme que parece sofrer do próprio efeito afetado de seus personagens, pertencentes a uma espécie de paródia de "1984" a respeito de um futuro distópico onde é proibido sentir. Se o sentir para os personagens é algo natural, transformar isso em linguagem cinematográfica é um desafio que o diretor/roteirista Kurt Wimmer topa conduzir, gerando no processo resultados mistos.

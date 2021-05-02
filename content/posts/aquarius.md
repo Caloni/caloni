@@ -1,7 +1,7 @@
 ---
 date: "2017-01-13"
 link: "https://www.imdb.com/title/tt5221584"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Aquarius"
 ---
 Sônia Braga não está protagonizando um filme. Aquarius é um filme que protagoniza Sônia Braga. Ela é todo o filme. E quem garante isso é o diretor Kleber Mendonça Filho, mais uma vez, depois de O Som Ao Redor, fascinado (e enganado) a respeito da classe média "esclarecida" e das questões de propriedade privada. A direção de Kleber interfere apenas para dar passagem a Braga, que samba a dança do crioulo doido e entrega uma performance corporal e verbal que arrebata todo o filme, o leva para si.

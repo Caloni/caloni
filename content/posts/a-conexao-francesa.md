@@ -1,7 +1,7 @@
 ---
 date: "2016-07-08"
 link: "https://www.imdb.com/title/tt2935564"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "A Conexão Francesa"
 ---
 A Conexão Francesa é um filme de máfia, mas passa longe dos estilos de Martin Scorsese (Os Bons Companheiros, Cassino) e da trilogia O Poderoso Chefão. Não chega nenhum momento a ser divertido. Mesmo nos momentos de humor fica difícil de rir. Ao mesmo tempo, não se dá ao trabalho de explicar a hierarquia das gangues, nem explora muito o relacionamento entre seus membros. É um filme tenso, mas ao mesmo tempo prático. No começo vemos que ele se inspira "levemente" em eventos reais, o que parece um eufemismo para um roteiro carregadíssimo, que se arrasta através dos acontecimentos em uma espiral constante de morte, violência e dor.

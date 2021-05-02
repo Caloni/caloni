@@ -1,7 +1,7 @@
 ---
 date: "2019-03-07"
 link: "https://www.imdb.com/title/tt0499549"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Avatar"
 ---
 Existe um sonho de todo homem moderno. Um sonho interno, mais antigo que sua própria existência: voltar à sua essência. Ele consegue senti-lo quando coloca seus pés nus na terra macia, quando sente a vida em torno de si em uma troca de sensações e emoções que se traduzem em nossa linguagem como estar vivo. Sentir a respiração e a brisa passar. Nos sonhos mais malucos da nossa biologia evolutiva, talvez no corpo de um ser alado, sob os olhos de alguma outra espécie, nós voávamos, alto e sem medo, o que explica esse desejo recorrente e selvagem nos registros mais antigos da civilização.

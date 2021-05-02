@@ -1,7 +1,7 @@
 ---
 date: "2015-12-12"
 link: "https://www.imdb.com/title/tt0066765"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "E Agora para Algo Completamente Diferente"
 ---
 Esse filme é uma compilação de quadros do programa televisivo do grupo de humoristas Monty Pyhton, e por incrível que pareça o conjunto da obra é menor do que a soma das suas clássicas piadas, talvez por não ser um filme de verdade e por exagerar o bizarro e surreal.

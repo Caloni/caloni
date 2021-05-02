@@ -1,7 +1,7 @@
 ---
 date: "2016-10-23"
 link: "https://www.imdb.com/title/tt5497778"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Black Mirror - S03E01 - Nosedive"
 ---
 É muito bom ter o Black Mirror de volta na Netflix, com episódios novos. Nenhum me desapontou até agora, tanto pelos aspectos técnicos, narrativos, mas, principalmente: em fazer pensar. E esse nos faz pensar apesar da ideia óbvia: redes sociais. Todas juntas, na vida "real", fazendo as pessoas se esforçarem por aumentar suas notas, sua popularidade. Tudo depende disso. E no caso, o tudo é uma vida cercada de mentiras. Como não amar uma série como essas?

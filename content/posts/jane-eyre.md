@@ -1,7 +1,7 @@
 ---
 date: "2017-01-15"
 link: "https://www.imdb.com/title/tt1229822"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Jane Eyre"
 ---
 Enquanto Jane Austen (Orgulho e Preconceito) escrevia sobre a sociedade britânica com uma vivacidade e energia encantadoras, Charlotte Brontë parece ir no exato oposto com Jane Eyre, um romance extremamente pesado, que encontra nos drama do destino um fiapo de misticismo assombrando uma Inglaterra que parece estar à beira do seu declínio.

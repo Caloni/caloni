@@ -1,7 +1,7 @@
 ---
 date: "2013-05-14"
 link: "https://www.imdb.com/title/tt2215537"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Somos Tão Jovens"
 ---
 Antes de tudo, a interpretação de Thiago Mendonça é primorosa do começo ao fim ao estabelecer o "Renato" do filme não apenas como a sombra de um ídolo, mas a própria persona se construindo através de suas referências culturais. O uso de sua voz é um dos pontos fortes: usando entonações que vão aos poucos revelando o Renato Russo que os fãs conhecem, é uma surpresa agradável poder observar sua própria evolução como cantor, engrossando a voz aqui e ali, tentando encontrar o seu estilo. Isso nos aparece de forma completamente natural e discreta. A música e poesia das letras do vocalista parecem sair prontas do seu intelecto, e parte dessa experiência é devido ao interessante roteiro de Marcos Berstein ([Central do Brasil]) com a colaboração de Victor Atherino que vai construindo as situações e expressões de suas poesias no dia-a-dia casual.

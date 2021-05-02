@@ -1,7 +1,7 @@
 ---
 date: "2016-05-29"
 link: "https://www.imdb.com/title/tt0109040"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Ace Ventura - Um Detetive Diferente"
 ---
 Jim Carrey possuía uma energia invejável. O seu timing cômico e sua atuação de exageros é responsável por praticamente todo Ace Ventura, o filme. Note como ele caminha na ponta dos pés de fininho e mastiga sementes de maneira completamente idiota, acumulando as cascas na mesa de sua cliente. Quando oferecido um cinzeiro, responde: "obrigado, eu não fumo; este é um ato nojento".

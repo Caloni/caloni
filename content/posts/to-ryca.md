@@ -1,7 +1,7 @@
 ---
 date: "2018-01-12"
 link: "https://www.imdb.com/title/tt4809638"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Tô Ryca!"
 ---
 Selminha, ou Samantha Schmütz, faz aqui a pobretona padrão brasileira que mora no morro do Rio de Janeiro com sua amiga inseparável e igualmente quebrada Luane. Ambas com nome de pobre (e Selminha é de fato o nome dela, de RG) e sem muitas perspectivas de vida, ambas trabalham como frentista e são obrigadas a passar os perrengues do dia-a-dia de todo pobre: condução lotada, peguetes que não querem saber de compromisso e tudo o que você pode imaginar que os roteiristas Fil Braz e Vitor Brandt inspiradamente obteram do cotidiano padrão brasileiro, ligeiramente pintado como novela global.

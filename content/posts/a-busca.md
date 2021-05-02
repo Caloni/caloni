@@ -1,7 +1,7 @@
 ---
 date: "2016-11-02"
 link: "https://www.imdb.com/title/tt2125425"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Busca"
 ---
 Wagner Moura é um ator bem versátil. Seja como Capitão Nascimento ou Pablo Escobar, Moura consegue através do tom de voz e dos movimentos de corpo denotar alguém menos ou mais vulnerável, alguém mais ou menos estressado. Seu Theo Gadelha é um pai de família recém-separado que concentra em seus óculos todo seu jeito atrapalhado de lidar com o mundo, com sua esposa, seu filho e, principalmente, seu pai.

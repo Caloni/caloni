@@ -1,7 +1,7 @@
 ---
 date: "2012-06-13"
 link: "https://www.imdb.com/title/tt1277953"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Madagascar 3: Os Procurados"
 ---
 Com uma primeira parte no modo automático, o filme dos ex-animais do zoológico do Central Park em Nova York mostra sinais de cansaço principalmente em suas velhas piadas, que hoje soam batidas e repetitivas. Para quebrar um pouco a monotonia é apresentada uma nova antagonista: uma inspetora de animais francesa e obcecada em capturar um leão para sua coleção de caça, que recebe uma introdução superficial demais para que ela se torne interessante, e serve apenas para tornar as cenas convenientemente aceleradas e preencher película para uma história curta demais, como pode ser notado em duas cenas "solo" particularmente descartáveis (incluindo uma embaraçosa referência a Edith Piaf utilizando o batidíssimo sucesso "Non, je ne regrette rien", que aparentemente é a única referência entendida pelo americano médio como algo francês).

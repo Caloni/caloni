@@ -1,7 +1,7 @@
 ---
 date: "2007-07-20"
 title: "Antidebug: interpretação baseada em exceção (parte 1)"
-tags: [ "code" ]
+categories: [ "code" ]
 ---
 Um depurador utiliza breakpoints para "paralisar" momentaneamente a execução do programa sendo depurado. Para isso ele se utiliza de uma bem conhecida instrução conhecida como int 3. Essa instrução gera uma exceção -- exceção de breakpoint -- que é capturada pelo sistema operacional e repassada para o código de tratamento dessa exceção. Em programas sendo depurados esse código está localizado no depurador. Em programas "livres" esse código normalmente não existe e ao acontecer essa exceção o aplicativo simplesmente "capota".
 

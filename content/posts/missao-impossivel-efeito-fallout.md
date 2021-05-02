@@ -1,7 +1,7 @@
 ---
 date: "2018-07-24"
 link: "https://www.imdb.com/title/tt4912910"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Missão Impossível: Efeito Fallout"
 ---
 A maior satisfação da série Missão Impossível nos cinemas é que ela sempre entrega o que é esperado. Nesse sentido ela ganha até de James Bond. Porém, estamos falando de apenas meia-dúzia de filmes que seguem basicamente a mesma fórmula em toda nova edição (e direção): as missões recebidas em segredo com gravações que se auto explodem em cinco segundos, vilões com maldade pura, o passado de Hunt o amaldiçoando e ao mesmo tempo o fazendo crescer como ser humano, as cenas de ação frenéticas e muito bem coreografadas, as reviravoltas que acontecem sob um teto mal iluminado e que costuma das nós no cérebro do espectador e, por fim, uma bomba e uma contagem regressiva. Bom, senhoras e senhores, tenho boas novas sobre "Missão Impossível: Operação Fallout": dessa vez teremos duas bombas! Isso que é plot twist!

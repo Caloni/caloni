@@ -1,7 +1,7 @@
 ---
 date: "2016-08-12"
 link: "https://www.imdb.com/title/tt5290524"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "O Funcionário do Mês"
 ---
 Uma comédia de absurdos nunca será tão absurda quanto uma comédia italiana. E "Funcionário do Mês" é um exemplo clássico: é escrachado do começo ao fim, se valendo não só dessa fama italiana do funcionalismo público, do "jeitinho italiano" (ah, essa herança...), mas também do comodismo e do estereótipo da família (italiana, claro). Na verdade, é melhor ainda, pois ao criticar o mundo "incivilizado" que o italiano médio vive, o filme também escracha o lado "civilizado", escancarando o diferente, o divergente, a multicultura. Sempre pelo exagero, claro! Eu comentei que essa é uma comédia italiana? Capisce?

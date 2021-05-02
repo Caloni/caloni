@@ -1,7 +1,7 @@
 ---
 date: "2010-06-18"
 link: "https://www.imdb.com/title/tt1250777"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Kick-Ass Quebrando Tudo"
 ---
 Kick-Ass é uma experiência bem-sucedida que reúne super-heróis da vida real, ação, comédia, drama e Hit-Girl, estrelando Chloë Moretz e a tornando uma das atrizes-mirins mais bem-vistas pelo público jovem, com treze anos e aparentando ainda menos.

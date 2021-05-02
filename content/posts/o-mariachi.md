@@ -1,7 +1,7 @@
 ---
 date: "2012-02-26"
 link: "https://www.imdb.com/title/tt0104815"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Mariachi"
 ---
 A estreia do diretor Robert Rodriguez ([Sin City], [Machete]) foi com este El Mariachi, que lhe custou, de acordo com a lenda, $7000, gastos quase todo para o filme da câmera.

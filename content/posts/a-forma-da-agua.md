@@ -1,7 +1,7 @@
 ---
 date: "2018-04-20"
 link: "https://www.imdb.com/title/tt5580390"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Forma da Água"
 ---
 Você já assistiu esse filme. E mais de uma vez. Criatura estranha e incompreendida é vista como monstro, mas no fundo tem um bom coração. E se você tocar uma música a criatura pode até dançar. E no caso de A Forma da Água, esta fantasia aventuresca de Guillermo del Toro (Círculo de Fogo, O Labirinto do Fauno) assume estar atrás de prêmios como o Oscar, por ser fácil de digerir (fácil até dar sono, eu diria). A direção de arte é soberba e extremamente verde. A heroína vive em uma casa em cima de um cinema que ninguém vai e que insiste em passar clássicos bíblicos. Seu vizinho é gay e juntos eles se divertem vendo musicais em preto e branco pela TV. Ele faz desenhos de publicidade, um mercado que está sumindo por conta das fotografias. E ela é uma faxineira de um centro de pesquisa inacreditavelmente incompetente. Junte tudo isto em uma alegoria tão séria quanto robôs gigantes lutando contra monstros apocalípticos.

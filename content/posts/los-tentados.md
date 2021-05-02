@@ -1,7 +1,7 @@
 ---
 date: "2013-10-26"
 link: "https://www.imdb.com/title/tt2805584"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Los tentados"
 ---
 Primeiro longa do diretor Mariano Blanco, não existem muitas ideias a serem seguidas em Los Tentados, ou elas estão tão sutilmente colocadas ali que fica difícil encontrar base para qualquer tipo de interpretação.

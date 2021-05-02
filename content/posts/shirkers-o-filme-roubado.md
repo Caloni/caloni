@@ -1,7 +1,7 @@
 ---
 date: "2018-11-09"
 link: "https://www.imdb.com/title/tt7472352"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Shirkers: O Filme Roubado"
 ---
 Uma garota queria muito fazer um filme. Ela acaba o tornando realidade, mas ele é roubado pelo próprio diretor. Décadas depois ela nunca mais fez nada relacionado a cinema, e chega a hora dela rever esse frustrante episódio de sua vida da única forma que é possível: fazendo outro filme.

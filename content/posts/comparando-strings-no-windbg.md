@@ -1,7 +1,7 @@
 ---
 date: "2011-05-22"
 title: Comparando strings no WinDbg
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 O WinDbg fornece aos programadores diversos meios (muitos redundantes) de comparar valores inteiros em quaquer lugar da memória, em qualquer tamanho (8, 16, 32, 64 bits). Porém, quando precisamos comparar strings, que todos sabem ser uma sequência de bytes de tamanho arbitrário (se for em C, até o zero terminador).
 

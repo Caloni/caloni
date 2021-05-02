@@ -1,6 +1,6 @@
 ---
 date: "2015-09-07"
-tags: [ "food" ]
+categories: [ "food" ]
 title: "Starbucks"
 ---
  - 2015-09-07 Pike Place. No sítio do 7 de setembro, um pouco fraco, corpo médio, combina perfeitamente com bolo de chocolate.

@@ -1,7 +1,7 @@
 ---
 date: "2017-11-23"
 link: "https://www.imdb.com/title/tt4877122"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Emoji: O Filme"
 ---
 Não é sintomático que um filme chamado Emoji tenha tão poucas emoções? Talvez não. Afinal de contas, os emojis basicamente são a simplificação de nossa linguagem e dos nossos sentimentos. Onde um email com uma poesia é colocado na lixeira porque "usar textos é tão retrô" e onde no lugar de um emoji com uma única emoção enlatada surge um emoji com várias!

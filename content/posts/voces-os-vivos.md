@@ -1,7 +1,7 @@
 ---
 date: "2020-06-07"
 link: "https://www.imdb.com/title/tt0445336"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Vocês, Os Vivos"
 ---
 Gosto de filmes assim. Sobre qual assunto? Sobre a vida. Com e sem sentido. Estamos aqui e é isso. Se fôssemos escolher o gênero que filmaríamos vida óbvio que seria comédia. Woody Allen vem dizendo isso há séculos, e ele tem razão. E agora este filme com produção em seis países vem dizer o mesmo, inclusive com a mesma trilha sonora de Allen, em um trabalho instigante e sem muitas respostas prontas. A única é que tudo isso é irrelevante. Então bora assistir TV.

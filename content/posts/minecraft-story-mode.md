@@ -1,7 +1,7 @@
 ---
 date: "2018-12-08"
 link: "https://www.imdb.com/title/tt4291714"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Minecraft Story Mode"
 ---
 O problema de uma história interativa nunca é a interação em si, mas a falta de capacidade do roteirista em criar uma árvore de possibilidades onde permaneça uma narrativa suficientemente interessante para o espectador. O espectador sente quando está sendo enganado, quando o que ele vê em sua tela é um mero replicante (Blade Runner).

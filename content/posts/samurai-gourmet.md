@@ -1,7 +1,7 @@
 ---
 date: "2017-04-16"
 link: "https://www.imdb.com/title/tt6304676"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Samurai Gourmet"
 ---
 No meio de tantas séries televisivas sobre cozinhar, eis uma série sobre degustar. Samurai Gourmet é baseado em quadrinhos e mantém seu personagem-título sob controle criativo das ótimas expressões do ator Naoto Takenaka. Ele se aposentou recentemente e irá agora explorar diferentes restaurantes, bares e cafés, revivendo os velhos dilemas que clientes desses lugares possuem. Nos simpatizamos com Takeshi Kasumi porque, assim como ele, ficamos sem jeito de reclamar quando a comida está ruim, ou quando pessoas barulhentas ou mal-educadas desrespeitam o ritual de uma refeição.

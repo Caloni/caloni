@@ -1,6 +1,6 @@
 ---
 date: "2007-10-22"
-tags: [ "code" ]
+categories: [ "code" ]
 title: "Guia básico para programadores de primeiro breakpoint"
 ---
 Aproveitando um dos últimos artigos que fala sobre [conceitos básicos de programação], lembro que, tão importante quanto programar é possuir habilidades básicas de depuração, uma arte por muitos programadores ignorada.

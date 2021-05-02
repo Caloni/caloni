@@ -1,7 +1,7 @@
 ---
 date: "2016-04-17"
 link: "https://www.imdb.com/title/tt1411697"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Se Beber, Não Case! Parte II"
 ---
 Como seria o original se ele não tivesse graça. Não seria uma novidade se a sequência de Todd Phillips repetisse a fórmula exata da ótima comédia que é o filme original, que é o que este Parte II faz do início ao fim. A novidade é que, mesmo juntando o elenco original, o curioso é que quase nada funciona, quase nada é engraçado e muito pouco é imprevisível.

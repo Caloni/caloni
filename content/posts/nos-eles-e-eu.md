@@ -1,7 +1,7 @@
 ---
 date: "2016-04-30"
 link: "https://www.imdb.com/title/tt4598764"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Nós, Eles e Eu"
 ---
 Um documentário não é obrigado a destilar sua opinião para todos os lados, mas no caso de "Nós, Eles e Eu", um filme feito por um diretor judeu e membro de uma família sionista, a opinião sobre o eterno conflito entre judeus e palestinos parece inevitável.

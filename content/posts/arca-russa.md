@@ -1,7 +1,7 @@
 ---
 date: "2011-03-28"
 link: "https://www.imdb.com/title/tt0318034"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Arca Russa"
 ---
 Arca Russa é uma experiência que, como cinéfilos que somos, devemos assistir para aprender o que uma técnica como o plano-sequência consegue em termos de narrativa.

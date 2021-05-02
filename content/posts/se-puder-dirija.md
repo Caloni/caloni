@@ -1,7 +1,7 @@
 ---
 date: "2013-09-07"
 link: "https://www.imdb.com/title/tt2211808"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Se Puder... Dirija!"
 ---
 Muitas vezes as comédias televisivas que passam no Cinema atraem o público pelas boas piadas e pelo ótimo (e desperdiçado) elenco. No caso de Se Puder... Dirija! o único foco parece ter sido fazer um filme com uma história suficiente para preencher um bloco do Zorra Total e utilizar a propaganda de ser o primeiro live-action em 3D, e o fato de que será lembrado por isso torna as coisas ainda mais desagradáveis.

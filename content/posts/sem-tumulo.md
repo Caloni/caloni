@@ -1,7 +1,7 @@
 ---
 date: "2019-10-01"
 link: "https://www.imdb.com/title/tt8473532"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Sem Túmulo"
 ---
 O cinema do Oriente Médio em geral exporta para o mundo filmes que esmiuçam relações sociais e familiares, e têm se saído bem no Ocidente por nos oferecer essa discrepância de culturas. Sem Túmulo não é exceção, e constrói através de sua pequena janela de dois dias uma compilação de sentimentos remoídos do passado de uma família, mas se esquece de se conectar com seu espectador.

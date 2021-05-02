@@ -1,7 +1,7 @@
 ---
 date: "2011-06-08"
 link: "https://www.imdb.com/title/tt0842926"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Minhas Mães e Meu Pai"
 ---
 Annete Bening é uma atriz talentosa. Seu único trabalho que acompanhei de perto, Beleza Americana, foi um exercício de neurose formidável, ainda que equivocado em sua exagerada conclusão final (culpa do roteiro?). Porém, através dele é possível ter uma noção muito boa das capacidades de Bening interpretando pessoas com algum descontrole emocional que a leve a influenciar negativamente a vida dos seus próximos.

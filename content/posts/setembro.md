@@ -1,7 +1,7 @@
 ---
 date: "2019-02-02"
 link: "https://www.imdb.com/title/tt0093940"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Setembro"
 ---
 Eu me lembro de Setembro em minhas noites acordado (tentando dormir) no quarto dos meus pais. Era o meu pai que colocava em algum canal na TV que aparentemente comprou o pacote completo de filmes do Woody Allen, os já produzidos e os futuros. Para uma criança que não entende nada de dramas humanos deve ter sido muito chato. Mas Setembro tem um momento tão fugaz e tão vulnerável que parece que o universo inteiro vai colapsar, e quando isso acontece até uma criança sente. E retém a cena. Eu me lembro dela até hoje, quando a revi.

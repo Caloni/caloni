@@ -1,7 +1,7 @@
 ---
 date: "2020-01-16"
 link: "https://www.imdb.com/title/tt7613748"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Açúcar"
 ---
 Açúcar é o novo filme de ficção da dupla de diretores e roteiristas Sergio Oliveira e Renata Pinheiro (Sangue Azul, "Amor, Plástico e Barulho"). Dentro de suas capacidades de extrair metáforas do cotidiano, aqui estão dois cineastas viciados nisso. E se essa característica pode gerar bons momentos nesse e em outros filmes, é ao mesmo tempo o que impede seus trabalhos de atingir a maturidade necessária para que parem de ser apenas isso e atinjam a fase adulta.

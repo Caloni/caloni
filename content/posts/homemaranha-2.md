@@ -1,7 +1,7 @@
 ---
 date: "2016-07-07"
 link: "https://www.imdb.com/title/tt0316654"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Homem-Aranha 2"
 ---
 Doze anos e toneladas de super-heróis depois, Homem-Aranha 2 continua sendo um dos melhores filmes do sub-gênero já feito, digno de ocupar o pódio junto de pequenas obras-primas como "Superman: O Filme" e "Dark Knight".

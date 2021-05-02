@@ -1,7 +1,7 @@
 ---
 date: "2012-11-18"
 link: "https://www.imdb.com/title/tt0918927"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Dúvida"
 ---
 Baseado em uma peça de teatro escrita por John Patrick Shanley, que aqui também faz o papel duplo de diretor/roteirista. Conseguindo para os papéis principais Philip Seymour Hoffman como o padre Brendan Flynn, um orador com capacidade ímpar de sugar a atenção de seus fiéis, e Meryl Streep, como a severa irmã Aloysius Beauvier, que zela por regras que parecem ter sido definidas 2000 anos atrás. A história, pode-se arriscar, gira em torno dos dois conceitos que esses personagens representam, que não deveriam, mas parecem opostos na igreja católica: compaixão e tradição.

@@ -1,7 +1,7 @@
 ---
 date: "2016-04-24"
 link: "https://www.imdb.com/title/tt1931533"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Sete Psicopatas e um Shih Tzu"
 ---
 Você irá rir pelos motivos errados. Este é um filme que apresenta a realidade de um escritor de Hollywood quando ele decide escrever um roteiro com sete psicopatas e zero violência. Não há a menor surpresa que ele não irá conseguir.

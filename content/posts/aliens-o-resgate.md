@@ -1,7 +1,7 @@
 ---
 date: "2011-12-08"
 link: "https://www.imdb.com/title/tt0090605"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Aliens, o Resgate"
 ---
 James Cameron parece ter uma dedicação especial com as continuações. Tanto a série [Alien] quanto [O Exterminador do Futuro] (essa iniciada por ele mesmo) expandem seus universos justamente no primeiro sequel.

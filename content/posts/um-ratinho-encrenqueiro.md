@@ -1,7 +1,7 @@
 ---
 date: "2012-06-18"
 link: "https://www.imdb.com/title/tt0119715"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Um Ratinho Encrenqueiro"
 ---
 Com uma história típica da sessão da tarde, talvez fosse impossível tentar realizar algo acima de medíocre. Porém, quando o roteiro abraça o absurdo das situações com competente propriedade, nunca nos permitindo questionar se alguma coisa é verossímil ou não, pois é a história que dita isso, aí temos um ótimo exemplo de que, independente da história, é possível criar Cinema através de quase nada.

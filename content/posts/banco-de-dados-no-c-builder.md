@@ -1,7 +1,7 @@
 ---
 date: "2007-12-21"
 title: Banco de dados no C++ Builder
-tags: [ "code" ]
+categories: [ "code" ]
 ---
 Um banco de dados é qualquer lugar onde podemos ler e escrever informação geralmente persistente. Pode ser um arquivo INI, uma estrutura binária ou uma plantação de servidores para fazer busca na internet. O uso de banco de dados em programação é mais que essencial, pois permite que armazenemos os resultados de um processamento e utilizemos esses mesmos resultados em futuras execuções.
 

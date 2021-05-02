@@ -1,7 +1,7 @@
 ---
 date: "2011-07-08"
 link: "https://www.imdb.com/title/tt0150980"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "The Housemaid"
 ---
 O longa possui algumas reviravoltas que podem soar esquisito à cultura ocidental, mas a base do drama, que são os acontecimentos macabros rodeando a honrada família do professor de piano, criam um clima, se não de tensão, definitivamente macabro e sexy.

@@ -1,7 +1,7 @@
 ---
 date: "2016-03-15"
 link: "https://www.imdb.com/title/tt0190332"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Tigre e o Dragão"
 ---
 Muitos fãs de artes marciais torceram o nariz na época em que O Tigre e o Dragão foi lançado. Na visão deles, o fato das pessoas "voarem" tirava toda a realidade da história. Muitos perderam a noção de que sempre existe uma metamorfose entre a história e o seu narrador. Quando falamos de uma história milenar, são tantas gerações no caminho, que torna-se fácil achar tudo exagerado e absurdo.

@@ -1,7 +1,7 @@
 ---
 date: "2014-12-10"
 link: "https://www.imdb.com/title/tt2096672"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Debi & Lóide 2"
 ---
 Jim Carrey e Jeff Daniels finalmente conseguiram realizar a continuação (ou remake?) do seu clássico de comédia e os irmãos Farrely, do original de 1994, estão dirigindo. Os Farrely fizeram também Quem Vai Ficar com Mary?, Passe Livre, Eu, Eu Mesmo e Irene e tantas outras comédias.

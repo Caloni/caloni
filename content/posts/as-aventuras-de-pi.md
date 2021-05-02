@@ -1,7 +1,7 @@
 ---
 date: "2013-01-03"
 link: "https://www.imdb.com/title/tt0454876"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "As Aventuras de Pi"
 ---
 Pi começa já anos depois dos eventos que são narrados, com um protagonista adulto (Irrfan Khan) e conversando com o escritor (Rafe Spall) que dará vida literária à sua história. Antes de conhecermos o herói temos uma breve introdução sobre o seu nome, uma longa anedota envolvendo um tio e sua fixação por piscinas e que termina em uma brincadeira boba entre matemática, razão e o trocadilho sobre o fato de Pi ser um número "irracional", e talvez aqui seja a origem da grande trollagem que acredito Ang Lee estar pregando aos religiosos que assistirem ao filme.

@@ -1,7 +1,7 @@
 ---
 date: "2018-03-18"
 link: "https://www.imdb.com/title/tt0500140"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Standup de 98 de Seinfeld é melhor que último do Gervais (graças ao SJW)"
 ---
 Comecei a assistir o último standup do Rick Gervais, Humanity, mas me cansei em menos de 10 minutos. Coloquei no último do Seinfeld e não consegui parar de ver. Ambos possuem quase a mesma duração de uma hora, mas Seinfeld possui ritmo, e Gervais, nervosismo. Por que isso?

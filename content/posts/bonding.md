@@ -1,7 +1,7 @@
 ---
 date: "2019-04-24"
 link: "https://www.imdb.com/title/tt7718088"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Bonding"
 ---
 Bonding, ou Amizade Dolorida (como está na Netflix Brasil), é uma série curtinha, que quase pode ser um filme, se tivesse a ousadia de implementar um closure no final de sua temporada. Mas não importa: é um conteúdo solto. Livre, leve e solto. Ele trata de traumas de adolescência, sexo e fetichismo de maneira a abraçar o mundo. E é um abraço gostoso e engraçado.

@@ -1,7 +1,7 @@
 ---
 date: "2015-07-16"
 link: "https://www.imdb.com/title/tt0120903"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "X-Men: O Filme"
 ---
 "X-Men: o Filme" é um dos primeiros trabalhos de fantasia que volta a explorar super-heróis verossímeis, no sentido de respeitá-los como seres complexos envoltos em um universo onde sua existência não apenas é possível, mas moldada por ela. Dessa forma, ele faz o gancho com os quase esquecidos "Superman: o Filme" e "Superman: a Aventura Continua" e ainda nos apresenta uma aventura onde existe uma penca deles, conseguindo fazer com que tudo tivesse não apenas um sentido direto, mas simbólico.

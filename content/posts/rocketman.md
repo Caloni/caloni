@@ -1,7 +1,7 @@
 ---
 date: "2019-12-03"
 link: "https://www.imdb.com/title/tt2066051"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Rocketman"
 ---
 Diferente do burocrático Bohemian Rhapsody, cujos títulos das músicas, sua concepção e sua letra jamais nos permitem adentrar em um verdadeiro drama de quem já tem fama e dinheiro, Rocketman da metade para o final se torna um mergulho íntimo e doloroso para dentro das dores de um ser e de sua existência.

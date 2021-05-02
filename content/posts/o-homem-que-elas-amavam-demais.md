@@ -1,7 +1,7 @@
 ---
 date: "2015-05-21"
 link: "https://www.imdb.com/title/tt2929890"
-tags: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , "cinemaqui" ]
 title: "O Homem Que Elas Amavam Demais"
 ---
 O Homem que Elas Amavam Demais parece ter um problema em conseguir definir o lado da história que deseja contar, mas logo isso vira uma virtude, pois não deixa de ser fascinante observar a relação entre os envolvidos sabendo que ele foi baseado nas memórias de Renée Le Roux (Catherine Deneuve) e que, portanto, uma boa parcela na interpretação dos fatos se deve à visão de uma mãe desesperada. Dessa forma, é curioso constatar que a visão que o filme de André Téchiné entrega a respeito de Maurice Agnelet (Guillaume Canet), o advogado responsável por todas as reviravoltas na história (e possivelmente também a última), não parece demonizar de maneira exemplar seu caráter, pois há muitos momentos onde a figura de Maurice parece tudo, menos ameaçadora.

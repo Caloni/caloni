@@ -1,7 +1,7 @@
 ---
 date: "2011-10-29"
 link: "https://www.imdb.com/title/tt1954379"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Jovens Modernos"
 ---
 Qual a visão de um crítico musical sobre a música contemporânea de vanguarda? Ou, uma pergunta ainda melhor: o que esse crítico pensa sobre os jovens dessa nova era, tão acomodados a ouvirem músicas de diversas correntes, muitas delas auto-proclamadas futuristas, e se limitarem a apertar o botão de curtir e compartilhar em sua rede social?

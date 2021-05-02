@@ -1,7 +1,7 @@
 ---
 date: "2008-04-08"
 title: "Conversor de Houaiss para Babylon - parte 2"
-tags: [ "code" ]
+categories: [ "code" ]
 ---
 Após algumas semanas de suspense, chegamos finalmente à nossa segunda e última parte da saga do dicionário Houaiss.
 

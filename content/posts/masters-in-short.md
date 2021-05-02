@@ -1,7 +1,7 @@
 ---
 date: "2020-10-25"
 link: "https://mostraplay.mostra.org/film/masters-in-short/"
-tags: [ "cinemaqui" ]
+categories: [ "cinemaqui" ]
 title: "Masters in Short"
 ---
 A proposta da sessão Masters in Short da Mostra de São Paulo esse ano é apresentar alguns curtas de diretores consagrados. São cinco curtas ao total e seis diretores diferentes.

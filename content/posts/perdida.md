@@ -1,7 +1,7 @@
 ---
 date: "2015-12-04"
 link: "https://www.imdb.com/title/tt1524566"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Perdida"
 ---
 Esse documentário de colagens charmosas tenta resgatar do passado longínquo toda a história de uma família de cineastas, de sua ascensão até os diferentes declínios, como o fim de uma grande fortuna.

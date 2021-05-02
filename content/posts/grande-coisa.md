@@ -1,7 +1,7 @@
 ---
 date: "2016-09-08"
 link: "https://www.imdb.com/title/tt0488085"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Grande Coisa"
 ---
 Lembra aquelas comédias meio-thriller, meio-policial e meio-pastelão(?!?). Pois é, em "Grande Coisa", isso foi pasteurizado, talvez "reimaginado", e se tornou uma trama pseudo-complexa sobre uma série de acontecimentos inesperados recheados de mentiras deslavadas e reviravoltas impossíveis, a ponto de duvidarmos se tudo aquilo poderia fazer sentido em um filme menos... retardado.

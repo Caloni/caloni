@@ -1,7 +1,7 @@
 ---
 date: "2014-12-15"
 link: "https://www.imdb.com/title/tt0450278"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Albergue"
 ---
 Este é um thriller que segue a cartilha básica do grupo de jovens descerebrados que entra em uma enrascada ao procurar prazer carnal no albergue de uma cidadezinha do Leste Europeu. O que eles não imaginavam -- nem teriam como, a não ser que você seja muito preconceituoso a respeito dessa região ex-comunista, portanto, esquecida e miserável -- é que boa parte da pequena cidade está envolvida em um esquema que alimenta o prazer sádico de ricaços em torturar pessoas; especialmente americanos (nem preciso dizer de onde vem os nossos amigos).

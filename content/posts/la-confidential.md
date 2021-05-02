@@ -1,7 +1,7 @@
 ---
 date: "2014-11-09"
 link: "https://www.imdb.com/title/tt0119488"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Los Angeles: Cidade Proibida"
 ---
 O que torna os personagens de L.A. Confidential (que se exploda o título nacional) tão bons é o fato deles serem críveis a ponto de acreditarmos em sua existência na vida real. Porém, a atmosfera apresentada pelo livro homônimo de James Ellroy não é de vida real. Então voltemos ao que faz desses personagens uma referência a ser seguida: eles são realistas e ainda conseguem existir em um filme noir ou um policial de décadas passadas (que é o que temos) sem soar piegas ou estilizados demais. Ou pior: ridicularizados pela situação. Aliás, ocorre justamente o contrário: suas "credenciais" do mundo real permitem que eles consigam atravessar a quarta parede mesmo que manchados de nanquim. São perfeitos para a história de corrupção da polícia de Los Angeles da época da lei seca que o filme pretende retratar.

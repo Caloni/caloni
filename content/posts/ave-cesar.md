@@ -1,7 +1,7 @@
 ---
 date: "2016-08-01"
 link: "https://www.imdb.com/title/tt0475290"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Ave, César!"
 ---
 O próprio ato de se fazer filmes é um filme em si. Os irmãos Coen (Bravura Indômita, Fargo, O Grande Lebowski) elencam um alto escalão para fazer parte de uma série de desventuras em várias produções hollywoodianas. Com diferentes gêneros, atores, diretores, roteiristas e figurantes, o filme nos convida a repensar a própria vida sob a lógica do faz-de-conta que tem encantado gerações de famílias. Até, é claro, o surgimento da TV.

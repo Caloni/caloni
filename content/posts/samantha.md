@@ -1,7 +1,7 @@
 ---
 date: "2018-07-13"
 link: "https://www.imdb.com/title/tt6626676"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Samantha!"
 ---
 O plano-sequência inicial de "Samantha!", série da Netflix produzida no Brasil, irá revelar uma miríade de sentimentos e mensagens conflitantes sobre o que significavam os anos 80. Incluindo a figura de uma caixa de cigarros em um programa infantil protagonizado por uma garota mimada, uma criança erotizada na TV brasileira. Até agora, nada de novo. Só que piora.

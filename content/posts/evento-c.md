@@ -1,7 +1,7 @@
 ---
 date: "2010-08-16"
 title: Evento C++
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 Esse fim-de-semana houve o tão falado evento C++, com a presença de dezenas de pessoas, algo que eu sinceramente não esperava. O bom desse evento foi saber que existem tantas pessoas interessadas em manter contato com quem gosta e pratica essa linguagem e também em saber que o nível técnico das palestras estão de alto para avançado.
 

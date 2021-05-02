@@ -1,7 +1,7 @@
 ---
 date: "2013-06-17"
 link: "https://www.imdb.com/title/tt1408101"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Além da Escuridão: Star Trek"
 ---
 Vendo a nova aventura dos Trekkers e revendo o [genial reboot] de J. J. Abrams (2008) fica claro que cada um é a metade de um todo maior, que poderiam ser mais enxutos (assim como [Kill Bill]) e que juntos seriam um excelente estudo de personagem. Ainda assim, separados, se transformam em duas aventuras físicas e mentais (essa nem tanto) ótimas em si mesmo, embora perigosamente esquecíveis para os não-fãs.

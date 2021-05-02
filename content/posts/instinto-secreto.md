@@ -1,7 +1,7 @@
 ---
 date: "2011-04-27"
 link: "https://www.imdb.com/title/tt0780571"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Instinto Secreto"
 ---
 Falarei brevemente deste que, para mim, é uma das maiores surpresas em Home Vídeo em muito tempo. A princípio, o filme emprega uma dinâmica inovadora com um mesmo personagem representado por duas psiques/atores, e o uso de atores que conseguem passar a impressão de serem a mesma pessoa (Kevin Costner e William Hurt) é mecanicamente a melhor coisa do filme.

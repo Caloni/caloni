@@ -1,6 +1,6 @@
 ---
 date: "2019-09-22"
-tags: [ "draft", "lists" ]
+categories: [ "draft", "lists" ]
 title: "Roger Ebert Great Movies"
 ---
  - 12 Angry Men 1957

@@ -1,6 +1,6 @@
 ---
 date: "2017-03-25"
-tags: [ "food" ]
+categories: [ "food" ]
 title: "Kirin Ichiban Puro Malte"
 ---
 Uma cerveja pilsen maltada que rivaliza com a Proibida.

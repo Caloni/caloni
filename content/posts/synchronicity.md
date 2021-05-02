@@ -1,7 +1,7 @@
 ---
 date: "2017-03-26"
 link: "https://www.imdb.com/title/tt2049543"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Synchronicity"
 ---
 Sabe aqueles filmes trash anos 80 que misturam tecnologia, terror e sci-fi? Exemplos são Tron (o original) e Mulher Nota 1000. Synchronicity emula com perfeição esse tipo de gênero. Com um roteiro capenga, atuações sofríveis, clichês de filme noir mal usados e trilha sonora de flashback, o resultado é uma viagem pelo mundo dos filme complicados apenas pelo gosto da complicação.

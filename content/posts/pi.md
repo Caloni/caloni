@@ -1,7 +1,7 @@
 ---
 date: "2015-06-26"
 link: "https://www.imdb.com/title/tt0138704"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Pi"
 ---
 Pi é uma viagem quase psicodélica ao âmago da questão: a linguagem do Universo é a Matemática. Extrapolando isso, mas ao mesmo tempo mantendo o suspense de que isso poderia ser real, enxergamos a insanidade através das lentes P&B saturadas de uma luta interminável entre fé, conhecimento e a pura ganância.

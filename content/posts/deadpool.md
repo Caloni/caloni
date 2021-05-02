@@ -1,7 +1,7 @@
 ---
 date: "2016-02-27"
 link: "https://www.imdb.com/title/tt1431045"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Deadpool"
 ---
 A fórmula Marvel de produzir super-heróis enlatados é tão maldita que só um filme como Deadpool, que brinca com toda a produção desses mesmos enlatados, para conseguir se desvencilhar, ainda que parcialmente, dos seus outros filmes lançados a balde.

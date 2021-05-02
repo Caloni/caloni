@@ -1,7 +1,7 @@
 ---
 date: "2016-02-09"
 link: "https://www.imdb.com/title/tt3203606"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Trumbo"
 ---
 Trumbo tristemente é daqueles filmes que nos esquecemos como foi nos primeiros minutos após a sessão. Felizmente, aquela experiência cinematográfica da viagem no tempo ainda irá entregar ao espectador a doce memória de um personagem tão excêntrico, além de estarmos falando de Cinema, um assunto sempre agradável (mesmo que nesse caso envolva sua pequena dose de política).

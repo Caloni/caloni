@@ -1,7 +1,7 @@
 ---
 date: "2015-10-16"
 link: "https://www.imdb.com/title/tt1424797"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Eu Matei Minha Mãe"
 ---
 Xavier Dolan é um menino prodígio que desde os cinco anos atua e desde os vinte se envolve com direção e roteiro de seus filmes de temática adolescente com uma abordagem intensamente poética. Este seu primeiro filme, Eu Matei Minha Mãe, foi escrito por ele aos dezesseis anos e é parcialmente biográfico.

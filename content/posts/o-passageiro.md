@@ -1,7 +1,7 @@
 ---
 date: "2018-02-17"
 link: "https://www.imdb.com/title/tt1590193"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "O Passageiro"
 ---
 O Passageiro lembra uma retrospectiva ou uma síntese dos últimos 10 anos no planeta Terra, desde a crise de 2008 até a crescente demonização das grandes corporações frente à classe trabalhadora (se você já ouviu falar do termo "1%" sabe do que estou falando). O resultado é um filme de ação que pode ser visto ou como "antenado" ou ultrapassado, dependendo do quanto você já foi bombardeado por filmes contra o sistema. Aliás, eu nem sei mais se o sistema continua sendo o vilão da vez, mas é o que o filme sugere. No final das contas, desconfio que o único motivo real desse filme é ver Liam Neeson de volta à ação.

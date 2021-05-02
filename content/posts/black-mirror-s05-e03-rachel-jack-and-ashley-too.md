@@ -1,7 +1,7 @@
 ---
 date: "2019-06-15"
 link: "https://www.imdb.com/title/tt9053874"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Black Mirror S05 E03 Rachel Jack and Ashley Too"
 ---
 O último episódio dessa temporada de Black Mirror faz aquela empoderada básica, de cartilha, pra empolgar o público feminino, e no meio de grandes ideias desperdiça todas em um final que lembra qualquer outra série de suspense e ação menos a própria Black Mirror, essa série britânica que ficou conhecida por nos fazer pensar e não possuir finais fáceis.

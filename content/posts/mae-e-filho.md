@@ -1,7 +1,7 @@
 ---
 date: "2012-01-11"
 link: "https://www.imdb.com/title/tt0119711"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Mãe e Filho"
 ---
 Para aqueles que possuem prazer estético pelo Cinema e possuem paciência para narrativas não-convencionais como o recente e polêmico [A Árvore da Vida], vale a pena uma olhada nesse Mãe e Filho, do diretor Aleksandr Sokurov, o mesmo do igualmente "arrastado" (mas belíssimo) [Arca Russa].

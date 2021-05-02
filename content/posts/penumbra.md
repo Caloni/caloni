@@ -1,7 +1,7 @@
 ---
 date: "2012-02-15"
 link: "https://www.imdb.com/title/tt1725073"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Penumbra"
 ---
 O roteiro é uma bobagem, que brinca com o julgamento da protagonista de uma forma, mas faz questão de nos avisar muito antes o que está acontecendo. Não contente com isso, seu final comprova não apenas o delírio de complexidade (quando na verdade temos um desfecho simplista).

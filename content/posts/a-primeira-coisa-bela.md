@@ -1,7 +1,7 @@
 ---
 date: "2012-02-15"
 link: "https://www.imdb.com/title/tt1467273"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A primeira coisa bela"
 ---
 Esse filme, junto com o recente cult Um Sonho de Amor, evidencia um Cinema Italiano mais interessante e inovador, ainda que mantenha sua clássica dramaticidade de novelão, estilo que paradoxalmente o acaba engrandecendo.

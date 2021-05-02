@@ -1,7 +1,7 @@
 ---
 date: "2017-05-28"
 title: "Como acessar submódulos no git inacessíveis?"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 Quando projetos remotos usam submodules é possível que algum deles seja acessível apenas através de chaves criptográficas. Isso exige que os sub-projetos necessários para fazer funcionar seu projeto podem estar fora do seu alcance e acesso, o que irá gerar durante seus comandos __pull__ recursivos erros de ssh (publickey access).
 

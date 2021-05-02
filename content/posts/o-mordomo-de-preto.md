@@ -1,7 +1,7 @@
 ---
 date: "2015-06-29"
 link: "https://www.imdb.com/title/tt2630336"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Mordomo de Preto"
 ---
 Assistir a O Mordomo de Preto é uma mistura de sensações. Primeiro, tem-se a sensação de estar assistindo um seriado, e não um filme com começo, meio e fim. Depois, a certeza de estar sendo enrolado em um formato muito parecido com os filmes da Marvel atualmente, que prezam por não terminar conflito algum que preste em seus filmes. Porém, a pior sensação mesmo é a de saber que a linguagem cinematográfica está sendo deixada de lado para o bem dos enquadramentos e da plasticidade de uma outra espécie de arte que já se sai bem em seu quadrado. A questão que fica é: para que realizar live-actions de trabalhos sem tradução entre artes? Só para ver como seria com atores "reais"? Bom, sinto informar, mas os personagens criados podem ser bonitos esteticamente, mas estão bem longe de serem considerados reais ou complexos.

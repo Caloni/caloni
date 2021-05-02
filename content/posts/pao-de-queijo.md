@@ -1,6 +1,6 @@
 ---
 date: "2019-06-23"
-tags: [ "draft", "food" ]
+categories: [ "draft", "food" ]
 title: "Pão de Queijo Mineiro"
 ---
 Quantidade: 4 formas, pode congelar

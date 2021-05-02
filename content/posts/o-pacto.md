@@ -1,7 +1,7 @@
 ---
 date: "2019-07-04"
 link: "https://www.imdb.com/title/tt0312843"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Pacto"
 ---
 O terror japonês pode ter todos os defeitos do mundo menos o de ser enfadonho. Aqui vemos nos primeiros minutos cerca de cinquenta garotas colegiais se dando as mãos, contando até três e pulando no trilho do trem para serem esmagadas em uma sequência de várias tomadas capturando para onde foi todo aquele sangue. E você ainda não viu nada.

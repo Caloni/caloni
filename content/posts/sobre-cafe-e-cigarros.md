@@ -1,7 +1,7 @@
 ---
 date: "2010-12-20"
 link: "https://www.imdb.com/title/tt0379217"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Sobre Café e Cigarros"
 ---
 Esse é um filme extremamente deprimente, pelas características dos cenários, pela estática das cenas, pela conversinha dos personagens, pelo princípio que os personagens principais, de fato, são os nomes do título. Seguem minhas anotações quando o assisti na época que estudava para ser crítico:

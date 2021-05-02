@@ -1,7 +1,7 @@
 ---
 date: "2015-12-11"
 link: "https://www.imdb.com/title/tt0076666"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Os Embalos de Sábado à Noite"
 ---
 John Travolta nos apresenta Tony Manero, o rapaz pobre que trabalha em uma loja de tinta e vive com sua sempre esquentada família italiana. Tony é fã de Bruce Lee e, claro, Rocky Balboa e Al Pacino (que alguém diz que ele é parecido). Ele tem uma irmã mais jovem e um irmão mais velho, que para orgulho da família virou padre (sim, é uma família realmente italiana). Tony gosta mesmo é de preparar seu cabelo e sair pela noite com seus amigos. Eles vão à danceteria e é lá que ele mostra seu potencial como dançarino.

@@ -1,7 +1,7 @@
 ---
 date: "2008-08-21"
 title: ProcessLeaker
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 O [artigo anterior](http://www.caloni.com.br/os-processos-fantasma) mostrava como detectar o leak de um processo gerado pela retenção e não-liberação de handles para o Windows Explorer. O problema fora causado por um serviço malcriado. No entanto, a título de demonstração, criei um pequeno programinha sem-vergonha para fazer as coisas parecerem difíceis. No entanto o programa é bem fácil:
 

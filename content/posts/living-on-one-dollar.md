@@ -1,7 +1,7 @@
 ---
 date: "2015-09-20"
 link: "https://www.imdb.com/title/tt2625598"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Vivendo Com Um Dólar"
 ---
 Alguns filmes são propositadamente desonestos com suas premissas, dramatizando em excesso para conseguir validar seus argumentos. No processo, consegue realizar um bom trabalho, ainda que parcial demais. Dessa safra temos Blackfish e Chasing Ice.

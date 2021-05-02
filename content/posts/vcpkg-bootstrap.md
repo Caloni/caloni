@@ -1,6 +1,6 @@
 ---
 date: "2019-11-29"
-tags: [ "code" ]
+categories: [ "code" ]
 title: "Vcpkg: Bootstrap"
 ---
 A versatilidade do vcpkg, gerenciador de pacotes multiplataforma da Microsoft, é permitir modificar tudo no projeto, desde código-fonte, pacotes instaláveis e a própria origem do repositório. Através do controle de fonte um vcpkg pode ser alimentado por diversas fontes, e por cada pacote existir em uma pasta separada permite a coexistência de várias versões e origens. Além disso, a forma de compilar os projetos e o código-base pode ser alterado exatamente da forma com que o projeto precisa.

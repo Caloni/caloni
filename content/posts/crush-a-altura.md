@@ -1,7 +1,7 @@
 ---
 date: "2019-09-17"
 link: "https://www.imdb.com/title/tt9252508"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Crush à Altura"
 ---
 Os jovenzinhos se beijam, mas só de selinho, porque rola traição e depois vai ficar feio um pegando a baba do outro. Esse é daqueles filmes da Netflix que está no catálogo para a garotada sem muita cabeça para pensar (trocadilho intencional) dar uma olhada eventual, curtir e compartilhar, justificando: "ah, é legalzinho, e tem um rapaz gato".

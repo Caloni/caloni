@@ -1,7 +1,7 @@
 ---
 date: "2017-03-29"
 link: "https://www.imdb.com/title/tt3148266"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "12 Macacos"
 ---
 Travelers e 12 Macacos parecem não conseguir compreender todo seu potencial. Enquanto Travelers cria uma "nova ideia" a respeito de viagens no tempo, mantém toda sua estrutura convenientemente sob controle de alguns limites estabelecidos apenas para isso. Já 12 Macacos mancha a reputação do filme homônimo, tornando a viagem no tempo não como um trauma vivido por Bruce Willis, que não consegue distinguir seus delírios da realidade, mas como um processo banal. Algo como ir na esquina.

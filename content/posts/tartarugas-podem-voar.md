@@ -1,7 +1,7 @@
 ---
 date: "2021-03-27"
 link: "https://www.imdb.com/title/tt0424227"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Tartarugas Podem Voar"
 ---
 Para quem gosta de filme iraniano na década de 2000 tem essa produção irano-iraquiana que deixa qualquer crítico de cinema molhadinho. Tem guerra, miséria, minas terrestres colocadas pelos americanos malvados. Tem até estupro e suicídio de crianças, além de crianças mutiladas e armadas. É o pacote completo. Aquele foi um ano de muito amor para a crítica.

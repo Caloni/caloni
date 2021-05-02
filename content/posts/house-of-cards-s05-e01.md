@@ -1,7 +1,7 @@
 ---
 date: "2017-05-30"
 link: "https://www.imdb.com/title/tt1856010"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "House of Cards - Quinta Temporada, Episódio 1"
 ---
 House of Cards estreia novamente na Netflix em seu formato de praxe, com tramas interligadas que irão necessariamente desencadear no plano de dominação da família Underwood. Vemos uma breve e eficiente recapitulação de toda a saga e logo vamos nos acostumando novamente a ver os personagens se digladiado por um pouco mais dessa droga viciante que é o poder.

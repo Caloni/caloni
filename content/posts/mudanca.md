@@ -1,7 +1,7 @@
 ---
 date: "2011-02-07"
 title: Mudança
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 #### Fecha uma porta...
 

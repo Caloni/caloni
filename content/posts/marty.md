@@ -1,7 +1,7 @@
 ---
 date: "2012-03-06"
 link: "https://www.imdb.com/title/tt0048356"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Marty"
 ---
 O que faz Marty ser um filme tão marcante parece ser os mesmos motivos que fizeram com que [Laços Humanos], clássico de Elia Kazan, hoje fosse imortalizado. O fato é que, apesar do dramalhão quase mexicano envolvendo a família e os amigos do personagem-título, as atuações e os diálogos, principalmente entre Ernest Borgnine e Betsy Blair, tornam muito difícil não gostar de uma história tão humana e tão sensível.

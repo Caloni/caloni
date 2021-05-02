@@ -1,7 +1,7 @@
 ---
 date: "2021-03-27"
 link: "https://www.imdb.com/title/tt0079083"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Terceira Geração"
 ---
 Um Fassbinder em sua fase hermética, quando ele se distanciou aínda mais do espectador. O diretor alemão era gay assumido e muitos de seus filmes deixam isso transparecer ao imaginarmos que se trata de um Almodóvar alemão. Este filme é um deles, que mostra terroristas de extrema esquerda na época de um atentado em Berlim. Nenhum dos personagens lembra alguém de verdade, pois isso seria impossível.

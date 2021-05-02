@@ -1,7 +1,7 @@
 ---
 date: "2014-01-19"
 link: "https://www.imdb.com/title/tt0219822"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Natureza Quase Humana"
 ---
 Os roteiros de Charlie Kaufman (Adaptação, Quero ser John Malkovich) dirigidos por Michel Gondry (Brilho Eterno de uma Mente sem Lembrança) nunca parecem deixar de explorar a fundo seus temas. Aqui o formato de testemunho com flashbacks é essencial para compreendermos a real dimensão dos relacionamentos entre os quatro personagens, inclusive o que morreu no processo, nessa comédia absurda que flerta com a natureza instintiva e animalesca do ser humano em detrimento a rígidas e, muitas vezes, sem sentido, regras de etiqueta e convívio social.

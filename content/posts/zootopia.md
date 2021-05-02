@@ -1,7 +1,7 @@
 ---
 date: "2016-07-02"
 link: "https://www.imdb.com/title/tt2948356"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Zootopia"
 ---
 Direita x Esquerda? Opressores x Oprimidos? Predadores x Presas? A imbecilidade dos liberais americanos apenas compete com sua genialidade nesse novo filme da Disney, que explora um tema político em um filme para crianças que possui 2 ou 3 piadas bem pontuais, mas que no fundo é muito mais para adolescentes e com conteúdo adulto.

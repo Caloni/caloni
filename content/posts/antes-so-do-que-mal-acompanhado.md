@@ -1,7 +1,7 @@
 ---
 date: "2013-11-16"
 link: "https://www.imdb.com/title/tt0093748"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Antes Só do que Mal Acompanhado"
 ---
 Filmes do John Hughes animavam a sessão da tarde com suas comédias fáceis e leves, mas sempre escondiam uma sub-trama sutil que, revisitada, constituía o conteúdo que o torna tão imortal. Em "Antes Só do Que Mal Acompanhado" é a amizade, empatia, compaixão, ou tudo isso junto, que forma a base da narrativa tão coesa da história de um homem tentando voltar para casa e sua família em um momento especial. O que ele encontra pelo caminho é um pacote de infortúnios, embalado por um estranho que cai em sua vida de para-quedas e não consegue mais sair desde então. Quais são as mensagens que esse estranho tem sobre todos esses sentimentos que citei no início?

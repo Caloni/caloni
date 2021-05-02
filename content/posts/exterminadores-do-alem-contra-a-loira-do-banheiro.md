@@ -1,7 +1,7 @@
 ---
 date: "2019-08-10"
 link: "https://www.imdb.com/title/tt8753660"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Exterminadores do Além Contra a Loira Do Banheiro"
 ---
 Nós saímos dos anos 80, mas os anos 80 não saíram de nós. Esta é uma comédia onde crianças levam tabefes e palavrões de baixo calão. Onde uma professora caminha com uma camisinha presa em sua testa. Onde cocôs e fetos tomam vida. E onde Danilo Gentili quase não atrapalha o andamento do filme.

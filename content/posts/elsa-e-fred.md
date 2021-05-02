@@ -1,7 +1,7 @@
 ---
 date: "2010-12-30"
 link: "https://www.imdb.com/title/tt0453047"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Elsa e Fred"
 ---
 A noção de felicidade na sociedade atual acaba a tornando inalcançável. Quanto mais busca-se o mundo ideal, mais perde-se a satisfação do real. Sendo assim, é difícil não se emocionar com a praticidade de Elsa, uma mulher em torno dos seus 80 anos bem vividos que só tem um desejo em mente e que o coloca em prática o mais rápido possível: viver mais, não importando os defeitos e os obstáculos que o mundo real lhe apresenta.

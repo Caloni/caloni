@@ -1,7 +1,7 @@
 ---
 date: "2011-06-30"
 link: "https://www.imdb.com/title/tt0054215"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Psicose"
 ---
 A sensação de assistir Psicose na telona do cinema se compara a voltar ao próprio tempo em que o filme estreou. Ainda considerando que a última vez que o assisti estava eu abaixo da regra dos 15 anos e, portanto, livre do meu senso crítico, me fez revisitar as sequências mais importantes do longa como se agora sim eu tivesse algo a dizer. Ledo engano. Saí do cinema sem saber mentalizar uma frase sequer. Nem de efeito. Estava sem palavras diante de uma obra de arte. Petrificado. Extasiado. Feliz.

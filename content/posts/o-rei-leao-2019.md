@@ -1,7 +1,7 @@
 ---
 date: "2019-07-16"
 link: "https://www.imdb.com/title/tt6105098"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "O Rei Leão (2019)"
 ---
 Só esse cuidado que a Disney vem tomando em adaptar seus clássicos já é comovente. Antes desenhado em animação, o que permite um tom mais caricato de seus personagens, a versão computadorizada de O Rei Leão nos faz pensar em como os pequenos ajustes da história neste remake feito com bits e bytes existem para focar mais no seu núcleo dramático, o que se aproxima das duas inspirações da história original: os textos bíblicos sobre as vidas de José e Moisés e os palcos de onde se encenou a imortal peça de Shakespeare, Hamlet. Nesse sentido, O Rei Leão é um Príncipe do Egito às avessas.

@@ -1,7 +1,7 @@
 ---
 date: "2016-02-08"
 link: "https://www.imdb.com/title/tt0061811"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "No Calor da Noite"
 ---
 Esse é um filme que expõe o racismo como nenhum outro. O personagem de Sidney Poitier aguarda o trem na estação da pequena cidade de Sparta para visitar sua mãe. Naquela mesma noite um figurão da cidade é assassinado. Um policial, um dos caipiras da cidade, encontra Portier sentado em um banco, e para ele o crime já está resolvido: único negro encontrado aquela noite, só ele poderia ser o culpado de um crime tão brutal.

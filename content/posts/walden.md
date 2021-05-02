@@ -1,7 +1,7 @@
 ---
 date: "2020-11-01"
 link: "https://www.imdb.com/title/tt5024672"
-tags: [ "cinemaqui", "movies" ]
+categories: [ "cinemaqui", "movies" ]
 title: "Walden"
 ---
 Nascida em Praga nos anos 60, a cineasta Bojena Horackova busca por liberdade no Ocidente em Paris aos dezessete anos. Várias décadas depois surge Walden, um filme que mistura traços biográficos de sua idealizadora e um tom nostálgico/romântico.

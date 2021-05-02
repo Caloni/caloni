@@ -1,7 +1,7 @@
 ---
 date: "2009-05-25"
 title: Como compilar em somente um passo
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 Uma das primeiras perguntas do [teste do Joel](http://brazil.joelonsoftware.com/Articles/TheJoelTest.html) é saber se você pode compilar todo o projeto em apenas um passo. Essa é uma **questão essencial** e um desafio para muitas equipes. Perdem-se horas sagradas para gerar um novo Release.
 

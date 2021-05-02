@@ -1,7 +1,7 @@
 ---
 date: "2014-12-20"
 link: "https://www.imdb.com/title/tt1065073"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Boyhood: Da Infância à Juventude"
 ---
 Boyhood: Da Infância à Juventude -- que possui esse subtítulo nacional horrível para as pessoas ficarem atentas quando o filme termina -- é o trabalho de doze anos de filmagens (na verdade, 45 dias espaçados em períodos de cerca de um ano) para que os atores principais -- em seu início crianças de sete e oito anos -- pudessem crescer naturalmente e com isso interpretassem todas as fases de crescimento da infância à adolescência. Seu diretor, Richard Linklater, já era conhecido por seu estilo realista em sua até o momento trilogia Antes do Amanhecer, Antes do Por-do-Sol e Antes da Meia-Noite, filmados de dez em dez anos com Julie Delpy e Ethan Hawke (este último também participa de Boyhood) para analisar o amadurecimento dos seus personagens. O que ele nunca fez, e, sinceramente, não me lembro de ter visto sido feito com tanto afinco, foi filmar uma ficção que tirasse proveito do processo de envelhecimento da vida real.

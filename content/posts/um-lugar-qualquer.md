@@ -1,7 +1,7 @@
 ---
 date: "2013-12-25"
 link: "https://www.imdb.com/title/tt1421051"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Um Lugar Qualquer"
 ---
 A rotina "solitária" do playboy/ator Johnny Marco (Stephen Dorff), cercado de tietes por todos os lados, mas que não abre mão de uma sessão privada de pole dance protagonizada por gêmeas, e a mudança que vai ocorrendo conforme sua filha Cleo (Elle Fanning) vai participando cada vez mais de sua vida, é mostrada pela lente humanamente aguçada de Sofia Coppola (Encontros e Desencontros), o que dispensa muitos diálogos.

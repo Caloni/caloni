@@ -1,7 +1,7 @@
 ---
 date: "2015-07-28"
 title: "Você sabe o que está usando no seu código?"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 Quando se mexe com C++ em múltiplos fontes logo vem aquela bagunça do versionamento e do compartilhamento de código. LIBs, DLLs, COMs (de Component Object Model, da Microsoft). É difícil a partir de um binário saber quais os fontes envolvidos em sua construção, a não ser que você os amarre através de um sistema automatizado de build onde todos os binários devem ser obrigatoriamente compilados (e suas dependências, claro).
 

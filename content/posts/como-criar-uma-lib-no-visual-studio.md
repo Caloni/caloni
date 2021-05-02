@@ -1,7 +1,7 @@
 ---
 date: "2008-05-29"
 title: Como criar uma LIB no Visual Studio
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 Quando se está começando no ramo, alguns detalhes nunca vêm à tona para o programador novato. Ele simplesmente vai codando até se sentir satisfeito com o prazer que é proporcionado pela prática da arte dos deuses de silício.
 

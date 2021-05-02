@@ -1,7 +1,7 @@
 ---
 date: "2015-09-23"
 link: "https://www.imdb.com/title/tt0052077"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Plano 9 do Espaço Sideral"
 ---
 É este o "pior filme de todos os tempos", como foi votado no livro do crítico Michael Medved? É óbvio que não. Qualquer lista sobre qualquer coisa sobre Cinema está fadada a 1) estar incompleta e 2) estar errada. Dessa forma, nunca poderemos falar do melhor ou do pior sem nos esquecermos que ninguém nunca viu todos os filmes do mundo, e portanto sempre haverá piores filmes que nunca foram vistos. Além do que, se você lembrar do item 2, uma lista de melhores/piores sempre estará errada, pois esta é uma visão muito mais próxima do gosto pessoal do que uma crítica bem embasada nas "características" de um trabalho como esse.

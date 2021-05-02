@@ -1,7 +1,7 @@
 ---
 date: "2013-08-02"
 link: "https://www.imdb.com/title/tt0080120"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Os Selvagens da Noite"
 ---
 Filmado claramente como um filme de batalhas do Império Romano, a la [Spartacus], Ben-Hur e tantos outros, nossa visão é forçada a enxergar aquelas gangues de rua como exércitos a defender seu território, o que é fascinante por si só, pois embute em nossa mente o mesmo perigo de morte que exércitos "tradicionais" teriam em zona inimiga.

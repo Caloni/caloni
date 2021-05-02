@@ -1,7 +1,7 @@
 ---
 date: "2020-05-04"
 link: "https://www.imdb.com/title/tt0113824"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Sussurros do Coração"
 ---
 Difícil um japonês cantar "Country Roads", mas o resultado vale todo o esforço. E a dedicação que essa menina tem para escrever ficção eu não tenho para não-ficção. Mas ela está aprendendo, e na cultura japonesa você deve dominar o que pretende fazer em sua vida.

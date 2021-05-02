@@ -1,7 +1,7 @@
 ---
 date: "2010-08-06"
 link: "https://www.imdb.com/title/tt1781755"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "400 contra 1: Uma História do Comando Vermelho"
 ---
 Essa é a história do nascimento do Comando Vermelho, uma das quadrilhas de assalto a bancos mais organizada do Brasil. O filme oscila entre os anos 70 e 80, os anos em que os membros fundadores estavam presos, desenvolvendo os conceitos que unem o bando, e soltos, época em que o número de assaltos a bancos multiplicou-se consideravelmente, e coincidentemente a última década do regime ditatorial.

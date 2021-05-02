@@ -1,7 +1,7 @@
 ---
 date: "2019-04-22"
 link: "https://www.imdb.com/title/tt0808506"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Garota Que Conquistou O Tempo"
 ---
 Netflix, fui tapeado! Pensei que iria ver uma animação sobre viagem no tempo no estilo Steins;Gate e acabei vendo um filme de menininha japonesa. Com quem devo ficar? Oh, meu deus, de quem será que eu gosto? Este também é um filme sobre uma pessoa que volta no tempo apenas para comer seu pudim antes da irmã.

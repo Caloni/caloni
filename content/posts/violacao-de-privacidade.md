@@ -1,7 +1,7 @@
 ---
 date: "2016-03-13"
 link: "https://www.imdb.com/title/tt0364343"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Violação de Privacidade"
 ---
 Robin Williams devia ter se aposentado de suas atuações em comédia. Porém, assistindo a filmes como Insônia, Retratos de uma Obsessão e este Violação de Privacidade, se torna até compreensível que o ator resolva dedicar metade do seu tempo para filmes açucarados para equilibrar esse seu lado sombrio e penetrante.

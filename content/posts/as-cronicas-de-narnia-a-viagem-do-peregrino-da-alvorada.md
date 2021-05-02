@@ -1,7 +1,7 @@
 ---
 date: "2010-10-21"
 link: "https://www.imdb.com/title/tt0980970"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "As Crônicas de Nárnia: A Viagem do Peregrino da Alvorada"
 ---
 Lembro de ter visto a primeira Crônica de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa. Alguma coisa me dizia para não confiar muito em títulos muito longos, e... dito e feito. Não gostei da frágil história em uma narrativa que supõe-se introduzir personagens importante para as próximas tramas, mas que simplesmente joga seus elementos iniciais em um tabuleiro de xadrez e trata apenas de arrastar preguiçosamente essas peças nada originais, tiradas do fundo do baú da crença cristã com cobertura de mitologia grega.

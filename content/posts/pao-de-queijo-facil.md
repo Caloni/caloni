@@ -1,7 +1,7 @@
 ---
 date: "2021-03-27"
 link: "https://www.instagram.com/p/CCJAULPDsJ-/"
-tags: [ "draft", "food" ]
+categories: [ "draft", "food" ]
 title: "Pão de Queijo Fácil"
 ---
 A receita original veio do Instagram de uma queijaria de Poços de Caldas, a Queijaria Real. Nessa receita existem apenas três ingredientes, mas já percebi na primeira vez que fiz que faltou sal. Porém, ela é muito mais simples e rápida que a receita que mantenho de [pão de queijo mineiro].

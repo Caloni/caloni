@@ -1,7 +1,7 @@
 ---
 date: "2013-02-07"
 link: "https://www.imdb.com/title/tt1045658"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Lado Bom da Vida"
 ---
 A partir do primeiro encontro entre Tiffany (Jennifer Lawrence, [Inverno da Alma]) e Patrick (Bradley Cooper, Se Beber Não Case), mais precisamente no momento em que ela esbofeteia a sua cara, sabemos de imediato que vale a pena seguir essas duas vidas "para ver no que dá".

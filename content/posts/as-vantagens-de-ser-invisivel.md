@@ -1,7 +1,7 @@
 ---
 date: "2012-11-29"
 link: "https://www.imdb.com/title/tt1659337"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "As Vantagens de Ser Invisível"
 ---
 Primeiro filme dirigido por Stephen Chbosky depois de 95, a história do tímido Charlie parte do roteiro e romance escritos pelo mesmo Chbosky. Se não possui traços bibliográficos, ou mesmo que possua, há um mérito considerável em conseguir narrar o arco dramático de um protagonista adolescente sob sua ótica e ainda conseguir a proeza de ser poético, intenso e divertido durante cada momento.

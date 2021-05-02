@@ -1,7 +1,7 @@
 ---
 date: "2014-03-01"
 link: "https://www.imdb.com/title/tt2724064"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Sharknado"
 ---
 Quando um filme brinca de ser do gênero trash ele faz um esforço mínimo para dar umas piscadelas para o espectador no melhor estilo "ei, eu estou brincando". Essa é uma característica óbvia no interessante Matadores de Vampiras Lésbicas (2009) e no ótimo Zumbilândia (2009). É preciso ter em mente que, sem essa piscadela básica, um trabalho que tenta subverter seu gênero pode acabar sendo o exemplo perfeito de tudo o que não se deve fazer em um filme. É exatamente por isso que Sharknado acaba sendo um marco nos filmes muito, muito ruins.

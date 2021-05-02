@@ -1,7 +1,7 @@
 ---
 date: "2020-10-11"
 link: "https://www.crunchyroll.com/pt-pt/domestic-girlfriend"
-tags: [ "animes" ]
+categories: [ "animes" ]
 title: "Domestic Girlfriend"
 ---
 Este "dranime" contém todos os elementos de uma novela dramática live action, somados à capacidade sobrenatural desse formato em decupar cenas com uma fluidez admirável, que nos coloca em sintonia com os pensamentos e memórias de seu protagonista, o jovem Natsuo.

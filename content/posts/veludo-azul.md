@@ -1,7 +1,7 @@
 ---
 date: "2016-01-14"
 link: "https://www.imdb.com/title/tt0090756"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Veludo Azul"
 ---
 Esse filme nos deixa a dúvida se ele é doentio ou se apenas reflete a doença no mundo. Não é de hoje que se acredita que violência é um sintoma da necessidade de controle de um indivíduo sobre outro. Muitas vezes isso assume o caráter sexual. E se adicionarmos uma moral nesse ingredientes, religiosa ou não, é óbvio que ela julgará como uma coisa mau e perversa.

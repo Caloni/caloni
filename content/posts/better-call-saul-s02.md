@@ -1,7 +1,7 @@
 ---
 date: "2016-04-22"
 link: "https://www.imdb.com/title/tt3032476"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Better Call Saul - Segunda Temporada"
 ---
 A segunda temporada de Better Call Saul consegue repetir a façanha da primeira, em apresentar personagens fascinante com praticamente só imagens; aqui, porém, Saul tem que dividir as atenções com duas figuras cada vez mais presentes: o bom e velho Mike Ehrmantraut (Jonathan Banks) e a madura e persistente Kim Wexler (Rhea Seehorn). Ambos são caracteres que passa a valer a pena acompanhar e torcer junto, pois eles são, de uma maneira torta, lados da mesma moeda: a consistência e o caráter.

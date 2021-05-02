@@ -1,7 +1,7 @@
 ---
 date: "2014-01-18"
 link: "https://www.imdb.com/title/tt1698648"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Minha Vida Dava um Filme"
 ---
 Kristen Wiig, distante de A Vida Secreta de Walter Mitty e próxima de Missão Madrinha de Casamento, protagoniza essa comédia em que faz o papel de Imogene, uma escritora fracassada que é literalmente obrigada a voltar a morar pelas próximas 72 horas com a sua mãe e família após ter maquiado seu suicídio. O fato da carta de despedida de Imogene ter sido tão bem escrita é o que consegue unir seu passado de potencial glorioso e o seu eminente fracasso.

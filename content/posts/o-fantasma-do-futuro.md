@@ -1,7 +1,7 @@
 ---
 date: "2016-05-01"
 link: "https://www.imdb.com/title/tt0113568"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Fantasma do Futuro"
 ---
 Não, esse não é o "original". Aliás, o conceito de originalidade, ou individualidade, é justamente o que é atacado em Ghost in the Shell, uma animação japonesa que precede em muito toda a discussão filosófica gerada pelo filme Matrix, dos irmãos Wachoski, e que marca a predominância do tema em Hollywood.

@@ -1,6 +1,6 @@
 ---
 date: "2008-03-29"
-tags: [ "ccppbr" ]
+categories: [ "ccppbr" ]
 title: "EPA-CCPP 4: nossa comunidade ganhando forma"
 ---
 Nesse último sábado ocorreu mais uma vez, como todos sabem, o Encontro de Programadores e Aficionados por C++, (in)formalmente apelidado de EPA-CCPP, de acordo com algumas conversas da nossa lista de discussão.

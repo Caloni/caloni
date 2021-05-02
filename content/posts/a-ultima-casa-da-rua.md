@@ -1,7 +1,7 @@
 ---
 date: "2019-04-14"
 link: "https://www.imdb.com/title/tt1582507"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Última Casa da Rua"
 ---
 House at the End of the Street apresenta a mega-star Jennifer Lawrence da série Jogos Vorazes descobrindo os podres do garoto bonitinho interpretado por Max Thieriot. O problema do material entregue pelos roteiristas é que esta é a velha fórmula do mistério se abrindo aos poucos com uma revelação nem tão bombástica assim, e a morte de uma personagem importante no meio não torna as coisas tão imprevisíveis também.

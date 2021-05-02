@@ -1,7 +1,7 @@
 ---
 date: "2012-05-07"
 link: "https://www.imdb.com/title/tt0412019"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Flores Partidas"
 ---
 Don Johnston (Bill Murray, impagável) tem seu nome frequentemente confundido com seu quasi-homônimo Don Johnson ("o meu é com T"). No entanto, o que intimamente gostaria de ser é seu outro homônimo, Don Juan, conquistador inveterado de corações femininos. Um belo dia recebe uma carta rosa que menciona a existência de um filho já crescido, fruto de uma de suas inúmeras amantes. Crente de ter as qualidades de um verdadeiro conquistador, Don parte em uma jornada pelo país para verificar qual das quatro mulheres que consegue se lembrar de seu passado possuem vínculo com a suposta carta.

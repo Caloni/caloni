@@ -1,7 +1,7 @@
 ---
 date: "2014-12-26"
 link: "https://www.imdb.com/title/tt0067992"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Fantástica Fábrica de Chocolate"
 ---
 Esse filme de 1971 é o original daquele remake feito por Tim Burton alguns anos atrás. Curiosamente, ele também não é original, mas baseado em um livro (o que bate de frente com a opinião de alguns cinéfilos que acreditam piamente que essa é a era que ninguém cria mais nada de novo). A história contada é praticamente idêntica, mas possui um fechamento mais coeso e coerente com sua estrutura, embora a relação pai/filho da versão que tem Johnny Depp seja interessante até certo ponto. Outra coisa que o remake difere é que ele não possui quase nenhum diálogo do original, o que faz toda a diferença, pois o original sim possui frases memoráveis que recheiam os significados implícitos do filme.

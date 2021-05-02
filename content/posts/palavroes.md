@@ -1,7 +1,7 @@
 ---
 date: "2016-06-26"
 link: "https://www.imdb.com/title/tt2170299"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Palavrões"
 ---
 Tão diferente que perde o foco. Porém, é um "indie" no conceito básico dessa nova categorização: muitas das coisas que vemos em Palavrões dificilmente estaria em uma produção hollywoodiana.

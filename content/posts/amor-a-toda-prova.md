@@ -1,7 +1,7 @@
 ---
 date: "2016-07-28"
 link: "https://www.imdb.com/title/tt1570728"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Amor a Toda Prova"
 ---
 As comédias românticas das últimas duas décadas criaram aos poucos um amontoado de clichês. Agora, imagine um filme que tenta enfiar vários desses clichês de uma só vez. Um filme onde a professora gostosa é Marisa Tomei, onde mulheres em crise da meia-idade assistem Crepúsculo (mesmo sabendo quão ruim isso é), onde um triângulo amoroso é criado entre a babá, a criança e seu pai. Onde até um genro-surpresa pode aparecer para a festa. Se, em torno de tudo isso, ainda houver dúvidas se este é um filme que comemora o lugar-comum, espere começar a chover depois de um desentendimento do casal principal. Nesse momento, até o personagem olha para o céu e exclama: "isso é tão clichê!".

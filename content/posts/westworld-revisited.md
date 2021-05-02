@@ -1,7 +1,7 @@
 ---
 date: "2018-12-30"
 link: "https://www.imdb.com/title/tt0475784"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Westworld (Revisita ao S01 com algumas questões e spoilers)"
 ---
 A revisita a Westworld vale muito a pena. Detalhes que só serão revelados no final são percebidos desde o começo, e a experiência de torna única novamente. Em meu primeiro texto não me lembro se liberei spoilers (vendo agora... não), mas este aqui é certeza que terá. Como toda revisita a esta série deve ter.

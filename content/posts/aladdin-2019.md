@@ -1,7 +1,7 @@
 ---
 date: "2019-05-22"
 link: "https://www.imdb.com/title/tt6139732"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Aladdin (2019)"
 ---
 Eu gostei de Aladdin, este remake (ou reimaginação) do musical de 1992. Depois de O Retorno de Mary Poppins e Dumbo (2019) acredito que a Disney começa a caminhar nos trilhos da conversão de seus maiores trabalhos para live action com fundo verde. Ela possui tudo o que necessita para fazê-lo: os bons roteiros dos filmes originais.

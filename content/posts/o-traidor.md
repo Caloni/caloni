@@ -1,7 +1,7 @@
 ---
 date: "2016-09-04"
 link: "https://www.imdb.com/title/tt4844288"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Traidor"
 ---
 Uma narradora que é uma velha e que faz graça com a desgraça de uma nação. Belas mulheres asiáticas que são estupradas por um imperador maluco, auxiliado por dois caçadores de beleza, pai e filho, que não confiam um no outro. Uma putaria e violência que começam desenfreadas, mas aos poucos caem no clichê moralista não sei bem por quê. Uma história mais ou menos histórica (Yeonsangun of Joseon, o décimo-rei da Coreia) que falha em uma narrativa sem entender a que veio.

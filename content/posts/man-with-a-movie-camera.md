@@ -1,7 +1,7 @@
 ---
 date: "2015-09-21"
 link: "https://www.imdb.com/title/tt0019760"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Um Homem com uma Câmera"
 ---
 Man With a Movie Camera, ou "Chelovek S Kino-apparatom", provavelmente é o filme experimental mais conhecido pelos cinéfilos, talvez por ter sido recomendado e elogiado por críticos do mundo todo.

@@ -1,7 +1,7 @@
 ---
 date: "2019-10-05"
 link: "https://www.imdb.com/title/tt9608078"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Lembre-se de Mim, Por Favor"
 ---
 Tem início a Quinta Mostra de Cinema Chinês em São Paulo, dessa vez homenageando e focando nas diretoras mulheres de um país fechado que merece ser redescoberto. O filme da abertura, por exemplo, este "Lembre-se de Mim, Por Favor", é o último filme de Xiaolian Peng antes do seu falecimento. É uma pena que ela tenha se ido tão cedo, pois ela estaria neste evento, junto de sua colega, a diretora Liu Miaomiao (seu filme Flores Vermelhas e Folhas Verdes também será exibido na Mostra).

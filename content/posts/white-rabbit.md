@@ -1,7 +1,7 @@
 ---
 date: "2016-01-04"
 link: "https://www.imdb.com/title/tt2241116"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "White Rabbit"
 ---
 O que esse filme quer dizer? Que é assim que se forma um psicopata que mata jovens em uma escola? Ou que é assim que se salva uma das vítimas? Qual a lição apresentada por um filme que já revela seu desfecho nos primeiros 30 segundos?

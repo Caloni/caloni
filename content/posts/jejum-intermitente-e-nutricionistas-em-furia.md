@@ -1,6 +1,6 @@
 ---
 date: "2018-08-18"
-tags: [ "draft", "reading" ]
+categories: [ "draft", "reading" ]
 title: "Jejum Intermitente e Nutricionistas em Fúria"
 ---
 Eu entendo que nutricionistas precisem defender sua profissão. Muitas pessoas no mundo todo possuem uma dieta errante totalmente inadequada com suas condições de saúde, e a área de nutrição pode e deve crescer com base em evidências científicas, da mesma forma como acontece com a medicina. Uma das funções mais importantes desses profssionais hoje em dia é desmistificar e validar as conhecidas dietas da moda: comer de três em três horas, dieta paleolítica, cortar carbo, comer só uma coisa a semana inteira, etc.

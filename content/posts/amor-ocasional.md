@@ -1,7 +1,7 @@
 ---
 date: "2019-01-02"
 link: "https://www.imdb.com/title/tt9170638"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Amor Ocasional"
 ---
 Essa série estilo comédia romântica da Netflix está ligeiramente acima da média, graças à performance adorável de Zita Hanrot como a vulnerável Elsa e também ao tratamento um pouco mais sério à história criada pela dupla Chris Lang e Noémie Saglio. Ela é francesa e é uma série, o que quer dizer que não termina. Mas seus personagens são suportáveis por talvez mais alguns episódios, embora no fundo tudo pudesse ser resolvido em um longa metragem.

@@ -1,7 +1,7 @@
 ---
 date: "2015-03-23"
 link: "https://www.imdb.com/title/tt2397619"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Woody Allen: A Documentary"
 ---
 Espero que esse não seja o primeiro, muito menos o último dos documentários a respeito do cineasta/comediante/músico de jazz Woody Allen. A direção e o roteiro de Robert B. Weide é tão óbvia e caminha por tantos lugares-comuns que fica a dúvida se ele realmente tem alguma conexão com Allen ou foi apenas um projeto encomendado pela BBC.

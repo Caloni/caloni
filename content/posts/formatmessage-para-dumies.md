@@ -1,7 +1,7 @@
 ---
 date: "2010-10-26"
 title: FormatMessage para... dumies?
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 [![Peixe Gelatinoso Bizarro do Brasil (conhece esse país?)](http://i.imgur.com/8ZZjHlM.jpg)](http://www.caloni.com.br/blog/formatmessage-para-dumies/peixe-gelatinoso-bizarro-do-brasil-conhece-esse-pais/)
 

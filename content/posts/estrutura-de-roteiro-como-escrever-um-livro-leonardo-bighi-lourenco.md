@@ -1,6 +1,6 @@
 ---
 date: "2018-07-17"
-tags: [ "draft", "books" ]
+categories: [ "draft", "books" ]
 title: "Estrutura de Roteiro"
 ---
 Às vezes dá vontade de ler todos os livros sobre um assunto e fazer um apanhado de dicas em 50 páginas. Mas isso passa rápido depois que você percebe que vai perder alguns anos de sua vida. Leonardo Bighi Lourenço perdeu 3 anos de sua vida para nós, e nos apresenta todas aquelas teorias de 4 atos (ou 3, com o do meio dividido em dois (???)), seus pontos de virada, conflito, protagonista, antagonista, ponto de impacto... enfim, a pataquada toda.

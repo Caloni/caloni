@@ -1,7 +1,7 @@
 ---
 date: "2010-10-09"
 title: Três em um
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 Que vergonha passar tanto tempo sem postar nada. Parece que não fiz nada que valesse a pena comentar por aqui.
 

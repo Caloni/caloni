@@ -1,7 +1,7 @@
 ---
 date: 2017-07-28T18:28:07-03:00
 title: "Migrando Imagens Para Imgur"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 Depois de migrar meus blogues para o [Hugo](https://gohugo.io) decidi deixar o repositório mais magro migrando as imagens para um serviço de imagens. O [imgur](http://imgur.com/) me pareceu uma solução simples com uma interface rápida (e uma API Python). Para realizar essa tarefa você vai precisar das ferramentas de sempre: grep, sed, python, vim. E lá vamos nós.
 

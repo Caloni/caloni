@@ -1,7 +1,7 @@
 ---
 date: "2018-04-11"
 link: "https://www.imdb.com/title/tt1677720"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Jogador No. 1"
 ---
 Se antes filmes medíocres de Spielberg poderiam contar com a sua emoção e carisma em conduzir uma história para subir sua média próxima do aceitável, em Jogador Número 1 esse efeito inexiste, pois estamos lidando com fantasmas sem alma como os heróis de um jogo cujas consequências na vida real já foram preguiçosamente definidas antes do jogo começar.

@@ -1,7 +1,7 @@
 ---
 date: "2018-06-02"
 link: "https://www.imdb.com/title/tt1700841"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Festa da Salsicha"
 ---
 Essa delícia de filme é aquele tipo de brincadeira que você vai aumentando com os amigos mais chegados e, quando vai ver, está produzindo um filme. Seth Rogen, Johah Hill, Evan Goldberg, Kristen Wiig e mais uma série de atores irreverentes auxiliam na escrita, produção (nenhum grande estúdio estaria por trás disso) e atuação (dublagem) desta animação que definitivamente não é para crianças, mas que poderia servir de lição para muitos adultos com algumas partes da mente ainda infantil. E ainda dar boas e pesadas risadas.

@@ -1,7 +1,7 @@
 ---
 date: "2016-01-13"
 link: "https://www.imdb.com/title/tt1706620"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Expresso do Amanhã"
 ---
 O quão bom é a mensagem de um filme à medida que ela vai se tornando óbvia demais? Em Expresso do Amanhã, um filme violentamente gráfico e com desvios de caráter para o bem de seu argumento, talvez esse limite seja quando um personagem declara que "o trem é o mundo, nós somos a humanidade", em um momento tão avançado na história que até para aquele espectador que dormiu metade do filme a mensagem já é pura e cristalina como água derretida das calotas polares.

@@ -1,7 +1,7 @@
 ---
 date: "2010-10-04"
 link: "https://www.imdb.com/title/tt0808245"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Letter to Elia"
 ---
 O documentário logo se revela mais pessoal que o normal, pois os nomes das pessoas não são apresentadas na primeira vez que elas aparecem (basicamente Elia Kazaan e Scorcese, o diretor do filme).

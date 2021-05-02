@@ -1,7 +1,7 @@
 ---
 date: "2019-06-23"
 link: "https://www.imdb.com/title/tt0172396"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Fim de Caso"
 ---
 Nossa, como chove em Londre. Não me admira que os restaurantes têm essas chapelarias na entrada. De qualquer forma, além da chuva, é um clima cinzento, com o tempo instável. Me lembro de uma sequência em Fim de Caso em que o personagem de Ralph Fiennes, Bendrix, está seguindo sua amante, interpretada por Julianne Moore, Sarah, e está chovendo os diabos. Daí eles entram em um cinema, mas mal se sentam, pois ela escapa pela porta lateral. Do lado de fora já está seco e sem chuva, justamente para quando entrarem na igreja existirá o clássico quadro da luz do sol adentrando as janelas da igreja. Bem pensado, Neil Jordan.

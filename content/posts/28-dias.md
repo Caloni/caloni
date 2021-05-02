@@ -1,7 +1,7 @@
 ---
 date: "2017-04-21"
 link: "https://www.imdb.com/title/tt0191754"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "28 Dias"
 ---
 Como você faria para mostrar ao grande público que ter uma vida boêmia pode ser algo terrível, mesmo que você se divirta no processo? Bom, 28 dias faz isso de maneira brilhante, desfocando e diminuindo direto nas cenas a qualidade dos momentos da vida em que sua protagonista, Gwen, não consegue se lembrar direito. Ela e seu namorado estão em uma festa, chegam em seu apartamento, colocam fogo em um sutiã, fazem sexo, acordam atrasados para o casamento de sua irmã, fazem um verdadeiro vexame no dia mais importante de sua vida e Gwen acaba em uma clínica de habilitação onde, contrariando os filmes mais bonitinhos sobre o tema, as pessoas não são agradáveis ou dignas de pena, mas seres humanos muito reais, que estão cansadas dessa vida que Gwen acabou de interromper.

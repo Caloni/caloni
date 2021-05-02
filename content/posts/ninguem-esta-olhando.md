@@ -1,7 +1,7 @@
 ---
 date: "2017-11-16"
 link: "https://www.imdb.com/title/tt3810810"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Ninguém Está Olhando"
 ---
 Ninguém Está Olhando é um estudo de personagem eficiente, o que não quer dizer que necessariamente agradável. É difícil entender os motivos do protagonista sem cair nos velhos preconceitos. E com isso é difícil se identificar com um rapaz tão problemático. Porém, se você pertence à geração mimimi, tenho boas notícias pra você.

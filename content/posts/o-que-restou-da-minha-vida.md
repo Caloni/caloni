@@ -1,7 +1,7 @@
 ---
 date: "2016-10-21"
 link: "https://www.imdb.com/title/tt6150202"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Que Restou da Minha Vida"
 ---
 Tratando da morte de uma maneira leve para depois reverenciar a perda das pessoas que amamos, O Que Restou da Minha Vida é um misto de temas que combina comédia, romance e drama em uma sequência de idas e voltas não necessariamente confusas, mas frustrantes.

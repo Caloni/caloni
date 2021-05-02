@@ -1,7 +1,7 @@
 ---
 date: "2019-02-20"
 link: "https://www.imdb.com/title/tt0368667"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Interstella 5555"
 ---
 Eis um Interestelar que presta do começo ao fim. 5555 é uma experiência no mundo dos vídeo-clipes. Ele contém uma história narrada visualmente e embalada por um álbum inteiro, batida a batida. Ele é um arco completo, talvez melhor que a maioria dos filmes, e ainda tem algumas coisas a dizer sobre nossa sociedade e seus troféus. Este filme é praticamente gêmeo de Pink Floyd The Wall, 20 anos depois.

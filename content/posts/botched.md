@@ -1,7 +1,7 @@
 ---
 date: "2018-07-04"
 link: "https://www.imdb.com/title/tt3781836"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Botched"
 ---
 Botched é mais uma das séries de canais como Discovery Home & Health e... ops. Acho que me enganei de canal. Anyway. Algum canal pago desses por aí onde abrem mulheres para fazer cirurgias plásticas para as completarem como os últimos Frankesteins de nossa geração.

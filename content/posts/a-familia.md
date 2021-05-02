@@ -1,7 +1,7 @@
 ---
 date: "2013-10-04"
 link: "https://www.imdb.com/title/tt2404311"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Família"
 ---
 Aquele filme esquecível que até que tem uma ideia interessante: proteger uma família de mafiosos. Protagonizada por Robert de Niro. Encabeçada por Michelle Pfeiffer. Assessorada por Tommy Lee Jones. O que poderia dar errado?

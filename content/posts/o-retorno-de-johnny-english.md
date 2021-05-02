@@ -1,7 +1,7 @@
 ---
 date: "2011-11-13"
 link: "https://www.imdb.com/title/tt1634122"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Retorno de Johnny English"
 ---
 Não assisti ao original, mas a impressão geral desse novo trabalho de Rowan Atkinson, que aqui veste a pele de mais uma paródia de filmes do 007, é que, apesar do roteiro não se importar quase nada com a lógica da sua trama, esse não é motivo que impeça que o longa tenha momentos inspirados, criados principalmente pela boa performance do ator, que consegue flexibilidade para criar outro personagen caricato além de seu mundialmente famoso Mr. Bean.

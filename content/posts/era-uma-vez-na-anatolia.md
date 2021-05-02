@@ -1,7 +1,7 @@
 ---
 date: "2020-06-22"
 link: "https://www.imdb.com/title/tt1827487"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Era uma Vez na Anatolia"
 ---
 A fotografia cria um personagem à parte com suas luzes de diferentes tons enquanto essa trupe de três veículos cruza os pequenos vales de uma região remota e perigosa na Turquia.

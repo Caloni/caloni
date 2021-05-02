@@ -1,7 +1,7 @@
 ---
 date: "2015-01-05"
 link: "https://www.imdb.com/title/tt0027977"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Tempos Modernos"
 ---
 Charlies Chaplin foi o Leonardo da Vinci da Sétima Arte. Em Tempos Modernos ele não apenas atua e dirige, como escreve o roteiro, edita e compõe a trilha sonora, incluindo o belíssimo tema de casal. É um filme-fantasia que contém metáforas sobre a vida dura na cidade, onde a multidão caminha em uníssono para as fábricas na esperança de uma vida melhor, trabalhando em um ritmo frenético ditado pelo dono através de um monitor gigante. Não à toa, a primeira cena intercala essa multidão com um rebanho. Acompanhamos a história de apenas um desses trabalhadores (Chaplin) que é preso após ficar maluco trabalhando na linha de produção. Ironicamente, a prisão é um lugar mais agradável do que a vida lá fora.

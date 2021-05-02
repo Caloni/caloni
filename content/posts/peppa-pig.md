@@ -1,7 +1,7 @@
 ---
 date: "2016-10-16"
 link: "https://www.imdb.com/title/tt0426769"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Peppa Pig"
 ---
 Eis um desenho que preza por histórias sucintas, rápidas e simples, ligeiramente divertidas e que estão atreladas ao fato da família principal ser constituída de porcos.

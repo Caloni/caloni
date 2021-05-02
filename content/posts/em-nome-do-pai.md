@@ -1,7 +1,7 @@
 ---
 date: "2016-02-27"
 link: "https://www.imdb.com/title/tt0107207"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Em Nome do Pai"
 ---
 Em Nome do Pai é daquelas pérolas baseadas em fatos reais que funciona pelo emocional, mas também é um trabalho intimista que adentra o suficiente no lamaçal da "justiça" estatal para conseguir identificar o que critica sem desmerecer nossa inteligência.

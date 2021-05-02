@@ -1,7 +1,7 @@
 ---
 date: "2014-03-23"
 link: "https://www.imdb.com/title/tt0113670"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Princesinha"
 ---
 É muito bom de vez em quando levar um tapa na cara dos gêneros menos "louváveis" como essa aventura/fantasia que abraça completamente o clima de conto de fadas. Dirigido pelo ainda jovem talento Alfonso Cuarón em 95, é um filme para chorar, com momentos dramáticos extremamente angustiantes, ainda que a heroína seja uma criança, mas que, depois de viver na Índia, é entregue aos cuidados de uma escola para garotas em Nova York para que seu pai viúvo sofra as agrúrias da guerra. 

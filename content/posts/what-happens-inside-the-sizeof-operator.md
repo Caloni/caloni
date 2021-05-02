@@ -1,7 +1,7 @@
 ---
 date: "2007-07-16"
 title: What happens inside the sizeof operator
-tags: [ "ccpp", "code", "english" ]
+categories: [ "ccpp", "code", "english" ]
 ---
 The question: how to get the size of a struct member without declaring it as a variable in memory? In pseudocode:
 

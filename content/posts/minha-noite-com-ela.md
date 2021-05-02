@@ -1,7 +1,7 @@
 ---
 date: "2020-08-10"
 link: "https://www.imdb.com/title/tt0064612"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Minha Noite Com Ela"
 ---
 A aposta de Pascal e o caos governando nossas vidas. É sobre discussões morais acerca do amor. Eric Rhoemer é o mestre francês. E não são os franceses os mestres na arte do amor?

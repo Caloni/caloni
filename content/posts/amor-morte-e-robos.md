@@ -1,7 +1,7 @@
 ---
 date: "2019-06-09"
 link: "https://www.imdb.com/title/tt9561862"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Amor, Morte & Robôs"
 ---
 Love, Death + Robots é aquela série de animação que faz nós, nerds da primeira geração de vídeo games, com seus quadrados e retângulos de 16 cores que viram exploradores na selva (Pitfail, estou olhando para você) vibrarem como aquele personagem de Detona Ralph vibrou quando viu quanta resolução havia no rosto de sua amada.

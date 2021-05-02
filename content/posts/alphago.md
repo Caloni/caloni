@@ -1,7 +1,7 @@
 ---
 date: "2019-08-26"
 link: "https://www.imdb.com/title/tt6700846"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "AlphaGo"
 ---
 Este é um documentário feito daquele jeito que a câmera vai acompanhando a ação acontecendo. É uma disputa memorável entre homem e máquina, mas em vez de xadrez, dessa vez é o Go, um jogo milenar na Ásia. Mas em vez de abordar com a mesma profundidade com que Alpha Go faz seus lances, a super-engine de Inteligência Artificial desenvolvida pela Google, o diretor Greg Kohs prefere que o filme conte sua história por si mesmo.

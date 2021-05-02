@@ -1,7 +1,7 @@
 ---
 date: "2020-10-04"
 link: "https://www.crunchyroll.com"
-tags: [ "blog" ]
+categories: [ "blog" ]
 title: "Crunchyroll"
 ---
 Comecei a compartilhar a assinatura do Crunchyroll com uma amiga e comecei a explorar a ideia fixa na minha cabeça (não-original [^1]) de que é possível analisar animes (ou qualquer obra audiovisual) pelos seus primeiros minutos ou episódios. Então estou fazendo isso pulando animes aleatoriamente enquanto vejo qual deles pode ser interessante.

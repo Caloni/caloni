@@ -1,7 +1,7 @@
 ---
 date: "2015-12-27"
 link: "https://www.imdb.com/title/tt2361509"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Um Senhor Estagiário"
 ---
 Nancy Meyers (Presente de Grego, O Amor Não Tira Férias) é uma fofa para criar personagens carismáticos e em geral escolher os atores do momento para o papel. Robert de Niro e Anne Hathaway são escolhas óbvias. Hathaway ganhou o Oscar ano passado por chorar e cantar em Os Miseráveis (o que não quer dizer que automaticamente ela vire uma atriz de destaque) e de Niro voltou à ativa em O Lado Bom da Vida três anos atrás. Como a fundadora de uma startup de sucesso e um estagiário da terceira idade em um programa novo da empresa ambos saem perfeitos. Meyers sabe disso, crédito para ela.

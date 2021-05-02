@@ -1,7 +1,7 @@
 ---
 date: "2016-01-04"
 link: "https://www.imdb.com/title/tt0119528"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Mentiroso"
 ---
 Jim Carrey é um comediante tão talentoso que, se inserido no projeto certo, pode render um filme que sem ele seria apenas um passatempo da sessão da tarde, mas com ele ganha contornos cartunescos que remetem o significado da história que acompanhamos para algo além do trivial.

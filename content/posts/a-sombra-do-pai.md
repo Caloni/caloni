@@ -1,7 +1,7 @@
 ---
 date: "2019-04-22"
 link: "https://www.imdb.com/title/tt6388464"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "A Sombra do Pai"
 ---
 A diretora Gabriela Amaral veio da televisão mas no cinema brasileiro está se revelando uma excelente contadora de histórias. E com A Sombra do Pai, segundo longa após Animal Cordial, o gênero terror em terras tupiniquins começa a ganhar uma desenvoltura própria mesmo que referencie os clássicos mundiais inconfundíveis sobre além-túmulo.

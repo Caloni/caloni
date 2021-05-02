@@ -1,7 +1,7 @@
 ---
 date: "2013-04-01"
 link: "https://www.imdb.com/title/tt1924394"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Parte dos Anjos"
 ---
 O diretor Ken Loach consegue extrair tensão nesse suposto drama britânico, como podemos constatar durante um leilão de uísque e logo antes em uma sequência noturna particularmente inspirada. Essa capacidade, no entanto, parece rivalizar com sua vontade de fazer comédia, que também funciona, mas ao preço de perdermos o gênero inicial. A leveza que ele aplica no resto da história flerta perigosamente com o seu reducionismo. Dessa forma, não é possível desenvolver melhor a relação entre o admirador de uísques e seu protegido, e o aprendizado deste é resumido em 10 segundos de uma cena dele cercado por diversos livros sobre a bebida.

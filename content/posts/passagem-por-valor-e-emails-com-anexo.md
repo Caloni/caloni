@@ -1,6 +1,6 @@
 ---
 date: "2010-01-18"
-tags: [ "code", "draft",  ]
+categories: [ "code", "draft",  ]
 title: "Passagem por valor e emails com anexo"
 ---
 Mais uma analogia vencedora para ponteiros, chamadas por valor e chamadas por referência: e-mails.

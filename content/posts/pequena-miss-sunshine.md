@@ -1,7 +1,7 @@
 ---
 date: "2017-01-22"
 link: "https://www.imdb.com/title/tt0449059"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Pequena Miss Sunshine"
 ---
 Na época o que mais havia eram filmes independentes sobre famílias disfuncionais. Isso virou um sub-gênero que até hoje é a base de muitos trabalhos, autorais ou não. Porém, Pequena Miss Sunshine aproveita este tema para desenvolver uma crítica ácida e bem-humorada sobre a cultura norte-americana, que divide a sociedade em vencedores e perdedores. Este filme celebra o fracasso não como um ato subversivo, mas como uma forma de dizer que vencer pode ser alguma coisa na vida que não necessariamente ganhar um troféu.

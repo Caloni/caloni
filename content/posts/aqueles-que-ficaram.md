@@ -1,7 +1,7 @@
 ---
 date: "2019-12-12"
 link: "https://www.imdb.com/title/tt9081558"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Aqueles Que Ficaram"
 ---
 Aqueles Que Ficaram acaba sendo um bom filme mesmo abrindo tantos caminhos dramáticos e nunca se aprofundando em nenhum. Sua ambiguidade no relacionamento-chave entre um quarentão viúvo melancólico e uma adolescente carente e traumatizada vai sendo alimentada com vácuo em sua menos de uma hora e meia de duração, e a consequência é você se esquecer dessa história assim que pisar o primeiro pé para fora do cinema.

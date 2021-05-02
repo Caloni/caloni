@@ -1,7 +1,7 @@
 ---
 date: "2016-04-03"
 link: "https://www.imdb.com/title/tt0120201"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Tropas Estelares"
 ---
 Star Wars, se Star Wars fosse filme de guerra. Mas não é. Starship Troopers é sobre as tropas de um mundo futurístico, é sobre a curva de responsabilidade dos jovens, é sobre a violência gore disponível aos montes, graças ao diretor Paul Verhoeven ("Robocop O Policial do Futuro"), e, por último, mas não menos importante, sobre a insanidade da guerra, e como ela se repete indefinidamente, de ambos os lados. Mesmo que o outro lado sejam insetos gigantes do outro lado da galáxia.

@@ -1,7 +1,7 @@
 ---
 date: "2014-12-01"
 link: "https://www.imdb.com/title/tt0096895"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Batman"
 ---
 Jack Nicholson é o primeiro nome que figura nos créditos iniciais de "Batman", e não é à toa. Primeiro filme dirigido por Tim Burton para tentar reproduzir a visão dos quadrinhos para as telas -- usando a imaginação "dark" de seu idealizador -- o herói morcego se transforma quase em um mero coadjuvante de seu arqui-inimigo Joker/Coringa. Nicholson rouba a cena por causa do seu personagem ou apesar dele? Todas as pessoas nesse universo possuem um certo tom caricato e o Coringa encabeça a lista sendo o mais bizarro deles. A persona de Batman, Bruce Wayne, aos poucos vai se aproximando de seu alter-ego morcego, mas nunca se confundem. Isso me parece uma série crise de identidade, mais séria que a de Coringa, que simplesmente quer se divertir sendo quem sempre foi: um fora-da-lei.

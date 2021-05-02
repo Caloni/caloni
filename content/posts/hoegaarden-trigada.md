@@ -1,6 +1,6 @@
 ---
 date: "2015-09-24"
-tags: [ "food" ]
+categories: [ "food" ]
 title: "Hoegaarden trigada"
 ---
 É trigada, mas não tão doce; bem encorpada.

@@ -1,7 +1,7 @@
 ---
 date: "2019-09-29"
 link: "https://www.imdb.com/title/tt0117500"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Rocha"
 ---
 Quem assiste os Transformers da vida de Michael Bay não entende como ele pode ser bom na direção usando o mesmo estilo vídeo-clipe que o tornou famoso. Mas ele é. E A Rocha está aí para provar que estou dizendo a verdade.

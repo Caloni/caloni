@@ -1,7 +1,7 @@
 ---
 date: "2010-02-25"
 title: Bazaar gráfico
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 ![Boiola quem usa esses comandos pink do Bazaar¿](http://i.imgur.com/ZWHaLwU.jpg)Bom, já que por enquanto os assuntos de macho estão em falta (acabei de voltar de férias), apresento-lhes o maravilhoso mundo do [Bazaar](http://www.caloni.com.br/guia-basico-de-repositorios-no-bazaar) <strike>para boiolas</strike> _user-friendly_!
 

@@ -1,7 +1,7 @@
 ---
 date: "2013-12-29"
 link: "https://www.imdb.com/title/tt0118884"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Contato"
 ---
 Adoro o livro que Carl Sagan escreveu imaginando como seria, em um mundo realista e atual, nossa primeira comunicação com uma civilização extraterrestre. Ele não apenas fez isso como abriu um pouco mais nosso leque filosófico ao ensaiar uma explicação que unisse ciência e religião, matemática e sentimentos.

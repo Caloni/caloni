@@ -1,7 +1,7 @@
 ---
 date: "2016-05-29"
 link: "https://www.imdb.com/title/tt2168180"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Nise: O Coração da Loucura"
 ---
 Glória Pires desperdiçada em Tempo de Despertar brasileiro. Acompanhamos o fascinante tratamento psiquiátrico conduzido por Nise da Silveira, uma personagem da vida real, aos pacientes do instituto psiquiátrico Engenho de Dentro, no Rio de Janeiro de 1940. As mulheres independentes não são bem vistas, e Nise se coloca entre a ala masculina de doutores explorando novos métodos de lobotomia de pacientes (como se os estivessem curando) enquanto Nise tenta uma abordagem mais Jungiana, voltada para entender o inconsciente de seus pacientes, que carinhosa ou respeitosamente, insiste em chamar de clientes (embora não durante todo o tempo, falha de roteiro). Acima das divergências científicas, o que está em jogo é um tratamento mais humano e que tente de fato melhorar a vida dessas pessoas isoladas do mundo por distúrbios mentais.

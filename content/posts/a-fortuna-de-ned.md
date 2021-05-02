@@ -1,7 +1,7 @@
 ---
 date: "2015-11-06"
 link: "https://www.imdb.com/title/tt0166396"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Fortuna de Ned"
 ---
 Se eu fosse um crítico de prestígio lá pelos idos de 1998, seria o primeiro a defender o filme estreante do diretor/roteirista Kirk Jones, que depois dirigiu os mais famosos "Nanny McPhee, a Babá Encantada" e Estão Todos Bem. A Fortuna de Ned é um filme de baixa produção, com uma única trilha sonora e 55 atores que interpretam um pequeno vilarejo isolado na poética Irlanda.

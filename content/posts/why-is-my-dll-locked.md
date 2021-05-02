@@ -1,7 +1,7 @@
 ---
 date: "2007-09-24"
 title: "Why is my DLL locked?"
-tags: [ "code", "english" ]
+categories: [ "code", "english" ]
 ---
 The Windows code responsible to call DllMain for each loaded and unloaded DLLs uses an exclusive access object, the so-called mutex, to synchronize its calls. The result is that inside a process just one DllMain can be called at a given moment. This object-mutex is called "loader lock" into the Microsoft documentation.
 

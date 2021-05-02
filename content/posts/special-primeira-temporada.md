@@ -1,7 +1,7 @@
 ---
 date: "2019-04-26"
 link: "https://www.imdb.com/title/tt9381622"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Special Primeira Temporada"
 ---
 Tenho algo a confessar: o piloto de Special mentiu para mim. Pensei que seria uma série de humor negro onde alguém com paralisia cerebral seria atropelado constantemente por um carro. Mas não é. Está mais para um programa preenchendo cota para deficientes. E deficiente no caso físico, emocional e mental.

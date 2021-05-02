@@ -1,6 +1,6 @@
 ---
 date: "2010-08-04"
-tags: [ "code", "draft" ]
+categories: [ "code", "draft" ]
 title: "Novas diferenças no Bazaar"
 ---
 Novidade incrível nas novas versões do Bazaar. Dando continuidade à sua versão boiola gráfica, agora é possível configurar quantos visualizadores de diferenças você quiser. Na hora de ver a diferença em algum código-fonte, você pode optar pelo enrustido embutido ou, no caso, o meu favorito, WinMerge.

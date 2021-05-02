@@ -1,7 +1,7 @@
 ---
 date: "2018-11-09"
 link: "https://www.imdb.com/title/tt4003440"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Casa Que Jack Construiu"
 ---
 Lars von Trier precisa urgentemente largar seu estilo. Ele o adotou mais fortemente em Ninfomaníaca (Volumes 1 e 2, onde sua narrativa episódica diminuiu levemente a qualidade de sua estrutura e o impacto do filme (além de ser longo, bem mais longo do que deveria). E aqui em A Casa Que Jack Construiu vê-se que a mesma estrutura é utilizada, mas em uma versão reduzida, o que virou inevitavelmente uma bagunça. O filme parece vilipendiado em prol da nossa percepção de que não há sentimentos por trás das ações de um serial killer. Porém, esta é uma faca de dois gumes, pois leva à conclusão de que ele não tem motivos. E o motivo que von Trier arruma para seu "herói" é simplesmente a busca da arte.

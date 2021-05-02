@@ -1,7 +1,7 @@
 ---
 date: "2011-11-06"
 link: "https://www.imdb.com/title/tt1921043"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Palhaço"
 ---
 É muito difícil escrever sobre filmes ruins, atacando conteúdos sem sentido e muitas vezes com uma visão precipitada ou exacerbada. Por outro lado, falar de um filme virtuoso em tantos aspectos como O Palhaço pode ser uma atividade prazerosa e ao mesmo tempo um ato de injustiça, por deixar tantos detalhes do lado de fora do texto.

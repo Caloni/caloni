@@ -1,7 +1,7 @@
 ---
 date: "2013-09-21"
 link: "https://www.imdb.com/title/tt1535108"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Elysium"
 ---
 Com o mesmo diretor do ótimo Distrito 9, poderíamos esperar mais uma ficção científica que honre o gênero, apresentando um futuro distópico que remeta diretamente a questões sociais do mundo atual. De certa forma, isso acontece, abordando mais uma vez o abismo existente entre pobres e ricos em um mundo pós-crise. No cenário do filme, a superpopulação/superpoluição/supercaos fazem com que a elite econômica do mundo se reúna e se isole em uma espécie de estação espacial que reproduz com fidelidade os nobres bairros de subúrbio da hoje (2150 e tra-lá-lá) caótica Los Angeles (que é a tal Elysium do título).

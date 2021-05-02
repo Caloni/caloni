@@ -1,7 +1,7 @@
 ---
 date: "2021-03-13"
 link: "https://www.imdb.com/title/tt0241683"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Casamento de Louise"
 ---
 Uma comédia brasileira pós-retomada e virada do milênio. Estreia da diretora Betse de Paula, é uma produção barata que passou no crivo dos incentivos fiscais da época. Seu elenco enxuto e argumentação com cenários facilmente adaptáveis para locações práticas (como uma casa) dão lugar para a comédia de diálogo e situações que se cruzam.

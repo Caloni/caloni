@@ -1,7 +1,7 @@
 ---
 date: "2015-01-11"
 title: Por que o Visual Studio gera executáveis mutantes
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 > _Esse é um post antigo que encontrei no meio dos meus emails de 2006, mas que contém uma boa dica para quem já entendeu o [passo-a-passo da compilação](../entendendo-a-compilacao), mas ainda tem sérios problemas quando os projetos ficam gigantes._
 

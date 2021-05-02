@@ -1,7 +1,7 @@
 ---
 date: "2012-04-02"
 link: "https://www.imdb.com/title/tt0278504"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Insônia"
 ---
 Em um momento em que Hollywood se esqueceu que os bons policiais/suspenses quase sempre vem dotados de uma carga dramática e multidimensional em seus personagens, o segundo trabalho de Christopher Nolan na direção vem lembrar aos cinéfilos que é possível construir uma narrativa inteligente e ainda assim ser envolvente pela sua ação.

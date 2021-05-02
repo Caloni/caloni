@@ -1,7 +1,7 @@
 ---
 date: "2007-10-18"
 title: "Por que minha DLL travou?"
-tags: [ "code" ]
+categories: [ "code" ]
 ---
 O resumo da ópera é que o código do Windows chamador do DllMain das DLLs carregadas/descarregadas utiliza um objeto de acesso exclusivo (leia "mutex") para sincronizar as chamadas. O resultado é que, em um processo, apenas um DllMain é chamado em um dado momento. Esse objeto é chamado de loader lock na documentação da Microsoft.
 

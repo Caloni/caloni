@@ -1,7 +1,7 @@
 ---
 date: "2011-01-14"
 link: "https://www.imdb.com/title/tt1458175"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "72 horas"
 ---
 Um drama contado em um ritmo adequado, que consegue avançar para um filme de ação em seu terceiro ato de forma surpreendentemente competente, visto que o filme consegue uma identificação com o drama de seus personagens, mesmo que perifericamente, e extrai disso uma emoção maior da perseguição final, pois não estamos assistindo mais um filme de perseguição qualquer.

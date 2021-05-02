@@ -1,7 +1,7 @@
 ---
 date: "2017-08-06"
 link: "https://www.imdb.com/title/tt1658851"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Toast: A História de uma Criança com Fome"
 ---
 Este é um drama leve que conta com alguns segredos sutis em sua história e algumas atuações marcantes ou no mínimo bem corretas. Helena Bonham Carter é o destaque e o centro de um filme que poderia ser chato como biografia, mas consegue ser fascinante ainda que não conheçamos de quem se está falando.

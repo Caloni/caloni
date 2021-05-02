@@ -1,7 +1,7 @@
 ---
 date: "2007-10-30"
 title: "Brincando com o WinDbg (alterando mensagem de erro no Bloco de Notas / Notepad)"
-tags: [ "code" ]
+categories: [ "code" ]
 ---
 No [primeiro artigo sobre o WinDbg] usamos o aplicativo Logger para verificar as funções APIs que são chamadas por um determinado programa. Agora iremos dar um passo adiante e depurar de fato um aplicativo qualquer, com o detalhe que não teremos o código-fonte.
 

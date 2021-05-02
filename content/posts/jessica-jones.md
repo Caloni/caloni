@@ -1,7 +1,7 @@
 ---
 date: "2016-08-18"
 link: "https://www.imdb.com/title/tt2357547"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Jessica Jones"
 ---
 Uma história de super-heróis ligeiramente diferente do que a Marvel costuma contar, Jessica Jones é uma narrativa arrastada, que dá tempo de tela demais para a limitada Krysten Ritter (da série Breaking Bad), e que muda de tom durante sua história. No início há indícios de um noir pós-moderno, com cores na penumbra, uma protagonista bisbilhoteira de caráter (e um passado) duvidoso, e uma certa relativização do que é certo e errado; lá pela metade, com o surgimento do vilão Killgrave (o ótimo David Tennant) encontramos um curioso debate de quais são os papéis de bem e mal, assim como se vale a pena tentar salvar representantes da espécie humana conhecendo sua capacidade infinita para miséria de espírito, estupidez e egocentrismo; e no final, para conseguir executar seu "plano final", manipula tudo que havíamos visto até então para entregar uma conclusão clichê e insossa, nos forçando a tentar gostar de uma heroína problemática e desgostar de um vilão no mínimo fascinante.

@@ -1,7 +1,7 @@
 ---
 date: "2014-03-03"
 link: "https://www.imdb.com/title/tt1490017"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Uma Aventura Lego"
 ---
 Eis um filme que constrói sua história em um universo de bonecos e peças montáveis que juntos somam todos os clichês possíveis e imagináveis do gênero aventura. Partindo dessa premissa tímida para um filme onde "Tudo é Incrível" talvez seja pretensioso demais, mas não para um ser cheio de sonhos, medos e desejos que se misturam para contar uma história jamais vista: a que sai da cabeça de uma criança.

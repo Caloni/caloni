@@ -1,7 +1,7 @@
 ---
 date: "2016-09-11"
 link: "https://www.imdb.com/title/tt2709768"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Pets: A Vida Secreta dos Bichos"
 ---
 O estúdio responsável pelo Meu Malvado Favorito e Os Minions agora vem reciclar sua biblioteca de criaturas e vai explorar justamente mas uma coisa que humanos acham uma fofura: animais domesticados.

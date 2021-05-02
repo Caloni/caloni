@@ -1,7 +1,7 @@
 ---
 date: "2013-07-01"
 link: "https://www.imdb.com/title/tt0116313"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Clube das Desquitadas"
 ---
 Esse é um espécime da safra de comédias românticas realizadas por atrizes já em meia-idade e que serviu de contraponto para a avalanche de divórcios que o mundo estava presenciando: o casamento não era mais sagrado. Não apenas o casamento, mas nem a orientação sexual (como a filha lésbica de Diane Keaton está lá para provar) é mais algo estável e conhecido por todos.

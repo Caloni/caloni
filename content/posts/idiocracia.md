@@ -1,7 +1,7 @@
 ---
 date: "2013-06-07"
 link: "https://www.imdb.com/title/tt0387808"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Idiocracia"
 ---
 Desde o começo Idiocracia estabelece o seu tom de comédia explicando uma teoria muito louca, mas com um sentido simplesmente hilário, de por que o futuro da humanidade é se tornar cada vez mais idiota. Melhor: acompanha um experimento do exército para "estocagem de humanos" em caixões monitorado por um militar que consegue uma prostituta voluntária negociando diretamente com o seu cafetão. Essa parte, ambientada nos tempos atuais, já preocupa pela linha tênue com que o diretor Mike Judge ([Como Enlouquecer seu Chefe]) separa um discurso feito de palavras formais de ações idiotas executadas pela mesma pessoa que profere o discurso.

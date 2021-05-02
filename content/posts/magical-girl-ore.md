@@ -1,7 +1,7 @@
 ---
 date: "2021-04-04"
 link: "https://www.imdb.com/title/tt8322496"
-tags: [ "draft", "animes" ]
+categories: [ "draft", "animes" ]
 title: "Magical Girl Ore (Mahou Shoujo Ore)"
 ---
 Meninas mágicas peitudas é o que elas são, mas nos peitos há apenas músculo. São meninas-macho quando se transformam para defender o mundo desses demônios com forma de bichinhos de pelúcia igualmente musculosos. Alguma mensagem oculta sobre transformistas? Alguma bandeira colorida? Não, nada disso. Apenas o trash diário japonês esbanjando criatividade, por mais que o desenvolvimento seja apressado.

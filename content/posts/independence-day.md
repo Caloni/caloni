@@ -1,7 +1,7 @@
 ---
 date: "2019-11-11"
 link: "https://www.imdb.com/title/tt0116629"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Independence Day"
 ---
 Assisti Independence Day no cinema quando estreou. Levei minha mãe na maior sala da cidade de São Paulo, lá no bairro da República, próximo do Centro. O Cine Marabá, com quase 1000 lugares, que depois foi mutilado em mais um multiplex. A imagem da Casa Branca explodindo sob um raio vindo de uma nave alienígena gigantesca é uma das memórias mais vivas do cinema catástrofe da década de 90, e o resquício de uma época em que blockbusters eram filmes ainda raros, e que valiam o preço da viagem ao cinema, do ingresso e da pipoca.

@@ -1,6 +1,6 @@
 ---
 date: "2007-06-18"
-tags: [ "code" ]
+categories: [ "code" ]
 title: "A Inteligência do if: Parte 1"
 ---
 No nível mais baixo, podemos dizer que as instruções de um computador se baseiam simplesmente em cálculos matemáticos e manipulação de memória. E entre os tipos de manipulação existe aquela que muda o endereço da próxima instrução que será executada. A essa manipulação damos o nome de salto.

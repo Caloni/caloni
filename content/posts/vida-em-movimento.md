@@ -1,6 +1,6 @@
 ---
 date: "2019-02-26"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Vida em Movimento"
 ---
 Vida em Movimento, documentário que propõe mudanças em nossos hábitos para combater o sedentarismo sistêmico das grandes cidades, me fez lembrar de uma notícia bombástica mês passado sobre a Coca-Cola ter influenciado pesadamente as diretivas chinesas no combate à obesidade nos últimos trinta anos. Como um filme sobre sedentarismo me fez lembrar disso? Simples: a estratégia corporativa é basicamente a mesma.

@@ -1,7 +1,7 @@
 ---
 date: "2017-12-27"
 link: "https://www.imdb.com/title/tt7573686"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Erased: Piloto"
 ---
 Esta é uma série fantástica baseada tão fortemente em um mangá e anime que ele pode ser o delírio do fã das obras originais ou atiçar a curiosidade do cinéfilo. Por que a curiosidade? Se observarmos os movimentos de câmera, a forma de disposição dos personagens e dos elementos em cena perceberemos que esta obra continua sendo um anime em forma.

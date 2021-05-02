@@ -1,7 +1,7 @@
 ---
 date: "2019-02-22"
 link: "https://www.imdb.com/title/tt0362227"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Terminal"
 ---
 Vou lhe dar algumas dicas do nível de manipulação que existe em O Terminal: Tom Hanks é um estrangeiro de um paisinho do Leste Europeu que além de saber falar e entender palavras em inglês apenas quando lhe convém em outros momentos se comporta como um autêntico habitante de uma ilha isolada da civilização, apelando portanto para o coração das pessoas; uma aeromoça coincidentemente está sempre se encontrando com ele em no aeroporto internacional de Nova York, aquele com seis terminais de embarque diferentes e o mais movimentado da América, ela mantém um romance com um homem casado e termina seu arco da mesma forma porque não era para ser o interesse romântico de Hanks de qualquer forma, mas apenas um instrumento feminino para impulsionar bilheterias; por outro lado, um indiano passa o resto de sua vida anônimo limpando o chão do terminal foragido de seu país, mas graças à figura carismática de Tom H... Viktor Navorski, ele decide usar a cartada de ser extraviado, chamando assim a atenção dos policiais em um momento em que Viktor estava prestes a fazer algo indesejado, mas que no momento seguinte muda de ideia, tornando assim o sacrifício do indiano completamente inútil.

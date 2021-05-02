@@ -1,7 +1,7 @@
 ---
 date: "2019-01-17"
 link: "https://www.imdb.com/title/tt8963328"
-tags: [ "draft", "series", "animes" ]
+categories: [ "draft", "series", "animes" ]
 title: "Hi Score Girl"
 ---
 Hi Score Girl apela para o saudosismo de velhos que vivenciaram todas as gerações dos games e fliperamas mais badalados da história, mas é ao mesmo tempo uma história de relacionamento entre um menino e uma garota. Isso provavelmente deve dar tilt.

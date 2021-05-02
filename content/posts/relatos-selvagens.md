@@ -1,7 +1,7 @@
 ---
 date: "2014-12-16"
 link: "https://www.imdb.com/title/tt3011894"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Relatos Selvagens"
 ---
 Dirigido e escrito pelo portenho Damián Szifrón, Relatos Selvagens é uma coletânea de meia-dúzia de curtas que lidam com a natureza selvagem da humanidade, implacável seja em uma disputa de automóveis por uma estrada ou pela burocracia interminável para o contribuinte. Ou seja, visível ou não, o vilão que se esconde atrás da nossa espécie usa como combustível nossos instintos mais primitivos e violentos. Dessa forma, sentimentos transbordam depois que somos vítimas de traição, vingança, corrupção, desdém ou qualquer forma de tratamento pessoal que diminua nossa auto-imagem.

@@ -1,7 +1,7 @@
 ---
 date: "2018-08-27"
 link: "https://www.imdb.com/title/tt7467324"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Ferrugem"
 ---
 Ferrugem tem a ambição de tratar de um tema sensível, mas ele o faz de maneira tão sutil que sua mensagem se perde na tradução. Sua produção está equivocada, pois torna seus cenários tão higienizados que o resultado é um melodrama esquecível antes que sua segunda parte termine.

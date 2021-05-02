@@ -1,7 +1,7 @@
 ---
 date: "2017-01-21"
 link: "https://www.imdb.com/title/tt0471042"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Roubo nas Alturas"
 ---
 Este é um filhote dos filmes que criticam os ricaços de Wall Street que fraudaram seus clientes. Juntando em um bolo só, aqui os clientes são também funcionários de um prédio chique em Nova York onde o ricaço é o cliente. Há um quê de retorno aos anos 80, com Eddie Murphy fazendo um ladrão pé-de-chinelo e um plot previsível entediante. O que salva é o elenco competente, com piadas engraçadas o suficiente para tornar a experiência passável.

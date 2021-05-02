@@ -1,7 +1,7 @@
 ---
 date: "2015-01-02"
 link: "https://www.imdb.com/title/tt2113659"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Elsa & Fred: Um Amor de Paixão (2014)"
 ---
 "A noção de felicidade na sociedade atual acaba a tornando inalcançável. Quanto mais busca-se o mundo ideal, mais perde-se a satisfação do real". É com essa introdução que inicio minha crítica ao original Elsa e Fred, de 2005, comparando como o ideal de todos nós se subverte com a dura realidade de uma velhinha no fim de sua vida que insiste em viver a despeito das imperfeições em sua volta. O remake americano, apesar dos ótimos esforços de Shirley MacLaine e Christopher Plummer, é sabotado por uma direção que tenta justamente fazer o contrário do que o espírito do filme ordena.

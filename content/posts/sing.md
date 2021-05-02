@@ -1,7 +1,7 @@
 ---
 date: "2016-12-29"
 link: "https://www.imdb.com/title/tt3470600"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Sing: Quem Canta Seus Males Espanta"
 ---
 Este é o ano em que temos musicais animados que abraçam sua cafonice da maneira mais fofa possível ("Trolls") e filmes como "Sing", que entrega bichinhos fofinhos cantando como pop stars em uma pequena fábula sobre um produtor musical com um sonho que... bem, isso não importa. O que importa neste filme é única e simplesmente seus números musicais. A história que os cerca serve única e simplesmente para conseguir colocar os bichinhos fofinhos cantando mais uma vez. E mais uma. E mais uma. Até você cansar.

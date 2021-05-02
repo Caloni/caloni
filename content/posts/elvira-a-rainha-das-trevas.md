@@ -1,7 +1,7 @@
 ---
 date: "2013-11-08"
 link: "https://www.imdb.com/title/tt0095088"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Elvira, a Rainha das Trevas"
 ---
 Aquela comédia sessão da tarde, leve e despretensiosa, que consegue ser digerida passo-a-passo sem maiores problemas. Esse modo inofensivo de Elvira é provavelmente seu ponto mais fraco.

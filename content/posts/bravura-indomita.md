@@ -1,7 +1,7 @@
 ---
 date: "2011-11-02"
 link: "https://www.imdb.com/title/tt1403865"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Bravura Indômita"
 ---
 Com uma trilha sonora repetitiva mas sutil o suficiente para não notarmos, surge a caracterização de um tema, assim como Morricone fez em [Três Homens em Conflito], só que sem o espetáculo.

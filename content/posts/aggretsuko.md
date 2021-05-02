@@ -1,7 +1,7 @@
 ---
 date: "2018-05-16"
 link: "https://www.imdb.com/title/tt8019444"
-tags: [ "draft", "series", "animes" ]
+categories: [ "draft", "series", "animes" ]
 title: "Aggretsuko"
 ---
 Esta é uma série reciclada pela Netflix. A original tinha 100 episódios de duração bem curtinha, 1 minuto cada, e esse tem 10 de duração do tamanho padrão de sitcoms (20 minutos). Ela conta a história de Retsuko, uma das inúmeras mascotes da Sanrio (responsável por personagens fofinhos como Hello Kitty, Keroppi, entre outros). Ela trabalha em um escritório de contabilidade opressor ao máximo, mas é sua vida, e para vivê-la ela precisa do Karaokê no fim do dia, onde curte extravasar todo seu ódio pela sua rotina em uma canção de heavy metal cuja letra é puro catarse.

@@ -1,7 +1,7 @@
 ---
 date: "2019-01-28"
 link: "https://www.imdb.com/title/tt0065063"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Um Assaltante Bem Trapalhão"
 ---
 Este é o segundo filme de Woody Allen na direção e o primeiro na direção solo. Ele havia feito dupla com Senkichi Taniguchi em "O que Há, Tigresa?". Também roteirizando (com Mickey Rose, como no primeiro filme), aqui está claro que Allen está jogando várias de suas piadas na tela, façam elas sentido ou não no contexto da história. Por exemplo, seu personagem toca violoncelo. E há o momento hilário onde ele toca em uma banda de rua, com ele tentando se sentar em uma cadeira para poder tocar o instrumento, mas a banda nunca para.

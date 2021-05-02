@@ -1,6 +1,6 @@
 ---
 date: "2011-10-24"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Aleksander Sokurov: Uma Questão de Cinema"
 ---
 Quando o diretor de [Arca Russa] tem algo a falar sobre movimento e sonoridade no cinema, ou da própria questão do cinema em si, deve haver algo de importante, ou até mesmo essencial, para se captar. No entanto, Alexandre Sokurov (ou a montagem de Anne Gigleux) não é exatamente didática. É necessário, assim como o trabalho do próprio diretor-tema, sentir a ação antes dela acontecer. O resultado, como um todo, é no mínimo inspirador.

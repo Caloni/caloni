@@ -1,7 +1,7 @@
 ---
 date: "2011-08-15"
 link: "https://www.imdb.com/title/tt1650062"
-tags: ["movies" ]
+categories: ["movies" ]
 title: "Super 8"
 ---
 É tarefa injusta falar de Super 8 de J.J. Abrams (Lost, Missão: Impossível III , Star Trek) sem ter que enumerar todas as semelhanças, referência e homenagens que este faz para a obra de Spielberg (que aqui - coincidência? - é um dos produtores). Desde o ponto de vista das crianças até a escolha de um vilarejo com características semelhantes à cidade de E.T., somos levados por um grupo de jovens que está produzindo um filme de zumbis e acaba presenciando um acontecimento catastrófico que atinge proporções maiores que eles imaginavam a princípio, e que vai aos poucos tomando conta de toda a cidade.

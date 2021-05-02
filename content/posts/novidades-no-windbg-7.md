@@ -1,7 +1,7 @@
 ---
 date: "2010-04-01"
 title: Novidades no Windbg 7
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 Semestre que vem deve sair uma nova versão do nosso depurador favorito. Alguns atrasos e novas definições do projeto fizeram com que tivéssemos mais um ou dois releases da finada versão 6 antes da revolução que será o **Depurador 2010**.
 

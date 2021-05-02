@@ -1,7 +1,7 @@
 ---
 date: "2019-02-02"
 link: "https://www.imdb.com/title/tt0209144"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Amnésia"
 ---
 Você se lembra do último excelente filme que você viu? Leonard com certeza não. Ele não consegue nem lembrar de bons momentos de sua vida após a esposa ter sido assassinada e sua cabeça lesada. Bom, talvez se conseguisse lembrar ele não teria nenhuma boa lembrança. Exceto, talvez, o dia em que ele matou o assassino de sua esposa. Mas será que isso aconteceu realmente?

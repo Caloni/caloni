@@ -1,7 +1,7 @@
 ---
 date: "2016-10-28"
 link: "https://www.imdb.com/title/tt5447294"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Hee"
 ---
 Uma ideia interessante, estruturada de maneira interessante, e executada desleixadamente. Tem a ver com sexo, tem a ver com drama, tem a ver com crime. E isso, aparentemente, é motivo de sobra para a diretora Kaori Momoi se achar a fodona e deixar todos nós entediados.

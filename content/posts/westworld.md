@@ -1,7 +1,7 @@
 ---
 date: "2018-12-30"
 link: "https://www.imdb.com/title/tt0475784"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Westworld"
 ---
 Eu fui programado para escrever esse texto? Posso responder, na melhor das hipóteses, que eu estar escrevendo este texto é consequência da soma das minhas ações. No entanto, volta outra pergunta no lugar: eu fui programado para executar tais ações?

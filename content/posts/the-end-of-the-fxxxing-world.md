@@ -1,7 +1,7 @@
 ---
 date: "2018-02-06"
 link: "https://www.imdb.com/title/tt6257970"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "The End Of The F***ing World"
 ---
 Apesar do piloto desta série apresentar desde o começo dois adolescentes problemáticos, um psicopata e uma ninfomaníaca, não é à toa que fuck... ops, foca, está encoberto no título. Este é mais um sintoma da geração abobalhada que acha que é cool, mas não consegue falar de sexo sem corar nem falar da morte de inocentes por diversão. Propaganda enganosa em cima de outra, este é um casal bonitinho que, como Arlequina em Esquadrão Suicida, adora falar que é louca. Não porque ela seja, mas porque é cool ser louca.

@@ -1,7 +1,7 @@
 ---
 date: "2020-04-28"
 link: "https://www.imdb.com/title/tt0475784"
-tags: [ "series" ]
+categories: [ "series" ]
 title: "Westworld S03 E01"
 ---
 Não há muitos motivos por trás de quem deseja assistir à continuação de uma série como Westworld. Exceto a falta do que fazer, talvez. As ambições da série terminaram na [primeira temporada] e agora ela se estende pelas suas ideias que deixaram de ser filosoficamente ambiciosas e passaram a retroalimentar o sistema moralista vigente. A introdução do novo personagem da classe trabalhadora interpretado por Aaron Paul (ótimo casting) e a vida lá fora, com seus arranha-céus ecologicamente corretos, seriam motivo suficiente para assistirmos a mais uma temporada? Apenas pela computação? Esses jardim suspensos da Babilônia futuristas lembram e referenciam o império bizantino, tanto em seu esplendor quanto em sua grande derrocada, mas não há história no contorno desse fundo verde.

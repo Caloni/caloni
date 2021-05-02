@@ -1,7 +1,7 @@
 ---
 date: "2020-11-14"
 link: "https://www.imdb.com/title/tt7846844"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Enola Holmes e o único teste que ela passa: Bechdel"
 ---
 Quando você pensa em escrever sobre um filme esquecível e irrelevante como  Enola Holmes a primeira coisa que vem à mente é rotular e julgar como um produto Netflix com todo seu checklist obrigatório, como o feminismo. Porém, isso é tão óbvio que não merece mais ser citado.

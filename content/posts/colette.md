@@ -1,7 +1,7 @@
 ---
 date: "2018-12-26"
 link: "https://www.imdb.com/title/tt5437928"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Colette"
 ---
 Colette é uma tentativa de fazer justiça a respeito das obras entituladas Claudine, escritas pela escritora ganhadora do prêmio Nobel (e famosa pelo romance "Gigi"), mas com os créditos dados ao seu marido Willy, na época um famoso crítico e escritor. Se trata de uma biografia burocrática, que descreve acontecimentos sem paixão, apenas se detendo no que mais chama a atenção do público: as relações extra-conjugais do casal.

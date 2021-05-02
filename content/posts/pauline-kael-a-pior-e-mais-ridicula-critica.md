@@ -1,6 +1,6 @@
 ---
 date: "2018-05-07"
-tags: [ "draft" ]
+categories: [ "draft" ]
 title: "A Pior e Mais Ridícula Crítica de Todos os Tempos"
 ---
 Estava lendo um dos livros de Pauline Kael, uma das poucas coletâneas disponíveis dessa escritora que é considerada a melhor da história do Cinema, 5001 Nights at the Movies. Nesse livro em questão há resenhas rápidas que eram publicadas nos rodapés do jornal onde Kael escrevia. São texto curtos, de um parágrafo no máximo, mas que fluem, embora condensados em uma ou duas impressões no máximo sobre o filme analisado. Apesar de ser divertido de ler, falta textura, conteúdo, nesses recortes. Portanto procurei por esta textura que tanto falam a respeito dos textos de Kael pela internet. Por um bom tempo me perguntei onde estariam esses textos completos e mais densos dessa escritora, e por que eles não viraram relevantes coletâneas para a análise da crítica cinematográfica. E no meio dessas minhas pesquisas eis que surge o texto de Alex Sheremet.

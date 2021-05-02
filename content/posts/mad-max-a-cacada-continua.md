@@ -1,7 +1,7 @@
 ---
 date: "2019-03-24"
 link: "https://www.imdb.com/title/tt0082694"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Mad Max: A Caçada Continua"
 ---
 Mad Max 2 tem o subtítulo ridículo A Caçada Continua no Brasil, mas pra quem assiste filmes por aqui está acostumado com pagação de mico das distribuidoras. Lá fora é conhecido como Mad Max 2 e The Road Warrior, para ter uma ideia de como estavam em dúvida sobre relacionar com o primeiro. Ele conta a história de Max, sem esposa, sem filho e com um cachorro de lenço vermelho, um side kick que consegue manter uma arma apontada e engatilhada segurando um osso de brinquedo, prestes a estourar os miolos do sujeito. Esse é um mundo pós-apocalíptico, e sendo assim vale tudo, menos dar o toba.

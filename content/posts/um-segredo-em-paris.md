@@ -1,7 +1,7 @@
 ---
 date: "2018-11-17"
 link: "https://www.imdb.com/title/tt5895782"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Um Segredo em Paris"
 ---
 A diretora Élise Girard parece se pronunciar apenas quando é necessário. Nesse seu segundo longa de ficção ela nos apresenta Mavie e Georges como um casal impossível pela diferença de idades, que conta duas gerações, e ao mesmo tempo tece a criação de um romance nas entrelinhas escritas pela jovem Mavie e nos momentos capturados pela sua memória. Para Mavie o que importa são as sensações.

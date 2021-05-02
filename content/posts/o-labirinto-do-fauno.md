@@ -1,7 +1,7 @@
 ---
 date: "2020-01-05"
 link: "https://www.imdb.com/title/tt0457430"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Labirinto do Fauno"
 ---
 Este é um drama político no final de uma guerra. Os perdedores são perseguidos pelos vilões e uma garota que muito lê enxerga uma versão diferente dessa realidade. Ela escapa através de sua imaginação para um mundo onde será uma princesa porque sua vida se transforma em uma fábula onde os caras maus vencem no final.

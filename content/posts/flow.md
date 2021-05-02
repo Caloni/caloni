@@ -1,7 +1,7 @@
 ---
 date: "2020-09-27"
 link: "https://www.goodreads.com/review/show/71694977"
-tags: [ "books" ]
+categories: [ "books" ]
 title: "Flow: The Psychology of Optimal Experience"
 ---
 Este é um dos livros mais importantes que já li e acredito que pode ser muito importante para você também. Por isso quero dedicar algumas linhas para argumentar por que você deve lê-lo, ainda que ele seja denso demais para a maioria das pessoas. Há um outro review que gostei bastante no link principal deste post, além das minhas anotações de leitura. [^1]

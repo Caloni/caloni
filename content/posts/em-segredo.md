@@ -1,7 +1,7 @@
 ---
 date: "2020-04-12"
 link: "https://www.imdb.com/title/tt0409379"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Em Segredo"
 ---
 Bósnia pós-guerra. Uma mãe solteira e sua filha pré adolescente ligeiramente problemática. Uma mescla entre a realidade e o romance centenário de Émile Zola. Turno duplo, esta mulher de meia-idade busca apenas conseguir dinheiro para que sua filha possa viajar em uma excursão da escola. A felicidade desta mãe é apenas a de sua filha. Seu marido morreu na guerra, é conhecido como mártir em uma sociedade ainda em reconstrução. Uma sociedade quebrada, fragmentada, com cicatrizes aparentemente irrecuperáveis.

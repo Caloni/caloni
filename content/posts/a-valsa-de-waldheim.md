@@ -1,7 +1,7 @@
 ---
 date: "2018-10-21"
 link: "https://www.imdb.com/title/tt8055880"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "A Valsa de Waldheim"
 ---
 A Alemanha reconhece a culpa pelo movimento anti-semita da Segunda Guerra e faz de tudo para reparar este dano histórico. Eles chegam ao cúmulo de censurar em plena democracia conteúdo considerado nazista, como a biografia Minha Luta, de Adolf Hitler. Já a Áustria, como visto aqui, em "A Valsa de Waldheim", apesar de participar ativamente de práticas nazistas após anexada pelos seu vizinhos, sempre negou qualquer tipo de compensação pelos crimes de guerra relacionados aos movimentos anti-semita.

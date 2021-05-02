@@ -1,7 +1,7 @@
 ---
 date: "2019-05-04"
 link: "https://www.imdb.com/title/tt7043012"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Toda Arte é Perigosa (Velvet Buzzsaw)"
 ---
 Este é o filme-bomba de Jake Gyllenhaal. Ele faz um crítico de arte que está sempre suportando sua cabeça com os braços cruzados, tem uns trejeitos de viadinho mas precisa catar a deliciosa minazinha do Wanderlust (Zawe Ashton) porque pega bem. Esta é claramente uma ficção de quem não entende nada de arte. Eu sou crítico e nunca comi uma gostosa dessas.

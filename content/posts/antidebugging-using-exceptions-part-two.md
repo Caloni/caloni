@@ -1,7 +1,7 @@
 ---
 date: "2008-07-30"
 title: Antidebugging using exceptions (part two)
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 In the first article we saw how it's possible to spoof the debugger through exceptions and let the attacker lose some considerable time trying to unbind the program from the fake breakpoints. However, we saw also that this is a difficult solution to keep in the source code, besides its main weakness to be easily bypassed if discovered. Now it's time to put things easier to support and at the same time to guarantee tough times even if the attacker discover what is going on.
 

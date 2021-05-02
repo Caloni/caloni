@@ -1,6 +1,6 @@
 ---
 date: "2018-09-28"
-tags: [ "draft", "food" ]
+categories: [ "draft", "food" ]
 title: "Carne Louca"
 ---
 

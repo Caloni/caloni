@@ -1,7 +1,7 @@
 ---
 date: "2019-11-16"
 link: "https://www.imdb.com/title/tt0181852"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "O Exterminador do Futuro 3: A Rebelião Das Máquinas"
 ---
 James Cameron deve ter ficado bem chateado com o que fizeram com o universo tão bem idealizado do apocalipse das máquinas sendo evitado pela força de uma heroína feminina que no fundo é a protagonista dos dois filmes anteriores. Aqui Sarah Connor foi descartada como a protagonista que vinha sendo e uma nova história foi contada considerando finalmente seu filho, John Connor, como peça-chave para o destino da humanidade. O resultado é que não sentimos que nem John nem o filme fossem necessários à essa altura.

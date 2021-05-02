@@ -1,7 +1,7 @@
 ---
 date: "2015-09-19"
 link: "https://www.imdb.com/title/tt3613454"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Terror in Resonance"
 ---
 Esse aparentemente é um seriado de uma temporada apenas, com cada um de seus onze episódios com cerca de 20 minutos ou menos, dando no final das contas um filme de pouco mais de três horas com os famigerados cortes e padrões de mídia japonesa.

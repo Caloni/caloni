@@ -1,7 +1,7 @@
 ---
 date: "2013-11-15"
 link: "https://www.imdb.com/title/tt0264472"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Fora de Controle"
 ---
 Um drama moral tão bem construído não deveria ser conduzido de forma tão insegura como é feito aqui. A direção de Roger Michell ([Um Lugar Chamado Notting Hill], [Uma Manhã Gloriosa]) combina uma atmosfera de thriller policial com filme de ação e peca justamente ao não nos aproximar dos seus dois personagens quando essa abordagem seria merecida ou necessária.

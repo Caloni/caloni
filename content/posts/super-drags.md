@@ -1,7 +1,7 @@
 ---
 date: "2018-11-17"
 link: "https://www.imdb.com/title/tt8912244"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Super Drags"
 ---
 Super Drags é um projeto de animação de três idealizadores patrocinados pela Netflix. Um deles é de Fernando Mendonça, que depois de produzir CDs interativos na internet 1.0 já participou de um projeto megalomaníaco chamado BugiGangue no Espaço, mas agora parte para o público adulto em uma ideia simples: uma animação para adultos envolvendo drag queens.

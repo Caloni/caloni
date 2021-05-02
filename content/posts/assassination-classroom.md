@@ -1,7 +1,7 @@
 ---
 date: "2015-12-28"
 link: "https://www.imdb.com/title/tt3853452"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Assassination Classroom"
 ---
 A Lua explode mais que a metade, tornando-a eternamente minguante. Alguém diz que os pobres precisam existir para que os ricos consigam explorá-los. Por isso que ainda existe uma das piores salas de aula do Japão, e é por isso que a criatura por trás da explosão da Lua é enviado para lá.

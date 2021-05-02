@@ -1,7 +1,7 @@
 ---
 date: "2014-04-14"
 link: "https://www.imdb.com/title/tt1773185"
-tags: [ "animes", "home" ]
+categories: [ "animes", "home" ]
 title: "Madoka Magica"
 ---
 A revisita a este animê que para mim ainda é meu favorito -- pela originalidade e pela fuga do lugar-comum e dos roteiros fáceis que a maioria das adaptações dos quadrinhos japoneses são submetidos -- foi feita em apenas uma noite. Mais de quatro horas depois posso reafirmar com convicção: é uma obra ousada para seu formato tanto em história quanto na direção/edição/arte. Desafia o espectador a esquecer os detalhes centrais de uma história que vai se abrindo muito lentamente, e sua força é sentida exatamente por esse cuidado em cada detalhe.

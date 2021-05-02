@@ -1,7 +1,7 @@
 ---
 date: "2010-12-04"
 link: "https://www.imdb.com/title/tt0084827"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Tron: Uma Odisséia Eletrônica"
 ---
 Mesmo assistindo hoje, 28 anos depois, Tron ainda parece um filme dedicado principalmente a vender vídeo-games.

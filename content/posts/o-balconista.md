@@ -1,7 +1,7 @@
 ---
 date: "2013-10-20"
 link: "https://www.imdb.com/title/tt0109445"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Balconista"
 ---
 Primeiro longa do diretor Kevin Smith, O Balconista não poderia deixar de ter algo a mais dos outros filmes que o trouxesse para os holofotes. No entanto, quase 20 anos depois, ele permanece como um dos filmes esquecidos que não merece ser revisitado.

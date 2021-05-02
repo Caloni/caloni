@@ -1,7 +1,7 @@
 ---
 date: "2018-12-26"
 link: "https://www.imdb.com/title/tt7608238"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Wanderlust"
 ---
 Wanderlust é o primeiro trabalho recente que conheço que tenta abordar relacionamentos abertos de uma maneira mais madura, mais dramática. Ou pelo menos a primeira metade dessa série começa a delinear o assunto dessa maneira. Focado na terapeuta de casais Joy (Toni Collette), a série com apenas seis episódios tenta também explorar os relacionamentos de outros personagens (para não dizer todos). É uma tentativa de ampliar um dos subtemas vistos em Beleza Americana que se sabota da metade para o final.

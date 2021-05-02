@@ -1,7 +1,7 @@
 ---
 date: "2009-06-18"
 title: "Bugs Difíceis de Achar"
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 Saiu um artigo na Wired News sobre [os piores bugs da história](http://wired.com/news/technology/bugs/0,2924,69355,00.html?tw=wn_tophead_1). Entre eles estão a explosão de um oleoduto soviético em plena guerra-fria (como se não bastasse chernobyl), o primeiro worm da Internet (que se aproveita de um buffer overflow da função gets) e o famoso erro de divisão em ponto flutuante do Pentium; um erro de cálculo de cerca de 0,006% que causou um prejuízo de 457 milhões de dólares para a Intel.
 

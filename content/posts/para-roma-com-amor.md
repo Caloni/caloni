@@ -1,7 +1,7 @@
 ---
 date: "2012-07-03"
 link: "https://www.imdb.com/title/tt1859650"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Para Roma com Amor"
 ---
 Quais diretores você conhece que conseguem fazer o velho clichê da "pessoa engasgando com o copo na mão ao ver cena inusitada" funcionar novamente? Eu conheço um: Woody Allen.

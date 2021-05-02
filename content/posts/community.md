@@ -1,7 +1,7 @@
 ---
 date: "2020-08-19"
 link: "https://www.imdb.com/title/tt1439629"
-tags: [ "series", "home" ]
+categories: [ "series", "home" ]
 title: "Community"
 ---
 Não sei se gosto de Community tanto quanto a primeira vez, uns dez anos atrás. Um de nós três deve ter envelhecido, e não de uma maneira boa: eu, a série ou a sociedade.

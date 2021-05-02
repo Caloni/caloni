@@ -1,7 +1,7 @@
 ---
 date: "2019-12-29"
 link: "https://www.imdb.com/title/tt0373889"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Harry Potter e a Ordem da Fênix"
 ---
 A série de filmes começa a parecer uma série televisiva, inchada para pouca recompensa no final do episódio. A suposta genialidade de J. K. Rowling em recriar a mitologia Star Wars acaba se tornando óbvia demais nesse episódio onde apenas pessoas específicas morrem para que haja algum peso dramático, e a dicotomia entre progressistas e conservadores seja novamente usada como uma óbvia alegoria em nosso século onde seguir as tradições é usado como a marca da besta.

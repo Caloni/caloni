@@ -1,7 +1,7 @@
 ---
 date: "2011-02-13"
 link: "https://www.imdb.com/title/tt0961108"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Um Segredo entre Nós"
 ---
 "Fireflies in the Garden" começa de uma forma incisiva, demonstrando já em sua primeira cena a ignorância e infantilidade do pai do protagonista, Michael (Ryan Reynolds), quando este o manda ir embora para casa a pé, o expulsando do carro por ter perdido os óculos e atrasado a família para buscar a tia no aeroporto.

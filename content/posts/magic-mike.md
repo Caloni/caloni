@@ -1,7 +1,7 @@
 ---
 date: "2015-02-15"
 link: "https://www.imdb.com/title/tt1915581"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Magic Mike"
 ---
 Os dias parecem meio pálidos, a noite um pouco mais brilhante. Não me cansei em nenhum momento de admirar o fascinante trabalho fotográfico de Steven Soderbergh, que altera a realidade à nossa volta com o propósito de mostrar o ponto de vista desses garotos que trabalham à noite em uma boate de strippers. Soderbergh obviamente também assina a direção (Traffic, Onze Homens e Um Segredo, Conduta de Risco) e a edição. Ele pega o roteiro do produtor Reid Carolin e adentra nesse mundo noturno em uma imersão profunda e inspiradora a respeito, curiosamente, de negócios. Meio uma mistura de Showgirls (Paul Verhoeven, 1995) com A Firma (Sydney Pollack, 1993), o showbusiness é visto de uma forma cínica. É quase uma crítica velada ao capitalismo selvagem que tudo compra ("escolas não servem para nada, vou colocar meu filho para assistir Mad Money todos os dias e ele vai ganhar rios de dinheiro").

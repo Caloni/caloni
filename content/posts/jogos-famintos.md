@@ -1,7 +1,7 @@
 ---
 date: "2015-11-18"
 link: "https://www.imdb.com/title/tt2403029"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Jogos Famintos"
 ---
 Das paródias, talvez seja um dos poucos que segue boa parte do roteiro, ou pelo menos da história original. Sendo assim, se torna um filme até que simpático, pois pega carona em uma boa narrativa (a do original), além de nostalgicamente remeter aos bons momentos do primeiro filme da franquia baseada em livros.

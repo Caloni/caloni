@@ -1,7 +1,7 @@
 ---
 date: "2019-02-19"
 link: "https://www.imdb.com/title/tt0305669"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Casa Caiu"
 ---
 A Casa Caiu é mais uma daquelas comédias em que um personagem fora do universo do protagonista chega e muda tudo, em versão black, mas além disso tem uma crítica social interessante. Além de ser black o suficiente para você sentir um pouco da ginga.

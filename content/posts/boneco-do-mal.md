@@ -1,7 +1,7 @@
 ---
 date: "2016-09-11"
 link: "https://www.imdb.com/title/tt3882082"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Boneco do Mal"
 ---
 Um terror que entende a problemática do medo do limite entre o real e a fantasia, Boneco do Mal busca em seu formato aproximar o espectador da loucura que o cerca, para apenas depois subverter essa ordem de volta para o real. Um trabalho digno de nota em comparação com tantos filmes do gênero que se passa em uma casa isolada com um passado macabro.

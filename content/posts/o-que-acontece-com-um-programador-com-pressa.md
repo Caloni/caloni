@@ -1,6 +1,6 @@
 ---
 date: "2008-10-05"
-tags: [ "draft" ]
+categories: [ "draft" ]
 title: "O que acontece com um programador com pressa"
 ---
 Eu já sabia, mas é lógico que não ia falar.

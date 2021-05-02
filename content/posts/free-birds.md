@@ -1,7 +1,7 @@
 ---
 date: "2014-08-15"
 link: "https://www.imdb.com/title/tt1621039"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Bons de Bico"
 ---
 Free Birds é um desenho com qualidade técnica discutível e narrativa idem. Suas ideias oscilam entre o divertido e o repetitivo. Seus personagens são quase cópias de outros desenhos. Dito isto, o conjunto da obra mais impressiona por conseguir levar a história do começo ao fim a despeito de todas suas limitações.

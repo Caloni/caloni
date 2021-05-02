@@ -1,7 +1,7 @@
 ---
 date: "2016-09-11"
 link: "https://www.imdb.com/title/tt4158110"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Mr. Robot"
 ---
 Finalmente uma série que retrata o hacker de uma maneira realista. Mais do que isso: retrata o hacker inserido na realidade que vivemos hoje, nesse exato momento. E, por que não, alguns meses à frente?

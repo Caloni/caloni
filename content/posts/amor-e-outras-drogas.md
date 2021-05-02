@@ -1,7 +1,7 @@
 ---
 date: "2011-02-05"
 link: "https://www.imdb.com/title/tt0758752"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Amor e Outras Drogas"
 ---
 Jake Gyllenhaal mostra que não sabe apenas fazer um romance caubói gay. Em um filme recheado de diálogos interessantes (síndrome do pênis menor que do irmão), orgânicos (você diz uma coisa e seu corpo diz outro) e piegas (eu gosto de ouvir sua voz), a atuação do trio principal encanta em um filme que não nos leva muito longe do lugar-comum, que no caso é um romance melodramático.

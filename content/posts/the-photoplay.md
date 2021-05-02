@@ -1,6 +1,6 @@
 ---
 date: "2018-08-27"
-tags: [ "draft", "books" ]
+categories: [ "draft", "books" ]
 title: "The Photoplay"
 ---
 The Photoplay, A Psychological Study, é considerado o primeiro livro que levou a sério a linguagem cinematográfica como uma nova forma de arte. Ele realiza duas manobras interessantíssimas para a época: retira a impressão que Cinema é apenas um teatro para as massas e eleva as fotos em movimento como uma nova forma de estética que atinge seu status de arte justamente por se destacar do mundo.

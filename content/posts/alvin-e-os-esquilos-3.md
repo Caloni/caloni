@@ -1,7 +1,7 @@
 ---
 date: "2012-02-15"
 link: "https://www.imdb.com/title/tt1615918"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Alvin e os Esquilos 3"
 ---
 Tenho a nítida impressão que a série Alvin pode ser repetida à exaustão graças à empatia do público com números musicais de sucessos atuais realizados pelo sexteto de esquilinhos. E é necessário apontar: eles são engraçados e fofinhos quase todo o tempo.

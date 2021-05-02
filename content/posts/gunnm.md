@@ -1,7 +1,7 @@
 ---
 date: "2019-02-06"
 link: "https://www.imdb.com/title/tt0107061"
-tags: [ "draft", "series", "animes" ]
+categories: [ "draft", "series", "animes" ]
 title: "Gunnm (aka Alita)"
 ---
 Curioso que sou, resolvi dar uma olhada no OVA dos anos 90 responsável por Alita: Anjo de Combate, blockbuster tecnológico com efeitos de captura de movimentos e expressão de fritar o cérebro humano. Com menos de uma hora, todos os momentos icônicos do longa metragem dirigido por Robert Rodriguez estão lá, jogadas da mesma maneira, sem esperança de uma narrativa coesa que trame a favor de alguma conclusão. Se trata de um vislumbre rápido e aleatório de um futuro distante onde certas coisas existem, e que no fundo nunca mudaram: ricos contra pobres, enganação, ilusão e o medo de fracassar na vida.

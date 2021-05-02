@@ -1,7 +1,7 @@
 ---
 date: "2019-02-06"
 link: "https://www.imdb.com/title/tt7520794"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Boneca Russa"
 ---
 Sempre que alguém vem com a ideia de refazer o princípio do icônico filme de Bill Murray, Feitiço do Tempo, já surge aquele sentimento de muleta narrativa para tornar uma história artificialmente interessante. E quando essa ideia vem da Netflix, então, é certeza que lá vem bomba.

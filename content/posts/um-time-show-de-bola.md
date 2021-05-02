@@ -1,7 +1,7 @@
 ---
 date: "2013-04-12"
 link: "https://www.imdb.com/title/tt1634003"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Um Time Show de Bola"
 ---
 Um Time Show de Bola possui a grande vantagem de ser dirigido por Campanella, que consegue impregnar uma emoção desproporcionalmente divertida nas cenas "em campo", conseguindo, por ser uma animação, a fluidez completa de suas longas sequências de ação. Por outro lado, acaba sendo uma desvantagem que o controle da produção esteja nas mãos do auto-inflado e "oscarizado" diretor de [O Segredo dos Seus Olhos], que adota um roteiro misto que não consegue contar bem uma única história e vira uma miscelânea de sentimentos a respeito de como o futebol atual é mais um jogo de negócios do que da paixão antiga e nostálgica.

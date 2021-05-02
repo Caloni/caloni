@@ -1,7 +1,7 @@
 ---
 date: "2010-08-27"
 link: "https://www.imdb.com/title/tt1155076"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Karate Kid"
 ---
 Esse é praticamente um remake do original, só que em vez de caratê, como o nome supõe, a luta do filme é o kung-fu, onde o mestre é nada mais nada menos que Jackie Chan, o Sr. Han, que irá treinar Jaden Smith, o filho de Will, para se preparar para o torneio de Kung Fue se livrar das perseguições da escola.

@@ -1,7 +1,7 @@
 ---
 date: "2014-02-24"
 link: "https://www.imdb.com/title/tt1234721"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "RoboCop"
 ---
 O novo Robocop reverencia em muito o antigo (talvez até demais), tanto em seu ótimo tema musical quanto com sua alma: criticar como a justiça muitas vezes é aplicada. Nesse sentido, ninguém melhor que José Padilha (Tropa de Elite, Tropa de Elite 2) para discorrer sobre esse tema. Criando no novo policial Alex Murphy (Joel Kinnaman) alguns bons momentos em que evoca o pragmatismo sádico de personagens como o polêmico Capitão Nascimento, um momento onde RoboCop invade a delegacia, o longa evita não seguir o mesmo raciocínio de seu predecessor, mas não a sua história em linhas gerais, que permanece quase que completamente fiel.

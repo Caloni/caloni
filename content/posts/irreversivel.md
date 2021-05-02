@@ -1,7 +1,7 @@
 ---
 date: "2019-11-07"
 link: "https://www.imdb.com/title/tt0290673"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Irreversível"
 ---
 Irreversível é essa experiência angustiante que vai desconstruindo uma história simples através dos seus momentos mais tensos. "O tempo destrói tudo" é o seu lema, e este é um filme que destrói o tempo antes que ele nos destrua.

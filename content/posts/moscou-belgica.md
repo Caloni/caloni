@@ -1,7 +1,7 @@
 ---
 date: "2010-09-24"
 link: "https://www.imdb.com/title/tt0948530"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Moscou Bélgica"
 ---
 Essa é uma "comédia romântica" dramática que conta a história de uma mulher recém-separada que quer viver uma vida normal, mas bate o carro em um caminhão e conhece um italiano charmoso que a convida para sair. O resto é passado em uma longa história onde veremos, com nossos olhos incrédulos, a maneira deliciosa que a narrativa nos conta a evolução daquela mulher recém-separada que está literalmente acabada na primeira cena, no corredor escuro e fechado, com a câmera mais alta, fazendo compras no supermercado, e a outra, radiante, caminhando em direção ao nascer do sol do lado dos trilhos, abertos e livres.

@@ -1,7 +1,7 @@
 ---
 date: "2011-12-20"
 link: "https://www.imdb.com/title/tt0107048"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Feitiço do Tempo"
 ---
 Bill Murray em um papel que é a cara dele: Phil Connor é o homem do tempo de uma emissora de televisão e precisa cobrir o tradicional "Dia da Marmota", uma cerimônia de uma cidadezinha secular cuja lenda uma marmota (ironicamente também chamada Phil) faz a previsão se haverá mais inverno.

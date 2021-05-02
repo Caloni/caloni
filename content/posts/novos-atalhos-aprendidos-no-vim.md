@@ -1,7 +1,7 @@
 ---
 date: "2012-06-09"
 link: "https://www.infoq.com/presentations/Vim-From-Essentials-to-Mastery/"
-tags: [ "code" ]
+categories: [ "code" ]
 title: "Novos Atalhos Aprendidos no Vim"
 ---
 Sempre é bom reler as referências e tentar melhorar o que já está bom. No momento minha inspiração é o excelente Vim: From Essentials to Mastery, uma coleção de slides bem-humorada que a cada releitura fornece dicas importantes para aprimorar o dia-a-dia com um dos editores mais poderosos do planeta.

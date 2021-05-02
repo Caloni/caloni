@@ -1,7 +1,7 @@
 ---
 date: "2021-03-14"
 link: "https://www.imdb.com/title/tt0086022"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Nostalgia"
 ---
 Pedir para um ser humano médio ler algum autor russo já é maldade. Para um ocidental é como se houvesse algo místico inalcançável. Para um oriental há uma narrativa obrigatoriamente enfadonha.

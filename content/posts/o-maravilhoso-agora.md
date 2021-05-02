@@ -1,7 +1,7 @@
 ---
 date: "2016-04-13"
 link: "https://www.imdb.com/title/tt1714206"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Maravilhoso Agora"
 ---
 Uma romance para ser realista ele tem que ser um drama. E para ser um drama ele tem que levar em conta a personalidade de seus personagens e levar isso até as últimas consequências. As últimas consequências para o herói de "The Spectactular Now" são trágicas, mas são reais. O que vimos de fato no final do filme é uma traição aos princípios desse personagem (que nunca mudaram) e, consequentemente, uma traição ao espectador que esteve lá por duas horas.

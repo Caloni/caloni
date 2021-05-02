@@ -1,7 +1,7 @@
 ---
 date: "2015-03-13"
 link: "https://www.imdb.com/title/tt2562232"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Birdman ou (A Inesperada Virtude da Ignorância)"
 ---
 Antes de falar sobre Bidman, vamos aproveitar para tirar um elefante branco da sala: o plano-sequência. O que são? O que comem? Como se reproduzem?

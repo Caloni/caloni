@@ -1,7 +1,7 @@
 ---
 date: "2010-12-20"
 link: "https://www.imdb.com/title/tt1134854"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Ilha dos Mortos"
 ---
 Em uma introdução ultra-rápida em off temos o cenário e o resumo do que irá acontecer durante o filme inteiro, em uma síntese cuja forma também será usada por toda a história, mostrando a segurança de Romero em estabelecer as ligações primordiais e avançar ideologicamente em pontos mais aprofundados do tema "mortos-vivos".

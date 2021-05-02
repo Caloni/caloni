@@ -1,7 +1,7 @@
 ---
 date: "2018-03-18"
 link: "https://www.imdb.com/title/tt3899796"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Sharknado 3"
 ---
 O herói nacional salva o presidente de um tornado de tubarões. Ele ganha a serra elétrica dourada como prêmio. E ele faz o parto do seu filho de dentro de um tubarão, enquanto seu pai se sacrifica lutando com esses predadores naturais do mar, só que na lua. São tantos detalhes divertidos da terceira parte dessa saga de defeitos digitais com tubarões criados em um aquário do Photophop que você se pergunta: o que deu errado no caminho para ele não ter a mínima graça? Ele levou tão a sério a farofa de brincadeira que deu a volta e parece sério?

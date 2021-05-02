@@ -1,7 +1,7 @@
 ---
 date: "2020-08-10"
 link: "https://gist.githubusercontent.com/Caloni/e2772b5107b99f151d00152f710cc8f9/raw/09e2101bac330ba7b1109e06f35478ea47f203a7/conversations-with-pauline-kael.txt"
-tags: [ "books" ]
+categories: [ "books" ]
 title: "Conversations With Pauline Kael"
 ---
 Este livro é uma pequena pérola para quem ainda não conhece Kael, a crítica mais versátil, corajosa e indigesta da história do cinema. Suas opiniões são fortes e você provavelmente vai discordar da maioria. Mas seu texto é delicioso.

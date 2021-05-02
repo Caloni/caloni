@@ -1,7 +1,7 @@
 ---
 date: "2013-10-17"
 link: "https://www.imdb.com/title/tt1454468"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Gravidade"
 ---
 Alfonso Cuarón (Filhos da Esperança) mostra mais uma vez saber usar as longas sequência sem cortes como uma ferramenta narrativa em vez de um mero estilo exibicionista. Usando o movimento giratório da câmera para impor o ritmo e precisando de pouquíssimos cortes, e ainda assim extremamente orgânicos, somos levados a uma experiência angustiante em torno da órbita da Terra, o que me pegou despreparado e a ponto de vomitar, me segurando na cadeira da sala I-MAX como se pudesse sair flutuando de lá.

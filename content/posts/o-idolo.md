@@ -1,7 +1,7 @@
 ---
 date: "2016-12-03"
 link: "https://www.imdb.com/title/tt4686692"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "O Ídolo"
 ---
 O Ídolo possui um começo dinâmico e tocante, mas não parece usar isso ao seu favor no resto do filme. Ele aposta na catarse fácil que já vemos na televisão e em vídeos do YouTube. O que ele acaba fazendo, então, é apenas dar uma cara e uma atuação para mais um personagem da vida real.

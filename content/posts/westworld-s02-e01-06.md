@@ -1,7 +1,7 @@
 ---
 date: "2018-12-30"
 link: "https://www.imdb.com/title/tt0475784"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Westworld S02 E01-06"
 ---
 "O homem não pode fazer-se sem sofrer, pois é ao mesmo tempo o mármore o escultor." Essa frase de Alexis Carrel não poderia ter um valor mais direto do que o visto em Westworld, com a devida correção, já que a grande questão sobre a qual gira o drama é a diferença entre androides e humanos. No entanto, androides também podem mudar, mas a um alto custo. A versão 2.0 do homem torna até Nietzsche, como sempre, relevante.

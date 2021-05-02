@@ -1,7 +1,7 @@
 ---
 date: "2011-05-23"
 link: "https://www.imdb.com/title/tt0094291"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Wall Street Poder e Cobiça"
 ---
 Após ganhar o oscar por Platoon, Oliver Stone decide focar suas lentes para sua terra natal e abordar temas em torno do que faz mudar, nós e um país inteiro, a maneira de se enxergar: o dinheiro.

@@ -1,7 +1,7 @@
 ---
 date: "2015-11-28"
 link: "https://www.imdb.com/title/tt0051622"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Mosca da Cabeça Branca"
 ---
 "The Fly" cria uma sensação de deslumbramento e fascinação pelo horror da possibilidade de acontecer na vida real o que vemos no filme. E o que vemos não é muito, e seus efeitos são irregulares. Porém, ao apostar no circunstancial em vez do puro deleite visual e gráfico, a obra não-datada da década de 50 mantém sua força dramática e a capacidade de fazer espectadores ainda hoje se pegarem pensando em como tudo isso é surreal, horrível e... fascinante.

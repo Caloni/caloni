@@ -1,7 +1,7 @@
 ---
 date: "2019-07-02"
 link: "https://www.imdb.com/title/tt0209189"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Nenhum a Menos"
 ---
 Um filme lindo de superação, baseado em história real e a porra toda. Se passa na China. Começa em um vilarejo e termina na cidade. É uma lição de vida para todos os brasileiros que reclamam da situação precária das escolas.

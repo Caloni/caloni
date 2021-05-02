@@ -1,7 +1,7 @@
 ---
 date: "2020-04-05"
 link: "https://www.imdb.com/title/tt0268978"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Uma Mente Brilhante"
 ---
 Não lembrava como este filme era tão bom. Ou eu não era bom o suficiente para apreciá-lo. Focado apenas na parte lógica da coisa, não percebi o quão madura e humana é essa abordagem de um matemático brilhante, contemporâneo de todos nós, e ainda vivo, com seu drama pessoal o assombrando.

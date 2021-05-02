@@ -1,7 +1,7 @@
 ---
 date: "2015-07-28"
 link: "https://www.imdb.com/title/tt1492966"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Louie"
 ---
 O comediante, diretor, roteirista, ator Louis C. K. já protagonizou diferentes shows de stand up comedy e é um veterano no assunto. Talvez veterano seja dizer pouco: o cara é simplesmente fodástico na arte do humor. É uma das referências do gênero, e após a morte do mestre (que deus não o tenha) George Carlin, talvez Louis seja o melhor comediante norte-americano da atualidade.

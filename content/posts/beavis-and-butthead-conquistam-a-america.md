@@ -1,7 +1,7 @@
 ---
 date: "2015-11-28"
 link: "https://www.imdb.com/title/tt0115641"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Beavis and Butt-head Conquistam a América"
 ---
 Segunda aventura longa-metragem da dupla de adolescentes descerebrados, o humor irreverente de Beavis e Butt-Head sempre será o maior atrativo da animação para adultos (e adolescentes descerebrados como eu, alguns anos atrás). A crítica da sociedade americana começa a partir do momento em que eles não são os únicos idiotas desse universo, mas toda uma nação. A diferença é que os adultos, a despeito de seu conhecimento e suas funções, continuam sendo seres humanos estúpidos auto-centrados. Por comparação, portanto, os dois jovens parece até que simpáticos, nem que seja pela sua ingenuidade.

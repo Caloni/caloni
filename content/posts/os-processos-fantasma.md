@@ -1,7 +1,7 @@
 ---
 date: "2008-08-20"
 title: Os processos-fantasma
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 Estava eu outro belo dia tentando achar um problema em um driver que controla criação de processos quando, por acaso, listo os processos na máquina pelo depurador de kernel, após ter dado alguns logons e logoffs, quando me vem a seguinte lista de processos do Windows Explorer:
 

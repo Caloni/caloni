@@ -1,7 +1,7 @@
 ---
 date: "2013-07-11"
 link: "https://www.imdb.com/title/tt0097239"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Conduzindo Miss Daisy"
 ---
 Um filme que envelheceu bem, mas que continua enigmático em alguns sentidos (ele é, de fato, racista?). Em outros, se reforça ainda mais, como é o caso da belíssima trilha sonora, composta pelo rival de temas de John Williams, Hans Zimmer, e das interpretações de Morgam Freeman e Jessica Tandy.

@@ -1,7 +1,7 @@
 ---
 date: "2021-02-16"
 link: "http://www.dolucawines.com/products/our-wines-detail/56/villa-doluca-classic-rose"
-tags: [ "food" ]
+categories: [ "food" ]
 title: "Villa Doluca Classic Rose"
 ---
 Mais um vinho dessa Vila do Luca. Esse Luca sabe fazer vinhos interessantes. Localizada na Turquia, uma das maiores produtoras de uvas, mas não de vinhos (por motivos religiosos), Villa Doluca é uma produtora e exportadora desses rótulos.

@@ -1,7 +1,7 @@
 ---
 date: "2013-04-03"
 link: "https://www.imdb.com/title/tt1520211"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "The Walking Dead - Terceira Temporada"
 ---
 Se a segunda temporada de The Walking Dead é um banho de água fria que vira um melodrama quase celebrando a mediocridade de algumas novelas globais, a primeira metade da terceira temporada e alguns belos momentos da segunda metade quase que compensam a tortura de acompanhar os velhos e conhecidos episódios arrastados na mesmice.

@@ -1,7 +1,7 @@
 ---
 date: "2014-12-24"
 link: "https://www.imdb.com/title/tt0092067"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Castelo no Céu"
 ---
 Assistindo a O Castelo no Céu percebi uma característica do diretor Hayao Miyazaki (A Viagem de Chihiro) talvez pouco reconhecida entre seus fãs: ele é extremamente habilidoso em sequências de ação. Isso pode-se constatar facilmente em uma cena envolvendo uma perseguição de trem, tanques, carros e transportes voadores e que dura pouco menos que dez minutos, mas acelera as batidas do coração a cada novo desdobramento. Isso ocorre principalmente porque nos preocupamos profundamente com os personagens envolvidos, o que nos leva a uma segunda característica vital de Miyazaki: ele sabe introduzir seus personagens.

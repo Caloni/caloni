@@ -1,7 +1,7 @@
 ---
 date: "2014-06-03"
 title: SS
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 Uma das coisas mais cretinas e difíceis para os iniciantes em C++ é conseguir formatar strings de maneira fácil, rápida e indolor. Infelizmente, a biblioteca de printf da linguagem C está fechada para reforma, pois ela é extremamente error-prone e não-intuitiva. Porém, se a printf é não-intuitiva, o que dizer < < daqueles << sinais << de << flechinhas apontando para cout? Bem melhor, não?
 

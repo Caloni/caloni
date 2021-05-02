@@ -1,7 +1,7 @@
 ---
 date: "2017-11-27"
 link: "https://www.imdb.com/title/tt0091064"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Mosca"
 ---
 Poucos filmes da época de infância traziam tantas cenas marcantes quanto os filmes de David Cronenberg. E entre eles com certeza A Mosca é o que parece sintetizar o horror de seus filmes em um formato clássico e ideal. Porque se trabalhos como A Hora da Zona Morta, Um Método Perigoso e Cosmópolis são mais psicológicos e internos aos seus personagens, A Mosca traz o velho dilema e a velha maldição do homem e dos caminhos que a ciência pode tomar de uma forma mais universal.

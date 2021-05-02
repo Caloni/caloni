@@ -1,7 +1,7 @@
 ---
 date: "2012-01-31"
 link: "https://www.imdb.com/title/tt0052311"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Marca da Maldade"
 ---
 Orson Welles aparentemente sempre esteve preocupado com a questão da lei, da justiça e da verdade. Tudo isso a partir de uma grande questão: os que zelam pela ordem e segurança são realmente de confiança? Ou quem vigia os que nos vigiam? Se formos considerar que a questão do poder foi tratada exaustivamente em seu clássico Cidadão Kane, esse A Marca da Maldade consegue desviar um pouco da rota sem perder a essência.

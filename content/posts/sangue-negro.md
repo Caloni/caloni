@@ -1,7 +1,7 @@
 ---
 date: "2018-01-23"
 link: "https://www.imdb.com/title/tt0469494"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Sangue Negro"
 ---
 Com uma longa introdução sem falas que praticamente diz tudo que precisamos saber do protagonista para entender seus atos durante toda a longa, mas empolgante, história de sua ascensão na indústria do petróleo, Sangue Negro não perde o ritmo e o significado em nenhum momento. Sua fotografia é delineada por sombras e contornos nítidos no horizonte, sempre a nos lembrar do óleo negro, implícito em cada cena, mesmo que não esteja lá. E, quando está, não raro impregna a face das pessoas ou até as fere. Até a trilha sonora, baseada em sons ritmados, evocam a todo o momento as bombas puxando o petróleo para a superfície.

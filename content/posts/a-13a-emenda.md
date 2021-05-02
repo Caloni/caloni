@@ -1,7 +1,7 @@
 ---
 date: "2017-02-05"
 link: "https://www.imdb.com/title/tt5895028"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A 13a. Emenda"
 ---
 O objetivo desse filme é te convencer que o sistema carcerário americano é um resquício do sistema escravagista do passado. Para isso ele irá distorcer significados de boa parte da história política do século 20 da forma que convir, fazer propaganda (ainda que crítica) a favor dos democratas em detrimento dos republicanos (que possuem um espantalho como Donald Trump para fazer o serviço), apelar para os sentimentos do espectador sem muitas... não, sem qualquer prova de que há de fato um sistema racista agindo por um século e meio. Isso fica claro e nítido nos exemplos anedóticos usados por todo o filme.

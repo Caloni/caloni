@@ -1,7 +1,7 @@
 ---
 date: "2020-02-27"
 link: "https://www.imdb.com/title/tt2584384"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Jojo Rabbit"
 ---
 Hitler está de volta. E está com tudo. Ele dança, voa pela janela e recruta um garoto de 10 anos em pleno final da segunda guerra mundial. Seu nome é Jojo Rabbit, e ele é um covarde. Filho de pai e mãe liberais no sentido progressista, é um mistério como ele chegou a idolatrar a suástica em uma família como essa. E por falar em mistérios, Taika Waititi, o diretor e roteirista do filme, foi criado com leite com pera e acha que nazismo é sinônimo de malvadões patéticos.

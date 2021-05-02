@@ -1,7 +1,7 @@
 ---
 date: "2012-10-21"
 link: "https://www.imdb.com/title/tt2014338"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Lado a Lado"
 ---
 Lado a Lado coloca a questão do formato digital no cinema exatamente como defende o título: uma alternativa para a arte que, assim como o colorido, o som e o 3D, talvez tenha ganho não uma ameaça, mas uma ferramenta.

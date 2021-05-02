@@ -1,7 +1,7 @@
 ---
 date: "2018-03-13"
 link: "https://www.imdb.com/title/tt5027774"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Tres Anúncios Para Um Crime"
 ---
 Parte de uma premissa e se torna surreal. Não é exatamente comédia ou drama, mas nem a vida pode ser definida de um jeito ou do outro. As pessoas nesse filme não são muito inteligentes, mas tentam -- como um deles usa como lição -- não ser um fracasso total. E o resultado é uma comédia de erros da vida real.

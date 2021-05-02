@@ -1,7 +1,7 @@
 ---
 date: "2010-02-08"
 title: Restaurando o registro
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 Algumas ferramentas viram essenciais quando o importante é tempo. As minhas favoritas são: [Visual Studio](http://www.microsoft.com/exPress/) e [batch](http://www.microsoft.com/WINDOWS/). Com esses dois eu faço virtualmente qualquer coisa que preciso em pouquíssimo tempo. É lógico que, na ausência dessas, alternativas são bem-vindas, como [Notepad++](http://notepad-plus.sourceforge.net/uk/site.htm), [viM](http://www.vim.org/), [grep](http://gnuwin32.sourceforge.net/), [cygwin](http://www.cygwin.com/).
 

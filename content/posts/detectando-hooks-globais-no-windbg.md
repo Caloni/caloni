@@ -1,7 +1,7 @@
 ---
 date: "2007-11-09"
 title: "Detectando hooks globais no WinDbg (SetWindowsHookEx)"
-tags: [ "code" ]
+categories: [ "code" ]
 ---
 Nada como um comando prático para aprender rapidamente uma técnica. Nesse caso, tive que usar o seguinte comando para localizar o momento em que um executável instala um hook global: bp user32!SetWindowsHookExA "j poi(esp+4*4) 'g' ; '.echo *** GLOBAL HOOK ***; g'".
 

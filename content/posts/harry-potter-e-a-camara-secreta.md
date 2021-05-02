@@ -1,7 +1,7 @@
 ---
 date: "2019-12-27"
 link: "https://www.imdb.com/title/tt0295297"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Harry Potter e a Câmara Secreta"
 ---
 Esta segunda aventura da série de adaptações cinematográficas dos livros infanto-juvenis da escritora J. K. Rowling já soa mais episódica que seu primeiro e antecessor, mas mantém na magia, nas reviravoltas e nas ótimas atuações de seu elenco um pouco do lampejo de seu original. É óbvio que esta é uma produção que quer chamar mais atenção para seus efeitos, que convertem o fundo verde em torno de um carro "voador" para a magia de sobrevoar os céus de Londres em plena luz do dia. Mais detalhes sobre as relações entre bruxos e trouxas são revelados, e principalmente entre bruxos e bruxos.

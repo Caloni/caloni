@@ -1,7 +1,7 @@
 ---
 date: "2019-06-22"
 link: "https://www.imdb.com/title/tt0168734"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Feitiço"
 ---
 Um épico em uma pequena história do século 20 no México. Pré-adolescentes descobrindo as delícias do sexo com mulheres maduras. A história econômica e política da região do ponto de vista dos trabalhadores. E tudo isso gira em torno de um suposto feitiço.

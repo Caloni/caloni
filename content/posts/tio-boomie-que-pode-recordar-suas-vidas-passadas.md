@@ -1,7 +1,7 @@
 ---
 date: "2020-06-22"
 link: "https://www.imdb.com/title/tt1588895"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Tio Boomie, Que Pode Recordar Suas Vidas Passadas"
 ---
 O diretor tailandês Apichatpong Weerasethakul afirmou em uma entrevista que acompanha este DVD que "sente inveja de quem vê seus filmes". Não é apenas a pretensão de um cineasta que vem à tona, mas todo o humor subjacente se lembrarmos que Tio Boomie é um lixo de filme. Inveja de quem assiste? Se ele pelo menos soubesse...

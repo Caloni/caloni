@@ -1,7 +1,7 @@
 ---
 date: "2012-05-14"
 link: "https://www.imdb.com/title/tt0075314"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Taxi Driver: Motorista de Táxi"
 ---
 A primeira coisa que senti ao iniciar a sessão do filme noir do Scorcese foi pensar que talvez eu não estivesse pronto para o que veria a seguir. De certa forma, "Táxi Driver" é um filme com tantas camadas e significados que fica difícil classificá-lo apenas como um excelente filme. A princípio, ele nem parece tão bom assim. Se perde em uma história sem cabimento, ou que tenha algum tipo de lógica em sua trama. Porém, ao olhar mais de perto, o que vemos é o resultado de uma catarse artística que pode-se notar em diversos indícios da produção: um roteiro (Paul Schrader, que assina também "Touro Indomável") que foca mais em seu personagem e não em suas falas; uma direção que assegura que o ponto de vista do motorista de táxi seja o único ponto de vista do filme inteiro; interpretações que enriquecem os personagens pelas expressões e movimentos, não se tornando afáveis para o público, mas antes soando autênticos (Robert de Niro e Jodie Foster); a fotografia de Michael Chapman que anda de mãos dadas com uma montagem segura feita por uma dupla que investe nas tomadas noturnas em planos-detalhe significativos apenas para o protagonista (como o espelho do motorista), enfocando sempre o que ele vê; por fim, uma trilha sonora ocasional mas impactante de Bernard Herrmann, colaborador frequente de Hitchcock, que, mesmo que repetitiva, mescla com competência seus dois temas principais.

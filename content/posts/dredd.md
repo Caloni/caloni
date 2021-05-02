@@ -1,7 +1,7 @@
 ---
 date: "2012-10-05"
 link: "https://www.imdb.com/title/tt1343727"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Dredd"
 ---
 Os juízes do futuro pós-apocalíptico em Dredd utilizam apenas duas ferramentas para fazer valer a ordem: uma pistola com diversos tipos de disparo e uma interpretação literal das leis. Olhamos essa realidade através do implacável juiz que empresta seu nome ao título, que em suas rondas se limita a aplicar a sentença cabível aos criminosos, incluindo aí a pena de morte. Sua decisão do que fazer a seguir é a resposta da pergunta como posso melhor julgar este caso.

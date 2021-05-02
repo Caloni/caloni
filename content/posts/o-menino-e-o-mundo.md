@@ -1,7 +1,7 @@
 ---
 date: "2016-02-23"
 link: "https://www.imdb.com/title/tt3183630"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Menino e o Mundo"
 ---
 O Menino e o Mundo é uma animação sobre os olhos de um menino enxergando o mundo. E de fato ele consegue isso, com maestria: o mundo que vemos é estático, simplista, ingênuo e dramatizado até a última gota de tinta.

@@ -1,7 +1,7 @@
 ---
 date: "2019-11-11"
 link: "https://www.imdb.com/title/tt4805316"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Dark Song"
 ---
 A Dark Song é um filme de terror minimalista, onde seu poder é construído pelas circunstâncias criadas em seu início e truques baratos de som e iluminação que funcionam justamente por causa do seu começo. Do jeito que eu descrevo parece o guia padrão para qualquer filme do gênero que se preze, mas infelizmente a grande maioria peca pelo excesso.

@@ -1,7 +1,7 @@
 ---
 date: "2012-06-10"
 link: "https://www.imdb.com/title/tt0059578"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Por uns Dólares a Mais"
 ---
 Continuação de [Por um Punhado de Dólares] e apenas um ano após a produção original, Por uns Dólares a Mais concebe o universo do faroeste de uma maneira mais aventureira e empolgante que seu precursor. Dessa vez há duas figuras principais. O Homem Misterioso de antes já não é mais tão misterioso assim. Possui um nome: Manco. E possui uma função: é caçador de recompensas. Aliás, uma consequência mais que natural do que vimos no primeiro filme, pois se há tantos fora-da-lei espalhados pelo oeste faz sentido que a polícia precise de oportunistas para capturá-los.

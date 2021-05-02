@@ -1,7 +1,7 @@
 ---
 date: "2012-04-20"
 link: "https://www.imdb.com/title/tt2142055"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Xingu"
 ---
 É um sintoma relevante do Cinema no Brasil que os temas mais polêmicos, salvo jovens clássicos como [Cidade de Deus] e [Tropa de Elite], sofram uma obliteração criativa. Xingu, novo trabalho de Cao Hamburguer na direção (O Ano em Que Meus Pais Saíram de Férias), com produção de Fernando Meirelles (que dispensa apresentações), não consegue fugir desse estigma completamente, embora tenha seus bons momentos.

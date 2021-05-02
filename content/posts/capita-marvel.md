@@ -1,7 +1,7 @@
 ---
 date: "2019-03-12"
 link: "https://www.imdb.com/title/tt4154664"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Capitã Marvel"
 ---
 "Eu não tenho nada pra provar pra você", diz Capitã Marvel para um homem. Fora a história em si há pelo menos mais dois significados para essa frase no filme. Primeiro ela se refere ao constante "desafio" feito às mulheres, como se por pertencer a outro gênero elas precisassem provar algo além do que se espera de um ser humano. E segundo, e mais importante, ela se refere à própria Marvel. Não à Capitã, mas à produtora. Durante mais de uma década em sua louca trajetória na criação do MCU, o Marvel Cinematic Universe, ela precisava demonstrar todo tempo que era possível fazer histórias que conectassem todos seus super-heróis no mesmo mundo e este mundo ainda fazer sentido. Capitã Marvel é o primeiro após Vingadores: Guerra Infinita, que encerra um gigante capítulo dessa saga ao juntar todos os supers que ela apresentou e desenvolveu em uma série de filmes. E nesse capítulo ela pode enfim respirar aliviada e dizer: "não preciso mais provar nada a você, caro espectador, que foi fisgado nesse universo e dele não deverá mais retornar nunca mais".

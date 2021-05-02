@@ -1,6 +1,6 @@
 ---
 date: "2019-09-07"
-tags: [ "draft", "code", "draft",  ]
+categories: [ "draft", "code", "draft",  ]
 title: "Vcpkg: Atualizando Lib Asio"
 ---
 Hoje tive que compilar a versão 1.13.0 do Asio para Windows, mas o vcpkg não suporta essa versão ainda, apesar de suportar uma versão (1.12.2.2). Daí entra os problemas que todo programador Windows tem para manter bibliotecas de terceiro compilando em seu ambiente, mas agora com o vcpkg isso nem é tão difícil assim. Vamos lá.

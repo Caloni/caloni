@@ -1,7 +1,7 @@
 ---
 date: "2011-11-02"
 link: "https://www.imdb.com/title/tt1161864"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Ritual"
 ---
 Um "noviço" que, desistindo da vocação de padre, resolve dar uma última chance ao seu superior fazendo um curso de exorcismo no Vaticano. Há um diálogo estranho do superior insistindo no rapaz. Com o uso de uma cena forçada do superior causando a morte de uma ciclista, parece que o filme irá jogar suas causas de uma maneira não-orgânica.

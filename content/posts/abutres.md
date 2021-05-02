@@ -1,7 +1,7 @@
 ---
 date: "2014-03-04"
 link: "https://www.imdb.com/title/tt1542852"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Abutres"
 ---
 Filmes com Ricardo Darín (Um Conto Chinês, O Segredo dos Seus Olhos) já merecem uma visita. Já filmes do diretor Pablo Trapero (Elefante Branco), que infelizmente é mais realista do que pessimista, exigem uma preparação psicológica para a dor e a depressão que virão por causa da impotência de seus personagens ante uma situação intransponível. Ou, resumindo, como diria Capitão Nascimento: "o sistema é foda!".

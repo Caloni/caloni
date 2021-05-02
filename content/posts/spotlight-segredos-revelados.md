@@ -1,7 +1,7 @@
 ---
 date: "2016-02-29"
 link: "https://www.imdb.com/title/tt1895587"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Spotlight: Segredos Revelados"
 ---
 Esse é um filme que foca obcecadamente em seus fatos. A ponto de sacrificar seus personagens. E tudo bem. O material de Spotlight é bom o suficiente para funcionar sem qualquer personagem de destaque, muito embora Mark Ruffalo quase consiga algo interessante.

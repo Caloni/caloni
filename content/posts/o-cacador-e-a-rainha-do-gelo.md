@@ -1,7 +1,7 @@
 ---
 date: "2018-07-01"
 link: "https://www.imdb.com/title/tt2381991"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Caçador e a Rainha do Gelo"
 ---
 Continuação previsível, baixo orçamento, mas mantém o mesmo universo e alguns efeitos bem impressionantes. A história central é poderosa, pesa no final, mas todo o resto é um passeio monótono, pois praticamente tudo é previsível.

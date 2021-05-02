@@ -1,7 +1,7 @@
 ---
 date: "2020-01-07"
 link: "https://www.imdb.com/title/tt5774060"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Ameaça Profunda"
 ---
 Ameaça Profunda é um candidato a "Alien: O Oitavo Passageiro" embaixo da água, só que em uma versão alternativa onde todas as grandes sacadas do filme de Ridley Scott deram errado ou sequer foram cogitadas. Este é um exemplo de filme de terror que, diferente dos outros filmes da década deste gênero, não evoluiu. Irá passar despercebido nos cinemas e será visto ocasionalmente em canais por assinatura às três da manhã ou em serviços de streaming que vão acabar o recomendando no final de um outro filme porque pagaram barato e alguém precisa assistir para justificar a compra.

@@ -1,7 +1,7 @@
 ---
 date: "2015-11-28"
 link: "https://www.imdb.com/title/tt3205802"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "How to Get Away with Murder - Primeira Temporada, Episódios 1 ao 3"
 ---
 Assisti alguns episódios deste que parece ser aquelas séries que causam sensação, talvez pelo seu final. O detalhe é que não importa como, todo novo episódio parece querer voltar nas mesmíssimas cenas finais, onde os estudantes de direito se metem em um assassinato e precisam... adivinhem? Lavar suas mãos.

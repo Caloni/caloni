@@ -1,7 +1,7 @@
 ---
 date: "2012-10-28"
 link: "https://www.imdb.com/title/tt2069985"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Peso da Culpa"
 ---
 Primeiro longa de Lars-Gunnar Lotz e seu trabalho de graduação, O Peso da Culpa gira em torno de Benjamin (Edin Hasanovic), um jovem delinquente que ao ser preso é transferido para um programa de sociabilização organizado por Niklas (Marc Benjamin Puch) e sua mulher Eva (Julia Brendler). Eva recentemente foi vítima de um assalto onde foi gravemente ferida. O grande plot do filme é que seu agressor foi justamente Benjamin, e essa descoberta feita por ele e como ele deve lidar com isso durante sua evolução como um rapaz menos agressivo e mais sociável é o conflito central que toma conta durante um certo tempo de nossa respiração.

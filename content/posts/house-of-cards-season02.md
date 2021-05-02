@@ -1,7 +1,7 @@
 ---
 date: "2016-03-13"
 link: "https://www.imdb.com/title/tt1856010"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "House of Cards - Segunda Temporada"
 ---
 Já sabemos que Frank Underwood (Kevin Spacey) é capaz de literalmente tudo por mais poder. Se isso não fica claro no desfecho trágico do final da primeira temporada, com certeza o início da segunda não deixará a menor dúvida da mente doentia e obstinada do agora vice-presidente.

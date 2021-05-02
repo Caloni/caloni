@@ -1,7 +1,7 @@
 ---
 date: "2018-07-26"
 link: "https://www.imdb.com/title/tt8725166"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Dark Tourism"
 ---
 Essa série que saiu na Netflix, é uma boa série, porque ela contém todos os elementos que faltam hoje ao jornalismo pensante. Há obviamente um formato senso forçado, mas quando algo é bem feito, isso passa como diversão.

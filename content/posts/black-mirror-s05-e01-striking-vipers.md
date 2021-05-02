@@ -1,7 +1,7 @@
 ---
 date: "2019-06-10"
 link: "https://www.imdb.com/title/tt8503298"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Black Mirror S05 E01 Striking Vipers"
 ---
 Black Mirror S05 abre com uma história de broderagem filmada em São Paulo, Brazil, lugar do universo onde mais tem broderagem. Pra quem desconhece o termo, é quando você é viado, mas só com seu abiguinho.

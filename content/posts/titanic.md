@@ -1,7 +1,7 @@
 ---
 date: "2017-09-17"
 link: "https://www.imdb.com/title/tt0120338"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Titanic"
 ---
 Vinte anos depois revejo este drama épico de James Cameron. Na época em que estava em cartaz assisti umas cinco vezes, então sabia de todos os movimentos de câmera e diálogos de cor. Mas o que torna este filme um exemplo de Cinema em seu máximo, mesmo sendo extremamente brega?

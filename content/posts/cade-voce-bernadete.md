@@ -1,7 +1,7 @@
 ---
 date: "2019-11-01"
 link: "https://www.imdb.com/title/tt2365580"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Cade Você, Bernadete?"
 ---
 "Cadê Você, Bernadete?" é um filme que projeta em seus humanos mensagens mais gerais a respeito de relacionamento e sociedade. Em algum momento alguém usa a desculpa de que a verdade é muito complicada e a resposta recebida é que sim, ela é complicada, mas isso não quer dizer que não devemos tentar alcançá-la.

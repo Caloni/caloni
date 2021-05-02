@@ -1,7 +1,7 @@
 ---
 date: "2017-11-01"
 link: "https://www.imdb.com/title/tt2356777"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "True Detective: Primeira Temporada"
 ---
 Este é o tipo de série que pode ir de maçante para fascinante, dependendo de quem assiste. Com um roteiro intrincado, sério, sisudo demais, a história contada em oito capítulos segue uma sequência difícil de ser equiparada. Porém, mais do que isso, aqui temos dois personagens em pés de igualdade. Cada um deles é interpretado por um monstro da atuação. Como não amar Matthew McConaughey e Woody Harrelson depois de seus Rus Cohle e Marty Hart? Esta, sim, é uma tarefa difícil.

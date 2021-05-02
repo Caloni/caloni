@@ -1,7 +1,7 @@
 ---
 date: "2017-04-18"
 link: "https://www.imdb.com/title/tt4972582"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Fragmentado"
 ---
 Este é mais um suspense de M. Night Shyamalan baseado em "eventos reais" que flerta com as possibilidades sobrenaturais de suas premissas. Mas mais "sobrenatural", contudo, é a forma simplista com que a história é contada, como se o diretor/roteirista não se importasse muito com a verossimilhança da história que quer contar, já que, marca registrada do diretor, obviamente tratará de um tema que brinca com coisas "Além da Imaginação".

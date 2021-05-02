@@ -1,7 +1,7 @@
 ---
 date: "2010-04-16"
 link: "https://www.imdb.com/title/tt0978762"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Mary e Max uma Amizade Diferente"
 ---
 Tudo em "Mary e Max" é construído para tentar responder uma das perguntas emocionalmente mais ambiciosas e filosoficamente mais intrigantes que nós, passageiros desse planeta em direção à morte, nos fazemos de vez em quando: o que é a amizade?

@@ -1,7 +1,7 @@
 ---
 date: "2019-02-15"
 link: "https://www.imdb.com/title/tt0183505"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Eu, Eu Mesmo e Irene"
 ---
 Não considero Eu, Eu Mesmo e Irene um bom filme. Não é um bom exemplo dos irmãos Farrelly (Débi & Lóide: Dois Idiotas em Apuros, Quem Vai Ficar com Mary, Passe Livre. Seu roteiro não foi bem trabalhado e depende de um narrador e situações inusitadas demais para juntar seus personagens. Mas algo que me incomoda: se ele nem é tão bom porque consigo me lembrar de praticamente todos seus momentos?

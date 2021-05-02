@@ -1,6 +1,6 @@
 ---
 date: "2017-02-06"
-tags: [ "code" ]
+categories: [ "code" ]
 title: "Android Protobuf, Mock Configurável"
 ---
 A comunicação oferecida pelo Protocol Buffers, uma maneira otimizada de codificar mensagens em alto nível, é uma das formas mais ideais de realizar a ponte entre cliente e servidor quando se fala de aplicativos mobile. A solução já suporta inúmeras linguagens, desde C++ (a linguagem oficial) até Java, passando por Python e .NET. Um mesmo arquivo de definição pode ser usado entre diferentes tipos de tecnologia. Este artigo mostra o caminho das pedras para compilar o protobuf para Android e de quebra mostra como é fácil fazer um mock de servidor local em uma configuração local com o gerenciador de builds do Android.

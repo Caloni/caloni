@@ -1,7 +1,7 @@
 ---
 date: "2015-12-27"
 link: "https://www.imdb.com/title/tt0075686"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Noivo Neurótico, Noiva Nervosa"
 ---
 Uma comédia romântica se faz pelos seus personagens, como eles interagem, o que fala, quais seus dramas, suas origens, seu crescimento e, principalmente, como se relacionam. Quanto mais reais mais eficiente se torna o filme. Portanto, quando Woody Allen realiza Annie Hall como uma homenagem a Diane Keaton e seu longo relacionamento juntos, a ênfase com que ele a coloca, e se coloca, em um processo de descobrir o que deu errado no romance entre eles é tão grande que a linguagem ultrapassa os limites dos diálogos e temos uma meta-exposição tão "Woody Allen", com a quebra da quarta parede e X outros artifícios, como visitas ao passado comentadas, e em contrapartida, uma participação tão "Diany Keaton" na leveza e naturalidade com que as histórias vão definindo essas duas pessoas, suas manias, suas neuroses e ambições, que a arte quebra sua quarta parede com a vida real e quando percebemos estamos assistindo a uma carta de amor entre um artista autêntico em suas discussões filosóficas sendo entregue publicamente para a pessoa com quem ele parece ter uma dívida de vida, e para quem parece estar pedindo desculpas por segurar seu enorme talento em sua mesquinharia e egocentrismo típicos desse judeu bem-humorado em seu próprio pessimismo.

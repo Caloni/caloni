@@ -1,6 +1,6 @@
 ---
 date: "2007-06-15"
-tags: [ "blog" ]
+categories: [ "blog" ]
 title: "O bom filho à casa retorna"
 ---
 Depois de seis meses blogueando em um novo domínio, que seria totalmente focado em C++, descobri que não consigo viver escrevendo apenas sobre a linguagem em que programo. Não é que falte assunto. Simplesmente meu dia-a-dia nunca se resume apenas em regras de sintaxe e erros de compilação.

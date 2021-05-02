@@ -1,7 +1,7 @@
 ---
 date: "2019-10-17"
 link: "https://www.imdb.com/title/tt7766886"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "A Garota com a Pulseira"
 ---
 É uma moda constante os filmes com "A Garota...". Este A Garota com a Pulseira é um filme de júri, o que já faz 90% do trabalho, pois já chama atenção automaticamente do espectador, que vai querer desde o começo até o final saber a resolução do caso (e corre o sério risco de não saber, pois este é um filme francês...). Porém, este não é um roteiro 100% preguiçoso, apesar de usar velhos temas de júri e de julgamentos que fazemos das pessoas todos os dias.

@@ -1,7 +1,7 @@
 ---
 date: "2012-04-09"
 link: "https://www.imdb.com/title/tt1201167"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Tá Rindo do Que?"
 ---
 Funny People, aqui no Brasil conhecido como "Tá Rindo do Que?" e lançado diretamente para as locadoras por não ser um filme típico para o grande, mas limitado, público de Adam Sandler, é uma mescla entre drama e comédia, que está presente exatamente por ser esta uma história em torno de um comediante de sucesso que, como muitos no ramo, iniciou sua carreira na comédia de stand-up (entre eles, Jim Carrey, Robin Williams e Eddie Murphy).

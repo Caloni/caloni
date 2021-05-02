@@ -1,7 +1,7 @@
 ---
 date: "2019-01-21"
 link: "https://www.imdb.com/title/tt3534282"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Don Verdean: o Que o Passado nos Reserva"
 ---
 Esta é uma comédia que pega pesado com as religiões protestantes dos EUA. A maneira com que ele faz isso é muito maldosa. Ela é... como posso dizer... sincera.

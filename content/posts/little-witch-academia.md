@@ -1,7 +1,7 @@
 ---
 date: "2021-04-25"
 link: "https://www.imdb.com/title/tt6352180"
-tags: [ "draft", "animes" ]
+categories: [ "draft", "animes" ]
 title: "Little Witch Academia"
 ---
 Este anime possui traços que lembram aqueles desenhos feitos à mão da década de 80, mas está sendo lançado nesta década, o que é tão fofinho quanto os traços completamente diferentes mas com a mesma vibe de Kobayashi Dragon's Maid de evocar o melhor de uma época e aproveitar as evoluções tecnológicas de animação.

@@ -1,7 +1,7 @@
 ---
 date: "2020-11-08"
 link: "https://www.slideshare.net/WanderleyCaloni"
-tags: [ "lists" ]
+categories: [ "lists" ]
 title: "Palestras"
 ---
 Segue a lista de palestras que ministrei ao longo dos anos que possuem alguns slides úteis (os com slides inúteis não estão disponíveis e devem estar na memória dos que assistiram ou em algum post perdido por aí). Have fun =)

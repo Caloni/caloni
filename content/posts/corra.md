@@ -1,7 +1,7 @@
 ---
 date: "2018-01-26"
 link: "https://www.imdb.com/title/tt5052448"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Corra!"
 ---
 "Os brancos estão por cima faz uns 200 anos. Agora o negro está na moda." Essa frase de "Corra!" basicamente resume o filme e a época em que vivemos. Uma época onde o mérito é ter um passado vitimista e ter a cor da pele certa. Uma época racista ao inverso, onde ser negro é ser cool, onde sua genética é exaltada e onde não há nada mais natural que um filme de terror sobre isso.

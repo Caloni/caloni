@@ -1,7 +1,7 @@
 ---
 date: "2014-06-13"
 link: "https://www.imdb.com/title/tt2318092"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Amor Sem Fim"
 ---
 Filme que revisita os clichês estilo Diário de uma Paixão sob a ótica contemporânea. Foca principalmente no jogo de forças entre pai e filha, mas se estende desnecessariamente ao final repetindo a mesma dinâmica já vista durante o filme.

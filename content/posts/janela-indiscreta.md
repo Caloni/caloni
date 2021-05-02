@@ -1,7 +1,7 @@
 ---
 date: "2013-01-15"
 link: "https://www.imdb.com/title/tt0047396"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Janela Indiscreta"
 ---
 Um dos trabalhos mais lembrados da carreira do mestre de suspense Alfred Hitchcock, o ponto mais marcante da história de L.B. 'Jeff' Jefferies (James Stewart), um fotógrafo que precisa manter-se em seu apartamento por conta de sua perna engessada, é o seu único ponto de vista de todos os acontecimentos. Acostumando-se a observar a vida dos outros prédios em volta, é ele que testemunha um suposto crime. Note que a incerteza dos acontecimentos aliado às histórias paralelas dos seus vizinhos contribui para nossa desorientação, que chega ao seu ápice quando o próprio protagonista passa também a correr perigo.

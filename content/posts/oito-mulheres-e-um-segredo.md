@@ -1,7 +1,7 @@
 ---
 date: "2018-11-18"
 link: "https://www.imdb.com/title/tt5164214"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Oito Mulheres e Um Segredo"
 ---
 Oito Mulheres e Um Segredo entretém como seus antecessores, graças mais ao seu elenco que está em harmonia de interpretações. Aliás, a parte mais inacreditável do filme é entender como tantas mulheres juntas conseguem se dar bem.

@@ -1,7 +1,7 @@
 ---
 date: "2016-11-02"
 link: "https://www.imdb.com/title/tt3774114"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Snowden"
 ---
 Um documentário reconstruído como ficção pode ser bem maçante para a maioria das pessoas; principalmente se a ideia dos idealizadores for simplesmente jogar diálogos e eventos de pessoas da vida real em um formato burocrático ou televisivo. A maioria sairia antes da metade do filme. No entanto, o lado show business de Oliver Stone e o roteiro incisivo de Kieran Fitzgerald realizam uma dramatização da vida real que consegue criar nos 134 minutos de Snowden um universo à parte da realidade, onde nos importamos com seus personagens como se fosse uma história criada para isso, mas ao mesmo tempo não nos faz esquecer que essa é a vida real, apenas alguns anos atrás, e cujos acontecimentos ecoam até o exato momento do agora, às vésperas de mais uma eleição presidencial norte-americana. E que Edward Snowden ainda é um exilado político.

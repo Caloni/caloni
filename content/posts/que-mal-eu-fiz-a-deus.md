@@ -1,7 +1,7 @@
 ---
 date: "2015-11-01"
 link: "https://www.imdb.com/title/tt2800240"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Que Mal Eu Fiz a Deus?"
 ---
 Essa comédia francesa explora os estereótipos e o racismo de maneira quase inofensiva. No processo, joga algumas piadas de caráter duvidoso, mas em sua maioria oferece uma reflexão boba e superficial a respeito das rixas que as pessoas têm com as outras que tiverem outra origem e cultura.

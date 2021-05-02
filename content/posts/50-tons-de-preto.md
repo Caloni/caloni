@@ -1,7 +1,7 @@
 ---
 date: "2016-02-19"
 link: "https://www.imdb.com/title/tt4667094"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "50 Tons de Preto"
 ---
 50 Tons de Preto é a maneira mais eficiente de criticar o sexismo de seu primo que deveria ser levado a sério, 50 Tons de Cinza. Ele é uma paródia. Usa a mesma história do original e se aproveita de sua mediocridade para fazer comédia. De quebra, é um rodízio de comentários que, inspirados ou não, tentam ridicularizar uma situação que já é ridícula na fonte, mas embora possa soar redundante, não é. Certas coisas precisam ser ditas com outra forma de abordagem para serem visíveis ao público, e nada como uma comédia despretensiosa para isso.

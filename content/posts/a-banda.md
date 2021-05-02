@@ -1,7 +1,7 @@
 ---
 date: "2020-09-06"
 link: "https://www.imdb.com/title/tt1032856"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Banda"
 ---
 Estão todos juntos porque o uniforme é o mesmo, mas seus espíritos vagam em diferentes sentidos, entre a fantasia de estar perdido em país estrangeiro e o desespero de ter que viver tudo aquilo com seus colegas. Porque, sabe como é, estão todos com o mesmo uniforme, mas não quer dizer na mesma página da partitura.

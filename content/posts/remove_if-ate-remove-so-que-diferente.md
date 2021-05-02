@@ -1,7 +1,7 @@
 ---
 date: "2014-01-21"
 title: "remove_if até remove, só que diferente"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 A surpresa de hoje foi descobrir (vejam só) que o remove_if, como todo algoritmo da STL, deve ser olhado de perto antes de usado. Nesse caso em específico porque, apesar do nome, a função NÃO remove elementos, mas os sobrescreve.
 

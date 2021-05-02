@@ -1,7 +1,7 @@
 ---
 date: "2016-03-07"
 link: "https://www.imdb.com/title/tt0272338"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Embriagado de Amor"
 ---
 Paul Thomas Anderson é um diretor peculiar, tanto quanto Sidney Lumet. Ambos fizeram trabalhos com temas variados, mas se entregaram a cada projeto como se cada um deles fosse sua obra-prima. Nenhum dos dois pode ser "acusado" de fazer Cinema autoral (aquele que pelo filme você já sabe quem é o diretor).

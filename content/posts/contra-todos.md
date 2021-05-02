@@ -1,7 +1,7 @@
 ---
 date: "2019-08-31"
 link: "https://www.imdb.com/title/tt0395978"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Contra Todos"
 ---
 Dos mesmos produtores de Cidade de Deus, este é um filme em que os personagens do roteiro foram sendo contruídos na preparação de elenco. Não é um elenco de primeira, mas o resultado sim, e mais realista do que se os papéis fossem entregues para celebridades. O resultado é visceral pela história, realista pelos diálogos e potencialmente um quase documentário ficcional.

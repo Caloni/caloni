@@ -1,7 +1,7 @@
 ---
 date: "2015-12-29"
 link: "https://www.imdb.com/title/tt0023427"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Scarface: A Vergonha de uma Nação"
 ---
 Antes que me perguntem, gosto das duas performances de Scarface no Cinema. Al Pacino é um cubano crível e o roteiro de Oliver Stone dá tempo para vermos o personagem maturar em sua ascenção e declínio como rei do crime. Não dá para fingir que ele não se inspirou, pelo menos levemente, na performance do filme original. Porém, grande ator que é, Pacino consegue sempre impregnar de naturalidade seus personagens.

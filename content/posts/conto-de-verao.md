@@ -1,7 +1,7 @@
 ---
 date: "2020-05-16"
 link: "https://www.imdb.com/title/tt0115940"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Conto de Verão"
 ---
 Éric Rohmer é o diretor dessa quadrilogia sobre relacionamentos, onde cada título se passa em uma estação do ano. O forte dos filmes desta coleção de contos é o quão realista é a abordagem. Rohmer nos coloca direto em cena, em um lugar movimentado e com pessoas reais. Os cenários possuem vida própria porque não devem nada ao que acontece lá fora. Seus personagens somos praticamente nós ou alguém que conhecemos. É menos um roteiro e mais uma percepção sensível de relacionamentos humanos.

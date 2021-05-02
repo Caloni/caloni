@@ -1,7 +1,7 @@
 ---
 date: "2019-06-19"
 link: "https://www.imdb.com/title/tt0083658"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Blade Runner: O Caçador de Androides"
 ---
 Blade Runner obviamente não é sobre o Caçador de Andróides, nem se você considerar o possível plot twist das entrelinhas, mas sobre a existência desses seres idênticos aos humanos, mas com as emoções ainda a serem criadas. Também é sobre como um único filme tem tantas versões, onde basicamente apenas uma cena envolvendo um unicórnio faz toda a diferença.

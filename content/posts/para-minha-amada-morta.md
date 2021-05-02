@@ -1,7 +1,7 @@
 ---
 date: "2016-03-29"
 link: "https://www.imdb.com/title/tt3806654"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Para Minha Amada Morta"
 ---
 Para Minha Amada Morta é um filme que começa como drama, mas logo se revela um thriller psicológico envolvente. Não se trata muito de ação, mas de possibilidades. E dentro das possibilidades, a de fazer o mal é onde o filme impera, evocando em seus momentos sempre a questão: o que ele irá fazer em seguida?

@@ -1,7 +1,7 @@
 ---
 date: "2010-08-03"
 title: Como achar o código-fonte sem símbolos
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 Continuo escovando bits. Dessa vez de forma mais nervosa. Se trata de um serviço que trava durante seu stop. Um colega muito esperto do suporte gerou um dump para mim, tornando as coisas mais fáceis. O problema era que não havia símbolos nem código-fonte que batessem exatamente com aquela compilação de 2004. Solução? Analisar as pilhas das threads restantes.
 

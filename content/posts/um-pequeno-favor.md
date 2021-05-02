@@ -1,7 +1,7 @@
 ---
 date: "2019-02-02"
 link: "https://www.imdb.com/title/tt7040874"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Um Pequeno Favor"
 ---
 Minha colega de profissão no CinemAqui, Mariana González, me recomendou Um Pequeno Favor o chamando de "quase uma versão comédia doida de Garota Exemplar". E agora me sumiram melhores palavras para definir esse filme de Paul Feig. Mas eu vou tentar.

@@ -1,7 +1,7 @@
 ---
 date: "2018-10-09"
 link: "https://www.imdb.com/title/tt5607096"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Juliet, Nua e Crua"
 ---
 É curioso ver o ator de IT Crowd, Chris O'Dowd, fazendo um romance dramático, um pouco longe da série de humor onde é mais conhecido. Ele consegue estabelecer um personagem que para mim é a grande questão de "Juliet, Naked": quando a emoção por algum motivo fala mais alto nosso senso crítico fica gravemente abalado.

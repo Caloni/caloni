@@ -1,7 +1,7 @@
 ---
 date: "2017-04-04"
 link: "https://www.imdb.com/title/tt4715290"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Filhos de Bach"
 ---
 Filhos de Bach, uma co-produção entre Brasil e Alemanha, é um filme que tenta alçar voo muitas vezes, mas parece sempre ser sabotado por sua história episódica, que também é simplista e desonesta. Tudo pelo objetivo de tentar mostrar duas culturas bem diferentes entre si, além de uma aparente visão social.

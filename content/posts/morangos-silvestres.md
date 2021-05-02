@@ -1,7 +1,7 @@
 ---
 date: "2016-01-05"
 link: "https://www.imdb.com/title/tt0050986"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Morangos Silvestres"
 ---
 Os filmes de Ingmar Bergman tem um efeito hipnótico que é difícil se desvencilhar. Pelo menos para mim. Todo filme que assisto dele, quase morro de sono.

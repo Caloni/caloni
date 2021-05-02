@@ -1,7 +1,7 @@
 ---
 date: "2014-04-02"
 link: "https://www.imdb.com/title/tt0091042"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Curtindo a Vida Adoidado"
 ---
 O diretor/produtor/roteirista John Hughes (Gatinhas e Gatões, Clube dos Cinco) é a cara da juventude da década de 80 e consegue expressar isso em cada um de seus filmes que aborda temas recorrentes entre os jovens. A consequência disso é que seus trabalhos daquela época se universalizaram, tanto que hoje temos fãs incondicionais de Ferris Bueller nascendo após ele sair do colégio. Não é difícil entendê-los. Assistir hoje à Curtindo a Vida Adoidado é poder captar sua mensagem sobre a vida sob o ponto de vista adolescente, mas, acima de tudo, o ponto de vista humano.

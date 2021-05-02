@@ -1,7 +1,7 @@
 ---
 date: "2020-09-06"
 link: "https://www.imdb.com/title/tt0322629"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Houve uma Vez Dois Verões"
 ---
 Meninas virgens costumam ter o que vulgarmente se conhece como "amor de pica", que é quando ela não consegue largar o garoto que a desvirginou; para o resto de sua vida. Trágico. Em contrapartida, Houve Uma Vez Dois Verões parte da história de um menino virgem que tem uma única noite com a garota perfeita, jogadora de fliperama, e desenvolve o que chamaríamos por tabela, e também vulgarmente, de "amor de xana".

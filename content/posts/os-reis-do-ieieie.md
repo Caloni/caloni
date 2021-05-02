@@ -1,7 +1,7 @@
 ---
 date: "2015-12-12"
 link: "https://www.imdb.com/title/tt0058182"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Os Reis do Ié-Ié-Ié"
 ---
 "Um filme é um documentário de sua época", dizia um crítico cujo nome não me recordo. No caso de "A Hard Day's Nigh", cinquenta anos depois, isso não poderia ser mais verdade.

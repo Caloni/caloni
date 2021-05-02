@@ -1,7 +1,7 @@
 ---
 date: "2014-01-18"
 link: "https://www.imdb.com/title/tt0494834"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Paixão Proibida"
 ---
 Esse drama-romance se passa no século 19, onde viajar pelo mundo não era agradável, nem rápido, nem seguro. A forma como são retratadas as longas viagens que o protagonista (Michael Pitt) faz em busca de ovos do bicho-da-seda pela África e, principalmente, pelo Japão, são o ponto forte da trama.

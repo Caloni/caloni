@@ -1,7 +1,7 @@
 ---
 date: "2016-10-12"
 link: "https://www.imdb.com/title/tt1289401"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Caça-Fantasmas"
 ---
 Os caça-fantasmas continua sendo uma ótima ideia em seu remake, protagonizado agora pelas meninas. Elas são espontâneas e fazem funcionar muitas das cenas do roteiro capenga escrita a várias mãos, com diálogos e piadas engraçadinhas. Os efeitos visuais atraem, mas não tanto quanto o conceito. E esse... continua tão novo como se tivesse sido lançado esse ano.

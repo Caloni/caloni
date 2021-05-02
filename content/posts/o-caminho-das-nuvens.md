@@ -1,7 +1,7 @@
 ---
 date: "2020-04-28"
 link: "https://www.imdb.com/title/tt0379199"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Caminho das Nuvens"
 ---
 Você sabe sobre o que é essa história? Se souber me avise. Avise o diretor, também. No começo se diz que é baseado em fatos reais. Ele conta a história de uma família que viaja de bicicleta pelo país inteiro porque o marido quer um emprego de mil reais. A direção é de um vídeo-clipe que marca a virada do século. É um road movie com pontos turísticos religiosos que se escondem porque a mensagem é muito vaga sobre o que isso significa.

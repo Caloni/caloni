@@ -1,7 +1,7 @@
 ---
 date: "2008-02-13"
 title: "Funky do-while"
-tags: [ "english", "code" ]
+categories: [ "english", "code" ]
 ---
 It's a known habit to use do-while constructions when there's a need to define a macro that has more than one command instead of using the { simple multicommand brackets }. What was never clear is why this is so.
 

@@ -1,7 +1,7 @@
 ---
 date: "2012-12-30"
 link: "https://www.imdb.com/title/tt1772341"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Detona Ralph"
 ---
 Detona Ralph é daqueles filmes que apelam para o saudosismo dos mais velhos, e do seu choro fácil, mas não deixa de lado a história, aproveitando ao máximo o tema que tanto desperta fascínio hoje em dia para os quarentões e trintões que jogavam aqueles joguinhos de fliperama com um ou dois botões.

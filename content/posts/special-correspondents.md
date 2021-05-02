@@ -1,7 +1,7 @@
 ---
 date: "2016-05-22"
 link: "https://www.imdb.com/title/tt4181052"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Special Correspondents"
 ---
 Ricky Gervais arrisca pouco, mas ganha. Special Correspondents tem a cara e o gosto do diretor/roteirista em suas inúmeras comédias (The Office, Derek, Life is Too Short), mas por se tratar de um longa-metragem, evita a batidíssima câmera na mão e tenta criar uma ficção de fato.

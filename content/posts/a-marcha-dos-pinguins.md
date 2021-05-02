@@ -1,7 +1,7 @@
 ---
 date: "2019-01-20"
 link: "https://www.imdb.com/title/tt0428803"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Marcha dos Pinguins"
 ---
 Um documentário sobre o pinguim imperador, que vive no polo sul e que possui um frágil mecanismo para se reproduzir, que requer o comprometimento do macho e da fêmea da relação. A diferença? O filme é narrado como uma historinha contada por uma dessas famílias de pinguins.

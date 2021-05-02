@@ -1,7 +1,7 @@
 ---
 date: "2016-10-17"
 link: "https://www.imdb.com/title/tt3322314"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Luke Cage"
 ---
 

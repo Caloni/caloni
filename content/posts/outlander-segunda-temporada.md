@@ -1,7 +1,7 @@
 ---
 date: "2017-07-27"
 link: "https://www.imdb.com/title/tt3006802"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Outlander - Segunda Temporada"
 ---
 A segunda temporada de Outlander mantém as mesmas virtudes da primeira -- figurino, direção de arte, fotografia -- e ainda melhora a atuação. Concentrado em tentar entregar sempre alguma mudança, por menor que seja, em cada episódio, esta parte da série consegue quase sempre evocar a já bem estabelecida atmosfera de seu início, mas se mantém fraco na tensão de seus dramas, e desperdiça seu maior mote: a luta do dia-a-dia pela mudança do destino.

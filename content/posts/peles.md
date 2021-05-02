@@ -1,7 +1,7 @@
 ---
 date: "2017-04-21"
 link: "https://www.imdb.com/title/tt5808778"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Peles"
 ---
 Um filme necessário para os negadores da estética objetiva. Aqueles que dizem que "não existe feio" ou que tudo é subjetivo. Porém, este é um filme pesadíssimo, onde uma moça tem sua parte traseira na cara, uma menina sem olhos é mantida em cativeiro e dois deformados se amam e fazem sexo. As cenas são tão pesadas que colorir toda aquela realidade de rosa e roxo parece inevitável. Pelo menos tenta disfarçar a miséria da vida e a miséria que somos como humanidade.

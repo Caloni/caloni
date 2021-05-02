@@ -1,7 +1,7 @@
 ---
 date: "2014-10-23"
 link: "https://www.imdb.com/title/tt2209764"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Transcendence: A Revolução"
 ---
 Tecnologia, consciência, religião, internet, conectividade, ecologia, inteligência artificial, moral, ética, filosofia, existência, nanotecnologia, computação quântica, privacidade, realidade virtual: todos representados em Transcendence, primeiro trabalho de direção de Wally Pfister, fotógrafo habitual dos trabalhos de Christopher Nolan (que aqui assina a produção) e primeiro trabalho de roteiro de Jack Paglen, um roteiro que já figurava na Black List: a lista hollywoodiana dos roteiros famosos que nunca são produzidos.

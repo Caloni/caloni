@@ -1,7 +1,7 @@
 ---
 date: "2011-03-01"
 title: VTable
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 Acho que na breve história desse blogue nunca contei a história do vtable. No máximo fizemos um [hookzinho nos métodos de um componente COM](http://www.caloni.com.br/hook-de-com-no-windbg). Mas só.
 

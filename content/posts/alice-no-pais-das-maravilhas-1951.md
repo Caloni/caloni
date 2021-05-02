@@ -1,7 +1,7 @@
 ---
 date: "2011-11-13"
 link: "https://www.imdb.com/title/tt0043274"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Alice no País das Maravilhas (1951)"
 ---
 Tantos roteiristas, tantos adiamentos e tanta dúvida sobre se esse projeto seria viável valeram a pena. A versão de Alice de 1951, conduzida por perto pelo próprio Walt Disney, é irretocável do começo ao fim. É o tipo de filme que encanta por nunca ter envelhecido, de fato, e pela sua riqueza nos detalhes visíveis e invisíveis.

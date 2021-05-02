@@ -1,7 +1,7 @@
 ---
 date: "2020-05-19"
 link: "https://www.imdb.com/title/tt0137439"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Conto de Outono"
 ---
 É época da colheita de uvas para fazer vinho e este filme de Éric Rohmer fala sobre personagens mais maduros, que já envelheceram o suficiente para saberem exatamente o que querem e terem um gosto mais complexo na boca.

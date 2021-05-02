@@ -1,7 +1,7 @@
 ---
 date: "2019-02-10"
 link: "https://www.imdb.com/title/tt0101921"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Tomates Verdes Fritos"
 ---
 Eu me lembro de ter visto esse filme com minha mãe após ter alugado um DVD na locadora. O que ficou na minha mente por décadas foi a ternura com que a história se desenvolvida. Este é um drama no sentido clássico do gênero. Ele tenta fazer um apanhado histórico nos dando apenas a voz dos oprimidos e seus salvadores. Ou seja, ele é completamente manipulador. Mas é tão tentador acreditar em uma realidade em que só existem opressores e oprimidos. Até hoje em dia tem gente que defende isso.

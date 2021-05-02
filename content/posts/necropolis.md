@@ -1,7 +1,7 @@
 ---
 date: "2019-04-22"
 link: "https://www.imdb.com/title/tt9893572"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Necrópolis"
 ---
 Esta série é um bom exemplo de como fazer conteúdo engraçado sem pretensão alguma e um orçamento menor ainda que a pretensão e ficar bom. Bom, bom eu não diria. Ele fica exatamente como você esperaria que ficasse um vídeo com você e seus amigos em uma tarde preguiçosa e criativa.

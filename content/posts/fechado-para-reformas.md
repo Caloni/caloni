@@ -1,6 +1,6 @@
 ---
 date: "2020-05-19"
-tags: [ "blog" ]
+categories: [ "blog" ]
 title: "Fechado Para Reformas"
 ---
 Quase três mil posts durante quinze anos nessa vida de blogue e percebo que chegou a hora de atingir a maioridade. Escrever um rascunho e publicá-lo na internet não me torna melhor escritor que qualquer YouTuber de primeira viagem que não edita seu conteúdo ou tuítes que simplificam o pensamento humano de tal forma que ele parece totalmente válido ou inválido. Perde-se as nuances. A voz do autor fica solta demais para ser relevante nesse mar de informação que nos afogamos todos os dias (e noites).

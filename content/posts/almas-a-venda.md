@@ -1,7 +1,7 @@
 ---
 date: "2010-06-09"
 link: "https://www.imdb.com/title/tt1127877"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Almas à venda"
 ---
 Esse filme escrito e dirigido pela estreante Sophie Barthes tenta usar o conceito de alma mais ou menos como um órgão transplantado, mas muito mais flexível, já que é possível usar a alma de outras pessoas para potencializar áreas na vida em que se é um zero à esquerda. Aí é que entra Paul Giamatti que interpreta... Paul Giamatti! Ele está com problemas com uma nova peça e resolve trocar de alma por uma que seja compatível com o personagem que tenta interpretar.

@@ -1,7 +1,7 @@
 ---
 date: "2013-10-18"
 link: "https://www.imdb.com/title/tt0072684"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Barry Lyndon"
 ---
 Stanley Kubrick era conhecido pela dedicação sobre-humana em seus projetos, fazendo com que vários deles se estendesse por anos a fio. Esse preciosismo é o que gerou trabalhos debatidos até hoje como se tivessem sido lançados nessa semana, denotando a aparente imortalidade de suas obras. Em Barry Lyndon, ao pretender contar a história do personagem-título, mas que está inserido em uma época sem eletricidade, resolve utilizar apenas a luz natural em suas tomadas, incluindo cenas noturnas iluminadas por velas. Por conta disso precisa de um filme ultrassensível, algo inédito e inovador. Além de desenvolver a tecnologia da fotografia para o Cinema consegue então um efeito surpreendente: os personagens parecem se mover por quadros pintados da época. É o fenômeno de uma arte estática ganhando vida através da arte do movimento.

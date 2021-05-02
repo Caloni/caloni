@@ -1,7 +1,7 @@
 ---
 date: "2021-04-04"
 link: "https://www.imdb.com/title/tt3498252"
-tags: [ "draft", "animes" ]
+categories: [ "draft", "animes" ]
 title: "Inferno Cop"
 ---
 Está é uma sucinta e viciante ONA (Original Net Animation) dos Studios Trigger, os mesmos dos instigantes [Kill La Kill] e [Space Patrol Luluco]. Ela vicia por ser curta e não ser repetitiva. Lembra um pouco os devaneios de trabalhos experimentais como [Kung Fury], mas com coesão e sem apelar para as memórias populares do trash. É uma história simples com profundidade criativa sem se preocupar em ferir mentes e gostos. Foi um dos 30 animes banidos recentemente da China, o que apenas aumenta seu status.

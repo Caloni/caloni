@@ -1,7 +1,7 @@
 ---
 date: "2014-06-12"
 link: "https://www.imdb.com/title/tt0492044"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Evocando Espíritos"
 ---
 Evocando espíritos é uma história de terror que consegue unir espiritismo com câncer, além de no processo conseguir boas sequências que unem a história de um garoto sensitivo nos tempos atuais com um garoto ainda mais sensitivo que participou de um experimento além-vida que causou muita dor e sofrimento represada na casa que a família acabou de se mudar.

@@ -1,7 +1,7 @@
 ---
 date: "2011-07-01"
 link: "https://www.imdb.com/title/tt0970866"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Entrando Numa Fria Maior Ainda com a Família"
 ---
 Filme um pouco mais recatado que os outros da série, traz piadas mais contidas, um senso mais família, com De Niro no automático e Ben Stiller pouco inspirado em suas caretas.

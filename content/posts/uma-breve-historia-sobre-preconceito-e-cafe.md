@@ -1,6 +1,6 @@
 ---
 date: "2021-02-15"
-tags: [ "food" ]
+categories: [ "food" ]
 title: "Uma Breve História Sobre Preconceito (e Café)"
 ---
 Eu me lembro de vídeos antigos de moedores de café manuais em que o sujeito fica 10 minutos no YouTube girando aquela matraca até conseguir tirar de alguns grãos de café o pó para seu cafezinho matinal. Fiquei com a impressão de que todo moedor manual era assim e desisti na hora de ter um, optando por um elétrico.

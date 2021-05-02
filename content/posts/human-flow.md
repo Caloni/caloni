@@ -1,7 +1,7 @@
 ---
 date: "2017-10-20"
 link: "https://www.imdb.com/title/tt6573444"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Human Flow"
 ---
 Human Flow é um documentário em seu formato clássico. Provavelmente as 300 horas de filmagens do projeto servirão de acervo sobre a grande imigração de nosso tempo. E provavelmente as pouco mais de duas horas de filme serão lembrados dessa forma, também.

@@ -1,7 +1,7 @@
 ---
 date: "2014-06-11"
 link: "https://www.imdb.com/title/tt1587310"
-tags: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , "cinemaqui" ]
 title: "Malévola"
 ---
 Olhando para Angeline Jolie, com suas curvas de beleza grega, seus lábios que já fizeram muitos marmanjos -- desde Hackers -- suspirarem, fica difícil imaginá-la como uma das vilãs mais macabras de uma história Disney. Porém, lembrando dos recentes sucessos de Espelho, Espelho Meu (Julia Roberts) e o mais enigmático Branca de Neve e o Caçador -- onde Charlize Teron rouba praticamente o filme inteiro -- a ideia já não parece tão absurda. E no caso da relação entre a bruxa que dá título ao filme e a Bela Adormecida há algo de novo que a Disney vem tentando fazer, cujo melhor exemplo hoje em dia é a animação Frozen: a mulher não é mais o lado mais fraco, mas o lado que decide. E qual melhor atriz para esse papel do que a bela "Angeline ativista Jolie", um ser humano que não discursa em vão, mas que de fato ajuda os mais necessitados?

@@ -1,7 +1,7 @@
 ---
 date: "2017-10-29"
 link: "https://www.imdb.com/title/tt0102492"
-tags: [ "movies", "home" ]
+categories: [ "movies", "home" ]
 title: "Meu Primeiro Amor"
 ---
 A morte pode ser um catalisador de emoções. Através dela passamos por uma transformação dentro de nós que ao mesmo tempo que nos enfraquece pela dor insuportável também nos fortalece pela nossa capacidade de sobreviver. E no fim de um processo de luto algo maravilhoso acontece: voltamos para a vida mais fortes. De vez em quando iremos mexer nessa ferida do passado, e certamente irá sangrar. Mas é através desse sangue que fazemos novos pactos com os que ainda estão vivos. Porque no fundo de todos nós não há muitas diferenças. Somos humanos; estamos condenados a viver sabendo que um dia iremos morrer. Ou pior: os que nos cercam também irão.

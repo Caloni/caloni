@@ -1,7 +1,7 @@
 ---
 date: "2016-01-21"
 title: "Log de chamadas API direto do WinDbg"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 Há [muito tempo atrás](/introducao-ao-debugging-tools-for-windows/) eu havia falado sobre como a ferramenta logger.exe, do Debugging Tools for Windows, poderia ser usada para gerar um arquivo de log com centenas de APIs detalhadas em sua chamada, como parâmetros de entrada, retorno e tempo. Bom, testando isso hoje, me veio à lembrança o artigo e também a constatação que o logger é muito instável. Tão instável que não consegui logar as APIs que desejava nas inúmeras tentativas que fiz. Isso em um Windows XP!
 

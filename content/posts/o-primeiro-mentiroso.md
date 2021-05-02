@@ -1,7 +1,7 @@
 ---
 date: "2018-07-20"
 link: "https://www.imdb.com/title/tt1058017"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Primeiro Mentiroso"
 ---
 Esta é daquelas comédias que tem o humor de comediantes de standup, mas que deu certo. Bom, Rick Gervais dificilmente dá errado. Aqui ele parte de uma história original, o que é louvável, pois ela é mais complicada de desenvolver do que parece. E cai no lugar-comum porque ele não é um roteirista de primeira.

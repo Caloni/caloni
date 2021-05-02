@@ -1,7 +1,7 @@
 ---
 date: "2015-09-13"
 link: "https://www.imdb.com/title/tt3398268"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Quando Estou Com Marnie"
 ---
 Mais um dos filmes dos estúdios Ghibli (em que um dos fundadores é Hayao Miyazaki) que já estreou há mais de um ano no Japão e aqui custa a aparecer uma distribuidora decente. Aliás, vamos combinar: não existe distribuidora confiável em solo nacional.

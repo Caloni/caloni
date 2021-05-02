@@ -1,7 +1,7 @@
 ---
 date: "2016-07-20"
 link: "https://www.imdb.com/title/tt0085794"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Rei da Comédia"
 ---
 Martin Scorsese apresenta uma comédia de humor negro estrelando Robert de Niro e Jerry Lewis, se bem que o humor não é tão negro assim. Ele brinca com o absurdo do show business e seus candidatos à fama apresentando Rupert Pupkin (de Niro), um aspirante a comediante que aos 34 anos ainda vive com a mãe (Catherine Scorsese, mãe do diretor) e que nunca trabalhou um minuto sequer em sua carreira. No entanto, coleciona autógrafos de comediantes famosos (de acordo com ele, Marylin Monroe não era boa atriz, mas tinha jeito para a comédia) e persegue o astro do humor televisivo Jerry Langford (Lewis), além de ter um palco em casa onde ensaia o seu grande show de televisão, assim que conseguir um.

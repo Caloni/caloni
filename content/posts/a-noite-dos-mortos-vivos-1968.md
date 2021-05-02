@@ -1,7 +1,7 @@
 ---
 date: "2012-05-07"
 link: "https://www.imdb.com/title/tt0063350"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Noite dos Mortos-Vivos"
 ---
 Filmado com um orçamento apertado, mas empenhado na construção da tensão e do imaginário ao máximo. Romero começa sua carreira criando um marco no terror absurdo, e ao mesmo tempo cria uma mitologia em cima dos mortos-vivos do título: eles viram os famigerados zumbis, criaturas derivadas de humanos que morreram e voltaram a caminhar sobre a terra. Lentos e trôpegos, conseguem muitas vezes ganhar em inteligência e sagacidade dos atônitos humanos vivos.

@@ -1,6 +1,6 @@
 ---
 date: "2007-06-29"
-tags: [ "code" ]
+categories: [ "code" ]
 title: "A Inteligência do if: Parte 2"
 ---
 Vimos na [primeira parte] desse artigo como o if revolucionou o mundo da computação ao trazer um salto que depende de condições anteriores e, portanto, depende do estado do programa. A ele chamamos de salto condicional. Também vimos como o resto das construções lógicas de uma linguagem são apenas derivações montadas a partir de saltos condicionais e incondicionais. Nesta segunda parte veremos como implementar um saldo condicional baseando-se no fato de que o computador pode apenas realizar operações matemáticas. Afinal de contas, um computador não "pensa".

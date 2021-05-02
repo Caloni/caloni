@@ -1,7 +1,7 @@
 ---
 date: "2019-09-09"
 link: "https://www.imdb.com/title/tt8075192"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Assunto de Família"
 ---
 O que é uma família? O que transforma os laços de sangue em laços afetivos? Apenas o costume de ter essas pessoas junto de você? Para responder podemos apelar para a herança e as semelhanças genéticas, e não me refiro apenas à aparência, mas comportamento. Para alguns a resposta é óbvia: todos vivem na mesma casa. E se fizermos um teste de regressao concluiremos que não temos como escolher com quem passaremos os primeiros anos de nossa vida. Essa sensação gera um pouco de impotência, se for pensar.

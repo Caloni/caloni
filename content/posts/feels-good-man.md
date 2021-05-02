@@ -1,7 +1,7 @@
 ---
 date: "2020-11-01"
 link: "https://www.imdb.com/title/tt11394182"
-tags: [ "cinemaqui", "movies" ]
+categories: [ "cinemaqui", "movies" ]
 title: "Feels Good Man"
 ---
 Feels Good Man é hilário, e o motivo disso é, por essas ironias do destino, o próprio tema desenvolvido no filme: um personagem de cartoon vira meme na internet e, sendo usado como símbolo por grupos de reclusos sociais, se torna o motivo principal pelo qual Donald Trump se tornou presidente dos EUA. Sim, isso mesmo que você leu. É ou não é para dar risada de pé, membros da Igreja do Santo Meme?

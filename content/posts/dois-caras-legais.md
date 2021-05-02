@@ -1,7 +1,7 @@
 ---
 date: "2016-07-28"
 link: "https://www.imdb.com/title/tt3799694"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Dois Caras Legais"
 ---
 Shane Black (Beijos e Tiros, Homem de Ferro 3) costuma usar com eficiência o humor negro, além de brincar com situações bizarras entre seus personagens. Em Dois Caras Legais, essa situação fica ainda mais bizarra pela caracterização tão peculiar dos anos 70. São anos 70 de brincadeira, da geração pera-com-leite. Russell Crowe e Ryan Gosling são ótimos na química, mas não precisava colocar bigode, óculos escuros e uma conspiração capitalista, OK?

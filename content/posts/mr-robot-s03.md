@@ -1,7 +1,7 @@
 ---
 date: "2018-02-27"
 link: "https://www.imdb.com/title/tt4158110"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Mr Robot: Terceira Temporada"
 ---
 Seria um spoiler dizer que esta temporada de Mr. Robot terá ou não, como as duas temporadas anteriores, uma reviravolta no final? Bom, é como esse novo personagem diz: uma história pode começar morna, ter um meio medíocre, mas o final... precisa ser surpreendente. Então faça as contas.

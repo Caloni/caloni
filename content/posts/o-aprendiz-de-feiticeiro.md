@@ -1,7 +1,7 @@
 ---
 date: "2010-08-13"
 link: "https://www.imdb.com/title/tt0963966"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Aprendiz de Feiticeiro"
 ---
 E aqui vamos nós para mais um filme bonitinho, emocionante e formatado nos últimos padrões que a Disney recomenda para que tenhamos mais uma possível franquia seguindo os modelos razoavelmente bem sucedidos dos Piratas do Caribe e Crônicas de Nárnia, e também a futura promessa do Príncipe da Pérsia.

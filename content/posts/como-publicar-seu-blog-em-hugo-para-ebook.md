@@ -1,7 +1,7 @@
 ---
 date: 2019-07-10T00:08:25-03:00
 title: "Como Publicar Seu Blog Em Hugo Para Ebook"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 desc: "Dicas de como publicar o conteúdo que você escreve em um formato simples de guardar."
 ---
 Eu publico meu blog inteiro de tempos em tempos para um ebook que construo formatando primeiro em html através de um tema do [Hugo](https://gohugo.io/), o parser de blog que estou usando no momento porque ele suporta 2500 posts sem reclamar. É uma receita simples de sucesso se você precisar ter todo seu conteúdo indexado para rápida referência ou leitura cronológica.

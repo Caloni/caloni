@@ -1,6 +1,6 @@
 ---
 date: "2011-07-07"
-tags: [ "draft" ]
+categories: [ "draft" ]
 title: "E foi-se o TDC"
 ---
 Dessa vez, talvez pelo dia de semana, havia poucos participantes. Isso, contudo, não evitou que o conteúdo e a qualidade das palestras fosse, como sempre, de alto nível.

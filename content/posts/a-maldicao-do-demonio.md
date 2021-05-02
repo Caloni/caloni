@@ -1,7 +1,7 @@
 ---
 date: "2015-08-11"
 link: "https://www.imdb.com/title/tt00054067"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Maldição do Demônio"
 ---
 Acabei assistindo este pequeno clássico de terror italiano em inglês (na Netflix americana), mas pouco se perde quando vemos que o visual arrebatador de sombras e efeitos até que competentes (ainda hoje) consegue subverter o sensual para o escatológico com uma facilidade que parece torná-los indissociáveis. Quer mais terror que isso?

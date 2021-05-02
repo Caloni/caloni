@@ -1,7 +1,7 @@
 ---
 date: "2017-07-31"
 link: "https://www.imdb.com/title/tt2463288"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Minha Casa Caiu"
 ---
 Este é mais um daqueles filmes da safra de filmes sobre mulheres. Mas não é um comrom, e sim uma comédia escrachada sobre os absurdos de uma repórter que deseja o cargo de âncora de um jornal importante da região que até então tinha apenas em seu currículo de gafes ser atacada por gatos.

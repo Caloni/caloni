@@ -1,7 +1,7 @@
 ---
 date: "2015-03-22"
 link: "https://www.imdb.com/title/tt2382298"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Life Itself - A Vida de Roger Ebert"
 ---
 Life Itself é uma experiência divertida e monótona ao mesmo tempo. Divertida porque acompanhamos a vida de Rober Ebert -- um dos críticos mais famosos e conceituados no mundo, falecido em 2013 -- desde quando começou a escrever. E o sujeito era um... como dizer isso sem soar xulo? Porra-louca. Estava sempre no bar, saía com mulheres não-convencionais na maioria das vezes, e virou um alcóolatra crônico. Ou seja: o estereótipo de um escritor bem-sucedido.

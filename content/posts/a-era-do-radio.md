@@ -1,7 +1,7 @@
 ---
 date: "2019-01-29"
 link: "https://www.imdb.com/title/tt0093818"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Era do Rádio"
 ---
 Woody Allen pode ser uma caixinha de surpresas para quem apenas espera comédia em seus filmes. Se Meia Noite em Paris é seu filme saudosista mais bem sucedido, A Era do Rádio é o seu trabalho mais fofo. E dizer isso de Allen já me é uma surpresa e tanto.

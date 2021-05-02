@@ -1,6 +1,6 @@
 ---
 date: "2017-05-28"
-tags: [ "draft", "books" ]
+categories: [ "draft", "books" ]
 title: "Os Axiomas de Zurique"
 ---
 A primeira coisa que se aprende de verdade quando se fala em finanças pessoais é que tudo é especulação. Isso você aprende em um livrinho que li há muito tempo atrás. Li vários desses de finanças na minha "fase investidor", antes de programar para o mercado financeiro, mas o inesperadamente mais útil de todos, que li e reli incontáveis vezes, foi Axiomas de Zurique. E ele é um livrinho pequeno, de bolso e de ficção, que conta alguns causos divertidos e joga algumas noções que vão contra tudo e contra todos os conselhos mais reafirmados de toda a história de Wall Street. No entanto, são geralmente esses conselhos que fazem mais sentido na hora que os sinos dobram. Aqui vai a lista dos axiomas, em um parágrafo só, zipado, concentrado e poderoso:

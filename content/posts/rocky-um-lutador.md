@@ -1,7 +1,7 @@
 ---
 date: "2015-03-17"
 link: "https://www.imdb.com/title/tt0075148"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Rocky: Um Lutador"
 ---
 O primeiro Rocky, o projeto de estreia de Sylvester Stallone, hoje poderia até soar piegas. Porém, a sinceridade em sua história o coloca acima de classificações. É um filme de sobrevivente. Um marco no Cinema e na vida. Sua luta final é coreografada, editada e ritmada de uma maneira a se tornar a "luta do século", mas não é isso o que a torna especial, mas toda a história que a carrega.

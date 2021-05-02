@@ -1,7 +1,7 @@
 ---
 date: "2013-07-13"
 link: "https://www.imdb.com/title/tt0210843"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Mesmo Amor, a Mesma Chuva"
 ---
 Juan José Companella dirige pela primeira vez o casal d[O Segredo dos Seus Olhos], Ricardo Darín e Soledad Villamil, em um romance leve, episódico e que brinca com as palavras ao vento que digerimos conforme a passagem do tempo faz as pessoas mudarem sua visão de mundo, assim como uma Argentina dos anos 80 em amplas modificações políticas e sociais.

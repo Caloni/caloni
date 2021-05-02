@@ -1,7 +1,7 @@
 ---
 date: "2016-11-17"
 link: "https://www.imdb.com/title/tt1181840"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Jack e a Mecânica do Coração"
 ---
 Esta animação é a conquista emo e gótica ao mesmo tempo. Feito com um apuro artístico incomum para produções de baixo orçamento, a história possui um clima pessimista, romântico e inalcançável que crianças não irão gostar, e muito menos adultos não muito afeitos a água com açúcar.

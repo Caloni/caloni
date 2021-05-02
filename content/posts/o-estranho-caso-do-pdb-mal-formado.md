@@ -1,7 +1,7 @@
 ---
 date: "2015-08-19"
 title: "O Estranho Caso do PDB Mal-Aformado"
-tags: [ "draft", "code" ]
+categories: [ "draft", "code" ]
 ---
 Era uma vez, há 13 anos atrás, um tal de Visual Studio .NET, que iria trazer a felicidade para nós, meros mortais usuários de programinhas em C com ponteiro pra lá e ponteiro pra cá. Agora a Microsoft traria para o pessoal do "baixo nível" a mais nova novidade do verão: uma IDE lenta, bugada e... bonita?
 

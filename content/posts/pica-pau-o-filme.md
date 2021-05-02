@@ -1,7 +1,7 @@
 ---
 date: "2017-11-06"
 link: "https://www.imdb.com/title/tt2114504"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Pica Pau: o Filme"
 ---
 Em todos esses anos dessa indústria vital, essa é a primeira vez que isso me acontece. Nem os novos desenhos politicamente corretos do pica-pau de cabeça vermelha estragaram a magia. Mas este "Pica-Pau: A Animação de Computador da Década de 90" de fato consegue nos fazer renegar que esse passarinho biruta tem qualquer relação com os desenhos originais.

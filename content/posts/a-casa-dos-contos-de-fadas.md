@@ -1,7 +1,7 @@
 ---
 date: "2016-01-30"
 link: "https://www.imdb.com/title/tt1429430"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Casa dos Contos de Fadas"
 ---
 Eleanor's Secret é uma animação francesa desenhada como se fossem ilustrações de um livro... de contos de fadas. É um filme relativamente curto sobre uma história que se parece muito também com um conto de fadas. Elementos utilizados no início da história (como um castelo de areia) viram cenários interessantes em uma aventura infantil bem conduzida.

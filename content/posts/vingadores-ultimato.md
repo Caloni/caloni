@@ -1,7 +1,7 @@
 ---
 date: "2019-10-27"
 link: "https://www.imdb.com/title/tt4154796"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Vingadores: Ultimato"
 ---
 Está resolvido o mistério de por que havia tanta preocupação com spoilers vindos dos irmãos Russo, diretores do filme, a respeito de "Vingadores: Ultimato". O clímax desse longa metragem de 3 horas e 1 minuto precisa ser visto em primeira mão, sem nenhum amigo te dizendo o que vai acontecer, porque de outra forma toda a magia construída ao longo desses incontáveis filmes não será a mesma. E se você, fã da Marvel, concorda com o que acabei de dizer, deve concordar também que revisitas a este filme serão inúteis, pois o efeito supostamente catártico que seus idealizadores imaginaram para o grand finale só pode ser aproveitado uma vez apenas, sem spoilers, e isso quer dizer que se você foi correndo assistir à segunda versão lançada logo depois nos cinemas para arrecadar os últimos milhões que faltavam para a quebra do recorde de bilheteria mundial (sem correção inflacionária), deve entender que não foi para seu próprio prazer, pois não ganhou nada além do que já viu. O seu prazer implícito não estava ligado nem à arte nem ao entretenimento, mas em prestar um serviço financeiro a uma corporação que detém a grande maioria do mercado mundial de fantasia, o verdadeiro monopólio de blockbusters deste século, um gigante que em processo semelhante aos Vingadores do filme, também se formou a partir da montagem de vários outros gigantes, um a um, dando origem ao momento que menos requer imaginação nos incríveis efeitos digitais que invadem nossos olhos na telona dos cinemas.

@@ -1,7 +1,7 @@
 ---
 date: "2015-10-02"
 link: "https://www.imdb.com/title/tt4427060"
-tags: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , "cinemaqui" ]
 title: "Beira-Mar"
 ---
 Beira-Mar é aquele lugar onde terra e mar são confundidos, e onde geralmente há uma praia. Categorizar o trabalho que leva esse nome como "filme-gay" é de uma miopia sem tamanho. Seria o mesmo que chamar beira-mar (o local) de 100% terra firme ou de 100% alto mar. Havendo infinitos graus de atração sexual que uma pessoa pode ter, e que costumamos polarizar como gay e hétero, os protagonistas da história flertam com todos eles, como se andassem despreocupadamente pela praia em um passeio matinal.

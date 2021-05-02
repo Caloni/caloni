@@ -1,7 +1,7 @@
 ---
 date: "2015-10-27"
 link: "https://www.imdb.com/title/tt3118874"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Back in Time"
 ---
 Um documentário sobre De Volta para o Futuro possui um timing tão menos empolgante que os filmes que homenageia que soa o tempo todo como uma pegadinha. No entanto, o trabalho do diretor Jason Aron realmente entrevista diversas pessoas envolvidas com a produção dos filmes, os atores, os fãs. Algumas curiosidades são ditas, alguns casos engraçados, mas nada que justifique sua existência a não ser justamente o que Robert Zemeckis negou fazer com uma camiseta "não-De Volta Para o Futuro IV": um caça-níqueis.

@@ -1,7 +1,7 @@
 ---
 date: "2014-10-05"
 link: "https://www.imdb.com/title/tt3069212"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Street Fighter: Assassin's Fist"
 ---
 Minha impressão é que fãs de qualquer coisa avaliam uma adaptação cinematográfica pela proximidade com o material original. Porém, assim como o espectador médio do Cinema, suas prioridades sempre ficam entre a historinha, os atores e a identificação visual, e quase nunca com o "espírito" da obra original. Não sei se assisti à primeira temporada de Street Fighter: Assassin's Fist com atenção o suficiente para discorrer a respeito da série, mas tenho certeza que uma possível comparação que eu fizesse com o jogo em que ele é baseado seria inútil. E isso não é exclusividade deste trabalho: filmes (ou séries) devem ser tratados como uma nova criação que, baseada ou não em elementos com grande potencial narrativo, não tem garantia nenhuma de funcionar no peculiar mecanismo audiovisual que nós, cinéfilos e críticos, estamos dispostos a avaliar -- consciente e inconscientemente -- a cada nova produção assistida.

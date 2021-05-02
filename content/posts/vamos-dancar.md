@@ -1,7 +1,7 @@
 ---
 date: "2019-01-28"
 link: "https://www.imdb.com/title/tt0029546"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Vamos Dançar?"
 ---
 Não é porque é um filme antigo com os dançarinos icônicos Fred Astaire e Ginger Rogers que o filme tem que ser bom. Nesse caso ele é uma bagunça, cheio de plots repetidos, piadas que já perderam a graça já na década de 30 e com muitas poucas cenas de dança. Este é um filme sobre dança e música ou não é?

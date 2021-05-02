@@ -1,7 +1,7 @@
 ---
 date: "2017-12-11"
 link: "https://www.imdb.com/title/tt3402236"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Assassinato no Expresso do Oriente"
 ---
 Hercule Poirot de Kenneth Branagh sem dúvida alguma é uma das melhores caracterizações do personagem de Agatha Christie. Olhe seu perfeito e grandioso (e simétrico!) bigode. Ouça seu sotaque belga definindo sua personalidade através do seu rápido raciocínio e sua maneira de enxergar o mundo. "Existe o certo e o errado. E no meio não há nada." Tire este Poirot e a história e produção irão rápido demais para o filme terminar são e salvo.

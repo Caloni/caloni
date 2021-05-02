@@ -1,7 +1,7 @@
 ---
 date: "2017-03-14"
 title: "Entrando na zona com Windows"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 
 ---
 **Update 2019-03-20: Adicionando programa para fazer tela cheia no Windows e retirados detalhes que não uso mais.**

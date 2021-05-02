@@ -1,7 +1,7 @@
 ---
 date: "2013-10-24"
 link: "https://www.imdb.com/title/tt0049406"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Grande Golpe"
 ---
 A partir da apresentação dos personagens de O Grande Golpe, o diretor Stanley Kubrick vai aos poucos revelando que a "operação" em torno da qual gira o filme está muito bem arquitetada e vem sendo planejada cuidadosamente por todas as partes envolvidas: um tira corrupto, um apostador de cavalos, um barman, um caixa do guichê de apostas, entre tantos outros.

@@ -1,7 +1,7 @@
 ---
 date: "2019-03-20"
 link: "https://www.imdb.com/title/tt6690176"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Quando Margot Encontra Margot"
 ---
 O que você faria se encontrasse sua versão do futuro, teoricamente mais velha e mais sábia, e ela começasse a lhe dar conselhos sobre o que fazer para acertar dessa vez na vida? Quando Margot Encontra Margot é um filme que explora essas possibilidades imaginárias sobre o nosso ser, mas se no começo abre-se um leque de para onde a história pode ir ela aos poucos vai se fechando em torno de algo mais enxuto que volta para o lugar-comum dos romances franceses.

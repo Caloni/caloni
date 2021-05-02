@@ -1,7 +1,7 @@
 ---
 date: "2019-05-28"
 link: "https://www.imdb.com/title/tt0283900"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Albergue Espanhol"
 ---
 Este é um guia de como fazer um filme sobre sensações da juventude, das relações entre conhecidos que com o tempo se tornam algo mais, algo etéreo, que gera sensações fortes; saudades que se carrega pra vida toda, familiaridade com um tempo que não voltará nunca mais.

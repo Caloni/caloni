@@ -1,7 +1,7 @@
 ---
 date: "2007-11-27"
 title: "Carregando DLLs arbitrárias pelo WinDbg ou como escrever script para WinDbg"
-tags: [ "code" ]
+categories: [ "code" ]
 ---
 Como pudemos ver no [artigo anterior] o processo para carregar uma DLL pelo WinDbg é muito extenso, enfadonho e sujeito a erros. Além de desatualizado (com comandos de assembly 32 bits). Por esse motivo, e para tornar as coisas mais divertidas, resolvi transformar tudo aquilo em um simples script que pode ser executado digitando apenas uma linha. Tenha em mente que este artigo continua desatualizado usando assembly 32 bits e hoje é uma mera curiosidade para aprendizado do passado. E se trata do meu primeiro script grande para o WinDbg, por isso, peço que tenham dó de mim =).
 

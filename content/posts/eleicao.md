@@ -1,7 +1,7 @@
 ---
 date: "2015-12-02"
 link: "https://www.imdb.com/title/tt0126886"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Eleição"
 ---
 Esse filme de Alexander Payne (Sideways, Os Descendentes) pode ter passado despercebido na época em que foi lançado, mas uma vez que você o assiste, seus detalhes políticos sórdidos irão infestar sua mente como nunca.

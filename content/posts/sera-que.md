@@ -1,7 +1,7 @@
 ---
 date: "2015-02-14"
 link: "https://www.imdb.com/title/tt1486834"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Será Que?"
 ---
 Uma comédia romântica de um diretor canadense com cheiro de humor britânico. A parte do humor britânico, obviamente, é o que torna tudo mais engraçado. Já chega de assistir àquelas ComRons que tentam blindar o amor contra piadas. Faça-me o favor: esses produtores ganham milhões em cima da reinvenção clichê de um sentimento falso responsável por distorcer boa parte da mente desses zumbis consumidores carentes.

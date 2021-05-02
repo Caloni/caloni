@@ -1,7 +1,7 @@
 ---
 date: "2011-03-14"
 link: "https://www.imdb.com/title/tt1452628"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Mistério da Rua 7"
 ---
 Mensagem de cunho católico no mesmo molde de O Nevoeiro, porém, determinado a sacrificar a história pelo bem de um contra-ataque nada elegante?

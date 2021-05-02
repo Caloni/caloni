@@ -1,7 +1,7 @@
 ---
 date: "2015-12-13"
 link: "https://www.imdb.com/title/tt3715406"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Atari: Game Over"
 ---
 Esse é o tipo de filme que teria tudo para ser inútil, superestimado pelos fãs e um desastre completo, pois possui poucos elementos realmente interessantes nele: temos o Atari, o E.T. e Indiana Jones, coisas totalmente desconexas, além de pouco conteúdo para um filme inteiro. Isso não fosse o trabalho fascinante de "desarquivamento" do filme que une mídia, a empresa Atari, os programadores, os fãs e os dois responsáveis por "desencavar" essa história, e temos como resultado um possível clássico daqui a cinquenta anos -- quem apostaria? -- já que ele estabelece um universo e uma lenda que dificilmente existirão novamente; nunca na geração única dos primeiros players caseiros: uma empresa à beira da falência enterra milhões de cartuchos de seus jogos no aterro da cidade.

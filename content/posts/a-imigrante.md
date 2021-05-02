@@ -1,7 +1,7 @@
 ---
 date: "2016-11-17"
 link: "https://www.imdb.com/title/tt1951181"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Era Uma Vez em Nova York"
 ---
 A Imigrante é filmada como um épico, e apresenta, assim como Era Uma Vez Na América, um retrato depressivo e opressivo da imigração americana no começo do século 19. Além disso, não fornece muitos pontos de escape desse universo angustiante, se tornando portanto uma experiência pesada, ainda que bela e que figurada por grandes atores.

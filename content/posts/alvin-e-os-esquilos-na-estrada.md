@@ -1,7 +1,7 @@
 ---
 date: "2016-01-10"
 link: "https://www.imdb.com/title/tt2974918"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Alvin e os Esquilos: Na Estrada"
 ---
 Como sempre uma boa ideia desperdiçada, a série dos esquilos cantores vai de mal a pior, restando quase apenas seus protagonistas encantadores e coreografias vazias, o que não basta para tornar um filme bom. Consegue no máximo defesas do tipo "mas eles são tão fofinhos" e "as cenas deles cantando são tão boas".

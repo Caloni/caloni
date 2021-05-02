@@ -1,7 +1,7 @@
 ---
 date: "2015-07-28"
 link: "https://www.imdb.com/title/tt0182576"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Family Guy"
 ---
 Depois de mais de 10 anos de sucesso, o sempre interessante Seth MacFarlane (Ted) insiste em piadas sobre eventos passados dos seus personagens, brincadeiras metalinguísticas e regionalismos durante quase todo o tempo. Talvez essa seja a eterna questão da série que já acumula treze temporadas e continua se auto-reciclando em altos e baixos.

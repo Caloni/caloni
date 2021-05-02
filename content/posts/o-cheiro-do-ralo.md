@@ -1,7 +1,7 @@
 ---
 date: "2014-05-31"
 link: "https://www.imdb.com/title/tt0489458"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Cheiro do Ralo"
 ---
 O Cheiro do Ralo fala sobre trocas, ou melhor dizendo, sobre o valor das coisas. Coisas podem se resumir em objetos que possuíam ou não valor sentimental para as pessoas que a oferecem ao Sr. Lourenço (Selton Mello), para receber em troca o dinheiro que, pelo menos naquele momento, é mais valioso que o objeto em si.

@@ -1,7 +1,7 @@
 ---
 date: "2021-03-03"
 link: "https://www.imdb.com/title/tt0045907"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "A Ilusão Viaja de Trem"
 ---
 Esta comédia leve da década de 50 é parte da longa e produtiva filmografia do cineasta Luis Bunuel na época que morava no México e fazia até três filmes por ano. Não é um filme de grande expressão, mas está na lista dos 100 filmes mais importantes produzidos no México, embora em uma das últimas posições.

@@ -1,7 +1,7 @@
 ---
 date: "2015-01-18"
 link: "https://www.imdb.com/title/tt2397535"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Predestinado"
 ---
 Apesar de ser um fã incondicional de Efeito Borboleta, sei que o longa possui alguns defeitos indesculpáveis. Sua lógica interna, como todo instigante filme de viagem no tempo, não foi costurada tão bem a ponto do espectador não se preocupar muito com seus paradoxos, e embora sua maior virtude resida nas possibilidades múltiplas de seus personagens, não existe essa de licença poética no Cinema. Se sua narrativa não consegue ser coesa, suas pontas soltas irão te ferir por dentro.

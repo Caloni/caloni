@@ -1,7 +1,7 @@
 ---
 date: "2017-02-24"
 link: "https://www.imdb.com/title/tt5078326"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Insubstituível"
 ---
 Insubstituível é uma tentativa pálida e sem foco em explorar as dores da medicina, de passar a vida salvando vidas, e se preocupando com elas. Nos apresenta Jean-Pierre (François Cluzet), o médico do interior que descobre que tem câncer, e Nathalie (Marianne Denicourt), a médica que vem para ajudá-lo a atender seus pacientes durante seu tratamento.

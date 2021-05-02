@@ -1,7 +1,7 @@
 ---
 date: "2016-03-13"
 link: "https://www.imdb.com/title/tt1856010"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "House of Cards - Quarta Temporada"
 ---
 A temporada 4 de House of Cards é o que esperaria ver de um Francis Underwood presidente, algo que foi adiado pela pálida temporada anterior, que ainda que tenha seus momentos gloriosos, falha em sua premissa principal: causar tensão no dia-a-dia presidencial. E essa tensão está amplamente disponível agora, se espalhando por todas as vias políticas. Obviamente ela afeta sempre indiretamente Frank, mas a série se inicia com Lucas Goodwin na prisão (Sebastian Arcelus), que assim como Doug Stamper (Michael Kelly) terá uma curva trágica que desencadeará a trama principal.

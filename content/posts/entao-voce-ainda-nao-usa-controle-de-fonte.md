@@ -1,7 +1,7 @@
 ---
 date: "2010-11-02"
 title: Então você ainda não usa controle de fonte?
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 ![Bazaar Logo](..http://i.imgur.com/HjN0zFI.png)Graças aos antigos [SCMs](http://en.wikipedia.org/wiki/Software_configuration_management), muitos programadores hoje em dia evitam ter que configurar um controle de fonte mínimo para seus projetos. E por um bom motivo: temos que programar e resolver problemas reais no dia-a-dia e não ficar configurando servidores de controle de fonte e lidando com conflitos na calada da noite. Isso vale tanto para o pessoal do Windows e o seu Visual Source Safe (eu que o diga) quanto para o pessoal do Unix/Linux e seu CVS ;aliás, hoje o pesadelo de ambos foi substituído pelo SubVersion: um pesadelo light.
 

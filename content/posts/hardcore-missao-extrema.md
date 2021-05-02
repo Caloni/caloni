@@ -1,7 +1,7 @@
 ---
 date: "2016-08-16"
 link: "https://www.imdb.com/title/tt3072482"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Hardcore: Missão Extrema"
 ---
 Este não é um vídeogame, mas um filme que utiliza completamente a estética dos jogos de tiro em primeira pessoa. Ele tem uma narrativa coesa, e ainda que não tão bem articulada, qual filme de ação você conhece que consegue ser tão realista a ponto de enxergarmos toda a ação do ponto de vista do mocinho? Pior: que filme de ação hoje em dia consegue te entregar todo o pacote 18+, com direito a sangue, esquartejamento, esmagamento, esfaqueamento e outros "mentos" por aí, e não aquelas brincadeiras de criança da Marvel?

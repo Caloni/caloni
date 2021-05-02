@@ -1,7 +1,7 @@
 ---
 date: "2017-07-31"
 link: "https://www.imdb.com/title/tt2948472"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Coração de Leão"
 ---
 Este filme beira o amador em sua fotografia e roteiro. As atuações, coitadas, não podem fazer nada com esses personagens que se olham o tempo todo e nada dizem de importante. Como seria retratar o começo de um relacionamento qualquer, que poderia ser de qualquer um de nós e que não teria qualquer detalhe diferente? Este filme é assim, com apenas uma exceção: um dos lados é mais baixo que o normal.

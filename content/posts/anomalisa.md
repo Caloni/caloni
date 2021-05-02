@@ -1,7 +1,7 @@
 ---
 date: "2016-07-31"
 link: "https://www.imdb.com/title/tt2401878"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Anomalisa"
 ---
 Este é uma animação que não se anima. O movimento lento de seus personagens e o comportamento robótico de cada situação -- além do próprio maxilar das pessoas denotar isso -- leva a crer que há algo de errado naquele mundo, mas ao mesmo tempo, por se parecer tanto com o nosso mundo, se torna uma comparação estranhamente familiar.

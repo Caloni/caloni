@@ -1,7 +1,7 @@
 ---
 date: "2019-08-31"
 link: "https://www.imdb.com/title/tt8569390"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Adeus à Noite"
 ---
 Catherine Deneuve está fazendo cada vez mais papéis em que sua idade e sua persona inspiram sabedoria, mas em Adeus à Noite essa sabedoria é impotente e deslocada.

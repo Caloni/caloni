@@ -1,7 +1,7 @@
 ---
 date: "2017-05-24"
 link: "https://www.imdb.com/title/tt5707802"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Cara Gente Branca"
 ---
 Esta é uma série Netflix que fez sua lição de casa e está aproveitando a onda de discussões sobre racismo para inserir um trabalho que tenta fazer o espectador pensar em quanta besteira os militantes das minorias conseguem discutir ao mesmo tempo.

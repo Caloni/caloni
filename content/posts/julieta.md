@@ -1,7 +1,7 @@
 ---
 date: "2016-07-31"
 link: "https://www.imdb.com/title/tt4326444"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Julieta"
 ---
 Como sempre, sabemos desde o começo que este é um filme de Pedro Almodóvar, no estilo melodramático dele (e das cores do figurino, da direção de arte de muito bom gosto, etc). A trama mais uma vez envolve o passado misterioso de uma mulher -- a Julieta do título -- e mais uma vez as mulheres são as personagens fortes. E, para não deixar em branco, há uma tragédia grega senso usada como pano de fundo. Almodóvar nunca muda seus trejeitos, mas sua inventividade reciclada não gera os melhores frutos.

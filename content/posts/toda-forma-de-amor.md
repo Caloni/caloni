@@ -1,7 +1,7 @@
 ---
 date: "2013-12-22"
 link: "https://www.imdb.com/title/tt1532503"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Toda Forma de Amor"
 ---
 Um filme que retrata um solteirão em busca do amor após o falecimento do pai, que se assumiu gay aos 70 anos após a morte da esposa. O elo entre esses dois seres é um cachorro deixado de herança que se comunica por pensamento.

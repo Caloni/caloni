@@ -1,7 +1,7 @@
 ---
 date: "2019-04-20"
 link: "https://www.imdb.com/title/tt0367859"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Homem Que Copiava"
 ---
 A sinopse do IMDB diz assim: "André, relatively poor, falls in love with Silvia, a neighbor whom he spies with a telescope." Relatively poor é o que me chamou a atenção, pois isso diz muito sobre o filme. Que é relativamente excelente.

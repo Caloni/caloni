@@ -1,7 +1,7 @@
 ---
 date: "2014-09-23"
 link: "https://www.imdb.com/title/tt0816711"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "World War Z"
 ---
 Mais um filme de zumbi? Sim e não. World War Z está mais para o primeiro filme empolgante de fato sobre uma epidemia mundial. Estrelado por Brad Pitt, esse filme de catástrofe consegue chamar a atenção quase todo o momento, seja para seu lado bom ou ruim.

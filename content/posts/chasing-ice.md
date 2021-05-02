@@ -1,7 +1,7 @@
 ---
 date: "2014-02-09"
 link: "https://www.imdb.com/title/tt1579361"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Chasing Ice"
 ---
 Chasing Ice, apesar de receber até indicações ao Oscar, está sem título no Brasil porque as pessoas não gostam de documentário. Felizmente, a Netflix disponibiliza em stream com legendas (de Portugal, mas vá lá). É um daqueles eco-documentários que fala sobre os efeitos do aquecimento global em nosso planeta enquanto pessoas leigas continuam discutindo se a culpa é nossa ou não. Assim como a Teoria da Evolução, a soma de dezenas, ou melhor, centenas de trabalhos científicos ao redor do globo confirmando o homem como agente causador das mudanças climáticas dos últimos cento e cinquenta anos não é páreo para a ignorância e comodismo intelectual (vulgo burrice) da maioria da nossa população.

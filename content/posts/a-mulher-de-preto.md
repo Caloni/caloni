@@ -1,7 +1,7 @@
 ---
 date: "2012-03-04"
 link: "https://www.imdb.com/title/tt1596365"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Mulher de Preto"
 ---
 Vamos falar primeiro sobre a fotografia: ela é escura, até demais, mas consegue criar tomadas internas que estabelecem com primor um clima tanto de luz natural (muito pouca), quanto de fantasia. E mesmo com tão pouca luz, conseguimos enxergar toda a ação ou falta dela. Existem tomadas, por exemplo, onde só dá pra ver a face do protagonista, mas graças à ótima lógica geográfica da casa é possível entender a dinâmica da cena.

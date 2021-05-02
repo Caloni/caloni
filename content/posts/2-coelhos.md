@@ -1,7 +1,7 @@
 ---
 date: "2012-02-15"
 link: "https://www.imdb.com/title/tt1753722"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "2 Coelhos"
 ---
 Uma montagem impecável consegue dar o tom da narrativa do complexo 2 Coelhos. Além de complexo, existem pequenos detalhes da trama que forçam um pouco a realidade (como a união entre o protagonista e o pai-de-família que tem sua família brutalmente assassinada pelo seu carro). Porém, o que mais chama a atenção é o apelo visual e estético do longa, que pode ser considerado à altura de produções norte-americanas. Está à altura, sim, mas com isso também constatamos que a criatividade da direção de arte não vai muito além dos lugares-comuns de filmes do gênero, incluindo aí as apresentações Tarantinescas (e é também de Tarantino essa tentativa de humanizar os bandidos, com pequenos detalhes de suas ações) e chegando ao absurdo de incluir uma cena a la Sucker Punch com o único propósito de desviar nossa atenção.

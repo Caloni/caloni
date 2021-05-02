@@ -1,7 +1,7 @@
 ---
 date: "2017-02-20"
 title: "O velho problema do project out of date do Visual Studio"
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 
 ---
 Acho que todo mundo já passou por isso. Você compila todo o projeto bonitinho e no final, ao depurar, ele faz aquela velha pergunta: "o projeto está desatualizado: deseja compilar novamente?". Mas como assim? Eu acabei de compilar, não faz nem cinco segundos. Está quentinho, saiu do forno agora.

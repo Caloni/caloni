@@ -1,7 +1,7 @@
 ---
 date: "2011-08-31"
 link: "https://www.imdb.com/title/tt1318514"
-tags: ["movies" ]
+categories: ["movies" ]
 title: "Planeta dos Macacos: A Origem"
 ---
 Esse texto não é indicado para os que já viram algum filme da série Planeta dos Macacos, iniciada em 68. (Na verdade, nem o atual de 2011: leia depois de assistir.)

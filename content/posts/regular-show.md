@@ -1,7 +1,7 @@
 ---
 date: "2015-07-28"
 link: "https://www.imdb.com/title/tt1710308"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Regular Show"
 ---
 Regular Show consegue contar seus episódios em apenas dez minutos. Isso em uma história quase sempre dotada de uma criatividade sem limites onde figuras impossíveis surgem para finalizar as piadas com o toque final do absurdo necessário para finalizar histórias como essa. Confuso, mas é sempre assim.

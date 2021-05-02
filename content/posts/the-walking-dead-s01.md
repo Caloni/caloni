@@ -1,7 +1,7 @@
 ---
 date: "2013-04-03"
 link: "https://www.imdb.com/title/tt1520211"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "The Walking Dead - Primeira Temporada"
 ---
 The Walking Dead é uma trama de zumbis para forçar uma trama sobre seres humanos sobrevivendo no limite. Ele exagera demais no drama, talvez nos zumbis, mas nunca nessa premissa. Estamos acompanhando pessoas que estão tentando adaptar uma nova moral, novas regras e novas formas de viver a vida. Felizmente ou infelizmente, aos poucos eles descobrem que nada mudou muito.

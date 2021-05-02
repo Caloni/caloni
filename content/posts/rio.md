@@ -1,7 +1,7 @@
 ---
 date: "2011-04-27"
 link: "https://www.imdb.com/title/tt1436562"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Rio"
 ---
 Mais um filme visto em castelhano. Tenho a dizer que os dubladores argentinos são tão competentes quanto os nossos, e acompanhar a trajetória de Blu por Rio de Janeiro, sob o ponto de vista dos portenhos, foi mais uma experiência pra vida cinematográfica.

@@ -1,7 +1,7 @@
 ---
 date: "2019-11-26"
 link: "https://www.imdb.com/title/tt8998738"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Seguindo o Coração"
 ---
 Este é um Antes do Amanhecer feito com diálogos medíocres e um elenco menor que Ethan Hawke e Julie Delpy, que nasceram para seus Jesse e Céline. De certa forma Seguindo o Coração ironiza a perfeição com que os filmes de Richard Linklater trata seus adoráveis personagens se desenvolvendo. O realismo por trás das falas do casal de Before Sunrise é apenas aparente, pois funciona bem demais por muito tempo.

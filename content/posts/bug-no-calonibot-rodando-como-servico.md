@@ -1,7 +1,7 @@
 ---
 date: "2020-05-10"
 link: "https://github.com/Caloni/calonibot"
-tags: [ "code" ]
+categories: [ "code" ]
 title: "Bug no Calonibot Rodando Como Serviço"
 ---
 Esse não é o primeiro bug, nem será o último, mas serve de lição. Se quiser rodar um daemon no seu raspberrypi que atualize seu repo git de tempos em tempos ele poderá falhar, já que que roda em conta de root e essa conta não possui suas credenciais. Nem deveria, para ser sincero...

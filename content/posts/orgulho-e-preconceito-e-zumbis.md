@@ -1,7 +1,7 @@
 ---
 date: "2016-02-12"
 link: "https://www.imdb.com/title/tt1374989"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Orgulho e Preconceito e Zumbis"
 ---
 Há muitos filmes que se agarram a um conteúdo original pela força dramática que estes fornecem (como o recente Dez Mandamentos brasileiro), mas se esquecem de adicionar algo realmente valioso. Pelo contrário: se escondem covardemente "por trás das saias" de uma obra de referência, ambiciosa e complexa, e de lá atiram com pistolas de água no espectador, indeciso se gosta do que vê por lembrar algo que já viu ou furioso por terem brincado com algo que nunca deveria ter sido "tirado da caixa".

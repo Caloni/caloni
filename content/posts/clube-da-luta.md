@@ -1,7 +1,7 @@
 ---
 date: "2019-02-15"
 link: "https://www.imdb.com/title/tt0137523"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Clube da Luta"
 ---
 Você já percebeu que em Clube da Luta o personagem de Edward Norton não tem nome? Nos créditos ele é conhecido como "O Narrador". Isso tem tanto a dizer sobre este pequeno clássico da contra-cultura mundial e americana que eu nem preciso me dar ao luxo de revelar qualquer spoiler sobre este filme. Apenas assista e entenda a mensagem que você quiser do velho blá-blá-blá sobre consumismo e dívidas. Ele é tão atual que há uma série inteira (Mr. Robot) sobre o plano do filme e foi filmado uma década antes da grande crise financeira mundial que vivemos. Ele é profético, auto-destrutivo e não há alguém que o assista sem se surpreender pelo menos em um ou dois momentos do filme. E cada um escolhe o seu primeiro e segundo momentos para explodir seu próprio cérebro.

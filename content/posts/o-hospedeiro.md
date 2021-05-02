@@ -1,7 +1,7 @@
 ---
 date: "2019-11-20"
 link: "https://www.imdb.com/title/tt0468492"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Hospedeiro"
 ---
 Há vários tipos de cenas em O Hospedeiro tradicionalmente feitas para serem impactantes e emocionantes. A indústria americana em Hollywood popularizou o formato de filme-catástrofe quase que em uma cartilha. E o diretor/roteirista Bon Joon Ho subverte tudo isso, escancarando tantas novas possibilidades que quase nos esquecemos da história principal. Ela pouco importa quando temos tanto a discutir sobre a linguagem cinematográfica em apenas um filme.

@@ -1,7 +1,7 @@
 ---
 date: "2014-12-21"
 link: "https://www.imdb.com/title/tt1748122"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Moonrise Kingdom"
 ---
 Moonrise Kingdom é uma história que se passa em um conjunto de ilhas onde grupos de escoteiros estão alojados e alguns poucos moradores resolveram viver. A história gira em torno da fuga de dois jovens -- um escoteiro e uma jovem moradora -- e a "caça" que se faz em busca deles. Não é apenas sobre isso, é claro, pois o diretor Wes Anderson está mais interessado em analisar aquela micro-sociedade e com isso levantar questões para as próprias pessoas que moram no(s) continente(s): a maioria de nós.

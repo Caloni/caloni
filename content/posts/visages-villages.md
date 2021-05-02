@@ -1,7 +1,7 @@
 ---
 date: "2017-11-27"
 link: "https://www.imdb.com/title/tt5598102"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Visages, Villages"
 ---
 Visages, Villages é um filme fácil de assistir. Se trata de um documentário road-movie com um artista jovem cuidando do projeto de uma artista experiente. Ambos se respeitam e estão juntos pelo mesmo objetivo: viver.

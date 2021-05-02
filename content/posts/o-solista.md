@@ -1,7 +1,7 @@
 ---
 date: "2011-08-22"
 link: "https://www.imdb.com/title/tt0821642"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "O Solista"
 ---
 Seguindo o filme de duplas, dessa vez com Robert Downey Jr. e Jamie Foxx, o drama O Solista é baseado em livro homônimo escrito pelo jornalista-personagem Steve Lopez, que se torna obcecado pela vida de Nathaniel Ayers, um sem-teto que tinha tudo para ser um grande músico, mas devido aos seus problemas mentais, acaba se refugiando da sociedade nas ruas.

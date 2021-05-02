@@ -1,7 +1,7 @@
 ---
 date: "2017-12-14"
 link: "https://www.imdb.com/title/tt2720826"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "A Origem do Dragão"
 ---
 A Origem do Dragão possui a alma de Bruce Lee. Ele é simples, conciso, mas ao mesmo tempo seus personagens chamam a atenção apenas por existirem, assim como Bruce chamava a atenção de Hollywood apenas por ser um lutador chinês trazendo lições milenares para o Ocidente. Observe os dois mestres de kung fu deste filme e me diga que não consegue entender e admirar a própria filosofia desta arte marcial. Curiosamente o filme enxerga mais beleza nesses personagens, o que dizem e fazem, do que a forma como lutam. O que já é uma ótima notícia vinda de um trabalho intimista que poderia cair no pecado de chamar atenção para si mesmo pelas lutas e holofotes.

@@ -1,7 +1,7 @@
 ---
 date: "2021-03-27"
 link: "https://www.imdb.com/title/tt0265930"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Último Beijo"
 ---
 Um dos últimos grandes, do único dos anos 2000, este drama, comédia e romance italiano trabalha os relacionamentos entre diferentes casais e indivíduos como Hollywood jamais ousaria. Ele é honesto, sincero, realista e por isso mesmo conquista nossos corações e mentes. Simplesmente por falar a verdade. Não há contos de fadas da Disney. Não há histórias sobre injustiça social e feminismo. Nada dessas fábulas modernas do novo milênio constam neste filme que reúne em histórias contemporâneas as vicissitudes que o ser humano passou para manter a estrutura familiar intacta, ou viver de acordo com o que é certo, acima de tudo e de todos. A lei do universo, e do porquê as coisas são como são. Um tapa bem dado nos pós-modernistas e relativistas.

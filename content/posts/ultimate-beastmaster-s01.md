@@ -1,7 +1,7 @@
 ---
 date: "2017-04-04"
 link: "https://www.imdb.com/title/tt5607970"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Ultimate Beastmaster - Primeira Temporada"
 ---
 Esta não é uma competição corpo a corpo, nem uma avaliação de força, nem de habilidades esportistas. É, acima de tudo, uma ode ao ser humano, como as olimpíadas deveriam ser antes. Uma ode à capacidade humana, de se sobressair, vencer desafios e, o principal: vencer a si mesmo.

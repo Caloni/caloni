@@ -1,7 +1,7 @@
 ---
 date: "2011-03-29"
 link: "https://www.imdb.com/title/tt0978764"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Sucker Punch: Mundo Surreal"
 ---
 Cenas de ação cheias de adrenalina e perfeição técnica, uma fotografia e direção de arte extremamente competentes e uma trilha sonora que parece que foi feita para cada cena.

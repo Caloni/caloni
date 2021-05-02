@@ -1,7 +1,7 @@
 ---
 date: "2013-07-10"
 link: "https://www.imdb.com/title/tt1559547"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Dezesseis Luas"
 ---
 Beautiful Creatures, ou Dezesseis Luas, é um filme baseado em um romance de Kami Garcia e Margaret Stohl que contém mais algumas continuações que muito provavelmente deverão ser produzidas como novos filmes no estilo da... arght! série [Crepúsculo]. Este foi dirigido e adaptado por Richard LaGravenese (que já havia feito um belo serviço em PS Eu Te Amo).

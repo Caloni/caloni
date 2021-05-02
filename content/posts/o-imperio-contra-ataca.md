@@ -1,7 +1,7 @@
 ---
 date: "2011-12-31"
 link: "https://www.imdb.com/title/tt0080684"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Star Wars, Episódio V: O Império Contra-Ataca"
 ---
 O [filme inicial], auto-contido, sobre o conto de fadas nunca antes contado, ganha uma nova dobra, e tenta ao mesmo tempo contar uma nova história no mesmo molde e estender esse universo com explicações sobre os Jedis, a Força e ainda um pouco de mistério a respeito das origens do Império e, principalmente, do seu ícone maior: Darth Vader.

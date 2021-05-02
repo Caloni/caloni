@@ -1,7 +1,7 @@
 ---
 date: "2015-06-13"
 link: "https://www.imdb.com/title/tt0289879"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Efeito Borboleta"
 ---
 Efeito Borboleta é um desses filmes difíceis de defender, mas quem comprar a briga (como eu) pode encontrar uma fonte inesgotável de prazer. Prazer de defender a arte cinematográfica, mesmo às vezes através de sua própria imperfeição. Prazer em reconhecer que, mesmo com tantos defeitos, uma obra pode exibir virtudes que a tornam ímpares, ou pelo menos dignas de algumas revisitas. Há elementos particularmente fascinantes escondidos dentro do embrulho que é este filme, em um formato não muito bem empacotado.

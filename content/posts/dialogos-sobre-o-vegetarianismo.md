@@ -1,6 +1,6 @@
 ---
 date: "2019-02-03"
-tags: [ "draft", "reading" ]
+categories: [ "draft", "reading" ]
 title: "Diálogos Sobre o Vegetarianismo"
 ---
 Conheci o filósofo Michael Huemer através de um amigo e por procurar há um tempo atrás refutações convincentes do objetivismo. Encontrei uma saída para vários dos problemas discutidos pela humanidade. Isso se chama intuitivismo.

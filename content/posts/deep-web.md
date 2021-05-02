@@ -1,7 +1,7 @@
 ---
 date: "2017-03-26"
 link: "https://www.imdb.com/title/tt3312868"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Deep Web"
 ---
 Este é um documentário que irá te dar uma visão diametralmente oposta do que você já ouviu falar sobre a deep web na mídia. Para começo de conversa, o filme não fala sobre assassinos e pedófilos, e quando fala sobre crimes cibernéticos, estranhamente eles são cometidos sem vítimas. A venda de drogas em um site chamado Silk Road se apresenta um mercado onde vendedores e compradores conseguem, sem o uso da violência e evitando riscos físicos, trocar drogas de todos os tipos.

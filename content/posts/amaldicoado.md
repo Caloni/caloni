@@ -1,7 +1,7 @@
 ---
 date: "2015-06-07"
 link: "https://www.imdb.com/title/tt1528071"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Amaldiçoado"
 ---
 Horns é uma fábula contada da forma mais banal possível: a investigação de um crime em uma cidadezinha. Passando por todos os clichês do gênero, a parte divertida é mais ou menos a metade do filme: observar a "maldade" inerente em todo e qualquer ser humano.

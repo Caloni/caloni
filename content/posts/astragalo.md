@@ -1,7 +1,7 @@
 ---
 date: "2016-03-07"
 link: "https://www.imdb.com/title/tt3712088"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Astrágalo"
 ---
 Biografias tendem a ser chatas quando seguem muito à risca a visão literária do autor. Quando se trata de uma autobiografia, esse risco dobra. Portanto, por mais que Astrágalo seja burocrático e arrastado na maioria do tempo, de certa forma é um alívio notar a beleza de suas composições em preto e branco, além de sua estética vazia, embora evocativa de uma época charmosa, ou de uma época quando bandidos se davam ao luxo de serem charmosos.

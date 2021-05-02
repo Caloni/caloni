@@ -1,7 +1,7 @@
 ---
 date: "2012-01-04"
 link: "https://www.imdb.com/title/tt1565958"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Românticos Anônimos"
 ---
 Como bom tímido que fui (sou?) posso com autoridade dizer que Românticos Anônimos ao mesmo tempo que permite nos identificarmos com o casal protagonizado por dois tímidos irremediáveis também nos permite identificar as diferenças peculiares de cada um, evitando assim estereotipar o termo e manter-se engraçado.

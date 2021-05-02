@@ -1,7 +1,7 @@
 ---
 date: "2015-07-20"
 link: "https://www.imdb.com/title/tt2027140"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Espuma dos Dias"
 ---
 Imagine que o mundo real foi invadido pela física (e a lógica) dos desenhos de animação no seu sentido mais bucólico. Onde a paixão é o suficiente para desenrolar qualquer novo relacionamento, e a dança é o suficiente para alterar as paredes de um quarto. Imagine, enfim, que estamos em um filme completamente tomado pelas loucuras inventivas de Michel Gondry.

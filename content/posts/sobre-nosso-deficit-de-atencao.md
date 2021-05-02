@@ -1,6 +1,6 @@
 ---
 date: "2020-11-14"
-tags: [ "essays" ]
+categories: [ "essays" ]
 title: "Sobre Nosso Déficit de Atenção"
 ---
 Nossa sociedade produtiva está doente, mas apenas constatar o fato não começa o tratamento. Nós sabemos os sintomas e a causa. A causa é a evolução tecnológica se aproveitando de nossas falhas biológicas por grandes corporações para vender anúncios. Os sintomas é uma geração inteira diminuindo sua capacidade de concentração e vivendo como autômatos que clicam em links.

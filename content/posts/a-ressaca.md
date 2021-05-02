@@ -1,7 +1,7 @@
 ---
 date: "2010-09-10"
 link: "https://www.imdb.com/title/tt1231587"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Ressaca"
 ---
 O primeiro filme inspirado em "Se Beber Não Case" é esse Ressaca, que poderia se chamar "Se Beber, Não Viaje no Tempo". Além das referências óbvias e bobinhas a De Volta Para o Futuro e Cia, o filme diverte em alguns momentos, mas se perde demais nas premissas. Aliás, a premissa não é nada original: a trupe viaja no espaço para salvar o amigo potencial suicida e incidentalmente viajam no tempo também. Primeiro eles vão para onde costumavam se divertir na adolescência e acabam enchendo a cara em uma banheira ao ar livre que se revela ser uma máquina do tempo com a adição de um "ingrediente ilegal" de um energético russo (sim, tem que haver alguma explicação, por mais absurda que seja).

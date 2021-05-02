@@ -1,7 +1,7 @@
 ---
 date: "2019-06-17"
 link: "https://www.imdb.com/title/tt0120601"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Quero Ser John Malkovich"
 ---
 Nessa época Charlie Kaufman ainda estava explorando mais as ideias do que lustrando o roteiro, mas ainda assim... que filme! Uma ode à insignificância de nossos corpos, e até de nossas almas, inultimente pulando de corpo em corpo, na esperança de encontrar algo além do que nossos próprios corpos provêm.

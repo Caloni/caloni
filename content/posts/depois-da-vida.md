@@ -1,7 +1,7 @@
 ---
 date: "2012-01-15"
 link: "https://www.imdb.com/title/tt0165078"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Depois da Vida"
 ---
 Pense rápido: se você morrer hoje escolha de toda sua vida apenas uma memória para guardar para toda a eternidade. No filme de Hirokazu Koreeda, o mundo pós-vida possui um sistema de acompanhamento das pessoas que recentemente faleceram e cujo objetivo é exatamente esse.

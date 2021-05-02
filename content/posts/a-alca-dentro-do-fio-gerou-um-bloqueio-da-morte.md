@@ -1,6 +1,6 @@
 ---
 date: "2008-10-21"
-tags: [ "code" ]
+categories: [ "code" ]
 title: "A Alça Dentro do Fio Gerou um Bloqueio da Morte"
 ---
 Estava folheando um livro fenomenal que meu amigo havia pedido emprestado para ler quando me deparei com algumas traduções no mínimo curiosas. O exemplar em questão era o primeiro Windows Internals, publicado após o lançamento da primeira versão do Windows NT, uma plataforma escrita (quase) inteiramente do zero para suplantar as versões 9x (Windows 95 e 98), que herdaram do DOS algumas partes indesejáveis em sistemas operacionais modernos.

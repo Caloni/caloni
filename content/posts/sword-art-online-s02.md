@@ -1,7 +1,7 @@
 ---
 date: "2014-04-16"
 link: "https://www.imdb.com/title/tt2250192"
-tags: [ "draft", "series", "animes" ]
+categories: [ "draft", "series", "animes" ]
 title: "Sword Art Online - Segunda Temporada"
 ---
 A série japonesa de animação SAO (Sword Art Online) possui uma estrutura bem confusa. Essa segunda temporada é formada por duas histórias, assim como a primeira, mas diferente da primeira as histórias quase não têm relação.

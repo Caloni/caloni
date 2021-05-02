@@ -1,7 +1,7 @@
 ---
 date: "2012-11-04"
 link: "https://www.imdb.com/title/tt0977642"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Chega de Saudade"
 ---
 A primeira impressão ao assistir Chega de Saudade, projeto de Laíz Bodanzky (As Melhores Coisas do Mundo), é perceber todo o apuro técnico em conseguir desenvolver o que é mais difícil no Cinema em alguns ambientes: a naturalidade. Nesse sentido, o filme (não apenas literalmente, mas metaforicamente) "dá um baile": desde a coreografia ao domínio de ritmo e montagem, ao acompanharmos seu desenvolvimento é possível se envolver com os seus personagens sem perceber que, afinal de contas, existe uma infinidade de cortes cinematográficos (necessários) que vão do topo aos pés dessas pessoas, que parecem deslizar de fato em um salão apertado e barulhento.

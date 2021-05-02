@@ -1,7 +1,7 @@
 ---
 date: "2019-08-24"
 link: "https://www.imdb.com/title/tt2069774"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Trailer: Flordelis: Basta Uma Palavra Para Mudar"
 ---
 Dizem que Deus escreve certo por linhas tortas. Também dizem que ele já fez milagres como abrir o mar do Egito e ressuscitar seu filho dentro os mortos. Porém, esses milagres empalidecem frente ao trailer do filme "Flordelis: Basta Uma Palavra Para Mudar". Este, sim, um verdadeiro sinal de que Deus existe, e Ele é Muito Zuero. Amém.

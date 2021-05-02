@@ -1,7 +1,7 @@
 ---
 date: "2012-12-22"
 link: "https://www.imdb.com/title/tt1712170"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Sombra do Inimigo"
 ---
 Alex Cross, aqui chamado de A Sombra do Inimigo, é daqueles filmes que apostam em sua própria esperteza. Como não poderia deixar de ser, cai em sua própria auto-indulgência e como consequência é incapaz sequer de trilhar uma narrativa decente que nos faça acompanhar o drama vivido pelo seu personagem-título.

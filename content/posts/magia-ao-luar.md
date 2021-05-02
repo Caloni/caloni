@@ -1,7 +1,7 @@
 ---
 date: "2016-06-30"
 link: "https://www.imdb.com/title/tt2870756"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Magia ao Luar"
 ---
 Woody Allen é um contador de histórias mediano, pois ele consegue utilizar (ou manipular) os personagens dos seus filmes (que dirige e escreve) ao seu bel prazer. Seu objetivo não é criar uma trama muito complexa, mas apenas discutir os temas recorrentes de sua cinegrafia mais recente. Dito isto, o que pode talvez elucidar porque há muitas pessoas que não gostam dos seus filmes, por outro lado essa ambição de sempre explorar ao máximo as premissas de seu raciocínio sobre questões além-vida (e a própria vida) são fascinantes per se, e na maioria das vezes não precisaria mais trama do que aparece em seus filmes para gerar uma boa discussão. Seus diálogos, pode-se dizer, são um monólogo constante sobre filosofia. Só isso já torna não apenas seus trabalhos altamente "assistíveis", mas, em geral, muito acima da média de Hollywood (que busca justamente o oposto: quanto menos o espectador precisar pensar, melhor).

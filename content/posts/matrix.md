@@ -1,7 +1,7 @@
 ---
 date: "2011-12-20"
 link: "https://www.imdb.com/title/tt0133093"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Matrix"
 ---
 Animes, quadrinhos, Kung-Fu, filosofia, tecnologia: Que filme conseguiria compor, de forma inquestionável, esses universos tão grandiosos quanto diferentes entre si?

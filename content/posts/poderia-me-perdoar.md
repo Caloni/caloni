@@ -1,7 +1,7 @@
 ---
 date: "2018-10-15"
 link: "https://www.imdb.com/title/tt4595882"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Poderia Me Perdoar?"
 ---
 Baseado em uma história real. Isso é o que lemos no começo de "Poderia Me Perdoar?", seguido de uma história que talvez fosse difícil de engolir se não nos fosse informado que tudo aquilo (ou boa parte) aconteceu.

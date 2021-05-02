@@ -1,7 +1,7 @@
 ---
 date: "2015-04-19"
 link: "https://www.imdb.com/title/tt1951265"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Jogos Vorazes: A Esperança - Parte 1"
 ---
 Jogos Vorazes é uma série de filmes que brinca com o conceito das aparências e como ela é muito mais importante atualmente do que como as coisas são. É dessa forma que os participantes de um reality show preferem abrir mão de suas personalidades para construir uma que garanta a vitória por parecer ser alguém que os possíveis fãs se identifiquem. É dessa forma também que o consumismo desenfreado leva as pessoas a comprar items puramente estéticos, como roupas de marca, maquiagem e operações no corpo. E, por fim, é dessa forma que governos populistas ganham a confiança e o respeito de milhões, preferindo gastar uma parcela irrisória do dinheiro delas mesmas em programas sociais como Bolsa Família, do que atacar o mal pela raiz (como diminuindo impostos para as camadas mais pobres, por exemplo).

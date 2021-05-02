@@ -1,7 +1,7 @@
 ---
 date: "2017-01-18"
 link: "https://www.imdb.com/title/tt0018756"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Champagne"
 ---
 Champagne é uma divertida comédia dramática que esbanja críticas à alta sociedade. Em seu núcleo está a figura carismática e intensa de Betty Balfour, que faz, conforme o IMDB, "The Girl". Em torno dela orbitam as pessoas comuns, que a veem como excêntrica. Mas, tudo bem, já que seu pai é rico. Mesmo se vestindo de empregada ela diverte e se diverte.

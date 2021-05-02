@@ -1,7 +1,7 @@
 ---
 date: "2016-11-17"
 link: "https://www.imdb.com/title/tt0120631"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Para Sempre Cinderela"
 ---
 Esta revisita nos anos 90 ao conto dos irmãos Grimm usa os próprios documentaristas dessa fábula folclórica para dar um laço mais realista à história imortalizada por Disney. Usa atores competentes em situações interessantes -- o que Morgana faz como a madrasta? -- e ao mesmo tempo decide formatar seu núcleo em um romance convencional, de época e água com açúcar. Mas, ainda assim, apaixonante.

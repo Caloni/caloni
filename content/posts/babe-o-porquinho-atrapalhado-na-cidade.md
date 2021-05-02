@@ -1,7 +1,7 @@
 ---
 date: "2012-01-30"
 link: "https://www.imdb.com/title/tt0120595"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Babe O Porquinho Atrapalhado na Cidade"
 ---
 Se "Babe, o Porquinho Atrapalhado" era fofinho do começo ao fim, e continha um roteiro elegante que fechava suas pontas, aqui parece que inverteram feio a ordem dos eventos, gerando o que é devidamente nomeado por um dos capítulos em que se divide como A Teoria do Caos. Não é à toa: se no primeiro filme tínhamos já um pano de fundo que nos remetia à visão de A Revolução dos Bichos sob o aspecto da mobilidade social, aqui temos a cidade grande como palco, e os animais, assim como as pessoas, vivem uma espécie de anarquia não-solidária, onde a ajuda geralmente vem de onde menos se espera.

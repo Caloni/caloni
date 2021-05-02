@@ -1,7 +1,7 @@
 ---
 date: "2008-03-24"
 title: "Depuração da MBR"
-tags: [ "code" ]
+categories: [ "code" ]
 ---
 Dando continuidade a um artigo bem antigo sobre [depuração da BIOS usando SoftIce], como já vimos, podemos igualmente depurar a MBR após a chamada da INT13. Porém, devo atentar para o fato que, em algumas VMs, e sob determinadas condições do tempo e quantidade de ectoplasma na atmosfera, é possível que a máquina trave após o hot boot iniciado pelo depurador. Isso provavelmente tem cura usando o espaço de endereçamento alto da memória com a ajuda de aplicativos como LH e UMB.
 

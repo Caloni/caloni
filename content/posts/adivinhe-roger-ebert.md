@@ -1,6 +1,6 @@
 ---
 date: "2018-05-07"
-tags: [ "draft",  ]
+categories: [ "draft",  ]
 title: "Adivinhe: Roger Ebert"
 ---
 Acha que conhece de cinema? E que tal tentar adivinhar por um punhado de palavras de um crítico sobre qual filme estamos falando?

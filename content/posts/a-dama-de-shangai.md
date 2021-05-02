@@ -1,7 +1,7 @@
 ---
 date: "2020-05-29"
 link: "https://www.imdb.com/title/tt0040525"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "A Dama de Shangai"
 ---
 Orson Welles tentando salvar o casamento com Rita Hayworth (spoiler: não deu certo e se divorciaram antes da estreia). Este é um filme noir fora de controle temático e infestado pela visão peculiar de seu cineasta, notório por seu estilo anti-autoridade, que transforma um julgamento de homicídio em uma comédia de erros. Que empresta dezenas de espelhos do surrealismo alemão.

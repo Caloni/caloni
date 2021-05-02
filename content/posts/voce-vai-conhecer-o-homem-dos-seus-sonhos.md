@@ -1,7 +1,7 @@
 ---
 date: "2010-11-26"
 link: "https://www.imdb.com/title/tt1182350"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Você Vai Conhecer o Homem dos Seus Sonhos"
 ---
 Personagens que Allen adora colocar em cena: a cartomante que faz papel de psiquiatra, a velhinha que procura uma cura para sua tensão pós-separação, o ex que está velho demais para recomeçar (e acredita ter os genes da longevidade), o escritor fracassado de um sucesso só, casado com a consultora de artes em um casamento que logo, logo, irá se abalar, e a noivinha pronta para sair do casamento.

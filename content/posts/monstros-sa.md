@@ -1,7 +1,7 @@
 ---
 date: "2012-02-20"
 link: "https://www.imdb.com/title/tt0198781"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Monstros S/A"
 ---
 Interessante notar como a Pixar em seus primeiros filmes costumava inserir brincadeiras que, de certa forma, acusavam o espírito jovem e experimentador daqueles tempos. Mais impressionante, porém, é perceber como esse deve ter sido a semente para o amadurecimento da técnica antes de filmarem jovens clássicos como Os Incríveis, Wall-E, [Ratatouille] e [Up!].

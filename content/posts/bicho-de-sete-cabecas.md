@@ -1,7 +1,7 @@
 ---
 date: "2019-05-11"
 link: "https://www.imdb.com/title/tt0263124"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Bicho de Sete Cabeças"
 ---
 Para comemorar o dia anti-maniconial (que nominho desgraçado) nada como assistir Bicho de Sete Cabeças, que é baseado em um caso real de um jovem internado em um sanatório porque dava uns tapinhas na pantera.

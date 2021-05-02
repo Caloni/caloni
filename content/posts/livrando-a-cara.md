@@ -1,7 +1,7 @@
 ---
 date: "2019-05-29"
 link: "https://www.imdb.com/title/tt0384504"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Livrando a Cara"
 ---
 É um romance lésbico. É uma cinquentona grávida. É uma novela chinesa em solo nova-iorquino. A cartilha é completa e espero no mínimo um casório e uma corrida para o aeroporto nos momentos finais. Paguei meu ingresso pra isso. Oh, não, eles refazem a cena da noiva entrando no ônibus daquele clássico com Dustin Hoffman. Por essa eu não esperava. Uma cena que faz sentido e seria genial colocada no filme que a diretora Alice We pensa que fez.

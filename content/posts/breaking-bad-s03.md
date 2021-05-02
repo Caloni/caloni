@@ -1,7 +1,7 @@
 ---
 date: "2016-07-16"
 link: "https://www.imdb.com/title/tt0903747"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Breaking Bad - Terceira Temporada"
 ---
 Após a sequência de coincidências discutível no final da temporada anterior, Skyler agora sabe da droga, Walt decide em um ímpeto queimar o dinheiro, mas volta atrás. Todos são culpados na terceira temporada, dos usuários aos distribuidores e produtores, mas também os defensores da lei. Ninguém está a salvo do escrutínio moral, mas em vez de criticar, a série os entende perfeitamente. É a moral do indivíduo que está em jogo, e não uma série de leis absurdas em torno das quais todos lutam ferozmente.

@@ -1,7 +1,7 @@
 ---
 date: "2012-06-10"
 link: "https://www.imdb.com/title/tt0058461"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Por Um Punhado de Dólares"
 ---
 "Per un pugno di dollari", o clássico do bangue-bangue macarrônico, primeiro dos três filmes idealizado por Sergio Leone a partir de sua fascinação após assistir a outro clássico da época, Yojimbo (de Kurosawa), nos apresenta pela primeira vez a figura do Homem Misterioso, ou homem sem nome, interpretado por um Clint Eastwood ainda jovem para o seu Gran Torino, mas com um olhar já duro e seco para com os maus que governam uma cidadezinha perto da fronteira entre os EUA e o México. À procura de dinheiro (como o título já sugere), esse homem resolve ficar por um tempo na cidade, mesmo em uma terra que odeia forasteiros. Existem duas famílias que tomam conta dos negócios locais, enquanto na violência com que as decisões são tomadas os corpos se acumulam no cemitério na mesma proporção com que as viúvas. O ódio e a ambição pelo ouro fala mais forte em uma terra sem lei.

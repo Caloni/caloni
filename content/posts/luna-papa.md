@@ -1,7 +1,7 @@
 ---
 date: "2019-05-04"
 link: "https://www.imdb.com/title/tt0170259"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Luna Papa"
 ---
 Esta é uma comédia russa que vai fazer você pensar várias vezes: mais um dia normal na Rússia.

@@ -1,7 +1,7 @@
 ---
 date: "2016-02-22"
 link: "https://www.imdb.com/title/tt0837562"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Hotel Transilvânia"
 ---
 Hotel Transilvânia é uma surpresa em animação e seus divertidos momentos. A direção transforma efeitos visuais competentes em sequências sempre interessantes, utilizando personagens cativantes construídos através do imaginário popular e não tão clichês quanto poderíamos esperar.

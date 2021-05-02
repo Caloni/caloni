@@ -1,7 +1,7 @@
 ---
 date: "2019-04-27"
 link: "https://www.imdb.com/title/tt10050772"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "I Think You Should Leave With Tim Robinson"
 ---
 Essa é mais uma das séries de comédia da Netflix que começa com suas melhores piadas no piloto e vai piorando. Ela tem uma pegada Monty Python de experimentação misturado com os canais da tv interdimensão de Rick & Morty, mas não consegue dar o salto final para o abismo. São quadros até que bem bolados, mas quase nenhum deles sabe bem quando parar. Algumas cedo demais, muitas tarde demais.

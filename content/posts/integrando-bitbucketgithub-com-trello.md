@@ -1,7 +1,7 @@
 ---
 date: "2014-07-22"
 title: Integrando BitBucket/GitHub com Trello
-tags: [ "draft", "blog" ]
+categories: [ "draft", "blog" ]
 ---
 Eu nem acredito que estou escrevendo sobre desenvolvimento web, mas como foi algo que me fez dedicar algumas horas do meu fim-de-semana, e não encontrei facilmente uma solução já feita, acredito que pode ser útil para mais alguém que usa Trello e GitHub (ou BitBucket).
 

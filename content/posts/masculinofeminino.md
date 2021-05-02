@@ -1,7 +1,7 @@
 ---
 date: "2016-02-19"
 link: "https://www.imdb.com/title/tt0060675"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Masculino-Feminino"
 ---
 Jean-Luc Godard, em plena década de 60, em um filme aparentemente biográfico, que funciona leve, sem lógica, mas com acontecimentos que não fogem da realidade, mas entram em nossa estranheza do incompreendido, das coincidências exóticas. Mas é uma época pulsante, com questões juvenis incompreendidas. Godard tinha minha idade quando o fez (36), e ele discute muito sobre o homem, a mulher, e os dois juntos.

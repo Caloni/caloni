@@ -1,7 +1,7 @@
 ---
 date: "2016-03-13"
 link: "https://www.imdb.com/title/tt1856010"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "House of Cards - Primeira Temporada"
 ---
 Quanto mais penso que House of Cards não teria porque figurar entre as melhores séries que já vi (até o momento), pois "não tem nada de mais", mais fico convencido que tem. A despeito das demonstrações de poder e ambição de Francis Underwood (o personagem de Kevin Spacey) que divertem o público em geral, as entrelinhas que sutilmente se formam entre os personagens sobriamente idealizados por Beau Willimon, cujo livro "Farragut North" foi brilhantemente adaptado por George Clooney em Tudo pelo Poder, ajudam a construir na série um clima tão realista que torna-se assustador imaginar que aqueles acontecimentos podem de fato ter ocorrido ou estar ocorrendo com outros nomes em outros lugares, mas que mantém a mesma premissa narrativa de depender do poder emanado pelo Estado para que as marionetes dancem em torno do palco que se forma.

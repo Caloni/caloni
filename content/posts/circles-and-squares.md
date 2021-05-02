@@ -1,6 +1,6 @@
 ---
 date: "2019-11-17"
-tags: [ "draft" ]
+categories: [ "draft" ]
 title: "Circles and Squares"
 ---
 Retirado do blog Keeping My Brain Alive.

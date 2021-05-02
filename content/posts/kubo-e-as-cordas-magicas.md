@@ -1,7 +1,7 @@
 ---
 date: "2016-12-03"
 link: "https://www.imdb.com/title/tt4302938"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Kubo e as Cordas Mágicas"
 ---
 Kubo é uma animação em stop motion que usa um monte de elementos computacionais para tornar tudo muito mais fluido, mágico e... não-stop motion. Porém, ao mesmo tempo, ele se aproveita da técnica para tornar tudo muito mais real. Ele conta uma história oriental com o herói sendo uma criança, mas não são exatamente coisas de criança que ocorrem com ele. A maior virtude do filme talvez seja sua não-infantilização de um filme que entende que crianças podem aguentar discussões que envolvam a morte, e não há nada de errado em um garoto não ter seu olho esquerdo.

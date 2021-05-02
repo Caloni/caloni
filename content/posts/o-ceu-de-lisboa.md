@@ -1,7 +1,7 @@
 ---
 date: "2021-03-27"
 link: "https://www.imdb.com/title/tt0110361"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Céu de Lisboa"
 ---
 O filme vai nos embalando logo no começo com uma viagem rápida de carro descendo a Europa que dá errado e gera boas e naturais risadas, mas quando chegamos no destino final a aventura se torna uma grande questão filosófica que envolve a existência da humanidade e de sua arte. Pois é, esta é uma comédia do diretor alemão Wim Wenders (Asas do Desejo, Paris Texas, Pina).

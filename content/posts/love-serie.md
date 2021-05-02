@@ -1,7 +1,7 @@
 ---
 date: "2016-03-01"
 link: "https://www.imdb.com/title/tt4061080"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Love - Primeira Temporada"
 ---
 O que significa se relacionar? Por que para algumas pessoas isso funciona tão bem, enquanto para outras é como dirigir um trator esmagando todos os corações pelo caminho?

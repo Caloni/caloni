@@ -1,7 +1,7 @@
 ---
 date: "2010-06-25"
 link: "https://www.imdb.com/title/tt0120363"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Toy Story 2"
 ---
 Dessa vez o drama entra no universo dos brinquedos de coleção, aqueles que nunca saem da caixa e são peça de negociação, além de uma visita inesperada e divertida por uma loja de brinquedos fechada. Contando com uma trilha de ação envolvente por se unir de forma praticamente orgânica com as tomadas em que vemos os brinquedos atravessando uma rua cheia de carros, nossa atenção é roubada na primeira metade do filme com uma fluidez que se compara ao primeiro filme inteiro. No entanto, os diálogos finais tornam a segunda metade uma espécie de anticlímax da primeira, não tanto por ter se perdido no meio do caminho, mas pela comparação com a animada primeira parte.

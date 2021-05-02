@@ -1,7 +1,7 @@
 ---
 date: "2014-12-23"
 link: "https://www.imdb.com/title/tt0787474"
-tags: [ "movies" , "cinemaqui" ]
+categories: [ "movies" , "cinemaqui" ]
 title: "Os Boxtrolls"
 ---
 É muito difícil assistir Boxtrolls e se dar conta que aqueles efeitos foram forjados na boa e velha arte do stop-motion: capturar mais de vinte fotos de bonecos em cima de uma maquete para gerar um segundo de filme.

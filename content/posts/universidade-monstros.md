@@ -1,7 +1,7 @@
 ---
 date: "2013-07-01"
 link: "https://www.imdb.com/title/tt1453405"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Universidade Monstros"
 ---
 Usando o bê-a-bá que aprendemos em [Monstros S.A.], o diretor Dan Scanlon, auxiliado pelos quatro grandes da Pixar na produção e os dois roteiristas originais, reutiliza tudo que já foi visto no longa anterior e acrescenta detalhes que compõem o estilo de vida daqueles seres em uma evolução natural que usa a faculdade como um outro ponto de partida. O resultado é um filme que carece de um início que avise o espectador que este não é apenas uma continuação, mas um agradável e saudoso estudo de personagens. Na outra ponta, carece também de uma conclusão climática que o separe do trabalho original, ou revela um sintoma importante de todo o projeto: não há muito mais o que explorar no mundo dos monstros.

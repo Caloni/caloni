@@ -1,7 +1,7 @@
 ---
 date: "2018-01-12"
 link: "https://www.imdb.com/title/tt0419887"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "O Caçador de Pipas"
 ---
 Eu não li este livro. E nem preciso. O Caçador de Pipas é romance ficcional puro, adaptado da maneira mais eloquente e visual jamais vista. Uma história que é uma longa sequência, que passa por décadas e diferentes cenários, personagens, situações. Com o pouco que o filme apresenta ele se torna complexo o suficiente para nos fazer prender a atenção pela história do jovem Amir como o própro Amir prendia a atenção de seu servo e amigo Hassan contando uma das mil e uma histórias de seu livro. A essência de contar história está na essência deste filme. E é por isso que ele é tão bom. Ele segue um fluxo literário em forma de cinema, apresentando detalhes que marcam a cada momento e são retornados no momento propício. Quando chega o terceiro ato nos lembramos como se tivéssemos acabado de ver o final da amizade desses dois, e como a vida segue longos arcos que, se Deus permitisse, gostaríamos de fechar antes de partir.

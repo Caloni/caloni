@@ -1,7 +1,7 @@
 ---
 date: "2017-04-21"
 link: "https://www.imdb.com/title/tt4680196"
-tags: [ "draft", "movies" , "cinemaqui" ]
+categories: [ "draft", "movies" , "cinemaqui" ]
 title: "Além da Ilusão"
 ---
 Além da Ilusão é uma viagem biográfica longa, inútil e de um lirismo que não se justifica ao longo da projeção. Se trata da burocracia dos filmes baseados em eventos reais que não estabelece uma trama, mas apenas descreve acontecimentos. Seus personagens não tão rasos e esquecíveis que nem a atuação competente do elenco nos salva do marasmo. E mesmo que fôssemos apreciar a obra pela sua "beleza inerente do cinema", ele comprova que para tudo há um limite.

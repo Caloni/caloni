@@ -1,7 +1,7 @@
 ---
 date: "2019-01-12"
 link: "https://www.imdb.com/title/tt4633694"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Homem-Aranha no Aranhaverso"
 ---
 Lá vamos nós de novo. Era uma vez um garoto... ou garota... que foi picadx por uma aranha... ou porco... e se transformou em uma japonesa de anime... ou um rapaz do Brooklin. Não, pera. Ah, você entendeu.

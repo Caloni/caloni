@@ -1,6 +1,6 @@
 ---
 date: "2020-06-23"
-tags: [ "food" ]
+categories: [ "food" ]
 title: "Bolotorta de Banana"
 ---
 A receita é de torta de banana da Dona Neusa e eu transformei em um bolo açucarado e canelento. As variações de uma receita podem não ser boas, mas sempre serão interessantes.

@@ -1,7 +1,7 @@
 ---
 date: "2010-09-25"
 link: "https://www.imdb.com/title/tt0861739"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Tropa de Elite"
 ---
 Assisti depois de muito tempo ter sido uma febre entre as pessoas. As frases que se tornaram famosas ouvi pela primeira vez. Mas nem por isso o filme deixou de ter o peso que acreditava que tivesse.

@@ -1,7 +1,7 @@
 ---
 date: "2010-08-13"
 link: "https://www.imdb.com/title/tt1320253"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Os Mercenários"
 ---
 Usando uma steady cam e iniciando no tom de documentário, Os Mercenários traz uma gangue de atores milionários que, em seus devidos personagens unidimensionais, fazem operações de guerra por uns trocados. A primeira cena, aliás, resume bem o que teremos no resto das cenas de ação: muito sangue. Tanto sangue que, no início, vemos o resto da matança através de uma lente de visão noturno, para não afastar de imediato o espectador que ainda verá muitas cabeças explodindo e corpos rolando.

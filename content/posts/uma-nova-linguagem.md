@@ -1,6 +1,6 @@
 ---
 date: "2013-12-04"
-tags: [ "code", "draft", "ccpp" ]
+categories: [ "code", "draft", "ccpp" ]
 title: "Uma nova linguagem"
 ---
 Tenho que me atualizar. Faz um tempo (anos) em que deixei de lado esse mundo "frescurento" de C++2030 e me foquei única e exclusivamente em resolver problemas da melhor forma possível com o que a linguagem já tinha a oferecer em uma implementação estável de compilador e bibliotecas.

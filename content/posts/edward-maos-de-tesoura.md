@@ -1,7 +1,7 @@
 ---
 date: "2011-07-31"
 link: "https://www.imdb.com/title/tt0099487"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Edward Mãos de Tesoura"
 ---
 Mesmo mais de 20 anos depois de produzido, o conto do homem inacabado com tesouras no lugar de dedos continua se sustentando bem, e por vários motivos que fazem hoje de Tim Burton ainda um diretor de destaque.

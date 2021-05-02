@@ -1,7 +1,7 @@
 ---
 date: "2016-12-15"
 link: "https://www.imdb.com/title/tt0017825"
-tags: [ "draft", "movies" ]
+categories: [ "draft", "movies" ]
 title: "Downhill"
 ---
 Este é o quinto filme dirigido por Alfred Hitchcock, um dos três filmes que ele dirigiu apenas em 1927. Após The Pleasure Garden, seu primeiro, teríamos The Mountain Eagle, um filme perdido há mais de 50 anos. Já este quinto oferece algumas belas surpresas na direção, como uma câmera subjetiva alternada, além de algumas ótimas piadas ocasionais em um drama no melhor estilo "retorno do filho pródigo".

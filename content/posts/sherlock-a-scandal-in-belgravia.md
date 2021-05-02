@@ -1,7 +1,7 @@
 ---
 date: "2020-11-22"
 link: "https://www.imdb.com/title/tt1942612"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Sherlock: A Scandal in Belgravia"
 ---
 Um dos melhores episódios da série é o primeiro da segunda temporada, A Scandal in Belgravia. Ele estabelece uma intrincada rede de personagens que crescem dentro de uma trama que envolve a continuação da temporada anterior nos seus últimos momentos após termos sido apresentados a Jim Moriarty e a emenda com Irene Adler, uma dominatrix que impressiona menos pelo sexo e mais pelo seu uso político. E por falar em política há uma participação maior do Reino Unido e outros governos em torno dessa mulher com um chicote que torna a história ainda mais picante.

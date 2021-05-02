@@ -1,7 +1,7 @@
 ---
 date: "2015-01-21"
 link: "https://www.imdb.com/title/tt0067204"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Pistoleiro Sem Destino"
 ---
 Peter Fonda atuou em dezenas de filmes e dirigiu três. Pistoleiro sem destino é o primeiro deles, em que ele também atua. É um retrato honesto de um pedacinho do velho oeste, mas mostrado de maneira romantizada e uma inesquecível trilha sonora.

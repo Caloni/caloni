@@ -1,7 +1,7 @@
 ---
 date: "2016-02-07"
 link: "https://www.imdb.com/title/tt5189670"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Making a Murderer"
 ---
 Filmado por um período de 10 anos, Making a Murderer é um documentário que assume a posição do réu Steven Avery, que foi preso por 18 anos por um crime que não cometeu e que, posto em liberdade, precisa se defender novamente de mais uma acusação de um crime hediondo. Porém, mais do que isso, é um filme que nos ajuda a pensar a problemática das diferentes versões de um fato e como a construção de uma história se torna mais vital do que a própria história, além de colocar em xeque o sistema americano de justiça, quando uma comunidade inteira parece estar disposta a colocar um homem detrás das grades para sempre por um jogo de influências que é difícil de se desvencilhar. Indo mais além, o documentário, pode-se dizer, escancara como é sensivemente falha a fé popular nas autoridades e na figura do próprio estado.

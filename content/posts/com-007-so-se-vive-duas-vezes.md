@@ -1,7 +1,7 @@
 ---
 date: "2012-11-28"
 link: "https://www.imdb.com/title/tt0062512"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Com 007 Só Se Vive Duas Vezes"
 ---
 Só se vive duas vezes tem aquela grandiosidade das aventuras do agente 007 no formato clássico que todos lembram, com um ambiente fantástico demais para ser verdade, mas uma trama com pontas e mistérios o suficiente para ficarmos entretidos por boa parte do tempo. Mais acelerado que seus antecessores, a iminência de uma guerra nuclear entre EUA e URSS causada por uma bizarra interferência na corrida espacial é o que causa a primeira "morte" de James Bond, o que dá nome ao filme e possui um plot replicado no recente [Skyfall], mas que aqui adquire um tom mais solene e... fúnebre!

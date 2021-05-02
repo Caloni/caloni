@@ -1,7 +1,7 @@
 ---
 date: "2020-06-13"
 link: "https://www.imdb.com/title/tt1039960"
-tags: [ "movies" ]
+categories: [ "movies" ]
 title: "Estômago"
 ---
 Este é um filme no auge da retomada do cinema brasileiro e quando os esquerdistas estavam sem ódio no coração com o lulinha da paz. Por isso a prisão não é horrível, mas podia ser melhor. Alguns insetos na comida e só isso. Este roteiro caminha em dois tempos distintos na história de Raimundo Nonato (João Miguel), um nordestino que vem para São Paulo ou outra grande metrópole do sul mostrar como em um filme há tanta desigualdade e desrespeito pelos serumaninhos. Mas um paradoxo se cria quando vemos o final do filme e descobrimos estar enganados a respeito da índole do protagonista. Infelizmente isso acontece tarde demais e soa falso. No entanto, a diversão fica por conta de diálogos bem trabalhados, com uma preparação de elenco que cria personagens factíveis e genuinamente engraçados. Sanitizados, mas engraçados. O objetivo do filme é ser comercial, e por isso o DVD vem cheio de extras e o play do filme, mesmo normal, nos mostra de maneira irritante um ícone no canto da tela para podermos pressionar um botão do controle remoto e ir para a receita que está sendo feita no filme. Desnecessário. E preguiçoso, já que nos extras a mesma opção existem, sem você precisar assistir ao filme novamente.

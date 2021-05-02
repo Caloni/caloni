@@ -1,7 +1,7 @@
 ---
 date: "2019-04-16"
 link: "https://www.imdb.com/title/tt7043380"
-tags: [ "draft", "series" ]
+categories: [ "draft", "series" ]
 title: "Osmosis"
 ---
 Ah, se o amor fosse apenas um código em um computador orgânico -- aka nosso cérebro -- e que fosse possível descobrir sua alma gêmea simplesmente analisando esse código. E se essa série distópica da Netflix, baseada em uma versão mais romântica e dramatizada de um episódio de Black Mirror, fosse francesa, e exibisse todas as formas de amar de um futuro próximo? Bom, aí nós teríamos que perder uma hora assistindo ao piloto para concluir: ideia interessante. Poderia ser um bom filme. Mas séries estendem demais conceitos simples.
