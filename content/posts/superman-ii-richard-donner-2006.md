@@ -1,9 +1,11 @@
 ---
-date: "2014-09-19"
-link: "https://www.imdb.com/title/tt0839995"
-categories: [ "movies" ]
-title: "Superman II - The Richard Donner Cut"
+categories:
+- movies
+date: '2014-09-19'
+link: https://www.imdb.com/title/tt0839995
+title: Superman II - The Richard Donner Cut
 ---
+
 Richard Donner's cut é superior à versão original não por causa da inspiração original da história. Isso é besteira, pois o roteiro já havia sido mastigado inúmeras vezes, ao ponto de ter sido dito que não havia nem mais um palavra de Mario Puzzo (que havia escrito ambos os originais). Além disso, o próprio original foi modificado para encaixar o final da rotação da Terra que seria usado apenas em sua continuação e por um motivo mais legítimo (Zod e sua trupe teriam destruído boa parte do planeta).
 
 Porém, o tom deste Superman II está em sintonia com o drama filosófico/religioso do original, além de saber usar o humor em momentos pontuais que não fogem da trama, diferente das tiradas sem critérios adicionadas por Richard Lester (o novo diretor sequer encontra freios após um momento em que todos acham que Superman está morto). Também é preciso dar créditos para o diálogo original com Jor-El, mal adaptado ao usar sua esposa depois que Marlon Brando se recusou a voltar ao set de filmagem para refazer suas cenas (curiosamente sua fala como está foi usada por Brian Singer em Superman Returns).

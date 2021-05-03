@@ -1,9 +1,11 @@
 ---
-date: "2015-01-15"
-link: "https://www.imdb.com/title/tt2103281"
-categories: [ "movies" ]
-title: "Planeta dos Macacos: O Confronto"
+categories:
+- movies
+date: '2015-01-15'
+link: https://www.imdb.com/title/tt2103281
+title: 'Planeta dos Macacos: O Confronto'
 ---
+
 A raça humana foi dizimada por uma gripe. O fato do vírus ter vindo de um macaco não teria significado nada se esse animal não tivesse agora inteligência e aparentemente uma consciência, ainda que coletiva. Agora vocês vão me perdoar, mas essa "consciência coletiva" dá asas para a imaginação. Você pode falar que o filme é uma metáfora da libertação de grupos étnicos, tribais, religiosos, povos subdesenvolvidos e virtualmente qualquer massa rotulada. Eu prefiro ver apenas um filme sobre macacos, pois obviamente a questão sobre o que o ele representa foge à compreensão do próprio filme e adentra a nossa cultura com todas as forças. Se você tiver obsessões políticas, qualquer que seja sua posição, vai gostar do enredo porque ele lida com força, poder e supremacia (além da possibilidade bem remota de paz).
 
 A sequência de ação inicial, mostrando os macacos organizando a sua caça, é um rouba-atenções de tirar o fôlego. Os efeitos digitais do cenário e principalmente da movimentação dos símios é de tirar o chapéu, tanto quanto a edição de som (ou seja, a criação da "voz" dos macacos). Ficamos atentos para entender como o grupo organizado por Caesar (Andy Serkis), o chimpanzé do filme anterior, evoluiu depois de um tempo na floresta. A história da evolução da sociedade humana não deve ter sido muito diferente, se baseando primeiramente com sinais, mas aos poucos verbalizando sua comunicação nos pontos mais relevantes. Poderíamos até especular se eles evitam a língua dos humanos como uma forma de diminuir sua importância. Como fã de Linguística, devo dizer que são questões fascinantes.

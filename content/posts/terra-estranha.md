@@ -1,10 +1,14 @@
 ---
-date: "2016-10-09"
-link: "https://www.imdb.com/title/tt2325977"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Terra Estranha"
+categories:
+- draft
+- movies
+date: '2016-10-09'
+link: https://www.imdb.com/title/tt2325977
+tags:
+- cinemaqui
+title: Terra Estranha
 ---
+
 Terra Estranha é um filme corajoso no formato de televisão. Ele é corajoso em entediar o espectador por quase todo o tempo para em seus minutos finais trazer a redenção de tudo aquilo que o filme pretende tratar. Sua coragem, aliás, vai além, pois descarta um final convencional pelo bem do argumento. E tudo isso na Austrália, terra da "aventura fácil", do clichê Hollywoodiano e das histórias de amor selvagem.
 
 Mas tudo isso é deixado de lado logo no começo, quando somos apresentados a uma família que está quebrada há muito tempo. A filha lasciva de quinze anos, Lily (Maddison Brown), parece ser a responsável por todo comportamento ressentido de todos os outros, até do filho mais novo, Tom (Nicholas Hamilton), que é facilmente aliciado por ela, já que importante para eles é sobreviver com os pais sob o mesmo teto até não dar mais. O almoço de família é convenientemente dividido pela mesa em pais e filhos, assim como os créditos iniciais vão convenientemente sumindo como areia no deserto.

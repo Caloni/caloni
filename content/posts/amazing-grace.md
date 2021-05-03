@@ -1,10 +1,14 @@
 ---
-date: "2019-10-24"
-link: "https://www.imdb.com/title/tt4935462"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Amazing Grace"
+categories:
+- draft
+- movies
+date: '2019-10-24'
+link: https://www.imdb.com/title/tt4935462
+tags:
+- cinemaqui
+title: Amazing Grace
 ---
+
 Amazing Grace é o resultado das horas gravadas de duas noites em uma igreja em Los Angeles pela Warner Brothers. Quem eles gravam? Ninguém menos que Aretha Franklin, uma das maiores cantoras que já pisou na Terra. De volta às origens, ela canta Gospel não como um anjo, mas como uma força da natureza vinda para o bem. Ela representa tudo o que podemos esperar de uma cantora completa.
 
 Não sei se Deus existe, mas sei que ele existisse sua porta-voz nesse mundo seria Aretha Franklin. Com ela cantando qualquer um se convence dos milagres da natureza. Aqui ela canta músicas que exigem tons altos e baixos, e Franklin dá conta de todas elas, emocionada ou não. Não são músicas famosas para quem não é evangélico, talvez nem sejam tão boas assim. E ainda assim Aretha transforma em um dos melhores álbuns que já se ouviu.

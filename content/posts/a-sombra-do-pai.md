@@ -1,10 +1,14 @@
 ---
-date: "2019-04-22"
-link: "https://www.imdb.com/title/tt6388464"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Sombra do Pai"
+categories:
+- draft
+- movies
+date: '2019-04-22'
+link: https://www.imdb.com/title/tt6388464
+tags:
+- cinemaqui
+title: A Sombra do Pai
 ---
+
 A diretora Gabriela Amaral veio da televisão mas no cinema brasileiro está se revelando uma excelente contadora de histórias. E com A Sombra do Pai, segundo longa após Animal Cordial, o gênero terror em terras tupiniquins começa a ganhar uma desenvoltura própria mesmo que referencie os clássicos mundiais inconfundíveis sobre além-túmulo.
 
 Mas o que Amaral está trabalhando aqui vai além da história e diz muito mais em como se conta ela. Ao descrever para nós essa família com seus membros isolados cada um em seus próprios medos o filme ganha o tom de terror pelos elementos naturais que vão acrescentando à nossa psique a presença do sobrenatural de uma forma natural e convincente, tanto que quando algo de fato ocorre não parece destacado de todo o resto, mas uma continuação do que estávamos vendo.

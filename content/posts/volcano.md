@@ -1,10 +1,14 @@
 ---
-date: "2018-10-28"
-link: "https://www.imdb.com/title/tt7186036"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Volcano"
+categories:
+- draft
+- movies
+date: '2018-10-28'
+link: https://www.imdb.com/title/tt7186036
+tags:
+- cinemaqui
+title: Volcano
 ---
+
 A Ucrânia pós-comunismo ainda tem uma lição ou duas a ensinar sobre como sociedades funcionam no Leste Europeu. Em Volcano ela coloca Lukas, um urbanoide civilizado, em contato com um ambiente hostil. Mas será mesmo hostil, ou estamos acostumados a pensar dentro da nossa caixa social que se organiza em presidente, ministros e o povo? Só o fato da estranheza do filme nos fazer pensar um pouco a respeito disso já é digno de nota.
 
 Mas esta também é uma viagem interna de seu protagonista, onde ao encontrar o pitoresco Vova, interpretado por Viktor Zhdanov, Lukas, interpretado por Serhiy Stepansky, realiza o contraponto necessário para entendermos as diferenças na vida dos dois e o que os fez chegar onde chegaram.

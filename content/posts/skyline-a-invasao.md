@@ -1,9 +1,11 @@
 ---
-date: "2010-12-03"
-link: "https://www.imdb.com/title/tt1564585"
-categories: [ "movies" ]
-title: "Skyline - A Invasão"
+categories:
+- movies
+date: '2010-12-03'
+link: https://www.imdb.com/title/tt1564585
+title: Skyline - A Invasão
 ---
+
 As histórias são profundas o suficiente para nos preocuparmos um pouquinho com o destino dos personagens (rapaz com acordo promissor com melhor amigo e sua mulher grávida, o amigo rico que é gente boa e sua esposa fiel e paciente, e a agente do amigo rico, o que faz com que ela seja a primeira a ser esmagada e nem nos darmos conta) e joviais o suficiente para não sentirmos muito pela perda de cada um deles (ou pelo menos por muito tempo).
 
 Os efeitos, por sua vez, aparentemete limitados, são revelados na medida certa em que a situação se complica, e aos poucos a ameaça vai ocupando o seu posto de causador da história.

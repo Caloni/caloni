@@ -1,10 +1,14 @@
 ---
-date: "2019-10-23"
-link: "https://www.imdb.com/title/tt8659050"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Bulbul Pode Cantar"
+categories:
+- draft
+- movies
+date: '2019-10-23'
+link: https://www.imdb.com/title/tt8659050
+tags:
+- cinemaqui
+title: Bulbul Pode Cantar
 ---
+
 Este filme se chama Bulbul Pode Cantar, porque é a única coisa de divertido que ela pode fazer com a aprovação da sociedade em que vive. Infelizmente, ela não consegue cantar direito em público, se sente envergonhada. E é aí que começa mais um drama de valores de uma sociedade oprimindo as mentes jovens deste século.
 
 A história gira em torno de três amigos, duas garotas e um garoto, em que o garoto é gay, ou afeminado, e sofre bullying praticamente todo dia por causa disso, e não sabemos se é por isso que ele prefere a companhia das meninas. Boa parte do filme os vemos na escola e se divertindo após as aulas. Uma paixão entre Bulbul e um menino vai se desenvolvendo, mas nós não sabemos dos perigos que é se beijar nessa idade caso alguém descubra.

@@ -1,10 +1,14 @@
 ---
-date: "2018-01-17"
-link: "https://www.imdb.com/title/tt6244144"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Repartição do Tempo"
+categories:
+- draft
+- movies
+date: '2018-01-17'
+link: https://www.imdb.com/title/tt6244144
+tags:
+- cinemaqui
+title: A Repartição do Tempo
 ---
+
 A Repartição do Tempo é a contribuição brasileira recente sobre filmes que discutem a não-unicidade dos indivíduos. E como toda contribuição brasileira em um gênero de nicho muito específico ela tropeça na realização pelos aspectos mais básicos. Como colocar Dedé Santana no filme.
 
 A história tenta fazer um apanhado dos estereótipos recentes sobre política brasileira para retratar a repartição mais eficiente do serviço público: o departamento de patentes. E por apanhado eu quero dizer uma busca nas redes sociais na internet. Por isso expressões bipolares como "petralha", "comunista" e similares serão jogadas no roteiro como verdadeiras piadas, mas apenas revela a falta de criatividade dos realizadores, que se limitam a repetir "xingamentos" de internet.

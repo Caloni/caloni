@@ -1,9 +1,11 @@
 ---
-date: "2010-12-24"
-link: "https://www.imdb.com/title/tt1320082"
-categories: [ "movies" ]
-title: "O Concerto"
+categories:
+- movies
+date: '2010-12-24'
+link: https://www.imdb.com/title/tt1320082
+title: O Concerto
 ---
+
 Trama principal: o próprio concerto; trama secundária: a relação de Andrey e sua solista, Anne-Marie.
 
 Há uma introdução eficaz, pois já demonstra o jeito do maestro com a regência, e ao mesmo tempo, no corte inicial, já mostra que ele não faz parte da orquestra, mas está condicionado ao papel de faxineiro. Uma direção de arte que se preocupa com os detalhes em vermelho escuro (empoeirado?) do escritório do antigo partido. Domínio sobre a algumas sequências, como no jantar na casa de Andrey em que discutem o plano. Note como sua mulher aparece ao fundo e sussurra no ouvido de Andrey, ao passo que ao se dirigir à cozinha a câmera a acompanha, e ainda faz um círculo, voltando para a mesa de jantar.

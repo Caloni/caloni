@@ -1,10 +1,14 @@
 ---
-date: "2019-11-01"
-link: "https://www.imdb.com/title/tt2365580"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Cade Você, Bernadete?"
+categories:
+- draft
+- movies
+date: '2019-11-01'
+link: https://www.imdb.com/title/tt2365580
+tags:
+- cinemaqui
+title: Cade Você, Bernadete?
 ---
+
 "Cadê Você, Bernadete?" é um filme que projeta em seus humanos mensagens mais gerais a respeito de relacionamento e sociedade. Em algum momento alguém usa a desculpa de que a verdade é muito complicada e a resposta recebida é que sim, ela é complicada, mas isso não quer dizer que não devemos tentar alcançá-la.
 
 O novo filme de Richard Linklater (A Melhor Escolha, Jovens, Loucos e Mais Rebeldes) alcança momentos profundos sobre a compreensão humana e consegue isso através de um roteiro com personagens que sabem que estão em um filme, mas que são interpretados de maneira tão intensa por Cate Blanchett e Kristen Wiig que você até se esquece disso. Aliás, esse também é um filme de altos e baixos, mas todos os altos são assinados por essas duas fenomenais atrizes. Elas estão tão acima da média que elevam até a interpretação da estreante Emma Nelson em uma cena comovente em que uma adolescente criada por uma mãe complicada a defende de forma autêntica.

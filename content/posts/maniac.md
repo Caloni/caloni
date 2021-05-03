@@ -1,9 +1,12 @@
 ---
-date: "2018-09-30"
-link: "https://www.imdb.com/title/tt5580146"
-categories: [ "draft", "series" ]
-title: "Maniac"
+categories:
+- draft
+- series
+date: '2018-09-30'
+link: https://www.imdb.com/title/tt5580146
+title: Maniac
 ---
+
 Dois estranhos se encontram casualmente. Ambos possuem traumas no passado. Um deles é curável, e o outro tem esquizofrenia. Ambos parecem pensar na mesma frequência e frequentam os mesmos sonhos gerados por computador. Ambientado em um mundo ligeiramente futurista e esquisito, com um toque de retrô, a série Maniac tem um quê estético (e temático) que aos poucos nos revela ser um sci-fi pautado em algumas ideias muito mais psicológicas e filosóficas que poderia-se esperar.
 
 Dirigido do começo ao fim por Cary Joji Fukunaga (do sensacional Beasts of No Nation e Jane Eyre), os episódios são pequenos momentos em um experimento que pretende curar o sofrimento humano (no sentido psicológico). Visto como máquinas defeituosas pelos pesquisadores Dr. James K. Mantleray (Justin Theroux) e a Dra. Azumi Fujita (a deliciosa andróide de Ex-Machina Sonoya Mizuno), o trabalho de uma vida de Mantleray se baseia na personalidade de sua mãe, autora de sucesso de livros de auto-ajuda (Sally Field, interessante). Além disso, esta é uma das inúmeras iterações que através de três drogas que geram fases distintas de tratamento, pretende criar a droga mais aguardada da humanidade: a que nos tira a própria humanidade e nos transforma em robôs.

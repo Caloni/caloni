@@ -1,10 +1,14 @@
 ---
-date: "2016-09-30"
-link: "https://www.imdb.com/title/tt4163644"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Refúgio"
+categories:
+- draft
+- movies
+date: '2016-09-30'
+link: https://www.imdb.com/title/tt4163644
+tags:
+- cinemaqui
+title: Refúgio
 ---
+
 Refúgio é uma comédia de situação que brinca um pouco com essa sensação da meia-idade (defina você esse período da sua vida) em explorar outros horizontes, levar a cabo os sonhos da infância, reviver, enfim, os bons momentos que estão em nossas memórias. Porém, ao mesmo tempo que temos esse desejo, estamos ancorados na vida real, sujeitos às complicações da vida moderna.
 
 O herói do filme, Michel (Bruno Podalydès), trabalha com computação gráfica, no meio de um bando de jovenzinhos focados em impressionar os outros. E a sua praia já não é ficar ancorado em uma vida tranquila e estabilizada. Ele começa, então, a desejar expandir sua visão do que é aventura. Fã do serviço aéreo postal que atravessava a cordilheira e inspirado pelo tema no trabalho sobre palíndromos -- palavras que são iguais lidas ao contrário -- ele adquire um caiaque ("kayak") e aos poucos monta todo um universo cheio de apetrechos para atravessar um rio.

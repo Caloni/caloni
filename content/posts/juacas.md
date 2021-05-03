@@ -1,8 +1,11 @@
 ---
-date: "2017-05-18"
-categories: [ "draft", "series" ]
-title: "Juacas"
+categories:
+- draft
+- series
+date: '2017-05-18'
+title: Juacas
 ---
+
 A nova série da Disney, Juacas, tem todos os elementos que  você esperaria de um conteúdo tipicamente Disney. Focado em uma galera jovem e despreocupada, há moças e rapazes em um clima descolado e um ambiente que lembra um pouco a novela Malhação, mas que ensaia contar uma história mais minissérie.
 
 Ela se passa na praia de Itacaré, na Bahia, e deve impulsionar o turismo na região. A areia e as águas parecem límpidas e próprias para o surf. Há um campeonato tradicional entre equipes por lá chamado CAOSS. Algo como Campeonato Alguma cOisa Sobre Surf cuja sigla tem duplo sentido. Os últimos vencedores, os Red Sharks (do inglês Tubarões Vermelhos, o que eu imagino também ter duplo sentido) são os favoritos e os bad boys da região. Daí chega o filhinho de papai que tem uma missão a cumprir. Ele é o escolhido para resgatar o legado dos Juacas, a equipe campeã do passado e gente boa, além de ótimos surfistas.

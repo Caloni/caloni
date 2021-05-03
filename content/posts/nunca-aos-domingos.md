@@ -1,9 +1,11 @@
 ---
-date: "2015-08-13"
-link: "https://www.imdb.com/title/tt0054198"
-categories: [ "movies" ]
-title: "Nunca Aos Domingos"
+categories:
+- movies
+date: '2015-08-13'
+link: https://www.imdb.com/title/tt0054198
+title: Nunca Aos Domingos
 ---
+
 Uma comédia aparentemente despretensiosa dos anos 60, grega, com muitos diálogo em inglês, e que vem bem a calhar de assistir nesse momento sócio-econômico onde a terra dos filósofos da lógica perdeu seu último laço com o bom senso. Quando é aberto para votação nacional para decidir se será paga uma dívida internacional adquirida na farra, a cultura de Nunca aos Domingos da vida fácil e do proletariado explorado vem à tona.
 
 No entanto, há algo de podre na constituição desses personagens maniqueístas. O filósofo com seu bloquinho de anotações procurando um sentido de por que o mundo sofre não enxerga a felicidade plena diante do seu grande nariz. A prostituta bela e ousada não entende que sua vida não poderia ser mais recompensadora do que poder tomar um banho no cais acompanhada de homens fortes e brutos, vivendo o presente sem filtros racionais.

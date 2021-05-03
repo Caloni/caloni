@@ -1,9 +1,12 @@
 ---
-date: "2020-12-08"
-link: "https://www.reddit.com/r/todayilearned/"
-categories: [ "blog", "lists" ]
-title: "TIL: Today I Learned"
+categories:
+- blog
+- lists
+date: '2020-12-08'
+link: https://www.reddit.com/r/todayilearned/
+title: 'TIL: Today I Learned'
 ---
+
 Se você guardar o mínimo de conhecimento que aprendeu em um dia de sua vida e relembrá-lo ao longo dos anos não vai perceber qualquer diferença, pois com a internet fica fácil recuperar o conhecimento com nova pesquisa. No entanto, na internet está também você e seu conhecimento em forma de posts, comentários, podcasts ou qualquer tipo de conteúdo que você produziu. Não custa manter a rotina de gravar o que foi aprendido em um dia para tentar capturar a essência de cada um deles. Quem sabe algo de esclarecedor sobre nós mesmos não pode surgir disso.
 
  - 2021-04-21: meu blogue não é um blogue, mas um [jardim digital].

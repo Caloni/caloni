@@ -1,9 +1,12 @@
 ---
-date: "2016-07-16"
-link: "https://www.imdb.com/title/tt0903747"
-categories: [ "draft", "series" ]
-title: "Breaking Bad - Segunda Temporada"
+categories:
+- draft
+- series
+date: '2016-07-16'
+link: https://www.imdb.com/title/tt0903747
+title: Breaking Bad - Segunda Temporada
 ---
+
 Temporada S02 revista. Alguns sentimentos mistos. A saga do Walter White ganha alguns contornos novelísticos, mas a paixão cromática do diretor de fotografia é contagiante do começo ao fim. Não me lembro de nenhum episódio onde não estivesse procurando nos cenários e figurino a presença das cores verde, amarelo, azul e roxo; pior: agora temos um novo tom que começa a despontar: o cinza/preto.
 
 E é por isso que um dos astros fora de cena que melhor contribui para a história é Michael Slovis, o diretor de fotografia de todos os episódios (ou da grande maioria), e que nas próximas temporadas irá digirir um episódio em cada.

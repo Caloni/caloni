@@ -1,9 +1,11 @@
 ---
-date: "2012-03-06"
-link: "https://www.imdb.com/title/tt0048356"
-categories: [ "movies" ]
-title: "Marty"
+categories:
+- movies
+date: '2012-03-06'
+link: https://www.imdb.com/title/tt0048356
+title: Marty
 ---
+
 O que faz Marty ser um filme tão marcante parece ser os mesmos motivos que fizeram com que [Laços Humanos], clássico de Elia Kazan, hoje fosse imortalizado. O fato é que, apesar do dramalhão quase mexicano envolvendo a família e os amigos do personagem-título, as atuações e os diálogos, principalmente entre Ernest Borgnine e Betsy Blair, tornam muito difícil não gostar de uma história tão humana e tão sensível.
 
 Ainda assim, é preciso deixar claro que os estereótipos estão aí exatamente para rirmos deles, e não como vemos nos dias de hoje personagens unidimensionais comportando-se como se fossem importantes. Dessa forma, a tia pessimista e agourenta não é mais que uma caricatura, mas que exatamente por ser tão comum em qualquer família, é identificada rapidamente pelo nosso processo de identificação e auto-encaixe.

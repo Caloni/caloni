@@ -1,9 +1,12 @@
 ---
-date: "2018-01-30"
-link: "https://www.imdb.com/title/tt1433775"
-categories: [ "draft", "movies" ]
-title: "Garoojigi"
+categories:
+- draft
+- movies
+date: '2018-01-30'
+link: https://www.imdb.com/title/tt1433775
+title: Garoojigi
 ---
+
 Este filme tem uma história tão ruim, mas como ela é baseada em um "conto antigo" (que nunca existiu) nos faz pensar que isso é coisa do pessoal das antigas, um bando de malucos onde fazer sexo com uma ursa pode salvar uma aldeia da infertilidade. E como não dar risada de um filme supostamente erótico onde vemos meia-dúzia de peitos e nenhum órgão reprodutor?
 
 Isso vindo de um filme asiático pode ser desculpado pela cultura. Mas é preciso ressaltar que a visão de sexo dos cineastas é tão infantil quanto o de uma criança de 12 anos. Para eles o ápice do sexo é ter um pau gigantesco e ficar usando ele em movimentos repetitivos ad exhaustum. Além disso, associa impotência com pau pequeno. Há uma cena em que o protagonista de pau pequeno é pisoteado várias vezes pelo irmão mais velho porque sua virilha está pegando fogo. Sim.

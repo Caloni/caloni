@@ -1,9 +1,11 @@
 ---
-date: "2011-08-07"
-link: "https://www.imdb.com/title/tt1527186"
-categories: [ "movies" ]
-title: "Melancolia"
+categories:
+- movies
+date: '2011-08-07'
+link: https://www.imdb.com/title/tt1527186
+title: Melancolia
 ---
+
 Lars von Trier é um realizador corajoso. Especialista em explorar as facetas menos nobres de nossos sentimentos, já ousou colocar Bjork em Dançando no Escuro, um musical sem final feliz, e Nicole Kidman no vilarejo de Dogville, onde mora o que existe de mais desprezível nas relações sociais. De uma maneira geral, a decadência humana sempre foi retratada em seus trabalhos de uma forma emblemática, porém, visual, que é onde reside a força do seu cinema.
 
 Spoilers estão liberados a seguir. Portanto, sugiro ler depois de assistir ao filme.

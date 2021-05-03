@@ -1,9 +1,12 @@
 ---
-date: "2019-09-22"
-categories: [ "draft", "lists" ]
-title: "Roger Ebert Great Movies"
+categories:
+- draft
+- lists
+date: '2019-09-22'
+title: Roger Ebert Great Movies
 ---
- - 12 Angry Men 1957
+
+- 12 Angry Men 1957
  - [2001: A Space Odyssey](/2001-uma-odisseia-no-espaco) 1968
  - 25th Hour 2002
  - 3 Women 1977

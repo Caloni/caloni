@@ -1,9 +1,11 @@
 ---
-date: "2012-01-01"
-link: "https://www.imdb.com/title/tt0311429"
-categories: [ "movies" ]
-title: "A Liga Extraordinária"
+categories:
+- movies
+date: '2012-01-01'
+link: https://www.imdb.com/title/tt0311429
+title: A Liga Extraordinária
 ---
+
 O filme pretende contar a história de pessoas que, dotadas de alguma capacidade especial para sobreviver, são reunidos pelo Império Britânico para tentar evitar que seja instaurada uma possível guerra mundial, tentativas de um ganancioso sujeito que usa uma máscara e simula ataque entre nações. Isso na virada para o século XX em uma Era Vitoriana alternativa.
 
 Concebido a partir dos quadrinhos de Alan Moore e Kevin O'Neill, logo no princípio já fica claro que a ideia funciona muito bem em seu universo original, mas que, a despeito do sucesso da adaptação de Watchmen, também de Moore, para as telonas, a direção de Stephen Norrington (criador dos efeitos especiais de dois filmes da [série Alien]) e o roteiro de James Robinson consegue tornar a história muito confusa para darmos atenção para a suposta trama que se forma com a reunião dos "cavalheiros extraordinários".

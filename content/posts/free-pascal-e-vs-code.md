@@ -1,8 +1,11 @@
 ---
-date: "2019-03-09"
-categories: [ "code", "draft",  ]
-title: "Free Pascal e VS Code"
+categories:
+- code
+- draft
+date: '2019-03-09'
+title: Free Pascal e VS Code
 ---
+
 Agora que o VS Code é a ferramenta universal para todas as plataformas e linguagens imagináveis, acreditem ou não, há até plugin para Pascal. Ao instalar a extensão mantida por Alessandro Fragnani você recebe o intelisense e algumas dicas durante erros de programação.
 
 A própria integração com o Free Pascal Compiler, o compilador open source de Pascal multiplataforma, já é mostrada na Home desse plugin. É só seguir os modelos e alterar de acordo com o que pede o VS Code (que está sendo atualizado constantemente).

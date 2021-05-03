@@ -1,9 +1,12 @@
 ---
-date: "2015-12-13"
-link: "https://www.imdb.com/title/tt2085059"
-categories: [ "draft", "series" ]
-title: "Black Mirror - S01E02 - Fifteen Million Merits"
+categories:
+- draft
+- series
+date: '2015-12-13'
+link: https://www.imdb.com/title/tt2085059
+title: Black Mirror - S01E02 - Fifteen Million Merits
 ---
+
 Black Mirror é uma série que explora o que há de pior em nossa era da comunicação instantânea e da tecnologia crescente. Na verdade, eles vão um pouco além da nossa realidade atual, avançando alguns anos/décadas, onde algumas novidades brincam com nosso conceito de humanidade e relacionamentos, mídia e governos.
 
 Alguém poderia acusar o segundo episódio da primeira temporada de Black Mirror de inocente, ou de dizer apenas obviedades. Esse alguém estaria correto. Porém, mesmo assim, o dizer obviedades em "Fifteen Million Merits" também faz parte do show de talentos futurístico que insere, assim como o episódio anterior, a eterna questão do coletivo definir e subordinar cada indivíduo a seus desejos. Nesse caso, o desejo de sucesso de cada um interfere no que é sucesso para o indivíduo: sucesso é não ser como os outros.

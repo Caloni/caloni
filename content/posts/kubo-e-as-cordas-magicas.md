@@ -1,9 +1,12 @@
 ---
-date: "2016-12-03"
-link: "https://www.imdb.com/title/tt4302938"
-categories: [ "draft", "movies" ]
-title: "Kubo e as Cordas Mágicas"
+categories:
+- draft
+- movies
+date: '2016-12-03'
+link: https://www.imdb.com/title/tt4302938
+title: Kubo e as Cordas Mágicas
 ---
+
 Kubo é uma animação em stop motion que usa um monte de elementos computacionais para tornar tudo muito mais fluido, mágico e... não-stop motion. Porém, ao mesmo tempo, ele se aproveita da técnica para tornar tudo muito mais real. Ele conta uma história oriental com o herói sendo uma criança, mas não são exatamente coisas de criança que ocorrem com ele. A maior virtude do filme talvez seja sua não-infantilização de um filme que entende que crianças podem aguentar discussões que envolvam a morte, e não há nada de errado em um garoto não ter seu olho esquerdo.
 
 Estreia do diretor Travis Knight, que já trabalhou como animador em Coraline, Paranormal e Boxtrolls, Kubo conta a triste história de uma mãe que foge de uma briga feia de família, onde uma de suas irmãs arranca os olhos de seu filho. Ambos vivem escondidos em uma caverna do lado de um vilarejo, onde Kubo todos os dias desce e conta uma história heroica sobre seu pai, através de seu shamisen, um instrumento de corda oriental clássico com três cordas, que faz com que suas folhas de papel saiam voando magicamente e criem as mais diferentes dobraduras de papel (origamis) que interagem entre si, para espanto e admiração das pessoas em volta.

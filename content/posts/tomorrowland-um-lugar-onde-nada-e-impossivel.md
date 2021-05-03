@@ -1,9 +1,12 @@
 ---
-date: "2015-11-23"
-link: "https://www.imdb.com/title/tt1964418"
-categories: [ "draft", "movies" ]
-title: "Tomorrowland: Um Lugar Onde Nada é Impossível"
+categories:
+- draft
+- movies
+date: '2015-11-23'
+link: https://www.imdb.com/title/tt1964418
+title: 'Tomorrowland: Um Lugar Onde Nada é Impossível'
 ---
+
 Um "A Corrente do Bem" atualizado a nível tecnológico, inserido em uma aventura onde pessoas voam, coisas voam e a NASA é uma expansão da Disney. Ou seria o contrário?
 
 Tomorrowland só não é um filme Sessão da Tarde graças ao toque mágico de Brad Bird (Os Incríveis, Ratatouille), que consegue pegar uma aventura insossa como essa e torná-la em algo divertido, que parece conter mais do que o simplório roteiro que escreveu com Damon Lindelof (Guerra Mundial Z, Prometheus), onde o futuro da humanidade está ameaçado, mas ao mesmo tempo seus gênios criaram um lugar onde tudo é possível (em que tudo se resume basicamente em voar e flutuar em diferentes versões). Com a ajuda dos visionários (que antes seriam apenas nerds) Frank Walker (George Clooney) e Casey Newton (nossa, como eles são originais nos nomes dos personagens!), talvez ainda haja esperança.

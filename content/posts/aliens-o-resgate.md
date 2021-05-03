@@ -1,9 +1,11 @@
 ---
-date: "2011-12-08"
-link: "https://www.imdb.com/title/tt0090605"
-categories: [ "movies" ]
-title: "Aliens, o Resgate"
+categories:
+- movies
+date: '2011-12-08'
+link: https://www.imdb.com/title/tt0090605
+title: Aliens, o Resgate
 ---
+
 James Cameron parece ter uma dedicação especial com as continuações. Tanto a série [Alien] quanto [O Exterminador do Futuro] (essa iniciada por ele mesmo) expandem seus universos justamente no primeiro sequel.
 
 No caso do trabalho original de Alien, o terror, suspense, sci-fi de Ridley Scott, apesar de moldar uma geração inteira de filmes parece despretensioso frente à reconstrução da saga da Tenente Ripley onde a evolução dos ovos da nave alienígena segue seu rumo natural quando uma colônia humana de povoamento se estabelece na mesma região onde a nave foi primeiramente encontrada.

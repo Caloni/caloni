@@ -1,9 +1,12 @@
 ---
-date: "2018-03-26"
-link: "https://www.imdb.com/title/tt6873658"
-categories: [ "draft", "series" ]
-title: "O Mecanismo"
+categories:
+- draft
+- series
+date: '2018-03-26'
+link: https://www.imdb.com/title/tt6873658
+title: O Mecanismo
 ---
+
 Desde Narcos fica claro que Padilha não está bem. Acostumado a tentar chocar a sociedade usando detalhes sutis da realidade mais estranha que a ficção (Tropa de Elite, Tropa de Elite 2, Robocop (2014)), o diretor erradicado do Brasil por conta de ameaças à sua integridade e de sua família por conta de um possível Tropa de Elite 3, sua série "O Mecanismo" tenta resgatar o patriotismo brega de um brasileiro que já se esqueceu faz tempo o conceito de patriota, permeado de uma onda direitista extremamente brega. Se a esquerda sabe ser populista com a classe de um pedreiro, a direita consegue passar vergonha até quando está falando sério.
 
 Para essa missão de desvendar um processo de investigação polítcia a série apresenta o detetive com uma síndrome absurda de "fazer o certo" Marco Ruffo, interpretado por um Selton Mello que precisa sussurrar no ouvido do espectador tudo que está pensando. Entre seus pensamentos escutamos como ele fica possesso de não conseguir pegar os caras maus, e como ele é brilhante por catar papéis cortados no lixo e resgatar uma operação milionária de um laranja. Através dessa operação bancária ele e sua escudeira, a delicinha Verena Cardoni (Caroline Abras, que também faz parte da narração) irão caçar os peixes grandes da política brasileira. Começando pelo doleiro "faço cara de pouco caso" Roberto Ibrahim (Enrique Diaz).

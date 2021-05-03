@@ -1,9 +1,11 @@
 ---
-date: "2015-03-23"
-link: "https://www.imdb.com/title/tt0110413"
-categories: [ "movies" ]
-title: "O Profissional"
+categories:
+- movies
+date: '2015-03-23'
+link: https://www.imdb.com/title/tt0110413
+title: O Profissional
 ---
+
 Quando descobrimos que Luc Besson escreveu e dirigiu "Léon", ou O Profissional, é de ficar boquiaberto como o diretor perdeu a mão por tantos anos, acertando aqui e ali somente (Joana dArc é um ótimo exemplo).
 
 Porém, mais fascinante é como esse filme se desenvolve como ação. Há uma sequência inicial de perder o fôlego que de quebra é econômica em explicar como aquele universo onde a história se passa é realista, mas não tão realista. Há um pouco de humor, mas ele vem desse tom fantasioso, um tom bem sutil, mas etéreo, que preenche a película em todos os momentos que alguma coisa acontece. Incluindo, claro, a trilha sonora, magistral e tematicamente penetrante.

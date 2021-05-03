@@ -1,8 +1,11 @@
 ---
-date: "2008-05-23"
-categories: [ "code", "draft",  ]
-title: "Aprendendo rapidamente conceitos essenciais do WinDbg"
+categories:
+- code
+- draft
+date: '2008-05-23'
+title: Aprendendo rapidamente conceitos essenciais do WinDbg
 ---
+
 Todo o poder e flexibilidade do pacote Debugging Tools da Microsoft pode ser ofuscado pela sua complexidade e curva de aprendizagem. Afinal de contas, usar o depurador do Visual Studio é muito fácil, quando se começa a usar, mas mesmo assim conheço muitos programadores que relutam em depurar passo-a-passo, preferindo a depuração por meio de "MessageBoxes" ou saídas na tela. Imagine, então, a dificuldade que não é para quem conseguiu às duras penas aprender a tornar um hábito a primeira passada do código novo em folha através do F10 começar a fazer coisas como configurar símbolos e digitar comandos exdrúxulos em uma tela em modo texto. Para piorar a questão, existem aqueles que defendem o uso unificado de uma ferramenta que faça tudo, como um telefone celular. Eu discordo. Quando a vantagem competitiva de uma ferramenta sobre outra é notável, nada pior que ficar preso em um ambiente legalzinho que faz o mínimo para você, mas não resolve o seu problema de deadlock.
 
 Foi pensando nessa dificuldade que foi escrita uma apresentação nota dez por Robert Kuster que explica todas as minúcias importantes para todo programador iniciante e experiente na arte de "WinDbgear". "WinDbg. From A to Z!" é uma ferramenta tão útil quanto o próprio WinDbg, pois explica desde coisas simples que deve-se saber desde o início, como configurar símbolos, quanto assuntos mais avançados, como depuração remota. Até para quem já está no nível avançado vale a pena recapitular algumas coisas que já foram ditas no  AWD.

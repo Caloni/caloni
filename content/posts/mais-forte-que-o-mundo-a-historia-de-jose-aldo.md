@@ -1,9 +1,12 @@
 ---
-date: "2016-07-14"
-link: "https://www.imdb.com/title/tt3918584"
-categories: [ "draft", "movies" ]
-title: "Mais Forte que o Mundo: A História de José Aldo"
+categories:
+- draft
+- movies
+date: '2016-07-14'
+link: https://www.imdb.com/title/tt3918584
+title: 'Mais Forte que o Mundo: A História de José Aldo'
 ---
+
 Este é um filme que se apaixona por várias coisas ao mesmo tempo. Em algumas delas há sempre o risco de ter ido longe demais. Em outras é o praticamente essencial para a história que está sendo contada.
 
 Este é um filme que se apaixona pela técnica da "Câmera GoPro", a que mostra o ponto de vista dos objetos manipulados pelos personagens como uma corda de pular ou uma vassoura (usada tanto pela série Breaking Bad que ficou sua marca registrada). A forma de produzir esse efeito é colocando uma dessas micro-câmeras de esportistas radicais nesses objetos e filmando por essa perspectiva (a uma resolução absurdamente proibitiva para tempos passados, daí a novidade hoje).

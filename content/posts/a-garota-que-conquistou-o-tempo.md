@@ -1,9 +1,12 @@
 ---
-date: "2019-04-22"
-link: "https://www.imdb.com/title/tt0808506"
-categories: [ "draft", "movies" ]
-title: "A Garota Que Conquistou O Tempo"
+categories:
+- draft
+- movies
+date: '2019-04-22'
+link: https://www.imdb.com/title/tt0808506
+title: A Garota Que Conquistou O Tempo
 ---
+
 Netflix, fui tapeado! Pensei que iria ver uma animação sobre viagem no tempo no estilo Steins;Gate e acabei vendo um filme de menininha japonesa. Com quem devo ficar? Oh, meu deus, de quem será que eu gosto? Este também é um filme sobre uma pessoa que volta no tempo apenas para comer seu pudim antes da irmã.
 
 A animação em si é consistente e agradável, embora nada original. Foca mais nas formas e possui a paleta típica de animações dos estúdios Ghibli (de Hayao Miyazaki). Quando os personagens estão longe não vemos suas faces. E há um quê de Makito Shinkai (do sucesso pop adolescente Your Name) quando vemos a jovem Riisa saltando em câmera lenta ou em um still para fazer o pôster do filme.

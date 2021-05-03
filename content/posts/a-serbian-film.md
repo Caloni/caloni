@@ -1,9 +1,11 @@
 ---
-date: "2011-07-31"
-link: "https://www.imdb.com/title/tt1273235"
-categories: [ "movies" ]
-title: "A Serbian Film - Terror sem Limites"
+categories:
+- movies
+date: '2011-07-31'
+link: https://www.imdb.com/title/tt1273235
+title: A Serbian Film - Terror sem Limites
 ---
+
 Segundo um relatório sobre a Guerra da Bósnia feito pela Agência Central de Inteligência americana, 90% dos crimes de guerra foram cometidos pelos sérvios. Em uma região conturbada política e religiosamente por mais de um século, o povo sérvio se acostumou a um ambiente instável. A grande questão é como isso afeta a moral dessas pessoas.
 
 A história de A Serbian Film gira em torno de Milos, que desde sua apresentação já se revela um ator pornô que não se envergonha do que faz, pois não se incomoda, por exemplo, que seu filho, ainda criança, assista aos seus trabalhos. Aliás, a própria dinâmica entre Milos, sua família e sua colega de trabalho já seria por si só um material revelador da personalidade do protagonista e do ambiente onde ele está inserido, pois, em situações onde normalmente ficaríamos constrangidos, o mesmo não acontece com nenhum dos personagens do filme.

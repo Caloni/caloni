@@ -1,9 +1,11 @@
 ---
-date: "2015-06-24"
-link: "https://www.imdb.com/title/tt2096673"
-categories: [ "movies" ]
-title: "Divertida Mente"
+categories:
+- movies
+date: '2015-06-24'
+link: https://www.imdb.com/title/tt2096673
+title: Divertida Mente
 ---
+
 Divertida Mente é um sinal de que Disney/Pixar, apesar de às vezes parecer que está saindo dos trilhos, produzindo mais e mais continuações e se transformando em uma franquia comercialmente poderosa enquanto artisticamente repetitiva, dessa vez arrisca pra valer, apostando em uma versão de Ela (Spike Jonze, 2013) para o público infantil, destrinchando as emoções que nos formam de uma maneira que dificilmente você verá em produções do gênero.
 
 A história conta desde o início com a narradora em off Alegria (Miá Mello aqui, e a sacada de gênio Amy Poehler na versão original), a emoção que nasce junto de um bebê que será o protagonista no mundo real, Riley, a filha única de um casal. Alegria é a primeira de cinco emoções que controlam o humor de Riley. Na verdade, ela é a principal, seguida (bem) de perto pela Tristeza (Phyllis Smith no original; no nacional deve ser um genérico da Globo), e tendo três outros coadjuvantes: Raiva, Medo e Nojinho. Essas cinco emoções são consideradas pela psicologia moderna as emoções-base de onde derivam todas as outras (na verdade, são sete, mas deram uma resumida). A direção é de Pete Docter, que já pegou do estúdio Up! e Monstros S.A., e co-dirigido pelo estreante Ronaldo Del Carmen, e o resultado é um tanto decepcionante. Já o roteiro, escrito a sete mãos, teve ajuda dos diálogos de parte do elenco, e está muito mais interessante em metade do tempo. A outra metade é mais da Disney do que já conhecemos.

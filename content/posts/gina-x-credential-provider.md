@@ -1,8 +1,10 @@
 ---
-date: "2007-08-13"
-categories: [ "code" ]
-title: "GINA x Credential Provider"
+categories:
+- code
+date: '2007-08-13'
+title: GINA x Credential Provider
 ---
+
 Não fui convidado a participar do tema, mas como já faz algum tempo que o rascunho deste artigo está no molho, e aproveitando que meu amigo Ferdinando resolveu escrever sobre nossa amiga em comum, darei continuidade à minha empolgação sobre o tagging e largarei aqui este pequeno adendo.
 
 Com a chegada do Windows Vista, uma velha conhecida minha e dos meus colegas deixou de fazer parte do sistema de autenticação do sistema operacional: a velha GINA, Graphical Identification aNd Authentication.

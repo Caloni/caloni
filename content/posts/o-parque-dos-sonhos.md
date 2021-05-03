@@ -1,10 +1,14 @@
 ---
-date: "2019-03-14"
-link: "https://www.imdb.com/title/tt6428676"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Parque dos Sonhos"
+categories:
+- draft
+- movies
+date: '2019-03-14'
+link: https://www.imdb.com/title/tt6428676
+tags:
+- cinemaqui
+title: O Parque dos Sonhos
 ---
+
 Nos primeiros quinze minutos de O Parque dos Sonhos é possível que uma lágrima escorra dos olhos de um espectador cativado pela proposta. Eu gostaria de acreditar que não são lágrimas de manipulação, pois realmente parece um tema emocionante. Porém, já nos últimos quinze minutos é possível que esse mesmo espectador esteja pensando no que foi que deu errado para que essa história acabe em mais do mesmo.
 
 Pelo menos essa foi minha sensação com o filme dirigido por três pessoas, roteirizado por mais outras tantas e produzido em uma parceria entre a Paramount e a Nickelodeon (o canal de animações como Bob Esponja). Ele contém uma ideia maravilhosa a respeito do poder da criatividade como força motriz para sermos seres humanos mais completos, mas que acaba não dando em lugar algum senão em soluções fáceis e apressadada de uma animação que não se importa tanto assim com uma ideia boa quando ela aparece.

@@ -1,8 +1,11 @@
 ---
-date: "2008-12-18"
-title: "Básico do básico: binário"
-categories: [ "draft", "code" ]
+categories:
+- draft
+- code
+date: '2008-12-18'
+title: 'Básico do básico: binário'
 ---
+
 [![Número um e zero caindo do computador.](http://i.imgur.com/lj26csA.png)](http://www.illustrationsof.com/details/clipart/8741.html)Apesar do tema binário, o assunto de hoje no fundo remete-nos a todo e qualquer tipo de **representação**. É o faz-de-conta um pouco mais intenso, vindo das profundezas da matemática e dominado com maestria pela nossa mente e sua capacidade lógica de abstrair.
 
 Como todos sabemos, nós, seres humanos, somos dotados de dez dedos: cinco em cada mão. Isso influenciou fortemente nosso sistema de contagem de coisas, e, como consequência, nossa forma de representar números.
@@ -123,4 +126,3 @@ Bom, acho que é isso. Já ultrapassei o limite do teórico, porque na verdade o
 
 	
   * Estude a lógica por trás da tabela ASCII e seus valores binários. Irá descobrir que existem relações muito óbvias entre letras, números (maíusculos e minúsculos) e sinais. Tente decorar.
-

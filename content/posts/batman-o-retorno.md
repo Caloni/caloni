@@ -1,9 +1,12 @@
 ---
-date: "2017-12-10"
-link: "https://www.imdb.com/title/tt0103776"
-categories: [ "draft", "movies" ]
-title: "Batman: O Retorno"
+categories:
+- draft
+- movies
+date: '2017-12-10'
+link: https://www.imdb.com/title/tt0103776
+title: 'Batman: O Retorno'
 ---
+
 O tom gótico e fantasioso de Batman é algo a se considerar quando tentamos enxergar a lógica por trás dessas adaptações de Tim Burton para o Cinema. A nossa mente suscetível ao fantástico pode querer interpretar criaturas como Mulher-Gato ou Pinguim como criações semelhante a Homem-Aranha. Mas não se engane: são distúrbios psicológicos inseridos em uma distopia randiana onde os melhores são os piores. A máxima "dog eats dog" gera aberrações como Joker, Catwoman, Penguim e, claro, o Homem-Morcego.
 
 Investindo muito mais no visual do que na narrativa, "Batman: o Retorno" é uma continuação do primeiro filme onde Batman já está estabelecido como uma espécie de justiceiro com moral duvidosa (ele pode fazer bem ou mal aos cidadãos de "Gothic" City). A cidade onde tudo passa lembra uma versão de Metropolis onde Ayn Rand fez parte das decisões arquitetônicas. Vemos estátuas gigantes exaltando o homem, com feições que lembram o jogo BioShock, e na prefeitura a figura icônica de Atlas erguendo o mundo. Este é um mundo onde crueldades podem ser feitas e ninguém liga, como assassinar uma secretária pela conveniência ou jogar seu próprio filho defeituoso no esgoto.

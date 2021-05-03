@@ -1,9 +1,11 @@
 ---
-date: "2014-03-07"
-link: "https://www.imdb.com/title/tt1798709"
-categories: [ "movies" ]
-title: "Ela"
+categories:
+- movies
+date: '2014-03-07'
+link: https://www.imdb.com/title/tt1798709
+title: Ela
 ---
+
 Ela pode ser chamado de romance, mesmo que seja entre um ser humano e um sistema operacional, porque é basicamente um filme sobre relacionamentos. O roteiro e a direção de Spike Jonze (Quero Ser John Malkovich) entram fundo na questão "o que torna uma pessoa atraente para outra" desintegrando a parte material e se focando no mundo das ideias; quase que um Antes do Amanhecer futurista.
 
 Sim, estamos em um futuro, mas não tão distante, onde a inteligência artificial é uma realidade, ou seja, qualquer computador e celular entendem e respondem verbalmente a comandos, e as pessoas estão cada vez mais auto-centradas nelas mesmas (uma simples frase que desagrade o parceiro pode acabar com a noite inteira, elevando nossa "geração mi-mi-mi" a um novo patamar). Theodore (Joaquin Phoenix) é um "escritor de cartas manuscritas", uma profissão aparentemente nova que já acusa a falta de esforço das pessoas em agradar seus entes queridos. Ele resolve experimentar um novo sistema operacional (dublado por Scarlett Johansson) que, de acordo com o anúncio publicitário, promete ajudar a revelar seu próprio eu através de um software auto-consciente que consegue se relacionar com seus usuários exatamente porque depois de instalado ele continua aprendendo com o mundo e seu usuário.

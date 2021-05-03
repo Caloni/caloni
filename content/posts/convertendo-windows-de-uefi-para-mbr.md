@@ -1,8 +1,11 @@
 ---
-date: "2017-02-13"
-categories: [ "code", "draft",  ]
-title: "Convertendo Windows de UEFI para MBR"
+categories:
+- code
+- draft
+date: '2017-02-13'
+title: Convertendo Windows de UEFI para MBR
 ---
+
 Quando você pesquisa sobre isso no Google o que mais encontra é ferramentas "gratuitas" que prometem fazer a conversão ou algo do gênero. No entanto, há um procedimento simples em que o próprio Windows pode corrigir os problemas oriundos da conversão do boot UEFI/GPT. Depois, é claro, que você usar uma outra ferramenta esperta open-source =)
 
 Entre as diferentes distros do Linux há uma chamada SystemRescueCD que é cheia dos paranauê para manutenção de micros. Entre eles há uma ferramenta chamada testdisk que tem a "proeza" de sair buscando partições perdidas e reescrever o MBR (seja o código ou a tabela de partições). É uma ferramenta simples, interativa e ágil. É ela que deve ser usada para resgatar as partições da máquina após configurar a BIOS para voltar a bootar no modo legacy.

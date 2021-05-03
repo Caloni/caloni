@@ -1,9 +1,11 @@
 ---
-date: "2011-04-27"
-link: "https://www.imdb.com/title/tt1217613"
-categories: [ "movies" ]
-title: "Invasão do Mundo: Batalha de Los Angeles"
+categories:
+- movies
+date: '2011-04-27'
+link: https://www.imdb.com/title/tt1217613
+title: 'Invasão do Mundo: Batalha de Los Angeles'
 ---
+
 Cloverfield abriu o portal de obras de ficção filmados em estilo documental, mesmo em uma produção cara e mais aprimorada que o experimento primordial de Bruxa de Blair.
 
 Portanto, o que vemos em Invasão do Mundo é um conceito já, de certa forma, aglutinado aos gostos do espectador. O que não quer dizer, é claro, que toda obra do gênero já parte do pressuposto que será uma experiência semelhante às obras anteriores, pois tudo sempre vai depender da condução da narrativa, independente da técnica que se use.

@@ -1,9 +1,11 @@
 ---
-date: "2014-12-30"
-link: "https://www.imdb.com/title/tt3148834"
-categories: [ "movies" ]
-title: "A Mansão Mágica"
+categories:
+- movies
+date: '2014-12-30'
+link: https://www.imdb.com/title/tt3148834
+title: A Mansão Mágica
 ---
+
 Ultimamente venho revelando uma queda por animações (e filmes em geral) em que o roteiro não se esquece que está contando uma história que, apesar de existir seguindo as regras de seu próprio universo, existem regras. E essas regras, quando violadas, enfraquecem qualquer trama, seja realista ou não. Quando falamos de animações, essas regras geralmente são bem flexíveis, mas mesmo assim o Deus Ex Machina aparece no terceiro ato vez sim, vez não.
 
 No caso de A Mansão Mágica, como o próprio nome diz, mágica já está no pacote de regras desse universo que gira em torno de um mágico aposentado que tem por rotina cuidar de suas invenções, os animais que circundam sua mansão e os pacientes infantis de um hospital. Um dos novos hóspedes é um gato que foi esquecido durante a mudança de seus donos. Não bem-visto pelo coelho por invadir seu espaço e suas regalias, todos terão que provar sua lealdade a seu mestre quando seu filho, corretor de imóveis, ameaça se livrar da mansão e de todos que a habitam.

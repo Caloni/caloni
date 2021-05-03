@@ -1,9 +1,12 @@
 ---
-date: "2017-03-21"
-link: "https://www.imdb.com/title/tt0414993"
-categories: [ "draft", "movies" ]
-title: "Fonte da Vida"
+categories:
+- draft
+- movies
+date: '2017-03-21'
+link: https://www.imdb.com/title/tt0414993
+title: Fonte da Vida
 ---
+
 Darren Aronofsky em Noé nos apresenta uma visão gnóstica da Bíblia e das crenças antigas, mas esse é apenas um pedaço da ambição desproporcional vista em Fonte da Vida, um filme que tenta sem sucesso (felizmente) unir ciência e misticismo em uma busca por conhecimento que ultrapassa limites da realidade, seja através da ficção de um romance espanhol ou pela abstração de nossa própria vida na Terra através de um sábio solitário tentando descobrir a combinação que nos trará vida eterna.
 
 E a busca por esse elixir mágico já encontrou muitos heróis de nossa história. A forma com que Fonte da Vida nos apresenta esse dilema ultrapassa a questão narrativa, mas ao mesmo tempo une três histórias diferentes através de seu tema, e de maneira muito semelhante com A Viagem (Cloud Atlas, Irmãos Wachoswki) há uma prioridade maior em esmiuçar as diferentes formas de ambicionar pela vida eterna, ou pela paralisação do processo de morte, do que de fato se preocupar com seus personagens.

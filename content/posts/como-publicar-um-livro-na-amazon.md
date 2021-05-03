@@ -1,9 +1,12 @@
 ---
-author: "Wanderley Caloni"
-date: "2017-04-24"
-categories: [ "draft", "books" ]
-title: "Como publicar um livro na Amazon"
+author: Wanderley Caloni
+categories:
+- draft
+- books
+date: '2017-04-24'
+title: Como publicar um livro na Amazon
 ---
+
 Estou finalizando essa semana a publicação do meu primeiro livro. Não, não é sobre programação, mas sobre Cinema. Mais de 1500 páginas sobre Cinema. Isso está acontecendo porque eu resolvi testar a possibilidade de publicar facilmente alguma coisa na Amazon baseado em um blog feito através de Jekyll (uma linguagem de marcação simples e um punhado de arquivos markdown). E, guess what? Funciona, é simples e relativamente descomplicado. Eis o caminho das pedras.
 
 Antes de tudo, a coisa mais importante que você deve fazer é gerar conteúdo. Sem conteúdo não há livro. Eu, por exemplo, segui escrevendo sobre praticamente todo filme que eu assistia, pelo menos alguns parágrafos sobre. Ao final de quase sete anos, o resultado são páginas e páginas de texto. Esse é o seu patrimônio e uma ferramenta para praticar a escrita.

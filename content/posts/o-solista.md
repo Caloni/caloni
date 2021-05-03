@@ -1,9 +1,11 @@
 ---
-date: "2011-08-22"
-link: "https://www.imdb.com/title/tt0821642"
-categories: [ "movies" ]
-title: "O Solista"
+categories:
+- movies
+date: '2011-08-22'
+link: https://www.imdb.com/title/tt0821642
+title: O Solista
 ---
+
 Seguindo o filme de duplas, dessa vez com Robert Downey Jr. e Jamie Foxx, o drama O Solista é baseado em livro homônimo escrito pelo jornalista-personagem Steve Lopez, que se torna obcecado pela vida de Nathaniel Ayers, um sem-teto que tinha tudo para ser um grande músico, mas devido aos seus problemas mentais, acaba se refugiando da sociedade nas ruas.
 
 Adaptado por Susannah Grant (do excepcional Erin Brockovich, também baseado em história real) e dirigido por Joe Wright (Desejo e Reparação, Orgulho e Preconceito e Hanna), o filme se concentra acertadamente no drama de Nathaniel Ayers (Foxx) e sua incapacidade de "dar a volta por cima", e para essa observação humana dessa figura carismática temos os olhos bem preparados de Steve Lopez (Downey Jr.), que faz questão de tentar ajudar Nathaniel de todas as formas ao seu alcance, mesmo que este às vezes se mostre confuso, sombrio e incapaz de dar um único passo à frente em sua vida.

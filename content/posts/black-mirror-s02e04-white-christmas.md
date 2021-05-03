@@ -1,9 +1,12 @@
 ---
-date: "2015-12-13"
-link: "https://www.imdb.com/title/tt2085059"
-categories: [ "draft", "series" ]
-title: "Black Mirror - S02E04 - White Christmas"
+categories:
+- draft
+- series
+date: '2015-12-13'
+link: https://www.imdb.com/title/tt2085059
+title: Black Mirror - S02E04 - White Christmas
 ---
+
 Black Mirror é uma série que explora o que há de pior em nossa era da comunicação instantânea e da tecnologia crescente. Na verdade, eles vão um pouco além da nossa realidade atual, avançando alguns anos/décadas, onde algumas novidades brincam com nosso conceito de humanidade e relacionamentos, mídia e governos.
 
 Esse episódio, quase um especial, é o mais longo da série até o momento e o primeiro da terceira temporada. Ele referencia vários episódios utilizando sua tecnologia futurista e suas interações no futuro. Protagonizada pelo ótimo Jon Hamm (Mad Men) acompanhado pelo igualmente eficiente Rafe Spall, ambos estão aparentemente presos em uma casa por algo que cometeram. O personagem de Rafe não fala muito, e sendo natal, o personagem de Jon prepara uma refeição especial e tenta fazer o colega conversar um pouco. O ritmo empregado pelo diretor Carl Tibbetts ao excelente roteiro de Charlie Brooker é lento na medida certa, e as ideias por trás das histórias que Jon Hamm vai descrevendo funcionam como uma espécie de conjunto de pistas-recompensas para o que irá acontecer em seguida. Não é preciso prestar muita atenção para enxergar que ambos os personagens estão ligados de alguma forma.

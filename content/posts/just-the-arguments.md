@@ -1,8 +1,11 @@
 ---
-date: "2018-02-27"
-categories: [ "draft", "reading" ]
-title: "Just the Arguments"
+categories:
+- draft
+- reading
+date: '2018-02-27'
+title: Just the Arguments
 ---
+
 Just The Arguments, como o próprio nome diz, explora apenas os argumentos dos debates filosóficos mais relevantes na história da Filosofia, e também tenta na contemporaneidade se manter neutro ou equilibrado (como se isso fosse possível).
 
 Como conhecimento catalogado sua grande vantagem é servir como um guia, mais ou menos como a Enciclopédia de Filosofia de Stanford e com o atrativo da organização formal dos argumentos em premissas e a explicação de qual artifício de cada elemento de articulação foi usado (modus ponens, etc). Como narrativa ele carece daquele gancho entre os assuntos que faz com que a leitura se torne fluida. Por ser didático demais ele pode servir na sala de aula, mas também pode fazer o trabalho inverso de ao invés de atrair o estudante para o fascinante mundo do pensamento livre dar a impressão dessa atividade ser monótona e fastidiosa (spoiler: às vezes é mesmo).

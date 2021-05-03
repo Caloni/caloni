@@ -1,9 +1,11 @@
 ---
-date: "2012-12-08"
-link: "https://www.imdb.com/title/tt0120623"
-categories: [ "movies" ]
-title: "Vida de Inseto"
+categories:
+- movies
+date: '2012-12-08'
+link: https://www.imdb.com/title/tt0120623
+title: Vida de Inseto
 ---
+
 Historinha politicamente correta e chata da Pixar.
 
 Conta a história de um formigueiro que é ameaçado por gafanhotos e assim é obrigado a colher todos os alimentos da pequena ilha em que moram para oferecer aos insetos voadores, maiores e feiosos. A fábula, que se assemelha a um conto infantil, possui momentos inspirados em épicos mais adultos ([Spartacus]), onde um grupo opressor é o que separa os heróis de sua liberdade e consequente felicidade/prosperidade.

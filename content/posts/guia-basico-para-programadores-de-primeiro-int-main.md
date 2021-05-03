@@ -1,8 +1,10 @@
 ---
-date: "2007-10-16"
-title: "Guia básico para programadores de primeiro int main"
-categories: [ "code" ]
+categories:
+- code
+date: '2007-10-16'
+title: Guia básico para programadores de primeiro int main
 ---
+
 > Vou aproveitar que meu amigo DQ publicou um artigo muito bom sobre [como fazer programas fáceis de manter] (merece ser lido!) e vou republicar um artigo do blogue antigo sobre o básico do básico para quem deseja entender como os programas funcionam. Não é nada sofisticado, apenas alguns conceitos comuns que, se você deseja ser programador, deveria procurar saber.
 
 ## Código, dados e processador

@@ -1,9 +1,12 @@
 ---
-date: "2017-04-16"
-link: "https://www.imdb.com/title/tt3874544"
-categories: [ "draft", "movies" ]
-title: "O Poderoso Chefinho"
+categories:
+- draft
+- movies
+date: '2017-04-16'
+link: https://www.imdb.com/title/tt3874544
+title: O Poderoso Chefinho
 ---
+
 É um alívio assistir a uma animação que não se esforça nem um pouco em ser a primeira de uma franquia, e que corajosamente atravessa todo o arco de seu herói para terminar como um "filme normal". Além disso, dirigido com uma fluidez dinâmica alimentada por uma criatividade sem limites de seu roteiro -- que usa uma chupeta da maneira mais inventiva possível -- e sua direção de arte -- que explora através de formas e cores os passeios deliciosos na mente de uma criança e suas aventuras -- O Poderoso Chefinho é uma animação que subverte um pouco o circuito comercial e em troca recebemos uma divertida história fácil de acompanhar, e que ainda que não esteja completa e redonda do começo ao fim, empolga mais que o suficiente para nos lembrarmos do filme com uma certa memória afetiva.
 
 A história facilmente subverte, assim como Cegonhas, o próprio conceito de onde vem os bebês, explicando visualmente que há alguns bebês fabricados pela Baby Corp que não sentem cócegas e são encaminhados para a gerência. Sem o menor pudor ou explicações redundantes -- e destinadas ao fracasso -- o pequeno bebê que chega na residência dos Templenton é recebido pelos pais como algo normal, e apresentado ao seu irmão filho único até então como uma criatura adorável, ainda que vestida estranhamente de terno preto e carregando uma maletinha de homens de negócios.

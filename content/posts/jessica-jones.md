@@ -1,9 +1,12 @@
 ---
-date: "2016-08-18"
-link: "https://www.imdb.com/title/tt2357547"
-categories: [ "draft", "series" ]
-title: "Jessica Jones"
+categories:
+- draft
+- series
+date: '2016-08-18'
+link: https://www.imdb.com/title/tt2357547
+title: Jessica Jones
 ---
+
 Uma história de super-heróis ligeiramente diferente do que a Marvel costuma contar, Jessica Jones é uma narrativa arrastada, que dá tempo de tela demais para a limitada Krysten Ritter (da série Breaking Bad), e que muda de tom durante sua história. No início há indícios de um noir pós-moderno, com cores na penumbra, uma protagonista bisbilhoteira de caráter (e um passado) duvidoso, e uma certa relativização do que é certo e errado; lá pela metade, com o surgimento do vilão Killgrave (o ótimo David Tennant) encontramos um curioso debate de quais são os papéis de bem e mal, assim como se vale a pena tentar salvar representantes da espécie humana conhecendo sua capacidade infinita para miséria de espírito, estupidez e egocentrismo; e no final, para conseguir executar seu "plano final", manipula tudo que havíamos visto até então para entregar uma conclusão clichê e insossa, nos forçando a tentar gostar de uma heroína problemática e desgostar de um vilão no mínimo fascinante.
 
 Agora, ignorando todo o roteiro, o universo criado pela editora de gibis para mais essa série é pseudo-fantasiosa, está integrada à cronologia dos Vingadores (até porque se passa em Nova York), e contém os elementos populares que a produtora de internet Netflix está acostumada a trabalhar: cenas de luta, sexo, conflitos internos nos seus personagens. Ele convence a assisti-la até o final pela sua honesta convicção de estar trabalhando com elementos originais: não há heróis tradicionais aqui, pois eles ainda estão sendo forjados na dura realidade do dia-a-dia. No entanto, a cada novo passo adiante, conseguimos reconhecer alguma mudança. Isso acontece não apenas naqueles com algum poder, mas também nas pessoas normais, sejam elas viciadas, mesquinhas, traiçoeiras ou até... advogadas (Carrie-Anne Moss no automático).

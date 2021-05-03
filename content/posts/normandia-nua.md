@@ -1,10 +1,14 @@
 ---
-date: "2019-01-15"
-link: "https://www.imdb.com/title/tt6923840"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Normandia Nua"
+categories:
+- draft
+- movies
+date: '2019-01-15'
+link: https://www.imdb.com/title/tt6923840
+tags:
+- cinemaqui
+title: Normandia Nua
 ---
+
 Normandia Nua é uma comédia dramática que tenta abordar vários temas sob vários pontos de vista ao mesmo tempo. Ela não nos faz pensar muito nos temas, já que a todo momento nos identificamos com esse ou aquele ponto de vista, mas traça um panorama surpreendentemente rico para uma história sem muitas pretensões.
 
 Como estamos na França, tudo começa com a crise econômica, que força fazendeiros de uma cidadezinha da região da Normandia à beira da falência a se mobilizar e paralisar uma estrada como protesto. Esse ato acaba chamando a atenção de um fotógrafo americano excêntrico (Toby Jones) que decide tirar sua próxima foto excêntrica ("a arte é mais importante que a natureza") de pessoas locais nuas em ambientes urbanos logo ali, no campo. O prefeito da cidadezinha, interpretado de maneira honesta mas ao mesmo tempo cômica por François Cluzet (Intocáveis) encontra ali uma oportunidade de realmente chamar a atenção das autoridades, só que para isso terá que convencer a cultura local a ficarem todos pelados para o mundo ver.

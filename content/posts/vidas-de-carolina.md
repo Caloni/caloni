@@ -1,8 +1,10 @@
 ---
-date: "2017-01-12"
-categories: [ "draft" ]
-title: "Vidas de Carolina"
+categories:
+- draft
+date: '2017-01-12'
+title: Vidas de Carolina
 ---
+
 O curta documental Vidas de Carolina é o primeiro trabalho da diretora Jessica Queiroz. Ele aborda a vida de uma catadora de lixo reciclável e seu talento para a narrativa. A ideia era mostrar que a capacidade pode vir de qualquer lugar e que muitos não conseguem reconhecimento por falta de oportunidade.
 
 https://www.youtube.com/embed/AkeYwVc2JL0

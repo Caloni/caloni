@@ -1,8 +1,11 @@
 ---
-date: "2016-01-13"
-title: "Gabaritos"
-categories: [ "draft", "code" ]
+categories:
+- draft
+- code
+date: '2016-01-13'
+title: Gabaritos
 ---
+
 Um __template__ -- ou, como é na tradução da primeira edição de The C++ Programming Language, de Bjarne Stroustrup, aqui no Brasil: __gabarito__ -- é um molde que pode ser usado por diferentes tipos para traduzir o mesmo algoritmo, ou pelo menos a mesma intenção de algoritmo (por pela sobrecarga de operadores é possível que o comportamento de tipos diferentes pode ser diferente).
 
 Em C++, fazer uma função template é muito simples:

@@ -1,9 +1,11 @@
 ---
-date: "2013-03-12"
-link: "https://www.imdb.com/title/tt1389096"
-categories: [ "movies" ]
-title: "Amigos Inseparáveis"
+categories:
+- movies
+date: '2013-03-12'
+link: https://www.imdb.com/title/tt1389096
+title: Amigos Inseparáveis
 ---
+
 Enquanto brutamontes e velhos heróis caindo aos pedaços resolvem voltar à ativa como objetos aparentemente invulneráveis contra a ação do tempo (Bruce Willis em [Duro de Matar], Schwarzenegger em [Os Mercenários]), Al Pacino, Alan Arkin e Christopher Walken vão no caminho oposto, exaltando as diferenças de um jeito antigo de fazer cinema jogando em nossa cara, mas ao mesmo tempo reinventando-se como metalinguagem, uma maneira nostálgica que ao mesmo tempo discute nossa geração: onde foi que começamos a ficar mais distantes da vida, cada vez mais vidrados em uma tela de celular? Quando foi que deixamos de fazer algo arriscado ou mesmo fora da "tirania da rotina", como faz o personagem de Al Pacino?
 
 Em Stand Up Guys, de Fisher Stevens (Foi Só um Beijo), vemos um Al Pacino decadente saindo da prisão. Seu personagem, Val, é daqueles que cumpre pena por todos os colegas e se mantém em silêncio. Por 28 anos. Quando sai, é recebido pelo "aposentado" Doc (Christopher Walken), que parece viver uma rotina interminável, aguardando por este fatídico dia.

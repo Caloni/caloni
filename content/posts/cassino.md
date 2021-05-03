@@ -1,9 +1,12 @@
 ---
-date: "2016-02-10"
-link: "https://www.imdb.com/title/tt0112641"
-categories: [ "draft", "movies" ]
-title: "Cassino"
+categories:
+- draft
+- movies
+date: '2016-02-10'
+link: https://www.imdb.com/title/tt0112641
+title: Cassino
 ---
+
 Vindo de Martin Scorsese (O Lobo de Wall Street, Taxi Driver, Touro Indomável), esse parece o Bons Companheiros -- que ele também dirige -- versão longa. É também sobre ascenção e queda, embora a ascenção pareça muito mais rápida que a queda. É sobre os bons e velhos tempos dos Cassinos em Las Vegas, a época das extorsões, da vista grossa, e onde os espertinhos eram tratados lá mesmo, em uma sala à parte, de preferência com um martelo. Ele conta a história de três tipos de pessoas que viviam por lá: o capanga violento e leal enquanto bem alimentado (Joe Pesci), a prostituta especialista em tomar dinheiro de apostadores (Sharon Stone) e alguém frio e calculista e disposto a atingir a perfeição para não perder seu lugar no que ele chama de paraíso (Robert De Niro).
 
 O filme nos dá dois narradores em off: o responsável pelo Cassino mais bem-sucedido da cidade, Sam 'Ace' Rothstein (De Niro), que conta como o paraíso desabou pouco a pouco, e seu estourado amigo/capanga, Nicky Santoro (Pesci), e é divertido acompanhar suas diferentes opiniões sobre o mesmo ocorrido, assim como é divertido testemunhar as explosões de raiva de Pesci, como quando ele faz uso de uma caneta e conta uma história envolvendo amassar a cabeça de alguém duas vezes: antes e depois do coma.

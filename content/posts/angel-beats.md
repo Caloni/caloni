@@ -1,9 +1,13 @@
 ---
-date: "2016-11-04"
-link: "https://www.imdb.com/title/tt1639109"
-categories: [ "draft", "series", "animes" ]
-title: "Angel Beats!"
+categories:
+- draft
+- series
+- animes
+date: '2016-11-04'
+link: https://www.imdb.com/title/tt1639109
+title: Angel Beats!
 ---
+
 "Não fazer sentido é com a gente!", repete a heroína Ryuko Matoi nos capítulos finais do anime "Kill La Kill", uma série ousada e inteligente, mas que acaba em seus capítulos finais descanbando para o clichê de lutas sem fim. Mesmo assim... pobre Ryuko; mal sabia ela que seria ultrapassada de longe por "Angel Beats!", um trabalho digno de colegiais sem ter o que fazer na hora do recreio, e que une diferentes conceitos em prol da diversão interna desses alunos, pois qualquer tentativa de entender a lógica interna desse universo cairá por terra.
 
 O enredo deste animê contém elementos que eu colocaria se fosse um estudante do ensino médio (ou até do fundamental) que quisesse criar uma distopia além-vida, onde há batalhas contra anjos, a revolta contra Deus e uma mensagem cafona sobre o poder do amor. Os personagens desta história parecem claramente inspirados nos próprios criadores. Me surpreende muito, então, que nos créditos do roteiro estejam apenas duas pessoas citadas, enquanto existem nada menos que sete diretores responsáveis pela sequência de 13 episódios da primeira (única?) temporada.

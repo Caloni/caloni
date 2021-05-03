@@ -1,9 +1,11 @@
 ---
-date: "2012-09-06"
-link: "https://www.imdb.com/title/tt1645170"
-categories: [ "movies" ]
-title: "O Ditador"
+categories:
+- movies
+date: '2012-09-06'
+link: https://www.imdb.com/title/tt1645170
+title: O Ditador
 ---
+
 Sacha Baron Cohen possui o melhor de duas comédias que particularmente gosto muito: a com estilo pastelão e a com piadas ácidas, de um humor negro que só é permitido pelas cenas absurdas que sugerem que devemos suprimir nosso sistema moral por cerca de uma hora e meia.
 
 O que, se tratando do ator de Borat, não é algo tão difícil de se deduzir. Com sua própria TV narrando a biografia do ditador sanguinário Aladeen, e o nome é um toque tão genial quanto o bigode de Chaplin em Grande Ditador, vemos o protagonista ainda bebê exibindo uma gigantesca barba e um pelo tão espesso que não é possível ver suas genitais. Se isso não for uma dica do que vem pela frente, não imagino o que seja.

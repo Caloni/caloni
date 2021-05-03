@@ -1,9 +1,11 @@
 ---
-date: "2015-11-22"
-link: "https://www.imdb.com/title/tt1951266"
-categories: [ "movies" ]
-title: "Jogos Vorazes: A Esperança - O Final"
+categories:
+- movies
+date: '2015-11-22'
+link: https://www.imdb.com/title/tt1951266
+title: 'Jogos Vorazes: A Esperança - O Final'
 ---
+
 Se pudesse resumir com uma palavra não apenas a parte final, mas a saga de quatro filmes baseados nos livros de Suzanne Collins, eu diria que "corajoso" é uma escolha interessante, embora incompleta. Ser corajoso brincando com a noção de poder estatal hoje em dia parece ser chover no molhado, mas é preciso lembrar que o último livro foi lançado em 2010, e em cinco anos muitos detalhes do jogo político do livro foram apreendidos por jovens leitores, além de ser intensificado o debate nas correntes underground desse tipo de discussão. Sim, ser corajoso pertence à lista de motivações literárias de Collins, mas mais do que isso, entender as mudanças em torno da crise de 2008 e se debruçar como realmente funciona o jogo político há milhares de anos é o que torna Jogos Vorazes: a Coleção, como um guia completo de como o governo engana todos seus súditos pelo poder eterno de exploração.
 
 Mais uma vez dirigido pelo competente Francis Lawrence, o roteiro Peter Craig e Danny Strong feito em cima da adaptação da própria Collins parece gritar aos quatro ventos que todos os peões envolvidos na batalha final são exatamente o que são, e que seus símbolos de coragem e rebeldia são peões pintados de dourado. O próprio dourado do símbolo do Tordo aqui parece apropriado, assim como é apropriado que o "traidor" Peeta fira Katniss justamente em sua garganta, afetando temporariamente sua capacidade de falar, a primeira cena dessa segunda parte.

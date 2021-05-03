@@ -1,9 +1,12 @@
 ---
-date: "2017-11-25"
-link: "https://www.imdb.com/title/tt3553976"
-categories: [ "draft", "movies" ]
-title: "Capitão Fantástico"
+categories:
+- draft
+- movies
+date: '2017-11-25'
+link: https://www.imdb.com/title/tt3553976
+title: Capitão Fantástico
 ---
+
 "Poder para o povo. Abaixo o sistema." Essas duas frases tipicamente anarquistas resumem a filosofia de mais este filme sobre uma família disfuncional. A virtude deste filme é que ele nos faz enxergar a sociedade atual do ponto de vista de uma outra forma de viver. E se todos nós fôssemos criados para sermos filósofos e seguir a razão? Bom, se isso fosse possível seria o paraíso na Terra.
 
 Porém, o que Capitão Fantástico convenientemente ignora nessa equação é que existem dissidências argumentativas em torno das questões mais primordiais do convívio humano. A chave para ignorar essa realidade está em aceitar apenas um ponto de vista: o do pai daquelas crianças.

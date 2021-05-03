@@ -1,9 +1,11 @@
 ---
-date: "2010-10-08"
-link: "https://www.imdb.com/title/tt1576382"
-categories: [ "movies" ]
-title: "Dois Irmãos"
+categories:
+- movies
+date: '2010-10-08'
+link: https://www.imdb.com/title/tt1576382
+title: Dois Irmãos
 ---
+
 O maior mérito da direção deste filme é deixar a história fluir sem interferências, dando vazão a ambas às interpretações, ambas dignas, apesar de gerarem efeitos diversos.
 
 Da irmã, temos raiva pela sua forma de diminuir seu irmão e sempre tentar se elevar, mas também dó de suas tentativas patéticas se ofender os outros (como chamar a anfitriã da festa da tia de gorda e de ter inveja dela).

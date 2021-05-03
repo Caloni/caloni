@@ -1,10 +1,14 @@
 ---
-date: "2019-10-26"
-link: "https://www.imdb.com/title/tt10384744"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Odisseia dos Tontos"
+categories:
+- draft
+- movies
+date: '2019-10-26'
+link: https://www.imdb.com/title/tt10384744
+tags:
+- cinemaqui
+title: A Odisseia dos Tontos
 ---
+
 Fermín Perlassi, personagem de Ricardo Darín, acaba de explicar seu plano de empreender em uma cooperativa local onde a economia da vida de vários moradores servirão para o início do projeto. Ele termina dizendo a famigerada pergunta retórica "o que pode dar errado?", e duas linhas de letreiros "respondem", uma após a outra, deixando claro que A Odisseia dos Tontos não poderia ter um título melhor. A primeira linha: Argentina. A segunda linha: agosto de 2001.
 
 A primeira linha já assusta ou faz rir de nervoso, pois a Argentina é o país conhecido internacionalmente por sua economia ligeira: quebra a cada década. A segunda linha, mais técnica, indica que estamos às vésperas do que acabou ficando conhecido como Corralito, uma menção à clássica corrida aos bancos que ocorre sempre que a liquidez dos depósitos de seus clientes está em xeque. O mesmo aconteceu nos moldes brasileiros na época do governo de Fernando Collor, quando houve o confisco das poupanças de todo o país.

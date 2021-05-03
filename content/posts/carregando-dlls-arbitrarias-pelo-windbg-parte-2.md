@@ -1,8 +1,10 @@
 ---
-date: "2007-11-27"
-title: "Carregando DLLs arbitrárias pelo WinDbg ou como escrever script para WinDbg"
-categories: [ "code" ]
+categories:
+- code
+date: '2007-11-27'
+title: Carregando DLLs arbitrárias pelo WinDbg ou como escrever script para WinDbg
 ---
+
 Como pudemos ver no [artigo anterior] o processo para carregar uma DLL pelo WinDbg é muito extenso, enfadonho e sujeito a erros. Além de desatualizado (com comandos de assembly 32 bits). Por esse motivo, e para tornar as coisas mais divertidas, resolvi transformar tudo aquilo em um simples script que pode ser executado digitando apenas uma linha. Tenha em mente que este artigo continua desatualizado usando assembly 32 bits e hoje é uma mera curiosidade para aprendizado do passado. E se trata do meu primeiro script grande para o WinDbg, por isso, peço que tenham dó de mim =).
 
 Um script no WinDbg nada mais é que uma execução em batch: um arquivo texto cheio de comandos que poderíamos digitar manualmente, mas que preferimos guardar para poupar nossos dedos. Existem quatro maneiras diferentes de chamar um script no WinDbg, todas muito parecidas, variando apenas se são permitidos espaços antes do nome do arquivo e se os comandos são condensados, isto é, as quebras de linhas substituídas por ponto-e-vírgula para executar tudo em uma linha só.

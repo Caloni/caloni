@@ -1,10 +1,14 @@
 ---
-date: "2017-11-16"
-link: "https://www.imdb.com/title/tt6304046"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Thelma"
+categories:
+- draft
+- movies
+date: '2017-11-16'
+link: https://www.imdb.com/title/tt6304046
+tags:
+- cinemaqui
+title: Thelma
 ---
+
 Thelma é uma gostosa revisita ao mundo do thriller de "Carrie, a Estranha" (o original de Brian de Palma), que discute religião com um certo distanciamento e compreensão. Atualizado conforme manda o figurino, temos no pacote discussões sobre sexualidade, autoridade e gnosticismo. E em cima disso tudo um possível arcabouço crítico por cima da sociedade atual.
 
 Isso é o que já é esperado do diretor Joachim Trier, que depois de seu drama esteticamente impecável de Mais Forte Que Bombas repete aqui uma formula graficamente semelhante em um mundo novamente pálido e sem vida, e onde o espectador é convidado a olhar novamente para velhas cenas do cotidiano.

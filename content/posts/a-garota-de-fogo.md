@@ -1,10 +1,14 @@
 ---
-date: "2016-04-14"
-link: "https://www.imdb.com/title/tt3089326"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Garota de Fogo"
+categories:
+- draft
+- movies
+date: '2016-04-14'
+link: https://www.imdb.com/title/tt3089326
+tags:
+- cinemaqui
+title: A Garota de Fogo
 ---
+
 "Muitas coisas podem acontecer", se você alterar algumas variáveis na História, diz o professor de matemática durante a aula. "Porém, dois mais dois sempre serão quatro." E isso se torna uma conclusão, ou profecia, a respeito da inacreditável história de A Garota de Fogo. E o mais inacreditável no filme é que essa fala e tudo o que vemos nele favorece a narrativa, além de estar intrinsecamente ligado ao tema que ele quer explorar.
 
 Passado em uma Espanha durante uma crise, algo comum no país e que é explicado como uma característica ambivalente do seu povo em uma sequência que lembra um pouco a atmosfera de Beleza Adormecida, embora um tom mais real, A Garota de Fogo começa de maneira muito simples: uma garota desafia um rígido professor falando a verdade. Logo depois vemos uma menina dançando ao som japonês, e seu pai, incapaz de lidar com o destino de sua filha com leucemia.

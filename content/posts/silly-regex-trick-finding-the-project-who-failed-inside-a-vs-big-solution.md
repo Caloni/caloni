@@ -1,8 +1,11 @@
 ---
-date: "2008-02-07"
-title: "Silly regex trick: finding the project who failed inside a big VS solution"
-categories: [ "english", "code" ]
+categories:
+- english
+- code
+date: '2008-02-07'
+title: 'Silly regex trick: finding the project who failed inside a big VS solution'
 ---
+
 I know what you going to think about this one: "silly trick". That's why I just put it in the title. Anyway, that is something I use everyday, so I thought it might be useful to who cares about productivity.
 
 Let's say you have to manage a big solution in Visual Studio made of more than 30 projects, and needs to rebuild all them. Suddenly, something goes wrong. The question is: how to discover, in a heartbeat, what project has failed?

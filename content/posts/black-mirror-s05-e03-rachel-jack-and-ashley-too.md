@@ -1,9 +1,12 @@
 ---
-date: "2019-06-15"
-link: "https://www.imdb.com/title/tt9053874"
-categories: [ "draft", "series" ]
-title: "Black Mirror S05 E03 Rachel Jack and Ashley Too"
+categories:
+- draft
+- series
+date: '2019-06-15'
+link: https://www.imdb.com/title/tt9053874
+title: Black Mirror S05 E03 Rachel Jack and Ashley Too
 ---
+
 O último episódio dessa temporada de Black Mirror faz aquela empoderada básica, de cartilha, pra empolgar o público feminino, e no meio de grandes ideias desperdiça todas em um final que lembra qualquer outra série de suspense e ação menos a própria Black Mirror, essa série britânica que ficou conhecida por nos fazer pensar e não possuir finais fáceis.
 
 Ela emprega uma garota de quinze anos, Rachel (a competente Angourie Rice, de Dois Caras Legais), órfã de mãe e fascinada pela cantora pop Ashley O (Miley Cyrus) que, nenhuma surpresa, é um produto de marketing exposto em uma vitrine composta de shows e entrevistas para a mídia (qualquer relação com Miley Cyrus e sua persona Hannah Montana não é uma coincidência). A responsável pelo sucesso de Ashley é sua tia e empresária, que tomou conta de sua sobrinha desde pequena ao se tornar órfã e desenvolver complexo de culpa pela morte dos pais.

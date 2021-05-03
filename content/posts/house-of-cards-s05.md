@@ -1,9 +1,12 @@
 ---
-date: "2017-06-05"
-link: "https://www.imdb.com/title/tt1856010"
-categories: [ "draft", "series" ]
-title: "House of Cards - Quinta Temporada"
+categories:
+- draft
+- series
+date: '2017-06-05'
+link: https://www.imdb.com/title/tt1856010
+title: House of Cards - Quinta Temporada
 ---
+
 Uma nova temporada de House of Cards significa que as peças do jogo serão remanejadas para dar início a outra partida, e a história é sempre sobre o remanejamento de peças, e não a partida em si. A Netflix usa e abusa de seu formato, já que a temporada inteira foi concebida para ser assistida em sequência. Os episódios quase nunca terminam em reviravoltas, mas em conclusões. São mini-capítulos da eterna história pela busca do poder.
 
 E, para todo mundo que já assistiu essa série, sabe que ela não é sobre mocinhos versus bandidos. Todos são bandidos. A ação quase sempre se passa na Casa Branca! É sobre a máfia estatal, seus capangas, seus dirigentes, seus espiões. Não há lugar para pessoas boazinhas por aqui, já que nossa evolução propriciou justamente o pior dos ambientes para que os piores psicopatas da região dominassem sobre todo o restante de primatas ignorantes e alienados. Francis Underwood cada vez mais se parece com o símbolo da busca incessante por poder, e ele aos poucos se distancia do vilão sem coração que foi pintado em momentos anteriores. Ele é apenas um dos personagens mais honestos da série, sendo divertido, mas repetitivo, acompanhar seus comentários paralelos com seu espectador (nós).

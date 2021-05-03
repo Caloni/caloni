@@ -1,9 +1,12 @@
 ---
-date: "2017-01-27"
-link: "https://www.imdb.com/title/tt3783958"
-categories: [ "draft", "movies" ]
-title: "La La Land: Cantando Estações"
+categories:
+- draft
+- movies
+date: '2017-01-27'
+link: https://www.imdb.com/title/tt3783958
+title: 'La La Land: Cantando Estações'
 ---
+
 Existe uma aura de saudosismo misturado com melancolia que cobre Hollywood. Junto dela os sentimentos mais exagerados no Cinema são celebrados em La La Land, que constrói, sim, mais uma homenagem à Sétima Arte (e aos musicais), mas ao mesmo tempo não para por aí. O seu sentimento de que há algo especial nisso tudo que merece ser preservado se une com a ideia ambiciosa de que é justamente a mudança que preserva os fundamentos que tornam o Cinema tão especial. Hipócrita em ser mais um filme de clichês, ele entrega o que pode de coração aberto e espírito leve, conquistando primeiro os mais fanáticos, para depois os cinéfilos mais "exigentes" com um produto metalinguístico de primeira qualidade ao brincar de maneira inequívoca com os nossos conceitos de espectador sobre o que é ficção e o que é realidade.
 
 Se essa descrição inicial ficou por demais técnica e filosófica, não se preocupe. Este está longe de ser um filme complicado. Ele é um simples romance entre duas pessoas que cantam uma música juntos e se apaixonam. Mas esqueça os musicais completos, cheios de números. Este é um bem econômico, que só usa o artificio de personagens saírem cantando quando precisam, como na sequência inicial onde todos os motoristas presos em um engarrafamento clássico de Los Angeles se levantam e realizam um número cafona pelo bem do que o filme pretende fazer.

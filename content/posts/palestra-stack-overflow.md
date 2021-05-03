@@ -1,8 +1,11 @@
 ---
-date: "2016-06-04"
-categories: [ "code", "draft",  ]
-title: "Palestra: Stack Overflow"
+categories:
+- code
+- draft
+date: '2016-06-04'
+title: 'Palestra: Stack Overflow'
 ---
+
 Há umas semanas (sim, estava enrolado para falar sobre isso) ministrei uma nova palestra lá em Sorocaba. Cheguei no meio de uma greve de ônibus, o que atrasou o evento em uma hora e me deu tempo de sobre para pensar nas desgraças que serão cidades próximas da capital crescendo desordenadamente graças às regulações estatais.
 
 Mas divago.

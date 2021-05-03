@@ -1,10 +1,14 @@
 ---
-date: "2019-07-01"
-link: "https://www.imdb.com/title/tt7502234"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Inocência Roubada"
+categories:
+- draft
+- movies
+date: '2019-07-01'
+link: https://www.imdb.com/title/tt7502234
+tags:
+- cinemaqui
+title: Inocência Roubada
 ---
+
 Inocência Roubada conta um trauma de uma moça que começa na infância. Ela é abusada pelo melhor amigo de seus pais, e só consegue se expressar a respeito em sua dança. Essa dança é o que nos leva para o consultório de sua psicóloga. Tudo está mesclado na história porque a vida de uma pessoa não é apenas um evento: é ela completa. É um filme sobre a importância de nos expressarmos, no melhor e pior, para o bem e para o mal, pois é o conjunto o que nos define.
 
 Mas apesar de ser sobre abuso sexual esse não é um daqueles trabalhos vitimistas que chora pelo potencial arrancado de quem teve sua vida e sua psique sabotada. Ele é o pacote completo, que se desenvolve como sessões de terapia que revisitam o passado cruel e lamentável, mas que ao mesmo tempo constroem uma história, a história de vida de uma pessoa, que merece ser celebrada dançando. Apesar de tudo.

@@ -1,10 +1,14 @@
 ---
-date: "2017-02-14"
-link: "https://www.imdb.com/title/tt5812510"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "BugiGangue no Espaço"
+categories:
+- draft
+- movies
+date: '2017-02-14'
+link: https://www.imdb.com/title/tt5812510
+tags:
+- cinemaqui
+title: BugiGangue no Espaço
 ---
+
 BugiGangue no Espaço é mais uma tentativa do cinema brasileiro -- e com dinheiro brasileiro -- nas animações e na tecnologia 3D. O resultado é mais um filme que mira na mediocridade para nunca sair dos trilhos. Sua falta de ousadia no roteiro só rivaliza com sua capacidade de referenciar obras muito mais ambiciosas como Star Wars, Star Trek, E.T.. Sua animação cartunesca não oferece quase nada que se destaque de qualquer vídeo do YouTube. E o seu humor pitoresco quase traz à tona o instinto nacional de ser o eterno cão vira-latas das super-produções.
 
 A história é um fiapo, o que pelo menos não dá espaço para (muitas) incongruências. Uma turma de crianças se envolve em uma confusão na escola e precisam passar o fim de semana juntos preparando uma maquete do sistema solar, quando uma nave alienígena cai em seu quintal. Todos ajudam a consertar a nave em troca da tal maquete e de uma aventura espacial onde o destino do universo está nas mãos da raça mais subestimada de todas. Juntos eles precisam libertar a congregação do tirano que pretende instaurar uma ditadura intergaláctica nos mesmos moldes de Darth Vader.

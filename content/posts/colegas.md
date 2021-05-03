@@ -1,9 +1,12 @@
 ---
-date: "2016-07-28"
-link: "https://www.imdb.com/title/tt1179259"
-categories: [ "draft", "movies" ]
-title: "Colegas"
+categories:
+- draft
+- movies
+date: '2016-07-28'
+link: https://www.imdb.com/title/tt1179259
+title: Colegas
 ---
+
 Vocês percebem o potencial dramático e narrativo de um filme que usa atores com Síndrome de Down para interpretar personagens com Síndrome de Down? Percebem? Porque talvez os idealizadores de Colegas não tenham tido essa mesma visão. Aliás, o lado comercial da empreitada pode ser a principal responsável por um amontoado de caos envolvido em uma história menos que clichê: simplesmente sem sentido.
 
 Porém, seria interessante se a parte sem sentido estivesse do lado de Stalone (Ariel Goldenberg), Aninha (Rita Pokk) e Márcio (Breno Viola), os heróis da história, que fogem da clínica onde vivem para realizar seus sonhos. Afinal de contas, é deles o direito do caos, das emoções descontroladas, da vivência como não costumamos ver no Cinema.

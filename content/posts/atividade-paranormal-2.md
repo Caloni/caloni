@@ -1,9 +1,11 @@
 ---
-date: "2010-11-07"
-link: "https://www.imdb.com/title/tt1536044"
-categories: [ "movies" ]
-title: "Atividade Paranormal 2"
+categories:
+- movies
+date: '2010-11-07'
+link: https://www.imdb.com/title/tt1536044
+title: Atividade Paranormal 2
 ---
+
 Assim como o primeiro filme, essa continuação tenta passar a impressão documental através de uma mensagem da produtora agradecendo os envolvidos pelas cenas que veremos a seguir. Apesar desse aviso deixar sua devida pulga na orelha, não é uma solução que por si só baste, dependendo principalmente da competência da narrativa em introduzir a sensação de que o que estamos vendo são filmagens realizadas de forma caseira e que relatam acontecimentos verdadeiramente inexplicáveis.
 
 Felizmente, o filme alcança esse objetivo.

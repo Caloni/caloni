@@ -1,10 +1,14 @@
 ---
-date: "2019-08-27"
-link: "https://www.imdb.com/title/tt8682932"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Minha Lua de Mel Polonesa"
+categories:
+- draft
+- movies
+date: '2019-08-27'
+link: https://www.imdb.com/title/tt8682932
+tags:
+- cinemaqui
+title: Minha Lua de Mel Polonesa
 ---
+
 Imagine que coisa louca: o que você chama de "você" é a soma das ações dos seus antepassados, uma criação cultural e social (e religiosa) que culminou em sua existência. E quando olhamos para trás é bom saber o que houve no passado, não? Dá uma sensação de identidade, pertencimento, ou pelo menos uma explicação de por que somos do jeito que somos. Agora, e se não soubéssemos nada desse passado? Angustiante, talvez? Minha Lua de Mel Polonesa é um filme que explora um pouco dessa possível angústia do que é não saber sobre suas origens, em uma comédia leve, bem-humorada e... com alguns tiques nervosos.
 
 Sua protagonista é Anna (Judith Chemla), uma francesa cuja avó era judia e polonesa que teve um passado conturbado graças ao sentimento antissemita de sua época. Disposta a viajar para a terra natal de sua avó em uma espécie de lua de mel após casados com seu marido para um evento em memória dos judeus exterminados, Anna insiste em "se sentir polonesa" a todo custo, ainda que ela não tenha nenhuma pista do que é isso através de sua mãe, que nunca compartilhou nada a respeito.

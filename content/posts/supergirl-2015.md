@@ -1,9 +1,12 @@
 ---
-date: "2016-10-22"
-link: "https://www.imdb.com/title/tt4016454"
-categories: [ "draft", "series" ]
-title: "Supergirl"
+categories:
+- draft
+- series
+date: '2016-10-22'
+link: https://www.imdb.com/title/tt4016454
+title: Supergirl
 ---
+
 A nova série da "menina de aço" parece importada do seu original de 1984 e atualizada de maneira preguiçosa com os temas do momento (leia: feminazismo). Se até a metade do piloto conseguimos nos importar minimamente com a trama e, principalmente, com o destino de Kara e a decisão de ser quem ela verdadeiramente é (uma super-heroína), de lá pra frente o que vemos é a entrega total ao televisivo, a soluções fáceis e a modelos de entretenimento que utilizam referências dos últimos trabalhos da DC para soar antenado.
 
 O que torna tudo uma pena é que a garota, interpretada por Melissa Benoist, parece ter feito o dever de casa, ao menos nas expressões e movimentos de corpo que fizeram de sua versão masculina --  Clark Kent -- tão divertido quando a imponência do seu verdadeiro eu. Aqui temos o cômido nas caras de Benoist sem a imponência de sua versão "adulta", o que pode ser até explicado como apenas o começo de seu arco narrativo.

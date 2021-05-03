@@ -1,8 +1,11 @@
 ---
-date: "2016-11-18"
-categories: [ "draft", "series" ]
-title: "Quando a realidade encontra South Park"
+categories:
+- draft
+- series
+date: '2016-11-18'
+title: Quando a realidade encontra South Park
 ---
+
 South Park é uma série que homenageia o pior em nós mesmos. A série criada pela dupla Trey Parker e Matt Stone a partir de personagens recortados em 2D é um retrato fiel da estupidez humana. Porém, nem os criadores conseguiram prever tão longe. E quando enxergamos o mundo de hoje lembramos da célebre frase de Einstein: "duas coisas são infinitas: o universo e a estupidez humana". Sábio como era, porém, o famoso físico possuía algumas dúvidas a respeito do universo não ter fim.
 
 A série South Park nessa temporada estava, como de costume, brincando com as eleições americanas, onde concorrem mais uma vez os nomes fictícios (mas facilmente deduzíveis) Sanduíche de Merda (Hillary) e o Imenso Retardado (Trump). Em seus últimos episódios ele narra a vitória de Trump, travestido como o professor Garrison, um xenofóbico machista e todos os nomes que a esquerda gosta de usar (e o cúmulo da ironia, ele é gay).

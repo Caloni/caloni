@@ -1,9 +1,11 @@
 ---
-date: "2011-05-01"
-link: "https://www.imdb.com/title/tt1020938"
-categories: [ "movies" ]
-title: "Bebês"
+categories:
+- movies
+date: '2011-05-01'
+link: https://www.imdb.com/title/tt1020938
+title: Bebês
 ---
+
 O filme mostra a história de quatro bebês espalhados em quatro lugares do planeta bem diferentes entre si. O que mais impressiona é o fato de que, apesar das culturas serem tão diferentes, o filme enfoca justamente o que é comum a todo bebê: mamar, chorar, a curiosidade, as primeiras engatinhadas...
 
 A fotografia é fabulosa, uniforme nos quatro ambientes, e digno de nota juntamente da maravilhosa e oculta técnica que, para conseguir esses momentos especiais, posiciona as câmeras em lugares estratégicos que conseguem, inexplicavelmente, os melhores ângulos, e captam momentos-chave da evolução de todos aqueles pequeninos seres humanos.

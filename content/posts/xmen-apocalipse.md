@@ -1,9 +1,12 @@
 ---
-date: "2016-06-27"
-link: "https://www.imdb.com/title/tt3385516"
-categories: [ "draft", "movies" ]
-title: "X-Men: Apocalipse"
+categories:
+- draft
+- movies
+date: '2016-06-27'
+link: https://www.imdb.com/title/tt3385516
+title: 'X-Men: Apocalipse'
 ---
+
 O clássico problema da ótima direção não salvar um roteiro ruim. E, neste caso, o roteiro consegue construir a história mais fraca desde que "X-Men: O Filme" (do mesmo Bryan Singer, em 2000) deu à luz à série.
 
 O nível de mega-catástrofes nesses filmes vem crescendo vertiginosamente, o que acaba por tornar os cenários os reais inimigos dos heróis. Utilizando "matte paintings" rebuscados, mas cada vez mais plásticos e carentes de criatividade, o pelotão de artistas digitais aumenta cada vez mais nos créditos finais.

@@ -1,10 +1,14 @@
 ---
-date: "2016-12-15"
-link: "https://www.imdb.com/title/tt3854770"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Última Lição"
+categories:
+- draft
+- movies
+date: '2016-12-15'
+link: https://www.imdb.com/title/tt3854770
+tags:
+- cinemaqui
+title: A Última Lição
 ---
+
 A Última Lição é um filme importante para o tema "liberdade sobre o próprio corpo" levado para o aconchego do sub-gênero "filme para a família", o que é uma coisa natural para a família francesa, mas anormal em boa parte do mundo. De qualquer forma, este é um filme que tenta se livrar dos preconceitos e analisar uma situação delicada com a sensibilidade que ela merece.
 
 Tudo começa no aniversário de 92 anos de Madeleine. Cansada e já tendo preenchido sua lista de últimas coisas a fazer na vida (como dirigir), ela decide anunciar em sua festa, com toda a família presente, que irá desistir da vida. E com data marcada. Isso gera o silêncio e um distúrbio completo em todos que estão presentes, que até então pareciam estar completamente alheios à existência da velha senhora.

@@ -1,9 +1,12 @@
 ---
-date: "2015-11-29"
-link: "https://www.imdb.com/title/tt0339291"
-categories: [ "draft", "movies" ]
-title: "Desventuras em Série"
+categories:
+- draft
+- movies
+date: '2015-11-29'
+link: https://www.imdb.com/title/tt0339291
+title: Desventuras em Série
 ---
+
 Ninguém escuta as crianças. Essa é a premissa básica que torna possível toda a série de situações mortais em que três jovens órfãos ficam à mercê de um cruel parente distante em busca da herança dos afortunados Baudelaire.
 
 Tentando manter uma narrativa coesa, ainda que episódica, o diretor Brad Silberling (Cidade dos Anjos) recebe a imprescindível ajuda de uma equipe de direção de arte, fotografia e figurino que recriam o design surrealista usado nos livros homônimos de Lemony Snicket (ele próprio é um personagem, o escritor que narra a história, interpretado por Jude Law).

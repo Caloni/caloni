@@ -1,8 +1,11 @@
 ---
-date: "2009-07-10"
+categories:
+- draft
+- code
+date: '2009-07-10'
 title: Polimorfismo estático
-categories: [ "draft", "code" ]
 ---
+
 Para explicar polimorfismo, nada como ver as coisas como elas eram. Se você fosse um programador C de vinte anos atrás e criasse as seguintes funções:
 
 ```c
@@ -114,4 +117,3 @@ Entre seus usos mais comuns estão os seguintes:
 
     
   * Bom, o que mais sua imaginação mandar =)
-

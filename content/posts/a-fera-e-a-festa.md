@@ -1,10 +1,14 @@
 ---
-date: "2019-10-21"
-link: "https://www.imdb.com/title/tt7764804"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Fera e a Festa"
+categories:
+- draft
+- movies
+date: '2019-10-21'
+link: https://www.imdb.com/title/tt7764804
+tags:
+- cinemaqui
+title: A Fera e a Festa
 ---
+
 Este filme nos presenteia com uma visão do passado do cineasta que homenageia, Jean-Louis Jorges, cineasta da República Dominicana, e ao mesmo tempo nos faz pensar em cinema não apenas como uma história sendo contada, mas como uma visão muito particular da realidade.
 
 Sua estrela é Geraldine Chaplin, que faz Vera, uma diretora em fim de carreira, dirigindo seu último filme por opção e por idade. Todos seus colegas e amigos estão morrendo, e por esta ser a filha de 75 anos de Charles Chaplin o filme já nos diz desde o começo que é uma viagem metalinguística, onde realidade e ficção se misturam.

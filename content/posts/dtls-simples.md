@@ -1,8 +1,10 @@
 ---
-date: "2019-11-13"
-categories: [ "code" ]
-title: "DTLS Simples... simples?"
+categories:
+- code
+date: '2019-11-13'
+title: DTLS Simples... simples?
 ---
+
 O protocolo DTLS, grosso modo, é um addon do TLS, que é a versão mais nova e segura do SSL. Só que em vez de usar por baixo o TCP, que garante entrega na ordem certa dos pacotes, além de outras garantias, o UDP é permitido. Ou seja, datagramas. Em teoria essa forma de usar TLS é uma versão mais light, com menos overhead e menos tráfico de banda. E a pergunta que tento responder aqui é: será que isso é verdade?
 
 A primeira tarefa é conseguir compilar e rodar um sample DTLS. Estou usando Windows como sistema operacional alvo (requisitos de projeto). Para criar um sample client/server de DTLS usando a biblioteca OpenSSL (no momento na versão 1.1.1d) precisei de alguns passos de setup, conforme especificados no [tutorial do próprio OpenSSL]. O repositório [DTLS-Examples], disponível no GitHub, possui alguns starts para começarmos a compilar e rodar um pouco de código, mas nem tudo são flores na hora de rodar para Windows.

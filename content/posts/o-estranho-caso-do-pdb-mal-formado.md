@@ -1,8 +1,11 @@
 ---
-date: "2015-08-19"
-title: "O Estranho Caso do PDB Mal-Aformado"
-categories: [ "draft", "code" ]
+categories:
+- draft
+- code
+date: '2015-08-19'
+title: O Estranho Caso do PDB Mal-Aformado
 ---
+
 Era uma vez, há 13 anos atrás, um tal de Visual Studio .NET, que iria trazer a felicidade para nós, meros mortais usuários de programinhas em C com ponteiro pra lá e ponteiro pra cá. Agora a Microsoft traria para o pessoal do "baixo nível" a mais nova novidade do verão: uma IDE lenta, bugada e... bonita?
 
 Bem, para os que estavam acostumados com o Visual C++ 6.0, nada foi mais incômodo do que esperar carregar o programa de manhã para conseguir finalmente compilar. Ajustadas as expectativas, os projetos foram aos poucos migrados para aquela nova forma de configurar EXEs, DLLs, LIBs e OCXs.

@@ -1,10 +1,14 @@
 ---
-date: "2019-03-13"
-link: "https://www.imdb.com/title/tt4504044"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Maligno"
+categories:
+- draft
+- movies
+date: '2019-03-13'
+link: https://www.imdb.com/title/tt4504044
+tags:
+- cinemaqui
+title: Maligno
 ---
+
 Para fãs de terror, "Maligno" é uma viagem que no mínimo paga o ingresso, mas vem com um final que pode deixar o pessoal mais antenado em justiça social com um gosto ruim na boca. Angustiante em alguns momentos e tenso em quase todos, ele vai te consumindo por dentro enquanto você acompanha uma história que é à prova da razão humana.
 
 Essa é uma história horripilante demais para sermos racionais e científicos. Ela coloca o espírito de um serial killer morto pela polícia de volta à Terra no corpo de um recém-nascido. Já crescido, Miles é visto como um prodígio pelos pais, Sarah e John, pois aprende rápido e dá sinais de uma inteligência fora do comum. Porém, seus problemas em socializar o torna uma criança solitária, e aos poucos sua mãe percebe que há algo de errado e sombrio na natureza de seu filho.

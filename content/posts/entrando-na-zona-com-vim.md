@@ -1,9 +1,11 @@
 ---
-date: "2017-01-05"
-title: "Entrando na zona com Vim"
-categories: [ "draft", "blog" ]
-
+categories:
+- draft
+- blog
+date: '2017-01-05'
+title: Entrando na zona com Vim
 ---
+
 Se você é programador é bem provável que já tenha ouvido falar em [Flow] [1] ou [The Zone] [2]. Se for leitor assíduo do Hacker News, então, nem se fala. De qualquer forma, uma das maneira mais produtivas do programador programar é entrar na famosa "zona". É lá que muito de nós nascemos. Lembra a primeira vez que mexeu em um computador ou afim e ficou tão obcecado que não viu o tempo passar? Pois bem. Você esteve na zona. E estar nela é um bom lugar para trabalhar.
 
 Na zona, principalmente resolvendo problemas complexos, o importante é poder construir uma estrutura em sua mente com a ajuda de alguns aparatos, como um caderno de anotações, stickers, lousa ou seu editor preferido. Meu editor preferido para navegar (flow) por um código é sem sombra de dúvida o Vim, pois ele é apenas uma tela que preenche todo meu campo de visão e possui comandos em que eu consigo facilmente acessar o conteúdo que preciso relembrar. Quando estou obtendo o diagnóstico de um log, por exemplo, posso rapidamente ir construindo um modelo mental da solução navegando entre arquivos de log e código-fonte através de tags e buscas em regex.

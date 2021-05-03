@@ -1,10 +1,14 @@
 ---
-date: "2017-07-08"
-link: "https://www.imdb.com/title/tt3606752"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Carros 3"
+categories:
+- draft
+- movies
+date: '2017-07-08'
+link: https://www.imdb.com/title/tt3606752
+tags:
+- cinemaqui
+title: Carros 3
 ---
+
 Carros 3 consegue meio que comprovar que a Pixar continua com sua crise de criatividade, mas que isso não é motivo para fazer filme ruim. Então eles abraçam o convencional com carinho, amadurecem mais uma série (depois de Toy Story) e fazem de tudo para não estragar o passeio. Mas como quem não arrisca não petisca esta é mais uma aventura morna no campo das ideias e da emoção de um estúdio que era sinônimo de momentos icônicos do Cinema em forma de computação.
 
 Com uma introdução que faz ecos com Toy Story 3, aprendemos que o Relâmpago McQueen está sendo ultrapassado literalmente por carros mais velozes, materializado por um "vilão", Jackson Storm, mas também pela tecnologia, cada vez mais computadorizada, baseada em números e tornando, como a própria Formula 1 do mundo real, uma competição de clones. O tempo passou e depois de seu primeiro acidente grave ele se vê como seu próprio tutor, Doc Hudson, que em seu auge "pendurou as calotas" (essa expressão é ótima!) por força maior.

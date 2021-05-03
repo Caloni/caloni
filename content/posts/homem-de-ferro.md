@@ -1,9 +1,11 @@
 ---
-date: "2015-07-30"
-link: "https://www.imdb.com/title/tt0371746"
-categories: [ "movies" ]
-title: "Homem de Ferro"
+categories:
+- movies
+date: '2015-07-30'
+link: https://www.imdb.com/title/tt0371746
+title: Homem de Ferro
 ---
+
 Pepper Potts (Gwyneth Paltrow) guarda o primeiro coração nuclear de Tony Stark (Robert Downey Jr.) como prova de que ele tem um coração. Ironicamente, o primeiro Homem de Ferro também prova que a franquia tinha coração e lógica em suas primeiras duas horas, estruturados de uma forma que jamais veríamos novamente nas novas aparições do gênio/bilionário/herói.
 
 Criando uma história convincente no estilo O Senhor das Armas e se aproveitando disso para tornar a fantasia e a aventura mais palatável para um público menos ingênuo, a criação do herói dentro daquela caverna escura a partir de materiais que seriam usados para fabricar um dos mísseis da sua empresa bélica não deixa de ser significativa. Aliás, significados não faltam na primeira aventura do herói, que consegue a proeza de tornar suas próximas e medíocres experiências cinematográficas mais empolgantes (ainda que na verdade não sejam).

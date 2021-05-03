@@ -1,9 +1,12 @@
 ---
-date: "2017-03-21"
-link: "https://www.imdb.com/title/tt2463512"
-categories: [ "draft", "movies" ]
-title: "Amores Inversos"
+categories:
+- draft
+- movies
+date: '2017-03-21'
+link: https://www.imdb.com/title/tt2463512
+title: Amores Inversos
 ---
+
 Hoje Kristen Wiig é a queridinha das comédias femininas. Em 2013 ela ainda estava galgando sua trajetória da TV para o Cinema, onde atingiria seu clímax na combinação explosiva de roteiro, direção e atuação em Missão Madrinha de Casamento. Nesse drama intimista independente dirigido por Liza Johnson e roteirizado com toques de exagero por Mark Poirier e Alice Munro, ela e Guy Pearce vivem personagens caricatos e só são salvos graças às atuações convincentes de ambos (Kristen mais).
 
 A história é sobre Johnson Parry (Wiig), uma mulher tímida que cuidava de uma senhora desde jovem e que agora se vê sem ninguém para cuidar. Ela é contratada por Nick Nolte, que tenta controlar as pessoas que ama através de suas posses, para tomar conta de sua filha adolescente. Ela e a amiga pregam uma peça em Johnson e logo a garota se vê apaixonada pelo pai da moça, o alcóolatra drogado Ken (Guy Pearce) que tem planos de reabrir um hotel caindo aos pedaços e assim ficar melhor aos olhos do sogro, que insiste em odiá-lo por ter sido parte principal em um acidente que matou sua filha.

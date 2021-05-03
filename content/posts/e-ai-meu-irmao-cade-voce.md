@@ -1,9 +1,11 @@
 ---
-date: "2020-04-07"
-link: "https://www.imdb.com/title/tt0190590"
-categories: [ "movies" ]
-title: "E Aí, Meu Irmão, Cadê Você?"
+categories:
+- movies
+date: '2020-04-07'
+link: https://www.imdb.com/title/tt0190590
+title: E Aí, Meu Irmão, Cadê Você?
 ---
+
 Irmãos Coen e seu amor pelo folclore americano. E suas músicas. É época da Depressão e eles juntam com a Odisseia de Ulisses e várias músicas regionais.
 
 George Clooney diverte, mas ele está em muito melhor companhia pelos coadjuvantes. Especialmente o alívio cômico. Há várias participações especiais, e uma das melhores é do dono da gravadora, e o pior de John Goodman. Essas pessoas vivem caricaturas marcantes por segundos e nesse pouco tempo criam cenas memoráveis, que vão para a coleção dos grandes momentos da cinegrafia dos cineastas.

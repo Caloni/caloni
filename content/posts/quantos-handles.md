@@ -1,9 +1,11 @@
 ---
-date: "2016-11-29"
-title: "Quantos handles sua aplicação está abrindo?"
-categories: [ "draft", "blog" ]
-
+categories:
+- draft
+- blog
+date: '2016-11-29'
+title: Quantos handles sua aplicação está abrindo?
 ---
+
 Mesmo que você não programe em C/C++, mas programe para Windows (ex: .NET), sempre há a possibilidade de seu programa estar causando leaks de handles indefinidamente, o que não se traduz em aumento significativo de memória alocada para seu processo, mas é, sim, um problema a ser tratado.
 
 Como isso pode ser causado?
@@ -94,4 +96,3 @@ Se seu programa for um handle hog, vai conseguir até ver esse leak acontecendo 
 ![](http://i.imgur.com/gR0Qe9D.gif)
 
 E como encontrar o código-fonte responsável por esse leak? Mais detalhes em um próximo post.
-

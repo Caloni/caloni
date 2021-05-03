@@ -1,10 +1,14 @@
 ---
-date: "2019-09-24"
-link: "https://www.imdb.com/title/tt2935510"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Ad Astra: Rumo às Estrelas"
+categories:
+- draft
+- movies
+date: '2019-09-24'
+link: https://www.imdb.com/title/tt2935510
+tags:
+- cinemaqui
+title: 'Ad Astra: Rumo às Estrelas'
 ---
+
 Ad Astra é um filme de mais de cem milhões de dólares indo para o espaço sobre um Brad Pitt aprendendo a deixar seu pai ir embora (Tommy Lee Jones). No caminho, percebendo as referências, aprendemos como alguns filmes icônicos de sci-fi deixaram sua marca nas mentes dos millennials, e junto do personagem de Pitt iremos testemunhar a farofa mais realista que você irá ver sobre exploração espacial esse ano.
 
 Entre os filmes icônicos que se tornaram inspiração para Ad Astra, "2001: Uma Odisseia no Espaço" é o que mais nos lembramos. Este clássico inquestionável de Stanley Kubrick, filmado em 1968, continua irretocável. Fala sobre a ascenção do Homem em direção ao seu destino após quebrar alguns ossos em seu estado de primata e ter gerado o filósofo Friedrich Nietzsche, com sua ideia de que o próximo passo de nossa existência é sermos mais que apenas descendentes de primatas quebradores de ossos.

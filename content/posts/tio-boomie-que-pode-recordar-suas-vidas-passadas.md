@@ -1,9 +1,11 @@
 ---
-date: "2020-06-22"
-link: "https://www.imdb.com/title/tt1588895"
-categories: [ "movies" ]
-title: "Tio Boomie, Que Pode Recordar Suas Vidas Passadas"
+categories:
+- movies
+date: '2020-06-22'
+link: https://www.imdb.com/title/tt1588895
+title: Tio Boomie, Que Pode Recordar Suas Vidas Passadas
 ---
+
 O diretor tailandês Apichatpong Weerasethakul afirmou em uma entrevista que acompanha este DVD que "sente inveja de quem vê seus filmes". Não é apenas a pretensão de um cineasta que vem à tona, mas todo o humor subjacente se lembrarmos que Tio Boomie é um lixo de filme. Inveja de quem assiste? Se ele pelo menos soubesse...
 
 O filme é inspirado em um livro de 1983, mas apenas inspirado. O livro fez tanto sucesso que deve ter alavancado a produção. Há um curta-metragem também, "dirigido" por Apichatpong e lançado pouco tempo antes do longa. Quem viu esse curta antes deve ter pensado: como alguém que vê dezessete intermináveis minutos disso pensa que seria uma boa ideia algo ainda maior?

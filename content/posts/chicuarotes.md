@@ -1,10 +1,14 @@
 ---
-date: "2019-08-28"
-link: "https://www.imdb.com/title/tt4523910"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Chicuarotes"
+categories:
+- draft
+- movies
+date: '2019-08-28'
+link: https://www.imdb.com/title/tt4523910
+tags:
+- cinemaqui
+title: Chicuarotes
 ---
+
 A sensação de impotência em Chicuarotes é o que constrói uma tensão que consegue ser ao mesmo tempo trágica e engraçada. Por um lado há o velho clichê de chorar sobre a desgraça dos mais pobres, mas por outro há esse lado humano que reconhece que, dizendo de forma bem chula e preconceituosa, pobre não vale muita coisa, mesmo.
 
 Aqui temos Planchado e Cagalera, dois amigos que vestidos de palhaço são melhores assaltantes que comediantes, desde que eles estejam com uma arma em um ônibus cheio de pessoas indefesas, pois na vila pobre onde moram a dança é diferente, com homens poderosos controlando os bairros. Por que são poderosos? O que fazem? Eu não sei, a camada social é um mistério neste filme, e ficamos apenas com a superfície.

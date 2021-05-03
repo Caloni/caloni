@@ -1,6 +1,8 @@
 ---
-date: "2016-12-22"
-categories: [ "food" ]
-title: "Lidio Carraro Sociedade da Mesa Tannat 2011"
+categories:
+- food
+date: '2016-12-22'
+title: Lidio Carraro Sociedade da Mesa Tannat 2011
 ---
+
 Todos os sinais que ainda tem muito que desenvolver; equilibrado e completamente escuro. Na adega.

@@ -1,8 +1,11 @@
 ---
-date: "2018-07-15"
-categories: [ "draft", "books" ]
-title: "Por Dentro do Roteiro"
+categories:
+- draft
+- books
+date: '2018-07-15'
+title: Por Dentro do Roteiro
 ---
+
 O livro de Tom Stempel, acadêmico e crítico cinematográfico, parece ter sido feito com um olho nos negócios e outro no entretenimento. Isso porque para Stempel o importante em um roteiro não é seguir uma estrutura estética agradável, nem mover a história em uma trama que te prenda, mas fazer os personagens serem tão reais que você os seguirá para onde quer que seja. Mesmo em um blockbuster.
 
 Isso é porque para ele Titanic, de James Cameron, não é um exemplo a ser seguido porque é, perdoe o trocadilho, superficial, ou os Episódios I, II e III da saga Star Wars são exemplos de roteiros ruins simplesmente porque não são escritos para convencer ninguém, mas apenas bater cartão no universo de George Lucas.

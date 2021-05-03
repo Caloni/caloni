@@ -1,9 +1,12 @@
 ---
-date: "2017-04-01"
-link: "https://www.imdb.com/title/tt4540434"
-categories: [ "draft", "movies" ]
-title: "Paradox"
+categories:
+- draft
+- movies
+date: '2017-04-01'
+link: https://www.imdb.com/title/tt4540434
+title: Paradox
 ---
+
 Paradox é o tipo de filme que vale a pena conferir pelos conceitos de seu roteiro. Ele é produzido em baixo orçamento, com fotografia de televisão, trilha sonora enlatada e atuações sofríveis. Porém, ignorando tudo isso, este é o filme de viagem no tempo que estava faltando: um que ironicamente evite nos colocar na velha questão dos paradoxos temporais.
 
 Se mantendo o tempo todo em um laboratório subterrâneo, uma equipe inusitada de cientistas realiza a primeira viagem no tempo da história para constatar que a natureza humana é podre. Uma hora após ligar a máquina (e próximo do final do filme) praticamente todos estarão mortos por um assassino misterioso, que é o grande mistério que nossos heróis do passado precisarão desvendar se quiserem continuar vivos.

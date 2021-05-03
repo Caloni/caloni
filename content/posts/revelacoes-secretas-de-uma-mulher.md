@@ -1,9 +1,11 @@
 ---
-date: "2020-07-11"
-link: "https://www.imdb.com/title/tt0233809"
-categories: [ "movies" ]
-title: "Revelações Secretas de Uma Mulher"
+categories:
+- movies
+date: '2020-07-11'
+link: https://www.imdb.com/title/tt0233809
+title: Revelações Secretas de Uma Mulher
 ---
+
 Filme de baixo orçamento sobre a ex do seu diretor, Miyuki, uma feminista bissexual radical que tem tantos filhos que fica difícil contar o número dos pais. Kazuo Hara, o diretor, nasceu em 1945, um péssimo momento para estar vivo no Japão. Segundo longa seu e já habituado a polemizar em seus conteúdos.
 
 É um trabalho no mínimo interessante. Cumpre seu tom documental, embora seja hilário que o diretor se surpreenda com a briga constante entre a ex e sua namorada quando ele passa a viver sob o mesmo teto, filmando a briga. Dessa forma, o filme acaba explicando indiretamente a diferença entre homens e mulheres e um pouco da natureza humana.

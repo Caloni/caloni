@@ -1,11 +1,15 @@
 ---
-date: "2018-02-21"
-external: "true"
-link: "https://www.imdb.com/title/tt2873282"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Operação Red Sparrow"
+categories:
+- draft
+- movies
+date: '2018-02-21'
+external: 'true'
+link: https://www.imdb.com/title/tt2873282
+tags:
+- cinemaqui
+title: Operação Red Sparrow
 ---
+
 Operação Red Sparrow é um filme para quem gosta de histórias de espionagem sem a ação dos filmes de James Bond e com um jogo de gato e rato intelectual que irá fazer você sair do cinema pensando por um bom tempo sobre o que foi que aconteceu.
 
 Isso porque o roteiro de Justin Haythe adaptado do romance de Jason Matthews vai direto ao ponto, estabelecendo rapidamente as relações entre seus personagens, e chegando um momento que ele não questiona mais se o espectador está conseguindo ou não seguir o raciocínio da bela espiã Dominika Egorova, que vai pulando de camada em camada da psique das pessoas, como se fazer isso já estivesse em seu sangue.

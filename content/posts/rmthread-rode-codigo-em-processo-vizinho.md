@@ -1,8 +1,10 @@
 ---
-date: "2008-01-28"
-title: "RmThread: rode código em processo vizinho"
-categories: [ "code" ]
+categories:
+- code
+date: '2008-01-28'
+title: 'RmThread: rode código em processo vizinho'
 ---
+
 Aproveitando que utilizei a mesma técnica semana passada para desenvolver um vírus para Ethical Hacking, republico aqui este [artigo que já está mofando no Code Projet], mas que espero que sirva de ajuda pra muita gente que gosta de fuçar nos internals do sistema. Boa leitura!
 
 RmThread é um projeto que fiz baseado em uma das três idéias do artigo de Robert Kuster em "Three Ways to Inject Your Code into Another Process". No entanto, não utilizei código algum. Queria aprender sobre isso, pesquisei pela internet, e me influenciei pela técnica CreateRemoteThread com LoadLibrary. O resto foi uma mistura de "chamada de funções certas" e MSDN.

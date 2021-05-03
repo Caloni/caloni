@@ -1,9 +1,11 @@
 ---
-date: "2013-04-11"
-link: "https://www.imdb.com/title/tt2231208"
-categories: [ "movies" ]
-title: "Uma História de Amor e Fúria"
+categories:
+- movies
+date: '2013-04-11'
+link: https://www.imdb.com/title/tt2231208
+title: Uma História de Amor e Fúria
 ---
+
 Um delírio técnico e estilístico que permite que vejamos nossa história como povo através da lente da dura e cruel realidade dos oprimidos, Uma História de Amor e Fúria estabelece desde o início seu tom fantasioso ao revelar a idade do narrador e protagonista envolvido em uma jornada de cerca de 600 anos através do passado e futuro do Brasil.
 
 Tanto o "amor" quanto a "fúria" do título podem ser sentidos desde a primeira das quatro histórias em que são desenvolvidos os dois personagens principais: um guerreiro imortal da tribo Tupinambá (Selton Mello) e sua amada e sempre belamente reencarnada Janaína (Camila Pitanga). O Rio de Janeiro, palco da história, já nasce de uma luta sanguinária entre franceses e portugueses pelo poder da região. A história apenas se mostra, mas se torna óbvio que aquela sociedade nascida da opressão utiliza a mesma estrutura em qualquer momento de sua evolução tecnológica.

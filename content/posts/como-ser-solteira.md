@@ -1,9 +1,12 @@
 ---
-date: "2016-11-17"
-link: "https://www.imdb.com/title/tt1292566"
-categories: [ "draft", "movies" ]
-title: "Como Ser Solteira"
+categories:
+- draft
+- movies
+date: '2016-11-17'
+link: https://www.imdb.com/title/tt1292566
+title: Como Ser Solteira
 ---
+
 É cada vez melhor a surpresa com relação a comédias românticas (ou apenas comédias) protagonizadas por mulheres. O universo feminino independente do masculino estava escondido por gerações, mas hoje, no formato de uma sociedade que cada vez mais reconhece o direito da mulher de se divertir tanto quanto os homens, está a cada dia causando no Cinema resultados positivos, da mesma forma com que o universo masculino muitas vezes é representado (vide o último filme de Richard Linklater, "Jovens, Loucos e Mais Rebeldes") sem ressalvas pelo machismo e a quem isso possa doer. Ele existe. Assim como mulheres que transam por 100% de prazer e 0% de comprometimento.
 
 E para temperar estes filmes, a figura de Rebel Wilson é sempre bem-vinda. Ela é uma coadjuvante de luxo que consegue através de seu carisma e (quase sempre) ótimas tiradas tornar "Como Ser Solteira" um filme engraçado e dinâmico, evitando cair no clichê do drama feminino em busca de significado em sua vida.

@@ -1,9 +1,11 @@
 ---
-date: "2014-06-14"
-link: "https://www.imdb.com/title/tt2582846"
-categories: [ "movies" ]
-title: "A Culpa é das Estrelas"
+categories:
+- movies
+date: '2014-06-14'
+link: https://www.imdb.com/title/tt2582846
+title: A Culpa é das Estrelas
 ---
+
 O que torna A Culpa das Estrelas tão fascinante como romance é sua despreocupação em soar "cinematográfico", ou seja, com seus diálogos inesquecíveis, interpretações profundas e momentos chorosos, mesmo que ele tenha tudo isso. A diferença é que ele assume suas próprias fraquezas e limites ao criar uma história cheia de filosofia pop/adolescente que nos faz sentir como seus personagens, mesmo sem a necessária profundidade para os temas que aborda. Quem se importa em soar original ou explorar o âmago de questões universais quando se está com câncer, ou quando se tem apenas 80 anos de vida (com sorte) nesse planeta? Melhor do que tentar soar importante é ser acessível, e isso é possível dizer dessas pessoas.
 
 Essa é uma história de amor não-convencional entre Hazel (Shailene Woodley) e Gus (Ansel Elgort), dois jovens adoráveis que possuem um passado cancerígeno corroendo seus potenciais bons momentos na fase onde temos energia e ideias de sobra, o que já não é o caso para Hazel, que possui problemas respiratórios, e tenta não ser o caso para Gus, que tenta converter seus dramas em algo positivo e original, ainda que sua feição "ciborgue" tenha sido causada pela amputação de uma perna para conter as "células do mal".

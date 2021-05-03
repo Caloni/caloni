@@ -1,9 +1,12 @@
 ---
-date: "2019-10-27"
-link: "https://www.imdb.com/title/tt0269389"
-categories: [ "draft", "movies" ]
-title: "Jalla! Jalla!"
+categories:
+- draft
+- movies
+date: '2019-10-27'
+link: https://www.imdb.com/title/tt0269389
+title: Jalla! Jalla!
 ---
+
 Filmes independentes como esse do diretor estreante Josef Fares pode ter muitos defeitos na produção que soam ridículos na tela. Um ritmo esquisito, cortes abruptos, péssimo casting, posição da câmera de vídeo caseiro e trilha sonora brega. Diferente das produções caras, de estúdio, com grandes astros, não há muito a perder, exceto a reputação de seu diretor, que a essa altura da carreira está próxima de zero.
 
 Então surge essa comédia divertida e sem pretensão de se tornar algo memorável (não que uma coisa tenha a ver com a outra). É um filme feito para que Fares exerça o seu estilo, produzido com seus familiares e amigos para rirem juntos do resultado final. Ele depende do estado de espírito de seu espectador, que não pode se levar muito a sério. Apenas absorva o ridículo da edição sem ritmo, dos zooms exagerados, dos sons de comédia pastelão e curta um ensaio sobre como fazer filmes após a faculdade.

@@ -1,8 +1,11 @@
 ---
-date: "2014-03-28"
-categories: [ "code", "ccpp" ]
-title: "A moda agora é levar lambda na função"
+categories:
+- code
+- ccpp
+date: '2014-03-28'
+title: A moda agora é levar lambda na função
 ---
+
 A nova moda de programar C++ nos últimos anos com certeza é usar lambda. Mas, afinal, o que é lambda? Bom, pra começar, é um nome muito feio.
 
 O que esse nome quer dizer basicamente é que agora é possível criar função dentro de função. Não só isso, mas passar funções inteiras, com protótipo, corpo e retorno, como parâmetro de função.

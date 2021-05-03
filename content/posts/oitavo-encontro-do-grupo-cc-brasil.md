@@ -1,9 +1,13 @@
 ---
-date: "2011-09-19"
-categories: [ "draft", "blog" ]
-tags: [ "ccppbr" ]
-title: "Oitavo Encontro do Grupo C/C++ Brasil"
+categories:
+- draft
+- blog
+date: '2011-09-19'
+tags:
+- ccppbr
+title: Oitavo Encontro do Grupo C/C++ Brasil
 ---
+
 Esse final de semana ocorreu mais um dos inesquecíveis encontros dos programadores C++, dessa vez ao estilo "velhos tempos", com direito a entrada gratuita e um grupo mais coeso, quase já íntimo, e mais animado.
 
 Não só pela informalidade da ocasião, tivemos palestras interessantes que dessa vez conseguiram abranger temas bem diversificados e fugir um pouco do feijão-com-arroz de desenvolvimento Windows que muitos encontros anteriores haviam se transformado.
@@ -21,4 +25,3 @@ Para finalizar, uma palestra-bônus de Marcelo Zimbres Silva (thanks to @Alberto
 E por falar em xiita, vejam só: uma série inédita de palestras sem nenhuma estar falando especificadamente sobre Windows. O que acham?
 
 Como bônus, dessa vez tivemos nossas palestras filmadas. Apenas peço paciência para a fase de edição, onde devo utilizar os slides dos palestrantes para tornar o visual mais didátivo do que uma câmera se movendo freneticamente de um lado para o outro. Algumas partes podem ter ficado de fora por alguns problemas técnicos (sou marinheiro de primeira viagem), mas o mais importante, com certeza, está gravado.
-

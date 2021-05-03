@@ -1,9 +1,11 @@
 ---
-date: "2017-03-14"
-title: "Entrando na zona com Windows"
-categories: [ "draft", "blog" ]
-
+categories:
+- draft
+- blog
+date: '2017-03-14'
+title: Entrando na zona com Windows
 ---
+
 **Update 2019-03-20: Adicionando programa para fazer tela cheia no Windows e retirados detalhes que não uso mais.**
 
 Um [artigo anterior](/entrando-na-zona-com-vim) havia dado umas dicas de como transformar o Vim em uma ferramenta para toda obra, com isso limitando as distrações quando se está em um computador, e com isso facilitando a entrada e a permanência no estado de fluidez de produtividade que conhecemos como "flow", ou estar na zona. Agora é a vez do Windows.

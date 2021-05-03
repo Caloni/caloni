@@ -1,9 +1,13 @@
 ---
-date: 2019-05-17T13:53:21-03:00
-title: "C Resolve Tudo: Orientação a Objetos (com Polimorfismo)"
-categories: [ "draft", "code" ]
-desc: "Formas de fazer com a linguagem C o que as outras linguagens fazem by design. Se quiser algum artigo sobre alguma feature de alguma linguagem ou ferramenta, comente."
+categories:
+- draft
+- code
+date: 2019-05-17 13:53:21-03:00
+desc: Formas de fazer com a linguagem C o que as outras linguagens fazem by design.
+  Se quiser algum artigo sobre alguma feature de alguma linguagem ou ferramenta, comente.
+title: 'C Resolve Tudo: Orientação a Objetos (com Polimorfismo)'
 ---
+
 Como programadores há um vício em nossas cabeças que é estar constantemente buscando a bala de prata, ou seja, a solução final e única para todos os nossos problemas de implementação. Com o tempo e alguma experiência descobrimos que tal coisa não existe, mas até lá nos encantamos com esse ou aquele framework, e claro, com essa ou aquela linguagem.
 
 As linguagens que são criadas depois da revolução dos computadores pessoais querem facilitar a vida do programador médio embutindo soluções já testadas por [programadores de verdade](/programadores-de-verdade-nao-usam-java) e evitando a todo custo que o código incorra em erros comuns. Além disso, há movimentos nas comunidades e no mercado que geram tendências que influenciam essas linguagens, o que explica design patterns, orientação a objetos, programação funcional, xp, scrum, devops e qualquer outra bala de prata que vá se solidificando.

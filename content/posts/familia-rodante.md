@@ -1,9 +1,12 @@
 ---
-date: "2019-04-29"
-link: "https://www.imdb.com/title/tt0359254"
-categories: [ "draft", "movies" ]
-title: "Família Rodante"
+categories:
+- draft
+- movies
+date: '2019-04-29'
+link: https://www.imdb.com/title/tt0359254
+title: Família Rodante
 ---
+
 Pablo Trapero nos entrega a experiência completa do que era uma família no tempo de nossos pais/avós. (Era, porque a família foi destroçada pelos marxistas culturais.) Todos os elementos estão no filme. As fotos inapropriadas que servirão para os mais velhos alimentarem suas memórias. O amor juvenil entre primos e as traições, que fazem rima com as declarações de amor eterno dos noivos. A matriarca e suas opiniões antiquadas, que soam familiares e por isso não conseguimos simplesmente dizer que ela está errada. Quem diria isso para a própria mãe ou avó?
 
 Este é um road movie do começo ao fim. Depois de muito tempo sem se verem, em uma reunião a vovó recebe a notícia que sua sobrinha irá se casar e que ela foi escolhida como madrinha. Ela emocionada declara que todos irão para a festa, e ninguém consegue dizer não para a anciã próxima do fim da vida com felicidade nos olhos. Ao mesmo tempo ela sabe que não será uma viagem fácil, o que faz sua pressão subir.

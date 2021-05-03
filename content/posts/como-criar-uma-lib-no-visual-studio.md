@@ -1,8 +1,11 @@
 ---
-date: "2008-05-29"
+categories:
+- draft
+- code
+date: '2008-05-29'
 title: Como criar uma LIB no Visual Studio
-categories: [ "draft", "code" ]
 ---
+
 Quando se está começando no ramo, alguns detalhes nunca vêm à tona para o programador novato. Ele simplesmente vai codando até se sentir satisfeito com o prazer que é proporcionado pela prática da arte dos deuses de silício.
 
 Isso, em termos práticos, quer dizer que todo o fonte vai ser escrito no mesmo ".c", que aliás talvez nem se dê ao luxo de possuir seu próprio ".h": pra quê, se as funções são todas amigas de infância e todas se conhecem?

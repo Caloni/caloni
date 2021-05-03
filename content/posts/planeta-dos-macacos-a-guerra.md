@@ -1,9 +1,12 @@
 ---
-date: "2018-11-19"
-link: "https://www.imdb.com/title/tt3450958"
-categories: [ "draft", "movies" ]
-title: "Planeta dos Macacos: A Guerra"
+categories:
+- draft
+- movies
+date: '2018-11-19'
+link: https://www.imdb.com/title/tt3450958
+title: 'Planeta dos Macacos: A Guerra'
 ---
+
 É impressionante a qualidade constante dessa nova trilogia. Planeta dos Macacos: A Guerra mantêm as mesmas virtudes técnicas e narrativas de seu antecessor (Planeta dos Macacos: O Confronto) e segue a mesma história do filme inicial que é o mais fraco de todos, mas se ancora na força de sua ideia e nas referências ao "Planeta dos Macacos" original (aquele com Charton Helston).
 
 Esta é uma produção que foi crescendo com o tempo. Iniciado pelo inexpressivo diretor Rupert Wyatt e elencando o fraco James Franco para o papel de mentor do primeiro macaco inteligente a se rebelar, ainda que Planeta dos Macacos A Origem tenha em sua história os elementos necessários para que toda a saga ganhe peso (como a viagem ao espaço que sabemos que irá dar errado) o filme em si carrega um pouco na questão da inteligência símia e de como ela surgiu. Por outro lado, não deixa de ser adorável observar o que os efeitos visuais com a captura de movimento e expressões tem feito para o Cinema. Andy Serkis é o mestre nessa arte desde a trilogia de O Senhor dos Anéis e aqui percebemos a franca evolução do ator e da técnica.

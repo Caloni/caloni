@@ -1,9 +1,11 @@
 ---
-date: "2013-01-20"
-link: "https://www.imdb.com/title/tt1720114"
-categories: [ "movies" ]
-title: "Heleno"
+categories:
+- movies
+date: '2013-01-20'
+link: https://www.imdb.com/title/tt1720114
+title: Heleno
 ---
+
 Nada mais apropriado às vésperas da segunda Copa do Mundo no Brasil -- a primeira foi em 1950, para quem não se lembra -- para revermos a biografia de um jogador de futebol totalmente esquecido daquela época e de quebra entendermos um pouco como o processo de modernização do esporte retirou todo o romantismo de uma era e transformou os esportistas em meras figurinhas de um álbum prestes a expirar.
 
 E a expiração desse álbum está cada vez mais rápida: jogadores migram de clube para clube, e os próprios clubes começam a passar de mão em mão sem qualquer vínculo à sua história e tradição. O que fica para trás -- mas isso é um mero detalhe -- é a vontade de jogar. O futebol perde-se no meio de tantas cifras, incalculáveis para nós, simples mortais.

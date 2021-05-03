@@ -1,10 +1,14 @@
 ---
-date: "2019-10-29"
-link: "https://www.imdb.com/title/tt9654050"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Lemebel"
+categories:
+- draft
+- movies
+date: '2019-10-29'
+link: https://www.imdb.com/title/tt9654050
+tags:
+- cinemaqui
+title: Lemebel
 ---
+
 Lemebel é trabalho da diretora estreante Joanna Reposi Garibaldi sobre o ensaísta, crônico e novelista Pedro Segundo Mardones Lemebel, um ativista político no Chile em plena ditadura de Pinochet. Sua maior conquista em toda sua vida? Ser abertamente gay nessa época.
 
 Sim, o trabalho de Joanna Garibaldi é relevante como documentação da História, mas não, essa nem de longe é uma história que vale a pena ser vista. Garibaldi não deixa fácil para o espectador que não conhece o artista plástico/escritor, e deixa irrelevante este filme para todas as outras pessoas que conhecem e que gostariam de saber mais. Focada nas exposições que envolviam o uso do corpo de Lemebel na época que ficou conhecido, em especial suas exibições de auto-pirotecnia (botar fogo no próprio corpo), o filme é um repertório de testemunhos e imagens de arquivo sem qualquer conexão lógica.

@@ -1,9 +1,11 @@
 ---
-date: "2020-04-07"
-link: "https://www.imdb.com/title/tt0071411"
-categories: [ "movies" ]
-title: "Dersu Uzala"
+categories:
+- movies
+date: '2020-04-07'
+link: https://www.imdb.com/title/tt0071411
+title: Dersu Uzala
 ---
+
 Você vai ouvir esse nome muitas vezes no filme de 75 de Kurosawa, falado em russo, e com cenários e situações realistas que compõem esta amizade entre um oficial russo e um caçador do povo Nanai, um dos habitantes da extrema Sibéria.
 
 Os Nanai possuem uma conexão muito forte com a natureza, e boa parte do filme é para entendermos as diferenças de visão de mundo entre Dersu e os militares que ajuda a guiar pelas inóspitas florestas da Sibéria. Essa história se passa entre 1902 e 1907, é biográfica, antes da Revolução Russa, e portanto no império czarista.

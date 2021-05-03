@@ -1,9 +1,12 @@
 ---
-date: "2019-05-15"
-link: "https://www.imdb.com/title/tt2488496"
-categories: [ "draft", "movies" ]
-title: "Star Wars: O Despertar da Força"
+categories:
+- draft
+- movies
+date: '2019-05-15'
+link: https://www.imdb.com/title/tt2488496
+title: 'Star Wars: O Despertar da Força'
 ---
+
 Este reboot praticamente da saga vem com direito a todas as cotas possíveis e imagináveis. Daisy Ridley (mulher: check) faz a jedi que consegue fazer tudo em um episódio, desbancando Luke Skywalker e o resto da galáxia. John Boyega (negro: check) é um ex-stormtropper que possui o tom cômico que a série precisa, mas está cheio de draminhas pessoais e faz questão de envolver todos neles. Oscar Isaac tem essa faceta meio gay (check) e que eleva a ambiguidade entre triângulo amoroso e incesto do filme original para outro nível.
 
 E por falar no original, a aventura é exatamente a mesma de Uma Nova Esperança e um pouquinho de O Império Contra Ataca. O diretor e idealizador desse formato, J. J. Abrams, é especialista em reboots. Olhem a maravilha que ele fez em Star Trek). E não podemos dizer que Missão: Impossível 3 não seja um reboot depois do 2 ter destruído esta bela franquia.

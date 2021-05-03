@@ -1,10 +1,14 @@
 ---
-date: "2019-12-12"
-link: "https://www.imdb.com/title/tt9081558"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Aqueles Que Ficaram"
+categories:
+- draft
+- movies
+date: '2019-12-12'
+link: https://www.imdb.com/title/tt9081558
+tags:
+- cinemaqui
+title: Aqueles Que Ficaram
 ---
+
 Aqueles Que Ficaram acaba sendo um bom filme mesmo abrindo tantos caminhos dramáticos e nunca se aprofundando em nenhum. Sua ambiguidade no relacionamento-chave entre um quarentão viúvo melancólico e uma adolescente carente e traumatizada vai sendo alimentada com vácuo em sua menos de uma hora e meia de duração, e a consequência é você se esquecer dessa história assim que pisar o primeiro pé para fora do cinema.
 
 Adaptado do livro de Zsuzsa F. Várkonyi por dois roteiristas, e você pode sentir a cisão temática entre duas mentes trabalhando no mesmo conteúdo, este é o filme húngaro escolhido para representar o país no Oscar do ano que vem, e por isso vem fazendo campanha pelo mundo. É sobre a vida dos judeus que sobreviveram ao Holocausto em um país pós-segunda guerra cercada pela Rússia comunista e seus agentes que usam a melhor hora da noite para fazer pessoas desaparecerem. Para a época a emoção exibida no filme se mantém tão fechada entre quatro paredes que é como se toda a catarse de ter perdido a família e quase ter perdido a vida silenciou aquele povo e restringiu ainda mais as regras sociais.

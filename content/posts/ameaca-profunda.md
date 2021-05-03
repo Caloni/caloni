@@ -1,10 +1,14 @@
 ---
-date: "2020-01-07"
-link: "https://www.imdb.com/title/tt5774060"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Ameaça Profunda"
+categories:
+- draft
+- movies
+date: '2020-01-07'
+link: https://www.imdb.com/title/tt5774060
+tags:
+- cinemaqui
+title: Ameaça Profunda
 ---
+
 Ameaça Profunda é um candidato a "Alien: O Oitavo Passageiro" embaixo da água, só que em uma versão alternativa onde todas as grandes sacadas do filme de Ridley Scott deram errado ou sequer foram cogitadas. Este é um exemplo de filme de terror que, diferente dos outros filmes da década deste gênero, não evoluiu. Irá passar despercebido nos cinemas e será visto ocasionalmente em canais por assinatura às três da manhã ou em serviços de streaming que vão acabar o recomendando no final de um outro filme porque pagaram barato e alguém precisa assistir para justificar a compra.
 
 Sua estrela é Kristen Stewart, que está idêntica à época em que a Demi Moore queria ser levada a sério e raspou a cabeça. Muitos se lembram hoje de Até o Limite da Honra por ser um filme simpático e temático, mas provavelmente ninguém vai se lembrar de Ameaça Profunda o ano que vem. E olha que Stewart tenta com muito esforço, mas sem muitas chances, trazer humanidade para uma protagonista em um filme que lembra mais o roteiro de um vídeo-game. Ela passa a impressão correta de uma pessoa fragilizada que transforma suas últimas forças em um movimento vital, mas este filme de sustos e gore não está se importando muito com isso.

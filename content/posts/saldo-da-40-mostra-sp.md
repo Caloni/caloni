@@ -1,8 +1,10 @@
 ---
-date: "2016-11-02"
-categories: [ "lists" ]
-title: "Saldo da 40a. MostraSP"
+categories:
+- lists
+date: '2016-11-02'
+title: Saldo da 40a. MostraSP
 ---
+
 Vinte e dois filmes. Essa foi a quantidade que consegui assistir nessa primeira mostra que me dedico nos dias de semana (uma bagatela de ter a própria empresa). Na maioria dos dias foram três sessões seguidas; em alguns dias tive que me ausentar, outros simplesmente entrei na sala errada! (e acabei vendo, por exemplo, o ótimo [O Contador]). No entanto, foi de longe a edição do festival em que mais vi filmes, e a primeira em que escrevi sobre todos eles.
 
 Ao todo foram dez dramas, seis documentários, uma animação... a maioria tentei ir na competição de Melhores Diretores, onde tive a oportunidade de ver debate com dois deles, estreantes; os outros fizeram parte da Mostra Brasil e da Perspectiva Internacional. Por fim, para não fazer desfeita, vi um dos filmes de Andrzej Wajda, o homenageado do ano, polonês que enxergou os horrores do autoritarismo através da igreja e dos sovietes. [Terra Prometida], o filme que eu vi, é a perfeita anti-propaganda nazista/comunista, já que exagera o tom na mesma medida que eles faziam quando queriam dizer que os capitalistas comiam criancinhas.

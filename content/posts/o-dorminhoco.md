@@ -1,9 +1,12 @@
 ---
-date: "2019-08-20"
-link: "https://www.imdb.com/title/tt0070707"
-categories: [ "draft", "movies" ]
-title: "O Dorminhoco"
+categories:
+- draft
+- movies
+date: '2019-08-20'
+link: https://www.imdb.com/title/tt0070707
+title: O Dorminhoco
 ---
+
 Essa é uma das comédias pastelão dirigida por Woody Allen, como Tudo o Que Você Sempre Quis Saber Sobre Sexo e Tinha Medo de Perguntar e Um Assaltante Bem Trapalhão. Particularmente não sou muito fã dessa fase inicial do diretor, e nesse caso não é diferente. É uma comédia escrachada com ideias soltas e um roteiro que apenas nos leva em direção às piadas. Mas como isso é Woody Allen ainda resta uma certa textura no final das contas.
 
 A história foi escrita junto com Marshall Brickman, que foi co-roteirista de Allen neste filme e, acreditem se quiser, em Noivo Neurótico, Noiva Nervosa e Manhattan. Uma curiosidade inútil: Marshall, apesar de ser americano e com pais americanos, nasceu no Rio de Janeiro. Curioso porque as pessoas geralmente vêm para o Brazil fazer os filhos, não dar à luz a eles.

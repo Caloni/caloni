@@ -1,10 +1,14 @@
 ---
-date: "2019-05-04"
-link: "https://www.imdb.com/title/tt6705860"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Vida De Diane"
+categories:
+- draft
+- movies
+date: '2019-05-04'
+link: https://www.imdb.com/title/tt6705860
+tags:
+- cinemaqui
+title: A Vida De Diane
 ---
+
 A Vida de Diane é um filme de sensações, mas só vamos percebendo isso conforme a rotina se torna cada vez menos relevante para o que é realmente importante. "Precioso", como a própria Diane diz em sua última fala.
 
 Mas o que é isso? O filme não responde porque não há resposta. E isso em um trabalho que fala sobre vício e fanatismo religioso como extremismos semelhantes chega a ser uma ofensa para algumas pessoas, religiosas ou não, já que a história está claramente nos empurrando para um abismo niilista que não pode ser chamado de repugnante porque isso seria supérfluo.

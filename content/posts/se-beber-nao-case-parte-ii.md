@@ -1,9 +1,12 @@
 ---
-date: "2016-04-17"
-link: "https://www.imdb.com/title/tt1411697"
-categories: [ "draft", "movies" ]
-title: "Se Beber, Não Case! Parte II"
+categories:
+- draft
+- movies
+date: '2016-04-17'
+link: https://www.imdb.com/title/tt1411697
+title: Se Beber, Não Case! Parte II
 ---
+
 Como seria o original se ele não tivesse graça. Não seria uma novidade se a sequência de Todd Phillips repetisse a fórmula exata da ótima comédia que é o filme original, que é o que este Parte II faz do início ao fim. A novidade é que, mesmo juntando o elenco original, o curioso é que quase nada funciona, quase nada é engraçado e muito pouco é imprevisível.
 
 Há situações pesadas o suficiente para tornar uma comédia um quase drama de um grupo de homens perdido em Bangkok, a capital da Tailândia, do sexo e da violência. Um macaco traficante é engraçadinho, mas não deixa de ser traficante. E um tiro de raspão em um país estrangeiro não deixa de ser um tiro.

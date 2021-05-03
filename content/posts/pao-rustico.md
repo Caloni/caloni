@@ -1,10 +1,14 @@
 ---
-date: "2020-12-23"
-link: "https://www.kingarthurbaking.com/recipes/rustic-sourdough-bread-recipe"
-categories: [ "draft", "food" ]
-tags: [ "recipes" ]
-title: "Pão Rústico"
+categories:
+- draft
+- food
+date: '2020-12-23'
+link: https://www.kingarthurbaking.com/recipes/rustic-sourdough-bread-recipe
+tags:
+- recipes
+title: Pão Rústico
 ---
+
 Faça esse pão se souber sovar bem e estiver com fermento natural sobrando ou afim de pão caseiro. Junte seu tanto de farinha com 37% (em peso) de fermento natural, alimentado, no topo, mais de 0.5% a 1% de fermento instantâneo (a quantidade depende do estado do natural; mais forte menos fermento instantâneo; menos forte mais), 2,3% de sal e 56% de água quentinha. Juntou tudo?
 
 Agora combine todos os ingredientes e sove até obter uma massa macia, que permita crescer em temperatura ambiente até dobrar de tamanho, cerca de 90 minutos. Depois a receita pede para gentilmente dividir a massa, mas aí depende da quantidade feita. O objetivo é moldar em formas ovais e colocar em uma forma untada, deixar crescer por 1h e colocar em forno pré-aquecido a 220 graus.

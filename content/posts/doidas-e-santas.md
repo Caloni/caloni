@@ -1,10 +1,14 @@
 ---
-date: "2017-08-17"
-link: "https://www.imdb.com/title/tt5221004"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Doidas e Santas"
+categories:
+- draft
+- movies
+date: '2017-08-17'
+link: https://www.imdb.com/title/tt5221004
+tags:
+- cinemaqui
+title: Doidas e Santas
 ---
+
 Doidas e Santas é um filme brega, bem brega, que usa o caminho do convencional e do preguiçoso, dando mais uma vez a entender que novelas em formato de filme soam cada vez mais antiquadas. E nesse caso é só olhar para os créditos iniciais e finais, com uma trilha sonora da programação televisiva da madrugada (ou de um bar decadente) e os letreiros em tons azuis e bordô que se torna evidente que a sala de cinema se transformou em uma máquina do tempo, que nos joga para os anos 80. Os viajantes perdem a memória após a sessão.
 
 Ele conta a história de Beatriz (Maria Paula), uma terapeuta de casais e escritora de sucesso de livros de auto-ajuda que dão dicas (ou regras) de como ter felicidade em um relacionamento a dois monogâmico tradicional classe média alta. Aparentemente é algo bem difícil, como vemos pelos testemunhos dos casais que se consultam com Beatriz, mas principalmente pela história da própria Beatriz, que vai perdendo o marido e a filha conforme se dedica por inteiro à suas duas profissões, gerando o poderoso clichê da vendedora de ideias que ela mesma não consegue colocar em prática em sua vida.

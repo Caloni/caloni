@@ -1,8 +1,12 @@
 ---
-date: "2007-10-12"
-categories: [ "ccpp", "books", "home" ]
-title: "A Linguagem de Programação C: O Livro"
+categories:
+- ccpp
+- books
+- home
+date: '2007-10-12'
+title: 'A Linguagem de Programação C: O Livro'
 ---
+
 O clássico de Ritchie e Kernighan, criadores da linguagem C, não foi meu primeiro livro de programação. E nem deveria ser. Não o recomendo para iniciantes, pois é necessário possuir algum conhecimento e prática para realmente aproveitar os conceitos desse livro.
 
 Então, o que ler antes disso? Existem tantos livros bons para iniciantes (e tantos livros péssimos). Eu comecei com C Completo e Total, de Herbert Schildt. Não me arrependi. O autor vai descrevendo C para quem já tentou fazer algumas coisas, já programou outras e está afim de tirar as principais dúvidas sobre essa linguagem que tantos abominam por ser difícil, e tantos idolatram por ser poderosa. As práticas do livro já são um bom início para quem quer pensar, entender e programar.

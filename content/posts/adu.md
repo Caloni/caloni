@@ -1,10 +1,13 @@
 ---
-date: "2020-09-26"
-link: "https://www.imdb.com/title/tt9616700"
-categories: [ "movies", ]
-tags: [ "cinemaqui"  ]
-title: "Adú"
+categories:
+- movies
+date: '2020-09-26'
+link: https://www.imdb.com/title/tt9616700
+tags:
+- cinemaqui
+title: Adú
 ---
+
 Adú mistura temas totalmente não-relacionados e ainda espera que o espectador imagine estar vendo um novo Babel, 21 Gramas ou Traffic, onde o drama dos personagens se cruzam e no final vira aquela mensagem de "estamos todos conectados". Infelizmente o máximo que ele consegue é nos fazer ver como o roteiro é mal feito.
 
 A história gira em torno de personagens que irão se encontrar direta ou indiretamente com a figura de Adú, uma criança de uma pequena vila em um pequeno país na África que começa sua jornada de refugiado precoce quando sua família vira vítima de uma máfia local caçadora de elefantes. Ele e a irmã, ambos crianças, perdem a bicicleta próximo do local de abate de um desses elefantes e automaticamente já sabem que os homens maus veem matar sua mãe. Mas eles já têm um plano de fuga. Que família preparada.

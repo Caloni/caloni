@@ -1,9 +1,11 @@
 ---
-date: "2011-07-08"
-link: "https://www.imdb.com/title/tt0150980"
-categories: [ "movies" ]
-title: "The Housemaid"
+categories:
+- movies
+date: '2011-07-08'
+link: https://www.imdb.com/title/tt0150980
+title: The Housemaid
 ---
+
 O longa possui algumas reviravoltas que podem soar esquisito à cultura ocidental, mas a base do drama, que são os acontecimentos macabros rodeando a honrada família do professor de piano, criam um clima, se não de tensão, definitivamente macabro e sexy.
 
 Existe na literatura e no folclore em geral muito sobre o mito da viúva negra, por analogia ao comportamento reprodutivo dessa espécie de aranha. Cada um interpreta de uma forma. A forma visceral mostrada aqui por Ki-young Kim espanta pelo erotismo crescente, mesmo que não existam muitas cenas picantes. O que vemos, na verdade, é um flerte muito bem construído entre vida e morte, entre ascenção e decadência (mais decadência).

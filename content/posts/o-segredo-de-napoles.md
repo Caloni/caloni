@@ -1,10 +1,14 @@
 ---
-date: "2018-10-23"
-link: "https://www.imdb.com/title/tt6892206"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Segredo de Nápoles"
+categories:
+- draft
+- movies
+date: '2018-10-23'
+link: https://www.imdb.com/title/tt6892206
+tags:
+- cinemaqui
+title: O Segredo de Nápoles
 ---
+
 O Segredo de Nápoles possui uma atmosfera de mistério junto de um drama pessoal que desafia nossa percepção da realidade, e seria ingênuo de nossa parte considerar verdade apenas o que pode ser provado. Afinal o que sabemos da vida está fadado a falhas e incertezas de nossa percepção.
 
 A história começa em uma escadaria, com a câmera girando em torno de si mesma. Em seguida, vemos uma mulher descarregando uma arma em um homem, que cai pelas escadas. Atrás surge uma "bambina". Ela viu tudo. Focamos em seu olho. O que é visto pelos olhos nos é como mais sagrado.

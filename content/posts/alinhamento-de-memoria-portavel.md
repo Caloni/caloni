@@ -1,8 +1,10 @@
 ---
-date: "2008-06-18"
-categories: [ "code" ]
-title: "Alinhamento de Memória Portável"
+categories:
+- code
+date: '2008-06-18'
+title: Alinhamento de Memória Portável
 ---
+
 Como vimos durante o seminário CCPP, o alinhamento de memória pode ser problemático durante momentos críticos, como migração de plataforma (16 para 32 bits) e de ambiente (compilador novo). A forma como a memória é alinhada influi diretamente em algoritmos de criptografia ou de rede, para citar dois exemplos bem comuns, fazendo com que o que funcionava antes não funcione mais sem mexer uma única linha de código. Eu já vi isso. E isso não é bom.
 
 A raiz do problema é que, dependendo do alinhamento usado pelo compilador, o sizeof de uma variável pode mudar de valor, mesmo que o tamanho útil não mude. Por exemplo, vamos supor que temos uma dada estrutura que iremos encriptar:

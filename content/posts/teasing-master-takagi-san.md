@@ -1,9 +1,13 @@
 ---
-date: "2019-12-26"
-link: "https://www.imdb.com/title/tt7808344"
-categories: [ "draft", "series", "animes" ]
-title: "Teasing Master: Takagi-san"
+categories:
+- draft
+- series
+- animes
+date: '2019-12-26'
+link: https://www.imdb.com/title/tt7808344
+title: 'Teasing Master: Takagi-san'
 ---
+
 É muito fácil não gostar dessa série por causa dela não explorar um tema que você goste e esteja na sua zona de conforto, e muito difícil deixar de gostar depois que você entende seu tema pueril. Ela é um respiro de ar livre de tensões fictícias, heróis e vilões, explosões e o salvamento do mundo, ou até como lidar com um poder inusitado. É apenas a história de um menino e uma menina pré-adolescentes. Eles sentam um ao lado do outro na escola e ela o provoca de maneira inteligente, como mulheres costumam agir, e ele encara as provocações como uma competição, como homens parecem encarar toda sua vida.
 
 A maturidade da série em explorar esta lúdica situação eternamente é uma das melhores coisas que surgiu na Netflix em anos. É simples, mas não simples demais; apenas o suficiente. A complexidade das relações homem/mulher emergem naturalmente, em traços tão significativos que não requer muitos diálogos, e nunca falas que expõem o que está realmente acontecendo, e por que existe essa tensão entre eles.

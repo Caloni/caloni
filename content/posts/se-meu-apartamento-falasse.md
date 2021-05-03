@@ -1,9 +1,12 @@
 ---
-date: "2016-07-19"
-link: "https://www.imdb.com/title/tt0053604"
-categories: [ "draft", "movies" ]
-title: "Se Meu Apartamento Falasse"
+categories:
+- draft
+- movies
+date: '2016-07-19'
+link: https://www.imdb.com/title/tt0053604
+title: Se Meu Apartamento Falasse
 ---
+
 Jack Lemmon consegue a proeza de fazer dois personagens absolutamente distintos em duas comédias de Billy Wilder um ano seguido do outro. A primeira, "Quanto Mais Quente Melhor", Lemmon faz com Tony Curtis dois foragidos da polícia que se vestem de mulher e participam de uma banda que contém ninguém menos que Marylin Monroe. Já em "Se Meu Apartamento Falasse", Lemmon mora em um apartamento que serve de pulada de muro para seus "amigos" no escritório, incluindo um deles que tenta levar uma loira parecida com Marylin Monroe. O detalhe é que a única semelhança é que ela é loira.
 
 Tanto em Quanto Mais Quente quanto em The Apartment, a energia do filme é inabalável, mesmo com uma comédia romântica de duas horas. Os diálogos, nível Wilder, são engraçados, de forma icônica, às vezes inteligentes demais para seus personagens, mas nunca deixam de ser originais. Wilder e Lemmon conseguem construir um bom samaritano que sofre quando as coisas saem do controle e agora é obrigado a ceder seu apartamento para seus colegas afim de conseguir uma promoção e não ser demitido. Quando a coisa bate no chefe de cima, é a ele que o personagem de Lemmon deve satisfação. O sexo no escritório nos anos 60 é tratado de uma maneira engraçada, mas crítica, não muito diferente do espírito da série "Mad Men", onde as secretárias e recepcionistas almejam a posição da esposa de seu chefe como quem tenta viver um sonho impossível. Exceto, talvez, pelo senso de humor característico do diretor/roteirista do espírito humano.

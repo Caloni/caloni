@@ -1,9 +1,12 @@
 ---
-date: "2019-12-17"
-link: "https://www.imdb.com/title/tt6133130"
-categories: [ "draft", "movies" ]
-title: "Professor Marston e as Mulheres-Maravilhas"
+categories:
+- draft
+- movies
+date: '2019-12-17'
+link: https://www.imdb.com/title/tt6133130
+title: Professor Marston e as Mulheres-Maravilhas
 ---
+
 Este é um filme que não entende muito bem seu papel no mundo. Ele quer afirmar que não há nada de errado em um pai e duas mães constituírem família, mas toda essa compreensão sobre formas diferentes de amar não serve para compreender que o resto do mundo não é mal, mas apenas vive em sua própria época, seguindo seus próprios valores.
 
 Essa afirmação que o incomum pode ser normal sabota a estrutura de "Professor Marston e as Mulheres-Maravilhas", que já no título centopeico denuncia seu tom novelesco, pronto pra TV. Começa no julgamento de um comitê de ética e segue com flashbacks por completo, quase sem ligação com o tempo atual. É preguiçoso em seu máximo. Não entendendo a mina de ouro que é a história que ela está sentada, a diretora e roteirista Angela Robinson adota uma postura tão blasê ao narrar os acontecimentos reais em torno do criador da Mulher-Maravilha que a única coisa que chama a atenção são os acontecimentos, e que chamariam a mesma atenção em um verbete da Wikipedia (e gastaria bem menos tempo do espectador).

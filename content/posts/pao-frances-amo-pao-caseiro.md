@@ -1,9 +1,12 @@
 ---
-date: "2021-04-17"
-link: "https://amopaocaseiro.com.br/receita/pao-frances/"
-categories: [ "draft", "food" ]
-title: "Pão Francês (Amo Pão Caseiro)"
+categories:
+- draft
+- food
+date: '2021-04-17'
+link: https://amopaocaseiro.com.br/receita/pao-frances/
+title: Pão Francês (Amo Pão Caseiro)
 ---
+
 Hoje vou tentar uma nova receita de pão francês que já havia visto antes. Nessa as proporções e o tempo mudam um pouco, e por não ter o tempo de geladeira durante a noite havia evitado. Mas dane-se, vou usar a geladeira de qualquer jeito na hora da fermentação longa.
 
 Bom, vamos lá. Pegue 4g de fermento instantâneo e junte com 30g de água e 30g de farinha para formar a esponja e deixe de meia-hora a uma hora formando a esponja (como sempre depende do tempo, mas a ideia é ficar fofinho com ar dentro). Você pode usar como sempre fermento natural (ativado, não da geladeira), o mesmo peso, mas multiplique por cerca de 4x os tempos de fermentação.

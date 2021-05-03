@@ -1,9 +1,12 @@
 ---
-date: "2019-05-04"
-link: "https://www.imdb.com/title/tt0408664"
-categories: [ "draft", "movies" ]
-title: "Ninguém Pode Saber"
+categories:
+- draft
+- movies
+date: '2019-05-04'
+link: https://www.imdb.com/title/tt0408664
+title: Ninguém Pode Saber
 ---
+
 Este é um filme baseado em fatos reais, mas eles se explicam tanto no começo sobre não ter certeza de como os fatos se desenrolaram que você poderia esperar um pouco mais de narrativa e dramatização em uma história com quatro crianças morando sozinhas em uma casa em Tóquio.
 
 Mas o filme se limita a nos contar algumas coisas sobre a mãe dessas crianças (que hoje é uma das juradas do Big Brother japonês Terrace House), os diferentes pais e sobre o risco deles se separarem se alguém souber que estão sozinhos. Há algo também sobre a mãe não querer que eles vão à escola.

@@ -1,9 +1,12 @@
 ---
-date: "2018-07-01"
-link: "https://www.imdb.com/title/tt0018876"
-categories: [ "draft", "movies" ]
-title: "A Mulher Do Fazendeiro"
+categories:
+- draft
+- movies
+date: '2018-07-01'
+link: https://www.imdb.com/title/tt0018876
+title: A Mulher Do Fazendeiro
 ---
+
 Hitchcock dirige aqui mais uma comédia de costumes sobre casamento, e extrai o drama do bom humor. Ele continua com suas trucagens já vistas em filmes anteriores, como movimentar a câmera em alguns momentos e aproximar-se dos personagens com cortes que abrem um plano mais fechado.
 
 Isso não quer dizer que o enquadramento anterior estava inadequado, pois não estava. Tome como exemplo a festa de casamento de sua filha, onde antes de vermos em detalhe a pessoa que irá fazer o brinde o diretor deixa a câmera na altura da mesa e de onde podemos ver todos erguendo seus copos/taças.

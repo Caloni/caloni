@@ -1,9 +1,12 @@
 ---
-date: "2018-06-25"
-link: "https://www.imdb.com/title/tt0388644"
-categories: [ "draft", "series" ]
-title: "Morte Na Escadaria (Staircase)"
+categories:
+- draft
+- series
+date: '2018-06-25'
+link: https://www.imdb.com/title/tt0388644
+title: Morte Na Escadaria (Staircase)
 ---
+
 Mais uma série que demonstra a incompetência e/ou a má fé do sistema americano de justiça. Ou podemos dizer a má fé de qualquer sistema de justiça estatal? Perdoem-me os religiosos, mas um sistema que paga juiz e advogado de acusação pela mesma folha não tem muitas chances de ser algo remotamente imparcial.
 
 O que me chamou mais a atenção foi que o juiz era negro e uma das promotoras era mulher e negra, julgando um branco rico pela séria acusação de homicídio. Mas você não vai ver ninguém sugerindo o suposto racismo no sistema judiciário americano, não é mesmo?

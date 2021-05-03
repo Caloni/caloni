@@ -1,9 +1,12 @@
 ---
-date: "2016-11-28"
-link: "https://www.imdb.com/title/tt0093409"
-categories: [ "draft", "movies" ]
-title: "Máquina Mortífera"
+categories:
+- draft
+- movies
+date: '2016-11-28'
+link: https://www.imdb.com/title/tt0093409
+title: Máquina Mortífera
 ---
+
 Mel Gibson e Danny Glover estreiam essa franquia que ficou conhecida como a segunda série de ação policial dos anos 80 mais lembrada. A primeira é Duro de Matar (John McTiernan, 1988). Aqui Richard Donner parece brincar um pouco entre o drama, a ação e a comédia, conseguindo isso através do roteiro de Shane Black, que faz o mesmo, e embora sem a perspicácia que foi desenvolvendo com os anos ("Beijos e Tiros") consegue criar uma das duplas de policiais mais famosa do Cinema.
 
 E isso com uma história quase original, quase clichê. O Sargento Murtaugh (Gloover) faz aniversário e recebe de presente um novo parceiro, o psicótico Martin Riggs (Gibson), que depois da morte da esposa pensa toda noite em se matar. Agora, do lado de Murtaugh, ele pode fazer isso em cada novo caso que os dois tiverem que resolver, seja um suicida se preparando para pular de um prédio (uma das cenas mais famosas do primeiro filme) ou uma atriz pornô se jogando do alto de um prédio.

@@ -1,10 +1,14 @@
 ---
-date: "2017-05-03"
-link: "https://www.imdb.com/title/tt4117326"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Rastro"
+categories:
+- draft
+- movies
+date: '2017-05-03'
+link: https://www.imdb.com/title/tt4117326
+tags:
+- cinemaqui
+title: O Rastro
 ---
+
 Não há melhor palco para um filme de terror do que as consequências da administração estatal. No caso de O Rastro, os resultados do sistema público de saúde são o palco perfeito para uma tortura psicológica que não tem saída fácil. Representada na figura de uma menina que lembra a personagem Samara do filme O Chamado, a dor que o herói deste filme sente é, em parte, a dor compartilhada por milhões de brasileiros quando olha o resultado de seu governo. E como os corredores escuros e sujos de um hospital interditado, é assim que o cidadão se sente ao observar os inúmeros traços na vida real de descaso e de corrupção de um sistema que já nasceu falido.
 
 Tendo como pano de fundo o fechamento de um hospital diante do estado de calamidade pública nos hospitais do estado do Rio de Janeiro, onde faltam funcionários e equipamentos para dar conta dos pacientes que se acumulam nos corredores à espera de tratamento, João (Rafael Cardoso), um médido em um cargo administrativo, é o responsável por organizar a evacuação dos pacientes. Durante o processo ele reavalia suas ações ao encontrar uma ex-colega de faculdade que também é médica e ficará junto dos outros funcionários sem função alguma, seu mentor (Jonas Bloch) que é o reitor do hospital e que tenta a todo custo evitar o fechamento, e, principalmente, a última pessoa erroneamente internada no hospital já condenado. Uma menina, Julia (Natália Maciel Guedes), que dá origem a um processo de remorso interno quando João constata com desespero que ela foi provavelmente esquecida e abandonada no hospital para morrer.

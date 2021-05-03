@@ -1,9 +1,11 @@
 ---
-date: "2010-11-01"
-link: "https://www.imdb.com/title/tt0381940"
-categories: [ "movies" ]
-title: "Cargo"
+categories:
+- movies
+date: '2010-11-01'
+link: https://www.imdb.com/title/tt0381940
+title: Cargo
 ---
+
 Se fosse resumir essa ficção-científica, diria que ela começa como Aliens - O Resgate e termina como Matrix. De fato, muitas características do longa nos lembra esses dois filmes. Porém, longe de se igualar em qualidade narrativa, este cai no lugar comum de passeios contemplativos pelo cenário com trilhas sonoras igualmente batidas.
 
 Pautado em um grande mistério envolvendo o destino de seus passageiros, o roteiro escrito a 8 mãos flerta perigosamente com seus segredos usando uma fotografia nitidamente surreal ao mostrar no início uma bela mulher passeando por um campo de trigo com uma trilha sonora feliz, representando exatamente o oposto do que vemos a seguir: uma fria e gigantesca nave no espaço vazio. Há um esmero acima da média com a direção de arte que se preocupa com detalhes como o desenho dos equipamentos utilizando kanjis orientais e denunciando a origem de sua fabricação, o que cria uma âncora com a realidade de uma China em evolução crescente.

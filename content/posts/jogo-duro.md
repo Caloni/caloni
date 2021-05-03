@@ -1,9 +1,11 @@
 ---
-date: "2020-05-04"
-link: "https://www.imdb.com/title/tt0140296"
-categories: [ "movies" ]
-title: "Jogo Duro"
+categories:
+- movies
+date: '2020-05-04'
+link: https://www.imdb.com/title/tt0140296
+title: Jogo Duro
 ---
+
 Antônio Fagundes está em todas as pornochanchadas. Está nessa daqui também, que peca por pouca sacanagem e muitas divagações sociais. Antes mesmo da Ancine já tínhamos que aguentar lenga-lenga pseudo-revolucionário no meio do tchaca-tchaca. Isso, sim, é uma sacanagem sem vergonha. Pior que isso só uma aula de história.
 
 Para produzir este filme só precisaram alugar uma casa abandonada classe-média nível ninguém-aguenta (tem uma cena com alguns deles, a dondoca fica presa em um banheiro aterrorizante). Fica do lado do Estádio do Pacaembu, zona nobre. O que quer dizer que é uma rua tranquila pra fazer filmagens.

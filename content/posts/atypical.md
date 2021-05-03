@@ -1,9 +1,12 @@
 ---
-date: "2017-08-21"
-link: "https://www.imdb.com/title/tt6315640"
-categories: [ "draft", "series" ]
-title: "Atypical"
+categories:
+- draft
+- series
+date: '2017-08-21'
+link: https://www.imdb.com/title/tt6315640
+title: Atypical
 ---
+
 Mais do mesmo com o algoritmo já batido da Netflix. Depois do "gênero" indie invadir Hollywood com suas famílias desajustadas, agora é a vez dos espertos computadores da gigante de streaming entregar uma família desajustada por série. Esta tem no pacote uma mulher traidora e um autista.
 
 Está havendo há um tempo um movimento de inclusão dos autistas, depois que perceberam que eles não são simples retardados (nossa, como a humanidade é genial). Na verdade, eles são apenas mais uma vertente singular de nossa espécie, com suas manias e trejeitos apenas atípicos. Quem entende que somos todos loucos releva o autismo como apenas mais uma variante. Quem acha que existe ordem no mundo prefere se remoer de culpa por existirem pessoas que não podem ter uma vida "normal".

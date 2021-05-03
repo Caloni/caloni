@@ -1,9 +1,12 @@
 ---
-date: "2018-10-31"
-link: "https://www.imdb.com/title/tt5189670"
-categories: [ "draft", "series" ]
-title: "Making a Murderer S02"
+categories:
+- draft
+- series
+date: '2018-10-31'
+link: https://www.imdb.com/title/tt5189670
+title: Making a Murderer S02
 ---
+
 "Terminando quando o "filme" atinge o tempo presente, Making a Murderer é um projeto praticamente ainda em andamento, pois demonstra que há ainda pontas soltas e, pior, algo de podre no ar." Esse foi meu último parágrafo sobre a primeira temporada de uma série que influencia a vida real. Sim, pois a segunda temporada é praticamente impulsionada pela influência documentário na vida de Steven Avery e familiares.
 
 E o resultado é que surge uma nova protagonista, a advogada Kathleen Zellner, famosa por absolver 17 condenados injustamente pela justiça americana. Zellner trabalha em modelo pro bono, o que quer dizer que seus esforços são milionários, mas estão à disposição para bater de frente com a justiça estatal. Boa sorte com isso.

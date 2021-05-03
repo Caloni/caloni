@@ -1,8 +1,11 @@
 ---
-date: "2017-05-28"
-categories: [ "draft", "reading" ]
-title: "Os fundamentos praxeológicos da Teoria Legal Libertária"
+categories:
+- draft
+- reading
+date: '2017-05-28'
+title: Os fundamentos praxeológicos da Teoria Legal Libertária
 ---
+
 Em essência, a ética libertária não ambiciona buscar o que é certo, mas em determinar o que com certeza não pode ser justificado. Este meu artigo cita alguns pontos vitais do artigo de Lacombi Lauss.
 
 Este raciocínio não deduz um "dever ser" de um "ser"; ele apenas enfatiza a autocontradição ao se negar uma proposição de dever ser o homesteanding ou a autopropriedade. 

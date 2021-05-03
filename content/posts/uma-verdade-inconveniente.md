@@ -1,9 +1,12 @@
 ---
-date: "2015-12-06"
-link: "https://www.imdb.com/title/tt0497116"
-categories: [ "draft", "movies" ]
-title: "Uma Verdade Inconveniente"
+categories:
+- draft
+- movies
+date: '2015-12-06'
+link: https://www.imdb.com/title/tt0497116
+title: Uma Verdade Inconveniente
 ---
+
 Dez anos após esse documentário de Al Gore, temos à disposição um material muito mais rico na série Cosmos. Porém, a diferença é que este filme é também uma espécie de discurso político disfarçado por um político que teve colegas cientistas em sua formação. Qualquer um consegue obter insights sobre a natureza em seu passado, e Al Gore teve a genialidade de inserir momentos sentimentais por todo seu discurso anti-aquecimento.
 
 Porém, a força de vontade de Gore quase é contagiante, e não fosse o apelo extremamente emocional, suas palavras tocariam mais ainda nas pessoas. Cansado de ir em inúmeras palestras em volta do mundo alertando as pessoas, decide fazer este documentário e atingir o maior número de pessoas possível. Deu certo. Ganhador do Oscar, é um dos documentários mais conhecidos atualmente.

@@ -1,8 +1,10 @@
 ---
-date: "2018-03-05"
-categories: [ "draft" ]
-title: "Apostas Oscar 2018 (com resultados)"
+categories:
+- draft
+date: '2018-03-05'
+title: Apostas Oscar 2018 (com resultados)
 ---
+
 Resultado das apostas. Inspirado pelo meu amigo, vamos lá com alguns chutes de quem não sabe nada sobre Oscar (apenas que é um concurso de beleza capitalista):
 
 Roteiro original:

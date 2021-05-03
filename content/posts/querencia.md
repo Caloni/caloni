@@ -1,10 +1,14 @@
 ---
-date: "2019-10-21"
-link: "https://www.imdb.com/title/tt9657946"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Querência"
+categories:
+- draft
+- movies
+date: '2019-10-21'
+link: https://www.imdb.com/title/tt9657946
+tags:
+- cinemaqui
+title: Querência
 ---
+
 Querência, quem diria, é uma cidade de verdade, localizada no estado de Mato Grosso. Mas o que acaba não sendo nem de verdade, nem de mentira, é este filme escrito e dirigido por Helvécio Marins, que cria uma ficção com personagens da vida real, e demonstra uma das péssimas formas de unir duas formas de filme em um resultado insosso e sem alma.
 
 Acompanhamos o drama de Marcelo Di Souza, um gerente de uma fazenda de gado que é assaltada. Cem cabeças de gado são levadas, o maior roubo de gado já registrado. É um caminho natural Marcelo se mudar, preocupado com sua segurança e desestimulado pelo acontecimento, e o filme enquanto acompanha essa mudança vai nos apresentando o ambiente do Centro-Oeste brasileiro e os outros personagens da vida real. No meio do caminho ele faz algumas críticas aleatórias sobre política que agrada algumas pessoas e este filme acaba ganhando prêmios (inclusive lá fora).

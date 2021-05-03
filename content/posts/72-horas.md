@@ -1,9 +1,11 @@
 ---
-date: "2011-01-14"
-link: "https://www.imdb.com/title/tt1458175"
-categories: [ "movies" ]
-title: "72 horas"
+categories:
+- movies
+date: '2011-01-14'
+link: https://www.imdb.com/title/tt1458175
+title: 72 horas
 ---
+
 Um drama contado em um ritmo adequado, que consegue avançar para um filme de ação em seu terceiro ato de forma surpreendentemente competente, visto que o filme consegue uma identificação com o drama de seus personagens, mesmo que perifericamente, e extrai disso uma emoção maior da perseguição final, pois não estamos assistindo mais um filme de perseguição qualquer.
 
 O uso de câmeras subjetivas, tremidas e visões a la Ultimato Bourne (aéreas dos helicópteros, sons de sirene, trilha crescente) é igualmente competente, especialmente a trilha, que consegue mesclar momentos dramáticos com ação onde quase não percebemos a mudança.

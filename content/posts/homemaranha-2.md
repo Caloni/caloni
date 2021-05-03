@@ -1,9 +1,12 @@
 ---
-date: "2016-07-07"
-link: "https://www.imdb.com/title/tt0316654"
-categories: [ "draft", "movies" ]
-title: "Homem-Aranha 2"
+categories:
+- draft
+- movies
+date: '2016-07-07'
+link: https://www.imdb.com/title/tt0316654
+title: Homem-Aranha 2
 ---
+
 Doze anos e toneladas de super-heróis depois, Homem-Aranha 2 continua sendo um dos melhores filmes do sub-gênero já feito, digno de ocupar o pódio junto de pequenas obras-primas como "Superman: O Filme" e "Dark Knight".
 
 O que o torna tão especial é que ele abraça o seu universo de tal maneira que fica difícil de soltar. O primeiro filme com o nerd mutante, também dirigido por Sam Raimi, continha esses mesmos elementos, mas ainda estava tímido demais. Nesse novo trabalho, não só os efeitos ficaram estupidamente melhores, por se adequarem melhor à selva urbana de Nova York, como estão dentro de um filme com peso dramático o suficiente para, mesmo sem ser realista, conseguir abordar os sentimentos dos personagens que habitam a tela.

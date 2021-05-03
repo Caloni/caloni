@@ -1,10 +1,14 @@
 ---
-date: "2018-03-01"
-link: "https://www.imdb.com/title/tt4157844"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Torquato Neto - Todas as horas do fim"
+categories:
+- draft
+- movies
+date: '2018-03-01'
+link: https://www.imdb.com/title/tt4157844
+tags:
+- cinemaqui
+title: Torquato Neto - Todas as horas do fim
 ---
+
 Torquato Neto, a ver pelo seu próprio documentário -- Torquato Neto - Todas as horas do fim -- foi um rapaz sem muita lógica. Ele é um poeta que sente, e sai a escrever, falar, cantar. Um dos influenciadores do movimento contracultural da Tropicália, trabalhou com grandes nomes hoje da música brasileira como Gilberto Gil, Gal Costa e Edu Lobo. Se suicidou aos 28 anos após passar uma noite inteira com amigos, em uma verdadeira incógnita. Como deve ser. Mas esse filme, violando as leis caóticas da mente do compositor, tenta encontrar uma razão para seu trágico fim. E isso é imperdoável.
 
 Dirigido e escrito pela dupla Eduardo Ades e Marcus Fernando, o trabalho de desencavar um verdadeiro arcabouço multimídia da época é digno de aplausos. Eles resgataram uma parte da arte brasileira que estava esquecida e jogada em um canto empoeirado e com isso transformaram este filme naquelas obras necessárias. Porém, ser necessário não o torna indispensável, e navegando pela burocrática cronologia do artista encontramos uma repetição de velhos cacoetes de cineastas empolgados demais com o conteúdo e se esquecendo de polir a forma.

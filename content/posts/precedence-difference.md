@@ -1,8 +1,12 @@
 ---
-date: "2007-07-10"
+categories:
+- ccpp
+- code
+- english
+date: '2007-07-10'
 title: Precedence difference
-categories: [ "ccpp", "code", "english" ]
 ---
+
 Once upon a time my old friend Kabloc wrote this little and "harmless" function in order to print the multiplication table:
 
     #include <stdio.h>

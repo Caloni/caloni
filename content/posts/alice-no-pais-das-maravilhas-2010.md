@@ -1,9 +1,11 @@
 ---
-date: "2010-04-23"
-link: "https://www.imdb.com/title/tt1014759"
-categories: [ "movies" ]
-title: "Alice no País das Maravilhas"
+categories:
+- movies
+date: '2010-04-23'
+link: https://www.imdb.com/title/tt1014759
+title: Alice no País das Maravilhas
 ---
+
 Os experimentos 3D do início da década mostraram pouquíssimas decisões acertadas (Pina, A Invenção de Hugo Cabret), mas muitos caminhos, se não errados, bem tortuosos. Podemos encontrar decisões completamente equivocadas a respeito do uso da tecnologia até mesmo no irretocável Avatar de James Cameron.
 
 Dessa forma, o que dizer do estilizado Tim Burton e seu remake live-action do livro de Lewis Carroll? Seguindo o mesmo entendimento de Cameron a respeito da câmera, o diretor continua usando e abusando do foco, mesmo em um "filme 3D" (estamos ignorando as cópias 2D, já que a produção foi filmada e pensada em 3D). Apenas um exemplo pontual: na cena em que Alice chega na festa de compromisso, vemos as pessoas dançando ao fundo desfocadas, enquanto ela conversa com a mãe em foco, uma situação desnecessária em 3D, pois estamos vendo o ambiente com profundidade.

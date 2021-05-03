@@ -1,8 +1,10 @@
 ---
-date: "2008-03-04"
+categories:
+- code
+date: '2008-03-04'
 title: Iteradores não são constantes
-categories: [ "code" ]
 ---
+
 Um bug que já encontrei uma dúzia de vezes entre os novatos da STL é a utilização de iteradores como se eles não fossem mudar nunca. Porém, a verdade é bem diferente: iteradores se tornam inválidos sim, e com muito mais freqüência do que normalmente se imagina. Entre as situações em que iteradores podem mudar estão as seguintes:
 
  - Inserção de novo elemento no contêiner

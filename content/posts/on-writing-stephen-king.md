@@ -1,8 +1,11 @@
 ---
-date: "2019-08-16"
-categories: [ "draft", "books" ]
-title: "On Writing, por Stephen King"
+categories:
+- draft
+- books
+date: '2019-08-16'
+title: On Writing, por Stephen King
 ---
+
 Eu lembro que em algum momento entre ler On Writing Well, um livro de William Zinsser sobre melhorar a escrita, e estar escrevendo meus reviews diários sobre filmes comecei a ficar bem insatisfeito com a qualidade dos meus trabalhos. Isso não é novidade para mim, o eterno insatisfeito, e não me surpreendi quando me vi novamente buscando literatura para me aprimorar. Afinal de contas, quando não se está praticando é a hora de afiar seus instrumentos, e esse momento para um escritor não é quando se está escrevendo, mas lendo.
 
 Com isso me deparei com o que acreditava ser inevitável cedo ou tarde: "On Writing", de Stephen King. Ele já era um livro bem citado nas rodinhas do Hacker News para ser ignorado, mesmo que por um autor de não-ficção como eu. Como a insatisfação com a qualidade dos meus textos aumentou e eu estava sem nada mais importante para ler, este foi o primeiro livro que leio na vida desse autor, uma declaração provavelmente condenável se lida por algum fã.

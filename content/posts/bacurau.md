@@ -1,9 +1,12 @@
 ---
-date: "2019-10-09"
-link: "https://www.imdb.com/title/tt2762506"
-categories: [ "draft", "movies" ]
-title: "Bacurau"
+categories:
+- draft
+- movies
+date: '2019-10-09'
+link: https://www.imdb.com/title/tt2762506
+title: Bacurau
 ---
+
 Terceiro filme de Kleber Mendonça Filho, que começou com o ótimo O Som Ao Redor seguido do excelente Aquarius, Bacurau demonstra que o diretor não tem o mínimo jeito para lidar com personagens humanos nem com filmes tensos de ação. Todas suas reviravoltas são previsíveis e não sentimos por nenhuma das mortes. Se trata de uma análise de natureza morta, a intelectualização da condição humana sob o prisma pseudo-humanista de um historiador pensando em Brasil sem olhar diretamente para os brasileiros.
 
 As pessoas do filme, devidamente divididas pelo DNA, feição e cultura, existem nos livros de história e nos estereótipos de uma esquerda à beira de um colapso nervoso. Não os culpo, dados os eventos recentes é compreensível (e risível) tamanha preocupação, mas considerando que nem um ano da derrota nas urnas se passou e sua arte já vocifera discursos de ódio mais abjetos que os lançados pelo inimigo, confesso que estou é esperando por mais.

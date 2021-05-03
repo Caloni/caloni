@@ -1,9 +1,12 @@
 ---
-date: "2019-06-23"
-link: "https://www.imdb.com/title/tt0104036"
-categories: [ "draft", "movies" ]
-title: "Traídos pelo Desejo"
+categories:
+- draft
+- movies
+date: '2019-06-23'
+link: https://www.imdb.com/title/tt0104036
+title: Traídos pelo Desejo
 ---
+
 Vou ser sincero com você, caro leitor. E explícito. Se aguente, são minhas memórias. Quando eu assisti esse filme pela Videoteca da Folha, uma coleção de Fitas VHS lançado aos domingos, eu me lembro claramente de um pintão surgindo na pequena tela de tubo. Não porque foi traumático, nem porque foi excitante, mas principalmente porque este é o momento em que para o personagem de Stephen Rea o futuro perfeito que ele havia imaginado simplesmente virou de cabeça pra baixo.
 
 Mas não se preocupe: este é um filme que fala sobre muitas outras coisas, não apenas do pintão. Há o conflito entre o grupo terrorista IRA e o exército britânico. Há uma insuspeita amizade entre um sequestrador e seu refém. Há um amor impossível de uma forma que transcende todos os clichês de Hollywood.

@@ -1,9 +1,11 @@
 ---
-date: "2010-11-26"
-link: "https://www.imdb.com/title/tt1424432"
-categories: [ "movies" ]
-title: "Senna"
+categories:
+- movies
+date: '2010-11-26'
+link: https://www.imdb.com/title/tt1424432
+title: Senna
 ---
+
 De que são feitos os heróis? Como uma pessoa cresce internamente e transparece externamente, para o resto do mundo, como alguém que faz a diferença; tanto profissional, quanto moralmente?
 
 Uma trajetória de sucesso de um dos ícones de final de século no esporte nacional e mundial, o que vemos no início do documentário é um ser humano em seu estado latente, habilidoso no que sabe fazer (correr), mas ainda inapto para sobreviver nas agruras do jogo de dinheiro e poder que ocorre na nata da indústria automobilística: a Fórmula 1, campeonato mundial máximo na carreira de um piloto de corridas.

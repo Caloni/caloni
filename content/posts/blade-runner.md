@@ -1,9 +1,12 @@
 ---
-date: "2019-06-19"
-link: "https://www.imdb.com/title/tt0083658"
-categories: [ "draft", "movies" ]
-title: "Blade Runner: O Caçador de Androides"
+categories:
+- draft
+- movies
+date: '2019-06-19'
+link: https://www.imdb.com/title/tt0083658
+title: 'Blade Runner: O Caçador de Androides'
 ---
+
 Blade Runner obviamente não é sobre o Caçador de Andróides, nem se você considerar o possível plot twist das entrelinhas, mas sobre a existência desses seres idênticos aos humanos, mas com as emoções ainda a serem criadas. Também é sobre como um único filme tem tantas versões, onde basicamente apenas uma cena envolvendo um unicórnio faz toda a diferença.
 
 Mas voltemos aos replicantes. Essa versão de humanos criados em laboratório é um reflexo do próprio universo idealizado por Ridley Scott inspirado no conto de Phikip K. Dick sobre as memórias de um ser artificial. O universo em si é uma Terra super populada, culturalmente globalizada (com as culturas orientais dominando) e tecnologicamente evoluída, mas carente de empatia. Esta sacada é sensacional porque criou o ambiente perfeito para um neo noir, ou um noir sci-fi, que obtêm os elementos do gênero de outra fonte: do inescapável niilismo em pensar sobre nossa curta passagem por essa vida e a perda completa das experiências enquanto vivos.

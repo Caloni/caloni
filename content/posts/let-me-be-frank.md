@@ -1,9 +1,11 @@
 ---
-date: "2019-02-02"
-link: "https://www.imdb.com/title/tt9495238"
-categories: [ "draft" ]
-title: "Let Me Be Frank"
+categories:
+- draft
+date: '2019-02-02'
+link: https://www.imdb.com/title/tt9495238
+title: Let Me Be Frank
 ---
+
 Fato curioso: este curta produzido e protagonizado por Kevin Spacey soma três minutos de duração e mais frases brilhantes do que toda a última temporada de House of Cards, com duração aproximada de 400 minutos, protagonizada por Claire Underwood. Esta temporada da série foi a única em que a protagonista era uma mulher. Coincidência?
 
 Se você se ofendeu com o parágrafo inicial deste texto, que destaca o gênero de uma personagem como algo determinante na qualidade de um roteiro, percebe como é fácil brincar com a realidade. Basta colocar em relevo qualquer dado irrelevante e torná-lo de repente o detalhe mais importante de toda uma trama. Foi o que aconteceu recentemente com Kevin Spacey, retirado da produção e elenco da série abruptamente após ser colocado sob os holofotes um escândalo de assédio do passado e aos poucos surgir críticas do próprio elenco de House of Cards e da equipe sobre a forma do ator de se relacionar durante a produção.
@@ -61,4 +63,3 @@ Segue o roteiro completo com as instigantes frases. O vídeo você acha rapidame
 > 
 > Conclusions can be so deceiving. Miss me?
 >
-

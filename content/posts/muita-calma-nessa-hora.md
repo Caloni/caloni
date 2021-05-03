@@ -1,9 +1,11 @@
 ---
-date: "2010-11-20"
-link: "https://www.imdb.com/title/tt1781866"
-categories: [ "movies" ]
-title: "Muita Calma Nessa Hora"
+categories:
+- movies
+date: '2010-11-20'
+link: https://www.imdb.com/title/tt1781866
+title: Muita Calma Nessa Hora
 ---
+
 Mari é constantemente assediada por seu chefe na agência publicitária onde trabalha; cansada de ser confundida com uma mulher fácil, decide não ficar mais com homem nenhum. Tita é a mulher certinha, virgem de um homem só (o marido), mas que encontra seu noivo com outra em seu apartamento e, desacreditada, decide esquecer esse negócio de monogamia e partir pra tirar o atraso. Aninha, uma eterna indecisa, já trancou sete vezes a faculdade por nunca ter certeza do que quer fazer; sim, ela concorda com ambas as amigas; ao mesmo tempo.
 
 Prestes a contar a aventura das três em uma lua-de-mel bem diferentes na praia de Búzios, no Rio de Janeiro, a história possui uma introdução rápida como nas comédias de televisão (como a cena da traição), empregando um ritmo eloquente com a juventude das personagens e usando de algumas artimanhas para desde o início distinguir a personalidade de cada uma de suas protagonistas: trilha sonora diferenciada e legendas a la Tarantino.

@@ -1,9 +1,12 @@
 ---
-date: "2020-06-21"
-link: "https://en.cppreference.com/w/cpp/language/coroutines"
-categories: [ "code", "ccpp" ]
-title: "C++ Co Routines"
+categories:
+- code
+- ccpp
+date: '2020-06-21'
+link: https://en.cppreference.com/w/cpp/language/coroutines
+title: C++ Co Routines
 ---
+
 Entre os gêneros mais famosos do cinema e da programação está o terror, esse estado mental que se caracteriza pelo medo ou pela aversão a uma situação que envolve a perda de controle. Nesse quesito se encaixam as novas corrotinas que serão adotadas pelo padrão C++.
 
 No último Caloni Bode Cast Live Privado, aqueles que não estão publicados no YouTube, conversei com um amigo por mais uma vez (já perdi a conta quantas foram) sobre a famigerada implementação, mas acho que dessa vez detectei melhor o que torna essa nova biblioteca de C++ tão repugnante para os amantes de boas soluções de engenharia e do padrão da linguagem.

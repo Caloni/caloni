@@ -1,6 +1,8 @@
 ---
-date: "2015-10-21"
-categories: [ "food" ]
-title: "Tipuana"
+categories:
+- food
+date: '2015-10-21'
+title: Tipuana
 ---
+
 Parece equilibrado, mas igualmente ácido; é a desvantagem de cafés não-balanceados e com firulas. Se colocar pó na medida certa, mais equilibrado que o outro de Tiradentes.

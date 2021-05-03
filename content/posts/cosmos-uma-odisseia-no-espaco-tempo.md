@@ -1,9 +1,12 @@
 ---
-date: "2014-09-25"
-link: "https://www.imdb.com/title/tt2395695"
-categories: [ "draft", "series" ]
-title: "Cosmos: Uma Odisséia do Espaço-Tempo"
+categories:
+- draft
+- series
+date: '2014-09-25'
+link: https://www.imdb.com/title/tt2395695
+title: 'Cosmos: Uma Odisséia do Espaço-Tempo'
 ---
+
 Esse é um remake atualizado da série homônima dos anos 80 apresentada por Carl Sagan, um astrônomo famoso na época (até hoje, na verdade) e que ficou famoso para mim quando assisti (e li) o clássico absoluto de ficção científica Contato. Essa versão do programa, com visual e conteúdo atualizados, possui como apresentador também um "pop-star" da ciência: Neil deGrasse Tyson, um atrofísico renomado que curiosamente era fã e chegou a visitar Sagan ainda bem jovem. Sagan indiretamente o influenciou a se tornar o cientista que ele é hoje. Descobrimos isso no primeiro episódio em uma sequência particularmente tocante, pois também descobrimos como eram altos os valores humanos do atrônomo e como ser bom com as pessoas pode mudar uma vida.
 
 E é sobre isso basicamente o que a série fala: o que é ser um cientista e como funciona a ciência na cabeça dos homens e mulheres que anseiam a verdade. A cada episódio somos transportados através da Nave da Imaginação -- que, assim como a cabine do Dr. Who, vai para qualquer lugar do espaço-tempo. Para onde ela vai? Explorar a natureza, o mundo onde vivemos, os mundos possíveis "lá fora", a formação do universo, das estrelas, do tempo e espaço e de nós mesmos. Explica como funcionam regras básicas de física até teorias complexas que mudaram nossa perceção da realidade radicalmente, como a gravidade de Isaac Newton, a relatividade de Albert Einstein e a evolução de Charles Darwin.

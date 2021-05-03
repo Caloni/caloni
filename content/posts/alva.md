@@ -1,10 +1,14 @@
 ---
-date: "2019-10-22"
-link: "https://www.imdb.com/title/tt10153664"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Alva"
+categories:
+- draft
+- movies
+date: '2019-10-22'
+link: https://www.imdb.com/title/tt10153664
+tags:
+- cinemaqui
+title: Alva
 ---
+
 Alva nos captura desde o começo como um documentário sobre a vida de uma pessoa pacata que parece inofensiva, mas vai no decorrer de sua duração nos mostrando o ponto de vista de alguém que vive dentro de cada um de nós, ainda que não saibamos disso. E melhor prova disso é nós torcermos por este personagem, inconscientemente, apenas porque começamos o filme simpatizando com sua rotina.
 
 O longa de Ico Costa usa a linguagem da câmera na mão e cenários simples para nos enganar como patinhos. Apresentando o ator Henrique Bonacho completamente possuído (na falta de uma palavra melhor, tamanho o talento de Bonacho) pela figura de uma pessoa do campo simples e humilde, que mora sozinha e fala pouco, a história verdadeiramente começa quando há essa quebra da crença em um documentário quando este protagonista faz algo impensável se ele fosse uma pessoa real.

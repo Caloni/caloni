@@ -1,9 +1,12 @@
 ---
-date: "2019-06-22"
-link: "https://www.imdb.com/title/tt0162346"
-categories: [ "draft", "movies" ]
-title: "Ghost World: Aprendendo a Viver"
+categories:
+- draft
+- movies
+date: '2019-06-22'
+link: https://www.imdb.com/title/tt0162346
+title: 'Ghost World: Aprendendo a Viver'
 ---
+
 Duas garotas se formam no colégio. Uma encara a realidade, arruma um emprego e vai morar sozinha. A outra é a de artes. É aí que o filme começa.
 
 O mundo concebido para Ghost World funciona com muito pouco. São duas garotas zanzando por aí e caçoando dos outros. A de artes desenha o momento em seu diário. Ela é a menos atraente, e por isso a outra é interpretada por Scarlett Johansson, e possui problemas de auto-estima que disfarça com críticas do mundo onde vive.

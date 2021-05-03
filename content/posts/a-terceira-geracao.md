@@ -1,9 +1,12 @@
 ---
-date: "2021-03-27"
-link: "https://www.imdb.com/title/tt0079083"
-categories: [ "draft", "movies" ]
-title: "A Terceira Geração"
+categories:
+- draft
+- movies
+date: '2021-03-27'
+link: https://www.imdb.com/title/tt0079083
+title: A Terceira Geração
 ---
+
 Um Fassbinder em sua fase hermética, quando ele se distanciou aínda mais do espectador. O diretor alemão era gay assumido e muitos de seus filmes deixam isso transparecer ao imaginarmos que se trata de um Almodóvar alemão. Este filme é um deles, que mostra terroristas de extrema esquerda na época de um atentado em Berlim. Nenhum dos personagens lembra alguém de verdade, pois isso seria impossível.
 
 A Terceira Geração é tenso porque sabemos ser sobre terrorismo e porque existe uma apresentação de marketing no começo com vários dizeres em como essa vai ser uma história chocante. Isso e também porque as pessoas deixam a TV ligada a todo momento e o som pode ser ouvido todo o filme. É um tenso que se torna irritante que se torna enfadonho.

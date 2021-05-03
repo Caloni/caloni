@@ -1,9 +1,11 @@
 ---
-date: "2013-02-01"
-link: "https://www.imdb.com/title/tt0064757"
-categories: [ "movies" ]
-title: "007 - A Serviço Secreto de Sua Majestade"
+categories:
+- movies
+date: '2013-02-01'
+link: https://www.imdb.com/title/tt0064757
+title: 007 - A Serviço Secreto de Sua Majestade
 ---
+
 Mais intenso, talvez pela incerteza na troca de Sean Connery por George Lazenby, e já entregando uma trama que mexe na vida pessoal do agente secreto como nunca antes, A Serviço Secreto de Sua Majestade é também um excelente filme de ação, tanto para sua época quanto para agora.
 
 O diretor Peter Hunt ([007 Contra Goldfinger]) resolveu com cortes rápidos, muitas vezes com a câmera em movimento frenético, o problema dos fundos falsos e toda a trucagem nas cenas envolvendo carros ou mesmo descendo os Alpes de esqui. O efeito foi um filme dinâmico e que envelheceu melhor do que seus antecessores como filme de ação. A trilha sonora, sempre tão importante, aqui recebe tratamento VIP. Além do excelente instrumental-tema feito para o filme e que se encaixa perfeitamente no novo estilo James Bond, os temas anteriores são reaproveitados em cenas significativas para o personagem em versões que não soam recicladas. Além disso, o tema clássico de John Barry é explorado no momento de identificação entre o novo ator e o clássico Connery.

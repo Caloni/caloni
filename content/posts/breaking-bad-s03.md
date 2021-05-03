@@ -1,9 +1,12 @@
 ---
-date: "2016-07-16"
-link: "https://www.imdb.com/title/tt0903747"
-categories: [ "draft", "series" ]
-title: "Breaking Bad - Terceira Temporada"
+categories:
+- draft
+- series
+date: '2016-07-16'
+link: https://www.imdb.com/title/tt0903747
+title: Breaking Bad - Terceira Temporada
 ---
+
 Após a sequência de coincidências discutível no final da temporada anterior, Skyler agora sabe da droga, Walt decide em um ímpeto queimar o dinheiro, mas volta atrás. Todos são culpados na terceira temporada, dos usuários aos distribuidores e produtores, mas também os defensores da lei. Ninguém está a salvo do escrutínio moral, mas em vez de criticar, a série os entende perfeitamente. É a moral do indivíduo que está em jogo, e não uma série de leis absurdas em torno das quais todos lutam ferozmente.
 
 A questão é que fazer a droga é o que Jesse Pinkman faz de melhor, e sua visão de que ele deve seguir esse caminho está completamente de acordo com seu personagem e segua uma moral que não tem nada de errado ou recriminável. A droga pode destruir vidas, mas fazê-la é um ato de virtuosismo. Jesse, portanto, aqui assume que sua natureza é "má", mas, nós sabemos, apenas do ponto de vista da coletividade. Ele compra a casa de seus pais por uma barganha, ameaçando denunciar pelo laboratório que lá existia. Usar a lei a seu favor é um dos melhores traços dessa temporada.

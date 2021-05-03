@@ -1,10 +1,14 @@
 ---
-date: "2018-08-06"
-link: "https://www.imdb.com/title/tt4073790"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Mentes Sombrias"
+categories:
+- draft
+- movies
+date: '2018-08-06'
+link: https://www.imdb.com/title/tt4073790
+tags:
+- cinemaqui
+title: Mentes Sombrias
 ---
+
 Mentes Sombrias é uma distopia adolescente que entende a mente jovem como Goonies, mas que se recusa a amadurecer como Conta Comigo. Ambos os filmes citados são ótimas referências para onde este filme/saga poderia caminhar, mas apesar do ótimo começo ele nunca se aprofunda, deixando no lugar o já conhecido efeito Marvel, a produtora imbatível de histórias que se mantêm coesas pela característica peculiar de nunca terem um fim.
 
 E por falta de um final a personagem principal, a jovem interpretada pela talentosa Amandla Stenberg, apesar de seu potencial, não consegue se desenvolver, nada naquele mundo é resolvido e não ocorre nada no ato final que nos dê o sentimento de "closure", ou seja, de que pelo menos um capítulo de uma história maior se fechou.

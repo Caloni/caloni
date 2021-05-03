@@ -1,10 +1,14 @@
 ---
-date: "2018-11-13"
-link: "https://www.imdb.com/title/tt5230380"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Segredo De Davi"
+categories:
+- draft
+- movies
+date: '2018-11-13'
+link: https://www.imdb.com/title/tt5230380
+tags:
+- cinemaqui
+title: O Segredo De Davi
 ---
+
 O Segredo de Davi é sobre um estudante de Cinema e sobre Cinema. Um dos poucos filmes de gênero que costumam sair em circuito comercial aqui no Brasil em um gênero que curiosamente até mantém seu público cativo através das décadas, mas que nunca se transformou em algo viável em terras tupiniquins. Agora nós temos uma produção brasileira de tirar o fôlego em todos os quesitos técnicos e narrativos, o que é uma ótima notícia. E apesar de flertar com os enlatados norte-americanos ele mantém seu charme local.
 
 Se trata da história de Davi (Nicolas Prattes), um garoto tímido que estuda artes visuais e que vive sozinho no centro de São Paulo. Atraído inicialmente em observar as pessoas, filmando-as no processo, Davi é um misto entre narrador em off e protagonista subjetivo. Aos poucos vamos percebendo que quem está contando a história é ele, sob seu ponto de vista. E seu ponto de vista é distorcido, surreal, onírico. Cinematográfico e sobrenatural ao mesmo tempo, e o resultado em pouco tempo é um certo desconforto de nós observá-lo.

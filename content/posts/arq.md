@@ -1,9 +1,12 @@
 ---
-date: "2017-04-01"
-link: "https://www.imdb.com/title/tt5640450"
-categories: [ "draft", "movies" ]
-title: "ARQ"
+categories:
+- draft
+- movies
+date: '2017-04-01'
+link: https://www.imdb.com/title/tt5640450
+title: ARQ
 ---
+
 ARQ é mais um experimento em filmes de viagem no tempo. Produzido pela Netflix e escrito/dirigido por Tony Elliott (Orphan Black), ele nos leva em uma história que mexe com "loops" temporais que se tornam eficientes como um thriller e um filme de ação estilo videogame. Porém, ele não consegue transparecer tanta complexidade assim conforme nos acostumamos com suas regras e entendemos que o roteiro no fundo não passa de uma ideia para um jogo de computador.
 
 Tudo começa quando um casal, Renton e Hannah, acordam em uma manhã de um futuro pós-apocalíptico e são presos por três ladrões em busca de comida e dinheiro. Quando algo dá errado e Renton morre, tudo começa novamente, só que ele sabe que se trata de uma repetição. A história vai se desenvolvendo a partir dessa premissa e vamos descobrindo a cada nova iteração mais detalhes dos personagens e do funcionamento da máquina de energia infinita que dá nome ao filme.

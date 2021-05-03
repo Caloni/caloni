@@ -1,10 +1,14 @@
 ---
-date: "2018-10-21"
-link: "https://www.imdb.com/title/tt8055880"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Valsa de Waldheim"
+categories:
+- draft
+- movies
+date: '2018-10-21'
+link: https://www.imdb.com/title/tt8055880
+tags:
+- cinemaqui
+title: A Valsa de Waldheim
 ---
+
 A Alemanha reconhece a culpa pelo movimento anti-semita da Segunda Guerra e faz de tudo para reparar este dano histórico. Eles chegam ao cúmulo de censurar em plena democracia conteúdo considerado nazista, como a biografia Minha Luta, de Adolf Hitler. Já a Áustria, como visto aqui, em "A Valsa de Waldheim", apesar de participar ativamente de práticas nazistas após anexada pelos seu vizinhos, sempre negou qualquer tipo de compensação pelos crimes de guerra relacionados aos movimentos anti-semita.
 
 Isso acabou gerando o efeito que os oficiais austríacos da época não responderam como criminosos e não foram julgados. Pouco mudou no pensamento austríaco até ser descoberto que o candidato mais promissor das eleições de 1986 para presidente da Áustria, o ex-secretário das Nações Unidas Kurt Waldheim, poderia ter relação com operações militares nazistas na época da guerra, incluindo o envio de dois terços da população judia da região onde residiu para os campos de concentração de Auschwitz.

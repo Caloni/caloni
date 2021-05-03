@@ -1,8 +1,10 @@
 ---
-date: "2019-11-17"
-categories: [ "draft" ]
-title: "Is There a Cure for Film Criticism? by Pauline Kael (excerpts)"
+categories:
+- draft
+date: '2019-11-17'
+title: Is There a Cure for Film Criticism? by Pauline Kael (excerpts)
 ---
+
 Retirado do blog Keeping My Brain Alive.
 
 There is, in any art, a tendency to turn one's own preferences into a monomaniac theory; in film criticism, the more confused and single-minded and dedicated (to untenable propositions) the theorist is, the more likely he is to be regarded as serious and important and "deep" - in contrast to relaxed men of good sense whose pluralistic approaches can be disregarded as not fundamental enough.

@@ -1,9 +1,12 @@
 ---
-date: "2016-03-07"
-link: "https://www.imdb.com/title/tt0272338"
-categories: [ "draft", "movies" ]
-title: "Embriagado de Amor"
+categories:
+- draft
+- movies
+date: '2016-03-07'
+link: https://www.imdb.com/title/tt0272338
+title: Embriagado de Amor
 ---
+
 Paul Thomas Anderson é um diretor peculiar, tanto quanto Sidney Lumet. Ambos fizeram trabalhos com temas variados, mas se entregaram a cada projeto como se cada um deles fosse sua obra-prima. Nenhum dos dois pode ser "acusado" de fazer Cinema autoral (aquele que pelo filme você já sabe quem é o diretor).
 
 Porém, PTA -- esse é o diminutivo do nome do diretor para os íntimos -- tem, sim, sua marca registrada: a expressividade audio-visual extrapolada. Quando falamos de Magnólia ou Boogie Nights se torna dispensável apontar onde há o exagero narrativo. No entanto, mesmo filmes mais "sóbrios", como Sangue Negro ou O Mestre, possuem, aqui e ali, aquela nota em sustenido e que destoa de todo o resto. destoa no bom sentido. Acho que uma palavra melhor seria "arrisca". PTA não parece ter medo de arriscar. E é essa característica isolada que, aplicada a diretores talentosos como Anderson, a que mais gera conteúdo novo e provocante na sétima arte.

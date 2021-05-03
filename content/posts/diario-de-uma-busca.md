@@ -1,9 +1,11 @@
 ---
-date: "2011-08-29"
-link: "https://www.imdb.com/title/tt1827391"
-categories: [ "movies" ]
-title: "Diário de Uma Busca"
+categories:
+- movies
+date: '2011-08-29'
+link: https://www.imdb.com/title/tt1827391
+title: Diário de Uma Busca
 ---
+
 Assistir a filmes constantemente e por muito tempo te dá, aos poucos, a capacidade de discernir a linguagem de cada autor e, o que eu acho mais interessante de tudo, extrair as técnicas usadas de forma inconsciente, apenas deixando fluir a percepção comum de um espectador assistindo a uma sessão de cinema. É uma sensação meio que mágica.
 
 No caso desse documentário de Flavia Castro, que mostra, ao estilo road movie, sua pesquisa pela história do pai, reacionário ativo da época das ditaduras da América do Sul, é visível sua preocupação em tornar o filme o mais fluido possível e ao mesmo tempo resgatar a memória do pai através do depoimento de pessoas que conviveram com Celso Afonso Gay de Castro, no melhor estilo Cidadão Kane com reality show.

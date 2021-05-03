@@ -1,9 +1,12 @@
 ---
-date: "2018-05-23"
-link: "https://www.imdb.com/title/tt2543472"
-categories: [ "draft", "movies" ]
-title: "Extraordinário"
+categories:
+- draft
+- movies
+date: '2018-05-23'
+link: https://www.imdb.com/title/tt2543472
+title: Extraordinário
 ---
+
 São tão cansativos aqueles filmes que insistem em fazer o espectador chorar apenas "porque sim" que quando vem o primeiro choro de Extraordinário ele é tão natural, tão coisa simples, tão "uma criança diria isso", que você chega a perdoar todas as vezes que o filme pretende levanta a bandeira da diversidade e de todos merecem uma medalha por existirem.
 
 Isso não quer dizer que este é um filme que vai além do drama americano de superar adversidades quando as adversidades são apenas alguns arranhões na pele. Este é exatamente o tipo de filme americano que faz os americanos sentirem auto-piedade, por terem que sobreviver a "first world problems", ou terem que sobreviver à dura tortura de criar filhos e desistir de sonho, etc. Sim, às vezes pode surgir a vontade de vomitar. Ele é um Lady Bird para a família (incluindo crianças), que discute com propriedade microagressões como se elas fossem reais. Este filme, assim como 13 Reasons Why, problematiza situações as forçando, mas diferente da série mimimi da Netflix, as crianças, os jovens e os adultos neste filme são adoráveis.

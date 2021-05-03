@@ -1,9 +1,12 @@
 ---
-date: "2016-03-29"
-link: "https://www.imdb.com/title/tt0837156"
-categories: [ "draft", "movies" ]
-title: "Pee-wee's Big Holiday"
+categories:
+- draft
+- movies
+date: '2016-03-29'
+link: https://www.imdb.com/title/tt0837156
+title: Pee-wee's Big Holiday
 ---
+
 Uma experiência lúdica que infelizmente se entrega ao televisivo. Pee-wee Herman já é um personagem conhecido, um misto cômico de Bob Esponja e Mr. Bean que não consegue desempenhar bem nenhuma dessas personas (e se pudesse, seria uma simples cópia) e o resultado é muitas vezes o inverso, tal qual aquele palhaço que vimos na infância e nos apavorou por noites seguidas em nossos piores pesadelos.
 
 O que torna Bob Esponja divertido são as piadas com fundo do mar, que flerta inocentemente com a visão adulta da criança dentro de nós. Mr. Bean é uma crítica ácida à arrogância do britânico estereotipado. Pee-wee não consegue ser nem tão inocente quanto Bob Esponja e nem tão digno de pena quanto o atrapalhado personagem de Rowan Atkinson.

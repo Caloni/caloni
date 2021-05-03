@@ -1,9 +1,11 @@
 ---
-date: "2013-01-07"
-link: "https://www.imdb.com/title/tt1649419"
-categories: [ "movies" ]
-title: "O Impossível"
+categories:
+- movies
+date: '2013-01-07'
+link: https://www.imdb.com/title/tt1649419
+title: O Impossível
 ---
+
 A abordagem que o diretor espanhol Juan Antonio Bayona realiza para contar a história da família que se separa durante o Tsunami de 2004 que matou mais de 230 mil pessoas consegue transmitir a emoção pelo drama específico sem se esquecer da perda incomensurável de vidas naquela tragédia que mudou a vida de muito mais pessoas que podemos imaginar. Diz ainda o que números nunca serão capazes de dizer: que cada vida que se perde é uma tragédia particular.
 
 Os efeitos visuais e sonoros, com certeza ocupando a maior quantia da verba para o projeto, são importantes para que o trágico espetáculo fique na nossa mente por um bom tempo, mas apenas o seu uso inteligente, visceral, garante a sua efetividade no máximo. As tomadas mais apavorantes são as que nada vemos, mas ouvimos apenas, o barulho destruidor.

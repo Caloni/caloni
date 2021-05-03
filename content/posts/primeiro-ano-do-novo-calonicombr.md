@@ -1,8 +1,11 @@
 ---
-date: "2008-06-13"
+categories:
+- draft
+- blog
+date: '2008-06-13'
 title: Primeiro ano do novo Caloni.com.br
-categories: [ "draft", "blog" ]
 ---
+
 [![caloni-first-year.png](http://i.imgur.com/JfMGAtv.thumbnail.png)](http://i.imgur.com/eWrLFso.png)Melhor que ter feito aniversário de dois anos no antigo blogue foi ter feito o primeiro aninho nesse novo formato, mais atualizado, mais diversificado e mais antenado com o [meu dia-a-dia real](http://www.caloni.com.br/csi-crashed-server-investigation).
 
 No dia 14 de junho de 2007 foram publicadas as [boas vindas](http://www.caloni.com.br/hello-world), e desde então o número de artigos tem se mantido sempre no formato três por semana, dois por semana, consecutivamente, distribuídos na segunda, quarta e sexta, terça e quinta. Esse [jogo de xadrez](http://www.caloni.com.br/influence-board) tem me mantido bem ocupado, admito, mas no final até que vale a pena. Chegamos à marca de **130 artigos e 182 comentários dentro de 29 categorias**.

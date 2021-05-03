@@ -1,9 +1,11 @@
 ---
-date: "2015-09-20"
-link: "https://www.imdb.com/title/tt3090670"
-categories: [ "movies" ]
-title: "Advantageous"
+categories:
+- movies
+date: '2015-09-20'
+link: https://www.imdb.com/title/tt3090670
+title: Advantageous
 ---
+
 Este filme possui um conceito interessante com pouco substrato. São pessoas interagindo com uma pintura futurista ao fundo. Quando tudo termina, não há conflito, mas a concretização do que já se esperava no começo.
 
 Gwen é uma mãe solteira que tem que criar a filha Jules em uma época difícil. O ano não é muito claro, mas estamos pelo menos dois séculos à frente. A humanidade parece ter intensificado o que já vemos hoje: crianças que amadurecem cada vez mais cedo, terroristas e seus atos aleatórios de vingança e a privacidade não sendo mais um problema, já que ela simplesmente não existe, como as luzes azuis dos drones voando à noite e iluminando através das cortinas das casas demonstram.

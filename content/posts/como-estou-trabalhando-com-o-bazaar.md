@@ -1,8 +1,11 @@
 ---
-date: "2008-06-24"
+categories:
+- draft
+- blog
+date: '2008-06-24'
 title: Como estou trabalhando com o Bazaar
-categories: [ "draft", "blog" ]
 ---
+
 Depois de alguns ajustes e muitas perguntas do meu amigo-colega desenvolvedor [Rafael](http://www.sk5.com.br/), conseguimos definir alguns usos e costumes em nosso código controlado pelo Bazaar. Este é um guia para _Dummies_ de como é possível organizar um ou mais projetos de forma a favorecer o _refactoring _e a liberdade de uso.
 
 #### Primeiro passo: padrão de árvore

@@ -1,9 +1,11 @@
 ---
-date: "2012-10-23"
-link: "https://www.imdb.com/title/tt2164058"
-categories: [ "movies" ]
-title: "Pa-dak pa-dak"
+categories:
+- movies
+date: '2012-10-23'
+link: https://www.imdb.com/title/tt2164058
+title: Pa-dak pa-dak
 ---
+
 Padak, primeiro trabalho do diretor Lee Dae Hee, não cria uma história muito envolvente, mas possui um arco que chega a ser angustiante e libertador. Basicamente acompanhamos as tentativas frustradas de uma cavala (uma espécie de peixe) em tentar escapar de um aquário de um restaurante de frutos do mar. Há muito diálogo e pouca ação. Quando há ação, a animação peca por recorrer aos mesmos movimentos vistos.
 
 Talvez pelo aspecto técnico não chegar de fato a competir com os grandes estúdios, a fixação do diretor em animar sempre as cenas não corresponde aos seus esforços. Uma melhor forma de investir sua criatividade seria com o uso de cores e ritmo, estes sim com um potencial relevante. Dessa forma, chega a ser irritante o modo com que a câmera gira 90 graus a cada momento, um artifício repetido à exaustão, e empolgante as mudanças mais radicais de ângulo, como a que alterna a visão dos peixes e dos humanos, com a largura do quadro correspondendo a dois mundos tão distintos.

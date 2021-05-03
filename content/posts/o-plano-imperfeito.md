@@ -1,9 +1,12 @@
 ---
-date: "2018-06-28"
-link: "https://www.imdb.com/title/tt5304992"
-categories: [ "draft", "movies" ]
-title: "O Plano Imperfeito"
+categories:
+- draft
+- movies
+date: '2018-06-28'
+link: https://www.imdb.com/title/tt5304992
+title: O Plano Imperfeito
 ---
+
 Você já sabe a história pelo trailer, e até algumas das piadas. Ele e ela são assistentes de Lucy Liu e um outro cara (Taye Diggs), que fazem o estilo obcecados pelo trabalho da Meryl Streep em O Diabo Veste Prada, mas sem o charme, o carisma, a inteligência e o motivo de assim serem. Logo, são apenas egoístas mimados que sugam todo o tempo de seus subordinados, evitando que eles também tenham uma vida social, aguardando pela grande guinada de suas vidas. Quando ambos se encontram na mesma situação lamentável de trabalharem até tarde todos os dias resolvem bancar o cupido para que os dois mimados fiquem juntos e assim tenham mais tempo para suas próprias vidas. O que ocorre se assemelha a tantos outros tabalhos, com as piadas modernizadas para "first world problems" dos 2010s.
 
 Este não é um filme sobre os chefões, mas sobre seus dois dedicados e simpáticos funcionários. Sabemos disso porque mal o vemos, mesmo depois que o plano deles dá certo. E também porque ninguém se interessa em uma comédia romântica por quem não se veste de colorido. A menina se veste, e ela parece se movimentar de maneira espontânea, mesmo que lembre também um ataque epiléptico. Ela é interpretada por Zoey Deutch, uma atriz que já fez pequenas pontas em alguns trabalhos no Cinema e TV e tem o potencial de ser uma sub-queridinha das ComRoms. Ele é interpretado por Glen Powell, o que já diz o suficiente. O importante é que ambos são lindinhos, fofinhos, e você até já sabe quem vai ficar junto no final.

@@ -1,9 +1,11 @@
 ---
-date: "2014-11-28"
-link: "https://www.imdb.com/title/tt1259521"
-categories: [ "movies" ]
-title: "O Segredo da Cabana"
+categories:
+- movies
+date: '2014-11-28'
+link: https://www.imdb.com/title/tt1259521
+title: O Segredo da Cabana
 ---
+
 Há uma inversão de expectativas interessantíssima em O Segredo da Cabana, primeiro longa de Drew Goddard e escrito em parceria com Joss Whedon (sim, o cara dos Vingadores). Desde o começo (e por isso não conta como spoiler) enxergamos a velha história de terror e suspense dos jovens que vão passar o fim-de-semana em uma cabana na floresta como um ritual minuciosamente planejado por apáticos funcionários de uma organização aparentemente presente no mundo todo. O motivo? O mesmo que existe nesses filmes: aplacar a sede de vingança de espíritos, ou a força sobrenatural de zumbis, ou uma maldição fantasmagórica. Simplesmente escolha a sua.
 
 O interessante da inversão que comentava é: como espectadores de filmes de terror, geralmente estamos acostumados com o desenrolar da mesma história contada milhares de vezes, e sequer prestamos atenção aos personagens que seguramente vão começar a morrer em questão de minutos. Aqui, não: esses jovens não são idiotas (como na maioria desses filmes) e não estão pedindo para serem mortos. Suas personalidades são alteradas quimicamente, os tornando vítimas antes mesmo de chegarem na famigerada cabana. Nesse sentido eles se tornam heróis que precisam desvendar a trama em que foram involuntariamente envolvidos antes de serem mortos por uma organização psicopata.

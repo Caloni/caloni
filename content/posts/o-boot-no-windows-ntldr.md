@@ -1,8 +1,11 @@
 ---
-date: "2009-11-26"
-title: "O boot no Windows: NTLDR"
-categories: [ "draft", "code" ]
+categories:
+- draft
+- code
+date: '2009-11-26'
+title: 'O boot no Windows: NTLDR'
 ---
+
 ![galinha-preta.jpg](http://i.imgur.com/Xkv51C4.jpg)Minhas análises estão demorando muito para ser feitas. Talvez seja a hora de revelar o pouco que sei (e pesquisei) sobre o próximo processo de boot do Windows: o NTLDR.
 
 O nosso amigo NT Loader pode ser entendido através da leitura do já citado **Windows Internals** ou através de uma outra leitura que estou fazendo atualmente e que [pouquíssimos amigos blogueiros](http://www.driverentry.com.br) irão se lembrar: o [livro da galinha preta](http://www.amazon.com/Windows-File-System-Internals-Developers/dp/1565922492); formalmente conhecido como **Windows Nt File System Internals**.

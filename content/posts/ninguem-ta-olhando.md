@@ -1,9 +1,12 @@
 ---
-date: "2019-12-02"
-link: "https://www.imdb.com/title/tt11131980"
-categories: [ "draft", "series" ]
-title: "Ninguém Tá Olhando"
+categories:
+- draft
+- series
+date: '2019-12-02'
+link: https://www.imdb.com/title/tt11131980
+title: Ninguém Tá Olhando
 ---
+
 É gostoso assistir a uma série nova e sua ideia fresca, com algumas sacadas que revisitam temas anteriores, mas sob um novo olhar: o olhar brazuca. É assim que chega Ninguém Tá Olhando na Netflix, um trabalho conjunto entre uma cineasta de curtas documentais de aspecto social (Carolina Markowicz), o autor da terrível série 3% (Teodoro Poppovic) e um editor de filmes com forte fundo social, como Tropa de Elite e Cidade de Deus (Daniel Rezende), que justamente por conta de seus criadores e do formato televisito da rede de streaming vira uma maçaroca de dar dó já no seu terceiro episódio.
 
 Narrando uma história confusa sobre um sistema burocrático de anjos criados por Deus em uma repartição pública dos céus, Ninguém Tá Olhando sonha desde o começo em ser uma série tão eterna quanto seus seres alados e engravatados, mas apesar de suas boas ideias iniciais, como quatro regras que os anjos não podem violar, semelhante aos dez mandamentos dados aos humanos, ambas as listas criadas para serem desobedecidas, ou todo o mecanismo por trás da escolha dos pares entre anjos e humanos que serão ajudados pelos primeiros, o fato é que a lógica desmorona tão rápido quanto começa.

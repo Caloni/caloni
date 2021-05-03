@@ -1,9 +1,12 @@
 ---
-date: "2016-11-17"
-link: "https://www.imdb.com/title/tt1181840"
-categories: [ "draft", "movies" ]
-title: "Jack e a Mecânica do Coração"
+categories:
+- draft
+- movies
+date: '2016-11-17'
+link: https://www.imdb.com/title/tt1181840
+title: Jack e a Mecânica do Coração
 ---
+
 Esta animação é a conquista emo e gótica ao mesmo tempo. Feito com um apuro artístico incomum para produções de baixo orçamento, a história possui um clima pessimista, romântico e inalcançável que crianças não irão gostar, e muito menos adultos não muito afeitos a água com açúcar.
 
 Regado com muitas músicas e cenas estilo videoclipe, o filme conta a história de um menino que tem um relógio no lugar do coração, mas parece ter mais coração que todos. Ele percebe a passagem do tempo e a realidade em sua volta pelo filtro da emoção, idealizando-a com outros seres igualmente estranhos.

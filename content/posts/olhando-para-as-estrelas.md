@@ -1,10 +1,14 @@
 ---
-date: "2017-11-04"
-link: "https://www.imdb.com/title/tt3519048"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Olhando Para As Estrelas"
+categories:
+- draft
+- movies
+date: '2017-11-04'
+link: https://www.imdb.com/title/tt3519048
+tags:
+- cinemaqui
+title: Olhando Para As Estrelas
 ---
+
 Olhando para as Estrelas é um filme fofinho que não parece enxergar dificuldades, apenas facilidades. Com isso ele perde um potencial drama da vida real, ou troca pela visão de um mundo de sonhos, onde tudo é possível. Mas se tudo é possível tão "fácil" assim, qual a graça da conquista?
 
 O documentário possui várias virtudes narrativas que encantam desde o começo. Na primeira tomada vemos luzes fora de foco, símbolo do palco, para logo depois vermos as estrelas entrando em cena: dançarinas de balé. Depois aprendemos que elas são cegas. Ou seja, não conseguem ver nem as luzes, e muito menos as estrelas no céu. Isso não impede que a postura dessas meninas durante as aulas de dança, como ensina a professora, seja sempre olhando para o alto.

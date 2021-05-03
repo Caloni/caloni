@@ -1,9 +1,11 @@
 ---
-date: "2015-09-08"
-link: "https://www.imdb.com/title/tt3399024"
-categories: [ "movies" ]
-title: "Samba"
+categories:
+- movies
+date: '2015-09-08'
+link: https://www.imdb.com/title/tt3399024
+title: Samba
 ---
+
 Filme que faz uma crítica (válida) ao sistema de imigração francês, mas ao mesmo tempo flerta com a mistura de culturas e experiências. Tenta abraçar o mundo com essa ideia, dá seus tropeços por causa disso, mas ainda mantém sua força dramática nos ombros da sempre competente atuação de Omar Sy (Intocáveis), que faz o papel de um trabalhador africano ilegalmente por 10 anos, e que mesmo assim é preso e condenado a sair do país (curioso a sentença não definir para onde, pois isso não importa para a justiça francesa).
 
 Do outro lado, ou melhor dizendo, servindo como uma ponte, está Charlotte Gainsbourg, em seu papel acidentalmente cômico e que por algum motivo ela não se sai tão bem quanto em Ninfomaníaca, um papel que também mesclava drama com humor. Aqui ela trabalha como voluntária em uma ONG que auxilia os imigrantes ilegais a conseguir melhores condições de resolver suas pendências. Desnecessário dizer, eles vivem um amor, ainda que quase platônico.

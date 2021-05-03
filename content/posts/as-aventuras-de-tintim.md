@@ -1,9 +1,11 @@
 ---
-date: "2015-05-17"
-link: "https://www.imdb.com/title/tt0983193"
-categories: [ "movies" ]
-title: "As Aventuras de Tintim"
+categories:
+- movies
+date: '2015-05-17'
+link: https://www.imdb.com/title/tt0983193
+title: As Aventuras de Tintim
 ---
+
 Quem diria que, no meio de tantos filmes de super-herói machões com frases de efeito e diferentes efeitos digitais para fazer você comer pipoca freneticamente, As Aventuras de Tintim seja o que possui o personagem mais maduro e o conflito mais adulto de todos?
 
 Baseado nos quadrinhos do desenhista francês Hergé, além de uma série de animação, o filme usa aquela tecnologia de motion capture usada no Expresso Polar e Os Fantasmas de Scrooge, só que sete anos depois enxerga-se a evolução. Ou talvez seja apenas uma adaptação ao universo de Tintim, o repórter intrépido que faz jornalismo de verdade e vai em aventuras ao redor do mundo em busca dos fatos. As pessoas desse mundo são caricatas, mas esbanjam empatia se comparadas às crianças amaldiçoadas de Expresso Polar, ou até mesmo do (também caricato) Jim Carrey Charles Dickeniano. Uma física engraçada foi aplicada nesse mundo, que é quase real, mas que obviamente tem seus traços cartunescos. O "pior" é que essa decisão arriscada em um filme de caráter infanto-juvenil funciona maravilhosamente bem, como podemos comprovar na sequência do avião, um dos pontos fortes da trama.

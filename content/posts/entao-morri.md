@@ -1,8 +1,11 @@
 ---
-date: "2016-11-02"
-categories: [ "draft", "movies" ]
-title: "Então Morri"
+categories:
+- draft
+- movies
+date: '2016-11-02'
+title: Então Morri
 ---
+
 Um documentário que passa direto para nossos sentidos. Começa na morte e vai voltando pela dor, alegria, ou seja, emoções dos seus personagens da vida real.
 
 Em todos eles, miséria, religião, simplicidade. Não apenas do modo de viver, mas de pensar, e consequentemente de falar a respeito da vida. São pequenas lições ouvir as pequenas poesias que essas pessoas dizem, em palavreado simples e ações mais simples ainda, como um soco ou chute, um beijo ou carregar um caixão.

@@ -1,10 +1,14 @@
 ---
-date: "2017-01-11"
-link: "https://www.imdb.com/title/tt1472584"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Max Steel"
+categories:
+- draft
+- movies
+date: '2017-01-11'
+link: https://www.imdb.com/title/tt1472584
+tags:
+- cinemaqui
+title: Max Steel
 ---
+
 Ao assistir Max Steel você terá a impressão de estar vendo um fan film. E como todo filme feito por fãs, este tem orçamento bem limitado, o que se reflete em seu roteiro e direção pedestres, assim como a qualidade do elenco e dos efeitos visuais. Mas nós já vimos fan films que foram produzidos com o sangue e suor de uma massa de admiradores, e apesar de todos os defeitos, mantiveram ao menos um trabalho feito com paixão, e se é que isso serve de algum mérito, ao menos significa que alguém deve ter se divertido no processo. Aqui, porém, o filme tem todos os elementos capengas que o tornam elegível para a categoria de fan film, menos a paixão, o que nos leva ao pior resultado possível: um filme ruim feito por pessoas que não se importam tanto assim.
 
 A história gira em torno de Max (Ben Winchell), um garoto órfão de pai que se muda constantemente com sua mãe (Maria Bello) por motivos não muito claros, mas que o acaba tornando solitário por falta de opção. Até ter sua bike atropelada por uma linda garota em uma caminhonete (a realmente bela Ana Villafañe). Ah, faltou contar que eles voltam para o mesmo lugar onde moravam quando ele era bebê, além de em um jantar sermos apresentados a um ex-colega e amigo do seu pai (Andy Garcia), que presenciou o acidente e hoje aparentemente continua as visionárias pesquisas de Jim McGrath (Mike Doyle) em torno de um uso muito mais eficiente de energia que os seres humanos estão acostumados.

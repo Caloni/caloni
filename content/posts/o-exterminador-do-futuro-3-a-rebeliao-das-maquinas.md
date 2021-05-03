@@ -1,10 +1,14 @@
 ---
-date: "2019-11-16"
-link: "https://www.imdb.com/title/tt0181852"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Exterminador do Futuro 3: A Rebelião Das Máquinas"
+categories:
+- draft
+- movies
+date: '2019-11-16'
+link: https://www.imdb.com/title/tt0181852
+tags:
+- cinemaqui
+title: 'O Exterminador do Futuro 3: A Rebelião Das Máquinas'
 ---
+
 James Cameron deve ter ficado bem chateado com o que fizeram com o universo tão bem idealizado do apocalipse das máquinas sendo evitado pela força de uma heroína feminina que no fundo é a protagonista dos dois filmes anteriores. Aqui Sarah Connor foi descartada como a protagonista que vinha sendo e uma nova história foi contada considerando finalmente seu filho, John Connor, como peça-chave para o destino da humanidade. O resultado é que não sentimos que nem John nem o filme fossem necessários à essa altura.
 
 O problema com o filme é que ele não avança para nada de novo. Se trata de uma produção que busca apenas a satisfação visual de vermos novamente dois exterminadores do futuro na porrada, dessa vez com mais momentos de luta, mais explosões e mais efeitos. Porém, ignorando a questão, que era levada a sério nos outros filmes, de um ser tecnologicamente mais evoluído que o outro, as lutas soam falsas, e aumentando o barulho das explosões o filme deseja que ignoremos falhas conceituais como essa, e por nos oferecer mais efeitos visuais entramos na era de Hollywood em que estamos, atualmente, onde mais é mais, e muito mais é melhor ainda.

@@ -1,9 +1,11 @@
 ---
-date: "2015-01-18"
-link: "https://www.imdb.com/title/tt2397535"
-categories: [ "movies" ]
-title: "O Predestinado"
+categories:
+- movies
+date: '2015-01-18'
+link: https://www.imdb.com/title/tt2397535
+title: O Predestinado
 ---
+
 Apesar de ser um fã incondicional de Efeito Borboleta, sei que o longa possui alguns defeitos indesculpáveis. Sua lógica interna, como todo instigante filme de viagem no tempo, não foi costurada tão bem a ponto do espectador não se preocupar muito com seus paradoxos, e embora sua maior virtude resida nas possibilidades múltiplas de seus personagens, não existe essa de licença poética no Cinema. Se sua narrativa não consegue ser coesa, suas pontas soltas irão te ferir por dentro.
 
 Já em O Predestinado o objetivo é exatamente o contrário: ele expõe tanto a vida do policial vivido por Ethan Hawke quanto seus paradoxos. Ele dedica boa parte do seu tempo esmiuçando a curiosa história de vida da personagem vivida por Sarah Snook sem pressa em uma conversa que lembra muito as divagações despropositadas de Um Beijo Roubado, o que é lindo, ingênuo e delicado. Seu flashback ocupa tanto tempo que começamos a duvidar deste ser um filme sci-fi, e nos esquecemos que nenhum sci-fi que se preste é apenas sobre ficção científica, mas principalmente uma metáfora para os dramas da vida. Quem somos nós? Quem é você? Se existe destino, como ele é?

@@ -1,9 +1,12 @@
 ---
-date: "2016-09-04"
-link: "https://www.imdb.com/title/tt4844288"
-categories: [ "draft", "movies" ]
-title: "O Traidor"
+categories:
+- draft
+- movies
+date: '2016-09-04'
+link: https://www.imdb.com/title/tt4844288
+title: O Traidor
 ---
+
 Uma narradora que é uma velha e que faz graça com a desgraça de uma nação. Belas mulheres asiáticas que são estupradas por um imperador maluco, auxiliado por dois caçadores de beleza, pai e filho, que não confiam um no outro. Uma putaria e violência que começam desenfreadas, mas aos poucos caem no clichê moralista não sei bem por quê. Uma história mais ou menos histórica (Yeonsangun of Joseon, o décimo-rei da Coreia) que falha em uma narrativa sem entender a que veio.
 
 Pelo jeito, O Traidor tem muita estética, belas paisagens, figurino e direção de arte, e pouca ideia do que está fazendo. Ele quer chocar pelo erotismo, mas não conseque ser erótico. Quer impressionar pela violência, mas dá risada de si mesmo enquanto cabeças são cortadas (graficamente cortadas). Seus personagens são corriqueiros, mas fazem parte de uma miscelânea de eventos de duas horas, sendo que ao final o que resta é o clichezão do amor proibido.

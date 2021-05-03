@@ -1,9 +1,12 @@
 ---
-date: "2018-07-28"
-link: "https://www.imdb.com/title/tt1545754"
-categories: [ "draft", "movies" ]
-title: "Para o Que Der e Vier"
+categories:
+- draft
+- movies
+date: '2018-07-28'
+link: https://www.imdb.com/title/tt1545754
+title: Para o Que Der e Vier
 ---
+
 Aparentemente este é um filme sessão da tarde, mas ele tem personagens que são cativantes de acompanhar, seja por eles serem vividos por atores cujas personas já conhecemos ou pelos seus conflitos e desafios serem tão comuns quanto... banais.
 
 Cada um tem o que pensar nesse filme dirigido e escrito por Matthew Weiner, um escritor para TV (Família Soprano, Mad Men). O personagem de Owen Wilson tem um emprego como homem do tempo em sua cidade local e vive de arrumar rolos com mulheres. Ele não sabe o que quer da vida, e gasta boa parte do seu tempo fumando uns baseados com seu amigo interpretado por Zack Galifianakis, que está escrevendo um livro sobre as mazelas do mundo de comida envenenada e a violência contra os animais em um caderno amassado. Quando o pai morre e deixa quase tudo para ele (e não para a irmã, Amy Poehler) para ele deixar se ser "porra louca" isso é motivo o suficiente para ele ficar louco de vez e deixar todos em sua volta preocupados, incluindo sua jovem, linda e perfeita madastra (a linda e perfeita Melissa Rauch, que para muitos vai passar batido, como eu, mas se trata da estranha mas voluptuosa Bernadette da série The Big Bang Theory).

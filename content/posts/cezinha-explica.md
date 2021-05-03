@@ -1,8 +1,10 @@
 ---
-date: "2016-05-31"
-categories: [ "draft",  ]
-title: "Cezinha Explica"
+categories:
+- draft
+date: '2016-05-31'
+title: Cezinha Explica
 ---
+
 O Cezinha, ex-colega meu de suporte e um amigo que não vejo há um tempo, levou a curiosidade e o empenho até as últimas consequências e criou um canal de vídeos onde explica procedimentos que o suporte técnico precisa quase sempre realizar para informar ao desenvolvimento de um programa com problemas o que está dando de errado.
 
 O seu primeiro vídeo explica como gerar um dump de processo. Porém, longe de ser superficial, o vídeo primeiro explica alguns conceitos de endereçamento de memória no Windows, talvez até para dar um start no cérebro de muita gente e criar um gancho para próximos vídeos.

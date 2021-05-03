@@ -1,10 +1,14 @@
 ---
-date: "2017-12-02"
-link: "https://www.imdb.com/title/tt5954462"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Lumière! A Aventura Começa"
+categories:
+- draft
+- movies
+date: '2017-12-02'
+link: https://www.imdb.com/title/tt5954462
+tags:
+- cinemaqui
+title: Lumière! A Aventura Começa
 ---
+
 "Lumière! A Aventura Começa" entra nos arquivos dos inventores do cinematógrafo para descobrir onde surgiu o Cinema. Sim, porque a criação dos irmãos Lumière, assim como o cinetoscópio de Thomas Edison, ou qualquer outra invenção maluca da época, não era muito mais que isso: uma invenção maluca. Um entretenimento qualquer. E uma das muitas aventuras que estavam por vir no século seguinte.
 
 O Cinema como arte surgiu em um momento depois, e foi uma nova descoberta: a linguagem cinematográfica. Era possível se expressar de maneira diferente dos habituais textos, pinturas, esculturas, peças e fotografias. As invenções da época foram diferentes formas de "asfalto" para que novos "veículos" trafegassem por ele, em uma época onde imperavam as charretes. Ou uma analogia mais direta: foram inventadas letras para que as pessoas pudesses usar palavras.

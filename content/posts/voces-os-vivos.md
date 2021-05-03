@@ -1,9 +1,11 @@
 ---
-date: "2020-06-07"
-link: "https://www.imdb.com/title/tt0445336"
-categories: [ "movies" ]
-title: "Vocês, Os Vivos"
+categories:
+- movies
+date: '2020-06-07'
+link: https://www.imdb.com/title/tt0445336
+title: Vocês, Os Vivos
 ---
+
 Gosto de filmes assim. Sobre qual assunto? Sobre a vida. Com e sem sentido. Estamos aqui e é isso. Se fôssemos escolher o gênero que filmaríamos vida óbvio que seria comédia. Woody Allen vem dizendo isso há séculos, e ele tem razão. E agora este filme com produção em seis países vem dizer o mesmo, inclusive com a mesma trilha sonora de Allen, em um trabalho instigante e sem muitas respostas prontas. A única é que tudo isso é irrelevante. Então bora assistir TV.
 
 Tons pastéis eternos, a estranheza dos quadros imutáveis, com a câmera parada. Até um prédio inteiro se move, mas a câmera permanece. Isso é entrega total. Muitos olham para nós. Nós somos os vivos. Eles são fruto da imaginação de um. Eles mesmos estão apenas em um filme, e nos contam, olhando para nós, seus desejos e frustrações disfarçados de sonhos. Não são complicados. É a simplicidade que toma conta da tela e nos ensina que não é preciso muito para viver.

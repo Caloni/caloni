@@ -1,9 +1,11 @@
 ---
-date: "2011-11-18"
-link: "https://www.imdb.com/title/tt1189073"
-categories: [ "movies" ]
-title: "A Pele que Habito"
+categories:
+- movies
+date: '2011-11-18'
+link: https://www.imdb.com/title/tt1189073
+title: A Pele que Habito
 ---
+
 É fascinante acompanhar a carreira de um diretor habilidoso como Almodóvar. Ele possui aquela flexibilidade rara que permite que entre em qualquer projeto mantendo a sua marca, mas ao mesmo tempo contribuindo positivamente para a narrativa, sem torná-la autoral. Ou pelo menos tenta.
 
 Nesse terror moderno, que lembra um Frankenstein feito ao estilo do diretor espanhol, um brilhante cirurgião plástico, Robert Ledgard (Banderas, sisudo e constante), atormentado por sombras do seu passado em que perdeu a mulher e filha, desenvolve em suas pesquisas uma pele sintética capaz de resistir a qualquer tipo de dano, como queimaduras graves. Usando uma mulher desconhecida que se hospeda na privacidade de sua casa como cobaia, o vemos desenvolvendo seu projeto com toda a dedicação e frieza que convém a um cientista.

@@ -1,9 +1,12 @@
 ---
-date: "2017-04-01"
-link: "https://www.imdb.com/title/tt0435651"
-categories: [ "draft", "movies" ]
-title: "O Doador de Memórias"
+categories:
+- draft
+- movies
+date: '2017-04-01'
+link: https://www.imdb.com/title/tt0435651
+title: O Doador de Memórias
 ---
+
 A ideia mais interessante por trás deste filme é usar a analogia de cores para exemplificar por que uma vida em uma sociedade igualitária é como uma vida preto e branca fosca, enquanto uma vida desigual, cheio das nuances, dores e prazeres dos seres humanos "de verdade" é uma vida cheia de cores e luz. Infelizmente, essa analogia não apenas está errada como é mal empregada no próprio filme, e nos tenta fazer acreditar que nosso conhecimento sobre cores vem das nossas memórias (como se bebês não soubessem o que são cores ou herdassem memórias de seus pais). E isso é apenas a ponta do iceberg em um filme que tenta criar uma alegoria ambiciosa demais a respeito de uma distopia que mistura de maneira fragilizada Admirável Mundo Novo, THX e até "Brazil: O Filme". Bom, não é sempre que se pode bancar Aldous Huxley e não levar na cara por sua petulância.
 
 A história é narrada e explicada por todos os personagens a todo momento. Até o personagem interpretado por Jeff Bridges consegue tornar Jeff Bridges chato e monótono. Se trata de um mundo livre de conflitos, onde todos são iguais, blá blá blá, e para que isso aconteça há doutrinamento, remédios, regras de convívio que são ensinados do nascimento até a morte, e a santa ignorância. Apenas uns poucos selecionados (criadores desse mundo?), o anciãos, possuem a chave do conhecimento: livros e memórias. E quando digo memórias digo literalmente. São momentos vividos por outras pessoas passado de geração em geração por um mecanismo não-explicado, e se resumem naqueles vídeos que a família compartilha nas redes sociais. Claro, há também memórias que lembram o lado negro da humanidade: guerras, extermínio de animais pelo lucro e, junto deles, a sensação de que existe dor, mas também prazer.

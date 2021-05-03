@@ -1,9 +1,11 @@
 ---
-date: "2012-04-04"
-link: "https://www.imdb.com/title/tt1440266"
-categories: [ "movies" ]
-title: "Pina"
+categories:
+- movies
+date: '2012-04-04'
+link: https://www.imdb.com/title/tt1440266
+title: Pina
 ---
+
 Nada como diretores como Wim Wenders e [Martin Scorsese] para resgatar a esperança do Cinema no 3D. Inicialmente usado para aumentar o rendimento das bilheterias e forçar o espectador a ir às salas ver algo que não poderia ver em sua própria casa, o 3D foi massacrado inúmeras vezes em seus primeiros anos, ou com brincadeiras adolescentes de jogar objetos na "cara" do espectador ou com as terríveis versões convertidas. Agora, aos poucos, diretores que conhecem Cinema em sua essência se arriscam a experimentar novos caminhos para a Sétima Arte, e quem ganha com isso obviamente somos nós, cinéfilos.
 
 Aqui Wenders narra um documentário sobre a coreógrafa de dança moderna Pina Bausch usando para isso números protagonizados por alunos que aprenderam com ela o significado místico e essencial da dança. E aqui é preciso abrir um parênteses sobre o uso do 3D, que não é simplesmente parte itinerante do filme, mas praticamente um personagem e uma ferramenta de linguagem. Wenders entende isso e faz de tudo para que isso seja visível para o espectador, além da óbvia experiência de usar os óculos 3D.

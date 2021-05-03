@@ -1,10 +1,14 @@
 ---
-date: "2020-01-04"
-link: "https://www.imdb.com/title/tt5697572"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Cats"
+categories:
+- draft
+- movies
+date: '2020-01-04'
+link: https://www.imdb.com/title/tt5697572
+tags:
+- cinemaqui
+title: Cats
 ---
+
 Este foi o primeiro filme que vi no cinema este ano. Fui para acompanhar um amigo, e hoje não estou certo se meu motivo mais forte foi a amizade ou o masoquismo. Para me ajudar a tirar essa dúvida há uma música que não me sai da cabeça desde então: a apresentação de um dos gatos do filme, o Mister Mistoffelees. O refrão repete este nome milhares de vezes até onde eu lembro, e isso me lembra agora que este é um musical muito mais infantil do que adulto, mas em uma época em que adultos são criaturas mais infantis que crianças, isso me deprime de uma maneira irremediável. Concluído isto, acho que já me decidi pelo motivo mais forte: foi masoquísmo o que me fez ver este filme.
 
 Não há história aqui que consiga ser descrita que não faça sentido, já que o filme musical baseado na peça musical de sucesso da Broadway não tem de fato uma história. É um fiapo de ideia: uma gata é abandonada e encontra um bando de gatos que dançam e cantam para que a gata anciã decida quem vai ser o gato a subir em um balão para fugir daquele inferno que é ficar ouvindo toda vez gatos e mais gatos se apresentando com uma música. Ah, e tem um vilão, considerando que o resto dos gatos sejam do bem, mas desconsiderando que ficar miando essas músicas é de extremo mau gosto na vizinhança.

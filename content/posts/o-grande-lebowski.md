@@ -1,9 +1,11 @@
 ---
-date: "2014-02-07"
-link: "https://www.imdb.com/title/tt0118715"
-categories: [ "movies" ]
-title: "O Grande Lebowski"
+categories:
+- movies
+date: '2014-02-07'
+link: https://www.imdb.com/title/tt0118715
+title: O Grande Lebowski
 ---
+
 Um filme é basicamente contar uma história. A forma como você conta é que pode fazer toda a diferença entre um pedaço inútil de película (ou bits) ou um grande filme que, faça rir, faça chorar, mas, principalmente, faça pensar.
 
 E é com esse ímpeto narrativo que O Grande Lebowski, dos irmãos Coen (Um Homem Sério, Onde os Fracos Não Têm Vez), consegue subverter o clímax final de uma história que diverte do começo ao fim e entrega tantos momentos icônicos que depois de duas horas você ainda está pronto para mais umas dez. Falando de comédia, cujo gênero produz filmes que não costumam passar de uma hora e meia, esse é um feito e tanto.

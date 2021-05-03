@@ -1,9 +1,11 @@
 ---
-date: "2011-02-13"
-link: "https://www.imdb.com/title/tt1007028"
-categories: [ "movies" ]
-title: "Pagando Bem, que Mal Tem?"
+categories:
+- movies
+date: '2011-02-13'
+link: https://www.imdb.com/title/tt1007028
+title: Pagando Bem, que Mal Tem?
 ---
+
 Embora Seth Rogen possua um carisma que transforma as piadas de sua boca, por mais insossas que sejam, como a coisa mais divertida do mundo, o fato é que "Pagando Bem" mal consegue se segurar em sua narrativa confusa e embaraçosa.
 
 Dirigido e escrito por Kevin Smith, que se saiu muito melhor em Dogma, o filme parte da fraca premissa que o par de amigos (não são namorados) que moram juntos, Zack e Miri, quando se veem com problemas financeiros que culminam no corte de água e eletricidade do seu lar, logo decidem que a melhor maneira de arrecadar mais dinheiro e, quem sabe, se tornarem ricos e famosos, é produzir um filme pornô, em que eles mesmo participem "atuando".

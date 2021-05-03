@@ -1,9 +1,12 @@
 ---
-date: "2017-04-04"
-link: "https://www.imdb.com/title/tt5607970"
-categories: [ "draft", "series" ]
-title: "Ultimate Beastmaster - Primeira Temporada"
+categories:
+- draft
+- series
+date: '2017-04-04'
+link: https://www.imdb.com/title/tt5607970
+title: Ultimate Beastmaster - Primeira Temporada
 ---
+
 Esta não é uma competição corpo a corpo, nem uma avaliação de força, nem de habilidades esportistas. É, acima de tudo, uma ode ao ser humano, como as olimpíadas deveriam ser antes. Uma ode à capacidade humana, de se sobressair, vencer desafios e, o principal: vencer a si mesmo.
 
 São 108 competidores buscando uma vaga em uma final com apenas nove deles, que irá trazer o grande vencedor dessa primeira edição de um conjunto de provas que equilibram habilidades em usar de forma inteligente a energia e a saúde do corpo desses atletas. Os escaladores se darão melhor, pois quanto mais força e jeito nas mãos e menos peso para elas, melhor.

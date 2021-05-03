@@ -1,8 +1,11 @@
 ---
-date: "2007-07-06"
+categories:
+- blog
+- english
+date: '2007-07-06'
 title: Google shortcuts
-categories: [ "blog", "english" ]
 ---
+
 I love shortcuts. Since my very first years using computers, shortcuts had become my obsession. I research them through the time, collecting them, using them. For a long time I avoid myself from touching the mouse, trainning to remember all keystroke sequences I know.
 
 > I have nothing against using the mouse neither the people that do it. I'm just not very much enthusiastic in using mice. For sometime, I even believed that the cursor pointer was getting me annoyed, so I developed a program to get rid of it from the screen (using a shortcut, of course). But, one more time, I'm not againt its use, and I use it myself sometimes (when I need to).

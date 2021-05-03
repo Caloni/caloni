@@ -1,9 +1,11 @@
 ---
-date: "2011-10-27"
-link: "https://www.imdb.com/title/tt0038190"
-categories: [ "movies" ]
-title: "Laços Humanos"
+categories:
+- movies
+date: '2011-10-27'
+link: https://www.imdb.com/title/tt0038190
+title: Laços Humanos
 ---
+
 É até sacanagem querer escrever um pouco sobre Laços Humanos, trabalho impecável de Elia Kazan (que, acabei de descobrir, é seu primeiro longa!). De certa forma, não parece correto apontar virtudes técnicas em um filme que fale direto com o coração. Não é raro para mim assistir filmes que me faça lacrimejar compulsivamente uma ou duas vezes durante a sessão, mas nesse caso o filme inteiro tem algo de mágico e esperançoso, que deixa o espectador com o coração apertado boa parte do tempo.
 
 Só que as coisas não são tão simples. Ao mesmo tempo que transborda esperança e sonhos no aspecto de alguns personagens, o filme consegue atingir de maneira muito mais sutil a crueldade, o realismo e muitas vezes a ironia na mesma cena. Tudo isso fruto talvez da visão de Kazan (ajudado pelo excelente roteiro da dupla Tess Slesinger e Frank Davis), que pode ser acusado de pessimista, mas nunca de ter feito um filme sem emoções.

@@ -1,9 +1,12 @@
 ---
-date: "2021-02-19"
-link: "https://www.imdb.com/title/tt10394844"
-categories: [ "draft", "series" ]
-title: "Soulmates"
+categories:
+- draft
+- series
+date: '2021-02-19'
+link: https://www.imdb.com/title/tt10394844
+title: Soulmates
 ---
+
 A premissa dessa série é que no futuro haverá um Tinder mágico que dirá quando houver um match entre duas pessoas feitas uma para a outra. Já existem séries parecidas, mas a diferença aqui é que as histórias individuais de cada episódio exploram o que acontece quando a situação está longe de ser perfeita para que um casal seja formado.
 
 Futurista, mas bem pouco. O único traço constante são os celulares transparentes. Alguém na produção quis muito que isso fizesse parte do futuro.

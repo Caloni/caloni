@@ -1,9 +1,13 @@
 ---
-date: "2018-10-10"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Odisseia de Peter"
+categories:
+- draft
+- movies
+date: '2018-10-10'
+tags:
+- cinemaqui
+title: A Odisseia de Peter
 ---
+
 É difícil imaginar o que se passa pela cabeça de uma criança de 12 anos. E essa é a sensação ao assistir A Odisseia de Peter, um filme que lida com a quebra repentina de laços familiares, culturais e linguísticos de um garoto russo e sua incessante vontade inconsciente de conseguir essas raízes de volta.
 
 Os diretores estreantes Anna Kolchina e Alexey Kuzmin-Tarasov pegam uma vaga história dos anos 90 e adaptam nessa aventura que é narrada a partir dos olhos do pequeno Peter, interpretado pelo ator-mirim Dmitriy Gabrielyan. O resultado é tão onírico em alguns momentos que mesmo que você não conheça nada de cultura russa irá se encantar com uma nostalgia infantil latente, vinda direta da imaginação de uma criança que tem que lidar com responsabilidades que seus pais o impuseram ao mudar para a fria mas sem neve Alemanha.

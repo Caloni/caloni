@@ -1,9 +1,11 @@
 ---
-date: "2014-03-04"
-link: "https://www.imdb.com/title/tt1542852"
-categories: [ "movies" ]
-title: "Abutres"
+categories:
+- movies
+date: '2014-03-04'
+link: https://www.imdb.com/title/tt1542852
+title: Abutres
 ---
+
 Filmes com Ricardo Darín (Um Conto Chinês, O Segredo dos Seus Olhos) já merecem uma visita. Já filmes do diretor Pablo Trapero (Elefante Branco), que infelizmente é mais realista do que pessimista, exigem uma preparação psicológica para a dor e a depressão que virão por causa da impotência de seus personagens ante uma situação intransponível. Ou, resumindo, como diria Capitão Nascimento: "o sistema é foda!".
 
 Ambientado em Buenos Aires e tendo como centro dramático o encontro de Sosa (Darín), um advogado que após perder a habilitação se especializou em procurar acidentados ou seus familiares para obter o dinheiro do seguro, e Luján (Martina Gusman), uma médica plantonista que vive o descaso e o estresse de uma rotina que não lhe dá grandes esperanças sobre sua nobre profissão. Os desencontros entre os dois, aliás, nada têm de platônico. Fazem parte do mesmo sistema corrupto e pulsante nas ruas perigosas da cidade grande. A qualquer momento alguém pode morrer ou se ferir, e ambos estarão lá, prontos para socorrer a vítima de uma maneira ou outra. É justo o que Sosa faz com seus clientes, se apinhando em torno da tragédia humana? Se considerarmos a situação do sistema hospitalar filmado por Trapero e uma fala do motorista da ambulância, "encontrar um abutre como Sosa pode ser a melhor coisa a acontecer".

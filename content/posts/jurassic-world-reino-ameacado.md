@@ -1,9 +1,12 @@
 ---
-date: "2018-06-25"
-link: "https://www.imdb.com/title/tt4881806"
-categories: [ "draft", "movies" ]
-title: "Jurassic World: Reino Ameaçado"
+categories:
+- draft
+- movies
+date: '2018-06-25'
+link: https://www.imdb.com/title/tt4881806
+title: 'Jurassic World: Reino Ameaçado'
 ---
+
 O tema sério de Jurassic Park, sobre a responsabilidade do ser humano sobre o planeta, incluindo a própria natureza (uma mensagem bíblica contida em um livro de sci-fi?), já foi torcida e retorcida tantas vezes que hoje em dia só sai uma gotinha de arrepio. Há uma gotinha extra, de sangue, para a diversão inconsequente. É lá que estão os milhões gastos em produções como essas.
 
 E Jurassic World: Reino Ameaçado não tenta absolutamente nada mais que isso. Um resumo em lista: travestido de mensagem ecológica (a analogia com aquecimento global é tão óbvia que Jeff Goblin poderia resumir seu discurso que inicia/termina o filme apenas dizendo isso), devidamente embutido de mensagens SJW, cotas sobre empoderamento feminino (logo esquecido, assim como a "paleoveterinária" da história), além de contar com personagem negro, nerd e magro (Justice Smith) que supostamente deveria ser o alívio cômico, mas que consegue apenas dar a deixa para cortes de cena e tenta não ser muito irritante (spoiler alert: não consegue).

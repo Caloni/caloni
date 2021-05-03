@@ -1,10 +1,14 @@
 ---
-date: "2016-06-03"
-link: "https://www.imdb.com/title/tt4699388"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Um Amor À Altura"
+categories:
+- draft
+- movies
+date: '2016-06-03'
+link: https://www.imdb.com/title/tt4699388
+tags:
+- cinemaqui
+title: Um Amor À Altura
 ---
+
 É estranha a sensação de assistir a Um Amor À Altura, sabendo que esta é uma comédia romântica francesa. Ao mesmo tempo que podemos encontrar situações em sua história tipicamente europeias (e francesas), há um misto com comédia pastelão que dificilmente funciona. E é preciso lembrar que ainda existe um terceiro filme acontecendo: o terrível drama que é o mundo dos ricos e bem-sucedidos. Sim, há até um pouco de Nancy Meyers em uma comédia romântica francesa.
 
 Porém, vamos à história. Iniciando em um plano-sequência com um diálogo inusitadamente divertido, a simpática e insegura Diane (Virginie Efira) marca de se encontrar com um desconhecido (Jean Dujardin) para devolver o celular esquecido em um restaurante. São dois os motivos do estranho, Alexandre, não o ter devolvido de imediato: possuir um claro interesse na moça e aumentar suas chances com ela, já que ele é visivelmente baixo demais para estar acompanhado da "estonteante" Diane.

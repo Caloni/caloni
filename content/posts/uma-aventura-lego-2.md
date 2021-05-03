@@ -1,9 +1,12 @@
 ---
-date: "2019-03-05"
-link: "https://www.imdb.com/title/tt3513498"
-categories: [ "draft", "movies" ]
-title: "Uma Aventura Lego 2"
+categories:
+- draft
+- movies
+date: '2019-03-05'
+link: https://www.imdb.com/title/tt3513498
+title: Uma Aventura Lego 2
 ---
+
 Nada é tão incrível. Sim, é a dura verdade da vida. E como conseguir viver dessa forma? Bem, a lição de Uma Aventura Lego 2 é mais do que incrível: é complexa e profunda. Bem profunda. Das profundezas do fundo de uma máquina de lavar roupas. Do escuro vazio e sem sentido de uma caixa de brinquedos. Do niilismo inerente quando começamos a brincar de auto-análise com viagem no tempo. Sim, nada é tão incrível, mas não quer dizer que não devamos tentar viver juntos a aventura de viver.
 
 A segunda aventura principal iniciada pelos diretores Phil Lord e Christopher Miller e agora continuada por Mike Mitchell tenta realizar o impossível: repetir mais ou menos a fórmula do filme original e que fique igualmente incrível. E ele já começa a aventura se desculpando por não ser tão incrível quanto a primeira. E ele tem razão. Há algumas coisas que não se pode repetir. Resta agora apenas seguir com uma aventura requentada. Eu gosto desse pé-no-chão do início.

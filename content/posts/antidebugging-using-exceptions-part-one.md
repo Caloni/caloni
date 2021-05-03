@@ -1,8 +1,11 @@
 ---
-date: "2008-07-28"
+categories:
+- draft
+- code
+date: '2008-07-28'
 title: Antidebugging using exceptions (part one)
-categories: [ "draft", "code" ]
 ---
+
 A debugger puts breakpoints to stop for a moment the debuggee execution. In order to do this it makes use of a well known instruction: **int 3**. This instruction throws an exception - the breakpoint exception - that is caught by the operating system and bypassed to the handling code for this exception. For debuggee processes this code is inside the debugger. For free processes this code normally doesn't exist and the application simply crashs.
 
 The main idea in this protection is to take care these exceptions during the application execution. Doing this, we can make use of this fact and, in the handling code, **run the protected code**. The solution here looks like a **script interpreter**. It consists basically of two threads: The first one read an instructions sequence and tells the second thread to **run it step to step**. In order to do this the second thread uses a **small functions** set with well defined code blocks. Here's the example in pseudocode:

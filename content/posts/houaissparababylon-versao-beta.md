@@ -1,8 +1,11 @@
 ---
-date: "2008-11-15"
-categories: [ "code", "draft" ]
-title: "HouaissParaBabylon versão beta"
+categories:
+- code
+- draft
+date: '2008-11-15'
+title: HouaissParaBabylon versão beta
 ---
+
 Depois de muitos fins-de-semana divididos em horas picadinhas de programação de lazer, está disponível em vosso saite a primeira versão para usuários do conversor do dicionário Houaiss para o aplicativo Babylon.
 
 Foi uma longa jornada, sim, mas espero que valha a pena para quem esperou. Também espero poder receber inúmeras respostas com dúvidas, sugestões e até mesmo mais problemas que vierem a acontecer.

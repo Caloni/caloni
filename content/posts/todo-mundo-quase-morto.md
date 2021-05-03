@@ -1,9 +1,11 @@
 ---
-date: "2020-03-21"
-link: "https://www.imdb.com/title/tt0365748"
-categories: [ "movies" ]
-title: "Todo Mundo Quase Morto"
+categories:
+- movies
+date: '2020-03-21'
+link: https://www.imdb.com/title/tt0365748
+title: Todo Mundo Quase Morto
 ---
+
 Sempre que amigos se reúnem para aquela cervejinha básica e começam a conversar sobre zumbis e cinema é inevitável que surjam várias piadas que parecem muito boas de se colocar em um filme. Shaun of the Dead é esse filme, que o diretor Edgar Wright estreou nos cinemas, e que comprova sua energia em dirigir comédias, além de como seu talento será melhor exposto em trabalhos posteriores.
 
 Aqui as piadas que a reunião de amigos fez brotar aparecem, mas quando as vemos em cena algo está errado. Não era bem assim que eu imaginava enquanto devorava salgadinhos tomando minha IPA. Sim, são as mesmas piadas que elaboramos, e elas continuam ótimas isoladas. Veja esta, por exemplo, quando o personagem de Simon Pegg escorrega em algo pegajoso no chão, e mesmo sem vermos, sabemos instintivamente que é aquele sangue nojento derramado de alguma vítima do apocalipse zumbi. Essa foi uma piada que funcionou no filme, mas que precisou de uma sequência inteira de outras piadas que sofreram para serem contadas. E que não funcionaram.

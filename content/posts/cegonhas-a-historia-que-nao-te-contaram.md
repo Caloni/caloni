@@ -1,9 +1,12 @@
 ---
-date: "2016-10-15"
-link: "https://www.imdb.com/title/tt4624424"
-categories: [ "draft", "movies" ]
-title: "Cegonhas - A História Que Não Te Contaram"
+categories:
+- draft
+- movies
+date: '2016-10-15'
+link: https://www.imdb.com/title/tt4624424
+title: Cegonhas - A História Que Não Te Contaram
 ---
+
 Não se engane com a simplicidade deste filme (porque ele é bem simples). Seu jogo de cintura rápido, suas gags ligeiras -- metade ruim, metade interessante -- seus conceitos um tanto esquizofrênicos -- uma hora algo é importante, depois é outra, depois volta de novo -- e os diálogos expositivos de tudo que está acontecendo -- principalmente da boca do filho de um casal super-ocupado -- parecem obra de um amador. Parece tanto, mas tanto, que não é possível que ele seja. Há algo escondido nesse roteiro com uma produção de animação decente, com trilha grandiosa e fotografia competente. É um filme que parece zombar das produções Disneyanas, que insistem em mensagens de amor destacadas da realidade. E mesmo que você diga que os motivos por trás dessa atração é a fofura dos bebês, mesmo retirando-os de campo, fica difícil não gostar do resultado final.
 
 A história conta que antigamente as cegonhas entregavam bebês nos moldes tradicionais da crença popular. No entanto, devido a vários problemas em entregar carne humana viva, com olhos esbugalhados fontes de afeição incondicional, o ramo das cegonhas mudou drasticamente para corporação estilo "AliExpress". Isso é novamente uma crítica ao capitalismo? Não se sabe. É algo meio anti-corporativismo, pois a cegonha dona disso tudo pretende colocar o entregador mais eficiente como chefe para que ele demita uma órfã que vive com as cegonhas por não ter conseguido ser entregue. A palavra "chefe" tem uma conotação bombástica na mente dos subordinados, mas por algum motivo, nosso herói não tem a mínima ideia do que chefes fazem. Bom, sim, é um pouco anti-capitalismo (corporativo).

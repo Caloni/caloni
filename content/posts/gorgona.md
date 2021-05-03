@@ -1,10 +1,14 @@
 ---
-date: "2018-03-14"
-link: "https://www.imdb.com/title/tt6285776"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Górgona"
+categories:
+- draft
+- movies
+date: '2018-03-14'
+link: https://www.imdb.com/title/tt6285776
+tags:
+- cinemaqui
+title: Górgona
 ---
+
 Era uma vez uma atriz com 50 anos de carreira, mais de 80 de idade. Ela é reconhecida por todos que tiveram o prazer de testemunhar seu trabalho. A crítica sempre é positiva a respeito de suas peças. E a despeito de tudo isso, "Górgona" começa como se estivéssemos diante de uma despedida triste e solitária.
 
 Isso porque o público de teatro, como se sabe, não vem sendo dos melhores. Atores e atrizes de sucesso outrora hoje são desconhecidos da grande massa, conseguindo apenas uma coleção de admiradores, esses sim, fiéis até a morte, como podemos ver na fila de fãs após o espetáculo ser muito próximo da totalidade de público daquela noite.

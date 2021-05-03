@@ -1,9 +1,12 @@
 ---
-date: "2018-10-26"
-link: "https://www.imdb.com/title/tt3032476"
-categories: [ "draft", "series" ]
-title: "Better Call Saul S04"
+categories:
+- draft
+- series
+date: '2018-10-26'
+link: https://www.imdb.com/title/tt3032476
+title: Better Call Saul S04
 ---
+
 Better Call Saul em sua quarta temporada segue o mesmo formato de todas as anteriores: é uma novela porque se estende demais -- as regras um pouco degastantes de uma série -- mas entrega o que promete mais uma vez: um protagonista um pouco mais próximo de se tonar o Saul Goodman que todos nós conhecemos de Breaking Bad.
 
 Após a morte de seu irmão Jimmy McGill perde sua licença para advogar por um ano, e nesse tempo a história segue um caminho que eu sinceramente não esperava, mas que é uma das virtudes da série: ela mostra o dia-a-dia de seus personagens e como fazem para progredir passo-a-passo. E isso não é entediante, pois já adoramos esses personagens!

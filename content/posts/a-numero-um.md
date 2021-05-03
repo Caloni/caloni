@@ -1,10 +1,14 @@
 ---
-date: "2018-02-28"
-link: "https://www.imdb.com/title/tt6741568"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Número Um"
+categories:
+- draft
+- movies
+date: '2018-02-28'
+link: https://www.imdb.com/title/tt6741568
+tags:
+- cinemaqui
+title: A Número Um
 ---
+
 A Número Um é um melodrama feminista sobre poder. Ele emprega diversos momentos picados de seus personagens para compor uma narrativa que vai se tornando ligeiramente exagerada em seu tom. Não há muito prazer ou emoção em acompanhar a heroína deste filme, que é triste do começo ao fim. Não se trata de ganhar uma batalha, mas de entender o que é a guerra.
 
 E a guerra, na visão do grupo feminista que defende a candidatura da personagem de Emmanuelle Devos à presidência de uma grande corporação francesa, é conseguir representantes para sua causa em posições de poder mais altas possíveis. O preço para isso é o auto-sacrifício pessoal, dormir pouquíssimas horas por noite e a distância dos filhos.

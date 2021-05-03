@@ -1,9 +1,11 @@
 ---
-date: "2015-05-05"
-link: "https://www.imdb.com/title/tt2395427"
-categories: [ "movies" ]
-title: "Vingadores: Era de Ultron"
+categories:
+- movies
+date: '2015-05-05'
+link: https://www.imdb.com/title/tt2395427
+title: 'Vingadores: Era de Ultron'
 ---
+
 Vingadores 2 já estreia atrasado. Seu tema de inteligência artificial parece já ter sido abordado com maior sucesso a partir de trabalhos menos ambiciosos, mas bem mais curiosos, como Transcendence e Lucy (coincidentemente com a mesma Scarlett Johansson que aqui faz a heroína russa Viúva Negra). No entanto, seu maior trunfo com certeza não são os embates filosóficos sobre qual a solução para a paz mundial através do uso de redes neurais artificialmente produzidas (ou feitas por alienígenas). Isso está tão resumido em chavões e explicações genéricas para o espectador médio que não faz muita diferença. Como sempre, a grande sacada dos filmes de super-heróis são as explosões, os efeitos visuais, as frases de efeito levemente cômicas (mas nunca ofensivas) e as roupas coloridas (hoje em dia, em "dark" discreto, mas coloridas).
 
 Pelo menos aqui já existe uma equipe mais ou menos consolidada lutando contra o mal, ainda que esta equipe troque suas farpas para deleite do fã e ainda precise sempre ser lembrada de trabalhar juntos para serem considerados uma equipe. Há aquela voltinha clássica de 360 graus em torno do grupo e há aquele 3D mixuruca que já não engana mais ninguém.

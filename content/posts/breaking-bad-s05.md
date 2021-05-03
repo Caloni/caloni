@@ -1,9 +1,13 @@
 ---
-date: "2016-07-16"
-link: "https://www.imdb.com/title/tt0903747"
-categories: [ "draft", "draft", "series" ]
-title: "Breaking Bad - Quinta Temporada"
+categories:
+- draft
+- draft
+- series
+date: '2016-07-16'
+link: https://www.imdb.com/title/tt0903747
+title: Breaking Bad - Quinta Temporada
 ---
+
 Assim como Tropa de Elite (1 e 2), Breaking Bad tem seu próprio arsenal para o campeonato de frases famosas dita ao longo da série. Cada temporada apresenta pelo menos uma, de "I am the Danger" a "Say My Name" até para frases que não são particularmente brilhantes, mas fecham diálogos memoráveis como uma cereja no bolo. Muitas dessas frases são ditas pelo protagonista interpretado por Bryan Cranston, mas eu diria que há uma bela de uma competição entre todos os inesquecíveis personagens.
 
 Apesar de gostar muito de várias das frases do "químico do mal", arrisco dizer que de todas ditas ao longo da série, possuo duas favoritas, e a primeira não é de Walter White, mas de um outro personagem: "You're the smartest guy I ever met... but you're too stupid to see... He made up his mind ten minutes ago." ("Você é o cara mais esperto que eu já conheci... mas você é estúpido demais para perceber... que ele já decidiu o que fazer há dez minutos atrás.").

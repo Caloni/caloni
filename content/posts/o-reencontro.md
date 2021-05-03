@@ -1,10 +1,14 @@
 ---
-date: "2017-07-21"
-link: "https://www.imdb.com/title/tt5348236"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Reencontro"
+categories:
+- draft
+- movies
+date: '2017-07-21'
+link: https://www.imdb.com/title/tt5348236
+tags:
+- cinemaqui
+title: O Reencontro
 ---
+
 O Reencontro traz Catherine Deneuve em boa forma em um filme que, apesar de leve, consegue trazer à tona o tema de uma pessoa que sabe que vai morrer. Porém, é mais que isso, pois ele junta a persona fantástica de Deneuve e de Catherine Frot através dos problemas sociais da atualidade em uma história que lida com perdas e ganhos que se entrelaçam em uma bonita composição da arte que fala sobre a vida.
 
 A história é simples e vai ficando complicada, indo e voltando no que construíra. Claire (Frot) tem que lidar com o fechamento da clínica de parto que trabalhou a vida inteira ao mesmo tempo que lida com sua madrasta, Béatrice (Deneuve), que ligou do passado longínquo querendo reatar laços que nunca foram muito estáveis. Ambas são o completo oposto em personalidade. Claire é metódica, tem uma vida solitária e apática, quase mecânica, apesar de dar à luz a inúmeras vidas todas as noites como parteira. Béatrice está com câncer, no fim da vida, sozinha, e não tem nem apoio afetivo nem financeiro. Ela aposta em jogos e bebe, fuma e consome carne vermelha e gordurosa. E exibe seu lindo sorriso como de costume, provando que Deneuve envelheceu bem e que prioriza, em suas palavras, "os milagres do prazer", do que uma vida bem regrada.

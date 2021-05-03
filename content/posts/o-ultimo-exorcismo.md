@@ -1,9 +1,11 @@
 ---
-date: "2010-09-24"
-link: "https://www.imdb.com/title/tt1320244"
-categories: [ "movies" ]
-title: "O Último Exorcismo"
+categories:
+- movies
+date: '2010-09-24'
+link: https://www.imdb.com/title/tt1320244
+title: O Último Exorcismo
 ---
+
 Esse é "O Exorcista" invertido. Aqui o padre, que na verdade é tipo um reverendo de sua religião, possui suas dúvidas com respeito a Deus, e usa a religião como um meio de ganhar a vida. Reflexo exato do atual status das religiões polêmicas, que as usam também como um meio de se proliferarem, o próprio padre afirma que o principal é fazer as pessoas abrirem a mão, pois não se vive só de fé.
 
 Afetado pelo recente assassinato de um menino que foi vítima de um exorcismo mal planejado, o padre vira protagonista de um documentário que busca mostrar um exorcismo sendo feito, e pretende demonstrar como tudo isso é fajuto, exatamente para evitar que as práticas do exorcismo ainda sejam levadas adiante. De acordo com ele, o exorcismo hoje em dia está mais ativo que nunca, e o próprio Vaticano multiplicou por várias vezes o número de exorcistas que ele mantém.

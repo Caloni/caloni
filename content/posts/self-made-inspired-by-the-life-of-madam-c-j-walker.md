@@ -1,9 +1,11 @@
 ---
-date: "2020-03-27"
-link: "https://www.imdb.com/title/tt8771910"
-categories: [ "series" ]
-title: "Self Made: Inspired by the Life of Madam C.J. Walker"
+categories:
+- series
+date: '2020-03-27'
+link: https://www.imdb.com/title/tt8771910
+title: 'Self Made: Inspired by the Life of Madam C.J. Walker'
 ---
+
 Daquelas séries biográficas que pode ser lida em quinze minutos na internet. E de quebra você estará melhor informado sobre os fatos e não engolirá a cartilha social corrente. Por exemplo, é óbvio que a filha dessa milionária negra não era lésbica na vida real, assim como não existia uma vilã milionária mestiça para confrontar a pureza do sangue de uma afro-americana. Parece existir apenas uma verdade nessa mistureba roteirizada por Nicole Jefferson, Elle Johnson e a tataraneta da protagonista: no fundo todos gostariam de ser brancos.
 
 O primeiro episódio é amador, com fotografia pedestre e que joga as cenas como o palco de um teatro. Octavia Spencer é a única coisa que nos convence a continuar assistindo os próximos episódios, pois Spencer pode interpretar um poste e esse poste ganhará o Oscar. Os diálogos e a narração em off, risíveis se não fosse pela atriz, nem chegam a se comparar ao teatro, mas de novela. Lembra o meme "cries in spanish" na versão "fala maldades em inglês sulista americano".

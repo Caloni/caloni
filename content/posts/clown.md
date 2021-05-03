@@ -1,9 +1,12 @@
 ---
-date: "2016-02-29"
-link: "https://www.imdb.com/title/tt1780798"
-categories: [ "draft", "movies" ]
-title: "Clown"
+categories:
+- draft
+- movies
+date: '2016-02-29'
+link: https://www.imdb.com/title/tt1780798
+title: Clown
 ---
+
 Quando Eli Roth (O Albergue) está envolvido, seja como diretor ou, no caso, produtor e ator, pode esperar cenas de violência gráfica de muito mal gosto. Mas como gosto é algo que não se discute, talvez ver o coração de uma criança ser atirado em uma televisão seja a sua praia. Nesse caso, bem-vindo ao parque de diversões doentio da mente de alguém obcecado em chocar e, se sobrar tempo, tentar contar uma história.
 
 E história existe. Ela é boa, se você ignorar os clichês. Conta uma provável lenda (ahã) em que a origem dos palhaços é demoníaca; ele se alimenta de cinco crianças: uma criança por mês no inverno (?). A roupa desse suposto demônio foi encontrada por um pai (Roth) disposto a se vestir de palhaço para agradar seu filho. Ela estava guardada em um baú, é claro. E depois da festa ele não consegui mais tirar a roupa, é claro.

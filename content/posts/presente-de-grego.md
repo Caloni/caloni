@@ -1,9 +1,11 @@
 ---
-date: "2014-05-02"
-link: "https://www.imdb.com/title/tt0092605"
-categories: [ "movies" ]
-title: "Presente de Grego"
+categories:
+- movies
+date: '2014-05-02'
+link: https://www.imdb.com/title/tt0092605
+title: Presente de Grego
 ---
+
 Curioso como Rachel McAdams em Uma Manhã Gloriosa é a mulher "trabalhadeira" moderna e esse não é o grande tema deste filme de 2010. Quer dizer, não tanto um tema central e impactante quanto Diane Keaton 27 anos atrás em Presente de Grego. Neste filme de Charles Shyer (O Pai da Noiva) a executiva de sucesso precisa escolher entre dar atenção a suas contas milionárias da empresa onde trabalha ou a um bebê que "herdou" de primos distantes. É a dicotomia "mulher no trabalho" surgindo naquela época com todos os clichês da criança fofinha em um ambiente sério de senhores engravatados.
 
 Obviamente esse ambiente não existe mais, e um filme que trate o tema de forma tão descarada soa datado. Porém, não é o caso de jogá-lo fora. Há uma ótima história aqui que entoa um eco significativo nas mais diferentes casas onde vive um casal, ambos trabalham, que costuma discutir como será a vida a três, ou se ter um filho é um caminho viável nos dias de hoje.

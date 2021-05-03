@@ -1,9 +1,11 @@
 ---
-date: "2014-12-31"
-link: "https://www.imdb.com/title/tt2245084"
-categories: [ "movies" ]
-title: "Operação Big Hero"
+categories:
+- movies
+date: '2014-12-31'
+link: https://www.imdb.com/title/tt2245084
+title: Operação Big Hero
 ---
+
 Essa é uma animação Disney, mas não se engane: embaixo de sua cara inocente e fofinha existe a mancha de mais uma série de personagens da famigerada Marvel, que vem tentando destruir o departamento de criação no Cinema já faz alguns filmes, criando um universo onde sempre que um grupo de amigos se encontram, obviamente é para se transformarem em super-heróis e combater o mal (e/ou vilões que vão pelo lado contrário). Duncan Rouleau e Steven T. Seagle criaram os personagens ainda no gibi, Jordan Roberts, Daniel Gerson e Robert L. Baird assinam o roteiro. Mas os verdadeiros culpados por esse Pixar mutilado são Paul Briggs e Joseph Mateo, que assinam como Head of Story, ou seja, os caras que gerenciam um time de roteiristas para que a história não vire um caos completo. O que aqui, infelizmente, é quase o que vemos em sua metade final.
 
 A boa notícia é que o herói do filme é um nerd. Não no sentido atual da moda em que basta gostar da série X, dos livros Y ou usar as camisetas Z que se vira automaticamente um aficionado por qualquer coisa (pop) que exista. O nerd do filme é mais old-style, mas que mantém o aspecto cool ganhando dinheiro apostando em lutas de robôs usando o velho artifício que Paul Newman usava na sinuca em Desafio à Corrupção (1961), o que torna essa introdução uma das mais intelectualmente ambiciosas da Pixar, usando de toda a sutileza que apenas os mais -- claro -- nerds irão capturar. Influenciado pelo igualmente inteligente irmão, Hiro (Ryan Potter) começa a aspirar por algo maior quando um acidente causa uma tragédia irreparável e impensável em um "filme de criança" não fosse essa uma das introduções mais frias da equipe de animadores especialistas em nos fazer chorar.

@@ -1,9 +1,12 @@
 ---
-date: "2017-04-18"
-link: "https://www.imdb.com/title/tt4630562"
-categories: [ "draft", "movies" ]
-title: "Velozes e Furiosos 8"
+categories:
+- draft
+- movies
+date: '2017-04-18'
+link: https://www.imdb.com/title/tt4630562
+title: Velozes e Furiosos 8
 ---
+
 A série Velozes e Furiosos divide opiniões. Este é o mundo fantasioso onde motoristas/mecânicos habilidosos vivem à margem do crime e realizam manobras não apenas arriscadas, mas impossíveis. E para muitos isso é demais para acreditar. Porém, uma vez que você morda a isca tende a enxergá-lo basicamente como um filme de ação bem arquitetado ou pelo menos bem executado, com personagens com mais estilo do que verossimilhança. E depois de sete filmes, o oitavo vai fácil.
 
 E quem não gosta de um videoclipe com o cenário paradisíaco de uma praia cubana (com mulheres cubanas), música latina e carros antigos correndo como nunca foram desenhados para correr? O ritmo das músicas com seus rápidos cortes e as cores vibrantes e saturadas de Fast & Furious tem o poder de hipnotizar corações, mesmo que a mente discorde que tudo aquilo seja real.

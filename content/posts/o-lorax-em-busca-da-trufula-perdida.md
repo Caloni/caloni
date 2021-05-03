@@ -1,9 +1,11 @@
 ---
-date: "2012-04-02"
-link: "https://www.imdb.com/title/tt1482459"
-categories: [ "movies" ]
-title: "O Lorax, em Busca da Trúfula Perdida"
+categories:
+- movies
+date: '2012-04-02'
+link: https://www.imdb.com/title/tt1482459
+title: O Lorax, em Busca da Trúfula Perdida
 ---
+
 O Lorax parte de uma premissa bonitinha e se esquece que em um roteiro, mesmo de animação, há muito mais do que piadinhas isoladas e ótimos efeitos visuais. Tudo começa com Ted, jovem morador de uma cidade feliz por ter conseguido dominar o plástico como solucionador de todos os problemas. A consequência é que a única forma de vida existente na cidade são seus moradores humanos; nem gatos ou cachorros têm vez. Querendo conquistar a garota dos seus sonhos, Ted parte em busca de uma jornada para conseguir o que não existe mais na paisagem onde mora: uma árvore.
 
 O garoto precisa ouvir a história que um velho que mora isolado em um lugar inóspito a respeito do que aconteceu com ele e com as árvores que outrora encantavam o vale, assim como criaturas fofinhas e ignorantes da presença humana no mundo.

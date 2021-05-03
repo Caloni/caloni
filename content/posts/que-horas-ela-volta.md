@@ -1,9 +1,11 @@
 ---
-date: "2015-09-15"
-link: "https://www.imdb.com/title/tt3742378"
-categories: [ "movies" ]
-title: "Que Horas Ela Volta?"
+categories:
+- movies
+date: '2015-09-15'
+link: https://www.imdb.com/title/tt3742378
+title: Que Horas Ela Volta?
 ---
+
 "Que Horas Ela Volta" tem a virtude de conseguir se tornar um filme essencial para a discussão contemporânea e ao mesmo tempo se entregar a uma cartilha retrógrada que é usada a cada momento como combustível para uma esquerda brasileira (igualmente retrógrada) com sede de vingança e miopia de caráter.
 
 Deixando de lado toda a sutileza e ironia de um trabalho anterior de Kleber Mendonça Filho que busca estabelecer com muito mais propriedade uma relação entre o passado da sociedade brasileira e o seu presente (estou falando do ótimo O Som ao Redor), "Que Horas Ela Volta" faz justamente o contrário: determina desde o começo de que lado pretende atirar e para onde. Ou melhor dizendo: em quem. Ao pincelar uma classe alta "herdeira de posses" obtusa e absolutamente démodé junto de uma representante clássica dos livros de geografia do MEC da "classe trabalhadora opressora" na pele da empregada Val (Regina Casé, em um marco em sua cinematografia), o trabalho da diretora/roteirista Anna Muylaert subverte a realidade em sua volta sugando da já citada "visão intelectual" a respeito de uma suposta sociedade brasileira, e irônica ou propositadamente acaba criando uma cartilha audio-visual que levaria às lágrimas Sergei M. Eisenstein, o editor/diretor soviético responsável por boa parte da propaganda do partido na época da revolução russa.

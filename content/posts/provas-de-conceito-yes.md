@@ -1,8 +1,10 @@
 ---
-date: "2009-03-19"
-categories: [ "draft" ]
-title: "Provas de conceito... yes!"
+categories:
+- draft
+date: '2009-03-19'
+title: Provas de conceito... yes!
 ---
+
 Uma prova de conceito bem feita segue todos os passos em uma forma micro para entender e provar como as coisas irão funcionar no código de produção: a forma macro.
 
 A consequência interessante disso é que, uma vez que a prova de conceito deva ser um miniprojeto das principais partes de um software, desenvolvê-la significa programar todas as partes que realmente importam, ou seja, centrais para o funcionamento.

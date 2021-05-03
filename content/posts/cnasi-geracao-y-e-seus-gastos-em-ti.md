@@ -1,7 +1,8 @@
 ---
-date: "2008-09-25"
-categories: [ "draft" ]
-title: "Cnasi, geração Y e seus gastos em TI"
+categories:
+- draft
+date: '2008-09-25'
+title: Cnasi, geração Y e seus gastos em TI
 ---
 
 Nosso crachá de visitantes dava direito a uma palestra. E haviam muitas. Porém, logo após a hora do almoço, das disponíveis uma era particularmente interessante, pois citava uma expressão que eu e minha colega nunca havíamos escutado: um senhor iria nos falar sobre como lidar com essas novas pessoas que estão cada vez mais invadindo nossas casas e nossos escritórios, pertencentes a esse grupinho, a tão famosa chamada geração Y.

@@ -1,9 +1,12 @@
 ---
-date: "2016-04-22"
-link: "https://www.imdb.com/title/tt3032476"
-categories: [ "draft", "series" ]
-title: "Better Call Saul - Primeira Temporada"
+categories:
+- draft
+- series
+date: '2016-04-22'
+link: https://www.imdb.com/title/tt3032476
+title: Better Call Saul - Primeira Temporada
 ---
+
 A primeira temporada de Better Call Saul, spin-off do personagem Saul Goodman da série Breaking Bad, realiza um arco tão lendário quando o Walter White da série original. Esse arco é mais simples, previsível em sua própria estrutura, mas simplório jamais. Oscilando entre o cômico e o dramático, ganha mais o espectador que encara tudo aquilo como um drama tão intenso que consegue soar às vezes caricato, mas no final acaba se transformando em um tema digno de reflexão: como pode um sujeito ser esmagado de tantas formas diferentes e, ainda assim, continuar resistindo?
 
 É óbvio que, idealizado pelo mesmo Vinge Gilligan de Breaking Bad e sua inteligente equipe, essa primeira faceta antes desconhecida de Saul, ou em seu nome original, James McGill, irá certamente formar o alicerce moral do sujeito para futuras temporadas. Porém, mesmo que tivéssemos visto o último episódio ever da história, esta poderia muito bem acabar dessa forma e não soaria incompleta, da mesma forma que a maioria das temporadas de Breaking Bad (particularmente a quarta).

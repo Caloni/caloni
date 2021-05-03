@@ -1,8 +1,10 @@
 ---
-date: "2020-06-07"
-categories: [ "code" ]
-title: "Leak de Memória"
+categories:
+- code
+date: '2020-06-07'
+title: Leak de Memória
 ---
+
 Esse fim de semana vi um programa, sem leak de memória, que só de ficar alocando e desalocando apresentava um consumo crescente no Process Explorer. Imaginando que poderia ser alguma lib externa, como o redis, fui eliminando uma por uma as variáveis do sistema, até chegar em um loop em que a única coisa feita no corpo do código era alocar e desalocar memória. E ela apenas subia.
 
 Essa memória é alocada para um objeto acessível por uma interface. Abaixo dessa abstração reside uma mensagem do protocol buffers, ainda na versão 2. Isso quer dizer que cada new e delete construía uma nova mensagem protobuf, além da vtable da interface, e destruía em seguida. Apenas um campo int era preenchido como teste. Para monitorar melhor a memória usei um segundo campo string, pois daí posso alocar quantos bytes quiser para ele e o gráfico do Process Explorer fica dando um berro que não dá para ignorar.

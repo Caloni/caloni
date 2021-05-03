@@ -1,9 +1,12 @@
 ---
-date: "2017-10-29"
-link: "https://www.imdb.com/title/tt2356777"
-categories: [ "draft", "series" ]
-title: "True Detective: Primeiras Impressões do Piloto"
+categories:
+- draft
+- series
+date: '2017-10-29'
+link: https://www.imdb.com/title/tt2356777
+title: 'True Detective: Primeiras Impressões do Piloto'
 ---
+
 True Detective, em sua primeira temporada, é uma série que apresenta Matthew McConaughey e Woody Harrelson em papéis principais em uma narração dupla baseada em depoimentos e flashbacks. Ao final do piloto percebemos que o assunto em que ambos estavam sendo investigados continua à tona, o que gera um dos ganchos mais impressionantes em uma série. Ambientado em Lousiana com locações em lugares pobres e isolados, esta é uma série que por estas pistas já deveria chamar a atenção de quem está procurando por algo acima da média. Mas deixe-me explicar como se chega a essa conclusão assistindo apenas ao primeiro episódio.
 
 Recentemente meu amigo me convidou a assistir um vídeo, "How to Recognize a Great Anime (in just one episode)", onde o piloto de Steins;Gate era escrutinado. O argumento do autor é que a qualidade de qualquer anime pode ser analisada apenas através do seu primeiro episódio. Mesmo a polêmico, a "fica melhor depois" série de animação de viagem no tempo. Fiquei interessado se isso seria possível de extrapolar para séries em geral, ou até filmes mais longos. De fato, já havia ouvido falar de críticos que afirmam que os primeiros cinco minutos de um filme já são suficientes para pelo menos julgar se você irá ou não gostar do resultado completo.

@@ -1,9 +1,12 @@
 ---
-date: "2019-11-26"
-link: "https://www.imdb.com/title/tt8998738"
-categories: [ "draft", "movies" ]
-title: "Seguindo o Coração"
+categories:
+- draft
+- movies
+date: '2019-11-26'
+link: https://www.imdb.com/title/tt8998738
+title: Seguindo o Coração
 ---
+
 Este é um Antes do Amanhecer feito com diálogos medíocres e um elenco menor que Ethan Hawke e Julie Delpy, que nasceram para seus Jesse e Céline. De certa forma Seguindo o Coração ironiza a perfeição com que os filmes de Richard Linklater trata seus adoráveis personagens se desenvolvendo. O realismo por trás das falas do casal de Before Sunrise é apenas aparente, pois funciona bem demais por muito tempo.
 
 Já neste filme do diretor Aadish Keluskar existe um ultrarrealismo de uma relação abusiva que se arrasta por um ano em diálogos muito mais pé-no-chão, mas igualmente condensados no espaço de um dia para enfatizar os papéis de vilão e vítima de maneira a não esquecermos quem é a vítima. E não há muito o que fazer, pois o filme inteiro é tomado por esse sentimento. A única maneira de evitar é parar de assistir, um desejo que pode surgir em alguns momentos no começo, mas que tende a desaparecer conforme avançamos para o final.

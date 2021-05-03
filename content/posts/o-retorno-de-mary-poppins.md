@@ -1,10 +1,14 @@
 ---
-date: "2018-12-13"
-link: "https://www.imdb.com/title/tt5028340"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Retorno De Mary Poppins"
+categories:
+- draft
+- movies
+date: '2018-12-13'
+link: https://www.imdb.com/title/tt5028340
+tags:
+- cinemaqui
+title: O Retorno De Mary Poppins
 ---
+
 A Disney vem realizando alguns esforços duvidosos em resgatar para live action (com atores de carne e osso) praticante todos seus clássicos de animação, um a um. Já em O Retorno de Mary Poppins o filme original já é "de verdade", e seu maior desafio é nos entregar mais uma vez essa união impossível entre o lúdico e o sóbrio. Bom, se tem algo que Walt Disney sempre nos ensinou é que para ele, e para a Senhorita Poppins, até o impossível é possível.
 
 Esse novo filme avança algumas décadas do primeiro, que se passada nos anos 10. As crianças cresceram e o casal de irmãos agora pode ser visto junto de mais três crianças em uma versão que mescla elegantemente um pai e uma tia em uma referência disneylesca clássica que colocava tios no lugar de pais porque muitas crianças se tornavam órfãs na época da guerra. Estamos nos anos 30, na Grande Depressão, e é a situação perfeita para uma hipoteca que vence e o risco de perder a casa da Rua das Cerejeiras para o próprio banco onde o Sr. Banks trabalhava. Uma trama tão óbvia que dispensa detalhes, embora os detalhes sejam colocados de forma elegante neste roteiro finalizado a seis mãos.

@@ -1,8 +1,11 @@
 ---
-date: 2017-09-26T10:21:02-03:00
-title: "C++ Moderno Arranca os Cabelos por Você (std::move e classes simples)."
-categories: [ "draft", "blog" ]
+categories:
+- draft
+- blog
+date: 2017-09-26 10:21:02-03:00
+title: C++ Moderno Arranca os Cabelos por Você (std::move e classes simples).
 ---
+
 Um dos [últimos posts](https://groups.google.com/forum/#!topic/ccppbrasil/-AC9U7J-0Zg) no grupo CCPPBR do Thiago Adams chama mais uma vez a atenção para a complexidade infinita que linguagens como C++ estão preferindo tomar. Esta é a geração que irá sofrer as dores de compatibilidade com o passado mais que todas as outras que virão.
 
 Isso porque mudanças pontuais que vão sendo aplicadas na linguagem e biblioteca, como *move semantics*, não cabe mais em exemplos de livrinhos de C++ para iniciantes da década de 90:

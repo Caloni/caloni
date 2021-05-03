@@ -1,10 +1,14 @@
 ---
-date: "2018-08-27"
-link: "https://www.imdb.com/title/tt7467324"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Ferrugem"
+categories:
+- draft
+- movies
+date: '2018-08-27'
+link: https://www.imdb.com/title/tt7467324
+tags:
+- cinemaqui
+title: Ferrugem
 ---
+
 Ferrugem tem a ambição de tratar de um tema sensível, mas ele o faz de maneira tão sutil que sua mensagem se perde na tradução. Sua produção está equivocada, pois torna seus cenários tão higienizados que o resultado é um melodrama esquecível antes que sua segunda parte termine.
 
 Por falar em partes, este é um filme que se divide em duas, dirigidas de formas bem distintas. Na primeira parte nós pensamos que o protagonismo da história é uma jovem de uns 16 anos, Tati (Tifanny Dopke), que está muito afim de um garoto, Renet (Giovanni de Lorenzi), que é o verdadeiro protagonista da história. Porém, isso só será revelado na segunda parte, e é capaz que você se esqueça dele, porque apesar deste filme lembrar um estudo de personagens... não há personagens; apenas estereótipos genéricos de jovens.

@@ -1,9 +1,11 @@
 ---
-date: "2012-11-04"
-link: "https://www.imdb.com/title/tt1430626"
-categories: [ "movies" ]
-title: "Piratas Pirados!"
+categories:
+- movies
+date: '2012-11-04'
+link: https://www.imdb.com/title/tt1430626
+title: Piratas Pirados!
 ---
+
 O nome original de Piratas Pirados! é algo do tipo "Os Piratas! Em uma Aventura com Cientistas!". Ou seja, podemos deduzir daí dois pontos críticos e problemático nos dias de hoje: 1) o filme provavelmente foi criado com intenção de continuações e 2) um filme que mistura piratas e cientistas parece ter tanta certeza do que quer quanto [Cowboys e Aliens].
 
 A direção de Peter Lord (A Fuga Das Galinhas) auxiliado por Jeff Newitt consegue imprimir o mesmo ritmo de outras produções da Aardman, como o próprio A Fuga das Galinhas e outros ótimos exemplos como A Batalha dos Vegetais e [Por Água Abaixo]. Já a direção de arte encabeçada por quatro pessoas é admirável no sentido de resgatar todo o universo dos piratas e inserí-lo discretamente em meio aos cenários e detalhes de figurino (como o fato da maioria da tripulação ter alguma parte do corpo faltando), além de ser soberbamente auxiliados pela fotografia espantosa da dupla Charles Copping e Frank Passingham, que conseguem criar atmosferas completamente distintas em meio ao alto-mar, com o uso de um inspirado mapa antigo, e no meio das ruas de Londres e seu aspecto enevoado e misterioso.

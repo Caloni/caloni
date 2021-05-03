@@ -1,9 +1,11 @@
 ---
-date: "2011-07-04"
-link: "https://www.imdb.com/title/tt1396218"
-categories: [ "movies" ]
-title: "Os Pinguins do Papai"
+categories:
+- movies
+date: '2011-07-04'
+link: https://www.imdb.com/title/tt1396218
+title: Os Pinguins do Papai
 ---
+
 Sinopse: A vida de um homem de negócios começar a mudar após ele herdar de seu pai seis pinguins. Conforme ele avança em sua vida pessoal, sua vida profissional começa a despencar.
 
 Odeio falar mal dos filmes que não gosto, mas Os Pinguins do Papai é fraco, oportunista e covarde.

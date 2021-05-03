@@ -1,8 +1,10 @@
 ---
-date: "2008-04-23"
-categories: [ "blog" ]
-title: "CSI: Crashed Server Investigation?"
+categories:
+- blog
+date: '2008-04-23'
+title: 'CSI: Crashed Server Investigation?'
 ---
+
 O artigo de Jeff Dailey, The Digital DNA of Bugs Dump Analysis as Forensic Science, em que ele compara a nossa atividade de "cientistas do debugging" com a atividade dos profissionais da análise forense, é exatamente o que eu penso sobre nossa profissão. Freqüentemente assisto à série CSI: Las Vegas e mais freqüentemente ainda uso os métodos científicos empregados pela equipe de Gil Grissom para resolver os problemas mais escabrosos que podem ocorrer em um sistema.
 
 Jeff fez uma divertida comparação entre todas as etapas de uma análise forense com todas as etapas de nossa análise do bug. Aqui vai a tradução livre dessas etapas (em linguagem cinematográfica):

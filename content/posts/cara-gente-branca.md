@@ -1,9 +1,12 @@
 ---
-date: "2017-05-24"
-link: "https://www.imdb.com/title/tt5707802"
-categories: [ "draft", "series" ]
-title: "Cara Gente Branca"
+categories:
+- draft
+- series
+date: '2017-05-24'
+link: https://www.imdb.com/title/tt5707802
+title: Cara Gente Branca
 ---
+
 Esta é uma série Netflix que fez sua lição de casa e está aproveitando a onda de discussões sobre racismo para inserir um trabalho que tenta fazer o espectador pensar em quanta besteira os militantes das minorias conseguem discutir ao mesmo tempo.
 
 Estruturado em capítulos de 20 minutos onde os bastidores da universidade de Winchester é esmiuçado pelo ponto de vista de cada um dos seus personagens, o primeiro episódio é sobre a radialista mestiça que tem um programa de rádio onde "denuncia" o racismo velado enquanto namora um rapaz branco, o segundo episódio é sobre um estudante/jornalista que tem "medo de falar sobre a verdade dos outros" e mal consegue se assumir gay, e o terceiro episódio é sobre um dos candidatos a presidente do grêmio estudantil, filho de um pai influente na política que aprendeu que política é apenas dizer o que as pessoas querem ouvir. Todos esses episódios de passam no mesmo espaço de tempo e giram em torno do mesmo evento: a festa de "blackface" de um grupo de brancos da universidade.

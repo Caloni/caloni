@@ -1,8 +1,10 @@
 ---
-date: "2008-04-08"
-title: "Conversor de Houaiss para Babylon - parte 2"
-categories: [ "code" ]
+categories:
+- code
+date: '2008-04-08'
+title: Conversor de Houaiss para Babylon - parte 2
 ---
+
 Após algumas semanas de suspense, chegamos finalmente à nossa segunda e última parte da saga do dicionário Houaiss.
 
 Como devem [estar lembrados], a primeira parte se dispôs a desmontar a ofuscação usada nos arquivos do dicionário para permitir nossa posterior análise, com o simples e justo objetivo de importá-lo para o Babylon, cujas funcionalidades de busca são bem superiores.

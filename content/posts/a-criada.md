@@ -1,9 +1,12 @@
 ---
-date: "2019-11-26"
-link: "https://www.imdb.com/title/tt4016934"
-categories: [ "draft", "movies" ]
-title: "A Criada"
+categories:
+- draft
+- movies
+date: '2019-11-26'
+link: https://www.imdb.com/title/tt4016934
+title: A Criada
 ---
+
 Lento e cheio de detalhes revistos pelo menos três vezes, A Criada é um filme que se constrói apenas pelas suas reviravoltas. Isso suga a alma de seus personagens, e já não estamos mais interessados em suas vidas a partir da segunda cena. A não ser que você goste de tramas que sabe que haverá reviravoltas e elas são mais interessantes que a história em si.
 
 Tudo se passa em algum momento do passado, em uma mansão que é um misto das culturas britânica e japonesa, denunciando o quão falsa pode ser uma história. Essa mansão parece criada em computador, tamanha a higienização de suas fachadas e interiores. A luz que o fotógrafo Chung-hoon Chung	aplica nos cenários transforma todas os tons de cores tão vívidos em filmes japoneses, por exemplo, em cores primárias de novela televisiva. Perdemos a magia épica de um filme no passado para ganhar uma textura límpida para brilhar em sua TV de 60 polegadas.

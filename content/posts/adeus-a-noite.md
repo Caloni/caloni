@@ -1,10 +1,14 @@
 ---
-date: "2019-08-31"
-link: "https://www.imdb.com/title/tt8569390"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Adeus à Noite"
+categories:
+- draft
+- movies
+date: '2019-08-31'
+link: https://www.imdb.com/title/tt8569390
+tags:
+- cinemaqui
+title: Adeus à Noite
 ---
+
 Catherine Deneuve está fazendo cada vez mais papéis em que sua idade e sua persona inspiram sabedoria, mas em Adeus à Noite essa sabedoria é impotente e deslocada.
 
 Isso porque a história é sobre um fenômeno recente em nossa geração, e por isso está totalmente deslocada de sua realidade. Tem início com jovens entediados com a vida de primeiro mundo e a esperança de algo mais significativo na promessa fácil do Estado islâmico e sua além-vida pela religião. Lavagem cerebral, basicamente.

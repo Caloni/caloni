@@ -1,9 +1,11 @@
 ---
-date: "2010-10-27"
-link: "https://www.imdb.com/title/tt0775489"
-categories: [ "movies" ]
-title: "O Mágico"
+categories:
+- movies
+date: '2010-10-27'
+link: https://www.imdb.com/title/tt0775489
+title: O Mágico
 ---
+
 Esse é o novo longa de Sylvain Chomet, o mesmo diretor de [As Bicicletas de Belleville]. Foi baseado em um roteiro de Jacques Tati (do filme Meu Tio). Ou seja, temos aqui um roteiro de algo belo em sua pureza sendo dirigido por alguém com o controle nato do surreal. Não bom.
 
 A primeira metade é deslumbrante. A direção de arte compõe os quadros mais inspirados de belas cidades, ou teatros em que o velho mágico se apresenta; ou até pela fotografia, que ilumina com cores quentes e gela com cores frias. Adotando uma comédia baseada em coincidências ingênuas (ex: ensopado de coelho, neve de penas), a trilha sonora acompanha cada passo dos personagens e define o sentimento do momento, contando a história muito melhor do que os diálogos, que inexistem. No entanto, em alguns momentos ela chega a se tornar repetitiva, mas sem nunca perder sua função e sem nunca se tornar artificial.

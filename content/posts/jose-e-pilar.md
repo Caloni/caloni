@@ -1,9 +1,11 @@
 ---
-date: "2010-11-05"
-link: "https://www.imdb.com/title/tt1789810"
-categories: [ "movies" ]
-title: "José e Pilar"
+categories:
+- movies
+date: '2010-11-05'
+link: https://www.imdb.com/title/tt1789810
+title: José e Pilar
 ---
+
 Este é um documentário que conta, com imagens caseiras e inusitadas em eventos públicos, os últimos anos do escritor português, ganhador do prêmio Nobel, José Saramago, e sua esposa, Pilar. Por meio de uma intrusão na vida alheia do casal acompanhamos as viagens que ambos fizeram pelo mundo afora após ele ter ganho o prêmio.
 
 Com esse filme percebemos a dedicação de sua esposa para com a carreira do marido, além do reconhecimento deste que, sem Pilar, não seria nem a metade do que era. Dentro desse ponto de vista é tocante perceber que o filme retrata exatamente esses dois personagens dessa maneira distinta. Se de um lado vemos Pilar ir de um canto ao outro, com uma câmera que denota movimento constante (e como por vezes é percebido ela falando enquanto está dentro de um ônibus ou algo que o valha), do outro lado temos a reflexão e serenidade de Saramago, sempre recheado com seus pensamentos originais e inusitados, ou muitas vezes com uma cena um tanto parada sendo banhada de sabedoria com a narração em off do próprio Saramago e alguma passagem de um de seus livros.

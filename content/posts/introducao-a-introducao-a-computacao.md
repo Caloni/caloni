@@ -1,7 +1,9 @@
 ---
-date: "2014-07-01"
-categories: [ "draft", "reading" ]
-title: "Introdução à Introdução à Computação"
+categories:
+- draft
+- reading
+date: '2014-07-01'
+title: Introdução à Introdução à Computação
 ---
 
 O livro começa lá nos primórdios da informação, antes mesmo da humanidade. Sim, pois informação não necessita sequer de um ser sensciente para ser transmitida e utilizada, como já foi comprovado através de nosso código genético, o agora-popular-por-causa-do-ratinho DNA. Uma informação codificada intrinsecamente no processo de reprodução das células de um ser vivo. Um computador orgânico!
@@ -15,4 +17,3 @@ Passando por romanos, persas, chineses e a Revolução Industrial, a narrativa c
 E por falar em bits, essa é uma parte importante desta saga, pois foi com o conceito binário que toda a lógica computacional evoluiu. Iniciando com simples eletricidade e a tecnologia de circuito que permite que acendamos e apaguemos uma lâmpada e terminando na mágica mais pura, simples e poderosa para os programadores (de hardware e sofware): o flip-flop. Gonick chega ao cúmulo de explicar todas as invenções da época encontrando sua necessidade de fatos do dia-a-dia -- como as telefonistas -- se transformando em uma espécie de Tanenbaum desenhista. Das válvulas aos semicondutores, o livro engrossa nosso conhecimento a cada imagem, fazendo-nos repensar novamente o que já havíamos cansado de aprender na faculdade ou em livros ou na internet.
 
 Sua Parte II, o espaguete lógico, acredito que seja o que mais interessa a nós, programadores. Por isso espero dissecá-lo com um pouco menos de palavras e um pouco mais de código. Até lá!
-

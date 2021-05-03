@@ -1,9 +1,12 @@
 ---
-date: "2017-05-02"
-link: "https://www.imdb.com/title/tt1126590"
-categories: [ "draft", "movies" ]
-title: "Grandes Olhos"
+categories:
+- draft
+- movies
+date: '2017-05-02'
+link: https://www.imdb.com/title/tt1126590
+title: Grandes Olhos
 ---
+
 Olhos Grandes é uma incursão do diretor Tim Burton por um universo já existente, o que se por um lado favorece seu lado de direção de arte a exagerar um conteúdo já determinado, por outro lado limita sua capacidade de fazer o mesmo com seus personagens, que soam irreais em uma história baseada em fatos reais.
 
 O plot é a fantástica história real da pintora Margaret Keane, que iniciou um estilo vindo do coração e a repulsiva tortura psicológica que ela passou através do seu segundo marido, Walter Keane, interpretado por um ator inadequado, Christoph Waltz (Bastardos Inglórios), que consegue soar pouco ameaçador e muito digno de pena. O curioso é que Waltz está acostumado a papéis de natural dominação, mas aqui, por algum motivo, sempre sai em cada cena um pouco abaixo de onde deveria estar na escala de dominação psicopata.

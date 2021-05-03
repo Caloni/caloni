@@ -1,8 +1,11 @@
 ---
-date: "2018-07-16"
-categories: [ "draft", "books" ]
-title: "Escrevendo Curtas"
+categories:
+- draft
+- books
+date: '2018-07-16'
+title: Escrevendo Curtas
 ---
+
 Este é um livro curto, e sou fã de livros curtos. Porém, para um livro ser bom não basta ser curto. No seu pequeno conteúdo ele tem que ter algo a dizer. E o livro de L.G. Bayão tem, sim. Ele é um guia rápido e conciso que explica como não apenas curtas-metragens funcionam, mas como a indústria e linguagem cinematográficas funcionam na vida real, e de onde o curta é talvez o elemento mais basal e essencial para o começo (ou o final) de toda criação na sétima arte.
 
 Claro, com pouco mais de 80 páginas, e apenas 50% dessas páginas possuindo detalhes técnicos, o trabalho de Bayão é superficial no máximo, mas como guia iniciante quebra um galho. Ele começa categorizando os tipos de curta, depois dá um exemplo do formato usado em voga, e relata o básico que todo escritor deve saber sobre estrutura para contar histórias. O valor do livro não está nas regras que já conhecemos sobre literatura, mas sobre como isso se encaixa na hora de escrever para um curta-metragem.
@@ -59,4 +62,4 @@ Links:
  - SCRIPTS-O-RAMA http://www.script-o-rama.com Os melhores roteiros vindos da terra do tio Sam, incluindo clássicos de Hitchcock e Kubrick. 
  - CRIAÇÃO DE ROTEIROS http://www.roteirista.com/ Aqui você chega até o roteirista Hugo Moss e seus grupos de criação, seu conceituado curso online e o concurso que promove trimestralmente com o objetivo de estimular roteiristas de todas as idades. 
  - ASSOCIAÇÃO CULTURAL KINOFORUM http://www.kinoforum.org/ Investe na difusão da produção audiovisual e do cinema independente na América Latina e é responsável pelo Festival Internacional de Curtas-Metragens. Destaca também um guia de festivais muito completo. 
- - CURTA O CURTA http://www.curtaocurta.com.br/ Buscando sanar a falta de espaço para o curta-metragem nos cinemas e na televisão, surge o site Curta o Curta, onde o usuário pode assistir aos mais interessantes curtas, discutir sobre o cinema nacional, participar de promoções e até incluir seu próprio filme, fazendo da Internet um canal direto com o espectador. 
+ - CURTA O CURTA http://www.curtaocurta.com.br/ Buscando sanar a falta de espaço para o curta-metragem nos cinemas e na televisão, surge o site Curta o Curta, onde o usuário pode assistir aos mais interessantes curtas, discutir sobre o cinema nacional, participar de promoções e até incluir seu próprio filme, fazendo da Internet um canal direto com o espectador.

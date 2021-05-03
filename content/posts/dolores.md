@@ -1,9 +1,12 @@
 ---
-date: "2016-10-28"
-link: "https://www.imdb.com/title/tt4990694"
-categories: [ "draft", "movies" ]
-title: "Dolores"
+categories:
+- draft
+- movies
+date: '2016-10-28'
+link: https://www.imdb.com/title/tt4990694
+title: Dolores
 ---
+
 Este é um filme feito para a televisão, com um orçamento aparentemente baixo, mas com grandes ideias. Ele repete os passos hitchcockianos e seus mistérios fantasiosos, mas com pouco jeito. Se tratando de um filme que é sobre a cópia perfeita da realidade, este Hitchcock queimou um pouco no forno.
 
 Mas o maior problema seja a trilha sonora. Jörg Lemberg imita um Bernard Herrmann (Psicose, Um Corpo que Cai) em todos os acordes. Se torna quase um Psicose de Gus Van Sant, que reproduz com fidelidade o clássico de Hitchcock, quadro a quadro. Surge a estranheza dessa imitação, sobre um filme que é sobre imitação.

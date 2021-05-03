@@ -1,8 +1,11 @@
 ---
-date: "2019-01-07"
-categories: [ "draft", "food" ]
-tags: [ "recipes" ]
-title: "Empanadas Argentinas"
+categories:
+- draft
+- food
+date: '2019-01-07'
+tags:
+- recipes
+title: Empanadas Argentinas
 ---
 
 Ingredientes Massa: 1 kg de farinha de trigo, 1 colher (chá) de sal, 1 xícara (chá) de gordura vegetal, 2 xícaras (chá) de água morna, 1 gema para pincelar. Ingredientes recheio de carne: 4 colheres (sopa) de óleo, 3 xícaras (chá) de cebola picada, 3 xícaras (chá) de carne picada, 1/2 colher (café) de cominho em pó, 1 colher (chá) de semente de mostarda, 1 colher (chá) de orégano, 1 envelope de caldo de carne, pimenta calabresa a gosto, 1/2 xícara (chá) de molho de tomate, 2 colheres (sopa) de salsa picada, 1/2 xícara (chá) de azeitona verde picada. 

@@ -1,10 +1,14 @@
 ---
-date: "2019-11-12"
-link: "https://www.imdb.com/title/tt0088247"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Exterminador do Futuro"
+categories:
+- draft
+- movies
+date: '2019-11-12'
+link: https://www.imdb.com/title/tt0088247
+tags:
+- cinemaqui
+title: O Exterminador do Futuro
 ---
+
 James Cameron cria uma mitologia no primeiro filme de uma série, em que ciborgues assassinos do futuro viajam no tempo para impedir que a humanidade tenha alguma chance de sobrevivência em uma guerra que não se sabe quem iniciou nem como terminará, mas que com certeza foi fruto da tecnologia, da impessoalidade e da paranoia de nossos tempos. Apesar dos efeitos visuais terem aumentado exponencialmente desde o primeiro filme, as várias cenas icônicas da saga vieram mesmo do filme original de 1984, que envelheceu mal e que sabemos quando Schwarzenegger é um boneco de plástico com olhos de ciborgue, mas ainda assim, causa tensão, suspense, terror e reflexões sobre reviravoltas e paradoxos em viagens no tempo.
 
 A história envolve salvar Sarah Connor, a mãe do salvador da humanidade no futuro, John. As máquinas enviam um exterminador para o passado e os humanos enviam um soldado para impedi-lo. Este é daqueles filmes que vão escalando a tensão e durante a escalada a trama vai sendo explicada. A ação impulsiona o filme, mas não é uma ação descerebrada, pois sua importância está nas entrelinhas, em como o presente influencia no futuro.

@@ -1,10 +1,13 @@
 ---
-date: "2015-08-23"
-link: "https://www.imdb.com/title/tt3108662"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Entrando Numa Roubada"
+categories:
+- movies
+date: '2015-08-23'
+link: https://www.imdb.com/title/tt3108662
+tags:
+- cinemaqui
+title: Entrando Numa Roubada
 ---
+
 Uma comédia mista, cuja criatividade consegue protagonizar pelo menos um momento icônico (no deserto), está cheio de galhofas pretensiosas envolvendo filmes de faroeste Sergio Leoleano espalhadas em uma história que diverte pelo seu elenco, mas falha lamentavelmente no drama que procura mesclar e substituir o humor.
 
 A história, que se finge de complexa, mas que acaba se revelando boba e sem qualquer reviravolta que preste, gira em torno de quatro amigos que passaram por revezes em suas vidas após a estréia do filme onde todos trabalharam. Descoberto que a falta de dinheiro foi menos pelo sucesso do filme e mais pelo golpe aplicado pelo produtor -- que mudou de vida para virar um empreendedor... quer dizer, padre de sucesso -- um dos atores monta uma trama que pretende envolver seus amigos e inúmeras pessoas que ele parece conhecer de forma onisciente ou sobrenatural.

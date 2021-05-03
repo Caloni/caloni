@@ -1,9 +1,12 @@
 ---
-date: "2017-08-28"
-link: "https://www.imdb.com/title/tt4158110"
-categories: [ "draft", "series" ]
-title: "Filosofia De Mr Robot"
+categories:
+- draft
+- series
+date: '2017-08-28'
+link: https://www.imdb.com/title/tt4158110
+title: Filosofia De Mr Robot
 ---
+
 Então eis que ergue-se um mundo niilista, até um pouco absurdista, onde o controle é uma ilusão. O sonho de garoto de salvar o mundo encontra novos significados do que é mundo e do que é salvar. Elliot não é apenas multifacetado pela figura de sua família; ele É sua família. E não apenas isso, mas consequência do próprio mundo que ele deseja salvar. Há desafios hercúleos em sua jornada, que parecem intransponíveis para nós, mortais. O que dirá , então, para um hacker esquizofrênico.
 
 Elliot e o mundo que o cerca é a tradução do que estamos vivendo após a crise econômica de 2008. As pessoas estão revoltadas com um mundo criado contra elas. Elliot está revoltado pelo seu pai estar no comando, sendo que ambos estão equivocados. O mundo, em ambos os casos, é apenas reflexo de suas vítimas.

@@ -1,9 +1,11 @@
 ---
-date: "2012-11-25"
-link: "https://www.imdb.com/title/tt0780653"
-categories: [ "movies" ]
-title: "O Lobisomem"
+categories:
+- movies
+date: '2012-11-25'
+link: https://www.imdb.com/title/tt0780653
+title: O Lobisomem
 ---
+
 Desde o início é possível perceber que a fotografia e a direção de arte usadas para narrar a lenda do homem que se transforma em "lobo", ou fera, é de uma beleza ímpar, estetizada ao máximo e que cobre os cenários de maneira quase onírica, já lembrando do caráter lendário do monstro em questão. No entanto, toda essa beleza acaba sendo desperdiçada em uma história pedestre, que transforma os personagens em meras caricaturas, e suas relações absurdas fazem cair abaixo o teor realista da trama.
 
 Narrando o drama de Lawrence Talbot (Benicio Del Toro), que deve retornar à sua terra natal para o enterro do irmão Ben (Simon Merrells) e consequentemente rever o há muito visto pai John (Anthony Hopkins) e de maneira surpreendente sua cunhada Gwen (Emily Blunt), a causa da morte brutal pode ter sido um ser que os nativos acreditam ser um monstro mítico que surge em noites de lua cheia e só pode ser abatido por uma bala de prata (durante quase todo o tempo o nome "lobisomem" não é pronunciado). Assustados pelo visitante daquela família já amaldiçoada pela morte da matriarca (um evento narrado rapidamente nos pensamentos de Lawrence), além da má-vinda comunidade de ciganos, que acampa próximo do vilarejo e cuja cultura alimenta a natureza do suposto monstro.

@@ -1,9 +1,11 @@
 ---
-date: "2014-04-27"
-link: "https://www.imdb.com/title/tt1280011"
-categories: [ "movies" ]
-title: "No Impact Man"
+categories:
+- movies
+date: '2014-04-27'
+link: https://www.imdb.com/title/tt1280011
+title: No Impact Man
 ---
+
 Esse é daqueles documentários ecológicos que se baseia no escritor Colin Beavan e sua família, a esposa compradora compulsória Michelle Conlin e a pequena e inocente filha. Os três passarão um ano cuidando de suas vidas sem tentar causar qualquer impacto ambiental no meio de Nova York. Primeiramente, devo perguntar: o que seria um impacto ambiental para uma família dessas, e por quê?
 
 Aliás, acho que o filme é que deveria fazer essa pergunta em primeiro lugar, já que ele se deixa levar pelas ambições de Colin e seu senso comum do que seria causar algum dano à natureza, como consumir carne, usar eletricidade e papel higiênico. É um ato de protesto, sem dúvida, mas a questão maior é como esse protesto poderia impactar em nossas decisões do dia-a-dia se não há conhecimento o suficiente para embasá-lo?

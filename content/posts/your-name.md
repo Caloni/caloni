@@ -1,9 +1,12 @@
 ---
-date: "2017-10-31"
-link: "https://www.imdb.com/title/tt5311514"
-categories: [ "draft", "movies" ]
-title: "Your Name"
+categories:
+- draft
+- movies
+date: '2017-10-31'
+link: https://www.imdb.com/title/tt5311514
+title: Your Name
 ---
+
 Para os que estão acostumados com os média-metragens do diretor/roteirista Makoko Shinkai, como O Jardim das Palavras, vão perceber uma característica marcante em seu novo trabalho, Your Name: não há aqui uma história completa a ser contada; mas sensações. É a jogada de uma miscelânea de ideias cativantes, como se colocar no lugar do outro, que dá origem à sua essência, que é explorada inúmeras vezes em lindas sequências de animação.
 
 Isso é cinema? De certa forma, sim. Cinema não é apenas utilizar uma história onde de fato existem personagens (mais tarde sobre isso) e coisas acontecem, interligadas de maneira coerente. Vimos nessa Mostra o novo (e último) filme de Abbas Kiarostami onde existem apenas 24 frames, não necessariamente conectados e onde não há personagens que continuam no tempo. Entre esse tipo de cinema experimental e o consagrado drama em três atos idealizado por Aristóteles há um enorme degradê. Não existe regras. Apenas o que funciona melhor.

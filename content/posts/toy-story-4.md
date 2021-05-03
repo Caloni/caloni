@@ -1,10 +1,14 @@
 ---
-date: "2019-06-19"
-link: "https://www.imdb.com/title/tt1979376"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Toy Story 4"
+categories:
+- draft
+- movies
+date: '2019-06-19'
+link: https://www.imdb.com/title/tt1979376
+tags:
+- cinemaqui
+title: Toy Story 4
 ---
+
 Toy Story 4 é a quebra de uma trilogia, e isso é ótimo. Chacoalhando um pouco o universo dos brinquedos mais queridos do Cinema, esta aventura possui duas virtudes bem-vindas dos longas da Pixar: boas ideias e mudanças de personagens.
 
 A história gira em torno de uma curiosa e engraçada espécie de crise de meia-idade de Woody, o brinquedo favorito de Andy, mas que agora nas mãos da pequena Bonnie não está mais recebendo atenção. A partir da necessidade obsessiva do vaqueiro da Pixar em fazer parte da vida de Bonnie somos apresentados a novos brinquedos e uma nova aventura, dessa vez com um grupo mais coeso.

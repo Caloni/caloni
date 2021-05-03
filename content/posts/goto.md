@@ -1,9 +1,11 @@
 ---
-date: "2019-05-28"
-link: "https://github.com/Caloni/goto"
-categories: [ "code" ]
-title: "C Resolve Tudo: goto"
+categories:
+- code
+date: '2019-05-28'
+link: https://github.com/Caloni/goto
+title: 'C Resolve Tudo: goto'
 ---
+
 Para quem decide usar a linguagem C para resolver tudo, a gota da água é o goto. Ele é flexível, cabe em (quase) qualquer ponto do código e tem 1001 utilidades. O goto é o bombril da engenharia de software.
 
 O uso mais simples dessa importante construção da linguagem é pular de um ponto para outro do código em que esses pontos não estão diretamente relacionados, como geralmente ocorre, como sair de um laço, não entrar em um if ou selecionar um case do switch (lembrando que no caso do case do switch ele é no fundo um goto disfarçado).

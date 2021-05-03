@@ -1,9 +1,12 @@
 ---
-date: "2017-04-26"
-link: "https://www.imdb.com/title/tt5706996"
-categories: [ "draft", "series" ]
-title: "Girlboss - Primeira Temporada"
+categories:
+- draft
+- series
+date: '2017-04-26'
+link: https://www.imdb.com/title/tt5706996
+title: Girlboss - Primeira Temporada
 ---
+
 Girlboss é uma história sobre os desafios do empreendedorismo. A série pega muito leve nos obstáculos, porque isso é EUA, e isso é Califórnia (se fosse no Brasil não existiria história, provavelmente). Seu núcleo gira em torno de uma menininha que, assim como quase todos nós, ainda não achou seu lugar no mundo, mas parece finalmente ter entendido o sentido da vida: tornar as pessoas felizes. E ela faz isso do seu jeito, reconfigurando roupas usadas (consideradas "vintage"), e não chama o que ela faz de negócio, mas de outra coisa. Caia na real, menina: você é uma capitalista malvadona!
 
 Sim, poucas pessoas hoje em dia conhecem o significado da palavra capitalismo, exceto o "capetalismo" pintado por ativistas políticos interessados no seu dinheiro (e seus milhões de seguidores acéfalos), mas ele se constitui pura e simplesmente por trocas voluntárias. Elas acontecem para que a situação de vida dos envolvidos na troca melhore. Se não melhorar para todos os envolvidos, a troca nunca aconteceria. Simples assim. E a empreendedora (real) Sophia Christina Amoruso, ao criar a marca "Nasty Gal Vintage", realiza justamente isso: troca seus serviços de busca e entrega (aliada a um senso estético que agrada seus clientes e desagrada fervorosamente seus concorrentes, materializados por lojas que consideram a moda vintagem intocável, digna de ser guardada em uma caixa por séculos. Mas, convenhamos, a caricatura criada pela série para isso, a falastrona Gail (pela ótima Melanie Lynskey), nem o grupinho que com ela formam um fórum na internet (o episódio em que eles se reúnem é ao mesmo tempo hilário e bizarro), conseguem convencer como realista.

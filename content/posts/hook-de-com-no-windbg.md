@@ -1,8 +1,10 @@
 ---
-date: "2007-09-18"
+categories:
+- code
+date: '2007-09-18'
 title: Hook de COM no WinDbg
-categories: [ "code" ]
 ---
+
 Continuando com o tema hooks no WinDbg vamos aqui "hookear" e analisar as chamadas de métodos de um objeto COM. O que será feito aqui é o mesmo experimento feito para uma palestra de engenharia reversa que apresentei há um tempo atrás, mas com as opções de pause, rewind, replay e câmera lenta habilitadas.
 
 Antes de começar, se você não sabe nada sobre COM, não deveria estar aqui, mas nunca é tarde para aprender. Pra começar, vamos dar uma olhada na representação da interface IUnknown em UML e em memória:

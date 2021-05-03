@@ -1,8 +1,10 @@
 ---
-date: "2010-05-19"
-categories: [ "code" ]
-title: "Analogicamente perfeito"
+categories:
+- code
+date: '2010-05-19'
+title: Analogicamente perfeito
 ---
+
 É possível explicar tudo no mundo da informática através de analogias? Pela minha singela experiência de professor informal, eu acredito que sim. Durante esses dois anos, explanei diversos assuntos e, em todos eles, difíceis ou não, consegui um certo grau de sucesso graças ao uso de metáforas e parábolas.
 
 De memória (ou buscando no meu blogue) consigo lembrar alguns tópicos e a forma como os expliquei. Em alguns até fiz um artigo sobre o assunto:

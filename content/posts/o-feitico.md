@@ -1,9 +1,12 @@
 ---
-date: "2019-06-22"
-link: "https://www.imdb.com/title/tt0168734"
-categories: [ "draft", "movies" ]
-title: "O Feitiço"
+categories:
+- draft
+- movies
+date: '2019-06-22'
+link: https://www.imdb.com/title/tt0168734
+title: O Feitiço
 ---
+
 Um épico em uma pequena história do século 20 no México. Pré-adolescentes descobrindo as delícias do sexo com mulheres maduras. A história econômica e política da região do ponto de vista dos trabalhadores. E tudo isso gira em torno de um suposto feitiço.
 
 Há um fascínio pelo desconhecido, seja uma simpatia de um ancião ou um rádio de onde se ouve vozes, mas a maioria tem que ganhar o dia e está alheia a tudo isso. Este é quase um Baaria do México, que pega um protagonista e através dele passamos por dez anos de História. E que deve ter custado doze vezes menos.

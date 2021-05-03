@@ -1,9 +1,11 @@
 ---
-date: "2012-12-17"
-link: "https://www.imdb.com/title/tt0903624"
-categories: [ "movies" ]
-title: "O Hobbit: Uma Jornada Inesperada"
+categories:
+- movies
+date: '2012-12-17'
+link: https://www.imdb.com/title/tt0903624
+title: 'O Hobbit: Uma Jornada Inesperada'
 ---
+
 Baseado no romance de 310 páginas escrito por J. R. R. Tolkien, conhecido aqui no Brasil como O Hobbit - Lá e de Volta Outra Vez, e dirigido por Peter Jackson (trilogia Senhor dos Anéis), a história do pequeno hobbit em sua jornada na companhia de 13 anões e um mago foi dividida em três filmes. Esse texto diz respeito ao primeiro deles, "Uma Jornada Inesperada".
 
 A introdução que conta a história da montanha habitada por anões e que é subitamente atacada por um gigantesco dragão (Smaug) é sucinta e não desperta o mesmo fervor da fábula épica iniciada em Senhor dos Anéis - A Sociedade do Anel. Da mesma forma a solução apresentada pelo roteiro escrito a oito mãos (!) para que o jovem Bilbo Bolseiro (Martin Freeman, [Sherlock]) participe da empreitada junto com os anões que decidiram reconquistar sua terra soa desproporcional à sua vontade de viver uma aventura. Isso por si só enfraquece toda a premissa. (E depois que este quinto hobbit aceita sair do conforto do seu condado para viver agruras na inóspita Terra Média, começo a duvidar do caráter caseiro dessas curiosas criaturas.)

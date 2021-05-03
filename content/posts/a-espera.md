@@ -1,10 +1,14 @@
 ---
-date: "2017-01-16"
-link: "https://www.imdb.com/title/tt3715122"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Espera"
+categories:
+- draft
+- movies
+date: '2017-01-16'
+link: https://www.imdb.com/title/tt3715122
+tags:
+- cinemaqui
+title: A Espera
 ---
+
 A Espera é um filme que mergulha fundo no tema da morte de um filho. Tão fundo quanto a mitologia cristã. Para isso ele entende que é imprescindível a figura de Juliette Binoche, que não é uma madre italiana, o que pode tornar a mensagem confusa ou universal. De qualquer forma, ela manda bem, e as expressões dos seus exuberantes olhos contidos em um rosto envelhecido, mas ainda lindo, faz boa parte do trabalho do diretor italiano Piero Messina valer a pena.
 
 Há uma estética melancólica ao mesmo tempo que moderna no filme, que usa e abusa de construções visuais incrementadas por uma música que mistura o pop e o sagrado. Podemos ver isso em seus próprios personagens. Jeanne (Lou de Laâge) é uma jovem francesinha que viaja com uma mala na mão para encontrar seu namorado italiano. Ela fala melhor italiano do que sua sogra e anfitriã Anna (Binoche) quando esta chegou à Itália, na Sicília. E Pietro (Giorgio Colangeli), o empregado de Anna, é tudo que há de ainda mais sagrado. O italiano verdadeiro, a ponte entre o moderno e o clássico, que não consegue (assim como nós) entender o que está acontecendo com esse mundo feito de mentira criado pela sua patroa em um luto que insiste em resistir, nem que seja até o terceiro dia.

@@ -1,9 +1,11 @@
 ---
-date: "2020-04-05"
-link: "https://www.imdb.com/title/tt0140888"
-categories: [ "movies" ]
-title: "Central do Brasil"
+categories:
+- movies
+date: '2020-04-05'
+link: https://www.imdb.com/title/tt0140888
+title: Central do Brasil
 ---
+
 Eu acho que não gosto muito desses filmes da retomada do cinema brasileiro. Prefiro as pornochanchadas, mais honestas, menos desconexas com a realidade. Esse filme estilizado ainda mantém um pé muito forte no "cinematográfico" de Hollywood, mas não apara as arestas de uma cópia do que considera ser cinematográfico (essa palavra no sentido de vendável lá fora).
 
 Seu diretor, Walter Salles, brilha nas paisagens, na mise en scène panorâmica, como pode se ver em [Na Estrada], tantos anos depois. Já para caracterizar seus personagens, ele patina feio, é ausente, e seu elenco está tão livre que é como se seus personagens não existissem, fossem borrões teatrais ou novelescos. Ao mimar seu elenco ele rouba do filme a possibilidade de atuações marcantes.

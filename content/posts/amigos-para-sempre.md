@@ -1,10 +1,14 @@
 ---
-date: "2018-12-19"
-link: "https://www.imdb.com/title/tt1987680"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Amigos Para Sempre"
+categories:
+- draft
+- movies
+date: '2018-12-19'
+link: https://www.imdb.com/title/tt1987680
+tags:
+- cinemaqui
+title: Amigos Para Sempre
 ---
+
 Bom, Amigos Para Sempre é um filme impossível de não ser comparado com o seu original, Intocáveis. Aliás, a primeira pergunta que surge é: por que refazer um trabalho magnífico (e recente) e entregar algo que estará sempre à sombra de seu antecessor? A segunda pergunta é: por que Kevin Hart e Bryan Cranston no elenco?
 
 Essas perguntas surgem porque os trabalhos de Omar Sy e François Cluzet criam uma dinâmica tocante desde a primeira cena, que revela a cumplicidade entre os dois, algo primordial para todo o filme que segue para entendermos como surgiu essa inesperada amizade. Em Amigos Para Sempre essa questão não existe, o que já não justifica o flashback de seis meses atrás. A cena é a mesma, mas ela não tem o mesmo efeito. Aliás, o título original e traduzido do filme francês não precisa mencionar a amizade entre os dois porque ela é óbvia. No remake o título brasileiro (no original é The Upside) tenta claramente tentar remendar o serviço nos dizendo sobre o quê a história deveria tratar.

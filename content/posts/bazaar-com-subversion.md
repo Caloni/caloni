@@ -1,8 +1,11 @@
 ---
-date: "2011-03-23"
+categories:
+- draft
+- blog
+date: '2011-03-23'
 title: Bazaar com Subversion
-categories: [ "draft", "blog" ]
 ---
+
 Para pessoas que ficaram viciadas em commits curtos e todo o histórico do fonte na própria máquina, foi uma surpresa descobrir que com o uso do plugin [bzr-svn](http://doc.bazaar.canonical.com/latest/en/user-guide/svn_plugin.html) (já incluso no pacote de instalação), consigo ainda utilizar o Bazaar, mesmo que agora esteja trabalhando com um branch do Subversion.
 
 Na verdade, melhor ainda: o bzr-svn baixa o SVN trunk com todo o histórico na máquina local, como se fosse um branch do próprio Bazaar, e permite a criação de branches desconectados para pequenos commits e o merge final para o servidor SVN.

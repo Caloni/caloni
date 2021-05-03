@@ -1,10 +1,14 @@
 ---
-date: "2016-02-17"
-link: "https://www.imdb.com/title/tt4284010"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "What Happened, Miss Simone?"
+categories:
+- draft
+- movies
+date: '2016-02-17'
+link: https://www.imdb.com/title/tt4284010
+tags:
+- cinemaqui
+title: What Happened, Miss Simone?
 ---
+
 "What Happened, Miss Simone" é uma coletânea de depoimentos, entrevistas, colagens de fotos e performances que, a despeito de seguir uma ordem cronológica certinha, consegue se tornar uma montanha-russa de emoções e pensamentos acerca da vida da artista e ativista Nina Simone. E mesmo criando um fechamento mais que convencional, desperta em seu final a sensação de que conhecemos talvez menos de 10% do que foi a música, cantora e ativista.
 
 Mais um filme produzido pela Netflix, que vem se mostrando um foco de documentários com conteúdo riquíssimo, a direção de Liz Garbus (Bobby Fischer Against the World) deixa claro desde o começo que irá dramatizar pesadamente na carreira da artista, que começa já criança tocando piano na igreja onde sua mãe realizava sessões religiosas para os negros da região. Descoberta por uma professora de piano branca, a pequena Eunice Kathleen Waymon recebe uma tutora e já coloca um sonho em sua mente: se tornar a primeira pianista negra de música clássica.

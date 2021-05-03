@@ -1,9 +1,11 @@
 ---
-date: "2020-12-06"
-link: "https://www.imdb.com/title/tt0133093"
-categories: [ "blog" ]
-title: "Transmatrix"
+categories:
+- blog
+date: '2020-12-06'
+link: https://www.imdb.com/title/tt0133093
+title: Transmatrix
 ---
+
 Os irmãos Wachowski hoje são irmãs. Ambos passaram por cirurgias de mudança de sexo. Recentemente, durante entrevistas sobre a produção de Matrix 4, foi comentado por uma delas que o primeiro Matrix era uma alegoria sobre transexualidade.
 
 De fato. Ao reassistir com essa visão é possível observar a dedicação dos diretores em mostrar o esforço sobrehumano do resgate de Neo. Antes de ser abduzido pela nave comandada por Morpheus ele era um ser do underground sem nenhuma marca de injeção de drogas ou substâncias alteradoras de humor. Logo após isso vemos o lento e doloroso processo em transformá-lo em um ser humano funcional fora da realidade virtual mantida pelas máquinas. Ele possui vários orifícios em torno do corpo, nos membros e tórax, sendo o principal deles, o mais sensível, na nuca, em uma conexão direta com o cérebro.

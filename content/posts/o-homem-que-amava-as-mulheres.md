@@ -1,9 +1,11 @@
 ---
-date: "2020-05-04"
-link: "https://www.imdb.com/title/tt0076155"
-categories: [ "movies" ]
-title: "O Homem Que Amava as Mulheres"
+categories:
+- movies
+date: '2020-05-04'
+link: https://www.imdb.com/title/tt0076155
+title: O Homem Que Amava as Mulheres
 ---
+
 Truffault, cineasta francês, começa bem essa comédia/drama sobre um homem apaixonado por pernas femininas e que não consegue resistir a tentar ser um Don Juan de Paris. As mulheres simplesmente se apaixonam pelo seu lindo e grande nariz, e vamos acompanhando sua história póstuma ao mesmo tempo que descobrimos ele ser o autor de um livro cujo nome é o mesmo do filme.
 
 Uma análise até que interessante da psiquê dos relacionamentos, sobretudo os abertos, Truffault torna tudo muito simples, mas não tão simples quanto Éric Rohmer, seu conterrâneo, que coloca em relevo a natureza humana, acima das tecnicidades de um roteiro.

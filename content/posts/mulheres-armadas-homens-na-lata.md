@@ -1,10 +1,14 @@
 ---
-date: "2019-08-05"
-link: "https://www.imdb.com/title/tt8083606"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Mulheres Armadas, Homens na Lata"
+categories:
+- draft
+- movies
+date: '2019-08-05'
+link: https://www.imdb.com/title/tt8083606
+tags:
+- cinemaqui
+title: Mulheres Armadas, Homens na Lata
 ---
+
 Um espectro sonda a Europa -- o espectro do feminismo. Todas as nações europeias já o estão conjurando, sobretudo a França. Mulheres Armadas, Homens na Lata é o resultado. Um filme leve, dinâmico, divertido e que se tem uma preocupação que seja, é fazer essas garotas saírem por cima a qualquer custo.
 
 Sua história e sua direção querem evocar os westerns pausterizados de nível B, como a música "Bang Bang (You Shot Me Down)" que nos faz lembrar, ainda que em sua versão de Parabellum, de Kill Bill, outro que bebe dos westerns, além do filmes de samurai. Porém, tanto em Kill Bill quanto Mulheres Armadas sua produção é rica demais para conseguir "disfarçar". O diretor Allan Mauduit eleva um roteiro nada original que escreveu com Jérémie Guez além do que poderíamos imaginar lendo-o quando ele consegue inverter os papéis de gênero sem soar deslocado da realidade, e entrega comédia, ação e até um pouco de drama na medida certa.

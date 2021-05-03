@@ -1,6 +1,8 @@
 ---
-date: "2017-01-10"
-categories: [ "food" ]
-title: "Quantum Classic Ruby Red Blend Merlot/Pinotage/Ruby Cabernet África do Sul"
+categories:
+- food
+date: '2017-01-10'
+title: Quantum Classic Ruby Red Blend Merlot/Pinotage/Ruby Cabernet África do Sul
 ---
+
 Oleoso, pouco tânico, mas amadeirado no aroma; frutas vermelhas, vibrante e quente sempre.

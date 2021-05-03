@@ -1,8 +1,11 @@
 ---
-date: "2021-01-02"
-categories: [ "draft", "blog" ]
-title: "Resoluções 2021"
+categories:
+- draft
+- blog
+date: '2021-01-02'
+title: Resoluções 2021
 ---
+
 Inspirado no [post que vi] de meu amigo DQ sobre resoluções de ano-novo, algo que ele já vem fazendo desde 2007 (impressionante), resolvi compartilhar um pouco neste post sobre minhas resoluções de 2020. Na verdade não costumo fazer isso, mas ao passar a virada de 2019 para 2020 na casa de outro amigo, ele e sua esposa vieram com um presente e uma ideia para todo o grupo na ocasião: um caderno e uma caneta. Cada um deveria preencher nas primeiras folhas do caderno o que pretendia fazer durante o ano que se inicia. Algo mais ou menos assim, eu provavelmente já estava bêbado o suficiente para não me lembrar dos detalhes.
 
 Hoje abro nesse momento o caderno cuja primeira página havia preenchido e nunca mais olhado. Eis a minha pequena lista:

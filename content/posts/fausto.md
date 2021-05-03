@@ -1,9 +1,11 @@
 ---
-date: "2012-07-27"
-link: "https://www.imdb.com/title/tt1437357"
-categories: [ "movies" ]
-title: "Fausto"
+categories:
+- movies
+date: '2012-07-27'
+link: https://www.imdb.com/title/tt1437357
+title: Fausto
 ---
+
 Novo filme de Aleksandr Sokurov, mestre em expor a alma humana de uma maneira não-convencional, vide [Mãe e Filho] ou [Moloch], Fausto transforma a lenda do homem e do romance homônimos em um apanhado dramático que, coeso em sua história principal, nunca nos revela o suficiente para se tornar a velha história clichê do homem que venda a alma ao diabo para obter conhecimento. Pelo contrário: ousado em sua estrutura, subverte a lenda e consegue transplantar sua visão de maneira igualmente satisfatória.
 
 Ao contar a história da controversa figura do cientista/místico misturando aspectos históricos, teatrais e literários, o roteiro de Sokurov e Marina Koreneva (Moloch) consegue atrelar diferentes dimensões ao seu drama, ao mesmo tempo que já o transforma em um ser multifacetado e desiludido de todos os lados. A fotografia fria, apesar de belíssima, evoca esse clima triste e depressivo, ao mesmo tempo que só é iluminado pela visão de sua amada Margarete (Isolda Dychauk, e que participa de uma sequência irretocável de troca de olhares).

@@ -1,9 +1,11 @@
 ---
-date: "2012-12-23"
-link: "https://www.imdb.com/title/tt0110912"
-categories: [ "movies" ]
-title: "Pulp Fiction: Tempo de Violência"
+categories:
+- movies
+date: '2012-12-23'
+link: https://www.imdb.com/title/tt0110912
+title: 'Pulp Fiction: Tempo de Violência'
 ---
+
 Segundo trabalho de Quentin Tarantino ([Cães de Aluguel], [Kill Bill]), Pulp Fiction é seu filme com o roteiro mais intenso, e talvez um dos melhores representantes do seu gênero no quesito introduzir perigosos criminosos em seu dia-a-dia.
 
 Mas qual é o significado de Pulp Fiction? Ora, o próprio Tarantino explica no início, colocando a descrição literal do dicionário American Heritage após acompanharmos um diálogo de um casal que decide assaltar o restaurante onde estão tomando café-da-manhã:

@@ -1,8 +1,11 @@
 ---
-date: "2017-02-09"
-categories: [ "code", "draft",  ]
-title: "UEFI: dê adeus à MBR"
+categories:
+- code
+- draft
+date: '2017-02-09'
+title: 'UEFI: dê adeus à MBR'
 ---
+
 Após depurar a BIOS e a MBR, eis que surge a UEFI: os GUIDs para SOs instalados no seu HD. Quantas siglas, não é mesmo?
 
 A BIOS (Basic Input/Output System, Sistema Básico de Entrada e Saída) é o sistema-base que se comunica com o hardware diretamente e faz a ponte entre várias interrupções e o sistema operacional (se houver um). Uma das funções iniciais da BIOS era encontrar qual a MBR (Master Boot Record, Registro do Boot Mestre) válida para entregar o controle de um pedaço de código de 512 bytes (um pouco menos) cuja função clássica era procurar em uma tabela de quatro entradas dentro dela mesma qual o SO que está ativo. A partir daí o código da MBR passava o controle para a MBR da partição ativa, que deveria conter o bootstrap do sistema operacional (naquela época bootstrap significava outra coisa).

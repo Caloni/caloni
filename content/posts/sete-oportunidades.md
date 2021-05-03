@@ -1,9 +1,11 @@
 ---
-date: "2015-09-17"
-link: "https://www.imdb.com/title/tt0016332"
-categories: [ "movies" ]
-title: "Sete Oportunidades"
+categories:
+- movies
+date: '2015-09-17'
+link: https://www.imdb.com/title/tt0016332
+title: Sete Oportunidades
 ---
+
 Seven Chances é um filme de uma hora de Buster Keaton que mais uma vez consegue a proeza de contar uma história datada, fútil e banal da maneira mais prosaica, mais hilária e mais movimentada possível.
 
 Aqui ele é James Shannon, um homem de negócios à beira da falência e que recebe uma herança inesperada de seu avô, desde que ele atenda uma condição: estar casado até a data de seu aniversário de 27 anos às 19 horas.

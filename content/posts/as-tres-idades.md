@@ -1,9 +1,11 @@
 ---
-date: "2015-09-18"
-link: "https://www.imdb.com/title/tt0014538"
-categories: [ "movies" ]
-title: "As Três Idades"
+categories:
+- movies
+date: '2015-09-18'
+link: https://www.imdb.com/title/tt0014538
+title: As Três Idades
 ---
+
 Three Ages é o primeiro longa-metragem de Buster Keaton, um dos comediantes mais geniais do início do Cinema, se não um dos mais geniais do Cinema em si. Diretor, ator, produtor e roteirista, Keaton sempre com seu jeito sisudo conquistava o público como resultado indireto de sua competência em narrar suas aventuras em diferentes histórias e, ao contrário de Charles Chaplin, com diferentes personagens.
 
 Aqui ele realiza uma espécie de paródia do filme "Intolerância", o filme que D.W. Griffith fez para apagar sua má imagem do seu racista "O Nascimento de uma Nação". Ao defender que o Amor é a força motriz do Mundo, narra três diferentes histórias em três épocas distintas, mas com detalhes similares: A Pré-História, o Império Romano e os tempos atuais. Vai intercalando as três conforme avança na tentativa de um garoto "inapropriado" (Keaton) conquistar e ficar com sua amada, a despeito do pretendente mais capaz.

@@ -1,10 +1,14 @@
 ---
-date: "2019-09-13"
-link: "https://www.imdb.com/title/tt1206885"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Rambo: Até o Fim"
+categories:
+- draft
+- movies
+date: '2019-09-13'
+link: https://www.imdb.com/title/tt1206885
+tags:
+- cinemaqui
+title: 'Rambo: Até o Fim'
 ---
+
 "Rambo: Até o Fim" fecha o ciclo iniciado por "Rambo - Programado Para Matar", primeiro filme de cinco que usaram o ex-soldado do Vietnã traumatizado que usa com certo prazer suas habilidades de guerra em civis. E ele encerra nos mesmos moldes do filme anterior, de 2008: brutal e sanguinário a ponto de questionarmos até que ponto tudo isso é justificável.
 
 Nunca entendi muito bem a mensagem por trás de Rambo: justiceiro com habilidades especiais, ele derruba policiais corruptos e cartéis de drogas, e muitas vezes exagerando na dose de como ele faz isso. E tudo sozinho. Esse exagero se tornou a marca registrada do controverso herói no cinema. Ele envelheceu, mas nunca mudou.

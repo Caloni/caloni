@@ -1,9 +1,12 @@
 ---
-date: "2016-09-08"
-link: "https://www.imdb.com/title/tt0488085"
-categories: [ "draft", "movies" ]
-title: "Grande Coisa"
+categories:
+- draft
+- movies
+date: '2016-09-08'
+link: https://www.imdb.com/title/tt0488085
+title: Grande Coisa
 ---
+
 Lembra aquelas comédias meio-thriller, meio-policial e meio-pastelão(?!?). Pois é, em "Grande Coisa", isso foi pasteurizado, talvez "reimaginado", e se tornou uma trama pseudo-complexa sobre uma série de acontecimentos inesperados recheados de mentiras deslavadas e reviravoltas impossíveis, a ponto de duvidarmos se tudo aquilo poderia fazer sentido em um filme menos... retardado.
 
 A questão é que não há muito o que fazer para tornar este filme interessante, e talvez por isso mesmo o diretor/roteirista Jean-Baptiste Andrea tenha decidido extravasar todos os clichês de uma vez só. Por isso a história começa como um golpe que seria aplicado pelo escorregadio Gus (Simon Pegg), o mau-caráter bem-intencionado Charlie (David Schwimmer) e a intrometida Josie (Alice Eve) e se transforma em uma análise sobre como selecionar melhor seus parceiros no crime. Especialmente se você está entrando agora nessa área.

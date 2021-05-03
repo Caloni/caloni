@@ -1,10 +1,14 @@
 ---
-date: "2018-07-17"
-link: "https://www.imdb.com/title/tt6515342"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Doutor da Felicidade"
+categories:
+- draft
+- movies
+date: '2018-07-17'
+link: https://www.imdb.com/title/tt6515342
+tags:
+- cinemaqui
+title: O Doutor da Felicidade
 ---
+
 Eu entendo o porquê do lançamento de O Doutor da Felicidade ser direto para streaming: se trata de um filme com um quê televisivo, de baixa produção, e que não tenta esconder isso. O que eu não entendo é um ator com o carisma e talento de Omar Sy acabar participando deste projeto, sendo que ele próprio nos prova, através de uma cena linda perto do final do filme (você irá reconhecê-la pela frase "onde está o crime?" e pela possível referência a "M, O Vampiro de Dusseldorf"), que é capaz de participar de dramas mais formatadinhos.
 
 Bom, estou constatando o óbvio, você que já o viu em Intocáveis, Samba, Chocolate, apenas para citar os onde ele aparece mais. Realizando uma escalada admirável em sua carreira, quase sempre preocupado em extrair o máximo de expressividade e carisma empacotados em uma força de vontade contagiosa (mesmo que ele esteja fazendo um imigrante ilegal à beira de passar fome), o ator francês tem potencial para percorrer os mesmos caminhos que uma Juliette Binoche percorreu ao longo das décadas, mesclando produções hollywoodianas com trabalhos mais intimistas.

@@ -1,10 +1,13 @@
 ---
-date: "2015-06-08"
-link: "https://www.imdb.com/title/tt3324494"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Na Próxima, Acerto o Coração"
+categories:
+- movies
+date: '2015-06-08'
+link: https://www.imdb.com/title/tt3324494
+tags:
+- cinemaqui
+title: Na Próxima, Acerto o Coração
 ---
+
 "Na Próxima..." é uma imersão quase que completa na vida de um psicopata. Seria muito melhor se fosse completa. Infelizmente, mais uma vez, Guillaume Canet encara retratar um crápula da vida real, e a âncora dos fatos como estão nos depoimentos das pessoas envolvidas segura parte da poesia implícita nos momentos mais reflexivos de um thriller bem movimentado.
 
 Ambientado nos anos 70, a história do policial/psicopata Franck Neuhart (baseado na biografia de Alain Lamare) é descrito no letreiro inicial como "um dos mais estranhos casos da polícia francesa", automaticamente aumentando a expectativa do público (um artifício duvidoso para criar boas impressões sobre o filme). Para "compensar", realiza uma rima das mais elegantes que une começo e final através de um olhar tão enigmático quanto significativo.

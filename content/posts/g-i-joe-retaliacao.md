@@ -1,9 +1,11 @@
 ---
-date: "2013-04-04"
-link: "https://www.imdb.com/title/tt1583421"
-categories: [ "movies" ]
-title: "G.I. Joe: Retaliação"
+categories:
+- movies
+date: '2013-04-04'
+link: https://www.imdb.com/title/tt1583421
+title: 'G.I. Joe: Retaliação'
 ---
+
 Na cena inicial de "G.I. Joe: Retaliação" (que nomezinho) o comandante de uma missão (Dwayne Johnson) que precisa adentrar uma zona militar da Coreia do Norte ao lado de uma guarita vigiada em uma quase total escuridão resolve derreter a cerca de arame e formar um círculo de fogo que provavelmente poderia ser avistado a uns dois quilômetros. Essa introdução espetacular do grupo de operações especiais secreta do governo norte-americano, os chamados G.I. Joes, é o bastante para termos certeza que nada do que aparecer diante de nós deve ser levado a sério.
 
 Como um dos representantes do gênero "filmes baseados em brinquedos", assim como Transformers e Battleship, a saga protagonizada por bonecos de plástico e carrinhos irados da Hasbro consegue ao menos contar uma história simples com começo, (longo) meio e fim enquanto exibe no meio do caminho um conjunto de armas e veículos completamente desvinculados da realidade (meu exemplo favorito e menção honrosa é um tanque que parece querer voar). A graça da coisa reside em pensar nos seus heróis musculosos e com coragem suicida como os próprios bonecos de plástico que os inspiraram, manipulados por um garoto megalomaníaco de comercial de TV.

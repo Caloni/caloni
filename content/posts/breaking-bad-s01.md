@@ -1,9 +1,12 @@
 ---
-date: "2016-07-16"
-link: "https://www.imdb.com/title/tt0903747"
-categories: [ "draft", "series" ]
-title: "Breaking Bad - Primeira Temporada"
+categories:
+- draft
+- series
+date: '2016-07-16'
+link: https://www.imdb.com/title/tt0903747
+title: Breaking Bad - Primeira Temporada
 ---
+
 Sabemos desde o início do seriado que há algo de novo, muito novo, na televisão. Através da figura de um pacato professor de química que descobre ter câncer e que será pai novamente enxergamos aos poucos a relativação da moral quando Walter White decide produzir drogas usando seu conhecimento e sua recém necessidade de zelar pelo futuro de sua família. Através dessa história inicial somos levados ao mundo do crime e como ele pode ser bem menos glamoroso do que imaginamos, mas também bem menos assustador do que nos contam. O mais fascinante durante todo o ciclo de ascensão e decadência de um ser humano qualquer é que percebemos como a força motriz que move o homem não necessariamente precisa passar pela aprovação do bem moral vigente. Isso não existe na cabeça dos que fazem o que admiramos. Apenas os fins são capazes de justificar seus mais loucos atos. Fins esses que começaram de forma nobre.
 
 Desde o começo há um discurso libertário. E não estou falando apenas de governo, mas de todas as amarras sociais que, se de vez em quando são úteis, na maioria do tempo aprisiona e limita o espírito humano. Breaking Bad fala da quebra de todas essas amarras, uma a uma.

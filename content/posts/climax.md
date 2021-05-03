@@ -1,9 +1,12 @@
 ---
-date: "2019-02-06"
-link: "https://www.imdb.com/title/tt8359848"
-categories: [ "draft", "movies" ]
-title: "Clímax"
+categories:
+- draft
+- movies
+date: '2019-02-06'
+link: https://www.imdb.com/title/tt8359848
+title: Clímax
 ---
+
 Eu me mantenho em forma o suficiente para subir escadas sem cansar e não ser um total vexame na cama. E posso dizer para família e amigos que cuido de minha saúde, em corpo e espírito. Como costumam dizer, eu me preocupo com meu bem estar. Mas quem são esses jovens de corpos sarados, e por que há tanta mágoa em seus corações? A mente e o corpo são uma unidade. Um templo. Assim como a escola é um templo do conhecimento. E quando se profana esse templo tudo é permitido. Mas nada nos convém.
 
 O diretor Gaspar Noé nos prepara um delírio em forma de filme. Ele usa alguns truques técnicos que sabe usar com maestria, como movimentos de câmera suaves que mudam o ângulo enquanto filmam, com pouquíssimos cortes para manter a tensão do realismo pulsando. Somos avisados no começo que o que veremos foi baseado em eventos reais, e isso ajuda a manter um equilíbrio doentio em muitos momentos entre prazer estético e mal estar.

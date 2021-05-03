@@ -1,9 +1,12 @@
 ---
-date: "2018-04-11"
-link: "https://www.imdb.com/title/tt1677720"
-categories: [ "draft", "movies" ]
-title: "Jogador No. 1"
+categories:
+- draft
+- movies
+date: '2018-04-11'
+link: https://www.imdb.com/title/tt1677720
+title: Jogador No. 1
 ---
+
 Se antes filmes medíocres de Spielberg poderiam contar com a sua emoção e carisma em conduzir uma história para subir sua média próxima do aceitável, em Jogador Número 1 esse efeito inexiste, pois estamos lidando com fantasmas sem alma como os heróis de um jogo cujas consequências na vida real já foram preguiçosamente definidas antes do jogo começar.
 
 Por outro lado, imagino que impacto este filme terá para as futuras gerações, estas sim, já aprisionadas em um verdadeiro beco sem saída, incapazes de sentir qualquer coisa e optantes por isso, ignorando um mundo desagradável demais para suas timelines. Não que as pessoas já não façam isso, ansiosas por sentimentos explosivos artificiais todo o tempo, seja através de comida, vídeo-games ou de filmes como esse. Porém, a tecnologia tem tornado cada vez mais simples colocarmos nossos óculos da ignorância, a ponto de um dia a tecnologia em si ser mais humana do que a espécie que a utiliza.

@@ -1,9 +1,12 @@
 ---
-date: "2015-07-28"
-link: "https://www.imdb.com/title/tt2616280"
-categories: [ "draft", "series" ]
-title: "Derek"
+categories:
+- draft
+- series
+date: '2015-07-28'
+link: https://www.imdb.com/title/tt2616280
+title: Derek
 ---
+
 Derek é uma série britânica totalmente dirigida e roteirizada, além de ser protagonizada, pelo comediante Ricky Gervais. Seu personagem é a espinha dorsal e moral de um lar para idosos orquestrado pela perseverante Hanna (Kerry Godliman). A câmera trabalha da mesma forma com que seu trabalho em The Office (o britânico original), como se estivessem filmando um documentário e mesmo assim as pessoas fossem elas mesmas. É um formato popular, também usado em Parks and Recreation e copiado no The Office americano. Possui no momento apenas uma temporada com seis episódios de 20 minutos cada, o que no fundo dá um filme de duas horas.
 
 E é um dos seriados mais fofos atualmente.

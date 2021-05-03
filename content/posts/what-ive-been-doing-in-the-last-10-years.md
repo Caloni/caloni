@@ -1,8 +1,11 @@
 ---
-date: "2009-08-17"
-categories: [ "code", "draft",  ]
-title: "What I've been doing in the last 10 years"
+categories:
+- code
+- draft
+date: '2009-08-17'
+title: What I've been doing in the last 10 years
 ---
+
 This week I dedicate myself to update my resumè and I have the brilliant idea of put into it my technical historical, what resuming is a list of things I did or was involved with during my brief ten years stay in the programming world.
 
 So I thought: "this could be useful to the people read me". Why not? Perhaps you got some doubt waiting to be solved and is unable to find a guy who knows something about this. Perhaps this fork guy even exists and has a blog where he could share some knowledge that is stuck in that empty programmer head.

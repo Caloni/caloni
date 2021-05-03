@@ -1,9 +1,12 @@
 ---
-date: "2016-10-23"
-link: "https://www.imdb.com/title/tt5497778"
-categories: [ "draft", "series" ]
-title: "Black Mirror - S03E01 - Nosedive"
+categories:
+- draft
+- series
+date: '2016-10-23'
+link: https://www.imdb.com/title/tt5497778
+title: Black Mirror - S03E01 - Nosedive
 ---
+
 É muito bom ter o Black Mirror de volta na Netflix, com episódios novos. Nenhum me desapontou até agora, tanto pelos aspectos técnicos, narrativos, mas, principalmente: em fazer pensar. E esse nos faz pensar apesar da ideia óbvia: redes sociais. Todas juntas, na vida "real", fazendo as pessoas se esforçarem por aumentar suas notas, sua popularidade. Tudo depende disso. E no caso, o tudo é uma vida cercada de mentiras. Como não amar uma série como essas?
 
 Black Mirror tem esfregado a realidade na cara do espectador já faz três temporadas agora. Agora ele conta a história de Lacie, uma garota solteira que vive com o irmão e que precisa se tornar extremamente popular rapidamente para conseguir mudar para a casa de seus sonhos (vendida pela corretora da maneira mais covarde possível: a colocando do lado de um grande amor, um holograma usado para todas as potenciais compradoras).

@@ -1,9 +1,12 @@
 ---
-date: "2017-01-23"
-link: "https://www.imdb.com/title/tt3631112"
-categories: [ "draft", "movies" ]
-title: "A Garota no Trem"
+categories:
+- draft
+- movies
+date: '2017-01-23'
+link: https://www.imdb.com/title/tt3631112
+title: A Garota no Trem
 ---
+
 Este é um drama que une três mulheres e suas relações com homens que viram seus bonecos (e vice-versa). A discussão gira em torno de ter ou não bebês e de ter ou não amantes. Acaba virando um thriller com aquela reviravolta que todos já conhecem, mas no meio do caminho acompanhamos as semi-divertidas aventuras de uma mulher sem destino, que insiste em pegar um trem mesmo sem ter aonde ir, devidamente alcoolizada e sem noção do que foi que aconteceu com sua vida.
 
 Dirigido pelo correto Tate Taylor (Vidas Cruzadas), o roteiro de Erin Cressida Wilson baseado no romance de Paula Hawkins usa saltos temporais demais sem qualquer necessidade, exceto acompanharmos os lapsos de memória de sua protagonista. De repente o presente se torna passado, voltamos dois meses, um mês e "a última sexta-feira". Há tantos saltos que não importa muito o que veio antes do quê, já que o principal no filme é entendermos que há duas narradoras em conflito, e mesmo com ambas ainda há cenas que nenhuma delas presenciou.

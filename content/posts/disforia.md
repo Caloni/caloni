@@ -1,9 +1,13 @@
 ---
-date: "2020-03-08"
-categories: [ "draft", "movies", ]
-tags: [ "cinemaqui"  ]
-title: "Disforia"
+categories:
+- draft
+- movies
+date: '2020-03-08'
+tags:
+- cinemaqui
+title: Disforia
 ---
+
 Não se pode negar que Disforia é um trabalho tenso e esteticamente chamativo. Contudo, ambientando naquele mundo revisitado tantas e tantas vezes pelo gênero do terror, habitado por psicólogos e casais traumatizados (aqui o filme tem ambos) e crianças amaldiçoadas, desde o começo sabemos que não se pode esperar muita coisa de ideias tão desgastadas e que aqui não fazem questão de ser contadas de outra forma. Até as frases parecem recicladas de algo já visto.
 
 Se a tensão existe e é boa, o que é questionável, portanto, no primeiro longa metragem do cineasta Luca Cassales, é até que ponto tensão por si só é válida. Este é um filme que habita o mundo dos roteiros lado B, onde os diálogos são tão falsos que começamos a pensar que tudo não passa de um sonho. E mesmo assim ele insiste, como um enlatado de fim de noite esquecido na prateleira de alguma vídeo-locadora dos anos 90, a ser levado a sério. Se pelo menos fosse engraçado observar aquelas pessoas revivendo uma combinação de trash aleatório sem ter noção de que suas vidas não as pertencem, seria uma experiência menos anestesiante. Este, porém, não é o caso, e a cada minuto de projeção se torna mais óbvio que estamos apenas aguardando o momento da reviravolta final.

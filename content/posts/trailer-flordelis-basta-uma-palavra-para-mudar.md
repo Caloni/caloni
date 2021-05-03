@@ -1,10 +1,14 @@
 ---
-date: "2019-08-24"
-link: "https://www.imdb.com/title/tt2069774"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Trailer: Flordelis: Basta Uma Palavra Para Mudar"
+categories:
+- draft
+- movies
+date: '2019-08-24'
+link: https://www.imdb.com/title/tt2069774
+tags:
+- cinemaqui
+title: 'Trailer: Flordelis: Basta Uma Palavra Para Mudar'
 ---
+
 Dizem que Deus escreve certo por linhas tortas. Também dizem que ele já fez milagres como abrir o mar do Egito e ressuscitar seu filho dentro os mortos. Porém, esses milagres empalidecem frente ao trailer do filme "Flordelis: Basta Uma Palavra Para Mudar". Este, sim, um verdadeiro sinal de que Deus existe, e Ele é Muito Zuero. Amém.
 
 O longuíssimo vídeo, talvez mais longo que o filme, começa com um personagem interpretado por Reynaldo Gianecchini dizendo que ele escutava das pessoas que era um caso perdido. Ele está com uma meia na cabeça, mas assim que a tira vemos que é o ator. Dizem que ele é um caso perdido e que milagre nenhum daria jeito. Agora eu te pergunto: se alguém com um rosto como o de Reynaldo Gianecchini milagre nenhum daria jeito, o que será de nós, meros feios mortais?

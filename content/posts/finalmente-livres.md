@@ -1,10 +1,14 @@
 ---
-date: "2019-11-28"
-link: "https://www.imdb.com/title/tt7534068"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Finalmente Livres"
+categories:
+- draft
+- movies
+date: '2019-11-28'
+link: https://www.imdb.com/title/tt7534068
+tags:
+- cinemaqui
+title: Finalmente Livres
 ---
+
 Finalmente Livres é uma comédia francesa que escala de maneira tão dinâmica suas ideias no decorrer da suas quase duas horas que é possível ignorar a falta de criatividade e de coerência em uma história tresloucada e cheia de energia.
 
 O filme lida com a reviravolta inicial tanto na ação desenfreada quanto na reação psicológica da protagonista, a Tenente Yvonne Santi, interpretada pela sempre eficiente Adèle Haenel, que descobre que seu falecido marido não era o herói que todos achavam que fosse, mas um policial corrupto que colocou um inocente na cadeia pelo roubo de uma joalheria, o traumatizado Antoine. O roteiro escrito por Benjamin Charbit, Benoît Graffin e Pierre Salvadori, que dirige o longa, busca explorar a todo momento a troca de papéis entre o lado da justiça e dos criminosos, e com isso nos fazer dar uma risada socialmente consciente das situações bizarras que monta.

@@ -1,10 +1,14 @@
 ---
-date: "2019-06-03"
-link: "https://www.imdb.com/title/tt8900098"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Deslembro"
+categories:
+- draft
+- movies
+date: '2019-06-03'
+link: https://www.imdb.com/title/tt8900098
+tags:
+- cinemaqui
+title: Deslembro
 ---
+
 Deslembro começa deslumbrando com seu nome, um trocadilho simpático e até poético sobre o desmembramento de uma família, o esquecimento de quem fomos e as ambiguidades dos idiomas românicos, como o português, o francês e o espanhol.
 
 Esse lado poético reverbera em cada cena do filme, em sua busca incessante por memórias básicas de nossa juventude. É uma viagem dúbia, que tenta resgatar ao mesmo tempo nosso passado jovem como pessoas e como (multi)nação.

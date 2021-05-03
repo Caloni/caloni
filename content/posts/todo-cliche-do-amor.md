@@ -1,10 +1,14 @@
 ---
-date: "2018-04-09"
-link: "https://www.imdb.com/title/tt5607038"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Todo Clichê do Amor"
+categories:
+- draft
+- movies
+date: '2018-04-09'
+link: https://www.imdb.com/title/tt5607038
+tags:
+- cinemaqui
+title: Todo Clichê do Amor
 ---
+
 Tenho o prazer desta vez de poder falar sobre um filme nacional que não dependeu de quaisquer incentivos públicos, produzido de forma completamente independente. E se fazer arte é um ato político, a produção de Todo Clichê do Amor diz muito mais sobre a época que vivemos do que qualquer manifestação na Paulista.
 
 Com toda a originalidade possível que um projeto desses implica, a produção de Daniel Gaggini e a direção, roteiro e atuação de Rafael Primot elencam três protagonistas mulheres em torno de recortes exóticos do dia-a-dia dos relacionamentos amorosos. O objetivo é brincar com os clichês desses filmes de amor ao mesmo tempo que se faz um. Temos uma prostituta que ao mesmo tempo que cuida de um cliente de sadomasoquismo conversa com o marido -- ator pornô -- a respeito de seu desejo imediato de ter um filho. Enquanto isso, madastra e enteada trocam farpas sobre a vida ao terem que se encontrar sobre o enterro do pai/marido. E para fechar a trilogia a paquera inocente entre dois jovens que, diz-se, vivem mundos e destinos distintos, mas que no fundo... no fundo sempre há um clichê para juntá-los.

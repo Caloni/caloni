@@ -1,9 +1,12 @@
 ---
-date: "2020-12-09"
-link: "https://www.imdb.com/title/tt0073312"
-categories: [ "draft", "movies" ]
-title: "A Última Noite de Bóris Grushenko"
+categories:
+- draft
+- movies
+date: '2020-12-09'
+link: https://www.imdb.com/title/tt0073312
+title: A Última Noite de Bóris Grushenko
 ---
+
 Ainda na fase comédia pastelão tem essa paródia dos romances russos que Woody Allen tanto evoca em seus diálogos existencialistas e filosóficos. Ele dirige um filme de guerra e traição como quem está montando um quadro para o final de noite no Zorra Total, mas é muito charmoso, ingênuo e sagaz. Ele não consegue evitar pensar a respeito dos temas que se propõe a falar, e por tabela não nos deixa, espectadores, parar de pensar também. Comédias de Allen são exaustivas, e as como essa são exaustivas apesar de medíocres.
 
 A história envolve piadas com a Rússia Czarista, seu povo cheio de relações profundas entre a comunidade e uma relação fraternal ao mesmo tempo que fatal. Eles anseiam pela próxima guerra para defender a mãe Rússia, menos o personagem de Allen, que quando criança teve um encontro casual com a morte que comentou na época: "ainda nos veremos de novo". E é justamente isso o que o cineasta mais temeu durante toda sua vida.

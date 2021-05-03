@@ -1,8 +1,10 @@
 ---
-date: "2007-10-22"
-categories: [ "code" ]
-title: "Guia básico para programadores de primeiro breakpoint"
+categories:
+- code
+date: '2007-10-22'
+title: Guia básico para programadores de primeiro breakpoint
 ---
+
 Aproveitando um dos últimos artigos que fala sobre [conceitos básicos de programação], lembro que, tão importante quanto programar é possuir habilidades básicas de depuração, uma arte por muitos programadores ignorada.
 
 É interessante notar como muitos ignoram a utilidade e conveniência das tradicionais e poderosas ferramentas de depuração passo-a-passo. O motivo pode ser puro desdém ou ignorância (no sentido de desconhecimento). Se for pelo segundo, aí vão algumas dicas para dar uma passada geral no seu programa e, quem sabe, encontrar um ou outro bug pelo caminho.

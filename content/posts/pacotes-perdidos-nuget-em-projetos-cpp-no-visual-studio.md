@@ -1,9 +1,11 @@
 ---
-date: "2017-02-08"
-title: "Pacotes perdidos do NuGet em projetos C++ no Visual Studio"
-categories: [ "draft", "blog" ]
-
+categories:
+- draft
+- blog
+date: '2017-02-08'
+title: Pacotes perdidos do NuGet em projetos C++ no Visual Studio
 ---
+
 É muito bom (para quem gosta) usar a IDE e viver feliz sem precisar se preocupar em digitar comandos estranhos no prompt. Porém, essa vida acaba quando ocorre o primeiro erro inexplicável, aquele tipo de erro que não importa onde você olhe, não há nada para olhar. Até você apelar para ferramentas de macho.
 
 Que nem hoje de manhã, quando fui inocentemente baixar uma versão limpa do [tiodb](https://github.com/tiodb/tiodb) e após baixar todos os pacotes do [NuGet](https://docs.microsoft.com/pt-br/nuget/consume-packages/overview-and-workflow), o gerenciador de pacotes do Visual Studio (inclusive para C++, agora) acusou a falta do boost, sendo que ele havia acabado de baixá-lo:

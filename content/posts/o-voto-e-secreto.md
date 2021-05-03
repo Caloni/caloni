@@ -1,9 +1,12 @@
 ---
-date: "2019-09-02"
-link: "https://www.imdb.com/title/tt0290823"
-categories: [ "draft", "movies" ]
-title: "O Voto é Secreto"
+categories:
+- draft
+- movies
+date: '2019-09-02'
+link: https://www.imdb.com/title/tt0290823
+title: O Voto é Secreto
 ---
+
 Este filme parece uma propaganda do governo incentivando o voto com não-atores dizendo falas prontas para incitar a reflexão no espectador. Uma pena que o formato seja tão simplório. Sem personagens, sem atores, sem história, O Voto é Secreto consegue no máximo fazer-nos pensar por que está região do mundo está usando democracia.
 
 É dia de eleições. E como funciona por lá, lá sendo um país do Oriente Médio, com habitantes dos mais diversos perfis espalhados por uma região e não obrigados a votar, e também nem muito interessados? Uma caixa é jogada de paraquedas de avião e uma agente chega em um posto de fronteira vigiado por dois guardas para fazer o trajeto das casas dessa gente para coletar votos até o final do dia.

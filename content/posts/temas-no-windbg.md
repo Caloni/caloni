@@ -1,8 +1,10 @@
 ---
-date: "2008-01-14"
-title: "Temas no WinDbg"
-categories: [ "code" ]
+categories:
+- code
+date: '2008-01-14'
+title: Temas no WinDbg
 ---
+
 Desde a versão 6.4.7.2 que o WinDbg fornece uma subpasta chamada Themes, onde lá estão diversos workspaces configurados. Existe até um passo-a-passo de como organizar esses temas e escolher o seu favorito. Segue algumas dicas de como transformar corretamente sua área de trabalho para depuração (e mantê-la).
 
 O WinDbg salva suas configurações no registro. Para apagar os valores previamente gravados, rode o seguinte comando:

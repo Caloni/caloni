@@ -1,10 +1,14 @@
 ---
-date: "2017-12-09"
-link: "https://www.imdb.com/title/tt5503688"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Poder e o Impossível"
+categories:
+- draft
+- movies
+date: '2017-12-09'
+link: https://www.imdb.com/title/tt5503688
+tags:
+- cinemaqui
+title: O Poder e o Impossível
 ---
+
 Esse é um filme que teria de tudo para não dar certo, ser clichezão, etc. Ele lembra 127 horas, mas enquanto James Franco não é um exemplo de empatia o ator Josh Hartnett atinge a glória ao nos preocuparmos com seu destino, mesmo que na neve ele seja um completo idiota.
 
 E, sim, essa aparentemente é a ideia que quiseram passar para caracterizar o jogador de hóquei Eric LeMarque. Ele é um idiota, comeria até neve se pudesse (ao contrário do que se poderia pensar, ela desidrata em vez de ajudar na sede). Ele está isolado em uma cabana na neve, faz snow boarding para se manter ativo, e é viciado em drogas em recuperação gradual. O mundo fica mais focado depois que ele ingere da substância, em uma ótima ideia para tornar isso visível para o espectador.

@@ -1,8 +1,10 @@
 ---
-date: "2008-03-26"
-title: "WinDbg a distância"
-categories: [ "code" ]
+categories:
+- code
+date: '2008-03-26'
+title: WinDbg a distância
 ---
+
 Acho que o que mais me impressionou até hoje a respeito do WinDbg é a sua capacidade de depuração remota. Não há nada como depurar problemas sentado confortavelmente na sua cadeira de programador em frente à sua mesa de programador.
 
 Já é fato consumado que os maiores problemas da humanidade ocorrem sempre no cliente, com uma relação de dificuldade diretamente proporcional ao cargo ocupado pelo usuário da máquina que está dando problemas. Se esse cliente por acaso mora em um lugar tão tão distante, nada mais justo do que conhecermos algumas técnicas de depuração remota para continuar a mantê-lo tão tão distante.

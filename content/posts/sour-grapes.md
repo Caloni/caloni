@@ -1,9 +1,12 @@
 ---
-date: "2016-11-23"
-link: "https://www.imdb.com/title/tt5728684"
-categories: [ "draft", "movies" ]
-title: "Sour Grapes"
+categories:
+- draft
+- movies
+date: '2016-11-23'
+link: https://www.imdb.com/title/tt5728684
+title: Sour Grapes
 ---
+
 Este documentário mostra através de uma narrativa fluida e divertida uma das maiores fraudes na história do vinho. Pegando carona com a bolha de 2008, acompanhamos a história de Rudy Kurniawan, um asiático muito simpático que se inseriu na rodinha de velhos colecionadores de vinho e conseguiu ganhar amigos, fama, e muitos, muitos milhões.
 
 No fundo, não há muito o que contar da história em si além da velha sequência de passos que levam pessoas bem-intencionadas a serem enganadas por alguém, como sempre, acima de qualquer suspeita. Dessa maneira, os diretores Reuben Atlas e Jerry Rothwell vão apresentando aos poucos todos os envolvidos na trama, começando pelo produtor de vinhos Laurent Ponsot.

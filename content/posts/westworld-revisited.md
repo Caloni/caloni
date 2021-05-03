@@ -1,9 +1,12 @@
 ---
-date: "2018-12-30"
-link: "https://www.imdb.com/title/tt0475784"
-categories: [ "draft", "series" ]
-title: "Westworld (Revisita ao S01 com algumas questões e spoilers)"
+categories:
+- draft
+- series
+date: '2018-12-30'
+link: https://www.imdb.com/title/tt0475784
+title: Westworld (Revisita ao S01 com algumas questões e spoilers)
 ---
+
 A revisita a Westworld vale muito a pena. Detalhes que só serão revelados no final são percebidos desde o começo, e a experiência de torna única novamente. Em meu primeiro texto não me lembro se liberei spoilers (vendo agora... não), mas este aqui é certeza que terá. Como toda revisita a esta série deve ter.
 
 Em primeiro lugar, fui desnecessariamente duro com a série em meu primeiro texto. Se trata de uma história necessária para os dias de hoje, e uma história cujo roteirista necessário é possível contar nos dedos. E Jonathan Nolan obviamente está na lista. É dele O Grande Truque, Amnésia e Interestelar. Todos eles possuem algo com Westworl em comum: lidam com mudanças bruscas no tempo, com tempos paralelos e trucagens no tempo.

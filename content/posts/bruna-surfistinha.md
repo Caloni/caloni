@@ -1,9 +1,11 @@
 ---
-date: "2011-03-15"
-link: "https://www.imdb.com/title/tt1587828"
-categories: [ "movies" ]
-title: "Bruna Surfistinha"
+categories:
+- movies
+date: '2011-03-15'
+link: https://www.imdb.com/title/tt1587828
+title: Bruna Surfistinha
 ---
+
 O momento que resume a ascenção de Bruna e ao mesmo tempo a visão do primeiro trabalho de Marcus Baldini é quando, em seu discurso na festa preparada por sua amiga, ela diz que acredita em si mesma e encoraja seus antitriões a fazerem o mesmo, pois se o fizerem, "conseguirão chegar aonde eu cheguei". E é precisamente nesse ponto que o filme deixa de ser uma visita convencional ao mundo da prostituição e vira uma discussão instigante sobre a capacidade das pessoas de fazer o seu melhor, não importando em que profissão ou atividade.
 
 Menina tímida de classe média, vista pelos garotos como mero objeto sexual, e o filme faz um paralelo curioso, mas não determinante, com sua futura profissão, Raquel geralmente se isola dos seus colegas na escola. Com uma família que aparenta não lhe dar a devida atenção em uma fase geralmente complicada da vida, decide fugir de casa, muito embora os reais motivos de Raquel nunca sejam revelados de fato, e esse é mais um ponto positivo do filme, que afinal de contas irá contar não a história de Raquel, mas de Bruna, que foi o que ela se tornou após tomar essa decisão.

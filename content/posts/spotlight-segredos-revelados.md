@@ -1,9 +1,12 @@
 ---
-date: "2016-02-29"
-link: "https://www.imdb.com/title/tt1895587"
-categories: [ "draft", "movies" ]
-title: "Spotlight: Segredos Revelados"
+categories:
+- draft
+- movies
+date: '2016-02-29'
+link: https://www.imdb.com/title/tt1895587
+title: 'Spotlight: Segredos Revelados'
 ---
+
 Esse é um filme que foca obcecadamente em seus fatos. A ponto de sacrificar seus personagens. E tudo bem. O material de Spotlight é bom o suficiente para funcionar sem qualquer personagem de destaque, muito embora Mark Ruffalo quase consiga algo interessante.
 
 Conta a história da investigação de um jornal local de Boston quando um caso antigo de padres molestadores de crianças é desengavetado pelo recém-chegado editor, o ponderado Marty Baron (Liev Schreiber). Usando para isso uma equipe independente que trabalha em uma sala à parte usando métodos à parte, o chefe do departamento Spotlight, Walter 'Robby' Robinson (Michael Keaton), aciona sua dinâmica equipe à caça desses acontecimentos, descobrindo no processo um sistema mantido sob a luz da autoridade da igreja e os olhos e bocas fechadas de sua comunidade.

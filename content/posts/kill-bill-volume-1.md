@@ -1,9 +1,11 @@
 ---
-date: "2010-09-09"
-link: "https://www.imdb.com/title/tt0266697"
-categories: [ "movies" ]
-title: "Kill Bill: Volume 1"
+categories:
+- movies
+date: '2010-09-09'
+link: https://www.imdb.com/title/tt0266697
+title: 'Kill Bill: Volume 1'
 ---
+
 Não é preciso dizer que Quentin Tarantino é um diretor pop e cult, e uma coisa o levou à outra. Também não é preciso dizer o quanto filmes de artes marciais são um pedaço importantíssimo na cultura pop/"trash" dos anos 70 e 80. Se juntarmos esses dois universos teremos Kill Bill, um filme feito para ser um só, mas que por motivos comerciais acabou inchando e dividindo-se.
 
 A primeira parte introduz A Noiva (Uma Thurman), uma matadora profissional que acaba traindo ou deixando seu grupo e é caçada e abatida em seu próprio casamento em uma capela no meio do nada. O absurdo da situação não poderia ser mais estilizado. O início do filme em preto e branco evidencia a crueldade milimetricamente calculada com que A Noiva é almejada.

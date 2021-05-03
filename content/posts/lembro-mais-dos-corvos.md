@@ -1,10 +1,14 @@
 ---
-date: "2019-02-19"
-link: "https://www.imdb.com/title/tt7972528"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Lembro Mais Dos Corvos"
+categories:
+- draft
+- movies
+date: '2019-02-19'
+link: https://www.imdb.com/title/tt7972528
+tags:
+- cinemaqui
+title: Lembro Mais Dos Corvos
 ---
+
 Lembro Mais dos Corvos é aquele documentário minimalista ao máximo que lembra que Cinema pode ser apenas uma câmera filmando e uma pessoa falando, e se essa ideia não lhe apetece fique longe desse filme. Contudo, esteja avisado também disso: esse é provavelmente um dos filmes mais humanos que você irá ver esse ano. Talvez porque a vida não se controla. Apenas deixamos fluir, e quando menos se percebe, houve a conexão entre seres humanos. Esse filme tenta emular isso no cinema.
 
 Isso porque o diretor Gustavo Vinagre resolve realizar este documentário sobre essa atriz que aparentemente também é sua amiga, e aparentemente sem um roteiro definido. E se digo que tudo é aparente é porque quando sentamos em uma poltrona no cinema nosso cérebro está programado para pensar em termos de ficção ou pelo menos, nos documentários, uma narrativa controlada e parcial. Não há um acordo prévio de estabelecer um contato tão próximo assim com um ser humano, como quando fazemos de chamar alguns amigos para beber um vinho e casa e conversar sobre a vida. E mesmo nesse encontro hipotético e casual, tomando quantas garrafas de vinho que for, é muito difícil que a conversa gire exclusivamente sobre a vida pessoal de um deles.

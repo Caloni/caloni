@@ -1,9 +1,12 @@
 ---
-date: "2019-04-26"
-link: "https://www.imdb.com/title/tt9381622"
-categories: [ "draft", "series" ]
-title: "Special Primeira Temporada"
+categories:
+- draft
+- series
+date: '2019-04-26'
+link: https://www.imdb.com/title/tt9381622
+title: Special Primeira Temporada
 ---
+
 Tenho algo a confessar: o piloto de Special mentiu para mim. Pensei que seria uma série de humor negro onde alguém com paralisia cerebral seria atropelado constantemente por um carro. Mas não é. Está mais para um programa preenchendo cota para deficientes. E deficiente no caso físico, emocional e mental.
 
 Nunca é explicado na série o que é realmente um paralítico cerebral, mas a conclusão que chegamos no final é que se trata de uma pessoa que não consegue fazer algumas coisas como amarrar sapatos e embaralhar cartas, mas outras sim, como usar o celular e o computador.

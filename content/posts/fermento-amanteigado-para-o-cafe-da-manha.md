@@ -1,10 +1,14 @@
 ---
-date: "2020-12-12"
-link: "https://www.kingarthurbaking.com/recipes/buttery-sourdough-sandwich-biscuits-recipe"
-categories: [ "draft", "food" ]
-tags: [ "recipes" ]
-title: "Fermento Amanteigado para o Café da Manhã"
+categories:
+- draft
+- food
+date: '2020-12-12'
+link: https://www.kingarthurbaking.com/recipes/buttery-sourdough-sandwich-biscuits-recipe
+tags:
+- recipes
+title: Fermento Amanteigado para o Café da Manhã
 ---
+
 Essa receita ficou boa com fermento natural e uma tonelada de manteiga. Um pouco mais trabalhoso que os [biscoitos], e seria bacana eu ter essas forminhas que cortam fino a massa, mas com o que tive já ficou bem bom. Tudo graças à manteiga, claro. Não preciso mais descartar fermento nunca mais na vida.
 
 Para fazer esta receita você precisa do descarte do seu fermento natural, farinha, sal, fermento químico e muita, muita manteiga.

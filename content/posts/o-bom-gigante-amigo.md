@@ -1,10 +1,14 @@
 ---
-date: "2016-07-31"
-link: "https://www.imdb.com/title/tt3691740"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Bom Gigante Amigo"
+categories:
+- draft
+- movies
+date: '2016-07-31'
+link: https://www.imdb.com/title/tt3691740
+tags:
+- cinemaqui
+title: O Bom Gigante Amigo
 ---
+
 O Bom Gigante Amigo é um filme de criança baseado em um livro para crianças. Produzido pela Disney e dirigido por Steven Spielberg, deveria ser o ápice da pureza e inocência, mas parece trazer uma forte carga política em sua mensagem, acidental ou não. Pode ser impressão de uma história fraca e sem muito sentido, mas só por sugerir uma relação entre sua lúdica história e a história da Europa contemporânea é digno de nota.
 
 A história começa com a pequena Sofia (Ruby Barnhill), uma menina que mora em um orfanato em Londres e tem insônia. Em uma das noites que era a única acordada, viu um velhinho agigantado, da altura de um prédio de três andares, da janela de seu quarto coletivo. Ele a sequestra para que ela não espalhe sua existência, e a leva para a Terra dos Gigantes, onde descobre que, além de bonzinho e vegetariano, ele está cercado de outros gigantes, maiores, malvados e carnívoros (ou canibais, se você considerar que seres humanos são parentes de gigantes).

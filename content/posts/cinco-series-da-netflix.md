@@ -1,8 +1,11 @@
 ---
-date: "2019-07-27"
-categories: [ "draft", "series" ]
-title: "Cinco Séries da Netflix"
+categories:
+- draft
+- series
+date: '2019-07-27'
+title: Cinco Séries da Netflix
 ---
+
 Esta série sobre evidências forenses mal formuladas com má ciência é uma versão de estagiário de Making a Murderer.
 
 Esta série de pegadinhas é tão politicamente correta que parece um documentário.

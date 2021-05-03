@@ -1,8 +1,12 @@
 ---
-date: "2019-06-20"
-categories: [ "draft", "reading" ]
-title: "Leitura: How Technology Hijacks People’s Minds from a Magician and Google’s Design Ethicist"
+categories:
+- draft
+- reading
+date: '2019-06-20'
+title: 'Leitura: How Technology Hijacks People’s Minds from a Magician and Google’s
+  Design Ethicist'
 ---
+
 How Technology Hijacks People’s Minds -- from a Magician and Google’s Design Ethicist, de Tristan Harris, foi uma leitura inicial que o SendToKindle cortou, mas pretendo ler o texto completo.
 
  - Como filósofo, Tristan observa a mudança tecnológica através de algum parâmetro palpável, e usa para isso, mesmo sem querer, a praxeologia. Quando ele diz que as pessoas preferem entre checar o email em cinco segundos ou esperar na fila sem fazer nada elas preferem a primeira opção, ou entre ouvir um podcast de meia-hora sobre um assunto que elas gostariam muito de saber ou andar por 30 minutos em silêncio elas também escolhem a primeira opção.

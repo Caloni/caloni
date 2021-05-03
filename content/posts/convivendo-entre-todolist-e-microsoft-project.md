@@ -1,8 +1,11 @@
 ---
-date: "2010-03-15"
-categories: [ "code", "draft",  ]
-title: "Convivendo entre TodoList e Microsoft Project"
+categories:
+- code
+- draft
+date: '2010-03-15'
+title: Convivendo entre TodoList e Microsoft Project
 ---
+
 O próximo artigo sobre escovação de bits ainda está no forno. Tirar férias (de 40 dias) é uma escassez de ideias! No momento, posso explicar a facilidade que tive para continuar usando o TodoList para gerenciar minha equipe e ainda assim sincronizar nossas tarefas em um cronograma do Microsoft Project.
 
 As razões de eu usar o TodoList são meio óbvias: ele faz tudo que eu preciso para organizar minhas tarefas do dia-a-dia e é portátil. Enquanto isso, o Project, além de não ser portátil (eu preciso levar comigo o instalador de 200 MB? E Instalar?) possui um formato difícil de mudar, já que foi feito para projetar o mundo e não para ser compartilhado facilmente.

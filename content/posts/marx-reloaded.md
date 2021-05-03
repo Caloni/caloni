@@ -1,10 +1,14 @@
 ---
-date: "2018-10-31"
-link: "https://www.imdb.com/title/tt1884351"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Marx Reloaded"
+categories:
+- draft
+- movies
+date: '2018-10-31'
+link: https://www.imdb.com/title/tt1884351
+tags:
+- cinemaqui
+title: Marx Reloaded
 ---
+
 Marx Reloaded já é um filme antigo (de 2011), sobre os 200 anos de nascimento de Karl Marx, o economista/sociólogo/filósofo criador da ideologia que mais matou seres humanos em massa na história da humanidade. É curioso como o nível de intelectualização do pensador está diretamente proporcional à sua concordância com marxismo/comunismo como algo viável e inversamente proporcional à realidade no planeta Terra e da própria natureza humana.
 
 O documentário é denso, pois utiliza esse nível de intelectualidade com diversos pensadores, que cospem conclusões sem nunca explicar nada. Se trata de um review criado para atualizar os conceitos de Marx para os tempos atuais, pós-crise 2008, e sugerir "soluções" para o "problema" do capitalismo. Fica claro para o espectador leigo que, assim como o pseudo-documentário "Quem Somos Nós", o formato da história segue o princípio de entrevistar todas as pessoas radicais que ainda levam o filósofo alemão em grande apreço e utilizar como contra-ponto um representante liberal (econômico) aleatório para ter em quem bater.

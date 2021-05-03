@@ -1,8 +1,10 @@
 ---
-date: "2015-06-21"
-categories: [ "food" ]
-title: "Gratia Agere Res"
+categories:
+- food
+date: '2015-06-21'
+title: Gratia Agere Res
 ---
+
 É um sabor agradável, de vinho jovem, mas ainda não muito maturado.
 date: "2015-06-25"
 categories: [ "food" ]

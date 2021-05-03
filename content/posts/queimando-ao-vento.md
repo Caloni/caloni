@@ -1,9 +1,12 @@
 ---
-date: "2019-08-02"
-link: "https://www.imdb.com/title/tt0308071"
-categories: [ "draft", "movies" ]
-title: "Queimando ao Vento"
+categories:
+- draft
+- movies
+date: '2019-08-02'
+link: https://www.imdb.com/title/tt0308071
+title: Queimando ao Vento
 ---
+
 Há algo de literário em trabalhos de adaptação de livros, como este, dirigido por Silvio Soldini e escrito com Doriana Leondeff, que se baseia no romance de Agota Kristof. É essa mania do protagonista ser o narrador e estar escrevendo um livro, mesmo que ele seja um maníaco desde criança e viva recluso fugido de seu país de origem.
 
 Esse país é a Tchecoslováquia, e o país para onde ele vai tem uma fábrica que atrai mais conterrâneos de sua terra, incluindo seu amor de infância, a razão de sua existência em todos esses anos. Há algo de intensamente poético na construção de Tobias, que o ator Ivan Franek e seus olhos esbugalhados conseguem demonstrar de maneira penetrante e um tanto relapso.

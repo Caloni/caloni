@@ -1,9 +1,12 @@
 ---
-date: "2013-04-03"
-link: "https://www.imdb.com/title/tt1520211"
-categories: [ "draft", "series" ]
-title: "The Walking Dead - Primeira Temporada"
+categories:
+- draft
+- series
+date: '2013-04-03'
+link: https://www.imdb.com/title/tt1520211
+title: The Walking Dead - Primeira Temporada
 ---
+
 The Walking Dead é uma trama de zumbis para forçar uma trama sobre seres humanos sobrevivendo no limite. Ele exagera demais no drama, talvez nos zumbis, mas nunca nessa premissa. Estamos acompanhando pessoas que estão tentando adaptar uma nova moral, novas regras e novas formas de viver a vida. Felizmente ou infelizmente, aos poucos eles descobrem que nada mudou muito.
 
 Finalmente, por livre e espontânea pressão, decidi começar minha peregrinação por essa série que parece encantar pela dramatização do que antes era visto como piada: um apocalipse zumbi. Tive boas surpresas, principalmente na parte técnica, como a fotografia, que lembra tons de sépia e caracteriza esse ambiente sem qualquer rastro de esperança (além de conseguir se contrapor às cenas com sangue), e o som, que aposta em um em realismo inebriante ao estilizar os ruídos produzidos pelos "errantes", humanos que morreram e que ressucitaram como criaturas sedentos por carne viva (humana e animal). Já o uso de Matte Paintings -- cenários pintados ao fundo --, se em um primeiro momento exalta a solidão daquele mundo com precisão dramática, usado à exaustão revela mais sua artificialidade do que reforça a situação vivida por aquelas pessoas.

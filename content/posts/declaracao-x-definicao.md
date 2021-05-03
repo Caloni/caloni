@@ -1,8 +1,11 @@
 ---
-date: "2008-06-06"
+categories:
+- draft
+- code
+date: '2008-06-06'
 title: Declaração x definição
-categories: [ "draft", "code" ]
 ---
+
 Uma diferença que eu considero crucial na linguagem C/C++ é a questão da declaração/definição (em inglês, _declaration/definition_). É a diferença entre esses dois conceitos que permite, por exemplo, que sejam criadas estruturas prontas para serem conectadas a listas ligadas:
 
     

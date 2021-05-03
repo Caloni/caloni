@@ -1,9 +1,12 @@
 ---
-date: "2017-01-07"
-link: "https://www.imdb.com/title/tt3521164"
-categories: [ "draft", "movies" ]
-title: "Moana: Um Mar de Aventuras"
+categories:
+- draft
+- movies
+date: '2017-01-07'
+link: https://www.imdb.com/title/tt3521164
+title: 'Moana: Um Mar de Aventuras'
 ---
+
 É fascinante constatar como os trabalhos anteriores da equipe de criação da Disney servem de pavimento para criações cada vez mais ambiciosas. E aqui o ponto alto de Frozen, quando Elsa se transforma no que sempre foi, vira um simples rascunho da força da música de Maoma, onde ela não apenas identifica (e assume) quem realmente é, mas quem seu povo deve ser. Em ambos é a força do indivíduo que prevalece, mas só na segunda essa força ganha um panorama dentro de uma comunidade, da sua história e tradição e, principalmente, de sua própria sobrevivência.
 
 O filme, dirigido e escrito basicament pela equipe responsável por A Princesa e o Sapo, Aladim e diversos desenhos à mào da Disney, foi fruto, como sempre, de uma pesquisa extensiva e imersiva dos povos da Polinésia, suas crenças, seu ponto de vista e seus valores. O resultado é um trabalho sólido, que estabelece como o drama maior a coragem de uma líder nata em enxergar um pouco além de todos os outros (incluindo o líder atual, seu próprio pai) e ao mesmo tempo abraçar um chamado adiado por muitos anos: se aventurar no oceano.

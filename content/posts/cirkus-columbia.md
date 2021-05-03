@@ -1,9 +1,11 @@
 ---
-date: "2010-11-01"
-link: "https://www.imdb.com/title/tt1417067"
-categories: [ "movies" ]
-title: "Cirkus Columbia"
+categories:
+- movies
+date: '2010-11-01'
+link: https://www.imdb.com/title/tt1417067
+title: Cirkus Columbia
 ---
+
 A primeira coisa que nota-se em Cirkus Columbia é a deslumbrante fotografia. Criada de forma magistral, torna a história um épico instantâneo pelo simples fato de reapresentar ao mundo um país anteriormente arrasado pela guerra, onde são aproveitadas não só os quadros da tela larga, mas as luzes também.
 
 Logo notamos que os enquadramentos são sempre econômicos e o diretor sempre escolhe os que melhor consegue retratar a interação entre todos os personagens da cena.

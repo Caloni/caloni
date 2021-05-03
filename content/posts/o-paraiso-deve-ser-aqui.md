@@ -1,10 +1,14 @@
 ---
-date: "2019-10-23"
-link: "https://www.imdb.com/title/tt8359842"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Paraíso Deve Ser Aqui"
+categories:
+- draft
+- movies
+date: '2019-10-23'
+link: https://www.imdb.com/title/tt8359842
+tags:
+- cinemaqui
+title: O Paraíso Deve Ser Aqui
 ---
+
 O diretor palestino Elia Suleiman encontrou uma maneira divertida de mostrar ao mundo as diferenças da visão de um cineasta do resto de nós, mortais. Em O Paraíso Deve Ser Aqui ele próprio é o protagonista, vestido como costuma se vestir, e observa da varanda de sua casa as situações do dia-a-dia, mas que através de suas lentes saem muito mais atípicas do que estamos acostumados a interpretar.
 
 A brincadeira segue uma dinâmica simples: vemos Elia obervando algo à sua frente enquanto está sentado na calçada de uma cafeteria, ou em sua casa, ou no portão de sua casa ou, na segunda metade do longa, viajando por Paris e Nova York. Enquanto vemos o observador, nossa mente já se prepara não para o que ele está vendo, mas a forma que ele está vendo.

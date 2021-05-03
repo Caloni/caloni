@@ -1,10 +1,14 @@
 ---
-date: "2016-07-22"
-link: "https://www.imdb.com/title/tt4163636"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Viagem de Meu Pai"
+categories:
+- draft
+- movies
+date: '2016-07-22'
+link: https://www.imdb.com/title/tt4163636
+tags:
+- cinemaqui
+title: A Viagem de Meu Pai
 ---
+
 A Viagem de Meu Pai começa como um filme leve sobre as vicissitudes de envelhecer, mas aos poucos se transforma em um drama ambicioso em sua estrutura, pois transforma espectadores passivos em participantes da inevitável experiência do esquecimento de nossas próprias vidas.
 
 Tendo como protagonista o charmoso, porém confuso (e nada inocente) velhinho Claude Lherminier ("com um h", como ele diz), é divertido vê-lo tentar manipular suas cuidadoras, ou até suas perguntas ou pedidos indecorosos ("posso ver você tomar banho?"), assim como suas frases de efeito, que podem ocorrer de serem cruéis no meio de um elogio, ou doces no meio de um discurso surpreendentemente rancoroso. A maior virtude da primeira metade do filme é nos convencer que, confuso ou não, Claude no fundo é um bom velhinho que se torna cada vez mais confuso.

@@ -1,9 +1,11 @@
 ---
-date: "2011-03-09"
-link: "https://www.imdb.com/title/tt1564367"
-categories: [ "movies" ]
-title: "Esposa de Mentirinha"
+categories:
+- movies
+date: '2011-03-09'
+link: https://www.imdb.com/title/tt1564367
+title: Esposa de Mentirinha
 ---
+
 "(...) o filme se baseie provavelmente em um fim-de-semana que ele mesmo tirou com seus amigos (...)"
 
 "As piadas do filme parecem internas e da vida real."

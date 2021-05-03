@@ -1,10 +1,14 @@
 ---
-date: "2016-08-12"
-link: "https://www.imdb.com/title/tt2461150"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Gênios do Crime"
+categories:
+- draft
+- movies
+date: '2016-08-12'
+link: https://www.imdb.com/title/tt2461150
+tags:
+- cinemaqui
+title: Gênios do Crime
 ---
+
 Gênios do Crime não é o melhor momento de ninguém do seu elenco. Porém, também não é o pior. É apenas aquela sensação de que já vimos isso antes, e embora não exatamente daquela forma, não chega a ser tão diferente de qualquer comédia de situação. E, como eles mesmos no filme admitem, ainda é um filme de roubo a banco. Sim. Mais um filme de roubo a banco.
 
 Esse, baseado em eventos reais, de um dos maiores roubos (em valores monetários) da história dos EUA, não tem muita margem para mudanças, mas elas acontecem e aos montes. Não estamos diante de atores acostumados com verossimilhança, então a primeira e marcante mudança é que os personagens não fazem a mínima ideia do que estão fazendo. Mas o fazem de qualquer jeito.

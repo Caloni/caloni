@@ -1,9 +1,12 @@
 ---
-date: "2019-02-19"
-link: "https://www.imdb.com/title/tt3722070"
-categories: [ "draft", "movies" ]
-title: "A Senhora Da Van"
+categories:
+- draft
+- movies
+date: '2019-02-19'
+link: https://www.imdb.com/title/tt3722070
+title: A Senhora Da Van
 ---
+
 Se um escritor com material tão vasto no cinema quanto Alan Bennett não conseguiu construir a partir de suas memórias de morar 15 anos ao lado de uma senhora sozinha e sua van uma história que possua camadas, quer dizer que este não é um filme que deveria existir. Mesmo se você tiver Maggie Smith (da série Harry Potter) no elenco.
 
 O resultado acaba sendo um trabalho novelístico passageiro dirigido de maneira desinteressada por Nicholas Hytner e com Bennett sendo interpretado por Alex Jennings em uma versão dupla, onde sua persona pública e seu escritor, sentado à frente de sua máquina de escrever, são vistos como duas pessoas tendo um diálogo. Essa presunção de que apenas escritores agem assim me incomoda, apesar de ter entendido a metáfora (nós, escritores, sempre somos outra pessoa quando é hora de colocar os pensamentos no papel).

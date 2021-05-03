@@ -1,9 +1,11 @@
 ---
-date: "2010-10-21"
-link: "https://www.imdb.com/title/tt0980970"
-categories: [ "movies" ]
-title: "As Crônicas de Nárnia: A Viagem do Peregrino da Alvorada"
+categories:
+- movies
+date: '2010-10-21'
+link: https://www.imdb.com/title/tt0980970
+title: 'As Crônicas de Nárnia: A Viagem do Peregrino da Alvorada'
 ---
+
 Lembro de ter visto a primeira Crônica de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa. Alguma coisa me dizia para não confiar muito em títulos muito longos, e... dito e feito. Não gostei da frágil história em uma narrativa que supõe-se introduzir personagens importante para as próximas tramas, mas que simplesmente joga seus elementos iniciais em um tabuleiro de xadrez e trata apenas de arrastar preguiçosamente essas peças nada originais, tiradas do fundo do baú da crença cristã com cobertura de mitologia grega.
 
 Nessa nova aventura temos os mesmos artifícios, mas com um pouco mais de ação e uma direção de arte afiada, que consegue ser consistente do começo ao fim, não chama atenção para si com seus efeitos e ao mesmo tempo é criativa, apelando até mesmo para nossa curiosidade visual. Note, por exemplo, como a serpente marinha é feita. Ela é uma criação dos medos de Edmundo em uma ilha enfeitiçada. Quando cortam um pedaço dela, esse pedaço se desfaz como uma fumaça verde, a mesma usada em todas as cenas com influências malignas. Só que a forma usada para ela se desfazer é tão natural, que é quase como se a serpente fosse feita de algum outro material sólido que se transforma em gás e que se transforma em imaginação, paulatinamente, sem pressa e sem esfregar isso nos olhos do espectador.

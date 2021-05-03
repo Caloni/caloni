@@ -1,10 +1,14 @@
 ---
-date: "2019-10-21"
-link: "https://www.imdb.com/title/tt4857058"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Fantasma de Peter Sellers"
+categories:
+- draft
+- movies
+date: '2019-10-21'
+link: https://www.imdb.com/title/tt4857058
+tags:
+- cinemaqui
+title: O Fantasma de Peter Sellers
 ---
+
 Com a ascenção vertiginosa vem a queda dura. E O Fantasma de Peter Sellers é o trabalho do diretor Peter Medak que vem revisitar o maior desastre da carreira deste diretor, que teve a péssima ideia de usar Peter Sellers como seu galã em uma produção em alto-mar e foi acometido pela maldição dos espíritos dos piratas.
 
 Brincadeiras à Parte, Peter Medak conversa bastante sobre os fatores que levaram seu projeto de uma comédia sobre um navio pirata a naufragar, e faz até uma auto-análise sobre seu complexo de culpa que precisa ser expurgado por um filme a respeito. E ele tem razão, pois ao explorar os motivos que levaram O Fantasma do Sol de Meio-Dia chegamos às mesmas conclusões que seu diretor: este projeto nunca deveria ter sido feito, e não necessariamente Sellers é o único culpado.

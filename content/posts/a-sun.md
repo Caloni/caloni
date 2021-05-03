@@ -1,9 +1,11 @@
 ---
-date: "2021-02-15"
-link: "https://www.imdb.com/title/tt10883506"
-categories: [ "movies" ]
-title: "A Sun"
+categories:
+- movies
+date: '2021-02-15'
+link: https://www.imdb.com/title/tt10883506
+title: A Sun
 ---
+
 Depois que acabou o filme minha esposa pergunta o que eu achei e eu pergunto "que filme", tinha esquecido o ocorrido de duas horas e meia. O diretor gosta de fazer cena aérea e com detalhes do cenário sem relação com a história. Não pesquisei, mas deve ser um webmillenial. Os pais disseram que ele podia ser tudo na vida e o desgraçado escolhe diretor de cinema.
 
 Mas não vamos culpar apenas um diretor pelo estado terminal da arte. É difícil saber para onde ela está indo e a única certeza é que pra frente é que não é. Essa confusão de sentimentos e sensações junto de técnica e estilo gera os filmes de arte mais estranhos que você já viu. Eles não têm um ponto a ser defendido. Eles não alimentam um universo criativo auto suficiente. Ele é cinema de transição. São os comerciais, o intervalo, da sétima arte.

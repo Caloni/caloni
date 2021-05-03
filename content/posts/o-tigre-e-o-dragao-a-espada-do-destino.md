@@ -1,10 +1,14 @@
 ---
-date: "2016-03-09"
-link: "https://www.imdb.com/title/tt2652118"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Tigre e o Dragão: A Espada do Destino"
+categories:
+- draft
+- movies
+date: '2016-03-09'
+link: https://www.imdb.com/title/tt2652118
+tags:
+- cinemaqui
+title: 'O Tigre e o Dragão: A Espada do Destino'
 ---
+
 Embora pareça ser um simples caça-níqueis, dezesseis anos depois do lançamento da pequena obra-prima de Ang Lee, a produção de "O Tigre e o Dragão: A Espada do Destino" possui uma qualidade acima de um "fan film", e respeita até um certo momento o universo original. Porém, se arrastando em diálogos e expressões sem qualquer trama muito complexa, o filme se torna uma série de pausas até a próxima luta.
 
 A boa notícia é que há algumas lutas que vale a pena ver. Entre as inúmeras, que tentam resgatar diferentes momentos do longa original -- como a "dança de pés", a luta na taverna e uma luta no meio de uma paisagem belíssima -- podemos encontrar aqui e ali alguns momentos interessantes, mas nunca empolgantes. Não há muito o que se empolgar com os fracos e monossilábicos personagens, que não possuem nenhuma história ou passado que valham alguma coisa senão a repetição de dramas -- mais uma vez -- vistos no original.

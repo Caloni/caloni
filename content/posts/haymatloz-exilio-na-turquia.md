@@ -1,9 +1,12 @@
 ---
-date: "2016-10-31"
-link: "https://www.imdb.com/title/tt1121024"
-categories: [ "draft", "movies" ]
-title: "Haymatloz - Exílio na Turquia"
+categories:
+- draft
+- movies
+date: '2016-10-31'
+link: https://www.imdb.com/title/tt1121024
+title: Haymatloz - Exílio na Turquia
 ---
+
 Este é um documentário quase televisivo, descritivo, que não tem praticamente nada a falar. Burocrático do começo ao fim, tem por objetivo uma homenagem aos professores expulsos da Alemanha Nazista que lecionaram em Istambul, na Turquia, além de alguns na Suíça. Seus filhos e netos voltam, então, às origens e o que vemos acaba por aí.
 
 Sim, há longas descrições dos descendentes dessas pessoas, uma piadinha ou outra pelo fato de serem Judeus e Turcos, de serem mal vistos em ambas as culturas. Passadas sete décadas da segunda guerra, o sionismo ainda encontra mais um local para ser reverenciado.

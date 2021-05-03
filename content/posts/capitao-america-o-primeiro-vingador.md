@@ -1,9 +1,11 @@
 ---
-date: "2011-08-09"
-link: "https://www.imdb.com/title/tt0458339"
-categories: [ "movies" ]
-title: "Capitão América: O Primeiro Vingador"
+categories:
+- movies
+date: '2011-08-09'
+link: https://www.imdb.com/title/tt0458339
+title: 'Capitão América: O Primeiro Vingador'
 ---
+
 A Marvel parece que resolveu esquecer de vez a construção de histórias com profundidade dramática para dar vazão aos seus heróis secundários. O objetivo maior é o lançamento dos Vingadores, seu ambicioso projeto que exigiu a criação de diversos filmes, cada um retratando um personagem diferente que fará parte dessa equipe de super-heróis.
 
 O grande atrativo inicial de Capitão América acaba revelando, mais do que a personalidade do próprio herói, a dos seus típicos fãs, os nerds de corpo franzino ou desajeitados de uma maneira geral, mas com uma qualidade em comum: a vontade de persistir em seus sonhos. Dessa forma, o filme consegue passar pelo seu primeiro plot ileso, pois atinge de maneira exemplar as expectativas que temos de ver o inofensivo Steve Rogers alcançar o que tanto deseja.

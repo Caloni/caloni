@@ -1,8 +1,11 @@
 ---
-date: "2012-05-17"
-categories: [ "code", "draft",  ]
-title: "Coletando dumps automaticamente"
+categories:
+- code
+- draft
+date: '2012-05-17'
+title: Coletando dumps automaticamente
 ---
+
 | Value           | Description | Type        | Default value             |
 |-----------------|-------------|-------------|---------------------------|
 | DumpFolder      | [1]         | REGEXPANDSZ | %LOCALAPPDATA%\CrashDumps |

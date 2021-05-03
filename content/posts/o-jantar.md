@@ -1,10 +1,14 @@
 ---
-date: "2017-08-09"
-link: "https://www.imdb.com/title/tt3203620"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Jantar"
+categories:
+- draft
+- movies
+date: '2017-08-09'
+link: https://www.imdb.com/title/tt3203620
+tags:
+- cinemaqui
+title: O Jantar
 ---
+
 O Jantar é um filme difícil de ver. Ele é tenso, coloca seus nervos à flor da pele, discute temas difíceis e ainda por cima possui um elenco afiado em encarnar personagens difíceis de engolir em uma discussão de fachada que revela mais sobre o espectador que está assistindo do que sobre aquelas pessoas tentando encontrar consenso onde não existe nenhum.
 
 Ele começa de maneira justíssima colocando o personagem de Steve Coogan, Paul Lohman, na posição de destaque que ele merece. Lohman não é o mais simpático dos sujeitos, mas durante o filme inteiro ouviremos sua narrativa mental do que está acontecendo (pelo menos o que está acontecendo de acordo com sua cabeça). O sujeito começa sua exposição de uma maneira profética, mas incrivelmente sensata, e ganha de início uma certa simpatia do espectador, ou pelo menos o respeito em ser uma pessoa que defende opiniões fortes, o que importantíssimo para que seu personagem funcione ao longo da narrativa.

@@ -1,8 +1,11 @@
 ---
-date: "2016-11-03"
-categories: [ "draft", "books" ]
-title: "O Mundo de Sofia"
+categories:
+- draft
+- books
+date: '2016-11-03'
+title: O Mundo de Sofia
 ---
+
 Este foi o livro meio unanimidade dos fóruns de filosofia quando questionado qual o melhor começo para a área, que dê uma visão global, histórica e funcional do que é, afinal de contas, filosofia. Bem, e também o começo mais divertido, o que para uma área como essa deve se resumir aos quadrinhos do Existencial Comics e o livro de Jostein Gaarder.
 
 Esta é uma ficção infanto-juvenil, que poderia muito bem constar no currículo de qualquer escola que leve a sério ensinar seus alunos a pensar. Ele contém uma história em que ela própria já instiga a investigação racional do próprio ato de escrever e ler um livro, mas ao mesmo tempo faz um resumão dos pensadores mais famosos de cada era, além das correntes de pensamento vigentes.

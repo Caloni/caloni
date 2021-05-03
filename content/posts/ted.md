@@ -1,9 +1,11 @@
 ---
-date: "2012-10-03"
-link: "https://www.imdb.com/title/tt1637725"
-categories: [ "movies" ]
-title: "Ted"
+categories:
+- movies
+date: '2012-10-03'
+link: https://www.imdb.com/title/tt1637725
+title: Ted
 ---
+
 Quando assistimos à introdução que marca o início da amizade entre John, um garoto de 8 anos (Bretton Manley), e Ted, um ursinho de pelúcia que começa a falar a partir de um desejo que o garoto faz para uma estrela cadente, entendemos ser essa amizade o núcleo da história dirigida e escrita por Seth MacFarlane, do desenho politicamente incorreto [Family Guy], e que aqui além de dirigir dubla o ursinho com sua voz. Apenas o fato do filme acreditar nessa relação entre os dois é o suficiente para fazer com que o espectador faça o mesmo, e desista de assistir mais um besteirol com piadas envolvendo ursinhos de pelúcia falantes. Ted é tão ou mais real do que John, e depois que ele e John "crescem" (Mark Wahlberg) nunca deixam de honrar a promessa que fizeram quando crianças: que seriam companheiros inseparáveis.
 
 O problema é que, apesar de John e Ted agora terem vozes mais grossas e John estar até namorando por quatro anos com a estonteante Lori (Mila Kunis) não faz com que ambos deixem suas manias de quando crianças, como fazer trocadilhos estúpidos, usar referências aos anos 80 e fazer piadas sobre peidos. No entanto, a proporção com que isso ocorre reflete a fase adulta, e agora a dupla de amigos, bebe, cheira e faz piadas envolvendo inúmeros palavrões (suavizadas por uma legenda mutiladora, o que provavelmente deve se repetir na versão dublada). Esse desapego de John com a vida adulta faz com que Lori se canse deles, e a relação entra em um impasse: ou ela ou o urso.

@@ -1,9 +1,11 @@
 ---
-date: "2011-10-29"
-link: "https://www.imdb.com/title/tt1954379"
-categories: [ "movies" ]
-title: "Jovens Modernos"
+categories:
+- movies
+date: '2011-10-29'
+link: https://www.imdb.com/title/tt1954379
+title: Jovens Modernos
 ---
+
 Qual a visão de um crítico musical sobre a música contemporânea de vanguarda? Ou, uma pergunta ainda melhor: o que esse crítico pensa sobre os jovens dessa nova era, tão acomodados a ouvirem músicas de diversas correntes, muitas delas auto-proclamadas futuristas, e se limitarem a apertar o botão de curtir e compartilhar em sua rede social?
 
 Essa questão não é respondida em Jovens Modernos, novo documentário de Jérôme de Missolz e que percorreu a meca de diversas correntes musicais das últimas décadas, tendo como seguidores supostos fãs do crítico (ou da música que este persegue).

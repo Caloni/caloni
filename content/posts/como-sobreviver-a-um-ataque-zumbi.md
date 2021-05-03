@@ -1,9 +1,12 @@
 ---
-date: "2015-12-09"
-link: "https://www.imdb.com/title/tt1727776"
-categories: [ "draft", "movies" ]
-title: "Como Sobreviver a Um Ataque Zumbi"
+categories:
+- draft
+- movies
+date: '2015-12-09'
+link: https://www.imdb.com/title/tt1727776
+title: Como Sobreviver a Um Ataque Zumbi
 ---
+
 Mais um filme sobre zumbis que une o velho clichê da impopularidade de nerds -- nesse caso, escoteiros -- com uma daquelas aventuras juvenis que libera poucos peitinhos para muito sangue e tripas. Não há muito interesse no desenrolar dos personagens, nem se eles vão sobreviver (dica: vão) e muito menos o que começou tudo isso. Zumbis, jovens, e é isso.
 
 Há até uma festa secreta dos populares na escola. Há até mesmo a vizinha velha e chata. Há até mesmo uma breve sequência com gatos assassinos. Há algumas brincadeiras estilo homenagem, a velha sequência de planos separados por uma janela à prova de som, piadas com sexo, etc.

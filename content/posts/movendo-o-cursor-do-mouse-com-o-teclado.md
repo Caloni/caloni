@@ -1,8 +1,10 @@
 ---
-date: "2007-07-26"
+categories:
+- code
+date: '2007-07-26'
 title: Movendo o cursor do mouse com o teclado
-categories: [ "code" ]
 ---
+
 Bom, vamos deixar de papo furado e "codar". Para essa primeira tentativa iremos desenvolver um programa que move o cursor do mouse quando pressionada uma tecla de atalho e voltar à sua posição original quando pressionada outra tecla.
 
 > Nota de desculpas: eu sei que estou sendo rabugento demais com o mouse. Já é o segundo artigo que escrevo falando como evitar o mouse e isso deve realmente irritar os fãs desse ponteirinho irritante.

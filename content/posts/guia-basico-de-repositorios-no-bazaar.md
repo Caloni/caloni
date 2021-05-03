@@ -1,8 +1,11 @@
 ---
-date: "2008-06-10"
+categories:
+- draft
+- code
+date: '2008-06-10'
 title: Guia básico de repositórios no Bazaar
-categories: [ "draft", "code" ]
 ---
+
 Alguns conceitos-chave antes de trabalhar com o [Bazaar](http://bazaar-vcs.org/) são:
 
 	
@@ -176,4 +179,3 @@ Na verdade, o Bazaar vai além, e permite que um branch/checkout específico sej
 
 	
   * [Bazaar User Reference](http://doc.bazaar-vcs.org/bzr.dev/en/user-reference/bzr_man.html)
-

@@ -1,10 +1,13 @@
 ---
-date: "2020-11-01"
-link: "https://www.imdb.com/title/tt11084432"
-categories: [ "movies" ]
-tags: [ "cinemaqui",  ]
-title: "Meu Coração Só Irá Bater se Você Pedir"
+categories:
+- movies
+date: '2020-11-01'
+link: https://www.imdb.com/title/tt11084432
+tags:
+- cinemaqui
+title: Meu Coração Só Irá Bater se Você Pedir
 ---
+
 Meu Coração Só Irá Bater se Você Pedir tem um título tão longo e tão fofinho, mas é tão brutal. Se trata de um thriller de terror que faz você ficar preso na poltrona (ou, no caso da pandemia, no sofá) do começo ao fim. Curto na medida certa, seus eventos vão se desenrolando com naturalidade até o clímax necessário, esperado e catártico.
 
 A história é simples e direta: três irmãos vivem reclusos, pois os dois mais velhos, Dwight e Jessie, precisam alimentar o caçula, Thomas, com sangue humano. Dwight por ser homem é quem sai à caça de vítimas, geralmente sem-teto à beira de viadutos, em lugares onde ninguém irá notar a ausência de um. Thomas, vampiresco nos detalhes ruins, além de depender dos irmãos não pode sair à luz do sol. E Jessie trabalha como garçonete, servindo outros que não o irmão na lanchonete da cidade, atenta a potenciais próximas vítimas, pois sem o sangue Thomas, já abatido, sucumbirá rápido.

@@ -1,8 +1,11 @@
 ---
-date: "2008-07-22"
+categories:
+- draft
+- blog
+date: '2008-07-22'
 title: Aprenda a usar sua API
-categories: [ "draft", "blog" ]
 ---
+
 É conhecido que uma das desvantagens de se programar diretamente em Win32 API é a dificuldade de se entender os parâmetros e o retorno das funções. Concordo em parte. Constituída de [boa documentação](http://msdn.microsoft.com), parte da culpa dos programas mal-feitos reside na preguiça do programador em olhar a documentação por completo.
 
 A Win32 API está longe de ser perfeita, mas pelo menos está razoavelmente documentada, e é na leitura atenta da documentação que iremos encontrar as respostas que precisamos para que o programa funcione.

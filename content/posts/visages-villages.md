@@ -1,10 +1,14 @@
 ---
-date: "2017-11-27"
-link: "https://www.imdb.com/title/tt5598102"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Visages, Villages"
+categories:
+- draft
+- movies
+date: '2017-11-27'
+link: https://www.imdb.com/title/tt5598102
+tags:
+- cinemaqui
+title: Visages, Villages
 ---
+
 Visages, Villages é um filme fácil de assistir. Se trata de um documentário road-movie com um artista jovem cuidando do projeto de uma artista experiente. Ambos se respeitam e estão juntos pelo mesmo objetivo: viver.
 
 E viver para um artista é botar o pé na estrada e sair fazendo arte. A arte dele são colagens. A dela é fotografia. Passando de vilarejo em vilarejo ele e ela tiram fotos das pessoas da paisagem e as expandem, fixando-as na mesma paisagem e nos mesmos muros, paredes e mentes dessas pessoas. Elas viram famosas por estarem destacadas do cotidiano.

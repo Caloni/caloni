@@ -1,8 +1,11 @@
 ---
-date: "2008-07-10"
-categories: [ "code", "draft",  ]
-title: "Primeiros passos no VMware Workstation"
+categories:
+- code
+- draft
+date: '2008-07-10'
+title: Primeiros passos no VMware Workstation
 ---
+
 Como uma ferramenta essencial que uso todos os dias da minha vida de programador, sou obrigado a falar neste blogue sobre a VMware, ferramenta que tem me salvado algumas centenas de horas de depuração, testes e alguns cabelos brancos (a mais).
 
 Para os que não sabem, o VMware é um software de virtualização que permite rodar diversos sistemas operacionais secundários (chamados de convidados, ou guests) em cima do sistema operacional primário (chamado de hospedeiro, ou host). Para isso ele utiliza uma técnica muito interessante conhecida como virtualização, onde o desempenho da máquina virtual chega bem próximo da máquina nativa em que estamos rodando, ainda mais se instalados os apetrechos de otimização (vide VMware Tools) dentro dos sistemas operacionais convidados.

@@ -1,10 +1,13 @@
 ---
-date: "2015-02-22"
-link: "https://www.imdb.com/title/tt2473794"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Mr. Turner"
+categories:
+- movies
+date: '2015-02-22'
+link: https://www.imdb.com/title/tt2473794
+tags:
+- cinemaqui
+title: Mr. Turner
 ---
+
 Luzes, câmera, ação. Para os pintores, especialmente para o excêntrico pintor britânico Joseph Mallord William Turner (Timothy Spall), o primeiro elemento da tríade cinematográfica também é o mais importante de uma das artes de onde se derivou a sétima. A luz, nunca levada em conta pelo público médio, é vital para a compreensão do que um quadro quer dizer, seja ele uma pintura de aquarela ou as paisagens estáticas do filme escrito e dirigido por Mike Leigh (O Segredo de Vera Drake).
 
 O filme protagonizado por Timothy Spall (mais conhecido por seu papel de Peter Pettigrew na série Harry Potter) acompanha a vida do pintor romântico desde a morte do pai até a sua própria e esperada morte. Spall consegue a proeza de se afastar de seus papéis cômicos e colocar um filtro de mistério por trás daquele esquisito homem que bufa e respira como um porco, se mantém quieto na maioria de suas observações, mas quando fala nunca é algo que esperamos, mas sempre mais profundo e igualmente misterioso.

@@ -1,10 +1,14 @@
 ---
-date: "2016-11-02"
-link: "https://www.imdb.com/title/tt3774114"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Snowden"
+categories:
+- draft
+- movies
+date: '2016-11-02'
+link: https://www.imdb.com/title/tt3774114
+tags:
+- cinemaqui
+title: Snowden
 ---
+
 Um documentário reconstruído como ficção pode ser bem maçante para a maioria das pessoas; principalmente se a ideia dos idealizadores for simplesmente jogar diálogos e eventos de pessoas da vida real em um formato burocrático ou televisivo. A maioria sairia antes da metade do filme. No entanto, o lado show business de Oliver Stone e o roteiro incisivo de Kieran Fitzgerald realizam uma dramatização da vida real que consegue criar nos 134 minutos de Snowden um universo à parte da realidade, onde nos importamos com seus personagens como se fosse uma história criada para isso, mas ao mesmo tempo não nos faz esquecer que essa é a vida real, apenas alguns anos atrás, e cujos acontecimentos ecoam até o exato momento do agora, às vésperas de mais uma eleição presidencial norte-americana. E que Edward Snowden ainda é um exilado político.
 
 A história já começa com a figura de Snowden como o estereótipo de gênio (um falso clichê, como veremos), carregando um cubo mágico consigo e organizando um encontro secreto com jornalistas de alto escalão para divulgar informações confidenciais do governo. Sua história, contada a partir de então desde o início, é o exemplo da figura do hacker extremamente habilidoso, que nesse caso não passaria de um soldado medíocre caso não tivesse fraturado suas pernas durante o tempo que se alistou no exército americano. Isso faz com que ele procure outras formas de servir ao seu país, patriotra republicano como era. Habilidoso com computadores, acaba caindo em projetos de vigilância da NSA, o órgão de espionagem americano (que, entre outras coisas relacionadas à segurança do país, proíbe o uso de criptografias em solo nacional cujos algoritmos eles não possam quebrar). Conforme o jovem Snowden vai comprovando suas habilidades seus acessos vão subindo; em paralelo também acompanhamos sua vida amorosa com Lindsay Mills (Shailene Woodley), que conhece em um chat online por terem um interesse em comum: a obra O Fantasma do Futuro, uma das ficções que inspiraram as irmãs Wachowski a realizar o clássico Matrix, sobre uma realidade virtual onde o governo... quer dizer, as máquinas mantêm os indiferentes humanos escravizados e sob vigilância.

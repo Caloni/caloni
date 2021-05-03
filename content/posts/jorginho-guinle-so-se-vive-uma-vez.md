@@ -1,9 +1,13 @@
 ---
-date: "2019-03-18"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Jorginho Guinle - $o se Vive Uma Vez"
+categories:
+- draft
+- movies
+date: '2019-03-18'
+tags:
+- cinemaqui
+title: Jorginho Guinle - $o se Vive Uma Vez
 ---
+
 Biografias costumam ser sobre pessoas que fizeram algo em suas vidas; algo que nós, meros mortais, consideramos fora do comum. "Jorginho Guinle - $o se Vive Uma Vez" conta a história de um playboy que viveu 88 anos sem nunca trabalhar. Bom, isso é fora do comum. A grande questão que paira no ar é: e daí?
 
 Bom, há algo pelo menos interessante em sua... trajetória. A vida de Jorge Quinle, assim como de sua rica família, se confunde com a história do próprio Rio de Janeiro e dos famosos e poderosos que viviam e passavam por lá. Diferente de São Paulo, o Rio sempre teve essa imagem ambígua entre trabalho e prazer que caracteriza melhor o brasileiro médio, se é que podemos chamar assim. Ao mesmo tempo a cidade foi capital do país por tempo suficiente para deixar as marcas da aristocracia política em seus monumentos e na pomposidade da elite em uma época que era chique viajar para Paris, não Nova York.

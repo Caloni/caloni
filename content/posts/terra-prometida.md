@@ -1,9 +1,12 @@
 ---
-date: "2016-10-26"
-link: "https://www.imdb.com/title/tt0072446"
-categories: [ "draft", "movies" ]
-title: "Terra Prometida"
+categories:
+- draft
+- movies
+date: '2016-10-26'
+link: https://www.imdb.com/title/tt0072446
+title: Terra Prometida
 ---
+
 Uma farsa deliciosa dramatizando o apocalipse enxergado por Karl Marx. Mostra os capitalistas inescrupulosos sem valor à vida humana para defender o comunismo que dá valor aos humanos como ferramenta de sacrifício. Não é um filme para levar a sério, mas como qualquer propaganda vermelha que se preze, ela tem que ser dramática; quiçá hilária. Na verdade, é de uma série de filmes do diretor que ridiculariza a propaganda soviética.
 
 O diretor, polonês, e homenageado desta Mostra, criou este drama sob o filtro romântico e manipulador dos políticos comunistas de sua época, que discursavam sobre a "pobreza gerada pelo capitalismo", "forte desigualdade" e todo o pacote que hoje em dia infelizmente é levado a sério. O diretor então distorce ainda mais as lentes desse filtro (assim como as de sua câmera), transformando a burguesia no que era a nobreza: porcos ignorantes, desprezíveis, estúpidos, imorais, desumanos e mesquinhos. Nada pode ser levado a sério em um filme que não se leva a sério, exceto a piada que é feita do outro lado. Em determinado momento, um personagem, após aplicar um golpe, senta-se no chão, dá uma risada de satisfação e acena para a câmera, para o espectador.

@@ -1,9 +1,11 @@
 ---
-date: "2012-03-04"
-link: "https://www.imdb.com/title/tt1596365"
-categories: [ "movies" ]
-title: "A Mulher de Preto"
+categories:
+- movies
+date: '2012-03-04'
+link: https://www.imdb.com/title/tt1596365
+title: A Mulher de Preto
 ---
+
 Vamos falar primeiro sobre a fotografia: ela é escura, até demais, mas consegue criar tomadas internas que estabelecem com primor um clima tanto de luz natural (muito pouca), quanto de fantasia. E mesmo com tão pouca luz, conseguimos enxergar toda a ação ou falta dela. Existem tomadas, por exemplo, onde só dá pra ver a face do protagonista, mas graças à ótima lógica geográfica da casa é possível entender a dinâmica da cena.
 
 A história gira em torno de um advogado que precisa preparar os papéis para a venda de uma casa conhecida na região como amaldiçoada (ou seus antigos moradores). Um tema clichê, portanto. Mesmo assim Daniel Radcliffe, dessa vez livre das amarras de seu [Harry Potter], consegue uma interpretação dramática que confere peso ao seu não tão complexo personagem. Porém, mesmo assim conseguimos perceber toda a angústia de Arthur Kipps e sua vida de viúvo após sua mulher ter morrido durante o parto de seu único filho. Mesmo assim sua caracterização é dramática demais para o projeto, que brinca com sustos forçados e exposições além do razoável.

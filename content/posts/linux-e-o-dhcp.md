@@ -1,8 +1,10 @@
 ---
-date: "2008-04-09"
-title: "Linux e o DHCP"
-categories: [ "code" ]
+categories:
+- code
+date: '2008-04-09'
+title: Linux e o DHCP
 ---
+
 Quando procuramos no google por "linux dhcp", o que vem em resposta são diversas dicas, tutoriais, documentos oficiais e palpites sobre como configurar um servidor Linux.
 
 Muito bem. E a outra ponta da história?

@@ -1,9 +1,13 @@
 ---
-date: "2017-03-08"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Jonas e o Circo sem Lona"
+categories:
+- draft
+- movies
+date: '2017-03-08'
+tags:
+- cinemaqui
+title: Jonas e o Circo sem Lona
 ---
+
 Jonas e o Circo sem Lona é um documentário onde a documentarista não só realiza um trabalho de metalinguagem como chega a desempenhar um papel ativo na própria história que pretende contar.
 
 E a história é sobre o menino Jonas e o circo que ele montou no quintal de sua mãe. Com a ajuda de seus amigos, durante as férias ele treina e organiza espetáculos com a presença das outras crianças como espectadoras. Acabando as férias, as tarefas escolares viram o grande empecilho de Jonas e seu sonho de trabalhar no circo. Sua mãe luta com ele todo dia para fazer com que ele entenda o incompreensível: de alguma forma, a educação formal do menino deveria ser importante para seu futuro. Porém, o que vemos em volta daquele bairro baiano não é lá muito inspirador.

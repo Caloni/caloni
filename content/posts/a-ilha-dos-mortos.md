@@ -1,9 +1,11 @@
 ---
-date: "2010-12-20"
-link: "https://www.imdb.com/title/tt1134854"
-categories: [ "movies" ]
-title: "A Ilha dos Mortos"
+categories:
+- movies
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt1134854
+title: A Ilha dos Mortos
 ---
+
 Em uma introdução ultra-rápida em off temos o cenário e o resumo do que irá acontecer durante o filme inteiro, em uma síntese cuja forma também será usada por toda a história, mostrando a segurança de Romero em estabelecer as ligações primordiais e avançar ideologicamente em pontos mais aprofundados do tema "mortos-vivos".
 
 Notamos que a voz em off, do protagonista, é onisciente, pois ele narra sobre o patriarca de uma família que mora numa ilha governada e rivalizada por duas famílias tradicionais, mas faz isso antes mesmo de conhecer o sujeito. Por outro lado, nessa primeira "invasão" à ilha, vemos esse patriarca com outros olhos, como uma pessoa enlouquecida, coisa que esqueceremos depois, quando o vermos mais pra frente no filme.

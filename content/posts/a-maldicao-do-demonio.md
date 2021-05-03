@@ -1,9 +1,11 @@
 ---
-date: "2015-08-11"
-link: "https://www.imdb.com/title/tt00054067"
-categories: [ "movies" ]
-title: "A Maldição do Demônio"
+categories:
+- movies
+date: '2015-08-11'
+link: https://www.imdb.com/title/tt00054067
+title: A Maldição do Demônio
 ---
+
 Acabei assistindo este pequeno clássico de terror italiano em inglês (na Netflix americana), mas pouco se perde quando vemos que o visual arrebatador de sombras e efeitos até que competentes (ainda hoje) consegue subverter o sensual para o escatológico com uma facilidade que parece torná-los indissociáveis. Quer mais terror que isso?
 
 Contando a história da maldição de uma bruxa (Barbara Steele) e uma descendente do inquisidor que a amaldiçoou e a matou com a famigerada máscara do diabo -- uma construção cheia de pregos na parte de dentro martelada no rosto da vítima -- o filme conta a historia de vingança contra essa família depois que o Doutor Thomas Kruvajan (Andrea Checchi) acidentalmente deixa pingar gotas de sangue dentro do túmulo da tal bruxa, fazendo-a voltar à vida.

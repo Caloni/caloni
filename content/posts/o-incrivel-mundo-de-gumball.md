@@ -1,9 +1,12 @@
 ---
-date: "2016-10-16"
-link: "https://www.imdb.com/title/tt1942683"
-categories: [ "draft", "series" ]
-title: "O Incrível Mundo de Gumball"
+categories:
+- draft
+- series
+date: '2016-10-16'
+link: https://www.imdb.com/title/tt1942683
+title: O Incrível Mundo de Gumball
 ---
+
 Mais um desenho de adultos que apela para o absurdo, a metalinguagem, o fofinho, o humor negro e o slapstick que ultrapassa o convencional em um formato quase tão criativo quanto A Hora da Aventura. Felizmente, Gumball tem senso do ridículo ou acaba sendo mais adulto.
 
 A família de Gumball é mais um exemplo de família funcional que não precisa seguir regras para ser considerada saudável. Seus irmãos são criações de video-game, como um garoto sem pescoço mas cheio de pernas. O pai deles é um coelho de anime japonês fofinho, que vive em casa porque é muito burro para conseguir se manter em um emprego.

@@ -1,9 +1,12 @@
 ---
-date: "2019-09-12"
-link: "https://www.imdb.com/title/tt0401383"
-categories: [ "draft", "movies" ]
-title: "O Escafandro e a Borboleta"
+categories:
+- draft
+- movies
+date: '2019-09-12'
+link: https://www.imdb.com/title/tt0401383
+title: O Escafandro e a Borboleta
 ---
+
 Como adaptar a biografia de alguém que mexe apenas um olho? Esta é uma história real, emocionante para alguns, tendendo ao tédio para outros (eu incluso), mas que no filme de Julian Schnabel consegue nos convencer a embarcar nessa viagem filosófica de auto-conhecimento humano.
 
 Editor da Elle, e portanto sempre paparicado por belas mulheres, Jean-Dominique Bauby sofre um derrame e perde o movimento de todo seu corpo, com exceção de seu olho esquerdo, que vira, junto de sua audição, sua única janela para o mundo. Ele aprende a se comunicar com o olho, mas o seu eu, ou o que era o seu eu, está preso em seu corpo inerte e inútil.

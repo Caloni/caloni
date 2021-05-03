@@ -1,9 +1,11 @@
 ---
-date: "2011-09-04"
-link: "https://www.imdb.com/title/tt0409459"
-categories: ["movies" ]
-title: "Watchmen: O Filme"
+categories:
+- movies
+date: '2011-09-04'
+link: https://www.imdb.com/title/tt0409459
+title: 'Watchmen: O Filme'
 ---
+
 Watchmen seria uma história sobre anti-heróis ou heróis como eles seriam no mundo real? Desde o começo do filme, nos vemos embarcados nestes pensamentos, ajudados pela magnífica introdução que mostra, em câmera lenta, os vigilantes do filme posando para fotos jornalísticas, em uma fotografia super-sensível que, utilizando tons de sépia para identificar o passado, demonstra, desde já, o apuro estético de uma produção que está claramente acima do gênero "adaptação de quadrinhos".
 
 O filme começa com o assassinato de um desses heróis, o Comedian (Dean Morgan). Tanto as máscaras como os codinomes possuem o objetivo de impedir a identificação dos Vigilantes (em inglês, Watchmen), um grupo que, uma vez tendo suporte das autoridades como uma espécie de justiceiros dentro da lei, passariam aos poucos a serem renegados pela população, ciente cada vez mais que entregar o poder a uns poucos indivíduos dá abertura a abusos, como bem demonstram os dizeres de um protesto: "quem vigia os Vigilantes?".

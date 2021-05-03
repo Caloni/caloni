@@ -1,8 +1,11 @@
 ---
-date: "2016-01-27"
-title: "Exportando repositórios antigos do Bazaar para Git"
-categories: [ "draft", "blog" ]
+categories:
+- draft
+- blog
+date: '2016-01-27'
+title: Exportando repositórios antigos do Bazaar para Git
 ---
+
 Enquanto estudava sobre [controle de fontes distribuído](https://en.wikipedia.org/wiki/Distributed_version_control), experimentei e usei os projetos Mercurial e Bazaar, precursores desse modelo que funcionavam bem em Windows. Havia o Git, mas por conta da sua evolução assimétrica, o ambiente da Microsoft havia ficado para trás.
 
 Hoje com o Git sendo praticamente o _mainstream_ das conversões do SubVersion, e funcionando razoavelmente bem em ambientes Windows (64 ou 32), sobraram apenas os repositórios do Mercurial e do Bazaar. Na verdade, mais do Bazaar, pois eu havia migrado já do Hg pelo Bazaar possuir algo que hoje o Git emula, mas antes era um diferencial no projeto da Canonical: detecção de rename completo (com histórico e tudo). Isso para refatoração era vital, e suporte à refatoração pesada era o que eu precisava no momento.

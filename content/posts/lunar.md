@@ -1,9 +1,11 @@
 ---
-date: "2015-10-06"
-link: "https://www.imdb.com/title/tt1182345"
-categories: [ "movies" ]
-title: "Lunar"
+categories:
+- movies
+date: '2015-10-06'
+link: https://www.imdb.com/title/tt1182345
+title: Lunar
 ---
+
 Três anos. Apenas isso, e termina o contrato entre Lunar, uma corporação que domina o ramo de energia na Terra, e Sam (Sam Rockwell), o trabalhador solitário da estação de coleta de Hélio 3 na Lua. Como única companhia, Sam dispõe de GERTY (Kevin Spacey), um computador que reconhece a voz e o sentimento do astronauta. Em "Lunar", curiosamente, a única voz amiga do ser humano é um programa cibernético.
 
 O primeiro longa do diretor e roteirista Duncan Jones flerta necessariamente com seu primo distante, "2001: Uma Odisseia no Espaço", mas as coincidências terminam na solidão do espaço e na companhia robótica, quando um mundo regido por uma corporação e a clonagem humana tomam lugar nesse thriller dramático com toques de ficção científica na medida certa. Aqui o futuro só existe para criar este pequeno simulacro da pequenez humana frente não apenas às grandes corporações e a Inteligência Artificial, mas frente aos seus próprios limites na natureza.

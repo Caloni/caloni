@@ -1,10 +1,13 @@
 ---
-date: "2015-10-09"
-link: "https://www.imdb.com/title/tt2965412"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Eu Estava Justamente Pensando em Você"
+categories:
+- movies
+date: '2015-10-09'
+link: https://www.imdb.com/title/tt2965412
+tags:
+- cinemaqui
+title: Eu Estava Justamente Pensando em Você
 ---
+
 O amor está no ar, mas seus portadores estão com dúvidas existenciais, são espertos demais para senti-lo ou sofrem da doença do século: ansiedade.
 
 Ou melhor dizendo, "O" portador. Dell (Justin Long) é um jovem que super-analisa sua vida a todo momento. Curiosamente, o filme começa com ele sendo abordado por uma personagem secundária que nunca mais aparece, o que já indica caminhos tortos no roteiro para fazer ele parecer certo. Mas tudo bem, já que a primeira cena é a de outro personagem secundário em um pré-encontro torcendo para que isso que ele está vivendo não seja um sonho. Infelizmente, as paredes em sua volta estão pintadas com uma noite estrelada com meteoros, e todos já sabem o que isso significa.

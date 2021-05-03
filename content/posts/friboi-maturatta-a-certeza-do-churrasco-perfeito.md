@@ -1,7 +1,8 @@
 ---
-date: "2016-10-16"
-categories: [ "draft",  ]
-title: "Crítica: Comercial Friboi - A certeza do churrasco perfeito"
+categories:
+- draft
+date: '2016-10-16'
+title: 'Crítica: Comercial Friboi - A certeza do churrasco perfeito'
 ---
 
 Em tempos de regravações de westerns como Sete Homens e um Destino, a Friboi aposta no gênero e já parte em seu último comercial, "A certeza do churrasco perfeito", inovando com o conceito já inovador há pelo menos uma década de "câmera lenta com partículas em suspensão" introduzido por Guy Ritchie (Sherlock Holmes, 2009). Aqui o churrasco é visto através daquela trilha sonora afiada, fogos gerados por computação e, claro, close na destreza e precisão do mestre churrasqueiro.

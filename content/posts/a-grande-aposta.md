@@ -1,9 +1,12 @@
 ---
-date: "2016-11-26"
-link: "https://www.imdb.com/title/tt1596363"
-categories: [ "draft", "movies" ]
-title: "A Grande Aposta"
+categories:
+- draft
+- movies
+date: '2016-11-26'
+link: https://www.imdb.com/title/tt1596363
+title: A Grande Aposta
 ---
+
 The Big Short encara a crise de 2008 do ponto de vista dos investidores que viram a falha sistêmica na economia americana e, contra tudo e contra todos, resolveram apostar. Essa descrição está perfeitamente acurada, quase uma sinopse, mas não consegue sequer arranhar a superfície de um filme que possui em sua estrutura não apenas o drama pessoal de cada uma dessas pessoas e não apenas a descrição simples e bem-humorada do economês necessário para entendê-lo, mas também a angustiante visão global do trabalho de Adam McKay, que ultrapassa o limite de um ótimo filme e passa a realizar uma das melhores e mais completas e ácidas críticas ao capitalismo de Estado.
 
 O que mais impressiona é a quantidade e a qualidade do ótimo elenco, sejam conhecidos ou não. Necessário para o projeto, temos entre os cabeças de toda a operação, os personagens da vida real absolutamente geniais que descobriram a falha na Matrix antes dela explodir, atores de cara fácil construindo egos indestrutíveis: Christian Bale, Ryan Gosling e Brad Pitt. Sem contar Steve Carell, que consegue utilizar todos os seus pontos cômicos de atuação em um personagem absurdamente dramático.

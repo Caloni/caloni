@@ -1,9 +1,11 @@
 ---
-date: "2011-09-28"
-link: "https://www.imdb.com/title/tt1255953"
-categories: [ "movies" ]
-title: "Incêndios"
+categories:
+- movies
+date: '2011-09-28'
+link: https://www.imdb.com/title/tt1255953
+title: Incêndios
 ---
+
 Os melhores filmes, ou os que merecem revisitas mesmo depois de conhecermos o seu desfecho, geralmente são aqueles que permitem múltiplas interpretações e que conseguem impressionar pela sua engenhosa criação. Ou seja, ao mesmo tempo emocionam e possuem um prazer intelectual implícito em sua estrutura. Esse é sem dúvida o caso de Incêndios, que não apenas apresenta uma história arrebatadora do começo ao fim em seu nível emocional (personagens) como também permite análises em camadas mais racionais, sem com isso diminuir o impacto de sua história.
 
 Dirigido e escrito por Denis Villeneuve, que adaptou uma peça de Wajdi Mouawad, o filme começa com a leitura do testamento de Nawal Marwan, recém-falecida e mãe de um casal de gêmeos, Jeanne e Simon. O texto contém instruções específicas para a entrega de duas cartas: uma para um possível terceiro irmão e a outra para o pai desaparecido. Se, para Simon, o testamento é um disparate da mãe, que estava mentalmente debilitada, e por isso deve ser ignorado, para Jeanne é uma tarefa necessária, tanto como último pedido, como para honrar a morte da mãe, que apenas poderá ser enterrada de forma apropriada caso as instruções do testamento sejam seguidas à risca.

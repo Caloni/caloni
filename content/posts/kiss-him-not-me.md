@@ -1,9 +1,12 @@
 ---
-date: "2021-03-03"
-link: "https://www.imdb.com/title/tt5879454"
-categories: [ "draft", "animes" ]
-title: "Kiss Him Not Me (aka Watashi ga Motete Dousunda)"
+categories:
+- draft
+- animes
+date: '2021-03-03'
+link: https://www.imdb.com/title/tt5879454
+title: Kiss Him Not Me (aka Watashi ga Motete Dousunda)
 ---
+
 Kae Serinuma é gorda e mantém uma rede de amigos lindos e perfeitos no segundo ano do colégio. O motivo: ela shipa secretamente os meninos. Otaku como sua amiga, juntas elas vivem esse mundo de amores 2D, mas Kae é mais podreira e não se vê namorando.
 
 Mas tudo muda quando ela fica uma semana em seu quarto, emagrece e se torna linda. Agora ela vai ter que lidar com a perseguição de todos esses garotos lindos que não deseja beijar, mas que beijem uns aos outros.

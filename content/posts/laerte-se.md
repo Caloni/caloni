@@ -1,9 +1,12 @@
 ---
-date: "2017-09-24"
-link: "https://www.imdb.com/title/tt6795136"
-categories: [ "draft", "movies" ]
-title: "Laerte Se"
+categories:
+- draft
+- movies
+date: '2017-09-24'
+link: https://www.imdb.com/title/tt6795136
+title: Laerte Se
 ---
+
 Laerte é um cartunista famoso que em uma fase avançada da vida decide sair do armário da maneira mais torta possível: começa a se vestir de mulher. Só isso. O que se segue é um filme que analisa de maneira repetida, clichê e bem morna as "aventuras" deste artista simples, humano e, ainda que saindo palavras militantes saindo de sua boca, extremamente avesso a qualquer problematização da classe violenta e hierarquizada dos transsexuais.
 
 As diretoras deste documentário, Lygia Barbosa e Eliane Brum, parecem fascinadas com seu conteúdo, mas incapazes de criar qualquer narrativa minimamente interessante. Se trata de tomar um chá da tarde com Laerte e perceber que (surpresa!) ele é um ser humano como outro qualquer, com dúvidas, medos, receios, mas também feliz em ser ele mesmo.

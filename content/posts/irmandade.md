@@ -1,9 +1,12 @@
 ---
-date: "2016-11-02"
-link: "https://www.imdb.com/title/tt5104002"
-categories: [ "draft", "movies" ]
-title: "Irmandade"
+categories:
+- draft
+- movies
+date: '2016-11-02'
+link: https://www.imdb.com/title/tt5104002
+title: Irmandade
 ---
+
 O longa caótico e desconexo de Pepe Diokno é justamente e apenas isso: caótico e desconexo. Desconexo não apenas no sentido narrativo, mas de conexão com o espectador. Como é impossível para nós nos conectarmos àquela realidade de Manila, devidamente manipulada em uma mistura de ficção e realidade, não é possível sequer sabermos qual a linha de raciocínio de um criador petulante que não consegue unir tomadas desconexas com significado ou empatia.
 
 Dessa forma, as criaturas filipinas que observamos são nojentas, medíocres, maliciosas, ignorantes, maldosas e cruéis. Não há qualquer adjetivo que nos permita seguir em frente na identificação de protagonismo. Até Scarface tinha suas qualidades, mas aqui sequer sentimos a dor do próximo. Pior: fingindo um documentário, o resultado é ainda mais falso, pois muitas sequências são obviamente teatrais, e outras despertam a curiosidade apenas em detectar se é real ou não, mas ainda assim, sem significado.

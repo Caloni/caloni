@@ -1,9 +1,12 @@
 ---
-date: "2016-11-17"
-link: "https://www.imdb.com/title/tt1679335"
-categories: [ "draft", "movies" ]
-title: "Trolls"
+categories:
+- draft
+- movies
+date: '2016-11-17'
+link: https://www.imdb.com/title/tt1679335
+title: Trolls
 ---
+
 Um milagre acontece. E está um bom ano para milagres em animação. trolls, assim como Angry Birds como adaptação de games e Zootopia como a contemporaneidade da vida social, consegue se tornar um exemplo ainda melhor de como pegar um fiapo de argumento -- brinquedos feios da década de 80/90 -- e transformar em uma ode à felicidade, à referência de uma era, ao retorno da simples e não-cínica vida comum.
 
 Para isso ele conta com uma quantidade monstruosa de canções famosas de várias décadas em vários formatos, que fazem o percurso histórico do dance e do pop através das simpáticas figuras de um grupo de pequenas criaturas que cantam, dançam e se abraçam de hora em hora -- essa basicamente é a cultura deles -- sempre incentivados por sua amada princesa, que conta as histórias de seu povo através de recortes fofinhos, e seu leal rei, que não abandona ninguém quando sua aldeia é invadida por terríveis "gigantes" (para eles) chamados de Bergens. 

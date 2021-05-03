@@ -1,9 +1,11 @@
 ---
-date: "2015-05-12"
-link: "https://www.imdb.com/title/tt1617661"
-categories: [ "movies" ]
-title: "O Destino de Júpiter"
+categories:
+- movies
+date: '2015-05-12'
+link: https://www.imdb.com/title/tt1617661
+title: O Destino de Júpiter
 ---
+
 Esse é um ótimo filme se você quiser descobrir o que os irmãos Wachowski, da trilogia Matrix, fariam com a tecnologia atual contando uma história bem parecida com Matrix Revolutions no sentido de cenários grandiosos, personagens heroicos e o tempo dividido em metade ação, metade reflexão. Sinceramente, eu esperava um pouco mais dos diretores que criaram Cloud Atlas, uma odisseia que passeia por eras e cujo conflito é muito mais metafísico do que neste filme. Aqui o objetivo é fazer com que a garota Jupiter não seja morta e salvar a humanidade. A garota é Mila Kunis, aquela menina atraente de Cisne Negro que se deita com Natalie Portman, e está em boas mãos aqui, protegida pelo igualmente voluptuoso Caine Wise (Channing Tatum). Podemos criticar diversos aspectos da filmografia dos Wachoski, mas uma coisa que eles sabem escolher são tipos físicos para suas histórias.
 
 O destino da humanidade é visto sob uma perspectiva mais grandiosa. Somos cultivados por raças alienígenas que, além de nos "plantar" neste planeta, comandam uma espécie de hierarquia real com base na manipulação genética e como ela consegue fazer com que as pessoas vivam muito mais do que o normal. Estamos falando de milênios a mais. Não fica claro se todos têm esse direito ou benefício, mas o mais provável é que não. O tempo é a moeda intergaláctica.

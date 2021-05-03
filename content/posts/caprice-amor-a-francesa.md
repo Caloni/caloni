@@ -1,9 +1,12 @@
 ---
-date: "2016-09-30"
-link: "https://www.imdb.com/title/tt3612984"
-categories: [ "draft", "movies" ]
-title: "Caprice: Amor à Francesa"
+categories:
+- draft
+- movies
+date: '2016-09-30'
+link: https://www.imdb.com/title/tt3612984
+title: 'Caprice: Amor à Francesa'
 ---
+
 Uma comédia do Woody Allen, se Woody Allen fosse francês e não tivesse crises depressivas expostas em seus filmes. Aqui o lance é mais romântico, mas com conteúdo e inteligência. O filme trabalha a questão dos diversos tipos de amor, algo muito em voga hoje em dia, em que o conceito de família só é estático para burocratas estatais com crises de abstinência em práticas anais.
 
 A história é pautada no absurdo, e se torna uma comédia de situação muito fácil, graças a inúmeras coincidências que colocam os personagens da maneira que eles precisam estar para acontecer algo engraçado. No entanto, esses personagens são divertidos, bem-humorados, com estereótipos que combinam. Clément é um professor comum apaixonado por uma atriz que acaba namorando. No meio há uma jovenzinha apaixonada por Clément, e a partir daí caímos no velho triângulo amoroso francês. Só que não é isso que importa, mas a forma de abordar a relação entre os três. Se visto como tabu pela grande maioria das pessoas, aqui há algo de humano que ultrapassa alguns limites do aceitável pelas regras convencionais matrimoniais, e é isso que torna o filme atraente.

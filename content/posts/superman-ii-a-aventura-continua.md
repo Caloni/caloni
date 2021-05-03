@@ -1,9 +1,11 @@
 ---
-date: "2014-09-13"
-link: "https://www.imdb.com/title/tt0081573"
-categories: [ "movies" ]
-title: "Superman II: A Aventura Continua"
+categories:
+- movies
+date: '2014-09-13'
+link: https://www.imdb.com/title/tt0081573
+title: 'Superman II: A Aventura Continua'
 ---
+
 Superman II teve complicações que começam lá na história do trabalho original. O diretor Richard Donner havia imaginado o final do primeiro como o início do segundo, e o clímax do segundo seria o final do primeiro. A versão original proposta por Donner foi quase totalmente refeita e lançada para Home Vídeo em 2006, uma vez que ele já havia filmado quase todas as cenas antes de ser demitido e ter seu lugar ocupado por Richar Lester (que refilmou todas as cenas).
 
 A versão de Richard Lester é a conhecida de todos e a que estreou nos cinemas em 1980 e apresenta três vilões kriptonianos, os mesmos que haviam sido presos na zona fantasma no filme original, e que foram ironicamente soltos por uma bomba lançada ao espaço por Superman. A história paralelamente mostra General Zod e seus dois comparsas se aproximando da Terra e descobrindo seus poderes frente aos fracos terráqueos enquanto Louis Lane descobre aos poucos que sempre esteve do lado do homem de aço com óculos, o que faz com que confessem seu amor mútuo e faz com que Kar-El elimine sua parte alienígena para viver como um humano ao lado de Louis.

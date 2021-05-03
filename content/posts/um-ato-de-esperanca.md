@@ -1,10 +1,14 @@
 ---
-date: "2019-03-13"
-link: "https://www.imdb.com/title/tt6040662"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Um Ato de Esperança"
+categories:
+- draft
+- movies
+date: '2019-03-13'
+link: https://www.imdb.com/title/tt6040662
+tags:
+- cinemaqui
+title: Um Ato de Esperança
 ---
+
 Dramas no tribunal costumam chamar a atenção do espectador automaticamente. É do interesse humano querer saber qual será o destino das pessoas envolvidas. Quando é sobre um crime ou casos de família o interesse é maior. Dentro dessa ótica, filmes como Um Ato de Esperança já sai na vantagem logo na largada.
 
 Mas há um outro motivo do porquê esse filme de Richard Eyre sair na vantagem. Seu nome é Emma Thompson. Versátil, ela consegue eficiência tanto em papéis de comédia (Razão e Sensibilidade), de drama (Tinha Que Ser Você) ou ambos (Os Meyerowitz). Aqui ela é uma protagonista extremamente forte em um drama pesado e cuja vida das pessoas julgadas dependem 100% do seu intelecto e poder de encontrar a resolução mais justa para cada caso.

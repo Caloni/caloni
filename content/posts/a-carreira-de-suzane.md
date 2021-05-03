@@ -1,9 +1,11 @@
 ---
-date: "2020-05-19"
-link: "https://www.imdb.com/title/tt0056910"
-categories: [ "movies" ]
-title: "A Carreira de Suzane"
+categories:
+- movies
+date: '2020-05-19'
+link: https://www.imdb.com/title/tt0056910
+title: A Carreira de Suzane
 ---
+
 Um filme de estilo mais antigo por Éric Rohmer, e muito mais curto que os convencionais, com menos de uma hora de duração. Nem por isso ele é simplista. Sua função é nos apresentar os devaneios e julgamentos de um bonito e apagado rapaz, que vive à sombra de seu amigo de família mais abastada, a respeito das intenções para com os dois de uma garota que não é feia, mas que não possui a beleza clássica. Ela vive andando com eles, se tornando dependente de seu estilo de vida mesmo já pertencente à classe trabalhadora. Os três formam um triângulo amoroso dos sentimentos humanos menos nobres.
 
 Este é um filme de um cineasta francês que tem o charme de tornar suas histórias mais próximas de nós, mais reais, e com isso mais profundas. Faz pensar em nossas próprias vidas, os próprios amigos e os próprios erros, principalmente os erros daquela juventude que insistimos em querer esquecer e amar ao mesmo tempo.

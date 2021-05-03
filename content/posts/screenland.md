@@ -1,9 +1,12 @@
 ---
-date: "2018-06-29"
-link: "https://www.imdb.com/title/tt6148128"
-categories: [ "draft", "series" ]
-title: "Screenland"
+categories:
+- draft
+- series
+date: '2018-06-29'
+link: https://www.imdb.com/title/tt6148128
+title: Screenland
 ---
+
 Essa série parece ter a intenção de reconhecer a genialidade dos gamers em antecipar futuras tendências nos jogos eletrônicos que virão com a melhora da inteligência artificial e a construção de ambientes virtuais, sejam eles realistas ou não.
 
 Como o primeiro entrevistado sabiamente formula, a capacidade da mente humana em adaptar e interpretar nossa realidade será colocada à prova. Na verdade, já está sendo, como ele demonstrou em seu primeiro sucesso: um jogo que alia meditação com controle da consciência.

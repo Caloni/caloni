@@ -1,8 +1,11 @@
 ---
-date: "2016-01-14"
-title: "Templates em C no lugar de macros"
-categories: [ "draft", "code" ]
+categories:
+- draft
+- code
+date: '2016-01-14'
+title: Templates em C no lugar de macros
 ---
+
 A grande vantagem dos templates é manter o tipo de seus argumentos. Infelizmente, eles não existem na linguagem C, mas podem ser usados em construções C feitas com a linguagem C++, como ocorre com quem desenvolve device drivers para Windows.
 
 Imagine, por exemplo, a estrutura [LIST_ENTRY](https://msdn.microsoft.com/en-us/library/windows/hardware/ff554296(v=vs.85).aspx), que é uma tentativa de generalizar não só o tipo de uma lista ligada, como seu posicionamento:

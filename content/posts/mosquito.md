@@ -1,10 +1,13 @@
 ---
-date: "2020-10-22"
-link: "https://www.imdb.com/title/tt5658540"
-categories: [ "movies" ]
-tags: [ "cinemaqui",  ]
-title: "Mosquito"
+categories:
+- movies
+date: '2020-10-22'
+link: https://www.imdb.com/title/tt5658540
+tags:
+- cinemaqui
+title: Mosquito
 ---
+
 Mosquito, um filme português, é sobre a introspecção de um garoto em uma guerra próximo do final. Ele tem 17 anos e como todo jovem descerebrado cheio de energia para morrer espera poder fazer parte de uma batalha, mas está em um pelotão cujo objetivo é ficar "de boa na lagoa" (no caso na savana).
 
 Então ele acaba se distanciando e vivendo uma imersão cultural numa tribo onde só há mulheres. Onde estão os homens, ele questiona. Quem é o chefe? Ele ignora que boa parte da força braçal entre o exército português são os escravos de suas colônias. Ele próprio vira escravo, pois é pequeno e mirrado e abatido. A escravidão já existia na África, e aqui é visto sob o ponto de vista invertido como algo mais "humano". Engraçado o poder de julgar a humanidade pelo quão gente boa você é para o seu escravo. Hoje em dia, por exemplo, a questão escravista fica apenas no passado muito recente, ignorando que já era praticada pelo menos desde a Antiguidade.

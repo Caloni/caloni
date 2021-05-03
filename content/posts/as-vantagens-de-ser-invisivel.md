@@ -1,9 +1,11 @@
 ---
-date: "2012-11-29"
-link: "https://www.imdb.com/title/tt1659337"
-categories: [ "movies" ]
-title: "As Vantagens de Ser Invisível"
+categories:
+- movies
+date: '2012-11-29'
+link: https://www.imdb.com/title/tt1659337
+title: As Vantagens de Ser Invisível
 ---
+
 Primeiro filme dirigido por Stephen Chbosky depois de 95, a história do tímido Charlie parte do roteiro e romance escritos pelo mesmo Chbosky. Se não possui traços bibliográficos, ou mesmo que possua, há um mérito considerável em conseguir narrar o arco dramático de um protagonista adolescente sob sua ótica e ainda conseguir a proeza de ser poético, intenso e divertido durante cada momento.
 
 O elenco está completamente à vontade em seus papéis, e não são desperdiçados em nenhum momento, com um destaque positivo para Emma Watson por ter conseguido se desvencilhar do estereótipo de "Hermione" (da série de filmes [Harry Potter]) tão rapidamente. Seguindo os passos de As Melhores Coisas do Mundo (Laís Bodanzky), os jovens do filme não são adolescentes idiotas, mas são seres humanos como outros quaisquer. São tridimensionais, o que é vital para que nos identifiquemos com a história de cada um deles e estejamos interessados em acompanhar o desenrolar da evolução de Charlie (Logan Lerman), um garoto tímido entrando no primeiro ano do ensino médio, em torno de seus novos amigos veteranos Sam (Watson) e Patrick (Ezra Miller).

@@ -1,10 +1,13 @@
 ---
-date: "2020-09-26"
-link: "https://www.imdb.com/title/tt9354118"
-categories: [ "movies", ]
-tags: [ "cinemaqui"  ]
-title: "Vidas que se Encontram"
+categories:
+- movies
+date: '2020-09-26'
+link: https://www.imdb.com/title/tt9354118
+tags:
+- cinemaqui
+title: Vidas que se Encontram
 ---
+
 Este filme barato desafia o status quo. A família é caucasiana. Suas relações são heteronormativas. Seu status social é classe média. É um filme espiritual, mas sem apelar para religião. Não existe uma corporação vilã. Há pessoas bondosas e maldosas, e não é possível acertar quem é quem baseado em estereótipos. Seus diálogos são diretos, tediosos. Não há espaço para interpretação. Não há cinismo. E é tudo isso que o torna adorável.
 
 Em tempos onde as pessoas não aguentam mais pandemia, violência nas ruas, críticas a formas tradicionais de família, à cultura predominante e ao estilo de vida dos que construíram a sociedade próspera que vivemos, assistir a um filme tão simples e direto é um deleite para os olhos. É um descanso do streaming irritante, da TV aberta odiosa e das notícias ignorantes mundo afora.

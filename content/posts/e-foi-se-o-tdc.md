@@ -1,8 +1,10 @@
 ---
-date: "2011-07-07"
-categories: [ "draft" ]
-title: "E foi-se o TDC"
+categories:
+- draft
+date: '2011-07-07'
+title: E foi-se o TDC
 ---
+
 Dessa vez, talvez pelo dia de semana, havia poucos participantes. Isso, contudo, não evitou que o conteúdo e a qualidade das palestras fosse, como sempre, de alto nível.
 
 Infelizmente, só cheguei a partir da palestra de Antonio Ribeiro sobre uma Simulação Distribuída focando no trânsito de São Paulo. Há tempos esse é um tema debatido e ainda acredito que a tecnologia ainda vai resolver isso da melhor maneira possível: cada um em sua casa.

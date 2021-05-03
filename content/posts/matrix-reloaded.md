@@ -1,9 +1,12 @@
 ---
-date: "2016-05-06"
-link: "https://www.imdb.com/title/tt0234215"
-categories: [ "draft", "movies" ]
-title: "Matrix Reloaded"
+categories:
+- draft
+- movies
+date: '2016-05-06'
+link: https://www.imdb.com/title/tt0234215
+title: Matrix Reloaded
 ---
+
 Justiça seja feita: Matrix Reloaded é um esforço monumental dos irmãos (ou irmãs) Wachowski e o produtor Joel Silver em expandir e comentar o universo criado em seu antecessor, "Matrix". O filme e o roteiro tentam instigar a todo momento o espectador a pensar fora da caixa. Usa metáforas com o mundo dos computadores e argumenta tanto de maneira mística quanto filosófica. Exibe momentos cinematográficos exuberantes, muitas vezes apenas "porque sim", mas pelo menos nunca deixa de cuidar que pop, cult e intelectual caminhem juntos.
 
 E é por isso que eu, disposto a emendar minha revisita e Reloaded junto do terceiro filme, "Matrix Revolutions", não pude conter o ímpeto de escrever primeiro sobre este filme do meio, que apesar de intermediário, se mantém íntegro e com uma conclusão mais que satisfatória: quase que final.

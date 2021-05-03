@@ -1,10 +1,13 @@
 ---
-date: "2015-06-27"
-link: "https://www.imdb.com/title/tt2293640"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Minions"
+categories:
+- movies
+date: '2015-06-27'
+link: https://www.imdb.com/title/tt2293640
+tags:
+- cinemaqui
+title: Minions
 ---
+
 As árvores que jorram dinheiro em franquias de animação já conseguiram provar com Os Pinguins de Madagascar e Carros 2 que spin-offs de personagens secundários -- os que geralmente completam a história para seus heróis -- têm tudo para dar errado. No entanto, agora é a vez de Meu Malvado Favorito (e sua sequência) remoer o terreno de sua árvore milionária, esta plantada em um terreno arenoso, uma vez que as histórias dos dois filmes dependem de uma série de piadas prontas jogadas na tela em um ritmo que não nos permita perceber que sua história principal são dois fiapos de raiz prestes a se romper. Dessa forma, podemos considerar a ideia de produzir um filme apenas com os seres amarelos dos dois filmes -- que realizam cenas pontuais de dois segundos -- um projeto ambiciosamente marqueteiro e artisticamente repulsivo.
 
 A história tenta ser um prequel que narra rapidamente as aventuras dos Minions por dezenas de milhões de anos (desde a época dos dinossauros), definindo-os como seres cuja essência instintiva é procurar o "chefe do mal" e o seguir. Ironicamente, todos os seus líderes sucumbem às trapalhadas dos bichinhos amarelos, fazendo girar o ciclo de evolução no decorrer das Eras, passando por uma classificação que parece se basear em uma enciclopédia antiga chinesa: um T-Rex, o "homem" (um indivíduo?), um faraó (onde ajudam a endireitar um projeto de pirâmide que originalmente estaria ao contrário, ou seja, com uma das pontas servindo como "base"; sim, é esse o nível de "humor" do filme), e, por fim, Napoleão, onde a partir de sua suposta tentativa de invadir a Rússia o exército dos Minions fica perdido em algum lugar do Pólo Norte (obviamente onde fica a Rússia). Depois de séculos, um deles, Kevin, decide ir em busca de um novo líder, seguido de perto por mais dois seres amarelos. Seus nomes não importam muito, pois sequer personalidade eles têm, parecendo que foram escolhidos para a jornada pelo roteiro "porque sim" (ou porque possuem um formato e número de olhos diferente).

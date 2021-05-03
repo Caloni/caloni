@@ -1,8 +1,11 @@
 ---
-date: "2020-03-15"
-categories: [ "draft", "books" ]
-title: "Deep Work"
+categories:
+- draft
+- books
+date: '2020-03-15'
+title: Deep Work
 ---
+
 > "Let your mind become a lens, thanks to the converging rays of attention; let your soul be all intent on whatever it is that is established in your mind as a dominant, wholly absorbing idea." - Antonin-Dalmace Sertillanges
 
 Cal Newport é um professor universitário que, junto de outras pessoas, aprendeu que em épocas de distrações o trabalho profundo é o que merece toda nossa atenção. Em "Deep Work: Rules for Focused Success in a Distracted World" ele defende a tese de que a capacidade de realizar trabalho valioso se torna cada vez mais valioso em uma época em que somos levados a estar sempre interrompidos e vivendo de afazeres menores. O livro nos dá primeiro o argumento econômico; depois como podemos nós mesmos surfar a onda do trabalho totalmente focado e que renda frutos e realização.

@@ -1,9 +1,11 @@
 ---
-date: "2011-04-27"
-link: "https://www.imdb.com/title/tt0416508"
-categories: [ "movies" ]
-title: "Amor e Inocência"
+categories:
+- movies
+date: '2011-04-27'
+link: https://www.imdb.com/title/tt0416508
+title: Amor e Inocência
 ---
+
 Depois de acompanharmos as divertidas adaptações dos romances de Jane Austen (Razão e Sensibilidade, Emma, Orgulho e Preconceito), chegou a hora de vermos a história da própria Jane, e como ela se tornou a escritora dos romances de época.
 
 Em Amor e Inocência, como de praxe, o figurino e a direção de arte são impecáveis, com uma fotografia que exalta a presença dominante do verde e do ar livre nos jardins das residências interioranas, ao mesmo tempo que evoca um certo isolamento das famílias por conta disso.

@@ -1,10 +1,14 @@
 ---
-date: "2018-08-01"
-link: "https://www.imdb.com/title/tt4947672"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Café"
+categories:
+- draft
+- movies
+date: '2018-08-01'
+link: https://www.imdb.com/title/tt4947672
+tags:
+- cinemaqui
+title: Café
 ---
+
 "Café" é como se uma pequena janela se abrisse para o mundo e nós pudéssemos dar uma espiada em três histórias simples ligadas apenas pelo commoditie que leva o nome do filme. Não se trata de nada profundo, mas perene, pois apela para nossos sentimentos de tradição, nostalgia e esperança, uma tríade que nunca sai de moda. Como o próprio café, por exemplo.
 
 As histórias se desenrolam como situações do cotidiano com rostos familiares. Temos o pai de família bondoso -- e imigrante, claro, para se adequar à pauta atual do cinema -- que ensina a tradição do café para seu filho lendo a sorte do pó no fundo da xícara e toma conta da sua loja de penhores, embora não com a mesma paixão com que cuida de um bule de prata, herança da família por gerações. Quando manifestações causadas por uma crise econômica agitam violentamente o bairro onde mora, ele é levado, assim como um jovem desocupado, pelos impulsos mais basais, o que acaba lhe colocando em uma situação onde pode perder tudo.

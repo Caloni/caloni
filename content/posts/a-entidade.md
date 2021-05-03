@@ -1,9 +1,11 @@
 ---
-date: "2013-01-20"
-link: "https://www.imdb.com/title/tt1922777"
-categories: [ "movies" ]
-title: "A Entidade"
+categories:
+- movies
+date: '2013-01-20'
+link: https://www.imdb.com/title/tt1922777
+title: A Entidade
 ---
+
 O desenvolvimento de A Entidade diz mais sobre o espectador do que sobre a própria história. Em um mundo cada vez mais cínico e cético, a dificuldade em gerar tensão em um filme de horror, com exceção das [inúmeras] [versões] de [Atividade Paranormal], permanece na credibilidade dos acontecimentos. Se nossas crenças já não mais estabelecem espíritos e demônios como os seres supremos do mal a imersão nas histórias contemporâneas caminham cada vez mais para os efeitos dessas forças malignas: a morte, simplesmente.
 
 Que é o que ocorre nessa produção dirigida e escrita por Scott Derrickson ([O Exorcismo de Emily Rose], O Dia em que a Terra Parou). Acompanhamos a crescente obsessão do escritor de casos não-resolvidos Ellison Oswalt (Ethan Hawke) quando ele e sua família se mudam para uma casa onde ocorreu o enforcamento de uma família inteira, com exceção de uma menina. Ao encontrar uma caixa com fitas gravadas de outros assassinatos com as mesmas características, logo Ellison estabelece um paralelo com serial killers, e a questão do sobrenatural fica meio que por debaixo dos panos, aos poucos tomando o contorno principal.

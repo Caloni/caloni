@@ -1,9 +1,12 @@
 ---
-date: "2018-01-23"
-link: "https://www.imdb.com/title/tt0469494"
-categories: [ "draft", "movies" ]
-title: "Sangue Negro"
+categories:
+- draft
+- movies
+date: '2018-01-23'
+link: https://www.imdb.com/title/tt0469494
+title: Sangue Negro
 ---
+
 Com uma longa introdução sem falas que praticamente diz tudo que precisamos saber do protagonista para entender seus atos durante toda a longa, mas empolgante, história de sua ascensão na indústria do petróleo, Sangue Negro não perde o ritmo e o significado em nenhum momento. Sua fotografia é delineada por sombras e contornos nítidos no horizonte, sempre a nos lembrar do óleo negro, implícito em cada cena, mesmo que não esteja lá. E, quando está, não raro impregna a face das pessoas ou até as fere. Até a trilha sonora, baseada em sons ritmados, evocam a todo o momento as bombas puxando o petróleo para a superfície.
 
 A fotografia do filme começa sépia, mas aos poucos se suja com o ouro negro. O filme de Paul Thomas Anderson (Embriagado de Amor) não é fácil de acompanhar, pois nos apresenta um vilão protagonista que é um mecanismo para a geração de riqueza na sociedade. Pior que isso só a igreja parasita (na figura do ótimo Paul Dano) que se vê no direito de sequestrar mentes e almas dessa mesma sociedade.

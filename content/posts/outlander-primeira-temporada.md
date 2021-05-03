@@ -1,9 +1,12 @@
 ---
-date: "2017-07-19"
-link: "https://www.imdb.com/title/tt3006802"
-categories: [ "draft", "series" ]
-title: "Outlander - Primeira Temporada"
+categories:
+- draft
+- series
+date: '2017-07-19'
+link: https://www.imdb.com/title/tt3006802
+title: Outlander - Primeira Temporada
 ---
+
 Essa série parece uma cria da fórmula criada por Game of Thrones, onde sexo, violência e coadjuvantes de passagem são a lei. Porém, logo fica claro que a intenção nunca foi fugir muito do esquema noveleiro, onde torcemos por um casal principal. Ainda assim, a Escócia e os escoceses são retratados com tanto carinho nostálgico que é possível assistir à novela para se permitir viajar para aqueles tempos de outrora, onde costumes, valores, economia, política e sociedade parecem ligeiramente diferente do que vivemos hoje em dia.
 
 A desculpa utilizada pela autora dos romances que deram origem à história é a viagem no tempo. Com um começo bem capenga, desses de séries feitas para televisão, acompanhamos a lua de mel entre Claire e Frank, enfermeira e soldado, que se casaram logo após o final da Segunda Guerra, e agora passam duas férias merecidas na tradicional e misteriosa região de Terra Alta, na Escócia.

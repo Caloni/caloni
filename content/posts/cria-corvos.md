@@ -1,9 +1,12 @@
 ---
-date: "2019-08-19"
-link: "https://www.imdb.com/title/tt0074360"
-categories: [ "draft", "movies" ]
-title: "Cria Corvos"
+categories:
+- draft
+- movies
+date: '2019-08-19'
+link: https://www.imdb.com/title/tt0074360
+title: Cria Corvos
 ---
+
 Engraçado como a memória funciona. Organizada de maneira não-linear em nosso cérebro, perdendo algumas ligações aqui e ali, ganhando outras sem querer... no final das contas esse conjunto de quase-conhecimento sobre nós mesmos, sobre quem amamos ou a sociedade onde vivemos é tudo o que podemos chamar de "eu". A nossa identidade inteira, baseada em frágeis conexões elétricas bem atrás de nossos olhos.
 
 Cria Corvos é um filme que brinca o tempo todo com a memória, com a vida e com a morte, como deveria ser todo filme que se passa durante um regime militar (no caso o espanhol). Acompanhamos Ana em suas incursões pela casa burguesa, de militar, onde mora. Conforme Ana anda pela casa surgem suas memórias de sua falecida mãe, misturadas com o presente acontecendo aqui e agora, com sua repugnante tia, que acabou cuidando de suas sobrinhas neste breve período.

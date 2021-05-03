@@ -1,9 +1,12 @@
 ---
-date: "2020-11-14"
-link: "https://www.imdb.com/title/tt4823776"
-categories: [ "draft", "movies" ]
-title: "Bob Esponja: o Incrível Resgate"
+categories:
+- draft
+- movies
+date: '2020-11-14'
+link: https://www.imdb.com/title/tt4823776
+title: 'Bob Esponja: o Incrível Resgate'
 ---
+
 Certamente esta é a obra mais ofensiva ao legado de Bob Esponja. Não-canônica (explica as origens das amizades tudo errado) e apelando para sentimentos baratos com uma trama descaradamente copiada do [filme original], "O Incrível Resgate" mantém alguns bons momentos do personagem aloprado e seus amigos, mas trai nossas expectativas em sequências inteiras no melhor dos casos desncessárias e no pior dos casos completamente contra a atmosfera da série animada original.
 
 Por outro lado, a animação é admirável. Se trata de uma produção de alto custo, e os artistas digitais capricham muito nos detalhes, inserindo aqui e ali referências divertidas, mas mais do que isso recriando a Fenda do Biquini no formato 3D digital. E em certo momento somos levados para o deserto e uma cidadezinha deserta onde o bar está infestado de zumbis piratas, que é quando percebemos a falha: qualidade, mas não organicidade.

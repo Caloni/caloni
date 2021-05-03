@@ -1,9 +1,13 @@
 ---
-date: "2019-06-18"
-categories: [ "draft", "food" ]
-tags: [ "recipes" ]
-title: "Massa Folheada Caseira"
+categories:
+- draft
+- food
+date: '2019-06-18'
+tags:
+- recipes
+title: Massa Folheada Caseira
 ---
+
 Quantidade: 600g
 
 Ingredientes: 250 gr farinha sem fermento, 150 gr água fria, 1/2 c. chá de sal, 200gr manteiga.

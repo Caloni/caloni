@@ -1,10 +1,14 @@
 ---
-date: "2019-10-12"
-link: "https://www.imdb.com/title/tt9105628"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Último Amor de Casanova"
+categories:
+- draft
+- movies
+date: '2019-10-12'
+link: https://www.imdb.com/title/tt9105628
+tags:
+- cinemaqui
+title: O Último Amor de Casanova
 ---
+
 Parte da biografia oficial de Giacomo Casanova, uma mistura entre aventureiro, bon-vivant e relator dos costumes da época, O Último Amor de Casanova é um filme absurdo, lamentável e terrível. Ele não possui um elenco necessário, apenas objetos no cenário para dizer suas falas. Não estabelece conexão com o espectador, mas flerta com a possibilidade de acharmos seu protagonista e suas aventuras amorosas dignas de importância por motivos históricos.
 
 Ele gira em torno do único interesse amoroso do conquistador que de acordo com ele próprio não se tornou sua amiga, e por "conquistador" entenda por alguém com dinheiro e fama que compra suas companheiras, e "amiga" por alguém que ele tem acesso aos seus órgãos genitais. Essa pelo menos é a impressão do filme, muito embora não esteja muito longe dos costumes da época. A biografia de Casanova se tornou por muito tempo uma visão fiel (e abominável) do final do século 18 na Inglaterra.

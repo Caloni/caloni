@@ -1,10 +1,14 @@
 ---
-date: "2019-10-26"
-link: "https://www.imdb.com/title/tt10850518"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Andrey Tarkovsky: Uma Oração de Cinema"
+categories:
+- draft
+- movies
+date: '2019-10-26'
+link: https://www.imdb.com/title/tt10850518
+tags:
+- cinemaqui
+title: 'Andrey Tarkovsky: Uma Oração de Cinema'
 ---
+
 "Andrey Tarkovsky: Uma Oração de Cinema" é o documentário dirigido pelo filho de um dos mais importantes cineasta da história do cinema. Sim, o filho dirige seu primeiro longa, e é sobre o pai. Apenas isso já deveria chamar sua atenção de cinéfilo, mas se não fez efeito talvez nem o resto desse texto faça.
 
 Tarkovsky (Andrei Rublev, Solaris, O Espelho, Stalker), podemos dizer sem inventar nada, foi um poeta da sétima arte. Seus filmes são recheados de longas introspecções sobre o homem e a natureza, em busca da essência de ambos. Filho de um dos poetas mais relevantes da literatura russa, Arseny Tarkovsky, logo se vê que esta é uma família em que a arte respira através de versos, sejam escritos ou visuais. O neto de Arseny é um grande admirador da poesia de seu avô, e através de seus versos ele caminha através da cinegrafia do pai, ligando os pontos de sua biografia e que homenageiam suas origens.

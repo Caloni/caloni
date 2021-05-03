@@ -1,10 +1,14 @@
 ---
-date: "2008-05-13"
-link: "https://youtu.be/j1f7DQkFI5A"
-title: "Kernel Mode >> User Mode, ou Como Fazer Debug de User Mode pelo Kernel Mode usando WinDbg"
-categories: [ "code" ]
-tags: [ "windbg" ]
+categories:
+- code
+date: '2008-05-13'
+link: https://youtu.be/j1f7DQkFI5A
+tags:
+- windbg
+title: Kernel Mode >> User Mode, ou Como Fazer Debug de User Mode pelo Kernel Mode
+  usando WinDbg
 ---
+
 Existem algumas situações onde um depurador WYSIWYG é artigo de luxo.
 
 Imagine o seguinte: temos um serviço que inicia automagicamente antes do login do Windows, e possivelmente antes mesmo do ambiente gráfico. Esse serviço tem algum problema que impede que ele funcione sob as circunstâncias de inicialização do sistema. O que fazer?  Atachar o WinDbg no processo?

@@ -1,9 +1,11 @@
 ---
-date: "2011-11-27"
-link: "https://www.imdb.com/title/tt0067185"
-categories: [ "movies" ]
-title: "Ensina-me a Viver"
+categories:
+- movies
+date: '2011-11-27'
+link: https://www.imdb.com/title/tt0067185
+title: Ensina-me a Viver
 ---
+
 Harold é um garoto problemático para sua idade. Obcecado em fingir suicídios e sentindo prazer em frequentar enterros, não possui outra pretensão na vida. Introspecto e de poucas palavras, o uso de músicas existencialistas em torno dos seus atos aprofunda ainda mais seus sentimentos.
 
 Sua própria introspecção e solenidade em seus suicídios encenados criam uma espécie de dubiedade no personagem, pois não sabemos ao certo se rimos pelo humor do absurdo ou escolhemos nos compaceder do jovem que ainda não sabe como aproveitar a vida que possui.

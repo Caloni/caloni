@@ -1,9 +1,12 @@
 ---
-date: "2017-07-03"
-link: "https://www.imdb.com/title/tt3032476"
-categories: [ "draft", "series" ]
-title: "Better Call Saul - Terceira Temporada"
+categories:
+- draft
+- series
+date: '2017-07-03'
+link: https://www.imdb.com/title/tt3032476
+title: Better Call Saul - Terceira Temporada
 ---
+
 O espírito de Better Call Saul é o mesmo de Breaking Bad. A moral de seus personagens frequentemente oscila entre o aceitável e o criminoso. Porém, enquanto em Breaking Bad as ações de Walter White paulatinamente caminhariam em direção a atos que, sem sombra de dúvida, o deveria colocar por detrás das grades, este spin-off com o advogado da série original como protagonista nunca chega nesse nível, preferindo trabalhar a ambiguidade e a forma torta da justiça na vida real, onde às vezes -- ou quase sempre? -- as decisões dependem mais da narrativa e menos dos fatos.
 
 Nesta temporada acompanhamos o processo entre Jimmy McGill e seu irmão, em sua derrocada final na série. O personagem construído por Michael McKean é um hipocondríaco antipático ao mesmo tempo que se revela um profissional brilhante. Porém, ele não é apenas competente, mas procura sempre deixar claro que leva a lei tão a sério, ou sagrada, quanto uma religião, o que faz com que o espectador solte uma pontinha de simpatia por ele, ou ao menos pela sua integridade moral. É claro que, assim como seu irmão mais novo, ele utiliza das ferramentas em sua volta para fazer valer seus objetivos, e se estes são ou não legalmente válidos, isso se torna menos relevante do que o próprio embate em família.

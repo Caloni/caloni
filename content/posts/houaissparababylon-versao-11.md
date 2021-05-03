@@ -1,8 +1,11 @@
 ---
-date: "2008-12-30"
-categories: [ "code", "draft" ]
-title: "HouaissParaBabylon versão 1.1"
+categories:
+- code
+- draft
+date: '2008-12-30'
+title: HouaissParaBabylon versão 1.1
 ---
+
 Saindo mais um do forno.
 
 Essa nova versão do conversor do dicionário Houaiss para Babylon corrige o problema de não encontrar o Houaiss 1.0. O problema ocorria porque o conversor se baseava na localização do desinstalador para encontrar o dicionário. Na primeira versão do dicionário o desinstalador fica na pasta c:\Windows, onde obviamente não estava o dicionário.

@@ -1,9 +1,13 @@
 ---
-date: "2020-02-17"
-categories: [ "draft", "movies", ]
-tags: [ "cinemaqui"  ]
-title: "Fim de Festa"
+categories:
+- draft
+- movies
+date: '2020-02-17'
+tags:
+- cinemaqui
+title: Fim de Festa
 ---
+
 Fim de Festa é uma guerra declarada contra a lógica opressora burguesa, dessas que abomina o Carnaval e exige que lindas mulheres cubram os seios em público, mas ao mesmo tempo é uma diversão acompanhar essa aventura investigativa sob os olhos de quem pensa diferente: os subversivos. Que de subversivos não têm nada. É a elite brasileira que é careta, mesmo.
 
 Tudo começa no final do Carnaval no Recife. Wanderlei, investigador de polícia, retorna mais cedo para sua casa por conta do assassinato de uma francesa. Ele encontra sua filha nua indo tomar um copo d'água e ele se lembra de como era sua esposa. Assombrado por um tempo que não volta mais, o clima melancólico do personagem de Irandhir Santos já está estabelecido em pouco menos que dez minutos de tela e a postura acertadíssima do ator, que com o olhar distante e para sempre estupefato vendo sua vida passar cria um protagonista de filme noir em clima tropical.

@@ -1,10 +1,14 @@
 ---
-date: "2016-09-29"
-link: "https://www.imdb.com/title/tt3612984"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Romance à Francesa"
+categories:
+- draft
+- movies
+date: '2016-09-29'
+link: https://www.imdb.com/title/tt3612984
+tags:
+- cinemaqui
+title: Romance à Francesa
 ---
+
 Romance à Francesa é como se alguém pegasse um roteiro de Woody Allen (dos últimos anos, pelo menos), extraísse todo o pessimismo e trocasse por romantismo. Isso em uma época que, assim como A Comunidade, lutamos por entender, conviver e experimentar formas de amor que fujam do convencional.
 
 A comparação com o estilo do diretor/roteirista/comediante nova-iorquino se justifica pela doçura com que os diferentes aspectos dos relacionamentos dos personagens são abordados, mas mais do que isso, quando vemos o tanto de coincidências e situações forçadas necessárias para que o filme consiga chegar nos temas que pretende abordar. Enquanto engraçado pelo absurdo, ele vai aos poucos criando um renovado estilo de comédia romântica que é charmoso, inteligente, puro e sem malícias gratuitas.

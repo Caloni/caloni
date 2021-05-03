@@ -1,9 +1,11 @@
 ---
-date: "2011-11-02"
-link: "https://www.imdb.com/title/tt1403865"
-categories: [ "movies" ]
-title: "Bravura Indômita"
+categories:
+- movies
+date: '2011-11-02'
+link: https://www.imdb.com/title/tt1403865
+title: Bravura Indômita
 ---
+
 Com uma trilha sonora repetitiva mas sutil o suficiente para não notarmos, surge a caracterização de um tema, assim como Morricone fez em [Três Homens em Conflito], só que sem o espetáculo.
 
 Por falar em "Três Homens..." é bom lembrar que é utilizada a mesma ideia de usar a largura de tela gigantesca para extrair do cenário o máximo de paisagens que puder, e o longa encanta visualmente funcionando tanto pelo cenário como uma janela gigantesca que se abre no cinema, deslumbrante por si só, quanto pelos ótimos enquadramentos dos irmãos Coen, que conseguem transmitir realismo dessa forma.

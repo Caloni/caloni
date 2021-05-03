@@ -1,8 +1,10 @@
 ---
-date: "2007-07-12"
-categories: [ "essays" ]
-title: "Desejo insano de programar no kernel"
+categories:
+- essays
+date: '2007-07-12'
+title: Desejo insano de programar no kernel
 ---
+
 Muitas vezes meus amigos (um em particular) me perguntam por que não me interesso em programar em kernel mode, como se isso fosse um objetivo a ser alcançado por qualquer programador em user mode. Bom, não é.
 
 Claro que sempre me empenho em entender como o sistema funciona, nos menores detalhes e sempre que posso, o que nem sempre me leva para o kernel mode (entender como a CLR funciona, por exemplo). Posso até me considerar um ser privilegiado, já que trabalho com dois experts em kernel mode e .NET, respectivamente. Isso já faz algum tempo, e ambos possuem conhecimento e experiência necessários para sanar minhas dúvidas mais cruéis. Porém, uma coisa é o conhecimento da coisa. Outra coisa é a prática. E a teoria, como já dizia o Sr. Heldai, na prática é outra.

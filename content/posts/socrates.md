@@ -1,10 +1,14 @@
 ---
-date: "2019-09-20"
-link: "https://www.imdb.com/title/tt8026554"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Sócrates"
+categories:
+- draft
+- movies
+date: '2019-09-20'
+link: https://www.imdb.com/title/tt8026554
+tags:
+- cinemaqui
+title: Sócrates
 ---
+
 Sócrates, além de ser um filme arrebatador, como produção é mais um exemplo a ser seguido pelo cinema brasileiro. Iniciando com baixo orçamento, ganhando fôlego necessário na pós-produção, e viajando o mundo ganhando prêmios (Grécia, Alemanha, EUA), a única parte que não é admirável em todo o processo é ter que esperar todo esse tempo por sua estreia em seu país de origem. Mas, ainda assim: que momento para nos orgulharmos do cinema nacional.
 
 Tendo pouco mais de uma hora e contando a história de um garoto que luta basicamente para conseguir concluir sua despedida da mãe, seu único porto seguro, e que agora faleceu, sozinho e sem quem o ajudar, o garoto-título está à beira do desespero no pior momento de sua ainda curta vida, e as lentes do diretor/roteirista estreante Alexandre Moratto irão captar esses momentos como estrofes de uma poesia brutal e avassaladora com um tema tão simples, e que ao mesmo tempo se torna realista por seu tom imediatista do agora ou nunca.

@@ -1,9 +1,11 @@
 ---
-date: "2013-02-20"
-link: "https://www.imdb.com/title/tt1560747"
-categories: [ "movies" ]
-title: "O Mestre"
+categories:
+- movies
+date: '2013-02-20'
+link: https://www.imdb.com/title/tt1560747
+title: O Mestre
 ---
+
 Desde o início Freddie Quell (Joaquin Phoenix) é um animal não domesticado, obediente aos seus instintos mais primitivos e dotado de traços animalescos e infantis (como se divertir com peidos). Constatamos isso ainda pelo seu ritual de beber um quase veneno preparado por ele e brigar como um animal raivoso e enxergar sexo em qualquer lugar.
 
 Acreditarmos em seu estado animalesco é vital para que entendamos desde o início. A suposta aura de superioridade que Lancaster Dodd (Philip Seymour Hoffman), o tal Mestre do título, parece atribuir à figura do homem não passa de um delírio da sociedade moderna. Para isso a colaboração incondicional dos dois atores em viverem essas caricaturas é o que determina o sucesso na comparação entre esses seres que parecem tão díspares. No entanto, note como Lancaster se enfurece ao menor sinal de crítica aos seus métodos, por mais ponderados e racionais que estes sejam, demonstrando que talvez seja uma versão podada do seu recém-amigo.

@@ -1,10 +1,13 @@
 ---
-date: "2015-05-10"
-link: "https://www.imdb.com/title/tt3305316"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Segunda Chance"
+categories:
+- movies
+date: '2015-05-10'
+link: https://www.imdb.com/title/tt3305316
+tags:
+- cinemaqui
+title: Segunda Chance
 ---
+
 A diretora Susanne Bier já nos mostrou um debate ético arrebatador em Depois do Casamento. Agora em Segunda Chance o dilema moral, como ideia, é muito maior, e dificilmente há um momento no filme que é possível relaxar de tanta tensão. Os closes nos atores são constantes e a câmera na mão deixa tudo mais imediatista. Se há momentos de calmaria, é porque Bier escolhe nos brindar de tempos em tempos com a visão da água tocada pelo vento, ou o céu pelos pássaros.
 
 A história gira em torno de dois casais e dois bebês, que são eficientemente introduzidos logo no início. Andreas (Nikolaj Coster-Waldau) é um policial que, ao presenciar o descontrole de sua mulher, Anna (Maria Bonnevie), ao perder o filho em uma morte precoce ocorrida durante a noite, se desespera ao entender que ela é capaz de se matar pela dor do luto. Ele realiza, então, na calada da noite, a troca por outro bebê que ele havia visto naquele mesmo dia, filho de um casal problemático: Tristan (Nikolaj Lie Kaas), o marido drogado que espanca constantemente sua mulher, Sanne (May Andersen).

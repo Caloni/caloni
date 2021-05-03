@@ -1,9 +1,12 @@
 ---
-date: "2019-02-18"
-link: "https://www.imdb.com/title/tt0367790"
-categories: [ "draft", "movies" ]
-title: "O Retorno de Sweetback"
+categories:
+- draft
+- movies
+date: '2019-02-18'
+link: https://www.imdb.com/title/tt0367790
+title: O Retorno de Sweetback
 ---
+
 Um filme é produzido em 1971. Ele fala sobre um negro que mata policiais para sobreviver e se dá bem no final (foi isso que eu entendi). Ninguém branco produziria um filme desses nessa época. E hoje "O Retorno de Sweetback", em 2003, fala sobre a Odisseia que foi essa produção.
 
 O diretor é Mario Van Peebles, filho de Melvin Van Peebles, o diretor do filme sobre o que estamos falando. Ele interpreta seu pai naquela época. A narrativa é de ficção documental, com pessoas falando sentadas, mas principalmente a história sendo contada com imagens. O formato do filme é independente, com direito a câmera na mão e iluminação amarelada dos anos 70 com estilo filme 8mm, mas obviamente com muito mais qualidade (e wide). A capa do DVD lembra os primeiros filmes do Roberto Rodriguez ou até mesmo aqueles trashs esquecidos na última fileira da última estante de uma locadora decadente.

@@ -1,9 +1,12 @@
 ---
-date: "2016-01-04"
-link: "https://www.imdb.com/title/tt3035582"
-categories: [ "draft", "movies" ]
-title: "S.O.S.: Mulheres ao Mar"
+categories:
+- draft
+- movies
+date: '2016-01-04'
+link: https://www.imdb.com/title/tt3035582
+title: 'S.O.S.: Mulheres ao Mar'
 ---
+
 Este filme é um longo comercial de uma empresa de cruzeiros. A história poderia muito bem acontecer em uma cidade qualquer, já que não há nenhuma cena que justifique a presença dos personagens em um navio. Salvo, claro, as patéticas "homenagens" a Titanic, tornando-o, por comparação, como se Plano 9 do Espaço Sideral, considerado o pior filme de todos os tempos, homenageasse Cidadão Kane, considerado um dos melhores.
 
 Pautado pelo já conhecido argumento das "globochanchadas" para mulheres inseguras, a história é que ela (Giovanna Antonelli) perde o marido para a amante e tenta resgatá-lo em uma viagem pelo mar para a Itália. Junto vão a melhor amiga, viciada em homens lindos e musculosos, e a sua secretária, essas empregadas que fazem sucesso nos programas de TV da emissora por serem simples e "humildes". A diversão da classe média brasileira sempre foi pautada no ridículo da plebe, até quando a audiência é formada pela própria plebe. E o amor sempre foi pautado na busca incessante de um macho-alfa, sem o qual as mulheres não são ninguém.

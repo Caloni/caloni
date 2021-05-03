@@ -1,10 +1,14 @@
 ---
-date: "2016-09-04"
-link: "https://www.imdb.com/title/tt3647498"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Herança de Sangue"
+categories:
+- draft
+- movies
+date: '2016-09-04'
+link: https://www.imdb.com/title/tt3647498
+tags:
+- cinemaqui
+title: Herança de Sangue
 ---
+
 Mel Gibson não apenas é a escolha perfeita para seu papel paternal em Herança de Sangue: a sua persona dentro e fora das telas parece ser o mecanismo-chave que faz tudo funcionar no longa de Jean-François Richet. A sua rebelde filha se assusta quando vê seu pai, um sujeito com traços agressivos, sem a barba que escondia no início do filme seu rosto da época dos escândalos de violência doméstica que fez parte. Há uma cena na estrada com motos e um "acidente" que lembra muito a série de filmes Mad Max. Há até um antigo amigo do personagem de Gibson que negocia artefatos nazistas (Gibson, é interessante lembrar, ficou conhecido após A Paixão de Cristo como um cineasta com sentimentos anti-semitas). Simplesmente não há como não enxergar que o roteiro escrito por Peter Craig baseado em seu romance homônimo não tivesse Gibson como parte de sua inspiração (ou que pelo menos a adaptação apostasse nisso). O filme parece ainda pegar todas as oportunidades do roteiro para de certa forma redimir Gibson por ser (ou ter sido) um babaca na vida real. Ele até é um ex-condenado em condicional, querendo dizer que ele não pode pegar em armas e ferir pessoas na sequência mais divertida do filme, onde ele vai enumerando seus delitos.
 
 E o pior é que funciona. Com um carisma inabalável, seu personagem é um pai arrependido pelas decisões que o deixaram longe da filha desaparecida por muitos anos, e é tocante perceber a tatuagem de sua filha em seu braço fazendo par com uma figura mais obscura com a frase "alma perdida". Além do mais, a naturalidade com que ele enxuga as lágrimas do rosto de sua garota, e como parece disposto a vender a ideia para ela de que se deve sobreviver a qualquer custo (pois "nunca se sabe quando vai ser o melhor dia de sua vida") são parte integrante de um protagonista complexo, que passou por poucas e boas graças ao seu vício por bebidas e enxerga em sua herdeira os mesmos traços que demarcaram seus erros na vida. Ele não é um pai que está furioso por como sua filha é irresponsável porque entende que há muito dela que veio dele. E isso é vital para entender o porquê aquele homem abandonado em um trailer no deserto de repente se torna dono de uma motivação que o faria ir no inferno e voltar com o capeta pelo colarinho.

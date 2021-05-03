@@ -1,10 +1,14 @@
 ---
-date: "2019-10-01"
-link: "https://www.imdb.com/title/tt8473532"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Sem Túmulo"
+categories:
+- draft
+- movies
+date: '2019-10-01'
+link: https://www.imdb.com/title/tt8473532
+tags:
+- cinemaqui
+title: Sem Túmulo
 ---
+
 O cinema do Oriente Médio em geral exporta para o mundo filmes que esmiuçam relações sociais e familiares, e têm se saído bem no Ocidente por nos oferecer essa discrepância de culturas. Sem Túmulo não é exceção, e constrói através de sua pequena janela de dois dias uma compilação de sentimentos remoídos do passado de uma família, mas se esquece de se conectar com seu espectador.
 
 O que inicia a história é a morte de um homem já idoso, no fim inevitável de sua vida. Porém, uma informação importante que é guardada por muito tempo é que ele se matou com a ajuda de Majid, seu cuidador, que tem passado uma década ao lado dele. Os motivos por trás desse ato final e das motivações de Majid serão revelados em momento oportuno durante a viagem para seu sepultamento, com seus dois filhos e filha, em um vilarejo que ninguém conhece, mas que faz parte do último desejo de seu pai.

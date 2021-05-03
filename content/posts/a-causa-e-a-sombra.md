@@ -1,9 +1,12 @@
 ---
-date: "2016-10-31"
-link: "https://www.imdb.com/title/tt5291602"
-categories: [ "draft", "movies" ]
-title: "A Causa e a Sombra"
+categories:
+- draft
+- movies
+date: '2016-10-31'
+link: https://www.imdb.com/title/tt5291602
+title: A Causa e a Sombra
 ---
+
 Um filme sobre as pessoas torturadas e presas pela ditadura no Brasil nas décadas de 60/70 que se esquece de avisar ao espectador qual era o grande medo da população e dos militares caso os "revolucionários militantes" chegassem ao poder. Na verdade, é pior, pois se ao menos o filme se mantivesse centrado apenas no aspecto humano seria minimamente interessante, além de servir de alerta sobre a falta de limites do Estado. Mas é claro que ele precisa pintar aquelas pessoas como verdadeiros mártires, algozes e inspiradores de justiça, o que explica parcialmente a motivação dessas pessoas (só queriam ajudar os miseráveis, claro) quando no fundo se tornaram terroristas quando descobriram que não havia concordância nos planos mais gerais de ataque a Brasília.
 
 O núcleo da história é Alípio de Freitas, um ex-padre português que, vendo a miséria brasileira (e comparando com a pobreza de Portugal) se torna um militante de esquerda com a ajuda da classe média paulistana (mas a boa classe média, não a fascista). Juntos montam diversos esquemas, se reúnem, formam grupos. Tudo para frustrar os planos da CIA e do governo militar (evitar ataques comunistas em plena Guerra Fria). Com o tempo vão sendo capturados e torturados para revelarem informações sobre os grupos formados. Muitos permanecem presos para servir de lição para os outros e para se manterem fora de circulação.

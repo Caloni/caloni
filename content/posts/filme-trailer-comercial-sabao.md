@@ -1,8 +1,10 @@
 ---
-date: "2015-02-17"
-categories: [ "draft",  ]
-title: "Como é escolher um filme pelo trailer"
+categories:
+- draft
+date: '2015-02-17'
+title: Como é escolher um filme pelo trailer
 ---
+
 O que está passando esse fim-de-semana? Que tal dar uma olhada nos trailers para escolher?
 
 Uma escolha de atores-mirins arriscada, o uso da câmera subjetiva parece recorrer a artifícios do Cinema Indie norte-americano. A sequência noturna, no entanto, mostra uma bela mensagem de que nunca é tarde para brincar. O uso da trilha sonora casual cria uma atmosfera mais bucólica, mas ainda assim atual.

@@ -1,10 +1,14 @@
 ---
-date: "2016-02-18"
-link: "https://www.imdb.com/title/tt4285496"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Abraço da Serpente"
+categories:
+- draft
+- movies
+date: '2016-02-18'
+link: https://www.imdb.com/title/tt4285496
+tags:
+- cinemaqui
+title: O Abraço da Serpente
 ---
+
 O Abraço da Serpente é uma viagem cósmica através da descendência de todos os homens. Razão e tradição se digladiam para contar uma história que atravessa o senso da individualidade sem perder o senso da responsabilidade. E, sim, é também sobre índios.
 
 Porém, categorizar essa experiência de "filme de índio" é diminui-la, muito embora ela trate todo o tempo do folclore, comportamento, cultura, conhecimento e crença de algumas tribos de índios da Amazônia após a invasão colombiana. Quando falamos de índios, surge aquela sensação de estranhamento, de culpa e de distanciamento. Nada nesse filme nos leva aos mesmos sentimentos.

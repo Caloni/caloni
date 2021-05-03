@@ -1,10 +1,14 @@
 ---
-date: "2016-05-20"
-link: "https://www.imdb.com/title/tt4428814"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Valor de um Homem"
+categories:
+- draft
+- movies
+date: '2016-05-20'
+link: https://www.imdb.com/title/tt4428814
+tags:
+- cinemaqui
+title: O Valor de um Homem
 ---
+
 Lá vamos nós de novo. O Valor de um Homem não é um filme difícil, mas pode se tornar um martírio para muita gente acostumada com histórias mais "palatáveis". Esse é o típico filme que muitos comentam como "parado, sem nada acontecendo" ou, pior: sem final. Infelizmente, a história que ele pretende contar depende justamente dessa atmosfera opressiva, intimista e... parada. Sim, parada, já que não sai sequer um lufo de esperança para acalentar o protagonista desta história.
 
 Thierry (Vincent Lindon) é um trabalhador. E está cansado de não conseguir trabalhar. Está desempregado há mais de um ano, mas vem procurando. Moralmente esgotado das conversas do grupo de colegas que foram demitidos junto com ele sobre processar a empresa, suas entrevistas denotam alguém com pouquíssimas chances de sucesso em um mundo muito competitivo e pouco caridoso com o próximo. Ele fala constantemente com sua gerente no banco, quase sempre a respeito de um empréstimo. Ela sugere decisões difíceis para Thierry, como vender o apartamento que estão quase quitando, e sutilmente sugere fazer um segudo de vida, o que pode parecer um simples ato de vendedora ou, no caso deste filme, algo que lembra os filmes mais depressivos do Cinema Coreano: às vezes a morte pode ser uma saída financeira.

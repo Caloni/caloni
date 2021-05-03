@@ -1,9 +1,12 @@
 ---
-date: "2016-10-25"
-link: "https://www.imdb.com/title/tt5651272"
-categories: [ "draft", "movies" ]
-title: "5 Mulheres"
+categories:
+- draft
+- movies
+date: '2016-10-25'
+link: https://www.imdb.com/title/tt5651272
+title: 5 Mulheres
 ---
+
 Este supostamente é um thriller, mas se confunde tanto com uma comédia, e é também um drama que vai adocicando demais, tornando o conjunto nenhum bom representante de nenhum gênero. Pelo menos há um entretenimento inteligente acontecendo, o que já torna a experiência menos tortuosa.
 
 Além disso, as personagens -- as cinco mulheres do título -- são papéis estereotipados, mas também divertidos. Algumas delas se destacam a ponto de quase as destacarmos como alguém com mais personalidade, mas no final das contas ou ela é lasciva, ou é neutra ou tem um trauma do passado.

@@ -1,8 +1,10 @@
 ---
-date: "2011-10-22"
-categories: [ "draft" ]
-title: "Vida e Software"
+categories:
+- draft
+date: '2011-10-22'
+title: Vida e Software
 ---
+
 Desenvolver software está bem longe de ser uma ciência exata e muito próxima de ser uma ciência humana. Eu, pessoalmente, considero um ramo esotérico, onde vale muito mais ter a atitude de reconhecer que não temos muito controle sobre como as coisas funcionam do que querer ter as rédeas de algo desgovernado.
 
 Não sei bem o motivo. Talvez por existirem muitas camadas o software não consegue ser normalizado como as propriedades físicas dos blocos que montam um prédio ou um transatlântico. Ou simplesmente existem variáveis demais na própria camada da aplicação que impedem a compreensão total do problema (como sabemos se estamos dentro da Matrix? Como o software sabe se está em um ambiente virtualizado?).
@@ -16,4 +18,3 @@ Outra atitude igualmente deformada é achar que o mundo vai acabar se não exist
 De uma forma ou de outra, como toda atividade humana, escrever código nos define não apenas como bons programadores, mas como bons humanos, com seu conjunto de crenças e valores. O que, de certa forma, é um bom sinal, pois melhorando como seres humanos, melhoramos como programadores. E vice-versa.
 
  - Para quê filosofia?, por Marilena Chauí.
-

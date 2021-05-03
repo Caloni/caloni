@@ -1,9 +1,11 @@
 ---
-date: "2011-06-23"
-link: "https://www.imdb.com/title/tt0076759"
-categories: [ "movies" ]
-title: "Guerra nas Estrelas"
+categories:
+- movies
+date: '2011-06-23'
+link: https://www.imdb.com/title/tt0076759
+title: Guerra nas Estrelas
 ---
+
 Sem modelos anteriores além dos arquétipos narrativos como a clássica jornada do herói, o primeiro Guerra nas Estrelas brilha pela sua produção inusitada. Flertando entre o trash e o onírico fantasioso precursor da era das superproduções, o trabalho de George Lucas transita sem avisar entre o risível e o épico. Ele pode ser entendido como a mescla perfeita que gera o pop, esse sentimento de auto-importância criado na base do berro que fascinou e fascina gerações.
 
 O épico do filme é sentido melhor ao analisarmos o universo dessa galáxia tão distante e suas criaturas bem trabalhadas em um filme que envelheceu bem. Há Chewbacca, um ator com uma fantasia de pelos brilhantes que se comunica por sons animalescos indecifráveis. Há C3PO, um ator vestido com pedaços metálicos brilhantes cujas articulações são visíveis ao mesmo tempo que seu lado humano em suas análises emotivas em meio a perigosas missões de guerra. Note que ambos usam materiais brilhantes da mesma forma com que a palavra "brilhante" pode ser entendido como algo genial ou apenas algo que brilha.

@@ -1,9 +1,12 @@
 ---
-date: "2016-11-04"
-link: "https://www.imdb.com/title/tt0367882"
-categories: [ "draft", "movies" ]
-title: "Indiana Jones e o Reino da Caveira de Cristal"
+categories:
+- draft
+- movies
+date: '2016-11-04'
+link: https://www.imdb.com/title/tt0367882
+title: Indiana Jones e o Reino da Caveira de Cristal
 ---
+
 Indiana Jones e o Reino da Caveira de Cristal não é apenas um filme ruim. Ele vai muito além do que simplesmente duas horas desperdiçadas. Ele trai uma trilogia bem acabada e desencanta um universo intocável. E vai ainda além. Ele subverte a beleza da aventura realista de tempos pré-digitais em prol de um fundo verde que dá lugar a uma pavorosa fotografia que empalidece até o conceito de filme de ação contemporâneo. Ele explora personagens memoráveis em prol das cenas fáceis, do video-game de segunda categoria, de quebra-cabeças para crianças de cinco anos. Ele fere o coração de toda uma geração que sonhava com arqueologia exploratória. Ele chega ao cúmulo de tornar Indiana Jones um desistente, um perdedor, um conformista. A sombra do que um dia foi um Homem.
 
 E não é questão de idade. Harrison Ford poderia muito bem ser substituído por alguém com um estilo mais atual, ou ele próprio poderia representar a figura amável de Sean Connery no terceiro filme. Já vimos dezenas de filmes de ação essa década protagonizados por atores de ação dos anos 80. Stallone desenterrou a todos! Estão todos vivos, atores e diretores. Menos Spielberg. Menos George Lucas. Eles resolveram ficar sentados no canto da sala, brincando com PSP e imaginando um novo universo para o herói. Um universo onde ninguém se machuca, onde o importante é a forma em vez do conteúdo, e a forma é como uma dança com música ruim. Uma trilha sonora de John Williams que lembra os bailes de debutantes na época em que minha mãe era uma debutante.

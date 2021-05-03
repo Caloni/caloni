@@ -1,9 +1,12 @@
 ---
-date: "2007-11-13"
-link: "https://github.com/Caloni/mtool"
-categories: [ "blog", "english" ]
-title: "MouseTool"
+categories:
+- blog
+- english
+date: '2007-11-13'
+link: https://github.com/Caloni/mtool
+title: MouseTool
 ---
+
 Well, as most of you already know, I really don't like mice. Nevertheless I respect the users who use it and like it. That is the reason why I am writing a little more about it. This time, I going to show a program I use every day: MouseTool, for the users who does not use the mouse and like it.
 
 The program main purpose is to avoid clicking the mouse, simulating a click every time the user stops to move the cursor. Just this: simple, efficient and mouseless =).

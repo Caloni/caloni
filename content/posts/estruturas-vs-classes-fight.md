@@ -1,8 +1,11 @@
 ---
-date: "2014-05-20"
-title: "Estruturas VS Classes: fight!"
-categories: [ "draft", "code" ]
+categories:
+- draft
+- code
+date: '2014-05-20'
+title: 'Estruturas VS Classes: fight!'
 ---
+
 [![EpicRapBattleStructVcClass](http://i.imgur.com/0uar0i8.jpg)](/images/14250890913_37a06bf7a2_o.jpg)
 
 Uma dúvida besta e importante ao mesmo tempo que muitos iniciantes em C++ possuem é saber qual a diferença entre um objeto declarado como _class_ e um objeto declarado como _struct_. A causa dessa dúvida é uma linguagem que se derivou de outra (C) que não possuía classes, e portanto criou a palavra-chave _class_ para "ficar bonito", pois, na prática, não muda muita coisa. Tomemos como exemplo o código mais simples de todos:
@@ -120,4 +123,3 @@ Enfim, não há nenhum limite que se aplica a uma _struct_ além do bom senso. A
 Qual será a próxima batalha épica? Você escolhe!
 
 https://www.youtube.com/watch?v=zn7-fVtT16k
-

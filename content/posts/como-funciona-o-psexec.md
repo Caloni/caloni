@@ -1,8 +1,11 @@
 ---
-date: "2008-10-29"
+categories:
+- draft
+- code
+date: '2008-10-29'
 title: Como funciona o PsExec
-categories: [ "draft", "code" ]
 ---
+
 Semana passada precisei reproduzir o comportamento da ferramenta PsExec em um projeto, o que me fez sentir alguma nostalgia dos tempos em que eu fazia [engenharia reversa](http://www.caloni.com.br/engenharia-reversa-para-idiotas) todo dia. Este breve relato (espero) reproduz os passos que segui para descobrir o que esse programa tão útil quanto perigoso faz.
 
 #### Dados conhecidos

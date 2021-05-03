@@ -1,8 +1,11 @@
 ---
-date: "2017-05-30"
-categories: [ "draft", "food" ]
-tags: [ "recipes" ]
-title: "Bolo de Cenoura com Chocolate"
+categories:
+- draft
+- food
+date: '2017-05-30'
+tags:
+- recipes
+title: Bolo de Cenoura com Chocolate
 ---
 
 Ingredientes: Massa: 3 cenouras médias picadas, 1/2 xícara (chá) de óleo, 2 xícaras (chá) de açúcar, 4 ovos, 2 1/2 xícaras (chá) de farinha de trigo peneirada, 1 colher (sopa) de fermento em pó. Calda de Chocolate: 5 colheres (sopa) de açúcar, 3 colheres (sopa) de chocolate em pó, 1 colher (sopa) de leite, 1 colher (sopa) de manteiga.

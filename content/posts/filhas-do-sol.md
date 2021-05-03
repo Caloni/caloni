@@ -1,10 +1,14 @@
 ---
-date: "2019-08-13"
-link: "https://www.imdb.com/title/tt6704880"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Filhas do Sol"
+categories:
+- draft
+- movies
+date: '2019-08-13'
+link: https://www.imdb.com/title/tt6704880
+tags:
+- cinemaqui
+title: Filhas do Sol
 ---
+
 O objetivo de Filhas do Sol é ser algo grandioso e poético como os filmes do Terrence Malick (Árvore da Vida, você conhece o sujeito), ou a adaptação de um romance épico, que exalte as verdadeiras heroínas que essas mulheres são, arriscando suas próprias vidas em uma guerra. Que mártires.
 
 O primeiro grande problema para nós comprarmos essa ideia é que homens, mulheres e crianças morrem em uma guerra contra civis, mas é impossível comparar a quantidade de cada um dos grupos. Isso porque homens morrem absurdamente mais, por motivos óbvios, pois são obrigados moralmente e legalmente a se alistarem e lutarem na frente armada. Isso já é um fato documentado depois de muitas e muitas guerras travadas pela humanidade. O Oriente Médio não é exceção.

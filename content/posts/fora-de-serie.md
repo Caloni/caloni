@@ -1,10 +1,14 @@
 ---
-date: "2019-06-09"
-link: "https://www.imdb.com/title/tt1489887"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Fora de Série"
+categories:
+- draft
+- movies
+date: '2019-06-09'
+link: https://www.imdb.com/title/tt1489887
+tags:
+- cinemaqui
+title: Fora de Série
 ---
+
 Fora de Série é tudo o que eu queria ver no cinema em termos de comédia: algo engraçado (por favor), empolgante, inteligente, atualizado e que não espera que os espectadores sejam idiotas para que o filme funcione.
 
 A história é aqueles super-clichês de formandos do colégio americano e gira em torno de duas melhores amigas que são as CDFs (isso ainda existe?) e eu preciso dizer agora mesmo que a atriz que faz a gordinha precisa urgentemente ganhar um Globo de Ouro porque essa atuação é tudo de bom e mais um pouco.

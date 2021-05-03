@@ -1,9 +1,11 @@
 ---
-date: "2015-10-02"
-link: "https://www.imdb.com/title/tt1571222"
-categories: [ "movies" ]
-title: "Um Método Perigoso"
+categories:
+- movies
+date: '2015-10-02'
+link: https://www.imdb.com/title/tt1571222
+title: Um Método Perigoso
 ---
+
 Cronenberg, um diretor geralmente fascinante (Terapia de Risco), por algum motivo, dirigiu um filme burocrático que conta a história de amizade entre Sigmund Freud (Viggo Mortensen) e Carl Jung (Michael Fassbender) como um documentário da BBC. No meio envolve a russa judia Sabina Spielrein (Keira Knightley), de paciente para amante e posteriormente médica.
 
 As partes interessantes é que não havia antes restrições quanto a tratar conhecidos (como Jung utiliza sua esposa em uma sessão de terapia), mas já há a noção de transferência (quando o paciente transfere sua identidade para seu médido, e acaba se tornando vulnerável).

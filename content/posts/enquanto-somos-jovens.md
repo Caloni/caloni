@@ -1,9 +1,11 @@
 ---
-date: "2015-07-03"
-link: "https://www.imdb.com/title/tt1791682"
-categories: [ "movies" ]
-title: "Enquanto Somos Jovens"
+categories:
+- movies
+date: '2015-07-03'
+link: https://www.imdb.com/title/tt1791682
+title: Enquanto Somos Jovens
 ---
+
 Enquanto Somos Jovens mantém um roteiro tão bom e atuações tão alheias a isso (embora sempre interessantes) que suas falas parecem querer dizer muito mais ao espectador do que para seus próprios personagens. Ou talvez seja apenas a voz dentro da minha cabeça relembrando minha decisão atual de não ter filhos. Ainda é bom lembrar que, se a discussão central girasse em torno de ter ou não rebentos de carne-e-osso, essa seria uma das comédias que já conhecemos de Ben Stiller (com uma sempre inspirada Naomi Watts). Porém, ao mesclar o tema com filhos mais "autorais", como documentários, o filme enriquece ambos os lados, ainda que acabe envolvendo mais o segundo, já que seres humanos bebês são apenas uma desculpa para falar de algo mais importante.
 
 O diretor (e roteirista) Noah Baumbach ficou conhecido pelo seu ótimo indie Frances Ha, uma história envolvendo atores, e nesse filme continua a permear o mundo da criação com Josh (Stiller), um cineasta de meia-idade que acredita na integridade da narrativa dos documentários, e que se perdeu por 10 anos acumulando mais de 100 horas de uma entrevista com um velho monótono em uma discussão complexa que não parece se encaixar em um filme acessível a algum tipo de público. Ele é casado com a adorável -- e igualmente preocupada com sua fase na vida -- Cornelia (Watts), e por isso ganha como brinde um sogro que é um documentarista que já pavimentou sua fama, motivo suficiente para Josh tentar trilhar o seu sem pedir ajuda (mas já sabemos disso, já que Stiller se especializou em papéis arrogantes em busca de aceitação). 

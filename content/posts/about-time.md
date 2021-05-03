@@ -1,9 +1,12 @@
 ---
-date: "2015-12-27"
-link: "https://www.imdb.com/title/tt2194499"
-categories: [ "draft", "movies" ]
-title: "About Time"
+categories:
+- draft
+- movies
+date: '2015-12-27'
+link: https://www.imdb.com/title/tt2194499
+title: About Time
 ---
+
 Uma comédia romântica, ou até mesmo um romance, hoje se pauta mais em seus personagens do que sua narrativa. Até grandes títulos desses gêneros -- como Harry e Sally ou filmes do Woody Allen -- não são nada originais em seu desenvolvimento e, principalmente, seu desfecho. Porém, como não amar personagens tão carismáticos às vezes criados por performances memoráveis e falas idem?
 
 No caso de About Time, escrito (Notting Hill) e dirigido (Simplesmente Amor) por Richard Curtis, seu roteiro e direção não seguem os clichês de sempre, mas seu desenvolvimento é irregular, nunca acertando o tom da história que pretende contar. E o fato de estar contando com uma semi-novidade -- a viagem no tempo -- deveria contar com mais momentos interessantes do que de fato contém.

@@ -1,9 +1,13 @@
 ---
-date: "2018-10-10"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Criador de Universos"
+categories:
+- draft
+- movies
+date: '2018-10-10'
+tags:
+- cinemaqui
+title: O Criador de Universos
 ---
+
 O Criador de Universos (El Creador de Universos no original) em seu próprio título já revela a petulância de um mini diretor caseiro. E a primeira cena já revela a picaretagem de alguém que não quer ir pra escola. A análise da criação de um filme é a melhor parte, e a criação de seu roteiro a pior. Infelizmente o filme nos mostra muito da pior parte e muito pouco da melhor.
 
 Essa, claro, é a percepção de quem não sabe nada sobre o filme e se baseia inteiramente no que é visto dentro do filme. A história por trás, contudo, pode te interessar: o jovem Juan possui Síndrome de Asperger e passa o dia criando histórias dramáticas de assassinato com sua avó, Rosa, de 96 anos. A diretora Mercedes Dominioni é sua irmã e resolveu filmar uma história sobre ele. Mas claro que para quem vem de fora não há qualquer informação sobre isso no filme, o que torna tudo muito insípido.

@@ -1,9 +1,11 @@
 ---
-date: "2010-08-27"
-link: "https://www.imdb.com/title/tt0125439"
-categories: [ "movies" ]
-title: "Um Lugar Chamado Notting Hill"
+categories:
+- movies
+date: '2010-08-27'
+link: https://www.imdb.com/title/tt0125439
+title: Um Lugar Chamado Notting Hill
 ---
+
 Esta é uma história estilo conto de fadas, em que uma famosa atriz, inalcançável pela maioria dos mortais, acaba visitando um pequeno bairro de Londres (o Notting Hill do título) e conhece o dono de uma loja de livros de viagem (e é curioso que provavelmente ela deve ter viajado para muitos dos lugares descritos nos livros de suas estantes) e vivem um inusitado romance.
 
 Como eu disse, é uma história não-verossímil, e tanto a direção de arte quanto a fotografia sabem disso. Escolhendo um bairro bucólico da fria Londres, os ambientes parecem cinematográficos por natureza. Apostando em uma luminosidade mais clara que de costume o filme remete a um sonho, onde tudo é mais claro, mas ao mesmo tempo mais confuso (note a explosão de cores na feira e o quão agitadas são as ruas).

@@ -1,10 +1,13 @@
 ---
-date: "2020-07-20"
-link: "https://www.imdb.com/title/tt11988512"
-categories: [ "movies", ]
-tags: [ "cinemaqui"  ]
-title: "Expresso do Destino"
+categories:
+- movies
+date: '2020-07-20'
+link: https://www.imdb.com/title/tt11988512
+tags:
+- cinemaqui
+title: Expresso do Destino
 ---
+
 Expresso do Destino começa meio estranho. Os diálogos são fracos. Um misto entre realismo e amadorismo. Este é o cinema independente do século 21, onde tudo já foi tentado e a mínima diferença se destaca e ganha prêmios.
 
 Mas sabemos que é cinema atual porque as cenas com a câmera na mão são de vídeo-clipe e a vida nunca foi tão próxima disso. Este casal improvável ouve músicas pelo You Tube e conversa durante uma viagem de trem de 17 horas, onde irão descobrir que apesar de estarem indo para o mesmo casamento a contragosto possuem mais em comum do que imaginam. Sim, é clichê, mas o diretor Ozan Açiktan disfarça bem suas intenções com tanto carinho em sua decupagem que torna o clima aparentemente claustrofóbico de um trem em um ambiente relaxante que inspira a reflexão sobre a vida.

@@ -1,10 +1,14 @@
 ---
-date: "2017-04-21"
-link: "https://www.imdb.com/title/tt4680196"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Além da Ilusão"
+categories:
+- draft
+- movies
+date: '2017-04-21'
+link: https://www.imdb.com/title/tt4680196
+tags:
+- cinemaqui
+title: Além da Ilusão
 ---
+
 Além da Ilusão é uma viagem biográfica longa, inútil e de um lirismo que não se justifica ao longo da projeção. Se trata da burocracia dos filmes baseados em eventos reais que não estabelece uma trama, mas apenas descreve acontecimentos. Seus personagens não tão rasos e esquecíveis que nem a atuação competente do elenco nos salva do marasmo. E mesmo que fôssemos apreciar a obra pela sua "beleza inerente do cinema", ele comprova que para tudo há um limite.
 
 Se trata da história de duas irmãs médiuns que encantaram Andre Korben, o líder (imigrante) de uma produtora de filmes francesa em uma época onde os americanos já estavam dominando o mercado e o xenofobismo pré-Segunda Guerra já assombrava a Europa. Com o pretexto de conseguir filmar a força misteriosa que interage com ele através da irmã mais nova -- e que parece revelar um traço até masoquista de Korben -- ele convence os acionistas a gastar uma soma imensa de dinheiro em meio a uma crise econômica, além de adotar as duas irmãs a ponto de trazê-las para sua própria casa, a partir de onde passam a viver histórias diferentes e separadas.

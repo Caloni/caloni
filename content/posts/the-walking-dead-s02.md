@@ -1,9 +1,12 @@
 ---
-date: "2013-04-03"
-link: "https://www.imdb.com/title/tt1520211"
-categories: [ "draft", "series" ]
-title: "The Walking Dead - Segunda Temporada"
+categories:
+- draft
+- series
+date: '2013-04-03'
+link: https://www.imdb.com/title/tt1520211
+title: The Walking Dead - Segunda Temporada
 ---
+
 Nunca se viu antes zumbis tão realistas e humanos tão inverossímeis. Não é tão difícil acreditar nos mortos-vivos, pois já vimos isso antes em inúmeras obras do que tornou um sub-gênero do terror. Porém, um grupo de humanos como esse tentando sobreviver nessa selva de carne podre (e dentes, claro) é algo inédito e inacreditável. E mesmo assim, é exatamente dessa forma que a maioria de nós vive, o que acaba não dando muitas esperanças caso o universo de George Romero realmente viesse à tona.
 
 Baseado na criação de Frank Darabont e com a participação de inúmeros roteiristas e diretores, a segunda temporada de The Walking Dead se passa em uma fazenda que sobreviveu ao apocalipse zumbi, dando a possibilidade de dois grupos distintos interagirem: uma família tradicional e uma outra que se forjou na luta pela sobrevivência. Curiosamente o que vemos é o grupo original se despedaçando enquanto acampam no lugar mais tranquilo até agora na série. O motivo de estarem lá são as crianças: uma desaparecida (Sophia, Madison Lintz) e outra baleada (Carl, Chandler Riggs).

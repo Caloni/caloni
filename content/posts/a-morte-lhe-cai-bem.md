@@ -1,9 +1,11 @@
 ---
-date: "2013-11-02"
-link: "https://www.imdb.com/title/tt0104070"
-categories: [ "movies" ]
-title: "A Morte lhe Cai Bem"
+categories:
+- movies
+date: '2013-11-02'
+link: https://www.imdb.com/title/tt0104070
+title: A Morte lhe Cai Bem
 ---
+
 Comédia da sessão da tarde feita nos anos 90, era um filme engraçadinho com efeitos visuais de espantar. Hoje se transformou em uma surpreendente crítica aos cosméticos e uma direção extremamente inspirada de Robert Zemeckis ([O Voo]), que já naquela época prezava pelo controle e expressão do tom do filme através dos nada sutis enquadramentos.
 
 O importante é que o filme envelheceu muito bem, e manteve sua qualidade sobretudo nos efeitos visuais e maquiagem, que são partes vitais da narrativa. Abraçar o absurdo das situações foi uma das melhores estratégias de Zemeckis.

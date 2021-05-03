@@ -1,10 +1,14 @@
 ---
-date: "2019-03-29"
-link: "https://www.imdb.com/title/tt9353436"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Mike Wallace Está Aqui"
+categories:
+- draft
+- movies
+date: '2019-03-29'
+link: https://www.imdb.com/title/tt9353436
+tags:
+- cinemaqui
+title: Mike Wallace Está Aqui
 ---
+
 Mike Wallace Está Aqui é um documentário ágil que pega bastante da linguagem televisiva, mas sem mastigar muito a informação. o formato parece estar um pouco acima do conteúdo, o que não é um problema para a televisão, mas é para o cinema.
 
 De qualquer forma, se você nunca ouviu falar de Mike Wallace, assim como eu, este é um bom ponto de partida. Vemos vários entrevistados durante o filme, em pequenas pontas dos vários programas que este entrevistador que está na ativa desde a época do rádio. Não nos dizem quem eles são, mas há alguns momentos muito bons das entrevistas. Isso é virtude do entrevistador ou do entrevistado?

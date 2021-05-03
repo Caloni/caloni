@@ -1,9 +1,12 @@
 ---
-date: "2019-02-19"
-link: "https://www.imdb.com/title/tt0305669"
-categories: [ "draft", "movies" ]
-title: "A Casa Caiu"
+categories:
+- draft
+- movies
+date: '2019-02-19'
+link: https://www.imdb.com/title/tt0305669
+title: A Casa Caiu
 ---
+
 A Casa Caiu é mais uma daquelas comédias em que um personagem fora do universo do protagonista chega e muda tudo, em versão black, mas além disso tem uma crítica social interessante. Além de ser black o suficiente para você sentir um pouco da ginga.
 
 Também, Queen Latifah é a estrela do filme, e Steve Martin apenas a acompanha como o branco careta que aos poucos vai se libertando não dos seus preconceitos, mas os da sociedade em que vive. Sua reputação como advogado e como morador de um bairro branco de classe média alta pesa demais na hora em que ao se relacionar pela internet com uma suposta advogada ele descobre ser uma criminosa condenada saindo da prisão precisando que alguém reveja seu caso.

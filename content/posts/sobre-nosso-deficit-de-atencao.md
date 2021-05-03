@@ -1,8 +1,10 @@
 ---
-date: "2020-11-14"
-categories: [ "essays" ]
-title: "Sobre Nosso Déficit de Atenção"
+categories:
+- essays
+date: '2020-11-14'
+title: Sobre Nosso Déficit de Atenção
 ---
+
 Nossa sociedade produtiva está doente, mas apenas constatar o fato não começa o tratamento. Nós sabemos os sintomas e a causa. A causa é a evolução tecnológica se aproveitando de nossas falhas biológicas por grandes corporações para vender anúncios. Os sintomas é uma geração inteira diminuindo sua capacidade de concentração e vivendo como autômatos que clicam em links.
 
 Ironicamente existe uma análise [^1] feita por Tristan Harris, ex-eticista do Google e filósofo, que relaciona a "indústria da atenção" com a de alimentos, que aumenta níveis de sal, açúcar e outros condimentos para manipular nossa tendência a esses sabores. A nova indústria de entretenimento online utiliza a mesma estratégia, exacerbando nosso mecanismo de recompensas orientado por injeção de dopamina para fazer-nos cada vez mais checar por notificações quando estamos entediados, em um sistema de feedback positivo cujo final é não termos mais paciência para a realidade em nossa volta, e não conseguirmos mais parar de navegar pela infinitas luzes piscantes nas telas de nossos celulares.

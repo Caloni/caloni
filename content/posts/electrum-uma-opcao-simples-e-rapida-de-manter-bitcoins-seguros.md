@@ -1,8 +1,10 @@
 ---
-date: "2016-08-16"
-categories: [ "draft" ]
-title: "Electrum: uma opção simples e rápida de manter bitcoins seguros"
+categories:
+- draft
+date: '2016-08-16'
+title: 'Electrum: uma opção simples e rápida de manter bitcoins seguros'
 ---
+
 Estava já há algum tempo pesquisando as melhores ferramentas para organizar carteiras bitcoin. E quando se fala em ter seus próprios bitcoins, a segurança deve ser prioridade número zero. Isso porque, diferente de bancos, quando você se dispõe a gerenciar seu próprio cofre, é você, e apenas você, o único responsável pela sua integridade.
 
 Isso quer dizer que apenas uma senha protegendo sua chave privada talvez não seja necessário. Algum hacker ou programa malicioso instalado na sua máquina (como um keylogger) pode facilmente obter essa informação.

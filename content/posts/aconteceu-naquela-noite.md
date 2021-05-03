@@ -1,9 +1,11 @@
 ---
-date: "2015-11-01"
-link: "https://www.imdb.com/title/tt0025316"
-categories: [ "movies" ]
-title: "Aconteceu Naquela Noite"
+categories:
+- movies
+date: '2015-11-01'
+link: https://www.imdb.com/title/tt0025316
+title: Aconteceu Naquela Noite
 ---
+
 Será esta a comédia romântica mãe de todas as comédias românticas? Bom, uma coisa ela é: o exemplo perfeito de como, mesmo se tratando de um sub-gênero maniqueísta, é possível extrair boas histórias e um ótimo elenco em cima do que hoje são clichês mais que consagrados. Alguns já são jurássicos!
 
 Produzida nos anos 30, é conhecido como um dos três filmes que ganhou as cinco principais estatuetas: melhor filme, diretor, roteiro (adaptação), ator e atriz. Os outros dois, espaçados por décadas, foram Um Estranho no Ninho e O Silêncio dos Inocentes. Não que Oscar queira dizer algo, apenas uma curiosidade. Frank Capra também é o diretor das causas humanas, e esse filme discute com certa propriedade a busca da felicidade nas coisas simples.

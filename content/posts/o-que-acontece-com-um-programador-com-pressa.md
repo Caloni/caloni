@@ -1,8 +1,10 @@
 ---
-date: "2008-10-05"
-categories: [ "draft" ]
-title: "O que acontece com um programador com pressa"
+categories:
+- draft
+date: '2008-10-05'
+title: O que acontece com um programador com pressa
 ---
+
 Eu já sabia, mas é lógico que não ia falar.
 
 Há um tempo atrás um rapaz me pediu para responder uma série de questões sobre a carreira de programador C++. Era um rapaz empolgado com a idéia de aprender a linguagem em seis meses, com um roteiro, cronograma e um blogue recém-criados.

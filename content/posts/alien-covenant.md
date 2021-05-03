@@ -1,9 +1,12 @@
 ---
-date: "2017-05-23"
-link: "https://www.imdb.com/title/tt2316204"
-categories: [ "draft", "movies" ]
-title: "Alien: Covenant"
+categories:
+- draft
+- movies
+date: '2017-05-23'
+link: https://www.imdb.com/title/tt2316204
+title: 'Alien: Covenant'
 ---
+
 É muito bom poder assistir um terror espacial novamente. Reviver o pouco do brilho da tripulação original de Alien. Eu faria isso facilmente pela vida toda. E depois do infelizmente medíocre Prometheus, é possível quase perdoar as pequenas falhas de "Alien: Covenant,", a segunda aventura dessa nova fase que pretende se estender pelo menos mais um episódio.
 
 Essa é uma sequência direta de Prometheus, embora você não saiba disso até a nave de colonização com o nome-título aterrissar em um planeta habitável que emite um sinal terráqueo. Alerta de spoiler. Quer dizer, vindo do nada sutil Ridley Scott, seria insensato esperar algo diferente.

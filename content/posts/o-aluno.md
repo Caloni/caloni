@@ -1,9 +1,12 @@
 ---
-date: "2016-12-09"
-link: "https://www.imdb.com/title/tt0790663"
-categories: [ "draft", "movies" ]
-title: "O Aluno"
+categories:
+- draft
+- movies
+date: '2016-12-09'
+link: https://www.imdb.com/title/tt0790663
+title: O Aluno
 ---
+
 Este é daqueles filmes bonitinhos, com lição de moral, ou lição de vida, que tenta aumentar a trilha sonora solene e emocionante sempre que pode, além de colocar lágrimas nos rostos dos personagens para induzir o espectador ao choro fácil. Choro fácil este que não vem, já que seus personagens não são assim tão carismáticos, e o protagonista, apesar da história de vida sofrida, parece não possuir condições de exprimi-la de uma maneira civilizada.
 
 Mas o que pode ser um problema para um filme do gênero poderia muito bem ser uma defesa mais que inspirada no aspecto tribal da cultura africana. O filme trata disso, de como as tribos, apesar de rivais, viviam aparentemente em uma harmonia -- ainda que separados e com rivalidade -- antes do homem branco chegar, representado pela Rainha da Inglaterra, e tocar o terror para conquistar e unificar. Fica a dúvida se essa desunião dos povos já existia ou foi mera estratégia do Império Britânico de conseguir aliados locais e chegar rapidamente à vitória.

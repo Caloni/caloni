@@ -1,9 +1,11 @@
 ---
-date: "2014-10-04"
-link: "https://www.imdb.com/title/tt0114814"
-categories: [ "movies" ]
-title: "Os Suspeitos"
+categories:
+- movies
+date: '2014-10-04'
+link: https://www.imdb.com/title/tt0114814
+title: Os Suspeitos
 ---
+
 Em 1995 Kevin Spacey entrou em uma dobradinha (favor ignorar "Epidemia") que virou clássica nos filmes de suspense e policiais. "Seven: Os Sete Crimes Capitais" remodelou o gênero de serial killer em uma conclusão que deixou muita gente filosofando por meses a fio (os mais fanáticos, como eu, até hoje). E Os Suspeitos ganhou a mesma fama (esse eu cheguei a ver no cinema, tinha acabado de completar 16 ou quase). Ambos são filmes em que o mal prevalece? Não necessariamente. Temos aí uma relativização assimétrica do mal. Os policiais nem sempre são bonzinhos. Por outro lado, os bandidos continuam maus, mas agora assumem o papel de justiceiros involuntários.
 
 O que empolga durante os rapidíssimos 106 minutos do filme de Bryan Singer (da série X-Men) é a desenvoltura de um interrogatório informal que se desenvolve de maneira natural a partir de um criminoso menor que resolveu dar a língua nos dentes: Roger 'Verbal' Kint (Spacey). Apelidado por falar muito, é curioso que em todos os flashbacks que acompanhamos da história de Verbal ele quase não fala, ainda que seja conhecido como o "homem do plano" em todos os golpes aplicados por uma gangue aleatoriamente formada durante uma caça a suspeitos de um roubo de caminhão anos atrás.

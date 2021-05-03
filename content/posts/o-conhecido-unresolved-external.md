@@ -1,8 +1,11 @@
 ---
-date: "2008-07-18"
+categories:
+- draft
+- code
+date: '2008-07-18'
 title: O conhecido unresolved external
-categories: [ "draft", "code" ]
 ---
+
 O [artigo anterior](http://www.caloni.com.br/o-caso-da-funcao-de-delay-load-desaparecida) mostrou que nem sempre as coisas são simples de resolver, mas que sempre existe um caminho a seguir e que, eventualmente, todos os problemas se solucionarão.
 
 Porém, resolver um problema por si só não basta: é preciso **rapidez**. E como conseguimos rapidez para resolver problemas? Um jeito que eu, meu cérebro e o [Dmitry Vostokov](http://www.dumpanalysis.org/blog/) conhecem é **montando padrões**.

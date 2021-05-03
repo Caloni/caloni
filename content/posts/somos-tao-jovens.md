@@ -1,9 +1,11 @@
 ---
-date: "2013-05-14"
-link: "https://www.imdb.com/title/tt2215537"
-categories: [ "movies" ]
-title: "Somos Tão Jovens"
+categories:
+- movies
+date: '2013-05-14'
+link: https://www.imdb.com/title/tt2215537
+title: Somos Tão Jovens
 ---
+
 Antes de tudo, a interpretação de Thiago Mendonça é primorosa do começo ao fim ao estabelecer o "Renato" do filme não apenas como a sombra de um ídolo, mas a própria persona se construindo através de suas referências culturais. O uso de sua voz é um dos pontos fortes: usando entonações que vão aos poucos revelando o Renato Russo que os fãs conhecem, é uma surpresa agradável poder observar sua própria evolução como cantor, engrossando a voz aqui e ali, tentando encontrar o seu estilo. Isso nos aparece de forma completamente natural e discreta. A música e poesia das letras do vocalista parecem sair prontas do seu intelecto, e parte dessa experiência é devido ao interessante roteiro de Marcos Berstein ([Central do Brasil]) com a colaboração de Victor Atherino que vai construindo as situações e expressões de suas poesias no dia-a-dia casual.
 
 O mesmo não pode ser dito da direção: Antonio Carlos da Fontoura (No Meio da Rua) insiste em burocratizar a história com cortes episódicos entre ação e músicas, e evita polemizar demais em torno do temperamento explosivo do protagonista. Até sua sexualidade é meio deixada de lado e prejudica a construção do personagem, ainda mais sendo um tabu na época para apenas ser citado nas entrelinhas. Mesmo assim, é admirável observar sua trajetória em direção à liderança das duas bandas que formou tamanha a naturalidade com que ela se desenvolve. Uma pena que a apresentação dos outros componentes das bandas soe tão artificial e forçadamente prolixo, chegando a usar nome e sobrenome dos que estavam à margem do cantor ("esse é o Marcelo Bonfá").

@@ -1,9 +1,12 @@
 ---
-date: "2016-03-20"
-link: "https://www.imdb.com/title/tt0096874"
-categories: [ "draft", "movies" ]
-title: "De Volta para o Futuro Parte II"
+categories:
+- draft
+- movies
+date: '2016-03-20'
+link: https://www.imdb.com/title/tt0096874
+title: De Volta para o Futuro Parte II
 ---
+
 Quatro anos depois do sucesso do filme sobre viagem no tempo, o diretor Robert Semeckis e seu companheiro de roteirização Bob Gale planejam uma continuação em duas partes, o que criaria um desfecho de uma trilogia em dois passos. Para isso, dois roteiros foram produzidos e filmados praticamente ao mesmo tempo.
 
 O segundo filme, como um reflexo do primeiro, se volta para problemas que ocorrerão na família McFly 30 anos no futuro, o que implica em revisitarmos os mesmos conceitos do filme original com a grande diferença de estarmos visualizando um futuro possível para os idos anos 80, o que dá total liberdade de criação para a direção de arte, que amplia o universo do filme anterior e enriquece o atual com cores vibrantes e ideias e referências que pulam de todo lugar. É possível assistir o filme diversas vezes e ainda assim não encontrar todas elas.

@@ -1,9 +1,11 @@
 ---
-date: "2015-01-17"
-link: "https://www.imdb.com/title/tt1972571"
-categories: [ "movies" ]
-title: "O Homem Mais Procurado"
+categories:
+- movies
+date: '2015-01-17'
+link: https://www.imdb.com/title/tt1972571
+title: O Homem Mais Procurado
 ---
+
 O Homem Mais Procurado é um daqueles filmes que tenta te manter quase que completamente atento apenas pelo poder de persuasão de seu protagonista. Para sorte do diretor Anton Corbijn (Um Homem Misterioso), o intérprete Philip Seymour Hoffman, apesar de ter ido jovem, foi um dos grandes de sua geração, e constrói mais uma vez um personagem, se não multidimensional, crível naquele esquema de espionagem pós-atentados 11/9.
 
 Estamos na Alemanha, e o objetivo de Günther Bachmann é manter o mundo mais seguro, mesmo que isso envolva ir contra os princípios malucos dos governantes da época, que inclui matar e torturar o maior número de prisioneiros, terroristas ou até mesmo suspeitos de serem ou financiarem o terrorismo. Eles estão governando para o povo paranoico ou eles mesmos são a paranoia? É uma questão interessante, mas que não é abordada aqui.

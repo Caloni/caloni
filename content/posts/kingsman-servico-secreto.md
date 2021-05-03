@@ -1,9 +1,11 @@
 ---
-date: "2015-05-20"
-link: "https://www.imdb.com/title/tt2802144"
-categories: [ "movies" ]
-title: "Kingsman: Serviço Secreto"
+categories:
+- movies
+date: '2015-05-20'
+link: https://www.imdb.com/title/tt2802144
+title: 'Kingsman: Serviço Secreto'
 ---
+
 Estou passando atualmente por uns mal bocados à noite por causa de um culto religioso organizado por retardados mentais em um galpão próximo daqui. Além da figura horrenda de um pastor cuspindo seu ódio em gritos ao microfone que "elevam" a raça humana à posição de escória do planeta, tal evento é realizado muito provavelmente em um local infestado de pessoas cujo passado eu temo saber, já que ele tem que ser terrível o suficiente para que alguém se sujeite a um ritual que denigre a dignidade humana a níveis que, caso um mendigo estivesse presente, sem tomar banho nos últimos meses, tossindo um catarro de cor e forma desconhecidos enquanto grunhe e coça seus órgãos genitais, por comparação ele se transformaria no cavalheiro mais refinado, educado e interessante de todo o recinto.
 
 Entao não imaginam a coincidência irônica de eu estar assistindo a Kingsman exatamente no horário desse show de horrores. Isso porque nesse filme há um momento dos mais inspirados, onde o agente secreto realiza uma verdadeira carnificina em uma igreja dirigida por um pastor também vestindo seus trajes de ódio e rancor. Se eu precisasse te convencer a assistir a este filme seria precisamente por causa dessa cena.

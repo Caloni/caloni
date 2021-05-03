@@ -1,9 +1,11 @@
 ---
-date: "2014-09-23"
-link: "https://www.imdb.com/title/tt0816711"
-categories: [ "movies" ]
-title: "World War Z"
+categories:
+- movies
+date: '2014-09-23'
+link: https://www.imdb.com/title/tt0816711
+title: World War Z
 ---
+
 Mais um filme de zumbi? Sim e não. World War Z está mais para o primeiro filme empolgante de fato sobre uma epidemia mundial. Estrelado por Brad Pitt, esse filme de catástrofe consegue chamar a atenção quase todo o momento, seja para seu lado bom ou ruim.
 
 Tudo começa na cidade onde Gerry Lane (Brad Pitt) e sua família moram, onde vemos pela primeira vez em uma sequência incrivelmente tensa e agitada o ataque de humanos aparentemente inconscientes, mas com um impulso incontrolável de morder as outras pessoas (sim, zumbis). Uma simples mordida e 12 segundos são o suficiente para levar a vítima igualmente à loucura, então fica muito fácil imaginar o efeito cascata que isso gera em uma cidade grande.

@@ -1,9 +1,12 @@
 ---
-date: "2018-02-06"
-link: "https://www.imdb.com/title/tt6257970"
-categories: [ "draft", "series" ]
-title: "The End Of The F***ing World"
+categories:
+- draft
+- series
+date: '2018-02-06'
+link: https://www.imdb.com/title/tt6257970
+title: The End Of The F***ing World
 ---
+
 Apesar do piloto desta série apresentar desde o começo dois adolescentes problemáticos, um psicopata e uma ninfomaníaca, não é à toa que fuck... ops, foca, está encoberto no título. Este é mais um sintoma da geração abobalhada que acha que é cool, mas não consegue falar de sexo sem corar nem falar da morte de inocentes por diversão. Propaganda enganosa em cima de outra, este é um casal bonitinho que, como Arlequina em Esquadrão Suicida, adora falar que é louca. Não porque ela seja, mas porque é cool ser louca.
 
 Mas algo no personagem de Alex Lawther (Black Mirror, ep. Shut Up and Dance) que nos faz prestar um pouco mais de atenção em seus movimentos, olhares e expressões. Ele é James, um menino que teve uma infância complicada e aprendeu que gosta de matar pequenos animais. Com a faca. E aguarda seu momento de estrear com humanos. Ele pretende começar com sua namorada incidental, Alyssa.

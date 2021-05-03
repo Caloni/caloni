@@ -1,10 +1,13 @@
 ---
-date: "2015-03-13"
-link: "https://www.imdb.com/title/tt2381941"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Golpe Duplo"
+categories:
+- movies
+date: '2015-03-13'
+link: https://www.imdb.com/title/tt2381941
+tags:
+- cinemaqui
+title: Golpe Duplo
 ---
+
 Os diretores/roteiristas Glenn Ficarra e John Requa têm um histórico interessante em O Golpista do Ano: um filme que envolve não apenas uma trama de reviravoltas, mas também interpretações e interações certeiras de seu elenco. Sendo assim, é compreensível que Golpe Duplo, apesar de construir uma trama cheia de virtudes, tenha que se render às fracas performances de Will Smith e Margot Robbie (O Lobo de Wall Street) e inserir muletas narrativas que enfraquecem o projeto. Felizmente, a qualidade no roteiro compensa os artifícios usados para tornar o resultado final mais palatável ao grande público (e, claro, aos fãs de Will Smith).
 
 Smith interpreta Nicky, um golpista de alto escalão que tem várias pessoas trabalhando para ele em um grande esquema de pequenos roubos produzidos em massa e garantindo assim uma margem de lucros considerável. Seu primeiro encontro com a voluptuosa e inexperiente Jess (Robbie) é ágil e orgânica, pois envolve um tipo de golpe e serve como explicação ao espectador de como as coisas funcionam nesse universo, além de já estabelecer uma relação pupila/mestre que será usada em diferentes momentos da trama.

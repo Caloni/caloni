@@ -1,9 +1,11 @@
 ---
-date: "2010-10-10"
-link: "https://www.imdb.com/title/tt0985694"
-categories: [ "movies" ]
-title: "Machete"
+categories:
+- movies
+date: '2010-10-10'
+link: https://www.imdb.com/title/tt0985694
+title: Machete
 ---
+
 Mais um filme de violência absurda de Robert Rodriguez. Fotografia amarelada, como em todos os filmes que se passam perto do México. Só que em muitos filmes a violência absurda é usada em tons artísticos, como evocando os quadrinhos (Sin City) e sua realidade já absurda e exagerada e as artes marciais (Kill Bill) e suas lendas.
 
 Além da violência, há cenas absurdas, que deveriam ser engraçadas, como dirigindo o carro virando a machete dentro do corpo do policial disfarçado. Além disso, pistas-recompensas ridículas, como a do intestino ter 20 metros ou do abridor de garrafas. Além de diálogos horríveis, como o discurso horrível e artificial da agente de imigração. E por falar em roteiro, personagens unidimensionais em uma história patética que chega a ser pré-adolescente, mas nem por isso diverte.

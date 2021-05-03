@@ -1,8 +1,10 @@
 ---
-date: "2015-07-13"
-categories: [ "draft" ]
-title: "TDC 2015 No More"
+categories:
+- draft
+date: '2015-07-13'
+title: TDC 2015 No More
 ---
+
 Eu represento o Grupo C/C++ Brasil. Sou um dos fundadores. A bem da verdade, todos que participam ativamente no Google Groups e/ou ajudam a organizar o nosso saite, e/ou ajudam a fortalecer a presença de uma comunidade C/C++ no país representam, em menor ou maior grau, a esse ideal que é: as linguagens C e C++ ainda são muito úteis na programação de uso geral, em cenários tão distintos e tão variados que fica difícil sequer listar onde elas são usadas sem parecer panelinha.
 
 Além de eu representar o grupo, eu seria um dos organizadores da Trilha C/C++ do TDC 2015 São Paulo desse ano. Seria, se as coisas não tivessem saído dos trilhos a partir desta thread, que colocou em xeque a presença da trilha.

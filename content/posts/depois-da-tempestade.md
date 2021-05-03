@@ -1,9 +1,12 @@
 ---
-date: "2016-10-20"
-link: "https://www.imdb.com/title/tt5294966"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Depois da Tempestade"
+categories:
+- draft
+- movies
+date: '2016-10-20'
+link: https://www.imdb.com/title/tt5294966
+tags:
+- cinemaqui
+title: Depois da Tempestade
 ---
 
 Os personagens são tão reais e carismáticos, exatamente como seria se estivéssemos testemunhando uma família japonesa e seus problemas (financeiros e emocionais), que há vários momentos em Depois da Tempestade em que assisti-lo se torna uma experiência naturalista, quase documental. O que "frustra" um pouco esse realismo é apenas a leve dramatização realizada para tornar mais palatável ao grande público, com uma ou outra trilha sonora cômica, e um ou outro comentário que algum personagem solta que é "perspicaz demais pra ser verdade". Mas esses são pecadilhos frente ao resultado final, denso e complexo, pois consegue explorar seus personagens e ainda evocar uma visão um tanto decadente da cultura japonesa (para o bem e para o mal), como o envelhecimento de sua população, a autonomia cada vez maior da mulher e as crises financeiras dos mais jovens.
@@ -19,4 +22,3 @@ E o que dizer da visão tão mais rica e com energia de um grupo de senhoras ido
 O resultado final é que acaba sendo um filme bem-humorado com pitadas de drama e que não se priva de abordar temas complexos enquanto narra sua história principal. O diretor Hirokazu Koreeda faz uma referência muito pertinente a Era uma Vez em Tóquio ao usar uma profundidade de campo reduzida e enfocar a casa da avó com diferentes planos sobrepostos, dando a impressão da casa ser menor ainda do que é, mas ao mesmo tempo tentando unir familiares sob o mesmo teto. E da mesma forma com que o clássico de Yasujirô Ozu cuidava das relações familiares de uma maneira natural e universal, independente da cultura japonesa, aqui Koreeda tenta atingir o mesmo nível de universalidade, com resultados mistos. É importante lembrar nessas horas que, bem ou mal, famílias pobres, mas não miseráveis, em qualquer cultura possuem problemas semelhantes nas finanças domésticas, independente da comida típica do lugar onde vivem.
 
 "Umi yori mo mada fukaku" (Japan, 2016), escrito por Hirokazu Koreeda, Hirokazu Koreeda, dirigido por Hirokazu Koreeda, com Hiroshi Abe, Yôko Maki, Taiyô Yoshizawa, Kirin Kiki, Lily Franky
-

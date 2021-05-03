@@ -1,9 +1,12 @@
 ---
-date: "2017-04-24"
-link: "https://www.imdb.com/title/tt5442430"
-categories: [ "draft", "movies" ]
-title: "Vida"
+categories:
+- draft
+- movies
+date: '2017-04-24'
+link: https://www.imdb.com/title/tt5442430
+title: Vida
 ---
+
 Esta é uma releitura de "Alien, o Oitavo Passageiro" que parece mais realista, ou pelo menos mais próxima de nossa realidade. De toda forma, ela apresenta duas mudanças principais. Primeiro retira aquela impressão de que um alienígena está sendo propositadamente mal, já que analisa com muita propriedade que toda vida tem que matar para continuar vivendo. Segundo, não conseguindo conter o terror dentro da faceta dramática e grandiosa do enredo, o filme vai apelando pontualmente para o trash de bom orçamento, até se entregar de vez ao caricato. Isso gera surpresas na medida em que um filme decide fazer pouco dele mesmo pelo bem da brincadeira. Mas não é tanta surpresa se considerarmos que um dos primeiros diálogos cita o filme A Noite dos Mortos Vivos um clássico terror de zumbis.
 
 Usando uma tomada inicial do infinito universo e suas estrelas e galáxias com uma trilha sonora grandiosa e fontes do título que entregam desde o início que esta é uma releitura ou homenagem (ou ambos) do filme de Ridley Scott, o diretor Daniel Espinosa mantém este tom até certo ponto. A história é sobre a missão Pilgrim (Pioneiro), realizada através de uma sonda em Marte que obtém amostras de solo para análise na Estação Espacial, bem em cima de nossas cabeças. A boa notícia é que eles encontram uma célula de vida reanimada com as condições semelhantes à atmosfera da Terra. A má notícia é que esta é uma forma de vida forte, inteligente e que cresce rapidamente em busca de novas presas, coisa que ela poderá facilmente encontrar no ambiente aqui da Terra.

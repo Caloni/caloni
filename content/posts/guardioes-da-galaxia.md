@@ -1,9 +1,11 @@
 ---
-date: "2014-12-06"
-link: "https://www.imdb.com/title/tt2015381"
-categories: [ "movies" ]
-title: "Guardiões da Galáxia"
+categories:
+- movies
+date: '2014-12-06'
+link: https://www.imdb.com/title/tt2015381
+title: Guardiões da Galáxia
 ---
+
 Me lembro que Guardiões da Galáxia foi o trailer mais interessante desses filmes de super-heróis com seus pseudo-dramas fantásticos e seu atual modelo engessado de vários heróis para um grande vilão (Vingadores, Capitão América 2, X-Men... não, esse é legal). Porém, por algum motivo, acabei não assistindo este filme no cinema. Paciência. Agora surgiu uma oportunidade durante um voo e lá vou eu apertar o play para mais uma aventura impossível com personagens irrelevantes e explosões digitais. Felizmente a minúscula tela em frente à minha poltrona me protegia de sangrar demais pelos meus olhos.
 
 Porém, mesmo nessas condições onde a falta de atenção pode fazer um filme medíocre passar como bonzinho, tenho algo a confessar para vocês, fãs de gibis repaginados em película: está cada vez mais difícil assistir essas produções. Comecei a refletir sobre isso aos vinte minutos de filme, o que é um recorde. Mas, como todo bom cinéfilo e otimista inveterado, continuei de boa fé. É o famoso vai que melhora.

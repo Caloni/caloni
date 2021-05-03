@@ -1,10 +1,14 @@
 ---
-date: "2018-10-22"
-link: "https://www.imdb.com/title/tt5262162"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Caminhos Magnétykos"
+categories:
+- draft
+- movies
+date: '2018-10-22'
+link: https://www.imdb.com/title/tt5262162
+tags:
+- cinemaqui
+title: Caminhos Magnétykos
 ---
+
 A esquerda política está bêbada e isso é ótimo. Em Caminhos Magnétykos a mistura de emoções através de uma distopia opressora nos oferece uma viagem extra-sensorial pelas perdas do passado e a esmagadora realidade do presente. Essa é a forma artística de uma ideologia conseguir se lamentar e se perguntar: onde foi que erramos?
 
 A história segue as lamentações de seu herói, Raymond Vachs (o ótimo Dominique Pinon), um artista francês fracassado que testemunha o casamento da filha com um magnata da Nova Ordem (mundial?) para lhe dar um futuro "digno". Mas o que é digno disso tudo que estamos vivendo, ele se pergunta enquanto reencontra amigos de quando era um revolucionário e se sente ainda pior. Além de ser preso.

@@ -1,9 +1,12 @@
 ---
-date: "2019-02-13"
-categories: [ "draft", ]
-tags: [ "cinemaqui"  ]
-title: "Como a geração de Sai de Baixo se encontra com a geração Não me Toque"
+categories:
+- draft
+date: '2019-02-13'
+tags:
+- cinemaqui
+title: Como a geração de Sai de Baixo se encontra com a geração Não me Toque
 ---
+
 A coletiva de imprensa para "Sai de Baixo: O Filme" pode ser resumida da seguinte maneira: uma trupe de militantes mimimi fazendo perguntas sobre sentimentos e o elenco do filme respondendo à altura sem sair do salto; muito pelo contrário, com muita propriedade: "temos que dizer uma coisa que todo pobre concorda e se identifica: ser pobre é ruim!". Parecia um quadro de humor combinado. E que rendeu (a mim pelo menos) ótimas risadas.
 
 Para quem chegou no planeta faz pouco tempo, Sai de Baixo foi uma série de sucesso nos anos 90 exibida pela Rede Globo de Televisão por cerca de quatro anos no horário nobre de domingo. A ideia idealizada por Luis Gustavo e Daniel Filho foi inspirada em outro programa, A Família Trapo, que estreou nos anos 60 o formato de teatro com plateia ao vivo, depois editado para a TV mas com direito a improvisos. Sucesso absoluto, não à toa a TV "se inspirou" pelo menos mais duas vezes, em A Grande Família e Toma Lá Dá Cá (onde Miguel Falabella e Marisa Orth também participam).

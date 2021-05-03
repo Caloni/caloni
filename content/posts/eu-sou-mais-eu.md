@@ -1,10 +1,14 @@
 ---
-date: "2019-01-14"
-link: "https://www.imdb.com/title/tt9214280"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Eu Sou Mais Eu"
+categories:
+- draft
+- movies
+date: '2019-01-14'
+link: https://www.imdb.com/title/tt9214280
+tags:
+- cinemaqui
+title: Eu Sou Mais Eu
 ---
+
 "Eu Sou Mais Eu" é aquele velho filme da pessoa revivendo sua adolescência enquanto analisa o seu eu atual, e o que deixou para trás entre esses dois momentos. Geralmente são aqueles valores que se perdem, as amizades significativas, etc. No entanto, a tentativa aqui é reaver mesmo o nosso eu, aquele eu estranho que foi desmoralizado na escola e que acabou se escondendo por trás de uma máscara de auto-suficiência que, como todo adulto sabe, é só um instrumento para se auto-torturar.
 
 A heroína é Camilla, interpretada pela vlogger, atriz, cantora e etc Kéfera Buchmann, o que significa muito para a história. Kéfera começou nos YouTube da vida quando começou a surgir... o YouTube. E a banda larga. E tudo isso que hoje é lugar-comum, mas que na época deu uma acelerada no surgimento de sub-celebridades, mas que, principalmente, na descoberta de novos talentos ofuscados pela estrutura midiática do sucesso. Os canais de mídias sociais na internet abriram um leque de possibilidades para todos os estranhos mostrarem sua personalidade, o que aumentou a diversidade do que conhecíamos como talento.

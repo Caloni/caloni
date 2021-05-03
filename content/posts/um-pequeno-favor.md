@@ -1,9 +1,12 @@
 ---
-date: "2019-02-02"
-link: "https://www.imdb.com/title/tt7040874"
-categories: [ "draft", "movies" ]
-title: "Um Pequeno Favor"
+categories:
+- draft
+- movies
+date: '2019-02-02'
+link: https://www.imdb.com/title/tt7040874
+title: Um Pequeno Favor
 ---
+
 Minha colega de profissão no CinemAqui, Mariana González, me recomendou Um Pequeno Favor o chamando de "quase uma versão comédia doida de Garota Exemplar". E agora me sumiram melhores palavras para definir esse filme de Paul Feig. Mas eu vou tentar.
 
 Diretor do excepcional Missão Madrinha de Casamento, Feig é um diretor acostumado a colocar na frente de sua câmera o universo feminino nas melhores atuações das atrizes que escala. Foi assim com Kristen Wiig e agora a mágica se repetiu em Um Pequeno Favor com Anna Kendrick. Eu não costumo ver diretores se saindo tão bem em dirigir atrizes, mas Feig possui em sua lente o poder de elevar suas personagens na tela acima do convencional.

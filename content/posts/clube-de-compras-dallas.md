@@ -1,9 +1,12 @@
 ---
-date: "2015-11-30"
-link: "https://www.imdb.com/title/tt0790636"
-categories: [ "draft", "movies" ]
-title: "Clube de Compras Dallas"
+categories:
+- draft
+- movies
+date: '2015-11-30'
+link: https://www.imdb.com/title/tt0790636
+title: Clube de Compras Dallas
 ---
+
 Nós, libertários, somos frequentemente acusados de não termos coração quando dizemos que as pessoas deveriam ser livres para buscar sua própria felicidade, mesmo que isso implique que os mais desafortunados tenham que se virar muito mais. No entanto, quando esse pensamento chega no sistema de patentes estadunidense, mais especificamente as drogas que tentam amenizar a dor e prolongar a vida de pessoas com HIV/AIDS, torna-se claro que a manipulação estatal nunca teve por princípio a busca da felicidade.
 
 Assistindo Clube de Compras Dallas e acompanhando as desventuras de seu personagem da vida real, Ronald Woodroof (Matthew McConaughey), se torna cada vez mais claro que a felicidade nunca poderia estar nas mãos de qualquer instituição, por mais bem-intencionada e com mais poder que esta tivesse. Vendo um hustler texano apostar suas últimas fichas -- 30 dias de vida, de acordo com o médido que o diagnosticou com a doença -- para buscar o remédio -- qualquer remédio -- que conseguisse aumentar suas chances de sobrevivência, fica óbvio que a busca por sua própria sobrevivência sempre esteve nas mãos dos indivíduos. São as pessoas, cheias de imperfeições e preconceitos, que são donas de seu próprio destino, se assim a quiserem. Já vimos isso no ótimo À Procura da Felicidade (repare o título), com Will Smith, também baseado em um personagem da vida real. Porém, aqui temos um caso de vida ou morte mais intenso, e que exige que a pessoa envolvida utilize todas suas habilidades e -- o mais importante -- sua vontade de viver para que consiga o que quer; independente de quem ele votou na eleição passada (meu chute: nunca votou).

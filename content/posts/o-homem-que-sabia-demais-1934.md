@@ -1,9 +1,11 @@
 ---
-date: "2011-06-16"
-link: "https://www.imdb.com/title/tt0025452"
-categories: [ "movies" ]
-title: "O Homem que Sabia Demais"
+categories:
+- movies
+date: '2011-06-16'
+link: https://www.imdb.com/title/tt0025452
+title: O Homem que Sabia Demais
 ---
+
 Para Hitchcock, aparentemente, não houve nenhum outro trabalho de destaque antes de O Homem que Sabia Demais. Digo pelos famosos títulos de [Psicose], [Janela Indiscreta] e [Os Pássaros]. Até porque, de acordo com o IMDB, Hitchcock começou sua carreira em 22, o que quer dizer que temos aí cerca de 12 anos de amadurecimento do uso de sua técnica indiscutivelmente coesa em sua capacidade de gerar tensão.
 
 Junto com os roteiristas Charles Bennett e D. B. Wyndham-Lewis (espero ter escrito certo), que já participaram com o diretor em outras obras, criam aqui a trama de um homem e sua mulher que recebem por acidente uma dica de assassinato. Para ficarem quietos, têm sua filha sequestrada, e para que consigam reavê-la, precisam entrar no mundo do crime e dos bandidos inescrupulosos.

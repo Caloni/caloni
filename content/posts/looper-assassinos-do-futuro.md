@@ -1,9 +1,11 @@
 ---
-date: "2012-10-09"
-link: "https://www.imdb.com/title/tt1276104"
-categories: [ "movies" ]
-title: "Looper: Assassinos do Futuro"
+categories:
+- movies
+date: '2012-10-09'
+link: https://www.imdb.com/title/tt1276104
+title: 'Looper: Assassinos do Futuro'
 ---
+
 Não é sempre que uma ideia fantasiosa pode render uma boa história, como infelizmente foi visto no irregular [O Preço do Amanhã]. Porém, apenas a tentativa de usar um conceito futurístico como viagem no tempo e tentar aplicá-lo em um filme de ação já merece créditos. No caso de Looper estamos falando de um roteiro original escrito e dirigido por Rian Johnson, que também assina a dupla função em Vigaristas e A Ponta de um Crime.
 
 Roubando cem por cento de nossa atenção desde o início, estamos em 2042, quando a viagem no tempo não foi inventada ainda, mas para onde são enviadas pessoas de 30 anos no futuro para serem eliminadas por uma gangue de assassinos. A explicação é muito sensata: em 2072, as técnicas forenses estarão tão avançadas que será impossível eliminar por completo o corpo das vítimas. Para essa função são contratados delinquentes que precisam apenas apontar seus bacamartes para onde a pessoa do futuro surgirá e atirar. O bacamarte, vale a pena notar, só serve de fato para atirar em alvos muito próximos, sendo quase ineficaz em uma luta armada.

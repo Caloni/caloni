@@ -1,8 +1,11 @@
 ---
-date: "2011-03-01"
+categories:
+- draft
+- code
+date: '2011-03-01'
 title: VTable
-categories: [ "draft", "code" ]
 ---
+
 Acho que na breve história desse blogue nunca contei a história do vtable. No máximo fizemos um [hookzinho nos métodos de um componente COM](http://www.caloni.com.br/hook-de-com-no-windbg). Mas só.
 
 Não encontro uma analogia simples, assim, de cabeça. Então vou contar no cru, mesmo. Talvez seja até mais divertido.

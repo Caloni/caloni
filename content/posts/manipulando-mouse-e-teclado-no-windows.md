@@ -1,8 +1,11 @@
 ---
-date: "2018-07-04"
-categories: [ "code", "draft",  ]
-title: "Manipulando Mouse e Teclado no Windows"
+categories:
+- code
+- draft
+date: '2018-07-04'
+title: Manipulando Mouse e Teclado no Windows
 ---
+
 Uma forma extremamente bem comportada que o Windows tem para manipular entrada de mouse e teclado são as funções API BlockInput/SendInput [1][2]. Enquanto uma bloqueia todos os eventos de input vindo de todos os lugares do sistema, o outro consegue enviar inputs apenas por software. Imagine a peça que você pode pregar em seus amigos.
 
 No entanto, estas funções não são para amadores. É preciso entender o que são threads, por exemplo, pois apenas a thread que chamou BlockInput pode depois chamar SendInput com sucesso. Além disso, apenas essa thread pode desbloquear novamente os inputs chamando BlockInput novamente, mas dessa vez passando FALSE em seu único parâmetro. E de qualquer forma, uma vez que o programa que chamou BlockInput com TRUE morreu o sistema detecta e tudo volta ao normal.
@@ -15,4 +18,3 @@ Funções citadas neste texto:
 
  - [1] https://msdn.microsoft.com/en-us/library/windows/desktop/ms646290(v=vs.85).aspx
  - [2] https://msdn.microsoft.com/en-us/library/windows/desktop/ms646310(v=vs.85).aspx
-

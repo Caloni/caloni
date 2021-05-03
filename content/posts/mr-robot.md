@@ -1,9 +1,12 @@
 ---
-date: "2016-09-11"
-link: "https://www.imdb.com/title/tt4158110"
-categories: [ "draft", "series" ]
-title: "Mr. Robot"
+categories:
+- draft
+- series
+date: '2016-09-11'
+link: https://www.imdb.com/title/tt4158110
+title: Mr. Robot
 ---
+
 Finalmente uma série que retrata o hacker de uma maneira realista. Mais do que isso: retrata o hacker inserido na realidade que vivemos hoje, nesse exato momento. E, por que não, alguns meses à frente?
 
 Mr Robot é uma série idealizada por Sam Esmail que está finalizando sua segunda temporada, em uma continuação tão profética quanto o nível subversivo das ideias contidas em seu original (a primeira temporada). De certa forma, embora com ótimos episódios e um roteiro instigante, a segunda temporada tenta fazer exatamente o que a Evil Corp faz na economia: vende o problema e a solução. E no caso de uma série televisiva, o problema são séries repetitivas que reafirmam o status quo. A solução é uma série que emula a revolta contra esse sistema. Dessa forma, a contracultura consome exatamente como os que nadam a favor da maré, mas se sentindo partes de uma revolução... a revolução do socialista de iPhone.

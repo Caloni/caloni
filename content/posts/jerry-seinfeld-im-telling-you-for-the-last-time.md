@@ -1,9 +1,12 @@
 ---
-date: "2018-03-18"
-link: "https://www.imdb.com/title/tt0500140"
-categories: [ "draft", "series" ]
-title: "Standup de 98 de Seinfeld é melhor que último do Gervais (graças ao SJW)"
+categories:
+- draft
+- series
+date: '2018-03-18'
+link: https://www.imdb.com/title/tt0500140
+title: Standup de 98 de Seinfeld é melhor que último do Gervais (graças ao SJW)
 ---
+
 Comecei a assistir o último standup do Rick Gervais, Humanity, mas me cansei em menos de 10 minutos. Coloquei no último do Seinfeld e não consegui parar de ver. Ambos possuem quase a mesma duração de uma hora, mas Seinfeld possui ritmo, e Gervais, nervosismo. Por que isso?
 
 Porque Gervais é um maldito SJW. Eis o porquê. Ele segue uma tendência insuportável do século 21 de amar cachorros e odiar humanos. E no processo ele se torna o cara que faz média com seu gigantesco público que gosta do seu imenso ego. Mas seu ego não tem graça. Nem suas piadas. É apenas um ótimo roteirista que no standup parece ter se perdido nas travas cada vez mais intensas do politicamente correto.

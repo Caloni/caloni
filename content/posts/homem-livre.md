@@ -1,10 +1,14 @@
 ---
-date: "2019-02-08"
-link: "https://www.imdb.com/title/tt5842570"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Homem Livre"
+categories:
+- draft
+- movies
+date: '2019-02-08'
+link: https://www.imdb.com/title/tt5842570
+tags:
+- cinemaqui
+title: Homem Livre
 ---
+
 Durante praticamente toda a duração de Homem Livre um pensamento inquieto não deixava de passar pela minha cabeça: quem diabos respeita alguém chamado Hélio Lotte? Bom, Hélio foi um músico famoso com esse nome, o que já levanta suspeitas de que há algo errado nesse filme. Depois descobrimos que ele cometeu um assassino e saiu aparentemente intacto da prisão. Ou seja, sem traumas sexuais. Eu nunca esperaria tamanha dignidade de um Hélio Lotte.
 
 Esse devaneio sobre nomes vem à cabeça durante a projeção porque ela é muito lenta. A desculpa é criar tensão, pois este é um thriller psicológico que tenta chegar perto de trabalhos como O Operário, mas por querer abraçar o mundo com sua narrativa sobre igreja, corrupção, sociedade e culpa se revela mais como esquizofrenia roteirística braba.

@@ -1,10 +1,14 @@
 ---
-date: "2016-04-30"
-link: "https://www.imdb.com/title/tt4598764"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Nós, Eles e Eu"
+categories:
+- draft
+- movies
+date: '2016-04-30'
+link: https://www.imdb.com/title/tt4598764
+tags:
+- cinemaqui
+title: Nós, Eles e Eu
 ---
+
 Um documentário não é obrigado a destilar sua opinião para todos os lados, mas no caso de "Nós, Eles e Eu", um filme feito por um diretor judeu e membro de uma família sionista, a opinião sobre o eterno conflito entre judeus e palestinos parece inevitável.
 
 O mais curioso do filme, então, é que não vemos muita opinião. Pelo menbos não a do filme, mas a nossa. Munidos de nossos preconceitos, qualquer novo acontecimento será interpretado com o viés de estar assistindo a "conteúdo judeu". Ledo e divertido engano. Estamos tão acostumados com visões parciais do conflito que não encontrá-las, ainda mais em um documentário pessoal, soa estranho.

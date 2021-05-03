@@ -1,9 +1,11 @@
 ---
-date: "2010-04-16"
-link: "https://www.imdb.com/title/tt0978762"
-categories: [ "movies" ]
-title: "Mary e Max uma Amizade Diferente"
+categories:
+- movies
+date: '2010-04-16'
+link: https://www.imdb.com/title/tt0978762
+title: Mary e Max uma Amizade Diferente
 ---
+
 Tudo em "Mary e Max" é construído para tentar responder uma das perguntas emocionalmente mais ambiciosas e filosoficamente mais intrigantes que nós, passageiros desse planeta em direção à morte, nos fazemos de vez em quando: o que é a amizade?
 
 Mary (Toni Collette), uma menina da Austrália, começa a se comunicar ao acaso através de cartas com Max (Philip Seymour Hoffman), um senhor de meia-idade de Nova York. Habitantes cada um do seu mundinho particular e distante, suas cores não se misturam, suas músicas possuem diferentes tons, suas idades são incompatíveis (o futuro de Mary é do mesmo tamanho que o passado de Max). Mesmo assim há algo que os une e a todos nós de uma maneira indissociável e misteriosa: a solidão, e uma fascinante melancolia que torna tudo triste à sua volta.

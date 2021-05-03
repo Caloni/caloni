@@ -1,9 +1,12 @@
 ---
-date: "2019-06-11"
-link: "https://www.imdb.com/title/tt0976060"
-categories: [ "draft", "movies" ]
-title: "Tokyo!"
+categories:
+- draft
+- movies
+date: '2019-06-11'
+link: https://www.imdb.com/title/tt0976060
+title: Tokyo!
 ---
+
 Só tem diretor foda nesse filme. Mas diretores foda podem fazer cagada de vez em quando. Felizmente não é o caso de "Tokyo!", que nos apresenta o tema cidade-título de uma maneira que Nova York/Paris Eu Te Amo nem sonham em fazer.
 
 Mas estou sendo desonesto. Esses dois outros trabalhos de curtas em volta de uma cidade ficam mais no aspecto romântico das megalópoles. Em "Tokyo!" o espírito da cidade grande japonesa se transmorfa em diferentes formas de viver, seja em um relacionamento insatisfatório com outra pessoa, uma relação de ódio com a sociedade ou até o desejado reencontro com a humanidade em um mundo que ironicamente apesar de ter tanta gente morando por perto nos escondemos mais e mais.

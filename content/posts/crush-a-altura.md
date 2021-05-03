@@ -1,9 +1,12 @@
 ---
-date: "2019-09-17"
-link: "https://www.imdb.com/title/tt9252508"
-categories: [ "draft", "movies" ]
-title: "Crush à Altura"
+categories:
+- draft
+- movies
+date: '2019-09-17'
+link: https://www.imdb.com/title/tt9252508
+title: Crush à Altura
 ---
+
 Os jovenzinhos se beijam, mas só de selinho, porque rola traição e depois vai ficar feio um pegando a baba do outro. Esse é daqueles filmes da Netflix que está no catálogo para a garotada sem muita cabeça para pensar (trocadilho intencional) dar uma olhada eventual, curtir e compartilhar, justificando: "ah, é legalzinho, e tem um rapaz gato".
 
 Ele apresenta o grande drama de classe média branca estadunidense que vive na afro-cultural Nova Orleans: a atriz Ava Michelle, que é realmente alta, tem 1 metro e 86 de altura, faz a personagem Jodi, com exatamente a mesma medida. Qual o drama? Ela está no colégio e lhe contam a piada "como está o tempo aí em cima?" todo santo dia. Para piorar, sua irmã é baixa e linda. E pra piorar mais ainda, o único garoto alto que aparece por lá, que veio de um intercâmbio sueco, começa a namorar com sua inimiga desde infância. Já é motivo de suicídio.

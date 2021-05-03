@@ -1,10 +1,14 @@
 ---
-date: "2016-05-14"
-link: "https://www.imdb.com/title/tt4466336"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Os Anarquistas"
+categories:
+- draft
+- movies
+date: '2016-05-14'
+link: https://www.imdb.com/title/tt4466336
+tags:
+- cinemaqui
+title: Os Anarquistas
 ---
+
 Uma névoa cinzenta cobre a fotografia de Os Anarquistas, um filme que trata mais da desesperança de um grupo revolucionário à margem de qualquer comparação do que a possibilidade de vitória.
 
 E vitória, para eles, é o fim da burguesia e do protetor-mor dessa classe, o Estado. Não há nada no lugar, pois o capitalismo ainda é uma sombra do que irá se tornar, e os conceitos de propriedade privada seriam elementos mais de discordância do que de harmonia nas vozes desses intelectuais. O filme nos coloca no centro dessa mini-revolução idealista através dos olhos de Jean (Tahar Rahim), um policial infiltrado que igualmente não vê esperança em seu destino se continuar onde está. Ambicioso e prático, larga sua namorada deixando de presente um livro que ele gosta.

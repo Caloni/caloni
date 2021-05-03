@@ -1,8 +1,10 @@
 ---
-date: "2007-09-28"
-categories: [ "blog" ]
-title: "Developer: you need to know English!"
+categories:
+- blog
+date: '2007-09-28'
+title: 'Developer: you need to know English!'
 ---
+
 Eu realmente gostei desse negócio de tagging. =)
 
 Aproveitando o comentário do Ferdinando sobre o novo sistema de tradução eletrônica do MSDN, lanço aqui algumas dicas para aprender a tão falada língua de Shakespeare. Acredite, se você deseja ser um melhor programador, inglês é fundamental.

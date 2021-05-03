@@ -1,9 +1,13 @@
 ---
-date: "2015-04-04"
-categories: [ "draft", "blog" ]
-tags: [ "ccppbr" ]
-title: "Os melhores eventos são de programadores CCPP"
+categories:
+- draft
+- blog
+date: '2015-04-04'
+tags:
+- ccppbr
+title: Os melhores eventos são de programadores CCPP
 ---
+
 Olá! Se você veio aqui para um flame war, sinto desapontá-lo. Esse título foi criado apenas para chamar atenção =)
 
 Na verdade, eu nem tenho ideia de como são os outros encontros e eventos de comunidades de outras linguagens, tecnologia ou até mesmo áreas de conhecimento. Só sei de uma coisa: quando a turminha de C se encontra em um evento que lida com otimização, padrões da linguagem, problemas insolúveis, bibliotecas ambiciosas, engenharia reversa e sistemas operacionais de micro-controladores fica difícil não se empolgar com pelo menos uma palestra.

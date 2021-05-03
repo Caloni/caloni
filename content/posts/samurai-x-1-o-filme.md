@@ -1,9 +1,11 @@
 ---
-date: "2015-10-05"
-link: "https://www.imdb.com/title/tt1979319"
-categories: [ "movies" ]
-title: "Samurai X 1: O Filme"
+categories:
+- movies
+date: '2015-10-05'
+link: https://www.imdb.com/title/tt1979319
+title: 'Samurai X 1: O Filme'
 ---
+
 Em um momento do filme um personagem fala: "Me mate", no que o outro responde: "Morra". Logo depois, algúem diz: "Seja bem-vindo de volta", no que o outro responde: "Estou de volta". Acredito que isso sirva para demonstrar um dos grandes erros em Samurai X 1: O Filme: sua redundância. Com uma duração de duas horas e 14 minutos, o diretor Keishi Ohtomo (Samurai X 1: O Filme, Samurai X 2: O Inferno de Kyoto, Samurai X 3: O Fim de Uma Lenda... "Samurai X 4: Antes do Início"?) parece ter se empolgado um pouco demais com o personagem nascido dos mangás (e posteriormente anime).
 
 Estamos no Japão, na era Meiji, a primeira em que o Império começa a se modernizar (e se ocidentalizar), no final do século 19. O início com uma sequência que indica que a era da pólvora já começou por lá deixa isso claro. Uma piada curiosa do filme é quando alguém diz ser vegetariano, algo um tanto inusitado para a época. Ou talvez nem tanto, considerando que o herói da história flerta com a cultura emo, pois é um ex-assassino sanguinário que possui uma espada que não mata e tem sensibilidade (e rosto) de garota. Vivendo como um andarilho após ter se arrependido de sua vida de mortes -- e ter ganhado uma cicatriz bonitinha em forma de X -- Kenshin Himura é um personagem que se limita a responder aos outros como ele pretende matar alguém com a espada que carrega (dica: não pretende), além do filme se limitar a mostrá-lo quase sempre em um close de semi-perfil, com os cabelos na frente do rosto, com um olhar que, interpretado pelo ator Takeru Satô, não quer dizer coisa nenhuma o tempo todo.

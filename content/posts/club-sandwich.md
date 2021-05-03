@@ -1,10 +1,13 @@
 ---
-date: "2015-04-08"
-link: "https://www.imdb.com/title/tt3118696"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Club Sandwich"
+categories:
+- movies
+date: '2015-04-08'
+link: https://www.imdb.com/title/tt3118696
+tags:
+- cinemaqui
+title: Club Sandwich
 ---
+
 Escrito e dirigido pelo mexicano Fernando Eimbcke, "Club Sandwich" é uma produção minimalista que gira em torno da relação mãe/filho de Héctor (Lucio Giménez Cacho) e Paloma (María Renée Prudencio) durante sua estadia em um hotel em baixa temporada. Usando um tempo extraordinariamente longo para estabelecer essa relação, a terceira personagem relevante da história, a jovem Jazmín (Danae Reynaud), aparece quase já na metade da projeção.
 
 No entanto, todo esse tempo é muito bem gasto em uma mensagem visual que não tem pressa de se estabelecer, mas que vai se tornando cada vez mais presente e intensa. Como que escalando o complexo de Édipo um passo de cada vez, aos poucos percebemos como Héctor é um garoto não simplesmente mimado, mas emoldurado de acordo com regras simples e sensatas de sua mãe que revelam sutilmente o controle que esta exerce sobre ele. Héctor se comporta como um deus disciplinado, mas ainda assim, um deus. Seu peso um pouco acima, seus movimentos lentos e sua feição sempre despreocupada com a vida ajuda a determinar sua posição hierárquica naquela família de duas pessoas, e ainda que ambos estejam de fato aproveitando o descanso diário, isso só acontece com Paloma -- descobrimos depois -- porque o hotel está praticamente vazio. Com a chegada de Jazmín nesse cenário a posição privilegiada da mãe controladora de um ambiente sem "influências" muda completamente.

@@ -1,10 +1,14 @@
 ---
-date: "2018-10-11"
-link: "https://www.imdb.com/title/tt6100336"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Um Noir nos Balcãs"
+categories:
+- draft
+- movies
+date: '2018-10-11'
+link: https://www.imdb.com/title/tt6100336
+tags:
+- cinemaqui
+title: Um Noir nos Balcãs
 ---
+
 Era pra ser uma história simples sobre perdas e auto-destruição, como o ótimo Em Pedaços (do diretor Fatih Akin, com Diane Krueger), que de bônus tem uma trilha sonora ótima de rock pesado. Mas Um Noir nos Balcãs é apenas um filme que lembra vagamente o gênero noir, e resolve aplicar gracinhas cinematográficas no meio que não fazem o menor sentido e de quebra tem uma trilha sonora pop bobinha. A protagonista até usa o título da música-síntese de uma cantora pop, Cyndi Lauper: "Girls Just Wann to Have Fun". E o único que não tem diversão nisso tudo é o espectador.
 
 Isso porque partindo de uma história simples -- uma mãe com a filha desaparecida há seis anos -- o filme mistura uma lógica temática que envolve propagandas antigas de cigarro como o inconsciente coletivo agindo. Mas além disso corta a história em pedaços que nada contribui para entendermos seus personagens nem a história, que avança a passos de tartaruga e de forma confusa. Porém, mais uma vez, não é a forma confusa e de moral duvidosa de um noir, mas confuso por ser confuso, mesmo.

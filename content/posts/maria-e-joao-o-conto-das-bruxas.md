@@ -1,10 +1,14 @@
 ---
-date: "2020-02-07"
-link: "https://www.imdb.com/title/tt9086228"
-categories: [ "draft", "movies", ]
-tags: [ "cinemaqui"  ]
-title: "Maria e João - O Conto das Bruxas"
+categories:
+- draft
+- movies
+date: '2020-02-07'
+link: https://www.imdb.com/title/tt9086228
+tags:
+- cinemaqui
+title: Maria e João - O Conto das Bruxas
 ---
+
 "Maria e João - O Conto das Bruxas" já nos conta a que veio da inversão de nomes no título até seu subtítulo tacanho e revelador. Assim como o divertidinho "João e Maria: Caçadores de Bruxas", de 2013, protagonizado por  Jeremy Renner e Gemma Arterton com energia de sobra, esta é uma subversão da história original, já que todos sabem que ninguém será processado por uma fábula de domínio público.
 
 Diferente do conto documentado pelos Irmãos Grimm, aqui Maria é uma adolescente e João é uma criança que precisa de seus cuidados o tempo todo. O diretor Oz Perkins gostou do tratamento ao enredo dado pelo roteiro de Rob Hayes, que assistiu à Bruxa, filme de 2015, empolgadíssimo com a temática feminista. Infelizmente nem Hayes nem Perkins é Robert Eggers, e as possíveis mensagens sociais que o filme pudesse conter se perdem em uma narrativa pra lá de preguiçosa.

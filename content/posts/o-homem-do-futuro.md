@@ -1,9 +1,11 @@
 ---
-date: "2011-09-11"
-link: "https://www.imdb.com/title/tt2027178"
-categories: [ "movies" ]
-title: "O Homem do Futuro"
+categories:
+- movies
+date: '2011-09-11'
+link: https://www.imdb.com/title/tt2027178
+title: O Homem do Futuro
 ---
+
 O novo longa de Cláudio Torres (dos divertidos A Mulher do Meu Amigo e A Mulher Invisível) flerta com mais um tema que faz parte do imaginário coletivo: quem nunca desejou mudar algo que fez no passado, principalmente se isso teve implicações negativas por toda sua vida?
 
 Esse é o caso de Zero (Moura), que inclusive mudou de nome depois desse evento que mudou sua vida para sempre. Físico e professor (de física), está empenhado na obtenção de uma nova forma de energia enquanto dá aulas com um sotaque engraçado que lembra seu deslocamento social. Embora empolgado com suas pesquisas, parece ter uma triste conformidade com o que ocorreu no passado e que o transformou em um ser solitário e desajeitado.

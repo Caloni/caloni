@@ -1,10 +1,14 @@
 ---
-date: "2017-07-26"
-link: "https://www.imdb.com/title/tt3476694"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Rifle"
+categories:
+- draft
+- movies
+date: '2017-07-26'
+link: https://www.imdb.com/title/tt3476694
+tags:
+- cinemaqui
+title: Rifle
 ---
+
 Rifle poderia ser chamado de exercício de futilidade, mas quem faz exercício tem o objetivo de melhorar. E não é isso que vemos no filme. Nele há altos e baixos que poderiam sugerir alguma linha de pensamento. O espectador anseia por significado. Mas no final fica claro que tudo não passa de uma grande bobagem.
 
 A história se passa no sul do Brasil, onde uma região pecuarista decadente está sendo comprada por grandes produtores de soja (aqui na história, folcloricamente apenas um comprador). Não é segredo que a maior parte da soja produzida no país é exportada. Assim como a carne. Então podemos dizer que há um empate técnico de interesses.

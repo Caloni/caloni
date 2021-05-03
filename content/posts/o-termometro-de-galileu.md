@@ -1,10 +1,14 @@
 ---
-date: "2018-10-16"
-link: "https://www.imdb.com/title/tt7871664"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Termômetro de Galileu"
+categories:
+- draft
+- movies
+date: '2018-10-16'
+link: https://www.imdb.com/title/tt7871664
+tags:
+- cinemaqui
+title: O Termômetro de Galileu
 ---
+
 Este documentário tem por objetivo inicial fazer você cair de sono. Isso porque a diretora/roteirista/atriz portuguesa Teresa Villaverde evita enquadrar a câmera para nos prender a atenção. Ela prefere uma abordagem mais despojada. A resposta adequada e respeitosa para um filme desse é ser um espectador também despojado, que começa a roncar antes dos dez primeiros minutos de projeção.
 
 Mas isso pode ser algo injusto de se fazer, pelo menos em um ou dois momentos do filme, principalmente próximo do final. Coloque seu despertador, pois o começo não é necessário. O filme é sobre o cineasta italiano Tonino De Bernardi na região de Piemonte (Itália), sobre seu cinema underground italiano, mas também para falar de sua família e a troca entre gerações; Villaverde caminha com Bernardi até os primórdios de sua origem, através de seus avós, como morreram, etc. Em um primeiro momento entrevista sua avó, muito simpática, mas apesar da naturalidade este parece um caminho já percorrido quando ela fala sobre a época do fascismo que viveu.

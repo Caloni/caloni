@@ -1,10 +1,12 @@
 ---
-date: "2020-10-25"
-link: "https://mostraplay.mostra.org/film/masters-in-short/"
-categories: [ ]
-tags: [ "cinemaqui"  ]
-title: "Masters in Short"
+categories: []
+date: '2020-10-25'
+link: https://mostraplay.mostra.org/film/masters-in-short/
+tags:
+- cinemaqui
+title: Masters in Short
 ---
+
 A proposta da sessão Masters in Short da Mostra de São Paulo esse ano é apresentar alguns curtas de diretores consagrados. São cinco curtas ao total e seis diretores diferentes.
 
 Nos é dito no início que a proposta tem relação com o período de quarentena esse ano, mas o único óbvio exemplo é o primeiro. "A Visita", de Jia Zhangke, que apresenta dois cineastas se visitando para assistir a um filme sendo produzido. Todas as situações comuns vividas esse ano, como o medidor de febre à distância, o uso das máscaras e do álcool gel, e a proibição tácita de se dar as mãos, é revisitada. É um aceno de cabeça para o espectador que sabe bem do que o filme está falando. Talvez bem até demais para ser visto em um filme.

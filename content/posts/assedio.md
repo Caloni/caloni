@@ -1,9 +1,12 @@
 ---
-date: "2019-09-08"
-link: "https://www.imdb.com/title/tt0149723"
-categories: [ "draft", "movies" ]
-title: "Assédio"
+categories:
+- draft
+- movies
+date: '2019-09-08'
+link: https://www.imdb.com/title/tt0149723
+title: Assédio
 ---
+
 Este filme é uma aula de como fazer Cinema, e se aproveita de uma história que facilita isso. Escrito pelo diretor Bernardo Bertolucci com a ajuda para as partes africanas pela roteirista Clare Peploe, Assédio é uma janela que se abre para um tema com todas as forças possíveis de serem exploradas.
 
 A história é conduzida de maneira enérgica, dinâmica e apressada por Bertolucci. Há um golpe de Estado em um país africano, que vira colônia de algum país branco em alguma época do século 20. Os detalhes não importam. O marido de Shandurai, professor em uma escola, vira preso político, e ela foge para a Itália, estudando medicina e pagando suas contas trabalhando para Jason Kinsky, um pianista medíocre e tímido que fica fascinado com a beleza de sua empregada.

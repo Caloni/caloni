@@ -1,9 +1,11 @@
 ---
-date: "2013-08-10"
-link: "https://www.imdb.com/title/tt1663662"
-categories: [ "movies" ]
-title: "Círculo de Fogo"
+categories:
+- movies
+date: '2013-08-10'
+link: https://www.imdb.com/title/tt1663662
+title: Círculo de Fogo
 ---
+
 Ao contrário de [Homem de Aço], que apesar de voar se esforça em manter seus dois pés no chão da realidade, Círculo de Fogo parece navegar por outras águas, sempre disposto a impulsionar sua fantasia em direção daquele mundinho que habita nossa mente de criança (espero que você ainda a tenha) em busca de desafios cada vez maiores para nossos gigantes heróis. 
 
 Inspirado diretamente das séries japonesas de Eras atrás (estou olhando para vocês, [Jaspion] / Changeman / Spectroman) a narração introdutória explica como monstros que surgiram do Oceano Pacífico através de uma espécie de portal para outra dimensão/universo impulsionaram as nações a construir o sonho de consumo de qualquer jovem: um robô gigante para esmagar as criaturas dos mares. Embora condicionado no conhecido formato americano de fazer Cinema (que obriga os heróis a terem dramas e fantasmas pessoais do seu passado para resolver), a boa notícia é que a alma oriental permanece, pelo menos nos momentos mais icônicos, o que faz a película vibrar em momentos pontuais, mas em quantidade suficiente para segurar a tensão.

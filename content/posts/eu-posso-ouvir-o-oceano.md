@@ -1,9 +1,12 @@
 ---
-date: "2020-02-16"
-link: "https://www.imdb.com/title/tt0108432"
-categories: [ "draft", "movies" ]
-title: "Eu Posso Ouvir o Oceano"
+categories:
+- draft
+- movies
+date: '2020-02-16'
+link: https://www.imdb.com/title/tt0108432
+title: Eu Posso Ouvir o Oceano
 ---
+
 Os Estúdios Ghibli criam personagens reais em cada trabalho porque há um pluralismo nas características desenvolvidas em seus personagens e nas situações que eles vivem e interagem ao longo do tempo que alcançam um nível de quase-vida. Somos quase capazes de reconhecer um ser humano completo, ou pelo menos seus anseios, ambições, medos e lembranças. O tempo e as memórias são elementos tão vitais para a equipe de desenhistas e roteiristas que eles criam uma linguagem especial apenas para expressá-los da melhor maneira possível.
 
 Esta é uma história simples de pouco mais de uma hora sobre dois garotos amigos de uma escola do interior. Surge uma garota da capital cujo temperamento é um misto entre problemas na família e incapacidade de confiar nos outros. Nenhum deles enxerga a garota real porque essa é a adolescência e também porque a história é incompleta. Faltam pedaços que nos impedem de entender a real profundidade deste drama adolescente.

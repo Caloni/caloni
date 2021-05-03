@@ -1,9 +1,12 @@
 ---
-date: "2016-07-18"
-link: "https://www.imdb.com/title/tt1967545"
-categories: [ "draft", "movies" ]
-title: "Refém da Paixão"
+categories:
+- draft
+- movies
+date: '2016-07-18'
+link: https://www.imdb.com/title/tt1967545
+title: Refém da Paixão
 ---
+
 Kate Winslet e Josh Brolin são atores tão competentes que "Refém da Paixão" sai quase ileso de seu formato drama enlatado com situações previsíveis para tornar tudo um pouco mais tenso. Até Gattlin Griffith, que faz o jovem Henry, e que quando adulto é narrado por Tobey Maguire, consegue um desempenho interessante, e talvez tenha dado a sorte de pegar o personagem mais ou menos acompanhável. No entanto, a mãe amargurada Adele (Winslet) e o bom homem preso injustamente Frank (Brolin) são funções ingratas da dupla de atores veteranos, pois uma vez estabelecidos os estereótipos, eles nunca mudam.
 
 E, mesmo assim, esses dois insistem de uma maneira até compreensível em utilizar pequenas situações do dia-a-dia para elevar o estado de espírito neste que é talvez o trabalho mais fraco do diretor Jason Reitman, o até do roteirista Jason Reitman. Tendo estreado em Obrigado por Fumar e feito o texto de estreia de Diablo Cody em Juno, Reitan manteve a boa forma no ótimo Amor sem Escalas, seja na direção quanto no roteiro. Aqui, porém, por usar o romance de Joyce Maynard de uma maneira insípida, nunca temos a sensação de ver a história se movendo, mas sim parada, estática, nos mostrando como eram mágicos os épicos anos 80.

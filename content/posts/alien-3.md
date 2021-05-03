@@ -1,9 +1,11 @@
 ---
-date: "2011-12-10"
-link: "https://www.imdb.com/title/tt0103644"
-categories: [ "movies" ]
-title: "Aliens 3"
+categories:
+- movies
+date: '2011-12-10'
+link: https://www.imdb.com/title/tt0103644
+title: Aliens 3
 ---
+
 Oito anos após [Aliens, o Resgate] (James Cameron), continuação do [filme original de Ridley Scott], o Cinema mais uma vez revisita esse universo, dessa vez pela visão do ainda inexperiente David Fincher (Seven, [Clube da Luta], [A Rede Social]), que não conseguiu enriquecê-lo à altura de seus antecessores, mas cria um drama que no mínimo aumenta um pouco nossa percepção a respeito da criatura.
 
 Aplicando um ritmo mais reflexivo a maior parte do tempo e com cara de reboot já nascido morto, o filme inicia na sequência do anterior, quando a nave usada para escape identifica um incêndio (que vemos ter sido causado por um "facehugger") e inicia um procedimento de aterrisagem no planeta mais próximo. O lugar, porém, revela ser uma prisão de segurança máxima, onde Ripley (Sigourney Weaver), além de ser a única sobrevivente, é a única mulher existente, o que acaba gerando um certo desconforto aos seus habitantes.

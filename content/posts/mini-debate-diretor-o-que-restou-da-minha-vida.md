@@ -1,8 +1,10 @@
 ---
-date: "2016-10-21"
-categories: [ "draft",  ]
-title: "Mini-Debate com diretor de O Que Restou da Minha Vida"
+categories:
+- draft
+date: '2016-10-21'
+title: Mini-Debate com diretor de O Que Restou da Minha Vida
 ---
+
 Depois da sessão de hoje do alemão O Que Restou da Minha Vida, candidato à Competição Novos Diretores, adentrou no Cine Caixa Belas Artes Sala 1 o diretor Jens Wischnewski para uma rápida sessão de perguntas. Logo no começo também chega meio apressada a atriz principal do filme, Luise Heyer. As perguntas foram improvisadas pelo (infelizmente) pequeno público, mas foi respondido com muita simpatia (para um alemão) por Wischnewski. Segue as que eu lembro de cabeça:
 
 Você já fez algum curta-metragem antes desse seu primeiro longa?

@@ -1,9 +1,12 @@
 ---
-date: 2018-08-30T14:41:33-03:00
-title: "GetArg: the ultimate badass argv/argc parser"
-categories: [ "draft", "code" ]
-desc: "Sample de parse de argv/argc usando apenas strcmp."
+categories:
+- draft
+- code
+date: 2018-08-30 14:41:33-03:00
+desc: Sample de parse de argv/argc usando apenas strcmp.
+title: 'GetArg: the ultimate badass argv/argc parser'
 ---
+
 Sim, eu acho que já resumi o suficiente meu parseador de argv/argc no meu [último artigo sobre o tema](/meu-novo-parseador-de-argc-argv). Sim, eu também acho que a [versão com STL](/como-parsear-argc-argv-para-um-map-stl) bonitinha (mas ordinária). A questão agora não são as dependências, mas o uso no dia-a-dia: precisa ter o argc nessa equação?
 
 A resposta é não. Pois, como sabemos, o padrão C/C++ nos informa que o argv é um array de ponteiros de strings C que termina em nulo. Sabemos que ele termina, então o argc é apenas um helper para sabermos de antemão onde ele termina. Mas quando precisamos, por exemplo, passar o argv/argc para uma thread Windows, que aceita apenas um argumento mágico, talvez minha versão antiga não seja tão eficaz, pois isso vai exibir que eu aloque memória de um struct que contenha ambas as variáveis, etc. Por que não simplesmente utilizar apenas o argv?

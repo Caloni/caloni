@@ -1,9 +1,11 @@
 ---
-date: "2011-10-24"
-link: "https://www.imdb.com/title/tt1841584"
-categories: [ "movies" ]
-title: "O Desaparecimento do Gato"
+categories:
+- movies
+date: '2011-10-24'
+link: https://www.imdb.com/title/tt1841584
+title: O Desaparecimento do Gato
 ---
+
 Diferente da ótica tão comum nos filmes de encarar a loucura como uma doença trágica, Carlos Sorín dedica seus esforços em sua nova película para entreter o espectador e deixá-lo ver com seus próprios olhos que a loucura, de uma maneira geral, pode estar em todos nós, da maneira mais corriqueira e cotidiana que for. De maneira brilhante, O Desaparecimento do Gato consegue transmitir essa sensação através de inúmeras facetas.
 
 A história começa com o relatório médico de três especialistas que decidem que um de seus pacientes está curado, e que portanto está livre para voltar à sua vida normal do lado da esposa. No entanto, esta, por ter vivenciado seu ataque de loucura, não está tão certa ainda da sanidade de seu marido, e embora tente de tudo para voltar à normalidade, acaba sempre voltando para a mesma questão que a remoe por dentro: estará seu marido verdadeiramente curado de uma doença mental?

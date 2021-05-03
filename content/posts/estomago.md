@@ -1,9 +1,11 @@
 ---
-date: "2020-06-13"
-link: "https://www.imdb.com/title/tt1039960"
-categories: [ "movies" ]
-title: "Estômago"
+categories:
+- movies
+date: '2020-06-13'
+link: https://www.imdb.com/title/tt1039960
+title: Estômago
 ---
+
 Este é um filme no auge da retomada do cinema brasileiro e quando os esquerdistas estavam sem ódio no coração com o lulinha da paz. Por isso a prisão não é horrível, mas podia ser melhor. Alguns insetos na comida e só isso. Este roteiro caminha em dois tempos distintos na história de Raimundo Nonato (João Miguel), um nordestino que vem para São Paulo ou outra grande metrópole do sul mostrar como em um filme há tanta desigualdade e desrespeito pelos serumaninhos. Mas um paradoxo se cria quando vemos o final do filme e descobrimos estar enganados a respeito da índole do protagonista. Infelizmente isso acontece tarde demais e soa falso. No entanto, a diversão fica por conta de diálogos bem trabalhados, com uma preparação de elenco que cria personagens factíveis e genuinamente engraçados. Sanitizados, mas engraçados. O objetivo do filme é ser comercial, e por isso o DVD vem cheio de extras e o play do filme, mesmo normal, nos mostra de maneira irritante um ícone no canto da tela para podermos pressionar um botão do controle remoto e ir para a receita que está sendo feita no filme. Desnecessário. E preguiçoso, já que nos extras a mesma opção existem, sem você precisar assistir ao filme novamente.
 
 João Miguel cria um protagonista que ganha a empatia do público com seu jeito manso ao mesmo tempo que puro, e com isso nos mantém sempre a seu lado. Ele é o elo fraco da rede de poder que move a economia: o dinheiro. Se você não tem é quase um escravo. Tanto que seu primeiro emprego na cidade grande, fazer coxinhas para o dono de um boteco, é pago "apenas" com casa e comida. Mas Nonato, que nasceu de parto difícil (por isso o nome, ele explica) e provavelmente é órfão de mãe que nunca conheceu o pai, uma história como muitas da região de onde veio, cozinha bem, e isso o leva a ser promovido na vida em pouco tempo, indo trabalhar na cozinha de um bacana que se acha um connoisseur de vinho e comida requintada, mas fala com um vocabulário xulo que pessoas da classe média assistindo irão perceber que é para mostrar como ele é boçal, embora ele possa muito bem ter nascido na periferia da cidade grande que o filme tanto despreza.

@@ -1,10 +1,14 @@
 ---
-date: "2017-10-20"
-link: "https://www.imdb.com/title/tt6573444"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Human Flow"
+categories:
+- draft
+- movies
+date: '2017-10-20'
+link: https://www.imdb.com/title/tt6573444
+tags:
+- cinemaqui
+title: Human Flow
 ---
+
 Human Flow é um documentário em seu formato clássico. Provavelmente as 300 horas de filmagens do projeto servirão de acervo sobre a grande imigração de nosso tempo. E provavelmente as pouco mais de duas horas de filme serão lembrados dessa forma, também.
 
 Isso porque o diretor Ai Weiwei, homenageado desta quadragésima-primeira Mostra Internacional de Cinema de São Paulo, não parece estar dirigindo através de um filtro autoral. O que é curioso, já que Weiwei é ele próprio, podemos dizer, um imigrante. Foragido de seu país natal, ele é um refugiado na Alemanha, que ironicamente é o destino final de milhões de refugiados que chegam na Europa todos os anos pelo Mar Mediterrâneo. Mas infelizmente as fronteiras estão fechadas para esses povos.

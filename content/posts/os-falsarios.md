@@ -1,9 +1,12 @@
 ---
-date: "2019-09-12"
-link: "https://www.imdb.com/title/tt0813547"
-categories: [ "draft", "movies" ]
-title: "Os Falsários"
+categories:
+- draft
+- movies
+date: '2019-09-12'
+link: https://www.imdb.com/title/tt0813547
+title: Os Falsários
 ---
+
 Os Falsários é uma história real embutida em um drama sobre a moral e o fazer certo, mesmo que arriscando sua própria vida. E não há cenário mais propício para se desenvolver uma trama como essa do que nos limites do homem: a guerra.
 
 O filme escrito e dirigido por Stefan Ruzowitzky baseado no livro de Adolf Burger, que, coincidência ou não, o coloca como herói, conta a história de Sorowitsch (Karl Markovics), um falsificador de notas de dinheiro que é pego pela polícia e no final da segunda guerra é posto para trabalhar para os alemães, para fabricar notas inglesas e americanas e assim conseguir financiar por mais tempo a guerra.

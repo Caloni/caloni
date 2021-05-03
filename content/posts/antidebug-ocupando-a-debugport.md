@@ -1,8 +1,10 @@
 ---
-date: "2007-08-23"
-title: "Antidebug: ocupando a DebugPort"
-categories: [ "code" ]
+categories:
+- code
+date: '2007-08-23'
+title: 'Antidebug: ocupando a DebugPort'
 ---
+
 Quando um depurador inicia um processo para ser depurado ou, o caso abordado por este artigo, se conecta em um processo já iniciado, as comunicações entre esses dois processos é feita através de um recurso interno do Windows chamado de LPC (Local Procedure Call). O sistema cria uma "porta mágica" de comunicação específica para a depuração e os eventos trafegam por meio dela.
 
 Entre esses eventos podemos citar os seguintes:

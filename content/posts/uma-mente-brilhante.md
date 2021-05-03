@@ -1,9 +1,11 @@
 ---
-date: "2020-04-05"
-link: "https://www.imdb.com/title/tt0268978"
-categories: [ "movies" ]
-title: "Uma Mente Brilhante"
+categories:
+- movies
+date: '2020-04-05'
+link: https://www.imdb.com/title/tt0268978
+title: Uma Mente Brilhante
 ---
+
 Não lembrava como este filme era tão bom. Ou eu não era bom o suficiente para apreciá-lo. Focado apenas na parte lógica da coisa, não percebi o quão madura e humana é essa abordagem de um matemático brilhante, contemporâneo de todos nós, e ainda vivo, com seu drama pessoal o assombrando.
 
 Russell Crowell está possuído. Podemos falar de tão poucas atuações dessa forma sem soarmos exagerados. Geralmente é um trabalho específico, como Heath Ledger em [Batman: O Cavaleiro Das Trevas], quando o personagem Coringa existe a despeito de existir um ator o interpretando. O ator não existe mais, mas o personagem sim, e com força maior. O papel de Crowell em A Beautiful Mind é permitir essa condutividade de alma que acende a chama de um gênio ao vivo e a cores.

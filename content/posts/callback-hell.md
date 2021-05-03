@@ -1,8 +1,10 @@
 ---
-date: "2020-04-09"
-categories: [ "code" ]
-title: "Callback Hell"
+categories:
+- code
+date: '2020-04-09'
+title: Callback Hell
 ---
+
 Foi aprendendo sobre kernel do Windows que eu descobri que a linguagem C suporta todas as abstrações que um homem crescido precisa para desenvolver sistemas. Também aprendi que você precisa ser um homem crescido para saber usar direito.
 
 A linguagem C possui 32 palavras-chave e nenhuma parafusadeira elétrica. Existe um motivo para isso: fazer tudo na mão desenvolve o caráter. Se não desenvolve, pelo menos escancara a má pessoa que você é.

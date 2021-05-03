@@ -1,9 +1,13 @@
 ---
-date: "2018-05-10"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Renascimento do Parto 2"
+categories:
+- draft
+- movies
+date: '2018-05-10'
+tags:
+- cinemaqui
+title: O Renascimento do Parto 2
 ---
+
 O Renascimento do Parto 2, talvez não seja preciso dizer, é mais do mesmo cinco anos após seu predecessor, O Renascimento do Parto. E desconfio que o objetivo aqui é a conscientização eterna e perene da população, em um trabalho de formiguinha que com certeza deve desanimar às vezes as pessoas por trás desse movimento, mas não chega nem perto do desânimo que isso gera aos fãs de Cinema.
 
 Iniciando dessa vez apresentando os diversos entrevistados e suas funções, que são em sua maioria sumidades fictícias -- advogados, psicólogos, enfermeiros e, o mais icônico, cientistas (como se ter PhD em alguma área te desse poderes mágicos em todas) -- o pretenso documentário logo deixa claro que, apesar de defender a ciência e o método científico em busca de uma melhor solução para os problemas do parto da mulher contemporânea, este longa (bem longo, diga-se de passagem) não irá apresentar quase nenhuma informação estatística relevante das pesquisas que cita (sequer quais são essas pesquisas), preferindo no lugar explicar muitas opiniões disfarçadas de conhecimento, em um serviço de desinformação que além de não auxiliar em sua causa afasta qualquer possível ajuda e reconhecimento dos que também confiam na ciência, em um efeito muito semelhante ao pseudo-documentário Quem Somos Nós, onde sumidades de astronomia e física teórica discutiam a multiplicidade das realidades e como com a mente positiva alteramos nossa própria realidade (e obviamente nesse caso não havia sequer qualquer trabalho científico válido e digno de ser citado, sendo que muitos dos entrevistados, descobriu-se depois, eram meros charlatões).

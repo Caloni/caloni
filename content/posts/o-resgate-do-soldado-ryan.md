@@ -1,9 +1,12 @@
 ---
-date: "2018-01-12"
-link: "https://www.imdb.com/title/tt0120815"
-categories: [ "draft", "movies" ]
-title: "O Resgate do Soldado Ryan"
+categories:
+- draft
+- movies
+date: '2018-01-12'
+link: https://www.imdb.com/title/tt0120815
+title: O Resgate do Soldado Ryan
 ---
+
 Aquele filme que tem tudo pra dar errado, mas que por uma série de milagres se torna uma obra de arte. A farofa de Steven Spielberg aliada a um roteiro marcado por momentos que sintetizam o sentimento contraditório da guerra pelos olhos de seus soldados. E uma frase que marca o cinema de guerra: "cada pessoa que eu mato parece me levar cada vez mais longe de casa".
 
 Após o dia D, os americanos precisam ganhar terreno, mas um gosto amargo na boca de seus líderes permanece: milhares de jovens mortos e famílias que nunca mais serão as mesmas. Na esperança de salvar o quarto filho enviado para se sacrificar, a missão inusitada de resgatar um soldado de infantaria em meio ao caos surge como apenas mais uma insanidade das inúmeras que aparecem em tempos sombrios.

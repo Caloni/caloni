@@ -1,10 +1,14 @@
 ---
-date: "2018-08-16"
-link: "https://www.imdb.com/title/tt7336012"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Takara: A Noite que Nadei"
+categories:
+- draft
+- movies
+date: '2018-08-16'
+link: https://www.imdb.com/title/tt7336012
+tags:
+- cinemaqui
+title: 'Takara: A Noite que Nadei'
 ---
+
 Largue essa pressa e esse jeito adulto de ser. "Takara - A Noite que Nadei", apesar de curto, é lento. Bem lento. Isso porque ele parece explorar o tédio através dos olhos de uma criança, ao mesmo tempo que se transforma em um conto para refletirmos sobre liberdade nas mãos de uma criança.
 
 E o que o filme franco-japonês dirigido por Kohei Igarashi e Damien Manivel nos entrega é uma experiência minimalista, mas cheia de enquadramentos evocativos. Cercado de amontoados de neves por todos os lados, a cidade soa ameaçadora para uma criança de poucos anos sozinha neste frio do lado de fora. Mas ao mesmo tempo ao vermos que ela está bem se transforma em uma poesia sobre o poder da iniciativa humana em trilhar seu próprio caminho, por mais pequenino que seja o humano e por mais simplório que seja este o caminho.

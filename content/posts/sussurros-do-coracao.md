@@ -1,9 +1,11 @@
 ---
-date: "2020-05-04"
-link: "https://www.imdb.com/title/tt0113824"
-categories: [ "movies" ]
-title: "Sussurros do Coração"
+categories:
+- movies
+date: '2020-05-04'
+link: https://www.imdb.com/title/tt0113824
+title: Sussurros do Coração
 ---
+
 Difícil um japonês cantar "Country Roads", mas o resultado vale todo o esforço. E a dedicação que essa menina tem para escrever ficção eu não tenho para não-ficção. Mas ela está aprendendo, e na cultura japonesa você deve dominar o que pretende fazer em sua vida.
 
 Assim como faz a equipe dos estúdios Ghibli de animação nessa história que se passa no Japão com uma música-tema americana, mas narra um romance universal. Não é um filme apenas de romance, mas de valores. Ele ensina que o caminho a ser percorrido para voltarmos para a nossa Terra Natal é árduo, mas vale cada milha. Essa é uma metáfora da auto-descoberta.

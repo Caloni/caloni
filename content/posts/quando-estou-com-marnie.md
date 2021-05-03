@@ -1,9 +1,11 @@
 ---
-date: "2015-09-13"
-link: "https://www.imdb.com/title/tt3398268"
-categories: [ "movies" ]
-title: "Quando Estou Com Marnie"
+categories:
+- movies
+date: '2015-09-13'
+link: https://www.imdb.com/title/tt3398268
+title: Quando Estou Com Marnie
 ---
+
 Mais um dos filmes dos estúdios Ghibli (em que um dos fundadores é Hayao Miyazaki) que já estreou há mais de um ano no Japão e aqui custa a aparecer uma distribuidora decente. Aliás, vamos combinar: não existe distribuidora confiável em solo nacional.
 
 A história de reconexão com a vida de uma garota através da figura misteriosa de uma menina não poderia ter melhores idealizadores. Os detalhes nos traços do desenho, as "mágicas" de movimento, a trilha sonora contemplativa, as expressões dos personagens e, por fim, o roteiro complexo (mas coeso) escrito a seis mãos e baseado no romance de 67 por Joan G. Robinson são todos mecanismos válidos para aumentar a introspecção nessa viagem intimista em busca do que nos torna aptos a sermos seres humanos que desejam viver. Boa parte dessa dúvida da protagonista, Anna, reside em sua incapacidade de viver em sociedade. Mas qual seria outra forma de viver, não é mesmo?

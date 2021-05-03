@@ -1,9 +1,12 @@
 ---
-date: "2015-12-30"
-link: "https://www.imdb.com/title/tt0317248"
-categories: [ "draft", "movies" ]
-title: "Cidade de Deus"
+categories:
+- draft
+- movies
+date: '2015-12-30'
+link: https://www.imdb.com/title/tt0317248
+title: Cidade de Deus
 ---
+
 Nunca mais havia assistido Cidade de Deus depois de sua estreia no cinema, em 2002. Agora, treze anos depois e com 999 filmes no meu "currículo" de cinéfilo dedicado, escolhi esse filme para fazer o que meu amigo chamou de "Pelé das reviews". Portanto, esse é meu filme número 1000 do Cine Tênis Verde.
 
 Mesmo depois de tanto tempo, eu lembrava de muitos momentos icônicos do pesadíssimo filme de Fernando Meirelles, como a escolha de um garoto entre quais de dois garotos mais novos que ele ele deveria matar, ou um bando de assassinos rezando um pai-nosso para protegê-los de todo o mal, ou tantas outras cenas que formam um mosaico muito bem elaborado pela equipe de Meirelles e que merecidamente ganhou as graças do público e da crítica mundo afora. É interessante também constatar que a frase mais famosa do filme -- "Dadinho é o caralho, meu nome agora é Zé Pequeno, porra!" -- tem sua função, mas hoje parece longe de figurar entre os incontáveis momentos marcantes dessa pequena obra-prima.

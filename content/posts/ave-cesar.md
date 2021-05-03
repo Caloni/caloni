@@ -1,9 +1,12 @@
 ---
-date: "2016-08-01"
-link: "https://www.imdb.com/title/tt0475290"
-categories: [ "draft", "movies" ]
-title: "Ave, César!"
+categories:
+- draft
+- movies
+date: '2016-08-01'
+link: https://www.imdb.com/title/tt0475290
+title: Ave, César!
 ---
+
 O próprio ato de se fazer filmes é um filme em si. Os irmãos Coen (Bravura Indômita, Fargo, O Grande Lebowski) elencam um alto escalão para fazer parte de uma série de desventuras em várias produções hollywoodianas. Com diferentes gêneros, atores, diretores, roteiristas e figurantes, o filme nos convida a repensar a própria vida sob a lógica do faz-de-conta que tem encantado gerações de famílias. Até, é claro, o surgimento da TV.
 
 Estamos em algum lugar no tempo onde o cinema mudo deixa de existir, os épicos e adaptações da Broadway começam a pipocar. O diretor de uma produtora de Hollywood vira uma espécie de investigador de filme noir (ou o cara que faz o trabalho sujo). Ele nunca dorme, mantém as horas sob controle em seu relógio e se confessa na igreja com frequência. São pecados leves, como não conseguir parar de fumar como a mulher o pede. Mas, dentro do seu subconsciente, ele parece saber estar fazendo algo de muito errado.

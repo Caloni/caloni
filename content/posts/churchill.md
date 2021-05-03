@@ -1,10 +1,14 @@
 ---
-date: "2017-09-28"
-link: "https://www.imdb.com/title/tt2674454"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Churchill"
+categories:
+- draft
+- movies
+date: '2017-09-28'
+link: https://www.imdb.com/title/tt2674454
+tags:
+- cinemaqui
+title: Churchill
 ---
+
 Churchill é uma pálida tentativa em reviver os últimos momentos da Segunda Guerra sob a prisma do polêmico e brutal ministro britânico. Parecendo feito para televisão e sem muita atmosfera nem história para conseguir realizar a imersão necessária na história, seu principal defeito é acreditar piamente que o que está sendo visto na tela é emocionante e honroso, simplesmente por ter em seu epicentro o grutão inglês mais famoso da política recente.
 
 Este é um filme que também confia desmedidamente de momentos-chave da história do protagonista, narrados com tanta reverência que se torna muito semelhante a Lincoln. A diferença está que enquanto o filme de Spielberg se favorece da cara produção de época e de uma fotografia que exalta religiosamente a figura do presidente americano como um ícone, aqui não há produção cara nem um líder carismático. Churchill está passando por sérios problemas de autoridade e senilidade, o que o tornam mais um estorno do que um exemplo, seja diante dos generais com quem dialoga, seus funcionários, seu melhor amigo e até sua esposa.

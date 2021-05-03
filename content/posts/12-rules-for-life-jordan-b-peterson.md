@@ -1,8 +1,11 @@
 ---
-date: "2018-12-30"
-categories: [ "draft", "books" ]
-title: "12 Regras Para a Vida, por Jordan Peterson"
+categories:
+- draft
+- books
+date: '2018-12-30'
+title: 12 Regras Para a Vida, por Jordan Peterson
 ---
+
 12 Regras para a Vida, como o nome indica, é um livro de auto-ajuda, mas diferente do que você poderia esperar. Livros de auto-ajuda que usam o exemplo de vida do autor servem como guia apenas para... er... o autor. Já o livro do psicólogo/filósofo Jordan Peterson utiliza a sabedoria das narrativas antigas, dos usos e costumes das sociedades, aliado ao que a ciência já descobriu sobre nossa espécie para chegar a um denominador comum de quais são as regras mais valiosas para se viver uma vida significativa. Ah, sim, Peterson está menos preocupado com viver feliz do que viver com significado. "Precisamos de regras; quaisquer regras". Esse livro é a tentativa de elencar as melhores.
 
 O início do livro nos apresenta a ideia de que valores são tão importantes quanto fatos científicos, mas que atualmente existe um movimento que tenta eliminar o discernimento moral como algo absoluto ou mensurável. O mundo que vivemos está substituindo certezas onde podemos nos agarrar pela tolerância ilimitada e cientificismo exarcebado, onde teoricamente apenas fatos importariam. Ledo engano. "12 Rules" enfatiza como a razão não é todo o conhecimento que podemos obter do mundo à nossa volta (apesar de ser importante), pois há lugares que apenas nossa intuição pode caminhar. E para isso um guia pode ser as inúmeras narrativas mitológicas sobre o mundo (que mesmo parecendo contos de fadas estão aí até hoje por um motivo). Há uma certa ênfase em como as narrativas de heróis fictícios sempre focam na transformação pelo qual ele passa e pelo sacrifício necessário para que ele passe para o "próximo nível".

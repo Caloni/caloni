@@ -1,9 +1,12 @@
 ---
-date: "2017-11-24"
-link: "https://www.imdb.com/title/tt0974015"
-categories: [ "draft", "movies" ]
-title: "Liga da Justiça"
+categories:
+- draft
+- movies
+date: '2017-11-24'
+link: https://www.imdb.com/title/tt0974015
+title: Liga da Justiça
 ---
+
 Há alguns bons minutos no começo de Liga da Justiça onde eu gostaria muito de voltar a ser criança e vibrar vendo Mulher Maravilha, Batman e Flash juntos! Esses bons minutos, no entanto, passam logo, e no lugar vemos exatamente 120 minutos de uma obra sem começo nem fim, visualmente e narrativamente confusa, barulhenta e com uma miscelânea de cores que não combinam muito bem juntas. A colagem de Mulher-Maravilha dentro de um cenário, ambos com cores bem díspares, é o que representa para mim a união entre milhões sendo gastos em uma produção que parece sempre barata demais.
 
 Continuando a história vista em Batman Vs Superman (que já tinha o sub-título A Origem da Justiça, já entregando o ouro), Batman (Ben Affleck) resolve reunir uma galera de heróis porque uns monstros muito bizarros começam a aparecer em Gothan City, e ele teme por não ter super-poderes e não conseguir lidar com essa ameaça como seu amigo criptoniano faria. Para os que já assistiram e os que não assistiram ainda o filme anterior (spoiler alert!), saiba que Superman nesse momento da história está morto. E quando digo "nesse momento" me refiro à máxima de que não existe morto permanente em filmes de super-heróis que não possa ser revertido, como chegaremos a testemunhas antes da metade da projeção, ou no final de qualquer trailer desse filme.

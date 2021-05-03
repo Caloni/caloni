@@ -1,9 +1,12 @@
 ---
-date: "2016-01-11"
-link: "https://www.imdb.com/title/tt0041959"
-categories: [ "draft", "movies" ]
-title: "O Terceiro Homem"
+categories:
+- draft
+- movies
+date: '2016-01-11'
+link: https://www.imdb.com/title/tt0041959
+title: O Terceiro Homem
 ---
+
 Um filme com uma trilha sonora leve e temático e enquadramentos tortos que lembram que algo está errado. E está, mesmo: Viena está tomada por quatros povos diferentes, cada um fala um idioma, e o povo local fala alemão. Escambos perigosos no mercado negro estão por toda a parte. A atmosfera de O Terceiro Homem é densa, e seus acontecimentos precisos, cirúrgicos. É daqueles raros filmes que não se pode arriscar remover um momento ou expressão sequer. E muito menos uma das inúmeras câmeras tombadas.
 
 O diretor Carol Reed (Oliver!) desafia a gravidade e o senso estético da época com quadros colocados na diagonal que imprimem um ar expressionista em torno da destruída Viena. Seus pontos turísticos e suas ruínas de edifícios ganham outros contornos no filme. Isso sem contar nas sombras, tão ativas quantos seus personagens e cenários, e que o fotógrafo Robert Krasker (que lhe rendeu um Oscar) consegue captar com uma poesia intensa a cada quadro. A maioria pode ser emoldurada na parede.

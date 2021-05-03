@@ -1,10 +1,14 @@
 ---
-date: "2019-11-26"
-link: "https://www.imdb.com/title/tt8028526"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Boonie Bears: Aventura em Miniatura"
+categories:
+- draft
+- movies
+date: '2019-11-26'
+link: https://www.imdb.com/title/tt8028526
+tags:
+- cinemaqui
+title: 'Boonie Bears: Aventura em Miniatura'
 ---
+
 "Boonie Bears: Aventura em Miniatura" é um filme divulgação da série de animação chinesa que desde 2012 tem feito sucesso na China e no mundo. Depois de mais de 600 episódios e seis filmes, essa é uma receita desgastada e entregue sem maiores cuidados com seus personagens nem com um espectador desprevenido que tenha o primeiro contato. Ao reciclar a dupla de ursos, o lenhador e vários dos personagens previamente criados e utilizados várias vezes, a dupla Leon Ding e Huida Lin estão dirigindo no automático cenas que se encaixam mais em jogos interativos do que em uma narrativa de filme. Além disso, seu uso 3D data dos anos 2000, quando objetos eram lançados na sua cara em câmera lenta. Porém, mesmo que você nunca tenha ouvido falar de Boonie Bears ou usado um óculos 3D não irá se interessar por nenhuma dessas coisas, pois tanto os personagens quanto a terceira dimensão artificial são irritantes do começo ao fim.
 
 A intenção sempre foi comercial da tecnologia 3D, lançando um atrativo que a TV não tinha. Em uma Hollywood que lança filmes como parque de diversões e não como histórias envolventes, o objetivo dessa nova reencarnação foi causar assombro na hora que o filme "invade a sala" com seus apetrechos sendo lançados em nossa direção. A animação chinesa chega tão tarde nessa tendência que o máximo que este filme consegue causar com isso hoje é desconforto visual, para adultos e crianças (exceto se for a primeira vez na vida de uma criança, talvez). Há um limite até onde você pode forçar a perspectiva de profundidade sem irritar os olhos do espectador ou fazê-lo enxergar dobrado. Os chineses ignoram esse limite. Pagaram caro pelo efeito e vão usar na potência máxima.

@@ -1,9 +1,11 @@
 ---
-date: "2013-10-19"
-link: "https://www.imdb.com/title/tt0048254"
-categories: [ "movies" ]
-title: "A Morte Passou Perto"
+categories:
+- movies
+date: '2013-10-19'
+link: https://www.imdb.com/title/tt0048254
+title: A Morte Passou Perto
 ---
+
 Primeiro longa de Kubrick é noir de linha de produção
 
 Não uma tentativa de noir e suspense de Kubrick, essa produção lembra muito mais os filmes encomendados pelas grandes produtoras procurando explorar um nicho crescente (exatamente como é feito hoje). É quase que a mesma experiência em [Spartacus], onde o diretor pegou o barco andando e tocou o projeto megalomaníaco de Kirk Douglas com maestria e entregou todo o potencial da história para as telas. No entanto, aqui não há grande potencial, e apesar de ter sido escrito pelo próprio Kubrick, demonstra um amadorismo latente em sua construção de narrativa, usando por exemplo o velho artifício de iniciar pelo protagonista no fim narrando os acontecimentos.

@@ -1,9 +1,12 @@
 ---
-date: "2018-07-26"
-link: "https://www.imdb.com/title/tt8725166"
-categories: [ "draft", "series" ]
-title: "Dark Tourism"
+categories:
+- draft
+- series
+date: '2018-07-26'
+link: https://www.imdb.com/title/tt8725166
+title: Dark Tourism
 ---
+
 Essa série que saiu na Netflix, é uma boa série, porque ela contém todos os elementos que faltam hoje ao jornalismo pensante. Há obviamente um formato senso forçado, mas quando algo é bem feito, isso passa como diversão.
 
 Seu host é a figura de um americano caucasiano classe média turista padrão, cheio de receios e medo. A melhor parte de sua atuação são as perguntas medrosas com a reação silenciosa. A edição mantém um timing dinâmico, mas que sabe aproveitar esses momentos e ao mesmo tempo suas narrações, que sempre vão revelando o lugar inóspito que está sendo visitado com muita calma, sendo degustado a cada palavra.

@@ -1,8 +1,11 @@
 ---
-date: "2010-08-30"
+categories:
+- draft
+- code
+date: '2010-08-30'
 title: Como ofuscar strings
-categories: [ "draft", "code" ]
 ---
+
 Já fiz ofuscamento e embaralhamento de dados acho que umas três ou quatro vezes. Dessa vez, parti para o batidíssimo esquema de fazer o pré-processamento de um header com defines que irão virar estruturas reaproveitadas por uma função padrão que desofusca e ofusca aquela tripa de bytes em algo legível: a string original.
 
 Vamos ver um exemplo:

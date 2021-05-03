@@ -1,8 +1,10 @@
 ---
-date: "2011-11-01"
-categories: [ "movies" ]
-title: "Fora do Figurino"
+categories:
+- movies
+date: '2011-11-01'
+title: Fora do Figurino
 ---
+
 Às vezes um filme pode ajudar a consolidar um conhecimento que fica na cabeça das pessoas, flutuando, inconsciente, mas que nem nos damos conta de que ele existe. Por exemplo: quantas vezes ao comprar uma peça de roupa (ou calçado) não nos damos conta que o tamanho anteriormente escolhido já não serve mais? Esse pequeno detalhe, que parece tão corriqueiro, no fundo é resultado de uma falta de padronização nas medidas do vestuário do brasileiro, e à adaptação (errada) do uso de medidas feitas com base no corpo de pessoas completamente diferentes, como um europeu ou um norte-americano.
 
 Utilizando representantes de todas as esferas relacionadas com este problema, como costureiros, estilistas, políticos e os próprios usuários, o documentário de Paulo Pélico busca compreender a raiz desse problema tão conformado em nossas cabeças como algo imutável. A maneira com que a narrativa é feita faz com que aos poucos nos identifiquemos e relacionemos as mesmas dificuldades das pessoas que testemunham com nossas próprias situações vividas, o que torna a compreensão do problema muito mais simples (identificação primeiro, problematização depois).

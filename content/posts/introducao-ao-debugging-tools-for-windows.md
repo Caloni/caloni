@@ -1,8 +1,10 @@
 ---
-date: "2007-06-20"
-title: "Introdução ao Debugging Tools for Windows (usando o Logger para monitorar APIs)"
-categories: [ "code" ]
+categories:
+- code
+date: '2007-06-20'
+title: Introdução ao Debugging Tools for Windows (usando o Logger para monitorar APIs)
 ---
+
 O WinDbg é uma ferramenta obrigatória em uma das minhas mais divertidas tarefas aqui na Open: engenharia reversa de cavalos de tróia. Não tenho o código-fonte desses programas, não posso executá-los em minha própria máquina e não consigo fazer tudo que preciso usando apenas o depurador integrado do Visual Studio (como remontar o assembly do programa, por exemplo). Tudo isso faz do WinDbg a alternativa perfeita (senão uma das únicas). É um depurador que permite ser usado tanto através de janelas quanto através de comandos, o que permite um aprendizado em doses homeopáticas: comece com as janelas e aos poucos ganhe o controle total. Conseqüentemente cada dia aprendo um comando novo ou um novo uso para um comando que já conheço.
 
 Abaixo um esboço de como o WinDbg se parece, com suas principais janelas. A de comandos é a da direita.

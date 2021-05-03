@@ -1,9 +1,12 @@
 ---
-date: "2017-06-01"
-link: "https://www.imdb.com/title/tt0451279"
-categories: [ "draft", "movies" ]
-title: "Mulher-Maravilha"
+categories:
+- draft
+- movies
+date: '2017-06-01'
+link: https://www.imdb.com/title/tt0451279
+title: Mulher-Maravilha
 ---
+
 Depois de uma história seríssima e enfadonha envolvendo o Homem de Aço e o Homem Morcego, agora temos... mais uma história seríssima, dessa vez envolvendo a mulher misteriosa que aparecia no filme anterior, sempre acompanhada de sua música-tema. Ela é a Mulher-Maravilha, em um filme que não é lá essas maravilhas. Mas agora, pensando bem, eu não sei se o título de "Mulher-Maravilha" serve para esta versão asséptica e ultra-estilizada de uma das poucas heroínas solo. Eu sou mais a Lynda Carter, sua fantasia colorida e sua voluptuosidade honesta.
 
 Mas cada um com seus gostos. E ultimamente o gosto tem sido mulheres sem sal, como os recentes filmes da série Star Wars têm comprovado. Aqui ela vive entre as Amazonas, criaturas divinas que vivem escondidas em um portal mágico no meio do Triângulo das Bermudas. Elas vivem em paz, talvez porque lá não exista homem algum, e também porque faz muito tempo que qualquer uma delas precisa pegar em armas. Sua mãe até a desencoraja fazer seus treinamentos de amazonas, pois segundo ela isso atrai Ares, o deus da guerra. Porém, curiosamente, quando alguns humanos invadem a ilha paradisíaca, suas arqueiras estão prontas para atacar com seus malabarismos, que ficam tão bonitos cheios de cortes e câmeras lentas.

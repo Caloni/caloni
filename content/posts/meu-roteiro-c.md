@@ -1,8 +1,11 @@
 ---
-date: "2009-05-20"
+categories:
+- draft
+- blog
+date: '2009-05-20'
 title: Meu roteiro C++
-categories: [ "draft", "blog" ]
 ---
+
 Como não consigo mais ter ideias para artigos, resolvi catalogar todas as coisas que já falei nesse blogue e, o mais importante, todas as coisas que ainda não falei nesse blogue (e espero um dia falar ou talvez nunca fale), começando por C++, que era o intuito original (só que não é mais, porque eu uso mais a Win32 API que a STL):
 
 #### C++

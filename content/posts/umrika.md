@@ -1,9 +1,12 @@
 ---
-date: "2016-10-28"
-link: "https://www.imdb.com/title/tt2614722"
-categories: [ "draft", "movies" ]
-title: "Umrika"
+categories:
+- draft
+- movies
+date: '2016-10-28'
+link: https://www.imdb.com/title/tt2614722
+title: Umrika
 ---
+
 Este é um drama bem construído que envolve uma família indiana e as dores da separação e da ilusão entre eles. Às vezes apela demais para a emoção (principalmente no final), mas em sua maioria é uma trama bem desenvolvida e que merece o título de um indie que não parece indie, pois foge das fórmulas mais comuns e acaba caindo em um pesado sonho indiano pautado no americano. Ou deveria dizer umrikaniano?
 
 A história gira em torno de Lalu, irmão mais novo de uma família de um vilarejo onde o irmão mais velho sai em busca de uma vida melhor nos EUA. Primeiramente fonte de saudades incuráveis da mãe, e sem resposta por muito tempo, eventualmente eles começam a receber correspondência, no que parecem cartas de um Marco Polo ao contrário, descrevendo as maravilhas de um mundo à frente do vilarejo onde cresceram, embora ninguém tenha muita certeza de por que.

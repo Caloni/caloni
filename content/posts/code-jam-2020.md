@@ -1,9 +1,11 @@
 ---
-date: "2020-04-05"
-link: "https://gist.github.com/Caloni/fd22d49ad7e9c046120d98876c8cad38"
-categories: [ "code" ]
-title: "Code Jam 2020"
+categories:
+- code
+date: '2020-04-05'
+link: https://gist.github.com/Caloni/fd22d49ad7e9c046120d98876c8cad38
+title: Code Jam 2020
 ---
+
 O Code Jam esse ano terminou rápido para mim. Estou enferrujado? Nem tanto. Apenas dei menos atenção ao evento no seu início, mas apesar de me concentrar nas últimas 11 horas não tive um resultado satisfatório, obtendo 24 pontos ao total, o que não me dá direito para o torneio, que exige pelo menos 30.
 
 Minha abordagem no primeiro problema foi o feijão com arroz de ir lendo os valores e verificando para cada novo elemento da linha se havia repetição nos valores já lidos da mesma linha. Eu me compliquei na hora de fazer a mesma coisa para as colunas, pois inseri essa checagem dentro do loop da linha, evitando, assim, sempre a última coluna. Foi a parte que mais perdi tempo útil de todo o torneio (não li todos os exercícios antes).

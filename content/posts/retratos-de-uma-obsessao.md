@@ -1,9 +1,11 @@
 ---
-date: "2013-07-21"
-link: "https://www.imdb.com/title/tt0265459"
-categories: [ "movies" ]
-title: "Retratos de uma Obsessão"
+categories:
+- movies
+date: '2013-07-21'
+link: https://www.imdb.com/title/tt0265459
+title: Retratos de uma Obsessão
 ---
+
 Entre tantas coisas que poderiam ser destacadas da performance de Robin Williams como Seymour Parrish, um funcionário de uma hoje extinta reveladora de fotos, o que permanece ao final de Retratos de uma Obsessão são os inúmeros filtros que parecem cobrir sua vida de uma aura tão poética quanto trágica. Esse sentimentos ecoam principalmente através das cores, presentes nas fotos e nas vidas das pessoa para quem trabalha, mas que a ele são negadas. Quer uso mais metafórico da fotografia no Cinema do que a própria fotografia sendo o tema principal?
 
 Dos fregueses de costume, uma família em específico é a "obsessão" de Parrish por anos, e sua dedicação em manter a imagem dessa família no decorrer dos anos é ao mesmo tempo tocante e doentio. Nesse sentido, as expressões de um Williams bem mais contido consegue de maneira eficaz a tarefa de nos manter presos a cada passo seu tentando se aproximar de completos estranhos. Da mesma forma, conforme a história começa a se misturar com seus desejos ocultos de pertencer à família, os abusos das cores azul e laranja começam a fazer sentido nesse mundo pálido.

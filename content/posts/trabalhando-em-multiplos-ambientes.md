@@ -1,8 +1,11 @@
 ---
-date: "2010-12-27"
-title: "Trabalhando em múltiplos ambientes"
-categories: [ "draft", "blog" ]
+categories:
+- draft
+- blog
+date: '2010-12-27'
+title: Trabalhando em múltiplos ambientes
 ---
+
 Existem diversas maneiras de se trabalhar com o Bazaar. Eu já [havia definido](http://www.caloni.com.br/como-estou-trabalhando-com-o-bazaar) como fazer na máquina de desenvolvedor para modificar o mesmo código-fonte em projetos paralelos, onde basicamente tenho um branch principal conectado no servidor (assim todo commit vai pra lá) e crio branches paralelos e desconectados para fazer quantos commits eu tenho vontade durante o desenvolvimento. Após todas as mudanças e testes básicos, atualizo o branch principal (com mudanças dos meus colegas) e faço o merge com o branch paralelo onde fiz todas as mudanças. Antes de subir com o commit final, ainda realizo um build de teste local, se necessário.
 
 Nos casos em que eu trabalho em casa (ou em outro ambiente), posso fazer basicamente a mesma coisa, só que meu branch paralelo é copiado para outra máquina:

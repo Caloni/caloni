@@ -1,9 +1,12 @@
 ---
-date: "2013-03-28"
-categories: [ "blog" ]
-tags: [ "ccppbr" ]
-title: "Décimo Encontro de Programadores de C e C++"
+categories:
+- blog
+date: '2013-03-28'
+tags:
+- ccppbr
+title: Décimo Encontro de Programadores de C e C++
 ---
+
 Ando tendo alguns problemas de postagem no meu blog, por isso o aviso não foi feito com mais antecedência. Peço desculpas aos organizadores do evento, pois sei que todo tipo de divulgação é útil.
 
 Chegamos em mais um evento do grupo C/C++ Brasil, dessa vez honrando a parte "Brasil" do nome. Sim, nosso próximo evento será fora de Sampa, mas ainda próximo, no Rio de Janeiro! Até onde eu sei, o primeiro que se tem notícia. Finalmente o grupo terá a chance de se reunir na terra de programadores C++ de referência internacional como Pedro Lamarão.

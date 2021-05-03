@@ -1,9 +1,12 @@
 ---
-date: "2018-02-19"
-link: "https://www.imdb.com/title/tt1192628"
-categories: [ "draft", "movies" ]
-title: "Rango"
+categories:
+- draft
+- movies
+date: '2018-02-19'
+link: https://www.imdb.com/title/tt1192628
+title: Rango
 ---
+
 (Du)Rango para crianças (Kid) já nasce clássico. Aliás, ele venera praticamente todo e qualquer clássico velho oeste que gastou mais de um milhão para ser produzido (ou até alguns meio baratinhos). Com uma direção de arte detalhista e uma direção geral fascinada pelo Cinema, este é um trabalho visualmente impecável e artisticamente inesquecível.
 
 Hans Zimmer deve ter ficado enlouquecido ao saber que poderia fazer uma trilha sonora inspirada nos clássicos de faroeste como Era uma Vez no Oeste, Três Homens em Conflito, O Estranho sem Nome e tantos outros.

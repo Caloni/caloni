@@ -1,10 +1,14 @@
 ---
-date: "2016-12-12"
-link: "https://www.imdb.com/title/tt4698584"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Neruda"
+categories:
+- draft
+- movies
+date: '2016-12-12'
+link: https://www.imdb.com/title/tt4698584
+tags:
+- cinemaqui
+title: Neruda
 ---
+
 "Neruda" é um drama poético com tons de comédia. Pois só a comédia para explicar uma história de perseguição onde nada acontece e onde seu protagonista vive para narrar o que não está acontecendo. Isso seria por si só uma péssima ideia para roteiro, um filme onde não acontece nada. Mas, estamos falando da vida de um poeta, que se define recusando qualquer definição minimamente coerente e que, por ser poeta, diz muitas coisas sobre coisa nenhuma.
 
 O poeta Pablo Neruda é uma figura que fez parte do imaginário intelectual chileno e ganhou voz mundial conforme a esquerda foi tomando conta do discurso e, naturalmente, ganhou o prêmio Nobel de literatura. Inserindo-nos na vida política do escritor como senador pelo Partido Comunista Chileno, o filme já nos coloca como "o comunista mais importante do mundo". Essa sua defesa apaixonada por sua causa o acaba colocando em maus lençois quando o presidente do Chile passa a ser influenciado fortemente pela direita conservadora americana e sua política de caça aos comunistas feito no mundo todo, mas em especial na América Latina.

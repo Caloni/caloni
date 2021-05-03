@@ -1,9 +1,12 @@
 ---
-date: "2016-02-22"
-link: "https://www.imdb.com/title/tt2510894"
-categories: [ "draft", "movies" ]
-title: "Hotel Transilvânia 2"
+categories:
+- draft
+- movies
+date: '2016-02-22'
+link: https://www.imdb.com/title/tt2510894
+title: Hotel Transilvânia 2
 ---
+
 Adam Sandler consegue a proeza de tornar a tosca dublagem brasileira menos pior do que ouvi-lo arriscar um sotaque que é uma mistura de Zohan com trechos de Little Nick.
 
 Ele é o conde Drácula dessa sequência da animação onde a próxima preocupação do pai superprotetor é seu neto. Nascido de sua filha vampira e seu genro humano -- claro que eles tiveram que casar antes -- paira a dúvida em sua cabeça se ele se tornará um "monstro", com suas presas de vampiro, se transformando em morcego e tudo mais, ou se continuará com a aparência e comportamento de uma singela, inocente e inofensiva criatura humana. Com a cara do pai humano, é isso que deixa Drácula possesso.

@@ -1,9 +1,12 @@
 ---
-date: "2017-11-01"
-link: "https://www.imdb.com/title/tt2356777"
-categories: [ "draft", "series" ]
-title: "True Detective: Primeira Temporada"
+categories:
+- draft
+- series
+date: '2017-11-01'
+link: https://www.imdb.com/title/tt2356777
+title: 'True Detective: Primeira Temporada'
 ---
+
 Este é o tipo de série que pode ir de maçante para fascinante, dependendo de quem assiste. Com um roteiro intrincado, sério, sisudo demais, a história contada em oito capítulos segue uma sequência difícil de ser equiparada. Porém, mais do que isso, aqui temos dois personagens em pés de igualdade. Cada um deles é interpretado por um monstro da atuação. Como não amar Matthew McConaughey e Woody Harrelson depois de seus Rus Cohle e Marty Hart? Esta, sim, é uma tarefa difícil.
 
 Como comentei no meu preview sobre a série, o niilismo presente na série é um dos seus melhores aspectos. Ele nos libera para pararmos de pensar em termos do bem contra o mal para nos focarmos naqueles dois detetives e como de tão diferentes que parecem a princípio eles viraram melhores amigos. Mais do que isso: irmãos de sangue por décadas. Isso mesmo com todas as rixas e diferenças no mundo. Nem parece que estou falando isso deles. Mas fica claro desde o começo de seus testemunhos, sentados naquelas cadeiras por boa parte da série. O detetive Marty Hart tem várias ressalvas sobre seu parceiro. Mas sempre faz questão de mencionar: "ele é um bom detetive". Geralmente ele ressalta isso com as mãos.

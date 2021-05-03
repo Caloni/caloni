@@ -1,9 +1,12 @@
 ---
-date: "2017-01-15"
-link: "https://www.imdb.com/title/tt1229822"
-categories: [ "draft", "movies" ]
-title: "Jane Eyre"
+categories:
+- draft
+- movies
+date: '2017-01-15'
+link: https://www.imdb.com/title/tt1229822
+title: Jane Eyre
 ---
+
 Enquanto Jane Austen (Orgulho e Preconceito) escrevia sobre a sociedade britânica com uma vivacidade e energia encantadoras, Charlotte Brontë parece ir no exato oposto com Jane Eyre, um romance extremamente pesado, que encontra nos drama do destino um fiapo de misticismo assombrando uma Inglaterra que parece estar à beira do seu declínio.
 
 Adaptado por Moira Buffini para o cinema, este drama faz um resumo extremamente sintético e eficiente do romance original, abordando toda a dor e sofrimento de sua protagonista, principalmente por não entender seu lugar em um mundo estático do ponto de vista feminino. Isso vemos nos poucos diálogos que resumem os pensamentos de Eyre, mas principalmente nas expressões e trejeitos de Mia Wasikowska, que consegue através de sutilezas embarcar profundamente no psique de uma personagem fascinante, e embora ela pareça sempre à deriva dos acontecimentos, podemos notar sempre sua força de vontade em tentar mudar o sentido das gigantescas rodas do destino.

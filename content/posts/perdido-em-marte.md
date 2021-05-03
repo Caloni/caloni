@@ -1,9 +1,12 @@
 ---
-date: "2016-01-15"
-link: "https://www.imdb.com/title/tt3659388"
-categories: [ "draft", "movies" ]
-title: "Perdido em Marte"
+categories:
+- draft
+- movies
+date: '2016-01-15'
+link: https://www.imdb.com/title/tt3659388
+title: Perdido em Marte
 ---
+
 Esse é um filme para nerds e hackers no seu sentido mais puro. Ele envolve pessoas usando todo seu conhecimento para resolver um problema de vida ou morte. Como consequência, é um exemplo do que todo grande cientista faz ao longo de sua carreira, só que espremido em um filme de ação, drama e comédia de pouco mais de duas horas. Ele é intenso e realista; como sci-fi, encontra maneiras criativas de evitar muito tropeços científicos, e os que comete são pelo bem na narrativa.
 
 Tudo começa em uma tempestade em marte, durante uma missão com humanos. Acreditando que o astronauta Mark Watney (Matt Damon) foi morto em um acidente durante a evacuação do planeta, a tripulação decide abandonar as chances de resgatá-lo. No entanto, Mark está vivo e passa bem, com o detalhe que agora ele possui um mês de suprimentos de sobrevivência, bem menos que os quatro anos de tempo para que uma nova missão tripulada fosse enviada e o salvasse. Matt Damon então mantém seus melhores momentos na primeira meia-hora do filme, mantendo seus registro em vídeo e explicando como decidiu não morrer e irá utilizar todos seu conhecimentos de botânica e ciência para sobreviver o tempo necessário para seu resgate.

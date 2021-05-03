@@ -1,10 +1,14 @@
 ---
-date: "2019-10-23"
-link: "https://www.imdb.com/title/tt8054608"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Deus é Mulher e Seu Nome é Petúnia"
+categories:
+- draft
+- movies
+date: '2019-10-23'
+link: https://www.imdb.com/title/tt8054608
+tags:
+- cinemaqui
+title: Deus é Mulher e Seu Nome é Petúnia
 ---
+
 "Eu tenho valor", diz a protagonista em Deus é Mulher e Seu Nome é Petúnia, "Petúnia é inteligente e trabalhadora", diz seu pai, "O único problema de minha filha é não ter um emprego", diz sua mãe. E nenhum deles parece ter razão.
 
 Petúnia aos 32 anos se formou em história e nunca trabalhou. Com problemas de peso e baixa auto-estima, muito provavelmente infringidos pela própria mãe, o único gostinho de vida dessa mulher aparece quando ela consegue capturar uma cruz sagrada lançada tradicionalmente ao rio para que homens a peguem. Ao vencedor deste ritual diz-se que tem um ano de sorte, e agora Petúnia será criticada, xingada e escrutinada por homens radicais, o sacerdote da igreja e o comandante da polícia.

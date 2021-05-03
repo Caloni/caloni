@@ -1,9 +1,11 @@
 ---
-date: "2012-05-04"
-link: "https://www.imdb.com/title/tt1124058"
-categories: [ "movies" ]
-title: "St. Nick"
+categories:
+- movies
+date: '2012-05-04'
+link: https://www.imdb.com/title/tt1124058
+title: St. Nick
 ---
+
 Quando o filme se inicia, e não sabemos exatamente quem são aquelas crianças, é muito fácil confundi-las com uma situação comum que vemos todos os dias: crianças brincando de aventureiros. Porém, conforme adentramos no mundo lúdico, mas cruel, de suas realidades, a consciência pesa demais para um filme supostamente despretensioso. Mais interessante, porém, é constatar que as pessoas que as encontram imaginam o mesmo que nós imaginávamos minutos antes, o que não deixa de ser irônico e trágico, pois agora vemos que muito da vida passa na nossa frente sem sequer nos darmos conta. A nossa realidade, andando com pressa pela calçada, não enxerga muito além dela própria.
 
 Melancólico sem sequer forçar uma situação, mas simplesmente expondo a vida dos dois irmãos da maneira mais simples e bucólica possível, o peso dramático acaba ficando maior do que se nos tivessem empurrado uma trilha sonora triste de violinos. No fundo, o simples fato de vermos o menino carregando um porta-violinos e admirando sorrateiramente uma jovem ensaiando o violão em seu quintal é o suficiente para que entendamos muito mais do que qualquer fala que pudesse sair de sua boca pudesse nos revelar.

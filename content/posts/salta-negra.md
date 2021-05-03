@@ -1,6 +1,8 @@
 ---
-date: "2017-05-14"
-categories: [ "food" ]
-title: "Salta Negra"
+categories:
+- food
+date: '2017-05-14'
+title: Salta Negra
 ---
+
 Gosto de café, pouco doce, after espumoso. Primeiro jantar no Dubai, restaurante árabe de Salta.

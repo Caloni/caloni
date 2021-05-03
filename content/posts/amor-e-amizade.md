@@ -1,10 +1,14 @@
 ---
-date: "2016-07-06"
-link: "https://www.imdb.com/title/tt3068194"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Amor e Amizade"
+categories:
+- draft
+- movies
+date: '2016-07-06'
+link: https://www.imdb.com/title/tt3068194
+tags:
+- cinemaqui
+title: Amor e Amizade
 ---
+
 Sempre há um filme de época, assim como sempre há um romance de Jane Austen sobrando para filmar. Por ser algo fruto de suas experiências na nobreza britânica, onde famílias donas de títulos de nobreza -- e, portanto, terras para explorar -- viviam e sobreviviam no campo, em condições muito melhores do que os camponeses recém-chegados na cidade. Para as mulheres, estar nesse meio significa conseguir um bom partido para a sustentar. Essa é a teoria. Além disso há a questão pragmática em escolher um parceiro: boa aparência, boa companhia e conversas inteligentes. E o mais divertido em "Amor & Amizade", e o que o destaca dos demais filmes do gênero, é observar como a palavra "inteligente" pode ser relativizada facilmente entre aquelas pessoas. Tudo depende da companhia que estiver ouvindo.
 
 Observe como a viúva protagonista, Lady Susan Vernon (Kate Beckinsale) pode até se gabar de ser mais esperta que as outras mulheres por compreender melhor os homens (algo que só é possível ganhar experiência convivendo com vários deles). Seus conhecimentos sobre a Bíblia são medíocres, mas basta esse nível de instrução e usar construções rebuscadas e que indiquem uma certa vivência, obviamente maior que um jovem ainda em suas fraldas, como Reginald DeCourcy (Xavier Samuel), para hipnotizá-lo e causar o terror de sua família, sempre cuidando para que as uniões nunca dissolvam sua riqueza em duas partes.

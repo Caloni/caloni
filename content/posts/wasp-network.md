@@ -1,10 +1,14 @@
 ---
-date: "2019-10-17"
-link: "https://www.imdb.com/title/tt6760876"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Wasp Network"
+categories:
+- draft
+- movies
+date: '2019-10-17'
+link: https://www.imdb.com/title/tt6760876
+tags:
+- cinemaqui
+title: Wasp Network
 ---
+
 Wasp Network faz o melhor com o que tem para contar uma história confusa sem protagonista definido, e o diretor/roteirista Olivier Assayas nos traz um filme leve quando essa opção seria a única que não poderia ser escolhida.
 
 Com várias estrelas, Penélope Cruz, Wagner Moura e Gael Garcia Bernal, cuja posição política já é conhecida por todos (porque eles simplesmente não conseguem se conter), sabemos desde o começo que a história envolvendo uma Cuba pós-queda da URSS em plena decadência econômica se trata de uma fachada pobre e sem imaginação quando um piloto de Cuba foge para Miami, é acusado de desertor pelo governo e fala coisas horríveis do regime comunista, em uma trama que irá se desdobrar de maneira impressionante e inexplicável.

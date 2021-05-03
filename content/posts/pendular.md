@@ -1,10 +1,14 @@
 ---
-date: "2017-09-18"
-link: "https://www.imdb.com/title/tt6368132"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Pendular"
+categories:
+- draft
+- movies
+date: '2017-09-18'
+link: https://www.imdb.com/title/tt6368132
+tags:
+- cinemaqui
+title: Pendular
 ---
+
 Pendular possui alguns simbolismos, algum conflito, algumas situações. E nada disso parece fornecer pistas suficientes para entender o que está acontecendo. Bonito por bonito, temos uma obra vazia e incoerente. Justamente o que seus idealizadores parecem buscar. Uma das primeiras falas do filme deixam isso claro: "fxda-se a coerência".
 
 O resultado é um espectador passivo e entediado, sem nada para participar no processo da arte. Curioso que o filme conta a história de dois artistas criando, marido e esposa, cada um em seu canto e com suas formas e métodos. No início ambos traçam uma linha no chão dividindo o imenso e insalubre galpão onde trabalham. Aos poucos o pouco espaço reservado para ela, uma dançarina, vai diminuindo. O espaço da obra dele ocupa cada vez mais espaço. Ele não sabe bem o que está criando, mas no processo a sufoca. Ele quer muito ter um filho, e quer fazer o filho nela. Ela, espírito livre, discorda profundamente e naturalmente. Afinal de contas, o seu corpo em movimento é sua arte.

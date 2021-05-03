@@ -1,8 +1,12 @@
 ---
-date: "2019-09-16"
-categories: [ "draft", "code", "draft",  ]
-title: "Vcpkg: Boost para Windows XP"
+categories:
+- draft
+- code
+- draft
+date: '2019-09-16'
+title: 'Vcpkg: Boost para Windows XP'
 ---
+
 Quem programa em C++ no Brasil geralmente precisa estar preparado para manter velharias. Boa parte do parque de máquinas das empresas usam Windows, e não estou falando de Windows 10, mas muitas vezes XP. Apesar da Microsoft ter largado uma das melhores versões do seu SO para trás, milhares de máquinas ainda rodam esse bichinho, e muitos programadores precisam manter e desenvolver em nome da compatibilidade.
 
 Porém, o desenvolvimento de libs C++ foram aos poucos largando o suporte ao XP (em C isso não existe muito, pois é mais fácil ser portável em C), pois muitos mecanismos de SOs modernos surgiram depois, como um mutex light ou mutex apenas de read. E como eles olham para o mercado global, o Brasil acaba ficando para trás.

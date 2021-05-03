@@ -1,9 +1,11 @@
 ---
-date: "2012-12-30"
-link: "https://www.imdb.com/title/tt1772341"
-categories: [ "movies" ]
-title: "Detona Ralph"
+categories:
+- movies
+date: '2012-12-30'
+link: https://www.imdb.com/title/tt1772341
+title: Detona Ralph
 ---
+
 Detona Ralph é daqueles filmes que apelam para o saudosismo dos mais velhos, e do seu choro fácil, mas não deixa de lado a história, aproveitando ao máximo o tema que tanto desperta fascínio hoje em dia para os quarentões e trintões que jogavam aqueles joguinhos de fliperama com um ou dois botões.
 
 Criando e reaproveitando um universo de três gerações de personagens de vídeogames, o filme gira em torno dos jogos de uma velha loja de fliperama, mais especificamente o jogo Conserta Felix Jr, que vem sendo usado por décadas. No seu trigésimo aniversário, no entanto, o vilão do jogo, o Detona Ralph do título, se sente muito mal por finalmente se sentir sempre excluído das glórias que os heróis dos video-games recebem, representado por uma icônica e brilhante medalha. Chorando suas mágoas em um simpatissíssimo grupo de terapia formado por vilões clássicos, Ralph mais tarde percebe que só conseguirá esse respeito tão almejado se conseguir uma medalha, não importando que não fosse do seu jogo original.

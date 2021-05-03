@@ -1,8 +1,10 @@
 ---
-date: "2007-06-15"
-categories: [ "blog" ]
-title: "O bom filho à casa retorna"
+categories:
+- blog
+date: '2007-06-15'
+title: O bom filho à casa retorna
 ---
+
 Depois de seis meses blogueando em um novo domínio, que seria totalmente focado em C++, descobri que não consigo viver escrevendo apenas sobre a linguagem em que programo. Não é que falte assunto. Simplesmente meu dia-a-dia nunca se resume apenas em regras de sintaxe e erros de compilação.
 
 Por outro lado, aprendi muitas coisas novas desde o começo desse ano. Decorei novos comandos do Windbg, novos atalhos no Google Reader. E fiz outras tantas coisas novas também. Projetei um sistema de comunicação entre processos -- versão alfa, tudo bem, mas projetei. Decifrei o formato do banco de dados do dicionário Houaiss para poder usá-lo no Babylon. E por aí vai.

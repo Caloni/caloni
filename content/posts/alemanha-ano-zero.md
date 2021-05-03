@@ -1,9 +1,12 @@
 ---
-date: "2019-05-24"
-link: "https://www.imdb.com/title/tt0039417"
-categories: [ "draft", "movies" ]
-title: "Alemanha, Ano Zero"
+categories:
+- draft
+- movies
+date: '2019-05-24'
+link: https://www.imdb.com/title/tt0039417
+title: Alemanha, Ano Zero
 ---
+
 Este é o último filme da trilogia neorrealista sobre a segunda guerra do cineasta Roberto Rossellini, o diretor que seduziu meio mundo e engravidou a atriz Ingmar Bergman, dando origem a outra atriz, Isabela Rosselini. Depois desse babado talvez você não queira mais saber do filme.
 
 Mas ele é bom. Muito bom. É em preto e branco, filmado em 1948 em meio às ruínas de uma Alemanha que acabou de perder a guerra. Há pouca comida. Há pouco trabalho. A esperança repousa em um jovem de 13 anos que vive com sua família na cozinha de outra família. Seu pai está enfermo, seu irmão, ex-soldado, se esconde do recém movimento anti-nazista, e sua irmã sai à noite na gandaia para conseguir cigarros, a moeda corrente.

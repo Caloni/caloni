@@ -1,9 +1,12 @@
 ---
-date: "2019-03-13"
-link: "https://www.imdb.com/title/tt0086879"
-categories: [ "draft", "movies" ]
-title: "Amadeus (versão do diretor)"
+categories:
+- draft
+- movies
+date: '2019-03-13'
+link: https://www.imdb.com/title/tt0086879
+title: Amadeus (versão do diretor)
 ---
+
 A grande sacada de Amadeus não é fazer uma biografia sobre Mozart estabelecendo o óbvio: ele foi um músico genial. Isso todos sabemos. O grande trunfo do filme de Milos Forman foi mostrar isso do ponto de vista de uma pessoa que desejaria mais que tudo em ser um Mozart, mas, como a maioria de nós, pobres mortais, teve que conviver com um fato amargo da vida: somos todos medíocres. Aliás, essa é a própria definição de medíocre. A média é o povão. O excepcional acontece de vez em quando.
 
 A sequência inicial do filme é uma pequena obra de arte. Ela mostra Antonio Salieri (F. Murray Abraham), ex-músico da corte de Viena, enlouquecido em um sanatório. Próximo do fim da vida, recebe um padre para se confessar. Ele afirma ter matado Amadeus Wolfgang Mozart. Na conversa com o padre ele toca algumas de suas músicas, das quais o padre não se recorda. Então ele toca a melodia mais conhecida de Mozart, e o padre imediatamente começa a cantarolar. E o rosto de Salieri na tela é todo o resumo desse filme de duas horas e pouca que você precisa saber.

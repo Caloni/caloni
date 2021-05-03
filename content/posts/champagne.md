@@ -1,9 +1,12 @@
 ---
-date: "2017-01-18"
-link: "https://www.imdb.com/title/tt0018756"
-categories: [ "draft", "movies" ]
-title: "Champagne"
+categories:
+- draft
+- movies
+date: '2017-01-18'
+link: https://www.imdb.com/title/tt0018756
+title: Champagne
 ---
+
 Champagne é uma divertida comédia dramática que esbanja críticas à alta sociedade. Em seu núcleo está a figura carismática e intensa de Betty Balfour, que faz, conforme o IMDB, "The Girl". Em torno dela orbitam as pessoas comuns, que a veem como excêntrica. Mas, tudo bem, já que seu pai é rico. Mesmo se vestindo de empregada ela diverte e se diverte.
 
 As expressões de Betty são as melhores partes do filme. Ela está sempre presente, e vê-la com toda sua energia gera hoje um sentimento melancólico a respeito de tão bons atores da geração do cinema mudo que se perderam. O estilo desse cinema é específico, e as atuações, quando migradas para o cinema falado, raramente funcionavam (O Artista é um filme que conta sobre esse trauma em Hollywood). Porém, Betty aqui brilha, e brilha mais quanto mais caricatas são suas expressões, seu jeito de arquejar os ombros, o olhar ao mesmo tempo doce e divertido. Ela está apenas tendo uma vida boa.

@@ -1,9 +1,12 @@
 ---
-date: "2018-11-17"
-link: "https://www.imdb.com/title/tt3164256"
-categories: [ "draft", "movies" ]
-title: "Rock em Cabul"
+categories:
+- draft
+- movies
+date: '2018-11-17'
+link: https://www.imdb.com/title/tt3164256
+title: Rock em Cabul
 ---
+
 É curioso o resultado dessa comédia roteirizada por Mitch Glazer, que já está acostumado em elencar a persona de Bill Murray ("Os Fantasmas Contra Atacam", "A Very Murray Christmas"), e dirigido por Barry Levinson, que já está acostumado a dirigir Murray e outros famosos, além de ter uma cinegrafia conturbada, que vai de "Rain Main" e "O Enigma da Pirâmide" para "Esfera" e "A Revolta dos Brinquedos". Levinson não está acostumado a dirigir filmes ruins como esse, mas é Glazer que o entrega um material confuso, que se perde em suas premissas antes mesmo do segundo ato, e vai atravessando a vergonha alheia até não poder mais.
 
 A história se ancora em um fato verídico: a primeira mulher a cantar em um programa de TV no Afeganistão. Todo o resto é mentira. Assim como a história do produtor musical Richie Lanz (Murray), que constantemente usa nomes famosos como Madonna para se auto-promover. Murray já foi melhor definido por Rober Ebert em sua crítica de Flores Partidas: é um ator fascinante quando não faz nada. Isso é verdade tanto no filme de Jim Jarmush quanto em Os Caça-Fantasmas e "O Feitiço do Tempo", e é exatamente por ele fazer alguma coisa é quando o filme deixa de ser interessante.

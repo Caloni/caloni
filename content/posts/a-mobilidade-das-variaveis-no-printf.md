@@ -1,8 +1,11 @@
 ---
-date: "2007-09-20"
-categories: [ "code", "ccpp" ]
-title: "A mobilidade das variáveis no printf"
+categories:
+- code
+- ccpp
+date: '2007-09-20'
+title: A mobilidade das variáveis no printf
 ---
+
 O printf (e derivados) tem sérios problemas por conta de sua falta de tipagem. Não vou aqui dizer que cout é a alternativa óbvia e melhorada porque não é. Mas isso é uma discussão que eu não deveria começar aqui. E não começarei. Portanto, ignorem essa linha =).
 
 O erro mais comum de todos é a passagem de tipo na string de formatação diferente da variável passada:

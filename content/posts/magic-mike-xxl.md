@@ -1,9 +1,11 @@
 ---
-date: "2015-08-06"
-link: "https://www.imdb.com/title/tt2268016"
-categories: [ "movies" ]
-title: "Magic Mike XXL"
+categories:
+- movies
+date: '2015-08-06'
+link: https://www.imdb.com/title/tt2268016
+title: Magic Mike XXL
 ---
+
 Continuação que pretende sempre fazer uma cena de reencontro com todo mundo do filme original que reaparece. Abraços, beijos e nada a acrescentar (nem um "ei, você engordou!").
 
 Mike (Channing Tatum) está construindo seu sonho de móveis sob encomenda, já tem um funcionário, mas recebe a visita na cidade da velha gangue sem Dallas, o Mestre de Cerimônias original interpretado pela alma do filme anterior, Matthew McConaughey (Mike era o corpo). Como está separando da mulher, resolve ir em uma convenção de strippers com a galera e fazer o último show. Acabou a história.

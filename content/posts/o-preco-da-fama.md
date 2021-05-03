@@ -1,10 +1,13 @@
 ---
-date: "2015-09-24"
-link: "https://www.imdb.com/title/tt3194410"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Preço da Fama"
+categories:
+- movies
+date: '2015-09-24'
+link: https://www.imdb.com/title/tt3194410
+tags:
+- cinemaqui
+title: O Preço da Fama
 ---
+
 No começo de O Preço da Fama somos avisados de que a história se baseia em fatos verídicos. O fato em si foi o roubo do caixão de Charles Chaplin, na Suíça (sua morada por 25 anos), por dois imigrantes desempregados, e a posterior tentativa de resgate. No entanto, os detalhes em torno desse único fato são aumentados em doses desproporcionais pela imaginação do curioso diretor Xavier Beauvois.
 
 Essa reimaginação dos fatos altera até as nacionalidades dos imigrantes (originalmente polonês e búlgaro). Eddy, recém liberto da prisão, é um animado belga que gosta de ter ideias mirabolantes para conseguir dinheiro sem trabalhar. Já o argeliano Osman (Roschdy Zem) possui uma filha e uma esposa e trabalha em bicos pela cidade para sustentar sua família, principalmente agora que sua mulher se encontra internada com problemas de saúde.

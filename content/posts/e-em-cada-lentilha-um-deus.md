@@ -1,10 +1,14 @@
 ---
-date: "2019-10-21"
-link: "https://www.imdb.com/title/tt9100090"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "E Em Cada Lentilha Um Deus"
+categories:
+- draft
+- movies
+date: '2019-10-21'
+link: https://www.imdb.com/title/tt9100090
+tags:
+- cinemaqui
+title: E Em Cada Lentilha Um Deus
 ---
+
 Em cada lentilha um Deus mostra como é difícil manter uma narrativa em documentários sem roteiro. Esse é um deles. Acompanhamos as memórias e reflexões sobre Luis, um roteirista que ajuda o irmão e o primo a escrever um livro sobre a culinária do restaurante da família. Nessa viagem culinária nosso único guia são os pratos do "L'Escaleta".
 
 Este acaba virando um passeio gastronômico próximo da experiência de um episódio da série Chef's Table, que explora as origens dos ingredientes e da história do cozinheiro por trás de um restaurante premiado. Só que diferente de uma série de streaming este filme tem a personalidade de seu idealizador, Luis Moya, que junto de Miguel Ángel Jiménez definem uma certa lógica por trás das cenas filmadas.

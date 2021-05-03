@@ -1,8 +1,11 @@
 ---
-date: "2009-06-18"
-title: "Bugs Difíceis de Achar"
-categories: [ "draft", "code" ]
+categories:
+- draft
+- code
+date: '2009-06-18'
+title: Bugs Difíceis de Achar
 ---
+
 Saiu um artigo na Wired News sobre [os piores bugs da história](http://wired.com/news/technology/bugs/0,2924,69355,00.html?tw=wn_tophead_1). Entre eles estão a explosão de um oleoduto soviético em plena guerra-fria (como se não bastasse chernobyl), o primeiro worm da Internet (que se aproveita de um buffer overflow da função gets) e o famoso erro de divisão em ponto flutuante do Pentium; um erro de cálculo de cerca de 0,006% que causou um prejuízo de 457 milhões de dólares para a Intel.
 
 Mas o que achei mais legal, apesar de não estar na lista, estava relacionado com o [Mariner 1](http://en.wikipedia.org/wiki/Mariner_1), primeira espaçonave de um programa da NASA para pesquisar Marte, Vênus e Mercúrio em võos automatizados. Mariner 1 não chegou a sair de órbita, pois houve uma falha na antena de comunicação entre módulos e um bug no programa do computador de bordo.

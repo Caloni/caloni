@@ -1,9 +1,12 @@
 ---
-date: "2018-02-27"
-link: "https://www.imdb.com/title/tt4158110"
-categories: [ "draft", "series" ]
-title: "Mr Robot: Terceira Temporada"
+categories:
+- draft
+- series
+date: '2018-02-27'
+link: https://www.imdb.com/title/tt4158110
+title: 'Mr Robot: Terceira Temporada'
 ---
+
 Seria um spoiler dizer que esta temporada de Mr. Robot terá ou não, como as duas temporadas anteriores, uma reviravolta no final? Bom, é como esse novo personagem diz: uma história pode começar morna, ter um meio medíocre, mas o final... precisa ser surpreendente. Então faça as contas.
 
 Mas Mr. Robot está se tornado o trabalho hermético e confuso que gostaríamos que ele fosse, então mesmo que houvesse uma reviravolta, ela seria sutil demais para ser percebida. Nós, nerds, não queremos apenas um thriller para nos divertir, mas um universo que faça uma referência ao nosso, com crise financeira, jogos políticos, terrorismo, hackerismo de primeira e problemas psicológicos. Este é o mundo que nos acostumamos a viver. Se não houver hacks em computadores e na mente humana não vale a pena ser assistido.

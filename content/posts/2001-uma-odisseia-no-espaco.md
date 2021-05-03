@@ -1,9 +1,11 @@
 ---
-date: "2013-10-23"
-link: "https://www.imdb.com/title/tt0062622"
-categories: [ "movies" ]
-title: "2001: Uma Odisseia no Espaço"
+categories:
+- movies
+date: '2013-10-23'
+link: https://www.imdb.com/title/tt0062622
+title: '2001: Uma Odisseia no Espaço'
 ---
+
 A obra maior de Stanley Kubrick - ou pelo menos a mais ambiciosa e enigmática - permanece em seu auge mesmo mais de 45 anos depois da estreia. Diferente de filmes que podem ser compreendidos no conforto de sua casa, este é dos que deve ser degustado no espaço sagrado do Cinema. Aliás, ele funciona tão bem nessas condições que assinaria uma petição para que fosse exibido eternamente em uma sala tombada pelo patrimônio da humanidade.
 
 O tema diz respeito à origem e futuro do Homem como ser consciente, e embora complexo em suas mensagens, sua história é simples e direta, usando todo o tipo de símbolos recorrentes para martelar (no bom sentido) a essência do que se vê e ouve, desde a música-tema que é tocada em momentos-chave como a presença do misterioso monolito.

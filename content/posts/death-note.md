@@ -1,9 +1,13 @@
 ---
-date: "2017-09-18"
-link: "https://www.imdb.com/title/tt0877057"
-categories: [ "draft", "series", "animes" ]
-title: "Death Note: Notas da Morte"
+categories:
+- draft
+- series
+- animes
+date: '2017-09-18'
+link: https://www.imdb.com/title/tt0877057
+title: 'Death Note: Notas da Morte'
 ---
+
 Esta série japonesa se estende por mais tempo do que devia e não entende todo o seu potencial narrativo. Esta é uma história que possui altos e baixos em torno de uma ideia poderosa, e arrisco dizer que seus altos superam seus baixos. Mas sua conclusão é clichê, comercial demais para sentir-se o peso do que estava sendo discutido.
 
 Como praticamente todas as séries de animes japoneses que se baseiam em mangás, as falas revelam demais e os quadros são parados demais. Como contraponto, a arte é muito bem finalizada (os detalhes de cada demônio) e a edição de som facilita a sensação de movimento.

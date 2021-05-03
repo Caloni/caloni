@@ -1,10 +1,14 @@
 ---
-date: "2017-02-16"
-link: "https://www.imdb.com/title/tt1254322"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Jovem Rainha"
+categories:
+- draft
+- movies
+date: '2017-02-16'
+link: https://www.imdb.com/title/tt1254322
+tags:
+- cinemaqui
+title: A Jovem Rainha
 ---
+
 A Jovem Rainha tem vários assuntos para tratar durante o conturbado reinado da rainha Cristina no império sueco do século 17, mas não parece conseguir se adequar ao tom mais apropriado. Se em alguns momentos gera o humor incidental da típica loucura dos monarcas, em outros tenta puxar a grandiosidade dos acontecimentos históricos, e no meio do caminho flerta perigosamente com um episódio de seriado de TV.
 
 Enquanto a efervescência de conhecimento na Europa gerava mais e mais conteúdo científico e filosófico, seu braço fora do domínio da Igreja Católica -- incluindo a Suécia -- se mantinha preso ao conceito de determinismo de Lutero, fundador do protestantismo. É nesse clima que seu rei falecido é mantido por dois anos embalsamado pela insana rainha, enquanto uma jovem princesa de seis anos finalmente ocupa o papel de futura monarca (quando atingir a maioridade). Seu tutor a tenta manter na doutrina protestante, mas a enxurrada de conhecimento a leva em direção a René Descartes, filósofo da época que estava desconstruindo nossa forma de enxergar a realidade. 

@@ -1,10 +1,14 @@
 ---
-date: "2019-11-06"
-link: "https://www.imdb.com/title/tt9207188"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Os Parças 2"
+categories:
+- draft
+- movies
+date: '2019-11-06'
+link: https://www.imdb.com/title/tt9207188
+tags:
+- cinemaqui
+title: Os Parças 2
 ---
+
 Logo antes da sessão de Os Parças 2 reli o texto do CinemAqui sobre o primeiro filme, para entrar no clima. Isso abaixou mais ainda minhas expectativas sobre o que viria. Mas não o suficiente. Agora o próximo passo é fazer terapia vendo algum filme ruim que pelo menos consiga divertir por tão ruim que ele é. Sharknado, por exemplo.
 
 Em Sharknado a produtora Syfy junta o elenco que conseguiu arrumar para filmar um grupo de pessoas salvando uma cidade ameaçada por tubarões lançados por furacões vindos do oceano. A história é ruim e todos conseguem saber. Na produção sabiam disso antes mesmo das filmagens começarem, e esse detalhe é o único em comum com o filme sendo analisado. O objetivo de Sharknado é atrair fãs de trash que gostam da experiência de análise de cinema em tempo real de como fazer um filme ruim. O experimento deu certo e uma franquia de sucesso nasceu. No momento em que eu escrevo existem seis Sharknados catalogados no IMDB, sendo que o sexto já teve a decência de anunciar o fim da série.

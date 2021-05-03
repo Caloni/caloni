@@ -1,8 +1,10 @@
 ---
-date: "2018-12-15"
-categories: [ "draft" ]
-title: "Como o Sistema de Estrelas como Nota Funciona"
+categories:
+- draft
+date: '2018-12-15'
+title: Como o Sistema de Estrelas como Nota Funciona
 ---
+
 Não é a primeira vez que me questionam que apesar de ter escrito no meu blogue muito mal sobre um filme eu tenha dado três estrelas como nota, como se três estrelas fosse admissível apenas para trabalhos minimamente positivos. Bom, é uma questão complicada. Imagine você compactar todo o texto analisando uma obra em apenas um número entre 1 e 5.
 
 A história das estrelas, ou ranking de filmes, começa em 1928 quando a crítica Irene Thirer decide colocar uma escala de zero a três estrelas na sua coluna sobre filmes do New York Daily News. O primeiro filme que se tem registro de ter sido rankeado dessa forma foi A Entrevista das Cinco (1928).

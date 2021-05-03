@@ -1,10 +1,14 @@
 ---
-date: "2019-11-08"
-link: "https://www.imdb.com/title/tt8183418"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Azougue Nazaré"
+categories:
+- draft
+- movies
+date: '2019-11-08'
+link: https://www.imdb.com/title/tt8183418
+tags:
+- cinemaqui
+title: Azougue Nazaré
 ---
+
 As tradições e os conflitos religiosos da Zona da Mata em Pernambuco são o pano de fundo de Azougue Nazaré, um filme que evoca seu tom de fantasia sobrenatural logo antes que poderíamos apostar de este ser um documentário. Primeira direção de Tiago Melo, este filme pode ser proposto tanto quanto um documentário da cultura da Zona da Mata quanto uma ficção solta sobre os conflitos atuais da região.
 
 Melo, que já foi diretor assistente de Divino Amor, uma distopia social que envolve fanatismo religioso, vai buscar no realismo dos seus personagens a evocação do espírito de Nazaré da Mata, cidade de médio porte onde a maior parte da ação ocorre. Próximo do litoral nordestino, é lá que se juntam os poetas de repente, com seus cantos improvisados, e o Maracatu, um sincretismo religioso afro-brasileiro que envolve dança, música e religião. É lá também que observamos a invasão e opressão religiosa tomando conta na figura de um pastor evangélico que era um antigo mestre do Maracatu, além da revolta dos cristãos com as ações espirituais do pai-de-santo da região das plantações de cana.

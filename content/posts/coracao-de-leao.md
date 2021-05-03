@@ -1,9 +1,12 @@
 ---
-date: "2017-07-31"
-link: "https://www.imdb.com/title/tt2948472"
-categories: [ "draft", "movies" ]
-title: "Coração de Leão"
+categories:
+- draft
+- movies
+date: '2017-07-31'
+link: https://www.imdb.com/title/tt2948472
+title: Coração de Leão
 ---
+
 Este filme beira o amador em sua fotografia e roteiro. As atuações, coitadas, não podem fazer nada com esses personagens que se olham o tempo todo e nada dizem de importante. Como seria retratar o começo de um relacionamento qualquer, que poderia ser de qualquer um de nós e que não teria qualquer detalhe diferente? Este filme é assim, com apenas uma exceção: um dos lados é mais baixo que o normal.
 
 Mas isso é rapidamente compensado. O lado baixo é rico, charmoso, insistente. E mais uma vez caímos em uma situação que poderia acontecer com qualquer um de nós. Talvez tudo isso seja para demonstrar como podemos ser hipócritas a respeito de dinheiro.

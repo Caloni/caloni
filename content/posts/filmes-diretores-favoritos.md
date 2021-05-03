@@ -1,8 +1,10 @@
 ---
-date: "2017-08-23"
-categories: [ "draft",  ]
-title: "Filmes e Diretores Favoritos"
+categories:
+- draft
+date: '2017-08-23'
+title: Filmes e Diretores Favoritos
 ---
+
 Essas perguntas no estilo de listas me fazem travar. Minha resposta sempre será injusta porque eu vou esquecer filmes e diretores que gosto mais do que os que eu citar. 
 
 Mas, sei lá, no momento não estou focando em filmes ou diretores específicos, mas em técnicas e estilos específicos. Por exemplo, revendo séries que gostei muito, como Breaking Bad, Westworld e Mr. Robot. 

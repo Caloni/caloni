@@ -1,9 +1,11 @@
 ---
-date: "2015-10-24"
-link: "https://www.imdb.com/title/tt3118452"
-categories: [ "movies" ]
-title: "Circle"
+categories:
+- movies
+date: '2015-10-24'
+link: https://www.imdb.com/title/tt3118452
+title: Circle
 ---
+
 Circle é um trabalho minimalista que resume o sistema de votos através de uma alegoria simplista, mas eficiente: alienígenas adbuzem 50 pessoas e as colocam dispostas em um círculo. Elas não podem sair de seus lugares nem tocar as pessoas ao lado, pela pena de serem mortas por um raio que sai do meio do círculo. Ah, mais um detalhe: de tempos em tempos uma pessoa é morta, escolhida através de todos.
 
 As pessoas possuem etnias e origem diversificadas demais, e quase ninguém se conhece. Todas falam inglês por serem abduzidas no mesmo local, mas não deixa de ser extremamente conveniente sua disposição no círculo e, pior ainda, a aparente calma com que discutem como sair dessa situação com vida.

@@ -1,8 +1,10 @@
 ---
-date: "2008-03-10"
-title: "Sed, Grep e afins"
-categories: [ "code" ]
+categories:
+- code
+date: '2008-03-10'
+title: Sed, Grep e afins
 ---
+
 Esse artigo é resultado de eu ter me matado para conseguir encontrar a forma correta de usar o aplicativo sed para fazer uma filtragem simples nos resultados de uma listagem de arquivos.
 
 Primeiramente, eu gostaria de expressar minha total surpresa ao não conseguir encontrar um guia simples e confiável de uso dessas ferramentas na web. Existem três teorias: ou eu não sei usar as palavras mágicas certas no Google, ou a indexação das páginas realmente importantes sobre o assunto não funcionam com o Google, ou de fato não existe documentação fácil sobre o tema.
@@ -82,4 +84,3 @@ Para fazer o escape das barras do caminho de um arquivo temos que usar o conjunt
     s/path\/muito\/muito\/muito\/longo.cpp/outropath\/muito\/muito\/longo.cpp/s#/path/muito/muito/muito/longo.cpp#/outropath/muito/muito/longo.cpp#
 
 Para agrupar expressõe, use sempre `\(` e `\)`. É o contrário do uso dos caracteres especiais. Coisas de Unix.
-

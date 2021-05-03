@@ -1,9 +1,11 @@
 ---
-date: "2015-09-11"
-link: "https://www.imdb.com/title/tt1655441"
-categories: [ "movies" ]
-title: "A Incrível História de Adaline"
+categories:
+- movies
+date: '2015-09-11'
+link: https://www.imdb.com/title/tt1655441
+title: A Incrível História de Adaline
 ---
+
 A premissa por trás de "Adaline" é muito interessante, como toda ficção científica bem imaginada costuma ser. O filme, aliás, possui diversos pontos altos em sua história. Porém, o novelão romântico ao qual ele se entrega não deixa de incomodar durante todo o tempo, fazendo com que uma experiência fascinante vá aos poucos nos lembrando das velhas fórmulas de fazer romance com um drama genérico.
 
 A história gira em torno da Adaline do título, que sofre um acidente de carro que faz com que ela não envelheça mais. Nascida nos anos 1900, a história de Adaline combina com todo o século XX, e vemos através de flashbacks diferentes momentos deste em que Adaline estava presente, o suficiente para dar a dimensão do que é viver um século e não envelhecer um dia.

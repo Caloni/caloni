@@ -1,9 +1,11 @@
 ---
-date: "2020-10-11"
-link: "https://www.imdb.com/title/tt10418630"
-categories: [ "movies" ]
-title: "Mães de Verdade"
+categories:
+- movies
+date: '2020-10-11'
+link: https://www.imdb.com/title/tt10418630
+title: Mães de Verdade
 ---
+
 O filme da diretora japonesa Naomi Kawase abre a Mostra Internacional de São Paulo e revela as dores de nosso tempo, pois possui a sensibilidade de um drama, mas a câmera, apesar de caminhar criando momentos memoráveis, não sabe exatamente o porquê são memoráveis, e com isso se torna apenas um exercício de estilo sem conexão com a realidade. É um épico do drama do cotidiano sem dizer ou saber qual é o motivo de choro.
 
 A trilha sonora leve, quase inexistente, empalidece comparada com os sons do ambiente; sobretudo da natureza. Vento, folhas e pássaros narram os sentimentos que estão no ar e que são incapazes de se materializar naquelas pessoas invisíveis ao mundo. É curiosa a abordagem "filhos da natureza", pois ela torna a doação, o tema central do filme, em algo anti-natural, quando é justamente um dos aspectos mais lindos da história.

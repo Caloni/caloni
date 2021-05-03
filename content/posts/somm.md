@@ -1,9 +1,12 @@
 ---
-date: "2016-12-04"
-link: "https://www.imdb.com/title/tt2204371"
-categories: [ "draft", "movies" ]
-title: "Somm"
+categories:
+- draft
+- movies
+date: '2016-12-04'
+link: https://www.imdb.com/title/tt2204371
+title: Somm
 ---
+
 Somm é um documentário no sentido mais didático da palavra, mas que consegue através de sua narrativa quase sempre fluida entregar um pouco de tensão nos preparativos de um trio de degustadores de vinhos que se preparam há anos para tirar o certificado mais cobiçado e exclusivo do planeta. E, de quebra, você irá aprender uma coisa ou outra interessante sobre o mundo do vinho.
 
 É necessário tomar cuidado com documentários que mexem com commodities assim como documentários que falam de ecologia e mundo sustentável. Ambos podem estar infectados com ideologias ou marketing puro. Felizmente, no caso de Somm o formato é mais biográfico, e acompanhamos a rotina exaustiva de três rapazes que ambicionam o título máximo entre os sommeliers, as pessoas que conhecem muito sobre vinhos e costumam trabalhar como especialistas em restaurantes chiques para auxiliar seus clientes.

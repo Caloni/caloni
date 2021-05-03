@@ -1,10 +1,14 @@
 ---
-date: "2017-05-18"
-link: "https://www.imdb.com/title/tt1610525"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Punhos de Sangue"
+categories:
+- draft
+- movies
+date: '2017-05-18'
+link: https://www.imdb.com/title/tt1610525
+tags:
+- cinemaqui
+title: Punhos de Sangue
 ---
+
 Logo no início deste filme vemos uma frase de Rocky Balboa sobre ninguém se preocupar com você. Balboa, personagem fictício criado por Sylvester Stallone baseado na história de vida do meio-pesado Chuck Wepner, dizia também que o que mais importa no ringue, assim como na vida, não é o quão forte você consegue bater, mas quantos golpes você consegue aguentar. A história de Punhos de Sangue, que praticamente documenta a vida de Wepner, acaba misturando ambas as visões sobre a vida, e no momento que achamos que o "Rocky Balboa real" não irá mais aguentar tantos golpes em sua vida é quando nos lembramos sobre a fala de Balboa sobre ninguém se preocupar. Este é um drama sobre quando a própria pessoa parece não se preocupar com o caminho que sua vida está levando.
 
 É claro que sendo um filme sobre boxe já deixa implícito que este não será um filme sobre boxe, mas sobre uma vida em seu auge e declínio, como tantos outros exemplos que temos no Cinema. Nesse caso estamos falando do cara que inspirou um dos personagens mais célebres do gênero, e não por acaso, o filme de Philippe Falardeau escrito por quatro pessoas segue à risca o modelo consagrado em trabalhos como o próprio Rocky (o primeiro), e em vários momentos sentimos o tom de homenagem. A própria vida de Chuck Wepner recebeu duas inspirações do Cinema, uma antes e outra depois da fama. Antes da fama ele se vê como no filme Réquiem Para um Lutador, onde Anthony Quinn interpreta com muita propriedade a vida decadente de um lutador aposentado procurando um emprego. Depois da fama ele se vê como sua própria versão cinematográfica em Rocky, Um Lutador. No entanto, a versão que Wepner adota de Rocky está mais próximo do mega-empresário do boxe Don King (citado no filme) do que das origens humildes do personagem interpretado por Sylvester Stallone.

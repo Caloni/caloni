@@ -1,10 +1,13 @@
 ---
-date: "2015-03-19"
-link: "https://www.imdb.com/title/tt2172584"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Mapas para as Estrelas"
+categories:
+- movies
+date: '2015-03-19'
+link: https://www.imdb.com/title/tt2172584
+tags:
+- cinemaqui
+title: Mapas para as Estrelas
 ---
+
 O novo filme de David Cronenberg (Cosmópolis) quer falar sobre incesto, mas não de uma maneira direta, e não exatamente sobre incesto. Ele quer discutir através das celebridades de Los Angeles o que há de podre por trás de todo ser humano. Diferente do filme de Sofia Copolla, Bling Ring, ser um ator ou atriz famosa não tem relação com o comportamento dessas pessoas, pois elas já são problemáticas. A dinâmica tem mais a ver em como o fato delas serem famosas gera uma tendência curiosa da sociedade em fazer vista grossa para seus atos mais maldosos. Maldosos, porém, inerentemente humanos.
 
 Uma das primeiras cenas envolve Benjie (Evan Bird), um ator-mirim que vai a um hospital visitar uma garota que é paciente terminal. Ele pede ao seu assistente que traga um iPad para a garota e diz que vai fazer um filme sobre sua vida. Sabemos que é mentira, mas uma criança saberá disso? O que está em jogo aqui é apenas o ego de Benjie, que só quer que a garota pense que ele é bom, falando qualquer coisa que a agrade com sua criatividade preguiçosa. É a regra do "enquanto você me der o que me deixa bem comigo mesmo, continuo fazendo o que tiver que fazer, seja lá o que for". Desde, é claro, que isso não envolva muito esforço. Esse parece ser o lema não apenas das crianças, mas como da maioria dos adultos nesse universo doentio.

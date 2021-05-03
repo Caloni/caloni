@@ -1,9 +1,12 @@
 ---
-date: "2019-05-17"
-link: "https://www.imdb.com/title/tt0059592"
-categories: [ "draft", "movies" ]
-title: "O Demônio das Onze Horas"
+categories:
+- draft
+- movies
+date: '2019-05-17'
+link: https://www.imdb.com/title/tt0059592
+title: O Demônio das Onze Horas
 ---
+
 Godard coloca em prática seu objetivo de destruir a linguagem cinematográfica porque é coisa de burguês, mas seu jeito mimado e francês de criticar o establishment vira um tiro pela culatra em filme chato que apenas enfatiza que crianças como ele devem ser mantidas longe da câmera.
 
 A história é um homem que se casou com uma italiana rica (mas não liga pra ela) e decide fugir com a amante em uma versão pastelão dos filmes de ação dos anos 60. Eles brincam, correm, dizem coisas de esquerdinha como "não ligo pra dinheiro" e chegam à conclusão que esta é uma vida de merda não importa o que você faça.

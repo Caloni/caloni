@@ -1,9 +1,11 @@
 ---
-date: "2015-06-26"
-link: "https://www.imdb.com/title/tt0138704"
-categories: [ "movies" ]
-title: "Pi"
+categories:
+- movies
+date: '2015-06-26'
+link: https://www.imdb.com/title/tt0138704
+title: Pi
 ---
+
 Pi é uma viagem quase psicodélica ao âmago da questão: a linguagem do Universo é a Matemática. Extrapolando isso, mas ao mesmo tempo mantendo o suspense de que isso poderia ser real, enxergamos a insanidade através das lentes P&B saturadas de uma luta interminável entre fé, conhecimento e a pura ganância.
 
 Primeiro trabalho em longa-metragem do diretor Darren Aronofsky (O Lutador, Cisne Negro, Noé), a história gira em torno de Max Cohen (Sean Gullette), um matemático obcecado com sua teoria de que todo o Universo poderia ser descrito através de um padrão, e da mesma forma como grandes pensadores encontraram padrões existentes na natureza em abundância, como a espiral derivada da proporção áurea, a medida de um retângulo recursivamente gerado ao se tornar um quadrado, ele acredita que encontrará um padrão que irá descrever as oscilações caóticas da bolsa de valores, um universo próprio de mini-decisões humanas.

@@ -1,9 +1,12 @@
 ---
-date: "2016-10-28"
-link: "https://www.imdb.com/title/tt4428774"
-categories: [ "draft", "movies" ]
-title: "Marie e os Náufragos"
+categories:
+- draft
+- movies
+date: '2016-10-28'
+link: https://www.imdb.com/title/tt4428774
+title: Marie e os Náufragos
 ---
+
 Um filme que atravessa o indie usando uma metalinguagem Kaufmaniana, descobrindo seus personagens no percurso, realizando uma trama eficiente que, por mais absurda que seja, mantém sempre o interesse do espectador.
 
 Tudo começa com Siméon, um rapaz desajustado que entra em um bar em Paris e é abordado casualmente por um viajante carente. Ambos cantam no karaokê e se despedem, deixando Siméon com uma triste notícia sobre o recém-amigo. A intensidade da cena muda de acordo com a versão que é tida como verdade, e é sobre isso o filme.

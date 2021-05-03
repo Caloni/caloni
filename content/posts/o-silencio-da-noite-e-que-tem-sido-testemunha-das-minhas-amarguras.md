@@ -1,8 +1,11 @@
 ---
-date: "2016-10-25"
-categories: [ "draft", "movies" ]
-title: "O Silêncio da Noite É Que Tem Sido Testemunha das Minhas Amarguras"
+categories:
+- draft
+- movies
+date: '2016-10-25'
+title: O Silêncio da Noite É Que Tem Sido Testemunha das Minhas Amarguras
 ---
+
 Esta é uma antologia necessária do sertão nordestino. Há muito que repentistas ficam às margens dos "verdadeiros poetas". Pois bem. Este documentário deve corrigir parte do desconhecimento geral de que a poesia de repente possui apenas rima e métrica. Esses são detalhes que reforçam a mensagem, mas é o espírito que importa. E neste filme há de monte. Começando pelo título, ele próprio um desafio ao repente.
 
 Narrado pelos próprios repentistas, que contam em sua maioria das lendas que passaram pela região onde fica a cidade de Santo Antônio do Egito, a história e os causos de cada um vai aos poucos colorindo a paisagem onde vemos apenas pobreza nordestina. Começando em uma feira, palco de muitos repentistas, e passando casa a casa de nomes dessa arte, aos poucos o diretor D vai "povoando" a roda com mais e mais pessoas. É um almoço de domingo, um encontro casual ou até um evento maior. Lá estão eles, prontos para tirar de cabeça versos não apenas corretos, mas tirados do coração, com uma alma coletiva que vai sendo descoberta aos poucos, com cada pequena passagem.

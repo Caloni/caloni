@@ -1,9 +1,11 @@
 ---
-date: "2012-10-21"
-link: "https://www.imdb.com/title/tt1325004"
-categories: [ "movies" ]
-title: "Eclipse"
+categories:
+- movies
+date: '2012-10-21'
+link: https://www.imdb.com/title/tt1325004
+title: Eclipse
 ---
+
 Eclipse encontra no eterno drama -- protagonizado pelo trio Jacob (Lautner), Edward (Pattinson) e Bella (Stewart) -- o combustível para prosseguir com a saga das famílias de vampiros e lobisomems mutantes que povoam o limitado universo da escritora Stephenie Meyer.
 
 O que distingue esse terceiro capítulo dos [dois] [anteriores], além de efeitos digitais aprimorados e uma fotografia que elegantemente dá nome ao filme, são os velhos diálogos envolvendo a transformação (necessária) de Bella em uma vampira brilhante e o amor sufocante que um sente pelo outro inseridos em um clima de guerra, que pode explodir a qualquer momento, e que mais uma vez possui Bella em seu centro.

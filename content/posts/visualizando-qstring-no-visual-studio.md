@@ -1,9 +1,11 @@
 ---
-date: "2017-02-20"
-title: "Visualizando QString no Visual Studio"
-categories: [ "draft", "blog" ]
-
+categories:
+- draft
+- blog
+date: '2017-02-20'
+title: Visualizando QString no Visual Studio
 ---
+
 O Qt não é um framework que pode apenas ser usado no QtCreator. Através de um projeto bem configurado pelo CMake, por exemplo, é possível ter um projeto que pode ser compilado e depurado tanto nas ferramentas do Qt quanto no Visual Studio. No entanto, na hora de depurar algumas coisas são difíceis de fazer. Por exemplo: como olhar o conteúdo de uma QString?
 
 O Visual Studio utiliza um mecanismo que lembra os comandos bizarros que se usa no WinDbg, mexendo com registradores e tal. Através dessa combinação é possível dizer para o depurador como interpretar determinados tipos de objetos. Ele já vem obviamente pronto para std::string, CString (ATL) e deveria vir com QString, de tão famosa que é. Mas a versão do Visual Studio 2015 não vem. O jeito então é editar diretamente o arquivo onde ficam esses padrões.
@@ -55,4 +57,3 @@ Felizmente (e também obviamente) o pessoal do Qt já fez [uma entrada na wiki](
 Mas não foi o caso dessa vez. Tudo funcionou perfeitamente assim que incluí os valores da Wiki logo no começo da sessão __Visualizer__.
 
 ![](http://i.imgur.com/3dnGwGK.gif)
-

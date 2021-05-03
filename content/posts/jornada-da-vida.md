@@ -1,10 +1,14 @@
 ---
-date: "2019-07-02"
-link: "https://www.imdb.com/title/tt8058904"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Jornada da Vida"
+categories:
+- draft
+- movies
+date: '2019-07-02'
+link: https://www.imdb.com/title/tt8058904
+tags:
+- cinemaqui
+title: Jornada da Vida
 ---
+
 Omar Sy já é considerado um deus na França e um ator de sucesso no mundo todo. Em Jornada da Vida ele interpreta ele mesmo em uma versão chapada, contemplativa, que quer ser aquele protagonista em busca de suas origens, mas sem o peso das decisões dos seus antepassados.
 
 Já o garoto Yao, interpretado com energia por Lionel Louis Basse e que leva o título original do filme, é sua versão da nova geração. Um leitor voraz de Júlio Verne e que sonha com os desafios do seu tempo, como colonizar Marte. Ele é o verdadeiro dono da jornada do filme e que apresenta ao personagem de Omar Sy, um escritor de sucesso que vive na França, o que significa a África longe dos livros e dos olhos do europeu.

@@ -1,9 +1,11 @@
 ---
-date: "2013-09-26"
-link: "https://www.imdb.com/title/tt1457767"
-categories: [ "movies" ]
-title: "Invocação do Mal"
+categories:
+- movies
+date: '2013-09-26'
+link: https://www.imdb.com/title/tt1457767
+title: Invocação do Mal
 ---
+
 Diferente do que poderíamos imaginar, a direção precisa, acelerada e gore de James Wan em Jogos Mortais não apresenta comparações neste Invocação do Mal, que se insere no gênero de horror realizando pequenas homenagens de obras icônicas enquanto ensaia um estilo visual mais agradável ao público de hoje.
 
 No entanto, felizmente, o clima de filme de terror de décadas passadas permanece, auxiliada pela história que se passa nos anos 70 e acompanha um casal de especialistas em eventos sobrenaturais (Patrick Wilson e Vera Farmiga) e uma família com diversos filhos que se muda para uma memorável casa no campo onde acontecimentos tenebrosos vão aos poucos tomando conta do seu dia-a-dia. A falta da tecnologia e do cinismo dos dias atuais, aliada a uma religiosidade ainda alta na sociedade, culmina na criação de uma atmosfera já conhecida no Cinema e que fez tanto sucesso em obras clássicas ([O Exorcista], [Os Pássaros]). Pela nossa memória afetiva arriscaria dizer que o resultado de Invocação do Mal acaba se tornando ainda mais assustador.

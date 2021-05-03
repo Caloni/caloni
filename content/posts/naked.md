@@ -1,9 +1,12 @@
 ---
-date: "2017-08-14"
-link: "https://www.imdb.com/title/tt6048930"
-categories: [ "draft", "movies" ]
-title: "Naked"
+categories:
+- draft
+- movies
+date: '2017-08-14'
+link: https://www.imdb.com/title/tt6048930
+title: Naked
 ---
+
 É possível imaginar que este seria um dos primeiros filmes da Netflix cujo roteiro está mais próximo de ter sido feito por Machine Learning do que por roteiristas humanos. Ele é esquemático, usa fórmulas antigas, consagradas ou comentadas por décadas. Apela para movimentos de câmera fáceis, sem construção de cena. A ação está toda pronta já em trabalhos como GTA. E GTA é "apenas" um video-game.
 
 A história chega a ser um plágio de Feitiço do Tempo, pois possui os mesmos elementos. O protagonista precisa melhorar como ser humano para conquistar seu dia. Do contrário ele continuará voltando para o mesmo momento inicial do dia do seu casamento: o elevador de um outro hotel. Completamente pelado. Ah, sim, e essa é a piada: ha ha ha.

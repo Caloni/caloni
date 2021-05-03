@@ -1,10 +1,14 @@
 ---
-date: "2016-03-15"
-link: "https://www.imdb.com/title/tt0337926"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Chatô - O Rei do Brasil"
+categories:
+- draft
+- movies
+date: '2016-03-15'
+link: https://www.imdb.com/title/tt0337926
+tags:
+- cinemaqui
+title: Chatô - O Rei do Brasil
 ---
+
 O filme "Chatô - O Rei do Brasil", entre paralisações e processos na justiça, levou 20 anos para ser concluído. Uma vez lançado, pode ser facilmente resumido em uma palavra: bagunça. O ator televisivo Guilherme Fontes faz aqui sua estreia na direção e realiza um primeiro trabalho que já pode ser comparado a de Arnaldo Jabor em seu último: A Suprema Felicidade. Em ambos os filmes, há um misto entre cenas desconexas tentando extrair significado do nada, como se apenas a justaposição de diferentes tempos na vida do magnata Assis Chateaubriand e sua relação com figuras históricas -- entre elas Getúlio Vargas -- fosse rivalizar com a construção de personagem vista em "Cidadão Kane"; não funciona. No máximo, consegue soar no máximo com o mais semelhante "Plano 9 do Espaço Sideral".
 
 O roteiro escrito a seis mãos foi baseado no romance de Fernando Morais e fornece diálogos pseudo-grandiosos que carecem de sutileza, dignos da figuraça de Chateaubriand, um paraibano que se orgulhava de suas origens. Deve ser por isso que a palavra Brasil é dita tantas vezes, e a análise rasteira e pedestre do povo brasileiro, um adjunto. O patriotismo -- inexistente na época, pois fora fabricado pelos militares várias décadas depois -- é venerado como parte do sangue da elite, mesmo que eles estivessem coroando um coronel sulista ao posto máximo de uma retumbante república de bananas. Isso se torna particularmente ridículo quando a personagem de Andrea Beltrão declara preferir ir a Paris do que à Paraíba para minutos depois a vermos dizer com um respeito solene a respeito do futuro presidente do país.

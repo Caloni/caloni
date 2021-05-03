@@ -1,9 +1,12 @@
 ---
-date: "2016-12-04"
-link: "https://www.imdb.com/title/tt4922804"
-categories: [ "draft", "series" ]
-title: "3%"
+categories:
+- draft
+- series
+date: '2016-12-04'
+link: https://www.imdb.com/title/tt4922804
+title: 3%
 ---
+
 Mais uma série Netflix advinda de um experimento de produtores brasileiros. Cheguei a ver o piloto experimental no YouTube. Parecia promissor, ainda que precisasse de polimento no formato novelístico e superficial. Hoje, com a primeira temporada já produzida em nível Netflix, é possível afirmar que ele ainda precisa de polimento, pois possui os mesmos defeitos ignorados pela gangue de roteiristas.
 
 Há uma boa história em 3%, no entanto. Futuro distópico, humanidade (ou aquela parte da humanidade) é dividida em duas castas. Uma, por um motivo qualquer, é de pessoas com riqueza de recursos. A outra é a ralé, que vive em casebres que lembram as gigantescas favelas brasileiras. Os moradores da parte menos nobre possuem uma chance na vida de migrarem para a parte rica, desde que passem por um conjunto de testes idealizado pela... adivinha? parte rica. Alguns não estão satisfeitos com isso e montaram uma milícia revolucionária. Outros possuem uma história emocionante que você irá acompanhar em flashbacks em cada novo episódio.

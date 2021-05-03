@@ -1,9 +1,11 @@
 ---
-date: "2012-04-02"
-link: "https://www.imdb.com/title/tt0800369"
-categories: [ "movies" ]
-title: "Thor"
+categories:
+- movies
+date: '2012-04-02'
+link: https://www.imdb.com/title/tt0800369
+title: Thor
 ---
+
 Não há nada para se ver em Thor. É bobinho, está na direção automática e possui uma fotografia e uma trilha sonora que combinam com sua falta de personalidade. Ou seja, a Marvel pode levar a sério seus cronogramas e personagens, mas não o Cinema em si.
 
 Inspirado no herói homônimo da revista em quadrinhos, que por sua vez foi inspirado na mitologia nórdica, o Thor do filme vem do espaço, de uma civilização mais avançada que os humanos e que preza pela paz entre os nove planetas por eles conhecidos com vida inteligente. Foram eles que expulsaram os Gigantes de Gelo da Terra quando eles nos atacaram (daí a mitologia). Thor é um dos dois filhos de Odin, rei da civilização e grande guerreiro que, mais do que ninguém, percebeu que a solução dos problemas não está na guerra.

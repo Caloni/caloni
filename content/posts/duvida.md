@@ -1,9 +1,11 @@
 ---
-date: "2012-11-18"
-link: "https://www.imdb.com/title/tt0918927"
-categories: [ "movies" ]
-title: "Dúvida"
+categories:
+- movies
+date: '2012-11-18'
+link: https://www.imdb.com/title/tt0918927
+title: Dúvida
 ---
+
 Baseado em uma peça de teatro escrita por John Patrick Shanley, que aqui também faz o papel duplo de diretor/roteirista. Conseguindo para os papéis principais Philip Seymour Hoffman como o padre Brendan Flynn, um orador com capacidade ímpar de sugar a atenção de seus fiéis, e Meryl Streep, como a severa irmã Aloysius Beauvier, que zela por regras que parecem ter sido definidas 2000 anos atrás. A história, pode-se arriscar, gira em torno dos dois conceitos que esses personagens representam, que não deveriam, mas parecem opostos na igreja católica: compaixão e tradição.
 
 Quando a professora James (Amy Adams), a parte "inocente" da história, encontra indícios que possam revelar que a intimidade entre o padre e um dos seus alunos vai um pouco além do esperado, se é que você me entende nessas épocas de pedofilia, ela inconscientemente encontra também o estopim desse conflito que estava apenas esperando uma ocasião para ser revelada. Curioso notar as nuances da história: não se sabe o que de fato ocorreu, e os indícios são tão firmes que a própria parte acusadora, irmã Beauvier, assume abertamente que não tem provas e nem argumentos neutros para resolver a questão: apenas "sabe" que foi assim.

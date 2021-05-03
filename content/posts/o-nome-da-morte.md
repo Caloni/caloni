@@ -1,10 +1,14 @@
 ---
-date: "2018-07-25"
-link: "https://www.imdb.com/title/tt5991954"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Nome da Morte"
+categories:
+- draft
+- movies
+date: '2018-07-25'
+link: https://www.imdb.com/title/tt5991954
+tags:
+- cinemaqui
+title: O Nome da Morte
 ---
+
 O cinema nacional percorreu um longo caminho desde A Cidade de Deus, um filme que explorava o ambiente miserável, violento e corrompido de uma sociedade que ainda mantinha certa fé religiosa que lhes "garantisse" alguma forma de proteção, mesmo que alguns membros dessa sociedade fossem assassinos sanguinários. Agora O Nome da Morte chega como um eco dissonante, que vem meio torto, mas que pelas suas virtudes técnicas, igualmente impecáveis, especialmente a fotografia, lembra como aos trancos e barrancos o cinema brasileiro se desenvolveu através das décadas a ponto disso se tornar algo comum, e mostra também que a discussão sobre a pobreza, violência e corrupção pode adquirir diferentes formas, mas que se mantém firme e forte como um mecanismo simbólico de estudo social rico e fascinante.
 
 Aqui a história também é baseada em um caso real, de um pistoleiro, Julio Santana (Marco Pigossi), desde o seu começo como um filho problemático morando no interior isolado de alguma região do Brasil que é fotografada como um refúgio paradisíaco pelo diretor de fotografia Azul Serra em momento inspirado. Sua família é pobre, mas não miserável. Simples, mas não relaxada. Eles rezam à mesa e agradecem implicitamente pela saúde e sucesso de seus filhos.

@@ -1,10 +1,14 @@
 ---
-date: "2018-10-17"
-link: "https://www.imdb.com/title/tt6543652"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Guerra Fria"
+categories:
+- draft
+- movies
+date: '2018-10-17'
+link: https://www.imdb.com/title/tt6543652
+tags:
+- cinemaqui
+title: Guerra Fria
 ---
+
 Guerra Fria é o tipo de filme que acerta em tantos níveis que se torna injusto tentar resumir todas essas camadas de uma só vez. Porém, podemos dizer que obras sobre essa época tenebrosa que o título confessa geralmente usam apenas a atmosfera conspiracionista para se estabelecer e se esquecem de como as pessoas viviam na época. Felizmente o novo filme de Pawlikowski está concentrado na natureza humana de maneira tão intensa que o resultado é uma síntese brilhante do que significou uma era.
 
 A história começa com músicas e cantos belíssimos dos camponeses da Polônia, anexada pela União Soviética. O plano do maestro Wiktor (Tomasz Kot) é capturar o que há de melhor entre os artistas simples do povo e mostrar ao Partido. Wiktor é um polonês orgulhoso de sua origem, como podemos notar quando este observa com pesar uma igreja destruída e o fato que seus cantores não poderão cantar as canções folclóricas com suas belíssimas vozes em sua língua-mãe. Porém, bonitão, ele também possui desejos mundanos, e logo se engraça com Zula (Joanna Kulig), uma polonesa que também sabe jogar o mesmo jogo que ele para se manter vivo.

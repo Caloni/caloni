@@ -1,8 +1,10 @@
 ---
-date: "2016-10-17"
-link: "https://www.imdb.com/title/tt3322314"
-categories: [ "draft", "series" ]
-title: "Luke Cage"
+categories:
+- draft
+- series
+date: '2016-10-17'
+link: https://www.imdb.com/title/tt3322314
+title: Luke Cage
 ---
 
 As produções da Marvel têm tanta certeza que seus fãs irão acompanhar as séries do começo ao fim que eles sequer precisam fazer um episódio piloto que chame a atenção. E é assim com Luke Cage, cria gerada a partir de Jessica Jones, a quase-potencial série em se tornar algo além do incidente Vingadores em Nova York. Nesse caso, Cage passeia pelos personagens que irão colocá-lo em grandes enrascadas e fazê-lo viver grandes aventuras na velha e bobinha lenda do herói humilde que surge do Harlem e que combate uma poderosa máfia com conexões políticas.

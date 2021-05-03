@@ -1,9 +1,12 @@
 ---
-date: "2016-12-21"
-link: "https://www.imdb.com/title/tt1615147"
-categories: [ "draft", "movies" ]
-title: "Margin Call - O Dia Antes do Fim"
+categories:
+- draft
+- movies
+date: '2016-12-21'
+link: https://www.imdb.com/title/tt1615147
+title: Margin Call - O Dia Antes do Fim
 ---
+
 Hoje Margin Call já tem mais de quatro anos de quando foi lançado. É uma conversa pra lá de realista sobre qualquer empresa de investimentos em 2008 que teve a sacada final de que tudo o que haviam feito nos últimos anos não valia praticamente nada. O filme não dá a menor dica para o espectador sobre o que está acontecendo exatamente, o que é ótimo, pois isso comprova hoje que ele envelheceu tão bem que nem é necessário que ele fale sobre a crise recente. Pode ser um outro momento mais à frente, ou no passado. Que diferença faz? No final das contas, as manipulações estatais na economia sempre irão gerar, inevitavelmente, mais crises.
 
 Esta é uma reunião que vai escalando rápido. Após um downsizing inicial, onde o maior analista de riscos da empresa é mandado embora, um de seus colegas analisa os dados que ele estava prestes a revelar, e descobre que o fim está mais próximo do que ele imagina. Isso vai disparando um efeito de escritório conhecido como "quem come quem". Todos aos poucos vão sendo envolvidos: estagiário, supervisor, gerentes, diretores. Até a chegada do capitalista malvadão, o dono da empresa. De helicóptero (é claro!). E é aí que começa a festa.

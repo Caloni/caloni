@@ -1,9 +1,13 @@
 ---
-date: "2017-11-20"
-categories: [ "draft", "blog" ]
-tags: [ "ccppbr" ]
-title: "Palestras do CCPPBR14"
+categories:
+- draft
+- blog
+date: '2017-11-20'
+tags:
+- ccppbr
+title: Palestras do CCPPBR14
 ---
+
 Esse sábado, dia 25/11/2017, teremos em São Paulo nosso 14o. encontro de programadores e aficionados C/C++. Teremos palestras do pessoal das antigas e de um pessoal novato. Ou seja, terá palestras para todos os gostos. As palestras foram selecionadas pela própria comunidade CCPP através de votação, e houve excesso de palestrantes. C++ está bombando!
 
 A programação já está disponível no saite do Grupo CCPP já faz mais de um mês, mas estou publicando para a visibilidade de que está perto! Segue o que teremos:

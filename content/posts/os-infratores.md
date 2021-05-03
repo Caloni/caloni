@@ -1,9 +1,11 @@
 ---
-date: "2012-10-19"
-link: "https://www.imdb.com/title/tt1212450"
-categories: [ "movies" ]
-title: "Os Infratores"
+categories:
+- movies
+date: '2012-10-19'
+link: https://www.imdb.com/title/tt1212450
+title: Os Infratores
 ---
+
 Os Infratores é um filme de gênero: de gângsteres, para ser exato. Se passa na época da lei seca, quando comercializar bebidas nos Estados Unidos era um crime punido severamente. Acompanhamos a narrativa em off de Jack (Shia LaBeouf), um dos três irmãos Forrest (Tom Hardy), Howard (Jason Clarke) e Cricket (Dane DeHaan). Juntos formam a família Bondurant, que através do controle da distribuição ilegal de licores criados de forma caseira administram sua influência no Condado de Franklin, uma região isolada vizinha de Chicago (que, não é preciso lembrar, foi a morada de Al Capone).
 
 A maneira quase episódica com que a história é conduzida, através de pequenos acontecimentos que, aparentemente inofensivos, revelam cada vez mais sobre a situação vivida por aquelas pessoas, foi a solução empregada pelo diretor John Hillcoat ([A Estrada]) para que consigamos apreciar o cenário do pequeno condado por completo, desde as diferenças entre os irmãos, a relação com as outras famílias e as autoridades e até a igreja local. Para isso boa parte do tempo é sabiamente empregada para distinguir seus personagens, transformando-os, aos poucos, em pessoas de carne e osso. A grande vantagem do projeto é contar com um elenco extremamente competente, que mesmo em seus papéis de menos destaque, como o do sempre excelente Gary Oldman como o gângster da cidade Floyd Banner, conseguem garantir o "seu momento", e quando olhamos para todas essas figuras ao mesmo tempo é possível entender o drama não apenas por sua violência gráfica, mas principalmente pelo seu lado mais humano.

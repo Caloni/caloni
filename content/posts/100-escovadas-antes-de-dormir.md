@@ -1,9 +1,12 @@
 ---
-date: "2019-09-11"
-link: "https://www.imdb.com/title/tt0443584"
-categories: [ "draft", "movies" ]
-title: "100 Escovadas Antes De Dormir"
+categories:
+- draft
+- movies
+date: '2019-09-11'
+link: https://www.imdb.com/title/tt0443584
+title: 100 Escovadas Antes De Dormir
 ---
+
 Os hormônios da adolescência junto com a química da paixão geram altos e baixos tão extremos que é como se a natureza tivesse inventado a maneira perfeita de testar a resistência à vida antes mesmo da fase adulta. Enquanto isso os filmes de Hollywood mostram a paixão como algo sempre positivo, e se esquecem de que ela pode ser tão danosa quando uma doença.
 
 Melissa é uma garota de 15 anos que se apaixonou perdidamente pelo jovem Daniele. Ela consegue se encontrar com ele e sós e, louca para beijá-lo, ele imediatamente a manda fazê-lo sexo oral. Não é um abuso, pois Melissa faria de tudo por Daniele; o rapaz está se aproveitando do estado hipnótico que ela está. Em outros momentos sua obediência cega será posta à prova com mais jovens. Com o pai ausente, a mãe alheia e tendo a avó (Geraldine Chaplin) como única guia para a vida distante, o sexo se tornará a única forma de expressão e prazer da vida desta garota.

@@ -1,9 +1,11 @@
 ---
-date: "2014-05-08"
-link: "https://www.imdb.com/title/tt2258345"
-categories: [ "movies" ]
-title: "Amante a Domicílio"
+categories:
+- movies
+date: '2014-05-08'
+link: https://www.imdb.com/title/tt2258345
+title: Amante a Domicílio
 ---
+
 Woody Allen está de volta nas telonas, mas não como diretor. Aqui ele faz o papel de um cafetão que começa a agenciar seu ex-funcionário após o fechamento de sua loja de livros raros. Na verdade, depois de tantos anos, ele é mais do que ex-funcionário: é família. Isso aparentemente não interfere nos interesses comerciais do personagem de Allen, e aí está a primeira piada judia do filme.
 
 Ops, esqueci de dizer. Esse é um filme que gira em torno também, ou principalmente, dos judeus. Allen faz seu próprio papel (de judeu não-praticante), e uma das mulheres que John Turturro agrada, o "garoto de programa" e diretor do filme, é justamente uma judia viúva e solitária. Há também uma relação vista de longe entre Allen e uma senhora negra e seus filhos pequenos, aparentemente sua família , mas isso nunca de fato faz parte da história, exceto os piolhos de um de seus "filhos".

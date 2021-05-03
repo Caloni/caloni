@@ -1,8 +1,10 @@
 ---
-date: "2008-03-28"
-title: "Backup de pobre"
-categories: [ "code" ]
+categories:
+- code
+date: '2008-03-28'
+title: Backup de pobre
 ---
+
 Como tudo na vida, o backup -- ato de fazer cópia(s) de segurança de dados considerados importantes -- para se tornar efetivo e transformador deve antes se tornar um hábito.
 
 Hábitos, por definição, ao serem realizados repetidamente muitas vezes, podem se tornar poderosos catalisadores de tarefas, sejam elas cozinhar um bolo, compilar um programa ou fazer backups. Por isso é muito importante que o backup, antes de ser 100% seguro, seja 100% previsível e habitual.

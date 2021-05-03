@@ -1,9 +1,12 @@
 ---
-date: "2017-08-04"
-link: "https://www.imdb.com/title/tt2319580"
-categories: [ "draft", "movies" ]
-title: "Tickle Head, O Melhor Lugar Da Terra"
+categories:
+- draft
+- movies
+date: '2017-08-04'
+link: https://www.imdb.com/title/tt2319580
+title: Tickle Head, O Melhor Lugar Da Terra
 ---
+
 Este filme canadense de cidadezinha à beira-mar possui o seu charme e o seu humor. Um humor simples, mas que não soa maniqueísta, apesar de ser um pouco. Conta uma história implausível, mas que nos minutos finais toca o coração. Se trata de uma farsa, que não quer dar o braço a torcer que a luta é inútil. Uma metáfora sobre progresso que ignora a realidade para sonhar um pouco. E dar boas risadas.
 
 A história é simples, para não dizer simplista. Um pequeno porto com 120 habitantes precisa fechar o acordo com uma petroquímica para construir uma fábrica e assim salvar a economia do local, que há muito não vive, como antigamente, da pescaria. Porém, para isso eles precisam de um médico residente, que convenientemente cai por aquelas bandas por um mês. Ele é fã de críquete, um esporte que nenhum canadense doido por hóquei ouviu falar.

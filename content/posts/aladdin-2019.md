@@ -1,10 +1,14 @@
 ---
-date: "2019-05-22"
-link: "https://www.imdb.com/title/tt6139732"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Aladdin (2019)"
+categories:
+- draft
+- movies
+date: '2019-05-22'
+link: https://www.imdb.com/title/tt6139732
+tags:
+- cinemaqui
+title: Aladdin (2019)
 ---
+
 Eu gostei de Aladdin, este remake (ou reimaginação) do musical de 1992. Depois de O Retorno de Mary Poppins e Dumbo (2019) acredito que a Disney começa a caminhar nos trilhos da conversão de seus maiores trabalhos para live action com fundo verde. Ela possui tudo o que necessita para fazê-lo: os bons roteiros dos filmes originais.
 
 Porém, além da decisão mercadológica há a oportunidade de revisitar os clássicos da produtora de sonhos e tentar entender o que os tornaram inesquecíveis no decorrer das décadas. Se a tecnologia nos permite com fundo verde e rostos humanos construir uma magia semelhante ao desenho -- que tudo permite -- é hora de descobrir a melhor junção entre o mundo de mentirinha e as expressões humanas.

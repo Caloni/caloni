@@ -1,8 +1,11 @@
 ---
-date: "2008-04-21"
-title: "Ode ao C++"
-categories: [ "code", "ccpp" ]
+categories:
+- code
+- ccpp
+date: '2008-04-21'
+title: Ode ao C++
 ---
+
 Strauss: lembra quando nós conversávamos sobre o assunto "Por que C++?", há muitas décadas atrás, e seu blogue era um dos primeiros no Brasil que não ficava relatando o que o autor comia no café da manhã, além de falar sobre programação? Pois é, eu estava reorganizando meus g-mails e reencontrei nossa conversa e, pior, seu artigo "derivado" dela, que irei republicar aqui pois, assim como antes, acredito em tudo que escrevi naquela época.
 
 Cristiano -- Olá! Sou programador em basic (Vbasic/Qbasic), fico indignado, com

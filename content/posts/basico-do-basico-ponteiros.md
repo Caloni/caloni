@@ -1,8 +1,11 @@
 ---
-date: "2008-12-06"
-title: "Básico do básico: ponteiros"
-categories: [ "draft", "code" ]
+categories:
+- draft
+- code
+date: '2008-12-06'
+title: 'Básico do básico: ponteiros'
 ---
+
 ![Alicerces de uma casa.](http://i.imgur.com/8jW9wJy.png)Nessas últimas semanas tenho gastado meu tempo junto da mais nova pupila da [SCUA](http://www.scua.com.br), aspirante a programadora em C e Install Shield Script. Minha tarefa? Explicar tudo, desde o mais simples, como **variáveis**, até as coisas não tão triviais, como **símbolos de depuração**.
 
 Posso afirmar que tem sido muito compensador ativar algumas partes do meu cérebro que acreditava nem mais existirem. Rever velhos conceitos, apesar de manjados, nos dá a oportunidade de lembrar que as coisas mais complexas que construímos no dia-a-dia se baseiam em um punhado de preceitos básicos que é essencial ter na cabeça. E nunca esquecê-los.
@@ -59,4 +62,3 @@ Tarefas mais específicas da minha área e que uso o tempo todo:
 Este vídeo é o mais didático do universo sobre como funcionam ponteiros em C. Veja e mostre pros seus filhos:
 
 <div class="auto-resizable-iframe"><div><iframe frameborder="0" allowfullscreen="1" src="https://www.youtube.com/embed/mnXkiAKbUPg"></iframe></div></div>
-

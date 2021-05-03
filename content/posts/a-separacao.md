@@ -1,9 +1,11 @@
 ---
-date: "2015-08-24"
-link: "https://www.imdb.com/title/tt1832382"
-categories: [ "movies" ]
-title: "A Separação"
+categories:
+- movies
+date: '2015-08-24'
+link: https://www.imdb.com/title/tt1832382
+title: A Separação
 ---
+
 Esse filme foi o vencedor do Oscar de melhor filme estrangeiro, além de indicado a melhor roteiro original. Ele também está aí para provar como falso esse preconceito de "filme iraniano" como sinônimo de filme parado, difícil, do tipo que só os críticos gostam.
 
 Sua história é simples e contada de maneira sensível. Simin (Leila Hatami) é uma mulher decidida a sair do país, pois acredita que terá melhores condições de criar sua jovem filha (Sarina Farhadi). No entanto, seu marido (Peyman Moaadi) tem que cuidar de seu pai com Alzheimer (Ali-Asghar Shahbazi), e a única solução possível parece ser a separação do casal. O processo, no entanto, que parecia uma briga comum, acaba ganhando contornos de uma novela mexicana quando em uma briga com a moça que contratara para ajudá-lo (Razieh) ele é acusado de fazê-la perder seu bebê de cinco meses.

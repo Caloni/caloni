@@ -1,8 +1,10 @@
 ---
-date: "2008-10-21"
-categories: [ "code" ]
-title: "A Alça Dentro do Fio Gerou um Bloqueio da Morte"
+categories:
+- code
+date: '2008-10-21'
+title: A Alça Dentro do Fio Gerou um Bloqueio da Morte
 ---
+
 Estava folheando um livro fenomenal que meu amigo havia pedido emprestado para ler quando me deparei com algumas traduções no mínimo curiosas. O exemplar em questão era o primeiro Windows Internals, publicado após o lançamento da primeira versão do Windows NT, uma plataforma escrita (quase) inteiramente do zero para suplantar as versões 9x (Windows 95 e 98), que herdaram do DOS algumas partes indesejáveis em sistemas operacionais modernos.
 
 Sabe-se lá por que essa edição foi traduzida. É interessante notar que naquela época foi dado um tratamento especial a alguns termos e conceitos já comuns no dia-a-dia do programador americano, apesar de quase nenhum desses termos ter se mantido em sua versão original. Os exemplos mais gritantes são as threads (fios ou linhas), os dead locks (bloqueios da morte) e os handles (alças). Apesar de não ter nada contra traduzir termos do inglês para português (e vice-versa) algumas coisas incomodam em tradução de livros técnicos.
@@ -21,4 +23,4 @@ O fato é que não há escapatória para quem trabalha nessa área, e no fundo i
 
 [^1]: Ironicamente 12 anos depois deste artigo ser escrito o verbo bugar virou uma gíria corrente entre jovens.
 
-[Wikipédia em português]: https://pt.wikipedia.org/wiki/Deadlock 
+[Wikipédia em português]: https://pt.wikipedia.org/wiki/Deadlock

@@ -1,9 +1,13 @@
 ---
-date: "2015-08-16"
-categories: [ "draft", "blog" ]
-tags: [ "ccppbr" ]
-title: "CCPPBRRio12"
+categories:
+- draft
+- blog
+date: '2015-08-16'
+tags:
+- ccppbr
+title: CCPPBRRio12
 ---
+
 Esse foi o segundo encontro do nosso grupo no Rio de Janeiro, Cidade Maravilhosa, Cidade do Bixcoito de Polvinho. E foi o primeiro encontro a ser exibido em streamming e gravado para o YouTube, graças ao suporte da RioSoft, uma organização que incentiva o mercado de desenvolvimento de software no Brasil, e onde foi realizado o evento.
 
 Esse é o nosso segundo encontro no ano e mais um imenso sucesso, dessa vez graças aos hercúleos esforços de Pedro Lamarão e o nosso host e palestrante mais do que bem-vindo André Tupinambá.

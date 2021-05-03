@@ -1,10 +1,14 @@
 ---
-date: "2019-03-07"
-link: "https://www.imdb.com/title/tt8389758"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Elegia De Um Crime"
+categories:
+- draft
+- movies
+date: '2019-03-07'
+link: https://www.imdb.com/title/tt8389758
+tags:
+- cinemaqui
+title: Elegia De Um Crime
 ---
+
 Elegia de um Crime me faz pensar na ineficiência de uma torneira automática de um banheiro público. Às vezes a água vem com uma pressão que acaba molhando tudo em volta, obrigando um funcionário estar constantemente secando. Às vezes ela esguicha por muito pouco tempo, obrigando quem a usa a ficar apertando o botão em vez de lavar a mão. O ponto é que, de um jeito ou de outro, aprendemos a conviver com sistemas que parecem ter surgido com defeito desde o começo.
 
 Agora você deve estar se perguntando o que uma torneira ineficiente tem a ver com um filme sobre um assassinato hediondo. A torneira nada. A ineficiência tudo. Quando Cristiano, o diretor do filme, liga para a polícia com a localização exata do assassino foragido de sua mãe, a resposta é que ele deve ligar para outro setor da segurança pública, pois a pessoa do outro lado da linha é incapaz de ajudá-lo. E assim, como uma torneira com um defeito qualquer, o sistema parece nunca funcionar para o motivo pelo qual ele foi desenhado: lavar as mãos ou pegar criminosos.

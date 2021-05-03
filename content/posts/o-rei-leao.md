@@ -1,9 +1,11 @@
 ---
-date: "2011-09-05"
-link: "https://www.imdb.com/title/tt0110357"
-categories: [ "movies" ]
-title: "O Rei Leão"
+categories:
+- movies
+date: '2011-09-05'
+link: https://www.imdb.com/title/tt0110357
+title: O Rei Leão
 ---
+
 O Rei Leão visto como deve ser visto, ou seja, em 2D, consegue impressionar pela síntese dramática que escolhe para não tornar o programa demasiadamente infantil para o seu principal público-alvo (as crianças) mas consegue se manter íntegro e representar de maneira irretocável a contribuição Disney para manter viva a lenda e uma das peças mais conhecidas de Shakespeare: Hamlet.
 
 Quando eu digo íntegro quero dizer que até mesmo temas que hoje em dia são covardemente evitados mesmo entre o público adulto como a morte e o sexo são inseridos na narrativa e com direito a uma trilha sonora excepcional, que consegue oscilar dinamicamente entre a comédia e o drama épico como ondas que se formam durante a história.

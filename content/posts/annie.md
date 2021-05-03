@@ -1,10 +1,13 @@
 ---
-date: "2015-02-22"
-link: "https://www.imdb.com/title/tt1823664"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Annie"
+categories:
+- movies
+date: '2015-02-22'
+link: https://www.imdb.com/title/tt1823664
+tags:
+- cinemaqui
+title: Annie
 ---
+
 Talvez o remake de Annie sofra daquele conhecido problema de hoje em dia: alguns filmes com um teor mais ingênuo simplesmente não conseguem superar a barreira do cinismo contemporâneo. Pelo menos nesse caso não é apenas esse o diagnóstico, pois o diretor Will Gluck (do péssimo A Mentira) não faz o menor esforço para tirar do automático uma representação teatral com uma alma um tanto defeituosa.
 
 O mais curioso é que todos os atores foram escolhidos até com um certo senso estético/social: a garota Annie é a impressionante Quvenzhané Wallis de Indomável Sonhadora, que aqui interpreta uma menina que não conhece seus pais e vive com a mãe adotiva temporária e muito mau-caráter Hannigan (Cameron Diaz). Por uma obra do destino ela vira tema de campanha do candidado a prefeito de Nova York, o empresário Will Stacks (Jamie Foxx), que parece ser alérgico a pobres, preenchendo um estereótipo no início que se quebra em menos de meia hora de filme. Seus assistentes são o mau-caráter irremediável Guy (Bobby Cannavale) e a bela e simpática "Bruxa Boa do Norte" Grace (Rose Byrne, afinal alguém tem que ter bom coração nesse roteiro manipulador escrito pelo próprio Gluck e a interessante Aline Brosh McKenna).

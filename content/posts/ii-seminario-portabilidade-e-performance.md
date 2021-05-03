@@ -1,9 +1,13 @@
 ---
-date: "2010-11-12"
-categories: [ "draft", "blog" ]
-tags: [ "ccppbr" ]
-title: "II Seminário Portabilidade e Performance"
+categories:
+- draft
+- blog
+date: '2010-11-12'
+tags:
+- ccppbr
+title: II Seminário Portabilidade e Performance
 ---
+
 Aqui estamos nós de novo. Mais uma vez a Tempo Real Eventos irá organizar esse evento de final de ano. E mais uma vez, junto dos meus amigos, irei palestrar sobre um item indispensável no nécessaire de todo escovador de bits: assembly gerado pelo compilador. Vamos falar brevemente sobre o funcionamento de um código assembly 32 bits e passar para a análise dos compiladores modernos e o que eles fazem para tornar o código ainda mais rápido do que o próprio fonte em C++.
 
 	
@@ -24,4 +28,3 @@ Aqui estamos nós de novo. Mais uma vez a Tempo Real Eventos irá organizar esse
 Uma outra dúvida pertinente (e discutida nos bares nerds da cidade) é se usar código STL não deixaria mais lento o resultado final, já que ele é cheio das abstrações. Por mais que autoridades competentes no funcionamento da linguagem como Pedro Lamarão e Thiago Adams digam que as otimizações do compiladores modernos na STL/Boost são diversas vezes mais eficientes que o código artesanal de um programador, sempre fica aquela pulga atrás da orelha, pulga esta que podemos matar facilmente analisando o assembly gerado. E essa confiança extra nos dará novas chances de programar coisas legais de verdade, e não ficar ensebando um código que já está na sua velocidade máxima.
 
 Então é isso aí. Espero que tenhamos uma manhã e uma tarde agradáveis nesse mundo da escovação de bits.
-

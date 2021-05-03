@@ -1,9 +1,11 @@
 ---
-date: "2015-06-03"
-link: "https://www.imdb.com/title/tt2884206"
-categories: [ "movies" ]
-title: "O Universo no Olhar"
+categories:
+- movies
+date: '2015-06-03'
+link: https://www.imdb.com/title/tt2884206
+title: O Universo no Olhar
 ---
+
 I Origins é sutil e honesto o suficiente para gostarmos dele apesar de nossas convicções religiosas ou científicas. Ele não tenta em nenhum momento te obrigar a enxergar o mundo através de uma visão determinante do nosso destino como seres dotados de consciência, mas brinca com isso o tempo todo, o que é saudável e instigante. E mesmo lidando com uma questão delicada, controversa e complexa como a vida pós-morte, não se priva de desenvolver seus personagens de forma que eles participem do processo de descoberta como seres humanos, e não simples criações unidimensionais para cumprir um papel.
 
 Segundo filme de ficção escrito e dirigido por Mike Cahill (o primeiro é A Outra Terra), que também trabalha com efeitos visuais e edição, a história acompanha o cientista Ian (Michael Pitt) através de uma pesquisa cujo objetivo é de uma vez por todas calar a boca de parte da comunidade religiosa (como se fosse possível) que acredita que a Teoria da Evolução está errada, e que usa como "evidência" dessa crença a complexidade inerente do olho humano. Com a ajuda de sua "quase invisível mas determinada" assistente, Karen (Brit Marling), a pesquisa busca percorrer todo o caminho evolutivo entre a primeira espécie de vida a detectar luz até a magnitude dos nossos olhos, que são únicos por pessoa e já estão sendo usados até como método de identificação. No processo de catalogar olhos, porém, Ian conhece e se apaixona por Sofi (Astrid Bergès-Frisbey), uma modelo que, acreditando como muitos que os olhos são a janela da alma e em reencarnação, tenta sempre enxergar a realidade à sua volta por uma lente mística, além de tentar abrir os olhos de Ian para a possibilidade de existir algo além do que a ciência até agora descobriu.

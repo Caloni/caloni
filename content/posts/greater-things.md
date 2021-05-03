@@ -1,9 +1,12 @@
 ---
-date: "2016-10-20"
-link: "https://www.imdb.com/title/tt3044584"
-categories: [ "draft", "movies" ]
-title: "Greater Things"
+categories:
+- draft
+- movies
+date: '2016-10-20'
+link: https://www.imdb.com/title/tt3044584
+title: Greater Things
 ---
+
 Este é um filme que possui poucos diálogos, o que o torna o mais cinematográfico possível. Isso quer dizer que o que vemos e o que ouvimos consegue passar a mensagem. E muitas vezes a mensagem é formada pelo que não vemos e não ouvimos.
 
 Conta a história de quatro pessoas. Duas delas são casadas e duas são solitárias (ou talvez todos sejam). Uma mora em Londres e vive na inércia do escritório onde trabalha, até o momento que decide fugir para qualquer outro lugar do mundo, o que acaba sendo Tóquio. Lá é onde estão as outras três pessoas, um casal maduro e um lutador de MMA. O casal está junto, mas parece apenas dividir a casa, como tão bem demonstrado pela fachada transparente de seus cômodos. O lutador mora em um pequeno quarto enquanto aguarda a próxima luta. Duas dessas pessoas usam formas solitárias de se expressar, seja através de efeitos sonoros ou pela forma de treinar musculação. Porém, são péssimos em palavras, como demonstrado nas entrevistas com o lutador e as conversas com a esposa (ou a ausência delas).

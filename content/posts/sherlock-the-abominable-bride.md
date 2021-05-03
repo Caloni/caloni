@@ -1,9 +1,11 @@
 ---
-date: "2016-04-07"
-link: "https://www.imdb.com/title/tt3845232"
-categories: [ "series" ]
-title: "Sherlock: The Abominable Bride"
+categories:
+- series
+date: '2016-04-07'
+link: https://www.imdb.com/title/tt3845232
+title: 'Sherlock: The Abominable Bride'
 ---
+
 A quarta temporada da série possui apenas um episódio por enquanto, e como todos os episódios anteriores, do tamanho de um filme de uma hora e meia, mantendo um clima morno metade do seu tempo, diminuindo seu ritmo para retratar a época vitoriana abandonada pela própria premissa da série de se atualizar. Neste episódio estamos na época original de Sherlock Holmes, e em uma de suas história originais, vinda de seus livros que, claro, continuam aqui sendo escritos por Watson.
 
 O episódio, claro, utiliza os mesmos atores e personagens, mas em disposições ligeiramente diferentes: o irmão mais velho de Sherlock é gigantesco de gordo, e Molly Hooper se disfarça de homem para trabalhar no necrotério. E o roteiro se diverte imensamente dessas diferenças: Sherlock e o irmão apostam em quanto tempo Mycroft irá morrer por comer feito um porco e, em vez de não perceber o amor platônico de Hooper, Holmes não percebe que ela é uma mulher de bigode. O grande trunfo deste episódio é dar uma oxigenada na série e reviver momentos semelhantes de maneira diferente ao de costume.

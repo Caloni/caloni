@@ -1,10 +1,14 @@
 ---
-date: "2018-06-29"
-link: "https://www.imdb.com/title/tt5258850"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Nos Vemos no Paraíso"
+categories:
+- draft
+- movies
+date: '2018-06-29'
+link: https://www.imdb.com/title/tt5258850
+tags:
+- cinemaqui
+title: Nos Vemos no Paraíso
 ---
+
 Nos Vemos no Paraíso tem a estrutura de um conto de fantasia, ou uma peça de teatro, mas consegue espaço para expandir timidamente sua história através de cores, arte, música e ação. Muita ação.
 
 A ação do filme é anedótica. Seus personagens são caricatos desde o começo. Até os agentes do governo, por exemplo, lembram urubus comendo a carniça o quanto podem (em uma cena vemos um fiscal devorando uma asinha de frango enquanto se prepara para tirar o máximo que puder de um serviço de enterro de soldados mortos na guerra). A história é sobre uma amizade, ou parceria, que encontra momentos de amor, ódio, medo, ambição. Como na guerra, um misto de emoções define melhor as pessoas envolvidas. O pano de fundo é a corrupção, íntima de cada um de nós ou sistêmica, com um viés mais ou menos político.

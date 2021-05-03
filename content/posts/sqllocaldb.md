@@ -1,8 +1,12 @@
 ---
-date: "2019-07-21"
-categories: [ "draft", "code", "draft",  ]
-title: "SLQLocalDB"
+categories:
+- draft
+- code
+- draft
+date: '2019-07-21'
+title: SLQLocalDB
 ---
+
 Hoje foi o dia de redescobrir meu velho ranço com a solução Microsoft para banco de dados. Já perdi horas, dias e semanas com problemas de conexão com algum servidor SQL Server porque a instalação possuía configurações de segurança específicas, a string de conexão não estava exatamente de acordo com a versão instalada ou uma combinação macabra desses e de mais alguns problemas.
 
 Após degladiar novamente com problemas com o SQL Server Express 17 minha esperança para este projeto que requer este banco de dados foi uma versão mínima chamada de LocalDB [1]. Essa versão tem objetivo de servir para desenvolvedores, pois é tão mínima que apenas roda quando você usa, além de permitir isolamento por contas e compartilhamento entre contas e até remoto via named pipe. Parece bom, não?

@@ -1,10 +1,14 @@
 ---
-date: "2016-03-29"
-link: "https://www.imdb.com/title/tt3806654"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Para Minha Amada Morta"
+categories:
+- draft
+- movies
+date: '2016-03-29'
+link: https://www.imdb.com/title/tt3806654
+tags:
+- cinemaqui
+title: Para Minha Amada Morta
 ---
+
 Para Minha Amada Morta é um filme que começa como drama, mas logo se revela um thriller psicológico envolvente. Não se trata muito de ação, mas de possibilidades. E dentro das possibilidades, a de fazer o mal é onde o filme impera, evocando em seus momentos sempre a questão: o que ele irá fazer em seguida?
 
 A história começa com um pai e um filho. Ambos estão de luto pela perda da esposa/mãe. O marido, se recompondo, encontra vídeos caseiros da mulher, desde sua infância até uma descoberta incômoda: a traição.
@@ -20,4 +24,3 @@ A câmera, sempre com uma profundidade rasíssima, só utiliza o ponto de vista 
 A direção de Aly Muritiba -- que também escreve o roteiro -- mantém tudo sob controle, e talvez esse seja o pecadilho do filme, que prefere não ousar, mas apenas conjecturar. No entanto, como se pode testemunhar, apenas o "ele pode fazer" já é incômodo o suficiente para ganhar a total atenção de quem assiste. Um feito e tanto em um filme com poucos acontecimentos impactantes.
 
 "Para Minha Amada Morta" (Brazil, 2015), escrito por Aly Muritiba, Aly Muritiba, dirigido por Aly Muritiba, com Fernando Alves Pinto, Mayana Neiva, Lourinelson Vladmir, Giuly Biancato, Michelle Pucci
-

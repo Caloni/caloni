@@ -1,9 +1,12 @@
 ---
-date: "2015-12-13"
-link: "https://www.imdb.com/title/tt2085059"
-categories: [ "draft", "series" ]
-title: "Black Mirror - S02E03 - The Waldo Moment"
+categories:
+- draft
+- series
+date: '2015-12-13'
+link: https://www.imdb.com/title/tt2085059
+title: Black Mirror - S02E03 - The Waldo Moment
 ---
+
 Black Mirror é uma série que explora o que há de pior em nossa era da comunicação instantânea e da tecnologia crescente. Na verdade, eles vão um pouco além da nossa realidade atual, avançando alguns anos/décadas, onde algumas novidades brincam com nosso conceito de humanidade e relacionamentos, mídia e governos.
 
 O primeiro episódio de Black Mirror chantageia o primeiro-ministro britânico e o obriga a fazer sexo com um porco em uma transmissão nacional na TV. Aqui a política volta a ser o tema através da figura de Waldo, um boneco virtual manipulado pelo dublador Jamie (Daniel Rigby), que como todo humorista está à beira de uma depressão.

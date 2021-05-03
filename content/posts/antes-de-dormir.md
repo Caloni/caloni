@@ -1,10 +1,13 @@
 ---
-date: "2015-01-15"
-link: "https://www.imdb.com/title/tt1726592"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Antes de Dormir"
+categories:
+- movies
+date: '2015-01-15'
+link: https://www.imdb.com/title/tt1726592
+tags:
+- cinemaqui
+title: Antes de Dormir
 ---
+
 "Como se Fosse a Primeira Vez versão thriller". Pelo menos essa era a ideia inicial. Acordamos pela primeira vez junto da assustada Christine (Nicole Kidman) abraçada com alguém desconhecido em um quarto estranho. Ela ouve do seu marido Ben (Colin Firth) que sofre de um tipo de amnésia que a faz esquecer o dia anterior. Essa rotina acontece há tanto tempo que sua mente jovem estranha seu rosto envelhecido no espelho. Já conhecendo essa história me surpreende como essas pessoas nunca tentaram passar uma noite em claro para ver o que acontece.
 
 Apesar de ficar mais ou menos claro que sua condição foi causada por um ataque extremamente violento, seu novo neuropsicológo (Mark Strong) confia em um tratamento baseado em diário de vídeos que Christine passa a fazer todos os dias, o que se torna um tiro no pé do roteiro, pois além de ser irreal sua capacidade de recuperar diariamente tantas informações de sua vida e conseguir ao mesmo tempo manter sua sanidade, logo sua doença crônica já não cumpre qualquer papel na narrativa: tudo se resume em recordar o que aconteceu no dia traumático. Vindo de uma pessoa com problemas de memória se torna um prato cheio de criações fantasiosas que, sem imaginação, partem para o velho clichê de "quem é o culpado". 

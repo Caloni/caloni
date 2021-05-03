@@ -1,9 +1,12 @@
 ---
-date: "2019-07-02"
-link: "https://www.imdb.com/title/tt0209189"
-categories: [ "draft", "movies" ]
-title: "Nenhum a Menos"
+categories:
+- draft
+- movies
+date: '2019-07-02'
+link: https://www.imdb.com/title/tt0209189
+title: Nenhum a Menos
 ---
+
 Um filme lindo de superação, baseado em história real e a porra toda. Se passa na China. Começa em um vilarejo e termina na cidade. É uma lição de vida para todos os brasileiros que reclamam da situação precária das escolas.
 
 Não que no Brasil não existam lugares com situação precária. Uma das lições aqui é que tudo é uma questão de em que mundo se vive. No caso da China, com bilhões de pobres camponeses, ter alguém para passar lição, mesmo que seja uma garota de treze anos que fez o primário, é válido. Pelo menos a burocracia não chega a proibir o ensino como aqui, onde ou se ensina do jeito que o MEC quer ou é melhor deixar as crianças analfabetas. Aqui basta ter giz para escrever na lousa e tá tudo certo.

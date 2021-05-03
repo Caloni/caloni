@@ -1,9 +1,11 @@
 ---
-date: "2011-12-12"
-link: "https://www.imdb.com/title/tt0118583"
-categories: ["movies" ]
-title: "Alien, a Ressurreição"
+categories:
+- movies
+date: '2011-12-12'
+link: https://www.imdb.com/title/tt0118583
+title: Alien, a Ressurreição
 ---
+
 Dando continuidade ao "terror biológico" iniciado pelo antecessor [Alien³], quando um cachorro foi infectado por um alien que ganha suas feições ao nascer, o novo filme da franquia reabre a caixa de Pandora se aproveitando da discussão contemporânea de clonagem e "ressuscitando" a Tenente Ripley através de amostras de seu sangue já modificado pelo seu parasita espacial.
 
 Porém, o mais impressionante da introdução é saber que não só o resultado é uma cópia idêntica a Ripley antes de ter se jogado no caldeirão fervente do filme anterior, mas boa parte de suas memórias são restauradas. A explicação para isso nunca é totalmente justificada, mas faz pensar que as capacidades de manipulação genética da ameaça alien chega a servir de exemplo para a teoria da descendência Junguiana.

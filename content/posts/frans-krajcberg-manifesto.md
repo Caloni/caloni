@@ -1,9 +1,13 @@
 ---
-date: "2019-09-28"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Frans Krajcberg: Manifesto"
+categories:
+- draft
+- movies
+date: '2019-09-28'
+tags:
+- cinemaqui
+title: 'Frans Krajcberg: Manifesto'
 ---
+
 Coisa mais linda no mundo o timing de "Frans Krajcberg: Manifesto", documentário sobre o artista-militante naturalista polonês que veio morar na floresta amazônica aqui no Brasil após a guerra e que foi um ser revoltado com o descaso dos brasileiros até seus últimos dias de vida ano passado, aos 96 anos. Profético o filme, Frans estaria mais revoltado ainda hoje, quando as políticas federais afrouxam o controle do desmatamento e temos novos recordes de queimadas em uma floresta que pouco a pouco vai sendo consumida pela ganância econômica.
 
 Para sermos justos, essa destruição está longe de ser algo recente, e o filme vem justamente resgatar um pouco dessa História. Desde o regime militar desenvolvimentista e seus delírios destrutivos com o projeto transamazônica a floresta não tem sossego. A nova Constituição de 88, que o polonês torcia para ser mais rígida, apenas entregou o poder para os antigos donos no Mato Grosso e intermediações, e um estado inteiro em menos de três décadas foi transformado em pasto. Mais tarde a loucura nacionalista daria lugar para governos populistas de esquerda que tomaram sua vez de sambar na cabeça da mãe-natureza, com o projeto e construção de obras megalomaníacas como Belo Monte, uma nova hidrelétrica gigantesca sem razão de existir no meio da floresta.

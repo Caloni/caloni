@@ -1,9 +1,11 @@
 ---
-date: "2012-08-24"
-link: "https://www.imdb.com/title/tt1535438"
-categories: [ "movies" ]
-title: "Um Divã para Dois"
+categories:
+- movies
+date: '2012-08-24'
+link: https://www.imdb.com/title/tt1535438
+title: Um Divã para Dois
 ---
+
 Meryl Streep (Kay), e é preciso que comece esse texto com ela, está divina. Pra variar, seu tom de voz fino, distante e frágil remete justamente àquela mulher que, depois de 30 anos de casada, percebe que sua posição submissa e acomodada começa a perturbá-la pelo som repetitivo e ensurdecedor da rotina. Seu marido, Arnold (Tommy Lee Jones sendo Tommy Lee Jones), igualmente acomodado em uma cadência ininterrupta de ovos, bacon e escritório, mal consegue entender por que sua mulher pretende mudar aquele casamento estável indo para uma sessão de terapia de casais em uma cidadezinha feita sob encomenda. Pior: não entende por que gastar 4 mil dólares em algo tão fútil se poderia aplicar melhor esse dinheiro comprando um telhado novo?
 
 Construído de maneira impecável e didática pelo diretor David Frankel, as primeiras cenas que demonstram como, apesar de casados, o convívio alargado e rotineiro criou uma barreira intransponível entre os dois, tal como o longo corredor que separa seus quartos, os ângulos opostos que cada um olha pela manhã (Arnold, para o jornal e para a janela, Kay, para o fogão e para Arnold) e o personagem invisível que se senta entre os dois no sofá de Dr. Feld (Steve Carell, mais simbólico que necessário).

@@ -1,9 +1,12 @@
 ---
-date: "2019-11-20"
-link: "https://www.imdb.com/title/tt0468492"
-categories: [ "draft", "movies" ]
-title: "O Hospedeiro"
+categories:
+- draft
+- movies
+date: '2019-11-20'
+link: https://www.imdb.com/title/tt0468492
+title: O Hospedeiro
 ---
+
 Há vários tipos de cenas em O Hospedeiro tradicionalmente feitas para serem impactantes e emocionantes. A indústria americana em Hollywood popularizou o formato de filme-catástrofe quase que em uma cartilha. E o diretor/roteirista Bon Joon Ho subverte tudo isso, escancarando tantas novas possibilidades que quase nos esquecemos da história principal. Ela pouco importa quando temos tanto a discutir sobre a linguagem cinematográfica em apenas um filme.
 
 Mas existe um guia emocional por trás das divertidas subversões que o filme aplica nos momentos que mais esperamos deixar de pensar (por estarmos acostumados com o produto americano). Seu nome é Park Gang-Doo, e ele é um pai solteiro lento no raciocínio e distraído a respeito da vida que todos investimos, aquela sobre carreira e buscar sempre estar melhor no futuro. A criação de um verdadeiro idiota do ator Hang-ho Song (do ótimo Memórias de Um Assassino) não é nada sutil, mas é realista, e ganha nossa simpatia porque Hang-ho coloca a emoção de seu personagem sempre à frente de suas limitações.

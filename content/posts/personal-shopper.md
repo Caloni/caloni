@@ -1,10 +1,14 @@
 ---
-date: "2017-02-20"
-link: "https://www.imdb.com/title/tt4714782"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Personal Shopper"
+categories:
+- draft
+- movies
+date: '2017-02-20'
+link: https://www.imdb.com/title/tt4714782
+tags:
+- cinemaqui
+title: Personal Shopper
 ---
+
 Personal Shopper envolve espiritismo em um mundo impessoal e materialista. Sequer há emoção no filme, embora a história gire em torno do luto de um ente querido. Mas talvez, no final das contas, o que conte mais não é a esperança que haja algo após a morte, mas que haja algo depois de uma vida não vivida, mas meramente suportada.
 
 A história gira e é contada em torno das percepções da personagem de Kirsten Stewart, Maureen Cartwright, que acabou de perder o irmão, Lewis, vítima de um problema genético que, apesar de raro, ela compartilha. Ela trabalha como Personal Shopper para uma modelo famosa, passando seu dia-a-dia indo e vindo a lojas para levar e trazer roupas e acessórios para sua patroa.

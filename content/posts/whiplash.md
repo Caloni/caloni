@@ -1,9 +1,11 @@
 ---
-date: "2015-04-22"
-link: "https://www.imdb.com/title/tt2582802"
-categories: [ "movies" ]
-title: "Whiplash: Em Busca da Perfeição"
+categories:
+- movies
+date: '2015-04-22'
+link: https://www.imdb.com/title/tt2582802
+title: 'Whiplash: Em Busca da Perfeição'
 ---
+
 As distribuidoras simplesmente não param. A cada dez filmes assistidos, onze possuem um subtítulo vergonha-alheia. Talvez elas estejam por trás da queda vertiginosa de público nos cinemas brasileiros. Afinal, quem vai querer ver "Em Busca da Perfeição" ou "Uma Razão para Viver" pela enésima vez?
 
 Bom, divago. Em determinado momento de Whiplash, um personagem pergunta para o protagonista se esse negócio de julgar música não é um tanto subjetivo. O rapaz que pergunta é um colegial exímio em algum desses esportes norte-americanos, ou tem algum prêmio na ONU. No fundo, tanto faz. Seja um participante do eterno jogo de azar e probabilidade dos esportes, ou tendo alguma carreira "proeminente" de humanas, de ambas as formas, é a subjetividade em pessoa falando com alguém cujo esmero pela perfeição e a angústia de imaginar seu fracasso está atingindo níveis alarmantes nesse momento do filme. É óbvio que o rapaz que foi questionado ficou chateado, assim como nós. Porque, assim como ele, nós vivenciamos essa experiência em seus dedos calejados e sangrentos, em suas eternas horas noturnas praticando, em sua abstinência de ter uma namorada.

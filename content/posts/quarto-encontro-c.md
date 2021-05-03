@@ -1,9 +1,12 @@
 ---
-date: "2008-03-29"
-categories: [ "blog" ]
-tags: [ "ccppbr" ]
-title: "Quarto encontro C++"
+categories:
+- blog
+date: '2008-03-29'
+tags:
+- ccppbr
+title: Quarto encontro C++
 ---
+
 Para os desavisados de plantão, irá acontecer no dia 29 de março de 2008 o quarto encontro de programadores e aficionados C++. Mais detalhes no link anterior. Em suma, as palestras são estas:
 
 ## Programação em C para microcontroladores (Daniel Quadros)

@@ -1,8 +1,12 @@
 ---
-date: "2019-09-03"
-categories: [ "draft", "code", "draft",  ]
-title: "Do Bit para o Código"
+categories:
+- draft
+- code
+- draft
+date: '2019-09-03'
+title: Do Bit para o Código
 ---
+
 Olá. Esta é uma viagem para dentro do computador. Como funciona um computador? Você sabe? Pois é, nem eu. Mas vamos explorar alguns pontos onde nossa vã metafísica mal encosta na singularidade que é uma arquitetura Von Neumann.
 
 Em primeiro lugar, um bit. O que é um bit? Um bit nada mais é que um dado que se traduz em uma informação com dois, e apenas dois, valores possíveis: ligado ou desligado. Em eletrônica um bit precisa ser extraído de nosso mundo analógico, e quando eu digo analógico eu digo físico, onde existem átomos, prótons e elétrons, mas não existem bits, ou se existem, eles são muito complicados no momento.

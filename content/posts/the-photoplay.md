@@ -1,8 +1,11 @@
 ---
-date: "2018-08-27"
-categories: [ "draft", "books" ]
-title: "The Photoplay"
+categories:
+- draft
+- books
+date: '2018-08-27'
+title: The Photoplay
 ---
+
 The Photoplay, A Psychological Study, é considerado o primeiro livro que levou a sério a linguagem cinematográfica como uma nova forma de arte. Ele realiza duas manobras interessantíssimas para a época: retira a impressão que Cinema é apenas um teatro para as massas e eleva as fotos em movimento como uma nova forma de estética que atinge seu status de arte justamente por se destacar do mundo.
 
 Hugo Münsterberg foi mais conhecido na área de psicologia aplicada, tendo escrito dezenas de livros na área. The Photoplay é seu último livro, publicado no ano de sua morte, e é um trabalho robusto, denso, que especula sobre os mecanismos que tornam o Cinema algo além do simples entretenimento.
@@ -85,5 +88,4 @@ Outra famosa passagem, onde ele explica que às vezes no Cinema é possível esc
 
 Aqui ele lamenta que, mesmo para o público comum, o cinema não é arte "de verdade", mas apenas uma tentativa de emular o teatro:
 
-> We have heard this message, or if it was not expressed in clear words it surely lingered for a long while in the minds of all those who had a serious relation to art. It probably still prevails today among many, even if they appreciate the more ambitious efforts of the photoplaywrights in the most recent years. The philanthropic pleasure in the furnishing of cheap entertainment and the recognition that a certain advance has recently been made seem to alleviate the esthetic situation, but the core of public opinion remains the same; the moving pictures are no real art. 
-
+> We have heard this message, or if it was not expressed in clear words it surely lingered for a long while in the minds of all those who had a serious relation to art. It probably still prevails today among many, even if they appreciate the more ambitious efforts of the photoplaywrights in the most recent years. The philanthropic pleasure in the furnishing of cheap entertainment and the recognition that a certain advance has recently been made seem to alleviate the esthetic situation, but the core of public opinion remains the same; the moving pictures are no real art.

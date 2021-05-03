@@ -1,9 +1,11 @@
 ---
-date: "2015-08-02"
-link: "https://www.imdb.com/title/tt0089606"
-categories: [ "movies" ]
-title: "Minha Vida de Cachorro"
+categories:
+- movies
+date: '2015-08-02'
+link: https://www.imdb.com/title/tt0089606
+title: Minha Vida de Cachorro
 ---
+
 Esse é um filme sueco da década de 80 que, cultural dessa sociedade ou não, prima pela beleza da pureza dos olhos de uma criança e ao mesmo tempo pode chocar os adultos e seus filtros morais. Por isso advirto: se quiser aproveitar de verdade esse filme, não se deixe levar por julgamentos levianos a respeito de sexualidade ou o politicamente correto que infecta nossa criatividade e nossas relações humanas. Veja com os mesmos olhos dessa pequena criança sueca e tudo estará bem.
 
 A vida do pequeno Ingemar (Anton Glanzelius) não é nada fácil. Tendo uma mãe doente e sem um pai presente, seu irmão mais velho até que não o perturba tanto, mas Ingemar já tem seus próprios problemas, sendo incapaz de beber um copo de leite na frente de outras pessoas. A visão do diretor Lasse Hallström prioriza os sentimentos de Ingemar e seus iguais, mas não deixa de levar em conta o quanto a impressão que o garoto tem dos adultos em sua volta é vital para seu amadurecimento.

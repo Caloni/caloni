@@ -1,10 +1,13 @@
 ---
-date: "2018-04-24"
-link: "https://www.imdb.com/title/tt4154756"
-categories: [ "draft", ]
-tags: [ "cinemaqui"  ]
-title: "Hype da Prévia de Vingadores: Guerra Infinita"
+categories:
+- draft
+date: '2018-04-24'
+link: https://www.imdb.com/title/tt4154756
+tags:
+- cinemaqui
+title: 'Hype da Prévia de Vingadores: Guerra Infinita'
 ---
+
 Apenas pelo fato de eu ter que olhar para o pôster que ganhei no tour com Chris Pratt em São Paulo para me lembrar do subtítulo do novo filme do Vingadores já demonstra que não sou desses nerds de HQs, games ou Cinema como plataforma de materialização de sonhos infanto-juvenis. Mas nada contra quem é. Muito pelo contrário. Foi de certa forma para mim um verdadeiro tour, no sentido literal da palavra, participar deste encontro com dezenas de miguxos e miguxas super-empolgadíssimos e extremamente catárticos em conferir a presença do ator e de uma enxurrada de YouTubers, e deixarem claro isso através de uma maré de aplausos que precediam e "pós-cediam" cada comentário mais engraçadinho ou revelador sobre o futuro da saga da Marvel nesta que eles chamam de terceira fase ou algo do gênero de seu universo cinemático.
 
 O ator e, de certa forma, comediante, Chris Pratt, tem uma presença de espírito invejável. Ele está adorando tudo isso. Pratt não alterou em praticamente nada sua persona nas telonas e telinhas. Me lembro de sua figura ligeiramente acima da média e competindo com Amy Poehler pelo timing cômico de maior impacto em Parks and Recreation, série televisiva em que ele começou com uma ponta e logo tinha mais de 20% das gags. Ele é uma figura e tanto, verdade seja dita, e assim como Robert Downey Jr. em Iron Man e Ryan Reinolds em Deadpool, Pratt é o kinder ovo de mais uma série que começou despretensiosa e mais uma vez jogou uma ventania de refrescância frente à mesmice dos filmes de rapazes e mocinhas de collant coloridos (ultimamente mais os rapazes).

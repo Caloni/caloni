@@ -1,10 +1,14 @@
 ---
-date: "2017-07-04"
-link: "https://www.imdb.com/title/tt5657776"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Fala Comigo"
+categories:
+- draft
+- movies
+date: '2017-07-04'
+link: https://www.imdb.com/title/tt5657776
+tags:
+- cinemaqui
+title: Fala Comigo
 ---
+
 Fala Comigo é um diálogo não apenas entre pessoas, mas entre diferentes máscaras da sociedade. Ele desafia de maneira incisiva nossos conceitos sobre o que é "normal" reinterpretando a realidade para dentro das portas de algumas casas.
 
 Estreia na direção do roteirista Felipe Sholl (Histórias que Só Existem Quando Lembradas, Campo Grande), a história vai sendo relevada aos poucos, e embora seja fácil de traduzir, o filme prefere ir revelando tudo visualmente, não havendo nunca a necessidade de diálogos expositivos. Dessa forma, o que inicia com um telefone que toca na tela preta termina com o barulho de um carro também no escuro, uma bobagem elegante. Em questão de segundos analisamos a vida perdida da quarentona Angela (Karine Teles) pela insistência em aguardar o retorno do seu marido, e que ainda que nunca ouvindo sua voz duas noites por semana se submete à humilhação de falar sozinha ao telefone.

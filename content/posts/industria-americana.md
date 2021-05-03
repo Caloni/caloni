@@ -1,10 +1,14 @@
 ---
-date: "2019-08-23"
-link: "https://www.imdb.com/title/tt9351980"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Indústria Americana"
+categories:
+- draft
+- movies
+date: '2019-08-23'
+link: https://www.imdb.com/title/tt9351980
+tags:
+- cinemaqui
+title: Indústria Americana
 ---
+
 Os bons momentos em "Indústria Americana", novo documentário da Netflix, são quando os diretores Steven Bognar e Julia Reichert se aprofundam em demonstrar as diferenças brutais entre as culturas chinesa e americana, momento em que finalmente começamos a entender (ou pensamos estar entendendo) o que está acontecendo com o mundo atual e de como ele veio a se tornar como está. E os maus momentos do filme, pra variar, provém da ignorância quase completa da complexa economia contemporânea que rege o mundo, um erro fatal quando se tenta analisar o modus operandi do capitalismo.
 
 Este é um filme que possui a imensa vantagem de ter acesso a momentos importantes de uma história interessantíssima envolvendo a abertura de uma fábrica de vidros para automóveis em Dayton, Ohio. Sim, esta é a mesma Dayton, Ohio, que figurou nas manchetes de todo o mundo este mês por conta de um tiroteio em massa, além de ser uma das cidades-líderes em criminalidade nos EUA. Qualquer coincidência é mera coincidência.

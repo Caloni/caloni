@@ -1,9 +1,12 @@
 ---
-date: "2016-02-19"
-link: "https://www.imdb.com/title/tt0060675"
-categories: [ "draft", "movies" ]
-title: "Masculino-Feminino"
+categories:
+- draft
+- movies
+date: '2016-02-19'
+link: https://www.imdb.com/title/tt0060675
+title: Masculino-Feminino
 ---
+
 Jean-Luc Godard, em plena década de 60, em um filme aparentemente biográfico, que funciona leve, sem lógica, mas com acontecimentos que não fogem da realidade, mas entram em nossa estranheza do incompreendido, das coincidências exóticas. Mas é uma época pulsante, com questões juvenis incompreendidas. Godard tinha minha idade quando o fez (36), e ele discute muito sobre o homem, a mulher, e os dois juntos.
 
 Há a bela Madeleine (Chantal Goya), entre outras, que o filme insiste em mostrar em planos-detalhe em meio a mesas nas esquisas dos cafés da França, barulhos de rua, pessoas indo e vindo. Sua relação com Paul (Jean-Pierre Léaud) é platônica, mas é motivo suficiente para que isso gere ciúmes de outras mulheres. Ao mesmo tempo temos jovens igualmente interessados em Madeleine. Paul é o principal, e a morte ronda ele. Ah, como ronda!

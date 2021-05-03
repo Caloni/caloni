@@ -1,10 +1,14 @@
 ---
-date: "2017-10-11"
-link: "https://www.imdb.com/title/tt4622512"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Guerra dos Sexos"
+categories:
+- draft
+- movies
+date: '2017-10-11'
+link: https://www.imdb.com/title/tt4622512
+tags:
+- cinemaqui
+title: A Guerra dos Sexos
 ---
+
 Guerra dos Sexos é uma viagem leve, mas não inconsequente, pelos fascinantes anos 70. Nessa viagem achamos um episódio na História igualmente fascinante que envolve tênis e feminismo. E se tênis é um embate de egos, o feminismo é um embate de forças. Forças essas que, se hoje encontramos um certo equilíbrio entre gêneros, naquele tempo eles ainda estavam por se formar.
 
 A heroína desta história é Billie Jean "King", a tenista no topo das competições e que lidera junto de sua agente um movimento contra a gritante diferença dos prêmios entre as categorias masculina e feminina no torneios. Iniciando uma nova liga com ajuda de patrocínio (e uma das aberrações da época era uma fábrica de cigarros patrocinar esportes) elas logo percebem que não precisam mais se sujeitar à visão do establishment (o establishment no caso são homens anos 60 fumando e bebendo em uma sala escura). Mas há questões ainda mais profundas, como a posição da mulher na sociedade e como a orientação sexual era um problema imensamente pior do que é hoje.

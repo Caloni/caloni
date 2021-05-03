@@ -1,9 +1,11 @@
 ---
-date: "2010-08-06"
-link: "https://www.imdb.com/title/tt1375666"
-categories: [ "movies" ]
-title: "A Origem"
+categories:
+- movies
+date: '2010-08-06'
+link: https://www.imdb.com/title/tt1375666
+title: A Origem
 ---
+
 Christopher Nolan, tanto como diretor como roteirista, tem o dom de traduzir para o espectador as experiências de seus personagens na tela. Vimos isso em Amnésia com a montagem invertida fazendo o papel do protagonista que não consegue se lembrar o que estava fazendo cinco minutos atrás. Em O Grande Truque as trucagens do roteiro são tão ágeis que se assemelham a um número de mágica bem conduzido. E agora em A Origem participamos de um exercício narrativo que consegue unir todas as ideias modernas a respeito dos sonhos, mas que ao mesmo tempo se deixa levar pela metalinguagem e faz uma sutil homenagem ao próprio Cinema.
 
 A história gira em torno de Cobb (Leonardo DiCaprio), um espião que rouba informações sigilosas das pessoas diretamente em seus subconscientes através de uma nova tecnologia que permite o compartilhamento dos sonhos. Até que ele recebe a proposta de fazer exatamente o oposto: inserir uma ideia dentro do consciente da pessoa, algo muito mais difícil de se fazer e que exige adentrar em camadas mais inferiores ainda do ser. Esse "último trabalho" traria de volta sua família, pois ele conseguiria voltar para o país onde estão os seus filhos. No entanto, o fantasma, ou as memórias, de sua mulher morta serão um problema constante no decorrer da missão.

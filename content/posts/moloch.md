@@ -1,9 +1,11 @@
 ---
-date: "2012-04-20"
-link: "https://www.imdb.com/title/tt0199777"
-categories: [ "movies" ]
-title: "Moloch"
+categories:
+- movies
+date: '2012-04-20'
+link: https://www.imdb.com/title/tt0199777
+title: Moloch
 ---
+
 Aleksandr Sokurov tem um estilo próprio para contar histórias. Quase sempre apostando na imersão do espectador pelos longos quadros e movimentos exóticos de seus personagens, muitas vezes a situação é propícia e gera grandes trabalhos (como [Mãe e Filho]), e em outras, como este Moloch, fica aquém do impressionante, mas mesmo assim é uma imersão que vale a pena ser vivida.
 
 Estamos diante de uma história que contém figuras históricas do nazismo que passam um fim-de-semana isolados em um castelo em cima de um monte onde nada pode-se ver abaixo a não ser uma névoa impenetrável. Nesse cenário podemos notar tanto a liberdade explícita do ambiente (como pode ser visto na primeira tomada, quando uma mulher desfila nua em torno das paredes externas do castelo) quanto a liberdade implícita contida na posição privilegiada daquelas figuras, no auge da Segunda Guerra Mundial. Vistos sempre em torno da névoa da região ou em aposentos quase sempre grandes demais e mal iluminados, representando com maestria tanto a privacidade quanto o aspecto obscuro de suas personalidades em torno da grandiosidade de seus atos (não aqui, historicamente).

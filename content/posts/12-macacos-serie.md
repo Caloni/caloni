@@ -1,9 +1,12 @@
 ---
-date: "2017-03-29"
-link: "https://www.imdb.com/title/tt3148266"
-categories: [ "draft", "series" ]
-title: "12 Macacos"
+categories:
+- draft
+- series
+date: '2017-03-29'
+link: https://www.imdb.com/title/tt3148266
+title: 12 Macacos
 ---
+
 Travelers e 12 Macacos parecem não conseguir compreender todo seu potencial. Enquanto Travelers cria uma "nova ideia" a respeito de viagens no tempo, mantém toda sua estrutura convenientemente sob controle de alguns limites estabelecidos apenas para isso. Já 12 Macacos mancha a reputação do filme homônimo, tornando a viagem no tempo não como um trauma vivido por Bruce Willis, que não consegue distinguir seus delírios da realidade, mas como um processo banal. Algo como ir na esquina.
 
 E no filme de Terry Gilliam o personagem de Willis era um prisioneiro de uma corporação liderada por cientistas que rivalizavam com os nazistas em usar humanos como cobaias para experimentos desesperados de uma tecnologia ainda extremamente arriscada -- e sentimos isso no longa, com toda a distorção de câmera, "fades" e trucagens eficientes. Aqui Cole é apenas "o escolhido", encontrado e trazido para o projeto porque alguém no passado falou seu nome.

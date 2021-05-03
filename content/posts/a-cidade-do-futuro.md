@@ -1,10 +1,14 @@
 ---
-date: "2018-04-17"
-link: "https://www.imdb.com/title/tt6182402"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Cidade do Futuro"
+categories:
+- draft
+- movies
+date: '2018-04-17'
+link: https://www.imdb.com/title/tt6182402
+tags:
+- cinemaqui
+title: A Cidade do Futuro
 ---
+
 Que trabalho lindo de direção este de A Cidade do Futuro. Ele guia seus atores não-atores para realizarem seus símbolos. Ele conta uma história sem precisar das falas. Em suma, ele não precisa do elenco para narrar, mas os utiliza como potência e movimento.
 
 Mas o movimento é meramente teórico. Não há atuações de fato, e o significado que extraímos de seus personagens ou é devido ao efeito Kuleshov, o teórico russo que há 100 anos descobre que a ordem na montagem das cenas muda o que sentimos por ela, ou é devido aos enquadramentos significativos da dupla de diretores, que não têm vergonha de soar tão basal em colocar um homem se ajoelhando em frente a uma mulher grávida e aceitando seu destino. Antes disso o mesmo homem rodeia a mulher em sua moto de maneira ameaçadora. Quer dizer, nós, espectadores, acreditamos ser ameaçador pela história que acompanhamos, de um triângulo amoroso entre pessoas que se amam mutuamente.

@@ -1,10 +1,14 @@
 ---
-date: "2019-03-20"
-link: "https://www.imdb.com/title/tt6690176"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Quando Margot Encontra Margot"
+categories:
+- draft
+- movies
+date: '2019-03-20'
+link: https://www.imdb.com/title/tt6690176
+tags:
+- cinemaqui
+title: Quando Margot Encontra Margot
 ---
+
 O que você faria se encontrasse sua versão do futuro, teoricamente mais velha e mais sábia, e ela começasse a lhe dar conselhos sobre o que fazer para acertar dessa vez na vida? Quando Margot Encontra Margot é um filme que explora essas possibilidades imaginárias sobre o nosso ser, mas se no começo abre-se um leque de para onde a história pode ir ela aos poucos vai se fechando em torno de algo mais enxuto que volta para o lugar-comum dos romances franceses.
 
 Esse lugar-comum diz respeito ao que uma mulher deve fazer para ser feliz. A jovem Margot (Agathe Bonitzer) está pulando de cama em cama, fazendo sexo casual com quem quer que encontre e ache bonitinho, ao mesmo tempo que desistindo de seu mestrado e de sua vida em Paris. Tudo muda quando ela encontra, vamos chamar, a madura Margot (Sandrine Kiberlain), que acaba de voltar do enterro da melhor amiga. Ela perdeu contato em algum lugar no passado e imaginamos que se arrependa, mas ela é uma pessoa, jovem ou velha, desajeitada demais para conseguir explicar seus sentimentos até para si mesma.

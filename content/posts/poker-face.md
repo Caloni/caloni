@@ -1,8 +1,11 @@
 ---
-date: "2014-05-06"
+categories:
+- draft
+- blog
+date: '2014-05-06'
 title: Poker Face
-categories: [ "draft", "blog" ]
 ---
+
 O segundo round da segunda fase do Code Jam passou nesse sábado. Disléxico que sou, consegui fazer apenas 8 pontos ¿ como todo mundo ¿ no teste small do problema B, que envolvia apenas dois loops aninhados (a versão large fica para outro post). Na verdade, estou aqui para expressar minha gratidão ao campeonato por ter aprendido mais uma bela lição vendo o código do primeiro colocado do primeiro round, vulgo [Kaizero](https://code.google.com/codejam/contest/2984486/scoreboard?c=2984486#vf=1), um coreano que deu uma solução simples, rápida e prática para um problema de probabilidade tão error-prone que até os juízes do Google deram uma lambuja de alguns testes errados (sem contar que houve apenas a categoria small), e me fez pensar em quantas vezes pensamos em demasiado tentando encontrar a solução perfeita para algo que simplesmente... não precisa.
 
 Basta um hack e [commit](http://pcottle.github.io/learnGitBranching/?NODEMO&defaultTab=remote&command=levels).
@@ -129,4 +132,3 @@ O que ele basicamente faz é acumular os resultados de três milhões de embaral
 [![Tabelona](http://i.imgur.com/oe3heEP.jpg)](/images/14123599874_2f3c14a3f6_z.jpg)
 
 Tão óbvio, tão simples, tão elegante.
-

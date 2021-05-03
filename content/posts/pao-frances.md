@@ -1,9 +1,13 @@
 ---
-date: "2019-12-29"
-categories: [ "draft", "food" ]
-tags: [ "recipes" ]
-title: "Pão Francês"
+categories:
+- draft
+- food
+date: '2019-12-29'
+tags:
+- recipes
+title: Pão Francês
 ---
+
 Tirado do vídeo do canal do YouTube Pão da Casa.
 
 500g de farinha (9 pães), 5g fermento seco, 50g fermento natural, 300ml de água (60%), 10g sal, 5g açúcar, 1 colher de chá de gordura.
@@ -17,4 +21,3 @@ Sovar por uns 15 min até ficar elástico. Descansar por 10 a 15 min. Após isso
  - 2020-04-13 Pela segunda vez fiz na versão recheada com calabresa e queijo (veja dicas acima). É muito bom, mas estraga mais rápido. Bom pra fazer em turma ou em tamanhos modestos.
  - 2020-04-05 Segunda fornada aprovada com sucesso. O segredo parece ser sovar direito por 15 minutos, ou usar farinha decente (T45).
  - 2019-12-29 Ficou quase perfeito, esqueci de cortar, mas a massa não ficou azeda e manteve o desenho da tensão da massa. Cresceu bem rápido. Próxima vez vou tentar deixar crescer mais para ficar maior e mais leve.
-

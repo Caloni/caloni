@@ -1,9 +1,12 @@
 ---
-date: "2016-01-09"
-link: "https://www.imdb.com/title/tt0362270"
-categories: [ "draft", "movies" ]
-title: "A Vida Marinha com Steve Zissou"
+categories:
+- draft
+- movies
+date: '2016-01-09'
+link: https://www.imdb.com/title/tt0362270
+title: A Vida Marinha com Steve Zissou
 ---
+
 A Vida Marinha e Terrestre por Wes Anderson. Esse é o diretor que brinca com cenários paralelos e movimentos geométricos de câmera e revela sem nenhum pudor a excentricidade de seus personagens. Do ponto de vista da narrativa, ele brinca também com eles -- seus personagens -- como curiosidades dignas de serem abertas e analisadas através da inteligência de seus idealizadores -- os atores -- e como a interação entre eles revela isso é o mais interessante em sua cinematografia.
 
 Dito isto, o fato desse roteiro ter sido escrito em conjunto com Noah Baumbach, um exímio manipulador de personagens com crises existenciais e pouca emoção (Frances Ha), bate de frente com a trama principal: seu protagonista, o oceanógrafo Steve Zissou (Bill Murray), vive uma crise de identidade ao descobrir que tem um filho de 30 anos (Owen Wilson) e que sempre foi em sua vida um mesquinho egoísta, levando toda sua equipe marítima por um caminho desenhado para projetar seu gigantesco ego por todas as partes do seu barco, seus filmes e sua própria filosofia. A maneira com que ele vai se dando conta de seu comportamento reprovável é através da perda de seu companheiro, Esteban (Seymour Cassel), comido por um tubarão raro. Planejando sua vingança contra o tubarão -- independente deste pertencer a uma espécie em extinção -- diferentes pessoas, cada um com seu grau de incompetência, organizará uma missão com duplo significado: desvendar uma farsa externa, a história da morte de seu amigo (que é visto com desconfiança pelo público e críticos de seu trabalho, sempre ansiosos pelo momento em que ele será desmascarado por seus filmes fajutos) e uma farsa interna, pois Zissou, e isso graças a Murray, acredita piamente ser tudo o que diz ser: um líder nato com uma equipe que o venera. Faz questão de filmar todos os momentos -- geralmente na segunda tentativa -- para demonstrar ao mundo como ele é, ou deveria ser.

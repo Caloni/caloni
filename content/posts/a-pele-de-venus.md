@@ -1,10 +1,13 @@
 ---
-date: "2015-09-16"
-link: "https://www.imdb.com/title/tt2406252"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Pele de Vênus"
+categories:
+- movies
+date: '2015-09-16'
+link: https://www.imdb.com/title/tt2406252
+tags:
+- cinemaqui
+title: A Pele de Vênus
 ---
+
 Finalmente chega no Brasil "A Pele de Vênus", filme de 2013 do diretor Roman Polanski e que lembra bastante Lua de Fel ao falar das complexidades da relação entre os sexos, principalmente sobre dominação de um sobre outro.
 
 Contando com apenas dois personagens e um cenário, o filme é um longo ensaio para a peça que o roteirista e diretor Thomas (Mathieu Amalric) escreveu como adaptação de um romance do século 19 que lida com o empoderamento da mulher (pelo menos em sua visão). Exausto após um dia de testes com candidatas, todas aquém da mulher que procura, o surgimento da magnética Vanda (Emmanuelle Seigner) no meio de uma tempestade inicia um mini-relacionamento simbólico de uma hora e meia de trama.

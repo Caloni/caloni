@@ -1,10 +1,14 @@
 ---
-date: "2016-03-31"
-link: "https://www.imdb.com/title/tt1663655"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Martyrs"
+categories:
+- draft
+- movies
+date: '2016-03-31'
+link: https://www.imdb.com/title/tt1663655
+tags:
+- cinemaqui
+title: Martyrs
 ---
+
 Martyrs, como todo terror que se preza, possui uma história bem simples. O que o torna envolvente é a sua forma de representar a insanidade humana, seja através da religião ou de uma ideologia qualquer que utilize o ser humano como objeto de sacrifício.
 
 Nesse sentido, ele é bem universal, o que, pelo menos em teoria, descartaria a necessidade desse remake norte-americano. Não vi o original, mas me parece que o único motivo de refilmar a produção francesa é a velha alergia que os americanos têm de legenda.

@@ -1,8 +1,11 @@
 ---
-date: "2017-06-27"
-categories: [ "draft", "reading" ]
-title: "Confirmation Theory: Hume's Refutation of Induction"
+categories:
+- draft
+- reading
+date: '2017-06-27'
+title: 'Confirmation Theory: Hume''s Refutation of Induction'
 ---
+
 Este recorte se trata da explicação do filósofo Michael Huemer sobre a "refutação" de Hume sobre indução. De acordo com Huemer, "Hume's 'refutation' of induction essentially goes as follows:"
 
 1. There are only three possible kinds of knowledge: (a) 'relations of ideas,' which are things that are true by definition, (b) direct observations, and (c) knowledge based on inductive reasoning, where an inductive inference is a generalization from experience. 

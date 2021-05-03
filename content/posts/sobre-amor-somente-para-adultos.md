@@ -1,10 +1,13 @@
 ---
-date: "2021-04-12"
-link: "https://www.imdb.com/title/tt7273648"
-categories: [ "movies", ]
-tags: [ "cinemaqui"  ]
-title: "Sobre Amor. Somente Para Adultos"
+categories:
+- movies
+date: '2021-04-12'
+link: https://www.imdb.com/title/tt7273648
+tags:
+- cinemaqui
+title: Sobre Amor. Somente Para Adultos
 ---
+
 Sobre Amor. Somente para Adultos. Um passeio bacaninha por alguns relacionamentos que parecem diferentões (não são) enquanto John Malkovich conduz sua palestra em Moscou sobre como a crescente enxurrada de divórcios ao redor do mundo, que só aumentam a cada ano, e o que fazer para manter o amor. Ah, esse amor idealizado. O amor é de fato hoje em dia essa coisa fluida profetizada por um sociólogo famoso cujo nome não lembro, mas vou pesquisar depois. Zygmunt Bauman. Essa internet decepciona menos os seres humanos do que sua busca por amor.
 
 Apesar de flertar com amor livre, esse filme dirigido e escrito a várias mãos flerta com a pegada libertária de algumas séries de streaming como Easy, Modern Love, Wanderlust, entre outros. Porém, sua abordagem é mais popular, menos agressiva. Tem uma edição datada. As histórias do filme são cômicas de propósito, para trazer essa leveza. Sempre há um número musical de um artista famoso tocando, o artista faz uma participação video-clipe e a mesma montagem de divisão de tela acontece. A letra da música é genérica, mas fala de amor.

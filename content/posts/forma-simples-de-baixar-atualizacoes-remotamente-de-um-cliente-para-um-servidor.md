@@ -1,9 +1,11 @@
 ---
-date: "2017-03-23"
-title: "Forma simples de baixar atualizações remotamente de um cliente para um servidor"
-categories: [ "draft", "blog" ]
-
+categories:
+- draft
+- blog
+date: '2017-03-23'
+title: Forma simples de baixar atualizações remotamente de um cliente para um servidor
 ---
+
 A forma mais simples e independente de código para efetuar essa tarefa para Windows é no servidor subir um file server em qualquer porta disponível, e a forma de file server mais simples que existe é o embutido em qualquer instalação Python:
 
 ```cmd
@@ -94,4 +96,3 @@ c:\Temp\bitforge\wget>
 ```
 
 E assim com poucas linhas de código já é possível iniciar um client/servidor via http que fornece arquivos de atualização. A própria versão do pacote e detalhes podem estar disponíveis na mesma pasta.
-

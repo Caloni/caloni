@@ -1,10 +1,14 @@
 ---
-date: "2018-03-29"
-link: "https://www.imdb.com/title/tt3563262"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Submersão"
+categories:
+- draft
+- movies
+date: '2018-03-29'
+link: https://www.imdb.com/title/tt3563262
+tags:
+- cinemaqui
+title: Submersão
 ---
+
 Submersão é a volta do diretor Win Wenders para o circuito mais comercial após sua experimentação com Os Belos Dias de Aranjuez. Aqui ele mostra como um romance adaptado (J.M. Ledgard) consegue ser bem feito quando o autor entende as motivações por trás dos seus personagens. Primeira adaptação do roteirista Erin Dignam, ele constrói uma narrativa até que padrão, e mesmo assim o resultado varia entre interessante a fascinante em vários momentos.
 
 Boa parte disso é graças à dupla de atores Alicia Vikander e James McAvoy, que com poucas mas poderosas falas ("isso é outro mundo dentro de nosso mundo", "a solução para seus problemas é o que eles têm de mais lindo: acreditar em algo") conseguem resumir seus valores um para o outro sem soar cafona, mas pertinente à profissão de cada um, além de apresentar uma química invejável desde o primeiro momento. Tanto que no segundo e terceiro ato, quando não mais estão juntos, é como se ainda estivessem. Sentimos suas lembranças, que se tornam mais fortes (quando as ouvimos e vemos) conforme a situação em que cada um se encontra se torna cada vez pior.

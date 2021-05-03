@@ -1,9 +1,12 @@
 ---
-date: "2015-12-29"
-link: "https://www.imdb.com/title/tt0023427"
-categories: [ "draft", "movies" ]
-title: "Scarface: A Vergonha de uma Nação"
+categories:
+- draft
+- movies
+date: '2015-12-29'
+link: https://www.imdb.com/title/tt0023427
+title: 'Scarface: A Vergonha de uma Nação'
 ---
+
 Antes que me perguntem, gosto das duas performances de Scarface no Cinema. Al Pacino é um cubano crível e o roteiro de Oliver Stone dá tempo para vermos o personagem maturar em sua ascenção e declínio como rei do crime. Não dá para fingir que ele não se inspirou, pelo menos levemente, na performance do filme original. Porém, grande ator que é, Pacino consegue sempre impregnar de naturalidade seus personagens.
 
 Dito isto, o Tony de Paul Muni consegue ser muito mais coeso em um roteiro muito mais enxuto. Não vemos sua evolução desde o "não ter onde cair morto", pois ele já mantém um relacionamento próximo de Johnny Lovo, o mafioso para quem trabalha na venda de bebidas ilegais e que controla parte da região sul da cidade. O relacionamento de Tony com o amigo Rinaldo também é visto meramente de passagem, embora no terceiro ato seja primordial, quando seu ciúmes incontrolável da irmã (Ann Dvorak) ganha contornos trágicos. Enfim, há detalhes que o filme de 83 amplicou, o que o torna mais rebuscado. Porém, estamos falando basicamente da mesma história e mesmos personagens.

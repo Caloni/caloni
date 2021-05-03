@@ -1,8 +1,11 @@
 ---
-date: "2016-08-12"
-categories: [ "code", "draft",  ]
-title: "Vídeo: Depurando código C++ no Visual Studio"
+categories:
+- code
+- draft
+date: '2016-08-12'
+title: 'Vídeo: Depurando código C++ no Visual Studio'
 ---
+
 Olá de novo. Este é o segundo vídeo da série "o que que eu tô fazendo no YouTube?". Dessa vez abri o Visual Studio para depurar um código de 10 linhas com um bug absurdamente absurdo, mas que pode enganar muita gente. Há quem acredite que esse bug foi proposital, mas não foi. O importante é que ficou muito legal. Vamos ver?
 
 https://www.youtube.com/embed/TpTNMj7ngc

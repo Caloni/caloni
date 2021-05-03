@@ -1,10 +1,14 @@
 ---
-date: "2018-08-01"
-link: "https://www.imdb.com/title/tt5126274"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Animal Cordial"
+categories:
+- draft
+- movies
+date: '2018-08-01'
+link: https://www.imdb.com/title/tt5126274
+tags:
+- cinemaqui
+title: O Animal Cordial
 ---
+
 O Animal Cordial é um laboratório humano. Seu título já é uma contradição em termos, e durante todos os tensos 93 minutos do filme vamos encontrando o animal dentro do homem, mas nunca o cordial. Isso porque vivemos em tempos estranhos, onde a imaginação sobre o ódio atinge níveis utópicos, e nos transforma em indivíduos lutando por um espaço.
 
 O laboratório em questão fica em um restaurante no final da noite que está prestes a fechar. Você sabe a cena. Funcionários ansiosos para ir embora, porque nunca quiseram estar lá em primeiro lugar (enxergamos apenas o chefe que retruca, não o trabalhador que não trabalha). O último cliente logo viram três, quando chega um casal sem a menor pressa e com todos os estereótipos de pedantismo adaptado para tupiniquim em dia, incluindo o dom inexplicável do cliente que quer provar que conhece mais dos vinhos servidos pela casa do que o próprio dono.

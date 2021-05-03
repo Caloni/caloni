@@ -1,9 +1,11 @@
 ---
-date: "2017-01-17"
-title: "Warning de nível 4"
-categories: [ "draft", "blog" ]
-
+categories:
+- draft
+- blog
+date: '2017-01-17'
+title: Warning de nível 4
 ---
+
 Você já colocou aquele seu projeto favorito em /W4? Por padrão, o Visual Studio cria seus projetos com o nível de warnings e 3, porque o nível 4 é muito, muito chato. No entanto, algumas vezes ele serve para que seu código não fique apenas correto, mas bem documentado e apresentável. Vamos tentar?
 
 ```log

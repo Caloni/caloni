@@ -1,9 +1,12 @@
 ---
-date: "2016-11-17"
-link: "https://www.imdb.com/title/tt3531824"
-categories: [ "draft", "movies" ]
-title: "Nerve: Um Jogo Sem Regras"
+categories:
+- draft
+- movies
+date: '2016-11-17'
+link: https://www.imdb.com/title/tt3531824
+title: 'Nerve: Um Jogo Sem Regras'
 ---
+
 Black Mirror é uma série que realiza com sucesso uma crítica à tecnologia atual e em um futuro próximo (e talvez distópico). E ela faz isso em episódios de uma hora, que de acordo com alguns espectadores da Netflix, é "tempo demais para contar uma história tão simples". Pois bem. Nerve vem à tona como uma versão para jovens em um longa metragem que tem tempo demais de tela para uma história boba e imprevisível porque, no fundo, ninguém se importa com o destino de seus rasos personagens.
 
 Utilizando cortes rápidos, uma trilha sonora enérgica e uma fluidez admirável na direção, o filme escrito a duas mãos conta a história de um jogo de internet que não pode ser parado enquanto tiver observadores o suficiente e que consiste basicamente em uma versão hardcore de "truth or dare" com apenas "dare" e seguidores dos poucos corajosos que são movidos pela fama e pelo dinheiro fácil que ganham ao completar cada nova prova escolhida pelos seus próprios admiradores. As provas variam de "beijar um desconhecido" a "correr em uma moto a 90km por hora de olhos vendados", piorando cada vez um pouco a cada nova fase.

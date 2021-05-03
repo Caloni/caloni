@@ -1,8 +1,10 @@
 ---
-date: "2007-09-04"
-categories: [ "code" ]
-title: "História do Windows - parte 4.0"
+categories:
+- code
+date: '2007-09-04'
+title: História do Windows - parte 4.0
 ---
+
 Em meio a uma febre de consumismo, no dia 24 de agosto de 1995, foi lançado a revolução no sistema gráfico da Microsoft: a interface do Windows 95. Ela foi considerada muito mais amigável que suas versões anteriores. Ainda possuía a vantagem de não necessitar mais de uma instalação prévia do DOS, passou a suportar nomes de arquivos longos, incluir suporte a TCP/IP e dial-up networking integrados. Muitas mudanças foram feitas no sistema em si, como a passagem para 32 bits (como já vimos, parcial) e o novo conceito de threads, que é o que veremos com mais detalhes neste artigo.
 
 ![Desktop do Windows 95](/img/windows_95.png)

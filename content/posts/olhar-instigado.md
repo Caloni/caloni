@@ -1,9 +1,13 @@
 ---
-date: "2017-02-23"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Olhar Instigado"
+categories:
+- draft
+- movies
+date: '2017-02-23'
+tags:
+- cinemaqui
+title: Olhar Instigado
 ---
+
 Nos primeiros minutos de Olhar Instigado é possível perceber um controle narrativo que parece determinar com precisão qual será o tom no filme inteiro. Será um filme com movimento, cortes rápidos, montagem fluida e trilha sonora empolgante. Para um documentário isso já é muito mais que o medíocre esquema de pessoas sentadas falando.
 
 Porém, além da competência técnica da dupla de diretores Guilherme Moraes e Chico Gomes e seus respectivos protagonistas da vida real Alexandre Orion, Bruno Locuras e André Monteiro (sem contar seu excelente montador, Oswaldo Santana), este é um filme que promete entregar, não apenas como seu título sugere ou promete, um olhar instigado (e consequentemente instigante) sobre a megalópole São Paulo, maior cidade do Brasil e uma das maiores do mundo, mas também ideias instigantes, que vão além do senso comum.

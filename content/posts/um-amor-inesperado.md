@@ -1,10 +1,14 @@
 ---
-date: "2019-03-02"
-link: "https://www.imdb.com/title/tt8405810"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Um Amor Inesperado"
+categories:
+- draft
+- movies
+date: '2019-03-02'
+link: https://www.imdb.com/title/tt8405810
+tags:
+- cinemaqui
+title: Um Amor Inesperado
 ---
+
 Um Amor Inesperado, apesar de ser falado em espanhol, apesar de ser argentino, apesar de ter Ricardo Darín, é, antes de tudo, uma comédia romântica. E que muito se aproxima das hollywoodianas, daquelas que não possuem profundidade o suficiente para fazer pensar sobre relacionamentos como algo mais geral, mais reflexivo. O maior erro em ver esse filme é supor que por conta de ser cinema argentino com Darín deve ser algo muito acima da média.
 
 Mas como comédia romântica ele diverte, é bem feito e tem personagens cativantes. Ou quase. Lidando com uma crise de meia-idade de um casal de pais que se despede do filho indo morar longe para fazer a faculdade, o filme simplifica todo o processo a ponto de se tornar insosso acompanhar essas pessoas, mas como elas são interpretadas por Darín e Mercedes Morán há algo magnético em descobrirmos para onde irá a vida desses dois depois de se separarem. Eles parecem "gente como a gente" e isso nos aproxima de seus dramas pessoais.

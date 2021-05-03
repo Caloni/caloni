@@ -1,8 +1,11 @@
 ---
-date: "2012-06-04"
-categories: [ "code", "draft",  ]
-title: "Meus repositórios no GitHub"
+categories:
+- code
+- draft
+date: '2012-06-04'
+title: Meus repositórios no GitHub
 ---
+
 Depois de vacilar por alguns meses, incentivado pelo meu amigo Chico Pimenta, resolvi experimentar o tal do GitHub, e consequentemente o sistema de controle de fontes distribuído Git, que antes era meio exclusivo do Linux (continua meio sendo, mas com suporte um pouco melhor para Windows).
 
 Com isso, dei uma pequena lida no livro de introdução e comecei a migrar meus fontes perdidos num canto do HD. O que notei de vantagem com relação a outros DRCSs foi que é muito fácil e rápido criar branches e que a comunicação remota e os commits são feitos de uma maneira mais organizada e estruturada, além da própria estrutura interna do repositório ser muito simples de entender: um bando de arquivos compactados cujo nome é o hash do que ele contém.
@@ -14,4 +17,3 @@ Meus  repositórios estão armazenados em alguns branches que distribuí de ac
   * Caloni. Os códigos que fazem algo de útil, como o Houaiss2Babyulon, CopiaExata e DayToDay.
   * Book. Um projeto em estado de larva sobre escrever um livro de engenharia reversa. Já possui um índice básico. Sugestões são bem-vindas.
   * DriverEntry. Códigos do curso de desenvolvimento de drivers que estou fazendo com o Fernando, da DriverEntry Company. Recomendo!
-

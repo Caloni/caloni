@@ -1,8 +1,10 @@
 ---
-date: "2014-12-01"
-link: "https://www.imdb.com/title/tt2164430"
-categories: [ "draft", "series" ]
-title: "Diário de um Jovem Médico"
+categories:
+- draft
+- series
+date: '2014-12-01'
+link: https://www.imdb.com/title/tt2164430
+title: Diário de um Jovem Médico
 ---
 
 É epoca da revolução! Todos querem lutar, mas nem todos podem. Em um hospital russo perdido no meio da neve um jovem recém-formado médico, conhecido como "Doutor" (Daniel Radcliffe), descobre que tudo que aprendeu nos livros não serve de muita coisa quando a vida e a morte diariamente estão em suas mãos. O mesmo Doutor, décadas depois (Jon Hamm), está tendo problemas com a justiça por conta do seu vício em morfina. Ciente de que estragou sua vida pela droga ele convive com seu eu do passado e tenta convencê-lo a não se viciar, além de ajudá-lo a lidar com os problemas que ele já havia lidado quando era mais jovem, pois era ele mesmo (?!)

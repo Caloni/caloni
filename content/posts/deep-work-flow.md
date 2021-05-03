@@ -1,8 +1,11 @@
 ---
-date: "2019-05-09"
-categories: [ "draft", "reading" ]
-title: "Deep Work => Flow"
+categories:
+- draft
+- reading
+date: '2019-05-09'
+title: Deep Work => Flow
 ---
+
 (Deep Work) => Flow - A proven Path to Satisfaction, de Robin Wieruch, é um resumo valioso de dois livros, um sobre deep work e outro sobre flow, e como ambos se relacionam. Robin é um programador e também leu On Writing Well (ele possui algumas notas sobre essa leitura também).
 
  - Professional activities performed in a state of distraction-free concentration that push you cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.
@@ -36,4 +39,4 @@ title: "Deep Work => Flow"
  - When experience is intrinsically rewarding life is justified in the present, instead of being held hostage to a hypothetical future gain." 
  - "The autotelic individual grows beyond the limits of individuality by investing psychic energy [attention] in a system in which she is included. Because of this union of the person and the system, the self emerges at a higher level of complexity." 
  - "Flow drives individuals to creativity and outstanding achievement. The necessity to develop increasingly refined skills to sustain enjoyment is what lies behind the evolution of culture." 
- - "If you give your mind something meaningful to do throughout all your waking hours, you'll end the day more fulfilled, and begin the next one more relaxed []" by Cal Newport. 
+ - "If you give your mind something meaningful to do throughout all your waking hours, you'll end the day more fulfilled, and begin the next one more relaxed []" by Cal Newport.

@@ -1,9 +1,12 @@
 ---
-date: "2015-12-27"
-link: "https://www.imdb.com/title/tt0245429"
-categories: [ "draft", "movies" ]
-title: "A Viagem de Chihiro"
+categories:
+- draft
+- movies
+date: '2015-12-27'
+link: https://www.imdb.com/title/tt0245429
+title: A Viagem de Chihiro
 ---
+
 A Viagem de Chihiro é um passeio fantasioso sem ser infantil pelo mundo dos espíritos, onde a história importa menos do que o mundo criado para ela, tal qual um Senhor dos Anéis ou Star Wars.
 
 Tanto poder na trilha sonora a torna uma sinfonia, ganha corpo independente, mas ao mesmo tempo transforma o filme em uma ópera em espírito. Como vários dos Estúdios o desenho possui detalhes que o faz ganhar vida, como a diferença entre a casa de banho e a casa de sua dona.

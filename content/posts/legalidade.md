@@ -1,10 +1,14 @@
 ---
-date: "2019-08-31"
-link: "https://www.imdb.com/title/tt6682820"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Legalidade"
+categories:
+- draft
+- movies
+date: '2019-08-31'
+link: https://www.imdb.com/title/tt6682820
+tags:
+- cinemaqui
+title: Legalidade
 ---
+
 Assistir Legalidade gera sentimentos conflitantes sobre este filme que tenta unir o estilo novelesco com drama político e vai além, abordando outros temas, como filme de espionagem e revisionismo histórico. Com todas essas pretensões fica fácil descobrir por que o resultado deu errado, mas não se trata de um filme completamente descartável, pois há momentos que nos surpreendem por serem tão necessários à filmografia brasileira atual quanto teriam sido para a democracia brasileira aqueles conturbados 14 dias de sucessão presidencial de 1961.
 
 Antes, vamos aos elogios: se há algo que se mantém firme e forte nos melhores momentos do filme de Zeca Brito é o seu design de som. Trabalhado por uma equipe encabeçada por nada menos que cinco pessoas, ele une uma evocação ao patriotismo brasileiro, restaurando um hino de protesto em formato de trilha sonora, com nossas raízes guerreiras, latinas ou indígenas, na busca por uma identidade nacional. É pelo som que podemos perceber que há um ótimo filme querendo surgir.

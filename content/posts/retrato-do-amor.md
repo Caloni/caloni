@@ -1,10 +1,14 @@
 ---
-date: "2019-08-06"
-link: "https://www.imdb.com/title/tt7778680"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Retrato do Amor"
+categories:
+- draft
+- movies
+date: '2019-08-06'
+link: https://www.imdb.com/title/tt7778680
+tags:
+- cinemaqui
+title: Retrato do Amor
 ---
+
 Sabe aquelas sensações perdidas em um mundo onde as pessoas vivem correndo de um canto para o outro e não têm tempo para apreciar uma tarde quente, ensolarada e movimentada no Portão de Mumbai? Retrato do Amor é um trabalho sensível do diretor indiano Ritesh Batra porque resgata isso para nossos olhos, mentes e corações.
 
 É simbólico que a história comece justo no Portão de Mumbai. Conhecido como a porta de entrada do Ocidente para um mundo exótico, ainda é o centro das idas e vindas de um povo organizado em infinitas vilas que se espalham por centenas de quilômetros continente adentro. Se um taxista encontra um passageiro que veio de uma vila a 40 kms de distância da sua, ele é considerado vizinho. "Eu poderia ir tomar chá em sua casa e voltar no mesmo dia."

@@ -1,9 +1,12 @@
 ---
-date: "2020-12-12"
-link: "https://www.imdb.com/title/tt0345061"
-categories: [ "draft", "movies" ]
-title: "Código 46"
+categories:
+- draft
+- movies
+date: '2020-12-12'
+link: https://www.imdb.com/title/tt0345061
+title: Código 46
 ---
+
 Tudo começa com uma descrição em texto: no futuro não vai poder comer sua prima. Mais ou menos. Tem a ver com as pessoas serem concebidas in vitro e ter muito copy & paste (futuro Stack Overflow Sex Edition?). Então o DNA dos pais não pode ser idêntico senão vai dar ruim. Pra não dar ruim inventam esse código 46 pra abortar a operação. O número sugere ser a soma de dois grupos de 23 cromossomos, mas eles falam em genes e DNA o tempo todo. Eu que sou leigo vou me calar.
 
 Mas nesse futuro distópico as pessoas falam pedaços da frase em espanhol, chinês, japonês, francês. O principal é inglês para os atores não precisarem aprender muita coisa nova. É muito estranha essa tentativa de futuro meio Blade Runner com a globalização e os chinas se espalhando pelo mundo.

@@ -1,8 +1,11 @@
 ---
-date: "2008-07-16"
+categories:
+- draft
+- code
+date: '2008-07-16'
 title: O caso da função de Delay Load desaparecida
-categories: [ "draft", "code" ]
 ---
+
 Todos os projetos do Visual Studio 6 estavam compilando normalmente com a nova modificação do código-fonte, uma singela chamada a uma [função](http://msdn.microsoft.com/en-us/library/aa366012(VS.85).aspx) da DLL **iphlpapi.dll**. No entanto, ainda restava a compilação para Windows 95, um legado que não era permitido esquecer devido ao parque antigo de máquinas e sistemas operacionais de nossos clientes.
 
 Ora, acontece que a função em questão não existe em Windows 95! O que fazer?

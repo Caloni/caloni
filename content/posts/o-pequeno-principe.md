@@ -1,10 +1,13 @@
 ---
-date: "2015-08-29"
-link: "https://www.imdb.com/title/tt1754656"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Pequeno Príncipe"
+categories:
+- movies
+date: '2015-08-29'
+link: https://www.imdb.com/title/tt1754656
+tags:
+- cinemaqui
+title: O Pequeno Príncipe
 ---
+
 Algumas pequenas obras de arte vestem tão bem sua roupagem temática que conseguem pegar, por exemplo, um velho livro infantil, já amado e idolatrado por todos, até com filmografia já pronta, e ainda assim atualizar, expandir e enriquecer sua história, seu mundo e seus complicados conceitos. Mais uma vez. Uma atitude das mais nobres, diga-se de passagem, já que consegue nos remeter ao problema atual do amadurecimento precoce de nossas crianças, além de se encaixar na tendência mundial contra a padronização de comportamento.
 
 É assim que vejo o novo trabalho de Mark Osborne, um cineasta que vem mantendo um currículo invejável por sua flexibilidade. Osborne esteve envolvido em curtas bem-sucedidos de animação, como as sequências de Bob Esponja e o live-action More, este último indicado ao Oscar; Osborne também dirigiu uma uma comédia em longa-metragem chamada Dropping Out e o longa blockbuster em animação Kung-Fu Panda. Além disso, trabalhou em diferentes funções em outros filmes, como atuação e direção de arte. Portanto, para um roteiro que mistura diferentes "mundos" em animação e que contém uma suspensão de descrença tão ambiciosa que colocaria tudo a perder para um profissional menos eclético, ainda que competente, Osborne é a escolha certeira.

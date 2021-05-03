@@ -1,9 +1,11 @@
 ---
-date: "2012-02-15"
-link: "https://www.imdb.com/title/tt2231505"
-categories: [ "movies" ]
-title: "Selkirk el verdadero Robinson Crusoe"
+categories:
+- movies
+date: '2012-02-15'
+link: https://www.imdb.com/title/tt2231505
+title: Selkirk el verdadero Robinson Crusoe
 ---
+
 Impressionante essa animação argentina sobre o livro de Robinson Crusoé que, salvo alguns momentos difíceis tecnicamente, possui efeitos e direção dignos de outras produções mas conhecidas, como Wallace e Gromit (que também estreia recentemente com um filme de piratas).
 
 Porém, melhor que os efeitos é a história, que além de seguir fielmente o espírito do livro não apela para piadas fora de contexto tão comuns em filmes infantis, além de não tentar suavizar por demasiado temas potencialmente impactantes, como morte (incluindo suicídio) e motim.

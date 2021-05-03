@@ -1,9 +1,12 @@
 ---
-date: "2015-12-17"
-link: "https://www.imdb.com/title/tt3302820"
-categories: [ "draft", "movies" ]
-title: "Cowspiracy: The Sustainability Secret"
+categories:
+- draft
+- movies
+date: '2015-12-17'
+link: https://www.imdb.com/title/tt3302820
+title: 'Cowspiracy: The Sustainability Secret'
 ---
+
 Se você pensou "esse é mais um daqueles documentários sobre conspirações em torno de algo polêmico como deixar de comer carne", parabéns. Você está 50% certo. Porém, se você também pensou que esse pode ser um filme que faz pensar em pelo menos alguma coisa a respeito de sustentabilidade, você já acertou mais da metade do filme.
 
 Dirigido pela dupla de novatos Kip Andersen e Keegan Kuhn, o filme entrega no começo um caminhão de números, estatísticas e proporções da relação com o que os seres humanos consomem de alimento de origem animal e o quanto consomem por causa disso de terras férteis, destruindo florestas e produzindo gases responsáveis pelo efeito estufa. Tudo isso em uma escala muito maior que todos os meios de transporte que usam queima de combustível fóssil. Surpreso? Espere até ver que o documentarista procurou diversas organizações ambientalistas e descobriu que eles não poderiam respondê-lo ou sequer atendê-lo (Greenpeace) a respeito do uso indiscriminado da agropecuária.

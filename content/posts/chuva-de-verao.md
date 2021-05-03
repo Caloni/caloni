@@ -1,9 +1,12 @@
 ---
-date: "2019-07-01"
-link: "https://www.imdb.com/title/tt0287645"
-categories: [ "draft", "movies" ]
-title: "Chuva de Verão"
+categories:
+- draft
+- movies
+date: '2019-07-01'
+link: https://www.imdb.com/title/tt0287645
+title: Chuva de Verão
 ---
+
 O DVD da quinta é um trabalho intimista, que usa a linguagem cinematográfica para nos absorver através de seu tom em um álbum de músicas dessa família "perfeita". Mas desde o começo é um filme niilista, ou sobre o paraíso perdido da vida em família. Estamos no paraíso, mas ele é vazio de alma. Suas cores estão drenadas, e por mais que esta seja uma das trilhas sonoras neo-zeolandesas mais belas e escolhidas e dedo para cada cena, quanto mais belo mais acusa uma nostalgia sobre uma vida que não existe. Está nas coisas que vemos, mas não nas pessoas, que não vivem. Flutuam sobre o nada.
 
 Os pais estão se separando. A mãe está saindo com o vizinho. O pai não liga. A filha pré adolescente não se encaixa em sua idade, amadurece muito cedo, e será testemunha da impossibilidade de seu irmãozinho mais novo alcançar o ideal da felicidade.

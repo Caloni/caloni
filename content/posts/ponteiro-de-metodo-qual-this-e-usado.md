@@ -1,8 +1,10 @@
 ---
-date: "2007-11-07"
-title: "Ponteiro de método: qual this é usado?"
-categories: [ "code" ]
+categories:
+- code
+date: '2007-11-07'
+title: 'Ponteiro de método: qual this é usado?'
 ---
+
 Depois de publicado o artigo anterior sobre ponteiros de métodos surgiu uma dúvida muito pertinente do autor do blogue [CodeBehind](http://codebehind.wordpress.com/), um escovador de bits disfarçado de programador .NET: qual objeto que vale na hora de chamar um método pelo ponteiro?
 
 Isso me estimulou a desdobrar um pouco mais os mistérios por trás dos ponteiro de métodos e de membros, e descobrir os detalhes mais ocultos desse lado esotérico da linguagem.

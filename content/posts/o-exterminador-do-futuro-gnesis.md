@@ -1,9 +1,11 @@
 ---
-date: "2015-10-16"
-link: "https://www.imdb.com/title/tt1340138"
-categories: [ "movies" ]
-title: "O Exterminador do Futuro: Gênesis"
+categories:
+- movies
+date: '2015-10-16'
+link: https://www.imdb.com/title/tt1340138
+title: 'O Exterminador do Futuro: Gênesis'
 ---
+
 Diferente dos outros dois filmes anteriores, Genesys resolve homenagear a saga original revendo as cenas clássicas do filme de 1984, refilmando-as com menos charme, e entregando novas reviravoltas. Como tradição, inova o modelo T-800, mais uma vez trazendo uma novidade da época, a nanotecnologia. Não se saindo tão mal quanto o terceiro filme, mas impedindo qualquer empatia do público com essas novas versões de Sarah Connor, Kyle Reese, John Connor e Terminator, sua "sacada genial" é revelada no meio da história, e para os que tiveram a sorte de não assistir nenhum trailer e não ver nenhum pôster, pode até ser uma surpresa, mas surpresas não necessariamente tornam um filme melhor, e nesse caso temos o efeito contrário.
 
 Não adianta nem tentar entender a história em sua cronologia, pois a partir do momento que várias linhas do tempo convergem e competem entre si nada faz muito sentido. Passado e futuro são recriados ao bel prazer do roteiro desnecessariamente confuso da dupla Laeta Kalogridis e Patrick Lussier, e o filme do diretor televisivo Alan Taylor soa televisivo do começo ao fim, e tal como em séries de TV repetitivas, traz Arnold Schwarzenegger repetindo seu papel como um guardião em diferentes participações que fazem as homenagens esperadas, além da frase "venha comigo se quiser viver", dita por vários personagens ao longo da série.

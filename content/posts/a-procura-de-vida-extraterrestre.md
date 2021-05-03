@@ -1,8 +1,10 @@
 ---
-date: "2009-07-20"
-categories: [ "blog" ]
-title: "À procura de vida extraterrestre"
+categories:
+- blog
+date: '2009-07-20'
+title: À procura de vida extraterrestre
 ---
+
 Faz uns bons dez anos que eu instalei pela primeira vez em meu Pentium 133 MHz o seti@home, um programinha que se propunha a localizar vida extraterrena através de emissões de rádio capturadas pelas nossas potentes antenas de Arecibo. Ele dizia fazer isso durante o tempo ocioso do meu processador. Como eu sou uma pessoa que costuma costumava confiar bastante nas pessoas, além de ser fã incondicional do filme Contato, instalei sem medo.
 
 Algum tempo se passou e hoje volto a instalar o mesmo programa, agora envolto em um invólucro de programas de mesmo teor chamado Boinc, que junta todas essas redes de trabalho em equipe. O computador é usado hoje em dia para diversos trabalhos que exigem um certo esforço no processamento que torna proibitivo alocar máquinas somente para isso (se não impossível do ponto de vista geográfico).

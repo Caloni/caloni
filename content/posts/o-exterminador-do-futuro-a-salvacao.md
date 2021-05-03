@@ -1,10 +1,14 @@
 ---
-date: "2019-11-17"
-link: "https://www.imdb.com/title/tt0438488"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Exterminador do Futuro: A Salvação"
+categories:
+- draft
+- movies
+date: '2019-11-17'
+link: https://www.imdb.com/title/tt0438488
+tags:
+- cinemaqui
+title: 'O Exterminador do Futuro: A Salvação'
 ---
+
 Este é o quarto da série de filmes em que humanos e máquinas estão brigando, desde 1984, e de certa forma a primeira continuação aguardada. Se considerarmos o final de A Rebelião das Máquinas, onde o fraco John Connor interpretado por Nick Stahl é acompanhado por sua futura esposa, Kate Brewster, para um abrigo anti-nuclear horas após as máquinas controladas pela rede Skynet destruíssem boa parte da raça humana e iniciassem uma guerra sem precedentes, O Exterminador do Futuro: A Salvação é um filme previsto há décadas nos roteiros anteriores de James Cameron, Gale Anne Hurd e William Wisher.
 
 Agora Connor está onde todos esperassem que ele estivesse: liderando a Resistência contra as máquinas. E por isso mesmo seu papel é entregue a um ator com mais presença de tela como Christian Bale, que emagrece entre um Batman e outro para fazer o carismático mas abatido líder que constrói empatia entre os sobreviventes do massacre articulado pelas máquinas através de discursos visionários sobre um futuro em que a humanidade irá vencer. Connor demonstra uma certeza absoluta disso e é visto como profetas pela massa, apesar de charlatão pelo alto comando dos militares restante. Este Connor é uma versão retroalimentada pela história contida nos filmes de 1984 e 1991, pois recebeu instruções de sua mãe, Sarah, sobre o que estava por vir, instruções essas que não existiriam se seu filho não enviasse seu próprio pai para salvá-la desde o princípio da história.

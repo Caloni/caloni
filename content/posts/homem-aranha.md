@@ -1,9 +1,11 @@
 ---
-date: "2015-07-28"
-link: "https://www.imdb.com/title/tt0145487"
-categories: [ "movies" ]
-title: "Homem-Aranha"
+categories:
+- movies
+date: '2015-07-28'
+link: https://www.imdb.com/title/tt0145487
+title: Homem-Aranha
 ---
+
 Construído como um clássico fortemente inspirado em Super-Homem de Richard Donner, o debut de Sam Raimi peca por imitação enquanto acerta em todo o resto. "Com grande poder vem grandes responsabilidades" diz menos sobre o garoto picado por uma aranha e mais sobre o homem que o dirige.
 
 Lançado há mais de 13 anos, a estreia de super-heróis solos (antes houve os X-Men) veio com um formato ainda a ser polido. Porém, o drama dos personagens, esse que falta tanto hoje em dia, esse é o que mais faz sentido e o que é mais explorado. Uma pena, portanto, que os atores não estejam em sua melhor forma. Tobey Maguire é a persona corretíssima para o papel, mas apenas com sua cara de tolo e não para todo o resto (como o drama de ter perdido o tio em uma obra do destino). Kirsten Dunst é a namoradinha da América em uma versão toda errada, mas não se consegue encontrar humor em sua personalidade. James Franco, o pior ontem hoje e sempre, pelo menos cumpre seu papel de acordo: como apenas uma sombra de seu pai, Norman Osborn, um Willem Dafoe que comprou o espírito da coisa nos mesmos moldes do caricato Gene Hackman como o vilão Lex Luthor no primeiro homem-de-aço, lá nos idos dos anos 80.

@@ -1,8 +1,11 @@
 ---
-date: "2014-04-08"
-title: "Lambda: o Retorno!"
-categories: [ "draft", "code" ]
+categories:
+- draft
+- code
+date: '2014-04-08'
+title: 'Lambda: o Retorno!'
 ---
+
 [![Lambda: o Retorno](http://i.imgur.com/Hrbu1ue.jpg)](/images/13717451604_33225e217c_o.jpg)
 
 Na última vez que foi abordado o tema "lambda na ferida" falamos brevemente sobre como C++ agora permite criar funções dentro de funções. Hoje vamos apenas falar que aquela construção bizarra que criamos fica ainda mais bizarra se precisarmos retornar alguma coisa dessa função ou usá-la mais de uma vez.

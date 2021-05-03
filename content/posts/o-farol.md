@@ -1,10 +1,14 @@
 ---
-date: "2019-10-29"
-link: "https://www.imdb.com/title/tt7984734"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Farol"
+categories:
+- draft
+- movies
+date: '2019-10-29'
+link: https://www.imdb.com/title/tt7984734
+tags:
+- cinemaqui
+title: O Farol
 ---
+
 Do mesmo diretor e roteirista de A Bruxa surge O Farol, o segundo longa metragem de Robert Eggers e que zera o universo do terror, quebrando a própria quebra de expectativa do gênero e descrevendo sensações à prova de lógica. Analisar este filme usando teorias da linguagem cinematográfica tende ao fracasso. Porém, há um caminho para a compreensão, e talvez seja até uma blasfêmia dizê-lo hoje em dia: entender sobre masculinidade.
 
 Temos dois personagens que são construídos com todas as forças por Willem Dafoe e Robert Pattinson e o conflito entre eles, que nos permite em um primeiro momento entender a camada convencional da história. Dafoe faz o velho lobo-do-mar fora do mar. Ele faz do farol que cuida seu navio, dá ordens ao seu subordinado como se fosse um pai severo, e está apaixonado pela luz que ele emite. Pattinson é o novato com um passado misterioso, cujo silêncio vale tanto quanto o falatório de Dafoe em sua interpretação, pois é assim que eles oferecem o contraste de personagens. Ambos são obviamente clichês e o filme não os esconde, mas os escancara, os explora, de todas as formas possíveis.

@@ -1,9 +1,11 @@
 ---
-date: "2012-12-17"
-link: "https://www.imdb.com/title/tt1920849"
-categories: [ "movies" ]
-title: "Quatro Amigas e um Casamento"
+categories:
+- movies
+date: '2012-12-17'
+link: https://www.imdb.com/title/tt1920849
+title: Quatro Amigas e um Casamento
 ---
+
 Parece que a "moda" iniciada por [Missão Madrinha de Casamento] (Paul Feig, 2011) está gerando seus primeiros frutos. Esse "Quatro Amigas..." possui o que faltava nas comédias românticas e que pode reinventar o gênero nos próximos anos: mulheres independentes e protagonistas.
 
 Nesse caso o filme gira em torno de quatro amigas: Regan (Kirsten Dunst), Katie (Isla Fisher), Gena (Lizzy Caplan) e Becky (Rebel Wilson), a única que não vive para sua aparência, está com uns quilinhos a mais e também a única que arrumou um pretendente de primeira linha. Para casar. Agora.

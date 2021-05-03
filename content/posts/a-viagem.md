@@ -1,9 +1,11 @@
 ---
-date: "2013-02-18"
-link: "https://www.imdb.com/title/tt1371111"
-categories: [ "movies" ]
-title: "A Viagem"
+categories:
+- movies
+date: '2013-02-18'
+link: https://www.imdb.com/title/tt1371111
+title: A Viagem
 ---
+
 Há uma belíssima transição em A Viagem quando duas pessoas fogem de sua escravidão e procuram provar o seu valor enquanto ainda se acostumam com o recente status adquirido. A diferença poética dessa mudança de cena é que ela ocorre em espaço e tempo completamente díspares, mas compartilham dos mesmos sentimentos e ideais humanos: a luta pela liberdade.
 
 Ao mesmo tempo em que há beleza na abordagem intertemporal dos três diretores (Tom Tykwer, Andy e Lana Wachowski), baseada no romance de David Mitchell, também há uma mensagem importante contida no subtexto do que vemos: Autua (David Gyasi) é um escravo africano contido em nossa História nada gloriosa, mas Sonmi (Donna Bae) é uma escrava concebida geneticamente por um estado autoritário em um futuro alternativo. A luta contra a escravidão, apesar de homenageada, assume aqui um olhar cínico e pessimista ao assumir que, mesmo sepultada em nossa História recente, não está descartada entre as inúmeras possibilidades de futuro que podemos gerar a partir de hoje.

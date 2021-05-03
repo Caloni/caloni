@@ -1,9 +1,12 @@
 ---
-date: "2019-09-16"
-categories: [ "draft", "reading" ]
-title: "Leituras"
+categories:
+- draft
+- reading
+date: '2019-09-16'
+title: Leituras
 ---
- - 12 Regras para a Vida, de Jordan Peterson, é o livro contemporâneo mais relevante que andei lendo (não que eu leia muito). Diz sobre como cuidar de sua própria vida através de regras embasadas em ciência e tradição.
+
+- 12 Regras para a Vida, de Jordan Peterson, é o livro contemporâneo mais relevante que andei lendo (não que eu leia muito). Diz sobre como cuidar de sua própria vida através de regras embasadas em ciência e tradição.
  - A Linguagem de Programação C, de K&R, é clássico absoluto da área.
  - Amazonita, de Nati Oliver, é ficção curtinha de época sobre folclores brasileiro.
  - As Portas da Percepção, de Aldous Huxley, sobre como é tomar LSD.

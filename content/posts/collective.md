@@ -1,10 +1,14 @@
 ---
-date: "2020-03-10"
-link: "https://www.imdb.com/title/tt10706602"
-categories: [ "draft", "movies", ]
-tags: [ "cinemaqui"  ]
-title: "Collective"
+categories:
+- draft
+- movies
+date: '2020-03-10'
+link: https://www.imdb.com/title/tt10706602
+tags:
+- cinemaqui
+title: Collective
 ---
+
 Chegamos na vigésima-quinta edição de É Tudo Verdade, um festival internacional de documentários criado em São Paulo nos anos 90 e que hoje é referência mundial, sendo o único a tornar elegível para o Oscar dois longa-metragem e dois curtas no mesmo evento. Sua seleção passa pela análise de mais de dois mil filmes do mundo todo. Estive na coletiva de imprensa antes de iniciar a sessão de um dos quase cem filmes selecionados este ano: Collective, de Alexander Nanau, sobre a corrupção estarrecedora que é descoberta na rede de hospitais na Romênia após um incêndio em uma boate ter matado mais jovens que foram hospitalizados do que no próprio local.
 
 O filme vai de encontro ao exame clínico que artistas de todo o mundo vem realizando sobre os governos nos tempos atuais, mas diferente do "senso comum" de hoje em dia, este não é um governo com de extrema direita com tendências fascistas, mas um governo populista, social-democrata, que faz no sistema de saúde um cambalacho amparado pelo Estado de dar inveja às maracutaias da gestão petista, que foram reveladas desde o início da Operação Lava Jato. Porém, este é um trabalho quase apartidário, embora não esconda sua frustração próximo do final, ao perceber que sua população completamente alienada sobre quem são os reais culpados da tragédia do filme vota mais uma vez, e com mais ênfase, no "lado errado".

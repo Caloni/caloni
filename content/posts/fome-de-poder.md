@@ -1,9 +1,12 @@
 ---
-date: "2017-05-28"
-link: "https://www.imdb.com/title/tt4276820"
-categories: [ "draft", "movies" ]
-title: "Fome de Poder"
+categories:
+- draft
+- movies
+date: '2017-05-28'
+link: https://www.imdb.com/title/tt4276820
+title: Fome de Poder
 ---
+
 Esta é a história do primeiro fast-food do mundo, o famigerado McDonald's, ou a história de como uma rede de restaurantes se torna um império imobiliário. Todos os eventos baseados em fatos reais está disponível em "The Founder", ou a péssima tradução "Fome de Poder", com um tom excessivamente dramático e com a alma de um Michael Keaton que desde Birdman parece usar seu ego fora do controle para papéis megalomaníacos.
 
 Aqui ele representa o espírito americano do empreendedorismo sob a ótica de uma geração pós-crise 2008 de socialistas acostumados a rotular qualquer tentativa de progresso individual como capitalismo selvagem. O resultado é o roteiro de Robert D. Siegel, que cria um interessante debate entre a forma visceral do americano enxergar a dicotomia sucesso/fracasso e também a maneira distorcida e irônica dos valores familiares.

@@ -1,10 +1,13 @@
 ---
-date: "2019-12-11"
-link: "https://youtu.be/bLA2hUJvX6s"
-categories: [ "food" ]
-tags: [ "recipes" ]
-title: "Panetone"
+categories:
+- food
+date: '2019-12-11'
+link: https://youtu.be/bLA2hUJvX6s
+tags:
+- recipes
+title: Panetone
 ---
+
 O segredo para conseguir fazer um panetone de sucesso é tempo, pois dado tempo suficiente a massa dará sinais de vida. Porém, mais do que isso: a longa fermentação é benéfica para um pão mais aromático, especialmente se usado fermento natural. O processo todo pode demorar de um a dois dias, dependendo da estratégia adotada. De qualquer forma, é necessário se preparar psicologicamente e aproveitar o momento sem pressa.
 
 ## A Véspera

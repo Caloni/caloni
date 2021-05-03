@@ -1,9 +1,11 @@
 ---
-date: "2020-05-04"
-link: "https://www.imdb.com/title/tt0018478"
-categories: [ "movies" ]
-title: "Tesouro Perdido"
+categories:
+- movies
+date: '2020-05-04'
+link: https://www.imdb.com/title/tt0018478
+title: Tesouro Perdido
 ---
+
 Este é o primeiro filme mudo p&b brasileiro que vejo. E é no mínimo uma confusão sofrível. Seu idealizador, Humberto Mauro, um self-made man, estudou engenharia elétrica e gostava dos mecanismos por trás da fotografia. Daí para o cinema foi um pulo. Ele consegue uma parceria e filma já em sua própria Terra Natal, lá em Minas. Um pioneiro do cinema nacional. Este é seu segundo longa, que conta uma história confusa sobre a herança de antepassados que esconderam dos brasileiros um tesouro da época da independência (eles tomaram partido dos portugueses), e agora que o pai do protagonista morre deixa um "roteiro" (assim era escrito) para o tal tesouro. Bandidos se interessam e começa o que seria uma aventura, com cavalo a galope, mortes e muita emoção com uma moral no final de que o verdadeiro tesouro é o amor.
 
 Mas de amor a época não tinha nada. As mulheres do filme parece que não podiam falar. Quer dizer, não podiam mexer os lábios e ter sua fala traduzida em letreiros. Podiam exibir sua formosura com muita discrição. Os homens de Minas é que decidiam tudo, a base de lutas, armas e maquinação. É o cinema do engenheiro, do técnico, mas sem qualquer especialização ou excelência, revelando um pouco de nossa cultura, inadvertidamente.

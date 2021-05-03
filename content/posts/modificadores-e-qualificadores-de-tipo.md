@@ -1,8 +1,11 @@
 ---
-date: "2010-05-28"
+categories:
+- draft
+- code
+date: '2010-05-28'
 title: Modificadores e qualificadores de tipo
-categories: [ "draft", "code" ]
 ---
+
 <blockquote>_@caloni poderia pensar em fazer um artigo sobre os modificadores de tipo em c? os mais complexo, acho eu: volatile, enum, union, extern, etc_</blockquote>
 
 Uma coisa de cada vez: existem **modificadores **(ou qualificadores) de tipo e **especificadores** de tipo. _Volatile_ e _extern_ se encaixam na primeira categoria, _enum_ e _union_ na segunda. Veremos um pouco desses dois lados da linguagem em doses paliativas.

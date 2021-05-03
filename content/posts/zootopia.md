@@ -1,9 +1,12 @@
 ---
-date: "2016-07-02"
-link: "https://www.imdb.com/title/tt2948356"
-categories: [ "draft", "movies" ]
-title: "Zootopia"
+categories:
+- draft
+- movies
+date: '2016-07-02'
+link: https://www.imdb.com/title/tt2948356
+title: Zootopia
 ---
+
 Direita x Esquerda? Opressores x Oprimidos? Predadores x Presas? A imbecilidade dos liberais americanos apenas compete com sua genialidade nesse novo filme da Disney, que explora um tema político em um filme para crianças que possui 2 ou 3 piadas bem pontuais, mas que no fundo é muito mais para adolescentes e com conteúdo adulto.
 
 A história gira em torno de uma coelhinha muito fofinha (Ginnifer Goodwin), mas eu não posso dizer isso porque apenas coelhos podem se referir assim aos seus iguais. Um mundo, onde há regras sociais de segregação como essa, os roteiristas da Disney querem contar uma história sobre viver em sociedade. Percebe a hipocrisia esquerdista espirrando para fora de uma história que tenta desesperadamente soar neutra?

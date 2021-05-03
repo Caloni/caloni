@@ -1,8 +1,10 @@
 ---
-date: "2008-06-03"
-categories: [ "draft" ]
-title: "Resultado do Seminário CCPP"
+categories:
+- draft
+date: '2008-06-03'
+title: Resultado do Seminário CCPP
 ---
+
 Aconteceu nesse fim-de-semana, como era previsto, o nosso primeiro Seminário CCPP Brasil, com direito a pessoas de todas as idades e origens, mas todas com algo em comum: a paixão e o interesse pelas linguagens-mestre do mundo da programação.
 
 Começo esse artigo agradecendo a todos os que direta e indiretamente participaram para o sucesso do evento, entre eles os organizadores, o carro-chefe responsável por acordar o espírito C++ da galera no início do ano, os palestrantes e, claro, óbvio, toda a comunidade C++ que participou em corpo (vulgo hardware) e alma (vulgo software).

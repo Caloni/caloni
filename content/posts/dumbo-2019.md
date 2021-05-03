@@ -1,10 +1,14 @@
 ---
-date: "2019-03-22"
-link: "https://www.imdb.com/title/tt3861390"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Dumbo"
+categories:
+- draft
+- movies
+date: '2019-03-22'
+link: https://www.imdb.com/title/tt3861390
+tags:
+- cinemaqui
+title: Dumbo
 ---
+
 A vida dá voltas, e enquanto Dumbo de 1941 foi feito como uma tentativa de manter os estúdios Disney de pé durante a Segunda Guerra (conseguiu), este Dumbo de 2019 surge em um momento em que o próprio estúdio de cinema se assemelha a um elefante depois de adquirir duas franquias de produções caras e com enorme bilheteria (super-heróis da Marvel e neo-nerds do Star Wars). Empreendimento pesado demais para decolar, $ua$ grande$ orelha$ tentam agora alçar voo convertendo todo seu legado de animações em produções live-action com o uso dos milagres da computação gráfica.
 
 Se formos falar apenas dos efeitos visuais, Dumbo é um espetáculo de encher os olhos. O primeiro Superman tinha a pretensão de fazer as pessoas que iam ao cinema acreditar que um homem pode voar. Dumbo nos faz crer que um elefante-bebê com largas orelhas não apenas existe como é capaz de voar como um pássaro. E ele tem grandes e expressivos olhos também, além de uma pele que é um misto de realismo com fantasia, o que permite que ele pareça exatamente com um elefante de verdade, se um elefante fosse tão expressivo e ágil. Um tanto bizarro, mas doce. Mais realistas são os elefantes adultos do filme, além de serem também paquidermes humanizados, que entram em uma jaula ou em um navio com a pomposidade de verdadeiras damas e cavalheiros.

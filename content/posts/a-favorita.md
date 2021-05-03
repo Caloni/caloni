@@ -1,10 +1,14 @@
 ---
-date: "2018-10-18"
-link: "https://www.imdb.com/title/tt5083738"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Favorita"
+categories:
+- draft
+- movies
+date: '2018-10-18'
+link: https://www.imdb.com/title/tt5083738
+tags:
+- cinemaqui
+title: A Favorita
 ---
+
 A Favorita é um filme de época da realeza, mas filmado frequentemente com uma câmera olho de peixe e sempre de um ângulo baixo em longuíssima corredores, essa é uma abordagem fantasiosa, quase surreal. Mas nada é mais surreal nessa época do que os próprios acontecimentos em torno da rainha, que pra variar é uma pessoa doente cercada de parasitas.
 
 Aqui temos uma mescla da história da garota cuja família se deu mal, mas graças à sua esperteza e educação tem a chance de dar a volta por cima às custas de sua prima, a conselheira e amante da rainha. O papel cai como uma luva para Emma Stone e seu jeito levemente debochado. Ela torna mais leve o que geralmente é tratado com excesso de pomposidade.

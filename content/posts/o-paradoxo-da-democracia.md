@@ -1,9 +1,13 @@
 ---
-date: "2019-10-28"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Paradoxo da Democracia"
+categories:
+- draft
+- movies
+date: '2019-10-28'
+tags:
+- cinemaqui
+title: O Paradoxo da Democracia
 ---
+
 O problema de documentários como O Paradoxo da Democracia é o mesmo que o youtuber Pirulla enfrenta sempre quando ele critica a divulgação de teorias da conspiração e informações anti-científicas: as pessoas misturam mentiras e verdades em um mesmo pacote, e como existem algumas verdades embutidas no discurso conspiratório fica mais difícil desmentir a parte falsa sem desmoronar todo o frágil edifício construído em torno da teoria. E no caso do trabalho documental de Belisario Franca e Pedro Nóbrega, se torna uma tarefa ingrata contra-atacar a argumentação falaciosa usada contra o que pessoas de esquerda adoram chamar de neoliberalismo. Essa mania é universal na política, não importando o lado: inventar neonomes para conceitos mais antigos.
 
 Neonomes são a maneira escolhida em nosso tempo como ataque verbal de um lado para conseguir se posicionar como um intelectual informado e ciente do quão nocivo é o outro lado. Comportar as versões do século 21 da direita e da esquerda na política exigem reciclagem de termos, já que o próprio filme começa afirmando, através da voz de um entrevistado, que sempre haverá o que chamamos tradicionalmente de direita e esquerda. E ele define de maneira rica e direta cada um dos lados, o que faz surgir a dúvida: por que os próprios documentaristas responsáveis pelo filme permitem contradições gritantes dentro da narrativa?

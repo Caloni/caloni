@@ -1,10 +1,14 @@
 ---
-date: "2019-02-07"
-link: "https://www.imdb.com/title/tt6768578"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Dogman"
+categories:
+- draft
+- movies
+date: '2019-02-07'
+link: https://www.imdb.com/title/tt6768578
+tags:
+- cinemaqui
+title: Dogman
 ---
+
 Não me lembro de um filme que conte a história do cúmplice em vez do bandido. Fraco moralmente, agindo nas sombras dos poderosos, o cúmplice é visto como um sub-humano; a escória da sociedade. Mas em Dogman ele é o protagonista. O inesperado e tardio herói de uma comunidade à beira do nada. E é no nada que os bullies atacam. Munidos do excesso de músculos no braço e falta de massa cinzenta no cérebro, os mais fortes usam a lei da física a seu favor. Mas mais do que isso: usam a lei do medo.
 
 Dirigido por Matteo Garrone e escrito por um batalhão de gente, Dogman é uma história simples que sobrevive nos detalhes. Assim como Marcello, o nosso intrépido e imoral herói. Ele tem um negócio onde cuida de cachorros. O filme começa exibindo a calma com que ele dá banho em um cão extremamente agressivo: dialogando com o bicho e quase que fazendo carinho, não fosse a certeza de que seu braço seria decepado se realmente tentasse, Marcello possui mais paciência do que auto-estima. E esse é resumo perfeito do nosso "herói".

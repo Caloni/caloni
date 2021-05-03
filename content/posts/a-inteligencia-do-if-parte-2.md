@@ -1,8 +1,10 @@
 ---
-date: "2007-06-29"
-categories: [ "code" ]
-title: "A Inteligência do if: Parte 2"
+categories:
+- code
+date: '2007-06-29'
+title: 'A Inteligência do if: Parte 2'
 ---
+
 Vimos na [primeira parte] desse artigo como o if revolucionou o mundo da computação ao trazer um salto que depende de condições anteriores e, portanto, depende do estado do programa. A ele chamamos de salto condicional. Também vimos como o resto das construções lógicas de uma linguagem são apenas derivações montadas a partir de saltos condicionais e incondicionais. Nesta segunda parte veremos como implementar um saldo condicional baseando-se no fato de que o computador pode apenas realizar operações matemáticas. Afinal de contas, um computador não "pensa".
 
 Uma condição, item necessário para o funcionamento do salto condicional, nada mais é do que o conjunto de um cálculo matemático e o seu resultado, sendo o salto dependente desse resultado. Geralmente o resultado usado é uma flag, um indicador, definida pela arquitetura, como o armazenador de resultado para comparações de igualdade. Na plataforma 8086, por exemplo, as instruções que comparam memória definem uma flag chamada de Zero Flag (ZF) que é modificada sempre logo após executada uma instrução da categoria de comparações de valores.

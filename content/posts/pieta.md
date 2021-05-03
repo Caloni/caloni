@@ -1,9 +1,11 @@
 ---
-date: "2013-03-19"
-link: "https://www.imdb.com/title/tt2299842"
-categories: [ "movies" ]
-title: "Pieta"
+categories:
+- movies
+date: '2013-03-19'
+link: https://www.imdb.com/title/tt2299842
+title: Pieta
 ---
+
 Finalmente, depois de ganhar prêmios na Europa e ser exibido apenas na Mostra do Rio do ano passado (em uma atitude claramente estúpida dos organizadores da Mostra SP), algumas distribuidoras nacionais resolveram estrear o novo trabalho de Kim Ki-duk. É impressionante como parece que a qualidade dos trabalhos lá fora é inversamente proporcional à pressa das distribuidoras brasileiras em fornecer conteúdo para o público local.
 
 Kim Ki-duk é conhecido pelos seus filmes cheios de significado e símbolos, sobretudo nas cores que utiliza. Em [Fôlego] e "[Primavera, Verão...]" temos os momentos mais enigmáticos e controversos do diretor que adota projetos já polêmicos desde o roteiro (que geralmente também escreve).

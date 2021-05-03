@@ -1,10 +1,13 @@
 ---
-date: "2021-04-10"
-link: "https://www.imdb.com/title/tt9415108"
-categories: [ "movies", ]
-tags: [ "cinemaqui"  ]
-title: "O Protocolo de Auschwitz"
+categories:
+- movies
+date: '2021-04-10'
+link: https://www.imdb.com/title/tt9415108
+tags:
+- cinemaqui
+title: O Protocolo de Auschwitz
 ---
+
 História baseada em fatos registrados sobre a fuga de dois judeus eslovenos do campo de concentração nazista mais famoso, em O Protocolo Auschwitz a chave é a direção sóbria de Peter Bebjak que entrega uma visão fatalista, claro, pois todos sabemos o desfecho geral da segunda guerra, mas ao mesmo tempo realista. E não estamos falando daquele realismo dramático. A câmera de Bebjak acompanha esses dois heróis e seus companheiros pelo pesadelo de olhos abertos que essas pessoas viveram nesses duros dias de um passado que vai se tornando cada vez mais apagado na memória do povo.
 
 Para atingir esse efeito não existe música durante boa parte do filme. A trilha sonora só começa a comentar o drama quando voltamos ao mundo civilizado e existe espaço para algum lazer, nem que seja ter alguns coisa familiar para comer.

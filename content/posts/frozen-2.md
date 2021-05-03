@@ -1,10 +1,14 @@
 ---
-date: "2019-11-26"
-link: "https://www.imdb.com/title/tt4520988"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Frozen 2"
+categories:
+- draft
+- movies
+date: '2019-11-26'
+link: https://www.imdb.com/title/tt4520988
+tags:
+- cinemaqui
+title: Frozen 2
 ---
+
 Você já sabe como funciona. Frozen, um novo filme de princesa, arrebata multidões por não ser um "filme de princesa", mas sobre a relação essencial entre duas irmãs, misturada com a história de um reino nórdico que sugere lendas e valores sem apontar diretamente para nenhuma em específica, exceto sua inspiração inicial, o conto de fadas do século 19 do dinamarquês Hans Christian Andersen, A Princesa do Gelo. Como diria a versão capitalista do Tio Ben, "com grandes bilheterias vêm grandes continuações", e eis que surge Frozen 2, que chega com a ideia fixa de um começo e um fim, e no meio uma nova aventura, que demonstra tanto a beleza do ápice da arte digital dos estúdios Disney quanto sua incapacidade de criar algo novo partindo de suas próprias premissas.
 
 Frozen 2 acaba, então, virando conteúdo para TV, mas é TV Premium, com uma direção de arte (encabeçada por cinco pessoas) e efeitos criados por artistas digitais (encabeçados por cinco times de futebol) tão sensacionais que nos faz colocar a beleza do primeiro em perspectiva. Para a direção de arte, note apenas os detalhes do chale da mãe de Elsa e Anna, assim como todo o figurino da família real harmoniza com uma paleta mais sóbria que remete ao frio e ao mesmo tempo um ambiente acalentador. E para a arte digital, basta observar cada movimento do busto de Elsa conforme ela se move para cantar ou a forma de se movimentar em nada difere de uma mulher de carne e osso. Este é o estado da arte da animação, e continua havendo um enorme abismo entre a arte Disney e o segundo melhor estúdio.

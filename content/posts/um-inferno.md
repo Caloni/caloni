@@ -1,9 +1,11 @@
 ---
-date: "2012-10-25"
-link: "https://www.imdb.com/title/tt1643222"
-categories: [ "movies" ]
-title: "Um Inferno"
+categories:
+- movies
+date: '2012-10-25'
+link: https://www.imdb.com/title/tt1643222
+title: Um Inferno
 ---
+
 UmInferno cresce bem, como qualquer trabalho de terror/suspense bem executado. O que fortalece o primeiro trabalho do diretor Tim Fehlbaum como trama, porém, é o uso sem ressalvas de um dos seus personagens mais importantes: o sol.
 
 Acompanhamos a peregrinação de duas irmãs e um rapaz dentro de um carro completamente vedado através de um cenário que lembra um deserto, mas que possui estradas, florestas e postos de gasolina. Descobrimos que acontecimentos ainda não entendidos fizeram a temperatura na Terra chegar a níveis que matou boa parte da população por queimaduras e sede. Em um habitat agora seco, árido e sem leis, a busca por água é mandatória.

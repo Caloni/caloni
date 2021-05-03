@@ -1,9 +1,12 @@
 ---
-date: "2017-04-18"
-link: "https://www.imdb.com/title/tt3810760"
-categories: [ "draft", "movies" ]
-title: "Minimalism: A Documentary About the Important Things"
+categories:
+- draft
+- movies
+date: '2017-04-18'
+link: https://www.imdb.com/title/tt3810760
+title: 'Minimalism: A Documentary About the Important Things'
 ---
+
 Este é um documentário bem convencional que acompanha dois amigos que descobrem que para ser feliz menos é mais. Estamos falando essencialmente de consumismo desenfreado. Em resumo: o modo americano de viver.
 
 Em um mundo onde o sonho é ter um salário que te permita ter mais coisas com menos tempo, esses dois amigos perceberam que suas escaladas na vida corporativa não estavam gerando a felicidade esperada. Foi quando decidiram adotar uma forma de vida minimalista, com menos peças de roupa, uma casa menor e menos coisas inúteis guardadas nela. Descobre a fórmula para ser feliz e saem pelo país pregando a palavra.

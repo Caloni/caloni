@@ -1,9 +1,11 @@
 ---
-date: "2011-12-20"
-link: "https://www.imdb.com/title/tt0133093"
-categories: [ "movies" ]
-title: "Matrix"
+categories:
+- movies
+date: '2011-12-20'
+link: https://www.imdb.com/title/tt0133093
+title: Matrix
 ---
+
 Animes, quadrinhos, Kung-Fu, filosofia, tecnologia: Que filme conseguiria compor, de forma inquestionável, esses universos tão grandiosos quanto diferentes entre si?
 
 Dirigido pelos Irmãos Wachowski (V de Vingança, [Speed Racer]), o filme contém uma história com elementos nada criativos, mas que possuem algo em comum: faziam parte do universo da época (fazem?), onde computadores e internet começavam a dominar o mundo, e a diferença entre mundo real e mundo virtual começava a aparecer na vida das pessoas.

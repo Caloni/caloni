@@ -1,8 +1,11 @@
 ---
-date: "2008-08-07"
-categories: [ "blog", "draft" ]
-title: "Aprendizado em kernel mode"
+categories:
+- blog
+- draft
+date: '2008-08-07'
+title: Aprendizado em kernel mode
 ---
+
 Hoje terminei minha primeira leitura de Memory Dump Analysis Vol. 1, e qual não foi a minha surpresa ao encontrar entre os últimos posts justamente o que eu estava precisando: um guia de livros que se deve ler para começar a programar em kernel mode.
 
 O melhor de tudo nem é a lista de livros, cujos títulos já estão batidos na minha cabeça de tanto meu amigo Ferdinando comentar a respeito. A grande sacada foi ele ter feito um roteiro no estilo "leia esse livro primeiro, depois comece com esse e ao mesmo tempo acompanhe aquele, sempre atento ao Windows Internals". As coisas não ficam mais fáceis (ler 8 livros, todos com média de 700 páginas), mas pelo menos ficam mais organizadas, tem começo, meio e fim (será?).

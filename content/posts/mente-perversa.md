@@ -1,10 +1,14 @@
 ---
-date: "2019-10-12"
-link: "https://www.imdb.com/title/tt10074454"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Mente Perversa"
+categories:
+- draft
+- movies
+date: '2019-10-12'
+link: https://www.imdb.com/title/tt10074454
+tags:
+- cinemaqui
+title: Mente Perversa
 ---
+
 Mente Perversa pode causar extremo desconforto a mentes mais sensíveis, mas é um filme da categoria necessário por vários motivos, sendo o principal deles fazer você pensar pelo ponto de vista de alguém cuja natureza o impede de viver plenamente. O motivo? Seria um crime horrível.
 
 Esse julgamento ético e moral poderia ser dado a homossexuais antigamente (ou em alguns países ainda hoje) e serial killers em qualquer lugar do mundo. Porém, existe um grupo de pessoas em que suas ações não dependem apenas da conivência dos participantes, nem são tão brutais quanto assassinar uma pessoa: os pedófilos.

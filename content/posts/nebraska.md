@@ -1,9 +1,11 @@
 ---
-date: "2015-01-11"
-link: "https://www.imdb.com/title/tt1821549"
-categories: [ "movies" ]
-title: "Nebraska"
+categories:
+- movies
+date: '2015-01-11'
+link: https://www.imdb.com/title/tt1821549
+title: Nebraska
 ---
+
 Sejamos honestos: quase ninguém termina essa vida tendo valores que prestem. Quando eu digo valores, não me refiro apenas a dinheiro, mas valores morais, intelectuais, culturais. Muitas vezes não se trata de oportunidade: a grande maioria não faz questão. Woody Grant (Bruce Dern) recebe um desses anúncios pega-trouxas de "você pode ganhar um milhão" e decide ir pegar o dinheiro. O destino: Nebraska. Já no fim de sua vida, é tido como louco, mas antes que você conclua algo, esse não é daqueles filmes que te surpreendem no final, mas no começo e durante. Um road movie bem comportado.
 
 O núcleo de análise do diretor Alexander Payne (Sideways) é no destino intermediário da viagem, terra natal do nosso protagonista e onde ele deixou seu passado, seus parentes, sua outra história e suas possibilidades. O seu filho David (Will Forte) analisa tudo isso com os olhos de uma criança, e se espelha naquela realidade, muitas vezes se enxergando embaixo de um túmulo ou no fim da vida como seu pai. Ele faz o papel de nós, espectadores, analisando tudo isso como se fizesse parte de nossa realidade. David é exceção, e tem um valor: fazer seu pai feliz.

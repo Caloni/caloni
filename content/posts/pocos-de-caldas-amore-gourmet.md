@@ -1,6 +1,8 @@
 ---
-date: "2017-02-20"
-categories: [ "food" ]
-title: "Poços de Caldas Amore Gourmet"
+categories:
+- food
+date: '2017-02-20'
+title: Poços de Caldas Amore Gourmet
 ---
+
 Um café mineiro clássico, com amargor e acidez controladas; seco e agradável, desde que não queime ou coloque muito pó.

@@ -1,9 +1,11 @@
 ---
-date: "2011-05-25"
-link: "https://www.imdb.com/title/tt1596343"
-categories: [ "movies" ]
-title: "Velozes & Furiosos 5: Operação Rio"
+categories:
+- movies
+date: '2011-05-25'
+link: https://www.imdb.com/title/tt1596343
+title: 'Velozes & Furiosos 5: Operação Rio'
 ---
+
 O Rio de Janeiro está em alta no cinema mundial esse ano: palco de duas produções internacionais de prestígio, a uma vez chamada Cidade Maravilhosa começa a mostrar aos poucos sua nova cara para o mundo, mesmo que sob a ótica distorcida das produções de Hollywood.
 
 A quinta produção da franquia Velozes e Furiosos finca mais forte no elenco a presença de Vin Diesel, que tinha se ausentado até a reaparição no quarto filme, e agora redefine o núcleo de personagens junto com o casal principal, vivido pelos já rodados (desculpe o trocadilho) Brian O'Conner (Paul Walker) e Mia Toretto (Jordana Brewster), de uma forma, além de mais saudosista, familiar.

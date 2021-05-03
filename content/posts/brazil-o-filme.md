@@ -1,9 +1,12 @@
 ---
-date: "2016-08-09"
-link: "https://www.imdb.com/title/tt0088846"
-categories: [ "draft", "movies" ]
-title: "Brazil: O Filme"
+categories:
+- draft
+- movies
+date: '2016-08-09'
+link: https://www.imdb.com/title/tt0088846
+title: 'Brazil: O Filme'
 ---
+
 Terry Gilliam nos apresenta esse futuro distópico onde "Aquarela do Brasil", de Ary Barroso, é o tema musical perfeito para esse clima fabuloso, que transforma um drama grandioso em uma comédia séria, que trata de governos totalitários e o seu maior perigo: a enxurrada de papéis de uma burocracia sem fim, que pode engolir pessoas vivas. Nós sabemos vagamente que toda a ineficiência do governo acaba matando indiretamente milhares de pessoas todos os dias pelos erros de alocação de recursos. Porém, em "Brazil", basta um erro de tipografia e sua vida foi extinta, literalmente. Ainda bem que erros estatais nunca acontecem. Não é mesmo?
 
 Seu herói, ou quase mais um espectador de tudo isso, é Lowry (Jonathan Pryce), Sam Lowry, que trabalha no Ministério da Informação (cuja sigla em inglês, MOI, além de estar impresso em todos os pertences de seus escritórios, incluindo xícaras de chá e aquários, já remete sutilmente a outro ministério, o "Ministry of Interior", que é o ministério que controla seus súditos e o que andam fazendo). Lowry sonha constantemente que tem asas e voa em busca de sua amada, uma loira de aspecto angelical que se encontra presa em uma jaula. De dia ele vive em um país sem nome que é controlado por formulários e regulamentações, e tem seu resultado nas invenções futuristas, como um sistema de encanamento que passa pelo meio dos recintos e recheia as paredes, além carros pessoais extremamente inconvenientes, despertadores que não funcionam, computadores que têm suas telas ampliadas por uma tela que funciona como uma lupa, e um sistema de busca de inimigos públicos que consegue ser burlado por um inseto inconveniente (ironicamente, um ser voador, justamente como nosso Lowry).

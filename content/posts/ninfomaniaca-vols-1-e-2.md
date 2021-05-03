@@ -1,9 +1,11 @@
 ---
-date: "2016-06-06"
-link: "https://www.imdb.com/title/tt1937390"
-categories: [ "draft",  ]
-title: "Ninfomaníaca Vols 1 e 2"
+categories:
+- draft
+date: '2016-06-06'
+link: https://www.imdb.com/title/tt1937390
+title: Ninfomaníaca Vols 1 e 2
 ---
+
 Um estudo de personagem puro. A revisão de ambos os filmes, estreando agora na Netflix brasileira, revela que não há de fato uma história amarrada, onde uma coisa leva a outra. A única coisa que move Joe são as coincidências e as variações de sua libido. A curiosidade do filme é mais sobre esse universo, e menos sobre suas memórias.
 
 Dessa forma, Lars Von Trier escancara isso para o público transformando o filme em uma alegoria que permite reflexões e analogias nunca antes tentadas de maneira tão lúdica quando se fala de apetite sexual e comportamento humano. Ela encontra o ser mais assexuado possível, e juntos vão apresentar não apenas a história de Joe, mas de toda mulher que decidiu ser diferente do esperado. Claro, em diferentes níveis.

@@ -1,10 +1,14 @@
 ---
-date: "2017-05-26"
-link: "https://www.imdb.com/title/tt5029608"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Frantz"
+categories:
+- draft
+- movies
+date: '2017-05-26'
+link: https://www.imdb.com/title/tt5029608
+tags:
+- cinemaqui
+title: Frantz
 ---
+
 Ao final de Frantz, apesar de ensaiar uma mensagem de esperança, há ainda um peso imenso a ser erguido quando nos levantamos da poltrona. Este é um filme que explora seu tema de forma tão sistemática e apaixonada que não sobram muitas lacunas para onde irá o espectador mais crítico se esconder. Ainda que seja um drama um tanto exagerado, não se pode acusá-lo de não ser honesto. E assim como ao final de uma guerra, não sobram perdedores e vitoriosos, mas dois lados ressentidos e amargurados que se mantém em estado de melancolia generalizada.
 
 E é nesse clima que começa o filme dirigido por François Ozon, um remake ou reimaginação de um filme de mais de 80 anos, "Broken Lullaby", de Ernst Lubitsch. Você não irá querer saber a história de nenhum dos dois e nem o título brasileiro do primeiro se quiser acompanhar o filme até a "revelação" da metade. Porém, se for um cinéfilo de carteirinha é provável que já conheça Lubitsch, um dos pioneiros na arte de evoluir a arte cinematográfica e que diziam que tinha um "toque" especial: a capacidade de deslocar problemas do mundo real para seu próprio universo particular, metafórico, onde tudo é discutido de uma forma peculiar, sem ironias ou maldades.

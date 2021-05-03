@@ -1,8 +1,10 @@
 ---
-date: "2019-05-20"
-categories: [ "draft" ]
-title: "Dixit (Jogo)"
+categories:
+- draft
+date: '2019-05-20'
+title: Dixit (Jogo)
 ---
+
 Uma festa com karaokê e jogos de mesa. O que pode surgir de interessante em um cenário millenial como esse? Um jogo de cartas que em sua simplicidade revela um intrincado sistema que soluciona todos os problemas que outros jogos de mesa costumam ter.
 
 Dixit é um jogo de cartas ilustradas que os competidores ficam em mãos e usam em toda rodada. Em cada rodada um deles vira o "narrador" e usa uma frase para descrever a carta que escolheu. Todos os outros competidores escolhem suas cartas que melhor se encaixam na descrição do narrador e sem saber qual a carta de cada um o objetivo é ter sua carta escolhida pelos outros.

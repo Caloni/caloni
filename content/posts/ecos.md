@@ -1,10 +1,14 @@
 ---
-date: "2019-10-22"
-link: "https://www.imdb.com/title/tt9296808"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Ecos"
+categories:
+- draft
+- movies
+date: '2019-10-22'
+link: https://www.imdb.com/title/tt9296808
+tags:
+- cinemaqui
+title: Ecos
 ---
+
 Ecos pode ser muito chato para algumas pessoas e fascinante para outras. É um filme feito de pequeníssimos momentos que não significam nada sozinhos, mas que pela sua soma geram uma sensação de existência. E é bom existir.
 
 A proposta do diretor Rúnar Rúnarsson é capturar cenas de sua terra natal, a Islândia, nas semanas de Natal e Ano Novo, e quando eu digo capturar tanto pode a vida real sendo filmada ou uma dramatização de momentos possíveis. São cenas belíssimas, amplas e que capturam aquele momento chave de cada lugar, que varia entre temas natalinos, locais de trabalho, o lar das pessoas ou lugares públicos. Um filme de observação dos seres humanos na metade do século 21.

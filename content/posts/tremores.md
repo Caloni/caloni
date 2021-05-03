@@ -1,10 +1,14 @@
 ---
-date: "2019-10-26"
-link: "https://www.imdb.com/title/tt7128732"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Tremores"
+categories:
+- draft
+- movies
+date: '2019-10-26'
+link: https://www.imdb.com/title/tt7128732
+tags:
+- cinemaqui
+title: Tremores
 ---
+
 Pablo está com um problema, e sua família se reúne para ajudá-lo. Quem não sabe da sinopse de Tremores pensa se tratar de um filme sobre vício em drogas pesadas, mas quando se revela a homossexualidade do protagonista, entendemos que o filme de Jayro Bustamante expõe a ferida, a vergonha e a irresponsabilidade humana das religiões cristãs de vertente protestante.
 
 Vindo de uma família cristã tradicional (e rica), o personagem interpretado por Juan Pablo Olyslager corre o risco de virar tema de melodrama sobre um escândalo extraconjugal gay, mas a sobriedade com que Jayro Bustamante conduz a história mantém sempre em foco o tema da intolerância, que assume contornos tão doentios que podem ser confundidos pelos mais esclarecidos como estupidez ou cegueira religiosa. O mais icônico de tudo é entendermos que o próprio Pablo está em dúvida, mas não é difícil termos essa percepção, afinal ele foi criado sob os mesmos valores.

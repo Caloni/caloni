@@ -1,8 +1,11 @@
 ---
-date: "2017-02-20"
-categories: [ "draft", "books" ]
-title: "The Best of edw519"
+categories:
+- draft
+- books
+date: '2017-02-20'
+title: The Best of edw519
 ---
+
 Ed Weissman, ou edw519 para os íntimos, é um dos comentaristas mais efusivos, pragmáticos e experientes do Hacker News. Ele tem programado profissionalmente há quase 40 anos. De mainframes a projetos web, a evolução dele passou basicamente pelo dobro de gerações que provavelmente você passou. Ele também já esteve envolvido como sócio/fundador em três empresas, vendendo tanto serviços quanto produtos. Ele trabalhou com centenas de pessoas em mais de mil projetos em mais de um milhão de linhas de código. Ele já compartilhou muitas opiniões com a comunidade, e agora juntou boa parte dessas opiniões em um livro, um ebook, disponível para qualquer um que queira observar alguém que esteve nas trincheiras por muitos anos e não tem medo de dizer o que pensa.
 
 Clique aqui para baixar seu livro. Se quiser ter apenas um gostinho do que vai encontrar lá, leia meus recortes abaixo (tradução minha):
@@ -62,4 +65,3 @@ Clique aqui para baixar seu livro. Se quiser ter apenas um gostinho do que vai e
    - entende o ciclo de vida do código inteiro e o escreve para durar
    - tem pena da pobre alma que tem que mantê-lo e deixa uma dica ou duas
    - escreve de maneira flexível para ser facilmente mudado antes que o projeto termine.
-

@@ -1,9 +1,12 @@
 ---
-date: "2019-02-20"
-link: "https://www.imdb.com/title/tt0368667"
-categories: [ "draft", "movies" ]
-title: "Interstella 5555"
+categories:
+- draft
+- movies
+date: '2019-02-20'
+link: https://www.imdb.com/title/tt0368667
+title: Interstella 5555
 ---
+
 Eis um Interestelar que presta do começo ao fim. 5555 é uma experiência no mundo dos vídeo-clipes. Ele contém uma história narrada visualmente e embalada por um álbum inteiro, batida a batida. Ele é um arco completo, talvez melhor que a maioria dos filmes, e ainda tem algumas coisas a dizer sobre nossa sociedade e seus troféus. Este filme é praticamente gêmeo de Pink Floyd The Wall, 20 anos depois.
 
 Esta é uma parceria entre a banda de techno formada por dois androides Draft Punk e o mangaká tecnófilo Hiroshi Kato e seu design visual atemporal que reimagina o álbum Discovery como uma viagem ao âmago da humanidade e sua música. A história é simples: gerente musical do mal sequestra bandas de todas as partes do universo para se tornarem ídolos na Terra. Ele transforma o visual dos alienígenas em algo palatável para os humanos, o que nos diz muita coisa também sobre nossa sociedade da moda e das aparências.

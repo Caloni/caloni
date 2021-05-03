@@ -1,9 +1,11 @@
 ---
-date: "2012-08-01"
-link: "https://www.imdb.com/title/tt0345950"
-categories: [ "movies" ]
-title: "Bob Esponja: O Filme"
+categories:
+- movies
+date: '2012-08-01'
+link: https://www.imdb.com/title/tt0345950
+title: 'Bob Esponja: O Filme'
 ---
+
 Bobinho, mas divertido. Possui lição de moral e elementos já manjados da própria série. Hoje assistindo pela quarta (quinta?) vez vejo que no fundo é um episódio expandido, e não possui pretensões muito... cinematográficas. Mas, dizer o quê de uma esponja quadrada que fala e seu amigo estrela-do-mar de bermuda? Ainda acho mais divertido que os Rugrats.
 
 Bob Esponja é um fenômeno temporário que possui elementos mistos que acabam agradando tanto crianças quando adultos. Para as crianças, uma dublagem divertida e uma comédia física que deixa seus personagens serem alterados quase como massinhas de modelar. Para os adultos, a subversão do gênero com a inserção de elementos estranhos à construção da cena em desenhos. Em determinado momento do filme, por exemplo, quando Bob Esponja realiza uma performance admirável de cantor de rock com efeitos especiais, como ser erguido até o teto e se vestir como um mago, após o final do show o vemos pendurado por cordas e sem as luzes que antes o iluminavam. E isso é engraçado por infringir a própria natureza da confecção das animações.

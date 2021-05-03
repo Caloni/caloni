@@ -1,9 +1,11 @@
 ---
-date: "2015-06-24"
-link: "https://www.imdb.com/title/tt0369610"
-categories: [ "movies" ]
-title: "Jurassic World: O Mundo dos Dinossauros"
+categories:
+- movies
+date: '2015-06-24'
+link: https://www.imdb.com/title/tt0369610
+title: 'Jurassic World: O Mundo dos Dinossauros'
 ---
+
 A trilha sonora de John Williams é bem aproveitada nessa continuação de emoções de Jurassic Park, mais de 20 anos depois de ser produzido, para um público mais aficionado por efeitos, 3D e a computação gráfica no seu limite. Por isso mesmo não se pode negar que no quesito entretenimento ele se sai maravilhosamente bem, impressionando quase da mesma forma com que o filme de Steven Spielberg nos impressionou. E quase já é algo muito bom para uma franquia já desgastada tentando se reerguer com ideias "novas".
 
 Outra coisa que não se pode negar é a escolha ideal de Chris Pratt para o papel de galã-macho-alfa, responsável por salvar o mundo controlado pela administradora do agora aberto ao público e renomeado parque, Claire (Bryce Dallas Howard, uma escolha também interessante). Pratt, recém-saído da série Parks and Recreation, se tornou sensação no último filme besteiro da Marvel, Guardiões da Galáxia, e desde então tem aprimorado seu jeito canastrão com uma ponta de seriedade. Aqui ele faz uma interpretação além do que se poderia esperar, criando um Owen à altura das elucubrações filosóficas do Dr. Ian Malcolm do original.

@@ -1,10 +1,13 @@
 ---
-date: "2020-07-20"
-link: "https://angelyvino.blogspot.com/2017/04/bodega-nanni-vinos-organicos-de-cafayate.html"
-categories: [ "food" ]
-tags: [ "wine" ]
-title: "Arcanus"
+categories:
+- food
+date: '2020-07-20'
+link: https://angelyvino.blogspot.com/2017/04/bodega-nanni-vinos-organicos-de-cafayate.html
+tags:
+- wine
+title: Arcanus
 ---
+
 Esta é a bodega orgânica da cidade de Cafayate (toda cidade tem suas frescuras). Minúscula a recepção, mas eles possuem um restaurante que funciona à noite (razoável). A visita turística não é muito empolgada nem completa, mas eles fazem o que podem sem estar na vinícola, mas muito próximo do centro da cidade.
 
 Este é o vinho mais caro deles, deixado doze meses em barricas de carvalho americano e nove meses em carvalho europeu. Adquiri uma garrafa 2011 em 2017 em nossa primeira visita à região e ela ficou depositada na minha adega por mais três anos, até que acabaram-se os vinhos em reserva por causa da pandemia. Vamos a ele.

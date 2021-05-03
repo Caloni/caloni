@@ -1,8 +1,11 @@
 ---
-date: "2010-10-09"
+categories:
+- draft
+- blog
+date: '2010-10-09'
 title: Três em um
-categories: [ "draft", "blog" ]
 ---
+
 Que vergonha passar tanto tempo sem postar nada. Parece que não fiz nada que valesse a pena comentar por aqui.
 
 Na verdade, não fiz tanto, mesmo. Muitas mensagens do Outlook, gráficos UML e reuniões de alinhamento depois, sobrou um tempinho pra programar. Aprendi algumas coisas que tinha o desejo de saber há tanto tempo... Agora eu sei, quem diria, criar linques suspensos nas janelas Win32! Que novidade, não? Pois é, isso exige, [de acordo com o SDK](http://msdn.microsoft.com/en-us/library/bb760706%28v=VS.85%29.aspx), algumas artimanhas pra fazer funcionar. Para quem está de Visual Studio 2008/2010 na mão basta seguir os passos seguintes.

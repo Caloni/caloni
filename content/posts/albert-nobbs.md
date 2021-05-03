@@ -1,9 +1,12 @@
 ---
-date: "2016-03-27"
-link: "https://www.imdb.com/title/tt1602098"
-categories: [ "draft", "movies" ]
-title: "Albert Nobbs"
+categories:
+- draft
+- movies
+date: '2016-03-27'
+link: https://www.imdb.com/title/tt1602098
+title: Albert Nobbs
 ---
+
 Não é uma discussão de gêneros, mas da estreiteza da alma humana. Albert Nobbs se torna um personagem de tragédia anunciada, mas nunca deixa de ser fascinante através da pele de uma Glenn Close obstinada em entregar uma figura que teve uma vida tão desesperada, e por tanto tempo, que se acostumou em viver presa em sua jaula do dia-a-dia, enquanto ajunta pacientemente centavos e xelins para uma dia viver a vida que lhe fora negada desde a infância. 
 
 Disfarçada de homem por toda a vida, Albert almeja conseguir se erguer com seus próprios pés, e assim não depender da estrutura da sociedade em que vive, e que certamente lhe colocaria na sarjeta se revelasse quem é, como uma mulher indigna de pertencer a um hotel cuja dona demonstra de todas as formas a pobreza material e espiritual que vem com o inevitável corolário: a mesquinhez como ferramenta de sobrevivência.

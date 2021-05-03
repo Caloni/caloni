@@ -1,8 +1,10 @@
 ---
-date: "2008-04-15"
-title: "Guia básico de controle de código (Mercurial)"
-categories: [ "code" ]
+categories:
+- code
+date: '2008-04-15'
+title: Guia básico de controle de código (Mercurial)
 ---
+
 Houve um bom motivo para que, semana passada, eu estivesse caçando inúmeras versões de um projeto desenvolvido fora da empresa: falta de controle de código. Esse tipo de lapso pode consumir de horas a dias de tempo perdido, dependendo de em quantas cópias de máquinas virtuais ficou espalhado o código.
 
 Já [escrevi a respeito] da importância de controlar e gerenciar o código-fonte para que a falta de um histórico exato das alterações não seja motivo de recorreções de problemas, binários no cliente sem contraparte para ajustes, além de uma série de dores de cabeça que costumam começar a ocorrer assim que nos damos conta que nosso software está uma bagunça que dói.

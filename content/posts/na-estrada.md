@@ -1,9 +1,11 @@
 ---
-date: "2012-07-31"
-link: "https://www.imdb.com/title/tt0337692"
-categories: [ "movies" ]
-title: "Na Estrada"
+categories:
+- movies
+date: '2012-07-31'
+link: https://www.imdb.com/title/tt0337692
+title: Na Estrada
 ---
+
 É impressionante a capacidade que este filme tem de se manter coeso e tenso, apesar de cansativo. Porém, esse cansaço, permita-me deduzir, é proposital: estamos vendo uma história que se passa principalmente em horas de viagem, preenchidas pelos diálogos, sentimentos e sensações dos amigos/amantes de Dean Moriarty (Garrett Hedlund), uma dessas pessoas com personalidade magnética. Ele atrai inclusive o jovem escritor Sal Paradise (Sam Riley), que busca se envolver em sua vida justamente para conseguir material para seu primeiro grande livro.
 
 Se passando de maneira linear, mas com grandes saltos temporais através dos diversos estados americanos da década de 40 que a trupe visita, sempre de carona (um costume muito mais comum na época) ou roubando gasolina e mantimentos nos postos pelo caminho, vemos basicamente o grupo fumar e beber as drogas da época, além do anseio por sensações diferentes a todo momento, e sexo é uma das variantes mais comuns.

@@ -1,9 +1,11 @@
 ---
-date: "2011-07-12"
-link: "https://www.imdb.com/title/tt1430607"
-categories: [ "movies" ]
-title: "Operação Presente"
+categories:
+- movies
+date: '2011-07-12'
+link: https://www.imdb.com/title/tt1430607
+title: Operação Presente
 ---
+
 A nova animação da Sony parte para o óbvio gênero de filmes natalinos dessa época, mas faz bonito: Operação Presente subverte nossos conceitos do que é atualmente o natal, parte do ponto de vista do Papai Noel e seus elfos e acusa de maneira inteligente o modo superficial pelo qual muitos de nós enxergamos essa data que um dia foi muito especial.
 
 O filme começa com a leitura de uma das inúmeras cartas que são endereçadas ao bom velhinho, de uma menina em uma cidadezinha da Inglaterra que faz perguntas que são respondidas enquanto deslumbramos todo o esquema que é montado para que o Papai Noel consiga entregar presentes para tantas crianças em uma única noite. Também é mostrado como ele pode viver através de séculos, quando na verdade há uma sucessão de "Papais Noel", na verdade, mais incrível é saber que o atual tem dois filhos: Steve, que faz a parte "operacional" da entrega dos presentes, e Arthur, o mais novo e mais empolgado com a data mágica.

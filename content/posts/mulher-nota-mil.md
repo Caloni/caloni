@@ -1,9 +1,11 @@
 ---
-date: "2011-08-22"
-link: "https://www.imdb.com/title/tt0090305"
-categories: [ "movies" ]
-title: "Mulher Nota Mil"
+categories:
+- movies
+date: '2011-08-22'
+link: https://www.imdb.com/title/tt0090305
+title: Mulher Nota Mil
 ---
+
 Mulher Nota Mil representa precisamente a época em que foi produzido, bem no meio da década de 80. E, ao mesmo tempo, serve como um belo reflexo de produções recentes, como American Pie, que demonstram que no que tange à síndrome dos garotos impopulares que nunca conseguem namoradas no colégio, o cinema não avançou quase nada: foi apenas atualizado para os padrões modernos.
 
 Não há dúvida que o filme é datado. Todos os símbolos da época estão lá: músicas, penteados, fotografia. Há uma visão dos pais antiquados, e o exagero nas expressões (mesmo se tratando de uma comédia). Os poderes do computador são usados para erotizar a história, mas, diferente de roteiros dignos de nota como Jogos de Guerra, o resultado é muito tosco e limitado. A trilha sonora sem imaginação homenageia clássicos dos anos 70 e início de 80. A maioria das cena são bordões usados à exaustão. Praticamente nada sobrevive do filme hoje em dia. É um documentário do que era cinema, sem dúvida. Porém, ainda de muito mal gosto.

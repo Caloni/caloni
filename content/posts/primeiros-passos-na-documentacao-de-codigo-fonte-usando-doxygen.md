@@ -1,8 +1,11 @@
 ---
-date: "2008-06-26"
+categories:
+- draft
+- blog
+date: '2008-06-26'
 title: Primeiros passos na documentação de código-fonte usando Doxygen
-categories: [ "draft", "blog" ]
 ---
+
 Comentários são essenciais em um código-fonte bem feito. O código pode até fazer milagres, salvar vidas e multiplicar pães, mas se não tiver um apóstolo eficiente que escreva um evangelho para ele, as pessoas não vão conseguir usar!
 
 OK, a analogia foi horrível.
@@ -92,4 +95,3 @@ Existem diversos outros tipos de marcadores e com certeza você encontrará muit
 
 	
   * Usando o Doxygen ([Parte 1](http://dqsoft.blogspot.com/2008/07/usando-o-doxygen-parte-1.html) e [Parte 2](http://dqsoft.blogspot.com/2008/07/usando-o-doxygen-parte-2.html)) - Daniel Quadros
-

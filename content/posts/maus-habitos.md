@@ -1,9 +1,12 @@
 ---
-date: "2019-03-30"
-link: "https://www.imdb.com/title/tt0085496"
-categories: [ "draft", "movies" ]
-title: "Maus Hábitos"
+categories:
+- draft
+- movies
+date: '2019-03-30'
+link: https://www.imdb.com/title/tt0085496
+title: Maus Hábitos
 ---
+
 Às vezes fico na dúvida se gosto mais da fase do Almodóvar raiz ou nutella, mas revendo Maus Hábitos me dou conta que a versão raiz é muito mais atraente. É de baixo orçamento, mas mais despojada, onde ele fazia muito (e mais) com pouco.
 
 Aqui a história se passa quase toda em um convento e ele nos diverte com freiras totalmente fora de controle. E a culpa é de Jesus! Explico.

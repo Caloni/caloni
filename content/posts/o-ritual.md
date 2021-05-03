@@ -1,9 +1,11 @@
 ---
-date: "2011-11-02"
-link: "https://www.imdb.com/title/tt1161864"
-categories: [ "movies" ]
-title: "O Ritual"
+categories:
+- movies
+date: '2011-11-02'
+link: https://www.imdb.com/title/tt1161864
+title: O Ritual
 ---
+
 Um "noviço" que, desistindo da vocação de padre, resolve dar uma última chance ao seu superior fazendo um curso de exorcismo no Vaticano. Há um diálogo estranho do superior insistindo no rapaz. Com o uso de uma cena forçada do superior causando a morte de uma ciclista, parece que o filme irá jogar suas causas de uma maneira não-orgânica.
 
 O clima de conspiração lembra Anjos e Demônios (a trilha corrida), e eu consigo relacionar quase sem querer a relação dos demônios na terra assim como os terroristas ("seu maior poder é nos convencer que não existe", "eles guardam a sete chaves suas identidades"). Seu pai e sua família cuidarem de maquiar defunto não me parece motivo para nada no filme.

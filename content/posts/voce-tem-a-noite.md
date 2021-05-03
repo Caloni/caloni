@@ -1,10 +1,14 @@
 ---
-date: "2019-10-12"
-link: "https://www.imdb.com/title/tt8908514"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Você Tem a Noite"
+categories:
+- draft
+- movies
+date: '2019-10-12'
+link: https://www.imdb.com/title/tt8908514
+tags:
+- cinemaqui
+title: Você Tem a Noite
 ---
+
 "Eu não tenho nada. Você tem a noite."
 
 Você Tem a Noite é daqueles filmes que ficamos durante o tempo todo tentando descobrir se estamos conseguindo acompanhar alguma história ou há algo mais do que vemos na superfície, e essa inconstância interpretativa no nosso cérebro não quer significa que o filme é ruim.

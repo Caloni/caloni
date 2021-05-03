@@ -1,9 +1,11 @@
 ---
-date: "2015-10-24"
-link: "https://www.imdb.com/title/tt1200060"
-categories: [ "movies" ]
-title: "The English Surgeon"
+categories:
+- movies
+date: '2015-10-24'
+link: https://www.imdb.com/title/tt1200060
+title: The English Surgeon
 ---
+
 A história do neurocirurgião Henry Marsh e de sua amizade com um médico na Ucrânia se confunde com os métodos vistos como arcaicos por ele em comparação com o sistema de saúde inglês. Acostumado a operar todo e qualquer paciente com um tumor detectado, lá ele leva sempre que visita a região apetrechos criados por ele em sua oficina a partir de restos de operações realizadas em sua terra natal. Quando uma broca de perfuração custa em torno de 80 euros e é usada só uma vez enquanto na ex-URSS uma é usada por muitos anos, nota-se um abismo gigantesco entre os sistemas de saúde dos dois países.
 
 Dirigido por Geoffrey Smith como em The Unbelievers, ou seja, um encontro casual entre dois velhos amigos, quase nunca vemos uma entrevista direta, mas a conversa entre os dois e seus pacientes. A narração em off de Marsh complementa seus sentimentos a respeito do que pensa sobre seus procedimentos de visitante, e quais as diferenças de tratamento. O ponto alto do filme é a operação de um tumor cerebral em um rapaz que sofre de epilepsia e que, por limitações na equipe local, terá que ser feita sem anestesia geral. As cenas são semi-fortes, mas isso depende de quanto sangue você consegue ver.

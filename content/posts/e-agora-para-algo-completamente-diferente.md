@@ -1,9 +1,12 @@
 ---
-date: "2015-12-12"
-link: "https://www.imdb.com/title/tt0066765"
-categories: [ "draft", "movies" ]
-title: "E Agora para Algo Completamente Diferente"
+categories:
+- draft
+- movies
+date: '2015-12-12'
+link: https://www.imdb.com/title/tt0066765
+title: E Agora para Algo Completamente Diferente
 ---
+
 Esse filme é uma compilação de quadros do programa televisivo do grupo de humoristas Monty Pyhton, e por incrível que pareça o conjunto da obra é menor do que a soma das suas clássicas piadas, talvez por não ser um filme de verdade e por exagerar o bizarro e surreal.
 
 Dirigido por Ian MacNaughton, diretor habitual do grupo, Ian, provavelmente com a ajuda dos rapazes, faz uma mescla de assuntos que se unem por animações pseudo-surreais que irão lembrar um "Pink Floyd: The Wall" subversivo, se isso fosse possível através do humor. Tudo está unido também pela presença de um apresentador que sempre fala o título do filme.

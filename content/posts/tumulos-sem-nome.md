@@ -1,10 +1,14 @@
 ---
-date: "2018-10-26"
-link: "https://www.imdb.com/title/tt8790662"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Túmulos Sem Nome"
+categories:
+- draft
+- movies
+date: '2018-10-26'
+link: https://www.imdb.com/title/tt8790662
+tags:
+- cinemaqui
+title: Túmulos Sem Nome
 ---
+
 Não é nenhum segredo as atrocidades cometidas durante o regime comunista da Cambódia, quando pessoas morriam de fome, doença ou eram sumariamente executadas. O que é inesperado no documentário de Rithy Panh são as consequências nas crenças do povo que sobreviveu.
 
 Eles cultuam a morte dos inúmeros milhares de anônimos para tentar expiar seus possíveis pecados por acreditar em revoluções sob a ideologia da igualdade acima de tudo. E como igualdade é algo que não está nos planos da natureza o homem em sua maldade racional precisa forçar isso, dividindo as pessoas em classes, decidindo como essas pessoas devem viver suas vidas.

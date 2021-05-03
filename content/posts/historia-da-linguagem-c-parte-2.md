@@ -1,8 +1,11 @@
 ---
-date: "2007-08-15"
-title: "História da Linguagem C: Parte 2"
-categories: [ "ccpp", "code" ]
+categories:
+- ccpp
+- code
+date: '2007-08-15'
+title: 'História da Linguagem C: Parte 2'
 ---
+
 No princípio... não, não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados senhores dos Laboratórios Bell, K. Thompson e D. Ritchie, criaram uma linguagem chamada B. E B era bom.
 
 ![Ken Thompson (esquerda) e Dennis Ritchie (direita). Fonte: wikipedia.org](/img/kthompson_dritchie.jpg)

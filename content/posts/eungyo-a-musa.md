@@ -1,9 +1,12 @@
 ---
-date: "2016-09-04"
-link: "https://www.imdb.com/title/tt2390253"
-categories: [ "draft", "movies" ]
-title: "Eungyo - A Musa"
+categories:
+- draft
+- movies
+date: '2016-09-04'
+link: https://www.imdb.com/title/tt2390253
+title: Eungyo - A Musa
 ---
+
 Uma relação entre uma jovem de 17 anos e um velho escritor aclamado de 70 anos é o tema deste drama que começa lúdico, se desenvolve com uma temática ambiciosa com uma crítica de nossa geração, e termina com um inesperado thriller. A sensação é de que ele é longo demais, quando na verdade parece apenas inacabado.
 
 Parece que o roteirista (e diretor) Ji Woo Chung está brincando com as sensações que giram em torno do mundo do romance e da poesia, pois desde que a lolita Han Eun-gyo (Go-eun Kim) aparece se balançando na cadeira do velho homem tudo lembra o literário, a ficção. E a poesia. Ela está desenvolvida na prosa, pois são os diálogos de Lee Juk-Yo (Hae-il Park), o escritor aposentado, que através da poesia representam a conexão que este faz com a intrometida jovem, através do uso da figura de um lápis para significar diferentes pontos de vista para a mesma coisa. E quando isso nos remete à leitura que o aprendiz Seo Ji-woo (Mu-Yeol Kim) faz durante o lançamento de seu primeiro livro e best-seller, não é difícil perceber que enquanto a garota está tentando descobrir um mundo novo através dos olhos do velho, o jovem escritor de sucesso, enquanto ajuda o mestre nos afazeres do lar, se aproveita para sugar o que ele tem a oferecer de suas décadas de aprendizado. E, por que não dizer, parasitar?

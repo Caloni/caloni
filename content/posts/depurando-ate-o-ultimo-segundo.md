@@ -1,8 +1,11 @@
 ---
-date: "2009-03-31"
-categories: [ "code", "draft",  ]
-title: "Depurando até o último segundo"
+categories:
+- code
+- draft
+date: '2009-03-31'
+title: Depurando até o último segundo
 ---
+
 Como depurar um programa que dá pau logo no final do desligamento de uma máquina?
 
 No cenário em que isso se passa não existem usuários logados no momento, o que significa a impossibilidade de rodar qualquer programa em uma sessão prévia e mantê-lo no ar após o logoff. A não ser que se trate de um serviço.

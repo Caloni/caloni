@@ -1,9 +1,12 @@
 ---
-date: "2016-04-22"
-link: "https://www.imdb.com/title/tt3032476"
-categories: [ "draft", "series" ]
-title: "Better Call Saul - Segunda Temporada"
+categories:
+- draft
+- series
+date: '2016-04-22'
+link: https://www.imdb.com/title/tt3032476
+title: Better Call Saul - Segunda Temporada
 ---
+
 A segunda temporada de Better Call Saul consegue repetir a façanha da primeira, em apresentar personagens fascinante com praticamente só imagens; aqui, porém, Saul tem que dividir as atenções com duas figuras cada vez mais presentes: o bom e velho Mike Ehrmantraut (Jonathan Banks) e a madura e persistente Kim Wexler (Rhea Seehorn). Ambos são caracteres que passa a valer a pena acompanhar e torcer junto, pois eles são, de uma maneira torta, lados da mesma moeda: a consistência e o caráter.
 
 Já Jimmy McGill (Bob Odenkirk), como já sabemos, não é a pessoa que pode-se atribuir valores éticos, mas um roteiro incrivelmente bem construído nos coloca contra a parede quando temos que ver a oposição que seu irmão mais velho, Chuck (Michael McKean), realiza. A função de Chuck é representar a advocacia imaculada, ainda que dura e cruel. O fato de estar associado a uma corporação dona de toda influência, não torna as coisas mais fáceis para o espectador. Há um momento particularmente inspirador nessa temporada, quando Kim e Jimmy batem de frente e com todas as cartas na figura incorruptível do McGill sênior.

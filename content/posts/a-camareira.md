@@ -1,10 +1,14 @@
 ---
-date: "2019-11-06"
-link: "https://www.imdb.com/title/tt8331988"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Camareira"
+categories:
+- draft
+- movies
+date: '2019-11-06'
+link: https://www.imdb.com/title/tt8331988
+tags:
+- cinemaqui
+title: A Camareira
 ---
+
 A Camareira é um filme lento sobre uma pessoa lenta que nem sabe o próprio signo. O objetivo é termos dó dessa criatura, devagar no raciocínio, mas muito caprichosa, embora com movimentos de um zumbi, que vai aos poucos aprendendo que ser competente apenas beneficia aos outros. O drama surge na banalidade das ações do dia a dia, e essa banalidade contamina o próprio filme, pois ele aos poucos, em vez de se tornar relevante, se torna esquecível.
 
 Evelia é a protagonista absoluta. Tudo gira em torno dessa pessoa dedicada e atenciosa que quase não percebemos que está desesperada. Com movimentos sutis ela vai ganhando a vida de forma dura, trabalhando quase todo o tempo como camareira de um hotel chique na Cidade do México cujos clientes são impessoais e rudes. Ela precisa limpar mais quartos para com a renda extra poder manter seu filho e a vemos o tempo todo dentro do hotel e de uniforme para termos a sensação de uma carga de trabalho tão pesada que ela já se esqueceu que é um ser humano. Mas Evelia é um ser humano, e como todo mundo possui desejos para si, como ser desejada, pegar um vestido vermelho nos Achados e Perdidos e ganhar o andar mais luxuoso para limpar.

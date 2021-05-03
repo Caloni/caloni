@@ -1,8 +1,11 @@
 ---
-date: "2016-04-16"
-title: "Rank and File (Code Jam)"
-categories: [ "draft", "blog" ]
+categories:
+- draft
+- blog
+date: '2016-04-16'
+title: Rank and File (Code Jam)
 ---
+
 Passou o Round 1A do Code Jam, e para variar, fui muito mal, só respondendo a primeira questão. A [segunda](https://code.google.com/codejam/contest/4304486/dashboard#s=p1) me fez ficar pensando um tempo desproporcional sobre como encaixar as diferentes linhas e colunas para achar a linha restante.
 
 Basicamente, o problema pede que, dado um quadrado de tamanho N, e 2*N-1 linhas fornecidas (que podem ser linhas ou colunas), imprimir a Nésima linha. A regra das linhas é que ela possui números crescentes.

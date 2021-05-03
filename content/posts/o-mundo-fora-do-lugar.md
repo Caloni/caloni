@@ -1,10 +1,14 @@
 ---
-date: "2017-03-28"
-link: "https://www.imdb.com/title/tt3790172"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Mundo Fora do Lugar"
+categories:
+- draft
+- movies
+date: '2017-03-28'
+link: https://www.imdb.com/title/tt3790172
+tags:
+- cinemaqui
+title: O Mundo Fora do Lugar
 ---
+
 O Mundo Fora do Lugar é uma sutil defesa dos psicologicamente abusados (coincidentemente mulheres em um relacionamento). Ele usa um drama familiar do passado com revelações de novela, mas faz isso com muito charme e boa música. E é um filme alemão, o que nesse caso quer dizer que as emoções estarão contidas, embora elas existam.
 
 O pilar da história é Sophie uma mulher que não consegue manter um relacionamento por mais de dois anos (Katja Riemann). Ela ironicamente realiza cerimônias não-oficiais de casamento, e observa com um certo tom de sarcasmo o que torna um casal junto por quase uma década. Sua paixão é cantar, como sua mãe, mas ela é demitida por estar no lugar errado. Ela não se encaixa no mundo em sua volta, e tudo o que resta a ela é se cobrir em sua cama e lamentar.

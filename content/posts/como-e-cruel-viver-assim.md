@@ -1,9 +1,12 @@
 ---
-date: "2018-08-28"
-link: "https://www.imdb.com/title/tt8792492"
-categories: [ "draft", "movies" ]
-title: "Como é Cruel Viver Assim"
+categories:
+- draft
+- movies
+date: '2018-08-28'
+link: https://www.imdb.com/title/tt8792492
+title: Como é Cruel Viver Assim
 ---
+
 Um "pai de família" procura um emprego de taxista. E nem como taxista ele é aceito. Então ele caminha pela rua, observa os transeuntes em uma praça, e avista uma senhora idosa vendendo alguma coisa de aspecto sujo em uma forma levantada pelo seu único braço. O outro braço ela não tinha. Ele tem um insight, e decide que precisa fazer um sequestro para conseguir ter meios para viver.
 
 O filme de Julia Rezende baseado na peça de Fernando Ceylão (que assina o roteiro) não deixa de ser teatral, por ter muitas falas, embora os cenários e a movimentação estilo "câmera na mão" aliado a enquadramentos distorcidos daquelas pessoas tentem tornar a história mais dinâmica e mais caricata. Consegue parcialmente. Quem completa é a fotografia de Dante Belluti, que narra uma comédia usando tons opacos que deixam o humor triste.

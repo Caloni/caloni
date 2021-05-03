@@ -1,8 +1,11 @@
 ---
-date: "2011-07-26"
+categories:
+- draft
+- code
+date: '2011-07-26'
 title: Cuidado com variáveis temporárias
-categories: [ "draft", "code" ]
 ---
+
 Um dos problemas que a linguagem C++ possui para seus iniciantes é o de não deixar muito explícito partes do seu comportamento, principalmente as partes que lidam com ponteiros/referências e o jogo da vida dos objetos. Às  vezes a coisa fica de tal como complexa que fica até difícil explicar o porquê das coisas.
 
 Por exemplo, vejamos o singelo caso de alguém que precisa formatar uma saída de erro e para isso escolheu um stringstream:

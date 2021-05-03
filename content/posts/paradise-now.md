@@ -1,9 +1,11 @@
 ---
-date: "2012-05-09"
-link: "https://www.imdb.com/title/tt0445620"
-categories: [ "movies" ]
-title: "Paradise Now"
+categories:
+- movies
+date: '2012-05-09'
+link: https://www.imdb.com/title/tt0445620
+title: Paradise Now
 ---
+
 Não é o fato de um filme contar a história de um homem-bomba sob seu ponto de vista, algo incomum para o Ocidente, que ele se torna automaticamente uma ótima referência ao tema. Contudo, quando esse ponto de vista está embebido em melancolia e ressentimentos de uma infância que não conheceu uma realidade diferente do inferno da Guerra (inclusive com a perda do pai causada diretamente por esta), é aí que começamos a analisar se o projeto de fato merece crédito.
 
 Cores básicas, azul, vermelho, verde, tomam conta do figurino dos personagens principais, enquanto as secas e drenadas paisagens fazem rima de um lugar nada agradável para se viver, em meio a ruínas de prédios e eventuais tiros e bombas no caminho para casa. Curiosamente, Khaled (Ali Suliman) e Jamal (Amer Hlehel), colaboradores do movimento contra a ocupação israelita na região da Palestina, decidem fazer o último esforço e morrer como heróis de um atentado contra os soldados do estado de Israel; eles se vestem de preto e branco de maneira impecável, em uma espécie de contraste que ecoa por todo o horizonte amarelado e miserável.

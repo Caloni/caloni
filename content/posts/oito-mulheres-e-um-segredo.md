@@ -1,9 +1,12 @@
 ---
-date: "2018-11-18"
-link: "https://www.imdb.com/title/tt5164214"
-categories: [ "draft", "movies" ]
-title: "Oito Mulheres e Um Segredo"
+categories:
+- draft
+- movies
+date: '2018-11-18'
+link: https://www.imdb.com/title/tt5164214
+title: Oito Mulheres e Um Segredo
 ---
+
 Oito Mulheres e Um Segredo entretém como seus antecessores, graças mais ao seu elenco que está em harmonia de interpretações. Aliás, a parte mais inacreditável do filme é entender como tantas mulheres juntas conseguem se dar bem.
 
 Talvez a resposta esteja no passado. A personagem de Sandra Bullock é irmã do personagem de George Clooney, que até onde se pode dizer está morto e enterrado. Mas Bullock age para se vingar do seu ex que a colocou na prisão (interpretado pelo insosso Richard Armitage), e isso é bem feminino.

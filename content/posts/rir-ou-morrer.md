@@ -1,10 +1,14 @@
 ---
-date: "2018-10-23"
-link: "https://www.imdb.com/title/tt7220696"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Rir ou Morrer"
+categories:
+- draft
+- movies
+date: '2018-10-23'
+link: https://www.imdb.com/title/tt7220696
+tags:
+- cinemaqui
+title: Rir ou Morrer
 ---
+
 Rir ou Morrer é um filme bobinho que encontra sua graça nos fiapos de personagens que vemos, baseados bem por cima em fatos reais que ocorreram durante a primeira guerra. Ironicamente é sua leveza que nos deixa imunes ao que pode acontecer com seus heróis.
 
 A história se passa durante os conflitos na Finlândia na Primeira Guerra, quando entre alemães e russos soviéticos, eles ficaram com os alemães. E a parte revolucionária que apoiava os russos, muitos do partido socialista, acabaram virando prisioneiros de guerra. Mas não eram soldados: eram comediantes. Entre o paredão de fuzilamento e uma nova chance eles precisam entreter seus novos líderes.

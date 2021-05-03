@@ -1,10 +1,14 @@
 ---
-date: "2019-10-30"
-link: "https://www.imdb.com/title/tt5431890"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Segredos Oficiais"
+categories:
+- draft
+- movies
+date: '2019-10-30'
+link: https://www.imdb.com/title/tt5431890
+tags:
+- cinemaqui
+title: Segredos Oficiais
 ---
+
 Esta é uma história real que envolve política e a Guerra do Iraque deste século, mas está fora do timing; é um filme britânico deslocado dos assuntos do momento, como o #brexit. Além disso, seu assunto jurídico é chato, cheio de detalhes legais que precisamos aprender para entender a trama. Sua heroína é uma subalterna de um órgão terceirizado do governo, sem qualquer appealing. Seu desfecho é totalmente anticlimático, sabotando nosso envolvimento pelas últimas duas horas. E apesar de tudo isso, Segredos Oficiais é absurdo de tão bom. Tenso, comovente, claro e empolgante. Como tudo isso funciona apesar de?
 
 Em primeiro lugar, o roteiro de Sara e Gregory Bernstein, adaptado do livro The Spy Who Tried to Stop a War, de Marcia e Thomas Mitchell, coloca uma moça chamada Katharine Gun (Keira Knightley) na frente de uma corte de alta instância, fazem uma acusação de traição do seu país, e pergunta para ela se ela se declara culpada e inocente. Não ouvimos sua resposta, porque o filme retorna dois anos no passado, mas acostumados que estamos com esse artifício, mal nos importamos com o que ela dirá. E não nos importar com sua resposta, o filme irá nos mostrar, é um ledo engano.

@@ -1,9 +1,12 @@
 ---
-date: "2017-04-01"
-link: "https://www.imdb.com/title/tt6724372"
-categories: [ "draft", "series" ]
-title: "Netflix Live"
+categories:
+- draft
+- series
+date: '2017-04-01'
+link: https://www.imdb.com/title/tt6724372
+title: Netflix Live
 ---
+
 Prepare-se para o "streaming" mais emocionante já lançado por um serviço de "streaming". Netflix Ao Vivo possui momentos do cotidiano que podem se tornar emocionantes, divertidos, hilários e até empolgantes!
 
 Através da narração inspirada do dublador da série animada BoJack Horseman, vamos acompanhar momentos ao lado de figuras marcantes, e muitas vezes essenciais. Estaremos cara a cara, e ao vivo, do lado de um micro-ondas, uma torradeira, uma luta de polegares, o interior de uma geladeira -- com uma salada de uma tal de Jéssica -- palavras cruzadas e quebra-cabeças, e até um motorista tentando estacionar o carro!

@@ -1,9 +1,12 @@
 ---
-date: "2019-02-02"
-link: "https://www.imdb.com/title/tt0209144"
-categories: [ "draft", "movies" ]
-title: "Amnésia"
+categories:
+- draft
+- movies
+date: '2019-02-02'
+link: https://www.imdb.com/title/tt0209144
+title: Amnésia
 ---
+
 Você se lembra do último excelente filme que você viu? Leonard com certeza não. Ele não consegue nem lembrar de bons momentos de sua vida após a esposa ter sido assassinada e sua cabeça lesada. Bom, talvez se conseguisse lembrar ele não teria nenhuma boa lembrança. Exceto, talvez, o dia em que ele matou o assassino de sua esposa. Mas será que isso aconteceu realmente?
 
 Memento, ou Amnésia, como é chamado no Brasil porque as distribuidoras daqui tem demência (e essa é a palavra certa), é um dos primeiros filmes do hoje aclamado diretor Christopher Nolan, e com certeza esse foi um dos filmes que ajudou-o a atingir a lista dos grandes de Hollywood até jovens espinhosos pós-11 de setembro começar a venerá-lo pela trilogia do Batman.

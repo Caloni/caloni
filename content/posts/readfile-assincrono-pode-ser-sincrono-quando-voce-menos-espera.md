@@ -1,9 +1,11 @@
 ---
-date: "2017-01-16"
-title: "ReadFile assíncrono pode ser síncrono quando você menos espera"
-categories: [ "draft", "code" ]
-
+categories:
+- draft
+- code
+date: '2017-01-16'
+title: ReadFile assíncrono pode ser síncrono quando você menos espera
 ---
+
 Ano passado tive alguns problemas em um projeto que se comunicava com um dispositivo em firmware pela USB. Estávamos utilizando uma biblioteca open source do GitHub que parecia estar bem testada e mantida. Porém, não exatamente para nossos objetivos.
 
 O problema da lib [hidapi](https://github.com/signal11/hidapi) era que a comunicação usb era feita de forma assíncrona. Isso no Windows é feito com a mesma função de I/O (ReadFile/WriteFile) só que passando um argumento opcional chamado de overlapped. Esse argumento é um ponteiro para uma estrutura que irá ser preenchida assim que o I/O for concluído. E quando é isso? Deve-se esperar pelo handle ser sinalizado (em outras palavras, dando um Sleep ou WaitForSingleObject neste handle).

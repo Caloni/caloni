@@ -1,8 +1,10 @@
 ---
-date: "2016-08-17"
-categories: [ "draft" ]
-title: "Se não está funcionando direito, mexa!"
+categories:
+- draft
+date: '2016-08-17'
+title: Se não está funcionando direito, mexa!
 ---
+
 Uma breve história de um chuveiro: O de casa às vezes inventa de dar choque. Isso desde que me mudei (uns 2 anos e meio). Não são choques brabos, daqueles de fazer a pessoa tremer. É apenas uma quase estática ao tocar no registro para abrir ou fechar a água. No entanto, já é motivo para pessoas mais sensíveis, como minha sobrinha de oito anos, se recusar a encostar no registro. Frecura.
 
 (Pensando bem, quando eu era criança, tinha até medo de ficar no mesmo quarto onde havia fiação desencapada, mesmo sem energia.)

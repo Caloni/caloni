@@ -1,10 +1,14 @@
 ---
-date: "2019-06-05"
-link: "https://www.imdb.com/title/tt6565702"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "X-Men: Fênix Negra"
+categories:
+- draft
+- movies
+date: '2019-06-05'
+link: https://www.imdb.com/title/tt6565702
+tags:
+- cinemaqui
+title: 'X-Men: Fênix Negra'
 ---
+
 "X-Men: Fênix Negra" é uma grande metáfora de como ao ganhar poderes incontroláveis movimentos sociais como feminismo criam vítimas aleatórias por onde quer que passem com poder de ferir justamente os que te querem bem: os únicos amigos que aguentaram ficar perto de você.
 
 Essa é uma despedida à altura da franquia X-Men, iniciada nos anos 2000 e da série reiniciada em First Class, que mantém em seus filmes do começo ao fim uma estrutura impecável (se você ignorar "Origins: Wolverine"). Claro que há aquele desafio eterno das continuações ficarem tão boas quanto o original, e aqui podemos dizer que se trata de "apenas" uma continuação. Porém, momentos satisfatórios ao lado dos super-heróis que aprendemos a admirar, o que já é alguma coisa.

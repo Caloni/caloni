@@ -1,9 +1,11 @@
 ---
-date: "2013-02-07"
-link: "https://www.imdb.com/title/tt1045658"
-categories: [ "movies" ]
-title: "O Lado Bom da Vida"
+categories:
+- movies
+date: '2013-02-07'
+link: https://www.imdb.com/title/tt1045658
+title: O Lado Bom da Vida
 ---
+
 A partir do primeiro encontro entre Tiffany (Jennifer Lawrence, [Inverno da Alma]) e Patrick (Bradley Cooper, Se Beber Não Case), mais precisamente no momento em que ela esbofeteia a sua cara, sabemos de imediato que vale a pena seguir essas duas vidas "para ver no que dá".
 
 Não que sejam as únicas pessoas que mereçam atenção. De uma maneira coesa e ao mesmo tempo torturante, o diretor e roteirista David O. Russell ([O Vencedor]), baseado no livro de Matthew Quick, nos deixa conhecer um pouco dos outros fascinantes participantes daquela experiência de vida. Uso a palavra experiência pois Patrick acabou de sair do hospital psiquiátrico depois de um tratamento após quase matar o amante de sua mulher e Tiffany está tentando superar a morte do marido e sua recaída moral através do sexo banal. Pat, como costuma ser chamado, possui bipolaridade, e a divisão do seu nome talvez sugira sua tentativa de sempre tentar enxergar o lado bom, método empregado por ele para tentar se desvencilhar do seu lado agressivo.

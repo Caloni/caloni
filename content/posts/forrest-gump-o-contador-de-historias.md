@@ -1,9 +1,12 @@
 ---
-date: "2018-01-12"
-link: "https://www.imdb.com/title/tt0109830"
-categories: [ "draft", "movies" ]
-title: "Forrest Gump: o Contador De Histórias"
+categories:
+- draft
+- movies
+date: '2018-01-12'
+link: https://www.imdb.com/title/tt0109830
+title: 'Forrest Gump: o Contador De Histórias'
 ---
+
 Difícil não sonhar com este filme. Ele é a síntese da história americana unida com a síntese do seu próprio espírito. Forrest Gump é tudo o que um ser humano médio nunca conseguirá ser, ainda que seu QI seja muito superior ao de Forrest. O que falta em nós e sobra em Forrest é ação. O que sobra em nós e falta em Forrest é o intelecto fruto dos sonhos vazios e incompletos de nossa existência. Dessa forma, Forrest é um ser humano completo como muitos nunca chegarão a sonhar ser.
 
 É claro que estamos falando de uma lenda. Ele nunca existiu, assim como nunca foi condecorado duas vezes na Casa Branca, ou conheceu John Lennon em um programa de entrevistas, ou investiu no mercado de camarões ou na promissora Apple. Nada do que Forrest fez existiu, assim como quase nada que nós pensamos sobre nossas próprias vidas, pessoas de QI médio, foi realizado de fato. Nossa imaginação é mil vezes mais ativa que nosso próprio corpo. É por isso que Forrest existe em nossos sonhos. E sempre existirá. É a lenda do americano que foi lá e fez. Tudo.

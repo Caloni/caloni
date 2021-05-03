@@ -1,9 +1,12 @@
 ---
-date: "2019-06-17"
-link: "https://www.imdb.com/title/tt0762110"
-categories: [ "draft", "movies" ]
-title: "Irina Palm"
+categories:
+- draft
+- movies
+date: '2019-06-17'
+link: https://www.imdb.com/title/tt0762110
+title: Irina Palm
 ---
+
 Irina Palm se passa em uma cinzenta Londres, no mundo real. A história é sobre como a geração dos nossos avós precisam arregaçar as mangas enquanto nossos millenials ficam chorando em um canto, inconformados com tamanha injustiça no mundo onde as pessoas devem se sacrificar pelo que acreditam.
 
 Maggie é uma avó que quer que seu neto doente sobreviva aos pais fracos. Sem dinheiro para conseguir pagar pelo tratamento médico, ela encontra nos inferninhos da cidade um emprego em que ela precisa masturbar homens que colocam seus pênis dentro de um orifício. O único problema é que Maggie é uma viúva que teve apenas um homem em sua vida, e apesar de decidida ela precisa aprender a conviver com sua decisão.

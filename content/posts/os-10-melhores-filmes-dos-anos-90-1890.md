@@ -1,8 +1,11 @@
 ---
-date: "2016-09-11"
-categories: [ "draft", "lists" ]
-title: "Os 10 melhores filmes dos anos 90... 1890!"
+categories:
+- draft
+- lists
+date: '2016-09-11'
+title: Os 10 melhores filmes dos anos 90... 1890!
 ---
+
 Esta é uma ótima seleção feita pelo saite A.V. Club, que contém para variar vários trabalhos do genial Georges Méliès, além também dos trabalhos mais técnicos de Thomas Edison. É preciso lembrar que a sétima arte estava apenas engatinhando.
 
 Um primeiro exemplo do cotidiano, que não quer dizer nada em particular, mas que já documenta uma rotina da época, e hoje é um dos melhores exemplos dos curtas iniciais do cinema.

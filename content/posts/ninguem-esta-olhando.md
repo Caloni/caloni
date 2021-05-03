@@ -1,10 +1,14 @@
 ---
-date: "2017-11-16"
-link: "https://www.imdb.com/title/tt3810810"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Ninguém Está Olhando"
+categories:
+- draft
+- movies
+date: '2017-11-16'
+link: https://www.imdb.com/title/tt3810810
+tags:
+- cinemaqui
+title: Ninguém Está Olhando
 ---
+
 Ninguém Está Olhando é um estudo de personagem eficiente, o que não quer dizer que necessariamente agradável. É difícil entender os motivos do protagonista sem cair nos velhos preconceitos. E com isso é difícil se identificar com um rapaz tão problemático. Porém, se você pertence à geração mimimi, tenho boas notícias pra você.
 
 Nico, interpretado de maneira contida, carismática e sob constante pressão por Guillermo Pfening, é um ator que está encurralado em país estrangeiro. Ele parece ter se colocado propositadamente nessa posição de desesperança porque parece estar sentindo a pressão de todos os lados, como aos poucos vamos percebendo. Não é pressão financeira, mas é ela que bate mais forte no sujeito, que enquanto astro de uma novela de sucesso em seu país de origem, Argentina, é um ilustre desconhecido nas ruas de Nova York. Sua amiga e sua colega de apartamento são legais, mas nem tanto. Entendemos até certo ponto as motivações do sujeito, que sofre uma desilusão amorosa junto de outra desilusão na carreira. A falta de dinheiro parece ser o menor dos problemas.

@@ -1,8 +1,11 @@
 ---
-date: "2007-07-24"
-title: "C++0x parcial no novo GCC 4.3"
-categories: [ "code", "ccpp" ]
+categories:
+- code
+- ccpp
+date: '2007-07-24'
+title: C++0x parcial no novo GCC 4.3
 ---
+
 A [nova versão do GCC] implementa em caráter de teste algumas novas características da nova versão da linguagem C++, que será lançada ainda nesta década (provavelmente em 2009). As novas funcionalidades são empolgantes e já fazem parte do imaginário dos programadores C++ já há algum tempo.
 
 Atualmente temos duas maneiras de fazer asserções: usando a função assert (assert.h) ou utilizando a diretiva do pré-processador #error. Nenhum desses dois serve para emplates Para eles deverá ser definida a nova palavra-chave static_assert, que irá ser composta de dois parâmetros:

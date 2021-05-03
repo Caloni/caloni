@@ -1,9 +1,12 @@
 ---
-date: "2019-03-06"
-link: "https://www.imdb.com/title/tt0094721"
-categories: [ "draft", "movies" ]
-title: "Beetlejuice: Os Fantasmas Se Divertem"
+categories:
+- draft
+- movies
+date: '2019-03-06'
+link: https://www.imdb.com/title/tt0094721
+title: 'Beetlejuice: Os Fantasmas Se Divertem'
 ---
+
 Se vocês assistiram Uma Aventura Lego 2 recentemente, podem confiar na opinião do Batman: Michael Keaton está ótimo em Beetlejuice.
 
 Já como o filme, o que dizer? É o Tim Burtiniano de sempre, seja nos anos 80, 90 ou 2000: cheio de gadgets visuais que não impressionam mais, mas cumprem seu papel. Alguém estica a cara e fica com olhos gigantes, arrancando seus globos oculares e grudando-os multiplicados nos dedos das mãos. É uma visão sintetizadora do poder de imaginação do cineasta.

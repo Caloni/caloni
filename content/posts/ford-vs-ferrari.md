@@ -1,10 +1,14 @@
 ---
-date: "2019-11-06"
-link: "https://www.imdb.com/title/tt1950186"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Ford Vs Ferrari"
+categories:
+- draft
+- movies
+date: '2019-11-06'
+link: https://www.imdb.com/title/tt1950186
+tags:
+- cinemaqui
+title: Ford Vs Ferrari
 ---
+
 Ford Vs Ferrari narra uma corrida histórica, mas seu pano de fundo é um conto de fadas estadunidense com o objetivo de levantar questões controversas a respeito da postura dos "homens de verdade" das décadas pós-guerra, sendo a principal das questões qual a envergadura moral de um Henry Ford II em levantar a bandeira do industrialista orgulhoso, quando tudo o que lhe resta dos tempos gloriosos e do trabalho duro de seu avô são milhões de dólares e influência herdados e empacotados na forma de uma diretoria pronta para concordar com seu chefe apenas por ser seu chefe.
 
 Para quem trabalha na era da informação, onde boas ideias podem vir de qualquer lugar e nacionalidade, chega a ser risível a idolatria à hierarquia e nacionalismo dos anos 60, quando a própria geração de adolescentes já começava a se dar conta da mudança de valores no ar. O filme dirigido por James Mangold absorve essa atmosfera nos apresentando a ela primeiro, junto de seus principais personagens e conflitos, para depois nos aprofundar nos aspectos históricos da aventura.

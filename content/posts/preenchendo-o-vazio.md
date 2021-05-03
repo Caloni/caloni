@@ -1,9 +1,11 @@
 ---
-date: "2013-10-16"
-link: "https://www.imdb.com/title/tt2219514"
-categories: [ "movies" ]
-title: "Preenchendo o Vazio"
+categories:
+- movies
+date: '2013-10-16'
+link: https://www.imdb.com/title/tt2219514
+title: Preenchendo o Vazio
 ---
+
 Uma fuga de nossa cultura vigente às vezes faz bem. Curioso constatar que, mesmo imersos na rotina, crenças e cânticos da religião judia ortodoxa, os mesmos dramas humanos se configuram.
 
 A história gira em torno de Shira (a linda Hadas Yaron), filha caçula de uma família que possui já um casamento com a grávida Esther (Renana Raz) e uma das filhas pronta para ficar para tia Frieda (Hila Feldman). Shira já está sendo "encomendada" para o segundo casamento da família com um jovem que, mesmo estranho, parece ser a esperança da menina de viver algo de novo e diferente em sua rotina extremamente tediosa e repetitiva.

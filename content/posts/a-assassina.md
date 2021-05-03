@@ -1,9 +1,12 @@
 ---
-date: "2017-01-05"
-link: "https://www.imdb.com/title/tt3508840"
-categories: [ "draft", "movies" ]
-title: "A Assassina"
+categories:
+- draft
+- movies
+date: '2017-01-05'
+link: https://www.imdb.com/title/tt3508840
+title: A Assassina
 ---
+
 Esta é uma dica para os fãs de adaptações live-action de animes, para os fãs de filmes de lutas marciais sem sentido e para os fãs da cultura milenar do Oriente. A estilização por si só gera resultados bonitos, impressionantes e que entretem momentaneamente. É seguindo a contramão que A Assassina estiliza seu retrato perene de um momento na história da China para atingir não a beleza pela beleza, mas a introspecção do espectador em um mundo que não existe mais, mas que em algum momento do tempo era vívido, colorido e rico nas mentes das pessoas.
 
 Nessa história não há necessariamente pessoas, mas ícones. Não acompanhamos um drama de um ponto de vista íntimo o suficiente para entendermos esta história como algo pessoal. Não há diálogos expositivos, nem momentos reveladores. Há apenas fatos que se sucedem como um contador de histórias daquela época, que não extrai moral alguma do que acontece, mas entende no fundo qual o drama desses pseudo-personagens, e através disso podemos, aí sim, tentar entender alguma coisa daquele mundo distante, eterno, mistificado.

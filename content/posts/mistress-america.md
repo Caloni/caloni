@@ -1,10 +1,13 @@
 ---
-date: "2015-10-26"
-link: "https://www.imdb.com/title/tt2872462"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Mistress America"
+categories:
+- movies
+date: '2015-10-26'
+link: https://www.imdb.com/title/tt2872462
+tags:
+- cinemaqui
+title: Mistress America
 ---
+
 O diretor Noah Baumbach faz aqui um trabalho menos intelectualmente fechado que seu "Frances Ha", mas emprega a mesma atriz, Greta Gerwig, que surge de sopetão e é a mesma Frances que conhecemos no filme anterior.
 
 A história é saborosa do começo ao fim, com diálogos inteligentes, bem colocados, e com uma dinâmica que, assim como em "Juno", de vez em quando corre o sério risco de soar "inteligente demais para ser realista". E, de fato, em muitos momentos o espectador irá parar, respirar e se imaginar mais em um palco de teatro do que em uma sala de projeção.

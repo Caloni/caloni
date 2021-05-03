@@ -1,9 +1,11 @@
 ---
-date: "2011-10-29"
-link: "https://www.imdb.com/title/tt0910559"
-categories: [ "movies" ]
-title: "Cerejeiras em Flor"
+categories:
+- movies
+date: '2011-10-29'
+link: https://www.imdb.com/title/tt0910559
+title: Cerejeiras em Flor
 ---
+
 Hanami conta a história de um casal que mantém uma vida pacata no interior da Alemanha enquanto mantém uma relação distante com seus três filhos, especialmente o caçula, que vive em Tóquio. O sonho da esposa é poder visitá-lo, pois, além da saudade, é visivelmente encantada pela cultura japonesa, como pode-se perceber pelos detalhes de decoração da casa deles e pelo seu interesse no butô, um estilo de dança teatral que utiliza a expressão do corpo e seu efeito na sombra formada pelos movimentos.
 
 Assim como o butô, a direção de Doris Dörrie ([Felicidade]) trabalha sua narrativa de maneira sutil, desenhando e evoluindo as emoções do marido a partir da sombra de sua mulher, que sempre determina suas ações a partir de um momento-chave no longa. Para isso, é vital a entrega do ator Elmar Wepper, que compreende que viver passa a ter como função realizar os desejos de sua mulher, e daí a dicotomia da dança, que une marido e esposa como corpo e sombra (sendo que quem comanda os movimentos é justamente a sombra, na visão de uma dançarina de butô que surge no filme no segundo ato).

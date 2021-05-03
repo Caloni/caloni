@@ -1,9 +1,11 @@
 ---
-date: "2011-09-18"
-link: "https://www.imdb.com/title/tt0409847"
-categories: [ "movies" ]
-title: "Cowboys e Aliens"
+categories:
+- movies
+date: '2011-09-18'
+link: https://www.imdb.com/title/tt0409847
+title: Cowboys e Aliens
 ---
+
 Não há muito o que falar da história em Cowboys & Aliens, novo filme de Jon Favreau (dos [dois] [Homem de Ferro] e Zathura - Uma Aventura Espacial). O título já torna tudo muito óbvio, por mais bizarro que isso seja. No entanto, acredito que a definição desse gênero misto acabe sendo o principal motivo do filme não conseguir "decolar" em nenhum momento, sendo constantemente cozinhado em forno brando.
 
 O filme começa com uma introdução no deserto, onde um homem desconhecido (Craig), uma alusão ao personagem clássico de Clint Eastwood, se encontra com uma espécie de algema em um dos braços que irá se revelar uma arma alienígena quando estes aparecerem novamente por aquelas bandas.

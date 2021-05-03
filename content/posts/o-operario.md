@@ -1,9 +1,12 @@
 ---
-date: "2019-01-20"
-link: "https://www.imdb.com/title/tt0361862"
-categories: [ "draft", "movies" ]
-title: "O Operário"
+categories:
+- draft
+- movies
+date: '2019-01-20'
+link: https://www.imdb.com/title/tt0361862
+title: O Operário
 ---
+
 O Operário é daqueles filmes que apesar de ser um thriller caminha bem no drama, e isso funciona na primeira vez que você assiste, sem saber por que o personagem de Christian Bale não consegue dormir, quanto na segunda vez, quando você já pode se interessar em aspectos mais sutis do excelente roteiro.
 
 Esse duplo aproveitamento do filme funciona porque a personalidade que Bale nos entrega de Trevor Reznik é de uma pessoa que foi se tornando solitária naturalmente, talvez por conta da morte da mãe. Mas para chegar ao ponto de desenvolver uma relação de intimidade com uma garota de programa que contrata mais por companhia e menos por sexo e dar gorjetas extremamente generosas a uma garçonete em um café onde costuma ficar por ter alguém para conversar de madrugada ele precisa ter desenvolvido uma baixa estima considerável.

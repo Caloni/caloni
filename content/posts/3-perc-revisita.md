@@ -1,9 +1,12 @@
 ---
-date: "2017-01-01"
-link: "https://www.imdb.com/title/tt4922804"
-categories: [ "draft", "series" ]
-title: "3%: spoilers sobre uma série para bandidos"
+categories:
+- draft
+- series
+date: '2017-01-01'
+link: https://www.imdb.com/title/tt4922804
+title: '3%: spoilers sobre uma série para bandidos'
 ---
+
 Michele e Rafael são idiotas úteis movidos por vingança -- e que poderia muito bem ser outro sentimento negativo, como inveja -- e instrumentados por um movimento semelhante ao PCC de São Paulo, Brasil. Seu objetivo como grupo é claro: roubar a riqueza dos que prosperam do "lado de lá", uma sociedade formada inteiramente através de um processo meritocrático, e que não precisou de nem um centavo das milhares de miseráveis que sobrevivem como selvagens em uma grande favela sem leis chamada de "lado de cá".
 
 Os fundadores do lado de lá foi um casal, que não obrigou ninguém a segui-los nem forçou ninguém a ajudá-los. Agora, mais de cem anos depois, vemos dezenas de jovens se digladiando em um processo que irá lhes dar o privilégio de sair da selvageria da lei do mais forte. No meio deles, Michele e Rafael "lutam" como piratas sem honra, como o escárnio da sociedade de miseráveis. Além de não conseguirem produzir nada que preste exceto pobreza e violência, os moradores do lado de cá aos poucos se organizaram em uma facção criminosa movida pela inveja, declarando politicamente que todos teriam direito aos recursos produzidos pelo lado de lá.

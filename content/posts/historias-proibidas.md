@@ -1,9 +1,11 @@
 ---
-date: "2020-06-22"
-link: "https://www.imdb.com/title/tt0250081"
-categories: [ "movies" ]
-title: "Histórias Proibidas"
+categories:
+- movies
+date: '2020-06-22'
+link: https://www.imdb.com/title/tt0250081
+title: Histórias Proibidas
 ---
+
 Um filme pesado como Coringa e Parasita. Desses que você acha sensacional, mas não quer pensar a respeito das implicações morais da história. No caso, das duas histórias. Uma mais curta e outra mais longa. A curta se chama Ficção e a longa... acertou: Não-Ficção. E apesar dos nomes as diferenças são poucas. Ambas apelam para o lado mais dark do ser humano, em específico da sociedade norte-americana.
 
 Já tem umas décadas que virou lugar-comum criticar a família americana que vive nos subúrbios, a famigerada classe média. Os que criticam são os baby boomers e seus filhos e netos, um pessoal que cresceu em um ambiente livre de privações financeiras e cuja única maneira de se revoltar contra tanta riqueza foi narrar o que viveram sob o viés marxista que aprendem nas universidades.

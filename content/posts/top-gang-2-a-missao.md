@@ -1,9 +1,12 @@
 ---
-date: "2017-03-05"
-link: "https://www.imdb.com/title/tt0107144"
-categories: [ "draft", "movies" ]
-title: "Top Gang 2! - A Missão"
+categories:
+- draft
+- movies
+date: '2017-03-05'
+link: https://www.imdb.com/title/tt0107144
+title: Top Gang 2! - A Missão
 ---
+
 Top Gang 2! é mais uma comédia-paródia de trabalhos da época. E é um trabalho hilário. Primeiro porque ele reúne o maior número de gags por segundo. E segundo porque ele abraça o besteirol sem qualquer ressalva. Quando as flechas de nosso herói acabam, ele simplesmente olha para o chão e acha a galinha-flecha que ele precisava. Esse é o nível de insanidade do trabalho de Jim Abrahams.
 
 Abrahams não apenas dirigiu e escreveu este Top Gang 2, como o original, toda a série "Corra Que A Polícia Vem Aí", "Apertem os Cintos... O Piloto Sumiu" e o clássico (como se esses já não fossem) "Top Secret!". A coletânea de piadas que todos esses filmes nos fornecem, considerando que a maioria envelheceu bem, é inestimável.

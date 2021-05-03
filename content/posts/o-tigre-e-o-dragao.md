@@ -1,9 +1,12 @@
 ---
-date: "2016-03-15"
-link: "https://www.imdb.com/title/tt0190332"
-categories: [ "draft", "movies" ]
-title: "O Tigre e o Dragão"
+categories:
+- draft
+- movies
+date: '2016-03-15'
+link: https://www.imdb.com/title/tt0190332
+title: O Tigre e o Dragão
 ---
+
 Muitos fãs de artes marciais torceram o nariz na época em que O Tigre e o Dragão foi lançado. Na visão deles, o fato das pessoas "voarem" tirava toda a realidade da história. Muitos perderam a noção de que sempre existe uma metamorfose entre a história e o seu narrador. Quando falamos de uma história milenar, são tantas gerações no caminho, que torna-se fácil achar tudo exagerado e absurdo.
 
 O que o diretor Ang Lee fez com o material do romance de Du Lu Wang adaptado por três roteiristas foi empoderar o romance fabuloso por trás das histórias do povo da Manchúria com todos os elementos presentes tanto no romance original quanto nas lendas chinesas. Porém, o filme vai além, e engrandece a beleza dessas lendas em cenários deslumbrantes, reconstruindo boa parte de suas pinturas. Além disso, conta com um romance que trabalha questões filosóficas e épicas de forma tão intensa com seus personagens que se torna difícil não ficar absorvido pela história. Para finalizar, apresenta uma série de lutas que ficarão conhecidas eternamente pela emoção que evocam.

@@ -1,10 +1,14 @@
 ---
-date: "2017-02-25"
-link: "https://www.imdb.com/title/tt3917210"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Life, Animated"
+categories:
+- draft
+- movies
+date: '2017-02-25'
+link: https://www.imdb.com/title/tt3917210
+tags:
+- cinemaqui
+title: Life, Animated
 ---
+
 O documentário "Life, Animated" conta a incrível história de Owen Suskind, diagnosticado como autista aos três anos de idade, incapaz de falar e de ações motoras minimamente coesas e que através dos filmes da Disney abriu um portal surpreendente de comunicação com o mundo externo. Apenas por esta premissa este filme vale cada segundo de nossa atenção.
 
 E por quê? Simplesmente porque hoje o mundo enfrenta um desafio global aparentemente intransponível. Estamos cada vez mais conectados e paradoxalmente desconectados. A comunicação não é mais um desafio tecnológico, mas fundamentalmente humano. E conseguir trazer os autistas para mais perto de nossa tribo mundial está entre um dos objetivos mais nobres e úteis para a sociedade.

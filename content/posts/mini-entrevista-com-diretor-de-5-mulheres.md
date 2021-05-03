@@ -1,8 +1,10 @@
 ---
-date: "2016-10-25"
-categories: [ "draft",  ]
-title: "Mini-Entrevista com Olaf Kraemer, diretor de 5 Mulheres"
+categories:
+- draft
+date: '2016-10-25'
+title: Mini-Entrevista com Olaf Kraemer, diretor de 5 Mulheres
 ---
+
 A sessão de ontem no Frei Caneca de 5 Mulheres estava mais ou menos lotado, o que foi uma surpresa (positiva). O thriller dirigido por Olaf Kraemer desaponta em muitos sentidos, incluindo o fato de ser confuso. Após a sessão, ele mesmo aparece para um pequeno debate de cinco perguntas (aqueles da mostra, que duram menos de 5 minutos, só pra tirar foto e sair vazado). O tradutor/entrevistador teve a consciência de avisar o público antes do filme começar, e o diretor nos avisou que haveria um curta exclusivo de festivais antes, que iria se relacionar com o longa depois.
 
 Quanto custou a produção?

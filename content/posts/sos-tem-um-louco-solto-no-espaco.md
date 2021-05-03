@@ -1,9 +1,11 @@
 ---
-date: "2013-01-23"
-link: "https://www.imdb.com/title/tt0094012"
-categories: [ "movies" ]
-title: "S.O.S.: Tem um Louco Solto no Espaço"
+categories:
+- movies
+date: '2013-01-23'
+link: https://www.imdb.com/title/tt0094012
+title: 'S.O.S.: Tem um Louco Solto no Espaço'
 ---
+
 Entendendo o ridículo em potencial da saga idolatrada de George Lucas ([Star Wars], para quem não sabe), a história de Spaceballs contém o mesmo pano de fundo só que trazendo à tona o mesmo padrão já visto centenas de vezes: uma princesa sequestrada, um casamento forçado, o anti-herói que se torna digno de seu amor e por aí vai a valsa. Economizando o personagem de Luke Skywalker colocando-o no papel do próprio anti-herói (o alter-ego de Hans Solo) fica fácil enxergar que já há gorduras no próprio roteiro do filme original.
 
 Não que Guerra nas Estrelas esteja perto de ser ruim. Longe disso. No fundo, qualquer obra de ficção, se vista com uma lupa sarcástica, tende para o ridículo, como vemos tantas vezes hoje em dia nos canais do You Tube que homenageiam filmes contemporâneos em trailers ridicularizados de cinco minutos. A comédia existe em qualquer lugar, e o grande trunfo do diretor aqui foi localizar os elementos que pareceriam mais absurdos sem prejudicar o ritmo de um longa-metragem.

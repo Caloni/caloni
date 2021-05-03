@@ -1,10 +1,14 @@
 ---
-date: "2019-09-23"
-link: "https://www.imdb.com/title/tt5581284"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Menino que Fazia Rir"
+categories:
+- draft
+- movies
+date: '2019-09-23'
+link: https://www.imdb.com/title/tt5581284
+tags:
+- cinemaqui
+title: O Menino que Fazia Rir
 ---
+
 Eu gostaria de dizer que "O Menino que Fazia Rir" é um filme doce, que tem a linda mensagem de que rir é o remédio para a dor e o sofrimento, mas, desculpem os leitores, eu não assisti filmes da Disney o suficiente na minha infância para transformar meu coração em algodão-doce. E, devo arriscar dizer, nem os idealizadores deste filme.
 
 Isso porque há algumas desgraças nessa história, e não estou me referindo à passagem desajeitada do tempo, que nos conta quando o ano é 1971 ou 1972, sendo que isso não tem a menor importância na história. Pessoas morrem no filme. Pessoas queridas. Não porque há um vilão. São coisas da vida, sabe. Acontece com todo mundo. Acontece nas melhores famílias.

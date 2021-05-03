@@ -1,9 +1,11 @@
 ---
-date: "2015-07-20"
-link: "https://www.imdb.com/title/tt1862079"
-categories: [ "movies" ]
-title: "Sem Segurança Nenhuma"
+categories:
+- movies
+date: '2015-07-20'
+link: https://www.imdb.com/title/tt1862079
+title: Sem Segurança Nenhuma
 ---
+
 Até que não incomoda tanto o fato de Sem Segurança Nenhuma não se esforçar para sair de sua própria mediocridade, pois é possível constatar durante todo o trajeto guiado pela tensão de sua premissa inicial (a viagem no tempo) que há algo de agradável em sua eloquência, mesmo que seus personagens sejam batidos, suas histórias sejam clichês e suas piadas, assim como o melancólico Regular Show, tenham viajado para o presente direto dos anos 80.
 
 Porém, se eu mencionei a tal viagem no tempo, não fique tão entusiasmado: ela é apenas o gancho da história de uma estagiária (Aubrey Plaza) tentando sair de sua vidinha ridícula, assim como seu chefe (Jake Johnson) e seu colega indiano (Karan Soni). Juntos irão para uma cidadezinha investigar o caso de um anúncio no jornal local de um maluco (Mark Duplass) que diz que está recrutando voluntários para sua viagem para o passado. Anexo ao texto ele adverte: traga sua própria arma.

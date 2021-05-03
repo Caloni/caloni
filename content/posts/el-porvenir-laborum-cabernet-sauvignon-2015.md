@@ -1,6 +1,8 @@
 ---
-date: "2017-05-17"
-categories: [ "food" ]
-title: "El Porvenir Laborum Cabernet Sauvignon 2015"
+categories:
+- food
+date: '2017-05-17'
+title: El Porvenir Laborum Cabernet Sauvignon 2015
 ---
+
 Taninos leves; compota e picante. Frutado, encorpado, pouco azedo e quente; frutas secas. Churrasco no sítio do Glauser em Itapeva.

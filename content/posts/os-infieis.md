@@ -1,10 +1,13 @@
 ---
-date: "2020-09-26"
-link: "https://www.imdb.com/title/tt10168672"
-categories: [ "movies", ]
-tags: [ "cinemaqui"  ]
-title: "Os Infiéis"
+categories:
+- movies
+date: '2020-09-26'
+link: https://www.imdb.com/title/tt10168672
+tags:
+- cinemaqui
+title: Os Infiéis
 ---
+
 Os Infiéis captura tão bem a essência das traições do ponto de vista dos homens que deverá acabar sendo mal visto por todos que o assistirem, mesmo que gostem. Desculpem, é a lei. Hoje em dia não dá pra gostar de filmes com muita verdade. Sujeito a multa.
 
 Com uma hora e meia que passa voando, essa série de curtas protagonizados pelo mesmo elenco em diferentes papéis já tinha sido tentado em um filme de 2012 estrelando Jean Dujardin (nos créditos consta como "levemente inspirado" neste). A mensagem é que homens são mais do mesmo. No final até mulheres são, se você bobear. Os homens vão dominar o mundo ainda. Espera só essa onda de femismo acabar.

@@ -1,8 +1,11 @@
 ---
-date: "2010-06-04"
+categories:
+- draft
+- code
+date: '2010-06-04'
 title: Const e Volatile
-categories: [ "draft", "code" ]
 ---
+
 Padrão C (ISO/IEC 9899:1990)
     
     6.5.3 type-qualifier

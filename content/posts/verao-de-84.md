@@ -1,9 +1,12 @@
 ---
-date: "2019-12-17"
-link: "https://www.imdb.com/title/tt5774450"
-categories: [ "draft", "movies" ]
-title: "Verão De 84"
+categories:
+- draft
+- movies
+date: '2019-12-17'
+link: https://www.imdb.com/title/tt5774450
+title: Verão De 84
 ---
+
 Após os anos 80 tudo mudou, e por isso este não é um filme espetacular sobre um serial killer, nem um resgate aos lúdicos anos mágicos. É mais uma repaginada sobre o que mudou desde então, quando os mocinhos e vilões deixaram de serem fáceis de reconhecer. Ou se era um ou outro. Agora heróis como Walter White são o mais comum e família feliz e perfeita existe apenas nos comerciais e nas redes sociais.
 
 Há uma tarefa em desmistificar essa década, que é vista como perfeita por adultos que nunca a viveram. Ela não é mágica e perfeita como nos filmes de Spielberg, até porque se você se lembra de todas as partes do filme desse diretor vai perceber uma proximidade com o mundano que nos esquecemos de apreciar. E assim como os que endeusam os tempos da ditadura há uma certa idealização de uma geração que convivia com os mesmos problemas que nós. E não, o celular não estragou a infância dessa garotada.

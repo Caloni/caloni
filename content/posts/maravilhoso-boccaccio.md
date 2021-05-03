@@ -1,10 +1,14 @@
 ---
-date: "2016-04-27"
-link: "https://www.imdb.com/title/tt3596952"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Maravilhoso Boccaccio"
+categories:
+- draft
+- movies
+date: '2016-04-27'
+link: https://www.imdb.com/title/tt3596952
+tags:
+- cinemaqui
+title: Maravilhoso Boccaccio
 ---
+
 Fracamente inspirado no Decameron, a coletânea de novelas do autor italiano do Século 14, Maravilhoso Boccaccio é filmado como uma grande novela de contos, além de sua produção lembrar tanto uma peça de teatro quanto produções televisivas de baixo orçamento. Ainda assim, possui o mérito narrativo em suas ótimas e curtas histórias.
 
 O pano de fundo é a Itália na época da Peste Negra, quando pessoas morriam aos montes e alguns belos jovens se isolaram de Florença, indo viver em uma casa no interior por alguns dias. Só para sentir o dramalhão que os diretores Paolo Taviani e Vittorio Taviani se envolveram ao adaptar Bocaccio, temos uma cena no início em que um pai enterra esposa e filho em uma das fossas coletivas das vítimas da praga, e os protege das pazadas de terra que recebem.

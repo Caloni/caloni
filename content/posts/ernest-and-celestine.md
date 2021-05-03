@@ -1,9 +1,11 @@
 ---
-date: "2015-06-04"
-link: "https://www.imdb.com/title/tt1816518"
-categories: [ "movies" ]
-title: "Ernest and Célestine"
+categories:
+- movies
+date: '2015-06-04'
+link: https://www.imdb.com/title/tt1816518
+title: Ernest and Célestine
 ---
+
 É um desenho de 2012, indicado ao Oscar de 2014, que estreou na Netflix esse mês (2015). Falado em francês e dirigido por três pessoas, o filme parece possuir um maior poder de marketing do que de contar uma história diferente do que o velho clichê "eles vivem em mundos diferentes". Contudo, é bem desenhado, mantendo suas virtudes em seu toque artístico.
 
 A rata, Celestine, por algum motivo imagina um urso seu amigo e o desenha. Ela gosta de desenhar, apesar de ser criada na sociedade de ratos onde vive para coletar dentes de pequenos ursos. Os dentes viram os dois dentes da frente dos ratos, sem os quais eles falam estranho e nem os próprios ratos entendem (apesar de sempre haver algum chato no grupo que afirma estar entendendo). Isso é engraçadinho.

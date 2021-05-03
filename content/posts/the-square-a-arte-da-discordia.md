@@ -1,9 +1,12 @@
 ---
-date: "2018-11-08"
-link: "https://www.imdb.com/title/tt4995790"
-categories: [ "draft", "movies" ]
-title: "The Square: A Arte da Discórdia"
+categories:
+- draft
+- movies
+date: '2018-11-08'
+link: https://www.imdb.com/title/tt4995790
+title: 'The Square: A Arte da Discórdia'
 ---
+
 Tenho uma confissão a fazer: quando eu entro em um salão onde está exposto arte moderna eu nunca tenho certeza se entendi realmente o que o autor quis dizer com determinada obra. Aliás, eu também não tenho certeza se o próprio autor sabe o significado de sua obra. Aliás, eu nem sei se podemos chamar aquilo de obra. O que é arte, afinal de contas? E, aproveitando, qual o sentido da vida?
 
 Agora sendo honesto: eu sei o que é uma obra de arte (sobre o sentido da vida fico devendo), e te digo porque The Square é um exemplo magnífico. Para começo de conversa: ele não é um filme muito agradável de se assistir. Cada nova cena desperta uma imensa vontade de entender, mas essa resposta está tão bem escondida na vida comum que torna-se tarefa inútil a cada nova tentativa.

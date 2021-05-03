@@ -1,10 +1,14 @@
 ---
-date: "2019-02-18"
-link: "https://www.imdb.com/title/tt8716800"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Cinderela Pop"
+categories:
+- draft
+- movies
+date: '2019-02-18'
+link: https://www.imdb.com/title/tt8716800
+tags:
+- cinemaqui
+title: Cinderela Pop
 ---
+
 Engraçado a forma como o tempo passa no Brasil. De Cinderela Baiana, clássico da filmografia nacional, para Cinderela Pop. Muita coisa mudou durante esse tempo e entre essas duas versões brasileiras da história imortalizada pela Disney. Maisa, aquela menina irritante e esperta que interagia com o apresentador de TV Sílvio Santos nasceu, cresceu e se produziu, enquanto o próprio Sílvio sequer envelheceu. E não se houve falar de Carla Perez há um bom tempo.
 
 E agora a menina Maisa "virou" atriz e protagoniza um filme inspirado em um livro de Paula Pimenta. Você conhece essa escritora? As garotas pelo menos conhecem. Não sei se é seu nome real, mas é uma boa escolha para a capa de livros adolescentes. Aqueles coloridos com fontes fofas ao lado dos livros de Minecraft. Minhas sobrinhas gostam de ambos os estilos. Ou gostavam. Agora estão mais interessadas em conteúdo mais dark e menos feminino. O tempo passa tão rápido, as mudanças vêm e é ótimo que garotas hoje possam escolher gostar do que quiserem.

@@ -1,9 +1,12 @@
 ---
-date: "2017-02-17"
-link: "https://www.imdb.com/title/tt3741834"
-categories: [ "draft", "movies" ]
-title: "Lion: Uma Jornada Para Casa"
+categories:
+- draft
+- movies
+date: '2017-02-17'
+link: https://www.imdb.com/title/tt3741834
+title: 'Lion: Uma Jornada Para Casa'
 ---
+
 Este é o filme indicado ao Oscar por fazer chorar. E por falar de um caso real, emocionante, e por falar sobre miséria e como os brancos são privilegiados. Se for um branco que fala inglês, então, nem se fala: a maioria do filme é falado em inglês.
 
 E até por ser falado em inglês ele é selecionável para o Oscar.

@@ -1,9 +1,13 @@
 ---
-date: "2017-10-06"
-categories: [ "draft", "blog" ]
-tags: [ "ccppbr" ]
-title: "Inscrições para o 14o. CCPPBRSP"
+categories:
+- draft
+- blog
+date: '2017-10-06'
+tags:
+- ccppbr
+title: Inscrições para o 14o. CCPPBRSP
 ---
+
 Como já foi avisado anteriormente (mas agora com local definido), nosso próximo encontro acontecerá em São Paulo (capital) dia 25 de Novembro de 2017 (sábado), no Station Vila Olímpia. Teremos uma sala equipada para palestras e coffe-break de manhã e de tarde. Mais detalhes no hot site do evento.
 
 As inscrições pagas estão abertas! O valor único por participante é de R$ 50 reais, o que lhe dará direito a:

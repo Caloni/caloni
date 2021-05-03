@@ -1,9 +1,12 @@
 ---
-date: "2017-11-30"
-link: "https://www.imdb.com/title/tt2103217"
-categories: [ "draft", "movies" ]
-title: "Maníaco"
+categories:
+- draft
+- movies
+date: '2017-11-30'
+link: https://www.imdb.com/title/tt2103217
+title: Maníaco
 ---
+
 Estou em uma sequência foda de gore. E estamos apenas no segundo. Depois de Cronenberg e seu clássico techno-obscuro A Mosca, este bem mais recente Maníaco, também uma espécie de remake, e estrelado parcialmente por Elijah Wood e parcialmente por sua voz, nos apresenta o ponto de vista mais fascinante de toda história de serial killers: o ponto de vista dele mesmo.
 
 O fato do diretor Franck Khalfoun saber muito de enquadramento e de cinema ajuda. Rebuscando suas origens conceituais no primeiro terror da história -- O Gabinete do Dr. Caligari -- o filme nos apresenta o personagem de Elijah do ponto de vista de seus olhos. Dessa forma, a câmera é seus olhos. Mas não é um plano-sequência, pois há cortes (como na vida real, aliás, quando piscamos). E o que vemos são suas vítimas e a forma com que ele se aproxima delas, de como respira ofegante quando se aproxima, de como sua voz é vulnerável e doce, e de que por isso ninguém desconfiaria de um rapaz bonito e pequeno como um assassino sanguinário.

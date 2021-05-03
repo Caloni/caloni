@@ -1,9 +1,12 @@
 ---
-date: "2017-11-27"
-link: "https://www.imdb.com/title/tt0091064"
-categories: [ "draft", "movies" ]
-title: "A Mosca"
+categories:
+- draft
+- movies
+date: '2017-11-27'
+link: https://www.imdb.com/title/tt0091064
+title: A Mosca
 ---
+
 Poucos filmes da época de infância traziam tantas cenas marcantes quanto os filmes de David Cronenberg. E entre eles com certeza A Mosca é o que parece sintetizar o horror de seus filmes em um formato clássico e ideal. Porque se trabalhos como A Hora da Zona Morta, Um Método Perigoso e Cosmópolis são mais psicológicos e internos aos seus personagens, A Mosca traz o velho dilema e a velha maldição do homem e dos caminhos que a ciência pode tomar de uma forma mais universal.
 
 Veja a história deste cientista, por exemplo. Por ficar enjoado em andar em qualquer meio de transporte (carros, avião e até seu triciclo quando criança), e sendo um gênio, ele cria uma máquina de teletransporte. No momento ela só funciona com objetos inanimados, pois existe algum erro de tradução do computador para nossa inconstante carne, fruto dos desejos mais loucos. Como criar uma máquina dessas.

@@ -1,10 +1,14 @@
 ---
-date: "2018-10-22"
-link: "https://www.imdb.com/title/tt7142506"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Costureira dos Sonhos"
+categories:
+- draft
+- movies
+date: '2018-10-22'
+link: https://www.imdb.com/title/tt7142506
+tags:
+- cinemaqui
+title: A Costureira dos Sonhos
 ---
+
 A Costureira dos Sonhos é a clássica história de patrão e empregada sob a dinâmica indiana, com suas castas e regras sociais rígidas. É uma história que avança sutilmente e nos deixa se acostumar com sua heroína aos poucos, embora ela não tenha tanta sutileza assim.
 
 Ambos falam idiomas diferentes, e usam inglês como ponte. Mas esse não é um filme de problema de comunicação, mas de camadas sociais distintas que não deveriam interagir. É possível sentir o abismo entre os dois mundos apenas notando o ritmo de ambos. Enquanto Ratna (Tillotama Shome) sempre surge apressada e com coisas na mão, Ahwin (Vivek Gomber), seu patrão, parece sempre despreocupado ou pensativo, o que é mais acentuado por ele ter cancelado seu casamento dias antes dos dois conviverem juntos e sozinhos na mesma casa.

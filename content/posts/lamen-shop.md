@@ -1,9 +1,12 @@
 ---
-date: "2018-08-08"
-link: "https://www.imdb.com/title/tt6720618"
-categories: [ "draft", "movies" ]
-title: "Lámen Shop"
+categories:
+- draft
+- movies
+date: '2018-08-08'
+link: https://www.imdb.com/title/tt6720618
+title: Lámen Shop
 ---
+
 Lámen Shop é um filme sem roteiro. O que praticamente diz tudo o que você precisa saber sobre os defeitos incorrigíveis de um filme onde o espectador não consegue enxergar o que move seu protagonista, nem qual o grande conflito que ele tenta resolver durante uma história que foi feita para chorar (e consegue), mas que não entrega profundidade alguma nesse choro.
 
 Dirigido por Eric Khoo em uma co-produção de Singapura, Japão e França, este filme fala sobre comida e de certa forma é uma porta de entrada para a diversidade cultural do pequeno país que fica incrustado do lado da China. Também fala sobre valores milenares de família, uma história atribulada por conta da guerra, um filho buscando a origem de sua mãe enquanto aprende suas receitas escritas em um pequeno caderno que ele folheia logo após seu pai falecer.

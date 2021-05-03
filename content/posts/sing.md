@@ -1,9 +1,12 @@
 ---
-date: "2016-12-29"
-link: "https://www.imdb.com/title/tt3470600"
-categories: [ "draft", "movies" ]
-title: "Sing: Quem Canta Seus Males Espanta"
+categories:
+- draft
+- movies
+date: '2016-12-29'
+link: https://www.imdb.com/title/tt3470600
+title: 'Sing: Quem Canta Seus Males Espanta'
 ---
+
 Este é o ano em que temos musicais animados que abraçam sua cafonice da maneira mais fofa possível ("Trolls") e filmes como "Sing", que entrega bichinhos fofinhos cantando como pop stars em uma pequena fábula sobre um produtor musical com um sonho que... bem, isso não importa. O que importa neste filme é única e simplesmente seus números musicais. A história que os cerca serve única e simplesmente para conseguir colocar os bichinhos fofinhos cantando mais uma vez. E mais uma. E mais uma. Até você cansar.
 
 Produzido pelos mesmos de Meu Malvado Favorito, Minions e etc, "Sing" segue o mesmo conceito de apresentar personagens com potencial de atrair a simpatia do seus espectadores sem a necessidade de qualquer lógica em sua história. Sua câmera se movimenta rapidamente para ir de casa em casa, de beco em beco, apresentando cada um deles cantando. É um ratinho encrenqueiro com seu saxofone, o gorila que não se encaixa na gangue do pai, a dona de casa com 25 filhos e um marido ingrato. E quando a dona de casa resolve o seu problema de conseguir tempo para ir aos ensaios, fica claro que as saídas fáceis para qualquer problema do filme será a regra, e o único empecilho que existe para o sucesso é a própria pessoa (soa como uma lição de moral, não?).

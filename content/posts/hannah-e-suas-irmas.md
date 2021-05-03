@@ -1,9 +1,12 @@
 ---
-date: "2019-08-14"
-link: "https://www.imdb.com/title/tt0091167"
-categories: [ "draft", "movies" ]
-title: "Hannah e Suas Irmãs"
+categories:
+- draft
+- movies
+date: '2019-08-14'
+link: https://www.imdb.com/title/tt0091167
+title: Hannah e Suas Irmãs
 ---
+
 Terminar um filme do Woody Allen como Hannah e Suas Irmãs é voltar a ter esperança na humanidade. Não que o filme tenha essa mensagem, mas é que seu diretor e roteirista demonstra um conhecimento tão absurdo da alma humana que é como se você não estivesse mais sozinho no mundo. Como se alguém finalmente desse o sinal de vida: "Eu existo. E eu sei como tudo isso é tão sem sentido."
 
 A história é mais uma de traição em família, mas dessa vez com mais personagens e uma complexidade que sempre nos mantém entretidos em observar como essas bolas conseguem ficar no ar por tanto tempo e pousarem nas mãos do roteirista de maneira tão graciosa no momento certo.

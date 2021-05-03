@@ -1,9 +1,11 @@
 ---
-date: "2014-11-09"
-link: "https://www.imdb.com/title/tt2262227"
-categories: [ "movies" ]
-title: "O Livro da Vida"
+categories:
+- movies
+date: '2014-11-09'
+link: https://www.imdb.com/title/tt2262227
+title: O Livro da Vida
 ---
+
 Essa é a estreia em longas do diretor Jorge R. Gutierrez, que já trabalhava no setor de animação e foi escalado pelo produtor Guilhermo del Toro para contar uma lenda mexicana através de uma história que usa duas camadas: a guia de um museu decide "ensinar uma lição" a um grupo de crianças por serem... mimadas? Não ficou muito claro o objetivo dessa ideia, que nem é tão relevante para a história, exceto em algumas intervenções aqui e ali.
 
 Contudo, o design de arte de The Book of Life, que transforma bonecos usados para contar essa grande história (cuja parte fofa é colocar o México no centro do universo), compensa completamente esses detalhes. Note como o detalhe das roupas da pequena Maria estão em seu vestido adulto e verá um esmero tão raro quanto gratificante.

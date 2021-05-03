@@ -1,9 +1,11 @@
 ---
-date: "2014-04-23"
-link: "https://www.imdb.com/title/tt1702014"
-categories: [ "movies" ]
-title: "Hoje Eu Quero Voltar Sozinho"
+categories:
+- movies
+date: '2014-04-23'
+link: https://www.imdb.com/title/tt1702014
+title: Hoje Eu Quero Voltar Sozinho
 ---
+
 Quatro anos depois do diretor Daniel Ribeiro realizar um dos curtas mais concisos e injustamente chamados de polêmicos a respeito da paixão de um garoto cego por um aluno novo da escola, eis que o mesmo Daniel Ribeiro dirige e escreve com os mesmos atores principais a versão em longa metragem dessa história, e se isso geralmente é uma péssima ideia por tentar alongar uma ideia que só funciona por dezessete minutos, nesse caso o resultado é no mínimo cativante.
 
 Buscando uma identidade visual (e sonora) ao abordar pela primeira vez Leonardo (Ghilherme Lobo) e sua amiga Giovana (Tess Amorim) de cima, estirados em torno da piscina, essa cena inicia no escuro com o som das ondas geradas pelo braço de Leo na água. O filme se esquece de usar essa mesma rima em diversos momentos apropriados, mas usa outra, essa muito mais eficiente: mostra seus personagens apenas das pernas para cima, como se andassem nas nuvens, além de diminuir a profundidade de campo sempre que possível, focando muitas vezes em um único ponto. Isso não é cegueira, mas para quem enxerga, consegue extrair muito da visão de mundo de Leo, que depende muitas vezes da ajuda dos outros para realizar alguma ação simples, mas evita, sempre que possível, transparecer sua dependência.

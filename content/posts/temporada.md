@@ -1,10 +1,14 @@
 ---
-date: "2019-01-11"
-link: "https://www.imdb.com/title/tt8731138"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Temporada"
+categories:
+- draft
+- movies
+date: '2019-01-11'
+link: https://www.imdb.com/title/tt8731138
+tags:
+- cinemaqui
+title: Temporada
 ---
+
 O filme "Temporada" é um retrato natural do cotidiano de uma cidade e sua cultura sob o ponto de vista de um ser humano em mudança. Mudança de cidade, de postura, de atitude. Pode chamar de redescoberta ou "cair na real". Pode chamar de fantasia ou crítica social.
 
 Juliana, morando sozinha e inspirando "dozinha", brinca com uma bola sendo atirada na parede. Ela coloca uma música no celular e para amplificar o som o coloca dentro de um balde. As ruas de uma metrópole de do estado de Minas Gerais parecem sempre tranquilas (e quem já foi pra Minas sabe que é assim), e ainda que alguns alardeiem o problema da falta de segurança a maioria sabe que até a periferia da cidade é "tranquilim".

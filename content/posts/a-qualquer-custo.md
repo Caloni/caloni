@@ -1,10 +1,14 @@
 ---
-date: "2016-12-08"
-link: "https://www.imdb.com/title/tt2582782"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Qualquer Custo"
+categories:
+- draft
+- movies
+date: '2016-12-08'
+link: https://www.imdb.com/title/tt2582782
+tags:
+- cinemaqui
+title: A Qualquer Custo
 ---
+
 A Qualquer Custo, a despeito de ser dirigido por um inglês, é um filme o mais texano possível, no mal e no bom sentido, o que acaba se tornando aos poucos algo fenomenal, já que o estilo de vida do texano acaba meio que virando um personagem a mais, ainda que não exatamente personificado em ninguém em particular. Apesar disso, eu usaria como representante da hospitalidade texana uma garçonete de uma cidadezinha que atende dois "Texas Rangers" com um mau humor (ou a falta de) peculiar, avisando que todos os que vão em seu restaurante pedem T-Steaks com batata. A única liberdade de seus clientes é tirar do prato ou o milho ou a vagem do prato. Ah, e todos devem tomar chá.
 
 E talvez o filme só exista justamente porque a história se passa no Texas. Pelo menos é o único lugar do mundo onde elementos essenciais em sua cultura como armas, liberdade individual e "poder falar o que quiser" convivem mais ou menos juntos com sua paisagem desértica, planícies sem fim e os comentários racistas dos mais velhos. Sim, eles falam o que quiser, muitas vezes na frente dos próprios ofendidos. E muitas vezes eles são o seu parceiro policial, o que deveria te proteger com a vida. Bom, pelo menos os mais velhos já são vistos com desconfiança e cautela. Quando o personagem de Jeff Bridges faz um desses comentários sobre o colega na frente do gerente do banco, o gerente conclui que Texas Rangers são pessoas estranhas, no que o colega retruca, corrigindo impaciente: não todos os Texas Rangers são estranhos: apenas ele (subtendido: esse velho).

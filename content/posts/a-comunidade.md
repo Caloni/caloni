@@ -1,10 +1,14 @@
 ---
-date: "2016-08-04"
-link: "https://www.imdb.com/title/tt3082854"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Comunidade"
+categories:
+- draft
+- movies
+date: '2016-08-04'
+link: https://www.imdb.com/title/tt3082854
+tags:
+- cinemaqui
+title: A Comunidade
 ---
+
 A Comunidade é um filme que consegue ser doce em sua abordagem de paz e amor, mas ao mesmo tempo consegue desenvolver um tema mais maduro. É fascinante acompanhar a vida daquelas pessoas formando um mosaico de personalidades que cooperam entre si para o bem comum. Mais fascinante ainda é perceber como o filme avança seu tema sem ter medo de arriscar tudo que havia conquistado uma hora atrás.
 
 A história começa quando Erik (Ulrich Thomsen), um professor de arquitetura, vai receber como herança a casa que havia habitado na infância em sua terra natal. Grande para ele, a esposa Anna (Trine Dyrholm) e a filha adolescente Freja (Martha Sofie Hansen), o custo proibitivo de mantê-la torna a ideia de vender automática, exceto pelo desejo de mudança de ares da mulher, que convence o marido a convidar amigos e conhecidos para morarem juntos e assim dividir os custos, além de fazer companhia.

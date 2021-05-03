@@ -1,9 +1,11 @@
 ---
-date: "2015-05-26"
-link: "https://www.infoq.com/br/presentations/depurando-ate-o-fim-do-mundo/"
-categories: [ "code" ]
-title: "Depurando até o fim do mundo e de volta de novo: source server com GitHub"
+categories:
+- code
+date: '2015-05-26'
+link: https://www.infoq.com/br/presentations/depurando-ate-o-fim-do-mundo/
+title: 'Depurando até o fim do mundo e de volta de novo: source server com GitHub'
 ---
+
 Semana passada fiquei sabendo que o vídeo da minha palestra "Depurando até o fim do mundo" do TDC 2014 estava disponível online. Resolvi assistir para ver se aprendia alguma coisa. A despeito do palestrante ser muito ruim, ele disse uma coisa interessante: com o Debugging Tools (WinDbg para os íntimos) seria possível além de indexar os símbolos (PDBs para os íntimos) usando o esquema de Symbol Server que a própria Microsoft adota usar algumas ferramentas embutidas para conseguir obter o fonte através de um símbolo indexado.
 
 E de onde viria esse fonte? Bom, a priori é necessário que exista algum controle de fonte para que as versões estivessem já "indexadas" nesse controle e fossem mapeados com strings internas no PDB. Através dessas strings o WinDbg ao analisar um crash dump ou até mesmo depurando um processo com o uso do PDB conseguiria baixar os fontes automagicamente desse controle de fonte, desde que ele estivesse acessível (na internet, na intranet da própria empresa, na rede, em um disco rígido externo ou na própria máquina do desenvolvedor que não quer se matar para conseguir obter a versão exata dos fontes daquele binário).

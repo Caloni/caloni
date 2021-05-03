@@ -1,8 +1,10 @@
 ---
-date: "2019-11-16"
-categories: [ "draft" ]
-title: "Por que esses Coringa e Pantera se tornaram fenômenos de bilheteria?"
+categories:
+- draft
+date: '2019-11-16'
+title: Por que esses Coringa e Pantera se tornaram fenômenos de bilheteria?
 ---
+
 Muitos dizem que Coringa e Pantera Afro-Descendente se tornaram fenômenos de bilheteria por causa da identificação do público com esses dois personagens ou universos, mas se esquecem que muitos outros filmes campeões de bilheteria surgiram nas últimas décadas e que há uma correlação muito mais forte do que a mera identificação com protagonistas: são os filmes com o maior número de fundo verde da história do cinema.
 
 O público de hoje em dia quer estar cada vez mais longe da realidade que o cerca. Vemos isso já nos smartphones. A massa de alienados percorrendo megalópoles grudados no celular e evitando pensar muito a respeito do verdadeiro caos, solidão, impessoalidade que a cidade grande gera. O mundo reluzente e piscante que nos mostra uma vida perfeita e inalcançável é mil vezes melhor do que pensar em procurar um emprego melhor, ou melhor, procurar um emprego.

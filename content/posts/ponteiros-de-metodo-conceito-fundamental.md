@@ -1,8 +1,10 @@
 ---
-date: "2007-11-05"
-title: "Ponteiros de método: conceito fundamental"
-categories: [ "code" ]
+categories:
+- code
+date: '2007-11-05'
+title: 'Ponteiros de método: conceito fundamental'
 ---
+
 Diferente de ponteiros de função globais ou estáticas, que são a grosso modo ponteiros como qualquer um, os ponteiros de método possuem uma semântica toda especial que costuma intimidar até quem está acostumado com a aritmética de ponteiros avançada. Não é pra menos: é praticamente uma definição à parte, com algumas limitações e que deixa a desejar os quase sempre criativos programadores da linguagem, que vira e mexe estão pedindo mudanças no C++0x.
 
 Três regras iniciais que devem ser consideradas para usarmos ponteiros para métodos são:

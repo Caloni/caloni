@@ -1,9 +1,11 @@
 ---
-date: "2015-09-25"
-link: "https://www.imdb.com/title/tt3064298"
-categories: [ "movies" ]
-title: "(Des)encontro Perfeito (Man Up)"
+categories:
+- movies
+date: '2015-09-25'
+link: https://www.imdb.com/title/tt3064298
+title: (Des)encontro Perfeito (Man Up)
 ---
+
 Comédia despretensiosa (e britânica, vale afirmar) sobre uma mulher "velha" de 30 e poucos anos e insegura em conseguir um companheiro, apesar de sua família e sua mãe sempre tentarem suportá-la. Ela carrega um caderninho de anotações onde há mantras que ela repete para se sentir auto-confiante. Um desses mantras é o batido "arrisque-se".
 
 Pois bem. Ao ser confundida em um encontro às cegas, ela decide tomar esse mantra ao pé da letra e passa o dia com o encontro que roubou, um rapaz mais velho que está passando pela fase do divórcio depois de anos de casado. O detalhe é que é noite de comemoração de 40 anos de casado de seus pais, e ela terá que pesar as consequências em apostar em um total estranho ou honrar seus votos de filha.

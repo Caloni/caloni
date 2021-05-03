@@ -1,9 +1,12 @@
 ---
-date: "2016-10-21"
-link: "https://www.imdb.com/title/tt3757648"
-categories: [ "draft", "movies" ]
-title: "Tempestade"
+categories:
+- draft
+- movies
+date: '2016-10-21'
+link: https://www.imdb.com/title/tt3757648
+title: Tempestade
 ---
+
 Este é um filme leve, com uma história simples e e fácil de digerir. Há algum simbolismo por trás do enredo, mas a falta de força dessas pessoas em tomar as rédeas de suas vidas é deprimente. É a típica história de "não somos donos do nosso destino" com uma pitada do ataque ao dinheiro. Uma conversa velha reciclada em um filme tão bem feito quanto descartável, já que não tem nada a dizer.
 
 O centro da história é Dom, que é um pescador do alto mar e fã de festas. Divorciado, ele eventualmente encontra os filhos adolescentes, que moram em sua casa e em seu coração (provavelmente o clima festeiro contribui mais para isso do que o fato dele ser pai de ambos).

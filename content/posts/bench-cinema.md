@@ -1,9 +1,12 @@
 ---
-date: "2016-10-26"
-link: "https://www.imdb.com/title/tt5821276"
-categories: [ "draft", "movies" ]
-title: "Bench Cinema"
+categories:
+- draft
+- movies
+date: '2016-10-26'
+link: https://www.imdb.com/title/tt5821276
+title: Bench Cinema
 ---
+
 É fácil fazer filmes que homenageiam o Cinema de uma forma ou outra. O cinéfilo e o crítico caem de pé. Porém, difícil é fazer algo com qualidade, que queira dizer algo a mais, e esteja se aproveitando da metalinguagem para isso. E esse felizmente é o caso de Bench Cinema, um filme que observa a realidade do Irã e sua censura e, nos mesmos moldes de Cinema Paradiso (outro filme que explora metalinguagem), constrói uma narrativa doce, mas dramática, sobre personagens que vivem de e para a sétima arte.
 
 A história gira em torno de uma espécie de ator improvisado que sabe as falas de filmes clássicos de cor e salteado, e faz toda a performance dos atores principais ao vivo para o público, diálogo a diálogo. Tendo sido dono de uma locadora, seu negócio é fechado quando o governo proíbe fitas "subversivas", no que vira uma imensa pilha de fogo, assim como quando livros são queimados pelo totalitarismo. O ator é preso, e lá conhece um dublador desses filmes, que lhe apresenta um presente. Durante a prisão, nós somos presenteados com a melhor cena do filme, uma réplica do diálogo de Um Estranho no Ninho feito de uma maneira imaginativa e que recria a mesma situação sob outro contexto, com o reflexo de uma TV desligada. Essa cena é poderosa e já capta o espectador de imediato.

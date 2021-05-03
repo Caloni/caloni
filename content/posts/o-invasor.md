@@ -1,9 +1,12 @@
 ---
-date: "2019-08-25"
-link: "https://www.imdb.com/title/tt0303408"
-categories: [ "draft", "movies" ]
-title: "O Invasor"
+categories:
+- draft
+- movies
+date: '2019-08-25'
+link: https://www.imdb.com/title/tt0303408
+title: O Invasor
 ---
+
 O Invasor é um experimento da época de reabertura do cinema nacional, lá pelo final dos anos 90 e início dos anos 2000. O diretor Beto Brant tinha até um milhão para gastar e realizaram o que se chamou de filmagens de intervenção. Funciona assim: você "invade" as locações e consegue um tempinho naquele local, geralmente com até não-atores que estavam no momento, de um restaurante, um bar, uma boate, e filmam a cena com os personagens. Barato, colaborativo e inovador.
 
 O resultado disso é que Brant precisa criar uma narrativa que não precise de decupagem ou muito enquadramento de suas cenas. Todas as cenas do filme são feitas com câmeras em movimento, pois elas estão de fato invadindo o local de filmagem para a cena, e não se preparando desde o começo do dia com iluminação, cenário, etc.

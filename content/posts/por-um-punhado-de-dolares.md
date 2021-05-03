@@ -1,9 +1,11 @@
 ---
-date: "2012-06-10"
-link: "https://www.imdb.com/title/tt0058461"
-categories: [ "movies" ]
-title: "Por Um Punhado de Dólares"
+categories:
+- movies
+date: '2012-06-10'
+link: https://www.imdb.com/title/tt0058461
+title: Por Um Punhado de Dólares
 ---
+
 "Per un pugno di dollari", o clássico do bangue-bangue macarrônico, primeiro dos três filmes idealizado por Sergio Leone a partir de sua fascinação após assistir a outro clássico da época, Yojimbo (de Kurosawa), nos apresenta pela primeira vez a figura do Homem Misterioso, ou homem sem nome, interpretado por um Clint Eastwood ainda jovem para o seu Gran Torino, mas com um olhar já duro e seco para com os maus que governam uma cidadezinha perto da fronteira entre os EUA e o México. À procura de dinheiro (como o título já sugere), esse homem resolve ficar por um tempo na cidade, mesmo em uma terra que odeia forasteiros. Existem duas famílias que tomam conta dos negócios locais, enquanto na violência com que as decisões são tomadas os corpos se acumulam no cemitério na mesma proporção com que as viúvas. O ódio e a ambição pelo ouro fala mais forte em uma terra sem lei.
 
 O Homem Misterioso possui duas funções muito claras na narrativa: primeiro, por ser tão forasteiro quanto o espectador, ele serve de guia para que nós mesmos entendamos as circunstâncias em que os fatos vão se sucedendo. É ele que, por exemplo, fica escondido às margens do rio e presencia o massacre que lá ocorre. É ele que, observador e inteligente, consegue entender melhor que os moradores do vilarejo o papel dos capangas das duas famílias, e busca assim tirar proveito de ambas, e sempre que possível nunca tomando um partido. Leone deixa claro que o Homem não é um herói comum. É bruto e violento como todos os outros, mas que ao mesmo tempo, se sobrar tempo, tenta ajudar os injustiçados. Existe algo em seu passado que determina seu caráter, mas salvo uma breve e imperceptível fala, nunca é mencionado.

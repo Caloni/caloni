@@ -1,9 +1,12 @@
 ---
-date: "2016-05-20"
-link: "https://www.imdb.com/title/tt4145760"
-categories: [ "draft", "series" ]
-title: "The Lizzie Borden Chronicles (piloto)"
+categories:
+- draft
+- series
+date: '2016-05-20'
+link: https://www.imdb.com/title/tt4145760
+title: The Lizzie Borden Chronicles (piloto)
 ---
+
 Juro que esperava peitinhos. Uma série com a sempre "interessante" Christina Ricci (A Família Addams ou... O Oposto do Sexo?) sempre promete algo assim. Ela como a assassina sanguinária Lizzie Borden, então...
 
 A série possui uma temporada e oito episódios, e tem por intuito contar a respeito do caso dessa mulher do final do século 19, que matava pessoas com um machado.

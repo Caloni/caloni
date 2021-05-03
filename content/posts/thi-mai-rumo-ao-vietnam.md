@@ -1,9 +1,12 @@
 ---
-date: "2018-05-16"
-link: "https://www.imdb.com/title/tt6126346"
-categories: [ "draft", "movies" ]
-title: "Thi Mai: Rumo ao Vietnam"
+categories:
+- draft
+- movies
+date: '2018-05-16'
+link: https://www.imdb.com/title/tt6126346
+title: 'Thi Mai: Rumo ao Vietnam'
 ---
+
 Este filme feministinha dirigido por Patricia Ferreira e escrito por Marta Sánchez (deu pra notar? ambas são mulheres!) irá trazer boas risadas. Sabe por quê? Porque este trio de mulheres (e um gay!) irão viver altas aventuras nesta terra inexplorada do Vietnã, onde comunistas vivem bem usando capitalismo para se curar de suas duas guerras. E de quebra um sistema de adoção de criancinhas que parece projeto (sem fins lucrativos) da família Pitt/Jolie. Foi muito machista da minha parte colocar o sobrenome do homem primeiro?
 
 A história começa triste. A filha de uma delas morre (ah...). Além disso, a mais gata é demitida por ser velha (puxa...). E, como se não bastasse, a terceira é dona de casa. Que vida horrível! Mas quando a mãe em luto recebe a notícia que sua filha conseguiu adotar uma vietnamita bonitinha ela vê uma ótima forma de conseguir ajuda para sua loja de ferragens (brincadeira; é pela bondade mesmo) e com suas duas amigas partem nessa viagem tresloucada.

@@ -1,9 +1,13 @@
 ---
-date: "2017-01-17"
-link: "https://www.imdb.com/title/tt4508902"
-categories: [ "draft", "series", "animes" ]
-title: "One Punch Man: Wanpanman"
+categories:
+- draft
+- series
+- animes
+date: '2017-01-17'
+link: https://www.imdb.com/title/tt4508902
+title: 'One Punch Man: Wanpanman'
 ---
+
 One Punch Man pode muito bem ser uma série de uma piada só. E ela está no título. Entre todos os poderosos heróis que salvam cidades com nomes do alfabeto e de todas as criaturas malignas das profundezas da Terra, Saitama é uma pessoa comum que decidiu ser um herói por diversão. Ele treinou muito. Não, você não entendeu: ele treinou muito mesmo. Tanto que é o mais poderoso dos heróis, mesmo que ninguém acredite nele. Seu maior poder? Um soco. O homem de apenas um soco.
 
 Os episódios da primeira temporada da série geralmente se resumem em um monstro começando a destruir uma cidade, heróis são mobilizados, quase morrem, chega Saitama e com um soco resolve tudo. Ele não é estiloso como os outros heróis. Ele sequer tem uma roupa decente. Bom, ele sequer tem cabelo (ele caiu de tanto treinar). Seus traços podem ser feitos por uma criança de cinco anos. Bêbada. E, ainda assim, Saitama é a criatura não apenas com o maior poder que já se viu, mas também o único com senso de humor.

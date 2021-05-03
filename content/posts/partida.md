@@ -1,9 +1,13 @@
 ---
-date: "2019-10-23"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Partida"
+categories:
+- draft
+- movies
+date: '2019-10-23'
+tags:
+- cinemaqui
+title: Partida
 ---
+
 Eis que me preparo para mais uma sessão da 43a. Mostra de São Paulo e chega um homem de microfone na frente da tela, junto de mais meia-dúzia de pessoas. Ele comenta que se chamar toda a equipe para descer até ele o cinema vai esvaziar. São 13:30 e das 200 poltronas da sala umas 40, no máximo, estão ocupadas. Ele se apresenta e apresenta o projeto: essa trupe de colegas e amigos após as eleições do ano passado fretou um ônibus e foram se encontrar com o ex-presidente do Uruguai, o Mojica. E eis que 6 dias depois (tirando a pós-produção, claro) surge Partida, um filme pré-boteco, daqueles que você vê para depois ir pro bar começar uma discussão política.
 
 Muitas horas foram filmadas pelos dois cinegrafistas do projeto, e Caco Ciocler realizou o trabalho mais difícil: editar todo o marasmo de uma viagem dessas para os momentos mais interessantes. E esses momentos giram em torno das conversas de duas pessoas com visões políticas opostas. Uma delas é Georgette Fadel, auto-denominada no filme de comunista. Vou considerar que ela estava montando um personagem.

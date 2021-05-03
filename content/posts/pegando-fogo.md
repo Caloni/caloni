@@ -1,9 +1,12 @@
 ---
-date: "2016-01-14"
-link: "https://www.imdb.com/title/tt2503944"
-categories: [ "draft", "movies" ]
-title: "Pegando Fogo"
+categories:
+- draft
+- movies
+date: '2016-01-14'
+link: https://www.imdb.com/title/tt2503944
+title: Pegando Fogo
 ---
+
 Pegando Fogo é um filme de sensações mistas. Em seu roteiro, é simplesinho e clichê. Em sua direção e, principalmente, sua edição, é ágil, dinâmico e tão fluido que quase é possível esquecer sua pouca força na história.
 
 Bradley Cooper é Adam Jones, um chef de cozinha que se tornou notório em Paris há quase dez anos, estragou sua carreira com álcool, drogas e uma obsessão cega pela perfeição (e exclusividade), colecionou inimigo e se isolou em Nova Orleans para uma desintoxicação física e psicológica. O filme começa em seu retorno para a Europa, em Londres, onde pretende reunir uma equipe de sub-chefs baseado mais em critérios técnicos que emocionais, visando entregar para o restaurante do seu amigo o prêmio máximo de uma revista conceituada de críticos gastronômicos.

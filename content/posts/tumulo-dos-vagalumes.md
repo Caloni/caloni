@@ -1,9 +1,13 @@
 ---
-date: "2021-01-28"
-link: "https://www.imdb.com/title/tt0095327"
-categories: [ "draft", "movies", "animes" ]
-title: "Túmulo dos Vagalumes"
+categories:
+- draft
+- movies
+- animes
+date: '2021-01-28'
+link: https://www.imdb.com/title/tt0095327
+title: Túmulo dos Vagalumes
 ---
+
 Esse é um filme que me foi apresentado a primeira vez 15 anos atrás como o filme mais triste que eu veria e que choraria litros ao vê-lo. Não chorei, e para falar a verdade não havia entendido muito bem o drama por trás da atmosfera fatalista que cerca este garoto e sua irmãzinha, sobrevivendo os últimos meses da guerra sem qualquer suporte familiar ou comunitário.
 
 Porém, eu "era garoto" na época e não conhecia muitos filmes para ter opinião formada. Era simplesmente um espectador como qualquer outro, ou talvez uma exceção na resposta emocional que a maioria das pessoas têm sobre este filme. Acontece. Filmes, por mais que as pessoas acreditem o contrário a respeito dos seus favoritos, nunca são unanimidade.

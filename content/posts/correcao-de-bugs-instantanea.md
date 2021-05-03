@@ -1,8 +1,11 @@
 ---
-date: "2010-02-01"
-categories: [ "code", "draft" ]
-title: "Correção de bugs instantânea"
+categories:
+- code
+- draft
+date: '2010-02-01'
+title: Correção de bugs instantânea
 ---
+
 Um programador tarimbado sabe que a melhor situação da vida dele para corrigir um bug é quando esse bug acontece em sua máquina de desenvolvimento, na versão Debug e ainda passo-a-passo. Como nessa situação a correção é um verdadeiro "passeio no parque" (ou na mesa do café) ela tende a quase nunca acontecer. Isso é Murphy Aplicado.
 
 Para quem programa para sistemas, então, só o fato de acontecer no mesmo processo toda vez que ele for executado já é o máximo (quem já programou serviços, plugins, GINAs e afins sabe do que eu estou falando).

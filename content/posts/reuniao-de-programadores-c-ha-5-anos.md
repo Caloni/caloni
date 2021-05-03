@@ -1,9 +1,13 @@
 ---
-date: "2011-01-12"
-categories: [ "draft", "blog" ]
-tags: [ "ccppbr" ]
-title: "Reunião de programadores C++ (há 5 anos)"
+categories:
+- draft
+- blog
+date: '2011-01-12'
+tags:
+- ccppbr
+title: Reunião de programadores C++ (há 5 anos)
 ---
+
 Começo de ano, hora de fazer backup completo. Durante minha cópia anual do gmail acabei encontrando meu post-chamado para nossa primeira reunião C++. Como parte da sessão nostalgia, convido-os, novos e velhos colegas, a continuar a brincadeira de organizar uma reunião informal de pessoas que gostam tanto de programar que criam seus próprios ponteiros.
 
 E-mail escrito em 02/12/2005:
@@ -36,4 +40,3 @@ Gostaríamos que as pessoas da comunidade C++ dessem sugestões sobre essa idéi
 Coloquem as sugestões nos comentários e quando a gente fechar alguma coisa eu escrevo um novo post com o que definimos. Até lá.
 
 PS: Qualquer semelhança deste post com o conteúdo de um conhecido blog brasileiro sobre programação não é mera coincidência.
-

@@ -1,9 +1,12 @@
 ---
-date: "2017-07-27"
-link: "https://www.imdb.com/title/tt3006802"
-categories: [ "draft", "series" ]
-title: "Outlander - Segunda Temporada"
+categories:
+- draft
+- series
+date: '2017-07-27'
+link: https://www.imdb.com/title/tt3006802
+title: Outlander - Segunda Temporada
 ---
+
 A segunda temporada de Outlander mantém as mesmas virtudes da primeira -- figurino, direção de arte, fotografia -- e ainda melhora a atuação. Concentrado em tentar entregar sempre alguma mudança, por menor que seja, em cada episódio, esta parte da série consegue quase sempre evocar a já bem estabelecida atmosfera de seu início, mas se mantém fraco na tensão de seus dramas, e desperdiça seu maior mote: a luta do dia-a-dia pela mudança do destino.
 
 Não necessariamente desperdiça, mas deixa em segundo plano demais para que consigamos ver "the big picture", ou as engrenagens da História se movendo lentamente. É óbvio que é do maior interesse dos criadores evitar paradoxos temporais, mas um polimento melhor no roteiro conseguiria entregar isso e ainda ligar melhor suas pontas, que estão forradas de coincidências, principalmente no último e mais longo episódio. É curioso notar que é justamente neste episódios que sentimos de fato tudo o que foi vivido como aspectos de uma História imutável, mas sempre sendo redescoberta através de novas narrativas.

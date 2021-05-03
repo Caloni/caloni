@@ -1,9 +1,13 @@
 ---
-date: "2020-01-04"
-categories: [ "draft", "food" ]
-tags: [ "recipes" ]
-title: "Suspiro"
+categories:
+- draft
+- food
+date: '2020-01-04'
+tags:
+- recipes
+title: Suspiro
 ---
+
 Esta é uma receita aprendida por um artigo do programa da Ana Maria Braga onde minha amiga chef confeiteira Silvana Oliveira dá dicas de como fazer este doce tão famoso.
 
 Ingredientes: uma parte de claras para o dobro (em peso) de açúcar. Limão (raspas e suco), ou qualquer substância ácida para estabilizar as claras.

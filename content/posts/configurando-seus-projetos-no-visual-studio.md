@@ -1,8 +1,11 @@
 ---
-date: "2008-02-21"
-categories: [ "code" ]
-title: "Configurando seus projetos no Visual Studio (Multi-threaded Debug DLL /MT, /MD)"
+categories:
+- code
+date: '2008-02-21'
+title: Configurando seus projetos no Visual Studio (Multi-threaded Debug DLL /MT,
+  /MD)
 ---
+
 Ao iniciar na arte da programação em C no Visual Studio eventualmente o programador irá querer testar seus programas rodando em outra máquina que não seja a de desenvolvimento, mandar uma versão beta para amigos, pra namorada e pro seu cachorro. Geralmente, por padrão, existem algumas dependências do programa compilado com uma DLL de runtime da versão do ambiente em que foi compilado o dito cujo, dificultando um pouco a distribuição do seu motherfucker-program.
 
 Porém, seus "poroberemas se acabaram-se". Com o inovador configurador de projetos do Visual Studio, tudo o que você queria é possível, e ainda mais!

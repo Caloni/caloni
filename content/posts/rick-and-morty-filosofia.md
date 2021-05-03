@@ -1,9 +1,12 @@
 ---
-date: "2017-10-21"
-link: "https://www.imdb.com/title/tt2861424"
-categories: [ "draft", "series" ]
-title: "A Filosofia de Rick And Morty: Primeira Temporada (anotações)"
+categories:
+- draft
+- series
+date: '2017-10-21'
+link: https://www.imdb.com/title/tt2861424
+title: 'A Filosofia de Rick And Morty: Primeira Temporada (anotações)'
 ---
+
 Reassistindo a Primeira Temporada de Rick & Morty para revisar alguns pontos filosóficos fascinantes da série. Acabei vendo a Segunda Temporada e, como já acabou, a Terceira também. E a terceira é provavelmente a melhor de todas. Vejam! Eu sou Pickle Rick!!
 
  - S01E01 Rick comenta no piloto que eles não sabem o que é mais importante. Precisa de uma semente para ficar mais inteligente para fazer mais ciência. Isso meio que planta a semente da dúvida se Rick é absurdista, niilista ou simplesmente um cientista fanático.

@@ -1,9 +1,12 @@
 ---
-date: "2015-12-13"
-link: "https://www.imdb.com/title/tt2085059"
-categories: [ "draft", "series" ]
-title: "Black Mirror - S01E01 - The National Anthem"
+categories:
+- draft
+- series
+date: '2015-12-13'
+link: https://www.imdb.com/title/tt2085059
+title: Black Mirror - S01E01 - The National Anthem
 ---
+
 Black Mirror é uma série que explora o que há de pior em nossa era da comunicação instantânea e da tecnologia crescente. Na verdade, eles vão um pouco além da nossa realidade atual, avançando alguns anos/décadas, onde algumas novidades brincam com nosso conceito de humanidade e relacionamentos, mídia e governos.
 
 Essa série britânica parece ter como tema mostrar o que há de pior na globalização da mídia através da internet, além de sua velocidade quase instantânea de compartilhamento, permitindo com que um conteúdo proibido na mídia tradicional (televisão, rádio) por governos se espalhe irrestritamente por esta rede mundial descentralizada.

@@ -1,9 +1,12 @@
 ---
-date: "2019-05-05"
-link: "https://www.imdb.com/title/tt0100998"
-categories: [ "draft", "movies" ]
-title: "Sonhos"
+categories:
+- draft
+- movies
+date: '2019-05-05'
+link: https://www.imdb.com/title/tt0100998
+title: Sonhos
 ---
+
 Assisti a Sonhos, de Akira Kurosawa, dividido em dois. Minha esposa dormiu na metade. Eu avisei para ela que esse cineasta é lento.
 
 As pessoas hoje em dia não têm paciência para observar e contemplar a beleza da composição dos quadros de Kurosawa. E não são apenas os quadros, como a verdadeira pintura dos cenários, do figurino e, principalmente, da imagem que fica em nosso inconsciente ao absorver todas aquelas cores que parecem fazer parte de quadros móveis em ângulos inusitados, mas misteriosamente perfeitos.

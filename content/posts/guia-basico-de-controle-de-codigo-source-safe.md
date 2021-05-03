@@ -1,8 +1,10 @@
 ---
-date: "2007-09-12"
-categories: [ "code" ]
-title: "Guia básico de controle de código (Source Safe)"
+categories:
+- code
+date: '2007-09-12'
+title: Guia básico de controle de código (Source Safe)
 ---
+
 O primeiro passo para se passar no Teste do Joel é possuir algum tipo de controle de código. E ele está mais do que certo. Não existe nada mais frustrante do que não ter exatamente o código-fonte da versão que está rodando no cliente ou não saber o que mudou desde que a versão foi entregue. Esse tipo de coisa pode acabar com uma empresa ou fazer com que ela fique muito mal vista no mercado.
 
 Porém, independente do mercado, existe um bom motivo para o desenvolvedor possuir algum tipo de controle de código: controle. Se você ou sua equipe não conseguem corrigir todos os bugs, pelo menos saberão o que já foi feito. Se você achou um bug que não existia antes da versão 10, o histórico das mudanças entre a versão estável 9 e a versão não-tão-estável 10 vai te dar uma pista muito boa de onde o problema pode ter sido gerado. Visto dessa forma, não importa muito o tamanho da equipe ou da organização. O importante de um bom código é que suas mudanças estejam sempre registradas, visíveis e disponíveis a qualquer um.

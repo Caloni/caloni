@@ -1,9 +1,12 @@
 ---
-date: "2019-05-20"
-link: "https://www.imdb.com/title/tt0103639"
-categories: [ "draft", "movies" ]
-title: "Aladdin"
+categories:
+- draft
+- movies
+date: '2019-05-20'
+link: https://www.imdb.com/title/tt0103639
+title: Aladdin
 ---
+
 Todos sabem a história. Está nas Mil e Uma Noites (apesar de não fazer parte do original arábico, leia descrição no final do texto). Jovem humilde encontra lâmpada e com isso tem o poder de se casar com a princesa. Os detalhes foram compilados em um projeto que se arrastou por anos durante o período do renascimento dos estúdios Disney, nos anos 90, quando depois de longo hiato os lançamentos de A Bela e A Fera, O Rei Leão, Aladdin entre outros catapultou novamente a produtora nos holofotes de público e crítica.
 
 Os filmes dessa safra são simples, teatrais. São feitos para serem musicais por excelência. Aladdin explora uma ideia em torno de seus arquétipos e executa-os muito bem, com música, humor, aventura, romance e inspiração. Não se trata de uma história ingênua, mas é preciso prestar atenção nas entrelinhas para entender o que é todo esse alvoroço em torno da lâmpada.

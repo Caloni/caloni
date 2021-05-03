@@ -1,10 +1,14 @@
 ---
-date: "2018-10-26"
-link: "https://www.imdb.com/title/tt3886454"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Trinta Almas"
+categories:
+- draft
+- movies
+date: '2018-10-26'
+link: https://www.imdb.com/title/tt3886454
+tags:
+- cinemaqui
+title: Trinta Almas
 ---
+
 Trinta Almas realiza o experimento de unir documental e ficção em filme com tons de terror e mistério, mas desde seu começo já demonstra esta não ser uma ideia tão boa quanto a realizada em A Bruxa de Blair, marco nos filmes estilo mockumentary. Se bem que rotular este filme dessa forma não seja o ideal. Este é também um experimento, um conceito, que poderia dar algumas sensações novas aos filmes do gênero. Mas não consegue. É confuso, parado e frustrante.
 
 A história já começa revelando a busca por uma menina chamada Alba. O vilarejo fica localizado entre florestas e montanhas, com muitos lugares para uma criança se perder. Ela, aprendemos, é uma menina médium e está narrando sua história, começando pelo fim. Como isso tira praticamente a única reviravolta do filme o resto é apenas um documentário casual sem muita tensão.

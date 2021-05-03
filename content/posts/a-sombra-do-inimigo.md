@@ -1,9 +1,11 @@
 ---
-date: "2012-12-22"
-link: "https://www.imdb.com/title/tt1712170"
-categories: [ "movies" ]
-title: "A Sombra do Inimigo"
+categories:
+- movies
+date: '2012-12-22'
+link: https://www.imdb.com/title/tt1712170
+title: A Sombra do Inimigo
 ---
+
 Alex Cross, aqui chamado de A Sombra do Inimigo, é daqueles filmes que apostam em sua própria esperteza. Como não poderia deixar de ser, cai em sua própria auto-indulgência e como consequência é incapaz sequer de trilhar uma narrativa decente que nos faça acompanhar o drama vivido pelo seu personagem-título.
 
 Vivido pelo ator/diretor/roteirista Tyler Perry, o policial Alex Cross é dotado aparentemente de faculdades dedutivas que lembram Sherlock Holmes -- artifício demonstrado apenas no anúncio da gravidez de sua mulher e abandonado logo depois. Junto com seu companheiro Thomas (Edward Burns) precisa investigar a origem de um quádruplo assassinato ocorrido em uma casa de um bairro milionário. Ao mesmo tempo, decide se candidatar a um cargo burocrático em outra cidade para ter mais tempo para sua família, o que o coloca na mesma situação de tantos outros filmes sobre policiais em seu último caso antes de se aposentar.

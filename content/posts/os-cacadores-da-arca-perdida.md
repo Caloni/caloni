@@ -1,9 +1,12 @@
 ---
-date: "2016-10-16"
-link: "https://www.imdb.com/title/tt0082971"
-categories: [ "draft", "movies" ]
-title: "Os Caçadores da Arca Perdida"
+categories:
+- draft
+- movies
+date: '2016-10-16'
+link: https://www.imdb.com/title/tt0082971
+title: Os Caçadores da Arca Perdida
 ---
+
 Este é um filme clássico de aventuras. Ele transforma o personagem James Bond em um arqueólogo e que continua sendo, nos moldes tradicionais, um homem de verdade. Ele mata quando preciso, e as mortes acontecem de verdade -- com sangue e tiros, e não como na nossa geração leite-com-pera atual, se estiver se perguntando. Indiana Jones está disposto a arriscar a vida pelo que acredita. Ele é durão em um filme que ri dos clichês sérios. Ele contém um tema musical inesquecível e uma trilha sonora que se confunde com Star Wars, outro filme estelado por Harrison Ford na mesma época (e ambos compostos pelo músico John Williams).
 
 A história está envolta pela lenda do Dr. Jones, um professor em uma universidade de história conceituada que além de todo seu arcabouço teórico sai a campo em busca de tesouros escondidos no melhor estilo Tomb Raider (aliás, este videogame emula em muito os filmes do herói), onde há armadilhas instaladas por povos antigos, quase sempre disparadas por alavancas ou o poder do sol. A história também está envolta dos nazistas, pois ela se passa na época da segunda guerra. Hitler é obcecado por religião e busca encontrar a arca de aliança entre Deus e os hebreus, onde estão as tábuas dos dez mandamentos originais. Ter uma ponte de comunicação com Deus seria a chave da vitória para os alemães. O filme é envolto em uma realidade em que, nos mesmos moldes de Dan Brown, contém boa parte de história real, mas diferente deste, vai até as últimas consequências, sejam elas sobrenaturais ou não.

@@ -1,8 +1,10 @@
 ---
-date: "2018-05-07"
-categories: [ "draft",  ]
-title: "Adivinhe: Roger Ebert"
+categories:
+- draft
+date: '2018-05-07'
+title: 'Adivinhe: Roger Ebert'
 ---
+
 Acha que conhece de cinema? E que tal tentar adivinhar por um punhado de palavras de um crítico sobre qual filme estamos falando?
 
 > If the audience ever started giggling at the sounds and tricks, the picture might collapse, because it's entirely mechanical and impersonal.

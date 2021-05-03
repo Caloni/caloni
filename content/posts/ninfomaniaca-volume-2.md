@@ -1,9 +1,12 @@
 ---
-date: "2016-06-06"
-link: "https://www.imdb.com/title/tt2382009"
-categories: [ "draft", "movies" ]
-title: "Ninfomaníaca Volume 2"
+categories:
+- draft
+- movies
+date: '2016-06-06'
+link: https://www.imdb.com/title/tt2382009
+title: Ninfomaníaca Volume 2
 ---
+
 Podemos chamar Joe de vadia, vulgar ou de qualquer outro adjetivo que achemos o pior em uma pessoa. No entanto, uma coisa que Lars von Trier te impede de fazer durante todas as seis horas de projeção de Ninfomaníaca é permitir que, do topo de nossa suposta moral, a chamemos de vítima. E é isso que autentica essa personagem como uma dura crítica ao nosso modo de pensar a respeito de sexo e da relação entre seus praticantes. Joe, interpretada de maneira dura e auto-reflexiva pela impassível Charlotte Gainsbourg, é que pode, do topo de sua experiência no assunto, julgar a hipocrisia humana.
 
 O segundo e último volume lançado aqui no Brasil, não sei por que um filme como esse teria um viés comercial na cabeça desses distribuidores, mas enfim..., perde um pouco sua introdução quase cômica para começar a pesar as decisões de Joe acerca de sua vida. Nem as divertidas analogias de seu ouvinte fazem mais efeito, senão o de nos fazer lembrar que Von Trier enquanto narra analisa seu próprio processo, o que poderia ter o prejuízo de nos fazer sair do filme se não fosse a câmera documental e as transições que fluem sem pudor entre diálogos e "ação" (além de já nos acostumarmos com essa dinâmica).

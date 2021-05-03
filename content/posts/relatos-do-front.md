@@ -1,10 +1,14 @@
 ---
-date: "2019-06-10"
-link: "https://www.imdb.com/title/tt9627016"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Relatos do Front"
+categories:
+- draft
+- movies
+date: '2019-06-10'
+link: https://www.imdb.com/title/tt9627016
+tags:
+- cinemaqui
+title: Relatos do Front
 ---
+
 Desde seu título, Relatos do Front compra a briga de chamar de guerra os conflitos entre a polícia de operações especiais do Rio de Janeiro e os traficantes do morro. Isso porque entre bandido e polícia muito mais gente morre, incluindo inocentes moradores das zonas de risco. Junto disso o bolo de sessenta mil homicídios por ano no país inteiro entra nas estatísticas deste documentário de Renato Martins. Por quê? Acredito que porque usar números não é um ponto forte do pessoal de humanas.
 
 Porém o drama é. E Martins nos conduz por uma série de imagens capturadas desses conflitos de maneira soberba. Podemos nos sentir privilegiados no conforto de nossas poltronas assistindo ao martírio dos envolvidos neste sistemático massacre resultante da luta contra as drogas. Editado em um tom melancólico ao mesmo tempo que nos deixa apreensivos pelo uso indiscriminado de armas de fogo nas ruas do Rio de Janeiro, este é um filme com uma mixagem de som invejável, onde se pode ouvir as pessoas em volta ao mesmo tempo que os tiros incessantes. O melhor do filme sem dúvida são suas imagens, produzidas com uma competência ímpar.

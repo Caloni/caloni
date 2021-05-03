@@ -1,10 +1,14 @@
 ---
-date: "2019-04-24"
-link: "https://www.imdb.com/title/tt5461944"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Atentado ao Hotel Taj Mahal"
+categories:
+- draft
+- movies
+date: '2019-04-24'
+link: https://www.imdb.com/title/tt5461944
+tags:
+- cinemaqui
+title: Atentado ao Hotel Taj Mahal
 ---
+
 O que mais impressiona em "Atentado ao Hotel Taj Mahal", um thriller biográfico tenso, pesado e claustofóbico, é que apesar (ou por causa) de toda a brutalidade que vemos na tela, causada por diferenças culturais e conflitos políticos, aos poucos nele emerge um senso de humanidade que é livre de gênero, nacionalidade, posição social ou dinheiro. Quando pessoas estão à beira da morte é o momento em que surgem os heróis anônimos, seja em pequenos atos, como manter um bebê no colo todo momento ou tentar tranquilizar uma mulher inconsolável com um uísque 20 anos, ou em verdadeiros exemplos de hombridade, como se manter fiel ao comprometimento de um trabalho, mesmo que para isso seja necessário deixar de lado os valores mais sagrados que se tem em vida.
 
 Essa camada interpretativa por trás da ação desenfreada é desenvolvida de maneira sutil e controlada pelo diretor Anthony Maras, que estreia em longas-metragens com um trabalho onde demonstra possuir um controle invejável da ação e dos pequenos momentos onde a história ganha contornos mais complexos entre seus personagens, e isso em um filme que não tem muito tempo para isso, pois quase todas as duas horas do filme são ocupadas com muita violência e pouquíssimos diálogos. Vemos apenas tiros, mortes, gritos e sangue. Tudo isso coordenado por uma voz de um rosto que nunca vemos (uma ótima ideia manter o "mal absoluto" sem face).

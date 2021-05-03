@@ -1,9 +1,11 @@
 ---
-date: "2014-04-06"
-link: "https://www.imdb.com/title/tt1483013"
-categories: [ "movies" ]
-title: "Oblivion"
+categories:
+- movies
+date: '2014-04-06'
+link: https://www.imdb.com/title/tt1483013
+title: Oblivion
 ---
+
 Oblivion consegue a proeza de citar diversas obras de ficção científica memoráveis e ainda assim ficar muito longe dos resultados que as mesmas obras tiveram em suas épocas. Talvez o maior problema seja Tom Cruise, que desde muito tempo vem repetindo suas performances e evitando que uma trama até que interessante ganhe frutos, um toque de Midas ao contrário que chega a rivalizar com Will Smith.
 
 A história se passa mais de 60 anos no futuro, quando após em embate planetário com uma raça alienígena de saqueadores, "mas ganhamos a guerra", como gosta de repetir Jack, personagem de Cruise, a Lua foi destruída e com ela metade da vida na Terra, que além disso se contaminou com a radiação das bombas atômicas que foram necessárias para "ganhar a guerra". De mudança para Titã, um dos satélites de Saturno e que de fato se apresenta como uma das alternativas mais viáveis de moradia para um futuro distante, a espécie humana ainda precisa de água, e é por isso que Jack precisa resguardar com a ajuda de seus drones e sua esposa (Andrea Riseborough) um equipamento gigantesco que suga os oceanos. Uma operação diária de rotina é orquestrada por uma estação espacial triangular que enfeita o horizonte fantástico desse futuro distópico.

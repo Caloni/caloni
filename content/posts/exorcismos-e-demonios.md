@@ -1,10 +1,14 @@
 ---
-date: "2018-03-27"
-link: "https://www.imdb.com/title/tt4181782"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Exorcismos e Demônios"
+categories:
+- draft
+- movies
+date: '2018-03-27'
+link: https://www.imdb.com/title/tt4181782
+tags:
+- cinemaqui
+title: Exorcismos e Demônios
 ---
+
 Exorcismos e Demônios é um filme que adota o estilo clássico de mistério que vai sendo desvendado, mas se esquece que para o espectador ficar interessado no mistério é necessário que ele de fato exista.
 
 O filme se trata de acompanhar a investigação da jornalista-mirim Nicole Rawlins (Sophie Cookson). Ou pelo menos ela se parece uma jornalista-mirim, com seu rosto infantil e um pai editor de jornal. Fica muito claro desde o começo que esta é uma apelação para o público jovem, geralmente o alvo de terrores de qualidade questionável.

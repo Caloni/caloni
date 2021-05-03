@@ -1,9 +1,12 @@
 ---
-date: "2016-10-25"
-link: "https://www.imdb.com/title/tt5933966"
-categories: [ "draft", "movies" ]
-title: "Ascent"
+categories:
+- draft
+- movies
+date: '2016-10-25'
+link: https://www.imdb.com/title/tt5933966
+title: Ascent
 ---
+
 Aviso: este filme é na verdade um foto-film experimental. Ou seja, ele é constituído de uma série de fotografias, e tem uma narração em off. Alguns filmes na história do Cinema se saíram fabulosamente bem com esse estilo (como A Pista/La Jetée, curta que inspirou o longa de sci-fi Os 12 Macacos, de Terry Giliam).
 
 A história é uma espécie de recapitulação de Hiroshima Meu Amor (até resgatando a fala original mais famosa do filme de Alain Resnais) com o foco no Monte Fuji, mas igualmente com dois narradores, um homem e uma mulher. O homem fala em japonês e tem um nome japonês. A mulher, que fala em inglês, resgata suas memórias deste homem através de uma série de fotos. Ele morreu, e ela lamenta. Mas agora, através das fotos, parece começar a entender o que ele quis dizer quando vivo. A montanha, aparentemente, tem algo a dizer também.

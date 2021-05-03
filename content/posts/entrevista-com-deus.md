@@ -1,10 +1,14 @@
 ---
-date: "2018-11-07"
-link: "https://www.imdb.com/title/tt5779372"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Entrevista Com Deus"
+categories:
+- draft
+- movies
+date: '2018-11-07'
+link: https://www.imdb.com/title/tt5779372
+tags:
+- cinemaqui
+title: Entrevista Com Deus
 ---
+
 A primeira impressão de Entrevista com Deus é que o filme inteiro foi baseado em apenas uma ideia: Deus é entrevistado por um ser humano. Para que esse momento único funcionasse, porém, seria necessário ou desenvolver uma fantasia mais alegórica como Todo Poderoso, o que correria o risco de ser cômico sem querer, ou desenvolver tão bem os personagens que passaríamos a entender suas motivações por trás daquele momento, delírio ou não.
 
 Infelizmente o filme de Perry Lang (da TV) não usa nenhuma dessas estratégias, preferindo se pautar na lógica daquelas pessoas que estão perdidas em algum momento da vida: elas prestam pouca atenção nos detalhes, seguem a rotina mecanicamente e não possuem o ceticismo em um nível saudável. Porém, o trabalho de Ken Aguado no roteiro (também da TV) preguiçosamente não nos fornece pistas para entender exatamente o que se passa pela cabeça do jornalista Paul Asher, preferindo apenas jogar as cartas na mesa (ou as peças no tabuleiro) na primeira oportunidade que tem.

@@ -1,9 +1,12 @@
 ---
-date: "2019-08-01"
-link: "https://www.imdb.com/title/tt0115634"
-categories: [ "draft", "movies" ]
-title: "The Battle Over Citizen Kane"
+categories:
+- draft
+- movies
+date: '2019-08-01'
+link: https://www.imdb.com/title/tt0115634
+title: The Battle Over Citizen Kane
 ---
+
 Se Cidadão Kane, de 1941, caiu no esquecimento do grande público por tanto tempo, The Battle Over Citizen Kane, de 1996, veio reavivar a fogueira das vaidades de dois gigantescos egos lutando por seu lugar ao sol em uma poderosa Hollywood, palco de contradições desde seu nascimento.
 
 De um lado temos o clássico Tycon do século 19, o herdeiro William Randolph Hearst, figura emblemática que usou sua vida para construir influência, transformando a fortuna de minas de seu pai em um complexo de jornais a nível nacional, lutando à sua própria e controversa maneira para dar voz ao pobre, ao trabalhador, ao imigrante. Derrotado no jogo político, no final vira uma figura excêntrica constituindo um castelo e indo morar isolado com uma dançarina caça-fortunas 30 anos mais jovem, sua segunda esposa.

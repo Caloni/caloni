@@ -1,10 +1,14 @@
 ---
-date: "2019-10-28"
-link: "https://www.imdb.com/title/tt10785310"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Três Verões"
+categories:
+- draft
+- movies
+date: '2019-10-28'
+link: https://www.imdb.com/title/tt10785310
+tags:
+- cinemaqui
+title: Três Verões
 ---
+
 Regina Casé é um colírio de interpretação para os olhos. A maneira com que ela torna a caseira Madá uma representante da brasilidade pobre da periferia do Rio de Janeiro convivendo com figurões de uma família de ricaços é o suficiente para sustentar "Três Verões" sozinho, do começo ao fim.
 
 Porém, além de Casé, a direção de Sandra Kogut de um roteiro escrito por ela e Iana Cossoy Paro é hábil em entender que ela possui uma atriz de peso muito díspare para se concentrar apenas na visão sócio-econômica do Brasil entre os anos de 2015 a 2018. A premissa básica é observarmos o que acontece com essa família de ricos e sua casa à beira-mar conforme o pai de família é acusado e preso por crimes contra o patrimônio público, mas a sacada de mestre é observarmos tudo isso sob os olhos da simples, não não ingênua, Madá.

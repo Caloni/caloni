@@ -1,9 +1,12 @@
 ---
-date: "2017-10-21"
-link: "https://www.imdb.com/title/tt0458352"
-categories: [ "draft", "movies" ]
-title: "O Diabo Veste Prada"
+categories:
+- draft
+- movies
+date: '2017-10-21'
+link: https://www.imdb.com/title/tt0458352
+title: O Diabo Veste Prada
 ---
+
 Meryl Streep em um dos melhores papéis de sua carreira (o que não é pouca coisa). Olhe sua entonação entediada, sem levantar a voz, sem sequer olhar para os olhos de seus funcionários. Olhe como enumera de maneira apática e precisa de onde veio o azul que sua nova secretária está usando. O azul dela tem um nome específico, a secretária não se liga pra moda, e Streep simplesmente a coloca em seu lugar.
 
 "That's all."

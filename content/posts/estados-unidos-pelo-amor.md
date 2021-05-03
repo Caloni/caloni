@@ -1,10 +1,14 @@
 ---
-date: "2016-12-09"
-link: "https://www.imdb.com/title/tt5333110"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Estados Unidos Pelo Amor"
+categories:
+- draft
+- movies
+date: '2016-12-09'
+link: https://www.imdb.com/title/tt5333110
+tags:
+- cinemaqui
+title: Estados Unidos Pelo Amor
 ---
+
 É curioso como em "Estados Unidos Pelo Amor" -- novo trabalho do diretor (e roteirista) Tomasz Wasilewski -- o destino de cada personagem termina necessariamente em um drama, mas que nunca é suficientemente trágico. Pelo menos não para as mulheres envolvidas em quatro histórias que se cruzam em um vilarejo na Polônia na época comunista. Este é acima de tudo um filme sobre um grito silencioso na imensidão do horizonte.
 
 Uma garota cai no lago congelado; uma mulher fuma no banheiro para abafar seu desespero; uma jovem vomita no mesmo recipiente usado para limpá-la. As radicais decisões dessas mulheres parecem ser proporcionais ao seu nível de dor e carência. Elas sofrem internamente, e a forma com que cada uma delas desenvolve essa relação com a dor é o tema que as une. A palavra amor é usada muitas vezes no filme. Alguns tentam defini-la em uma escola, sugerindo ludicamente que esta não é uma palavra que é definida em uma sala de aula, quando um aluno pergunta ao professor se ele já fez sexo.

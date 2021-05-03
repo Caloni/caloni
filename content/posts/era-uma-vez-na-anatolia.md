@@ -1,9 +1,11 @@
 ---
-date: "2020-06-22"
-link: "https://www.imdb.com/title/tt1827487"
-categories: [ "movies" ]
-title: "Era uma Vez na Anatolia"
+categories:
+- movies
+date: '2020-06-22'
+link: https://www.imdb.com/title/tt1827487
+title: Era uma Vez na Anatolia
 ---
+
 A fotografia cria um personagem à parte com suas luzes de diferentes tons enquanto essa trupe de três veículos cruza os pequenos vales de uma região remota e perigosa na Turquia.
 
 Um fato curioso, para não dizer hilário, é que o diretor, Nuri Bilge Ceylan, é colocado contra a parede em uma entrevista em Cannes, em que o entrevistador precisa fazer a pergunta da cartilha comunista sugerindo que um dos temas do filme é sobre os "homens poderosos e com dinheiro". O entrevistador leva umas pequenas e boas palmadas quando o próprio diretor explica que são burocratas do governo em cidadezinha de província e seus conflitos refletem parte do que ele viu com seu pai, que também era um burocrata em uma cidadezinha.

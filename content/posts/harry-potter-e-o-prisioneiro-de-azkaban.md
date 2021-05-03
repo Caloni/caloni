@@ -1,9 +1,12 @@
 ---
-date: "2019-12-29"
-link: "https://www.imdb.com/title/tt0304141"
-categories: [ "draft", "movies" ]
-title: "Harry Potter e o Prisioneiro de Azkaban"
+categories:
+- draft
+- movies
+date: '2019-12-29'
+link: https://www.imdb.com/title/tt0304141
+title: Harry Potter e o Prisioneiro de Azkaban
 ---
+
 O bruxo Harry Potter e seus amigos atingindo uma idade em que a história começa a ficar ligeiramente mais interessante e menos infantil, menos magia por magia, menos efeitos tomando conta da história, embora os efeitos em si criam uma nova dimensão ao entretenimento.
 
 Aqui a troca de direção só faz bem, pois há uma mudança na linguagem visual que torna esta a aventura mais dinâmica até agora, com transições elegantes, como uma coruja mudando a estação durante o vôo, e uma câmera mais interessada em seus personagens do que em espaço de fundo verde. Alonso Cuarón já provou ser um exímio narrador de fábulas, como em A Princesinha, e aqui seu lado lúdico se une ao dramático. Ele consegue dialogar tanto com os espectadores mais novos quanto com os aspectos mais sombrios da história da escritora J. K. Howling.

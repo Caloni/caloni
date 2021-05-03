@@ -1,8 +1,10 @@
 ---
-date: "2019-02-18"
-categories: [ "draft" ]
-title: "Dogville Teatro"
+categories:
+- draft
+date: '2019-02-18'
+title: Dogville Teatro
 ---
+
 Eu não me lembro direito do filme de Lars von Trier, mas eu sei que ele foi impactante quando o vi, provavelmente em 2005. Estupro, escravidão, tiros. Quando você vai assistir a um filme do diretor dinamarquês é necessário que você esteja preparado para o pior. A peça dirigida por Zé Henrique de Paula talvez se prepare demais.
 
 O minimalismo de Von Trier em seu filme, com casas pintadas representando a pequena cidade de Dogville onde se passa a hitória, na época se explicava por algumas das regras ainda seguidas pelo diretor do Manifesto Dogma 95. Esse manifesto criado por ele e Thomas Vinterberg visavam o foco na história, tema e atuações, excluindo usos elaborados de efeitos especiais e tecnologia. Como uma tentativa de retomar o poder para o criador do conteúdo em vez dos estúdios, o projeto foi aos poucos afrouxando no decorrer dos seus filmes até culminar em Dogville, que mantinha o foco nas atuações e direção, mas que já se dava ao luxo de projeções e efeitos de luz. Mas de qualquer forma a história toda se passava em um cenário que lembra um grande palco de teatro.

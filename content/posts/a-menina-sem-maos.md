@@ -1,9 +1,12 @@
 ---
-date: "2016-10-25"
-link: "https://www.imdb.com/title/tt5698496"
-categories: [ "draft", "movies" ]
-title: "A Menina Sem Mãos"
+categories:
+- draft
+- movies
+date: '2016-10-25'
+link: https://www.imdb.com/title/tt5698496
+title: A Menina Sem Mãos
 ---
+
 Mais um desenho baseado em conto dos Irmãos Grimm. Na verdade, Jacob e Wilhelm Grimm, além de resgatar um pouco da origem das línguas germânicas e ajudar a fundar o estudo organizado de linguística, eles também coletaram a cultura desses povos, o que significa na prática suas crendices e valores, estruturadas em contos que eram contados de geração em geração. Ao salvar como escrita, eles conseguiram salvar boa parte da História no formato de folclore.
 
 No entanto, é difícil muitas vezes induzir quais eram os valores implícitos em tais histórias. Muitas, se não todas, possuíam diferentes versões, o que faz todo sentido para a herança oral. Dessa forma, trabalhos como João e Maria ou Branca de Neve podiam se tornar universais por se tratar de histórias fáceis de perceber a moral, assim como as crenças mais modernas de derrubar sal na mesa ou abrir guarda-chuva trazer azar (ensinando as crianças a serem cuidadosas através de exemplos sobrenaturais; como podemos perceber, deus é apenas mais um desses exemplos).

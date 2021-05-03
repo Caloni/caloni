@@ -1,9 +1,12 @@
 ---
-date: "2018-03-15"
-link: "https://www.imdb.com/title/tt5639354"
-categories: [ "draft", "movies" ]
-title: "Uma Mulher Fantástica"
+categories:
+- draft
+- movies
+date: '2018-03-15'
+link: https://www.imdb.com/title/tt5639354
+title: Uma Mulher Fantástica
 ---
+
 Uma declaração de direitos humanos. Tudo que um ser humano não deveria sofrer psicologicamente está neste filme. E para isso basta as pessoas entenderem que o gênero não importa. E acredite ou não, estamos em 2018 e isso ainda é um grande desafio para a humanidade. Mas talvez não seja tão inacreditável assim, já que todas as misérias sociais pelos quais as pessoas passam hoje em dia é graças unicamente aos socialistas. Explico por que:
 
 Os socialistas subvertem os movimentos mais puros por solidariedade humana em troca de uma luta irracional de classes temperada com um jogo absurdo de palavras e muita ignorância. Sua ascenção pré e pós-crise apenas trouxe aos holofotes o quão mesquinhos somos como raça, dispostos a nos dividirmos em grupos minúsculos chamados de minorias e lutar apenas por esse grupo.

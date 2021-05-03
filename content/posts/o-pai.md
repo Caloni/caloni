@@ -1,10 +1,14 @@
 ---
-date: "2019-10-24"
-link: "https://www.imdb.com/title/tt10409554"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Pai"
+categories:
+- draft
+- movies
+date: '2019-10-24'
+link: https://www.imdb.com/title/tt10409554
+tags:
+- cinemaqui
+title: O Pai
 ---
+
 O Pai é um filme que vai se percebendo o drama aos poucos. Ninguém está narrando a história, então você terá que acompanhar os detalhes pelos diálogos. E depois de um filme inteiro, sua última frase ressignifica tudo o que havíamos visto anteriormente.
 
 A história é simples: Pavel (Ivan Barnev) precisa urgentemente voltar para seu trabalho e casa após o enterro da mãe, mas seu pai, Vasil (Ivan Savov), está agindo estranho e precisa da proteção do filho nesse momento frágil. O filme gira em torno do filho tentando se livrar do pai sabendo que ele está seguro, e talvez o ponto mais fraco do longa, é óbvio que seu pai não estará seguro por boa parte da história.

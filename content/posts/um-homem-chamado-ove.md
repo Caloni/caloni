@@ -1,10 +1,14 @@
 ---
-date: "2017-02-04"
-link: "https://www.imdb.com/title/tt4080728"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Um Homem Chamado Ove"
+categories:
+- draft
+- movies
+date: '2017-02-04'
+link: https://www.imdb.com/title/tt4080728
+tags:
+- cinemaqui
+title: Um Homem Chamado Ove
 ---
+
 Um Homem Chamado Ove é um filme extremamente fácil de se ver. Indicado ao Oscar por filme estrangeiro e maquiagem, acaba sendo paradoxal ver um filme que se esforça tanto em ser tão agradável sobre um homem que parece fazer de tudo para não o ser.
 
 A história é simples, mas vai se desenvolvendo aos poucos. Ove (Rolf Lassgård) é um viúvo que mora em um grupo de casas que trata como seu, onde todo dia a primeira coisa que faz é sua "ronda matinal", percorrendo o condomínio se atentanto a infrações mínimas do regulamento (como estacionar carros fora da faixa em uma garagem absurdamente grande) e as tratando de forma inflexível, por mais simpáticos que seus vizinhos pareçam, e por mais que eles não deem a mínima. A história começa e termina contra essa criatura grotesca, ríspida e solitária, mas em algum momento acabamos de alguma forma por nos simpatizar com o sujeito. E não é por simples pena.

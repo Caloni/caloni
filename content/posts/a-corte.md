@@ -1,10 +1,14 @@
 ---
-date: "2016-06-01"
-link: "https://www.imdb.com/title/tt4216908"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Corte"
+categories:
+- draft
+- movies
+date: '2016-06-01'
+link: https://www.imdb.com/title/tt4216908
+tags:
+- cinemaqui
+title: A Corte
 ---
+
 A Corte está no Festival Varilux desse ano e conta a história justamente do que propõe. Vamos acompanhando o dia-a-dia na vida de todos envolvidos no julgamento de um réu, quase sempre sob o ponto de vista do juiz.
 
 Que começa o filme gripado.

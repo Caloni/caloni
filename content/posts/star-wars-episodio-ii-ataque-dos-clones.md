@@ -1,9 +1,11 @@
 ---
-date: "2011-05-29"
-link: "https://www.imdb.com/title/tt0121765"
-categories: [ "movies" ]
-title: "Star Wars, Episódio II: Ataque dos Clones"
+categories:
+- movies
+date: '2011-05-29'
+link: https://www.imdb.com/title/tt0121765
+title: 'Star Wars, Episódio II: Ataque dos Clones'
 ---
+
 A República começa a perder a força, e o desespero pela resolução da crise no Senado faz com que forças especiais sejam entregues ao Chanceler Palpatine. Como podemos ver, a história caminha em ritmo adequado para o ponto de encontro com o antes chamado Guerra nas Estrelas e rebatizado para Episódio IV.
 
 O problema mais marcante do novo filme é o relacionamento entre o Jedi aprendiz Anakin (Christensen, chato) e a Senadora Amidala (Portman, adequada), cuja aproximação beira o tédio, pois, por melhor que seja a intenção do roteiro em unir os dois, os diálogos soam forçados e a interpretação de Christensen não ajuda em nenhum momento. Para piorar, Lucas aposta em clichês que soam datados e já não fazem mais parte do "ritual de acasalamento cinematográfico", como o momento em que ambos rolam na grama.

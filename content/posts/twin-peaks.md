@@ -1,9 +1,12 @@
 ---
-date: "2018-02-27"
-link: "https://www.imdb.com/title/tt4093826"
-categories: [ "draft", "series" ]
-title: "Twin Peaks (2017)"
+categories:
+- draft
+- series
+date: '2018-02-27'
+link: https://www.imdb.com/title/tt4093826
+title: Twin Peaks (2017)
 ---
+
 Você que conhece o diretor David Lynch sabe que ele não é muito afeito a narrativas ortodoxas e pensamentos não-oníricos. Então faz muito sentido você, que não assistiu à primeira versão de Twin Peaks, se tornar completamente perdido ao acompanhar esta pseudo-continuação do diretor em uma versão mais moderna, mas ainda assim, hermética.
 
 Estamos falando de Twin Peaks, uma série que flerta com o sobrenatural da maneira mais direta e crua possível. Não temos sequer qualquer explicação para os acontecimentos, e talvez seja isso que nos mantenha vidrados no que está acontecendo, e como está acontecendo.

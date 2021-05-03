@@ -1,9 +1,12 @@
 ---
-date: "2015-12-12"
-link: "https://www.imdb.com/title/tt0058182"
-categories: [ "draft", "movies" ]
-title: "Os Reis do Ié-Ié-Ié"
+categories:
+- draft
+- movies
+date: '2015-12-12'
+link: https://www.imdb.com/title/tt0058182
+title: Os Reis do Ié-Ié-Ié
 ---
+
 "Um filme é um documentário de sua época", dizia um crítico cujo nome não me recordo. No caso de "A Hard Day's Nigh", cinquenta anos depois, isso não poderia ser mais verdade.
 
 Dirigido por Richard Lester (Superman II), é o primeiro trabalho que o diretor realiza com os Beatles (mais tarde ele faria ainda Help! e Como eu Ganhei a Guerra, esse com John Lennon apenas). Ele retrata um dia na vida dos pop stars, quase sempre perseguidos por garotas onde quer que passem, e deixando seu empresário maluco com suas irreverências e fugas.

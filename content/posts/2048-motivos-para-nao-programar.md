@@ -1,9 +1,11 @@
 ---
-date: "2014-04-24"
-link: "https://youtu.be/GVTCej6zwAk"
-categories: [ "code" ]
-title: "2048 motivos para não programar"
+categories:
+- code
+date: '2014-04-24'
+link: https://youtu.be/GVTCej6zwAk
+title: 2048 motivos para não programar
 ---
+
 Pronto, posso programar em paz. O jogo 2048 é uma lástima para todos os trabalhadores intelectuais que dependem de suas mentes para produzir algo que preste. Ele gerou mais posts no Hacker News do que a moda dos bitcoins (talvez não) e mais projetos no GitHub do que a busca para a cura do câncer (talvez não). Obviamente que este post vai gerar mais um [gist Python] para minha coleção.
 
 Não sou fã de jogos, e dos poucos que participei logo parei (exceções honrosas: Portal e Portal 2, esses malditos). Posso dizer o mesmo de 2048, a versão de uma espécie de jogo já conhecido feita pelo italiano Gabriele Cirulli em um fds para descobrir se seria capaz de fazê-lo. Ele o fez e de brinde também fez o índice de produtividade mundial desabar.

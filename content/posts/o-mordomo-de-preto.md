@@ -1,9 +1,11 @@
 ---
-date: "2015-06-29"
-link: "https://www.imdb.com/title/tt2630336"
-categories: [ "movies" ]
-title: "O Mordomo de Preto"
+categories:
+- movies
+date: '2015-06-29'
+link: https://www.imdb.com/title/tt2630336
+title: O Mordomo de Preto
 ---
+
 Assistir a O Mordomo de Preto é uma mistura de sensações. Primeiro, tem-se a sensação de estar assistindo um seriado, e não um filme com começo, meio e fim. Depois, a certeza de estar sendo enrolado em um formato muito parecido com os filmes da Marvel atualmente, que prezam por não terminar conflito algum que preste em seus filmes. Porém, a pior sensação mesmo é a de saber que a linguagem cinematográfica está sendo deixada de lado para o bem dos enquadramentos e da plasticidade de uma outra espécie de arte que já se sai bem em seu quadrado. A questão que fica é: para que realizar live-actions de trabalhos sem tradução entre artes? Só para ver como seria com atores "reais"? Bom, sinto informar, mas os personagens criados podem ser bonitos esteticamente, mas estão bem longe de serem considerados reais ou complexos.
 
 Girando em torno de um contrato entre Shiori Genpo, uma menina que se veste de menino e que é uma órfã bastarda de pais bilionários amigos da Rainha, e Sebastian Michaelis, um demônio que gosta de sorrir, independente do que estiver acontecendo ao seu redor, O Mordomo de Preto já diz logo no início ao que veio: criar personagens cool, como um mordomo que mata as pessoas usando facas de passar manteiga, o que adiciona um segundo ícone na estante das "figuras experimentais que não deveriam sair do papel". O primeiro ícone desta categoria é este (e, pelo menos para mim, está ganhando em disparado caso houvesse uma competição).

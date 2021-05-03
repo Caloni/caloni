@@ -1,6 +1,8 @@
 ---
-date: "2019-09-08"
-categories: [ "quotes" ]
-title: "Eckhart Tolle"
+categories:
+- quotes
+date: '2019-09-08'
+title: Eckhart Tolle
 ---
+
 "Aqui e agora: abandone-o, mude-o, ou aceite-o; capte o interior e ele vira exterior; não resista; sem tempo sem problema; fazer igual a acontecer." (O Poder do Agora)

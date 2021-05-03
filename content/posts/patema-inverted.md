@@ -1,9 +1,11 @@
 ---
-date: "2015-04-19"
-link: "https://www.imdb.com/title/tt2981768"
-categories: [ "movies" ]
-title: "Patema Inverted"
+categories:
+- movies
+date: '2015-04-19'
+link: https://www.imdb.com/title/tt2981768
+title: Patema Inverted
 ---
+
 Esse é o primeiro filme que assisto com a premissa de pessoas que possuem a gravidade invertida. Sim, Mundos Opostos é de um ano antes, e apesar de não ter sido lançado no Brasil (alguém acredita que Patema será?) ele possui atores conhecidos e uma produção razoavelmente cara. No entanto, nunca se sabe quando alguém teve a ideia primeiro. E, hoje em dia, é quase certeza que ela veio dos livros ou qualquer outro formato que não o Cinema, onde as grandes empresas parecem ter desistido de arriscar em roteiros originais. No caso do Japão isso é ainda mais padronizado, pois o conteúdo ou vem de um mangá (revista em quadrinhos) ou anime (série de animação), e esse Patema foi distribuído via streaming um ano antes de ser montado como um filme.
 
 A história é no mínimo curiosa: um experimento que deu errado matou vários humanos e destruiu toda uma cidade. No entanto, os sobreviventes conseguiram se fixar no "subsolo", só que com a gravidade invertida. Ou seja, suas construções, e a orientação de seus corpos, obedecia exatamente o inverso dos humanos "originais". Pelo menos isso é o que é ensinado na nova cidade, Aiga, onde Lei e Ordem é a moral que conduz seus habitantes, liderados pelo malvadão (porque sim) Izamura, que teme por um encontro com esses seres invertidos, ensinando que eles são pecadores e por isso foram consumidos pelos céus. Por isso até olhar para os céus é considerada uma contravenção grave. Algo que o jovem Age não liga tanto, pois foi filho de um explorador que uma vez criou uma espécie de balão para desvendar os mistérios dessa gravidade invertida.

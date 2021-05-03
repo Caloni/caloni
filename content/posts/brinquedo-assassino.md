@@ -1,10 +1,14 @@
 ---
-date: "2019-08-10"
-link: "https://www.imdb.com/title/tt8663516"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Brinquedo Assassino"
+categories:
+- draft
+- movies
+date: '2019-08-10'
+link: https://www.imdb.com/title/tt8663516
+tags:
+- cinemaqui
+title: Brinquedo Assassino
 ---
+
 Brinquedo Assassino é, acredito, o que os fãs no fundo sempre desejaram: serem surpreendidos por quão ruim este filme pode continuar sendo. Até porque o original nunca foi considerado exatamente um clássico. Usando um boneco medonho e sustos infantis para mostrar sangue sendo jorrado, "Chucky" e suas continuações sempre foram uma brincadeira de mal gosto que referencia outros trabalhos de terror (estes, sim, clássicos). Seu novo filme homenageia este legado que fritou o cérebro de muitos jovens grudados na TV de tubo da sala, o único recurso de entretenimento solitário e sedentário da época. Bons tempos.
 
 Embora hoje o entretenimento da garotada seja o celular isto logo vai mudar com o surgimento de Buddi, o boneco mais medonho que um designer de brinquedos já sonhou em criar. Buddi tem sua cara toda... como vou dizer isso sem ser censurado? Melecada. Seus olhos são duas enormes câmeras brilhantes que só passam despercebidas se você olhar apenas para sua cara de derrame. Os seus cabelos ruivos são tão medonhos que você até se esquece de notar o macacão ridículo. Que criança gostaria dessa assombração como seu amigo?

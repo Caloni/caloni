@@ -1,9 +1,11 @@
 ---
-date: "2020-08-03"
-link: "https://www.imdb.com/title/tt4425200"
-categories: [ "movies" ]
-title: "John Wick 2"
+categories:
+- movies
+date: '2020-08-03'
+link: https://www.imdb.com/title/tt4425200
+title: John Wick 2
 ---
+
 ## Um Novo Dia para Counter Strike
 
 Quando o filme de pancadaria é mero pretexto para chamar público. O próprio gênero de ação trabalha com emoções minimalistas e brutais. Eis o motivo porque [Mad Max: Fury Road] funciona horrores: o único motivo de existência da história é a fuga, e o único motivo de existência de John Wick é vingança de quem não tem (mais) nada a perder. A trama funcionava bem no [original] em apresentar um começo, meio e fim para um herói atormentado em um drama de uma nota só. 

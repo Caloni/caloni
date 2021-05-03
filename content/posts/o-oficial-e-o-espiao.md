@@ -1,10 +1,14 @@
 ---
-date: "2020-02-12"
-link: "https://www.imdb.com/title/tt2398149"
-categories: [ "draft", "movies", ]
-tags: [ "cinemaqui"  ]
-title: "O Oficial e O Espião"
+categories:
+- draft
+- movies
+date: '2020-02-12'
+link: https://www.imdb.com/title/tt2398149
+tags:
+- cinemaqui
+title: O Oficial e O Espião
 ---
+
 O Oficial e O Espião é mais um filme do diretor Roman Polanski que, muito semelhante a O Escritor Fantasma, caminha por becos tortuosos e claustofóbicos para que se encontre a verdade. Nos faz pensar se a verdade vale tanto assim.
 
 Iniciando com um aviso, ou alerta, de que todos os personagens vistos nesse filme são reais, o roteiro escrito por Polanski adaptou o livro do escritor Robert Harris para botar em foco o processo de desmoralização de uma nação, iniciando pelo seu exército. Para isso ele narra o caso do capitão francês Alfred Dreyfus (Louis Garrel), acusado injustamente de ser um espião e condenado a ter suas vestes oficiais degradadas em público e permanecer isolado em uma ilha por sabe-se-lá Deus quando.

@@ -1,8 +1,11 @@
 ---
-date: "2009-01-26"
-title: "Básico do básico: assembly"
-categories: [ "draft", "code" ]
+categories:
+- draft
+- code
+date: '2009-01-26'
+title: 'Básico do básico: assembly'
 ---
+
 É lógico que não poderia faltar no cinto de utilidades de todo bom programador C conhecimentos **básicos** da linguagem [assembly](http://pt.wikipedia.org/wiki/Assembly), sua mãe espiritual. São tantos conceitos em comum que, uma vez aprendido seu funcionamento, fica difícil não pensar no código-assembly gerado pelo compilador C. E é nesse ponto que as coisas começam a ficar mais claras.
 
 Antes de tudo, é importantíssimo lembrar que o foco aqui é apenas a arquitetura **8086**, um dos marcos na invenção de computadores de massa, mas que existem trocentros outros modelos de processadores e computadores funcionando mundo afora. Não deixe sua mente fechar para os outros tipos de modelos.

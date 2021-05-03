@@ -1,8 +1,11 @@
 ---
-date: "2010-08-26"
+categories:
+- draft
+- blog
+date: '2010-08-26'
 title: Gerando dumps automatizados
-categories: [ "draft", "blog" ]
 ---
+
 Agora que a temporada das telas azuis passou estou às voltas com o nosso sistema de detecção de crashes, além de alguns dumps e logs pra relaxar de vez em quando.
 
 Fiquei impressionado com a simplicidade com que podemos capturar qualquer exceção que ocorra em um programa, independente da thread, e gravar um minidump com o contexto exato em que o problema ocorreu. O uso da função API [SetUnhandledExceptionFilter](http://msdn.microsoft.com/en-us/library/ms680634%28VS.85%29.aspx) aliado com a já citada na palestra [MiniDumpWriteDump](http://msdn.microsoft.com/en-us/library/ms680360%28VS.85%29.aspx) pode agilizar muito a correção de crashes triviais como Access Violation.

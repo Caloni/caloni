@@ -1,9 +1,12 @@
 ---
-date: "2017-12-07"
-link: "https://www.imdb.com/title/tt1837492"
-categories: [ "draft", "series" ]
-title: "13 Reasons Why"
+categories:
+- draft
+- series
+date: '2017-12-07'
+link: https://www.imdb.com/title/tt1837492
+title: 13 Reasons Why
 ---
+
 Essa novelinha pré-adolescente consegue ser bem irritante às vezes. Não é uma produção barata nem tosca. Muito pelo contrário. Há muitas virtudes narrativas em um trabalho que parece descartar apenas uma virtude dentre as que escolheu: coerência. E é através dessa "pequena" falha que podemos concluir que, apesar de tecnicamente interessante e artisticamente bonito, "13 Reasons Why" é uma merda colossal que revela que esta geração tem pouquíssimas chances de sobreviver a eles mesmos.
 
 Felizmente os jovens possuem cada dia menos acesso ao porte de material perigoso como armas, drogas e palavriado pesado. Certo? E quando algo é desagradável basta ignorar; quando é relevante voltamos ao "precisamos falar sobre". No começo da história a paranóia dos adultos com o suicídio de uma garota soa familiar. Há uma mobilização da escola e dos pais em tentar conversar com seus estudantes e filhos afim de evitar que isso aconteça de novo. Todos temem o sistema em que estão inseridos. Talvez porque todos nós já tivemos vez ou outra a vontade de nos matar. Enquanto isso, os jovens parecem já ter assimilado perfeitamente esse acontecimento, exceto o mais problemático Clay Jensen. Sempre prática, a série de animação South Park sempre usou dessa receita para demonstrar como uma situação inofensiva nas mãos dos adultos vira uma tempestade sem fim. E nesse sentido, Clay já é um adulto.

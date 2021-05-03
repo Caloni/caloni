@@ -1,9 +1,11 @@
 ---
-date: "2012-07-02"
-link: "https://www.imdb.com/title/tt1441952"
-categories: [ "movies" ]
-title: "Amor Impossível"
+categories:
+- movies
+date: '2012-07-02'
+link: https://www.imdb.com/title/tt1441952
+title: Amor Impossível
 ---
+
 A ideia por trás do romance de Paul Torday poderia se sair muito bem como um livro e até, com uma adaptação adequada, um filme. Porém, a tentativa frustrada do diretor Lasse Hallström (Gilbert Grape - Aprendiz de Um Sonhador) e do roteirista Simon Beaufoy (Quem Quer Ser Um Milionário?) esbarra na injustificada tendência em transformar um drama em uma comédia romântica engraçadinha. Aliás, a tentativa de fazer humor com o uso do primeiro-ministro e sua assessora, se funcionam no início, depois se tornam repetitivos e apelativos para dar ênfase ao lado engraçado da narrativa que inexiste na história principal.
 
 Estamos acompanhando aqui a história de Dr. Alfred Jones (Ewan McGregor) e Harriet (Emily Blunt), que se unem em circunstâncias inusitadas para fazer com que um projeto de pesca de salmões na desértica região do Yêmen tenha sucesso a partir de uma ideia do intuitivo/lunático/milionário Xeique Muhammed (mas que nome criativo!).

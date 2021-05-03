@@ -1,9 +1,11 @@
 ---
-date: "2010-04-04"
-link: "https://www.imdb.com/title/tt0490086"
-categories: [ "movies" ]
-title: "Big Stan Arrebentando na Prisão"
+categories:
+- movies
+date: '2010-04-04'
+link: https://www.imdb.com/title/tt0490086
+title: Big Stan Arrebentando na Prisão
 ---
+
 Se algumas pessoas possuem preconceitos (bobos) de não ver Rob Schneider atuar, o que diriam a respeito de um filme em que ele não apenas atua, como dirige!
 
 É o que acontece em Big Stan, onde o Stan do filme (Schneider) é um milionário do ramo imobiliário que vai ser preso por enganar velhinhas indefesas e precisa estar preparado para impedir o que parece inevitável uma vez na prisão: ser estuprado.

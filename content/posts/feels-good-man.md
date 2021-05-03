@@ -1,10 +1,13 @@
 ---
-date: "2020-11-01"
-link: "https://www.imdb.com/title/tt11394182"
-categories: [ "movies" ]
-tags: [ "cinemaqui",  ]
-title: "Feels Good Man"
+categories:
+- movies
+date: '2020-11-01'
+link: https://www.imdb.com/title/tt11394182
+tags:
+- cinemaqui
+title: Feels Good Man
 ---
+
 Feels Good Man é hilário, e o motivo disso é, por essas ironias do destino, o próprio tema desenvolvido no filme: um personagem de cartoon vira meme na internet e, sendo usado como símbolo por grupos de reclusos sociais, se torna o motivo principal pelo qual Donald Trump se tornou presidente dos EUA. Sim, isso mesmo que você leu. É ou não é para dar risada de pé, membros da Igreja do Santo Meme?
 
 A guerra memética está no ar. O termo cunhado por Richard Dawkins em seu livro O Gene Egoísta é uma analogia ao conceito da biologia que diz que o gene mais adaptado sobrevive no tempo. Bom, memes são a contrapartida cultural, o que significa que os pedaços indivisíveis da memória coletiva da sociedade que se adaptarem melhor aos novos tempos permanecerão como nossos valores e formas de enxergar esse mundo que vem mudando a passos largos.

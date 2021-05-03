@@ -1,10 +1,14 @@
 ---
-date: "2018-11-01"
-link: "https://www.imdb.com/title/tt9025112"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Domingo"
+categories:
+- draft
+- movies
+date: '2018-11-01'
+link: https://www.imdb.com/title/tt9025112
+tags:
+- cinemaqui
+title: Domingo
 ---
+
 É muito fácil tirar sarro da caricatura da burguesia, com sua gente alienada e auto-centrada no próprio umbigo e propriedades. Difícil é, além de tirar sarro, manter o realismo para que os personagens próprios não virem eles próprios caricaturas. "Domingo", trabalho conjunto de dois diretores, Fellipe Barbosa e Clara Linhart, seguindo o ambicioso roteiro de Lucas Paraizo, consegue realizar isso e ainda mantém várias bolas no ar, dando conta de diversos personagens enquanto tece sutilmente sua crítica social.
 
 A história gira, como o próprio nome diz, em um dia de domingo com a família. Aquele velho churrasco no sítio. Mas não é apenas um dia comum, mas a posse do novo presidente do Brasil, Luís Inácio Lula da Silva, no primeiro dia de 2003. Mas ninguém liga e faz piada ou descaso; estão todos preocupados com a própria vida e os conflitos familiares que surgem à tona. Exceto a empregada "consciente" (pobres também podem ter caricaturas) que assiste pela televisão à posse. A alienação é demonstrada quando a grande massa burguesa nem sabe que é domingo e confunde com sábado (observação relevante: essa é apenas uma obra de ficção; o dia primeiro de janeiro de 2003 na verdade foi uma quarta-feira).

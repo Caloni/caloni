@@ -1,10 +1,14 @@
 ---
-date: "2018-10-22"
-link: "https://www.imdb.com/title/tt7204348"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Anjo"
+categories:
+- draft
+- movies
+date: '2018-10-22'
+link: https://www.imdb.com/title/tt7204348
+tags:
+- cinemaqui
+title: O Anjo
 ---
+
 Muitas pessoas ao assistir a O Anjo talvez percam a essência do filme, talvez por causa do caminho empolgado deste arcanjo assassino. Mas se você reparar que não se trata de um filme com cenas fortes, ou pelo menos que não trata suas cenas fortes com o peso que costumam ter em outros filmes, verá a ironia fina da subjetividade máxima de um psicopata glorificado.
 
 Seu anti-herói é Carlos (Lorenzo Ferro), que desde que se conhece por gente gosta de roubar a casa de estranhos, além de dançar muito bem. Ele é inofensivo até encontrar Ramón (Chino Darín) e seu pai, que deixa Carlos atirar com sua arma. Essa combinação extremamente desastrosa faz com que muitas pessoas sejam mortas pelas mãos de Carlos, mãos essa angelicais. O filme nos mostra ele praticamente como um mensageiro de Deus, pois ele mata unicamente pelo fim prático: não ser pego.

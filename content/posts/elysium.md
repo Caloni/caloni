@@ -1,9 +1,11 @@
 ---
-date: "2013-09-21"
-link: "https://www.imdb.com/title/tt1535108"
-categories: [ "movies" ]
-title: "Elysium"
+categories:
+- movies
+date: '2013-09-21'
+link: https://www.imdb.com/title/tt1535108
+title: Elysium
 ---
+
 Com o mesmo diretor do ótimo Distrito 9, poderíamos esperar mais uma ficção científica que honre o gênero, apresentando um futuro distópico que remeta diretamente a questões sociais do mundo atual. De certa forma, isso acontece, abordando mais uma vez o abismo existente entre pobres e ricos em um mundo pós-crise. No cenário do filme, a superpopulação/superpoluição/supercaos fazem com que a elite econômica do mundo se reúna e se isole em uma espécie de estação espacial que reproduz com fidelidade os nobres bairros de subúrbio da hoje (2150 e tra-lá-lá) caótica Los Angeles (que é a tal Elysium do título).
 
 A história gira em torno de Max (Matt Damon), que vemos inicialmente como um garoto e que promete à sua amiga que quando crescer os levará para Elysium, que é possível enxergar a olho nu como um círculo brilhante no céu. O tempo passa e Max se torna operário de uma fábrica de andróides enquanto Frey (Alice Braga) é uma doutora do precário hospital da cidade. Há tentativas constantes de adentrar a superfície de Elysium dirigida por Spider (Wagner Moura), um fora-da-lei que possui seu arsenal tecnológico e que ganha dinheiro orquestrando missões quase que suicidas, pois a inescrupulosa supervisora da segurança de Elysium (Jodie Foster) não exita em utilizar meios escusos para abater os imigrantes clandestinos, usando para isso um outro fora-da-lei, Kruger (Sharlto Copley), que, dotado de um sotaque inglês-europeu que mistura elementos alemães/russos (Laranja Mecânica?), aparentemente gosta de tudo aquilo apenas por uma espécie de prazer sádico da "guerra".

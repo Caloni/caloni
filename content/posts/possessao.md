@@ -1,9 +1,11 @@
 ---
-date: "2012-11-07"
-link: "https://www.imdb.com/title/tt0431021"
-categories: [ "movies" ]
-title: "Possessão"
+categories:
+- movies
+date: '2012-11-07'
+link: https://www.imdb.com/title/tt0431021
+title: Possessão
 ---
+
 Houve um tempo em que os filmes de terror da década de 90/2000 quase sempre eram sinônimo de sustos fáceis e trilha sonora capenga e repetitiva. Exceto pelo fenômeno Bruxa de Blair e a "importação" dos terrores asiáticos, nada se fez de muito diferente na América que não lembrasse o clássico supremo de terror: [O Exorcista]. De fato, uma corrente não tão recente também despeja suas diversas adaptações de histórias, [O Exorcismo de Emily Rose], O Último Exorcismo, muitas vezes inspiradas em "fatos", mas que nunca conseguiram entender a capacidade do terror psicológico do trabalho de William Friedkin.
 
 Já este Possessão digerido por Ole Bornedal e escrito pelos roteiristas de Presságio, e, não menos importante, produzido por Sam Raimi (Arraste-me Para o Inferno, Uma Noite Alucinante), contém tudo em doses homeopáticas. Iniciando sua história através de um episódio tragicômico envolvendo uma caixa que emite sussurros em uma lingua estrangeira e sua antiga dona, a trilha sonora exagerada faz os fatos parecerem incidentalmente divertidos, embora não o sejam: o tom pálido de cores da fotografia denuncia a triste história que presenciaremos, mais uma vez "baseada em fatos reais".

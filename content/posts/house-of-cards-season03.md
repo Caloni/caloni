@@ -1,9 +1,12 @@
 ---
-date: "2016-03-13"
-link: "https://www.imdb.com/title/tt1856010"
-categories: [ "draft", "series" ]
-title: "House of Cards - Terceira Temporada"
+categories:
+- draft
+- series
+date: '2016-03-13'
+link: https://www.imdb.com/title/tt1856010
+title: House of Cards - Terceira Temporada
 ---
+
 Até a sua segunda temporada, House of Cards se beneficiava dos movimentos estratégicos de Frank Underwood (Kevin Spacey) para chegar ao topo e assim mover a história. Agora que ele ocupa o cargo máximo da nação mais poderosa do mundo sobra pouco espaço para subir, mas um longo caminho para descer. A recuperação de Doug Stamper (Michael Kelly) e sua genialidade resumida em pouquíssimos movimentos faz reflexo com a fraqueza de Underwood em um cargo público, como tão bem define as incessantes entrevistas com a imprensa e os ataques dos jornalistas, que parecem ter surgido de um panfleto comunista. Eles agora são poeticamente patrióticos. Faz até enganar por alguns momentos que há pessoas bem-intencionadas em torno desse lamaçal que ironicamente se chama Casa Branca.
 
 Curioso como os criadores da série -- notadamente Beau Willimon e seu principal diretor James Foley -- depois de arrancarem nossa inocência confiam que vão nos fazer acreditar nesse "bem" etéreo de novo. Não vão. Não quando os melhores momentos da temporada são justamente os que concluem que esse negócio de ética e moral em política é uma grande bobagem. A dor de um presidente em transição e com um casamento desmoronando é bobagem maior ainda, pois não serve para que esse presidente com os dias contados evolua. Ou, mesmo que sirva de lição, de nada adianta se não ganhar as eleições. Qual a vantagem de se tornar um ser humano melhor sem o cargo mais poderoso do planeta? Ou seja: voltamos no bom e velho cinismo da série, talvez a única parte que reste do antes divertido Kevin Spacey, que anda compartilhando demais com seu público.

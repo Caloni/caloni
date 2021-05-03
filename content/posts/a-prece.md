@@ -1,10 +1,14 @@
 ---
-date: "2018-11-05"
-link: "https://www.imdb.com/title/tt7839456"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Prece"
+categories:
+- draft
+- movies
+date: '2018-11-05'
+link: https://www.imdb.com/title/tt7839456
+tags:
+- cinemaqui
+title: A Prece
 ---
+
 Você é religioso? Costuma rezar para Deus? E qual a resposta? Tem certeza? Pois é. A Prece, novo filme do diretor/ator Cédric Kahn, tenta abordar o tema religioso através de uma história de redenção. Disciplinado como é (vide Vida Selvagem), Kahn explora todas as nuances que envolvem a fé e a auto-superação, mas não por um adulto com suas convicções já formadas, mas através de um jovem garoto que precisa aprender a conviver com um grupo que está fora da moda e com sua própria dose de descrédito.
 
 Acompanhamos a chegada do abalado Thomas após uma overdose de heroína, e que não tem esse nome à toa. Referência direta a Tomás de Aquino, este é um filme tomista na melhor de suas intenções, pois evita a todo custo a conversão do garoto por revelação, se concentrando todo o tempo no poder da razão para que ele ultrapasse suas adversidades. Mas claro que há rezas, rituais, e regras rígidas para que a disciplina adentre em sua mente para daí seu corpo continuar são (e salvo).

@@ -1,9 +1,12 @@
 ---
-date: "2020-01-16"
-link: "https://www.imdb.com/title/tt0103791"
-categories: [ "draft", "movies" ]
-title: "Sedução"
+categories:
+- draft
+- movies
+date: '2020-01-16'
+link: https://www.imdb.com/title/tt0103791
+title: Sedução
 ---
+
 É um filme saudosista filmado nos anos 90 sobre a queda da ditadura espanhola dos anos 30. Ele celebra o amor livre, o laicismo e todas as esperanças do que ainda acham que a República é a solução de todos os males da humanidade. Mas ele o faz de maneira charmosa, sensual e verdadeiramente humanista. É uma comédia sobre amor e sexo, e por isso mesmo está infestado de comentários políticos. Não é na propaganda que se esconde o inimigo, mas nas entrelinhas. Mas não se preocupe, leitor de extrema direita, há mulheres para todos os gostos aqui.
 
 O material dos roteiristas Rafael Azcona e José Luis García Sánchez possui todas as dúvidas honestas que comentários políticos e sociais bem-humorados merecem. Assim como Barcelona, o roteiro se aproveita do momento histórico para tecer sua narrativa sem ferir os valores dos espectadores. É besteira se importar com filmes ideologicamente contrários a você quando a visão de mundo de seus idealizadores brinca de igual para igual com a igreja, o exército e a família, três instituições fadadas à ruína de qualquer forma. Enquanto o patriarca moderno recita poesias espirituosas e se diverte na cama com sua esposa recém-chegada da viagem com seu amante, observamos como o inverno espanhol é frio, mas há maneiras deliciosas de se esquentar enquanto não chega o verão.

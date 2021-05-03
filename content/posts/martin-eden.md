@@ -1,10 +1,14 @@
 ---
-date: "2020-02-06"
-link: "https://www.imdb.com/title/tt4516162"
-categories: [ "draft", "movies", ]
-tags: [ "cinemaqui"  ]
-title: "Martin Eden"
+categories:
+- draft
+- movies
+date: '2020-02-06'
+link: https://www.imdb.com/title/tt4516162
+tags:
+- cinemaqui
+title: Martin Eden
 ---
+
 Martin Eden... Martin Eden... Martin Eden. Ouvimos esse nome tantas vezes neste filme que ele se torna inconfundível. Um nome que pode significar tantas coisas acaba se tornando indecifrável. No final ele se confunde com a espuma do mar. Nunca existiu este escritor, e nunca existirá, mas ele é a síntese de todos os que já existiram.
 
 Jack London, o mais vendido, mais bem pago e mais popular escritor norte-americano de seu tempo, era um homem de mente rápida e que escrevia romances como correntes de pequenas estórias, e este filme italiano que adapta uma de suas obras mais conhecidas possui um pouco desse emaranhado de sentimentos e momentos. De caráter semi-biográfico, este é um estudo de personagem que se universaliza pelas dores humanas. A história de Martin sugere que ele viu a mesma miséria que Jack, e ela é tão profunda que sequer a enxergamos no filme.

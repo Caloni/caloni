@@ -1,9 +1,12 @@
 ---
-date: "2018-02-06"
-link: "https://www.imdb.com/title/tt0093822"
-categories: [ "draft", "movies" ]
-title: "Arizona Nunca Mais"
+categories:
+- draft
+- movies
+date: '2018-02-06'
+link: https://www.imdb.com/title/tt0093822
+title: Arizona Nunca Mais
 ---
+
 É possível desde o começo da carreira dos irmãos Coen captar essa sagacidade em tornar as coisas surreais. Nunca é o caçador de recompensas simplesmente, mas o caçador com um par de calçados de bebê pendurado e uma calibre 12 que ele manuseia com uma mão só. Nunca são os fugitivos do presídio, mas os fugitivos que possuem uma visão distorcida do mundo em que a natureza de um bandido deve ser seguida para serem alguém na vida. E, por fim, nunca é um romance entre um ladrão de galinhas -- ops, vendinhas de conveniência -- e uma policial. Este é um romance com complicações que nos revela o quanto somos crianças cuidando de crianças.
 
 A comédia que os Coen nos apresentam aqui, assinando direção e roteiro, é ligeiramente além do razoável, e brinca com alguns acontecimentos dignos de um pastelão. Porém, ao mesmo tempo, há uma importante mensagem aqui. Ou pelo menos é isso que o filme parece querer dizer.

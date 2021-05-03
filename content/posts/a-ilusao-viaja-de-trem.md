@@ -1,9 +1,12 @@
 ---
-date: "2021-03-03"
-link: "https://www.imdb.com/title/tt0045907"
-categories: [ "draft", "movies" ]
-title: "A Ilusão Viaja de Trem"
+categories:
+- draft
+- movies
+date: '2021-03-03'
+link: https://www.imdb.com/title/tt0045907
+title: A Ilusão Viaja de Trem
 ---
+
 Esta comédia leve da década de 50 é parte da longa e produtiva filmografia do cineasta Luis Bunuel na época que morava no México e fazia até três filmes por ano. Não é um filme de grande expressão, mas está na lista dos 100 filmes mais importantes produzidos no México, embora em uma das últimas posições.
 
 Apesar de um diretor surrealista a história é até bem certinha. Ela apenas contesta com sutileza e graça a ordenação burguesa que os cineastas de esquerda tanto temiam na época (e durante todo o sempre). Faz parte também do movimento surreal contestar e até atacar a racionalidade, buscando uma fuga para nosso inconsciente, que seria a forma mais pura de se relacionar com a existência humana.

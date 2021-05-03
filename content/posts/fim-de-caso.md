@@ -1,9 +1,12 @@
 ---
-date: "2019-06-23"
-link: "https://www.imdb.com/title/tt0172396"
-categories: [ "draft", "movies" ]
-title: "Fim de Caso"
+categories:
+- draft
+- movies
+date: '2019-06-23'
+link: https://www.imdb.com/title/tt0172396
+title: Fim de Caso
 ---
+
 Nossa, como chove em Londre. Não me admira que os restaurantes têm essas chapelarias na entrada. De qualquer forma, além da chuva, é um clima cinzento, com o tempo instável. Me lembro de uma sequência em Fim de Caso em que o personagem de Ralph Fiennes, Bendrix, está seguindo sua amante, interpretada por Julianne Moore, Sarah, e está chovendo os diabos. Daí eles entram em um cinema, mas mal se sentam, pois ela escapa pela porta lateral. Do lado de fora já está seco e sem chuva, justamente para quando entrarem na igreja existirá o clássico quadro da luz do sol adentrando as janelas da igreja. Bem pensado, Neil Jordan.
 
 Esta é uma das melhores adaptações que já vi de um livro, no caso escrito por Graham Greene. Por que será que escritores gostam de escrever sobre personagens escritores? E por que sempre existe alguma menção na história de como ele é menos reconhecido do que deveria? Bom, enfim, neste caso é um escritor e um amante no mesmo pacote. E no caso do filme é o Ralph bonitão Fiennes interpretando Bendrix, com seu estilo alto bon vivant que não recusa uma bebida, mas por trás dessa fachada um verdadeiro cavalheiro.

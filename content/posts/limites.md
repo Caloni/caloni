@@ -1,9 +1,12 @@
 ---
-date: "2018-09-15"
-link: "https://www.imdb.com/title/tt5686062"
-categories: [ "draft", "movies" ]
-title: "Limites"
+categories:
+- draft
+- movies
+date: '2018-09-15'
+link: https://www.imdb.com/title/tt5686062
+title: Limites
 ---
+
 Este é o típico filme fácil de classificar: road trip sobre família disfuncional com o peso de um drama intimista sobre relacionamentos e traumas do passado. Ele também é fácil de acompanhar, pois não há nada além que aconteça em sua história que nos fará olhá-lo de novo. Ele também é um dos piores filmes para se escrever a respeito, porque ele não é tão bom a ponto de ser digno de nota nem tão ruim a ponto de ser digno de pena.
 
 O que há para se dizer é que Vera Farmiga e Christopher Plummer não seguram a onda. Farmiga se dá bem em papéis menos intimistas (ou mais superficiais), como a médium em Invocação do Mal, mas aqui ela desempenha um papel crucial para levar o espectador a entender seu problema, e o que acontece é que ela simplesmente não está lá para nós. Já Plummer, é divertido de vê-lo atuar, mas alguma coisa não está certa nas dezenas de diálogos supostamente espirituosos que o entregaram.

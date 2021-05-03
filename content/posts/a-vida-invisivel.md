@@ -1,10 +1,14 @@
 ---
-date: "2019-10-19"
-link: "https://www.imdb.com/title/tt6390668"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Vida Invisível"
+categories:
+- draft
+- movies
+date: '2019-10-19'
+link: https://www.imdb.com/title/tt6390668
+tags:
+- cinemaqui
+title: A Vida Invisível
 ---
+
 A Vida Invisível é um retrato tão fiel e acolhedor de um Brasil patriarcal que em alguns momentos ele corre o risco de estar fazendo apologia, simplesmente por recorrer às nossas memórias afetivas e culturais de uma época, e memórias não funcionam em termos de boas ou ruins. Todas elas são uma mistura só, e o filme de Karim Aïnouz demonstra isso com elegância e sem discurso fácil.
 
 A Direção de Arte de Rodrigo Martirena materializa esta época de duas gerações atrás, nos transporta para ela através de uma série de sensações afetivas com nosso passado. Digo isso não como alguém que viveu os anos 50 no Rio de Janeiro, onde a história se passa, mas como brasileiro que teve pais influenciados através de seus próprios pais, e três gerações ainda mantém um elo cultural muito forte para ser descartado.

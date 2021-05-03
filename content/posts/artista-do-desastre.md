@@ -1,9 +1,12 @@
 ---
-date: "2018-06-05"
-link: "https://www.imdb.com/title/tt3521126"
-categories: [ "draft", "movies" ]
-title: "Artista do Desastre"
+categories:
+- draft
+- movies
+date: '2018-06-05'
+link: https://www.imdb.com/title/tt3521126
+title: Artista do Desastre
 ---
+
 The Room é um filme especial para muita gente (eu incluso). A maioria dos filmes ruins são apenas filmes com um roteiro equivocado, baixo orçamento, atuações pedestres e uma direção perdida. Os sharknados da vida, por exemplo, são divertidos, mas foram já feitos sem a intenção de serem bons. E a saga Transformers apenas comprova que Michael Bay está cada vez mais senil. Já obras como The Room possui um charme em sua produção que transcende o trash, o gore ou qualquer outro atributo que você utilize para a categoria dos filmes ruins. Ele transcende de tal forma que ele merece um filme sobre ele, tal poder de sedução ele exerce para o cinéfilo apaixonado pelo Cinema e o que quer que seja que ele tem a oferecer. Vamos analisar um pouco o que é isso.
 
 Cult isolado deste século entre os filmes que deram muito, muito errado, The Room atraiu a atenção de James Franco, que resolveu atuar interpretando Tommy Wiseau, o responsável pela produção, direção, roteiro do filme original. Sendo fiel à proposta, Franco, que está irreconhecível no papel de Wiseau, também dirige o longa sobre a produção do The Room, que é narrada à luz do livro autobiográfico do melhor amigo de Wiseau, que foi o segundo ator do projeto e que aqui ganha vida através do irmão do diretor, Dave Franco. Dave e James são atores consagrados há um tempo, a ponto de se sentirem confortáveis interpretando pessoas da vida real que não o são. Desde o começo do relacionamento deles percebemos que ambas as figuras, Wiseau (James) e seu novo amigo Greg (Dave), nunca chegariam muito longe utilizando a falta de talento na dramaturgia.

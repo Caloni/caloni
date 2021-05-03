@@ -1,9 +1,11 @@
 ---
-date: "2010-12-30"
-link: "https://www.imdb.com/title/tt1564916"
-categories: [ "movies" ]
-title: "De Pernas pro Ar"
+categories:
+- movies
+date: '2010-12-30'
+link: https://www.imdb.com/title/tt1564916
+title: De Pernas pro Ar
 ---
+
 Alice é uma mulher que se dedica inteiramente ao trabalho. Boa parte do tempo a vemos usando seu celular e seu notebook. Apesar de excelente profissional, ela ignora sua família, cuidando dos afazeres caseiros e profissionais como se fizessem parte de uma mesma agenda. A triste consequência é que, apesar de terem uma vida invejável de classe média alta, ela acaba conhecendo pouco de seu próprio filho e quase não nota a existência do marido, que aparece distante em sua vida (sua cara de fato não aparece no início do filme).
 
 Após ser demitida no dia da sua promoção e levar um fora do marido pela secretária eletrônica (a única maneira que ele encontrou de fazer sua esposa ouvi-lo), Alice vê sua vida perfeita ficar, com o perdão do trocadilho, De Pernas pro Ar. Procurando um motivo para tal fracasso na vida de esposa, o quesito sexo é o que irá mais ressoar em sua cabeça. Ajudada pelas opiniões distorcidas de sua mãe e amiga, pois segundo elas a cama é o convívio central de todo casal que se preze, Alice abraça essa nova obsessão como a solução para todos os males, e tenta com ela restaurar tanto sua vida afetiva quanto profissional.

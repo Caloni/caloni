@@ -1,8 +1,10 @@
 ---
-date: "2007-06-26"
-categories: [ "code" ]
-title: "História do Windows - parte 1.0"
+categories:
+- code
+date: '2007-06-26'
+title: História do Windows - parte 1.0
 ---
+
 Devido à grande procura através de mecanismos de busca (vulgo Google), estarei republicando esse artigo dividido em partes (até porque existem partes não acabadas), cada parte descrevendo um conceito geral do que representou cada versão do sistema operacional. Bem-vindos ao [História do Windows].
 
 Tudo começou em 1981, quando chegou às lojas o primeiro IBM PC, uma poderosa máquina de 4.7 MHZ, 64 (KB!) de RAM e um drive de disquete de 160 KB. Já havia sido lançado em agosto o MS-DOS, sistema operacional encomendado pela IBM à empresa recém-criada por Paul Allen e Bill Gates, a Microsoft Corporation. O DOS foi baseado num sistema básico anterior produzido pela Seattle Computer Products.

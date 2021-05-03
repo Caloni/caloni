@@ -1,9 +1,12 @@
 ---
-date: "2016-12-28"
-link: "https://www.imdb.com/title/tt3748528"
-categories: [ "draft", "movies" ]
-title: "Rogue One: Uma História Star Wars"
+categories:
+- draft
+- movies
+date: '2016-12-28'
+link: https://www.imdb.com/title/tt3748528
+title: 'Rogue One: Uma História Star Wars'
 ---
+
 É um prazer poder experimentar um pouco do universo dos filmes de Star Wars sem se preocupar (muito) com personagens centrais, tramas que mudarão a galáxia e, principalmente, histórias que nunca terminam. E apesar disso, aí está você de novo, estrelinha da morte. A fixação da alegoria com morte e destruição nunca termina. Ela se mantém quase como um fetiche escondido e refletido nos "inimigos", braço esquerdo da mesma Força. O lado negro sempre é a visão mais clara do que acontece quando o poder está nas mãos de poucos, sejam eles tiranos malignos ou pseudo-representantes do "povo".
 
 Porém, dessa vez é possível contemplar um arco completo de um personagem em um único filme, o que o torna único em todos os filmes, que são meros pedaços de uma história maior. Graças a essa concisão narrativa, o pequeno conto expandido do universo conta a história inteira de Jyn Erso (Felicity Jones), a filha do engenheiro responsável pela construção da Estrela da Morte (Mads Mikkelsen), um aparato equivalente ao que seria a bomba atômica para os nazistas. Erso é abandonada depois que seu pai é sequestrado e sua mãe morta, mas logo é resgatada pelo terrorista Saw Gerrera (Forest Whitaker). O tempo passa e vemos que o Império está agora enfrentando uma resistência em sua hegemonia galáctica através de um grupo de rebeldes. Com o uso do frio Cassian Andor (Diego Luna) eles vão em busca de Jyn, pretendem obter acesso ao seu pai e mais informações sobre os planos do Império, para assim frustá-los antes que seja tarde.

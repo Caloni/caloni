@@ -1,9 +1,11 @@
 ---
-date: "2012-03-14"
-link: "https://www.imdb.com/title/tt1706593"
-categories: [ "movies" ]
-title: "Poder sem Limites"
+categories:
+- movies
+date: '2012-03-14'
+link: https://www.imdb.com/title/tt1706593
+title: Poder sem Limites
 ---
+
 Entrando na onda dos filmes gravados como documentários, só que sem os problemas técnicos presentes no gênero, como a qualidade de vídeo, Poder Sem Limites explora a descoberta de três jovens de uma caverna escondida dentro de um buraco e que acaba lhes dando poderes tele cinéticos. Os motivos para isso nunca são revelados, pois o objetivo do longa é mostrar os rapazes explorando esse poder gradativamente, e como cada um deles o usa de forma particular.
 
 Um deles, Andrew (Dane DeHaan), caminha com uma câmera para todo lugar onde vai, e é esse o elemento documental que o filme tenta passar. Tenta, mas de uma maneira forçada, pois o roteiro precisa criar enredos que parecem existir apenas para que uma câmera esteja presente. É o caso do interesse romântico de um deles (Ashley Hinshaw) que também costuma gravar tudo o que acontece em sua volta. Essa câmera extra acidental permite que várias sequências possuam cortes, algo até então não admissível em uma narrativa do gênero.

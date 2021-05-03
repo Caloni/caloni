@@ -1,10 +1,14 @@
 ---
-date: "2017-07-05"
-link: "https://www.imdb.com/title/tt5078158"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Julho Agosto"
+categories:
+- draft
+- movies
+date: '2017-07-05'
+link: https://www.imdb.com/title/tt5078158
+tags:
+- cinemaqui
+title: Julho Agosto
 ---
+
 O clima de um filme como "Julho Agosto" não poderia ser melhor para as férias de meio do ano. Aliás, poderia sim: nós aqui do Brasil poderíamos ter verão, e não inverno, nessa época. Infelizmente todo o calor e o frescor do filme ficam congelados junto com nossas mãos. Mas se você pelo menos estiver bem agasalhado é bem provável que irá conseguir ao menos sentir o coração derreter levemente diante dos acontecimentos inusitados que permeiam essa família moderna francesa.
 
 A história é quase que uma simples listagem de eventos que a menina pré-puberdade Laura e sua irmã mais velha Joséphine irão passar em suas férias, em companhia inicialmente da mãe e do padastro, para depois partirem para a casa do pai, na Bretanha. Não há nada complexo na trama, mas há um charme no ar, na paisagem e nas músicas, e o inevitável grito da puberdade chegando ou martelando sua dura existência.

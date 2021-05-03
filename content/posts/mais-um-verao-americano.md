@@ -1,9 +1,12 @@
 ---
-date: "2015-09-12"
-link: "https://www.imdb.com/title/tt4341500"
-categories: [ "draft", "series" ]
-title: "Mais um Verão Americano (piloto)"
+categories:
+- draft
+- series
+date: '2015-09-12'
+link: https://www.imdb.com/title/tt4341500
+title: Mais um Verão Americano (piloto)
 ---
+
 A Netflix é uma empresa, e como toda empresa ambiciona o lucro. Por causa disso obviamente não consegue se desvencilhar do seu destino Hollywoodiano de descobrir uma fórmula e repeti-la à exaustão. É assim com seu conteúdo adulto -- sexo ocasional + violência exarcebada -- e é assim com suas comédias agrada-público-medíocre -- atores divertidos/comediantes, uma ou outra fala interessante, o tema acima da arte.
 
 E é assim que parecem nascer uma fábrica de obras que reciclam o velho seriado norte-americano da época de Nanny, Full House, Um Maluco do Pedaço e tantos outros que capturaram o espírito americano de dar risada e globalizaram em uma fórmula fácil de pegar para todo mundo. O brasileiro, então, acostumado a fórmulas de stand-up verdadeiramente medíocres -- fruto de nossa ainda presente censura -- é um alvo certeiro. Pelo menos essa é a ideia inicial.

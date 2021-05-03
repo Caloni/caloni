@@ -1,10 +1,14 @@
 ---
-date: "2017-01-24"
-link: "https://www.imdb.com/title/tt4630550"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Garota Desconhecida"
+categories:
+- draft
+- movies
+date: '2017-01-24'
+link: https://www.imdb.com/title/tt4630550
+tags:
+- cinemaqui
+title: A Garota Desconhecida
 ---
+
 A Garota Desconhecida, em um resumão narrativo, é sobre o arco de sua protagonista, Dra. Jenny Davin, que ao não abrir a porta após o horário de seu consultório por uma mera questão de capricho -- e sofrer as duras consequência de seu ato -- acaba abrindo uma outra porta: para a possibilidade de redenção, aceitando que seus pacientes são seres humanos, e mais do que tudo: de que ela pode se dar ao direito de ser também humana.
 
 A atuação de Adèle Haenel muda logo no começo para alguém que está cumprindo penitência. Ela vai de seu profissionalismo frio e competente para se aprofundar na falta de empatia e na conveniência de todos os envolvidos com a morte de uma jovem de origem desconhecida, que durante uma perseguição à noite, por um breve momento, olhou para a porta do consultório da médica e tentou a campainha. Na busca de sua própria humanidade ela descobre que ela falta em todos os outros com quem interage, inclusive ela mesma, que insiste no sigilo médico/paciente para conseguir o que quer. A exceção simbólica fica por conta de seu ex-estagiário, o que explica seu distanciamento da profissão logo no começo. Não por não aguentar ser impassível diante da dor humana, mas por ter sido uma vítima dessa mesma indiferença quando criança.

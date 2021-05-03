@@ -1,9 +1,12 @@
 ---
-date: "2017-01-17"
-link: "https://www.imdb.com/title/tt0018328"
-categories: [ "draft", "movies" ]
-title: "O Ring"
+categories:
+- draft
+- movies
+date: '2017-01-17'
+link: https://www.imdb.com/title/tt0018328
+title: O Ring
 ---
+
 Hitchcock gosta de criar cenas icônicas em seus filmes. Aqui temos uma mulher apaixonada ao lado do seu amor, quase nocauteado no ringue. Ele também gosta de comédia de situações, e esta é uma delas, onde até o título do filme é um trocadilho em inglês ("ring" pode ser anel ou o ringue de boxe). Este não é um dos seus filmes de crimes, mas um triângulo... um quadrado amoroso. E confuso. São personagens que dificilmente conseguimos lembrar por muito tempo. Parecidos entre si, não caem nos estereótipos e exageros do cinema mudo. O que torna tudo muito difícil de acompanhar.
 
 A história começa em um parque de diversões, onde já vemos a destreza hitchcockiana em mesclar imagens (como de um homem rindo e um brinquedo onde deve-se acertar bolas dentro de uma face gigante. Uma das atrações é conseguir derrubar o "João Um Round", ou um nome que o valha. O campeão ganha uma bolada. Há uma moça bonita na bilheteria, que já estima João como um amigo de infância. Há também um homem bem apessoado na multidão, mais alto que a média, junto de seu amigo. Ele flerta com ela, e aceita o desafio. Ganha. Isso muda o destino de todos envolvidos.

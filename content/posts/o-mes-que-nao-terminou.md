@@ -1,9 +1,13 @@
 ---
-date: "2019-10-26"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Mês Que Não Terminou"
+categories:
+- draft
+- movies
+date: '2019-10-26'
+tags:
+- cinemaqui
+title: O Mês Que Não Terminou
 ---
+
 Entre as dezenas de documentários que surgiram sobre o momento político do Brasil, "O Mês Que Não Terminou" é finalmente o que entendeu a maior dificuldade em traduzir esse momento para os dois lados que o país se dividiu: empatia.
 
 Os cineastas Francisco Bosco e Raul Mourão conseguirem unir racional e emocionamente a dupla narrativa que evoluiu de maneira paralela e interdependente nos últimos anos no Brasil, as chamadas esquerda e direita. Se até o momento o que havia surgido nos cinemas brasileiros foram tentativas infrutíferas de tentar defender esse ou aquele lado (e não irei aqui dizer quem é esse nem quem é aquele lado), o trabalho de Bosco/Mourão pega nas mãos das duras frentes e ensina uma à outra o caminho da compreensão: ouvir o outro lado.

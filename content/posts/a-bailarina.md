@@ -1,10 +1,14 @@
 ---
-date: "2017-02-01"
-link: "https://www.imdb.com/title/tt2261287"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Bailarina"
+categories:
+- draft
+- movies
+date: '2017-02-01'
+link: https://www.imdb.com/title/tt2261287
+tags:
+- cinemaqui
+title: A Bailarina
 ---
+
 Não é à toa que A Bailarina ficará pouquíssimo tempo em cartaz. Não é pelas férias estarem acabado, mas poderia ser pela falta de cópias legendadas (porque a mixagem de som da dublada é simplesmente impossível de acompanhar). Talvez a palavra mais constante ao assistir a esta animação canadense e que defina o pouco entusiasmo do público em assistir seja: manipulativo. Afinal de contas, o filme irá fazer de tudo para você se envolver na história mais clichê de todas: o herói que persegue seu sonho. E irá fazer isso na França. No começo do século 19. E a protagonista é órfã. E há uma rival rica. E sua tutora de dança é manca e diz "odiar crianças". Não, não. Só falta dizer que o sonho dela é ser bailarina. Oh, não!
 
 Contando sua história de maneira simplista e sempre manipulando nossos sentimentos da maneira mais conveniente e clichê, tudo começa quando a jovem Félicie (Elle Fanning) e o jovem Victor (Dane DeHaan no original, onde deve estar muito melhor do que na dublagem brasileira anasalada e sem ritmo) decidem fugir do orfanato de freiras onde há um senhor mal encarado com olhos vesgos -- olhos vesgos e caretas são uma constante no filme para disfarçar a falta de orçamento na animação -- que persegue os dois de moto em uma sequência supostamente emocionante e dinâmica. Porém... ele está perseguindo com todas as forças duas crianças que estão fugindo de um lugar particularmente desagradável. Onde a madre superiora fala para "engavetar seus sonhos, pois a vida é dura e difícil". Onde conseguiram uma religiosa com tão pouca fé?

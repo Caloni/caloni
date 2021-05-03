@@ -1,8 +1,11 @@
 ---
-date: "2010-11-09"
+categories:
+- draft
+- code
+date: '2010-11-09'
 title: Patch de emergência 2
-categories: [ "draft", "code" ]
 ---
+
 No artigo anterior fizemos um patch rapidinho na memória se aproveitando de um Sleep nojento que o código nos forneceu.
 
 E se não houvesse Sleep?

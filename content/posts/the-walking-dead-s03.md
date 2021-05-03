@@ -1,9 +1,12 @@
 ---
-date: "2013-04-03"
-link: "https://www.imdb.com/title/tt1520211"
-categories: [ "draft", "series" ]
-title: "The Walking Dead - Terceira Temporada"
+categories:
+- draft
+- series
+date: '2013-04-03'
+link: https://www.imdb.com/title/tt1520211
+title: The Walking Dead - Terceira Temporada
 ---
+
 Se a segunda temporada de The Walking Dead é um banho de água fria que vira um melodrama quase celebrando a mediocridade de algumas novelas globais, a primeira metade da terceira temporada e alguns belos momentos da segunda metade quase que compensam a tortura de acompanhar os velhos e conhecidos episódios arrastados na mesmice.
 
 O começo da nova trama aproveita um gancho do último episódio da trama anterior e mostra como Rick e seus seguidores evoluíram como um grupo, tomando uma prisão infestada de zumbis em questão de minutos. Ou deveria dizer andarilhos, como a imprecisa e canastrona legenda nacional dessa vez chama os morto-vivos comedores de gente. Curiosamente agora eles não são uma democracia, mas surge uma nova forma de organização dirigida por uma pessoa que é chamada de Governador. Eles possuem armas, moradia e suprimentos e a mente de um psicopata (David Morrissey, mal escolhido) que manipula a mente e os corações de seu "povo" para atingir seus próprios objetivos. Qualquer relação com 100% das democracias populistas do nosso século será mera coincidência.

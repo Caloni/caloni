@@ -1,9 +1,11 @@
 ---
-date: "2010-11-19"
-link: "https://www.imdb.com/title/tt0926084"
-categories: [ "movies" ]
-title: "Harry Potter e as Relíquias da Morte - Parte 1"
+categories:
+- movies
+date: '2010-11-19'
+link: https://www.imdb.com/title/tt0926084
+title: Harry Potter e as Relíquias da Morte - Parte 1
 ---
+
 A sensação do final é de que poderíamos muito bem assistir muito mais. Isso porque, com transições equilibradas entre cenas de ação e de reflexão, as quase duas horas e meia não soam cansativas durante a experiência, que é ao mesmo tempo empolgante e visualmente emocionante.
 
 Visualmente porque por boa parte da história temos paisagens grandiosas onde os três amigos se escondem, ao mesmo tempo que o enquadramento muitas vezes escapa a localização no quadro gigantesco de planícies que parecem não ter fim, com o objetivo de exaltar ao máximo o isolamento que estes vivem, em um contrastre quase absoluto com os anos passados, quando tínhamos centenas de alunos e professores convivendo em harmonia.

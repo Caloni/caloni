@@ -1,8 +1,11 @@
 ---
-date: "2016-09-05"
-title: "unit-menos-menos"
-categories: [ "draft", "blog" ]
+categories:
+- draft
+- blog
+date: '2016-09-05'
+title: unit-menos-menos
 ---
+
 Fazer o setup inicial de testes unitários em seu projeto C++ pode ser algo enfadonho se você precisa baixar e compilar uma lib do Google ou do Boost. Há uma alternativa mais leve e bem direta, que um dia apareceu nesses CodeProject da vida, mas que hoje está, até onde eu vi, no [GitHub](https://github.com/gcross/unit--).
 
 E como se faz para começar a montar os testes unitários? Bom, suponha que você tenha um projeto qualque que já compila, roda e faz alguma coisa de útil:

@@ -1,9 +1,12 @@
 ---
-date: "2018-07-04"
-link: "https://www.imdb.com/title/tt3781836"
-categories: [ "draft", "series" ]
-title: "Botched"
+categories:
+- draft
+- series
+date: '2018-07-04'
+link: https://www.imdb.com/title/tt3781836
+title: Botched
 ---
+
 Botched é mais uma das séries de canais como Discovery Home & Health e... ops. Acho que me enganei de canal. Anyway. Algum canal pago desses por aí onde abrem mulheres para fazer cirurgias plásticas para as completarem como os últimos Frankesteins de nossa geração.
 
 Mas Botched não começa de uma pessoa insatisfeita com seu corpo natural e a partir disso trabalha opções que esteticamente irão preencher o vazio existencial dos pacientes. A série vai um pouco além e apresenta uma dupla de especialistas em consertar o que cirurgias mal feitas aprontaram. Se você segue meu blog técnico de programação, entenda como uma sessão de debug em seres humanos. Mas só pelo design.

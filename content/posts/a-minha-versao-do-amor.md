@@ -1,9 +1,11 @@
 ---
-date: "2011-04-27"
-link: "https://www.imdb.com/title/tt1423894"
-categories: [ "movies" ]
-title: "A Minha Versão do Amor"
+categories:
+- movies
+date: '2011-04-27'
+link: https://www.imdb.com/title/tt1423894
+title: A Minha Versão do Amor
 ---
+
 Paul Giamatti é uma das melhores surpresas que se poderia esperar desse início de século para o cinema. Sempre envolvido em história no mínimo curiosas (Sideways) e em no máximo transcendentais (Sinédoque), temos aqui um conjunto das duas coisas espelhadas em um personagem desde os primeiros minutos de projeção que nos fascina pela sua mente conturbada e sua alma acuada, tão humano quanto qualquer um de nós foi em um dado período da vida.
 
 Reparem na lentidão interpretada de Giamatti conforme os anos vão se passando, por exemplo - e são muitos! o filme estabelece uma cronologia, quase sem cortes, de mais de 30 anos -, ou, conforme suas bebedeiras o tornam mais sonolento, o que pode ser sentido em sua expressão de dor interna.

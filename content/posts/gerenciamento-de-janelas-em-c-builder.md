@@ -1,8 +1,10 @@
 ---
-date: "2007-12-11"
-title: "Gerenciamento de janelas em C++ Builder"
-categories: [ "code" ]
+categories:
+- code
+date: '2007-12-11'
+title: Gerenciamento de janelas em C++ Builder
 ---
+
 As janelas criadas no C++ Builder são equivalentes às janelas criadas pela API, com o detalhe que a VCL gerencia tudo automaticamente. Isso não quer dizer que não podemos tomar controle de tudo. Quer dizer que não precisamos.
 
 Abra o Builder. Um projeto padrão é criado. Agora no menu File, vá em New, Form. Isso adicionará um novo formulário ao projeto padrão. Pronto! Temos dois formulários. Agora se formos dar uma passeada no WinMain, vemos que o código para iniciar a VCL se alterou conforme a música:

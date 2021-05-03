@@ -1,9 +1,11 @@
 ---
-date: "2020-10-04"
-link: "https://www.imdb.com/title/tt6994156"
-categories: [ "series" ]
-title: "Sem Maturidade Para Isso"
+categories:
+- series
+date: '2020-10-04'
+link: https://www.imdb.com/title/tt6994156
+title: Sem Maturidade Para Isso
 ---
+
 Dos mesmos criadores de [Regular Show], eis uma animação com momentos frenéticos, ideias estupendas, ótimas sacadas e que cai na mesmice uns três episódios depois, mas a primeira temporada é tão breve que você mal percebe.
 
 Perto de atrocidades como Hoops, que segue a fórmula obtusa e ultrapassada de criticar o politicamente incorreto, Close Enough é uma obra de arte. É dinâmico e tenta não repetir piadas, e as encaixa tão rápido que uma ou duas que não tenham graça passam despercebidas no meio da tempestade de ideias.

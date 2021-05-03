@@ -1,9 +1,11 @@
 ---
-date: "2020-09-06"
-link: "https://www.imdb.com/title/tt1529569"
-categories: [ "movies" ]
-title: "Uma Doce Mentira"
+categories:
+- movies
+date: '2020-09-06'
+link: https://www.imdb.com/title/tt1529569
+title: Uma Doce Mentira
 ---
+
 Vivemos em tempos cínicos e desprovido de leveza. São tempos em que quando alguém encontra doces palavras de amor em letra de mão endereçadas a você o primeiro pensamento é que só pode ser obra de um velho tarado.
 
 Essa comédia romântica se disfarça de drama. É o começo do fim da excelência francesa em fazer rir das situações do dia-a-dia. Audrey Tautou é a queridinha da França para o Mundo e tenta não repetir papéis e sai um pouco dos eixos. Aqui vive essa empresária e filha maquiavélica, que tenta consertar sua relação com a depressiva mãe, destruindo corações no processo; incluindo o seu próprio. E tudo isso é para nos fazer rir.

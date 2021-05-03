@@ -1,10 +1,14 @@
 ---
-date: "2017-03-10"
-link: "https://www.imdb.com/title/tt5067984"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Era O Hotel Cambridge"
+categories:
+- draft
+- movies
+date: '2017-03-10'
+link: https://www.imdb.com/title/tt5067984
+tags:
+- cinemaqui
+title: Era O Hotel Cambridge
 ---
+
 Era o Hotel Cambridge é um documentário que tenta se estruturar como ficção. Sua heroína é uma personagem da vida real. A mescla entre real e o faz-de-conta funciona como catalisador das transformações sociais e um retrato dramático da vida de pessoas que são excluídas de um populismo político que durou uma década e encontrou seu merecido fim: escassez, caos e violência.
 
 A história se passa em um dos inúmeros prédios abandonados do centro da cidade de São Paulo, Brasil. Quem transita frequentemente por estas ruas já se acostumou com o panorama político pintado em faixas vermelhas, com siglas das mais generalizantes, de movimentos de pessoas que invadiram esses prédios caindo aos pedaços com dezenas de famílias. Seus objetivos, além de ter um lugar para morar, é conscientizar a população de que não há, de fato, moradia para todos (diferente do que foi gritado aos quatro ventos pelo governo por uma década). O problema central vem na forma de uma decisão judicial de reintegração de posse, o que quer dizer que todas aquelas pessoas serão efetivamente despejadas do lugar.

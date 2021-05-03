@@ -1,10 +1,14 @@
 ---
-date: "2017-07-01"
-link: "https://www.imdb.com/title/tt3072174"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Os Pobres Diabos"
+categories:
+- draft
+- movies
+date: '2017-07-01'
+link: https://www.imdb.com/title/tt3072174
+tags:
+- cinemaqui
+title: Os Pobres Diabos
 ---
+
 Depois de quase quatro anos após ganhar o Festival de Brasília em 2013, chega nas telas Os Pobres Diabos, um filme onde provavelmente sua melhor parte é a primeira cena, que evoca O Palhaço (Selton Mello, 2011), com seu clima de desesperança poética nordestina de Graciliano Ramos e José Lins do Rêgo, uma trilha sonora inspirada em temas de circo com um toque de melancolia, e possivelmente um road movie. Toda essa promessa, infelizmente, dá entrada para um show de clichês cujo objetivo, diferente do circo mais humilde, está muito longe de entreter e muito próximo de virar propaganda ideológica da pior espécie: a que se coloca acima do seu conteúdo artístico.
 
 Mas chamar este filme de propaganda ideológica chega a ser um elogio, já que sua história é um fiapo novelístico da pior espécie. Envolve a chegada de um circo itinerante caindo aos pedaços em uma cidadezinha minúscula. Eles montam sua lona bem distante, em um terreno baldio para não ter que pagar o caro aluguel de um terreno na cidade, o que de início já não faz muito sentido, se trata-se de uma cidade pequena e pobre. Menos sentido ainda é um eletricista da empresa de energia local vir fazer a instalação temporária para os itinerantes, e de uma paisagem desértica brota um poste de luz. E ao fundo vemos um inusitado "product placement" que é um vexame: moinhos de vento de energia eólica. Faltou apenas um letreiro com um slogan desses do governo. Brasil: um país de vento.

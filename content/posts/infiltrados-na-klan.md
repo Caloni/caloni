@@ -1,9 +1,12 @@
 ---
-date: "2018-10-30"
-link: "https://www.imdb.com/title/tt7349662"
-categories: [ "draft", "movies" ]
-title: "Infiltrados Na Klan"
+categories:
+- draft
+- movies
+date: '2018-10-30'
+link: https://www.imdb.com/title/tt7349662
+title: Infiltrados Na Klan
 ---
+
 Spike Lee retorna aqui com a temática do racismo de "Faça a Coisa Certa" de várias décadas atrás. E coincidentemente seu astro apareceu em outro filme político do diretor, Malcolm X (embora completamente desconhecido, "como Estudante na Sala de Harlem"). Aqui junto com Adam Drive eles realizam os mesmos passos descritos no livro autobiográfico de Ron Stallworth, primeiro policial e detetive negro do departamento de polícia de Colorado Springs e que se infiltrou em um movimento da Ku Klux Klan no final dos anos 70. Essa história possui requintes surreais e parece extraordinária demais para ser séria.
 
 Porém, o mais extraordinário é que ela é real! E a genialidade do filme começa em usar Spike Lee (que também participou da produção) para arquitetar essa história. Aliando um humor escrachado ao mesmo tempo que vai conquistando a empatia do público pelo competente mas distraído Ron Stallworth vivido por John David Washington (você pode ver ele também em O Livro de Eli). Tanto ele quanto Adam Drive são auxiliados por um elenco extremamente afiado em viver brancos preconceituosos, alienados e um tanto abobados, seja a força policial ou o pessoal da KKK. Adam Drive aparece com igual peso no pôster do filme, mas é um embuste, ele possui uma participação menor ou está em uma atuação mais apagada; não é de fato um personagem para esse ator.

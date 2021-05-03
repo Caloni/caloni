@@ -1,9 +1,12 @@
 ---
-date: "2016-09-15"
-link: "https://www.imdb.com/title/tt0178868"
-categories: [ "draft", "movies" ]
-title: "Ring: O Chamado"
+categories:
+- draft
+- movies
+date: '2016-09-15'
+link: https://www.imdb.com/title/tt0178868
+title: 'Ring: O Chamado'
 ---
+
 Essa é a versão japonesa, que estreou dois anos antes do remake americano. Diferente de toda a pomposidade de sua cópia, e os efeitos sonoros enlatados de terrores hollywoodianos, este tem a rapidez de um thriller e a semi-profundidade de um drama. Possui um ritmo visual econômico e ágil, e uma conclusão factoide, o que o torna um exemplo de sua própria lenda.
 
 A história é simples: um vídeo misterioso de alguns segundos, se assistido, fará a pessoa morrer em sete dias (após receber um telefonema após ter assistido). Uma médium (Nanako Matsushima) começa a investigar quatro mortes em um só dia, e seu ex-marido (Yutaka Matsushige), também médium, passa a ajudá-la. Ambos têm um filho, quase abandonado, e logo isso constitui um drama eficiente em torno de uma história de terror.

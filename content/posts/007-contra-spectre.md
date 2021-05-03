@@ -1,9 +1,11 @@
 ---
-date: "2015-11-14"
-link: "https://www.imdb.com/title/tt2379713"
-categories: [ "movies" ]
-title: "007 Contra Spectre"
+categories:
+- movies
+date: '2015-11-14'
+link: https://www.imdb.com/title/tt2379713
+title: 007 Contra Spectre
 ---
+
 Spectre é tão bom ou tão ruim quanto Quantum of Solace, mas por motivos opostos. Enquanto na segunda aventura de Daniel Craig como James Bond a complexidade do roteiro piorava uma experiência que já se repetiu em mais de vinte filmes, dessa vez a sua simplicidade quase infantil gera uma decepção crescente a cada minuto que se passa na projeção.
 
 Tentando resgatar a visão clássica do agente, uma continuação óbvia do excelente arco visto em Skyfall, o roteiro escrito por um batalhão de pessoas (nunca um bom sinal) tenta se sair bem apenas repetindo cenas e situações dos Bonds anteriores, como uma espécie de homenagem no formato de passeio de museu, sem se preocupar em estabelecer uma trama com personagens minimamente interessantes. 

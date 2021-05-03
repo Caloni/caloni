@@ -1,8 +1,11 @@
 ---
-date: "2015-03-04"
-categories: [ "code", "draft",  ]
-title: "Guia de alocação (nos clientes)"
+categories:
+- code
+- draft
+date: '2015-03-04'
+title: Guia de alocação (nos clientes)
 ---
+
 Se você trabalha com T.I. (nem precisa ser programação) e mora em São Paulo (ou qualquer outro lugar com pessoas paranoicas) então talvez em algum momento da sua carreira teve que ficar alocado (como uma memória que contém um vírus) em algum de seus clientes (ou da empresa onde trabalha/ou). Usando seus apetrechos pessoais dentro de uma mochila para zarpar no final do dia sem deixar rastros.
 
 Não é muito elegante deixar seus logins, seu perfil, seus favoritos e histórico no navegador que está usando, além de ser uma falha de segurança, já que trocar a senha de um perfil no Windows é procedimento natural ~~, além da própria segurança do SO deixar a desejar em alguns momentos~~. Por isso, segue algumas dicas que tenho usado e recomendo para quem também é essa memória corrompida, nem que seja por pouco tempo.

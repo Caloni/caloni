@@ -1,9 +1,12 @@
 ---
-date: "2020-12-08"
-link: "https://www.imdb.com/title/tt3845892"
-categories: [ "draft", "series" ]
-title: "Sherlock: The Final Problem"
+categories:
+- draft
+- series
+date: '2020-12-08'
+link: https://www.imdb.com/title/tt3845892
+title: 'Sherlock: The Final Problem'
 ---
+
 O último episódio da série da BBC sobre o detetive mais famoso de todos os tempos (e sua família) está longe de ser o melhor de todos, mas assistindo agora em revisita soa melhor do que a primeira vez. Talvez as séries e filmes que assisti nesses últimos três anos não tenham ajudado muito a elevar a sétima arte, com raras exceções. O mundo está muito chato e condescendente com uma barra que talvez nunca tenha baixado tanto em tão pouco tempo.
 
 É nesse estado de podridão e perdição que o episódio sobre a irmã perdida e psicopata de Sherlock vem bem a calhar. É a vilã perfeita. Um gênio incompreendido, se torna uma assassina sem pudores, porque "percebeu" desde cedo, observando o mundo em sua volta, que a moral é relativa, que bem e mal são criações úteis para a lei da evolução, mas não tão úteis para quem não consegue enxergar nada além da razão pura.

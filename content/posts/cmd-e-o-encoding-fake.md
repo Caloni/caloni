@@ -1,8 +1,11 @@
 ---
-date: 2017-12-26T18:24:24-02:00
-title: "Cmd e o encoding fake"
-categories: [ "draft", "blog" ]
+categories:
+- draft
+- blog
+date: 2017-12-26 18:24:24-02:00
+title: Cmd e o encoding fake
 ---
+
 Qualquer um que já tenha mexido no prompt de comandos do Windows sabe que ele permite você escolher qual code page utilizar para enviar e receber comandos. O Windows é todo em UTF-16, mas as saídas podem vir de qualquer programa com qualquer encoding. A missão do cmd.exe é usar o encoding escolhido pelo usuário para exibir os caracteres na tela. Vamos supor que nós criemos uma pasta com acentos no nome (pelo Explorer para não ter erro):
 
 ![QuemQuerPão](https://i.imgur.com/ZutWZiB.png)

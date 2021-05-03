@@ -1,9 +1,12 @@
 ---
-date: "2021-03-14"
-link: "https://www.imdb.com/title/tt0086022"
-categories: [ "draft", "movies" ]
-title: "Nostalgia"
+categories:
+- draft
+- movies
+date: '2021-03-14'
+link: https://www.imdb.com/title/tt0086022
+title: Nostalgia
 ---
+
 Pedir para um ser humano médio ler algum autor russo já é maldade. Para um ocidental é como se houvesse algo místico inalcançável. Para um oriental há uma narrativa obrigatoriamente enfadonha.
 
 Nos mesmos moldes, dizer para um espectador médio de cinema que se ele quiser transcender na cinefilia ele precisa assistir às obras de Andrei Tarkovsky já não é nem maldade: é tortura pura.

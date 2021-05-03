@@ -1,9 +1,12 @@
 ---
-date: "2017-10-21"
-link: "https://www.imdb.com/title/tt2091256"
-categories: [ "draft", "movies" ]
-title: "As Aventuras Do Capitao Cueca O Filme"
+categories:
+- draft
+- movies
+date: '2017-10-21'
+link: https://www.imdb.com/title/tt2091256
+title: As Aventuras Do Capitao Cueca O Filme
 ---
+
 As Aventuras do Capitão Cueca prova que no Cinema, dado qualquer conceito, ele pode ser explorado e se tornar um ótimo filme. Mesmo que este conceito envolva duas crianças criativas e zoeras que falam com o espectador, pregam todas as peças da escola e criem um super-herói em seus quadrinhos que não usa uma cueca por cima das calças, mas apenas a cueca.
 
 Dirigido por David Soren, que já tinha feito o subestimado Turbo, Capitão Cueca é um trabalho adaptado pelo roteirista Nicholas Stoller (Cegonhas), mas cuja origem vem do autor de epic novels Dav Pilkey. Pilkey, diagnosticado com Transtorno de Déficit de Atenção e dislexia, é dono de uma mente tão atribulada quanto criativa. Seu personagem de cueca aparece em vários de seus trabalhos e é um best seller.

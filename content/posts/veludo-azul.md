@@ -1,9 +1,12 @@
 ---
-date: "2016-01-14"
-link: "https://www.imdb.com/title/tt0090756"
-categories: [ "draft", "movies" ]
-title: "Veludo Azul"
+categories:
+- draft
+- movies
+date: '2016-01-14'
+link: https://www.imdb.com/title/tt0090756
+title: Veludo Azul
 ---
+
 Esse filme nos deixa a dúvida se ele é doentio ou se apenas reflete a doença no mundo. Não é de hoje que se acredita que violência é um sintoma da necessidade de controle de um indivíduo sobre outro. Muitas vezes isso assume o caráter sexual. E se adicionarmos uma moral nesse ingredientes, religiosa ou não, é óbvio que ela julgará como uma coisa mau e perversa.
 
 E há apenas um diretor capaz de falar sobre todas essas coisas e não soar superficial, exagerado ou, pior, desequilibrar a equação entre violência, dominação, sexo, moral e uma certa dose de esoterismo. Esse alguém é David Lynch (Cidade dos Sonhos, O Homem Elefante). Sua narrativa pouco convencional nos entrega uma obra-prima que investiga a fundo a psique humana da curiosidade e explora seus personagens ao máximo.

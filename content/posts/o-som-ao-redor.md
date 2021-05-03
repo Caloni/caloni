@@ -1,9 +1,11 @@
 ---
-date: "2013-01-14"
-link: "https://www.imdb.com/title/tt2190367"
-categories: [ "movies" ]
-title: "O Som ao Redor"
+categories:
+- movies
+date: '2013-01-14'
+link: https://www.imdb.com/title/tt2190367
+title: O Som ao Redor
 ---
+
 O Som ao Redor não é o tipo de filme que a gente consiga descobrir através da sua história qual o tema e a opinião do diretor sobre o que ocorre na tela. A coisa toda está mais como um espelho, onde nossa observação dos fatos e a sua interpretação, sobretudo moral, é que irá inserir um significado. Mesmo assim, dadas as devidas proporções, todo filme possui essa liberdade de interpretação. Do contrário, nem existiria crítica, pois todas as respostas estariam no filme, e não haveriam perguntas.
 
 Acompanhamos a vida das pessoas de uma pequena rua em um bairro de classe média. Não somos propriamente apresentados a eles, mas o vemos meio como quem espia a vida alheia. No caso, várias vidas alheias. O tom de realidade é dado não apenas por interpretações convincentes de todo o elenco como pessoas comuns, como pela ausência completa de trilha sonora. O filme honra o seu título e possui percursão musical, temática e transitória através do aumento e diminuição do volume de determinados sons presentes no próprio ambiente e que, esses sim, nos são apresentados desde o começo, em uma sequência sem cortes de uma menina andando de patinete dentro de um condomínio. A sinfonia que se forma pelos lugares por onde passa é o suficiente para que identifiquemos boa parte dos ruídos que ouviremos deslocados de cena, mas presentes, de certa forma, no momento que percebemos que todas as vidas ali mostradas estão ligadas em maior ou menor grau.

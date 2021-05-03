@@ -1,9 +1,11 @@
 ---
-date: "2010-09-03"
-link: "https://www.imdb.com/title/tt1024899"
-categories: [ "movies" ]
-title: "Enfim Viúva"
+categories:
+- movies
+date: '2010-09-03'
+link: https://www.imdb.com/title/tt1024899
+title: Enfim Viúva
 ---
+
 Essa é uma comédia francesa em que uma mulher tem seu marido morto em um acidente de carro justo quando está prestes a se despedir deste e fugir com seu amante, um pescador da região, e morar com ele na China. Junto da morte do marido vem toda sua família, inclusive seu filho, que fazem de tudo para "cuidar dela" e impedi-la de "curtir" seus primeiros momentos de viuvez.
 
 Um detalhe musical: enquanto ela escuta músicas mais animadas (e é curioso que no início ela comece cantarolando o tema do filme antes do som invadir as caixas de som), seu marido ouve música clássica, e vive se preocupando com coisas que podem acontecer daqui a 100 anos, indicando claramente seu distanciamento da vida a dois entre eles.

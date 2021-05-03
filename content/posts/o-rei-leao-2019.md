@@ -1,10 +1,14 @@
 ---
-date: "2019-07-16"
-link: "https://www.imdb.com/title/tt6105098"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Rei Leão (2019)"
+categories:
+- draft
+- movies
+date: '2019-07-16'
+link: https://www.imdb.com/title/tt6105098
+tags:
+- cinemaqui
+title: O Rei Leão (2019)
 ---
+
 Só esse cuidado que a Disney vem tomando em adaptar seus clássicos já é comovente. Antes desenhado em animação, o que permite um tom mais caricato de seus personagens, a versão computadorizada de O Rei Leão nos faz pensar em como os pequenos ajustes da história neste remake feito com bits e bytes existem para focar mais no seu núcleo dramático, o que se aproxima das duas inspirações da história original: os textos bíblicos sobre as vidas de José e Moisés e os palcos de onde se encenou a imortal peça de Shakespeare, Hamlet. Nesse sentido, O Rei Leão é um Príncipe do Egito às avessas.
 
 O desafio no teatro é conseguir excelentes atores e atrizes que irão dar vida a uma ideia. Na mesa de criação esse jogo é diferente: o design de produção é responsável por dar vida à maior parte desta trama monárquica representada por animais. Se há atores de carne e osso, esses estão presentes para nos doar suas evocativas vozes na fantasia de uma mãe-natureza antropomorfizada. Nos faz pensar se não somos nós, humanos, que estamos deturpando o ciclo da vida.

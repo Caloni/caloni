@@ -1,9 +1,12 @@
 ---
-date: "2019-02-26"
-link: "https://www.imdb.com/title/tt6728096"
-categories: [ "draft", "movies" ]
-title: "Até que a Gente te Separe"
+categories:
+- draft
+- movies
+date: '2019-02-26'
+link: https://www.imdb.com/title/tt6728096
+title: Até que a Gente te Separe
 ---
+
 The Breaker Upperers é uma comédia neo-zelandesa, o que significa britânica, o que quer dizer que é um humor difícil de falhar. Sim, humor britânico está sempre acima do americano.
 
 Nesse caso a história começa com uma ideia interessante: duas rivais de um mesmo partido se tornam melhores amigas e juntas criam um negócio para terminar o relacionamento de pessoas insatisfeiras, mas covardes. Elas aceleram um processo inevitável. A primeira sequência do filme contém várias piadas, algumas rápidas demais para pegarmos, onde a vemos agindo. É uma dupla que funciona. Daquelas com química.

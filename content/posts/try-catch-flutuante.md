@@ -1,8 +1,10 @@
 ---
-date: "2008-04-03"
-title: "Try-catch flutuante"
-categories: [ "ccpp" ]
+categories:
+- ccpp
+date: '2008-04-03'
+title: Try-catch flutuante
 ---
+
 Esse detalhe da linguagem quem me fez descobrir foi o Yorick, que costuma comentar no blogue e tive o prazer de conhecer no [4o. EPA-CCPP].
 
 É possível, apesar de bizarro, colocar um bloco try-catch em torno da lista de inicialização de variáveis de um construtor. Essa característica da linguagem permite que possamos capturar alguma exceção lançada por algum construtor de algum membro da classe. A construção em código ficaria no estilo abaixo:

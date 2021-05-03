@@ -1,9 +1,12 @@
 ---
-date: "2019-04-27"
-link: "https://www.imdb.com/title/tt0130827"
-categories: [ "draft", "movies" ]
-title: "Corra, Lola, Corra"
+categories:
+- draft
+- movies
+date: '2019-04-27'
+link: https://www.imdb.com/title/tt0130827
+title: Corra, Lola, Corra
 ---
+
 Esse filme é o prêmio que todo cinéfilo espera depois de assistir a vários filmes medíocres que seguem a mesma fórmula. "Corra, Lola, Corra" não é um deles. Ele quebra barreiras linguísticas (sobre a linguagem do cinema). Ele explora a mescla entre realismo e fantasia. Ele permite que o espectador acompanhe três versões de roteiro e as compare. E ele tem uma das trilhas sonoras mais perfeitas do cinema.
 
 A heroína é Lola (Franka Potente), que se veste como personagem de vídeo game e com seu cabelo vermelho a destaca do mundo que a cerca. Ela precisa correr. Seu namorado, Manni (Moritz Bleibtreu), precisa de 100 mil em 20 minutos ou está morto. Ele perdeu o dinheiro para um mendigo, que aliás é uma pessoa de carne e osso e não esses estereótipos de mendigo de filmes nova-iorquinos zumbificados.

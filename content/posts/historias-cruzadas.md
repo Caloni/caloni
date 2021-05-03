@@ -1,9 +1,11 @@
 ---
-date: "2012-12-18"
-link: "https://www.imdb.com/title/tt1454029"
-categories: [ "movies" ]
-title: "Histórias Cruzadas"
+categories:
+- movies
+date: '2012-12-18'
+link: https://www.imdb.com/title/tt1454029
+title: Histórias Cruzadas
 ---
+
 Depois de um filme inteiro martelando a segregação entre negros e brancos, a cena em que uma branca prepara um banquete para sua empregada negra é emocionante por detectarmos finalmente sentimentos naturais a qualquer ser humano sadio: solidariedade, compaixão, gratidão, respeito. O que não é natural é descobrirmos os sentimentos contraditórios presentes durante todo Histórias Cruzadas.
 
 Partindo do princípio que apenas um branco poderia resgatar a dignidade das empregadas na cidade de Jackson (capital do Mississipi), o roteiro e a direção de Tate Taylor caminham sem pressa em torno da decisão de Skeeter (Emma Stone), uma mulher "moderna" em plena década de 60 que decide escrever um livro que descreva os maus tratos dessas mulheres pelas suas patroas, um dos últimos resquícios visíveis do passado recente de segregação racial nos EUA. O motivo é claro e igualmente contraditório: Skeeter, assim como todas as crianças brancas, e apesar da repulsa dos brancos - que até defendem o uso de banheiros separados - foi criada por uma doméstica. A infância inteira de Skeeter foi construída sob a visão da velha empregada negra da sua família, que um belo dia foi misteriosamente demitida. Já crescida e lendo textos políticos da época, a conclusão de Skeeter sobre a exploração das empregadas é óbvia, o que torna a personagem mais um processo natural na evolução moral daquele povo do que propriamente a visionária revolucionária sugerida pelo filme.

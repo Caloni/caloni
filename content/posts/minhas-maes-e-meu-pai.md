@@ -1,9 +1,11 @@
 ---
-date: "2011-06-08"
-link: "https://www.imdb.com/title/tt0842926"
-categories: [ "movies" ]
-title: "Minhas Mães e Meu Pai"
+categories:
+- movies
+date: '2011-06-08'
+link: https://www.imdb.com/title/tt0842926
+title: Minhas Mães e Meu Pai
 ---
+
 Annete Bening é uma atriz talentosa. Seu único trabalho que acompanhei de perto, Beleza Americana, foi um exercício de neurose formidável, ainda que equivocado em sua exagerada conclusão final (culpa do roteiro?). Porém, através dele é possível ter uma noção muito boa das capacidades de Bening interpretando pessoas com algum descontrole emocional que a leve a influenciar negativamente a vida dos seus próximos.
 
 É com essa impressão inicial que comecei a assistir Minhas Mães e Meu Pai, um filme que apresenta uma família inusitadamente normal, considerando que não há nela a figura paterna, mas a figura dupla da mãe, Nic (Bening) e Jules (Moore). Ambas resolveram ter cada uma um filho através de inseminação artificial, formando assim o casal de meio-irmãos Joni (Wasikowska, formidável) e Laser (Hutcherson). Essa família aparentemente normal, mesmo que frequentemente sufocada pela superprotetora Nic, começará a se desestruturar emocionalmente com a vinda de seu novo membro Paul, pai genético escolhido por ambas as mães para a gravidez planejada.

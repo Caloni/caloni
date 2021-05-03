@@ -1,9 +1,12 @@
 ---
-date: "2016-10-20"
-link: "https://www.imdb.com/title/tt3365280"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Entre Linhas"
+categories:
+- draft
+- movies
+date: '2016-10-20'
+link: https://www.imdb.com/title/tt3365280
+tags:
+- cinemaqui
+title: Entre Linhas
 ---
 
 Entre Linhas ensaia ser pretensioso, ou de alguma maneira intrincado. Porém, para que isso aconteça, é necessário que seus personagens tenham algo a dizer além de questões existenciais sobre relacionamentos. E mesmo que fôssemos elogiar sua emaranhada montagem, que preza por idas e vindas entre dois namorados muito parecidos da protagonista, isso se torna impossível a partir do momento que percebemos que não se trata de descobrir um motivo para o vai-e-vem temporal, mas de ser diferente pelo simples prazer de ter mais personagens a dizer frases aleatórias sobre a vida.

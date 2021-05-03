@@ -1,10 +1,14 @@
 ---
-date: "2018-10-09"
-link: "https://www.imdb.com/title/tt2050452"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Pedro e Inês"
+categories:
+- draft
+- movies
+date: '2018-10-09'
+link: https://www.imdb.com/title/tt2050452
+tags:
+- cinemaqui
+title: Pedro e Inês
 ---
+
 "Pedro e Inês" é uma viagem lindíssima por três tempos, três costumes e a mesma perda. Brincando com diferentes narrativas e suas trágicas coincidências, o estado da loucura pode ser impossível de mapear na razão ou é apenas a beleza do essencial que ofusca a rotina.
 
 A história principal de Pedro e Inês, que compartilham nomes e relações nas outras duas histórias, termina em um sanatório. O filme começa lá e vai nos desvendando os devaneios de Pedro, que nos temos atuais tenta trazer alguma luz ao clichê máximo do romantismo: o amor proibido.

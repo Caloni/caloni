@@ -1,10 +1,14 @@
 ---
-date: "2019-05-06"
-link: "https://www.imdb.com/title/tt8301540"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Dias Vazios"
+categories:
+- draft
+- movies
+date: '2019-05-06'
+link: https://www.imdb.com/title/tt8301540
+tags:
+- cinemaqui
+title: Dias Vazios
 ---
+
 Dias Vazios repousa convenientemente no marasmo narrativo da metalinguagem e na filosofia barata de Nietzsche. Não barata no sentido de ordinária, mas no sentido de leitura adolescente sobre o vazio da vida. Aliás, é por isso que Nietzsche é pop: graças ao Super-Homem, e não aquela baboseira de que Deus está morto.
 
 Estreante nas telonas, o diretor e roteirista Robney Bruno Almeida passa dez anos arrecadando fundos para adaptar o livro de André de Leones, Hoje Está Um Dia Morto. O livro é sobre a adolescência e seus sonhos sabotados, vivendo em um fim de mundo sem perspectiva alguma. Leones fez sucesso com seu livro e saiu da cidadezinha onde morava. Agora o filme adaptado realiza a mesma manobra ficcional ao usar Daniel como seu porta-voz.

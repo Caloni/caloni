@@ -1,9 +1,12 @@
 ---
-date: "2017-02-07"
-link: "https://www.imdb.com/title/tt2671706"
-categories: [ "draft", "movies" ]
-title: "Um Limite Entre Nós"
+categories:
+- draft
+- movies
+date: '2017-02-07'
+link: https://www.imdb.com/title/tt2671706
+title: Um Limite Entre Nós
 ---
+
 Fences é um filme baseado em uma peça. Mas isso dá pra saber logo nos primeiro minutos do filme dirigido por Denzel Washington e adaptado pelo próprio dramaturgo August Wilson. A história se passa praticamente na casa e nos arredores da casa dos Maxson, uma família cujo patriarca, Troy (Washington), é uma figura encontrada facilmente entre as camadas mais pobres da sociedade, muitas vezes criado por pais ainda mais rígidos que ele. É lógico que muitos de nós tiveram pais ou conhecidos com pais assim. E nem por isso há algo de sintomático por trás de tudo isso. A menos que seja inserido um dedinho da esquerda progressista a investigar que tudo aquilo no fundo é resquício da violência praticada contra os negros. Resquício ou não, este é um drama de primeira qualidade basicamente por causa de Viola Davis e Denzel Washington, que carregam o filme como se fosse extremamente fácil interpretar seus personagens.
 
 Nada mais longe da verdade. Note como Viola Davis tricota casualmente em seu quinta quando vem receber o marido, logo na primeira cena. Observe como seu jeito gracioso de dona de casa tradicional esconde um certo respeito e medo de seu marido, com quem brinca de maneira pseudo-inocente, mas que fica claro que tudo aquilo é um jogo de cena que se fazia por muitas e muitas décadas. Porém, isso só se percebe aos poucos, em cada diálogo, em cada micro-expressão dos personagens. E há diálogos suficiente para percebermos (é uma peça de teatro, lembra?), assim como há interpretações afiadas e quase naturalistas como de Davis.

@@ -1,9 +1,12 @@
 ---
-date: 2018-09-28T19:43:04-03:00
-title: "Native Floripa 2018"
-categories: [ "draft", "blog" ]
-desc: "Evento de programação 'baixo nível' realizado em Florianópolis - Segunda Edição."
+categories:
+- draft
+- blog
+date: 2018-09-28 19:43:04-03:00
+desc: Evento de programação 'baixo nível' realizado em Florianópolis - Segunda Edição.
+title: Native Floripa 2018
 ---
+
 O [Native Floripa](http://www.nativefloripa.com.br/) desse ano foi um evento de nerds que adoro e também uma viagem e encontro de nerds (que também adoro). Isso quer dizer que este é um post duplo, onde analiso tanto a viagem quanto o evento.
 
 Como viagem Floripa é uma cidade que se divide em ilha e continente. Na ilha há um emaranhado de rodovias que circulam pelos morros e que se cruzam onde percebemos que a prefeitura não tem o mínimo de cuidado e investimento em fazer conexões decentes. Há dois elevados em obras que facilitaram a transição entre rodovias. Vimos um no caminho do aeroporto para Barra da Lagoa, e o motorista do Uber comentou que está há dez anos em obras, já tendo gasto todo o dinheiro em um amontoado de madeira e concreto inúteis, o que resume o que tenho a dizer sobre a organização da cidade como um todo.
@@ -43,4 +46,3 @@ Native Floripa virou já uma tradição. Ano que vem nos vemos de novo.
 
  - [Vcpkg e vc td a ver](https://www.slideshare.net/WanderleyCaloni/vcpkg-e-vc-td-a-ver)
  - [Co co-co-co-co-corrotinas](https://www.slideshare.net/WanderleyCaloni/co-cococococorrotinas)
-

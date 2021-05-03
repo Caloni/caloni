@@ -1,10 +1,14 @@
 ---
-date: "2019-11-07"
-link: "https://www.imdb.com/title/tt7139936"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Um Dia De Chuva Em Nova York"
+categories:
+- draft
+- movies
+date: '2019-11-07'
+link: https://www.imdb.com/title/tt7139936
+tags:
+- cinemaqui
+title: Um Dia De Chuva Em Nova York
 ---
+
 Um dia com um tempo incerto em São Paulo, variando entre sol, frio, calor e chuva, mas muitas pessoas compareceram para a cabine de imprensa. Em meio a uma carreira com altos e baixos, em que os baixos estão quase sempre acima da média, e uma agenda em que um trabalho é lançado a cada ano, diluindo as centenas de páginas geniais arquivadas de um diretor/roteirista dedicado nas últimas décadas a estar sempre filmando, a pergunta que gostaria de responder durante essa sessão era: Woody Allen ainda é relevante nesses dias? E nos primeiros quinze minutos de Um Dia De Chuva em Nova York, absorto nas entrelinhas existenciais de mais uma história banal em Manhatan, a resposta veio fácil, automática e enfática: relevante e necessário.
 
 Necessário porque ninguém mais no mundo é capaz de discutir as mesmas questões que Allen coloca em seus filmes com tanto empenho e honestidade. Seus personagens reciclados como meros mecanismos de fala para seus diálogos servem ao plot, mas dentro de cada um deles há a essência de uma parte da humanidade que já resolveu as questões mais baixas da Pirâmide de Maslow e precisa urgentemente mirar no topo. Só que o topo para Allen é onde ele tem vivido por toda sua vida, e ele continua patinando no mesmo chão encerado das questões complexas dos relacionamentos entre duas pessoas, e tudo isso é inevitável para ele e para nós, pois relacionamentos nos definem e sempre serão uma questão mal respondida.

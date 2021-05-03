@@ -1,9 +1,12 @@
 ---
-date: "2016-06-26"
-link: "https://www.imdb.com/title/tt2674426"
-categories: [ "draft", "movies" ]
-title: "Como Eu Era Antes de Você"
+categories:
+- draft
+- movies
+date: '2016-06-26'
+link: https://www.imdb.com/title/tt2674426
+title: Como Eu Era Antes de Você
 ---
+
 Bonitinho, britânico, meh. Emilia Clarke com certeza já esteve melhor. Uma das protagonistas da série Game of Thrones e a Sarah Connor do último Exterminador do Futuro, o uso sintomático de suas sobrancelhas fornece simpatia nessa comédia romântica que lida com um interesse amoroso tetraplégico.
 
 E contém muitas poucas piadas perto do muitíssimo melhor Intocáveis.

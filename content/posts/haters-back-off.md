@@ -1,9 +1,12 @@
 ---
-date: "2016-12-04"
-link: "https://www.imdb.com/title/tt5467814"
-categories: [ "draft", "series" ]
-title: "Haters Back Off!"
+categories:
+- draft
+- series
+date: '2016-12-04'
+link: https://www.imdb.com/title/tt5467814
+title: Haters Back Off!
 ---
+
 É difícil saber o que esperar dessa série de humor da Netflix. Ela oferece personagens que são sobrenaturalmente estúpidos. Mas, ao mesmo tempo, é tentador tentar entender a mente de pessoas tão estúpidas interagindo, especialmente se essas pessoas possuem uma visão tão fechada sobre o mundo e pretendem ganhá-lo, elevando à fama a garota mais midada da casa: Miranda Sings (o nome veios antes da fama, para saberem que o que ela faz no YouTube é cantar). Se os personagens são estúpidos, e alguns deles possuem atuações dignos de nota, eu arrisco dizer que nada disso é relevante se você não olhar para o desempenho de Colleen Ballinger e constatar: esse projeto nasceu nessa performance. Quer dizer... o que é isso?
 
 Ballinger consegue entonar seu nariz ao nível do ridículo sem soar exagerada além do que seu personagem propõe. Isso porque Miranda Sings é realmente idiota, não possui talento nem carisma. Mas possui algo que dizem que leva qualquer pessoa ao sucesso: força de vontade. Ela, assim como seu igualmente estúpido tio, acreditam em uma série de passos que irá levar Miranda aos holofotes mais potentes. E o primeiro passo, naturalmente, é gravar um vídeo e publicá-lo no YouTube.

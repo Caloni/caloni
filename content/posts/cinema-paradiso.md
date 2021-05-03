@@ -1,9 +1,11 @@
 ---
-date: "2020-05-10"
-link: "https://www.imdb.com/title/tt0095765"
-categories: [ "movies" ]
-title: "Cinema Paradiso"
+categories:
+- movies
+date: '2020-05-10'
+link: https://www.imdb.com/title/tt0095765
+title: Cinema Paradiso
 ---
+
 Este era meu filme favorito absoluto na época do video-cassete. Já o assisti no cinema e em casa. Devo ter visto umas sete vezes, e duas a versão estendida, que não recomendo. Ela foi a versão exibida inicialmente nos cinemas, mas depois de fracassar com o público, prestes a ser levado a Cannes, os produtores decidiram fatiar meia-hora de projeção e entregar um resultado mais ambíguo, mais parecido com a vida real, onde os amores da juventude se vão e nunca mais voltam. O resultado é conciso e coerente com um arco dramático que presta uma homenagem ao Cinema Italiano, e de certa forma ao cinema como um todo, como nenhum outro filme jamais arriscou. Porém, seu terceiro ato é melancólico e pode ferir as almas mais doces. É um filme que apela para a emoção mais primitiva, mas com um pé no chão fica mais difícil de voar.
 
 Este é o segundo longa do cineasta siciliano Giuseppe Tornatore e já vemos tudo o que precisamos ver em seu estilo neste filme. Bruto, mas apaixonado, Tornatore não ignora suas raízes, mas as exalta, e se trabalhos mais "recentes" como Baarìa - A Porta do Vento demonstram com exatidão seu sentimento megalomaníaco por trás da produção e direção, sempre disposto a elevar seus trabalhos ao nível de épico, não importando quanto dinheiro estiver à disposição, em Paradiso o dinheiro e o produtor Franco Cristaldi o mantém sob controle, e com isso lhe entrega prêmios por todo o mundo, incluindo Cannes e Oscar, unindo tanto o lado crítico quanto comercial de um projeto que parece encantador à primeira vista, mas em revisitas percebemos que ele também é muito difícil de ser degustado seriamente, pelos seus contornos complexos que a vida pode ser intepretada à luz do cinema.

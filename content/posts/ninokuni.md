@@ -1,9 +1,12 @@
 ---
-date: "2020-03-10"
-link: "https://www.imdb.com/title/tt9760504"
-categories: [ "draft", "movies" ]
-title: "Ninokuni"
+categories:
+- draft
+- movies
+date: '2020-03-10'
+link: https://www.imdb.com/title/tt9760504
+title: Ninokuni
 ---
+
 Uma animação dos Estúdios Ghibli recente, com distribuição Warner e Netflix. Os animadores juntam algumas cenas com computação para aumentar a resolução e construir exércitos de clones. O resultado é pavoroso. Felizmente são apenas alguns momentos.
 
 Este filme é baseado em um vídeo game. Sua história é confusa e sem sentido, mas podemos ver suas origens em um Sword Art Online para adolescentes agitados. Também lembra e referencia o clássico D&D, ou Caverna do Dragão para os brazucas, com seu vilão que realiza morph com criaturas horrendas.

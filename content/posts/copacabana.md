@@ -1,9 +1,11 @@
 ---
-date: "2011-10-11"
-link: "https://www.imdb.com/title/tt1454910"
-categories: [ "movies" ]
-title: "Copacabana"
+categories:
+- movies
+date: '2011-10-11'
+link: https://www.imdb.com/title/tt1454910
+title: Copacabana
 ---
+
 O novo trabalho do diretor-roteirista Marc Fitoussi faz um paralelo entre o estado de espírito de uma pessoa e o lugar onde esta vive. Para chegar a seus objetivos, rege de maneira impecável uma história em que as apostas que uma pessoa precisa fazer para chegar aonde quer não estão relacionadas com sua situação aparente, mas muito mais com seu estado interior e sua capacidade de transformar o mundo ao seu redor.
 
 Esta é a história de Baubou (Isabelle Huppert), uma mãe que vive feliz de acordo com seus valores, mas descobre que não corresponde aos anseios da filha (Lolia Chammah), que dá muito mais valor às convenções sociais, tanto que acaba por colocar a própria mãe em segundo plano. Desacreditada, Baubou precisa provar para ela seu valor, e para isso arruma um emprego em lugar distante para refazer sua vida. Enquanto isso, a filha planeja seu próprio casamento, mentindo para seus sogros que sua mãe se encontra em uma viagem pelo Brasil, e que não conseguirá voltar para a cerimônia.

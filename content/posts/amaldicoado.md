@@ -1,9 +1,11 @@
 ---
-date: "2015-06-07"
-link: "https://www.imdb.com/title/tt1528071"
-categories: [ "movies" ]
-title: "Amaldiçoado"
+categories:
+- movies
+date: '2015-06-07'
+link: https://www.imdb.com/title/tt1528071
+title: Amaldiçoado
 ---
+
 Horns é uma fábula contada da forma mais banal possível: a investigação de um crime em uma cidadezinha. Passando por todos os clichês do gênero, a parte divertida é mais ou menos a metade do filme: observar a "maldade" inerente em todo e qualquer ser humano.
 
 Tendo como seu núcleo dramático a relação entre Ig (Daniel Radcliffe) e Merrin (Juno Temple), mas se estendendo a todos os seus amigos de infância, que não saíram da cidade e cresceram e se tornaram os adultos "esperados" de uma sequência em flashback onde estão todos juntos, o assassinato da garota por seu namorado é tido como certo desde o início, dadas as circunstâncias da noite em que foi morta. circunstâncias essas que o roteiro de Keith Bunin baseado no romance de Joe Hill vai contando aos poucos, sem pressa, o que serve pelo menos para manter o interesse médio durante todo o trajeto.

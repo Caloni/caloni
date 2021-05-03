@@ -1,10 +1,14 @@
 ---
-date: "2016-11-30"
-link: "https://www.imdb.com/title/tt4466490"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Sieranevada"
+categories:
+- draft
+- movies
+date: '2016-11-30'
+link: https://www.imdb.com/title/tt4466490
+tags:
+- cinemaqui
+title: Sieranevada
 ---
+
 Sieranevada faz jus à descrição do Cinema, a sétima arte, como mundo dos sonhos, ou onde se sonha acordado. A sinopse deste filme: espiamos a vida de uma grande família durante os preparativos de uma refeição que parece que nunca vai ocorrer. Se isso parece um pouco fora de foco pra você, trago duas observações, uma objetiva e outra subjetiva, que podem ser importantes na hora de assisti-lo: o filme tem quase três horas de duração; e um dos seus maiores defeitos é ser curto demais.
 
 A história começa com uma câmera que observa de longe um casal e sua filha se preparando para sair. Os barulhos da cidade abafam suas falas, que são ouvidas também de longe. Essa cena já nos prepara para um ritmo mais lento e contemplativo, e onde a curiosidade é o que move o espectador a todo momento. O que estão fazendo? Para onde vão? Por que deixaram o carro no meio da rua atrapalhando o trânsito? O diretor e roteirista Cristi Puiu é o narrador ativo desta história, já que sua câmera e os detalhes de sua trama são construídas de uma maneira autoral, sempre jogando com nossa percepção. No entanto, logo depois dessa cena e dos créditos iniciais que a cortam, temos uma abordagem que vai aos poucos nos levando para dentro da vida desta família e de todos seus parentes, que se reúnem na casa da mãe do marido para realizar um ritual pela morte de seu pai.

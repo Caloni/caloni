@@ -1,9 +1,12 @@
 ---
-date: "2019-04-20"
-link: "https://www.imdb.com/title/tt0367859"
-categories: [ "draft", "movies" ]
-title: "O Homem Que Copiava"
+categories:
+- draft
+- movies
+date: '2019-04-20'
+link: https://www.imdb.com/title/tt0367859
+title: O Homem Que Copiava
 ---
+
 A sinopse do IMDB diz assim: "André, relatively poor, falls in love with Silvia, a neighbor whom he spies with a telescope." Relatively poor é o que me chamou a atenção, pois isso diz muito sobre o filme. Que é relativamente excelente.
 
 É relativo porque enquanto sua primeira metade esbanja técnica narrativa visual o seu final vai se desenrolando por caminhos que ultrapassam o absurdo fácil demais para continuarmos no mesmo espírito de seu começo, que é ingênuo, mas ao mesmo tempo profundo. Caminhamos pela mente de André, este operador de máquina de fotocópia, e observamos o seu mundo através de seu ponto de vista, que é simples, humilde, e com conhecimento recortado dos vários relances que faz de todo o material que copia de outras pessoas todos os dias.

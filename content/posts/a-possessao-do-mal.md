@@ -1,10 +1,13 @@
 ---
-date: "2015-10-01"
-link: "https://www.imdb.com/title/tt2282016"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Possessão do Mal"
+categories:
+- movies
+date: '2015-10-01'
+link: https://www.imdb.com/title/tt2282016
+tags:
+- cinemaqui
+title: A Possessão do Mal
 ---
+
 Você já conhece a história: câmeras espalhadas pela casa; acontecimentos estranhos que vão aumentando a cada noite; os especialistas na arte de se comunicar com espíritos.
 
 Você até já conhece suas variantes: a família feliz com um final trágico; o cético que precisa de provas concretas de que algo está errado; os jump scares que agora usam a câmera subjetiva para assustar.

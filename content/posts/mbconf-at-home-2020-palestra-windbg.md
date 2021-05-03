@@ -1,9 +1,11 @@
 ---
-date: "2020-04-18"
-link: "https://www.papobinario.com.br/v1/"
-categories: [ "code" ]
-title: "Minha Palestra Sobre Windbg"
+categories:
+- code
+date: '2020-04-18'
+link: https://www.papobinario.com.br/v1/
+title: Minha Palestra Sobre Windbg
 ---
+
 A MBConf@Home2020 foi um sucesso. Parabéns aos organizadores, palestrantes e apoiadores. Eu nunca fui em um evento de tecnologia em que tudo funcionou do começo ao fim. Simplesmente fantástico o nível de qualidade da organização. Fora que trezentas pessoas ficaram em casa e participaram conosco dessa troca de conhecimento =).
 
 Minha palestra foi a seguinte: dei uma pincelada no que é o WinDbg para os que ainda não conhecem e realizei algumas manobras pouco usuais de depuração, tentando fugir um pouco da rotina do programador e me enfiando no que seriam minhas sessões antigas de hacking ou cracking da época que analisava trojans ou depurava serviços que saíam depois que meu depurador remoto já tinha ido embora. Segue mais ou menos o roteiro e os pontos levantados.

@@ -1,9 +1,12 @@
 ---
-date: "2018-12-26"
-link: "https://www.imdb.com/title/tt7608238"
-categories: [ "draft", "series" ]
-title: "Wanderlust"
+categories:
+- draft
+- series
+date: '2018-12-26'
+link: https://www.imdb.com/title/tt7608238
+title: Wanderlust
 ---
+
 Wanderlust é o primeiro trabalho recente que conheço que tenta abordar relacionamentos abertos de uma maneira mais madura, mais dramática. Ou pelo menos a primeira metade dessa série começa a delinear o assunto dessa maneira. Focado na terapeuta de casais Joy (Toni Collette), a série com apenas seis episódios tenta também explorar os relacionamentos de outros personagens (para não dizer todos). É uma tentativa de ampliar um dos subtemas vistos em Beleza Americana que se sabota da metade para o final.
 
 O que acontece com a moral americana? Monogâmica até as últimas consequências, vendendo a ideia do casamento como algo sagrado, a série nos apresenta a tentativa dos quarentões Joy e seu marido Alan (Steven Mackintosh) em apimentar novamente o casamento. Com dois filhos já adolescentes e uma filha adulta, ou seja, com a "missão cumprida", o sexo não dá mais prazer a Joy e soa como um incômodo para Alan. Um acaba traindo o outro e em uma conversa madura a respeito decidem manter as saídas casuais para "ver no que dá".

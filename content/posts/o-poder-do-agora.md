@@ -1,9 +1,12 @@
 ---
-date: "2015-06-29"
-link: "/text/o-poder-do-agora.txt"
-categories: [ "draft", "books" ]
-title: "O Poder do Agora"
+categories:
+- draft
+- books
+date: '2015-06-29'
+link: /text/o-poder-do-agora.txt
+title: O Poder do Agora
 ---
+
 "Embora eu continuasse vivendo normalmente, tinha percebido que nada que eu viesse a fazer poderia mudar realmente a minha vida. Eu já tinha tudo de que necessitava."
 
 Essa é a moral por trás de O Poder do Agora, livro de Eckhart Tolle que mistura filosofia e uma pitada de religião em prol do bem-estar do ser humano. Não que ele use muita religião, e se usa, é mais para o lado budista/asiático dos monges tibetanos: aprendendo a se libertar de sua mente. Ele adequa essa filosofia ao cristianismo e chama mais adeptos para a iluminação independente de seu profeta ou deus.

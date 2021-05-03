@@ -1,10 +1,14 @@
 ---
-date: "2020-03-08"
-link: "https://www.imdb.com/title/tt6523720"
-categories: [ "draft", "movies", ]
-tags: [ "cinemaqui"  ]
-title: "Terremoto"
+categories:
+- draft
+- movies
+date: '2020-03-08'
+link: https://www.imdb.com/title/tt6523720
+tags:
+- cinemaqui
+title: Terremoto
 ---
+
 Terremoto é sobre o sensível balanço entre nossas vidas em ordem e o caos violento da natureza com que temos que conviver. Seria este um alerta ecológico ou um filme-catástrofe? Ele consegue ser os dois, e evita tomar um caminho ou outro por definitivo. E esse é o seu valor, que se mede pela quantidade de passos de distância dos filmes-catástrofe norte-americanos.
 
 Isso porque, no fundo, se ele tentar se explicar demais o que pretende acabará por trair a própria premissa de sua história, que é abraçar a imprevisibilidade de nossas vidas, algo que nunca temos em filme de Hollywood, em que temos certeza que a família nuclear, apesar de passar por uns perrengues, sairá ilesa no último minuto. Em Terremoto essa certeza é posta em xeque de uma maneira brutal.

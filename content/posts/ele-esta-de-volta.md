@@ -1,9 +1,12 @@
 ---
-date: "2016-04-16"
-link: "https://www.imdb.com/title/tt4176826"
-categories: [ "draft", "movies" ]
-title: "Ele Está de Volta"
+categories:
+- draft
+- movies
+date: '2016-04-16'
+link: https://www.imdb.com/title/tt4176826
+title: Ele Está de Volta
 ---
+
 Um filme que corre o risco de ser apenas alemão. Falado em alemão, dirigido na Alemanha (Berlim) e com uma figura "popular" cujo significado de "diabólico" se tornou universal, mas só o povo que o gerou, décadas depois de doutrinação em escola pública, "conhece" de fato, Ele Está de Volta tenta ser uma comédia com fundo de moral, utilizando Adolf Hitler como um mero joguete, além de um fiapo de roteiro que utiliza a voz da televisão (e da internet) como o novo arsenal político. Um filme feito pela esquerda para a esquerda, que acredita piamente que o nazismo é de extrema direita e que só o lado direito está recheado de agressão e perversão.
 
 E, é claro, é um filme para defender os pobres imigrantes.

@@ -1,9 +1,11 @@
 ---
-date: "2013-05-17"
-link: "https://www.imdb.com/title/tt2925942"
-categories: [ "movies" ]
-title: "O Que Se Move"
+categories:
+- movies
+date: '2013-05-17'
+link: https://www.imdb.com/title/tt2925942
+title: O Que Se Move
 ---
+
 Montador de [Trabalhar Cansa] (2011, Marco Dutra e Juliana Rojas), uma das mais agradáveis surpresas daquele ano no Cinema Nacional, Caetano Gotardo estreia na direção desse filme quase experimental. Quase, pois as nuances inseridas em suas três historietas trágicas e casuais criam uma dimensão emotiva que não pode ser ignorada. O detalhe mais marcante são as canções entoadas pelos seus próprios atores (não se preocupe quem não gosta de musicais, pois existem apenas três momentos). Nesse sentido, talvez o tempo de experiência na montagem tenha feito uma diferença notável em sua percepção da realidade (aqui a montagem é assinada por outra pessoa, não achei seu nome depois , mas a direção, montagem e até a composição das canções principais são de sua autoria).
 
 Portanto, por mais inconsequentes e despretensiosas que sejam os três episódios, há um crescente emotivo envolvente, ainda que sua primeira história inicial pareça não se esforçar para isso. Podemos dizer que o choque inicial ao final do primeiro episódio seja o estopim necessário para que enxerguemos o que está sendo proposto, e mesmo com seus defeitos (como os diálogos pavorosos, propositais ou não) cumpre bem o que se propõe. Dito isso, ouvir a mãe cantar uma música sem rimas, sem ritmo e sem propósito nenhum a não ser estabelecer o óbvio (explicar o que ocorreu com o filho com a carga dramática de uma mãe embutida) se torna um guia necessário para entendermos o que está acontecendo diante de nós.

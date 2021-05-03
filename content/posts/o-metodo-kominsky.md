@@ -1,9 +1,12 @@
 ---
-date: "2018-12-08"
-link: "https://www.imdb.com/title/tt7255502"
-categories: [ "draft", "series" ]
-title: "O Método Kominsky"
+categories:
+- draft
+- series
+date: '2018-12-08'
+link: https://www.imdb.com/title/tt7255502
+title: O Método Kominsky
 ---
+
 Essa nova criação de Chuck Lorre (Big Bang: a Teoria, Dois Homens e Meio) consegue elencar os excelentes Michael Douglas e Alan Arkin em plena forma, mas não parece dar lhes personagens dignos de suas performances. A série não parece muito certa de si se pretende seguir uma linha mais humorística ou dramática. Com certeza não consegue fazer os dois. Isso é para poucos, e do jeito que está o piloto já parece uma bagunça.
 
 Douglas faz um professor de atuação com seu próprio método, que leva seu sobrenome e que vira o título da série. Não está muito claro qual seu arquétipo: ele é um perdedor que se alimenta de alunas? Talvez. Mas ele parece um ótimo professor quando o vemos ensinando uma delas a atuar sendo ela mesma. Então não cabe a comédia.

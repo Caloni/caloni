@@ -1,10 +1,14 @@
 ---
-date: "2017-10-20"
-link: "https://www.imdb.com/title/tt6322922"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Uma Verdade Mais Inconveniente"
+categories:
+- draft
+- movies
+date: '2017-10-20'
+link: https://www.imdb.com/title/tt6322922
+tags:
+- cinemaqui
+title: Uma Verdade Mais Inconveniente
 ---
+
 Se você já viu Uma Verdade Inconveniente, Oscar de melhor documentário de 2006, provavelmente vai se sentir em casa com essa continuação. Ela é espalhafatosa, desinformativa e um apelo à emoção. Mas isso não é nenhuma novidade para você. Conhecida por jogar números estatísticos como forma de combate, o folheto de propaganda na forma de documentário continua balançando ao vento para quem quiser e quem não quiser ver. E como os voluntários de programas sociais que vemos na Avenida Paulista, há a sensação que mais do mesmo não irá resolver o problema. Exceto que agora a calçada ficou um pouco menos agradável de se andar.
 
 Quem segura esse folheto firme nas mãos é Al Gore. Há quarenta anos. Ele fala efusivamente para quem estiver disposto a ouvir. Ele levanta o tom, usa diversas formas de dizer a mesma coisa, apresenta gráficos, fotos e vídeos de desastres naturais. Nada parece muito convincente. Exceto pelos rostos da plateia, capturadas em harmonia com seu discurso alarmista. Os rostos sorriem, choram, balançam as cabeças e se inclinam nas cadeiras de mais algum auditório ao redor do globo. Quando Al Gore se exalta um pouco seguem os aplausos. A ode à emoção é linda de se ver quando não precisamos pensar muito a respeito.

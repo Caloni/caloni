@@ -1,10 +1,13 @@
 ---
-date: "2015-01-08"
-link: "https://www.imdb.com/title/tt2650414"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Amor, Plástico e Barulho"
+categories:
+- movies
+date: '2015-01-08'
+link: https://www.imdb.com/title/tt2650414
+tags:
+- cinemaqui
+title: Amor, Plástico e Barulho
 ---
+
 "O sucesso é um copinho de plástico bem vagabundo", diz Jaqueline, uma dançarina de música brega rumo à decadência. O copinho dela já foi usado por um certo tempo e está prestes a ser jogado fora, mas olhando para sua intérprete, a ótima Maeve Jinkings (O Som ao Redor), o que vemos é um misto de desespero e ousadia pela vida nos palcos. Esse copinho, por mais descartável e efêmero que seja, contém uma substância altamente viciante.
 
 Maior prova disso é sua recém-companheira de palco, Shelly (Nash Laila). Mesmo convivendo com Jaque em suas crises de saúde cada vez mais recorrentes, seus sonhos continuam intactos. A primeira cena do filme são as duas indo vomitar no banheiro, em fila, quase como uma espécie de ciclo da vida.

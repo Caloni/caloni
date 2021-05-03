@@ -1,10 +1,14 @@
 ---
-date: "2019-06-24"
-link: "https://www.imdb.com/title/tt9016296"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Boas Intenções"
+categories:
+- draft
+- movies
+date: '2019-06-24'
+link: https://www.imdb.com/title/tt9016296
+tags:
+- cinemaqui
+title: Boas Intenções
 ---
+
 Se refletirmos profundamente sobre nossas ações, surge uma inquietante questão: o quanto somos quebrados por dentro. Em Boas Intenções os refugiados são apenas pano de fundo para um estudo de personagem que acaba se tornando muito comum em nossa sociedade contemporânea cheia de desigualdades a nível global: os que ajudam os mais necessitados não para se sentirem bem, mas que precisam ajudar para não se sentirem imprestáveis.
 
 Essa é a história de Isabelle (Agnès Jaoui), uma mulher que vive para ajudar os mais necessitados. Ela conheceu seu marido em uma missão da ONU na guerra da Bósnia e agora com os filhos adolescentes os refugiados em Paris viram um prato cheio para essa professora de francês que ensina seu idioma aprendido na prática através de um programa social da escola onde trabalha. O problema que o filme mostra é o quão obcecada Isabelle está em ajudar essas pessoas e jogar a culpa da miséria alheia nos outros, enquanto isso é a ausente da família, de seus filhos e marido. Quando ela está presente é para falar apenas de seus alunos e de suas tarefas extra-curriculares para ajudá-los, momento onde geralmente ela perde as estribeiras ao descobrir que ninguém mais está realmente preocupado com isso.

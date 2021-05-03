@@ -1,8 +1,11 @@
 ---
-date: "2018-06-25"
-categories: [ "draft", "books" ]
-title: "As Portas da Percepção, de Aldous Huxley"
+categories:
+- draft
+- books
+date: '2018-06-25'
+title: As Portas da Percepção, de Aldous Huxley
 ---
+
 As Portas da Percepção é um (ou dois) ensaio do escritor Aldous Huxley que descreve com uma precisão poética os efeitos do uso da droga conhecida como mescalina, e se você tem vergonha na cara já deve ter se lembrado desse nome citado nas inúmeras vezes que assistir ao filme The Matrix. Quando Neo recebe uma visita que o acorda ("the white rabbit") ele ainda parece estar dormindo. Sua visita e cliente conhece esse efeito: "mescalina! A melhor maneira de voar". Aparentemente o Sr. Huxley voou bem alto em certo momento da vida.
 
 O livro é curto, mas possui muitas distrações e comparações pela história da humanidade, que tentam de maneira completamente aleatória ligar o uso de drogas que ampliam a consciência do mundo com rituais das mais diferentes tribos pelo mundo e pelo resultado dos mais diferentes artistas, sobretudo os pintores. Por ser unicamente em modo texto o leitor precisa ter um conhecimento invejável da História da Arte ou merecíamos uma edição ilustrada para entender melhor o que o Sr. Huxley quer nos dizer.

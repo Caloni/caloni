@@ -1,10 +1,14 @@
 ---
-date: "2019-10-24"
-link: "https://www.imdb.com/title/tt7037712"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Dinamarca"
+categories:
+- draft
+- movies
+date: '2019-10-24'
+link: https://www.imdb.com/title/tt7037712
+tags:
+- cinemaqui
+title: Dinamarca
 ---
+
 Tempos difíceis geram homens fortes; homens fortes geram tempos fáceis; tempos fáceis geram homens molengas; homens molengas geram tempos difíceis. "Dinamarca" é uma história que se passa em nossos tempos difíceis e com um de seus homens molengas, um homem que não fará nada a respeito de sua própria vida exceto tentar se manter sendo servido por alguém.
 
 Contado como uma comédia que vai se tornando dramática, o roteiro por Jeff Murphy começa contando a história de Herb (Rafe Spall), um homem que perdeu seu benefício de saúde por não estar mais doente. Com inteligência limitada, Herb não se lembra qual foi a última vez que tinha um emprego. Não por acaso, ele tem um filho que não mora com ele e o ignora. A única coisa boa que aprendemos deste homem é que aparentemente ele conserta qualquer eletrodoméstico, quase como que por mágica.

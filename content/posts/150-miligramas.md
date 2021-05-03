@@ -1,10 +1,14 @@
 ---
-date: "2017-08-21"
-link: "https://www.imdb.com/title/tt5247544"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "150 Miligramas"
+categories:
+- draft
+- movies
+date: '2017-08-21'
+link: https://www.imdb.com/title/tt5247544
+tags:
+- cinemaqui
+title: 150 Miligramas
 ---
+
 Há uma tendência atual do cinema francês em explorar casos que estabelecem de maneira caricata a dualidade clichê "mocinhos versus bandidos". E em "150 Miligramas", mais uma vez, o bandido é uma fabricante de medicamentos (uma corporação), e o mocinho é alguém que luta contra um sistema cruel nascido das duas próprias preocupações com a famigerada "saúde pública" francesa.
 
 O que se torna o ambiente perfeito para a construção de dramas com essa temática. Todos devem se lembrar que a "guerra romântica contra o sistema" nasce nas democracias mais precárias, nas repúblicas que possuem mais bananas, e Brasil e França nesse quesito são irmãs. Pela ânsia de poder, políticos patrocinam facilmente histórias cuja conclusão moral parece ser sempre "precisamos de mais controle". E mais dinheiro, claro.

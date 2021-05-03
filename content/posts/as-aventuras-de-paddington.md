@@ -1,9 +1,11 @@
 ---
-date: "2014-12-10"
-link: "https://www.imdb.com/title/tt1109624"
-categories: [ "movies" ]
-title: "As Aventuras de Paddington"
+categories:
+- movies
+date: '2014-12-10'
+link: https://www.imdb.com/title/tt1109624
+title: As Aventuras de Paddington
 ---
+
 É uma espécie de Pequeno Stuart Little britânico para ursos. A consequência de ser um filme mais recente são os efeitos que tornam um pequeno urso falante algo natural em praticamente todas as cenas que ele aparece com humanos.
 
 A história é que uma família de ursos vivia feliz em uma floresta no Peru até que um terrível terremoto mata os pais de um pequeno urso, que agora fica sem lar. A sua avó está velha demais para cuidar dele, mas ele merece uma segunda chance na vida, e é por isso que ela o coloca em um navio para Londres. Quando chega todos pensam que é um mendigo e o ignoram o dia inteiro (a relação com imigrantes ilegais, um problema na cidade, não parece acidental).

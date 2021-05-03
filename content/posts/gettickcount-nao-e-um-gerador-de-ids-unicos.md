@@ -1,8 +1,11 @@
 ---
-date: "2012-06-25"
+categories:
+- draft
+- blog
+date: '2012-06-25'
 title: GetTickCount não é um gerador de IDs únicos
-categories: [ "draft", "blog" ]
 ---
+
 Muitas vezes uma solução intuitiva não é exatamente o que esperamos que seja quando o código está rodando. Gerar IDs únicos, por exemplo. Se você analisar por 5 minutos pode chegar à conclusão que um simples GetTickCount, que tem resolução de clock boa e que se repete apenas depois de 50 dias pode ser um ótimo facilitador para gerar IDs exclusivos durante o dia.
 
 [![](http://i.imgur.com/buOxKgQ.jpg)](/images/TimeTravel.jpg)

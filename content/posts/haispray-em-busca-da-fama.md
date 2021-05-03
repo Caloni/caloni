@@ -1,9 +1,11 @@
 ---
-date: "2012-05-14"
-link: "https://www.imdb.com/title/tt0427327"
-categories: [ "movies" ]
-title: "Hairspray: Em Busca da Fama"
+categories:
+- movies
+date: '2012-05-14'
+link: https://www.imdb.com/title/tt0427327
+title: 'Hairspray: Em Busca da Fama'
 ---
+
 Há uma mensagem muito bela em Hairspray, sobre o fim da guerra inter-racial ocorrida nos EUA na década de 60. Aliada a danças empolgantes e teatrais, nos leva a concluir tristemente que sua moral pertence ao mundo dos sonhos, da dança. E é na dança que está a maior virtude e o maior defeito desse filme.
 
 Ao empolgar pelas performances saudosas e vigorosas de personagens vindos de um filme dos anos 80 imitando a época dos anos 60, o musical perde ainda mais seu contato com o público. A trama principal, sabemos ser tão irreal quanto as cores pastéis estilizadas para os cenários, os figurinos e a maquiagem dos personagens. Até mesmo John Travolta, apesar de toda a técnica envolvida em transformá-lo em uma quarentona enorme servir apenas para ilustrar a bizarrice de uma história sem muito embasamento.

@@ -1,9 +1,11 @@
 ---
-date: "2015-08-07"
-link: "https://www.imdb.com/title/tt2581244"
-categories: [ "movies" ]
-title: "Vida Após Beth"
+categories:
+- movies
+date: '2015-08-07'
+link: https://www.imdb.com/title/tt2581244
+title: Vida Após Beth
 ---
+
 Esse é um horror/trash-drama com grandes dificuldades em dizer quando devemos sentir algo e quando devemos dar risada. Seu momento máximo envolve as montanhas, um rádio e um fogão. Zumbis ainda podem render diferentes tons de filmes, mas nunca passarão de homenagens incidentais a George Romero.
 
 No caso dessa estreia dirigida por Jeff Baena, a dupla Aubrey Plaza e Dane DeHaan fazem os papéis de Beth e Zach. Ambos brigaram e se separaram logo antes de Beth falecer. Como é de se esperar pelo "ótimo" trocadilho do título (Life After Beth, em vez de Death, morte), a jovem ressurge dos mortos e seus pais tentam mantê-la em sua vida como antes, embora Zach insista em trazer à tona o fato dela ter morrido.

@@ -1,10 +1,14 @@
 ---
-date: "2018-03-20"
-link: "https://www.imdb.com/title/tt7697854"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Amarra Seu Arado em Uma Estrela"
+categories:
+- draft
+- movies
+date: '2018-03-20'
+link: https://www.imdb.com/title/tt7697854
+tags:
+- cinemaqui
+title: Amarra Seu Arado em Uma Estrela
 ---
+
 Amarra Seu Arado a Uma Estrela é um singelo documentário de Carmen Guarini, discípula do documentarista Fernando Birri, e se torna imperdível conforme observamos que este é um filme onde é possível aprender um pouco do modus operandi de Birri em fazer seus próprios filmes e, mais importante, aprender um pouco quem era este ser humano que amava a vida e questionava a todo momento a essência do ser.
 
 Mesmo não querendo soar didática, o filme de Carmen acompanha Birri durante seu projeto "Che: muerte de la utopia?" (1999), onde o cineasta pretendia buscar no aniversário de 30 anos da morte de Che Guevara uma reflexão das pessoas sobre o que seria utopia, e se ela é importante hoje em dia. Explorando mais as conversas de Birri com seus entrevistados antes de realizar a filmagem propriamente dita, algo curioso ocorre: as filmagens de Carmen, que parecia nunca largar a câmera, conseguiam tanto extrair a opinião do entrevistado quanto a maneira usada pelo seu tutor para direcionar sua "história", de maneira a não ser um roteiro completamente manipulativo, mas também não descambar completamente para o improviso e correr o risco de revelar testemunhos que juntos não teriam consistência narrativa necessária.

@@ -1,9 +1,11 @@
 ---
-date: "2017-03-14"
-title: "Mastery: The Keys to Success and Long-Term Fulfillment"
-categories: [ "draft", "reading" ]
-
+categories:
+- draft
+- reading
+date: '2017-03-14'
+title: 'Mastery: The Keys to Success and Long-Term Fulfillment'
 ---
+
 O livro de George Leonard é um curto e didático passeio através dos mistérios que tornam o ser humano cada vez mais habituado ao seu "eudaimonia" aristotélico, ou seja, o estado de plenitude do ser que está ao alcance de todos que se derem a liberdade da melhora contínua em qualquer coisa que fizermos nesse mundo.
 
 Ele parte do princípio que para melhorarmos em qualquer aspecto de nossa vida, seja uma habilidade em um esporte ou na cozinha ou até na faxina, é necessário amar a prática do dia-a-dia e se esforçar de vez em quando para atingir cada vez níveis mais altos, em uma graduação torta, mas constante, de auto-melhora progressiva e agradável. Seria a síntese da vida no próprio conceito aristotélico, onde a virtude do ser humano está em atingir a perfeição de cada uma de suas virtudes e tentar sempre manter-se em equilíbrio.

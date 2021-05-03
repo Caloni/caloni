@@ -1,9 +1,12 @@
 ---
-date: "2015-11-28"
-link: "https://www.imdb.com/title/tt3205802"
-categories: [ "draft", "series" ]
-title: "How to Get Away with Murder - Primeira Temporada, Episódios 1 ao 3"
+categories:
+- draft
+- series
+date: '2015-11-28'
+link: https://www.imdb.com/title/tt3205802
+title: How to Get Away with Murder - Primeira Temporada, Episódios 1 ao 3
 ---
+
 Assisti alguns episódios deste que parece ser aquelas séries que causam sensação, talvez pelo seu final. O detalhe é que não importa como, todo novo episódio parece querer voltar nas mesmíssimas cenas finais, onde os estudantes de direito se metem em um assassinato e precisam... adivinhem? Lavar suas mãos.
 
 Sem muita originalidade sequer na escola desses estudantes, o herói dessa empreitada, o jovem entusiasta Web Giggins (Alfred Enoch), é escolhido pelo seu empenho, apesar de até então não ter estudado muito nas aulas de Annalise Keating (Viola Davis), a professora que oferece prêmios baseado no desempenho de seus alunos em casos reais que analisam. Não faz muito sentido esse nível de aproximação dos estudantes de casos reais, mas faz muito menos casos de homicídio, muitas vezes noticiado na mídia (e que esses casos aconteçam tão frequentemente).

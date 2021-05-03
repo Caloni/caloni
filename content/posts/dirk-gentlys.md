@@ -1,9 +1,13 @@
 ---
-date: "2017-01-01"
-link: "https://www.imdb.com/title/tt4047038"
-categories: [ "draft", "series" ]
-title: "Dirk Gently's Holistic Detective Agency - Primeira Temporada, Episódios 1 ao 3"
+categories:
+- draft
+- series
+date: '2017-01-01'
+link: https://www.imdb.com/title/tt4047038
+title: Dirk Gently's Holistic Detective Agency - Primeira Temporada, Episódios 1 ao
+  3
 ---
+
 Tudo que é britânico eu já tenho meu preconceito que diz que vai ser bom. Agora, tudo que é humor britânico, eu tenho minhas certezas.
 
 Criado por Max Landis e escrito e baseado no livro de Douglas Adams, a história segue muito outro grande trabalho de Adams, O Guia do Mochileiro das Galáxias, onde o caminho é muito mais essencial que o destino. Sendo uma representação bem-humorada da própria vida, a história gira em torno da investigação de um crime em um hotel cujas pistas envolvem desde animais selvagens a domésticos, passando por situações ilógicas e viagens no tempo. Este parece ser um remake ou uma expansão de outro trabalho de 2010-12 (este sim verdadeiramente britânico).

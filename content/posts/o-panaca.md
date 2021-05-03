@@ -1,9 +1,11 @@
 ---
-date: "2013-11-27"
-link: "https://www.imdb.com/title/tt0079367"
-categories: [ "movies" ]
-title: "O Panaca"
+categories:
+- movies
+date: '2013-11-27'
+link: https://www.imdb.com/title/tt0079367
+title: O Panaca
 ---
+
 Uma comédia pode fazer rir pelo absurdo de suas situações e/ou personagens, como bem lembramos de Debi e Lóide. No entanto, a comédia estrelada por Jim Carrey está longe de ser a precursora dessa ideias do personagem idiota. Há algo muito mais essencial, didático e até filosófico nO Panaca de Steve Martin.
 
 O roteiro, escrito por Martin e Carl Gottlieb (de Tubarão), não se preocupa em ser brilhante. Apenas conduz o protagonista com sérias limitações mentais pelo mundo, pois percebe ser a maneira mais eficaz de o conhecer. O fato de nem parecer existir um roteiro é o que o torna mais elegante.

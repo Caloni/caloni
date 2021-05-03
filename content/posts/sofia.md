@@ -1,10 +1,14 @@
 ---
-date: "2018-10-18"
-link: "https://www.imdb.com/title/tt8296592"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Sofia"
+categories:
+- draft
+- movies
+date: '2018-10-18'
+link: https://www.imdb.com/title/tt8296592
+tags:
+- cinemaqui
+title: Sofia
 ---
+
 "As pessoas conseguem se acostumar com tudo", um personagem diz em certo momento de Sofia, um filme que se você não parou pelo menos por alguns minutos para refletir após ter assistido, pense de novo. O personagem tem razão.
 
 Esse é daqueles filmes que brinca com nossas percepções de certo e errado. Ele vai fazer alguém que está predisposto a atacar culturas machistas a ter algumas boas surpresas em sua reviravolta final. Mas mais do que isso, vai nos fazer pensar em vários aspectos do que permeia nossa noção de moral e costumes, incluindo a questão das oportunidades na vida. Porém, principalmente, vai nos fazer rever a ideias que nós temos sobre o que é uma vítima.

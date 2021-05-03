@@ -1,8 +1,10 @@
 ---
-date: "2009-12-14"
-categories: [ "draft",  ]
-title: "Devaneio nerd rápido sobre aniversários"
+categories:
+- draft
+date: '2009-12-14'
+title: Devaneio nerd rápido sobre aniversários
 ---
+
 Hoje não é aniversário do blogue. É meu. Há exatos (sic) trinta anos nascia eu, essa pessoa que vos fala. Legal, não?
 
 Beeeem legal. Tão legal quanto saber que o núcleo de um átomo representa 99,9% de sua masssa ou que uma borboleta bate duzentas mil vezes a asa por hora (só chutando, eu não sei realmente).

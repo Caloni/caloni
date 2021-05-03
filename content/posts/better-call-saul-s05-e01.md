@@ -1,9 +1,12 @@
 ---
-date: "2020-03-02"
-link: "https://www.imdb.com/title/tt3032476"
-categories: [ "draft", "series" ]
-title: "Better Call Saul (S05 E01)"
+categories:
+- draft
+- series
+date: '2020-03-02'
+link: https://www.imdb.com/title/tt3032476
+title: Better Call Saul (S05 E01)
 ---
+
 Avançando no futuro e no passado, eis que chegamos ao momento que Jimmy se torna Saul. E não é nada glamoroso. Causa uma estranheza um advogado com ternos coloridos de tamanhos inadequados aparecer de repente, como uma borboleta defeituosa, com uma asa faltando, que surge do casulo.
 
 Mas a vida real é assim, e Better Call Saul eventualmente nos esfrega mais realidade do que a série de onde ele surgiu, Breaking Bad. Em meio à estética criada pela equipe do criador Vince Gilligan, a história se desenvolve aos poucos o que soa diferente, menos glamoroso, do que um homem comum se tornar um gênio do crime. É depressivo, melancólico. E humano.

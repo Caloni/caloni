@@ -1,9 +1,12 @@
 ---
-date: "2017-09-17"
-link: "https://www.imdb.com/title/tt0120338"
-categories: [ "draft", "movies" ]
-title: "Titanic"
+categories:
+- draft
+- movies
+date: '2017-09-17'
+link: https://www.imdb.com/title/tt0120338
+title: Titanic
 ---
+
 Vinte anos depois revejo este drama épico de James Cameron. Na época em que estava em cartaz assisti umas cinco vezes, então sabia de todos os movimentos de câmera e diálogos de cor. Mas o que torna este filme um exemplo de Cinema em seu máximo, mesmo sendo extremamente brega?
 
 Pra começar, seu lado piegas e clichê é abraçado sem ressalvas. O filme de fato acredita no amor incondicional entre dois jovens que se conheceram no navio, pertencentes a duas vidas diferentes, duas classes sociais diferentes. Isso não é convincente pelo realismo, mas pela fantasia, como em Diário de uma Paixão. É a lupa do impossível, do sonho, do romântico.

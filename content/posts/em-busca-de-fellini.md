@@ -1,10 +1,14 @@
 ---
-date: "2017-11-23"
-link: "https://www.imdb.com/title/tt4801232"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Em Busca de Fellini"
+categories:
+- draft
+- movies
+date: '2017-11-23'
+link: https://www.imdb.com/title/tt4801232
+tags:
+- cinemaqui
+title: Em Busca de Fellini
 ---
+
 Em Busca de Fellini é desses filmes que homenageiam grandes diretores tentando extrair um pouco de seu estilo. É claro que o resultado geralmente nunca atinge o brilhantismo do autor original. E nem é pra isso. E como homenagem, o filme de Taron Lexton consegue explorar tantas nuances do diretor italiano que o ponto mais impressionante do projeto é que tanto tempo se passou após seu último filme, e mesmo assim, o sonho da humanidade ainda parece continuar.
 
 Federico Fellini era um ilustrador que idealizou seus filmes com pouco roteiro e muita análise. Sobretudo humana. Para isso as emoções desempenharam um papel fundamental, e dificilmente você irá assistir um filme dele sem se deparar com sentimentos dúbios e amorais, que nos fazem pensar em como o ser humano é muito mais complexo do que a velha dualidade bem e mal. Sem maniqueísmos, mas cheio de fantasia, Fellini não era um surrealista, tampouco um realista. Ele era, como em um de seus ditados, um visionário. E hoje essa visão nos volta à lembrança na forma de mais um filme.

@@ -1,8 +1,11 @@
 ---
-date: "2007-08-01"
-title: "História da Linguagem C: Parte 1"
-categories: [ "ccpp", "code" ]
+categories:
+- ccpp
+- code
+date: '2007-08-01'
+title: 'História da Linguagem C: Parte 1'
 ---
+
 Confesso que adoro estudar sobre a história da linguagem C. Essa verdadeira adoração pela linguagem me fez estudar suas precursoras, como as linguagens BCPL e B. Posso dizer que todo esse conhecimento, no final das contas, valeu a pena. Hoje entendo muito melhor as decisões tomadas na criação da linguagem e, principalmente, a origem de algumas idiossincrasias e boas idéias que permaneceram até hoje.
 
 ![Esse distinto cavalheiro inglês é Martin Richards](/img/martin_richards.gif)

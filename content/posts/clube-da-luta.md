@@ -1,9 +1,12 @@
 ---
-date: "2019-02-15"
-link: "https://www.imdb.com/title/tt0137523"
-categories: [ "draft", "movies" ]
-title: "Clube da Luta"
+categories:
+- draft
+- movies
+date: '2019-02-15'
+link: https://www.imdb.com/title/tt0137523
+title: Clube da Luta
 ---
+
 Você já percebeu que em Clube da Luta o personagem de Edward Norton não tem nome? Nos créditos ele é conhecido como "O Narrador". Isso tem tanto a dizer sobre este pequeno clássico da contra-cultura mundial e americana que eu nem preciso me dar ao luxo de revelar qualquer spoiler sobre este filme. Apenas assista e entenda a mensagem que você quiser do velho blá-blá-blá sobre consumismo e dívidas. Ele é tão atual que há uma série inteira (Mr. Robot) sobre o plano do filme e foi filmado uma década antes da grande crise financeira mundial que vivemos. Ele é profético, auto-destrutivo e não há alguém que o assista sem se surpreender pelo menos em um ou dois momentos do filme. E cada um escolhe o seu primeiro e segundo momentos para explodir seu próprio cérebro.
 
 Dirigido pelo metódico e quase perfeccionista David Fincher (Garota Exemplar), que veio do mundo do videoclipe, este filme é daqueles em que um detalhe vai puxando o outro e quando vemos já se passou duas horas de pura adrenalina. Isso se deve tanto à sua história enxuta que usa de detalhes para mover o espectador a entender o que está acontecendo como seu próprio formato dinâmico e plástico, onde cada cena se torna automaticamente icônica. Há uma excelente trilha sonora, mas atores melhores ainda.

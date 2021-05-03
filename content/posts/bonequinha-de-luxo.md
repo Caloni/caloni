@@ -1,9 +1,11 @@
 ---
-date: "2011-11-29"
-link: "https://www.imdb.com/title/tt0054698"
-categories: [ "movies" ]
-title: "Bonequinha de Luxo"
+categories:
+- movies
+date: '2011-11-29'
+link: https://www.imdb.com/title/tt0054698
+title: Bonequinha de Luxo
 ---
+
 Curiosamente esse filme ficou conhecido como um clássico, ainda que tenha traços de um verdadeiro cult, tanto pela sua excentricidade quanto pela direção inusitada de Blake Edwards (A Pantera Cor de Rosa), que ilustra a vida de Holly Golightly de uma maneira quase surreal.
 
 Em Bonequinha de Luxo, no original "Café-da-manhã na Tiffany's", referenciando a joalheria que ela gostava de ir para se sentir melhor, o fato é que a protagonista hoje seria vista como uma garota de programa no melhor dos casos, mas a leveza da direção e dos diálogos transformam a história em uma comédia romântica leve (mais comédia) com alguns detalhes cafonas (como o brasileiro estereotipado e o final sentimental tantas vezes copiado hoje em dia no subgênero).

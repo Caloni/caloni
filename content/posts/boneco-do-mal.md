@@ -1,9 +1,12 @@
 ---
-date: "2016-09-11"
-link: "https://www.imdb.com/title/tt3882082"
-categories: [ "draft", "movies" ]
-title: "Boneco do Mal"
+categories:
+- draft
+- movies
+date: '2016-09-11'
+link: https://www.imdb.com/title/tt3882082
+title: Boneco do Mal
 ---
+
 Um terror que entende a problemática do medo do limite entre o real e a fantasia, Boneco do Mal busca em seu formato aproximar o espectador da loucura que o cerca, para apenas depois subverter essa ordem de volta para o real. Um trabalho digno de nota em comparação com tantos filmes do gênero que se passa em uma casa isolada com um passado macabro.
 
 Tudo começa com a vinda da nova babá do filho de um casal já idoso, a jovem, linda e atordoada Greta (Lauren Cohan). Ela tem um passado problemático com um ex, e eles têm um boneco de cerâmica que tratam como seu filho.

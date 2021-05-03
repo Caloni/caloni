@@ -1,8 +1,10 @@
 ---
-date: "2011-01-18"
-categories: [ "draft",  ]
-title: "Atividades extracurriculares"
+categories:
+- draft
+date: '2011-01-18'
+title: Atividades extracurriculares
 ---
+
 Essa é uma resposta a um simpático e-mail de um leitor, o Fabio, me perguntando sobre a tal da lógica (de programação?) e das atividades que um programador pode ter quando está longe do micro para não ficar com a "mente vadiando".
 
 Entusiasta ao máximo, ele montou uma lista baseada em estudo constante sob variadas formas, mesmo longe do micro:

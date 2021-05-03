@@ -1,9 +1,12 @@
 ---
-date: "2016-10-23"
-link: "https://www.imdb.com/title/tt0087469"
-categories: [ "draft", "movies" ]
-title: "Indiana Jones e o Templo da Perdição"
+categories:
+- draft
+- movies
+date: '2016-10-23'
+link: https://www.imdb.com/title/tt0087469
+title: Indiana Jones e o Templo da Perdição
 ---
+
 A continuação das aventuras de Indiana Jones é tudo aquilo que eu lembrava de quando era criança e muito mais. A trilha sonora de John William conserta o plágio de Star Wars; "Indy" ganha um jeito mais escrachado, bonachão e cínico; Jonathan Ke Quan é o melhor alívio cômico da década; e Steven Spielberg faz em 1984 o que George Miller fez em "Fury Road": um filme de ação quase que completamente sem pausa para respirar. Dado a distância de nossos tempos digitais, o feito de Spielberg (e George Lucas como produtor) parece ainda maior.
 
 Não à toa. Estamos falando de um filme clássico de ação, onde os efeitos são gerados com enquadramentos que enganam o ponto de vista do espectador (olhe a perseguição de carrinhos de mina), há "matte paittings" (fundos pintados à mão) charmosíssimos (a aldeia indiana sob a luz do luar), trilhas sonoras que precisam realizar o milagre de fazer acreditar (e o hino de John Williams cumpre o papel), interação real entre os atores (sem tela verde), uso de dublês aliado com uma edição rápida (Michael Kahn edita o filme com um ritmo frenético), emoção trazida pelo enredo que alia a exploração histórica da Índia com a exploração dos indianos poderosos da massa de miseráveis (e crianças!).

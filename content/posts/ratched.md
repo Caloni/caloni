@@ -1,9 +1,11 @@
 ---
-date: "2020-10-04"
-link: "https://www.imdb.com/title/tt7423538"
-categories: [ "series" ]
-title: "Ratched"
+categories:
+- series
+date: '2020-10-04'
+link: https://www.imdb.com/title/tt7423538
+title: Ratched
 ---
+
 Tudo é desculpa para fazer um filme ou série de streaming. Nesse caso é a personagem Enfermeira Mildred Ratched, do livro, peça e filme Um Estranho no Ninho, aquele protagonizado por Jack Nicholson e que cria uma das vilãs mais icônicas do cinema, a tal enfermeira.
 
 Essa figura ficou tão marcada que agora surge em uma reencarnação com a cara da Sarah Paulson, a conhecida atriz da série [American Horror Story]. Ela se especializou nessa persona maquiavélica, mas não há motivo, pois Paulson não sustenta uma figura violenta. Não mais do que uma representação do lesbianismo, por exemplo. Note como seus lábios se movem mais do que seus ombros e perceberá.

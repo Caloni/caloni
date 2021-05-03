@@ -1,9 +1,11 @@
 ---
-date: "2010-06-11"
-link: "https://www.imdb.com/title/tt1212436"
-categories: [ "movies" ]
-title: "Plano B"
+categories:
+- movies
+date: '2010-06-11'
+link: https://www.imdb.com/title/tt1212436
+title: Plano B
 ---
+
 O produtor e diretor de TV Alan Poul resolve fazer este seu único longa para o Cinema que se transforma em uma mesmice sem tamanho. E olha que em questão de comédias românticas, mesmice já é a regra.
 
 Partindo de uma introdução artificial, ou sintética, mas que é efetiva porque já explica tudo bem rápido, há um romance no ar entre Stan (Alex O' Loughlin) e Zoe (Jennifer Lopez), que acabou de saber que terá gêmeos de sua inseminação artificial, ou seja, o começo de sua vida de mãe solteira começa a sumir logo no primeiro dia. O início é com a voz da protagonista em off, que é na verdade o pensamento dela, de forma que o final não combina com o começo, então já não estamos falando de um roteiro com alguma rima poética ou mais elaborada.

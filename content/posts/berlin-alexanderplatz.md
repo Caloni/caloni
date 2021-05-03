@@ -1,10 +1,13 @@
 ---
-date: "2020-11-07"
-link: "https://www.imdb.com/title/tt6470924"
-categories: [ "movies" ]
-tags: [ "cinemaqui",  ]
-title: "Berlin Alexanderplatz"
+categories:
+- movies
+date: '2020-11-07'
+link: https://www.imdb.com/title/tt6470924
+tags:
+- cinemaqui
+title: Berlin Alexanderplatz
 ---
+
 Berlin Alexanderplatz é um filme de três horas que passam voando. Se trata do conto do homem comum, narrado por uma voz onisciente que a divide em partes, que não fazem lá muito sentido, mas com reviravoltas entre elas. Ser dividido em partes torna a tarefa de assisti-lo mais fácil. É como um livro e seus capítulos.
 
 Não à toa. Baseado no romance de Alfred Döblin, esta é a terceira vez que a história ganha vida nas telas, sendo que a do meio foi dirigido por Fassbinder na década de 80. Possuía 15 horas de duração. Quando estreou nos cinemas de Nova York os espectadores tinham que ir ao cinema em três noites consecutivas com o mesmo bilhete para ver o resto do filme. Por isso fico muito feliz com essas três horas dessa versão de Burhan Qurbani, diretor igualmente alemão, mas de origem afegã.

@@ -1,10 +1,14 @@
 ---
-date: "2018-05-03"
-link: "https://www.imdb.com/title/tt5989220"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Câmera de Claire"
+categories:
+- draft
+- movies
+date: '2018-05-03'
+link: https://www.imdb.com/title/tt5989220
+tags:
+- cinemaqui
+title: A Câmera de Claire
 ---
+
 O que é uma foto senão um único snapshot da vida real? E se é apenas um snapshot no tempo, o seu movimento para frente é o que torna as pessoas diferentes. Só alguém muito sensível para perceber isso, e apesar de não estar inserida na história principal, A Câmera de Claire é essa "pessoa".
 
 Isso porque a pessoa Claire, mesmo, sequer é uma personagem. Ela é uma narradora onisciente que captura através dos seus momentos em Cannes uma história a ser contada. Ela se apresenta como professora de música, e é apenas uma música que esse filme contém, na sua primeira cena e na última. Ela também é poeta e tira fotos, e tenta encontrar em cada um seu lado artístico. Suas fotos parecem ter a única função de capturar um momento, contar uma história e mudar as pessoas. E é exatamente sobre isso que fala o Cinema.

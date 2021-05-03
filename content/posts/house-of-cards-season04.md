@@ -1,9 +1,12 @@
 ---
-date: "2016-03-13"
-link: "https://www.imdb.com/title/tt1856010"
-categories: [ "draft", "series" ]
-title: "House of Cards - Quarta Temporada"
+categories:
+- draft
+- series
+date: '2016-03-13'
+link: https://www.imdb.com/title/tt1856010
+title: House of Cards - Quarta Temporada
 ---
+
 A temporada 4 de House of Cards é o que esperaria ver de um Francis Underwood presidente, algo que foi adiado pela pálida temporada anterior, que ainda que tenha seus momentos gloriosos, falha em sua premissa principal: causar tensão no dia-a-dia presidencial. E essa tensão está amplamente disponível agora, se espalhando por todas as vias políticas. Obviamente ela afeta sempre indiretamente Frank, mas a série se inicia com Lucas Goodwin na prisão (Sebastian Arcelus), que assim como Doug Stamper (Michael Kelly) terá uma curva trágica que desencadeará a trama principal.
 
 Porém, dessa vez na ribalta (e essa palavra é citada muitas e muitas vezes) também se apresenta uma nova Claire Underwood, decidida a não continuar sob a luz mais fraca. Através de uma série de eventos que brincam razoavelmente bem com todo o esquema de jogo de influências e mudanças de estratégia no meio do vôo, a primeira metade da temporada desencadeia eficientemente para um dos momentos e um dos episódios mais fortes dramaticamente na trama, quando um evento arrebatador pode ser confundido como conspiração, medida desesperada ou simplesmente uma coincidência tão incrível que ela se torna espontânea, orgânica e com certeza um dos melhores momentos no roteiro de toda a série, unindo todas as pontas de seus personagens de uma vez.

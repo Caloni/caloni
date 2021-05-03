@@ -1,9 +1,11 @@
 ---
-date: "2011-06-12"
-link: "https://www.imdb.com/title/tt0121766"
-categories: [ "movies" ]
-title: "Star Wars, Episódio III: A Vingança dos Sith"
+categories:
+- movies
+date: '2011-06-12'
+link: https://www.imdb.com/title/tt0121766
+title: 'Star Wars, Episódio III: A Vingança dos Sith'
 ---
+
 A impressão que temos ao assistir o último capítulo da nova saga criada por George Lucas é que este preparou os [dois] [filmes] iniciais tão somente para ter a chance de produzir este terceiro, tamanho o peso narrativo que o diferencia dos seus antecessores.
 
 Aqui, toda a angústia e tristeza do universo Star Wars são representados por uma fotografia mais escura e uma trilha sonora que transita cada vez mais pelos acordes do Império, e se pelo menos nisso somos obrigados a notar certa coerência desde A Ameaça Fantasma, o mesmo não ocorre no resto dos elementos cinematográficos, que juntos, participam na narrativa de uma forma completamente coesa e sofisticada.

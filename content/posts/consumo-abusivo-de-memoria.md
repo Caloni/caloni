@@ -1,8 +1,11 @@
 ---
-date: "2012-05-19"
+categories:
+- draft
+- code
+date: '2012-05-19'
 title: Consumo abusivo de memória
-categories: [ "draft", "code" ]
 ---
+
 Era um belo dia em um ambiente de processamento fictício de filas fictícias e threads fictícias. Eis um belo código com filas, threads e processamentos feitos em stop-motion:
 
 ```cpp
@@ -196,4 +199,3 @@ Não é o caso, mas vamos supor que fosse um objeto/tipo conhecido. Poderíamos 
 
     
   * [memset](http://www.cplusplus.com/reference/clibrary/cstring/memset/). Se você não sabe usar memset, provavelmente não entendeu nada desse artigo.
-

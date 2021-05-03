@@ -1,9 +1,12 @@
 ---
-date: "2016-12-04"
-link: "https://www.imdb.com/title/tt5161502"
-categories: [ "draft", "movies" ]
-title: "SOMM: Into the Bottle"
+categories:
+- draft
+- movies
+date: '2016-12-04'
+link: https://www.imdb.com/title/tt5161502
+title: 'SOMM: Into the Bottle'
 ---
+
 Para os que assistiram ao documentário "Somm", este será uma continuação natural. Para os que não o viram, não irão perder nada, pois ele não é necessário para acompanharmos mais uma viagem didática e comportada -- como deve ser -- ao mundo do vinho, desde as besteiras de pontuação, até rixas de família pela mudança da tradição, até a abertura emocionante (pelo menos para os aficionados) de garrafas enclausuradas por décadas, para constatarmos, com alegria nos olhos e nas papilas gusta/olfativas, que para alguns vinhos, envelhecer pode ser uma ótima ideia.
 
 E por falar em ideia, o objetivo mais uma vez do diretor Jason Wise é construir uma narrativa instrutiva e visual a respeito da história e dos detalhes sobre essa bebida tão "glamurizada" quanto amada. Muitas opiniões são ouvidas, desde o cultivo das uvas, as safras memoráveis, até o sistema de pontuação moderno de vinhos e a história de visionários, que transformaram determinadas regiões do planeta em novos pop stars do vinho.

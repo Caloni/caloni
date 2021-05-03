@@ -1,8 +1,11 @@
 ---
-date: "2011-02-07"
+categories:
+- draft
+- blog
+date: '2011-02-07'
 title: Mudança
-categories: [ "draft", "blog" ]
 ---
+
 #### Fecha uma porta...
 
 Desde que comecei a programar profissionalmente, lá por volta de 2001, sempre estive envolvido com uma ou duas empresas de Segurança da Informação, na época uma promissora carreira, com direito a [hacking](http://www.caloni.com.br/blog/?s=hack), [engenharia reversa](http://www.caloni.com.br/blog/category/reversing) e outras diversões. Até programar por programar valia!
@@ -27,4 +30,3 @@ Segue a descrição da vaga, feita por mim mesmo, sozinho. Interessados: sem tim
 ** Ferramentas: **Visual Studio 2003, Bazaar, VMWare, (WinDbg desejável).
 ** Funções: **codificação, análise, reunião técnica, refatoração, (UML desejável).
 ** Perfil: **vontade de aprender, pró-atividade, comunicação.</blockquote>
-

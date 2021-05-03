@@ -1,9 +1,11 @@
 ---
-date: "2020-05-29"
-link: "https://www.imdb.com/title/tt0040525"
-categories: [ "movies" ]
-title: "A Dama de Shangai"
+categories:
+- movies
+date: '2020-05-29'
+link: https://www.imdb.com/title/tt0040525
+title: A Dama de Shangai
 ---
+
 Orson Welles tentando salvar o casamento com Rita Hayworth (spoiler: não deu certo e se divorciaram antes da estreia). Este é um filme noir fora de controle temático e infestado pela visão peculiar de seu cineasta, notório por seu estilo anti-autoridade, que transforma um julgamento de homicídio em uma comédia de erros. Que empresta dezenas de espelhos do surrealismo alemão.
 
 Um plot tão bizarro que próximo do final fica difícil entender o que ele quis dizer com tudo isso, exceto a crítica ao modo de vida dos cheios da grana. O personagem de Wells observa de longe o piquenique regado a álcool e ofensas pessoais e questiona: essa é a forma que vocês se divertem? É para isso que preciso de dinheiro para "ser feliz"? Ele diz isso com um sotaque irlandês que não poderia ser mais forçado. É ridículo toda vez que ele narra sua história, mas se torna quase risível quando ele fala em alguma cena.

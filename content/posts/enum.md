@@ -1,8 +1,11 @@
 ---
-date: "2010-05-31"
+categories:
+- draft
+- code
+date: '2010-05-31'
 title: Enum
-categories: [ "draft", "code" ]
 ---
+
 Padrão C (ISO/IEC 9899:1990)
     
     6.5.2.2 enum-specifier

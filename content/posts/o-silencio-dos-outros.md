@@ -1,10 +1,14 @@
 ---
-date: "2019-02-22"
-link: "https://www.imdb.com/title/tt8099236"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Silêncio dos Outros"
+categories:
+- draft
+- movies
+date: '2019-02-22'
+link: https://www.imdb.com/title/tt8099236
+tags:
+- cinemaqui
+title: O Silêncio dos Outros
 ---
+
 O Silêncio dos Outros é um documentário necessário, mas com final amargo quando constatamos o quão dura e lenta é a luta por justiça.
 
 A história é sobre o julgamento dos crimes contra a humanidade durante os quase quarenta anos da ditadura de Franco na Espanha. O problema é a Lei de Anistia, aprovada já na democracia e que ao mesmo tempo que liberta os presos políticos cria em contrapartida a chamada Lei do Esquecimento, onde os crimes de tortura e assassinato da época não podem ser investigados pelas autoridades locais. Então o jeito é apelar para a corte internacional.

@@ -1,8 +1,11 @@
 ---
-date: "2016-04-10"
-title: "Testando sistema de postagem"
-categories: [ "draft", "blog" ]
+categories:
+- draft
+- blog
+date: '2016-04-10'
+title: Testando sistema de postagem
 ---
+
 Bom, depois de criar um script para basicamente apenas escrever o texto dos filmes que assisto e buscar uma imagem agradável para meu [blogue de Cinema](http://www.cinetenisverde.com.br), o próximo passo foi portar esse mesmo método para meus dois outros blogues: o da minha empresa, a [BitForge](http://www.bitforge.com.br/blog-pt) e esse aqui. O processo envolve algo a mais: buscar as imagens usadas (que muitas vezes não é só uma). Porém, nada mais que isso.
 
 **O problema mesmo é publicar nas redes sociais.**
@@ -62,4 +65,3 @@ def PublishToFacebook(postInfo):
     st = postInfo['title'] + '\n\n' + postInfo['paragraph'] + '\n\n' + baseUrl + postInfo['permalink']
     post = facebook_credentials.auth.put_photo(image=imagedata, message=st)
 ```
-

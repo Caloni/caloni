@@ -1,9 +1,12 @@
 ---
-date: "2019-08-24"
-link: "https://www.imdb.com/title/tt0118694"
-categories: [ "draft", "movies" ]
-title: "Amor à Flor da Pele"
+categories:
+- draft
+- movies
+date: '2019-08-24'
+link: https://www.imdb.com/title/tt0118694
+title: Amor à Flor da Pele
 ---
+
 Wong Kar-Wai é um cineasta que não gosta de roteirizar seus filmes. Ele prefere ir apalpando e sentindo até onde pode ir a exploração de um tema. Por isso mesmo ele é exímio diretor de curtas, principalmente de TV. Curtas expressam bem sua opinião sobre Cinema: momentos que serão eternizados pelo audiovisual.
 
 Por isso que Amor à Flor da Pele é um filme tão repetitivo. Ele mantém uma história acontecendo, mas prefere ficar apaixonado pelos momentos em câmera lenta, pela mesma música-tema tocando um milhão de vezes. A passagem de tempo é marcada através de infinitos vídeo-clipes de duas pessoas conectadas por uma traição que elas não participam e suas solitárias rotinas. Uma delas vai ao cinema sozinha. "Como foi o filme?". "Mais ou menos.". É assim que me sinto a respeito desse.

@@ -1,9 +1,13 @@
 ---
-date: "2017-10-05"
-link: "https://www.imdb.com/title/tt1910272"
-categories: [ "draft", "series", "animes" ]
-title: "Steins;Gate"
+categories:
+- draft
+- series
+- animes
+date: '2017-10-05'
+link: https://www.imdb.com/title/tt1910272
+title: Steins;Gate
 ---
+
 Não é fácil contar bem uma história de viagem no tempo. Mais difícil ainda é conseguir fazer ela ter sentido. E mais difícil ainda é conseguir que o espectador sinta o movimento espaço/tempo dos personagens, a apoteose de todo criador de sci-fi desta linha. Poucos devem ter chegado a essa proeza: De Volta para o Futuro (a trilogia), A Máquina do Tempo, Os 12 Macacos, Efeito Borboleta, O Predestinado, Primer, Harry Potter e o Prisioneiro de Azkaban. E Steins;Gate, que se esforça em homenagear todos os exemplos citados e ainda superá-los em inventividade. Uma viagem e tanto.
 
 A história da série começa no seu episódio 1, entitulado "Prologue to the Beginning and End" (Prólogo para o Começo e Fim), o que deve servir de dicas para os mais atentos e aviso para os mais incautos que me acusarem se cometer o "sacrilégio" de soltar spoilers sem avisar. Bom, a série já começa com vários deles. Incluindo a primeira viagem no tempo, inexplicável, onde uma garota vista como assassinada pelo auto-entitulado "cientista louco" Rintaro Okabe, que é um moleque de 18 anos de jaleco, em seguida ao envio de uma mensagem de texto pelo seu celular, é vista viva novamente. Paradoxal. Isso junto de uma série de eventos que só farão sentido no episódio final, o vigésimo-quarto, constituem a estrutura geral de uma longa história que percorre personagens criados para anime.

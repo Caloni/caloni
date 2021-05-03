@@ -1,9 +1,12 @@
 ---
-date: "2017-03-26"
-link: "https://www.imdb.com/title/tt2442080"
-categories: [ "draft", "movies" ]
-title: "Chuck Norris vs. Communism"
+categories:
+- draft
+- movies
+date: '2017-03-26'
+link: https://www.imdb.com/title/tt2442080
+title: Chuck Norris vs. Communism
 ---
+
 Não é nenhum segredo que para existir o comunismo em um mundo capitalista todas as barreiras precisam ser fechadas. Isso evita que a população faminta por recursos e ideias seja seduzida pelo caminho da liberdade e mantém o ditador da vez em posição mais confortável para espalhar suas mentiras. No caso da Romênia, no entanto, havia uma falha que foi se alastrando pelas duas décadas de regime totalitarista. Uma falha que apenas uma figura equivalente ao americano Chuck Norris em sua versão romena poderia explorar: o Cinema norte-americano.
 
 E, para tristeza desse povo, o cinema estadunidense estava em uma grande fase de filmes de ação, romances e dramas que povoavam a mente e o imaginário coletivo em décadas de um mundo em constante e acelerada mudança. A mudança, no entanto, não era sentida nas ruas da Romênia, tão congelada quanto qualquer nação soviética daquela época, com seus carros caindo aos pedaços, prédios que lembravam o romance 1984 e artefatos da Guerra Fria como espionagem, sabotagem e delações premiadas entre a população.

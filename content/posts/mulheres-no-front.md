@@ -1,9 +1,12 @@
 ---
-date: "2020-03-11"
-link: "https://www.imdb.com/title/tt0059732"
-categories: [ "draft", "movies" ]
-title: "Mulheres no Front"
+categories:
+- draft
+- movies
+date: '2020-03-11'
+link: https://www.imdb.com/title/tt0059732
+title: Mulheres no Front
 ---
+
 Valerio Zurlini é um cineasta existencialista que se tornou resistência italiana na segunda guerra, em grupos anti-fascismo que se ergueram após Mussolini se tornar marionete de Hitler. Ele começou com curtas e eventualmente fez alguns longas de prestígio que ganharam prêmios europeus. O pessoal que preparou o DVD no Brasil é seu fã, e o texto que o introduz o apresenta como um artista da altura de Felini. Os trailers dos filmes do DVD são dele ou de sua época, um presente de muito bom tom.
 
 Em Mulheres no Front as mulheres estão em foco e enquadradas das mais diversas formas e de diferentes ângulos. Os roteiristas a colocam em um caminhão militar e vai distribuindo pelo percurso. Elas são gregas e estrangeiras na Grécia que estão vivendo em um país ocupado e que não lhes dá o que comer. A solução é se prostituir e aceitar o racionamento italiano. É difícil imaginar tanta protuberância e desnutrição na mesma cena, então sabemos que essas garotas fazem bem o que antes faziam de graça.

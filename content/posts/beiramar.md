@@ -1,10 +1,13 @@
 ---
-date: "2015-10-02"
-link: "https://www.imdb.com/title/tt4427060"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Beira-Mar"
+categories:
+- movies
+date: '2015-10-02'
+link: https://www.imdb.com/title/tt4427060
+tags:
+- cinemaqui
+title: Beira-Mar
 ---
+
 Beira-Mar é aquele lugar onde terra e mar são confundidos, e onde geralmente há uma praia. Categorizar o trabalho que leva esse nome como "filme-gay" é de uma miopia sem tamanho. Seria o mesmo que chamar beira-mar (o local) de 100% terra firme ou de 100% alto mar. Havendo infinitos graus de atração sexual que uma pessoa pode ter, e que costumamos polarizar como gay e hétero, os protagonistas da história flertam com todos eles, como se andassem despreocupadamente pela praia em um passeio matinal.
 
 Digirido e escrito pela dupla de gaúchos Filipe Matzembacher e Marcio Reolon em suas estreias em longas ficcionais, a história gira em torno de uma viagem de dois amigos, Martin (Mateus Almada) e Tomaz (Maurício Barcellos), em que um acompanha o outro para resolver um problema de família após a morte do avô. Pousam na casa do pai de um deles, que fica de frente para a fria praia. Ambos conversam amenidades, falam sobre experiências passadas, chamam alguns amigos para se divertir e parecem estar em uma fase de mudança em seu relacionamento. Apesar de uma sequência abolutamente exemplar envolvendo a visita à casa de seus familiares, ela funciona como acessória ao processo de descoberta dos dois rapazes, e pode ser considerado um flerte incidental com O Segredo de Brokeback Mountain, apesar de (ou porque) o conflito entre a família e o pai do garoto pede uma atmosfera de velho-oeste (até com direito a solo de gaita).

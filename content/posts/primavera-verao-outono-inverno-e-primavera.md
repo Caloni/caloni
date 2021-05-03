@@ -1,9 +1,11 @@
 ---
-date: "2010-12-20"
-link: "https://www.imdb.com/title/tt0374546"
-categories: [ "movies" ]
-title: "Primavera, Verão, Outono, Inverno... e Primavera"
+categories:
+- movies
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt0374546
+title: Primavera, Verão, Outono, Inverno... e Primavera
 ---
+
 Este é o filme mais poderoso do diretor e roteirista Kim Ki Duk e ele é o único cineasta capaz de contar essa história sem resistir à tentação das respostas fáceis. Enquanto outros dos seus filmes -- Casa Vazia, Fôlego, Time, Pietá -- apresentam um conceito-chave que será explorado à exaustão até nos darmos por rendidos e aceitarmos aquele novo escopo de sentimentos, em "Primavera, Verão" não existe novidade, e o que nos prende durante e após o filme é a nossa tentativa fugaz de captar algum significado. Este é um filme simples, mas que você precisa interpretar. E no preciso momento em que o estiver vendo saberá do que se trata, mesmo que ninguém diga isso verbalmente. Palavras são inúteis frente a imagens poderosas. Simples, mas poderosas.
 
 O diretor esbanja a qualidade indiscutível de narrar uma história mortal com eventos sobrenaturais de forma a prender a atenção do espectador na medida em que a simplicidade está sempre acima do sobrenatural, é o objetivo final, e o sobrenatural apenas o caminho pelo qual nossa percepção dos eventos será guiada. A pergunta de quem movimenta o barco para que o mestre possa observar seu pupilo vai perdendo sua força conforme a história avança, e quando descobrimos qual é o mecanismo ele não importa mais.

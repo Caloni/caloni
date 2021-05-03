@@ -1,9 +1,11 @@
 ---
-date: "2015-06-16"
-link: "https://www.imdb.com/title/tt0061722"
-categories: [ "movies" ]
-title: "A Primeira Noite de um Homem"
+categories:
+- movies
+date: '2015-06-16'
+link: https://www.imdb.com/title/tt0061722
+title: A Primeira Noite de um Homem
 ---
+
 Esse é um filme que possui a alma dos anos 60. Quebra de convenções por todos os lados, e um cuidado especial na condução de uma... quem diria, comédia romântica, em tons sortidos; pelo menos o suficiente para que não encaremos os detalhes inseridos na trama apenas como engraçados, mas também dramáticos; e fiquemos apreensivos pelo destino de um dos heróis mais icônicos e irônicos do Cinema: Ben Braddock.
 
 Dirigido por Mike Nichols (que morreu de ataque do coração ano passado), o filme inicia como uma comédia, contando sobre a vinda de Ben Braddock (Dustin Hoffman) à casa da família para sua "recepção" por ter sido aceito em uma faculdade de prestígio. Nichols conta isso em apenas uma longa sequência que passeia pela residência dos Braddock. Aqui os mais velhos são geralmente conhecidos pelo seu sobrenome. Dessa forma temos Mr. e Mrs. Braddock (William Daniels/Elizabeth Wilson) e a família do sócio de Mr. Braddock, Mr. e Mrs. Robinson (Murray Hamilton/Anne Bancroft). Estamos falando de uma classe rica já acostumada a mandar em pessoas, e o filho representa um bichinho da casa que é estimado por todos.

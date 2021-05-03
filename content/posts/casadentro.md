@@ -1,10 +1,13 @@
 ---
-date: "2015-06-22"
-link: "https://www.imdb.com/title/tt2174934"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Casadentro"
+categories:
+- movies
+date: '2015-06-22'
+link: https://www.imdb.com/title/tt2174934
+tags:
+- cinemaqui
+title: Casadentro
 ---
+
 Casadentro é um trabalho tão neo-realista quanto intimista. Baseado em quadros estáticos, o filme se dedica a mostrar como o ser humano ignora a passagem do tempo de sua própria vida, e ao mesmo tempo resolve discutir a relação entre quatro gerações debaixo do mesmo teto pelo período de 24 horas. Se sentindo tão opaco quanto os pensamentos dessas pessoas, o filme consegue acelerar um dia sem mover um centímetro de câmera. Conseguindo se mostrar presente durante todo o momento, o estilo de direção parece interessado demais que seja notado.
 
 Escrito e dirigido pela peruana Joanna Lombardi, que realiza aqui seu primeiro longa-metragem, Casadentro conta a história de Dona Pilar (Élide Brero), uma senhora de 81 anos que, embora já com os reflexos e sentidos debilitados, leva uma vida confortável em sua casa com a ajuda de suas duas serviçais, a experiente e praticamente amiga Consuelo (Delfina Paredes) e a jovem e atribulada Milagros (Stephanie Orúe), além de seu xodó: Tuna, um pequeno cachorro. Na véspera do seu aniversário recebe a ligação de uma de suas filhas, que pretende visitá-la e passar a noite com sua mãe e mais duas gerações da família: sua filha (neta) e neta (bisneta). A partir daí as preocupações da Senhora Pilar são de que todos estejam devidamente acomodados e que não lhes falte nada.

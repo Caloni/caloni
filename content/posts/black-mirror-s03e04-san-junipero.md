@@ -1,9 +1,12 @@
 ---
-date: "2016-10-28"
-link: "https://www.imdb.com/title/tt4538072"
-categories: [ "draft", "series" ]
-title: "Black Mirror - S03E04 - San Junipero"
+categories:
+- draft
+- series
+date: '2016-10-28'
+link: https://www.imdb.com/title/tt4538072
+title: Black Mirror - S03E04 - San Junipero
 ---
+
 Já estava na hora da série Black Mirror enfocar uma questão altamente relevante e discutida entre os aficionados por tecnologia futura: a imortalidade. Dentre as diferentes formas, eles escolheram a perfeita para o romance que pretendem retratar em um arco ambicioso, tudo em apenas uma hora. Abaixo uma breve descrição COM SPOILERS.
 
 Como sempre, os sempre habilidosos roteiristas utilizam a descoberta aos poucos do que estamos vendo, muito embora, se você já conhece a série (estando na terceira temporada, no quarto episódio, isso é muito provável) fica difícil tentar se desvencilhar do óbvio: é claro que estamos falando do futuro.

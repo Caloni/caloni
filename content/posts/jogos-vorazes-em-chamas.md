@@ -1,9 +1,11 @@
 ---
-date: "2013-07-12"
-link: "https://www.imdb.com/title/tt1951264"
-categories: [ "movies" ]
-title: "Jogos Vorazes: Em Chamas"
+categories:
+- movies
+date: '2013-07-12'
+link: https://www.imdb.com/title/tt1951264
+title: 'Jogos Vorazes: Em Chamas'
 ---
+
 É curioso que quase uma década depois a estrutura narrativa de Catching Fire nos faça lembrar do ótimo [Matrix Reloaded]. Apesar de também ser uma continuação, [Jogos Vorazes] pelo menos sabia que não terminaria no primeiro. No entanto, ambos tratam de esperança surgida em meio a uma guerra eterna, e embora a escravidão consentida pelos Distritos à Capital por tantas gerações soe às vezes meio forçada, o fato é que o aspecto político e social é o que mais cativa na história.
 
 Mas essa também é uma história para as menininhas irem ao Cinema suspirarem pelo amor não correspondido do jovem Peeta pela sempre tensa Katniss (e comentarem durante toda a sessão). Eis um outro aspecto curioso de uma trama que explora a tendência atual dos reality shows e de como as pessoas tomam por verdade tudo que veem pela TV.

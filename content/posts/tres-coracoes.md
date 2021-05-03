@@ -1,10 +1,13 @@
 ---
-date: "2015-04-16"
-link: "https://www.imdb.com/title/tt2822742"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Três Corações"
+categories:
+- movies
+date: '2015-04-16'
+link: https://www.imdb.com/title/tt2822742
+tags:
+- cinemaqui
+title: Três Corações
 ---
+
 Marc conheceu Sylvie por este ter perdido o trem e ela por ter ido comprar um cigarro. Marc perdeu a hora em seu segundo e último encontro. Marc então conhece Sophie coincidentemente no lugar onde trabalha, no interior da França. O fato de Sophie e Sylvie serem irmãs e melhores amigas é o único fato que torna toda a trama uma longa e fatalista sequência que persegue os personagens por anos de suas vidas.
 
 A direção de Benoît Jacquot, que co-escreve o roteiro com  Julien Boivent, é intrusiva, com movimentos de câmera nada sutis e que parecem as mudanças de quadro de Wes Anderson, só que com um tom caótico. Menos sutil ainda é a trilha sonora absolutamente arrebatadora de Bruno Coulais, que funciona de diferentes maneiras durante o filme. Tão econômica quanto genérica, o suspense e a tensão do longa são criados já nos créditos iniciais com uma nota grave típica, repetida com uma regularidade perturbadora, pois bastam algumas notas para começarmos a antecipá-las em nossa mente. Já as duas ou três notas leves que iniciam a partir da conexão que é feita entre Marc e Sylvie é o final feliz que esperamos, mas que não necessariamente está lá (assim como momentos onde a música nos deixa apenas na tensão).

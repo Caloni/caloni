@@ -1,9 +1,11 @@
 ---
-date: "2011-10-08"
-link: "https://www.imdb.com/title/tt2210871"
-categories: [ "movies" ]
-title: "O Filme dos Espíritos"
+categories:
+- movies
+date: '2011-10-08'
+link: https://www.imdb.com/title/tt2210871
+title: O Filme dos Espíritos
 ---
+
 O Filme dos Espíritos é mais uma tentativa de "catequizar" (com o perdão da palavra) ou talvez educar os fiéis dessa crença religiosa da vida após a morte, dando sequência ao bom "Chico Xavier" e o desastroso As Mães de Chico Xavier. Aqui, porém, a alçada propagandista ganha contornos bem maiores que sua qualidade como filme, o que, de certa forma, lembra Olga, uma obra com o mesmo estigma. Dessa forma, o uso do cinema como ferramenta "educativa" se torna um completo desastre quando constatamos que toda essa ambição ideológica anti-aborto não se justifica em uma produção de caráter e gosto duvidosos.
 
 A primeira impressão, logo nas primeiras cenas, é estar assistindo a uma obra ou 1) experimental, que irá jogar com técnicas inusitadas de movimento de câmera ou 2) amadorística, fruto de cursos de estudo de vídeos para a televisão. Infelizmente, embora uma vez ou outra o longa pareça se esforçar em se tornar de fato um filme, se dando ao luxo de inserir planos-detalhe que expliquem por si só o andamento da história (como o copo de cerveja na cama, ou as duas alianças juntas no mesmo dedo), o amadorismo começa a dominar cada vez mais a mise en scene, chegando ao ápice de aplicar os conhecidos bordões de mostrar a cidade amanhecendo em câmera acelerada (três vezes!) ou o efeito tremido e difuso para explicar o estado alcoolizado de um personagem. (Nada contra o uso de clichês, que podem ser úteis em muitas obras, mas tudo contra o seu mau uso, o que acaba aumentando mais ainda a sua banalização.)

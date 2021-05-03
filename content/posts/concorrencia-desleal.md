@@ -1,9 +1,11 @@
 ---
-date: "2010-12-20"
-link: "https://www.imdb.com/title/tt0254235"
-categories: [ "movies" ]
-title: "Concorrência Desleal"
+categories:
+- movies
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt0254235
+title: Concorrência Desleal
 ---
+
 Mais um filme político de Scola. Dessa vez o foco da história é a concorrência entre um alfaiate e um lojista, que dividem a fachada de suas lojas e suas casas, a amizade de seus filhos menores e um romance entre seu filho e sua filha maiores. Possuem muitas coisas em comum, menos uma: uma família é de judeus; a outra, não.
 
 É com esse pano de fundo bem arquitetado que o filme vai mostrar, gradativamente, o que o regime fascista na Itália fez com as pessoas, com os pensamentos, com uma simples rua de uma simples vila se transformar de forma radical por um "bem" que ninguém conhecia, mas muitos criticavam.

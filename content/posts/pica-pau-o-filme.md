@@ -1,9 +1,12 @@
 ---
-date: "2017-11-06"
-link: "https://www.imdb.com/title/tt2114504"
-categories: [ "draft", "movies" ]
-title: "Pica Pau: o Filme"
+categories:
+- draft
+- movies
+date: '2017-11-06'
+link: https://www.imdb.com/title/tt2114504
+title: 'Pica Pau: o Filme'
 ---
+
 Em todos esses anos dessa indústria vital, essa é a primeira vez que isso me acontece. Nem os novos desenhos politicamente corretos do pica-pau de cabeça vermelha estragaram a magia. Mas este "Pica-Pau: A Animação de Computador da Década de 90" de fato consegue nos fazer renegar que esse passarinho biruta tem qualquer relação com os desenhos originais.
 
 A pegada do filme é passarinho de computador que fala com a gente, tem momentos engraçadinhos sozinho em cena pra vender um conceito mercadológico e uma história requentada com todos os clichês possíveis sendo mal utilizados. Pais separados, filho abandonado, namorada mais jovem do pai (que é burra e fútil), especulação imobiliária, poder dos ricos sobre os pobres, dupla de capangas estilo um esperto e outro estúpido, festival na cidadezinha, banda de jovens e música pop. Nomeie qualquer um desses e mais alguns e ele estará no filme da pior maneira possível junto da comédia física necessária para Pica-Pau brilhar.

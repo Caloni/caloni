@@ -1,8 +1,11 @@
 ---
-date: "2008-07-02"
-categories: [ "code", "draft",  ]
-title: "Pesquisas sobre a GINA"
+categories:
+- code
+- draft
+date: '2008-07-02'
+title: Pesquisas sobre a GINA
 ---
+
 Já sabemos o que é uma GINA. Afinal, todo mundo já viu uma antes. E sabemos que hoje em dia ela está morta.
 
 No entanto, algumas pequenas mudanças foram feitas nela no Windows XP que ainda almaldiçoam o código de quem tenta reproduzir a famosa GINA da Microsoft. Nem todos chegam no final e morrem tentando.

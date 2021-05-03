@@ -1,8 +1,12 @@
 ---
-date: "2008-02-15"
-title: "Os diferentes erros na linguagem C"
-categories: [ "code", "ccpp", "home" ]
+categories:
+- code
+- ccpp
+- home
+date: '2008-02-15'
+title: Os diferentes erros na linguagem C
 ---
+
 Uma coisa que me espanta de vez em quando é o total desconhecimento por programadores mais ou menos experientes dos níveis de erros que podem ocorrer em um fonte escrito em C ou C++. Desconheço o motivo, mas desconfio que o fato de outras linguagens não terem essa divisão de processos pode causar alguma nivelação entre as linguagens e fazer pensar que o processo de compilação em C é como em qualquer outra linguagem.
 
 Porém, para começar, só de falarmos em compilação já estamos pegando apenas um pedaço do todo, que é a geração de um programa executável em C. Tradicionalmente, dividimos esse processo em três passos:

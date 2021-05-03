@@ -1,9 +1,11 @@
 ---
-date: "2020-08-29"
-link: "https://www.imdb.com/title/tt8946378"
-categories: [ "movies" ]
-title: "Entre Facas e Segredos"
+categories:
+- movies
+date: '2020-08-29'
+link: https://www.imdb.com/title/tt8946378
+title: Entre Facas e Segredos
 ---
+
 Assisti a este filme do cineasta Rian Johnson tendo em mente que ele é o diretor do melhor filme Guerra nas Estrelas até agora, "Star Wars: Os Últimos Jedi". Além, é claro, do ótimo "Looper: Assassinos do Futuro" e de pelo menos dois dos melhores episódios da série dramática "Breaking Bad". Porém, também sabia que esse filme recebeu ótimos elogios pela sua crítica social, então já esperava que a história não prestaria o suficiente. Os dramalhões com minorias oprimidas e caricaturas da elite americana é lugar tão comum neste século que apenas uma sociedade em decadência para chamar isto de crítica e não de uma maneira sarcástica.
 
 A história de detetive gira em torno da morte de um velho ricaço, os abutres herdeiros de sua família e a enfermeira imigrante completamente inocente e bem intencionada. O ricaço fez fortuna com uma editora com livros que ele próprio escrevera, ou seja, uma fortuna confiscada do homem comum a partir de direitos autorais, a forma mais injusta de receber sobre um trabalho que não existe. Essa prática jurídica é defendida por artistas apenas porque os beneficia, geralmente os mesmos artistas que discursam sobre redistribuição de riqueza.

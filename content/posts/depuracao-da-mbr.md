@@ -1,8 +1,10 @@
 ---
-date: "2008-03-24"
-title: "Depuração da MBR"
-categories: [ "code" ]
+categories:
+- code
+date: '2008-03-24'
+title: Depuração da MBR
 ---
+
 Dando continuidade a um artigo bem antigo sobre [depuração da BIOS usando SoftIce], como já vimos, podemos igualmente depurar a MBR após a chamada da INT13. Porém, devo atentar para o fato que, em algumas VMs, e sob determinadas condições do tempo e quantidade de ectoplasma na atmosfera, é possível que a máquina trave após o hot boot iniciado pelo depurador. Isso provavelmente tem cura usando o espaço de endereçamento alto da memória com a ajuda de aplicativos como LH e UMB.
 
 Porém, estou aqui para contar uma nova forma de depurar essa partezinha do código que pode se tornar um tormento se você só se basear em tracing na tela (ou na COM1): usando o aplicativo debug do DOS.

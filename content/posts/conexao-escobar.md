@@ -1,10 +1,14 @@
 ---
-date: "2016-08-20"
-link: "https://www.imdb.com/title/tt1355631"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Conexão Escobar"
+categories:
+- draft
+- movies
+date: '2016-08-20'
+link: https://www.imdb.com/title/tt1355631
+tags:
+- cinemaqui
+title: Conexão Escobar
 ---
+
 Conexão Escobar volta a trazer Bryan Cranston em um papel memorável, mas mais do que isso, esse é um filme construído totalmente em cima de expectativas. Ele vai subindo aos poucos no alto escalão da máfia de cocaína e assim como O Poderoso Chefão e Scarface ele possui seu universo próprio. Porém, este também é um filme pautado em cima da biografia de Robert Mazur, ex-agente federal de combate ao tráfico de drogas, e por isso merece ainda mais crédito a criação dessa rede tensa e complexa que vive à mercê da lei.
 
 E por falar em lei, o filme ainda de brinde destaca que está andando todo tempo em uma corda bamba pendurada entre os EUA e a Colômbia; ele convida o espectador mais atento a comparar a hipocrisia de ambos os lados, como o fato dos EUA, através da CIA, financiar diversas guerras pelo mundo. E fatalmente ele conclui: comparado com a Casa Branca, a máfia da coca não passa de uns caipiras latinos.

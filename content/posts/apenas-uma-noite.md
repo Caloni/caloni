@@ -1,9 +1,11 @@
 ---
-date: "2012-06-18"
-link: "https://www.imdb.com/title/tt1294688"
-categories: [ "movies" ]
-title: "Apenas uma Noite"
+categories:
+- movies
+date: '2012-06-18'
+link: https://www.imdb.com/title/tt1294688
+title: Apenas uma Noite
 ---
+
 Primeiro filme ao mesmo tempo dirigido e escrito por Massy Tadjedin (roteirista de Camisa de Força) dois anos atrás, o casamento entre Joanna e Michael poderia ser o de qualquer pessoa (talvez por isso nunca sabemos seus sobrenomes). Quem nunca aspirou mudar suas escolhas baseado tão somente em seus sentimentos passados? Quando Michael (Sam Worthington) faz uma viagem a negócios, logo após uma pequena briga de casal, ele e Joanna (Keira Knightley) experimentam a velha sensação de desejo de mudança junto de um velho amigo/companheiro e uma colega de trabalho.
 
 Trilha sonora agradável que segue o compasso de uma noite que parece não terminar pela indecisão de marido e esposa diante de suas respectivas tentações. Filme não é hipócrita a respeito dos votos de fidelidade de um casamento, tampouco é sujo a ponto de jogar as fraquezas óbvias dos seres humanos na situação que se encontram. No fundo, a história caminha mais para uma auto-descoberta de ambos do que na tensão crescente a respeito do que farão com suas oportunidades.

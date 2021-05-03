@@ -1,10 +1,14 @@
 ---
-date: "2016-09-17"
-link: "https://www.imdb.com/title/tt4072352"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Passageira"
+categories:
+- draft
+- movies
+date: '2016-09-17'
+link: https://www.imdb.com/title/tt4072352
+tags:
+- cinemaqui
+title: A Passageira
 ---
+
 A Passageira pode ser descrito como um melodrama que se aproveita de sua notável qualidade narrativa e técnica para dar ares de ser algo mais artístico. A mesma razão pode ser dada ao dizer que o herói do filme realmente fez um ato bondoso e por isso, independente de seu passado, é digno de aplausos.
 
 Porém, escolher entre um ou outro seria admitir que no mundo uma situação ou é preta ou é branca, e é exatamente isso que o filme tenta evitar e constantemente desfazer em cada reviravolta de sua história. Naquele universo, miséria e violência são elementos cinzas que podem ser utilizados por uma causa, desde que essa causa seja cinza claro ou cinza escuro, dependendo de sua preferência moral.

@@ -1,10 +1,14 @@
 ---
-date: "2018-04-03"
-link: "https://www.imdb.com/title/tt5999530"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Antes que Tudo Desapareça"
+categories:
+- draft
+- movies
+date: '2018-04-03'
+link: https://www.imdb.com/title/tt5999530
+tags:
+- cinemaqui
+title: Antes que Tudo Desapareça
 ---
+
 "Antes que Tudo Desapareça" encontra o pior do trash dos anos 70 e mistura com algumas referências nada amistosas do Cinema mundial. No entanto, tenho um problema em odiar este filme. Mesmo sendo um pedaço imprestável de história esses malditos japoneses conseguem tornar tudo mais palatável. É um povo tão educado! Até seus piores filmes não inspiram o que há de pior no ser humano. Sendo assim, eu nunca diria diretamente ao diretor Kiyoshi Kurosawa "mas que lixo de filme, hein?". No lugar, faria uma reverência respeitosa e agradeceria pelo espetáculo. Talvez até decorasse algumas falas em japonês e as recitaria, se ainda me lembrasse após as duas horas e nove minutos da projeção.
 
 Dito isto: mas que lixo de filme! Ele consegue tentar recomeçar sua história durante todo o tempo e nunca tem sucesso. Uma hora são alienígenas que tomaram o corpo de humanos. Outra hora os humanos que hospedam os alienígenas também estão ali dentro, mas não possuem o controle de seus corpos. Em um momento se trata de um vírus que ataca seu hospedeiro com delírios sobre a real natureza de seus atos. No momento imediatamente após este, são alienígenas mesmo e faz sentido o exército estar a postos para... para o quê, mesmo? Não importa, já que aparentemente o Ministério da Saúde sai em um furgão preto matando pessoas. São tempos estranhos...

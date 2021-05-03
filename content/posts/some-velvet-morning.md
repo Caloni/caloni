@@ -1,9 +1,12 @@
 ---
-date: "2016-11-17"
-link: "https://www.imdb.com/title/tt2231138"
-categories: [ "draft", "movies" ]
-title: "Some Velvet Morning"
+categories:
+- draft
+- movies
+date: '2016-11-17'
+link: https://www.imdb.com/title/tt2231138
+title: Some Velvet Morning
 ---
+
 Este filme independente de baixo orçamento comprova como o catálogo da Netflix reserva algumas ótimas surpresas onde menos se espera. Protagonizado por atores secundários, este trabalho do diretor e roteirista Neil LaBute parece extremamente amador quase todo o tempo. Exceto pela reviravolta que o espera.
 
 E se formos analisar pelo lado amador do filme, é difícil de se deixar levar. Ele se arrasta naquele formato de poucos personagens presos em apenas um cenário, diálogos que dificilmente fazem algum sentido em personagens que parecem mal desenvolvidos. É capaz que você pare de assistir quase no minuto final, mesmo que impactado pelo que aqueles dois politicamente incorretos amantes irão realizar, mesmo que eles não prometam nada. Porém, eu rogo: mantenha-se firme até os créditos finais e reavalie o que acabou de ver.

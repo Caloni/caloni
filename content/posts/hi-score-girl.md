@@ -1,9 +1,13 @@
 ---
-date: "2019-01-17"
-link: "https://www.imdb.com/title/tt8963328"
-categories: [ "draft", "series", "animes" ]
-title: "Hi Score Girl"
+categories:
+- draft
+- series
+- animes
+date: '2019-01-17'
+link: https://www.imdb.com/title/tt8963328
+title: Hi Score Girl
 ---
+
 Hi Score Girl apela para o saudosismo de velhos que vivenciaram todas as gerações dos games e fliperamas mais badalados da história, mas é ao mesmo tempo uma história de relacionamento entre um menino e uma garota. Isso provavelmente deve dar tilt.
 
 Ou não. Tendo um estilo que parece obviamente biográfico, acompanhamos a história de Haruo Yaguchi (Kohei Amasaki), um garoto que sempre vai mal na escola e não tem maiores habilidades, exceto ser sempre o primeiro nos fliperamas, onde praticamente vive após as aulas. Do seu lado surge a improvável figura de Akira Ono (voz por Sayumi Suzushiro... pera aí: voz??), que nunca fala nada e é notadamente superior a Haruo no videogame. Akira é a mais bela da sala de aula, além da mais rica. Sua vida no fliperama é a válvula de escape que ela precisa para sua vida regrada e predestinada a herdar o império dos pais.

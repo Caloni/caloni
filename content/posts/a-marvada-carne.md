@@ -1,9 +1,11 @@
 ---
-date: "2012-04-24"
-link: "https://www.imdb.com/title/tt0138596"
-categories: [ "movies" ]
-title: "A Marvada Carne"
+categories:
+- movies
+date: '2012-04-24'
+link: https://www.imdb.com/title/tt0138596
+title: A Marvada Carne
 ---
+
 É muito fácil assistir à Marvada Carne sem compreender o mínimo de subtexto em uma trama que de tão simples parece totalmente despretensiosa. No entanto, se engana quem imagina que existem filmes que estão aí apenas para entreter. Todo filme reflete necessariamente uma opinião, um argumento e um ponto de vista. Partindo desse princípio, podemos afirmar que A Marvada Carne não só contém muito mais do que aparenta ter em sua superfície como tristemente seu conteúdo carece de exemplos na recente filmografia da comédia nacional, que aposta na exploração sexual e nas piadas contemporâneas vazias.
 
 Vejamos, então. Nhô Totó possui apenas um sonho na vida: comer carne de boi. Para conseguir o que quer, resolve se mudar e encontra uma oportunidade de tornar seu sonho realidade se comprometendo com uma garota cujo pai supostamente pretende matar um boi para a festa de casamento. A garota, aliás, é Fernanda Torres, com seus 20 e poucos anos, já demonstrando seus trejeitos e talento para representar personagens caricatos mas verossímeis em seu contexto.

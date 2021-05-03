@@ -1,10 +1,14 @@
 ---
-date: "2018-05-16"
-link: "https://www.imdb.com/title/tt8327798"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Vida Extra-Ordinária de Tarso de Castro"
+categories:
+- draft
+- movies
+date: '2018-05-16'
+link: https://www.imdb.com/title/tt8327798
+tags:
+- cinemaqui
+title: A Vida Extra-Ordinária de Tarso de Castro
 ---
+
 A única forma honesta de escrever sobre "A Vida Extra-Ordinária de Tarso De Castro" é estando bêbado. E estar bêbado é apenas uma leve reverência ao jornalista, boêmio e mulherengo Tarso de Castro, que é homenageado à altura aqui pelos idealizadores Leo Garcia e Zeca Brito, que constrõem uma narrativa que essencialmente passeia pelo universo cotidiano do que era ser jornalista naquela época.
 
 E quando se diz "naquela época" neste filme surge uma repentina melancolia, pois vivemos um tempo que há uma queda abrupta sobre o que significa ser jornalista. Antigamente existia a mente questionadora, a mente empreendedora e a mente irreverente, todas necessárias para a criação de uma notícia com opinião embasada na vida real. Hoje, ou há muito mais tempo, como ouvimos do próprio Tarso (ainda que em palavras mais simples), o jornalista inverteu os papéis de investigador da realidade para consumidor de conteúdo. Ele não vai mais ao bar, à esquina, questionar o que há. Ele apenas recebe o release da grande imprensa e arrisca de pouco a nada para continuar vivendo.

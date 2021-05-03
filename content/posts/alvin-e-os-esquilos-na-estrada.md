@@ -1,9 +1,12 @@
 ---
-date: "2016-01-10"
-link: "https://www.imdb.com/title/tt2974918"
-categories: [ "draft", "movies" ]
-title: "Alvin e os Esquilos: Na Estrada"
+categories:
+- draft
+- movies
+date: '2016-01-10'
+link: https://www.imdb.com/title/tt2974918
+title: 'Alvin e os Esquilos: Na Estrada'
 ---
+
 Como sempre uma boa ideia desperdiçada, a série dos esquilos cantores vai de mal a pior, restando quase apenas seus protagonistas encantadores e coreografias vazias, o que não basta para tornar um filme bom. Consegue no máximo defesas do tipo "mas eles são tão fofinhos" e "as cenas deles cantando são tão boas".
 
 O fato é que Alvin e os Esquilos: Na Estrada repete todos os clichês anteriores em uma versão irregular. Temos o velho medo que os esquilos sejam abandonados pelo seu pai adotivo, o receio de um novo relacionamento (na figura do seu filho folgado que teve uma infância com pai ausente) e até um vilão que brota do nada, um ex-fã que vira hater porque sua ex achava sua fixação pela banda de esquilos infantil demais (não dá para culpá-la, né). Até a recorrente piada das "esquiletes" serem agora mais famosas que os próprios esquilos (e estarem ocupadas com suas vidas e precisarem no último momento voltar e salvar o dia). Tudo está lá, reciclado da pior maneira possível.

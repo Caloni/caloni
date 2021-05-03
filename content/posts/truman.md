@@ -1,9 +1,12 @@
 ---
-date: "2016-05-03"
-link: "https://www.imdb.com/title/tt3754940"
-categories: [ "draft", "movies" ]
-title: "Truman"
+categories:
+- draft
+- movies
+date: '2016-05-03'
+link: https://www.imdb.com/title/tt3754940
+title: Truman
 ---
+
 Esse talvez seja um dos mais decepcionantes filmes com Ricardo Darín, mas não deixa de ser interessante em alguns momentos, como quando discute a diferença entre ser tratado como um ser humano ordinário e um ser humano moribundo.
 
 A história é simples e foi feita para ser tocante. Tem até um cachorro -- que leva o título. Seu dono, Julián, está há um ano combatendo um câncer do pulmão e resolveu desistir. Seu cunhado, a pessoa mais próxima dele nesse momento, vive do outro lado do mundo. Ao visita-lo, feridas serão abertas e questões, resolvidas.

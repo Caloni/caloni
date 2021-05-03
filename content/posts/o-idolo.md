@@ -1,10 +1,14 @@
 ---
-date: "2016-12-03"
-link: "https://www.imdb.com/title/tt4686692"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Ídolo"
+categories:
+- draft
+- movies
+date: '2016-12-03'
+link: https://www.imdb.com/title/tt4686692
+tags:
+- cinemaqui
+title: O Ídolo
 ---
+
 O Ídolo possui um começo dinâmico e tocante, mas não parece usar isso ao seu favor no resto do filme. Ele aposta na catarse fácil que já vemos na televisão e em vídeos do YouTube. O que ele acaba fazendo, então, é apenas dar uma cara e uma atuação para mais um personagem da vida real.
 
 Porém, pior que isso é usar esse personagem como herói. Por ter uma boa voz e uma boa vontade. A voz ele herda da genética (e um pouco do seu teimoso instrutor de canto), e a boa vontade herda da sua irmã, que possui uma energia admirável. Ela não é apenas uma otimista, mas um ser humano que possui uma visão clara do que é capaz se tentar muito, e tirar do seu caminho tudo que não a ajudar, como uma insuficiência renal e até um possível namoradinho. Diz ela: "eu não tenho tempo para isso". Ela tem 12 anos no máximo. E é interpretada por Hiba Attalah com uma intensidade admirável.

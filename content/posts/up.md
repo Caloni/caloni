@@ -1,9 +1,11 @@
 ---
-date: "2013-04-01"
-link: "https://www.imdb.com/title/tt1049413"
-categories: [ "movies" ]
-title: "Up: Altas Aventuras"
+categories:
+- movies
+date: '2013-04-01'
+link: https://www.imdb.com/title/tt1049413
+title: 'Up: Altas Aventuras'
 ---
+
 Uma produção da Pixar possui, como todo o filme, o(s) nome(s) do diretor. Contudo, a dedicação dos seus produtores e toda a equipe é tamanha que transparece o amor pelo Cinema em cada canto da tela e em cada detalhe técnico de suas produções.
 
 É o que podemos conferir em Up!, que pega uma história até que simples, um velho viúvo deseja realizar o grande sonho de sua falecida esposa, e consegue não apenas torná-la acessivel às crianças, mas faz um apelo à criança que ainda vive dentro de nós esquecida pela agruras da vida.

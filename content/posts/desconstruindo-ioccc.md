@@ -1,8 +1,10 @@
 ---
-date: "2008-02-11"
+categories:
+- code
+date: '2008-02-11'
 title: Desconstruindo IOCCC
-categories: [ "code" ]
 ---
+
 Como alguns devem saber, e outros não (ou não deveriam), existe uma competição internacional para escolher quem escreve o código em C mais ofuscado. Isso mesmo. O evento se chama [The International Obfuscated C Code Contest] (IOCCC resumidamente) e costuma premiar anualmente os melhores "do ramo" com a chamada "menção desonrosa".
 
 Acredito que a real valia de um campeonato desse porte é fazer as pessoas pensarem mais a fundo sobre as regras da linguagem. Isso faz com que erros mais obscuros que encontramos no dia-a-dia se tornem mais fáceis. Claro que ninguém deveria programar como os caras desse torneio, mas a título de aprendizagem, é uma grande aula sobre C.

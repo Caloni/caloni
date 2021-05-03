@@ -1,9 +1,12 @@
 ---
-date: "2019-03-31"
-link: "https://www.imdb.com/title/tt0301978"
-categories: [ "draft", "movies" ]
-title: "Dez"
+categories:
+- draft
+- movies
+date: '2019-03-31'
+link: https://www.imdb.com/title/tt0301978
+title: Dez
 ---
+
 Limitados pela visão do banco do motorista e do passageiro de um carro acompanhamos uma mulher em sua nova vida. Divorciada com um filho que não a apoia ela conversa com algumas pessoas. O filme é tão realista que perde a graça na segunda ou terceira conversas de "Dez" que o diretor Abbas Kiarostami quer nos mostrar, divididas por um contador regressivo super-brega.
 
 Kiarostami parece de vez em quando experimentar uns conceitos que não vão para a frente, mas o Cinema só se move se alguém arrisca. Em seu último filme antes de morrer, 24 Frames, ele fez um filme adoravelmente tedioso sobre um experimento visual. Aqui ele é mais humano, e de tanta humanidade acabamos por ficar entediados.

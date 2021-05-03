@@ -1,9 +1,12 @@
 ---
-date: "2018-11-17"
-link: "https://www.imdb.com/title/tt7907916"
-categories: [ "draft", "series" ]
-title: "Ugly Delicious"
+categories:
+- draft
+- series
+date: '2018-11-17'
+link: https://www.imdb.com/title/tt7907916
+title: Ugly Delicious
 ---
+
 O chef de cozinha David Chang é o astro dessa série criada por ele. Ela segue um caminho documental bem-humorado, com montagens bem conduzidas e a captura de momentos hilários entre Chang e seus amigos conversando sobre... adivinhou: comida.
 
 O trunfo da série é nos entregar diferentes e inusitados lugares para experimentar comida que está sendo produzida sob a influência cultura da região, da tradição e da inovação. Chang não é um tradicionalista apenas, mas alguém que aprecia boa comida, seja lá de onde vier. E por isso ele encontra verdadeiras pérolas em volta do mundo, explicando no processo como tudo funciona.

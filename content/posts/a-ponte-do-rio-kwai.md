@@ -1,9 +1,12 @@
 ---
-date: "2016-07-18"
-link: "https://www.imdb.com/title/tt0050212"
-categories: [ "draft", "movies" ]
-title: "A Ponte do Rio Kwai"
+categories:
+- draft
+- movies
+date: '2016-07-18'
+link: https://www.imdb.com/title/tt0050212
+title: A Ponte do Rio Kwai
 ---
+
 É um daqueles trabalhos épicos dos anos 50 com a trilha sonora pomposa (Malcolm Arnold), cerimoniosa, em torno de um grande feito orquestrado por um grande homem. O coronel Nicholson (Alec Guinness) tem seu batalhão prisioneiro dos japoneses na Segunda Guerra em uma floresta tão densa e tão isolada do mundo que o Coronel Saito (Sessue Hayakawa) dispensa controle de fugitivos. A guerra continua e eles precisam construir uma ponte naquele fim de mundo em um prazo curto. Todos os países da língua inglesa parecem se unir e sabotar os planos orientais. Há ao mesmo tempo uma disputa de ego, discursos sobre honra e princípios e uma alegoria muito clara sobre o que é a guerra.
 
 Ao mesmo tempo, se torna uma metáfora sobre como fazer filmes, o seu esforço e o seu legado. Tantos figurantes em um pedaço de floresta. Ao final, um pedaço de arte que extrai do mundo físico muito mais do que ele é. Não é uma história sobre um rio, uma guerra ou sequer uma ponte. Esses são fabricados a duras penas, mas é o resultado, o efeito final que conta.

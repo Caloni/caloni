@@ -1,9 +1,12 @@
 ---
-date: 2019-05-08T22:15:50-03:00
-title: "Coroutines Em C: Picoro"
-categories: [ "draft", "blog" ]
-desc: "Como corotinas podem ser implementadas em C de maneira portável e minimalista."
+categories:
+- draft
+- blog
+date: 2019-05-08 22:15:50-03:00
+desc: Como corotinas podem ser implementadas em C de maneira portável e minimalista.
+title: 'Coroutines Em C: Picoro'
 ---
+
 Tantas linguagens hoje em dia tentando implementar a abstração de corrotinas e inserindo mais camadas de abstração (fibras e cereais)... há duas implementações já no Boost, ambas dependendo de uma biblioteca de contexto de stack que é dependente de arquitetura (programada em Assembly).
 
 E aqui está a linguagem C com sua elegância, minimalismo e a filosofia "just works", por mais ou menos 50 anos.
@@ -60,4 +63,3 @@ int main()
 ```
 
 É importante observar que o uso de troca de contexto pode facilmente consumir a pilha, pois ela está sendo compartilhada com muitas funções em paralelo. Para reservar espaço a `coroutine_start` aloca um array de 16 KB (fixo). Esses detalhes de implementação podem ser alterados, pois a biblioteca é tão mínima e simples de entender que construir qualquer coisa em cima dela é trivial.
-

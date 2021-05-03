@@ -1,9 +1,12 @@
 ---
-date: "2021-03-13"
-link: "https://www.imdb.com/title/tt0333074"
-categories: [ "draft", "movies" ]
-title: "Amarelo Manga"
+categories:
+- draft
+- movies
+date: '2021-03-13'
+link: https://www.imdb.com/title/tt0333074
+title: Amarelo Manga
 ---
+
 Nunca vi um filme inspirador que se passa no Recife. Tudo de ruim acontece naquela cidade. As pessoas não prestam e a miséria material e espiritual impera. É o inferno no Nordeste. Por isso o povo de artes adora fazer filmes sobre a cidade. Universitários adoram a pobreza glamurizada. É um mundo diferente para eles. Rola até uma estilizada na fotografia.
 
 Aliás, esse filme de Cláudio Assis está lindamente fotografado pela autoridade no assunto Walter de Carvalho, o que cria um filme sobre a podridão humana em um filtro invejável, com tons quentes que remetem ao realismo ao mesmo tempo que as luzes do palco de um teatro. Não contente com isso os grãos usados na película são grossos, o que remete a uma realidade árida e ardida para os habitantes da capital do inferno.

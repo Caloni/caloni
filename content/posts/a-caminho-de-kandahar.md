@@ -1,9 +1,12 @@
 ---
-date: "2020-03-17"
-link: "https://www.imdb.com/title/tt0283431"
-categories: [ "draft", "movies" ]
-title: "A Caminho de Kandahar"
+categories:
+- draft
+- movies
+date: '2020-03-17'
+link: https://www.imdb.com/title/tt0283431
+title: A Caminho de Kandahar
 ---
+
 Crianças, a maioria meninas, estão prestes a deixar o Irã e se mudar para o Afeganistão, em um ambiente controlado por forças extremistas, tradicionalistas e desumanas. Apesar de terem cerca de cinco a seis anos, um adulto as adverte para a falta de escolas como algo ruim, uma opinião que eu duvido que crianças dessa idade compartilhariam. Ele também dá um conselho: para momentos difíceis imaginem que são formigas. Dessa forma, por pior que seja o aperto, o ambiente onde estarão será amplo e grandioso.
 
 Curiosamente um dos filmes que o cineasta Mohsen Makhmalbaf fará após Kandahar se chama "Scream of the Ants" (grito das formigas), uma análise sobre crenças e rituais. Mas é a cultura que está sendo escrutinada em A Caminho de Kandahar, em particular a cultura que oprime as mulheres. Uma jornalista feminista tenta a todo custo entrar na região para falar com sua irmã, que pretende se suicidar no último eclipse do século. São tantos elementos fantásticos em jogo que nos esquecemos de acreditar em tudo isso, mesmo que saibamos através de noticiários e documentários que tudo o que vemos no filme acontece de fato.

@@ -1,10 +1,14 @@
 ---
-date: "2017-07-31"
-link: "https://www.imdb.com/title/tt4291600"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Lady Macbeth"
+categories:
+- draft
+- movies
+date: '2017-07-31'
+link: https://www.imdb.com/title/tt4291600
+tags:
+- cinemaqui
+title: Lady Macbeth
 ---
+
 Primeiro simpatize com Lady MacBeth. Ou pelo menos simpatize com sua situação. Comprada junto de um pedaço de terra, ela conhece seu marido, filho do seu comprador, no quarto do recém-casal. Perguntada pela criada se ela estaria com frio ou nervosa, a resposta é um duplo-negativo. Katherine não sente frio. "Tenho a pele grossa", diz ela. No entanto, ela está alheia e à deriva desses dois homens, que a dizem quando e como se portar. Exatamente como se ela fosse propriedade.
 
 Depois das cenas iniciais de "Lady MacBeth" você com certeza estará fisgado através da empatia humana, uma ferramenta que nos faz nos identificar com pessoas vulneráveis como ela. E é isso que o filme irá usar para aos poucos te levar aos seus limites morais. Até que ponto uma sociedade estruturada de forma a submeter a mulher como um objeto merece uma retaliação à altura?

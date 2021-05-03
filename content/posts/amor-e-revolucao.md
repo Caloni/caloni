@@ -1,9 +1,12 @@
 ---
-date: "2019-04-23"
-link: "https://www.imdb.com/title/tt4005402"
-categories: [ "draft", "movies" ]
-title: "Amor e Revoluçao"
+categories:
+- draft
+- movies
+date: '2019-04-23'
+link: https://www.imdb.com/title/tt4005402
+title: Amor e Revoluçao
 ---
+
 Esse filme com a Emma Watson, a Hermione que virou feminista (portanto feia), conta uma história baseada em fatos reais como um drama, mas vira uma piada pronta. Começa com os bonitos revolucionários comunistas tentando se proteger do feio golpe militar de direita, mas quando o casal de crushes são enviados para um campo de trabalhos forçados onde se planta e se descasca muita batata e onde ninguém pode sair, ou seja, o paraíso comunista, eles não gostam. Difícil agradar jovenzinhos revolucionários.
 
 A Hermione é uma guria que ficou magra demais, deve ter feito uma dieta comunista para se preparar para o filme. Aqui ela faz uma aeromoça alemã falando inglês, mas não tem problema porque nesse filme todo o Chile fala inglês (graças ao imperialismo ianque). Ela tem o seu amorzinho com um cara que tira excelentes fotos, mas depois do golpe ele é levado para a sala de tortura e vira um retardado. Mas peraí, ele já não era comunista?

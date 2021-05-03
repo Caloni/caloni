@@ -1,9 +1,12 @@
 ---
-date: "2019-03-11"
-link: "https://www.imdb.com/title/tt0105236"
-categories: [ "draft", "movies" ]
-title: "Cães de Aluguel"
+categories:
+- draft
+- movies
+date: '2019-03-11'
+link: https://www.imdb.com/title/tt0105236
+title: Cães de Aluguel
 ---
+
 Há uma entrevista no Blu-Ray do filme em que Michael Madsen (Mr. Blonde) comenta quando Kirk Baltz (policial Marvin Nash) pediu para colocá-lo no porta-malas do carro de Madsen e dar uma volta no quarteirão para estudo de personagem (o personagem de Baltz entraria em cena saindo desse porta-malas). Madsen concorda. O carro usado no filme é dele, mesmo. Ele sai pelo quarteirão, coloca uma música no rádio e se empolga. Roda várias quadras além do quarteirão. Para em um Taco Bell. Pede um lanche e um refrigerante. "Sem fritas", confessa, não querendo inventar nenhuma mentira. Ele aumenta o som do rádio para que os gritos de Baltz não chamassem a atenção e alguém ligasse para a policia. Ele come o lanche e volta ao set, abrindo finalmente o porta-malas. Madsen diz: "Se filmássemos naquele momento, com a cara que ele fez ao sair, teria sido muito melhor". Provavelmente seria. Mas o que importa perceber aqui não é o perfeccionismo com que algumas cenas poderiam ficar, mas como os atores já estavam envolvidos até os ossos nesse projeto antes mesmo de começar.
 
 Primeiro filme de Quentin Tarantino, Reservoir Dogs é um filme que vem envelhecendo muito bem. Se antes era um exemplo de um diretor promissor, embora com orçamento apertado e técnica a ser aprimorada, revendo nota-se a auto-confiança com que o filme é conduzido. É mais surpreendente se lembrarmos do elenco de peso. E mesmo assim a câmera de Tarantino passeia por aquele galpão. Ele encontra enquadramentos de clássico instantâneo e movimentos de câmera que mantém o espectador com a visão privilegiada da violência bizarra inserida em uma história cheia de personagens reais.
@@ -17,4 +20,3 @@ Este é um filme com uma trilha sonora empolgante, com músicas escolhidas a ded
 Até em momentos mais auto-contidos, como quando Mr. Orange vai contar uma história de seu passado, Tarantino experimenta fazer um jogo de cena que além de ser extremamente bem sucedida acaba nos fazendo lembrar também que há criatividade sobrando no cineasta. Orange vai narrando aos colegas quando entrou no banheiro e encontrou quatro policiais conversando (com um pastor alemão). Em um dado momento ele continua contando a história para os amigos no bar, mas o que vemos é ele no banheiro onde estão os tais policias. Ele contando a história para eles. Ao assistir o filme você entende o porquê, e não é preciso mais explicações de como o Cinema de Tarantino trabalha de maneira muitas vezes econômica, mas eficaz.
 
 Reservoir Dogs hoje em dia tem tanto cara de cinema independente quando de jovem clássico, por iniciar uma era onde violência estilizada pode ser usada. Muitos usaram para o bem, explorando esse novo artifício em trabalhos coerentes com a proposta, e outros para o mal, apelando para violência gráfica estilizada como um sinal de mau gosto e de que não entendeu que para fazer isso você precisa ter centenas de horas de vídeo-locadora e ter explorado décadas de cinema e música. E mesmo assim ninguém garante que nascerá mais um Quentin Tarantino.
-

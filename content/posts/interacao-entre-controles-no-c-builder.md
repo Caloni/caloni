@@ -1,8 +1,10 @@
 ---
-date: "2007-12-05"
-title: "Interação entre controles no C++ Builder"
-categories: [ "code" ]
+categories:
+- code
+date: '2007-12-05'
+title: Interação entre controles no C++ Builder
 ---
+
 Como próxima lição da nossa jornada Borland, vamos aprender a fazer os controles de um form interagirem entre si com a força do pensamento.
 
 Para essa proeza precisaremos de:

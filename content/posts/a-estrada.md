@@ -1,9 +1,11 @@
 ---
-date: "2012-12-31"
-link: "https://www.imdb.com/title/tt0898367"
-categories: [ "movies" ]
-title: "A Estrada"
+categories:
+- movies
+date: '2012-12-31'
+link: https://www.imdb.com/title/tt0898367
+title: A Estrada
 ---
+
 A jornada do menino e seu pai por um mundo pós-apocalítico logo assume por repetição das situações que são obrigados a viver -- fome, frio, perigo -- um caráter muito mais moral do que uma simples história de sobrevivência. Só assim A Estrada consegue fazer sentido por completo, desde a mãe desconsolada até as pessoas que os dois encontram pelo caminho.
 
 O caminho visto não é nada mais que uma série de infortúnios de um mundo à beira do colapso e sem esperança, algo que as lentes do fotógrafo evidenciam a todo momento pela ausência quase completa de cores quentes (com exceção do fogo noturno, um aspecto curioso, pois a única visão quente e agradável logo se torna símbolo do lado bom que todos temos dentro de nós, uma alusão clara à criação de uma religião).

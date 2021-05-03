@@ -1,10 +1,14 @@
 ---
-date: "2020-03-13"
-link: "https://www.imdb.com/title/tt7902124"
-categories: [ "draft", "movies", ]
-tags: [ "cinemaqui"  ]
-title: "O Chão Sob Meus Pés"
+categories:
+- draft
+- movies
+date: '2020-03-13'
+link: https://www.imdb.com/title/tt7902124
+tags:
+- cinemaqui
+title: O Chão Sob Meus Pés
 ---
+
 É lugar-comum pisar nas conquistas das outras pessoas quando elas se tornam bem-sucedidas demais. Uma maneira clássica e bem-vista de se fazer isso é colocar os "valores humanos" acima das virtudes individuais da pessoa atacada. Usando um malabarismo dialético joga-se fora ou minimiza-se todas as adversidades pelas quais a pessoa passou para chegar onde está, e se exalta as dificuldades da vida de outra pessoa que se quer defender por comparação. Essa outra pessoa é a chamada vítima. Em O Chão Sob Meus Pés essa construção dialética ganha um contorno tão sutil que o filme precisa da ajuda do espectador para interpretar e descobrir quais seriam esses "valores humanos". Mais difícil ainda, porém, é constatar que eles seriam de alguma forma superiores às conquistas e à felicidade de uma pessoa.
 
 A história é o enredo clichê da protagonista tentando conciliar sua vida profissional com a parente suicida que vira um incômodo. A parente no caso é a irmã mais velha, que após a morte da mãe desenvolve um transtorno psicológico que a impede de ter uma vida independente. O filme nos coloca na história no momento em que fulana teve a mais recente recaída, tomando seu recorde de calmantes de uma só vez ("120 comprimidos!") e indo parar novamente na ala psiquiátrica que se acostumou a habitar, de onde desenvolve narrativas paranóicas sobre persequição e maus tratos que compartilha com sua irmã mais nova. Como iremos observar de maneira tragicômica, quando um dos pacientes malucos a aborda se apresentando como o doutor responsável pela irmã, a loucura genética que ambas provavelmente compartilham possuem similaridades que nossa sociedade tende a selecionar por pura convenção.

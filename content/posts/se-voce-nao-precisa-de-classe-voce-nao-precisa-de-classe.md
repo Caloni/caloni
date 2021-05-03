@@ -1,8 +1,11 @@
 ---
-date: 2017-12-17T22:11:40-02:00
-title: "Se você não precisa de classe você não precisa de classe"
-categories: [ "draft", "blog" ]
+categories:
+- draft
+- blog
+date: 2017-12-17 22:11:40-02:00
+title: Se você não precisa de classe você não precisa de classe
 ---
+
 Nos últimos dias me deparei com o seguinte (pseudo-)código:
 
 ```c++

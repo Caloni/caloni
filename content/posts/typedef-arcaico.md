@@ -1,8 +1,11 @@
 ---
-date: "2010-04-20"
+categories:
+- draft
+- code
+date: '2010-04-20'
 title: Typedef arcaico
-categories: [ "draft", "code" ]
 ---
+
 A [API do Windows](http://msdn.microsoft.com/) geralmente prima pela excelência em maus exemplos. A [Notação Húngara](http://pt.wikipedia.org/wiki/Nota%C3%A7%C3%A3o_h%C3%BAngara) e o Typedef Arcaico são duas técnicas que, por motivos históricos, são usados a torto e a direito pelos códigos de exemplo.
 
 Já foi escrito muita coisa sobre os prós e contras da notação húngara. Já o typedef arcaico, esse pedacinho imprestável de código, ficou esquecido, e hoje em dia traz mais dúvidas na cabeça dos principiantes em C++ do que deveria. Para tentar desobscurecer os mitos e fatos, vamos tentar explicar o que significa essa construção tão atípica, mas comum no dia-a-dia.

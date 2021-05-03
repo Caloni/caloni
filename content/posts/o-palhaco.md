@@ -1,9 +1,11 @@
 ---
-date: "2011-11-06"
-link: "https://www.imdb.com/title/tt1921043"
-categories: [ "movies" ]
-title: "O Palhaço"
+categories:
+- movies
+date: '2011-11-06'
+link: https://www.imdb.com/title/tt1921043
+title: O Palhaço
 ---
+
 É muito difícil escrever sobre filmes ruins, atacando conteúdos sem sentido e muitas vezes com uma visão precipitada ou exacerbada. Por outro lado, falar de um filme virtuoso em tantos aspectos como O Palhaço pode ser uma atividade prazerosa e ao mesmo tempo um ato de injustiça, por deixar tantos detalhes do lado de fora do texto.
 
 Mesmo assim, vale a pena dissecar filmes bem produzidos como esse, pois o fato do assunto não ter se esgotado é prova da competência e da riqueza do filme, que ainda provavelmente resistiria a uma segunda análise. Melhor ainda: por sua história ter contornos universais, mexendo no emocional e na imaginação coletiva, ele provavelmente resistirá bem ao tempo, e poderá ser revisto daqui a uma década ou duas mantendo suas virtudes intactas.

@@ -1,9 +1,12 @@
 ---
-date: "2017-08-25"
-link: "https://www.imdb.com/title/tt1219827"
-categories: [ "draft", "movies" ]
-title: "A Vigilante do Amanhã: Ghost In The Shell"
+categories:
+- draft
+- movies
+date: '2017-08-25'
+link: https://www.imdb.com/title/tt1219827
+title: 'A Vigilante do Amanhã: Ghost In The Shell'
 ---
+
 Scarlett Johansson possui uma beleza natural que encanta tanto pela beleza quanto pelo natural. E nem ela parece conseguir trazer algo de novo ao remake ocidental live-action de um dos trabalhos filosoficamente mais ambiciosos dos últimos tempos. E se nem ela consegue, não serão efeitos digitais nem diálogos em inglês que o farão.
 
 A história é basicamente a mesma mais ou menos dois terços do tempo. A grande mudança está no terço final, onde o filme apela para se enlatar como um filme genérico de ação, dando um gosto estranho na boca de ter comprado gato por lebre.

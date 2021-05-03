@@ -1,9 +1,11 @@
 ---
-date: "2012-10-05"
-link: "https://www.imdb.com/title/tt1343727"
-categories: [ "movies" ]
-title: "Dredd"
+categories:
+- movies
+date: '2012-10-05'
+link: https://www.imdb.com/title/tt1343727
+title: Dredd
 ---
+
 Os juízes do futuro pós-apocalíptico em Dredd utilizam apenas duas ferramentas para fazer valer a ordem: uma pistola com diversos tipos de disparo e uma interpretação literal das leis. Olhamos essa realidade através do implacável juiz que empresta seu nome ao título, que em suas rondas se limita a aplicar a sentença cabível aos criminosos, incluindo aí a pena de morte. Sua decisão do que fazer a seguir é a resposta da pergunta como posso melhor julgar este caso.
 
 Se passando em uma cidade pós-apocalíptica de proporções continentais chamada pomposamente de Mega City 1, seus sobreviventes precisam suportar, além da radiação que os circunda, uma violência constante e em um grau cada vez mais desumano. Para manter a ordem os já citados juízes possuem o poder conjugado de policiais que capturam os criminosos, os julgam no mesmo lugar e, se necessário, aplicam a sentença definida. Os objetivos por trás dessa organização nunca são reveladas, e nunca conhecemos os governantes (se é que existem) da caótica megalópole.

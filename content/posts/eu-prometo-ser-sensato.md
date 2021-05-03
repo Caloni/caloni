@@ -1,10 +1,14 @@
 ---
-date: "2019-10-21"
-link: "https://www.imdb.com/title/tt9041234"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Eu Prometo Ser Sensato"
+categories:
+- draft
+- movies
+date: '2019-10-21'
+link: https://www.imdb.com/title/tt9041234
+tags:
+- cinemaqui
+title: Eu Prometo Ser Sensato
 ---
+
 No começo de Eu Prometo Ser Sensato testemunhamos o último desastre de Franck, um diretor de teatro completamente fora de controle. Não é uma situação engraçada, mas trágica, para o elenco, o público e ele mesmo. E este ironicamente é o resumo do filme inteiro de Ronan Le Page: sem sentido, sem paixão e sem controle. Não há nada neste filme que você irá sentir falta quando ele acabar.
 
 A história é sobre o que Franck faz depois do desastre inicial que vemos. Interpretado de maneira tresloucada e automática por Pio Marmaï, do muito melhor Beijei uma Garota. E ele arruma um emprego temporário como assistente de museu. Acompanhamos sua tentativa de se adaptar e no meio dela descobrirmos que ele é um personagem completamente desbaratinado, um enigma. Simplesmente não dá para entendê-lo, e isso nem é por ser francês. Encontrando outra louca, interpretada por Léa Drucker e que cria uma personagem muito mais interessante apenas com trejeitos e expressões (vamos esquecer os diálogos), o circo da comédia francesa está formado.

@@ -1,9 +1,11 @@
 ---
-date: "2020-10-04"
-link: "https://www.crunchyroll.com/love-is-like-a-cocktail"
-categories: [ "animes" ]
-title: "Love is Like a Cocktail"
+categories:
+- animes
+date: '2020-10-04'
+link: https://www.crunchyroll.com/love-is-like-a-cocktail
+title: Love is Like a Cocktail
 ---
+
 Fiquei muito empolgado com essa ideia de animes com episódios de três minutos. Três meros minutos. Enquanto isso a Netflix e o Prime Video nos bombardeiam com séries de uma hora de um irrelevante primeiro episódio que já dá vontade de parar no meio.
 
 No entanto, três minutos acaba sendo pouco demais, enquanto ao mesmo tempo demonstra perfeitamente o que a geração atual aprecia: ideia rápidas, misturadas e que não os façam pensar demais. Apenas os memes, por favor.

@@ -1,9 +1,12 @@
 ---
-date: "2015-12-13"
-link: "https://www.imdb.com/title/tt2085059"
-categories: [ "draft", "series" ]
-title: "Black Mirror - S02E02 - White Bear"
+categories:
+- draft
+- series
+date: '2015-12-13'
+link: https://www.imdb.com/title/tt2085059
+title: Black Mirror - S02E02 - White Bear
 ---
+
 Black Mirror é uma série que explora o que há de pior em nossa era da comunicação instantânea e da tecnologia crescente. Na verdade, eles vão um pouco além da nossa realidade atual, avançando alguns anos/décadas, onde algumas novidades brincam com nosso conceito de humanidade e relacionamentos, mídia e governos.
 
 Catártico, esse episódio consegue criticar ao mesmo tempo o coletivo que observa inerte a realidade cruel do mundo em sua volta, os selfies em enterros e no meio de desgraças, e ao mesmo tempo reverte essa expectativa punindo um indivíduo justamente por este comportamento. Rápido e sagaz, não há muito espaço para reflexão neste que é a história mais movimentada e circular da série, que já me conquistou desde seu primeiro episódio.

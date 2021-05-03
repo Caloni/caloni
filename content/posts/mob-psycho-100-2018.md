@@ -1,9 +1,12 @@
 ---
-date: "2018-05-27"
-link: "https://www.imdb.com/title/tt7701694"
-categories: [ "draft", "series" ]
-title: "Mob Psycho 100 (2018)"
+categories:
+- draft
+- series
+date: '2018-05-27'
+link: https://www.imdb.com/title/tt7701694
+title: Mob Psycho 100 (2018)
 ---
+
 Eu assisti com meu cunhado o primeiro (talvez o segundo) episódio da versão anime deste mangá idealizado por One, o mesmo responsável por One Punch Man. Há claramente elementos coincidentes na "filmografia" de One, como o herói não-convencional que é poderoso mas não se gaba de seu poder, e além disso ainda tem problemas cuja solução não envolve em nada o uso de seu poder. O anime de Mob Psycho 100 se beneficia dos traços minimalistas já vistos em One Punch Man, mas no caso de One Punch a crítica aos animes de seres super-poderosos é visceral. Já na versão live action produzida em conjunto com a Netflix, o que vemos é uma tradução ipsis literis do anime com enquadramentos exatos e atores de carne e osso que fazem o máximo para emular o anime. O que me leva a reafirmar minha crença que fãs de animes que gostam de visualizar versões live action são das opções possíveis ou 1) fetichistas fãs de cosplay (masculino e feminino), 2) retardados.
 
 Porque a versão do anime já possui todos os elementos da história original, fora que o universo fantástico onde a história se passa se beneficia com o desenho. Com atores reais a coisa meio que se torna deliciosamente estilizada mais graças a um figurino e um elenco que vive seus personagens quadro-a-quadro e menos pelos efeitos visuais, capengas, feitos para TV, que mostram um espírito verde musculoso quando no Cinema 20 anos atrás isso já era vergonhoso.

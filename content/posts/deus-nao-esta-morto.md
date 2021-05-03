@@ -1,9 +1,11 @@
 ---
-date: "2015-09-28"
-link: "https://www.imdb.com/title/tt2528814"
-categories: [ "movies" ]
-title: "Deus Não Está Morto"
+categories:
+- movies
+date: '2015-09-28'
+link: https://www.imdb.com/title/tt2528814
+title: Deus Não Está Morto
 ---
+
 Nietzsche havia alertado aos pensadores mais livres já no século XVII: deus está morto. Hoje, de uma maneira irônica, um movimento encabeçado por cristãos anuncia aos quatro ventos: foda-se a lógica!
 
 É basicamente sobre isso o longa dirigido por Harold Cronk, inspirado em diversos movimentos estudantis em faculdades americanas onde a liberdade de crença foi posta em xeque.

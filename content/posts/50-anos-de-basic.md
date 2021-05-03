@@ -1,8 +1,11 @@
 ---
-date: "2014-05-13"
-categories: [ "code", "draft",  ]
-title: "50 Anos de BASIC"
+categories:
+- code
+- draft
+date: '2014-05-13'
+title: 50 Anos de BASIC
 ---
+
 Minha primeira linguagem de programação foi o BASIC. Aprendi durante minhas frequentes visitas à biblioteca lendo livros dos anos 80. Na verdade, eu não me lembro muito bem por que diabos resolvi aprender a programar, já que eu estava mais interessado em entender como um computador funciona. Por que? Não sei bem ao certo, parece que já nasci com um chip embutido que foi ativado quando comecei a tender muito para o lado de humanas ao iniciar a faculdade de Letras... um chip salvador!
 
 Enfim, um dos melhores livros que já li na minha vida não foi um cheio de letras, mas muito mais figuras: a Introdução Ilustrada à Computação, de Larry Gonick. Ele foi traduzido e publicado no Brasil pela Itautec e é um clássico absoluto sobre a história da computação, explicada de uma maneira que até um leigo completo conseguiria entender. E quando eu digo "computação" não estou me referindo a noções vagas sobre como o computador processa a entrada e gera saída. O ilustrador Larry Gonick fez um excelente trabalho em capturar a essência de cada inventor da história ¿ como Alan Turing, John Von Newmann, Charles Babbage e Ada Lovelace ¿ e cada conceito básico aplicado à invenção do computador, desde saldos condicionais (Lovelace), lógica booleana (George Boole), codificação binária e, pasmem... flip-flops!

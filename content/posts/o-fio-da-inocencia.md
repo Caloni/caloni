@@ -1,9 +1,11 @@
 ---
-date: "2020-05-04"
-link: "https://www.imdb.com/title/tt0165773"
-categories: [ "movies" ]
-title: "O Fio da Inocência"
+categories:
+- movies
+date: '2020-05-04'
+link: https://www.imdb.com/title/tt0165773
+title: O Fio da Inocência
 ---
+
 Este é um filme atordoante. Ele começa como um drama, vai tomando aspectos de thriller e nunca perde seu primeiro tom. Esquizofrênico, nos apresenta um personagem carismático, mas olhe de novo e verá outra coisa. Porém, o carisma continua lá em alguma lugar. E isso bate no espectador como um jogo moral difícil de se desvencilhar.
 
 A atuação de Bob Hoskins é a peça fundamental dessa engrenagem distorcida da realidade, em que o que poderia ser uma simples história de desilusão amorosa na juventude e as lembranças de infância de um inspetor de alimentos se torna uma tensão difícil de se ver, tanto nos dramas quanto nos thrillers. Ao acompanhar os dois o clima fica muito pesado e irresistível.

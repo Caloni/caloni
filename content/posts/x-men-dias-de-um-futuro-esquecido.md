@@ -1,9 +1,11 @@
 ---
-date: "2014-05-26"
-link: "https://www.imdb.com/title/tt1877832"
-categories: [ "movies" ]
-title: "X-Men: Dias de um Futuro Esquecido"
+categories:
+- movies
+date: '2014-05-26'
+link: https://www.imdb.com/title/tt1877832
+title: 'X-Men: Dias de um Futuro Esquecido'
 ---
+
 A franquia X-Men parece ter chegado a algum tipo de saturação nesse "Dias de um Futuro Esquecido" onde o diretor Bryan Singer, que estreou a série e sua continuação, parece recontar momentos históricos da luta entre humanos e mutantes quando, mais uma vez, mutantes pacíficos e mutantes violentos se reúnem.
 
 De qualquer forma, convenhamos: seria muito difícil que o roteiro de Simon Kinberg superasse a complexidade do drama entre dois amigos de "X-Men: First Class", sejam eles Xavier e Raven/Mística ou Xavier e Eric/Magneto, ou até da catarse apocalíptica de "O Confronto Final". Talvez o maior erro fosse compará-los, mas acredito que o verdadeiro pecado é percorrer quase o mesmo caminho de uma história que possui um potencial muito maior exatamente pelas suas alegorias atuais com homossexualidade e racismo. O velho caminho do terrorismo e corporações também parece ter chegado a algum tipo de saturação.

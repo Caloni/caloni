@@ -1,8 +1,10 @@
 ---
-date: "2008-01-24"
-title: "Keychanger de criança"
-categories: [ "code" ]
+categories:
+- code
+date: '2008-01-24'
+title: Keychanger de criança
 ---
+
 Às vezes na vida a vontade de fazer alguma coisa besta acaba sendo mais forte do que o senso de ridículo. Então, resolvi ressuscitar o quase apodrecido [RusKey], um programa que fiz para trocar letras digitadas no teclado. A idéia é muito simples: o sujeito digita 'i' e sai um 'c', digita um 'f' e sai um 'u', e assim por diante. Se estiver programando e for criar um if, por exemplo, no lugar da palavra if vai aparecer... bom, não é exatamente um if que vai aparecer na tela =).
 
 Mas se analisarmos dessa maneira pode parecer até coisa de "ráquer", o que certamente não é. Na verdade, se trata de um programa didático que visa ensinar a digitação em leiautes de teclados diferentes do normal em idiomas latinos. Pelo menos essa foi a intenção original. 

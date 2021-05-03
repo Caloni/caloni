@@ -1,9 +1,12 @@
 ---
-date: "2015-12-02"
-link: "https://www.imdb.com/title/tt0126886"
-categories: [ "draft", "movies" ]
-title: "Eleição"
+categories:
+- draft
+- movies
+date: '2015-12-02'
+link: https://www.imdb.com/title/tt0126886
+title: Eleição
 ---
+
 Esse filme de Alexander Payne (Sideways, Os Descendentes) pode ter passado despercebido na época em que foi lançado, mas uma vez que você o assiste, seus detalhes políticos sórdidos irão infestar sua mente como nunca.
 
 É bom lembrar, porém, que este não é desses filmes chatos de política em que é preciso ficar atento a tudo que todos fazem a todo momento. Para começar, é sobre uma eleição escolar, o que alivia bastante a tensão e permite refletirmos nos movimentos dos personagens. E para ajudar ainda mais, acompanhamos cada um dos pensamentos das quatro pessoas envolvidas, o que aumenta ainda mais a transparência de cada nova reviravolta, além da empatia (ou antipatia) que nutrimos por cada um deles.

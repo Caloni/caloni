@@ -1,9 +1,12 @@
 ---
-date: "2021-02-15"
-categories: [ "food" ]
-tags: [ "coffee" ]
-title: "Uma Breve História Sobre Preconceito (e Café)"
+categories:
+- food
+date: '2021-02-15'
+tags:
+- coffee
+title: Uma Breve História Sobre Preconceito (e Café)
 ---
+
 Eu me lembro de vídeos antigos de moedores de café manuais em que o sujeito fica 10 minutos no YouTube girando aquela matraca até conseguir tirar de alguns grãos de café o pó para seu cafezinho matinal. Fiquei com a impressão de que todo moedor manual era assim e desisti na hora de ter um, optando por um elétrico.
 
 Alguns anos depois o motor do meu moedor elétrico dá pau. Eu não sei o que é e ele não me deixa saber. A montagem é feita de tal forma que fica difícil arrancar o motor e a ignição para saber em que lugar é o problema. Depois de algumas horas analisando condutividade dos cabos desisto e parto para buscar um substituto, e rápido, pois estou com um estoque considerável de alguns quilos de grãos em casa.

@@ -1,9 +1,11 @@
 ---
-date: "2012-04-28"
-link: "https://www.imdb.com/title/tt0848228"
-categories: [ "movies" ]
-title: "Os Vingadores - The Avengers"
+categories:
+- movies
+date: '2012-04-28'
+link: https://www.imdb.com/title/tt0848228
+title: Os Vingadores - The Avengers
 ---
+
 Há um momento na nova produção da Marvel em que o personagem central Nick Fury (Samuel L. Jackson) comenta que o conceito de super-heróis é antiquado. Iss pode até soar contraditório vindo de uma figura como Nick, crente que sua heterogênea equipe de seres com poderes extraordinários, mesmo com suas diferenças, é o melhor que a Terra precisa em momentos de apuro. Porém também é uma maneira do espectador não-fã de quadrinhos conceber o absurdo da situação de reunir tantos heróis em uma única história. E se a maior virtude de um filme é conhecer seu universo e fazer de tudo para que as pessoas acreditem nele, nesse sentido Os Vingadores se sai muitíssimo bem.
 
 A história começa quando experimentos em torno de uma nova forma de energia acabam trazendo para o planeta o semi-deus Loki (Tom Hiddleston), irmão de Thor (Chris Hemsworth). Loki não deseja nada menos do que conquistar a raça humana e se tornar governador do que restar de uma provável guerra entre mundos. Considerando que esta é uma "continuação" de diversos filmes periféricos ([Homem de Ferro], [Capitão América], [Thor]) e muitas informações seriam por demais redundantes, o filme se concentra nesse núcleo essencial para que entendamos o tom de urgência para que Nick Fury acione rapidamente todos os heróis conhecidos e "monitorados" pela S.H.I.E.L.D., uma organização que a princípio zela pela paz no planeta.

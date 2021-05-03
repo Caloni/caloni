@@ -1,10 +1,14 @@
 ---
-date: "2018-10-26"
-link: "https://www.imdb.com/title/tt1893269"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Kusama - Infinito"
+categories:
+- draft
+- movies
+date: '2018-10-26'
+link: https://www.imdb.com/title/tt1893269
+tags:
+- cinemaqui
+title: Kusama - Infinito
 ---
+
 Kusama - Infinito é um documentário de praxe, desses que tem aos montes na TV e na Netflix (aliás, este possui agradecimentos do serviço de streamin nos créditos finais, o que indica que em breve deve estar disponível para os assinantes).
 
 Ele fala da surpreendente carreira da artista contemporânea Yayoi Kusama, que no ápice da loucura se internou voluntariamente em uma clínica psiquiátrica por medo de ter ataques nervosos que trariam um fim à sua vida. Mas ela não podia morrer. Diagnosticada com Transtorno Obsessivo-Compulsivo, Kusama leva as obsessões mentais em sua cabeça a sério. Ela está no limite do que pode-se considerar normal, e é isso que faz ela trazer sua genialidade à tona.

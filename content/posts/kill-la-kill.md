@@ -1,9 +1,13 @@
 ---
-date: "2014-10-19"
-link: "https://www.imdb.com/title/tt3114390"
-categories: [ "draft", "series", "animes" ]
-title: "Kill La Kill"
+categories:
+- draft
+- series
+- animes
+date: '2014-10-19'
+link: https://www.imdb.com/title/tt3114390
+title: Kill La Kill
 ---
+
 "Não fazer sentido é com a gente!", repete a heroína Ryuko Matoi nos capítulos finais do anime Kill La Kill. Parte de sua inspiração vem de sua amiga inseparável Mako Mankanshoku, que muito provavelmente entraria em várias listas de personagens mais carismáticas, engraçadas e "sem sentido".
 
 Esse é o primeiro trabalho da produtora Trigger, fundada em 2011 por Hiroyuki Imaishi e Masahiko Ohtsuka. Importante notar que ambos faziam parte da Gainax, responsável por trabalhos visualmente ambiciosos como Neon Genesis Evangelion (que inspirou Guillermo del Toro, um idealizador fissurado em animes, a criar uma versão live action chamada Pacific Rim). Por que é importante notar isso? Porque Kill La Kill, embora não se beneficie de um roteiro bem construído, possui uma energia visual tão caótica quanto contagiante.

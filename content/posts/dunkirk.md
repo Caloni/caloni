@@ -1,10 +1,14 @@
 ---
-date: "2017-07-25"
-link: "https://www.imdb.com/title/tt5013056"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Dunkirk"
+categories:
+- draft
+- movies
+date: '2017-07-25'
+link: https://www.imdb.com/title/tt5013056
+tags:
+- cinemaqui
+title: Dunkirk
 ---
+
 Dunkirk é um considerável esforço técnico. São tiros disparados, bombas explodindo e hélices se mexendo a todo vapor, conduzidos com um naturalismo impressionante e uma trilha sonora soberba, no sentido pretensioso da palavra. O resultado é uma imersão realista sobre um evento histórico que parece trazer muito mais euforia e catarse do que melancolia pelas misérias da guerra.
 
 Isso deve acontecer porque o filme vai construindo um certo senso patriótico em seu lado mais singelo, o humanismo, como se esquecesse que foi o nacionalismo exacerbado justamente o responsável pelas piores guerras. Além disso, mostra também o lado mais egoísta do ser humano na busca pela sobrevivência, onde não há culpados e onde a moral é frouxa. Esse retrato é traçado cuidadosamente do indivíduo para o coletivo, e a história por trás de tudo aquilo que está acontecendo, e por que acontece daquela maneira.

@@ -1,10 +1,14 @@
 ---
-date: "2017-06-21"
-link: "https://www.imdb.com/title/tt5771640"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Garota Ocidental - Entre o Coração e a Tradição"
+categories:
+- draft
+- movies
+date: '2017-06-21'
+link: https://www.imdb.com/title/tt5771640
+tags:
+- cinemaqui
+title: A Garota Ocidental - Entre o Coração e a Tradição
 ---
+
 Após acabar "A Garota Ocidental - Entre o Coração e a Tradição" há a sensação deste filme ser um remake. Isso porque a história que ele conta, inspirado livremente em fatos reais, infelizmente não é um caso isolado. O seu núcleo revela uma repetição de costumes que um certo povo mantém século a século, e mesmo que convenientemente auxiliado pela tecnologia da época, se mostra arcaico e anacrônico se comparado com os princípios mais básicos que temos hoje de direitos humanos.
 
 Ao mesmo tempo é curioso como a releitura que o filme faz sobre os costume de casamento arranjado com o objetivo de manter a unidade de um povo serve apenas para os muçulmanos e outros grupos étnicos, culturais e religiosos que, com o coração no passado, vivem em meio ao ápice do mundo ocidental, seja na Europa ou no EUA. Hoje não seria mais aceitável, por exemplo, que judeus seguissem a mesma linha de raciocínio, embora este fosse um costume antigo de praticamente qualquer povo que nasceu ainda na Antiguidade.

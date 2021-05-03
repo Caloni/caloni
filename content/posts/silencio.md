@@ -1,10 +1,14 @@
 ---
-date: "2017-02-22"
-link: "https://www.imdb.com/title/tt0490215"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Silêncio"
+categories:
+- draft
+- movies
+date: '2017-02-22'
+link: https://www.imdb.com/title/tt0490215
+tags:
+- cinemaqui
+title: Silêncio
 ---
+
 Martin Scorsese volta ao tema religioso depois de longo hiato (seu último foi A Última Tentação de Cristo, na década de 80) em uma obra que lida com sofrimento cristão em um nível quase que metafísico. Para isso viajamos ao Japão feudal e a miséria de um povo, onde encontraremos padres jesuítas dispostos a tudo para converter fiéis, mesmo que estes fiéis e os próprios padres estejam sendo sumariamente torturados e executados.
 
 Este é um filme que enxerga a realidade principalmente pela ótica cristã, e apenas Scorsese conseguiria dedicar tanta paixão à causa. Vindo de família católica, sua história demonstra até que ponto e de quais maneiras a fé cristã atingia povos ainda isolados da religião de um salvador e um deus único, nem que para isso fosse necessário sacrificar a própria vida. E há, acredite, vários e vários sacrifícios. A morte é uma constante em todo o longa. O filme dedica um bom tempo convencendo o espectador através do tom cerimonioso e absolutamente honesto dos padres de que naquela época a fé era a verdade em si, e espalhar a verdade é uma questão de salvamento de almas, ou seja, não é possível deixar essa missão sem um bom motivo.

@@ -1,9 +1,11 @@
 ---
-date: "2010-12-20"
-link: "https://www.imdb.com/title/tt0060196"
-categories: [ "movies" ]
-title: "Três Homens em Conflito"
+categories:
+- movies
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt0060196
+title: Três Homens em Conflito
 ---
+
 Esse faroeste de Leone foi narrado em um contexto histórico e, por isso mesmo, com muitas pitadas de realismo nas cenas, mesmo com os absurdos hilários a que estamos acostumados em filmes do gênero. Nesse longa de quase três horas de duração teremos três pistoleiros decididos a encontrar uma fortuna escondida, mas para isso terão que passar por várias provações na época da guerra da Sessesão.
 
 Uma característica marcante e que nos torna ainda mais cúmplices das peripécias dos personagens é o ângulo e a forma como a câmera se posiciona em cada cena. Fora os enquadramentos magníficos na maior widescreen que o cinema já teve, exacerbados ainda mais pela belíssima fotografia do filme, que é belíssima exatamente por evocar imagens históricas. Leone faz questão que sintamos o ponto de vista dos personagens ou da situação em cada quadro, com uma continuidade que é sempre eficiente, pois nos coloca na posição privilegiada em que podemos ver a ação e ao mesmo tempo interpretá-la.

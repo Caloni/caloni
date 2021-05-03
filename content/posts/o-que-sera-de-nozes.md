@@ -1,9 +1,12 @@
 ---
-date: "2017-01-01"
-link: "https://www.imdb.com/title/tt1821658"
-categories: [ "draft", "movies" ]
-title: "O Que Será de Nozes?"
+categories:
+- draft
+- movies
+date: '2017-01-01'
+link: https://www.imdb.com/title/tt1821658
+title: O Que Será de Nozes?
 ---
+
 The Nub Job é uma animação com orçamento limitado, pequenos defeitos na caracterização de seus personagens (visualmente e direto do roteiro) e que usa uma moral deturpada que abraça o coletivismo em uma história rapidamente esquecível. Ele arrisca ainda em seu roteiro e montagem contar duas histórias ao mesmo tempo, mas é por demais amador e ainda no rascunho.
 
 Seu anti-herói um esquilo que pensa apenas em si mesmo. Acompanhado de seu amigo rato, miolo-mole e coração-gigante inseparável, juntos tentam obter comida para sua própria sobrevivência. Enquanto isso, no parque da cidade, há uma espécie de monarquia misturada com democracia direta, onde existe um conselheiro-mestre que manda em tudo (inclusive que busquem comida para ele) e que constrói através de um falso herói (um esquilo fortão e desmiolado) e uma meio-princesa meio-aventureira (e idealista) a mensagem de que existe uma entidade maior que todos pela qual todos lutam: o parque.

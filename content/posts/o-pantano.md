@@ -1,9 +1,12 @@
 ---
-date: "2019-06-17"
-link: "https://www.imdb.com/title/tt0240419"
-categories: [ "draft", "movies" ]
-title: "O Pântano"
+categories:
+- draft
+- movies
+date: '2019-06-17'
+link: https://www.imdb.com/title/tt0240419
+title: O Pântano
 ---
+
 É daqueles filmes intimistas que fala sobre a família em tempos bucólicos, sem maldade, com geladeira velha e matriarca que não para de beber. O que deu de errado com essa família de classe média baixa?
 
 Nada. Supostamente era para ser assim mesmo. E a diretora Lucrecia Martel acompanha esse clima bucólico com total apatia, embora capture enquadramentos de cenas com certo charme e saudosismo. É um filme difícil para os que pretendem ficar acordados e ótimo para os que pretendem dormir. Há um sentimento meio Godariano de desdém por aquela vidinha burguesa sem graça. Afinal de contas, pobre que saber viver.

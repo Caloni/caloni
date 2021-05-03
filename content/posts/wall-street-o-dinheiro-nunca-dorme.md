@@ -1,9 +1,11 @@
 ---
-date: "2010-09-24"
-link: "https://www.imdb.com/title/tt1027718"
-categories: [ "movies" ]
-title: "Wall Street: O Dinheiro Nunca Dorme"
+categories:
+- movies
+date: '2010-09-24'
+link: https://www.imdb.com/title/tt1027718
+title: 'Wall Street: O Dinheiro Nunca Dorme'
 ---
+
 Essa seria a continuação do original Wall Street, quando o protagonista sai da prisão e sua filha namora um operador de Wall Street.
 
 O que vemos no começo é a caracterização da crise na forma de personagens muito bem caracterizados e com papéis bem definidos, como na fatídica reunião da quebra do primeiro banco de investimentos, em uma reunião contada com uma fotografia sombria e movimentos tensos.

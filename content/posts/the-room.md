@@ -1,9 +1,12 @@
 ---
-date: "2018-05-24"
-link: "https://www.imdb.com/title/tt0368226"
-categories: [ "draft", "movies" ]
-title: "The Room"
+categories:
+- draft
+- movies
+date: '2018-05-24'
+link: https://www.imdb.com/title/tt0368226
+title: The Room
 ---
+
 Este é um review encomendado pelos meus amigos, que insistiram que eu deveria ver e revisar este surpreendente jovem clássico. Sim, é claro que eu já sabia se tratar de um daqueles filmes famosos por estar em muitas listas de piores filmes já feitos, mas apesar de eu já ser um pouco fã do gênero trash acredito que eles conseguiriam muito mais a minha atenção se dizessem que você nunca viu nada igual. E é a mais pura verdade. E digo mais: talvez eu nunca tenha visto nada igual dentro do próprio filme, onde os personagens mudam de ideia e de humor a toda hora.
 
 Por exemplo, temos uma personagem que revela ter câncer de mama, mas essa revelação bombástica é descartada pela sua própria filha como algo corriqueiro. Ou quando vemos um caso sério de dívida de drogas em uma única cena para ser esquecido para sempre. Além do mais, neste filme pessoas vão e vem à casa do protagonista, abrindo a porta principal casualmente, como se ali fosse algum tipo de passagem obrigatória de transeuntes, e alguém bate na porta uma única vez no filme inteiro porque tem alguém sem camisa do lado de dentro. Vemos algumas tomadas da cidade de São Francisco como se isso tivesse alguma relação sobre o principal cenário onde as coisas acontecem, deixam de acontecer e acontecem de novo: o loft-título onde Johnny vive com sua futura esposa Lisa.

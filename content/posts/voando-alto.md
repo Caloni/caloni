@@ -1,9 +1,12 @@
 ---
-date: "2017-05-02"
-link: "https://www.imdb.com/title/tt1083452"
-categories: [ "draft", "movies" ]
-title: "Voando Alto"
+categories:
+- draft
+- movies
+date: '2017-05-02'
+link: https://www.imdb.com/title/tt1083452
+title: Voando Alto
 ---
+
 Este é um filme para observar a atuação de Taron Egerton em um papel muito diferente do que ele fez em Kingsman. Também é um filme para observarmos como nem sempre a persona de Hugh Jackman, como visto em Gigantes de Aço, consegue ser tão eficaz. E, de forma geral, este é um filme que repassa alguns momentos da vida real de Eddie Edwards, uma criança inglesa que parece já ter nascido com a ideia obcecada de participar das olimpíadas.
 
 Há algo de mágico nesta história, e a direção do ator Dexter Fletcher percebeu isso. Há momentos grandiosos em câmera lenta com uma música imponente. Há também momentos vergonhosos onde vemos em câmera lenta uma sequência de bocas maravilhadas se abrindo (bem ao estilo de humor britânico, despojado). No meio de tudo isso, a história ganha um tratamento de épico, mas sem alma. Se trata de um passeio burocrático por uma história maravilhosa, talvez, mas não o suficiente para imprimir momentos inesquecíveis que você irá levar nas suas memórias cinematográficas.

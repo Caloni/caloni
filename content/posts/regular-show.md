@@ -1,9 +1,12 @@
 ---
-date: "2015-07-28"
-link: "https://www.imdb.com/title/tt1710308"
-categories: [ "draft", "series" ]
-title: "Regular Show"
+categories:
+- draft
+- series
+date: '2015-07-28'
+link: https://www.imdb.com/title/tt1710308
+title: Regular Show
 ---
+
 Regular Show consegue contar seus episódios em apenas dez minutos. Isso em uma história quase sempre dotada de uma criatividade sem limites onde figuras impossíveis surgem para finalizar as piadas com o toque final do absurdo necessário para finalizar histórias como essa. Confuso, mas é sempre assim.
 
 Parece ser comum hoje em dia as animações preferirem vender para a TV vinte ou até mais minutos de uma experiência inchada. O público não se importa, e várias produções parecem se sentir merecedoras de ocupar nossos minutos raros dedicados ao entretenimento com repetições baratas de músicas e enredos. No caso do Regular Show, eles simplesmente parecem querer evitar a antipatia que se ganha depois de executar o mesmo roteiro dezenas (ou centenas) de vezes.

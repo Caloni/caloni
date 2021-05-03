@@ -1,9 +1,11 @@
 ---
-date: "2020-05-19"
-link: "https://www.imdb.com/title/tt0137439"
-categories: [ "movies" ]
-title: "Conto de Outono"
+categories:
+- movies
+date: '2020-05-19'
+link: https://www.imdb.com/title/tt0137439
+title: Conto de Outono
 ---
+
 É época da colheita de uvas para fazer vinho e este filme de Éric Rohmer fala sobre personagens mais maduros, que já envelheceram o suficiente para saberem exatamente o que querem e terem um gosto mais complexo na boca.
 
 Com os filhos já criados e casando, para muitos que já perderam o parceiro pode ser uma boa ter uma nova companhia que traga significado à vida, e não apenas prazeres frívolos. Há um professor de filosofia que só está interessado em ex-alunas jovens, e o filme nos mostra o quanto essa atitude é ao mesmo tempo coerente e patética. Também nos mostra como as mais jovens têm certeza que foram elas que iniciaram o flerte com os mais velhos, nessas peças que a vida prega aos mais jovens, que só porque se sentem no controle assumem que o que a vida lhe trouxe é exatamente o que queriam.

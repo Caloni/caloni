@@ -1,9 +1,11 @@
 ---
-date: "2014-09-11"
-link: "https://www.imdb.com/title/tt2758890"
-categories: [ "movies" ]
-title: "Bem-Vindo a Nova York"
+categories:
+- movies
+date: '2014-09-11'
+link: https://www.imdb.com/title/tt2758890
+title: Bem-Vindo a Nova York
 ---
+
 Devereaux, o personagem de Gérard Depardieu em mais um papel memorável, é um intelectual que está no topo da cadeia do mercado financeiro e que ainda é casado com uma esposa bilionária. Por onde passa espalha admiração. É um senhor fisicamente grande e desengonçado, mas educado e cordial. Fora isso é um pervertido sexual que simplesmente não consegue se controlar diante de uma mulher, e é isso que abala completamente as estruturas sociais de sua vida bem-sucedida.
 
 A direção de Abel Ferrara (Vício Frenético e Olhos de Serpente, ambos com Harvey Keitel) e o roteiro co-escrito com Christ Zois conseguem prender 100% de nossa atenção durante todo o desenrolar inicial quase sem diálogos. A introdução passa por longas cenas de sexo que são necessárias para a narrativa -- diferente de "Azul é a Cor mais Quente", o soft-porn premiado em Cannes. Os acontecimentos eróticos vão aos poucos revelando o aspecto doentio e asqueroso do protagonista, que quase previsivelmente fulmina em um processo judicial longo e doloroso. A consequência disso para o filme são incursões filosóficas sobre diversos temas envolvendo os óbvios riqueza e poder, mas também derivados mais interessantes, como corrupção e imoralidade. É fato que essas pessoas não prestam em praticamente nenhum aspecto de suas luxuosas vidas, mas assim como Scorsese em O Lobo de Wall Street, o papel de julgar fica por conta do espectador: as cartas de ambos os lados estão abertas na mesa.

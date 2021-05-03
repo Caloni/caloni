@@ -1,9 +1,12 @@
 ---
-date: "2016-04-13"
-link: "https://www.imdb.com/title/tt1714206"
-categories: [ "draft", "movies" ]
-title: "O Maravilhoso Agora"
+categories:
+- draft
+- movies
+date: '2016-04-13'
+link: https://www.imdb.com/title/tt1714206
+title: O Maravilhoso Agora
 ---
+
 Uma romance para ser realista ele tem que ser um drama. E para ser um drama ele tem que levar em conta a personalidade de seus personagens e levar isso até as últimas consequências. As últimas consequências para o herói de "The Spectactular Now" são trágicas, mas são reais. O que vimos de fato no final do filme é uma traição aos princípios desse personagem (que nunca mudaram) e, consequentemente, uma traição ao espectador que esteve lá por duas horas.
 
 Tirando essa particularidade espúria de um roteiro que parece ter tido seu final encomendado -- e mal executado, por conter guinadas rápidas e inesperadas demais -- o filme se sai maravilhosamente bem em explorar esse casal de jovens e os outros que o orbitam. A relação do garoto com sua ex é o trampolim para uma saída aconchambrada de alguém que não quer ficar sozinho, mas que desperta o melhor em outra menina, a esquecida Aimee.

@@ -1,9 +1,12 @@
 ---
-date: "2016-08-21"
-link: "https://www.imdb.com/title/tt1985949"
-categories: [ "draft", "movies" ]
-title: "Angry Birds: O Filme"
+categories:
+- draft
+- movies
+date: '2016-08-21'
+link: https://www.imdb.com/title/tt1985949
+title: 'Angry Birds: O Filme'
 ---
+
 Filmes baseados em jogos não costumam gerar resultados positivos. Um jogo para celulares, então, teria probabilidades maiores ainda de fracassar como Cinema. Porém, eis aqui um filme que aproveita cada oportunidade de sua história para evocar o universo simples de Angry Birds. Ele constrói personagens e seu mundinho baseados nos elementos do jogo, mas está longe de ser apenas isso. É um filme sobre como os sentimentos ditos como negativos -- como a raiva -- podem ser positivos em alguns momentos da vida.
 
 Seu herói, Red (um pássaro vermelho dublado por Jason Sudeikis), é um isolado de sua comunidade, que não consegue conviver com aqueles passarinhos, mas se sente só, tanto por não ter pai nem mãe, mas também por ter sido feito de piada durante toda a infância por suas gigantescas sobrancelhas e por acreditar no Mega-Águia, o símbolo de herói da ilha dos pássaros. Apesar dessa história parecer clichê, ela é desenvolvida com uma sensibilidade adulta, já que Red faz comentários irônicos a todo momento, usando de cinismo para esconder das pessoas o que sente realmente.

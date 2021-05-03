@@ -1,9 +1,11 @@
 ---
-date: "2011-04-27"
-link: "https://www.imdb.com/title/tt0489099"
-categories: [ "movies" ]
-title: "Jumper"
+categories:
+- movies
+date: '2011-04-27'
+link: https://www.imdb.com/title/tt0489099
+title: Jumper
 ---
+
 Em vários momentos de Jumper, principalmente na sua conclusão, podemos sentir o desperdício completo de uma boa ideia, melhor aproveitada em um filme mais intrigante do que este.
 
 Apesar de vermos, por exemplo, alguns cortes "inovadores", em que o personagem com poderes avança vários metros à frente da calçada e a câmera faz uma mudança de foco dele para ele mesmo, e ainda que algumas cenas de ação sejam extremamente efetivas, como a perseguição de um Jumper pelo outro através dos lugares que este vai, não há nada mais vazio que a razão de ser dos paladinos, que acabam por representar, em seu máximo, uma desculpa boba para ação.

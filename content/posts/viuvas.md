@@ -1,9 +1,11 @@
 ---
-date: "2013-01-14"
-link: "https://www.imdb.com/title/tt1785670"
-categories: [ "movies" ]
-title: "Viúvas"
+categories:
+- movies
+date: '2013-01-14'
+link: https://www.imdb.com/title/tt1785670
+title: Viúvas
 ---
+
 Projeto menor do diretor Marcos Carnevale (Elsa e Fred), Viúvas possui o seu núcleo na história de Elena (Graciela Borges), que perde o marido depois de um infarto. Fica conhecendo assim a sua amante, Adela (Valeria Bertuccelli), muito mais jovem e inexperiente com seus sentimentos. Unindo a vida pós-marido de ambas através de uma última promessa feita pela esposa, a sensação constante é de que ao tentarmos conhecê-las melhor existe um sentimento de repulsa por mulheres tão egoístas (cada uma à sua maneira).
 
 O que é uma pena, pois o curioso plot coloca a questão dos sentimentos acima dos rótulos em pauta, e apesar do roteiro do próprio diretor deixar o tema morno e frequentemente revisto, o fato é que Viúvas não consegue se desvencilhar da óbvia rivalidade entre as duas desconsoladas para criar algo além de situações controversas e cômicas.

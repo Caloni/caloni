@@ -1,9 +1,12 @@
 ---
-date: "2015-12-13"
-link: "https://www.imdb.com/title/tt2085059"
-categories: [ "draft", "series" ]
-title: "Black Mirror - S02E01 - Be Right Back"
+categories:
+- draft
+- series
+date: '2015-12-13'
+link: https://www.imdb.com/title/tt2085059
+title: Black Mirror - S02E01 - Be Right Back
 ---
+
 Black Mirror é uma série que explora o que há de pior em nossa era da comunicação instantânea e da tecnologia crescente. Na verdade, eles vão um pouco além da nossa realidade atual, avançando alguns anos/décadas, onde algumas novidades brincam com nosso conceito de humanidade e relacionamentos, mídia e governos.
 
 As nossas vidas estão irremediavelmente conectadas ao mundo virtual da internet. Alguns não se importam muito com isso, outros praticamente vivem boa parte do seu tempo nisso. O que acontece no primeiro episódio da segunda temporada de Black Mirror é poeticamente tortuoso e trágico. Estou falando da cena em que uma viúva conversa ao telefone com uma versão digital de seu marido.

@@ -1,9 +1,12 @@
 ---
-date: "2019-02-15"
-link: "https://www.imdb.com/title/tt0105378"
-categories: [ "draft", "movies" ]
-title: "Neblina e Sombras"
+categories:
+- draft
+- movies
+date: '2019-02-15'
+link: https://www.imdb.com/title/tt0105378
+title: Neblina e Sombras
 ---
+
 A sombra e a neblina são os lugares perfeitos para Woody Allen perambular. É nessa incompreensão charmosa do caos que este filme vai se desenrolando quase que ao acaso. Não há culpados, apenas desavisados. Nós não sabemos do que o universo e um serial killer são capazes. Mas Allen está aqui para ajudar, dando um novo e merecido destino aos que não se importam em viver a vida, por mais nebulosa que ela seja.
 
 O uso do preto e branco, da silhueta dos personagens e do giro da câmera de Allen nos entrega uma experiência que vai muito além dos cortes simples e cenários estáticos dos trabalhos mais teatrais do diretor. Isso nos dá a oportunidade de ouvir frases icônicas de um roteirista gênio dentro de uma textura mais cinematográfica.

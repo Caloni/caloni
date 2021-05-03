@@ -1,9 +1,12 @@
 ---
-date: "2015-11-28"
-link: "https://www.imdb.com/title/tt1844624"
-categories: [ "draft", "series" ]
-title: "História de Horror Americana - Coven"
+categories:
+- draft
+- series
+date: '2015-11-28'
+link: https://www.imdb.com/title/tt1844624
+title: História de Horror Americana - Coven
 ---
+
 Já havia falado que American Horror Story consegue impressionar pelos seus quesitos técnicos, a criação de seus personagens e seu aspecto gore que consegue preencher tudo que conhecemos de terror Hoolywoodiano (incluindo o subgênero trash). Porém, uma coisa que a série definitivamente não consegue é criar e consolidar histórias que sejam mais do que um passatempo conhecido como novela. Não há profundidade dramática em AHS, apenas a profundidade de seus objetos cortantes na carne humana.
 
 É por isso que essa terceira temporada, ao focar na vida das bruxas, seus clãs, sua história e a escolha de sua próxima líder, não consegue nunca sair do lugar-comum. Há acontecimentos interessantes e bem explorados, mas nenhum deles deixa de ser previsível ou apenas secundário. Seus personagens não crescem, apenas interagem de maneiras diferentes, muitas vezes sem motivo algum. Há falhas de personalidade, ou personagens sem personalidade. Mesmo Jessica Lange e Evan Peters, acostumados a tirar leite de pedra de suas personas, aqui ficam extremamente presos em personagens engessados.

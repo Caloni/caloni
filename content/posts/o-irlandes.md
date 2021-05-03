@@ -1,9 +1,12 @@
 ---
-date: "2019-12-10"
-link: "https://www.imdb.com/title/tt1302006"
-categories: [ "draft", "movies" ]
-title: "O Irlandês"
+categories:
+- draft
+- movies
+date: '2019-12-10'
+link: https://www.imdb.com/title/tt1302006
+title: O Irlandês
 ---
+
 Se você já assistiu a O Poderoso Chefão e Os Bons Companheiros, O Irlandês fica no meio do caminho. É um filme mais agitado e com muito mais violência gráfica que o clássico de Coppola, mas muito menos apressado que o filme de gângsters de Martin Scorsese. Cito Goodfellas não porque tem Joe Pesci no elenco, mas porque fala sobre um caso real de máfia e possui o ponto de vista de alguém que viveu aquilo de perto.
 
 Scorsese é obcecado pela máfia. Quanto mais próximo do real para ele melhor. E por isso ele vem se especializando em roteiros baseados em biografias, de preferência em primeira pessoa. Se em Silêncio, seu filme anterior, o diretor usa o material de Shūsaku Endō, um raro escritor japonês católico, para descrever um momento histórico onde essa religião encontra as terras nipônicas, em O Lobo de Wall Street ele acompanha as desventuras no mundo de especuladores da própria fonte pelo golpista Jordan Belfort.

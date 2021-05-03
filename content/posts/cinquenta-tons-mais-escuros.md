@@ -1,9 +1,12 @@
 ---
-date: "2017-02-16"
-link: "https://www.imdb.com/title/tt4465564"
-categories: [ "draft", "movies" ]
-title: "Cinquenta Tons Mais Escuros"
+categories:
+- draft
+- movies
+date: '2017-02-16'
+link: https://www.imdb.com/title/tt4465564
+title: Cinquenta Tons Mais Escuros
 ---
+
 Eu não sei se a bronca pela série de filmes com Christian Grey e Anastácia Steel (esses nomes são bons, não?) é porque as feministas ficam com nojo de um casal normal, com problemas como todo mundo, e com preferências sexuais particulares (como todo mundo) ou elas abraçaram, assim como os conservadores, a noção patética que existe apenas uma forma de ser feliz, e ela não pode de maneira alguma ter relação com a vida de um bilionário de sucesso. Principalmente se ele trata suas mulheres como cãezinhos submissos. Se bem que, em se tratando de uma vida de luxo e segurança, qual o problema de dar alguns latidos e levar algumas palmadas de vez em quando?
 
 Bom, minha bronca com a série é diferente. Pra mim a primeira parte da "saga" (tem essa mania agora de chamar tudo de saga, não?) soa, de vez em quando, exatamente como o primeiro filme da saga Crepúsculo: uma comédia incidental, que funciona como comédia, mas... não era bem esse o objetivo. Já no caso desses Cinquenta Tons Mais Escuros, ele soa como uma novelinha pior que os romances apimentados de Sabrina, os livretos mais populares entre as senhoras na menopausa.

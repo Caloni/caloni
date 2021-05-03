@@ -1,9 +1,11 @@
 ---
-date: "2012-09-30"
-link: "https://www.imdb.com/title/tt0797093"
-categories: [ "movies" ]
-title: "De Quem é a Cinta Liga?"
+categories:
+- movies
+date: '2012-09-30'
+link: https://www.imdb.com/title/tt0797093
+title: De Quem é a Cinta Liga?
 ---
+
 Essa é uma comédia argentina co-dirigida por Fito Páez (Vidas Privadas), que também assina o roteiro, e pela estreante María Cecilia López. Ambos estão sintonizados em um projeto que tenta de todas as formas chamar a atenção, não importando que para isso seja sacrificado o bom senso e, o que é pior, o humor de sua história.
 
 Uma história, aliás, nada ruim. Protagonizado por um trio feminino que parece ter nascido de uma cópia mal formada de Mulheres à Beira de um Ataque de Nervos, as vidas de Julieta (Julieta Cardinali), Leo (Leonora Balcarce) e sua psicanalista (Fabiana Cantilo) começam a se fundir no momento que Leo descobre estar sendo traída por Julieta, sua melhor amiga, com seu namorado, o cantor metido a fotógrafo Gonzalo (Gonzalo Aloras). As filmagens de Gonzalo servem de pano de fundo de uma história que, iniciando no presente, retorna ao passado através das fitas gravadas.

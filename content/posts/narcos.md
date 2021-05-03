@@ -1,9 +1,12 @@
 ---
-date: "2015-09-11"
-link: "https://www.imdb.com/title/tt2707408"
-categories: [ "draft", "series" ]
-title: "Narcos"
+categories:
+- draft
+- series
+date: '2015-09-11'
+link: https://www.imdb.com/title/tt2707408
+title: Narcos
 ---
+
 Assisti os três (quatro?) primeiro episódio de Narcos, a série da Netflix produzida por José Padilha (Tropa de Elite) e que dirigiu o piloto. No elenco, Wagner Moura faz o famigerado criminoso que roubou o dinheiro dos americanos e os corações dos colombianos em um negócio ilegal que custou vidas e uma investigação difícil da polícia.
 
 Não, não estou falando de um ditador populista, destes que inundam a América do Sul. Nesse caso é alguém mais "ficha-limpa": Pablo Escobar, o traficante de cocaína que alavancou seus negócios como um empresário-gênio de sua geração, tanto por seus contatos, seus subornos, ou sua politicagem.

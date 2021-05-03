@@ -1,9 +1,11 @@
 ---
-date: "2011-09-27"
-link: "https://www.imdb.com/title/tt1529572"
-categories: [ "movies" ]
-title: "Confiar"
+categories:
+- movies
+date: '2011-09-27'
+link: https://www.imdb.com/title/tt1529572
+title: Confiar
 ---
+
 Dirigido e escrito pelos estreante no cinema David Schwimmer e Andy Bellin (esta co-roteirizada por Robert Festinger, do excelente Entre Quatro Paredes), este drama de tons realistas e de caráter emergencial conta a história de Annie, uma jovem colegial que acaba de completar 14 anos e que pertence a uma família tranquila e estruturada. Como todas as jovens de sua idade, costuma passar o tempo alheia à vida em sua volta, se comunicando com amigos virtuais através do celular e de seu computador (presente de aniversário de seu pai, um detalhe sutil, mas trágico).
 
 Um desses amigos, Charlie, se torna seu confidente, e a evolução do diálogo entre eles aumenta tanto a confiança que Annie deposita em seu amigo quanto a intimidade do casal virtual. Isso faz com que Annie nutra sentimentos cada vez mais fortes pelo rapaz, que consegue apenas com a força das mensagens eletrônicas convencê-la a se encontrarem e ao mesmo tempo revelar que não é tão jovem quanto fez Annie acreditar que fosse. Vítima de um molestador de menores, o caminho trágico de Annie penetra em nossa consciência muito mais forte se a situação narrada pelo roteiro não fosse tão comum na vida de milhões de jovens o dia todo. Aliás, a forma com que os detalhes nos são apresentados carecem de uma identidade maior (frases, lugares e situações) justamente para reforçar a triste realidade: Annie, como muitas outra que caem no charme de aliciadores, não é em nada especial ou diferente de qualquer outra garota.

@@ -1,9 +1,12 @@
 ---
-date: "2015-12-28"
-link: "https://www.imdb.com/title/tt0103074"
-categories: [ "draft", "movies" ]
-title: "Thelma & Louise"
+categories:
+- draft
+- movies
+date: '2015-12-28'
+link: https://www.imdb.com/title/tt0103074
+title: Thelma & Louise
 ---
+
 "Quantas vezes mais essas mulheres vão ser maltratadas?", pergunta um personagem perto do final do filme. Se formos considerar tudo que aconteceu com essas mulheres e por que elas seguiram por esse caminho, veremos que além da pergunta ser retórica, ela se dirige muito mais para o espectador do que para as pessoas do filme.
 
 Dirigido por Ridley Scott (Alien - O Oitavo Passageiro) e escrito por Callie Khouri na época em que as pessoas tinham ideias originais, Thelma & Louise é uma longa e saborosa aventura de descoberta feminina. Logo no começo da viagem combinada entre as duas, Thelma (Geena Davis), a carona de Louise (Susan Sarandon), "fuma" um cigarro apagado e se olha no retrovisor: está excitada com a possibilidade de fazer coisas que seu marido jamais concordaria. Próximo do fim, Thelma fuma realmente um cigarro, e esse é o rito de passagem para a liberdade mais merecido de todos.

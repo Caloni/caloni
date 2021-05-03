@@ -1,9 +1,12 @@
 ---
-date: "2019-03-18"
-link: "https://www.imdb.com/title/tt0317919"
-categories: [ "draft", "movies" ]
-title: "Missão Impossível: 3"
+categories:
+- draft
+- movies
+date: '2019-03-18'
+link: https://www.imdb.com/title/tt0317919
+title: 'Missão Impossível: 3'
 ---
+
 Esse é o meu M:I favorito. Ele como filme de ação nunca se deixa de levar a sério pelas consequências de suas ações. Ele possui uma fotografia sisuda de Dan Mindel, dessas de drama, porque ela fala sobre perdas humanas como se elas fossem reais, e o impacto delas é sentido durante todo o filme. Esse também é a estreia de J. J. Abrams na direção de longas-metragens, e ele está ótimo em conseguir orquestrar três equipes distintas localizadas em três cantos equidistantes do planeta (EUA, China, Itália). E, por fim, esse é um filme onde os efeitos em sua maioria são feitos na vida real e não dentro de computadores. Tom Cruise é um maníaco que dispensa dublês, e sua energia é a única vantagem de ter ele no elenco.
 
 Já como produtor, indispensável. Tom entrega um conteúdo de primeira: uma série de TV reciclada que rediscute filmes de espionagens/ação e com isso recicla também o gênero no Cinema. Teve seus deslizes, como M:I 2, mas em M:I 3 ele tem seu grande momento para brilhar. Seis anos depois do filme anterior é uma homenagem aos filmes de ação e um exemplo a ser seguido no futuro.

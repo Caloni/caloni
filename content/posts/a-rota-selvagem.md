@@ -1,10 +1,14 @@
 ---
-date: "2018-10-17"
-link: "https://www.imdb.com/title/tt5340300"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Rota Selvagem"
+categories:
+- draft
+- movies
+date: '2018-10-17'
+link: https://www.imdb.com/title/tt5340300
+tags:
+- cinemaqui
+title: A Rota Selvagem
 ---
+
 A Rota Selvagem pode parecer simples pelas suas premissas tantas vezes explorada. O garoto que se identifica com um cavalo prestes a ser vendido e abatido por não servir para sua função é exatamente o que o diretor/roteirista inglês Andrew Haigh precisa para materializar o sonho americano em seu formato mais cru, tendo como seu herói uma mente jovem e sem preconceitos. E o resultado é devastador, e seria ainda mais, se não fosse o jeito americano de fazer filmes.
 
 A história gira em torno de Charley (Charlie Plummer), que vive com o pai e a mãe os abandonou quando jovem. O pai de Charley não é uma criatura abominável como poderia ser em uma versão mais maniqueísta do filme; vemos que ele é esforçado e dentro dos seus limites tenta cuidar do filho. Aliás, nem o chefe de Charley no negócio de cavalos de corrida, Del (Steve Buscemi irreconhecível e muito bom), é tão caricatural quanto poderíamos também imaginar para um personagem de moral duvidosa. Com personagens realistas o drama se torna muito mais poderoso, e o grande conflito acaba recaindo na própria realidade; a vida como ela é.

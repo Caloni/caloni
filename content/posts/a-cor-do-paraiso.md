@@ -1,9 +1,12 @@
 ---
-date: "2019-08-18"
-link: "https://www.imdb.com/title/tt0191043"
-categories: [ "draft", "movies" ]
-title: "A Cor do Paraíso"
+categories:
+- draft
+- movies
+date: '2019-08-18'
+link: https://www.imdb.com/title/tt0191043
+title: A Cor do Paraíso
 ---
+
 Mohammad é um menino cego que precisa frequentar uma escola para deficiente que fica no fim do mundo, na cidade de Teerã. Ou seria o fim do mundo onde ele mora? Contextualizado no Irã, esta fábula escrita e dirigida por Majid Majidi, assim como ele fez em Filhos do Paraíso aborda personagens limitados, pobres de espírito, mas não tendo escolha exceto tendo que viver como cada um de nós.
 
 A direção de Majid Majidi me incomoda muito. Ele recorta suas cenas em quadros que querem dizer o óbvio muito cedo. Ele é exagerado por não ter confiança em seu elenco, e quando o pai de família escuta algo surpreendente de sua mãe a sua cara de espanto faz o filme virar comédia. E Majid está por trás de todo esse maniqueísmo.

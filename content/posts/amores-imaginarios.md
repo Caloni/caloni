@@ -1,9 +1,11 @@
 ---
-date: "2011-11-20"
-link: "https://www.imdb.com/title/tt1600524"
-categories: [ "movies" ]
-title: "Amores Imaginários"
+categories:
+- movies
+date: '2011-11-20'
+link: https://www.imdb.com/title/tt1600524
+title: Amores Imaginários
 ---
+
 Primeiro trabalho de Xavier Dolan na direção, roteiro e atuação depois de chamar a atenção com [Eu Matei Minha Mãe], Amores Imaginários é sobre exatamente o que o título sugere: aquele sentimento de idolatria por uma pessoa que nunca é correspondido à altura, porque no fundo esse sentimento é puramente imaginário. É como uma paixão, em qualquer grau e gênero.
 
 Definição essa levada a sério no filme, que escolhe estilizar todas as cenas em que os dois apaixonados, Marie (Chokri) e Nicolas (Scheider), se preparam para se encontrar com Francis (Dolan), o alvo romântico dos dois. A transformação deles para o "ritual" de reencontro é solene (pelo menos para os dois), onde cada detalhe é mostrado em câmera lenta com uma trilha sonora marcante (uma versão francesa de Bang-Bang, de [Kill Bill]) e repetida inúmeras vezes (a la Love Story), pois representa um momento mágico para os apaixonados e onde toda a dedicação é pouca.

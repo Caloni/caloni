@@ -1,10 +1,14 @@
 ---
-date: "2018-11-06"
-link: "https://www.imdb.com/title/tt6892400"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Garota Na Névoa"
+categories:
+- draft
+- movies
+date: '2018-11-06'
+link: https://www.imdb.com/title/tt6892400
+tags:
+- cinemaqui
+title: A Garota Na Névoa
 ---
+
 Uma garota desaparece em meio à névoa. Surge um inspetor em cena e começam as investigações, sob aquela trilha sonora dramática que todos conhecem. Aliás, alguns thrillers policiais costumam cheirar a clichê desde o primeiro momento até seu final. A Garota Na Névoa não é exceção. Porém, o diretor/roteirista/romancista Donato Carrisi sabe disso e usa esses clichês de maneira distorcida, chamando nossa atenção para detalhes que não costumam ganhar o foco nessas histórias. E é isso a grande reflexão que o filme nos tem a oferecer.
 
 Passado em uma pequena vila em um vale na Itália, e graças ao céus falado em italiano e não "dublado" no famigerado inglês (para as plateias que não gostam de legenda), o que aumenta o realismo e a coerência da história, toda a trama segue aquele fluxo que conhecemos: a mídia escavando detalhes do suposto crime, a população e a família em comoção constante e a polícia mantendo o ritmo conforme o que lhe é esperado: entregando novidades para todos em um ritmo que faça sentido.

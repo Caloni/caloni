@@ -1,9 +1,11 @@
 ---
-date: "2011-03-28"
-link: "https://www.imdb.com/title/tt1728179"
-categories: [ "movies" ]
-title: "Atividade Paranormal Tóquio"
+categories:
+- movies
+date: '2011-03-28'
+link: https://www.imdb.com/title/tt1728179
+title: Atividade Paranormal Tóquio
 ---
+
 Verdade seja dita: os asiáticos sabem fazer terror como nunca.
 
 Repassando a mesma história no primeiro fenômeno da "série", essa versão japonesa consegue ao mesmo tempo soar mais como trash e, exatamente por isso, assusta bem mais.

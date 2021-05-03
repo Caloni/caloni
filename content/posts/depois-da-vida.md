@@ -1,9 +1,11 @@
 ---
-date: "2012-01-15"
-link: "https://www.imdb.com/title/tt0165078"
-categories: [ "movies" ]
-title: "Depois da Vida"
+categories:
+- movies
+date: '2012-01-15'
+link: https://www.imdb.com/title/tt0165078
+title: Depois da Vida
 ---
+
 Pense rápido: se você morrer hoje escolha de toda sua vida apenas uma memória para guardar para toda a eternidade. No filme de Hirokazu Koreeda, o mundo pós-vida possui um sistema de acompanhamento das pessoas que recentemente faleceram e cujo objetivo é exatamente esse.
 
 A inusitada premissa se esforça por tomar o foco central da história ao mesmo tempo que se revela frutífera nos meandros desse sistema, narrando o processo da captura da lembrança do ponto de vista dos "subalternos" que tomam conta dos falecidos.

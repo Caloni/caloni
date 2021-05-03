@@ -1,9 +1,11 @@
 ---
-date: "2015-03-13"
-link: "https://www.imdb.com/title/tt2562232"
-categories: [ "movies" ]
-title: "Birdman ou (A Inesperada Virtude da Ignorância)"
+categories:
+- movies
+date: '2015-03-13'
+link: https://www.imdb.com/title/tt2562232
+title: Birdman ou (A Inesperada Virtude da Ignorância)
 ---
+
 Antes de falar sobre Bidman, vamos aproveitar para tirar um elefante branco da sala: o plano-sequência. O que são? O que comem? Como se reproduzem?
 
 Sem querer entrar no mérito do que é um plano e o que é uma sequência, vamos entender a técnica através do que falta em um plano-sequência: o corte. Cortar no cinema você já conhece: é quando o diretor está satisfeito com a duração da cena que estão filmando e grita "corta!". No caso da película isso é literal. Ela é cortada e depois colada com a próxima cena.

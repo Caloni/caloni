@@ -1,9 +1,12 @@
 ---
-date: "2018-05-03"
-link: "https://www.imdb.com/title/tt4154756"
-categories: [ "draft", "movies" ]
-title: "Vingadores: Guerra Infinita"
+categories:
+- draft
+- movies
+date: '2018-05-03'
+link: https://www.imdb.com/title/tt4154756
+title: 'Vingadores: Guerra Infinita'
 ---
+
 Avengers: Guerra Infinita nem parece ter duas horas e meia. E nem parece ter dúzias de super-heróis. Centrado mais no Mal (com letra maiúscula) frio, calculista e encarnado pela figura de Thanos (Josh Brolin), o "maior crossover da história" (by Marvel) é uma guerra que ocorre em diferentes níveis entre diferentes formas de heroísmo. Preferindo ser narrado como um drama fantástico e urgente que tem a cara, a alma e a paleta de cores dos quadrinhos, o trabalho colossal dos dois irmãos diretores Anthony Russo e Peter Russo atravessa fronteiras entre universos e realiza pequenos milagres na composição de quadro, de ritmo, de narrativa e de roteiro (encaixar todo este instigante roteiro e não torná-lo enfadonho é, sim, um trabalho admirável de direção) de forma a compor o maior trailer já visto na história do Cinema em uma produção massivamente inchada de efeitos. E o fato de sequer repararmos que muitas das mini-histórias que acompanhamos não fazer muito sentido isoladamente ou que o cenário da computação é pesado, mas veio para ficar, é graças a uma produção preparada e pensada 15 filmes atrás, quando o maior sonho que uma criança já teve se tornou realidade nas telonas da sétima arte.
 
 A história principal é simples: grande vilão do mal tem um motivo nobre para cometer o maior genocídio do universo: eliminar metade de todos os povos que habitam as galáxias para que o resto da população viva em abundância de recursos. Em outras palavras: comunismo aplicado em uma escala global. Juntando vários arcos de várias histórias paralelas, sendo seu núcleo a união dos Guardiões da Galáxia com os Vingadores, sendo que os próprios Vingadores foram se formando a partir das histórias solo de seus membros, como Capitão América, Thor, Homem de Ferro, Pantera Negra (para preencher cota), entre outros, o objetivo de todos eles com certeza se torna um só quando o universo e o planeta em que a maioria vive (coincidentemente, a nossa Terra) sofre uma ameaça dessa escala. Portanto, torna-se natural que todos tentem fazer algo contra o maior vilão da Marvel da atualidade, criado desde o primeiro filme dos Vingadores e alimentado aos poucos, muito embora pouco saibamos de sua origem e de sua personalidade.

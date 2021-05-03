@@ -1,8 +1,11 @@
 ---
-date: "2010-08-08"
-categories: [ "code", "draft" ]
-title: "Não é minha culpa"
+categories:
+- code
+- draft
+date: '2010-08-08'
+title: Não é minha culpa
 ---
+
 Recebi a dica de meu amigo kernel-mode sobre o aplicativo NotMyFault, escrito como ferramenta do livro Windows Internals e que basicamente gera telas azuis para análise.
 
 Como os problemas gerados pela ferramenta são todos de kernel, resolvi escrever meu próprio conjunto de bugs para o pessoal da userland. E como nada na vida se cria, tudo se copia, tenho o orgulho de apresentar a vocês o NotMyFaultEither!

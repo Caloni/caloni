@@ -1,9 +1,11 @@
 ---
-date: "2010-06-09"
-link: "https://www.imdb.com/title/tt1127877"
-categories: [ "movies" ]
-title: "Almas à venda"
+categories:
+- movies
+date: '2010-06-09'
+link: https://www.imdb.com/title/tt1127877
+title: Almas à venda
 ---
+
 Esse filme escrito e dirigido pela estreante Sophie Barthes tenta usar o conceito de alma mais ou menos como um órgão transplantado, mas muito mais flexível, já que é possível usar a alma de outras pessoas para potencializar áreas na vida em que se é um zero à esquerda. Aí é que entra Paul Giamatti que interpreta... Paul Giamatti! Ele está com problemas com uma nova peça e resolve trocar de alma por uma que seja compatível com o personagem que tenta interpretar.
 
 Sendo filmado como um thriller cômico, o filme ganha ritmo apenas ao tentar explicar como funciona a extração e o transplante de almas, e nem isso consegue fazer com propriedade. Não deixa de ser contraditório saber que, ainda que não se saiba exatamente como o mecanismo de almas funciona, já existem comparações entre elas (tanto que a suposta alma de Al Pacino é extremamente valiosa). De qualquer forma isso pode ser visto como uma crítica a respeito de como damos valor a coisas que simplesmente não sabemos o valor (e o fato do filme nunca se preocupar em explicar o que é alma). Há uma referência óbvia também à privacidade que temos hoje em dia. No anúncio da extração de almas por telefone fala-se sobre a privacidade total, mas quando o ator vai à consulta fica em uma sala de espera com um monte de pessoas e é chamado pelo nome.

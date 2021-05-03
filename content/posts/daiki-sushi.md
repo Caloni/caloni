@@ -1,8 +1,10 @@
 ---
-date: "2019-09-29"
-categories: [ "draft" ]
-title: "Restaurante Daiki Sushi"
+categories:
+- draft
+date: '2019-09-29'
+title: Restaurante Daiki Sushi
 ---
+
 Daiki Sushi é um restaurante para você renovar suas esperanças de restaurantes japoneses em São Paulo, capital. Ele não é rodízio, não quer entuxar o bucho de seus clientes com salmão de qualidade duvidosa. Ele não é grande, não quer perder o controle de seus pratos. Ele é bem servido, com uma modesta e eficiente seleção de saquês e pratos que lembram a verdadeira essência da culinária japonesa: sabor.
 
 A começar pelo shimeji, esse prato de cogumelos quentes que geralmente estão emborrachados e umedecidos com algum molho para ter gosto. O do Daiki Sushi realmente tem gosto. A única coisa que é preciso colocar na boca é o cogumelo. Está perfeito assim.

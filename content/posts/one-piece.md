@@ -1,9 +1,12 @@
 ---
-date: "2020-10-25"
-link: "https://www.imdb.com/title/tt0388629"
-categories: [ "draft", "animes" ]
-title: "One Piece"
+categories:
+- draft
+- animes
+date: '2020-10-25'
+link: https://www.imdb.com/title/tt0388629
+title: One Piece
 ---
+
 Apesar de ter planejado terminar em cinco anos, a inventividade da criação de Eiichiro Oda e o desejo de consumo dos fãs em consumir arte parece não ter fim. Existem muitos personagens nesta série de mangá que virou anime dois anos depois de ter virado um hit na primeira vez que apareceu na revista Weekly Shonen Jump em 1997. Mais de vinte anos se passaram, provavelmente com altos e baixos. Este texto diz respeito a apenas o primeiro episódio.
 
 Esta é uma série clássica do herói que não teme a ninguém porque ele tem algo pelo qual lutar. Ele quer ser o rei dos piratas e encontrar o One Piece, um tesouro que está escondido por aí. Ele sequer tem uma tripulação, mas isso não importa. Ele é alguém que decidiu o próprio destino, o que o torna o herói clássico e romântico por definição.

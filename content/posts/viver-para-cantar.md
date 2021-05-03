@@ -1,10 +1,14 @@
 ---
-date: "2019-10-05"
-link: "https://www.imdb.com/title/tt10225288"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Viver Para Cantar"
+categories:
+- draft
+- movies
+date: '2019-10-05'
+link: https://www.imdb.com/title/tt10225288
+tags:
+- cinemaqui
+title: Viver Para Cantar
 ---
+
 Viver Para Cantar é inspirado livremente no documentário A Folk Troupe (Gang Zhao, 2013), que conta a história real desse grupo tradicional de ópera chinesa lutando para continuar apresentando peças milenares em um espaço condenado pelas autoridades. A ficção de Johnny Ma alimenta a mesma tradição da ópera chinesa, mas a atualiza para o tempo das cidades chinesas crescendo, se modernizando e demolindo todos os valores culturais de uma nação.
 
 A história segue pelo caminho seguro do drama do grupo de ópera que vai perder seu teatro que será demolido. Seu público está cada vez mais velho e está morrendo. O peso da perda dessa tradição repousa em sua chefe/matriarca Zhao Li (Zhao Xiaoli), que ainda precisa lidar com a perda de sua sobrinha a quem considera filha, mas as duas mudanças estão relacionadas. É a modernização dos costumes, ou sua ocidentalização.

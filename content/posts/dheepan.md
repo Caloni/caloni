@@ -1,10 +1,13 @@
 ---
-date: "2015-10-24"
-link: "https://www.imdb.com/title/tt4082068"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Dheepan"
+categories:
+- movies
+date: '2015-10-24'
+link: https://www.imdb.com/title/tt4082068
+tags:
+- cinemaqui
+title: Dheepan
 ---
+
 A Sri Lanka é uma ilha bem ao sul da Índia. Obteve sua independência da coroa britânica há mais de meio século, e desde a década de 80 participou de dois processos diametralmente opostos: o crescimento econômico pela liberalização do mercado e cerca de cem mil mortos em uma guerra civil de 25 anos contra o norte e leste do país. Atualmente é uma democracia consolidada e a mais antiga da região, mas não faltam acusações de que houve durante essa guerra um verdadeiro genocídio, ou pelo menos um massacre desproporcional.
 
 A França é uma nação em relativa paz por mais de meio-século. No entanto, sua política de altos gastos em bem-estar social mantém seus centros urbanos como pequenos paraísos, enquanto marginaliza e pune a população periférica, que vive na periferia das cidades sob constante medo da violência causada pelo comércio de drogas. Lá impera mais a lei das máfias que controlam o pouco que possuem, mais do que qualquer tipo de autoridade governamental. Lá a guerra civil sequer existe, pois é desnecessária.

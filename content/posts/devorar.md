@@ -1,10 +1,14 @@
 ---
-date: "2019-10-19"
-link: "https://www.imdb.com/title/tt8372298"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Devorar"
+categories:
+- draft
+- movies
+date: '2019-10-19'
+link: https://www.imdb.com/title/tt8372298
+tags:
+- cinemaqui
+title: Devorar
 ---
+
 Swallow, ou da tradução "errada", Devorar, é daqueles roteiros que começa com uma ideia tão inusitada que você vibra quando acontece, porque é um respiro de ar fresco. Mas além disso ele trata de temas repetidos de uma nova forma, não expandindo, mas apenas mudando nosso ângulo de visão.
 
 Sua história é a de Hunter (Haley Bennett), uma mulher que, conforme a introdução avança, somos apresentados à sua vida perfeita, prestes a se casar com um bom partido, filho do dono de uma importante empresa, morando na casa perfeita, com uma piscina linda de frente para uma vista panorâmica. Perfeita seria a definição se não estivéssemos testemunhando visualmente essa apresentação, que o diretor Carlo Mirabella-Davis o faz transformando radicalmente a perfeição em um sufocante inferno. Como é possível isso?

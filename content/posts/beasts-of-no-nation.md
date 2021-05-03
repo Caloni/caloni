@@ -1,10 +1,14 @@
 ---
-date: "2016-03-11"
-link: "https://www.imdb.com/title/tt1365050"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Beasts of No Nation"
+categories:
+- draft
+- movies
+date: '2016-03-11'
+link: https://www.imdb.com/title/tt1365050
+tags:
+- cinemaqui
+title: Beasts of No Nation
 ---
+
 Beasts of No Nation é praticamente um documentário em forma de ficção. E só se trata de uma ficção porque sequer sabemos o país em que vive o pequeno Agu, interpretado por Abraham Attah, intenso e inesquecível. E, se formos ser sinceros, não saber onde se passa a ação é o menor dos detalhes de uma experiência que vai se tornando, assim como Attah, intensa e inesquecível, embora infelizmente.
 
 Narrando a história do menino do parágrafo acima, o filme se propõe soar genérico sobre vidas ao relento que devem ocorrer muitas e muitas vezes nos países do continente africano. Quando se lê no título que não há nação que hospede essas "bestas selvagens", rapidamente nos lembramos da Somália, que hoje pode figurar entre os países sem um governo centralizado bem definido. Porém, se formos contar os países do continente negro em guerra civil nos últimos anos, a lista pode se extender para Nigéria, Congo, Sudão, Líbia e tantos outros. A questão que o filme coloca vai mais além. Ele parece mais falar sobre uma região que não comporta a ideia de país, algo que foi forçado pelo próprio processo de colonização europeia, e como consequência hoje vemos os intermináveis conflitos entre milícias armadas e sanguinárias, financiadas por capital estrangeiro para se apoderar de suas riquezas naturais.

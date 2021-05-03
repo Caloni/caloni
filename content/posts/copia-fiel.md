@@ -1,9 +1,11 @@
 ---
-date: "2014-11-16"
-link: "https://www.imdb.com/title/tt1020773"
-categories: [ "movies" ]
-title: "Cópia Fiel"
+categories:
+- movies
+date: '2014-11-16'
+link: https://www.imdb.com/title/tt1020773
+title: Cópia Fiel
 ---
+
 Afinal, eles são casados ou não? E o que são aqueles diálogos que não conseguimos ouvir? Por que não conseguimos acompanhar a ação dos dois personagens -- "marido" e "mulher" -- quando não estão conversando juntos? E, finalmente, por que nas conversas à mesa os personagens olham para nós?
 
 Desde a primeira cena de Cópia Fiel, de Abbas Kiarostami, já são mencionadas algumas dicas sobre o caráter metalinguístico desse filme. Afinal, o filme se chama Cópia Fiel e vemos no começo a capa de um livro com o mesmo título. A questão que o filme discute dentro do seu universo (o mundo dos personagens) e fora dele (ao abranger os seus espectadores) é se as cópias de uma obra de arte possuem o mesmo valor que a original. E, uma pergunta igualmente relevante: a partir de que momento algo pode ser chamado de original?

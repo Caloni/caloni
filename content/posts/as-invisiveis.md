@@ -1,10 +1,14 @@
 ---
-date: "2020-02-13"
-link: "https://www.imdb.com/title/tt8633950"
-categories: [ "draft", "movies", ]
-tags: [ "cinemaqui"  ]
-title: "As Invisíveis"
+categories:
+- draft
+- movies
+date: '2020-02-13'
+link: https://www.imdb.com/title/tt8633950
+tags:
+- cinemaqui
+title: As Invisíveis
 ---
+
 As Invisíveis é uma dramédia alto astral com momentos comerciais que fez com que ele contratasse um batalhão de atrizes em moldes semelhantes à série Orange is The New Black, onde cada personagem tem suas idiossincrasias, enriquecendo e humanizando a história. Dirigido por Louis-Julien Petit, que já trabalhou na segunda e terceira unidades de vários filmes de Hollywood, este é um filme que mescla bem seu drama de "filme de arte" com seu lado mais blockbuster. E é isso o que fez com ele fosse um sucesso de público na França, não o fato de ser protagonizado por mulheres.
 
 Cada uma de suas personagens tem algo a acrescentar nesta coleção de pequenos dramas, e você com certeza conhece ou já ouviu falar de uma pessoa com pelo menos alguns dos problemas das mulheres retratadas neste filme, e isso tem muito a dizer sobre humanização. Apesar deste ser um filme sobre sem-tetos, a empatia surge ao percebermos que seus problemas não estão tão distantes do nosso próprio dia-a-dia. É revigorante olhar para essas mulheres e ver que elas lidam melhor com as dificuldades do que nós dentro de nossas casas. Todos somos seres humanos, mas os humanos deste filme são mais fortes e resilientes.

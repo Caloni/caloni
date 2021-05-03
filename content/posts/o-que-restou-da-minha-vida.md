@@ -1,9 +1,12 @@
 ---
-date: "2016-10-21"
-link: "https://www.imdb.com/title/tt6150202"
-categories: [ "draft", "movies" ]
-title: "O Que Restou da Minha Vida"
+categories:
+- draft
+- movies
+date: '2016-10-21'
+link: https://www.imdb.com/title/tt6150202
+title: O Que Restou da Minha Vida
 ---
+
 Tratando da morte de uma maneira leve para depois reverenciar a perda das pessoas que amamos, O Que Restou da Minha Vida é um misto de temas que combina comédia, romance e drama em uma sequência de idas e voltas não necessariamente confusas, mas frustrantes.
 
 O filme começa explicando o porquê de Schimon (Christoph Letkowski) não se incomodar tanto com a morte: desde pequeno ele gravava seu avô dizer para não se preocupar, pois a morte, segundo ele, é apenas um novo começo. Tanto que ele ouviu, em primeira mão, as ultimas batidas do coração de seu avô.

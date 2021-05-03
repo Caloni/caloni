@@ -1,9 +1,12 @@
 ---
-date: "2018-08-08"
-link: "https://www.imdb.com/title/tt5554490"
-categories: [ "draft", "series" ]
-title: "Better Call Saul - Quarta Temporada, Episódio 1"
+categories:
+- draft
+- series
+date: '2018-08-08'
+link: https://www.imdb.com/title/tt5554490
+title: Better Call Saul - Quarta Temporada, Episódio 1
 ---
+
 O primeiro episódio da quarta temporada de Better Call Saul é uma aula de como tornar todos os personagens relevantes, ao mesmo tempo que ele usa nosso interesse em saber mais do universo de Breaking Bad (ele é um spin off dessa série) e também inicia uma nova mini-jornada para todos eles. Como não adorar essa série?
 
 Boa parte desse feito se deve, claro, aos atores, que já conquistaram um merecido espaço em suas personas fictícias e que têm a chance de expandi-las. E a série se preocupa em nunca trair o que esses personagens já são na série anterior. Ninguém realmente muda nesse universo. Exceto um certo pacato professor de química de Albuquerque.

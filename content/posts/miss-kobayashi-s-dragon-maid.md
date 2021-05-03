@@ -1,9 +1,12 @@
 ---
-date: "2020-10-13"
-link: "https://www.crunchyroll.com/pt-pt/miss-kobayashis-dragon-maid"
-categories: [ "animes", "series" ]
-title: "Miss Kobayashi's Dragon Maid"
+categories:
+- animes
+- series
+date: '2020-10-13'
+link: https://www.crunchyroll.com/pt-pt/miss-kobayashis-dragon-maid
+title: Miss Kobayashi's Dragon Maid
 ---
+
 # Atualizado em 2020-10-22
 
 Ela se diz um dragão, mas é doméstica e tem peitão. Essa série possui traços fofos e nos remete a épocas menos estilizadas. Um episódio ou dois é suficiente para matar a curiosidade, mas seus personagens são cativantes e são apresentados aos poucos, o que merece uns episódios a mais (depois cai na mesmice). Você já os viu antes em outros animes, mas não com essa personalidade cativante. São dragões no corpo de humanos. A graça está no contraste cultural. Ela odeia humanos, mas se apaixona por uma. Não é preciso explicar demais, entendemos apenas como acompanhantes desta despretensiosa e deliciosa história.

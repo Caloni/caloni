@@ -1,9 +1,11 @@
 ---
-date: "2013-09-18"
-link: "https://www.imdb.com/title/tt1426329"
-categories: [ "movies" ]
-title: "Lovelace"
+categories:
+- movies
+date: '2013-09-18'
+link: https://www.imdb.com/title/tt1426329
+title: Lovelace
 ---
+
 Aquele tipo de filme que não caminha para o melhor nem para o pior. Sua falta de ambição e sensualidade destoam completamente dos burburinhos e do sucesso escandaloso do único trabalho pornográfico protagonizado por Linda Lovelace (Amanda Seyfried), Garganta Profunda, que representou para muitos um marco na revolução sexual da época, enquanto para outros o renascimento do pornô como "Cinema".
 
 Aliás, todo o suspense do "making off" se revela inapropriado, pois não existe praticamente nada de fato chocante sobre o destino de uma personagem que já parece ensaiar sua entrada no mundo do sexo livre desde os primeiros segundos (uma cena de topless extremamente comportada). Já o excesso de puritanismo revela mais sobre a indústria de Cinema atual do que o daquela época, onde mostrar os seios da protagonista, que já participou de comédias românticas engraçadinhas ([Cartas para Julieta]), pode por si só ser considerado um ato de rebeldia.

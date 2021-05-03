@@ -1,9 +1,13 @@
 ---
-date: "2019-03-26"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Memórias do Grupo Opinião"
+categories:
+- draft
+- movies
+date: '2019-03-26'
+tags:
+- cinemaqui
+title: Memórias do Grupo Opinião
 ---
+
 Memórias do Grupo Opinião é exatamente o que você terá nesse filme. O que é um pouco frustrante, diga-se de passagem. Bons documentários costumam trazer uma surpresa por trás de sua premissa.
 
 Mas esse é daqueles que pega carona na moda de se falar na intervenção militar de 64... aliás, ditadura militar. Aliás, golpe militar. Eu já não sei mais. É difícil usar o vocabulário exato quando se fala de política, porque a política corrompe até o dicionário.

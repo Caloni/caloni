@@ -1,10 +1,14 @@
 ---
-date: "2018-05-01"
-link: "https://www.imdb.com/title/tt4538916"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Acertando o Passo"
+categories:
+- draft
+- movies
+date: '2018-05-01'
+link: https://www.imdb.com/title/tt4538916
+tags:
+- cinemaqui
+title: Acertando o Passo
 ---
+
 Não costumo chorar em filmes, ou costumava; hoje em dia a ironia e o sarcasmo dos jovens tomou meu coração. No entanto, em Acertando o Passo o choro vem fácil e natural em pelo menos dois momentos, momentos que considero dignos de se expressar além da admiração intelectual: quando pessoas agem de maneira altruísta, e o motivo não é porque é o certo a se fazer, mas porque é de seu feitio, é o que forma sua personalidade. Enfim, é o que os faz seres humanos que vemos na tela.
 
 E no caso desse filme não é muito difícil reconhecer a humanidade nessas pessoas. Com um elenco formado basicamente por pessoas mais maduras em uma reunião invejável da terceira idade de atores britânicos, enxergamos a vivência de seus personagens em seus olhos, na maneira leve ou pesada de levar a vida, nos comentários espirituosos dos homens, na maturidade refinada e auto-crítica das mulheres. No próprio movimento de seus corpos se expressando através da dança é possível olhar para suas almas agitadas, vivas. Mais vivas que qualquer jovem e suas ironias da vida online.

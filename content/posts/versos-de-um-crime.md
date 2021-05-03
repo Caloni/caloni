@@ -1,9 +1,12 @@
 ---
-date: "2016-09-10"
-link: "https://www.imdb.com/title/tt1311071"
-categories: [ "draft", "movies" ]
-title: "Versos de Um Crime"
+categories:
+- draft
+- movies
+date: '2016-09-10'
+link: https://www.imdb.com/title/tt1311071
+title: Versos de Um Crime
 ---
+
 Depois do ótimo Na Estrada (Walter Salles, 2012), o requisitado personagem da vida real Allen Ginsberg, o poeta americano da geração beat dos anos 50, é encarnado por Daniel Radcliffe (da série Harry Potter), e tem ao seu lado o igualmente ótimo Dane DeHaan (Poder Sem Limites, O Lugar Onde Tudo Termina) e um Michael C. Hall (da série Dexter) curioso, mas um tanto ausente. A história é retratada como um drama novelístico e televisivo, com impecável direção de arte, mas uma narrativa burocrática demais para funcionar com poetas que estavam revolucionando o mundo da literatura.
 
 Aliás, essa noção revolucionária é passada de maneira periférica, assim como quase tudo no filme. Temos uma história arrastada que confia demais na interpretação de personagens que parecem não querer dizer nada a não ser a angústia amorosa que sentem. Toda essa riqueza de conteúdo que esses poetas deveriam supostamente ter é frustrada pelo conteúdo que vemos em tela.

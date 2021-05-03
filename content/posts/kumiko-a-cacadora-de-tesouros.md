@@ -1,9 +1,11 @@
 ---
-date: "2015-06-21"
-link: "https://www.imdb.com/title/tt3263614"
-categories: [ "movies" ]
-title: "Kumiko, a Caçadora de Tesouros"
+categories:
+- movies
+date: '2015-06-21'
+link: https://www.imdb.com/title/tt3263614
+title: Kumiko, a Caçadora de Tesouros
 ---
+
 Kumiko é uma fábula criada a partir de uma história real (ou pelo menos levemente inspirada em uma pessoa). Embalando uma história impossível em torno de um outro filme sobre uma história impossível (e, este também, baseado em uma história real), Kumiko é uma experiência entusiasmada, embora na maioria das vezes, não tenha lá seus motivos.
 
 Dirigido por David Zellner (que participa do filme) e co-escrito com seu parente (irmão?), a história gira em torno da Kumiko do título, uma garota insegura que trabalha em um emprego que não gosta e que tem todos em sua volta constantemente a assediando para que ela se ajuste ao padrão do que se espera daquela sociedade de uma mulher em sua idade. Estamos no Japão, então isso faz muito sentido, e o que torna Kumiko um tanto mais heroica (transgredir as regras sociais no Japão, para uma mulher, com certeza é heroico, ainda que nos tempos atuais).

@@ -1,8 +1,10 @@
 ---
-date: "2014-07-30"
-categories: [ "draft" ]
-title: "Vestindo a Camisa da Minha Empresa"
+categories:
+- draft
+date: '2014-07-30'
+title: Vestindo a Camisa da Minha Empresa
 ---
+
 Pois é, o tempo passou, e desde 2011 eu passei mais de três anos nessa minha nova empreitada no Mercado Financeiro. Bom, tudo que é bom acaba, para começar algo melhor ainda. No caso da minha experiência com a EzMarket (hoje UOL/Diveo Broker) foi algo quase que surreal trabalhar em um ambiente tão formidável com pessoas mais formidáveis ainda, tanto pessoalmente quanto tecnicamente. Aprendi muito sobre análise de risco e um tanto sobre conexões e protocolos de rede, e mais ainda sobre serialização e desempenho. Tive momentos prazerosos em reuniões de definição de arquitetura, (poucas) madrugadas de debugging e testes no cliente, (muitas) idas ao café da esquina para um ótimo papo e vários outros momentos que não me lembro agora, mas que não me arrependarei jamais, e sempre sentirei saudades.
 
 E já que é pra começar algo melhor ainda, me sinto feliz em anunciar minha parceria societária com o meu amigo de longa data Rodrigo Strauss, primeiro blogueiro escovador de bits do país (antes disso nós escovávamos bits em uma empresa de segurança da informação) e co-fundador da comunidade C/C++ Brasil. O Strauss passou também um bom tempo no Mercado Financeiro, trabalhando dentro da BM&F Bovespa fazendo o ajuste fino de servidores transacionando centenas de milhares de zillhões de negócios diários e gerenciando uma equipe. Seus projetos pessoais sempre o levaram a questionar qual a maneira mais rápida, simples e eficiente de realizar tarefas repetitivas, de preferência prontas para alta escalabilidade, o que o fez dedicar uns bons anos a resolver essas questões a fundar enfim a Intelitrader, uma empresa focada em soluções para o Mercado Financeiro e que possui a grande vantagem de ser pequena. Sim, ser pequena pode ser uma vantagem, principalmente para o cliente, que possui um atendimento mais que personalizado com nenhuma burocracia.
@@ -12,4 +14,3 @@ E essa busca pela otimização de soluções me fez repensar o que eu estava faz
 Por isso que, mais do que a parceria com o Strauss, a Intelimarket agora faz parte do grupo BitForge, fundada pelo igualmente conhecido Gianni (se você frequenta o grupo de discussão do Grupo C/C++ com certeza conhece o Gianni), especializado em soluções de IPTV, mas que conhece absurdos de várias outras coisas, especialmente do mundo Linux.
 
 Enfim, um pequeno if (ou dois) para o código, mas um grande deploy de soluções inovadoras na área de tecnologia da informação. Para essa nova e empolgante empreitada, eu visto, com certeza, a camisa da minha empresa.
-

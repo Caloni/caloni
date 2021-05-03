@@ -1,9 +1,12 @@
 ---
-date: "2021-04-25"
-link: "https://www.imdb.com/title/tt6352180"
-categories: [ "draft", "animes" ]
-title: "Little Witch Academia"
+categories:
+- draft
+- animes
+date: '2021-04-25'
+link: https://www.imdb.com/title/tt6352180
+title: Little Witch Academia
 ---
+
 Este anime possui traços que lembram aqueles desenhos feitos à mão da década de 80, mas está sendo lançado nesta década, o que é tão fofinho quanto os traços completamente diferentes mas com a mesma vibe de Kobayashi Dragon's Maid de evocar o melhor de uma época e aproveitar as evoluções tecnológicas de animação.
 
 A história é o clichê épico da menina com um sonho prestes a ser iniciado: se tornar uma bruxa como seu ídolo, uma bruxinha que fez um espetáculo quando ela era pequena. Hoje ela volta ao mesmo vilarejo e observa que seus habitantes perderam o contato com a magia, estão zumbis da tecnologia e dos afazeres cotidianos.

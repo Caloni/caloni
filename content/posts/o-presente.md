@@ -1,9 +1,11 @@
 ---
-date: "2013-01-06"
-link: "https://www.imdb.com/title/tt0482629"
-categories: [ "movies" ]
-title: "O Presente"
+categories:
+- movies
+date: '2013-01-06'
+link: https://www.imdb.com/title/tt0482629
+title: O Presente
 ---
+
 O filme baseado no livro homônimo de Jim Stovall, escritor cego engajado em trabalhos para deficientes, claramente tenta passar uma mensagem de caridade para com os mais necessitados. Para isso, contudo, se esquece de estabelecer uma relação afetiva com seus personagens e acaba resumindo uma sequência de eventos simbólicos que forçam a emoção do espectador.
 
 A história gira em torno de Jason (Drew Fuller), um playboy irrelevante e sem personalidade que se vê diante de uma série de tarefas que deverá executar para receber a herança do seu recém-finado avô, um magnata do petróleo que construiu um império em torno do qual sua desprezível família cresceu. Acaba se encontrando acidentalmente com Emily Rose (Abigail Breslin), uma menina irritante pelos seus questionamentos autoritários e que sofre de leucemia (mais um motivo para chorarmos).

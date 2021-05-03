@@ -1,8 +1,10 @@
 ---
-date: "2018-10-26"
-categories: [ "draft" ]
-title: "1984: A Peça"
+categories:
+- draft
+date: '2018-10-26'
+title: '1984: A Peça'
 ---
+
 1984 está nas mentes e na alma de nossa sociedade. Ela foi concebida como um alerta por George Orwell contra o autoritarismo e totalitarismo crescente na Europa da segunda guerra, mas por seu formato universal, tal qual A Revolução dos Bichos, se transforma em um guia útil para qualquer época em que isso for um risco para a sociedade. E, sejamos honestos, sempre existirá esse risco.
 
 Dessa forma, é notável o que a peça recente em exibição no Teatro Porto Seguro, que parte de uma montagem britânica com a direção de Zé Henrique de Paula para uma experiência que mistura o relato de seu protagonista, Winston, como um aviso para os não-nascidos, no caso nós, da plateia.

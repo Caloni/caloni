@@ -1,9 +1,11 @@
 ---
-date: "2011-05-29"
-link: "https://www.imdb.com/title/tt1013856"
-categories: [ "movies" ]
-title: "Singularidades de uma Rapariga Loura"
+categories:
+- movies
+date: '2011-05-29'
+link: https://www.imdb.com/title/tt1013856
+title: Singularidades de uma Rapariga Loura
 ---
+
 O filme 9 - A Salvação se baseia em um curta anteriormente produzido. O resultado é que temos uma história curta o suficiente para ser contada em 10 minutos ser expandida em tediosos 79 minutos.
 
 O que se aprende nesse filme é que não se deve estender uma história, a não ser que se saiba o que se está fazendo. Infelizmente, Manoel de Oliveira nos apresenta um filme completamente diferente com a mesma peculiaridade: parece mais longo do que deveria.

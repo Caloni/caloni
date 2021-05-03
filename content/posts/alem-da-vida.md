@@ -1,9 +1,11 @@
 ---
-date: "2011-07-01"
-link: "https://www.imdb.com/title/tt1212419"
-categories: [ "movies" ]
-title: "Além da Vida"
+categories:
+- movies
+date: '2011-07-01'
+link: https://www.imdb.com/title/tt1212419
+title: Além da Vida
 ---
+
 Para quem não havia assistido o trailer do novo trabalho de Clint Eastwood (Menina de Ouro) tem a impressão que os conflitos do primeiro ato são apresentados de uma maneira mais impactante do que um drama seria capaz. Como o exemplo mais marcante, escolho a situação em que se encontra Marie LeLay (Cécile de France), uma jornalista de sucesso e que passa o momento mais claustrofóbico do longa.
 
 A disposição dos elementos do cenários, dos próprios personagens e, principalmente, dos enquadramentos utilizados fazem com que o acontecimento que está por vir se torne estarrecedor por natureza, mas não totalmente imprevisto. Toda a tensão da sequência está contida no pequeno diálogo entre Marie LeLay e seu parceiro que cria uma empatia quase automática, fruto da interpretação altamente eficiente dos dois. O movimento das águas torna a atmosfera caótica, onde nós mesmos ficamos apreensivos pela dificuldade que aparenta ser escapar de um desastre desses.

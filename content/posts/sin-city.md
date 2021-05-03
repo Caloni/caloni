@@ -1,9 +1,12 @@
 ---
-date: "2016-10-09"
-link: "https://www.imdb.com/title/tt0401792"
-categories: [ "draft", "movies" ]
-title: "Sin City: A Cidade do Pecado"
+categories:
+- draft
+- movies
+date: '2016-10-09'
+link: https://www.imdb.com/title/tt0401792
+title: 'Sin City: A Cidade do Pecado'
 ---
+
 Muitos não gostaram do resultado final em Sin City, um longa que emula com perfeição o visual de uma graphic novel. Isso, de certa forma, explica o marasmo do Cinema comercial, onde a mesmice é condecorada, e as criações originais, boas ou ruins, são vistas simplesmente como chatas. Não se engane: quando alguém diz que não gostou de algo diferente, na esmagadora maioria dos casos não é porque ela possui uma visão crítica com argumentos de por que aquilo, em sua visão, é ruim. É simplesmente porque, sabe como é, "eu só queria me divertir um pouco e deixar o cérebro em casa. E agora vocês querem que eu pense?"
 
 Isso em um filme que possui uma história simples, quase linear, que apenas como floreio narrativo fecha seus arcos como camadas de uma cebola, algo que o torna antes de confuso, belíssimo, pois suas histórias se cruzam de maneira temática. As mulheres fortes -- o núcleo da história -- são uma atualização do noir clássico -- o começo e fim -- misturado com policial, onde o detetive que está para se aposentar vai atender o seu último chamado e salvar a garota em perigo, ou o brutamontes que se encontra em uma sinuca de três bicos por ser perseguido por matar a única mulher que lhe deu prazer na vida.

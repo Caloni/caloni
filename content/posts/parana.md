@@ -1,6 +1,8 @@
 ---
-date: "2015-08-22"
-categories: [ "food" ]
-title: "Paraná"
+categories:
+- food
+date: '2015-08-22'
+title: Paraná
 ---
+
 Tem aquela bichisse amadeirada, mas não é tão acentuado.

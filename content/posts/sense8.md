@@ -1,9 +1,11 @@
 ---
-date: "2015-07-06"
-link: "https://www.imdb.com/title/tt2431438"
-categories: [ "series" ]
-title: "Sense8"
+categories:
+- series
+date: '2015-07-06'
+link: https://www.imdb.com/title/tt2431438
+title: Sense8
 ---
+
 Essa é uma série que tem todos os motivos de ser "acusada" de novela, no sentido da história estar totalmente focada nas reviravoltas amorosas de seus personagens. Mas o que dizer quando o destino amoroso do personagem X, Y e Z estão unidos de uma maneira tão fantástica que é impossível de disassociá-los e montar a velha tabela par romântico ou trio amoroso?
 
 Curiosamente, existe um trio amoroso na história. E existe um drama familiar. Também existe um policial honesto, uma hacker "do bem", um assassino cruel, um casamento errado e a união de tudo isso através da música. Lírico demais essa descrição? Eu diria transcedental. Assim é o novo trabalho das irmãs Wachowski (A Viagem, Speed Racer, V de Vingança), que flertam tão bem com a novela quanto com a cena de ação, ou a luta de um contra todos, ou até a cena mais trivial de todas: o descanso no final do dia, em um por-do-sol compartihado de vários ângulos do planeta.

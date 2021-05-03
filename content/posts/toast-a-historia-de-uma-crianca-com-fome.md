@@ -1,9 +1,12 @@
 ---
-date: "2017-08-06"
-link: "https://www.imdb.com/title/tt1658851"
-categories: [ "draft", "movies" ]
-title: "Toast: A História de uma Criança com Fome"
+categories:
+- draft
+- movies
+date: '2017-08-06'
+link: https://www.imdb.com/title/tt1658851
+title: 'Toast: A História de uma Criança com Fome'
 ---
+
 Este é um drama leve que conta com alguns segredos sutis em sua história e algumas atuações marcantes ou no mínimo bem corretas. Helena Bonham Carter é o destaque e o centro de um filme que poderia ser chato como biografia, mas consegue ser fascinante ainda que não conheçamos de quem se está falando.
 
 A biografia no caso é de Nigel Slater, um famoso cozinheiro de TV. O filme conta sua infância conturbada, com a mãe moribunda, péssima em culinária doméstica, preferindo comprar tudo enlatado, e o pai arrumando uma nova esposa a partir de sua faxineira (Bonham Carter), e que se revela uma excelente, quase obsessiva, cozinheira.

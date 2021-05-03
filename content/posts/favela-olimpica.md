@@ -1,10 +1,14 @@
 ---
-date: "2017-10-24"
-link: "https://www.imdb.com/title/tt7169096"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Favela Olimpica"
+categories:
+- draft
+- movies
+date: '2017-10-24'
+link: https://www.imdb.com/title/tt7169096
+tags:
+- cinemaqui
+title: Favela Olimpica
 ---
+
 Favela Olímpica é um documentário feito sobre um evento específico que acaba colocando em debate todo um sistema injusto. Ele é o novo Cabra Marcado Pra Morrer ou o novo Aquarius? Quase. Ele tem muitos elementos desses dois filmes, especialmente o primeiro. E um dos elementos mais vitais para seu funcionamento é a impunidade tão gritante que ela se torna visível, palpável e até apontável.
 
 O tema é propriedade. A propriedade, nos termos da Constituição Brasileira, é protegida. Porém, e aqui vamos para o principal "porém" de toda a Carta Magna, é dito que a propriedade deve cumprir a sua "função social". Você sabe o que é isso? Saberia definir exatamente quando uma propriedade cumpre e quando ela não cumpre a tal função social?

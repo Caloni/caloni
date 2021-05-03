@@ -1,9 +1,12 @@
 ---
-date: "2019-12-26"
-link: "https://www.imdb.com/title/tt7959026"
-categories: [ "draft", "movies" ]
-title: "A Mula"
+categories:
+- draft
+- movies
+date: '2019-12-26'
+link: https://www.imdb.com/title/tt7959026
+title: A Mula
 ---
+
 Todos estão compenetrados em seus celulares, mas Earl Stone continua vivendo sem o uso de aparelhos. A triste história é que o último filme de Eastwood é o clichê do pai ausente, mas a boa notícia é que ele tira sarro de justiceiros sociais com certa sutileza, ou às vezes não, como quando um latino está sendo enquadrado pela polícia e fica repetindo como aqueles cinco minutos são os mais perigosos de sua vida, sendo latino e tudo mais. Ele teme por sua vida baseado em estatísticas que nem ele sabe direito traduzir, em uma tradução simples e eficiente de como o pensamento liberal americano está corrompido por uma lógica vazia que tenta sustentar sentimentos contraditórios com a realidade. Enfim, é sempre bom poder ver um novo filme do velho Clint.
 
 Aqui ele não inventa muito. Baseado em um roteiro simples, embora eficiente, de Nick Schenk, que se inspirou em um artigo do New York Times escrito por Sam Dolnick sobre um caso real, Clint Eastwood faz um noventão que ignorou sua família a vida inteira para se dedicar a suas flores, pois lhe davam notoriedade entre os colegas. "Elas apenas florescem uma vez", ele diz sobre suas flores, e tem que ouvir um "e a sua família não?" de sua ex-esposa. Eastwood parece um pouco mais sentimental aqui, embora nunca sentimentalóide como a geração atual, o que garante ao seu personagem, Earl Stone, o mínimo de dignidade necessária para viver.

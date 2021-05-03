@@ -1,9 +1,11 @@
 ---
-date: "2013-03-11"
-link: "https://www.imdb.com/title/tt1194577"
-categories: [ "movies" ]
-title: "Atrás da Porta"
+categories:
+- movies
+date: '2013-03-11'
+link: https://www.imdb.com/title/tt1194577
+title: Atrás da Porta
 ---
+
 Dirigido e escrito por István Szabó a partir de um romance de Magda Szabó (nenhuma relação) da década de 80, Atrás da Porta é parte ficção, parte biográfico. Como filme, se transformou em uma experiência simpática com um elenco harmonioso (e a sempre versátil Helen Mirren), mas que parece não encontrar amparo em seu roteiro e direção. Há qualidades na produção, e o diretor muitas vezes parece ensaiar qualquer coisa fora do convencional (como a tempestade e as passagens em flashback fantasiosas). No entanto, todo momento que achamos encontrar o fio da meada ele nos escapa, deixando-nos em companhia de uma história pra lá de clichê, que infelizmente precisa lidar com o lugar-comum e parece não fazer esforços para se desvencilhar do previsível.
 
 A história é simples: a relação entre uma escritora (e seu marido) que acabam de se mudar e sua faxineira (Helen Mirren), uma moradora tradicional do bairro e ao mesmo tempo excêntrica, o que parece não mais incomodar seus vizinhos. As duas mulheres vieram do mesmo vilarejo, mas tiveram destino completamente opostos. O passado da faxineira aos poucos se revela, conforme sua patroa aos poucos lhe inspira confiança.

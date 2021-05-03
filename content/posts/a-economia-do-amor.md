@@ -1,10 +1,14 @@
 ---
-date: "2016-11-21"
-link: "https://www.imdb.com/title/tt4746484"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Economia do Amor"
+categories:
+- draft
+- movies
+date: '2016-11-21'
+link: https://www.imdb.com/title/tt4746484
+tags:
+- cinemaqui
+title: A Economia do Amor
 ---
+
 A Economia do Amor, trocadilhos à parte, é também um filme econômico em sua produção. E é quando a arte encontra os benefícios da crise europeia, tanto no assunto quanto no orçamento.
 
 Aliás, os filmes franceses atualmente parecem estar centrados na questão das finanças das famílias, no desemprego e no valor humano. Este fala sobre o processo de separação de um casal, paralisado momentaneamente por falta de dinheiro, talvez o mesmo dinheiro motivo que iniciou o declínio da relação.

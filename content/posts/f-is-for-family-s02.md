@@ -1,9 +1,12 @@
 ---
-date: "2017-08-21"
-link: "https://www.imdb.com/title/tt4326894"
-categories: [ "draft", "series" ]
-title: "F is for Family - Segunda Temporada"
+categories:
+- draft
+- series
+date: '2017-08-21'
+link: https://www.imdb.com/title/tt4326894
+title: F is for Family - Segunda Temporada
 ---
+
 Enquanto a primeira temporada afiava seu tom do humor para algo dos anos 70 que divertia os que não ligam para o politicamente correto ao mesmo tempo que demonstrava por que estamos na fase do politicamente correto, a sequência de F is for Family explora melhor seus personagens, dando a eles a medida certa de tempo em cena. Exceto pela caçula que quer ser programadora de computadores. E sempre que sua ambição aparece faz meus olhos brilharem.
 
 A série embarca em uma jornada emocional do casal principal que consegue extrair o melhor do conflito de casais que começam a perceber que o modelo pai provedor e dona-de-casa não é tão estável assim, e que isso pode ser uma coisa boa para ambos os lados. Quando a série explora cada um desses lados individualmente e eles se juntam no final, eis o conflito principal da série sobre homens e mulheres e como o mundo recebe os sonhos de um e de outro.

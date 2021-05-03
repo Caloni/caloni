@@ -1,10 +1,14 @@
 ---
-date: "2019-08-07"
-link: "https://www.imdb.com/title/tt6386748"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Pássaros de Verão"
+categories:
+- draft
+- movies
+date: '2019-08-07'
+link: https://www.imdb.com/title/tt6386748
+tags:
+- cinemaqui
+title: Pássaros de Verão
 ---
+
 Pássaros de Verão em nenhum momento convence como Cinema. Sua narrativa é dividida em capítulos, os cantos, que não possuem a independência para serem chamados assim. Sua passagem do tempo não é mais do que o descer e subir das cortinas de um teatro. O que resta é sua historinha e uma certa "consciência histórica" que pode ter dado origem a este projeto.
 
 O que veremos, somos avisados, é inspirado em acontecimentos reais na Colômbia entre as décadas de 70 e 80. É a primeira geração de tráfico ilegal de drogas no país: a maconha. Uma família de nativos começa a prosperar ao exportar a erva e nessa mudança os valores de toda uma sociedade se altera radicalmente. É a voz do dinheiro falando mais alto.

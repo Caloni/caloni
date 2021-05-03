@@ -1,10 +1,14 @@
 ---
-date: "2016-04-15"
-link: "https://www.imdb.com/title/tt3667648"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Que Eu Fiz Para Merecer Isso?"
+categories:
+- draft
+- movies
+date: '2016-04-15'
+link: https://www.imdb.com/title/tt3667648
+tags:
+- cinemaqui
+title: O Que Eu Fiz Para Merecer Isso?
 ---
+
 Um homem quer ouvir um disco que para ele tem muito valor. Suas tentativas frustradas vão escalando em uma história cada vez mais absurda. Essa é a premissa básica de O Que Eu Fiz Para Merecer Isso?, que realiza uma farsa -- aquela comédia em que todos os personagens são críveis, mas exagerados -- em praticamente um cenário. 
 
 Encurralando seu protagonista em uma bola de neve de problemas, o roteiro da diretora Patrice Leconte, começa simplório, já cativando o espectador no começo, quando, ao achar uma peça de valor, um disco de jazz, o impulsivo Michel (Christian Clavier) não se segura com o vendedor. Esse início equilibra um homem comum entusiasmado como uma criança. Aos poucos, contudo, apresentando seus personagens sob o clima de tensão de Michel tentando ouvir seu disco, vamos percebendo que sua vida está pavimentada de mentiras e situações que ele não consegue controlar. Suas tentativas de evitar que isso atrapalhe o seu único prazer autêntico naquela tarde é a força motriz para a comédia, que funciona tão bem que não percebemos que estamos acompanhando de fato um drama. Tudo bem que é um drama que utiliza a comédia para torná-lo mais leve, mas ainda assim, um drama.

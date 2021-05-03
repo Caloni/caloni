@@ -1,8 +1,11 @@
 ---
-date: "2018-08-18"
-categories: [ "draft", "reading" ]
-title: "Jejum Intermitente e Nutricionistas em Fúria"
+categories:
+- draft
+- reading
+date: '2018-08-18'
+title: Jejum Intermitente e Nutricionistas em Fúria
 ---
+
 Eu entendo que nutricionistas precisem defender sua profissão. Muitas pessoas no mundo todo possuem uma dieta errante totalmente inadequada com suas condições de saúde, e a área de nutrição pode e deve crescer com base em evidências científicas, da mesma forma como acontece com a medicina. Uma das funções mais importantes desses profssionais hoje em dia é desmistificar e validar as conhecidas dietas da moda: comer de três em três horas, dieta paleolítica, cortar carbo, comer só uma coisa a semana inteira, etc.
 
 O que eu não entendo de tudo isso é a razão pela qual conteúdo duvidoso é escolhido como base de notícias pelo canais de mídia. O jejum intermitente finalmente foi escolhido para ser explicado (e criticado) cientificamente aos leigos, mesmo já sendo moda há alguns anos mas entre dezenas de papers e experimentos realizados em camundongos e humanos por vários anos foi escolhido apenas um experimento recente feito por dois estudantes de pós da USP, sem revisão por pares e já com algumas críticas da comunidade científica por conta de sua metodologia.
@@ -31,4 +34,3 @@ Fontes citadas:
  - https://youtu.be/-X0A5etb0kk
  - https://jornal.usp.br/ciencias/ciencias-biologicas/jejum-intermitente-24-por-24-horas-aumenta-risco-de-diabete-em-ratos/
  - http://www.sciencemediacentre.org/expert-reaction-to-unpublished-poster-presentation-on-diabetes-and-fasting-as-presented-at-the-european-society-of-endocrinology-annual-meeting-ece-2018/
-

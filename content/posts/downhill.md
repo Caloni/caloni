@@ -1,9 +1,12 @@
 ---
-date: "2016-12-15"
-link: "https://www.imdb.com/title/tt0017825"
-categories: [ "draft", "movies" ]
-title: "Downhill"
+categories:
+- draft
+- movies
+date: '2016-12-15'
+link: https://www.imdb.com/title/tt0017825
+title: Downhill
 ---
+
 Este é o quinto filme dirigido por Alfred Hitchcock, um dos três filmes que ele dirigiu apenas em 1927. Após The Pleasure Garden, seu primeiro, teríamos The Mountain Eagle, um filme perdido há mais de 50 anos. Já este quinto oferece algumas belas surpresas na direção, como uma câmera subjetiva alternada, além de algumas ótimas piadas ocasionais em um drama no melhor estilo "retorno do filho pródigo".
 
 A história é simples, mas de época. Dois amigos estão prestes a entrar em Oxford, mas ambos são seduzidos por uma garçonete, que os leva para a loja de doces onde trabalha e dança com eles. Um dos garotos a beija, mas o outro a evita. No dia seguinte o garoto que se manteve firme é acusado de assédio, e acaba sendo expulso do colégio. Desacreditado pelo pai, ele abandona sua vida e sai perambulando pela vida. O filme é sobre a sua queda gradativa, indo de um mundo de faz de contas ao palácio das ilusões perdidas. Cada período fora de casa é visto como um episódio à parte, até o verdadeiro fundo do poço.

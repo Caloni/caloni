@@ -1,10 +1,14 @@
 ---
-date: "2016-09-13"
-link: "https://www.imdb.com/title/tt5125930"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Silêncio do Céu"
+categories:
+- draft
+- movies
+date: '2016-09-13'
+link: https://www.imdb.com/title/tt5125930
+tags:
+- cinemaqui
+title: O Silêncio do Céu
 ---
+
 O Silêncio do Céu é mais uma incursão do diretor Marco Dutra ("Trabalhar Cansa") em um filme que flerta entre o drama e o terror. Porém, nesse caso não há o apelo ao sobrenatural, mas a uma substância social que permeia cada um de nós: o medo.
 
 E esse medo vem na forma da ausência de diálogos entre pessoas que se amam, o que o torna mais poderoso ainda. A história começa com a cena de um estupro de uma mulher em posição indefesa, que pode apenas observar, submissa por dois homens armados com uma faca. Começamos o filme enxergando seu ponto de vista, mas isso logo muda para o ponto de vista de seu namorado, Mario (Leonardo Sbaraglia) que, depois sabemos, presenciou toda a cena, mas foi incapaz de agir.

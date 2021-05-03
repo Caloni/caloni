@@ -1,9 +1,12 @@
 ---
-date: "2016-08-28"
-link: "https://www.imdb.com/title/tt2616114"
-categories: [ "draft", "movies" ]
-title: "O Concurso"
+categories:
+- draft
+- movies
+date: '2016-08-28'
+link: https://www.imdb.com/title/tt2616114
+title: O Concurso
 ---
+
 Este é mais um dos filmes bobos, praticamente sem graça e datados da Globo Filmes. O Concurso continua fazendo piadas no melhor/pior estilo A Praça é Nossa ou Zorra Total. Pior: sequer tem vergonha de usar um fiapo de história que apenas serve para juntar situações entre humoristas se fazendo de atores com personagens tipicamente rasos.
 
 A história é sobre o concurso público mais disputado no país: juiz federal. Entre as inúmeras fases, apenas quatro foram selecionados para a fase final (o teste oral), e vemos os quatro descobrindo que foram selecionados. Isso depois de o vermos na introdução em situações engraçadinhas ou aparentemente inusitadas, como um vestido de drag queen, outro vindo do hospital, outro preso e mais um outro... até já esqueci.

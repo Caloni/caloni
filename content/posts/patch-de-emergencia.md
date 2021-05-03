@@ -1,8 +1,11 @@
 ---
-date: "2010-11-08"
+categories:
+- draft
+- code
+date: '2010-11-08'
 title: Patch de emergência
-categories: [ "draft", "code" ]
 ---
+
 Após um projeto muito bem sucedido, entregue no prazo e homologado em tempo recorde, você e sua equipe estão aproveitando suas devidas férias nas Bahamas, tomando água de coco na sombra de uma palmeira e apreciando a beleza natural da região. Ambas as belezas. =)
 
 ![Club-med-beach-governors-harbour-eleuthera-bahamas](http://i.imgur.com/ggKPJuT.jpg)]

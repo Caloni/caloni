@@ -1,10 +1,14 @@
 ---
-date: "2017-08-10"
-link: "https://www.imdb.com/title/tt5186236"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Afterimage"
+categories:
+- draft
+- movies
+date: '2017-08-10'
+link: https://www.imdb.com/title/tt5186236
+tags:
+- cinemaqui
+title: Afterimage
 ---
+
 Afterimage é uma breve biografia que se passa em uma distopia onde o governo proíbe toda forma de Arte contra seus interesses e... ops. Espera. Não é uma distopia, é a Polônia soviética.
 
 Ambientado como de costume em obras dessa época, sob uma paleta de cores cinzenta e fria, os únicos tons que arriscam um pouco de felicidade estão nos quadros do pintor Wladyslaw Strzeminski e seus alunos. Ele é professor de História da Arte, um dos precursores do avant-garde, e aparentemente tudo ia bem em sua vida, ainda que com a esposa adoecida. Até ele começar uma nova tela e ela ficar com um tom avermelhado, denunciando o enorme cartaz que está sendo pendurado na fachada do seu prédio com a figura do ditador Joseph Stalin, e metaforicamente denunciando uma mudança nos rumos daquela sociedade.

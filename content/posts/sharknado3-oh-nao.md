@@ -1,9 +1,12 @@
 ---
-date: "2018-03-18"
-link: "https://www.imdb.com/title/tt3899796"
-categories: [ "draft", "movies" ]
-title: "Sharknado 3"
+categories:
+- draft
+- movies
+date: '2018-03-18'
+link: https://www.imdb.com/title/tt3899796
+title: Sharknado 3
 ---
+
 O herói nacional salva o presidente de um tornado de tubarões. Ele ganha a serra elétrica dourada como prêmio. E ele faz o parto do seu filho de dentro de um tubarão, enquanto seu pai se sacrifica lutando com esses predadores naturais do mar, só que na lua. São tantos detalhes divertidos da terceira parte dessa saga de defeitos digitais com tubarões criados em um aquário do Photophop que você se pergunta: o que deu errado no caminho para ele não ter a mínima graça? Ele levou tão a sério a farofa de brincadeira que deu a volta e parece sério?
 
 Pode ser isso. A trilha sonora solene e os enquadramentos quase bons, mas completamente perdidos, dão a entender que a série tenta desde o começo fazer um filme sério, mas ninguém no set tem competência alguma para fazer isso acontecer. Os atores repetem falas idiotas de um roteirista que não passou da puberdade (Thunder Levin começou com "Zumbis Mutantes Vampiros do Gueto", mas sair do gueto não fez bem ao rapaz). Ele adora a ideia de uma "ninfeta" (a delícia da Cassandra Scerbo) vidrada no herói pai de família casado (o sempre Ian Ziering), que tem uma filha quase da mesma idade. O herói e a ninfeta saem da água com roupas de baixo após o caça que dirigiam cair por um tubarão ter feito ele sair girando. Esse deveria ser um momento cômico, mas por algum motivo mistura uma série de emoções que te impedem de te fazer rir.

@@ -1,7 +1,10 @@
 ---
-date: "2014-02-20"
-categories: [ "code", "draft", "english" ]
-title: "Real Programmers Don't Use Java"
+categories:
+- code
+- draft
+- english
+date: '2014-02-20'
+title: Real Programmers Don't Use Java
 ---
 
 When I was a newbie (and a wanna-be) I enjoyed reading "Real Programmers Don't Use Pascal", a satiric text that influenced and encouraged me into the path of "C/C++ enlightenment", most even than K&R's book. Since then I thought that being a "Real Programmer" was something close to everything one needs to know to get (hard) things done (quickly). Being a "Quiche Eater" was, in couterpart, comparable to nothing. Real Programmers solve real problems! Quiche Eaters are losers who study the academic concepts of computer science and never do a damn useful and/or working program (maybe you know some guy like this).

@@ -1,9 +1,11 @@
 ---
-date: "2012-03-11"
-link: "https://www.imdb.com/title/tt0118849"
-categories: [ "movies" ]
-title: "Filhos do Paraíso"
+categories:
+- movies
+date: '2012-03-11'
+link: https://www.imdb.com/title/tt0118849
+title: Filhos do Paraíso
 ---
+
 Existe algo que vale a pena em Filhos do Paraíso. Se você notar, de repente acompanhamos uma história que não tem nada de original ou espetacular. Mas acompanhamos atentos. Existe algo de mágico em entrar dentro da vida dessa família. De entender seus conflitos, seu modo de viver e o problema que a perda de um par de sapatos representam.
 
 É unindo o trágico com a fábula que o diretor consegue trazer à tona uma história tocante em que o protagonista é um tênis. Sim, um mero tênis. O resto dos personagens, pobres em sua essência (nem estou falando do lado financeiro), seguem na inércia da vida consertar as poucas coisas que conseguem ter algum controle. O resto é um caos.

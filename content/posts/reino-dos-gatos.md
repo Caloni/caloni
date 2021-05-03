@@ -1,9 +1,11 @@
 ---
-date: "2013-11-09"
-link: "https://www.imdb.com/title/tt0347618"
-categories: [ "movies" ]
-title: "Reino dos Gatos"
+categories:
+- movies
+date: '2013-11-09'
+link: https://www.imdb.com/title/tt0347618
+title: Reino dos Gatos
 ---
+
 Assim como em [O Mundo dos Pequeninos], aqui os estúdios Ghibli fazem o que a Disney/Pixar começa a copiar: pequenas produções sem história desenvolvida para Cinema, mas que ganha a simpatia por usar os mesmos traços conhecidos de produções mais pomposas, como as dirigidas por Miyazaki.
 
 Nesse caso, a autoestima de uma menina na escola é desafiada quando ao salvar um gato falante, que mais tarde descobre ser o príncipe de um reino onde todos os gatos falam (e andam nas duas patas), é escolhida pelo rei a se casar com ele.

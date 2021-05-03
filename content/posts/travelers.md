@@ -1,9 +1,12 @@
 ---
-date: "2017-02-28"
-link: "https://www.imdb.com/title/tt5651844"
-categories: [ "draft", "series" ]
-title: "Travelers"
+categories:
+- draft
+- series
+date: '2017-02-28'
+link: https://www.imdb.com/title/tt5651844
+title: Travelers
 ---
+
 Viagem no tempo, física quântica, mulheres bonitas e gostosas: uma fórmula que geralmente merece dar uma olhada, para diversos fãs, de diferentes conteúdos. No caso da primeira temporada de Travelers, da Netflix, a química entre esses elementos oscila de maneira irregular, quase sempre frustrando ideias mais ambiciosas e quase sempre se rendendo ao juvenil politicamente correto. Quer dizer, no futuro os animais são nossos amigos e as pessoas passam mal em ver bacon? Fala sério!
 
 A ideia compartilhada por um batalhão de roteiristas (e dirigida por outro tanto) é que no futuro há uma catástrofe que irá destruir a humanidade (ou algo que o valh), mas há também tecnologia suficiente para enviar consciências de volta ao tempo, o que move uma organização coordenada por uma figura conhecida como Diretor que envia equipes prontas para cumprir cegamente as mais diferentes missões. Como os viajantes do tempo são todos politicamente corretos e há alguns protocolos que não podem ser quebrados (o que eu mais gosto é o Protocolo 2: "o futuro fica no passado") eles incorporam suas consciências em pessoas que, de acordo com os registros que possuem do passado, já iriam morrer em poucos segundos. Entre os protocolos há a regra de não alterar muito o presente em que vivem para não impactar o futuro, exceto as missões entregues às equipes e o fato das pessoas que iriam morrer continuar fazendo parte da vida de sua família e conhecidos.

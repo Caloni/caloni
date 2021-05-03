@@ -1,10 +1,14 @@
 ---
-date: "2018-03-26"
-link: "https://www.imdb.com/title/tt3409848"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Zama"
+categories:
+- draft
+- movies
+date: '2018-03-26'
+link: https://www.imdb.com/title/tt3409848
+tags:
+- cinemaqui
+title: Zama
 ---
+
 Em algum momento na metade de Zama, da diretora argentina Lucrecia Martel, o protagonista se muda para um casebre pior de onde estava e começa a ser rodeado de mulheres que não existem. Esse poderia ser o clímax de um desejo reprimido que foi aumentando na mesma medida que suas frustrações, perdido em uma terra de ninguém. No entanto, como o filme nunca muda de tom, ainda estamos no mesmo estado de quando o filme começou. Exceto o sentimento de tempo perdido e um sono épico.
 
 O protagonista é Don Diego de Zama (Daniel Giménez Cacho), um oficial menor da colônia espanhola em continente sul-americano. Assim como o romance existencial de Antonio Di Benedetto, onde apesar de coisas aconterem nada realmente sai do lugar, a diretora/roteirista Lucrecia Martel executa o mesmo processo usando a linguagem cinematográfica, o que se revela um tremendo porre artístico.

@@ -1,9 +1,11 @@
 ---
-date: "2020-06-21"
-link: "https://www.cinemaqui.com.br/oscar-tera-10-indicados-fixos-para-melhor-filme"
-categories: [ "blog" ]
-title: "Oscar"
+categories:
+- blog
+date: '2020-06-21'
+link: https://www.cinemaqui.com.br/oscar-tera-10-indicados-fixos-para-melhor-filme
+title: Oscar
 ---
+
 Quando o chefão do Oscar faz um discurso dizendo que agora oficialmente serão dez os indicados a melhor filme para promover representatividade, diversidade e todos os ades de quem é ista, ele não está sendo um cara legal. Ele está apenas revelando o quanto o Oscar e/ou a sociedade como um todo funciona e o que irão fazer a respeito: nada. Porque nada é o que este povo que se diz politicamente consciente está acostumado a fazer para mostrar que sabe de algo que você, alienado, não sabe, e farão algo a respeito. Bom, resumo da história como sempre: não, não sabem e não, não farão. Não sabem matemática e não farão uma revolução. Provarão ignorância na arte dos números e hipocrisia e conveniência na arte política.
 
 Vamos abrir o discurso para a lógica: eu tenho mil filmes disputando a lista entre os indicados. Apenas cinco poderão ser escolhidos. Os cinco imediatamente abaixo destes cinco ficarão de fora. Pelas novas regras esses cinco também entrariam pelo tapete vermelho, e com isso, de acordo com o resto da divulgação, aumentaria a representatividade para o prêmio principal da noite. Essa palavra, diversidade, vale lembrar, atualmente quer dizer indicar não apenas homens héteros brancos, mas também mulheres e homens de todas as cores, sexualidade e planeta.

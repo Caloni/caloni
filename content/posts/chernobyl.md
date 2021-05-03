@@ -1,9 +1,12 @@
 ---
-date: "2019-12-11"
-link: "https://www.imdb.com/title/tt7366338"
-categories: [ "draft", "series" ]
-title: "Chernobyl"
+categories:
+- draft
+- series
+date: '2019-12-11'
+link: https://www.imdb.com/title/tt7366338
+title: Chernobyl
 ---
+
 Um russo tudo fala na frente de um gravador. Em inglês. Ele prepara seis fitas cassete e deixa em um local premeditado para não serem descobertas pela KGB. Logo em seguida se mata. O clima de conspiração em plena União Soviética não impressiona mais. Na verdade é até esperado. Só não é esperado que russos falem em inglês.
 
 Chernobyl é uma minissérie em cinco capítulos de cerca de uma hora cada narrando os acontecimentos reais de uma noite fatídica e os dias e meses seguintes em uma cidade que começa observando a beleza das cores no céu vindas de um incêndio na usina nuclear e termina enterrando seus mortos em concreto. Toda a ignorância de uma população a respeito dos assuntos do Estado vai sendo revelada aos poucos, conforme conhecemos as patentes do alto escalão de funcionários públicos do governo, burocratas e cientistas, os diplomas de uns não servindo aos propósitos políticos de outros.

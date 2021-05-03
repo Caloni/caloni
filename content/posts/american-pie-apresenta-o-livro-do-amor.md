@@ -1,9 +1,11 @@
 ---
-date: "2014-06-13"
-link: "https://www.imdb.com/title/tt1407050"
-categories: [ "movies" ]
-title: "American Pie: O Livro do Amor"
+categories:
+- movies
+date: '2014-06-13'
+link: https://www.imdb.com/title/tt1407050
+title: 'American Pie: O Livro do Amor'
 ---
+
 Ótimas piadas, uma história batida, mas que segue a lógica e até meio que homenageia os filmes sobre nerds dos anos 80. E por falar em anos 80, a melhor surpresa é Brandon Hardesty, que faz o gordo desajeitado que fantasia mulheres se entregando para ele a todo o momento. Além de ser a melhor surpresa é praticamente a única, pois seus dois amigos, apesar de socialmente desajeitados, não podem ser rotulados como incapazes de se relacionar com mulheres.
 
 Outro lado anos 80 explorado são os peitos de fora de quase todas as mulheres desta comédia, algo que antigamente era exaltado hoje é praticamente jogado na tela como forma de "exploitation" barato. Isso faz perder o significado original quando torcíamos por um breve momento de nudez.

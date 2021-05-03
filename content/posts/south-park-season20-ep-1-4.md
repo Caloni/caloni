@@ -1,8 +1,10 @@
 ---
-date: "2016-10-15"
-link: "https://www.imdb.com/title/tt0121955"
-categories: [ "draft", "series" ]
-title: "South Park - Vigésima Temporada, Episódios 1 a 4"
+categories:
+- draft
+- series
+date: '2016-10-15'
+link: https://www.imdb.com/title/tt0121955
+title: South Park - Vigésima Temporada, Episódios 1 a 4
 ---
 
 A vigésima temporada de South Park começa em um tom dramático que esconde o humor ainda mais dentro do absurdo de suas situações. Não deixa de ser poderosa sua mensagem, mas ele está se tornando, desde a temporada anterior, um longa-metragem anual de três horas e pouco. Isso é bom ou ruim? Talvez seja necessário esperar o fechamento do arco deste ano para termos certeza.

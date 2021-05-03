@@ -1,10 +1,14 @@
 ---
-date: "2020-01-16"
-link: "https://www.imdb.com/title/tt7613748"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Açúcar"
+categories:
+- draft
+- movies
+date: '2020-01-16'
+link: https://www.imdb.com/title/tt7613748
+tags:
+- cinemaqui
+title: Açúcar
 ---
+
 Açúcar é o novo filme de ficção da dupla de diretores e roteiristas Sergio Oliveira e Renata Pinheiro (Sangue Azul, "Amor, Plástico e Barulho"). Dentro de suas capacidades de extrair metáforas do cotidiano, aqui estão dois cineastas viciados nisso. E se essa característica pode gerar bons momentos nesse e em outros filmes, é ao mesmo tempo o que impede seus trabalhos de atingir a maturidade necessária para que parem de ser apenas isso e atinjam a fase adulta.
 
 Sofrendo enormes influências da temática de Kleber Mendonça Filho com a questão da terra e do ser coletivo, o filme conta a história de Maria Bethania Wanderley, em que seu próprio nome, misto de referência brega e genérica ao MPB e ao nome do engenho que herdou, já denuncia o desdém sobre o individual, sobre a personalidade e sobre pessoas em geral. O ódio direcionado à classe que Bethania representa pode ser visto de todos os ângulos, mas o mais icônico é quando ela faz chapinha em seu cabelo, o que representa, na visão do filme, a negação de suas origens étnicas, portanto coletivas. Bethania é uma pecadora da ideologia presente no longa porque se recusa a usar a identidade escolhida como heroica.

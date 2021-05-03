@@ -1,10 +1,13 @@
 ---
-date: "2015-05-17"
-link: "https://www.imdb.com/title/tt2667960"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Miss Julie"
+categories:
+- movies
+date: '2015-05-17'
+link: https://www.imdb.com/title/tt2667960
+tags:
+- cinemaqui
+title: Miss Julie
 ---
+
 Miss Julie é um filme de época um pouco atípico. Dirigido pela também atriz Liv Ullmann e apenas com quatro atores, sendo que 80% do tempo apenas dois contracenam, chamá-lo de filme de época seria pouco para defini-lo. É também um filme minimalista e intimista. Apesar de todos os elementos de cena geralmente inseridos nesse universo estarem lá, como os cenários grandiosos e as terras a perder de vista, falta o elemento principal: as pessoas. Isso faz com que a narrativa se aproveite desse fato e faça uma longa digressão sobre a relação entre nobres e seus serviçais, especialmente os que não se diferem dos donos de terras em termos de instrução, educação e ambição.
 
 A história se passa no dia do solstício de verão, quando é feita uma tradicional festa para celebrar o evento. Acompanhamos praticamente em tempo real as conversas entre a prestativa e obediente Kathleen (Samantha Morton), o inquieto John (Colin Farrell) e a controversa Miss Julie (Jessica Chastain), filha do Barão e patrão dos dois primeiros. John e Kathleen conversam a respeito do comportamento inadequado de Miss Julie com relação a seus empregados quando esta aparece informalmente na cozinha. A partir daí há uma série de diálogos que jogam através das tentativas de Miss Julie de seduzir John, mesmo sabendo que Kathleen é cortejada por ele. O que ela não sabe é que John é um ser amargurado por não fazer parte daquela vida de luxos, e tudo o que ele gostaria é uma chance de poder mudar de classe social. A presença da indecorosa Miss Julie acaba servindo de estopim involuntário aos seus anseios.

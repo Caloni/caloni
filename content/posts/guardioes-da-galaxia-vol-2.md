@@ -1,9 +1,12 @@
 ---
-date: "2017-04-27"
-link: "https://www.imdb.com/title/tt3896198"
-categories: [ "draft", "movies" ]
-title: "Guardiões da Galáxia Vol. 2"
+categories:
+- draft
+- movies
+date: '2017-04-27'
+link: https://www.imdb.com/title/tt3896198
+title: Guardiões da Galáxia Vol. 2
 ---
+
 Se você gostou de Guardiões da Galáxia é quase certeza que irá apreciar as novas aventuras do time de escanteio da Marvel, que ironicamente são os que mais lembram, com orgulho e um certo sarcasmo, a mídia original de onde vieram: os quadrinhos. Agora, se você é como eu, tenho certeza que achou que nada de bom viria de um filme onde novamente há uma equipe de anti-heróis de mentirinha formados por um guaxinim bancando o bad ass, um macho alfa genérico e seu objeto de desejo pintado de verde (porque é uma atriz negra), um brutamontes genérico isento de neurônios no cérebro e papas na língua e uma árvore falante (Eu sou Groot) dublada por Vin Diesel (que agora é pequena, o que torna Vin Diesel por tabela fofinho). Para você que pensa como eu, acredito que provavelmente você estará errado em julgar prematuramente uma continuação que faz de tudo dessa vez para acertar as pontas soltas desse ensaio bem-humorado dos quadrinhos para as telonas.
 
 Dessa vez o tom meio bonachão ensaiado no primeiro filme está aqui a todo vapor. Graças a um ritmo alucinante que une cenas de ação irreais e um timing cômico orgânico, praticamente todo o filme respira o mundo dos quadrinhos, onde é preciso economizar balões de diálogos e abusar do visual, com cores berrantes que não parecem desse mundo. A não ser que esse mundo esteja desenhado em páginas brilhantes de um almanaque Marvel.

@@ -1,10 +1,14 @@
 ---
-date: "2021-05-01"
-link: "https://youtu.be/PU0O_HYMoCw"
-categories: [ "draft", "code" ]
-tags: [ "debug" ]
-title: "Como Configurar Debug de Kernel Pela Rede (Hyper-V Edition)"
+categories:
+- draft
+- code
+date: '2021-05-01'
+link: https://youtu.be/PU0O_HYMoCw
+tags:
+- debug
+title: Como Configurar Debug de Kernel Pela Rede (Hyper-V Edition)
 ---
+
 Estava pensando em transformar alguns posts antigos que estou revisando em vídeos no YouTube. Acho que o esforço para fazer isso é relativamente baixo se for sem áudio, sem edição e apenas com o que eu naturalmente faria para validar as partes técnicas, e muita gente poderia aprender algumas coisas, como, por exemplo, configurar o debug de kernel.
 
 Foi nessas que eu comecei a gravar um vídeo para [o post] onde eu ensino a depurar um processo em user mode através do debug de kernel mode usando o WinDbg. Esse post é de mais de dez anos e na época usei VMWare e emulação de cabo serial. Hoje estou usando Hyper-V e vejo que a maneira mais fácil de configurar o debug de kernel é pelo driver de rede, usando uma ferramenta do Debugging Tools chamado kdnet.

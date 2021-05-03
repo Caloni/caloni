@@ -1,8 +1,11 @@
 ---
-date: "2015-11-18"
-categories: [ "code", "draft" ]
-title: "Como ser um hacker"
+categories:
+- code
+- draft
+date: '2015-11-18'
+title: Como ser um hacker
 ---
+
 Talvez as pessoas estejam com preguiça de ler. Talvez estejam apenas inundadas por tanta informação que temos hoje. Talvez seja apenas falta de foco pelas interrupções consecutivas de novos "espertofones" ou nossas redes sociais viciantes, pois oferecem muito a troco de nada.
 
 O fato é: se você precisa perguntar para alguém (no caso, eu) o que é preciso fazer para se tornar um hacker, algo como um guia passo-a-passo, eu vou encarar o desafio numa boa, pensar por alguns dias, semanas e talvez meses, e chegar à conclusão que a pessoa que precisa que alguém lhe ensine está percorrendo o caminho errado. Ela nunca vai aprender o suficiente para se tornar algo que possa ser chamado de hacker.

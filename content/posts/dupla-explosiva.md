@@ -1,10 +1,14 @@
 ---
-date: "2017-08-24"
-link: "https://www.imdb.com/title/tt1959563"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Dupla Explosiva"
+categories:
+- draft
+- movies
+date: '2017-08-24'
+link: https://www.imdb.com/title/tt1959563
+tags:
+- cinemaqui
+title: Dupla Explosiva
 ---
+
 Dupla Explosiva pega carona na atmosfera cômica e absurda de Dois Caras Legais (Shane Black, 2016) e se dá muito bem com isso. O resultado é um filme de ação que consegue ser tenso com uma história que nos envolva, protagonizado por personagens carismáticos.
 
 O roteiro é traçado rapidamente por cortes rápidos e muitas transições inteligentes. A primeira delas começa na primeira cena, onde vemos o imponente relógio do guarda-costas Classe AAA Michael Bryce (Ryan Reinolds) que está começando seu dia como uma pessoa de sucesso, tomando seu café, beijando sua esposa perfeita e dirigindo seu Jaguar impecável. E foi justamente este o dia em que ele perdeu um cliente e sua reputação "triple A". E a continuação do filme, dois anos depois, agora tem um Ryan Reinolds mijando em garrafas de Gatorade esperando seu cliente no banco de trás de um carro que "cheira a bunda", o que irá se tornar uma piada recorrente.

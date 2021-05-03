@@ -1,8 +1,10 @@
 ---
-date: "2008-01-02"
-categories: [ "blog" ]
-title: "Como ser um melhor desenvolvedor em 2008"
+categories:
+- blog
+date: '2008-01-02'
+title: Como ser um melhor desenvolvedor em 2008
 ---
+
 Aproveitando que está se aproximando meu prazo final para minhas resoluções de seis meses atrás, e o [DQ] já fez o checklist dele, vou dar uma espiada na minha lista de desejos atual e fazer uma nova lista para 2008.
 
 #### 1. Fazer um curso de memorização

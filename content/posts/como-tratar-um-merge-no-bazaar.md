@@ -1,8 +1,10 @@
 ---
-date: "2008-05-09"
+categories:
+- code
+date: '2008-05-09'
 title: Como tratar um merge no Bazaar
-categories: [ "code" ]
 ---
+
 Hoje fizemos um merge de duas versões que entraram em conflito em nosso projeto-piloto usando bzr. Isso geralmente ocorre quando alguma coisa mudou no mesmo arquivo em lugares muito próximos um do outro. Veremos um exemplo de código para ter uma idéia de quão fácil é o processo:
 
     #include <stdio.h>

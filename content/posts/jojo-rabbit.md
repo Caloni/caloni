@@ -1,9 +1,12 @@
 ---
-date: "2020-02-27"
-link: "https://www.imdb.com/title/tt2584384"
-categories: [ "draft", "movies" ]
-title: "Jojo Rabbit"
+categories:
+- draft
+- movies
+date: '2020-02-27'
+link: https://www.imdb.com/title/tt2584384
+title: Jojo Rabbit
 ---
+
 Hitler está de volta. E está com tudo. Ele dança, voa pela janela e recruta um garoto de 10 anos em pleno final da segunda guerra mundial. Seu nome é Jojo Rabbit, e ele é um covarde. Filho de pai e mãe liberais no sentido progressista, é um mistério como ele chegou a idolatrar a suástica em uma família como essa. E por falar em mistérios, Taika Waititi, o diretor e roteirista do filme, foi criado com leite com pera e acha que nazismo é sinônimo de malvadões patéticos.
 
 Mas estamos no século 21, em plena ascenção do fascismo e de golpes de Estado pelo mundo (como aprendemos na escola). Trump e Bolsonaro dividem o posto de anti-cristo para ateus aqui na América do Sul, enquanto nos EUA e na Europa é Trump e Brexit (seus ingleses malvadões traíras, quem pensam que são rompendo o movimento e querendo ser livres?). A geração nascida nos anos 90 e 2000 possuem a noção martelada por gerações de que qualquer coisa que seus pais e educadores não gostem é de extrema direita (e de extremo mal gosto, diga-se de passagem). Ironicamente utilizando o mesmo exemplo das proféticas palavras de George Orwell sobre o declínio da língua inglesa através da política, vivemos uma época em que a palavra "fascismo" vira sinônimo de tudo o que o outro lado não gosta. Ou seja, brócolis e jiló possuem tendências claramente fascistas.

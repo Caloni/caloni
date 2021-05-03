@@ -1,9 +1,12 @@
 ---
-date: "2019-09-07"
-link: "https://www.imdb.com/title/tt0140384"
-categories: [ "draft", "movies" ]
-title: "Cega Obsessão"
+categories:
+- draft
+- movies
+date: '2019-09-07'
+link: https://www.imdb.com/title/tt0140384
+title: Cega Obsessão
 ---
+
 Houve nas décadas de 50 e 60  dois grandes e importantes movimentos no cinema mundial que chacoalharam as estruturas do que poderia ser mostrado na tela: o nouvelle vague francês e as pornochanchadas brasileiras. A união desses dois mundos no japão gerou filmes de horror eróticos reciclados do autor Edogawa Ranpo (1894-1965) e seus mistérios de ficção que lidavam com o bizarro.
 
 Pode ser uma supresa para muitos que a cultura japonesa tenha iniciado um movimento completamente atordoante, seja no campo do horror psicológico quanto da erotização. E Cega Obsessão é um exemplo perfeito disso. Unindo uma versão de tragédia edipiada, contracultura, erotismo e gore, Môjû é ainda uma produção de baixo orçamento que conseguirá te deixar pensando em sua história por alguns dias, meses e anos.

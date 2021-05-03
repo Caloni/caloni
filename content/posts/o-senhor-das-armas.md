@@ -1,9 +1,11 @@
 ---
-date: "2011-04-07"
-link: "https://www.imdb.com/title/tt0399295"
-categories: [ "movies" ]
-title: "O Senhor das Armas"
+categories:
+- movies
+date: '2011-04-07'
+link: https://www.imdb.com/title/tt0399295
+title: O Senhor das Armas
 ---
+
 O roteirista-diretor Andrew Niccol, que esteve nessa função dupla nas produções Gattaca e S1mone, além de ter escrito O Show de Truman e O Terminal, dessa vez parte para uma imersão no real, tratando do submundo do comércio ilegal de armas.
 
 Nicholas Cage faz Yuri Orlov, um negociante de armas ilegais, durante sua ascenção em uma carreira mais que controversa. Narrado em off, insere-se no papel por completo, e ao mesmo tempo que narra as atrocidades que seus clientes fazem com as armas e toda a podridão que existe por trás de sua profissão, parece nunca fazer parte disso, alheio aos problemas locais das várias partes do mundo que visita. Mesmo sua mulher, tão desejada em sua adolescência, não o preenche tanto quanto sua profissão, e nisso é relevador que o momento em que seu filho dá seus primeiros passos é o mesmo momento em que ele fica em êxtase, não pelo filho, mas sim pelo fim da Guerra Fria, significando mais possibilidades de comércio de armas para ele.

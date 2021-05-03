@@ -1,9 +1,11 @@
 ---
-date: "2011-08-29"
-link: "https://www.imdb.com/title/tt1133985"
-categories: [ "movies" ]
-title: "Lanterna Verde"
+categories:
+- movies
+date: '2011-08-29'
+link: https://www.imdb.com/title/tt1133985
+title: Lanterna Verde
 ---
+
 Cada vez mais começo a acreditar que o uso de muitos roteiristas (nesse temos incríveis 7 pessoas colaborando!) acaba por nivelar por baixo uma história até com um certo potencial. Nesse novo filme de super-herói, a impressão geral que fica é que, ao tentar explicar tudo detalhadamente, para não restar dúvidas aos espectadores, foi feito um filme cuja chatice é inversamente proporcional ao número de efeitos visuais.
 
 Dirigido pelo diretor do novo Cassino Royale (para provar que sucesso não é linha de chegada), Lanterna Verde conta a história de Hal Jordan, um piloto de caças que, irresponsável e fanfarrão, acaba por ser escolhido (ao melhor estilo Senhor dos Anéis) pelo anel que representa um grupo de seres intergalácticos que dividiram as galáxias em setores e pretendem manter a paz com o uso do poder que emana da vontade inerente a todo ser vivo, potencializado pelo uso dos anéis que os conectam a poderosas lanternas. São parte da criação dos seres mais avançados do universo, os guardiões, que são imortais e criaram essa congregação para evitar que o mal prevalecesse no mundo, ou algo que o valha: ironicamente, os conceitos de bem e mal, ou suas motivações, nunca são muito bem explicadas.

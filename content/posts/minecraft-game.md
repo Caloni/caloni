@@ -1,8 +1,10 @@
 ---
-date: "2019-01-06"
-categories: [ "draft" ]
-title: "Minecraft: O Jogo"
+categories:
+- draft
+date: '2019-01-06'
+title: 'Minecraft: O Jogo'
 ---
+
 Fundamentado em bases materialistas, a partir das quais Karl Marx se orgulharia, Minecraft é uma luta por recursos e sobrevivência. E por ser simples e fácil de jogar, as crianças adoram. Isso e porque também tem skins na aparência dos players.
 
 Mas qual o objetivo em Minecraft? Ele um jogo pensado como um mundo de blocos onde o que muda são as propriedades físicas desses blocos e o que é possível fazer com eles. Criado por Markus Persson e posteriormente desenvolvido por sua empresa, a Mojang (e depois comprado pela Microsoft), o jogo que atrai crianças, jovens e autistas de todo mundo possui alguns atrativos. O sistema de troféus, como em todo jogo moderno, já foi colocado. Porém, resta a pergunta fatal, filosófica, que quase pode ser ouvida quando se entra no jogo e se começa a minerar: qual o objetivo?

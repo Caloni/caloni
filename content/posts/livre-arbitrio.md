@@ -1,8 +1,11 @@
 ---
-date: "2017-05-28"
-categories: [ "draft", "reading" ]
-title: "Uma prova simples e modesta da existência do livre-arbítrio"
+categories:
+- draft
+- reading
+date: '2017-05-28'
+title: Uma prova simples e modesta da existência do livre-arbítrio
 ---
+
 Uma prova simples e modesta do livre-arbítrio, ou pelo menos que refute o "determinismo duro" (que não admite nenhuma possibilidade de alternativas na ação) é dada pelo filósofo Michael Huemer através de 7 premissas e uma conclusão:
 
 1. A respeito do livre arbítrio, nós devemos sempre evitar acreditar no que é falso (racionalmente).

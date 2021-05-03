@@ -1,9 +1,11 @@
 ---
-date: "2010-08-12"
-link: "https://www.imdb.com/title/tt0078346"
-categories: [ "movies" ]
-title: "Superman: O Filme"
+categories:
+- movies
+date: '2010-08-12'
+link: https://www.imdb.com/title/tt0078346
+title: 'Superman: O Filme'
 ---
+
 Cercado de evocações épicas em seus quadros, no tom solene da partida de Krypton (protagonizada por ninguém menos que Marlon Brando) e até mesmo na fotografia dos diversos ambientes em que vemos o personagem-título, o fato é que "Superman: O Filme" funciona bem exatamente por tudo isso junto, ainda aliado às convincentes interpretações dos personagens, uniformes em suas representações do mundo fantasioso vivido pelo homem de aço, que estranhamente não soa piegas ou exagerado, mas possui o tom cartunesco corretíssimo para manter a lenda e ao mesmo tempo não se levar a sério demais.
 
 Ambientado na época "contemporânea", acompanhamos através de diversos momentos-chave a infância e adolescência do herói até atingir a maturidade e conseguir um emprego de repórter no jornal Planeta Diário, da cidade grande Metrópolis. Seu nome humano é Clark Kent (Christopher Reeve), e ele possui uma queda por uma repórter efusiva, Louis Lane (Margot Kidder), que parece caçar grandes notícias, mas não enxerga um palmo diante do seu nariz, onde o agora conhecido super-herói da cidade se mantém disfarçado apenas pelos seus óculos e um jeito atrapalhado que contracena com toda a pose e atitude de Kar-El.

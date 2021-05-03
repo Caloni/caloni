@@ -1,10 +1,14 @@
 ---
-date: "2017-03-22"
-link: "https://www.imdb.com/title/tt4929038"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Ornitólogo"
+categories:
+- draft
+- movies
+date: '2017-03-22'
+link: https://www.imdb.com/title/tt4929038
+tags:
+- cinemaqui
+title: O Ornitólogo
 ---
+
 Cada diretor tem seu Holy Motors (Leos Carax, 2012) que merece. No caso do diretor português João Pedro Rodrigues, O Ornitólogo é uma história com uma estrutura igualmente coesa mas um final hermético e inacessível, tal qual não a arte cinematográfica, mas a mente religiosa.
 
 A história gira em torno de Fernando (Paul Hamy), um estudioso de aves focado nas regiões em que elas vivem, seus hábitos e modo de vida. Isolado dos humanos, incluindo seu suposto namorado, e navegando pelos rios em seu caiaque, ele passa o dia com seu binóculo observando pássaros dos mais diversos em meio a uma natureza que o olha de volta. Ao sofrer um acidente é resgatado por um casal de chinesas perdidas, física e psicologicamente. A tortura mental começa a partir desse ponto, e através dele somos levados a níveis cada vez maiores de loucura e simbolismo.

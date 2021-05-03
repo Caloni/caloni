@@ -1,9 +1,11 @@
 ---
-date: "2014-01-23"
-link: "https://www.imdb.com/title/tt0086994"
-categories: [ "movies" ]
-title: "Boy Meets Girl"
+categories:
+- movies
+date: '2014-01-23'
+link: https://www.imdb.com/title/tt0086994
+title: Boy Meets Girl
 ---
+
 São filmes assim que me revelam como um cinéfilo ainda burro. Mesmo assim, tenho a ousadia de gostar de alguns deles, mesmo sem saber muito bem por quê.
 
 Dirigido por Leos Carax na década de 80, do recentemente aclamado Holy Motors, em Boy Meets Girl o tema são as desilusões e os desencontros amorosos. Tudo parece dar errado na vida desses dois jovens, ou, algo muito diferente, nada dá certo. O filme nos mostra suas vidas sem se preocupar em estabelecer ligações ou interpretações. É um filme aberto, desses que espectadores-pipoca sempre odeiam. Até o final, se você não trabalhar com expectativas honestas sobre o que acontece, pode ser ambíguo. Mas pense um pouco: há um realismo sendo trabalhado nesse filme, ainda que onírico. Parte desse trabalho exige que compreendamos como a vida real é tão mais bagunçada, sem sentido e sem roteiro. O prólogo inicial deixa bem claro isso: nascer, crescer, viver um pouco e, finalmente, fim.

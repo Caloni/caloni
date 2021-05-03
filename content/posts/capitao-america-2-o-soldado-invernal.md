@@ -1,9 +1,11 @@
 ---
-date: "2014-04-27"
-link: "https://www.imdb.com/title/tt1843866"
-categories: [ "movies" ]
-title: "Capitão América 2: O Soldado Invernal"
+categories:
+- movies
+date: '2014-04-27'
+link: https://www.imdb.com/title/tt1843866
+title: 'Capitão América 2: O Soldado Invernal'
 ---
+
 Chris Evans, ou Capitão América, seria o personagem mais carismático, mais querido e um líder natural dos Vingadores da Marvel (o que, já sabemos, não se concretiza). Tony Stark (Robert Downey Jr.) lhe tira uma parcela grande de popularidade, mas isso não é culpa dos atores nem dos personagens (originais), mas da nossa era de cinismo e sarcasmo, onde não é o mais bonzinho, o mais patriótico e muito menos o mais correto que irá se sobressair. O politicamente incorreto, ainda que maltratado pela esquerda, continua livre, leve e solto. Curiosamente, tornar esse herói organicamente anacrônico foi uma das poucas virtudes do longa original.
 
 Porém, insistir em um herói carismático e ao mesmo tempo distante em seus pensamentos, um quase blasé, faz de "Capitão América 2: O Soldado Invernal" um filme de ação empolgante, com boas cenas, ótimos efeitos e muito pouco carisma. Os heróis do filme, não apenas um, mas três, ficam quase como um pano de fundo para que a adrenalina faça sua parte. Eles possuem uma ou outra história em seu passado que os unem e os movem contra o "mal". Se é que se pode chamar de mal um inimigo que tenta se tornar ideologicamente uma versão "Gangue do Magneto" (X-Men), mas empalidece tanto quanto as intenções terroristas de Mandarim no igualmente antipático Homem de Ferro 3.

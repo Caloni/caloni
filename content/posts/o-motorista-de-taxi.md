@@ -1,10 +1,14 @@
 ---
-date: "2017-10-20"
-link: "https://www.imdb.com/title/tt6878038"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Motorista de Táxi"
+categories:
+- draft
+- movies
+date: '2017-10-20'
+link: https://www.imdb.com/title/tt6878038
+tags:
+- cinemaqui
+title: O Motorista de Táxi
 ---
+
 O Motorista de Táxi é um filme feito para grandes públicos, mesmo com cenas fortes, mas necessárias, pela frente. Em troca há doçura, aventura, emoções fáceis que estão meticulosamente manipuladas para aquele espectador que vai sair do cinema pensativo, mas realizado.
 
 Isso porque a história, baseada em fatos, consegue entregar uma conclusão onde não há. Aliás, o próprio tema, mal utilizado, poderia convergir para um universo mais realista e mais próximo do radicalismo político e suas pesadas conseqüências. Como os dias de hoje.

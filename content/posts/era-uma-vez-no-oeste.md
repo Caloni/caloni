@@ -1,9 +1,11 @@
 ---
-date: "2012-10-31"
-link: "https://www.imdb.com/title/tt0064116"
-categories: [ "movies" ]
-title: "Era Uma Vez no Oeste"
+categories:
+- movies
+date: '2012-10-31'
+link: https://www.imdb.com/title/tt0064116
+title: Era Uma Vez no Oeste
 ---
+
 Era Uma Vez no Oeste parece ser a tentativa de Sergio Leone de fazer o "Grande Cinema", tornando todas as cenas costumeiras de seu faroeste mais solenes, lentas e cerimoniosas. Isso explica a trilha-comentário do músico Ennio Morricone, que oscila elegantemente entre toda essa solenidade e o pitoresco, com direito a pausa em uma música que lembra o cavalgar e que serve de tom cômico.
 
 Essa ambição de Leone talvez fosse apenas um ledo engano, pois precisou filmar este épico para chegar em sua continuação temática em [Era Uma Vez na América], que poderia muito bem ser exibido em uma sessão dupla. 

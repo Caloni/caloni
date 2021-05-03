@@ -1,10 +1,14 @@
 ---
-date: "2018-08-14"
-link: "https://www.imdb.com/title/tt4682788"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Escobar - A Traição"
+categories:
+- draft
+- movies
+date: '2018-08-14'
+link: https://www.imdb.com/title/tt4682788
+tags:
+- cinemaqui
+title: Escobar - A Traição
 ---
+
 Escobar - A Traição é mais uma visita ao inesgotável mundo de Pablo Escobar, este cabrón que construiu um império em cima de outros impérios e teve que pagar as consequências. Uma história tão impactante e dramática como essa (porque é real) já foi explorada inúmeras vezes na ficção, e recentemente ganhou séries e filmes. Então, qual a grande novidade dessa vez?
 
 A novidade, creio eu, fica por conta de Penélope Cruz e Javier Bardem, que fazem respectivamente Virginia, a colombiana bem sucedida e famosa em terra estrangeira e cujo livro inspirou este roteiro, e Pablo, este colombiano novo rico que se orgulha de sua terra e que comprou a briga contra todos que se meter em seus negócios, sejam concorrentes, a polícia, os políticos ou sua amante.

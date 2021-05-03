@@ -1,9 +1,11 @@
 ---
-date: "2015-08-31"
-link: "https://www.imdb.com/title/tt0070666"
-categories: [ "movies" ]
-title: "Serpico"
+categories:
+- movies
+date: '2015-08-31'
+link: https://www.imdb.com/title/tt0070666
+title: Serpico
 ---
+
 Serpico é mais um filme que se aproveita ao máximo da persona de Al Pacino. Um "Bons Companheiros" versão policial do diretor Sydney Lumet, que iria também trabalhar com o ator em Um Dia de Cão. Aqui ele interpreta Frank Serpico, um policial que descobre que um sistema de coleta de propinas existe aparentemente em todos os departamentos de polícia de Nova York -- ou pelo menos em todos em que ele passa -- e não consegue se desvencilhar da ideia de estar fazendo algo de errado em não acusar seus colegas de estar fazendo. Oriundo de família italiana, o conflito moral que ele se coloca cresce vertiginosamente enquanto ele tenta achar pelo menos uma pessoa íntegra na cidade para por um fim à corrupção policial, galgando todas as hierarquias, encontrando obstáculos mais sutis do que tinha no começo.
 
 O que é genial no filme é que esse dilema moral é invertido logo no começo, quando o vemos ser baleado e a preocupação de diversas pessoas em torno desse evento, pois parecia existir "pelo menos uns cinco tiras dispostos a enfiar uma bala em sua cabeça". Ao fazer o espectador pensar que este é um caso de um policial corrupto que passa a ser odiado por onde passa -- ou pelo menos ficar em dúvida de qual é o lado certo da história -- a imersão em torno de toda a sujeira conivente da força policial é mais intensa, assim como Serpico a sente.

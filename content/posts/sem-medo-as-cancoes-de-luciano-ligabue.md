@@ -1,9 +1,11 @@
 ---
-date: "2010-12-20"
-link: "https://www.imdb.com/title/tt1694539"
-categories: [ "movies" ]
-title: "Sem Medo: As Canções De Luciano Ligabue"
+categories:
+- movies
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt1694539
+title: 'Sem Medo: As Canções De Luciano Ligabue'
 ---
+
 Esse é um documentário que, em um tom misto de atualidade e nostalgia, conta a história dos italianos pelos olhos de sua Constituição, criada após a Segunda Guerra, e como esses ideais foram (ou não) evoluindo na passagem das gerações.
 
 Usando um cantor pop (o Luciano Ligabue do título) como identidade para cada parte da história, ouvimos a opinião de vários representantes da sociedade, de uma adolescente a um padre. Há pessoas, inclusive, que passaram por momentos que gostariam de não se lembrar, como uma filha que teve o pai assassinado por ser testemunha de um crime político na empresa que trabalhava.

@@ -1,10 +1,14 @@
 ---
-date: "2018-08-13"
-link: "https://www.imdb.com/title/tt6350304"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Troca de Rainhas"
+categories:
+- draft
+- movies
+date: '2018-08-13'
+link: https://www.imdb.com/title/tt6350304
+tags:
+- cinemaqui
+title: Troca de Rainhas
 ---
+
 Troca de Rainhas descreve um momento pontual e peculiar da história da monarquia, de maneira burocrática, estática, quase parando. Os eventos se sucedem lentamente e seus personagens já sabem automaticamente o que fazer, pois "assim está escrito". Sim, são as tradições os verdadeiros monarcas: rituais que ordenam que crianças se casem para evitar guerras desnecessárias. As tradições atravessaram séculos imunes, sob as maiores adversidades, e sabem mais que qualquer rei ou rainha que já passou pela coroa o que deve ser feito.
 
 Dessa forma, é muito didático que nesta passagem de bastões as crianças e jovens sejam "protagonistas". Tendo grande poder ao mesmo tempo que nenhum, elas devem agir conforme os adultos ordenam (estes também, automaticamente) e perdem a juventude quase de graça, pois é tudo simbólico sob o ambiente pré-puberdade dos nobrezinhos. A ocasião é na França, 1721. Seu regente (Olivier Gourmet), querendo terminar a guerra com a Espanha, oferece um casamento duplo entre suas famílias, todas crianças entre 4 e 14 anos.

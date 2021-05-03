@@ -1,8 +1,10 @@
 ---
-date: "2019-11-17"
-categories: [ "draft" ]
-title: "Circles and Squares"
+categories:
+- draft
+date: '2019-11-17'
+title: Circles and Squares
 ---
+
 Retirado do blog Keeping My Brain Alive.
 
 ...It takes extraordinary intelligence and discrimination and taste to use any theory in the arts, and that without those qualitites, a theory becomes a rigid formula (which is indeed what is happening among auteur critics). The greatness of critics like Bazin in France and Agee in America may have something to do with their using their full range of intelligence and intuition, rather than relying on formulas. Criticism is an art, not a science, and a critic who follows rules will fail in one of his most important functions: perceiving what is original and important in new work and helping others to see.

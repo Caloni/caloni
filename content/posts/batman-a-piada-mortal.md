@@ -1,9 +1,12 @@
 ---
-date: "2016-08-07"
-link: "https://www.imdb.com/title/tt4853102"
-categories: [ "draft", "movies" ]
-title: "Batman: A Piada Mortal"
+categories:
+- draft
+- movies
+date: '2016-08-07'
+link: https://www.imdb.com/title/tt4853102
+title: 'Batman: A Piada Mortal'
 ---
+
 A relação entre Coringa e Batman sempre foi um ponto alto do universo do herói, como vimos em Dark Knight (Christopher Nolan, 2008). Em "A Piada Mortal", uma graphic novel específica de 1988, roteirizada por Alan Moore e ilustrada por Brian Bolland, essa relação já havia sido explorada de uma maneira bem peculiar.
 
 A história (na animação) utiliza e apresenta a Batgirl como assistente do Batman, além de vítima de apaixonite pelo herói. Barbara Gordon, filha do comissário da cidade de Gothan, é uma bibliotecária com conhecimentos avançados na arte de hackear. Sua função na trama logo se revela: ser usada como gancho para um "experimento" social arquitetado pelo Coringa. A partir daí, um pesadelo é formado enquanto aos poucos descobrimos a origem do vilão mais famoso de Gothan City.

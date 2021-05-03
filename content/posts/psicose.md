@@ -1,9 +1,11 @@
 ---
-date: "2011-06-30"
-link: "https://www.imdb.com/title/tt0054215"
-categories: [ "movies" ]
-title: "Psicose"
+categories:
+- movies
+date: '2011-06-30'
+link: https://www.imdb.com/title/tt0054215
+title: Psicose
 ---
+
 A sensação de assistir Psicose na telona do cinema se compara a voltar ao próprio tempo em que o filme estreou. Ainda considerando que a última vez que o assisti estava eu abaixo da regra dos 15 anos e, portanto, livre do meu senso crítico, me fez revisitar as sequências mais importantes do longa como se agora sim eu tivesse algo a dizer. Ledo engano. Saí do cinema sem saber mentalizar uma frase sequer. Nem de efeito. Estava sem palavras diante de uma obra de arte. Petrificado. Extasiado. Feliz.
 
 E continuo assim. Poderia afirmar inocuamente que a fotografia é lindíssima, mas isso seria reafirmar o óbvio. Poderia ir mais fundo e dar exemplos, de como a vegetação em torno da casa de Normal Bates cria não só o conceito de refúgio, como auxilia a aumentar as sombras em torno da casa, tornando uma fotografia escura ainda mais sombria. E por falar em sombrio, poderia devanear em torno de como o próprio Bates caminha sempre nas partes mais escuras de seu hotel.

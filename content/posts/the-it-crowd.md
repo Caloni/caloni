@@ -1,9 +1,11 @@
 ---
-date: "2018-04-16"
-link: "https://www.imdb.com/title/tt0487831"
-categories: [ "series" ]
-title: "The IT Crowd"
+categories:
+- series
+date: '2018-04-16'
+link: https://www.imdb.com/title/tt0487831
+title: The IT Crowd
 ---
+
 Já tentou desligar e ligar o computador de novo? Sabe o que quer dizer TI?  Então talvez você goste dessa comédia britânica em formato de sitcom e seus momentos quase fora da realidade, que nos faz lembrar de maneira muito divertida como (não) funciona o ecossistema do pessoal de suporte técnico.
 
 São dois os personagens principais: o irlandês alto, perdido e com toques afeminados Roy, e o nerd até os ossos Moss. Na pele de Chris O'Dowd e Richard Ayoade, a parte mais engraçada nem são as piadas, mas como o timing físico para comédia dos dois se encaixa em gags rápidas e sagazes.

@@ -1,10 +1,14 @@
 ---
-date: "2016-01-28"
-link: "https://www.imdb.com/title/tt3808342"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Filho de Saul"
+categories:
+- draft
+- movies
+date: '2016-01-28'
+link: https://www.imdb.com/title/tt3808342
+tags:
+- cinemaqui
+title: O Filho de Saul
 ---
+
 Como não poderia deixar de ser, depois do Oscar dado a Birdman, o plano-sequência -- aquela técnica de filmar que evita cortes a todo momento -- voltou à ativa. E em O Filho de Saul, assim como fez Alejandro González Iñárritu, o diretor estreante László Nemes também está preocupado com a narrativa subjetiva -- aquela que a câmera toma o ponto de vista do personagem. Em ambos os filmes, por um bom motivo. Aqui, porém, soa ainda mais esquizofrênico do que o próprio personagem fantasioso de Michael Keaton.
 
 O que o filme está nos dizendo a todo momento através de sua técnica é: olhe para este homem, o Saul do título (Géza Röhrig). Ele asfixia e incinera seu povo para que ele próprio não morra. Mas ele mesmo já não sente mais nada. Ele já está à mercê do horror do Holocausto. Apenas segue ordens. Até que observa um menino que sobreviveu à câmera de gás sendo asfixiado pelo médico que o examina. Ele decide (não sabemos) que é seu pai, e tenta de todas as formas realizar para ele um enterro judeu, com direito a reza do rabino e, imagino, um lugar reservado no céu.

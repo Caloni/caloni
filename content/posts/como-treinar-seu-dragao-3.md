@@ -1,9 +1,12 @@
 ---
-date: "2019-01-18"
-link: "https://www.imdb.com/title/tt2386490"
-categories: [ "draft", "movies" ]
-title: "Como Treinar Seu Dragão 3"
+categories:
+- draft
+- movies
+date: '2019-01-18'
+link: https://www.imdb.com/title/tt2386490
+title: Como Treinar Seu Dragão 3
 ---
+
 Enquanto as animações quase sempre tentam se concentrar no poder de encantar e divertir seu público mais jovem através de piadas e caminhos fáceis de superação dos seus mini heróis, a saga Como Treinar Seu Dragão se arisca cada vez mais em flertar com a o rito de passagem do seu herói, Soluço, que caminha da puberdade para se tornar não apenas um adulto, mas o líder do povo que seu pai liderou.
 
 E como todo rito de passagem Soluço deve ultrapassar seus pais, o que ele é forçado a fazer devido às circunstâncias: há um vilão de olho no seu dragão de estimação, Fúria da Noite. Esse vilão por algum motivo é poderoso demais para que eles permaneçam e lutem. As ideias nesse terceiro filme parecem mal trabalhadas, pois nada convence muito bem e não há profundidade no que é dito, parecendo mais uma extensão do seriado do que um novo longa metragem.

@@ -1,9 +1,13 @@
 ---
-date: "2018-05-20"
-link: "https://www.imdb.com/title/tt7131720"
-categories: [ "draft", "series", "animes" ]
-title: "Kakegurui"
+categories:
+- draft
+- series
+- animes
+date: '2018-05-20'
+link: https://www.imdb.com/title/tt7131720
+title: Kakegurui
 ---
+
 Tentando unir a paixão descontrolada ao risco com uma sugestão erótica, mais no anime do que no live action (atrizes japonesas só conseguem ser sexy aparentemente se já estão ocidentalizadas ou em filme pornô), esta é uma série que abusa de uma direção visceral que caminha compenetrado entre as lindas e jovens jogadoras, além de efeitos visuais capengas (mais no live action), como efeito nos olhos das personagens. Aproveitando o alívio cômico de um rapaz humilde e da catarse da heroína como muletas, esta é uma fórmula que pode ser repetida à exaustão.
 
 Tanto anime quanto o live action possuem a mesma ideia e a mesma história, repetida em todos os episódios: a novata desbanca a trapaça que os veteranos sempre utilizaram para ganhar da plebe.

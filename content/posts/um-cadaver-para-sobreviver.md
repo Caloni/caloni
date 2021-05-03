@@ -1,9 +1,12 @@
 ---
-date: "2017-01-05"
-link: "https://www.imdb.com/title/tt4034354"
-categories: [ "draft", "movies" ]
-title: "Um Cadáver Para Sobreviver"
+categories:
+- draft
+- movies
+date: '2017-01-05'
+link: https://www.imdb.com/title/tt4034354
+title: Um Cadáver Para Sobreviver
 ---
+
 Swiss Army Man é o grito de desespero do tímido comum elevado à décima potência, o que segundo meus cálculos, pela regra do absurdo, gera um filme com um humor tão hilário quanto triste. Acorrentado em seus próprios medos, o tímido comum busca uma conexão com quem não o julga, ou quem não se parece superior a ele. Eu diria que qualquer um se sentiria menos inferior do lado de um defunto que continua soltando gases e nem sabe ainda o que é masturbação.
 
 O novo filme escrito e dirigido dupla Dan Kwan e Daniel Scheinert começa em uma ilha deserta, onde um jovem chamado Hank (Paul Dano) cansado de esperar por ajuda e morrendo de tédio se prepara para se suicidar, quando avista o cadáver de um rapaz (Daniel Radcliffe). A viagem psicodélica apenas começa quando o defunto começa a soltar gases e é usado pelo náufrago como um jet-ski. Chegando ao continente, o maior desafio de Hank não é sobreviver enquanto encontra civilização, mas conviver consigo mesmo e sua versão mais inocente, até então guardada a sete chaves em seu coração e seu celular, mas que encontra voz e vida (irônico, não?) no corpo do recém-batizado Manny.

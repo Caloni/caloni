@@ -1,9 +1,12 @@
 ---
-date: "2019-11-07"
-link: "https://www.imdb.com/title/tt0290673"
-categories: [ "draft", "movies" ]
-title: "Irreversível"
+categories:
+- draft
+- movies
+date: '2019-11-07'
+link: https://www.imdb.com/title/tt0290673
+title: Irreversível
 ---
+
 Irreversível é essa experiência angustiante que vai desconstruindo uma história simples através dos seus momentos mais tensos. "O tempo destrói tudo" é o seu lema, e este é um filme que destrói o tempo antes que ele nos destrua.
 
 Semelhante a Amnésia a cronologia começa pelo final voltando cena a cena, mas diferente do roteiro de Jonathan Nolan aqui o que torna o resultado palatável pelo espectador é a intensidade do que vemos, nos impedindo de esquecer o que move a história: o estupro de uma mulher e a vingança de seu namorado.

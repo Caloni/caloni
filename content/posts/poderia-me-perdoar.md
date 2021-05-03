@@ -1,10 +1,14 @@
 ---
-date: "2018-10-15"
-link: "https://www.imdb.com/title/tt4595882"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Poderia Me Perdoar?"
+categories:
+- draft
+- movies
+date: '2018-10-15'
+link: https://www.imdb.com/title/tt4595882
+tags:
+- cinemaqui
+title: Poderia Me Perdoar?
 ---
+
 Baseado em uma história real. Isso é o que lemos no começo de "Poderia Me Perdoar?", seguido de uma história que talvez fosse difícil de engolir se não nos fosse informado que tudo aquilo (ou boa parte) aconteceu.
 
 Ou, o mais provável, o filme nos traz alguns acontecimentos mornos o suficiente para se tornar chato no meio do caminho, e como todo aviso de "baseado em uma história real", ele pede desculpas ao espectador por não ser tão visceral se esta fosse uma fição com alguma liberdade criativa.

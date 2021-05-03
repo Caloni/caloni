@@ -1,8 +1,10 @@
 ---
-date: "2008-04-29"
-title: "Bazaar e Fedora 8: a saga"
-categories: [ "code" ]
+categories:
+- code
+date: '2008-04-29'
+title: 'Bazaar e Fedora 8: a saga'
 ---
+
 Seria bom se as coisas simples da vida fossem simples, não é mesmo?
 
 Ontem, sexta passada e quinta passada, no meio de outras tarefas "urgentes", tentava desesperadamente conseguir instalar o [Bazaar] na minha VM de desenvolvimento, um Fedora 8 todinho configurado.

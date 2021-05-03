@@ -1,9 +1,11 @@
 ---
-date: "2012-11-10"
-link: "https://www.imdb.com/title/tt0055928"
-categories: [ "movies" ]
-title: "O Satânico Dr. No"
+categories:
+- movies
+date: '2012-11-10'
+link: https://www.imdb.com/title/tt0055928
+title: O Satânico Dr. No
 ---
+
 Depois de assistir e vibrar com [o último 007], um dos melhores filmes do ano, nada como abrir minha coleção James Bond e iniciar minha revisão de toda a filmografia desse personagem que parece nunca cair em desuso. O primeiro filme é o 007 Contra o Satânico Dr. No ou, do original, simplesmente Dr. No.
 
 Desde o início conseguimos pescar diversos detalhes que já fariam parte do imaginário do agente secreto. Sean Connery é o primeiro a proferir a célebre frase "My name is Bond... James Bond". A abertura, embora não tenha canção-tema, tem o surgimento da trilha sonora original e lembrada por gerações. O uso descartável das futuramente chamadas Bond Girls é mais exagerado ainda, em uma época onde mulheres desacompanhadas ainda eram mal vistas e representavam mulheres fáceis, especialmente em um cassino (Eunice Gayson) ou numa praia, quando vemos a cena clássica de Ursula Andress saindo das águas do mar.

@@ -1,9 +1,11 @@
 ---
-date: "2011-03-28"
-link: "https://www.imdb.com/title/tt0263265"
-categories: [ "movies" ]
-title: "O Julgamento do Diabo"
+categories:
+- movies
+date: '2011-03-28'
+link: https://www.imdb.com/title/tt0263265
+title: O Julgamento do Diabo
 ---
+
 Existe uma relação entre esse primeiro (e único) longa de Baldwin e um filme de 1941 chamado "The Devil and Daniel Webster": o protagonista é o mesmo Daniel Webster. Ambos possuem dois títulos: são chamados "The Devil and Daniel Webster", porém o de 1941 também possui o título "All That Money Can Buy", enquanto esse de 2007 é chamado também de "Shortcut to Happiness".
 
 Existe um motivo para isso: os dois se baseiam no mesmo conto de Stephen Vincent Benét escrito em 1937, que possui como característica marcante um julgamento entre o diabo e Daniel Webster, que aparentemente possui algum tipo de controle sobre este.

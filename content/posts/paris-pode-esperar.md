@@ -1,10 +1,14 @@
 ---
-date: "2017-05-31"
-link: "https://www.imdb.com/title/tt4429194"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Paris Pode Esperar"
+categories:
+- draft
+- movies
+date: '2017-05-31'
+link: https://www.imdb.com/title/tt4429194
+tags:
+- cinemaqui
+title: Paris Pode Esperar
 ---
+
 Você gosta de comer? Eu adoro. Se você gosta de gastronomia e viagens há uma grande chance de apreciar Paris Pode Esperar, que nos apresenta algumas atrações que podem ser vistas e degustadas próximas do caminho entre Cannes e a capital francesa. Claro que você deverá ir sem pressa e com um guia que conheça os prazeres da boa vida. O guia de preferência deverá ser francês.
 
 E é mais ou menos isso que acontece em um filme protagonizado por Diane Lane, a esposa de um produtor de filmes atarefado (Alec Baldwin). Mas ela parece uma coadjuvante frente aos inúmeros pratos e atrações que ela e o sócio de seu marido, obviamente de nome Jacques (Arnaud Viard), encontram em uma inusitada viagem em direção a Paris. Se bem que inusitado me parece uma palavra inapropriada, já que todos os acontecimentos parecem tão milimetricamente planejados que é como se Jacques fosse de fato o guia de viagens que mencionei.

@@ -1,9 +1,11 @@
 ---
-date: "2012-12-09"
-link: "https://www.imdb.com/title/tt0780521"
-categories: [ "movies" ]
-title: "A Princesa e o Sapo"
+categories:
+- movies
+date: '2012-12-09'
+link: https://www.imdb.com/title/tt0780521
+title: A Princesa e o Sapo
 ---
+
 Última animação em 2D da Disney e primeira princesa negra, a ideia que a produtora norte-americana de animações quis passar foi de uma mulher independente, Tiana (Anika Noni Rose), que sonha em construir um restaurante que era um sonho do seu finado pai. Ela mora em Nova Orleans, e possui uma amiga branca, Charlotte (Jennifer Cody), que, rica, sonha em se casar com um príncipe.
 
 Quando surge em cena o Príncipe Naveen (Bruno Campos), que possui problemas financeiros e deve usar sua nobreza para se acertar em um casamento, toda a sociedade da cidade Sulista se agita, inclusive o Dr. Facilier (Keith David) que utiliza magias e encantamentos para capturar o príncipe e o transformá-lo em um sapo, usando seu insatisfeito criado, Lawrence (Peter Bartlett), para tomar o seu lugar. O conflito se estabelece quando, ao beijar Tiana, julgando erroneamente que ela fosse uma princesa, ela também se transforma, e ambos precisam juntos encontrar uma solução para seu pequeno problema.

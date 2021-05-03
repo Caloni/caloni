@@ -1,9 +1,12 @@
 ---
-date: "2016-11-02"
-link: "https://www.imdb.com/title/tt2125425"
-categories: [ "draft", "movies" ]
-title: "A Busca"
+categories:
+- draft
+- movies
+date: '2016-11-02'
+link: https://www.imdb.com/title/tt2125425
+title: A Busca
 ---
+
 Wagner Moura é um ator bem versátil. Seja como Capitão Nascimento ou Pablo Escobar, Moura consegue através do tom de voz e dos movimentos de corpo denotar alguém menos ou mais vulnerável, alguém mais ou menos estressado. Seu Theo Gadelha é um pai de família recém-separado que concentra em seus óculos todo seu jeito atrapalhado de lidar com o mundo, com sua esposa, seu filho e, principalmente, seu pai.
 
 E esse é o gancho que consegue levar um filme inteiro a respeito desse pai buscando seu filho, que foge de casa. A competência da narrativa está em cima das costas de Moura, já que nem direção nem roteiro conseguem sair minimamente do medíocre. Luciano Moura é refém das tomadas circulares, até quando elas incomodam (como quando o personagem de Moura conversa com um sujeito à beira do rio, uma cena contemplativa, e não consegue extrair beleza das diferentes paisagens desta aventura, a não ser apelando para o digital e artificial uso de luzes, algo que o fotógrafo Adrian Teijido provavelmente teve que engolir a seco em seu tom sépia extremamente competente em montar uma realidade descolorida dessa família disfuncional. Para ter uma ideia da competência de Teijido, note como o azul dos azulezos da piscina muda de tom completamente no começo e no final do filme.

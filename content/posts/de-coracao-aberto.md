@@ -1,9 +1,11 @@
 ---
-date: "2013-03-15"
-link: "https://www.imdb.com/title/tt2088962"
-categories: [ "movies" ]
-title: "De Coração Aberto"
+categories:
+- movies
+date: '2013-03-15'
+link: https://www.imdb.com/title/tt2088962
+title: De Coração Aberto
 ---
+
 Javier (Édgar Ramírez) é o cirurgião do hospital onde Mila (Juliette Binoche) trabalha. São marido e mulher. Ou melhor dizendo, mulher e marido. A impulsividade de Javier e sua dependência da mulher vão aos poucos se desenvolvendo pela diretora (e atriz) Marion Laine. Seu alcoolismo o afasta das operações, o que é o estopim para que sua impulsividade tome o controle não apenas de sua vida, mas de Mila. As coisas pioram quando descobrimos que ela está grávida. As decisões de Mila são sempre em função de Javier, que é uma bomba-relógio.
 
 O argumento para o aborto de Mila é evitar "algo sem controle" na vida dos dois. A princípio podemos supor que ela fala sobre o bebê, mas logo fica claro sua maturidade frente ao comportamento quase primata do marido. Não precisamos de muitos diálogos expositivos. Marion Laine coloca Javier entre chimpanzés, e esse parece ser o que mais deseja.

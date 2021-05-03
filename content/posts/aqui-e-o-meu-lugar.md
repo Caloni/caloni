@@ -1,9 +1,11 @@
 ---
-date: "2013-10-20"
-link: "https://www.imdb.com/title/tt1440345"
-categories: [ "movies" ]
-title: "Aqui é o Meu Lugar"
+categories:
+- movies
+date: '2013-10-20'
+link: https://www.imdb.com/title/tt1440345
+title: Aqui é o Meu Lugar
 ---
+
 Sean Penn é um excelente ator, diga-se de passagem. Mas nesse trabalho em que ele coloca uma peruca (que insiste em assoprar) e fala como se fosse desmaiar a qualquer momento é daqueles típicos casos de vergonha alheia.
 
 Não há nada que se defenda no filme do diretor italiano Paolo Sorrentino exceto seus detalhes técnicos. A fotografia é limpa e exuberante, exibindo tomadas grandiosas (como a do estádio construído atrás de um simpático e pacato bairro) e horizontes quase infinitos. Aliás, esse é um road movie, e sobre um cantor pop. Logo, a trilha sonora é obrigada a ser no mínimo agradável, e isso ela consegue.

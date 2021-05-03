@@ -1,9 +1,13 @@
 ---
-date: "2014-08-31"
-link: "https://www.imdb.com/title/tt1799631"
-categories: [ "draft", "series", "animes" ]
-title: "Blue Exorcist"
+categories:
+- draft
+- series
+- animes
+date: '2014-08-31'
+link: https://www.imdb.com/title/tt1799631
+title: Blue Exorcist
 ---
+
 Blue Exorcist em seu primeiro episódio é um exercício de estilo e composição de personagem que passa tão rápido que cumpre com louvor seu papel de fisgar o espectador. Porém, para qualquer um que tenha visto meia-dúzia de filmes/séries/animações, fica claro que logo o personagem melhor trabalhado (leia-se: mais fodástico-ever) terá que morrer para dar lugar a um drama que -- claro! -- só se resolverá no último episódio de uma longa série que mistura humor animê quase sempre mal trabalhado com raros, mas ótimos, momentos de tensão e drama embutidos em uma atmosfera fascinante a respeito da divisão do mundo em carnal e espiritual.
 
 Aliás, o que compensa atravessar essa via-crucis de temas batidos e roteiro banal quase sempre são as ideias por trás do executado, ideias essas que intencionalmente giram em torno da figura de Rin Okumura (dublado por Nobuhiko Okamoto), um dos filhos de uma humana com o Satanás "em pessoa", mas que também abre espaço para a apresentação de personagens secundários interessantes e que cumprirão sua única função de servirem de laços de amizade e base moral do nem sempre controlável semi-demônio.

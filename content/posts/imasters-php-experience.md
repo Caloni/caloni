@@ -1,8 +1,10 @@
 ---
-date: "2018-03-05"
-categories: [ "draft" ]
-title: "iMasters PHP Experience"
+categories:
+- draft
+date: '2018-03-05'
+title: iMasters PHP Experience
 ---
+
 Meu primeiro post no blog sobre PHP. Já programei alguma coisinha no passado e meu amigo Strauss fez o blogue dele todo em php, do zero. Sim. Programador de verdade ele.
 
 Mas hoje quero falar sobre o iMasters PHP Experience, que tive a oportunidade de frequentar graças ao meu amigo T@z. Hoje foi o keynote e amanhã serão as trilhas. Este é um evento muito bem organizado e frequentado por centenas de pessoas. Um mega-evento sobre programação. Me sinto muito bem com esse tipo de evento.

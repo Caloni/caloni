@@ -1,9 +1,13 @@
 ---
-date: "2018-04-13"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Pagliacci"
+categories:
+- draft
+- movies
+date: '2018-04-13'
+tags:
+- cinemaqui
+title: Pagliacci
 ---
+
 Sobre o que fala Pagliacci, este pequeno documentário? Sobre palhaços, basicamente. Várias definições de profissionais e estudiosos do ramo, de várias gerações e sobre várias facetas. No entanto, você vai sair da sala com a impressão de ter ouvido mais do mesmo por 80 minutos.
 
 Isso porque, dirigido por cinco pessoas -- e nenhuma delas lista o filme em seus créditos no IMDB, marca de trabalhos que não precisam de público pois já ganharam o dele -- e apresentando diversos profissionais respondendo a mesma pergunta (o que é ser palhaço?), o resultado fica mais ou menos repetido. Mas os participantes não têm culpa. Não há muita originalidade nas respostas porque, além de ser a mesma pergunta, a tentativa de sintetizar esse conceito milenar por pessoas que admiram demais este trabalho acaba virando uma homenagem com uma boa dose de emoção e pouca profundidade analítica. Alguns dizem que ser palhaço é ser... tudo. É por aí que vai o trabalho de "descontrução".

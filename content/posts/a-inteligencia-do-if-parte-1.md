@@ -1,8 +1,10 @@
 ---
-date: "2007-06-18"
-categories: [ "code" ]
-title: "A Inteligência do if: Parte 1"
+categories:
+- code
+date: '2007-06-18'
+title: 'A Inteligência do if: Parte 1'
 ---
+
 No nível mais baixo, podemos dizer que as instruções de um computador se baseiam simplesmente em cálculos matemáticos e manipulação de memória. E entre os tipos de manipulação existe aquela que muda o endereço da próxima instrução que será executada. A essa manipulação damos o nome de salto.
 
 O salto simples e direto permite a organização do código em subrotinas. Subrotinas permitem o reaproveitamento de código com parâmetros de entrada distintos, o que economiza memória, mas computacionalmente é "inútil", já que pode ser implementado simplesmente pela repetição das mesmas subrotinas. O que eu quero dizer é que, do ponto de vista da execução, a mesma seqüência de instruções será executada. Pense no fluxo de execução de uma rotina que chama várias vezes a mesma subrotina:

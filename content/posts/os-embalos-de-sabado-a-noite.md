@@ -1,9 +1,12 @@
 ---
-date: "2015-12-11"
-link: "https://www.imdb.com/title/tt0076666"
-categories: [ "draft", "movies" ]
-title: "Os Embalos de Sábado à Noite"
+categories:
+- draft
+- movies
+date: '2015-12-11'
+link: https://www.imdb.com/title/tt0076666
+title: Os Embalos de Sábado à Noite
 ---
+
 John Travolta nos apresenta Tony Manero, o rapaz pobre que trabalha em uma loja de tinta e vive com sua sempre esquentada família italiana. Tony é fã de Bruce Lee e, claro, Rocky Balboa e Al Pacino (que alguém diz que ele é parecido). Ele tem uma irmã mais jovem e um irmão mais velho, que para orgulho da família virou padre (sim, é uma família realmente italiana). Tony gosta mesmo é de preparar seu cabelo e sair pela noite com seus amigos. Eles vão à danceteria e é lá que ele mostra seu potencial como dançarino.
 
 Dirigido por John Badham (Short Circuit, Jogos de Guerra), este é um retrato fiel à adolescência de nossos pais, e hoje continua sendo um retrato próximo do que se passa na cabeça de jovens coletivizados em gangues com nenhum pensamento sobre o futuro. E, como o chefe de Tony comenta, "você não fode o futuro; o futuro te fode". Esse também é um filme recheado de ótimos diálogos ("sabe o que quatro dólares compra hoje em dia? nem três dólares"), e personagens que se constroem em uma aura realista quase-documental, roteirizado pelas melhores trilhas do grupo Bee Gees e por Norman Wexler, que transforma a história de Nik Cohn em algo palatável aos poucos, parecendo que não há muito conteúdo, mas há.

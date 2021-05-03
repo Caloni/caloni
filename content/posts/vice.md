@@ -1,10 +1,14 @@
 ---
-date: "2019-01-17"
-link: "https://www.imdb.com/title/tt6266538"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Vice"
+categories:
+- draft
+- movies
+date: '2019-01-17'
+link: https://www.imdb.com/title/tt6266538
+tags:
+- cinemaqui
+title: Vice
 ---
+
 Vice é logo depois de A Grande Aposta mais um filme escrito e dirigido por Adam McKay tentando dialogar com o público leigo a respeito de detalhes sórdidos da máquina estatal americana. Se no filme anterior o alvo era o sistema financeiro responsável pela crise de 2008 agora vamos um pouco mais para o passado dar de cara com o vice-presidente Dick Cheney durante a era Bush Jr.
 
 Este é um filme sobre bastidores da política, mas diferente da série House of Cards, há um tom bem menos glorioso. Quase todo o filme se passa em lugares apertados e escuros (um jogo de lentes na câmera que torna todos muito próximos e a profundidade da cena muito menor), com poucas pessoas e geralmente essas pessoas estão cabisbaixas, querendo não chamar atenção. Essa é a síntese comportamental do próprio Dick Cheney, que acumulou poderes durante a presidência de Bush Filho ainda que a função de vice-presidente seja considerada praticamente simbólica naquele país. Mas há motivos para a carreira de Cheney desbancar em uma posição de menos prestígio, e justamente por isso é que a sensação geral do filme é tudo estar sendo feito às escondidas.

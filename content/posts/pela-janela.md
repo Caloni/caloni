@@ -1,10 +1,14 @@
 ---
-date: "2017-12-08"
-link: "https://www.imdb.com/title/tt7230476"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Pela Janela"
+categories:
+- draft
+- movies
+date: '2017-12-08'
+link: https://www.imdb.com/title/tt7230476
+tags:
+- cinemaqui
+title: Pela Janela
 ---
+
 Pela Janela é um pequeno retrato de uma realidade que bate pesado no começo e que aos poucos vai nos alimentando de uma esperança no vazio, na lembrança, na memória. O ser humano é uma coisa curiosa. Sua vida certinha e ajeitada por décadas pode desabar a qualquer instante. Seu chão pode ruir. E mesmo assim, o tempo parece magicamente curar tudo.
 
 Este é um filme simples e familiar que consegue abordar vários temas. Familiar para quem conhece o Brasil, São Paulo, Buenos Aires. Uma co-produção Brasil/Argentina traz aqui Magali Biff em um papel terrível de bom. Ela extrai uma personagem do cotidiano e some no processo. Vemos apenas a "trabalhadeira" Rosália, já idosa, calejada, mas que não arreda o pé do serviço. Ela trabalha em casa e no seu emprego. Há trinta anos na mesma fábrica de reatores da periferia, percebemos apenas acompanhando sua rotina que ela já conhece tudo sobre o processo e cuida de tudo por ali com um zelo atento, mas inconsciente. Ela chega em sua dupla jornada em casa, lava as roupas, as guarda e faz a janta para o irmão. Ela acorda cedo e é a inspiração em pessoa sem dizer uma palavra.

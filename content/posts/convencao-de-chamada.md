@@ -1,8 +1,11 @@
 ---
-date: "2015-04-20"
+categories:
+- draft
+- code
+date: '2015-04-20'
 title: Convenção de Chamada
-categories: [ "draft", "code" ]
 ---
+
 <img src="../publichttp://i.imgur.com/H48Twzq.png">
 
 Pergunta de um leitor:

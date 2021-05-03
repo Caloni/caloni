@@ -1,9 +1,12 @@
 ---
-date: "2015-11-28"
-link: "https://www.imdb.com/title/tt1844624"
-categories: [ "draft", "series" ]
-title: "História de Horror Americana - Murder House"
+categories:
+- draft
+- series
+date: '2015-11-28'
+link: https://www.imdb.com/title/tt1844624
+title: História de Horror Americana - Murder House
 ---
+
 Pela primeira temporada de American Horror Story (ou História de Horror Americana) pode-se perceber que, apesar de recriar muitas (quase todas) histórias de horror que fazem parte não apenas do imaginário de terror coletivo como foi responsável pelos maiores clássicos do gênero no Cinema, a direção e o roteiro mistos quase sempre referenciam de uma forma tão orgânica essas histórias que fica impossível não apreciar tamanha homenagem que a série proporciona para os fãs de terror.
 
 Ambientado nos tempos atuais, mas com diversos flashbacks que voltam décadas, a história principal gira em torno da família Harmon, formada pelo pai psiquiatra Ben (Dylan McDermott), pela mãe complexada Vivien (Connie Britton) e pela filha única dark-style Violet (Taissa Farmiga). O casal está em uma crise pela traição do marido e tenta reatar a família se mudando para uma casa sombria e cheia de "personalidade" em Los Angeles sendo vendida abaixo de seu valor. Lá eles conhecem mais pessoas do que gostariam, até porque elas aparentemente brotam em volta e dentro da casa, entre elas uma faxineira macabra com dupla... "personalidade" (interpretada tanto por Frances Conroy e Alexandra Breckenridge), um jovem rapaz paciente de Ben que persiste em se manter por perto (Evan Peters como Kit Walker), um homem com metade da face queimada que insiste em se aproximar de Ben (Denis O'Hare, divertido e trágico) e, a quase-protagonista da saga, uma solteirona vizinha que insiste em entrar na casa dos Harmon como se fosse dela mesma, e quanto entra a desgraça parece entrar junto: Fiona Goode (Jessica Lange, "incomodante").

@@ -1,9 +1,13 @@
 ---
-date: "2019-06-23"
-categories: [ "draft", "food" ]
-tags: [ "recipes" ]
-title: "Pastéis de Nata"
+categories:
+- draft
+- food
+date: '2019-06-23'
+tags:
+- recipes
+title: Pastéis de Nata
 ---
+
 Quantidade: 10 a 12 unidades
 
 Ingredientes: 250 gr de leite gordo (leite integral),150 gr de açúcar, 75 gr de água, 30 gr de farinha sem fermento, 4 gemas, 1 ou 2 paus de canela, 3 ou 4 tiras de casca de limão (limão siciliano), cerca de 300 gr de massa folheada (de preferência caseira), canela em pó (opcional), açúcar em pó (opcional). **Preparo**: com o açúcar e a água ir ao fogo para fazer o ponto de pérola (uns 3 minutos ou menos fervendo as gotas caem da colher grossas e espaçadas), dissolver a farinha com parte do leite para não ganhar grumos e ficar uma pasta ou creme grosso, levar o resto do leite com o limão e a canela ao fogo até começar a ferver, depois comece a juntar com a pasta feita com a farinha aos poucos para não ganhar grumos, retornar tudo ao fogo e mexer sempre com vara de arame (a que usa pra bater clara em neve) até engrossar, vá colocando o açúcar em fio mexendo sempre com a vara de arame, espere esfriar por uns dez minutos e use parte do creme para incorporar às gemas para não cozinhá-las, depois junte tudo para incorporar as gemas ao creme e passe por uma peneira e descartar as cascas, canela e grumos que possam ter formado, pegue a massa e abra em um retângulo com 3 a 5 milímetros de espessura, enrole, polvilhe com um pouco de água e enrole em um plástico antiaderente ou pano levando ao congelador por uns dez minutos, depois corte esse rolo em pedaços de 2 a 3 centímetros e coloque cada um de pé dentro da forminha, usando o polegar para abrir e água para não grudar nos dedos, leve as formas ao congelador por cinco a dez minutos e depois encha-as com o creme até 3/4 e coloque no forno pré-aquecido na máxima temperatura (250/300 graus), retirando em 10 a 15 minutos ou quando começar a surgir marcas de queimado em cima, por fim, opcionalmente, polvilhe com canela ou açúcar em pó.

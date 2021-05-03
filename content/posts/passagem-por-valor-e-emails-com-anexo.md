@@ -1,8 +1,11 @@
 ---
-date: "2010-01-18"
-categories: [ "code", "draft",  ]
-title: "Passagem por valor e emails com anexo"
+categories:
+- code
+- draft
+date: '2010-01-18'
+title: Passagem por valor e emails com anexo
 ---
+
 Mais uma analogia vencedora para ponteiros, chamadas por valor e chamadas por referência: e-mails.
 
 Quando passamos um parâmetro por valor, estamos enviando um e-mail com um arquivo em anexo. Não importa o que o destinatário faça com o arquivo: nós não vamos saber o que foi mudado se ele não enviar uma outra cópia.

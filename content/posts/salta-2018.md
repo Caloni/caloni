@@ -1,8 +1,10 @@
 ---
-date: "2018-07-04"
-categories: [ "draft" ]
-title: "Salta, 2018"
+categories:
+- draft
+date: '2018-07-04'
+title: Salta, 2018
 ---
+
 A região de Salta é menos conhecida pelos amantes de vinhos argentinos, mais acostumados a Mendoza e suas ruas paradisíacas em pleno deserto. Mas Salta tem outro espírito, mais nativo, e mais charmoso, que revela como a Argentina, como todo país, é um aglomerado artificial de diferentes povos e culturas, e como o vinho, feito em um solo impossível de dar vida à uva, expressa a alma de suas gerações.
 
 Ano passado conheci a região em uma integração de vôo complicada entre São Paulo, Buenos Aires e a cidade de Salta. Pela Argentina você irá perceber duas coisas: 1) as províncias possuem uma capital com o mesmo nome (como aqui em São Paulo) e 2) argentinos querem que você passe por Buenos Aires de qualquer jeito.

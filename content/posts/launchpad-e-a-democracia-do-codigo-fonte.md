@@ -1,8 +1,11 @@
 ---
-date: "2008-06-04"
+categories:
+- draft
+- blog
+date: '2008-06-04'
 title: Launchpad e a democracia do código-fonte
-categories: [ "draft", "blog" ]
 ---
+
 Após a publicação dos projetos que ando mexendo no próprio saite do Caloni.com.br, recebi uma enxurrada de _downloads _e quase atingi meu limite de fluxo mensal no provedor.
 
 Devido a esse problema inesperado, irei fazer o inevitável: publicar os projetos em um repositório **sério**. E aproveitando que já estou usando o [Bazaar](http://bazaar-vcs.org/), nada melhor que usar o [Launchpad.net](https://launchpad.net/).

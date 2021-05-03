@@ -1,10 +1,14 @@
 ---
-date: "2016-02-12"
-link: "https://www.imdb.com/title/tt1374989"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Orgulho e Preconceito e Zumbis"
+categories:
+- draft
+- movies
+date: '2016-02-12'
+link: https://www.imdb.com/title/tt1374989
+tags:
+- cinemaqui
+title: Orgulho e Preconceito e Zumbis
 ---
+
 Há muitos filmes que se agarram a um conteúdo original pela força dramática que estes fornecem (como o recente Dez Mandamentos brasileiro), mas se esquecem de adicionar algo realmente valioso. Pelo contrário: se escondem covardemente "por trás das saias" de uma obra de referência, ambiciosa e complexa, e de lá atiram com pistolas de água no espectador, indeciso se gosta do que vê por lembrar algo que já viu ou furioso por terem brincado com algo que nunca deveria ter sido "tirado da caixa".
 
 Acho que poucos filmes seriam tão perturbadores nesse quesito que esse Orgulho e Preconceito e Zumbis, que utiliza os personagens, a história e os diálogos da obra literária de Jane Austen e do filme homônimo (Joe Wright, 2005). Claro, a obra já foi adaptada outras vezes e até virou série televisiva pela BBC. É um conteúdo hoje popular graças a isso. E justamente por isso o diretor e roteirista Burr Steers (do ótimo A Estranha Família de Igby) inseriu na história outro elemento igualmente popular nessa década: zumbis.

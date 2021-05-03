@@ -1,10 +1,13 @@
 ---
-date: "2017-09-24"
-link: "https://www.imdb.com/title/tt5109784"
-categories: [ "draft", ]
-tags: [ "cinemaqui"  ]
-title: "Entrevista com Darren Aronofsky"
+categories:
+- draft
+date: '2017-09-24'
+link: https://www.imdb.com/title/tt5109784
+tags:
+- cinemaqui
+title: Entrevista com Darren Aronofsky
 ---
+
 "Talvez nós tenhamos interpretado erroneamente a Bíblia por muito tempo." Essa foi a frase-chave de uma coletiva com Darren Aronofsky que envolveu todas as interpretações polêmicas a respeito de seu novo filme, "Mãe!", que apresenta uma alegoria que inevitavelmente cai nas preocupações ecológicas atuais. Com a presença apenas do diretor, foi uma entrevista ágil, com boas perguntas e com uma presença de espírito de Aronofsky em cada resposta.
 
 Darren Aronofsky é um diretor bem peculiar. Sempre explorando o gnosticismo -- a busca e a afirmação de todo tipo de conhecimento, natural e sobrenatural -- seus filmes geralmente envolvem personagens no limite de seu conhecimento e capacidade. Claro que é difícil tentar relacionar Pi, Réquiem Para um Sonho, Fonte da Vida, O Lutador, Cisne Negro e Noé sob um mesmo tema. Mas não se trata apenas dos assuntos que o diretor prefere abordar, mas do seu estilo, que costuma ser bem intenso para seus personagens.

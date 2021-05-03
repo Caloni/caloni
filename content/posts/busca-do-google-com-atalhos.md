@@ -1,8 +1,11 @@
 ---
-date: "2008-05-19"
+categories:
+- draft
+- blog
+date: '2008-05-19'
 title: Busca do Google com atalhos
-categories: [ "draft", "blog" ]
 ---
+
 Eu adoro atalhos de teclado. Desde meus primeiros anos usando computadores, atalhos têm se tornado minha obsessão. Sempre faço minha pesquisa pessoal de tempos em tempos, colecionando e usando novos atalhos descobertos. Por um bom tempo eu evitei ter que usar o _mouse_, treinando-me para lembrar de todas as seqüências de teclas que conhecia.
 
 <blockquote>_Eu não tenho **nada **contra o uso do mouse nem as pessoas que o usam. Eu apenas não sou tão entusiástico em usar o mouse. Por algum tempo, eu até acreditei que o ponteiro do cursor estava me atrapalhando, então eu desenvolvi um programa para tirá-lo da tela (usando um atalho de teclado, claro). Porém, mais uma vez, não sou contra seu uso. Eu mesmo uso-o de vez em quando (quando eu preciso).__

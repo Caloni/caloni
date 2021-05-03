@@ -1,9 +1,11 @@
 ---
-date: "2013-01-01"
-link: "https://www.imdb.com/title/tt0353969"
-categories: [ "movies" ]
-title: "Memórias de um Assassino"
+categories:
+- movies
+date: '2013-01-01'
+link: https://www.imdb.com/title/tt0353969
+title: Memórias de um Assassino
 ---
+
 Memórias de um Assassino, do diretor Joon-ho Bong ([O Hospedeiro], Mother - A Busca Pela Verdade), compreende que a principal faceta de uma investigação pode estar muitas vezes nos próprios investigadores. Apostando em nossa identificação com os detetives Park Doo-Man (Kang-ho Song) e Seo Tae-Yoon (Sang-kyung Kim), investe na dinâmica entre os dois desde até antes que o primeiro chegue na pequena cidade para ajudar as autoridades locais a desvendar o estupro e assassinato de duas bonitas jovens.
 
 Infelizmente, muito do que se gostaria de saber sobre esses dois personagens fica mais oculto do que o próprio assassino. Nunca entendemos a real motivação de Park Doo-Man ter saído de Seul e nunca chegamos realmente a sermos justificados pelos atos de crueldade e manipulação dos suspeitos de Sang, forçando-se de todo o jeito a encontrar um culpado pelos assassinatos, mesmo que este nunca seja realmente incriminado.

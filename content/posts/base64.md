@@ -1,8 +1,11 @@
 ---
-date: "2011-03-09"
+categories:
+- draft
+- code
+date: '2011-03-09'
 title: Base64
-categories: [ "draft", "code" ]
 ---
+
 No meio dos meus artigos pendentes, encontrei esse, de Luiz Rocha, que fala sobre a dificuldade de entender o que seria Base64:
 
 <blockquote>"Salve Caloni,

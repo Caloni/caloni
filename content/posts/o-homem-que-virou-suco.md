@@ -1,9 +1,11 @@
 ---
-date: "2020-04-26"
-link: "https://www.imdb.com/title/tt0178585"
-categories: [ "movies" ]
-title: "O Homem Que Virou Suco"
+categories:
+- movies
+date: '2020-04-26'
+link: https://www.imdb.com/title/tt0178585
+title: O Homem Que Virou Suco
 ---
+
 O pacote comunista completo anos 80 em um filme imperdível. Ele retrata São Paulo nessa época de maneira tão dinâmica e vibrante que se torna um documentário. Ele desbrava esse preconceito e esses maus tratos com o nordestino sem filtros, e com isso revela não uma ferida do passado, mas um motivo separatista: nordestinos e sulistas são povos distintos com culturas conflitantes.
 
 Seu herói, interpretado por José Dummont, faz Deraldo e Severino, o mesmo cabra da peste em reencarnações que levaram linhas da vida distintas. Um deles quer ser poeta na grande capital e trabalhar que é bom nada. O outro quer o poder acima de tudo e acaba sendo mau visto por todos os lados. O poeta é repentista, e de repente você não quer mais deixar de acompanhar sua história de abusos e miséria. Ah, como a miséria é um prato cheio de aventuras em nossa terra!

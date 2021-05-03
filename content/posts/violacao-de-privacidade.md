@@ -1,9 +1,12 @@
 ---
-date: "2016-03-13"
-link: "https://www.imdb.com/title/tt0364343"
-categories: [ "draft", "movies" ]
-title: "Violação de Privacidade"
+categories:
+- draft
+- movies
+date: '2016-03-13'
+link: https://www.imdb.com/title/tt0364343
+title: Violação de Privacidade
 ---
+
 Robin Williams devia ter se aposentado de suas atuações em comédia. Porém, assistindo a filmes como Insônia, Retratos de uma Obsessão e este Violação de Privacidade, se torna até compreensível que o ator resolva dedicar metade do seu tempo para filmes açucarados para equilibrar esse seu lado sombrio e penetrante.
 
 Aqui ele faz o papel de Alan Hakman, um Editor, mas não no sentido que você conhece. Estamos em um futuro ou realidade alternativa onde algumas pessoas (1 em 20) escolhem implantar uma espécie de gravador de áudio e vídeo em seus filhos antes do nascimento. Após sua morte, um editor tem acesso a todas as centenas de milhares de horas de suas vidas e realiza um filme baseado nos "melhores momentos", ou melhor dizendo, os melhores momentos que a família está interessada em ver refletida na tela durante sua exibição (chamada de Rememorização).

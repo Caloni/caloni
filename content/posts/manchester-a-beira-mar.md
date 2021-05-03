@@ -1,9 +1,12 @@
 ---
-date: "2017-02-13"
-link: "https://www.imdb.com/title/tt4034228"
-categories: [ "draft", "movies" ]
-title: "Manchester À Beira-Mar"
+categories:
+- draft
+- movies
+date: '2017-02-13'
+link: https://www.imdb.com/title/tt4034228
+title: Manchester À Beira-Mar
 ---
+
 Este é um filme que se constrói inteiro na performance do seu ator principal, Casey Affleck, que estabelece um protagonista (Lee Chandler) traumatizado com um realismo que só consegue ser sentido no seu último momento na companhia de sua ex-esposa (uma Michelle Williams igualmente competente e com muito menos tempo de tela). Também é um filme que te leva fácil, pois tem uma história fácil para contar. São as entrelinhas que interessam, e se fossem um pouquinho mais grossas dariam um filmaço. Mas o filme prefere ser ele mesmo e se tornar com isso impecável.
 
 Essas entrelinhas em torno da historinha são sentidas em todo momento através dos seus personagens secundários. É aquele momento incômodo no corredor quando Lee recebe a notícia que seu irmão morreu e ele não estava com a doutora de praxe (ela estava de licença, pois engravidou de gêmeas, referência ao trauma do próprio Lee). Também é aquele momento em que, diante de seu testamento, Lee recusa aceitar o pesadelo que terá sendo o tutor de seu sobrinho. E, com certeza, é aquele momento em que ele acompanha a esposa sendo levada para a ambulância, quando as rodas de sua maca insistem em travar. Esse pequeno detalhe é o melhor exemplo de como o diretor Kenneth Lonergan consegue extrair o incômodo de todas essas situações sem apelar para o dramalhão, preferindo abusar dos atos falhos das pessoas em torno de Lee Chandler.

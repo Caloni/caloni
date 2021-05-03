@@ -1,9 +1,12 @@
 ---
-date: "2016-01-04"
-link: "https://www.imdb.com/title/tt3948438"
-categories: [ "draft", "movies" ]
-title: "Loucas pra Casar"
+categories:
+- draft
+- movies
+date: '2016-01-04'
+link: https://www.imdb.com/title/tt3948438
+title: Loucas pra Casar
 ---
+
 Dirigido e escrito como uma telenovela, Loucas Pra Casar tem uma boa ideia para uma peça de teatro (talvez até seja) e tenta esticá-la em um filme inteiro usando uma estrutura baseada em episódios descartáveis e bobos, tornando toda a experiência um exercício de futilidade com nenhuma tensão e zero carisma.
 
 Sua protagonista, Malu (Ingrid Guimarães), passou a juventude adulta pegando buquês e vendo suas amigas se casarem. Dedicada e metódica, profissionalmente é bem-sucedida e independente. No entanto, isso não evita que ela se sinta incompleta, já que não tem marido (que pecado para uma mulher em pleno século 21!). Sendo secretária do seu pretendente para esse "cargo", a única coisa que a atrapalha são as amantes de seu namorado. Ou seja, é o velho argumento machista das comédias românticas de Hollywood reciclada em um modelo brasileiro onde a putaria teoricamente é mais liberada.

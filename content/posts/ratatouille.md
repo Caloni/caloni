@@ -1,9 +1,11 @@
 ---
-date: "2011-11-20"
-link: "https://www.imdb.com/title/tt0382932"
-categories: [ "movies" ]
-title: "Ratatouille"
+categories:
+- movies
+date: '2011-11-20'
+link: https://www.imdb.com/title/tt0382932
+title: Ratatouille
 ---
+
 Ratatouille na época representou a capacidade grandiosa que um bom roteiro e uma excepcional produção conseguiam fazer, na animação computadorizada, como limite máximo de expressão na arte cinematográfica.
 
 Hoje, mais de quatro anos depois, ele continua envelhecendo como um bom vinho: ficando ainda melhor. Todas as nuances da história e os detalhes dos movimentos de seus personagens e a vivacidade e personalidade de seus cenários conseguem transmitir tantas informações de maneira harmoniosa que fica difícil assistir novamente esse jovem clássico e ainda assim não encontrar algum detalhe novo.

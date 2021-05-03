@@ -1,9 +1,11 @@
 ---
-date: "2013-04-21"
-link: "https://www.imdb.com/title/tt0488120"
-categories: [ "movies" ]
-title: "Um Crime de Mestre"
+categories:
+- movies
+date: '2013-04-21'
+link: https://www.imdb.com/title/tt0488120
+title: Um Crime de Mestre
 ---
+
 Um Crime de Mestre utiliza seus dois atores principais da melhor maneira. Anthony Hopkins, relembrado pelo título original (Fracture) que remete à mesma brincadeira metafórica do jovem clássico Silêncio dos Inocentes (Silence of the "Lambs"), estabelece um personagem frio e calculista que parece estar sempre se divertindo com seus jogos mentais e é alheio à realidade à sua volta, e ainda que cometa um crime passional logo no início o faz de forma hedionda e determinística. Já Ryan Gosling, que hoje possui em seu currículo o controverso motorista de Drive, é um advogado que se relaciona com as pessoas, mas assim como Hopkins, olha o mundo sempre do ponto de vista como ele pode servi-lo.
 
 Quando ambos os egos se encontram em um embate mais intelectual do que emotivo, as regras do sistema judiciário americano são vitais para a compreensão do que está em jogo: o único suspeito de assassinar sua própria esposa pode sair impune caso as peças não estejam devidamente encaixadas. A impressão que é passada a quase todo momento é que o sistema legal daquele país é tão frágil, ou seus "jogadores" tão ambiciosos, que gerenciar a justiça se torna função de empresas frias e calculistas como o próprio assassino. Nesse sentido, o que o diferencia dos seus advogados?

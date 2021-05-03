@@ -1,9 +1,12 @@
 ---
-date: "2021-02-19"
-link: "https://www.imdb.com/title/tt2531336"
-categories: [ "draft", "series" ]
-title: "Lupin"
+categories:
+- draft
+- series
+date: '2021-02-19'
+link: https://www.imdb.com/title/tt2531336
+title: Lupin
 ---
+
 Cuidado com essa minissérie, que de mini não tem nada. Ela apresenta em quatro horas uma história que não termina, o que vem se tornando um padrão em streaming. Vá assistir dois filmes lançados antes de 2010 que você ganha mais.
 
 Ela conta a história do ladrão literário misterioso cheio de artimanhas em uma adaptação Netflix, o que quer dizer obviamente que o herói será negro e vítima de racismo velado.

@@ -1,9 +1,12 @@
 ---
-date: "2018-10-23"
-link: "https://www.imdb.com/title/tt6257174"
-categories: [ "draft", "movies" ]
-title: "O Mau Exemplo de Cameron Post"
+categories:
+- draft
+- movies
+date: '2018-10-23'
+link: https://www.imdb.com/title/tt6257174
+title: O Mau Exemplo de Cameron Post
 ---
+
 O Mau Exemplo de Cameron Post é um dos melhores exemplos sobre hipocrisia e lavagem cerebral religiosa quando o tema é homossexualidade. Ele é tão bom assim porque ele espalha as incoerências e intolerância durante um suposto tratamento para uma cura gay. E quer melhor momento para rever esse tema?
 
 Estamos nos anos 90 e a Cameron Post do título, interpretada por uma surpreendentemente intensa (apesar de sua cara de novata) Chloë Moretz, é uma jovem adolescente que participa de um grupo de estudos da Bíblia com sua namorada. Sim, você já viu onde isso vai dar. Ao serem descobertas "no flagra" Cameron é internada em um centro de tratamento gay iniciado por uma psicóloga de araque que curou o próprio irmão.

@@ -1,9 +1,13 @@
 ---
-date: "2019-02-26"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Vida em Movimento"
+categories:
+- draft
+- movies
+date: '2019-02-26'
+tags:
+- cinemaqui
+title: Vida em Movimento
 ---
+
 Vida em Movimento, documentário que propõe mudanças em nossos hábitos para combater o sedentarismo sistêmico das grandes cidades, me fez lembrar de uma notícia bombástica mês passado sobre a Coca-Cola ter influenciado pesadamente as diretivas chinesas no combate à obesidade nos últimos trinta anos. Como um filme sobre sedentarismo me fez lembrar disso? Simples: a estratégia corporativa é basicamente a mesma.
 
 A Coca-Cola, junto da Nestlé, McDonalds e Pepsi, criaram o Instituto Internacional de Ciências da Vida (International Life Sciences Institute, ILSI) como uma ponte entre governos, academia científica e indústria, fornecendo evidências para tomadas de decisões políticas sobre nutrição, segurança alimentar, além de controle e prevenção de doenças crônicas. Agora, você deveria estar se perguntando, por que corporações conhecidas por vender junk food estão tão preocupadas com a saúde de seus consumidores?

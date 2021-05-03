@@ -1,9 +1,12 @@
 ---
-date: "2019-01-12"
-link: "https://www.imdb.com/title/tt4633694"
-categories: [ "draft", "movies" ]
-title: "Homem-Aranha no Aranhaverso"
+categories:
+- draft
+- movies
+date: '2019-01-12'
+link: https://www.imdb.com/title/tt4633694
+title: Homem-Aranha no Aranhaverso
 ---
+
 Lá vamos nós de novo. Era uma vez um garoto... ou garota... que foi picadx por uma aranha... ou porco... e se transformou em uma japonesa de anime... ou um rapaz do Brooklin. Não, pera. Ah, você entendeu.
 
 "Spider-Man: Into the Spider-Verse" possui uma trama, mas ela se desdobra em diferentes pontos de vistas, diferentes origens com diferentes consequências. Como uma teia de aranha ou como o reflexo da ponte entre dois prédios onde vemos escrito "Vision" (visão) ou como as diferentes texturas, paleta de cores (e p&b), vozes e dimensões de seus personagens. Se trata de uma animação que explora os limites da existência através de um dos heróis mais carismáticos dos quadrinhos, dos desenhos e dos filmes. Peter Parker já teve três versões recentes (últimos 20 anos) apenas no Cinema. Nos quadrinhos, infinitas. Como contextualizar toda essa bagunça de múltiplas edições?

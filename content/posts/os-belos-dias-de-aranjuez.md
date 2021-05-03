@@ -1,10 +1,14 @@
 ---
-date: "2017-03-26"
-link: "https://www.imdb.com/title/tt4715652"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Os Belos Dias de Aranjuez"
+categories:
+- draft
+- movies
+date: '2017-03-26'
+link: https://www.imdb.com/title/tt4715652
+tags:
+- cinemaqui
+title: Os Belos Dias de Aranjuez
 ---
+
 Aviso aos navegantes: se você entrou em A Árvore da Vida apenas para reclamar sobre a chatice do filme para logo em seguida sair da sala nem gaste seu dinheiro com Os Belos Dias de Aranjuez. Assim como o(s) trabalho(s) de Terrence Malick, este filme de Win Wenders não busca satisfazer os princípios básicos de narrativa que estamos acostumados a acompanhar, com começo, meio e fim. Ele sequer consegue estabelecer diálogos minimamente interessantes. Seu ponto alto é sua música inicial, exaltando o dia perfeito que virá. A partir daí, caminhamos em um dégradé que converte a felicidade inicial para a música final, que afirma duas coisas que resumem muito bem este dramático, embora não trágico, longa: a Terra está pegando fogo. E eu te amo.
 
 A história aparentemente gira em torno de um solitário escritor que parece estar sofrendo uma crise existencial/romântica, e enxerga através dos seus únicos dois personagens dor e desconexão, mesmo que estejam em frente a um calmo, acolhedor e encantador jardim, cheio de verde e uma arrebatadora paz. Ela fala de suas experiências sexuais e suas sensações usando uma veia poética, para não dizer caótica. Ele a faz perguntas seguindo uma regra previamente estipulada entre eles, e pontualmente faz observações sobre frivolidades, além de ter para si o passeio à região de Aranjuez como particularmente marcante.

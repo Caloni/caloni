@@ -1,9 +1,11 @@
 ---
-date: "2011-07-20"
-link: "https://www.imdb.com/title/tt1216475"
-categories: [ "movies" ]
-title: "Carros 2"
+categories:
+- movies
+date: '2011-07-20'
+link: https://www.imdb.com/title/tt1216475
+title: Carros 2
 ---
+
 O ponto mais forte no longa original eram as ideias por trás do conceito de carros se comportando como humanos. E até os pequenos detalhes de produção, como o fato dos mosquitos voando serem pequenos carrinhos com asas, contribuíam para tornar aquele universo todo especial.
 
 Dessa vez o que temos é uma história centrada no personagem Mate, o caminhão-reboque que virou melhor amigo do Relâmpago McQueen e que agora se sente deslocado em relação ao amigo e os ambientes requintados que ele frequenta em suas corridas pelo mundo.

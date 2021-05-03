@@ -1,9 +1,11 @@
 ---
-date: "2010-10-23"
-link: "https://www.imdb.com/title/tt1594460"
-categories: [ "movies" ]
-title: "Suécia Hoje"
+categories:
+- movies
+date: '2010-10-23'
+link: https://www.imdb.com/title/tt1594460
+title: Suécia Hoje
 ---
+
 A partir de depoimentos de várias pessoas e suas diferentes rotinas, este documentário traça um panorama dos últimos anos da história desse país. Assim como a maioria das grandes cidades, se antigamente o trabalhador passava a vida inteira empregado em apenas uma empresa, e os shoppings estavam vazios, de acordo com o narrador, porque esses trabalhadores precisavam restaurar as energias para uma nova semana de trabalho, hoje em dia a maioria trabalha como freelancer, e os shoppings estão cheios todos os dias e a economia é pulsante, pois cada vez mais pessoas querem comer, beber e fazer mais coisas com as 24 horas diárias.
 
 O primeiro depoimento é de uma moradora de um edifício no meio de uma região de novos prédios. Ela faz parte da fauna dos yuppies do país, que estão urbanizando rapidamente a capital (Estocolmo) e aumentando sua folha de gastos. Em boa parte da narrativa entramos em contato com as partes que compõem essa economia que tenta ser cada vez mais ativa, sendo que é bem-vinda a contraparte, um casal de moradores da floresta que, junto com seus filhos, tenta viver uma forma alternativa de subsistência, baseada na economia de recursos e o respeito à natureza, o que nos dá a oportunidade de ver o que todo filme sobre a Suécia contém em exaustão: belíssimos quadros formados pelas paisagens que enfeitam papéis de parede em todo o mundo, assim como belas composições em movimento, como o bando de alces correndo em meio à alvorada noturna fria e gélida, ou a colheita de morangos.

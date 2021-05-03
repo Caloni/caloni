@@ -1,9 +1,11 @@
 ---
-date: "2014-10-23"
-link: "https://www.imdb.com/title/tt2209764"
-categories: [ "movies" ]
-title: "Transcendence: A Revolução"
+categories:
+- movies
+date: '2014-10-23'
+link: https://www.imdb.com/title/tt2209764
+title: 'Transcendence: A Revolução'
 ---
+
 Tecnologia, consciência, religião, internet, conectividade, ecologia, inteligência artificial, moral, ética, filosofia, existência, nanotecnologia, computação quântica, privacidade, realidade virtual: todos representados em Transcendence, primeiro trabalho de direção de Wally Pfister, fotógrafo habitual dos trabalhos de Christopher Nolan (que aqui assina a produção) e primeiro trabalho de roteiro de Jack Paglen, um roteiro que já figurava na Black List: a lista hollywoodiana dos roteiros famosos que nunca são produzidos.
 
 Assistindo ao filme é até possível entender o motivo dessa ressalva das produtoras em gastar alguns milhões: tentando erguer muitas bolas no ar ao mesmo tempo (a lista previamente citada), a história basicamente se resume em uma enumeração virtualmente infinita (e sem alma) de possibilidades que se tornam reais a partir do passo mais ambicioso tomado pelo ser humano: clonar o conjunto de "circuitos elétricos" que constituem nosso cérebro em um programa de computador que ganhará assim, da mesma forma que um ser humano, uma "consciência". Mas o que é uma consciência nesse contexto? Aparentemente, isso ainda é um mistério completo, não sendo possível sequer identificar se a versão digital pode ser comparada à original, ou se um ser digital sente dor ao ter uma existência enclausurada em um mundo sem sentidos, o que denota nossa completa falta de moral no campo científico quando se fala de experimento em humanos (o que não deixa de ser verdade: ciência e moral não necessariamente caminham juntas).

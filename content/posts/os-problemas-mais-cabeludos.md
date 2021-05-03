@@ -1,8 +1,11 @@
 ---
-date: "2009-03-05"
-categories: [ "code", "draft",  ]
-title: "Os problemas mais cabeludos"
+categories:
+- code
+- draft
+date: '2009-03-05'
+title: Os problemas mais cabeludos
 ---
+
 Quase todos os problemas do Universo são resolvidos depois de um belo dia de depuração, código comentado, descomentado, recomentado e umas muitas e boas doses de café. Alguns outros problemas mais cabeludos precisam de uma boa noitada na frente do computador, e mais café. E, finalmente, existem aqueles que nem tomando o estoque inteiro de café a coisa anda.
 
 Um exemplo: um hook global do Windows que quando ativado em determinados eventos envia mensagens para uma única janela que cataloga informações sobre diversas janelas e processos no sistema. Esse procedimento é uma subfunção do programa principal, que já possui seus próprios problemas e idiossincrasias. Em momentos aparentemente aleatórios algumas funcionalidades não parecem estar de acordo com o que se espera.

@@ -1,9 +1,11 @@
 ---
-date: "2015-11-01"
-link: "https://www.imdb.com/title/tt0291988"
-categories: [ "movies" ]
-title: "Histórias mínimas"
+categories:
+- movies
+date: '2015-11-01'
+link: https://www.imdb.com/title/tt0291988
+title: Histórias mínimas
 ---
+
 Parece um road movie disfarçado, já que todas as cidadezinhas e pessoas envolvidas vivem à beira da estrada. Estamos no interior da Patagônia, Argentina, terra do vinho e da empanada. Um velho senhor nutre a esperança de poder reaver seu velho cão que fugiu diante de um comportamento condenável de seu dono. Uma jovem e humilde mãe é sorteada em um programa de televisão para concorrer a um multiprocessador de alimentos. Um vendedor detalhista e falastrão tenta entregar o bolo perfeito para o filho de seu interesse amoroso.
 
 Juntos, eles irão cavalgar por pequenas aventuras em direção a Julião, a cidade grande das redondezas. O velho é o pilar onde se constrói a história, mas os outros dois servem de apoio para um projeto que se entitula História Mínimas, um longa de Carlos Sorin que tenta focar na humanidade de seus personagens, mas que os enxerga mais como as paisagens que servem de pano de fundo às suas existências do que seres complexos e multifacetados. Dessa forma, o minimalismo em torno das três histórias acaba se sabotando, colocando uma história interessante sob um enfoque superficial.

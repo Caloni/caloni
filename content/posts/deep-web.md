@@ -1,9 +1,12 @@
 ---
-date: "2017-03-26"
-link: "https://www.imdb.com/title/tt3312868"
-categories: [ "draft", "movies" ]
-title: "Deep Web"
+categories:
+- draft
+- movies
+date: '2017-03-26'
+link: https://www.imdb.com/title/tt3312868
+title: Deep Web
 ---
+
 Este é um documentário que irá te dar uma visão diametralmente oposta do que você já ouviu falar sobre a deep web na mídia. Para começo de conversa, o filme não fala sobre assassinos e pedófilos, e quando fala sobre crimes cibernéticos, estranhamente eles são cometidos sem vítimas. A venda de drogas em um site chamado Silk Road se apresenta um mercado onde vendedores e compradores conseguem, sem o uso da violência e evitando riscos físicos, trocar drogas de todos os tipos.
 
 O longa coloca como exemplo drogas recreativas, como cocaína e heroína, se esquecendo do imenso potencial de salvar vidas ao comercializar para os EUA as drogas patenteadas e monopolizadas pela indústria farmacêutica de lá a preços abusivos. No entanto, como contraparte, oferece a gratificante visão das vidas anônimas salvas, que não serão vítimas da força policial na guerra contras as drogas.

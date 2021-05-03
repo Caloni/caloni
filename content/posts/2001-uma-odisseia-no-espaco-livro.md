@@ -1,8 +1,11 @@
 ---
-date: "2018-05-16"
-categories: [ "draft", "books" ]
-title: "2001: Uma Odisseia no Espaço (livro)"
+categories:
+- draft
+- books
+date: '2018-05-16'
+title: '2001: Uma Odisseia no Espaço (livro)'
 ---
+
 Comprei este livro na Black Friday do ano passado da Amazon. Ou ganhei porque o prefeito de São Paulo é um retardado e ficou intimando essa empresa? Pra ser sincero não lembro mais. E não importa. O fato é que não sou muito de ler ficção. Quando começo a ler já desisto. Antes desse tentei Grande Sertão: Veredas. Mas talvez esteja lendo as coisas erradas. Gosto muito de sci-fi, e 2001 é um dos meus filmes prediletos. Portanto, comecei a ler este. E em duas semanas, lendo esporadicamente, já cheguei na metade. É um livro que fala diretamente com quem é fascinado por viagens espaciais, mas, acima de tudo, os que são fascinados pela complexidade da consciência humana e do universo em si.
 
 Nem tanto pela complexidade, mas pelo mistério. O mistério existe até hoje, e provavelmente irá existir para todo o sempre. De qualquer forma, não há como não se deixar levar pela pura poesia científica que Arthur C. Clarke estabelece no primeiro terço do seu livro, quando acompanhamos uma família de primatas tentando sobreviver em condições extremas da natureza em sua volta (e é preciso lembrar aqui que Clarke e Kubrick estavam trabalhando em paralelo, filme e livro, então é difícil determinar o que influenciou o quê). Mas não estamos observando humanos ainda. Nem os "homens-macacos". Não. Esta é a beleza desta parte. Ainda são proto-humanos, proto-consciência, de algo ainda inimaginável.
@@ -23,4 +26,4 @@ Authur C. Clarke não é apenas um autor de ficção-científica fascinado pelos
 
 "2001" é tudo aquilo que o filme -- que já é um clássico -- sugere, e em um nível literário, o que quer dizer que verbalmente e descritivamente o livro nos coloca em uma posição de analisar com mais calma ainda, e com poder mais reflexivo, o quão profundo certas transformações da natureza podem ser.
 
-> Ao contrário dos animais, que só conheciam o presente, o Homem havia adquirido um passado; e começava a tatear na direção de um futuro. 
+> Ao contrário dos animais, que só conheciam o presente, o Homem havia adquirido um passado; e começava a tatear na direção de um futuro.

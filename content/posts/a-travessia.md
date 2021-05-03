@@ -1,9 +1,12 @@
 ---
-date: "2015-12-15"
-link: "https://www.imdb.com/title/tt3488710"
-categories: [ "draft", "movies" ]
-title: "A Travessia"
+categories:
+- draft
+- movies
+date: '2015-12-15'
+link: https://www.imdb.com/title/tt3488710
+title: A Travessia
 ---
+
 A liberdade é uma coisa engraçada. Quando a perdemos através do medo, isso cria os mais diversos níveis de negação, fazendo-nos chegar ao cúmulo de aceitar o máximo de segurança pelo mínimo de liberdade, sendo que, ironicamente, acabamos perdendo ambos.
 
 Não deixa de ser, portanto, um grito de liberdade o que o novo filme de Robert Zemeckis faz. Catorze anos após o atentado que derrubou as Torres Gêmeas de Nova York e que aterrorizou uma nação, a história do homem que ousou ultrapassar os limites de segurança estabelecidos pelas autoridades do local onde os arranha-céus haviam acabado de ser construídos é recontada. Sim, já temos O Equilibrista (2008), um documentário de arrepiar os cabelos que conta a mesma trajetória do francês Philippe Petit em arquitetar seu plano de atravessar um cabo colocado no terraço dos prédios. No entanto, aqui, apesar da história ser a mesma, ela é contada através da já conhecida habilidade do diretor em usar efeitos visuais para tornar as cenas mais naturais, ainda que aqui o objetivo seja torná-las fantásticas (e apenas a lembrança de diversos momentos em Forrest Gump é o suficiente para nos lembrar da capacidade do diretor para tal).

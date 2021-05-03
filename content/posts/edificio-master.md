@@ -1,9 +1,12 @@
 ---
-date: "2019-05-06"
-link: "https://www.imdb.com/title/tt0333388"
-categories: [ "draft", "movies" ]
-title: "Edifício Master"
+categories:
+- draft
+- movies
+date: '2019-05-06'
+link: https://www.imdb.com/title/tt0333388
+title: Edifício Master
 ---
+
 Esse Eduardo Coutinho sabe fazer documentários. Olhe como ele organiza uma força-tarefa para entrevistar moradores do Edifício Master, que tem cerca de 500 moradores, em frente ao Copacabana no Rio. Ele não apenas encontra histórias interessantes como realiza uma primorosa edição que foca nas histórias e nas pessoas, pura e simplesmente. Não há rodeios. Não dá sono. Dá vontade de viver e conhecer mais pessoas.
 
 Se você já se interessou minimamente por histórias de vida de pessoas que não conhece, como aquelas que se conversa casualmente no ônibus ou no metrô, Edifício Master é uma coleção delas. É começar a assistir e se dar conta que o filme acabou.

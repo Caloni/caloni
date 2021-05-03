@@ -1,10 +1,14 @@
 ---
-date: "2017-11-29"
-link: "https://www.imdb.com/title/tt0460890"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Apenas um Garoto em Nova York"
+categories:
+- draft
+- movies
+date: '2017-11-29'
+link: https://www.imdb.com/title/tt0460890
+tags:
+- cinemaqui
+title: Apenas um Garoto em Nova York
 ---
+
 A sensação de Apenas um Garoto em Nova York é parecida com tantos outros. Uma mistura de drama social com romance misterioso. Com uma femme fatale mais realista. E uma relação familiar problemática. Relações de poder que são fachadas sociais... e no topo de tudo isso, um garoto tentando fazer a coisa certa. Quer dizer, pelo menos enquanto ele acredita existir a coisa certa. Ah, e o seu narrador, que o conhece tão profundamente que "seu" garoto parece ser o personagem para o qual seu livro foi criado.
 
 E tudo é narrado como um livro. Os acontecimentos são pincelados com uma trilha sonora que mistura o drama dos pseudo-apreciadores de arte com o imediatismo dos acontecimentos. Esta história pede violinos, batidas rítmicas e de vez em quando Bob Dylan. Tudo se ajusta à iluminação sóbria dos mais ricos e seus problemas de primeiro mundo.

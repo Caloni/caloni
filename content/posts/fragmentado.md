@@ -1,9 +1,12 @@
 ---
-date: "2017-04-18"
-link: "https://www.imdb.com/title/tt4972582"
-categories: [ "draft", "movies" ]
-title: "Fragmentado"
+categories:
+- draft
+- movies
+date: '2017-04-18'
+link: https://www.imdb.com/title/tt4972582
+title: Fragmentado
 ---
+
 Este é mais um suspense de M. Night Shyamalan baseado em "eventos reais" que flerta com as possibilidades sobrenaturais de suas premissas. Mas mais "sobrenatural", contudo, é a forma simplista com que a história é contada, como se o diretor/roteirista não se importasse muito com a verossimilhança da história que quer contar, já que, marca registrada do diretor, obviamente tratará de um tema que brinca com coisas "Além da Imaginação".
 
 Considere, por exemplo, o rapto de três garotas. Se trata de um homem, não muito forte, que as mantém presas, mas não imobilizadas, em um quarto com uma porta de madeira. Um detalhe vital é que este homem parece se comportar de maneira diferente algumas vezes que ele interage com as moças, e isso imediatamente faz com que uma delas, a mais problemática, conclua que o rapaz tem diferentes personalidades, ou pessoas, dentro dele.

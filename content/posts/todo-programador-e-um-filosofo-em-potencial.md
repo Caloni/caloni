@@ -1,8 +1,10 @@
 ---
-date: "2008-09-12"
-categories: [ "draft" ]
-title: "Todo programador é um filósofo em potencial"
+categories:
+- draft
+date: '2008-09-12'
+title: Todo programador é um filósofo em potencial
 ---
+
 Tivemos uma conversa muito frutífera hoje durante o almoço ao conhecer uma professora que sentava ao nosso lado, exímia conhecedora da mente humana e amante das artes nobres como a filosofia e a lógica.
 
 O importante dessa colóquio foi ter encontrado um motivo muito mais forte para gostar de programação do que qualquer outro que já me surgira na cabeça desde que mexo com essas coisas:
@@ -32,4 +34,3 @@ E é por isso, realmente, que amo o que eu faço.
 
 	
   * If Philosophers Were Programmers
-

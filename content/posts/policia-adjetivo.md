@@ -1,9 +1,12 @@
 ---
-date: "2021-03-07"
-link: "https://www.imdb.com/title/tt1337051"
-categories: [ "draft", "movies" ]
-title: "Polícia, Adjetivo"
+categories:
+- draft
+- movies
+date: '2021-03-07'
+link: https://www.imdb.com/title/tt1337051
+title: Polícia, Adjetivo
 ---
+
 Cinema romeno nunca me desaponta. Nesse acompanhamos a rotina de um investigador de polícia vigiando três jovens que fumam maconha. No país ainda é crime consumir. O policial não quer fazer o flagrante para não ficar com a prisão de um jovem na sua consciência e porque "a lei logo vai mudar, na Europa inteira já não é assim". Sua rotina é monótona de propósito. O filme pede para observarmos seu ritmo de trabalho. É impecável. Quanto menos a história nos conta, focada apenas no ponto de vista do policial, mais ela nos dá a liberdade de refletir sobre o sistema.
 
 No final há um embate dialético de levantar e aplaudir. É tenso e ao usar esse adjetivo me faz ter vergonha de adorar este filme que a grande maioria dos espectadores deve achar um porre. Não consigo evitar. É demais para meu intelecto cansado de ser bombardeado de clichês no cinema medíocre e esquemão de todos os dias. Isso aqui é novo: faz pensar. Não te dá opiniões prontas. Você pode assistir com opinião formada, mas se ver até o final vai te balançar pelo menos um pouco. Se pensar a respeito, claro.

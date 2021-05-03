@@ -1,10 +1,14 @@
 ---
-date: "2016-12-15"
-link: "https://www.imdb.com/title/tt5215952"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Lamento"
+categories:
+- draft
+- movies
+date: '2016-12-15'
+link: https://www.imdb.com/title/tt5215952
+tags:
+- cinemaqui
+title: O Lamento
 ---
+
 O Lamento é um terror coreano, e só essa descrição seria o suficiente para chamar a atenção de qualquer fã de terror que se preze. Afinal de contas, terrores asiáticos já são de praxe as melhores fontes de medo humano, e geralmente vem acompanhados de lendas sempre um pouco pesadas demais, como se pode comprovar através de "O Chamado", "Espíritos - A Morte Está ao Seu Lado", "Medo", e "O Hospedeiro" (que é muito mais um drama).
 
 Em "O Lamento", como qualquer filme bom do gênero, acompanhamos um pouco da vida de Jong-Goo (Do Won Kwak) e sua família durante a resolução de dois assassinatos tenebrosos que acontecem na cidadezinha onde moram. As mortes, ocorridas em família, são inexplicáveis e revoltantes, em uma prova inicial de que o filme consegue tanto impressionar quanto estender um pequeno drama cotidiano, típico de jornais sensacionalistas, até o ponto que estranhamos as circustâncias aparentemente sobrenaturais que cerca os supostos assassinatos.

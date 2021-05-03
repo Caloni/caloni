@@ -1,9 +1,12 @@
 ---
-date: "2016-12-15"
-link: "https://www.imdb.com/title/tt3183660"
-categories: [ "draft", "movies" ]
-title: "Animais Fantásticos e Onde Habitam"
+categories:
+- draft
+- movies
+date: '2016-12-15'
+link: https://www.imdb.com/title/tt3183660
+title: Animais Fantásticos e Onde Habitam
 ---
+
 Quando a série Harry Potter terminou nos cinemas veio a sensação de saudade com um misto de "saga intocável", no sentido de qualquer tentativa de "George Lucarizar" a franquia estaria fadada ao fracasso. A não ser que fosse apenas utilizado o universo onde se passam os filmes, mas não os mesmos personagens, ou as mesmas situações (mago do mal, cada filme um ano na escola). Pois bem. A partir de Animais Fantásticos, a escritora J. K. Rowling pode ganhar o título de "escritora fodona" de verdade. Ela não recicla ideias que a tornaram um sucesso (e milionária). Ela não usa personagens que os fãs abraçaram como muletas afetivas. Ela cria uma história do zero, fugindo completamente do mundo HP e apresentando novas criaturas e novos conceitos, enriquecendo e expandindo o universo em vez de sugando-o. Aprendeu como se faz, George Lucas/J.J. Abrams?
 
 Apresentando Newt, um garoto curioso que é aficionado pelos animais exóticos que cria, e que chega em uma Nova York sitiada pelo medo e insegurança, além de um crescente sentimento de ódio aos bruxos entre os mais radicais. No entanto, como não é só de radicalismo que vive o mundo, um grande editor da imprensa se aproveita desse clima de extremos para eleger seu filho, em uma perfeita alegoria da situação política do mundo atual.

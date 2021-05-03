@@ -1,9 +1,11 @@
 ---
-date: "2017-09-18"
-link: "https://www.imdb.com/title/tt0242653"
-categories: [ "draft" ]
-title: "Matrix: Ghost in The Shell"
+categories:
+- draft
+date: '2017-09-18'
+link: https://www.imdb.com/title/tt0242653
+title: 'Matrix: Ghost in The Shell'
 ---
+
 De todas as teorias malucas criadas em torno da trilogia das Irmãs Wachowski, acredito que esta que tenho para lhes falar supera em simplicidade e elegância. Por isso mesmo acredito que esta seria a solução empregada por elas caso quisessem deixar toda a trama às claras. Felizmente, não quiseram, o que deu vazão para um esoterismo e obscurantismo que torna o conjunto de três filmes indecifrável. Mas, fala sério. Sou programador. Depois de Ghost in the Shell as coisas têm se tornado mais claras ainda. Quer ver como toda essa fábula é explicada por ela mesma?
 
 Preciso dizer que Spoilers irão ser enviados pelas máquinas nos próximos parágrafos?

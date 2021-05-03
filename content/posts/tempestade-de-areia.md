@@ -1,9 +1,12 @@
 ---
-date: "2016-10-21"
-link: "https://www.imdb.com/title/tt4365518"
-categories: [ "draft", "movies" ]
-title: "Tempestade de Areia"
+categories:
+- draft
+- movies
+date: '2016-10-21'
+link: https://www.imdb.com/title/tt4365518
+title: Tempestade de Areia
 ---
+
 A filmografia por trás da cultura do Oriente Médio vira e mexe acaba girando em torno dos costumes antigos de uma cultura predominantemente "machista e opressora". Em Tempestade de Areia, isso não é diferente. Contudo, encarando como toda a questão desenvolvida pelo filme consegue ser aplicada a qualquer sociedade e qualquer costume, vemos que muitas das nossas próprias ações, nós, do "mundo civilizado do Ocidente", que acreditamos ser atribuída à nossa liberdade de escolha, são apenas reflexos de uma cultura que já existia antes de nós existirmos. Onde está o seu livre-arbítrio agora?
 
 A direção do estreante Elite Zexer torna tudo imediatista com sua câmera que não para (comparável com outro filme de destaque na região, "A Separação") e que observa a realidade quase sempre do ponto de vista da personagem mais atingida: a esposa mais velha. O filme começa com uma discussão entre o pai e a filha, que está tentando dirigir sendo a todo momento criticada por ele, que não coloca os olhos na estrada vazia. E a história continua com o pai tendo a opinião final de quase tudo que gira em torno de sua casa, a despeito de ser sua primeira esposa o pilar da família, a que cuida para que tudo funcione, que as crianças vão para a escola, etc.

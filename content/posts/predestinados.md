@@ -1,9 +1,12 @@
 ---
-date: "2018-08-01"
-link: "https://www.imdb.com/title/tt4702826"
-categories: [ "draft", "movies" ]
-title: "Predestinados"
+categories:
+- draft
+- movies
+date: '2018-08-01'
+link: https://www.imdb.com/title/tt4702826
+title: Predestinados
 ---
+
 Este não é um filme sobre crianças. Elas mal aparecem no filme. O que aparece no filme são as reações de seus pais. E eles fazem parte do universo das comédias fáceis e sem implicações dramáticas, o que torna toda a experiência de ver seus filhos sendo cobaias de um experimento sobre a vida tão fascinante como ideia quanto frustrante na execução.
 
 Estamos na década de 70, e o filme é narrado como se esta fosse uma história real. Pode muito bem não ser e não vai se perder nada. Exceto seu final. Explico.

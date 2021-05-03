@@ -1,9 +1,12 @@
 ---
-date: "2015-07-28"
-link: "https://www.imdb.com/title/tt0121955"
-categories: [ "draft", "series" ]
-title: "South Park"
+categories:
+- draft
+- series
+date: '2015-07-28'
+link: https://www.imdb.com/title/tt0121955
+title: South Park
 ---
+
 Comecei assistindo essa animação já "decanária" (10 anos?) recentemente através das temporadas disponíveis na Netflix brasileira. O resultado foi um entusiasmo tão grande e egoísta que praticamente parei o meu ritmo frenético de filmes para reservar boa parte dos meus fins de semana e noites para ir até o último capítulo disponível da versão dublada em português. Posso dizer que aprendi muito sobre a vida, o mundo, a sociedade, e mim mesmo. Cada episódio polêmico me fazia ler os detalhes sórdidos através da Wikipedia, como o clássico Trapped in the Closed, que praticamente me obrigou a rever o "episódio de despedida" de Isaac Hayes em sua versão original, um recorte hilário de dublagens passadas do ator/cantor.
 
 No entanto, seria injusto ignorar todo o passado desde o programa piloto criado a mão por Trey Parket e Matt Stone, que além da direção e roteiro emprestaram suas vozes para 90% das dublagens dos personagens. É uma obrigação moral acompanhar a evolução de um desenho que me fez pensar mais e rir mais do que os Simpsons, que já são um marco na história das críticas sociais daquele país.

@@ -1,9 +1,12 @@
 ---
-date: "2019-06-05"
-link: "https://www.imdb.com/title/tt0201003"
-categories: [ "draft", "movies" ]
-title: "Os Raptores"
+categories:
+- draft
+- movies
+date: '2019-06-05'
+link: https://www.imdb.com/title/tt0201003
+title: Os Raptores
 ---
+
 Um dos DVDs perdidos por aqui é esse Os Raptores, policial brasileiro do final dos anos 60, que se você assistir vai chegar à seguinte conclusão: havia muitos Fuscas no Rio e as pessoas falavam um português formal muito engraçado.
 
 Mas isso é normal. Meus avós falavam assim. O estranho é haver tantas informações nos diálogos desse filme. As testemunhas entregam praticamente um dossiê para o investigador, só faltando datilografar para os autos. Percebe-se também aquela tara por processo jurídico.

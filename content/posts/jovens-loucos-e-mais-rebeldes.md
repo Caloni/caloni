@@ -1,10 +1,14 @@
 ---
-date: "2016-09-09"
-link: "https://www.imdb.com/title/tt2937696"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Jovens, Loucos e Mais Rebeldes"
+categories:
+- draft
+- movies
+date: '2016-09-09'
+link: https://www.imdb.com/title/tt2937696
+tags:
+- cinemaqui
+title: Jovens, Loucos e Mais Rebeldes
 ---
+
 Jovens, Loucos e Mais Rebeldes é a mais nova experimentação de Richard Linklater (Boyhood), que entra a fundo em uma análise sobre uma geração e seus estilos, ou suas tribos, e que semelhante a seus filmes anteriores, parece mais interessado na análise em si do que criar qualquer história.
 
 Se trata de um documentário póstumo em ficção de uma era que já se foi há muito tempo. O que o filme faz agora é emular em laboratório a experiência de ser jovem naquela época -- final dos anos 70 e/ou começo dos 80 -- acompanhando a rotina do time de beisebol, que se reúne antes das aulas começarem, se entrosam, treinam, bebem, procuram garotas. Tudo é permitido na universidade, pois são todos "de maior", e a tensão, se existe alguma, se encontra em se socializar, e conflitos, estes não existem. As poucas regras dos poucos adultos em cena são religiosamente quebradas. Sabe como é: pelos bons e velhos tempos da irreverência ao mundo adulto.

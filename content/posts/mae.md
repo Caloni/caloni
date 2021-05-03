@@ -1,10 +1,14 @@
 ---
-date: "2017-09-15"
-link: "https://www.imdb.com/title/tt5109784"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Mãe!"
+categories:
+- draft
+- movies
+date: '2017-09-15'
+link: https://www.imdb.com/title/tt5109784
+tags:
+- cinemaqui
+title: Mãe!
 ---
+
 Para quem já conhece o diretor perfeccionista e gnóstico Darren Aronofsky não será nenhuma surpresa constatar que seu novo trabalho, "Mãe!", além de tecnicamente impecável é denso, tenso e emocionalmente visceral. E embora nenhuma dessas palavras consiga sequer arranhar toda a expressividade e simbolismos do criador de Cisne Negro, O Lutador e Noé, esta continuação temática de Fonte da Vida não precisa de muitas apresentações aos fãs, mas ao mesmo tempo se torna uma viagem sensorial que é universal, e que apenas a experiência audiovisual do Cinema consegue oferecer em tantas camadas.
 
 E por falar em camadas, sua história obviamente possui pelo menos duas delas. Na primeira temos a história desse casal com uma certa diferença de idade. Ela (Jennifer Lawrence) é jovem e ajudou Ele (Javier Bardem) a reconstruir sua casa após um incêndio que destruiu seus pertences e memórias. Ele é escritor, mas ultimamente anda com crise de criatividade. Isso vai mudar quando um visitante inesperado (Ed Harris) bate à porta, levando a uma série de eventos dentro desta casa que irão colocar a vulnerável personagem de Lawrence (os personagens simplemente não têm nomes), aos poucos, prestes a ter uma crise nervosa.

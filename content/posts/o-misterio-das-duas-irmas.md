@@ -1,9 +1,11 @@
 ---
-date: "2014-05-01"
-link: "https://www.imdb.com/title/tt0815245"
-categories: [ "movies" ]
-title: "O Mistério das Duas Irmãs"
+categories:
+- movies
+date: '2014-05-01'
+link: https://www.imdb.com/title/tt0815245
+title: O Mistério das Duas Irmãs
 ---
+
 "Um filme vendido como terror, mas que não consegue sequer chegar próximo de um suspense. Depois de passarmos quase duas horas acompanhando a movimentação de uma câmera que parece estar sempre revelando algo espantoso ou fantástico (não está), temos uma série de revelações completamente atrapalhadas sobre algo que não estávamos sequer procurando desvendar."
 
 Essa foi a descrição que fiz ao assistir o original coreano de Medo, ou "A Tale of Two Sisters". Já esse remake norte-americano O Mistério das Duas Irmãs (ou "The Uninvited"), com Emily Browning, traz justamente o contrário: vendido como um suspense, ele funciona como um suspense na maior parte do tempo, justamente por abraçar desde o começo os delírios de Anna, a irmã caçula que sofre um trauma após um incêndio que mata sua mãe , além de ter seus sustos ocasionais. No entanto, o forte dele reside justamente em nunca nos deixar em dúvida se aquelas aparições são ou não reais (não são), evitando aquele joguinho bobo de filmes como Amigo Oculto e o próprio filme original.

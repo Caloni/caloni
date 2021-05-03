@@ -1,9 +1,11 @@
 ---
-date: "2014-03-03"
-link: "https://www.imdb.com/title/tt1490017"
-categories: [ "movies" ]
-title: "Uma Aventura Lego"
+categories:
+- movies
+date: '2014-03-03'
+link: https://www.imdb.com/title/tt1490017
+title: Uma Aventura Lego
 ---
+
 Eis um filme que constrói sua história em um universo de bonecos e peças montáveis que juntos somam todos os clichês possíveis e imagináveis do gênero aventura. Partindo dessa premissa tímida para um filme onde "Tudo é Incrível" talvez seja pretensioso demais, mas não para um ser cheio de sonhos, medos e desejos que se misturam para contar uma história jamais vista: a que sai da cabeça de uma criança.
 
 Criado pela dupla de diretores e roteiristas Phil Lord e Christopher Miller (Tá Chovendo Hambúrguer), Uma Aventura Lego conta justamente o que o título sugere, mas revela em seu final o que tudo isso significa (caso você ainda não tenha visto, não se preocupe, não vou revelar nada aqui). O herói dessa história é um construtor comum, Emmet Brickowoski (Chris Pratt), alguém que segue à risca todas as instruções para se viver em Lego City: gostar do programa televisivo "Cadê Minhas Calças" (que apresenta sempre a mesma gag do marido perguntando para a esposa onde estão suas calças), das mesmas franquias de restaurantes e café e da música pop que escuta por 5 horas seguidas todos os dias ("Everything is Awesome", ou "Tudo é Incrível" no Brasil; ambas as versões são tão irritantes quanto viciantes).

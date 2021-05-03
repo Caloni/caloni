@@ -1,9 +1,11 @@
 ---
-date: "2015-09-30"
-link: "https://www.imdb.com/title/tt0469754"
-categories: [ "movies" ]
-title: "O Grande Chefe"
+categories:
+- movies
+date: '2015-09-30'
+link: https://www.imdb.com/title/tt0469754
+title: O Grande Chefe
 ---
+
 Uma comédia pautada no absurdo, mas que ancora suas situações em neuroses realistas nos colegas de uma empresa. No entanto, tais neuroses nunca seriam expostas por pessoas reais, e a beleza de O Grande Chefe é justamente deixar fluir o comportamento humano até suas últimas consequências, enquanto ironicamente o comportamento de um ator medíocre é analisado sob a ótica da incompetência.
 
 Aliás, não se sabe até onde vai a incompetência de Kristoffer (Jens Albinus), o ator contratado pelo dono da empresa, o sempre solícito Ravn (Peter Gantzler), para se fazer passar por seu presidente para assinar um contrato com um empresário de outro país, e que influencia diretamente no humor construído justamente por essa ode à incompetência dos superiores na hierarquia de um escritório. Obviamente inapto para o "papel", Kristoffer tem como seu mentor o dramaturgo Antonio Stavro Gambini, cuja máxima é "O Teatro se desdobra até o ponto em que ele termina", como ele diz em sua primeira fala. O surrealismo de Gambini respira dentro do personagem e da persona de Kristoffer, e a angústia que sentimos ao ver interpretar o dono de uma empresa com total inabilidade bate de frente com a angústia de não entendermos as reações de seus "subordinados", o grupo de seis funcionários que "trabalham para ele" há dez anos, desde o nascimento da empresa.

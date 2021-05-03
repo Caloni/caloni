@@ -1,9 +1,12 @@
 ---
-date: "2019-05-10"
-link: "https://www.imdb.com/title/tt0246578"
-categories: [ "draft", "movies" ]
-title: "Donnie Darko"
+categories:
+- draft
+- movies
+date: '2019-05-10'
+link: https://www.imdb.com/title/tt0246578
+title: Donnie Darko
 ---
+
 Quase 20 anos depois, Donnie Darko é um pequeno milagre dos filmes lado B de baixo orçamento. Com um elenco misteriosamente relevante -- vários atores se tornaram revelações -- e a profunda ideia de chacoalhar a sociedade americana com sua crítica às soluções imediatistas baseadas em pílulas, terapia e auto-ajuda, sua viagem no tempo é a cereja no bolo de uma história que não permite que coloquemos ou tiremos nada, mas que ao mesmo tempo permita tantas interpretações diferentes.
 
 Esta é uma versão dark e distorcida que mistura elementos de De Volta Para o Futuro com Efeito Borboleta, além de ser uma clara inspiração a Beleza Americana, que ganhou o Oscar por ser mais "adulto". Porém, o filme de Kevin Spacey possui em seu pano de fundo a mesma sociedade e a mesma crítica (e, ponto seja dado, foi precursor a Darko). Por ser baixo orçamento, este é um trabalho bem mais solto, e nos leva a de fato questionar o que é está realidade que vivemos, em vez de simplesmente condená-la.

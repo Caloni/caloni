@@ -1,9 +1,11 @@
 ---
-date: "2014-05-31"
-link: "https://www.imdb.com/title/tt0489458"
-categories: [ "movies" ]
-title: "O Cheiro do Ralo"
+categories:
+- movies
+date: '2014-05-31'
+link: https://www.imdb.com/title/tt0489458
+title: O Cheiro do Ralo
 ---
+
 O Cheiro do Ralo fala sobre trocas, ou melhor dizendo, sobre o valor das coisas. Coisas podem se resumir em objetos que possuíam ou não valor sentimental para as pessoas que a oferecem ao Sr. Lourenço (Selton Mello), para receber em troca o dinheiro que, pelo menos naquele momento, é mais valioso que o objeto em si.
 
 A função do Sr. Lourenço é, obviamente, pagar o mínimo possível para obter o máximo de lucro. Essa rotina o fez virar um verdadeiro monstro materialista, pois seu poder (dinheiro) aliado à sua necessária habilidade em menosprezar os objetos ofertados e as pessoas que os ofertam. A bunda da garçonete no bar onde passa para almoçar é a coisa mais valiosa para ele. Nem o almoço é tão valioso, é acessório. Isso e coisas que representam bens intangíveis que ele nunca terá, como um olho, que para ele representa o pai.

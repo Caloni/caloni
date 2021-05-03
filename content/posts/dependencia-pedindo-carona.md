@@ -1,8 +1,11 @@
 ---
-date: "2011-01-04"
+categories:
+- draft
+- code
+date: '2011-01-04'
 title: Dependência pedindo carona
-categories: [ "draft", "code" ]
 ---
+
 Mesmo as vezes que você não queira, algumas dependências pedem carona e o compilador deixa entrar. Daí mesmo que você não use uma função API, ela acaba te atazanando a vida.
 
 Foi o caso da ToolHelp32 no Windows NT 4.

@@ -1,9 +1,12 @@
 ---
-date: "2016-11-26"
-link: "https://www.imdb.com/title/tt2101383"
-categories: [ "draft", "movies" ]
-title: "Cavaleiro de Copas"
+categories:
+- draft
+- movies
+date: '2016-11-26'
+link: https://www.imdb.com/title/tt2101383
+title: Cavaleiro de Copas
 ---
+
 É difícil não gostar do estilo do diretor Terrence Malick. Em meio ao turbilhão de narrativas que preferem esfregar fatos na cara do espectador a cada segundo, Malick está sempre disposto a dar tempo ao tempo, rodar por duas horas e nos fazer questionar a própria textura da realidade em que a história se passa. Suas aventuras não estão limitadas a eventos pontuais, mas a transformações graduais, assim como na vida. Tudo isso pode ser fascinante se você, assim como eu, se cansa às vezes da mesmice narrativa de filmes convencionais, ou, por outro lado, pode ser uma tortura eterna tentar acompanhar filmes como Cavaleiro de Copas, que insiste que o conteúdo faz parte da mensagem.
 
 Aqui, infelizmente, não é possível extrair muito da mensagem apenas pelo seu conteúdo, já que o diretor/escritor de A Árvore da Vida e Amor Pleno parece cada vez menos afeito a entregar as coisas facilmente para seu espectador. Entenda este filme como uma poesia que caminha através das dúvidas existenciais de Rick (Christian Bale) após a morte da mãe, e que junto do suposto suicídio do irmão tem motivos suficientes para questionar sua vida glamorosa de pop star em Hollywood, junto de seu outro irmão e o pai.

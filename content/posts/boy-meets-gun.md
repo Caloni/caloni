@@ -1,10 +1,14 @@
 ---
-date: "2019-10-22"
-link: "https://www.imdb.com/title/tt11007198"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Boy Meets Gun"
+categories:
+- draft
+- movies
+date: '2019-10-22'
+link: https://www.imdb.com/title/tt11007198
+tags:
+- cinemaqui
+title: Boy Meets Gun
 ---
+
 Fazendo um trocadilho com o filme icônico de Leos Carax (Boy Meets Girl), Boy Meets Gun é uma mistura de drama, comédia e investigação policial que consegue entreter com o mundinho criado pelo roteirista Willem Bosch, que também é o escritor do roteiro do cativante Afterlife, também em exibição nesta Mostra.
 
 A parte mais inusitada e divertida do longa dirigido por Joost van Hezik é que a narradora, apesar de não ser uma personagem no sentido de realizar alguma ação propositada, é uma pistola Desert Eagle (se você já jogou Counter Strike sabe que arma que é; para quem não jogou imagine uma pistola de mão que faz metade do estrago de um rifle). Bonita e estilosa, ela conta a sua história de como foi parar nas mãos de um professor de filosofia, em uma sequência nada sutil, mas que serve para nos jogar na ação facilmente.

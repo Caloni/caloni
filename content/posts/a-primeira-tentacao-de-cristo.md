@@ -1,10 +1,14 @@
 ---
-date: "2019-12-09"
-link: "https://www.imdb.com/title/tt11310004"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Primeira Tentação de Cristo"
+categories:
+- draft
+- movies
+date: '2019-12-09'
+link: https://www.imdb.com/title/tt11310004
+tags:
+- cinemaqui
+title: A Primeira Tentação de Cristo
 ---
+
 Já virou tradição de natal o grupo de comediantes do Porta dos Fundos em parceria com o serviço de streaming Netflix lançar no final do ano mais uma revisita bem-humorada ao clássico dos clássicos (pelo menos para o cristão). E em A Primeira Tentação de Cristo há mais um divertido estudo de personagens, que provoca tanto os mais dogmáticos quanto os mais heteroflexíveis.
 
 A historieta de menos de uma hora de duração é sobre o aniversário de 30 anos de Jesus, momento em que seu pai, seu verdadeiro pai, Deus (Antonio Tabet), irá revelar sua paternidade. Toda a brincadeira do roteiro escrito por Fábio Porchat e Gustavo Martins gira em torno das escolhas divinas de Jesus, a nova divindade que será finalmente revelada, o que significa entrar para a patota formada por Buda, Shiva, Alah (em uma divertida aparição) e até o deus do Tom Cruise (outra divertidíssima aparição).

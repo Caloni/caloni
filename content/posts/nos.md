@@ -1,9 +1,12 @@
 ---
-date: "2019-12-12"
-link: "https://www.imdb.com/title/tt6857112"
-categories: [ "draft", "movies" ]
-title: "Nós"
+categories:
+- draft
+- movies
+date: '2019-12-12'
+link: https://www.imdb.com/title/tt6857112
+title: Nós
 ---
+
 > "Portanto, assim diz o Senhor: Eis que trarei sobre eles mal, de que não poderão escapar; e, se clamarem a mim, não os ouvirei."
 
 Um grande filme não começa dizendo isso de primeira. Ainda mais em um gênero tão maltratado quanto o terror. Ele te pega pela mão em um momento inocente, e através desse momento constrói toda uma mitologia cheio de camadas em que as camadas irão sendo reveladas ao espectador sem pressa, durante a projeção, após os créditos e na hora de dormir. E após assistir "Nós" a sensação estando na cama é que até dormir será difícil.

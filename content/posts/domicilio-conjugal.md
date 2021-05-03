@@ -1,9 +1,11 @@
 ---
-date: "2010-08-17"
-link: "https://www.imdb.com/title/tt0065651"
-categories: [ "movies" ]
-title: "Domicilio Conjugal"
+categories:
+- movies
+date: '2010-08-17'
+link: https://www.imdb.com/title/tt0065651
+title: Domicilio Conjugal
 ---
+
 Comédia romântica francesa datada de 70 e conduzida por François Truffaut. Nesse caso temos um casal vivendo sua vida em um condomínio de casas que mais lembra, nos minutos iniciais, um bom cortiço brasileiro. Mas aos poucos os detalhes culturais vão ganhando forma, não prejudicando a mensagem principal, que é contar a história de um casal como outro qualquer que passa por suas felicidades e tristezas, juntos ou separados.
 
 A atuação do casal principal, Antoine (Jean-Pierre Léaud) e Christine (Claude Jade), é muito importante para a conexão com o público, e temos momentos em que nos vemos completamente sintonizados com aquela realidade, como quando ele a acompanha até o táxi tentando beijá-la e, no final, ela que pede o beijo.

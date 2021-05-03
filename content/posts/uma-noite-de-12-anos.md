@@ -1,9 +1,12 @@
 ---
-date: "2018-10-02"
-link: "https://www.imdb.com/title/tt6792282"
-categories: [ "draft", "movies" ]
-title: "Uma Noite de 12 Anos"
+categories:
+- draft
+- movies
+date: '2018-10-02'
+link: https://www.imdb.com/title/tt6792282
+title: Uma Noite de 12 Anos
 ---
+
 Este é um filme tão necessário que parece que chega atrasado. Mas se formos pensar que nunca é bom fazer um filme sobre um presidente enquanto ele é presidente então chegaremos à conclusão que o timing, afinal de contas, não poderia ter sido melhor. José Mujica, ex-presidente do Uruguai, entrou e saiu do comando do país entre 2010 e 2015; o mesmo país onde foi preso e torturado, entre os anos 70 e 80. Ainda vivo, com 83 anos, sua idade avançada parece ser mais um indício de como ele e outros dois prisioneiros políticos conseguiram sobreviver tanto tempo sem perder a sanidade: a simples vontade de viver.
 
 E o filme dirigido e escrito por Álvaro Brechner parece ser justamente sobre essa vontade, e como ela se cala e se manifesta dada a primeira oportunidade. Os três presos, interpretados por Com Antonio de la Torre (José Mujica), Alfonso Tort (Eleuterio Fernández Huidobro) e Chino Darín (filho de Ricardo Darín e que aqui faz Mauricio Rosencof), se entregam a interpretações que na mente e no corpo nos revelam a loucura completa quando ideologias fazem homens prenderem homens pelo simples fato deles pensarem diferente.

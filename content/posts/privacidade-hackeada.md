@@ -1,10 +1,14 @@
 ---
-date: "2019-08-03"
-link: "https://www.imdb.com/title/tt9358204"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Privacidade Hackeada"
+categories:
+- draft
+- movies
+date: '2019-08-03'
+link: https://www.imdb.com/title/tt9358204
+tags:
+- cinemaqui
+title: Privacidade Hackeada
 ---
+
 "Se você manter sua mente suficientemente aberta, as pessoas irão jogar um monte de lixo dentro dela." - William A. Orton, empresário do século 19
 
 Privacidade Hackeada é o título brasileiro desse documentário americano lançado pela Netflix, mas ele não tem nada a ver com privacidade e tudo a ver com inception, aquele conceito do filme A Origem onde uma ideia era implantada na cabeça de uma pessoa para que ela achasse que era sua desde o começo.

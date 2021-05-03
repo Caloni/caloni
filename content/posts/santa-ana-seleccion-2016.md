@@ -1,6 +1,8 @@
 ---
-date: "2017-08-10"
-categories: [ "food" ]
-title: "Santa Ana Seleccion 2016"
+categories:
+- food
+date: '2017-08-10'
+title: Santa Ana Seleccion 2016
 ---
+
 Sem ano, sem uva, de Mendoça/Argentina; Sem muito aroma ou sabor, custa 12 reais no mercado; corpo fraco. Tomando porque a Mitiko comprou pra fazer bebida doce.

@@ -1,9 +1,12 @@
 ---
-date: "2016-08-16"
-link: "https://www.imdb.com/title/tt3072482"
-categories: [ "draft", "movies" ]
-title: "Hardcore: Missão Extrema"
+categories:
+- draft
+- movies
+date: '2016-08-16'
+link: https://www.imdb.com/title/tt3072482
+title: 'Hardcore: Missão Extrema'
 ---
+
 Este não é um vídeogame, mas um filme que utiliza completamente a estética dos jogos de tiro em primeira pessoa. Ele tem uma narrativa coesa, e ainda que não tão bem articulada, qual filme de ação você conhece que consegue ser tão realista a ponto de enxergarmos toda a ação do ponto de vista do mocinho? Pior: que filme de ação hoje em dia consegue te entregar todo o pacote 18+, com direito a sangue, esquartejamento, esmagamento, esfaqueamento e outros "mentos" por aí, e não aquelas brincadeiras de criança da Marvel?
 
 Além disso, apesar da premissa simples (mocinho se vê em apuros e tem que sair dele) há várias ideias interessantes por trás de "Hardcore Henry", que piscam para os gamers, mas que consegue extrapolar isso para a sétima arte. As múltiplas vidas de seu amigo Jimmy é apenas a mais óbvio. O que dizer do vilão, um ser que consegue controlar através de sua mão objetos e pessoas, fazendo-os flutuar? E de quem é a brilhante ideia de utilizar memórias de jogos... quer dizer, vidas passadas -- ou implantadas -- para trazer motivação por trás dos ciborgues construídos em cima de seres humanos, senão a de um "gamer" (que, no caso, é justamente o vilão do filme por manipular seus "soldados")?

@@ -1,9 +1,11 @@
 ---
-date: "2012-06-13"
-link: "https://www.imdb.com/title/tt1277953"
-categories: [ "movies" ]
-title: "Madagascar 3: Os Procurados"
+categories:
+- movies
+date: '2012-06-13'
+link: https://www.imdb.com/title/tt1277953
+title: 'Madagascar 3: Os Procurados'
 ---
+
 Com uma primeira parte no modo automático, o filme dos ex-animais do zoológico do Central Park em Nova York mostra sinais de cansaço principalmente em suas velhas piadas, que hoje soam batidas e repetitivas. Para quebrar um pouco a monotonia é apresentada uma nova antagonista: uma inspetora de animais francesa e obcecada em capturar um leão para sua coleção de caça, que recebe uma introdução superficial demais para que ela se torne interessante, e serve apenas para tornar as cenas convenientemente aceleradas e preencher película para uma história curta demais, como pode ser notado em duas cenas "solo" particularmente descartáveis (incluindo uma embaraçosa referência a Edith Piaf utilizando o batidíssimo sucesso "Non, je ne regrette rien", que aparentemente é a única referência entendida pelo americano médio como algo francês).
 
 Caminhando pela mesma estratégia, somos também apresentados a uma truque (de animais) de circo, que parecem dar o frescor necessário para a série. Interessante nesse sentido é que ao conhecermos o leão marinho, tão ou mais carismático que o quarteto original, há a identificação muito forte como contraparte de Marty. Porém, talvez pela sua doce ignorância, e a expressão constante de estar sempre incomodando os outros pelo seu "QI um pouco abaixo da média", ele reafirme a esperança dos outros de um dia voltarem para casa (e note como os pelos do seu bigode e seus dentes desalinhados conseguem materializar seu espírito atrapalhado).

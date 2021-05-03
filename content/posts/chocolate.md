@@ -1,10 +1,14 @@
 ---
-date: "2016-06-03"
-link: "https://www.imdb.com/title/tt4400038"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Chocolat"
+categories:
+- draft
+- movies
+date: '2016-06-03'
+link: https://www.imdb.com/title/tt4400038
+tags:
+- cinemaqui
+title: Chocolat
 ---
+
 Chocolate é o mais novo trabalho de Osmar Sy e possui não apenas a simpatia que estamos acostumados a ver em seus filmes (Intocáveis, Samba), mas também um lado dramático do tipo que tornou filmes como Conduzindo Miss Daisy e 12 Anos de Escravidão tão fascinante.
 
 A história é de um personagem da vida real: O primeiro palhaço negro de sucesso que se apresentou em dupla com um branco na Paris de 1900. Como filme de época ele se torna mágico por nos transportar para cenários cheios de detalhes, seja na parte pobre quanto na parte rica da França. O uso das cores é obviamente um ponto forte, pois faz parte do tema racismo. Mas não só ele, como a colonização de países africanos e a sistemática submissão de indivíduos com a cor de pele "errada".

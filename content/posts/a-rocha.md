@@ -1,9 +1,12 @@
 ---
-date: "2019-09-29"
-link: "https://www.imdb.com/title/tt0117500"
-categories: [ "draft", "movies" ]
-title: "A Rocha"
+categories:
+- draft
+- movies
+date: '2019-09-29'
+link: https://www.imdb.com/title/tt0117500
+title: A Rocha
 ---
+
 Quem assiste os Transformers da vida de Michael Bay não entende como ele pode ser bom na direção usando o mesmo estilo vídeo-clipe que o tornou famoso. Mas ele é. E A Rocha está aí para provar que estou dizendo a verdade.
 
 Eis um filme, como qualquer Transformer, igualmente frenético, cheio de falas e personagens fúteis, mulheres que são apenas temas para a masculinidade, patriotismo ufanista e confuso. E mesmo assim absurdamente divertido de assistir, emocionante em alguns momentos, engraçado em tantos outros.

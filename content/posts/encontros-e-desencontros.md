@@ -1,9 +1,11 @@
 ---
-date: "2020-07-26"
-link: "https://www.imdb.com/title/tt0335266"
-categories: [ "movies" ]
-title: "Encontros e Desencontros"
+categories:
+- movies
+date: '2020-07-26'
+link: https://www.imdb.com/title/tt0335266
+title: Encontros e Desencontros
 ---
+
 Confesso que este filme me dava sono, mas havia algo mágico em seu ritmo quando o vi a primeira vez aos vinte e poucos anos. Ainda que de maneira inconsciente, havia percebido uma linda mensagem por trás dos eventos sempre banais da história dos ricos e famosos.
 
 Diálogos precisos e situações icônicas criam a atmosfera perfeita para um diálogo universal sobre solidão e isolamento. Este, sim, é um filme perfeito para se assistir nos momentos insuportáveis da quarentena, pois mostra o quão sozinho e sem esperança conseguimos nos sentir mesmo estando cercados de centenas de pessoas.

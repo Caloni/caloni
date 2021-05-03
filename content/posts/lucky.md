@@ -1,10 +1,14 @@
 ---
-date: "2017-12-07"
-link: "https://www.imdb.com/title/tt5859238"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Lucky"
+categories:
+- draft
+- movies
+date: '2017-12-07'
+link: https://www.imdb.com/title/tt5859238
+tags:
+- cinemaqui
+title: Lucky
 ---
+
 No princípio não havia nada. Havia uma tartaruga. Não. Um cágado. O cágado segue andando em seu ritmo. Havia também um velho. E o velho também segue andando. Lucky é seu nome, e consequentemente seu filme. Porém, este é um filme que palavras se cruzam. E significados. Dessa forma, "lucky" em inglês quer dizer sortudo, o que pode querer dizer que este pode ser o filme sobre o que é ser sortudo. E do ponto de vista de todos nós que vivemos, estar vivo é ser sortudo. Estar vivo e testemunhar o último filme de Harry Dean Stanton com a presença do diretor David Lynch atuando. E você sabe que a coisa é séria quando vemos Lynch dizer: "existem algumas coisas no mundo que são maiores que todos nós... e um cágado é uma delas!".
 
 Você pode estar agora achando esta introdução longa e sem sentido. Mas sentido é algo que Lucky sabe que depende muito do ponto de vista. O velho todos os dias faz seu exercício de ioga, fuma cerca de um maço de cigarro e bebe leite, café. E álcool. Uma ou outra Bloody Mary. Seu médico não vê sentido nele fumar tanto e ter seus pulmões intactos. "É uma anomalia genética", conclui seu "diagnóstico". E o mundo do velho, todo certinho, agora tem um ponto cego: ele não sabe por que tem a saúde perfeita e um dia desses caiu no chão. E isso o faz ter medo. Basicamente é sobre isso o filme.

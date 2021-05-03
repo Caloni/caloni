@@ -1,10 +1,14 @@
 ---
-date: "2019-03-29"
-link: "https://www.imdb.com/title/tt5501104"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Border"
+categories:
+- draft
+- movies
+date: '2019-03-29'
+link: https://www.imdb.com/title/tt5501104
+tags:
+- cinemaqui
+title: Border
 ---
+
 Border (fronteira em inglês) dialoga sobre vários limites entre dois elementos. Há o limite de fronteiras entre países, o limite das diferenças entre as pessoas, o limite da violência e da exploração, e por fim, um limite mais literal, material, que torna todo o resto irrelevante. E a beleza do filme está em escalar tudo isso com extrema humanidade, sem nos deixar afastar por repulsa em momento algum, por mais repulsivo que sua história pudesse ser vista sob narrativas mais convencionais. Curioso?
 
 Este é daqueles filmes que começa de um "jeito normal" e vai escalando suas reviravoltas em uma história de auto-descoberta, e é por isso que não falarei aqui sobre a maioria delas, para não estragar a surpresa. O que posso dizer é que o filme sugere ao nosso inconsciente de maneira muito elegante que algo está fora do lugar, mas quer que o espectador se coloque no lugar de sua protagonista, a curiosa Tina.

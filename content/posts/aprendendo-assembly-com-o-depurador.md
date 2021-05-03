@@ -1,8 +1,10 @@
 ---
-date: "2008-04-11"
-title: "Aprendendo assembly com o depurador"
-categories: [ "code" ]
+categories:
+- code
+date: '2008-04-11'
+title: Aprendendo assembly com o depurador
 ---
+
 Além de servir para corrigir alguns [bugs escabrosos] o nosso bom e fiel amigo depurador também possui uma utilidade inusitada: ensinar assembly! A pessoa interessada em aprender alguns conceitos básicos da arquitetura do 8086 pode se exercitar na frente de um depurador 16 ou 32 bits sem ter medo de ser feliz.
 
 Vamos ver alguns exemplos?

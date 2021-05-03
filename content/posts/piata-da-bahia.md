@@ -1,6 +1,8 @@
 ---
-date: "2015-06-05"
-categories: [ "food" ]
-title: "Piatã da Bahia"
+categories:
+- food
+date: '2015-06-05'
+title: Piatã da Bahia
 ---
+
 Bem forte, precisa colocar bem menos pó, mas depois que acerta a proporção é maravilhoso.

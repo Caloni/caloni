@@ -1,9 +1,12 @@
 ---
-date: "2018-09-28"
-link: "https://www.imdb.com/title/tt2911666"
-categories: [ "draft", "movies" ]
-title: "De Volta ao Jogo (John Wick)"
+categories:
+- draft
+- movies
+date: '2018-09-28'
+link: https://www.imdb.com/title/tt2911666
+title: De Volta ao Jogo (John Wick)
 ---
+
 Um drama pessoal que escala em uma espiral de violência e poder em um universo que caminha confortavelmente entre realismo e absurdo. O drama de perder a esposa doente depois de abandonar o trabalho que dava significado a sua vida é um realismo pesado. Roubarem seu carro e matar o cachorro que a esposa lhe deu como último presente é de um absurdo dilacerante que motiva qualquer um a sair em busca de vingança. E se você é John Wick isso significa uma sentença de morte para muita gente.
 
 Dirigido com um cuidado especial pelos diretores Chad Stahelski e David Leitch, onde o primeiro trabalhou na equipe de dublês em filmes de ação e o segundo estava envolvido em trabalhos similares, as cores e enquadramentos harmonizam lado a lado a atmosfera de solidão; o uso de uma tela mais estreita permite que o filme coloque John Wick no começo do filme em isolamento completo. No funeral, na chuva e com toda a cidade ao fundo, ele parece ter um único amigo que o cumprimenta debaixo de uma árvore. Já sua casa é gigantesca e que se torna ainda mais com o uso minimalista da direção de arte que usa poucos enfeites, e onde as cores frias desempenham o papel de estado de humor do personagem, à beira da depressão.

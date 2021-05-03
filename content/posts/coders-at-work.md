@@ -1,9 +1,13 @@
 ---
-date: "2011-10-14"
-categories: [ "code", "draft", "books" ]
-title: "Coders at Work: Reflections on the Craft of Programming"
+categories:
+- code
+- draft
+- books
+date: '2011-10-14'
+title: 'Coders at Work: Reflections on the Craft of Programming'
 ---
- > "Personally I have never believed that it is possible to be a good coder without being a good programmer nor a good programmer without being a good designer, communicator, and thinker." - Jamie Zawinski
+
+> "Personally I have never believed that it is possible to be a good coder without being a good programmer nor a good programmer without being a good designer, communicator, and thinker." - Jamie Zawinski
 
 Como Joel e Atwood disseram, a leitura de Coders At Work é tão útil quanto ler o código dos outros, só que em um estilo mais condensado, que se aproveita das décadas de experiência dessa gente para aprimorarmos nossos processos de desenvolvimento e, muitas vezes, a forma de pensarmos sobre software.
 

@@ -1,9 +1,12 @@
 ---
-date: "2019-01-29"
-link: "https://www.imdb.com/title/tt0093818"
-categories: [ "draft", "movies" ]
-title: "A Era do Rádio"
+categories:
+- draft
+- movies
+date: '2019-01-29'
+link: https://www.imdb.com/title/tt0093818
+title: A Era do Rádio
 ---
+
 Woody Allen pode ser uma caixinha de surpresas para quem apenas espera comédia em seus filmes. Se Meia Noite em Paris é seu filme saudosista mais bem sucedido, A Era do Rádio é o seu trabalho mais fofo. E dizer isso de Allen já me é uma surpresa e tanto.
 
 Narrado como suas memórias de infância, o diretor e roteirista judeu demonstra como um diário pode virar a documentação de uma era. Ao mesmo tempo que acompanhamos os acontecimentos da casa onde morava com pais, tios e tias, o filme vai nos conduzindo àquela época marcada pela presença do rádio no lugar da televisão, e consequentemente suas celebridades invisíveis com seus programas favoritos de uma ou outra pessoa da casa. Cada uma tinha o seu.

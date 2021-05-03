@@ -1,9 +1,12 @@
 ---
-date: "2016-02-27"
-link: "https://www.imdb.com/title/tt1431045"
-categories: [ "draft", "movies" ]
-title: "Deadpool"
+categories:
+- draft
+- movies
+date: '2016-02-27'
+link: https://www.imdb.com/title/tt1431045
+title: Deadpool
 ---
+
 A fórmula Marvel de produzir super-heróis enlatados é tão maldita que só um filme como Deadpool, que brinca com toda a produção desses mesmos enlatados, para conseguir se desvencilhar, ainda que parcialmente, dos seus outros filmes lançados a balde.
 
 É por isso que até seus créditos iniciais brincam com o processo de escalação, apresentando os personagens pelos seus estereótipos, tais como Um Cara Durão, Um Vilão, Um Personagem Feito de CGI, Uma Gostosa. Mais do que isso: declara que os roteiristas é que são os verdadeiros heróis.

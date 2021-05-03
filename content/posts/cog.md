@@ -1,9 +1,11 @@
 ---
-date: "2015-09-27"
-link: "https://www.imdb.com/title/tt1650393"
-categories: [ "movies" ]
-title: "C.O.G."
+categories:
+- movies
+date: '2015-09-27'
+link: https://www.imdb.com/title/tt1650393
+title: C.O.G.
 ---
+
 Uma experiência religiosa ou uma auto-descoberta sexual? Uma visão romântica de nossas diferenças de princípios ou um drama que tenta soar engraçado? Se sentindo com múltiplas personalidades, C.O.G. pode muito bem se apresentar como uma visão religiosa do mundo, pois usa a maçã como uma espécie de símbolo do pecado (e da tentação) e mantém em sua história uma estrutura esquizofrênica tão conhecida dos religiosos mais fanáticos.
 
 Este é o segundo filme de Kyle Patrick Alvarez e que apresenta a experiência de David/Samuel, um adolescente em época de faculdade com algumas dúvidas na cabeça e que resolve "fugir" (de maneira programada) para uma cidade agrícola e trabalhar nos campos de maçãs. Gay ainda não assumido (talvez nem para ele mesmo), veremos o rapaz se aventurar por todo o processo de colheita, escolha e venda de maçãs, e através disso andar meio-degrau em direção à sua maturidade, ao conhecer outros curiosos personagens que cruzarão seu caminho, para o bem E para o mal.

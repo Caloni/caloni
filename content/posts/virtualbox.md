@@ -1,8 +1,11 @@
 ---
-date: "2008-07-04"
+categories:
+- draft
+- blog
+date: '2008-07-04'
 title: VirtualBox
-categories: [ "draft", "blog" ]
 ---
+
 [![virtualbox_about_screen.png](http://i.imgur.com/SmWJn1o.png)](http://en.wikipedia.org/wiki/VirtualBox)O [VirtualBox](http://www.virtualbox.org) parece ser o concorrente mais próximo atualmente da [VMWare](http://www.vmware.com). Descobrimos ele essa semana e resolvemos fazer alguns testes. O resultado foi bem animador.
 
 Desenvolvido pela Sun Microsystems, as características do VirtualBox impressionam pelo cuidado que houve em torná-lo muito parecido com sua concorrente paga. Apenas para começar, ela suporta dispositivos USB, possui múltiplos snapshots e já suporta o modo do [VMWare Fusion](www.vmware.com/download/fusion) - chamado de _"seamless mode_" - , que estará integrado na versão 7 da VMWare.

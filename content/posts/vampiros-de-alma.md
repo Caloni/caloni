@@ -1,9 +1,11 @@
 ---
-date: "2020-04-20"
-link: "https://www.imdb.com/title/tt0049366"
-categories: [ "movies" ]
-title: "Vampiros de Alma"
+categories:
+- movies
+date: '2020-04-20'
+link: https://www.imdb.com/title/tt0049366
+title: Vampiros de Alma
 ---
+
 Este é o primeiro dessa série de filmes com a mesma história do romance de Jack Finney: uma ameaça de fora faz com que as pessoas se tornem vazias por dentro, mas iguais por fora. Todos os problemas serão resolvidos, desde que todos os humanos se transformem nessa forma sem sentimentos que entram em conflito com a comunidade.
 
 Soa exatamente como comunismo para mim. Seja hoje ou na época da guerra fria. Mas a questão genial colocada pelo filme é a ambiguidade do exagero dos mocinhos.

@@ -1,10 +1,14 @@
 ---
-date: "2017-07-09"
-revison: ['2017-08-03']
-link: "https://www.imdb.com/title/tt2250912"
-categories: [ "draft", "movies" ]
-title: "Homem-Aranha: De Volta ao Lar"
+categories:
+- draft
+- movies
+date: '2017-07-09'
+link: https://www.imdb.com/title/tt2250912
+revison:
+- '2017-08-03'
+title: 'Homem-Aranha: De Volta ao Lar'
 ---
+
 A re-re-estreia do Homem-Aranha em filme solo -- dessa vez no insosso universo dos Vingadores -- é uma divertida abordagem de um Peter Parker jovem e sem traumas (ou seja: sem Uncle Ben) que atualiza o personagem para uma época pressionada pela gangue do politicamente correto, mas também pela geração do bom humor, das ações sem consequências, do "Homem-Aranha do YouTube". Este é um filme definitivamente para assistir com pipoca, do lado dos filhos, sem estar muito preso aos detalhes que destoam dos gibis.
 
 A história aqui leva uma engraçada introdução filmada pelo próprio Peter Parker durante sua pequena incurssão em um filme dos Vingadores -- Guerra Civil -- através do seu celular. Revivemos essas cenas sob a narrativa de um jovem Parker que é fã desses super-heróis, e que agora ganha a chance de ser um pupilo do Homem de Ferro, que irá vigiar o herói da vizinhança de Nova York até que este esteja apto a fazer parte da equipe senior.

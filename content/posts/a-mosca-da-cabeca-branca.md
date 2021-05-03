@@ -1,9 +1,12 @@
 ---
-date: "2015-11-28"
-link: "https://www.imdb.com/title/tt0051622"
-categories: [ "draft", "movies" ]
-title: "A Mosca da Cabeça Branca"
+categories:
+- draft
+- movies
+date: '2015-11-28'
+link: https://www.imdb.com/title/tt0051622
+title: A Mosca da Cabeça Branca
 ---
+
 "The Fly" cria uma sensação de deslumbramento e fascinação pelo horror da possibilidade de acontecer na vida real o que vemos no filme. E o que vemos não é muito, e seus efeitos são irregulares. Porém, ao apostar no circunstancial em vez do puro deleite visual e gráfico, a obra não-datada da década de 50 mantém sua força dramática e a capacidade de fazer espectadores ainda hoje se pegarem pensando em como tudo isso é surreal, horrível e... fascinante.
 
 Seus personagens são tão críveis quanto incríveis. Um casal de uma família financeiramente confortável, o marido é um cientista que solitariamente realiza experimentos que desafiam os limites da ciência no conforto do porão de sua casa. Excêntrico por sua própria natureza, sua mulher o apoia, e seu pequeno filho mostra sinais de uma inteligência pura também se desenvolvendo ao máximo, o que é adorável. O irmão do cientista é apaixonado pela cunhada, e em uma noite fatídica recebe uma ligação dela dizendo para ele que o assassinou em uma prensa industrial.

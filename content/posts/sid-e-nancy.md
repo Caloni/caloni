@@ -1,9 +1,11 @@
 ---
-date: "2020-04-22"
-link: "https://www.imdb.com/title/tt0091954"
-categories: [ "movies" ]
-title: "Sid & Nancy, o Amor Mata"
+categories:
+- movies
+date: '2020-04-22'
+link: https://www.imdb.com/title/tt0091954
+title: Sid & Nancy, o Amor Mata
 ---
+
 Todo o clima insano, niilista, absurdo e depressivo do movimento punk da época dos Sex Pistols você confere neste filme sobre o baixista da banda e sua amada. Esta é uma biografia maior que suas partes, pois a sociedade vista por estas pessoas se reflete no filme e na forma com que seus heróis se enxergam.
 
 As músicas expressam esse clima regado a drogas e vivendo no limite. Não há nada de bonito na cabeça dessas pessoas, e é exatamente isso que gera as mini-obras de arte neste filme, como a sequência de vídeo-clipe, absurda, horrenda e fantástica. Os maiores poetas são os que sofreram mais.

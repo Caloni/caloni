@@ -1,9 +1,12 @@
 ---
-date: "2018-05-26"
-link: "https://www.imdb.com/title/tt6060156"
-categories: [ "draft", "movies" ]
-title: "Toc Toc"
+categories:
+- draft
+- movies
+date: '2018-05-26'
+link: https://www.imdb.com/title/tt6060156
+title: Toc Toc
 ---
+
 Este é um filme de mau-gosto. Ele explora como comédia diferentes tipos de Transtornos Obsessivo-Compulsivos. E ele não é de mau-gosto por causa do Politicamente Incorreto, mas justamente por causa dele. Como ele é leve demais se torna uma afronta usar a doença dessas pessoas para criar um filme sem graça, com piadas soltas e que não possui sequer personagens reais.
 
 Todos neste filme espanhol são estereótipos de criaturas que estão lotando os consultórios de psicólogos e terapeutas, afetados pela vida moderna. Mas são estereótipos fraquinhos, feitos para dar risadas esporádicas. Olhe para o senhor com Síndrome de Tourette, por exemplo, um transtorno em que a pessoa fala palavrões aleatoriamente sem controle. Aqui ele fala palavrões quase sempre a serviço do fraco roteiro de Vicente Villanueva.

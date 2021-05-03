@@ -1,10 +1,14 @@
 ---
-date: "2019-05-31"
-link: "https://www.imdb.com/title/tt6313378"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Memórias da Dor"
+categories:
+- draft
+- movies
+date: '2019-05-31'
+link: https://www.imdb.com/title/tt6313378
+tags:
+- cinemaqui
+title: Memórias da Dor
 ---
+
 A estrela de Memórias da Dor é definitivamente Mélanie Thierry. Neste drama psicológico acompanhamos em uma atmosfera sufocante a dor pendente da personagem de Thierry, a mulher que aguarda pelo retorno de seu marido ou pela notícia de sua morte. E a maior dor aqui não é a possível morte, mas a falta de resposta.
 
 Estamos na Segunda Guerra em uma Paris sitiada pelos alemães. Os franceses estão distribuídos em ambos os lados. Marguerite Duras (Thierry), escritora, tem seu marido capturado entre os presos de guerra. Eles são infiltrados dos aliados, mas o inspetor da Gestapo que cuida do caso não sabe disso, ou pelo menos essa é uma versão dos fatos. Marguerite se envereda como uma mulher aguardando pelo retorno do marido na guerra e ao mesmo tempo como uma espiã que tenta obter mais informações do paradeiro dos capturados. O clima sempre é de tensão. Tensão e dor por não saber quando a situação vai se resolver.

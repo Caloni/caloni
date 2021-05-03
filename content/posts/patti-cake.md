@@ -1,10 +1,14 @@
 ---
-date: "2017-11-18"
-link: "https://www.imdb.com/title/tt6288250"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Patti Cake$"
+categories:
+- draft
+- movies
+date: '2017-11-18'
+link: https://www.imdb.com/title/tt6288250
+tags:
+- cinemaqui
+title: Patti Cake$
 ---
+
 Patti Cake$ poderia ser facilmente resumido como uma mistura entre "Preciosa: Uma História de Esperança" (Lee Daniels, 2009) e "8 Mile: Rua das Ilusões" (Curtis Hanson, 2002), e qualquer um que tenha assistido a esses dois longas irá se identificar com o drama dos jovens artistas anônimos nas periferias das cidades grandes, rejeitados automaticamente pelas autoridades locais como vagabundos perdidos na sociedade.
 
 Porém, enquanto Preciosa e 8 Mile parecem se limitar em um drama vitimista com moral de superação, Patti Cake$ adota uma postura alto-astral. Poderia isto ser fruto de uma sociedade que rapidamente enriqueceu nesses 10, 15 anos, e se não espiritualmente, ao menos financeiramente? O filme deixa claro que há, sim, alguns problemas financeiros para a jovem Patti e sua família, mas pior do que eles é não poder viver seu sonho.

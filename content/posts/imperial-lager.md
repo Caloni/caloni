@@ -1,6 +1,8 @@
 ---
-date: "2017-05-15"
-categories: [ "food" ]
-title: "Imperial Lager"
+categories:
+- food
+date: '2017-05-15'
+title: Imperial Lager
 ---
+
 Meio refrescante, meio amarga. Penúltimo almoço no Dubai, restaurante árabe de Salta.

@@ -1,9 +1,12 @@
 ---
-date: "2019-03-06"
-link: "https://www.imdb.com/title/tt0318403"
-categories: [ "draft", "movies" ]
-title: "O Rei Leão 3 Hakuna Matata"
+categories:
+- draft
+- movies
+date: '2019-03-06'
+link: https://www.imdb.com/title/tt0318403
+title: O Rei Leão 3 Hakuna Matata
 ---
+
 Se Shakespeare tivesse visto essa versão de Rei Leão ele teria feito uma segunda versão de Sonhos de Uma Noite de Verão. Subtítulo: Hakuna Matata.
 
 Essa é uma repaginada para Home Video do neoclássico da Disney com a participação especial de Timão e Pumba, os palhaços do original e que aqui são devidamente colocados como coadjvuvanistas de sua própria jornada. Há várias referências da história original para não perdermos a cronologia e para piadas auxiliares, mas nem é necessário, pois essa suricata e esse javali são companhia o suficiente. Uma vez que se juntam a química faz parte do processo.

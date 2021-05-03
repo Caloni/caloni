@@ -1,8 +1,11 @@
 ---
-date: "2015-10-28"
-title: "Indexando símbolos com rapidez"
-categories: [ "draft", "blog" ]
+categories:
+- draft
+- blog
+date: '2015-10-28'
+title: Indexando símbolos com rapidez
 ---
+
 Trabalhar com inúmeros projetos de diferentes clientes e diferentes binários pode ser uma loucura. Quando o mundo é Windows, algumas medidas precisam ser padronizadas para evitar a perda de informação durante todo o processo de desenvolvimento, testes, deploy e manutenção.
 
 A respeito do deploy e manutenção, um dos principais é manter o código sempre atualizado, limpo e asseado, além de estar dentro de pelo menos um controle de fonte, de preferência distribuído ([Mercurial](http://caloni.com.br/guia-basico-de-controle-de-codigo-mercurial), [Git](http://caloni.com.br/depurando-ate-o-fim-do-mundo-e-de-volta-de-novo-source-server-com-github), [Bazaar](http://caloni.com.br/guia-basico-de-repositorios-no-bazaar)).

@@ -1,9 +1,12 @@
 ---
-date: "2018-05-04"
-link: "https://www.imdb.com/title/tt6890582"
-categories: [ "draft", "movies" ]
-title: "Psychokinesis"
+categories:
+- draft
+- movies
+date: '2018-05-04'
+link: https://www.imdb.com/title/tt6890582
+title: Psychokinesis
 ---
+
 O cinema coreano é inventivo e espalhafatoso. Ou serão os próprios coreanos? Em Psychokinesis, o diretor do premiado Invasão Zumbi nos apresenta o que dificilmente Hollywood entende: que filmes de ação ficam melhores quando há um drama no meio. E nesse caso o drama é o elemento principal, tornando o herói do filme um super-herói no sentido literal da palavra. E apesar dos efeitos visuais serem desajeitados em algumas cenas, a alma do filme já é tão bem formada que dificilmente a magia se quebra; ela apenas se torna mais realista.
 
 E a alma é interpretada pelo ator Seung-ryong Ryu com uma entrega visceral. Ele faz o perdedor clássico de moral duvidosa e que tem que melhorar para ajudar sua impetuosa mas vulnerável filha, interpretada por Eun-kyung Shim (que também participou de Invasão Zumbi), dona de um restaurante de sucesso que tem seus dias contados quando uma mega-empreiteira corrupta passa por cima das vidas dos pequenos comerciantes de um centro de compras tradicional para construir mais uma obra faraônica e dissociada dos moradores locais.

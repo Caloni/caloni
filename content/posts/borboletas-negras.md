@@ -1,9 +1,11 @@
 ---
-date: "2020-03-28"
-link: "https://www.imdb.com/title/tt0906778"
-categories: [ "movies" ]
-title: "Borboletas Negras"
+categories:
+- movies
+date: '2020-03-28'
+link: https://www.imdb.com/title/tt0906778
+title: Borboletas Negras
 ---
+
 Essa poetisa é maluquinha. Ingrid Jonker o nome dela. Morreu aos 32 anos. Houve um pequeno hiato antes de sua morte em que ela conheceu Jack Cope, um escritor mais velho que só escreveu um livro e que se esforçava para focar em outro. Jack salvou sua vida no dia que se conheceram, e ele se apaixonou perdidamente por esta libertina que é o resultado mais que previsível de um pai autoritário.
 
 Seu pai defende a superioridade branca em plena África do Sul e em pleno Apartheid. Ele é o censurador de livros em um período politicamente tenso da história. Nelson Mandela ainda seria um nome a ser lembrado, e é o único nome que vemos no filme.

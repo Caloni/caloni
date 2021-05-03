@@ -1,9 +1,11 @@
 ---
-date: "2020-04-22"
-link: "https://www.imdb.com/title/tt0053198"
-categories: [ "movies" ]
-title: "Os Incompreendidos"
+categories:
+- movies
+date: '2020-04-22'
+link: https://www.imdb.com/title/tt0053198
+title: Os Incompreendidos
 ---
+
 Primeiro filme do Truffaut, meio biográfico (o cineasta foi um delinquente juvenil), exemplo de [Nouvelle Vague]. Esse foi o começo da desconstrução da narrativa burguesa opressora.
 
 Mas nada disso importa muito, pois o filme funciona porque mostra a verdade, que está nessa relação pais e filho, nas trocas de frases que todo filho já ouviu. Abortar ou não abortar, adoção, um pai brincalhão e uma mãe entediada e nervosa por ter um filho e viver em lugar apertado na capital com ela trabalhando. Esta é uma das "Parises" mais realistas, tanto que me sinto em São Paulo da minha infância. Isso porque algo acontece com a verdade quando ela é transparente: se torna universal. E toda cidade grande se parece. Toda vida humana tem em parte o drama da incompreensão.

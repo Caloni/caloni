@@ -1,9 +1,12 @@
 ---
-date: "2019-04-29"
-categories: [ "food" ]
-tags: [ "wine" ]
-title: "Humberto Canale"
-------
+categories:
+- food
+date: '2019-04-29'
+tags:
+- wine
+title: Humberto Canale
+---
+
 Os Malbecs do Rio Negro, na Patagônia argentina, são densos, mas ainda mantém a fruta e o aroma de um Malbec, como este Humberto Canale 2017, que é elegante em alguns momentos, ríspido em outros.
 date: "2019-05-29"
 categories: [ "food" ]

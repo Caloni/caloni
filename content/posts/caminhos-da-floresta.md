@@ -1,9 +1,11 @@
 ---
-date: "2015-05-11"
-link: "https://www.imdb.com/title/tt2180411"
-categories: [ "movies" ]
-title: "Caminhos da Floresta"
+categories:
+- movies
+date: '2015-05-11'
+link: https://www.imdb.com/title/tt2180411
+title: Caminhos da Floresta
 ---
+
 Eu não gostava de musicais, mas aprendi a gostar através de trabalhos fabulosos do gênero, como Noviça Rebelde e Moulin Rouge. Também posso dizer que gosto de trabalhos menos fabulosos como Chicago. Agora, do mesmo diretor, Rob Marshall, esse Into the Woods mostra claramente quando um musical deixa de ser um filme aceitável: quando se torna insuportável a ideia de mais algum ator cantando.
 
 Mesmo com a participação bem especial de Meryl Streep como a bruxa má, o filme não se sustenta ao tentar juntar diversas histórias do folclore infantil -- Chapeuzinho Vermelho, Rapunzel, Cinderela, João e o Pé de Feijão, entre outros -- e se enxergar através da sempre distorcida lente da fábrica de ingenuidades repetitivas Disney. Mesmo que a primeira metade fosse passável, o que ocorre depois alonga tanto uma experiência já arrastada, que se torna enfadonha, mais do mesmo, aborrecida e revela uma falta de criatividade problemática em toda sua longa conclusão. Tudo em prol de deixar o destino de seus personagens menos doloroso. Ou seja, retira-se o conflito, coloca-se mais música e tudo se resolve. Era só isso? Então para quê tanta história? Até uma leve traição colocaram!

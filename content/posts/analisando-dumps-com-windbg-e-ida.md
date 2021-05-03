@@ -1,8 +1,10 @@
 ---
-date: "2008-01-10"
-categories: [ "code" ]
-title: "Analisando Dumps com WinDbg e IDA"
+categories:
+- code
+date: '2008-01-10'
+title: Analisando Dumps com WinDbg e IDA
 ---
+
 Apesar de ser recomendado que 100% dos componentes de um software esteja configurado corretamente para gerar símbolos na versão release, possibilitando assim a visualização do nome das funções internas através de um arquivo de dump (despejo) gerado na ocorrência de um crash, essa verdade só ocorre em 80% das vezes. Quis Murphy que dessa vez a única parte não "simbolizada" fosse a que gerou a tela azul em um Intel Quad Core que estou analisando esses dias.
 
 Para incluir um programa novo em nosso leque de opções, vamos usar dessa vez uma ferramenta chamada IDA, um disassembler estático cujo nome é uma clara homenagem à nossa primeira programadora da história. E, é lógico, o WinDbg não poderá ficar de fora, já que ele será nosso analisador de dumps.

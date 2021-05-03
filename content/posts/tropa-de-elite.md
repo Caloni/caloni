@@ -1,9 +1,11 @@
 ---
-date: "2010-09-25"
-link: "https://www.imdb.com/title/tt0861739"
-categories: [ "movies" ]
-title: "Tropa de Elite"
+categories:
+- movies
+date: '2010-09-25'
+link: https://www.imdb.com/title/tt0861739
+title: Tropa de Elite
 ---
+
 Assisti depois de muito tempo ter sido uma febre entre as pessoas. As frases que se tornaram famosas ouvi pela primeira vez. Mas nem por isso o filme deixou de ter o peso que acreditava que tivesse.
 
 A história conta sobre o Batalhão de Operações Especiais da polícia do Rio de Janeiro, uma cidade em eterna guerra com os traficantes. Melhor que isso, a história aborda vários esquemas de corrupção e o funcionamento do treinamento dos policiais que integram o BOPE.

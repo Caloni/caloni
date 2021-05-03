@@ -1,10 +1,12 @@
 ---
-date: "2019-09-08"
-categories: [ "draft", "books" ]
-title: "Story, by Robert McKee"
+categories:
+- draft
+- books
+date: '2019-09-08'
+title: Story, by Robert McKee
 ---
 
- - An archetypal story creates settings and characters so rare that our eyes feast on every detail, while its telling illuminates conflicts so true to humankind that it journeys from culture to culture.
+- An archetypal story creates settings and characters so rare that our eyes feast on every detail, while its telling illuminates conflicts so true to humankind that it journeys from culture to culture.
  - First, the discovery of a world we do not know. No matter how intimate or epic, contemporary or historical, concrete or fantasized, the world of an eminent artist always strikes us as somewhat exotic or strange. Like an explorer parting forest leaves, we step wide-eyed into an untouched society, a cliché-free zone where the ordinary becomes extraordinary.
  - Second, once inside this alien world, we find ourselves. Deep within these characters and their conflicts we discover our own humanity. We go to the movies to enter a new, fascinating world, to inhabit vicariously another human being who at first seems so unlike us and yet at heart is like us, to live in a fictional reality that illuminates our daily reality. We do not wish to escape life but to find life, to use our minds in fresh, experimental ways, to flex our emotions, to enjoy, to learn, to add depth to our days.
  - Story is about thoroughness, not shortcuts.

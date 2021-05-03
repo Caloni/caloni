@@ -1,10 +1,14 @@
 ---
-date: "2016-04-07"
-link: "https://www.imdb.com/title/tt3014866"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Mente Criminosa"
+categories:
+- draft
+- movies
+date: '2016-04-07'
+link: https://www.imdb.com/title/tt3014866
+tags:
+- cinemaqui
+title: Mente Criminosa
 ---
+
 Mente Criminosa consegue ser um filme de ação e com temas pensantes. Ele discute política, moral e até filosofia. Usa um pouco de ficção científica na receita, mas apenas o suficiente para explorar os temas já citados.
 
 E tem Kevin Costner como um dos poucos atores capazes de fazer um personagem como esse "acreditável". Ele é Jerico, um criminoso que sofreu um trauma em seu cérebro causado pelo pai na infância, possibilitando que ele fosse escolhido como cobaia para um experimento nada convencional. Apesar de vítima das circunstâncias, ele parece ter a violência em seu DNA, e o filme reflete toda essa violência. Ainda assim, ao ser "infectado" com uma dose de moral e sentimentos de um ex-agente da CIA, ele começa gradualmente a questionar suas ações.

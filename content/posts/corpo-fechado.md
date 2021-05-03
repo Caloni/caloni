@@ -1,9 +1,12 @@
 ---
-date: "2019-07-24"
-link: "https://www.imdb.com/title/tt0217869"
-categories: [ "draft", "movies" ]
-title: "Corpo Fechado"
+categories:
+- draft
+- movies
+date: '2019-07-24'
+link: https://www.imdb.com/title/tt0217869
+title: Corpo Fechado
 ---
+
 O que segura Corpo Fechado do começo ao fim é o seu tema, que se resume em uma pergunta, a mais instigante das perguntas: seriam os heróis dos gibis exageros do mundo real?
 
 Essa não é uma pergunta tão ingênua a ponto de soar fantástica, pois basta observar os mitos antigos e os livros sagrados e seus inúmeros milagres relatados para perceber que o mundo já está cheio de imaginação e metáforas nas artes e cultura. Gigantes podem ser pessoas que nasceram com estatura muito acima do normal e monstros pessoas muito feias/repugnantes. Por que não super-heróis não seriam versões exageradas e idealizadas de seres humanos com algumas habilidades que soam sobrenatural a qualquer outro ser humano medíocre?

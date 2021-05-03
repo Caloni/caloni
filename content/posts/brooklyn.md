@@ -1,9 +1,12 @@
 ---
-date: "2016-07-31"
-link: "https://www.imdb.com/title/tt2381111"
-categories: [ "draft", "movies" ]
-title: "Brooklyn"
+categories:
+- draft
+- movies
+date: '2016-07-31'
+link: https://www.imdb.com/title/tt2381111
+title: Brooklyn
 ---
+
 Aroma de série de TV. Acontecimentos espaçados em episódios, convenientemente movendo a história. Apesar disso, este é um filme que consegue dialogar o tema da imigração com uma sutileza ímpar ao lidar com o arco narrativo de sua heroína de maneira sóbria.
 
 A heroína decide sair de sua terra natal, Irlanda, e ir tentar a sorte na América, mais especificamente em Nova York, mais especificamente no bairro que dá título ao filme e que possui cada vez mais irlandeses.

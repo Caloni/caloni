@@ -1,8 +1,10 @@
 ---
-date: "2007-11-01"
+categories:
+- blog
+date: '2007-11-01'
 title: Desenvolvendo em linha de comando
-categories: [ "blog" ]
 ---
+
 Desde uns tempos para cá o Visual Studio tem se tornado uma das ferramentas mais pesadas de desenvolvimento já criadas. Como se não bastasse, a compilação de pequenos trechos de código é algo desnecessariamente complicado no ambiente. Por esse motivo estou ganhando o costume de usar a linha de comando para esse tipo de tarefa. Afinal de contas, na maioria das vezes a única coisa que eu preciso fazer é abrir o atalho "Visual Studio Command Prompt" e digitar uma linha: cl meu-codigo-fonte-do-coracao.cpp.
 
 O problema é ter que "andar" do diretório padrão de início até a pasta onde está o código-fonte que desejo compilar. Porém, isso é facilmente resolvido com uma linha (no registro), dentro de HKCR, Folder, shell, Console, command crie a chamada ao cmd.exe passando a bat que constrói o ambiente para o Visual Studio C++. A partir daí, o comando "Console" existe no menu de contexto de qualquer pasta que clicarmos no Windows Explorer.

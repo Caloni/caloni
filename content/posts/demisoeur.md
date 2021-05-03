@@ -1,9 +1,12 @@
 ---
-date: "2016-03-13"
-link: "https://www.imdb.com/title/tt2200144"
-categories: [ "draft", "movies" ]
-title: "Demi-soeur"
+categories:
+- draft
+- movies
+date: '2016-03-13'
+link: https://www.imdb.com/title/tt2200144
+title: Demi-soeur
 ---
+
 Essa comédia francesa com certeza segue o molde do estereótipo... "comédia francesa". Fala sobre amor em família, personagens cativantes e transformações de caráter.
 
 Porém, se engana quem acha que conhece o enredo logo que este inicia. Revelando surpresas curiosas a cada nova fase de sua história, a chegada da deficiente mental Nénette (Josiane Balasko) à vida de seu até então desconhecido irmão Paul (Michel Blanc) é irregular e fascinante de se acompanhar, pois pequenos detalhes serão usados a seu favor (como o fato de Nénette ter uma tartaruga de estimação, e Paul ter o hobby de colecionar animais marinhos).

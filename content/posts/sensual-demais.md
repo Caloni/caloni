@@ -1,9 +1,12 @@
 ---
-date: "2020-01-16"
-link: "https://www.imdb.com/title/tt0226540"
-categories: [ "draft", "movies" ]
-title: "Sensual Demais"
+categories:
+- draft
+- movies
+date: '2020-01-16'
+link: https://www.imdb.com/title/tt0226540
+title: Sensual Demais
 ---
+
 Segundo filme da trilogia iniciada por Lovers, que é o quinto filme do Dogma 95, este filme do ator e diretor Jean-Marc Barr ainda possui as influências do movimento artístico iniciado por Lars von Trier de quando o ator participou do Dançando no Escuro: sem edições de fotografia e iluminação, cenários praticamente ou muito próximos do real, sons diegéticos, câmera na mão. O que o dogma não cobre é a parte boa: atores fingindo estarem em um filme amador, se divertindo loucamente com uma história estapafúrdia e divertindo o espectador, incerto se está vendo um soft porn caseiro ou um trabalho de apelo ao cinema íntimo e pessoal, longe das grandes avenidas dos estúdios de Hollywood.
 
 Apesar das técnicas pedestres, a história não perde seu ritmo, e os atores são todos conhecidos e fizeram vários filmes, embora este soe totalmente amador e digno de comparação com The Room, o novo clásico dos filmes ruins. No entanto, ele é coerente, apesar de inchado, mas seu inchaço e suposto amadorismo é o que torna ele adorável, impossível de não gostar, porque ele apresenta um protagonista cativante e um diretor despretensioso, apesar de ambos, ou o mesmo, empenhados. Várias cenas parecem mal feitas, mas cumprem o que um filme precisa para fluir. Isso o torna um ótimo filme ruim.

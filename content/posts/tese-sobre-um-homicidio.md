@@ -1,9 +1,12 @@
 ---
-date: "2015-12-23"
-link: "https://www.imdb.com/title/tt2241605"
-categories: [ "draft", "movies" ]
-title: "Tese Sobre um Homicídio"
+categories:
+- draft
+- movies
+date: '2015-12-23'
+link: https://www.imdb.com/title/tt2241605
+title: Tese Sobre um Homicídio
 ---
+
 Ricardo Darín é um advogado que dá aulas e testemunhou com seus alunos o corpo de uma garota assassinada na frente de sua sala de aula, na Universidade de Advocacia de Buenos Aires. Na véspera havia ido ao lançamento de seu livro, A Estrutura da Justiça, onde tem uma conversa curiosa com um dos seus alunos, filho de um amigo de longa data. O aluno comenta que sua teoria sobre a justiça é que qualquer um pode matar borboletas se não pertencer a um poderoso, já que a lei só existe para protegê-los. Agora, adivinhe qual o inseto que havia no pingente que estava no pescoço da garota assassinada?
 
 Tese Sobre um Homicídio peca pelo exagero em sua trilha sonora, em suas cenas girando, em seu ritmo excessivamente lento e em um diretor que acha que está abafando por inserir seus personagens em cenas que formam um mosaico de informações que lembram a bagunça característica dos quadros de Picasso. O mesmo aluno que citei, que obviamente vira suspeito na teoria que se forma na cabeça do advogado-professor, comenta que a obra-prima de Picasso, para ele, é a que sintetiza todos os sacrifícios feitos para a salvação da humanidade. Tentamos a todo o custo entender as metáforas por trás dessa história, mas o máximo que conseguimos é relacionar a referência da borboleta em O Silêncio dos Inocentes.

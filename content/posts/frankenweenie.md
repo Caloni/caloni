@@ -1,9 +1,11 @@
 ---
-date: "2012-11-16"
-link: "https://www.imdb.com/title/tt1142977"
-categories: [ "movies" ]
-title: "Frankenweenie"
+categories:
+- movies
+date: '2012-11-16'
+link: https://www.imdb.com/title/tt1142977
+title: Frankenweenie
 ---
+
 Desde o início há algo de mágico em Frankenweenie. Baseado em um curta dirigido pelo próprio Tim Burton e, quem diria, produzido pela Disney, o diretor e roteiro repetem os mesmos passos certeiros do trabalho original, conseguem desviar dos errados e acrescentam, além de uma divertidíssima homenagem ao Terror em seus momentos mais fortes, uma saudável discussão em torno de como as pessoas enxergam a ciência hoje em dia. Afinal de contas, o Frankestein de Mary Shelley nunca esteve tão presente nas discussões de botequim, misturado com superstições religiosas que continuam assombrando-nos até hoje.
 
 A história reconta o clássico de terror sob o ponto de vista do garoto Victor Frankestein (Charlie Tahan) e o seu cachorro Sparky, que devido a um acidente fatal, acaba falecendo e deixando Victor desconsolado. Até que ele tem uma ideia inspirada nas explicações do seu estranho professor Sr. Rzykruski (Martin Landau), que tenta apresentar a ciência para as mentes jovens dos seus alunos como o potencial criador de perguntas e respostas que leva a humanidade a dar passos cada vez maiores. A ideia, como não poderia deixar de ser, dá certo, e Victor consegue trazer Sparky de volta do mundo dos mortos.

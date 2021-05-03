@@ -1,9 +1,12 @@
 ---
-date: "2016-10-12"
-link: "https://www.imdb.com/title/tt2404435"
-categories: [ "draft", "movies" ]
-title: "Sete Homens e um Destino"
+categories:
+- draft
+- movies
+date: '2016-10-12'
+link: https://www.imdb.com/title/tt2404435
+title: Sete Homens e um Destino
 ---
+
 Remake do clássico de Akira Kurosawa em 1960, série televisiva em 1998, e agora uma revisita muito bem-vinda à história da defesa dos fracos e oprimidos por matadores profissionais. Menos pela discussão da questão da honra dos sete homens do título; mais como lente de aumento das mudanças ocorridas nos EUA que o fizeram sair do título de país da liberdade para uma ditadura socialista em questão de décadas.
 
 A visão atualizada contém um elenco afiado e transformado para a época do velho oeste, que inclui um peregrino clássico, jusnaturalista religioso extremamente realista (e inspirador) interpretado por Vincent D'Onofrio, um apostador inundado de superstições e remorso (Ethan Hawke), um alívio cômico que contém ainda a energia necessária para as cenas de ação (o cada vez melhor Chris Pratt), e o inspiradíssimo Denzel Washington, que, digno de prêmios, recria o líder da gangue montada para defender o território de fazendeiros/mineiros das garras do monstro capitalista encarnado por Peter Sarsgaard.

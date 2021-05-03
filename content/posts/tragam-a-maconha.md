@@ -1,10 +1,14 @@
 ---
-date: "2018-10-18"
-link: "https://www.imdb.com/title/tt5069072"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Tragam a Maconha"
+categories:
+- draft
+- movies
+date: '2018-10-18'
+link: https://www.imdb.com/title/tt5069072
+tags:
+- cinemaqui
+title: Tragam a Maconha
 ---
+
 Este é um mockumentary engraçadinho, que não tem muitas pretensões de ser mais que isso. Talvez seja uma boa pedida entre sessões mais pesadas da Mostra de São Paulo para dar uma aliviada no meio de tantos dramas e críticas sociais e políticas, porque por incrível que pareça, este filme não tem nada disso.
 
 Isso porque estamos falando de um assunto sério: a liberação da maconha. Uma causa que já deve somar umas cinco décadas pelo menos nos EUA e que teve como seu primeiro país do mundo a legalizá-la o Uruguai, um povo pacato da América do Sul. Seu presidente, Pepe Mujica (que possui algumas cenas no filme), é considerado o mais pobre do mundo. Ele tem um fusquinha, mora em uma casa humilde e quer deixar como legado essa lei.

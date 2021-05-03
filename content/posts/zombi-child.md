@@ -1,10 +1,14 @@
 ---
-date: "2020-03-04"
-link: "https://www.imdb.com/title/tt9056192"
-categories: [ "draft", "movies", ]
-tags: [ "cinemaqui"  ]
-title: "Zombi Child"
+categories:
+- draft
+- movies
+date: '2020-03-04'
+link: https://www.imdb.com/title/tt9056192
+tags:
+- cinemaqui
+title: Zombi Child
 ---
+
 Das profundezas do meu inconsciente trasheiro, eu esperava, sinceramente, ver zumbis cinematográficos em Zombi Child, um filme que não desiste de apresentar sua "revelação final" mesmo que depois de quinze minutos de tela nós espectadores já soubéssemos qual é.
 
 Zumbis nos alegram desde George A. Romero e suas criaturas fantásticas que surgem na calada da noite. Este filme de Bertrand Bonello poderia reciclar sua ideia de reapresentar conceitos consagrados em uma nova roupagem e escolher não fazer nada disso, voltando para o bom e belo lixão da meia-noite. Não precisava ser nada plagiado dos clássicos anteriores, mas a julgar pela capa, com duas moças bonitas no elenco, poderia ser algo próximo de "As Strippers Zumbi" (Jay Lee, 2007) ou "Orgulho e Preconceito e Zumbis" (Burr Steers, 2016). Eu sairia mais feliz da sessão. Todos sairiam mais felizes. E pensando em moças zumbis. Não há divertimento maior dentro de uma sala de cinema.

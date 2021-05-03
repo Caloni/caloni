@@ -1,9 +1,12 @@
 ---
-date: "2019-07-17"
-link: "https://www.imdb.com/title/tt6320628"
-categories: [ "draft", "movies" ]
-title: "Homem Aranha: Longe De Casa"
+categories:
+- draft
+- movies
+date: '2019-07-17'
+link: https://www.imdb.com/title/tt6320628
+title: 'Homem Aranha: Longe De Casa'
 ---
+
 Começando como uma Sessão da Tarde de férias e terminando com um Tom Holland um pouco mais maduro em seu papel de collant, "Spider-Man: Far from Home" é o filme que consolida o status-quo da Aranha-Teen junto da saga infinita da Marvel, a mega-produtora da série para o cinema. Com a vantagem em já possuir fãs assíduos da saga, o episódio conta com um casting minimalista de personagens e atores carismáticos que piscam o tempo todo sobre onde vivem, as aventuras que viveram e os heróis que eles conhecem. E que estão ocupados porque essa é a aventura de um adolescente e sua puberdade.
 
 O roteiro de Chris McKenna realiza uma das alegorias mais visuais sobre fake news até agora, com um óbvio vilão que se utiliza de ilusões para possuir o afeto de seu público em uma fala final profética: "Você verá; as pessoas precisam acreditar. E irão acreditar em qualquer coisa". Destaco essa fala porque ela resume de maneira trágica o que nos torna humanos, sendo uma virtude ou uma falha, e que soa como ameaça quando nos enxergamos em áreas sensíveis como política e religião.

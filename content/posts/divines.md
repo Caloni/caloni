@@ -1,9 +1,12 @@
 ---
-date: "2016-11-27"
-link: "https://www.imdb.com/title/tt4730986"
-categories: [ "draft", "movies" ]
-title: "Divines"
+categories:
+- draft
+- movies
+date: '2016-11-27'
+link: https://www.imdb.com/title/tt4730986
+title: Divines
 ---
+
 Eis mais um drama francês sobre a pobreza dos imigrantes e dos desprezados pelo sistema. Porém, este é o pano de fundo de uma história de uma amizade tocante entre duas amigas que compartilham tudo isso, e também uma pitada de romance porque... porque sim. Mas o rapaz é segurança de mercado e dançarino, o que já coloca um pouco de arte e a questão de gêneros na fórmula mágica esquerdista. Esse pessoal não perde tempo contando apenas um drama de cada vez.
 
 A força-motrix dessa história é Dounia, uma garota magrela, petulante e esperta que é interpretada com energia por Oulaya Amamra. Ela é amiga desde infância de Maimouna, como deixa claro na química entre as duas, em um momento onde ambas brincam de andar em uma Ferrari imaginária. Maimouna é interpretada pela estreante Déborah Lukumuena e é um bom achado. Seu jeito espontâneo funciona perfeitamente neste conto de duas meninas que tentam alçar voo no mundo do crime com a sombra do perigo sempre as ameaçando.

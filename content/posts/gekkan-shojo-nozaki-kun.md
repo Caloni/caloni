@@ -1,9 +1,12 @@
 ---
-date: "2020-05-16"
-link: "https://www.imdb.com/title/tt3615002"
-categories: [ "series", "animes" ]
-title: "Gekkan Shojo Nozaki Kun"
+categories:
+- series
+- animes
+date: '2020-05-16'
+link: https://www.imdb.com/title/tt3615002
+title: Gekkan Shojo Nozaki Kun
 ---
+
 Assisti a esta série a temporada inteira e me esforcei para não debochar da fórmula e em troca ganhei algumas piadinhas. Algumas até engraçadas, mesmo que previsíveis. Quem não liga para isso é mais feliz assistindo animes.
 
 É até possível sair da fórmula imposta pelos gêneros de animes, como este "mangá para garotas", mas esta é uma série que não o faz. A ideia é uma história onde a menina se apaixona por um desenhista de... acertou: mangá para garotas. Quase como um Madoka Mágica Shojo, se este anime usasse sua ideia diferente não apenas como porta de entrada, mas também no desenvolvimento da história.

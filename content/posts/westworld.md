@@ -1,9 +1,12 @@
 ---
-date: "2018-12-30"
-link: "https://www.imdb.com/title/tt0475784"
-categories: [ "draft", "series" ]
-title: "Westworld"
+categories:
+- draft
+- series
+date: '2018-12-30'
+link: https://www.imdb.com/title/tt0475784
+title: Westworld
 ---
+
 Eu fui programado para escrever esse texto? Posso responder, na melhor das hipóteses, que eu estar escrevendo este texto é consequência da soma das minhas ações. No entanto, volta outra pergunta no lugar: eu fui programado para executar tais ações?
 
 A série televisiva -- leia-se: lotada de enchimento de linguiça -- Westworld tenta explorar essa questão nos entregando em sua história um parque temático com representações físicas fidedignas de seres humanos, que interagem com os visitantes como personagens "de carne e osso" do velho oeste. Isso permite que os clientes satisfaçam seus desejos mais profundos, geralmente sádicos e sexuais, e ao mesmo tempo coloca em xeque nossos conceitos de moral e ética.

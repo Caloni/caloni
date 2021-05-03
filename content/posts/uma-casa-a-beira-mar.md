@@ -1,10 +1,14 @@
 ---
-date: "2018-07-11"
-link: "https://www.imdb.com/title/tt7219324"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Uma Casa à Beira Mar"
+categories:
+- draft
+- movies
+date: '2018-07-11'
+link: https://www.imdb.com/title/tt7219324
+tags:
+- cinemaqui
+title: Uma Casa à Beira Mar
 ---
+
 O filme chama Casa à Beira Mar no Brasil (assim como seu nome internacional), mas seu nome original é "A Villa". E a vila do filme é o centro do mundo. Pelo menos do ponto de vista francês. Ela é um microcosmo que fala sobre família, política, vida e morte. É um filme que lamenta pelo presente, mas que também se enxerga no passado, sob a forma de culpa. No começo é possível que você imagine se tratar de um filme leve sobre o assunto, ou que talvez chame os fantasmas do clássico Era Uma Vez em Tóquio, que é uma história família que possui um fundo dramático, universal e nada leviano. Muitos devem concordar. E este filme tem tudo para sê-lo. Menos pela profundidade. Isso porque ele é ingênuo demais. E esse, ironicamente, é o real problema de nossa geração.
 
 A história começa nos mesmos moldes de um drama familiar intimista como Invasões Bárbaras, e vai deixando claro ter a mesma pretensão. O patriarca da família, e, vamos descobrir, da própria vila em que sua casa é a principal, adoece e seus filhos se reúnem em sua volta. Ele entra em um estado vegetativo após dar sua última baforada em um cigarro. Sua última frase, dita na solidão: "que pena". Vemos a seguir a fumaça das cinzas de seu cigarro tomar as rédeas da metáfora sobre o além-vida, e informar ao espectador que este será um filme de símbolos.

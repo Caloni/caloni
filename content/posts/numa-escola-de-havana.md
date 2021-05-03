@@ -1,10 +1,13 @@
 ---
-date: "2015-08-23"
-link: "https://www.imdb.com/title/tt3595966"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Numa Escola de Havana"
+categories:
+- movies
+date: '2015-08-23'
+link: https://www.imdb.com/title/tt3595966
+tags:
+- cinemaqui
+title: Numa Escola de Havana
 ---
+
 Uma sociedade onde o filho cuida da mãe drogada, é explorado pelo suposto pai e ainda precisa seguir o que os adultos lhe dizem para fazer, pois, como se costuma dizer, uma criança "nunca deveria estar fazendo essas coisas". Pois adivinhe só? Em "Numa Escola em Havana", o governo não se importa com que uma criança trabalhe, mas impede que um pai sustente sua família por morar no distrito errado.
 
 Terceiro longa do diretor/roteirista cubano Ernesto Daranas, Numa escola de Havana parece possuir traços de um drama até certo ponto universal: conta a história de um menino que possui problemas na escola pela sua rebeldia e problemas em casa, e como isso irá afetar o destino da professora cinquentenária da instituição, cujo futuro vislumbramos em um texto lido aos poucos durante todo filme, obviamente anunciando sua demissão. No entanto, os detalhes em torno da história não negam sua origem ao mesclar sociedade, história e política típicos da cidade onde os fatos se desenrolam, que viveu cinquentas anos em um mundo apartado e que hoje precisa encarar a realidade que bate à porta de tudo que foi feito, ou que não foi feito, durante essas cinco décadas.

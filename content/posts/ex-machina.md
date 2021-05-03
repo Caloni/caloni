@@ -1,9 +1,11 @@
 ---
-date: "2015-05-19"
-link: "https://www.imdb.com/title/tt0470752"
-categories: [ "movies" ]
-title: "Ex Machina"
+categories:
+- movies
+date: '2015-05-19'
+link: https://www.imdb.com/title/tt0470752
+title: Ex Machina
 ---
+
 Um exercício filosófico em forma de filme que entrega um thriller que prende a atenção do começo ao fim, mas que por evitar usar palavras "complicadas", ou melhor dizendo, empregar relações mais complexas entre seus personagens, constrói uma experiência "sanitizada". Todo o ambiente reflete isso: as paredes acinzentadas, as portas idênticas, os padrões geométricos repetidos. Porém, ao usar vidros por todos os lados e diálogos reveladores, há pelo menos uma coisa que somos obrigados a encarar de frente: a nossa humanidade sendo roubada por nossa própria criação.
 
 Porém, a humanidade retratada aqui é tão estéril que não sentimos muita compaixão pela raça humana, uma decisão bem inteligente. Caleb (Domhnall Gleeson) é um programador talentoso, mas solitário, que trabalha na empresa de outro programador, Nathan (Oscar Isaac), mais talentoso e mais solitário. Criador do Gooogle, ops, de um motor de busca de sucesso, Nathan se isola em uma casa que mais lembra um centro de pesquisa localizado no fim do mundo, mas que ao eu redor exibe a natureza da forma mais linda: cheia de cores, formas, e, principalmente, intocada pelas mãos humanas. De maneira quase que metafórica, sua morada fica no subsolo, abaixo de toda essa beleza, e quando a vemos, está isolada por vidros.

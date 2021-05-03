@@ -1,9 +1,11 @@
 ---
-date: "2012-06-18"
-link: "https://www.imdb.com/title/tt0268126"
-categories: [ "movies" ]
-title: "Adaptação"
+categories:
+- movies
+date: '2012-06-18'
+link: https://www.imdb.com/title/tt0268126
+title: Adaptação
 ---
+
 Apenas três anos após Charlie Kaufman surpreender o mundo do Cinema com [Quero ser John Malkovich], um dos roteiros mais originais de todos os tempos, temos o lançamento de seu próximo trabalho que coloca como protagonista ninguém nada menos do que... Charlie Kaufman! Apesar de isso aparentar uma auto-indulgência sem limites, é preciso lembrarmos de estarmos falando de uma versão insegura, tímida e menos talentosa de Charlie Kaufman (talvez o motivo dele ser interpretado por ninguém nada menos do que Nicholas Cage, em uma surpreendente atuação dupla).
 
 Algumas pessoas lidam mal com seus sucessos. Sem saber, ou até por saber, que nunca conseguiriam igualar a genialidade do trabalho anterior (James Cameron e [Titanic], Orson Wells e [Cidadão Kane]), ficam paralisados diante do seu próximo trabalho. No caso de Kaufman a coisa seja até pior, pois por ser roteirista, um cargo geralmente ignorado pelo público, o fato de pessoas fora da indústria do Cinema conseguirem se lembrar de seu nome é mais impressionante ainda.

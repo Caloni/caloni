@@ -1,9 +1,11 @@
 ---
-date: "2012-01-03"
-link: "https://www.imdb.com/title/tt0381681"
-categories: [ "movies" ]
-title: "Antes do Pôr-do-Sol"
+categories:
+- movies
+date: '2012-01-03'
+link: https://www.imdb.com/title/tt0381681
+title: Antes do Pôr-do-Sol
 ---
+
 A continuação do terno romance de um dia entre Jesse e Celine é assinada não apenas pelo diretor Richard Linklater, mas também pelos próprios atores Ethan Hawke e Julie Delpy, o que dá o tom de filme casual que tenta fechar um [arco iniciado] nove anos atrás, usando o mesmo espaço de tempo entre os lançamentos dos filmes. 
 
 A história começa em uma tarde em Paris, quando o agora escritor Jesse dá sua última entrevista após uma turnê pela Europa. A descrição da história de seu livro, que obviamente é sobre o filme anterior, já entrega as pistas para ligarmos acontecimentos passados e presentes, quando Jesse volta-se a encontrar com Celine.

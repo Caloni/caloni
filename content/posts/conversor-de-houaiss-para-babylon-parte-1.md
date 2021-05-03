@@ -1,8 +1,10 @@
 ---
-date: "2008-02-27"
-title: "Conversor de Houaiss para Babylon - parte 1"
-categories: [ "code" ]
+categories:
+- code
+date: '2008-02-27'
+title: Conversor de Houaiss para Babylon - parte 1
 ---
+
 Este artigo é sobre desmontar e montar novamente. Iremos descobrir como as entradas do dicionário Houaiss eletrônico estão gravadas em um primeiro momento, para depois remontarmos essa informação de maneira que ela possa ser usada em outro dicionário de uso mais flexível, o Babylon. Ou seja, este não é um guia de vandalismo. Estava apenas querendo usar um dicionário de qualidade excelente em outro dicionário cuja interface é muito boa.
 
 Considero o Houaiss o melhor dicionário da atualidade, uso todo santo dia e tenho todo o respeito por ele. Possuo uma cópia legalizada exatamente por isso. Além, é óbvio, pelo escandaloso cinismo que seria se eu, desenvolvedor de software, pirateasse os que utilizo. Porém, acredito que tudo tenha um limite: respeito os direitos de quem desenvolve o programa se o programa se dá ao respeito de ser pago. Quer dizer, eu realmente uso muito esse dicionário, e ele é útil para mim. Logo, nada mais justo do que adquiri-lo como manda a lei.

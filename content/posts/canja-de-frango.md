@@ -1,8 +1,11 @@
 ---
-date: "2019-09-08"
-categories: [ "draft", "food" ]
-tags: [ "recipes" ]
-title: "Canja de Frango"
+categories:
+- draft
+- food
+date: '2019-09-08'
+tags:
+- recipes
+title: Canja de Frango
 ---
 
 Preparo: Colocar metade de um peito de frango com moela na panela de pressão com um fio de óleo e deixar fritar em fogo quente para tostar dos lados e soltar um queimado no fundo da panela. Depois solte o queimado do fundo e jogue cascas e pedaços de legumes (cenoura, batata, mandioquinha), alho, cheiro verde e coentro (devo ter exagerado no coentro) e frite da mesma forma com a tampa por cima sem fechar. Coloque água fervente no máximo, feche a panela e cozinhe por uma hora. Retire e coe a água que ficar do que restar. O peito pode ser usado depois em uma canja. O resultado é um caldo gorduroso, doce e cheiroso. Nunca colocar sal.

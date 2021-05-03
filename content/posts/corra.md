@@ -1,9 +1,12 @@
 ---
-date: "2018-01-26"
-link: "https://www.imdb.com/title/tt5052448"
-categories: [ "draft", "movies" ]
-title: "Corra!"
+categories:
+- draft
+- movies
+date: '2018-01-26'
+link: https://www.imdb.com/title/tt5052448
+title: Corra!
 ---
+
 "Os brancos estão por cima faz uns 200 anos. Agora o negro está na moda." Essa frase de "Corra!" basicamente resume o filme e a época em que vivemos. Uma época onde o mérito é ter um passado vitimista e ter a cor da pele certa. Uma época racista ao inverso, onde ser negro é ser cool, onde sua genética é exaltada e onde não há nada mais natural que um filme de terror sobre isso.
 
 A história é tão simples que merece aplausos desde já. Boy meets girl e agora boy meets girl's family. O detalhe que não deveria fazer diferença: ele é negro e ela é de uma família 100% caucasiana. De acordo com ela seus pais não são racistas, e provavelmente seu pai irá dizer que se pudesse votaria no Obama mais uma vez, pois apesar de ter sido um dos piores presidentes estadunidenses da história, sabe como é... ele é negro. Dito e feito. Uma família esclarecida!

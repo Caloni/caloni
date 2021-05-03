@@ -1,9 +1,12 @@
 ---
-date: "2016-02-27"
-link: "https://www.imdb.com/title/tt0107207"
-categories: [ "draft", "movies" ]
-title: "Em Nome do Pai"
+categories:
+- draft
+- movies
+date: '2016-02-27'
+link: https://www.imdb.com/title/tt0107207
+title: Em Nome do Pai
 ---
+
 Em Nome do Pai é daquelas pérolas baseadas em fatos reais que funciona pelo emocional, mas também é um trabalho intimista que adentra o suficiente no lamaçal da "justiça" estatal para conseguir identificar o que critica sem desmerecer nossa inteligência.
 
 Conta a história absurda (mas verídica) de Gerry Conlon, um homem condenado erroneamente por ser um dos terroristas responsáveis pelo maior atentado em solo britânico desde a Segunda Guerra. Ele se baseia no romance autobiográfico do próprio Conlon, o que poderia querer dizer um texto longo e chato sobre o psicológico de seu protagonista, mas o roteiro de Terry George e do diretor Jim Sheridan estipula uma linha de raciocínio fixa e tensa através da atuação ímpar de Daniel Day-Lewis (com quem o diretor trabalhou em Meu Pé Esquerdo) e de sua relação com o pai, Giuseppe (Pete Postlethwaite, um suporte inestimável).

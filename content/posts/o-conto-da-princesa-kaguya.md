@@ -1,9 +1,11 @@
 ---
-date: "2015-07-26"
-link: "https://www.imdb.com/title/tt2576852"
-categories: [ "movies" ]
-title: "O Conto da Princesa Kaguya"
+categories:
+- movies
+date: '2015-07-26'
+link: https://www.imdb.com/title/tt2576852
+title: O Conto da Princesa Kaguya
 ---
+
 Uma aventura narrada por traços que revelam o que mais importa em seus personagens: o "eu" interior, ou seja, as expressões que os tornam tão únicos quanto complexos. Porém, nunca simplificados, mesmo se tratando de um conto. Aliado a isso, uma música de poucos toques usada nos momentos exatos transforma a experiência em uma imersão completa na moral milenar oriental. Em suma: um desenho imperdível para adultos (e talvez assustador para crianças, mas ainda assim arriscaria levá-las...).
 
 Contando a história da pequena Princesa Kaguya do filme, encontrada próximo a um bambu iluminado justamente por um cortador de bambu, o bebê mágico cresce rapidamente, e junto com ele acompanhamos os momentos mais interessantes do próprio crescimento humano. A felicidade completa está contida na primeira parte da história, onde Kaguya e seus amigos correm e se divertem juntos em um ambiente rural que exala natureza e contato do ser humano com sua essência animal.

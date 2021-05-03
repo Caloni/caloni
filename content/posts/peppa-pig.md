@@ -1,9 +1,12 @@
 ---
-date: "2016-10-16"
-link: "https://www.imdb.com/title/tt0426769"
-categories: [ "draft", "series" ]
-title: "Peppa Pig"
+categories:
+- draft
+- series
+date: '2016-10-16'
+link: https://www.imdb.com/title/tt0426769
+title: Peppa Pig
 ---
+
 Eis um desenho que preza por histórias sucintas, rápidas e simples, ligeiramente divertidas e que estão atreladas ao fato da família principal ser constituída de porcos.
 
 Aliás, mais do que isso. São porcos que vivem em uma casa, possuem um carro. Sua filha -- a Peppa do título -- vai a aulas de balé. Seus pais são gordos e simpáticos. Seus avós são ativos. Enfim, uma família normal que passa por peculiaridades que toda família passa.

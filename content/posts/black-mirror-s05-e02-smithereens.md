@@ -1,9 +1,12 @@
 ---
-date: "2019-06-14"
-link: "https://www.imdb.com/title/tt8758202"
-categories: [ "draft", "series" ]
-title: "Black Mirror S05 E02 Smithereens"
+categories:
+- draft
+- series
+date: '2019-06-14'
+link: https://www.imdb.com/title/tt8758202
+title: Black Mirror S05 E02 Smithereens
 ---
+
 Eu sei, eu também gostava da versão futurista do Black Mirror, e acredito que eles continuarão a produzir episódios sobre o daqui a pouco tecnológico que nós tanto anseiamos como tememos. Porém, de vez em quando é de muito bom tom lembrar que coisas horríveis podem acontecer com a tecnologia que já temos hoje, nos alertando sobre o que preferimos ignorar: não são robôs dominando o mundo o grande medo de nossa evolução, mas humanos se comportando como robôs.
 
 E nesse sentido o segundo episódio dessa temporada faz um apanhado de detalhes do nosso mundo atual que nos deveria deixar preocupados. A começar pela dopamina. Essa droga auto-injetável que desejamos mais e mais de maneira irracional está sob o controle de grandes corporações que visam apenas o lucro, usando seres humanos domesticados clicando em telas de celular à procura da recompensa química de nosso organismo. É a prisão mais perfeita já inventada: a que aprisiona sua mente e que você ainda por cima gosta.

@@ -1,8 +1,11 @@
 ---
-date: "2014-06-18"
-categories: [ "code", "draft" ]
-title: "Dando cabo do WinDbg"
+categories:
+- code
+- draft
+date: '2014-06-18'
+title: Dando cabo do WinDbg
 ---
+
 Na semana passada falei sobre a ideia de comentar algumas mudanças entre o Windows XP e o novo mundo Vista/7/8/ que fizeram com que adaptássemos algum código que obviamente não funcionaria mais. Falamos sobre a famigerada GINA (ou famiGINADA), e agora apenas vou comentar brevemente sobre o sistema de boot, que também mudou.
 
 Na verdade, pouca coisa mudou, mas foi o suficiente para dar problemas na hora de usar o WinDbg. Tradicionalmente, o boot era gerenciado no Windows através de um arquivo localizado na raiz da partição ativa (configuração da MBR) chamado bootini. Dentro dele temos uma estrutura semelhante a um .INI (duh), onde a informação que vemos lá podia ser configurada nas configurações do Computador no Windows XP.
@@ -14,4 +17,3 @@ Para a edição desse novo arquivo (ou partição) é necessário que seja usada
 Porta serial? Mas que coisa antiga, hein? Pois é, muita coisa mudou desde o Windows Vista, mas algumas coisas precisam permanecer... compatíveis.
 
 Mas... se você precisar:
-

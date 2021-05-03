@@ -1,9 +1,12 @@
 ---
-date: "2018-01-18"
-link: "https://www.imdb.com/title/tt0070047"
-categories: [ "draft", "movies" ]
-title: "O Exorcista"
+categories:
+- draft
+- movies
+date: '2018-01-18'
+link: https://www.imdb.com/title/tt0070047
+title: O Exorcista
 ---
+
 O Exorcista. Apesar de cercado de lendas e maldições em sua produção, podemos dizer que o resultado é um pequeno milagre. Se trata de um filme de terror que se constrói aos poucos em cima de um drama e personagens que são bem formados, e não jogados como os terrores de hoje em dia. Ao final, temos pouco mais que 15 minutos de cenas horripilantes. Mas essas cenas horripilantes só são assustadoras porque possuem todo um pano de fundo desta história. É preciso ver para crer o que o Cinema conseguiu produzir mesmo com o uso de bonecas, vômitos voadores e uma criança descendo escadas da maneira mais não-convencional possível.
 
 A história foi escrita em romance e em roteiro por William Peter Blatty (falecido ano passado) e segue no filme uma lógica muito além de qualquer filme de terror já feito. Começamos a história acompanhando o experiente Padre Merrin (Max von Sydow) em escavações no Oriente Médio. Ele parece preocupado e cansado quando encontra mais um amuleto demoníaco. Do topo de um monte observa uma estátua grande de um demônio, cães e pessoas brigando em volta. Ele apenas voltará a aparecer no terceiro ato.

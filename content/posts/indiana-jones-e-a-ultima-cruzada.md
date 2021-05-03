@@ -1,9 +1,12 @@
 ---
-date: "2016-11-03"
-link: "https://www.imdb.com/title/tt0097576"
-categories: [ "draft", "movies" ]
-title: "Indiana Jones e a Última Cruzada"
+categories:
+- draft
+- movies
+date: '2016-11-03'
+link: https://www.imdb.com/title/tt0097576
+title: Indiana Jones e a Última Cruzada
 ---
+
 Há filmes que parecem diferentes dependendo do período da vida que você os assiste. A Última Cruzada, última aventura de Indiana Jones nos anos 80, para mim foi quando criança uma aventura sólida, divertida, emocionante e cujos valores cristãos eu compactuava na época. Hoje, mais velho, e alguns milhares de filmes depois, continuo vendo como quase tudo isso (tirando a parte cristã), mas com um sentimento que foi adicionado com o passar dos anos: o saudosismo, ou até a saudade, da época em que ação de verdade envolvia o herói ficar pendurado do lado de fora de um tanque e comer poeira aguardando sua morte imediata.
 
 Nesta aventura o roteirista Jeffrey Boam nos remete de volta ao primeiro filme, com nazista em busca de um artefato religioso supostamente com poderes mágicos, mas em vez dos judeus e a arca da aliança, agora estamos falando dos cristãos, onde um pequeno ramo da história remete ao rei Artur e suas lendas. Porém, a história também volta ainda mais no tempo, narrando (supostamente) a primeira aventura de um Indy ainda garoto, e em uma perseguição em cima de um trem do zoológico consegue inserir diversos elementos de seu universo, como o medo de cobras, o chicote e até o jeito bonachão de se sentir vitorioso. Ah, e claro, o chapéu.

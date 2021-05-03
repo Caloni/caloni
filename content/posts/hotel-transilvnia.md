@@ -1,9 +1,12 @@
 ---
-date: "2016-02-22"
-link: "https://www.imdb.com/title/tt0837562"
-categories: [ "draft", "movies" ]
-title: "Hotel Transilvânia"
+categories:
+- draft
+- movies
+date: '2016-02-22'
+link: https://www.imdb.com/title/tt0837562
+title: Hotel Transilvânia
 ---
+
 Hotel Transilvânia é uma surpresa em animação e seus divertidos momentos. A direção transforma efeitos visuais competentes em sequências sempre interessantes, utilizando personagens cativantes construídos através do imaginário popular e não tão clichês quanto poderíamos esperar.
 
 E apesar de tudo isso, o filme não passa de um engodo para criar uma franquia. Um fiapo de história que sobrevive pelo carisma de seus personagens e suas brincadeiras.

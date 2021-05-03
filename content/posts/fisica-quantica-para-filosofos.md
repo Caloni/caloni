@@ -1,9 +1,11 @@
 ---
-author: "Wanderley Caloni"
-date: "2017-05-28"
-categories: [ "draft" ]
-title: "Física Quântica para Filósofos"
+author: Wanderley Caloni
+categories:
+- draft
+date: '2017-05-28'
+title: Física Quântica para Filósofos
 ---
+
 O filósofo Michael Huemer explica o mecanismo de manipulação e medição do spin dos elétrons. Há infinitos spins, sendo que ele se foca no que ele chama x-spin e y-spin, spins separados em 90 graus.
 
 A primeira noção é que ao ser colocado em contato com um divisor magnético o elétron pode seguir duas direções distintas e diametralmente opostas à inclinação do dispositivo. Não há como saber de antemão qual sentido o elétron irá seguir.

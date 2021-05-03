@@ -1,9 +1,11 @@
 ---
-date: "2015-03-10"
-link: "https://www.imdb.com/title/tt1650554"
-categories: [ "movies" ]
-title: "Kick Ass 2"
+categories:
+- movies
+date: '2015-03-10'
+link: https://www.imdb.com/title/tt1650554
+title: Kick Ass 2
 ---
+
 Tudo que o original tinha de divertido e tenso -- a violência exacerbada envolvendo crianças e a própria realidade da loucura que é ser um jovem vigilante -- foi retirado nessa continuação, que soa mais como uma produção Marvel. Afinal, é isso o que o público hoje se contenta em ver: baixos riscos, altas expectativas.
 
 É impressionante como, teoricamente apresentado como um filme de comédia e ação, Kick Ass 2 nunca deixa de ser um dramalhão adolescente para adolescentes e, quando emplaca, logo termina. A moral da história é que, apesar de constantemente os personagens falarem que aquilo que estão vivendo não são quadrinhos, que aquilo é vida real e pessoas podem morrer, mais a morte é banalizada e menos efeito parece ter naquelas pessoas, e mesmo um casal de pais em busca do seu filho perdido não se importa em colocar em risco os filhos dos outros. Talvez porque, afinal de contas, a contagem dos corpos revela apenas adultos, e desde que nenhum jovem ou cachorro seja gravemente ferido, mais um dia a justiça (para sempre) foi feita.

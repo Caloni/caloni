@@ -1,9 +1,12 @@
 ---
-date: "2019-05-18"
-link: "https://www.imdb.com/title/tt0109219"
-categories: [ "draft", "movies" ]
-title: "Barcelona"
+categories:
+- draft
+- movies
+date: '2019-05-18'
+link: https://www.imdb.com/title/tt0109219
+title: Barcelona
 ---
+
 Barcelona é um filme que se insere em um momento político tenso na cidade-título e extrai momentos brilhantes acima da média em seu texto e em suas gags visuais. Ele mostra uma dupla de primos que moram juntos saindo e se envolvendo com lindas garotas espanholas, mas seu sub-texto é tanto político quanto um leve e agradável estudo de personagem. É um filme engraçado, mas para se rir com a mente, não com o estômago.
 
 Isso porque ele tem uma pegada Woody Alleniana que pode afastar algumas pessoas. Isso é quando um ou dois personagens falam longos diálogos, mas estes diálogos não são enfadonhos para a maioria dos mortais que talvez não seja interessante de se assistir. Porém, para os pacientes, eles se tornam incrivelmente inteligentes, com múltiplas camadas, que dizem algo interessante por si só mas ao mesmo tempo nos permite analisar a pessoa que o diz. Se torna um exercício tão fascinante que você não vai mais querer parar de ouvir e querer entender a dinâmica dessas pessoas até o final da história.

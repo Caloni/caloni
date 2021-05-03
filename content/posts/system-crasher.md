@@ -1,10 +1,14 @@
 ---
-date: "2019-10-19"
-link: "https://www.imdb.com/title/tt8535968"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "System Crasher"
+categories:
+- draft
+- movies
+date: '2019-10-19'
+link: https://www.imdb.com/title/tt8535968
+tags:
+- cinemaqui
+title: System Crasher
 ---
+
 System Crasher evita a todo custo julgar sua jovem e impossível protagonista, mas não se pode dizer o mesmo dos espectadores, que saíram da sessão vociferando palavras de ordem e disciplina como solução para uma menina de uns 10 anos que com inteligência acima da média e ataques explosivos é uma versão em miniatura de uma delinquente juvenil. Mas a grande questão para quem quiser analisar além das emoções primárias que o filme evoca é sua camada imediatamente superior: quais os objetivos de um filme como esse?
 
 Estamos em um país de primeiro mundo e a pequena Benni já passou por mais de 30 instituições de correção juvenil. Jovem demais para ser presa no que seria a daqui extinta Febem, acompanhamos os ataques de raiva da garota enquanto ela provoca e agride crianças, ou foge dos adultos que a estão supervisionando.

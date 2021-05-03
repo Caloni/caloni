@@ -1,8 +1,11 @@
 ---
-date: "2020-03-15"
-categories: [ "draft", "books" ]
-title: "Comunicação em Prosa Moderna"
+categories:
+- draft
+- books
+date: '2020-03-15'
+title: Comunicação em Prosa Moderna
 ---
+
 "Comunicação em Prosa Moderna", escrito por Othon M. Garcia em 1967, foi um dos livros de referência de quando iniciei a faculdade de Letras na FFLCH da USP. Adquiri uma cópia velha em um sebo com uma diagramação absurda, sem margens e com cheiro de mofado. Li de cabo a rabo. Atualmente eu encontrei a versão digital graças à comunidade do LeLivros, totalmente reformada para o formato digital após várias edições. A versão Kindle dá até gosto de ver, com suas inúmeras e famosas referências bibliográfica com que foi escrito, que ocupam pelo menos a quinta parte do livro, junto dos inúmeros exercícios no final.
 
 O livro é dividido em dez partes, mas podemos dividir essas partes em dois montantes. No primeiro montante temos o conteúdo sobre a escrita de fato: a frase, o vocabulário, o parágrafo, a argumentação, a ordenação. O montante final se concentra nos formalismos e disciplina para trabalhos mais densos: pesquisa, planejamento, redação técnica, preparação e exercícios. Vou falar brevemente sobre as quatro primeiras partes, que considero as mais importantes, e as que sempre me foco na hora de elogiar este livro atemporal.

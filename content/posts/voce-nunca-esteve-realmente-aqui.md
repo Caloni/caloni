@@ -1,10 +1,14 @@
 ---
-date: "2018-08-04"
-link: "https://www.imdb.com/title/tt5742374"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Você Nunca Esteve Realmente Aqui"
+categories:
+- draft
+- movies
+date: '2018-08-04'
+link: https://www.imdb.com/title/tt5742374
+tags:
+- cinemaqui
+title: Você Nunca Esteve Realmente Aqui
 ---
+
 Situado em nosso inconsciente, nas profundezas de nossa sociedade pós-moderna, flutua a realidade e os intermináveis debates sobre o homem comum, esse que vive uma rotina em que, apesar de alguns percalços, tudo parece estar em relativa ordem e estabilidade. "Você Nunca Esteve Realmente Aqui" não fala sobre este homem, mas trabalha do outro lado da equação, onde a violência brutal marca as pessoas que nela vivem, e que para sempre deixaram de ser os mesmos. Sua realidade não possui essa estabilidade com alguns percalços de vez em quando. A realidade é o eterno percalço, com breves momentos, se tiverem sorte, de alguma calmaria.
 
 O novo filme de Lynne Ramsay é de seis anos após seu grande hit (Precisamos Falar Sobre o Kevin) e demonstra como uma grande diretora (e roteirista) consegue explorar uma obra feita por palavras sem usá-las, o romance homônimo de Jonathan Ames. Este é basicamente um filme que dispensa diálogos, mas quando eles ocorrem, são econômicos e certeiros. Aliás, o filme em geral é curto e grosso, conseguindo em menos de uma hora e meia explorar uma janela de emoções na vida de Joe, um caçador de recompensas inusitado, e Nina, seu alvo a ser protegido.

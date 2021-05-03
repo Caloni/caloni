@@ -1,9 +1,12 @@
 ---
-date: "2018-05-22"
-link: "https://www.imdb.com/title/tt0071402"
-categories: [ "draft", "movies" ]
-title: "Desejo de Matar (1974)"
+categories:
+- draft
+- movies
+date: '2018-05-22'
+link: https://www.imdb.com/title/tt0071402
+title: Desejo de Matar (1974)
 ---
+
 O primeiro Desejo de Matar, de 1974, teve a censura nos cinemas colocada em 14 anos. O novo Desejo de Matar, com Bruce Willis, com uma história muito próxima (e sem peitinhos) saiu nos cinemas com censura 18 anos. Não imagino dado mais relevante para a mudança da cultura americana nas últimas décadas, onde sua população mudou de donos do próprio destino para cordeirinhos prontos para se deixar açoitar por criminosos de qualquer espécie pelo bem do pacifismo irracional e auto-destrutivo.
 
 O filme de Michael Winner estrela Charles Bronson, um dos durões da época. Bronson não é um ator versátil e está aqui mais como um símbolo de resistência. "Quando os homens eram homens...". Ele faz um engenheiro civil que teve sua casa invadida por três marginais quando sua esposa e sua filha estava sozinhas. Sua esposa é morta pelo conflito e sua filha traumatizada para o resto da vida. Seu genro é o cordeirinho que falava no parágrafo acima, e talvez ele já fosse maioria na época. Hoje ele é o argumento político para banir as armas: somos civilizados se entregarmos toda nossa proteção a estranhos contratados pelo governo e com moral duvidosa.

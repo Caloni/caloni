@@ -1,9 +1,11 @@
 ---
-date: "2012-04-11"
-link: "https://www.imdb.com/title/tt0459666"
-categories: [ "movies" ]
-title: "Três Tempos"
+categories:
+- movies
+date: '2012-04-11'
+link: https://www.imdb.com/title/tt0459666
+title: Três Tempos
 ---
+
 "Dê seu preço. Eu quero vender minha alma. Sem passado. Sem futuro. Apenas um ganancioso presente."
 
 Há uma unicidade entre as três histórias contadas em Three Times que consegue ser percebida tanto pelas suas semelhanças quanto pelas diferenças. O uso de fotografias diferentes, mas todas belíssimas, para distinguir as três épocas onde as história se passam é um meio de diferenciar que acaba juntando exatamente pelas belas cores utilizadas apropriadamente em cada situação: o belo é o elemento de união. Elementos mais óbvios como figurino e direção de arte também executam sua função divisora, mas ao unir os episódios em torno de dois carismáticos atores Zui hao de shi sabe que conseguirá acertar em cheio o tom de universalidade dos temas, por mais espaçados e únicos que eles sejam.

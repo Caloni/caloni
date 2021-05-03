@@ -1,9 +1,12 @@
 ---
-date: "2018-02-27"
-link: "https://www.imdb.com/title/tt6468322"
-categories: [ "draft", "series" ]
-title: "La Casa De Papel"
+categories:
+- draft
+- series
+date: '2018-02-27'
+link: https://www.imdb.com/title/tt6468322
+title: La Casa De Papel
 ---
+
 O que está acontecendo com as pessoas? A série "La Casa de Papel" está sendo pesadamente recomendada por ser "viciante", "impressionante", "tenso" e "imperdível", sendo que no melhor dos casos esta parece ser uma versão estendida e dramática de Onze Homens e Um Segredo, um filme que, diga-se de passagem, sabia rir de si mesmo ao empregar uma música empolgante e nada séria. Aqui parece que estamos à beira de um colapso nervoso com uma história que tem mais a acrescental ao rol de novelas televisivas que o cinema propriamente.
 
 O começo é hilário. É uma ex-assaltante que perdeu seu maior amor a narradora. Ela liga para a mãe e fala com o espectador sobre os detalhes do que está acontecendo (caso você seja burro demais para prestar atenção). No momento seguinte é abordada por um tal de Professor que reúne um pessoal gabaritado em roubar coisas. Não diz como ele conseguiu o contato dessa gente, nem como eles combinaram de se reunir e se trancar por cinco meses estudando o maior golpe de suas vidas com completos estranhos. Sério, eu preciso achar esse Linkedin do crime.

@@ -1,10 +1,13 @@
 ---
-date: "2015-05-11"
-link: "https://www.imdb.com/title/tt2933474"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Super Velozes, Mega Furiosos"
+categories:
+- movies
+date: '2015-05-11'
+link: https://www.imdb.com/title/tt2933474
+tags:
+- cinemaqui
+title: Super Velozes, Mega Furiosos
 ---
+
 Super Velozes, Mega Furiosos é uma paródia de Velozes e Furiosos. Essa informação é tão irrelevante quanto o próprio filme, que brinca com os estereótipos dos atores da série e se esquece que a franquia já vem se tornando irrelevante sem precisar da ajuda de ninguém.
 
 Escrito e dirigido pela dupla culpada por Todo Mundo em Pânico 1, 2, 3... e 4, a história se concentra nos detalhes do quinto filme da série original, quando os pilotos fora-da-lei precisam roubar uma quantia exorbitante de dinheiro de um mafioso local para conseguir fugir antes que o detetive Rock Johnson os coloquem atrás das grades. Brincando a sério com as personas de Vin Diesel e de Dwayne Johnson, os atores que os intepretam são tão competentes quanto os originais em imitar os seus trejeitos, o que traz a dúvida de qual é a pior dupla de atores: a original ou a falsa?

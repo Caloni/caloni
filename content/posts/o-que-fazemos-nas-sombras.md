@@ -1,9 +1,12 @@
 ---
-date: "2018-10-07"
-link: "https://www.imdb.com/title/tt3416742"
-categories: [ "draft", "movies" ]
-title: "O Que Fazemos nas Sombras"
+categories:
+- draft
+- movies
+date: '2018-10-07'
+link: https://www.imdb.com/title/tt3416742
+title: O Que Fazemos nas Sombras
 ---
+
 Taika Waititi é um diretor neo-zelandês. Ele uma fez fez um filme chamado Loucos por Nada, um indie onde estrelava o curioso ator Jemaine Clement. Sete anos depois os dois dirigem e estrelam este O Que Fazemos nas Sombras, que é uma versão mais longa de um trabalho homônimo feito em 2005. Então, vejam bem, esses cineastas estão empenhados em explorar as partes bizarras da existência humana, como seus mitos, em forma de mocumentário.
 
 O que nesse caso é ótimo. Eles pegam essa ideia para vampiros (e um pouco de lobisomens, zumbis, etc). Os dois e Jonny Brugh fazem o trio de vampiros que dividem uma casa onde o maior problema é discutir por que Deacon não lavou louça nos últimos cinco anos, período que ele foi escolhido para a função, e por que quem for trazer uma vítima para o jantar não pode simplesmente colocar alguns papéis toalha no chão antes de perfurar o pescoço de sua comida?

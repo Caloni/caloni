@@ -1,8 +1,10 @@
 ---
-date: "2007-12-13"
-categories: [ "code" ]
-title: "Debug remoto no C++ Builder"
+categories:
+- code
+date: '2007-12-13'
+title: Debug remoto no C++ Builder
 ---
+
 Esse é um detalhe que pode passar despercebido da maioria da população Borland, mas o Builder, assim como o Visual Studio, possui sua suíte para depuração remota. E tudo o que você precisa fazer é instalar um pacote no cliente.
 
   1. No CD de instalação, existe uma pasta chamada RDEBUG.

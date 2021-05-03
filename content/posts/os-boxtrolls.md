@@ -1,10 +1,13 @@
 ---
-date: "2014-12-23"
-link: "https://www.imdb.com/title/tt0787474"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Os Boxtrolls"
+categories:
+- movies
+date: '2014-12-23'
+link: https://www.imdb.com/title/tt0787474
+tags:
+- cinemaqui
+title: Os Boxtrolls
 ---
+
 É muito difícil assistir Boxtrolls e se dar conta que aqueles efeitos foram forjados na boa e velha arte do stop-motion: capturar mais de vinte fotos de bonecos em cima de uma maquete para gerar um segundo de filme.
 
 Essa dificuldade em enxergar o truque é resultado do cuidado admirável dos seus criadores. Os detalhes da pitoresca cidade de Ponte Queijo vão até no nome das ruas (a rua Leite termina na Coalhada), mas ganham o primor mesmo através dos seus personagens cuidadosamente desenhados. Claro que, com seu toque lúdico, as imperfeições dos seres que usam caixas para cobrir o corpo -- daí o nome deles -- passam despercebidas ou podem até lembrar algum efeito de pseudo-realismo no computador, criando uma estranha e fascinante sensação.

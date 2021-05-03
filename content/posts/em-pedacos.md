@@ -1,10 +1,14 @@
 ---
-date: "2018-01-30"
-link: "https://www.imdb.com/title/tt5723272"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Em Pedaços"
+categories:
+- draft
+- movies
+date: '2018-01-30'
+link: https://www.imdb.com/title/tt5723272
+tags:
+- cinemaqui
+title: Em Pedaços
 ---
+
 Não parece haver pior dor da perda do que quando uma mãe perde seu filho. E não parece haver sentimento maior de impunidade do que quando sabemos que algo não está certo e vai ficar dessa jeito mesmo. Esses dois sentimentos extremamente pesados estão misturados no ótimo Em Pedaços, que captura uma história de violência do cotidiano de hoje e a torna visceral do começo ao fim.
 
 Diane Kruger é Katja Sekerci, esposa do reformado Nuri Sekerci (Numan Acar) e mãe do fruto desse amor, o pequeno Rocco (Rafael Santana). Os três formam uma família perfeita, harmoniosa. Isso é o máximo que podemos reparar nos poucos minutos que os vemos juntos, pois logo depois um desastre toma conta da vida de Katja, de proporções trágica e violenta: seu filho e marido morrem em um atentado terrorista.

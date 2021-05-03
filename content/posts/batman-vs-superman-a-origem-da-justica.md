@@ -1,9 +1,12 @@
 ---
-date: "2016-04-02"
-link: "https://www.imdb.com/title/tt2975590"
-categories: [ "draft", "movies" ]
-title: "Batman vs Superman: A Origem da Justiça"
+categories:
+- draft
+- movies
+date: '2016-04-02'
+link: https://www.imdb.com/title/tt2975590
+title: 'Batman vs Superman: A Origem da Justiça'
 ---
+
 Os deuses da DC descem do Olimpo para se exibir. Não há muito o que mostrar senão uma demonstração interminável de força, poder e loucura. São tempos sinistros para amantes dos quadrinhos, mas mais sinistros ainda para cinéfilos que se enveredam pelos filmes dessa trupe que gosta de se vestir engraçado.
 
 "As capas vermelhas estão chegando... as capas vermelhas estão chegando...", diz um Lex Luthor cuja insanidade é enfadonha e arrastada; aparentemente o último personagem notável de Jesse Eisenberb -- Mark Zuckerberg, criador do Facebook -- ainda não deixou o corpo do ator, que continua sem disposição de compor algo além do bandido caricatual e anti-social.

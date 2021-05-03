@@ -1,9 +1,12 @@
 ---
-date: "2008-01-04"
-categories: [ "blog" ]
-tags: [ "ccppbr" ]
-title: "CppCon III"
+categories:
+- blog
+date: '2008-01-04'
+tags:
+- ccppbr
+title: CppCon III
 ---
+
 O ano de 2008 promete. Pelo menos no começo.
 
 Está marcado para dia 19 desse mês em São Paulo o terceiro encontro de programadores C++, cujas informações mais atualizadas você poderá acompanhar em nossa wiki. A grade de eventos, pelo menos por enquanto, é essa:

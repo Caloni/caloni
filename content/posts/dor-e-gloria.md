@@ -1,9 +1,12 @@
 ---
-date: "2019-09-04"
-link: "https://www.imdb.com/title/tt8291806"
-categories: [ "draft", "movies" ]
-title: "Dor e Glória"
+categories:
+- draft
+- movies
+date: '2019-09-04'
+link: https://www.imdb.com/title/tt8291806
+title: Dor e Glória
 ---
+
 Alguns cinemas de autor nunca envelhecem. Ou envelhecem e se transformam. Quando conheci o cineasta Pedro Almodóvar ele estava na transição que o separaria entre os seus filmes de início, como Pepi, Luci, Bom e Outras Garotas de Montão (1980), e Labirinto de Paixões (82), que misturavam o escrachado com o drama novelesco, para algo mais rebuscado como Má Educação (2004), em minha opinião o ápice de metalinguística dos trabalhos almodovarianos, aquele que trabalha com as memórias do autor enquanto sabe que o faz dentro de um microcosmos interno que se revela mais universal do que se imaginaria a princípio.
 
 Mais tarde frente conheci seus trabalhos que mantinham a maturidade de Má Educação com o frescor e a leveza de sua juventude. Carne Trêmula (97) é um exemplo, assim como o divertidíssimo Mulheres à Beira de um Ataque de Nervos (88), e é importante lembrar que esta não é uma ordem cronológica, pois logo em seguida a Má Educação surge o adorável Volver (2006).

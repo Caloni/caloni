@@ -1,8 +1,10 @@
 ---
-date: "2007-11-23"
-title: "Carregando DLLs arbitrárias pelo WinDbg"
-categories: [ "code" ]
+categories:
+- code
+date: '2007-11-23'
+title: Carregando DLLs arbitrárias pelo WinDbg
 ---
+
 Durante meus testes para a correção de um bug me deparei com a necessidade de carregar uma DLL desenvolvida por mim no processo depurado. O detalhe é que o processo depurado é de terceiros e não possuo o fonte. Portanto, as opções para mim mais simples são:
 
  - Usar o projeto [RmThread] para injetar a DLL (nesse caso iniciando o processo através dele).

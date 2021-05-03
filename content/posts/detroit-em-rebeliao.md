@@ -1,10 +1,14 @@
 ---
-date: "2017-09-27"
-link: "https://www.imdb.com/title/tt5390504"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Detroit em Rebelião"
+categories:
+- draft
+- movies
+date: '2017-09-27'
+link: https://www.imdb.com/title/tt5390504
+tags:
+- cinemaqui
+title: Detroit em Rebelião
 ---
+
 Detroit em Rebelião é a continuação da dramática abertura na ferida histórica estadunidense que tem sido feita desde que a última cicatriz se rompeu após recentes confrontos entre negros e a polícia desencadear a morte de inocentes e movimentos de resposta como "Black Lives Matter". E como este drama pseudo-documental demonstra, a história sempre pode se repetir. Principalmente quando há tanto ainda a ser revisto por ambos os lados de uma segregação que ainda está nas cabeças e mentes da nação americana.
 
 A história junta fragmentos de testemunhos dos que participaram de um dos momentos mais tensos das revoltas ocorridas em Detroit de 1967, em um país que estava em ebulição. Ela começa praticamente como um documentário em que os eventos brutais superam qualquer tentativa de protagonismo. No entanto, os personagens vão emergindo incidentalmente, e vão se definindo direto na ação.

@@ -1,10 +1,14 @@
 ---
-date: "2016-05-19"
-link: "https://www.imdb.com/title/tt3289712"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Casamento de Verdade"
+categories:
+- draft
+- movies
+date: '2016-05-19'
+link: https://www.imdb.com/title/tt3289712
+tags:
+- cinemaqui
+title: Casamento de Verdade
 ---
+
 Casamento de Verdade parece a primeira ou uma das primeiras incursões de Hollywood explorando o tema da homossexualidade de maneira "comercial". Ele apresenta uma atriz conhecida por comédias românticas como protagonista (Katherine Heigl), mas a faz carregar uma culpa logo na primeira cena, um batismo, se desculpando logo na primeira cena de toda a comunidade religiosa que possa, talvez, quem sabe, achar o conteúdo ofensivo.
 
 No entanto, chamá-la de protagonista é superestimar seu papel na história, construída através de um elenco clichê para dramas, e ciente de que o filme é uma tentativa de discussão didática e saudável do tema, e mira longe de um possível estudo de personagem como o mais longo e mais intenso Azul é a Cor Mais Quente (esquecendo a parte do soft porn, é claro).

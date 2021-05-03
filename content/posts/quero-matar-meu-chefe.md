@@ -1,9 +1,11 @@
 ---
-date: "2011-08-17"
-link: "https://www.imdb.com/title/tt1499658"
-categories: [ "movies" ]
-title: "Quero Matar Meu Chefe"
+categories:
+- movies
+date: '2011-08-17'
+link: https://www.imdb.com/title/tt1499658
+title: Quero Matar Meu Chefe
 ---
+
 Muitas pessoas com certeza rirão das piadas sobre trabalho, sexo e racismo de Quero Matar Meu Chefe, tradução não-literal de Horrible Bosses (Chefes Horríveis, o que não melhora muito as coisas). Novo trabalho de Seth Gordon (Surpresas do Amor e umas pontas em The Office e Community), o longa reúne mais talentos cômicos do que supostamente ele conseguirá no resto de sua vida como diretor.
 
 O filme inicia com três narradores oniscientes, Hick (Bateman), Kurt (Sudeikis) e Dale (Day), que assim que terminam a introdução são descartados, e passamos a acompanhá-los pelo quarto narrador (a câmera). Vivendo momentos sufocantes no trabalho devido a cada um de seus insuportáveis chefes, que eventualmente abusam de seu poder, os três rapazes resolvem solucionar seus problemas através da única maneira plausível: exterminando seus superiores, afim de ter um pouco de paz em suas insuportáveis vidas.

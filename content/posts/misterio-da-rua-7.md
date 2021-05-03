@@ -1,9 +1,11 @@
 ---
-date: "2011-03-14"
-link: "https://www.imdb.com/title/tt1452628"
-categories: [ "movies" ]
-title: "Mistério da Rua 7"
+categories:
+- movies
+date: '2011-03-14'
+link: https://www.imdb.com/title/tt1452628
+title: Mistério da Rua 7
 ---
+
 Mensagem de cunho católico no mesmo molde de O Nevoeiro, porém, determinado a sacrificar a história pelo bem de um contra-ataque nada elegante?
 
 Pelo menos temos alguns aspectos técnicos que, além de corretos, tornam a cinematografia distinta: note a fotografia pálida nos momentos de luz, representando, ironicamente, a falta cada vez maior da própria luz.

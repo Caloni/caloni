@@ -1,9 +1,12 @@
 ---
-date: "2019-06-10"
-link: "https://www.imdb.com/title/tt0497986"
-categories: [ "draft", "movies" ]
-title: "Time - O Amor Contra a Passagem do Tempo"
+categories:
+- draft
+- movies
+date: '2019-06-10'
+link: https://www.imdb.com/title/tt0497986
+title: Time - O Amor Contra a Passagem do Tempo
 ---
+
 Você sempre sai de um filme do diretor coreano Kim-Ki Duk (Fôlego, Pieta, Primavera Verão Outono Inverno e Primavera,  Tipo Ruim) pensativo. É uma marca deste cineasta não fechar as pontas e abrir mais algumas. "Time" faz isso, e faz de uma maneira que dá pra se divertir no processo.
 
 Ele conta a história de um casal de namorados que após dois anos juntos estão sofrendo um certo desgaste. Ela acha que ele não liga mais para seu corpo e seu mesmo rosto enfadonho. Ela é linda. Ele é mulherengo e distraído. Ela é louca.

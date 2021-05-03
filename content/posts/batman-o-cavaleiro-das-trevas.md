@@ -1,9 +1,12 @@
 ---
-date: "2019-03-29"
-link: "https://www.imdb.com/title/tt0468569"
-categories: [ "draft", "movies" ]
-title: "Batman: O Cavaleiro Das Trevas"
+categories:
+- draft
+- movies
+date: '2019-03-29'
+link: https://www.imdb.com/title/tt0468569
+title: 'Batman: O Cavaleiro Das Trevas'
 ---
+
 The Dark Knight fala sobre o caos, mas é dirigido por um diretor tão sistemático que esse caos está meticulosamente definido em 50%. O diretor e roteirista Christopher Nolan é o Duas Caras do cinema. Sua outra cara é seu irmão, Jonathan Nolan, que co-escreve aqui o roteiro e consegue nos entregar um material redondo, polido, com toques góticos que nos remetem ao universo consolidado de Batman e que Nolan diretor realça com seu diretor de fotografia com o negro brilhante desta trilogia. E Heath Ledger, o ator que faz o vilão Coringa, esse sim, é o verdadeiro caos que o filme precisava para se tornar a referência que temos de uma adaptação dos quadrinhos bem feita. Aprende, Marvel.
 
 Ou não aprende. Talvez o defeito das adaptações dos quadrinhos esteja em sua fonte, que nunca foi madura o suficiente para abarcar histórias adultas, preferindo se manter naquele clima colorido e Star Warsiano que nerds, eternos pós-adolescentes, se indentificam, curtem e compartilham. Ao mesmo tempo as graphic novels tentaram avançar o gênero dramático em cima da fantasia dos quadrinhos, onde conseguimos vislumbrar no Cinema ótimos conteúdos como Watchmen e Sin City, mas esses são apenas exemplos raros que ocorrem de vez em quando. Lembre-se que estou usando os geradores de bilheteria como parâmetro porque esses filmes são necessariamente blockbusters, precisam de dinheiro pesado investido para os efeitos. E no caso da trilogia dos Nolan, precisa de um elenco de primeira categoria.

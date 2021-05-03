@@ -1,9 +1,11 @@
 ---
-date: "2011-05-23"
-link: "https://www.imdb.com/title/tt0094291"
-categories: [ "movies" ]
-title: "Wall Street Poder e Cobiça"
+categories:
+- movies
+date: '2011-05-23'
+link: https://www.imdb.com/title/tt0094291
+title: Wall Street Poder e Cobiça
 ---
+
 Após ganhar o oscar por Platoon, Oliver Stone decide focar suas lentes para sua terra natal e abordar temas em torno do que faz mudar, nós e um país inteiro, a maneira de se enxergar: o dinheiro.
 
 A história se passa coincidentemente um pouco antes dos escândalos dos títulos podres e de informação privilegiada (uma rima da vida real no mínimo interessante, se considerarmos sua continuação após a crise de 2008). Michael Douglas faz seu primeiro papel de mau, deixando os antigos mocinhos da televisão que interpretava para trás. Charlie Sheen, por sua vez, tem a missão de transitar por ambos os extremos da moral, uma tarefa ingrata, se consideramos que terá que disputar atenção com um antagonista tão magnético quanto Gordon Gekko.

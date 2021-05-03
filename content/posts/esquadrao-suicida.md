@@ -1,9 +1,12 @@
 ---
-date: "2016-08-12"
-link: "https://www.imdb.com/title/tt1386697"
-categories: [ "draft", "movies" ]
-title: "Esquadrão Suicida"
+categories:
+- draft
+- movies
+date: '2016-08-12'
+link: https://www.imdb.com/title/tt1386697
+title: Esquadrão Suicida
 ---
+
 As músicas deste filme faz com que o que ouvimos se torne infinitamente melhor do que o que vemos (e por "ver" eu quero dizer não só visualmente, mas as situações e os diálogos). Como prêmio de compensação, torna o pacote completo um pouquinho melhor.
 
 Mas estou sendo um pouco injusto sobre o "ver". Afinal de contas, ver os personagens de Will Smith e Margot Robbie acaba sendo, em vários momentos, um deleite. No caso da última, física e espiritualmente. Robbie está incompreensivelmente centrada em um filme que não dá a mínima para seus personagens (embora se esforce em mostrar um punhado deles).

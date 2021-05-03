@@ -1,9 +1,12 @@
 ---
-date: "2019-07-04"
-link: "https://www.imdb.com/title/tt0312843"
-categories: [ "draft", "movies" ]
-title: "O Pacto"
+categories:
+- draft
+- movies
+date: '2019-07-04'
+link: https://www.imdb.com/title/tt0312843
+title: O Pacto
 ---
+
 O terror japonês pode ter todos os defeitos do mundo menos o de ser enfadonho. Aqui vemos nos primeiros minutos cerca de cinquenta garotas colegiais se dando as mãos, contando até três e pulando no trilho do trem para serem esmagadas em uma sequência de várias tomadas capturando para onde foi todo aquele sangue. E você ainda não viu nada.
 
 Este é um terror psicológico que lida com o medo irracional, mas compreensível, de termos nossos instintos sequestrados por alguma espécie de hipnose e nos entregarmos a qualquer impulso que termine com nossa própria vida, como pular de algum lugar alto. Ele lida com o medo de nós fazermos isso, nossos entes queridos ou a sociedade começar a fazer isso. Como você lida com uma crise como essa?

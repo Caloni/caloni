@@ -1,10 +1,14 @@
 ---
-date: "2018-01-13"
-link: "https://www.imdb.com/title/tt5580036"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Eu, Tonya"
+categories:
+- draft
+- movies
+date: '2018-01-13'
+link: https://www.imdb.com/title/tt5580036
+tags:
+- cinemaqui
+title: Eu, Tonya
 ---
+
 Para quem gosta de biografias que contam a história de esportistas com uma infância difícil, uma carreira rodeada de percalços, uma dose sadia de ironia, um final tragicômico e uma trilha sonora com os hits da época, então "Eu, Tonya" talvez seja para você o filme do ano. Do início, pelo menos.
 
 Ambientado entre as décadas de 80 e 90, a história real de Tonya Harding, a primeira patinadora a fazer uma espécie de salto triplo no gelo de costas, é marcada profundamente pelos seus traços culturais norte-americanos. Nas palavras de sua ex-treinadora, o que ninguém pode negar é que Tonya é "muito americana". E por americana ela quis dizer a típica família caipira "red neck" estadounidense, com direito a saber desde criança a atirar em coelhos, cortar lenha e se esforçar ao máximo em seu sonho: patinar no gelo.

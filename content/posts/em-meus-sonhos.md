@@ -1,10 +1,13 @@
 ---
-date: "2020-10-28"
-link: "https://www.imdb.com/title/tt11744850"
-categories: [ "movies" ]
-tags: [ "cinemaqui",  ]
-title: "Em Meus Sonhos"
+categories:
+- movies
+date: '2020-10-28'
+link: https://www.imdb.com/title/tt11744850
+tags:
+- cinemaqui
+title: Em Meus Sonhos
 ---
+
 Em Meus Sonhos é um filme turco independente desta Mostra de São Paulo em formato de streaming e não me parece o tipo de filme que entraria em uma seleção com sessões no cinema. Tem mais cara de filme lançado direto para TV. Que quase ninguém assiste. Se você tem esse perfil de ficar com insônia na madrugada, pode ser que no futuro esteja passando nos corujões da vida, porque o dono da emissora comprou um pacotão de filmes e veio esse de brinde.
 
 Experimental em sua narrativa, gira em torno de um garoto que perde o pai em um acidente de carro e coloca a mãe em coma. Com apenas oito anos, estas são "férias" forçadas para o pequeno Tarik, que passa a viver com seus avós em um vilarejo que mantém muitos dos costumes culturais e religiosos da região.

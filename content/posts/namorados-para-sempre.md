@@ -1,9 +1,11 @@
 ---
-date: "2012-06-09"
-link: "https://www.imdb.com/title/tt1120985"
-categories: [ "movies" ]
-title: "Namorados para Sempre"
+categories:
+- movies
+date: '2012-06-09'
+link: https://www.imdb.com/title/tt1120985
+title: Namorados para Sempre
 ---
+
 O relacionamento entre Dean e Cindy mostrado pelas lentes de Derek Cianfrance oscila entre o peso da rotina do dia-a-dia e a leveza de quando se conheceram, tudo mais ou menos se equilibrando em um retrato intimista e não-romantizado de como é a relação de qualquer casal na vida real.
 
 Uma fotografia triste, voltada para o azul e a falta de cores quentes, aliada com movimentos de câmera praticamente em close, privilegiam as expressões dos personagens diante de cada episódio de suas vidas e faz com que as atuações de peso de Ryan Gosling ([Drive]) e Michelle Williams (Sete Dias com Marylin) se sobressaiam ainda mais, nos levando a conhecê-los em suas expressões e diálogos minimalistas e ao mesmo tempo significativos. No fundo, o que esses dois fazem quase todo o tempo é nos fazer crer que aquele casal, apesar dos percalços que a vida geralmente coloca na nossa frente, fazem o melhor de si para levar suas histórias adiante.

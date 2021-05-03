@@ -1,9 +1,11 @@
 ---
-date: "2013-01-10"
-link: "https://www.imdb.com/title/tt1663661"
-categories: [ "movies" ]
-title: "Era Uma Vez Eu, Verônica"
+categories:
+- movies
+date: '2013-01-10'
+link: https://www.imdb.com/title/tt1663661
+title: Era Uma Vez Eu, Verônica
 ---
+
 Cinema, Aspirinas e Urubus se tornava mais interessante à medida que prestávamos menos atenção à história e mais em seus personagens. Aqui, o diretor Marcelo Gomes repete a fórmula de maneira mais introspectiva ainda, acompanhando a vida de Verônica através quase apenas de seu gravador e seus pensamentos.
 
 Encaramos o ponto de vista da garota a respeito de si mesma assim que ela sai para o mundo real, se dedicando como residente de seu curso de medicina em um hospital público. Mora apenas com seu velho pai, fã de vitrola e de seus discos antigos, e só existe uma coisa que parece tornar sua vida menos comum: o sexo sem restrições. Ou, no caso de Verônica, há uma restrição: ela é incapaz de sentir qualquer sentimento pelos seus casuais companheiros.

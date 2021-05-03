@@ -1,8 +1,10 @@
 ---
-date: "2019-07-20"
-categories: [ "draft" ]
-title: "Anti-Spoilers e o Escudo Pró-Hype"
+categories:
+- draft
+date: '2019-07-20'
+title: Anti-Spoilers e o Escudo Pró-Hype
 ---
+
 Este texto não possui começo nem fim. Ele é uma mera continuação, assim como as da Marvel, que vai se perder no tempo e no espaço. Mas enquanto estamos aqui e enquanto você está disposto a ler sobre o ponto de vista de um velho: eu me lembro de uma época em que o lançamento de um blockbuster era um evento anual. Eu me lembro porque eu vivi essa época, então analiso a realidade atual sob a ótica de alguém que sentiu a mudança surgindo até um momento que o contraste ficou aparente demais para não ser notado.
 
 Comecemos com o tradicional advérbio de velho: "antigamente", quando nossos pais nos levavam para assistir filmes no cinema sem ou com pouca pipoca, quando no espaço inteiro de uma infância víamos meia-dúzia de filmes, lançamentos como De Volta para o Futuro 2 era O evento, ápice do ápice, para não ser notado e comentado.

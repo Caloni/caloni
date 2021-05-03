@@ -1,10 +1,14 @@
 ---
-date: "2017-11-24"
-link: "https://www.imdb.com/title/tt6599064"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Ópera de Paris"
+categories:
+- draft
+- movies
+date: '2017-11-24'
+link: https://www.imdb.com/title/tt6599064
+tags:
+- cinemaqui
+title: A Ópera de Paris
 ---
+
 Eu não entendo muito o conceito de ópera. Nem de balé. Representações caríssimas de uma história que nos faz voltar a uma época antes do Cinema, da TV e da internet pelo bem da manutenção de uma cultura considerada erudita já há muito tempo me parece um gasto desnecessário de recursos públicos. E claro que são recursos públicos. Ou você achou que alguém pagaria de livre e espontânea vontade por um espetáculo desses? E como em um momento é dito em A Ópera de Paris, há um jogo de interesses por trás da decisão de flutuar o preço entre cerca de 300 euros ou 150. E quando a discussão gira em torno de um ingresso mais "barato" de 150 euros, talvez seja a hora de abrir uma nova discussão: a de prioridades nos gastos do dinheiro dos outros.
 
 No entanto, se você gosta dessas duas representações musicais e artísticas, e nunca entendeu como as coisas se desenrolam por detrás das cortinas, A Ópera de Paris é o documentário que você precisa assistir. Desde a administração, até a gerência e a condução, treino, assistência, maquiagem, figurino, limpeza, fotografia, música, canto e dança, todos os elementos preparatórios de um espetáculos são destrinchados aqui, neste filme do diretor Jean-Stéphane Bron, que observa astutamente momentos-chave de todos os envolvidos na produção e condução de um investimento imenso de tempo, recursos e pessoas. 

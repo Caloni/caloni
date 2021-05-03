@@ -1,9 +1,12 @@
 ---
-date: "2016-03-19"
-link: "https://www.imdb.com/title/tt1213663"
-categories: [ "draft", "movies" ]
-title: "Heróis de Ressaca"
+categories:
+- draft
+- movies
+date: '2016-03-19'
+link: https://www.imdb.com/title/tt1213663
+title: Heróis de Ressaca
 ---
+
 Uma comédia britânica que não se resume a boas risadas. Aliás, talvez você nem encontre boas risadas, dependendo do seu senso de humor. A questão é que há muita falta de timing cômico na maioria das cenas, tornando a atuação exagerada de Simon Pegg simplesmente exagerada.
 
 No entanto, há uma história aí. Se trata de um homem que não conseguiu tocar sua vida depois do colégio, se limitando a definir a memorável noite em que ele e seus quatro amigos saíram pela cidadezinha onde moravam para fazer o circuito dos 12 bares, sendo que o último se chama Fim do Mundo. Após a narração épica de Gary, o vemos em um círculo de pessoas, fazendo o testemunho de algum grupo de apoio, e já com mais de 40 anos.

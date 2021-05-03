@@ -1,9 +1,11 @@
 ---
-date: "2013-10-04"
-link: "https://www.imdb.com/title/tt2404311"
-categories: [ "movies" ]
-title: "A Família"
+categories:
+- movies
+date: '2013-10-04'
+link: https://www.imdb.com/title/tt2404311
+title: A Família
 ---
+
 Aquele filme esquecível que até que tem uma ideia interessante: proteger uma família de mafiosos. Protagonizada por Robert de Niro. Encabeçada por Michelle Pfeiffer. Assessorada por Tommy Lee Jones. O que poderia dar errado?
 
 Tecnicamente nada, e essa falta de surpresas é um problema em si para um filme que contém tanto potencial destrutivo. O pai (de Niro) é um cabeça quente que resolve suas diferenças com um taco de beisebol (ou o que estiver à mão). A filha (Dianna Agron) segue a violência do pai como um caminho saudável para conseguir o que quer. O filho (John D'Leo), mais político, usa a rede de influências da escola para dominar seus desafetos escolares. Já a mãe (Pfeiffer), o pilar de casa, tenta colocar as coisas nos eixos quando ela mesma às vezes se "descontrola" e incendeia o mercado das cidadezinhas por onde passa.

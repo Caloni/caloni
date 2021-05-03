@@ -1,9 +1,12 @@
 ---
-date: "2016-10-21"
-link: "https://www.imdb.com/title/tt5354986"
-categories: [ "draft", "movies" ]
-title: "Profundidade Dois"
+categories:
+- draft
+- movies
+date: '2016-10-21'
+link: https://www.imdb.com/title/tt5354986
+title: Profundidade Dois
 ---
+
 Um documentário que é uma peça de museu. Fala sobre um massacre "de guerra" feito em civis perpetrado pelos capangas psicopatas de um presidente. Bom, o que há de novo? 100% dos massacres são assim.
 
 Tendo como pano de fundo a guerra da Iugoslávia contra o território de Kosovo e a entrada da OTAN no conflito após acusações de abusos nos direitos humanos, o filme resgata mais abusos de direitos humanos, dessa vez dentro do próprio território controlado pela própria Iugoslávia, às vésperas de dua dissolução com a independência de suas repúblicas formadoras, que durante toda a História nunca resolviam seus conflitos.

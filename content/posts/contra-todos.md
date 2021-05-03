@@ -1,9 +1,12 @@
 ---
-date: "2019-08-31"
-link: "https://www.imdb.com/title/tt0395978"
-categories: [ "draft", "movies" ]
-title: "Contra Todos"
+categories:
+- draft
+- movies
+date: '2019-08-31'
+link: https://www.imdb.com/title/tt0395978
+title: Contra Todos
 ---
+
 Dos mesmos produtores de Cidade de Deus, este é um filme em que os personagens do roteiro foram sendo contruídos na preparação de elenco. Não é um elenco de primeira, mas o resultado sim, e mais realista do que se os papéis fossem entregues para celebridades. O resultado é visceral pela história, realista pelos diálogos e potencialmente um quase documentário ficcional.
 
 A história se passa em São Paulo, capital, e essas pessoas vivem suas vidas de pobre como em qualquer megalópole: moram longe do centro urbano, mas estão sempre por lá. A religião e a violência são pauta para análise dessa família disfuncional onde o pai bate na filha adolescente e a madastra é tem uma lascívia incontrolável quando o marido não está em casa, mas cortejando uma evangélica que conheceu no culto.

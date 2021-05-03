@@ -1,9 +1,11 @@
 ---
-date: "2010-10-01"
-link: "https://www.imdb.com/title/tt0879870"
-categories: [ "movies" ]
-title: "Comer, Rezar, Amar"
+categories:
+- movies
+date: '2010-10-01'
+link: https://www.imdb.com/title/tt0879870
+title: Comer, Rezar, Amar
 ---
+
 Julia Roberts é Liz Gilbert, uma mulher desiludida com o casamento em que vive e que busca em uma viagem pelo mundo (na verdade, Itália e Índia) se "reconectar" ao mundo. É através desse "objetivo" que vemos a personagem vivenciar momentos de puro êxtase turístico, em um filme que claramente apresenta as locações com esse propósito.
 
 A cadência de ações consegue até mostrar de fato uma conexão e uma evolução na narrativa, mas o fato é que o máximo que conseguimos extrair dessa experiência é como existem lugares bonitos para conhecer no mundo (especialmente se salpicados com uma ótima fotografia).

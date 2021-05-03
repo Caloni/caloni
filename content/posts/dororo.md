@@ -1,9 +1,11 @@
 ---
-date: "2021-02-15"
-link: "https://www.imdb.com/title/tt9458304"
-categories: [ "animes" ]
-title: "Dororo"
+categories:
+- animes
+date: '2021-02-15'
+link: https://www.imdb.com/title/tt9458304
+title: Dororo
 ---
+
 Originalmente um mangá da década de 60, este remake animado mantém alguns aspectos brutais deste drama em contexto histórico com muita instabilidade política, violência e extrema pobreza. Estes elementos são piorados ou representados pelas figuras de monstros e demônios habitando o Japão durante o declínio de seu sistema feudal, guerra civil e, portanto, tempos de incerteza.
 
 Os traços são absurdamente estilizados na empolgante introdução, embalada por uma música moderna. Esta arte é vista apenas em detalhes eventuais nos traços principais, mais acessível ao público. O uso de cores como representação é um dos pontos fortes, como o vermelho sangue para coisas ruins.

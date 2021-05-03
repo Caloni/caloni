@@ -1,9 +1,12 @@
 ---
-date: "2016-08-05"
-link: "https://www.imdb.com/title/tt1512235"
-categories: [ "draft", "movies" ]
-title: "Super"
+categories:
+- draft
+- movies
+date: '2016-08-05'
+link: https://www.imdb.com/title/tt1512235
+title: Super
 ---
+
 Sinto muito, Marvel. Sorry, DC. Um dos melhores filmes sobre heróis dos últimos anos é Super. Não que ele tenha efeitos visuais de última geração. Nem que ele tenha um personagem carismático que faz piadinhas escolhidas a dedo pelos produtores (que não querem correr o risco de "subir a censura"). Também não é porque ele entope o roteiro de personagens mascarados, cada um com sua história de origem, rivalizando quem consegue maior tempo de tela. O filme não possui nada disso. "Super" consegue se desvencilhar de todos esses clichês e se sair ainda melhor que o ótimo e controverso Deadpool, justamente por levar o "controverso" às últimas consequências (e não ficar com medo do que o público irá pensar). O filme dirigido e escrito por James Gunn (Para Maiores, Guardiões da Galáxia) desconstrói o sub-gênero e ainda consegue sair por cima dos destroços. Ele descaradamente vai na fonte mística que deu origem à mitologia moderna e esfrega na nossa cara que não precisa muito para ser um herói. Basta lutar contra o mal. E quem é o mal? É aí que o filme surpreende ainda mais.
 
 A história não seria nada sem as participações descontraídas, energizadas, inspiradas de seu elenco. Se até	Kevin Bacon consegue com seu Jacques fazer seu braço direito duvidar de tamanho desvio moral do chefe, e a lindíssima Liv Tyler serve como um perfeito esboço que justifique qualquer tipo de loucura, é Ellen Page que nos representa, em toda sua loucura fanática, sua luxúria em corpo de menina e sua capacidade de unir uma criatura completamente caricata em um formato palatável. Ela consegue empalidecer a foderosa Hit-Girl (Chloë Moretz, Kick-Ass), que se envergonha e sai de fininho da sala.

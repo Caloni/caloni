@@ -1,9 +1,11 @@
 ---
-date: "2011-08-23"
-link: "https://www.imdb.com/title/tt1579223"
-categories: [ "movies" ]
-title: "Assalto ao Banco Central"
+categories:
+- movies
+date: '2011-08-23'
+link: https://www.imdb.com/title/tt1579223
+title: Assalto ao Banco Central
 ---
+
 Assalto ao Banco Central está longe de ser o filme insuportável pintado pela crítica. Porém, o que é mais importante: Assalto é um filme que decepciona em todos os gêneros que tenta se inserir.
 
 Dirigido por Marcos Paulo, que, no seu currículo, apresenta em sua maioria novelas e séries televisivas, o longa narra o assalto mais ambicioso da história do Brasil, quando, em 2005, mais de 160 milhões de reais foram roubados do Banco Central. O roteiro, escrito a seis mãos, se perde completamente ao ir contando em paralelo o início das investigações e a execução do plano dos assaltantes. Além de ser um recurso inútil do ponto de vista narrativo, faz perder toda a tensão do segundo ato, quando vemos a polícia federal perseguindo os bandidos com os tipos mais diversos de artimanhas.

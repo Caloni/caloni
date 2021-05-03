@@ -1,9 +1,11 @@
 ---
-date: "2012-11-08"
-link: "https://www.imdb.com/title/tt1074638"
-categories: [ "movies" ]
-title: "007 Operação Skyfall"
+categories:
+- movies
+date: '2012-11-08'
+link: https://www.imdb.com/title/tt1074638
+title: 007 Operação Skyfall
 ---
+
 Skyfall volta a abraçar a mitologia 007 criada em sua era clássica e ao mesmo tempo discute o futuro de um personagem retrô, mas com estilo, que mesmo 50 anos depois ainda consegue viver aventuras que apesar de conter ação descerebrada possui um fio condutor na história que mesmo não sendo original ou tendo momentos brilhantes ganha corpo pelo seu conjunto da obra.
 
 Ambientado nos tempos atuais mas sempre voltando para a época de ouro do agente secreto, o roteiro escrito a seis mãos narra a crise que se estabelece o MI6 depois que um disco contendo dados sigilosos da própria corporação cai nas mãos de terroristas. Sempre agindo além da lei e contando com o anonimato para fazer cumprir seu dever, o futuro da corporação é colocado em xeque, ou pelo menos a maneira com que ela é conduzida por sua dirigente M (Judy Dench), que sofre a ameaça de ser substituída em breve.

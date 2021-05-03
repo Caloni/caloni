@@ -1,10 +1,14 @@
 ---
-date: "2019-10-09"
-link: "https://www.imdb.com/title/tt9568668"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Boia"
+categories:
+- draft
+- movies
+date: '2019-10-09'
+link: https://www.imdb.com/title/tt9568668
+tags:
+- cinemaqui
+title: A Boia
 ---
+
 Quando a Go Pro encontra o poeta. A tecnologia de filmagens com câmeras de alta resolução e drones possibilitam a qualquer um, até quem não tem muito o que dizer, a fazer seu próprio filme. O seu documentário da vida real, digamos assim. E é assim que o diretor Fernando Spiner concebe este projeto, A Boia, obcecado mais pelo experimento do que pelo filme em si.
 
 Apesar de documentário, este filme não segue o formato entrevista; ele emenda pequenos momentos da vida do diretor que quer resgatar a história de seu amigo poeta. Ambos viviam em uma vila à beira mar. Seu amigo era farmacêutico a mando dos pais, e demorou muito anos até que ele finalmente conseguisse escrever seu primeiro livro de poesias. Mas mais do que essa história, o filme fala das poesias sobre o mar, e  com momentos filmados no mar. 

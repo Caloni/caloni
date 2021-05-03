@@ -1,9 +1,11 @@
 ---
-date: "2011-10-25"
-link: "https://www.imdb.com/title/tt2087864"
-categories: [ "movies" ]
-title: "Là-bas: Educação Criminal"
+categories:
+- movies
+date: '2011-10-25'
+link: https://www.imdb.com/title/tt2087864
+title: 'Là-bas: Educação Criminal'
 ---
+
 Um filme não necessariamente precisa ter um excelente roteiro para levar o espectador a pensar muito a respeito. Algumas vezes, bastam pequenos detalhes que levem em consideração: 1) a inteligência de quem assiste e 2) a motivação narrativa por trás da informação, que o filme fluirá e trará algo de novo para a gaveta de conhecimentos do cinéfilo.
 
 Esse parece ser o caso desse La Bàs: Educação Criminal, que pelo próprio título já sugere algum tipo de ação ilegal na história. De fato, somos apresentados logo no início a um texto que explica que os africanos imigrados na Itália são proibidos por lei de terem um emprego. Isso já faz pensar de imediato o que essas pessoas fazem para ganhar a vida, e é assim que o fio do enredo se inicia.

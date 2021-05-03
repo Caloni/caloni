@@ -1,10 +1,13 @@
 ---
-date: "2015-05-21"
-link: "https://www.imdb.com/title/tt2929890"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Homem Que Elas Amavam Demais"
+categories:
+- movies
+date: '2015-05-21'
+link: https://www.imdb.com/title/tt2929890
+tags:
+- cinemaqui
+title: O Homem Que Elas Amavam Demais
 ---
+
 O Homem que Elas Amavam Demais parece ter um problema em conseguir definir o lado da história que deseja contar, mas logo isso vira uma virtude, pois não deixa de ser fascinante observar a relação entre os envolvidos sabendo que ele foi baseado nas memórias de Renée Le Roux (Catherine Deneuve) e que, portanto, uma boa parcela na interpretação dos fatos se deve à visão de uma mãe desesperada. Dessa forma, é curioso constatar que a visão que o filme de André Téchiné entrega a respeito de Maurice Agnelet (Guillaume Canet), o advogado responsável por todas as reviravoltas na história (e possivelmente também a última), não parece demonizar de maneira exemplar seu caráter, pois há muitos momentos onde a figura de Maurice parece tudo, menos ameaçadora.
 
 O filme começa contando a história de Agnès Le Roux (Adèle Haenel), que volta após um divórcio para viver na cidade da mãe, dona de um cassino que mostra sinais de decadência, principalmente depois que uma máfia resolve se estabelecer no local e comprar todos os concorrentes, usando-os para lavagem de dinheiro. Na companhia do seu advogado e conselheiro sempre presente Maurice Agnelet, a vida de Agnès se funde à de sua mãe nesse momento crítico principalmente através da figura de Agnelet, que se mostra desde o começo como uma pessoa com um objetivo em mente e disposto a tudo para atingi-lo. Seu comportamento muitas vezes dissociado de seus sentimentos lembra uma versão menos afetada e mais dissimulada de Louis Bloom, personagem de Jake Gyllenhaal no excelente O Abutre (2014), e que também nutria uma obsessão profissional que se mistura completamente com a pessoal.

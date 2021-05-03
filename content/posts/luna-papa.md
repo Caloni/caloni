@@ -1,9 +1,12 @@
 ---
-date: "2019-05-04"
-link: "https://www.imdb.com/title/tt0170259"
-categories: [ "draft", "movies" ]
-title: "Luna Papa"
+categories:
+- draft
+- movies
+date: '2019-05-04'
+link: https://www.imdb.com/title/tt0170259
+title: Luna Papa
 ---
+
 Esta é uma comédia russa que vai fazer você pensar várias vezes: mais um dia normal na Rússia.
 
 Estamos na parte oriental, com turbantes, camelos, deserto e malucos de todo gênero. Uma trupe de atores passa pela cidade e um ator deixa um herdeiro, o narrador na história, na barriga de uma moça que adora o teatro.

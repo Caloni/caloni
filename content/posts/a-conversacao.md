@@ -1,9 +1,11 @@
 ---
-date: "2013-11-16"
-link: "https://www.imdb.com/title/tt0071360"
-categories: [ "movies" ]
-title: "A Conversação"
+categories:
+- movies
+date: '2013-11-16'
+link: https://www.imdb.com/title/tt0071360
+title: A Conversação
 ---
+
 Geralmente quando o Cinema se volta para si mesmo (rendendo boa parte das vezes filmes memoráveis) ele nunca pensa em descrever como o som é importante. Direção, atores, fotografia, trilha sonora, tudo isso parece relevante para o público médio. Mas o som, esse pobre coitado, é renegado à posição de "quanto mais invisível, melhor".
 
 Não estou falando de explosões e tiros, é claro. Estou falando dos detalhes imperceptíveis, mesmo. Uma porta se abrindo. Passos pelo corredor. Uma folheada de um livro. Esses detalhes passariam despercebidos em A Conversação se o personagem de Gene Hackman, Harry Caul, não fosse um profissional obcecado pelo perfeccionismo técnico (além do ético).

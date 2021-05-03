@@ -1,9 +1,12 @@
 ---
-date: "2017-10-22"
-link: "https://www.imdb.com/title/tt2788716"
-categories: [ "draft", "movies" ]
-title: "Bem Vindos Ao Mundo"
+categories:
+- draft
+- movies
+date: '2017-10-22'
+link: https://www.imdb.com/title/tt2788716
+title: Bem Vindos Ao Mundo
 ---
+
 Kristen Wiig é uma mestre da comédia física. Aqui ela faz uma protagonista bipolar que ganha na loteria e escala rapidamente seu distorcido mundo em uma versão com muito dinheiro. É possível dar boas risadas de sua performance, que consegue não apenas convencer, mas deixar uma pulga atrás da orelha: esta é uma comédia ou um drama?
 
 E é justament essa pulga que diminui os resultados do filme do diretor Shira Piven, que através do roteiro de Eliot Laurence realiza um filme de humor negro que nos faz a todo momento buscar alguma moral nisso tudo. Qual a bússola moral ao vermos a personagem de Wiig se humilhando em público e demonstrando seu egocentrismo exarcebado e todos os seus tramas da infância e adolescência, se sabemos que ela já possui sérios problemas psicológicos?

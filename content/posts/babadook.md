@@ -1,9 +1,11 @@
 ---
-date: "2015-01-22"
-link: "https://www.imdb.com/title/tt2321549"
-categories: [ "movies" ]
-title: "The Babadook"
+categories:
+- movies
+date: '2015-01-22'
+link: https://www.imdb.com/title/tt2321549
+title: The Babadook
 ---
+
 É impressionante como tudo funciona em Babadook, e mais impressionante ainda sendo pertencente a um dos gêneros mais maltratados do Cinema atual no Ocidente: o Terror. Para tornar exponencial a minha surpresa, notei que a estrutura do filme é estupidamente simples e enxuta, se resumindo em pegar sua ótima premissa e desenvolvê-la ao máximo. Ainda é de brinde uma aula de Cinema.
 
 A história mantém basicamente duas pessoas em foco, uma dependente da outra. A mãe (Essie Davis), Amelia, uma viúva que não consegue mais juntar forças para cuidar de seu filho superativo, Samuel (Noah Wiseman). O filme começa com um sonho de Amelia envolvendo o acidente que terminou com a vida de seu marido, mas o filme inteiro é um enorme pesadelo acordado. A mãe é enfermeira em um asilo e sempre se veste com roupas claras que dão a impressão de sempre estar com roupas de dormir. O sonho do início obviamente é uma dica disso, pois no final ela pousa em sua cama vestindo roupas comuns. Igualmente relevante são as cores da casa seguir os mesmos tons claros, relacionando uma coisa na outra: sonho e casa são a psique da protagonista.

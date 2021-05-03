@@ -1,9 +1,12 @@
 ---
-date: "2019-03-30"
-link: "https://www.imdb.com/title/tt0010323"
-categories: [ "draft", "movies" ]
-title: "O Gabinete do Dr Caligari"
+categories:
+- draft
+- movies
+date: '2019-03-30'
+link: https://www.imdb.com/title/tt0010323
+title: O Gabinete do Dr Caligari
 ---
+
 Caligari! Caligari! Caligari! Um grito surdo que se traduz no cinema mudo com este nome sendo escrito pela tela de todas as formas. Este é um dos representantes do expressionismo alemão que inspirou o estilo noir que por sua vez está influenciando o neo-noir. Cenários com sombras distorcidas, elementos exagerados na tela, maquiagem pesada estilo gótico (o de indivíduos, não a arte alemã). É um filme curto que já arrisca detalhes novos na linguagem como paralelismo, sonhos e certa complexidade na história.
 
 Hoje é analisado pelos críticos como uma clara alusão ao Estado alemão pré-nazista, crescendo como um ser autoritário sem controle e massacrando o povo judeu. Sim, tem maluco para tudo no mundo da arte. Como primeira camada, é a história do misterioso Dr. Caligari e seu sonâmbulo. A história se desdobra duas vezes e a cada vez que você assiste percebe algum detalhe novo. A reviravolta inicial a gente nunca esquece, pois não é esperado de um filme tão antigo.

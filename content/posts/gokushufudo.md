@@ -1,9 +1,12 @@
 ---
-date: "2021-04-25"
-link: "https://www.imdb.com/title/tt13357124"
-categories: [ "draft", "animes" ]
-title: "Gokushufudo (The Way of the Househusband)"
+categories:
+- draft
+- animes
+date: '2021-04-25'
+link: https://www.imdb.com/title/tt13357124
+title: Gokushufudo (The Way of the Househusband)
 ---
+
 Este curto anime discorre sobre episódios na vida de um ex-Yakuza que agora é dono de casa, mas leva sua rotina tão ou mais a sério do que sua vida de crimes. Ele cozinha bem e administra as compras de casa. O plot é que sem querer ele consegue se desviar dos personagens que tentam fazê-lo voltar aos velhos tempos, e a comicidade está no absurdo das situações.
 
 Os traços são estilizados como um web comic cheio de textura, cores e sombras. E não à toa, já que a animação é feita direto na edição e movimentação da arte estática, com poucos quadros desenhados, mas com uma estética que conseguimos admirar pelo menos por alguns segundos.

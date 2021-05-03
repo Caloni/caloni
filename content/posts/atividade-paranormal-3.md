@@ -1,9 +1,11 @@
 ---
-date: "2011-11-24"
-link: "https://www.imdb.com/title/tt1778304"
-categories: [ "movies" ]
-title: "Atividade Paranormal 3"
+categories:
+- movies
+date: '2011-11-24'
+link: https://www.imdb.com/title/tt1778304
+title: Atividade Paranormal 3
 ---
+
 Usando ainda a velha fórmula de câmeras caseiras que registram eventos aparentemente sobrenaturais, essa é a quarta edição de Atividade Paranormal, já que houve um spin-off [japonês], em contrapartida ao que houve na série Velozes e Furiosos; algo como A.P. : Desafio em Tóquio. Continua funcionando muito bem como terror ao gerar medo tanto pelas situações comuns pelos quais todos nós passamos (como a sensação de ter o cobertor puxado no meio da noite) quanto o caráter documental do filme, sem contar a tensão sempre crescente por estarmos, obviamente, aguardando por sustos. Este último ingrediente da série, aliás, chega a ser o tempero especial, pois os sustos geralmente são entregues aos poucos e de maneira caprichosa, o que acaba gerando mais tensão ainda para o grand finale.
 
 A história dessa vez está contida em vídeos que foram gravados pelo pai de uma família no final dos anos 80 no bom e velho VHS. Ele registra festas de casamento, o que automaticamente explica o fato dele ter diversas câmeras. O motivo inicial das filmagens caseiras, porém, está na estranha poeira capturada em uma gravação acidental que deu a impressão para ele e seu irmão que se tratava da silhueta de uma pessoa. Disposto a capturar fenômenos parecidos, o marido começa a gravar as noites em seu quarto e no de suas duas filhas pequenas.

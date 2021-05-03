@@ -1,8 +1,11 @@
 ---
-date: "2008-09-23"
+categories:
+- draft
+- code
+date: '2008-09-23'
 title: Windows Jobs com Completion Port
-categories: [ "draft", "code" ]
 ---
+
 Ou "Como esperar o término de todos os processos-filho criados a partir de um conjunto de processos".
 
 Dessa vez confesso que esperava um pouco mais de documentação do MSDN, ou pelo menos um sistema de referências cruzadas eficiente. Outro dia demorei cerca de duas horas para conseguir [criar um _**job**_](http://msdn.microsoft.com/en-us/library/ms682409(VS.85).aspx), anexar o processo desejado e, a pior parte, esperar que todos os processos (o principal e seus filhos e netos) terminassem.

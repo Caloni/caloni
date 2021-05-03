@@ -1,8 +1,10 @@
 ---
-date: "2007-11-19"
-categories: [ "code" ]
-title: "História do Windows - parte 5.1"
+categories:
+- code
+date: '2007-11-19'
+title: História do Windows - parte 5.1
 ---
+
 Chega às lojas no dia 25 de outubro de 2001 a unificação entre as plataformas de uso doméstico e corporativo do sistema. O Windows XP, de Windows eXPerience, usa o kernel de 32 bits de seus antecessores Windows NT e Windows 2000. É vendido em duas edições: Home e Professional Edition. O design do sistema foi totalmente remodulado para suportar ao mesmo tempo a facilidade de uso do usuário doméstico e a robustez e confiabilidade dos clientes corporativos. Essa é minha versão favorita da [História do Windows] e junto do Windows 7 uma das edições mais robustas já feitas.
 
 ![Windows XP (Luna) na Wikipedia](/img/windows_xp.png)

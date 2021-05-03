@@ -1,9 +1,12 @@
 ---
-date: "2019-03-17"
-link: "https://www.imdb.com/title/tt0117060"
-categories: [ "draft", "movies" ]
-title: "Missão: Impossível"
+categories:
+- draft
+- movies
+date: '2019-03-17'
+link: https://www.imdb.com/title/tt0117060
+title: 'Missão: Impossível'
 ---
+
 O primeiro "Missão: Impossível" é, em poucas palavras, velho. Em mais algumas palavras, há monitores de tubo, cabines telefônicas como único recurso de comunicação e filmes VHS na primeira classe de um avião. Estamos em 1996 e Brian De Palma aceita o projeto de transformar uma série televisiva farofa em algo além de sua música-tema inesquecível. E através de uma reviravolta básica, que fundamentou todos os plots da série no futuro, ele inicia uma franquia com chave de ouro.
 
 Eu me lembro que fui assistir ao primeiro Missão Impossível no Cinema. Só não lembrava que fazia tanto tempo assim. E também achava o plot muito confuso aos dezesseis anos. Hoje eu percebo que a cena-chave do filme é o momento em que Ethan Hunt, único sobrevivente de uma missão, está ouvindo um colega dizer quem é o traidor de sua equipe. Acompanhamos o sujeito falando e vemos Hunt reproduzir os momentos em sua cabeça, mas não da forma como ele diz e sim incriminando o tal sujeito. Essa cena é a prova de que é possível ser elegante mesmo em filmes de ação e espionagem. Que não é preciso ofender a capacidade intelectual de seus espectadores. Mesmo que ele tenha dezesseis anos.

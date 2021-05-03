@@ -1,9 +1,12 @@
 ---
-date: "2018-12-07"
-link: "https://www.imdb.com/title/tt0117008"
-categories: [ "draft", "movies" ]
-title: "Matilda"
+categories:
+- draft
+- movies
+date: '2018-12-07'
+link: https://www.imdb.com/title/tt0117008
+title: Matilda
 ---
+
 Matilda passa na regra dos 15 anos. Se trata de um filme infantil, com premissas infantis, enxergadas do ponto de vista de uma criança. Mas, perdoem os maniqueísmos, é uma louvável lição sobre como quando as coisas certas acontecem nos ambiente errados.
 
 Em primeiro lugar a história exalta a inteligência, livre espírito e iniciativa de Matilda, que no sorriso peralta e ao mesmo tempo honesto de Mara Wilson vira uma base moral para toda a história, recheada de adultos que, alheios à vida virtuosa e engrandecedora, simplesmente não entendem. Pior: tentam a todo momento esmagar a individualidade dos pequeninos no filme.

@@ -1,10 +1,14 @@
 ---
-date: "2018-10-27"
-link: "https://www.imdb.com/title/tt7962890"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Viagem Aos Povos Fumigados"
+categories:
+- draft
+- movies
+date: '2018-10-27'
+link: https://www.imdb.com/title/tt7962890
+tags:
+- cinemaqui
+title: Viagem Aos Povos Fumigados
 ---
+
 Viagem Aos Povos Fumigados é um documentário estilo denúncia, mas que parece inflado de conclusões precipitadas e carece de investigação mais abrangente. Ele é feito pelo documentarista itinerante Fernando Solanas, que descobriu uma pista para esta impactante história ao final das filmagens de seu último trabalho.
 
 Dessa forma o filme segue parecendo um relato investigativo sem a investigação. Solanas tem muito a dizer e pouco a avaliar sobre a velha questão dos agrotóxicos usados para aumentar a produção de alimentos e que vem causando doenças e mortes por conta da aplicação incorreta e pelo impacto ambiental generalizado.

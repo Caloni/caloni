@@ -1,9 +1,11 @@
 ---
-date: "2020-09-06"
-link: "https://www.imdb.com/title/tt1032856"
-categories: [ "movies" ]
-title: "A Banda"
+categories:
+- movies
+date: '2020-09-06'
+link: https://www.imdb.com/title/tt1032856
+title: A Banda
 ---
+
 Estão todos juntos porque o uniforme é o mesmo, mas seus espíritos vagam em diferentes sentidos, entre a fantasia de estar perdido em país estrangeiro e o desespero de ter que viver tudo aquilo com seus colegas. Porque, sabe como é, estão todos com o mesmo uniforme, mas não quer dizer na mesma página da partitura.
 
 A Banda pode ser uma metáfora sobre a vida, ou pelo menos é isso que o espectador pode pensar, já que não há nada mais para pensar e os poucos diálogos apenas tentam compor a comédia de situações do choque de culturas: estrangeiros vestidos com extravagância deslocada observando a vida local e os locais em um misto entre alienação e nostalgia. Todos pararam no tempo neste filme.

@@ -1,9 +1,12 @@
 ---
-date: "2017-03-01"
-link: "https://www.imdb.com/title/tt4682786"
-categories: [ "draft", "movies" ]
-title: "Beleza Oculta"
+categories:
+- draft
+- movies
+date: '2017-03-01'
+link: https://www.imdb.com/title/tt4682786
+title: Beleza Oculta
 ---
+
 Will Smith se especializou em histórias que o trazem como um heroi carismático que esconde isso por trás de uma máscara de dor e sofrimento. Filmes ótimos com ele como À Procura da Felicidade e Eu Sou A Lenda fazem isso com louvor. Filmes medíocres como Hancock (onde ele é não um heroi, mas um super-heroi) fazem isso no automático. E até filmes ruins como Sete Vidas e Esquadrão Suicida fazem isso de uma forma ou de outra, se entregando às lágrimas fáceis (se você estiver disposto a isso). Então não seria errado pensar que em Beleza Oculta estamos revisitando novamente esta persistente faceta da persona do ator, que está conseguindo realizar este trabalho cada vez mais próximo da perfeição.
 
 Infelizmente é uma perfeição desperdiçada por um conto simétrico e redondinho que parece evitar a menor complicação em sua narrativa. Se trata de uma pessoa traumatizada pela morte da filha, antes uma pessoa de sucesso, hoje apenas sua sombra. Ele tem três bons amigos em sua empresa que buscam salvá-la -- além de suas próprias vidas financeiras -- mesmo arriscando sua amizade e trazendo para sua realidade seus delírios juvenis de estar de birra com três elementos da vida que antes eram seus "companheiros": Morte, Tempo, Amor.

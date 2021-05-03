@@ -1,10 +1,14 @@
 ---
-date: "2017-09-05"
-link: "https://www.imdb.com/title/tt3790756"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Gente"
+categories:
+- draft
+- movies
+date: '2017-09-05'
+link: https://www.imdb.com/title/tt3790756
+tags:
+- cinemaqui
+title: A Gente
 ---
+
 Um bom resumo para o inusitado "A Gente", que chega quatro anos atrasado aos cinemas, é: a história de um carcereiro competente demais para o cargo. Tão competente que virou cineasta, e aqui volta à sua antiga profissão, além de dirigir, roteirizar, filmar, montar e produzir o documentário, demonstrando (mais uma vez) a situação muitas vezes insalubre com que os agentes penitenciários trabalham, e concluindo uma trilogia pessoal do cineasta.
 
 Mas o lado interessante do longa é que essa situação insalubre não é dramatizada de forma alguma. O filme simplesmente acompanha sua rotina de inspetor Aly Muritiba (que faz ele mesmo no passado) e seus colegas de serviço (seus ex-colegas de profissão). A rotina envolve, além dos procedimentos com os presos, inúmeras reuniões com a equipe para tentar melhorar o serviço, seguido de constantes frustações. Porque convenhamos: não é o tipo de vaga que atrai os melhores profissionais.

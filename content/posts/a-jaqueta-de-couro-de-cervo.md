@@ -1,10 +1,14 @@
 ---
-date: "2019-12-21"
-link: "https://www.imdb.com/title/tt8193790"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Jaqueta de Couro de Cervo"
+categories:
+- draft
+- movies
+date: '2019-12-21'
+link: https://www.imdb.com/title/tt8193790
+tags:
+- cinemaqui
+title: A Jaqueta de Couro de Cervo
 ---
+
 A lógica de A Jaqueta de Couro de Cervo é simples, direta e escalável. É daqueles filmes curtos que exploram um tema até seu inevitável final, não nos permitindo sair dos trilhos. Nos limitamos a ficar tensos, aguardando quando as coisas começarão a dar errado, enquanto assistimos nossa própria incompreensão de quando começa o fascínio por uma história de cinema.
 
 Jean Dujardin (O Artista) vive Georges, um ser que se descontrói no primeiro momento do filme, enfiando sua jaqueta dentro de uma privada no meio do nada e nunca olhando para trás. Mas não se engane por esse pequeno ato. Georges está relaxado e focado. Sua raiva reacionária é demonstrada de maneira econômica e pontual, e seus atos amorais são efetuados sob um véu funcional que não nos permite ignorar sua seriedade.

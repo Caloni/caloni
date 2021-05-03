@@ -1,9 +1,12 @@
 ---
-date: "2016-03-19"
-link: "https://www.imdb.com/title/tt1219289"
-categories: [ "draft", "movies" ]
-title: "Sem Limites"
+categories:
+- draft
+- movies
+date: '2016-03-19'
+link: https://www.imdb.com/title/tt1219289
+title: Sem Limites
 ---
+
 Bradley Cooper protagoniza este filme de Neil Burger, provavelmente o melhor trabalho até aqui do diretor que já fez O Ilusionista, mas também Divergente.
 
 A história, adaptada pelo igualmente habituado a trabalhos mdíocres Leslie Dixon, é baseada no romance de Alan Glynn, e talvez por isso suas ideias sejam interessantes se levadas pela abordagem realista que o filme todo o tempo tenta trazer.

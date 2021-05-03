@@ -1,8 +1,11 @@
 ---
-date: "2008-09-19"
+categories:
+- draft
+- blog
+date: '2008-09-19'
 title: Reúna seus comandos mais usados no WinDbg com .cmdtree
-categories: [ "draft", "blog" ]
 ---
+
 Tudo começou com o [artigo de Roberto Farah](http://blogs.msdn.com/debuggingtoolbox/archive/2008/09/17/special-command-execute-commands-from-a-customized-user-interface-with-cmdtree.aspx) sobre o comando "escondido" do WinDbg [.cmdtree](http://www.microsoft.com/whdc/devtools/debugging/whatsnew.mspx). Logo depois meus outros colegas do fã-clube do WinDbg [Volker von Einem](http://voneinem-windbg.blogspot.com/2008/09/amazing-helper-cmdtree.html) e [Dmitry Vostokov](http://www.dumpanalysis.org/blog/index.php/2008/09/18/cmdtreetxt-for-cda-checklist/) comentaram sobre a imensa utilidade desse comando.
 
 E não é pra menos. É de longe o melhor comando não-documentado do ano. Tão bom que sou obrigado a comentar em português sobre ele, apesar dos três artigos já citados.

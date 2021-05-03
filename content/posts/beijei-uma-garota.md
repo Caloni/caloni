@@ -1,10 +1,13 @@
 ---
-date: "2015-06-10"
-link: "https://www.imdb.com/title/tt4255626"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Beijei uma Garota"
+categories:
+- movies
+date: '2015-06-10'
+link: https://www.imdb.com/title/tt4255626
+tags:
+- cinemaqui
+title: Beijei uma Garota
 ---
+
 Embora no começo pareça uma comédia romântica daquelas bem clichê, com o protagonista sendo narrador em off e aquelas piadinhas previsíveis inseridas durante toda a trama, Beijei uma Garota se mantém honesto ao seu conteúdo original do começo ao fim, trazendo a questão da homossexualidade como alvo de uma chacota inocente, embora nunca ofensiva, e muito menos improvável.
 
 Trazendo a dupla de diretores/roteiristas Maxime Govare e Noémie Saglio em seu primeiro trabalho em conjunto para o Cinema, o filme tem como estrela absoluta Jérémy Deprez (Pio Marmaï), que às vésperas de se casar com seu namorado (Lannick Gautry) com quem esteve junto por 10 anos, acaba passando sua primeira noite com uma mulher (Adrianna Gradziel), pela qual se apaixona e coloca em xeque seu "status" de homossexual tão admirado por seus pais.

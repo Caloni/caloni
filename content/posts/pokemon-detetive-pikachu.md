@@ -1,9 +1,12 @@
 ---
-date: "2019-05-25"
-link: "https://www.imdb.com/title/tt5884052"
-categories: [ "draft", "movies" ]
-title: "Pokemon: Detetive Pikachu"
+categories:
+- draft
+- movies
+date: '2019-05-25'
+link: https://www.imdb.com/title/tt5884052
+title: 'Pokemon: Detetive Pikachu'
 ---
+
 É bom que você se certifique que é realmente fã de pokemon antes de entrar na sala de cinema. Eu fui assistir em um local cheia de fãs da nova geração, desses que assistem comentando vários easter eggs do filme, detalhes irrelevantes e o gosto da pipoca (tudo isso ao vivo ou pelo celular) e posso dizer que toda a trama de "Detetive Pikachu" merece exatamente esse nível de atenção. Você pode ler abaixo meu resumo em um ou dois tweets e relaxar para fazer o que quiser durante todo o resto da sessão. Vamos lá:
 
 "Clássica história de erro de comunicação entre pai e filho carente. Reviravoltas infinitas até achar o gênio do mal. Resolução sem riscos para os heróis. Pokemons de montão. Fim."

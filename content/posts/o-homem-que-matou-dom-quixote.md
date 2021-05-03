@@ -1,10 +1,14 @@
 ---
-date: "2018-10-26"
-link: "https://www.imdb.com/title/tt1318517"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Homem Que Matou Dom Quixote"
+categories:
+- draft
+- movies
+date: '2018-10-26'
+link: https://www.imdb.com/title/tt1318517
+tags:
+- cinemaqui
+title: O Homem Que Matou Dom Quixote
 ---
+
 O Homem que Matou Dom Quixote é péssima escolha de papel para Adam Drive, que não funciona na comédia física. Porém, pior ainda é a história sem pé nem cabeça do filme, que tenta achar sua desculpa através do espírito da obra-prima de Miguel de Cervantes. O resultado sai pior que o imaginado porque não esperamos que os ideais mais nobres do livro sejam usados como muleta narrativa. Ninguém iria tão baixo. Mas é exatamente o que esse filme faz.
 
 A história gira em torno de... bom, isso você vai ter que descobrir. Começa com um diretor de publicidade excêntrico (?) que está filmando um comercial que utiliza o famoso clichê de Dom Quixote, seu fiel escudeiro Sancho Pança e os moinhos de vento que são confundidos por gigantes. A partir da busca por inspiração (??) o diretor reencontra seu antigo trabalho de faculdade que também era sobre Dom Quixote. Filmando próximo da locação onde encontrou seu Quixote perfeito para as filmagens (além da donzela perfeita) ele passa a viver desventuras com seu antigo ator, agora alucinando, mais todos os envolvidos diretamente com seu destino pouco menor que seus sonhos.

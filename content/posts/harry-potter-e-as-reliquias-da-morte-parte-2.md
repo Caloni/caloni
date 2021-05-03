@@ -1,9 +1,11 @@
 ---
-date: "2011-07-22"
-link: "https://www.imdb.com/title/tt1201607"
-categories: [ "movies" ]
-title: "Harry Potter e as Relíquias da Morte - Parte 2"
+categories:
+- movies
+date: '2011-07-22'
+link: https://www.imdb.com/title/tt1201607
+title: Harry Potter e as Relíquias da Morte - Parte 2
 ---
+
 ## Prólogo
 
 Um filme que carrega o peso de uma saga que dura quase dez anos merece um final, no mínimo, apropriado. Felizmente, nas mãos do visualmente habilidoso David Yates, essa premissa é cumprida com louvor.

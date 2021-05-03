@@ -1,9 +1,11 @@
 ---
-date: "2012-03-04"
-link: "https://www.imdb.com/title/tt1007029"
-categories: [ "movies" ]
-title: "A Dama de Ferro"
+categories:
+- movies
+date: '2012-03-04'
+link: https://www.imdb.com/title/tt1007029
+title: A Dama de Ferro
 ---
+
 Ao terminar o filme temos a nítida impressão que ele foi dirigido por alguém que possui ideias completamente repulsivas a respeito da figura de Margaret Thatcher e/ou sobre a ideia de uma mulher governando uma nação. Ou isso ou não temos aí um estudo de personagem (histórico), mas simplesmente um pseudo-documentário que tenta ilustrar tanto a vida pessoal quanto política de uma das mulheres mais significativas do nosso século, mas sem conseguir unificá-la em um ser inteligível, sugerindo de uma forma covarde e inescrupulosa que, bem, se as coisas aconteceram daquela maneira, foi porque estávamos falando de uma mulher que não soube o seu lugar.
 
 De qualquer forma, a fotografia sóbria e fria nos leva para o campo das memórias (delírios?) de uma pessoa agora já no fim de sua vida, sozinha nos pensamentos, mas que tenta não se render à sua decadente posição. Ironicamente é através dela que teremos acesso à sua história. E só pode ser ironia, porque a própria pessoa não consegue estabelecer uma lógica que defina seu raciocínio, seja como esposa ou como ministra. E se temos a esperança que as coisas venham a se encaixar durante a evolução da história, ledo engano. Na verdade, elas pioram, e se tornam episódicas (como a odiável guerra das Malvinas, que nem o pessoal da legendagem teve a coragem de nomeá-las de Ilhas Falkland).

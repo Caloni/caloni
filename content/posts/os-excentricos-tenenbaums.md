@@ -1,9 +1,12 @@
 ---
-date: "2015-12-05"
-link: "https://www.imdb.com/title/tt0265666"
-categories: [ "draft", "movies" ]
-title: "Os Excêntricos Tenenbaums"
+categories:
+- draft
+- movies
+date: '2015-12-05'
+link: https://www.imdb.com/title/tt0265666
+title: Os Excêntricos Tenenbaums
 ---
+
 Esse é um filme sobre família desajustada, feito ainda em uma época onde filmes sobre famílias desajustadas ainda instigavam o interesse do público Tênis Verde. Até porque, geralmente, essas histórias eram perfeitas para produções independentes de baixo orçamento. Dessa premissa saíram pérolas como Pequena Miss Sunshine, alguns anos depois.
 
 No entanto, uma produção dirigida por Wes Anderson pode ter a vantagem de conseguir alocar atores extremamente conhecidos como Bill Murray, Gene Hackman, Angelica Huston e seus amigos do colégio, Luke e Owen Wilson (irmãos), e Ben Stiller, amigo deste último. Para chamar ainda mais a atenção, o personagem que observa toda aquela loucura (Danny Glover) e a estrelinha de Hollywood, Gwyneth Paltrow, que apesar de costumeiramente não fazer nenhuma diferença, é a chave central de um triângulo amoroso muito estranho.

@@ -1,8 +1,11 @@
 ---
-date: "2011-10-18"
-title: "Depuração de emergência: receita de bolo"
-categories: [ "draft", "code" ]
+categories:
+- draft
+- code
+date: '2011-10-18'
+title: 'Depuração de emergência: receita de bolo'
 ---
+
 Continuando o papo sobre [o que fazer para analisar rapidamente um crash no servidor com o pacote WinDbg](http://www.caloni.com.br/depuracao-de-emergencia), na maioria das vezes a exceção lançada pelo processo está diretamente relacionada com um acesso indevido à memória, o que tem diversas vantagens sobre problemas mais complexos:
 
 	
@@ -110,4 +113,3 @@ Nosso depurador favorito acusa uma pilha que contém a função WerpReportFault
 [caption id="attachment_1224" align="aligncenter" width="534" caption="A raiz de todos os nossos problemas!"][![](http://i.imgur.com/hnfH30b.png)](/images/crash-source.png)[/caption]
 
 E essa situação, caro leitor, é 10% de tudo o que você precisa saber sobre WinDbg para resolver, mas que já resolve 90% dos casos. Belo custo-benefício, não?
-

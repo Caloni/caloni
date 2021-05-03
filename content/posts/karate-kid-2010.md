@@ -1,9 +1,11 @@
 ---
-date: "2010-08-27"
-link: "https://www.imdb.com/title/tt1155076"
-categories: [ "movies" ]
-title: "Karate Kid"
+categories:
+- movies
+date: '2010-08-27'
+link: https://www.imdb.com/title/tt1155076
+title: Karate Kid
 ---
+
 Esse é praticamente um remake do original, só que em vez de caratê, como o nome supõe, a luta do filme é o kung-fu, onde o mestre é nada mais nada menos que Jackie Chan, o Sr. Han, que irá treinar Jaden Smith, o filho de Will, para se preparar para o torneio de Kung Fue se livrar das perseguições da escola.
 
 Interessante como o filme aponta a modernização e crescimento da China, quando Dre, o personagem de Jaden Smith, afirma ver que na China só tem coisas velhas, e logo quando chegam à Pequim veem a cidade olímpica recém-construída. Hoje esse resultado já fica um pouco datado.

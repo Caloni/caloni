@@ -1,9 +1,11 @@
 ---
-date: "2011-07-31"
-link: "https://www.imdb.com/title/tt0099487"
-categories: [ "movies" ]
-title: "Edward Mãos de Tesoura"
+categories:
+- movies
+date: '2011-07-31'
+link: https://www.imdb.com/title/tt0099487
+title: Edward Mãos de Tesoura
 ---
+
 Mesmo mais de 20 anos depois de produzido, o conto do homem inacabado com tesouras no lugar de dedos continua se sustentando bem, e por vários motivos que fazem hoje de Tim Burton ainda um diretor de destaque.
 
 A concepção de arte de primeiríssima qualidade passa sua mensagem sem precisar de muitos esforços. Apenas com uma ou duas tomadas aéreas mostrando o comportamento da vizinhança do castelo onde vive Edward é possível ter uma noção exata da vidinha que seus habitantes levam. Com o uso excessivo de cores na pintura das casas, na roupa das pessoas e na decoração interna, e ainda, na perfeição e uniformidade das calçadas e jardins, é possível fazer uma comparação instantânea com a morada de Edward, um castelo em tons acizentados interna a externamente e, o mais importante, com um telhado e diversas partes quebradas, como que a externalizar os defeitos do rapaz que ali vive.

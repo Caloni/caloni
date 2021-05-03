@@ -1,9 +1,11 @@
 ---
-date: "2011-02-23"
-link: "https://www.imdb.com/title/tt1542344"
-categories: [ "movies" ]
-title: "127 Horas"
+categories:
+- movies
+date: '2011-02-23'
+link: https://www.imdb.com/title/tt1542344
+title: 127 Horas
 ---
+
 Com uma introdução em tela cortada em três partes, mostrando diversos cenários que evocam o dia-a-dia das pessoas e, principalmente, a correria dessas pessoas para quem o tempo é um bem cada vez mais escasso, o novo longa de Danny Boyle (Quem Quer Ser Um Milionário?) nos apresenta Aaron, sem muita distinção do resto da multidão. Na verdade, ele não é muito diferente de nenhum de nós.
 
 Nos fins de semana, Aaron se diverte indo para ambientes desérticos para fazer "canyon biking" e escaladas. Em sua viagem que vemos no filme, ele conhece duas garotas pelo caminho, e juntos se divertem caindo em um lago subterrâneo. Logo depois ele prossegue sua caminhada sozinho por um tempo, escorrega em uma rocha e... acaba tendo seu braço esmagado por essa mesma rocha, ficando preso em um lugar isolado de tudo e de todos.

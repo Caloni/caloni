@@ -1,9 +1,12 @@
 ---
-date: "2018-12-30"
-link: "https://www.imdb.com/title/tt0475784"
-categories: [ "draft", "series" ]
-title: "Westworld S02 Season Finale"
+categories:
+- draft
+- series
+date: '2018-12-30'
+link: https://www.imdb.com/title/tt0475784
+title: Westworld S02 Season Finale
 ---
+
 Foi uma longa jornada desde o começo da temporada, mas nossos neurônios mereciam um pouco mais de respeito. Eu sei que seres humanos não fazem escolha e tudo mais, mas a filosofia de boteco de Ford pós-morte é de matar. Se fosse possível escolher seria fácil: reescreve esses últimos dois episódios, o 9 e o 10, que tá fácil de consertar. Anda. Eu fico esperando.
 
 Concentrado em nos dar algumas reviravoltas custe o que custar (porque a primeira temporada teve a rodo) a continuação comercial de Westworld dá voltas em torno do próprio rabo sem um closure que seja realmente intrigante. Ele apenas entrega parte de uma catarse que se perdeu pelo caminho. Ou se formos pensar mais a fundo, nunca existiu.

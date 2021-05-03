@@ -1,9 +1,11 @@
 ---
-date: "2013-02-21"
-link: "https://www.imdb.com/title/tt1790885"
-categories: [ "movies" ]
-title: "A Hora Mais Escura"
+categories:
+- movies
+date: '2013-02-21'
+link: https://www.imdb.com/title/tt1790885
+title: A Hora Mais Escura
 ---
+
 Por tratar de eventos que ocorreram na vida real durante a caçada a Bin Laden, A Hora Mais Escura apresenta seus fatos de uma forma semidocumental e corre o risco de ser mal visto ao tratar a tortura um meio justificável e o assassinato de seres humanos um evento impessoal. No primeiro caso (tortura) podemos dizer que as pessoas deste século tendem a encarar o evento com mais compaixão (até pelo histórico de parentes e conhecidos que vivenciaram isso de perto). Já no segundo caso (assassinato), por envolver a morte do terrorista mais odiado de todo o mundo civilizado os sentimentos não caminham tão bem pelo estômago das pessoas que viram o horror de perto e ao vivo.
 
 Esses sentimentos são trabalhados por Kathryn Bigelow no decorrer de um processo que inicia com os ataques dos aviões ao World Trade Center, um acontecimento que apenas ouvimos na tela escura pelas vozes das pessoas envolvidas, o que gera um misto de claustrofobia, medo, lembrança e respeito pelas mais de 3000 mortes. Logo depois somos levados a uma sala escura onde um dos membros da al-Qaeda é torturado para revelar o nome das pessoas com que mantinha contato. É quando vemos pela primeira vez os olhos lindos de Maya (Jessica Chastain), uma agente da CIA transferida para esse caso.

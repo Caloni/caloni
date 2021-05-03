@@ -1,9 +1,12 @@
 ---
-date: "2016-06-26"
-link: "https://www.imdb.com/title/tt2170299"
-categories: [ "draft", "movies" ]
-title: "Palavrões"
+categories:
+- draft
+- movies
+date: '2016-06-26'
+link: https://www.imdb.com/title/tt2170299
+title: Palavrões
 ---
+
 Tão diferente que perde o foco. Porém, é um "indie" no conceito básico dessa nova categorização: muitas das coisas que vemos em Palavrões dificilmente estaria em uma produção hollywoodiana.
 
 Mas isso é bom? Em certos momentos, sim. Como a divertida relação entre o "gênio" Guy Trilby e uma criança indiana que se torna (à marra) seu amigo.

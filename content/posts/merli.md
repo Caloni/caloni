@@ -1,9 +1,12 @@
 ---
-date: "2018-08-06"
-link: "https://www.imdb.com/title/tt4580372"
-categories: [ "draft", "series" ]
-title: "Merlí"
+categories:
+- draft
+- series
+date: '2018-08-06'
+link: https://www.imdb.com/title/tt4580372
+title: Merlí
 ---
+
 Merlí de Héctor Lozano segue uma cartilha de novela moderada, onde seus personagens nunca se transformam em algo diferente do que são, mas coisas do cotidiano acontecem a eles para movimentar uma história em torno de um professor de filosofia.
 
 Sobre filosofia, a série não é didática porque suas aulas já não o são desde o princípio. Se quer aprender quem eram os peripatéticos (citados no piloto da série) que pesquise na Wikipédia. Elas também não são tensas, questão de vida ou morte, como parece a quem discute filosofia empolgado com os grandes temas do conhecimento humano. Mas na vida real é assim, e é aí que reside um dilema: esta é uma série correta sobre filosofia porque filosofia é basicamente como lidamos com nossos problemas reais (embora muitos debatam empolgados temas irreais de intelectualidade, se convencendo no processo de absurdos impraticáveis, como, por exemplo, que comunismo é uma boa ideia).

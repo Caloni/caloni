@@ -1,9 +1,11 @@
 ---
-date: "2011-09-07"
-link: "https://www.imdb.com/title/tt1463167"
-categories: [ "movies" ]
-title: "A Viagem de Lucia"
+categories:
+- movies
+date: '2011-09-07'
+link: https://www.imdb.com/title/tt1463167
+title: A Viagem de Lucia
 ---
+
 Uma produção ítalo-argentina obscura que conta a história de Lúcia e Lea, duas mulheres com visões completamente diferentes da vida que acabam se encontrando e compartilham momentos que irão transformar a vida de uma delas.
 
 Ao estabelecer as mudanças de atitude de Lúcia através das cores de sua roupa e do próprio ambiente onde se encontra, a direção de arte / figurino conseguem efetivamente expressar as mudanças de Lúcia de maneira muito mais orgânica, o exato oposto do que o roteiro faz para Lea, forçando-a a realizar ações atípicas na casa de uma estranha que soam ao mesmo tempo forçadas e sem criatividade, pois fazem parecer simples adornos para "colorir" a vida de uma em detrimento à situação depressiva da outra.

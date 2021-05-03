@@ -1,9 +1,11 @@
 ---
-date: "2013-02-05"
-link: "https://www.imdb.com/title/tt1853728"
-categories: [ "movies" ]
-title: "Django Livre"
+categories:
+- movies
+date: '2013-02-05'
+link: https://www.imdb.com/title/tt1853728
+title: Django Livre
 ---
+
 Django Livre é divertido moderadamente e possui um conteúdo pseudo-histórico de impacto que faz jus aos bons faroestes. Quentin Tarantino poderia ter futuramente, caso conseguisse controlar seu gigantesco ego, a mesma habilidade e maestria na direção que tornou Sergio Leone conhecido para sempre na história do Cinema.
 
 Poderia, mas não é dessa vez.

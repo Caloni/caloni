@@ -1,10 +1,13 @@
 ---
-date: "2015-04-19"
-link: "https://www.imdb.com/title/tt3956754"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Vida Privada dos Hipopótamos"
+categories:
+- movies
+date: '2015-04-19'
+link: https://www.imdb.com/title/tt3956754
+tags:
+- cinemaqui
+title: A Vida Privada dos Hipopótamos
 ---
+
 Se eu te dissesse que vou te contar uma história incrível, que fez até que eu desistisse de um outro projeto na minha vida apenas para contá-la, você provavelmente criaria expectativas absurdas antes mesmo de eu começar a falar. Da mesma forma, a expectativa gerada no começo de "A Vida Privada dos Hipopótamos" apenas consegue fazer que você não saia muito satisfeito no final.
 
 O filme tenta soar como um documentário (falso ou não) com uma narrativa ficcional a respeito do americano Christopher Kirk, preso em São Paulo depois de fatos rotulados no início como "inacreditáveis". Os diretores Maíra Bühler e Matias Mariani já haviam feito "Ela Sonhou que Eu Morri",  que tenta explorar o mundo dos presos estrangeiros. Esse novo projeto seguiria na mesma linha, mas por terem descoberto Chris, ele se tornou o protagonista absoluto do filme e de sua história.

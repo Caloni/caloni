@@ -1,9 +1,12 @@
 ---
-date: "2015-12-13"
-link: "https://www.imdb.com/title/tt2085059"
-categories: [ "draft", "series" ]
-title: "Black Mirror - S01E03 - The Entire History of You"
+categories:
+- draft
+- series
+date: '2015-12-13'
+link: https://www.imdb.com/title/tt2085059
+title: Black Mirror - S01E03 - The Entire History of You
 ---
+
 Black Mirror é uma série que explora o que há de pior em nossa era da comunicação instantânea e da tecnologia crescente. Na verdade, eles vão um pouco além da nossa realidade atual, avançando alguns anos/décadas, onde algumas novidades brincam com nosso conceito de humanidade e relacionamentos, mídia e governos.
 
 Talvez o episódio mais fraco dessa temporada, mas ainda muito bom pela tensão que cria. Em mais uma versão futurista do mundo -- mas nem tanto -- as pessoas usam um gravador de tudo o que veem e escutam em seu dia-a-dia, podendo voltar rapidamente às suas memórias áudio-visuais através de um controle, e até realizar um playback na tela mais próxima para as pessoas presentes.

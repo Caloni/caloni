@@ -1,9 +1,11 @@
 ---
-date: "2013-12-29"
-link: "https://www.imdb.com/title/tt0118884"
-categories: [ "movies" ]
-title: "Contato"
+categories:
+- movies
+date: '2013-12-29'
+link: https://www.imdb.com/title/tt0118884
+title: Contato
 ---
+
 Adoro o livro que Carl Sagan escreveu imaginando como seria, em um mundo realista e atual, nossa primeira comunicação com uma civilização extraterrestre. Ele não apenas fez isso como abriu um pouco mais nosso leque filosófico ao ensaiar uma explicação que unisse ciência e religião, matemática e sentimentos.
 
 Exatamente por isso que a adaptação de Robert Zemeckis se sai tão bem. Ela não ignora a humanidade e seus conflitos de poder, seus anseios e medos do desconhecido. Ela amplia nossa percepção do que possivelmente aconteceria em nosso mundo, com nossas crenças, se um belo dia recebêssemos do espaço uma mensagem nos dizendo: vocês não estão sozinhos.

@@ -1,10 +1,14 @@
 ---
-date: "2019-05-10"
-link: "https://www.imdb.com/title/tt7425520"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Compra Me Um Revólver"
+categories:
+- draft
+- movies
+date: '2019-05-10'
+link: https://www.imdb.com/title/tt7425520
+tags:
+- cinemaqui
+title: Compra Me Um Revólver
 ---
+
 Compra Me Um Revólver começa com a seguinte premissa: "em um México sem lei, a população diminui porque estão desaparecendo as mulheres". Assistindo ao filme entendemos que o problema populacional não se deve à falta de úteros, mas ao excesso de pênis. Todos sabem o nível de violência em uma sociedade varia de acordo com a quantidade de pênis disputando território.
 
 A heroína da história e sua narradora é Huck (Matilde Hernandez), uma garota que vive com seu pai cuidando de um campo de beisebol apossado pela máfia local. Ambos estão em um ambiente onde Huck não deveria viver, pois por ser mulher, ainda que criança, ela se torna uma espécie de recompensa para os homens, que de tão poucas fêmeas disponíveis vestem roupas floridas por cima de seus coletes.

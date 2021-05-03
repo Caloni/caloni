@@ -1,9 +1,12 @@
 ---
-date: "2020-02-19"
-link: "https://www.imdb.com/title/tt0084116"
-categories: [ "draft", "movies" ]
-title: "Identificação de Uma Mulher"
+categories:
+- draft
+- movies
+date: '2020-02-19'
+link: https://www.imdb.com/title/tt0084116
+title: Identificação de Uma Mulher
 ---
+
 Antonioni é aquele diretor italiano que junto com Fellini e outros realizou trabalhos de neo-realismo, um período em que a Itália convive com seus fracassos políticos bem de perto, olhando para a população. Abandonando tudo isso nas décadas seguintes chegamos neste soft porn com cara de filme de arte. Temos a estonteante Daniela Silverio nua em vários momentos, e quando ela some é claro que Tomas Milian vai atrás.
 
 Este é um filme com várias ideias interessante e uma direção extremamente competente. O que dá errado é que não adianta juntar várias ideias boas em um conjunto onde nenhuma delas colabora para algo em comum. O resultado é que podemos nos entreter por todo o trajeto, mas no final fica a sensação que era melhor ter ficado em casa. Por quê?

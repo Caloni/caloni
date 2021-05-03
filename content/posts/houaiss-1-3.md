@@ -1,7 +1,9 @@
 ---
-date: "2011-04-28"
-categories: [ "code", "draft" ]
-title: "Houaiss 1.3"
+categories:
+- code
+- draft
+date: '2011-04-28'
+title: Houaiss 1.3
 ---
 
 Os problemas relacionados com acesso negado durante a conversão/construção do dicionário foram corrigidos na novíssima versão disponível no GitHub.

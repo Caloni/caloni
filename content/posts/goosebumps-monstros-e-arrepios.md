@@ -1,10 +1,13 @@
 ---
-date: "2015-10-21"
-link: "https://www.imdb.com/title/tt1051904"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Goosebumps: Monstros e Arrepios"
+categories:
+- movies
+date: '2015-10-21'
+link: https://www.imdb.com/title/tt1051904
+tags:
+- cinemaqui
+title: 'Goosebumps: Monstros e Arrepios'
 ---
+
 O escritor R. L. Stine é conhecido como o "Stephen King da literatura infantil". Se formos levar essa analogias para as telas, a comparação parece se tornar até mais óbvia. Enquanto os monstros criados por King encarnam o drama humano, em "Goosebumps" vemos um louva-a-deus gigante e maluco tropeçando nos carros em seu caminho e um boneco de ventríloquo servindo como o vilão personificado de um mal que está mais para encarnação da travessura.
 
 Dirigido por Rob Letterman e escrito por Darren Lemke (cada um responsável em sua área de expertise pelos simpáticos "Montros vs Alienígenas" e "Turbo"), a história e o seu desenrolar em Gooosegumps está recheada de lugares-comuns de filmes do gênero: família que se muda de cidade por conta da morte do pai/marido, vizinho estranho nada simpático, filha do vizinho desobedecendo o pai, escritor excêntrico cuja criação foge ao seu controle e, é claro, o bobo da corte. Todos esses ingredientes, no entanto, se reúnem para entregar uma experiência OK e alguns efeitos bem impressionantes. E seriam ainda mais, se não fossem quase totalmente realizados por computação gráfica, jogando na nossa cara -- ainda mais em sua versão descartável em 3D -- que todos aqueles seres nunca existiriam em "carne e osso".

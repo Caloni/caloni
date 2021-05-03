@@ -1,9 +1,12 @@
 ---
-date: "2017-01-11"
-link: "https://www.imdb.com/title/tt0017075"
-categories: [ "draft", "movies" ]
-title: "The Lodger: A Story of the London Fog"
+categories:
+- draft
+- movies
+date: '2017-01-11'
+link: https://www.imdb.com/title/tt0017075
+title: 'The Lodger: A Story of the London Fog'
 ---
+
 O primeiro filme sobre crime de Hitchcock já contém vários elementos que indicam a que veio esse diretor, que já demonstrava inventividade em seus trabalhos anteriores. Aqui ele mantém algumas boas ideias (como a câmera subjetiva, girando no meio de um quarto, olhando o reflexo do rosto no vidro, e até caminhando furioso em direção a uma pessoa amedrontada) e cria tantas outras novas. Porém, mais que isso, constrói um belo filme através de um roteiro até que mediano.
 
 A história gira em torno de um serial killer que se auto-intitula O Vingador (The Avenger, em um pedaço de papel no bolso da vítima), e mata garotas loiras às terças-feiras. Toda a construção do matador lunático é feita com elementos que lembram um psicopata e através da fantasia do grande público, que consome avidamente o jornal com as últimas notícias sobre os assassinatos. Um dos policiais responsáveis pelas investigações namora uma garota loira, e esta garota vive com os pais em uma casa grande que está com um quarto a alugar. A descrição do assassino é tão bem martelada em nossas cabeças que quando chega um rapaz para alugar o quarto, o imaginário hitchcockiano já foi implantado em nosso cérebro.

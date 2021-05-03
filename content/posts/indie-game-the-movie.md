@@ -1,9 +1,11 @@
 ---
-date: "2013-06-17"
-link: "https://www.imdb.com/title/tt1942884"
-categories: [ "movies" ]
-title: "Indie Game: The Movie"
+categories:
+- movies
+date: '2013-06-17'
+link: https://www.imdb.com/title/tt1942884
+title: 'Indie Game: The Movie'
 ---
+
 Focado principalmente no amor, dedicação, desespero e muitas vezes loucura dos criadores de jogos de computador independentes, Indie é uma grata surpresa ao mostrar os nerds solitários como artistas que lutam pelo reconhecimento, mas, acima de tudo, pela máxima expressão de si mesmos dentro dos bits e bytes que insistem em escrever.
 
 Acompanhando a história de três jogos distintos que levaram anos para serem produzidos com os esforços individuais dos seus criadores, e que agora se preparam para ir a público, o diretor primeiro nos entrega a tensão dessas pessoas para depois reconstruir essa mesma tensão em nós mesmos, conforme conhecemos cada vez mais dos projetos e das pessoas por tudo aquilo.

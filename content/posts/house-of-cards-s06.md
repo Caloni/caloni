@@ -1,9 +1,12 @@
 ---
-date: "2018-11-16"
-link: "https://www.imdb.com/title/tt1856010"
-categories: [ "draft", "series" ]
-title: "House of Cards - Sexta Temporada (Season Finale)."
+categories:
+- draft
+- series
+date: '2018-11-16'
+link: https://www.imdb.com/title/tt1856010
+title: House of Cards - Sexta Temporada (Season Finale).
 ---
+
 A sexta e última temporada de House of Cards foi marcada por alterações drásticas em seu elenco, todas encabeçadas pela saída do seu protagonista, Francis Underwood, interpretado pelo insubstituível Kevin Spacey e que teve que ser substituído porque a patrulha dos bons costumes estava de olho em um caso ocorrido há mais de 30 anos onde Spacey avançou sexualmente para cima de um jovem de 14 anos (algo assim; leia os jornais se quiser saber mais). Apesar do ator também ser o produtor executivo da série, isso não impediu sua distribuidora por streaming, a Sjwflix, decidir reorganizar todo o meio de campo da produção da série antes de estrear esta que será sua última temporada, excluindo (apenas) nela todo e qualquer envolvimento do ator. Não se pode corrigir o passado quando ele está ainda dando lucro.
 
 Isso quer dizer que nenhuma cena, foto ou áudio do protagonista da série inteira foi usado na produção de seu último capítulo, marcado por um número menor de episódios e reviravoltas e plots inacabados que comprovam que as medidas tomadas pela equipe criativa foram desastrosas em respeito à série, tornando o que era um exemplo televisivo a ser seguido em um show de horrores narrativo. Praticamente nada faz sentido do começo ao fim, e todos os conflitos e tramas soam descartáveis, jogadas ao vento e até cheiram conflitos de novela mexicana, onde completam uma cartela de bingo com os itens gravidez, filho adotivo e mortes repentinas e desajeitadas.

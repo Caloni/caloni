@@ -1,9 +1,11 @@
 ---
-date: "2012-02-15"
-link: "https://www.imdb.com/title/tt0092890"
-categories: [ "movies" ]
-title: "Dirty Dancing: Ritmo Quente"
+categories:
+- movies
+date: '2012-02-15'
+link: https://www.imdb.com/title/tt0092890
+title: 'Dirty Dancing: Ritmo Quente'
 ---
+
 Para os filhos da década de 50/60 a era Disco representou uma mudança radical de apreciar música. Essa mudança não ocorreu obviamente apenas na música, mas na maneira de pensar e agir, sobretudo na adolescência, época conturbada tão bem representada nos trabalhos de John Hughes (Curtindo a Vida Adoidado, O Clube dos Cinco).
 
 É nessa atmosfera que surge esse trabalho tão diferente quanto representativo do seu momento. Além de abordar temas polêmicos como o aborto, ainda que perifericamente, consegue mostrar essa revolução de pensamentos e músicas dos anos 80 como um reflexo das mudanças que ocorreram antes, nos anos 60, onde a história se passa.

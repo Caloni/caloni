@@ -1,9 +1,12 @@
 ---
-date: "2015-12-04"
-link: "https://www.imdb.com/title/tt1524566"
-categories: [ "draft", "movies" ]
-title: "Perdida"
+categories:
+- draft
+- movies
+date: '2015-12-04'
+link: https://www.imdb.com/title/tt1524566
+title: Perdida
 ---
+
 Esse documentário de colagens charmosas tenta resgatar do passado longínquo toda a história de uma família de cineastas, de sua ascensão até os diferentes declínios, como o fim de uma grande fortuna.
 
 Irônico é que a diretora é neta e bisneta desses cineastas, e através de sua pesquisa, que pretende resgatar evidências escondidas de quem foram seus descendentes e seus esquecidos feitos -- entre eles, mais de 150 filmes -- esconde-se também a história igualmente esquecida do Cinema Mexicano das décadas de 20 a 50, chegando até seu período pornográfico. Sim, houveram pornochanchadas por lá também.

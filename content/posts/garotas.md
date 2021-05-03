@@ -1,10 +1,13 @@
 ---
-date: "2015-04-24"
-link: "https://www.imdb.com/title/tt3655522"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Garotas"
+categories:
+- movies
+date: '2015-04-24'
+link: https://www.imdb.com/title/tt3655522
+tags:
+- cinemaqui
+title: Garotas
 ---
+
 Garotas é daqueles filmes que você começa assistir sem entender muito bem qual a história que quer ser contada. Sabemos que é sobre adolescência, essa fase impulsiva. A primeira cena mostra meninas dando duro em um jogo de futebol americano. A cena seguinte as mostra juntas, falando todas ao mesmo tempo, empolgadas. A cena que finaliza a introdução as mostra quietas, já no conjunto de prédios onde moram, e onde aos poucos vão se separando. Até sobrar Marieme (Karidja Touré em sua estreia).
 
 Escrito e dirigido por Céline Sciamma, do ótimo TomBoy, o filme busca compreender a "escalada" de Marieme, ou Vic, a partir do momento que desiste da escola e passa a andar com um trio de meninas que se diverte roubando roupas e trocados, além de encenar informalmente uma realidade onde elas fazem parte de uma gangue. Talvez não apenas encenar, já que outros grupos de garotas parecem se comportar da mesma forma. A violência aqui não é mais do que uma maneira de se impor em um ambiente onde jovens sofrem pressão de todos os lados, e fazer parte de um grupo é vital. Para Vic a pressão já começa na família. É a mais velha de um grupo de três irmãs. Sua mãe está sempre ausente pelo trabalho e seu irmão mais velho é violento e de poucas palavras. E essa é a sua base moral.

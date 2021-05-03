@@ -1,9 +1,12 @@
 ---
-date: "2017-12-09"
-link: "https://www.imdb.com/title/tt3262342"
-categories: [ "draft", "movies" ]
-title: "Com Amor Van Gogh"
+categories:
+- draft
+- movies
+date: '2017-12-09'
+link: https://www.imdb.com/title/tt3262342
+title: Com Amor Van Gogh
 ---
+
 O que foi feito neste Loving Vincent é um trabalho curioso, quase fascinante e que merece uma visita pelo menos. Eles pegam a história em torno da morte do pintor moderno Vincent Van Gogh e montam um thriller no estilo Agatha Christie, meio teatral e meio noir, mas com toques artísticos e dramáticos porque se trata da história de um artista renomado. A grande propaganda deste filme é que todos os seus quadros foram "pintados à mão", no mesmo estilo do pintor, o que torna o filme um trabalho adaptado da obra do artista. É um trabalho de fundo verde e de 100 pintores. Algo único, com certeza. Mas uma obra de arte?
 
 Os esforços técnicos são de fato fascinantes. É preciso prestar atenção à história para não se perder nas diferentes formas de compor uma cena neste filme. Os traços de pintura a óleo aparecem vivas, e as transições para flashbacks, as mais comuns, o fazem de um tom de cores para monocromático, mas com uma fumaça que lembra os traços do movimento das luzes nas obras do pintor. Os personagens da história são personagens em alguns dos seus 800 trabalhos. Há momentos que existe movimento em 3D, do cenário, mas em sua maioria são fundos de tela em 2D, o que não deixa de ser impressionante. Os atores se vestem como os quadros seus rostos são estilizados depois. Efeitos como chuva, transparência e movimentação pela rua são feitos de forma com que os traços componham a energia que passa pelo mundo. É um filme enxergado pelo filtro de realidade do pintor moderno.

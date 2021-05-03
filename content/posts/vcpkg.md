@@ -1,8 +1,11 @@
 ---
-date: "2018-07-14"
-categories: [ "code", "draft",  ]
-title: "Vcpkg: gerenciador de libs c++ para Linux, Mac OS... e Windows!"
+categories:
+- code
+- draft
+date: '2018-07-14'
+title: 'Vcpkg: gerenciador de libs c++ para Linux, Mac OS... e Windows!'
 ---
+
 O ambiente padronizado de bibliotecas C/C++ dos sistemas UNIX é motivo de inveja dos programadores Windows por séculos. Mas, finalmente, a Microsoft tem acordado diante da ressurreição do C++, com seus novos bug fixes e new deprecated features.
 
 E com isso uma série de atividades têm permeada a evolução da ferramenta de desenvolvimento da Microsoft, o Visual Studio:
@@ -39,4 +42,3 @@ Desvantagens do vcpkg:
  - Apenas as libs mais novas estão sendo suportadas (e não há suporte para Visual Studio mais antigo, nem SOs mais antigos como XP).
  - Usuário Linux nenhum no mundo vai querer usar (motivo: Microsoft e este já é um problema resolvido neste mundo)
  - Depende de um gerenciador proprietário (se bem que é tudo open source e não há restrições como o Java; qualquer um pode montar seu repositório).
-

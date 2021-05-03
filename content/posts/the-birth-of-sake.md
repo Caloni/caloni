@@ -1,9 +1,12 @@
 ---
-date: "2017-09-24"
-link: "https://www.imdb.com/title/tt3903322"
-categories: [ "draft", "movies" ]
-title: "The Birth Of Sake"
+categories:
+- draft
+- movies
+date: '2017-09-24'
+link: https://www.imdb.com/title/tt3903322
+title: The Birth Of Sake
 ---
+
 Este filme é uma passagem integral, burocrática e um tanto poética de uma fabricante de saquê nos moldes tradicionais do Japão. Há pouca informação e muita pseudo-emoção. Quase um apelo pela sobrevivência dos tradicionalistas, frente a uma indústria que automatizou quase todo o processo com máquinas.
 
 Não é pra menos. Toda a equipe de funcionários precisa ficar seis meses na destilaria por ano, sem direito a ficar com seus familiares. O trabalho é imenso e exige muito de todos. Não se sabe exatamente qual parte do trabalho exige isso, nem muitos detalhes da fabricação do próprio saquê, exceto o básico (vem do arroz, ele é cozido, misturado com fungo, etc).

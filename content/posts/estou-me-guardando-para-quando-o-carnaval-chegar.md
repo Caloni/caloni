@@ -1,10 +1,14 @@
 ---
-date: "2019-07-09"
-link: "https://www.imdb.com/title/tt10240438"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Estou Me Guardando Para Quando O Carnaval Chegar"
+categories:
+- draft
+- movies
+date: '2019-07-09'
+link: https://www.imdb.com/title/tt10240438
+tags:
+- cinemaqui
+title: Estou Me Guardando Para Quando O Carnaval Chegar
 ---
+
 Estou Me Guardando Para Quando o Carnaval Chegar é daqueles documentários com nome longo e história curta. O nome longo foi tomado da música de Chico Buarque e a história curta das lembranças de Marcelo Gomes, diretor do filme.
 
 As lembranças de Marcelo vêm de garoto, acompanhando o pai em suas viagens, de um tempo, ele lembra, em que as pessoas que viviam em Toritama eram pobres e a cidade silenciosa. Quando muito, um carro passando. Não existia nenhum trabalho que não fosse a simples, humilde e romantizada vida no agreste nordestino.

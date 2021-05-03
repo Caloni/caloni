@@ -1,9 +1,11 @@
 ---
-date: "2014-01-13"
-link: "https://www.imdb.com/title/tt1767382"
-categories: [ "movies" ]
-title: "A Casa Silenciosa"
+categories:
+- movies
+date: '2014-01-13'
+link: https://www.imdb.com/title/tt1767382
+title: A Casa Silenciosa
 ---
+
 Quando eu digo que os falsos documentários já atingiram seu nível de saturação e o ultrapassaram, como o recente Atividade Paranormal conseguiu provar pela falta de justificativas para o uso de câmera em tantas situações diferentes, eis que surge o remake franco-americano de 2011 (de uma produção uruguaia de 2010) filmado inteiramente em uma sequência sem cortes de arrebentar os nervos.
 
 Não é um documentário, mas assume o caráter realista por nunca haver cortes. Mais do que isso: uma sensação onírica por estarmos presenciando a história da jovem Sarah (Elizabeth Olsen) unicamente do seu ponto de vista. Acompanhamos os acontecimentos em uma casa no campo que será colocada à venda logo após o pai, irmão e tio da menina finalizarem uma pequena reforma. No entanto, a falta de energia os obriga a usar lampiões e velas para iluminar os inúmeros aposentos do casarão, mesmo de dia, pois a casa nunca era visitada e se encontrava totalmente lacrada.

@@ -1,10 +1,14 @@
 ---
-date: "2018-04-11"
-link: "https://www.imdb.com/title/tt4652650"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Tudo que Quero"
+categories:
+- draft
+- movies
+date: '2018-04-11'
+link: https://www.imdb.com/title/tt4652650
+tags:
+- cinemaqui
+title: Tudo que Quero
 ---
+
 Tudo que Quero é um road movie onde as emoções estão empacotadas e sob controle. Não há nenhum momento no filme inteiro que você teme pela sua protagonista. Seu sorriso nos diz que tudo vai dar certo. As expressões das pessoas que gostam dela também. Ninguém está verdadeiramente desesperado pela situação, pois, afinal de contas, o que pode acontecer de ruim com uma garota linda como Dakota Fanning perdida sozinha na estrada?
 
 Este é um filme seguro para assistir inteiro ou em partes e sem prestar atenção. Ele não arrisca nada em sua criação, e portanto no final não há ganho algum. Se trata de um passeio no parque dentro da mente de Dakota Fanning fazendo uma garota autista que acaba se revelando uma excelente escritora, de acordo com sua cuidadora (Toni Collette). Ela fez 400 páginas de um roteiro para um concurso que comemora os 50 anos de Star Trek, sua série de TV favorita (o clichê dentro do autismo). Ela está sendo cuidada em um centro de tratamento de pessoas com necessidades especiais, saindo de uma infância obviamente problemática, mas já conseguindo andar sozinha pelo bairro e trabalha em uma loja da Cinnabon (que é tão boazinha que contrata autistas e patrocina filmes que desmistificam o autismo). Seu conflito é ser mais independente, morar com sua irmã, que acabou de ter um bebê, e até cuidar de sua sobrinha. Ela gosta de bebês e cachorros pequenos. E este filme, é claro, tem um cachorro pequeno com uma roupinha da tripulação da Enterprise.

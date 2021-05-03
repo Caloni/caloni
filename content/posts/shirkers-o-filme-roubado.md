@@ -1,9 +1,12 @@
 ---
-date: "2018-11-09"
-link: "https://www.imdb.com/title/tt7472352"
-categories: [ "draft", "movies" ]
-title: "Shirkers: O Filme Roubado"
+categories:
+- draft
+- movies
+date: '2018-11-09'
+link: https://www.imdb.com/title/tt7472352
+title: 'Shirkers: O Filme Roubado'
 ---
+
 Uma garota queria muito fazer um filme. Ela acaba o tornando realidade, mas ele é roubado pelo próprio diretor. Décadas depois ela nunca mais fez nada relacionado a cinema, e chega a hora dela rever esse frustrante episódio de sua vida da única forma que é possível: fazendo outro filme.
 
 E esse filme tem o mesmo nome do filme roubado, pois ele não existe. Os rolos que ela e suas amigas conseguiram produzir ficaram sob a posse do diretor, George. George era uma figura problemática no cenário cinematográfico da pequena e irrelevante Singapura, antes de se tornar o país mais rico do mundo.

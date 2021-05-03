@@ -1,9 +1,12 @@
 ---
-date: "2017-02-05"
-link: "https://www.imdb.com/title/tt5895028"
-categories: [ "draft", "movies" ]
-title: "A 13a. Emenda"
+categories:
+- draft
+- movies
+date: '2017-02-05'
+link: https://www.imdb.com/title/tt5895028
+title: A 13a. Emenda
 ---
+
 O objetivo desse filme é te convencer que o sistema carcerário americano é um resquício do sistema escravagista do passado. Para isso ele irá distorcer significados de boa parte da história política do século 20 da forma que convir, fazer propaganda (ainda que crítica) a favor dos democratas em detrimento dos republicanos (que possuem um espantalho como Donald Trump para fazer o serviço), apelar para os sentimentos do espectador sem muitas... não, sem qualquer prova de que há de fato um sistema racista agindo por um século e meio. Isso fica claro e nítido nos exemplos anedóticos usados por todo o filme.
 
 Ele usa o completo oposto da série documental Making a Murderer, que como todo documentário obviamente é tendencioso, mas ao contrário de apenas jogar a opinião de "especialistas" defensores da "causa negra", o trabalho da diretora é mostrar os fatos em vídeos e áudios que contem uma história absurdamente coesa que demonstra a total incompetência ou falta de neutralidade no sistema jurídico estatal, e apenas deste caso em questão, coletando um volume excessivo de dados para provar seu ponto. Note que nesse caso não importa muito se o réu é negro ou branco (não mais se ele é pobre ou rico). Ele ser branco em Making a Murderer, no entanto, acaba tornando mais claro que o problema da justiça às vezes passa longe das cores das pessoas.

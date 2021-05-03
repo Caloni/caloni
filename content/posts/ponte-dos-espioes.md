@@ -1,9 +1,12 @@
 ---
-date: "2016-01-20"
-link: "https://www.imdb.com/title/tt3682448"
-categories: [ "draft", "movies" ]
-title: "Ponte dos Espiões"
+categories:
+- draft
+- movies
+date: '2016-01-20'
+link: https://www.imdb.com/title/tt3682448
+title: Ponte dos Espiões
 ---
+
 Esse é um filme que carrega um conteúdo emocional graças ao seu diretor, mas uma história que é obviamente 100% sobre política. É sobre tempos mais sombrios do que os de hoje, a Guerra Fria, quando ignorar política poderia te levar à morte, seja ela física ou pública. Ser baseada em uma história real apenas eleva o roteiro a uma das melhores adaptações do ano.
 
 Acompanhamos a captura e o julgamento de Rudolf Abel (Mark Rylance), acusado de ser um espião russo. Para sua defesa foi escolhido James B. Donovan (Tom Hanks), um advogado especializado em seguros. Seu discurso inicial, conversando com outro advogado, é um gancho propício que merece ser discutido. Donovan tenta argumentar que em um acidente envolvendo seu cliente, que atropelou cinco ciclistas, houve apenas um evento, e que o preço do seguro, portanto, é equivalente a um único prêmio. Apesar de, do ponto de vista dos cinco atropelados, cada evento ser independente, a defesa de Donovan é de que, se um furacão leva sua casa inteira, não há seguro sobre cada um de seus móveis dentro dela.

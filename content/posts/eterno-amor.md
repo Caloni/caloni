@@ -1,9 +1,12 @@
 ---
-date: "2016-01-06"
-link: "https://www.imdb.com/title/tt0344510"
-categories: [ "draft", "movies" ]
-title: "Eterno Amor"
+categories:
+- draft
+- movies
+date: '2016-01-06'
+link: https://www.imdb.com/title/tt0344510
+title: Eterno Amor
 ---
+
 Um misto de remorso pelas agruras da guerra com a energia de uma investigação guiada unicamente pela fé (ou pelo amor). A beleza da fotografia fria e triste do front se contrapõe aos horizontes oníricos do presente nostálgico, que clama pela elucidação completa de um passado nebuloso que separou um casal apaixonado prestes a se casar. Eterno Amor é pura poesia na forma de criatividade narrativa. Um Pierre Jeunet que retrabalha sua Amélie Poulain em traços mais cruéis e menos esperançosos, e que tenta soar como um romance épico em torno de personagens com pouca alma e muita persistência.
 
 Utilizando novamente Audrey Tautou, a namoradinha da França, o diretor Jean-Pierre Jeunet mais uma vez aplica a belíssima fotografia de seu colaborador Bruno Delbonnel (Harry Potter e o Enigma do Príncipe, Inside Llewyn Davis: Balada de um Homem Comum, Amélie Poulain) e a dinâmica e inventiva montagem de seu editor Hervé Schneid (Micmacs - Um Plano Complicado) para contar uma história cheia de poder criativo, mas que encontra em seu núcleo um drama intransponível para o estilo do diretor.

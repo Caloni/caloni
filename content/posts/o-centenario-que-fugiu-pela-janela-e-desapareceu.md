@@ -1,10 +1,14 @@
 ---
-date: "2018-08-19"
-link: "https://www.imdb.com/title/tt2113681"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Centenário Que Fugiu Pela Janela e Desapareceu"
+categories:
+- draft
+- movies
+date: '2018-08-19'
+link: https://www.imdb.com/title/tt2113681
+tags:
+- cinemaqui
+title: O Centenário Que Fugiu Pela Janela e Desapareceu
 ---
+
 Este filme tem um longo nome. Tão longo quanto a vida de Allan Karlsson, o centenário que protagoniza essa comédia de erros. A princípio talvez você não entenda o que o filme quer dizer, além do que ele já diz no seu título. Então vai aqui uma dica: não pense, apenas assista.
 
 Esse foi também o conselho que Allan recebeu de sua mãe, logo antes dela morrer e logo depois de seu pai morrer, um revolucionário que acreditava que a camisinha salvaria todos da miséria e que acabou sendo fuzilado. Seu problema era que ele pensava demais, dizia a mãe de Allan.

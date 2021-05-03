@@ -1,8 +1,11 @@
 ---
-date: "2018-04-24"
-categories: [ "code", "lists" ]
-title: "Lista Ligada; tá Ligado?"
+categories:
+- code
+- lists
+date: '2018-04-24'
+title: Lista Ligada; tá Ligado?
 ---
+
 Uma lista ligada é uma lista de alguma coisa onde os elementos se ligam um no outro, ou seja, um elemento tem a referência do próximo. O tipo dos elementos de uma lista ligada pode ser inteiros, strings ou estruturas inteiras. Independente do que for, você vai precisar de uma estrutura. Sabe por quê? Porque existe além dos dados em si mais uma informação que você precisará guardar em cada elemento de sua lista: o próximo elemento. E é daí que surge a ligação da lista ligada.
 
     struct Node

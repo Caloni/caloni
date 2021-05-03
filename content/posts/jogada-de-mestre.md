@@ -1,10 +1,13 @@
 ---
-date: "2015-04-30"
-link: "https://www.imdb.com/title/tt2917388"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Jogada de Mestre"
+categories:
+- movies
+date: '2015-04-30'
+link: https://www.imdb.com/title/tt2917388
+tags:
+- cinemaqui
+title: Jogada de Mestre
 ---
+
 Jogada de Mestre (da distribuidoras sempre criativas), ou Kidnapping Mr. Heineken, é um thriller "baseado em fatos reais", como dizem os letreiros iniciais. Sempre encarei esses dizeres como uma forma de se desculpar pela história não ser tão boa, e esse caso não foge à regra. Inspirado também no livro do repórter criminal Peter R. de Vries, é dirigiro por Daniel Alfredson, responsável pelas continuações do filme sueco Os Homens que Não Amavam as Mulheres.
 
 Tentando inutilmente criar um pouco de dimensão aos personagens que irão se juntar para praticar o ousado sequestro de Alfred Heineken, criador da famosa marca de cerveja, o filme passeia por suas histórias rapidamente para mostrar que a esposa de um deles está grávida, e tenta criar uma justificativa da "brilhante" ideia através do seu sogro, que é um funcionário fanático pelo chefe bilionário.

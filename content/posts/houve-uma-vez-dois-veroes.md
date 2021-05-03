@@ -1,9 +1,11 @@
 ---
-date: "2020-09-06"
-link: "https://www.imdb.com/title/tt0322629"
-categories: [ "movies" ]
-title: "Houve uma Vez Dois Verões"
+categories:
+- movies
+date: '2020-09-06'
+link: https://www.imdb.com/title/tt0322629
+title: Houve uma Vez Dois Verões
 ---
+
 Meninas virgens costumam ter o que vulgarmente se conhece como "amor de pica", que é quando ela não consegue largar o garoto que a desvirginou; para o resto de sua vida. Trágico. Em contrapartida, Houve Uma Vez Dois Verões parte da história de um menino virgem que tem uma única noite com a garota perfeita, jogadora de fliperama, e desenvolve o que chamaríamos por tabela, e também vulgarmente, de "amor de xana".
 
 André Arteche é Chico, um adolescente comum que com seu amigo procuram oportunidades para transar em qualquer lugar e situação para sair do ponto de partida. Apesar de passarem as férias na maior praia por extensão do mundo, no Sul do Brasil, para economizar seus pais fazem a viagem em baixa temporada, e o que vemos é uma praia maior ainda, quase abandonada, e com nenhuma menina interessante à vista.

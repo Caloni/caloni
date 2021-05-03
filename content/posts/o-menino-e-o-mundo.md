@@ -1,9 +1,12 @@
 ---
-date: "2016-02-23"
-link: "https://www.imdb.com/title/tt3183630"
-categories: [ "draft", "movies" ]
-title: "O Menino e o Mundo"
+categories:
+- draft
+- movies
+date: '2016-02-23'
+link: https://www.imdb.com/title/tt3183630
+title: O Menino e o Mundo
 ---
+
 O Menino e o Mundo é uma animação sobre os olhos de um menino enxergando o mundo. E de fato ele consegue isso, com maestria: o mundo que vemos é estático, simplista, ingênuo e dramatizado até a última gota de tinta.
 
 Conta a história desse menino de um lugar isolado que, quando o pai parte de casa, vai atrás dele, e em uma mini-aventura ele descobre que há forças conflitantes no mundo. De um lado um latifundiário do algodão; do outro escravos... ops, funcionários colhendo e fabricando tecido; do outro os militares... ops, a polícia, aparentemente ditatorial; e um pouco mais longe, o capital estrangeiro, dominando tudo e a todos.

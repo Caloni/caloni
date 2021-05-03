@@ -1,9 +1,12 @@
 ---
-date: "2014-06-19"
-link: "https://www.imdb.com/title/tt2372162"
-categories: [ "draft", "series" ]
-title: "Orange is the New Black - Terceira Temporada"
+categories:
+- draft
+- series
+date: '2014-06-19'
+link: https://www.imdb.com/title/tt2372162
+title: Orange is the New Black - Terceira Temporada
 ---
+
 Orange is the New Black, apesar do título ultrapassado, ainda se mantém acima de sua irregular média. Digo irregular porque a série, apesar de possuir picos dramáticos e temáticos bem definidos, também possui os seus vales. Ou seja: se quiser aproveitar o que a série tem de bom, vai ter que aguentar muito lenga-lenga de mulher.
 
 Essa terceira temporada "surpreende" por seus ataques incessantes e cada vez mais incômodos da religião e de outros temas que flertam nervosamente com um esquerdismo até natural, vindo de um programa de TV que lida com detentas de um sistema presidiário mais do que o suficiente para manter seus "clientes" satisfeitos.

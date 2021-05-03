@@ -1,8 +1,10 @@
 ---
-date: "2007-08-09"
-title: "Antidebug: interpretação baseada em exceção (parte 2)"
-categories: [ "code" ]
+categories:
+- code
+date: '2007-08-09'
+title: 'Antidebug: interpretação baseada em exceção (parte 2)'
 ---
+
 No [primeiro artigo] vimos como é possível "enganar" o depurador através de exceções e assim fazer o atacante perder um tempo considerável tentando se desvencilhar dos breakpoints de mentira. Porém, vimos também que essa é uma solução difícil de manter no código-fonte, além de possuir o ponto fraco de ser facilmente contornada se descoberta. Agora é a hora de tornar as coisas mais fáceis de manter e ao mesmo tempo garantir maior dificuldade mesmo que o atacante descubra o que está acontecendo debaixo do seu nariz.
 
 O upgrade apresentado aqui continua utilizando o lançamento de exceções intrinsecamente, mas agora não depende mais da divisão do código em minifunções e chamá-las aos poucos. Em vez disso, temos apenas que pegar traços de código e colocá-los em torno de uma macro milagrosa que fará tudo o que quisermos. Isso, claro, depois de algumas marteladas que serão explicadas aqui.

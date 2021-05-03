@@ -1,9 +1,12 @@
 ---
-date: "2019-03-22"
-link: "https://www.imdb.com/title/tt0401711"
-categories: [ "draft", "movies" ]
-title: "Paris, Te Amo"
+categories:
+- draft
+- movies
+date: '2019-03-22'
+link: https://www.imdb.com/title/tt0401711
+title: Paris, Te Amo
 ---
+
 Este é um mega-projeto de cinema, com dezenas de diretores e roteiristas. Não há apenas o trabalho de compor os curtas, mas de juntá-los. Este é um filme com tantas visões diferentes que ele soa um pouco esquizofrênico. Mas como são todas visões mais ou menos alinhadas com o que a classe artista defende -- o que geralmente quer dizer a mesma coisa -- ele sobrevive ao pluralismo por causa da mesmice impregnada na mente de seus idealizadores.
 
 E exatamente por conta dessa mesmice o projeto é sabotado. A ideia é mostrar diferentes visões do amor por Paris, essa cidade cosmopolita em que metade dos curtas falam inglês e a outra metade francês. Temos um cego, um não-falante, uma árabe, casais de idades diferentes, casais separados, casais brigando e casais se formando. A atitude com que o filme impõe Paris como o local onde todos esses eventos devem ocorrer é limitadora. É como se apenas em uma cidade como Paris tudo isso pudesse acontecer. Ao mesmo tempo, se considerarmos toda cidade grande como incubadora desses relacionamentos o filme está certo, pois relacionamentos em cidades pequenas nunca ganham tamanha diversificação cultural e histórica que vemos no filme.

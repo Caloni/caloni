@@ -1,10 +1,14 @@
 ---
-date: "2020-01-24"
-link: "https://www.imdb.com/title/tt7735502"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Testemunha Invisível"
+categories:
+- draft
+- movies
+date: '2020-01-24'
+link: https://www.imdb.com/title/tt7735502
+tags:
+- cinemaqui
+title: Testemunha Invisível
 ---
+
 O filme se chama Testemunha Invisível, tanto aqui quanto na Itália, o que já nos diz mais do que o necessário sobre as diferentes reviravoltas deste thriller psicológico de mistério, que lida com adultério como se vivêssemos nos anos 80 ("se descobrirem que ele tinha uma amante acabou sua vida") e que pune os ricos e poderosos como se vivêssemos no mundo de Parasita ("ele aprendeu que não podia contar com a polícia comprada para ajudá-lo"). Esta é uma mescla ruim que acaba funcionando no final porque, como todo filme de mistério, queremos com todas as forças nos ludibriar sobre qual a versão real dos fatos.
 
 Ao nos apresentar a advogada de sucesso Virginia Ferrara, ou algum outro sobrenome de respeito, chegando três horas antes do combinado para a reunião com seu cliente, o multimilionário Adriano Outro Sobrenome De Respeito, sozinha e com uma postura autoritária, a ambiguidade senta junto de sua personagem e nunca mais vai embora. Ela é uma farsa? Ou apenas temperamental? Mas esse seria um golpe esse tão fácil de ser aplicado? Ou advogados que cobram três zeros por hora se comportam dessa forma? Há tantas perguntas sobre Virginia que é impossível que ela não esconda algo, e o filme deixa quase às claras que é justamente isso que irá acontecer. Qual o truque aqui?

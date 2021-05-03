@@ -1,9 +1,12 @@
 ---
-date: "2016-10-31"
-link: "https://www.imdb.com/title/tt4538652"
-categories: [ "draft", "movies" ]
-title: "Sonar"
+categories:
+- draft
+- movies
+date: '2016-10-31'
+link: https://www.imdb.com/title/tt4538652
+title: Sonar
 ---
+
 Este é o segundo filme que vejo na Mostra com um personagem que grava sons do ambiente (o outro é O Que Restou da Minha Vida). Sonar escolhe falar sobre uma imigrante mulher de um país africano que ainda trata mulheres como submissas. O interessante é que, considerando o que o filme faz dessa personagem, não temos pista nenhuma que nos faça evitar em pensar que, no fundo, ela também seria no Ocidente como apenas mais uma vadia.
 
 Resgatando sua história através do editor de som Wyatt através de testemunhos das pessoas que conviveram com a jovem e manipuladora Leïla, o roteiro do diretor estreante Jean-Philippe Martin parece querer dividir atenções entre Wyatt e Leïla, já que se por um lado a história principal aparentemente é de Leïla, é a história de vida de Wyatt que aparece no meio, como a gravação do perfil de uma ex-mulher em sua vida dá a entender. Dessa forma, há um filme que, dividido, não consegue se sair bem contando a história de seus personagens, já que até o chefe do introspectivo Wyatt parece conter um background mais interessante.

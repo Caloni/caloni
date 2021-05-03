@@ -1,9 +1,12 @@
 ---
-date: "2019-07-09"
-link: "https://www.imdb.com/title/tt0033467"
-categories: [ "draft", "movies" ]
-title: "Cidadão Kane"
+categories:
+- draft
+- movies
+date: '2019-07-09'
+link: https://www.imdb.com/title/tt0033467
+title: Cidadão Kane
 ---
+
 Cidadão Kane ainda é relevante esses dias? Votado por cinco décadas como filme mais influente pela associação de críticos mais respeitada do mundo, sendo desbancado finalmente por Um Corpo Que Cai, a única coisa que eu peço antes que você responda essa pergunta é: assista o filme sabendo que quase nenhuma de suas trucagens ou efeitos de montagem e mise en scene existiam antes dele, mas logo depois todos começaram a copiar.
 
 Assista também sabendo que seu roteiro já havia sido reconhecido naquela época, mas até hoje há discussões em torno dele e sobre quem era, de fato, Charles Foster Kane, já que tudo que temos é o depoimento de pessoas relacionadas a ele de maneira negativa ou no mínimo complexa.

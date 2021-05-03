@@ -1,9 +1,12 @@
 ---
-date: "2016-09-07"
-link: "https://www.imdb.com/title/tt2660888"
-categories: [ "draft", "movies" ]
-title: "Star Trek: Sem Fronteiras"
+categories:
+- draft
+- movies
+date: '2016-09-07'
+link: https://www.imdb.com/title/tt2660888
+title: 'Star Trek: Sem Fronteiras'
 ---
+
 O reboot megalomaníaco da série de filmes inspirada pela série televisiva nerd dos anos 60 está com muita bala na agulha para poder gastar e pouca vontade de arriscar. Isso quer dizer que o novo filme com Capitão Kirk e Spock tem basicamente o mesmo enredo do filme anterior (Além da Escuridão) tirando a emoção.
 
 Porém, a boa notícia é que os efeitos visuais gerados por computador têm garantidos boas supressas esse ano. Além do ótimo Warcraft, Star Trek possui algumas das sequências descritivas que irá tirar o fôlego do espectador, particularmente a apresentação de uma gigantesca estação no espaço criada pela Frota Estelar para manter uma base de apoio nas profundezas do limite onde humano algum jamais foi. Além disso, a versão 3D faz um ajuste mais que esperado: nas cenas escuras com pouca profundidade, apela ao 2D, auxiliando na claridade para quem está com óculos tampando metade da luz.

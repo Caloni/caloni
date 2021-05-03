@@ -1,9 +1,12 @@
 ---
-date: "2016-10-28"
-link: "https://www.imdb.com/title/tt5709230"
-categories: [ "draft", "series" ]
-title: "Black Mirror - S03E03 - Shut Up and Dance"
+categories:
+- draft
+- series
+date: '2016-10-28'
+link: https://www.imdb.com/title/tt5709230
+title: Black Mirror - S03E03 - Shut Up and Dance
 ---
+
 Após um episódio medíocre, Black Mirror volta a fazer história com a tecnologia atual. Sem apelar (muito) para o futurismo, conta a história de como quem não vive através da verdade vira refém dos outros, além de jogar o público a favor dos roteiristas usando a moral da sociedade como pêndulo de justiça (isso nunca dá certo).
 
 A história começa com o jovem, ingênuo e introvertido Kenny (Alex Lawther), que é solitário no trabalho e usa seu computador para estravasar seu apetite sexual de adolescente. No entanto, um vírus que se instala em seu notebook faz com que sua web cam fique disponível para que atacantes invadam sua privacidade, o chantageando através da ameaça de publicar seus momentos íntimos para todos seus contatos. Kenny então entra em um dia de martírio, onde conhece pessoas também atingidas pelo vírus, todos realizando ações mecanicamente para evitar ser revelados.

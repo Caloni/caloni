@@ -1,8 +1,10 @@
 ---
-date: "2010-01-25"
-categories: [ "draft" ]
-title: "House"
+categories:
+- draft
+date: '2010-01-25'
+title: House
 ---
+
 Depois da analogia entre depuração e CSI, nada como fazer o mesmo com o seriado estilo House.
 
 Quais as semelhanças com a profissão de programador-depurador?
@@ -27,5 +29,4 @@ Porém, o lado bom: podemos testar todas nossas hipóteses. Na vida real! Se, po
 Talvez isso faça a profissão tão realizadora e viciante: para resolver um problema, geralmente temos todas as cartas na mão, e se não temos, fazemos ter. Afinal de contas, somos nós que iremos ressuscitar o sistema perdido.
 
 	
-  * A Ciência Médica de House 
-
+  * A Ciência Médica de House

@@ -1,8 +1,12 @@
 ---
-date: "2010-04-10"
-categories: [ "code", "draft", "english" ]
-title: "Using TodoList and Microsoft Project together"
+categories:
+- code
+- draft
+- english
+date: '2010-04-10'
+title: Using TodoList and Microsoft Project together
 ---
+
 The next article about bits is still in the oven. Taking vacation (40 days) had drop me out of ideas! At the moment, I can explain the tips and tricks using  TodoList to manage my team and synchronize my tasks in a Microsoft Project timesheet.
 
 The reasons why I am using TodoList are kind of obvious: it does everything I need to organize my day to day tasks and it is portable. Meanwhile, the Project, besides not being portable (I need to carry on with me a 200 MB installer? And do install?) it uses a hard to change format and it was made to project the world, and not to be easily shared.
@@ -22,4 +26,3 @@ Just more a few Nexts and voilà! We got our tasks properly imported.
 But of course all this work would be useless if we had to (sigh) open the Project. To avoid this impure job, we keep on updating the project status in our tiny, tidy TodoList and, when we need, we just import the data again, but this time using a already saved map (follow the screenshots above) and setting our TodoList ID as the key. This way the tasks already present will be just updated, and the unknown tasks will be added. That's the most important trick in this post.
 
 After I researched all this, I just found out the Project won't be necessary anymore. Lucky me. Now, if you don't have such luck, you can use this post =)
-

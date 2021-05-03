@@ -1,8 +1,10 @@
 ---
-date: "2009-04-09"
-categories: [ "draft" ]
-title: "Deixe o programador programar"
+categories:
+- draft
+date: '2009-04-09'
+title: Deixe o programador programar
 ---
+
 Seis meses se passaram desde que defini o cronograma para um projeto importante (mas não urgente) que deveria ser entregue cinco meses atrás. O tempo em dias que estimei na época não havia mudado nada, mas uma série de desventuras (tarefas brotando do chão e umas férias bem merecidas) fizeram com que quase nenhuma linha de código tivesse sido produzida para aquele projeto. No entanto, tenho a consciência tranquila, já que estou em uma de minhas fases mais produtivas e inovadoras.
 
 Então eis que surge na porta do templo sagrado (a sala de desenvolvimento) um dos mortais que costuma acreditar que "dirige" seus funcionários. Vira-se para mim e "define" que esse projeto não poderá passar desse mês. E todas aquelas tarefas urgentes que estavam furando a fila de prioridades, como a última da semana passada, devem ser postergadas. É lógico que nada disso foi surpresa, visto que outros discursos desse tipo e outras tarefas urgentes já haviam aparecido no decorrer desses seis meses; mas, enfim, esse foi o primeiro deadline oficialmente definido.

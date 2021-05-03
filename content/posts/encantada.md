@@ -1,9 +1,11 @@
 ---
-date: "2012-06-14"
-link: "https://www.imdb.com/title/tt0461770"
-categories: [ "movies" ]
-title: "Encantada"
+categories:
+- movies
+date: '2012-06-14'
+link: https://www.imdb.com/title/tt0461770
+title: Encantada
 ---
+
 Encantada inicia com um desenho de conto de fadas genérico, cuja introdução apenas serve para nos habituarmos com aquele mundo e a sua dinâmica. A largura da tela diminui sutilmente e faz-se a transição para o mundo real, mais amplo, na própria visão da princesa Giselle.
 
 É preciso dar créditos às verossímeis interpretações de Amy Adams ([O Vencedor], Os Muppets), James Marsden ([Hop: Rebelde Sem Páscoa]) e Timothy Spall (da [série Harry Potter]), que caracterizam perfeitamente suas contrapartes em desenho (ou vice-versa), além, é claro, de efeitos extremamente eficientes com os animais, que oferecem um encantamento adicional necessário para que compremos, de fato, a história que vai se passar.

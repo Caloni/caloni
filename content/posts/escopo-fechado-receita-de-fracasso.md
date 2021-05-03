@@ -1,8 +1,10 @@
 ---
-date: "2017-09-12"
-categories: [ "draft" ]
-title: "Escopo Fechado: Receita De Fracasso"
+categories:
+- draft
+date: '2017-09-12'
+title: 'Escopo Fechado: Receita De Fracasso'
 ---
+
 Quando questionado por clientes se haveria uma forma de fechar o escopo de um projeto maior que 20 horas, dessa forma limitando a interação em uma entrega única já com os requisitos definidos por ele, geralmente nossa resposta é: "isso nunca vai funcionar; ou se funcionar, vai sair bem caro".
 
 Sinto muito, mas não trabalhamos dessa forma. Já tivemos várias experiências ruins no passado em que o cliente jurava de pé junto que o escopo estava fechado e detalhado no máximo, mas na hora de desenvolver a história foi muito diferente. Isso não é falha de projeto, é como desenvolvimento de software funciona.

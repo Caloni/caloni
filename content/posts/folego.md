@@ -1,9 +1,11 @@
 ---
-date: "2010-12-20"
-link: "https://www.imdb.com/title/tt0901475"
-categories: [ "movies" ]
-title: "Fôlego"
+categories:
+- movies
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt0901475
+title: Fôlego
 ---
+
 Em um período mais inocente da minha vida de cinéfilo Kim Ki Duk estava entre os poucos dos meus diretores favoritos, em uma lista que hoje em dia está esparsa demais para fazer algum sentido. Mas o diretor coreano continua sendo para mim um exemplo de contar histórias para chamar a atenção do seu público, sempre utilizando o chamariz das situações bizarras que nos prende e nos impede de desgrudar os olhos da tela até o final do filme.
 
 Escrevi a respeito de Fôlego em 2010, no primeiro semestre que estava começando a escrever sobre os filmes que assistia. Eram anotações em um caderninho que rabiscava durante a sessão, no Cine Belas Artes, em São Paulo. Depois eu repassava esses rabiscos em algo inteligível. Mas essa não é desculpa para minha inocência em desvendar um filme falando sobre símbolos e detalhes que devem ser vistos como um todo. O meu texto de 2010 é meramente um capricho, e um rabisco, que hoje não me serve mais para análise.

@@ -1,9 +1,13 @@
 ---
-date: "2019-03-27"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Niède"
+categories:
+- draft
+- movies
+date: '2019-03-27'
+tags:
+- cinemaqui
+title: Niède
 ---
+
 No começo de "Niède" há umas batidas bacanas na trilha sonora, batidas ocas, que não conseguimos discernir de onde poderiam vir, exceto de materiais muito primitivos. Essa batida já começa o filme evocando tempos tão distantes na cronologia humana que sequer ousamos imaginar o que o homo sapiens fazia até então.
 
 Ainda assim, a naturalista e paleontóloga Niède Guidon afirma com certa convicção que podemos concluir através de pinturas rupestres que não há muita diferença entre desenhos de homens palitos com um museu de arte moderna, e nisso podemos concordar. Aliás, digo mais: a arte moderna hoje em dia é tão sem sentido que rabiscos de homens palitos de milênios atrás possuem muito mais significado, além de podermos chamar de arte sem medo de errar.

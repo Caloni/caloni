@@ -1,9 +1,11 @@
 ---
-date: "2015-03-07"
-link: "https://www.imdb.com/title/tt2234155"
-categories: [ "movies" ]
-title: "Os Estagiários"
+categories:
+- movies
+date: '2015-03-07'
+link: https://www.imdb.com/title/tt2234155
+title: Os Estagiários
 ---
+
 Não sei o nível de entrosamento de Vince Vaughn com os roteiros que participa, mas co-assinando a história do ótimo Separados pelo Casamento e os roteiros de Encontro de Casais e agora Os Estagiários me diz que pelo menos ele não se importa tanto quanto o egocêntrico Adam Sandler em proteger sua "imagem pública". Mas não se engane: seus personagens podem ser antipáticos em alguns momentos, mas sempre sairão por cima ou terão algo que ninguém tem. Nesse caso, a capacidade de ser um excelente vendedor.
 
 Só que a Era de vendedores de relógio como Billy (Vahghn) e Nick (Owen Wilson) já passou faz um tempo, e agora que a firma para onde trabalhavam fechou as portas eles têm a ideia de se inscrever no programa de estágios do novo sonho americano: trabalhar no Google. Levando mais tempo do que deveria em sua introdução, finalmente somos levados às instalações e às pessoas que regem a internet. E, assim como Vaughn, a Google não se importa em ser caracterizada como arrogante e insensível durante o trajeto da história, desde que no final fique valendo a imagem deste ser o lugar dos sonhos.

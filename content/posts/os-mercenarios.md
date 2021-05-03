@@ -1,9 +1,11 @@
 ---
-date: "2010-08-13"
-link: "https://www.imdb.com/title/tt1320253"
-categories: [ "movies" ]
-title: "Os Mercenários"
+categories:
+- movies
+date: '2010-08-13'
+link: https://www.imdb.com/title/tt1320253
+title: Os Mercenários
 ---
+
 Usando uma steady cam e iniciando no tom de documentário, Os Mercenários traz uma gangue de atores milionários que, em seus devidos personagens unidimensionais, fazem operações de guerra por uns trocados. A primeira cena, aliás, resume bem o que teremos no resto das cenas de ação: muito sangue. Tanto sangue que, no início, vemos o resto da matança através de uma lente de visão noturno, para não afastar de imediato o espectador que ainda verá muitas cabeças explodindo e corpos rolando.
 
 Pior do que sua violência é sua desonestidade, no melhor estilo caça-níqueis. Ele traz em seu elenco figuras como Bruce Willis e Schwazenegger como bonequinhas de luxo (que, aliás, até serve para piadas datadas como "ele quer ser presidente"). Os Mercenários nunca soa realista ou interessante, sendo empolgante em alguns poucos momentos, como a escapada de avião na primeira visita à ilha, onde a explosão final ganha o impacto que merece, ou quando dois capangas da mesma gangue acabam lutando entre si.

@@ -1,10 +1,14 @@
 ---
-date: "2019-10-05"
-link: "https://www.imdb.com/title/tt9608078"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Lembre-se de Mim, Por Favor"
+categories:
+- draft
+- movies
+date: '2019-10-05'
+link: https://www.imdb.com/title/tt9608078
+tags:
+- cinemaqui
+title: Lembre-se de Mim, Por Favor
 ---
+
 Tem início a Quinta Mostra de Cinema Chinês em São Paulo, dessa vez homenageando e focando nas diretoras mulheres de um país fechado que merece ser redescoberto. O filme da abertura, por exemplo, este "Lembre-se de Mim, Por Favor", é o último filme de Xiaolian Peng antes do seu falecimento. É uma pena que ela tenha se ido tão cedo, pois ela estaria neste evento, junto de sua colega, a diretora Liu Miaomiao (seu filme Flores Vermelhas e Folhas Verdes também será exibido na Mostra).
 
 Membro da quinta geração de diretoras mulheres da China, Xiaolian Peng manteve a tradição coletivista cultural da Academia de Cinema de Beijing, mas destoa na narrativa, buscando evocar a individualidade e empoderamento de mulheres inseridas nesse contexto, além de um interesse/obsessão pela cidade de Shanghai. Dois de seus filmes mais famosos, Era Uma Vez em Shanghai e Women's Story, refletem esses interesses da cineasta que permearam seu cinema ao longo da vida, seja no roteiro ou na direção.

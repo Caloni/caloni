@@ -1,10 +1,14 @@
 ---
-date: "2018-04-29"
-link: "https://www.imdb.com/title/tt5687040"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Os Fantasmas de Ismael"
+categories:
+- draft
+- movies
+date: '2018-04-29'
+link: https://www.imdb.com/title/tt5687040
+tags:
+- cinemaqui
+title: Os Fantasmas de Ismael
 ---
+
 Este é mais um filme sobre o processo de criação. Mas ele é tão intenso que ele quase parece se deixar levar como uma auto-análise do seu criador. Eu disse quase, já que Os Fantasmas de Ismael é um trabalho que se mantém sob controle se você olhar de perto, mas para o leigo, esta é uma aventura muito, muito louca, que com um pouco de esperança irá te dar alguns insights sobre como somos manipulados todo o tempo nas artes cênicas e na literatura.
 
 Porém, este não é um trabalho obsessivamente controlado pelo seu roteirista como Adaptação, de Charlie Kaufman; tampouco é o caos se transformando em filme por acaso. Ele vai caminhando através do equilíbrio entre o coerente e a insanidade, aos poucos nos dando a impressão de estar assistindo a um trabalho de ficção, quebrando eventualmente a quarta parede da maneira mais sutil possível. Ele não nega isso, pois este é o assunto do filme, mas não deixa escrachado, pois você terá que perceber isso nos detalhes, como lágrimas que começam a escorrer quando um personagem diz a outro que ele deveria estar chorando, ou nos movimentos de câmera grosseiros que lembram filmes de suspense como os da época de Hitchcock (e não é à toa que o Bernard Herrmann, colaborador de Hitchcock na maioria de seus filmes, consta nos créditos musicais). E, assim como o próprio Hitchcock, a maestria do filme reside em esconder suas pegadas, mesmo que o assunto do filme seja sobre as pegadas em si.

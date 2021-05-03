@@ -1,10 +1,14 @@
 ---
-date: "2019-09-05"
-link: "https://www.imdb.com/title/tt7025388"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Abigail e a Cidade Proibida"
+categories:
+- draft
+- movies
+date: '2019-09-05'
+link: https://www.imdb.com/title/tt7025388
+tags:
+- cinemaqui
+title: Abigail e a Cidade Proibida
 ---
+
 Abigail e a Cidade Proibida é a história de alguém que bateu forte a cabeça e começou a escrever uma lista dos clichês mais insuportáveis do século 20 na literatura, no cinema e no teatro. Depois ele conseguiu convencer algumas pessoas da indústria a filmar o que vamos chamar aqui de "história". E ele estava com sorte, porque para ser um big boss nessa área você também deve desenvolver um tino para clichês, ou ter nascido desse jeito. É o que chamamos de um dom natural.
 
 As pessoas dotadas deste dom conseguem fazer cinema sem se dar conta da vergonha que estão passando. Elas podem estar em qualquer lugar, na frente e atrás das câmeras, e suportam que diálogos como "siga seu coração" ou "sempre estarei com você" sejam ditos, editados e exibidos em salas de cinema em todo o mundo em pleno século 21.

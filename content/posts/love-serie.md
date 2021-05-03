@@ -1,9 +1,12 @@
 ---
-date: "2016-03-01"
-link: "https://www.imdb.com/title/tt4061080"
-categories: [ "draft", "series" ]
-title: "Love - Primeira Temporada"
+categories:
+- draft
+- series
+date: '2016-03-01'
+link: https://www.imdb.com/title/tt4061080
+title: Love - Primeira Temporada
 ---
+
 O que significa se relacionar? Por que para algumas pessoas isso funciona tão bem, enquanto para outras é como dirigir um trator esmagando todos os corações pelo caminho?
 
 A nova série da Netflix, Love, busca responder essa questão em um formato que tenta evitar sitcoms como How I Met Your Mother e se aproximar do drama de fato que é se relacionar com outras pessoas. Porém, não deixa de lado o bom humor, além de explorar bem o lado tecnológico dos dias de hoje e criar uma diversidade de etnias e gêneros que torcemos que seja verdade na vida real (nem que seja nesse universo limpinho, sanitizado e semi-rico de Hollywood).

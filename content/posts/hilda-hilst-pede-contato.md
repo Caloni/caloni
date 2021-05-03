@@ -1,9 +1,13 @@
 ---
-date: "2018-07-20"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Hilda Hilst Pede Contato"
+categories:
+- draft
+- movies
+date: '2018-07-20'
+tags:
+- cinemaqui
+title: Hilda Hilst Pede Contato
 ---
+
 "Não sei o que há, mas há principalmente o elogio fácil. Seria ótimo que os críticos falassem a verdade." - Hilda Hilst. Este filme é uma oportunidade perfeita para demonstrar a irrelevância intelectual do espiritismo, mas infelizmente, para os que ainda não conhecem a obra de Hilda Hist, esta pode ser uma péssima porta de entrada, cercada das reverências vazias e, como a própria Hilda coloca na citação, "o elogio fácil".
 
 Mas isso ocorre não por falta de críticos do seu trabalho, mas porque o filme apela para testemunhos que basicamente rasgam seda em elogios vazios sobre a autora. Não se trata de analisar uma pessoa e sua obra, mas apenas de a homenagear. E se o objetivo é apenas elogiar, então o filme de Gabriela Greeb cumpre este objetivo de maneira exemplar, estruturado como uma busca eterna por sinais sonoros em rádio de Hilda em sua casa no campo, recriando a cena e a atmosfera em que isso ocorreu por vários anos com a ajuda de uma atriz, as gravações originais e uma direção que explora com propriedade visual este limiar entre a poesia e a prosa da autora.

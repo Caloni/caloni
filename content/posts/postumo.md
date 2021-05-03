@@ -1,9 +1,12 @@
 ---
-date: "2017-11-20"
-link: "https://www.imdb.com/title/tt2463154"
-categories: [ "draft", "movies" ]
-title: "Póstumo"
+categories:
+- draft
+- movies
+date: '2017-11-20'
+link: https://www.imdb.com/title/tt2463154
+title: Póstumo
 ---
+
 A diretora/roteirista Lulu Wang parece se achar tão esperta... nesse seu primeiro longa ela explora uma história comum o suficiente para não despertar muita surpresa e rasa o suficiente para não despertar interesse em um ou outro diálogo de fato interessante. Porém, próximo da direção, o roteiro se torna muito bom. Planos confusos e ângulos sobrepostos em uma bagunça de temas parece tentar mostrar como a arte deste homem é tão boa se comparada ao que é feito nesse filme.
 
 Este é um filme morno que parece novela. Ou pior: um filme da Netflix. Desses que é encomendado pelos espectadores e que parece criado por uma máquina? Pois bem. Esse não chega a ser tão ruim quanto Naked e nem tão bonzinho quanto O Mínimo Para Viver. Mas fica na média. Traz personagens cuidadosamente calculados para funcionarem em situações não muito profundas e aceitáveis pelo espectador médio e não apresenta praticamente nenhuma surpresa pelo caminho.

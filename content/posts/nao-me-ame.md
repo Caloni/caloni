@@ -1,10 +1,14 @@
 ---
-date: "2019-10-24"
-link: "https://www.imdb.com/title/tt8445700"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Não me Ame"
+categories:
+- draft
+- movies
+date: '2019-10-24'
+link: https://www.imdb.com/title/tt8445700
+tags:
+- cinemaqui
+title: Não me Ame
 ---
+
 Não me Ame é cinema experimental, e eu admiro isso. Porém, seus símbolos vão se multiplicando a cada diálogo em um ritmo indecifrável, e isso não tem perdão.
 
 Brincando em espanhol com uma história de guerra no estilo invasão do Iraque misturado com o folclore bíblico, a ideia concebida por Sergi Belbel e Lluís Miñarro (dirigido por este último) nunca foi uma coisa boa, nem no começo, quando filmes como Cães de Aluguel e diretores como Kubrick são citados. Referências do diretor? Espero que não, ou isso quer dizer que nas aulas de cinema da atualidade os rolos de filmes são mais cheiradas do que vistos.

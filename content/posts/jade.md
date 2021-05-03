@@ -1,9 +1,12 @@
 ---
-date: "2019-06-02"
-link: "https://www.imdb.com/title/tt0113451"
-categories: [ "draft", "movies" ]
-title: "Jade"
+categories:
+- draft
+- movies
+date: '2019-06-02'
+link: https://www.imdb.com/title/tt0113451
+title: Jade
 ---
+
 Que filme é esse... ele parece feito para a TV, mas tem uma direção frenética e quase impecável, com uma edição idem (Augie Hess) e uma trilha sonora de quinta categoria por James Horner, responsável pelas trilhas pomposas de James Cameron. Mas aqui não há nada de pomposo, neste thriller investigativo com uma sequência de perseguição dos anos 90 que não se faz mais hoje em dia. Isso é Cinema macho, com um diretor e um roteirista, como deve ser, e com uma equipe de qualidade.
 
 A começar pelo casting. David Caruso é a escolha perfeita para o papel de investigador que não possui determinação nem moral exagerada, mas suficientes, e é o que tem para hoje. Caruso consegue imprimir essa faceta de herói não muito bem intencionado, algo importantíssimo na história, pois ele está atrás da mulher do amigo dele.

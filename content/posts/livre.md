@@ -1,9 +1,11 @@
 ---
-date: "2015-05-05"
-link: "https://www.imdb.com/title/tt2305051"
-categories: [ "movies" ]
-title: "Livre"
+categories:
+- movies
+date: '2015-05-05'
+link: https://www.imdb.com/title/tt2305051
+title: Livre
 ---
+
 Baseado no livro autobiográfico "Wild: From Lost to Found on the Pacific Crest Trail", a protagonista absoluta do filme são as memórias da autora Cheryl Strayed, interpretada pela competente (ou bem escolhida) Reese Witherspoon. No entanto, além de Sheryl, parece haver ainda um espírito maior que quer contar uma história maior. Um espírito interpretado pelo fantasma de sua mãe, a simpática e intensa Bobbi (Laura Dern, quase roubando a cena). Um espírito trabalhado em todo homem e mulher do filme. Um espírito que luta pela liberdade do ser humano independente do seu gênero. Um espírito tão empenhado em conduzir essa tarefa na mente de seus espectadores que avança um pouco o sinal, se tornando quase um manifesto feminista de bolso. 
 
 Felizmente, as passagens do filme são extremamente bem conduzidas através dos flashbacks de Sheryl -- que já começa a história a caminho da trilha de centenas de quilômetros. Não só isso: o ritmo do "road-movie" é tão incidental, que ocorre ao acaso, quando na realidade cada evento da travessia é interpretado à luz das memórias de Sheryl e sua visão do mundo, uma visão bipartida em luz e trevas. A luz ela herdou da sua mãe, sempre animada com a vida. As trevas, da doença que fez com que ela morresse aos 45 anos. Recheado de uma trilha sonora inspirada e uma fotografia de tirar o fôlego (o filme tem uma razão de aspecto largo para isso), que consegue elegantemente atravessar tanto um delirante deserto quanto uma absurda camada de neve.

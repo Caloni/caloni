@@ -1,9 +1,13 @@
 ---
-date: 2019-05-17T19:04:53-03:00
-title: "C Resolve Tudo Clos"
-categories: [ "draft", "code" ]
-desc: "Implementação de sistema polimórfico de chamada de métodos do CLOS (Common Lisp Object System). Atualizado em 2019-05-19 para retirar todo C++ e usar glib."
+categories:
+- draft
+- code
+date: 2019-05-17 19:04:53-03:00
+desc: Implementação de sistema polimórfico de chamada de métodos do CLOS (Common Lisp
+  Object System). Atualizado em 2019-05-19 para retirar todo C++ e usar glib.
+title: C Resolve Tudo Clos
 ---
+
 Continuando nossa série, conforme sugerido pelo @colemaker do grupo C/C++/42/Império do Brasil, a próxima ideia a ser implementada em C é o sistema polimórfico de chamadas do Lisp orientado a objetos. Esse sistema permite realizar a seguinte manobra:
 
 ![](https://i.imgur.com/VcPXDcJ.jpg)

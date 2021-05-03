@@ -1,9 +1,12 @@
 ---
-date: "2019-01-21"
-link: "https://www.imdb.com/title/tt3534282"
-categories: [ "draft", "movies" ]
-title: "Don Verdean: o Que o Passado nos Reserva"
+categories:
+- draft
+- movies
+date: '2019-01-21'
+link: https://www.imdb.com/title/tt3534282
+title: 'Don Verdean: o Que o Passado nos Reserva'
 ---
+
 Esta é uma comédia que pega pesado com as religiões protestantes dos EUA. A maneira com que ele faz isso é muito maldosa. Ela é... como posso dizer... sincera.
 
 Os religiosos nesse filme, podemos dizer com alguma segurança, seguem fielmente seus princípios. O engraçado no caso é que eles parecem tão ingênuos por fora que parece mentira. Tony Lazarus foi um homem que quase morreu em um acidente de carro com uma prostituta. Tendo sido ressuscitado no hospital se converteu e fundou uma igreja. O personagem-título, Don Verdean (Sam Rockwell), é um arqueólogo a serviço da fé. Encontra "provas" de que tudo que está escrito na Bíblia é verdade.

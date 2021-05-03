@@ -1,9 +1,11 @@
 ---
-date: "2012-07-22"
-link: "https://www.imdb.com/title/tt0364569"
-categories: [ "movies" ]
-title: "Oldboy"
+categories:
+- movies
+date: '2012-07-22'
+link: https://www.imdb.com/title/tt0364569
+title: Oldboy
 ---
+
 Quando o filme inicia, temos um breve momento com o futuro Dae-su Oh (Min-sik Choi) durante um curioso diálogo com um homem que parece depender do protagonista para manter-se vivo. A conversa aparece cortada no meio, e boa parte da história parece seguir a mesma lógica. Quando voltamos um indeterminado período de tempo, somos apresentados a um irreconhecível, mulherengo e causador de problemas Dae-su. Se descontrolando diversas vezes enquanto aguarda em uma delegacia com seu amigo, mal conseguimos relacionar o pedaço de homem que vemos com sua versão mais velha, cansada e, o mais importante de tudo, determinada.
 
 O homem do passado possuía uma mulher e uma filha, para quem daria um presente de aniversário naquela noite. Isso se não tivesse desaparecido misteriosamente, deixando para trás um passado que não lhe pertence mais. Acompanhamos a partir daí o prisioneiro Dae-su, que não sabe sequer por que está preso. Ele pretende fugir e se vingar, mas ainda não sabemos de quem. Ouvimos seus pensamentos solitários, e vamos entendendo seu drama conforme os anos passam.

@@ -1,10 +1,13 @@
 ---
-date: "2015-01-30"
-link: "https://www.imdb.com/title/tt2339741"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Mulher de Preto 2: O Anjo da Morte"
+categories:
+- movies
+date: '2015-01-30'
+link: https://www.imdb.com/title/tt2339741
+tags:
+- cinemaqui
+title: 'A Mulher de Preto 2: O Anjo da Morte'
 ---
+
 Se a maioria do terror produzido hoje em Hollywood já é sinônimo de filme trash, ou no máximo medíocre, o que dizer de suas continuações. E este A Mulher de Preto 2 infelizmente não foge muito da regra. Pegando carona no ambiente tenebroso da casa abandonada em torno de uma ilha, o filme nos apresenta uma história semelhante passada no mesmo lugar, embora na época da segunda guerra.
 
 Seguindo à risca a cartilha do "novo" terror, o diretor televisivo Tom Harper não mostra muito, o que é um bom sinal, pois boa parte do medo reside no não-visto. Porém, impotente em conseguir criar qualquer tipo de cena aterrorizante, somos brindados por aqueles sustos que apelam para o aumento desproporcional do volume da trilha sonora e pela invasão irritante de objetos e criaturas fora de campo.

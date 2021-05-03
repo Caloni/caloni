@@ -1,9 +1,11 @@
 ---
-date: "2013-02-14"
-link: "https://www.imdb.com/title/tt1588173"
-categories: [ "movies" ]
-title: "Meu Namorado é um Zumbi"
+categories:
+- movies
+date: '2013-02-14'
+link: https://www.imdb.com/title/tt1588173
+title: Meu Namorado é um Zumbi
 ---
+
 R (Nicholas Hoult) é um zumbi, mas isso não evita que ele pense e avalie suas ações. Comer cérebros, por exemplo, é quase uma necessidade, pois R não pode dormir e sonhar, mas através dos cérebros dos humanos ele consegue visualizar as memórias da vida que acabou de matar e, assim, se sentir vivo novamente por alguns momentos.
 
 É com essa descrição meio cômica, meio poética que o filme de Jonathan Levine estabelece uma relação quase doentia entre comédia e romance. Os zumbis aqui não são levados muito a sério, o que pode prejudicar um pouco a dramaticidade da história. Em compensação, a velha fórmula do diretor de zumbis George Romero aqui é usada, e a comparação com os humanos de hoje em dia é mais que apropriada, principalmente quando R tenta imaginar como as pessoas antes de se tornarem zumbis poderiam confraternizar entre si e imagina um aeroporto onde só vemos humanos desperdiçando a dádiva da vida enfurnados em seus smartphones.

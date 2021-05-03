@@ -1,10 +1,14 @@
 ---
-date: "2017-08-28"
-link: "https://www.imdb.com/title/tt1458169"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Sequestro"
+categories:
+- draft
+- movies
+date: '2017-08-28'
+link: https://www.imdb.com/title/tt1458169
+tags:
+- cinemaqui
+title: O Sequestro
 ---
+
 O Sequestro consegue caminhar por todos os clichês dos filmes do gênero sem tropeçar em nenhum deles. Na verdade ele parece que pisca para o espectador em alguns momentos, de tão óbvia a situação. É como se antes de acontecer algo imaginássemos: "aqui sempre acontece tal coisa". E quando não acontece, eis a recompensa do filme.
 
 Iniciando com uma sucessão de pequenos vídeos caseiros que retratam o nascimento e o crescimento do pequeno Frankie (o insuportavelmente mimado Sage Correa) até a idade de seis anos, quem veremos mais durante todo o filme é sua mãe (Halle Berry), que é uma garçonete divorciada que batalha todos os dias para conseguir ter algum tempo junto de seu filho. Quando ele é sequestrado no parque ela inicia uma perseguição sem fim da indefesa mãe em busca do filho.

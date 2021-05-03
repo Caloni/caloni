@@ -1,9 +1,11 @@
 ---
-date: "2020-07-11"
-link: "https://www.imdb.com/title/tt0200192"
-categories: [ "movies" ]
-title: "A Pervertida"
+categories:
+- movies
+date: '2020-07-11'
+link: https://www.imdb.com/title/tt0200192
+title: A Pervertida
 ---
+
 Divertido e inusitado como Sensual Demais, o filme independente do cara com a lenda de ter o membro grande demais para fazer sexo com sua esposa e por isso se aliviava no milharal, este filme da lenda Tint Brass (Calígula) apresenta a bunda de sua estrela mais vezes do que sua cara, é italiano dublado em inglês, e a maioria das falas são suspiros de tesão.
 
 A Pervertida diz mais sobre as reações de quem assiste ou de quem produz algo assim do que sua própria história, que é trivial justamente para acompanharmos o tratamento que é dado, a forma de narrar esta erótica e inadequada aventura de uma moça que não usa calcinhas. Ela é alérgica e cheia de excitação e chega em uma Londres diferente, sexy, onde as pessoas se excitam em público, no parque, e tudo é muito explícito e natural.

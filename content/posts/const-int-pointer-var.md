@@ -1,9 +1,13 @@
 ---
-date: 2019-04-29T20:56:48-03:00
-title: "Const Int Pointer Var"
-categories: [ "draft", "code" ]
-desc: "Uma explicação de por que não aproximar o asterisco nem to tipo nem da variável na declaração de ponteiros é uma forma neutra de resolver essa questão de estilo."
+categories:
+- draft
+- code
+date: 2019-04-29 20:56:48-03:00
+desc: Uma explicação de por que não aproximar o asterisco nem to tipo nem da variável
+  na declaração de ponteiros é uma forma neutra de resolver essa questão de estilo.
+title: Const Int Pointer Var
 ---
+
 A melhor forma de declarar variáveis ponteiros (constante ou não, mas segue o exemplo) é `const int * var`. Explicação:
 
 Quem diz o asterisco fazer parte do tipo e não da variável tem razão. Pensando dessa forma ele tem que ficar próximo do tipo.

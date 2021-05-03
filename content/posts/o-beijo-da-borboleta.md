@@ -1,9 +1,11 @@
 ---
-date: "2015-03-25"
-link: "https://www.imdb.com/title/tt0112604"
-categories: [ "movies" ]
-title: "O Beijo da Borboleta"
+categories:
+- movies
+date: '2015-03-25'
+link: https://www.imdb.com/title/tt0112604
+title: O Beijo da Borboleta
 ---
+
 O Beijo da Borboleta é um filme com ares de independente, e o que comprova isso é sua trilha sonora. Nenhuma produção usaria músicas tão manjadas, tão fáceis e tão perfeitas para cada momento da história que se abre em torno de duas garotas. As músicas constroem momentos de videoclipe para duas personagens reais. O resultado só pode ser traduzido, talvez, como tenso.
 
 Amanda Plummer (a garota do começo de Pulp Fiction) se desfaz de todo o pudor moral e psicológico para viver com todas suas forças a impulsiva, energética, sensual e faladeira Eunice. A cor do seu cabelo, dos seus olhos se completam com seu sorriso e seus lábios se mexendo. Sua capa verde e sua baixa estatura nos faz confundi-la com um gnomo, ou uma imagem idílica de alguma figura irlandesa. O inglês falado aqui não é simples, é regional, e essa escolha complementa o aspecto independente de sua trajetória.

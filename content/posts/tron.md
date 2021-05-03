@@ -1,9 +1,11 @@
 ---
-date: "2010-12-04"
-link: "https://www.imdb.com/title/tt0084827"
-categories: [ "movies" ]
-title: "Tron: Uma Odisséia Eletrônica"
+categories:
+- movies
+date: '2010-12-04'
+link: https://www.imdb.com/title/tt0084827
+title: 'Tron: Uma Odisséia Eletrônica'
 ---
+
 Mesmo assistindo hoje, 28 anos depois, Tron ainda parece um filme dedicado principalmente a vender vídeo-games.
 
 Com sua narrativa inserida dentro de um ambiente de computação gráfica que reproduz na imaginação o que aconteceria dentro de um computador, e uma premissa bobinha de um protagonista injustiçado que tenta conseguir a prova que seu jogo foi copiado por um magnata dos game, a história possui bons momentos de ação, e chega a impressionar que esses bons momentos são feitos dentro de um ambiente hoje com sofríveis efeitos especiais.

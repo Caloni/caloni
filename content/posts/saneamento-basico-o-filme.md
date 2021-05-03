@@ -1,9 +1,12 @@
 ---
-date: "2016-11-30"
-link: "https://www.imdb.com/title/tt0907134"
-categories: [ "draft", "movies" ]
-title: "Saneamento Básico, O Filme"
+categories:
+- draft
+- movies
+date: '2016-11-30'
+link: https://www.imdb.com/title/tt0907134
+title: Saneamento Básico, O Filme
 ---
+
 Dirigido e escrito por Jorge Furtado (O Homem Que Copiava, Meu Tio Matou um Cara), esta é praticamente uma obra didática a respeito da produção de um filme, desde a produção, argumento, roteiro inicial até a montagem, pós-produção, créditos finais. O esforço que o filme faz para que seu espectador perceba isso é tão irritante quanto tocante, já que cineasta brasileiro, muito provavelmente ele está acostumado a trabalhar com orçamento apertado, o que quase que justifica todos os maneirismos que sua direção (e seu elenco) aplicam ao roteiro, tornando este um trabalho digno de nota por conta da realidade que o cerca, mas também pela maneira original com que a metalinguagem aqui é utilizada.
 
 A história gira em torno de uma cidadezinha do Sul, onde vivem Wagner Moura, Camila Pitanga, Bruno Garcia, Fernanda Torres e até o digníssimo Paulo José. Sim, estou usando o nome dos atores, já que os personagens estão escondidos atrás de todas essas personas, já que o filme utiliza todos os atores famosos disponíveis para criar uma identidade com o público -- só faltou o palhaço itinerante de Selton Mello visitá-los -- mas arriscando com isso diminuir o realismo da cidade-estúdio. Bom, já que estou chamando os cenários de estúdio, talvez não seja muito bem um filme realista.

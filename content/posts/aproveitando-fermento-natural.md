@@ -1,9 +1,12 @@
 ---
-date: "2020-04-26"
-categories: [ "food" ]
-tags: [ "recipes" ]
-title: "Aproveitando Fermento Natural"
+categories:
+- food
+date: '2020-04-26'
+tags:
+- recipes
+title: Aproveitando Fermento Natural
 ---
+
 Esta é uma dica para os que cultivam seu próprio fermento, mas não sabem o que fazer para evitar o desperdício do descarte.
 
 Parei de cultivar meu fermento natural todos os dias. O objetivo de mantê-lo ativo sem usá-lo era observar as mudanças nos diferentes regimes de alimentação e temperatura. Porém, o descarte acaba gerando grande desperdício, e não sabia o que fazer com ele a não ser jogar pelo ralo da pia.

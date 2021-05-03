@@ -1,9 +1,12 @@
 ---
-date: "2019-03-17"
-link: "https://www.imdb.com/title/tt0120755"
-categories: [ "draft", "movies" ]
-title: "Missão: Impossível 2"
+categories:
+- draft
+- movies
+date: '2019-03-17'
+link: https://www.imdb.com/title/tt0120755
+title: 'Missão: Impossível 2'
 ---
+
 Quem diria que Thandie Newton, da série Westworld, era uma Hunt Girl da segunda aventura da série? E ela está um pitelzinho. Sua função no filme é ser uma delícia linda, basicamente. Se observarmos ela e o número de câmeras olhando para seu lindo rosto (e corpo), muitos em câmera lenta, vamos aos poucos entendendo todas as falhas desse que é o pior filme de todos os outros até agora. Ele é farofa em um mal sentido, ele é datado em sua estética e lembra tudo de ruim que estava acontecendo com os filmes de ação depois do nerd Matrix chegar e roubar a cena.
 
 Ethan Hunt é encontrado escalando montanhas com suas próprias mãos. Seu vilão derruba um avião cheio de inocentes; ele rouba um vírus mortal que foi fabricado para gerar bilhões para um empresário ganancioso, embora feito por um doutor que é fã de mitologa grega, o que torna tudo mais interessante, com os papos de Quimera e o escambal. O diretor John Woo olha para uma locação na Espanha e a usa como um símbolo de alguma coisa quando Hunt e Thandie (fazendo a bela ladra Nyah) se encontram pela primeira vez.

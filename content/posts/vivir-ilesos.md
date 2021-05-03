@@ -1,10 +1,14 @@
 ---
-date: "2019-10-15"
-link: "https://www.imdb.com/title/tt9682578"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Vivir Ilesos"
+categories:
+- draft
+- movies
+date: '2019-10-15'
+link: https://www.imdb.com/title/tt9682578
+tags:
+- cinemaqui
+title: Vivir Ilesos
 ---
+
 Vivir Ilesos começa deixando claro, talvez até demais, que é um filme de baixo orçamento. Ele se aproveita de um elenco medíocre para fazer referência a filmes policiais lado B dos anos 70. Por que ele faz isso? Porque o resultado é risível.
 
 E isso é importante porque a história escrita pelo diretor Manuel Siles é muito absurda, e ele precisa que abracemos esse nonsense desde o começo. Um casal de golpistas (Magaly Solier e Oscar Ludeña) é pego por um milionário inescrupuloso (Renato Gianoli) que sequestra a mulher e a toma como amante. O marido se recompõe e tenta descobrir seu paradeiro. Enquanto isso a força policial, representada por um delegado saído de alguma ditadura militar (Javier Trujillo), lentamente avança sua investigação.

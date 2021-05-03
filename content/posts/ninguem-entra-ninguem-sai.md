@@ -1,10 +1,14 @@
 ---
-date: "2017-04-18"
-link: "https://www.imdb.com/title/tt6230488"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Ninguém Entra, Ninguém Sai"
+categories:
+- draft
+- movies
+date: '2017-04-18'
+link: https://www.imdb.com/title/tt6230488
+tags:
+- cinemaqui
+title: Ninguém Entra, Ninguém Sai
 ---
+
 Assistir a "Ninguém Entra, Ninguém Sai" é embarcar em uma viagem para a comédia brasileira dos anos 90. Porém, também é uma maneira divertida de referenciá-la, já que ninguém espera uma comédia anos 90 nos dias atuais. Há claramente uma ambiguidade entre o retrógrado e o apenas grotesco, e no meio de tudo isso atuações e participações especiais que, para bem ou para mal, remetem a figurinhas da televisão, do cinema e da internet.
 
 A história é tão surreal quanto a realidade brasileira hoje. Um vírus novo, mortal e altamente contagioso, Xabu (sim!), é detectado em um paciente só pelo olhar de um médico arrogante. A partir daí todas as pessoas dentro do lugar onde o paciente trabalhava quando foi infectado são isoladas em uma quarentena, com o risco de levarem três tiros cada ("só pra garantir", diz um policial) se tentarem sair. O lugar é um motel chique, e o governo começa a bancar os recursos para as pessoas lá detidas. Precisa explicar mais a alegoria política?

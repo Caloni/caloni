@@ -1,8 +1,10 @@
 ---
-date: "2020-09-16"
-categories: [ "lists" ]
-title: "História do Windows"
+categories:
+- lists
+date: '2020-09-16'
+title: História do Windows
 ---
+
 Escrevi esta lista de artigos sobre a evolução do sistema operacional Windows há muitos anos, mas eles nunca estiveram juntos em um post que é uma lista. Bom, segue:
 
  - [Parte 1]
@@ -21,4 +23,4 @@ Escrevi esta lista de artigos sobre a evolução do sistema operacional Windows 
 [Parte 3.5]: /historia-do-windows-parte-351
 [Parte 4]: /historia-do-windows-parte-40 
 [Parte 5]: /historia-do-windows-parte-50 
-[Parte 5.1]: /historia-do-windows-parte-51 
+[Parte 5.1]: /historia-do-windows-parte-51

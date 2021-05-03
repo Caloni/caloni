@@ -1,10 +1,14 @@
 ---
-date: "2018-03-24"
-link: "https://www.imdb.com/title/tt6400280"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Arábia"
+categories:
+- draft
+- movies
+date: '2018-03-24'
+link: https://www.imdb.com/title/tt6400280
+tags:
+- cinemaqui
+title: Arábia
 ---
+
 Arábia é um filme com muitos momentos marcantes. E esses momentos são marcantes principalmente por conta de seus belíssimos enquadramentos, que evocam em todos os elementos presentes em cena o significado da história que está sendo contada. E o mais impressionante é que a história contada é um épico de um homem comum, anônimo, e por que não, invisível.
 
 E é justamente por esse homem ser invisível que sua história é achada ao acaso. E ele é tão irrelevante no começo do filme que sequer o vemos no início. O filme começa com um garoto que mora em um vilarejo onde existe uma fábrica, que faz barulhos eternos e parece soltar no ar o que deixa sua população doente, incluindo o irmão caçula desse garoto. Passamos brevemente por uma introdução do que parece ser uma história sobre eles, os dois irmãos e uma enfermeira local, mas um acidente ocorre, um dos funcionários da fábrica é hospitalizado e uma espécie de biografia é encontrada por esse mesmo garoto. E de repente o operário anônimo ganha seu próprio filme.

@@ -1,9 +1,11 @@
 ---
-date: "2011-11-19"
-link: "https://www.imdb.com/title/tt0113243"
-categories: [ "movies" ]
-title: "Hackers"
+categories:
+- movies
+date: '2011-11-19'
+link: https://www.imdb.com/title/tt0113243
+title: Hackers
 ---
+
 O mundo dos computadores na década de 90 poderia parecer muito intimidador para a pessoa leiga. Com a internet ainda engatinhando, as raras pessoas que sabiam mexer com esses dispositivos modernos eram considerados gênios incompreendidos, pois quase ninguém realmente entendia o que as pessoas faziam digitando naquela máquina de escrever eletrônica. O fato de ser incompreendido também gerava a desconfiança, pois quem controlaria essas pessoas dotadas do raro dom de conversar com as máquinas? Ao mesmo tempo, havia uma sensação de "perigo invisível", pois a priori qualquer pessoa dessas poderia ter controle nos sistemas que aos poucos estavam sendo entregues à informatização.
 
 O resultado de toda essa insegurança é o que vemos na primeira cena de Hackers, quando um grupo de policiais fortemente armados invade uma residência em busca do invasor do sistema de negociação de Wall Street, que acabou gerando perdas financeiras milionárias. Depois dessa operação especial não deixa de ser irônico constatarmos que a "mente criminosa" capturada, Dade Murphy, no fundo é um garoto de 11 anos, que no mundo virtual se auto-intitula com o nickname "Zero Cool".

@@ -1,8 +1,10 @@
 ---
-date: "2019-12-10"
-categories: [ "draft" ]
-title: "Monte Verde 2019"
+categories:
+- draft
+date: '2019-12-10'
+title: Monte Verde 2019
 ---
+
 Monte Verde como cidade turística é bem cara, pois fica do lado das cidades do interior de São Paulo para onde boa parte da classe média da capital migrou. O foco turístico dessa região fica nessa cidadezinha encrustada entre os montes que dividem o Sul de Minas com o estado paulista. Todo o resto do gigantesco município de Camanducaia, suas cachoeiras e paisagens mais distantes, segue ignorado pelos que vêm de fora, mas não pelos locais.
 
 Essa foi a visão do taxista que me levou da rodoviária de Camanducaia até a praça onde se pega uma van até a cidadezinha, já que o último ônibus rodoviário havia partido, às 13:30 de uma sexta-feira. A moça do guichê da única companhia de ônibus que faz o trajeto de São Paulo para Camanducaia, a Viação Cambuí, foi incapaz de me recomendar as vans, mas uma pessoa que estava sentada ao lado do guichê me deu essa dica do nada, dessas gentilezas comuns do povo mineiro.

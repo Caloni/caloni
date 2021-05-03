@@ -1,10 +1,14 @@
 ---
-date: "2019-11-14"
-link: "https://www.imdb.com/title/tt0103064"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Exterminador do Futuro 2: O Julgamento Final"
+categories:
+- draft
+- movies
+date: '2019-11-14'
+link: https://www.imdb.com/title/tt0103064
+tags:
+- cinemaqui
+title: 'O Exterminador do Futuro 2: O Julgamento Final'
 ---
+
 Sarah Connor foi a heroína no primeiro Exterminador do Futuro. Ela resolveu o conflito principal e virou dona do seu próprio destino. Em Terminator 2, James Cameron, auxiliado por William Wisher (que havia contribuído no original com diálogos adicionais), expande não apenas a figura da personagem interpretada por Linda Hamilton, que vira uma protagonista bad ass e narradora em momentos importantes da trama, como se torna, assim como Aliens: O Resgate (também de Cameron), um filme sobre instinto maternal e família elevado às últimas consequências: proteger a humanidade inteira do futuro sombrio que poderá surgir.
 
 Terminator 2 consegue basicamente repetir a mesma história sem soar mais do mesmo, pois vem com anabolizantes no formato de novas reviravoltas (como o novo papel de Schwarzenegger) e uma tecnologia que envelheceu bem melhor que o original, já dotada de alguma criatividade na pós-produção com computadores. A Industrial Light & Magic, empresa fundada por George Lucas para a produção do primeiro Star Wars, foi responsável pelos milagres que vemos na tela, e Cameron o responsável por forçar a tecnologia a evoluir rapidamente para seu segundo filme. O resultado são efeitos de arrepiar os cabelos, que até hoje possuem uma integridade e até uma certa beleza por sabermos que todas as perseguições foram feitas com automóveis reais.

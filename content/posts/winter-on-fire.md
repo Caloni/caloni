@@ -1,9 +1,12 @@
 ---
-date: "2016-03-27"
-link: "https://www.imdb.com/title/tt4908644"
-categories: [ "draft", "movies" ]
-title: "Winter on Fire"
+categories:
+- draft
+- movies
+date: '2016-03-27'
+link: https://www.imdb.com/title/tt4908644
+title: Winter on Fire
 ---
+
 Um hino à liberdade em três atos. No primeiro ato, a repulsa à traição do líder máximo da nação com uma manifestação espontânea e apartidária. No segundo ato, um cenário de conflitos que são dominados pelo patriotismo e organização cooperativa. No terceiro ato, o estado, esse monstro disforme que mata tudo que toca, revela sua última faceta, e transforma o hino de liberdade em um banho de sangue.
 
 A tomada da Praça da Independência em Kiev, capital da Ucrânia, por civis em posse de seus direitos de protestar, foi a melhor forma de se manifestar através da ação a teórica auto-determinação de um povo. Independente desde 1991 da Rússia Soviética, foi a chegada ao poder de um presidente-fantoche, aliado aos interesses russos de continuar submetendo os habitantes da Ucrânia aos desejos da mãe-russa, e sua recusa em assinar o tratado de livre comércio com a União Europeia, que deu origem ao estopim necessário para uma série de movimentos civis pró-liberdade. Sim, o objetivo claro e conciso dessas pessoas era simplesmente se verem livres da influência de um mundo que se provou avesso à liberdade e dignidade humanas, e marchar em direção ao mundo civilizado, o mundo do comércio pacífico entre as pessoas, o mundo da única chance do ser humano de se tornar algo a mais do que um animal submetido ao sacrifício: o capitalismo.

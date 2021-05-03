@@ -1,9 +1,11 @@
 ---
-date: "2013-06-27"
-link: "https://www.imdb.com/title/tt2209418"
-categories: [ "movies" ]
-title: "Antes da Meia-Noite"
+categories:
+- movies
+date: '2013-06-27'
+link: https://www.imdb.com/title/tt2209418
+title: Antes da Meia-Noite
 ---
+
 A grande sacada dos filmes que acompanham as conversas entre Jesse (Ethan Hawke) e Celine (Julie Delpy), o ótimo [Antes do Amanhecer], o excelente [Antes do Pôr-do-Sol] e este fabuloso Antes da Meia-Noite, é que os textos dos diálogos soam naturais, acontecem em uma ordem elegantemente cadenciada e são surpreendentemente relevantes durante todo o tempo, instigando a nossa percepção de realidade e fazendo nosso cérebro não conseguir parar de pensar nas questões tão atuais e filosóficas. Vivenciarmos esses breves momentos que exploram a vida real de maneira tão intensa no Cinema faz com que a quarta parede que nos separa dos personagens se rompa e nos atire para dentro de uma discussão existencialista qualquer, mas que ganha um contorno fascinante por estar sendo discutido com brilhantismo por este adorável casal.
 
 Iniciando este terceiro ato no aeroporto durante a despedida de Jesse e seu filho do antigo casamento Hank (Seamus Davey-Fitzpatrick, o ponto fraco da introdução), o hábil diretor Richard Linklater logo explora a presença dos três filhos em frente à câmera de forma a demonstrar sem palavras a intromissão dessas pequenas criaturas na vida a dois de seus pais. Não é à toa, portanto, que a longa conversa inicial no carro tenha como centro, metafórico e no enquadramento, não seus participantes, mas uma linda menina que dorme e se move conforme as curvas da estrada, e que justamente quando acorda, ao abordar duas questões pontuais, uma delas envolvendo simbolicamente uma maçã , deixa claro que ser pai e mãe é um aprendizado constante na vida dos dois.

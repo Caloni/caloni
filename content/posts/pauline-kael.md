@@ -1,8 +1,10 @@
 ---
-date: "2020-07-12"
-categories: [ "quotes" ]
-title: "Pauline Kael"
+categories:
+- quotes
+date: '2020-07-12'
+title: Pauline Kael
 ---
+
 "Big money and its way of life is exciting; the vulgarity of the powerful is ugly, but not boring. This, you begin to feel, is how people behave when they're strong enough to act out their fantasies of wealth. In this environment, if you're not making it in a big way, you're worse than nothing -- you're a failure." (I Lost it at the Movies)
 
 "Never give them the excuse to stay home if there's anything there on the screen." (Conversations with Pauline Kael)

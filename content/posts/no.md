@@ -1,9 +1,11 @@
 ---
-date: "2013-01-02"
-link: "https://www.imdb.com/title/tt2059255"
-categories: [ "movies" ]
-title: "No"
+categories:
+- movies
+date: '2013-01-02'
+link: https://www.imdb.com/title/tt2059255
+title: 'No'
 ---
+
 No poderia muito bem ser um documentário, uma vez que seu objetivo principal é aproximar o espectador pelo seu realismo. No entanto, a decisão de "estilizar" essa realidade com um pouco de ficção não poderia ser mais propício em um filme que, acima de política, trata dos detentores atuais do poder da influência no mundo: a publicidade.
 
 Quando o ditador chileno Augusto Pinochet decide, pressionado pela opinião pública de um mundo cada vez mais globalizado, realizar um plebiscito para decidir se ele ficaria no poder por mais 8 anos, duas campanhas opostas ganham cada uma 15 minutos de espaço na televisão: uma pelo Sim, outra pelo Não. O publicitário René Saavedra (Gael García Bernal) é procurado para conduzir a propaganda democrática. Bem de vida, é um dos primeiros a possuir um micro-ondas, e sem motivos para entrar em um debate que poderia manchar sua reputação com seus clientes, René é movido por um misto de vaidade profissional e pessoal. Pelo lado profissional classifica seus trabalhos como expoentes máximos da comunicação com o público. Pelo lado pessoal sua ex-mulher e mãe do seu filho é uma perseguida política, o que poderia pincelar um pouco de humanidade em sua enigmática expressão.

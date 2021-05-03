@@ -1,9 +1,11 @@
 ---
-date: "2012-11-04"
-link: "https://www.imdb.com/title/tt0100802"
-categories: [ "movies" ]
-title: "O Vingador do Futuro (1990)"
+categories:
+- movies
+date: '2012-11-04'
+link: https://www.imdb.com/title/tt0100802
+title: O Vingador do Futuro (1990)
 ---
+
 Roteirizado por Ronald Shusett e Dan O'Bannon, duas figuras envolvidas desde o início na série Alien, a história digerida pelo visceral Paul Verhoeven consegue a proeza de ser um filme e tanto de ação e se basear em uma premissa que, diferente do remake recente, consegue se tornar ambígua até o final: tudo que estamos vendo é de fato real ou é apenas um sonho implantado pela companhia que leva o título original?
 
 Construindo seu pano de fundo desde o início através de um telejornal que mostra que os humanos no futuro já estão colonizando Marte e produzem ali um minério cobiçado pelo Planeta Terra, que parece contudo menosprezar os habitantes do planeta vizinho, o governador do local, Vilos Cohaagen (Ronny Cox) tenta manter a colônia livre dos rebeldes, que lutam por maiores liberdades e ter o direito, por exemplo, de respirar o escasso ar do planeta sem precisar com isso de se matarem de trabalhar nas minas de Cohaagen.

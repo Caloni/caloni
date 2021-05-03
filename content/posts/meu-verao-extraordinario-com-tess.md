@@ -1,10 +1,14 @@
 ---
-date: "2019-10-17"
-link: "https://www.imdb.com/title/tt6851430"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Meu Verão Extraordinário Com Tess"
+categories:
+- draft
+- movies
+date: '2019-10-17'
+link: https://www.imdb.com/title/tt6851430
+tags:
+- cinemaqui
+title: Meu Verão Extraordinário Com Tess
 ---
+
 Meu Verão Extraordinário com Tess é uma comédia leve, de amadurecimento, baseada no livro de Anna Woltz que deve ser tão gostoso de ler quanto o verão, fictício ou não, que Sam passou naquela praia.
 
 Com cores quentes sem exagerar para a fantasia, mas uma fotografia clara que ressalta o brilho da areia iluminando as roupas adolescentes da jovem e contagiosa Tess, esta é uma comédia sutil que não gera gargalhadas, apenas sorrisos, e o humor funciona através de uma doce melancolia do pequeno Sam, que já pensa desde seu primeiro dia de férias em sua inevitável morte.

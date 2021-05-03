@@ -1,9 +1,13 @@
 ---
-date: "2019-06-19"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Blitz"
+categories:
+- draft
+- movies
+date: '2019-06-19'
+tags:
+- cinemaqui
+title: Blitz
 ---
+
 No início de Blitz nos é informado que o roteiro foi adaptado (ou inspirado) em uma peça de teatro, mas a sensação é que não houve adaptação alguma, pois este filme é muito mais teatro, daqueles pesadões reflexivos, e menos Cinema, com seu dinamismo narrativo.
 
 Isso porque seus dois personagens principais, o Cabo Rosinha (Rui Ricardo Dias) e sua esposa Heloísa (Georgina Castro), não saem do lugar. Não há movimento exceto interior, mas este também se perde em infinitas disgressões pseudo-poéticas com aqueles textos que realmente lembra o palco de um teatro, cenário onde os mais rebuscados dramaturgos soltam o verbo sem medo de perder a objetividade.

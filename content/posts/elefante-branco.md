@@ -1,9 +1,11 @@
 ---
-date: "2013-02-06"
-link: "https://www.imdb.com/title/tt2132324"
-categories: [ "movies" ]
-title: "Elefante Branco"
+categories:
+- movies
+date: '2013-02-06'
+link: https://www.imdb.com/title/tt2132324
+title: Elefante Branco
 ---
+
 Novo filme do diretor Pablo Trapero ([Abutres]) traça na rotina das pessoas que ajudam uma favela a construir moradias dignas para seus habitantes um panorama fiel não apenas dos moradores, acostumados a viver às margens de uma sociedade que escolheu convenientemente ignorá-los em um terreno delimitado, mas da sociedade como um todo. E os que não são mostrados no filme obviamente são os que ignoram essa triste realidade.
 
 O Elefante Branco do título se refere a um hospital que nunca terminou de ser construído no mesmo terreno onde hoje moram cerca de 30 mil pessoas em condições precárias. O projeto do hospital passou por duas democracias e uma ditadura sendo que hoje repousa apenas um esqueleto que faz sombra aos casebres ajuntados. Desse fato duas curiosidades fascinantes também se erguem logo no início do longa: 1) a figura de um hospital inacabado faz rima com os programas sociais inacabados que deixaram a favela se alastrar e permanecer na área e 2) a própria definição de dicionário de elefante branco pode ser aplicada aos moradores, pois governo nenhum soube o que fazer daquelas pessoas vivendo à margem da sobrevivência por décadas a fio.

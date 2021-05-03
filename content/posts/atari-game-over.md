@@ -1,9 +1,12 @@
 ---
-date: "2015-12-13"
-link: "https://www.imdb.com/title/tt3715406"
-categories: [ "draft", "movies" ]
-title: "Atari: Game Over"
+categories:
+- draft
+- movies
+date: '2015-12-13'
+link: https://www.imdb.com/title/tt3715406
+title: 'Atari: Game Over'
 ---
+
 Esse é o tipo de filme que teria tudo para ser inútil, superestimado pelos fãs e um desastre completo, pois possui poucos elementos realmente interessantes nele: temos o Atari, o E.T. e Indiana Jones, coisas totalmente desconexas, além de pouco conteúdo para um filme inteiro. Isso não fosse o trabalho fascinante de "desarquivamento" do filme que une mídia, a empresa Atari, os programadores, os fãs e os dois responsáveis por "desencavar" essa história, e temos como resultado um possível clássico daqui a cinquenta anos -- quem apostaria? -- já que ele estabelece um universo e uma lenda que dificilmente existirão novamente; nunca na geração única dos primeiros players caseiros: uma empresa à beira da falência enterra milhões de cartuchos de seus jogos no aterro da cidade.
 
 O diretor Zak Penn, roteirista de blockbusters de sucesso -- entre eles O Último Grande Herói, a série X-Men e O Incrível Hulk -- e também um fracasso ou outro -- como Elektra -- já trabalhou com o documentarista Werner Herzog no filme que tenta desvendar a lenda do Monstro do Lago Ness. Mas a lenda do enterro do E.T. não é tão antiga assim, nem cercada de mistérios e histórias passadas de pai para filho. Aqui temos simplesmente uma pequena lenda urbana que tenta reproduzir a grandiosidade do fracasso de uma empresa e um jogo que é, de acordo com alguns, o "pior de todos os tempos". A diferença é óbvia: as pessoas que jogavam Atari ainda estão vivas. Na época onde tudo isso aconteceu já era possível ser gravado e filmado, ainda que sem a velocidade de compartilhamento da internet. A busca dos cartuchos provavelmente enterrados é um trabalho de arqueologia, sim, mas no mesmo nível que um morador cavoca seu quintal para procurar por um tesouro que havia enterrado na infância.

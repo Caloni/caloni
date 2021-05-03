@@ -1,9 +1,11 @@
 ---
-date: "2012-04-16"
-link: "https://www.imdb.com/title/tt0796366"
-categories: [ "movies" ]
-title: "Star Trek"
+categories:
+- movies
+date: '2012-04-16'
+link: https://www.imdb.com/title/tt0796366
+title: Star Trek
 ---
+
 Baseado em um seriado dos anos 60 escrito por Gene Roddenberry (1921-1991) onde a nave U.S. Enterprise comandada pelo Cap. Kirk explora o espaço e tenta manter a paz entre os Planetas Confederados, Star Trek já começa o projeto com um enorme desafio. Juntos, tanto a pressão dos fãs para que o reboot da saga seguisse os mesmos rumos da série original, focada no intelecto das situações, quanto a pressão comercial para que o filme não fizesse as pessoas acostumadas às explosões no espaço de Star Wars e derivados bocejassem na sala de projeção conspiravam para seu fracasso completo.
 
 No entanto, eis que surge um roteiro desenvolvido pelo dupla Roberto Orci e Alex Kurtzman que consegue ao mesmo tempo ser inteligente e ágil (e é difícil conceber que ambos assinam o roteiro da catástrofe megalomaníaca de Michael Bay, Transformers 3). A história resolve focar, de maneira orgânica, na montagem da tripulação original da Enterprise e a história de seus principais tripulantes, notadamente, claro, Capitão Kirk (Chris Pine) e Spock (Zachary Quinto), o vulcaniano que não sente emoções e que é o contrapeso do instintivo Kirk.

@@ -1,9 +1,12 @@
 ---
-date: "2016-01-18"
-link: "https://www.imdb.com/title/tt0056172"
-categories: [ "draft", "movies" ]
-title: "Lawrence da Arábia"
+categories:
+- draft
+- movies
+date: '2016-01-18'
+link: https://www.imdb.com/title/tt0056172
+title: Lawrence da Arábia
 ---
+
 Nota: O filme que estou me referindo é a versão restaurada por Robert A. Harris com a supervisão do diretor David Lean, em 1989. Ela exclui alguns diálogos e, se formos considerar o tamanho da versão original, creio que podemos descartar as menores diferenças entre as duas. Além disso, essa versão também recebeu um tratamento de restauração para ser lançada em DVD em 2000 por Martin Scorsese e Steven Spielberg. Scorsese, como se sabe, é um ávido militante pela restauração de obras clássicas do Cinema e mantém um acervo digital inestimável.
 
 Em primeiro lugar, não se assuste com a metragem desse filme. Uma orquestra inicial sem imagens, um intervalo (também com trilha sem imagens) e um final semelhante compõem cerca de 3 horas e três quartos de hora de projeção. Porém, há um imenso hiato no tempo histórico que é demonstrado com perfeição em seu ritmo, sem contar o hiato emocional que o protagonista vive. Por conta disso e das inúmeras cenas de batalhas e discussões militares que vão em um crescendo constante, o resultado final é uma história compacta para momentos importantes demais na história do mundo, um épico se criando em cima de fatos históricos romantizados em torno de um herói tão carismático quanto enigmático.

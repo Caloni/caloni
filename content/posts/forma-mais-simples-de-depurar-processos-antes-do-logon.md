@@ -1,8 +1,11 @@
 ---
-date: 2017-07-27T09:39:22-03:00
-title: "Forma Mais Simples De Depurar Processos Antes Do Logon"
-categories: [ "draft", "code" ]
+categories:
+- draft
+- code
+date: 2017-07-27 09:39:22-03:00
+title: Forma Mais Simples De Depurar Processos Antes Do Logon
 ---
+
 No [post anterior sobre debug](/debugger-remoto-do-visual-studio) eu havia me focado mais na depuração de processos remotos no Visual Studio 2003 de maneira convencional. Aqui eu vou abordar o assunto de uma maneira menos convencional: usando o Visual Studio 2017 mais novo e depurando uma DLL (C++) que é carregada por um serviço antes do logon no Windows 7.
 
 Em primeiro lugar, como vimos anteriormente, a ponta server do depurador é um programa que você executa com alguns parâmetros e ele fica escutando em uma porta. Simples assim. Para que isso funcione antes do logon é necessário instalar esse programa como um serviço. Tanto no caso de depuradores mais antigos (msvCmon) quando nos mais novos (msvSmon) há sempre um executável com alguns parâmetros passados via linha de comando.
@@ -109,4 +112,3 @@ Depois que houver o attach você irá continuar a execução. Portanto, coloque 
 ![](http://i.imgur.com/hja6Y2Y.png)
 
 Depois que isso funcionar já é possível iniciar sua depuração antes da tela de login. Os serviços executarão, e sua DLL estará aguardando um debugger ser atachado. Se houver necessidade é possível deixar esse modo de espera configurável, por timeout, etc.
-

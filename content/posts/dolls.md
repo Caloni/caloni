@@ -1,9 +1,12 @@
 ---
-date: "2019-03-26"
-link: "https://www.imdb.com/title/tt0330229"
-categories: [ "draft", "movies" ]
-title: "Dolls"
+categories:
+- draft
+- movies
+date: '2019-03-26'
+link: https://www.imdb.com/title/tt0330229
+title: Dolls
 ---
+
 Dolls é um filme lento, mas suas três histórias de amor são arrebatadoras. Não são convencionais, e muitos não chamariam de amor, mas não se pode dizer que não são histórias fortes, que mexem com nossos instintos de preservação. Essas pessoas entregaram suas vidas ao destino. Nenhuma é recompensada. E ainda é um filme lindo.
 
 A analogia é óbvia e martelada desde o começo até o final. Bonecos de teatro japonês são personagens manipulados por pessoas que fazem o papel do destino, movendo-os além de si próprios. Eles lamentam, choram, mas não desistem. Os bonecos não possuem alternativa exceto seguir seus donos. Se esses bonecos fossem seres humanos poderíamos dizer que por mais doloroso que possa ser sua única razão de ser é seguir as forças invisíveis do destino.

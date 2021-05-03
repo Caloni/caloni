@@ -1,9 +1,12 @@
 ---
-date: "2018-07-18"
-link: "https://www.imdb.com/title/tt3606756"
-categories: [ "draft", "movies" ]
-title: "Os Incríveis 2"
+categories:
+- draft
+- movies
+date: '2018-07-18'
+link: https://www.imdb.com/title/tt3606756
+title: Os Incríveis 2
 ---
+
 Se passaram 14 anos desde que Os Incríveis estrearam, também dirigido e escrito por Brad Bird. Na época a Pixar ainda estava engatinhando e emplacando seus maiores sucessos, sempre baseados em uma direção de arte maravilhosa, uma qualidade criativa impecável e elevando o nível da sétima arte pelo bem da arte, e ainda conseguindo ganhar rios de dinheiro em cima disso. Hoje os rios de dinheiro continuam, a direção de arte continua estupenda e a qualidade criativa está entregue a um marasmo que só consegue pedir desculpas para os movimentos sociais, uma atitude que ironicamente é patética e nada heróica.
 
 Graças à nostalgia do primeiro Os Incríveis, ou graças ao design caprichadíssimo desta continuação, as primeiras duas cenas de ação protagonizadas pela Mulher-Elástica neste novo filme são de cair o queixo. Filmadas de maneira ágil (uma das vantagens da animação) e com cortes precisos na ação, exatamente o que o primeiro filme fazia de melhor. Porém, entregando uma nova protagonista na marra e de forma preguiçosa colocando diversos heróis lutando juntos no pior sentido que a palavra diversidade tem tomado conta dos cinemas (tem até uma emo agora) as cenas de ação seguinte -- e em especial as do final do filme, que deveriam impactar mais -- são nitidamente inferiores, previsíveis e apenas preenchem um check list do que é esperado de um filme de ação animado com um leque de espectadores de todas as idades.

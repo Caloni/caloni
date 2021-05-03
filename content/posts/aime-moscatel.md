@@ -1,7 +1,10 @@
 ---
-date: "2019-05-20"
-categories: [ "food" ]
-tags: [ "wine" ]
-title: "Aimé Moscatel"
+categories:
+- food
+date: '2019-05-20'
+tags:
+- wine
+title: Aimé Moscatel
 ---
+
 Aimé Moscatel de Alejandria 2016 da Ruca Malen é o vinho doce argentino mais fácil de beber. Seu aspecto floral e herbal suavizam o paladar de uma maneira elegante. Não é muito doce.

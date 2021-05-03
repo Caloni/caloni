@@ -1,10 +1,14 @@
 ---
-date: "2018-12-31"
-link: "https://www.cinemaqui.com.br/melhores-filmes-de-2018"
-categories: [ "draft", "lists", ]
-tags: [ "cinemaqui"  ]
-title: "Top Filmes 2018"
+categories:
+- draft
+- lists
+date: '2018-12-31'
+link: https://www.cinemaqui.com.br/melhores-filmes-de-2018
+tags:
+- cinemaqui
+title: Top Filmes 2018
 ---
+
 Como usar esta lista: Antes de enumerar os 9 (nove) filmes que, acredito, mereçam constar em uma lista de consideração pelo Cinema, explico que listas nunca são exaustivas, nunca são permanentes e nunca são objetivas, mas subjetivas, dependendo do tempo-espaço e da pessoa que a compila. Essa que segue tenta fugir um pouco do lugar-comum, mas que irá falhar miseravelmente porque cinéfilos e críticos costumam enxergar a beleza no mesmo lugar. Porém, eu não assisti a todas as belezas cinematográficas que estrearam no Brasil esse ano, o que me dá um pouco de ponto-fora-da-curvisse salutar.
 
 1. Arábia. O épico do trabalhador comum, anônimo, se esse trabalhador conseguisse colocar tudo que sente e percebe no papel e se este trabalhador saísse do imaginário de Karl Marx e da elite que assim o idealiza. Sua filmagem é tão sutil que ela parece uma fina camada estética que se ergue em torno de um ideal de documentário travestido de ficção. Essa linguagem com não-atores tem ganhado ótimos trabalhos atualmente e 2018 com certeza não é exceção. Há, também, por exemplo:

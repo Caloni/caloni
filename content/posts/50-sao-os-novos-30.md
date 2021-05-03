@@ -1,10 +1,14 @@
 ---
-date: "2018-07-11"
-link: "https://www.imdb.com/title/tt6081632"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "50 São os Novos 30"
+categories:
+- draft
+- movies
+date: '2018-07-11'
+link: https://www.imdb.com/title/tt6081632
+tags:
+- cinemaqui
+title: 50 São os Novos 30
 ---
+
 Pegando carona na lista de filmes sobre as diferenças das idades nos tempos atuais, "50 São os Novos 30" é uma comédia que aproveita sua protagonista para criar situações desconexas que existem para o riso fácil e descompromissado. O problema é que nem sempre é engraçado.
 
 A história é clichê e cheia de furos: mulher independente sem filhos recebe um fora do seu marido aos 50 anos, que está saindo com uma mais nova. Para a conveniência do drama, ela é demitida do seu emprego e não consegue alugar um lugar para ficar. Por uma série de maniqueísmos sua única saída é voltar a morar com os pais, que a tratam como se ela ainda fosse uma adolescente, apesar de criarem um negócio para ela se estabilizar o quanto antes e sair da casa deles.

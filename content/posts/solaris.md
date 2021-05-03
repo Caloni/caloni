@@ -1,9 +1,11 @@
 ---
-date: "2012-10-21"
-link: "https://www.imdb.com/title/tt0069293"
-categories: [ "movies" ]
-title: "Solaris"
+categories:
+- movies
+date: '2012-10-21'
+link: https://www.imdb.com/title/tt0069293
+title: Solaris
 ---
+
 Solaris exige do espectador uma imersão surreal e ao mesmo tempo filosófica. Tudo bem que isso já é esperado de toda boa obra de ficção-científica, que nos coloca em uma realidade alternativa mas que continua debatendo temas da época em que foi feita.
 
 Só que aqui estamos falando de uma união entre sci-fi e filosofia Tarkosvkiana. Quero dizer, o diretor é intenso. E é russo. Sonhos aqui não são apenas descritos: são vividos.

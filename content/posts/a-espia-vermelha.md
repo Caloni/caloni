@@ -1,10 +1,14 @@
 ---
-date: "2019-05-08"
-link: "https://www.imdb.com/title/tt7615302"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Espiã Vermelha"
+categories:
+- draft
+- movies
+date: '2019-05-08'
+link: https://www.imdb.com/title/tt7615302
+tags:
+- cinemaqui
+title: A Espiã Vermelha
 ---
+
 Política, conspiração, romance, ciência. A Espiã Vermelha é um filme que contém esses elementos unidos por uma mulher vivendo seu sonho na Segunda Guerra em ser uma cientista, mas ao mesmo tempo sendo pressionada por seus valores e sua posição privilegiada a fazer algo que ela poderá se arrepender profundamente. A questão toda do filme é que ela não tem como saber disso naquele momento, e, sendo finalmente descoberta, tem a chance de rever suas ações.
 
 Portanto o roteiro de Lindsay Shapero, inspirada no romance de Jennie Rooney, constrói essa trama alternando entre o presente e o passado. Começamos o filme com Joan sendo intimada pela justiça britânica em um julgamento por traição por seus atos cometidos na época da guerra. Ela é Judi Dench, desperdiçada, pois tem muito pouco tempo de tela e menos diálogos ainda, sendo muito difícil se conectar com o que essa mulher já muito idosa está sentindo a respeito de tudo isso.

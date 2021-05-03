@@ -1,9 +1,11 @@
 ---
-date: "2015-04-30"
-link: "https://www.imdb.com/title/tt2872718"
-categories: [ "movies" ]
-title: "O Abutre"
+categories:
+- movies
+date: '2015-04-30'
+link: https://www.imdb.com/title/tt2872718
+title: O Abutre
 ---
+
 Uma fase estupidamente frutífera de Jake Gyllenhaal, que fez com o diretor Denis Villeneuve em 2013 dois filmes muito interessantes: Os Suspeitos e O Homem Duplicado e que agora faz o seu terceiro papel completamente diferente. Não se poderia dizer diferente de Dan Gilroy, que trabalhou em roteiros de filmes curiosos como Gigantes de Aço, mas que aqui estreia na direção de uma história que ele mesmo escreveu e que ultrapassa o limite do óbvio para se emaranhar em uma discussão acalorada, divertida e abrangente sobre a mídia sensacionalista.
 
 A história gira em torno de Louis Bloom (Gyllenhaal), que costuma roubar peças de metal para revender, mas que procura agora conseguir um emprego para se dedicar. Renegado por ser um ladrão, acaba testemunhando um acidente na estrada e junto dele um cinegrafista amador que, de posse de um assistente e uma van, parece fazer dinheiro vendendo vídeos das atrocidades que ocorrem na cidade para os telejornais locais, que noticiam a desgraça diária pela manhã, quando Louis metódica e rotineiramente rega sua planta e prepara como será seu dia.

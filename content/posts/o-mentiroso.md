@@ -1,9 +1,12 @@
 ---
-date: "2016-01-04"
-link: "https://www.imdb.com/title/tt0119528"
-categories: [ "draft", "movies" ]
-title: "O Mentiroso"
+categories:
+- draft
+- movies
+date: '2016-01-04'
+link: https://www.imdb.com/title/tt0119528
+title: O Mentiroso
 ---
+
 Jim Carrey é um comediante tão talentoso que, se inserido no projeto certo, pode render um filme que sem ele seria apenas um passatempo da sessão da tarde, mas com ele ganha contornos cartunescos que remetem o significado da história que acompanhamos para algo além do trivial.
 
 É assim com O Mentiroso, a fábula que envolve um pai separado que não consegue parar de mentir no emprego de advogado e para seu filho, o desapontando frequentemente, até que um pedido mágico do garoto faz com que ele não consiga mais mentir por um dia inteiro, o que vira um desastre por ser justo no dia em que, colocado à prova para entrar em sociedade no escritório onde trabalha, ele irá defender uma cliente baseado em mentiras.

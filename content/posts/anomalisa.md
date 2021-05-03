@@ -1,9 +1,12 @@
 ---
-date: "2016-07-31"
-link: "https://www.imdb.com/title/tt2401878"
-categories: [ "draft", "movies" ]
-title: "Anomalisa"
+categories:
+- draft
+- movies
+date: '2016-07-31'
+link: https://www.imdb.com/title/tt2401878
+title: Anomalisa
 ---
+
 Este é uma animação que não se anima. O movimento lento de seus personagens e o comportamento robótico de cada situação -- além do próprio maxilar das pessoas denotar isso -- leva a crer que há algo de errado naquele mundo, mas ao mesmo tempo, por se parecer tanto com o nosso mundo, se torna uma comparação estranhamente familiar.
 
 Uma crítica tão complexa quanto o comportamento humano não poderia ganhar melhores traços do que em uma animação e não poderia se beneficiar mais do que nas mãos de Charlie Kaufman (Quero Ser John Malkovich, Adaptação), que divide a direção com o estreante no cinema Duke Johnson (mas já habituado a animações, como a série Mary Shelley's Frankenhole e episódios de Community) e o roteiro com Francis Fregoli (que é Charlie Kaufman em seu pseudônimo; as brincadeiras de Adaptação ainda não o largaram).

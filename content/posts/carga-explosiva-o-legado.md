@@ -1,10 +1,13 @@
 ---
-date: "2015-09-04"
-link: "https://www.imdb.com/title/tt2938956"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Carga Explosiva: o Legado"
+categories:
+- movies
+date: '2015-09-04'
+link: https://www.imdb.com/title/tt2938956
+tags:
+- cinemaqui
+title: 'Carga Explosiva: o Legado'
 ---
+
 Após a morte do meu pai, uns 3/4 anos atrás, se tornou mais fácil para mim detectar aquele sentimento que une um ser humano e seu rebento (isso pelo menos do lado do rebento). Há algo invisível beirando a comunicação entre esses dois seres. É impossível detectar de forma objetiva, mas ele existe. Talvez mais forte para alguns, e irrelevante para outros.
 
 No caso do filme "Duro de Matar: Um Bom Dia para Morrer", entre o personagem icônico de Bruce Willis, John McClane, e seu filho Jack (Jai Courtney), essa relação pai e filho não encontra espaço para se desenvolver por causa do velho, imortal e indestrutível McClane. Curiosamente "Indiana Jones e A Última Cruzada", que contém um personagem mais icônico e fantástico ainda, consegue se estabelecer como um dos melhores filmes da franquia justamente por conta desse cordão umbilical imaginário entre "Junior" e seu pai, interpretado por Sean Connery.

@@ -1,9 +1,12 @@
 ---
-date: "2017-01-01"
-link: "https://www.imdb.com/title/tt2861424"
-categories: [ "draft", "series" ]
-title: "Rick and Morty - Primeira Temporada"
+categories:
+- draft
+- series
+date: '2017-01-01'
+link: https://www.imdb.com/title/tt2861424
+title: Rick and Morty - Primeira Temporada
 ---
+
 Essa é uma animação adulta até para muitos adultos. Ele discute temas familiares da maneira mais crua, usando artifícios de sci-fi para tornar tudo mais amenizado ou potencializado. Quando a história é das consequências de um desejo egoísta o roteiro acaba com toda aquela realidade, transformando os humanos em monstros. Quando quer discutir feminismo, adentra em um mundo onde mulheres usam os homens apenas para o que eles servem: aparelhos de esperma (aparentemente a genialidade feminina nesse planeta não conseguiu realizar inseminações artificiais). Cada episódio de 20 minutos revela uma faceta bruta da natureza humana, mostrando como somos primitivos em alguns detalhes. Cerca de 99,9%.
 
 Seus heróis são Rick, um cientista brilhante e alcoólatra que carrega seu neto Morty para aventuras em planetas, universos e tempos diferentes. Criado por Justin Roiland, que dubla tanto Rick quanto Morty, seus personagens são quase que a caracterização freudiana do ego e id. Enquanto Rick segue seus próprios propósitos, parecendo que ele vive no meio de babuínos, o único motivo que o parece arrastar Morty para essas aventuras é o fator genético.

@@ -1,9 +1,12 @@
 ---
-date: "2019-05-15"
-link: "https://www.imdb.com/title/tt1312171"
-categories: [ "draft", "series" ]
-title: "The Umbrella Academy"
+categories:
+- draft
+- series
+date: '2019-05-15'
+link: https://www.imdb.com/title/tt1312171
+title: The Umbrella Academy
 ---
+
 Estava assistindo The Umbrella Academy e lá pelo terceiro episódio tive uma ideia genial: assistir já o último. A ideia para um crítico de cinema como eu é clara: não há nada que seja desenvolvido nos episódios intermediários que não será citado ou terá referências no season finale, e se houver não importa tanto assim. Tempo economizado, pretendo fazer isso com todas as séries se o começo não tiver indícios de que o resto seja acima da média.
 
 Para seguir essa dica, imagine o seguinte: prestando atenção em uma série como em um filme é possível obter todas as informações relevantes em seus primeiros 10 minutos (assim como em um filme). Esta técnica apenas não é recomendada para quem for assistir a série como novela, se identificar com os personagens -- como eu fiz no ótimo Sense8 -- o que me lembra que séries são, sim, novelas glorificadas, já que é nossa identificação com os personagens que permite que vejamos infinitos episódios sobre o mesmo universo. Eu iria até além e encaixaria as séries de filmes, como os da Marvel, Star Wars. Quem diria que Vingadores é a novela mais cara produzida na história do Cinema?

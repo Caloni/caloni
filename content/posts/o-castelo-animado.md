@@ -1,9 +1,11 @@
 ---
-date: "2020-04-20"
-link: "https://www.imdb.com/title/tt0347149"
-categories: [ "movies" ]
-title: "O Castelo Animado"
+categories:
+- movies
+date: '2020-04-20'
+link: https://www.imdb.com/title/tt0347149
+title: O Castelo Animado
 ---
+
 É daquelas animações dos estúdios Ghibli que tira seu fôlego logo no começo. Magia e detalhes dos ambientes e paisagens que se misturam em momentos que se tornam mais realistas do que se estivéssemos assistindo a um filme live action, com atores de carne e osso, porque a carne e o osso dos humanos não é evocativo o suficiente para os traços desses desenhistas.
 
 Por exemplo, não tem como fazer dois seres humanos de carne e osso caminharem no vazio do ar e parecer que estão de fato andando sobre o nada. Mas os estúdios de Hayao Miyazaki consegue, com delicadeza, sinceridade, empenho e um certo charme. Se [Superman: O Filme] pode se gabar de colocar nos letreiros de marketing "você vai acreditar que um homem pode voar", 26 anos depois podemos dizer, finalmente, que um espectador vai acreditar que japoneses animados conseguem andar pelo ar.

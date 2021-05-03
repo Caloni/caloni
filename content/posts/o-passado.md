@@ -1,9 +1,12 @@
 ---
-date: "2019-05-04"
-link: "https://www.imdb.com/title/tt0765469"
-categories: [ "draft", "movies" ]
-title: "O Passado"
+categories:
+- draft
+- movies
+date: '2019-05-04'
+link: https://www.imdb.com/title/tt0765469
+title: O Passado
 ---
+
 O grande problema quando um relacionamento acaba é que, apesar de tentarmos com sinceridade seguir em frente com nossas vidas, a memória do tempo vivido com a outra pessoa existirá para sempre. Quando Rímini (Gael García Bernal) e Sofia (Analía Couceyro) se separam, mesmo que civilizadamente, algo parece impedir que Sofia aceite essa nova realidade. E este é um filme cuja expressão "peso do passado" realmente se sente.
 
 Apesar da convicção sóbria de Rímini de alguém que mudou o suficiente para não querer mais a vida que tinha, ou embora sua expressão jovem pareça nos dizer que ele não é nada mais que as projeções das loucas que passarão por sua vida, a fotografia sépia de Ricardo Della Rosa denuncia o "peso do seu passado", nos lembrando constantemente que nada mudou, embora acompanhemos de qualquer forma as novas aventuras amorosas do rapaz. (Esta também é uma mensagem dúbia de como os homens são vistos (no filme e pela sociedade) como cães dispostos a trepar sempre que há a oportunidade, e as mulheres como dóceis cadelas prontas para se prender a um macho e chamá-lo de seu.)

@@ -1,9 +1,12 @@
 ---
-date: "2016-01-13"
-link: "https://www.imdb.com/title/tt1706620"
-categories: [ "draft", "movies" ]
-title: "Expresso do Amanhã"
+categories:
+- draft
+- movies
+date: '2016-01-13'
+link: https://www.imdb.com/title/tt1706620
+title: Expresso do Amanhã
 ---
+
 O quão bom é a mensagem de um filme à medida que ela vai se tornando óbvia demais? Em Expresso do Amanhã, um filme violentamente gráfico e com desvios de caráter para o bem de seu argumento, talvez esse limite seja quando um personagem declara que "o trem é o mundo, nós somos a humanidade", em um momento tão avançado na história que até para aquele espectador que dormiu metade do filme a mensagem já é pura e cristalina como água derretida das calotas polares.
 
 E água pura é o que não falta nesse futuro pós-apocalíptico. Baseado na Graphic Novel coreana Snowpiercer, também o nome do filme -- elegantemente traduzido no Brasil para Expresso do Amanhã -- uma nova Era do Gelo se instaura no planeta e os únicos sobreviventes estão em um trem construído por um empresário megalomaníaco que cruza todo o hemisfério norte eternamente já há 18 anos. Para manter todo esse sistema fechado funcionando, todos os detalhes são planejados e executados na ponta de uma régua. A régua, como não poderia deixar de ser, pertence aos vagões mais à frente. A execução, se você ainda não adivinhou, ocorre nos vagões mais ao fundo.

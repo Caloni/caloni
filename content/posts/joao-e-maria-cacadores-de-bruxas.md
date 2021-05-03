@@ -1,9 +1,11 @@
 ---
-date: "2013-01-28"
-link: "https://www.imdb.com/title/tt1428538"
-categories: [ "movies" ]
-title: "João e Maria: Caçadores de Bruxas"
+categories:
+- movies
+date: '2013-01-28'
+link: https://www.imdb.com/title/tt1428538
+title: 'João e Maria: Caçadores de Bruxas'
 ---
+
 João e Maria, como pode-se notar pelo título e sub-título, é uma reinterpretação do conto infantil dos dois irmãos que, perdidos na floresta, acabam entrando em contato com uma bruxa que mora em uma casa feita de doces. Esse é o único detalhe de toda a trama que nos faz lembrar da história clássica. A partir do momento em que eles se livram da bruxa e a queimam viva a história muda completamente de tom. Naquelas duas faces jovens e satisfeitas por assistirem ao seu precoce primeiro assassinato podemos constatar impressionados que a história não é mais de duas crianças indefesas, mas de dois psicopatas.
 
 Em uma criação de arte interessante ao conceber um antigo vilarejo com uma mitura de realismo e fábula vemos agora o já crescido casal de irmãos equipados com uma tecnologia tão avançada que se assemelha à mesma mágica usada pelas bruxas que estes se especializaram em eliminar. No fundo, podemos dizer que para aquelas pessoas simples do campo os exterminadores de bruxas possuem os mesmos poderes que estas, mas os usam para o "bem": eliminar essas criaturas horrendas em troca de recompensas em dinheiro.

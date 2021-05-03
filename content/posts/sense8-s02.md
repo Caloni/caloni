@@ -1,9 +1,12 @@
 ---
-date: "2018-06-17"
-link: "https://www.imdb.com/title/tt7083044"
-categories: [ "draft", "series" ]
-title: "Sense8 S02: Amor Vincit Omnia"
+categories:
+- draft
+- series
+date: '2018-06-17'
+link: https://www.imdb.com/title/tt7083044
+title: 'Sense8 S02: Amor Vincit Omnia'
 ---
+
 O cancelamento da série Sense8 pela Netflix nos apresentou um exemplo muito óbvio de como séries bem-feitas não podem funcionar como filmes, pois foram concebidas para expandir o seu mundo personagem a personagem, caso a caso. Quase como uma novela bem feita. E no caso do delírio criativo, poético e existencial de Lana Wachowski, mais do que nunca.
 
 O que ocorre no episódio/segunda temporada se torna um trabalho impressionante dos roteiristas em comprimir uma temporada inteira e todas as suas reviravoltas, incluindo até o final da própria série, resumido em 151 minutos. Para o espectador é exigido um nível de concentração e aceleração da narrativa acima do comum. Para uma série que exige um pouco de exercício mental, principalmente nos diferentes e diversos tipos de cortes entre os oito personagens principais conectados sensorialmente, e ainda mais quando estes entram em ação e exibem cada um suas habilidades em "corpos" diferentes, essa condensação de arcos e reviravoltas é cansativo e vai parecendo aos poucos repetitivo. Quando pela segunda vez um determinado personagem é sequestrado já não temos muita fé de encontrar a redenção esperada desta trama "fora de série".

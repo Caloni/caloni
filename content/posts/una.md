@@ -1,10 +1,14 @@
 ---
-date: "2017-04-06"
-link: "https://www.imdb.com/title/tt2315582"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Una"
+categories:
+- draft
+- movies
+date: '2017-04-06'
+link: https://www.imdb.com/title/tt2315582
+tags:
+- cinemaqui
+title: Una
 ---
+
 "Una" é a possibilidade de um diálogo entre dois adultos sobre o que fizeram quando um deles ainda era apenas uma criança. Baseado na peça "Blackbird", de David Harrower (que assina o roteiro), a direção do estreante Benedict Andrews cria um drama intimista que possibilita que o passado ecoe no presente e, em retrospecto, a vida dessas pessoas tente fazer algum sentido.
 
 A história sempre é narrada através desses ecos, trocando rapidamente entre passado e presente com flashbacks e memórias do evento traumático. Andrews realiza cortes secos, como o bater de uma porta, e até cenas que duram pouquíssimos quadros, como apresentando o ápice de uma festa, que criam um ritmo ágil e que pula para os momentos mais interessantes, quando Una e Ray conversam a respeito do passado. Apesar de já ficar claro para o espectador nos momentos iniciais, o filme vai aos poucos deixando cada vez mais claro que Una (Rooney Mara), hoje crescida, foi abusada sexualmente quando tinha treze anos por um adulto: o seu vizinho Ray (Ben Mendelsohn). Essa é a versão oficial, e todo o clima do filme adota corretamente a seriedade da situação. No entanto, o reencontro entre os dois após mais de uma década possibilita que ambos revivam aquela época em suas mentes e tentem resgatar o que havia de bom em uma relação vista hoje pela sociedade como grotesca (antes do século 20, casamentos entre adolescentes e adultos era comum; embora a escravidão também fosse).

@@ -1,9 +1,11 @@
 ---
-date: "2015-07-14"
-link: "https://www.imdb.com/title/tt0451094"
-categories: [ "movies" ]
-title: "Lady Vingança"
+categories:
+- movies
+date: '2015-07-14'
+link: https://www.imdb.com/title/tt0451094
+title: Lady Vingança
 ---
+
 Lady Vingança é o terceiro filme de Chan-wook Park sobre... adivinha? Claro, a vingança, esse ato que já virou tema de filmes excelentes -- Kill Bill Vol 1 e 2, Old Boy, do próprio Chan-wook -- e outros igualmente admiráveis -- Mr. Vingança, primeiro do Chan-wook, Lady Snowblood, inspiração do Tarantino para Kill Bill. Tão ou mais estilizado que Old Boy, sua obra mais conhecida no ocidente, a narrativa de Lady Vingança possui a beleza da fluidez incessante e dos recortes cartunescos, mas ao mesmo tempo traz uma certa petulância em ser excessivamente complexo apenas pela capacidade de ser (o famoso "porque sim").
 
 Assim como os dois filmes anteriores do diretor sobre o tema, a história aqui também envolve sequestro, morte de criança, extorsão, prisão e cumprimento de pena. Diferente dos outros dois, há uma interconexão empolgante entre as presas que compartilharam a mesma cela e suas versões livres. Ao apresentar cada uma delas, o filme faz questão de exibir o tempo que cada uma cumpriu pena, como uma maneira de entender a difícil cronologia dos fatos que combinam para o plano de vingança de Geum-ja Lee (Yeong-ae Lee), cuja pena maior de 13 anos foi usada para arquitetar a solução perfeita de seus anseios de justiça. Além desse passatempo, é curioso entender como cada uma de suas colegas se tornaram praticamente irmãs de sangue. Não tão inspiradas são as origens de cada uma, pois ainda que fosse interessante do ponto de vista do próprio tema do filme, a complexidade da narrativa faz com que nos percamos facilmente na própria linha de raciocínio da heroína. Quem dirá de todas as envolvidas.

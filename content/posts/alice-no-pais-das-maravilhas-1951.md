@@ -1,9 +1,11 @@
 ---
-date: "2011-11-13"
-link: "https://www.imdb.com/title/tt0043274"
-categories: [ "movies" ]
-title: "Alice no País das Maravilhas (1951)"
+categories:
+- movies
+date: '2011-11-13'
+link: https://www.imdb.com/title/tt0043274
+title: Alice no País das Maravilhas (1951)
 ---
+
 Tantos roteiristas, tantos adiamentos e tanta dúvida sobre se esse projeto seria viável valeram a pena. A versão de Alice de 1951, conduzida por perto pelo próprio Walt Disney, é irretocável do começo ao fim. É o tipo de filme que encanta por nunca ter envelhecido, de fato, e pela sua riqueza nos detalhes visíveis e invisíveis.
 
 A história todos conhecem: Alice é uma menina que encontra um coelho de relógio e entra em sua toca. Lá dentro, conhece todo o tipo de criaturas bizarras e aparentemente insanas. A condução é feita através de muitas rimas, poesia e música. As rimas não ficam apenas nos diálogos: há rimas visuais, criadas nos contornos dos seus personagens ou no uso significativo de suas cores, ou até mesmo em sua natureza.

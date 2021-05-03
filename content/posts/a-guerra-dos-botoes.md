@@ -1,9 +1,12 @@
 ---
-date: "2019-01-25"
-link: "https://www.imdb.com/title/tt1861375"
-categories: [ "draft", "movies" ]
-title: "A Guerra dos Botões"
+categories:
+- draft
+- movies
+date: '2019-01-25'
+link: https://www.imdb.com/title/tt1861375
+title: A Guerra dos Botões
 ---
+
 A Guerra dos Botões é um filme magnífico se você analisar apenas os seus melhores momentos: lúdicos, épicos, vivos! Porém, ao tentar juntá-los, Yann Samuell exagera no caos e transforma essa experiência como deve ser na cabeça de uma criança: há alguns flashes na memória inesquecíveis, mas é impossível se lembrar de todo o contexto.
 
 Contando a história do ponto de vista das crianças de duas vila vizinhas em eterno conflito, A Guerra dos Botões é um romance de Louis Pergaud que está sendo adaptado pela terceira vez no cinema. Houve uma versão francesa em 1962 e uma internacional em 1994 (baseada na primeira). Yann pegou a fonte original e fez uma adaptação inspiradíssima, onde ele reinterpreta nossa percepção de guerra, sociedade, pátria e todas as coisas de adulto sob o prisma dos olhos das crianças. Todos entram na brincadeira.

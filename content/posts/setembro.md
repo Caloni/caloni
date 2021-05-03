@@ -1,9 +1,12 @@
 ---
-date: "2019-02-02"
-link: "https://www.imdb.com/title/tt0093940"
-categories: [ "draft", "movies" ]
-title: "Setembro"
+categories:
+- draft
+- movies
+date: '2019-02-02'
+link: https://www.imdb.com/title/tt0093940
+title: Setembro
 ---
+
 Eu me lembro de Setembro em minhas noites acordado (tentando dormir) no quarto dos meus pais. Era o meu pai que colocava em algum canal na TV que aparentemente comprou o pacote completo de filmes do Woody Allen, os já produzidos e os futuros. Para uma criança que não entende nada de dramas humanos deve ter sido muito chato. Mas Setembro tem um momento tão fugaz e tão vulnerável que parece que o universo inteiro vai colapsar, e quando isso acontece até uma criança sente. E retém a cena. Eu me lembro dela até hoje, quando a revi.
 
 Para todos que já assistiram você deve se lembrar dessa cena. É quando uma porta se abre e o que estávamos todos esperando, ainda que soubéssemos que seria um desastre, acontece. Mas deveria acontecer. Por quê? Eu não sei. Só não acho certo que segredos existam entre pessoas que conviveram tão de perto por tantas semanas na mesma cara de veraneio. O quão cruel, ou o quão correto, é desejar que segredos sejam revelados, ainda que isso possa custar a vida de uma pessoa?

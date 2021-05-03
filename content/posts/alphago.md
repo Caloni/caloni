@@ -1,9 +1,12 @@
 ---
-date: "2019-08-26"
-link: "https://www.imdb.com/title/tt6700846"
-categories: [ "draft", "movies" ]
-title: "AlphaGo"
+categories:
+- draft
+- movies
+date: '2019-08-26'
+link: https://www.imdb.com/title/tt6700846
+title: AlphaGo
 ---
+
 Este é um documentário feito daquele jeito que a câmera vai acompanhando a ação acontecendo. É uma disputa memorável entre homem e máquina, mas em vez de xadrez, dessa vez é o Go, um jogo milenar na Ásia. Mas em vez de abordar com a mesma profundidade com que Alpha Go faz seus lances, a super-engine de Inteligência Artificial desenvolvida pela Google, o diretor Greg Kohs prefere que o filme conte sua história por si mesmo.
 
 O que não é ruim; apenas convencional. Acompanhamos os dois matches organizados pela Deep Mind, empresa criada pela Google para este projeto de Machine Learning, em que a máquina aprende através de tentativa e erro e à sua maneira qualquer lógica ensinada, seja jogar Go ou curar câncer. No momento estamos focados no Go, e o câncer vai ficar para depois.

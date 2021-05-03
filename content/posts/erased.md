@@ -1,9 +1,12 @@
 ---
-date: "2017-12-27"
-link: "https://www.imdb.com/title/tt7573686"
-categories: [ "draft", "series" ]
-title: "Erased: Piloto"
+categories:
+- draft
+- series
+date: '2017-12-27'
+link: https://www.imdb.com/title/tt7573686
+title: 'Erased: Piloto'
 ---
+
 Esta é uma série fantástica baseada tão fortemente em um mangá e anime que ele pode ser o delírio do fã das obras originais ou atiçar a curiosidade do cinéfilo. Por que a curiosidade? Se observarmos os movimentos de câmera, a forma de disposição dos personagens e dos elementos em cena perceberemos que esta obra continua sendo um anime em forma.
 
 Em conteúdo também. A narração dos pensamentos e sentimentos do herói é a típica adaptação narrativa que o Ocidente faz para o Oriente. Além disso a noveliza, para que o telespectador de celular perceba detalhes óbvios como quem é a mãe do personagem. Ao mesmo tempo cria situações extremamente improváveis, como alguém que acabou de acordar de um acidente e pergunta pra sua colega de trabalho por que ela trabalha. Ela responde: para realizar um sonho. Isso é tão atípico que só pode ser um programa da TV de domingo.

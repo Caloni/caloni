@@ -1,9 +1,12 @@
 ---
-date: "2021-03-27"
-link: "https://www.imdb.com/title/tt6591406"
-categories: [ "draft", "animes" ]
-title: "Depois da Chuva (aka Koi wa Ameagari no You ni)"
+categories:
+- draft
+- animes
+date: '2021-03-27'
+link: https://www.imdb.com/title/tt6591406
+title: Depois da Chuva (aka Koi wa Ameagari no You ni)
 ---
+
 Que piloto, meus amigos! Um exemplo de episódio. Vamos descobrindo sobre o que é o anime aos poucos. As dores e descobertas do passado conversam com a Akira do presente que não sabe o que será da Tachibana San do futuro.
 
 Por quê? Porque ela era uma jovem colegial cheia de potencial nos esportes e sofre uma lesão em sua perna. Em meio aos pensamentos melancólicos ela acaba em um café para esperar a chuva passar e conhece o gerente de meia-idade do estabelecimento. E se apaixona pela gentileza com que trata uma cliente anônima e que não fez nenhum pedido. E agora ela tenta compreender quais são as virtudes que a fizeram ficar hipnotizada por essa figura patética.

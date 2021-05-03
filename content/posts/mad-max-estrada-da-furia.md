@@ -1,9 +1,11 @@
 ---
-date: "2015-05-22"
-link: "https://www.imdb.com/title/tt1392190"
-categories: [ "movies" ]
-title: "Mad Max: Estrada da Fúria"
+categories:
+- movies
+date: '2015-05-22'
+link: https://www.imdb.com/title/tt1392190
+title: 'Mad Max: Estrada da Fúria'
 ---
+
 Quando vi Kingsman estava convicto que qualquer filme de ação esse ano seria uma versão menor deste trabalho exemplar do que o uso da paródia com toques de realismo pode fazer. Até tomar coragem e ir conferir na telona esse novo Mad Max, que retorna aos anos 80 (ou 1979, estreia do original), mas mantém sua ideologia com um pé nos anos atuais enquanto realiza não só uma homenagem, mas uma redimensionada na série de filmes que estava já há algum tempo esquecida.
 
 Dirigido e co-escrito pelo mesmo George Miller do original e suas continuações, a história gira em torno de um futuro pós-apocalíptico que causa um estrago na fertilidade do solo, tornando os seres humanos uma raça escassa e, "graças" aos efeitos da radiação, ainda doente por armas de guerra movidas a gasolina.

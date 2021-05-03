@@ -1,9 +1,12 @@
 ---
-date: "2015-12-31"
-link: "https://www.imdb.com/title/tt2637276"
-categories: [ "draft", "movies" ]
-title: "Ted 2"
+categories:
+- draft
+- movies
+date: '2015-12-31'
+link: https://www.imdb.com/title/tt2637276
+title: Ted 2
 ---
+
 Personagens tão carismáticos em um filme tão disposto a comprar a ideia de um urso de pelúcia com vida adulta não poderia gerar uma continuação mais chata, mecânica e automática das comédias pastelonas.
 
 Seth MacFarlane é criador, diretor, roteirista e dublador de Family Guy, uma animação para adultos que segue o modelo de comédia sitcom, onde os atores piscam para a "audiência" e há piadas deslocadas todo o tempo. Aparentemente sem ter ideia de como continuar o ótimo primeiro roteiro de Ted, esse segundo filme é uma réplica do modelo de Family Guy (sem contar que MacFarlane dubla o ursinho com a voz do protagonista da série, nos distraindo constantemente com a imagem de Peter McGriffin).

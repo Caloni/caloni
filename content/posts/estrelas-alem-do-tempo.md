@@ -1,9 +1,12 @@
 ---
-date: "2017-02-17"
-link: "https://www.imdb.com/title/tt4846340"
-categories: [ "draft", "movies" ]
-title: "Estrelas Além do Tempo"
+categories:
+- draft
+- movies
+date: '2017-02-17'
+link: https://www.imdb.com/title/tt4846340
+title: Estrelas Além do Tempo
 ---
+
 "Fortran é uma nova e excitante linguagem usada por programadores para se comunicar com computadores..." -- começa lendo Dorothy Vaughan, líder das programadoras de cor da NASA. É difícil imaginar como uma espécie tão irracional a ponto de subestimar a mente humana baseada na cor e sexo do corpo que a carrega teria conseguido chegar até ao espaço. Assistindo a Estrelas Além do Tempo torna-se difícil imaginar como colocariam um homem branco orbitando o planeta se não fosse pela genial mente humana de Katherine G. Johnson, uma mulher, negra, e gênio.
 
 Dirigido por Theodore Melfi a partir de seu roteiro e de Allison Schroeder, baseados no romance de Margot Lee Shetterly, Hidden Figures (o nome original) como filme de ação é quase uma continuação temática de Perdido em Marte. Só que agora em vez de acompanharmos um astronauta e cientista interpretado por Matt Damon visitaremos um escalão abaixo: o dos engenheiros e matemáticos que tornaram a própria viagem espacial possível. E isso em uma época onde "computador" era o nome dado a alguém, uma pessoa, que computava, ou seja, fazia cálculos. Havia uma sala cheia dessas pessoas. Os primeiros grandes computadores da IBM, os mainframes, que hoje cabem no bolso de cada um (chamamos de celulares), mas antes ocupavam uma sala inteira, estavam apenas começando a chegar, e ainda havia muito trabalho a ser feito manualmente. Havia tanto trabalho que a NASA estava disposta a, em plena segregação norte-americana, trazer tanto os cérebros caucasianos quanto os cérebros afro-descendentes para trabalharem juntos.

@@ -1,9 +1,13 @@
 ---
-date: "2021-03-14"
-categories: [ "draft", "food" ]
-tags: [ "coffee" ]
-title: "Como Fazer Café"
+categories:
+- draft
+- food
+date: '2021-03-14'
+tags:
+- coffee
+title: Como Fazer Café
 ---
+
 Ao longo dos anos meu processo de fazer café mudou radicalmente, mas alguns princípios sempre se mantiveram ou foram descobertos e mantidos no caminho. Este é um guia básico e prático para quem deseja trilhar essa aventura de fazer sempre um café melhor que o de ontem.
 
 Antes de tudo é necessário não ter medo de se arriscar. Se você deseja consistência e simplicidade no seu café compre uma máquina automática de espresso por cápsula e aperte o mesmo botão todo dia. Problema resolvido. Se você aceita riscos para obter novos aromas, sabores e conhecimento sobre a arte de fazer café vem comigo.

@@ -1,10 +1,14 @@
 ---
-date: "2017-12-14"
-link: "https://www.imdb.com/title/tt2720826"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Origem do Dragão"
+categories:
+- draft
+- movies
+date: '2017-12-14'
+link: https://www.imdb.com/title/tt2720826
+tags:
+- cinemaqui
+title: A Origem do Dragão
 ---
+
 A Origem do Dragão possui a alma de Bruce Lee. Ele é simples, conciso, mas ao mesmo tempo seus personagens chamam a atenção apenas por existirem, assim como Bruce chamava a atenção de Hollywood apenas por ser um lutador chinês trazendo lições milenares para o Ocidente. Observe os dois mestres de kung fu deste filme e me diga que não consegue entender e admirar a própria filosofia desta arte marcial. Curiosamente o filme enxerga mais beleza nesses personagens, o que dizem e fazem, do que a forma como lutam. O que já é uma ótima notícia vinda de um trabalho intimista que poderia cair no pecado de chamar atenção para si mesmo pelas lutas e holofotes.
 
 Jovem demais para estar se tornando um cineasta, o filme demonstra a rápida evolução com resultados mistos para o mestre. Arrumando confusão desde criança, seu pai o envia para a América como forma de punição. O mesmo fim tem o mestre de kung fu que chega depois. Ele vem para se purificar de um pecado que cometeu por orgulho e encontra um Bruce Lee e toda sua vaidade erguendo os pilares que o tornarão referência no mundo todo. A ponte entre os dois é um discípulo, Steve McKee (Billy Magnussen), um americano que luta kung fu para se defender do mundo sozinho, e acaba encontrando uma jovem escrava da máfia chinesa local que vira seu motivo nobre para lutar.

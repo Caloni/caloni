@@ -1,9 +1,11 @@
 ---
-date: "2012-10-17"
-link: "https://www.imdb.com/title/tt1839492"
-categories: [ "movies" ]
-title: "Ruby Sparks - A Namorada Perfeita"
+categories:
+- movies
+date: '2012-10-17'
+link: https://www.imdb.com/title/tt1839492
+title: Ruby Sparks - A Namorada Perfeita
 ---
+
 Orquestrada pela dupla de diretores Jonathan Dayton e Valierie Faris ([Pequena Miss Sunshine]) e escrita pela atriz Zoe Kazan, que interpreta a Ruby Sparks do título, a história gira em torno de Calvin (Paul Dano), um jovem escritor que nem terminou o colégio e vendeu um livro de sucesso. Considerado por muitos um gênio da literatura (uma palavra que Calvin abomina), todos aguardam pelo seu próximo trabalho.
 
 O problema é que Calvin não consegue mais escrever. Faz terapia para conseguir destravar sua inspiração, quando repentinamente começa a sonhar com uma garota (Zoe Kazan), algo normal na vida de alguém que está sozinho, já passou por uma decepção amorosa e não consegue encontrar alguém que preencha seu vazio. Ele escreve, portanto, em um ritmo cadenciado por suas noites de sonhos e páginas batidas em sua clássica máquina de escrever, um resquício, talvez, de um jovem escritor sem condições de ter um laptop ou um sinal de alguém que se considera único.

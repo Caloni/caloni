@@ -1,9 +1,12 @@
 ---
-date: "2014-11-09"
-link: "https://www.imdb.com/title/tt0773262"
-categories: [ "draft", "series" ]
-title: "Dexter - O Final"
+categories:
+- draft
+- series
+date: '2014-11-09'
+link: https://www.imdb.com/title/tt0773262
+title: Dexter - O Final
 ---
+
 "Dexter Morgan é um ser humano buscando seu lugar no mundo." Essa frase inicial do meu texto sobre a sétima temporada foi minha conclusão a respeito de toda a série e as motivações de seu anti-herói, protagonizado de maneira extremamente competente por Michael C. Hall do começo ao fim. Para mim, portanto, essa ambição de Dexter seria a direção natural por onde o grand finale se nortearia, já que vimos até então tentativas -- muitas frustadas, mas em sua maioria não -- de um sociopata se encaixar na sociedade de uma forma a não machucar pessoas, ou pelo menos pessoas que não "mereçam" ser machucadas (isso depende do nível do politicamente correto de cada um).
 
 Infelizmente, o potencial de um retorno de qualidade na direção e roteiro vistos na temporada anterior se desmancharam como um castelo de cartas mal construído, e a curva de evolução de Dexter -- e de nós, espectadores -- não chegou sequer próximo de se completar. Pior: o último episódio da série viola sua própria lógica interna ao penalizar uns personagens e outros não. Mas chegaremos lá.

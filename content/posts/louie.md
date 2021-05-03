@@ -1,9 +1,12 @@
 ---
-date: "2015-07-28"
-link: "https://www.imdb.com/title/tt1492966"
-categories: [ "draft", "series" ]
-title: "Louie"
+categories:
+- draft
+- series
+date: '2015-07-28'
+link: https://www.imdb.com/title/tt1492966
+title: Louie
 ---
+
 O comediante, diretor, roteirista, ator Louis C. K. já protagonizou diferentes shows de stand up comedy e é um veterano no assunto. Talvez veterano seja dizer pouco: o cara é simplesmente fodástico na arte do humor. É uma das referências do gênero, e após a morte do mestre (que deus não o tenha) George Carlin, talvez Louis seja o melhor comediante norte-americano da atualidade.
 
 Além de já realizar algumas pontas no cinema (inclusive num dos últimos filmes do Woody Allen, Blue Jasmine) e em séries (Parks and Recreation) ele resolve estrear sua própria série de comédia baseada em sua persona artística (pai de duas filhas divorciado com mais de 40 que faz comédia para sobreviver). Isso poderia ser um tiro no próprio pé, já que tão bem estabelecido no formato de bar, por que tentar estender essa experiência fora dos palcos e arriscar colocar tudo a perder?

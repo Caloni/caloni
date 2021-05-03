@@ -1,9 +1,11 @@
 ---
-date: "2010-08-13"
-link: "https://www.imdb.com/title/tt0963966"
-categories: [ "movies" ]
-title: "O Aprendiz de Feiticeiro"
+categories:
+- movies
+date: '2010-08-13'
+link: https://www.imdb.com/title/tt0963966
+title: O Aprendiz de Feiticeiro
 ---
+
 E aqui vamos nós para mais um filme bonitinho, emocionante e formatado nos últimos padrões que a Disney recomenda para que tenhamos mais uma possível franquia seguindo os modelos razoavelmente bem sucedidos dos Piratas do Caribe e Crônicas de Nárnia, e também a futura promessa do Príncipe da Pérsia.
 
 Aqui se trata de um aprendiz de feiticeiro que procura pelo primeiro descendente de Merlin que irá ter poderes para derrotar a poderosa bruxa Morgana, atualmente presa em uma espécie de boneca russa, mas que assim que libertada, e não for impedida, poderá destruir o mundo como o conhecemos.

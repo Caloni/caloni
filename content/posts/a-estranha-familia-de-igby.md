@@ -1,9 +1,11 @@
 ---
-date: "2015-09-10"
-link: "https://www.imdb.com/title/tt0280760"
-categories: [ "movies" ]
-title: "A Estranha Famíllia de Igby"
+categories:
+- movies
+date: '2015-09-10'
+link: https://www.imdb.com/title/tt0280760
+title: A Estranha Famíllia de Igby
 ---
+
 Uma comédia estranhona que começa meio morna demais, parecendo justamente parecer apenas isso, mas que depois de sua introdução sem ritmo nos apresenta de verdade seus personagens, sua história, sua essência. Então se torna um palco para brilhantes atuações, além de um laboratório de pequenas experimentações na direção. Amparado sobre um roteiro denso, mas nem tanto, com diálogos que poderiam figurar facilmente em um livro ou peça, A Estranha Famíllia de Igby nos leva a concluir que muitos começos desastrosos podem enganar à primeira vista e entregar momentos que nunca esperaríamos de um gênero como esse.
 
 Girando em torno da figura controversa de Igby (Kieran Culkin e seu irmão mais novo, Rory), um garoto problemático nascido e crescido em uma família problemática, vemos logo no início o assassinato de sua mãe por ele e seu irmão, Oliver (Ryan Phillippe). Depois o filme inteiro é um enorme flashback, onde vemos a agora viva e controladora mãe Mimi (Susan Sarandon em ótima performance) sendo a catalisadora, e talvez a causa maior, da destruição sistemática de uma família que se tornam apenas os destroços de pessoas que carregam uma visão frequentemente cínica, imoral e utilitarista (em seu pior sentido) do mundo, e as que não o fazem se entregam à loucura como o meio mais fácil de sobreviver. Esse núcleo familiar, então, atrai pessoas igualmente problemáticas que irão circundar esse sistema solar disfuncional: seu padrinho businessman D.H. (Jeff Goldblum em instigante criação), que desejaria que as relações entre membros da família fossem formalizadas em contrato, sua jovem (claro) amante Rachel (a intensa Amanda Peet), cuja participação poderia ser acusada como conveniente para o destino de Igby, mas que aos poucos percebemos se tratar de uma visão ao vivo e em cores da destruição que estávamos testemunhando na família principal, e a mocinha, Sookie (a simpática Claire Danes), cujas visões igualmente cínicas preenchidas por um pragmatismo apático é justamente o que a torna a jovem mais fascinante do filme (ou a tornaria se tivesse mais tempo de tela).

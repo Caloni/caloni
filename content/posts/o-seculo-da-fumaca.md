@@ -1,10 +1,14 @@
 ---
-date: "2019-10-17"
-link: "https://www.imdb.com/title/tt9810932"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Século da Fumaça"
+categories:
+- draft
+- movies
+date: '2019-10-17'
+link: https://www.imdb.com/title/tt9810932
+tags:
+- cinemaqui
+title: O Século da Fumaça
 ---
+
 O Século da Fumaça parece uma reprise. Eu me lembro de ter visto um filme muito semelhante em outras mostras há um bom tempo, mas a data de produção de 2018 aponta para sua triste atualidade.
 
 Se trata de um documentário sobre as condições dos habitantes do interior de Laos, ainda produtor e exportador de Ópio, uma droga altamente viciante e que geralmente consome rapidamente a vida dos viciados. Nessa região acompanhamos uma família e seus vizinhos. A maioria dos homens dessa geração estão no vício e as mulheres são responsáveis por trabalhar no campo, além de dividir a criação dos filhos.

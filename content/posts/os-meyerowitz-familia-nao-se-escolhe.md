@@ -1,9 +1,12 @@
 ---
-date: "2018-01-31"
-link: "https://www.imdb.com/title/tt5536736"
-categories: [ "draft", "movies" ]
-title: "Os Meyerowitz: Família Não se Escolhe"
+categories:
+- draft
+- movies
+date: '2018-01-31'
+link: https://www.imdb.com/title/tt5536736
+title: 'Os Meyerowitz: Família Não se Escolhe'
 ---
+
 Esta parece ser uma grande oportunidade para vermos grandes atores contracenando juntos. Ben Stiller, Dustin Hoffman, Emma Thompson. Além disso há Adam Sandler. E também é uma ótima oportunidade de vermos o diretor Noah Baumbach realizando um drama familiar que cheira a Woody Allen, já que todo mundo é artista e disfuncional. Mas me pergunto: será que estou sendo redundante aqui?
 
 Baumbach já é um especialista em famílias disfuncionais e arcos de personagens não-convencionais. Começando com Frances Ha, onde apresenta as habilidades da atriz Greta Gerwirg, e terminando em Enquanto Somos Jovens, com um Ben Stiller em seu melhor, Baumbach realiza a necessidade que temos de entender os conflitos internos humanos que permeiam as nossas esquisitices e os caminhos que nossas vidas levaram.

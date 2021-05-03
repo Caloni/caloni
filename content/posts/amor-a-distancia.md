@@ -1,9 +1,11 @@
 ---
-date: "2010-09-10"
-link: "https://www.imdb.com/title/tt1322312"
-categories: [ "movies" ]
-title: "Amor à Distância"
+categories:
+- movies
+date: '2010-09-10'
+link: https://www.imdb.com/title/tt1322312
+title: Amor à Distância
 ---
+
 Os personagens desse filme vivem citando filmes, como na cena em que o protagonista imita Morgan Freeman em "Um Sonho de Liberdade". Com essa cena podemos dizer que o filme não é nada original, e usa referências à toa.
 
 Logo no segundo encontro do casal já temos uma trilha sonora forçada que tenta nos deixar mais "entrosados" com o casal, como se forçasse a passagem do tempo e a vivência entre eles, com enquadramentos que nos forçam a tentar encontrá-los se movendo, dando um ar mais casual para o encontro deles, como se a câmera não estivesse muito à vontade em "arregaçar" a presença deles. Funciona razoavelmente bem.

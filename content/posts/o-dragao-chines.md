@@ -1,9 +1,12 @@
 ---
-date: "2016-01-07"
-link: "https://www.imdb.com/title/tt0067824"
-categories: [ "draft", "movies" ]
-title: "O Dragão Chinês"
+categories:
+- draft
+- movies
+date: '2016-01-07'
+link: https://www.imdb.com/title/tt0067824
+title: O Dragão Chinês
 ---
+
 The Big Boss, ou O Dragão Chinês (??), é um dos primeiros filmes de Bruce Lee no estilo Hollywoodiano, mas que mantém uma estrutura típica dos filmes de artes marciais: subir em escala até atingir o chefão.
 
 Com uma trilha sonora embaraçosa e um ritmo de cena nem sempre adequado, O Dragão Chinês consegue oferecer uma lição de moral sem se esforçar muito: como o poder muda a visão das pessoas. No começo o jovem Cheng Chao-an (Lee) vem com seu tio que o traz a seus primos para que trabalhe com eles em uma fábrica de gelo. Um deles, o sempre solícito Hsiu Chien (James Tien) é gentil e justo com todas as pessoas, além de lutar muito bem. A vida na casa de seus primos é muito agradável, mas o problema parece rondar a fábrica.

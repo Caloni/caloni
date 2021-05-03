@@ -1,9 +1,12 @@
 ---
-date: "2016-01-21"
-link: "https://www.imdb.com/title/tt0022100"
-categories: [ "draft", "movies" ]
-title: "M, O Vampiro de Dusseldorf"
+categories:
+- draft
+- movies
+date: '2016-01-21'
+link: https://www.imdb.com/title/tt0022100
+title: M, O Vampiro de Dusseldorf
 ---
+
 Esse é um filme que explora a moral de um assassino de uma maneira tão absurda e dúbia quanto seus momentos cômicos. O expressionismo de Fritz Lang (e o alemão) colaboram para um filme hoje engraçado em alguns momentos, quando uma pessoa segura um fósforo aceso na mão à espera de uma resposta, mas hipertensos em outros, quando os argumentos de um inesperado advogado de defesa revelam uma relativização perigosa da ação e liberdade humanas, e uma discussão sobre direitos igualmente fascinante.
 
 A história é simples: um assassino de crianças está à solta. Toda a população fica em pavorosa, os policiais não fazem outra coisa senão tentar encontrar provas, e até os criminosos se reúnem para resolver esse caso de uma vez por todas e tornar seus "negócios" mais tranquilos, sem a polícia atrapalhando todo dia. Há um momento especialmente inspirado no filme em que uma reunião de uma gangue influente na região e os responsáveis pela segurança da cidade ocorre em paralelo, e é onde a edição de Paul Falkenberg brilha, e onde o argumento moral de Fritz Lang começa a dar seus ecos de que há algo de errado quando a lei e o crime "se unem" para resolver um problema.

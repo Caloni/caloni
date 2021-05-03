@@ -1,10 +1,14 @@
 ---
-date: "2019-01-12"
-link: "https://www.imdb.com/title/tt5848272"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Wifi Ralph: Quebrando a Internet"
+categories:
+- draft
+- movies
+date: '2019-01-12'
+link: https://www.imdb.com/title/tt5848272
+tags:
+- cinemaqui
+title: 'Wifi Ralph: Quebrando a Internet'
 ---
+
 Quem assistir "Wifi Ralph: Quebrando a Internet" pelo título já deve saber que não deverá ver com o mesmo clima do primeiro filme ("Detona Ralph"), que apostava no saudosismo dos fãs de fliperamas e vídeo-games antigos em geral para explorar a magia dos 0s e 1s através dos carismáticos personagens Ralph e Vanellope, entre outros.
 
 Mas não se enganem: é o mesmo filme remodelado para sua segunda protagonista. Se em Detona Ralph o brutamontes que não se sentia bem por nunca ter recebido créditos por fazer parte de um jogo em que ele era um eterno vilão, aqui é Vanellope, com todo seu espírito aventureiro, que se sente em um marasmo eterno correndo três pistas de seu jogo que já sabe de cor.

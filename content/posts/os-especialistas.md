@@ -1,9 +1,12 @@
 ---
-date: "2019-01-29"
-link: "https://www.imdb.com/title/tt1448755"
-categories: [ "draft", "movies" ]
-title: "Os Especialistas"
+categories:
+- draft
+- movies
+date: '2019-01-29'
+link: https://www.imdb.com/title/tt1448755
+title: Os Especialistas
 ---
+
 Jason Stahan, Robert de Niro e Clive Owen na capa deste DVD. Parece um filmão de ação para mim. Bom, nem tanto. De Niro fica quase o tempo todo preso, Owen está com um bigodinho mequetrefe e apenas Stahan salva o dia. E bem mais ou menos. Há duas explosões no filme todo.
 
 A história é baseada em um livro bibliográfico d Ranulph Fiennes, ex-membro de uma organização secreta britânica conhecida como SAS. Seu relato é sobre uma operação de guerra iniciada no Oriente Médio e a consequente reação a ela: a vingança de um xeique pela morte dos seus filhos. E tudo isso está embrulhado em uma trama política mais ou menos interessante (poderia ser mais) em plena crise do petróleo.

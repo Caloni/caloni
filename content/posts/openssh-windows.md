@@ -1,9 +1,12 @@
 ---
-date: 2019-04-29T20:03:18-03:00
-title: "OpenSSH no Windows"
-categories: [ "draft", "blog" ]
-desc: "Como instalar com sucesso a versão OpenSSH da Microsoft."
+categories:
+- draft
+- blog
+date: 2019-04-29 20:03:18-03:00
+desc: Como instalar com sucesso a versão OpenSSH da Microsoft.
+title: OpenSSH no Windows
 ---
+
 O Secure Shell (SSH) é um protocolo de sucesso nos unixes da vida para terminal remoto e seguro por décadas, mas no Windows nunca houve uma forma simples e protegida de abrir um terminal ou copiar arquivos. A opção é instalar um cygwin com esse componente ou tentar compilar um protocolo SSL e em cima dele o SSH. Porém, há detalhes na autenticação que estão relacionadas com o Sistema Operacional e que precisa ser feito. O OpenSSH é uma maneira de compilar tudo isso e ainda funcionar no Windows.
 
 O software WinSCP, um client SFTP para Windows, possui [um guia](https://winscp.net/eng/docs/guide_windows_openssh_server) sobre como instalar essa opção no Windows. A partir do Windows Server 2019 e Windows 10 1809 isso não será mais necessário, pois já estará disponível entre as ferramentas opcionais instaláveis do SO (Apps > Apps & features > Manage optional features, "OpenSSH server"). Para os que ainda precisam manter o passado há uma maneira.

@@ -1,9 +1,11 @@
 ---
-date: "2014-03-23"
-link: "https://www.imdb.com/title/tt0113670"
-categories: [ "movies" ]
-title: "A Princesinha"
+categories:
+- movies
+date: '2014-03-23'
+link: https://www.imdb.com/title/tt0113670
+title: A Princesinha
 ---
+
 É muito bom de vez em quando levar um tapa na cara dos gêneros menos "louváveis" como essa aventura/fantasia que abraça completamente o clima de conto de fadas. Dirigido pelo ainda jovem talento Alfonso Cuarón em 95, é um filme para chorar, com momentos dramáticos extremamente angustiantes, ainda que a heroína seja uma criança, mas que, depois de viver na Índia, é entregue aos cuidados de uma escola para garotas em Nova York para que seu pai viúvo sofra as agrúrias da guerra. 
 
 Ainda assim, tive que escorrer minhas lágrimas também para as diferentes virtudes técnicas que encantam tanto ou até mais que a "historinha", como as transições inteligentes, sutis e significativas entre o mundo humano da guerra e faz-de-conta alimentado pela pequena Sara (Liesel Matthews) em uma escola cheia de regras. Note a troca de cenas entre uma carta manchada com lágrimas e sendo molhada pela chuva (e, na mesma cena, uma janela ensolarada e a cabana com trevas do lado de fora) ou o ataque aéreo ao fronte seguido de um apagar de velas fúnebre que prenuncia uma triste notícia.

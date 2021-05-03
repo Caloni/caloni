@@ -1,9 +1,12 @@
 ---
-date: "2019-05-28"
-link: "https://www.imdb.com/title/tt0283900"
-categories: [ "draft", "movies" ]
-title: "Albergue Espanhol"
+categories:
+- draft
+- movies
+date: '2019-05-28'
+link: https://www.imdb.com/title/tt0283900
+title: Albergue Espanhol
 ---
+
 Este é um guia de como fazer um filme sobre sensações da juventude, das relações entre conhecidos que com o tempo se tornam algo mais, algo etéreo, que gera sensações fortes; saudades que se carrega pra vida toda, familiaridade com um tempo que não voltará nunca mais.
 
 Seu protagonista, Xavier (Romain Duris), é um jovem tímido, de pais separados e uma namorada da adolescência (Audrey Tautou, de Amelie Poulain). Ele decide crescer, fazer uma pós em país estrangeiro para aprender o idioma. Seu sonho quando criança era ser escritor, mas ele parte em uma missão de um ano para conseguir emprego em um escritório. E quando se despede de sua antiga vida, namorada e mãe, segue chorando. Seu choro é um misto de patético com fofinho.

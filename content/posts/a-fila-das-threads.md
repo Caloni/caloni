@@ -1,8 +1,10 @@
 ---
-date: "2009-04-07"
-categories: [ "code" ]
-title: "A fila das threads"
+categories:
+- code
+date: '2009-04-07'
+title: A fila das threads
 ---
+
 Em um ambiente multithreading diversas threads disputam "a tapas" a atenção do processador (CPU). Certo? Podemos dizer que, em um ambiente com muito processamento a realizar, de certa forma é isso que acontece. São threads e mais threads rodando um pedacinho de código cada vez que passam pelo processador.
 
 Um ambiente complexo como um sistema operacional executando dezenas (às vezes centenas) de programas é repleto de pequenos detalhes que podem fazer o iniciante logo desanimar quando tentar depurar um programa com mais de uma thread. De fato, eu já percebi que muitos não vão saber nem como começar a pensar sobre o problema.

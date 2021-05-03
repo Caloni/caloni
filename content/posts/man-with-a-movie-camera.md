@@ -1,9 +1,11 @@
 ---
-date: "2015-09-21"
-link: "https://www.imdb.com/title/tt0019760"
-categories: [ "movies" ]
-title: "Um Homem com uma Câmera"
+categories:
+- movies
+date: '2015-09-21'
+link: https://www.imdb.com/title/tt0019760
+title: Um Homem com uma Câmera
 ---
+
 Man With a Movie Camera, ou "Chelovek S Kino-apparatom", provavelmente é o filme experimental mais conhecido pelos cinéfilos, talvez por ter sido recomendado e elogiado por críticos do mundo todo.
 
 E não é à toa. O filme é de fato dirigido (e escrito) por um homem e sua câmera na mão, o russo Dziga Vertov. Vertov foi um daqueles cineastas que ninguém ouve falar que produzia os "newsreel", as sessões de Cinema que traziam notícias, pequenas estórias e itens de interesse comum. Iniciou sua carreira de diretor com os Kino-Pravda, ou "filme-verdade": "newsreel" que combinavam diferentes cenas para produzir um significado mais profundo. Um detalhe é que, geralmente filmando em lugares públicos pessoas que lá estava, ele costumava esconder sua câmera e filmar o que queria antes de pedir permissão. Isso é importante para entendermos toda a espontaneidade encontrada nessa sua obra celebrada e redescoberta até hoje.

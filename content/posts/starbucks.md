@@ -1,9 +1,11 @@
 ---
-date: "2015-09-07"
-categories: [ "food" ]
-title: "Starbucks"
+categories:
+- food
+date: '2015-09-07'
+title: Starbucks
 ---
- - 2015-09-07 Pike Place. No sítio do 7 de setembro, um pouco fraco, corpo médio, combina perfeitamente com bolo de chocolate.
+
+- 2015-09-07 Pike Place. No sítio do 7 de setembro, um pouco fraco, corpo médio, combina perfeitamente com bolo de chocolate.
  - 2016-11-21 Pike Place. Aroma muito forte, sabor muito equilibrado. Tem uma hora que enjoa.
  - 2016-12-27 Christmas Blend Expresso Roast 2016. Consegue ser doce sem ser enjoativo.
  - 2017-01-08 Sumatra. Amadeirado (ou tânico); doce sem ser enjoativo; nenhuma acidez.

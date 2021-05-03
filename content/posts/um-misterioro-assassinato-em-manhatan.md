@@ -1,9 +1,11 @@
 ---
-date: "2012-05-14"
-link: "https://www.imdb.com/title/tt0107507"
-categories: [ "movies" ]
-title: "Um Misterioso Assassinato em Manhattan"
+categories:
+- movies
+date: '2012-05-14'
+link: https://www.imdb.com/title/tt0107507
+title: Um Misterioso Assassinato em Manhattan
 ---
+
 Nova York, chuva, assassinato e um filme de Woody Allen. Uma combinação que costuma ser fértil para o Cinema, seja pela inteligência e ironia das falas dos personagens, ou até mesmo pela situação que eles vivem. Aqui, temos o casal de meia-idade Larry e Carol Lipton (Allen e Keaton) que, após conhecerem um idoso e simpático casal, no dia seguinte presenciam a morte súbita da esposa, consequência de um ataque cardíaco.
 
 A questão, porém, é que o marido não parece tão abalado assim. Carol observa isso e uma ideia nasce em sua cabeça e vai crescendo: não seria ele um assassino daqueles de livros de mistério? Quais pistas eles presenciaram que poderia significar algo mais do que uma morte por doença? As questões vão aumentando conforme acompanhamos não só o espírito de aventura de Carol (ou de busca por algo incomum na enfadonha vida do casal) se contrapondo com a neurose controlada de Larry, com a interpretação de Allen no automático, mas ainda assim divertido.

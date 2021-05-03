@@ -1,10 +1,14 @@
 ---
-date: "2019-08-01"
-link: "https://www.imdb.com/title/tt1478839"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Meu Amigo Enzo"
+categories:
+- draft
+- movies
+date: '2019-08-01'
+link: https://www.imdb.com/title/tt1478839
+tags:
+- cinemaqui
+title: Meu Amigo Enzo
 ---
+
 Meu Amigo Enzo segue a tradição Disney de pequenas histórias de Sessão da Tarde que encantam pela leveza, simplicidade e conveniência. Tudo funciona na aventura da vida deste cachorro. Ele é o narrador de uma vida humana em que tudo no final deve dar certo e os percalços são necessidades para que seja feito um filme a respeito.
 
 O motivo de nunca temermos pelo pior é porque este é um filme fofinho, que arranja novas maneiras de contar a velha história da família que passa por alguns problemas insolúveis (quem nunca) e por um piloto que evoca o espírito de Ayrton Senna, que encontra várias barreiras no seu caminho profissional, mas que sua habilidade de correr na chuva demonstra sua confiança no imprevisível. Nós também temos essa confiança, pois já sabemos como funciona um filme como esse: tudo vai dar certo.

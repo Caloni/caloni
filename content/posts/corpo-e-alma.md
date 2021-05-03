@@ -1,9 +1,12 @@
 ---
-date: "2018-01-13"
-link: "https://www.imdb.com/title/tt5607714"
-categories: [ "draft", "movies" ]
-title: "Corpo e Alma"
+categories:
+- draft
+- movies
+date: '2018-01-13'
+link: https://www.imdb.com/title/tt5607714
+title: Corpo e Alma
 ---
+
 Corpo e Alma possui um lindo pano de fundo: ele observa a humanidade em alces, bois e humanos. A primeira cena é em uma floresta intocada, com dois cervos. Observamos seus olhares e seus movimentos. Há um lago paradisíaco e um filete de água que se esvai como se fosse infinito. Em um dado momento, um alce coloca sua cabeça sobre as costas do outro. Há uma comunicação invisível ali. Mas humana. Esse é o sentido deste longa.
 
 Corta para o abatedouro. Cenas fortes. Bem fortes. Bois são abatidos mecanicamente. Suas partes são separadas e penduradas. Há sangue. Muito sangue. Antes disso observávamos o mesmo olhar dos bovinos visto nos alces. E ao mesmo tempo em um humano. Ele observa da janela e sente o sol encostar em sua pele. O bovino também. No pátio, uma recém-chegada foge do sol. Ela tem problemas de comunicação e de viver.

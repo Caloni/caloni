@@ -1,8 +1,11 @@
 ---
-date: "2007-10-24"
+categories:
+- code
+- ccpp
+date: '2007-10-24'
 title: Typeid e os perigos do não-polimorfismo
-categories: [ "code", "ccpp" ]
 ---
+
 Quando usamos o operador typeid geralmente desejamos conhecer informações sobre o tipo exato do objeto que temos em mãos, independente da hierarquia de herança a qual seu tipo pertença. Só que por ignorar, assim como o [sizeof], que esse operador possui duas caras, às vezes damos com os burros n'água e compramos gato por lebre. Não é pra menos. Uma sutil diferença entre classes polimórficas e estáticas pode dar aquele susto que só C++ pode proporcionar.
 
 Eis um exemplo singelo, sem dramatização (com dramatização == "500 linhas de código de produção além do código abaixo").

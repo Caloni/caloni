@@ -1,9 +1,11 @@
 ---
-date: "2010-12-20"
-link: "https://www.imdb.com/title/tt1149361"
-categories: [ "movies" ]
-title: "Micmacs - Um Plano Complicado"
+categories:
+- movies
+date: '2010-12-20'
+link: https://www.imdb.com/title/tt1149361
+title: Micmacs - Um Plano Complicado
 ---
+
 A fotografia fabulosa de [Amélie Poulain] também cabe nessa fábula em que um homem, Bazil (Dany Boon), sofre uma dupla injúria em sua vida: a morte do seu pai por uma mina terrestre e uma bala em sua cabeça durante um tiroteio. Então ele resolve se vingar de ambas com o mesmo plano.
 
 Com os mesmos enquadramentos exagerados como em Amélie, mas sem a sua graça, Jean Pierre parece acreditar que o mesmo modelo pode servir a mais de um filme, e nesse caso parece acertar parcialmente. Digo parcialmente pois, enquanto em Amélie sua infância explique suas constantes fugas da realidade e seu caráter idealista, aqui o herói assume essas características sem possuir um passado que o justifique. Pior, ao ser adotado posteriormente por uma trupe de moradores de rua que parecem ter saído da mente criativa da protagonista do outro filme.

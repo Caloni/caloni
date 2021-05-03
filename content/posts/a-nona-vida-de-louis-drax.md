@@ -1,10 +1,14 @@
 ---
-date: "2016-10-04"
-link: "https://www.imdb.com/title/tt3991412"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Nona Vida de Louis Drax"
+categories:
+- draft
+- movies
+date: '2016-10-04'
+link: https://www.imdb.com/title/tt3991412
+tags:
+- cinemaqui
+title: A Nona Vida de Louis Drax
 ---
+
 Muito cuidado. A Nona Vida de Louis Drax, pela sua premissa, pode se disfarçar facilmente de algo mais bonitinho do que na verdade é. Conta a história de uma criança que vivia sofrendo acidentes trágicos durante toda a infância até ficar em coma no seu nono aniversário. Crianças em coma geralmente remetem a dramas onde os pais estão sempre presentes e a fé de todos colabora para o triunfo de sua recuperação. Aqui não há nada mais distante que isso.
 
 Ou talvez ele contenha, em seu núcleo, alguma semelhança com histórias de superação. Porém, o clima de mistério é tão pesado, que esse thriller psicológico que flerta com o sobrenatural nos mantém mais envolvidos com o mistério por trás do último acidente do garoto do que com o destino do pequeno Louis Drax. Aliás, pequeno é um adjetivo que pode ser aplicado apenas à sua estatura e pouca idade. O personagem interpretado por Aiden Longworth é dotado de grandes observações sobre a vida para uma criança, o uso de ironia e sarcasmo e uma visão fria e pessimista de sua realidade que remete diretamente a por que seu psicólogo é um sujeito de meia-idade, gordo e que está constantemente segurando sua caneca de café (o divertido e comedido Oliver Platt).

@@ -1,10 +1,14 @@
 ---
-date: "2019-07-19"
-link: "https://www.imdb.com/title/tt8263936"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Mistério de Henri Pick"
+categories:
+- draft
+- movies
+date: '2019-07-19'
+link: https://www.imdb.com/title/tt8263936
+tags:
+- cinemaqui
+title: O Mistério de Henri Pick
 ---
+
 O Mistério de Henri Pick é um filme de investigação improvisada, mas ao mesmo tempo dialoga sobre como o marketing pode ser ao mesmo tempo perverso e necessário. "Dois terços dos franceses escrevem, mas ninguém lê", diz um personagem. Há todo um ar melancólico em torno dessa comédia fácil de digerir. Pelo menos na superfície.
 
 Fabrice Luchini faz Jean-Michel Rouche, esse personagem feito para uma comédia de erros, mas ainda assim Luchini mantém sua respeitabilidade. Isso porque Rouche, apesar de vítima das circunstâncias do lançamento de um livro esquecido, enfrenta o exagero da comédia quando sua mulher se separa dele sendo o livro a última gota e é demitido do seu emprego como apresentador de TV. Por texto. Sim, não foi o melhor dos dias para Jean-Michel.

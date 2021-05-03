@@ -1,9 +1,12 @@
 ---
-date: "2016-07-14"
-link: "https://www.imdb.com/title/tt1628841"
-categories: [ "draft", "movies" ]
-title: "Independence Day: O Ressurgimento"
+categories:
+- draft
+- movies
+date: '2016-07-14'
+link: https://www.imdb.com/title/tt1628841
+title: 'Independence Day: O Ressurgimento'
 ---
+
 Mais um remake que uma continuação. Infestado de momentos, diálogos e situações idênticas ao original, "Independency Day: Resurgence" se rende à fórmula que o tornou uma das farofas mais divertidas e rentáveis da década de 90.
 
 Porém, já não estamos mais na época dos cinemas de rua gigantescos, nem da inocência automática do espectador-família. Assisti ao original no finado Cine Marabá, em São Paulo, em uma de suas dezenas de fileiras, entorpecido pelo som surround e pela tela que tornava a imensidão das naves alienígenas intimidadora. Hoje a tela dos kinoplexes da vida torna tudo mais insípido, mas não tão insípido quanto efeitos digitais que carecem de vida, e lembram menos um ataque que possa de verdade acontecer (uma nave com o tamanho de um terço do planeta?? eles estacionam ela no oceano???) do que um video-game cartunesco. Bem, talvez o video-game hoje em dia pensaria bem mais no problema da verossimilhança...

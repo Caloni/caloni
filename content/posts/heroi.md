@@ -1,9 +1,11 @@
 ---
-date: "2012-08-25"
-link: "https://www.imdb.com/title/tt0299977"
-categories: [ "movies" ]
-title: "Herói"
+categories:
+- movies
+date: '2012-08-25'
+link: https://www.imdb.com/title/tt0299977
+title: Herói
 ---
+
 O que torna uma figura histórica, em períodos de guerra, um herói para seu povo? Quais sacrifícios são necessários para que as lembranças desse tempo sejam tão marcantes que acabam por serem inscritas nos extensos pergaminhos e cujas histórias sejam contadas de geração em geração ininterruptamente? É com esses questionamentos, vindos desde o título, e com uma premissa simples de um homem que ajudou o rei a manter sua integridade física, e que por isso, será agraciado pelo seu reino, que Yimou Zhang marca os compassos de sua narrativa impecável que narra através do episódio da unificação da China a história de seres extraordinários e suas ações e sentimentos mais nobres.
 
 Para conseguir o resultado almejado, a estilização é naturalmente forte, e tanto os cenários grandiosos inspiram os sentimentos mais nobres dos personagens quanto as cores de cada ambiente sintetizam a essência dos acontecimentos. Não é preciso dizer muito da história. Os olhares de um elenco afiadíssimo, formado por quatro mestres na luta de espadas, são suficiente para entendermos muito mais das suas personalidades.

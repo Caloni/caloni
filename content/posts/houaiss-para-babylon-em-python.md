@@ -1,8 +1,11 @@
 ---
-date: "2014-02-27"
+categories:
+- draft
+- blog
+date: '2014-02-27'
 title: Houaiss para Babylon em Python!
-categories: [ "draft", "blog" ]
 ---
+
 O [Fabio Montefuscolo](https://gist.github.com/fabiomontefuscolo) expandiu mais ainda o acesso do conversor Houaiss para Babylon implementando uma versão em Python, uma linguagem que estou aprendendo a adorar. Tudo é mais simples, rápido e direto em Python, e o [código que ele escreveu](https://gist.github.com/fabiomontefuscolo/9234485) utiliza todo esse potencial:
 
 ```python
@@ -41,4 +44,3 @@ for arq in files:
     target.close()
 
 ```
-

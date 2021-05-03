@@ -1,8 +1,10 @@
 ---
-date: "2017-03-21"
-categories: [ "draft" ]
-title: "NativeFloripa 2017: Impressões"
+categories:
+- draft
+date: '2017-03-21'
+title: 'NativeFloripa 2017: Impressões'
 ---
+
 A despeito de poucas pessoas envolvidas na organização, o primeiro evento no estilo Encontro CCPPBrasil (sem ser um encontro CCPPBrasil) foi um grande sucesso. Houve um nível de palestras razoável com um público idem. Houve também uma maior participação das pessoas, com perguntas e às vezes quase um debate. Houve café no coffee break, mas mais importante: houve chope artesanal no Happy Hour. E por causa disso não há comparativos com encontros C++ de Sampa e Rio =).
 
 Palestrei duas vezes, sobre engenharia reversa e moedas digitais, nos dois dias do evento (18, 19 de março de 2017, sábado e domingo). Não consegui assistir todas as palestras porque seria fisicamente impossível, já que houve no sábado uma divisão em duas salas. Uma lástima, porque muitas vezes gostaria de ver ambas as palestras que estavam disputando o tempo. No domingo fomos de single-threaded, e infelizmente o nível de informação foi o que ficou mais aquém, com os palestrantes não tendo um domínio muito bom de conteúdos, como interop entre Go e C (que achei horrível), ou houve palestras muito básicas e verborrágicas à toa, como a construção de um exemplo bobo em OpenCV que une key-points (em um código-fonte de gosto discutível).

@@ -1,10 +1,14 @@
 ---
-date: "2016-02-09"
-link: "https://www.imdb.com/title/tt3203606"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Trumbo"
+categories:
+- draft
+- movies
+date: '2016-02-09'
+link: https://www.imdb.com/title/tt3203606
+tags:
+- cinemaqui
+title: Trumbo
 ---
+
 Trumbo tristemente é daqueles filmes que nos esquecemos como foi nos primeiros minutos após a sessão. Felizmente, aquela experiência cinematográfica da viagem no tempo ainda irá entregar ao espectador a doce memória de um personagem tão excêntrico, além de estarmos falando de Cinema, um assunto sempre agradável (mesmo que nesse caso envolva sua pequena dose de política).
 
 O personagem em questão é Dalton Trumbo, interpretado por Bryan Cranston, famoso pela série Breaking Bad e que aqui consegue uma performance relevante de um roteirista de Hollywood que é forçado a deixar de trabalhar por conta de um boicote realizado nos EUA quando, em plena Guerra Fria, havia um movimento contra todo e qualquer envolvimento com a Rússia comunista, vulgo União Soviética.

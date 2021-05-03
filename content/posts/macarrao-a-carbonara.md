@@ -1,9 +1,13 @@
 ---
-date: "2020-04-05"
-categories: [ "food", "home" ]
-tags: [ "recipes" ]
-title: "Macarrão a Carbonara"
+categories:
+- food
+- home
+date: '2020-04-05'
+tags:
+- recipes
+title: Macarrão a Carbonara
 ---
+
 Essa receita foi inventada por um solteiro na Itália, e é muito útil para solteiros no mundo todo. Se for em um restaurante italiano pela primeira vez, siga o conselho do meu amigo, que sempre pede uma Carbonara. Com bacon, queijo, ovos e macarrão na receita, para o restaurante errar essa receita ele terá que ser muito ruim.
 
 Para cada 100g de macarrão, 50g de bacon, 30g de queijo parmesão, picorino ou equivalente, e duas gemas. Pimenta à gosto.

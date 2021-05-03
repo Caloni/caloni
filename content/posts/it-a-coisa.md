@@ -1,9 +1,12 @@
 ---
-date: "2018-12-07"
-link: "https://www.imdb.com/title/tt1396484"
-categories: [ "draft", "movies" ]
-title: "It: A Coisa"
+categories:
+- draft
+- movies
+date: '2018-12-07'
+link: https://www.imdb.com/title/tt1396484
+title: 'It: A Coisa'
 ---
+
 O que é o medo? Eis uma pergunta extremamente importante para os que desejam adaptar a obra icônica de Stephen King, "It", onde o medo é descrito de maneira literária. E abstrata. Ela não é um palhaço aterrorizante, nem criaturas que saem dos quadros, nem qualquer clichê cinematográfico de filmes de horror.
 
 E por isso mesmo esta adaptação do livro conduzida por três roteiristas e idealizada pelo diretor responsável pelo fraco Mama merece uma pequena nota de crédito. Isso porque ela, apesar de usar sim um palhaço aterrorizante e vários outros clichês, reinterpreta tudo isso na mente das crianças assombradas por essa figura de uma maneira simbólica.

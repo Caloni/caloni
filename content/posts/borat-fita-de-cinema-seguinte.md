@@ -1,9 +1,12 @@
 ---
-date: "2020-11-22"
-link: "https://www.imdb.com/title/tt13143964"
-categories: [ "draft", "movies" ]
-title: "Borat: Fita de Cinema Seguinte"
+categories:
+- draft
+- movies
+date: '2020-11-22'
+link: https://www.imdb.com/title/tt13143964
+title: 'Borat: Fita de Cinema Seguinte'
 ---
+
 O novo filme do Borat não consegue ser mais um mockumentary como o primeiro, nem apresenta qualquer crítica aguda ao American Way of Life como o primeiro. Como poderia? É um filme encomendado por uma mega-corporação vendendo streaming internacionalmente, mas fundada em solo americano. É um sistema de troca capitalista, onde ele te entrega algumas risadas em troca de sua alma.
 
 Como o longo título original já denuncia, a historinha gira em torno da entrega da filha de Borat como noiva-presente a algum poderoso do governo americano. O objetivo é colocar a uma vez gloriosa nação do Kazadhstan de volta ao mapa. O plot twist do final faz referência a [Os Supeitos], thriller de investigação com Kevin Spacey dos anos 90. Tudo que há no meio é a descoberta da garota que nos EUA as mulheres podem dirigir (fujam para as colinas) e até votar (até aí os pobres também podem).

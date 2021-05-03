@@ -1,9 +1,12 @@
 ---
-date: "2021-03-07"
-link: "https://www.imdb.com/title/tt9828696"
-categories: [ "draft", "animes" ]
-title: "Ao-chan Can't Study"
+categories:
+- draft
+- animes
+date: '2021-03-07'
+link: https://www.imdb.com/title/tt9828696
+title: Ao-chan Can't Study
 ---
+
 O pai dela é um famoso escritor de livros eróticos e seu próprio nome foi escolhido pelas iniciais das palavras amor e orgia. Disposta a quebrar essa "tradição" na família ela decide se dedicar totalmente ao colégio e aos estudos para fazer uma faculdade bem distante de seu pai.
 
 Ao-chan é o símbolo da repulsa feminina ao instinto libidinoso de todos os homens, que nos leva a falar, agir e imaginar a todo momento formas de enfiar nosso membro do próximo buraco.

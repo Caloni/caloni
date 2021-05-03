@@ -1,10 +1,14 @@
 ---
-date: "2019-10-24"
-link: "https://www.imdb.com/title/tt7534102"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Os Olhos de Cabul"
+categories:
+- draft
+- movies
+date: '2019-10-24'
+link: https://www.imdb.com/title/tt7534102
+tags:
+- cinemaqui
+title: Os Olhos de Cabul
 ---
+
 Os Olhos de Cabul veem tudo, menos que se está falando francês em pleno Afeganistão. Essa animação ganhou o prêmio Um Certo Olhar em Cannes e agora está sendo exibida na Mostra de São Paulo. Uma viagem honesta e sutil de uma realidade crua de uma sociedade tomada pela opressão e violência, mas que vez ou outra surgem seus heróis.
 
 Mas esses heróis estão acabando. As pessoas aprendem o status quo por repetição. Crianças já se divertem jogando pedras onde um cachorro bebe água ou jogando futebol com cordas de enforcamento na trave. Por mais bons que sejam, homens vivendo nesse ambiente se corrompem lentamente. A história contida aqui mostra um pouco desse processo.

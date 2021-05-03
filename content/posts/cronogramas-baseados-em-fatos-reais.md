@@ -1,8 +1,11 @@
 ---
-date: "2011-06-04"
+categories:
+- draft
+- blog
+date: '2011-06-04'
 title: Cronogramas baseados em fatos reais
-categories: [ "draft", "blog" ]
 ---
+
 [Já falei sobre cronogramas](http://www.caloni.com.br/cronograma) por aqui e tudo que disse ainda se aplica. Contudo, comentei brevemente sobre entender seu próprio ritmo, que, instintivamente, sabia ser verdade. Depois que [li um pouco mais sobre técnicas XP/Scrum](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) (que nada mais são do que formalizações do que os programadores Agile perceberam no decorrer dos seus projetos) achei uma fórmula simples para transformar o tempo estimado em tempo realista.
 
 Vejamos o texto original (auto-plágio):

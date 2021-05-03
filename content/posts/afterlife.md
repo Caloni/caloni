@@ -1,10 +1,14 @@
 ---
-date: "2019-10-04"
-link: "https://www.imdb.com/title/tt9310544"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Afterlife"
+categories:
+- draft
+- movies
+date: '2019-10-04'
+link: https://www.imdb.com/title/tt9310544
+tags:
+- cinemaqui
+title: Afterlife
 ---
+
 Afterlife, filme do diretor/roteirista estreante Willem Bosch, é uma experiência leve, mas não divertida, pois usa sua leveza apenas para abordar temas delicados como morte de parentes e suicídio. Sua protagonista é Sam, uma adolescente de 16 anos, e para concebermos como uma história com adolescente e com esses temas delicados pode ser levada adiante sem se tornar um drama pesado passamos a entender por que a abordagem de Bosch é nos deixar à vontade desde o começo com a questão da morte, para logo depois explorar algo além da vida.
 
 Para isso ele utiliza uma narração em off que lembra de maneira muito auto-contida a introdução de filmes como O Fabuloso Destino de Amélie Poulain, onde a música lúdica e os cortes rápidos em sucessão, do nascimento ao crescimento da pequena Sam até a idade dos 14 anos nos faz imaginar que esta é uma aventura mais próxima do romance do que do drama. Porém, nessa idade sua mãe vem a falecer, e então percebemos que o tom do filme é usado para não nos fazer pensar duramente sobre isso, além de que pelo próprio título do filme sabemos que haverá algum tipo de experiência após a morte.

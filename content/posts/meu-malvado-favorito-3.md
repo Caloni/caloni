@@ -1,9 +1,12 @@
 ---
-date: "2017-11-23"
-link: "https://www.imdb.com/title/tt3469046"
-categories: [ "draft", "movies" ]
-title: "Meu Malvado Favorito 3"
+categories:
+- draft
+- movies
+date: '2017-11-23'
+link: https://www.imdb.com/title/tt3469046
+title: Meu Malvado Favorito 3
 ---
+
 Esta é uma continuação nos mesmos moldes do primeiro e do segundo filme. O mesmo estilo de piada nos acompanha, seja de Gru, de Agnes, das outras meninas, da sua agora namorada, e agora do seu irmão gêmeo e um vilão que, ao contrário do primeiro moderninho Vetor, agora é um bandido ao estilo anos 80. E também descobrimos que o pai de Gru era um vilão estilo anos 60, digno dos filmes de James Bond. Ou Austin Powers.
 
 Todo esse emaranhado é traçado por um fiapo de história que está interessado principalmente nas piadas. E elas funcionam. Principalmente com os Minions. Criaturinhas curiosas, essas. Parecem um receptáculo das piadas mais escrotas que poderiam estar em um desenho animado. E elas funciona. Pelo menos para os adultos mais crianças, ou as crianças mais adultas.

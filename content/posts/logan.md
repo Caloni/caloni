@@ -1,9 +1,12 @@
 ---
-date: "2017-03-05"
-link: "https://www.imdb.com/title/tt3315342"
-categories: [ "draft", "movies" ]
-title: "Logan"
+categories:
+- draft
+- movies
+date: '2017-03-05'
+link: https://www.imdb.com/title/tt3315342
+title: Logan
 ---
+
 O diretor e roteirista James Mangold apresenta um fechamento de personagem que soa estranho aos fãs da Marvel mais coloridos e menos afoitos com a dura realidade da vida: pessoas morrem nesses filmes.
 
 Logan é o filme que nunca foi filmado sobre os X-Men, talvez pela falta de oportunidade de transformar o bonito discurso em defesa dos gays para um discurso não-tão-bonito em defesa dos imigrantes. Hoje Trump é o presidente da nação mais poderosa do planeta e há na cabeça atônita dos liberais americanos tons alegóricos políticos pálidos o suficiente para tratar dessa questão. Além disso, este é um filme que se passa no universo onde existem mutantes (assim como existem imigrantes), mas onde ninguém mais quer saber deles (assim como os imigrantes).

@@ -1,9 +1,11 @@
 ---
-date: "2020-10-04"
-link: "https://www.crunchyroll.com"
-categories: [ "blog" ]
-title: "Crunchyroll"
+categories:
+- blog
+date: '2020-10-04'
+link: https://www.crunchyroll.com
+title: Crunchyroll
 ---
+
 Comecei a compartilhar a assinatura do Crunchyroll com uma amiga e comecei a explorar a ideia fixa na minha cabeça (não-original [^1]) de que é possível analisar animes (ou qualquer obra audiovisual) pelos seus primeiros minutos ou episódios. Então estou fazendo isso pulando animes aleatoriamente enquanto vejo qual deles pode ser interessante.
 
 Bom, quase aleatoriamente. Obras muito populares não me interessam, assim como temas manjados (ao menos por enquanto), como animes de lutas. Por enquanto estou focando no que tem me atraído o interesse: a visão dos japoneses sobre relacionamentos. E o que mais abunda em animes são os relacionamentos na fase do colégio.

@@ -1,9 +1,12 @@
 ---
-date: "2019-09-09"
-link: "https://www.imdb.com/title/tt8075192"
-categories: [ "draft", "movies" ]
-title: "Assunto de Família"
+categories:
+- draft
+- movies
+date: '2019-09-09'
+link: https://www.imdb.com/title/tt8075192
+title: Assunto de Família
 ---
+
 O que é uma família? O que transforma os laços de sangue em laços afetivos? Apenas o costume de ter essas pessoas junto de você? Para responder podemos apelar para a herança e as semelhanças genéticas, e não me refiro apenas à aparência, mas comportamento. Para alguns a resposta é óbvia: todos vivem na mesma casa. E se fizermos um teste de regressao concluiremos que não temos como escolher com quem passaremos os primeiros anos de nossa vida. Essa sensação gera um pouco de impotência, se for pensar.
 
 Hirokazu Koreeda, o diretor naturalista de Afterlife, e que fala sobre famílias não-tradicionais em Depois da Tempestade, faz agora um filme que parte da premissa de pessoas que precisam estar o tempo todo ganhando a vida para sobreviver, às vezes em trabalhos de meio-período, outras em pequenos roubos em mercadinhos de bairro. Ninguém Pode Saber, outro filme de Koreeda, também explora essa forma não-convencional de viver, onde uma mãe tentava acobertar seus vários filhos vivendo sozinhos enquanto ela saía para trabalhar. Mas em Assunto de Família há uma diferença: os membros dessa família foram se unindo pelas circunstâncias, e talvez por isso mesmo se mantiveram juntos de verdade.

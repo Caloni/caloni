@@ -1,8 +1,11 @@
 ---
-date: "2015-01-26"
-categories: [ "code", "ccpp" ]
-title: "Origem do Tipo char"
+categories:
+- code
+- ccpp
+date: '2015-01-26'
+title: Origem do Tipo char
 ---
+
 Programadores C e C++, preparem-se para explodir as cabeças! No princípio... não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados srs. dos Laboratórios Bell, K. Thompson e [D. Ritchie], criaram uma linguagem chamada B. E B era bom.
 
 O bom de B estava em sua rica expressividade. Sua gramática extremamente simples. Teoricamente a evolução da [linguagem BCPL] criada por Martin Richards, ela era tão simples que o [manual da linguagem B] consistia de apenas 30 páginas. Isso é menos do que as 32 palavras reservadas de C. As instruções eram definidas em termos de if's e goto's e as variáveis eram definidas em termos de um padrão de bits de tamanho fixo, geralmente a palavra da plataforma, que utilizada em expressões definiam seu tipo; esse padrão de bits era chamado rvalue.

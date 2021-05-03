@@ -1,9 +1,11 @@
 ---
-date: "2020-06-21"
-link: "https://t.me/progclucb/29383"
-categories: [ "blog" ]
-title: "Teoria, Prática e Código"
+categories:
+- blog
+date: '2020-06-21'
+link: https://t.me/progclucb/29383
+title: Teoria, Prática e Código
 ---
+
 Quando se está aprendendo programação é muito bom praticar escrevendo código. Muitos querem aprender a programar e não começam programando, e se você já começou colocando a mão na massa, parabéns por isso.
 
 Agora, para avançar nos estudos, além da prática, a teoria tem que avançar. E teoria vai além dos estudos de livros e vídeo-aulas. É possível aprender muito mais rápido lendo o código dos outros, disponível aos milhões pela internet. A vinda do GitHub veio para democratizar esse acesso e descomplicar os caminhos de colaboração. Agora você pode encontrar um bug no código de uma pessoa do outro lado do mundo e mandar a correção para todos envolvidos no projeto validarem. O quão sensacional é isso?

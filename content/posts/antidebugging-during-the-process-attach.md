@@ -1,8 +1,11 @@
 ---
-date: "2008-08-05"
+categories:
+- draft
+- code
+date: '2008-08-05'
 title: Antidebugging during the process attach
-categories: [ "draft", "code" ]
 ---
+
 Today was a great day for reverse engineering and protection analysis. I've found two great programs to to these things: a [API call monitor](http://www.kakeeware.com/) and a [COM call monitor](http://www.blunck.info/comtrace.html). Besides that, in the first program site - from a enthusiastic of the good for all Win32 Assembly - I've found the source code for one more antidebugging technique, what bring us back to our series of [antidebugging techniques](http://www.caloni.com.br/blog/?s=antidebug%3A).
 
 #### The antiattaching technique

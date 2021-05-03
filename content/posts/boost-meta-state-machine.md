@@ -1,8 +1,11 @@
 ---
-date: 2018-05-21T00:23:49-03:00
-title: "Boost Meta State Machine"
-categories: [ "draft", "blog" ]
+categories:
+- draft
+- blog
+date: 2018-05-21 00:23:49-03:00
+title: Boost Meta State Machine
 ---
+
 O Boost Meta State Machine (MSM for short) é uma das duas bibliotecas mais famosinhas de state machine do Boost. Ela é uma versão estática que permite incluir chamadas para as entradas e saídas de um estado baseado em eventos. A sua principal vantagem é poder visualizar toda a máquina de estado em um só lugar, e sua principal desvantagem é pertecer ao Boost, o que quer dizer que você vai precisar fazer seu terceiro doutorado e ler uma documentação imensa sobre UML antes de conseguir produzir alguma coisa. Ou ler este artigo de 10 minutos tops.
 
 ```

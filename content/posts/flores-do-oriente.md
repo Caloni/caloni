@@ -1,9 +1,11 @@
 ---
-date: "2012-08-06"
-link: "https://www.imdb.com/title/tt1410063"
-categories: [ "movies" ]
-title: "Flores do Oriente"
+categories:
+- movies
+date: '2012-08-06'
+link: https://www.imdb.com/title/tt1410063
+title: Flores do Oriente
 ---
+
 O diretor Yimou Zhang, desde seu Clã das Adagas Voadoras (2004), parece não ter perdido seu ar "afetado" de expor o horror da guerra de maneira estilada e "gore". O problema é que em Flores do Oriente esse estilo não possui espaço, pois é um drama que envolve meninas encarceradas em um convento no meio da ocupação japonesa, um grupo de meretrizes que acabam se refugiando no mesmo lugar, e um agente funerário (Cristian Bale), com uma inclinação em beber sem parar e tentar ser engraçado e espirituoso, mesmo que seja para um bando de crianças.
 
 De qualquer forma, estarmos em um cenário de guerra não justifica vermos balas constantemente atravessando janelas e, em câmera lenta, vislumbrarmos em meio a partículas em suspensão (de vidro) o pescoço atingido de uma vítima espirrar na face de outra. Esse tipo de "humor" se vê em filmes como [O Albergue].

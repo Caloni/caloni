@@ -1,9 +1,12 @@
 ---
-date: "2017-12-11"
-link: "https://www.imdb.com/title/tt3402236"
-categories: [ "draft", "movies" ]
-title: "Assassinato no Expresso do Oriente"
+categories:
+- draft
+- movies
+date: '2017-12-11'
+link: https://www.imdb.com/title/tt3402236
+title: Assassinato no Expresso do Oriente
 ---
+
 Hercule Poirot de Kenneth Branagh sem dúvida alguma é uma das melhores caracterizações do personagem de Agatha Christie. Olhe seu perfeito e grandioso (e simétrico!) bigode. Ouça seu sotaque belga definindo sua personalidade através do seu rápido raciocínio e sua maneira de enxergar o mundo. "Existe o certo e o errado. E no meio não há nada." Tire este Poirot e a história e produção irão rápido demais para o filme terminar são e salvo.
 
 Bom, esta segunda reencarnação nos cinemas do livro homônimo da Rainha do Crime tenta subverter sua noção (e a de Poirot) de que só há o certo e o errado. Como consequência distorce a alma do próprio detetive, compensando as "almas fraturadas" a bordo de um luxuoso embora apertado trem. Neste filme não se trata de fazer justiça, pois a noção de justiça é subvertida pelos tempos atuais, concluindo que de fato há alguma coisa entre o certo e o errado: o... bom senso?

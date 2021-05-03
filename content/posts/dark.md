@@ -1,9 +1,12 @@
 ---
-date: "2018-01-30"
-link: "https://www.imdb.com/title/tt5753856"
-categories: [ "draft", "series" ]
-title: "Dark"
+categories:
+- draft
+- series
+date: '2018-01-30'
+link: https://www.imdb.com/title/tt5753856
+title: Dark
 ---
+
 Mais uma produção enlatada da Netflix, mas dessa vez as pessoas falam alemão. É um conto alemão, em uma cidadezinha no interior da Alemanha, com muitos jovens em um colégio e uma fotografia sombria. Um prefácio anuncia que acontecimentos fantásticos irão ocorrer (Stranger Things feelings). Esses acontecimentos irão mexer com nossa noção do tempo. E de fato mexem: ao final do primeiro episódio de 50 minutos a sensação é ter visto um filme de três horas onde nada acontece.
 
 Dark é uma produção que tem por objetivo copiar alguns formatos já consagrados nas séries atuais de um mistério que será solucionado no final, e que depende de cliff hangers por todos os lados. A história é de uns garotos desaparecidos, um recentemente e o outro 30 anos atrás, e a série parece demorar esses mesmos 30 anos para finalmente mostrar um acontecimento fantástico: o garoto de 30 anos atrás parece ter viajado no tempo, para o futuro, justamente quando um outro garoto desaparece.

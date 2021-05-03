@@ -1,10 +1,14 @@
 ---
-date: "2016-11-22"
-link: "https://www.imdb.com/title/tt5341098"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Filho Eterno"
+categories:
+- draft
+- movies
+date: '2016-11-22'
+link: https://www.imdb.com/title/tt5341098
+tags:
+- cinemaqui
+title: O Filho Eterno
 ---
+
 O Filho Eterno é mais uma incursão no mundo das pessoas com Síndrome de Down. Ao ouvir disso, no Brasil, nos lembramos de Colegas, de 2012, cuja produção tem um coração gigante, mas sua realização carece dos preceitos básicos que tornam o Cinema um contador de histórias eficiente. Aqui temos o livro de Cristovão Tezza por trás da história, o que torna seu arco dramático um pouco mais ajeitado. Porém, mesmo assim, além das dificuldade de se adaptar uma obra literária que usa simbolismos demais, há muito o que aprender quando se trabalha com atores que possuem um distúrbio genético que os limitam por natureza.
 
 A história percorre o período de 12 anos em que a seleção brasileira de futebol logrou seu tetracampeonato, sempre decepcionando nas partidas finais. Acompanhamos a empolgação e preocupação de Roberto (Marcos Veras) durante o nascimento de seu primeiro filho, Fabrício (Pedro Vinícius). O garoto nasceu em 1982, no dia do jogo entre Brasil e Itália. A despeito de ser considerada uma das melhores partidas de futebol da história em uma Copa do Mundo, o Brasil foi eliminado por 3 a 2 graças ao fenômeno italiano de Paolo Rossi, que emplacou três maravilhosos gols na defesa brasileira. Já iniciando com este singelo e eficiente simbolismo, e como veremos no filme, tanto a empolgação inocente de Fabrício quanto a decepção crescente de Roberto criarão essa sensação bipolar da realidade, onde para Roberto ter um "filho defeituoso" foi a pior coisa que aconteceu em sua vida.

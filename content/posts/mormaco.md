@@ -1,10 +1,14 @@
 ---
-date: "2019-04-18"
-link: "https://www.imdb.com/title/tt8169178"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Mormaço"
+categories:
+- draft
+- movies
+date: '2019-04-18'
+link: https://www.imdb.com/title/tt8169178
+tags:
+- cinemaqui
+title: Mormaço
 ---
+
 Mormaço tem a cara da ficção do documentário Favela Olímpica. Ambos são sobre as consequências das Olimpíadas no panorama da desigual cidade do Rio de Janeiro. E ambos chegam atrasados aos cinemas, mas felizmente (ou infelizmente) sem perder a atualidade.
 
 O tema escolhido pela diretora Marina Meliande lembra muito o que o cineasta Kleber Mendonça Filho discute em seus filmes sobre o sistema opressivo do poder que esmaga as relações sociais e desencadeia uma degradação lenta, mas fatal, da sociedade como um todo. Porém, a visão que Marina nos traz se distancia de O Som ao Redor ou Aquarius (para citar trabalhos de Mendonça) porque ela traz um nível de humanidade que se materializa no problema principal, conseguindo assim um poder de síntese admirável.

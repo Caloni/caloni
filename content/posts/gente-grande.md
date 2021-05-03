@@ -1,9 +1,11 @@
 ---
-date: "2010-09-24"
-link: "https://www.imdb.com/title/tt1375670"
-categories: [ "movies" ]
-title: "Gente Grande"
+categories:
+- movies
+date: '2010-09-24'
+link: https://www.imdb.com/title/tt1375670
+title: Gente Grande
 ---
+
 As piadas do filme parecem internas e da vida real ("você aumentou o número do sutiã?", pergunta Sandler para seu amigo recém-chegado que aparentemente engordou mais que ele, ou "dessa vez vc trouxe a mãe", se referindo ao cachorro em seu carro), ou, pior: elas foram achadas pelo google. No entanto, aparentemente os realizadores do filme acham elas estupidamente engraçadas, pois estão sempre inseridas em momentos de clímax.
 
 Por outro lado, o resto das gags é baseado naqueles momentos "videocassetadas" em que alguma pessoa se machuca fisicamente e as outras dão altas risadas, mesmo que essa pessoa seja seu próprio filho pré-adolescente e que você tenha jogado uma pedra nele com toda a força.

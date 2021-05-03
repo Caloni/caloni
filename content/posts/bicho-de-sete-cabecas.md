@@ -1,9 +1,12 @@
 ---
-date: "2019-05-11"
-link: "https://www.imdb.com/title/tt0263124"
-categories: [ "draft", "movies" ]
-title: "Bicho de Sete Cabeças"
+categories:
+- draft
+- movies
+date: '2019-05-11'
+link: https://www.imdb.com/title/tt0263124
+title: Bicho de Sete Cabeças
 ---
+
 Para comemorar o dia anti-maniconial (que nominho desgraçado) nada como assistir Bicho de Sete Cabeças, que é baseado em um caso real de um jovem internado em um sanatório porque dava uns tapinhas na pantera.
 
 O filme tem cenas de sobra demonstrando o caos da sociedade brasileira conservadora da época. Othon Bastos faz o papel do pai gente direita que quer colocar o filho no eixo. O filho, interpretado por Rodrigo Santoro, é um vida boa, jovenzinho que está aí só curtindo com os amigos. E a mãe, Cássia Kis, é essa submissa padrão que sofre em silêncio.

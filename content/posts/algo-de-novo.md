@@ -1,9 +1,12 @@
 ---
-date: "2017-12-14"
-link: "https://www.imdb.com/title/tt6085308"
-categories: [ "draft", "movies" ]
-title: "Algo de Novo"
+categories:
+- draft
+- movies
+date: '2017-12-14'
+link: https://www.imdb.com/title/tt6085308
+title: Algo de Novo
 ---
+
 Esta comédia italiana sobre o mundo feminino de meia-idade brinca entre os estereótipos da moça séria que quer achar o cara sério depois da desilusão de sua vida e sua amiga mãe solteira que fala em poder ficar sem encostar nos homens como um copo de uísque para um alcoólatra. Sua maior virtude são as duas atrizes por trás dessas duas "garotas" problemáticas. Elas parece especialistas em fazer comédia. Não são exageradas além do limite apesar de conhecer os limites para comédias românticas. O rapaz que contracena com elas está aí para mostrar o oposto, de que o exagero sempre prejudica o equilíbrio das relações.
 
 Mas não podemos culpá-lo, são seus hormônios. Ele tem 20 anos a menos que as moças com quem se relaciona.

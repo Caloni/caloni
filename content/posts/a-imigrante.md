@@ -1,9 +1,12 @@
 ---
-date: "2016-11-17"
-link: "https://www.imdb.com/title/tt1951181"
-categories: [ "draft", "movies" ]
-title: "Era Uma Vez em Nova York"
+categories:
+- draft
+- movies
+date: '2016-11-17'
+link: https://www.imdb.com/title/tt1951181
+title: Era Uma Vez em Nova York
 ---
+
 A Imigrante é filmada como um épico, e apresenta, assim como Era Uma Vez Na América, um retrato depressivo e opressivo da imigração americana no começo do século 19. Além disso, não fornece muitos pontos de escape desse universo angustiante, se tornando portanto uma experiência pesada, ainda que bela e que figurada por grandes atores.
 
 A história gira em torno do destino de Ewa Cybulska, uma polonesa fugida da guerra após a morte dos seus pais que, junto da irmã, tentam a sorte em um navio para Nova York. Porém, mal chegaram e a irmã, adoecida, é colocada em quarentena na ilha de Ellis, conhecida historicamente pelos maus tratos aos imigrantes e que gerou diversas mortes e desesperança. Quando a permanência de Ewa na terra da liberdade também é colocada em xeque, surge a figura pouco simpática, ainda que educada, de Bruno Weiss, um homem de contatos e que coordena dançarinas em um teatro que vende bebidas e mulheres de maneira clandestina.

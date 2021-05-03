@@ -1,9 +1,11 @@
 ---
-date: "2015-10-07"
-link: "https://www.imdb.com/title/tt1692486"
-categories: [ "movies" ]
-title: "Deus da Carnificina"
+categories:
+- movies
+date: '2015-10-07'
+link: https://www.imdb.com/title/tt1692486
+title: Deus da Carnificina
 ---
+
 Deus da Carnificina só funciona tão bem porque as pessoas que nele estão continuam sendo elas mesmas até o fim, e usam personalidades extremamente triviais, que fazem parte do dia-a-dia de qualquer um (ainda mais nas infinitas discussões de internet). Não há seres complexos demais neste filme, mas ideias antagônicas construídas através de quatro performances que ecoam até a duração do próximo argumento. Não há agressão física que consiga se comparar a um embate de ideias que, diferente dessa, nunca termina quando um dos lados cai no chão.
 
 Dirigido por Roman Polanski, que adaptou uma peça de teatro junto da sua escritora, Yasmina Reza, este é, junto do recente A Pele de Vênus, um trabalho intimista, concentrado em um espaço fechado onde poucos atores contracenam e possuem interação e tempo de tela suficiente para desbravar seus personagens até seus limites, que é o que ironicamente acontece após se reunirem depois que o filho de um dos casais bate no filho de outro casal. A cena é mostrada nos créditos iniciais, e é apenas isso que nos é revelado até então. De repente, somos jogados para a tela de computador da prática Penelope Longstreet compilando um testemunho do que aconteceu com seu filho e o do casal ao lado.

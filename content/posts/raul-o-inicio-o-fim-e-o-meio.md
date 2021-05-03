@@ -1,9 +1,11 @@
 ---
-date: "2012-03-28"
-link: "https://www.imdb.com/title/tt1784599"
-categories: [ "movies" ]
-title: "Raul: O Início, o Fim e o Meio"
+categories:
+- movies
+date: '2012-03-28'
+link: https://www.imdb.com/title/tt1784599
+title: 'Raul: O Início, o Fim e o Meio'
 ---
+
 "Raul" é um tipo de experiência cinematográfica que faz pensar em muitas coisas, mas que ao mesmo tempo consegue extrair a essência do Maluco Beleza em todos os sentidos de sua vida e de sua filosofia. Dessa forma, temos um protagonista forte, ainda que ausente.
 
 O filme te transporta facilmente para o universo de Raulzito pelo simples fato dos depoimentos de pessoas muito próximas do ídolos praticamente se abrirem com respeito a sentimentos, sensações e impressões que nos dão uma noção muito boa do que era conviver com o cantor. Os cortes rápidos, nunca permitindo que um entrevistado monopolize o tempo, e sim oscilando entre imagens de arquivo que ilustram a narrativa naquele momento, ampliam a experiência áudio-visual. Sim, pois a música não está apenas presente por se tratar da biografia de um cantor, mas é parte conjunta e essencial da narrativa.

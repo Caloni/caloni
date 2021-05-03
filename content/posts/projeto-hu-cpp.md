@@ -1,8 +1,10 @@
 ---
-date: "2020-03-15"
-categories: [ "code" ]
-title: "Projeto Hu Cpp"
+categories:
+- code
+date: '2020-03-15'
+title: Projeto Hu Cpp
 ---
+
 Utilizo o Hugo como renderizador do meu saite já faz um tempo. Depois que juntei os posts do finado Cine Tênis Verde e do meu blogue técnico a soma dos textos ultrapassou a marca dos dois mil. Atualmente levo cerca de quinze segundos para renderizar todo o saite antes de publicá-lo.
 
 Não é uma marca ruim, considerando que estamos com quase três mil textos, e embora o leiaute do saite seja muito simples, é justamente o que eu desejo para rápido carregamento e busca. Não tenho do que reclamar.

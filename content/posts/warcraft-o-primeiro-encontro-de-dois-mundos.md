@@ -1,9 +1,12 @@
 ---
-date: "2016-08-08"
-link: "https://www.imdb.com/title/tt0803096"
-categories: [ "draft", "movies" ]
-title: "Warcraft: O Primeiro Encontro de Dois Mundos"
+categories:
+- draft
+- movies
+date: '2016-08-08'
+link: https://www.imdb.com/title/tt0803096
+title: 'Warcraft: O Primeiro Encontro de Dois Mundos'
 ---
+
 Warcraft consegue manter o tema de estratégia de guerra do jogo viva no filme; de quebra, exibe um dos melhores efeitos visuais do ano. Não aquele que impressiona por impressionar, mas o que está a serviço da narrativa. E com uma história para contar, ainda consegue estar à altura dos melhores trabalhos da produtora desse e outros games. A Blizzard, pelo jeito, não se cansa de impressionar.
 
 Baseado em um video-game de RTS (Real Time Strategy, ou Estratéga de Tempo Real), que mais tarde se tornou um RPG consagrado, a história gira em torno dos detalhes de jogabilidade, como o uso da magia em ambas as raças, o poder guerreiro dos orcs, além de seu respeito incondicional às suas tradições, e a habilidade na política dos seres humanos.

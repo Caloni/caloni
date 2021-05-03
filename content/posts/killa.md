@@ -1,9 +1,12 @@
 ---
-date: "2016-12-04"
-link: "https://www.imdb.com/title/tt3341582"
-categories: [ "draft", "movies" ]
-title: "Killa"
+categories:
+- draft
+- movies
+date: '2016-12-04'
+link: https://www.imdb.com/title/tt3341582
+title: Killa
 ---
+
 Killa é um drama indiano de uma criança e se passa em uma cidadezinha, girando em torno das amizades do garoto na escola. É pesadamente regional, necessário ter um pouco de conhecimento dos costumes de lá, e o próprio drama é desenvolvido pelo diretor Avinash Arun de uma maneira hermética, quase impossível de tirar alguma moral, parecendo aqueles filmes que são sobre uma experiência sem maiores consequências. Felizmente, em seu terceiro ato, lá no finalzinho, ganhamos algo. O arco está cumprido.
 
 A interpretação do pequeno Archit Deodhar, aliás, cabe perfeitamente aqui. Ele é um garoto introvertido, que consegue ser capaz de atos generosos -- como salvar um cãozinho atormentado pelos meninos da vila -- ou ao menos seus atos podem soar generosos vistos por alguém de fora (nós, espectadores). Quando um ato é o oposto disso, como dizer que a comida dos anfitriões cheira mal, todos estão presentes. Da mesma forma, seu personagem, Chinmay, é mimado e trata sua mãe como criada. Ela sequer tem um nome no filme, e é personificada pela atriz Amruta Subhash como uma sombra apagada.

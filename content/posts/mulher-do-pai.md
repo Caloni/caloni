@@ -1,10 +1,14 @@
 ---
-date: "2017-06-13"
-link: "https://www.imdb.com/title/tt6032376"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Mulher do Pai"
+categories:
+- draft
+- movies
+date: '2017-06-13'
+link: https://www.imdb.com/title/tt6032376
+tags:
+- cinemaqui
+title: Mulher do Pai
 ---
+
 Apesar do que sugere o nome e a sinopse exagerada, Mulher do Pai é um estudo delicado e sutil sobre amadurecimento dos mais jovens, algo que não estamos mais acostumados a ver em um mundo cada vez mais conectado. De fora dessa aldeia global há ainda pequenos mundos rurais. E dentro desses mundos há a possibilidade de revisitarmos o bê-a-bá do crescimento humano.
 
 E é claro que o filme, como sugere o nome, gira em torno de sexo proibido, ou pelo menos do seu desejo e curiosidade. "Sexo é o que nos aproxima" talvez fosse a frase que resume este filme, mas há muito pouco dele na história, que gira mais em torno do toque, principalmente onde falta o olhar. A protagonista é Nalu (Maria Galant), uma garota de 16 anos que vive com seu pai, Ruben (Marat Descartes), que não consegue enxergar devido a uma doença desde seus 20 e poucos anos. Quando a avó de Nalu vem a falecer os dois passam a morar sozinhos, o que obriga uma maior comunicação entre eles.

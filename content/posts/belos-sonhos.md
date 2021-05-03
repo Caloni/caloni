@@ -1,10 +1,14 @@
 ---
-date: "2016-12-19"
-link: "https://www.imdb.com/title/tt4746506"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Belos Sonhos"
+categories:
+- draft
+- movies
+date: '2016-12-19'
+link: https://www.imdb.com/title/tt4746506
+tags:
+- cinemaqui
+title: Belos Sonhos
 ---
+
 Belos Sonhos é uma verdadeira homenagem e uma investigação sobre essa relação tão íntima, possessiva e determinadora de caráter entre uma criança e sua mãe italiana, a figura eterna da mama. Sutil e visual, se transforma em um trabalho equilibrado, embora intenso, como todo bom filme italiano deve ser.
 
 Aplicando elementos universais da relação quase universal entre uma mãe e seu filho, o filme começa com uma fotografia belíssima, um jogo de luzes que eterniza a relação entre o pequeno Massimo (Nicolò Cabras) e sua bela e jovem mãe (Barbara Ronchi). Os elementos são universais porque conhecemos apenas o nome do garoto, o mesmo do livro de onde foi baseado o filme (e cujo autor é Massimo Gramellini). Portanto, Massimo é o núcleo absoluto da história, por onde orbitam seu pai (Guido Caprino), mãe, e lá na frente, eu grande amor, Elisa (Bérénice Bejo).

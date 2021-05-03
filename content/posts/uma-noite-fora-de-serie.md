@@ -1,9 +1,12 @@
 ---
-date: "2016-04-22"
-link: "https://www.imdb.com/title/tt1279935"
-categories: [ "draft", "movies" ]
-title: "Uma Noite Fora de Série"
+categories:
+- draft
+- movies
+date: '2016-04-22'
+link: https://www.imdb.com/title/tt1279935
+title: Uma Noite Fora de Série
 ---
+
 Esse filme é uma bagunça de dois gêneros. Ele começa como uma comédia romântica um tanto dramatizada a respeito de como o tempo -- e filhos, e rotina, e a velhice -- desgasta um relacionamento. Há piadas com certeza inspiradas na vida real de alguns dos participantes na criação do filme, pois ele se alimenta do lugar-comum e consegue trazer simpatia para esse lado.
 
 O outro lado é um filme de ação policial que sempre soa artificial e muito exagerado. Com a participação de um elenco secundário de luxo -- Mark Wahlberg, Kristen Wiig, Mark Ruffalo, James Franco, Mila Kunis -- essa parte nunca nos dá a sensação de perigo ou de situação insolúvel. Dá mais a sensação de enlatado. A trilha sonora colabora imensamente com isso, com seu tom genérico.

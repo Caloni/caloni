@@ -1,10 +1,14 @@
 ---
-date: "2018-02-17"
-link: "https://www.imdb.com/title/tt1590193"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Passageiro"
+categories:
+- draft
+- movies
+date: '2018-02-17'
+link: https://www.imdb.com/title/tt1590193
+tags:
+- cinemaqui
+title: O Passageiro
 ---
+
 O Passageiro lembra uma retrospectiva ou uma síntese dos últimos 10 anos no planeta Terra, desde a crise de 2008 até a crescente demonização das grandes corporações frente à classe trabalhadora (se você já ouviu falar do termo "1%" sabe do que estou falando). O resultado é um filme de ação que pode ser visto ou como "antenado" ou ultrapassado, dependendo do quanto você já foi bombardeado por filmes contra o sistema. Aliás, eu nem sei mais se o sistema continua sendo o vilão da vez, mas é o que o filme sugere. No final das contas, desconfio que o único motivo real desse filme é ver Liam Neeson de volta à ação.
 
 E aqui ele retorna mais uma vez como o cara que tem que proteger sua família. Para isso seu incentivo inicial, como para muitos de nós, é o dinheiro. Mas algo ocorre no caminho e ele acaba caindo no dilema do sacrifício para "fazer a coisa certa". E ele já está sendo testado desde o começo. Vemos uma bela introdução que usa repetições do dia-a-dia para ilustrar a rotina de uma família e seus desafios cotidianos. No final dela sabemos que ele é um ex-policial (claro) que está trabalhando por 10 anos como vendedor de seguros para uma mega-corporação (claro) para sustentar sua família. Ele obviamente acaba sendo demitido, 5 anos antes de sua aposentadoria, e com duas hipotecas e a faculdade do filho para pagar você imagina que ele não ficou muito feliz por ter feito a coisa certa nos últimos 10 anos.

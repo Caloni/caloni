@@ -1,8 +1,11 @@
 ---
-date: "2009-09-09"
-title: "O boot no Windows: pré-NTLDR"
-categories: [ "draft", "code" ]
+categories:
+- draft
+- code
+date: '2009-09-09'
+title: 'O boot no Windows: pré-NTLDR'
 ---
+
 Conforme fui estudando para recordar os momentos sublimes do boot do Windows me deparei com o artigo mais "espetaculoso" de todos os tempos sobre esse assunto, parte integrante do livro [Windows Internals](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=Windows+Internals&site_origem=1293522) e escrito pelo nada mais nada menos Mark Russinovich: **Boot Process**, no capítulo 5, "Startup and Shutdown".
 
 O meu [primeiro artigo](http://www.caloni.com.br/o-boot-no-windows-sem-windows) sobre o boot sem Windows foi 80% escrito com o que eu já sabia de cabeça de tanto [mexer na MBR](http://www.caloni.com.br/depuracao-da-mbr)  e de tanto [depurar o processo de boot em 16 bits](http://www.caloni.com.br/debug-da-bios-com-o-softice-16-bits). Os artigos posteriores seriam escritos com uma pitada do que sei mais a "inspiração" da minha pesquisa. Apesar de não parecer pouco para os que não sabem inglês, deixa a desejar para os que sabem (boa parte dos meus leitores, imagino).

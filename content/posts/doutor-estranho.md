@@ -1,9 +1,12 @@
 ---
-date: "2016-11-17"
-link: "https://www.imdb.com/title/tt1211837"
-categories: [ "draft", "movies" ]
-title: "Doutor Estranho"
+categories:
+- draft
+- movies
+date: '2016-11-17'
+link: https://www.imdb.com/title/tt1211837
+title: Doutor Estranho
 ---
+
 Algo vem me incomodando nos filmes da Marvel. Algo que normalmente passa batido em outros filmes menores: não há personagem nenhum nas histórias, exceto seu herói protagonista. Às vezes um vilão. Aqui há apenas um inicial anti-herói, cercado de pessoas que estão aí para falar o resto dos diálogos. São coadjuvantes. Normalmente possuem funções mais elaboradas do que descrever o universo onde se passa a história ou como o personagem é desagradável com as pessoas. Mas aqui fazem apenas isso. Mais um trampolim para mais um herói em uma grande cidade sitiada de supers. Dessa vez com magia.
 
 Além disso, há a velha "forçação" de barra desse universo populado por Vingadores, Homens-Aranhas, deuses nórdicos e sei lá mais o quê com poderes especiais. São tantos poderes e tantos personagens que sempre aparece no ar a "leve" impressão de que tudo isso não faz o menor sentido. De qualquer forma, aqui estamos falando de multiversos (múltiplos universos) e forças ocultas da natureza que meros "mortais" como Homem de Ferro, Capitão América e Thor (ele é mortal?) não conseguiriam controlar contra as forças do mal.

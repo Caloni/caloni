@@ -1,10 +1,14 @@
 ---
-date: "2018-02-10"
-link: "https://www.imdb.com/title/tt7115328"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Paulistas"
+categories:
+- draft
+- movies
+date: '2018-02-10'
+link: https://www.imdb.com/title/tt7115328
+tags:
+- cinemaqui
+title: Paulistas
 ---
+
 Paulistas é daqueles documentários "raiz", onde observar é vital. Estamos em um vórtex do tempo que se abre levemente e revela um mundo onde ninguém da cidade grande está acostumado. E no processo algo muito inspirador vai acontecendo: impera a paz, o simples, o cotidiano e milenar. Tudo junto. Uma ode às nossas origens sem apelar para o apelo emocional e clichê da ecologia.
 
 A base da história é que desde 2014 não há jovens habitando a região de Paulistas e Soledade, no sul de Goiás. O diretor Daniel Nolasco é de Paulistas. A maior parte dos "personagens" são parentes de primeiro ou segundo grau. O foco da narrativa gira em torno de três irmãos -- Samuel, Vinícius e Rafael -- que dividem o filme em três partes bem abstratas.

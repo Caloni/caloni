@@ -1,9 +1,11 @@
 ---
-date: "2013-08-01"
-link: "https://www.imdb.com/title/tt1595656"
-categories: [ "movies" ]
-title: "Amor Pleno"
+categories:
+- movies
+date: '2013-08-01'
+link: https://www.imdb.com/title/tt1595656
+title: Amor Pleno
 ---
+
 É difícil analisar os filmes de Terrence Malick através da abordagem tradicional de "historinha". O que é possível observar nesse seu novo trabalho é sua semelhança com [A Árvore da Vida] (semelhança narrativa) com muito menos glamour. Assim como a reflexão de Almodóvar em [Os Amantes Passageiros] (depois do tenso [A Pele que Habito]), Malick parece querer não se aprofundar demais em temas existenciais como fez anteriormente, mas mesmo assim não consegue evitar de ligar as referências, como em determinado momento sua câmera foge para o mundo subaquático, quase como uma tentativa de conectar-se com seu predecessor no melhor estilo continuação dos grande temas.
 
 E o amor é o grande tema dessa vez, e mais uma vez a religião é a lupa usada em sua análise, na figura de um padre questionando repetidamente sua fé e a inexistência do amor do casal principal em sua relação com um ser supremo.

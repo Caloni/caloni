@@ -1,9 +1,12 @@
 ---
-date: "2020-08-19"
-link: "https://www.imdb.com/title/tt1439629"
-categories: [ "series", "home" ]
-title: "Community"
+categories:
+- series
+- home
+date: '2020-08-19'
+link: https://www.imdb.com/title/tt1439629
+title: Community
 ---
+
 Não sei se gosto de Community tanto quanto a primeira vez, uns dez anos atrás. Um de nós três deve ter envelhecido, e não de uma maneira boa: eu, a série ou a sociedade.
 
 As brincadeiras da série em torno do politicamente correto giram confortavelmente no limite do aceitável. E, no pior dos casos, sempre temos Pierce, o velho incorrigível, para fazer os comentários racistas e homofóbicos. Porém, se quando lançada, a série usava esses termos quase como jargões fora do mainstream, gerando um certo ar de estranheza para quem mora fora dos EUA, hoje nosso comportamento, ou ao menos o da sociedade americana, é pautado nesses conceitos. [O Grande Irmão] está firme e forte por lá. Até nas faculdades há folhetos que correm entre as mãos sobre conceitos como "microagressōes", e um professor recentemente foi demitido por fazer uma brincadeira sobre esse material. A liberdade de expressão tão elogiada nos EUA é cerceada inconscientemente nessa geração, como se julgamentos verbais fossem um ataque à propriedade privada.

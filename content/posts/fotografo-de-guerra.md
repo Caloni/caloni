@@ -1,10 +1,14 @@
 ---
-date: "2019-10-22"
-link: "https://www.imdb.com/title/tt9016026"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Fotográfo De Guerra"
+categories:
+- draft
+- movies
+date: '2019-10-22'
+link: https://www.imdb.com/title/tt9016026
+tags:
+- cinemaqui
+title: Fotográfo De Guerra
 ---
+
 Fotógrafo de Guerra é um filme quase cru, sem substância, cujo titulo já anuncia sem rodeios seu conteúdo, que pode ser chocante para a maioria das pessoas, mas como espectadores nos acostumamos com o que vemos.
 
 De qualquer forma, o que vemos, a rotina de um fotógrafo de guerra nas guerras do Oriente Médio, não se compara com fotos das guerras mundiais, pois diferente dessas muitos civis estão morrendo e fugindo de onde sobrevivem no século 21. Deveríamos estar mais abalados do que nunca, mas algo mudou em nossa percepção do absurdo humano. Talvez o fato que o palco desses conflitos seja em um lugar muito longe do primeiro mundo.

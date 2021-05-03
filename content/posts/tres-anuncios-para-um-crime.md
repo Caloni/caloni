@@ -1,9 +1,12 @@
 ---
-date: "2018-03-13"
-link: "https://www.imdb.com/title/tt5027774"
-categories: [ "draft", "movies" ]
-title: "Tres Anúncios Para Um Crime"
+categories:
+- draft
+- movies
+date: '2018-03-13'
+link: https://www.imdb.com/title/tt5027774
+title: Tres Anúncios Para Um Crime
 ---
+
 Parte de uma premissa e se torna surreal. Não é exatamente comédia ou drama, mas nem a vida pode ser definida de um jeito ou do outro. As pessoas nesse filme não são muito inteligentes, mas tentam -- como um deles usa como lição -- não ser um fracasso total. E o resultado é uma comédia de erros da vida real.
 
 A história começa quando uma mãe em dor por oito meses pela morte violenta de sua filha paga por três outdoors questionando as autoridades pela sua incompetência. E quando conhecemos quem são essas autoridades, através de enquadramento peculiar (a delegacia de polícia fica em frente a rua da loja de anúncios), fica claro o que ela está dizendo. O xerife está com câncer e há policiais truculentos cujo estereótipo do sul já virou regra desde Thelma e Louise: preferem torturar negros do que pegar estupradores.

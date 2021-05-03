@@ -1,10 +1,14 @@
 ---
-date: "2019-08-01"
-link: "https://www.imdb.com/title/tt7543914"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Os Dois Filhos de Joseph"
+categories:
+- draft
+- movies
+date: '2019-08-01'
+link: https://www.imdb.com/title/tt7543914
+tags:
+- cinemaqui
+title: Os Dois Filhos de Joseph
 ---
+
 É complicado fazer um filme sobre personagens que não despertam simpatia ou possuem qualquer virtude digna de ser observada. Nesse sentido, Os Dois Filhos de Joseph é uma produção que está todo o tempo à beira do esquecimento. Em alguns momentos nos preocupamos tão pouco com o destino dessa família que quase nos esquecemos que eles são o assunto do longa. Em outros, a eterna espera por algo que mude o destino estampado em seus genes gera a suspeita cada vez mais certeira de que este é um filme sobre o ciclo inescapável da natureza das pessoas.
 
 Estamos acompanhando a aventura de dois filhos, Joachim (Vincent Lacoste) e o caçula Ivan (Mathieu Capella), além de seu pai, Joseph Zuccarelli (Benoît Poelvoorde). Joseph lutou junto de seu irmão com câncer por dois anos até seu falecimento. Durante esse tempo ele fechou seu consultório médico e se dedicou a escrever; nesse mesmo tempo seu filho Joachim ficou patinando sem conseguir entregar sua tese final da faculdade de psiquiatria, e o jovem Ivan, perdidamente apaixonado por uma garota da escola.

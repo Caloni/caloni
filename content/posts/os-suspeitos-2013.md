@@ -1,9 +1,11 @@
 ---
-date: "2013-10-25"
-link: "https://www.imdb.com/title/tt1392214"
-categories: [ "movies" ]
-title: "Os Suspeitos"
+categories:
+- movies
+date: '2013-10-25'
+link: https://www.imdb.com/title/tt1392214
+title: Os Suspeitos
 ---
+
 O cansaço, desânimo e um envolvimento ilimitado na busca de duas meninas desaparecidas é o que forma a base de Os Suspeitos, mantida todo o tempo por três pilares fundamentais: o detetive e o pai incansáveis formam dois deles; a direção impecável de Denis Villeneuve (do excelente [Incêndios]) no desenvolvimento da trama forma o terceiro.
 
 Construindo a tensão mesmo antes que as duas crianças sumam usando a figura do furgão como uma ameaça sem rosto, o Dia de Ação de Graças entre os vizinhos vira um pesadelo em questão de segundos. Naquele mesmo momento, há uma economia preciosa ao cortar para a noite e já nos apresentar ao herói da trama, o Detetive Loki (Jake Gylenhaal). Sem nunca saber muito bem seu passado (algo incomum no gênero), pegamos fiapos de sua personalidade durante a incessante investigação, movida de perto e em paralelo pelo igualmente incansável Keller Dover, um dos pais da garota (Hugh Jackman).

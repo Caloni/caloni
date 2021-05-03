@@ -1,9 +1,12 @@
 ---
-date: "2016-02-09"
-link: "https://www.imdb.com/title/tt1979388"
-categories: [ "draft", "movies" ]
-title: "O Bom Dinossauro"
+categories:
+- draft
+- movies
+date: '2016-02-09'
+link: https://www.imdb.com/title/tt1979388
+title: O Bom Dinossauro
 ---
+
 É uma satisfação ver que a Pixar continua com sua vontade de arriscar de vez em quando, e possivelmente possui os desenhistas mais ambiciosos do mercado. O Bom Dinossauro é um trabalho estético e artístico admirável, que causa estranheza em alguns momentos, mas em outros faz valer totalmente a pena.
 
 Contando uma história simples, onde há 65 milhões de anos um asteróide NÃO bateu em nosso planeta, aqui os dinossauros falam e são agricultores pacatos, e os "humanos" ou humanoides ainda são criaturas primitivas que andam nas quatro "patas". Um dos dinossauros, Arlo (Jack McGraw/Raymond Ochoa), nasceu diferente, com suas pernas bambas, e não consegue ajudar muito a família, pois tem medo até das galinhas que alimenta todos os dias. Ao perder seu pai, as coisas pioram na fazenda, e ao se perder, pioram ainda mais. É quando ele conhece Spot (Jack Bright), um garoto humano que vira seu mascote de estimação.

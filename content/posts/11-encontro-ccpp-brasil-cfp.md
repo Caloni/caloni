@@ -1,9 +1,12 @@
 ---
-date: "2015-02-03"
-categories: [ "blog" ]
-tags: [ "ccppbr" ]
-title: "CCPP Brasil 11: Call For Papers"
+categories:
+- blog
+date: '2015-02-03'
+tags:
+- ccppbr
+title: 'CCPP Brasil 11: Call For Papers'
 ---
+
 Acho que já está na hora de nos reencontrarmos, né?
 
 A comunidade CCPP Brasil está preparando mais um daqueles eventos em que conversaremos sobre nossa maior paixão: B, BCPL, C e C++!

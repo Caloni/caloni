@@ -1,9 +1,12 @@
 ---
-date: "2017-12-14"
-link: "https://www.imdb.com/title/tt2527336"
-categories: [ "draft", "movies" ]
-title: "Star Wars: Os Últimos Jedi"
+categories:
+- draft
+- movies
+date: '2017-12-14'
+link: https://www.imdb.com/title/tt2527336
+title: 'Star Wars: Os Últimos Jedi'
 ---
+
 Uma série de filmes que mantém uma mitologia sobre uma energia vital no Universo por décadas precisa ser atualizada de tempos em tempos para não perder o compasso com a Ciência. Se na primeira trilogia a Força era algo mais espiritual e na segunda trilogia algo mais biológico, essa terceira trilogia acertadamente a coloca como nem uma coisa nem outra: é algo metafísico. E com isso estabelece pela primeira vez uma base que se pode trabalhar com as diferentes camadas de realidade. Não só mais falamos sobre política em SW (essa dualidade esquerda/direita já cansou), mas sobre filosofia, moral, valores, etc. Quem diria que Star Wars chegaria em sua fase adulta?
 
 Um dos traços mais fascinantes do universo de Star Wars nos cinemas reside em sua compreensão cada vez maior do começou a ser criado na década de 70. Nascido das super-produções fantasiosas que pipocavam por todos os lados (espaciais ou não), e estabelecendo-se como um marco no Cinema de entretenimento e arte, o universo de George Lucas faz 40 anos e continua impressionando seu público contemporâneo e ainda respeitando seu público antigo (e isso sem contar os que pegaram carona no meio do caminho, como eu, nascido em 79). Mas isso não quer dizer que é necessário que os erros da fraquia tenham que estar sempre lá. Esqueçamos os midichlorians por um instante, pois este não chega nem a estar perto de Jar Jar Binks na lista dos piores tropeços.

@@ -1,9 +1,12 @@
 ---
-date: "2016-05-08"
-link: "https://www.imdb.com/title/tt0238380"
-categories: [ "draft", "movies" ]
-title: "Equilibrium"
+categories:
+- draft
+- movies
+date: '2016-05-08'
+link: https://www.imdb.com/title/tt0238380
+title: Equilibrium
 ---
+
 Equilibrium é um filme que parece sofrer do próprio efeito afetado de seus personagens, pertencentes a uma espécie de paródia de "1984" a respeito de um futuro distópico onde é proibido sentir. Se o sentir para os personagens é algo natural, transformar isso em linguagem cinematográfica é um desafio que o diretor/roteirista Kurt Wimmer topa conduzir, gerando no processo resultados mistos.
 
 Especialista no roteiro em thrillers de ação ("O Vingador do Futuro", "Salt"), Wimmer não consegue evitar transformar uma reflexão até que interessante sobre uma humanidade que teme sucumbir a uma quarta guerra mundial (sim, houve uma terceira) em um... thriller de ação. Vestindo Christian Bale como um padre mortal, o "alto-clero" dessa sociedade coletivizada menos como abelhas programadas geneticamente e mais como frutos de mais um delírio autoritário -- e os símbolos dessa nova nação, lembrando na cor e no formato o nazismo, não poderia ser menos óbvio -- é natural que cenas estilizadas surjam, fruto do treinamento militarizado e, ironicamente, individualizado do personagem de Bale.

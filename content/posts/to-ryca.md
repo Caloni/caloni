@@ -1,9 +1,12 @@
 ---
-date: "2018-01-12"
-link: "https://www.imdb.com/title/tt4809638"
-categories: [ "draft", "movies" ]
-title: "Tô Ryca!"
+categories:
+- draft
+- movies
+date: '2018-01-12'
+link: https://www.imdb.com/title/tt4809638
+title: Tô Ryca!
 ---
+
 Selminha, ou Samantha Schmütz, faz aqui a pobretona padrão brasileira que mora no morro do Rio de Janeiro com sua amiga inseparável e igualmente quebrada Luane. Ambas com nome de pobre (e Selminha é de fato o nome dela, de RG) e sem muitas perspectivas de vida, ambas trabalham como frentista e são obrigadas a passar os perrengues do dia-a-dia de todo pobre: condução lotada, peguetes que não querem saber de compromisso e tudo o que você pode imaginar que os roteiristas Fil Braz e Vitor Brandt inspiradamente obteram do cotidiano padrão brasileiro, ligeiramente pintado como novela global.
 
 Mas a atriz que faz Selminha não permite o disparate de a tornar uma caricatura à toa. A atriz Samantha Schmütz é eficiente no sentido de construir uma persona que pode participar de outras histórias e representar a pobretona brega e feia. Ela faz imitações guturais de pobre, se indigna como pobre. Ela confessa que rouba papel higiênico do trabalho como vingança (e coloca farofa no prato sem pesar no self-service). Ela está carregada de persona, e mesmo que estereotipada até as pontas desfiadas do seu cabelo, ela parece não se render, esgotando sua energia a todo custo.

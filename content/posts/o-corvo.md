@@ -1,9 +1,11 @@
 ---
-date: "2012-05-24"
-link: "https://www.imdb.com/title/tt1486192"
-categories: [ "movies" ]
-title: "O Corvo"
+categories:
+- movies
+date: '2012-05-24'
+link: https://www.imdb.com/title/tt1486192
+title: O Corvo
 ---
+
 Edgar Allan Poe é considerado um dos precursores da literatura norte-americana, e com Júlio Verne, dos gêneros de ficção-científica e fantástica. Suas histórias geralmente giram em torno de crimes e mortes bizarras, o que revela não apenas a genialidade na arte de escrever como também sua criatividade mórbida, fruto do mais novo filme sobre ele, O Corvo, estrelando John Cusack na pele do escritor de contos.
 
 A ideia da trama gira em torno de seus contos e a morte misteriosa de Poe, encontrado em estado catatônico em um parque. Tudo se inicia quando um assassinato começa a recriar as cenas de crimes contidas nos contos do escritor. Determinado a encontrar o lunático, o detetive Fields (Luke Evans) encontra em Poe um forte aliado por ter todos os passos do próximo assassinato em sua mente, na memória de suas obras.

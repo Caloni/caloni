@@ -1,9 +1,11 @@
 ---
-date: "2012-07-03"
-link: "https://www.imdb.com/title/tt1859650"
-categories: [ "movies" ]
-title: "Para Roma com Amor"
+categories:
+- movies
+date: '2012-07-03'
+link: https://www.imdb.com/title/tt1859650
+title: Para Roma com Amor
 ---
+
 Quais diretores você conhece que conseguem fazer o velho clichê da "pessoa engasgando com o copo na mão ao ver cena inusitada" funcionar novamente? Eu conheço um: Woody Allen.
 
 Cada vez mais se reinventando em seus últimos filmes, apesar de incluir quase sempre seus temas favoritos, como a angústia da terceira idade e adultérios, Allen investe aqui em uma comédia tradicional dividida em diferentes começos de histórias que, diferente do usual hoje em dia, praticamente não se encontram: os pais que visitam a filha para conhecer a família de seu namorado, o jovem e ingênuo casal italiano em busca de uma vida melhor na capital, o batidíssimo triângulo amoroso encabeçado por uma femme fatale e, como não poderia deixar de ser, a vida típica e pacata de um cidadão italiano.

@@ -1,9 +1,12 @@
 ---
-date: "2019-01-21"
-link: "https://www.imdb.com/title/tt7427356"
-categories: [ "draft", "movies" ]
-title: "A Última Gargalhada"
+categories:
+- draft
+- movies
+date: '2019-01-21'
+link: https://www.imdb.com/title/tt7427356
+title: A Última Gargalhada
 ---
+
 A Última Gargalhada é daqueles exemplos de produção Netflix que não precisa existir no mundo. É sobre uma história sem tensão, sem motivação e sem paixão. Um conselho: viva sua vida no lugar de assistir esse filme; será capaz de sonhar mais do que acompanhar essa série televisiva de um episódio apenas de uma hora e meia.
 
 Se trata de uma história que lembra aquela do Bill Murray como agente de celebridades que vai parar na guerra (Rock em Cabul, que também é ruim), só que com gente mais velha ainda que Murray e sobre comediantes para a gente inserir aquelas piadas de internet... não sou eu que estou falando. Só estou imaginando o que alguém da produção deve ter argumentado para tirar a ideia do papel e escalado Chevy Chase para fazer esse Bill alternativo.

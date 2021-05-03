@@ -1,10 +1,14 @@
 ---
-date: "2018-07-24"
-link: "https://www.imdb.com/title/tt4912910"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Missão Impossível: Efeito Fallout"
+categories:
+- draft
+- movies
+date: '2018-07-24'
+link: https://www.imdb.com/title/tt4912910
+tags:
+- cinemaqui
+title: 'Missão Impossível: Efeito Fallout'
 ---
+
 A maior satisfação da série Missão Impossível nos cinemas é que ela sempre entrega o que é esperado. Nesse sentido ela ganha até de James Bond. Porém, estamos falando de apenas meia-dúzia de filmes que seguem basicamente a mesma fórmula em toda nova edição (e direção): as missões recebidas em segredo com gravações que se auto explodem em cinco segundos, vilões com maldade pura, o passado de Hunt o amaldiçoando e ao mesmo tempo o fazendo crescer como ser humano, as cenas de ação frenéticas e muito bem coreografadas, as reviravoltas que acontecem sob um teto mal iluminado e que costuma das nós no cérebro do espectador e, por fim, uma bomba e uma contagem regressiva. Bom, senhoras e senhores, tenho boas novas sobre "Missão Impossível: Operação Fallout": dessa vez teremos duas bombas! Isso que é plot twist!
 
 Brincadeiras à parte, mesmo não sendo muito original em seu roteiro a série acaba entregando diferentes versões de um filme de ação e suspense bem feito. Idealizado em sua primeira versão, de 1996 e dirigido por Brian de Palma, a série seguiu sempre elencando diretores competentes e diferentes, sendo o sexto filme agora a repetição inédita de diretor (Christopher McQuarrie, que já havia assumido a franquia no anterior, Nação Secreta). Eu adoro a capacidade que essas produções têm de tornar as histórias batidas minimamente interessantes e com picos de adrenalina que se tornam emocionantes por causa justamente da historinha que a permeia. E "Fallout" felizmente não é uma exceção.

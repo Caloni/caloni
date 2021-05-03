@@ -1,9 +1,11 @@
 ---
-date: "2010-08-08"
-link: "https://www.imdb.com/title/tt1219342"
-categories: [ "movies" ]
-title: "A Lenda dos Guardiões"
+categories:
+- movies
+date: '2010-08-08'
+link: https://www.imdb.com/title/tt1219342
+title: A Lenda dos Guardiões
 ---
+
 Mais um filme 3D que usa foco. Parece que ou a noção de ambiente tridimensional ainda não possui seu lugar no cinto de utilidades narrativas moderna ou a tentativa de economizar nas filmagens em 2D acaba por gerar o mesmo filme passado por dois filtros distintos.
 
 Nesse o pequeno e corajoso "Radinho Desperaux" tem asas, um pouco mais de ação, com lindas fotografias de cenários em que é abundante a luz, seja da Lua ou do Sol. Temos paisagens em que as corujas podem voar tranquilamente enquanto o espectador fica submerso naquele ambiente exótico.

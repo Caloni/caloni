@@ -1,9 +1,12 @@
 ---
-date: "2019-08-23"
-link: "https://www.imdb.com/title/tt7131622"
-categories: [ "draft", "movies" ]
-title: "Era Uma Vez em... Hollywood"
+categories:
+- draft
+- movies
+date: '2019-08-23'
+link: https://www.imdb.com/title/tt7131622
+title: Era Uma Vez em... Hollywood
 ---
+
 Os últimos filmes de Quentin Tarantino são ótimos, mas me incomodam por terem que ser filmes do Tarantino. Explico. Ele é um ótimo diretor e já trabalhou com roteiros muito mais coesos, como Kill Bill, ou transcendentais, como Pulp Fiction: Tempo de Violência. A vantagem desses dois filmes é que eles pedem sangue e momentos violentos, o que se encaixa certinho no esquema do diretor. Porém, "Era Uma Vez em... Hollywood" não precisa, e é aí que seu último trabalho, como filme, começa a colapsar.
 
 Sou desde o começo alucinado com os trabalhos do diretor e sua história de vida, mas descobri ao longo dos filmes que não sou um fã de Tarantino como roteirista. Exceto, é claro, aquele grande trabalho para o Cinema que se chama Pulp Fiction. Fora isso, no resto do tempo Tarantino está se divertindo e nos divertindo com a sua mente cinematográfica, construída ao longo dos anos por milhares de filmes, e uma inquietude em comentar o Cinema que, como espectadores e cinéfilos, nos incomoda, nos absorve e nos encanta.

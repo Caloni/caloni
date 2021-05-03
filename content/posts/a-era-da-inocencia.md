@@ -1,9 +1,12 @@
 ---
-date: "2018-07-19"
-link: "https://www.imdb.com/title/tt0819953"
-categories: [ "draft", "movies" ]
-title: "A Era da Inocência"
+categories:
+- draft
+- movies
+date: '2018-07-19'
+link: https://www.imdb.com/title/tt0819953
+title: A Era da Inocência
 ---
+
 A Era da Inocência é conhecida em sua versão inglesa como Day of Darkness (e assim o é no original em francês). Isso tem um pouco a dizer sobre o teor do filme, que apesar de se passar em um ambiente depressivo (e opressivo), seu exagero sugere uma certa inocência em sua abordagem. Isso porque o diretor/escritor Denys Arcand está a todo vapor desde As Invasões Bárbaras, filme onde ele já atacava com todas as forças a ideia pré-concebida que o resto do mundo tem que o Canadá é um primeiro mundo ideal e desejável por todos, quando na verdade o sistema de saúde celebrado por todos é um pesadelo distópico digno de filmes como Brazil, THX 1138 ou até mesmo 1984.
 
 Porém, diferente dessas ficções distópicas que colocam a ação em um futuro onde tudo deu errado, A Era da Inocência é sobre o aqui e agora canadense, o que o torna depressivo além da conta (por ser real). E isso nosso protagonista, o funcionário público Jean-Marc Leblanc (Marc Labrèche), precisa suportar, e precisa suportar junto com regras igualmente distópicas (mas que também soam reais) de não ser permitido fumar a um raio de uma milha do prédio do governo onde trabalha (que mais parece um estádio abandonado; note como a escalada governista espelha o aumento cada vez maior do funcionarismo público) ou até mesmo ser proibido usar a palavra "negro" com o seu amigo (em um dos melhores exemplos que o Ministério da Novilíngua poderia extrair do mundo como é hoje).

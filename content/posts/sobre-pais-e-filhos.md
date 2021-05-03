@@ -1,10 +1,14 @@
 ---
-date: "2018-11-01"
-link: "https://www.imdb.com/title/tt7519174"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Sobre Pais E Filhos"
+categories:
+- draft
+- movies
+date: '2018-11-01'
+link: https://www.imdb.com/title/tt7519174
+tags:
+- cinemaqui
+title: Sobre Pais E Filhos
 ---
+
 Sobre Pais e Filhos é o tipo de filme que o diretor já ganha nota máxima apenas por ter filmado tudo aquilo e voltar com vida, mas ele é ao mesmo tempo um trabalho narrativo impactante na medida certa e para os corações mais fortes, conseguindo realizar uma imersão completa do espectador para aquela realidade, poir mais revoltante, angustiante, insuportável e horrível que ela seja.
 
 A história é simples: o próprio diretor, Talal Derki, volta ao seu país natal, a Síria, e é recebido por uma família islamita radical, jihadistas e defensores do califado (uma espécie de monarquia islâmica e religiosa, claro). Ele convive com eles por dois anos e acompanha o crescimento de principalmente dois dos seus filhos: Osama e Ayman, de 13 e 12 anos. Desde os momentos lúdicos com as brincadeiras de criança até o momento em que eles precisam se alistar como combatentes jihadistas, Talal Derki está atento a todos os valores dessa cultura e modo de viver no meio àquele caos.

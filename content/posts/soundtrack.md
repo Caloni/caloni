@@ -1,10 +1,14 @@
 ---
-date: "2017-06-03"
-link: "https://www.imdb.com/title/tt3332372"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Soundtrack"
+categories:
+- draft
+- movies
+date: '2017-06-03'
+link: https://www.imdb.com/title/tt3332372
+tags:
+- cinemaqui
+title: Soundtrack
 ---
+
 Ao chegarmos no fim de Soundtrack percebemos que falta um pouco de alma ao projeto, o que torna sua conclusão, diferente do esperado, mais patética do que triste ou inspirador. Esse é o resultado de um roteiro e direção focados em muitas ideias racionalmente organizadas e pouco envolvimento emocional. Aquelas pessoas parecem irremediavelmente isoladas de tudo e de todos, e quando algum tipo de aproximação acontece, ela soa forçada, artificial e contra os princípios dos personagens já estabelecidos.
 
 O roteiro e a direção são da dupla Manitou Felipe e Bernardo Dutra, que assinam o filme como 300ml e são responsáveis pelo curta (que já virou cult) Tarantino's Mind, onde também estrelam Selton Mello e Seu Jorge. Aqui eles também fazem dois brasileiros, mas precisam falar inglês quase sempre porque vivem com mais três cientistas vindos de outros lugares do mundo.

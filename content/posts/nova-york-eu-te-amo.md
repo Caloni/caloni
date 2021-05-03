@@ -1,9 +1,12 @@
 ---
-date: "2019-03-17"
-link: "https://www.imdb.com/title/tt0808399"
-categories: [ "draft", "movies" ]
-title: "Nova York, Eu Te Amo"
+categories:
+- draft
+- movies
+date: '2019-03-17'
+link: https://www.imdb.com/title/tt0808399
+title: Nova York, Eu Te Amo
 ---
+
 Todas as comédias românticas americanas se passam em Nova York. Todos os romances se passam em Nova York. Toda a carreira de Woody Allen antes das duas últimas décadas se passa em Nova York (OK, Noivo Neurótico, Noiva Nervosa não). Logo, ou "por quê??", que tal mais um filme onde histórias se entrelaçam, só que dessa vez em Nova York?
 
 Essa cidade significa muito para os americanos. É a cidade com menos americanos na América. Também é a única com alguma personalidade que é fácil de lembrar, diferente de todas as outras cidades e estados americanos em que todos insistem que possuem suas particularidades. Não importa. Nova York é a única realmente globalizada, com uma cara de cidade do mundo moderno e portanto com uma, duas, vinte, infinitas histórias para contar.

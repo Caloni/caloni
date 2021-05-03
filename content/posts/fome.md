@@ -1,10 +1,14 @@
 ---
-date: "2016-07-28"
-link: "https://www.imdb.com/title/tt5142532"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Fome"
+categories:
+- draft
+- movies
+date: '2016-07-28'
+link: https://www.imdb.com/title/tt5142532
+tags:
+- cinemaqui
+title: Fome
 ---
+
 Fome é um filme lento e arrastado, com seu lado amadorístico, com uma direção/edição que parece se apaixonar pela forma e não sabe a hora de cortar. Com a falta de ritmo em vários momentos, e um contraste curioso entre ficção e realidade, pode-se enxergar com clareza que este não é um trabalho para qualquer um, por exigir paciência e determinação em decifrá-lo. Ao mesmo tempo, ele permite diferentes interpretações, das mais simples às mais complexas; tudo depende de como se enxerga os objetivos de algumas decisões narrativas e estéticas da história.
 
 Mas a história, em si, é bem simples. Acompanhamos um velhinho sem-teto pelas ruas do centro da cidade de São Paulo. Arrastando um carrinho de compras com as rodas desgastadas, onde guarda seus pertences, é entrevistado por uma garota para um trabalho de escola. Daí ele ganha o nome de Malbrough, o general de uma das músicas folclóricas francesas mais famosas, "Marlbrough s'en va-t-en guerre", e a única música que o distinto maltrapilho se recorda.

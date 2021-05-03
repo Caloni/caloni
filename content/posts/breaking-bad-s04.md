@@ -1,9 +1,12 @@
 ---
-date: "2016-07-16"
-link: "https://www.imdb.com/title/tt0903747"
-categories: [ "draft", "series" ]
-title: "Breaking Bad - Quarta Temporada"
+categories:
+- draft
+- series
+date: '2016-07-16'
+link: https://www.imdb.com/title/tt0903747
+title: Breaking Bad - Quarta Temporada
 ---
+
 A saga de Vince Gilligan continua soando como um mini-manifesto libertário, mas agora ao mesmo tempo resolve discutir moral através de múltiplas ações de múltiplos personagens. Enquanto Skyler começa a se envolver nos planos de Walt, a questão sobre o que é certo e errado entra em conflito com o que é legal e ilegal. Durante toda a temporada, um cigarro (legal) é carregado por Jesse em seus inúmeros maços; o que esse cigarro contém de especial é uma outra substância escondida (ilegal) que pode ser usada para envenenar uma pessoa. Essa substância foi produzida sem a necessidade de ferir ninguém, e envenenar alguém seria uma ação necessária caso houvesse algum risco de vida das pessoas envolvidas, por causa da produção de uma terceira substância cuja produção também é ilegal, e combatida através de bilhões de dólares queimados pelo governo em uma guerra informal.
 
 O final da terceira temporada de Breaking Bad termina com um assassinato. Um inesperado, apressado assassinato. O começo da quarta, portanto, realiza o mesmo ato. Porém, aqui, há um significado mais profundo, mais obscuro e mais metafórico. Ele tem a dizer sobre quem está no controle, e o quanto alguém pode controlar alguém. Ele incute na mente de Walter White, uma mente cujo cérebro, desconfiamos, está sofrente um processo químico que pode ou não alterar sua percepção da realidade e sua própria personalidade. Isso já fica claro na temporada anterior, mas nessa temporada ainda temos mais um apelo (o genético). No fundo, a maior virtude da série não se mantém apenas no espectro político da coisa, mas no humano, especialmente no filosófico: somos donos de nossas próprias ações, ou a influência do ambiente (e da genética, e das doenças ou de qualquer mudança química) exerce um poder quase que sobrenatural para nossas decisões do dia-a-dia?

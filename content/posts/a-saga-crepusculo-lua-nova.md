@@ -1,9 +1,11 @@
 ---
-date: "2012-06-10"
-link: "https://www.imdb.com/title/tt1259571"
-categories: [ "movies" ]
-title: "A Saga Crepúsculo: Lua Nova"
+categories:
+- movies
+date: '2012-06-10'
+link: https://www.imdb.com/title/tt1259571
+title: 'A Saga Crepúsculo: Lua Nova'
 ---
+
 O [filme inicial] da "saga Crepúsculo" merecia o benefício da dúvida, pois pelas condições com que a história foi desenvolvida ficava muito difícil encaixar o filme no grupo de filmes sérios ou nas paródias. No entanto, com Lua Nova essa dúvida se dissipa completamente, graças aos torturantes 130 minutos que insistem em colocar a protagonista Bella Swan (Kristen Stewart) em diversas situações que nada alteram seu conflito inicial: devo conseguir obrigar meu namorado vampiro Edward Cullen (Robert Pattinson) a me transformar em um ser imortal ou devo morrer tentando?
 
 No fundo, é o que acaba sendo sugerido diversas vezes, quando Edward é obrigado a se mudar da cidadezinha para não trazer suspeitas sobre seu pai, um médico local e que por ser vampiro nunca envelhece. A separação do casal é comparada a Romeu e Julieta, de Shakespeare (quanta ousadia), pois separados não conseguem encontrar motivos para viver (sendo a parte mais triste saber que o pobre do Edward tem dificuldades para cometer o suicídio). Dessa forma, ele decide que é melhor não levá-la com ele, pois teme que não conseguiria protegê-la; o curioso desse raciocínio é que terminamos o filme anterior sabendo que havia um perigo iminente que poderia voltar à cidade, mas que encontraria apenas uma indefesa e desamparada Bella. Bom, de qualquer forma, talvez ele tenha pensado que seria melhor que não a visse sendo devorada.

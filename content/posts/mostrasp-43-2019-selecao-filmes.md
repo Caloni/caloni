@@ -1,8 +1,10 @@
 ---
-date: "2019-10-07"
-categories: [ "lists" ]
-title: "Seleção de Filmes da 43a MostraSP"
+categories:
+- lists
+date: '2019-10-07'
+title: Seleção de Filmes da 43a MostraSP
 ---
+
 Foi divulgada a lista dos filmes para a mostra desse ano. Já conheço alguns diretores por filmes anteriores.
 
  - Abel Ferrara (filmes nessa Mostra: O Projecionista) dirigiu o "abominável" [Bem-Vindo a Nova York], um estudo de personagem com Gérard Depardieu.

@@ -1,9 +1,12 @@
 ---
-date: "2016-12-27"
-categories: [ "draft", "lists" ]
-title: "Dez melhores filmes de 2016"
+categories:
+- draft
+- lists
+date: '2016-12-27'
+title: Dez melhores filmes de 2016
 ---
- - [Trolls](/trolls). Como pegar um fiapo de argumento, mais uma vez baseado em brinquedos dos anos 80, e transformá-lo em uma história previsível, mas que convence por sua mensagem de ode à felicidade de uma era. Trolls nos convida a rir dos clichês e a dançar ao som de outros tempos. Remixados, claro, mas que mantém a pureza no olhar de uma criança, crescida ou não.
+
+- [Trolls](/trolls). Como pegar um fiapo de argumento, mais uma vez baseado em brinquedos dos anos 80, e transformá-lo em uma história previsível, mas que convence por sua mensagem de ode à felicidade de uma era. Trolls nos convida a rir dos clichês e a dançar ao som de outros tempos. Remixados, claro, mas que mantém a pureza no olhar de uma criança, crescida ou não.
 
  - [Demônio de Neon](/demonio-de-neon). Apesar de abordar o mundo das modelos femininas, e de discutir a objetivização da mulher com maestria estética, o trabalho de Nicolas Winding Refn universaliza o sofrimento dessas garotas, transformando o horror em uma espécie de beleza do sacrifício. Dessa forma, evita falar apenas sobre a mulher para trazer à tona a discussão de por que achamos o sacrifício por uma causa, qualquer que seja, algo bonito?
 

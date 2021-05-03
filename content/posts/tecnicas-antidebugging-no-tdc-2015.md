@@ -1,8 +1,10 @@
 ---
-date: "2015-07-27"
-categories: [ "draft" ]
-title: "Técnicas antidebugging no TDC 2015"
+categories:
+- draft
+date: '2015-07-27'
+title: Técnicas antidebugging no TDC 2015
 ---
+
 Esse fim-de-semana, quer dizer, contando com a sexta-feira (dia 24/07/2015), tivemos a trilha de segurança no TDC 2015, e eu palestrei pela segunda vez, dessa vez com um material mais antigo ainda, mas que parece ter agradado alguns: técnicas antidebugging.
 
 O código está em um branch no GitHub e a palestra também, mas você pode acompanhar diretamente aqui:

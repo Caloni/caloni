@@ -1,8 +1,11 @@
 ---
-date: "2017-05-30"
-categories: [ "draft", "food" ]
-tags: [ "recipes" ]
-title: "Pão de Alho"
+categories:
+- draft
+- food
+date: '2017-05-30'
+tags:
+- recipes
+title: Pão de Alho
 ---
 
 Ingredientes: 250g de margarina com sal, 50g de queijo parmesão ralado, 1 pote inteiro de requeijão, 1 colher de sopa BEM CHEIA de alho picado, 1 pitada de orégano, 1 pitada de manjericão, 1 pitada de pimenta do reino, 1 pitada de sal a gosto se precisar (normalmente não), 10 pães.

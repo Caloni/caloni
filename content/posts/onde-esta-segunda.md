@@ -1,9 +1,12 @@
 ---
-date: "2017-09-15"
-link: "https://www.imdb.com/title/tt1536537"
-categories: [ "draft", "movies" ]
-title: "Onde Está Segunda?"
+categories:
+- draft
+- movies
+date: '2017-09-15'
+link: https://www.imdb.com/title/tt1536537
+title: Onde Está Segunda?
 ---
+
 Hoje em dia até os títulos dos filmes encomendados pela Netflix são ruins. E nesse caso não há erro: esse filme é muito ruim. Não ruim de trash (para se divertir), nem ruim de estilo (para ficar com ódio). Ruim de você não sentir nada, mesmo.
 
 Talvez não seja exclusivamente deles. Ultimamente os filmes de sci-fi enlatados (Série Alien, Vida) estão em franco declínio de ideias. Toda uma vasta literatura do gênero e porções generosas de computação gráfica não parecem tornar as propostas comerciais minimamente interessantes como ideia. E nem execução.

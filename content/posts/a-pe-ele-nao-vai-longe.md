@@ -1,9 +1,12 @@
 ---
-date: "2019-01-03"
-link: "https://www.imdb.com/title/tt6288124"
-categories: [ "draft", "movies" ]
-title: "A Pé Ele Não Vai Longe"
+categories:
+- draft
+- movies
+date: '2019-01-03'
+link: https://www.imdb.com/title/tt6288124
+title: A Pé Ele Não Vai Longe
 ---
+
 Com a estreia desse filme talvez o politicamente correto anuncie os seus finalmente em 2019. Ou talvez não. A polêmica por trás do cartunista John Callahan existiu simplesmente porque ele escrevia em uma cidadezinha que levava a sério demais tudo que dizia respeito aos incapacitados, religiosos, etc. Bom, não se pode culpá-los, pois essa tendência em exagerar os dramas da vida moderna se espalhou para praticamente todo o Ocidente.
 
 O filme de Gus Van Sant vem transformar em Cinema a biografia de Callahan, de mesmo nome (assim como a piada de um de seus desenhos), em uma narrativa que tenta unir o reconhecimento, a superação e a reflexão de nosso herói através dos anos em que ele esteve em uma cadeira de rodas, se recuperando do seu baque ao se tornar tetraplégico quando jovem em um acidente, e entendendo o processo que o levou ao fundo do poço.

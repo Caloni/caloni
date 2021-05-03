@@ -1,10 +1,14 @@
 ---
-date: "2019-10-10"
-link: "https://www.imdb.com/title/tt4777008"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Malévola: Dona do Mal"
+categories:
+- draft
+- movies
+date: '2019-10-10'
+link: https://www.imdb.com/title/tt4777008
+tags:
+- cinemaqui
+title: 'Malévola: Dona do Mal'
 ---
+
 Para fazer continuação de contos de fadas o "Era Uma Vez" se torna "Eram Duas Vezes", "Três Vezes" e assim por diante. O limite é o momento em que o mundo criado para contar a mesma história infinitas vezes começa a colapsar diante do cansaço inevitável da plateia. "Malévola: Dona do Mal" é o segundo round do conto da Bela Adormecida reciclada que ganhou notoriedade graças à presença de Angelina Jolie no papel-título, mas que agora se torna uma atriz pequena para um tema maior e, seguindo os passos de seu antecessor, melhor explorado em seu design de arte digital do que em sua narrativa.
 
 No primeiro filme, sobre revisionismo histórico, vilões foram desmacarados e Malévola foi reinterpretada de bruxa má para uma criatura apenas diferente, mas com boas intenções. Seu instinto materno justificava sua presença durante o sono eterno da Bela Adormecida (Elle Fanning). A desculpa totalmente esfarrapada para "Malévola 2" voltar ao ponto de origem é dado na narração inicial do novo filme: as lendas vão sendo repetidas e aos poucos a população volta a acreditar no que elas dizem, o que quer dizer que a criatura de chifres e asas continua ou novamente é mal vista no reino dos humanos. O único problema dessa explicação é que pouquíssimo tempo se passou entre um filme e outro, sendo improvável que todos envolvidos ignoraram por completo o que aconteceu. No fundo o que o filme realmente nos pede, ainda que educadamente, é ignorar como as peças voltaram à posição inicial do tabuleiro.

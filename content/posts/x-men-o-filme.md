@@ -1,9 +1,11 @@
 ---
-date: "2015-07-16"
-link: "https://www.imdb.com/title/tt0120903"
-categories: [ "movies" ]
-title: "X-Men: O Filme"
+categories:
+- movies
+date: '2015-07-16'
+link: https://www.imdb.com/title/tt0120903
+title: 'X-Men: O Filme'
 ---
+
 "X-Men: o Filme" é um dos primeiros trabalhos de fantasia que volta a explorar super-heróis verossímeis, no sentido de respeitá-los como seres complexos envoltos em um universo onde sua existência não apenas é possível, mas moldada por ela. Dessa forma, ele faz o gancho com os quase esquecidos "Superman: o Filme" e "Superman: a Aventura Continua" e ainda nos apresenta uma aventura onde existe uma penca deles, conseguindo fazer com que tudo tivesse não apenas um sentido direto, mas simbólico.
 
 É por isso que o filme escrito por Tom DeSanto, David Hayter e Bryan Singer (este último o que dirige) começa na Alemanha nazista da segunda guerra, onde vemos um garoto se separar de sua mãe e estranhamente parecer ter o poder de mover as grades de um portão através do seu estado emocional abalado. Avançando rapidamente no tempo, descobrimos que "em um futuro não muito distante" há outras pessoas dotadas de habilidades sobrenaturais, são chamados de mutantes e estão sob os olhos da temerosa sociedade norte-americana, que quer garantir através de uma proposta de lei que essas abominações tenham sua identidade cadastrada (e pública) e suas localizações monitoradas. Não que os judeus sejam tão diferentes a ponto de termos medo, mas o paralelo mais do que óbvio não é entre judeus e mutantes, mas muito mais entre ambas as sociedades, o que está bem longe de uma mensagem de esperança.

@@ -1,9 +1,11 @@
 ---
-date: "2015-08-23"
-link: "https://www.imdb.com/title/tt1817191"
-categories: [ "movies" ]
-title: "A Vida de Outra Mulher"
+categories:
+- movies
+date: '2015-08-23'
+link: https://www.imdb.com/title/tt1817191
+title: A Vida de Outra Mulher
 ---
+
 A atriz Sylvie Testud dirige este longa com a sempre interessante Juliette Binoche no papel de Marie Speranski, uma mulher que após encontrar o amor de sua vida e dormir com ele acorda 15 anos depois, não se lembrando de nada que viveu por todo esse tempo. Apesar da maquiagem atrapalhar um pouco a transição, é a interpretação intensa de Binoche que nos faz acreditar nessa transição, em um filme que mescla comédia e drama de maneira um pouco atribulada, quase Hollywoodiana, mas que consegue no processo nos fazer pensar em como mudamos conforme o tempo passa, nos acostumamos com relacionamentos, e, o pior, nos esquecemos de viver, mesmo tendo atingido ou mesmo passado nossas ambições quando jovem.
 
 Contracenando com Mathieu Kassovitz (o interesse amoroso em Amélie Poulain), aqui ele faz pouco, pois é mero coadjuvante das descobertas de Marie, que se vê jogada em uma situação onde há um filho que ela precisa redescobrir, uma rotina de empresária e um casamento prestes a desmoronar.

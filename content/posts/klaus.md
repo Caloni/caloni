@@ -1,9 +1,12 @@
 ---
-date: "2019-12-08"
-link: "https://www.imdb.com/title/tt4729430"
-categories: [ "draft", "movies" ]
-title: "Klaus"
+categories:
+- draft
+- movies
+date: '2019-12-08'
+link: https://www.imdb.com/title/tt4729430
+title: Klaus
 ---
+
 Ideias brilhantes soam óbvias depois de ditas, e Klaus está amparado pela ideia brilhante do animador Sergio Pablos de tal forma que é difícil se desvencilhar de sua beleza intrínseca, ainda mais se considerarmos que o espírito de natal nunca esteve tão desgastado.
 
 A história dessa animação sem inspiração nos traços, mas com muita identidade nas cores, é contar a história de como surge uma lenda sem pé nem cabeça como a de Papai Noel. Inventada através de uma mistura entre folclose e atualizada como lenda urbana, hoje para muitos o velho Noel é um acumulado de absurdos. E "Klaus" se insere dentro desse contexto para resgatar o que há de mais importante, no meio dessas lendas de renas voadoras ou uma pessoa robusta entrar pela chaminé: a força de ajudar as pessoas sem querer nada em troca. Apenas pela gentileza.

@@ -1,8 +1,10 @@
 ---
-date: "2016-01-18"
-categories: [ "blog" ]
-title: "A resolução do bitcoin"
+categories:
+- blog
+date: '2016-01-18'
+title: A resolução do bitcoin
 ---
+
 Recentemente está havendo fuxicos sobre o último texto de Mike Hearn, um dos desenvolvedores do projeto "Bitcoin Core", que desenha o comportamento da blockchain e acessórios. Nele Mike, que está sendo já há um tempo crítico das mudanças que tem ocorrido no projeto (incluindo um fork pra lá de controverso), pondera sobre o que pode ser o início do fim do experimento bitcoin, graças perifericamente à mudança mais estúpida já feita talvez no projeto, o RBF (replace by fee), que distorce completamente a visão original do paper do Satoshi, criador do Bitcoin, mas principalmente ao já conhecido controle massivo dos servidores atrás do Grande Firewall da China. O detalhe é que nem um nem outro acontecimento deveria se tornar decisivo para o futuro do Bitcoin, cujo teor é ser descentralizado "by design". Porém, quando as questões técnicas caem no colo dos humanos, eles tendem como primatas a jogar merda para tudo que é bom e moral.
 
 Meus amigos já sabem que considero a criação de moedas digitais um próximo passo prá lá de grande em direção a um mundo mais justo e livre, principalmente das amarras de um sistema jurássico de controle coercitivo de indivíduos chamado Estado ou governo. Falo especificamente do bitcoin, o mais famoso e o mais popular das moedas digitais. Portanto, não deixa de ser um baque entender como esses projetos poderão sucumbir mais cedo ou mais tarde ao mundo real.

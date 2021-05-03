@@ -1,9 +1,11 @@
 ---
-date: "2011-12-20"
-link: "https://www.imdb.com/title/tt0056869"
-categories: [ "movies" ]
-title: "Os Pássaros"
+categories:
+- movies
+date: '2011-12-20'
+link: https://www.imdb.com/title/tt0056869
+title: Os Pássaros
 ---
+
 A cena que mais evidencia a tensão presente na casa da família Brenner após um ataque-relâmpago de pássaros ensandecidos é quando vemos a câmera focar a matriarca da família olhando para o teto, assustada. Então a câmera se afasta, e, no mesmo quadro, é possível ver que os outros dois adultos estão fazendo a mesma coisa. Ao final desse quadro tão emblemático, sabemos que o diretor conseguiu o total controle sobre nossa atenção e sentidos, que, naquele momento, teimam em se comportar irracionalmente e exatamente como aquelas pessoas.
 
 Um dos últimos filmes de Hitchcock, já famoso, renomado e podendo gastar bem em suas produções, Os Pássaros gira em torno de uma pequena cidade à beira da costa que começa a presenciar, aos poucos, um comportamento agressivo e atípico dos pássaros da região. Conforme a trama principal se desenvolve, que gira em torno de um casal que tenta firmar seu romance, mesmo que sob os olhares suspeitos da mãe super-protetora, aos poucos notamos pequenos eventos relacionados com com animais-título que aos poucos vão tomando conta da história.

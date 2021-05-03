@@ -1,9 +1,11 @@
 ---
-date: "2012-04-30"
-link: "https://www.imdb.com/title/tt0301199"
-categories: [ "movies" ]
-title: "Coisas Belas e Sujas"
+categories:
+- movies
+date: '2012-04-30'
+link: https://www.imdb.com/title/tt0301199
+title: Coisas Belas e Sujas
 ---
+
 No começo, assistimos à rotina de Okwe (Chiwetel Ejiofor) em seus inúmeros empregos, incluindo taxista clandestino no aeroporto e recepcionista de um sombrio hotel nos subúrbios de Londres. O clima opressivo e pessimista apenas aumenta conforme a história se desenrola, e a única esperança de paz parece residir nas gavetas do IML, junto do único amigo de Okwe. Vemos tudo sob o ponto de vista de Okwe, o que não é necessariamente uma coisa boa.
 
 Todos os personagens que encontramos nesse pedaço de mundo esquecido possuem suas funções nessa alegoria da imigração ilegal. Estão todos mais ou menos ligados ao que ocorre nos quartos mais obscuros do hotel que Okwe trabalha, inclusive sua colega de domicílio, a bela e assustada Senay (Andrey Tautou, que consegue uma competente personificação que retira parte de sua doçura vista em [O Fabuloso Destino de Amelie Poulain]). Uma intrincada rede de relações é montada, e cada situação aumenta o significado da vida dessas pessoas. O fato de Okwe ser médico não é por acaso, assim como não é o acaso que faz com que seu companheiro de partidas de xadrez lide diretamente com a morte (e nesse sentido o filme faz uma bela, mas igualmente obscura referência ao O Sétimo Selo e a partida de xadrez entre o cavaleiro das Cruzadas e o diabo em pessoa).

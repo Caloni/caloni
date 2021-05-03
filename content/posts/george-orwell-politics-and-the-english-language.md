@@ -1,8 +1,11 @@
 ---
-date: "2018-08-26"
-categories: [ "draft", "reading" ]
-title: "George Orwell: Politics and the English Language"
+categories:
+- draft
+- reading
+date: '2018-08-26'
+title: 'George Orwell: Politics and the English Language'
 ---
+
 Politics and the English Language é um texto do George Orwell sobre como escrever de forma mais clara que os confusos escritores de nossa época. A língua inglesa era o que ele estava defendendo, não contra o empobrecimento como muitos eruditos, mas contra o seu uso por si mesma, tornando a mensagem, a coisa mais importante em um texto, secundário. Ao mesmo tempo ele, que é ídolo de vários movimentos totalitários, dá umas alfinetadas tão específicas nos "revolucionários" de hoje em dia que é merecida a citação. Vamos começar:
 
 > The word Fascism has now no meaning except in so far as it signifies 'something not desirable'. 
@@ -41,4 +44,4 @@ Por último, uma lista de coisas a evitar:
  - Nunca use uma frase ou expressão estrangeira, palavra científica ou jargão se você pode usar palavras do cotidiano no lugar.
  - Quebre qualquer uma dessas regras antes que você diga algo digno de um bárbaro.
 
-Never use a metaphor, simile, or other figure of speech which you are used to seeing in print. Never use a long word where a short one will do. If it is possible to cut a word out, always cut it out. Never use the passive where you can use the active. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent. Break any of these rules sooner than say anything outright barbarous. 
+Never use a metaphor, simile, or other figure of speech which you are used to seeing in print. Never use a long word where a short one will do. If it is possible to cut a word out, always cut it out. Never use the passive where you can use the active. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent. Break any of these rules sooner than say anything outright barbarous.

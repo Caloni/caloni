@@ -1,8 +1,11 @@
 ---
-date: "2015-01-11"
+categories:
+- draft
+- code
+date: '2015-01-11'
 title: Por que o Visual Studio gera executáveis mutantes
-categories: [ "draft", "code" ]
 ---
+
 > _Esse é um post antigo que encontrei no meio dos meus emails de 2006, mas que contém uma boa dica para quem já entendeu o [passo-a-passo da compilação](../entendendo-a-compilacao), mas ainda tem sérios problemas quando os projetos ficam gigantes._
 
 Essa é a segunda vez que encontro esse mesmo problema. Como acredito que outras almas podem estar sofrendo do mesmo mal, coloco aqui uma breve descrição de como o VC8 faz para gerar um executável que, mesmo não dependendo das DLLs de runtime, não são executados em sistemas que suportam a interpretação do ".manifest". De canja, um pequeno programa que exibe a lista dos programas instalados no sistema.

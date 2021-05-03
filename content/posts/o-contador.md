@@ -1,9 +1,12 @@
 ---
-date: "2016-10-28"
-link: "https://www.imdb.com/title/tt2140479"
-categories: [ "draft", "movies" ]
-title: "O Contador"
+categories:
+- draft
+- movies
+date: '2016-10-28'
+link: https://www.imdb.com/title/tt2140479
+title: O Contador
 ---
+
 O Contador é um filme que se divide em duas metades. A primeira metade é envolvente e possui uma forma de contar histórias de maneira inteligente, embora óbvia. A segunda metade se abstém em servir como catarse para os fãs de filmes de ação e Ben Affleck.
 
 O curioso é que a ação, embora implícita na primeira metade, se torna muito mais eficiente por conhecermos melhor o protagonista, e o espectador "preenche as lacunas" com sua imaginação. Afinal de contas, a sequência do massacre inicial é tenso justamente por apenas ouvirmos os tiros e pessoas caindo, e vermos alguém adentrando o prédio onde ele acontece apenas por suas pernas e seu movimento cuidadoso ao subir as escadas e cruzar o corredor. Uma das melhores cenas de tensão do ano, por sinal.

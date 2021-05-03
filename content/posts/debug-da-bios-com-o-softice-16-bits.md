@@ -1,9 +1,11 @@
 ---
-date: "2007-10-02"
-link: "https://youtu.be/mXDROf0rLkI"
-categories: [ "code" ]
-title: "Debug da BIOS com o SoftIce 16 bits"
+categories:
+- code
+date: '2007-10-02'
+link: https://youtu.be/mXDROf0rLkI
+title: Debug da BIOS com o SoftIce 16 bits
 ---
+
 Para quem acha que ainda não desceu demais o nível existe um [ótimo artigo] no Code Project de S. Z. Keller (aka ShalomZ) sobre como construir seu próprio sistema operacional. É simples, direta e empolgante a maneira com que ele explica e trata os detalhes básicos, desde quando o computador é ligado até quando o boot loader carrega e entrega o controle de execução. Eu mesmo fiz o teste com a imagem que foi disponibilizada para download e funcionou direitinho. Agora esse meu artigo se dispõe a explicar como você pode fazer para depurar o processo de load do seu primeiro sistema operacional.
 
 Primeiro precisamos de uma ferramenta fundamental para esse tipo de depuração: o SoftIce versão 16 bits. Desconheço algum outro depurador de sistema em 16 bits, mas se você souber de algum, pode usá-lo com esse tutorial com as devidas adaptações.

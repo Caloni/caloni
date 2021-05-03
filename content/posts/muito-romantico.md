@@ -1,10 +1,14 @@
 ---
-date: "2017-05-23"
-link: "https://www.imdb.com/title/tt5748480"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Muito Romântico"
+categories:
+- draft
+- movies
+date: '2017-05-23'
+link: https://www.imdb.com/title/tt5748480
+tags:
+- cinemaqui
+title: Muito Romântico
 ---
+
 Há um momento em Muito Romântico em que sua protagonista faz uma relação entre as memórias que carregamos na vida e uma colcha de retalhos. A colcha inteira, de acordo com ela, não tem sentido (assim como na vida). Porém, cada pequeno retalho mantém seu significado. Isso vale para as memórias que acumulamos durante a vida, imagino eu.
 
 Nessa cena um dos retalhos pega fogo por debaixo da colcha, pois a pessoa que está debaixo dela coloca fogo. Isso cabe perfeitamente nessa analogia. O retalho queimado é o efeito de alucinógenos que queimam algumas de nossas memórias. Mas algumas vezes um pouco de drogas pode ser necessário na vida. Como para assistir esse filme, por exemplo. Talvez daí essa colcha de retalhos que é o filme faça algum sentido.

@@ -1,9 +1,12 @@
 ---
-date: "2019-03-24"
-link: "https://www.imdb.com/title/tt0274558"
-categories: [ "draft", "movies" ]
-title: "As Horas"
+categories:
+- draft
+- movies
+date: '2019-03-24'
+link: https://www.imdb.com/title/tt0274558
+title: As Horas
 ---
+
 Um filme é depressivo e te deixa depressivo. Ele foi bem sucedido como um filme? Não para mim. Eu não li nenhum dos livros e não gosto muito desse filme. Dizem que foi uma excelente adaptação. Bom, ele conta várias histórias de gente depressiva em épocas e lugares diferentes e em alguns momentos as histórias se juntam. Mas seus personagens e suas histórias são tão depressivos que quem se importa?
 
 As Horas é uma adaptação de um livro (de Michael Cunningham) que usa um outro livro escrito por Virginia Woolf, uma escritora conhecida pela incapacidade de ser feliz. Seus fãs dirão que é menos sobre depressão e mais sobre a insustentabilidade da felicidade, o que para mim dá no mesmo. Muitos dos seus personagens estão à beira de um colapso e a morte parece um caminho viável. Não só viável, mas o melhor caminho. E do ponto de vista de um espectador que até agora só viu o pior dessas pessoas, vê-las morrer seria um alívio.

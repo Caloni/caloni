@@ -1,9 +1,12 @@
 ---
-date: "2015-11-22"
-link: "https://www.imdb.com/title/tt2381249"
-categories: [ "draft", "movies" ]
-title: "Missão: Impossível - Nação Secreta"
+categories:
+- draft
+- movies
+date: '2015-11-22'
+link: https://www.imdb.com/title/tt2381249
+title: 'Missão: Impossível - Nação Secreta'
 ---
+
 É brilhante e até comovente perceber como o gênero de espionagem moderna que corre nas veias dessa franquia se atualiza a cada novo trabalho, e como "Rogue Nation" se sai infinitamente melhor que o último James Bond de Daniel Craig ("Spectre"). Mesmo em momentos óbvios como a "missão impossível" tradicional de todo filme o filme consegue manter a tensão e sua eficácia, marca de um filme verdadeiramente competente em seu gênero: quando sabemos o que vai acontecer, e mesmo assim funciona maravilhosamente bem.
 
 Roteirista de Os Suspeitos (o pequeno clássico de 96), Christopher McQuarrie participou pontualmente em alguns trabalhos no Cinema como autor e diretor, muitos deles atualmente com Tom Cruise. Sua participação, portanto, no próximo filme da franquia Missão Impossível é tão natural quanto inevitável. Tendo Cruise também como produtor executivo, essa é uma sequência de filmes tratada com esmero desde sua fundação, e que conteve diferentes visões em seus quase 20 anos de história, sempre dirigidos por nomes interessantes: Brian De Palma, John Woo, J.J. Abrams e Brad Bird.

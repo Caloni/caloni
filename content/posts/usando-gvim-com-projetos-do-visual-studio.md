@@ -1,9 +1,11 @@
 ---
-date: "2016-09-18"
-title: "Usando GVim com projetos do Visual Studio"
-categories: [ "draft", "blog" ]
-
+categories:
+- draft
+- blog
+date: '2016-09-18'
+title: Usando GVim com projetos do Visual Studio
 ---
+
 A vida dos programadores C/C++ Windows -- e que geralmente precisam do Visual Studio -- está um abandono total. A configuração de make dos projetos sempre foi baseada no uso de makefiles, assim como no Unix, e por isso mesmo o uso da ferramenta nmake do SDK do Windows era a maneira padrão de se compilar e ver o resultado de dentro do Vim para projetos Windows. Com o advento do .NET, do Visual Studio 2003 e dos XMLs disfarçados como arquivos de projeto e solution, o uso do makefile foi paulatinamente abandonado, gerando diferentes versões de ferramentas -- todas incompatíveis -- para conseguir compilar um ou mais cpps e conseguir ver o resultado.
 
 Por isso mesmo é um assunto pouco explorado nos fóruns do Stack Overflow como configurar decentemente o comando :make do Vim para conseguir realizar o ciclor program-compile-debug que já era feito desde a época do Amiga OS (e conhecido no manual do Vim como Quickfix). Ninguém se dá ao trabalho de usar esse modelo torto.

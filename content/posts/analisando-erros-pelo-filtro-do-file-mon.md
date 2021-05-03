@@ -1,8 +1,10 @@
 ---
-date: "2015-05-06"
-categories: [ "code" ]
-title: "Analisando Erros Pelo Filtro do File Monitor"
+categories:
+- code
+date: '2015-05-06'
+title: Analisando Erros Pelo Filtro do File Monitor
 ---
+
 As ferramentas da SysInternals fazem a gente economizar um tempo considerável na resolução de problemas. Não que elas sejam indispensáveis. Tudo que elas fazem é encurtar o caminho entre a análise de um bug e sua resolução, o que acaba sendo muito se considerarmos que programação é 20% codificação e 80% transpiração. Ela é um atalho para muitas coisas, desde achar uma ordem errada de includes no header durante a compilação ou descobrir que por que um processo morreu durante o login.
 
 Curiosamente ambos os exemplos que citei são de uma mesma ferramenta: [Process Monitor], ou carinhosamente chamado de procmon. Ele é um filho de duas ferramentas hoje extintas, FileMon e RegMon (acho que não preciso explicar o que ambas faziam). Todas são baseadas em drivers que escutam eventos do sistema operacional e um aplicativo que mastiga essa informação e as filtra de diferentes e criativas formas. Vamos utilizá-lo depurando um instalador muito sacana.

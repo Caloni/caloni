@@ -1,8 +1,11 @@
 ---
-date: "2014-07-22"
+categories:
+- draft
+- blog
+date: '2014-07-22'
 title: Integrando BitBucket/GitHub com Trello
-categories: [ "draft", "blog" ]
 ---
+
 Eu nem acredito que estou escrevendo sobre desenvolvimento web, mas como foi algo que me fez dedicar algumas horas do meu fim-de-semana, e não encontrei facilmente uma solução já feita, acredito que pode ser útil para mais alguém que usa Trello e GitHub (ou BitBucket).
 
 Mas o que é [Trello](www.trello.com)? Basicamente é um TodoList feito da maneira mais inteligente possível: uma lista de listas de listas! Os espaços, ou desktops, onde você organiza suas tarefas são chamados de Boards. Em cada board vivem L listas, e em cada lista vivem C cards. Cada card pode conter comentários, histórico de mudanças, labels, checklists, due dates e todas as tranqueiras que geralmente existe em uma lista de tarefas. É um sistema online, desenvolvido pela empresa do Joel Spolsky (o mesmo do excelente blogue de programador [Joel on Software](http://www.joelonsoftware.com/) (ou em [português](http://brazil.joelonsoftware.com/), e que contém algo que eu adoro em sistemas web: atalhos!
@@ -161,4 +164,3 @@ foreach( $bitData->commits as $c )
 ?>
 
 ```
-

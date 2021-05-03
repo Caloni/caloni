@@ -1,10 +1,14 @@
 ---
-date: "2018-03-28"
-link: "https://www.imdb.com/title/tt7368464"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Construindo Pontes"
+categories:
+- draft
+- movies
+date: '2018-03-28'
+link: https://www.imdb.com/title/tt7368464
+tags:
+- cinemaqui
+title: Construindo Pontes
 ---
+
 O ditado popular reza que futebol, religião e política não se discute. Discordo. Porém, ainda que seja necessário discutir todo e qualquer tema, acho difícil alguém discordar, incluindo os participantes de Construindo Pontes, que discutir política é de longe a atividade mais extenuante de todas.
 
 Porém, uma atividade necessária. E o que a fotógrafa Heloísa Passos faz aqui como documentarista é abrir feridas em sua própria família, uma ação que ela também julga necessária. E por família leia-se pai.

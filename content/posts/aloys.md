@@ -1,9 +1,12 @@
 ---
-date: "2016-10-21"
-link: "https://www.imdb.com/title/tt5065810"
-categories: [ "draft", "movies" ]
-title: "Aloys"
+categories:
+- draft
+- movies
+date: '2016-10-21'
+link: https://www.imdb.com/title/tt5065810
+title: Aloys
 ---
+
 Aloys é uma viagem fascinante pelo mundo dos efeitos sonoros que criam a realidade em torno dos dois personagens principais. Para esse feito, é necessário uma edição e montagem impecáveis, além de um design de som que prima pela redundância. Redundância essa necessária para que o espectador consiga penetrar no mundo dividido entre todas as pessoas que vivem dentro do mundo interno de cada um de nós.
 
 Tudo começa com uma morte. A morte do pai de Aloys Adorn (Georg Friedrich), um homem estranho e solitário. A maneira com que Aloys encara a perda não apenas do seu pai, mas seu parceiro na companhia de investigação onde ambos trabalhavam, é a mesma maneira que parece que ele vive há um bom tempo. Sendo uma pessoa desagradável a todo momento com todos que encontra eventualmente, como o dono do restaurante onde pede arroz (sempre para viagem), uma menina vizinha sua que o aborda toda hora sobre seu gato (que esconde dos outros), e até uma ex-colega de sala que encontra ao acertar o crematório do pai. A vida inteira de Aloys se resume em filmar pequenas partes da vida dos outros, pessoas e animais, e assistir novamente essas parte no aconchego do seu escuro e solitário lar.

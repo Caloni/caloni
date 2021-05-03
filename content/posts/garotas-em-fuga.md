@@ -1,10 +1,14 @@
 ---
-date: "2018-10-16"
-link: "https://www.imdb.com/title/tt8633250"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Garotas em Fuga"
+categories:
+- draft
+- movies
+date: '2018-10-16'
+link: https://www.imdb.com/title/tt8633250
+tags:
+- cinemaqui
+title: Garotas em Fuga
 ---
+
 Garotas em Fuga é uma versão adolescente de Garota Interrompida com um andamento mais leve -- porque não há atrizes à altura -- e uma história mais pesada -- porque é ela que precisa apresentar seus personagens.
 
 Não se trata de um estudo de personagem, como o filme de Angeline Jolie e Winona Ryder, porque vamos descobrindo aos pouco sobre essas três garotas que fogem de um sanatório para jovens moças que por motivo ou outro precisam se isolar da sociedade e manter suas vidas na base de remédios. 

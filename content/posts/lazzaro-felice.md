@@ -1,9 +1,12 @@
 ---
-date: "2018-12-18"
-link: "https://www.imdb.com/title/tt6752992"
-categories: [ "draft", "movies" ]
-title: "Lazzaro Felice"
+categories:
+- draft
+- movies
+date: '2018-12-18'
+link: https://www.imdb.com/title/tt6752992
+title: Lazzaro Felice
 ---
+
 Este é daqueles filmes que as pessoas assistem e saem um pouco confusas, sem saber direito se entenderam e se gostaram. Mas a boa notícia é que não é necessário desvendar completamente esta pérola para se aproveitar dos momentos dramáticos, cômicos e absurdos deste primeiro longa de ficção da diretora/roteirista Alice Rohrwacher, que ganhou Cannes como melhor roteiro. Sua história é simples o suficiente e seu protagonista cativante o suficiente para que essa fábula se construa como uma ponte entre o divino e o profano.
 
 O profano começa a ser contado quase que de forma surreal. Se trata de uma fazenda onde seus empregados são proibidos de sair. Mantidos em cativeiro através de dívidas que vão acumulando mês a mês, não é preciso ser nenhum gênio para perceber desde o começo que há uma relação de escravidão entre esses camponeses e sua "dona", a Marquesa de Luna. O absurdo da situação é que isso está ocorrendo em uma época em que já existem celulares (ainda que os primeiros).

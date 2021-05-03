@@ -1,9 +1,11 @@
 ---
-date: "2015-06-18"
-link: "https://www.imdb.com/title/tt0040522"
-categories: [ "movies" ]
-title: "Ladrões de Bicicletas"
+categories:
+- movies
+date: '2015-06-18'
+link: https://www.imdb.com/title/tt0040522
+title: Ladrões de Bicicletas
 ---
+
 Ladrões de Bicicletas é um filme curto (menos de uma hora e meia) e antigo (da década de 40) e italiano. Porém, apesar dele ser curto ele é completo, apesar dele ser antigo ele é atual, e apesar dele ser italiano ele é, felizmente ou infelizmente, universal. Para os que se interessam por bobagens, foi um dos primeiros longa-metragens a ganhar um Oscar de Filme Estrangeiro, um título que não existia e era dado de vez em quando pela academia. Para os que se interessam pelo Cinema como arte, este filme virou um dos exemplos mais conhecidos do neo-realismo italiano, um estilo de fazer filmes que buscava refletir a realidade social da época, sendo filmado quase como um documentário. Tanto que os personagens não são nada especiais, podendo ser qualquer um na megalópole italiana naquela época pós-guerra.
 
 Aqui sabemos da história de Antonio (Lamberto Maggiorani), um pai de família que em tempos difíceis consegue um emprego que exige que ele use bicicleta: pendurar cartazes pela cidade. Tendo penhorado a magrela, ele pede ajuda a sua esposa, e o casal penhora os lençóis para conseguir o agora equipamento de trabalho de Antonio de volta. Como o título já denuncia, a bicicleta é roubada -- e mesmo assim, a sensação de insegurança no filme é instaurada em um ou dois momentos preciosos de criação de atmosfera. Desesperado, vai pedir ajuda a um amigo, e no dia seguinte, um domingo, vão todos procurar o objeto roubado em uma feira que parece ter sido montada exatamente para esse mercado de bicicletas de "terceira mão".

@@ -1,10 +1,14 @@
 ---
-date: "2019-10-09"
-link: "https://www.imdb.com/title/tt7367960"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Ninja Xadrez"
+categories:
+- draft
+- movies
+date: '2019-10-09'
+link: https://www.imdb.com/title/tt7367960
+tags:
+- cinemaqui
+title: Ninja Xadrez
 ---
+
 Imagine conciliar as histórias de uma criança escrava de um sweatshop morta a pauladas, seguido da vingança de um ninja de pelúcia com o espírito de um guerreiro e, para finalizar, o desafio comum de um garoto apaixonado pela garota popular da escola. Agora responda rápido: quem deve assistir a esse filme? Crianças ou adultos? Seriam crianças com uma mente de adulto ou adultos que adoram humor negro, mas têm um coração de criança (guardado em um pote na dispensa)? Ninja Xadrez um filme que mistura elementos pesados em uma narrativa infantil, conseguindo agradar, ou melhor dizendo, desagradar, adultos e crianças ao mesmo tempo.
 
 Ele tem uma animação tecnicamente competente, uma trilha sonora até que bacana, mas uma dublagem apática (as vozes que ouvimos nos créditos finais são melhores trabalhadas), impedindo uma conexão com seus personagens. Você não irá se lembrar muito bem dos detalhes da animação cinco minutos após assistir, pois são genéricos demais, cumprindo apenas a função primária de acertar seus estereótipos, seja uma criança tailandesa, um adulto dinamarquês ou um cachorro de raça agressiva.

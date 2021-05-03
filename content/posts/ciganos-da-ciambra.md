@@ -1,10 +1,14 @@
 ---
-date: "2018-04-20"
-link: "https://www.imdb.com/title/tt6802896"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Ciganos da Ciambra"
+categories:
+- draft
+- movies
+date: '2018-04-20'
+link: https://www.imdb.com/title/tt6802896
+tags:
+- cinemaqui
+title: Ciganos da Ciambra
 ---
+
 Que filme impactante! E extenuante. Quando chegamos na última cena estamos esgotados, e não é pelas duas horas de projeção. Ciganos da Ciambra praticamente nos rouba a alma com seu fundo documental e histórico, e faz isso de uma maneira absurdamente tensa e atemporal. Quando o garoto do filme chega ao final, ele passou por tantas iniciações, e todos os passos necessários para se tornar um homem -- algo que ele deseja muito desde o começo -- que quase parece que o filme não vai terminar. Pelo menos para nós. Para ele, valeu completamente a pena.
 
 E é sobre isso que o filme fala: pontos de vista. Na primeira cena vemos o patriarca da família de ciganos chegando próximo a um córrego, em um vale que se abre ao seguir um cavalo que vai um pouco à frente. Ele acaricia os pelos do animal cinzento, mestiço (símbolo), de maneira quase comunicativa, agradecendo por levá-los até aquele lugar. Em seguida, do córrego, faz para si um copo da água com meio limão espremido. Quando vemos o garoto preparando a mesma bebida para seu avô, já muito velho, usando o mesmo tipo de limão, mas a água da torneira, sabemos que uma geração se passou; e alguma coisa mudou naquela família de nômades.

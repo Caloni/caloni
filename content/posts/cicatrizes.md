@@ -1,10 +1,14 @@
 ---
-date: "2019-10-12"
-link: "https://www.imdb.com/title/tt7319312"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Cicatrizes"
+categories:
+- draft
+- movies
+date: '2019-10-12'
+link: https://www.imdb.com/title/tt7319312
+tags:
+- cinemaqui
+title: Cicatrizes
 ---
+
 Em um ano, há mais de 500 crianças desaparecidas na Sérvia, mas essa é uma banal estatística exibida nos créditos finais de Cicatrizes, prêmio do público no Festival de Berlim e agora na Mostra de São Paulo. Ela não nos diz nada sobre as famílias que aguardam eternamente por essas crianças. E o que dirá, então, dos que vivem um luto que pode não ter acontecido.
 
 Mais do que remoer o passado, a direção de Miroslav Terzic demonstra em seu filme um absoluto controle de nossas percepções mais básicas da realidade. Aproveitando ao máximo o econômico e eficiente roteiro de Elma Tataragic, a falta de diálogos na maior parte do tempo é porque tudo que teve que ser dito nesses 18 anos de luto pelo bebê perdido já foi dito, e por isso prestamos atenção completa nessa mãe, Ana (Snezana Bogdanovic) que já não tem mais palavras, e que caminha incessantemente em busca da resposta verdadeira sobre o paradeiro do seu filho, dado como morto após o parto, mas cujo corpo nunca foi revelado.

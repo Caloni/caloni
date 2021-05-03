@@ -1,8 +1,10 @@
 ---
-date: "2007-07-02"
-categories: [ "code" ]
-title: "Introdução ao SoftICE"
+categories:
+- code
+date: '2007-07-02'
+title: Introdução ao SoftICE
 ---
+
 O que acontece quando você precisa depurar um programa e não tem o Visual Studio instalado na máquina onde o problema está ocorrendo? Ora, para isso que existe o Remote Debugging. Eu uso direto. Você só precisa rodar um pequeno programa na máquina que vai ser depurada e abrir uma porta ou duas. O resto o Visual Studio da máquina que vai depurar faz.
 
 Tudo bem, mas e se estamos falando de depuração em kernel mode? Bem, nesse caso o mais indicado é o nosso já conhecido WinDbg. Só precisamos de um cabo serial, firewire ou USB conectando as duas máquinas.

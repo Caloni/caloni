@@ -1,8 +1,10 @@
 ---
-date: "2010-04-01"
-categories: [ "draft",  ]
-title: "Antigo bem-vindo do Cine Tênis Verde"
+categories:
+- draft
+date: '2010-04-01'
+title: Antigo bem-vindo do Cine Tênis Verde
 ---
+
 Olá, caro cinéfilo! Aqui você irá encontrar a coletânea de textos escritos pelo aspirante a crítico de cinema Wanderley Caloni, criado e mantido desde 2010. São mais de 1500 textos sobre filmes e séries, de todos os gêneros, épocas e estilos.
 
 Críticos que costumo ler:

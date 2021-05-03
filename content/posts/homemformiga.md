@@ -1,9 +1,11 @@
 ---
-date: "2015-11-07"
-link: "https://www.imdb.com/title/tt0478970"
-categories: [ "movies" ]
-title: "Homem-Formiga"
+categories:
+- movies
+date: '2015-11-07'
+link: https://www.imdb.com/title/tt0478970
+title: Homem-Formiga
 ---
+
 Mês passado, enquanto trabalhava em meu escritório em casa, um pequeno grilo pulou da janela para do lado de minha mesa. Ele "averiguou" o local e ficou no ponto mais alto do recinto: o suporte fechado de minha câmera. Passados três dias, resolvi alimentá-lo com um pedaço de folha de alface e uma uva. Logo foram folhas do manjericão e salsinha, direto dos meus vasos do quintal. Quando ele ia passear em torno do aquecedor, fui aos poucos abrindo o suporte onde ele ficava até atingir quase a altura do parapeito da janela, no que ele voltava a escalá-lo, sempre permanecendo parado por longas horas no seu ponto mais alto.
 
 Até que um dia preparei o segurador do suporte para apontar diretamente para a janela, quando ele finalmente colocou seu plano em ação: deu um salto "gigantesco" para fora, permanecendo um tempo no terraço, mas logo desaparecendo para sempre.

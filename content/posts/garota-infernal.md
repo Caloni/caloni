@@ -1,9 +1,11 @@
 ---
-date: "2011-05-21"
-link: "https://www.imdb.com/title/tt1131734"
-categories: [ "movies" ]
-title: "Garota Infernal"
+categories:
+- movies
+date: '2011-05-21'
+link: https://www.imdb.com/title/tt1131734
+title: Garota Infernal
 ---
+
 Aprendemos duas coisas assistindo Garota Infernal: que não se dá Oscar de melhor roteiro para uma estreante com delírios de grandeza (Diablo Cody, de Juno) e não se coloca atrizes como Megan Fox (Transformers e... argh! Transformers 2), que rivaliza com Kristen Stewart em atuação, em um papel principal.
 
 Ou talvez se coloque. Afinal de contas, Fox não compromete em nada esse projeto mais do que bem vindo aos amantes de seu corpo e seus lábios. Na verdade, talvez seja a escolha ideal para uma personagem cuja principal função seja a de andar seminua por aí se alimentando de homens.

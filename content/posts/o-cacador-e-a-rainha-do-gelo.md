@@ -1,9 +1,12 @@
 ---
-date: "2018-07-01"
-link: "https://www.imdb.com/title/tt2381991"
-categories: [ "draft", "movies" ]
-title: "O Caçador e a Rainha do Gelo"
+categories:
+- draft
+- movies
+date: '2018-07-01'
+link: https://www.imdb.com/title/tt2381991
+title: O Caçador e a Rainha do Gelo
 ---
+
 Continuação previsível, baixo orçamento, mas mantém o mesmo universo e alguns efeitos bem impressionantes. A história central é poderosa, pesa no final, mas todo o resto é um passeio monótono, pois praticamente tudo é previsível.
 
 Jessica Chainstain, apesar de boazuda, fala que o Thor envelheceu, mas é ela que é a coroa. O trunfo do filme original era Charlize Theron, e ela só faz uma ponta aqui, no começo e no final. Isso é o que torna o filme minimamente interessante.

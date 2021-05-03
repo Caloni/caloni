@@ -1,9 +1,11 @@
 ---
-date: "2020-04-26"
-link: "https://www.imdb.com/title/tt0084628"
-categories: [ "movies" ]
-title: "Sem Sol"
+categories:
+- movies
+date: '2020-04-26'
+link: https://www.imdb.com/title/tt0084628
+title: Sem Sol
 ---
+
 Sem sol e sem sentido. Este longa de Chris Marker é sobre um francês enxergando o mundo à sua maneira: injusto e caótico. A única coisa que ele não enxerga é o tamanho da pretensão na cabeça de um francês.
 
 A parte do mundo que ele se concentra é o Japão, em que o filme estrutura uma narrativa de cartas de um estrangeiro de passagem por lá. Nós vemos as imagens e escutamos a narradora, mas não ouvimos de fato, pois o texto é confuso e não diz nada com nada.

@@ -1,9 +1,11 @@
 ---
-date: "2013-01-23"
-link: "https://www.imdb.com/title/tt0087233"
-categories: [ "movies" ]
-title: "Amor à Primeira Vista"
+categories:
+- movies
+date: '2013-01-23'
+link: https://www.imdb.com/title/tt0087233
+title: Amor à Primeira Vista
 ---
+
 Ulu Grosbard, falecido recentemente (2012), não fez muitos filmes. Este é um "drama romântico" "a la anos 80" com Meryl Streep e Robert de Niro nos papéis principais e que lida com um tema ainda muito tabu, como podemos notar em trabalho semelhante (mas menos ousado) que Streep fará com Jack Nicholson, [A Difícil Arte de Amar]. Este Amor à Primeira Vista flerta o tempo todo com sua posição a respeito de relacionamentos extra-conjugais, e essa indecisão vista hoje em dia pode tanto significar uma época de transição quanto a transição dos seus próprios personagens, aos poucos aprendendo o valor da liberdade. Como fio narrativo, a indecisão de ambos funciona maravilhosamente bem como gerador de tensão.
 
 Essa tensão pode ser sentida materialmente no valor que o tempo possui para ambos. Pelo menos dois encontros na estação um deles se atrasa e o outro precisa aguardar, lembrando que em ambas as situações o encontro entre eles é crucial para o destino de suas vidas. A rima metafórica aqui é clara: o casamento pode ser um atraso em nossa vida (o que não quer dizer que seja em todas), e por isso nossa próxima companhia merece o benefício da espera, e paciência para a transição que gera nossa transformação como seres humanos.

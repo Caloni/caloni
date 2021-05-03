@@ -1,9 +1,12 @@
 ---
-date: "2016-11-02"
-link: "https://www.imdb.com/title/tt3917908"
-categories: [ "draft", "movies" ]
-title: "Um Homem Insignificante"
+categories:
+- draft
+- movies
+date: '2016-11-02'
+link: https://www.imdb.com/title/tt3917908
+title: Um Homem Insignificante
 ---
+
 Fui convidado a assistir este documentário por um de seus diretores, Vinay Shukla, na 40a. Mostra de São Paulo. Fiquei imensamente lisonjeado pelo Cine Tênis Verde ser reconhecido como uma fonte de conhecimento a respeito da sétima arte. Temos feito o possível para incluir nesse festival o máximo de textos. Como já havia agenda (e recursos) para tal, selecionei-o na sua última sessão, dia 1. Curiosamente quase não consegui assisti-lo graças à bagunça que foi a cabine de Snowden, de Oliver Stone, na manhã do mesmo dia. Felizmente consegui chegar a tempo de ver o que os diretores estreantes haviam bolado a respeito dos últimos acontecimentos políticos em um país muito próximo culturalmente ao Brasil. E fiquei mais feliz ainda ao ter gostado, e muito, do filme, o que evita que eu seja obrigado, por integridade, a tecer críticas pesadas aos idealizadores do longa. Não foi dessa vez ;)
 
 E eis um romance no formato de documentário político. No meio de tanta hipocrisia e sujeira nesse meio, as eleições, que seriam o único momento democrático minimamente relevante para o homem comum, hoje é tomado por partidos que representam os interesses dos que os financiam, transformando um ideal nobre em uma máquina de corrupção.

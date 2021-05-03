@@ -1,9 +1,12 @@
 ---
-date: "2016-05-07"
-link: "https://www.imdb.com/title/tt0242653"
-categories: [ "draft", "movies" ]
-title: "Matrix Revolutions"
+categories:
+- draft
+- movies
+date: '2016-05-07'
+link: https://www.imdb.com/title/tt0242653
+title: Matrix Revolutions
 ---
+
 Não é fácil lidar com a própria ignorância. Viciados em ciência e suas explicações muito boas para o nosso mundo, além do fato de nosso código genético conter uma necessidade incontrolável de extrair sentido para tudo, e portanto anseia por explicações a todo momento que não deixe margens para dúvida, muitas vezes nos esquecemos que na realidade há muito nela que é nossa interpretação. Podemos ter uma boa ideia do que ela significa para todos a todo momento, mas nunca a verdade completa do que isso significa para cada um de nós.
 
 E o filme-continuação dos Irmãos Wachowski para o universo "Matrix", que lida com questões existenciais, filosóficas, místicas e tecnológicas, tudo no mesmo pacote, acertadamente evita responder todas as questões levantadas no filme do meio, "Matrix Reloaded", para antes se consolidar como uma viagem ambiciosa a um mundo extra-sensorial e lançar mais um punhado novo de ideias que tentam a todo o momento colorir ainda mais a interpretação dessa realidade imaginada pela dupla de diretores.

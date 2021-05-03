@@ -1,8 +1,11 @@
 ---
-date: "2014-04-29"
+categories:
+- draft
+- blog
+date: '2014-04-29'
 title: Que geleia de mocotó
-categories: [ "draft", "blog" ]
 ---
+
 [![cowblet-cover](http://i.imgur.com/iqT5sSy.jpg)](/images/14065766204_532438eaed_n.jpg)
 
 A primeira bateria de problemas da segunda fase do Code Jam me mostrou o porquê do seu nome: meu cérebro ficou feito geleia (ha ha ha). Não consegui resolver nenhum problema a tempo, mas não culpo o C++, que passei a usar para essa fase. É burrice aliada a pressão. Duas horas e meia para entender um problema é o tipo de coisa que me deixa pensando mais no tempo do que no problema. Tenho que melhorar isso.
@@ -129,4 +132,3 @@ _Observação: note que retirei o wrapper costumeiro dos exercícios do Code Jam
 O que aprendi dessa pequena aventura foi: não importa o quanto um problema pareça fácil, anotar em um pedaço de papel é o caminho mais curto entre a mente e o código.
 
 Que venha a segunda bateria de problemas!
-

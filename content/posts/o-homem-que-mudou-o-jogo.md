@@ -1,9 +1,11 @@
 ---
-date: "2012-03-06"
-link: "https://www.imdb.com/title/tt1210166"
-categories: [ "movies" ]
-title: "O Homem Que Mudou o Jogo"
+categories:
+- movies
+date: '2012-03-06'
+link: https://www.imdb.com/title/tt1210166
+title: O Homem Que Mudou o Jogo
 ---
+
 Brad Pitt é um ator com um controle de personagem invejável. Podemos acompanhar sua trajetória em papéis mais exóticos como o do vampiro Louis (Entrevista com o Vampiro), do maníaco Jeffrey Goines (Os 12 Macacos), do inconsequente Tyler Durden (Clube da Luta) e do cômico Tenente Aldo Raine (Bastardos Inglórios) e compararmos com papéis mais contidos ou dramáticos como o pai de família em [A Árvore da Vida], o detetive David Mills em Seven e o gerente de um time de beisebol Billy Beane, papel que desempenha em O Homem que Mudou o Jogo que faz ficarmos em dúvida se existem dois, três ou mais clones do ator escondidos e revelados em momentos pontuais de sua carreira.
 
 A história é baseada em um livro que por sua vez é baseada em fatos reais ocorridos com o gerente geral do time de beisebol Billy Beane do Oakland Athletics. Com o roteiro assinado (depois de vários conflitos com a produtora Sony) pelos ótimos Steven Zaillian (Os Homens que Não Amavam as Mulheres versão 2011) e Aaron Sorkin (A Rede Social), a direção documental de Bennett Miller, que usa com o diretor de fotografia Wally Pfister uma granulação maior justamente para ampliar a temática para a vida real, acerta em manter os atores parados e dialogando a maior parte do tempo, dando ênfase em suas performances e facilitando nossa identificação com a história e os personagens. Porém, acerta mais uma vez em determinados momentos se deixar levar por uma abordagem mais poética, mas que exatamente por refletir a realidade já mostrada se torna tão mais forte e tão mais presente em nossas mentes.

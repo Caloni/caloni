@@ -1,9 +1,11 @@
 ---
-date: "2011-12-04"
-link: "https://www.imdb.com/title/tt1402488"
-categories: [ "movies" ]
-title: "Happy Feet 2: O Pinguim"
+categories:
+- movies
+date: '2011-12-04'
+link: https://www.imdb.com/title/tt1402488
+title: 'Happy Feet 2: O Pinguim'
 ---
+
 Era de se esperar uma queda básica na qualidade narrativa do original Happy Feet, de 2006. Na época pegando carona no belíssimo documentário do ano passado, [A Marcha dos Pinguins], o filme traçava um paralelo do que aconteceria se um dos filhotes da espécie apresentasse uma característica... inusitada. No caso, todos os pinguins da raça Imperador são exímios cantadores, enquanto o filhote diferente gostava de sapatear. Ambas as características suportaram números de encher os olhos e os ouvidos, com performances de cair o queixo, com destaque absoluto para Somebody to Love (Queen).
 
 Aqui a dança muda um pouco. É indiscutível a qualidade gráfica dos pinguins, como já era 5 anos atrás, mas agora dois novos componentes da "fauna" antártica merecem o destaque absoluto: Will e Bill, dois espécimes de Krill: desde a textura até os movimentos dos olhos, tudo é perfeito nesses dois, que combinam suas cores com o fundo do mar gelado de maneira absolutamente natural e, de certa foram, poética.

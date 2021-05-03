@@ -1,9 +1,11 @@
 ---
-date: "2020-08-10"
-link: "https://gist.githubusercontent.com/Caloni/e2772b5107b99f151d00152f710cc8f9/raw/09e2101bac330ba7b1109e06f35478ea47f203a7/conversations-with-pauline-kael.txt"
-categories: [ "books" ]
-title: "Conversations With Pauline Kael"
+categories:
+- books
+date: '2020-08-10'
+link: https://gist.githubusercontent.com/Caloni/e2772b5107b99f151d00152f710cc8f9/raw/09e2101bac330ba7b1109e06f35478ea47f203a7/conversations-with-pauline-kael.txt
+title: Conversations With Pauline Kael
 ---
+
 Este livro é uma pequena pérola para quem ainda não conhece Kael, a crítica mais versátil, corajosa e indigesta da história do cinema. Suas opiniões são fortes e você provavelmente vai discordar da maioria. Mas seu texto é delicioso.
 
 Essa coletânea editada por Will Brantley envolve vários momentos de sua carreira e a descreve a partir de vários pontos de vista, já que cada entrevistador a enxerga de certa maneira. Este compilado acaba se tornando, então, no conjunto, um "Cidadão Kael", fazendo um trocadilho com a obra mais conhecida que Kael já esmiuçou, o filme Cidadão Kane. Nunca saberemos quem de fato foi o ser humano por trás da crítica, e após ler o livro terminamos sabendo ainda menos.

@@ -1,9 +1,11 @@
 ---
-date: "2015-06-01"
-link: "https://www.imdb.com/title/tt2872750"
-categories: [ "movies" ]
-title: "Shaun, o Carneiro: O Filme"
+categories:
+- movies
+date: '2015-06-01'
+link: https://www.imdb.com/title/tt2872750
+title: 'Shaun, o Carneiro: O Filme'
 ---
+
 Apesar de eficiente por oito anos em pequenos episódios de sete minutos, a série dos estúdios Aardman nunca se aventurou em um longa-metragem sobre um carneiro muito esperto, um cachorro e fazendeiro que lembram versões agrícolas de Wallace e Gromit, e um bando de ovelhas que esbanjam charme e bom humor. O resultado não é apenas um longo episódio como a série televisiva, mas um filme que se aproveita de homenagens e referências muitas antigas sobre o Cinema e o próprio universo sempre criativo desses personagens, onde o fato de serem miniaturas manipuladas em stop motion nunca é um empecilho para criar as mais hilárias sequências.
 
 Dirigido pelo roteirista Mark Burton e com a ajuda do estreante Richard Starzak, o filme se aproveita da dupla original, Justin Fletcher e John Sparkes, para interpretar Shaun e o Fazendeiro (que não tem um nome). A relação do trio carneiro, cachorro e fazendeiro é de longa data, e vemos uma foto empoeirada e descolorida de uma época bucólica e divertida. A rotina do dia-a-dia, no entanto, faz com que Shaun se desgaste, o que o faz bolar um plano para quebrar aquele ciclo interminável de acorda, levanta, e vai dormir. Seguindo a mesma estrutura de um episódio, mas com tempo o suficiente para explorar mais, o plano de Shaun parece que tem tudo para falhar quando o Fazendeiro vai parar na cidade grande, bate a cabeça e não se lembra mais quem é, se transformando em um famoso cabelereiro no processo.

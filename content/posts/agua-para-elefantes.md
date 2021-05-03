@@ -1,9 +1,11 @@
 ---
-date: "2012-08-27"
-link: "https://www.imdb.com/title/tt1067583"
-categories: [ "movies" ]
-title: "Água para Elefantes"
+categories:
+- movies
+date: '2012-08-27'
+link: https://www.imdb.com/title/tt1067583
+title: Água para Elefantes
 ---
+
 Uma história tão inspirada como essa, que consegue relacionar os sentimentos descontroláveis do dono de um circo da década de 30 com seus animais e seu sentimento de posse não só para com eles, como para seus funcionários e sua própria esposa, mereceria um elenco melhor escolhido. Não me levem a mal: Christoph Waltz é o máximo, apesar de com um personagem não tão redondo quando o impagável Coronel Hans Landa no Bastardos Inglórios. Porém, aqui a figura de August é mais sombria e menos irônica, e os trejeitos de Waltz deflagram essa discrepância. A mesma coisa com a não-tão-linda-como-é-sugerida Marlena/Reese Whitherspoon, que possui os mesmos trejeitos de tantas comédias românticas e não transparece a figura ingênua e dócil que sugeriria sua personagem.
 
 Do elenco principal, o único que merece alguma atenção é Robert Pattinson (Jacob), que não desagrada fazendo o papel do personagem que empresta seus olhos para o espectador quando este adentra no mundo do circo. Até o romance com Marlena é compreensível, e as cenas em que os vemos juntos transparece o perigo que isso representa.

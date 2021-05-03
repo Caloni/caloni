@@ -1,8 +1,12 @@
 ---
-date: "2019-09-07"
-categories: [ "draft", "code", "draft",  ]
-title: "Vcpkg: Atualizando Lib Asio"
+categories:
+- draft
+- code
+- draft
+date: '2019-09-07'
+title: 'Vcpkg: Atualizando Lib Asio'
 ---
+
 Hoje tive que compilar a versão 1.13.0 do Asio para Windows, mas o vcpkg não suporta essa versão ainda, apesar de suportar uma versão (1.12.2.2). Daí entra os problemas que todo programador Windows tem para manter bibliotecas de terceiro compilando em seu ambiente, mas agora com o vcpkg isso nem é tão difícil assim. Vamos lá.
 
 Primeiro de tudo, os pacotes disponíveis no vcpkg podem não ser os disponíveis no branch oficial, que é apenas uma base, que está sendo atualizado e mantido por uma equipe grande que responde os issues, é verdade, mas nem sempre possui as versões que precisamos no dia-a-dia. Para adicionar ou modificar os pacotes deve-se mexer na pasta port do projeto. Dentro dela há uma pasta para cada pacote disponível.

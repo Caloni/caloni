@@ -1,9 +1,13 @@
 ---
-date: 2019-07-10T00:08:25-03:00
-title: "Como Publicar Seu Blog Em Hugo Para Ebook"
-categories: [ "draft", "blog" ]
-desc: "Dicas de como publicar o conteúdo que você escreve em um formato simples de guardar."
+categories:
+- draft
+- blog
+date: 2019-07-10 00:08:25-03:00
+desc: Dicas de como publicar o conteúdo que você escreve em um formato simples de
+  guardar.
+title: Como Publicar Seu Blog Em Hugo Para Ebook
 ---
+
 Eu publico meu blog inteiro de tempos em tempos para um ebook que construo formatando primeiro em html através de um tema do [Hugo](https://gohugo.io/), o parser de blog que estou usando no momento porque ele suporta 2500 posts sem reclamar. É uma receita simples de sucesso se você precisar ter todo seu conteúdo indexado para rápida referência ou leitura cronológica.
 
 A primeira coisa a ser feita é preparar um tema para formatar seu html. Eu já tenho um [linkado no meu blogue](https://github.com/Caloni/book/tree/f1663ad104f51459fe7d17e9ce1e0305901330b4) e que precisa apenas formatar o index.html, pois todo o conteúdo e índices estarão lá. Segue um exemplo atual que uso. Ele possui índice alfabético, inclusão de um arquivo-diário que mantenho, listagem das categorias (com índices para cada uma delas) e listagem cronológica (e link para pular direto para o conteúdo).

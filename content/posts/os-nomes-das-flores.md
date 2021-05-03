@@ -1,10 +1,13 @@
 ---
-date: "2020-10-26"
-link: "https://www.imdb.com/title/tt10528564"
-categories: [ "movies" ]
-tags: [ "cinemaqui",  ]
-title: "Os Nomes das Flores"
+categories:
+- movies
+date: '2020-10-26'
+link: https://www.imdb.com/title/tt10528564
+tags:
+- cinemaqui
+title: Os Nomes das Flores
 ---
+
 Os Nomes das Flores é um filme difícil de ser assistido. Difícil porque dá vontade de dormir. Nada acontece e as cenas e falas são repetidas à exaustão. O ritmo é lento, quase parando. Com oitenta minutos apenas, no começo da história entramos em um vórtice do espaço-tempo onde o tempo não passa. Não há uma cena, um quadro sequer, que se torne o motivo de assistir a este filme. Ele é completamente inútil. Um desperdício de energia para quem produziu e para quem irá assistir. Tenho pena dessas pobres almas.
 
 A sua sinopse diz respeito a uma suposta história que conta que nas últimas horas de vida de Ernesto "Che" Guevara, revolucionário famoso por toda América Latina, uma professora teria lhe feito uma sopa e, ao tomá-la, ele retribui declamando uma poesia sobre flores. E morreu. No céu tem sopa?

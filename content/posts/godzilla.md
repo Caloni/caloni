@@ -1,9 +1,11 @@
 ---
-date: "2014-05-28"
-link: "https://www.imdb.com/title/tt0831387"
-categories: [ "movies" ]
-title: "Godzilla"
+categories:
+- movies
+date: '2014-05-28'
+link: https://www.imdb.com/title/tt0831387
+title: Godzilla
 ---
+
 O filmes-desastre costumam colocar em seu "currículo" o envolvimento de seus personagens (para tornar pessoal), alguma perda familiar (para tornar doloroso) e um momento de honra (ou político) que unirá todos contra o "mal" que assola a humanidade. No mundo real, nenhum destes itens costuma ser muito frequente ou relevante porque ninguém, exceto religiosos, costuma personalizar os infortúnios de um terremoto, tsunami, epidemias ou até mesmo acidentes nucleares como um inimigo que deve ser combatido (ou como punição aos infiéis). Também sabermos que discursos otimistas fazem parte da rotina burocrática de chefes de estado e nunca atingem a população mais prejudicada. Dessa forma, qual o sentido do monstro nipo-clássico Godzilla ser encarado como um inimigo? Nenhum! E é exatamente isso que o segundo longa de Gareth Edwards evita fazer durante os 123 minutos dessa produção hollywoodiana que mantém suas origens e homenagens orientais bem localizadas.
 
 Desde o começo ele encontra uma forma brilhante de focalizar nossa atenção ao drama humano que é este filme ao usar Bryan Cranston e Juliette Binoche como âncoras morais extremamente eficientes (por serem conhecidíssimos) ao mesmo tempo que ajusta nossos olhares em torno (mas não apenas) de seu filho Ford (Aaron Taylor-Johnson, de Kick-Ass) e, claro, sua família. Ou seja, sim, existe a família como um dos temas centrais. Porém, o objetivo de Edwards não é subverter todo o subgênero, mas usar os clichês a favor de contar uma história da melhor maneira, e não apenas como muletas padronizadas para "cumprir tabela" enquanto exibe efeitos devastadores.

@@ -1,10 +1,13 @@
 ---
-date: "2015-08-31"
-link: "https://www.imdb.com/title/tt3163304"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "A Festa de Despedida"
+categories:
+- movies
+date: '2015-08-31'
+link: https://www.imdb.com/title/tt3163304
+tags:
+- cinemaqui
+title: A Festa de Despedida
 ---
+
 A eutanásia, acreditem ou não, ainda é um tema bastante controverso. Apesar de já legalizado em alguns países pelo mundo -- assim como o suicídio assistido -- a perda voluntária de uma vida humana é um assunto que divide opiniões. Afinal, de quem seria a decisão final: da família que nutre uma esperança sobrenatural em uma possível cura, ou do indivíduo, disposto a terminar com sua própria dor e sofrimento?
 
 Esse é o tema de A Festa de Despedida, que apresenta em sua história diferentes testemunhos e diferentes visões sobre o assunto. Inicialmente levantando preocupações (naturais) sobre o fato de uma pessoa que concorde em matar outra estar cometendo o crime de assassinato (legal e eticamente), aos poucos o foco obviamente se torna a de casais que passaram boa parte de suas vidas lado a lado, e que agora precisam enfrentar a dura realidade de uma doença terminal.

@@ -1,9 +1,11 @@
 ---
-date: "2014-05-13"
-link: "https://www.imdb.com/title/tt1840309"
-categories: [ "movies" ]
-title: "Divergente"
+categories:
+- movies
+date: '2014-05-13'
+link: https://www.imdb.com/title/tt1840309
+title: Divergente
 ---
+
 Divergente é o Jogos Vorazes sem muita ação, sem muito drama, sem atuações e com pouca inspiração. No entanto, não deixa de ser um filme OK. Ele se mantém morno o tempo todo, mas aqui e ali existem momentos que prometem ser mais alguma coisa. Infelizmente, são apenas momentos. A apresentação do mundo distópico ocupa uma parte da história, e a tentativa da protagonista, Beatrice/Tris (Shailene Woodley de Os Descendentes), de não ser eliminada da facção que escolheu ocupa a outra parte da história. É necessário dizer que Tris é uma Divergente.
 
 Agora, o que seria uma Divergente? Essa questão, tão essencial para toda a trama, parece não fazer tanto sentido se considerarmos que aquele mundo não está tão distante do nosso. Os prédios da cidade onde vivem estão aos pedaços, mas ainda de pé. Suas armas e trajes são ligeiramente diferentes. A história é a seguinte: depois de uma guerra, a sociedade resolveu se dividir em cinco facções distintas. Quando você atinge uma certa idade, deve escolher a qual facção irá pertencer pelo resto de sua vida. Existe um teste onde é possível detectar qual seria sua facção favorita, mas ainda assim você é livre para decidir, com a ressalva que, uma vez escolhido, não poderá voltar atrás jamais.

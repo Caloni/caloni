@@ -1,9 +1,11 @@
 ---
-date: "2013-11-22"
-link: "https://www.imdb.com/title/tt1817273"
-categories: [ "movies" ]
-title: "O Lugar Onde Tudo Termina"
+categories:
+- movies
+date: '2013-11-22'
+link: https://www.imdb.com/title/tt1817273
+title: O Lugar Onde Tudo Termina
 ---
+
 É uma satisfação imensa presenciar tantas virtudes técnicas juntas em um filme ambicioso também em seu lado narrativo e temático. Há muitas ideias a serem interpretadas e sentidas em O Lugar Onde Tudo Termina, sendo a principal delas é: até que ponto nossas escolhas conseguem influenciar de alguma forma o futuro? Há uma justiça (divina ou não) em algum lugar ou tudo é uma questão de interpretação?
 
 Iniciamos a história com Luke (Ryan Gosling), um motoqueiro cuja longa sequência sem corte em que o vemos adentrar em um globo da morte e fazer peripécias com três motos juntas já apresenta também sua habilidade e denota a intenção do diretor Derek Cianfrance de tornar seus atores famosos em figuras mais humanas e realistas (como já havia feito no excelente Namorados para Sempre). Há um relacionamento passado que revela que Luke é pai (uma referência e reversão de expectativa interessante com os arquétipos de Star Wars), resultado de uma aventura amorosa com Romina (Eva Mendes). A tristeza de Luke perante a incapacidade de formar uma família ou ao menos manter-se por perto é o ponto de transição que faz com que ele se isole de sua fama e reinicie sua vida se fixando no local.

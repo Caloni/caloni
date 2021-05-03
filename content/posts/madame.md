@@ -1,10 +1,14 @@
 ---
-date: "2018-03-19"
-link: "https://www.imdb.com/title/tt6045466"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Madame"
+categories:
+- draft
+- movies
+date: '2018-03-19'
+link: https://www.imdb.com/title/tt6045466
+tags:
+- cinemaqui
+title: Madame
 ---
+
 É uma comédia de costumes que analisa a elite decadente que janta em uma mansão em Paris como parte do jogo de ser rico. No meio deles está a governanta da anfitriã, disfarçada de realeza. Só que a história é menos sobre a plebeia e mais sobre como aquelas criaturas interagem com aquele brinquedo ocasional.
 
 E é essa interação que revela a habilidade da diretora e roteirista Amanda Sthers em captar o quão fascinante é o tom burguês secular que aquelas pessoas adotam enquanto todos parecem alheios à própria existência, ou à existência de outras pessoas na sala. Eles se acham relevantes, mas têm menos o que dizer que a plebeia. Quando um deles critica, de maneira automática e acéfala, Hugh Grant e os finais melosos de seus filmes, ele recebe um insight maravilhoso de como todos adoram finais felizes, e como as pessoas não conseguem evitar a esperança.

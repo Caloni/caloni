@@ -1,9 +1,11 @@
 ---
-date: "2011-08-31"
-link: "https://www.imdb.com/title/tt1318514"
-categories: ["movies" ]
-title: "Planeta dos Macacos: A Origem"
+categories:
+- movies
+date: '2011-08-31'
+link: https://www.imdb.com/title/tt1318514
+title: 'Planeta dos Macacos: A Origem'
 ---
+
 Esse texto não é indicado para os que já viram algum filme da série Planeta dos Macacos, iniciada em 68. (Na verdade, nem o atual de 2011: leia depois de assistir.)
 
 Escrito pela dupla Rick Jaffa e Amanda Silver (que aqui também são produtores), o filme procura explicar o que ocorreu com o mundo em que Charlton Heston pousou no filme de 68, trazendo necessariamente à tona que o planeta onde os símios caçam os humanos é a própria Terra. É significativo, então, que o filme comece justamente mostrando chimpanzés sendo caçados por humanos para serem levados a um laboratório e servirem de cobaias para experimentos científicos onde os testes em humanos seriam muito perigosos. Mais do que isso: ao retratar essa realidade sob a ótica dos macacos, o filme de imediato toma o partidos destes, o que não é difícil de perceber ao notarmos a forma com que os animais são objetificados em prol da "ciência" e tornam-se, assim, um meio barato de possibilitar o avanço nas pesquisas e otimizar, assim, o retorno financeiro da instituição que deles se apropia.

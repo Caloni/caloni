@@ -1,9 +1,12 @@
 ---
-date: "2016-01-05"
-link: "https://www.imdb.com/title/tt0050986"
-categories: [ "draft", "movies" ]
-title: "Morangos Silvestres"
+categories:
+- draft
+- movies
+date: '2016-01-05'
+link: https://www.imdb.com/title/tt0050986
+title: Morangos Silvestres
 ---
+
 Os filmes de Ingmar Bergman tem um efeito hipnótico que é difícil se desvencilhar. Pelo menos para mim. Todo filme que assisto dele, quase morro de sono.
 
 Embalando sua história em um ritmo acalentador, nesse caso nostálgico e dramático, Bergman em Morangos Silvestres mostra que é possível fazer Grande Cinema sem se importar muito com o público. Aqui ele conta a história de Dr. Isak Borg e seus pensamentos a respeito de um dia incomum em sua vida, quando irá receber um prêmio no final dela, mas se questiona se suas decisões pessoais até hoje não foram egoístas. Sua mulher já está morta, sua mãe não. A conversa que tem com sua nora no mínimo revela um caráter desagradável de Isak, mas apenas se você conhecer melhor esse distinto senhor. Como sua governanta já aprendeu, é melhor não dar intimidade ou confiança para essa pessoa.

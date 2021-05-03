@@ -1,8 +1,10 @@
 ---
-date: "2007-10-30"
-title: "Brincando com o WinDbg (alterando mensagem de erro no Bloco de Notas / Notepad)"
-categories: [ "code" ]
+categories:
+- code
+date: '2007-10-30'
+title: Brincando com o WinDbg (alterando mensagem de erro no Bloco de Notas / Notepad)
 ---
+
 No [primeiro artigo sobre o WinDbg] usamos o aplicativo Logger para verificar as funções APIs que são chamadas por um determinado programa. Agora iremos dar um passo adiante e depurar de fato um aplicativo qualquer, com o detalhe que não teremos o código-fonte.
 
 Existem duas maneiras de depurar um programa localmente usando o WinDbg: iniciá-lo pelo próprio WinDbg ou conectar o depurador (attach) em um programa já em execução. Podemos especificar o que faremos direto na linha de comando ou pela sua interface. Pela linha de comando podemos usar os comandos windbg notepad.exe, windbg -pn notepad.exe e windbg -p pid. Pela interface são os conhecidos itens do menu File: Open Executable e Attach to a Process.

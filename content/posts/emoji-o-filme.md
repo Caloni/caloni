@@ -1,9 +1,12 @@
 ---
-date: "2017-11-23"
-link: "https://www.imdb.com/title/tt4877122"
-categories: [ "draft", "movies" ]
-title: "Emoji: O Filme"
+categories:
+- draft
+- movies
+date: '2017-11-23'
+link: https://www.imdb.com/title/tt4877122
+title: 'Emoji: O Filme'
 ---
+
 Não é sintomático que um filme chamado Emoji tenha tão poucas emoções? Talvez não. Afinal de contas, os emojis basicamente são a simplificação de nossa linguagem e dos nossos sentimentos. Onde um email com uma poesia é colocado na lixeira porque "usar textos é tão retrô" e onde no lugar de um emoji com uma única emoção enlatada surge um emoji com várias!
 
 Spoiler? Quem se importa com isso? Com certeza não os consumidores de trailers de cinema, que entregam praticamente toda a história do filme em poucos segundos. E sinto que com esse filme isso seria realmente possível. Talvez desde o argumento inicial desse filme pouca coisa mudou.

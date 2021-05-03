@@ -1,10 +1,14 @@
 ---
-date: "2018-08-08"
-link: "https://www.imdb.com/title/tt4575576"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Christopher Robin: Um Reencontro Inesquecível"
+categories:
+- draft
+- movies
+date: '2018-08-08'
+link: https://www.imdb.com/title/tt4575576
+tags:
+- cinemaqui
+title: 'Christopher Robin: Um Reencontro Inesquecível'
 ---
+
 Faz quanto tempo que você não tira férias? Acha normal isso? "Christopher Robins: Um Reencontro Inesquecível" chega aos cinemas afirmando que não, não é normal. Trabalhar sem descanso é uma morte lenta, uma hibernação forçada enquanto as coisas boas da vida ficam esperando para sempre. Ursinho Pooh nos faz lembrar de maneira bem humorada, despretensiosa e despreocupada do poder do ócio e de como é importante no dia a dia lembrar do que valorizamos mais.
 
 Produtividade pode ser uma maldição. Vivemos nessa era da eficiência, onde humanos que viram custos são dispensados sem nenhuma cerimônia. A história se passa na pós segunda guerra, o que é uma época tão sombria quanto, com pouco lugar de trabalho para tanta gente e um futuro incerto lá fora. Os criadores do Ursinho Pooh, A.A. Milne e Ernest Shepard, assim como os filósofos gregos, sabiam valorizar o não fazer nada. Em sua época ele entendia a necessidade do ser humano em não apenas trabalhar, mas também relaxar e gozar de nossas privilegiadas vidas pós revolução industrial. Se não, qual o sentido disso tudo?

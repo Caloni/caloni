@@ -1,9 +1,12 @@
 ---
-date: "2019-06-10"
-link: "https://www.imdb.com/title/tt8503298"
-categories: [ "draft", "series" ]
-title: "Black Mirror S05 E01 Striking Vipers"
+categories:
+- draft
+- series
+date: '2019-06-10'
+link: https://www.imdb.com/title/tt8503298
+title: Black Mirror S05 E01 Striking Vipers
 ---
+
 Black Mirror S05 abre com uma história de broderagem filmada em São Paulo, Brazil, lugar do universo onde mais tem broderagem. Pra quem desconhece o termo, é quando você é viado, mas só com seu abiguinho.
 
 O que me incomoda nisso tudo é um episódio de uma hora só pra contar essa história, sem nenhuma moral ou sentimento mais profundo. A série que alertava para os perigos da tecnologia vai pro caminho da putaria, mas em um conteúdo 18+ parece desenho de menininha perto do Love, Death + Robots.

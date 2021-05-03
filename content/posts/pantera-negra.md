@@ -1,9 +1,12 @@
 ---
-date: "2018-05-24"
-link: "https://www.imdb.com/title/tt1825683"
-categories: [ "draft", "movies" ]
-title: "Pantera Negra"
+categories:
+- draft
+- movies
+date: '2018-05-24'
+link: https://www.imdb.com/title/tt1825683
+title: Pantera Negra
 ---
+
 Uma desgraça o que o Império Britânico fez com os povos colonizados da África. E agora, após assistir Pantera Negra, eu não consigo deixar de me lembrar desse sotaque britânico inconveniente de Chadwick Boseman, que soa tão fake, mas tão fake, que chega a ser mais fake que a própria historieta do filme sobre recursos trazerem tecnologia e sobre a riqueza ser um jogo de soma zero. Até quando serão contadas as lendas sobre economia folclórica ou dívida histórica para nossos filhos? É uma desgraça.
 
 Mas, dito isto, Pantera Negra possui em seu núcleo uma narrativa original, que utiliza elementos culturais africanos para conseguir reciclar o já defasado sub-gênero de sub-super-heróis da Marvel que ninguém nunca ouviu falar. Aqui há a lenda de Wakanda, que foi agraciada por um meteoro com o material mais resistente da Terra, vibranium, e que por isso é o povo mais próspero do continente negro. Embora ninguém tenha explicado como eles manipulam esse material mais resistente, o que me deixou pensando durante todo o filme é como os idealizadores dessa história conseguem harmonizar o fato de que aparentemente é a monarquia (sistema herdado dos brancos britânicos) que mantém uma certa estabilidade nesta sociedade, e é o sistema tribal o que a desestabiliza. Marco cultural ou não, aqui é visto como um ato selvagem, que é mantido por pura tradição.

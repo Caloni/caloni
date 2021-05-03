@@ -1,9 +1,12 @@
 ---
-date: "2018-06-02"
-link: "https://www.imdb.com/title/tt1700841"
-categories: [ "draft", "movies" ]
-title: "Festa da Salsicha"
+categories:
+- draft
+- movies
+date: '2018-06-02'
+link: https://www.imdb.com/title/tt1700841
+title: Festa da Salsicha
 ---
+
 Essa delícia de filme é aquele tipo de brincadeira que você vai aumentando com os amigos mais chegados e, quando vai ver, está produzindo um filme. Seth Rogen, Johah Hill, Evan Goldberg, Kristen Wiig e mais uma série de atores irreverentes auxiliam na escrita, produção (nenhum grande estúdio estaria por trás disso) e atuação (dublagem) desta animação que definitivamente não é para crianças, mas que poderia servir de lição para muitos adultos com algumas partes da mente ainda infantil. E ainda dar boas e pesadas risadas.
 
 Greg Tiernan, um diretor mais marginal (Deu a Louca na Cinderela) dirige esta bagunça com a ajuda do diretor mais experiente Conrad Vernon (e especialista em animações, como Shrek 2, "Monstros vs. Alienígenas" e "Madagascar 3: Os Procurados") e conseguem o pequeno milagre de tornar o resultado enxuto e na maior parte das vezes acompanhável como narrativa e ainda inserir as trocentas piadas que esta trupe de humoristas inseriu nesta gigantesca alegoria sobre o mundo dividido que temos (como a eterna briga entre judeus e palestinos) que se encaixa na intolerância e a miopia de religiões em geral (incluindo aqui também a agressividade dos neoateus) e sobre levar às últimas consequências o Dia da Independência americano, ao liberar das garras dos insaciáveis humanos os rotativos produtos de um supermercado onde a história se passa.

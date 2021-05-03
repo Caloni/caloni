@@ -1,9 +1,12 @@
 ---
-date: "2019-03-27"
-link: "https://www.imdb.com/title/tt0372784"
-categories: [ "draft", "movies" ]
-title: "Batman Begins"
+categories:
+- draft
+- movies
+date: '2019-03-27'
+link: https://www.imdb.com/title/tt0372784
+title: Batman Begins
 ---
+
 Batman Begins hoje é óbvio, mas para entender a verdadeira força desse reboot você precisa relacionar com um outro filme chamado Batman e Robin. Assista esse. Eu espero. Esse é o tamanho do gap que se formou entre as duas franquias.
 
 Este é um filme que não apenas respeita a origem do herói da DC como mostra coisas que nunca vimos por completo nos quadrinhos, como a morte dos pais do jovem Bruce Wayne. É um trabalho completo que peca por não confiar no espectador e por ter todas as suas respostas mastigadas, além da incapacidade emocional típica dos trabalhos de Christian Nolan e David S. Goyer, mas agora devemos nos lembrar que é um blockbuster e inspirado nos quadrinhos. E você sabe como esse pessoal de quadrinhos pode ser lerdo ou querer os detalhes literais.

@@ -1,9 +1,12 @@
 ---
-date: "2018-11-17"
-link: "https://www.imdb.com/title/tt5895782"
-categories: [ "draft", "movies" ]
-title: "Um Segredo em Paris"
+categories:
+- draft
+- movies
+date: '2018-11-17'
+link: https://www.imdb.com/title/tt5895782
+title: Um Segredo em Paris
 ---
+
 A diretora Élise Girard parece se pronunciar apenas quando é necessário. Nesse seu segundo longa de ficção ela nos apresenta Mavie e Georges como um casal impossível pela diferença de idades, que conta duas gerações, e ao mesmo tempo tece a criação de um romance nas entrelinhas escritas pela jovem Mavie e nos momentos capturados pela sua memória. Para Mavie o que importa são as sensações.
 
 Isso é o mais interessante no filme minimalista que se segue, pois o velho Georges, interpretado pelo velho de guerra no cinema Jean Sorel ("A Bela da Tarde"), que cuida de uma livraria que não recebe clientes, possui um passado misterioso que é justamente o que faz com que Mavie se apaixone perdidamente por ele.

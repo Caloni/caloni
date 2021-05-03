@@ -1,8 +1,10 @@
 ---
-date: "2008-05-07"
-categories: [ "blog" ]
-title: "Read The Functional Manual"
+categories:
+- blog
+date: '2008-05-07'
+title: Read The Functional Manual
 ---
+
 Percebi essa semana que talvez boa parte da população informática que não progride em suas habilidades, mas gostaria muito, pode ser impedida pela falta de hábito em ler a ajuda do programa | da linguagem | do sistema com calma para encontrar o que procura. Independente do que você é, e para onde quer chegar, saiba que nem tudo na vida pode ser perguntado ao seu colega de baia. Senão você não evolui!
 
 Se você quer dominar um assunto, ou aprender sobre ele, saiba que existem estágio nesse processo. O primeiro estágio é formado principalmente por livros. Se você quer aprender algo, e tem livros sobre o assunto, você é um cara sortudo e feliz.

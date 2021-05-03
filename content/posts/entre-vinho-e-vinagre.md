@@ -1,9 +1,12 @@
 ---
-date: "2019-05-11"
-link: "https://www.imdb.com/title/tt8169446"
-categories: [ "draft", "movies" ]
-title: "Entre Vinho e Vinagre"
+categories:
+- draft
+- movies
+date: '2019-05-11'
+link: https://www.imdb.com/title/tt8169446
+title: Entre Vinho e Vinagre
 ---
+
 Entre Vinho e Vinagre, ou Wine Country, é uma versão alternativa de Sideways se ele fosse sobre mulheres de meia-idade e seus roteiristas soubesse de antemão que menosprezar uvas pode chacoalhar o mercado de vinhos. Você sabia que por causa que no filme estrelado por Paul Giamatti seu personagem destrata o Merlot por ser "fácil demais de beber", elogia as qualidades do Pinot Noir e os preços dessas uvas na vida real despencam e disparam? Este é o "Sideways Effect" e este é o mundo do vinho, onde qualquer comentário subjetivo de um personagem fictício de um filme pode influenciar um mercado bilionário de gente rica e esnobe.
 
 Mas dessa vez está tudo sob controle, pois a Netflix não cometeria essa gafe com os seus acionistas. Aliás, não apenas está sob controle como as mulheres deste filme viajam para o Vale de Napa, antro sagrado dos vinhos de qualidade americanos, e destratam toda essa frescura por trás de aromas, taninos, história da região e porcentagem de álcool. Ah, e pisam no solo sagrado de plantações de vinhos orgânicos (hilário). E aparentemente elas bebe litros de vinho e em vez de dormir em sono profundo elas ficam super-agitadas e começam a dançar. Não que eu queira algum realismo, cara Netflix, mas você está forçando a barra dos conhecedores do poder do tanino alcoolizado.

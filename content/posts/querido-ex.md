@@ -1,9 +1,12 @@
 ---
-date: "2019-07-29"
-link: "https://www.imdb.com/title/tt8443704"
-categories: [ "draft", "movies" ]
-title: "Querido Ex"
+categories:
+- draft
+- movies
+date: '2019-07-29'
+link: https://www.imdb.com/title/tt8443704
+title: Querido Ex
 ---
+
 Dear Ex é uma dramédia de Taiwan falada em mandarim filmada em torno de uma estrutura inicial de comédia romântica misturada com novela, mas em seu núcleo esconde a oportunidade de atuações premiadas em uma narrativa que amadurece rapidamente depois que a criança insuportável que começa a história é posta de escanteio.
 
 Dirigido pela dupla de tailandeses estreantes (no cinema) Mag Hsu e Chih-Yen Hsu, este é um filme cansativo no seu início, pois lembra aqueles trabalhos esquecíveis sobre o drama da separação, da morte, e da pobreza financeira e de espírito. O garoto Jay é órfão de pai há 95 dias e sua mãe está furiosa porque o beneficiário de seu seguro de vida está no nome do seu amante pelo qual ele abandonou a família. Jay é interpretado de uma maneira tão apática pelo ator Roy Chiu que os cineastas são obrigados a editar o filme com desenhos para tornar o resultado mais palatável até chegarmos onde importa.

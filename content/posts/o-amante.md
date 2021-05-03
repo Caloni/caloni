@@ -1,9 +1,11 @@
 ---
-date: "2020-03-28"
-link: "https://www.imdb.com/title/tt0101316"
-categories: [ "movies" ]
-title: "O Amante"
+categories:
+- movies
+date: '2020-03-28'
+link: https://www.imdb.com/title/tt0101316
+title: O Amante
 ---
+
 Eis um filme perfeito do início ao fim. Seu início é enfadonho e preguiçoso, mas no primeiro momento em que este milionário chinês e esta ninfeta europeia se encontram na cama de um quarto sujo de um bairro pobre e distante dos grandes centros, ele nunca mais volta a ser enfadonho.
 
 Sua história é bem direta: é um Lolita realista, épico, mostrado do ponto de vista de uma garota de quinze anos e meio em uma situação completamente diferente. É uma obra quase autobiográfica de Marguerite Duras, que viveu no Vietnã no início do século na pobreza com seus irmãos e a mãe, e já revelando seu final no começo do filme, se tornou a escritora que tanto desejava no início de sua vida. Ao custo de, de acordo com suas palavras, "ter envelhecido completamente aos 18 anos".

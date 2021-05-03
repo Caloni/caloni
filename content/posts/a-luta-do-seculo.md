@@ -1,9 +1,12 @@
 ---
-date: "2018-08-29"
-link: "https://www.imdb.com/title/tt8201726"
-categories: [ "draft", "movies" ]
-title: "A Luta do Século"
+categories:
+- draft
+- movies
+date: '2018-08-29'
+link: https://www.imdb.com/title/tt8201726
+title: A Luta do Século
 ---
+
 A luta é do século. No caso, o século 21. Estamos diante de dois rivais clássicos da luta de boxe do nordeste brasileiro. Todo Duro e Holyfield são os ícones mais desconhecidos que já se teve história no esporte, e ao mesmo tempo possuem a rixa mais incompreensível. Regionalistas e com uma primeira luta com desfecho surpreendente, o desfecho dessa história é mais surpreendente ainda.
 
 Mas nem por isso o diretor/roteirista deste documentário Sérgio Machado (do fraco (Quincas Berro d'Água](/quincas-berro-dagua)) aproveitou a história deste dois boxeadores para traçar a obra do destino de maneira mais catártica. Machado resume a história com uma narração em off burocrática e em ordem cronológica, onde o maior presente é a reunião dos vídeos dos dois brigando, dentro e fora dos ringues. A edição é completa, ritmada, mas não possui um ponto de vista. Talvez o filme tente não dar preferência a nenhum dos dois campeões, mas com isso perde um pouco do que torna uma história boa de se ouvir: a parcialidade dramática.

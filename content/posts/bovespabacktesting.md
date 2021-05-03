@@ -1,8 +1,11 @@
 ---
-date: "2014-01-08"
+categories:
+- draft
+- blog
+date: '2014-01-08'
 title: BovespaBacktesting
-categories: [ "draft", "blog" ]
 ---
+
 Eu não sou apenas um programador: sou um especulador. Ou, para quem ficou com medo, um investidor. Ficou bonito, agora? Trocando em miúdos, isso quer dizer que muitas vezes aposto na bolsa de valores, aquela onde as pessoas ganham e perdem dinheiro loucamente. Porém, assim como faço com minha carreira de desenvolvedor, não deixo de estudar e aprimorar minhas habilidades. Tirando alguns anos de estudo com livros de finanças, economia e contabilidade, foi com base nisso que eu fiz uma série de scripts que realiza operações de backtesting nos papéis da Bovespa.
 
 [![Gordon Gecko](http://i.imgur.com/ZFRXGVX.jpg)](/images/11837267176_953a1a6a4e_z.jpg)

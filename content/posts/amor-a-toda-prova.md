@@ -1,9 +1,12 @@
 ---
-date: "2016-07-28"
-link: "https://www.imdb.com/title/tt1570728"
-categories: [ "draft", "movies" ]
-title: "Amor a Toda Prova"
+categories:
+- draft
+- movies
+date: '2016-07-28'
+link: https://www.imdb.com/title/tt1570728
+title: Amor a Toda Prova
 ---
+
 As comédias românticas das últimas duas décadas criaram aos poucos um amontoado de clichês. Agora, imagine um filme que tenta enfiar vários desses clichês de uma só vez. Um filme onde a professora gostosa é Marisa Tomei, onde mulheres em crise da meia-idade assistem Crepúsculo (mesmo sabendo quão ruim isso é), onde um triângulo amoroso é criado entre a babá, a criança e seu pai. Onde até um genro-surpresa pode aparecer para a festa. Se, em torno de tudo isso, ainda houver dúvidas se este é um filme que comemora o lugar-comum, espere começar a chover depois de um desentendimento do casal principal. Nesse momento, até o personagem olha para o céu e exclama: "isso é tão clichê!".
 
 Tudo começa com o divórcio entre o casal de meia-idade Cal (Steve Carell) e Emily (Julianne Moore). Cal se deixou levar pelo lugar-comum (veja, só) e criou aos poucos uma versão mais chata e mais previsível de si mesmo, deixando Emily disposta a arriscar qualquer aventura boba, como transar com um colega de trabalho. Decidida que o divórcio é a melhor maneira de resolver as coisas, isso desencadeia um turbilhão de acontecimentos em sua família que irá envolver o amor platônico entre seu filho Robbie (Jonah Bobo) e sua babá ligeiramente mais velha Jessica (Analeigh Tipton), que, diga-se de passagem, está apaixonada por Cal. Ao mesmo tempo, o comportamento patético de Cal em ir para o bar e falar sobre seu estado de corno gera compaixão do garanhão do lugar, Jacob (Ryan Gosling), que o ensina truques baratos para catar qualquer mulher disponível e necessitada. Entre as cantadas baratas que Cal começa a utilizar, ele inclui a usada para namorar sua própria mulher. Não muito legal de sua parte, Cal!

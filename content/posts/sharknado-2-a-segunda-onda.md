@@ -1,9 +1,12 @@
 ---
-date: "2016-08-20"
-link: "https://www.imdb.com/title/tt3062074"
-categories: [ "draft", "movies" ]
-title: "Sharknado 2: A Segunda Onda"
+categories:
+- draft
+- movies
+date: '2016-08-20'
+link: https://www.imdb.com/title/tt3062074
+title: 'Sharknado 2: A Segunda Onda'
 ---
+
 Há uma coisa de se orgulhar da série Sharknado: ela não tem medo de passar vergonha. Os personagens ruins falando diálogos escritos por crianças de seis anos em situações absurdamente toscas parecem existir nesse universo por apenas um motivo: inserir no meio deles os tubarões voadores criados por uma computação gráfica que tornou o primeiro Sharknado "famoso", tão famoso que gerou uma série de filmes. Porém, diferente da pretensiosa "saga" Crepúsculo, o objetivo da série é bem mais claro e honesto: "fale mal, fale péssimo, mas fale de mim".
 
 E é necessário falar sobre Sharknado 2, pois ele é tão ruim e irrelevante quanto o primeiro, mas ele gera a falsa impressão de estar arrasando como comédia acidental (aqueles filmes que são tão mal feitos que acabam ficando engraçados). Não está. Acompanhamos todas as sequências do filme com apenas um objetivo: aguardar o momento em que um tubarão vai surgir e matar ou ser morto de uma forma grotesca. Quando isso acontece, há a risada. Porém, no meio de todo o caminho, somos obrigados a acompanhar aquelas pessoas.

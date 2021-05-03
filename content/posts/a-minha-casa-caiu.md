@@ -1,9 +1,12 @@
 ---
-date: "2017-07-31"
-link: "https://www.imdb.com/title/tt2463288"
-categories: [ "draft", "movies" ]
-title: "A Minha Casa Caiu"
+categories:
+- draft
+- movies
+date: '2017-07-31'
+link: https://www.imdb.com/title/tt2463288
+title: A Minha Casa Caiu
 ---
+
 Este é mais um daqueles filmes da safra de filmes sobre mulheres. Mas não é um comrom, e sim uma comédia escrachada sobre os absurdos de uma repórter que deseja o cargo de âncora de um jornal importante da região que até então tinha apenas em seu currículo de gafes ser atacada por gatos.
 
 Aqui estamos falando de uma comédia ligeira com uma atriz de peso (Elizabeth Banks) em um roteiro preguiçoso, que liga pontos simplesmente pelo bem da piada, nunca se preocupando em soar verossímil. A âncora desse jornal é uma perfeita estúpida, pois não consegue achar um telefone, um táxi decente ou até mesmo alguém que a reconheça. Tudo por conta de um vestido de periguete.

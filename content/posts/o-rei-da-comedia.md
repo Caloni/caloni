@@ -1,9 +1,12 @@
 ---
-date: "2016-07-20"
-link: "https://www.imdb.com/title/tt0085794"
-categories: [ "draft", "movies" ]
-title: "O Rei da Comédia"
+categories:
+- draft
+- movies
+date: '2016-07-20'
+link: https://www.imdb.com/title/tt0085794
+title: O Rei da Comédia
 ---
+
 Martin Scorsese apresenta uma comédia de humor negro estrelando Robert de Niro e Jerry Lewis, se bem que o humor não é tão negro assim. Ele brinca com o absurdo do show business e seus candidatos à fama apresentando Rupert Pupkin (de Niro), um aspirante a comediante que aos 34 anos ainda vive com a mãe (Catherine Scorsese, mãe do diretor) e que nunca trabalhou um minuto sequer em sua carreira. No entanto, coleciona autógrafos de comediantes famosos (de acordo com ele, Marylin Monroe não era boa atriz, mas tinha jeito para a comédia) e persegue o astro do humor televisivo Jerry Langford (Lewis), além de ter um palco em casa onde ensaia o seu grande show de televisão, assim que conseguir um.
 
 O roteiro do crítico Paul D. Zimmerman espreme a situação de tal maneira que aos poucos adentramos na loucura do tal Pupkin ("geralmente soletram errado, e pronunciam também") e sua insistência/loucura em ser amigo de Langford e conseguir seu lugar ao sol instantaneamente. Não é algo que se acredita desde o começo, mas de Niro está ótimo o suficiente para esse ser o caso. O primeiro diálogo entre os dois começa no carro do apresentador, após Pupkin invadi-lo. O sujeito não larga o osso do que imagina ser sua oportunidade de ouro, e apesar de receber um não educado ("ligue para minha secretária"), ele assume que deu tudo certo, assim como quem hoje em dia adicionaria um famoso no Facebook na sua lista de amigos -- sem resposta -- e automaticamente assume que pode passar o fim de semana na casa de veraneio do sujeito.

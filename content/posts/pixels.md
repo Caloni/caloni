@@ -1,10 +1,13 @@
 ---
-date: "2015-07-21"
-link: "https://www.imdb.com/title/tt2120120"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Pixels"
+categories:
+- movies
+date: '2015-07-21'
+link: https://www.imdb.com/title/tt2120120
+tags:
+- cinemaqui
+title: Pixels
 ---
+
 Alguém aqui sabe o que quer dizer a palavra pixel? Bom, meu histórico em programação de computadores me permite conhecer este e outros termos nerds em detalhes, mas se você acha que irá obter seu significado assistindo ao novo filme de Adam Sandler assinado por Chris Columbus, não perca seu tempo. Porém, se você gosta de histórias simplistas que apesar de simplistas não se justificam, uma ou outra sequência de ação que não te fará temer pelos personagens, mas que em compensação é levemente divertida ou engraçadinha, e, por fim, um ou outro efeito visual que sob a ótica "Transformers" de enxergar a realidade é só o que importa nessa vida, Pixels é justamente o que você precisa. E aos megabytes.
 
 Com uma introdução e uma música empolgadas estilo anos 80, Pixels conta a história de amigos de infância que jogavam fliperama depois da escola, entre eles Brenner (Anthony Ippolito, no futuro Adam Sandler), um garoto que consegue enxergar o padrão dos jogos eletrônicos e com isso bater os maiores recordes nas máquinas. Quando ele participa do primeiro campeonato de video-games em 1982, duas coisas acontecem: ele perde para o insuportável e magnético Eddie (Peter Dinklage, da série Game of Thrones) e a NASA aparentemente resolve enviar uma sonda para o espaço apenas com os vídeos do tal campeonato, já que o resultado anos depois, com todos já adultos, é uma invasão alienígena de versões monstruosas dos famosos arcades da época.

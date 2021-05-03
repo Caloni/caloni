@@ -1,10 +1,14 @@
 ---
-date: "2017-01-20"
-link: "https://www.imdb.com/title/tt4551318"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Paraíso"
+categories:
+- draft
+- movies
+date: '2017-01-20'
+link: https://www.imdb.com/title/tt4551318
+tags:
+- cinemaqui
+title: Paraíso
 ---
+
 Paraíso poderia de uma maneira peculiar fazer sessão dupla com A Fita Branca. Enquanto o trabalho de Michael Haneke explora em boa parte do tempo o que tornou uma nação propensa a cometer os horrores que seriam cometidos na Segunda Guerra, este trabalho russo/alemão do diretor Andrey Konchalovskiy já está imerso nesta situação. Vemos as pessoas executando e racionalizando suas tarefas da melhor maneira possível, mesmo que sua tarefa seja quebrar os joelhos de alguém tentando salvar duas crianças ou queimar o maior número de judeus na câmara de gás. Por trás das máscaras sociais dessa época Konchalovskiy conta uma história fascinante de terror através do ultrarrealismo.
 
 Acompanhamos três personagens icônicos. Um policial francês que trabalha em comunhão com os nazistas em uma França sob controle alemão, uma aristocrata russa que aprende a subverter sua moral e viver como uma prisioneira comum e comumente abusada por todos, e um alemão de alto-escalão militar que representa em carne e osso o ideal que os intelectuais alemães construíram à época, muitos influenciados pelo trabalho de Friedrick Nietzsche (no começo, ao citar seus descendentes, ele comenta de um tio-avô primo do filósofo). Vemos os três em seu dia-a-dia durante a guerra ao mesmo tempo que o vemos em uma espécie de entrevista, filmados com os recursos da época, que expõem seus pensamentos durante aqueles momentos.

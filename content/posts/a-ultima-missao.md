@@ -1,9 +1,12 @@
 ---
-date: "2018-01-17"
-link: "https://www.imdb.com/title/tt0070290"
-categories: [ "draft", "movies" ]
-title: "A Última Missão"
+categories:
+- draft
+- movies
+date: '2018-01-17'
+link: https://www.imdb.com/title/tt0070290
+title: A Última Missão
 ---
+
 Assistir esse filme dá um gostinho de sair com os amigos, e por estar com eles, poder ser um babaca algumas vezes, e em outras tentar fazer a coisa certa. Este filme é sobre errar e lamentar sobre os erros quieto e não roubar os sonhos dos outros. Este filme é sobre como seres humanos se conectam facilmente, onde uma semana passa voando e como mesmo assim ela se torna inesquecível.
 
 Estamos na Marinha. Dois sub oficiais são enviados em uma missão: transportar um prisioneiro. Ele é um jovem com alguns problemas. Pais separados, a mãe é uma alcoólatra, cleptomaníaco que deu o azar de mexer nos pertences de gente grande. E o filme explica tudo isso com meia-dúzia de diálogos, uma cena eficiente do rapaz e um quadro marcante: a sala da mãe. Você verá por si mesmo.

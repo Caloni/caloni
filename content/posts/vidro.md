@@ -1,10 +1,14 @@
 ---
-date: "2019-01-08"
-link: "https://www.imdb.com/title/tt6823368"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Vidro"
+categories:
+- draft
+- movies
+date: '2019-01-08'
+link: https://www.imdb.com/title/tt6823368
+tags:
+- cinemaqui
+title: Vidro
 ---
+
 Dezenove anos atrás. Esse é o tempo que separa Corpo Fechado, início dessa até então trilogia, até sua conclusão, ou expansão desnecessária, inflada e exagerada. Mas nem por isso deixa de ser um trabalho minucioso, curioso e competente de uma saga que se mantém dentro de seus próprios padrões do começo ao fim.
 
 Não acredito que haja alguém que de fato antecipou esse momento após ter visto Corpo Fechado, um filme que inicia como um drama e, seguindo a cartilha sempre presente de seu idealizador, M. Night Shyamalan, se desdobra em uma reviravolta que busca a fantasia do cotidiano, das fábulas, das crenças e da imaginação. E se essa pessoa criativa antecipou tal momento, com certeza ela não imaginaria que o resultado conseguiria ser concretizado com tanto esmero e tanta paixão pela suas ideias originais.

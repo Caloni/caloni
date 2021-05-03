@@ -1,10 +1,14 @@
 ---
-date: "2018-04-26"
-link: "https://www.imdb.com/title/tt7633052"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Todos os Paulos do Mundo"
+categories:
+- draft
+- movies
+date: '2018-04-26'
+link: https://www.imdb.com/title/tt7633052
+tags:
+- cinemaqui
+title: Todos os Paulos do Mundo
 ---
+
 Existia uma aura em mim que me dizia que o ator Paulo José era uma grande persona, e uma versão mais velha do Seu Jorge, uma figura que parece presente em todos os momentos importantes da cinematografia nacional (e até mundial). Se você também tem este grande apreço por este grande ator, não indico assistir a Todos os Paulos do Mundo, uma pseudo-homenagem inglória que perde em ritmo a mesma quantidade do que perde em brilho sobre quem foi, é e será Paulo José em nossas memórias.
 
 O mais trágico disso tudo é que o filme é narrado na maioria do tempo pelo próprio Paulo José, uma espécie de convidado especial que atravessa sua cinematografia em uma série de colagens criadas pelos diretores Rodrigo de Oliveira e Gustavo Ribeiro, que assinam o roteiro do seu aparente brilhantismo em ligar cenas de diferentes filmes que o ator participou por temas crus, vazios, como o disparo de uma arma, uma declaração de amor, um momento de loucura. As falas de Paulo em todos os filmes se misturam em décadas e narrativa, se tornam um marasmo tentar acompanhar o significado de cada uma dessas falas, que ouvidas dessa forma soam obscuras demais.

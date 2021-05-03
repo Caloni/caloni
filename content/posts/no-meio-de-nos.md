@@ -1,9 +1,13 @@
 ---
-date: "2017-04-18"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "No Meio de Nós"
+categories:
+- draft
+- movies
+date: '2017-04-18'
+tags:
+- cinemaqui
+title: No Meio de Nós
 ---
+
 Antes de tudo, um alerta: este filme não é um documentário. Documentários, mesmo os mais parciais, ao menos tentam buscar informações e apresentá-los ao espectador da maneira mais clara e inteligível possível. Já "No Meio de Nós" reúne uma série de especialistas em diferentes áreas de conhecimento e esoterismo para juntos realizar o que não consegue parecer muito diferente de um vídeo publicitário. O que ele vende? O livro Mergulho no Hiperespaço, de um General Ufólogo da década de 60, e o próprio filme, lançado no site da produtora em DVD esta semana.
 
 Narrado por Renato Prieto, um ator famoso por atuar em trabalhos espíritas no cinema e no teatro, o filme é um emaranhado de entrevistas em um desfile de apelos à autoridade e evidências anedóticas que apenas confirmam o lado que desejam vender: alienígenas estão entre nós e a humanidade está nesse momento em uma fase de transição para um nível maior de esclarecimento a respeito da nossa natureza como seres não apenas materiais da física clássica, mas de outras formas físicas de manifestação e a forma espírita.

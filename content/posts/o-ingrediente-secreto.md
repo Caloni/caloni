@@ -1,10 +1,14 @@
 ---
-date: "2018-10-21"
-link: "https://www.imdb.com/title/tt7610008"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Ingrediente Secreto"
+categories:
+- draft
+- movies
+date: '2018-10-21'
+link: https://www.imdb.com/title/tt7610008
+tags:
+- cinemaqui
+title: O Ingrediente Secreto
 ---
+
 O Ingrediente Secreto é esse filme sobre uma relação entre pai e filho conturbada após um acidente matar a mãe e o irmão. Também fala sobre a situação precária da Macedônia e como todos reclamam do "jeito brasileiro" que eles possuem (como reflexo do governo e da cultura corrupta). Ah, sim, e claro, há também o lance da maconha. Tinha até esquecido.
 
 A história começa com a vontade que o filho tem de aliviar a dor do pai, com câncer de pulmão. Surge a oportunidade de ganhar dinheiro quando ele encontra um pacote de maconha em uma busca policial dentro da fábrica onde trabalha. Porém, como ele descobre, a vida de cozinheiro de bolo de maconha é mais frutífera que de traficante de beira de estrada, onde a concorrência é muito violenta. Seu pai aliviado, mesmo sem saber por quê, logo surge a lenda do curador que possui uma receita milagrosa.

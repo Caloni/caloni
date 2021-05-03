@@ -1,9 +1,12 @@
 ---
-date: "2018-01-19"
-link: "https://www.imdb.com/title/tt4047038"
-categories: [ "draft", "series" ]
-title: "Dirk Gently's - Segunda Temporada"
+categories:
+- draft
+- series
+date: '2018-01-19'
+link: https://www.imdb.com/title/tt4047038
+title: Dirk Gently's - Segunda Temporada
 ---
+
 A segunda temporada de Dirk Gently's prova que é possível sim construir obras audiovisuais que se baseiam fortemente no espírito do autor britânico Douglas Adams. Se o filme Guia do Mochileiro das Galáxias já dava uma pequena ideia da mente criativa de Adams e DGS01 possuía um season finale de cair o queixo, este S02 coloca agora o próprio core da história, com suas dezenas de personagens, quase tão complexo, denso e fascinante quanto os próprios textos de onde essas ideias surgiram.
 
 Não é pra menos. Baseando-se em um plot que lembra O Mundo de Sofia com testosterona e um estilo geek inconfundível, não haveria nada mais instigante do que a história de um garoto que criou um universo de contos de fadas inteiro em sua mente, tal como se os textos de um livro dessem vida aos seus personagens.

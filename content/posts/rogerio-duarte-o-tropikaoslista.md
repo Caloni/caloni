@@ -1,9 +1,13 @@
 ---
-date: "2018-04-18"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Rogério Duarte, o Tropikaoslista"
+categories:
+- draft
+- movies
+date: '2018-04-18'
+tags:
+- cinemaqui
+title: Rogério Duarte, o Tropikaoslista
 ---
+
 A poesia é a pedra no meio do caminho entre a música e a palavra. Rogério Duarte
 
 Eu gosto de colagens. Geralmente os apanhados de museu de arte moderna (chamados de exposição) são um convite inspirador para adentrar no âmago de um artista através de sua obra. Em "Rogério Duarte, o Tropikaoslista" há esse sentimento no sentido mais espaço-temporal do conceito, bem ao gosto do artista em questão e sua visão cósmica da realidade. Acompanhamos Rogério falando sobre si e sua história, que se mistura com outras obras de outros artistas (em específico Glauber Rocha, seu melhor amigo) e também se mistura com a própria história do Brasil da ditadura militar.

@@ -1,10 +1,13 @@
 ---
-date: "2015-03-13"
-link: "https://www.imdb.com/title/tt1568343"
-categories: [ "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Último Ato"
+categories:
+- movies
+date: '2015-03-13'
+link: https://www.imdb.com/title/tt1568343
+tags:
+- cinemaqui
+title: O Último Ato
 ---
+
 Al Pacino é um dos grandes atores do nosso tempo e das décadas de ouro do Cinema norte-americano, com descobertas de grandes diretores como Francis Ford Coppola, Oliver Stone e Martin Scorsese. Esse fato não pode passar batido de O Último Ato, em que ele interpreta Simon Axler, um ator no início de sua decadência. Lá pelos seus 60 anos, Simon não consegue mais se lembrar de suas falas no palco e em uma crise nervosa se lança para a plateia, colocando um fim temporário em sua carreira.
 
 O diretor Barry Levinson também fez alguns trabalhos de destaque nos anos 80, como Rain Main e Bugsy. Rain Main, com Dustin Hoffman como um autista com capacidades impressionantes de cálculo com números, lembra um pouco o personagem de Al Pacino no sentido de que agora que sua carreira está em pausa as pessoas apenas lembram de seus grandes trabalhos como ator, mas sua vida pessoal é um completo caos e não parece haver nada que Simon faça que a melhore. Na verdade, é no caos que ela começa a ficar um pouco mais interessante quando reencontra sua afilhada, Pegeen (Greta Gerwig, do ótimo Frances Ha), e desenvolve um esperado relacionamento amoroso (Pegeen nutria um romance platônico de longa data com seu padrinho).

@@ -1,10 +1,14 @@
 ---
-date: "2017-10-21"
-link: "https://www.imdb.com/title/tt1699518"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "O Jovem Karl Marx"
+categories:
+- draft
+- movies
+date: '2017-10-21'
+link: https://www.imdb.com/title/tt1699518
+tags:
+- cinemaqui
+title: O Jovem Karl Marx
 ---
+
 É muito comum fãs de quadrinhos e livros ficarem ansiosos em ver o resultado das histórias retratadas nesses formatos transpostas para o cinema. E o resultado que mais os agrada geralmente é o mais fidedigno ao conteúdo original. Pois bem: eis que surge este O Jovem Karl Marx, que direto dos livros de escola, retrata um período da História de maneira formal e burocrática, o que não é um defeito se você gostar de História, economia, política ou até filosofia.
 
 O filme retrata os primeiros anos de criação do escritor Karl Marx (August Diehl), assim como o princípio da duradoura e vital amizade com Friedrich Engels (Stefan Konarske). No reencontro pessoal entre os dois um elogia o trabalho do outro, no que lembra uma bajulação mútua. Não é uma forma muito positiva de demonstrar que ambos se tornaram amigos massageando o ego um do outro.

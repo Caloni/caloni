@@ -1,9 +1,11 @@
 ---
-date: "2015-02-28"
-link: "https://www.imdb.com/title/tt2322441"
-categories: [ "movies" ]
-title: "Cinquenta Tons de Cinza"
+categories:
+- movies
+date: '2015-02-28'
+link: https://www.imdb.com/title/tt2322441
+title: Cinquenta Tons de Cinza
 ---
+
 Anastasia e Christian Grey. Esses nomes serão difíceis de esquecer, já que são repetidos muitas vezes em Cinquenta Tons de Cinza, cujo título remete ao personagem de Mr. Grey, "cinza" em inglês, um trocadilho que foi perdido na tradução do Brasil. Se pelo menos tivessem usado a mesma estratégia de Metastasis, uma série-remake versão latina da norte-americana Breaking Bad, que rebatiza seus personagens para que mantenham os nomes e cores, talvez pudessem extravasar o lado cômico e leve deste filme que, por mais roupas sendo arrancadas e chicotes sendo levantados por minuto, continua sendo uma trivialidade para países menos puritanos.
 
 Quem são Ana e Grey também não é algo difícil de lembrar, pois suas descrições quase não passam do próprio nome e seus atributos físicos. Ele é um jovem bilionário do vale do Silício -- seu discurso para formandos me diz "reencarnação de Steve Jobs com sérios problemas para sorrir". Ela (Dakota Johnson?), uma estudante de literatura inglesa que atrai a atenção de Mr. Grey através do seu sarcasmo tímido ao entrevistá-lo no lugar de sua colega de quarto. Você sabe como uma jovem mulher de humanas costuma se comportar em situações como essa, ou pelo menos esse roteiro peculiar de Kelly Marcel (Walt nos Bastidores de Mary Poppins), adaptado do romance de E.L. James,imagina saber: elas gostam de defender bandeiras de minorias, simplificar o sucesso dos outros com palavras como "sorte" e, por fim, acreditar no amor livre e desinteressado. A menos, é claro, que ela esteja de frente -- ou na frente, agachada -- de um rapaz sexy, endinheirado e que revela que irá fxxx-la. E com força. Ah, isso conquista qualquer intelectual.

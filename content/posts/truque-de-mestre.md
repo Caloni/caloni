@@ -1,9 +1,12 @@
 ---
-date: "2016-06-21"
-link: "https://www.imdb.com/title/tt1670345"
-categories: [ "draft", "movies" ]
-title: "Truque de Mestre"
+categories:
+- draft
+- movies
+date: '2016-06-21'
+link: https://www.imdb.com/title/tt1670345
+title: Truque de Mestre
 ---
+
 Abracadabra! Surge um péssimo filme. Embalado naquele formato de reviravoltas, este filme não contém nenhuma, pois ele nunca nos faz crer em X para depois revelar Y. Todas suas "bombásticas" revelações são simplesmente isso: revelações. Geralmente algo novo que não tinha qualquer relação com o que foi mostrado até agora, e se tem alguma, é jogada no ar como uma carta qualquer.
 
 A história gira em torno de quatro talentosos prestidigitadores do show business que recebem o chamado de uma organização milenar chamada O Olho, e é assim que se conhecem. Nenhum deles possui muita personalidade, apenas diferentes habilidades na arte de iludir (ah, e um romance não-resolvido que continua não-resolvido o filme inteiro). A câmera gira constantemente em torno deles e a plateia constantemente vai ao delírio, aplaudindo e gritando, até quando é mostrado o inocente truque do coelho na caixa espelhada.

@@ -1,8 +1,11 @@
 ---
-date: "2016-12-20"
-categories: [ "draft", "books" ]
-title: "Sinais do Fim"
+categories:
+- draft
+- books
+date: '2016-12-20'
+title: Sinais do Fim
 ---
+
 O poder da internet é a real democracia. É ela que permite que autores como Dario Bertulucci sejam conhecidos por leitores cansados da mesmice e da massificação das grandes editoras. E é ela que permite que o autor receba o que tem direito pelo seu livro e pelos trabalhos de distribuição: 100%. Conversei rapidamente com o autor, que estava vendendo alguns exemplares de seus livros na frente do Masp, na Avenida Paulista. Com dificuldades para conseguir uma editora, ele mesmo aprendeu a publicar seus livros e foi à luta, algo que eu admiro e que foi o motivo final que me fez levar essa cópia comigo. Agora que li, preciso concluir: não me admira que as editoras não estivessem interessadas em um autor ainda em desenvolvimento. Mas continue firme. Com o tempo, talvez suas ideias encontre uma coerência e uma estrutura que irão te fazer repensar seus primeiros trabalhos.
 
 Vamos à crítica.
@@ -26,4 +29,3 @@ Não há nada de errado em autores independentes quererem se expressar. É assim
  - Para comprar os livros de Dario em ebook, vá no saite da editora.
  - Canal do Dario no YouTube.
  - Reportagem da Cultivando sobre autores independentes.
-

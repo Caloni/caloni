@@ -1,8 +1,11 @@
 ---
-date: "2008-04-17"
-title: "Crash Dump Analysis: o livro"
-categories: [ "reading", "code" ]
+categories:
+- reading
+- code
+date: '2008-04-17'
+title: 'Crash Dump Analysis: o livro'
 ---
+
 Para quem acabou de terminar o Advanced Windows Debugging (como eu) e não consegue ler no computador os complicados artigos de Dmitry Vostokov (como eu), "seus problemas acabaram-se": acabou de ser lançado o Memory Dump Analysis Volume 1 em hardware! Em modelos portáveis (paperback) e desktop (hardcover).
 
 Se você perder um pouco de tempo lendo o índice online perceberá que boa parte do conteúdo (se não todo) está em seu sítio, disponível gratuitamente. Porém, não há nada como ter um livro organizado para ler no conforto do ônibus para o serviço (ou do metrô para casa). Ainda mais depois de ter aguçado os sentidos com o livro de Mario Hewardt e Daniel Pravat.

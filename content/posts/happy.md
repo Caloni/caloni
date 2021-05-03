@@ -1,9 +1,12 @@
 ---
-date: "2018-05-16"
-link: "https://www.imdb.com/title/tt2452242"
-categories: [ "draft", "series" ]
-title: "Feliz!"
+categories:
+- draft
+- series
+date: '2018-05-16'
+link: https://www.imdb.com/title/tt2452242
+title: Feliz!
 ---
+
 Happy! é uma feliz (que surpresa!) importada do serviço de streaming Netflix de um conteúdo da produtora Syfi, responsável pelos jovens clássicos Sharknado. Criado pela dupla Grant Morrison e Brian Taylor baseado nos quadrinhos criado por Morrison e ilustrado por Darick Robertson, esta aventura de ação policial distópica se passa em um universo onde há muitas brechas para o sobrenatural, mas ao mesmo tempo garante um realismo fantástico bem típico dos criadores de Adrenalina (1 e 2).
 
 Esta aventura é de Nick Sax, um ex-investigador que está no momento em um ponto de sua história pessoal em que algo deu muito errado em sua vida (e é muito salutar da série sequer tocar nesse ponto em seu início). Sax está praticamente sendo movido pelas forças da natureza, e sobrevive por sua força, sorte e esperteza, embora não possamos estimar qual a porcentagem precisa desses elementos. O fantástico surge quando a pequena Hailey Hansen (Bryce Lorenzo) é raptada por um papai-noel do mal e seu amigo imaginário Happy (voz de Patton Oswalt) corre em busca de ajuda. E você já sabe qual ajuda ele encontra. Infelizmente essa ajuda está à beira da morte por ter se metido inadvertidamente com uma máfia italiana e com um segredo que envolve uma senha, demônios e a morte do caçula da família.

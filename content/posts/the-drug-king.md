@@ -1,9 +1,11 @@
 ---
-date: "2020-07-05"
-link: "https://www.imdb.com/title/tt6914542"
-categories: [ "movies" ]
-title: "The Drug King"
+categories:
+- movies
+date: '2020-07-05'
+link: https://www.imdb.com/title/tt6914542
+title: The Drug King
 ---
+
 Eu poderia dizer que é uma mistura de Scarface, O Poderoso Chefão, Os Bons Companheiros e a história do mafioso da Colômbia Pablo Escobar, tudo embalado em versão coreana. Mas se eu fizesse isso estaria me ajoelhando diante dos chefões da Netflix, responsáveis pela produção, e pior, estaria sendo muito desonesto comparando essas obras primas com uma aventura passageira e esquecível como esta, que além de não ter a mínima personalidade não faz questão alguma de buscar ter uma.
 
 Olhe para as cenas e vai encontrar um filme de máfia feito por quem olhou filmes de máfia e apenas copiou. Luta de gangues em um hotel. Boate mostrando os poderosos montando esquema. Escritório do chefão cuja escalada burocrática acompanhamos com quatro espingardas em estante de vidro e muitas drogas.

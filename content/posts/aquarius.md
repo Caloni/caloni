@@ -1,9 +1,12 @@
 ---
-date: "2017-01-13"
-link: "https://www.imdb.com/title/tt5221584"
-categories: [ "draft", "movies" ]
-title: "Aquarius"
+categories:
+- draft
+- movies
+date: '2017-01-13'
+link: https://www.imdb.com/title/tt5221584
+title: Aquarius
 ---
+
 Sônia Braga não está protagonizando um filme. Aquarius é um filme que protagoniza Sônia Braga. Ela é todo o filme. E quem garante isso é o diretor Kleber Mendonça Filho, mais uma vez, depois de O Som Ao Redor, fascinado (e enganado) a respeito da classe média "esclarecida" e das questões de propriedade privada. A direção de Kleber interfere apenas para dar passagem a Braga, que samba a dança do crioulo doido e entrega uma performance corporal e verbal que arrebata todo o filme, o leva para si.
 
 Tudo isso em uma história simples. Vemos o prólogo rapidamente, que se passa em saudosos anos 80, em uma direção de arte impecável e afetivamente engajada em nos fazer reter aquelas cenas em nossa mente durante todas as quase duas horas e meia de filme. A questão das gerações e dos valores é representada em um aniversário de 70 anos da tia querida da família, enquanto uma jovem Clara (Braga) acaba de se recuperar de um câncer de mama. Seu marido faz um discurso sobre o desafio que passaram juntos. Agora, décadas depois, ele já morreu, e Clara permanece sozinha com sua empregada morando no mesmo condomínio. Só falta ela, que resiste bravamente, para a construtora e seus impiedosos engenheiros tomarem para si o terreno e construir em cima das memórias e dos sonhos de Clara mais um empreendimento capitalista.

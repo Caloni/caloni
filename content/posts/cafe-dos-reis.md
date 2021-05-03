@@ -1,6 +1,8 @@
 ---
-date: "2016-01-07"
-categories: [ "food" ]
-title: "Café dos Reis"
+categories:
+- food
+date: '2016-01-07'
+title: Café dos Reis
 ---
+
 Bem caseiro, um pouco doce demais, ainda avaliando. É bem ruinzinho, mesmo; um gostinho de merda.

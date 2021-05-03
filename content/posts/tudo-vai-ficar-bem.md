@@ -1,10 +1,14 @@
 ---
-date: "2016-03-01"
-link: "https://www.imdb.com/title/tt1707380"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Tudo Vai Ficar Bem"
+categories:
+- draft
+- movies
+date: '2016-03-01'
+link: https://www.imdb.com/title/tt1707380
+tags:
+- cinemaqui
+title: Tudo Vai Ficar Bem
 ---
+
 O diretor Win Wenders (Pina) faz em "Tudo Vai Ficar Bem" um trabalho intimista e sutil em um ritmo que não deve agradar a muitos. Porém, é algo necessário para abordar essa espécie de thriller que evita cair no lugar-comum, pois está mais interessado em explorar seus personagens pela suas psiques do que pelas suas ações.
 
 O tema se desenvolve a partir de um terrível acidente. O filme não tem pressa nenhuma de identificá-lo, assim como seu protagonista. A trilha de Alexandre Desplat incomoda, mas tem que ser assim mesmo. Apesar de tudo ser perfeitamente crível e normal, é necessário que alguém afirme que ainda assim, parece haver algo de errado a todo instante.

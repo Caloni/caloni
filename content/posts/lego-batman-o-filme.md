@@ -1,9 +1,12 @@
 ---
-date: "2017-02-12"
-link: "https://www.imdb.com/title/tt4116284"
-categories: [ "draft", "movies" ]
-title: "LEGO Batman: O Filme"
+categories:
+- draft
+- movies
+date: '2017-02-12'
+link: https://www.imdb.com/title/tt4116284
+title: 'LEGO Batman: O Filme'
 ---
+
 Dos mesmos "mestres construtores" de Uma Aventura LEGO, este Lego Batman vem para iniciar uma franquia já sugerida no original. E vira um dos melhores filmes de Batman sobre filmes de Batman já idealizados por uma criança!
 
 A história usa e abusa de todas as histórias anteriormente contadas sobre o homem-morcego e se aproveita do traço mais conhecido do herói: seu isolamento emocional. Não se trata de pouca coisa quando você tenta inserir em um filme supostamente infantil -- e em muitos aspectos, de fato é -- conceitos mais maduros, como a necessidade de se conectar com outros seres humanos e o senso de companheirismo e cooperação que faz com que nós sejamos mais fortes. E ao mesmo tempo, o senso de rivalidade em que um Batman e Coringa contracenam vários DRs onde o objetivo de reconciliação é cada um dizer para o outro: eu te odeio.

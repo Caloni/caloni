@@ -1,9 +1,12 @@
 ---
-date: "2018-11-17"
-link: "https://www.imdb.com/title/tt0112281"
-categories: [ "draft", "movies" ]
-title: "Ace Ventura 2: Um Maluco Na África"
+categories:
+- draft
+- movies
+date: '2018-11-17'
+link: https://www.imdb.com/title/tt0112281
+title: 'Ace Ventura 2: Um Maluco Na África'
 ---
+
 Jim Carrey está de volta em sua persona de detetive de animais para fazer todo tipo de piada politicamente incorreta na África. Agora ele precisa resgatar um animal sagrado da tribo dos... bom, quem se importa? É Carrey fazendo caretas e movimentos desengonçados que se desenvolvem bem como comédia, mas péssimo como história. Não se trata de um Carrey que se entrega de alma em um projeto coerente como Deby e Loide, mas somente um humorista fazendo humor de situações criadas especificamente para fazer rir, e não movimentar a história.
 
 Como um hipopótamo de mentira que fica quente demais e o faz sair pelo buraco mais hilário que poderia existir.

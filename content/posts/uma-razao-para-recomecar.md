@@ -1,10 +1,14 @@
 ---
-date: "2017-10-14"
-link: "https://www.imdb.com/title/tt2931140"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Uma Razao Para Recomecar"
+categories:
+- draft
+- movies
+date: '2017-10-14'
+link: https://www.imdb.com/title/tt2931140
+tags:
+- cinemaqui
+title: Uma Razao Para Recomecar
 ---
+
 Uma Razão Para Recomeçar, se você ainda não sabe, vou te poupar um tempo ou te dar uma dica: ele tem aquele formato que te faz chorar em alguns momentos e que te dá esperança no final. Agora, dependendo de você, a esperança pode ser uma mensagem otimista sobre a vida ou a esperança que o filme acabe. No meu caso foi para que o filme acabasse. E, adivinha só? Minhas preces foram atendidas!
 
 Agora, se você gostaria de sair um pouco mais feliz da sala de cinema do que como entrou, este filme pode te ajudar a ver as coisas sob outra perspectiva. Eu não o chamaria de filme fofo, exatamente. Mas ele flerta com a possibilidade de ser. Mas também pode ser que dê vontade de vomitar. Desculpe. Este filme, assim como a vida, pode ser um pouquinho difícil de classificar como exatamente bom ou ruim.

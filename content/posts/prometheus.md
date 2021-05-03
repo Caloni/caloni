@@ -1,9 +1,11 @@
 ---
-date: "2012-06-19"
-link: "https://www.imdb.com/title/tt1446714"
-categories: [ "movies" ]
-title: "Prometheus"
+categories:
+- movies
+date: '2012-06-19'
+link: https://www.imdb.com/title/tt1446714
+title: Prometheus
 ---
+
 Como fã convicto da [série Alien], desde [seu Oitavo Passageiro] ao controverso [A Ressurreição], tenho autoridade não apenas como estudioso de Cinema mas como fã estudioso de considerar o novo trabalho de Ridley Scott como uma involução não apenas da série, mas do gênero de ficção científica/terror como um todo.
 
 A história de Prometheus gira em torno da expedição realizada pela nave homônima a um planeta-satélite que possivelmente poderia conter pistas sobre a origem do ser humano. Quando a dupla de cientistas Elizabeth Shaw (Noomi Rapace) e Charlie Holloway (Logan Marshall-Green) deduzem a partir de "pistas" supostamente deixadas em escritas em cavernas de diversos povos antigos, isso desperta no trilhardário Peter Weyland (Guy Pearce) o desejo de investir em um contato único com seres que possivelmente criaram a raça humana, ou a partir da evolução ela acabou sendo criada. No fundo, não importa, pois estamos falando tanto de uma visão Criacionista quanto Evolucionista.

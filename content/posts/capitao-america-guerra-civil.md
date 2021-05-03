@@ -1,9 +1,12 @@
 ---
-date: "2016-05-31"
-link: "https://www.imdb.com/title/tt3498820"
-categories: [ "draft", "movies" ]
-title: "Capitão América: Guerra Civil"
+categories:
+- draft
+- movies
+date: '2016-05-31'
+link: https://www.imdb.com/title/tt3498820
+title: 'Capitão América: Guerra Civil'
 ---
+
 Esse não é um filme do Capitão América. Mas acho que todos vocês já estão acostumados com esses títulos bizarros e tão insignificantes quanto a história que é apresentada. Desde seu filme solo, o personagem interpretado por Chris Evans quase nunca consegue manter as rédeas de um protagonista. Quando está com os Vingadores, então, particularmente com o Homem de Ferro (Robert Downey Jr.), essa suposta "protagonice" some completamente. Stark, aliás, está bem sóbrio, e quase lembra o governo Bush em seus discursos de guerra (se não estivéssemos aqui falando, é claro, de qualquer governo).
 
 No entanto, Avengers IV não é um filme ruim pelas suas premissas. Ele tem ótimas. Ele discute, assim com o recente Batman Vs Superman, a questão de quem vigia os vigilantes. Nenhum dos dois filmes, no entanto, consegue ir tão fundo e ser tão depressivo e complexo a esse respeito quanto o inestimável Watchmen (esse, sim, com o nome certo), de sete anos atrás. Enquanto a graphic novel de Alan Moore consegue um tom dramático em cima de personagens fantasiados, aqui temos o tom fantasioso da quase sempre medíocre Marvel, que acumula talentos em sua equipe de computação gráfica enquanto mantém sob "controle criativo" seus roteiristas pelo bem das bilheterias.

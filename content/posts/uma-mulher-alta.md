@@ -1,10 +1,14 @@
 ---
-date: "2019-12-06"
-link: "https://www.imdb.com/title/tt10199640"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Uma Mulher Alta"
+categories:
+- draft
+- movies
+date: '2019-12-06'
+link: https://www.imdb.com/title/tt10199640
+tags:
+- cinemaqui
+title: Uma Mulher Alta
 ---
+
 Uma Mulher Alta é uma incursão estranha nas mentes e corações dos russos pós-guerra. Com a economia destruída e as relações sociais radicalmente alteradas, o filme de Kantemir Balagov realiza uma obra que parte da intimidade do triângulo amoroso mais bizarro que você verá esse ano para nos revelar as idiossincrasias que emergem de uma sociedade sem amor.
 
 O resultado prima pela distorção dos valores mais burgueses, como família, pois ignora os sentimentos como se eles fossem inexistentes. Balagov está olhando com uma lupa quebrada para essas pessoas e vai com ela desvendando alguns pedaços do desconhecido, que começa na revelação de que o filho de Iya, a mulher alta do título, na verdade é de Masha, sua colega de guerra que usou sua beleza e seu poder de sedução para sobreviver no fronte. Iya, que pela altura exagerada conseguiu se defender mesmo sem sexo, voltou da guerra com um trauma que a paralisa repentinamente por um tempo indeterminado, o que faz com que ela acidentalmente mate essa criança, o que inicia esse drama pesado.

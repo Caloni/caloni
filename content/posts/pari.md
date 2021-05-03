@@ -1,10 +1,13 @@
 ---
-date: "2020-10-25"
-link: "https://www.imdb.com/title/tt7900106"
-categories: [ "movies" ]
-tags: [ "cinemaqui",  ]
-title: "Pari"
+categories:
+- movies
+date: '2020-10-25'
+link: https://www.imdb.com/title/tt7900106
+tags:
+- cinemaqui
+title: Pari
 ---
+
 Não é à toa que o cinema iraniano vira estereótipo de filme que a crítica adora: são os amantes da estética contra os amantes da emoção. No entanto, o clichê de filme iraniano reza de que ele deve ser parado, e não é isso que acontece em Pari, um trabalho tenso, compenetrante, que não nos deixa desviar o olho da tela nem por um segundo. Os únicos momentos para respirar servem como reflexão do que aconteceu até agora, para logo seguir adiante.
 
 Este é um filme sobre a busca de uma mãe, a Pari do título, pelo filho desaparecido, mas é tão mais do que isso que essa descrição soa injusta. É menos sobre maternidade e mais sobre as decisões na vida. Pari e seu marido viajam pela primeira vez para fora do país e descobrem que seu filho supostamente estudante em Atenas nunca se matriculou. Mas esse é apenas o começo de uma história que vai evoluindo a textura social de uma Grécia à beira do colapso e que aos poucos coloca em evidência o real motivo do filme, o que lhe dá seu próprio título e motivo de o assistirmos.

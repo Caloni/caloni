@@ -1,9 +1,13 @@
 ---
-date: "2018-05-28"
-link: "https://www.imdb.com/title/tt5897304"
-categories: [ "draft", "series", "animes" ]
-title: "Mob Psycho 100"
+categories:
+- draft
+- series
+- animes
+date: '2018-05-28'
+link: https://www.imdb.com/title/tt5897304
+title: Mob Psycho 100
 ---
+
 Mob Psycho 100 sofre do mesmo problema de Death Note: a primeira metade é fascinante e a segunda metade é quase insuportável. Isso porque a grande sacada da série -- um paranormal super-poderoso que tem ambições onde o seu poder é inútil -- se trai totalmente em um momento onde seu irmão é envolvido na trama principal e todos os valores do protagonista são automaticamente descartados apenas por capricho de um roteiro que pega uma excelente ideia e transforma em mais uma daquelas aventuras com pessoas poderosas que falam demais. Não que você não tivesse visto isso antes em qualquer outro anime do passado.
 
 Essa traição se torna ainda pior quando lembramos do conflito entre ele e um estudante de outra escola que também é um paranormal, mas que usa seus poderes para proveito próprio. A conclusão a que ambos chegam e toda a evolução deste episódio o torna o melhor da série (anote: é o quinto: Ochimusha - Psychic Powers and Me), e a partir daí infelizmente não se volta nunca mais para o equilíbrio entre humor, ação e auto-crítica sobre animes de super-poderes que prometia ser uma versão alternativa, mais light, de One Punch Man (também criação do mesmo autor de mangás, One)).

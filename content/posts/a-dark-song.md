@@ -1,9 +1,12 @@
 ---
-date: "2019-11-11"
-link: "https://www.imdb.com/title/tt4805316"
-categories: [ "draft", "movies" ]
-title: "A Dark Song"
+categories:
+- draft
+- movies
+date: '2019-11-11'
+link: https://www.imdb.com/title/tt4805316
+title: A Dark Song
 ---
+
 A Dark Song é um filme de terror minimalista, onde seu poder é construído pelas circunstâncias criadas em seu início e truques baratos de som e iluminação que funcionam justamente por causa do seu começo. Do jeito que eu descrevo parece o guia padrão para qualquer filme do gênero que se preze, mas infelizmente a grande maioria peca pelo excesso.
 
 Aqui não. Este é um filme que desde o começo estabelece sua seriedade pela obstinada protagonista que encontra a ajuda que precisa e que não mede esforços nem dinheiro para realizar um ritual em que consiga evocar seres sobrenaturais que a ajudem a realizar um desejo. Sophia Horward é uma mãe em luto pelo filho e que fará de tudo em vida por um momento de paz.

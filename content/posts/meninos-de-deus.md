@@ -1,9 +1,12 @@
 ---
-date: "2021-03-27"
-link: "https://www.imdb.com/title/tt0238924"
-categories: [ "draft", "movies" ]
-title: "Meninos de Deus"
+categories:
+- draft
+- movies
+date: '2021-03-27'
+link: https://www.imdb.com/title/tt0238924
+title: Meninos de Deus
 ---
+
 Este filme de 2002 ainda cheira a anos 90. O padre interpretado por Vincent D'Onofrio fuma em plena igreja e não lembra em nada um padre, exceto que suas bolas ficam bem presas na presença da Jodie Madre Superiora Foster.
 
 D'Onofrio fez o alienígena mais famoso do primeiro MIB. Era ele que se incomodava quando alguém matava uma barata. Ele é parte de um elenco talentoso deste comercial quase enlatado americano. Está na companhia do irmão de Macaulay Culkin, a própria Jodie Foster (ainda que no automático) e Jena Malone, que é a única que eleva a experiência em algo que lembra mais um drama adolescente, embora o próprio filme não leve isso a sério. O que é bem estranho e incômodo se formos pensar que há incesto e morte na história.

@@ -1,8 +1,10 @@
 ---
-date: "2011-11-28"
-categories: [ "movies" ]
-title: "Domingos"
+categories:
+- movies
+date: '2011-11-28'
+title: Domingos
 ---
+
 Parafraseando o Chefe Gusteau de [Ratatouille], "qualquer um pode dirigir", ou seja, o bom diretor pode vir de qualquer lugar. Dessa vez veio de Maria Ribeiro, a Rosane esposa do Capitão Nascimento em [Tropa de Elite], que faz aqui um apanhado brilhante de gravações, depoimentos e tomadas capturadas durante o convívio com o cineasta Domingos de Oliveira que buscam ilustrar e homenagear a pessoa e o diretor, ator e roteirista, ao mesmo tempo que mostra seus inúmeros trabalhos no cinema e teatro.
 
 Dotado de uma narrativa fluida, que consegue alternar com um sucesso crescente entre as entrevistas com Domingos e partes das obras que ilustram seu pensamento naquele momento, a edição captura a essência de cada personagem representado por ele e o traz para a realidade de uma maneira que transcende o que o próprio entrevistado está dizendo. E mesmo as inúmeras voltas em torno do tema da morte as diferentes formas de encará-la (como aproveitar a vida ao máximo, por exemplo) torna o assunto aparentemente inesgotável e nunca enfadonho. Pelo contrário, um depoimento é enriquecido pela próxima cena de filme ou peça, que enriquece o próximo depoimento, em uma espécie de cornucópia mágica filosófica.

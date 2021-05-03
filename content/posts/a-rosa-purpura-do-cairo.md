@@ -1,9 +1,11 @@
 ---
-date: "2013-12-16"
-link: "https://www.imdb.com/title/tt0089853"
-categories: [ "movies" ]
-title: "A Rosa Púrpura do Cairo"
+categories:
+- movies
+date: '2013-12-16'
+link: https://www.imdb.com/title/tt0089853
+title: A Rosa Púrpura do Cairo
 ---
+
 Woody Allen parece dirigir tantos filmes que seus temas começam a girar em torno do seu próprio processo criativo. Se isso fica óbvio no excelente Desconstruindo Harry, fica fascinante a manipulação e as críticas desse processo em A Rosa Púrpura do Cairo, onde um dos personagens de um filme sai da tela ao se apaixonar por uma espectadora que viu o mesmo filme por várias vezes.
 
 Como isso é possível já é uma ironia por si só. Estamos na época da Grande Crise e da Grande Guerra ("isso nunca aconteceu antes", "tudo pode acontecer em New Jersey"), e a jovem Cecília (Mia Farrow) tem um marido que a bate e fica jogando todo o dia, vivendo às custas dos esforços da esposa. A maneira de escapar desse mundo para Cecília é, como para muitos, ir ao cinema assistir filmes que, como costumavam ser na época, sobre grandes luxúrias da vida abastada ou aventuras em lugares exóticos (daí o título), justamente atendendo os anseios de um público miserável que precisava de um pouco de magia para enfrentar a dureza daqueles dias.

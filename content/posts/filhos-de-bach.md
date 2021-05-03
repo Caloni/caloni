@@ -1,10 +1,14 @@
 ---
-date: "2017-04-04"
-link: "https://www.imdb.com/title/tt4715290"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Filhos de Bach"
+categories:
+- draft
+- movies
+date: '2017-04-04'
+link: https://www.imdb.com/title/tt4715290
+tags:
+- cinemaqui
+title: Filhos de Bach
 ---
+
 Filhos de Bach, uma co-produção entre Brasil e Alemanha, é um filme que tenta alçar voo muitas vezes, mas parece sempre ser sabotado por sua história episódica, que também é simplista e desonesta. Tudo pelo objetivo de tentar mostrar duas culturas bem diferentes entre si, além de uma aparente visão social.
 
 A história tenta de forma livre unir as histórias de órfãos alemães e brasileiros. Os alemães, uma dupla, viajaram o mundo com seu sucesso reinterpretando músicas de Johann Sebastian Bach, até sua eventual separação, quando um deles se casa com uma brasileira e vive o resto de sua vida em Ouro Preto, Minas Gerais, Brasil. Quando falece deixa de herança para seu antigo companheiro, Marten Brückling (Edgar Selge), uma partitura inédita e inestimável do músico que tanto admiravam.

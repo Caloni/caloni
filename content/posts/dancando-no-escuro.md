@@ -1,9 +1,12 @@
 ---
-date: "2019-05-01"
-link: "https://www.imdb.com/title/tt0168629"
-categories: [ "draft", "movies" ]
-title: "Dançando No Escuro"
+categories:
+- draft
+- movies
+date: '2019-05-01'
+link: https://www.imdb.com/title/tt0168629
+title: Dançando No Escuro
 ---
+
 "Eu gosto de musicais porque nada de ruim acontece em musicais", diz a personagem de Björk. Bom, ela não contava com um musical por Lars Von Trier. Pobre garota.
 
 Esta é a história de uma pessoa ingênua que possui apenas um desejo em sua vida: impedir que seu filho tenha o mesmo destino que ela: ficar cega pelo resto da vida.

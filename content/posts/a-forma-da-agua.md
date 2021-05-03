@@ -1,9 +1,12 @@
 ---
-date: "2018-04-20"
-link: "https://www.imdb.com/title/tt5580390"
-categories: [ "draft", "movies" ]
-title: "A Forma da Água"
+categories:
+- draft
+- movies
+date: '2018-04-20'
+link: https://www.imdb.com/title/tt5580390
+title: A Forma da Água
 ---
+
 Você já assistiu esse filme. E mais de uma vez. Criatura estranha e incompreendida é vista como monstro, mas no fundo tem um bom coração. E se você tocar uma música a criatura pode até dançar. E no caso de A Forma da Água, esta fantasia aventuresca de Guillermo del Toro (Círculo de Fogo, O Labirinto do Fauno) assume estar atrás de prêmios como o Oscar, por ser fácil de digerir (fácil até dar sono, eu diria). A direção de arte é soberba e extremamente verde. A heroína vive em uma casa em cima de um cinema que ninguém vai e que insiste em passar clássicos bíblicos. Seu vizinho é gay e juntos eles se divertem vendo musicais em preto e branco pela TV. Ele faz desenhos de publicidade, um mercado que está sumindo por conta das fotografias. E ela é uma faxineira de um centro de pesquisa inacreditavelmente incompetente. Junte tudo isto em uma alegoria tão séria quanto robôs gigantes lutando contra monstros apocalípticos.
 
 Michael Shannon faz aqui um dos personagens mais caricaturescos já inventado. Ele é o homem branco hétero obtuso dos anos 60 na visão da feminista justiceira social mais ferrenha. Imagine que ela assistiu Mad Men e pirou, jurando vingança no processo. O personagem de Shape tem um emprego decente, uma esposa e filhos no estilo sonho americano (a casa dele é a única coisa no filme com uma cor diferente: amarelo). Ele deseja um carro novo, um Cadillac, símbolo daquela era. E consegue. E adivinha o que irá acontecer com o carro de um vilão em um filme desses?

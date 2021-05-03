@@ -1,9 +1,13 @@
 ---
+categories:
+- draft
+- code
 date: 2018-09-12
-title: "Vcpkg Internals: como o gerenciador de pacotes da M$ funciona por dentro (e como fazer seu próprio pacote!)"
-categories: [ "draft", "code" ]
-desc: "Visual Studio, Visual Code, package, CMake, triple."
+desc: Visual Studio, Visual Code, package, CMake, triple.
+title: 'Vcpkg Internals: como o gerenciador de pacotes da M$ funciona por dentro (e
+  como fazer seu próprio pacote!)'
 ---
+
 Depois de entender mais ou menos como funciona o vcpkg é hora de realmente entrar no código e entender qual a grande sacada dessa ferramenta da Microsoft.
 
 ### Depurando o projeto
@@ -535,4 +539,3 @@ c:\Libs\vcpkg\installed\x86-windows\share\bitforge
 E voilá! Agora o include está disponível, as funções estão disponíveis, o link está funcionando e seu pacote pode ser compartilhado com toda a empresa. Basta copiar a pasta ports/bitforge ou adicioná-la no repositório por um commit.
 
 ![](https://i.imgur.com/XeeD4Se.png)
-

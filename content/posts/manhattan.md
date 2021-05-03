@@ -1,9 +1,11 @@
 ---
-date: "2014-05-20"
-link: "https://www.imdb.com/title/tt0079522"
-categories: [ "movies" ]
-title: "Manhattan"
+categories:
+- movies
+date: '2014-05-20'
+link: https://www.imdb.com/title/tt0079522
+title: Manhattan
 ---
+
 A fotografia e a música de Manhattan fazem todo o filme parecer uma poesia cinematográfica espontânea, quase uma vida alternativa dentro das telas, especificamente dentro daquela tela larga e de maneira magistral usada por Woody Allen e sua equipe para torná-la mágica independente da história que irá ser contada. A própria história começa com inúmeras tentativas de Isaac (Allen) iniciar seu livro com uma síntese sobre Nova York e sua decadência cultural que, ainda que inevitável, consegue nos fascinar.
 
 A partir daí conhecemos sua nova e jovem namorada Tracy (a bela Mariel Hemingway) em um encontro com seu amigo Yale (Michael Murphy) e sua esposa Emily (Anne Byrne Hoffman). Em um segundo momento (aparentemente já no dia seguinte) encontramos o mesmo Yale e sua amante Mary (Diane Keaton), que de início se torna insuportável para Isaac, mas que aos poucos vira seu interesse romântico "maduro".

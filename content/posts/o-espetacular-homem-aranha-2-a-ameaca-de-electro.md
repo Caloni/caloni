@@ -1,9 +1,11 @@
 ---
-date: "2014-05-06"
-link: "https://www.imdb.com/title/tt1872181"
-categories: [ "movies" ]
-title: "O Espetacular Homem-Aranha 2: A Ameaça de Electro"
+categories:
+- movies
+date: '2014-05-06'
+link: https://www.imdb.com/title/tt1872181
+title: 'O Espetacular Homem-Aranha 2: A Ameaça de Electro'
 ---
+
 O Espetacular Homem-Aranha, como é chamada no Brasil essa nova franquia da Sony em torno do herói de teias, não poderia ser mais "espetacular" em sua segunda aparição. Aliás, é tão "espetacular" no sentido da palavra que os habitantes de Nova York já estão habituados a se apinharem educadamente atrás das quase presentes barreiras de metal colocadas estrategicamente em torno de mais um embate entre o Aranha e mais um dos seus arqui-inimigos. Eles aplaudem, festejam, comem pipoca. Nós também. Tudo é um show pirotecnicamente planejado para fornecer ação, humor, suspense, drama e comédia (ah, e romance) em um pacote de quase duas horas e meia de duração. São tantos gêneros diferentes quanto inimigos na telona, e assim como a presença de um número excessivo de personagens icônicos enfraquece cada um deles, até por praticamente não terem qualquer relação uns com os outros. A presença de uma dramédia romântica com ação desenfreada parece não querer dizer muita coisa de nenhum gênero específico. Ao espectador e aos nova-iorquinos as instruções são simples: apenas abrace o lado do filme que lhe agradar mais e aguarde pelo seus breves momentos. Enquanto ele não chega, aprecie uma pipoca e aplauda atrás dos óculos 3D uma performance tão grandiosa quanto um Cirque du Soleil em videotape. Assim como o famoso circo que circunda o planeta para apresentar seu espetáculo para uma plateia que sabe que irá encontrar acrobacias treinadas por anos em um palco onde está tudo sob controle, "Amazing Spider Man" é um filme que tem tudo sob controle: os fãs, os amantes de efeitos visuais, os adoradores de pipoca. Tudo condicionado para fazer... não, obrigar, que você goste do grande show.
 
 A não ser quando você não gosta.

@@ -1,8 +1,11 @@
 ---
-date: "2009-07-07"
-categories: [ "code", "draft",  ]
-title: "Strings"
+categories:
+- code
+- draft
+date: '2009-07-07'
+title: Strings
 ---
+
 Como já vimos centenas e centenas de vezes, memória é apenas memória até que alguém diga que isso vale alguma coisa. Em seu estado latente é o que chamamos formalmente de dados. E dados são bytes armazenados na memória.
 
 No entanto, quando esses dados viram algo de útil em um determinado contexto, não necessariamente alterando-se seu conteúdo na memória, passamos a lidar com informação. Ou seja, é um dado com significado. E informação é a interpretação desses mesmos dados.

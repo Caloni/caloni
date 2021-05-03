@@ -1,9 +1,12 @@
 ---
-date: "2017-04-16"
-link: "https://www.imdb.com/title/tt2937158"
-categories: [ "draft", "movies" ]
-title: "Nota de 1000 Rúpias"
+categories:
+- draft
+- movies
+date: '2017-04-16'
+link: https://www.imdb.com/title/tt2937158
+title: Nota de 1000 Rúpias
 ---
+
 Um pequeno conto indiano em formato de filme, narrado quase como uma peça de teatro com enquadramentos poéticos e dramáticos no melhor estilo Central do Brasil, Nota de 1000 Rúpias caminha pelo inevitável drama do povo indiano e sua pobreza explorada ou subjugada pelos ricos e poderosos e corruptos políticos e seus asseclas, igualmente alheios à imoralidade de suas ações.
 
 O filme começa bonito e simples. Uma mulher que perdeu seu filho agricultor, que se suicidou depois de não conseguir pagar sua dívida ao agiota, ganha notas de 1000 rúpias de um político durante um discurso em seu vilarejo. Acostumada a gastar em torno de 2 a 3 rúpias diárias, no máximo, ela se vê agora com o grande problema ter conseguir gastar aquelas notas graúdas no mercado de um vilarejo maior. Acompanhada pelo seu amigo e afilhado na prática, eles se veem em confusão quando são acuados por um policial que não possui o mínimo de decência ou respeito por pessoas simples e humildes.

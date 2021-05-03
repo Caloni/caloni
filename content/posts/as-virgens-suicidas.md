@@ -1,9 +1,12 @@
 ---
-date: "2019-03-31"
-link: "https://www.imdb.com/title/tt0159097"
-categories: [ "draft", "movies" ]
-title: "As Virgens Suicidas"
+categories:
+- draft
+- movies
+date: '2019-03-31'
+link: https://www.imdb.com/title/tt0159097
+title: As Virgens Suicidas
 ---
+
 O primeiro filme de Sofia Coppola, produzido pelo pai, ninguém menos que Francis Ford Coppola, é o debut de uma filhinha de papai que vai melhorando o estilo a cada novo filme, explorando a sofrida vida dos ricos, mas que nesse começa prepotente demais para um dramazinho adolescente cujo drama em si nunca é visto.
 
 A história é exagerada, fala sobre cinco irmãs lindas de um casal conservador em uma época mais conservadora ainda. O começo é um frescor de narrativa, nostálgica e evocativa, mas quando chega o baile da escola não temos certeza se Coppola está zoando com nossa cara ou era para levar a sério. O problema aí é que a personagem de Kirsten Dunst, assim como todas as garotas, se resumem em olhares e bocas. Quase não há diálogo. A frase mais prepotente anuncia um vazio imenso: "você nunca foi uma garota de 13 anos". OK, e como que é?

@@ -1,9 +1,12 @@
 ---
-date: "2019-12-29"
-link: "https://www.imdb.com/title/tt0373889"
-categories: [ "draft", "movies" ]
-title: "Harry Potter e a Ordem da Fênix"
+categories:
+- draft
+- movies
+date: '2019-12-29'
+link: https://www.imdb.com/title/tt0373889
+title: Harry Potter e a Ordem da Fênix
 ---
+
 A série de filmes começa a parecer uma série televisiva, inchada para pouca recompensa no final do episódio. A suposta genialidade de J. K. Rowling em recriar a mitologia Star Wars acaba se tornando óbvia demais nesse episódio onde apenas pessoas específicas morrem para que haja algum peso dramático, e a dicotomia entre progressistas e conservadores seja novamente usada como uma óbvia alegoria em nosso século onde seguir as tradições é usado como a marca da besta.
 
 O filme não se diferencia por muito mais que isso dos outros. Apresenta novos personagens que serão usados na batalha final e para aumentar a diversidade com novos elementos femininos. É curioso como a participação de Gary Oldman como Sirius Black parece ter sido pincelada para pouco tempo de tela e muito impacto narrativo. Assim como Dumbledore e outros adultos que antes apenas eram portas de entrada para as crianças bruxas e as leituras desses livros.

@@ -1,9 +1,11 @@
 ---
-date: "2015-01-28"
-link: "https://www.imdb.com/title/tt1911658"
-categories: [ "movies" ]
-title: "Os Pinguins de Madagascar"
+categories:
+- movies
+date: '2015-01-28'
+link: https://www.imdb.com/title/tt1911658
+title: Os Pinguins de Madagascar
 ---
+
 Assim como Carros 2, jogar personagens secundários -- e engraçadinhos -- em um trabalho solo raramente gera bons resultados.
 
 No caso dos hilários pinguins e seus estratagemas elaborados que milagrosamente funcionam, eles possuíam ótimas participações nos dois primeiros Madagascar. Porém, eram participações curtas, pontuais e até orgânicas. Em Pinguins de Madagascar eles são os mesmos, e não há história principal que sustente por tanto tempo as mesmas piadas.

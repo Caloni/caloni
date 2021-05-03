@@ -1,9 +1,11 @@
 ---
-date: "2015-06-13"
-link: "https://www.imdb.com/title/tt0289879"
-categories: [ "movies" ]
-title: "Efeito Borboleta"
+categories:
+- movies
+date: '2015-06-13'
+link: https://www.imdb.com/title/tt0289879
+title: Efeito Borboleta
 ---
+
 Efeito Borboleta é um desses filmes difíceis de defender, mas quem comprar a briga (como eu) pode encontrar uma fonte inesgotável de prazer. Prazer de defender a arte cinematográfica, mesmo às vezes através de sua própria imperfeição. Prazer em reconhecer que, mesmo com tantos defeitos, uma obra pode exibir virtudes que a tornam ímpares, ou pelo menos dignas de algumas revisitas. Há elementos particularmente fascinantes escondidos dentro do embrulho que é este filme, em um formato não muito bem empacotado.
 
 Centrado na figura de Evan Treborn, um garoto que passa sua infância tendo blackouts, ou seja, brancos de memória, justamente em momentos particularmente tensos e potencialmente importantes do início de sua vida, acompanhamos seu desenvolvimento em três fases distintas: aos 7 anos, aos 13 e, sua fase final, aos 21 (respectivamente interpretado por Logan Lerman, John Patrick Amedori e Ashton Kutcher). Além dele, há um círculo de amigos que irá fazer parte de toda a história em todas as suas fases. Há a confusa Kayleigh (Sarah Widdows, Irina Gorovaia e Amy Smart), seu irmão problemático Tommy (Cameron Bright, Jesse James e William Lee Scott) e o distante Lenny (Jake Kaese, Kevin G. Schmidt e Elden Henson).

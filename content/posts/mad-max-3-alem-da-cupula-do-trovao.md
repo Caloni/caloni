@@ -1,9 +1,12 @@
 ---
-date: "2019-03-24"
-link: "https://www.imdb.com/title/tt0089530"
-categories: [ "draft", "movies" ]
-title: "Mad Max 3: Além da Cúpula do Trovão"
+categories:
+- draft
+- movies
+date: '2019-03-24'
+link: https://www.imdb.com/title/tt0089530
+title: 'Mad Max 3: Além da Cúpula do Trovão'
 ---
+
 "Mad Max 3: Além da Cúpula do Trovão" já possui um lindo nome e no Brasil decidem apenas traduzir o subtítulo. Muito bem, não se mexe onde está ganhando. Traz Tina Turner junto de Mel Gibson nos créditos principais, mas o principal trabalho da cantora está menos no filme e mais nas músicas de abertura e encerramento do espetáculo. Você vai se lembrar da música do final, por isso não desligue antes dos créditos.
 
 Turner participa de algumas cenas como a dona de Cidade-Feira, e não me pergunte por quê. Este é mais um refúgio no deserto, dessa vez mantido por conta da sabedoria de um anão (Angelo Rossitto como "The Master") que consegue transformar esterco de porco em energia. Também não me pergunte com o que eles alimentam os porcos, estou tão curioso e confuso quanto você. Turner tem uma bela comissão de frente e lábios carnudos, que são favorecidos em seu figurino e maquiagem, não precisando que ela atue de verdade. Ei, talvez seja assim que ela tenha se tornado a dona da cidade.

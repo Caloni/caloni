@@ -1,9 +1,12 @@
 ---
-date: "2019-08-17"
-link: "https://www.imdb.com/title/tt0461804"
-categories: [ "draft", "movies" ]
-title: "Pingue-Pongue da Mongólia"
+categories:
+- draft
+- movies
+date: '2019-08-17'
+link: https://www.imdb.com/title/tt0461804
+title: Pingue-Pongue da Mongólia
 ---
+
 Não me lembro se já havia assistido a esse filme. São tantos trabalhos semelhantes que se passam em regiões distantes do planeta e que costumam passar na Rua Augusta, em São Paulo, e eu assistia tantos com minha esposa naquela região que, sinceramente, se eu já passei por esse filme, tive as mesmas sensações que tive hoje: um frescor de vida.
 
 Esse frescor vem daquela sensação de jovem de estar ainda descobrindo o mundo, de quando qualquer coisa que surge fora da nossa pequena e limitada zona de conforto se torna algo grandioso e mágico.

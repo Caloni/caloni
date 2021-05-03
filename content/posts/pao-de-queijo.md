@@ -1,9 +1,13 @@
 ---
-date: "2019-06-23"
-categories: [ "draft", "food" ]
-tags: [ "recipes" ]
-title: "Pão de Queijo Mineiro"
+categories:
+- draft
+- food
+date: '2019-06-23'
+tags:
+- recipes
+title: Pão de Queijo Mineiro
 ---
+
 Quantidade: 4 formas, pode congelar
 
 Ingredientes: 4 unidades de polvilho (doce/azedo), 1 unidades de leite, 1 unidade de óleo, 1 unidade de água, 2 unidades de queijo, cerca de 1 ovo por copo americano (depende da umidade do polvilho), sal a gosto para a massa (para equilibrar o queijo).

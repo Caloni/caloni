@@ -1,9 +1,12 @@
 ---
-date: "2019-06-17"
-link: "https://www.imdb.com/title/tt0120601"
-categories: [ "draft", "movies" ]
-title: "Quero Ser John Malkovich"
+categories:
+- draft
+- movies
+date: '2019-06-17'
+link: https://www.imdb.com/title/tt0120601
+title: Quero Ser John Malkovich
 ---
+
 Nessa época Charlie Kaufman ainda estava explorando mais as ideias do que lustrando o roteiro, mas ainda assim... que filme! Uma ode à insignificância de nossos corpos, e até de nossas almas, inultimente pulando de corpo em corpo, na esperança de encontrar algo além do que nossos próprios corpos provêm.
 
 O diretor Spike Jonze realiza aqui o roteiro de Kaufman com afinco. Note como os atores, John Cusack e Cameron Diaz, realizam os melhores papéis de suas carreiras, pois são atores rasos e é exatamente isso o que o material pede aqui. Jonze os enfeia como bonecos de titeragem e em alguns momentos não sabemos a diferença entre eles e sua busca pelo amor no outro e suas versões em boneco. Aliás, sabemos, sim: os bonecos e seus movimentos são mais intensos.

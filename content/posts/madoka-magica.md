@@ -1,9 +1,12 @@
 ---
-date: "2014-04-14"
-link: "https://www.imdb.com/title/tt1773185"
-categories: [ "animes", "home" ]
-title: "Madoka Magica"
+categories:
+- animes
+- home
+date: '2014-04-14'
+link: https://www.imdb.com/title/tt1773185
+title: Madoka Magica
 ---
+
 A revisita a este animê que para mim ainda é meu favorito -- pela originalidade e pela fuga do lugar-comum e dos roteiros fáceis que a maioria das adaptações dos quadrinhos japoneses são submetidos -- foi feita em apenas uma noite. Mais de quatro horas depois posso reafirmar com convicção: é uma obra ousada para seu formato tanto em história quanto na direção/edição/arte. Desafia o espectador a esquecer os detalhes centrais de uma história que vai se abrindo muito lentamente, e sua força é sentida exatamente por esse cuidado em cada detalhe.
 
 Madoka Mágica é um trabalho caricatual que segue à risca a cartilha de heroinas de cosplay (ou, diria, se usa desse artifício como metalinguagem e crítica ao gênero), mas, mais do que isso, segue um tratamento estilizado e inspirado levemente no surrealismo, mas que empurra a animação para além das histórias de luta ao lidar com conceitos complexos como auto-sacrifício, religião, viagens no tempo, destino e física teórica (além de vida extraterrena) sem perder seu ritmo com história secundárias bobinhas para fazer rir/ganhar tempo. É uma fantasia com um pé na ciência, um pé na filosofia e outro pé na arte. Esse tripé mantém a câmera posicionada nos lugares mais inusitados para capturar cada quadro como se esse fosse uma obra de arte única a resumir aquele momento através de sutis e significativos movimentos.

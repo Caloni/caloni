@@ -1,8 +1,11 @@
 ---
-date: "2017-06-27"
-categories: [ "draft", "reading" ]
-title: "Why People Are Irrational about Politics"
+categories:
+- draft
+- reading
+date: '2017-06-27'
+title: Why People Are Irrational about Politics
 ---
+
 A teoria da "Irracionalidade Racional" do filósofo Michael Huemer estabelece uma base teórica que nos permite afirmar que qualquer discussão política é em sua essência irracional:
 
 The theory of Rational Irrationality holds that it is often instrumentally rational to be epistemically irrational. In more colloquial (but less accurate) terms: people often think illogically because it is in their interests to do so.
@@ -12,5 +15,4 @@ An interesting implication emerges from the consideration of the mechanisms of b
 The problem of political irrationality is the greatest social problem humanity faces. It is a greater problem than crime, drug addiction, or even world poverty, because it is a problem that prevents us from solving other problems.
 
 Original: http://www.owl232.net/irrationality.htm
-Traduzido: https://criticanarede.com/irracionalidadepolitica.html 
-
+Traduzido: https://criticanarede.com/irracionalidadepolitica.html

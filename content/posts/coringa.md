@@ -1,9 +1,12 @@
 ---
-date: "2019-10-06"
-link: "https://www.imdb.com/title/tt7286456"
-categories: [ "draft", "movies" ]
-title: "Coringa"
+categories:
+- draft
+- movies
+date: '2019-10-06'
+link: https://www.imdb.com/title/tt7286456
+title: Coringa
 ---
+
 Coringa começa já em seu título a pretensão de determinar um início definitivo do icônico personagem dos quadrinhos revisitado em sua terceira encarnação (Jared Leto não conta) nos cinemas. Em um mundo onde truques narrativos, como narração em off, flashbacks e tempo não-linear substituem qualidade, o filme dirigido por Todd Phillips (Um Parto de Viagem) e escrito por ele e Scott Silver (O Vencedor) ignora tudo isso e segue o formato mais convencional possível para contar a história de um doente mental: começa no começo, termina no fim. Apenas essa decisão já constitui declaração de guerra à tão megalomaníaca quanto convencional Hollywood, disposta a sempre mutilar roteiros, além de abusar de efeitos e explosões para acobertar sua mediocridade.
 
 Agora contrariando o próprio roteiro deste Coringa, vou eu mesmo seguir a cartilha de reviravoltas de Los Angeles e voltar no tempo. Surge um marco na transposição entre quadrinhos e cinema chamado Batman: O Cavaleiro das Trevas. Nele somos apresentados à performance definitiva, na arte e na vida, do que constitui esse personagem de palhaço psicopata realista. Heath Ledger em seu papel de 2008 consegue roubar ao mesmo tempo o filme do meio da trilogia do diretor Christopher Nolan, o protagonismo do ator Christian Bale e, por fim, uma insanidade cuidadosamente planejada nesta adaptação livre e realista do vilão de A Piada Mortal, a graphic novel de Alan Moore. Como se não bastasse, em um ato que torna a vida maior que a própria arte, Ledger morre de overdose seis meses antes da estreia, fincando o pé por definitivo no hall da fama. Oito meses após a estreia é condecorado por um Oscar póstumo, em um dos dois sinais de como se faz para ganhar um Oscar em filme de super-herói: morrendo ou sendo negro.

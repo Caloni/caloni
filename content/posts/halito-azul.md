@@ -1,10 +1,14 @@
 ---
-date: "2019-10-09"
-link: "https://www.imdb.com/title/tt6616336"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Hálito Azul"
+categories:
+- draft
+- movies
+date: '2019-10-09'
+link: https://www.imdb.com/title/tt6616336
+tags:
+- cinemaqui
+title: Hálito Azul
 ---
+
 A peça de Raul Brandão, escritor português, inspira um cineasta da região de Açores, Rodrigo Areias, a documentar uma vila de pescadores portugueses de onde veio sua família, e como consequência somos brindados com Hálito Azul, onde a poesia, a cultura, a religião e a ecologia do local, não são perdido no tempo, mas transformado em algo a mais.
 
 Esse algo a mais escapa do autor e diretor, mas por muito pouco, pois ao nos mostrar a vida dos pescadores como protagonistas de sua vida e encenar momentos belíssimos dentro e fora do mar o filme já mergulha em uma simbologia rica em detalhes visuais, restando desenvolver suas histórias. O palco está pronto para aventuras, mas o ensaio é eterno.

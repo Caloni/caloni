@@ -1,8 +1,11 @@
 ---
-date: "2010-07-26"
+categories:
+- draft
+- blog
+date: '2010-07-26'
 title: Breakpoints promíscuos
-categories: [ "draft", "blog" ]
 ---
+
 Ontem falei sobre como "brincar" com os breakpoints promíscuos, ou seja, aqueles que topam qualquer processo. Isso
 
 é muito simples de se fazer:

@@ -1,9 +1,12 @@
 ---
-date: "2016-06-24"
-link: "https://www.imdb.com/title/tt4263482"
-categories: [ "draft", "movies" ]
-title: "A Bruxa"
+categories:
+- draft
+- movies
+date: '2016-06-24'
+link: https://www.imdb.com/title/tt4263482
+title: A Bruxa
 ---
+
 Este terror faz jus a produções clássicas como O Exorcista (Friedkin, 1973), inovadoras como A Bluxa de Blair (Myrick, Sánchez, 1999) e instigantes como A Vila (Shyamalan, 2004), sem apelar inteiramente para nenhum desses três formatos. Conta uma lenda/conto antigo inglês e leva ao pé da letra muitas passagens, embora em todas elas haja a tal licença poética e o ponto de vista dos seus personagens, permitindo um verdadeiro jogo de interpretação para os que estiverem curiosos apenas pela sua história.
 
 Porém, entre as maiores virtudes de A Bruxa, seu roteiro narrativo figura entre os menos interessantes. O seu forte está nos detalhes visuais, e como os detalhes dessa atmosfera sufocante. Às vezes se traduz em um plano-detalhe constante dos seios de Thomasin (Anya Taylor-Joy), a filha atingindo a puberdade, observados de perto pelo irmão mais novo, Caleb (Harvey Scrimshaw). E da mesma forma, se traduz na mesma filha despindo a camisa do religioso pai William (Ralph Ineson) que acabou de cair na lama. Mas não é apenas luxúria corporal, mas materialista, também. Vemos isso na perda da taça de prata da preocupada mãe, Katherine (Kate Dickie). É o jogo de mentiras sutis, mas vitais, mas que para uma família fervorosamente religiosa se traduz nos pecados capitais. É a interpretação da realidade sob a única ótica que existia naquela época, responsável por boa parte do mal-estar da civilização ocidental: a religião cristã.

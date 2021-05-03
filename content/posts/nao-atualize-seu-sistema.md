@@ -1,8 +1,10 @@
 ---
-date: "2016-01-28"
-categories: [ "draft" ]
-title: "Não Atualize seu Sistema"
+categories:
+- draft
+date: '2016-01-28'
+title: Não Atualize seu Sistema
 ---
+
 De quem é o interesse que você atualize constantemente seu sistema? Muito provavelmente não é seu. Sistemas -- operacionais ou não -- costumam ser escritos por programadores, que não fogem muito do que você conhece como ciclo de desenvolvimento, o que quer dizer que o sistema que atualiza sempre estará sempre testando suas novas features no seu dispositivo (computador, celular, tablet), verificando as mais nova correções e, claro, lhe fornecendo o que há de mais novo e mais difícil de contornar no que diz respeito a bugs, já que quase não haverá páginas no Stack Overflow te dizendo o que fazer sobre o bug que foi instalado em todas as máquinas do mundo há cinco minutos. Muito menos páginas descrevendo o SEU problema específico, com o SEU driver específico e hardware específico. Sim, Windows, eu estou falando com você.
 
 Porém, quando se trata de atualizações na velocidade do commit, a Microsoft não é um monopólio. Praticamente todos os apps, desktop ou web, precisam atualizar constantemente, freneticamente. Todos eles, sem exceção, nunca perguntam se você gostaria de fazer isso, ou se perguntam continuarão te enchendo o saco por toda a eternidade. Nenhum se preocupa em retornar ao estado anterior quando as coisas vão mal, o que triplicaria o problema de atualização global para eles. A Google nunca sai do beta, e por um bom motivo: no final do Sprint quinzenal, lá está o código novo em folha rodando na máquina do usuário. Um código que passou por milhões de testes unitários, bilhões de testes caixa-preta, menos o seu teste específico, coisa mínima, que irá lhe deixar um software capenga até (talvez) o próximo Update. Você não precisa daquela opção do menu, certo? Basta usar só mais um app adicional para isso.

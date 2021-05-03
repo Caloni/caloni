@@ -1,8 +1,11 @@
 ---
-date: "2015-06-05"
+categories:
+- draft
+- code
+date: '2015-06-05'
 title: Logs em serviços (e outras coisas)
-categories: [ "draft", "code" ]
 ---
+
 ![](http://i.imgur.com/p9kH1LW.jpg)
 
 Já uso logs há muito tempo. Me lembro muito bem que quando programava em BASIC o "passou por aqui" já era útil. Depois de fazer muitas bibliotecas super-flexíveis de escrita em saídas diferentes, níveis configuráveis e uso do mais complexo ao mais banal, cheguei à seguinte conclusão:

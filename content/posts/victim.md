@@ -1,9 +1,11 @@
 ---
-date: "2013-08-11"
-link: "https://www.imdb.com/title/tt0918575"
-categories: [ "movies" ]
-title: "Victim"
+categories:
+- movies
+date: '2013-08-11'
+link: https://www.imdb.com/title/tt0918575
+title: Victim
 ---
+
 Adoro filmes que me surpreendem. Melhor ainda quando eles começam não prometendo quase nada. É o caso desse "Meu Passado me Condena" (Victim, no original e no IMDB), que inicia como um thriller nada original, caminha por estradas tortuosas do gênero para finalmente se definir no terceiro ato com seu momento glorioso que nos faz voltar desde o começo e entender que nada do que parecia era exatamente como se supunha.
 
 Iniciando com um vídeo caseiro, supostamente do assassino de uma bela garota vinda do Kansas (Jennifer Howie), que parece ter relação com o sequestro e tortura psicológica de um rapaz bem apessoado que encontramos em um bar e cujo nome não sabemos (Stephen Weigand), acompanhamos seu sofrimento nas mãos do aterrorizante Dr. Rudolph Volk (Bob Bancroft), que tem uma voz inquietante, frases desconexas com a realidade e fala pausadamente para sua vítima, causando um mal estar pior do que já está. Tendo a ajuda de seu capanga igualmente enigmático e ainda dotado de músculos que é chamado pelo Doutor como simplesmente Sr. George (Brendan Kelly), entendemos a fuga ser algo no mínimo bem complicado, ainda mais ao acompanharmos os períodos em que o deixam debilitado através da falta de comida e por queimarem todos seus dedos de uma vez (o que mais uma vez reforça a nossa falta de identificação com o rapaz).

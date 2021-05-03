@@ -1,10 +1,14 @@
 ---
-date: "2018-08-17"
-link: "https://www.imdb.com/title/tt6330052"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Gauguin: Viagem ao Taiti"
+categories:
+- draft
+- movies
+date: '2018-08-17'
+link: https://www.imdb.com/title/tt6330052
+tags:
+- cinemaqui
+title: 'Gauguin: Viagem ao Taiti'
 ---
+
 A passagem de Gauguin pela Polinésia não é apenas a história de um homem do mundo moderno indo resgatar sua origem selvagem, mas um artista buscando entender sobre as perdas envolvidas nesta transição.
 
 Vincent Cassel como Gauguin se entrega ao ato de se transformar no homem branco vivendo como nativos, mas sem nunca deixar de lado as telas e tintas que sempre revelam que sempre será eternamente um observador. Seu ressentimento pela miséria e sua indignação pelo seu amigo nativo se transformar em um mero comerciante demonstram a triste, inconsolável verdade que uma vez que se viveu sob as asas da civilização do estilo europeu, rico ou pobre, nunca mais se volta à inocência da vida simples e sincera ao lado da natureza.

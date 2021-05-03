@@ -1,10 +1,14 @@
 ---
-date: "2019-09-18"
-link: "https://www.imdb.com/title/tt7064620"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Foro Íntimo"
+categories:
+- draft
+- movies
+date: '2019-09-18'
+link: https://www.imdb.com/title/tt7064620
+tags:
+- cinemaqui
+title: Foro Íntimo
 ---
+
 Foro Íntimo é uma viagem claustofóbica e tensa que usa todos os artifícios técnicos do cinema para contar uma história e manter seu efeito por toda sua interminável hora e pouco, se esquecendo até do motivo por trás do clima deste pesadelo em forma de filme.
 
 Acompanhamos um dia na vida de um juiz que está sendo mantido 24 horas no foro onde trabalha. Ele nem acorda e já tem pesadelos em que toma um tiro. Ao lado de um segurança fortemente armado que o acompanha todo o tempo. Um esquema de segurança é mantido para ele e sua família durante um processo criminal de gente grande, que consegue localizar a família e deixar uma foto debaixo do nariz de todos. "Este é um dia atípico", diz seu segurança. "O senhor devia cancelar as audiências de hoje". E agora não sabemos se seu segurança está sendo prudente ou faz parte das forças ocultas que tentam manipular a justiça.

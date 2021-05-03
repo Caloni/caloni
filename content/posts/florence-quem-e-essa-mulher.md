@@ -1,10 +1,14 @@
 ---
-date: "2016-06-10"
-link: "https://www.imdb.com/title/tt4136084"
-categories: [ "draft", "movies" , ]
-tags: [ "cinemaqui"  ]
-title: "Florence - Quem é Essa Mulher?"
+categories:
+- draft
+- movies
+date: '2016-06-10'
+link: https://www.imdb.com/title/tt4136084
+tags:
+- cinemaqui
+title: Florence - Quem é Essa Mulher?
 ---
+
 "Florence - Quem é Essa Mulher?" é uma ode à mediocridade. Ele brinca com analogias que fazem todo o sentido do mundo hoje em dia, quando mega-produções são "proibidas" pelos fãs de serem criticadas por gente especializada, e embora muitas pessoas acabem de fato gostando do resultado dessas produções, embora muitas vezes pelos motivos errados. Afinal de contas, quem nunca deu risada em uma cena da série Transformers, ou até desses terrores enlatados como a interminável série Atividade Paranormal?
 
 Porém, a alma do filme não é ninguém menos que Meryl Streep, que faz a figura (real) de Florence Foster Jenkins, uma socialite que viveu da herança de sei pai. Porém, não confunda com figuras como a fútil Paris Hilton; Florence é uma ricaça de bom coração, que gosta de ajudar pessoas envolvidas com a música, e não uma caricatura que os filmes nacionais gostam de pintar (como a megera de Que Horas Ela Volta?). Seu marido, 	

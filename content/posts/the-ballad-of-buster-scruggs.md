@@ -1,9 +1,12 @@
 ---
-date: "2018-12-11"
-link: "https://www.imdb.com/title/tt6412452"
-categories: [ "draft", "movies" ]
-title: "The Ballad of Buster Scruggs"
+categories:
+- draft
+- movies
+date: '2018-12-11'
+link: https://www.imdb.com/title/tt6412452
+title: The Ballad of Buster Scruggs
 ---
+
 Jack London e Stewart Edward White foram famosos escritores de sua época, lá pelo final do século 19 até o início do 20. Eles assinam duas estórias dessa antologia em que apenas os irmãos Coen conseguem completar. E não apenas no roteiro, mas na direção, imortalizando essa antologia como se todos esses seis contos em conjunto estivessem sendo contados pela primeira vez. Mas não exatamente.
 
 O que permite que os Coen refaçam as trilhas de seus antecessores é um apuro estético e linguístico que permite que nós percebamos que eles estão cientes que não fazem nada de novo. Porém, fazem bem feito. É mais fácil perceber isso logo no seu começo, onde o próprio narrador inicia a trajetória cantando e magicamente como o melhor atirador onde quer que passe. Ele começa como uma figura onisciente que nos introduz a este mundo um tanto fantasioso do velho oeste, mas ancorado nas duras lições que os colonos aprenderam nessa terra árida, muitas vezes sem lei e sem água. E ele morre, como merece, pois os irmãos Coen não precisam de muletas narrativas para impor força em suas estórias.

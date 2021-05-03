@@ -1,9 +1,11 @@
 ---
-date: "2012-10-28"
-link: "https://www.imdb.com/title/tt1399533"
-categories: [ "movies" ]
-title: "Carmel"
+categories:
+- movies
+date: '2012-10-28'
+link: https://www.imdb.com/title/tt1399533
+title: Carmel
 ---
+
 Que filme odiável. Não que ele seja odiável do começo ao fim. Houve uma tentativa realmente sincera de quem vos escreve de tentar decifrar a narrativa difusa e aparentemente amadorística de um filme que estava sendo apresentado quase que como um tributo à vida do diretor Amos Gitai (presente na sessão) e sua mãe, que viveu as agrúrias do povo judeu desde muito antes da Segunda Guerra. A base da história são as cartas dela, que teoricamente poderiam fazer eco com décadas e mais décadas da visão judia sobre seu povo e suas relações com o mundo.
 
 No entanto, o que mais vemos é o despreparo de diretor e montador em conseguir unir pontas que se confundem entre cenas documentais pré-ensaiadas, leituras de cartas de início a fim, cenas fictícias recriadas ou como peças de teatro ao ar livre ou como telenovelas da pior qualidade e, ainda, sequências inteiras que tentam unir todos esses elementos simplesmente sobrepondo-os com o uso de efeitos que poderiam ser comparados à festas de aniversário em um buffet infantil.

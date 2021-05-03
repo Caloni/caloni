@@ -1,9 +1,11 @@
 ---
-date: "2015-04-15"
-link: "https://www.imdb.com/title/tt1130080"
-categories: [ "movies" ]
-title: "O Desinformante!"
+categories:
+- movies
+date: '2015-04-15'
+link: https://www.imdb.com/title/tt1130080
+title: O Desinformante!
 ---
+
 Esse filme começa com uma pequena mentira e termina em uma interminável cornucópia de detalhes sobre uma trama que teve inspiração em um caso real envolvendo a empresa Archer Daniels Midland na década de 90. Baseado no livro do jornalista Kurt Eichenwald, a história gira em torno do testemunho do vice-presidente da companhia, Mark Whitacre (Matt Damon), a partir de uma suspeita de extorsão comercial fabricada pelo próprio Mark para se livrar da culpa da queda na produção de milho causada por uma bactéria. Whitacre cresceu profissionalmente na área técnica, e todas as suas narrações em off envolvem curiosidades e reflexões a respeito da produção e comercialização de produtos consumidos pela população em geral cuja origem nunca é pesquisada a fundo.
 
 O curioso é que, como havia dito, a história começa com essa mentira, que não nos é revelada como tal, mas facilmente deduzível pela situação. Depois que o FBI se envolveu e Mark ter confessado seu "crime", as próximas mentiras envolvendo um sistema de cartel para controlar os preços montado entre os concorrentes do mundo todo começam cheirando mal, mas agora já não conseguimos mais distinguir fatos da imaginação fértil do loquaz Whitacre.

@@ -1,9 +1,12 @@
 ---
-date: "2021-03-03"
-link: "https://www.imdb.com/title/tt1206488"
-categories: [ "draft", "movies" ]
-title: "A Teta Assustada"
+categories:
+- draft
+- movies
+date: '2021-03-03'
+link: https://www.imdb.com/title/tt1206488
+title: A Teta Assustada
 ---
+
 Existe uma teta. E ela é assustada. O impacto do terror no passado da história do Peru faz a teta ficar assim. Sim, são muitos trocadilhos para nossa mente interior de quinta série lidar. Mas fica pior: a moça tem uma batata na ppk.
 
 Este filme é muito bem conduzido apesar de todos esses trocadilhos porque possui um monte de mulheres em torno da direção, roteiro e produção. Seria impossível fazer este filme com muitos homens no set. Eles tentaram, mas todos acabaram rolando de rir e desistiram do emprego.
