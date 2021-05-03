@@ -1,6 +1,7 @@
 ---
 date: "2008-04-25"
-categories: [ "ccppbr" ]
+categories: [ "blog" ]
+tags: [ "ccppbr" ]
 title: "Seminário CCPP Portabilidade e Performance"
 ---
 Reserve sua cadeira. Está marcado para o último dia do mês de maio o primeiro seminário de nosso grupo nacional de programadores e aficionados por C e C++. É bom ou não é?
