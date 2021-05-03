@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2010-01-11'
+tags:
+- draft
 title: Importando tipos de outros projetos
 ---
 

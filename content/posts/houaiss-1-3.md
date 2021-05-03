@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2011-04-28'
+tags:
+- draft
 title: Houaiss 1.3
 ---
 

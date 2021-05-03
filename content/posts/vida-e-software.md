@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2011-10-22'
+tags:
+- draft
 title: Vida e Software
 ---
 

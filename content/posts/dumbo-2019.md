@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-03-22'
 link: https://www.imdb.com/title/tt3861390
 tags:
 - cinemaqui
+- draft
 title: Dumbo
 ---
 

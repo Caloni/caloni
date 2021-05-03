@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2020-03-02'
 link: https://www.imdb.com/title/tt0495596
+tags:
+- draft
 title: Contos de Terramar
 ---
 

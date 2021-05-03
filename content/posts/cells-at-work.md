@@ -1,10 +1,11 @@
 ---
 categories:
-- draft
 - series
 - animes
 date: '2020-01-09'
 link: https://www.imdb.com/title/tt8673610
+tags:
+- draft
 title: Cells at Work!
 ---
 

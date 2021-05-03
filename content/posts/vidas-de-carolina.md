@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2017-01-12'
+tags:
+- draft
 title: Vidas de Carolina
 ---
 

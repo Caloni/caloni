@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2008-06-06'
+tags:
+- draft
 title: Declaração x definição
 ---
 

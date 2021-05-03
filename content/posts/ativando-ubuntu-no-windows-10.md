@@ -1,8 +1,9 @@
 ---
 categories:
 - blog
-- draft
 date: '2017-08-29'
+tags:
+- draft
 title: Ativando Ubuntu No Windows 10
 ---
 

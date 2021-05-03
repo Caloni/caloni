@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-12-15'
 link: https://www.imdb.com/title/tt3183660
+tags:
+- draft
 title: Animais Fantásticos e Onde Habitam
 ---
 

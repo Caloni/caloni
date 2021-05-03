@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-03-24'
 link: https://www.imdb.com/title/tt0082694
+tags:
+- draft
 title: 'Mad Max: A Caçada Continua'
 ---
 

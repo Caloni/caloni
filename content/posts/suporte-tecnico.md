@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2010-11-05'
+tags:
+- draft
 title: Suporte técnico
 ---
 

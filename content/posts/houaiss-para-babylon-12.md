@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2010-04-08'
+tags:
+- draft
 title: Houaiss Para Babylon!
 ---
 

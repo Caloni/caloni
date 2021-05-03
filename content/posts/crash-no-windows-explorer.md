@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2016-03-01'
+tags:
+- draft
 title: Crash no Windows Explorer
 ---
 

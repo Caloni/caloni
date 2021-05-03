@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2019-11-18'
 link: https://www.imdb.com/title/tt5687612
+tags:
+- draft
 title: Fleabag
 ---
 

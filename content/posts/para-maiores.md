@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-07-03'
 link: https://www.imdb.com/title/tt1333125
+tags:
+- draft
 title: Para Maiores
 ---
 

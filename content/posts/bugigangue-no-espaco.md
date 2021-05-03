@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-02-14'
 link: https://www.imdb.com/title/tt5812510
 tags:
 - cinemaqui
+- draft
 title: BugiGangue no Espaço
 ---
 

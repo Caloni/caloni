@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2020-12-12'
 link: https://www.imdb.com/title/tt0119654
+tags:
+- draft
 title: 'MIB: Homens de Preto'
 ---
 

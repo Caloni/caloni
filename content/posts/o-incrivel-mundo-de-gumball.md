@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2016-10-16'
 link: https://www.imdb.com/title/tt1942683
+tags:
+- draft
 title: O Incrível Mundo de Gumball
 ---
 

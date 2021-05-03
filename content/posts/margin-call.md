@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-12-21'
 link: https://www.imdb.com/title/tt1615147
+tags:
+- draft
 title: Margin Call - O Dia Antes do Fim
 ---
 

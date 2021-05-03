@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-08-17'
 link: https://www.imdb.com/title/tt0461804
+tags:
+- draft
 title: Pingue-Pongue da Mongólia
 ---
 

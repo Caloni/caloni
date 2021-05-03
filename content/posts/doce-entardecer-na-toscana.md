@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2020-02-19'
 link: https://www.imdb.com/title/tt9358106
 tags:
 - cinemaqui
+- draft
 title: Doce Entardecer na Toscana
 ---
 

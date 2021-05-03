@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2008-07-04'
+tags:
+- draft
 title: VirtualBox
 ---
 

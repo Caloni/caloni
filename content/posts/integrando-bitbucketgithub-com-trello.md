@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2014-07-22'
+tags:
+- draft
 title: Integrando BitBucket/GitHub com Trello
 ---
 

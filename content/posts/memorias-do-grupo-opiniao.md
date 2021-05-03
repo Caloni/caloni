@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-03-26'
 tags:
 - cinemaqui
+- draft
 title: Memórias do Grupo Opinião
 ---
 

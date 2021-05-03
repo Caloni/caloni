@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - ccpp
 date: '2015-04-27'
+tags:
+- draft
 title: C, C++, Engenharia Reversa e Todo o Resto
 ---
 

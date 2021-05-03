@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - books
 date: '2018-05-16'
+tags:
+- draft
 title: '2001: Uma Odisseia no Espaço (livro)'
 ---
 

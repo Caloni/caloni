@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2017-02-08'
+tags:
+- draft
 title: Pacotes perdidos do NuGet em projetos C++ no Visual Studio
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2018-01-25'
 link: https://www.imdb.com/title/tt1665071
+tags:
+- draft
 title: 'Sherlock: A Study in Pink'
 ---
 

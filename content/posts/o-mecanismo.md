@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2018-03-26'
 link: https://www.imdb.com/title/tt6873658
+tags:
+- draft
 title: O Mecanismo
 ---
 

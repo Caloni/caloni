@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-07-14'
 link: https://www.imdb.com/title/tt3918584
+tags:
+- draft
 title: 'Mais Forte que o Mundo: A História de José Aldo'
 ---
 

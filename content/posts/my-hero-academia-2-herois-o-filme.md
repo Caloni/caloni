@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-08-01'
 link: https://www.imdb.com/title/tt7745068
 tags:
 - cinemaqui
+- draft
 title: 'My Hero Academia: 2 Heróis - O Filme'
 ---
 

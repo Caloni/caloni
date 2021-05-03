@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2019-02-18'
+tags:
+- draft
 title: Dogville Teatro
 ---
 

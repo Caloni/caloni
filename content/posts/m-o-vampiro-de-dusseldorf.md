@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-01-21'
 link: https://www.imdb.com/title/tt0022100
+tags:
+- draft
 title: M, O Vampiro de Dusseldorf
 ---
 

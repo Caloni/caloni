@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2016-01-12'
+tags:
+- draft
 title: Classe, objeto, contexto, método, polimorfismo
 ---
 

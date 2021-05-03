@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-11-17'
 link: https://www.imdb.com/title/tt2231138
+tags:
+- draft
 title: Some Velvet Morning
 ---
 

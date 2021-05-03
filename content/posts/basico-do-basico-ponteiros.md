@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2008-12-06'
+tags:
+- draft
 title: 'Básico do básico: ponteiros'
 ---
 

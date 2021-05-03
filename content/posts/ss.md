@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2014-06-03'
+tags:
+- draft
 title: SS
 ---
 

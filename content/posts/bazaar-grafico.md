@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2010-02-25'
+tags:
+- draft
 title: Bazaar gráfico
 ---
 

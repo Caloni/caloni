@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-09-05'
 link: https://www.imdb.com/title/tt7025388
 tags:
 - cinemaqui
+- draft
 title: Abigail e a Cidade Proibida
 ---
 

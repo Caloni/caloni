@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - series
 date: '2019-07-27'
+tags:
+- draft
 title: Cinco Séries da Netflix
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2009-08-17'
+tags:
+- draft
 title: What I've been doing in the last 10 years
 ---
 

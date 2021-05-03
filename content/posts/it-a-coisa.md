@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-12-07'
 link: https://www.imdb.com/title/tt1396484
+tags:
+- draft
 title: 'It: A Coisa'
 ---
 

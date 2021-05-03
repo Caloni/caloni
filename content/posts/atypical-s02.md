@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2018-11-17'
 link: https://www.imdb.com/title/tt6315640
+tags:
+- draft
 title: Atypical - Segunda Temporada
 ---
 

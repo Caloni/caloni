@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - blog
 date: '2015-01-21'
 tags:
 - ccppbr
+- draft
 title: RIP, Alberto
 ---
 

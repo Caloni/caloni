@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2016-10-23'
 link: https://www.imdb.com/title/tt3958276
+tags:
+- draft
 title: 'Midnight Diner: Tokyo Stories'
 ---
 

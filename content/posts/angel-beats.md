@@ -1,10 +1,11 @@
 ---
 categories:
-- draft
 - series
 - animes
 date: '2016-11-04'
 link: https://www.imdb.com/title/tt1639109
+tags:
+- draft
 title: Angel Beats!
 ---
 

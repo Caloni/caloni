@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-08-04'
 link: https://www.imdb.com/title/tt3082854
 tags:
 - cinemaqui
+- draft
 title: A Comunidade
 ---
 

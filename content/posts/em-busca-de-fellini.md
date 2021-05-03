@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-11-23'
 link: https://www.imdb.com/title/tt4801232
 tags:
 - cinemaqui
+- draft
 title: Em Busca de Fellini
 ---
 

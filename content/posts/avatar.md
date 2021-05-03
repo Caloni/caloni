@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-03-07'
 link: https://www.imdb.com/title/tt0499549
+tags:
+- draft
 title: Avatar
 ---
 

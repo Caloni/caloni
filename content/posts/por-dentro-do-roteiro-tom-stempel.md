@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - books
 date: '2018-07-15'
+tags:
+- draft
 title: Por Dentro do Roteiro
 ---
 

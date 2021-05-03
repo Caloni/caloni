@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-09-28'
 tags:
 - cinemaqui
+- draft
 title: 'Frans Krajcberg: Manifesto'
 ---
 

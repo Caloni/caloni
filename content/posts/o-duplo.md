@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-03-26'
 link: https://www.imdb.com/title/tt1825157
+tags:
+- draft
 title: O Duplo
 ---
 

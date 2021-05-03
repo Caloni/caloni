@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2019-01-06'
+tags:
+- draft
 title: 'Minecraft: O Jogo'
 ---
 

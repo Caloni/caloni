@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2009-07-07'
+tags:
+- draft
 title: Strings
 ---
 

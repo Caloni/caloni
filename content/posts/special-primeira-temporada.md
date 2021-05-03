@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2019-04-26'
 link: https://www.imdb.com/title/tt9381622
+tags:
+- draft
 title: Special Primeira Temporada
 ---
 

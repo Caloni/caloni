@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-06-24'
 link: https://www.imdb.com/title/tt4263482
+tags:
+- draft
 title: A Bruxa
 ---
 

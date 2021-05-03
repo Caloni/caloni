@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - series
 date: '2016-11-18'
+tags:
+- draft
 title: Quando a realidade encontra South Park
 ---
 

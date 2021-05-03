@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-03-17'
 link: https://www.imdb.com/title/tt0808399
+tags:
+- draft
 title: Nova York, Eu Te Amo
 ---
 

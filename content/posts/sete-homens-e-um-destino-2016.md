@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-10-12'
 link: https://www.imdb.com/title/tt2404435
+tags:
+- draft
 title: Sete Homens e um Destino
 ---
 

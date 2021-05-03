@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2012-09-27'
+tags:
+- draft
 title: eXtreme Go Horse
 ---
 

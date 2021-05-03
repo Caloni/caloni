@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - reading
 date: '2019-09-16'
+tags:
+- draft
 title: Leituras
 ---
 

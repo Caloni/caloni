@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2019-05-20'
+tags:
+- draft
 title: Dixit (Jogo)
 ---
 

@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2015-07-28'
+tags:
+- draft
 title: Hype da Cultura Nerd em Sesc Santos
 ---
 

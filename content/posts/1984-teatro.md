@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2018-10-26'
+tags:
+- draft
 title: '1984: A Peça'
 ---
 

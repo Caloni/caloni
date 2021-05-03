@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-03-19'
 link: https://www.imdb.com/title/tt2217859
 tags:
 - cinemaqui
+- draft
 title: Mais Forte Que Bombas
 ---
 

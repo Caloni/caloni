@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2008-07-10'
+tags:
+- draft
 title: Primeiros passos no VMware Workstation
 ---
 

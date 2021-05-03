@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2008-08-05'
+tags:
+- draft
 title: Antidebugging during the process attach
 ---
 

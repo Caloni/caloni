@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2008-06-13'
+tags:
+- draft
 title: Primeiro ano do novo Caloni.com.br
 ---
 

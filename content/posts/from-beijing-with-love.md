@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-08-12'
 link: https://www.imdb.com/title/tt0109962
+tags:
+- draft
 title: From Beijing with Love
 ---
 

@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - food
 date: '2019-12-26'
 tags:
 - recipes
+- draft
 title: Pão mais Fácil do Mundo
 ---
 

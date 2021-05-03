@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-03-07'
 link: https://www.imdb.com/title/tt0272338
+tags:
+- draft
 title: Embriagado de Amor
 ---
 

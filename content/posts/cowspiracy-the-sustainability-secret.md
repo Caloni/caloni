@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2015-12-17'
 link: https://www.imdb.com/title/tt3302820
+tags:
+- draft
 title: 'Cowspiracy: The Sustainability Secret'
 ---
 

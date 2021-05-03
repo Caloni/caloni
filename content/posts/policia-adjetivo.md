@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2021-03-07'
 link: https://www.imdb.com/title/tt1337051
+tags:
+- draft
 title: Polícia, Adjetivo
 ---
 

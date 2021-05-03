@@ -1,9 +1,10 @@
 ---
 categories:
 - code
-- draft
 - english
 date: '2010-04-10'
+tags:
+- draft
 title: Using TodoList and Microsoft Project together
 ---
 

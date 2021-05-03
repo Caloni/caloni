@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-10-23'
 link: https://www.imdb.com/title/tt7220696
 tags:
 - cinemaqui
+- draft
 title: Rir ou Morrer
 ---
 

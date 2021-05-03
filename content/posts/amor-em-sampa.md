@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-02-22'
 link: https://www.imdb.com/title/tt3411572
 tags:
 - cinemaqui
+- draft
 title: Amor em Sampa
 ---
 

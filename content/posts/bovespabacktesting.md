@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2014-01-08'
+tags:
+- draft
 title: BovespaBacktesting
 ---
 

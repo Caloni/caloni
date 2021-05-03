@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2016-11-29'
+tags:
+- draft
 title: Quantos handles sua aplicação está abrindo?
 ---
 

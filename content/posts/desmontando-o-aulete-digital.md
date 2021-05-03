@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2014-05-27'
+tags:
+- draft
 title: Desmontando o Aulete Digital
 ---
 

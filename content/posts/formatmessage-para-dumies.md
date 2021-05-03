@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2010-10-26'
+tags:
+- draft
 title: FormatMessage para... dumies?
 ---
 

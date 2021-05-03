@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2014-09-25'
 link: https://www.imdb.com/title/tt2395695
+tags:
+- draft
 title: 'Cosmos: Uma Odisséia do Espaço-Tempo'
 ---
 

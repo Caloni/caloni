@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2017-02-20'
+tags:
+- draft
 title: Visualizando QString no Visual Studio
 ---
 

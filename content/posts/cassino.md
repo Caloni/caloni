@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-02-10'
 link: https://www.imdb.com/title/tt0112641
+tags:
+- draft
 title: Cassino
 ---
 

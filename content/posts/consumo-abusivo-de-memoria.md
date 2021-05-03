@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2012-05-19'
+tags:
+- draft
 title: Consumo abusivo de memória
 ---
 

@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2018-07-01'
+tags:
+- draft
 title: Argentina vs França e o Fim da Geração dos Autistas
 ---
 

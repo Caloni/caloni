@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2009-03-19'
+tags:
+- draft
 title: Provas de conceito... yes!
 ---
 

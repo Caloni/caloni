@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-11-17'
 link: https://www.imdb.com/title/tt3164256
+tags:
+- draft
 title: Rock em Cabul
 ---
 

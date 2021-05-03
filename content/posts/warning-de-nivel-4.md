@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2017-01-17'
+tags:
+- draft
 title: Warning de nível 4
 ---
 

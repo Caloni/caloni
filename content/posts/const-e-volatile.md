@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2010-06-04'
+tags:
+- draft
 title: Const e Volatile
 ---
 

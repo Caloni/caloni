@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-08-25'
 link: https://www.imdb.com/title/tt0303408
+tags:
+- draft
 title: O Invasor
 ---
 

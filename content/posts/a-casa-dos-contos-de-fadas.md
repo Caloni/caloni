@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-01-30'
 link: https://www.imdb.com/title/tt1429430
+tags:
+- draft
 title: A Casa dos Contos de Fadas
 ---
 

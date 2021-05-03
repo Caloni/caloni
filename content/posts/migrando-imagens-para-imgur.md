@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: 2017-07-28 18:28:07-03:00
+tags:
+- draft
 title: Migrando Imagens Para Imgur
 ---
 

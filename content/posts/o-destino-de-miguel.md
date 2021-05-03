@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2016-09-11'
+tags:
+- draft
 title: O Destino de Miguel
 ---
 

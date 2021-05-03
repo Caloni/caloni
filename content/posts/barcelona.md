@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-05-18'
 link: https://www.imdb.com/title/tt0109219
+tags:
+- draft
 title: Barcelona
 ---
 

@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - blog
 date: '2012-03-11'
 tags:
 - ccppbr
+- draft
 title: Conteúdo da Palestra
 ---
 

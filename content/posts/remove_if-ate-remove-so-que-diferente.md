@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2014-01-21'
+tags:
+- draft
 title: remove_if até remove, só que diferente
 ---
 

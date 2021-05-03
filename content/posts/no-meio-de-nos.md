@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-04-18'
 tags:
 - cinemaqui
+- draft
 title: No Meio de Nós
 ---
 

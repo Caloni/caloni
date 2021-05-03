@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-10-22'
 link: https://www.imdb.com/title/tt4677578
+tags:
+- draft
 title: A Leoa
 ---
 

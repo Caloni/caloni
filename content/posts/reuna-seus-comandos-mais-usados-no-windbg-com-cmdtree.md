@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2008-09-19'
+tags:
+- draft
 title: Reúna seus comandos mais usados no WinDbg com .cmdtree
 ---
 

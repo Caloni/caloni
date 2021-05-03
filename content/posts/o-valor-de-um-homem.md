@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-05-20'
 link: https://www.imdb.com/title/tt4428814
 tags:
 - cinemaqui
+- draft
 title: O Valor de um Homem
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2016-09-05'
+tags:
+- draft
 title: unit-menos-menos
 ---
 

@@ -1,8 +1,9 @@
 ---
 author: Wanderley Caloni
-categories:
-- draft
+categories: []
 date: '2017-05-28'
+tags:
+- draft
 title: Física Quântica para Filósofos
 ---
 

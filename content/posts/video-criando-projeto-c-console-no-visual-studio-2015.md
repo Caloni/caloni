@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2016-08-04'
+tags:
+- draft
 title: 'Vídeo: Criando Projeto C++ Console no Visual Studio 2015'
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2010-08-12'
+tags:
+- draft
 title: Foto dos melhores momentos
 ---
 

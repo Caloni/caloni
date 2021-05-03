@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-11-16'
 link: https://www.imdb.com/title/tt0181852
 tags:
 - cinemaqui
+- draft
 title: 'O Exterminador do Futuro 3: A Rebelião Das Máquinas'
 ---
 

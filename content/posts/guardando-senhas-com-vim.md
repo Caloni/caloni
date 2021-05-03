@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2016-10-05'
+tags:
+- draft
 title: Guardando senhas com Vim
 ---
 

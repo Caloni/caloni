@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2015-06-22'
+tags:
+- draft
 title: Escolha de palestras para o TDC 2015 Sampa
 ---
 

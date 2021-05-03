@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2008-07-24'
+tags:
+- draft
 title: Entrevista com o Caloni no 'Do ZERO ao MESTRE'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - code
 date: 2018-09-18
 desc: Visual Studio, Boost.Coroutine, debug/depuração, crash analysis.
+tags:
+- draft
 title: Coroutine Internals
 ---
 

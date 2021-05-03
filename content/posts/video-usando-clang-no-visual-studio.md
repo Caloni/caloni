@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2016-12-27'
+tags:
+- draft
 title: 'Vídeo: Usando clang no Visual Studio'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2019-04-27'
 link: https://www.imdb.com/title/tt10050772
+tags:
+- draft
 title: I Think You Should Leave With Tim Robinson
 ---
 

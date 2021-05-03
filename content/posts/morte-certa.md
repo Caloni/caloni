@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2020-10-18'
 link: https://www.imdb.com/title/tt0203536
+tags:
+- draft
 title: Morte Certa
 ---
 

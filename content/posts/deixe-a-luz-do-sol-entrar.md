@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-03-24'
 link: https://www.imdb.com/title/tt6423776
 tags:
 - cinemaqui
+- draft
 title: Deixe a Luz Do Sol Entrar
 ---
 

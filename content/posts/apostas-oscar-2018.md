@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2018-03-05'
+tags:
+- draft
 title: Apostas Oscar 2018 (com resultados)
 ---
 

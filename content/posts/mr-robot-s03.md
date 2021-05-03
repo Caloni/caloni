@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2018-02-27'
 link: https://www.imdb.com/title/tt4158110
+tags:
+- draft
 title: 'Mr Robot: Terceira Temporada'
 ---
 

@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2018-03-07'
+tags:
+- draft
 title: 'PHP Experience 2018 Dia 2: Críticas'
 ---
 

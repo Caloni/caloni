@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2014-05-06'
+tags:
+- draft
 title: Poker Face
 ---
 

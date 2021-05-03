@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2016-01-14'
+tags:
+- draft
 title: Templates em C no lugar de macros
 ---
 

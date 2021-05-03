@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2015-10-21'
+tags:
+- draft
 title: Fundamentos
 ---
 

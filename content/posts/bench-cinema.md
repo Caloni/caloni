@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-10-26'
 link: https://www.imdb.com/title/tt5821276
+tags:
+- draft
 title: Bench Cinema
 ---
 

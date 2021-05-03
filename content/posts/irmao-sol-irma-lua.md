@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-01-28'
 link: https://www.imdb.com/title/tt0069824
+tags:
+- draft
 title: Irmão Sol, Irmã Lua
 ---
 

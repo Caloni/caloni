@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2021-01-02'
+tags:
+- draft
 title: Resoluções 2021
 ---
 

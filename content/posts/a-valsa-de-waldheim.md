@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-10-21'
 link: https://www.imdb.com/title/tt8055880
 tags:
 - cinemaqui
+- draft
 title: A Valsa de Waldheim
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2011-01-04'
+tags:
+- draft
 title: Dependência pedindo carona
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2010-04-20'
+tags:
+- draft
 title: Typedef arcaico
 ---
 

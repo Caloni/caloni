@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-05-06'
 link: https://www.imdb.com/title/tt8301540
 tags:
 - cinemaqui
+- draft
 title: Dias Vazios
 ---
 

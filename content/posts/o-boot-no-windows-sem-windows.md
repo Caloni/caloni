@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2009-08-18'
+tags:
+- draft
 title: 'O boot no Windows: sem Windows'
 ---
 

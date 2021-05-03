@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-11-17'
 link: https://www.imdb.com/title/tt3531824
+tags:
+- draft
 title: 'Nerve: Um Jogo Sem Regras'
 ---
 

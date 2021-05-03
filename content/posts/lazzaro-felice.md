@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-12-18'
 link: https://www.imdb.com/title/tt6752992
+tags:
+- draft
 title: Lazzaro Felice
 ---
 

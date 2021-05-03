@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-12-12'
 link: https://www.imdb.com/title/tt6857112
+tags:
+- draft
 title: Nós
 ---
 

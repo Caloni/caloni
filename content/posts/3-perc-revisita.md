@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2017-01-01'
 link: https://www.imdb.com/title/tt4922804
+tags:
+- draft
 title: '3%: spoilers sobre uma série para bandidos'
 ---
 

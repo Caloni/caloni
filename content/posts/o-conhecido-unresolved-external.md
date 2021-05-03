@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2008-07-18'
+tags:
+- draft
 title: O conhecido unresolved external
 ---
 

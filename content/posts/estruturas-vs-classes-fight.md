@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2014-05-20'
+tags:
+- draft
 title: 'Estruturas VS Classes: fight!'
 ---
 

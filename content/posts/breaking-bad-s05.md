@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
-- draft
 - series
 date: '2016-07-16'
 link: https://www.imdb.com/title/tt0903747
+tags:
+- draft
 title: Breaking Bad - Quinta Temporada
 ---
 

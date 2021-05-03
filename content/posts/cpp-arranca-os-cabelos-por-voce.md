@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: 2017-09-26 10:21:02-03:00
+tags:
+- draft
 title: C++ Moderno Arranca os Cabelos por Você (std::move e classes simples).
 ---
 

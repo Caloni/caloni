@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2016-04-16'
+tags:
+- draft
 title: Rank and File (Code Jam)
 ---
 

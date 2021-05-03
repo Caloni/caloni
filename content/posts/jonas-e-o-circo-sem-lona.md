@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-03-08'
 tags:
 - cinemaqui
+- draft
 title: Jonas e o Circo sem Lona
 ---
 

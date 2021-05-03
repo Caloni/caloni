@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2015-01-11'
+tags:
+- draft
 title: Por que o Visual Studio gera executáveis mutantes
 ---
 

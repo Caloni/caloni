@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-11-04'
 link: https://www.imdb.com/title/tt0367882
+tags:
+- draft
 title: Indiana Jones e o Reino da Caveira de Cristal
 ---
 

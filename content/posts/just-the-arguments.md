@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - reading
 date: '2018-02-27'
+tags:
+- draft
 title: Just the Arguments
 ---
 

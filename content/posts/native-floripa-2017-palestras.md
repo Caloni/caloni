@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2017-02-09'
+tags:
+- draft
 title: 'Native Floripa 2017: Palestras'
 ---
 

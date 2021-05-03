@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-09-02'
 link: https://www.imdb.com/title/tt0290823
+tags:
+- draft
 title: O Voto é Secreto
 ---
 

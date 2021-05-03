@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2016-06-04'
+tags:
+- draft
 title: 'Palestra: Stack Overflow'
 ---
 

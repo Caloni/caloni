@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-11-26'
 link: https://www.imdb.com/title/tt8998738
+tags:
+- draft
 title: Seguindo o Coração
 ---
 

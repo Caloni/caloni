@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2021-03-27'
 link: https://www.imdb.com/title/tt0238924
+tags:
+- draft
 title: Meninos de Deus
 ---
 

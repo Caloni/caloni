@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2015-12-06'
 link: https://www.imdb.com/title/tt0497116
+tags:
+- draft
 title: Uma Verdade Inconveniente
 ---
 

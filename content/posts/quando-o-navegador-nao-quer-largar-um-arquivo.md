@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2008-08-13'
+tags:
+- draft
 title: Quando o navegador não quer largar um arquivo
 ---
 

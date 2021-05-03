@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2010-02-01'
+tags:
+- draft
 title: Correção de bugs instantânea
 ---
 

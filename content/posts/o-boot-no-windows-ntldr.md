@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2009-11-26'
+tags:
+- draft
 title: 'O boot no Windows: NTLDR'
 ---
 

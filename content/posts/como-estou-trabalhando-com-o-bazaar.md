@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2008-06-24'
+tags:
+- draft
 title: Como estou trabalhando com o Bazaar
 ---
 

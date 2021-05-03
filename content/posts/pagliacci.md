@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-04-13'
 tags:
 - cinemaqui
+- draft
 title: Pagliacci
 ---
 

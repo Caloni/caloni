@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2009-06-18'
+tags:
+- draft
 title: Bugs Difíceis de Achar
 ---
 

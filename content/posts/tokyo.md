@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-06-11'
 link: https://www.imdb.com/title/tt0976060
+tags:
+- draft
 title: Tokyo!
 ---
 

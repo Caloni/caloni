@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-11-02'
+tags:
+- draft
 title: Então Morri
 ---
 

@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-01-18'
 link: https://www.imdb.com/title/tt6018306
 tags:
 - cinemaqui
+- draft
 title: A Melhor Escolha
 ---
 

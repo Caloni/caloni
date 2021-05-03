@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2016-08-12'
+tags:
+- draft
 title: 'Vídeo: Depurando código C++ no Visual Studio'
 ---
 

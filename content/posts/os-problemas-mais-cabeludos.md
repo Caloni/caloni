@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2009-03-05'
+tags:
+- draft
 title: Os problemas mais cabeludos
 ---
 

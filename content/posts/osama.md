@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-12-02'
 link: https://www.imdb.com/title/tt0368913
+tags:
+- draft
 title: Osama
 ---
 

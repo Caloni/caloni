@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2008-05-21'
+tags:
+- draft
 title: 'MouseTool: clique automático do seu rato'
 ---
 

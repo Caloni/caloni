@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2019-07-20'
+tags:
+- draft
 title: Anti-Spoilers e o Escudo Pró-Hype
 ---
 

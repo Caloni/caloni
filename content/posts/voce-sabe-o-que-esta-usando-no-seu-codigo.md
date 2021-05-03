@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2015-07-28'
+tags:
+- draft
 title: Você sabe o que está usando no seu código?
 ---
 

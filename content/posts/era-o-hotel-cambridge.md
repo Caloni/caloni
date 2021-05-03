@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-03-10'
 link: https://www.imdb.com/title/tt5067984
 tags:
 - cinemaqui
+- draft
 title: Era O Hotel Cambridge
 ---
 

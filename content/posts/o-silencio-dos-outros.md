@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-02-22'
 link: https://www.imdb.com/title/tt8099236
 tags:
 - cinemaqui
+- draft
 title: O Silêncio dos Outros
 ---
 

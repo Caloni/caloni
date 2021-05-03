@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-12-11'
 link: https://www.imdb.com/title/tt0058331
+tags:
+- draft
 title: Mary Poppins
 ---
 

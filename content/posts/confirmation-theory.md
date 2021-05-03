@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - reading
 date: '2017-06-27'
+tags:
+- draft
 title: 'Confirmation Theory: Hume''s Refutation of Induction'
 ---
 

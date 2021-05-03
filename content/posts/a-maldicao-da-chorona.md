@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-12-21'
 link: https://www.imdb.com/title/tt4913966
+tags:
+- draft
 title: A Maldição da Chorona
 ---
 

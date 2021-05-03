@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-04-02'
 link: https://www.imdb.com/title/tt7177156
 tags:
 - cinemaqui
+- draft
 title: Uma Temporada na França
 ---
 

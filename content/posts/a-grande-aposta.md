@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-11-26'
 link: https://www.imdb.com/title/tt1596363
+tags:
+- draft
 title: A Grande Aposta
 ---
 

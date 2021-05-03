@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-04-29'
 link: https://www.imdb.com/title/tt5687040
 tags:
 - cinemaqui
+- draft
 title: Os Fantasmas de Ismael
 ---
 

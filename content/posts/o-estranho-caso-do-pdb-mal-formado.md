@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2015-08-19'
+tags:
+- draft
 title: O Estranho Caso do PDB Mal-Aformado
 ---
 

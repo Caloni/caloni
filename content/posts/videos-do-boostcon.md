@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2011-06-10'
+tags:
+- draft
 title: Vídeos do boostcon
 ---
 

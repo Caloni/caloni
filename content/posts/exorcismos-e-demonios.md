@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-03-27'
 link: https://www.imdb.com/title/tt4181782
 tags:
 - cinemaqui
+- draft
 title: Exorcismos e Demônios
 ---
 

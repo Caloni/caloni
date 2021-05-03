@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-07-20'
 tags:
 - cinemaqui
+- draft
 title: Hilda Hilst Pede Contato
 ---
 

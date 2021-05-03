@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-02-02'
 link: https://www.imdb.com/title/tt0093940
+tags:
+- draft
 title: Setembro
 ---
 

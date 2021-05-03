@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - reading
 date: '2019-05-09'
+tags:
+- draft
 title: Deep Work => Flow
 ---
 

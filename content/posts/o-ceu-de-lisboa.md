@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2021-03-27'
 link: https://www.imdb.com/title/tt0110361
+tags:
+- draft
 title: O Céu de Lisboa
 ---
 

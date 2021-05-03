@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - series
 date: '2017-08-25'
+tags:
+- draft
 title: Chef & My Fridge
 ---
 

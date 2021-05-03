@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-07-11'
 link: https://www.imdb.com/title/tt7175992
 tags:
 - cinemaqui
+- draft
 title: O Professor Substituto
 ---
 

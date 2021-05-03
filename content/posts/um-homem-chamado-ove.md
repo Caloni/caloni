@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-02-04'
 link: https://www.imdb.com/title/tt4080728
 tags:
 - cinemaqui
+- draft
 title: Um Homem Chamado Ove
 ---
 

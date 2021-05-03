@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-10-26'
 link: https://www.imdb.com/title/tt10384744
 tags:
 - cinemaqui
+- draft
 title: A Odisseia dos Tontos
 ---
 

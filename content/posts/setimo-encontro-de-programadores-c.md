@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2010-07-26'
+tags:
+- draft
 title: Sétimo Encontro de Programadores C++
 ---
 

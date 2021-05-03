@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2018-07-04'
+tags:
+- draft
 title: Salta, 2018
 ---
 

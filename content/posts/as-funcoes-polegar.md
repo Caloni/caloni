@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2009-01-30'
+tags:
+- draft
 title: As funções-polegar
 ---
 

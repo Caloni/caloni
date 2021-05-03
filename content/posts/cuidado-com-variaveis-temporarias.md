@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2011-07-26'
+tags:
+- draft
 title: Cuidado com variáveis temporárias
 ---
 

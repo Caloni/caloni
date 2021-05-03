@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2016-01-21'
+tags:
+- draft
 title: Log de chamadas API direto do WinDbg
 ---
 

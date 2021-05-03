@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-09-09'
 link: https://www.imdb.com/title/tt0106677
+tags:
+- draft
 title: Jovens, Loucos e Rebeldes
 ---
 

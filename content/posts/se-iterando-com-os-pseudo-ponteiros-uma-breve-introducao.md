@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2014-06-24'
+tags:
+- draft
 title: 'Se iterando com os pseudo-ponteiros: uma breve introdução'
 ---
 

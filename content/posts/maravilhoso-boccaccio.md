@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-04-27'
 link: https://www.imdb.com/title/tt3596952
 tags:
 - cinemaqui
+- draft
 title: Maravilhoso Boccaccio
 ---
 

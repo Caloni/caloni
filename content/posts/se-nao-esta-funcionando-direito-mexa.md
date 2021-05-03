@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2016-08-17'
+tags:
+- draft
 title: Se não está funcionando direito, mexa!
 ---
 

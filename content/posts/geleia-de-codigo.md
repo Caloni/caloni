@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2014-04-15'
+tags:
+- draft
 title: Geleia de Código
 ---
 

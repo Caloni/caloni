@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-07-02'
 link: https://www.imdb.com/title/tt8058904
 tags:
 - cinemaqui
+- draft
 title: Jornada da Vida
 ---
 

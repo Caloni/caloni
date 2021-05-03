@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2013-10-02'
+tags:
+- draft
 title: Mais um CPP MVP
 ---
 

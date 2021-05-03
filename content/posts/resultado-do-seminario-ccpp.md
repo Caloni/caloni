@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2008-06-03'
+tags:
+- draft
 title: Resultado do Seminário CCPP
 ---
 

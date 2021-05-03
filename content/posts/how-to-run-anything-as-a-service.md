@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2008-05-27'
+tags:
+- draft
 title: How to run anything as a service
 ---
 

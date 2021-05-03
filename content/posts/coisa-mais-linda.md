@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2019-04-15'
 link: https://www.imdb.com/title/tt8001788
+tags:
+- draft
 title: Coisa Mais Linda
 ---
 

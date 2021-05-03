@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - blog
 date: '2015-04-04'
 tags:
 - ccppbr
+- draft
 title: Os melhores eventos são de programadores CCPP
 ---
 

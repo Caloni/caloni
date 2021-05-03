@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-10-25'
 link: https://www.imdb.com/title/tt3501632
 tags:
 - cinemaqui
+- draft
 title: Thor Ragnarök
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2008-08-20'
+tags:
+- draft
 title: Os processos-fantasma
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2019-03-09'
+tags:
+- draft
 title: Free Pascal e VS Code
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - lists
 date: '2016-09-11'
+tags:
+- draft
 title: Os 10 melhores filmes dos anos 90... 1890!
 ---
 

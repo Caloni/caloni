@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2019-11-16'
+tags:
+- draft
 title: Por que esses Coringa e Pantera se tornaram fenômenos de bilheteria?
 ---
 

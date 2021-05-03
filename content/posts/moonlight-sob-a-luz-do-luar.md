@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-01-12'
 link: https://www.imdb.com/title/tt4975722
 tags:
 - cinemaqui
+- draft
 title: 'Moonlight: Sob a Luz do Luar'
 ---
 

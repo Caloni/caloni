@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-09-23'
 link: https://www.imdb.com/title/tt5581284
 tags:
 - cinemaqui
+- draft
 title: O Menino que Fazia Rir
 ---
 

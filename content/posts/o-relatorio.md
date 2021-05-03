@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-10-23'
 link: https://www.imdb.com/title/tt8236336
 tags:
 - cinemaqui
+- draft
 title: O Relatório
 ---
 

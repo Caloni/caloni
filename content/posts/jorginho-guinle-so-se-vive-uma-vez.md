@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-03-18'
 tags:
 - cinemaqui
+- draft
 title: Jorginho Guinle - $o se Vive Uma Vez
 ---
 

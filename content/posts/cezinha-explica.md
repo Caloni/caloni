@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2016-05-31'
+tags:
+- draft
 title: Cezinha Explica
 ---
 

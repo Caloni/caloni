@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-09-27'
 link: https://www.imdb.com/title/tt5390504
 tags:
 - cinemaqui
+- draft
 title: Detroit em Rebelião
 ---
 

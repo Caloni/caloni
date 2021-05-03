@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-06-26'
 link: https://www.imdb.com/title/tt2170299
+tags:
+- draft
 title: Palavrões
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-04-18'
 link: https://www.imdb.com/title/tt4630562
+tags:
+- draft
 title: Velozes e Furiosos 8
 ---
 

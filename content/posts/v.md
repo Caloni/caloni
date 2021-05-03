@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - blog
 date: '2008-09-23'
 tags:
 - ccppbr
+- draft
 title: V
 ---
 

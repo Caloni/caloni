@@ -1,10 +1,11 @@
 ---
 categories:
-- draft
 - blog
 date: 2018-10-01 16:34:25-03:00
 desc: Um pequeno desabafo quando encontramos aqueles erros odiáveis de compilação
   da Boost (em um exemplo simples).
+tags:
+- draft
 title: Boost.Bind e os Erros Escrotos
 ---
 

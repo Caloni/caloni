@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - reading
 date: '2019-06-17'
+tags:
+- draft
 title: Film Theory and Criticism
 ---
 

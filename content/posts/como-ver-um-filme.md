@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - books
 date: '2016-05-14'
+tags:
+- draft
 title: 'Livro: Como Ver Um Filme'
 ---
 

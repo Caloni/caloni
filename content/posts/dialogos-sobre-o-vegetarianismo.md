@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - reading
 date: '2019-02-03'
+tags:
+- draft
 title: Diálogos Sobre o Vegetarianismo
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - reading
 date: '2018-08-26'
+tags:
+- draft
 title: 'George Orwell: Politics and the English Language'
 ---
 

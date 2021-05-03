@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2015-12-12'
 link: https://www.imdb.com/title/tt0058182
+tags:
+- draft
 title: Os Reis do Ié-Ié-Ié
 ---
 

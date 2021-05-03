@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2014-09-03'
+tags:
+- draft
 title: Shareando Ponteiros
 ---
 

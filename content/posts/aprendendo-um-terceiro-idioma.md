@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2009-12-11'
+tags:
+- draft
 title: Aprendendo um terceiro idioma
 ---
 

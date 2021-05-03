@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - food
 date: '2021-03-14'
 tags:
 - coffee
+- draft
 title: Como Fazer Café
 ---
 

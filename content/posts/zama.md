@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-03-26'
 link: https://www.imdb.com/title/tt3409848
 tags:
 - cinemaqui
+- draft
 title: Zama
 ---
 

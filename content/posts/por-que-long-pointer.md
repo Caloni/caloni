@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2010-04-21'
+tags:
+- draft
 title: Por que Long Pointer
 ---
 

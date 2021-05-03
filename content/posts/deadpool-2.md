@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-05-19'
 link: https://www.imdb.com/title/tt5463162
+tags:
+- draft
 title: Deadpool 2
 ---
 

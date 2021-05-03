@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2008-08-01'
+tags:
+- draft
 title: Antidebugging using the DebugPort
 ---
 

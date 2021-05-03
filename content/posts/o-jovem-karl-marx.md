@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-10-21'
 link: https://www.imdb.com/title/tt1699518
 tags:
 - cinemaqui
+- draft
 title: O Jovem Karl Marx
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - reading
 date: '2017-03-14'
+tags:
+- draft
 title: 'Mastery: The Keys to Success and Long-Term Fulfillment'
 ---
 

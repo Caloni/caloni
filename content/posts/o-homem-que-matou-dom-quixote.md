@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-10-26'
 link: https://www.imdb.com/title/tt1318517
 tags:
 - cinemaqui
+- draft
 title: O Homem Que Matou Dom Quixote
 ---
 

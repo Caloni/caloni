@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2017-03-21'
+tags:
+- draft
 title: 'NativeFloripa 2017: Impressões'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2015-12-30'
 link: https://www.imdb.com/title/tt0317248
+tags:
+- draft
 title: Cidade de Deus
 ---
 

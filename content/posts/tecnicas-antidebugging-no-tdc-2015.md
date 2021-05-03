@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2015-07-27'
+tags:
+- draft
 title: Técnicas antidebugging no TDC 2015
 ---
 

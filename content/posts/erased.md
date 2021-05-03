@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2017-12-27'
 link: https://www.imdb.com/title/tt7573686
+tags:
+- draft
 title: 'Erased: Piloto'
 ---
 

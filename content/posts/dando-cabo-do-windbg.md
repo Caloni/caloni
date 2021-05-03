@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2014-06-18'
+tags:
+- draft
 title: Dando cabo do WinDbg
 ---
 

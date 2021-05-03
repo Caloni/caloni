@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-08-23'
 link: https://www.imdb.com/title/tt9351980
 tags:
 - cinemaqui
+- draft
 title: Indústria Americana
 ---
 

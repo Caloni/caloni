@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-12-11'
 link: https://www.imdb.com/title/tt6412452
+tags:
+- draft
 title: The Ballad of Buster Scruggs
 ---
 

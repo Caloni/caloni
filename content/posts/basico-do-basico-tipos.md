@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2008-12-12'
+tags:
+- draft
 title: 'Básico do básico: tipos'
 ---
 

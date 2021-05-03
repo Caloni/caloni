@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: 2017-07-27 09:39:22-03:00
+tags:
+- draft
 title: Forma Mais Simples De Depurar Processos Antes Do Logon
 ---
 

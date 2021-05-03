@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2012-07-21'
+tags:
+- draft
 title: Minha palestra do TDC 2012
 ---
 

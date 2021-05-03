@@ -1,9 +1,9 @@
 ---
 categories:
-- draft
 - code
-- draft
 date: '2019-07-21'
+tags:
+- draft
 title: SLQLocalDB
 ---
 

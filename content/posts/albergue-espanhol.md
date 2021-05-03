@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-05-28'
 link: https://www.imdb.com/title/tt0283900
+tags:
+- draft
 title: Albergue Espanhol
 ---
 

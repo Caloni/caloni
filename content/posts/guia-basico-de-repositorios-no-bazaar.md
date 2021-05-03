@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2008-06-10'
+tags:
+- draft
 title: Guia básico de repositórios no Bazaar
 ---
 

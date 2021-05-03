@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - blog
 date: 2018-09-28 19:43:04-03:00
 desc: Evento de programação 'baixo nível' realizado em Florianópolis - Segunda Edição.
+tags:
+- draft
 title: Native Floripa 2018
 ---
 

@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-08-27'
 link: https://www.imdb.com/title/tt7467324
 tags:
 - cinemaqui
+- draft
 title: Ferrugem
 ---
 

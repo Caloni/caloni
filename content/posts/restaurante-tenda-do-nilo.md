@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2019-08-19'
+tags:
+- draft
 title: Restaurante Tenda Do Nilo
 ---
 

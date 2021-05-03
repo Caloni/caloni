@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2014-08-01'
+tags:
+- draft
 title: O novo 'como não dar step into' do Visual Studio 2012/13
 ---
 

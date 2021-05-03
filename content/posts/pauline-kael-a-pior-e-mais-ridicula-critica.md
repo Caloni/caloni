@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2018-05-07'
+tags:
+- draft
 title: A Pior e Mais Ridícula Crítica de Todos os Tempos
 ---
 

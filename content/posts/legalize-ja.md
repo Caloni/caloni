@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-09-28'
 link: https://www.imdb.com/title/tt5818404
 tags:
 - cinemaqui
+- draft
 title: Legalize Já! Amizade Nunca Morre
 ---
 

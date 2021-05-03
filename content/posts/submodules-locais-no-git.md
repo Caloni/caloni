@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2017-05-28'
+tags:
+- draft
 title: Como acessar submódulos no git inacessíveis?
 ---
 

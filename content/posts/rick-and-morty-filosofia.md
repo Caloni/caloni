@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2017-10-21'
 link: https://www.imdb.com/title/tt2861424
+tags:
+- draft
 title: 'A Filosofia de Rick And Morty: Primeira Temporada (anotações)'
 ---
 

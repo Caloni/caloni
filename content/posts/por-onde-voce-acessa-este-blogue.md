@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2017-02-01'
+tags:
+- draft
 title: Por onde você acessa este blogue?
 ---
 

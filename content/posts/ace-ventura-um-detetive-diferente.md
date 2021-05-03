@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-05-29'
 link: https://www.imdb.com/title/tt0109040
+tags:
+- draft
 title: Ace Ventura - Um Detetive Diferente
 ---
 

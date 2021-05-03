@@ -1,10 +1,11 @@
 ---
 categories:
-- draft
 - series
 - animes
 date: '2018-05-20'
 link: https://www.imdb.com/title/tt7131720
+tags:
+- draft
 title: Kakegurui
 ---
 

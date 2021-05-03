@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-08-13'
 link: https://www.imdb.com/title/tt6704880
 tags:
 - cinemaqui
+- draft
 title: Filhas do Sol
 ---
 

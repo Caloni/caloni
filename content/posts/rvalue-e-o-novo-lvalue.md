@@ -1,11 +1,11 @@
 ---
 categories:
 - code
-- draft
 - blog
 date: '2012-01-11'
 tags:
 - ccppbr
+- draft
 title: RValue é o novo LValue
 ---
 

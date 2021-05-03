@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2008-05-29'
+tags:
+- draft
 title: Como criar uma LIB no Visual Studio
 ---
 

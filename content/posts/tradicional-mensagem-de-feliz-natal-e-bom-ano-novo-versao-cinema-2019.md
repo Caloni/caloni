@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2019-12-21'
+tags:
+- draft
 title: Tradicional Mensagem de Feliz Natal e Bom 2020 Versão Cinema
 ---
 

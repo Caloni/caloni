@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-07-31'
 link: https://www.imdb.com/title/tt2463288
+tags:
+- draft
 title: A Minha Casa Caiu
 ---
 

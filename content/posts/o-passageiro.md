@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-02-17'
 link: https://www.imdb.com/title/tt1590193
 tags:
 - cinemaqui
+- draft
 title: O Passageiro
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2010-12-27'
+tags:
+- draft
 title: Trabalhando em múltiplos ambientes
 ---
 

@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2008-08-15'
+tags:
+- draft
 title: Duas pequenas dicas para programar no caos
 ---
 

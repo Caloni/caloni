@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2011-10-18'
+tags:
+- draft
 title: 'Depuração de emergência: receita de bolo'
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2008-07-22'
+tags:
+- draft
 title: Aprenda a usar sua API
 ---
 

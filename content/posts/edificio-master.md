@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-05-06'
 link: https://www.imdb.com/title/tt0333388
+tags:
+- draft
 title: Edifício Master
 ---
 

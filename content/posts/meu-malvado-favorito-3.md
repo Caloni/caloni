@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-11-23'
 link: https://www.imdb.com/title/tt3469046
+tags:
+- draft
 title: Meu Malvado Favorito 3
 ---
 

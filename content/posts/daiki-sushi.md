@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2019-09-29'
+tags:
+- draft
 title: Restaurante Daiki Sushi
 ---
 

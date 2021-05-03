@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-08-14'
 link: https://www.imdb.com/title/tt4682788
 tags:
 - cinemaqui
+- draft
 title: Escobar - A Traição
 ---
 

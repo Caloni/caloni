@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - books
 date: '2017-05-28'
+tags:
+- draft
 title: Os Axiomas de Zurique
 ---
 

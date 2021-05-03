@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2012-03-27'
+tags:
+- draft
 title: Header Inútil
 ---
 

@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2008-09-07'
+tags:
+- draft
 title: De volta à tona
 ---
 

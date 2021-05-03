@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-09-11'
 link: https://www.imdb.com/title/tt2709768
+tags:
+- draft
 title: 'Pets: A Vida Secreta dos Bichos'
 ---
 

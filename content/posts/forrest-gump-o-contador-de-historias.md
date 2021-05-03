@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-01-12'
 link: https://www.imdb.com/title/tt0109830
+tags:
+- draft
 title: 'Forrest Gump: o Contador De Histórias'
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2016-09-01'
+tags:
+- draft
 title: 'Vídeo: Resolvendo problemas em projetos desleixados'
 ---
 

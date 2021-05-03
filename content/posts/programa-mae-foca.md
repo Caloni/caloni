@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2016-08-30'
+tags:
+- draft
 title: Programa, Mãe Foca!
 ---
 

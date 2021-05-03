@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2010-11-08'
+tags:
+- draft
 title: Patch de emergência
 ---
 

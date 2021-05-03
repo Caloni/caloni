@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2010-08-16'
+tags:
+- draft
 title: Evento C++
 ---
 

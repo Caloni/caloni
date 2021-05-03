@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2008-06-04'
+tags:
+- draft
 title: Launchpad e a democracia do código-fonte
 ---
 

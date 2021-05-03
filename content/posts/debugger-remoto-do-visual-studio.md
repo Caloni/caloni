@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2017-06-13'
+tags:
+- draft
 title: Debugger remoto do Visual Studio
 ---
 

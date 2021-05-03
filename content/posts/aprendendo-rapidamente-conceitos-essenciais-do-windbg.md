@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2008-05-23'
+tags:
+- draft
 title: Aprendendo rapidamente conceitos essenciais do WinDbg
 ---
 

@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2016-01-28'
+tags:
+- draft
 title: Não Atualize seu Sistema
 ---
 

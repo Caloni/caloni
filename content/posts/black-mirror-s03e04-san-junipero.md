@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2016-10-28'
 link: https://www.imdb.com/title/tt4538072
+tags:
+- draft
 title: Black Mirror - S03E04 - San Junipero
 ---
 

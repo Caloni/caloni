@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2014-04-08'
+tags:
+- draft
 title: 'Lambda: o Retorno!'
 ---
 

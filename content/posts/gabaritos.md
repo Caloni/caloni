@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2016-01-13'
+tags:
+- draft
 title: Gabaritos
 ---
 

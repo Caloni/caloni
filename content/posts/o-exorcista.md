@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-01-18'
 link: https://www.imdb.com/title/tt0070047
+tags:
+- draft
 title: O Exorcista
 ---
 

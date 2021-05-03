@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-08-01'
 link: https://www.imdb.com/title/tt0475290
+tags:
+- draft
 title: Ave, César!
 ---
 

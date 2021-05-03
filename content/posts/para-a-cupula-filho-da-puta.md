@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2017-08-25'
+tags:
+- draft
 title: Para a Cúpula Filho Da Puta
 ---
 

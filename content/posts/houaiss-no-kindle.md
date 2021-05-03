@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2011-03-22'
+tags:
+- draft
 title: Houaiss no Kindle
 ---
 

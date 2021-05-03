@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2009-05-08'
+tags:
+- draft
 title: Últimas pesquisas na blogosfera nacional
 ---
 

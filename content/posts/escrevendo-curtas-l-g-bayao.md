@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - books
 date: '2018-07-16'
+tags:
+- draft
 title: Escrevendo Curtas
 ---
 

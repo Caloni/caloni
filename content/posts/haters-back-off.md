@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2016-12-04'
 link: https://www.imdb.com/title/tt5467814
+tags:
+- draft
 title: Haters Back Off!
 ---
 

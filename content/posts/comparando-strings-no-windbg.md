@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2011-05-22'
+tags:
+- draft
 title: Comparando strings no WinDbg
 ---
 

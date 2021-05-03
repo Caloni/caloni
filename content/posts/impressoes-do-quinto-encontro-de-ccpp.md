@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - blog
 date: '2008-10-07'
 tags:
 - ccppbr
+- draft
 title: Impressões do quinto encontro de CCPP
 ---
 

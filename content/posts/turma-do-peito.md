@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2018-05-29'
 link: https://www.imdb.com/title/tt7320300
+tags:
+- draft
 title: Turma do Peito
 ---
 

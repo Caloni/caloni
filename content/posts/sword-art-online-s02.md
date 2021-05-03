@@ -1,10 +1,11 @@
 ---
 categories:
-- draft
 - series
 - animes
 date: '2014-04-16'
 link: https://www.imdb.com/title/tt2250192
+tags:
+- draft
 title: Sword Art Online - Segunda Temporada
 ---
 

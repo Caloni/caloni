@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2012-04-17'
+tags:
+- draft
 title: Engenharia Reversa em Itajubá
 ---
 

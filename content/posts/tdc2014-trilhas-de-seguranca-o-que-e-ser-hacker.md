@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2014-08-11'
+tags:
+- draft
 title: 'TDC2014: Trilhas de Segurança: o que é ser hacker?'
 ---
 

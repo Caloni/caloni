@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2011-03-10'
+tags:
+- draft
 title: Reorganizando meus feeds (de novo)
 ---
 

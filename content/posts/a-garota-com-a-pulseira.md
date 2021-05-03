@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-10-17'
 link: https://www.imdb.com/title/tt7766886
 tags:
 - cinemaqui
+- draft
 title: A Garota com a Pulseira
 ---
 

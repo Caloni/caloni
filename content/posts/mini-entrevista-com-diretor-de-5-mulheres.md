@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2016-10-25'
+tags:
+- draft
 title: Mini-Entrevista com Olaf Kraemer, diretor de 5 Mulheres
 ---
 

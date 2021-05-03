@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2009-07-27'
+tags:
+- draft
 title: Cuidado com a cópia de arquivos na VMWare
 ---
 

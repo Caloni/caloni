@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-06-10'
 link: https://www.imdb.com/title/tt4136084
 tags:
 - cinemaqui
+- draft
 title: Florence - Quem é Essa Mulher?
 ---
 

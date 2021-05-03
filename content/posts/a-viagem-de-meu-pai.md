@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-07-22'
 link: https://www.imdb.com/title/tt4163636
 tags:
 - cinemaqui
+- draft
 title: A Viagem de Meu Pai
 ---
 

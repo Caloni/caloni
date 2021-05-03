@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2017-08-23'
+tags:
+- draft
 title: Filmes e Diretores Favoritos
 ---
 

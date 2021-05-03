@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-04-25'
 link: https://www.imdb.com/title/tt6096528
 tags:
 - cinemaqui
+- draft
 title: Elon Não Acredita na Morte
 ---
 

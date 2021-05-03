@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-08-31'
 link: https://www.imdb.com/title/tt0395978
+tags:
+- draft
 title: Contra Todos
 ---
 

@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2010-07-28'
+tags:
+- draft
 title: Twitter, eu?
 ---
 

@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-08-31'
 link: https://www.imdb.com/title/tt6682820
 tags:
 - cinemaqui
+- draft
 title: Legalidade
 ---
 

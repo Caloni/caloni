@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2017-03-23'
+tags:
+- draft
 title: Forma simples de baixar atualizações remotamente de um cliente para um servidor
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - books
 date: '2018-07-17'
+tags:
+- draft
 title: Estrutura de Roteiro
 ---
 

@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-10-24'
 link: https://www.imdb.com/title/tt7534102
 tags:
 - cinemaqui
+- draft
 title: Os Olhos de Cabul
 ---
 

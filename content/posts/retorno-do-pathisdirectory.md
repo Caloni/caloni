@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2008-09-10'
+tags:
+- draft
 title: Retorno do PathIsDirectory
 ---
 

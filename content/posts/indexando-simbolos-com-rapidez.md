@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2015-10-28'
+tags:
+- draft
 title: Indexando símbolos com rapidez
 ---
 

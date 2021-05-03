@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2017-02-19'
+tags:
+- draft
 title: 'Palestra: como criar moedas digitais em casa com C++ (kick-off)'
 ---
 

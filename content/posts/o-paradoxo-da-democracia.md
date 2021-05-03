@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-10-28'
 tags:
 - cinemaqui
+- draft
 title: O Paradoxo da Democracia
 ---
 

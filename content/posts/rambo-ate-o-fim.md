@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-09-13'
 link: https://www.imdb.com/title/tt1206885
 tags:
 - cinemaqui
+- draft
 title: 'Rambo: Até o Fim'
 ---
 

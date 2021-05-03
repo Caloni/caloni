@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2013-04-03'
 link: https://www.imdb.com/title/tt1520211
+tags:
+- draft
 title: The Walking Dead - Segunda Temporada
 ---
 

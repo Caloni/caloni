@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-06-24'
 link: https://www.imdb.com/title/tt9016296
 tags:
 - cinemaqui
+- draft
 title: Boas Intenções
 ---
 

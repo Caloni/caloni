@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: 2017-12-17 22:11:40-02:00
+tags:
+- draft
 title: Se você não precisa de classe você não precisa de classe
 ---
 

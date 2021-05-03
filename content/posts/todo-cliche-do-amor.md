@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-04-09'
 link: https://www.imdb.com/title/tt5607038
 tags:
 - cinemaqui
+- draft
 title: Todo Clichê do Amor
 ---
 

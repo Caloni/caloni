@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2011-01-17'
+tags:
+- draft
 title: Esse ponteiro vai até onde?
 ---
 

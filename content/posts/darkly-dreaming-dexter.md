@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - books
 date: '2016-08-24'
+tags:
+- draft
 title: Darkly Dreaming Dexter
 ---
 

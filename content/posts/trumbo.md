@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-02-09'
 link: https://www.imdb.com/title/tt3203606
 tags:
 - cinemaqui
+- draft
 title: Trumbo
 ---
 

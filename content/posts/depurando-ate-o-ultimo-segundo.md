@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2009-03-31'
+tags:
+- draft
 title: Depurando até o último segundo
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2019-06-09'
 link: https://www.imdb.com/title/tt9184994
+tags:
+- draft
 title: Como Vender Drogas Online (Rápido)
 ---
 

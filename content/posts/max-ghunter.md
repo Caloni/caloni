@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - quotes
 date: '2019-09-08'
+tags:
+- draft
 title: Max Ghunter
 ---
 

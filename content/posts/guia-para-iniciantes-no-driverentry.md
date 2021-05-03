@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2008-08-11'
+tags:
+- draft
 title: Guia para iniciantes no DriverEntry
 ---
 

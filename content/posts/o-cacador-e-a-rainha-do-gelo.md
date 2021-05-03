@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-07-01'
 link: https://www.imdb.com/title/tt2381991
+tags:
+- draft
 title: O Caçador e a Rainha do Gelo
 ---
 

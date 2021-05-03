@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-05-24'
 link: https://www.imdb.com/title/tt1825683
+tags:
+- draft
 title: Pantera Negra
 ---
 

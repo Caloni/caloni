@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-01-04'
 link: https://www.imdb.com/title/tt2241116
+tags:
+- draft
 title: White Rabbit
 ---
 

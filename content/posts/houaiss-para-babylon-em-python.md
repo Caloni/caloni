@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2014-02-27'
+tags:
+- draft
 title: Houaiss para Babylon em Python!
 ---
 

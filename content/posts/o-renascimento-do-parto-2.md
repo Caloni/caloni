@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-05-10'
 tags:
 - cinemaqui
+- draft
 title: O Renascimento do Parto 2
 ---
 

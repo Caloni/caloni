@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - books
 date: '2015-06-29'
 link: /text/o-poder-do-agora.txt
+tags:
+- draft
 title: O Poder do Agora
 ---
 

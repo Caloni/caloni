@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2008-06-30'
+tags:
+- draft
 title: Reflexão em C++
 ---
 

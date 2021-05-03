@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2019-08-17'
+tags:
+- draft
 title: Restaurante Jojo Ramen
 ---
 

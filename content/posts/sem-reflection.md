@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2011-05-18'
+tags:
+- draft
 title: Sem reflection
 ---
 

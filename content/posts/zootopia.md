@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-07-02'
 link: https://www.imdb.com/title/tt2948356
+tags:
+- draft
 title: Zootopia
 ---
 

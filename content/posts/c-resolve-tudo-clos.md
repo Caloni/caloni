@@ -1,10 +1,11 @@
 ---
 categories:
-- draft
 - code
 date: 2019-05-17 19:04:53-03:00
 desc: Implementação de sistema polimórfico de chamada de métodos do CLOS (Common Lisp
   Object System). Atualizado em 2019-05-19 para retirar todo C++ e usar glib.
+tags:
+- draft
 title: C Resolve Tudo Clos
 ---
 

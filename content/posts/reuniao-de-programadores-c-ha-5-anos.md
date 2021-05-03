@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - blog
 date: '2011-01-12'
 tags:
 - ccppbr
+- draft
 title: Reunião de programadores C++ (há 5 anos)
 ---
 

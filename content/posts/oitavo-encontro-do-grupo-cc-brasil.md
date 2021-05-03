@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - blog
 date: '2011-09-19'
 tags:
 - ccppbr
+- draft
 title: Oitavo Encontro do Grupo C/C++ Brasil
 ---
 

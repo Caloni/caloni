@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2020-02-17'
 tags:
 - cinemaqui
+- draft
 title: Fim de Festa
 ---
 

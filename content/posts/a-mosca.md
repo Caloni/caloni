@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-11-27'
 link: https://www.imdb.com/title/tt0091064
+tags:
+- draft
 title: A Mosca
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2018-02-27'
 link: https://www.imdb.com/title/tt6468322
+tags:
+- draft
 title: La Casa De Papel
 ---
 

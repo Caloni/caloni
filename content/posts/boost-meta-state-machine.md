@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: 2018-05-21 00:23:49-03:00
+tags:
+- draft
 title: Boost Meta State Machine
 ---
 

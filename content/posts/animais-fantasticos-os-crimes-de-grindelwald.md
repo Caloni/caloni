@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-12-07'
 link: https://www.imdb.com/title/tt4123430
+tags:
+- draft
 title: 'Animais Fantásticos: Os Crimes De Grindelwald'
 ---
 

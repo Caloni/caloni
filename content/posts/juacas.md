@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - series
 date: '2017-05-18'
+tags:
+- draft
 title: Juacas
 ---
 

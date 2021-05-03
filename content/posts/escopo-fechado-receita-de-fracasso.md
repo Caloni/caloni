@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2017-09-12'
+tags:
+- draft
 title: 'Escopo Fechado: Receita De Fracasso'
 ---
 

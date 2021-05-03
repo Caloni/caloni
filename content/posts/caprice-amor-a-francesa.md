@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-09-30'
 link: https://www.imdb.com/title/tt3612984
+tags:
+- draft
 title: 'Caprice: Amor à Francesa'
 ---
 

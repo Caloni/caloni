@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-08-10'
 link: https://www.imdb.com/title/tt8753660
+tags:
+- draft
 title: Exterminadores do Além Contra a Loira Do Banheiro
 ---
 

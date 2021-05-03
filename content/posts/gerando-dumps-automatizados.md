@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2010-08-26'
+tags:
+- draft
 title: Gerando dumps automatizados
 ---
 

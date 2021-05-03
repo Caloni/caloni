@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2018-06-17'
 link: https://www.imdb.com/title/tt7083044
+tags:
+- draft
 title: 'Sense8 S02: Amor Vincit Omnia'
 ---
 

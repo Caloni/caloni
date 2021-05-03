@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - books
 date: '2016-11-03'
+tags:
+- draft
 title: O Mundo de Sofia
 ---
 

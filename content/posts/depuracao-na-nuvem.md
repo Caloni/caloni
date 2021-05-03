@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2013-04-02'
+tags:
+- draft
 title: Depuração na nuvem com o novo Visual Studio
 ---
 

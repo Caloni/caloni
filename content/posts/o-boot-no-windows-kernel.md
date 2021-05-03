@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2009-12-04'
+tags:
+- draft
 title: 'O boot no Windows: Kernel'
 ---
 

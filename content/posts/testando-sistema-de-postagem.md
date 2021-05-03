@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2016-04-10'
+tags:
+- draft
 title: Testando sistema de postagem
 ---
 

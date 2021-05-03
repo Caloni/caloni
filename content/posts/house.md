@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2010-01-25'
+tags:
+- draft
 title: House
 ---
 

@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-08-06'
 link: https://www.imdb.com/title/tt4685554
 tags:
 - cinemaqui
+- draft
 title: 'O Reino Gelado: Fogo e Gelo'
 ---
 

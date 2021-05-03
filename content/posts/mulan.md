@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2020-03-09'
 link: https://www.imdb.com/title/tt0120762
+tags:
+- draft
 title: Mulan
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2015-11-18'
+tags:
+- draft
 title: Como ser um hacker
 ---
 

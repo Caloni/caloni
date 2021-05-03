@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-07-31'
 link: https://www.imdb.com/title/tt2401878
+tags:
+- draft
 title: Anomalisa
 ---
 

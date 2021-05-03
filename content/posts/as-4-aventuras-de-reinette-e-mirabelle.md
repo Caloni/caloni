@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-08-28'
 link: https://www.imdb.com/title/tt0090565
+tags:
+- draft
 title: As 4 Aventuras De Reinette E Mirabelle
 ---
 

@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-10-22'
 link: https://www.imdb.com/title/tt9296808
 tags:
 - cinemaqui
+- draft
 title: Ecos
 ---
 

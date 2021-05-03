@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-07-08'
 link: https://www.imdb.com/title/tt2935564
 tags:
 - cinemaqui
+- draft
 title: A Conexão Francesa
 ---
 

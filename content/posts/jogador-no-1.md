@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-04-11'
 link: https://www.imdb.com/title/tt1677720
+tags:
+- draft
 title: Jogador No. 1
 ---
 

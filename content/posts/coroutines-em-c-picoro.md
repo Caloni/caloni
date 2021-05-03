@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - blog
 date: 2019-05-08 22:15:50-03:00
 desc: Como corotinas podem ser implementadas em C de maneira portável e minimalista.
+tags:
+- draft
 title: 'Coroutines Em C: Picoro'
 ---
 

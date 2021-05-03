@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-08-01'
 link: https://www.imdb.com/title/tt1478839
 tags:
 - cinemaqui
+- draft
 title: Meu Amigo Enzo
 ---
 

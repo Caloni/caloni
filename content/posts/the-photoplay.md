@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - books
 date: '2018-08-27'
+tags:
+- draft
 title: The Photoplay
 ---
 

@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-07-21'
 link: https://www.imdb.com/title/tt5348236
 tags:
 - cinemaqui
+- draft
 title: O Reencontro
 ---
 

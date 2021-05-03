@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-03-01'
 link: https://www.imdb.com/title/tt1707380
 tags:
 - cinemaqui
+- draft
 title: Tudo Vai Ficar Bem
 ---
 

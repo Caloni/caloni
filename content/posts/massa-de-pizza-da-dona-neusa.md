@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - food
 date: '2017-05-30'
 tags:
 - recipes
+- draft
 title: Massa de Pizza da Dona Neusa
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2019-04-24'
 link: https://www.imdb.com/title/tt7718088
+tags:
+- draft
 title: Bonding
 ---
 

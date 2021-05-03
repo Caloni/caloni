@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-12-09'
 link: https://www.imdb.com/title/tt3262342
+tags:
+- draft
 title: Com Amor Van Gogh
 ---
 

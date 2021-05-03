@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-06-05'
 link: https://www.imdb.com/title/tt3521126
+tags:
+- draft
 title: Artista do Desastre
 ---
 

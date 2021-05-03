@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2014-11-21'
+tags:
+- draft
 title: MVP C++ Summit e/ou Visual C++ ressurgindo das cinzas.
 ---
 

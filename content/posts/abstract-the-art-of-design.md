@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2017-03-08'
 link: https://www.imdb.com/title/tt6397576
+tags:
+- draft
 title: 'Abstract: The Art of Design'
 ---
 

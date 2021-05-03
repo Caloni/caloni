@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2010-03-15'
+tags:
+- draft
 title: Convivendo entre TodoList e Microsoft Project
 ---
 

@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - blog
 date: '2017-11-21'
 tags:
 - ccppbr
+- draft
 title: CCPPBRSP 14 Postergado
 ---
 

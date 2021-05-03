@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2008-07-16'
+tags:
+- draft
 title: O caso da função de Delay Load desaparecida
 ---
 

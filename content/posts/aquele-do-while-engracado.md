@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2008-05-15'
+tags:
+- draft
 title: Aquele do-while engraçado
 ---
 

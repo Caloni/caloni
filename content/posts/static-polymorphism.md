@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2009-07-10'
+tags:
+- draft
 title: Static Polymorphism
 ---
 

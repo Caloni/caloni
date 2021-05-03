@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2020-02-04'
 link: https://www.imdb.com/title/tt0104008
+tags:
+- draft
 title: Conto De Inverno
 ---
 

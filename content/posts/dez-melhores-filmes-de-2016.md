@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - lists
 date: '2016-12-27'
+tags:
+- draft
 title: Dez melhores filmes de 2016
 ---
 

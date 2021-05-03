@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2016-08-16'
+tags:
+- draft
 title: 'Electrum: uma opção simples e rápida de manter bitcoins seguros'
 ---
 

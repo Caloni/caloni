@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - blog
 date: 2019-04-07 15:00:26-03:00
 desc: Como fiz os dois primeiros exercídios do início do Code Jam
+tags:
+- draft
 title: Code Jam 2019 Qualification Round
 ---
 

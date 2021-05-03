@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2014-08-11'
+tags:
+- draft
 title: 'TDC2014: Trilha de C/C++ teve palestras para todos os gostos'
 ---
 

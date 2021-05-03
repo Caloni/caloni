@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2017-03-14'
+tags:
+- draft
 title: Entrando na zona com Windows
 ---
 

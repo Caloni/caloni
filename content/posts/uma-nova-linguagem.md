@@ -1,9 +1,10 @@
 ---
 categories:
 - code
-- draft
 - ccpp
 date: '2013-12-04'
+tags:
+- draft
 title: Uma nova linguagem
 ---
 

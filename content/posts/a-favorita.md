@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-10-18'
 link: https://www.imdb.com/title/tt5083738
 tags:
 - cinemaqui
+- draft
 title: A Favorita
 ---
 

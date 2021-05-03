@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - animes
 date: '2021-03-13'
 link: https://www.imdb.com/title/tt2309312
+tags:
+- draft
 title: Say I Love You (aka Suki-tte Ii na yo)
 ---
 

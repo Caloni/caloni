@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-08-23'
 tags:
 - cinemaqui
+- draft
 title: Histórias que Nosso Cinema (Não) Contava
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - reading
 date: '2017-06-27'
+tags:
+- draft
 title: Prefácio de O Capital Vol. 1
 ---
 

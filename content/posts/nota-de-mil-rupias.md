@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-04-16'
 link: https://www.imdb.com/title/tt2937158
+tags:
+- draft
 title: Nota de 1000 Rúpias
 ---
 

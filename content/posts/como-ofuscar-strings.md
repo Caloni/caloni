@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2010-08-30'
+tags:
+- draft
 title: Como ofuscar strings
 ---
 

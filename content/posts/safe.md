@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2018-05-29'
 link: https://www.imdb.com/title/tt7902072
+tags:
+- draft
 title: Safe
 ---
 

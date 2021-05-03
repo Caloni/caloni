@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2014-07-03'
+tags:
+- draft
 title: Sobre a BitForge
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2015-04-20'
+tags:
+- draft
 title: Convenção de Chamada
 ---
 

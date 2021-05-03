@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-12-26'
 link: https://www.imdb.com/title/tt5437928
+tags:
+- draft
 title: Colette
 ---
 

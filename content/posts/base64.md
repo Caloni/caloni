@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2011-03-09'
+tags:
+- draft
 title: Base64
 ---
 

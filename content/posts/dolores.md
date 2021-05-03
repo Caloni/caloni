@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-10-28'
 link: https://www.imdb.com/title/tt4990694
+tags:
+- draft
 title: Dolores
 ---
 

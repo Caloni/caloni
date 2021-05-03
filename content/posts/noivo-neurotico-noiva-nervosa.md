@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2015-12-27'
 link: https://www.imdb.com/title/tt0075686
+tags:
+- draft
 title: Noivo Neurótico, Noiva Nervosa
 ---
 

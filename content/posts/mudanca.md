@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2011-02-07'
+tags:
+- draft
 title: Mudança
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2015-09-11'
 link: https://www.imdb.com/title/tt2707408
+tags:
+- draft
 title: Narcos
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2017-01-05'
+tags:
+- draft
 title: Entrando na zona com Vim
 ---
 

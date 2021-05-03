@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - blog
 date: '2010-11-12'
 tags:
 - ccppbr
+- draft
 title: II Seminário Portabilidade e Performance
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2012-05-27'
+tags:
+- draft
 title: Problemas comuns no WinDbg e suas soluções
 ---
 

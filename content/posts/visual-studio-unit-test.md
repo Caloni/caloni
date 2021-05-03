@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - blog
 date: 2019-05-06 22:23:40-03:00
 desc: Como funciona a interface entre unit tests em C++ e o Visual Studio?
+tags:
+- draft
 title: Visual Studio Unit Test (C++)
 ---
 

@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-07-06'
 link: https://www.imdb.com/title/tt3068194
 tags:
 - cinemaqui
+- draft
 title: Amor e Amizade
 ---
 

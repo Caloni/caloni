@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - food
 date: '2020-01-04'
 tags:
 - recipes
+- draft
 title: Suspiro
 ---
 

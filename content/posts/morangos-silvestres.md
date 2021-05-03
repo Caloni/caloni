@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-01-05'
 link: https://www.imdb.com/title/tt0050986
+tags:
+- draft
 title: Morangos Silvestres
 ---
 

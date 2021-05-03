@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - reading
 date: 2018-07-15 21:53:55-03:00
+tags:
+- draft
 title: Stanford Encyclopedia of Philosophy Para Kindle
 ---
 

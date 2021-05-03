@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2011-03-01'
+tags:
+- draft
 title: VTable
 ---
 

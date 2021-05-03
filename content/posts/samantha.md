@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2018-07-13'
 link: https://www.imdb.com/title/tt6626676
+tags:
+- draft
 title: Samantha!
 ---
 

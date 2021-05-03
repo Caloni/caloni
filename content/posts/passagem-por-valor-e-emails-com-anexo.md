@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2010-01-18'
+tags:
+- draft
 title: Passagem por valor e emails com anexo
 ---
 

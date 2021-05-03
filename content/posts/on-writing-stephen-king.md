@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - books
 date: '2019-08-16'
+tags:
+- draft
 title: On Writing, por Stephen King
 ---
 

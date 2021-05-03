@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-06-03'
 link: https://www.imdb.com/title/tt4699388
 tags:
 - cinemaqui
+- draft
 title: Um Amor À Altura
 ---
 

@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - food
 date: '2019-06-23'
 tags:
 - recipes
+- draft
 title: Pastéis de Nata
 ---
 

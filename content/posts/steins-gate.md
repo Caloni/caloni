@@ -1,10 +1,11 @@
 ---
 categories:
-- draft
 - series
 - animes
 date: '2017-10-05'
 link: https://www.imdb.com/title/tt1910272
+tags:
+- draft
 title: Steins;Gate
 ---
 

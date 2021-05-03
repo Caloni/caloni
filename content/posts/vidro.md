@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-01-08'
 link: https://www.imdb.com/title/tt6823368
 tags:
 - cinemaqui
+- draft
 title: Vidro
 ---
 

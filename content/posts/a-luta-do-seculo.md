@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-08-29'
 link: https://www.imdb.com/title/tt8201726
+tags:
+- draft
 title: A Luta do Século
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-08-18'
 link: https://www.imdb.com/title/tt0338013
+tags:
+- draft
 title: Brilho Eterno de uma Mente Sem Lembranças
 ---
 

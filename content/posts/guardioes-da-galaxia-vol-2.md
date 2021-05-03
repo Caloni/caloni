@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-04-27'
 link: https://www.imdb.com/title/tt3896198
+tags:
+- draft
 title: Guardiões da Galáxia Vol. 2
 ---
 

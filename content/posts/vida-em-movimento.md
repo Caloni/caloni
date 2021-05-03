@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-02-26'
 tags:
 - cinemaqui
+- draft
 title: Vida em Movimento
 ---
 

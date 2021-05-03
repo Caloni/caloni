@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-09-06'
 link: https://www.imdb.com/title/tt0335054
+tags:
+- draft
 title: 2 Perdidos Numa Noite Suja
 ---
 

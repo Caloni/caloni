@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-02-17'
 link: https://www.imdb.com/title/tt3741834
+tags:
+- draft
 title: 'Lion: Uma Jornada Para Casa'
 ---
 

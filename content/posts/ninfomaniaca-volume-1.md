@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-06-06'
 link: https://www.imdb.com/title/tt1937390
+tags:
+- draft
 title: Ninfomaníaca Vol. 1
 ---
 

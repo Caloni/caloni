@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- draft
 date: '2009-02-10'
+tags:
+- draft
 title: WinDbg.info
 ---
 

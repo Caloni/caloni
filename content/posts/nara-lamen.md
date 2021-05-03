@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2019-08-21'
+tags:
+- draft
 title: Restaurante Nara Lámen
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-02-29'
 link: https://www.imdb.com/title/tt1895587
+tags:
+- draft
 title: 'Spotlight: Segredos Revelados'
 ---
 

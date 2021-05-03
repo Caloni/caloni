@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-10-17'
 link: https://www.imdb.com/title/tt6851430
 tags:
 - cinemaqui
+- draft
 title: Meu Verão Extraordinário Com Tess
 ---
 

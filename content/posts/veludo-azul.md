@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-01-14'
 link: https://www.imdb.com/title/tt0090756
+tags:
+- draft
 title: Veludo Azul
 ---
 

@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2019-11-17'
+tags:
+- draft
 title: Circles and Squares
 ---
 

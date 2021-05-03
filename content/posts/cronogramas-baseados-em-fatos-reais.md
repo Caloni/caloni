@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2011-06-04'
+tags:
+- draft
 title: Cronogramas baseados em fatos reais
 ---
 

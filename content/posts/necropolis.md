@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2019-04-22'
 link: https://www.imdb.com/title/tt9893572
+tags:
+- draft
 title: Necrópolis
 ---
 

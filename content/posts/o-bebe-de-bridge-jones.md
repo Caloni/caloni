@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-06-24'
 link: https://www.imdb.com/title/tt1473832
+tags:
+- draft
 title: O Bebê de Bridge Jones
 ---
 

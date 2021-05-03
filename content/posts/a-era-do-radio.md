@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-01-29'
 link: https://www.imdb.com/title/tt0093818
+tags:
+- draft
 title: A Era do Rádio
 ---
 

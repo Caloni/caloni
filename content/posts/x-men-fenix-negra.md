@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-06-05'
 link: https://www.imdb.com/title/tt6565702
 tags:
 - cinemaqui
+- draft
 title: 'X-Men: Fênix Negra'
 ---
 

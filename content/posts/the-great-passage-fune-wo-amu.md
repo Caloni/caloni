@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - animes
 date: '2021-02-19'
 link: https://www.imdb.com/title/tt6142628
+tags:
+- draft
 title: The Great Passage (Fune Wo Amu)
 ---
 

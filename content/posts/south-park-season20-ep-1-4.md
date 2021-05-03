@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2016-10-15'
 link: https://www.imdb.com/title/tt0121955
+tags:
+- draft
 title: South Park - Vigésima Temporada, Episódios 1 a 4
 ---
 

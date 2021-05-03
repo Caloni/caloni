@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2019-12-10'
+tags:
+- draft
 title: Monte Verde 2019
 ---
 

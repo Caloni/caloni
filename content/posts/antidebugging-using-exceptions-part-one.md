@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2008-07-28'
+tags:
+- draft
 title: Antidebugging using exceptions (part one)
 ---
 

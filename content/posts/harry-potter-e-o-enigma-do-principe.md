@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2019-12-29'
 link: https://www.imdb.com/title/tt0417741
+tags:
+- draft
 title: Harry Potter e o Enigma do Príncipe
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- draft
 - code
 date: 2019-05-17 13:53:21-03:00
 desc: Formas de fazer com a linguagem C o que as outras linguagens fazem by design.
   Se quiser algum artigo sobre alguma feature de alguma linguagem ou ferramenta, comente.
+tags:
+- draft
 title: 'C Resolve Tudo: Orientação a Objetos (com Polimorfismo)'
 ---
 

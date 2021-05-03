@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2015-12-28'
 link: https://www.imdb.com/title/tt3853452
+tags:
+- draft
 title: Assassination Classroom
 ---
 

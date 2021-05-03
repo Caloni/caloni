@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2008-06-26'
+tags:
+- draft
 title: Primeiros passos na documentação de código-fonte usando Doxygen
 ---
 

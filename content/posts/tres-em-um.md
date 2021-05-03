@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2010-10-09'
+tags:
+- draft
 title: Três em um
 ---
 

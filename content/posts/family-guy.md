@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2015-07-28'
 link: https://www.imdb.com/title/tt0182576
+tags:
+- draft
 title: Family Guy
 ---
 

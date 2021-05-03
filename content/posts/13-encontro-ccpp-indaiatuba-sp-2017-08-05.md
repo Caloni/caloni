@@ -1,10 +1,10 @@
 ---
 categories:
-- draft
 - blog
 date: '2017-07-19'
 tags:
 - ccppbr
+- draft
 title: 13 Encontro (Relâmpago) C/C++ Brasil Indaiatuba (SP) 5 de Agosto de 2017
 ---
 

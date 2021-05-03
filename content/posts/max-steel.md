@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-01-11'
 link: https://www.imdb.com/title/tt1472584
 tags:
 - cinemaqui
+- draft
 title: Max Steel
 ---
 

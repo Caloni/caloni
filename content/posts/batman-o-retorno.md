@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2017-12-10'
 link: https://www.imdb.com/title/tt0103776
+tags:
+- draft
 title: 'Batman: O Retorno'
 ---
 

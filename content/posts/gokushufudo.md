@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - animes
 date: '2021-04-25'
 link: https://www.imdb.com/title/tt13357124
+tags:
+- draft
 title: Gokushufudo (The Way of the Househusband)
 ---
 

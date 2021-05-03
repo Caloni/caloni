@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - series
 date: '2016-08-04'
 link: https://www.imdb.com/title/tt4574334
+tags:
+- draft
 title: Stranger Things (e a irrelevância da bilheteria Netflixiana)
 ---
 

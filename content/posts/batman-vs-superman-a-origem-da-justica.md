@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-04-02'
 link: https://www.imdb.com/title/tt2975590
+tags:
+- draft
 title: 'Batman vs Superman: A Origem da Justiça'
 ---
 

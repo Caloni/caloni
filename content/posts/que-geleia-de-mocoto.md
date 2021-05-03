@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - blog
 date: '2014-04-29'
+tags:
+- draft
 title: Que geleia de mocotó
 ---
 

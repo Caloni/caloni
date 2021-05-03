@@ -1,9 +1,10 @@
 ---
 categories:
-- draft
 - movies
 date: '2016-03-18'
 link: https://www.imdb.com/title/tt2625270
+tags:
+- draft
 title: Vinho para Roubar
 ---
 

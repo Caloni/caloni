@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - books
 date: '2016-12-20'
+tags:
+- draft
 title: Sinais do Fim
 ---
 

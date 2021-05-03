@@ -1,7 +1,8 @@
 ---
-categories:
-- draft
+categories: []
 date: '2008-09-12'
+tags:
+- draft
 title: Todo programador é um filósofo em potencial
 ---
 

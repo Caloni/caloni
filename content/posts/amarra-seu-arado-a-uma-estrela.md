@@ -1,11 +1,11 @@
 ---
 categories:
-- draft
 - movies
 date: '2018-03-20'
 link: https://www.imdb.com/title/tt7697854
 tags:
 - cinemaqui
+- draft
 title: Amarra Seu Arado em Uma Estrela
 ---
 

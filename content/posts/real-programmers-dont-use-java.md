@@ -1,9 +1,10 @@
 ---
 categories:
 - code
-- draft
 - english
 date: '2014-02-20'
+tags:
+- draft
 title: Real Programmers Don't Use Java
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- draft
 - code
 date: '2010-08-03'
+tags:
+- draft
 title: Como achar o código-fonte sem símbolos
 ---
 
