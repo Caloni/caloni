@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2018-09-23'
+tags:
+- beer
 title: Strappa Gingerberry
 ---
 

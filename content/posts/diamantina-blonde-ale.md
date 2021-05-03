@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2018-01-07'
+tags:
+- beer
 title: Diamantina Blonde Ale
 ---
 

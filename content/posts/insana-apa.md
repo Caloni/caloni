@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2018-04-06'
+tags:
+- beer
 title: Insana APA
 ---
 

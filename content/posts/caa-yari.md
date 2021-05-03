@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2015-11-09'
+tags:
+- beer
 title: Caá Yari
 ---
 

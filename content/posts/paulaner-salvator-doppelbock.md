@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2017-10-20'
+tags:
+- beer
 title: Paulaner Salvator Doppelbock
 ---
 

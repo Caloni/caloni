@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2018-08-09'
+tags:
+- beer
 title: Colorado Ithaca
 ---
 

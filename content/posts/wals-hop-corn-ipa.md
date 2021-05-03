@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2017-07-20'
+tags:
+- beer
 title: Wäls Hop Corn IPA
 ---
 

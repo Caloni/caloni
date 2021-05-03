@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2018-03-10'
+tags:
+- beer
 title: Goose IPA
 ---
 

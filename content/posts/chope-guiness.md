@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2017-05-31'
+tags:
+- beer
 title: Chope Guiness
 ---
 

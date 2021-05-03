@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2018-03-15'
+tags:
+- beer
 title: Mohave Yucca Witbier
 ---
 

@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2019-05-30'
+tags:
+- beer
 title: Goose Midway Session IPA
 ---
 

@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2018-10-28'
+tags:
+- beer
 title: Colorado Okto Session
 ---
 

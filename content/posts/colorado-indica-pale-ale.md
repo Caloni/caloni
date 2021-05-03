@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2017-07-27'
+tags:
+- beer
 title: Colorado Indica Pale Ale
 ---
 

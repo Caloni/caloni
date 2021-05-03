@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2018-07-07'
+tags:
+- beer
 title: Dry Hopping Cauim 016
 ---
 

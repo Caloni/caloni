@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2018-08-06'
+tags:
+- beer
 title: Bierland Witbier
 ---
 

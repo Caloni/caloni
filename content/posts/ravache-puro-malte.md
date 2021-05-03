@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2017-07-25'
+tags:
+- beer
 title: Ravache Puro Malte
 ---
 

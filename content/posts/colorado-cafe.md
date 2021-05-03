@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2015-09-13'
+tags:
+- beer
 title: Colorado Café
 ---
 

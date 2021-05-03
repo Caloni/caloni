@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2017-09-12'
+tags:
+- beer
 title: Eisenbahn Extra Escura Dunkel
 ---
 

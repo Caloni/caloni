@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2018-04-19'
+tags:
+- beer
 title: Eisenbahn Pale Ale
 ---
 

@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2019-04-13'
+tags:
+- beer
 title: Kloser
 ---
 

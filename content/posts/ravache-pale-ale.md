@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2015-06-21'
+tags:
+- beer
 title: Ravache Pale Ale
 ---
 

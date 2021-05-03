@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2016-01-31'
+tags:
+- beer
 title: Löwenbräu
 ---
 

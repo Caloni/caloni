@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2015-07-10'
+tags:
+- beer
 title: Serra Malte
 ---
 

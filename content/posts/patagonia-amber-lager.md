@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2016-12-04'
+tags:
+- beer
 title: Patagonia Amber Lager
 ---
 

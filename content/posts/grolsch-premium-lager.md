@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2018-06-20'
+tags:
+- beer
 title: Grolsch Premium Lager
 ---
 

@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2019-02-28'
+tags:
+- beer
 title: Praya Wit Bier
 ---
 

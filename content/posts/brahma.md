@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2015-07-17'
+tags:
+- beer
 title: Brahma
 ---
 

@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2018-08-08'
+tags:
+- beer
 title: Double Hop Monster IPA
 ---
 

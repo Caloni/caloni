@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2018-09-22'
+tags:
+- beer
 title: Kairós Sol Poente
 ---
 

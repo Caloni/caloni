@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2018-09-25'
+tags:
+- beer
 title: Putz IPA
 ---
 

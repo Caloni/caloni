@@ -2,6 +2,8 @@
 categories:
 - food
 date: '2018-01-03'
+tags:
+- beer
 title: Ashby Pale Ale
 ---
 
