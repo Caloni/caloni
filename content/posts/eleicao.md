@@ -4,7 +4,6 @@ categories:
 date: '2015-12-02'
 link: https://www.imdb.com/title/tt0126886
 tags:
-- draft
 title: Eleição
 ---
 
@@ -22,4 +21,4 @@ O fato é que Tammy se candidata para tentar se vingar de seu interesse amoroso,
 
 Conforme vamos percebendo todo esse emaranhado de jogo de influências entre esses três personagens -- Tammy, Tracy e Mr. McAllister -- e suas motivações, fica claro que Eleição se torna muito mais do que uma ingênua escolha de presidente de grêmio: é um estudo aguçado de quatro personalidades -- incluo aí também o alienado mas bem-intencionado Paul, irmão de Tammy -- muito comuns no dia-a-dia, especialmente se categorizarmos as pessoas pelo seu interesse político. A genialidade do diretor Alexander Payne e seu companheiro de roteiro Jim Taylor, baseados no romance de Tom Perrotta, é não tornar tudo muito óbvio, mas deixar-nos ouvir os pensamentos deles a todo o momento. E mesmo assim, o que eles pensam não necessariamente traduz seus objetivos imediatamente. Quase como um House of Cards juvenil, aqui se dá tempo ao tempo para que tudo faça sentido, e se até mesmo o detalhe da motivação por trás da confissão de Tammy em dado momento quase nos escapa, é porque o filme vai confiando cada vez mais na capacidade de seu espectador de fisgar a linha de raciocínio das pessoas envolvidas. Nem todos querem a mesma coisa, e é isso o que torna a trama tão interessante.
 
-Conseguindo se conter em extrapolar sua conclusão muito além do necessário, Eleição toma por certo que o recado político foi dado a seu astuto espectador, além de utilizar uma pista-recompensa genial e com um tempo de tela absurdamente longo, e que mesmo assim -- ou talvez por causa disso -- funciona como uma pena. Vai ser difícil se esquecer das artimanhas de Mr. McAllister e seus alunos. Ainda mais quando parece haver muito mais do que percebemos nas entrelinhas deste exemplar projeto.
+Conseguindo se conter em extrapolar sua conclusão muito além do necessário, Eleição toma por certo que o recado político foi dado a seu astuto espectador, além de utilizar uma pista-recompensa genial e com um tempo de tela absurdamente longo, e que mesmo assim -- ou talvez por causa disso -- se encaixa como uma luva. Vai ser difícil se esquecer das artimanhas de Mr. McAllister e seus alunos. Ainda mais quando parece haver muito mais do que percebemos nas entrelinhas deste exemplar projeto.

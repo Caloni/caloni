@@ -4,7 +4,6 @@ categories:
 date: '2015-12-09'
 link: https://www.imdb.com/title/tt1727776
 tags:
-- draft
 title: Como Sobreviver a Um Ataque Zumbi
 ---
 

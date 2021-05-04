@@ -4,7 +4,6 @@ categories:
 date: '2015-12-04'
 link: https://www.imdb.com/title/tt1524566
 tags:
-- draft
 title: Perdida
 ---
 
@@ -12,7 +11,7 @@ Esse documentário de colagens charmosas tenta resgatar do passado longínquo to
 
 Irônico é que a diretora é neta e bisneta desses cineastas, e através de sua pesquisa, que pretende resgatar evidências escondidas de quem foram seus descendentes e seus esquecidos feitos -- entre eles, mais de 150 filmes -- esconde-se também a história igualmente esquecida do Cinema Mexicano das décadas de 20 a 50, chegando até seu período pornográfico. Sim, houveram pornochanchadas por lá também.
 
-O filme começa com uma surpresa da diretora: um rolo de filme guardado em um porão mostra sua bisavó ainda criança, dançando. O pensamento fixo que se instala em sua mente é: como seus parentes tinha posses o suficiente para ter uma câmera naquela época? Essa dúvida já explica que houve uma verdadeira reviravolta na história dessa família, que vai se confundindo com a evolução do comércio cinematográfico no país.
+O filme começa com uma surpresa da diretora: um rolo de filme guardado em um porão mostra sua bisavó ainda criança, dançando. O pensamento fixo que se instala em sua mente é: como seus parentes tinham posses o suficiente para ter uma câmera naquela época? Essa dúvida já explica que houve uma verdadeira reviravolta na história dessa família, que vai se confundindo com a evolução do comércio cinematográfico no país.
 
 Desconhecendo o passado glorioso de sua família, convenientemente ignorado pelo governo mexicano -- que em determinado momento fechou todas as produtoras para no lugar produzir "filmes mais refinados do que a indústria estava produzindo" (sim, lá também há a péssima ideia de uma Ancine) -- a história dessas pessoas demonstra como o México foi, em determinados momentos, um polo tão ou mais importantes que seus vizinhos na Califórnia. Com público e prestígio o suficiente, as salas de cinema frequentemente eram circundadas de filas pelo quarteirão. Astros da indústria apareciam nas exibições. O sucesso permitia cobrar ingressos populares, ou até exibições gratuitas, para as crianças. Tudo jogadas de marketing sensacionais à época (as crianças serviam de chamariz para o público adulto).
 

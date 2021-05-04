@@ -4,7 +4,6 @@ categories:
 date: '2015-11-29'
 link: https://www.imdb.com/title/tt0339291
 tags:
-- draft
 title: Desventuras em Série
 ---
 
@@ -16,6 +15,6 @@ Com o uso de enquadramentos de dois planos que tornam o temido Conde Olaf envolv
 
 Com pelo menos uma sequência memorável, onde um carro no meio dos trilhos é usado como artifício dramático e elementos visuais que misturam o velho com o novo (como um carro que toca música através de um sistema de rolos de fita), Desventuras em Série distrai e impressiona pelo visual e conta uma história em um ritmo frenético, sendo exagerado em todas suas pontas.
 
-E com pelo menos duas atuações dignas de nota -- Jim Carrey e suas maquiagens, e Meryl Streep e seu óculos que balança, ambos contracenam -- o filme também ganha cores devido a seu elenco britânico e afiado com a proposta teatral do projeto.
+E com pelo menos duas atuações dignas de nota -- Jim Carrey e suas maquiagens, e Meryl Streep e seus óculos que balançam, ambos contracenam -- o filme também ganha cores devido a seu elenco britânico e afiado com a proposta teatral do projeto.
 
 Além de apresentar a jovem Emily Browning, que mais tarde participaria de empreitadas muito mais adultas.
