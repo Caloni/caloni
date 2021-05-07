@@ -4,8 +4,7 @@ categories:
 date: '2015-12-27'
 link: https://www.imdb.com/title/tt2194499
 tags:
-- draft
-title: About Time
+title: Questão de Tempo
 ---
 
 Uma comédia romântica, ou até mesmo um romance, hoje se pauta mais em seus personagens do que sua narrativa. Até grandes títulos desses gêneros -- como Harry e Sally ou filmes do Woody Allen -- não são nada originais em seu desenvolvimento e, principalmente, seu desfecho. Porém, como não amar personagens tão carismáticos às vezes criados por performances memoráveis e falas idem?

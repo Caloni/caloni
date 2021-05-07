@@ -4,7 +4,6 @@ categories:
 date: '2016-01-04'
 link: https://www.imdb.com/title/tt3035582
 tags:
-- draft
 title: 'S.O.S.: Mulheres ao Mar'
 ---
 

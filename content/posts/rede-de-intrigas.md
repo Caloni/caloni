@@ -4,7 +4,6 @@ categories:
 date: '2015-12-27'
 link: https://www.imdb.com/title/tt0074958
 tags:
-- draft
 title: Rede de Intrigas
 ---
 
@@ -14,7 +13,7 @@ Apesar da história de Network girar em torno da busca do poder, que no caso é 
 
 Esse momento é icônico porque ele é um dos poucos que conseguem resumir de onde vem o combustível para permitir que um canal de notícias vire um show pseudo-esotérico com toques de auto-ajuda para uma nação em crise econômica e de identidade: sua audiência. Network pode se travestir de jogo de poder de corporações cada vez maiores, e faz isso muito bem, mas não pode negar que esse poder emana de quem possui o controle dos canais na mão.
 
-Do jeito que as coisas são colocadas, porém, essa audiência não mudou muito de quando eram babuínos viajando pelo deserto, confiando sua liderança a homens que de diziam profetas que conseguiam falar com o próprio deus e arrancar a "verdade final". Em ambos os casos, se você avança demais nessa ilusão, ou se há motivos suficientes da população para que ela se mantenha, até mesmo quando o profeta tenta se desmascarar, a ele será negado a fuga para a realidade.
+Do jeito que as coisas são colocadas, porém, essa audiência não mudou muito de quando eram babuínos viajando pelo deserto, confiando sua liderança a homens que de diziam profetas que conseguiam falar com o próprio deus e arrancar a "verdade final". Em ambos os casos, se você avança demais nessa ilusão, ou se há motivos suficientes da população para que ela se mantenha, até mesmo quando o profeta tenta se desmascarar, a ele será negada a fuga para a realidade.
 
 Além dessas questões universais, Network vai além, e através de uma história de traição discute com propriedade uma filosofia de valores em contraponto com a vida fácil e irreal da TV. Tudo isso de maneira acessível, ou quase, em uma narrativa que funciona tão bem em tantos níveis que parece um pequeno milagre de coesão e economia. Nenhuma cena no filme é descartável.
 

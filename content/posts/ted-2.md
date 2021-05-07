@@ -4,7 +4,6 @@ categories:
 date: '2015-12-31'
 link: https://www.imdb.com/title/tt2637276
 tags:
-- draft
 title: Ted 2
 ---
 

@@ -4,7 +4,6 @@ categories:
 date: '2015-12-27'
 link: https://www.imdb.com/title/tt3168230
 tags:
-- draft
 title: Mr. Holmes
 ---
 
