@@ -4,7 +4,6 @@ categories:
 date: '2016-01-07'
 link: https://www.imdb.com/title/tt0067824
 tags:
-- draft
 title: O Dragão Chinês
 ---
 
@@ -16,4 +15,4 @@ Cheng prometeu ao tio que não lutaria para não entrar mais em encrenca, mas qu
 
 Note, por exemplo, a luta final. Conhecemos o poder de ambos os oponentes, e mesmo que um carro ou um ônibus passe na estrada logo atrás nos distraindo, a concentração dos lutadores é imensa, tornando difícil não se interessar pelo desfecho da história.
 
-Sem colocar meios-termos no filme, temos nudez feminina e a morte de uma criança. Isso só acrescenta ao realismo do trabalho do diretor Wei Lo (ajudado por Chia-Hsiang Wu, embora não apareça nos créditos). E realismo é o que falta hoje em dia, no mundo do digital. Que belo trabalho de coreografia disposta em uma história clichê, mas que se torna poderosa quase que naturalmente.
+Sem colocar meios-termos no filme, temos nudez feminina e a morte de uma criança. Isso só acrescenta ao realismo do trabalho do diretor Wei Lo (ajudado por Chia-Hsiang Wu, embora não apareça nos créditos). E realismo é o que falta hoje em dia, no mundo do digital. Que belo trabalho de coreografia disposta em uma história clichê, mas que se torna poderosa naturalmente.
