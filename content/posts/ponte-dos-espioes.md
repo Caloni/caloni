@@ -4,7 +4,6 @@ categories:
 date: '2016-01-20'
 link: https://www.imdb.com/title/tt3682448
 tags:
-- draft
 title: Ponte dos Espiões
 ---
 
@@ -16,7 +15,7 @@ Acompanhamos a captura e o julgamento de Rudolf Abel (Mark Rylance), acusado de 
 
 Não por acaso, a primeira metade do filme é a melhor, pois apresenta tantos conflitos, cujas soluções estão longe de ser simples, e cujos lados não estão limitados a dois, que ela serve como uma micro-história dentro de algo maior. E o algo maior surge logo depois, quando, depois de uma reviravolta que pode ser chamada de golpe de sorte apenas aos que não analisam probabilidades (ou seja, todos menos Donavan), todos os elementos e personagens construídos até então servem de gancho para uma nova história envolvendo a troca de prisioneiros de uma guerra não-declarada entre três países, dentre eles nada menos que dois estão do outro lado do muro de uma revolução comunista.
 
-Apresentando um Tom Hanks como sempre competente em criar personagens carismáticos e olhos do grande público, é Mark Rylance que rouba, em seus relativamente poucos momentos, a graça do filme, ao expor um espião tão meticuloso que seus menores movimentos que ser espião parece ser algo que já nasceu com ele, em seu DNA, rivalizando com Gary Oldman em O Espião que Sabia Demais, e cujas falas são ditas da maneira mais sóbria e carismática possível. É impossível não se deixar levar por sua história do homem que se mantém de pé.
+Apresentando um Tom Hanks como sempre competente em criar personagens carismáticos e olhos do grande público, é Mark Rylance que rouba em seus relativos poucos momentos a graça do filme, ao expor um espião tão meticuloso que seus menores movimentos que ser espião parece ser algo que já nasceu com ele, em seu DNA, rivalizando com Gary Oldman em O Espião que Sabia Demais, e cujas falas são ditas da maneira mais sóbria e carismática possível. É impossível não se deixar levar por sua história do homem que se mantém de pé.
 
 Steven Spielberg, o diretor, já está acostumado a trabalhar em filmes históricos que evocam grandeza de suas tomadas enquadráveis, claro que com a ajuda de seu fotógrafo-mestre, Janusz Kaminski, que utiliza a contraluz em um momento em uma ponte cheia de neve que cria vultos tão poéticos que rivalizam com a sequência que Donavan conversa com o contato da embaixada russa a respeito de fazerem o que é certo antes que os dois países tomem a última decisão errada.
 
