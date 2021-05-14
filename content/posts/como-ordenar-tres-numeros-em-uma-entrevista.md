@@ -30,7 +30,7 @@ Por fim, meu loop que verifica qual o menor e maior varre o array que criei e no
       if n < menor:
         menor = n
 
-E a média é obtida somando os três números dividido por três, me lembrando que pode ser um número quebrado, então é melhor que seja um ponto flutuante, o que eu consigo dividindo por 3.0 em vez de e.
+E a média é obtida somando os três números dividido por três, me lembrando que pode ser um número quebrado, então é melhor que seja um ponto flutuante, o que eu consigo dividindo por 3.0 em vez de 3.
 
     print("media: ", (a + b + c) / 3.0);
 
