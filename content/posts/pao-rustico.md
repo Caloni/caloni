@@ -8,16 +8,25 @@ tags:
 - draft
 title: Pão Rústico
 ---
+As medidas originais dessa receita são bizarras por causa do uso do volume como base. Receitas de pão geralmente são as melhores porque seus ingredientes são um percentual da farinha usada em peso.  Dessa forma, uma tradução mais realista das medidas seria:
 
-Faça esse pão se souber sovar bem e estiver com fermento natural sobrando ou afim de pão caseiro. Junte seu tanto de farinha com 37% (em peso) de fermento natural, alimentado, no topo, mais de 0.5% a 1% de fermento instantâneo (a quantidade depende do estado do natural; mais forte menos fermento instantâneo; menos forte mais), 2,3% de sal e 56% de água quentinha. Juntou tudo?
+ - Farinha
+ - Um terço pra mais de fermento natural alimentado e no topo.
+ - 50% pra mais de água quentinha.
+ - 2,5% de sal.
+ - uma colher de chá ou duas de fermento instantâneo se o natural não estiver em seu clímax, bem alimentado e sem bolhas já saindo; você decide.
 
-Agora combine todos os ingredientes e sove até obter uma massa macia, que permita crescer em temperatura ambiente até dobrar de tamanho, cerca de 90 minutos. Depois a receita pede para gentilmente dividir a massa, mas aí depende da quantidade feita. O objetivo é moldar em formas ovais e colocar em uma forma untada, deixar crescer por 1h e colocar em forno pré-aquecido a 220 graus.
+Quando o fermento natural estiver no ápice da alimentação junte com a farinha e água e deixe a autólise ocorrer. Pode ser quinze minutos, pode ser duas horas. Apenas não deixe muito tempo fermentando.
 
-A sova deve ser aquela que depois de uns 10, 15 mins, a massa parece aquela gosma do jogo Portal, inclusive fazendo um barulho estranho ao bater e esticar na mesa. Só que branco (se usar farinha branca). Com isso o véu de noiva vai estar divino e pronto para crescer o quanto desejar. Vale lembrar que deixar a farinha e a água fazerem a autólise por um tempo ajuda a diminuir o tempo de sova até desenvolver bem o glúten.
+Quando for sovar jogue o fermento instantâneo que achar que precisa de um lado, o sal do outro e comece. O objetivo é uma massa suave e levemente pegajosa, mas ainda possível de modelar em uma bola. Modele e deixe dobrar de tamanho.
 
-Antes de colocar no forno jogue um spray ou com os dedos uma água quentinha por cima dos moldes, para depois espalhar generosamente farinha por cima. Por fim, faça aquele corte diagonal com faca de serra, só que profundo e de ponta a ponta; segure a faca firme para ficar uniforme.
+Depois que crescer é hora de dividir em tamanhos que irão caber na forma ou panela para ir ao forno. Há uma curta fermentação que pode ser de uma hora ou mais (em fermentação natural isso é curto), então, apenas para a massa voltar a crescer, e é hora de colocar no forno. A 220 graus, bem hidratado na superfície com água quentinha, depois polvilhado de farinha e uns dois ou três cortes precisos e profundos longitudinais para que o pão não abra na base. Se usar uma panela não precisa da água.
 
-Vai de 25 a 30 minutos no forno a 220 graus, ou até ficar bem dourado marrom. Aguarde esfriar antes de cortar.
+Deixe cerca de meia-hora até começar a ganhar cor na casca. Na panela 45 minutos com tampa seguido de 15 sem tampa. Retire e resists à tentação de cortar enquanto esfria com aquele barulhinho crocante.
+
+Se bater no fundo e não estiver oco pode assar mais.
+
+Deixe o pão esfriar em local arejado e a manteiga esquentar fora da geladeira. Bom apetite.
 
  - 2021-05-01 Refiz a receita usando o fermento natural alimentado por uns três dias. Apesar de vigoroso no crescimento eu apelei ainda para uma ajuda de uma pitada do instantâneo. Também fiz algo inusitado: deixei o autólise agir junto do fermento. O resultado foi muito bom ou não teve diferença, mas é uma maneira interessante de deixar o fermento natural agir um pouco antes do instantâneo. Antes mesmo de colocar o instantâneo já deu pra ver como ele estava fazendo a massa crescer. Então acredito que devo usar essa estratégia na primeira vez que usar apenas o natural.
 
