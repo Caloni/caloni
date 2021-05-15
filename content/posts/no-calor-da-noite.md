@@ -4,7 +4,6 @@ categories:
 date: '2016-02-08'
 link: https://www.imdb.com/title/tt0061811
 tags:
-- draft
 title: No Calor da Noite
 ---
 
