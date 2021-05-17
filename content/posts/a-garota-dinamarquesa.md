@@ -5,11 +5,10 @@ date: '2016-02-12'
 link: https://www.imdb.com/title/tt0810819
 tags:
 - cinemaqui
-- draft
 title: A Garota Dinamarquesa
 ---
 
-Quantas vezes uma pessoa aguenta receber o diagnóstico errado do problema de sua vida e perceber que está apenas se enganando em um mundo que não está pronta para recebê-la?
+Quantas vezes uma pessoa aguenta receber o diagnóstico errado do problema de sua vida e perceber que está apenas se enganando em um mundo que não está pronto para recebê-la?
 
 É possível até deduzir a essência da história contada em A Garota Dinamarquesa, mas muito mais difícil senti-la. Estruturado como um melodrama insosso, o novo filme de Tom Hooper (O Discurso do Rei) contém todas as virtudes que poderiam fazer parte de um ótimo drama sobre um assunto sexual ainda pouco explorado de maneira honesta. No entanto, se arriscando pouco e escolhendo o caminho seguro da pura e simples descrição de eventos, o resultado é no máximo satisfatório, com aquele gostinho de "poderia ser melhor".
 

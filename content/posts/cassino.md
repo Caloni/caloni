@@ -4,7 +4,6 @@ categories:
 date: '2016-02-10'
 link: https://www.imdb.com/title/tt0112641
 tags:
-- draft
 title: Cassino
 ---
 
@@ -14,7 +13,7 @@ O filme nos dá dois narradores em off: o responsável pelo Cassino mais bem-suc
 
 Sharon Stone aqui consegue a proeza de flertar com o caricatual e clichê -- uma prostituta que, apegada apenas ao seu cafetão e sufocada pelo controlador De Niro -- e criar uma personagem de carne e osso, temperamental, e, como quase todo mundo, tentando se salvar em um mundo que desaba a olhos vistos, graças, ironicamente, ao perfeccionismo e excelência de Rothstein, incapaz de aliciar incompetentes, quem quer que sejam, mesmo que isso custe o apoio de homens mais poderosos que a máfia italiana no deserto dos EUA: os políticos de lá.
 
-Joe Pesci faz aqui o que fez em Os Bons Companheiros bem melhor, mas ainda assim protagoniza alguns dos momentos mais memoráveis da cinegrafia violenta do diretor. Os saltos morais que ele dá, principalmente no terceiro ato do filme, são mostrados de uma maneira sutil, mas não deixam de ser reprováveis, e é quando ele perde o apoio do espectador (já havia perdido do diretor, um, acredite ou não, moralista).
+Joe Pesci faz aqui o que fez em Os Bons Companheiros bem melhor, mas ainda assim protagoniza alguns dos momentos mais memoráveis da cinegrafia violenta do diretor. Os saltos morais que ele dá, principalmente no terceiro ato do filme, são mostrados de uma maneira sutil, mas não deixam de ser reprováveis, e é quando ele perde o apoio do espectador tendo já havia perdido do seu diretor, que alguns talvez saibam que é um moralista disfarçado.
 
 E De Niro consegue manter o controle e a compreensão do espectador ao mostrar alguém disposto a arriscar até um casamento que tem tudo para dar errado, mas que tenta manter o controle ainda assim. Sua administração no Cassino é invejável, e ao sabermos que o único "crime" -- exceto explorar a ambição alheia -- é sonegar impostos, ganha a simpatia do público. O problema é quando as coisas começam a sair do controle, e vemos o quão longe vai a obsessão do sujeito, tratando sua esposa como propriedade e seu amigo como um incômodo para os negócios. Se fosse um empreendedor em um negócio com menos política, seria o próximo bilionário da Forbes. Por cair na tentação de voar sozinho e mais alto, arriscou alto demais.
 

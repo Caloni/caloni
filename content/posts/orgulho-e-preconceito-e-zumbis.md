@@ -5,7 +5,6 @@ date: '2016-02-12'
 link: https://www.imdb.com/title/tt1374989
 tags:
 - cinemaqui
-- draft
 title: Orgulho e Preconceito e Zumbis
 ---
 

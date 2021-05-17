@@ -5,7 +5,6 @@ date: '2016-02-17'
 link: https://www.imdb.com/title/tt4284010
 tags:
 - cinemaqui
-- draft
 title: What Happened, Miss Simone?
 ---
 
@@ -17,7 +16,7 @@ Esse desejo logo é rejeitado pela instituição onde tenta ser aprovada; não p
 
 Auxiliado pelo testemunho de sua filha, Lisa Celeste Stroud, que também é produtora, de seu ex-marido, seu ex-colega de banda e um inusitado amigo, o filme consegue revelar bastante sobre a persona de Simone como cantora e como pessoa, mas a sensação é só conseguir capturar sua essência durante suas performances em palco. Dona de uma voz extremamente diferente para cantoras femininas, Nina consegue expressar as letras da música que toca de uma forma que parecem torná-las únicas naquele momento.
 
-Há na história, claro, seus momentos de ativista, quando vai convergindo aos poucos todo seu repertório para temas políticos. Nina participa de maneira tão intensa essa sua fase que sempre a vemos do lado de revolucionários extremistas. Em deteterminado momento diz que fulana a ensinou muitas coisas sobre Marx e Lênin. Em outro momento ela mesma admite que os negros só conseguiram a paz que tanto almejam se criarem seu próprio Estado. Engajada através de sua arte, percebemos que essa é a maneira que ela encontrou para gritar para o mundo o seu desespero interno. E o filme também se engaja, sempre mostrando em seu primeiro ato como o sucesso como cantora e o seu enriquecimento ainda não são suficientes para preencher uma necessidade interna de sua existência. Pelo jeito, a recusa da instituição musical custou caro aos sentimentos da artista.
+Há na história, claro, seus momentos de ativista, quando vai convergindo aos poucos todo seu repertório para temas políticos. Nina participa de maneira tão intensa essa sua fase que sempre a vemos do lado de revolucionários extremistas. Em deteterminado momento diz que fulana a ensinou muitas coisas sobre Marx e Lênin. Em outro momento ela mesma admite que os negros só conseguirão a paz que tanto almejam se criarem seu próprio Estado. Engajada através de sua arte, percebemos que essa é a maneira que ela encontrou para gritar para o mundo o seu desespero interno. E o filme também se engaja, sempre mostrando em seu primeiro ato como o sucesso como cantora e o seu enriquecimento ainda não são suficientes para preencher uma necessidade interna de sua existência. Pelo jeito, a recusa da instituição musical custou caro aos sentimentos da artista.
 
 Porém, os melhores momentos são os últimos, onde vemos uma sequência de anos e décadas sendo narrada de uma maneira coesa e tão intensa quanto os anos 60. Sua fuga para Libéria e retomada da carreira na Suíça são ganchos para que voltemos a ser convidados a entender novamente quem é Nina Simone.
 

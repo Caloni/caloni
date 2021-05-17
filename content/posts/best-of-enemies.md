@@ -4,7 +4,6 @@ categories:
 date: '2016-02-17'
 link: https://www.imdb.com/title/tt3518012
 tags:
-- draft
 title: Best of Enemies
 ---
 
