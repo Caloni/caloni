@@ -10,6 +10,8 @@ toc: true
 ---
 Este artigo é para organizar meu raciocínio e pesquisa para uma passagem de conhecimento na empresa. Foi sugerido ensinar um pouco do que é possível fazer para acelerar um pouco o desenvolvimento de um programador no dia-a-dia, não só para codificar, mas para todo o resto que consome bem mais tempo.
 
+Lembrando que as sugestões foram bem vagas e gerais, então essa é só uma pincelada pessoal sobre os assuntos; nada muito objetivo. As perguntas podem vir depois.
+
 ## Como buscar por melhores resultados nas pesquisas
 
  - Não use o Google como Banco de Dados. O seu Cérebro é o Banco de Dados. Use o Google como um índice remissivo do seu cérebro. Use livros e artigos densos para alimentar seu Banco de Dados.
@@ -26,27 +28,27 @@ Como diria Caloni:
 
 Como diria [edw519], um dos membros mais populares do Hacker News:
 
- - Alguns caminhos são melhores que outros, mas qualquer caminho é melhor que nenhum.
+ - Alguns caminhos são melhores que outros, mas qualquer caminho é melhor que nenhum. Ex: fazer API HTTP com tudo GET.
 
- - Comece com a resposta, então trabalhe ao contrário.
+ - Comece com a resposta, então trabalhe ao contrário. Ex: quero uma API HTTP, então começo chamando.
 
- - É muito mais fácil julgar algo que já existe que definir algo que não existe.
+ - É muito mais fácil julgar algo que já existe que definir algo que não existe. Ex: uma API HTTP com tudo GET é feio, mas dá pra melhorar (porque já existe).
 
- - Esteja preparado para cavar quantos níveis de detalhe precisar para entender.
+ - Esteja preparado para cavar quantos níveis de detalhe precisar para entender ("um hacker é uma pessoa que sabe exatamente o que acontece quando se pressiona um botão do teclado").
 
- - Não ligue o computador a menos que você tenha uma tarefa específica.
+ - Não ligue o computador a menos que você tenha uma tarefa específica (para pessoas que trabalham em lugares que você não ganha pelo tempo sentado).
 
- - Beleza é importante, mas entrega é mais importante.
+ - Beleza é importante, mas entrega é mais importante. Ex: a API HTTP GET tá pronta e pro usuário funcional; próxima versão a gente melhora.
 
- - Mantenha extremamente simples no começo. Complique conforme avança.
+ - Mantenha extremamente simples no começo. Complique conforme avança. Ex: para mexer na API HTTP GET tem um ponto de entrada cheio de ifs; agora comece a criar funções e outros pontos de entrada.
 
- - Codifique todos os dias.
+ - Codifique todos os dias (memória muscular).
 
 Como diria René Descartes, um cara não muito popular nas rodinhas da Idade Média:
 
- - Cada problema que eu resolvo se torna uma regra que serve mais tarde para resolver outros problemas.
+ - Cada problema que eu resolvo se torna uma regra que serve mais tarde para resolver outros problemas. Ex: se o problema é perder tempo com uma tarefa repetitiva ache uma maneira mais automática de fazer a mesma tarefa.
 
-Para além disso, ou problemas modernos de déficit de atenção, leia livros:
+Para além disso, ou problemas modernos de déficit de atenção enquanto compila (galerinha do C++ e do Rust), leia livros:
 
  - [The ONE Thing], de Gary Keller ("There will always be just a few things that matter more than the rest, and out of those, one will matter most").
 
@@ -56,25 +58,29 @@ Para além disso, ou problemas modernos de déficit de atenção, leia livros:
 
 ## Atalhos nos terminais (Linux e Windows) e como encontrar atalhos
 
- - Em ambos, para navegar entre diretórios mantendo o histórico: pushd, popd.
+ - Ententa a estrutura de diretórios e arquivos do seu sistema; organize (do seu jeito, mas organize).
 
- - Para buscar por arquivos no Windows dir; para buscar por arquivos no Linux find; use the manual.
+ - Em ambos SOs, para navegar entre diretórios mantendo o histórico: pushd, popd.
 
- - Como encontrar mais atalhos: Google? (Falar sobre como atalhos no Vim são customizados por cérebro.)
+ - Para buscar por arquivos no Windows dir; para buscar por arquivos no Linux find; use o manual.
 
- - Caso de uso: como eu encontrava atalhos e janelas escondidas no Visual Studio.
+ - Como encontrar mais atalhos: encontre o subconjunto que você usa. Ex: atalhos das tarefas mais comuns do seu editor favorito.
 
- - Caso de uso 2: como eu decorava atalhos no Vim.
+ - Caso de uso #1: como eu encontrava atalhos e janelas escondidas no Visual Studio.
+
+ - Caso de uso #2: como eu decorava atalhos no Vim.
 
 ## Ferramentas úteis para análise
 
+> A lenda conta que em uma competição para ver quem cortava a árvore mais rápido, o lenhador mais velho passou a maior parte do tempo amolando o machado, enquanto o competidor mais jovem dedicou-se em golpear a árvore com toda a sua força. Quando o jovem estava no meio do tronco o competidor mais experiente começou a cortar sua árvore.
+
 Como diria, edw519, um dos membros mais populares do Hacker News:
 
- - Use a ferramenta certa para o trabalho certo.
+ - Use a ferramenta certa para o trabalho certo. Ex: Vim para tudo.
 
- - Quase qualquer ferramenta pode fazer o trabalho. Algumas são melhores que outras.
+ - Quase qualquer ferramenta pode fazer o trabalho. Algumas são melhores que outras. Ex: uma leiteira é multiuso.
 
- - Lembre-se dos padrões que você usou antes. Você irá usá-los novamente.
+ - Lembre-se dos padrões que você usou antes. Você irá usá-los novamente. Ex: atalho chato no Visual Studio para economizar dez digitações por uma.
 
 ### Process Explorer e como encontrar quem travou seu arquivo
 
@@ -120,6 +126,8 @@ Como diria, edw519, um dos membros mais populares do Hacker News:
 
 ### Ferramentas UNIX (desde 1970 por aí)
 
+ - Turbinar Windows usando Git (sed, grep, ls): colocar no path do usuário ou do sistema.
+
  - Grep: buscar coisas dentros dos arquivos.
 
  - Sed: modificar coisas dentros dos arquivos.
@@ -134,22 +142,17 @@ Como diria, edw519, um dos membros mais populares do Hacker News:
 
  - Awk: poder dos programadores de Asgard; use o guia GNU.
 
-#### Git para ter grep, sed, tail e awk no seu Windows
+### Git
 
- - Path do usuário e do sistema; tome o poder para você; sussurro: \Program Files\Git\usr\bin.
-
-## Ferramentas do dia-a-dia
-
-> A lenda conta que em uma competição para ver quem cortava a árvore mais rápido, o lenhador mais velho passou a maior parte do tempo amolando o machado, enquanto o competidor mais jovem dedicou-se em golpear a árvore com toda a sua força. Quando o jovem estava no meio do tronco o competidor mais experiente começou a cortar sua árvore.
-
-### Git mais uma vez, e como usar de verdade (comandos esotéricos como cherry-pick)
-
- - Leia [o livro] pelamordedeus.
+ - Leia [o livro] na segunda vez que ficar confuso usando Git fazendo a mesma coisa.
 
  - Encanamento: Git é um map de chave/valor em arquivo.
 
  - Porcelana: Git é uma lista encadeada de arquivos patch.
 
+ - Comandos esotéricos: cherry-pick, rebase, squash, revert, sub-tree.
+
+### Perguntas?
 
 [edw519]: /the-best-of-edw519
 [Flow]: /flow
