@@ -10,6 +10,8 @@ toc: true
 ---
 Este artigo é para organizar meu raciocínio e pesquisa para uma passagem de conhecimento na empresa. Foi sugerido ensinar um pouco do que é possível fazer para acelerar um pouco o desenvolvimento de um programador no dia-a-dia, não só para codificar, mas para todo o resto que consome bem mais tempo.
 
+> macete1 /ê/ substantivo masculino 1.  m.q. MACETA ('pequeno instrumento'). 2. tipo de martelo us. para esculpir em madeira ou, em trabalhos de carpintaria e marcenaria, para bater nos cabos dos formões.
+
 Lembrando que as sugestões foram bem vagas e gerais, então essa é só uma pincelada pessoal sobre os assuntos; nada muito objetivo. As perguntas podem vir depois.
 
 ## Como buscar por melhores resultados nas pesquisas
