@@ -2,6 +2,7 @@
 categories:
 - blog
 date: '2021-05-22'
+draft: true
 link:
 tags:
 - draft
@@ -21,6 +22,10 @@ title: Eniwine2
 
  - Caloni (3.5): Esse manteve o aroma e é muito bom; o corpo é mais leve mas lembra as cavas de vinícolas. Frutado para azedo, meio amargo, ainda quente. Cor é bem agradável.
 
+### Rótulo 6
+
+ - Caloni (3.5): Gostoso de beber. Tem um frutado azedo, um corpo leve, provavelmente um vinho jovem ou com pouco tempo de reserva. Pode ser um Malbec ou um blend.
+
 ### Rótulo 8
 
  - Caloni (3.5): Desses amadeirados envelhecidos. Ainda alcoólico. Pouco frutado, mas não é vegetal nem mineral. Cor bonita.
@@ -28,6 +33,10 @@ title: Eniwine2
 ### Rótulo 9
 
  - Caloni (4.5): Amadeirado, sim, mas mais amargor e envelhecimento se sente. A cor é de envelhecido. Há tons de madeira no sabor (tostado). Corpo médio para leve. Elegante. Muito bom.
+
+### Rótulo 10
+
+ - Caloni (4.0): Que vinho fácil de beber. O corpo é leve pra médio, o sabor é gostosinho, frutado vermelho ou algo do tipo.
 
 ### Rótulo 11
 
