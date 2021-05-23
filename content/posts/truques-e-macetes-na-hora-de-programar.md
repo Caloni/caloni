@@ -60,7 +60,7 @@ Para além disso, ou problemas modernos de déficit de atenção enquanto compil
 
 ## Atalhos nos terminais (Linux e Windows) e como encontrar atalhos
 
- - Ententa a estrutura de diretórios e arquivos do seu sistema; organize (do seu jeito, mas organize).
+ - Entenda a estrutura de diretórios e arquivos do seu sistema; organize (do seu jeito, mas organize).
 
  - Em ambos SOs, para navegar entre diretórios mantendo o histórico: pushd, popd.
 
