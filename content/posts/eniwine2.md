@@ -2,7 +2,6 @@
 categories:
 - blog
 date: '2021-05-22'
-draft: true
 link:
 tags:
 - draft
