@@ -4,7 +4,6 @@ categories:
 date: '2016-02-22'
 link: https://www.imdb.com/title/tt2510894
 tags:
-- draft
 title: Hotel Transilvânia 2
 ---
 

@@ -4,7 +4,6 @@ categories:
 date: '2016-02-27'
 link: https://www.imdb.com/title/tt0107207
 tags:
-- draft
 title: Em Nome do Pai
 ---
 
@@ -14,7 +13,7 @@ Conta a história absurda (mas verídica) de Gerry Conlon, um homem condenado er
 
 A passagem do tempo no filme é capenga. O filme é curto para isso. No entanto, as mudanças psicológicas que ocorrem com seus personagens funciona, e a facilidade com que Daniel Day-Lewis consegue carregar uma persona dúbia, um anti-herói desfigurado pelo trauma de uma vida nada fácil, aliado à visão autoritária e ardilosa dos representantes do governo, dispostos a tudo para manter a ilusão de ordem frente às revoltas nacionalistas irlandesas.
 
-O papel do pai no filme não está só no título, mas tem valor simbólico. É inimaginável o destino desse personagem na vida real, e revoltante em todos os aspectos sua peregrinação por justiça. É seu trapo branco erguida no começo do filme para salvar o filho que se mantém simbolicamente erguido por quinze anos seguidos, sem atirar nenhuma bala. Pete Postlethwaite faz um sujeito convicto de suas ações, mas incerto do mundo que vive, cuja noção de certo e errado se desmorona diante de seus olhos.
+O papel do pai no filme não está só no título, mas tem valor simbólico. É inimaginável o destino desse personagem na vida real, e revoltante em todos os aspectos sua peregrinação por justiça. É seu trapo branco erguido no começo do filme para salvar o filho que se mantém simbolicamente levantado por quinze anos seguidos, sem atirar nenhuma bala. Pete Postlethwaite faz um sujeito convicto de suas ações, mas incerto do mundo que vive, cuja noção de certo e errado desmorona diante de seus olhos.
 
 Com dois gigantes representando pai e filho, Emma Thompson não tem muito tempo de tela, e vira uma mera figurante de luxo que consegue unir o emocional ao racional, e fazer parte da identificação do espectador com a resolução daquele problema que parece insolúvel. Sua última cena representa isso, e o motivo de estar lá.
 

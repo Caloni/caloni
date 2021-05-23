@@ -4,7 +4,6 @@ categories:
 date: '2016-02-19'
 link: https://www.imdb.com/title/tt0060675
 tags:
-- draft
 title: Masculino-Feminino
 ---
 
@@ -16,4 +15,4 @@ Porém, não há história que abrace o que está sendo dito. Talvez experimenta
 
 Com uma linda fotografia P&B que serve quase como um documentário da época, a Guerra do Vietnã é o foco, e com isso o roteiro (do próprio Godard baseado em histórias de Guy de Maupassant) aproveita e questiona, ou melhor dizendo, joga questões não-respondidas, sobre política. Ele está conversando com o espectador, mas usa seus personagens todo o tempo. Ele não precisa de uma narrativa para mostrá-las, pois apenas a curiosidade em torno dos jovens é suficiente.
 
-Talvez o único defeito grande do filme é ficar sem moral, ou um fechamento chamativo. No entanto, está tudo lá, espalhado no meio da "história". Se fala de prostitutas como se fala de romance, ou de gravidez como se fala de pessoas morrendo na Índia. É uma coletânea de fatos e ficção entrelaçados em torno de nada. Se não há moral nesse experimento, não há como criticar ou julgar seus personagens e seu idealizados. Uma solução covarde ou uma plataforma de testes. Ainda assim, fascinante.
+Talvez o único defeito grande do filme é ficar sem moral, ou um fechamento chamativo. No entanto, está tudo lá, espalhado no meio da "história". Se fala de prostitutas como se fala de romance, ou de gravidez como se fala de pessoas morrendo na Índia. É uma coletânea de fatos e ficção entrelaçados em torno de nada. Se não há moral nesse experimento, não há como criticar ou julgar seus personagens e seu idealizador. Uma solução covarde ou uma plataforma de testes. Ainda assim, fascinante.
