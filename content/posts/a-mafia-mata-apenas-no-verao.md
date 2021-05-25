@@ -4,7 +4,6 @@ categories:
 date: '2016-04-10'
 link: https://www.imdb.com/title/tt3374966
 tags:
-- draft
 title: A Máfia Mata Apenas no Verão
 ---
 
