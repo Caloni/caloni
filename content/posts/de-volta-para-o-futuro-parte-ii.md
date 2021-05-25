@@ -4,8 +4,7 @@ categories:
 date: '2016-03-20'
 link: https://www.imdb.com/title/tt0096874
 tags:
-- draft
-title: De Volta para o Futuro Parte II
+title: De Volta para o Futuro II
 ---
 
 Quatro anos depois do sucesso do filme sobre viagem no tempo, o diretor Robert Semeckis e seu companheiro de roteirização Bob Gale planejam uma continuação em duas partes, o que criaria um desfecho de uma trilogia em dois passos. Para isso, dois roteiros foram produzidos e filmados praticamente ao mesmo tempo.

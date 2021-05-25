@@ -4,7 +4,6 @@ categories:
 date: '2016-03-19'
 link: https://www.imdb.com/title/tt1213663
 tags:
-- draft
 title: Heróis de Ressaca
 ---
 
@@ -14,7 +13,7 @@ No entanto, há uma história aí. Se trata de um homem que não conseguiu tocar
 
 Obviamente ele precisa de ajuda, e vai buscar terapia tentando reunir seus amigos de outrora para finalizar o que havia começado quando ainda adolescente. Meio que realizando um pequeno milagre (explicável) ao realmente reunir todos para essa "aventura", o que se passa depois faz par com Um Drink no Inferno.
 
-O que parecia incômodo se torna bizarro, digno de um terror B de 50 anos atrás. Porém, há uma interessante questão sobre o conflito do politicamente correto, e a padronização de pessoas, lugares, comportamentos. Isso parece a evolução vista de longe (talvez até de outra galáxia), mas permanece uma dúvida: isso é liberdade? O que abre outra questão: o que é liberdade?
+O que parecia incômodo se torna bizarro, digno de um terror B de 50 anos atrás. Porém, há uma interessante questão sobre o conflito do politicamente correto, e a padronização de pessoas, lugares, comportamentos. Isso é a evolução vista de longe (talvez até de outra galáxia), mas permanece uma dúvida: isso é liberdade? O que abre outra questão: o que é liberdade?
 
 Nem todos os atores estão confortáveis em seus papéis. Pegg obviamente está. Seu parceiro eterno, interpretado em sua versão quarentona por Nick Frost, faz o que podemos chamar de arco, e é bem-humorado o suficiente para funcionar.
 

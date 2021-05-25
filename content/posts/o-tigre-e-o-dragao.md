@@ -4,7 +4,6 @@ categories:
 date: '2016-03-15'
 link: https://www.imdb.com/title/tt0190332
 tags:
-- draft
 title: O Tigre e o Dragão
 ---
 

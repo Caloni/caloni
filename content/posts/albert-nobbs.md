@@ -4,7 +4,6 @@ categories:
 date: '2016-03-27'
 link: https://www.imdb.com/title/tt1602098
 tags:
-- draft
 title: Albert Nobbs
 ---
 
@@ -14,9 +13,9 @@ Disfarçada de homem por toda a vida, Albert almeja conseguir se erguer com seus
 
 Do seu lado, a simplesmente bela e jovem Mia Wasikowska tem uma vida mais "fácil", não valorizando o bem que possui desde o nascimento. Por conta disso, o desperdiça com um jovem aventureiro (Aaron Taylor-Johnson), que é colocado como vítima das circunstâncias. Essa é a parte da luxúria no filme, mais um pecado capital para harmonizar esse universo carente de virtudes.
 
-A própria Nobbs é um "sujeito" mesquinho e incapaz de se socializar. Não é preciso dizer, ele também é visto como vítima das circunstâncias. Ele quantifica em xelins seu investimento para cortejar uma garota afim de colocar seu plano em prática. E ele simplesmente não consegue fazer uma pergunta direta para a única pessoa que parece ter dado certo nesse mundo: como você conseguiu?
+A própria Nobbs é um "sujeito" mesquinho e incapaz de se socializar. Não é preciso dizer, ele também é visto como vítima das circunstâncias. Ele quantifica em xelins seu investimento para cortejar uma garota afim de colocar seu plano em prática. E ele simplesmente não consegue fazer a pergunta direta para a única pessoa que tem dado certo nesse mundo: como você conseguiu?
 
-Ingênua por pertencer a um mundo tão fechado que lhe priva de exibir seus próprios seios, mas acidentalmente apreciada como um garçom que possui uma sensibilidade acima da média dos glutões que habita o hotel, incluindo o beberrão amante da dona, que a trai com outra serviçall. Nobbs sabe quais as flores certas para determinada hóspede, e não levanta suspeitas. Não se sabe se isso é um detalhe fantasioso do filme ou a atuação visceral de Close.
+Ingênua por pertencer a um mundo tão fechado que lhe priva de exibir seus próprios seios, mas acidentalmente apreciada como um garçom que possui uma sensibilidade acima da média dos glutões que habita o hotel, incluindo o beberrão amante da dona, que a trai com outra serviçal. Nobbs sabe quais as flores certas para determinada hóspede, e não levanta suspeitas. Não se sabe se isso é um detalhe fantasioso do filme ou a atuação visceral de Close.
 
 A direção de Rodrigo García (do péssimo Passageiros) não faz jus ao conteúdo. Com uma direção de arte que lembra seriados televisivos britânicos como Call The Midwife, pela ausência de recursos e tratamento mais realistas, ou por cenários excessivamente limpos para uma época que muitos morriam de febre, a direção também peca pela simplicidade e leveza que perturba. Porém, a calma com que conduz a história e apresenta visualmente seus personagens e os delírios de Nobbs quase compensam a modesta produção.
 
