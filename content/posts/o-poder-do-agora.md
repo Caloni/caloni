@@ -84,3 +84,27 @@ A partir daí, não existem problemas, apenas situações no momento, que podem 
 > O ego precisa de alimento e proteção o tempo todo. Tem necessidade de se identificar com coisas externas, como propriedades, status social, trabalho, educação, aparência física, habilidades especiais, relacionamentos, história pessoal e familiar, ideais políticos e crenças religiosas. Só que nada disso é você.
 
 > O segredo da vida é “morrer antes que você morra” – e descobrir que não existe morte.
+
+## Terceiro Capítulo
+
+> O tempo e a mente são inseparáveis. Tire o tempo da mente e ele para, a menos que você escolha utilizá-lo.
+
+> Estar identificado com a mente é estar preso ao tempo. É a compulsão para vivermos quase exclusivamente através da memória ou da antecipação. Isso cria uma preocupação infinita com o passado e o futuro, e uma relutância em respeitar o momento presente e permitir que ele aconteça.
+
+> O tempo não tem nada de precioso, porque é uma ilusão. Aquilo que achamos ser precioso não é o tempo, mas um ponto que está fora dele: o Agora. Isso é realmente precioso. Quanto mais nos concentramos no tempo, no passado e no futuro, mais perdemos o Agora, a coisa mais importante que existe.
+
+> Por que o Agora é a coisa mais importante que existe? Primeiramente, porque é a única coisa. É tudo o que existe. O eterno presente é o espaço dentro do qual se desenvolve toda a nossa vida, o único fator que permanece constante. A vida é agora. Nunca houve uma época em que a nossa vida não fosse agora, nem haverá. Em segundo lugar, o Agora é o único ponto que pode nos conduzir para além das fronteiras limitadas da mente. É o nosso único ponto de acesso à área atemporal e amorfa do Ser.
+
+> Toda a essência do zen consiste em caminhar sobre o fio da navalha do Agora, em estar tão absolutamente presente que nenhum problema, nenhum sofrimento, nada que não seja quem somos em essência, possa permanecer em nós.
+
+> Não teremos qualquer dúvida de que o tempo psicológico é uma doença mental se olharmos para as suas manifestações coletivas. Elas ocorrem, por exemplo, na forma de ideologias como o comunismo, o nacional-socialismo ou qualquer nacionalismo, ou de sistemas rígidos de crenças religiosas, que atuam na suposição implícita de que o bem maior repousa no futuro e que, portanto, o fim justifica os meios. O fim é uma ideia, um ponto na mente projetado no futuro, quando a salvação, sob a forma de felicidade, satisfação, igualdade, libertação, etc., será alcançada. Muitas vezes, os meios para atingir o fim são a escravidão, a tortura e o assassinato de pessoas no presente.
+
+> Não há salvação dentro do tempo. Você não pode se libertar no futuro. A presença é a chave para a liberdade. Portanto, você só pode ser livre agora.
+
+> Caso apareça uma situação com a qual você precise lidar agora, a sua ação vai ser clara e objetiva, se conseguir perceber o momento presente. Tem muito mais chances de dar certo. Não será uma reação vinda do condicionamento da sua mente no passado, mas sim uma resposta intuitiva à situação. Em situações em que a mente teria reagido, você vai achar mais eficaz não fazer nada. Fique só centrado no Agora.
+
+> A ausência de alegria, naturalidade ou leveza no que estamos fazendo não significa, necessariamente, que precisemos mudar o que estamos fazendo. Talvez baste mudarmos o como. “Como” é sempre mais importante do que “o que”. Verifique se você pode dar muito mais atenção ao fazer do que ao resultado desejado através do fazer. Dê toda a sua atenção ao que quer que o momento apresente. Isso implica que você aceitou totalmente o que é, porque não se pode dar atenção completa a alguma coisa e, ao mesmo tempo, resistir a ela.
+
+> Portanto, não se preocupe com o resultado da sua ação, basta dar atenção à ação em si. O resultado surgirá espontaneamente. Essa é uma valiosa prática espiritual. No Bhagavad Gita, um dos mais antigos e mais belos ensinamentos espirituais que existem, o desapego ao resultado da ação é chamado Karma Yoga. É descrito como o caminho da “ação santificada”.
+
+> Tudo inspira respeito, mas nada importa. As formas nascem e morrem, ainda que estejamos conscientes de uma eternidade subjacente às formas. Sabemos que “nada de verdade pode ser ameaçado”.3 Quando esse é o seu estado de Ser, como é possível não alcançar o sucesso? Você já o alcançou.
