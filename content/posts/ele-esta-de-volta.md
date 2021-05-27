@@ -4,7 +4,6 @@ categories:
 date: '2016-04-16'
 link: https://www.imdb.com/title/tt4176826
 tags:
-- draft
 title: Ele Está de Volta
 ---
 
@@ -12,7 +11,7 @@ Um filme que corre o risco de ser apenas alemão. Falado em alemão, dirigido na
 
 E, é claro, é um filme para defender os pobres imigrantes.
 
-Dirigido por David Wnendt ("Zonas Úmidas"), que co-roteiriza com nada menos que cinco pessoas, a história começa quando Hitler acorda de um sono profundo em 2014, bem no local onde foi seu bunker dos dias finais da Segunda Guerra. Aos poucos se adaptando à realidade de uma nova era (embora não pareça se importar com muitas das diferenças, nem com ter viajado no tempo de maneira assombrosa), Hitler (Oliver Masucci) encontra suporte em Fabian (Fabian Busch), um cineasta/video-amador fracassado que tem um bom coração, é tímido e mora com a mãe. Realizando uma viagem com Hitler para... bem... campanha?, os dois passam por alguns momentos engraçadinhos que seriam engraçadinhos com qualquer figura pública, não particularmente Hitler. É que a figura do ditador (eleito democraticamente) é fascinante demais para o povo alemão, cercado de tantas proibições (inclusive seu livro autobiográfico) que dá a sensação de ser algo além do que um baixinho que representava a opinião de milhões de alemães àquela época.
+Dirigido por David Wnendt ("Zonas Úmidas"), que co-roteiriza com nada menos que cinco pessoas, a história começa quando Hitler acorda de um sono profundo em 2014, bem no local onde foi seu bunker dos dias finais da Segunda Guerra. Aos poucos se adaptando à realidade de uma nova era (embora não pareça se importar com muitas das diferenças, nem com ter viajado no tempo de maneira assombrosa), Hitler (Oliver Masucci) encontra suporte em Fabian (Fabian Busch), um cineasta/video-amador fracassado que tem um bom coração, é tímido e mora com a mãe. Realizando uma viagem com Hitler para... bem... uma campanha? Os dois passam por alguns momentos engraçadinhos que seriam engraçadinhos com qualquer figura pública, não particularmente Hitler. É que a figura do ditador (eleito democraticamente) é fascinante demais para o povo alemão, cercado de tantas proibições (inclusive seu livro autobiográfico) que dá a sensação de ser algo além do que um baixinho que representava a opinião de milhões de alemães àquela época.
 
 E que pode estar representando agora. Tentando unir as recentes ideias extremistas da Europa frente à crise financeira e à vinda massiva de imigrantes, que se aproveita das benesses de um governo socialista -- com prazo de validade vencido -- Hitler acaba sendo um pop star na televisão, na internet e nos jornais. Como que um efeito mola, o que era inadmissível se torna novamente a voz do povo. Em torno disso há uma história bobinha envolvendo uma guerra de diretores da emissora (chamada MyTV... OMG) e um romance batidíssimo entre o Fabian e a recepcionista.
 

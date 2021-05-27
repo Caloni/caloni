@@ -4,7 +4,6 @@ categories:
 date: '2016-04-24'
 link: https://www.imdb.com/title/tt1931533
 tags:
-- draft
 title: Sete Psicopatas e um Shih Tzu
 ---
 
@@ -16,7 +15,7 @@ Não por acaso. O roteirista (e diretor), Martin McDonagh ("Na Mira do Chefe"), 
 
 Temos também Christopher Walken que é Hans, em mais um papel memorável, ao lado de sua mulher, Myra (Linda Bright Clay), que acaba de operar um câncer. Sua história é a mais encantadora, e não é preciso muito esforço para gostar dela mesmo sabendo de todo o processo de criação e subversão das expectativas.
 
-E esse é um filme que tenta subverter tudo, descontruir todos os estereótipos sobre filmes com violência, e a mostra abundantemente, sempre gráfica demais, inverossímil demais e ligeiramente deslocada. Ele está representado visualmente como uma prostituta que irá vestir um cinto de dinamites como parte da vingança de um ex-soldado vietnamita (que próximo do final vira outra coisa -- não que nos importemos -- muito mais genial).
+E esse é um filme que tenta subverter tudo, desconstruir todos os estereótipos sobre filmes com violência, e a mostra abundantemente, sempre gráfica demais, inverossímil demais e ligeiramente deslocada. Ele está representado visualmente como uma prostituta que irá vestir um cinto de dinamites como parte da vingança de um ex-soldado vietnamita (que próximo do final vira outra coisa -- não que nos importemos -- muito mais genial).
 
 Até as listas, tão famosas em filmes Tarantinescos, aqui recebe um tratamento especial, quando um elemento número 7 é, ao mesmo tempo, o número 1. Ah, e as mulheres morrem. Aos montes. E são burras, vulgares, passageiras. Nem essa parte nobre do cineasta responsável por Kill Bill sai ilesa. O filme flerta perigosamente em se tornar ruim discutindo porque tantos filmes com esse mesmo plot acabam sendo ruins.
 
