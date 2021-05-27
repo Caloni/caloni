@@ -5,7 +5,6 @@ date: '2016-05-14'
 link: https://www.imdb.com/title/tt4466336
 tags:
 - cinemaqui
-- draft
 title: Os Anarquistas
 ---
 
@@ -13,7 +12,7 @@ Uma névoa cinzenta cobre a fotografia de Os Anarquistas, um filme que trata mai
 
 E vitória, para eles, é o fim da burguesia e do protetor-mor dessa classe, o Estado. Não há nada no lugar, pois o capitalismo ainda é uma sombra do que irá se tornar, e os conceitos de propriedade privada seriam elementos mais de discordância do que de harmonia nas vozes desses intelectuais. O filme nos coloca no centro dessa mini-revolução idealista através dos olhos de Jean (Tahar Rahim), um policial infiltrado que igualmente não vê esperança em seu destino se continuar onde está. Ambicioso e prático, larga sua namorada deixando de presente um livro que ele gosta.
 
-O grupo principal, que mora em uma casa grande e burguesa, é formado por pessoas simpáticas e com muito espaço para dúvidas e divergência, como mostra o primeiro e último debate político no bar onde se encontram. O grupo acompanhamos é dos mais radicais, que não acreditam no processo político para conseguir mais direitos aos trabalhadores.
+O grupo principal, que mora em uma casa grande e burguesa, é formado por pessoas simpáticas e com muito espaço para dúvidas e divergência, como mostra o primeiro e último debate político no bar onde se encontram. O grupo que acompanhamos é dos mais radicais, que não acreditam no processo político para conseguir mais direitos aos trabalhadores.
 
 Nesse sentido, o filme claramente define os limites entre o anarquismo e o comunismo -- ou socialismo -- da época. Infelizmente, a discussão termina por aí, e passamos a acompanhar mais sobre o romance entre Jean e Judith (Adèle Exarchopoulos, de Azul é a Cor Mais Quente), algo que não necessariamente gera tensão com o líder do grupo, Eugène (Guillaume Gouix), já que a bandeira do amor livre já fazia parte do pacote.
 
