@@ -17,13 +17,18 @@ Foi quase uma experiência em vínicolas industriais com visita comercial de car
 
 Vamos lá:
 
+
 ### Rótulo 1
 
  - Caloni 2021-05-15 (3.0): Doce, alcoólico, frutas maduras (ameixa?), corpo médio, levemente tânico, enjoativo. Cabernet.
  - Mitiko 2021-05-15 (3.5): Azedinho, estranho (cheiro?).
  - Caloni 2021-05-22 (3.0): Vinho doce, liquoroso. Talvez seja de sobremesa, mas mais provável colheita tardia. Agradável, mas talvez enjoativo com uma taça inteira. Malbec?
 
- E o vinho é... [Virtus Reservado Suave Cabernet Sauvignon 2020]: "Vinho de solo profundo, argiloso arenoso e fértil. Maceração leve de uma semana com a casca. Fermentação em tanques de aço inox com controle de temperatura. Apresenta coloração vermelho rubi de tonalidade intensa e viva. No aroma é franco, apresentando frutas negras e frutas vermelhas como amoras, mirtilo, morango, terroso e especiarias como a pimenta preta. Sem utilização de madeira de carvalho. Em boca apresenta paladar leve, agradável, corpo médio, taninos sedosos e sabor adocicado."
+E o vinho é... [Virtus Reservado Suave Cabernet Sauvignon 2020]: "Apresenta coloração vermelho rubi de tonalidade intensa e viva. No aroma é franco, apresentando frutas negras e frutas vermelhas como amoras, mirtilo, morango, terroso e especiarias como a pimenta preta. Sem utilização de madeira de carvalho. Em boca apresenta paladar leve, agradável, corpo médio, taninos sedosos e sabor adocicado."
+
+ - Acertos: corpo médio, taninos (leve vs sedoso), ameixa.
+ - Erros: Malbec vs Cabernet.
+
 
 ### Rótulo 2
 
@@ -31,7 +36,11 @@ Vamos lá:
  - Mitiko 2021-05-15 (~~1.5~~ 2.5): Gosto ruim meio Merlot, não-doce.
  - Caloni 2021-05-22 (2.5): Encorpado, mistura de doce com amargo, não é alcoólico, mas é vibrante demais. Cor escura.
 
- E o vinho é... [Cavic Meio Seco 2020]: "Vinho tinto elaborado pelas castas Bequignol, Sangiovese, Lambrusco Maestri, Meunier e Caberinta. De cor vermelho rubi brilhante e nariz muito vinoso. Em boca é suave, meio seco com leve presença de taninos, características que o tornam um vinho bem harmonioso."
+E o vinho é... [Cavic Meio Seco 2020]: "Vinho tinto elaborado pelas castas Bequignol, Sangiovese, Lambrusco Maestri, Meunier e Caberinta. De cor vermelho rubi brilhante e nariz muito vinoso. Em boca é suave, meio seco com leve presença de taninos, características que o tornam um vinho bem harmonioso."
+
+ - Acertos: amadeirado e/ou envelhecido vs "nariz muito vinoso" (?) e/ou leve presença de taninos.
+ - Erros: encorpado vs suave, Cabernet vs Blend Maluco.
+
 
 ### Rótulo 3
 
@@ -39,7 +48,11 @@ Vamos lá:
  - Mitiko 2021-05-15 (0.0): Parece mais Merlot, é ruim.
  - Caloni 2021-05-22 (3.0): Cor de envelhecido, mas corpo fraco e sabor lembram um Pinot Noir. Fácil de tomar, levemente vibrante, frutado e azedinho.
 
- E o vinho é... [Tierra Sur 2019]: "Este vinho segue é aromático, leve e versátil, com coloração vermelho rubi intenso, aromas florais remetendo a violetas, aromas de frutas negras, como ameixa, amora, jabuticaba, mirtilo e cereja preta, além de notas de especiarias. Em boca, é seco, com acidez média, taninos sedosos, corpo médio e álcool mediano."
+E o vinho é... [Tierra Sur 2019]: "Este vinho segue é aromático, leve e versátil, com coloração vermelho rubi intenso, aromas florais remetendo a violetas, aromas de frutas negras, como ameixa, amora, jabuticaba, mirtilo e cereja preta, além de notas de especiarias. Em boca, é seco, com acidez média, taninos sedosos, corpo médio e álcool mediano."
+
+ - Acertos: ácido vs acidez média, sabores sem fruta vs aromas florais (violetas) e especiarias, quente vs álcool mediano.
+ - Erros: cor transparente vs rubi intenso, sabores sem frutas vs frutas negras (ameixa, amora, jabuticaba, mirtilo, cereja preta).
+
 
 ### Rótulo 4
 
@@ -49,6 +62,10 @@ Vamos lá:
 
 E o vinho é... [Vecchia Cantina Chianti 2019]: "Apresenta coloração vermelho rubi, aromas de frutas vermelhas como amora, framboesa e cereja, acidez equilibrada, apresenta corpo médio e acidez equilibrada, álcool mediano e grande persistência com taninos marcantes e sedosos. É um vinho equilibrado e agradável de se tomar."
 
+ - Acertos: alcoólico vs álcool mediano.
+ - Erros: jovem vs taninos marcantes e sedosos, ácido vs acidez equilibrada, tosco vs agradável.
+
+
 ### Rótulo 5
 
  - Caloni 2021-05-15 (~~3.5~~ 4.0): Alcoólico, aroma agradável, corpo médio para forte e tânico, acidez (azedinho), uma uva próxima de Malbec sem ser Malbec? Frutado? Não a ponto de ser enjoativo, aroma de barrica.
@@ -57,13 +74,21 @@ E o vinho é... [Vecchia Cantina Chianti 2019]: "Apresenta coloração vermelho 
 
 E o vinho é... [Sunrise Cabernet Sauvignon 2020]: "Apenas as vinhas mais ensolaradas podem produzir este vinho de intensidade deslumbrante. De cor vermelho rubi, com notas de amora, groselha preta e chocolate, acompanha pratos de cordeiro e carnes vermelhas grelhadas e acompanha excepcionalmente queijos maduros como Gruyère ou Parmesão, bem como pratos picantes como fajitas de carne. Como um raio de sol na sua taça, este vinho é equilibrado e firme, intenso e harmonioso, com um sabor persistente no paladar."
 
+ - Acertos: frutado vs (amora, groselha preta), corpo médio para forte e tânico x intensidade deslumbrante.
+ - Erros: Malbec vs Cabernet.
+
+
 ### Rótulo 6
 
  - Caloni 2021-05-16 (3.5): Cara de Malbec. Alcoólico, semi-frutado, jovem com pouco tanino, pouco de vegetal? Ácido e azedo.
  - Mitiko 2021-05-16 (0.5): Esse é ruim, parece Merlot.
  - Caloni 2021-05-22 (3.5): Gostoso de beber. Tem um frutado azedo, um corpo leve, provavelmente um vinho jovem ou com pouco tempo de reserva. Pode ser um Malbec ou um blend.
 
-E o vinho é... [French Dog Merlot 2019]: "Vinificação Tradicional. Fermentação controlada em tanques de aço inoxidável. Notas de Prova: Vinho de cor vermelho rubi brilhante. Apresenta no aroma notas de frutas vermelhas negras como ameixa e amora, framboesa, groselha e mirtilo. Em boca, apresenta corpo médio, com taninos sedosos, acidez média e teor alcoólico equilibrado, sendo equilibrado e muito macio no paladar."
+E o vinho é... [French Dog Merlot 2019]: "Vinho de cor vermelho rubi brilhante. Apresenta no aroma notas de frutas vermelhas negras como ameixa e amora, framboesa, groselha e mirtilo. Em boca, apresenta corpo médio, com taninos sedosos, acidez média e teor alcoólico equilibrado, sendo equilibrado e muito macio no paladar."
+
+ - Acertos: semi-frutado vs fruta vermelhas negras (ameixa, amora, framboesa, groselha, mirtilo), Mitiko Merlot, ácido vs acidez média.
+ - Erros: Malbec vs Merlot, pouco de vegetal.
+
 
 ### Rótulo 7
 
@@ -73,6 +98,10 @@ E o vinho é... [French Dog Merlot 2019]: "Vinificação Tradicional. Fermentaç
 
 E o vinho é... [Rio Sol Reserva 2015]: "O Vinho apresenta coloração vermelho rubi intenso, com aromas de frutas vermelhas e negras maduras, como ameixa, cereja, figo framboesa e groselha, conciliadas com as notas de especiarias, como cravo e pimenta, e notas de cacau, café e tabaco provenientes da maturação em barricas de carvalho. Em boca, é encorpado, com acidez equilibrada, taninos sedosos e álcool mediano com grande persistência em boca."
 
+ - Acertos: amadeirado vs maturação em barricas de carvalho, ácido vs acidez equilibrada, tânico vs taninos sedosos, aroma doce vs aromas de frutas vermelhas e negras maduras (ameixa, cereja, figo, framboesa, groselha), super-encorpado vs encorpado.
+ - Erros: alcoólico vs álcool moderado?
+
+
 ### Rótulo 8
 
  - Caloni 2021-05-16 (2.0): Quente, amargo, encorpado. Bem amargo o retrogosto. Quase nada frutado. Mineral talvez? Parece envelhecido pelo tanino, mas com pouca madeira.
@@ -80,6 +109,10 @@ E o vinho é... [Rio Sol Reserva 2015]: "O Vinho apresenta coloração vermelho 
  - Caloni 2021-05-22 (3.5): Desses amadeirados envelhecidos. Ainda alcoólico. Pouco frutado, mas não é vegetal nem mineral. Cor bonita.
 
 E o vinho é... [San Valentin Garnacha 2018]: "Cor vermelho cereja escuro com brilho violeta. Aromas de frutas vermelhas, ameixas suculentas, figos secos e discretas notas de especiarias do Mediterrâneo. Generoso no álcool mas sem desequilíbrio, taninos macios, acidez correta e corpo médio."
+
+ - Acertos: envelhecido pelo tanino vs taninos macios, quente vs genroso no álcool.
+ - Erros: encorpado vs corpo médio, quase nada frutado vs aromas de frutas vermelhas (ameixas suculentas, figos secos).
+
 
 ### Rótulo 9
 
@@ -89,13 +122,21 @@ E o vinho é... [San Valentin Garnacha 2018]: "Cor vermelho cereja escuro com br
 
 E o vinho é... [Rio Claro Reserva Organico Carménère 2018]: "Este Rio Claro Reserva exemplifica muito bem as características da variedade. Com vermelho-rubi intenso, apresenta aromas de frutas vermelhas e negras maduras, como ameixa, amora, groselhas e cassis, que se integram com os aromas vegetais e herbáceos como manjericão e pimentão, e notas de baunilha e chocolate provenientes da maturação em barricas de carvalho."
 
+ - Acertos: parece envelhecido e amadeirado vs maturação em barricas de carvalho.
+ - Erros: aroma de geléia vs aromas de frutas vermelhas e negras maduras (ameixa, amora, groselhas e cassis).
+
+
 ### Rótulo 10
 
  - Caloni 2021-05-16 (5.0): Hoje é dia dos envelhecidos. Quentinho, ótimo corpo, pouco alcoólico. Doce para frutado de compota sem ser enjoativo. Amadeirado, tânico, envelheceu muito bem. Buquê fantástico. Poderia ser Cabernet.
  - Mitiko 2021-05-16 (4.0): Facinho de beber, gostosinho.
  - Caloni 2021-05-22 (4.0): Que vinho fácil de beber. O corpo é leve pra médio, o sabor é gostosinho, frutado vermelho ou algo do tipo.
 
-E o vinho é... [Joliesse Cabernet Sauvignon 2018]: "Apresenta coloração vermelho rubi, com reflexos violáceos, aromas de frutas negras maduras, como ameixa, amora, cereja preta e figo, além de notas de cravo e pimenta, e notas de baunilha, café, cacau tabaco e couro, provenientes da maturação em barricas de carvalho. Em boca, é seco, com acidez média, taninos marcantes, encorpado e com álcool equilibrado. Apresenta grande persistência."
+E o vinho é... [Joliesse Cabernet Sauvignon 2018]: "Apresenta coloração vermelho rubi, com reflexos violáceos, aromas de frutas negras maduras, como ameixa, amora, cereja preta e figo, além de notas de cravo e pimenta, e notas de baunilha, café, cacau, tabaco e couro, provenientes da maturação em barricas de carvalho. Em boca, é seco, com acidez média, taninos marcantes, encorpado e com álcool equilibrado. Apresenta grande persistência."
+
+ - Acertos: amadeirado e envelheceu muito bem vs maturação em barricas de carvalho, buquê fantástico vs aromas de frutas negras maduras (ameixa, amora, cereja preta, figo) e notas de cravo e pimenta e notas de baunilha, café, cacau, tabaco e couro, Cabernet.
+ - Erros: nenhum.
+
 
 ### Rótulo 11
 
@@ -105,13 +146,21 @@ E o vinho é... [Joliesse Cabernet Sauvignon 2018]: "Apresenta coloração verme
 
 E o vinho é... [Solar Viejo Crianza 2016]: "Coloração vermelho rubi de média intensidade. Toques de baunilha, caramelo, cacau, com notas de carvalho e frutas vermelhas como cereja, amora, framboesa e morango. Vinho estruturado e equilibrado com agradáveis notas de madeira e frutos silvestres maduros, com acidez média, taninos marcantes, médio corpo e álcool equilibrado."
 
+ - Acertos: corpo médio vs médio corpo, levemente alcoólico vs álcool equilibrado, tanino vs taninos marcantes, aromático vs toques de baunillha, cacau, notas de carvalho, frutas vermelhas (cereja, amora, framboesa, morango), notas de madeira e frutos silvestres maduros, amadeirado vs notas de madeira.
+ - Erros: ameixa vs tudo menos ameixa.
+
+
 ### Rótulo 12
 
  - Caloni 2021-05-17 (2.5): Azedo, alcoólico, pouco aromático, corpo médio para forte. Esse tipo de vinho precisa harmonizar.
  - Mitiko 2021-05-17 (2.5): Menos amargo que os outros.
  - Caloni 2021-05-22 (3.5): Quente, encorpado, frutas maduras. Agradável, mas levemente enjoativo. Cor rubi escura.
 
-E o vinho é... [Coutada Velha Signature 2019]: "Este Coutada velha Signature evidencia as características do terroir local, com coloração vermelho rubi, com reflexos violáceos, aromas de frutas negras em compota, como ameixa, amora, cereja preta, figo romã e groselha, além de notas de amêndoas, baunilha, chocolate e tabaco, provenientes da maturação em barricas de carvalho. Em boca, o vinho é seco, com acidez média, taninos marcantes, corpo médio para alto e álcool equilibrado."
+E o vinho é... [Coutada Velha Signature 2019]: "Este Coutada velha Signature evidencia as características do terroir local, com coloração vermelho rubi, com reflexos violáceos, aromas de frutas negras em compota, como ameixa, amora, cereja preta, figo, romã e groselha, além de notas de amêndoas, baunilha, chocolate e tabaco, provenientes da maturação em barricas de carvalho. Em boca, o vinho é seco, com acidez média, taninos marcantes, corpo médio para alto e álcool equilibrado."
+
+ - Acertos: cor rubi escura vs coloração vermelhor rubi, frutas maduras vs frutas negras em compota (ameixa, amora, cereja preto, figo, româ, groselha), quente vs álcool equilibrado.
+ - Erros: não encontrou taninos?
+
 
 ### Rótulo 13
 
@@ -121,6 +170,10 @@ E o vinho é... [Coutada Velha Signature 2019]: "Este Coutada velha Signature ev
 
 E o vinho é... [Valle Austral Reserva Malbec 2018]: "Este vinho evidencia as características do terroir local, sendo robusto, complexo e intenso com coloração vermelho rubi intenso, aromas florais remetendo a violetas, aromas de frutas negras, como ameixa, amora, jabuticaba, mirtilo e cereja preta, além de notas de especiarias. Em boca, é seco, com acidez média, taninos sedosos, corpo médio e álcool mediano."
 
+ - Acertos: corpo forte vs robusto, reserva no meio do caminho vs Reserva Malbec.
+ - Erros: mineral vs aromas florais e frutas negras, corpo forte vs corpo médio.
+
+
 ### Rótulo 14
 
  - Caloni 2021-05-17 (3.5): Muita madeira, muito tanino. Corpo fortíssimo. O frutado ficou mais no aroma, sabor é uma pancada; para degustar com mais calma. Complexo, pode ser top, mas não a seco.
@@ -129,6 +182,10 @@ E o vinho é... [Valle Austral Reserva Malbec 2018]: "Este vinho evidencia as ca
 
 E o vinho é... [Château Marjosse Rouge 2018]: "Bordeaux, talvez a mais celebrada e conhecida região vinícola do mundo, é a terra dos grandes Châteaux, que, em geral, fazem jus à fama de produzir vinhos muito elegantes, longevos e encorpados."
 
+ - Acertos: corpo fortíssimo vs encorpado.
+ - Erros: nenhum, a descrição do vinho é inexistente.
+
+
 ### Rótulo 15
 
  - Caloni 2021-05-17 (4.0): Amadeiradíssimo, estágio final (estou influenciado pela suposta gradação dos rótulos?). Não tão amargo, mas também não tão rico em sabores. Talvez eu não goste de vinhos tão maduros assim, cheio de estrutura. Mas eu tomaria meia-taça por umas horas. Frutado quase estragado.
@@ -136,6 +193,10 @@ E o vinho é... [Château Marjosse Rouge 2018]: "Bordeaux, talvez a mais celebra
  - Caloni 2021-05-22 (2.5): Encorpadíssimo, chega a ser azedo e amargo tudo junto por conta disso. Se fosse cerveja seria IPA. Os sabores são fortes (não picantes, outra coisa).
 
 E o vinho é... [Piantaferro Primitivo Di Manduria D.O.C 2017]: "Este Primitivo, não foge à regra, tendo coloração vermelho rubi intenso, com reflexos violáceos, aromas de frutas vermelhas e negras, como ameixa, groselha preta, amora e jabuticaba, em compota, seguida de notas de especiarias como baunilha e pimenta, e de torrefação, decorrentes da maturação em barricas. Em boca, é agradável e intenso ao paladar, apresenta taninos marcantes e presentes, acidez equilibrada, teor alcoólico de 14,0%, condizente com o perfil do vinho; com grande persistência e retrogosto."
+
+ - Acertos: amadeiradíssimo vs maturação em barricas, encorpadíssimo vs grande persistência, frutado quase estragado vs frutas vermelhas e negras (ameixa, groselha preta,amora e jabuticaba) em compota.
+  - Erros: nenhum.
+
 
 [Virtus Reservado Suave Cabernet Sauvignon 2020]: https://www.eniwine.com/vitrine/detalhes/13f47ad6-e05d-41ab-a8cb-1c73e17bc3dd
 [Cavic Meio Seco 2020]: https://www.eniwine.com/vitrine/detalhes/f3089ff0-c04c-4a1d-991f-a9d38963f616
