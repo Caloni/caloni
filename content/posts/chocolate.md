@@ -5,8 +5,7 @@ date: '2016-06-03'
 link: https://www.imdb.com/title/tt4400038
 tags:
 - cinemaqui
-- draft
-title: Chocolat
+title: Chocolate
 ---
 
 Chocolate é o mais novo trabalho de Osmar Sy e possui não apenas a simpatia que estamos acostumados a ver em seus filmes (Intocáveis, Samba), mas também um lado dramático do tipo que tornou filmes como Conduzindo Miss Daisy e 12 Anos de Escravidão tão fascinante.
