@@ -5,7 +5,6 @@ date: '2016-06-09'
 link: https://www.imdb.com/title/tt3480164
 tags:
 - cinemaqui
-- draft
 title: Vida Selvagem
 ---
 
@@ -19,7 +18,7 @@ Ao mesmo tempo, o filme dá motivos de sobra para desdenhar das absurdas leis qu
 
 Sim, há muita filosofia nessa história que também mexe com o coração. Aprendemos a entender o drama dessa família, e para isso temos interpretações fabulosas do elenco-mirim, que logo depois se torna mais fabuloso ainda pela comparação dos jovens que se tornaram (interpretados por Romain Depret e Jules Ritmanic).
 
-Não há muito dialogo expositivo, e essa é uma experiência quase toda visual. Por isso é essencial o figurino e a direção de arte, que estabelecem não só a essência de cada personagem por duas vestimentas -- e como isso muda, principalmente na mãe (Jenna Thiam, visceral) -- mas também a ilustração de uma vida rústica, mas nem tanto, pois o pai é alguém instruído, e vive essa vida por opção. Viver na natureza é um sonho compartilhado por muita gente que mora na cidade e que não teria coragem de vivê-la, abrindo mão do conforto e consumismo. Pois bem: este é o resultado de um meio caminho, já que obviamente a família ainda se mantém "refém" do capitalismo para algumas coisas,  como roupas, cadernos, e até um simples lápis; do contrário, não haveria como conseguir coisas tão baratas ou acessíveis.
+Não há muito dialogo expositivo, e essa é uma experiência quase toda visual. Por isso é essencial o figurino e a direção de arte, que estabelecem não só a essência de cada personagem por suas vestimentas -- e como isso muda, principalmente na mãe (Jenna Thiam, visceral) -- mas também a ilustração de uma vida rústica, mas nem tanto, pois o pai é alguém instruído, e vive essa vida por opção. Viver na natureza é um sonho compartilhado por muita gente que mora na cidade e que não teria coragem de vivê-la, abrindo mão do conforto e consumismo. Pois bem: este é o resultado de um meio caminho, já que obviamente a família ainda se mantém "refém" do capitalismo para algumas coisas,  como roupas, cadernos, e até um simples lápis; do contrário, não haveria como conseguir coisas tão baratas ou acessíveis.
 
 Com uma direção disposta a entregar a experiência completa, este é um filme que se beneficia do controle enxuto de Cédric Kahn. Nenhuma tomada é feita à toa, e tudo é filmado seguindo basicamente o livro da família Fortin, apenas com diálogos compilados por Nathalie Najem e o próprio Kahn. A câmera na mão e as tomadas estilo filme independente são sacadas de gênio, pois se o filme fala de viver uma vida mais simples, este é um filme produzido de uma maneira mais simples que o normal.
 

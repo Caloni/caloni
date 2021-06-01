@@ -4,7 +4,6 @@ categories:
 date: '2016-06-21'
 link: https://www.imdb.com/title/tt1670345
 tags:
-- draft
 title: Truque de Mestre
 ---
 

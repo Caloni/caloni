@@ -5,8 +5,7 @@ date: '2016-06-10'
 link: https://www.imdb.com/title/tt4136084
 tags:
 - cinemaqui
-- draft
-title: Florence - Quem é Essa Mulher?
+title: 'Florence: Quem é Essa Mulher?'
 ---
 
 "Florence - Quem é Essa Mulher?" é uma ode à mediocridade. Ele brinca com analogias que fazem todo o sentido do mundo hoje em dia, quando mega-produções são "proibidas" pelos fãs de serem criticadas por gente especializada, e embora muitas pessoas acabem de fato gostando do resultado dessas produções, embora muitas vezes pelos motivos errados. Afinal de contas, quem nunca deu risada em uma cena da série Transformers, ou até desses terrores enlatados como a interminável série Atividade Paranormal?
@@ -22,4 +21,4 @@ E se mesmo com a interpretação rica, humana e como sempre, inesquecível, de S
 
 Hugh Grant também não deixa por menos, e apesar de ser um ator limitado (algo que seu personagem também admite, em diálogo), desempenha um pilar moral necessário para que toda a história não vire apenas uma chacota inocente, e consiga caracterizar aquelas pessoas como seres humanos vivendo como podem. Nesse caso, a fonte aparentemente inesgotável de dinheiro vem bem a calhar.
 
-Com a direção fluida de Stephen Frears, a maior vantagem de "Florence - Quem é Essa Mulher?" é não ser dirigido por "mãos pesadas" como as de Ron Howard. O controle do mise en scene de Frear nem sempre é perfeito, pois ele se deixa apaixonar facilmente pela Nova York dessa época (como culpá-lo?), exibindo câmeras externas que sempre sobem quando um personagem sai às ruas, a impressão é que há uma necessidade forte de fazer valer o orçamento do filme. Não importa. Cada minuto nesse universo realmente faz valer a pena. Tanto que os próprios créditos iniciais e finais fizeram parte da brincadeira.
+Com a direção fluida de Stephen Frears, a maior vantagem de "Florence - Quem é Essa Mulher?" é não ser dirigido por "mãos pesadas" como as de Ron Howard. O controle do mise en scene de Frears nem sempre é perfeito, pois ele se deixa apaixonar facilmente pela Nova York dessa época (como culpá-lo?), exibindo câmeras externas que sempre sobem quando um personagem sai às ruas, a impressão é que há uma necessidade forte de fazer valer o orçamento do filme. Não importa. Cada minuto nesse universo realmente faz valer a pena. Tanto que os próprios créditos iniciais e finais fizeram parte da brincadeira.
