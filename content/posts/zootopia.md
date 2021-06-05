@@ -4,19 +4,18 @@ categories:
 date: '2016-07-02'
 link: https://www.imdb.com/title/tt2948356
 tags:
-- draft
 title: Zootopia
 ---
 
 Direita x Esquerda? Opressores x Oprimidos? Predadores x Presas? A imbecilidade dos liberais americanos apenas compete com sua genialidade nesse novo filme da Disney, que explora um tema político em um filme para crianças que possui 2 ou 3 piadas bem pontuais, mas que no fundo é muito mais para adolescentes e com conteúdo adulto.
 
-A história gira em torno de uma coelhinha muito fofinha (Ginnifer Goodwin), mas eu não posso dizer isso porque apenas coelhos podem se referir assim aos seus iguais. Um mundo, onde há regras sociais de segregação como essa, os roteiristas da Disney querem contar uma história sobre viver em sociedade. Percebe a hipocrisia esquerdista espirrando para fora de uma história que tenta desesperadamente soar neutra?
+A história gira em torno de uma coelhinha muito fofinha (Ginnifer Goodwin), mas eu não posso dizer isso porque apenas coelhos podem se referir assim aos seus iguais. Em um mundo com regras sociais de segregação como esse os roteiristas da Disney querem contar uma história sobre viver em sociedade. Percebe a hipocrisia esquerdista espirrando para fora de uma história que tenta desesperadamente soar neutra?
 
 A coelha, Judy Hopps (em inglês, "hopp" é salto, mas "hope" é esperança; sutil demais, não?), começa o filme em uma peça de teatro, ainda criança, onde seu amigo segurando um arco-íris diz que agora ninguém precisa se esconder (sutil, novamente), e todos podem ser o que quiserem em Zootopia, o lugar que quer ser o espelho tanto das cidades maconhadas da Califórnia quanto o ícone que é Nova York: uma cidade grande onde todos se respeitam.
 
-(No fundo, se refletirmos um pouco mais, o filme parece se situar nesse planeta, mas em uma época distante, milhares de anos à frente, quando os humanos já se foram, e os animais tomaram conta de tudo; mas, infelizmente, continuam se organizando em torno de um sentimento coletivista e no momento estão sofrendo uma crise do politicamente correto. Ou seja, não mudou muita coisa: animais, racionais ou não, continuam estúpidos.)
+(No fundo, se refletirmos um pouco mais, o filme se situa nesse planeta, mas em uma época distante, milhares de anos à frente, quando os humanos já se foram, e os animais tomaram conta de tudo; mas, infelizmente, continuam se organizando em torno de um sentimento coletivista e no momento estão sofrendo uma crise do politicamente correto. Ou seja, não mudou muita coisa: animais, racionais ou não, continuam estúpidos.)
 
-O sonho de Judy é se tornar uma policial, mas nenhuma coelha jamais se tornou uma. Porém, é exatamente isso que ela se tornou, depois se dedicar imensamente durante o que parece ser longos anos (onde está o seu deus das cotas, agora?). Seus pais estão preocupados com ela na cidade, principalmente se ela topar com alguma raposa, um elemento que "tem a malícia no seu DNA". E para provar que isso é verdade, depois de algumas reviravoltas, alguns predadores começam a ter um comportamento selvagem, se entregando aos instintos de milhares de anos atrás. Resta a pequena coelha investigar o que está acontecendo.
+O sonho de Judy é se tornar uma policial, mas nenhuma coelha jamais se tornou uma. Porém, é exatamente isso que ela se tornou, depois de se dedicar imensamente durante longos anos (onde está o seu deus das cotas, agora?). Seus pais estão preocupados com ela na cidade, principalmente se ela topar com alguma raposa, um elemento que "tem a malícia no seu DNA". E para provar que isso é verdade, depois de algumas reviravoltas, alguns predadores começam a ter um comportamento selvagem, se entregando aos instintos de milhares de anos atrás. Resta a pequena coelha investigar o que está acontecendo.
 
 O jogo político de "Zootopia" e as brincadeiras por trás disso são divertidas, e não tão má-intencionadas como estou descrevendo. Há um filme muito detalhista aí, cuja direção e roteiros coletivos conseguem explorar a questão das diferentes proporções entre os animais, seja dos mais minúsculos como roedores (que possuem uma mini-cidade dentro da cidade) aos mais gigantescos como as girafas (que possuem carros cujo para-brisas é impossivelmente alto para ser alcançado por um guarda de trânsito).
 

@@ -4,7 +4,6 @@ categories:
 date: '2016-06-27'
 link: https://www.imdb.com/title/tt3385516
 tags:
-- draft
 title: 'X-Men: Apocalipse'
 ---
 
@@ -14,7 +13,7 @@ O nível de mega-catástrofes nesses filmes vem crescendo vertiginosamente, o qu
 
 E a mesma coisa pode-se dizer do pelotão de heróis e vilões, que aqui ainda possuem a problemática de, por serem mutantes, exigir poderes especiais, que por sua vez exigem cada vez mais usos originais de combiná-los. Se essa necessidade foi muito bem utilizada em Dias de Um Futuro Esquecido, que até então ocupava a posição de X-Men menos excelente -- ainda sendo ótimo -- aqui eles soam repetitivos em segundo, terceiro e quarto atos que não terminam nunca.
 
-Sem contar que parece obrigatória a presença de praticamente todos os personagens anteriores, com menção honrosa a mais uma participação de um desgastado certo amigo de garras (cujo nome ninguém precisa sequer mencionar, mas é mencionado de qualquer jeito). É como se houvesse fãs para todos eles, e é preciso mostrá-los em ação para não correr o risco mercadológico de perder mais um punhado de ingressos. Até suas participações, embora divertidas -- como a do personagem de Evan Peters -- soam gratuitas e apenas de passagem.
+Sem contar que a presença obrigatória de praticamente todos os personagens anteriores, com menção honrosa a mais uma participação de um desgastado certo amigo de garras (cujo nome ninguém precisa sequer mencionar, mas é mencionado de qualquer jeito) torna o resultado inchado. É como se houvesse fãs para todos eles, e é preciso mostrá-los em ação para não correr o risco mercadológico de perder mais um punhado de ingressos. Até suas participações, embora divertidas -- como a do personagem de Evan Peters -- soam gratuitas e apenas de passagem.
 
 E dessa vez Singer se entrega de vez à fórmula da Marvel e dos X-Men, ao transpor esse universo com todas as letras, trejeitos, cores e emblemas. Até um jovem Xavier precisa a todo custo usar um terno azul com sua nova careca, o que soa tão televisivo quanto a série animada (ainda mais se notarmos que ele começa o longa vestindo camisetas despojadas combinando com seu belo (des)penteado).
 
@@ -22,6 +21,6 @@ Além do mais, não querendo igualmente trair a fascinação dos que consideram 
 
 E se em First Class podemos sentir a atmosfera dos anos 60, da Guerra Fria até o design futurista retrô dos ambientes, agora, nos anos 80, o máximo que o filme faz é usar Ms. Pac Man, sendo que o fliperama poderia existir muito bem em 2016, como tantos nerds insistiriam em ter no porão da casa de suas mães -- onde morariam.
 
-Aliás, por falar em detalhes técnicos, é preciso ressaltar a total incapacidade de se criar uma música-tema em torno de uma trilha sonora monótona que, se exige algo de divertido, é também plagiar um ícone da ficção-científica: Duna. O filme consegue aborrecer pela beleza vazia de suas sequências que deveriam nos tirar o fôlego plagiando também no caminho "Matrix Revolutions", com o movimento de gigantescas nuvens de metais esvoaçando exatamente igual ao enxame de sentinelas invadindo Zion. E o que dizer de mais uma vez a falta de criatividade dos idealizadores, focando basicamente na cidade de Nova York sendo despedaçada por um efeito de nível mundial?
+Aliás, por falar em detalhes técnicos, é preciso ressaltar a total incapacidade de se criar uma música-tema em torno de uma trilha sonora monótona que, se é divertido, é também plagiar um ícone da ficção-científica: Duna. O filme consegue aborrecer pela beleza vazia de suas sequências que deveriam nos tirar o fôlego plagiando também no caminho "Matrix Revolutions", com o movimento de gigantescas nuvens de metais esvoaçando exatamente igual ao enxame de sentinelas invadindo Zion. E o que dizer de mais uma vez a falta de criatividade dos idealizadores, focando basicamente na cidade de Nova York sendo despedaçada por um efeito de nível mundial?
 
 O mais decepcionante, porém, em "X-Men: Whatever", é que ele até coloca seus heróis em posições de conflito, mas em momento algum nos entrega um gostinho sequer de perigo ou até de duelo. Até o igualmente medíocre "Capitão América: Guerra Civil" consegue algo melhor. O único grande risco que a turma de Xavier poderia sofrer seria a morte de bilhões de humanos, que, diga-se de passagem, raramente aparecem na tela. De certa forma, este é um filme feito de mutantes para mutantes. E se você não se considera um, pode reclamar que não está sendo representado. Quem sabe juntos não fazemos uma petição por um filme mais... humano?

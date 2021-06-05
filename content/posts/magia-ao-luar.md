@@ -4,7 +4,6 @@ categories:
 date: '2016-06-30'
 link: https://www.imdb.com/title/tt2870756
 tags:
-- draft
 title: Magia ao Luar
 ---
 
@@ -18,4 +17,4 @@ Estamos na Europa da década de 20, e um mágico que se traveste de oriental, St
 
 Se a primeira metade do filme é apenas aceitável para o bem da narrativa e dos temas que Allen irá em breve -- esperamos -- colocar na mesa, seu terceiro ato é intenso em seus diálogos, e cuja profundidade não consegue ser alcançada ao máximo graças a uma trilha sonora equivocada, preguiçosa, que usa jazz para comentar praticamente qualquer cena, seja esta cômica ou trágica. Não fosse isso, as questões levantadas por Stanley constituiriam um dos melhores momentos da cinegrafia do autor.
 
-Mas não seja por isso. A questão sobre vida após morte, racionalidade ou sentimentalismo, ainda vale a pena nesse filme. Não está cercado de tanto conteúdo inteligente, ou até pessoas inteligentes, como seria de se esperar, mas nós sabemos que é Allen falando conosco. Apesar de todo o charme de Firth ilustrando seus pensamentos.
+Mas não seja por isso. A questão sobre vida após a morte, a racionalidade, ou o sentimentalismo, ainda vale a pena nesse filme. Não está cercado de tanto conteúdo inteligente, ou até pessoas inteligentes, como seria de se esperar, mas nós sabemos que é Allen falando conosco. Apesar de todo o charme de Firth ilustrando seus pensamentos.
