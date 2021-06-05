@@ -13,19 +13,19 @@ Essa é a moral por trás de O Poder do Agora, livro de Eckhart Tolle que mistur
 
 Para Tolle a mente é uma doença individual e coletiva. Ao enxergarmos o presente com os olhos do passado, se contrói uma imagem distorcida. Os filtros estão aí para prejudicar a nossa percepção do Agora como algo fabuloso, a todo momento, e não restringimos a mente como apenas uma ferramenta intelectual: nos identificamos com ela, e aí é que está o erro.
 
-    Aqui e agora: abandone-o, mude-o, ou aceite-o.
-    Capte o interior e ele vira exterior.
-    Não resista.
-    Sem tempo, sem problema.
-    O fazer é igual ao acontecer.
+> Aqui e agora: abandone-o, mude-o, ou aceite-o.
+> Capte o interior e ele vira exterior.
+> Não resista.
+> Sem tempo, sem problema.
+> O fazer é igual ao acontecer.
 
 O primeiro exercício que ele pede que se faça é "observar o pensador", essa voz que todos temos dos nossos pensamentos. Observando aprendemos a nos desapegar e a enxergar que não somos essa voz, mas algo diferente. Ao criar um espaço nesse fluxo contínuo da mente, conseguimos direcionar o foco de nossa atenção para o Agora, e por consequência tornando-nos conscientes do momento. Algo, segundo Tolle, "profundamente gratificante de se fazer". A essência da tão ambicionada meditação de hoje em dia, segundo ele, é apenas criar esse espaço de mente vazia, ficando assim extremamente alerta e conscientes (mas sem pensar, alerta).
 
 A partir daí, não existem problemas, apenas situações no momento, que podem ser gerenciadas facilmente, pois agora não são apenas projeções mentais de um tempo e espaço inatingíveis: estão bem na nossa frente. E mesmo assim, a situação existe no tempo, enquanto a nossa vida é agora. Enquanto a situação de vida continua sendo uma coisa da mente, a nossa vida é algo mais: é real.
 
-# Recortes (Leitura de 2021-05)
+# Recortes: Leitura de 2021-05
 
-## Primeiro Capítulo
+## capítulo um: Você Não é Sua Mente
 
 > O pensador compulsivo – ou seja, quase todas as pessoas – vive em um estado de aparente isolamento, em um mundo povoado de conflitos e problemas.
 
@@ -61,7 +61,8 @@ A partir daí, não existem problemas, apenas situações no momento, que podem 
 
 > Todos os anseios nascem da busca da mente por salvação ou satisfação nas coisas externas e no futuro, como substitutos da alegria do Ser. Se somos nossas mentes, somos aqueles anseios, aquelas necessidades, desejos, apegos e aversões. Fora deles não existe o eu, exceto como uma mera possibilidade, um potencial não preenchido, uma semente que ainda não germinou. Nessa condição, até mesmo o desejo de nos tornarmos livres ou iluminados não passa de mais um desejo a ser realizado ou concluído no futuro. Portanto, não busque se libertar do desejo ou “adquirir” a iluminação. Torne-se presente. Esteja lá, como um observador da mente. Em lugar de citar Buda, seja Buda, seja “O Iluminado”, que é o que a palavra buda significa.
 
-## Segundo Capítulo
+
+## capítulo dois: Consciência: O Caminho para o Sofrimento
 
 > O sofrimento que sentimos neste exato momento é sempre alguma forma de não aceitação, uma forma de resistência inconsciente ao que é. No nível do pensamento, a resistência é uma forma de julgamento. No nível emocional, ela é uma forma de negação. O sofrimento varia de intensidade de acordo com o nosso grau de resistência ao momento atual, e isso, por sua vez, depende da intensidade com que nos identificamos com as nossas mentes. A mente procura sempre negar e escapar do Agora. Em outras palavras, quanto mais nos identificamos com as nossas mentes, mais sofremos. Ou ainda, quanto mais respeitamos e aceitamos o Agora, mais nos libertamos da dor, do sofrimento e da mente.
 
@@ -85,7 +86,8 @@ A partir daí, não existem problemas, apenas situações no momento, que podem 
 
 > O segredo da vida é “morrer antes que você morra” – e descobrir que não existe morte.
 
-## Terceiro Capítulo
+
+## capítulo três: Entrando Profundamente no Agora
 
 > O tempo e a mente são inseparáveis. Tire o tempo da mente e ele para, a menos que você escolha utilizá-lo.
 
@@ -108,3 +110,53 @@ A partir daí, não existem problemas, apenas situações no momento, que podem 
 > Portanto, não se preocupe com o resultado da sua ação, basta dar atenção à ação em si. O resultado surgirá espontaneamente. Essa é uma valiosa prática espiritual. No Bhagavad Gita, um dos mais antigos e mais belos ensinamentos espirituais que existem, o desapego ao resultado da ação é chamado Karma Yoga. É descrito como o caminho da “ação santificada”.
 
 > Tudo inspira respeito, mas nada importa. As formas nascem e morrem, ainda que estejamos conscientes de uma eternidade subjacente às formas. Sabemos que “nada de verdade pode ser ameaçado”.3 Quando esse é o seu estado de Ser, como é possível não alcançar o sucesso? Você já o alcançou.
+
+
+## capítulo quatro: Estratégias da Mente para Evitar o Agora
+
+> As contas de amanhã não são um problema. A degeneração do corpo não é um problema. A perda do Agora é o problema, ou melhor, a ilusão central que transforma uma situação simples, um acontecimento ou uma emoção em um problema pessoal e em sofrimento. Perder o Agora é perder o Ser.
+
+> O melhor indicador do nível de consciência é a maneira como você lida com os desafios da vida. É através desses desafios que uma pessoa já inconsciente tende a se tornar mais profundamente inconsciente, e uma pessoa consciente a se tornar mais intensamente consciente.
+
+> Se você não consegue estar presente mesmo em situações normais, como, por exemplo, quando está sozinho em uma sala, caminhando no campo ou ouvindo alguém, certamente não será capaz de permanecer consciente quando alguma coisa “vai mal”. Será dominado por uma reação, que é sempre, em última análise, alguma forma de medo, e empurrado para uma inconsciência profunda. Esses desafios são os seus testes. Só o modo como você lida com eles lhe mostrará onde você está no que se refere ao seu estado de consciência, e não a quantidade de horas que você consegue ficar sentado com os olhos fechados.
+
+> “Por que vocês estão sempre ansiosos?”, perguntou Jesus aos discípulos. “Será que os seus pensamentos ansiosos podem acrescentar um simples dia às vossas vidas?”
+
+> Buda ensinou que a raiz do sofrimento pode ser encontrada em nossos desejos e ansiedades permanentes.
+
+> “O que está acontecendo dentro de mim neste exato momento?” Mantenha o mesmo nível de interesse pelo que vai tanto no seu interior quanto no exterior.
+
+> Se você captar corretamente o interior, o exterior se encaixará no lugar. A realidade principal está no interior, a realidade externa é secundária.
+
+> Não faz a menor diferença se os seus pensamentos e emoções a respeito da situação têm ou não uma justificativa. O fato é que você está resistindo ao que é.
+
+> A poluição do planeta é apenas um reflexo externo de uma poluição interior psíquica gerada por milhões de indivíduos inconscientes, sem a menor responsabilidade pelos espaços que trazem dentro de si.
+
+> É verdade que, quando aceita seu ressentimento, o mau humor, a raiva, etc., você não sente mais necessidade de manifestá-los de maneira cega e tem menos chance de projetá-los sobre os outros. Mas eu me pergunto se você não está se iludindo. Quando uma pessoa vem praticando a aceitação por um tempo, como é o seu caso, chega a um ponto em que precisa passar para o estágio seguinte, onde essas emoções negativas não são mais criadas. Se você não passa, a “aceitação” se torna apenas um rótulo mental que permite ao seu ego continuar a ser tolerante com a tristeza e, dessa forma, fortalecer o sentimento de separação das outras pessoas, do seu ambiente, do seu aqui e agora. Como você bem sabe, a separação é a base do sentido de identidade do ego. A aceitação verdadeira poderia transformar tudo de uma vez por todas. E se sabe, bem lá no fundo, que tudo “está bem” como você diz, será que esses pensamentos negativos viriam em primeiro lugar? Se não houver julgamento nem resistência ao que é, eles nem surgem. A sua mente diz que “tudo está bem”, mas no fundo você não acredita nisso, e assim os velhos padrões de resistência mental e emocional ainda estão ali. É isso o que nos faz mal.
+
+> Observe quando estiver reclamando, com palavras ou pensamentos, de uma situação que envolva você – pode ser alguém que fez ou disse algo que lhe aborreceu, algo sobre a sua situação de vida, o lugar onde mora, ou até mesmo o tempo. Reclamar é sempre uma não aceitação de algo que é. Essa atitude contém invariavelmente uma carga negativa inconsciente. Quando você reclama, transforma-se em vítima. Quando fala, você está no controle. Portanto, mude a situação agindo ou falando, caso seja necessário ou possível, ou então fuja da situação, ou senão aceite-a. Tudo o mais é loucura.
+
+> Onde quer que você esteja, esteja lá por inteiro. Se você acha insuportável o seu aqui e agora e isso o faz infeliz, há três opções: abandone a situação, mude-a ou aceite-a totalmente. Se você deseja ter responsabilidade sobre a sua vida, deve escolher uma dessas opções e deve fazê-lo agora. Depois, arque com as consequências. Sem desculpas. Sem negatividade. Sem poluição física. Mantenha limpo o seu espaço interior.
+
+> Morra para o passado a cada instante. Você não precisa dele. Refira-se a ele apenas quando totalmente relevante para o presente. Sinta o poder do momento presente e a plenitude do Ser. Sinta a sua presença.
+
+> Esperar é um estado mental. Significa basicamente desejar o futuro e não querer o presente. Você não quer o que conseguiu e deseja aquilo que não conseguiu. Em qualquer dos tipos de espera você, inconscientemente, cria um conflito interior entre o seu aqui e agora, onde você não quer estar, e o futuro projetado, onde você quer estar. Essa situação reduz grandemente a qualidade da sua vida ao fazer você perder o presente.
+
+> Nossa jornada de vida tem um propósito externo e um interno. O propósito externo é o de alcançarmos o objetivo ou destino, realizarmos o que estabelecemos cumprir, adquirirmos uma coisa ou outra, o que, é claro, envolve o futuro. Mas se o destino ou os passos que vamos dar no futuro tomam tanto nossa atenção que se tornam mais importantes do que o passo que estamos dando agora, isso significa que perdemos completamente o propósito interno da vida, que não tem nada a ver com aonde estamos indo ou com o que estamos fazendo, mas tudo a ver com de que modo. Esse propósito interno não está relacionado com o futuro, e sim com a qualidade da nossa consciência no momento presente.
+
+
+## capítulo cinco: O Estado de Presença
+
+> Faça uma experiência rápida. Feche os olhos e diga: “Imagino qual será o meu próximo pensamento.” Depois fique bem alerta e espere pelo próximo pensamento. Aja como um gato espreitando o buraco do rato. Que pensamento será que vai sair do buraco do rato? Experimente já.
+
+> Enquanto estamos num estado de presença intensa, estamos livres do pensamento. Estamos quietos, embora estejamos alerta. No instante em que a consciência desce abaixo de um certo nível, os pensamentos surgem aos borbotões. O ruído mental volta a aparecer e perdemos a serenidade. Estamos de volta ao tempo.
+
+> A consciência do corpo nos mantém presentes. Ela nos dá uma base firme no Agora.
+
+> Alguma coisa pode acontecer a qualquer momento e, se não estivermos absolutamente acordados e calmos, vamos perdê-la. Esse é o tipo de espera da qual Jesus falou. Nesse estado, toda a nossa atenção está no Agora. Não há nenhum espaço para fantasias, pensamentos, lembranças, antecipações. Não há tensão nem medo, apenas uma presença alerta. Estamos presentes com todo o nosso Ser, com cada célula do corpo.
+
+> Quanto maior for o espaço entre a percepção e o pensamento, mais profundos seremos como seres humanos, ou seja, mais conscientes estaremos.
+
+> Se um peixe nasce no seu aquário e você lhe dá o nome de John, escreve uma certidão de nascimento, conta-lhe a história da família dele e, dois minutos depois, o vê sendo engolido por um outro peixe, isso é trágico. Mas só é trágico porque você projetou um eu interior separado onde não havia nenhum. Você se apoderou de uma fração de um processo dinâmico, uma dança molecular, e fez dela uma entidade separada.
+
+> Ouvir o silêncio cria imediatamente uma serenidade dentro de nós. Só a serenidade dentro de nós percebe o silêncio lá fora. E o que é serenidade senão a presença, a consciência livre das formas de pensamento?
