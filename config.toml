@@ -29,6 +29,7 @@ theme = "blog"
     postsCount = 5
     tagPostsCount = 15
     categories = [ "home" ]
+    intro = "Olá! Este costumava ser um blogue técnico, mas ao longo dos anos outros interesses acabaram ocupando minha rotina e agora vários assuntos se mesclaram. Fique à vontade para começar sua navegação pelas categorias com temas mais fixos, as tags e seus temas mais vagos e, por fim, todos os posts disponíveis (clique com cuidado, são milhares). Antes que eu me esqueça: seja muito bem-vindo =)."
 
 [params.external]
 

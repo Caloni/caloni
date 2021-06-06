@@ -7,6 +7,7 @@
 
     {{ partial "navbar.html" . }}
     {{ partial "section_begin.html" . }}
+    {{ with .Site.Params.home.intro }}<p>{{ . }}</p>{{ end }}
     {{ partial "lists.html" . }}
     {{ partial "list_begin.html" . }}
     {{ range first .Site.Params.home.postsCount (where .Site.RegularPages "Params.categories" "intersect" .Site.Params.home.categories) }}
