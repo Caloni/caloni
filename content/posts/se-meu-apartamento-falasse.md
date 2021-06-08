@@ -4,7 +4,6 @@ categories:
 date: '2016-07-19'
 link: https://www.imdb.com/title/tt0053604
 tags:
-- draft
 title: Se Meu Apartamento Falasse
 ---
 
@@ -14,8 +13,8 @@ Tanto em Quanto Mais Quente quanto em The Apartment, a energia do filme é inaba
 
 O esgotamento moral que a pequena Fran Kubelik (Shirley MacLaine) e o simpático C. C. Baxter (Lemmon) têm que passar é o que acaba os unindo, mas não de maneira tão fácil. Sabemos que ambos possuem um ao outro, mas o filme nunca entrega isso fácil. Como estamos em uma comédia irônica, isso pode nunca acontecer. Porém, sempre haverá uma próxima grande cena que conquista o espectador pela simplicidade e eficácia em explorar seus personagens.
 
-Shirley MacLaine faz a mocinha da série Mad Men em um formato particularmente melancólico. Apaixonada pelo chefe de Baxter, ela já se apaixonou três vezes, apesar de apontar quatro no dedo. Ela não conseguiu a vaga de secretária por não saber soletrar, e quando entra na arapuca do homem casado, parece estar totalmente ciente disso, mas não consegue sair, como se estivesse em uma areia movediça que ela própria se colocou. Seu cabelo curto a destaca da multidão, mas o que a destaca mais são suas observações ácidas sobre a própria situação.
+Shirley MacLaine faz a mocinha da série Mad Men em um formato particularmente melancólico. Apaixonada pelo chefe de Baxter, ela já se apaixonou três vezes, apesar de apontar quatro no dedo. Ela não conseguiu a vaga de secretária por não saber soletrar, e quando entra na arapuca do homem casado, totalmente ciente disso, não consegue sair; como se estivesse em uma areia movediça que ela própria se colocou. Seu cabelo curto a destaca da multidão, mas o que a destaca mais são suas observações ácidas sobre a própria situação.
 
-Já Jack Lemmon exibe o mesmo drama do lado masculino. Ciente de que precisa agradar seu chefe para manter sua escalada na empresa em tempo recorde, ao mesmo tempo revive um drama que passou quando se apaixonou pela mulher de um amigo. Porém, aqui ele não está apaixonado, mas apenas gosta dessa pessoa, o que torna tudo mais cruel, pois ele enxerga tudo que acontece com sua garota perfeitamente sóbrio. Sua fala e seu sorriso indicam auto controle, mas seus olhos tristes dizem outra coisa. Da mesma forma com que o preto e branco o filme, lindo de morrer, com luzes que exaltam o charme de Nova York, mas, mesmo assim, melancolicamente solitário.
+Já Jack Lemmon exibe o mesmo drama do lado masculino. Ciente de que precisa agradar seu chefe para manter sua escalada na empresa em tempo recorde, ao mesmo tempo revive um drama que passou quando se apaixonou pela mulher de um amigo. Porém, aqui ele não está apaixonado, mas apenas gosta dessa pessoa, o que torna tudo mais cruel, pois ele enxerga tudo que acontece com sua garota perfeitamente sóbrio. Sua fala e seu sorriso indicam auto controle, mas seus olhos tristes dizem outra coisa. O preto e branco do filme, lindos de morrer, exaltam o charme de Nova York, embora uma megalópole melancolicamente solitária.
 
 A direção de Wilder, como sempre, é econômica e eficaz. Sua única transição entre cenas que me lembro é de um espaguete para um enfeite de ano novo. Sua única piada metalinguística envolve uma arma e um champanhe. Suas transições são ágeis para nunca perdermos o fio da meada, e seu melhor momento é na véspera de natal, quando Baxter fica dançando ad eternum com uma qualquer que encontra no bar, enquanto Fran se desespera sozinha no apartamento do rapaz. O que se segue após essa sequência é o melhor que o cinema de Wilder consegue alcançar em termos de envolvimento. E só isso já está milênios-luz da maioria das historinhas de romancezinhos modernos.

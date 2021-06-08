@@ -4,7 +4,6 @@ categories:
 date: '2016-07-29'
 link: https://www.imdb.com/title/tt3715320
 tags:
-- draft
 title: O Homem Irracional
 ---
 
@@ -22,7 +21,7 @@ Porém, o que ocorre depois pode dar um nó no parafuso dos mais aficionados a q
 
 De qualquer forma, como disse, o filme é um dos trabalhos mais impotentes do diretor, e embora envolto em ideias fascinantes, o roteiro também está recheado de pistas simples do que está acontecendo, e reviravoltas já conhecidas de fãs do diretor. Para dar um exemplo, qualquer espectador de Match Point se sentiria milhas à frente dos personagens deste filme.
 
-Sem ter muito como reinventar a roda, revemos um exemplar de Crime e Castigo em cena -- o livro do autor russo Fyodor Dostoyevsky já usado em Match Point -- e mais sobre o caos, a sorte e o revés. Porém, dessa vez, os motivos do filme parecem ser apenas esses, sem a profundidade da questão social que Match Point coloca. Se na obra-prima de Allen sobre o acaso acreditamos de fato estar lidando com forças incompreensíveis, agora somos conhecedores desse universo do autor, que é o mesmo, e acompanhar desdobramento semelhante se torna tão fascinante quanto enfadonho.
+Sem ter muito como reinventar a roda, revemos um exemplar de Crime e Castigo em cena -- o livro do autor russo Fyodor Dostoyevsky já usado em Match Point -- e mais sobre o caos, a sorte e o revés. Porém, dessa vez, os motivos do filme são apenas esses, sem a profundidade da questão social que Match Point coloca. Se na obra-prima de Allen sobre o acaso acreditamos de fato estar lidando com forças incompreensíveis, agora somos conhecedores desse universo do autor, que é o mesmo, e acompanhar desdobramento semelhante se torna tão fascinante quanto enfadonho.
 
 Conseguindo representar um exercício verborrágico sobre filosofia sem precisar inundar de detalhes o espectador desavisado, mas ainda assim atingir a ineficiência da teoria em um filme que fala sobre agir, O Homem Irracional se transforma em um dos filmes mais frustrantes da carreira recente do diretor, mas justamente por isso um dos mais interessantes de acompanhar.
 

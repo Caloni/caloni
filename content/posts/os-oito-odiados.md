@@ -4,7 +4,6 @@ categories:
 date: '2016-07-29'
 link: https://www.imdb.com/title/tt3460252
 tags:
-- draft
 title: Os Oito Odiados
 ---
 
@@ -14,7 +13,7 @@ Por outro lado, temos uma revelação surpreendente em Jennifer Jason Leigh, que
 
 Ainda do lado das atuações de destaque, Samuel L. Jackson usa todo o poder de um personagem que ganha sua liberdade na recém-terminada guerra civil americana, mas que continua fortalecendo sua posição a cada gesto e diálogo do próximo sulista rancoroso que encontrar pela frente. Podemos imaginar o personagem de L. Jackson como reencarnação de Django no filme anterior do diretor, onde um negro ousava andar livre e armado ao redor de plantações do rio Mississipi.
 
-Já Quentin Tarantino, em seu oitavo filme -- como gosta de alardear nos créditos iniciais -- parece se apaixonar perdidamente pela sua técnica e se esquecer momentaneamente como fazer filmes que prendem a atenção do começo ao fim. Ele agora arrasta do começo ao fim o desenrolar da história, como se estivesse com dó de cortar cenas ou de deixar a direção (o diretor diz que quer fazer apenas 10 filmes no total, sendo o motivo apontado por às vezes contar em que número estamos).
+Já Quentin Tarantino, em seu oitavo filme -- como gosta de alardear nos créditos iniciais -- se apaixona perdidamente pela sua técnica e se esquece momentaneamente como fazer filmes que prendem a atenção do começo ao fim. Ele agora arrasta do começo ao fim o desenrolar da história, como se estivesse com dó de cortar cenas ou de deixar a direção (o diretor diz que quer fazer apenas 10 filmes no total, sendo o motivo apontado por às vezes contar em que número estamos).
 
 O elenco em geral já trabalhou com o diretor e se esforça em manter um clima western parte Sergio Leoneano, parte Tarantinesco. Os diálogos são espertos demais para serem reais, e há um clima investigativo em um momento que desfaz toda a atmosfera rústica daquelas pessoas vivendo uma época onde andar armado (e saber atirar) é mandatório.
 

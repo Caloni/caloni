@@ -4,11 +4,10 @@ categories:
 date: '2016-07-16'
 link: https://www.imdb.com/title/tt2400463
 tags:
-- draft
-title: the Invitation
+title: O Convite
 ---
 
-Esse filme de 2015 não estreou nos cinemas do Brasil, mas graças à Netflix -- que não precisa de nenhuma cota idiota -- ele está disponível para espectadores caseiros. Se trata de um thriller travestido de drama, com todos os atores desconhecidos, algumas técnicas batidas e um certo gosto de estranheza que acompanha a tela pela maioria do tempo.
+Esse filme de 2015 não estreou nos cinemas do Brasil, mas graças à Netflix está disponível para espectadores caseiros. Se trata de um thriller travestido de drama, com todos os atores desconhecidos, algumas técnicas batidas e um certo gosto de estranheza que acompanha a tela pela maioria do tempo.
 
 Essa estranheza já começa na primeira cena, onde vemos um casal conversando sobre o convite que receberam da ex-mulher dele, Will (Logan Marshall-Green), junto de todos seus amigos e conhecidos. Eles estão no carro, e um animal acaba sendo atropelado. Ainda vivo, Will precisa sacrificá-lo com uma chave de rodas. Piedoso, talvez.
 
