@@ -4,7 +4,6 @@ categories:
 date: '2016-08-08'
 link: https://www.imdb.com/title/tt0803096
 tags:
-- draft
 title: 'Warcraft: O Primeiro Encontro de Dois Mundos'
 ---
 
@@ -12,7 +11,7 @@ Warcraft consegue manter o tema de estratégia de guerra do jogo viva no filme; 
 
 Baseado em um video-game de RTS (Real Time Strategy, ou Estratéga de Tempo Real), que mais tarde se tornou um RPG consagrado, a história gira em torno dos detalhes de jogabilidade, como o uso da magia em ambas as raças, o poder guerreiro dos orcs, além de seu respeito incondicional às suas tradições, e a habilidade na política dos seres humanos.
 
-Mas eu disse duas raças? Warcraft, já no filme de estreia, já ensaia abrir uma franquia que possui um potencial interessante. O mundo dos humanos é pacífico, e lá habitam diferentes raças em harmonia. Há um quê de Senhor do Aneis em muitos momentos.
+Mas eu disse duas raças? Warcraft no filme de estreia já ensaia abrir uma franquia que possui um potencial interessante. O mundo dos humanos é pacífico, e lá habitam diferentes raças em harmonia. Há um quê de Senhor do Aneis em muitos momentos.
 
 No entanto, o foco desse filme é mesmo a batalha entre humanos e orcs. Tendo seu mundo destruído, os orcs realizam uma "migração" graças ao uso de uma magia maligna, que suga a energia das pessoas -- de qualquer raça -- e produz um mana verde que permite abrir um portal entre dois mundos.
 

@@ -4,7 +4,6 @@ categories:
 date: '2016-08-05'
 link: https://www.imdb.com/title/tt1512235
 tags:
-- draft
 title: Super
 ---
 
@@ -18,9 +17,9 @@ Porque o fato é: estamos no mundo real, mas é a imaginação dos personagens (
 
 Ou será? Qualquer pessoa normal esqueceria da desilusão amorosa em pouco tempo. Porém, o que acontece quando você acredita no laço divino do matrimônio e essa mesma pessoa (que coincidência) é "iluminada" por Deus? Ou, melhor dizendo, quando essa pessoa está procurando um motivo insano qualquer para conseguir dar a volta no diabo e justificar seu chamado divino? E o que acontece com a mente desse sujeito, que mistura revelações sagradas com uma sequência de hentai?
 
-A direção de James Gunn torna tudo mais simples e rápido, mas estamos de fato assistindo a um drama pesado que graças à máscara de herói vira uma comédia de horror. Os fabulosos créditos iniciais, estilizados como desenho em papel de caderno, facilitam essa visão. Os cortes rápidos, e até o uso de efeitos semelhantes à série televisiva do Batman, demonstram de uma maneira eficiente como se constrói um "filme com capa" sem parecer macabro demais.
+A direção de James Gunn torna tudo mais simples e rápido, mas estamos de fato assistindo a um drama pesado que graças à máscara de herói vira uma comédia de horror. Os fabulosos créditos iniciais, estilizados como desenho em papel de caderno, facilitam essa visão. Os cortes rápidos, e até o uso de efeitos semelhantes à série televisiva do Batman, demonstram de uma maneira eficiente como se constrói um "filme com capa" sem ser macabro demais.
 
-Além do mais, a produção do filme parece se divertir imensamente com esse roteiro. A direção de arte coloca uma costura de trapos vermelhos de gosto extremamente duvidoso (mas como o diabo é vermelho, melhor chamar de carmim). Depois disso, seu carro se transforma no "Carmim-móvel", e até a chave que ele usa para bater nas pessoas é vermelha (quer dizer... carmim!).
+Além do mais, a produção do filme se diverte imensamente com esse roteiro. A direção de arte coloca uma costura de trapos vermelhos de gosto extremamente duvidoso (mas como o diabo é vermelho, melhor chamar de carmim). Depois disso, seu carro se transforma no "Carmim-móvel", e até a chave que ele usa para bater nas pessoas é vermelha (quer dizer... carmim!).
 
 Ao mesmo tempo, a fotografia de Steve Gainer deixa tudo colorido ao máximo do lado dos heróis, e com todas as cores drenadas do lado dos "vilões". Até o casal que fura a fila do cinema não tem cor em suas roupas. E quem disse que heróis precisam de tema musical? A trilha de Tyler Bates é divertida do começo ao fim, que junto de uma seleção musical frenética e uma edição idem, torna a experiência enxuta, mesmo se passando meses no processo.
 

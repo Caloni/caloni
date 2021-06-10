@@ -5,7 +5,6 @@ date: '2016-08-04'
 link: https://www.imdb.com/title/tt3082854
 tags:
 - cinemaqui
-- draft
 title: A Comunidade
 ---
 
@@ -23,4 +22,4 @@ O que se torna mais doloroso ao constatar que "o sonho acabou" é que o design d
 
 Melhor que isso apenas a escolha certeira de músicas, que são famosas e soariam gratuitas não fosse o universo especial que elas enchem de cor. A trilha sonora de Fons Merkies acrescenta ainda um tom particularmente contemplativo e misterioso -- no sentido de deslumbramento -- àquele mundo.
 
-Começando de maneira simplória e terminando um arco que foi se anunciando aos poucos, A Comunidade acaba sendo não um estudo de personagem, embora possa ser confundido como tal, mas como um estudo de toda uma geração. E não as 70, mas a nossa. Porque por mais compreensivos e desimpedidos de preconceitos/estereótipos que possamos nos auto-declarar, alguma coisa sempre parece estar no caminho. Se isso atrapalha experiências humanas melhores, ou é algum instinto de auto-preservação, ou até outra coisa, é um mistério. Mas apenas por tentar descobrir, o filme merece todo meu respeito.
+Começando de maneira simplória e terminando um arco que foi se anunciando aos poucos, A Comunidade acaba sendo não um estudo de personagem, embora possa ser confundido como tal, mas como um estudo de toda uma geração. E não as 70, mas a nossa. Porque por mais compreensivos e desimpedidos de preconceitos/estereótipos que possamos nos auto-declarar, alguma coisa sempre está no caminho. Se isso atrapalha experiências humanas melhores, ou é algum instinto de auto-preservação, ou até outra coisa, é um mistério. Mas apenas por tentar descobrir, o filme merece todo meu respeito.
