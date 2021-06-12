@@ -1,0 +1,8 @@
+<script>
+var quick_search_posts = [
+{{ range .Site.RegularPages }}
+"{{ .File.TranslationBaseName }}",
+{{ end }}
+];
+</script>
+

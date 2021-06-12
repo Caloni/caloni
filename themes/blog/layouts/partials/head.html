@@ -44,6 +44,7 @@
   <!-- CSS -->
   {{ with .Params.css }}{{ . | safeHTML }}{{ end }}
   <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
 
   <!-- JS -->
   {{ with .Params.js }}{{ . | safeJS | htmlUnescape | safeHTML }}{{ end -}}
@@ -61,8 +62,14 @@
     {{ end }}
   {{ end }}
   </script>
-  <script src="/js/jquery.min.js"></script>
-  <script src="/js/list.js"></script>
+  <script src="/js/jquery-1.10.2.js"></script>
+  <script src="/js/jquery-ui.js"></script>
+  {{ if .IsHome }}
+    {{ partial "quick_search_head.html" . }}
+    <script src="/js/quick_search.js"></script>
+  {{ else }}
+    <script src="/js/list.js"></script>
+  {{ end }}
 
   <!-- Favicons -->
   {{ if (fileExists (print "/static" .Site.Data.defaults.icons.favicon)) -}}
