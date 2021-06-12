@@ -19,7 +19,6 @@ theme = "blog"
 
 [params]
     contentGit = "https://github.com/Caloni/blog"
-    googleAnalytics = "UA-50557403-2"
     namespace = "caloni"
     author = "Wanderley Caloni"
     showFilterAfter = 1

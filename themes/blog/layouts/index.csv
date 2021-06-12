@@ -1,3 +1,0 @@
-{{ range .Site.RegularPages }}{{ .Params.link }},"{{ delimit .Params.tags ", " }}","{{ .Content | plainify }}"
-{{ end }}
-
