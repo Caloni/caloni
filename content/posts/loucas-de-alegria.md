@@ -5,7 +5,6 @@ date: '2016-08-17'
 link: https://www.imdb.com/title/tt4621872
 tags:
 - cinemaqui
-- draft
 title: Loucas de Alegria
 ---
 
