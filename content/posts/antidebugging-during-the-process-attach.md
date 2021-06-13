@@ -3,17 +3,16 @@ categories:
 - code
 date: '2008-08-05'
 tags:
-- draft
 title: Antidebugging during the process attach
 ---
 
-Today was a great day for reverse engineering and protection analysis. I've found two great programs to to these things: a [API call monitor](http://www.kakeeware.com/) and a [COM call monitor](http://www.blunck.info/comtrace.html). Besides that, in the first program site - from a enthusiastic of the good for all Win32 Assembly - I've found the source code for one more antidebugging technique, what bring us back to our series of [antidebugging techniques](http://www.caloni.com.br/blog/?s=antidebug%3A).
+Today was a great day for reverse engineering and protection analysis. I've found two great programs to to these things: a API call monitor (update: does not exist anymore) and a COM call monitor (update: either). Besides that, in the first program site - from a enthusiastic of the good for all Win32 Assembly - I've found the source code for one more antidebugging technique, what bring us back to our series of antidebugging techniques.
 
 #### The antiattaching technique
 
 The purpose of this protection is to detect if some debugger tries to attach into our running process. The attach to process operation is pretty common in all known debugger, as WinDbg and Visual Studio. Different from the DebugPort protection, this solution avoids the attach action from the debuggee program. In this case the protection can make choices about what to do on the event of attach (terminate the process, send an e-mail, etc).
 
-The code I've found does nothing more than to make use of the attach process function that's always called: the **ntdll!DbgUiRemoteBreakin**. Being always called, we can just to put our code there, what is relatively easy to do:
+The code I've found does nothing more than to make use of the attach process function that's always called: the ntdll!DbgUiRemoteBreakin. Being always called, we can just to put our code there, what is relatively easy to do:
 
 ```cpp
 #include <windows.h>
@@ -75,26 +74,21 @@ int main()
 	cout << "Try to attach, if you can...";
 	cin.get();
 } 
-
 ```
 
 To compile the code above, just call the compiler and linker normally. Obs.: We need the user32.lib in order to call MessageBox API:
 
-    
     cl /c antiattach.cpp
     link antiattach.obj user32.lib
-
     
     antiattach.exe
     Try to attach, if you can...
 
 After the program has been running, every try to attach will show a detection message and program termination.
 
-    
     windbg -pn antiattach.exe
 
-    
-    <a href="http://i.imgur.com/mdRqvjp.png" title="Detecção de attach"><img src="http://www.caloni.com.br/blog/wp-content/uploads/antiattach.png" alt="Detecção de attach"></img></a>
+![Espertinho](/img/espertinho.png)
 
 #### Code peculiarities
 
@@ -108,17 +102,14 @@ BYTE jmpToAntiAttachAbort[] =
 
 // we change 0xCCCCCCCC using a more useful address
 *reinterpret_cast<PVOID*>(&jmpToAntiAttachAbort[1]) = AntiAttachAbort; 
-
 ```
 
-There are a lot of ways to do the same thing. The example above is what is normally called in the crackers community as a [**shellcode**](http://shellcode.org/Shellcode/), what is a pretty name for "byte array that is really the assembly code that does interesting things". _Shellcode for short_ =).
+There are a lot of ways to do the same thing. The example above is what is normally called in the crackers community as a shellcode, what is a pretty name for "byte array that is really the assembly code that does interesting things". Shellcode for short =).
 
 Alternative ways to do this are:
 
-    
   1. To declare a naked function in Visual Studio, to create an empty function just after, do some math to calculate the size of the function to be copied into another place (aware of Edit and Continue option).
 
-    
   2. To create a structure whose members are masked opcodes. This way, is possible in the constructor to receive the values and use it as a "mobile function".
 
 Both have pros and cons. The cons are related with the environment dependency. In the first alternative is necessary to configure the project to disable "Edit and Continue" option, whilst in the second one is necessary to align 1 byte the structure.

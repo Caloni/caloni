@@ -3,33 +3,29 @@ categories:
 - blog
 date: '2008-08-13'
 tags:
-- draft
 title: Quando o navegador não quer largar um arquivo
 ---
 
-De vez em quando gosto muito de um vídeo que estou assistindo. Gosto tanto que faço questão de guardar para assistir mais vezes depois. O problema é que o meu Firefox ou, para ser mais técnico, o _plugin_ de vídeo que roda em cima do meu navegador, não permite isso. Ele simplesmente cria um arquivo temporário para exibir o vídeo e logo depois o apaga, utilizando uma técnica muito útil da função [CreateFile](http://msdn.microsoft.com/en-us/library/aa363858.aspx), que bloqueia o acesso do arquivo temporário e apaga-o logo após o uso:
+De vez em quando gosto muito de um vídeo que estou assistindo. Gosto tanto que faço questão de guardar para assistir mais vezes depois. O problema é que o meu Firefox ou, para ser mais técnico, o plugin de vídeo que roda em cima do meu navegador, não permite isso. Ele simplesmente cria um arquivo temporário para exibir o vídeo e logo depois o apaga, utilizando uma técnica muito útil da função CreateFile, que bloqueia o acesso do arquivo temporário e apaga-o logo após o uso:
 
-    
     HANDLE WINAPI CreateFile(
       __in      LPCTSTR lpFileName,
       __in      DWORD dwDesiredAccess,
-    <font color="#ff0000">  __in      DWORD dwShareMode,</font>
+      __in      DWORD dwShareMode,
       __in_opt  LPSECURITY_ATTRIBUTES lpSecurityAttributes,
       __in      DWORD dwCreationDisposition,
-    <font color="#ff0000">  __in      DWORD dwFlagsAndAttributes,</font>
+      __in      DWORD dwFlagsAndAttributes,
       __in_opt  HANDLE hTemplateFile
     );
 
 #### dwShareMode
 
-    
     Value                        Meaning
     0                            Disables subsequent open operations on a file or device
     0x00000000                   to request any type of access to that file or device.
 
 #### dwFlagsAndAttributes
 
-    
     Value                        Meaning
     FILE_FLAG_DELETE_ON_CLOSE    The file is to be deleted immediately after all of its
                                  handles are closed, which includes the specified handle
@@ -41,12 +37,10 @@ Infelizmente, tudo isso roda sob limites muito restritos: um navegador, rodando 
 
 #### De volta ao WinDbg
 
-Antes de iniciar a reprodução do vídeo, e conseqüentemente a criação do arquivo temporário, podemos atachar uma instância do nosso depurador do coração e colocar um _breakpoint_ onde interessa:
+Antes de iniciar a reprodução do vídeo, e conseqüentemente a criação do arquivo temporário, podemos atachar uma instância do nosso depurador do coração e colocar um breakpoint onde interessa:
 
-    
     windbg -pn firefox.exe
 
-    
     Microsoft (R) Windows Debugger Version 6.8.0004.0 X86
     Copyright (c) Microsoft Corporation. All rights reserved.
     
@@ -65,8 +59,8 @@ Antes de iniciar a reprodução do vídeo, e conseqüentemente a criação do ar
     cs=001b  ss=0023  ds=0023  es=0023  fs=0038  gs=0000             efl=00000246
     ntdll!DbgBreakPoint:
     7c901230 cc              int     3
-    0:017> bp <font color="#ff0000">kernel32!CreateFileA</font>
-    0:017> bp <font color="#ff0000">kernel32!CreateFileW</font>
+    0:017> bp kernel32!CreateFileA
+    0:017> bp kernel32!CreateFileW
     0:017> g
     Breakpoint 2 hit
     eax=00000001 ebx=00000000 ecx=05432c10 edx=0000003e esi=0532ea00 edi=00000000
@@ -77,21 +71,17 @@ Antes de iniciar a reprodução do vídeo, e conseqüentemente a criação do ar
 
 Nesse momento podemos dar uma boa olhada nos parâmetros 4 e 6 da função para ver se trata-se realmente da proteção prevista (na verdade, prevista, nada; esse é um artigo baseado em uma experiência passada; vamos imaginar, contudo, que estamos descobrindo essas coisas como na primeira vez).
 
-    
     0:000> dd esp
-    0012f30c  300afc06 03f91920 c0000000 <font color="#ff0000">00000000</font>
-    0012f31c  00000000 00000002 <font color="#ff0000">14000000</font> 00000000
+    0012f30c  300afc06 03f91920 c0000000 00000000
+    0012f31c  00000000 00000002 14000000 00000000
 
-Como podemos ver, o modo de compartilhamento do arquivo é nenhum. Entre os flags definidos no sexto parâmetro, está o de apagar o arquivo ao fechar o handle, como pude constatar no header do SDK:
-
-![createfileflags.png](http://i.imgur.com/mWiWXuh.png)
+Como podemos ver, o modo de compartilhamento do arquivo é nenhum. Entre os flags definidos no sexto parâmetro, está o de apagar o arquivo ao fechar o handle, como pude constatar no header do SDK.
 
 Nesse caso, a solução mais óbvia e simples foi deixar esse bit desabilitado, não importando se o modo de compartilhamento está desativado. Tudo que temos que fazer é assistir o vídeo mais uma vez e fechar a aba do navegador. O arquivo será fechado, o compartilhamento aberto, e o arquivo, não apagado.
 
-    
-    0:012> bp kernel32!CreateFileW <font color="#ff0000">"ed @esp+4*6 poi(@esp+4*6) & 0xfbffffff"</font>
+    0:012> bp kernel32!CreateFileW "ed @esp+4*6 poi(@esp+4*6) & 0xfbffffff"
     breakpoint 1 redefined
-    0:012> bp kernel32!CreateFileA <font color="#ff0000">"ed @esp+4*6 poi(@esp+4*6) & 0xfbffffff"</font>
+    0:012> bp kernel32!CreateFileA "ed @esp+4*6 poi(@esp+4*6) & 0xfbffffff"
     breakpoint 0 redefined
     0:012> g
 

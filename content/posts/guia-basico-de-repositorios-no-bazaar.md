@@ -3,33 +3,22 @@ categories:
 - code
 date: '2008-06-10'
 tags:
-- draft
 title: Guia básico de repositórios no Bazaar
 ---
 
-Alguns conceitos-chave antes de trabalhar com o [Bazaar](http://bazaar-vcs.org/) são:
+Alguns conceitos-chave antes de trabalhar com o Bazaar são:
 
-	
-  * _**Revision**_ (Revisão). Um snapshot dos arquivos que você está trabalhando.
-
-	
-  * _**Working Tree**_ (Árvore de Trabalho). Um diretório contendo seus arquivos controlados por versão e subdiretórios.
-
-	
-  * _**Branch**_ (Ramificação). Um grupo ordenado de revisões que descreve o histórico de um grupo de arquivos.
-
-	
-  * _**Repository**_ (Repositório). Um depósito de revisões.
+ - Revision (Revisão). Um snapshot dos arquivos que você está trabalhando.
+ - Working Tree (Árvore de Trabalho). Um diretório contendo seus arquivos controlados por versão e subdiretórios.
+ - Branch (Ramificação). Um grupo ordenado de revisões que descreve o histórico de um grupo de arquivos.
+ - Repository (Repositório). Um depósito de revisões.
 
 Agora vamos brincar um pouco com os conceitos.
 
-#### Criando o primeiro projeto controlado
+O uso mais simples que existe no Bazaar é o controle de uma pasta sozinha, conhecida como uma Standalone Tree. Como toda Working Tree, ela possui um repositório relacionado, que no caso está dentro dela mesmo, na pasta oculta ".bzr".
 
-O uso mais simples que existe no Bazaar é o controle de uma pasta sozinha, conhecida como uma _**Standalone Tree**_. Como toda Working Tree, ela possui um repositório relacionado, que no caso está dentro dela mesmo, na pasta oculta "**.bzr**".
+Pra criar uma Standalone Tree, tudo que precisamos é usar o comando init de dentro da pasta a ser controlada, quando é criado um repositório local. Adicionamos arquivos para o repositório com o comando add, e finalizamos nossa primeira versão com o comando commit.
 
-Pra criar uma Standalone Tree, tudo que precisamos é usar o comando **init** de dentro da pasta a ser controlada, quando é criado um repositório local. Adicionamos arquivos para o repositório com o comando **add**, e finalizamos nossa primeira versão com o comando **commit**.
-
-    
     C:\Tests>cd project1
     
     C:\Tests\project1>bzr init
@@ -62,13 +51,10 @@ Pra criar uma Standalone Tree, tudo que precisamos é usar o comando **init** de
     
     C:\Tests\project1>
 
-Feito. A partir daí temos um repositório onde podemos realizar o comando **commit** sempre que quisermos marcar um _snapshot _em nosso código-fonte.
+Feito. A partir daí temos um repositório onde podemos realizar o comando commit sempre que quisermos marcar um snapshot em nosso código-fonte.
 
-#### Criando um novo branch
+Se quisermos fazer uma alteração muito grande em nosso pequeno projeto seria melhor termos outro diretório onde trabalhar antes de realizar o commit na versão estável. Para isso podemos usar o comando branch, que cria uma nova pasta com todo o histórico da pasta inicial até esse ponto. Os históricos em um branch estão duplicados em ambas as pastas, e portanto são independentes. Você pode apagar a pasta original ou a secundária que terá o backup inteiro no novo branch.
 
-Se quisermos fazer uma alteração muito grande em nosso pequeno projeto seria melhor termos outro diretório onde trabalhar antes de realizar o commit na versão estável. Para isso podemos usar o comando branch, que cria uma nova pasta com todo o histórico da pasta inicial até esse ponto. Os históricos em um branch estão duplicados em ambas as pastas, e portanto são independentes. Você pode apagar a pasta original ou a secundária que terá o _backup_ inteiro no novo branch.
-
-    
     C:\Tests\project1>cd ..
     
     C:\Tests>bzr branch project1 project1-changing
@@ -78,21 +64,16 @@ Se quisermos fazer uma alteração muito grande em nosso pequeno projeto seria m
     
     C:\Tests\project1-changing>
 
-#### Criando um repositório compartilhado
+Criar um novo branch totalmente duplicado pode se tornar um desperdício enorme de espaço em disco (e tempo). Para isso foi criado o conceito de Shared Repository, que basicamente é um diretório acima dos branchs que trata de organizar as revisões em apenas um só lugar, com a vantagem de otimizar o espaço. Nesse caso, antes de criar o projeto, poderíamos usar o comando init-repo na pasta mãe de nosso projeto, e depois continuar com o processo de init dentro da pasta do projeto.
 
-Criar um novo _branch_ totalmente duplicado pode se tornar um desperdício enorme de espaço em disco (e tempo). Para isso foi criado o conceito de Shared Repository, que basicamente é um diretório acima dos branchs que trata de organizar as revisões em apenas um só lugar, com a vantagem de otimizar o espaço. Nesse caso, antes de criar o projeto, poderíamos usar o comando init-repo na pasta mãe de nosso projeto, e depois continuar com o processo de init dentro da pasta do projeto.
-
-    
     C:\>bzr init-repo Tests
     
     C:\>cd Tests
     
     C:\Tests>bzr init project1
 
-    
     C:\Tests>cd project1
 
-    
     C:\Tests\project1>bzr add
     added AUTHORS
     added COPYING
@@ -118,16 +99,13 @@ Criar um novo _branch_ totalmente duplicado pode se tornar um desperdício enorm
     added winboard/extends/infboard/msvc.mak
     added winboard/extends/infboard/support.c
     Committed revision 1.
-    
+
     C:\Tests\project1>
 
 Se compararmos o tamanho, veremos que o repositório compartilhado é que detém a maior parte dos arquivos, enquanto agora o ".bzr" que está na pasta do projeto possui apenas dados de controle. A mesma coisa irá acontecer com qualquer branch criado dentro da pasta de repositório compartilhado.
 
-![bzr-space-tests.png](http://i.imgur.com/chke8un.png)![bzr-space-project1.png](http://i.imgur.com/YOMREEh.png)
-
 Mas já criamos nossos dois branches cheios de arquivos, certo? Certo. Como já fizemos isso, devemos criar uma nova pasta como repositório compartilhado e criar dois novos branches dentro dessa pasta, cópias dos dois branches gordinhos:
 
-    
     C:\Tests>bzr init-repo project1-repo
     
     C:\Tests>bzr branch project1 project1-repo\project1
@@ -140,13 +118,10 @@ Mas já criamos nossos dois branches cheios de arquivos, certo? Certo. Como já 
 
 Isso irá recriar esses dois branches como os originais, mas com a metade do espaço em disco, pois seus históricos estarão compartilhados na pasta project1-repo.
 
-#### E o tal do SubVersion?
-
-O [SubVersion](http://subversion.tigris.org/) é um sistema de controle centralizado. O Bazaar consegue se comportar exatamente como o SubVersion, além de permitir carregar o histórico inteiro consigo. Quem decide como usá-lo é apenas você, pois cada usuário do sistema tem a liberdade de escolher a melhor maneira.
+O SubVersion é um sistema de controle centralizado. O Bazaar consegue se comportar exatamente como o SubVersion, além de permitir carregar o histórico inteiro consigo. Quem decide como usá-lo é apenas você, pois cada usuário do sistema tem a liberdade de escolher a melhor maneira.
 
 Os comandos para usar o Bazaar à SubVersion são os mesmos do SubVersion: checkout e commit. No entanto, um checkout irá fazer com que seu commit crie a nova revisão primeiro no seu servidor (branch principal) e depois localmente. Se você não deseja criar um histórico inteiro localmente, pode criar um checkout leve (parâmetro --lightweight), que apenas contém arquivos de controle. No entanto, se o servidor de fontes não estiver disponível, você não será capaz de ações que dependam dele, como ver o histórico ou fazer commits.
 
-    
     C:\Tests\client>bzr checkout ..\server\project1
     
     C:\Tests\client>cd project1
@@ -169,14 +144,4 @@ Os comandos para usar o Bazaar à SubVersion são os mesmos do SubVersion: check
     
     C:\Tests\client\project1>
 
-Na verdade, o Bazaar vai além, e permite que um branch/checkout específico seja conectado e desconectado em qualquer repositório válido. Para isso são usados os comandos **bind** e **unbind**. Um branch conectado faz commits remotos e locais, enquanto um branch unbinded faz commits apenas locais. É possível mudar esse comportamento com o parâmetro **--local**, e atualizar o branch local com o comando **update**.
-
-#### Mais detalhes
-
-	
-  * [Bazaar User Guide](http://doc.bazaar-vcs.org/bzr.dev/en/user-guide/)
-
-#### Mais detalhes ainda
-
-	
-  * [Bazaar User Reference](http://doc.bazaar-vcs.org/bzr.dev/en/user-reference/bzr_man.html)
+Na verdade, o Bazaar vai além, e permite que um branch/checkout específico seja conectado e desconectado em qualquer repositório válido. Para isso são usados os comandos bind e unbind. Um branch conectado faz commits remotos e locais, enquanto um branch unbinded faz commits apenas locais. É possível mudar esse comportamento com o parâmetro --local, e atualizar o branch local com o comando update.

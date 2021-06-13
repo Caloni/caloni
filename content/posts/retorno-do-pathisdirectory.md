@@ -3,17 +3,15 @@ categories:
 - blog
 date: '2008-09-10'
 tags:
-- draft
 title: Retorno do PathIsDirectory
 ---
 
-Estava eu outro dia programando aquele código esperto "para ontem" quando me deparei com uma situação no mínimo inusitada. Ao testar se [um caminho recebido era de fato um diretório](http://msdn.microsoft.com/en-us/library/bb773621(VS.85).aspx) me foi retornado pela API um valor diferente de TRUE. E diferente de FALSE!
+Estava eu outro dia programando aquele código esperto "para ontem" quando me deparei com uma situação no mínimo inusitada. Ao testar se um caminho recebido era de fato um diretório me foi retornado pela API um valor diferente de TRUE. E diferente de FALSE!
 
 De acordo com a documentação, o retorno deveria ser TRUE caso o caminho enviado à função fosse de fato um diretório. Caso contrário, o retorno deveria ser FALSE.
 
 Note que existem apenas dois valores possíveis para essa função. Porém, o valor retornado não é 1, o equivalente ao define TRUE, mas sim 0x10 (16 em hexadecimal). O simples exemplo abaixo deve conseguir reproduzir a situação (Windows XP Service Pack 3):
 
-    
     Setting environment for using Microsoft Visual Studio 2008 x86 tools.
     
     C:\Tests>copy con IsPathDir.cpp
@@ -42,35 +40,30 @@ Note que existem apenas dois valores possíveis para essa função. Porém, o va
     IsPathDir.obj
     
     C:\Tests>IsPathDir.exe
-    <font color="#ff0000">Resultado: 16.</font>
+    Resultado: 16.
 
 Isso quer dizer apenas que o código abaixo vai funcionar,
 
-    
     if( PathIsDirectory(path) ) // legal: qualquer coisa diferente de zero
 
 o código abaixo vai funcionar
 
-    
     if( ! PathIsDirectory(path) ) // legal: se der zero (FALSE), OK
 
-e o código abaixo **não vai funcionar**:
+e o código abaixo não vai funcionar:
 
-    
     if( PathIsDirectory(path) == TRUE ) // vixi: TRUE nem sempre é o resultado
 
-E, pior, o código abaixo **também não vai funcionar**!
+E, pior, o código abaixo também não vai funcionar!
 
-    
     if( PathIsDirectory(path) != TRUE ) // aff... é bom rever os seus conceitos
 
-Pesquisando um pouco descobri [uma boa discussão sobre o tema](http://www.microsoft.com/communities/newsgroups/en-us/default.aspx?dg=microsoft.public.win32.programmer.kernel&tid=15f6c3fd-a57e-4c27-91ea-2ddd49aaf2a6&cat=&lang=&cr=&sloc=&p=1), e inclusive que outras pessoas descobriram o [interessante detalhe](http://svn.haxx.se/tsvn/archive-2004-10/0425.shtml) que para pastas normais o retorno é 0x10, mas para compartilhamentos o retorno é 0x1.
+Pesquisando um pouco descobri uma boa discussão sobre o tema, e inclusive que outras pessoas descobriram o interessante detalhe que para pastas normais o retorno é 0x10, mas para compartilhamentos o retorno é 0x1.
 
 #### O bug atrás dos documentos
 
 O problema ocorre por causa da maneira que a função determina se o caminho é um diretório ou não. Uma simples vistoria sobre a função nos revela o detalhe crucial:
 
-    
     C:\Tests>cl /Zi IsPathDir.cpp
     Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
     Copyright (C) Microsoft Corporation.  All rights reserved.
@@ -106,7 +99,7 @@ O problema ocorre por causa da maneira que a função determina se o caminho é 
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000202
     ntdll!DbgBreakPoint:
     7c901230 cc              int     3
-    0:000> <font color="#ff0000">g shlwapi!PathIsDirectoryA</font>
+    0:000> g shlwapi!PathIsDirectoryA
     ModLoad: 76360000 7637d000   C:\WINDOWS\system32\IMM32.DLL
     ModLoad: 62e80000 62e89000   C:\WINDOWS\system32\LPK.DLL
     ModLoad: 74d50000 74dbb000   C:\WINDOWS\system32\USP10.dll
@@ -235,7 +228,7 @@ O problema ocorre por causa da maneira que a função determina se o caminho é 
     eip=77ee75fa esp=0012fd54 ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
     SHLWAPI!PathIsDirectoryA+0xc2:
-    77ee75fa ff15d411ea77    <font color="#ff0000">call    dword ptr [SHLWAPI!_imp__GetFileAttributesA (77ea11d4)]</font>
+    77ee75fa ff15d411ea77    call    dword ptr [SHLWAPI!_imp__GetFileAttributesA (77ea11d4)]
     0:000>
     eax=00000011 ebx=7ffde000 ecx=7c91056d edx=00140608 esi=0041dc5c edi=7c911970
     eip=77ee7600 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
@@ -253,7 +246,7 @@ O problema ocorre por causa da maneira que a função determina se o caminho é 
     eip=77ee7605 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl nz ac pe cy
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000217
     SHLWAPI!PathIsDirectoryA+0xcd:
-    77ee7605 83e010          <font color="#ff0000">and     eax,10h</font>
+    77ee7605 83e010          and     eax,10h
     0:000>
     eax=00000010 ebx=7ffde000 ecx=7c91056d edx=00140608 esi=0041dc5c edi=7c911970
     eip=77ee7608 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl nz na po nc
@@ -285,7 +278,7 @@ O problema ocorre por causa da maneira que a função determina se o caminho é 
     SHLWAPI!PathIsDirectoryA+0xbd:
     77ee75f5 c9              leave
     0:000>
-    <font color="#ff0000">eax=00000010</font> ebx=7ffde000 ecx=00007a43 edx=00140608 esi=0006f4cc edi=7c911970
+    eax=00000010 ebx=7ffde000 ecx=00007a43 edx=00140608 esi=0006f4cc edi=7c911970
     eip=77ee75f6 esp=0012ff6c ebp=0012ff78 iopl=0         nv up ei pl zr na pe nc
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
     SHLWAPI!PathIsDirectoryA+0xbe:
@@ -321,7 +314,7 @@ O problema ocorre por causa da maneira que a função determina se o caminho é 
     IsPathDir!main+0x1b:
     0040102b e81a000000      call    IsPathDir!printf (0040104a)
     0:000>
-    <font color="#ff0000">Resultado: 16.</font>
+    Resultado: 16.
     eax=0000000f ebx=7ffde000 ecx=004010e5 edx=004228b8 esi=0006f4cc edi=7c911970
     eip=00401030 esp=0012ff6c ebp=0012ff78 iopl=0         nv up ei ng nz ac pe nc
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000296
@@ -329,26 +322,21 @@ O problema ocorre por causa da maneira que a função determina se o caminho é 
     00401030 83c408          add     esp,8
     0:000>
 
-Ou seja, para pastas locais a função simplesmente usa a conhecidíssima [GetFileAttributes](http://msdn.microsoft.com/en-us/library/aa364944(VS.85).aspx), que retorna o flag 0x10 setado caso se trate de uma pasta, de acordo com a documentação:
+Ou seja, para pastas locais a função simplesmente usa a conhecidíssima GetFileAttributes, que retorna o flag 0x10 setado caso se trate de uma pasta, de acordo com a documentação: "The attributes can be one or more of the following values:"
 
-"The attributes can be one or more of the following values.
-
-    
     Return code/value              Description
 
-    
     FILE_ATTRIBUTE_ARCHIVE         A file or directory that is an archive file or directory.
     32
     0x20
 
-    
     FILE_ATTRIBUTE_COMPRESSED      A file or directory that is compressed.
     2048
     0x800
     ...
     
-    <font color="#ff0000">FILE_ATTRIBUTE_DIRECTORY       The handle that identifies a directory.
+    FILE_ATTRIBUTE_DIRECTORY       The handle that identifies a directory.
     16
-    0x10"</font>
+    0x10
 
 Aqui termina nossa dúvida sobre o pequenino bug na documentação. E isso nos lembra também que é sempre bom comparar as coisas da melhor maneira possível. E essa melhor maneira em se tratando de ifs é supor apenas dois valores binário: ou é zero ou é não-zero.

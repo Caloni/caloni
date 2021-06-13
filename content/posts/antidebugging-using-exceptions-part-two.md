@@ -3,7 +3,6 @@ categories:
 - code
 date: '2008-07-30'
 tags:
-- draft
 title: Antidebugging using exceptions (part two)
 ---
 
@@ -43,7 +42,6 @@ int Start()
 	// 6. End of execution.
 	return 0;
 } 
-
 ```
 
 The solution above is explained in pseudocode to make things clearer. Notice that exist some kind of invisible return, not stack based. To handle it, however, we can use the good for all C ANSI standard, using the setjmp (step one) and longjmp (step 3). To understand the implementation for theses functions running on the 8086 platform we need to get the basic vision of the function calls in a stack based environment (the C and Pascal way).
@@ -54,13 +52,11 @@ Registers are reserved variables in the processor that can be used by the assemb
 
 Imagine you have a function, CallFunc, and another function, Func, and one calls the other. In order to analyse just the function call, and just that, let's consider Func doesn't receive any argument and doesn't return any value. The C code, would be like bellow:
 
-    
     void Func()
     {
        return;
     }
 
-    
     void CallFunc()
     {
        Func();
@@ -68,11 +64,9 @@ Imagine you have a function, CallFunc, and another function, Func, and one calls
 
 Simple, huh? Being simple, the generated assembly will be simple as well. In CallFunc it should have the function call, and inside Func the return from the call. The rest of the code is related with Debug version stuff.
 
-    
     Func:
     00411F73 prev_instruction ; ESP = 0012FD38 (four bytes stacked up)
     00411F74 ret ; *ESP = 00411FA3 (return address)
-
     
     CallFunc:
     00411F9C prev_instruction
@@ -83,7 +77,6 @@ From the assembly above we can conclude two things: 1. The stack grows down, sin
 
 Well, in the same way we can follow this simple execution, the attacker will do as well. That's why in the middle of this call we will throw an exception and, in the return, we will not do the return in the conventional way, but using another technique that, instead using the ret instruction, sets manually the esp value (stack state) and jumps to the next instruction in CallFunc.
 
-    
     Func:
     00411F60 throw_exception
     00411F61 ...
@@ -113,7 +106,6 @@ void CallFunc()
 
 	int x = 10; // 4. Next instruction.
 } 
-
 ```
 
 That was the new trick for the trowing of exceptions. The final code is clearer, now:
@@ -162,7 +154,6 @@ int main()
 
 	return (int) ret;
 } 
-
 ```
 
 At first sight, it seems a waste the if being directly in the code (remember we gonna use the same conditional structure in several parts in the code). To turn things clearer, resume the protected call and allows the protection to be disabled in debug version code, let's create a macro:
@@ -202,7 +193,6 @@ int main()
 
 	return (int) ret;
 } 
-
 ```
 
 Now we allow the antidebugging selection by call, what turns things much easier than to choose the protected points inside the code.

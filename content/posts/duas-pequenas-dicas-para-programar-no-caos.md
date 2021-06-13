@@ -1,18 +1,15 @@
 ---
-categories: []
+categories:
+ - blog
 date: '2008-08-15'
 tags:
-- draft
 title: Duas pequenas dicas para programar no caos
 ---
 
 Ultimamente não tenho acertado muito bem meus cronogramas, com erros que variam de um dia a uma semana. A causa desse problema, pelo que eu tenho conseguido detectar, está em dois problemas que acredito acontecer de maneira muito freqüente em um ambiente de desenvolvimento que ainda está no caos:
 
-	
-  * Mudança constante de prioridade
-
-	
-  * Falta de testes básicos no software antes de mexer
+ - Mudança constante de prioridade
+ - Falta de testes básicos no software antes de mexer
 
 Portanto, aí vão algumas dicas empíricas para lidar com esses detalhezinhos que são "faceizinhos de serem esquecidinhos" (by Rafael).
 

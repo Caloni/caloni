@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2008-08-07'
 tags:
-- draft
 title: Aprendizado em kernel mode
 ---
 

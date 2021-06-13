@@ -3,7 +3,6 @@ categories:
 - code
 date: '2008-07-02'
 tags:
-- draft
 title: Pesquisas sobre a GINA
 ---
 
@@ -17,11 +16,9 @@ Uma explicação sobre como funciona o processo de logon (local e remoto) e os c
 
 Após essa leitura picante, podemos voltar ao feijão com arroz e começar de novo lendo a descrição de como funciona a GINA na Wikipedia, que nos remete a vários linques interessantes, entre os quais:
 
-	
-  * A explicação documentada do MSDN de como funciona a interação entre Winlogon e GINA.
+ - A explicação documentada do MSDN de como funciona a interação entre Winlogon e GINA.
 
-	
-  * Um ótimo artigo dividido em duas partes que explica como fazer sua própria customização de GINA. Foi nele que encontrei o retorno que precisava para emular a execução do Gerenciador de Tarefas baseado na digitação do Ctrl + Alt + Del. De brinde ainda vem uma GINA de exemplo para _download_.
+ - Um ótimo artigo dividido em duas partes que explica como fazer sua própria customização de GINA. Foi nele que encontrei o retorno que precisava para emular a execução do Gerenciador de Tarefas baseado na digitação do Ctrl + Alt + Del. De brinde ainda vem uma GINA de exemplo para download.
 
 A partir de mais algumas buscas e execuções do Process Monitor podemos encontrar os valores no registro que habilitam o Fast User Switching e a Tela de Boas Vindas do Windows XP. O valor da Tela de Boas Vindas é que habilita e desabilita a execução do Gerenciador de Tarefas baseado em Ctrl + Alt + Del. Esses itens são essenciais para os que quiserem criar uma réplica perfeita da GINA da Microsoft no Windows XP. Isso finaliza a minha busca.
 

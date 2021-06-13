@@ -3,7 +3,6 @@ categories:
 - code
 date: '2008-08-01'
 tags:
-- draft
 title: Antidebugging using the DebugPort
 ---
 
@@ -11,22 +10,13 @@ When a debugger starts a process to be debugged or, the article case, connects t
 
 Among these events we can tell the most frequent:
 
-    
-  * Activated breakpoints
+ - Activated breakpoints
+ - Thrown exceptions
+ - Threads creation/termination
+ - DLLs load/unload
+ - Process exit
 
-    
-  * Thrown exceptions
-
-    
-  * Threads creation/termination
-
-    
-  * DLLs load/unload
-
-    
-  * Process exit
-
-In the case of connecting into a existent process, the API [DebugActiveProcess](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fmsdn2.microsoft.com%2Fen-us%2Flibrary%2Fms679295.aspx&ei=cqDERvWoA4GKerippJ0M&usg=AFQjCNFzrdQ83SQzTQxBiT9iEauTFyUPcA&sig2=4p-HOh1Wk6uhDYD0ceEMDw) is called. Since this call, if successful, the caller program is free now to call the API [DebugActiveProcess](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fmsdn2.microsoft.com%2Fen-us%2Flibrary%2Fms679295.aspx&ei=cqDERvWoA4GKerippJ0M&usg=AFQjCNFzrdQ83SQzTQxBiT9iEauTFyUPcA&sig2=4p-HOh1Wk6uhDYD0ceEMDw), looking for debugging events. The main loop for a debugger is, so, pretty simple:
+In the case of connecting into a existent process, the API DebugActiveProcess is called. Since this call, if successful, the caller program is free now to call the API DebugActiveProcess, looking for debugging events. The main loop for a debugger is, so, pretty simple:
 
 ```cpp
 void DebugLoop()
@@ -58,7 +48,6 @@ void DebugLoop()
 		ContinueDebugEvent(debugEvt.dwProcessId, debugEvt.dwThreadId, DBG_EXCEPTION_NOT_HANDLED);
 	}
 } 
-
 ```
 
 The interesting detail about this communication process is that a program can be debugged actively only for ONE debugger. In other words, while there's a process A debugging process B, no one besides A can debug and break B.Using this principle, we can imagine a debugging protection based on this exclusivity, creating a protector process that connects to the protected process and "debugs" it:
@@ -138,29 +127,19 @@ int main(int argc, char* argv[])
 
 	return (int) ret;
 } 
-
 ```
 
 The needed steps to test the code above are:
 
-    
   1. Compile the code
-
-    
   2. Run notepad (or another victim)
-
-    
   3. Get its PID (Process ID)
-
-    
   4. Run the protector process passing the notepad PID as the argument
-
-    
   5. Try to attach to the notepad using a debugger (e.g. Visual C++)
 
 After the attach process, the debug port is occupied, and the communication between the debugger and debuggee is made throug LPC. Bellow we can see a little illustration of how things work:
 
-[![debug-port2.gif](http://i.imgur.com/dVz6dYQ.gif)](/images/debug-port2.gif)
+![Debug port](/img/debug-port2.gif)
 
 Basically the process stay receiving debugging events (through the LPC message queue) until the final event, the process exit. Notice that if someone try to terminate the protector process the debuggee process will be terminated, too.
 

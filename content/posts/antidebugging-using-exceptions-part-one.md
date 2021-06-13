@@ -3,13 +3,12 @@ categories:
 - code
 date: '2008-07-28'
 tags:
-- draft
 title: Antidebugging using exceptions (part one)
 ---
 
-A debugger puts breakpoints to stop for a moment the debuggee execution. In order to do this it makes use of a well known instruction: **int 3**. This instruction throws an exception - the breakpoint exception - that is caught by the operating system and bypassed to the handling code for this exception. For debuggee processes this code is inside the debugger. For free processes this code normally doesn't exist and the application simply crashs.
+A debugger puts breakpoints to stop for a moment the debuggee execution. In order to do this it makes use of a well known instruction: int 3. This instruction throws an exception - the breakpoint exception - that is caught by the operating system and bypassed to the handling code for this exception. For debuggee processes this code is inside the debugger. For free processes this code normally doesn't exist and the application simply crashs.
 
-The main idea in this protection is to take care these exceptions during the application execution. Doing this, we can make use of this fact and, in the handling code, **run the protected code**. The solution here looks like a **script interpreter**. It consists basically of two threads: The first one read an instructions sequence and tells the second thread to **run it step to step**. In order to do this the second thread uses a **small functions** set with well defined code blocks. Here's the example in pseudocode:
+The main idea in this protection is to take care these exceptions during the application execution. Doing this, we can make use of this fact and, in the handling code, run the protected code. The solution here looks like a script interpreter. It consists basically of two threads: The first one read an instructions sequence and tells the second thread to run it step to step. In order to do this the second thread uses a small functions set with well defined code blocks. Here's the example in pseudocode:
 
 ```cpp
 // the well-defined functions are functional blocks of code and have
@@ -51,7 +50,6 @@ int Start()
 	// 6. end of execution.
 	return 0;
 } 
-
 ```
 
 The protection isn't there yet. But it will as intrinsic part of the execution thread. All we need to do is to add a exception handling and to throw lots of int 3. The thrown exceptions are caught by a second function that runs the instruction before to returning:
@@ -88,14 +86,13 @@ void ExecutionThread()
 		Sleep( someTime ); // give some time
 	}
 } 
-
 ```
 
 The execution thread algorithm is the same. Just the point where each instruction is executed depends to the exception throw system. Note that this exception has to be thrown in order to the next instruction run. This is fundamental, since this way nobody can just rip of the int 3 code to avoid the exception. If one does that, so no instruction will be executed at all.
 
-In practice, if one tries to debug such a program one will have to deal with tons of exceptions until find out what's happening. Of course, as in every software protection, is's not definitive; it has as a purpose to **make hard** the reverse engineering understanding. That's not going to stop those who are [really good](http://www.codebreakers-journal.com/) doing that stuff.
+In practice, if one tries to debug such a program one will have to deal with tons of exceptions until find out what's happening. Of course, as in every software protection, is's not definitive; it has as a purpose to make hard the reverse engineering understanding. That's not going to stop those who are [really good](http://www.codebreakers-journal.com/) doing that stuff.
 
-**Nothing is for free**
+Nothing is for free
 
 The price paid for this protection stays on the source code visibility and understanding, compromised by the use of this technique. The programming is state machine based, and the functions are limited to some kind of behavior standard. So much smaller the code blocks inside the minifunctions, so much hard the code understanding will be.
 
@@ -261,9 +258,8 @@ int main()
    // 6. end of execution.
    return (int) ret;
 } 
-
 ```
 
-The **strength** in this protection is to confound the attacker easily in the first steps (days, months...). Its **weakness** is the simplicity for the solution, since the attacker eventually realize what is going on. It is so easy that I will let it as an exercise for my readers.
+The strength in this protection is to confound the attacker easily in the first steps (days, months...). Its weakness is the simplicity for the solution, since the attacker eventually realize what is going on. It is so easy that I will let it as an exercise for my readers.
 
 In the next part we will se an alternative to make the code clearer and easy to use in the every day by a security software developer.

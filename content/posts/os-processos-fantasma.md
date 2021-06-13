@@ -3,14 +3,12 @@ categories:
 - code
 date: '2008-08-20'
 tags:
-- draft
 title: Os processos-fantasma
 ---
 
 Estava eu outro belo dia tentando achar um problema em um driver que controla criação de processos quando, por acaso, listo os processos na máquina pelo depurador de kernel, após ter dado alguns logons e logoffs, quando me vem a seguinte lista de processos do Windows Explorer:
 
-    
-    PROCESS <font color="#ff0000">815f0da0</font>  SessionId: 0  Cid: 0694    Peb: 7ffd8000  ParentCid: 0100
+    PROCESS 815f0da0  SessionId: 0  Cid: 0694    Peb: 7ffd8000  ParentCid: 0100
         DirBase: 0d6e9000  ObjectTable: 00000000  HandleCount:   0.
         Image: explorer.exe
     
@@ -22,34 +20,29 @@ Estava eu outro belo dia tentando achar um problema em um driver que controla cr
         DirBase: 0bc7f000  ObjectTable: 00000000  HandleCount:   0.
         Image: explorer.exe
     
-    PROCESS 8164c698  SessionId: 0  Cid: <font color="#ff0000">0794    </font>Peb: 7ffde000  ParentCid: 0100
+    PROCESS 8164c698  SessionId: 0  Cid: 0794    Peb: 7ffde000  ParentCid: 0100
         DirBase: 0cb08000  ObjectTable: e1a40f20  HandleCount: 279.
         Image: explorer.exe
 
 Analisando pelo Gerenciador de Tarefas, podemos detectar que o único processo de pé possui o PID (Process ID) do último elemento de nossa lista, curiosamente o único com um contador de handles diferente de zero.
 
-![unico-explorer-no-sistema.PNG](/images/unico-explorer-no-sistema.PNG)
-
 Lembrando que 1940 em hexadecimal é 0x794, exatamente o valor deixado em destaque na lista acima, e reproduzido abaixo:
 
-    
-    PROCESS 8164c698  SessionId: 0  Cid: <font color="#ff0000">0794    </font>Peb: 7ffde000  ParentCid: 0100
+    PROCESS 8164c698  SessionId: 0  Cid: 0794    Peb: 7ffde000  ParentCid: 0100
         DirBase: 0cb08000  ObjectTable: e1a40f20  HandleCount: 279.
         Image: explorer.exe
 
 Sendo ele o único processo a rodar, a única explicação válida para as outras instâncias do explorer.exe estarem de pé seria o fato de haver algum outro processo (inclusive o sistema operacional) com um handle aberto para ele. Felizmente isso pode ser facilmente verificado pelo uso do comando !object do WinDbg, no caso abaixo com o primeiro explorer.exe da lista, utilizando-se a sua estrutura EPROCESS (em vermelho na lista acima).
 
-    
     kd> !object 815f0da0
     Object: 815f0da0  Type: (817cce70) Process
         ObjectHeader: 815f0d88 (old version)
-        HandleCount: <font color="#ff0000">2</font>  PointerCount: <font color="#ff0000">3</font>
+        HandleCount: 2  PointerCount: 3
 
 Muito bem. Temos dois handles e dois ponteiros ainda abertos para o objeto processo-fantasma explorer.exe. O fato de haver um handle aberto indica que é muito provável que se trate de um outro processo rodando em user mode, já que normalmente as referências para objetos dentro do kernel são feitas com o uso de ponteiros.
 
-Para descobrirmos quem detém esse handle, existe o comando !handle, que pode exibir informações sobre todos os handles de um determinado tipo no processo atual. Como queremos procurar por todos os handles do tipo Process em todos os processos existentes, é necessário usá-lo em conjunto com o comando mais esperto [!for_each_process](http://www.dumpanalysis.org/blog/index.php/2008/05/30/who-opened-that-file/), que pode fazer coisas incríveis para o programador de user/kernel:
+Para descobrirmos quem detém esse handle, existe o comando !handle, que pode exibir informações sobre todos os handles de um determinado tipo no processo atual. Como queremos procurar por todos os handles do tipo Process em todos os processos existentes, é necessário usá-lo em conjunto com o comando mais esperto for_each_process, que pode fazer coisas incríveis para o programador de user/kernel:
 
-    
     kd> !for_each_process "!handle 0 1 @#Process Process"
     processor number 0, process 817cc830
     Searching for handles of type Process
@@ -118,12 +111,10 @@ Para descobrirmos quem detém esse handle, existe o comando !handle, que pode ex
     
     0330: Object: 815dc798  GrantedAccess: 001f0fff
 
-    
     ... continua por muuuuuuuito mais tempo
 
 Uma simples busca pelo EPROCESS do processo-fantasma nos retorna dois processos que o estão referenciando: um svchost.exe e um outro processo com um nome muito suspeito, provavelmente feito sob encomenda para a confecção desse artigo:
 
-    
     Handle table at e167b000 with 247 Entries in use
     processor number 0, process 8169a958
     Searching for handles of type Process
@@ -150,49 +141,46 @@ Uma simples busca pelo EPROCESS do processo-fantasma nos retorna dois processos 
     
     0f44: Object: 8169a958  GrantedAccess: 00000068
     
-    <font color="#ff0000">1020: Object: 815f0da0  GrantedAccess: 00100068</font>
+    1020: Object: 815f0da0  GrantedAccess: 00100068
     
     10dc: Object: 8169a958  GrantedAccess: 00100000
     
     1118: Object: 815f42f0  GrantedAccess: 00100068
 
-    
     ...
 
-    
     processor number 0, process 8164c220
     Searching for handles of type Process
     PROCESS 8164c220  SessionId: 0  Cid: 044c    Peb: 7ffdf000  ParentCid: 02a4
         DirBase: 0db16000  ObjectTable: e15c66b8  HandleCount:  12.
-        Image: <font color="#ff0000">ProcessLeaker.exe</font>
+        Image: ProcessLeaker.exe
     
     Handle table at e103a000 with 12 Entries in use
-    <font color="#ff0000">0010: Object: 815f0da0  GrantedAccess: 00100000</font>
+    0010: Object: 815f0da0  GrantedAccess: 00100000
     
-    001c: Object: <font color="#ff0000">815f42f0  </font>GrantedAccess: 00100000
+    001c: Object: 815f42f0  GrantedAccess: 00100000
     
-    0028: Object: <font color="#ff0000">8164bda0  </font>GrantedAccess: 00100000
+    0028: Object: 8164bda0  GrantedAccess: 00100000
     
-    002c: Object: <font color="#ff0000">815f7d50  </font>GrantedAccess: 00100000
+    002c: Object: 815f7d50  GrantedAccess: 00100000
     
-    0030: Object: <font color="#ff0000">8164c698  </font>GrantedAccess: 00100000
+    0030: Object: 8164c698  GrantedAccess: 00100000
 
 Se lembrarmos o ponteiro dos outros processos, podemos notar que ele está bloqueando todas as outras instâncias dos antigos explorer.exe, executados em outras sessões do usuário:
 
-    
-    PROCESS <font color="#ff0000">815f0da0</font>  SessionId: 0  Cid: 0694    Peb: 7ffd8000  ParentCid: 0100
+    PROCESS 815f0da0  SessionId: 0  Cid: 0694    Peb: 7ffd8000  ParentCid: 0100
         DirBase: 0d6e9000  ObjectTable: 00000000  HandleCount:   0.
         Image: explorer.exe
     
-    PROCESS <font color="#ff0000">8164bda0</font>  SessionId: 0  Cid: 03b0    Peb: 7ffdf000  ParentCid: 0100
+    PROCESS 8164bda0  SessionId: 0  Cid: 03b0    Peb: 7ffdf000  ParentCid: 0100
         DirBase: 02673000  ObjectTable: 00000000  HandleCount:   0.
         Image: explorer.exe
     
-    PROCESS <font color="#ff0000">815f7d50</font>  SessionId: 0  Cid: 020c    Peb: 7ffd9000  ParentCid: 0100
+    PROCESS 815f7d50  SessionId: 0  Cid: 020c    Peb: 7ffd9000  ParentCid: 0100
         DirBase: 0bc7f000  ObjectTable: 00000000  HandleCount:   0.
         Image: explorer.exe
     
-    PROCESS <font color="#ff0000">8164c698</font>  SessionId: 0  Cid: <font color="#000000">0794    </font>Peb: 7ffde000  ParentCid: 0100
+    PROCESS 8164c698  SessionId: 0  Cid: 0794    Peb: 7ffde000  ParentCid: 0100
         DirBase: 0cb08000  ObjectTable: e1a40f20  HandleCount: 279.
         Image: explorer.exe
 

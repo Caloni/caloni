@@ -1,16 +1,12 @@
 ---
-categories: []
+categories:
+ - blog
 date: '2008-09-12'
 tags:
-- draft
 title: Todo programador é um filósofo em potencial
 ---
 
-Tivemos uma conversa muito frutífera hoje durante o almoço ao conhecer uma professora que sentava ao nosso lado, exímia conhecedora da mente humana e amante das artes nobres como a filosofia e a lógica.
-
-O importante dessa colóquio foi ter encontrado um motivo muito mais forte para gostar de programação do que qualquer outro que já me surgira na cabeça desde que mexo com essas coisas:
-
-O computador não deve dar ordens ao homem e este repeti-las como uma máquina. O homem, como ser pensante, deve dizer ao computador o que fazer, e este responder-lhe diligentemente.
+Tivemos uma conversa muito frutífera hoje durante o almoço ao conhecer uma professora que sentava ao nosso lado, exímia conhecedora da mente humana e amante das artes nobres como a filosofia e a lógica. O importante dessa colóquio foi ter encontrado um motivo muito mais forte para gostar de programação do que qualquer outro que já me surgira na cabeça desde que mexo com essas coisas: O computador não deve dar ordens ao homem e este repeti-las como uma máquina. O homem, como ser pensante, deve dizer ao computador o que fazer, e este responder-lhe diligentemente.
 
 Para resumir desde o começo essa conclusão, um exemplo paupável: quando fazemos um curso de treinamento, uma especialização, uma faculdadeZINHA ou qualquer outro evento de "aprendizado" que nos propõe a digitar comandos sem fim, repetidamente para um computador, para no final ganharmos um comprovante de que sabemos digitar aqueles comandos decorados e repetitivos como ninguém, isso quer dizer que as coisas vão mal, se e quando tudo se resume a isso.
 
@@ -29,9 +25,3 @@ Também me mostra que mais vale a pena aprender a pensar, ou pensar melhor, do q
 Ser programador é criar. Criar é bom. Criar nos faz felizes.
 
 E é por isso, realmente, que amo o que eu faço.
-
-	
-  * Informação demais é anti-informação?
-
-	
-  * If Philosophers Were Programmers
