@@ -5,6 +5,7 @@ date: '2016-08-12'
 link: https://www.imdb.com/title/tt5290524
 tags:
 - cinemaqui
+- draft
 title: O Funcionário do Mês
 ---
 
@@ -16,7 +17,7 @@ Explicando que ser funcionário público está no seu sangue (seu pai que o infl
 
 Seria para a vida toda se não fosse a reforma conduzida por um político, que começa a profissionalizar os cabides de emprego e conduz Zalone para um jogo interminável de transferências pela Itália que o acaba colocando no Polo Norte, na Noruega. Lá ele conhece Sironi, o clichê de ecologista/salvadora do mundo. Junto com ela, Zalone também descobre na Noruega a diversidade de ideias, do respeito mútuo, dos seis meses de dia e seis meses de noite, e do suicídio.
 
-Sim, "Funcionário do Mês" não se priva em momento algum de fazer piada de qualquer coisa. Ele quase perde sua humanidade ao fazer joça do próprio protagonista, que é intenso em qualquer coisa que faça -- seja buscar suas regalias públicas ou viver como um norueguês -- mas graças ao surpreendente desempenho cômico de Checco Zalone e a sua versatilidade em nunca deixar sua autenticidade, o que faz sermos levados a crer nesse universo, por mais absurdo que seja.
+Sim, "Funcionário do Mês" não se priva em momento algum de fazer piada de qualquer coisa. Ele quase perde sua humanidade ao fazer joça do próprio protagonista, que é intenso em qualquer coisa que faça -- seja buscar suas regalias públicas ou viver como um norueguês-- mas graças ao surpreendente desempenho cômico de Checco Zalone e a sua versatilidade em nunca deixar de soar autêntico no que faz, somos levados a crer nesse universo, por mais absurdo que soe.
 
 Zalone assina o roteiro junto do diretor Gennaro Nunziante, que aqui aplica um "truque" muito eficaz em comédias desse tipo: ao filmar cenas rápidas (que se tornam ainda mais rápidas na edição), o filme nunca nos dá nenhum tempo suficiente para reflexão; se torna uma enxurrada interminável de piadas, criativas e bem colocadas (além de estarem dentro do contexto da história). Essa é a clássica pornochanchada, mas com jeitinho ideológico, e há vários acontecimentos que se sucedem, sempre dando espaço para piadas espirituosas, ou no mínimo simpáticas sem soar repugnantes; até porque o povo italiano aprendeu a rir de si mesmo, o que comprova a eficácia de filmes como esse, que faz joça de uma nação inteira de acomodados.
 
