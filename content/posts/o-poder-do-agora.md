@@ -193,3 +193,30 @@ A partir daí, não existem problemas, apenas situações no momento, que podem 
 > Quando você parar para ouvir uma outra pessoa, não escute só com a mente, escute com todo o seu corpo. Sinta o campo de energia do seu corpo interior enquanto escuta. Isso desvia a atenção do pensamento e cria um espaço de serenidade que possibilita a você ouvir realmente, sem que a mente interfira. Você está dando à outra pessoa um espaço para ela ser. É o presente mais precioso que você pode dar a alguém.
 
 > A maioria das relações humanas consiste principalmente na interação das mentes umas com as outras, e não de seres humanos se comunicando, ficando em comunhão. Nenhuma relação pode florescer por esse caminho, e essa é a razão de tantos conflitos nas relações. Quando a mente dirige a nossa vida, o conflito, as lutas e os problemas são inevitáveis. Estar em contato com o seu corpo interior cria um espaço de mente vazia dentro do qual a relação pode florescer.
+
+
+## capítulo sete: Portais para o Não Manifesto
+
+> Junte-se de tal modo ao campo de energia que você não mais perceba a dualidade entre o observador e o observado, entre você e seu corpo.
+
+> Ter acesso a essa região sem forma traz uma liberdade verdadeira. Ela nos liberta da escravidão da forma e da identificação com a forma.
+
+> Só quando a nossa consciência se volta para o exterior é que a mente e o mundo passam a existir. Quando se dirige para o interior, ela percebe a sua própria Fonte e regressa ao Não Manifesto.
+
+> É possível ficar consciente do Não Manifesto em todas as ocasiões. Você sentirá uma profunda paz em algum lugar lá no fundo, uma serenidade que nunca abandonará você, não importa o que aconteça lá fora.
+
+> É da Fonte que retiramos a energia vital que nos sustenta quando retornamos ao manifesto, o mundo das formas separadas. Essa energia é muito mais importante do que o alimento: “Nem só de pão vive o homem.” Mas não se chega ao sono sem sonhos de um modo consciente.
+
+> O Não Manifesto não nos liberta a menos que sejamos capazes de chegar a ele de modo consciente. Essa é a razão pela qual Jesus não disse que a verdade nos libertará, e sim que “conheceremos a verdade, e a verdade nos libertará”.
+
+> O tempo e o manifesto estão indissoluvelmente ligados, do mesmo modo que o eterno Agora e o Não Manifesto.
+
+> Um outro portal para o Não Manifesto é a paralisação do pensamento. Isso pode começar de um modo muito simples, ao prestar atenção à própria respiração ou olhar concentradamente para uma flor, em um estado de alerta total, de tal modo que não haja espaço para nenhum comentário mental ao mesmo tempo.
+
+> A entrega, ou seja, o abandono de qualquer resistência mental e emocional ao que é, também é um portal para o Não Manifesto. A razão disso é simples, já que a resistência interior nos isola das outras pessoas, de nós mesmos e do mundo à nossa volta, fortalecendo a sensação de separação da qual o ego depende para sobreviver. Quanto maior a sensação de separação, maior a nossa dependência do manifesto, do mundo das formas separadas.
+
+> Estou aqui lhe dando umas pistas para mostrar como trazer a dimensão do Não Manifesto para a sua vida. Ninguém está tentando compreendê-lo. Não há nada que compreender.
+
+> Se uma revolução cósmica provocasse o fim do Universo, o Não Manifesto não seria afetado. O livro A Course in Miracles (Um curso em milagres) expressa essa verdade de modo comovente: “Nada real pode ser ameaçado. Nada irreal existe. Aqui reside a paz de Deus.”
+
+> Todo portal é um portal da morte, da morte do falso eu.
