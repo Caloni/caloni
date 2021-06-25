@@ -1,7 +1,7 @@
 ---
 categories:
 - blog
-date: '{{ now.Format "2006-01-02" }}'
+date: '{{ now.Format "2006-01-02 15:30" }}'
 link:
 tags:
 - draft
