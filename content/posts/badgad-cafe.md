@@ -1,7 +1,7 @@
 ---
 categories:
 - movies
-date: '2021-06-26T121:06:00-03:00'
+date: '2021-06-26T21:06:00-03:00'
 tags:
 - draft
 title: Bagdad Cafe
