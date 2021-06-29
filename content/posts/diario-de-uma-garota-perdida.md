@@ -1,7 +1,7 @@
 ---
 categories:
 - movies
-date: '2021-06-25 13:10'
+date: '2021-06-25T13:13:00+03:00'
 link:
 tags:
 - draft
