@@ -4,7 +4,6 @@ categories:
 date: '2016-10-25'
 link: https://www.imdb.com/title/tt5698496
 tags:
-- draft
 title: A Menina Sem Mãos
 ---
 

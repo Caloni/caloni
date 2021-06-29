@@ -4,7 +4,6 @@ categories:
 date: '2016-10-26'
 link: https://www.imdb.com/title/tt5821276
 tags:
-- draft
 title: Bench Cinema
 ---
 
@@ -16,4 +15,4 @@ Uma vez liberto, o ator descobre seu tesouro. E quando menos imaginamos, ele est
 
 A surpresa do filme é um violinista que conhece de cor praticamente qualquer trilha sonora, apesar de sempre tocá-las com um "sotaque" de Oriente Médio. Ele come uma monstruosidade, e é o alívio cômico da trupe. Note como aos poucos o filme explica, não de maneira didática, mas orgânica, como funciona a criação dos filmes. A trilha sonora está na figura desse violinista, e ele está sempre presente no palco, exceto quando o filme é mudo (algo que é necessário quando o ator prejudica sua garganta de tanto atuar). Eles acham também alguém para os "efeitos visuais", e uma coadjuvante mulher também entra em cena, também de maneira orgânica, para gerar tensão e assumir alguns papéis importantes, onde homem não tem vez.
 
-Bench Cinema é um filme na maioria do tempo doce, mas sempre parece ter uma mensagem por trás, mesmo que em alguns momentos essa mensagem fique confusa. Seu terceiro ato vai se tornando aos poucos o mais poderoso, pois a narrativa adentra em um pesadelo (ou sonho) Kaufmaniano, onde a realidade também é pintada como nos filmes. E sua última sequência, bela e arrebatadora, é o que causou os aplausos do público na sessão onde eu estava. Aplausos merecidos por quem reverencia a arte de contar histórias.
+Bench Cinema é um filme na maioria do tempo doce, mas sempre tem uma mensagem por trás, mesmo que em alguns momentos essa mensagem fique confusa. Seu terceiro ato vai se tornando aos poucos o mais poderoso, pois a narrativa adentra em um pesadelo (ou sonho) Kaufmaniano, onde a realidade também é pintada como nos filmes. E sua última sequência, bela e arrebatadora, é o que causou os aplausos do público na sessão onde eu estava. Aplausos merecidos por quem reverencia a arte de contar histórias.

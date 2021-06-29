@@ -4,11 +4,10 @@ categories:
 date: '2016-10-28'
 link: https://www.imdb.com/title/tt5447294
 tags:
-- draft
 title: Hee
 ---
 
-Uma ideia interessante, estruturada de maneira interessante, e executada desleixadamente. Tem a ver com sexo, tem a ver com drama, tem a ver com crime. E isso, aparentemente, é motivo de sobra para a diretora Kaori Momoi se achar a fodona e deixar todos nós entediados.
+Uma ideia interessante, estruturada de maneira interessante, e executada desleixadamente. Tem a ver com sexo, tem a ver com drama, tem a ver com crime. E isso é motivo de sobra para a diretora Kaori Momoi se achar a fodona e deixar todos nós entediados.
 
 Porém, veja bem. O filme é um confessionário com um psiquiatra que começa a ser influenciado pelo "fogo" da testemunha-chave: uma prostituta japonesa meio ninfomaníaca (a própria Momoi) que mora em solo americano já há algum tempo, mas não soube usar sua boca para falar inglês (estava ocupada fazendo outras coisas). O roteiro no começo tenta torná-la vítima das circunstâncias -- o que ela é -- mas ele insiste tanto que ela acaba ficando com a impressão de ser apenas uma vadia, mesmo.
 

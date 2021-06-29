@@ -5,7 +5,6 @@ date: '2016-10-19'
 link: https://www.imdb.com/title/tt4258698
 tags:
 - cinemaqui
-- draft
 title: Michelle e Obama
 ---
 
@@ -15,7 +14,7 @@ Mas este é apenas o primeiro encontro da vida deles, ainda jovens e esperanços
 
 E apesar de seguir o modelo clássico de comédias românticas "se odeiam, mas se amam", este filme subverte este clichê ao dar bons motivos para que Michelle Robinson e Barack Obama não fiquem juntos. Ambos são colegas em um escritório de advocacia, além do principal receio de Michelle em seguir adiante um possível relacionamento com o colega de trabalho é justificado pelo que as pessoas iriam pensar, o que poderia ser negativo para uma carreira em que ela precisa trabalhar duro para se manter competitiva e melhor que todos para compensar -- segundo ela -- o fato de ser negra e mulher.
 
-É tocante também ver tanta força de vontade de pessoas como Obama e Michelle sendo desperdiçada no meio político, utilizando de meios imorais para conseguir alguma melhora de vida nas pessoas que eles ajudam. Michelle é a dona dos princípios que parecem sugerir que irão nortear boa parte dos esforços do futuro presidente, como não julgar as pessoas. Por outro lado, Obama se coloca na posição que o tornará futuramente líder de estado: um facilitador de discussão, a procura dos caminhos certos para conseguir obter sucesso. E, assim como o ex-presidente Lula (embora com muito mais elegância), a capacidade de atingir o coração de seu público e assim conquistar as mentes através das palavras que atingem o coração. O discurso na igreja resume tudo isso de maneira sucinta, mas bem colocada em pouquíssimas palavras, conseguindo resumir em espírito a sucessão de discursos emocionantes e inflados de Obama nesses oitos anos de seu governo na Casa Branca.
+É tocante também ver tanta força de vontade de pessoas como Obama e Michelle sendo desperdiçada no meio político, utilizando de meios imorais para conseguir alguma melhora de vida nas pessoas que eles ajudam. Michelle é a dona dos princípios que sugerem que irão nortear boa parte dos esforços do futuro presidente, como não julgar as pessoas. Por outro lado, Obama se coloca na posição que o tornará futuramente líder de estado: um facilitador de discussão, a procura dos caminhos certos para conseguir obter sucesso. E, assim como o ex-presidente Lula (embora com muito mais elegância), a capacidade de atingir o coração de seu público e assim conquistar as mentes através das palavras que atingem o coração. O discurso na igreja resume tudo isso de maneira sucinta, mas bem colocada em pouquíssimas palavras, conseguindo resumir em espírito a sucessão de discursos emocionantes e inflados de Obama nesses oitos anos de seu governo na Casa Branca.
 
 Porém, na posição em que ainda estavam, uma conversa política acalorada poderia vir tanto de Jesse e Céline quanto de qualquer outro casal jovem e bem informado teriam. A virtude do roteiro de Tanne está em conseguir aliar política com a vida pessoal de ambos, o andamento de suas carreiras até aquele momento e seus planos de longo prazo. Além disso, o filme também apela com sucesso para os traumas do passado de ambos, principalmente o pai de Obama, que teria sido a figura mais ausente de sua infância.
 

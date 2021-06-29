@@ -4,7 +4,6 @@ categories:
 date: '2016-10-25'
 link: https://www.imdb.com/title/tt5651272
 tags:
-- draft
 title: 5 Mulheres
 ---
 

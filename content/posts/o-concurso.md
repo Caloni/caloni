@@ -4,15 +4,14 @@ categories:
 date: '2016-08-28'
 link: https://www.imdb.com/title/tt2616114
 tags:
-- draft
 title: O Concurso
 ---
 
 Este é mais um dos filmes bobos, praticamente sem graça e datados da Globo Filmes. O Concurso continua fazendo piadas no melhor/pior estilo A Praça é Nossa ou Zorra Total. Pior: sequer tem vergonha de usar um fiapo de história que apenas serve para juntar situações entre humoristas se fazendo de atores com personagens tipicamente rasos.
 
-A história é sobre o concurso público mais disputado no país: juiz federal. Entre as inúmeras fases, apenas quatro foram selecionados para a fase final (o teste oral), e vemos os quatro descobrindo que foram selecionados. Isso depois de o vermos na introdução em situações engraçadinhas ou aparentemente inusitadas, como um vestido de drag queen, outro vindo do hospital, outro preso e mais um outro... até já esqueci.
+A história é sobre o concurso público mais disputado no país: juiz federal. Entre as inúmeras fases, apenas quatro foram selecionados para a fase final (o teste oral), e vemos os quatro descobrindo que foram selecionados. Isso depois de o vermos na introdução em situações engraçadinhas ou inusitadas, como um vestido de drag queen, outro vindo do hospital, outro preso e mais um outro... até já esqueci.
 
-Ah, tem um alérgico a gatos. E o ator que o interpreta é tão ruim, mas tão ruim, que dá pena do sujeito. Ele move a cabeça pra cima e pra baixo fechando os olhos, emitindo um som que parece um espirro forçado, mas que é um ataque... de má atuação. Talvez nem Zorra Total tenha um despreparo desses.
+Ah, tem um alérgico a gatos. E o ator que o interpreta é tão ruim, mas tão ruim, que dá pena do sujeito. Ele move a cabeça pra cima e pra baixo fechando os olhos, emitindo um som de um espirro forçado, mas que é um ataque... de má atuação. Nem Zorra Total tenha um despreparo desses.
 
 E Fabio Porchat, o comediante do canal Porta dos Fundos no YouTube, é um desperdício imenso, pois não consegue usar sua persona hilária a que estamos acostumados, pois é pintado como um personagem gaúcho, com pai severo, que quer que o filho vença o concurso a qualquer custo. E é claro que vai haver piadas homofóbicas sobre gaúchos, rixas com catarinenses e toda aquela comédia de TV dos anos 90.
 

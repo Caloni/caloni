@@ -4,11 +4,10 @@ categories:
 date: '2016-09-09'
 link: https://www.imdb.com/title/tt0106677
 tags:
-- draft
 title: Jovens, Loucos e Rebeldes
 ---
 
-Este é o filme de uma geração de Richard Linklater (Trilogia do Antes, Boyhood), um de seus primeiros, de 1993. Ele conta com um elenco de desconhecidos, onde alguns irá começar a ser mais conhecido. Ele conta uma história simples, que evoca o naturalismo, mas que contém tensão o suficiente para entreter. E ele contém o mais importante: a empatia do público que sabe como é ser jovem, como é experimentar coisas novas e sabe como é estar naquele momento mágico, vivenciando tudo isso, tendo toda a vida pela frente.
+Este é o filme de uma geração de Richard Linklater (Trilogia do Antes, Boyhood), um de seus primeiros, de 1993. Ele conta com um elenco de desconhecidos, onde alguns deverão se tornar conhecidos. Ele conta uma história simples, que evoca o naturalismo, mas que contém tensão o suficiente para entreter. E ele contém o mais importante: a empatia do público que sabe como é ser jovem, como é experimentar coisas novas e sabe como é estar naquele momento mágico, vivenciando tudo isso, tendo toda a vida pela frente.
 
 A história acompanha um calouro da universidade, Mitch (Wiley Wiggins), em sua ida para a faculdade. O filme não torna isso claro, pois todos são igualmente protagonistas com ele, mas é a partir de sua percepção dessa nova fase na vida que o espectador acaba acompanhando. De resto são jovens em diferentes momentos e estilos dessa fase que irão compor o que era um pouco dos anos 70/80, embalados em uma trilha sonora inspirada e que hoje remete a velhos clássicos.
 

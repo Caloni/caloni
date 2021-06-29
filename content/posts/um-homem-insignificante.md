@@ -4,7 +4,6 @@ categories:
 date: '2016-11-02'
 link: https://www.imdb.com/title/tt3917908
 tags:
-- draft
 title: Um Homem Insignificante
 ---
 
@@ -16,7 +15,7 @@ Isso é tão verdade quanto menos acostumada com o regime democrático está a p
 
 A discussão que se segue no documentário começa desde os protestos de Arvind e seu grupo, com a popular greve de fome (instituída pelo pacifista Gandhi), até a triste constatação de que nas democracias atuais não existe participação popular no dia-a-dia, mas apenas elegendo representantes a cada tantos anos é possível tentar mudar usando o próprio jogo vigente.
 
-Dessa forma Arvind funda o seu partido não da maneira convencional, mas como uma ONG, ou seja, totalmente independente dos desejos do Congresso e até do partido rival. Dependendo de crowdfunding e marketing boca-a-boca, as esperanças do povo parecem residir nele mesmo, ainda que através do grupo bem articulado -- mas não sem divergências -- formato por Kejriwal.
+Dessa forma Arvind funda o seu partido não da maneira convencional, mas como uma ONG, ou seja, totalmente independente dos desejos do Congresso e até do partido rival. Dependendo de crowdfunding e marketing boca-a-boca, as esperanças do povo residem nele mesmo, ainda que através do grupo bem articulado -- mas não sem divergências -- formato por Kejriwal.
 
 Filmado como uma saga que leva em conta principalmente o lado do herói, An Insignificant Man se torna um romance no momento que escolhe contar sua história como uma experiência de esperança e conquista, independente dos resultados finais das eleições. Os acontecimentos no decorrer de meses são condensados de maneira competente pela dupla de diretores, que têm à sua disposição dois editores (Manan Bhatt e Abhinav Tyagi) particularmente interessados em manter um ritmo coeso e incessante dos eventos do começo ao fim. Dessa forma, acompanhamos, por exemplo, a investigação de um vídeo-denúncia de corrupção de uma representante do partido de Arvind em questão de segundos, em algo que na vida real está disperso em dias, semanas, e que por causa disso perde-se facilmente a origem dos fatos. Com isso é possível observar como nem sempre as pessoas conseguem ficar bem informadas dos fatos, pois a memória do ser humano, graças aos efeitos das mídias digitais, tem se tornado cada vez mais opcional.
 

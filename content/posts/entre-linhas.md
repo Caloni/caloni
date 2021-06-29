@@ -5,7 +5,6 @@ date: '2016-10-20'
 link: https://www.imdb.com/title/tt3365280
 tags:
 - cinemaqui
-- draft
 title: Entre Linhas
 ---
 

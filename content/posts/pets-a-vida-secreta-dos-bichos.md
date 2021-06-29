@@ -4,7 +4,6 @@ categories:
 date: '2016-09-11'
 link: https://www.imdb.com/title/tt2709768
 tags:
-- draft
 title: 'Pets: A Vida Secreta dos Bichos'
 ---
 
@@ -20,6 +19,6 @@ Depois entramos em uma trama mais que conhecida. Uma das donas de um dos cachorr
 
 Toda essa turma no fundo foi criada para se divertir e fazer piadas divertidas. Não é muito diferente do que já vimos nos filmes anteriores do estúdio, mas acaba sendo um pouco superior a Minions, que tem a proeza de sequer conseguir terminar sua história decentemente.
 
-Aqui reina o clichê com piadinhas cada vez mais idiotas. Elas começam bem, mas vão aos poucos degringolando em um básico e primitivo "porque sim". Quando a preocupação dos roteiristas muda do instigante para o "deixa pra lá", o resultado acaba decepcionando um pouquinho mais a cada minuto de filme. Para piorar a situação, os dubladores do Brasil parecem inspirados em tentar tirar leite de pedra com sotaques e gírias que vão se tornar incompreensíveis daqui a dez anos. Mas quem vai assistir esse filme depois de dez anos?
+Aqui reina o clichê com piadinhas cada vez mais idiotas. Elas começam bem, mas vão aos poucos degringolando em um básico e primitivo "porque sim". Quando a preocupação dos roteiristas muda do instigante para o "deixa pra lá", o resultado acaba decepcionando um pouquinho mais a cada minuto de filme. Para piorar a situação, os dubladores do Brasil estão inspirados em tentar tirar leite de pedra com sotaques e gírias que vão se tornar incompreensíveis daqui a dez anos. Mas quem vai assistir esse filme depois de dez anos?
 
 Bom, mas o importante é que tudo se resolve em mais um dia no reino das franquias. Se colar e o filme fizer bastante sucesso, é isso que teremos.

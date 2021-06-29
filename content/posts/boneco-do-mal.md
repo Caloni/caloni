@@ -4,7 +4,6 @@ categories:
 date: '2016-09-11'
 link: https://www.imdb.com/title/tt3882082
 tags:
-- draft
 title: Boneco do Mal
 ---
 
@@ -18,4 +17,4 @@ Mais inteligente ainda é a narração voltada mais para as ações e reações 
 
 Há alguns excessos, é claro, mas não há nada tão exagerado como o gênero hoje em dia, que abusa do digital e do explícito para querer provar um ponto graficamente. Oras, Boneco do Mal comprova mais uma vez que o medo está sempre na penumbra, no mal-ouvido e no mal-visto. Toda a tensão é construída em cima do que não vimos, e enquanto isso ganhamos empatia pela moça, que tem uma história que também colabora para a trama.
 
-Com um final surpreendente, desses que te derruba novamente das expectativas (quando no início do terceiro ato já havia derrubado), O Garoto do Mal é um exemplo de como realizar um terror/drama sem apelar desnecessariamente para o clichê e o enlatado. Uma produção rica em seu design, roteiro e concepção.
+Com um final surpreendente, desses que te derruba novamente das expectativas (quando no início do terceiro ato já havia derrubado), Boneco do Mal é um exemplo de como realizar um terror/drama sem apelar desnecessariamente para o clichê e o enlatado. Uma produção rica em seu design, roteiro e concepção.

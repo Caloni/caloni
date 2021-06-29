@@ -5,7 +5,6 @@ date: '2016-09-29'
 link: https://www.imdb.com/title/tt3612984
 tags:
 - cinemaqui
-- draft
 title: Romance à Francesa
 ---
 
@@ -17,6 +16,6 @@ A história já começa absurda quando Clément (Emmanuel Mouret), um professor 
 
 Com uma fotografia teatral (cores, luzes, sonhos) e exuberante (para não dizer delirante), os cenários estáticos vistos pela diagonal do diretor Emmanuel Mouret caem como uma luva em uma narrativa que se esforça para observar aquelas pessoas e refletir sobre cada nova situação que aparece, sempre de maneira bem-humorada, mas com um fundinho de reflexão. Dessa forma, vemos uma mise en scene toda rebuscada sem soar apelativa. Pessoas andando na frente da câmera soam charmosas criando cenas memoráveis, pois os diálogos são inspirados, sempre regados com jazz ou música de situação.
 
-Aliás, é necessário abrir um parênteses para a trilha sonora, que parece ter sido escrita a dedo para cada situação. Conseguindo evocar ao mesmo tempo a atmosfera "familiar" de Domicílio Conjugal (Truffaut, 1970) e a arritmia perplexa de Masculino-Feminino (Godard, 1966), as composições conseguem oscilar sutilmente entre o romântico, o suspense e o drama.
+Aliás, é necessário abrir um parênteses para a trilha sonora que foi escrita a dedo para cada situação. Conseguindo evocar ao mesmo tempo a atmosfera "familiar" de Domicílio Conjugal (Truffaut, 1970) e a arritmia perplexa de Masculino-Feminino (Godard, 1966), as composições conseguem oscilar sutilmente entre o romântico, o suspense e o drama.
 
 Para os muitos que se esquecem que ficção é lidar com o inusitado para construir conteúdo, é importante lembrar que a "forçação de barra" do roteiro deve ser relevada pelo bem do argumento. Quase tudo que surpreende é por um motivo maior, e não para soar inteligente. É assim com Romance à Francesa, e é assim nos melhores momentos de Woody Allen (com ou sem pessimismo).
