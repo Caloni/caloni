@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-07-07'
-link: https://www.imdb.com/title/tt0089461
 title: O Último Dragão
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-10-13'
-link: https://www.imdb.com/title/tt0099785
 title: Esqueceram de Mim
 ---
 

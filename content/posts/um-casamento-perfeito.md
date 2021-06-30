@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-05-28'
-link: https://www.imdb.com/title/tt0082053
 title: Um Casamento Perfeito
 ---
 

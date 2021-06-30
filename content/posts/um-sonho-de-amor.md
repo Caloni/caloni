@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-12-25'
-link: https://www.imdb.com/title/tt1226236
 title: Um Sonho de Amor
 ---
 

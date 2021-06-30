@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-11-13'
-link: https://www.imdb.com/title/tt0043274
 title: Alice no País das Maravilhas (1951)
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - animes
 date: '2021-04-10'
-link: https://www.imdb.com/title/tt7662364
 tags:
 - draft
 title: Recovery of an Mmo Junkie (Netojuu no susume)

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2021-03-27'
-link: https://www.imdb.com/title/tt0265930
 tags:
 - draft
 title: O Último Beijo

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-01-04'
-link: https://www.imdb.com/title/tt1821641
 title: O Congresso Futurista
 ---
 

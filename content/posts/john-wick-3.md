@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-08-19'
-link: https://www.imdb.com/title/tt6146586
 title: 'John Wick 3 - Parabellum '
 ---
 

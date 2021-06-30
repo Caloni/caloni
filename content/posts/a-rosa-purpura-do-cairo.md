@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-12-16'
-link: https://www.imdb.com/title/tt0089853
 title: A Rosa Púrpura do Cairo
 ---
 

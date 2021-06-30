@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2018-01-30'
-link: https://www.imdb.com/title/tt1433775
 tags:
 - draft
 title: Garoojigi

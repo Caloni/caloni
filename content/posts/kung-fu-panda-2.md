@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-06-12'
-link: https://www.imdb.com/title/tt1302011
 title: Kung Fu Panda 2
 ---
 

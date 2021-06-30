@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-07-06'
-link: https://www.imdb.com/title/tt1399103
 title: 'Transformers: O Lado Oculto da Lua'
 ---
 

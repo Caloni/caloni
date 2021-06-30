@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-10-25'
-link: https://www.imdb.com/title/tt2087864
 title: 'Là-bas: Educação Criminal'
 ---
 

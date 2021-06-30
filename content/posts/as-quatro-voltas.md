@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-11-06'
-link: https://www.imdb.com/title/tt1646975
 title: As Quatro Voltas
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-01-25'
-link: https://www.imdb.com/title/tt1861375
 tags:
 - draft
 title: A Guerra dos Botões

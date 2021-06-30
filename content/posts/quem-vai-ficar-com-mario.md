@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2021-06-12'
-link: https://www.imdb.com/title/tt10573946
 tags:
 - draft
 - cinemaqui

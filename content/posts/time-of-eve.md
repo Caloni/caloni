@@ -2,7 +2,6 @@
 categories:
 - blog
 date: '2021-05-28'
-link: https://www.imdb.com/title/tt1506339
 tags:
 - draft
 title: Time of Eve (Eve no jikan)

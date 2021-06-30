@@ -2,7 +2,6 @@
 categories:
 - code
 date: '2020-04-18'
-link: https://www.papobinario.com.br/v1/
 title: Minha Palestra Sobre Windbg
 ---
 

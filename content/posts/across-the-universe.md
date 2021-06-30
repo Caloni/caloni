@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-09-28'
-link: https://www.imdb.com/title/tt0445922
 title: Across the Universe
 ---
 

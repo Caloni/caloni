@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-08-22'
-link: https://www.imdb.com/title/tt1231583
 title: Um Parto de Viagem
 ---
 

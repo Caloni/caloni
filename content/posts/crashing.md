@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2017-07-04'
-link: https://www.imdb.com/title/tt5295524
 tags:
 - draft
 title: Crashing

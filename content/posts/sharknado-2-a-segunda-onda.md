@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-08-20'
-link: https://www.imdb.com/title/tt3062074
 tags: null
 title: 'Sharknado 2: A Segunda Onda'
 ---

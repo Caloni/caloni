@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-01-08'
-link: https://www.imdb.com/title/tt2650414
 tags:
 - cinemaqui
 title: Amor, Plástico e Barulho

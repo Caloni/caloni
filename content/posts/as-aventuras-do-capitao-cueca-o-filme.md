@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-10-21'
-link: https://www.imdb.com/title/tt2091256
 tags:
 - draft
 title: As Aventuras Do Capitao Cueca O Filme

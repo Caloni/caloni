@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2018-12-16'
-link: https://www.imdb.com/title/tt2513228
 tags:
 - draft
 title: 'Derren Brown: Apocalypse'

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-01-14'
-link: https://www.imdb.com/title/tt8386898
 tags:
 - cinemaqui
 - draft

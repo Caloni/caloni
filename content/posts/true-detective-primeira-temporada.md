@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2017-11-01'
-link: https://www.imdb.com/title/tt2356777
 tags:
 - draft
 title: 'True Detective: Primeira Temporada'

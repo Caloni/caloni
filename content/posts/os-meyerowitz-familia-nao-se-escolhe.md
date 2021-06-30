@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2018-01-31'
-link: https://www.imdb.com/title/tt5536736
 tags:
 - draft
 title: 'Os Meyerowitz: Família Não se Escolhe'

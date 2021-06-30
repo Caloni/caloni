@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2015-07-28'
-link: https://www.imdb.com/title/tt2616280
 tags:
 - draft
 title: Derek

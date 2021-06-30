@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-11-11'
-link: https://www.imdb.com/title/tt0116629
 tags:
 - draft
 title: Independence Day

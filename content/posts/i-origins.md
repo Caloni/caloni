@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-06-03'
-link: https://www.imdb.com/title/tt2884206
 title: O Universo no Olhar
 ---
 

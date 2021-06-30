@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-10-22'
-link: https://www.imdb.com/title/tt5658540
 tags:
 - cinemaqui
 title: Mosquito

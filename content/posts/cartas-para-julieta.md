@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-10-10'
-link: https://www.imdb.com/title/tt0892318
 title: Cartas Para Julieta
 ---
 

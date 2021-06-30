@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2017-07-19'
-link: https://www.imdb.com/title/tt3006802
 tags:
 - draft
 title: Outlander - Primeira Temporada

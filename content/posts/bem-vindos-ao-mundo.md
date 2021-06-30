@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-10-22'
-link: https://www.imdb.com/title/tt2788716
 tags:
 - draft
 title: Bem Vindos Ao Mundo

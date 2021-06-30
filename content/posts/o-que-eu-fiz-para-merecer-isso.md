@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-04-15'
-link: https://www.imdb.com/title/tt3667648
 tags:
 - cinemaqui
 title: O Que Eu Fiz Para Merecer Isso?

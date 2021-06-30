@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-06-12'
-link: https://www.imdb.com/title/tt1356928
 title: O Pai dos Meus Filhos
 ---
 

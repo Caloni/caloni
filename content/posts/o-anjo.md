@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2018-10-22'
-link: https://www.imdb.com/title/tt7204348
 tags:
 - cinemaqui
 - draft

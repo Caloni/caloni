@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-02-16'
-link: https://www.imdb.com/title/tt1254322
 tags:
 - cinemaqui
 - draft

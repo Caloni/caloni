@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-10-08'
-link: https://www.imdb.com/title/tt1555149
 title: 'Tropa de Elite 2: O Inimigo Agora é Outro'
 ---
 

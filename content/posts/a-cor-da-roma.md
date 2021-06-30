@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2021-03-27'
-link: https://www.imdb.com/title/tt0063555
 tags:
 - draft
 title: A Cor da Romã

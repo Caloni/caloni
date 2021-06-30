@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-02-01'
-link: https://www.imdb.com/title/tt0064757
 title: 007 - A Serviço Secreto de Sua Majestade
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-10-04'
-link: https://www.imdb.com/title/tt0097123
 title: Crimes e Pecados
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-09-20'
-link: https://www.imdb.com/title/tt3090670
 title: Advantageous
 ---
 

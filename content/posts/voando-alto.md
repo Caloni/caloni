@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-05-02'
-link: https://www.imdb.com/title/tt1083452
 tags:
 - draft
 title: Voando Alto

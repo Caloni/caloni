@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-08-06'
-link: https://www.imdb.com/title/tt2268016
 title: Magic Mike XXL
 ---
 

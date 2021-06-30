@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-12-01'
-link: https://www.imdb.com/title/tt0095705
 tags: null
 title: Corra que a Polícia Vem Aí!
 ---

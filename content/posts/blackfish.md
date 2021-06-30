@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-01-11'
-link: https://www.imdb.com/title/tt2545118
 title: 'Blackfish: Fúria Animal'
 ---
 

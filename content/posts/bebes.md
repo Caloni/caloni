@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-05-01'
-link: https://www.imdb.com/title/tt1020938
 title: Bebês
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-09-06'
-link: https://www.imdb.com/title/tt1645170
 title: O Ditador
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-10-21'
-link: https://www.imdb.com/title/tt0458352
 tags:
 - draft
 title: O Diabo Veste Prada

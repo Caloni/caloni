@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-10-19'
-link: https://www.imdb.com/title/tt1212450
 title: Os Infratores
 ---
 

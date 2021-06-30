@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-03-04'
-link: https://www.imdb.com/title/tt0320691
 title: Anjos da Noite
 ---
 

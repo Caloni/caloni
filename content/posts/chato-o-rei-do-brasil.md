@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-03-15'
-link: https://www.imdb.com/title/tt0337926
 tags:
 - cinemaqui
 title: Chatô - O Rei do Brasil

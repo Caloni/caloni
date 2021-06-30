@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-11-10'
-link: https://www.imdb.com/title/tt0055928
 title: O Satânico Dr. No
 ---
 

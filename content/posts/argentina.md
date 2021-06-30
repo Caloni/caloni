@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-03-31'
-link: https://www.imdb.com/title/tt4483460
 tags:
 - cinemaqui
 - draft

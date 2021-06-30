@@ -2,7 +2,6 @@
 categories:
 - blog
 date: '2021-05-15'
-link: https://www.imdb.com/title/tt0413573
 tags:
 - draft
 title: Anatomia de Grey (Grey's Anatomy)

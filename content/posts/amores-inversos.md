@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-03-21'
-link: https://www.imdb.com/title/tt2463512
 tags:
 - draft
 title: Amores Inversos

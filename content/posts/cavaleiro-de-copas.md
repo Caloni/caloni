@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-11-26'
-link: https://www.imdb.com/title/tt2101383
 tags: null
 title: Cavaleiro de Copas
 ---

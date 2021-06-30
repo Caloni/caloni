@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2020-10-04'
-link: https://www.imdb.com/title/tt9498102
 title: Restauradores do Rust Valley
 ---
 

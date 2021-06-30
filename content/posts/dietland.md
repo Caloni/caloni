@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2020-12-06'
-link: https://www.imdb.com/title/tt5869202
 title: Dietland
 ---
 

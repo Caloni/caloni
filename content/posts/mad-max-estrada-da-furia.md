@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-05-22'
-link: https://www.imdb.com/title/tt1392190
 title: 'Mad Max: Estrada da Fúria'
 ---
 

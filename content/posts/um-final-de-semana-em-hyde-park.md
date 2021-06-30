@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-02-08'
-link: https://www.imdb.com/title/tt1477855
 title: Um Final de Semana em Hyde Park
 ---
 

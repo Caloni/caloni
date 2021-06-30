@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-12-09'
-link: https://www.imdb.com/title/tt0016230
 tags:
 - draft
 title: The Pleasure Garden

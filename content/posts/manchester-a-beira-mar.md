@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-02-13'
-link: https://www.imdb.com/title/tt4034228
 tags:
 - draft
 title: Manchester À Beira-Mar

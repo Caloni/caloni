@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-02-14'
-link: https://www.imdb.com/title/tt0363547
 title: Madrugada dos Mortos
 ---
 

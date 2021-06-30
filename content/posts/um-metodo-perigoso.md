@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-10-02'
-link: https://www.imdb.com/title/tt1571222
 title: Um Método Perigoso
 ---
 

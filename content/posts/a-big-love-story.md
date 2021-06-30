@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-03-03'
-link: https://www.imdb.com/title/tt1769383
 title: A Big Love Story
 ---
 

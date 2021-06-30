@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-01-15'
-link: https://www.imdb.com/title/tt0165078
 title: Depois da Vida
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-10-26'
-link: https://www.imdb.com/title/tt1679538
 title: Bróder
 ---
 

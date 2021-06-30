@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2021-06-12'
-link: https://www.imdb.com/title/tt14267526
 tags:
 - draft
 title: 'Meu Amor: Seis Historias De Amor Verdadeiro'

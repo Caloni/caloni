@@ -2,7 +2,6 @@
 categories:
 - code
 date: '2019-05-28'
-link: https://github.com/Caloni/goto
 title: 'C Resolve Tudo: goto'
 ---
 

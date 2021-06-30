@@ -3,7 +3,6 @@ categories:
 - movies
 date: '2018-02-21'
 external: 'true'
-link: https://www.imdb.com/title/tt2873282
 tags:
 - cinemaqui
 - draft

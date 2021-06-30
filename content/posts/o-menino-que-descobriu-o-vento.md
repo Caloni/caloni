@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-04-05'
-link: https://www.imdb.com/title/tt7533152
 title: O Menino que Descobriu o Vento
 ---
 

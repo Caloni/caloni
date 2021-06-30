@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-08-11'
-link: https://www.imdb.com/title/tt00054067
 title: A Maldição do Demônio
 ---
 

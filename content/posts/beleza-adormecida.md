@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-04-07'
-link: https://www.imdb.com/title/tt1588398
 title: Beleza Adormecida
 ---
 

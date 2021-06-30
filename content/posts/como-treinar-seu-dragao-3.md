@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-01-18'
-link: https://www.imdb.com/title/tt2386490
 tags:
 - draft
 title: Como Treinar Seu Dragão 3

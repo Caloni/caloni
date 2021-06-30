@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2016-08-04'
-link: https://www.imdb.com/title/tt1442437
 tags:
 - draft
 title: Modern Family - Primeira Temporada, Episódios 1 ao 5

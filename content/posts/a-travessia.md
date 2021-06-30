@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-12-15'
-link: https://www.imdb.com/title/tt3488710
 tags: null
 title: A Travessia
 ---

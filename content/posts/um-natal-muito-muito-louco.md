@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-12-25'
-link: https://www.imdb.com/title/tt0388419
 title: Um Natal Muito Muito Louco
 ---
 

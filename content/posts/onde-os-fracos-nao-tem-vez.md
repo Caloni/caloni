@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-03-04'
-link: https://www.imdb.com/title/tt0477348
 title: Onde os Fracos não Têm Vez
 ---
 

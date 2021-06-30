@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-04-12'
-link: https://www.imdb.com/title/tt0156610
 title: O Buraco
 ---
 

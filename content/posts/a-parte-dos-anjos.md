@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-04-01'
-link: https://www.imdb.com/title/tt1924394
 title: A Parte dos Anjos
 ---
 

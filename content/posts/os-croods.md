@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-01-31'
-link: https://www.imdb.com/title/tt0481499
 title: Os Croods
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2018-03-29'
-link: https://www.imdb.com/title/tt3563262
 tags:
 - cinemaqui
 - draft

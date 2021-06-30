@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-01-22'
-link: https://www.imdb.com/title/tt0448157
 tags: null
 title: Hancock
 ---

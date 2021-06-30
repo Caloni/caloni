@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-11-02'
-link: https://www.imdb.com/title/tt0313792
 title: Igual a Tudo na Vida
 ---
 

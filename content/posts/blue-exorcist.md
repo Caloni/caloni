@@ -3,7 +3,6 @@ categories:
 - series
 - animes
 date: '2014-08-31'
-link: https://www.imdb.com/title/tt1799631
 tags:
 - draft
 title: Blue Exorcist

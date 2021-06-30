@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-03-21'
-link: https://www.imdb.com/title/tt1411238
 title: Sexo Sem Compromisso
 ---
 

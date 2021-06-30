@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-12-14'
-link: https://www.imdb.com/title/tt0441773
 title: Kung Fu Panda
 ---
 

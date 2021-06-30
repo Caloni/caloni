@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2016-05-20'
-link: https://www.imdb.com/title/tt4145760
 tags:
 - draft
 title: The Lizzie Borden Chronicles (piloto)

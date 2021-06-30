@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-06-22'
-link: https://www.imdb.com/title/tt1588895
 title: Tio Boomie, Que Pode Recordar Suas Vidas Passadas
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-06-30'
-link: https://www.imdb.com/title/tt0876563
 title: 'Ponyo: Uma Amizade que Veio do Mar'
 ---
 

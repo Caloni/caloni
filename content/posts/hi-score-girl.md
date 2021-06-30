@@ -3,7 +3,6 @@ categories:
 - series
 - animes
 date: '2019-01-17'
-link: https://www.imdb.com/title/tt8963328
 tags:
 - draft
 title: Hi Score Girl

@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2020-09-29'
-link: https://www.imdb.com/title/tt0096657
 title: Mr. Bean
 ---
 

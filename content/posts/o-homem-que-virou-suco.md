@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-04-26'
-link: https://www.imdb.com/title/tt0178585
 title: O Homem Que Virou Suco
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-01-30'
-link: https://www.imdb.com/title/tt1268204
 title: Lixo Extraordinário
 ---
 

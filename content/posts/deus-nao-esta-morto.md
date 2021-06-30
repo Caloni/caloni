@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-09-28'
-link: https://www.imdb.com/title/tt2528814
 title: Deus Não Está Morto
 ---
 

@@ -3,7 +3,6 @@ categories:
 - code
 - ccpp
 date: '2018-08-21'
-link: https://gist.github.com/Caloni/5b9ccc66722a1b235f4aab8251822cdb
 title: Meu Novo Parseador de Argc Argv
 ---
 

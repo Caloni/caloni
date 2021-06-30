@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-06-16'
-link: https://www.imdb.com/title/tt0025452
 title: O Homem que Sabia Demais
 ---
 

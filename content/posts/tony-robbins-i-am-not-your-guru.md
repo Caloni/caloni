@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-03-15'
-link: https://www.imdb.com/title/tt5151716
 tags:
 - draft
 title: 'Tony Robbins: I Am Not Your Guru'

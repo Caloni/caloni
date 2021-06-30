@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-08-14'
-link: https://www.imdb.com/title/tt1046173
 title: 'G.I. Joe: A Origem de Cobra'
 ---
 

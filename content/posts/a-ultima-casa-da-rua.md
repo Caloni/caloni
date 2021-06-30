@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-04-14'
-link: https://www.imdb.com/title/tt1582507
 tags:
 - draft
 title: A Última Casa da Rua

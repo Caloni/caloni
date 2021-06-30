@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-03-08'
-link: https://www.imdb.com/title/tt0465188
 tags:
 - draft
 title: Novo Mundo

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-05-13'
-link: https://www.imdb.com/title/tt1840309
 title: Divergente
 ---
 

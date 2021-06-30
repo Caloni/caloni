@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-01-28'
-link: https://www.imdb.com/title/tt3808342
 tags:
 - cinemaqui
 title: O Filho de Saul

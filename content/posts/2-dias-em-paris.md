@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-05-16'
-link: https://www.imdb.com/title/tt0841044
 title: 2 Dias em Paris
 ---
 

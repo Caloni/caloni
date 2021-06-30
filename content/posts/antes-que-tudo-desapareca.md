@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2018-04-03'
-link: https://www.imdb.com/title/tt5999530
 tags:
 - cinemaqui
 - draft

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-03-19'
-link: https://www.imdb.com/title/tt0298203
 title: '8 Mile: Rua das Ilusões'
 ---
 

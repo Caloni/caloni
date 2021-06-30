@@ -2,7 +2,6 @@
 categories:
 - animes
 date: '2020-10-04'
-link: https://www.imdb.com/title/tt10320398
 title: Keep Your Hands Off Eizouken!
 ---
 

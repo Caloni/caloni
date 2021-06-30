@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-01-09'
-link: https://www.imdb.com/title/tt1618447
 title: Adeus, Primeiro Amor
 ---
 

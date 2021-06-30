@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-03-25'
-link: https://www.imdb.com/title/tt0851578
 title: Paprika
 ---
 

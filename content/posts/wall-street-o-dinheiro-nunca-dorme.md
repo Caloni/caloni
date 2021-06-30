@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-09-24'
-link: https://www.imdb.com/title/tt1027718
 title: 'Wall Street: O Dinheiro Nunca Dorme'
 ---
 

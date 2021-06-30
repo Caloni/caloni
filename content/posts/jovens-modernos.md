@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-10-29'
-link: https://www.imdb.com/title/tt1954379
 title: Jovens Modernos
 ---
 

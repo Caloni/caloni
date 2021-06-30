@@ -2,7 +2,6 @@
 categories:
 - food
 date: '2019-12-11'
-link: https://youtu.be/bLA2hUJvX6s
 tags:
 - recipes
 title: Panetone

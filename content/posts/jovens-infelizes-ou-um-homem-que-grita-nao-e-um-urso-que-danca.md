@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-02-02'
-link: https://www.imdb.com/title/tt5507620
 tags:
 - cinemaqui
 - draft

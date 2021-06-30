@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2017-04-21'
-link: https://www.imdb.com/title/tt4047038
 tags:
 - draft
 title: Dirk Gently's Holistic Detective Agency - Primeira Temporada

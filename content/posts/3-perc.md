@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2016-12-04'
-link: https://www.imdb.com/title/tt4922804
 tags:
 - draft
 title: 3%

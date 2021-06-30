@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-06-01'
-link: https://www.imdb.com/title/tt0060268
 title: Cul-de-Sac
 ---
 

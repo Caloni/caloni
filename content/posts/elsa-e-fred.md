@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-12-30'
-link: https://www.imdb.com/title/tt0453047
 title: Elsa e Fred
 ---
 

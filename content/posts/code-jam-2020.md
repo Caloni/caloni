@@ -2,7 +2,6 @@
 categories:
 - code
 date: '2020-04-05'
-link: https://gist.github.com/Caloni/fd22d49ad7e9c046120d98876c8cad38
 title: Code Jam 2020
 ---
 

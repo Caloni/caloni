@@ -2,7 +2,6 @@
 categories:
 - food
 date: '2020-09-25'
-link: https://www.graogourmet.com/produto/cafe-gourmet-torrado-da-fazenda-serra-negra/
 tags:
 - coffee
 title: Serra Negra

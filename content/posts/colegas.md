@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-07-28'
-link: https://www.imdb.com/title/tt1179259
 tags: null
 title: Colegas
 ---

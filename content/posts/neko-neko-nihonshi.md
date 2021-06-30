@@ -2,7 +2,6 @@
 categories:
 - blog
 date: '2021-05-15'
-link: https://www.imdb.com/title/tt11653472
 tags:
 - draft
 title: Neko Neko Nihonshi

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2018-02-26'
-link: https://www.imdb.com/title/tt4555426
 tags:
 - draft
 title: O Destino de uma Nação

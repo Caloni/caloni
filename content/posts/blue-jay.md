@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-12-10'
-link: https://www.imdb.com/title/tt5912454
 tags:
 - draft
 title: Blue Jay

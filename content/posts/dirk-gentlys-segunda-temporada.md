@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2018-01-19'
-link: https://www.imdb.com/title/tt4047038
 tags:
 - draft
 title: Dirk Gently's - Segunda Temporada

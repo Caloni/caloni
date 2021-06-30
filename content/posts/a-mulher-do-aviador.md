@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-08-19'
-link: https://www.imdb.com/title/tt0080728
 title: A Mulher do Aviador
 ---
 

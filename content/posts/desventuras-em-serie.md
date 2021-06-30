@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-11-29'
-link: https://www.imdb.com/title/tt0339291
 tags: null
 title: Desventuras em Série
 ---

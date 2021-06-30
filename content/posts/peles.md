@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-04-21'
-link: https://www.imdb.com/title/tt5808778
 tags:
 - draft
 title: Peles

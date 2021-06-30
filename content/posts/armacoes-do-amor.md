@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-06-12'
-link: https://www.imdb.com/title/tt0427229
 title: Armações do Amor
 ---
 

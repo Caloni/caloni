@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-02-08'
-link: https://www.imdb.com/title/tt0119396
 tags: null
 title: Jackie Brown
 ---

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-03-11'
-link: https://www.imdb.com/title/tt0059732
 tags:
 - draft
 title: Mulheres no Front

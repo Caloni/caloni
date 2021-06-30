@@ -3,7 +3,6 @@ categories:
 - series
 - animes
 date: '2020-07-15'
-link: https://www.imdb.com/title/tt12031040
 title: Japão Submerso
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-06-07'
-link: https://www.imdb.com/title/tt0445336
 title: Vocês, Os Vivos
 ---
 

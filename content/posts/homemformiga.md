@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-11-07'
-link: https://www.imdb.com/title/tt0478970
 title: Homem-Formiga
 ---
 

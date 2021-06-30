@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-10-18'
-link: https://www.imdb.com/title/tt13034494
 tags:
 - cinemaqui
 title: O Tremor

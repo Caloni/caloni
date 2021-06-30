@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-03-11'
-link: https://www.imdb.com/title/tt0105236
 tags:
 - draft
 title: Cães de Aluguel

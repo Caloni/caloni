@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-06-24'
-link: https://www.imdb.com/title/tt2096673
 title: Divertida Mente
 ---
 

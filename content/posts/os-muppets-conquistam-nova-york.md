@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-07-20'
-link: https://www.imdb.com/title/tt0087755
 title: Os Muppets Conquistam Nova York
 ---
 

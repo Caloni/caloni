@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-04-27'
-link: https://www.imdb.com/title/tt1843866
 title: 'Capitão América 2: O Soldado Invernal'
 ---
 

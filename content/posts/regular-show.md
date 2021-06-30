@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2015-07-28'
-link: https://www.imdb.com/title/tt1710308
 tags:
 - draft
 title: Regular Show

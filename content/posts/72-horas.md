@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-01-14'
-link: https://www.imdb.com/title/tt1458175
 title: 72 horas
 ---
 

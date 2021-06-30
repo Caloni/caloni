@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-07-18'
-link: https://www.imdb.com/title/tt4659524
 tags:
 - cinemaqui
 title: A Nação Que Não Esperou Por Deus

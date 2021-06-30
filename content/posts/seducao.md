@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-01-16'
-link: https://www.imdb.com/title/tt0103791
 tags:
 - draft
 title: Sedução

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-02-20'
-link: https://www.imdb.com/title/tt1560747
 title: O Mestre
 ---
 

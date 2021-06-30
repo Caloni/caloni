@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-01-17'
-link: https://www.imdb.com/title/tt1340800
 title: O Espião Que Sabia Demais
 ---
 

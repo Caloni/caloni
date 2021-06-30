@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-01-28'
-link: https://www.imdb.com/title/tt1428538
 title: 'João e Maria: Caçadores de Bruxas'
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-06-21'
-link: https://www.imdb.com/title/tt5771640
 tags:
 - cinemaqui
 - draft

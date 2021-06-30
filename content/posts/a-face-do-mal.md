@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-06-15'
-link: https://www.imdb.com/title/tt2386278
 title: A Face do Mal
 ---
 

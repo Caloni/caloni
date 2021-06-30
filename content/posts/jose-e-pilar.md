@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-11-05'
-link: https://www.imdb.com/title/tt1789810
 title: José e Pilar
 ---
 

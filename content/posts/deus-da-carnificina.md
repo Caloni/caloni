@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-10-07'
-link: https://www.imdb.com/title/tt1692486
 title: Deus da Carnificina
 ---
 

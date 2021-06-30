@@ -2,7 +2,6 @@
 categories:
 - code
 date: '2007-10-10'
-link: /ppt/engenhariareversaparaprincipiantes.pdf
 title: Engenharia reversa para principiantes
 ---
 

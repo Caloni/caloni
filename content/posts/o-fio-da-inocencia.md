@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-05-04'
-link: https://www.imdb.com/title/tt0165773
 title: O Fio da Inocência
 ---
 

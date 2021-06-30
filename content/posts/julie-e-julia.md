@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-12-20'
-link: https://www.imdb.com/title/tt1135503
 title: Julie e Julia
 ---
 

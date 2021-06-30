@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-01-27'
-link: https://www.imdb.com/title/tt2321405
 tags:
 - draft
 title: Minha Vida de Abobrinha

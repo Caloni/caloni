@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-03-01'
-link: https://www.imdb.com/title/tt4682786
 tags:
 - draft
 title: Beleza Oculta

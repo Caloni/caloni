@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-10-11'
-link: https://www.imdb.com/title/tt3317522
 title: The Nightmare
 ---
 

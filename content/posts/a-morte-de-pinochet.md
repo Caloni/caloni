@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-10-24'
-link: https://www.imdb.com/title/tt1817190
 title: A Morte de Pinochet
 ---
 

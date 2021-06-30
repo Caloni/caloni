@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2019-05-15'
-link: https://www.imdb.com/title/tt1312171
 tags:
 - draft
 title: The Umbrella Academy

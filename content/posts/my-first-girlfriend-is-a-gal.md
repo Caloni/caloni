@@ -2,7 +2,6 @@
 categories:
 - animes
 date: '2020-10-04'
-link: https://www.crunchyroll.com/my-first-girlfriend-is-a-gal
 title: My First Girlfriend is a Gal
 ---
 

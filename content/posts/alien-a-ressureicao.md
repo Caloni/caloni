@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-12-12'
-link: https://www.imdb.com/title/tt0118583
 title: Alien, a Ressurreição
 ---
 

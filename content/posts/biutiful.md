@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-02-13'
-link: https://www.imdb.com/title/tt1164999
 title: Biutiful
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-06-18'
-link: https://www.imdb.com/title/tt1294688
 title: Apenas uma Noite
 ---
 

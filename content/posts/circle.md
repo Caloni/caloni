@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-10-24'
-link: https://www.imdb.com/title/tt3118452
 title: Circle
 ---
 

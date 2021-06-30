@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-07-05'
-link: https://www.imdb.com/title/tt0086567
 title: War Games
 ---
 

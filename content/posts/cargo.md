@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-11-01'
-link: https://www.imdb.com/title/tt0381940
 title: Cargo
 ---
 

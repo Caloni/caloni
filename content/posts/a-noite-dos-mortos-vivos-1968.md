@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-05-07'
-link: https://www.imdb.com/title/tt0063350
 title: A Noite dos Mortos-Vivos
 ---
 

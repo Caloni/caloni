@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-08-14'
-link: https://www.imdb.com/title/tt0091167
 tags:
 - draft
 title: Hannah e Suas Irmãs

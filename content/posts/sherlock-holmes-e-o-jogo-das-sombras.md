@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-02-15'
-link: https://www.imdb.com/title/tt1515091
 title: Sherlock Holmes e o Jogo das Sombras
 ---
 

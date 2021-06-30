@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-05-04'
-link: https://www.imdb.com/title/tt1355630
 title: Se Eu Ficar
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-01-13'
-link: https://www.imdb.com/title/tt5221584
 tags:
 - draft
 title: Aquarius

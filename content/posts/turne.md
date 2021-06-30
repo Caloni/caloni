@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-04-27'
-link: https://www.imdb.com/title/tt1451762
 title: Turnê
 ---
 

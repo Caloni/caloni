@@ -2,7 +2,6 @@
 categories:
 - blog
 date: '2020-10-04'
-link: https://www.crunchyroll.com
 title: Crunchyroll
 ---
 

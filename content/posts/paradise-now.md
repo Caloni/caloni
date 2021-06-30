@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-05-09'
-link: https://www.imdb.com/title/tt0445620
 title: Paradise Now
 ---
 

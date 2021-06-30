@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-03-19'
-link: https://www.imdb.com/title/tt2299842
 title: Pieta
 ---
 

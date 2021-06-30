@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-05-10'
-link: https://www.imdb.com/title/tt0085959
 title: Monty Python - O Sentido da Vida
 ---
 

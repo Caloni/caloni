@@ -2,7 +2,6 @@
 categories:
 - code
 date: '2020-05-10'
-link: https://github.com/Caloni/calonibot
 title: Bug no Calonibot Rodando Como Serviço
 ---
 

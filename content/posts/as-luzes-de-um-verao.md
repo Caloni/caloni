@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-04-29'
-link: https://www.imdb.com/title/tt0224578
 title: As Luzes de um Verão
 ---
 

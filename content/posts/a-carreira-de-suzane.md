@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-05-19'
-link: https://www.imdb.com/title/tt0056910
 title: A Carreira de Suzane
 ---
 

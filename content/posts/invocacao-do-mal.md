@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-09-26'
-link: https://www.imdb.com/title/tt1457767
 title: Invocação do Mal
 ---
 

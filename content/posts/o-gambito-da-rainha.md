@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2020-11-14'
-link: https://www.imdb.com/title/tt10048342
 tags:
 - draft
 title: O Gambito da Rainha

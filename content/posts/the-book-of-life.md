@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-11-09'
-link: https://www.imdb.com/title/tt2262227
 title: O Livro da Vida
 ---
 

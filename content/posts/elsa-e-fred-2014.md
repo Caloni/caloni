@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-01-02'
-link: https://www.imdb.com/title/tt2113659
 title: 'Elsa & Fred: Um Amor de Paixão (2014)'
 ---
 

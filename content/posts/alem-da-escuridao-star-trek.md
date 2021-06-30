@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-06-17'
-link: https://www.imdb.com/title/tt1408101
 title: 'Além da Escuridão: Star Trek'
 ---
 

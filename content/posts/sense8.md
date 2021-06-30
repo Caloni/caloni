@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2015-07-06'
-link: https://www.imdb.com/title/tt2431438
 title: Sense8
 ---
 

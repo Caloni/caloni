@@ -2,7 +2,6 @@
 categories:
 - code
 date: '2011-03-03'
-link: https://github.com/Caloni/daytoday
 tags:
 - draft
 title: Projeto DayToDay

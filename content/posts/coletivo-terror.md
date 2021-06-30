@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2020-03-22'
-link: https://www.imdb.com/title/tt9815502
 title: Coletivo Terror
 ---
 

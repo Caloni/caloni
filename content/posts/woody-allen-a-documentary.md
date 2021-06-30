@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-03-23'
-link: https://www.imdb.com/title/tt2397619
 title: 'Woody Allen: A Documentary'
 ---
 

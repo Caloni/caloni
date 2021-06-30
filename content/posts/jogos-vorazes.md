@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-04-01'
-link: https://www.imdb.com/title/tt1392170
 title: Jogos Vorazes
 ---
 

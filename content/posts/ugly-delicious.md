@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2018-11-17'
-link: https://www.imdb.com/title/tt7907916
 tags:
 - draft
 title: Ugly Delicious

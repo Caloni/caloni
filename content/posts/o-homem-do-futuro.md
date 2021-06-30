@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-09-11'
-link: https://www.imdb.com/title/tt2027178
 title: O Homem do Futuro
 ---
 

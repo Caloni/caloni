@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-02-07'
-link: https://www.imdb.com/title/tt0118715
 title: O Grande Lebowski
 ---
 

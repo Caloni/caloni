@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-12-19'
-link: https://www.imdb.com/title/tt1832288
 title: 'Aparecida: O Milagre'
 ---
 

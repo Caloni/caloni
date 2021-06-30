@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-10-21'
-link: https://www.imdb.com/title/tt1051904
 tags:
 - cinemaqui
 title: 'Goosebumps: Monstros e Arrepios'

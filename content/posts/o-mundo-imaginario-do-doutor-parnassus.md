@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-03-22'
-link: https://www.imdb.com/title/tt1054606
 title: O Mundo Imaginário do Doutor Parnassus
 ---
 

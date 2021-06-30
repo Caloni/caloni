@@ -2,7 +2,6 @@
 categories:
 - food
 date: '2020-06-07'
-link: http://vinhosbatalha.com.br/
 tags:
 - wine
 title: Batalha

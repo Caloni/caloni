@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2016-03-13'
-link: https://www.imdb.com/title/tt1856010
 tags:
 - draft
 title: House of Cards - Primeira Temporada

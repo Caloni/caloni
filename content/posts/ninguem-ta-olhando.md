@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2019-12-02'
-link: https://www.imdb.com/title/tt11131980
 tags:
 - draft
 title: Ninguém Tá Olhando

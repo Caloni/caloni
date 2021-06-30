@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-03-21'
-link: https://www.imdb.com/title/tt0414993
 tags:
 - draft
 title: Fonte da Vida

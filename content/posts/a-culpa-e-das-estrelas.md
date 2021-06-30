@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-06-14'
-link: https://www.imdb.com/title/tt2582846
 title: A Culpa é das Estrelas
 ---
 

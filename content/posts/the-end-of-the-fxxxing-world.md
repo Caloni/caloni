@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2018-02-06'
-link: https://www.imdb.com/title/tt6257970
 tags:
 - draft
 title: The End Of The F***ing World

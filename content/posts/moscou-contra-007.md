@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-11-11'
-link: https://www.imdb.com/title/tt0057076
 title: Moscou Contra 007
 ---
 

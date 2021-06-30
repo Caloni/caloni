@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-12-30'
-link: https://www.imdb.com/title/tt0317248
 tags: null
 title: Cidade de Deus
 ---

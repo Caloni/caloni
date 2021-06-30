@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-03-24'
-link: https://www.imdb.com/title/tt0089530
 tags:
 - draft
 title: 'Mad Max 3: Além da Cúpula do Trovão'

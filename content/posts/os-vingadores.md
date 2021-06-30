@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-04-28'
-link: https://www.imdb.com/title/tt0848228
 title: Os Vingadores - The Avengers
 ---
 

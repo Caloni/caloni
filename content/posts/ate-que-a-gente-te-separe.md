@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-02-26'
-link: https://www.imdb.com/title/tt6728096
 tags:
 - draft
 title: Até que a Gente te Separe

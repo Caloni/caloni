@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-12-16'
-link: https://www.imdb.com/title/tt0097108
 title: O Cozinheiro, o Ladrão, Sua Mulher e o Amante
 ---
 

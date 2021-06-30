@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-05-14'
-link: https://www.imdb.com/title/tt0075314
 title: 'Taxi Driver: Motorista de Táxi'
 ---
 

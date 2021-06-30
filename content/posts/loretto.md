@@ -2,7 +2,6 @@
 categories:
 - food
 date: '2020-08-04'
-link: http://www.loretto.com.br
 tags:
 - coffee
 title: Loretto

@@ -1,7 +1,6 @@
 ---
 categories: []
 date: '2017-09-24'
-link: https://www.imdb.com/title/tt5109784
 tags:
 - cinemaqui
 - draft

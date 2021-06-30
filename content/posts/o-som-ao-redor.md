@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-01-14'
-link: https://www.imdb.com/title/tt2190367
 title: O Som ao Redor
 ---
 

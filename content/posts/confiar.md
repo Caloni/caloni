@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-09-27'
-link: https://www.imdb.com/title/tt1529572
 title: Confiar
 ---
 

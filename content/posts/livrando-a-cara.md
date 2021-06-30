@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-05-29'
-link: https://www.imdb.com/title/tt0384504
 tags:
 - draft
 title: Livrando a Cara

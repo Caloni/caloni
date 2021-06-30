@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-10-26'
-link: https://www.imdb.com/title/tt3031762
 title: 'Giuseppe Tornatore: Todo Filme é Meu Primeiro Filme'
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-11-02'
-link: https://www.imdb.com/title/tt0158983
 title: 'South Park: Maior, Melhor e Sem Cortes'
 ---
 

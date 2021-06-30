@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-04-16'
-link: https://www.imdb.com/title/tt0796366
 title: Star Trek
 ---
 

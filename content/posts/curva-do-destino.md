@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-10-13'
-link: https://www.imdb.com/title/tt0037638
 title: Curva do Destino
 ---
 

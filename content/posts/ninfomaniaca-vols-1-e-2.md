@@ -1,7 +1,6 @@
 ---
 categories: []
 date: '2016-06-06'
-link: https://www.imdb.com/title/tt1937390
 tags:
 - draft
 title: Ninfomaníaca Vols 1 e 2

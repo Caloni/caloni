@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-03-19'
-link: https://www.imdb.com/title/tt0110877
 title: O Carteiro e o Poeta
 ---
 

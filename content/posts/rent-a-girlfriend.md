@@ -2,7 +2,6 @@
 categories:
 - animes
 date: '2020-10-11'
-link: https://www.crunchyroll.com/pt-pt/rent-a-girlfriend
 title: Rent-a-Girlfriend
 ---
 

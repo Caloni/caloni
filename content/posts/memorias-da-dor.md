@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-05-31'
-link: https://www.imdb.com/title/tt6313378
 tags:
 - cinemaqui
 - draft

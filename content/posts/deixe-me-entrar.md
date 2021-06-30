@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-02-17'
-link: https://www.imdb.com/title/tt1228987
 title: Deixe-me Entrar
 ---
 

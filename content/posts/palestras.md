@@ -2,7 +2,6 @@
 categories:
 - lists
 date: '2020-11-08'
-link: https://www.slideshare.net/WanderleyCaloni
 title: Palestras
 ---
 

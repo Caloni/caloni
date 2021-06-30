@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-02-14'
-link: https://www.imdb.com/title/tt1588173
 title: Meu Namorado é um Zumbi
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-10-01'
-link: https://www.imdb.com/title/tt8473532
 tags:
 - cinemaqui
 - draft

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-08-03'
-link: https://www.imdb.com/title/tt2200908
 title: A Febre do Rato
 ---
 

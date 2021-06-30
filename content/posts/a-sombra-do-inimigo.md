@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-12-22'
-link: https://www.imdb.com/title/tt1712170
 title: A Sombra do Inimigo
 ---
 

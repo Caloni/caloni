@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-07-13'
-link: https://www.imdb.com/title/tt0770828
 title: O Homem de Aço
 ---
 

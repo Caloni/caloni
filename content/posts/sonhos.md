@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-05-05'
-link: https://www.imdb.com/title/tt0100998
 tags:
 - draft
 title: Sonhos

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-02-07'
-link: https://www.imdb.com/title/tt1707386
 title: Os Miseráveis
 ---
 

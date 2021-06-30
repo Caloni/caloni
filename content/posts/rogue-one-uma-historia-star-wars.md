@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-12-28'
-link: https://www.imdb.com/title/tt3748528
 tags:
 - draft
 title: 'Rogue One: Uma História Star Wars'

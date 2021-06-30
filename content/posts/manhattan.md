@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-05-20'
-link: https://www.imdb.com/title/tt0079522
 title: Manhattan
 ---
 

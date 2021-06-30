@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-08-06'
-link: https://www.imdb.com/title/tt1781755
 title: '400 contra 1: Uma História do Comando Vermelho'
 ---
 

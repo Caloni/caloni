@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2018-09-15'
-link: https://www.imdb.com/title/tt6317068
 tags:
 - draft
 title: Final Space

@@ -2,7 +2,6 @@
 categories:
 - blog
 date: '2021-06-05'
-link: https://www.imdb.com/title/tt4298958
 tags:
 - draft
 title: Sabor da Vida (Sweet Bean)

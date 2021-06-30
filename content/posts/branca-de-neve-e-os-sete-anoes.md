@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-07-20'
-link: https://www.imdb.com/title/tt0029583
 title: Branca de Neve e os Sete Anões
 ---
 

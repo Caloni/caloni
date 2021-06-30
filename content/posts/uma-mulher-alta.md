@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-12-06'
-link: https://www.imdb.com/title/tt10199640
 tags:
 - cinemaqui
 - draft

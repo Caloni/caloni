@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-07-22'
-link: https://www.imdb.com/title/tt1201607
 title: Harry Potter e as Relíquias da Morte - Parte 2
 ---
 

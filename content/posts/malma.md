@@ -2,7 +2,6 @@
 categories:
 - food
 date: '2020-06-21'
-link: http://www.bodegamalma.com
 tags:
 - wine
 title: Malma

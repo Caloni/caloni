@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-11-26'
-link: https://www.imdb.com/title/tt1424432
 title: Senna
 ---
 

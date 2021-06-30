@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-06-10'
-link: https://www.imdb.com/title/tt4255626
 tags:
 - cinemaqui
 title: Beijei uma Garota

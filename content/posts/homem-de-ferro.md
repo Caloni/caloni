@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-07-30'
-link: https://www.imdb.com/title/tt0371746
 title: Homem de Ferro
 ---
 

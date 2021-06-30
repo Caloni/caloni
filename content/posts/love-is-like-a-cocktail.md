@@ -2,7 +2,6 @@
 categories:
 - animes
 date: '2020-10-04'
-link: https://www.crunchyroll.com/love-is-like-a-cocktail
 title: Love is Like a Cocktail
 ---
 

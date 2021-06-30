@@ -3,7 +3,6 @@ categories:
 - series
 - animes
 date: '2020-07-15'
-link: https://www.imdb.com/title/tt8254880
 title: 'Wotakoi: Amor é Difícil para Otakus'
 ---
 

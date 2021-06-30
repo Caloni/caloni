@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-06-27'
-link: https://www.imdb.com/title/tt0092550
 title: O Amigo da Minha Amiga
 ---
 

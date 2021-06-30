@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-08-23'
-link: https://www.imdb.com/title/tt3595966
 tags:
 - cinemaqui
 title: Numa Escola de Havana

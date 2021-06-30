@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-12-08'
-link: https://www.imdb.com/title/tt0090605
 title: Aliens, o Resgate
 ---
 

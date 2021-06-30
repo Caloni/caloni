@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-01-05'
-link: https://www.imdb.com/title/tt0457430
 tags:
 - draft
 title: O Labirinto do Fauno

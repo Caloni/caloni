@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-06-19'
-link: https://www.imdb.com/title/tt1646971
 title: Como Treinar o Seu Dragão 2
 ---
 

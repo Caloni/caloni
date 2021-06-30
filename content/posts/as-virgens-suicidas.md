@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-03-31'
-link: https://www.imdb.com/title/tt0159097
 tags:
 - draft
 title: As Virgens Suicidas

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-07-14'
-link: https://www.imdb.com/title/tt2713180
 title: Corações de Ferro
 ---
 

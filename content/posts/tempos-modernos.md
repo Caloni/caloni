@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-01-05'
-link: https://www.imdb.com/title/tt0027977
 title: Tempos Modernos
 ---
 

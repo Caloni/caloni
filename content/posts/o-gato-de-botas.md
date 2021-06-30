@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-01-09'
-link: https://www.imdb.com/title/tt0448694
 title: O Gato de Botas
 ---
 

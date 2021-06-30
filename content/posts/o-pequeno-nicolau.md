@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-06-02'
-link: https://www.imdb.com/title/tt1264904
 title: O Pequeno Nicolau
 ---
 

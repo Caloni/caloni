@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-03-01'
-link: https://www.imdb.com/title/tt1805297
 title: As Mulheres do Sexto Andar
 ---
 

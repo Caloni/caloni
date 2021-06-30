@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-12-09'
-link: https://www.imdb.com/title/tt0780521
 title: A Princesa e o Sapo
 ---
 

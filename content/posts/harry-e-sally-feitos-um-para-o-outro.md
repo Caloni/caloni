@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-07-01'
-link: https://www.imdb.com/title/tt0098635
 title: 'Harry e Sally: Feitos um para o Outro'
 ---
 

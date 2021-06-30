@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-09-21'
-link: https://www.imdb.com/title/tt1440161
 title: Pronta Para Amar
 ---
 

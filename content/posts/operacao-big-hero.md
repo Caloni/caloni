@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-12-31'
-link: https://www.imdb.com/title/tt2245084
 title: Operação Big Hero
 ---
 

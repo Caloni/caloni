@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-09-07'
-link: https://www.imdb.com/title/tt0114134
 title: O Livro de Cabeceira
 ---
 

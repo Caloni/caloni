@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-03-04'
-link: https://www.imdb.com/title/tt1007029
 title: A Dama de Ferro
 ---
 

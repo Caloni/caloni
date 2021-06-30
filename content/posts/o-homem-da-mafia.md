@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-12-12'
-link: https://www.imdb.com/title/tt1764234
 title: O Homem da Máfia
 ---
 

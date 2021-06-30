@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2014-12-01'
-link: https://www.imdb.com/title/tt2164430
 tags:
 - draft
 title: Diário de um Jovem Médico

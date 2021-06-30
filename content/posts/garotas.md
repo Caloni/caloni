@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-04-24'
-link: https://www.imdb.com/title/tt3655522
 tags:
 - cinemaqui
 title: Garotas

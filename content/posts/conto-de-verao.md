@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-05-16'
-link: https://www.imdb.com/title/tt0115940
 title: Conto de Verão
 ---
 

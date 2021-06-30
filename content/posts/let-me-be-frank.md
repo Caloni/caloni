@@ -1,7 +1,6 @@
 ---
 categories: []
 date: '2019-02-02'
-link: https://www.imdb.com/title/tt9495238
 tags:
 - draft
 title: Let Me Be Frank

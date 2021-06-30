@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2014-06-20'
-link: https://www.imdb.com/title/tt1844624
 tags:
 - draft
 title: História de Horror Americana - Asylum

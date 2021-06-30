@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2017-04-16'
-link: https://www.imdb.com/title/tt6304676
 tags:
 - draft
 title: Samurai Gourmet

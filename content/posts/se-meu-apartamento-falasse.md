@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-07-19'
-link: https://www.imdb.com/title/tt0053604
 tags: null
 title: Se Meu Apartamento Falasse
 ---

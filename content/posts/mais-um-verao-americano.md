@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2015-09-12'
-link: https://www.imdb.com/title/tt4341500
 tags:
 - draft
 title: Mais um Verão Americano (piloto)

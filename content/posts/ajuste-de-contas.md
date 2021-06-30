@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-01-25'
-link: https://www.imdb.com/title/tt1661382
 title: Ajuste de Contas
 ---
 

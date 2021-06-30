@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-03-04'
-link: https://www.imdb.com/title/tt0043778
 title: O Homem do Planeta X
 ---
 

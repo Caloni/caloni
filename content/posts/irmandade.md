@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-11-02'
-link: https://www.imdb.com/title/tt5104002
 tags: null
 title: Irmandade
 ---

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-02-13'
-link: https://www.imdb.com/title/tt1602620
 title: Amor
 ---
 

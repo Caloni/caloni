@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-01-23'
-link: https://www.imdb.com/title/tt3631112
 tags:
 - draft
 title: A Garota no Trem

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-08-11'
-link: https://www.imdb.com/title/tt0918575
 title: Victim
 ---
 

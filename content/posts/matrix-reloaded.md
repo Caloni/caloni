@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-05-06'
-link: https://www.imdb.com/title/tt0234215
 tags: null
 title: Matrix Reloaded
 ---

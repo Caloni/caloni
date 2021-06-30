@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-08-17'
-link: https://www.imdb.com/title/tt5221004
 tags:
 - cinemaqui
 - draft

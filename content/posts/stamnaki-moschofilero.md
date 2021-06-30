@@ -2,7 +2,6 @@
 categories:
 - food
 date: '2021-01-10'
-link: https://www.vivino.com/stamnaki-moschofilero/w/4956043
 tags:
 - wine
 title: Stamnaki Moschofilero

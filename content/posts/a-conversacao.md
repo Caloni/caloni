@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-11-16'
-link: https://www.imdb.com/title/tt0071360
 title: A Conversação
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2020-03-27'
-link: https://www.imdb.com/title/tt8771910
 title: 'Self Made: Inspired by the Life of Madam C.J. Walker'
 ---
 

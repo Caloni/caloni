@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-05-10'
-link: https://www.imdb.com/title/tt0095765
 title: Cinema Paradiso
 ---
 

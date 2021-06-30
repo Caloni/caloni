@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-10-20'
-link: https://www.imdb.com/title/tt3044584
 tags: null
 title: Greater Things
 ---

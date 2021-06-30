@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-05-12'
-link: https://www.imdb.com/title/tt1617661
 title: O Destino de Júpiter
 ---
 

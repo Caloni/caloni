@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-07-19'
-link: https://www.imdb.com/title/tt1046947
 title: Tinha Que Ser Você
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-06-23'
-link: https://www.imdb.com/title/tt0172396
 tags:
 - draft
 title: Fim de Caso

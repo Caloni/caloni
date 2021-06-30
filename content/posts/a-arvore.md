@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-07-01'
-link: https://www.imdb.com/title/tt1496005
 title: A Árvore
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-03-15'
-link: https://www.imdb.com/title/tt1587828
 title: Bruna Surfistinha
 ---
 

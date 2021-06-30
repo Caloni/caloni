@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-02-20'
-link: https://www.imdb.com/title/tt0420238
 title: O Corajoso Ratinho Despereaux
 ---
 

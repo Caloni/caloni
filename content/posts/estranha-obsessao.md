@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-08-07'
-link: https://www.imdb.com/title/tt1605777
 tags:
 - draft
 title: Estranha Obsessão

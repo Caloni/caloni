@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-05-24'
-link: https://www.imdb.com/title/tt0039417
 tags:
 - draft
 title: Alemanha, Ano Zero

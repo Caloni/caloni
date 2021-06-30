@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2019-12-11'
-link: https://www.imdb.com/title/tt7366338
 tags:
 - draft
 title: Chernobyl

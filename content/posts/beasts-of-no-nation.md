@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-03-11'
-link: https://www.imdb.com/title/tt1365050
 tags:
 - cinemaqui
 title: Beasts of No Nation

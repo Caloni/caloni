@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-04-01'
-link: https://www.imdb.com/title/tt1049413
 title: 'Up: Altas Aventuras'
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-11-01'
-link: https://www.imdb.com/title/tt0025316
 title: Aconteceu Naquela Noite
 ---
 

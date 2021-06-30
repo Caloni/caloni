@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-01-09'
-link: https://www.imdb.com/title/tt0362270
 tags: null
 title: A Vida Marinha com Steve Zissou
 ---

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-10-11'
-link: https://www.imdb.com/title/tt2364897
 tags:
 - cinemaqui
 title: O Quarto dos Esquecidos

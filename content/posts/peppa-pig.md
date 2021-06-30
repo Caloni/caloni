@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2016-10-16'
-link: https://www.imdb.com/title/tt0426769
 tags:
 - draft
 title: Peppa Pig

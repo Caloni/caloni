@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-10-28'
-link: https://www.imdb.com/title/tt2013293
 title: Vidas ao Vento
 ---
 

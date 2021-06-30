@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-04-02'
-link: https://www.imdb.com/title/tt1482459
 title: O Lorax, em Busca da Trúfula Perdida
 ---
 

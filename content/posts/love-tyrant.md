@@ -2,7 +2,6 @@
 categories:
 - animes
 date: '2020-10-04'
-link: https://www.crunchyroll.com/love-tyrant
 title: Love Tyrant
 ---
 

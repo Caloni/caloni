@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-05-29'
-link: https://www.imdb.com/title/tt2168180
 tags: null
 title: 'Nise: O Coração da Loucura'
 ---

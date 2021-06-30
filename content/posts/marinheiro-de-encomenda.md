@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-01-06'
-link: https://www.imdb.com/title/tt0019421
 title: Marinheiro de Encomenda
 ---
 

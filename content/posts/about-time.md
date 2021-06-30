@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-12-27'
-link: https://www.imdb.com/title/tt2194499
 tags: null
 title: Questão de Tempo
 ---

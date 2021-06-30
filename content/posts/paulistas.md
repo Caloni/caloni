@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2018-02-10'
-link: https://www.imdb.com/title/tt7115328
 tags:
 - cinemaqui
 - draft

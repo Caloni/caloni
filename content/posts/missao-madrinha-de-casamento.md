@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-12-14'
-link: https://www.imdb.com/title/tt1478338
 title: Missão Madrinha de Casamento
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-09-10'
-link: https://www.imdb.com/title/tt0280760
 title: A Estranha Famíllia de Igby
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - code
 date: '2007-09-10'
-link: /ppt/antidebugging-eu-nao-quero-que-vc-mexa-no-meu-codigo.pdf
 title: 'Antidebug: Detectando Attach'
 ---
 

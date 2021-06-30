@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-10-15'
-link: https://www.imdb.com/title/tt4624424
 tags: null
 title: Cegonhas - A História Que Não Te Contaram
 ---

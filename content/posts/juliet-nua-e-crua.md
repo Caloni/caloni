@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2018-10-09'
-link: https://www.imdb.com/title/tt5607096
 tags:
 - draft
 title: Juliet, Nua e Crua

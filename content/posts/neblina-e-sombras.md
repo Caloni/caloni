@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-02-15'
-link: https://www.imdb.com/title/tt0105378
 tags:
 - draft
 title: Neblina e Sombras

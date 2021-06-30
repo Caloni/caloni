@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-05-21'
-link: https://www.imdb.com/title/tt0800320
 title: Fúria de Titãs
 ---
 

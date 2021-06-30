@@ -2,7 +2,6 @@
 categories:
 - blog
 date: '2021-05-22'
-link: https://www.imdb.com/title/tt14536160/
 tags:
 - draft
 title: 'Love, Death & Robots: Snow in the Desert'

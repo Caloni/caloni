@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-09-04'
-link: https://www.imdb.com/title/tt8291806
 tags:
 - draft
 title: Dor e Glória

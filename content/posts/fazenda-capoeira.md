@@ -2,7 +2,6 @@
 categories:
 - food
 date: '2020-05-05'
-link: https://www.graogourmet.com/produto/cafe-gourmet-torrado-da-fazenda-capoeira/
 tags:
 - coffee
 title: Fazenda Capoeira

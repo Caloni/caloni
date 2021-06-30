@@ -2,7 +2,6 @@
 categories:
 - animes
 date: '2020-10-04'
-link: https://www.crunchyroll.com/i-cant-understand-what-my-husband-is-saying
 title: I Can't Understand What My Husband Is Saying
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-05-20'
-link: https://www.imdb.com/title/tt0103639
 tags:
 - draft
 title: Aladdin

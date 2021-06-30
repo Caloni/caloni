@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-12-27'
-link: https://www.imdb.com/title/tt0295297
 tags:
 - draft
 title: Harry Potter e a Câmara Secreta

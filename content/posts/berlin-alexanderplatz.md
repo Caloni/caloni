@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-11-07'
-link: https://www.imdb.com/title/tt6470924
 tags:
 - cinemaqui
 title: Berlin Alexanderplatz

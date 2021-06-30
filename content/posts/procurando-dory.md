@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-07-18'
-link: https://www.imdb.com/title/tt2277860
 tags: null
 title: Procurando Dory
 ---

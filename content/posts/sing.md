@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-12-29'
-link: https://www.imdb.com/title/tt3470600
 tags:
 - draft
 title: 'Sing: Quem Canta Seus Males Espanta'

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-12-12'
-link: https://www.imdb.com/title/tt1646974
 title: Os Nomes do Amor
 ---
 

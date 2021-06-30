@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2018-07-13'
-link: https://www.imdb.com/title/tt5104604
 tags:
 - cinemaqui
 - draft

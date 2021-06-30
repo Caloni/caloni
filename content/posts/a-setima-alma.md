@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-12-14'
-link: https://www.imdb.com/title/tt0872230
 title: A Sétima Alma
 ---
 

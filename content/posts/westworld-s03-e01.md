@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2020-04-28'
-link: https://www.imdb.com/title/tt0475784
 title: Westworld S03 E01
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-12-30'
-link: https://www.imdb.com/title/tt0319061
 title: Peixe Grande e Suas Histórias Maravilhosas
 ---
 

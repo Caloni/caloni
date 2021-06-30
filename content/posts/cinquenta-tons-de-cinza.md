@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-02-28'
-link: https://www.imdb.com/title/tt2322441
 title: Cinquenta Tons de Cinza
 ---
 

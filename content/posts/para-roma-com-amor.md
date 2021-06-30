@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-07-03'
-link: https://www.imdb.com/title/tt1859650
 title: Para Roma com Amor
 ---
 

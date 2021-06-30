@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-03-10'
-link: https://www.imdb.com/title/tt0377981
 title: Gnomeu e Julieta
 ---
 

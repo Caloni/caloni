@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-01-11'
-link: https://www.imdb.com/title/tt0119711
 title: Mãe e Filho
 ---
 

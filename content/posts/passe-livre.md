@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-03-22'
-link: https://www.imdb.com/title/tt0480687
 title: Passe Livre
 ---
 

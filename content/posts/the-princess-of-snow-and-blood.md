@@ -2,7 +2,6 @@
 categories:
 - blog
 date: '2021-06-05'
-link: https://www.imdb.com/title/tt14022814
 tags:
 - draft
 title: 'Jouran: The Princess of Snow and Blood'

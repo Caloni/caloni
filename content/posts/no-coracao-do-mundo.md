@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-07-24'
-link: https://www.imdb.com/title/tt9646768
 tags:
 - cinemaqui
 - draft

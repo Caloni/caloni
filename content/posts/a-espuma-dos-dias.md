@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-07-20'
-link: https://www.imdb.com/title/tt2027140
 title: A Espuma dos Dias
 ---
 

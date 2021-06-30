@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2018-11-16'
-link: https://www.imdb.com/title/tt1856010
 tags:
 - draft
 title: House of Cards - Sexta Temporada (Season Finale).

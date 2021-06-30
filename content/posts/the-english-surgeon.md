@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-10-24'
-link: https://www.imdb.com/title/tt1200060
 title: The English Surgeon
 ---
 

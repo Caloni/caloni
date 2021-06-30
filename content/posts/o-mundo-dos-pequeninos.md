@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-12-06'
-link: https://www.imdb.com/title/tt1568921
 title: O Mundo dos Pequeninos
 ---
 

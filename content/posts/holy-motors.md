@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-05-15'
-link: https://www.imdb.com/title/tt2076220
 title: Holy Motors
 ---
 

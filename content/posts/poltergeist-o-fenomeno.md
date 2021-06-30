@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-03-06'
-link: https://www.imdb.com/title/tt0084516
 title: 'Poltergeist: O Fenômeno'
 ---
 

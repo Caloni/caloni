@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-09-18'
-link: https://www.imdb.com/title/tt0409847
 title: Cowboys e Aliens
 ---
 

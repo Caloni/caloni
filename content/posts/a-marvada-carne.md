@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-04-24'
-link: https://www.imdb.com/title/tt0138596
 title: A Marvada Carne
 ---
 

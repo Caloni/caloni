@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-03-20'
-link: https://www.imdb.com/title/tt0088763
 tags: null
 title: De Volta para o Futuro
 ---

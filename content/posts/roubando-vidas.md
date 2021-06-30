@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-10-23'
-link: https://www.imdb.com/title/tt0364045
 title: Roubando Vidas
 ---
 

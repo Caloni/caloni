@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-01-07'
-link: https://www.imdb.com/title/tt2334873
 title: Blue Jasmine
 ---
 

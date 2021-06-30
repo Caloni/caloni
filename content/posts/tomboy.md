@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-01-15'
-link: https://www.imdb.com/title/tt1847731
 title: Tomboy
 ---
 

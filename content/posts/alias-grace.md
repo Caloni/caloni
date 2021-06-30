@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2017-11-12'
-link: https://www.imdb.com/title/tt1034007
 tags:
 - draft
 title: Alias Grace

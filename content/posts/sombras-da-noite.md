@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-06-27'
-link: https://www.imdb.com/title/tt1077368
 title: Sombras da Noite
 ---
 

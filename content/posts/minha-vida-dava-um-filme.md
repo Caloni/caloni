@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-01-18'
-link: https://www.imdb.com/title/tt1698648
 title: Minha Vida Dava um Filme
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - blog
 date: '2020-05-14'
-link: https://youtu.be/0aZ7srJqs3E
 title: Bode Caloni Cast Live
 ---
 

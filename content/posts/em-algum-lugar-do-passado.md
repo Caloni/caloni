@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-07-12'
-link: https://www.imdb.com/title/tt0081534
 title: Em Algum Lugar do Passado
 ---
 

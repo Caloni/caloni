@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-08-29'
-link: https://www.imdb.com/title/tt1754656
 tags:
 - cinemaqui
 title: O Pequeno Príncipe

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2018-07-01'
-link: https://www.imdb.com/title/tt0018876
 tags:
 - draft
 title: A Mulher Do Fazendeiro

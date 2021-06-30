@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-11-18'
-link: https://www.imdb.com/title/tt1082868
 title: Quarentena
 ---
 

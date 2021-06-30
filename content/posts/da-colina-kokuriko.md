@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-04-11'
-link: https://www.imdb.com/title/tt1798188
 title: Da Colina Kokuriko
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-10-11'
-link: https://www.imdb.com/title/tt10418630
 title: Mães de Verdade
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-12-22'
-link: https://www.imdb.com/title/tt1532503
 title: Toda Forma de Amor
 ---
 

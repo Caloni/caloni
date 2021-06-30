@@ -2,7 +2,6 @@
 categories:
 - animes
 date: '2020-11-22'
-link: https://www.crunchyroll.com/pt-pt/how-to-keep-a-mummy
 tags:
 - draft
 title: How to Keep a Mummy

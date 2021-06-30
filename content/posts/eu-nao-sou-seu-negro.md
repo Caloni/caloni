@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-01-31'
-link: https://www.imdb.com/title/tt5804038
 tags:
 - draft
 title: Eu Não Sou Seu Negro

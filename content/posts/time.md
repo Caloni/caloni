@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-06-10'
-link: https://www.imdb.com/title/tt0497986
 tags:
 - draft
 title: Time - O Amor Contra a Passagem do Tempo

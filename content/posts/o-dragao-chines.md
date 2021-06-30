@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-01-07'
-link: https://www.imdb.com/title/tt0067824
 tags: null
 title: O Dragão Chinês
 ---

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-03-14'
-link: https://www.imdb.com/title/tt1452628
 title: Mistério da Rua 7
 ---
 

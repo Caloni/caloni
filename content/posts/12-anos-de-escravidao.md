@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-03-19'
-link: https://www.imdb.com/title/tt2024544
 title: 12 Anos de Escravidão
 ---
 

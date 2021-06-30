@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-09-18'
-link: https://www.imdb.com/title/tt0014538
 title: As Três Idades
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-10-20'
-link: https://www.imdb.com/title/tt0120382
 title: O Show de Truman
 ---
 

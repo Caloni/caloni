@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-11-17'
-link: https://www.imdb.com/title/tt1637688
 title: O Preço do Amanhã
 ---
 

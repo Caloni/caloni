@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-09-11'
-link: https://www.imdb.com/title/tt2709768
 tags: null
 title: 'Pets: A Vida Secreta dos Bichos'
 ---

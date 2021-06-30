@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-01-14'
-link: https://www.imdb.com/title/tt0100530
 title: A Casa da Rússia
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-01-18'
-link: https://www.imdb.com/title/tt3322940
 title: Annabelle
 ---
 

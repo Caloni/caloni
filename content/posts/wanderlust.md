@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2018-12-26'
-link: https://www.imdb.com/title/tt7608238
 tags:
 - draft
 title: Wanderlust

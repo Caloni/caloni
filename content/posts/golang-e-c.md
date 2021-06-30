@@ -2,7 +2,6 @@
 categories:
 - code
 date: '2020-04-05'
-link: https://github.com/Caloni/golang_c
 title: Golang e C
 ---
 

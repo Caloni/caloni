@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-11-15'
-link: https://www.imdb.com/title/tt2267998
 title: Garota Exemplar
 ---
 

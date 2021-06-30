@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-02-24'
-link: https://www.imdb.com/title/tt5078326
 tags:
 - cinemaqui
 - draft

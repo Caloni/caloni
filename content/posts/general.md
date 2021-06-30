@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-04-07'
-link: https://www.imdb.com/title/tt0017925
 title: General
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - blog
 date: '2021-05-22'
-link: https://www.imdb.com/title/tt5824736
 tags:
 - draft
 title: Shônen Ashibe GO! GO! Goma-chan

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-04-21'
-link: https://www.imdb.com/title/tt0488120
 title: Um Crime de Mestre
 ---
 

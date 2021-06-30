@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2018-12-07'
-link: https://www.imdb.com/title/tt0117008
 tags:
 - draft
 title: Matilda

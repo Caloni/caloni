@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-12-18'
-link: https://www.imdb.com/title/tt1454029
 title: Histórias Cruzadas
 ---
 

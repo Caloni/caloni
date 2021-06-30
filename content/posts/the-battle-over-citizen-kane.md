@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-08-01'
-link: https://www.imdb.com/title/tt0115634
 tags:
 - draft
 title: The Battle Over Citizen Kane

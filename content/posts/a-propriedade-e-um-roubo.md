@@ -2,7 +2,6 @@
 categories:
 - reading
 date: '2020-10-11'
-link: /text/a-propriedade-e-um-roubo.txt
 title: A Propriedade é um Roubo
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-09-10'
-link: https://www.imdb.com/title/tt1322312
 title: Amor à Distância
 ---
 

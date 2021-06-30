@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-04-15'
-link: https://www.imdb.com/title/tt6789126
 tags:
 - draft
 title: Meu Nome Não é Ruben Blades

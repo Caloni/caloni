@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-03-01'
-link: https://www.imdb.com/title/tt0085407
 title: A Hora da Zona Morta
 ---
 

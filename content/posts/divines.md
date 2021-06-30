@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-11-27'
-link: https://www.imdb.com/title/tt4730986
 tags:
 - draft
 title: Divines

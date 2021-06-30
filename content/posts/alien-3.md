@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-12-10'
-link: https://www.imdb.com/title/tt0103644
 title: Aliens 3
 ---
 

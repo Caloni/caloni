@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-04-11'
-link: https://www.imdb.com/title/tt0072431
 title: O Jovem Frankenstein
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - blog
 date: '2021-05-15'
-link: https://www.imdb.com/title/tt6354518
 tags:
 - draft
 title: Saiki Kusuo No Psi Nan

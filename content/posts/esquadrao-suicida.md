@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-08-12'
-link: https://www.imdb.com/title/tt1386697
 tags: null
 title: Esquadrão Suicida
 ---

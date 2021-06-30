@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-12-03'
-link: https://www.imdb.com/title/tt1564585
 title: Skyline - A Invasão
 ---
 

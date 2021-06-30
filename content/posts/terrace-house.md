@@ -2,7 +2,6 @@
 categories:
 - series
 date: '2020-04-15'
-link: https://www.imdb.com/title/tt10686814
 title: Terrace House
 ---
 

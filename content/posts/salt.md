@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-07-30'
-link: https://www.imdb.com/title/tt0944835
 title: Salt
 ---
 

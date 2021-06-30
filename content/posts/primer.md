@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-07-09'
-link: https://www.imdb.com/title/tt0390384
 title: Primer
 ---
 

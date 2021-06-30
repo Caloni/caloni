@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-01-12'
-link: https://www.imdb.com/title/tt2473682
 title: 'Atividade Paranormal: Marcados pelo Mal'
 ---
 

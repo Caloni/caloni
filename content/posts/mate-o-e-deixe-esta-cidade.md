@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-10-18'
-link: https://www.imdb.com/title/tt8387918
 tags:
 - cinemaqui
 title: Mate-o e Deixe Esta Cidade

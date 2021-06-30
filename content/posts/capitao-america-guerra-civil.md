@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-05-31'
-link: https://www.imdb.com/title/tt3498820
 tags: null
 title: 'Capitão América: Guerra Civil'
 ---

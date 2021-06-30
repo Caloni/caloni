@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-06-13'
-link: https://www.imdb.com/title/tt0296915
 title: Valentin
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-12-17'
-link: https://www.imdb.com/title/tt3302820
 tags: null
 title: 'A Conspiração da Vaca: O Segredo da Sustentabilidade'
 ---

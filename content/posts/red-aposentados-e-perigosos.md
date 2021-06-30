@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-11-12'
-link: https://www.imdb.com/title/tt1245526
 title: 'RED: Aposentados e Perigosos'
 ---
 

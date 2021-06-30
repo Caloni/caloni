@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2018-10-02'
-link: https://www.imdb.com/title/tt6792282
 tags:
 - draft
 title: Uma Noite de 12 Anos

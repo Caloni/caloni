@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-06-21'
-link: https://www.imdb.com/title/tt1731141
 title: 'Ender''s Game: O Jogo do Exterminador'
 ---
 

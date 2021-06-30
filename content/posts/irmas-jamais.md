@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-11-07'
-link: https://www.imdb.com/title/tt1698566
 tags:
 - draft
 title: Irmãs Jamais

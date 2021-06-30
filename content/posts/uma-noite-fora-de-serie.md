@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-04-22'
-link: https://www.imdb.com/title/tt1279935
 tags: null
 title: Uma Noite Fora de Série
 ---

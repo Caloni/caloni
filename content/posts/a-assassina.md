@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2017-01-05'
-link: https://www.imdb.com/title/tt3508840
 tags:
 - draft
 title: A Assassina

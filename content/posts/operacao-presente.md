@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-07-12'
-link: https://www.imdb.com/title/tt1430607
 title: Operação Presente
 ---
 

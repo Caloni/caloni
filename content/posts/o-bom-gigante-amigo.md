@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-07-31'
-link: https://www.imdb.com/title/tt3691740
 tags:
 - cinemaqui
 title: O Bom Gigante Amigo

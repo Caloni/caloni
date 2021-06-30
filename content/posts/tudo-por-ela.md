@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2021-05-04'
-link: https://www.imdb.com/title/tt14164234
 tags:
 - cinemaqui
 title: Tudo Por Ela

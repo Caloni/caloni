@@ -3,7 +3,6 @@ categories:
 - code
 - ccpp
 date: '2020-06-21'
-link: https://en.cppreference.com/w/cpp/language/coroutines
 title: C++ Co Routines
 ---
 

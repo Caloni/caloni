@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2020-12-16'
-link: https://www.imdb.com/title/tt6774848
 title: Uma Sessão Méliès
 ---
 

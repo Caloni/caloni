@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-12-16'
-link: https://www.imdb.com/title/tt0211915
 title: O Fabuloso Destino de Amélie Poulain
 ---
 

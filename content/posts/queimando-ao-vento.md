@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2019-08-02'
-link: https://www.imdb.com/title/tt0308071
 tags:
 - draft
 title: Queimando ao Vento

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2014-09-11'
-link: https://www.imdb.com/title/tt2758890
 title: Bem-Vindo a Nova York
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-01-07'
-link: https://www.imdb.com/title/tt1649419
 title: O Impossível
 ---
 

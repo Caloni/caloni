@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2016-10-20'
-link: https://www.imdb.com/title/tt5294966
 tags:
 - cinemaqui
 title: Depois da Tempestade

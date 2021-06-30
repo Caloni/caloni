@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-01-23'
-link: https://www.imdb.com/title/tt0094012
 title: 'S.O.S.: Tem um Louco Solto no Espaço'
 ---
 

@@ -2,7 +2,6 @@
 categories:
 - food
 date: '2021-06-06'
-link: https://www.kingarthurbaking.com/blog/2015/01/05/best-pizza-youll-ever-make
 tags:
 - recipes
 title: Em busca da pizza perfeita

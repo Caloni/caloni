@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2012-01-24'
-link: https://www.imdb.com/title/tt0088847
 title: Clube dos Cinco
 ---
 

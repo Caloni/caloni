@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2015-04-30'
-link: https://www.imdb.com/title/tt2179136
 title: Sniper Americano
 ---
 

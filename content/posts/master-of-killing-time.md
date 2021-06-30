@@ -2,7 +2,6 @@
 categories:
 - animes
 date: '2020-10-04'
-link: https://www.crunchyroll.com/tonari-no-seki-kun-the-master-of-killing-time
 title: 'Tonari no Seki-kun: The Master of Killing Time'
 ---
 

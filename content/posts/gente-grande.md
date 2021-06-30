@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2010-09-24'
-link: https://www.imdb.com/title/tt1375670
 title: Gente Grande
 ---
 

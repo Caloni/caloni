@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2013-03-14'
-link: https://www.imdb.com/title/tt1623205
 title: 'Oz: Mágico e Poderoso'
 ---
 

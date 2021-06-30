@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2018-08-01'
-link: https://www.imdb.com/title/tt4702826
 tags:
 - draft
 title: Predestinados

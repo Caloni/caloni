@@ -2,7 +2,6 @@
 categories:
 - movies
 date: '2011-07-04'
-link: https://www.imdb.com/title/tt1396218
 title: Os Pinguins do Papai
 ---
 
