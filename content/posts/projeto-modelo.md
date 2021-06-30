@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2008-07-08'
-tags:
+tags: null
 title: Projeto-modelo
 ---
 

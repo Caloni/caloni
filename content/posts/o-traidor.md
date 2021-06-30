@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2016-09-04'
 link: https://www.imdb.com/title/tt4844288
-tags:
+tags: null
 title: O Traidor
 ---
 

@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2016-04-02'
 link: https://www.imdb.com/title/tt2975590
-tags:
+tags: null
 title: 'Batman vs Superman: A Origem da Justiça'
 ---
 

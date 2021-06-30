@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2008-06-10'
-tags:
+tags: null
 title: Guia básico de repositórios no Bazaar
 ---
 

@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2008-06-24'
-tags:
+tags: null
 title: Como estou trabalhando com o Bazaar
 ---
 

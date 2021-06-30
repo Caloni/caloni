@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2016-03-20'
 link: https://www.imdb.com/title/tt1979320
-tags:
+tags: null
 title: 'Rush: No Limite da Emoção'
 ---
 

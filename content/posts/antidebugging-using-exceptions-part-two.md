@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2008-07-30'
-tags:
+tags: null
 title: Antidebugging using exceptions (part two)
 ---
 

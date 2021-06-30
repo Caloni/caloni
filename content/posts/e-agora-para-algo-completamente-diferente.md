@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2015-12-12'
 link: https://www.imdb.com/title/tt0066765
-tags:
+tags: null
 title: E Agora para Algo Completamente Diferente
 ---
 

@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2016-01-04'
 link: https://www.imdb.com/title/tt3948438
-tags:
+tags: null
 title: Loucas pra Casar
 ---
 

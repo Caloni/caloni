@@ -8,6 +8,7 @@ tags:
 - draft
 title: Pão Rústico
 ---
+
 As medidas originais dessa receita são bizarras por causa do uso do volume como base. Receitas de pão geralmente são as melhores porque seus ingredientes são um percentual da farinha usada em peso.  Dessa forma, uma tradução mais realista das medidas seria:
 
  - Farinha

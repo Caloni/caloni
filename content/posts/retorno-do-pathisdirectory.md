@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2008-09-10'
-tags:
+tags: null
 title: Retorno do PathIsDirectory
 ---
 

@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2015-11-28'
 link: https://www.imdb.com/title/tt0115641
-tags:
+tags: null
 title: Beavis and Butt-head Conquistam a América
 ---
 

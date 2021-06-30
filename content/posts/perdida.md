@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2015-12-04'
 link: https://www.imdb.com/title/tt1524566
-tags:
+tags: null
 title: Perdida
 ---
 

@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2016-04-03'
 link: https://www.imdb.com/title/tt0120201
-tags:
+tags: null
 title: Tropas Estelares
 ---
 

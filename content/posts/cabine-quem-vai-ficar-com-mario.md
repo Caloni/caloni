@@ -2,11 +2,12 @@
 categories:
 - blog
 date: '2021-06-09'
-link:
+link: null
 tags:
 - draft
 title: Cabine Quem Vai Ficar Com Mario
 ---
+
 Sempre fico curioso sobre onde estão as pessoas que escrevem sobre cinema. Uma oportunidade surgiu durante a cabine de imprensa do filme Quem Vai Ficar com Mário, já que foi virtual e todos os espectadores tiveram que se apresentar junto do veículo no chat. Aproveitei e montei uma lista dessas pessoas. Muitas delas deixarão de existir daqui a pouco, e algumas podem ou não ficar por mais um tempo. A vida é tão frugaz nas redes que nem me darei ao trabalho de coletar links. Esta lista é pura e simplesmente para quando estiver entediado e for buscar se existe algum texto que preste hoje em dia na criticosfera.
 
  - Amanda Santos - Entretetizei

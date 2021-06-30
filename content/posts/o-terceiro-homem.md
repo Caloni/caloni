@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2016-01-11'
 link: https://www.imdb.com/title/tt0041959
-tags:
+tags: null
 title: O Terceiro Homem
 ---
 

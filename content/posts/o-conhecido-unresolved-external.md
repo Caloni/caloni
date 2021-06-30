@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2008-07-18'
-tags:
+tags: null
 title: O conhecido unresolved external
 ---
 

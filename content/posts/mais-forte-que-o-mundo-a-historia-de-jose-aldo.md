@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2016-07-14'
 link: https://www.imdb.com/title/tt3918584
-tags:
+tags: null
 title: 'Mais Forte que o Mundo: A História de José Aldo'
 ---
 

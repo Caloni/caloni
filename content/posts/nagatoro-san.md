@@ -5,7 +5,7 @@ date: '2021-05-15'
 link: https://www.imdb.com/title/tt12635162
 tags:
 - draft
-title: "Don't Toy With Me, Miss Nagatoro (Ijiranaide, Nagatoro-san)"
+title: Don't Toy With Me, Miss Nagatoro (Ijiranaide, Nagatoro-san)
 ---
 
 Um Teasing Master adolescente, a arte do exagero nos traços e movimentos encontra uma verossimilhança incômoda com a garota bullie, Hayase Nagatoro. Quem já sofreu com essas garotas no colégio deve se lembrar melhor. Eu me lembro, pois era virjão.

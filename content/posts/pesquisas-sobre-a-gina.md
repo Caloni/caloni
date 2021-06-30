@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2008-07-02'
-tags:
+tags: null
 title: Pesquisas sobre a GINA
 ---
 

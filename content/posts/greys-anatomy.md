@@ -5,7 +5,7 @@ date: '2021-05-15'
 link: https://www.imdb.com/title/tt0413573
 tags:
 - draft
-title: "Anatomia de Grey (Grey's Anatomy)"
+title: Anatomia de Grey (Grey's Anatomy)
 ---
 
 O piloto dessa série pulou nos títulos aleatórios da Netflix. Já tinha visto um pedaço ou outro, mas primeira vez que começo a série. Assisti cinco minutos de Jupiter's Legacy nesse esquema, mas assisti o episódio inteiro de A Anatomia de Grey.

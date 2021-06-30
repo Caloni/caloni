@@ -7,6 +7,7 @@ tags:
 - draft
 title: Eniwine
 ---
+
 Comprei um Kit da Eniwine para testar esse experimento em usar inteligência artificial para prever os gostos particulares dos bebuns. São 15 mini-garrafas de 50 ml cada em que você deve degustar e dar uma nota de 0 a 5, de meio em meio, e depois jogar no sistema deles para comprar mais vinhos. Comecei a degustação um dia depois de chegar e de cinco em cinco mini-garrafinhas degustamos 15 rótulos desconhecidos. Junto vem um catálago de cada vinho, mas qual é a graça de saber qual o vinho antes de tentar adivinhar os sabores escondidos?
 
 A listagem abaixo é o resultado das notas e comentários de todos eles. Como já disse, eles foram tomados em três dias seguidos de cinco em cinco. O total de tempo de uma sessão ficou entre meia-hora a uma hora e pouco, variando dependendo do dia. Degustamos a dois e servi metade das garrafinhas, pois pretendo voltar a bebê-los em mais um teste cego antes de revelar o que cada um é (update: voltei a beber uma semana depois; minhas notas e percepções foram anotadas, também).

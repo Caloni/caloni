@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2008-08-11'
-tags:
+tags: null
 title: Guia para iniciantes no DriverEntry
 ---
 

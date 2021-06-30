@@ -5,7 +5,7 @@ date: '2021-05-15'
 link: https://www.imdb.com/title/tt2467372
 tags:
 - draft
-title: 'Lei & Desordem (Brooklyn Nine Nine)'
+title: Lei & Desordem (Brooklyn Nine Nine)
 ---
 
 Essa série de polícia irreverente usa a pegada de câmera semi-documental e personagens interpretados por Terry Crews, entre outros. Bom casting. Lembra a série de filmes Loucademia de Polícia sem os estereótipos e com mais diálogos sarcásticos. Ela é morna desde o início, segue o clima descontraído com episódios fechados da TV aberta. Boa para passar o tempo.

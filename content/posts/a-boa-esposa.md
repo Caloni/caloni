@@ -6,6 +6,7 @@ tags:
 - draft
 title: A Boa Esposa
 ---
+
 A Boa Esposa é uma farsa bonitinha em formato comercial sobre um causo que ocorreu na última resistência do patriarcado, lá em maio de 1968, na fronteira entre França e Alemanha, onde se faz chucrute, mas se fala francês. O mundo só melhorou ou piorou desde então, dependendo de quem responde (homem ou mulher).
 
 Estamos na boa companhia de Juliette Binoche, Yolande Moreau, Noémie Lvovsky e Edouard Baer. A dupla Binoche e Moreau são respectivamente a esposa e a irmã do chefe de família Robert Van der Beck (François Berléand), que comanda uma escola de donas de casa em uma época em que as famílias não-ricas colocavam as moças para aprender a serem esposas em vez de fazer um curso na faculdade.

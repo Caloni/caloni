@@ -1,8 +1,8 @@
 ---
 categories:
- - blog
+- blog
 date: '2008-07-24'
-tags:
+tags: null
 title: Entrevista com o Caloni no 'Do ZERO ao MESTRE'
 ---
 

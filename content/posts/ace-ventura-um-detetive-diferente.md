@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2016-05-29'
 link: https://www.imdb.com/title/tt0109040
-tags:
+tags: null
 title: 'Ace Ventura: Um Detetive Diferente'
 ---
 

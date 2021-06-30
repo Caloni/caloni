@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2016-10-12'
 link: https://www.imdb.com/title/tt2415458
-tags:
+tags: null
 title: Os Irmãos Lobo
 ---
 

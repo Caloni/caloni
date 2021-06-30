@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2016-09-15'
 link: https://www.imdb.com/title/tt0178868
-tags:
+tags: null
 title: 'Ring: O Chamado'
 ---
 

@@ -7,6 +7,7 @@ tags:
 - cinemaqui
 title: Tudo Por Ela
 ---
+
 O que você faria para estar junto daquele amor de juventude que nunca te deu bola? Sim, eu sei, estou ultrassimplificando Tudo Por Ela, um filme com altos e baixos, boas ideias e velhos clichês. Ele beira o brega em alguns momentos, o suficiente para pensarmos que se fosse produzido no Brasil teria trilha sonora de Amado Batista. Porém, é o lado trash que o mantém nos trilhos certos, e é quando se leva a sério demais que o esquecemos rápido demais.
 
 Baseado no mangá Gunjou da mangaká Ching Nakamura, esta versão live-action adaptada com a ajuda da roteirista Nami Yoshikawa possui uma decupagem fantástica, que se destaca de algumas montagens convencionais para nos colocar sempre pensando em algo em cena que parece fora do lugar. A curiosidade cinematográfica mantém a ação acontecendo por mais tempo do que o esperado e serve para nos apresentar a este mundo vivido e compartilhado por duas amigas para a vida, Rei Nagasawa e Nanae Shimoda.

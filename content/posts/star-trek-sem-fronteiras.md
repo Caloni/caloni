@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2016-09-07'
 link: https://www.imdb.com/title/tt2660888
-tags:
+tags: null
 title: 'Star Trek: Sem Fronteiras'
 ---
 

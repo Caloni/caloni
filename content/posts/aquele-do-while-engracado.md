@@ -3,7 +3,7 @@ categories:
 - code
 - ccpp
 date: '2008-05-15'
-tags:
+tags: null
 title: Aquele do-while engraçado
 ---
 

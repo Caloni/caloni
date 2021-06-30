@@ -2,7 +2,7 @@
 categories:
 - blog
 date: '2008-05-19'
-tags:
+tags: null
 title: Busca do Google com atalhos
 ---
 

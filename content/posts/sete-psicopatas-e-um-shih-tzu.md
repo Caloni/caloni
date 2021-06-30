@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2016-04-24'
 link: https://www.imdb.com/title/tt1931533
-tags:
+tags: null
 title: Sete Psicopatas e um Shih Tzu
 ---
 

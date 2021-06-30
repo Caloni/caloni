@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2016-08-07'
 link: https://www.imdb.com/title/tt4853102
-tags:
+tags: null
 title: 'Batman: A Piada Mortal'
 ---
 

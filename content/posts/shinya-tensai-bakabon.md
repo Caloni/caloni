@@ -5,7 +5,7 @@ date: '2021-05-15'
 link: https://www.imdb.com/title/tt8231064
 tags:
 - draft
-title: 'Shinya! Tensai Bakabon'
+title: Shinya! Tensai Bakabon
 ---
 
 Essa continuação de uma série curta de anime dos anos 70 acompanha uma família em torno do inquieto pai Bakanon. O primeiro episódio é uma espécie de homenagem metalinguística ao original, o que deve ser melhor para quem conhece a fonte. Para quem chegou agora como eu é metade engraçado: a metade que não depende de referências passadas.

@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2016-11-17'
 link: https://www.imdb.com/title/tt3531824
-tags:
+tags: null
 title: 'Nerve: Um Jogo Sem Regras'
 ---
 

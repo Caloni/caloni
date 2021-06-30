@@ -3,7 +3,7 @@ categories:
 - movies
 date: '2016-10-23'
 link: https://www.imdb.com/title/tt0087469
-tags:
+tags: null
 title: Indiana Jones e o Templo da Perdição
 ---
 

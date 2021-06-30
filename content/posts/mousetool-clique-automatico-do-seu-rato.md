@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2008-05-21'
-tags:
+tags: null
 title: 'MouseTool: clique automático do seu rato'
 ---
 

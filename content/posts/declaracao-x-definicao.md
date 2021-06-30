@@ -2,7 +2,7 @@
 categories:
 - code
 date: '2008-06-06'
-tags:
+tags: null
 title: Declaração x definição
 ---
 
