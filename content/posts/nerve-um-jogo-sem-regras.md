@@ -4,7 +4,6 @@ categories:
 date: '2016-11-17'
 link: https://www.imdb.com/title/tt3531824
 tags:
-- draft
 title: 'Nerve: Um Jogo Sem Regras'
 ---
 
@@ -14,7 +13,7 @@ Utilizando cortes rápidos, uma trilha sonora enérgica e uma fluidez admirável
 
 O motivo que fez a linda-mas-sem-sal Vee (Emma Roberts, de American Horror Story) entrar no jogo foi a provocação de sua melhor amiga, que dizia que ela nunca fazia nada de diferente. Isso é um chamariz para qualquer adolescente com seus hormônios à flor da pele, e basicamente é apenas isso que você precisa saber sobre os personagens, que passam por pequenas crises de adolescentes, com a diferença de estarem em um jogo de vida e morte.
 
-O que fascina os jovens, e que deve fascinar os espectadores, é o jogo. Pois ele está a um fio de ser criado por algum maluco em um mundo onde a internet é tão rápida que as pessoas podem acompanhar vídeos feitos por celulares em tempo real. Em uma arena que é a cidade de Nova York, jovens participam desses desafios em um ritmo crescente, e o filme nos coloca no ponto de vista de Vee e seu interesse romântico à força Ian (Dave Franco). A forma com que a narrativa do jogo é criada aparentemente do caos força nosso senso de realidade, mas ao mesmo tempo o poder que a pressão social de um simples jogo parece fazer nesse jovens é sintomático e preocupante, e mesmo que saibamos que isso jamais existiria no mundo real, o medo de comportamentos semelhantes assusta.
+O que fascina os jovens, e que deve fascinar os espectadores, é o jogo. Pois ele está a um fio de ser criado por algum maluco em um mundo onde a internet é tão rápida que as pessoas podem acompanhar vídeos feitos por celulares em tempo real. Em uma arena que é a cidade de Nova York, jovens participam desses desafios em um ritmo crescente, e o filme nos coloca no ponto de vista de Vee e seu interesse romântico à força Ian (Dave Franco). A forma com que a narrativa do jogo é criada do caos força nosso senso de realidade, mas ao mesmo tempo o poder que a pressão social de um simples jogo exerce nesse jovens é sintomático e preocupante, e mesmo que saibamos que isso jamais existiria no mundo real, o medo de comportamentos semelhantes assusta.
 
 Porém, nenhuma história de terror/ação/thriller onde os personagens correm sérios perigos tem chance de sucesso se o que acontece a eles não for crível e, o principal, não torcermos pela sua vitória. Aqui não se trata de torcer por um personagem carismático, pois Vee é apenas ingênua no começo, mas aos poucos se torna tão maliciosa quanto sua melhor amiga. E, do lado da história, o motivo que os faz não conseguir parar até o final é bobo e completamente irreal, colocando toda a trama por água abaixo.
 

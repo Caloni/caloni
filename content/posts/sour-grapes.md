@@ -4,7 +4,6 @@ categories:
 date: '2016-11-23'
 link: https://www.imdb.com/title/tt5728684
 tags:
-- draft
 title: Sour Grapes
 ---
 
@@ -18,8 +17,8 @@ Rudy, uma pessoa sempre acompanhada por um de seus melhores amigos, o diretor Je
 
 Através do filme, conseguimos acompanhar o processo de falsificação de vinhos e também como funciona esse mercado de colecionadores. Entendemos o crescimento descomunal dos preços e do próprio mercado graças a duas bolhas (o .com e o de 2008), e uma pequena parte impulsionada pelas cada vez maiores vendas de Ruby em um leilão conceituado em Nova York que logo quebra recordes em volume financeiro.
 
-É interessante notar como nesse mercado, uma fraude é sequer vista e acompanhada, e os culpados raramente serão descobertos ou sentenciados, já que as vítimas aparentemente preferem acreditar na mentira da autenticidade de sua adega a ter que abrir os olhos para a realidade. E não se trata apenas de dinheiro, já que para a maioria esse é apenas um detalhe (como o próprio Rudy diz em certo momento).
+É interessante notar como nesse mercado, uma fraude é sequer vista e acompanhada, e os culpados raramente serão descobertos ou sentenciados, já que as vítimas preferem acreditar na mentira da autenticidade de sua adega a ter que abrir os olhos para a realidade. E não se trata apenas de dinheiro, já que para a maioria esse é apenas um detalhe (como o próprio Rudy diz em certo momento).
 
-Aliás, é muito engenhosa a criação da narrativa em Sour Grapes, já que Rudy parece fazer parte da maioria dos momentos, sendo que ele sequer respondeu ao pedido de entrevista dos produtores. Várias de suas frases são utilizadas de maneira criativa para pontuar o que está sendo dito por seus ex-amigos e pelos especialistas que vão à caça da verdade. Além disso, as somas vultosas das operações se tornam cada vez mais inacreditáveis conforme a história avança, e as investigações se tornam realmente empolgantes quando vai sendo descoberta a origem de Rudy e sua família.
+Aliás, é muito engenhosa a criação da narrativa em Sour Grapes, já que Rudy faz parte da maioria dos momentos, sendo que ele sequer respondeu ao pedido de entrevista dos produtores. Várias de suas frases são utilizadas de maneira criativa para pontuar o que está sendo dito por seus ex-amigos e pelos especialistas que vão à caça da verdade. Além disso, as somas vultosas das operações se tornam cada vez mais inacreditáveis conforme a história avança, e as investigações se tornam realmente empolgantes quando vai sendo descoberta a origem de Rudy e sua família.
 
 Por fim, fica a pesada lição de moral: se mexer com homens ricos, é bem capaz que sua pena seja maior do que a de alguns assassinos.

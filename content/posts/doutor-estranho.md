@@ -4,7 +4,6 @@ categories:
 date: '2016-11-17'
 link: https://www.imdb.com/title/tt1211837
 tags:
-- draft
 title: Doutor Estranho
 ---
 
@@ -16,10 +15,10 @@ E o mal aqui, mais uma vez, é palpável, tem forma e pode receber soco e golpes
 
 Benedict Cumberbatch é uma revelação britânica como Sherlock, e uma revelação surpreendente na nova série Star Trek. No entanto, ele não consegue fazer milagres com o papel que lhe é entregue por um pelotão de roteiristas tentando dar algum ar de vulnerabilidade ao cirurgião de sucesso que é desagradável com todos no melhor estilo House (a série). Nesse momento ocorre uma mescla no espaço-tempo entre House, Holmes (sua inspiração) e seus atores. Médicos, arrogância, casos incuráveis.
 
-Porém, dessa vez, há magia. Quer dizer, formas diferentes de interferir no universo. Ou melhor dizendo, multiversos. Quando o inconsolável Doutor Estranho encontra sua mestra, a anciã, vivida seriamente por Tilda Swinton, tudo parece fazer sentido na cabeça desse gênio, mesmo que nada faça sentido para o espectador. O mundo como o conhecemos se altera de uma maneira mágica como Harry Potter, mas somos ensinados que tudo isso é cientificamente/metafisicamente possível.
+Porém, dessa vez, há magia. Quer dizer, formas diferentes de interferir no universo. Ou melhor dizendo, multiversos. Quando o inconsolável Doutor Estranho encontra sua mestra, a anciã, vivida seriamente por Tilda Swinton, tudo faz sentido na cabeça desse gênio, mesmo que nada faça sentido para o espectador. O mundo como o conhecemos se altera de uma maneira mágica como Harry Potter, mas somos ensinados que tudo isso é cientificamente/metafisicamente possível.
 
-O uso do 3D, assim como o mediano Troll (da Disney), é uma surpresa à parte, pois usa as sequências a la "A Origem", em que diferentes partes do mundo se dobram, para criar diferentes níveis de profundidade na visão. Infelizmente, como tem que existir a versão 2D, continua usando a mudança de foco como uma forma de chamar a atenção do espectador, que se mescla com o que já é possível fazer em 3D: apenas enquadrar o que se deseja ver, com tudo em foco.
+O uso do 3D, assim como o mediano Tron (da Disney), é uma surpresa à parte, pois usa as sequências a la "A Origem", em que diferentes partes do mundo se dobram, para criar diferentes níveis de profundidade na visão. Infelizmente, como tem que existir a versão 2D, continua usando a mudança de foco como uma forma de chamar a atenção do espectador, que se mescla com o que já é possível fazer em 3D: apenas enquadrar o que se deseja ver, com tudo em foco.
 
-A trilha sonora de Michael Giacchino é uma vergonha, como de costume. Flerta imitar Star Trek ou algo que o valha munido de toques secundários pseudo-cômicos, mas o conjunto da obra parece uma salada de estilos que perde personalidade e, se tornando um tema genérico que escapa facilmente da memória, não consegue nunca convencer, apenas aborrecer.
+A trilha sonora de Michael Giacchino é uma vergonha, como de costume. Flerta imitar Star Trek ou algo que o valha munido de toques secundários pseudo-cômicos, mas o conjunto da obra é uma salada de estilos que perde personalidade e, se tornando um tema genérico que escapa facilmente da memória, não consegue nunca convencer, apenas aborrecer.
 
 Um fato divertido: Doutor Estranho já teve um filme em 1978, onde era visto como um feiticeiro. Não assisti ao filme. Porém, algo me diz que ele deve ser mais divertido justamente por não levar tanto a sério essa baboseira de multiversos. A Marvel também vem me incomodando de outra forma: ela nunca é engraçada. E sequer é divertida. É uma sucessão de heróis que vem chegando sem nenhuma emoção diferentes do prazer estético da computação gráfica. Quem sabe um dia toda essa energia se junta e gera um filme de verdade?

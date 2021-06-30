@@ -4,13 +4,12 @@ categories:
 date: '2016-11-17'
 link: https://www.imdb.com/title/tt2231138
 tags:
-- draft
-title: Some Velvet Morning
+title: Uma Manhã Suave
 ---
 
-Este filme independente de baixo orçamento comprova como o catálogo da Netflix reserva algumas ótimas surpresas onde menos se espera. Protagonizado por atores secundários, este trabalho do diretor e roteirista Neil LaBute parece extremamente amador quase todo o tempo. Exceto pela reviravolta que o espera.
+Este filme independente de baixo orçamento comprova como o catálogo da Netflix reserva algumas ótimas surpresas onde menos se espera. Protagonizado por atores secundários, este trabalho do diretor e roteirista Neil LaBute é amador quase todo o tempo. Exceto pela reviravolta que o espera.
 
-E se formos analisar pelo lado amador do filme, é difícil de se deixar levar. Ele se arrasta naquele formato de poucos personagens presos em apenas um cenário, diálogos que dificilmente fazem algum sentido em personagens que parecem mal desenvolvidos. É capaz que você pare de assistir quase no minuto final, mesmo que impactado pelo que aqueles dois politicamente incorretos amantes irão realizar, mesmo que eles não prometam nada. Porém, eu rogo: mantenha-se firme até os créditos finais e reavalie o que acabou de ver.
+E se formos analisar pelo lado amador do filme, é difícil de se deixar levar. Ele se arrasta naquele formato de poucos personagens presos em apenas um cenário, diálogos que dificilmente fazem algum sentido em personagens mal desenvolvidos. É capaz que você pare de assistir quase no minuto final, mesmo que impactado pelo que aqueles dois politicamente incorretos amantes irão realizar, mesmo que eles não prometam nada. Porém, eu rogo: mantenha-se firme até os créditos finais e reavalie o que acabou de ver.
 
 Stanley Tucci e Alice Eve estão exatamente onde deveriam estar para esse projeto. São duas boas escolhas para um filme minimalista. O aspecto teatral não os intimida, e nem o diretor, que concebe movimentos de câmera trêmulos, alguns cortes mais ou menos rápidos (do editor Joel Plotch) e um cenário que aparenta teatro e usa cores simples para uma mulher envolvida em um escândalo familiar e que se move lentamente ao ritmo de seu algoz cliente.
 

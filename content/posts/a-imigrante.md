@@ -4,7 +4,6 @@ categories:
 date: '2016-11-17'
 link: https://www.imdb.com/title/tt1951181
 tags:
-- draft
 title: Era Uma Vez em Nova York
 ---
 
@@ -16,7 +15,7 @@ Dirigido e escrito por James Gray (auxiliado no roteiro por Ric Menello), o film
 
 Merecedor de prêmios também é a fotografia de Darius Khondji, que nos faz emergir em tons amarelados e escurecidos de um EUA que muitos gostariam de esquecer. Até o Central Park fica feio e sujo nesse filme.
 
-Porém, a "feiura" do filme está mesmo no caráter de seus personagens. Outro merecedor de créditos, Joaquin Phoenix faz uma pessoa que consegue navegar nos diferentes níveis de corrupção policial e vende suas mulheres de maneira competente. Nada disso parece importar quando se apaixona por Ewa, quando de repente estamos vendo o declínio de um ser humano da pior espécie, mas que por algum motivo não conseguimos sentir ódio. Phoenix é dono de uma presença de espírito que torna odiá-lo extremamente difícil. E apesar de nunca dizê-lo, aos poucos entendemos seus motivos.
+Porém, a "feiura" do filme está mesmo no caráter de seus personagens. Outro merecedor de créditos, Joaquin Phoenix faz uma pessoa que consegue navegar nos diferentes níveis de corrupção policial e vende suas mulheres de maneira competente. Nada disso importa quando se apaixona por Ewa, quando de repente estamos vendo o declínio de um ser humano da pior espécie, mas que por algum motivo não conseguimos sentir ódio. Phoenix é dono de uma presença de espírito que torna odiá-lo extremamente difícil. E apesar de nunca dizê-lo, aos poucos entendemos seus motivos.
 
 E ainda assim, é Marion Cotillard que mantém as atenções voltadas para ela. Sua Ewa vai se tornando cada vez mais complexa conforme as porta vão se fechando para ela. Sua cara de desespero e ingenuidade vai se fechando, e quando descobrimos a desgraça que lhe aconteceu no navio, tudo começa a fazer sentido.
 
