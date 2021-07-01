@@ -1,5 +1,9 @@
 <footer class="footer">
   <div class="container">
-    <span style="float: right;"><i style="font-size: small;">Blogue do Caloni <a href="{{ .Site.Params.contentGit }}">{{ now.Format "2006.01.02" }}</a> {{ .Site.Copyright }}</i></span>
+    <span style="float: right;"><i style="font-size: small;">Blogue do Caloni
+    {{ if .IsHome }}
+      <a href="{{ .Site.Params.contentGit }}">{{ now.Format "2006-01-02 15:04:05 -0700" }}</a>
+    {{ end }}
+    {{ .Site.Copyright }}</i></span>
   </div>
 </footer>
