@@ -1,7 +1,9 @@
 ---
 categories:
-- reading
+- reviews
 date: '2020-10-11'
+tags:
+- reading
 title: A Propriedade é um Roubo
 ---
 

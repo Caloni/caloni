@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-11-02'
+tags:
+- food
 title: 120 Carmenere Cabernet Franc Cabernet Sauvignon Reserva Especial 2016 Santa
   Rita
 ---

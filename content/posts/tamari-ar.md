@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-09-23'
 tags:
 - wine
+- food
 title: Tamari AR
 ---
 

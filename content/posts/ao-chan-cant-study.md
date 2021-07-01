@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-03-07'
 tags:
 - draft
+- animes
 title: Ao-chan Can't Study
 ---
 

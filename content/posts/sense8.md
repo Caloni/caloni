@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2015-07-06'
+tags:
+- series
 title: Sense8
 ---
 

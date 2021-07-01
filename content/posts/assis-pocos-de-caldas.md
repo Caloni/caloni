@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-04-18'
+tags:
+- food
 title: Assis Poços de Caldas
 ---
 

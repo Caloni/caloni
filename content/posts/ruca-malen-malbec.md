@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-10-12'
 tags:
 - wine
+- food
 title: Ruca Malen Malbec
 ---
 

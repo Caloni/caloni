@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2019-06-19'
+tags:
+- food
 title: Góes Seco
 ---
 

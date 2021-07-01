@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-04-26'
 tags:
 - draft
+- series
 title: Girlboss - Primeira Temporada
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-02-07'
+tags:
+- food
 title: Concha y Toro Reservado Cabernet Sauvignon
 ---
 

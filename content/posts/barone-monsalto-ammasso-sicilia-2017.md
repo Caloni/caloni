@@ -1,10 +1,11 @@
 ---
 categories:
-- food
+- reviews
 date: '2021-06-28T21:43:00-03:00'
 tags:
 - draft
 - wine
+- food
 title: Barone Montalto Ammasso Sicilia 2017
 ---
 

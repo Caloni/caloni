@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-05-27'
 tags:
 - draft
+- series
 title: Mob Psycho 100 (2018)
 ---
 

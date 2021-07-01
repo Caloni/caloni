@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-27'
+tags:
+- food
 title: Moura Basto Vinho Verde
 ---
 

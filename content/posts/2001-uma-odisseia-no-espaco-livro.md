@@ -1,9 +1,10 @@
 ---
 categories:
-- books
+- reviews
 date: '2018-05-16'
 tags:
 - draft
+- books
 title: '2001: Uma Odisseia no Espaço (livro)'
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-10-04'
+tags:
+- series
 title: Glow Up
 ---
 

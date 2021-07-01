@@ -1,7 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-02-15'
+tags:
+- animes
 title: Dororo
 ---
 

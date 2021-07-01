@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-04-16'
+tags:
+- series
 title: 'Sherlock: The Lying Detective'
 ---
 

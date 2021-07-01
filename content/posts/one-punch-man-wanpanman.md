@@ -1,10 +1,11 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2017-01-17'
 tags:
 - draft
+- animes
+- series
 title: 'One Punch Man: Wanpanman'
 ---
 

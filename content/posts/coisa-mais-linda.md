@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2019-04-15'
 tags:
 - draft
+- series
 title: Coisa Mais Linda
 ---
 

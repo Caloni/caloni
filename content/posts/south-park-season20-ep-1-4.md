@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-10-15'
 tags:
 - draft
+- series
 title: South Park - Vigésima Temporada, Episódios 1 a 4
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2019-02-06'
 tags:
 - draft
+- series
 title: Boneca Russa
 ---
 

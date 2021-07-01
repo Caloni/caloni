@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2020-06-21'
 tags:
 - wine
+- food
 title: Malma
 ---
 

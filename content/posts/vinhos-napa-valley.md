@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-12-30'
 tags:
 - wine
+- food
 title: Vinhos de Napa Valley
 ---
 

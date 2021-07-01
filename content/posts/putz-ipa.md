@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-09-25'
 tags:
 - beer
+- food
 title: Putz IPA
 ---
 

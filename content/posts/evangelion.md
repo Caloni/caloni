@@ -1,8 +1,10 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2020-07-11'
+tags:
+- animes
+- series
 title: Evangelion No More
 ---
 

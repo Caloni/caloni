@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-05-30'
 tags:
 - draft
+- series
 title: House of Cards - Quinta Temporada, Episódio 1
 ---
 

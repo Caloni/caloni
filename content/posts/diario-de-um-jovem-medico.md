@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2014-12-01'
 tags:
 - draft
+- series
 title: Diário de um Jovem Médico
 ---
 

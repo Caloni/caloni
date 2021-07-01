@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-08-20'
+tags:
+- food
 title: Bouza Tannat 2013
 ---
 

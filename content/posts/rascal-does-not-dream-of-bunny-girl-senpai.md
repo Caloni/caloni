@@ -1,8 +1,10 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2020-10-11'
+tags:
+- animes
+- series
 title: Rascal Does Not Dream of Bunny Girl Senpai
 ---
 

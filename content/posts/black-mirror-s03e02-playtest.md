@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-10-25'
 tags:
 - draft
+- series
 title: Black Mirror - S03E02 - Playtest
 ---
 

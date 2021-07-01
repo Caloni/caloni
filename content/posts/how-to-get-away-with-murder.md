@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2015-11-28'
 tags:
 - draft
+- series
 title: How to Get Away with Murder - Primeira Temporada, Episódios 1 ao 3
 ---
 

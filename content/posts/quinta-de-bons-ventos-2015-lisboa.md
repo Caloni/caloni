@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-11-21'
+tags:
+- food
 title: Quinta de Bons-Ventos 2015 Lisboa
 ---
 

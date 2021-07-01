@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-05-24'
 tags:
 - draft
+- series
 title: Cara Gente Branca
 ---
 

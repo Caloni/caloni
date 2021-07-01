@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2020-08-04'
 tags:
 - wine
+- food
 title: Silver Myn
 ---
 

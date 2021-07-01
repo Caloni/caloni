@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-29'
 tags:
 - beer
+- food
 title: London Pride (garrafa)
 ---
 

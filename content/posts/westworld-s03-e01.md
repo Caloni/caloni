@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-04-28'
+tags:
+- series
 title: Westworld S03 E01
 ---
 

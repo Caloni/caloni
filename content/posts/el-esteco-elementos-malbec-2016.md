@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-08'
+tags:
+- food
 title: El Esteco Elementos Malbec 2016
 ---
 

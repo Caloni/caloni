@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-17'
+tags:
+- food
 title: Piattelli Grand Reserve Malbec 2014
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-11-21'
 tags:
 - beer
+- food
 title: Minerva artesanal do México
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-03-27'
 tags:
 - draft
+- animes
 title: Depois da Chuva (aka Koi wa Ameagari no You ni)
 ---
 

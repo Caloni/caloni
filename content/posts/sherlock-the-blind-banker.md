@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-11-22'
 tags:
 - draft
+- series
 title: 'Sherlock: The Blind Banker'
 ---
 

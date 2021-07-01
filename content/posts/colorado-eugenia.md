@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-07-07'
 tags:
 - beer
+- food
 title: Colorado Eugênia
 ---
 

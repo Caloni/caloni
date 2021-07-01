@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-12-08'
+tags:
+- food
 title: Toledo
 ---
 

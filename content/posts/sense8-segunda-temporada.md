@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-07-01'
 tags:
 - draft
+- series
 title: Sense8 - Segunda Temporada
 ---
 

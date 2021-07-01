@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2019-12-11'
 tags:
 - draft
+- series
 title: Chernobyl
 ---
 

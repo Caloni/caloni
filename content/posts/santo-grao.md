@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2020-09-05'
 tags:
 - coffee
+- food
 title: Santo Grão
 ---
 

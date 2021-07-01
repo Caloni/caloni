@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-07-20'
+tags:
+- series
 title: 'O Grito: Origens'
 ---
 

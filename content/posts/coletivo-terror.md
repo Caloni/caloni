@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-03-22'
+tags:
+- series
 title: Coletivo Terror
 ---
 

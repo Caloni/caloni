@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-10-21'
+tags:
+- food
 title: Tipuana
 ---
 

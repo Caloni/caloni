@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-11-05'
 tags:
 - wine
+- food
 title: Gualiama Salvador Figueroa
 ---
 

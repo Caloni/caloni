@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2021-01-10'
 tags:
 - wine
+- food
 title: Stamnaki Moschofilero
 ---
 

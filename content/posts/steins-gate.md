@@ -1,10 +1,11 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2017-10-05'
 tags:
 - draft
+- animes
+- series
 title: Steins;Gate
 ---
 

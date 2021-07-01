@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-05-04'
 tags:
 - draft
+- animes
 title: The Promised Neverland
 ---
 

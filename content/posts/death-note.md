@@ -1,10 +1,11 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2017-09-18'
 tags:
 - draft
+- animes
+- series
 title: 'Death Note: Notas da Morte'
 ---
 

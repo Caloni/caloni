@@ -1,9 +1,10 @@
 ---
 categories:
-- reading
+- reviews
 date: '2017-05-28'
 tags:
 - draft
+- reading
 title: Uma prova simples e modesta da existência do livre-arbítrio
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2014-08-31'
 tags:
 - draft
+- animes
+- series
 title: Blue Exorcist
 ---
 

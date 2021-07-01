@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2015-12-12'
 tags:
 - draft
+- series
 title: Fringe (piloto)
 ---
 

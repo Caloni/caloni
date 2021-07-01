@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-06-21'
+tags:
+- series
 title: Westworld No More
 ---
 

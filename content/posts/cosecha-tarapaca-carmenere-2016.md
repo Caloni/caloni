@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-03-18'
+tags:
+- food
 title: Cosecha Tarapaca Carmenere 2016
 ---
 

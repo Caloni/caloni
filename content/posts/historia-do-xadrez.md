@@ -1,7 +1,9 @@
 ---
 categories:
-- books
+- reviews
 date: '2020-07-15'
+tags:
+- books
 title: História do Xadrez
 ---
 

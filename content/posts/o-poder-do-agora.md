@@ -1,9 +1,10 @@
 ---
 categories:
-- books
+- reviews
 date: '2015-06-29'
 tags:
 - draft
+- books
 title: O Poder do Agora
 ---
 

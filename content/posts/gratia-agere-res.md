@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-06-21'
+tags:
+- food
 title: Gratia Agere Res
 ---
 

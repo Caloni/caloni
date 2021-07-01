@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-11'
+tags:
+- food
 title: Vasija Secreta Malbec 2015
 ---
 

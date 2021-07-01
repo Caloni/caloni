@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-10-02'
 tags:
 - wine
+- food
 title: El Porvenir de Cafayate Laborum Malbec Tardío 2018
 ---
 

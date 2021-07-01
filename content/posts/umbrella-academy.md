@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2019-05-15'
 tags:
 - draft
+- series
 title: The Umbrella Academy
 ---
 

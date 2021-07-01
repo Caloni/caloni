@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-12-30'
 tags:
 - draft
+- series
 title: Westworld (Revisita ao S01 com algumas questões e spoilers)
 ---
 

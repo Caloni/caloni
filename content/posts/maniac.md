@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-09-30'
 tags:
 - draft
+- series
 title: Maniac
 ---
 

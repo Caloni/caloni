@@ -1,10 +1,11 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2020-01-09'
 tags:
 - draft
+- animes
+- series
 title: Cells at Work!
 ---
 

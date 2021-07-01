@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-02-06'
 tags:
 - draft
+- series
 title: The End Of The F***ing World
 ---
 

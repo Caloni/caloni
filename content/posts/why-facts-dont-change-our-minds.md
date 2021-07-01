@@ -1,9 +1,10 @@
 ---
 categories:
-- reading
+- reviews
 date: '2019-02-03'
 tags:
 - draft
+- reading
 title: Why Facts Don't Change Our Minds
 ---
 

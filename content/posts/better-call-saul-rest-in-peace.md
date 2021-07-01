@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-03-19'
+tags:
+- series
 title: 'Better Call Saul: Rest in Peace?'
 ---
 

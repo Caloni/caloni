@@ -1,10 +1,11 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2016-10-23'
 tags:
 - draft
+- animes
+- series
 title: Ghost Hound
 ---
 

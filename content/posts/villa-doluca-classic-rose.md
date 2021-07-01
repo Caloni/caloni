@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2021-02-16'
 tags:
 - wine
+- food
 title: Villa Doluca Classic Rose
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- reading
+- reviews
 date: '2020-07-12'
+tags:
+- reading
 title: 'Cosmic Trigger I: Final Secret of the Illuminati'
 ---
 

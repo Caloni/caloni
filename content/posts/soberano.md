@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-09-30'
+tags:
+- food
 title: Soberano
 ---
 

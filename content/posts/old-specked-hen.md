@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-05-20'
 tags:
 - beer
+- food
 title: Old Specked Hen
 ---
 

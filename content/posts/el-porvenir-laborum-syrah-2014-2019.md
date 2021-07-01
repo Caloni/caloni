@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2019-02-24'
 tags:
 - wine
+- food
 title: El Porvenir Laborum Syrah 2014
 ---
 

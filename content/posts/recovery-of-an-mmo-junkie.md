@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-04-10'
 tags:
 - draft
+- animes
 title: Recovery of an Mmo Junkie (Netojuu no susume)
 ---
 

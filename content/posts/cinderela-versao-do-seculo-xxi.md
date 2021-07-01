@@ -1,7 +1,9 @@
 ---
 categories:
-- books
+- reviews
 date: '2020-06-21'
+tags:
+- books
 title: 'Cinderela: Versão do Século XXI'
 ---
 

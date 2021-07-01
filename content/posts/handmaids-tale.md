@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-04-15'
 tags:
 - draft
+- series
 title: The Handmaid's Tale (O Conto da Aia)
 ---
 

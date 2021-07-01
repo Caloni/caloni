@@ -1,10 +1,11 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2019-02-06'
 tags:
 - draft
+- animes
+- series
 title: Gunnm (aka Alita)
 ---
 

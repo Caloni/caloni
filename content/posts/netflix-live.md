@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-04-01'
 tags:
 - draft
+- series
 title: Netflix Live
 ---
 

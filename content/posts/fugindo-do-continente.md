@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-07-01'
 tags:
 - draft
+- series
 title: Fugindo do Continente
 ---
 

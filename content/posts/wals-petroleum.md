@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-04-06'
 tags:
 - beer
+- food
 title: Wäls Petroleum
 ---
 

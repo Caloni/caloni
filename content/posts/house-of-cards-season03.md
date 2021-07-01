@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-03-13'
 tags:
 - draft
+- series
 title: House of Cards - Terceira Temporada
 ---
 

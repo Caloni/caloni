@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-06-12'
+tags:
+- food
 title: Don Pascual Tannat 2012
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- books
+- reviews
 date: '2020-08-10'
+tags:
+- books
 title: Conversations With Pauline Kael
 ---
 

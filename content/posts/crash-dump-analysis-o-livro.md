@@ -1,8 +1,10 @@
 ---
 categories:
-- reading
 - code
+- reviews
 date: '2008-04-17'
+tags:
+- reading
 title: 'Crash Dump Analysis: o livro'
 ---
 

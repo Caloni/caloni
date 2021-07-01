@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2020-10-22'
 tags:
 - coffee
+- food
 title: Fazenda da Serra
 ---
 

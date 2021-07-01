@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2020-08-10'
 tags:
 - coffee
+- food
 title: Fazenda São Francisco
 ---
 

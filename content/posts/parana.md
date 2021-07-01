@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-08-22'
+tags:
+- food
 title: Paraná
 ---
 

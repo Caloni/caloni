@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-12-04'
 tags:
 - draft
+- series
 title: Chef's Table
 ---
 

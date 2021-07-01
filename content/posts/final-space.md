@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-09-15'
 tags:
 - draft
+- series
 title: Final Space
 ---
 

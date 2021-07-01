@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2016-02-01'
+tags:
+- food
 title: Tamandaré
 ---
 

@@ -1,8 +1,10 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2020-05-16'
+tags:
+- animes
+- series
 title: Gekkan Shojo Nozaki Kun
 ---
 

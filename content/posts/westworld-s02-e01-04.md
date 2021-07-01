@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-12-30'
 tags:
 - draft
+- series
 title: Westworld S02 E01-04
 ---
 

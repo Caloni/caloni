@@ -1,10 +1,11 @@
 ---
 categories:
-- food
+- reviews
 date: '2021-06-22T23:11:00-03:00'
 tags:
 - draft
 - coffee
+- food
 title: Spot Coffee em Blumenau
 ---
 

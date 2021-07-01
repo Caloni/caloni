@@ -1,7 +1,9 @@
 ---
 categories:
-- reading
+- reviews
 date: '2020-06-01'
+tags:
+- reading
 title: Sempre Aposte no Texto
 ---
 

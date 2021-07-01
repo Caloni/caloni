@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-10-23'
 tags:
 - draft
+- series
 title: 'Midnight Diner: Tokyo Stories'
 ---
 

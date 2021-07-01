@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-08-19'
+tags:
+- series
 title: 'Jaspion: mais profundo que Star Wars'
 ---
 

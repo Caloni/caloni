@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-07-19'
 tags:
 - draft
+- series
 title: Outlander - Primeira Temporada
 ---
 

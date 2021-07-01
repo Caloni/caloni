@@ -1,7 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2020-10-04'
+tags:
+- animes
 title: I Can't Understand What My Husband Is Saying
 ---
 

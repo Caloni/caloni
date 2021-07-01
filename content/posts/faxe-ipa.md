@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2019-05-30'
 tags:
 - beer
+- food
 title: Faxe IPA
 ---
 

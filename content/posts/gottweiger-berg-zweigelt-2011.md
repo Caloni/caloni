@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2014-12-20'
+tags:
+- food
 title: Gottweiger Berg Zweigelt 2011
 ---
 

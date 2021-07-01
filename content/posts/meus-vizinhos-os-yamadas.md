@@ -1,10 +1,10 @@
 ---
 categories:
-- animes
 - reviews
 date: '2020-03-30'
 tags:
 - movies
+- animes
 title: Meus Vizinhos, Os Yamadas
 ---
 

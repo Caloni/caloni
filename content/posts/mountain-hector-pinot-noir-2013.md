@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2014-12-25'
+tags:
+- food
 title: Mountain Hector Pinot Noir 2013
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-02-07'
 tags:
 - draft
+- series
 title: Making a Murderer
 ---
 

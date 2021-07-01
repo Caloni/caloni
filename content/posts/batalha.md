@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2020-06-07'
 tags:
 - wine
+- food
 title: Batalha
 ---
 

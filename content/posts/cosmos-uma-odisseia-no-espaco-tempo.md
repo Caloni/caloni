@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2014-09-25'
 tags:
 - draft
+- series
 title: 'Cosmos: Uma Odisséia do Espaço-Tempo'
 ---
 

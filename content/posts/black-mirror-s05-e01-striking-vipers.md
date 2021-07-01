@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2019-06-10'
 tags:
 - draft
+- series
 title: Black Mirror S05 E01 Striking Vipers
 ---
 

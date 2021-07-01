@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-06-21'
 tags:
 - beer
+- food
 title: Ravache Pale Ale
 ---
 

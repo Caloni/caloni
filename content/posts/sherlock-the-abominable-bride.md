@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-04-07'
+tags:
+- series
 title: 'Sherlock: The Abominable Bride'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-14'
 tags:
 - beer
+- food
 title: Salta Negra
 ---
 

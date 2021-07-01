@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-06-25'
 tags:
 - draft
+- series
 title: Morte Na Escadaria (Staircase)
 ---
 

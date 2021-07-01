@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2019-01-04'
 tags:
 - wine
+- food
 title: Valtier Utiel
 ---
 

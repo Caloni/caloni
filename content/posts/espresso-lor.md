@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2019-03-25'
+tags:
+- food
 title: Espresso Lor
 ---
 

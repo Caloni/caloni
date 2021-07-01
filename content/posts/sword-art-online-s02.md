@@ -1,10 +1,11 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2014-04-16'
 tags:
 - draft
+- animes
+- series
 title: Sword Art Online - Segunda Temporada
 ---
 

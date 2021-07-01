@@ -1,9 +1,10 @@
 ---
 categories:
-- reading
+- reviews
 date: '2017-05-28'
 tags:
 - draft
+- reading
 title: Os fundamentos praxeológicos da Teoria Legal Libertária
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- reading
+- reviews
 date: '2018-02-27'
 tags:
 - draft
+- reading
 title: Just the Arguments
 ---
 

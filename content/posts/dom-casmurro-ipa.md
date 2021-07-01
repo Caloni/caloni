@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-03-25'
 tags:
 - beer
+- food
 title: Dom Casmurro IPA
 ---
 

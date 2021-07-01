@@ -1,7 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-03-27'
+tags:
+- animes
 title: That Time I Got Reincarnated as a Slime
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-01-12'
 tags:
 - draft
+- series
 title: The Witcher
 ---
 

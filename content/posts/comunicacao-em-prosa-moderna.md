@@ -1,9 +1,10 @@
 ---
 categories:
-- books
+- reviews
 date: '2020-03-15'
 tags:
 - draft
+- books
 title: Comunicação em Prosa Moderna
 ---
 

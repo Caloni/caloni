@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-06-05'
+tags:
+- food
 title: Fazenda Valsugana Pirassuranga
 ---
 

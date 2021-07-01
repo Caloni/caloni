@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2021-01-12'
 tags:
 - wine
+- food
 title: Stamnaki Agiorgitiko
 ---
 

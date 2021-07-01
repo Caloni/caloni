@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2016-09-23'
+tags:
+- food
 title: Le Vigne Di Zamo Zamo Rosso
 ---
 

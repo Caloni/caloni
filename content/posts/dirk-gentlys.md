@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-01-01'
 tags:
 - draft
+- series
 title: Dirk Gently's Holistic Detective Agency - Primeira Temporada, Episódios 1 ao
   3
 ---

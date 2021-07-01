@@ -1,9 +1,10 @@
 ---
 categories:
-- books
+- reviews
 date: '2018-12-30'
 tags:
 - draft
+- books
 title: 12 Regras Para a Vida, por Jordan Peterson
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2020-10-04'
+tags:
+- animes
 title: Love is Like a Cocktail
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-02-23'
+tags:
+- food
 title: Cachoeirinha Volcano Coffee Café Spresso
 ---
 

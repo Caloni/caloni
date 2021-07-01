@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-09-13'
 tags:
 - beer
+- food
 title: Colorado Café
 ---
 

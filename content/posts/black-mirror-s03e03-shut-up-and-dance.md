@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-10-28'
 tags:
 - draft
+- series
 title: Black Mirror - S03E03 - Shut Up and Dance
 ---
 

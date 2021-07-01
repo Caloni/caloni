@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-08-28'
 tags:
 - draft
+- series
 title: Filosofia De Mr Robot
 ---
 

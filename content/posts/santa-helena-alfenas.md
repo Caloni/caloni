@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2021-01-14'
 tags:
 - coffee
+- food
 title: Santa Helena Alfenas
 ---
 

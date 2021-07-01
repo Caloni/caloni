@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-04-13'
+tags:
+- food
 title: Oumsiyat Jaspe
 ---
 

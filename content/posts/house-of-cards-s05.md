@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-06-05'
 tags:
 - draft
+- series
 title: House of Cards - Quinta Temporada
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-07-16'
 tags:
 - beer
+- food
 title: Colorado Cauim 016
 ---
 

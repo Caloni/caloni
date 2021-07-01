@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-03-04'
 tags:
 - draft
+- series
 title: Altered Carbon
 ---
 

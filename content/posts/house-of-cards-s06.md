@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-11-16'
 tags:
 - draft
+- series
 title: House of Cards - Sexta Temporada (Season Finale).
 ---
 

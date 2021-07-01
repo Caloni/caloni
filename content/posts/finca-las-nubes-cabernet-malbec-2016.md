@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-06-24'
+tags:
+- food
 title: Finca Las Nubes Cabernet Malbec 2016
 ---
 

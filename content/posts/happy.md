@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-05-16'
 tags:
 - draft
+- series
 title: Feliz!
 ---
 

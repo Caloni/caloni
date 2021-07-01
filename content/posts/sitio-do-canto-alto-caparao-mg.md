@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-12-20'
+tags:
+- food
 title: Sítio do Canto Alto Caparaó MG
 ---
 

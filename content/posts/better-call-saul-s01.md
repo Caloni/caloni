@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-04-22'
 tags:
 - draft
+- series
 title: Better Call Saul - Primeira Temporada
 ---
 

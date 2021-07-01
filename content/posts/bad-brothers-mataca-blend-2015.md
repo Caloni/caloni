@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-17'
+tags:
+- food
 title: Bad Brothers MaTaCa Blend 2015
 ---
 

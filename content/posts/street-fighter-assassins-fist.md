@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2014-10-05'
 tags:
 - draft
+- series
 title: 'Street Fighter: Assassin''s Fist'
 ---
 

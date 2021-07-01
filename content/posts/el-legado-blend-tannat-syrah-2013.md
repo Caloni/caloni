@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2016-11-13'
+tags:
+- food
 title: El Legado Blend Tannat Syrah 2013
 ---
 

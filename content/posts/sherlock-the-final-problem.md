@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-12-08'
 tags:
 - draft
+- series
 title: 'Sherlock: The Final Problem'
 ---
 

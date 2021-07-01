@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-10-29'
 tags:
 - draft
+- series
 title: 'True Detective: Primeiras Impressões do Piloto'
 ---
 

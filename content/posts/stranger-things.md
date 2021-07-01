@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-08-04'
 tags:
 - draft
+- series
 title: Stranger Things (e a irrelevância da bilheteria Netflixiana)
 ---
 

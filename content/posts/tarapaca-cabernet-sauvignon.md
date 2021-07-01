@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-04-29'
+tags:
+- food
 title: Tarapaca Cabernet Sauvignon
 ---
 

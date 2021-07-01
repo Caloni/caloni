@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-24'
 tags:
 - beer
+- food
 title: Wild River Double Hopped Pale Ale
 ---
 

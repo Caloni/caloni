@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2020-06-13'
 tags:
 - coffee
+- food
 title: Fazenda São João (Produtor Osvaldo Bachião, Nova Rezende, Sul de Minas)
 ---
 

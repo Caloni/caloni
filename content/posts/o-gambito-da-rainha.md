@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-11-14'
 tags:
 - draft
+- series
 title: O Gambito da Rainha
 ---
 

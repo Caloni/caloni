@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-01-11'
 tags:
 - draft
+- series
 title: Dont Fuck With Cats Hunting an Internet Killer
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-04-15'
+tags:
+- series
 title: Terrace House
 ---
 

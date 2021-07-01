@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-09-07'
+tags:
+- food
 title: Starbucks
 ---
 

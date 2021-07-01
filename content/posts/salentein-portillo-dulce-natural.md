@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-09-01'
 tags:
 - wine
+- food
 title: Salentein Portillo Dulce Natural Sauvignon Blanc 2017
 ---
 

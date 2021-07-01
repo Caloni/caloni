@@ -1,9 +1,10 @@
 ---
 categories:
-- books
+- reviews
 date: '2017-02-20'
 tags:
 - draft
+- books
 title: The Best of edw519
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2013-04-03'
 tags:
 - draft
+- series
 title: The Walking Dead - Segunda Temporada
 ---
 

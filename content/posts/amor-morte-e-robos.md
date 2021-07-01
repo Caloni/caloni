@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2019-06-09'
 tags:
 - draft
+- series
 title: Amor, Morte & Robôs
 ---
 

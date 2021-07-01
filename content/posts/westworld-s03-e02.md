@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-05-10'
+tags:
+- series
 title: Westworld S03 E02
 ---
 

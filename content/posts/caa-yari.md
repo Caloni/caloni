@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-11-09'
 tags:
 - beer
+- food
 title: Caá Yari
 ---
 

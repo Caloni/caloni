@@ -1,7 +1,9 @@
 ---
 categories:
-- reading
+- reviews
 date: '2020-06-23'
+tags:
+- reading
 title: Renata Adler vs Pauline Kael
 ---
 

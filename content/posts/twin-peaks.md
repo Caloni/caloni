@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-02-27'
 tags:
 - draft
+- series
 title: Twin Peaks (2017)
 ---
 

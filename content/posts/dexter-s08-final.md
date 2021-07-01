@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2014-11-09'
 tags:
 - draft
+- series
 title: Dexter - O Final
 ---
 

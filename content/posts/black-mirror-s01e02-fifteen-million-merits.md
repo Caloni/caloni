@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2015-12-13'
 tags:
 - draft
+- series
 title: Black Mirror - S01E02 - Fifteen Million Merits
 ---
 

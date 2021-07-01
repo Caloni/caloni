@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-12-07'
 tags:
 - draft
+- series
 title: 13 Reasons Why
 ---
 

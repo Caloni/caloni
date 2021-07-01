@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2019-06-15'
 tags:
 - draft
+- series
 title: Black Mirror S05 E03 Rachel Jack and Ashley Too
 ---
 

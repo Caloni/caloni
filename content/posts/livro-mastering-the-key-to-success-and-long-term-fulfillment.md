@@ -1,9 +1,10 @@
 ---
 categories:
-- reading
+- reviews
 date: '2017-03-14'
 tags:
 - draft
+- reading
 title: 'Mastery: The Keys to Success and Long-Term Fulfillment'
 ---
 

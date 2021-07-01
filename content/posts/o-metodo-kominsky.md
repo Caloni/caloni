@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-12-08'
 tags:
 - draft
+- series
 title: O Método Kominsky
 ---
 

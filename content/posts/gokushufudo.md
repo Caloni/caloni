@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-04-25'
 tags:
 - draft
+- animes
 title: Gokushufudo (The Way of the Househusband)
 ---
 

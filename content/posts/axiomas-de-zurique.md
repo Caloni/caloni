@@ -1,9 +1,10 @@
 ---
 categories:
-- books
+- reviews
 date: '2017-05-28'
 tags:
 - draft
+- books
 title: Os Axiomas de Zurique
 ---
 

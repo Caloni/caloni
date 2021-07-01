@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-10-14'
 tags:
 - wine
+- food
 title: Quará Malbec
 ---
 

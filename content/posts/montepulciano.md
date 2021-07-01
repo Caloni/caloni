@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2020-10-13'
 tags:
 - wine
+- food
 title: Montepulciano
 ---
 

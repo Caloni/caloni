@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-06-07'
+tags:
+- food
 title: Marchesi del Salen
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2020-10-11'
+tags:
+- animes
 title: Domestic Girlfriend
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-07-15'
+tags:
+- series
 title: American Horror Story Season 5
 ---
 

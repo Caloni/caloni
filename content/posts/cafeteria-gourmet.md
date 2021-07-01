@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2019-07-01'
+tags:
+- food
 title: Cafeteria Gourmet
 ---
 

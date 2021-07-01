@@ -1,11 +1,11 @@
 ---
 categories:
-- animes
 - reviews
 date: '2021-01-28'
 tags:
 - draft
 - movies
+- animes
 title: Túmulo dos Vagalumes
 ---
 

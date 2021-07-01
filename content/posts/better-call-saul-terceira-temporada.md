@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-07-03'
 tags:
 - draft
+- series
 title: Better Call Saul - Terceira Temporada
 ---
 

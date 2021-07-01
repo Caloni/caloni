@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-12-26'
 tags:
 - draft
+- series
 title: Wanderlust
 ---
 

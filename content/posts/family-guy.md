@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2015-07-28'
 tags:
 - draft
+- series
 title: Family Guy
 ---
 

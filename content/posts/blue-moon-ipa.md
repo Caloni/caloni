@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-11-23'
 tags:
 - beer
+- food
 title: Blue Moon IPA
 ---
 

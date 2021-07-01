@@ -1,9 +1,10 @@
 ---
 categories:
-- books
+- reviews
 date: '2016-12-20'
 tags:
 - draft
+- books
 title: Sinais do Fim
 ---
 

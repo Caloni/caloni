@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-08-18'
 tags:
 - draft
+- series
 title: Jessica Jones
 ---
 

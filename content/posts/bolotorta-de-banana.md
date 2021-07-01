@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2020-06-23'
 tags:
 - recipes
+- food
 title: Bolotorta de Banana
 ---
 

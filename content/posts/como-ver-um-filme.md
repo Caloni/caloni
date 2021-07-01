@@ -1,9 +1,10 @@
 ---
 categories:
-- books
+- reviews
 date: '2016-05-14'
 tags:
 - draft
+- books
 title: 'Livro: Como Ver Um Filme'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-10-22'
 tags:
 - draft
+- series
 title: Supergirl
 ---
 

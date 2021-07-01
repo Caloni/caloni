@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-10-21'
 tags:
 - draft
+- series
 title: 'A Filosofia de Rick And Morty: Primeira Temporada (anotações)'
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-09'
+tags:
+- food
 title: Nanni Malbec Reserva 2016
 ---
 

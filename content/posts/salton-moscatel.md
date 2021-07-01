@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2020-12-27'
 tags:
 - wine
+- food
 title: Salton Moscatel
 ---
 

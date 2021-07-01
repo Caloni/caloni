@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-02-05'
+tags:
+- food
 title: Nero D'Avola Duca Sargento
 ---
 

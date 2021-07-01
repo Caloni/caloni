@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-09-11'
 tags:
 - draft
+- series
 title: Mr. Robot
 ---
 

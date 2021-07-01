@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-11-10'
 tags:
 - wine
+- food
 title: Pata Negra
 ---
 

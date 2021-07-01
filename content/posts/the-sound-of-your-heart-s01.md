@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-04-16'
 tags:
 - draft
+- series
 title: The Sound of Your Heart - Primeira Temporada
 ---
 

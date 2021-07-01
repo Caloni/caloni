@@ -1,10 +1,11 @@
 ---
 author: Wanderley Caloni
 categories:
-- books
+- reviews
 date: '2017-04-24'
 tags:
 - draft
+- books
 title: Como publicar um livro na Amazon
 ---
 

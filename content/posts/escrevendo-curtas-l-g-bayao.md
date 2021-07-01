@@ -1,9 +1,10 @@
 ---
 categories:
-- books
+- reviews
 date: '2018-07-16'
 tags:
 - draft
+- books
 title: Escrevendo Curtas
 ---
 

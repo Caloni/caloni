@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2021-02-19'
 tags:
 - draft
+- series
 title: Soulmates
 ---
 

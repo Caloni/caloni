@@ -1,9 +1,10 @@
 ---
 categories:
-- books
+- reviews
 date: '2018-06-25'
 tags:
 - draft
+- books
 title: As Portas da Percepção, de Aldous Huxley
 ---
 

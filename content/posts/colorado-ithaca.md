@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-08-09'
 tags:
 - beer
+- food
 title: Colorado Ithaca
 ---
 

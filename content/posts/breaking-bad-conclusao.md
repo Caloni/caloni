@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-07-16'
 tags:
 - draft
+- series
 title: Breaking Bad
 ---
 

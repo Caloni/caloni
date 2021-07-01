@@ -1,8 +1,10 @@
 ---
 categories:
+- reviews
+date: '2020-10-13'
+tags:
 - animes
 - series
-date: '2020-10-13'
 title: Miss Kobayashi's Dragon Maid
 ---
 

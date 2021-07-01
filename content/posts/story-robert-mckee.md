@@ -1,9 +1,10 @@
 ---
 categories:
-- books
+- reviews
 date: '2019-09-08'
 tags:
 - draft
+- books
 title: Story, by Robert McKee
 ---
 

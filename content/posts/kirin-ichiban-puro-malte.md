@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-03-25'
 tags:
 - beer
+- food
 title: Kirin Ichiban Puro Malte
 ---
 

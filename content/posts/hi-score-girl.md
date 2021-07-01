@@ -1,10 +1,11 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2019-01-17'
 tags:
 - draft
+- animes
+- series
 title: Hi Score Girl
 ---
 

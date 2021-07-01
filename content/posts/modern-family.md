@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-08-04'
 tags:
 - draft
+- series
 title: Modern Family - Primeira Temporada, Episódios 1 ao 5
 ---
 

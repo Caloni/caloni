@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-17'
 tags:
 - wine
+- food
 title: El Porvenir Laborum Shiraz 2014
 ---
 

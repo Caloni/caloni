@@ -1,7 +1,9 @@
 ---
 categories:
-- books
+- reviews
 date: '2020-09-27'
+tags:
+- books
 title: 'Flow: The Psychology of Optimal Experience'
 ---
 

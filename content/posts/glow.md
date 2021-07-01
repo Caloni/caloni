@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-07-31'
 tags:
 - draft
+- series
 title: Glow
 ---
 

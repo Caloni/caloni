@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-12-06'
+tags:
+- series
 title: Dietland
 ---
 

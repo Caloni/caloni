@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2019-04-16'
 tags:
 - draft
+- series
 title: Osmosis
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-09-11'
+tags:
+- food
 title: Mantissa Café Fazenda Especial Poços de Caldas
 ---
 

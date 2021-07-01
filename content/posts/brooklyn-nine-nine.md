@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2021-05-15'
 tags:
 - draft
+- series
 title: Lei & Desordem (Brooklyn Nine Nine)
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-11-17'
 tags:
 - draft
+- series
 title: Ugly Delicious
 ---
 

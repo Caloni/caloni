@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2019-06-17'
 tags:
 - wine
+- food
 title: Colomé de Rio Negro
 ---
 

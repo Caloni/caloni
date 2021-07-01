@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-01-12'
 tags:
 - draft
+- series
 title: Black Mirror - S04E02 - Arkangel
 ---
 

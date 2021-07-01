@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-06-25'
 tags:
 - wine
+- food
 title: The WineHouse Tinto Douro
 ---
 

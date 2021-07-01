@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2021-06-06'
 tags:
 - recipes
+- food
 title: Em busca da pizza perfeita
 ---
 

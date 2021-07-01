@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-01-30'
 tags:
 - draft
+- series
 title: Dark
 ---
 

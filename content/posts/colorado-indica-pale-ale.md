@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-07-27'
 tags:
 - beer
+- food
 title: Colorado Indica Pale Ale
 ---
 

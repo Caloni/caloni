@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-12-26'
+tags:
+- series
 title: 'One Punch Man: Return of the Hero'
 ---
 

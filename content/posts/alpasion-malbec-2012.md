@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-11-22'
+tags:
+- food
 title: Alpasión Malbec 2012
 ---
 

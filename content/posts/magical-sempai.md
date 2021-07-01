@@ -1,7 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2020-10-13'
+tags:
+- animes
 title: Magical Sempai
 ---
 

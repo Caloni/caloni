@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-04-04'
 tags:
 - draft
+- animes
 title: Saekano How to Raise a Boring Girlfrield (Saenai heroine no sodatekata)
 ---
 

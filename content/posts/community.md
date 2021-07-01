@@ -1,8 +1,10 @@
 ---
 categories:
-- series
 - home
+- reviews
 date: '2020-08-19'
+tags:
+- series
 title: Community
 ---
 

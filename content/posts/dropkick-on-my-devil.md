@@ -1,7 +1,9 @@
 ---
 categories:
-- animes
+- reviews
 date: '2020-12-26'
+tags:
+- animes
 title: Dropkick on My Devil
 ---
 

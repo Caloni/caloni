@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-01-05'
 tags:
 - beer
+- food
 title: Cervejaria Nacional Stout
 ---
 

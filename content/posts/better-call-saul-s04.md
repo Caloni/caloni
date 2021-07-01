@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-10-26'
 tags:
 - draft
+- series
 title: Better Call Saul S04
 ---
 

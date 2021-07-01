@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2020-08-12'
 tags:
 - coffee
+- food
 title: Orfeu Descafeinado
 ---
 

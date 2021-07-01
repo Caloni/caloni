@@ -1,10 +1,11 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2016-11-04'
 tags:
 - draft
+- animes
+- series
 title: Angel Beats!
 ---
 

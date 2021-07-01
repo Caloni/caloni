@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2020-10-25'
 tags:
 - draft
+- animes
 title: One Piece
 ---
 

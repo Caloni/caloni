@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-01-01'
 tags:
 - draft
+- series
 title: '3%: spoilers sobre uma série para bandidos'
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-05-17'
+tags:
+- food
 title: Domingo Molina Rupestre Blend Malbec Merlot Tannat 2013
 ---
 

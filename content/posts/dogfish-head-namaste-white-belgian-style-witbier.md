@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-08-26'
+tags:
+- food
 title: Dogfish Head Namaste White Belgian-Style Witbier
 ---
 

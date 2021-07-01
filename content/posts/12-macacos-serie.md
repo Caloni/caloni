@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-03-29'
 tags:
 - draft
+- series
 title: 12 Macacos
 ---
 

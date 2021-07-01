@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-03-03'
 tags:
 - draft
+- animes
 title: Kiss Him Not Me (aka Watashi ga Motete Dousunda)
 ---
 

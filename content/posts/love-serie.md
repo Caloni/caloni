@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-03-01'
 tags:
 - draft
+- series
 title: Love - Primeira Temporada
 ---
 

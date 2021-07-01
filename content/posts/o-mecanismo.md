@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-03-26'
 tags:
 - draft
+- series
 title: O Mecanismo
 ---
 

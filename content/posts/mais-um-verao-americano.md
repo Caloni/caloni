@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2015-09-12'
 tags:
 - draft
+- series
 title: Mais um Verão Americano (piloto)
 ---
 

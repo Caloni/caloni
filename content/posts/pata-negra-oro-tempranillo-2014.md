@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-04-06'
+tags:
+- food
 title: Pata Negra Oro Tempranillo 2014
 ---
 

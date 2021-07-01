@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-03-16'
 tags:
 - beer
+- food
 title: Schornstein Witbier
 ---
 

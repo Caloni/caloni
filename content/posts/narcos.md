@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2015-09-11'
 tags:
 - draft
+- series
 title: Narcos
 ---
 

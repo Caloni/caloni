@@ -1,9 +1,10 @@
 ---
 categories:
-- books
+- reviews
 date: '2018-08-27'
 tags:
 - draft
+- books
 title: The Photoplay
 ---
 

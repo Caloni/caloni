@@ -1,10 +1,11 @@
 ---
 categories:
 - code
-- books
+- reviews
 date: '2011-10-14'
 tags:
 - draft
+- books
 title: 'Coders at Work: Reflections on the Craft of Programming'
 ---
 

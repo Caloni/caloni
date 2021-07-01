@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-01-09'
 tags:
 - draft
+- series
 title: Você
 ---
 

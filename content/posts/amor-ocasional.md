@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2019-01-02'
 tags:
 - draft
+- series
 title: Amor Ocasional
 ---
 

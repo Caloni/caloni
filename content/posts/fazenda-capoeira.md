@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2020-05-05'
 tags:
 - coffee
+- food
 title: Fazenda Capoeira
 ---
 

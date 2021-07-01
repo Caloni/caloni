@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-11-01'
 tags:
 - draft
+- series
 title: 'True Detective: Primeira Temporada'
 ---
 

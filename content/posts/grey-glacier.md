@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2015-05-01'
+tags:
+- food
 title: Grey Glacier
 ---
 

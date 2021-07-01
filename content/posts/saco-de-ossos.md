@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2014-02-22'
 tags:
 - draft
+- series
 title: Saco de Ossos
 ---
 

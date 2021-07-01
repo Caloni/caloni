@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2020-11-22'
 tags:
 - draft
+- animes
 title: How to Keep a Mummy
 ---
 

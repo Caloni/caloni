@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-05-20'
 tags:
 - draft
+- series
 title: The Lizzie Borden Chronicles (piloto)
 ---
 

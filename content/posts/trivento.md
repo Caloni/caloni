@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-09-01'
 tags:
 - wine
+- food
 title: Trivento Tribu Syrah
 ---
 

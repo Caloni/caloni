@@ -1,10 +1,11 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2014-10-19'
 tags:
 - draft
+- animes
+- series
 title: Kill La Kill
 ---
 

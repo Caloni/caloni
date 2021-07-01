@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2015-01-11'
 tags:
 - draft
+- series
 title: Elementary (piloto)
 ---
 

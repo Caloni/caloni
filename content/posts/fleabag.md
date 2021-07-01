@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2019-11-18'
 tags:
 - draft
+- series
 title: Fleabag
 ---
 

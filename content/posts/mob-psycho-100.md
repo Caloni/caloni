@@ -1,10 +1,11 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2018-05-28'
 tags:
 - draft
+- animes
+- series
 title: Mob Psycho 100
 ---
 

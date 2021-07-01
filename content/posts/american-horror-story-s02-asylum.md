@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2014-06-20'
 tags:
 - draft
+- series
 title: História de Horror Americana - Asylum
 ---
 

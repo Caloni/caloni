@@ -1,10 +1,11 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2018-05-20'
 tags:
 - draft
+- animes
+- series
 title: Kakegurui
 ---
 

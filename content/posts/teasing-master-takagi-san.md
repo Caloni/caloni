@@ -1,10 +1,11 @@
 ---
 categories:
-- series
-- animes
+- reviews
 date: '2019-12-26'
 tags:
 - draft
+- animes
+- series
 title: 'Teasing Master: Takagi-san'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2021-06-25T13:12:00+03:00'
 tags:
 - draft
+- food
 title: Pipoteca
 ---
 

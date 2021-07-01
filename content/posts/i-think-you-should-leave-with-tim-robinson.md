@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2019-04-27'
 tags:
 - draft
+- series
 title: I Think You Should Leave With Tim Robinson
 ---
 

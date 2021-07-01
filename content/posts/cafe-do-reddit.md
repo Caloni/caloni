@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-09-13'
+tags:
+- food
 title: Café do Reddit
 ---
 

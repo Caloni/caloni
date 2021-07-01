@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-07-02'
+tags:
+- food
 title: Humberto Barberis Malbec Edición Limitada 2016
 ---
 

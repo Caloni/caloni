@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-07-27'
 tags:
 - draft
+- series
 title: Outlander - Segunda Temporada
 ---
 

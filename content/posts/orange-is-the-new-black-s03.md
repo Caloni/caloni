@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2014-06-19'
 tags:
 - draft
+- series
 title: Orange is the New Black - Terceira Temporada
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-07-25'
+tags:
+- food
 title: Café Gourmet Fazenda Cachoeira Alta Manhuaçu MG
 ---
 

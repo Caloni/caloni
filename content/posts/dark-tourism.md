@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-07-26'
 tags:
 - draft
+- series
 title: Dark Tourism
 ---
 

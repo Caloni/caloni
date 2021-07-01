@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2016-10-16'
 tags:
 - draft
+- series
 title: O Incrível Mundo de Gumball
 ---
 

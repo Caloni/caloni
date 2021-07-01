@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-04-04'
 tags:
 - draft
+- series
 title: Ultimate Beastmaster - Primeira Temporada
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-01-25'
 tags:
 - draft
+- series
 title: 'Sherlock: A Study in Pink'
 ---
 

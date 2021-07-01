@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-02-28'
 tags:
 - draft
+- series
 title: Travelers
 ---
 

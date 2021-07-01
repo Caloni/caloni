@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-04-10'
 tags:
 - draft
+- animes
 title: New Game!
 ---
 

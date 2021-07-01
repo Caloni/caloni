@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-06-20'
+tags:
+- food
 title: Plan B Malbec
 ---
 

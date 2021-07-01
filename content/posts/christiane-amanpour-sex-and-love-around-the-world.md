@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-12-16'
 tags:
 - draft
+- series
 title: 'Christiane Amanpour: Sex and Love Around the World'
 ---
 

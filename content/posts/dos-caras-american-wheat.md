@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2018-01-05'
 tags:
 - beer
+- food
 title: Dos Caras American Wheat
 ---
 

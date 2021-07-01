@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-10-31'
 tags:
 - draft
+- series
 title: Making a Murderer S02
 ---
 

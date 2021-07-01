@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-02-19'
 tags:
 - draft
+- animes
 title: The Great Passage (Fune Wo Amu)
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-11-26'
+tags:
+- food
 title: Petits Detours Grenache Collline de La Moure 2016
 ---
 

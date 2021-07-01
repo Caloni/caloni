@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2021-06-12'
 tags:
 - draft
+- series
 title: 'Meu Amor: Seis Historias De Amor Verdadeiro'
 ---
 

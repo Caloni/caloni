@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-04-21'
 tags:
 - draft
+- series
 title: Dirk Gently's Holistic Detective Agency - Primeira Temporada
 ---
 

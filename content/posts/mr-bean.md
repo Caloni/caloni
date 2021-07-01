@@ -1,7 +1,9 @@
 ---
 categories:
-- series
+- reviews
 date: '2020-09-29'
+tags:
+- series
 title: Mr. Bean
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- food
+- reviews
 date: '2017-03-28'
+tags:
+- food
 title: Excelência Mineira Botelhos MG
 ---
 

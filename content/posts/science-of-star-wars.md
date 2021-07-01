@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-03-05'
 tags:
 - draft
+- series
 title: Science of Star Wars - Primeira Temporada, Episódio 1
 ---
 

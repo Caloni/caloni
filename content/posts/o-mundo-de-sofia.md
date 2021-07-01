@@ -1,9 +1,10 @@
 ---
 categories:
-- books
+- reviews
 date: '2016-11-03'
 tags:
 - draft
+- books
 title: O Mundo de Sofia
 ---
 

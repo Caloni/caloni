@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-03-08'
 tags:
 - draft
+- series
 title: 'Abstract: The Art of Design'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2016-06-01'
 tags:
 - beer
+- food
 title: Ipaipim
 ---
 

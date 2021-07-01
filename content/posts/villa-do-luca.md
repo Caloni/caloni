@@ -1,9 +1,10 @@
 ---
 categories:
-- food
+- reviews
 date: '2021-01-07'
 tags:
 - wine
+- food
 title: Villa do Luca
 ---
 

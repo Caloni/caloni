@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2018-08-06'
 tags:
 - draft
+- series
 title: Merlí
 ---
 

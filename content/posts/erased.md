@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-12-27'
 tags:
 - draft
+- series
 title: 'Erased: Piloto'
 ---
 

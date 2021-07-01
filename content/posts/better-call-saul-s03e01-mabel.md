@@ -1,9 +1,10 @@
 ---
 categories:
-- series
+- reviews
 date: '2017-04-16'
 tags:
 - draft
+- series
 title: 'Better Call Saul - Terceira Temporada, Episódio 1: Mabel'
 ---
 

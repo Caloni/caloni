@@ -1,9 +1,10 @@
 ---
 categories:
-- animes
+- reviews
 date: '2021-06-12'
 tags:
 - draft
+- animes
 title: My Wife Is the Student Council President!
 ---
 
