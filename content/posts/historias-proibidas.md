@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-06-22'
+tags:
+- movies
 title: Histórias Proibidas
 ---
 

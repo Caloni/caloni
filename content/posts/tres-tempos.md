@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-04-11'
+tags:
+- movies
 title: Três Tempos
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-10'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Renascimento do Parto 2
 ---
 

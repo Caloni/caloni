@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-07-20'
+tags:
+- movies
 title: A Espuma dos Dias
 ---
 

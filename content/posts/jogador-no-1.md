@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-04-11'
 tags:
 - draft
+- movies
 title: Jogador No. 1
 ---
 

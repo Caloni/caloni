@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-21'
+tags:
+- movies
 title: Moonrise Kingdom
 ---
 

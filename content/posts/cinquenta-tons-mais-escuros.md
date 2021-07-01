@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-02-16'
 tags:
 - draft
+- movies
 title: Cinquenta Tons Mais Escuros
 ---
 

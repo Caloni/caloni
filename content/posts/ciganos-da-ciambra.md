@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-04-20'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Ciganos da Ciambra
 ---
 

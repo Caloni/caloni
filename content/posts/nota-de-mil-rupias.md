@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-04-16'
 tags:
 - draft
+- movies
 title: Nota de 1000 Rúpias
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-05-29'
+tags:
+- movies
 title: 'Star Wars, Episódio II: Ataque dos Clones'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-03-19'
 tags:
 - cinemaqui
+- movies
 title: Mais Forte Que Bombas
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-03'
-tags: null
+tags:
+- movies
 title: Para Maiores
 ---
 

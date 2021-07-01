@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-04-17'
+tags:
+- movies
 title: As Crônicas de Spiderwick
 ---
 

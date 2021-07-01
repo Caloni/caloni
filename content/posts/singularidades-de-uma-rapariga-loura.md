@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-05-29'
+tags:
+- movies
 title: Singularidades de uma Rapariga Loura
 ---
 

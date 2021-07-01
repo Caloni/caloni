@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-04-02'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Uma Temporada na França
 ---
 

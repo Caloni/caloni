@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-08-20'
+tags:
+- movies
 title: O Último Mestre do Ar
 ---
 

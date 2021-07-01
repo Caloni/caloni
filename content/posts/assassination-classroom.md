@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-12-28'
-tags: null
+tags:
+- movies
 title: Assassination Classroom (Ansatsu kyôshitsu)
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-10-02'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Entre Irmãs
 ---
 

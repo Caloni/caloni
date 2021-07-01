@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-04-09'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Todo Clichê do Amor
 ---
 

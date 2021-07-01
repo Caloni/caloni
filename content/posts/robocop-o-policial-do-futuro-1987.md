@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-09-27'
+tags:
+- movies
 title: 'RoboCop: O Policial do Futuro'
 ---
 

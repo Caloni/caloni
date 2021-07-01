@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-02-19'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Doce Entardecer na Toscana
 ---
 

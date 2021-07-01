@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-05-20'
+tags:
+- movies
 title: Manhattan
 ---
 

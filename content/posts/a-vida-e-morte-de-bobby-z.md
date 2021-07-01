@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-01'
+tags:
+- movies
 title: A Vida e a Morte De Bobby Z
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-11-06'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Outro Lado da Esperanca
 ---
 

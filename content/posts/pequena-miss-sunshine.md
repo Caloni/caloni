@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-01-22'
 tags:
 - draft
+- movies
 title: Pequena Miss Sunshine
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-01-09'
+tags:
+- movies
 title: 'Missão: Impossível - Protocolo Fantasma'
 ---
 

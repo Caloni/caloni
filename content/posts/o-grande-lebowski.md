@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-02-07'
+tags:
+- movies
 title: O Grande Lebowski
 ---
 

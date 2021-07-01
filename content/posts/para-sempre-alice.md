@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-02-14'
 tags:
 - cinemaqui
+- movies
 title: Para Sempre Alice
 ---
 

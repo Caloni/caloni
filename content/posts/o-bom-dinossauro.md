@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-02-09'
-tags: null
+tags:
+- movies
 title: O Bom Dinossauro
 ---
 

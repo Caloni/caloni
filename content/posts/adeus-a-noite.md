@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-31'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Adeus à Noite
 ---
 

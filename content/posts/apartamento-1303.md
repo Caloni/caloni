@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-12-26'
+tags:
+- movies
 title: Apartamento 1303
 ---
 

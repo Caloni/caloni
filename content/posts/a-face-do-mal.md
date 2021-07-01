@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-06-15'
+tags:
+- movies
 title: A Face do Mal
 ---
 

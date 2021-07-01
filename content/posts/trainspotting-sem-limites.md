@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-05-21'
+tags:
+- movies
 title: 'Trainspotting: Sem Limites'
 ---
 

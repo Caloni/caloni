@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-06-12'
+tags:
+- movies
 title: Armações do Amor
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-12-11'
 tags:
 - draft
+- movies
 title: Assassinato no Expresso do Oriente
 ---
 

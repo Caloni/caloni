@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-10-03'
+tags:
+- movies
 title: Ted
 ---
 

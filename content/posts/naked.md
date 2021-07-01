@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-08-14'
 tags:
 - draft
+- movies
 title: Naked
 ---
 

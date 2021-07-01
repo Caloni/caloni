@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-12-09'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Poder e o Impossível
 ---
 

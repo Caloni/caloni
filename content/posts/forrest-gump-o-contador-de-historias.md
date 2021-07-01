@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-01-12'
 tags:
 - draft
+- movies
 title: 'Forrest Gump: o Contador De Histórias'
 ---
 

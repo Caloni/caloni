@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-02-28'
+tags:
+- movies
 title: Cinquenta Tons de Cinza
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-09-21'
+tags:
+- movies
 title: Lances Inocentes
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-04'
 tags:
 - cinemaqui
+- movies
 title: 'Carga Explosiva: o Legado'
 ---
 

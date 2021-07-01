@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-11-06'
+tags:
+- movies
 title: A Fortuna de Ned
 ---
 

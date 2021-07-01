@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-06-09'
+tags:
+- movies
 title: Almas à venda
 ---
 

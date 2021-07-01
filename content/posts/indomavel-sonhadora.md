@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-03-05'
+tags:
+- movies
 title: Indomável Sonhadora
 ---
 

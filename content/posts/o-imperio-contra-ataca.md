@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-12-31'
+tags:
+- movies
 title: 'Star Wars, Episódio V: O Império Contra-Ataca'
 ---
 

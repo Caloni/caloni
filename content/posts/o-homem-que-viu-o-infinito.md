@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-12-21'
 tags:
 - draft
+- movies
 title: O Homem que viu o Infinito
 ---
 

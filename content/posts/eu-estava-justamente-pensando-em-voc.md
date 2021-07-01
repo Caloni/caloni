@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-10-09'
 tags:
 - cinemaqui
+- movies
 title: Eu Estava Justamente Pensando em Você
 ---
 

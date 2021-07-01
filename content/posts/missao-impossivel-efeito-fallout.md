@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-07-24'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 'Missão Impossível: Efeito Fallout'
 ---
 

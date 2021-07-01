@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-02-12'
 tags:
 - draft
+- movies
 title: 'LEGO Batman: O Filme'
 ---
 

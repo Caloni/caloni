@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-09-06'
+tags:
+- movies
 title: Houve uma Vez Dois Verões
 ---
 

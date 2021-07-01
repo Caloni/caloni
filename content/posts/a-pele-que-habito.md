@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-11-18'
+tags:
+- movies
 title: A Pele que Habito
 ---
 

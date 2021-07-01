@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-12-05'
-tags: null
+tags:
+- movies
 title: Os Excêntricos Tenenbaums
 ---
 

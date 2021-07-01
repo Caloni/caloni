@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-12-10'
+tags:
+- movies
 title: Aliens 3
 ---
 

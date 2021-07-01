@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-10-11'
+tags:
+- movies
 title: Copacabana
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-05-26'
+tags:
+- movies
 title: 'X-Men: Dias de um Futuro Esquecido'
 ---
 

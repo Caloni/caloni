@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-08-16'
-tags: null
+tags:
+- movies
 title: 'Hardcore: Missão Extrema'
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-04-06'
+tags:
+- movies
 title: Oblivion
 ---
 

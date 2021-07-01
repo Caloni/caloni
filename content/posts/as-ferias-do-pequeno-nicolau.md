@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-18'
 tags:
 - cinemaqui
+- movies
 title: As Férias do Pequeno Nicolau
 ---
 

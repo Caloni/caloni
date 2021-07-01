@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-02'
 tags:
 - draft
+- movies
 title: Uma Noite de 12 Anos
 ---
 

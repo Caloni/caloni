@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-07-31'
+tags:
+- movies
 title: Meia-Noite em Paris
 ---
 

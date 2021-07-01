@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-12-09'
 tags:
 - draft
+- movies
 title: A Última Noite de Bóris Grushenko
 ---
 

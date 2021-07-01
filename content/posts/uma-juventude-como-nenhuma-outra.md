@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-01-06'
 tags:
 - draft
+- movies
 title: Uma Juventude Como Nenhuma Outra
 ---
 

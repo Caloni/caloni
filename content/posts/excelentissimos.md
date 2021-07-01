@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-11-15'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Excelentíssimos
 ---
 

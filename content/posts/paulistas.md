@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-02-10'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Paulistas
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-10-28'
 tags:
 - cinemaqui
+- movies
 title: Em Meus Sonhos
 ---
 

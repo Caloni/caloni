@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-11-13'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Segredo De Davi
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-03-08'
+tags:
+- movies
 title: O Exorcismo de Emily Rose
 ---
 

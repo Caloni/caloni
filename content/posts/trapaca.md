@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-02-13'
+tags:
+- movies
 title: Trapaça
 ---
 

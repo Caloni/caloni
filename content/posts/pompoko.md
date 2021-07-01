@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-04-05'
+tags:
+- movies
 title: 'PomPoko: A Grande Batalha dos Guaxinins'
 ---
 

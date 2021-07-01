@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-07-03'
+tags:
+- movies
 title: Enquanto Somos Jovens
 ---
 

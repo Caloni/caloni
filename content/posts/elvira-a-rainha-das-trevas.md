@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-11-08'
+tags:
+- movies
 title: Elvira, a Rainha das Trevas
 ---
 

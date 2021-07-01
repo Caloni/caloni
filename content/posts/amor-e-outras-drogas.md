@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-02-05'
+tags:
+- movies
 title: Amor e Outras Drogas
 ---
 

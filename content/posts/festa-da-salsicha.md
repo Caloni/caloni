@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-06-02'
 tags:
 - draft
+- movies
 title: Festa da Salsicha
 ---
 

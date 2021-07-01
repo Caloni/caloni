@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-07-12'
+tags:
+- movies
 title: Operação Presente
 ---
 

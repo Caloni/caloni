@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-11-28'
+tags:
+- movies
 title: Speed Racer
 ---
 

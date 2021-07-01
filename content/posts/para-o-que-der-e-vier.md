@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-07-28'
 tags:
 - draft
+- movies
 title: Para o Que Der e Vier
 ---
 

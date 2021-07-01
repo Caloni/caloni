@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-15'
 tags:
 - cinemaqui
+- movies
 title: Antes de Dormir
 ---
 

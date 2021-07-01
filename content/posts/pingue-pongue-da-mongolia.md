@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-17'
 tags:
 - draft
+- movies
 title: Pingue-Pongue da Mongólia
 ---
 

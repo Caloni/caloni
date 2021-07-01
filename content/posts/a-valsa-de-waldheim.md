@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-21'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Valsa de Waldheim
 ---
 

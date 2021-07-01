@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-08-02'
+tags:
+- movies
 title: Minha Vida de Cachorro
 ---
 

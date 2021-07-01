@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-10-18'
+tags:
+- movies
 title: Barry Lyndon
 ---
 

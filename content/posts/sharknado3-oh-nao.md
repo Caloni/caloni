@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-03-18'
 tags:
 - draft
+- movies
 title: Sharknado 3
 ---
 

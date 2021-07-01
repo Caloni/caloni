@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-23'
 tags:
 - draft
+- movies
 title: Era Uma Vez em... Hollywood
 ---
 

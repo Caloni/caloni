@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-06-13'
+tags:
+- movies
 title: 'Madagascar 3: Os Procurados'
 ---
 

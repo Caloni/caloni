@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-06-19'
 tags:
 - draft
+- movies
 title: 'Blade Runner: O Caçador de Androides'
 ---
 

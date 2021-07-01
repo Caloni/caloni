@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-01-13'
 tags:
 - draft
+- movies
 title: Pacto de Silêncio
 ---
 

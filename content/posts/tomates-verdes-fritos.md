@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-02-10'
 tags:
 - draft
+- movies
 title: Tomates Verdes Fritos
 ---
 

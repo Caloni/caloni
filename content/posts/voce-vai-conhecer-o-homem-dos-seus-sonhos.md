@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-11-26'
+tags:
+- movies
 title: Você Vai Conhecer o Homem dos Seus Sonhos
 ---
 

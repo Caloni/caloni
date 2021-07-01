@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-11-03'
+tags:
+- movies
 title: Shocking Blue
 ---
 

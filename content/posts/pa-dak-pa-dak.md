@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-10-23'
+tags:
+- movies
 title: Pa-dak pa-dak
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-08-12'
+tags:
+- movies
 title: 'Superman: O Filme'
 ---
 

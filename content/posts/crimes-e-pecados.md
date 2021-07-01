@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-10-04'
+tags:
+- movies
 title: Crimes e Pecados
 ---
 

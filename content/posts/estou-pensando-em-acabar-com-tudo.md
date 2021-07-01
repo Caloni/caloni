@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-09-18'
+tags:
+- movies
 title: Estou Pensando em Acabar com Tudo
 ---
 

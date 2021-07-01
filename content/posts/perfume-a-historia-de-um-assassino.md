@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-01-31'
+tags:
+- movies
 title: 'Perfume: A História de um Assassino'
 ---
 

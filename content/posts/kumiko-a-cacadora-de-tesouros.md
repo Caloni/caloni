@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-21'
+tags:
+- movies
 title: Kumiko, a Caçadora de Tesouros
 ---
 

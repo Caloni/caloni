@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-12-13'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Eu Fico Loko
 ---
 

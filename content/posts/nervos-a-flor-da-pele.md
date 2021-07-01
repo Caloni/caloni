@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-10-24'
+tags:
+- movies
 title: Nervos à Flor da Pele
 ---
 

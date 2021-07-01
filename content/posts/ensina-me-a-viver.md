@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-11-27'
+tags:
+- movies
 title: Ensina-me a Viver
 ---
 

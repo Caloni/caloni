@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-12-02'
-tags: null
+tags:
+- movies
 title: Eleição
 ---
 

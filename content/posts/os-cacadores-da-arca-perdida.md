@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-16'
-tags: null
+tags:
+- movies
 title: Os Caçadores da Arca Perdida
 ---
 

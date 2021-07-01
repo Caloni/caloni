@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-02-17'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Passageiro
 ---
 

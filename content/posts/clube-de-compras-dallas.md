@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-11-30'
-tags: null
+tags:
+- movies
 title: Clube de Compras Dallas
 ---
 

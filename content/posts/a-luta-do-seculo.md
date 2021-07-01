@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-29'
 tags:
 - draft
+- movies
 title: A Luta do Século
 ---
 

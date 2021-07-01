@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-12'
+tags:
+- movies
 title: 'Atividade Paranormal: Marcados pelo Mal'
 ---
 

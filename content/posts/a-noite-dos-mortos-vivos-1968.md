@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-05-07'
+tags:
+- movies
 title: A Noite dos Mortos-Vivos
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-14'
-tags: null
+tags:
+- movies
 title: 'Mais Forte que o Mundo: A História de José Aldo'
 ---
 

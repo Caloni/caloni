@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-04-05'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Além das Palavras
 ---
 

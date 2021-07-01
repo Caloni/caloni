@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-09-04'
 tags:
 - draft
+- movies
 title: Dor e Glória
 ---
 

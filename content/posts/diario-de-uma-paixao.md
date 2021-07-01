@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-03-15'
+tags:
+- movies
 title: Diário de uma Paixão
 ---
 

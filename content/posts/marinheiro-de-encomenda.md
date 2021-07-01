@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-06'
+tags:
+- movies
 title: Marinheiro de Encomenda
 ---
 

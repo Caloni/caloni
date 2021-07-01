@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-11-07'
 tags:
 - cinemaqui
+- movies
 title: Berlin Alexanderplatz
 ---
 

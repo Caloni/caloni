@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-03-08'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Disforia
 ---
 

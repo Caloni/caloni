@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-10-01'
 tags:
 - cinemaqui
+- movies
 title: A Possessão do Mal
 ---
 

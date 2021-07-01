@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-07-19'
+tags:
+- movies
 title: Tinha Que Ser Você
 ---
 

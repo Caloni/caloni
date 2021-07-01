@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-03-30'
+tags:
+- movies
 title: Os Irmãos Cara de Pau
 ---
 

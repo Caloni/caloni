@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-07-23'
+tags:
+- movies
 title: As Bicicletas de Belleville
 ---
 

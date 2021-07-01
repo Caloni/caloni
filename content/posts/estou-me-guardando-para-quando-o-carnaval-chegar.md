@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-07-09'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Estou Me Guardando Para Quando O Carnaval Chegar
 ---
 

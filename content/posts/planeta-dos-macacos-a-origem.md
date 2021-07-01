@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-08-31'
+tags:
+- movies
 title: 'Planeta dos Macacos: A Origem'
 ---
 

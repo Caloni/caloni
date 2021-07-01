@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-13'
+tags:
+- movies
 title: Separados pelo Casamento
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-22'
 tags:
 - cinemaqui
+- movies
 title: Casadentro
 ---
 

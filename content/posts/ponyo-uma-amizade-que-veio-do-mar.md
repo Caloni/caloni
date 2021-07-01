@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-06-30'
+tags:
+- movies
 title: 'Ponyo: Uma Amizade que Veio do Mar'
 ---
 

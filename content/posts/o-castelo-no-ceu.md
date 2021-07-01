@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-24'
+tags:
+- movies
 title: O Castelo no Céu
 ---
 

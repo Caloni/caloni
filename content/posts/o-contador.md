@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-28'
-tags: null
+tags:
+- movies
 title: O Contador
 ---
 

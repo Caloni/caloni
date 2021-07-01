@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-06-21'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Garota Ocidental - Entre o Coração e a Tradição
 ---
 

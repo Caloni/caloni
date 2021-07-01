@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-17'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Século da Fumaça
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-11-27'
 tags:
 - draft
+- movies
 title: Divines
 ---
 

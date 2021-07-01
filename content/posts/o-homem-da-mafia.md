@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-12-12'
+tags:
+- movies
 title: O Homem da Máfia
 ---
 

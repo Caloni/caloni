@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-04'
+tags:
+- movies
 title: Ernest and Célestine
 ---
 

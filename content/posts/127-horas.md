@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-02-23'
+tags:
+- movies
 title: 127 Horas
 ---
 

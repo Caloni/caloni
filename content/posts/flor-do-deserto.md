@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-06-25'
+tags:
+- movies
 title: Flor do Deserto
 ---
 

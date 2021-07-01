@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-03-02'
+tags:
+- movies
 title: El Santos vs la Tetona Mendoza
 ---
 

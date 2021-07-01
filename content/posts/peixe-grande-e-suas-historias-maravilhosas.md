@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-12-30'
+tags:
+- movies
 title: Peixe Grande e Suas Histórias Maravilhosas
 ---
 

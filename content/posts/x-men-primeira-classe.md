@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-06-07'
+tags:
+- movies
 title: 'X-Men: Primeira Classe'
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-11-02'
+tags:
+- movies
 title: A Morte lhe Cai Bem
 ---
 

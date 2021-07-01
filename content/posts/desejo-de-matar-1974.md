@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-22'
 tags:
 - draft
+- movies
 title: Desejo de Matar (1974)
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-10'
 tags:
 - draft
+- movies
 title: Exterminadores do Além Contra a Loira Do Banheiro
 ---
 

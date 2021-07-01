@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-03-06'
+tags:
+- movies
 title: 'Poltergeist: O Fenômeno'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-11-01'
 tags:
 - cinemaqui
+- movies
 title: Feels Good Man
 ---
 

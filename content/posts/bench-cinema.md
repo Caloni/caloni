@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-26'
-tags: null
+tags:
+- movies
 title: Bench Cinema
 ---
 

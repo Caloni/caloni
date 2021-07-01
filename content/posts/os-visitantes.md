@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-11-01'
+tags:
+- movies
 title: Os Visitantes
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-09-26'
 tags:
 - cinemaqui
+- movies
 title: Adú
 ---
 

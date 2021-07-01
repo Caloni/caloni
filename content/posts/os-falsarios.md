@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-09-12'
 tags:
 - draft
+- movies
 title: Os Falsários
 ---
 

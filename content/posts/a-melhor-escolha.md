@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-01-18'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Melhor Escolha
 ---
 

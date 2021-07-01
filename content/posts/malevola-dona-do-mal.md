@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-10'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 'Malévola: Dona do Mal'
 ---
 

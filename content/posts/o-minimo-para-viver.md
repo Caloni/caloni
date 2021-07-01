@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-08-06'
 tags:
 - draft
+- movies
 title: O Mínimo Para Viver
 ---
 

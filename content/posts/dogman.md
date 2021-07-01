@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-02-07'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Dogman
 ---
 

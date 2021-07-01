@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-09-19'
+tags:
+- movies
 title: Superman II - The Richard Donner Cut
 ---
 

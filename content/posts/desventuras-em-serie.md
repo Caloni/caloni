@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-11-29'
-tags: null
+tags:
+- movies
 title: Desventuras em Série
 ---
 

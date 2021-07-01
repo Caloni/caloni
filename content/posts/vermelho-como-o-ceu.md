@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-05-10'
+tags:
+- movies
 title: Vermelho Como o Céu
 ---
 

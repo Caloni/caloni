@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-06-05'
 tags:
 - draft
 - cinemaqui
+- movies
 title: Acqua Movie
 ---
 

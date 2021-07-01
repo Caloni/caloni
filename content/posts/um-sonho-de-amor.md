@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-12-25'
+tags:
+- movies
 title: Um Sonho de Amor
 ---
 

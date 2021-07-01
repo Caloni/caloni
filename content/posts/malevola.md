@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-06-11'
 tags:
 - cinemaqui
+- movies
 title: Malévola
 ---
 

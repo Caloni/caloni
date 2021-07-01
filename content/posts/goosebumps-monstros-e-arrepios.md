@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-10-21'
 tags:
 - cinemaqui
+- movies
 title: 'Goosebumps: Monstros e Arrepios'
 ---
 

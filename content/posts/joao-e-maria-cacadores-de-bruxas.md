@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-01-28'
+tags:
+- movies
 title: 'João e Maria: Caçadores de Bruxas'
 ---
 

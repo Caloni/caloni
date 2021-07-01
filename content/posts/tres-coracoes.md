@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-16'
 tags:
 - cinemaqui
+- movies
 title: Três Corações
 ---
 

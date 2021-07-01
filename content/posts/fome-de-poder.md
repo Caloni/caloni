@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-05-28'
 tags:
 - draft
+- movies
 title: Fome de Poder
 ---
 

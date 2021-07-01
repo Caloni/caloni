@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-02-20'
 tags:
 - draft
+- movies
 title: 'Viva: A Vida é uma Festa'
 ---
 

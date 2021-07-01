@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-07-02'
+tags:
+- movies
 title: Amor Impossível
 ---
 

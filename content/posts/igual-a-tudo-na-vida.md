@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-11-02'
+tags:
+- movies
 title: Igual a Tudo na Vida
 ---
 

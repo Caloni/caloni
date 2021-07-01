@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-10'
 tags:
 - cinemaqui
+- movies
 title: Beijei uma Garota
 ---
 

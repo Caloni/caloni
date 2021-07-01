@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-24'
 tags:
 - draft
+- movies
 title: Amor à Flor da Pele
 ---
 

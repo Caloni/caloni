@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-03-01'
 tags:
 - draft
+- movies
 title: Beleza Oculta
 ---
 

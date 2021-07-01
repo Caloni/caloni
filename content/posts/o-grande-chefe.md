@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-30'
+tags:
+- movies
 title: O Grande Chefe
 ---
 

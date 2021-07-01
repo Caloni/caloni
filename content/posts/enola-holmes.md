@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-11-14'
+tags:
+- movies
 title: 'Enola Holmes e o único teste que ela passa: Bechdel'
 ---
 

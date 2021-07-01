@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-15'
+tags:
+- movies
 title: 'Planeta dos Macacos: O Confronto'
 ---
 

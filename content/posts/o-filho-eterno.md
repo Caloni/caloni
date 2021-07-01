@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-11-22'
 tags:
 - cinemaqui
+- movies
 title: O Filho Eterno
 ---
 

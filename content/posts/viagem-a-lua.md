@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-09-01'
+tags:
+- movies
 title: Viagem à Lua
 ---
 

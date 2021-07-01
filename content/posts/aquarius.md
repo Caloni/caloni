@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-01-13'
 tags:
 - draft
+- movies
 title: Aquarius
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-02-26'
+tags:
+- movies
 title: A Outra História Americana
 ---
 

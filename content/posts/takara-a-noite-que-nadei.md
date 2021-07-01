@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-16'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 'Takara: A Noite que Nadei'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-04-14'
 tags:
 - cinemaqui
+- movies
 title: A Garota de Fogo
 ---
 

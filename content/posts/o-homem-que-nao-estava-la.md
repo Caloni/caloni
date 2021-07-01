@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-04-15'
+tags:
+- movies
 title: O Homem que Não Estava Lá
 ---
 

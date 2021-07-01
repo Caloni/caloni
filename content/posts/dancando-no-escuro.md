@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-05-01'
 tags:
 - draft
+- movies
 title: Dançando No Escuro
 ---
 

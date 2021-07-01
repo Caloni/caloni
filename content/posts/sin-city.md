@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-09'
-tags: null
+tags:
+- movies
 title: 'Sin City: A Cidade do Pecado'
 ---
 

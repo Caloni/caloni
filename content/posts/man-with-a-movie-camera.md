@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-21'
+tags:
+- movies
 title: Um Homem com uma Câmera
 ---
 

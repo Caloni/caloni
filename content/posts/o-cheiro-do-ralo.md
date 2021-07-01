@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-05-31'
+tags:
+- movies
 title: O Cheiro do Ralo
 ---
 

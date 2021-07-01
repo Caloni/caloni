@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-26'
+tags:
+- movies
 title: Querida, Encolhi a Gente
 ---
 

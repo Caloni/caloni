@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-02-26'
 tags:
 - draft
+- movies
 title: O Destino de uma Nação
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-04-22'
-tags: null
+tags:
+- movies
 title: Uma Noite Fora de Série
 ---
 

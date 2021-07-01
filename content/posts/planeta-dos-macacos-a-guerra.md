@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-11-19'
 tags:
 - draft
+- movies
 title: 'Planeta dos Macacos: A Guerra'
 ---
 

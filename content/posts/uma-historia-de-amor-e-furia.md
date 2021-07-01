@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-04-11'
+tags:
+- movies
 title: Uma História de Amor e Fúria
 ---
 

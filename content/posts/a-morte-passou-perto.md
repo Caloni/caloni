@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-10-19'
+tags:
+- movies
 title: A Morte Passou Perto
 ---
 

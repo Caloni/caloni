@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-08-26'
+tags:
+- movies
 title: Flores Raras
 ---
 

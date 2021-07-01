@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-06-06'
-tags: null
+tags:
+- movies
 title: 'Ninfomaníaca: Volume 2'
 ---
 

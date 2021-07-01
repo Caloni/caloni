@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-09-05'
+tags:
+- movies
 title: O Rei Leão
 ---
 

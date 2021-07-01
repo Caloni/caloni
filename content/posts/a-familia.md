@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-10-04'
+tags:
+- movies
 title: A Família
 ---
 

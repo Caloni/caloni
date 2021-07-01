@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-08-04'
+tags:
+- movies
 title: O Espetacular Homem-Aranha
 ---
 

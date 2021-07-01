@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-11-22'
+tags:
+- movies
 title: 'Jogos Vorazes: A Esperança - O Final'
 ---
 

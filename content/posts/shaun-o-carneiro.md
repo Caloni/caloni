@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-01'
+tags:
+- movies
 title: 'Shaun, o Carneiro: O Filme'
 ---
 

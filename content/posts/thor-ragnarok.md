@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-10-25'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Thor Ragnarök
 ---
 

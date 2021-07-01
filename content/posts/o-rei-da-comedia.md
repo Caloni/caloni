@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-20'
-tags: null
+tags:
+- movies
 title: O Rei da Comédia
 ---
 

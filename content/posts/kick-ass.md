@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-06-18'
+tags:
+- movies
 title: Kick-Ass Quebrando Tudo
 ---
 

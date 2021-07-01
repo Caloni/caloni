@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-06-27'
+tags:
+- movies
 title: O Amigo da Minha Amiga
 ---
 

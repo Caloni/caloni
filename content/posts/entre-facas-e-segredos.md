@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-08-29'
+tags:
+- movies
 title: Entre Facas e Segredos
 ---
 

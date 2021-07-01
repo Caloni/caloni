@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-07-20'
 tags:
 - cinemaqui
+- movies
 title: Desperados
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-07-19'
 tags:
 - draft
+- movies
 title: A Era da Inocência
 ---
 

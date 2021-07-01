@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-03-28'
+tags:
+- movies
 title: Das Tripas Coração
 ---
 

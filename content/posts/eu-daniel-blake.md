@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-12-20'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Eu, Daniel Blake
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-06-01'
+tags:
+- movies
 title: 'Piratas do Caribe: Navegando em Águas Misteriosas'
 ---
 

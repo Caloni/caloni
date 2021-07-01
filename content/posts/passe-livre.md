@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-03-22'
+tags:
+- movies
 title: Passe Livre
 ---
 

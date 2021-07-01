@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-10-21'
 tags:
 - draft
+- movies
 title: O Diabo Veste Prada
 ---
 

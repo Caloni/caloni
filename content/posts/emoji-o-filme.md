@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-11-23'
 tags:
 - draft
+- movies
 title: 'Emoji: O Filme'
 ---
 

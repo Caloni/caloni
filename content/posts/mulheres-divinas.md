@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-12-03'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Mulheres Divinas
 ---
 

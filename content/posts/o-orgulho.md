@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-07-05'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Orgulho
 ---
 

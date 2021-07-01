@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-07'
+tags:
+- movies
 title: Amaldiçoado
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-08'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Azougue Nazaré
 ---
 

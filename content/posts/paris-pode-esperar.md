@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-05-31'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Paris Pode Esperar
 ---
 

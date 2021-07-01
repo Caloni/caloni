@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-07-21'
+tags:
+- movies
 title: A Era do Gelo 4
 ---
 

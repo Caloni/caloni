@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-10-09'
+tags:
+- movies
 title: 'Looper: Assassinos do Futuro'
 ---
 

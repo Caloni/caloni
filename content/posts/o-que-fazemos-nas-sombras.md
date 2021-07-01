@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-07'
 tags:
 - draft
+- movies
 title: O Que Fazemos nas Sombras
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-08-11'
+tags:
+- movies
 title: A Maldição do Demônio
 ---
 

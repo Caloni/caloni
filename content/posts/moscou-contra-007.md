@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-11-11'
+tags:
+- movies
 title: Moscou Contra 007
 ---
 

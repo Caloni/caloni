@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-10-22'
+tags:
+- movies
 title: Despedida em Las Vegas
 ---
 

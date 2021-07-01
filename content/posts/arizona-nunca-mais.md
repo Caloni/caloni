@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-02-06'
 tags:
 - draft
+- movies
 title: Arizona Nunca Mais
 ---
 

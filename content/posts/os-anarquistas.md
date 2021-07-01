@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-05-14'
 tags:
 - cinemaqui
+- movies
 title: Os Anarquistas
 ---
 

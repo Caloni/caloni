@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-11-13'
+tags:
+- movies
 title: Alice no País das Maravilhas (1951)
 ---
 

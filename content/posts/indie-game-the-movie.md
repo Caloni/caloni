@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-06-17'
+tags:
+- movies
 title: 'Indie Game: The Movie'
 ---
 

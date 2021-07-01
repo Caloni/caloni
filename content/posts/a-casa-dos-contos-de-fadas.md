@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-01-30'
-tags: null
+tags:
+- movies
 title: A Casa dos Contos de Fadas
 ---
 

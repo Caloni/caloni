@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-11-06'
 tags:
 - draft
+- movies
 title: 'Pica Pau: o Filme'
 ---
 

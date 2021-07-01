@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-10-29'
+tags:
+- movies
 title: A Suprema Felicidade
 ---
 

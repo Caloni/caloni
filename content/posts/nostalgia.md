@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-03-14'
 tags:
 - draft
+- movies
 title: Nostalgia
 ---
 

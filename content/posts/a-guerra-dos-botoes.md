@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-01-25'
 tags:
 - draft
+- movies
 title: A Guerra dos Botões
 ---
 

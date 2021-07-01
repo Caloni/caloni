@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-12-23'
-tags: null
+tags:
+- movies
 title: Tese Sobre um Homicídio
 ---
 

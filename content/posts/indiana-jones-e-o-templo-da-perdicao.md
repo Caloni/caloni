@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-23'
-tags: null
+tags:
+- movies
 title: Indiana Jones e o Templo da Perdição
 ---
 

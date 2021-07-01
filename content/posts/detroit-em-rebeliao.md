@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-09-27'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Detroit em Rebelião
 ---
 

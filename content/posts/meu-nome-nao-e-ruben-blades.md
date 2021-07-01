@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-04-15'
 tags:
 - draft
+- movies
 title: Meu Nome Não é Ruben Blades
 ---
 

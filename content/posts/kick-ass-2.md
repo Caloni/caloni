@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-10'
+tags:
+- movies
 title: Kick Ass 2
 ---
 

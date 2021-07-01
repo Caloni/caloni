@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-11-01'
+tags:
+- movies
 title: Cirkus Columbia
 ---
 

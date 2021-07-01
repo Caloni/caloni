@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-02'
+tags:
+- movies
 title: 'Jackass Apresenta: Vovô Sem Vergonha'
 ---
 

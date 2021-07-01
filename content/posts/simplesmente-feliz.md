@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-02-20'
+tags:
+- movies
 title: Simplesmente Feliz
 ---
 

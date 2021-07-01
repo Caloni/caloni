@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-03-25'
+tags:
+- movies
 title: '300: A Ascensão do Império'
 ---
 

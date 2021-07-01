@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-07-01'
 tags:
 - draft
+- movies
 title: Chuva de Verão
 ---
 

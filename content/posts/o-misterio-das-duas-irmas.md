@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-05-01'
+tags:
+- movies
 title: O Mistério das Duas Irmãs
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-02-04'
 tags:
 - draft
+- movies
 title: A Chegada
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-07-14'
+tags:
+- movies
 title: Corações de Ferro
 ---
 

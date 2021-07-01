@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-04-04'
+tags:
+- movies
 title: Big Stan Arrebentando na Prisão
 ---
 

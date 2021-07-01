@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-09-20'
+tags:
+- movies
 title: Nacho Libre
 ---
 

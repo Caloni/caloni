@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-04-24'
-tags: null
+tags:
+- movies
 title: Sete Psicopatas e um Shih Tzu
 ---
 

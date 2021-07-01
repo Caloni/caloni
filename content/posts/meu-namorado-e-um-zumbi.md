@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-02-14'
+tags:
+- movies
 title: Meu Namorado é um Zumbi
 ---
 

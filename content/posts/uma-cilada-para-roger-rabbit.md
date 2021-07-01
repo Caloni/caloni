@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-01-19'
-tags: null
+tags:
+- movies
 title: Uma Cilada para Roger Rabbit
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-10-08'
+tags:
+- movies
 title: O Filme dos Espíritos
 ---
 

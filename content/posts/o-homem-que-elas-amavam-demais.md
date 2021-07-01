@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-05-21'
 tags:
 - cinemaqui
+- movies
 title: O Homem Que Elas Amavam Demais
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-04-09'
+tags:
+- movies
 title: Tá Rindo do Que?
 ---
 

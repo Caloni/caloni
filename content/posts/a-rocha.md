@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-09-29'
 tags:
 - draft
+- movies
 title: A Rocha
 ---
 

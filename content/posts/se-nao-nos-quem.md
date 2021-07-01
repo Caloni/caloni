@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-11-17'
+tags:
+- movies
 title: Se Não Nós, Quem?
 ---
 

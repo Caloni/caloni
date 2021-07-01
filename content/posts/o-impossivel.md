@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-01-07'
+tags:
+- movies
 title: O Impossível
 ---
 

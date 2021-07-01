@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-04-28'
+tags:
+- movies
 title: Os Vingadores - The Avengers
 ---
 

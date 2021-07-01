@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-09-23'
+tags:
+- movies
 title: World War Z
 ---
 

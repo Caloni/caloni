@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-04-22'
+tags:
+- movies
 title: Os Incompreendidos
 ---
 

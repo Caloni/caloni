@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-04-23'
+tags:
+- movies
 title: Alice no País das Maravilhas
 ---
 

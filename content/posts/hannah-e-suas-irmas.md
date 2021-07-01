@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-14'
 tags:
 - draft
+- movies
 title: Hannah e Suas Irmãs
 ---
 

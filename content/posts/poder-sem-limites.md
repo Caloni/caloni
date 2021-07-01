@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-03-14'
+tags:
+- movies
 title: Poder sem Limites
 ---
 

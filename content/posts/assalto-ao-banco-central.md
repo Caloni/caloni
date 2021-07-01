@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-08-23'
+tags:
+- movies
 title: Assalto ao Banco Central
 ---
 

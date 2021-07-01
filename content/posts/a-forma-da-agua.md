@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-04-20'
 tags:
 - draft
+- movies
 title: A Forma da Água
 ---
 

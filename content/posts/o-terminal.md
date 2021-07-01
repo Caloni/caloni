@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-02-22'
 tags:
 - draft
+- movies
 title: O Terminal
 ---
 

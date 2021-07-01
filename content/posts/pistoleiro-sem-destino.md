@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-21'
+tags:
+- movies
 title: Pistoleiro Sem Destino
 ---
 

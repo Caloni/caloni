@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-07-16'
+tags:
+- movies
 title: À Prova de Morte
 ---
 

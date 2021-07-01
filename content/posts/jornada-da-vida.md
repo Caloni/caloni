@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-07-02'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Jornada da Vida
 ---
 

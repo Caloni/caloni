@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-03-04'
+tags:
+- movies
 title: Leur morale... et la nôtre
 ---
 

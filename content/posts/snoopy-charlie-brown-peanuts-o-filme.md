@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-01-17'
-tags: null
+tags:
+- movies
 title: 'Snoopy & Charlie Brown: Peanuts, o Filme'
 ---
 

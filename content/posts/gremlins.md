@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-11-27'
+tags:
+- movies
 title: Gremlins
 ---
 

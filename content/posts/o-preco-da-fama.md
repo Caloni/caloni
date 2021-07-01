@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-24'
 tags:
 - cinemaqui
+- movies
 title: O Preço da Fama
 ---
 

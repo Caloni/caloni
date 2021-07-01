@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-05-11'
 tags:
 - cinemaqui
+- movies
 title: Super Velozes, Mega Furiosos
 ---
 

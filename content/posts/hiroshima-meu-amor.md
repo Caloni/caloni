@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-09'
+tags:
+- movies
 title: Hiroshima Meu Amor
 ---
 

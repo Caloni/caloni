@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-02-05'
+tags:
+- movies
 title: Django Livre
 ---
 

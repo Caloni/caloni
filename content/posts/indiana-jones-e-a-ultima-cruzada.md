@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-11-03'
-tags: null
+tags:
+- movies
 title: Indiana Jones e a Última Cruzada
 ---
 

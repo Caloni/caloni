@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-06-28'
 tags:
 - draft
+- movies
 title: O Plano Imperfeito
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-01-24'
+tags:
+- movies
 title: Celebridades
 ---
 

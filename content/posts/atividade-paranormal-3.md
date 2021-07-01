@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-11-24'
+tags:
+- movies
 title: Atividade Paranormal 3
 ---
 

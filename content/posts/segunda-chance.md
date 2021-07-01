@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-05-10'
 tags:
 - cinemaqui
+- movies
 title: Segunda Chance
 ---
 

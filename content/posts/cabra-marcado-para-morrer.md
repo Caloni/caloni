@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-09-20'
+tags:
+- movies
 title: Cabra Marcado Para Morrer
 ---
 

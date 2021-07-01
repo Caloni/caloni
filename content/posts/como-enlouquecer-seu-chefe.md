@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-08-22'
+tags:
+- movies
 title: Como Enlouquecer seu Chefe
 ---
 

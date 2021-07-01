@@ -1,11 +1,12 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-02-21'
 external: 'true'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Operação Red Sparrow
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-09-13'
+tags:
+- movies
 title: 'Superman II: A Aventura Continua'
 ---
 

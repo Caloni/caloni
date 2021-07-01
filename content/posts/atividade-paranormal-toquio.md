@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-03-28'
+tags:
+- movies
 title: Atividade Paranormal Tóquio
 ---
 

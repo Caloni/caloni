@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-03-13'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Chão Sob Meus Pés
 ---
 

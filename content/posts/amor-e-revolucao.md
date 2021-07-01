@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-04-23'
 tags:
 - draft
+- movies
 title: Amor e Revoluçao
 ---
 

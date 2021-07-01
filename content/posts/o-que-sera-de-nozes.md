@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-01-01'
 tags:
 - draft
+- movies
 title: O Que Será de Nozes?
 ---
 

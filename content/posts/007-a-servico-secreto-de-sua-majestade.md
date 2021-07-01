@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-02-01'
+tags:
+- movies
 title: 007 - A Serviço Secreto de Sua Majestade
 ---
 

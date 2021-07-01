@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-02-10'
+tags:
+- movies
 title: O Voo
 ---
 

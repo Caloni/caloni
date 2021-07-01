@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-26'
 tags:
 - draft
+- movies
 title: Seguindo o Coração
 ---
 

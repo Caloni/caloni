@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-18'
-tags: null
+tags:
+- movies
 title: A Ponte do Rio Kwai
 ---
 

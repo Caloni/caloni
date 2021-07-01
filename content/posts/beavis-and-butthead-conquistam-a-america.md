@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-11-28'
-tags: null
+tags:
+- movies
 title: Beavis and Butt-head Conquistam a América
 ---
 

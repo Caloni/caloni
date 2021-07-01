@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-11-04'
-tags: null
+tags:
+- movies
 title: Indiana Jones e o Reino da Caveira de Cristal
 ---
 

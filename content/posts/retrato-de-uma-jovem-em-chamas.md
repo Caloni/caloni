@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-11'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Retrato de Uma Jovem em Chamas
 ---
 

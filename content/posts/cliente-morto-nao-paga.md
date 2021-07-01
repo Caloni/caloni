@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-03-27'
+tags:
+- movies
 title: Cliente Morto Não Paga
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-06-29'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Nos Vemos no Paraíso
 ---
 

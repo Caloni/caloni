@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-03-09'
+tags:
+- movies
 title: Lady Snowblood
 ---
 

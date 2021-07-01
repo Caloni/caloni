@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-11-16'
+tags:
+- movies
 title: Antes Só do que Mal Acompanhado
 ---
 

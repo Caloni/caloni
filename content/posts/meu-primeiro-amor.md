@@ -1,8 +1,10 @@
 ---
 categories:
-- movies
 - home
+- reviews
 date: '2017-10-29'
+tags:
+- movies
 title: Meu Primeiro Amor
 ---
 

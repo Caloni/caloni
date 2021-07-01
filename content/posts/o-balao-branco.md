@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-12-06'
 tags:
 - draft
+- movies
 title: O Balão Branco
 ---
 

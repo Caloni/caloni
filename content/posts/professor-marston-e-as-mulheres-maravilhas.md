@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-12-17'
 tags:
 - draft
+- movies
 title: Professor Marston e as Mulheres-Maravilhas
 ---
 

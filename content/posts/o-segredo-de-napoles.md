@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-23'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Segredo de Nápoles
 ---
 

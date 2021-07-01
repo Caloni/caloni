@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-01-14'
+tags:
+- movies
 title: 72 horas
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-11-01'
+tags:
+- movies
 title: Que Mal Eu Fiz a Deus?
 ---
 

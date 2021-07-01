@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-11-08'
+tags:
+- movies
 title: 007 Operação Skyfall
 ---
 

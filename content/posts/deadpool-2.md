@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-19'
 tags:
 - draft
+- movies
 title: Deadpool 2
 ---
 

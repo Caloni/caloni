@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-03-04'
+tags:
+- movies
 title: VIPs
 ---
 

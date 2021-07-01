@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-04-27'
 tags:
 - cinemaqui
+- movies
 title: Maravilhoso Boccaccio
 ---
 

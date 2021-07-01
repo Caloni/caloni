@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-09-11'
+tags:
+- movies
 title: 'Medianeras: Buenos Aires da Era do Amor Virtual'
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-08-25'
+tags:
+- movies
 title: Herói
 ---
 

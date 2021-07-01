@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-07-11'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 50 São os Novos 30
 ---
 

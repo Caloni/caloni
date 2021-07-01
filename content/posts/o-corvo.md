@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-05-24'
+tags:
+- movies
 title: O Corvo
 ---
 

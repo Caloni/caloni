@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-14'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 'O Exterminador do Futuro 2: O Julgamento Final'
 ---
 

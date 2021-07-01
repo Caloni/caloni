@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-08-15'
+tags:
+- movies
 title: Super 8
 ---
 

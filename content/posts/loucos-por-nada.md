@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-03-24'
+tags:
+- movies
 title: Loucos por Nada
 ---
 

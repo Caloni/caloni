@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-05-19'
+tags:
+- movies
 title: Ex Machina
 ---
 

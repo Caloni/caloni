@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-08-08'
+tags:
+- movies
 title: A Lenda dos Guardiões
 ---
 

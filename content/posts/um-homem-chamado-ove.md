@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-02-04'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Um Homem Chamado Ove
 ---
 

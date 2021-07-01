@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-10-31'
+tags:
+- movies
 title: Era Uma Vez no Oeste
 ---
 

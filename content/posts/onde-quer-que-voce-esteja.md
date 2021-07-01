@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-09-25'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Onde Quer Que Você Esteja
 ---
 

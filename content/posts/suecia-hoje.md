@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-10-23'
+tags:
+- movies
 title: Suécia Hoje
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-06'
 tags:
 - cinemaqui
+- movies
 title: Amor e Amizade
 ---
 

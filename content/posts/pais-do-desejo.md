@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-02-04'
+tags:
+- movies
 title: País do Desejo
 ---
 

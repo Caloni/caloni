@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-30'
 tags:
 - cinemaqui
+- movies
 title: Jogada de Mestre
 ---
 

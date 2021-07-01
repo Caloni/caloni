@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-05-27'
+tags:
+- movies
 title: Tempo de Despertar
 ---
 

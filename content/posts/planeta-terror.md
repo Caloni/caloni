@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-27'
+tags:
+- movies
 title: Planeta Terror
 ---
 

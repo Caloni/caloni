@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-05-09'
+tags:
+- movies
 title: Paradise Now
 ---
 

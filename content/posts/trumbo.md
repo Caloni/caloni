@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-02-09'
 tags:
 - cinemaqui
+- movies
 title: Trumbo
 ---
 

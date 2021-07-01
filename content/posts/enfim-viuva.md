@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-09-03'
+tags:
+- movies
 title: Enfim Viúva
 ---
 

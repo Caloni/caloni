@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-07-13'
+tags:
+- movies
 title: O Homem de Aço
 ---
 

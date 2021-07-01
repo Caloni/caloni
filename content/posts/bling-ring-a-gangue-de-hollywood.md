@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-02'
+tags:
+- movies
 title: 'Bling Ring: A Gangue de Hollywood'
 ---
 

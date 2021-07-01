@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-09-28'
+tags:
+- movies
 title: Incêndios
 ---
 

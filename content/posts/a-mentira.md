@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-03-14'
+tags:
+- movies
 title: A Mentira
 ---
 

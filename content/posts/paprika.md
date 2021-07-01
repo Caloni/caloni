@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-03-25'
+tags:
+- movies
 title: Paprika
 ---
 

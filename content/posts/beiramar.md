@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-10-02'
 tags:
 - cinemaqui
+- movies
 title: Beira-Mar
 ---
 

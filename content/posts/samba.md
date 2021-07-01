@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-08'
+tags:
+- movies
 title: Samba
 ---
 

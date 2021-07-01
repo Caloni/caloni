@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-04-27'
+tags:
+- movies
 title: 'Invasão do Mundo: Batalha de Los Angeles'
 ---
 

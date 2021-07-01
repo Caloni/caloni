@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-02'
+tags:
+- movies
 title: 'Elsa & Fred: Um Amor de Paixão (2014)'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-09-17'
 tags:
 - draft
+- movies
 title: Crush à Altura
 ---
 

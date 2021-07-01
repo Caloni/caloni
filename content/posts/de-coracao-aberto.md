@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-03-15'
+tags:
+- movies
 title: De Coração Aberto
 ---
 

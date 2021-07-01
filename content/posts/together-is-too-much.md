@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-02-01'
+tags:
+- movies
 title: Together Is Too Much (aka Ensemble, c'est trop)
 ---
 

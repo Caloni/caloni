@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-01'
+tags:
+- movies
 title: Uma Viagem Extraordinária
 ---
 

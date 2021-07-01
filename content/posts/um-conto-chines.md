@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-07-14'
 tags:
 - draft
+- movies
 title: Um Conto Chinês
 ---
 

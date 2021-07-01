@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-03-14'
+tags:
+- movies
 title: 'Oz: Mágico e Poderoso'
 ---
 

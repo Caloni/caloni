@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-06-20T10:50:00-03:00'
 tags:
 - draft
+- movies
 title: Felizes Juntos
 ---
 

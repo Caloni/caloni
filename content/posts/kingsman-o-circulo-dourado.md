@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-03-05'
 tags:
 - draft
+- movies
 title: 'Kingsman: O Círculo Dourado'
 ---
 

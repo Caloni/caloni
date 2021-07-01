@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-18'
 tags:
 - draft
+- movies
 title: 'Missão Impossível: 3'
 ---
 

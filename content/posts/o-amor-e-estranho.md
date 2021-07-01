@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-06'
 tags:
 - cinemaqui
+- movies
 title: O Amor é Estranho
 ---
 

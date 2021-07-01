@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-09-25'
+tags:
+- movies
 title: Tropa de Elite
 ---
 

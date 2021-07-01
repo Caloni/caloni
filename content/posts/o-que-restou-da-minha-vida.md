@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-21'
-tags: null
+tags:
+- movies
 title: O Que Restou da Minha Vida
 ---
 

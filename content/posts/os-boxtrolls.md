@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-23'
 tags:
 - cinemaqui
+- movies
 title: Os Boxtrolls
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-04-08'
+tags:
+- movies
 title: Vai que dá Certo
 ---
 

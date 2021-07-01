@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-10-26'
 tags:
 - cinemaqui
+- movies
 title: Os Nomes das Flores
 ---
 

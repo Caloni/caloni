@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-11-30'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Sieranevada
 ---
 

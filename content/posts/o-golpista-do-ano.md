@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-06-04'
+tags:
+- movies
 title: O Golpista do Ano
 ---
 

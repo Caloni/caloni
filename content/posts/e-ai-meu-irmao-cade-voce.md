@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-04-07'
+tags:
+- movies
 title: E Aí, Meu Irmão, Cadê Você?
 ---
 

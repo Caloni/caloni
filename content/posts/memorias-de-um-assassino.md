@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-01-01'
+tags:
+- movies
 title: Memórias de um Assassino
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-05-15'
-tags: null
+tags:
+- movies
 title: Meu Amigo Totoro
 ---
 

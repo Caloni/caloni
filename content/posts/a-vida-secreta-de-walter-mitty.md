@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-12-26'
+tags:
+- movies
 title: A Vida Secreta de Walter Mitty
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-01-11'
-tags: null
+tags:
+- movies
 title: O Terceiro Homem
 ---
 

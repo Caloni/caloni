@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-05-19'
+tags:
+- movies
 title: Os Agentes do Destino
 ---
 

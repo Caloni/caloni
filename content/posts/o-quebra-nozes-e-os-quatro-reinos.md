@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-11-02'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Quebra Nozes E Os Quatro Reinos
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-08-13'
+tags:
+- movies
 title: Os Mercenários
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-10-31'
 tags:
 - draft
+- movies
 title: Your Name
 ---
 

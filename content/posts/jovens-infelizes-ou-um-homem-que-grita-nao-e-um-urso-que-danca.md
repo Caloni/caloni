@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-02-02'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Jovens Infelizes Ou Um Homem Que Grita Não É Um Urso Que Dança
 ---
 

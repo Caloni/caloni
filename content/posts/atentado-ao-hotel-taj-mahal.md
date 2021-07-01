@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-04-24'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Atentado ao Hotel Taj Mahal
 ---
 

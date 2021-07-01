@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-01-21'
+tags:
+- movies
 title: O Filho da Noiva
 ---
 

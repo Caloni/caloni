@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-10-17'
+tags:
+- movies
 title: Ruby Sparks - A Namorada Perfeita
 ---
 

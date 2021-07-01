@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-06-01'
 tags:
 - cinemaqui
+- movies
 title: A Corte
 ---
 

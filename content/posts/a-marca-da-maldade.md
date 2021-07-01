@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-01-31'
+tags:
+- movies
 title: A Marca da Maldade
 ---
 

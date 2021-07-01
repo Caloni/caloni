@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-06-13'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Mulher do Pai
 ---
 

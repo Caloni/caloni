@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-06-22'
 tags:
 - draft
+- movies
 title: 'Ghost World: Aprendendo a Viver'
 ---
 

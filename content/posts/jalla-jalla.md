@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-27'
 tags:
 - draft
+- movies
 title: Jalla! Jalla!
 ---
 

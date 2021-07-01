@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-09-24'
+tags:
+- movies
 title: Apertem os Cintos, o Piloto Sumiu
 ---
 

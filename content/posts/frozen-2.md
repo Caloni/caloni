@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-26'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Frozen 2
 ---
 

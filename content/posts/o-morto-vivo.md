@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-08-05'
+tags:
+- movies
 title: O Morto Vivo
 ---
 

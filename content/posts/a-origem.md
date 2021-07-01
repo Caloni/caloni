@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-08-06'
+tags:
+- movies
 title: A Origem
 ---
 

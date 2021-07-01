@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-15'
+tags:
+- movies
 title: O Desinformante!
 ---
 

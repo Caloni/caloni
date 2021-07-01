@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-02-02'
 tags:
 - cinemaqui
+- movies
 title: A Ovelha Negra
 ---
 

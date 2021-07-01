@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-12-25'
+tags:
+- movies
 title: Um Lugar Qualquer
 ---
 

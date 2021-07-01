@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-01-15'
+tags:
+- movies
 title: Janela Indiscreta
 ---
 

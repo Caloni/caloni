@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-09-09'
 tags:
 - draft
+- movies
 title: Assunto de Família
 ---
 

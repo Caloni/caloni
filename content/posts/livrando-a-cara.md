@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-05-29'
 tags:
 - draft
+- movies
 title: Livrando a Cara
 ---
 

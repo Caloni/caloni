@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-12'
 tags:
 - draft
+- movies
 title: 'Shiki Oriori: O Sabor da Juventude'
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-08-09'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Jantar
 ---
 

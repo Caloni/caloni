@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-16'
+tags:
+- movies
 title: A Primeira Noite de um Homem
 ---
 

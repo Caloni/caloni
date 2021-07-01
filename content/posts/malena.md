@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-02-05'
+tags:
+- movies
 title: Malena
 ---
 

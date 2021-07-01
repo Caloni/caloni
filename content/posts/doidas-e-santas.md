@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-08-17'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Doidas e Santas
 ---
 

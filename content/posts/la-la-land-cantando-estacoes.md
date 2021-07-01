@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-01-27'
 tags:
 - draft
+- movies
 title: 'La La Land: Cantando Estações'
 ---
 

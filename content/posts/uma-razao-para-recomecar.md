@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-10-14'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Uma Razao Para Recomecar
 ---
 

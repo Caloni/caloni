@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-08-02'
+tags:
+- movies
 title: Os Selvagens da Noite
 ---
 

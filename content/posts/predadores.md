@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-06-23'
+tags:
+- movies
 title: Predadores
 ---
 

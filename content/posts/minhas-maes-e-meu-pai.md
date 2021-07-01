@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-06-08'
+tags:
+- movies
 title: Minhas Mães e Meu Pai
 ---
 

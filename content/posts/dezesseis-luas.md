@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-07-10'
+tags:
+- movies
 title: Dezesseis Luas
 ---
 

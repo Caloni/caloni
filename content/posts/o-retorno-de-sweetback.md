@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-02-18'
 tags:
 - draft
+- movies
 title: O Retorno de Sweetback
 ---
 

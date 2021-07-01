@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-10-21'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Jovem Karl Marx
 ---
 

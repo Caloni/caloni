@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-03-15'
+tags:
+- movies
 title: Bruna Surfistinha
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-23'
+tags:
+- movies
 title: 'Woody Allen: A Documentary'
 ---
 

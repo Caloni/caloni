@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-01-09'
-tags: null
+tags:
+- movies
 title: A Vida Marinha com Steve Zissou
 ---
 

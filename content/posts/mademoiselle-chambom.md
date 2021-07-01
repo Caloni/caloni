@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-05-14'
+tags:
+- movies
 title: Mademoiselle Chambon
 ---
 

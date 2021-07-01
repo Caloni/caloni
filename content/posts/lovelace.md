@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-09-18'
+tags:
+- movies
 title: Lovelace
 ---
 

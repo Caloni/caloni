@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-05-15'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Família Mitchell e a Revolta das Máquinas
 ---
 

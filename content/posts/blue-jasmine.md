@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-07'
+tags:
+- movies
 title: Blue Jasmine
 ---
 

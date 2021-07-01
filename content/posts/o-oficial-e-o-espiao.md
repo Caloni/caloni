@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-02-12'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Oficial e O Espião
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-06-22'
+tags:
+- movies
 title: Contos da Noite
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-02'
-tags: null
+tags:
+- movies
 title: Zootopia
 ---
 

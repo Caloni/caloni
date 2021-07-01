@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-06-03'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Soundtrack
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-11-02'
 tags:
 - cinemaqui
+- movies
 title: Verão Branco
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-14'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Escobar - A Traição
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-02-26'
+tags:
+- movies
 title: Psicopata Americano
 ---
 

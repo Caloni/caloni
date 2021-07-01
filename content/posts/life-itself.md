@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-22'
+tags:
+- movies
 title: Life Itself - A Vida de Roger Ebert
 ---
 

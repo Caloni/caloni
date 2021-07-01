@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-01-11'
 tags:
 - draft
+- movies
 title: 'The Lodger: A Story of the London Fog'
 ---
 

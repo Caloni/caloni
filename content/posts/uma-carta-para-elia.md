@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-10-04'
+tags:
+- movies
 title: A Letter to Elia
 ---
 

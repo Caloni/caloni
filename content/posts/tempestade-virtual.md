@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-08-18'
+tags:
+- movies
 title: Tempestade Virtual
 ---
 

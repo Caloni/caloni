@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-10-26'
 tags:
 - cinemaqui
+- movies
 title: Mistress America
 ---
 

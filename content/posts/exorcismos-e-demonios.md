@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-03-27'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Exorcismos e Demônios
 ---
 

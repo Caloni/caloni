@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-11-23'
-tags: null
+tags:
+- movies
 title: Sour Grapes
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-05-28'
+tags:
+- movies
 title: Godzilla
 ---
 

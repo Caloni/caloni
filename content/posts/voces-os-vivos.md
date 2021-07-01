@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-06-07'
+tags:
+- movies
 title: Vocês, Os Vivos
 ---
 

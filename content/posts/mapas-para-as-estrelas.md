@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-19'
 tags:
 - cinemaqui
+- movies
 title: Mapas para as Estrelas
 ---
 

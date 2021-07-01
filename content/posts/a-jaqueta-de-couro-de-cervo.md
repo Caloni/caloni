@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-12-21'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Jaqueta de Couro de Cervo
 ---
 

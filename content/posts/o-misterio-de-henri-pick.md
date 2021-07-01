@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-07-19'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Mistério de Henri Pick
 ---
 

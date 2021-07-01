@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-12-30'
-tags: null
+tags:
+- movies
 title: Cidade de Deus
 ---
 

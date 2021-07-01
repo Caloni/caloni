@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-08-07'
-tags: null
+tags:
+- movies
 title: 'Batman: A Piada Mortal'
 ---
 

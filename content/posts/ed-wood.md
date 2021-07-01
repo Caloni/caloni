@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-08-23'
+tags:
+- movies
 title: Ed Wood
 ---
 

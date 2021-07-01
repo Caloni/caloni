@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-04-17'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Cidade do Futuro
 ---
 

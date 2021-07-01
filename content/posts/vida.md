@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-04-24'
 tags:
 - draft
+- movies
 title: Vida
 ---
 

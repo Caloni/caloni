@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-01-12'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 'Moonlight: Sob a Luz do Luar'
 ---
 

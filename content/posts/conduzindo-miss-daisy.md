@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-07-11'
+tags:
+- movies
 title: Conduzindo Miss Daisy
 ---
 

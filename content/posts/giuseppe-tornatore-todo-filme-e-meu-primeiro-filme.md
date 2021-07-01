@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-10-26'
+tags:
+- movies
 title: 'Giuseppe Tornatore: Todo Filme é Meu Primeiro Filme'
 ---
 

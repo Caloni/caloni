@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-17'
+tags:
+- movies
 title: Madrugada Muito Louca
 ---
 

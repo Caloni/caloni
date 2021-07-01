@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-05'
 tags:
 - cinemaqui
+- movies
 title: Um Dia Perfeito
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-05-19'
+tags:
+- movies
 title: A Carreira de Suzane
 ---
 

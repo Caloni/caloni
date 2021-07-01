@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-05-29'
+tags:
+- movies
 title: Deixa Ela Entrar
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-01-12'
 tags:
 - draft
+- movies
 title: Homem-Aranha no Aranhaverso
 ---
 

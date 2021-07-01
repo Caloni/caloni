@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-11-16'
+tags:
+- movies
 title: A Casa dos Sonhos
 ---
 

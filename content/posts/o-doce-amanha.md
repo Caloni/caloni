@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-01-04'
 tags:
 - draft
+- movies
 title: O Doce Amanhã
 ---
 

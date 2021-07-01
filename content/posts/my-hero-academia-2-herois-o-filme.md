@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-01'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 'My Hero Academia: 2 Heróis - O Filme'
 ---
 

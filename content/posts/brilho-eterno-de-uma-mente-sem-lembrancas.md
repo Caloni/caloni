@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-18'
 tags:
 - draft
+- movies
 title: Brilho Eterno de uma Mente Sem Lembranças
 ---
 

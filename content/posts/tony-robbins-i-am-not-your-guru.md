@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-03-15'
 tags:
 - draft
+- movies
 title: 'Tony Robbins: I Am Not Your Guru'
 ---
 

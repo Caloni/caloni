@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-06-24'
 tags:
 - draft
+- movies
 title: O Bebê de Bridge Jones
 ---
 

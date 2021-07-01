@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-10-23'
+tags:
+- movies
 title: 'Transcendence: A Revolução'
 ---
 

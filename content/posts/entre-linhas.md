@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-20'
 tags:
 - cinemaqui
+- movies
 title: Entre Linhas
 ---
 

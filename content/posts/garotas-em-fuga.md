@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-16'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Garotas em Fuga
 ---
 

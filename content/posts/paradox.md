@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-04-01'
 tags:
 - draft
+- movies
 title: Paradox
 ---
 

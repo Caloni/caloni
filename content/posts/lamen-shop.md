@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-08'
 tags:
 - draft
+- movies
 title: Lámen Shop
 ---
 

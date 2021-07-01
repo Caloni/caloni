@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-04-26'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Todos os Paulos do Mundo
 ---
 

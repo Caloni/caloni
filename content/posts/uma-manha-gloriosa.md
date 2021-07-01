@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-04-19'
+tags:
+- movies
 title: Uma Manhã Gloriosa
 ---
 

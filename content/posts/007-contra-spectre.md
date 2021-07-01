@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-11-14'
+tags:
+- movies
 title: 007 Contra Spectre
 ---
 

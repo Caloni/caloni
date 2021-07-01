@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-02-13'
 tags:
 - draft
+- movies
 title: Manchester À Beira-Mar
 ---
 

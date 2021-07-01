@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-03-15'
 tags:
 - draft
+- movies
 title: Uma Mulher Fantástica
 ---
 

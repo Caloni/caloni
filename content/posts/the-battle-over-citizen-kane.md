@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-01'
 tags:
 - draft
+- movies
 title: The Battle Over Citizen Kane
 ---
 

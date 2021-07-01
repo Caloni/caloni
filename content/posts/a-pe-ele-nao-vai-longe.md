@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-01-03'
 tags:
 - draft
+- movies
 title: A Pé Ele Não Vai Longe
 ---
 

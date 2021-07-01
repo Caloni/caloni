@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-02-02'
 tags:
 - draft
+- movies
 title: Memórias de Ontem
 ---
 

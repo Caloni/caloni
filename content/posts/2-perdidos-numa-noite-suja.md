@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-09-06'
 tags:
 - draft
+- movies
 title: 2 Perdidos Numa Noite Suja
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-15'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 'Bellingcat: A Verdade Em Um Mundo Pós-Verdade'
 ---
 

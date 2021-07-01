@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-10-28'
 tags:
 - draft
+- movies
 title: O Amante Do Dia
 ---
 

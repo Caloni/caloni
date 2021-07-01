@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-30'
+tags:
+- movies
 title: James e o Pêssego Gigante
 ---
 

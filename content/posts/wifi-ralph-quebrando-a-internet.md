@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-01-12'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 'Wifi Ralph: Quebrando a Internet'
 ---
 

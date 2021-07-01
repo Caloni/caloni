@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-02-13'
+tags:
+- movies
 title: Um Segredo entre Nós
 ---
 

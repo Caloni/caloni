@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-02-12'
 tags:
 - cinemaqui
+- movies
 title: A Garota Dinamarquesa
 ---
 

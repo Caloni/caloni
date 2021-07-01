@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-11-19'
+tags:
+- movies
 title: Hackers
 ---
 

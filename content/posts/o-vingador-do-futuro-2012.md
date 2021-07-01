@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-09-05'
+tags:
+- movies
 title: O Vingador do Futuro (2012)
 ---
 

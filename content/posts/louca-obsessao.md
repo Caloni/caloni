@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-02-09'
+tags:
+- movies
 title: Louca Obsessão
 ---
 

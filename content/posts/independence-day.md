@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-11'
 tags:
 - draft
+- movies
 title: Independence Day
 ---
 

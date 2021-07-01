@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-12-06'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Uma Mulher Alta
 ---
 

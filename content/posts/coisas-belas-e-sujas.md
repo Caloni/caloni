@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-04-30'
+tags:
+- movies
 title: Coisas Belas e Sujas
 ---
 

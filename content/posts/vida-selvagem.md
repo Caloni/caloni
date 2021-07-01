@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-06-09'
 tags:
 - cinemaqui
+- movies
 title: Vida Selvagem
 ---
 

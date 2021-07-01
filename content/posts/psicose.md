@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-06-30'
+tags:
+- movies
 title: Psicose
 ---
 

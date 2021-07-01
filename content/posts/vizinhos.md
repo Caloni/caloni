@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-17'
+tags:
+- movies
 title: Vizinhos
 ---
 

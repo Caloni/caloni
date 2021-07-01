@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-07-08'
+tags:
+- movies
 title: The Housemaid
 ---
 

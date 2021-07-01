@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-11-15'
+tags:
+- movies
 title: Fora de Controle
 ---
 

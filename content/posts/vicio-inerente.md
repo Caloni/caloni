@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-27'
 tags:
 - cinemaqui
+- movies
 title: Vício Inerente
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-01-23'
 tags:
 - draft
+- movies
 title: A Garota no Trem
 ---
 

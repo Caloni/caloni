@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-12-04'
+tags:
+- movies
 title: 'Tron: Uma Odisséia Eletrônica'
 ---
 

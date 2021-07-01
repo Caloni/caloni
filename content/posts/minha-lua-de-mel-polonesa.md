@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-27'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Minha Lua de Mel Polonesa
 ---
 

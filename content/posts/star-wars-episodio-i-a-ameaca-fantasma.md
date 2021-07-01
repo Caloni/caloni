@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-05-27'
+tags:
+- movies
 title: 'Star Wars, Episódio I: A Ameaça Fantasma'
 ---
 

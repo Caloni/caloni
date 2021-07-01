@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-05-15'
 tags:
 - draft
+- movies
 title: 'Star Wars: O Despertar da Força'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-08-07'
 tags:
 - draft
+- movies
 title: Estranha Obsessão
 ---
 

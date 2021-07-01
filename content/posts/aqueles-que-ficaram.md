@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-12-12'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Aqueles Que Ficaram
 ---
 

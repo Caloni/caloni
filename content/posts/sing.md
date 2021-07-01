@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-12-29'
 tags:
 - draft
+- movies
 title: 'Sing: Quem Canta Seus Males Espanta'
 ---
 

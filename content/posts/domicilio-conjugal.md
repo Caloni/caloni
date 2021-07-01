@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-08-17'
+tags:
+- movies
 title: Domicilio Conjugal
 ---
 

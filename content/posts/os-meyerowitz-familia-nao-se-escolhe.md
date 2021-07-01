@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-01-31'
 tags:
 - draft
+- movies
 title: 'Os Meyerowitz: Família Não se Escolhe'
 ---
 

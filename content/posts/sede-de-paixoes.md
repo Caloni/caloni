@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-06-15'
+tags:
+- movies
 title: Sede de Paixões
 ---
 

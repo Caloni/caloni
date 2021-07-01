@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-08-08'
-tags: null
+tags:
+- movies
 title: 'Warcraft: O Primeiro Encontro de Dois Mundos'
 ---
 

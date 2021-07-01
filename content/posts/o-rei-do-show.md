@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-01-14'
 tags:
 - draft
+- movies
 title: O Rei do Show
 ---
 

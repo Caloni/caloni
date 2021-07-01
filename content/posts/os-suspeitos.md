@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-10-04'
+tags:
+- movies
 title: Os Suspeitos
 ---
 

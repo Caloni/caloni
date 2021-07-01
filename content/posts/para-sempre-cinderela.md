@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-11-17'
-tags: null
+tags:
+- movies
 title: Para Sempre Cinderela
 ---
 

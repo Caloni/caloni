@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-05-14'
+tags:
+- movies
 title: Following
 ---
 

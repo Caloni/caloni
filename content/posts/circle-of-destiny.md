@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-06-13'
+tags:
+- movies
 title: Circle of Destiny
 ---
 

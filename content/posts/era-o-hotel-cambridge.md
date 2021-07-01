@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-03-10'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Era O Hotel Cambridge
 ---
 

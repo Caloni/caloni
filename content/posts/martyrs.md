@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-03-31'
 tags:
 - cinemaqui
+- movies
 title: Martírio
 ---
 

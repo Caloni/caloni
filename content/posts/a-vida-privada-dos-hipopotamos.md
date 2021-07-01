@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-19'
 tags:
 - cinemaqui
+- movies
 title: A Vida Privada dos Hipopótamos
 ---
 

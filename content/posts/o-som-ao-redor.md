@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-01-14'
+tags:
+- movies
 title: O Som ao Redor
 ---
 

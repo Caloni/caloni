@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-07-21'
+tags:
+- movies
 title: Retratos de uma Obsessão
 ---
 

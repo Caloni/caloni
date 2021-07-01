@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-17'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 'Gauguin: Viagem ao Taiti'
 ---
 

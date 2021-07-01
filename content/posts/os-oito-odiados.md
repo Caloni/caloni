@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-29'
-tags: null
+tags:
+- movies
 title: Os Oito Odiados
 ---
 

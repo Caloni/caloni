@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-03-11'
+tags:
+- movies
 title: Atrás da Porta
 ---
 

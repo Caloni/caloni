@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-25'
-tags: null
+tags:
+- movies
 title: O Silêncio da Noite É Que Tem Sido Testemunha das Minhas Amarguras
 ---
 

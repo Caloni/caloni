@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-06-03'
 tags:
 - cinemaqui
+- movies
 title: Um Amor à Altura
 ---
 

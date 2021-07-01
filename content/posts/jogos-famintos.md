@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-11-18'
+tags:
+- movies
 title: Jogos Famintos
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-02-25'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Life, Animated
 ---
 

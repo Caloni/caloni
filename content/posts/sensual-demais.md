@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-01-16'
 tags:
 - draft
+- movies
 title: Sensual Demais
 ---
 

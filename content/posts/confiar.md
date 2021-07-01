@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-09-27'
+tags:
+- movies
 title: Confiar
 ---
 

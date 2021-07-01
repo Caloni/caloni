@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-05-10'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Compra Me Um Revólver
 ---
 

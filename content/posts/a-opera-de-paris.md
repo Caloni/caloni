@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-11-24'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Ópera de Paris
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-04-18'
+tags:
+- movies
 title: Woman in Love (aka Rubbeldiekatz)
 ---
 

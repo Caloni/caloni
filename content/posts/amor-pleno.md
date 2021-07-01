@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-08-01'
+tags:
+- movies
 title: Amor Pleno
 ---
 

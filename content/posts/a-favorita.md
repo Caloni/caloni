@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-18'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Favorita
 ---
 

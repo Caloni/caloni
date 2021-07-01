@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-06'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Retrato do Amor
 ---
 

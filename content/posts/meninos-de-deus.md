@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-03-27'
 tags:
 - draft
+- movies
 title: Meninos de Deus
 ---
 

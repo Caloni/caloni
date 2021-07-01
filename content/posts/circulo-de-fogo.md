@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-08-10'
+tags:
+- movies
 title: Círculo de Fogo
 ---
 

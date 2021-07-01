@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-02-02'
+tags:
+- movies
 title: Janghwa, Hongryeon (aka Medo, A Tale of Two Sisters)
 ---
 

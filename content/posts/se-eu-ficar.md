@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-05-04'
+tags:
+- movies
 title: Se Eu Ficar
 ---
 

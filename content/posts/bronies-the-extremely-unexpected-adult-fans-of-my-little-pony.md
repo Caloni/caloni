@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-08-16'
+tags:
+- movies
 title: 'Bronies: The Extremely Unexpected Adult Fans of My Little Pony'
 ---
 

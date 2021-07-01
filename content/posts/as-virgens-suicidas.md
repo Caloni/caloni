@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-31'
 tags:
 - draft
+- movies
 title: As Virgens Suicidas
 ---
 

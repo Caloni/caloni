@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-07-01'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Inocência Roubada
 ---
 

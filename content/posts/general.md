@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-07'
+tags:
+- movies
 title: General
 ---
 

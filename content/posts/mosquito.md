@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-10-22'
 tags:
 - cinemaqui
+- movies
 title: Mosquito
 ---
 

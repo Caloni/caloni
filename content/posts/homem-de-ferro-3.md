@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-05-03'
+tags:
+- movies
 title: Homem de Ferro 3
 ---
 

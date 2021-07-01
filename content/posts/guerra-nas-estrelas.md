@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-06-23'
+tags:
+- movies
 title: Guerra nas Estrelas
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-04-29'
+tags:
+- movies
 title: As Luzes de um Verão
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-08-06'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 'O Reino Gelado: Fogo e Gelo'
 ---
 

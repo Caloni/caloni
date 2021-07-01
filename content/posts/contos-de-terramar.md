@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-03-02'
 tags:
 - draft
+- movies
 title: Contos de Terramar
 ---
 

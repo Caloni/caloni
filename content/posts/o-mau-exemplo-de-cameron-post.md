@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-23'
 tags:
 - draft
+- movies
 title: O Mau Exemplo de Cameron Post
 ---
 

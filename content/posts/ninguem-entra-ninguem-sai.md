@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-04-18'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Ninguém Entra, Ninguém Sai
 ---
 

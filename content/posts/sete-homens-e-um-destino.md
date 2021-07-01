@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-03'
-tags: null
+tags:
+- movies
 title: Sete Homens E um Destino
 ---
 

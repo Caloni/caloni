@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-05-09'
+tags:
+- movies
 title: A Morte do Demônio
 ---
 

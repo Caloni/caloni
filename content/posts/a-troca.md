@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-03-18'
+tags:
+- movies
 title: A Troca
 ---
 

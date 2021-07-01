@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-09-28'
 tags:
 - draft
+- movies
 title: De Volta ao Jogo (John Wick)
 ---
 

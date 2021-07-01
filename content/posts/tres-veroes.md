@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-28'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Três Verões
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-11-09'
+tags:
+- movies
 title: Reino dos Gatos
 ---
 

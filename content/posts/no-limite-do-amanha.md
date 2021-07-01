@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-06-10'
+tags:
+- movies
 title: No Limite do Amanhã
 ---
 

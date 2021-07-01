@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-11-06'
+tags:
+- movies
 title: Pink Floyd - The Wall
 ---
 

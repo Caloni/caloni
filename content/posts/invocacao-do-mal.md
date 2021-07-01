@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-09-26'
+tags:
+- movies
 title: Invocação do Mal
 ---
 

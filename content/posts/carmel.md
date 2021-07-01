@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-10-28'
+tags:
+- movies
 title: Carmel
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-03-18'
-tags: null
+tags:
+- movies
 title: Vinho para Roubar
 ---
 

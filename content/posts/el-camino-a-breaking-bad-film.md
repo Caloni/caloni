@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-26'
 tags:
 - draft
+- movies
 title: 'El Camino: A Breaking Bad Film'
 ---
 

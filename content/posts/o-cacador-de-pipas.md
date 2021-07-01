@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-01-12'
 tags:
 - draft
+- movies
 title: O Caçador de Pipas
 ---
 

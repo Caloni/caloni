@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-12-20'
+tags:
+- movies
 title: A Ilha dos Mortos
 ---
 

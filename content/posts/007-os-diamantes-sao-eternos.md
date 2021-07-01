@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-06-25'
+tags:
+- movies
 title: 007 - Os Diamantes São Eternos
 ---
 

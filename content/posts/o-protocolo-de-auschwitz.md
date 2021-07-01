@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-04-10'
 tags:
 - cinemaqui
+- movies
 title: O Protocolo de Auschwitz
 ---
 

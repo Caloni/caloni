@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-06-06'
+tags:
+- movies
 title: Bancando o Águia (aka Sherlock Jr.)
 ---
 

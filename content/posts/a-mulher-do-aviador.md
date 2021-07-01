@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-08-19'
+tags:
+- movies
 title: A Mulher do Aviador
 ---
 

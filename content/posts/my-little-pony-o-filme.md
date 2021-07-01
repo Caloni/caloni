@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-10-16'
 tags:
 - draft
+- movies
 title: 'My Little Pony: O Filme'
 ---
 

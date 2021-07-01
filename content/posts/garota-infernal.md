@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-05-21'
+tags:
+- movies
 title: Garota Infernal
 ---
 

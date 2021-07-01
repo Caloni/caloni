@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-06-24'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Boas Intenções
 ---
 

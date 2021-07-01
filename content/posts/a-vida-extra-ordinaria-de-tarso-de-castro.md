@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-16'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Vida Extra-Ordinária de Tarso de Castro
 ---
 

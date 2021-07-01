@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-07-12'
+tags:
+- movies
 title: Em Algum Lugar do Passado
 ---
 

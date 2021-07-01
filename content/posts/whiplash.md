@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-22'
+tags:
+- movies
 title: 'Whiplash: Em Busca da Perfeição'
 ---
 

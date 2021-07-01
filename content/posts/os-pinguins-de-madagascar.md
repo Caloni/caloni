@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-28'
+tags:
+- movies
 title: Os Pinguins de Madagascar
 ---
 

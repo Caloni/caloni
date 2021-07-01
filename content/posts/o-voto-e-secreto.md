@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-09-02'
 tags:
 - draft
+- movies
 title: O Voto é Secreto
 ---
 

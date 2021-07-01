@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-05-23'
 tags:
 - draft
+- movies
 title: 'Alien: Covenant'
 ---
 

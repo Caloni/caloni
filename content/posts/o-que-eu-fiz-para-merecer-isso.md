@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-04-15'
 tags:
 - cinemaqui
+- movies
 title: O Que Eu Fiz Para Merecer Isso?
 ---
 

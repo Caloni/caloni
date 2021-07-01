@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-20'
 tags:
 - draft
+- movies
 title: O Hospedeiro
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-07-01'
+tags:
+- movies
 title: Além da Vida
 ---
 

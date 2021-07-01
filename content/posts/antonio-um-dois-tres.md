@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-25'
 tags:
 - cinemaqui
 - draft
+- movies
 title: António Um Dois Três
 ---
 

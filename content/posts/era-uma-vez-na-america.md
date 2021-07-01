@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-02'
+tags:
+- movies
 title: Era Uma Vez na América
 ---
 

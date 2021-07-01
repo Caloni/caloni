@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-12-02'
+tags:
+- movies
 title: 'Gonzaga: De Pai pra Filho'
 ---
 

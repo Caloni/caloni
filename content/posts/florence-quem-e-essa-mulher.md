@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-06-10'
 tags:
 - cinemaqui
+- movies
 title: 'Florence: Quem é Essa Mulher?'
 ---
 

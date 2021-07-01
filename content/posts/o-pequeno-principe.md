@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-08-29'
 tags:
 - cinemaqui
+- movies
 title: O Pequeno Príncipe
 ---
 

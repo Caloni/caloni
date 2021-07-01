@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-08'
 tags:
 - cinemaqui
+- movies
 title: Na Próxima, Acerto o Coração
 ---
 

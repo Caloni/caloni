@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-08-20'
 tags:
 - cinemaqui
+- movies
 title: Conexão Escobar
 ---
 

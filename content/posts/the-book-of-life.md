@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-11-09'
+tags:
+- movies
 title: O Livro da Vida
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-07-25'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Nome da Morte
 ---
 

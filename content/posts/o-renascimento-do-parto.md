@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-07'
 tags:
 - draft
+- movies
 title: O Renascimento do Parto
 ---
 

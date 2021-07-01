@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-09-11'
 tags:
 - draft
+- movies
 title: 100 Escovadas Antes De Dormir
 ---
 

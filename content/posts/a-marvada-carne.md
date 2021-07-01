@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-04-24'
+tags:
+- movies
 title: A Marvada Carne
 ---
 

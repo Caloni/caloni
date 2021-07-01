@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-31'
+tags:
+- movies
 title: Os Croods
 ---
 

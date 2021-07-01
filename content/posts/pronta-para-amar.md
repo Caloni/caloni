@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-09-21'
+tags:
+- movies
 title: Pronta Para Amar
 ---
 

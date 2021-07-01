@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-02-27'
-tags: null
+tags:
+- movies
 title: Deadpool
 ---
 

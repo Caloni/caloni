@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-11-06'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Garota Na Névoa
 ---
 

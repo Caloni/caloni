@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-10-20'
+tags:
+- movies
 title: O Balconista
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-07-21'
 tags:
 - cinemaqui
+- movies
 title: Pixels
 ---
 

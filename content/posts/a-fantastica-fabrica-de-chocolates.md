@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-26'
+tags:
+- movies
 title: A Fantástica Fábrica de Chocolate
 ---
 

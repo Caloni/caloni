@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-16'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 'O Exterminador do Futuro 3: A Rebelião Das Máquinas'
 ---
 

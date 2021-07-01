@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-09-26'
+tags:
+- movies
 title: Carrie, a Estranha (2013)
 ---
 

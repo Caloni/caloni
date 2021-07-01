@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-28'
 tags:
 - draft
+- movies
 title: As 4 Aventuras De Reinette E Mirabelle
 ---
 

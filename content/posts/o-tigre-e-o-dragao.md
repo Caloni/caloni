@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-03-15'
-tags: null
+tags:
+- movies
 title: O Tigre e o Dragão
 ---
 

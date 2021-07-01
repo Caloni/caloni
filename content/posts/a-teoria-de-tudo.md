@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-01-11'
 tags:
 - draft
+- movies
 title: A Teoria de Tudo
 ---
 

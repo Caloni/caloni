@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-02-27'
 tags:
 - draft
+- movies
 title: Jojo Rabbit
 ---
 

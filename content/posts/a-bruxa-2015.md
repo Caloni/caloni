@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-06-24'
-tags: null
+tags:
+- movies
 title: A Bruxa
 ---
 

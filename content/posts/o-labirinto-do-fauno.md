@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-01-05'
 tags:
 - draft
+- movies
 title: O Labirinto do Fauno
 ---
 

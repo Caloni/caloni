@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-08-13'
+tags:
+- movies
 title: Nunca Aos Domingos
 ---
 

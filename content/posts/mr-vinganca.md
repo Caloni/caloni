@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-05-26'
+tags:
+- movies
 title: Mr. Vingança
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-12-12'
+tags:
+- movies
 title: Alien, a Ressurreição
 ---
 

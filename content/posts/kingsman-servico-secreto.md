@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-05-20'
+tags:
+- movies
 title: 'Kingsman: Serviço Secreto'
 ---
 

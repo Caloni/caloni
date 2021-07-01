@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-04-21'
+tags:
+- movies
 title: Um Crime de Mestre
 ---
 

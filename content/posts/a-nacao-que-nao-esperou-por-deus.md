@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-07-18'
 tags:
 - cinemaqui
+- movies
 title: A Nação Que Não Esperou Por Deus
 ---
 

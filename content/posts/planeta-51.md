@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-11-06'
+tags:
+- movies
 title: Planeta 51
 ---
 

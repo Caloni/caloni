@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-11-07'
+tags:
+- movies
 title: Possessão
 ---
 

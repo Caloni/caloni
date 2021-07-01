@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-13'
+tags:
+- movies
 title: Birdman ou (A Inesperada Virtude da Ignorância)
 ---
 

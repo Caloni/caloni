@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-01-15'
-tags: null
+tags:
+- movies
 title: Perdido em Marte
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-08-07'
+tags:
+- movies
 title: Melancolia
 ---
 

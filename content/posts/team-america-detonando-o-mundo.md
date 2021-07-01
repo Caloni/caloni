@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-03-19'
+tags:
+- movies
 title: 'Team America: Detonando o Mundo'
 ---
 

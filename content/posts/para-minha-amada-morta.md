@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-03-29'
 tags:
 - cinemaqui
+- movies
 title: Para Minha Amada Morta
 ---
 

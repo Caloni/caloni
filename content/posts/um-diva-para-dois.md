@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-08-24'
+tags:
+- movies
 title: Um Divã para Dois
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-13'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Troca de Rainhas
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-07-22'
+tags:
+- movies
 title: Oldboy
 ---
 

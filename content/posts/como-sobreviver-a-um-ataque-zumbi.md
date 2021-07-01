@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-12-09'
-tags: null
+tags:
+- movies
 title: Como Sobreviver a Um Ataque Zumbi
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-06-11'
+tags:
+- movies
 title: Plano B
 ---
 

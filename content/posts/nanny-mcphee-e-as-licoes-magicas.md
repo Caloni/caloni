@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-09-03'
+tags:
+- movies
 title: Nanny McPhee e as Lições Mágicas
 ---
 

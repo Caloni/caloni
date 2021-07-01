@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-03-29'
-tags: null
+tags:
+- movies
 title: Pee-wee's Big Holiday
 ---
 

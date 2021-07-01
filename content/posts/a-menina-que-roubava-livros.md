@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-02-01'
+tags:
+- movies
 title: A Menina que Roubava Livros
 ---
 

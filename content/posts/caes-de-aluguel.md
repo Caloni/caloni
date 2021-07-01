@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-11'
 tags:
 - draft
+- movies
 title: Cães de Aluguel
 ---
 

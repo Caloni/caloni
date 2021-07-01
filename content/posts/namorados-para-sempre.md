@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-06-09'
+tags:
+- movies
 title: Namorados para Sempre
 ---
 

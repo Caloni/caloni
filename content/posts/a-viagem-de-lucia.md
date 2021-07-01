@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-09-07'
+tags:
+- movies
 title: A Viagem de Lucia
 ---
 

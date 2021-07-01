@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-02-08'
+tags:
+- movies
 title: Um Final de Semana em Hyde Park
 ---
 

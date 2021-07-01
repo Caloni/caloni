@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-06-12'
 tags:
 - draft
+- movies
 title: Outlander Quinta Temporada
 ---
 

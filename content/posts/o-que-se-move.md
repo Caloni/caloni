@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-05-17'
+tags:
+- movies
 title: O Que Se Move
 ---
 

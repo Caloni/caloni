@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-29'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Mike Wallace Está Aqui
 ---
 

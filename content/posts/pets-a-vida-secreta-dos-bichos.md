@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-09-11'
-tags: null
+tags:
+- movies
 title: 'Pets: A Vida Secreta dos Bichos'
 ---
 

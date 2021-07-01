@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-07-24'
 tags:
 - draft
+- movies
 title: Corpo Fechado
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-12-15'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Lamento
 ---
 

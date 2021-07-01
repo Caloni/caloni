@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-06-07'
+tags:
+- movies
 title: Saída pela Loja de Presentes
 ---
 

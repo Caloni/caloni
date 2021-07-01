@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-05-08'
+tags:
+- movies
 title: 'O Âncora: A Lenda de Ron Burgundy'
 ---
 

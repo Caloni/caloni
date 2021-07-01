@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-12-28'
 tags:
 - draft
+- movies
 title: 'Rogue One: Uma História Star Wars'
 ---
 

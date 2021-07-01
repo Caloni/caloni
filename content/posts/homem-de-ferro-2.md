@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-04-03'
+tags:
+- movies
 title: Homem de Ferro 2
 ---
 

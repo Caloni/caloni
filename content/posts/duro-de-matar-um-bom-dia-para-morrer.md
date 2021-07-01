@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-03-06'
+tags:
+- movies
 title: 'Duro de Matar: Um Bom Dia para Morrer'
 ---
 

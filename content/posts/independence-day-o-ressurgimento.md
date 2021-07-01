@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-14'
-tags: null
+tags:
+- movies
 title: 'Independence Day: O Ressurgimento'
 ---
 

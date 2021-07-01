@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-02-15'
+tags:
+- movies
 title: A Sun
 ---
 

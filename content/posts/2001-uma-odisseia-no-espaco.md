@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-10-23'
+tags:
+- movies
 title: '2001: Uma Odisseia no Espaço'
 ---
 

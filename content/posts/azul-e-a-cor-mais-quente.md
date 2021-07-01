@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-12-23'
+tags:
+- movies
 title: Azul é a Cor Mais Quente
 ---
 

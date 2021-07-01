@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-04-16'
+tags:
+- movies
 title: Mary e Max uma Amizade Diferente
 ---
 

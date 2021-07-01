@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-03-21'
+tags:
+- movies
 title: Todo Mundo Quase Morto
 ---
 

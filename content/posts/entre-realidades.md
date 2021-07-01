@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-02-14'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Entre Realidades
 ---
 

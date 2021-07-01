@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-08-03'
+tags:
+- movies
 title: John Wick 2
 ---
 

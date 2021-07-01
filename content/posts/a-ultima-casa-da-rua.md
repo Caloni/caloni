@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-04-14'
 tags:
 - draft
+- movies
 title: A Última Casa da Rua
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-01-20'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Paraíso
 ---
 

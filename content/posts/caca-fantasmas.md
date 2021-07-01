@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-12'
-tags: null
+tags:
+- movies
 title: Caça-Fantasmas (2016)
 ---
 

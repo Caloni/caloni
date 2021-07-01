@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-06-26'
+tags:
+- movies
 title: O Segredo dos Seus Olhos
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-09-11'
+tags:
+- movies
 title: O Homem do Futuro
 ---
 

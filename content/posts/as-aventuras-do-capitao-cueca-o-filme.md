@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-10-21'
 tags:
 - draft
+- movies
 title: As Aventuras Do Capitao Cueca O Filme
 ---
 

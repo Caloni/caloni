@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-01'
+tags:
+- movies
 title: As Aventuras de Peabody & Sherman
 ---
 

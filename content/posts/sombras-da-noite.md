@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-06-27'
+tags:
+- movies
 title: Sombras da Noite
 ---
 

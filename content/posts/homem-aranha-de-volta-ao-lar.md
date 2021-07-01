@@ -1,11 +1,12 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-07-09'
 revison:
 - '2017-08-03'
 tags:
 - draft
+- movies
 title: 'Homem-Aranha: De Volta ao Lar'
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-08'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Desejo de Matar
 ---
 

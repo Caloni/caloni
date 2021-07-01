@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-24'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 'Trailer: Flordelis: Basta Uma Palavra Para Mudar'
 ---
 

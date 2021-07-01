@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-10-27'
+tags:
+- movies
 title: Laços Humanos
 ---
 

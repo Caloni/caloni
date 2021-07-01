@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-02-15'
+tags:
+- movies
 title: Magic Mike
 ---
 

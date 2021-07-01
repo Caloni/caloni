@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-09-05'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Abigail e a Cidade Proibida
 ---
 

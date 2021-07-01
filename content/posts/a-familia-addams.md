@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-09-19'
+tags:
+- movies
 title: A Família Addams
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-01-13'
 tags:
 - draft
+- movies
 title: Corpo e Alma
 ---
 

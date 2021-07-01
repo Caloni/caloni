@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-06-10'
 tags:
 - draft
+- movies
 title: Time - O Amor Contra a Passagem do Tempo
 ---
 

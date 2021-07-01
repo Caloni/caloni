@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-05-04'
+tags:
+- movies
 title: St. Nick
 ---
 

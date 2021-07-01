@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-10-25'
+tags:
+- movies
 title: Advanced Style
 ---
 

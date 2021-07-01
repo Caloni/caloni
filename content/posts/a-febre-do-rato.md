@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-08-03'
+tags:
+- movies
 title: A Febre do Rato
 ---
 

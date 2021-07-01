@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-09-11'
+tags:
+- movies
 title: Bem-Vindo a Nova York
 ---
 

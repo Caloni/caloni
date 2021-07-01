@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-05-14'
+tags:
+- movies
 title: Somos Tão Jovens
 ---
 

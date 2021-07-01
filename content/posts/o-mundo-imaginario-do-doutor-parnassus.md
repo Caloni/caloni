@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-03-22'
+tags:
+- movies
 title: O Mundo Imaginário do Doutor Parnassus
 ---
 

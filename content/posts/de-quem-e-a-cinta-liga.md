@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-09-30'
+tags:
+- movies
 title: De Quem é a Cinta Liga?
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-07-11'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Uma Casa à Beira Mar
 ---
 

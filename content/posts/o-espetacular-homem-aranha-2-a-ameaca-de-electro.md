@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-05-06'
+tags:
+- movies
 title: 'O Espetacular Homem-Aranha 2: A Ameaça de Electro'
 ---
 

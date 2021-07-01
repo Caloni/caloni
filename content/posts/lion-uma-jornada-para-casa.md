@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-02-17'
 tags:
 - draft
+- movies
 title: 'Lion: Uma Jornada Para Casa'
 ---
 

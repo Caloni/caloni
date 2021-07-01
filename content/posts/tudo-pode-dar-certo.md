@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-04-30'
+tags:
+- movies
 title: Tudo Pode Dar Certo
 ---
 

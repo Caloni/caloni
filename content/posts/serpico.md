@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-08-31'
+tags:
+- movies
 title: Serpico
 ---
 

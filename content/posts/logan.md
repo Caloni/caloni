@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-03-05'
 tags:
 - draft
+- movies
 title: Logan
 ---
 

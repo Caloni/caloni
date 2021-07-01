@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-05-16'
+tags:
+- movies
 title: 2 Dias em Paris
 ---
 

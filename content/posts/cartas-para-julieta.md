@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-10-10'
+tags:
+- movies
 title: Cartas Para Julieta
 ---
 

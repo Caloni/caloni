@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-01-15'
 tags:
 - draft
+- movies
 title: A Partida
 ---
 

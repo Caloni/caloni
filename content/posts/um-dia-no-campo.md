@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-04-26'
+tags:
+- movies
 title: Um Dia no Campo
 ---
 

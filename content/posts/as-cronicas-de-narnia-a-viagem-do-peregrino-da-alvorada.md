@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-10-21'
+tags:
+- movies
 title: 'As Crônicas de Nárnia: A Viagem do Peregrino da Alvorada'
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-15'
+tags:
+- movies
 title: O Albergue
 ---
 

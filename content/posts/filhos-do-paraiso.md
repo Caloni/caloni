@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-03-11'
+tags:
+- movies
 title: Filhos do Paraíso
 ---
 

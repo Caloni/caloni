@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-07-28'
+tags:
+- movies
 title: As Strippers Zumbi
 ---
 

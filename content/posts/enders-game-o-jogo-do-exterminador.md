@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-06-21'
+tags:
+- movies
 title: 'Ender''s Game: O Jogo do Exterminador'
 ---
 

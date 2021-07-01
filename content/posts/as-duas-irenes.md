@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-21'
 tags:
 - cinemaqui
 - draft
+- movies
 title: As Duas Irenes
 ---
 

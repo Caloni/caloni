@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-05-16'
+tags:
+- movies
 title: Conto de Verão
 ---
 

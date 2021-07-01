@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-04-07'
+tags:
+- movies
 title: Beleza Adormecida
 ---
 

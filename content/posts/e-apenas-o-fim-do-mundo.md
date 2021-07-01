@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-26'
 tags:
 - cinemaqui
+- movies
 title: É Apenas o Fim do Mundo
 ---
 

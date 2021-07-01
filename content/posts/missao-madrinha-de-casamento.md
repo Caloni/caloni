@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-12-14'
+tags:
+- movies
 title: Missão Madrinha de Casamento
 ---
 

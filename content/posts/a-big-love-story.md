@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-03-03'
+tags:
+- movies
 title: A Big Love Story
 ---
 

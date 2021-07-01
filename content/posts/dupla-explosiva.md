@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-08-24'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Dupla Explosiva
 ---
 

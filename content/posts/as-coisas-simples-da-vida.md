@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-02-08'
 tags:
 - draft
+- movies
 title: As Coisas Simples da Vida
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-03-20'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Amarra Seu Arado em Uma Estrela
 ---
 

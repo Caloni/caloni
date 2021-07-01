@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-15'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Poderia Me Perdoar?
 ---
 

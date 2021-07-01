@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-09-28'
+tags:
+- movies
 title: Across the Universe
 ---
 

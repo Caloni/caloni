@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-10'
+tags:
+- movies
 title: Debi & Lóide 2
 ---
 

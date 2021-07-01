@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-03'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Privacidade Hackeada
 ---
 

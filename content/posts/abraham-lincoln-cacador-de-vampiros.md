@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-12-24'
+tags:
+- movies
 title: 'Abraham Lincoln: Caçador de Vampiros'
 ---
 

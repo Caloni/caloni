@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-08-07'
+tags:
+- movies
 title: Vida Após Beth
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-09-23'
 tags:
 - cinemaqui
+- movies
 title: Demônio de Neon
 ---
 

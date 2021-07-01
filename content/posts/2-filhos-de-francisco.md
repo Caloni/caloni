@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-03-25'
+tags:
+- movies
 title: '2 Filhos de Francisco: A História De Zezé di Camargo & Luciano'
 ---
 

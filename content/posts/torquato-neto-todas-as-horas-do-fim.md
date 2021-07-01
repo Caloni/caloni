@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-03-01'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Torquato Neto - Todas as horas do fim
 ---
 

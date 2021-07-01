@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-06-01'
 tags:
 - draft
+- movies
 title: Mulher-Maravilha
 ---
 

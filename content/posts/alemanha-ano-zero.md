@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-05-24'
 tags:
 - draft
+- movies
 title: Alemanha, Ano Zero
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-19'
+tags:
+- movies
 title: Natureza Quase Humana
 ---
 

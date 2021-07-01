@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-04-17'
+tags:
+- movies
 title: Irma la Dulce
 ---
 

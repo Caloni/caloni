@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-20'
 tags:
 - cinemaqui
+- movies
 title: Dívida de Honra
 ---
 

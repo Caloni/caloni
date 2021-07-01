@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-03'
+tags:
+- movies
 title: O Universo no Olhar
 ---
 

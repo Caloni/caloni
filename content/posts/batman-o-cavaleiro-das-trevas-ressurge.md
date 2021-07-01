@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-08-17'
+tags:
+- movies
 title: 'Batman: O Cavaleiro das Trevas Ressurge'
 ---
 

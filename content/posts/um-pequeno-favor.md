@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-02-02'
 tags:
 - draft
+- movies
 title: Um Pequeno Favor
 ---
 

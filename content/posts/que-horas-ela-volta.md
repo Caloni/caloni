@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-15'
+tags:
+- movies
 title: Que Horas Ela Volta?
 ---
 

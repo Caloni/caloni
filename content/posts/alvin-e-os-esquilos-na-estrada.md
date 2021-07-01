@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-01-10'
-tags: null
+tags:
+- movies
 title: 'Alvin e os Esquilos: Na Estrada'
 ---
 

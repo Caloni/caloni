@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-02-13'
+tags:
+- movies
 title: Amor
 ---
 

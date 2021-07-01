@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-24'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Os Olhos de Cabul
 ---
 

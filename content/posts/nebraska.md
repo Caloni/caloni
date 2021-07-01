@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-11'
+tags:
+- movies
 title: Nebraska
 ---
 

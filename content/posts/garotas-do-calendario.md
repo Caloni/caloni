@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-01-27'
+tags:
+- movies
 title: Garotas do Calendário
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-03'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Câmera de Claire
 ---
 

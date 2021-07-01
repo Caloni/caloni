@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-06-16'
+tags:
+- movies
 title: O Homem que Sabia Demais
 ---
 

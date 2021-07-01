@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-12-10'
 tags:
 - draft
+- movies
 title: Blue Jay
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-04-05'
+tags:
+- movies
 title: Bad Guy (aka Tipo Ruim)
 ---
 

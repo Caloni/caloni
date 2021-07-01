@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-08-23'
+tags:
+- movies
 title: Kung Pow - O Mestre da Kung-Fu-São
 ---
 

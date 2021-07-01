@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-11-17'
 tags:
 - draft
+- movies
 title: Rock em Cabul
 ---
 

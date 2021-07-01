@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-24'
 tags:
 - draft
+- movies
 title: 'Mad Max 3: Além da Cúpula do Trovão'
 ---
 

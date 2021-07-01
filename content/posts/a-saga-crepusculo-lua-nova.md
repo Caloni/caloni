@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-06-10'
+tags:
+- movies
 title: 'A Saga Crepúsculo: Lua Nova'
 ---
 

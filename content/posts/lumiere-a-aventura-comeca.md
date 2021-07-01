@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-12-02'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Lumière! A Aventura Começa
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-06-27'
+tags:
+- movies
 title: Antes da Meia-Noite
 ---
 

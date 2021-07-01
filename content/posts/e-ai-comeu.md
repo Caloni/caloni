@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-06-25'
+tags:
+- movies
 title: E Aí... Comeu?
 ---
 

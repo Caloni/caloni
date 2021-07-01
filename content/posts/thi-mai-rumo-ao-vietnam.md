@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-16'
 tags:
 - draft
+- movies
 title: 'Thi Mai: Rumo ao Vietnam'
 ---
 

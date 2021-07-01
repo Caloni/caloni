@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-28'
 tags:
 - draft
+- movies
 title: Como é Cruel Viver Assim
 ---
 

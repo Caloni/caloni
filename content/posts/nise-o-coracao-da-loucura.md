@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-05-29'
-tags: null
+tags:
+- movies
 title: 'Nise: O Coração da Loucura'
 ---
 

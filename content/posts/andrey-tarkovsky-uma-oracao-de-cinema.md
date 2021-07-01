@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-26'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 'Andrey Tarkovsky: Uma Oração de Cinema'
 ---
 

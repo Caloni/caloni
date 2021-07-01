@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-05-20'
 tags:
 - cinemaqui
+- movies
 title: O Valor de um Homem
 ---
 

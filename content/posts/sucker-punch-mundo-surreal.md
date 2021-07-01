@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-03-29'
+tags:
+- movies
 title: 'Sucker Punch: Mundo Surreal'
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-12-08'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Qualquer Custo
 ---
 

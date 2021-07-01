@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-10-08'
+tags:
+- movies
 title: Sobre Meninos e Lobos
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-06-02'
+tags:
+- movies
 title: O Pequeno Nicolau
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-03-04'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Zombi Child
 ---
 

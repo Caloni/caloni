@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-06'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Mentes Sombrias
 ---
 

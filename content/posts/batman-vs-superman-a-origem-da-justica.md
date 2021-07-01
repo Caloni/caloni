@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-04-02'
-tags: null
+tags:
+- movies
 title: 'Batman vs Superman: A Origem da Justiça'
 ---
 

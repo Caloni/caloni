@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-12-12'
-tags: null
+tags:
+- movies
 title: Os Reis do Ié-Ié-Ié
 ---
 

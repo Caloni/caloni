@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-07-16'
+tags:
+- movies
 title: 'X-Men: O Filme'
 ---
 

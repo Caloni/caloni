@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-04-18'
 tags:
 - draft
+- movies
 title: 'Minimalism: A Documentary About the Important Things'
 ---
 

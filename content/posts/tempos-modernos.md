@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-05'
+tags:
+- movies
 title: Tempos Modernos
 ---
 

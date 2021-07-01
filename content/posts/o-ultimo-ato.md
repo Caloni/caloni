@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-13'
 tags:
 - cinemaqui
+- movies
 title: O Último Ato
 ---
 

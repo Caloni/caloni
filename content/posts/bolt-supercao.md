@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-12-13'
+tags:
+- movies
 title: 'Bolt: Supercão'
 ---
 

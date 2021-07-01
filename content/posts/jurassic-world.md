@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-24'
+tags:
+- movies
 title: 'Jurassic World: O Mundo dos Dinossauros'
 ---
 

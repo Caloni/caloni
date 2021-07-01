@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-01-31'
 tags:
 - draft
+- movies
 title: Eu Não Sou Seu Negro
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-02-23'
-tags: null
+tags:
+- movies
 title: O Menino e o Mundo
 ---
 

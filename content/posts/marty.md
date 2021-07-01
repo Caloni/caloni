@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-03-06'
+tags:
+- movies
 title: Marty
 ---
 

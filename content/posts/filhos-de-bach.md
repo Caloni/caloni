@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-04-04'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Filhos de Bach
 ---
 

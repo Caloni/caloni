@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-11-15'
+tags:
+- movies
 title: A Noviça Rebelde
 ---
 

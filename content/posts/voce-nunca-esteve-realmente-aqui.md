@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-04'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Você Nunca Esteve Realmente Aqui
 ---
 

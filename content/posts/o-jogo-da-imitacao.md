@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-15'
+tags:
+- movies
 title: O Jogo da Imitação
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-09-24'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 'Ad Astra: Rumo às Estrelas'
 ---
 

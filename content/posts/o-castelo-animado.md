@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-04-20'
+tags:
+- movies
 title: O Castelo Animado
 ---
 

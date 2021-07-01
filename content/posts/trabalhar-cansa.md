@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-10-18'
+tags:
+- movies
 title: Trabalhar Cansa
 ---
 

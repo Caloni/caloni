@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-06-20'
+tags:
+- movies
 title: 'Circo dos Horrores: O Aprendiz de Vampiro'
 ---
 

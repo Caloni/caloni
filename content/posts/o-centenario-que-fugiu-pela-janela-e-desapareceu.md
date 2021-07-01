@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-08-19'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Centenário Que Fugiu Pela Janela e Desapareceu
 ---
 

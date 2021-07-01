@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-12-29'
 tags:
 - draft
+- movies
 title: Harry Potter e o Cálice de Fogo
 ---
 

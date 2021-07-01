@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-01-28'
 tags:
 - draft
+- movies
 title: Irmão Sol, Irmã Lua
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-09-18'
+tags:
+- movies
 title: Cowboys e Aliens
 ---
 

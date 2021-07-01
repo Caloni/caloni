@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-05-11'
 tags:
 - draft
+- movies
 title: Bicho de Sete Cabeças
 ---
 

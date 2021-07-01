@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-06-27'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Homem-Formiga e a Vespa
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-07'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Djon Africa
 ---
 

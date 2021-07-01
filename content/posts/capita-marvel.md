@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-12'
 tags:
 - draft
+- movies
 title: Capitã Marvel
 ---
 

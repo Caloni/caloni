@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-05-19'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Degradê
 ---
 

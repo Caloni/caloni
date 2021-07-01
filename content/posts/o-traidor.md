@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-09-04'
-tags: null
+tags:
+- movies
 title: O Traidor
 ---
 

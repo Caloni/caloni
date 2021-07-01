@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-27'
 tags:
 - draft
+- movies
 title: Batman Begins
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-09-06'
+tags:
+- movies
 title: O Ditador
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-09-23'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Menino que Fazia Rir
 ---
 

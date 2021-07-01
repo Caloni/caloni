@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-24'
+tags:
+- movies
 title: O Cliente
 ---
 

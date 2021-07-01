@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-03-21'
+tags:
+- movies
 title: Os Fantasmas de Scrooge
 ---
 

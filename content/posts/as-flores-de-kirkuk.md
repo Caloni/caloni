@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-10-25'
+tags:
+- movies
 title: As Flores de Kirkuk
 ---
 

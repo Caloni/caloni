@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-11-30'
 tags:
 - draft
+- movies
 title: Maníaco
 ---
 

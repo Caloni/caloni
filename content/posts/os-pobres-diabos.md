@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-07-01'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Os Pobres Diabos
 ---
 

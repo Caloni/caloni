@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-02-16'
 tags:
 - draft
+- movies
 title: Eu Posso Ouvir o Oceano
 ---
 

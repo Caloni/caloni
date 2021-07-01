@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-06-09'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Fora de Série
 ---
 

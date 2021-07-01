@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-05-25'
+tags:
+- movies
 title: 'Velozes & Furiosos 5: Operação Rio'
 ---
 

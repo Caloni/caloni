@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-11-22'
 tags:
 - draft
+- movies
 title: 'Borat: Fita de Cinema Seguinte'
 ---
 

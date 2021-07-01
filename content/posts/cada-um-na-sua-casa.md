@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-25'
+tags:
+- movies
 title: Cada Um Na Sua Casa
 ---
 

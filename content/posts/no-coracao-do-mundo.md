@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-07-24'
 tags:
 - cinemaqui
 - draft
+- movies
 title: No Coração do Mundo
 ---
 

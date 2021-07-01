@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-02-15'
+tags:
+- movies
 title: Nanny McPhee A Babá Encantada
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-06-01'
+tags:
+- movies
 title: Cul-de-Sac
 ---
 

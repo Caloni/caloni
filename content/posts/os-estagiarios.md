@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-07'
+tags:
+- movies
 title: Os Estagiários
 ---
 

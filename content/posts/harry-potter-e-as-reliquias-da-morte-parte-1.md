@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-11-19'
+tags:
+- movies
 title: Harry Potter e as Relíquias da Morte - Parte 1
 ---
 

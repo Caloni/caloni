@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-10-27'
+tags:
+- movies
 title: O Mágico
 ---
 

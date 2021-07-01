@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-07-29'
 tags:
 - draft
+- movies
 title: Cinquenta Tons de Liberdade
 ---
 

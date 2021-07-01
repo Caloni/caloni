@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-20'
+tags:
+- movies
 title: Sob a Pele
 ---
 

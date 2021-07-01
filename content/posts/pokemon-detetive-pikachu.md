@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-05-25'
 tags:
 - draft
+- movies
 title: 'Pokemon: Detetive Pikachu'
 ---
 

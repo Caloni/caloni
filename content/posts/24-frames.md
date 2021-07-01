@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-10-24'
 tags:
 - cinemaqui
 - draft
+- movies
 title: 24 Frames
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-03-15'
 tags:
 - cinemaqui
+- movies
 title: Chatô - O Rei do Brasil
 ---
 

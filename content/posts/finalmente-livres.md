@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-28'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Finalmente Livres
 ---
 

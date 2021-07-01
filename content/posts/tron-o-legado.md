@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-14'
+tags:
+- movies
 title: 'Tron: o Legado'
 ---
 

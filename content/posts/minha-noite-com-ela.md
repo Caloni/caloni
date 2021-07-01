@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-08-10'
+tags:
+- movies
 title: Minha Noite Com Ela
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-01-17'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Vice
 ---
 

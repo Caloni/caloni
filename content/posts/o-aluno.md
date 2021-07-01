@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-12-09'
 tags:
 - draft
+- movies
 title: O Aluno
 ---
 

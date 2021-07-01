@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-02-19'
+tags:
+- movies
 title: 'Millennium: Os Homens que Não Amavam as Mulheres'
 ---
 

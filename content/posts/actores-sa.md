@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-04-20'
+tags:
+- movies
 title: Actores S.A.
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-06-14'
+tags:
+- movies
 title: Encantada
 ---
 

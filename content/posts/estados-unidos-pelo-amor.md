@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-12-09'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Estados Unidos Pelo Amor
 ---
 

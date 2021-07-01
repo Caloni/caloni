@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-10-11'
+tags:
+- movies
 title: Mães de Verdade
 ---
 

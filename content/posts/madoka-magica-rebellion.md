@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-27'
+tags:
+- movies
 title: 'Madoka Magica: Rebellion'
 ---
 

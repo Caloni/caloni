@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-11-05'
+tags:
+- movies
 title: José e Pilar
 ---
 

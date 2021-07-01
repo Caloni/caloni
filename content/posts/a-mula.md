@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-12-26'
 tags:
 - draft
+- movies
 title: A Mula
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-07-27'
+tags:
+- movies
 title: Fausto
 ---
 

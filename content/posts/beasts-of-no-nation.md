@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-03-11'
 tags:
 - cinemaqui
+- movies
 title: Beasts of No Nation
 ---
 

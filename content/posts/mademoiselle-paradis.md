@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-04-26'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Mademoiselle Paradis
 ---
 

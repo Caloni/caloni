@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-10-07'
+tags:
+- movies
 title: Deus da Carnificina
 ---
 

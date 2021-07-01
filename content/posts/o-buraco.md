@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-04-12'
+tags:
+- movies
 title: O Buraco
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-11-09'
 tags:
 - draft
+- movies
 title: 'Shirkers: O Filme Roubado'
 ---
 

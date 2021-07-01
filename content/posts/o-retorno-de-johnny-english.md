@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-11-13'
+tags:
+- movies
 title: O Retorno de Johnny English
 ---
 

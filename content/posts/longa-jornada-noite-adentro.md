@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-04-30'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Longa Jornada Noite Adentro
 ---
 

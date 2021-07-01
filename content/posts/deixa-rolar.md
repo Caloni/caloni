@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-02-11'
 tags:
 - cinemaqui
+- movies
 title: Deixa Rolar
 ---
 

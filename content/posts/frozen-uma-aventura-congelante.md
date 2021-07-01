@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-09'
+tags:
+- movies
 title: 'Frozen: Uma Aventura Congelante'
 ---
 

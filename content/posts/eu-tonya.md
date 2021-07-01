@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-01-13'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Eu, Tonya
 ---
 

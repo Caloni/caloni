@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-04-27'
 tags:
 - draft
+- movies
 title: Guardiões da Galáxia Vol. 2
 ---
 

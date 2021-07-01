@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-03-24'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Deixe a Luz Do Sol Entrar
 ---
 

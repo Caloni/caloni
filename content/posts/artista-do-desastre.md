@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-06-05'
 tags:
 - draft
+- movies
 title: Artista do Desastre
 ---
 

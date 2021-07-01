@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-20'
+tags:
+- movies
 title: Procura-se um Amigo para o Fim do Mundo
 ---
 

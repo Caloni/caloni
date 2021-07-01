@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-05-01'
-tags: null
+tags:
+- movies
 title: O Fantasma do Futuro
 ---
 

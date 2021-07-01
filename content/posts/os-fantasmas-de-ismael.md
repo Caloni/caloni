@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-04-29'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Os Fantasmas de Ismael
 ---
 

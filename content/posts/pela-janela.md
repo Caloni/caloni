@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-12-08'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Pela Janela
 ---
 

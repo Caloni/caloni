@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-12-30'
+tags:
+- movies
 title: De Pernas pro Ar
 ---
 

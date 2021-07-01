@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-31'
 tags:
 - draft
+- movies
 title: Contra Todos
 ---
 

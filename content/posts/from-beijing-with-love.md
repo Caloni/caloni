@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-12'
 tags:
 - draft
+- movies
 title: From Beijing with Love
 ---
 

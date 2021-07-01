@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-01-07'
-tags: null
+tags:
+- movies
 title: O Dragão Chinês
 ---
 

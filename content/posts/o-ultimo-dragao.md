@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-07-07'
+tags:
+- movies
 title: O Último Dragão
 ---
 

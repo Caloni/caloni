@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-22'
 tags:
 - cinemaqui
+- movies
 title: A Viagem de Meu Pai
 ---
 

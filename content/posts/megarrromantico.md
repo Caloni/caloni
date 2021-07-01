@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-10'
 tags:
 - draft
+- movies
 title: Megarrromântico
 ---
 

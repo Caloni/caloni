@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-04-10'
-tags: null
+tags:
+- movies
 title: A Máfia Mata Apenas no Verão
 ---
 

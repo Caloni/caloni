@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-11-07'
+tags:
+- movies
 title: Atividade Paranormal 2
 ---
 

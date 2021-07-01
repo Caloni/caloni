@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-19'
+tags:
+- movies
 title: 12 Anos de Escravidão
 ---
 

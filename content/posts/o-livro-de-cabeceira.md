@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-09-07'
+tags:
+- movies
 title: O Livro de Cabeceira
 ---
 

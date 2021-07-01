@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-01-11'
+tags:
+- movies
 title: Mãe e Filho
 ---
 

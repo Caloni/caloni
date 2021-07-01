@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-05-19'
 tags:
 - cinemaqui
+- movies
 title: Casamento de Verdade
 ---
 

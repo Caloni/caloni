@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-04-30'
 tags:
 - cinemaqui
+- movies
 title: Nós, Eles e Eu
 ---
 

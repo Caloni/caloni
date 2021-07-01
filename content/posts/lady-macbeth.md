@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-07-31'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Lady Macbeth
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-01-10'
+tags:
+- movies
 title: Era Uma Vez Eu, Verônica
 ---
 

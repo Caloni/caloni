@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-02-15'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Primeiro Ano
 ---
 

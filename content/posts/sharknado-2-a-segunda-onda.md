@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-08-20'
-tags: null
+tags:
+- movies
 title: 'Sharknado 2: A Segunda Onda'
 ---
 

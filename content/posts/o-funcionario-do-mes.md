@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-08-12'
 tags:
 - cinemaqui
+- movies
 title: O Funcionário do Mês
 ---
 

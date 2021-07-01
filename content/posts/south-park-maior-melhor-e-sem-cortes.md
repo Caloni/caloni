@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-11-02'
+tags:
+- movies
 title: 'South Park: Maior, Melhor e Sem Cortes'
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-24'
 tags:
 - draft
+- movies
 title: Pantera Negra
 ---
 

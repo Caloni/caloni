@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-08-09'
-tags: null
+tags:
+- movies
 title: 'Brazil: O Filme'
 ---
 

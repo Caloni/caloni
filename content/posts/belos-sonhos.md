@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-12-19'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Belos Sonhos
 ---
 

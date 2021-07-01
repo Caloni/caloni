@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-04-21'
 tags:
 - draft
+- movies
 title: 28 Dias
 ---
 

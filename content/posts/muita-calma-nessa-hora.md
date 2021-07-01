@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-11-20'
+tags:
+- movies
 title: Muita Calma Nessa Hora
 ---
 

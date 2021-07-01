@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-10-18'
 tags:
 - cinemaqui
+- movies
 title: Mate-o e Deixe Esta Cidade
 ---
 

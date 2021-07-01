@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-12-11'
 tags:
 - draft
+- movies
 title: The Ballad of Buster Scruggs
 ---
 

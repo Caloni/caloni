@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-11-10'
+tags:
+- movies
 title: O Satânico Dr. No
 ---
 

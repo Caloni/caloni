@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-10-29'
+tags:
+- movies
 title: Cerejeiras em Flor
 ---
 

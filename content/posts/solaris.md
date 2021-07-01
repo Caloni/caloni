@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-10-21'
+tags:
+- movies
 title: Solaris
 ---
 

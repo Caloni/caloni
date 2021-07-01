@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-18'
+tags:
+- movies
 title: Ladrões de Bicicletas
 ---
 

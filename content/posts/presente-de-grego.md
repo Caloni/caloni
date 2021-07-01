@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-05-02'
+tags:
+- movies
 title: Presente de Grego
 ---
 

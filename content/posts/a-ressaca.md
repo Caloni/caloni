@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-09-10'
+tags:
+- movies
 title: A Ressaca
 ---
 

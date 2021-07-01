@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-04-16'
+tags:
+- movies
 title: Gigantes de Aço
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-12-19'
+tags:
+- movies
 title: 'Liv & Ingmar: Uma História de Amor'
 ---
 

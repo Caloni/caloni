@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-12-01'
-tags: null
+tags:
+- movies
 title: Corra que a Polícia Vem Aí!
 ---
 

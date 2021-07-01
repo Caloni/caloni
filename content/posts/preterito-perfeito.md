@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-05-13'
+tags:
+- movies
 title: Pretérito Perfeito
 ---
 

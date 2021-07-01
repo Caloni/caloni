@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-11-12'
+tags:
+- movies
 title: 'RED: Aposentados e Perigosos'
 ---
 

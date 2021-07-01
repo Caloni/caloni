@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-09-28'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Legalize Já! Amizade Nunca Morre
 ---
 

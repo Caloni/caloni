@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-04-21'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Além da Ilusão
 ---
 

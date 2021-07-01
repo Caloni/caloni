@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-12-08'
+tags:
+- movies
 title: Aliens, o Resgate
 ---
 

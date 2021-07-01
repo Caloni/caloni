@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-09-17'
 tags:
 - cinemaqui
+- movies
 title: A Passageira
 ---
 

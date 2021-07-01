@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-30'
 tags:
 - draft
+- movies
 title: Infiltrados Na Klan
 ---
 

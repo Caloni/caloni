@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-20'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Quando Margot Encontra Margot
 ---
 

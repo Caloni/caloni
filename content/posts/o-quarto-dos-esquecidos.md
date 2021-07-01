@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-11'
 tags:
 - cinemaqui
+- movies
 title: O Quarto dos Esquecidos
 ---
 

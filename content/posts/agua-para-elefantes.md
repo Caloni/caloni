@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-08-27'
+tags:
+- movies
 title: Água para Elefantes
 ---
 

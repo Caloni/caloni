@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-01-03'
+tags:
+- movies
 title: Antes do Pôr-do-Sol
 ---
 

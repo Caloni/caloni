@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-05-21'
+tags:
+- movies
 title: Quincas Berro d'Água
 ---
 

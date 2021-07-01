@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-10-19'
+tags:
+- movies
 title: Os Infratores
 ---
 

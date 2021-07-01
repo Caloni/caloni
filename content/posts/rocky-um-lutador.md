@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-17'
+tags:
+- movies
 title: 'Rocky: Um Lutador'
 ---
 

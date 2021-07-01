@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-04-11'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Tudo que Quero
 ---
 

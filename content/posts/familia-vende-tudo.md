@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-10-16'
+tags:
+- movies
 title: Família Vende Tudo
 ---
 

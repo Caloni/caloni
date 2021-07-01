@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-12-19'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Amigos Para Sempre
 ---
 

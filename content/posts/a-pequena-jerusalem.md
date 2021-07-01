@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-01-14'
 tags:
 - draft
+- movies
 title: A Pequena Jerusalém
 ---
 

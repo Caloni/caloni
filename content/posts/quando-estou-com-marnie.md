@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-13'
+tags:
+- movies
 title: Quando Estou Com Marnie
 ---
 

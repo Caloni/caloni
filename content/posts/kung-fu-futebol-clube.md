@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-09-07'
+tags:
+- movies
 title: Kung-Fu Futebol Clube
 ---
 

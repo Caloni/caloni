@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-12-22'
+tags:
+- movies
 title: Padrinhos de Tóquio
 ---
 

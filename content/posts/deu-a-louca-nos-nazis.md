@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-25'
+tags:
+- movies
 title: Deu a Louca nos Nazis
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-12-16'
+tags:
+- movies
 title: O Cozinheiro, o Ladrão, Sua Mulher e o Amante
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-30'
+tags:
+- movies
 title: O Abutre
 ---
 

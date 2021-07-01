@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-19'
+tags:
+- movies
 title: '8 Mile: Rua das Ilusões'
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-09-09'
+tags:
+- movies
 title: 'Kill Bill: Volume 2'
 ---
 

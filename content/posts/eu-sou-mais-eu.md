@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-01-14'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Eu Sou Mais Eu
 ---
 

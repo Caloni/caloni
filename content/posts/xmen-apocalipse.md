@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-06-27'
-tags: null
+tags:
+- movies
 title: 'X-Men: Apocalipse'
 ---
 

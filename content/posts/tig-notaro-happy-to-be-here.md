@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-07-01'
 tags:
 - draft
+- movies
 title: 'Tig Notaro: Happy to Be Here'
 ---
 

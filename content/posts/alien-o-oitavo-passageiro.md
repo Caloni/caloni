@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-12-04'
+tags:
+- movies
 title: Alien - O Oitavo Passageiro
 ---
 

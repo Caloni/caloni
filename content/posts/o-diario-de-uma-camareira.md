@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-02-06'
 tags:
 - draft
+- movies
 title: O Diario De Uma Camareira
 ---
 

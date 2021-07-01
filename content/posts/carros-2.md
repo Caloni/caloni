@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-07-20'
+tags:
+- movies
 title: Carros 2
 ---
 

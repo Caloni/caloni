@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-01-18'
+tags:
+- movies
 title: Paixão Proibida
 ---
 

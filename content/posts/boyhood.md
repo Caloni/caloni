@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-20'
+tags:
+- movies
 title: 'Boyhood: Da Infância à Juventude'
 ---
 

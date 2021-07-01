@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-02-06'
 tags:
 - cinemaqui
+- movies
 title: Reza a Lenda
 ---
 

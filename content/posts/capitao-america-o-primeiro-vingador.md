@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-08-09'
+tags:
+- movies
 title: 'Capitão América: O Primeiro Vingador'
 ---
 

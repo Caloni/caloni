@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-24'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Amazing Grace
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-23'
+tags:
+- movies
 title: Plano 9 do Espaço Sideral
 ---
 

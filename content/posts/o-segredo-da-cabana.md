@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-11-28'
+tags:
+- movies
 title: O Segredo da Cabana
 ---
 

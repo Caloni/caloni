@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-12-15'
 tags:
 - draft
+- movies
 title: Animais Fantásticos e Onde Habitam
 ---
 

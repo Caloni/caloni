@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-12-14'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Origem do Dragão
 ---
 

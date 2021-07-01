@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-02-29'
-tags: null
+tags:
+- movies
 title: 'Spotlight: Segredos Revelados'
 ---
 

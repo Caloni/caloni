@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-01-30'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Em Pedaços
 ---
 

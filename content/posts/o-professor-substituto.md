@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-07-11'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Professor Substituto
 ---
 

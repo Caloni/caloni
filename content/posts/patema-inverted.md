@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-19'
+tags:
+- movies
 title: Patema Inverted
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-08'
 tags:
 - cinemaqui
+- movies
 title: Club Sandwich
 ---
 

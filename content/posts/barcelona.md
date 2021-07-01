@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-05-18'
 tags:
 - draft
+- movies
 title: Barcelona
 ---
 

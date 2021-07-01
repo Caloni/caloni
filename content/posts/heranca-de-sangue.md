@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-09-04'
 tags:
 - cinemaqui
+- movies
 title: Herança de Sangue
 ---
 

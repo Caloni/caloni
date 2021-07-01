@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-10-17'
+tags:
+- movies
 title: Qual Seu Número?
 ---
 

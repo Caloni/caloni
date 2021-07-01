@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-19'
 tags:
 - cinemaqui
+- movies
 title: Michelle e Obama
 ---
 

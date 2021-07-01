@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-11-14'
 tags:
 - draft
+- movies
 title: 'Bob Esponja: o Incrível Resgate'
 ---
 

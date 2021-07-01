@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-12-14'
 tags:
 - draft
+- movies
 title: 'Star Wars: Os Últimos Jedi'
 ---
 

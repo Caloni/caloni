@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-10-13'
+tags:
+- movies
 title: Esqueceram de Mim
 ---
 

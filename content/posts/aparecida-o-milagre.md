@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-12-19'
+tags:
+- movies
 title: 'Aparecida: O Milagre'
 ---
 

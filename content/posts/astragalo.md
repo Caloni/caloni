@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-03-07'
 tags:
 - cinemaqui
+- movies
 title: Astrágalo
 ---
 

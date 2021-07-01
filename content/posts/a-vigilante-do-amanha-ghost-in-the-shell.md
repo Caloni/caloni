@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-08-25'
 tags:
 - draft
+- movies
 title: 'A Vigilante do Amanhã: Ghost In The Shell'
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-06-13'
+tags:
+- movies
 title: Amor Sem Fim
 ---
 

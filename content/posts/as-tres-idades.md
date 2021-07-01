@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-18'
+tags:
+- movies
 title: As Três Idades
 ---
 

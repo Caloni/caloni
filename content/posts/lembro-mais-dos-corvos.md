@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-02-19'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Lembro Mais Dos Corvos
 ---
 

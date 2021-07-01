@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-02-25'
+tags:
+- movies
 title: A Invenção de Hugo Cabret
 ---
 

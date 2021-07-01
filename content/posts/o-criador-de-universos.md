@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-10'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Criador de Universos
 ---
 

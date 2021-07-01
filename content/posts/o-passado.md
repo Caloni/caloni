@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-05-04'
 tags:
 - draft
+- movies
 title: O Passado
 ---
 

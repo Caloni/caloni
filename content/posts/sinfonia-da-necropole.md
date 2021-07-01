@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-03-30'
 tags:
 - cinemaqui
+- movies
 title: Sinfonia da Necrópole
 ---
 

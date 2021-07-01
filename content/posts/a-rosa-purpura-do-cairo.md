@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-12-16'
+tags:
+- movies
 title: A Rosa Púrpura do Cairo
 ---
 

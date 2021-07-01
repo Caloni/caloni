@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-04-01'
+tags:
+- movies
 title: 'Up: Altas Aventuras'
 ---
 

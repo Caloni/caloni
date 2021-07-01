@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-11-18'
 tags:
 - draft
+- movies
 title: Oito Mulheres e Um Segredo
 ---
 

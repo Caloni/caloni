@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-02-07'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Maria e João - O Conto das Bruxas
 ---
 

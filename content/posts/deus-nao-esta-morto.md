@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-28'
+tags:
+- movies
 title: Deus Não Está Morto
 ---
 

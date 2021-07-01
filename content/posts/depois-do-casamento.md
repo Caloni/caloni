@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-02-22'
+tags:
+- movies
 title: Depois do Casamento
 ---
 

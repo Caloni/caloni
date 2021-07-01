@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-21'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Fantasma de Peter Sellers
 ---
 

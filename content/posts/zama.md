@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-03-26'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Zama
 ---
 

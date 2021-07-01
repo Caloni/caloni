@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-07-26'
+tags:
+- movies
 title: O Conto da Princesa Kaguya
 ---
 

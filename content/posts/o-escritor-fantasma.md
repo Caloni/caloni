@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-05-28'
+tags:
+- movies
 title: O Escritor Fantasma
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-06'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Ford Vs Ferrari
 ---
 

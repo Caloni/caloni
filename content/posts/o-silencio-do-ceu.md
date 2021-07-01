@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-09-13'
 tags:
 - cinemaqui
+- movies
 title: O Silêncio do Céu
 ---
 

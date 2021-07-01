@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-04-28'
+tags:
+- movies
 title: O Caminho das Nuvens
 ---
 

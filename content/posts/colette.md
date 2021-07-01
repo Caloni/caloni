@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-12-26'
 tags:
 - draft
+- movies
 title: Colette
 ---
 

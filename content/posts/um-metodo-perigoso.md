@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-10-02'
+tags:
+- movies
 title: Um Método Perigoso
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-05'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Mulheres Armadas, Homens na Lata
 ---
 

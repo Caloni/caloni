@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-09-17'
+tags:
+- movies
 title: Baarìa - A Porta do Vento
 ---
 

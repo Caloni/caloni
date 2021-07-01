@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-11-20'
+tags:
+- movies
 title: 'A Saga Crepúsculo: Amanhecer - Parte 2'
 ---
 

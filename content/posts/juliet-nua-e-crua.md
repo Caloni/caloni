@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-10-09'
 tags:
 - draft
+- movies
 title: Juliet, Nua e Crua
 ---
 

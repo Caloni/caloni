@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-04-12'
+tags:
+- movies
 title: Um Time Show de Bola
 ---
 

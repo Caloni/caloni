@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-06-18'
+tags:
+- movies
 title: Apenas uma Noite
 ---
 

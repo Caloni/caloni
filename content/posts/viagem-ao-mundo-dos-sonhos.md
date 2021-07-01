@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-06-04'
+tags:
+- movies
 title: Viagem ao Mundo dos Sonhos
 ---
 

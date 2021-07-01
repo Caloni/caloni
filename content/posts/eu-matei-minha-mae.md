@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-10-16'
+tags:
+- movies
 title: Eu Matei Minha Mãe
 ---
 

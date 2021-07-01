@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-12-06'
+tags:
+- movies
 title: A Origem dos Guardiões
 ---
 

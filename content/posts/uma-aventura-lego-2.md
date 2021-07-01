@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-05'
 tags:
 - draft
+- movies
 title: Uma Aventura Lego 2
 ---
 

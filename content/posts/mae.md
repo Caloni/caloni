@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-09-15'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Mãe!
 ---
 

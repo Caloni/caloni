@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-01-23'
+tags:
+- movies
 title: 'S.O.S.: Tem um Louco Solto no Espaço'
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-09-07'
+tags:
+- movies
 title: Se Puder... Dirija!
 ---
 

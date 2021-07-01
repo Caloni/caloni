@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-01-14'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Instinto
 ---
 

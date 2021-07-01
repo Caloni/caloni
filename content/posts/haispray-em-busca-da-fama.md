@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-05-14'
+tags:
+- movies
 title: 'Hairspray: Em Busca da Fama'
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-09-08'
-tags: null
+tags:
+- movies
 title: Grande Coisa
 ---
 

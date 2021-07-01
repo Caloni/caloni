@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-11-08'
 tags:
 - draft
+- movies
 title: 'The Square: A Arte da Discórdia'
 ---
 

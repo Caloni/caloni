@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-25'
+tags:
+- movies
 title: O Beijo da Borboleta
 ---
 

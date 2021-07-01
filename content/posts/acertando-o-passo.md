@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-05-01'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Acertando o Passo
 ---
 

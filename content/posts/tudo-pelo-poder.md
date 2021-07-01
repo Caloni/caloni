@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-12-30'
+tags:
+- movies
 title: Tudo pelo Poder
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-05-30'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Tal Mãe, Tal Filha
 ---
 

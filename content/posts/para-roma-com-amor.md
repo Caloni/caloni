@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-07-03'
+tags:
+- movies
 title: Para Roma com Amor
 ---
 

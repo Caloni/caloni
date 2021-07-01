@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-06-19'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Toy Story 4
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-10-28'
+tags:
+- movies
 title: Vidas ao Vento
 ---
 

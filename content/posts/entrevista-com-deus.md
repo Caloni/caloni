@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-11-07'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Entrevista Com Deus
 ---
 

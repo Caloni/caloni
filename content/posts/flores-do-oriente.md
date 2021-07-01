@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-08-06'
+tags:
+- movies
 title: Flores do Oriente
 ---
 

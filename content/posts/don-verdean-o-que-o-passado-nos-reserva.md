@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-01-21'
 tags:
 - draft
+- movies
 title: 'Don Verdean: o Que o Passado nos Reserva'
 ---
 

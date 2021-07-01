@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-03-13'
 tags:
 - draft
+- movies
 title: Tres Anúncios Para Um Crime
 ---
 

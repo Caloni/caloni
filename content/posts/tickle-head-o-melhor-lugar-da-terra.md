@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-08-04'
 tags:
 - draft
+- movies
 title: Tickle Head, O Melhor Lugar Da Terra
 ---
 

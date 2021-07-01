@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-12-24'
+tags:
+- movies
 title: Terapia de Risco
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-12-07'
-tags: null
+tags:
+- movies
 title: 'Pixote: A Lei do Mais Fraco'
 ---
 

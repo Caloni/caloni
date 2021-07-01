@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-07-17'
 tags:
 - draft
+- movies
 title: 'Homem Aranha: Longe De Casa'
 ---
 

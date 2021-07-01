@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-18'
 tags:
 - draft
+- movies
 title: A Cor do Paraíso
 ---
 

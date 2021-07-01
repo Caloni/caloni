@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-26'
+tags:
+- movies
 title: Pi
 ---
 

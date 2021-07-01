@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-11-07'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Um Dia De Chuva Em Nova York
 ---
 

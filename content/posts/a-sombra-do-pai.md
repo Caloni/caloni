@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-04-22'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Sombra do Pai
 ---
 

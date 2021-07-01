@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-03-26'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Os Belos Dias de Aranjuez
 ---
 

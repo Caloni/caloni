@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-10'
+tags:
+- movies
 title: O Suspeito da Rua Arlington
 ---
 

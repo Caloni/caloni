@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-01-07'
 tags:
 - draft
+- movies
 title: 'Moana: Um Mar de Aventuras'
 ---
 

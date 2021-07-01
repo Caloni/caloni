@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-08-10'
 tags:
 - cinemaqui
+- movies
 title: Lost Girls
 ---
 

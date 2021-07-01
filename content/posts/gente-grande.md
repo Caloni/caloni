@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-09-24'
+tags:
+- movies
 title: Gente Grande
 ---
 

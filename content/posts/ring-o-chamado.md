@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-09-15'
-tags: null
+tags:
+- movies
 title: 'Ring: O Chamado'
 ---
 

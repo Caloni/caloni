@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-09-04'
+tags:
+- movies
 title: 'Watchmen: O Filme'
 ---
 

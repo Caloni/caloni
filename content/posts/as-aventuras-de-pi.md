@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-01-03'
+tags:
+- movies
 title: As Aventuras de Pi
 ---
 

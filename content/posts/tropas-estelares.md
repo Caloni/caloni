@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-04-03'
-tags: null
+tags:
+- movies
 title: Tropas Estelares
 ---
 

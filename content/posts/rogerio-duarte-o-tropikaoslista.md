@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-04-18'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Rogério Duarte, o Tropikaoslista
 ---
 

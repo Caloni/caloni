@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-03-09'
+tags:
+- movies
 title: Esposa de Mentirinha
 ---
 

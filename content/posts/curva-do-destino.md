@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-10-13'
+tags:
+- movies
 title: Curva do Destino
 ---
 

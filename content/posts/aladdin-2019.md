@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-05-22'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Aladdin (2019)
 ---
 

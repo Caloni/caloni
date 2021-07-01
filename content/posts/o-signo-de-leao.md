@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-12-06'
+tags:
+- movies
 title: O Signo do Leão
 ---
 

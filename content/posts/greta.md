@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-09-30'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Greta
 ---
 

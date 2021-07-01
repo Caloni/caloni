@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-11-02'
+tags:
+- movies
 title: O Discurso do Rei
 ---
 

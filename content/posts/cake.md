@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-04-22'
 tags:
 - cinemaqui
+- movies
 title: 'Cake: Uma Razão para Viver'
 ---
 

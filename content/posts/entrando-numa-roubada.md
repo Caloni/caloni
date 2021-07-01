@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-08-23'
 tags:
 - cinemaqui
+- movies
 title: Entrando Numa Roubada
 ---
 

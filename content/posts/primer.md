@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-07-09'
+tags:
+- movies
 title: Primer
 ---
 

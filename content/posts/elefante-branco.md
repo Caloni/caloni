@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-02-06'
+tags:
+- movies
 title: Elefante Branco
 ---
 

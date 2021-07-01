@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-07-30'
+tags:
+- movies
 title: Homem de Ferro
 ---
 

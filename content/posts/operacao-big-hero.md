@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-31'
+tags:
+- movies
 title: Operação Big Hero
 ---
 

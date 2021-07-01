@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-16'
+tags:
+- movies
 title: O Fabuloso Destino de Amélie Poulain
 ---
 

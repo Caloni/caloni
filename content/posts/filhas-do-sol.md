@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-08-13'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Filhas do Sol
 ---
 

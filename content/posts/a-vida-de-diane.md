@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-05-04'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Vida De Diane
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-03-01'
+tags:
+- movies
 title: As Mulheres do Sexto Andar
 ---
 

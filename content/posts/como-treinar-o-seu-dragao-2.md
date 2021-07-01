@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-06-19'
+tags:
+- movies
 title: Como Treinar o Seu Dragão 2
 ---
 

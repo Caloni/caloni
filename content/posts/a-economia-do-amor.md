@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-11-21'
 tags:
 - cinemaqui
+- movies
 title: A Economia do Amor
 ---
 

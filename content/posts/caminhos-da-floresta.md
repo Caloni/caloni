@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-05-11'
+tags:
+- movies
 title: Caminhos da Floresta
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-04-25'
+tags:
+- movies
 title: Conta Comigo
 ---
 

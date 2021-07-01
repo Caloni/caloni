@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-11-28'
+tags:
+- movies
 title: Com 007 Só Se Vive Duas Vezes
 ---
 

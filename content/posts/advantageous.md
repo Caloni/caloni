@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-20'
+tags:
+- movies
 title: Advantageous
 ---
 

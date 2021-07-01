@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-03-17'
 tags:
 - draft
+- movies
 title: A Caminho de Kandahar
 ---
 

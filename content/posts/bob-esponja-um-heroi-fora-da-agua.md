@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-02-16'
+tags:
+- movies
 title: 'Bob Esponja: Um Herói Fora d''Água'
 ---
 

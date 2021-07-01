@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-01-01'
+tags:
+- movies
 title: A Liga Extraordinária
 ---
 

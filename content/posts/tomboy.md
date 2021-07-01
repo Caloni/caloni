@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-01-15'
+tags:
+- movies
 title: Tomboy
 ---
 

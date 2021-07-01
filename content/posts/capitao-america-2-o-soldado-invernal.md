@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-04-27'
+tags:
+- movies
 title: 'Capitão América 2: O Soldado Invernal'
 ---
 

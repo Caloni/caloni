@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-08-24'
+tags:
+- movies
 title: A Separação
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-07-20'
+tags:
+- movies
 title: Desconstruindo Harry
 ---
 

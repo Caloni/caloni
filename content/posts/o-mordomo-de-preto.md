@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-06-29'
+tags:
+- movies
 title: O Mordomo de Preto
 ---
 

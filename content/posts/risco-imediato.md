@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-03-05'
 tags:
 - cinemaqui
+- movies
 title: Risco Imediato
 ---
 

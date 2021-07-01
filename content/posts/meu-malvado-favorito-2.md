@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2013-07-09'
+tags:
+- movies
 title: Meu Malvado Favorito 2
 ---
 

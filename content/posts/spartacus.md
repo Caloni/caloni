@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-07-20'
+tags:
+- movies
 title: Spartacus
 ---
 

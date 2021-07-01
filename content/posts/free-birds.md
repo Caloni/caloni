@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-08-15'
+tags:
+- movies
 title: Bons de Bico
 ---
 

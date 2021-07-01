@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-08-14'
+tags:
+- movies
 title: 'G.I. Joe: A Origem de Cobra'
 ---
 

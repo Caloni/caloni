@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2010-06-14'
+tags:
+- movies
 title: 'Príncipe da Pérsia: As Areias do Tempo'
 ---
 

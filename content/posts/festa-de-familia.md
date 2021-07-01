@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-09-29'
+tags:
+- movies
 title: Festa de Família
 ---
 

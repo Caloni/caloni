@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-04-27'
 tags:
 - draft
+- movies
 title: Corra, Lola, Corra
 ---
 

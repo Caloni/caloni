@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-07-22'
+tags:
+- movies
 title: Harry Potter e as Relíquias da Morte - Parte 2
 ---
 

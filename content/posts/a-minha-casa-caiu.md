@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-07-31'
 tags:
 - draft
+- movies
 title: A Minha Casa Caiu
 ---
 

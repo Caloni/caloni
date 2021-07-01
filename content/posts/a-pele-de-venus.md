@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-16'
 tags:
 - cinemaqui
+- movies
 title: A Pele de Vênus
 ---
 

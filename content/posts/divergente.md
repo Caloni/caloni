@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-05-13'
+tags:
+- movies
 title: Divergente
 ---
 

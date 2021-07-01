@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-10-23'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Deus é Mulher e Seu Nome é Petúnia
 ---
 

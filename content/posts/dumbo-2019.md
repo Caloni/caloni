@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-22'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Dumbo
 ---
 

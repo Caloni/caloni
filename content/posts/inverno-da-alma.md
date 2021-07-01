@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-01-30'
+tags:
+- movies
 title: Inverno da Alma
 ---
 

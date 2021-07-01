@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-01-23'
+tags:
+- movies
 title: Os Mercenários 3
 ---
 

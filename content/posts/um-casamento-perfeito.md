@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-05-28'
+tags:
+- movies
 title: Um Casamento Perfeito
 ---
 

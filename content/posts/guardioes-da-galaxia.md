@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2014-12-06'
+tags:
+- movies
 title: Guardiões da Galáxia
 ---
 

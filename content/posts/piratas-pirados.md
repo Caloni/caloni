@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-11-04'
+tags:
+- movies
 title: Piratas Pirados!
 ---
 

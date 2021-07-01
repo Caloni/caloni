@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-02-28'
 tags:
 - cinemaqui
 - draft
+- movies
 title: A Número Um
 ---
 

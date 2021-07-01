@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2021-03-03'
 tags:
 - draft
+- movies
 title: A Ilusão Viaja de Trem
 ---
 

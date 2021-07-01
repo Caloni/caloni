@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-01-21'
 tags:
 - draft
+- movies
 title: O Caminho Para Casa
 ---
 

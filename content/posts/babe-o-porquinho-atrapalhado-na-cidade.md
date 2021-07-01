@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-01-30'
+tags:
+- movies
 title: Babe O Porquinho Atrapalhado na Cidade
 ---
 

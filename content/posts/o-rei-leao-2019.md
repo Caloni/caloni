@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-07-16'
 tags:
 - cinemaqui
 - draft
+- movies
 title: O Rei Leão (2019)
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-02-17'
+tags:
+- movies
 title: Deixe-me Entrar
 ---
 

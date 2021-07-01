@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-03-13'
 tags:
 - draft
+- movies
 title: Amadeus (versão do diretor)
 ---
 

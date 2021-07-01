@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-03-01'
 tags:
 - cinemaqui
+- movies
 title: Tudo Vai Ficar Bem
 ---
 

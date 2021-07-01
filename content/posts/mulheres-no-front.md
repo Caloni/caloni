@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-03-11'
 tags:
 - draft
+- movies
 title: Mulheres no Front
 ---
 

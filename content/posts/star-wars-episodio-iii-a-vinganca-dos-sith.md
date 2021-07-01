@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-06-12'
+tags:
+- movies
 title: 'Star Wars, Episódio III: A Vingança dos Sith'
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-01-16'
-tags: null
+tags:
+- movies
 title: Querida, Encolhi as Crianças
 ---
 

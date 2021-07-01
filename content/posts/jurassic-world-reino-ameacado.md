@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2018-06-25'
 tags:
 - draft
+- movies
 title: 'Jurassic World: Reino Ameaçado'
 ---
 

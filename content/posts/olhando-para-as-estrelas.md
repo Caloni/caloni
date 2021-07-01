@@ -1,10 +1,11 @@
 ---
 categories:
-- movies
+- reviews
 date: '2017-11-04'
 tags:
 - cinemaqui
 - draft
+- movies
 title: Olhando Para As Estrelas
 ---
 

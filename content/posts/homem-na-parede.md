@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-22'
-tags: null
+tags:
+- movies
 title: Homem na Parede
 ---
 

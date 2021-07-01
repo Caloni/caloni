@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-07-08'
 tags:
 - cinemaqui
+- movies
 title: A Conexão Francesa
 ---
 

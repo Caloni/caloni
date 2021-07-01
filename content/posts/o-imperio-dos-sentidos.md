@@ -1,9 +1,10 @@
 ---
 categories:
-- movies
+- reviews
 date: '2019-06-03'
 tags:
 - draft
+- movies
 title: O Império dos Sentidos
 ---
 

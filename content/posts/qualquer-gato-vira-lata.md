@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2012-05-10'
+tags:
+- movies
 title: Qualquer Gato Vira-Lata
 ---
 

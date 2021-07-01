@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-08-12'
-tags: null
+tags:
+- movies
 title: Esquadrão Suicida
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2016-10-31'
-tags: null
+tags:
+- movies
 title: Sonar
 ---
 

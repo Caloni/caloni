@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-05-23'
+tags:
+- movies
 title: Wall Street Poder e Cobiça
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-11-23'
-tags: null
+tags:
+- movies
 title: 'Tomorrowland: Um Lugar Onde Nada é Impossível'
 ---
 

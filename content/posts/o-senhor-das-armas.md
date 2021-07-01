@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2011-04-07'
+tags:
+- movies
 title: O Senhor das Armas
 ---
 

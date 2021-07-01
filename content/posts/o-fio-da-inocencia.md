@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2020-05-04'
+tags:
+- movies
 title: O Fio da Inocência
 ---
 

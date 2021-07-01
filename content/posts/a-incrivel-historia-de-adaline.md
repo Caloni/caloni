@@ -1,7 +1,9 @@
 ---
 categories:
-- movies
+- reviews
 date: '2015-09-11'
+tags:
+- movies
 title: A Incrível História de Adaline
 ---
 
