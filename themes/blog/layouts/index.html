@@ -11,7 +11,7 @@
     {{ partial "quick_search.html" . }}
     {{ partial "lists.html" . }}
     {{ partial "list_begin.html" . }}
-    {{ range first .Site.Params.home.postsCount (where .Site.RegularPages "Params.categories" "intersect" .Site.Params.home.categories) }}
+    {{ range first .Site.Params.home.postsCount (where .Site.RegularPages "Params.tags" "intersect" .Site.Params.home.tags) }}
         <tr><td>
         <i>{{ .Summary | safeHTML | truncate 200 "..." -}}</i>
         <b><a href="{{ .Permalink }}">{{ .Title }}</a></b>
