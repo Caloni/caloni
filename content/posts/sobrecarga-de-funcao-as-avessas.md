@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- ccpp
 date: '2012-05-20'
+tags:
+- ccpp
 title: Sobrecarga de função às avessas
 ---
 

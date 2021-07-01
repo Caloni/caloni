@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- ccpp
 date: '2018-08-21'
+tags:
+- ccpp
 title: Meu Novo Parseador de Argc Argv
 ---
 

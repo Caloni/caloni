@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- ccpp
 date: '2015-01-26'
+tags:
+- ccpp
 title: Origem do Tipo char
 ---
 

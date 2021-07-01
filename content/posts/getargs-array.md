@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- ccpp
 date: '2020-08-04'
+tags:
+- ccpp
 title: GetArgs v. Array
 ---
 

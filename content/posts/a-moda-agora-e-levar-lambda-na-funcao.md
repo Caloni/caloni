@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- ccpp
 date: '2014-03-28'
+tags:
+- ccpp
 title: A moda agora é levar lambda na função
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- ccpp
 date: '2008-04-21'
+tags:
+- ccpp
 title: Ode ao C++
 ---
 

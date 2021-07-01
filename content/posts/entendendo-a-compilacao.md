@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- ccpp
 date: '2015-01-04'
+tags:
+- ccpp
 title: Entendendo a Compilação
 ---
 

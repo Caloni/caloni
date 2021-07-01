@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- ccpp
 date: '2007-10-24'
+tags:
+- ccpp
 title: Typeid e os perigos do não-polimorfismo
 ---
 

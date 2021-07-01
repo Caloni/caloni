@@ -1,9 +1,10 @@
 ---
 categories:
-- ccpp
 - code
 - english
 date: '2007-07-10'
+tags:
+- ccpp
 title: Precedence difference
 ---
 

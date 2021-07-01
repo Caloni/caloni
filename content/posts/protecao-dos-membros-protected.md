@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- ccpp
 date: '2007-10-26'
+tags:
+- ccpp
 title: Proteção dos membros protected
 ---
 

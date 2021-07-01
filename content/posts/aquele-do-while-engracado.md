@@ -1,9 +1,9 @@
 ---
 categories:
 - code
-- ccpp
 date: '2008-05-15'
-tags: null
+tags:
+- ccpp
 title: Aquele do-while engraçado
 ---
 

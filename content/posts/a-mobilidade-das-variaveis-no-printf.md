@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- ccpp
 date: '2007-09-20'
+tags:
+- ccpp
 title: A mobilidade das variáveis no printf
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- ccpp
 date: '2007-07-24'
+tags:
+- ccpp
 title: C++0x parcial no novo GCC 4.3
 ---
 

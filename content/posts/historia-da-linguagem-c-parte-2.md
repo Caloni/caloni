@@ -1,8 +1,9 @@
 ---
 categories:
-- ccpp
 - code
 date: '2007-08-15'
+tags:
+- ccpp
 title: 'História da Linguagem C: Parte 2'
 ---
 

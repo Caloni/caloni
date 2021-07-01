@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- ccpp
 date: '2020-04-22'
+tags:
+- ccpp
 title: Cast Operator
 ---
 

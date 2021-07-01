@@ -1,11 +1,11 @@
 ---
 categories:
 - code
-- ccpp
 - english
 date: '2019-08-08'
 tags:
 - draft
+- ccpp
 title: Some things I learned in a Hacker Rank exercise
 ---
 

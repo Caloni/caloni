@@ -1,9 +1,10 @@
 ---
 categories:
-- ccpp
 - code
 - english
 date: '2007-07-16'
+tags:
+- ccpp
 title: What happens inside the sizeof operator
 ---
 

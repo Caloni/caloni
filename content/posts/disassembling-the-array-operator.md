@@ -2,9 +2,10 @@
 categories:
 - code
 - english
-- ccpp
 - home
 date: '2007-06-22'
+tags:
+- ccpp
 title: Disassembling the array operator
 ---
 

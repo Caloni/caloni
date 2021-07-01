@@ -1,8 +1,9 @@
 ---
 categories:
 - code
-- ccpp
 date: '2020-06-21'
+tags:
+- ccpp
 title: C++ Co Routines
 ---
 

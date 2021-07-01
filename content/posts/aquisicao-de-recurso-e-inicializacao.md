@@ -1,8 +1,9 @@
 ---
 categories:
-- ccpp
 - code
 date: '2007-09-14'
+tags:
+- ccpp
 title: Aquisição de recurso é inicialização
 ---
 

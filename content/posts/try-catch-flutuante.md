@@ -1,7 +1,9 @@
 ---
 categories:
-- ccpp
+- code
 date: '2008-04-03'
+tags:
+- ccpp
 title: Try-catch flutuante
 ---
 
