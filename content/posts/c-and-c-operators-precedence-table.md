@@ -1,10 +1,10 @@
 ---
 categories:
 - code
-- english
 date: '2007-07-30'
 tags:
 - ccpp
+- english
 title: C and C++ Operators Precedence Table
 ---
 

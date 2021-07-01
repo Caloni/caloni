@@ -1,12 +1,12 @@
 ---
 categories:
 - code
-- english
 - blog
 date: '2007-06-22'
 tags:
 - ccpp
 - home
+- english
 title: Disassembling the array operator
 ---
 

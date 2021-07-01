@@ -1,8 +1,9 @@
 ---
 categories:
-- english
 - code
 date: '2008-02-07'
+tags:
+- english
 title: 'Silly regex trick: finding the project who failed inside a big VS solution'
 ---
 

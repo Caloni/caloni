@@ -1,10 +1,10 @@
 ---
 categories:
 - code
-- english
 date: '2007-07-10'
 tags:
 - ccpp
+- english
 title: Precedence difference
 ---
 

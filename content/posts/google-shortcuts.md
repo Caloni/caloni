@@ -1,8 +1,9 @@
 ---
 categories:
 - blog
-- english
 date: '2007-07-06'
+tags:
+- english
 title: Google shortcuts
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
-- english
 - code
 date: '2008-02-13'
+tags:
+- english
 title: Funky do-while
 ---
 
