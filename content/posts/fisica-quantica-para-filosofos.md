@@ -1,6 +1,7 @@
 ---
 author: Wanderley Caloni
-categories: []
+categories:
+- blog
 date: '2017-05-28'
 tags:
 - draft

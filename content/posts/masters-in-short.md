@@ -1,5 +1,6 @@
 ---
-categories: []
+categories:
+- blog
 date: '2020-10-25'
 tags:
 - cinemaqui

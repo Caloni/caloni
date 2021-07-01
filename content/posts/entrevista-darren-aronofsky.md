@@ -1,5 +1,6 @@
 ---
-categories: []
+categories:
+- blog
 date: '2017-09-24'
 tags:
 - cinemaqui

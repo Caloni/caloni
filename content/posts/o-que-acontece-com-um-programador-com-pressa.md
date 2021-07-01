@@ -1,5 +1,6 @@
 ---
-categories: []
+categories:
+- blog
 date: '2008-10-05'
 tags:
 - draft
