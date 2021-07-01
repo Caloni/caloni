@@ -1,7 +1,9 @@
 ---
 categories:
-- lists
+- blog
 date: '2020-09-16'
+tags:
+- lists
 title: História do Windows
 ---
 

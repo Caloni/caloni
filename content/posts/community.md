@@ -1,10 +1,11 @@
 ---
 categories:
-- home
 - reviews
+- blog
 date: '2020-08-19'
 tags:
 - series
+- home
 title: Community
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- quotes
+- blog
 date: '2020-07-12'
+tags:
+- quotes
 title: Pauline Kael
 ---
 

@@ -1,7 +1,9 @@
 ---
 categories:
-- lists
+- blog
 date: '2020-11-08'
+tags:
+- lists
 title: Palestras
 ---
 

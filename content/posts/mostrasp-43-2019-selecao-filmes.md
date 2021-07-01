@@ -1,7 +1,9 @@
 ---
 categories:
-- lists
+- blog
 date: '2019-10-07'
+tags:
+- lists
 title: Seleção de Filmes da 43a MostraSP
 ---
 

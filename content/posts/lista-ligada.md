@@ -1,8 +1,10 @@
 ---
 categories:
 - code
-- lists
+- blog
 date: '2018-04-24'
+tags:
+- lists
 title: Lista Ligada; tá Ligado?
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- lists
+- blog
 date: '2018-12-31'
 tags:
 - cinemaqui
 - draft
+- lists
 title: Top Filmes 2018
 ---
 

@@ -1,8 +1,9 @@
 ---
 categories:
 - blog
-- lists
 date: '2020-12-08'
+tags:
+- lists
 title: 'TIL: Today I Learned'
 ---
 

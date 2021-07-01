@@ -1,9 +1,10 @@
 ---
 categories:
-- lists
+- blog
 date: '2017-05-28'
 tags:
 - draft
+- lists
 title: Insights sobre produtividade, auto-ajuda e melhora contínua
 ---
 

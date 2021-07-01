@@ -1,7 +1,9 @@
 ---
 categories:
-- lists
+- blog
 date: '2021-05-02'
+tags:
+- lists
 title: Lista de Listas Sobre Cinema
 ---
 

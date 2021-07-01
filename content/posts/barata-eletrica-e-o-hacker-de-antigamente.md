@@ -1,7 +1,9 @@
 ---
 categories:
-- essays
+- blog
 date: '2007-08-31'
+tags:
+- essays
 title: Barata Elétrica e o hacker de antigamente
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- quotes
+- blog
 date: '2019-09-08'
 tags:
 - draft
+- quotes
 title: Max Ghunter
 ---
 

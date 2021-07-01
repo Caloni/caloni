@@ -1,7 +1,9 @@
 ---
 categories:
-- essays
+- blog
 date: '2007-07-12'
+tags:
+- essays
 title: Desejo insano de programar no kernel
 ---
 

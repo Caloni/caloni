@@ -1,10 +1,11 @@
 ---
 categories:
-- home
 - reviews
+- blog
 date: '2017-10-29'
 tags:
 - movies
+- home
 title: Meu Primeiro Amor
 ---
 

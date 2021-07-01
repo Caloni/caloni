@@ -1,12 +1,13 @@
 ---
 categories:
-- home
 - reviews
 - code
+- blog
 date: '2007-10-12'
 tags:
 - books
 - ccpp
+- home
 title: 'A Linguagem de Programação C: O Livro'
 ---
 

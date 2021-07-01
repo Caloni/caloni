@@ -1,10 +1,11 @@
 ---
 categories:
 - code
-- home
+- blog
 date: '2008-02-15'
 tags:
 - ccpp
+- home
 title: Os diferentes erros na linguagem C
 ---
 

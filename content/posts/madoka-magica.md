@@ -1,10 +1,11 @@
 ---
 categories:
-- home
 - reviews
+- blog
 date: '2014-04-14'
 tags:
 - animes
+- home
 title: Madoka Magica
 ---
 

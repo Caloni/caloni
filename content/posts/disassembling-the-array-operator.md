@@ -2,10 +2,11 @@
 categories:
 - code
 - english
-- home
+- blog
 date: '2007-06-22'
 tags:
 - ccpp
+- home
 title: Disassembling the array operator
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- lists
+- blog
 date: '2019-12-29'
 tags:
 - cinemaqui
 - draft
+- lists
 title: Top Filmes 2019
 ---
 

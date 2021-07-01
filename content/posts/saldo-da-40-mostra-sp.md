@@ -1,7 +1,9 @@
 ---
 categories:
-- lists
+- blog
 date: '2016-11-02'
+tags:
+- lists
 title: Saldo da 40a. MostraSP
 ---
 
