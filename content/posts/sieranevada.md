@@ -4,7 +4,6 @@ categories:
 date: '2016-11-30'
 tags:
 - cinemaqui
-- draft
 - movies
 title: Sieranevada
 ---
@@ -13,7 +12,7 @@ Sieranevada faz jus à descrição do Cinema, a sétima arte, como mundo dos son
 
 A história começa com uma câmera que observa de longe um casal e sua filha se preparando para sair. Os barulhos da cidade abafam suas falas, que são ouvidas também de longe. Essa cena já nos prepara para um ritmo mais lento e contemplativo, e onde a curiosidade é o que move o espectador a todo momento. O que estão fazendo? Para onde vão? Por que deixaram o carro no meio da rua atrapalhando o trânsito? O diretor e roteirista Cristi Puiu é o narrador ativo desta história, já que sua câmera e os detalhes de sua trama são construídas de uma maneira autoral, sempre jogando com nossa percepção. No entanto, logo depois dessa cena e dos créditos iniciais que a cortam, temos uma abordagem que vai aos poucos nos levando para dentro da vida desta família e de todos seus parentes, que se reúnem na casa da mãe do marido para realizar um ritual pela morte de seu pai.
 
-Dentro da casa há um naturalismo aconchegante nas falas, nos movimentos, na forma de posicionar os personagens (há poucos cortes, com uma câmera que sempre gira em torno dos cenários da casa e acompanha a ação quando esta convém). A impressao algumas vezes é como se fôssemos o convidado invisível para aquele evento. Em outras, é como se tivéssemos o privilégio de olhar em terceira pessoa como as pessoas se comportam em família e comparar com nossos próprios momentos.
+Dentro da casa há um naturalismo aconchegante nas falas, nos movimentos, na forma de posicionar os personagens (há poucos cortes, com uma câmera que sempre gira em torno dos cenários da casa e acompanha a ação quando esta convém). A impressão algumas vezes é como se fôssemos o convidado invisível para aquele evento. Em outras, é como se tivéssemos o privilégio de olhar em terceira pessoa como as pessoas se comportam em família e comparar com nossos próprios momentos.
 
 Isso acontece, por exemplo, quando uma mãe que recebe do filho uma bicicleta ergométrica para cuidar de sua saúde. O filho se senta na ponta da cama e vai abrindo o pacote. Ela conversa com ele enquanto consola a irmã após um caso de seu marido. O filho está preocupado com a tomada diferente da bicicleta, e se irrita rápido quando a mãe lhe pergunta quanto custou. A mãe também dá sinais de ter o pavio curto no segundo momento da cena, e logo percebemos que este vai ser um filme que lida com as pequenas diferenças e semelhanças entre pessoas e gerações.
 

@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2016-11-28'
 tags:
-- draft
 - movies
 title: Máquina Mortífera
 ---
