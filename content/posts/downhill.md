@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2016-12-15'
 tags:
-- draft
 - movies
 title: Downhill
 ---

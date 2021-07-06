@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2016-12-04'
 tags:
-- draft
 - movies
 title: Killa
 ---
@@ -12,7 +11,7 @@ Killa é um drama indiano de uma criança e se passa em uma cidadezinha, girando
 
 A interpretação do pequeno Archit Deodhar, aliás, cabe perfeitamente aqui. Ele é um garoto introvertido, que consegue ser capaz de atos generosos -- como salvar um cãozinho atormentado pelos meninos da vila -- ou ao menos seus atos podem soar generosos vistos por alguém de fora (nós, espectadores). Quando um ato é o oposto disso, como dizer que a comida dos anfitriões cheira mal, todos estão presentes. Da mesma forma, seu personagem, Chinmay, é mimado e trata sua mãe como criada. Ela sequer tem um nome no filme, e é personificada pela atriz Amruta Subhash como uma sombra apagada.
 
-O diretor Avinash Arun não parece ter muita pressa em estabelecer sobre o que a história se trata. O roteiro escrito a quatro mãos tampouco parece se decidir muito por um caminho simples. É possível entender o formato geral, de criança que perdeu o pai cedo e que muda de escola constantemente, de que não se esforça por fazer amizades, mas sabe construir uma linha de influências para que ele próprio fique em evidência (o que, para alguém vindo de uma cidade maior, não é algo difícil de fazer, nem lá na Índia, nem aqui no Brasil).
+O diretor Avinash Arun não tem muita pressa em estabelecer sobre o que a história se trata. O roteiro escrito a quatro mãos tampouco se decide muito por um caminho simples. É possível entender o formato geral, de criança que perdeu o pai cedo e que muda de escola constantemente, de que não se esforça por fazer amizades, mas sabe construir uma linha de influências para que ele próprio fique em evidência (o que, para alguém vindo de uma cidade maior, não é algo difícil de fazer, nem lá na Índia, nem aqui no Brasil).
 
 Mimado, manhoso, introvertido, autoritário e com nada em seu currículo que agrade ninguém, é um mistério por que seus amigos continuam sendo seus amigos. Quando um acontecimento deixa o garoto perturbado, é compreensível vindo de alguém tão egocêntrico, e é fácil entender por que finalmente seus amigos se distanciam (o que não explica o que acontece depois, exceto que crianças não ligam para essas bobagens).
 

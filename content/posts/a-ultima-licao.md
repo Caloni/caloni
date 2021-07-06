@@ -4,7 +4,6 @@ categories:
 date: '2016-12-15'
 tags:
 - cinemaqui
-- draft
 - movies
 title: A Última Lição
 ---

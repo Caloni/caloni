@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2016-12-21'
 tags:
-- draft
 - movies
 title: Margin Call - O Dia Antes do Fim
 ---
@@ -14,7 +13,7 @@ Esta é uma reunião que vai escalando rápido. Após um downsizing inicial, ond
 
 Escrito e dirigido por J. C. Chandor, não estou certo se esse era o objetivo de Chandor, mas este filme é um estudo independente de personalidades em escritórios. Temos o cara que sempre quer saber quanto cada um "está tirando" de salário e bônus. Temos os técnicos que realmente fazem o trabalho, mas cuja discrição logo os tornam vulneráveis a processos de downsizing. Temos os gerentes gerais promovidos muito cedo que se comportam como garotos mimados de quinze anos. E temos, aos montes, aquelas pessoas que ficam na defensiva, esperando o momento certo de pegar a peteca e jogar pro coleguinha.
 
-Dessa forma, Margin Call não é exatamente um filme só sobre a crise de 2008. Não obstante, a história parece querer montar uma alegoria simples e eficaz que pinta os donos de bancos de investimentos como os arquitetos do capitalismo. Vemos todos os personagens, em sua maioria, do topo de um prédio onde se vê toda a cidade. A forma com que o dono da empres em questão fala dá a entender que ele faz parte de um grupo muito seleto de senhores que dá todas as cartas no mundo inteiro de como os mercados devem funcionar (o nome do grupo é Iluminati, google for it), sempre (é claro!) às custas dos mais humildes, pessoas simples que não tem nada a ver com isso (exceto apoiar um modelo corporativista e de alga regulação financeira que torna qualquer estado um manipulador de bombas-relógios para o mercado, como foi o caso da última crise, a penúltima, todas as passadas e futuras).
+Dessa forma, Margin Call não é exatamente um filme só sobre a crise de 2008. Não obstante, a história monta uma alegoria simples e eficaz que pinta os donos de bancos de investimentos como os arquitetos do capitalismo. Vemos todos os personagens, em sua maioria, do topo de um prédio onde se vê toda a cidade. A forma com que o dono da empres em questão fala dá a entender que ele faz parte de um grupo muito seleto de senhores que dá todas as cartas no mundo inteiro de como os mercados devem funcionar (o nome do grupo é Iluminati, google for it), sempre (é claro!) às custas dos mais humildes, pessoas simples que não tem nada a ver com isso (exceto apoiar um modelo corporativista e de alta regulação financeira que torna qualquer estado um manipulador de bombas-relógios para o mercado, como foi o caso da última crise, a penúltima, todas as passadas e futuras).
 
 Há um momento em que o chefão até começa a contar os anos de crashs casualmente. 2007, 1932, 1984... ele já está acostumado a esse jogo. Como não estaria? Desde que foram criados os bancos centrais, há quase 100 anos, tudo que o mundo vê são mais e mais crises financeiras. Curiosamente, quando o capitalismo começou de fato, há 300 anos atrás, não se ouvia muita coisa sobre bolhas. Exceto quando muitos holandeses tentavam vender tulipas ao mesmo tempo... mas aí nem havia surgido a Revolução Industrial.
 

@@ -4,12 +4,11 @@ categories:
 date: '2016-12-13'
 tags:
 - cinemaqui
-- draft
 - movies
 title: Eu Fico Loko
 ---
 
-Quando uma produção comercial (no sentido mais pleno da palavra) se torna um bom filme não pelo seu roteiro redondo ou arco dramático eficaz, mas pelo seu mensageiro de novidades surreais no mundo da internet, que cai na telona do Cinema tanto de para-quedas quanto em queda livre, é porque está acontecendo algo de muito estranho, mas ao mesmo tempo interessante, no Cinema/TV/YouTube. E no caso de Eu Fico Loko, o fato dos eventos terem sido parcialmente reais torna pelo menos a história viva, fugindo do lugar-comum dos filmes nacionais do gênero. Claro que a produção conspira contra isso, tentando trazer o filme para o clichê a todo momento. Mas, felizmente, a internet e a vida real estão (felizmente) cada vez mais distantes dos terríveis enlatados da TV e das globochanchadas.
+Quando uma produção comercial (no sentido mais pleno da palavra) se torna um bom filme não pelo seu roteiro redondo ou arco dramático eficaz, mas pelo seu mensageiro de novidades surreais no mundo da internet, que cai na telona do Cinema tanto de para-quedas quanto em queda livre, é porque está acontecendo algo de muito estranho, mas ao mesmo tempo interessante, no Cinema/TV/YouTube. E no caso de Eu Fico Loko, o fato dos eventos terem sido parcialmente reais torna pelo menos a história viva, fugindo do lugar-comum dos filmes nacionais do gênero. Claro que a produção conspira contra isso, tentando trazer o filme para o clichê a todo momento. Mas, felizmente, a internet e a vida real estão cada vez mais distantes dos terríveis enlatados da TV e das globochanchadas.
 
 Começamos o filme entrando na biografia reversa de alguém que se tornou estupidamente famoso, e que anda em câmera lenta do lado de outras "lendas" (como Galinha Pintadinha). Ao criar o velho esquema de flashback com narração para acompanharmos a história da vida de Christian, representado no filme por ele mesmo, o fato dele ter apenas 22 anos faz com que ele próprio se considere meio um Justin Bieber, já que sua história se passa nos "longínguos" anos 2010, quando Orkut ainda existia, mas pelo fato das famílias começarem a acessar as contas dos filhos/sobrinhos/netos, estes começam a migrar em massa para o Facebook. Um momento épico da internet brasileira.
 
@@ -23,4 +22,4 @@ Mais curioso ainda é perceber que o roteiro, assinado, além do Christian e do 
 
 E este não é um vídeo caseiro. Muito pelo contrário. Usando locações caras, com figurino rebuscado (mais do que novela) e atores famosos, "Eu Fico Loko" pavimenta sua estrutura como uma comédia de situações fictícia que se aproveita do fato de que a vida real é muito mais divertida, o que torna o conteúdo narrativo dos três roteiristas imensamente acima da média. O filme se torna uma bizarrice sem tamanho onde realidade e ficção se juntam para mostrar antes de tudo essa metamorfose de formatos de mídia.
 
-Utilizando uma edição vídeo-clipe, recorrendo frequentemente a câmeras lentas e colagens que parecem eliminar o embaraço da vida real, como o som da música da banda nerd, além de utilizar uma trilha sonora empolgada e mais que apropriada com o tema jovem, "Eu Fico Loko" consegue se tornar longo em 90 minutos de duração, mas acaba acertando, já que ser um adolescente problemático é comprovar que o tempo, no universo, às vezes congela. E não temos na hora a ferramenta de edição para ficar bonito o upload.
+Utilizando uma edição vídeo-clipe, recorrendo frequentemente a câmeras lentas e colagens que eliminam o embaraço da vida real, como o som da música da banda nerd, além de utilizar uma trilha sonora empolgada e mais que apropriada com o tema jovem, "Eu Fico Loko" consegue se tornar longo em 90 minutos de duração, mas acaba acertando, já que ser um adolescente problemático é comprovar que o tempo, no universo, às vezes congela. E não temos na hora a ferramenta de edição para ficar bonito o upload.

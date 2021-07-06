@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2016-12-15'
 tags:
-- draft
 - movies
 title: Animais Fantásticos e Onde Habitam
 ---
@@ -16,9 +15,9 @@ Porém, esse panorama nunca conhecemos através de descrições chatas e exposit
 
 No decorrer dessa pequena aventura vamos também acompanhando a amizade que se constrói entre Newt, Kowalski, e Tina e Mary Lou, ambas irmãs, mas completamente diferentes. Tina era fiscal da magia até ser destituída do cargo por mexer com a pessoa errada (quando descobrimos isso vemos como tudo está interligado; um prazer podre que só a política faz por você). Mary Lou é a mais caseira e mais mulher no sentido tradicional da palavra. Ela até lê mentes, e cozinha deliciosamente, algo que até Kowalski, alguém que tenta abrir uma padaria baseado nas excelentes receitas de sua vovó (que historinha bonitinha) é obrigado a reconhecer.
 
-O filme trabalha muito bem também alternando entre as diferentes histórias, nos mesmos moldes com que os filmes de Harry Potter faziam, deixando parte do mistério ir sendo revelado aos poucos. No entanto, a impressão geral é de que, apesar de estarmos no mesmo universo, ele está sendo a todo momento redescoberto. Seja uma criatura mágica nova (com efeitos visuais muito mais impressionantes que dos filmes anteriores), ou detalhes de como a magia é empregada (e é curioso como seu uso na América parece muito mais funcional do que na escola de Hogwarts). A música da série é reciclada em cima de uma trilha cômica e de aventura que James Newton Howard habilmente desenvolve em torno da música-tema, mas a habituando em um nível mais lúdico.
+O filme trabalha muito bem também alternando entre as diferentes histórias, nos mesmos moldes com que os filmes de Harry Potter faziam, deixando parte do mistério ir sendo revelado aos poucos. No entanto, a impressão geral é de que, apesar de estarmos no mesmo universo, ele está sendo a todo momento redescoberto. Seja uma criatura mágica nova (com efeitos visuais muito mais impressionantes que dos filmes anteriores), ou detalhes de como a magia é empregada (e é curioso como seu uso na América se torna muito mais funcional do que na escola de Hogwarts). A música da série é reciclada em cima de uma trilha cômica e de aventura que James Newton Howard habilmente desenvolve em torno da música-tema, mas a habituando em um nível mais lúdico.
 
-Afinal de contas, embora brinque com coisa séria, esta é fundamentalmente uma comédia, pautada em bichinhos fofinhos, personagens fofinhos e a criatividade aparentemente sem limites de Rowling, que depois de sete livros ainda parece estar a todo vapor, estendendo seu universo literário e agora cinematográfico (Rowling também assina o roteiro, sozinha).
+Afinal de contas, embora brinque com coisa séria, esta é fundamentalmente uma comédia, pautada em bichinhos fofinhos, personagens fofinhos e a criatividade sem limites de Rowling, que depois de sete livros ainda está a todo vapor, estendendo seu universo literário e agora cinematográfico (Rowling também assina o roteiro, sozinha).
 
 E como é bom ver de volta o diretor David Yates, o responsável por todos os filmes adultos de Harry Potter. Yates possui uma forma extremamente eficaz de usar a tela, acumulando personagens e elementos em cena de maneira que não precise fazer mudanças muito rápidas de plano, e até o 3D ele utiliza pontualmente, quando por exemplo várias paredes são furadas e vemos a profundidade de tela atravessando-as, além, é claro, da absurdamente linda sequência em que vemos o jovem Newt mostrando a Howard todos os ambientes onde seus bichinhos estão sendo cuidados.
 

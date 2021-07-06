@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2016-12-10'
 tags:
-- draft
 - movies
 title: Blue Jay
 ---
@@ -12,7 +11,7 @@ Antes eles imitavam o futuro. Hoje eles se reencontram e retornam ao passado. Um
 
 E para garantir isso o diretor e fotógrafo Alexandre Lehmann escolhe a natureza morta de uma cidadezinha decadente, apresentando o retorno de uma ex-moradora com toda a imersão saudosista que ela ardentemente precisa. Ela encontra o ex-namorado da adolescência no mercado local, e a partir daí uma série de eventos vai fazer com que os dois relembrem seu passado e se envolvam em diálogos não tão inspirados quanto a Trilogia do Amanhecer, mas muito mais simbólicos.
 
-Sarah Paulson a princípio não parece uma atriz para o papel. Ela é muito inerte em seus trejeitos melodramáticos. Mas ela tira isso da frente em algum momento da história e parece pertencer mais ao mundo que o filme tenta representar.
+Sarah Paulson a princípio não soa como uma boa atriz para o papel. Muito inerte em seus trejeitos melodramáticos, ela tira isso da frente em algum momento da história e acaba pertencendo mais ao mundo que o filme representa.
 
 Esse mundo de contar histórias. De nós, espectadores da vida real, contarmos histórias para nós mesmos, de como seria, de como vai ser, de como era. Uma realidade alternativa apaixonante, que encontra reflexo na própria nostalgia de quem assiste e sabe como é pensar nos contornos que a vida dá.
 

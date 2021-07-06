@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2016-12-03'
 tags:
-- draft
 - movies
 title: Kubo e as Cordas Mágicas
 ---

@@ -4,7 +4,6 @@ categories:
 date: '2016-12-12'
 tags:
 - cinemaqui
-- draft
 - movies
 title: Neruda
 ---
@@ -15,7 +14,7 @@ O poeta Pablo Neruda é uma figura que fez parte do imaginário intelectual chil
 
 O mais curioso nessa história é que a perseguição de Neruda coloca em ênfase não exatamente a figura do escritor, mas do seu perseguidor: o diretor geral da Polícia de Investigações do Chile, Óscar Peluchonneau, interpretado pelo camaleão Gael García Bernal, que ultrapassa a sua quarta parede de maneira mais intensa. Sua existência (inclusive na vida real) se torna uma brincadeira tão eficaz quanto o livro O Mundo de Sofia, o que não poderia deixar de fazer parte do emaranhado caótico que o roteirista Guillermo Calderón apresenta desta perseguição para torná-la o mais nonsense e surreal possível.
 
-O roteiro de Calderón, aliás, tece uma narrativa principalmente dentro dos seus personagens. Há acontecimentos a todo momento, mas estes são vagos e servem como desculpa para mover a psique daquelas pessoas, que se sentem dentro de um livro de ficção policial narrado por um poeta fugitivo. A burrice aparente do diretor, aliás, é o que torna a perseguição mais cômica e cartunesca. Seu alvo, o poeta do povo, parece se divertir enquanto não é pego, entregando romances policiais a cada lugar que esteve, mobilizando todos seus camaradas para tentar mantê-lo livre e escrevendo (algo que Neruda faz com uma naturalidade tal qual respirar).
+O roteiro de Calderón, aliás, tece uma narrativa principalmente dentro dos seus personagens. Há acontecimentos a todo momento, mas estes são vagos e servem como desculpa para mover a psique daquelas pessoas, que se sentem dentro de um livro de ficção policial narrado por um poeta fugitivo. A burrice aparente do diretor, aliás, é o que torna a perseguição mais cômica e cartunesca. Seu alvo, o poeta do povo, se diverte enquanto não é pego, entregando romances policiais a cada lugar que esteve, mobilizando todos seus camaradas para tentar mantê-lo livre e escrevendo (algo que Neruda faz com uma naturalidade tal qual respirar).
 
 A direção de Pedro Larraín ("No") usa artifícios inteligentes para manter o orçamento no controle e ao mesmo tempo dar o ar fictício à trama. Dessa forma, as tomadas externas quase sempre se concentram em seus personagens, e quando estão dentro de um veículo, usando o artifício antigo de usar projeções ao fundo fingindo a paisagem em movimento, no melhor estilo Hitchcockiano. Isso não quer dizer que se trata de uma produção barata, mas sim uma produção que sabe muito bem onde gastar. Com uma fotografia saudosista, filmam a antiga casa de Neruda em Santiago (hoje um museu) como um labirinto artístico, de onde surgem seus amigos como num passe de mágica. E toda a sequência na neve, o ponto alto da trama, é particularmente irretocável, tanto pela sua beleza estética quanto pelo seu significado metalinguístico, pois é como se a neve resgatasse o branco das páginas de um livro que vai se compondo conforme os eventos se sucedem. A questão mais fascinante do longa é: quem é o protagonista dessa história?
 
