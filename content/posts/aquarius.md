@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2017-01-13'
 tags:
-- draft
 - movies
 title: Aquarius
 ---
@@ -14,7 +13,7 @@ Tudo isso em uma história simples. Vemos o prólogo rapidamente, que se passa e
 
 É preciso abrir um parênteses para talvez a elipse e edição mais enxuta e poderosa de 2016. Quando passamos de anos 80 a anos atuais, a música que sai da vitrola de Clara permanece durante o bailinho em família. Quem sai é a família, e no lugar surge uma TV de tela plana. Mas a vitrola... esta permanece no mesmo lugar. Outro móvel que permanece é o que lembra a tia querida da família dos momentos de loucura com seu amante. Mendonça Filho continua dando uma importância aos totens da vida moderna, simbolizando através dele e a passagem das gerações algo que permanece no mesmo lugar. Clara também é um desses totens.
 
-Mas chamar a personagem de Sônia Braga é diminuí-la, pois não apenas a resistência em abrir mão de sua propriedade a define, mas também o seu jeito educado e polido, ainda que firme, além de um quê de sensual, ainda que sexagenária. As pausas que Clara toma no momento em que fala, unido aos seus movimentos de rosto, constroem uma personalidade fascinante, de alguém que já passou por muito na vida, que parece estar perdendo as forças, mas que continua lúcida, desperta, viva. Todos ao seu redor parecem inertes (exceto os engenheiros malvadões, mas esses só aparecem para assustar as criancinhas).
+Mas chamar a personagem de Sônia Braga é diminuí-la, pois não apenas a resistência em abrir mão de sua propriedade a define, mas também o seu jeito educado e polido, ainda que firme, além de um quê de sensual, ainda que sexagenária. As pausas de Clara no momento em que fala, unidas aos seus movimentos de rosto, constroem uma personalidade fascinante, de alguém que já passou por muito na vida, que está perdendo as forças, mas que continua lúcida, desperta, viva. Todos ao seu redor estão inertes (exceto os engenheiros malvadões, mas esses só surgem para assustar as criancinhas).
 
 O roteiro de Kleber Mendonça Filho vai além da história principal, resgatando através de uma festa animada no andar de cima os prazeres mais básicos de Clara. Há uma mistura entre homenagem aos papéis anteriores de Sônia Braga e sua própria personagem, que personifica, na visão de Mendonça, uma espécie de símbolo negro, talvez como uma resistência. Ideologicamente o filme carece de mais explicações, mas isso não quer dizer que não seja interessantíssimo de acompanhar. Mendonça eleva ao cubo seu próprio fascínio pela classe média, e revela que em sua visão ela já fez as pazes com quem "explora", mesmo que estes de vez em quando roubem algumas joias como "compensação".
 
