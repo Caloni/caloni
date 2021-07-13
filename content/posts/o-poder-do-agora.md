@@ -221,3 +221,33 @@ A partir daí, não existem problemas, apenas situações no momento, que podem 
 > Se uma revolução cósmica provocasse o fim do Universo, o Não Manifesto não seria afetado. O livro A Course in Miracles (Um curso em milagres) expressa essa verdade de modo comovente: “Nada real pode ser ameaçado. Nada irreal existe. Aqui reside a paz de Deus.”
 
 > Todo portal é um portal da morte, da morte do falso eu.
+
+## capítulo oito: Relacionamentos Iluminados
+
+> A verdadeira salvação é satisfação, paz, vida em toda a sua plenitude. É ser quem somos, sentir dentro de nós o bem que não tem opositores, a alegria do Ser que não depende de nada que esteja fora de nós. Não é sentida como uma experiência passageira, mas como uma presença permanente. Na linguagem dos que creem em Deus, é “conhecer Deus”, não como algo externo a nós, mas sim como a nossa essência mais profunda. A verdadeira salvação consiste em conhecermos a nós mesmos como parte inseparável da Vida Única, livre do tempo e da forma, de onde se origina tudo o que existe.
+
+> Não existe salvação longe deste momento. Você está só, sem uma companhia? Acesse o Agora a partir da sua solidão. Você tem um relacionamento? Acesse o Agora a partir desse relacionamento.
+
+> Todo vício surge de uma recusa inconsciente de encararmos nossos próprios sofrimentos. Todo vício começa no sofrimento e termina nele. Qualquer que seja o vício – álcool, comida, drogas legais ou ilegais, ou mesmo uma pessoa –, ele é um meio que usamos para encobrir o sofrimento.
+
+> O amor não é seletivo, assim como a luz do sol não é seletiva. Não torna ninguém especial. Não é exclusivo. A exclusividade não tem a ver com o amor de Deus, mas com o “amor” do ego. Entretanto, a intensidade do amor pode variar. Pode haver uma pessoa que atue como um espelho do amor que você dirige a ela e que o devolva de modo mais claro e mais intenso do que outras e, se essa pessoa sente o mesmo em relação a você, pode-se dizer que as duas têm um relacionamento amoroso. O vínculo que liga as duas pessoas é o mesmo vínculo que nos liga à pessoa sentada ao nosso lado no ônibus, ou a um pássaro, a uma árvore, a uma flor. Só o que diferencia é o grau de intensidade com que o sentimos.
+
+> O verdadeiro entendimento é uma comunhão, a realização da unidade, que é o amor. Normalmente, esse entendimento desaparece rapidamente. Tão logo a mente e a identificação da mente reaparecem, deixamos de ser quem somos e voltamos a brincar e a representar para satisfazer as necessidades do ego. Voltamos, de novo, a ser uma mente humana, fingindo ser um ser humano, interagindo com outra mente, representando um drama chamado “amor”.
+
+> Quando a mente e todas as estruturas sociais, políticas e econômicas que ela criou entram no estágio final de colapso, os relacionamentos entre homens e mulheres refletem o profundo estado de crise no qual a humanidade se encontra atualmente.
+
+> Porém, toda crise representa não só perigo, mas também oportunidade. Se os relacionamentos energizam e elevam os padrões da mente egoica e ativam o sofrimento do corpo, como está acontecendo agora, por que não aceitar esse fato em vez de tentar escapar dele? Por que não cooperar com ele em vez de evitar relacionamentos ou continuar a perseguir a ilusão de uma companhia ideal, como uma resposta para os problemas ou um meio de encontrar satisfação?
+
+> Quando você sabe que não está em paz, o seu saber cria um espaço de serenidade que envolve a falta de paz em um abraço terno e amoroso, e então transforma a falta de paz em paz.
+
+> É através de você que a sanidade, ou seja, a consciência, consegue chegar a este mundo. Você não tem de esperar o mundo se curar, ou alguém se tornar consciente, antes de poder alcançar a iluminação. Pode ter de esperar para sempre. Não acuse o outro de não ter consciência. No momento em que a discussão começar, é sinal de que você passou a se identificar com uma posição mental e a defender não só aquela posição, mas também o seu sentido do eu interior. O ego está no comando. Você acabou de ficar inconsciente.
+
+> Aprenda a expressar os seus sentimentos sem culpar ninguém. Aprenda a ouvir o parceiro de um modo aberto, sem reservas. Dê ao parceiro espaço para se expressar.
+
+> Neste momento, a imensa maioria dos homens e das mulheres ainda está sob o domínio da mente. É ela que impede a iluminação e o florescimento do amor. Como regra geral, o maior obstáculo para os homens tende a ser a mente pensante, enquanto o maior obstáculo para as mulheres é o sofrimento, embora em casos isolados o oposto possa ser verdade, e em outros os dois fatores possam ter o mesmo peso.
+
+> Enquanto investir uma parte do seu sentido de eu interior no seu sofrimento emocional, você vai resistir ou sabotar, inconscientemente, cada tentativa de curar o sofrimento. Por quê? Porque você quer se manter inteira e o sofrimento se tornou uma parte essencial de você. Esse é um processo inconsciente e o único caminho para superá-lo é torná-lo consciente.
+
+> Até certo ponto, ser um estranho, alguém que não se “enquadra” com os outros, ou é rejeitado por eles por qualquer razão, torna a vida difícil, mas também traz uma vantagem com relação à iluminação: tira você da inconsciência quase que à força.
+
+> Mas será que você precisa ter um relacionamento com você mesmo? Por que não ser apenas você? Quando se relaciona com você mesmo, já se dividiu em dois: “eu” e “eu mesmo”, sujeito e objeto. Essa dualidade criada pela mente é a raiz de toda complexidade desnecessária, de todos os problemas e conflitos em sua vida. No estado de iluminação, você é você mesmo – “você” e “você mesmo” se fundem em um só. Você não se julga, não sente pena de si, não se orgulha de si, não se ama, não se odeia, etc. A divisão provocada pela consciência está curada, e sua maldição, removida. Não existe um “você mesmo” que seja preciso proteger, defender ou alimentar. Quando você está iluminado, não tem mais um relacionamento consigo mesmo. Uma vez que tenha aberto mão disso, todos os seus outros relacionamentos serão de amor.
