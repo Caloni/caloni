@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2017-01-27'
 tags:
-- draft
 - movies
 title: The Fundamentals of Caring
 ---

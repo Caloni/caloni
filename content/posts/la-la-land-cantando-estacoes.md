@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2017-01-27'
 tags:
-- draft
 - movies
 title: 'La La Land: Cantando Estações'
 ---
@@ -12,7 +11,7 @@ Existe uma aura de saudosismo misturado com melancolia que cobre Hollywood. Junt
 
 Se essa descrição inicial ficou por demais técnica e filosófica, não se preocupe. Este está longe de ser um filme complicado. Ele é um simples romance entre duas pessoas que cantam uma música juntos e se apaixonam. Mas esqueça os musicais completos, cheios de números. Este é um bem econômico, que só usa o artificio de personagens saírem cantando quando precisam, como na sequência inicial onde todos os motoristas presos em um engarrafamento clássico de Los Angeles se levantam e realizam um número cafona pelo bem do que o filme pretende fazer.
 
-Aliás, esse filme é uma coletânea de sequência que não estão aí para impressionar, mas como um mecanismo de linguagem. Sabemos que o filme trata de musicais -- cinematográficos ou não -- e a fluidez na tela vale o esforço. Temos pelo menos um momento sublime,na cena final, que se aproveita da técnica para nos entregar um sonho que se confunde com as possibilidades infinitas da realidade. E há uma cena igualmente memorável onde a câmera desliza em volta de uma compenetrada Emma Stone, cantando do coração.
+Aliás, esse filme é uma coletânea de sequências que não estão aí para impressionar, mas como um mecanismo de linguagem. Sabemos que o filme trata de musicais -- cinematográficos ou não -- e a fluidez na tela vale o esforço. Temos pelo menos um momento sublime, na cena final, que se aproveita da técnica para nos entregar um sonho que se confunde com as possibilidades infinitas da realidade. E há uma cena igualmente memorável onde a câmera desliza em volta de uma compenetrada Emma Stone, cantando do coração.
 
 Ryan Gosling também canta, mal e porcamente. Mas este é seu personagem, distraído com a vida real e ligeiramente deslocado desta. Ele nunca entende o que as pessoas dizem, preferindo ouvir sua versão interna. Ele é o espectador sendo enganado pelas trucagens do cinema, preferindo acreditar na ilusão de que um dia ele abrirá seu clube de jazz e todos os problemas que a arte possui hoje em continuar existindo desaparecerá.
 
