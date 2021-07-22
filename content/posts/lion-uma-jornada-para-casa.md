@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2017-02-17'
 tags:
-- draft
 - movies
 title: 'Lion: Uma Jornada Para Casa'
 ---
@@ -18,4 +17,4 @@ A estrutura narrativa de Lion é muito simples de entender, e é para ser mesmo,
 
 Mas, de qualquer forma, volto à montagem. O seu uso e os enquadramentos do diretor Garth Davis salvam o dia junto do editor Alexandre de Franceschi, pois transformam uma história que poderia ser até interessante, mas morosa, burocrática. Com uma câmera na mão, quase sempre focando os atores, e permitindo que apenas vejamos o cenários quando ele é relevante para a busca de Saroo, temos sua perspectiva como criança (fugindo à noite de adultos inescrupulosos) e como adulto, pois seu horizonte continua limitado por um verdadeiro muro de pedras.
 
-Por fim, apresentando uma Rooney Mara de luxo como par romântico do protagonista -- e sem muito o que fazer -- Lion é um filme realmente de Oscar: empolgante, emocionante, e um drama da vida real. Uma história inacreditável que apenas por ser filmada já é digna de prêmios. Obrigado, Garth Davis, por tornar isso ainda um pouco mais.
+Por fim, apresentando uma Rooney Mara de luxo como par romântico do protagonista -- e sem muito o que fazer -- Lion é um filme realmente de Oscar: empolgante, emocionante, e um drama da vida real. Uma história inacreditável que apenas por ser filmada já é digna de prêmios.

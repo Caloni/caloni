@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2017-02-17'
 tags:
-- draft
 - movies
 title: Estrelas Além do Tempo
 ---

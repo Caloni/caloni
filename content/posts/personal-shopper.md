@@ -4,7 +4,6 @@ categories:
 date: '2017-02-20'
 tags:
 - cinemaqui
-- draft
 - movies
 title: Personal Shopper
 ---
@@ -19,7 +18,7 @@ Curiosamente centrado em uma perda, o universo de Personal Shopper deixa claro q
 
 E carnal também, de certa forma, é o relacionamento entre as roupas da modelo e sua PS, e isso a vai seduzindo aos poucos conforme suas experiências além-vida começam a ficar mais intensas do que ela acreditava ser possível. Ela sente necessidade de vestir as roupas que passam por suas mãos tanto por ser proibido quanto por fazer algo para tentar ser outra pessoa. Ela odeia o que faz. Ela poderia largar tudo isso e ir se encontrar com seu namorado em uma terra exótica (o que praticamente evoca um mundo mais espiritual), mas está aguardando pelo irmão. Essa é sua penitência.
 
-O diretor Olivier Assayas, além de dominar o aspecto do horror em seu filme logo no começo, usa a favor da narrativa, e nunca pelo susto fácil. Quando há algo perturbador primeiro ele aparece na mente da protagonista, depois vemos, ouvimos ou sentimos algo. O jogo de encenação consegue também sempre deixar a dúvida do que vemos (até porque temos apenas apenas a médium como testemunha). Ela é uma cética, mas acredito que ela gostaria de acreditar com todo o resto das forças ainda presentes em deu espírito ainda vivo, perambulando pelas ruas de Londres a Paris.
+O diretor Olivier Assayas, além de dominar o aspecto do horror em seu filme logo no começo, usa a favor da narrativa, e nunca pelo susto fácil. Quando há algo perturbador primeiro ele aparece na mente da protagonista, depois vemos, ouvimos ou sentimos algo. O jogo de encenação consegue também sempre deixar a dúvida do que vemos (até porque temos apenas apenas a médium como testemunha). Ela é uma cética, mas acredito que ela gostaria de acreditar com todo o resto das forças ainda presentes em seu espírito, ainda vivo, perambulando pelas ruas de Londres a Paris.
 
 E como todo filme de terror bem feito (ainda que seja um drama) o controle de luz é absoluto, especialmente na casa de Lewis. Note como o enquadramento, sempre amplo, permitindo que vejamos um cenário de imersão na vida da personagem, na casa tem menos importância que o jogo de luzes, que indica onde devemos prestar atenção.
 

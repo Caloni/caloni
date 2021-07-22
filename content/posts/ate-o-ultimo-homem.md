@@ -3,7 +3,6 @@ categories:
 - reviews
 date: '2017-02-15'
 tags:
-- draft
 - movies
 title: Até o Último Homem
 ---
@@ -20,4 +19,4 @@ Já a segunda parte não se traduz em um banho de sangue, mas em duas sequência
 
 A perfeição técnica reina sobre Até o Último Homem, desde sua fotografia límpida e ao mesmo tempo construída sobre horizontes indefinidos e misteriosos e, por que não, ameaçadores, até a trilha sonora que evita soar batida pontuando com perfeição o significado de cada cena, com seu dramatismo e as tomadas de Gibson que deixam gritante que este é um filme anti-guerra, justamente como o próprio Desmond gostaria, e como todo homem de bom senso, religioso ou não.
 
-Em algum momentos notamos um quê de exagero nos tons que o diretor adota, mas são tão rasos que o que fica como lembrança é um filme sólido, que consegue oscilar entre o drama e a ação, desde que ambas consigam contar uma história de imersão completa. Desmond Doss será uma figura eternamente lembrada, como ser humano, mas principalmente, como símbolo de como é pequena uma espécie que se digladia como selvagens a mando de governos obtusos que ignoram todo o sangue derramado entre as trincheiras.
+Em alguns momentos notamos um quê de exagero nos tons que o diretor adota, mas o que fica como lembrança é um filme sólido, que consegue oscilar entre o drama e a ação, desde que ambas consigam contar uma história de imersão completa. Desmond Doss será uma figura eternamente lembrada como ser humano, mas principalmente, como símbolo de como é pequena uma espécie que se digladia como selvagens a mando de governos obtusos que ignoram todo o sangue derramado entre as trincheiras.
