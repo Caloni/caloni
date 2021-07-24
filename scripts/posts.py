@@ -7,7 +7,7 @@ files = [ glob(path) ]
 verbose = False
 
 
-def transform(operations):
+def transform(operations, files):
   for fname in files:
     if verbose:
       print(fname)
@@ -24,7 +24,7 @@ def transform(operations):
 def format():
   def nothing(post):
     pass
-  transform([ nothing ])
+  transform([ nothing ], files)
 
 
 def add_item(post, collection, item):
@@ -49,36 +49,36 @@ def move_category_to_tag(category):
   def func(post):
     if remove_item(post, 'categories', category):
       add_item(post, 'tags', category)
-  transform([ func ])
+  transform([ func ], files)
 
 
 def move_tag_to_category(tag):
   def func(post):
     if remove_item(post, 'tags', tag):
       add_item(post, 'categories', tag)
-  transform([ func ])
+  transform([ func ], files)
 
 
 def add_tag(tag):
   def func(post):
     add_item(post, 'tags', tag)
-  transform([ func ])
+  transform([ func ], files)
 
 
 def add_category(category):
   def func(post):
     add_item(post, 'categories', category)
-  transform([ func ])
+  transform([ func ], files)
 
 
 def remove_tag(tag):
   def func(post):
     remove_item(post, 'tags', tag)
-  transform([ func ])
+  transform([ func ], files)
 
 
 def remove_category(category):
   def func(post):
     remove_item(post, 'categories', category)
-  transform([ func ])
+  transform([ func ], files)
 
