@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2021-02-16'
+link: https://www.portugalvineyards.com/pt/alentejo/12499-cinco-forais-reserve-red-2017-5600427700856.html
 tags:
 - wine
 - food

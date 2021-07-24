@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2015-12-09'
+link: https://www.imdb.com/title/tt1727776
 tags:
 - movies
 title: Como Sobreviver a Um Ataque Zumbi

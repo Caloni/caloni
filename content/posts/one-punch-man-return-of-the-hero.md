@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-12-26'
+link: https://www.imdb.com/title/tt9556748
 tags:
 - series
 title: 'One Punch Man: Return of the Hero'

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2014-12-14'
+link: https://www.imdb.com/title/tt0441773
 tags:
 - movies
 title: Kung Fu Panda

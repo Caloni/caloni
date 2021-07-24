@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-06-13'
+link: https://www.imdb.com/title/tt1039960
 tags:
 - movies
 title: Estômago

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2012-04-02'
+link: https://www.imdb.com/title/tt0015361
 tags:
 - movies
 title: A Greve

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2015-01-06'
+link: https://www.imdb.com/title/tt0019421
 tags:
 - movies
 title: Marinheiro de Encomenda

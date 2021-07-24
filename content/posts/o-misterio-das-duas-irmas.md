@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2014-05-01'
+link: https://www.imdb.com/title/tt0815245
 tags:
 - movies
 title: O Mistério das Duas Irmãs

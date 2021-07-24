@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2016-01-16'
+link: https://www.imdb.com/title/tt0097523
 tags:
 - movies
 title: Querida, Encolhi as Crianças

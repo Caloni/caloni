@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2011-09-05'
+link: https://www.imdb.com/title/tt0110357
 tags:
 - movies
 title: O Rei Leão

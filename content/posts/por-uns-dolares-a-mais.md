@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2012-06-10'
+link: https://www.imdb.com/title/tt0059578
 tags:
 - movies
 title: Por uns Dólares a Mais

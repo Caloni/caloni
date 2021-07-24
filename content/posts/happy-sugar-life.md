@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-10-04'
+link: https://www.imdb.com/title/tt8696458
 tags:
 - animes
 title: Happy Sugar Life

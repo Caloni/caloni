@@ -2,6 +2,7 @@
 categories:
 - blog
 date: '2021-06-09'
+link: 'null'
 tags:
 - draft
 title: Cabine Quem Vai Ficar Com Mario

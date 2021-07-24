@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2011-11-02'
+link: https://www.imdb.com/title/tt1161864
 tags:
 - movies
 title: O Ritual

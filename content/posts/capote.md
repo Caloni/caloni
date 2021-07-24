@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2015-03-13'
+link: https://www.imdb.com/title/tt0379725
 tags:
 - movies
 title: Capote

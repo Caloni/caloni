@@ -2,6 +2,7 @@
 categories:
 - blog
 date: '2021-05-15'
+link: https://www.imdb.com/title/tt8231064
 tags:
 - draft
 title: Shinya! Tensai Bakabon

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2011-07-31'
+link: https://www.imdb.com/title/tt0099487
 tags:
 - movies
 title: Edward Mãos de Tesoura

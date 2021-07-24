@@ -2,6 +2,7 @@
 categories:
 - blog
 date: '2021-05-22'
+link: https://www.imdb.com/title/tt8824648
 tags:
 - draft
 title: Girl From Nowhere

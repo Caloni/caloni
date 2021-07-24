@@ -2,6 +2,7 @@
 categories:
 - blog
 date: '2020-09-05'
+link: https://youtu.be/YFF5ibgB6eA
 title: Bispo e Cavalo
 ---
 

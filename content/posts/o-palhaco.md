@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2011-11-06'
+link: https://www.imdb.com/title/tt1921043
 tags:
 - movies
 title: O Palhaço

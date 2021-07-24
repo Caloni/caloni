@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2017-02-16'
+link: https://www.imdb.com/title/tt4465564
 tags:
 - movies
 title: Cinquenta Tons Mais Escuros

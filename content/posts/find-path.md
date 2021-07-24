@@ -2,6 +2,7 @@
 categories:
 - code
 date: '2020-07-01'
+link: https://vcpkg.readthedocs.io/en/latest/examples/installing-and-using-packages/
 title: Find Path ou Por Que O Vcpkg Não Colocou o Path da Minha Biblioteca?
 ---
 

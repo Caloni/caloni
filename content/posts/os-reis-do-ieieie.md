@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2015-12-12'
+link: https://www.imdb.com/title/tt0058182
 tags:
 - movies
 title: Os Reis do Ié-Ié-Ié

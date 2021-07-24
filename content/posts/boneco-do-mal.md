@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2016-09-11'
+link: https://www.imdb.com/title/tt3882082
 tags:
 - movies
 title: Boneco do Mal

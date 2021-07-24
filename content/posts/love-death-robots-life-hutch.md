@@ -2,6 +2,7 @@
 categories:
 - blog
 date: '2021-05-22'
+link: https://www.imdb.com/title/tt14519762/
 tags:
 - draft
 title: 'Love, Death & Robots: Life Hutch'

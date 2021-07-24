@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2016-09-04'
+link: https://www.imdb.com/title/tt2390253
 tags:
 - movies
 title: Eungyo - A Musa

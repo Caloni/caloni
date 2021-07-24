@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2014-01-01'
+link: https://www.imdb.com/title/tt0473188
 tags:
 - movies
 title: A Vida e a Morte De Bobby Z

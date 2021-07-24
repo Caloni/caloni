@@ -2,6 +2,7 @@
 categories:
 - code
 date: '2020-06-21'
+link: https://en.cppreference.com/w/cpp/language/coroutines
 tags:
 - ccpp
 title: C++ Co Routines

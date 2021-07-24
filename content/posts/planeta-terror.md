@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2015-09-27'
+link: https://www.imdb.com/title/tt1077258
 tags:
 - movies
 title: Planeta Terror

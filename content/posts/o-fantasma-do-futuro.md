@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2016-05-01'
+link: https://www.imdb.com/title/tt0113568
 tags:
 - movies
 title: O Fantasma do Futuro

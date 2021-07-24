@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2011-08-15'
+link: https://www.imdb.com/title/tt1650062
 tags:
 - movies
 title: Super 8

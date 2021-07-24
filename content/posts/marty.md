@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2012-03-06'
+link: https://www.imdb.com/title/tt0048356
 tags:
 - movies
 title: Marty

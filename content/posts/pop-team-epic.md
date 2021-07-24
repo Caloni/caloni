@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-10-04'
+link: https://www.crunchyroll.com/pop-team-epic
 tags:
 - animes
 title: Pop Team Epic

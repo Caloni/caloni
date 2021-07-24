@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2012-07-31'
+link: https://www.imdb.com/title/tt0266489
 tags:
 - movies
 title: Duplex

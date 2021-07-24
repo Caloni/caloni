@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2021-01-28'
+link: https://www.imdb.com/title/tt0095327
 tags:
 - draft
 - movies

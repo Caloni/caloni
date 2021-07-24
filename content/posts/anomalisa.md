@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2016-07-31'
+link: https://www.imdb.com/title/tt2401878
 tags:
 - movies
 title: Anomalisa

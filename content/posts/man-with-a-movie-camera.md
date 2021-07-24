@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2015-09-21'
+link: https://www.imdb.com/title/tt0019760
 tags:
 - movies
 title: Um Homem com uma Câmera

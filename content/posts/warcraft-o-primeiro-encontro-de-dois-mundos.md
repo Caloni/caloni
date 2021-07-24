@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2016-08-08'
+link: https://www.imdb.com/title/tt0803096
 tags:
 - movies
 title: 'Warcraft: O Primeiro Encontro de Dois Mundos'

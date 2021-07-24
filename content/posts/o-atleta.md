@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2010-11-04'
+link: https://www.imdb.com/title/tt1130965
 tags:
 - movies
 title: O Atleta

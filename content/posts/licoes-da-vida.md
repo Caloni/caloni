@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2011-12-20'
+link: https://www.imdb.com/title/tt0446687
 tags:
 - movies
 title: Lições de Vida

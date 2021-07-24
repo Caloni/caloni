@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2013-09-18'
+link: https://www.imdb.com/title/tt1426329
 tags:
 - movies
 title: Lovelace

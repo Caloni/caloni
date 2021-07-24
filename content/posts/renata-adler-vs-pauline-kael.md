@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-06-23'
+link: https://www.amazon.com/Movie-Criticism-Case-Pauline-Kael-ebook/dp/B0062Q7ZC2
 tags:
 - reading
 title: Renata Adler vs Pauline Kael

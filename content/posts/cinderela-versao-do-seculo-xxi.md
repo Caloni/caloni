@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-06-21'
+link: https://gist.githubusercontent.com/Caloni/7ba7f358b032ed9226855e37819d893a/raw/c3f066601fb2f3280f012ed24d974cf221183ee2/cinderela-versao-do-seculo-xxi.txt
 tags:
 - books
 title: 'Cinderela: Versão do Século XXI'

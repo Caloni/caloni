@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-10-19'
+link: https://mostraplay.mostra.org/film/apenas-mortais/
 tags:
 - cinemaqui
 - movies

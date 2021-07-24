@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-07-15'
+link: https://www.amazon.com/Historia-do-Xadrez-Edward-Lasker/dp/8534800561
 tags:
 - books
 title: História do Xadrez

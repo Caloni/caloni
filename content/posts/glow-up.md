@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-10-04'
+link: https://www.imdb.com/title/tt9680524
 tags:
 - series
 title: Glow Up

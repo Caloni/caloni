@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2014-05-26'
+link: https://www.imdb.com/title/tt1877832
 tags:
 - movies
 title: 'X-Men: Dias de um Futuro Esquecido'

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2016-06-30'
+link: https://www.imdb.com/title/tt2870756
 tags:
 - movies
 title: Magia ao Luar

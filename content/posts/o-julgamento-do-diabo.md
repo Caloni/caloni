@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2011-03-28'
+link: https://www.imdb.com/title/tt0263265
 tags:
 - movies
 title: O Julgamento do Diabo

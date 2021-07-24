@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2011-03-28'
+link: https://www.imdb.com/title/tt1728179
 tags:
 - movies
 title: Atividade Paranormal Tóquio

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2013-03-06'
+link: https://www.imdb.com/title/tt1606378
 tags:
 - movies
 title: 'Duro de Matar: Um Bom Dia para Morrer'

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-12-26'
+link: https://www.imdb.com/title/tt0382189
 tags:
 - movies
 title: Meu Amor de Verão

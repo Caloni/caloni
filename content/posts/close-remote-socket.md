@@ -2,6 +2,7 @@
 categories:
 - code
 date: '2020-07-05'
+link: https://www.scm.keele.ac.uk/staff/stan/2016/05/16/closing-sockets-without-killing-processes/
 tags:
 - english
 title: Close Remote Socket

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-04-05'
+link: https://www.imdb.com/title/tt0140888
 tags:
 - movies
 title: Central do Brasil

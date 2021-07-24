@@ -2,6 +2,7 @@
 categories:
 - blog
 date: '2020-06-21'
+link: https://www.cinemaqui.com.br/oscar-tera-10-indicados-fixos-para-melhor-filme
 title: Oscar
 ---
 

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2012-03-18'
+link: https://www.imdb.com/title/tt0824747
 tags:
 - movies
 title: A Troca

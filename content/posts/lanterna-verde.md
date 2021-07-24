@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2011-08-29'
+link: https://www.imdb.com/title/tt1133985
 tags:
 - movies
 title: Lanterna Verde

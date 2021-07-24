@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2010-12-10'
+link: https://www.imdb.com/title/tt1462758
 tags:
 - movies
 title: Enterrado vivo

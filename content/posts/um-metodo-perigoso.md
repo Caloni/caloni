@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2015-10-02'
+link: https://www.imdb.com/title/tt1571222
 tags:
 - movies
 title: Um Método Perigoso

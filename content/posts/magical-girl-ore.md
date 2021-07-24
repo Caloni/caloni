@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2021-04-04'
+link: https://www.imdb.com/title/tt8322496
 tags:
 - draft
 - animes

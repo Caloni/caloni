@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2015-12-27'
+link: https://www.imdb.com/title/tt0420509
 tags:
 - movies
 title: Aura

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-04-20'
+link: https://www.imdb.com/title/tt0049366
 tags:
 - movies
 title: Vampiros de Alma

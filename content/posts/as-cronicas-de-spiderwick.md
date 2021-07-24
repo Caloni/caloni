@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2014-04-17'
+link: https://www.imdb.com/title/tt0416236
 tags:
 - movies
 title: As Crônicas de Spiderwick

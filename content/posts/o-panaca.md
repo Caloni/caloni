@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2013-11-27'
+link: https://www.imdb.com/title/tt0079367
 tags:
 - movies
 title: O Panaca

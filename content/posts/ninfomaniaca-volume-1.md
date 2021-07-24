@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2016-06-06'
+link: https://www.imdb.com/title/tt1937390
 tags:
 - movies
 title: 'Ninfomaníaca: Volume 1'

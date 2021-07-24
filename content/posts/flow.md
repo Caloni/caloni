@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-09-27'
+link: https://www.goodreads.com/review/show/71694977
 tags:
 - books
 title: 'Flow: The Psychology of Optimal Experience'

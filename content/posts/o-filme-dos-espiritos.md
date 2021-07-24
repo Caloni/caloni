@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2011-10-08'
+link: https://www.imdb.com/title/tt2210871
 tags:
 - movies
 title: O Filme dos Espíritos

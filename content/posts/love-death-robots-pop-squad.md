@@ -2,6 +2,7 @@
 categories:
 - blog
 date: '2021-05-22'
+link: https://www.imdb.com/title/tt10468230/
 tags:
 - draft
 title: 'Love, Death & Robots: Pop Squad'

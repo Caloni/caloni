@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2013-05-09'
+link: https://www.imdb.com/title/tt1288558
 tags:
 - movies
 title: A Morte do Demônio

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-09-29'
+link: https://www.imdb.com/title/tt1190634
 tags:
 - series
 title: The Boys

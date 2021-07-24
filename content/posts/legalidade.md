@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2019-08-31'
+link: https://www.imdb.com/title/tt6682820
 tags:
 - cinemaqui
 - draft

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2011-02-05'
+link: https://www.imdb.com/title/tt0758752
 tags:
 - movies
 title: Amor e Outras Drogas

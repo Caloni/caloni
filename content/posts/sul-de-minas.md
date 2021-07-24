@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-09-25'
+link: https://cafedocentro.com.br/sul-de-minas/
 tags:
 - coffee
 - food

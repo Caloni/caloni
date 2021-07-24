@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2014-06-06'
+link: https://www.imdb.com/title/tt2007360
 tags:
 - movies
 title: Computer Chess

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2014-12-30'
+link: https://www.imdb.com/title/tt3148834
 tags:
 - movies
 title: A Mansão Mágica

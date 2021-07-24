@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2015-02-15'
+link: https://www.imdb.com/title/tt1915581
 tags:
 - movies
 title: Magic Mike

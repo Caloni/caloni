@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2013-08-05'
+link: https://www.imdb.com/title/tt1821694
 tags:
 - movies
 title: 'RED 2: Aposentados e Ainda Mais Perigosos'

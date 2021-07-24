@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2011-11-18'
+link: https://www.imdb.com/title/tt1189073
 tags:
 - movies
 title: A Pele que Habito

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-07-15'
+link: https://www.imdb.com/title/tt12031040
 tags:
 - animes
 - series

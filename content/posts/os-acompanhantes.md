@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2015-08-23'
+link: https://www.imdb.com/title/tt1361313
 tags:
 - movies
 title: Os Acompanhantes

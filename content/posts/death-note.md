@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2017-09-18'
+link: https://www.imdb.com/title/tt0877057
 tags:
 - draft
 - animes

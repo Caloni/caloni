@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-10-11'
+link: https://www.crunchyroll.com/pt-pt/domestic-girlfriend
 tags:
 - animes
 title: Domestic Girlfriend

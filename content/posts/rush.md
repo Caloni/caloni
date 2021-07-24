@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2016-03-20'
+link: https://www.imdb.com/title/tt1979320
 tags:
 - movies
 title: 'Rush: No Limite da Emoção'

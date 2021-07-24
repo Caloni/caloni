@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2013-10-19'
+link: https://www.imdb.com/title/tt2551492
 tags:
 - movies
 title: Wajma

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2014-09-26'
+link: https://www.imdb.com/title/tt1939659
 tags:
 - movies
 title: Carrie, a Estranha (2013)

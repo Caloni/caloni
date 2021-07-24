@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-04-22'
+link: https://www.imdb.com/title/tt0053198
 tags:
 - movies
 title: Os Incompreendidos

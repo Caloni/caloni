@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-07-05'
+link: https://www.imdb.com/title/tt0086567
 tags:
 - movies
 title: War Games

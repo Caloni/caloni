@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-03-28'
+link: https://www.imdb.com/title/tt0101316
 tags:
 - movies
 title: O Amante

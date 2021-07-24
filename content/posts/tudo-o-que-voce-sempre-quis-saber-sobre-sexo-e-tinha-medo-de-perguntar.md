@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2014-05-10'
+link: https://www.imdb.com/title/tt0068555
 tags:
 - movies
 title: Tudo o Que Você Sempre Quis Saber Sobre Sexo e Tinha Medo de Perguntar

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2017-01-11'
+link: https://www.imdb.com/title/tt0017075
 tags:
 - movies
 title: 'The Lodger: A Story of the London Fog'

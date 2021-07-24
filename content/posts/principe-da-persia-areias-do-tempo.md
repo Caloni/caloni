@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2010-06-14'
+link: https://www.imdb.com/title/tt0473075
 tags:
 - movies
 title: 'Príncipe da Pérsia: As Areias do Tempo'

@@ -2,6 +2,7 @@
 categories:
 - blog
 date: '2020-12-08'
+link: https://www.reddit.com/r/todayilearned/
 tags:
 - lists
 title: 'TIL: Today I Learned'

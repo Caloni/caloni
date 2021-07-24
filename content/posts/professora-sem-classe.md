@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2012-02-15'
+link: https://www.imdb.com/title/tt1284575
 tags:
 - movies
 title: Professora Sem Classe

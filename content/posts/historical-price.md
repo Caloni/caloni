@@ -2,6 +2,7 @@
 categories:
 - code
 date: '2020-06-13'
+link: https://gist.github.com/Caloni/368a8ce88206c13aac6ca27a56975af2
 title: Historical Price
 ---
 

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-12-27'
+link: https://www.vivino.com/miluna-rosso/w/5598621
 tags:
 - wine
 - food

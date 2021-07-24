@@ -2,6 +2,7 @@
 categories:
 - code
 date: '2012-06-09'
+link: https://www.infoq.com/presentations/Vim-From-Essentials-to-Mastery/
 title: Novos Atalhos Aprendidos no Vim
 ---
 

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2010-07-24'
+link: https://www.imdb.com/title/tt1410297
 tags:
 - movies
 title: O Bem Amado

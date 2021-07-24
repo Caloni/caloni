@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2011-12-10'
+link: https://www.imdb.com/title/tt0103644
 tags:
 - movies
 title: Aliens 3

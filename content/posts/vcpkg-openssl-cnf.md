@@ -2,6 +2,7 @@
 categories:
 - code
 date: '2019-09-17'
+link: /code/vcpkg-openssl-cnf.patch
 title: 'Vcpkg: openssl.cnf'
 ---
 

@@ -2,6 +2,7 @@
 categories:
 - blog
 date: '2020-04-11'
+link: https://www.imdb.com/title/tt0126096
 title: Temporal
 ---
 

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-07-26'
+link: https://www.imdb.com/title/tt0335266
 tags:
 - movies
 title: Encontros e Desencontros

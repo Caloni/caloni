@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2010-10-08'
+link: https://www.imdb.com/title/tt1555149
 tags:
 - movies
 title: 'Tropa de Elite 2: O Inimigo Agora é Outro'

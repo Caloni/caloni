@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-10-04'
+link: https://www.imdb.com/title/tt7423538
 tags:
 - series
 title: Ratched

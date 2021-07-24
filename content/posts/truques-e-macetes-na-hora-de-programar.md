@@ -2,6 +2,7 @@
 categories:
 - blog
 date: '2021-05-20'
+link: 'null'
 tags:
 - draft
 title: Truques e Macetes na Hora de Programar

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2013-01-20'
+link: https://www.imdb.com/title/tt1623288
 tags:
 - movies
 title: ParaNorman

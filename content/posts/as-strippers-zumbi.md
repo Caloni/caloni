@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2013-07-28'
+link: https://www.imdb.com/title/tt0960890
 tags:
 - movies
 title: As Strippers Zumbi

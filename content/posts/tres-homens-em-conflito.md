@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2010-12-20'
+link: https://www.imdb.com/title/tt0060196
 tags:
 - movies
 title: Três Homens em Conflito

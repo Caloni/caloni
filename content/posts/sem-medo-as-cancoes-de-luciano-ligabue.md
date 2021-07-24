@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2010-12-20'
+link: https://www.imdb.com/title/tt1694539
 tags:
 - movies
 title: 'Sem Medo: As Canções De Luciano Ligabue'

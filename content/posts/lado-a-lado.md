@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2012-10-21'
+link: https://www.imdb.com/title/tt2014338
 tags:
 - movies
 title: Lado a Lado

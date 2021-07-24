@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2016-07-28'
+link: https://www.imdb.com/title/tt3799694
 tags:
 - movies
 title: Dois Caras Legais

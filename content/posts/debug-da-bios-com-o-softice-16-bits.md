@@ -2,6 +2,7 @@
 categories:
 - code
 date: '2007-10-02'
+link: https://youtu.be/mXDROf0rLkI
 title: Debug da BIOS com o SoftIce 16 bits
 ---
 

@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-06-13'
+link: https://www.imdb.com/title/tt9737098
 tags:
 - movies
 title: The Eyes of Fritz Lang

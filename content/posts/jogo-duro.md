@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2020-05-04'
+link: https://www.imdb.com/title/tt0140296
 tags:
 - movies
 title: Jogo Duro

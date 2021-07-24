@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2013-03-12'
+link: https://www.imdb.com/title/tt1389096
 tags:
 - movies
 title: Amigos Inseparáveis

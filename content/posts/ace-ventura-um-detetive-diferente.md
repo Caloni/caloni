@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2016-05-29'
+link: https://www.imdb.com/title/tt0109040
 tags:
 - movies
 title: 'Ace Ventura: Um Detetive Diferente'

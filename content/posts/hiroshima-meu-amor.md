@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2015-01-09'
+link: https://www.imdb.com/title/tt0052893
 tags:
 - movies
 title: Hiroshima Meu Amor

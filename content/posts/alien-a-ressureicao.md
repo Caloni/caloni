@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2011-12-12'
+link: https://www.imdb.com/title/tt0118583
 tags:
 - movies
 title: Alien, a Ressurreição

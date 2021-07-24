@@ -2,6 +2,7 @@
 categories:
 - reviews
 date: '2015-07-26'
+link: https://www.imdb.com/title/tt2576852
 tags:
 - movies
 title: O Conto da Princesa Kaguya
