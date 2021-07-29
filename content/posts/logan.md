@@ -4,7 +4,6 @@ categories:
 date: '2017-03-05'
 link: https://www.imdb.com/title/tt3315342
 tags:
-- draft
 - movies
 title: Logan
 ---
@@ -17,7 +16,7 @@ Mas desculpe se passo adiante de todo o universo fílmico que antecede este trab
 
 E a violência parece ser a única saída para a comunicação dessas pessoas, seja um mutante rastreador de mutantes (com um fim trágico e com uma mensagem absurda se você ainda estiver acompanhando minha conversa sobre preconceito com imigrantes que explodem coisas) ou até o final tão realista quanto depressivo de um Charles com uma doença cerebral degenerativa, e sua devida consequência: o impacto que isso gera nas mentes humanas mais fracas em torno dele. Mais uma vez os humanos possuem motivos de sobra para desconfiar dos poucos mutantes que restam, e mais uma vez os vilões ainda mantém o velho e eterno plano de fabricar seus próprios mutantes para si.
 
-Mas voltemos a Charles. Seu personagem construído com tanta afinidade por Patrick Stewart é o Charles definitivo. Estamos em um futuro um tanto deprimente, mas Stewart continua a ser essa figura com um caráter inspirado, mesmo que atormentado pelos momentos onde machucou pessoas. Ele não é apenas o velho inconveniente que aceita ir jantar na casa de uma família de desconhecidos (e de onde vem a bondade de estranhos na estrada, liberais? ah, sim: eles são negros), mas o resultado de tantas horas de interação entre os X-Men que perdemos a conta, mas mesmo assim Stewart consegue sintetizar todo o conhecimento adquirido pelo seu personagem em um momento onde ele é um dos últimos sobreviventes de uma causa perdida há décadas.
+Mas voltemos a Charles. Seu personagem construído com tanta afinidade por Patrick Stewart é o Charles definitivo. Estamos em um futuro um tanto deprimente, mas Stewart continua a ser essa figura com um caráter inspirado, mesmo que atormentado pelos momentos onde machucou pessoas. Ele não é apenas o velho inconveniente que aceita ir jantar na casa de uma família de desconhecidos, mas o resultado de muitas horas de interação entre os X-Men, e mesmo assim Stewart sintetiza todo o conhecimento adquirido pelo seu personagem em um momento onde ele é um dos últimos sobreviventes de uma causa perdida há décadas.
 
 E Hugh Jackman mais uma vez não faz feio. Ele é Wolverine até o fim, e mantém seu lado impetuoso e instintivo afiado, mas este é um filme onde ele deixou de sê-lo há muito tempo e tenta evitar as duras lembranças do que já foi. Hoje ele se limita a cuidar de um debilitado Charles, e não deixa de ser tocante e uma das melhores cenas do filme vê-lo levando o professor para descansar na cama (um momento que compete de igual para igual com um outro momento icônico, quando uma cruz é deitada para virar um X). Sua fraqueza, uma doença que o mata por dentro, provavelmente fruto de tanto tempo sendo a experiência genética que foi, é demonstrada de maneira um tanto repetitiva pela sua conveniente tosse, mas Jackman consegue a todo momento soar autêntico e real. É o contraponto que estávamos esperando depois de uma sequência ininterrupta de filmes que tratavam apenas do herói em situações fantásticas. Aqui ele é um ser humano em busca de um pouco de paz.
 

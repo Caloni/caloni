@@ -4,14 +4,13 @@ categories:
 date: '2017-03-10'
 link: https://www.imdb.com/title/tt2173244
 tags:
-- draft
 - movies
 title: Tiempos Felices
 ---
 
 Este é o clichê versão argentina daquela comédia onde o namorado quer se separar mas não consegue dizer para a namorada. A partir daí você já deve conseguir concluir que verá aquela velha cena dele imaginando que está se separando e as possíveis reações da sua ex-amada.
 
-Porém, fica pior. Há uma organização secreta com moldes corporativos da década de 50 que promete conseguir a "façanha" de terminar o namoro sem desagradar seu cliente com detalhes como falar a verdade. É através dessa trama que o diretor de esquece completamente de nos surpreender e se entrega a todas as cenas obrigatórias e previsíveis desse gênero surrado: câmeras e escutas escondidas, a estranha sala de espera da tal empresa, as coincidências que fazem o herói perceber o que está acontecendo.
+Porém, fica pior. Há uma organização secreta com moldes corporativos da década de 50 que promete conseguir a "façanha" de terminar o namoro sem desagradar seu cliente com detalhes como falar a verdade. É através dessa trama que o diretor se esquece completamente de nos surpreender e se entrega a todas as cenas obrigatórias e previsíveis desse gênero surrado: câmeras e escutas escondidas, a estranha sala de espera da tal empresa, as coincidências que fazem o herói perceber o que está acontecendo.
 
 Ele geralmente é o último a saber. E nós, espectadores, os primeiros. Isso geralmente não é um bom sinal para risadas, e não é mesmo, já que nem a atuação do protagonista consegue nos entregar qualquer tipo de detalhe inusitado. Aliás, o rapaz é extremamente antipático, e ela uma simpatia obrigada a soar como uma megera. Talvez as atuações estejam trocadas...
 
