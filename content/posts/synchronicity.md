@@ -4,7 +4,6 @@ categories:
 date: '2017-03-26'
 link: https://www.imdb.com/title/tt2049543
 tags:
-- draft
 - movies
 title: Synchronicity
 ---

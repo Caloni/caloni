@@ -4,7 +4,6 @@ categories:
 date: '2017-04-01'
 link: https://www.imdb.com/title/tt0435651
 tags:
-- draft
 - movies
 title: O Doador de Memórias
 ---
@@ -17,4 +16,4 @@ Essa dualidade de emoções e as memórias passadas vai sendo explicada e passad
 
 A melhor fala do filme está em um diálogo entre Bridges e Meryl Streep (ah, ela está no filme; é a anciã-mestra ou algo que o valha). Quando questionada se esse controle é realmente o melhor para a humanidade, Streep tem a voz da razão quando diz que a maioria das pessoas são fracas e, quando dadas as opções para elas escolherem, elas sempre escolhem errado (os liberais americanos que o digam, agora que as últimas eleições pelos lados de lá elegeram o conservador republicano Donald Trump). Ironicamente, a própria Streep na vida real faz discursos a respeito de como é errado as pessoas pensarem diferente dela.
 
-No entanto, este é um filme de ideias prontas, que não estão aberta a discussão. Assim como no mundinho do filme. E as atuações estão apenas repetindo o que seus personagens deveriam falar. E os acontecimentos estão apenas repetindo o que todos os filmes sobre esse tema já fizeram. Ou seja, um filme tão insosso que dá até pena de chamá-lo de ficção científica ou algo que o valha.
+No entanto, este é um filme de ideias prontas, que não estão abertas a discussão. Assim como no mundinho do filme. E as atuações estão apenas repetindo o que seus personagens deveriam falar. E os acontecimentos estão apenas repetindo o que todos os filmes sobre esse tema já fizeram. Ou seja, um filme tão insosso que dá até pena de chamá-lo de ficção científica ou algo que o valha.

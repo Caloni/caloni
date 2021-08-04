@@ -5,7 +5,6 @@ date: '2017-03-28'
 link: https://www.imdb.com/title/tt3790172
 tags:
 - cinemaqui
-- draft
 - movies
 title: O Mundo Fora do Lugar
 ---

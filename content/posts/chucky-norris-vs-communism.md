@@ -4,7 +4,6 @@ categories:
 date: '2017-03-26'
 link: https://www.imdb.com/title/tt2442080
 tags:
-- draft
 - movies
 title: Chuck Norris vs. Communism
 ---
@@ -19,4 +18,4 @@ Tudo isso faz lembrar que hoje a Romênia livre é fonte de uma cinematografia i
 
 Uma das figuras centrais dessa revolução interna foi a dubladora Irina Margareta Nistor, a voz mais conhecida do país para os que assistiam os filmes pirateados. Irina dublava todas as vozes por cima das originais. E era o que tinha na época. E, mesmo assim, era o suficiente para as crianças acreditarem que Chuck Norris realmente estava fugindo em seu camburão enterrado no solo, e que Rocky acordava todo dia às 5 da manhã, comia seu ovo e saía para treinar nas ruas da Filadélfia.
 
-Mais do que liberdade de expressão, o que essas pessoas ganhavam com o tráfico de fitas e vídeos-cassetes era a possibilidade de sonhar. E o sonho dessas pessoas crescendo por anos, de acordo com o longa, foi o responsável pela abertura política do país. Claro que Calugareanu parece estar puxando sardinha para seu tema, e é muito difícil levar ao pé da letra todos os depoimentos e todo o aparente impacto que os filmes tiveram na vida dessas pessoas. Mas assim como também é impossível confiar em números oficiais do governo, um pouco de verdade, ainda que pouco, sempre irá escapar da maquiagem que cobre qualquer realidade macabra.
+Mais do que liberdade de expressão, o que essas pessoas ganhavam com o tráfico de fitas e vídeo-cassetes era a possibilidade de sonhar. E o sonho dessas pessoas crescendo por anos, de acordo com o longa, foi o responsável pela abertura política do país. Claro que Calugareanu puxa sardinha para seu tema, e é muito difícil levar ao pé da letra todos os depoimentos e todo o aparente impacto que os filmes tiveram na vida dessas pessoas. Mas assim como também é impossível confiar em números oficiais do governo, um pouco de verdade, ainda que pouco, sempre irá escapar da maquiagem que cobre qualquer realidade macabra.

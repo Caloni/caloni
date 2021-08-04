@@ -4,7 +4,6 @@ categories:
 date: '2017-04-04'
 link: https://www.imdb.com/title/tt2669336
 tags:
-- draft
 - movies
 title: Time Lapse
 ---
@@ -13,7 +12,7 @@ Mais um filme de viagem no tempo. Dessa vez quem viaja é só a luz. Uma câmera
 
 Time Lapse tem o charme musical e temático daqueles thrillers onde algo muito estranho vai ficando ainda mais estranho conforme a história vai avançando. No entanto, ele se rende a um roteiro estruturado demais, que apenas vai passando dia após dia, e que mesmo com o risco eminente de dar tudo errado, prefere fazer um joguete de triângulo amoroso. É como se a câmera que tira as fotos, ou seu inventor, já soubesse que seu melhor uso é materializar fetiches dos espectadores.
 
-Ele também conta com um namorado pintor que é o oposto do estereótipo de artista. Frio e calculista, ele parece sempre colocar na balança a situação sem nunca sentir muito mais que um leve desapontamento. Até quando sua namorada precisa beijar seu (suposto) melhor amigo em sua presença.
+Ele também conta com um namorado pintor que é o oposto do estereótipo de artista. Frio e calculista, ele sempre coloca na balança a situação sem nunca sentir muito mais que um leve desapontamento. Até quando sua namorada precisa beijar seu (suposto) melhor amigo em sua presença.
 
 O filme também conta com um apostador extremamente estúpido, daqueles que acabou de achar o ganso de ovos de ouro e agora sempre vai comprar pãezinhos todas as manhãs com um quilo de ouro debaixo do braço, e que em vez de pensar em ganhar na loteria de vez prefere brincar de levantar suspeitas da máfia das corridas de cachorro.
 
