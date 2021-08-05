@@ -4,14 +4,13 @@ categories:
 date: '2017-04-27'
 link: https://www.imdb.com/title/tt3896198
 tags:
-- draft
 - movies
 title: Guardiões da Galáxia Vol. 2
 ---
 
 Se você gostou de Guardiões da Galáxia é quase certeza que irá apreciar as novas aventuras do time de escanteio da Marvel, que ironicamente são os que mais lembram, com orgulho e um certo sarcasmo, a mídia original de onde vieram: os quadrinhos. Agora, se você é como eu, tenho certeza que achou que nada de bom viria de um filme onde novamente há uma equipe de anti-heróis de mentirinha formados por um guaxinim bancando o bad ass, um macho alfa genérico e seu objeto de desejo pintado de verde (porque é uma atriz negra), um brutamontes genérico isento de neurônios no cérebro e papas na língua e uma árvore falante (Eu sou Groot) dublada por Vin Diesel (que agora é pequena, o que torna Vin Diesel por tabela fofinho). Para você que pensa como eu, acredito que provavelmente você estará errado em julgar prematuramente uma continuação que faz de tudo dessa vez para acertar as pontas soltas desse ensaio bem-humorado dos quadrinhos para as telonas.
 
-Dessa vez o tom meio bonachão ensaiado no primeiro filme está aqui a todo vapor. Graças a um ritmo alucinante que une cenas de ação irreais e um timing cômico orgânico, praticamente todo o filme respira o mundo dos quadrinhos, onde é preciso economizar balões de diálogos e abusar do visual, com cores berrantes que não parecem desse mundo. A não ser que esse mundo esteja desenhado em páginas brilhantes de um almanaque Marvel.
+Dessa vez o tom meio bonachão ensaiado no primeiro filme está aqui a todo vapor. Graças a um ritmo alucinante que une cenas de ação irreais e um timing cômico orgânico, praticamente todo o filme respira o mundo dos quadrinhos, onde é preciso economizar balões de diálogos e abusar do visual, com cores berrantes que não são desse mundo. A não ser que esse mundo esteja desenhado em páginas brilhantes de um almanaque Marvel.
 
 E de uma maneira semelhante aos X-Men celebrando a diversidade, aqui o humor usa e abusa das subversões e confusões quando se mistura duas (ou várias) culturas, povos, raças e planetas da mesma galáxia, onde se na Terra Mary Poppins é uma coisa, em outro ponto da galáxia pode virar outra completamente diferente. É possível sentir que o pedaço de universo onde a Terra se encontra agora é um lugar mais rico graças à diversidade da vida. Mas, diferente de Star Wars, aqui a vida não depende de muitos efeitos visuais, bastando um pouco de tinta (uma maquiagem competente) e atuações impressionantes para o gênero. Atuações essas que são vitais para o desenvolvimento da história, que confia mais na interação entre seus personagens e os problemas universais de convívio entre as pessoas (relação pai/filho, irmãs rivais, duas pessoas com visões de mundo diferentes, o renegado pelo bando e o complexo de inferioridade de um guaxinim).
 

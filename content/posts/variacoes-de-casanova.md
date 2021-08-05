@@ -5,7 +5,6 @@ date: '2017-04-11'
 link: https://www.imdb.com/title/tt2614400
 tags:
 - cinemaqui
-- draft
 - movies
 title: Variações de Casanova
 ---
@@ -16,6 +15,6 @@ Baseado em três fontes distintas e escrito pelo diretor Michael Sturminger, a c
 
 Casanova é o Don Juan plebeu que se ancorava na nobreza. Uma figura decadente na época que acumulava conquistas amorosas. Um "ninfomaníaco" de seu tempo que hoje é visto no filme como uma figura tão grotesca quanto trágica. Alguém que trouxe apenas dor para suas amantes e a si mesmo. Mas, assim como ele pontua na peça, a dor em si não consegue ser lembrada, mas apenas as circunstâncias em torno da dor.
 
-Essa fascinação que sua figura exerce no imaginário coletivo tem seus dias contados no filme, que vai dilacerando em diálogos com uma misteriosa visitante (Veronica Ferres) a verdadeira faceta de alguém que "não consegue viver de repetições". Se trata de uma história curta alongada pelos inúmeros números musicais que nessa bagunça de unir teatro, literatura e cinema, parece se divertir imensamente mais que o permitido pela paciência do espectador.
+Essa fascinação que sua figura exerce no imaginário coletivo tem seus dias contados no filme, que vai dilacerando em diálogos com uma misteriosa visitante (Veronica Ferres) a verdadeira faceta de alguém que "não consegue viver de repetições". Se trata de uma história curta alongada pelos inúmeros números musicais que nessa bagunça de unir teatro, literatura e cinema, se diverte imensamente mais que o permitido pela paciência do espectador.
 
 O resultado é um filme sem muito o que dizer, e que contrariando o próprio Casanova, vive de repetições. E ninguém consegue viver de repetições. Nem mesmo em um filme.
