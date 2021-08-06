@@ -5,7 +5,6 @@ date: '2017-05-23'
 link: https://www.imdb.com/title/tt5748480
 tags:
 - cinemaqui
-- draft
 - movies
 title: Muito Romântico
 ---
@@ -16,13 +15,13 @@ Nessa cena um dos retalhos pega fogo por debaixo da colcha, pois a pessoa que es
 
 O sentido do filme, diferente do que você pode imaginar, não está no seu título. Muito Romântico é uma falsa apresentação, já que este é um filme anti-romântico, anti-conhecimento, meio esotérico ou cientificista com esotérico. Ele pode ser outras coisas, também (depende do seu nível de drogas). Porém, o que ele não pode ser, de jeito nenhum, é romântico.
 
-Ou o romantismo desse século parece ter sido rebatizado. Romantismo era sobre valores e ideais. Os românticos eram a representação de alguém que buscava ou era o ideal de algo. Aqui talvez apenas o ato de fazer o filme possa ser chamado de romântico, mas não seu resultado.
+Ou o romantismo desse século foi rebatizado. Romantismo era sobre valores e ideais. Os românticos eram a representação de alguém que buscava ou era o ideal de algo. Aqui talvez apenas o ato de fazer o filme possa ser chamado de romântico, mas não seu resultado.
 
 A história é sobre um casal que viaja em um navio cargueiro em direção à Alemanha para uma nova vida. Iniciando com uma sequência lenta que mostra como uma viagem pelos mares pode ser cansativa, também descobrimos que eles gostam de tirar fotos e filmar. São artistas contemporâneos, uma época gloriosa para qualquer um que queira chamar qualquer coisa de arte. Gloriosa menos para a Arte, talvez.
 
 Então descobrimos que este é um pseudo-documentário, ou um documentário filmado, roteirizado e dirigido por eles mesmos. Qual o roteiro? A primeira cena, uma leitura de uma poesia, já nos dá uma dica. Se trata de uma lista interminável de palavras e expressões vazias. Vazias se lidas em conjunto, mas cada uma delas talvez tenha o seu significado. Ainda lembra da colcha de retalhos?
 
-Há um fiapo de premissa, isso é verdade. Depois que chegam na Alemanha, um amigo ajuda o casal na pequena reforma do quarto para onde se mudam e onde praticamente toda a ação irá acontecer a partir daí. Ele comenta que é hora de parar de perder tempo com festas, bebidas e drogas e passar a produzir algo. Para a posteridade, diz ele. O significado da vida parece ser, agora, ter feito algo que deixe sua marca no mundo. O rapaz, Gustavo, concorda. Mas logo em seguida ele e Melissa dão uma festa. Talvez apenas de boas-vindas, mas, sabe como é, com drogas e bebidas.
+Há um fiapo de premissa, isso é verdade. Depois que chegam na Alemanha, um amigo ajuda o casal na pequena reforma do quarto para onde se mudam e onde praticamente toda a ação irá acontecer a partir daí. Ele comenta que é hora de parar de perder tempo com festas, bebidas e drogas e passar a produzir algo. Para a posteridade, diz ele. O significado da vida é ter feito algo que deixe sua marca no mundo. O rapaz, Gustavo, concorda. Mas logo em seguida ele e Melissa dão uma festa. Talvez apenas de boas-vindas, mas, sabe como é, com drogas e bebidas.
 
 A partir daí o quarto vai mudando, e eles mudam junto. Seus rostos são maquiados e as paredes pintadas. Um círculo redondo e preto é pintado do lado de um criado-mudo, e é dentro dele que ambas essas Alices, marido e mulher, cada um ao seu jeito, chegam no País das Maravilhas.
 
