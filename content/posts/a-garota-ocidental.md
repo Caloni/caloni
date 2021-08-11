@@ -5,7 +5,6 @@ date: '2017-06-21'
 link: https://www.imdb.com/title/tt5771640
 tags:
 - cinemaqui
-- draft
 - movies
 title: A Garota Ocidental - Entre o Coração e a Tradição
 ---
@@ -16,7 +15,7 @@ Ao mesmo tempo é curioso como a releitura que o filme faz sobre os costume de c
 
 De alguma forma, ainda que velada, o filme compactua com essa ideia, ou no melhor dos casos admite que, assim como em "Brazil: O Filme" (Terry Gilliam, 1985), há sistemas sociais que impedem que os indivíduos possam sonhar fora da caixa de onde nasceram. Nesse caso em específico a coletividade, representada pela família de Zahira (a jovem Lina El Arabi), assume o caráter de tirano nesta tragédia anunciada, o que se torna ainda mais trágico pelo caráter ambíguo de sua natureza, de apoiadores e detratores da vida da jovem, e que mantém o mesmo ideal coletivista e covarde de todo o seu povo, onde indivíduos não são responsáveis pelos seus atos na mesma medida em que não podem decidir pelas suas vidas.
 
-E a cumplicidade do filme reside justamente em contar esta história como uma tragédia no mesmo sentido em que um acidente de carro é uma tragédia. Zahira está acuada por todos os lados. Ela engravida de alguém que não é a escolha de sua família como pretendente e ele não espera que ela fique com o bebê, apesar de desejar uma vida a três e ao mesmo tempo se posicionar intuitivamente contra o aborto. Na clínica, descobre que custam 3 euros e meio para retirar o feto em até 12 semanas, e 800 até 18 semanas no país vizinho. Seus valores estão irremediavelmente conflitantes com os da duas sociedades em que vive, a ocidental e a muçulmana, onde respectivamente a vida pré-nascimento e a pós-nascimento não importam. Ou melhor dizendo, não importa a opinião da pessoa colocada nessa posição.
+E a cumplicidade do filme reside justamente em contar esta história como uma tragédia no mesmo sentido em que um acidente de carro é uma tragédia. Zahira está acuada por todos os lados. Ela engravida de alguém que não é a escolha de sua família como pretendente e ele não espera que ela fique com o bebê, apesar de desejar uma vida a três e ao mesmo tempo se posicionar intuitivamente contra o aborto. Na clínica, descobre que custam 3 euros e meio para retirar o feto em até 12 semanas, e 800 até 18 semanas no país vizinho. Seus valores estão irremediavelmente conflitantes com os da dupla sociedade em que vive, a ocidental e a muçulmana, onde respectivamente a vida pré-nascimento e a pós-nascimento não importam. Ou melhor dizendo, não importa a opinião da pessoa colocada nessa posição.
 
 Porém, o roteiro de Stephan Streker sutilmente demonstra que os problemas retratados no filme não são simplesmente resolvidos escolhendo um lado. Afinal de contas, poderíamos lhe dar o rótulo de conservador e intolerante pelos acontecimentos nus e crus da história (que não poderei falar aqui e arriscar sua ótima e permanente tensão), mas ao mesmo tempo seria fácil entendê-lo como um estudo de cultura e como nunca nascemos livre de preconceitos onde quer que nasçamos, em uma ótica tipicamente liberal-americana. Felizmente nenhum dos dois rótulos seria completo, e acompanhamos livre das tensões políticas e sociais que soariam bobas e melodramáticas para um tema tão caro.
 

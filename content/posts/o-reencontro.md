@@ -5,7 +5,6 @@ date: '2017-07-21'
 link: https://www.imdb.com/title/tt5348236
 tags:
 - cinemaqui
-- draft
 - movies
 title: O Reencontro
 ---
@@ -14,7 +13,7 @@ O Reencontro traz Catherine Deneuve em boa forma em um filme que, apesar de leve
 
 A história é simples e vai ficando complicada, indo e voltando no que construíra. Claire (Frot) tem que lidar com o fechamento da clínica de parto que trabalhou a vida inteira ao mesmo tempo que lida com sua madrasta, Béatrice (Deneuve), que ligou do passado longínquo querendo reatar laços que nunca foram muito estáveis. Ambas são o completo oposto em personalidade. Claire é metódica, tem uma vida solitária e apática, quase mecânica, apesar de dar à luz a inúmeras vidas todas as noites como parteira. Béatrice está com câncer, no fim da vida, sozinha, e não tem nem apoio afetivo nem financeiro. Ela aposta em jogos e bebe, fuma e consome carne vermelha e gordurosa. E exibe seu lindo sorriso como de costume, provando que Deneuve envelheceu bem e que prioriza, em suas palavras, "os milagres do prazer", do que uma vida bem regrada.
 
-Sua "filha", vemoss aos poucos, apesar de seu completo oposto vive em situação semelhante; não costuma ingerir álcool, e parece ter medo de qualquer mudança nos rumos de sua vida, seja das investidas amorosas do filho do seu vizinho de canteiro ou do seu jovem filho, que nada no Rio Sena, faz medicina na faculdade e junto de uma colega esperam um bebê. Querem ser pais jovens, seguir sua paixão, mas sua mãe não consegue pensar outra coisa senão que falhou em sua educação. Ela vive sozinha em um prédio dos subúrbios de Paris e mantém uma rotina tão estável que parece literalmente não ter mudado em 30 anos. O seu medo de não ter vivido se aflora conforme sua madastra se aproxima, e ambas aos poucos devem viver um suporte mútuo, dissimulado ou sutil, que traz brilho a uma pálida paleta de cores sobre Paris (Yves Cape, que reproduz uma outra época com primor).
+Sua "filha", vemos aos poucos, apesar de seu completo oposto vive em situação semelhante; não costuma ingerir álcool, e tem medo de qualquer mudança nos rumos de sua vida, seja das investidas amorosas do filho do seu vizinho de canteiro ou do seu jovem filho, que nada no Rio Sena, faz medicina na faculdade e junto de uma colega esperam um bebê. Querem ser pais jovens, seguir sua paixão, mas sua mãe não consegue pensar outra coisa senão que falhou em sua educação. Ela vive sozinha em um prédio dos subúrbios de Paris e mantém uma rotina tão estável que literalmente não tem mudado em 30 anos. O seu medo de não ter vivido se aflora conforme sua madastra se aproxima, e ambas aos poucos devem viver um suporte mútuo, dissimulado ou sutil, que traz brilho a uma pálida paleta de cores sobre Paris (Yves Cape, que reproduz uma outra época com primor).
 
 A partir da premissa básica de reatar um antigo desafeto se constroem momentos inspirados (embora uns nem tanto), onde as piadas vão se formando naturalmente. Um exemplo: assim que a Claire termina um discurso moral onde fala que devemos seguir nosso corpo e evitar os delírios de nossa cabeça ela descobre que a namorada do seu filho está grávida. Em um jogo de palavras inspirado, o roteiro é sutil para passar despercebido, mas os mais atentos ou sensíveis notarão um extremo bom gosto em favorecer a naturalidade das situações em vez da manipulação barata em filmes do gênero.
 

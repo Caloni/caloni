@@ -5,7 +5,6 @@ date: '2017-07-08'
 link: https://www.imdb.com/title/tt3606752
 tags:
 - cinemaqui
-- draft
 - movies
 title: Carros 3
 ---
@@ -22,8 +21,8 @@ E essa dama graciosamente nos apresenta o abraço do convencional que os estúdi
 
 O que, mais uma vez, não necessariamente é ruim. Apenas preguiçoso. Até porque "heroínas femininas porque sim" já está se tornando lugar-comum nos filmes e em breve será um sub-gênero, onde pela primeira vez no Cinema a identificação do espectador com um personagem vai exigir que ambos sejam do mesmo gênero. Mas no caso de Carros 3, ao menos teríamos uma corajosa mudança no terceiro ato (que não pretendo revelar, mas que é emocionante) se o roteiro convenientemente (e de maneira absurda) não voltasse as coisas ao normal, tornando a história potencialmente mais interessante dos dois filmes (esqueçamos Carros 2) em um exercício não apenas preguiçoso, mas covarde.
 
-A cereja no bolo é a trilha sonora de Randy Newman, que adora pontuar os sentimentos em cada cena mais do que deveria. Algumas músicas são muito boas e pertinentes, fora a vibrante canção final, feita para ganhar Oscar, mas o diretor estreante Brian Fee não parece perceber que seu filme não merece tanto refino musical, ou há problemas intransponíveis em tentar contar um drama em que os personagens são carros falantes e a única solução é aumentar o som. De ambas as formas, há um certo tom de desespero, ainda que controlado, em não tornar Carros 3 a repetição do 2 (é, não dá pra esquecer que ele existiu).
+A cereja no bolo é a trilha sonora de Randy Newman, que adora pontuar os sentimentos em cada cena mais do que deveria. Algumas músicas são muito boas e pertinentes, fora a vibrante canção final, feita para ganhar Oscar, mas o diretor estreante Brian Fee não percebe que seu filme não merece tanto refino musical, ou há problemas intransponíveis em tentar contar um drama em que os personagens são carros falantes e a única solução é aumentar o som. De ambas as formas, há um certo tom de desespero, ainda que controlado, em não tornar Carros 3 a repetição do 2 (é, não dá pra esquecer que ele existiu).
 
 Até certo ponto esse desespero funciona. Carros 3 chega em alguns momentos em ser muito melhor que o original. Se bem que ser melhor que um drama saudosista em plena mística Rota 66 protagonizado por carros falantes acaba não sendo um desafio tão grande assim. Nada que arte e tecnologia a mais não resolvam. O que torna tudo mais ou menos irônico.
 
-PS: Por falar em ironia, a dublagem nacional conta com o corredor Rubinho Barrichello como um corredor medíocre com péssimas falas e que também está pendurando as calotas. E se você gostar muito, mas muito mesmo de Tom Math (que tem participação menor neste longa), espere até o final de todos os créditos por uma cena minúscula minúscula protagonizada por ele.
+PS: Por falar em ironia, a dublagem nacional conta com o corredor Rubinho Barrichello como um corredor medíocre com péssimas falas e que também está pendurando as calotas. E se você gostar muito, mas muito mesmo de Tom Math (que tem participação menor neste longa), espere até o final de todos os créditos por uma cena minúscula protagonizada por ele.
