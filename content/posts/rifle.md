@@ -5,7 +5,6 @@ date: '2017-07-26'
 link: https://www.imdb.com/title/tt3476694
 tags:
 - cinemaqui
-- draft
 - movies
 title: Rifle
 ---

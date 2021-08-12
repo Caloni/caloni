@@ -4,7 +4,6 @@ categories:
 date: '2017-08-04'
 link: https://www.imdb.com/title/tt2319580
 tags:
-- draft
 - movies
 title: Tickle Head, O Melhor Lugar Da Terra
 ---
@@ -19,6 +18,6 @@ Todo o orgulho que ele sentia pelo pai ele não pode sentir agora por si mesmo, 
 
 A estrutura de The Grand Seduction nos faz lembrar de um filme ou outro com tema parecido: a cidadezinha inteira que engana o forasteiro ou o povo da cidade. Aqui a comédia esconde um drama, e portanto tem coração. Isso faz com que o projeto não afunde, mesmo que os atores secundários não ajudem muito.
 
-A surpresa é o ator que faz o médico, que se assume como o jovem cirurgião plástico perdido na profissão e na vida. Ele e sua noiva não parecem bem (óbvio) e ele muito aos poucos começa a questionar sua vida.
+A surpresa é o ator que faz o médico, que se assume como o jovem cirurgião plástico perdido na profissão e na vida. Ele e sua noiva não estão bem (óbvio) e ele muito aos poucos começa a questionar sua vida.
 
 Mas tudo é muito artificial, e não há nenhum desafio ou risco na história. Apenas a descoberta de cada novo infalível passo do novo prefeito do pequeno porto de Tickle Head (cócegas na cabeça?). Há alguns momentos pseudo-emocionantes no final, mas nem por isso você deveria assisti-lo. É mais um processo de entretenimento com pequenos pensamentos esparsos que logo lhe farão esquecer que você assistiu esse filme.

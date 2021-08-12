@@ -5,7 +5,6 @@ date: '2017-08-06'
 link: https://www.imdb.com/title/tt4685554
 tags:
 - cinemaqui
-- draft
 - movies
 title: 'O Reino Gelado: Fogo e Gelo'
 ---
@@ -16,7 +15,7 @@ Aqui a história continua a partir dos dois irmãos que depois de derrotar a Rai
 
 O Reino Gelado é uma espécie de reimaginação de vários trabalhos que lidam com reinos, mistérios e magia. Muitos irão se lembrar de Frozen: Uma Aventura Congelante, pois é inevitável. Aqui fogo e gelo se tornam forças sobrenaturais que se unem para destruir os trolls e os outros habitantes daquela região.
 
-A dublagem brasileira deixa a desejar pela artificialidade das falas, mas ao menos não há muitos regionalismos, algo cada vez mais comum nas grandes produções. Já o uso de efeitos rebuscados em exaustão entretém um pouco, pois há belos momentos no filme, mas a falta de uma narrativa que acompanhe nossa imaginação sempre parece colocar a experiência abaixo do que poderia ser.
+A dublagem brasileira deixa a desejar pela artificialidade das falas, mas ao menos não há muitos regionalismos, algo cada vez mais comum nas grandes produções. Já o uso de efeitos rebuscados em exaustão entretém um pouco, pois há belos momentos no filme, mas a falta de uma narrativa que acompanhe nossa imaginação sempre coloca a experiência abaixo do que poderia ser.
 
 A trilha sonora do italiano Fabrizio Mancinelli é um exagero. A música faz questão de acompanhar todas as cenas, e pontuar cada pedacinho da ação, seja drama ou comédia. Mas o mais irritante é a comédia. Baseando-se nos toques clichês de cada momento, a música chega a incomodar mais do que as falhas de roteiro, pois tenta nos convencer de que as cenas são muito mais do que é mostrado.
 
