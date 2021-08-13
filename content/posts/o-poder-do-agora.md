@@ -1,10 +1,10 @@
 ---
 categories:
-- reviews
+- blog
 date: '2015-06-29'
 tags:
-- draft
 - books
+- draft
 title: O Poder do Agora
 ---
 
@@ -20,19 +20,19 @@ Para Tolle a mente é uma doença individual e coletiva. Ao enxergarmos o presen
 > Sem tempo, sem problema.
 > O fazer é igual ao acontecer.
 
-O primeiro exercício que ele pede que se faça é "observar o pensador", essa voz que todos temos dos nossos pensamentos. Observando aprendemos a nos desapegar e a enxergar que não somos essa voz, mas algo diferente. Ao criar um espaço nesse fluxo contínuo da mente, conseguimos direcionar o foco de nossa atenção para o Agora, e por consequência tornando-nos conscientes do momento. Algo, segundo Tolle, "profundamente gratificante de se fazer". A essência da tão ambicionada meditação de hoje em dia, segundo ele, é apenas criar esse espaço de mente vazia, ficando assim extremamente alerta e conscientes (mas sem pensar, alerta).
+O primeiro exercício que ele pede que se faça é "observar o pensador", essa voz que todos temos dos nossos pensamentos. Observando aprendemos a nos desapegar e a enxergar que não somos essa voz, mas algo diferente. Ao criar um espaço nesse fluxo contínuo da mente, conseguimos direcionar o foco de nossa atenção para o Agora, e por consequência tornando-nos conscientes do momento. Algo, segundo Tolle, "profundamente gratificante de se fazer". A essência da tão ambicionada meditação de hoje em dia, segundo ele, é apenas criar esse espaço de mente vazia, ficando assim extremamente alerta e consciente.
 
-A partir daí, não existem problemas, apenas situações no momento, que podem ser gerenciadas facilmente, pois agora não são apenas projeções mentais de um tempo e espaço inatingíveis: estão bem na nossa frente. E mesmo assim, a situação existe no tempo, enquanto a nossa vida é agora. Enquanto a situação de vida continua sendo uma coisa da mente, a nossa vida é algo mais: é real.
+A partir desse estado de extrema consciência no presente não existem problemas, apenas situações no momento, que podem ser gerenciadas facilmente, pois agora não são apenas projeções mentais de um tempo e espaço inatingíveis: estão bem na nossa frente. E mesmo assim, a situação existe no tempo, enquanto a nossa vida é agora. Enquanto a situação de vida continua sendo uma coisa da mente, a nossa vida é muito mais: é real.
 
-# Recortes: Leitura de 2021-05
+# Recortes: Leitura de 2021-05 a 2021-08
 
 ## capítulo um: Você Não é Sua Mente
 
 > O pensador compulsivo – ou seja, quase todas as pessoas – vive em um estado de aparente isolamento, em um mundo povoado de conflitos e problemas.
 
-> Se for usada corretamente, a mente é um instrumento magnífico. Entretanto, quando a usamos de forma errada, ela se torna destrutiva. Para ser ainda mais preciso, não é você que usa a sua mente de forma errada. Em geral, você simplesmente não usa a mente. É ela que usa você. Essa é a doença. Você acredita que é a sua mente. Eis aí o delírio. O instrumento se apossou de você.
+> Se for usada corretamente a mente é um instrumento magnífico. Entretanto, quando a usamos de forma errada ela se torna destrutiva. Para ser ainda mais preciso: não é você que usa a sua mente de forma errada. Em geral, você simplesmente não usa a mente. É ela que usa você. Essa é a doença. Você acredita que é a sua mente. Eis aí o delírio. O instrumento se apossou de você.
 
-> Mesmo que tenha alguma relação com o momento, a voz será interpretada em termos do passado. Isso acontece porque a voz pertence à mente condicionada, que é o resultado de toda a nossa história passada, bem como dos valores culturais coletivos que herdamos. Assim, vemos e julgamos o presente com os olhos do passado e construímos uma imagem totalmente distorcida.
+> Mesmo que tenha alguma relação com o momento, a voz (interior) será interpretada em termos do passado. Isso acontece porque a voz pertence à mente condicionada, que é o resultado de toda a nossa história passada, bem como dos valores culturais coletivos que herdamos. Assim, vemos e julgamos o presente com os olhos do passado e construímos uma imagem totalmente distorcida.
 
 > Um dia você pode se surpreender sorrindo para a voz dentro da sua cabeça, como sorriria para as travessuras de uma criança. Isso significa que você não está mais levando tão a sério o que vai pela mente, pois o seu eu interior não depende dela.
 
@@ -291,3 +291,35 @@ A partir daí, não existem problemas, apenas situações no momento, que podem 
 > Somente aqueles que transcenderam o mundo conseguem criar um mundo melhor.
 
 > Nesse nível profundo, a compaixão se torna um remédio no sentido mais amplo. Nesse estado, a sua influência curativa se baseia não no fazer, mas no ser. Todas as pessoas com quem você mantiver contato serão tocadas pela sua presença e afetadas pela paz que você emana, quer elas estejam ou não conscientes disso. Quando estiver inteiramente presente e as pessoas à sua volta tiverem um comportamento inconsciente, você não vai sentir necessidade de reagir. A sua paz será tão grande e profunda que tudo que não for paz desaparecerá nela, como se nunca tivesse existido. Isso quebra o ciclo cármico de ação e reação. Os animais, as árvores, as flores vão sentir a sua paz e reagir a ela. Você ensinará através do ser, através da demonstração da paz de Deus. Você passará a ser a “luz do mundo”, uma emanação da pura consciência, e assim eliminará a causa do sofrimento. Você eliminará a inconsciência do mundo.
+
+## capítulo dez: O Significado da Entrega
+
+> Você está andando por uma estrada à noite, com uma neblina cerrada, mas possui uma lanterna potente que corta a neblina e cria um espaço estreito e nítido na sua frente. A neblina é a sua situação de vida, que inclui o passado e o futuro. A lanterna é a sua presença consciente, e o espaço nítido é o Agora.
+
+> Não se entregar endurece a forma psicológica, a casca do ego, e assim cria uma forte sensação de separação. O mundo e as pessoas à sua volta passam a ser vistos como ameaças. Surge uma compulsão inconsciente para destruir os outros através do julgamento e uma necessidade de competir e dominar.
+
+> A qualidade da sua consciência neste momento é que vai determinar o tipo de futuro que você vai viver. Portanto, entregar-se é a coisa mais importante que você pode fazer para provocar uma mudança positiva.
+
+> Olhe para uma situação específica e pergunte-se: “Existe alguma coisa que eu possa fazer para mudar essa situação, melhorá-la ou me retirar dela?” Se houver, você toma a atitude adequada. Não se prenda às mil coisas que você vai ter que fazer em algum tempo futuro, mas à única coisa que você pode fazer agora.
+
+> Seus relacionamentos vão mudar profundamente através da entrega. Se você nunca consegue aceitar o que é, consequentemente não é capaz de aceitar qualquer pessoa do jeito que ela é. Você está sempre julgando, criticando, rotulando, rejeitando ou tentando mudar as pessoas.
+
+> Não resistência não significa necessariamente não fazer nada. Significa que qualquer “fazer” se torna não reação.
+
+> No taoísmo, existe a expressão wu wei, que é comumente traduzida por “atividade sem ação” ou “sentar-se silenciosamente sem fazer nada”. Na antiga China, isso era considerado como uma das mais elevadas conquistas ou virtudes. É radicalmente diferente da inatividade, no estado comum da consciência, ou melhor, da inconsciência, que tem raízes no medo, na indolência ou na indecisão. O verdadeiro “fazer nada” implica uma não resistência interior e um intenso estado de alerta.
+
+> Ao se concentrar neste instante e evitar rotular a doença mentalmente, ela se reduz a um dos seguintes fatores: sofrimento físico, fraqueza, desconforto ou invalidez. É a isso que você se entrega, agora. Você não se entrega à ideia de “doença”.
+
+> A entrega não transforma aquilo que é, ao menos não diretamente. A entrega transforma você. Quando você estiver transformado, todo o seu mundo estará transformado, porque o mundo é somente um reflexo.
+
+> A entrega não transforma aquilo que é, ao menos não diretamente. A entrega transforma você. Quando você estiver transformado, todo o seu mundo estará transformado, porque o mundo é somente um reflexo. Se você se olha no espelho e não gosta do que vê, tem que ter enlouquecido para agredir a imagem no espelho.
+
+> Torne-se um alquimista. Transforme o metal em ouro, o sofrimento em consciência, a infelicidade em iluminação.
+
+> A iluminação através do sofrimento, o caminho da cruz, significa ser levado para o reino dos céus esperneando e gritando. Você finalmente se entrega porque já não suporta mais sofrer. A iluminação escolhida conscientemente significa abandonar nossos apegos ao passado e ao futuro e fazer do Agora o ponto principal da nossa vida.
+
+> A escolha começa no instante em que nos desidentificamos da mente e de seus padrões condicionados, o instante em que nos tornamos presentes. Até alcançar esse ponto, você está inconsciente, espiritualmente falando. Isso significa que você foi obrigado a pensar, sentir e agir de determinadas maneiras, de acordo com o condicionamento da sua mente. É por isso que Jesus disse: “Perdoai-os, porque eles não sabem o que fazem.”
+
+> A mente, condicionada como é pelo passado, sempre busca recriar aquilo que conhece e com o que está familiarizada. Mesmo que seja doloroso, ao menos é familiar. A mente sempre se apega ao que lhe é familiar. O desconhecido é perigoso porque ela não tem controle sobre ele. É por isso que a mente não gosta do momento presente e prefere ignorá-lo.
+
+> Sempre parece que as pessoas fizeram uma escolha, mas isso é ilusão. Enquanto a sua mente, com os seus padrões de condicionamento, dirigir a sua vida, enquanto você for a sua mente, que escolhas você tem? Nenhuma. Você não está nem ligando. O estado identificado com a mente é altamente defeituoso. É uma forma de insanidade. Quase todas as pessoas estão sofrendo dessa doença em vários graus. No momento em que você perceber isso, não haverá mais ressentimento. Como você pode se ressentir da doença de alguém? A única resposta adequada é compaixão.
