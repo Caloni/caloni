@@ -4,7 +4,6 @@ categories:
 date: '2017-08-14'
 link: https://www.imdb.com/title/tt6048930
 tags:
-- draft
 - movies
 title: Naked
 ---
