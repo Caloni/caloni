@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2008-10-05'
 tags:
-- draft
 title: O que acontece com um programador com pressa
 ---
 
