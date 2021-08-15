@@ -2,9 +2,7 @@
 categories:
 - blog
 date: 2018-09-28 19:43:04-03:00
-desc: Evento de programação 'baixo nível' realizado em Florianópolis - Segunda Edição.
 tags:
-- draft
 title: Native Floripa 2018
 ---
 
@@ -30,12 +28,10 @@ Outra palestra que me lembro com muita empolgação é a sobre WebAssenbly. Não
 
 Por fim, as conversas entre os palestrantes e os participantes foi muito frutífera. Assim como nosso grupo do Telegram, importa menos o tema do que as pessoas envolvidas. E todos concordam que não há nada melhor no mundo que conversar com pessoas inteligentes e beber chopes do Sul. E lá na Acate há a melhor praça de alimentação que já vi na vida. Comida e bebida (chopes e vinhos por taça) boa e barata. Há massas e carnes de muita qualidade. O Madero do lado, que já não é nada de mais, ficou ainda menor.
 
-```
-O chope Putz IPA têm lúpulos cheirosos e corpo leve, pouco alcoólico e bem agradável gelado. Ou seja, nem parece IPA.
-Coruja Pilsen é uma... pilsen? Bom, tem um salgadinho próximo de uma witbier prestes a ser esquecida.
-O chope da Strappa Gingerberry é um chá preto fermentado com gengibre e gradação alcoólica ridícula de 0.6%. Ele é ainda frutado (possui morango) e deixa a garganta quentinha. Ótima opção entre bebidas mais fortes. Dá uma pausa etílica e estilosa na balada.
-Kairós Sol Poente é uma West Coast IPA de respeito. Equilibrada de corpo leve, seu chope é aromático e um pouco salgado com amargor presente sem exageros.
-```
+> O chope Putz IPA têm lúpulos cheirosos e corpo leve, pouco alcoólico e bem agradável gelado. Ou seja, nem parece IPA.
+> Coruja Pilsen é uma... pilsen? Bom, tem um salgadinho próximo de uma witbier prestes a ser esquecida.
+> O chope da Strappa Gingerberry é um chá preto fermentado com gengibre e gradação alcoólica ridícula de 0.6%. Ele é ainda frutado (possui morango) e deixa a garganta quentinha. Ótima opção entre bebidas mais fortes. Dá uma pausa etílica e estilosa na balada.
+> Kairós Sol Poente é uma West Coast IPA de respeito. Equilibrada de corpo leve, seu chope é aromático e um pouco salgado com amargor presente sem exageros.
 
 Ficamos hospedados em uma casa na Barra da Lagoa pelo AirBnB em alta concentração de temas filosóficos. Fizemos um churrasco imprestável, fomos em restaurantes medíocres da orla, mas a conversa foi sempre interessante. Era como se o grupo de filosofia do Telegram tivesse se mudado temporariamente para lá. Temas como metafísica, política, social justice, auto ajuda e imprint de traumas eram frequentes. A paisagem belíssima, a casa aconchegante e a companhia agradável.
 

@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
+- code
 date: '2017-02-20'
 tags:
-- draft
 title: Visualizando QString no Visual Studio
 ---
 
@@ -11,13 +10,13 @@ O Qt não é um framework que pode apenas ser usado no QtCreator. Através de um
 
 O Visual Studio utiliza um mecanismo que lembra os comandos bizarros que se usa no WinDbg, mexendo com registradores e tal. Através dessa combinação é possível dizer para o depurador como interpretar determinados tipos de objetos. Ele já vem obviamente pronto para std::string, CString (ATL) e deveria vir com QString, de tão famosa que é. Mas a versão do Visual Studio 2015 não vem. O jeito então é editar diretamente o arquivo onde ficam esses padrões.
 
-```ini
+```
 ; AutoExp.Dat - templates for automatically expanding data
 ```
 
 O nome do arquivo é __autoexp.dat__ e ele fica em uma pasta no estilo Program Files, Microsoft Visual Studio, Common7, Packages, Debugger. É melhor você retirar ele dessa pasta antes de sobrescrevê-lo para não ter erro de acesso. Ao abri-lo verá que no começo há vários comentários que explicam como é o funcionamento desse padrão.
 
-```ini
+```
 ; type=[text]<member[,format]>...
 ;
 ; type		Name of the type (may be followed by <*> for template
@@ -51,7 +50,7 @@ O nome do arquivo é __autoexp.dat__ e ele fica em uma pasta no estilo Program F
 
 Felizmente (e também obviamente) o pessoal do Qt já fez [uma entrada na wiki](https://wiki.qt.io/IDE_Debug_Helpers) que explica como fazer para interpretar corretamente uma QString. Eles mesmos admitem que a coisa ficou difícil desde a última versão (Qt 5), mas ainda assim é possível. E, se tudo falhar, ainda é possível usar a janela de Watch:
 
-```txt
+```
 (char*)str.d + str.d->offset,su
 ```
 

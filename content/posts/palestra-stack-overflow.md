@@ -2,8 +2,8 @@
 categories:
 - code
 date: '2016-06-04'
+link: http://www.slideshare.net/slideshow/embedcode/key/qRb4TSKjnf8Wx
 tags:
-- draft
 title: 'Palestra: Stack Overflow'
 ---
 
@@ -17,11 +17,7 @@ Meu público era muito, muito jovem, e foquei erroneamente em conceitos muito, m
 
 O conteúdo e a palestra está no GitHub e a palestra em si pode ser vista logo abaixo; a apresentação do conteúdo está mais abaixo, e peço desculpas por não ter tido tempo de apresentar todo ele (mesmo com quase duas horas):
 
-http://www.slideshare.net/slideshow/embedcode/key/qRb4TSKjnf8Wx
-
-PS: Ah, esqueci. Também fiz um vídeo para complementar o conteúdo da palestra. Segue:
-
-https://www.youtube.com/embed/kSKQQDTBRXQ?list=PLa0QVTprDkHBz6fjuzy4kU1iTLUnRWkeW
+Também fiz um [vídeo](https://www.youtube.com/embed/kSKQQDTBRXQ?list=PLa0QVTprDkHBz6fjuzy4kU1iTLUnRWkeW) para complementar o conteúdo da palestra.
 
 Um StackOverflow é definido pela escrita em uma região não autorizada de memória. Stack overflow, overrun, etc, não interessando a nomenclatura "oficial", o importante aqui é como um bug de acesso à memória pode permitir acesso exclusivo a regiões de memória que não estariam disponíveis para um atacante se não fosse por esse bug.
 

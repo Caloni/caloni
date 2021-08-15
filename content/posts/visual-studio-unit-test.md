@@ -1,10 +1,8 @@
 ---
 categories:
-- blog
+- code
 date: 2019-05-06 22:23:40-03:00
-desc: Como funciona a interface entre unit tests em C++ e o Visual Studio?
 tags:
-- draft
 title: Visual Studio Unit Test (C++)
 ---
 
@@ -20,7 +18,7 @@ Pelo Wizard do VS podemos criar para um projeto C++ qualquer um projeto de teste
 
 Este é nosso projeto de exemplo:
 
-```c++
+```
 #include "CalculatorTabajara.h"
 
 int soma(int x, int y)
@@ -54,7 +52,7 @@ Para conseguir testar o projeto principal adicione-o como referência.
 
 Após isso basta incluir algum header que contenha os tipos, funções, classes e métodos que deseja testar e vá criando métodos de teste dentro da classe de exemplo:
 
-```c++
+```
 #include "pch.h"
 #include "CppUnitTest.h"
 #include "..\CalculatorTabajara.h"
@@ -118,7 +116,7 @@ E se você prestar atenção na ordem de exportação desse símbolos verá que 
 
 Os headers e fontes do CppUnitTest ficam em paths do Visual Studio como VC\Auxiliary\VS\UnitTest, nas pastas include e lib. Nele é possível dar uma olhada no significado das macros e das classes disponibilizadas. Logo abaixo das macros, no arquivo principal, é possível ver como funciona o reflection:
 
-```c++
+```
 namespace Microsoft{ namespace VisualStudio {namespace CppUnitTestFramework
 {
 

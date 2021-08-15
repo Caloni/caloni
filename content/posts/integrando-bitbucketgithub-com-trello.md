@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
+- code
 date: '2014-07-22'
 tags:
-- draft
 title: Integrando BitBucket/GitHub com Trello
 ---
 
@@ -29,7 +28,7 @@ Depois disso, mesmo nessa página já é possível conseguir uma chave de acesso
 
 Por fim, para fazer o código que irá comentar dentro de um card no Trello, basta usar dois ou três métodos que lidam com enviar coisas pela web (não me pergunte mais que isso):
 
-```php
+```
 <?php
 
 $url = 'https://trello.com/1/cards/ID_DO_CARD/actions/comments';
@@ -78,7 +77,7 @@ Lembre-se de colocar seu código PHP em um servidor visível na web. Lembre-se t
 
 Pois bem. No código que irá receber o payload do GitHub precisamos de duas coisas: saber qual [a estrutura que vai ser recebida](https://developer.github.com/webhooks/) e _como localizar o id do card onde iremos enviar a informação_. Nesse caso, mais uma vez, para simplificar, vamos procurar pelo próprio linque permanente do cartão na mensagem do commit. Aliás, doS commitS (sendo um push, é provável que o evento seja gerado com diversos commits aninhados).
 
-```php
+```
 <?php
 
 $pushData = json_decode($_POST['payload']);
@@ -130,7 +129,7 @@ E o negócio é rápido, viu?
 
 A única coisa que muda no caso do [BitBucket](www.bitbucket.org) é a tela onde deve ser inserido seu webhook (método POST, sempre) e a estrutura JSon que é enviada. De lambuja, eis o que deve ser feito com esse payload:
 
-```php
+```
 <?php
 
 $bitData = json_decode($_POST["payload"]);

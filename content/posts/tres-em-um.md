@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
+- code
 date: '2010-10-09'
 tags:
-- draft
 title: Três em um
 ---
 
@@ -13,18 +12,16 @@ Na verdade, não fiz tanto, mesmo. Muitas mensagens do Outlook, gráficos UML e 
 
 Definir que estamos programando para XP ou superior:
 
-    
     #define _WIN32_WINNT 0x0600
 
 Inserir suporte a linques na biblioteca de controles comuns:
 
-    
     INITCOMMONCONTROLSEX icc = { sizeof(icc), ICC_LINK_CLASS }; 
     InitCommonControlsEx(&icc);
 
 Usar o CreateWindow com a classe certa, fazer markup html dentro do título e cuidar das mensagens de <click> e <enter> no controle:
 
-```cpp
+```
 CreateWindowEx(0, WC_LINK, 
 	L"<a href=\"http://www.caloni.com.br\">This site rocks!</a>", 
 	WS_VISIBLE | WS_CHILD | WS_TABSTOP, ...);
@@ -57,7 +54,6 @@ Você que não está fazendo subclassing de janelas existe outra técnica que vo
 
 A partir do Vista temos uma nova API para fazer isso. E é muito simples:
 
-    
     BOOL WINAPI ShutdownBlockReasonCreate( 
       __in  HWND hWnd, 
       __in  LPCWSTR pwszReason 
@@ -69,4 +65,4 @@ A partir do Vista temos uma nova API para fazer isso. E é muito simples:
 
 Quando ao receber a famigerada WM_QUERYENDSESSION, basta retornar FALSE. O Windows faz o resto.
 
-_PS: E com uma ajudinha do Windows Internals ainda fiquei sabendo que dá pra [se colocar na frente da fila](http://msdn.microsoft.com/en-us/library/ms686227%28VS.85%29.aspx) para receber essa mensagem. _
+PS: E com uma ajudinha do Windows Internals ainda fiquei sabendo que dá pra [se colocar na frente da fila](http://msdn.microsoft.com/en-us/library/ms686227%28VS.85%29.aspx) para receber essa mensagem. 

@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
+- code
 date: '2014-01-21'
 tags:
-- draft
 title: remove_if até remove, só que diferente
 ---
 
@@ -11,7 +10,7 @@ A surpresa de hoje foi descobrir (vejam só) que o remove_if, como todo algoritm
 
 Imagine uma função que usa remove_if para remover todas as idades de potenciais lolitas:
 
-```cpp
+```
 void RemoveIfLolita(vector<int>& ages)
 {
 	remove_if(ages.begin(), ages.end(), [&](int age) { return age < 18; } );
@@ -20,7 +19,7 @@ void RemoveIfLolita(vector<int>& ages)
 
 Ou até sua contraparte usando um array C:
 
-```cpp
+```
 void RemoveIfLolita(int* ages, int size)
 {
 	remove_if(ages, ages + size, [&](int age) { return age < 18; } );
@@ -29,7 +28,7 @@ void RemoveIfLolita(int* ages, int size)
 
 Um uso trivial pode não cuspir um resultado trivial, ou seja, os elementos não serão removidos como se espera:
 
-```cpp
+```
 #include <algorithm>
 #include <iostream>
 #include <vector>
@@ -83,7 +82,7 @@ Isso ocorre porque o comportamento do remove_if é copiar todos os elementos que
 
 De acordo com [o saite cplusplus.com](http://www.cplusplus.com/reference/algorithm/remove_if/), o algoritmo STL é previsível, simples, e por isso mesmo sujeito a otimizações do compilador:
 
-```cpp
+```
 template <class ForwardIterator, class UnaryPredicate>
 ForwardIterator remove_if (ForwardIterator first, ForwardIterator last,
 	UnaryPredicate pred)
@@ -103,7 +102,7 @@ ForwardIterator remove_if (ForwardIterator first, ForwardIterator last,
 
 Para obtermos qual seria o "novo end()", precisamos obter esse valor do retorno de remove_if. Com base nisso, podemos alterar o tamanho do contêiner ajustado:
 
-```cpp
+```
 #include <algorithm>
 #include <iostream>
 #include <vector>

@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
+- code
 date: '2014-08-01'
 tags:
-- draft
 title: O novo 'como não dar step into' do Visual Studio 2012/13
 ---
 
@@ -11,7 +10,7 @@ Toda vez que instalo um Visual Studio novo e começo a depurar sempre surge a ne
 
 Nas edições antigas da IDE (até o 2010) existia uma configuração no registro para isso. Desde o Visual Studio 2012 isso mudou, e agora existe um arquivo em _%programfiles(x86)%\Microsoft Visual Studio 11(ou12).0\Common7\Packages\Debugger\Visualizers_ chamado default.natstepfilter (gostei do detalhe do "nat": "nat thou step into, little bestard!"). Ele é um XML que já vem preenchido com algumas opções interessante:
 
-```xml
+```
 <?xml version="1.0" encoding="utf-8"?>
 <StepFilter xmlns="http://schemas.microsoft.com/vstudio/debugger/natstepfilter/2010">
   <Function><Name>__security_check_cookie</Name><Action>NoStepInto</Action></Function>
@@ -36,7 +35,7 @@ Nas edições antigas da IDE (até o 2010) existia uma configuração no registr
 
 Podemos simplesmente adicionar mais duas opções para o parzinho STL/Boost:
 
-```xml
+```
 <?xml version="1.0" encoding="utf-8"?>
 <StepFilter xmlns="http://schemas.microsoft.com/vstudio/debugger/natstepfilter/2010">
 
@@ -53,4 +52,4 @@ A boa nova, pelo menos para o Visual Studio 2013, é que agora é possível, se 
 
 Eu não sei qual vai ser a próxima novidade do step into, mas para mim, já está bem ótimo.
 
-_(Fonte da informação: [Andy Pennell's Blog](http://blogs.msdn.com/b/andypennell/archive/2004/02/06/69004.aspx))._
+Fonte: [Andy Pennell's Blog](http://blogs.msdn.com/b/andypennell/archive/2004/02/06/69004.aspx)

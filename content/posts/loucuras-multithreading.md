@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2011-03-18'
 tags:
-- draft
 title: Loucuras multithreading
 ---
 

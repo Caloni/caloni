@@ -3,11 +3,10 @@ categories:
 - blog
 date: '2009-12-30'
 tags:
-- draft
 title: Devaneio nerd rápido sobre profecias
 ---
 
-![crystallball.jpg](http://i.imgur.com/fEtiA9w.jpg)Para quem já analisou os dados de uma tela azul sabe que, quando o Windows acha um culpado (vulgo driver) a data de sua compilação é exibida em um formato conhecido como **DateStamp** ou **TimeStamp**. Nesse formato o que temos é um número hexadecimal que segue o [formato de tempo do Unix](http://en.wikipedia.org/wiki/Unix_timestamp), que no caso é o número de segundos desde o dia primeiro de Janeiro de 1970. Isso, por curiosidade, nos dá uma margem de 140 anos antes dos número se repetirem se usarmos 32 bits nessa contagem.
+Para quem já analisou os dados de uma tela azul sabe que, quando o Windows acha um culpado (vulgo driver) a data de sua compilação é exibida em um formato conhecido como **DateStamp** ou **TimeStamp**. Nesse formato o que temos é um número hexadecimal que segue o [formato de tempo do Unix](http://en.wikipedia.org/wiki/Unix_timestamp), que no caso é o número de segundos desde o dia primeiro de Janeiro de 1970. Isso, por curiosidade, nos dá uma margem de 140 anos antes dos número se repetirem se usarmos 32 bits nessa contagem.
 
 O comando .formats do WinDbg nos consegue trazer desse número a hora exata em que determinado componente foi compilado. Se, por exemplo, um driver faltoso apresentou um DateStamp igual a 49EE9758, podemos concluir que ele foi compilado no dia 22 de abril de 2009, uma linda quarta-feira.
 

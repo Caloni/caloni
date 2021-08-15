@@ -3,7 +3,6 @@ categories:
 - code
 date: '2010-08-08'
 tags:
-- draft
 title: Não é minha culpa
 ---
 

@@ -3,7 +3,6 @@ categories:
 - code
 date: '2009-01-30'
 tags:
-- draft
 title: As funções-polegar
 ---
 
@@ -26,13 +25,8 @@ Por exemplo, chamamos a função ReadFile para ler um arquivo. Ela retorna FALSE
 
 Em funções nessas condições, geralmente existe uma segunda função (ou variável) que retorna o último erro que ocorreu na API, ou seja, o erro que fez com que última função chamada retornasse que algo não deu certo. Nas funções de exemplo, são usados três métodos distintos, pois estamos falando de três APIs distintas:
 
-	
   * Variável errno
-
-	
   * Função WSAGetLastError.aspx)
-
-	
   * Função GetLastError.aspx)
 
 São esses métodos que realmente retornam o porquê da função ter dado errado. E é elas que devemos chamar, eu disse devemos chamar, sempre que a função der errado. Até porque, já que o polegar está virado para baixo, temos que fazer alguma coisa para que nosso programa não morra.

@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2010-12-27'
 tags:
-- draft
 title: Trabalhando em múltiplos ambientes
 ---
 
@@ -11,7 +10,6 @@ Existem diversas maneiras de se trabalhar com o Bazaar. Eu já [havia definido](
 
 Nos casos em que eu trabalho em casa (ou em outro ambiente), posso fazer basicamente a mesma coisa, só que meu branch paralelo é copiado para outra máquina:
 
-    
     C:\>cd \Src\projeto-principal
     
     C:\Src\projeto-principal>bzr get . ..\projeto-principal.TravamentoServico.MeuNotePessoal
@@ -19,7 +17,6 @@ Nos casos em que eu trabalho em casa (ou em outro ambiente), posso fazer basicam
 
 Geralmente o que faço depois é compactar a pasta gerada (se desejar, use uma senha forte nesse passo), fazer uma cópia para um PenDrive e descompactar na máquina que irei trabalhar.
 
-    
     C:\Src\projeto-principal.TravamentoServico>hack hack hack
     
     C:\Src\projeto-principal.TravamentoServico>bzr ci -m "Uma mudancinha inicial"

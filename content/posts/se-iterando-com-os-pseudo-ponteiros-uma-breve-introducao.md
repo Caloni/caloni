@@ -3,7 +3,6 @@ categories:
 - code
 date: '2014-06-24'
 tags:
-- draft
 title: 'Se iterando com os pseudo-ponteiros: uma breve introdução'
 ---
 
@@ -31,7 +30,7 @@ Tudo que um ponteiro faz de útil em C/C++ foi emprestado para a STL usar em seu
 
   * Dois ponteiros podem ser subtraídos para sabermos a distância entre dois elementos.
 
-```cpp
+```
 
 template<typename T>
 T VaiSomandoVaiSomando(T begin, T end)

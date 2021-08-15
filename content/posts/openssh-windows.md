@@ -2,9 +2,7 @@
 categories:
 - blog
 date: 2019-04-29 20:03:18-03:00
-desc: Como instalar com sucesso a versão OpenSSH da Microsoft.
 tags:
-- draft
 title: OpenSSH no Windows
 ---
 

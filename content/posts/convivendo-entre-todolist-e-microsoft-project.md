@@ -3,7 +3,6 @@ categories:
 - code
 date: '2010-03-15'
 tags:
-- draft
 title: Convivendo entre TodoList e Microsoft Project
 ---
 
@@ -11,7 +10,7 @@ O próximo artigo sobre escovação de bits ainda está no forno. Tirar férias 
 
 As razões de eu usar o TodoList são meio óbvias: ele faz tudo que eu preciso para organizar minhas tarefas do dia-a-dia e é portátil. Enquanto isso, o Project, além de não ser portátil (eu preciso levar comigo o instalador de 200 MB? E Instalar?) possui um formato difícil de mudar, já que foi feito para projetar o mundo e não para ser compartilhado facilmente.
 
-Mas vamos lá. Tudo que precisamos é de uma edição atual do TodoList e do Microsoft Project. A primeira coisa que devemos fazer é exportar as tarefas que queremos do TodoList para um CSV padrão, usando as colunas que gostaríamos de importar para o Project:
+Mas vamos lá. Tudo que precisamos é de uma edição atual do TodoList e do Microsoft Project. A primeira coisa que devemos fazer é exportar as tarefas que queremos do TodoList para um CSV padrão, usando as colunas que gostaríamos de importar para o Project.
 
 Depois vem a parte complicada, mas nem tanto. Abrimos o projeto para onde queremos importar essas tarefas e escolhemos a opção Abrir novamente, só que dessa vez selecionando o nosso amigo tarefas-exportadas.CSV.
 

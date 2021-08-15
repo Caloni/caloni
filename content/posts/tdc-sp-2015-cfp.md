@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2015-06-11'
 tags:
-- draft
 title: TDC SP 2015 (Call for Papers)
 ---
 

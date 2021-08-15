@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2014-08-11'
 tags:
-- draft
 title: 'TDC2014: Trilhas de Segurança: o que é ser hacker?'
 ---
 
@@ -14,7 +13,5 @@ Mais para a frente, o conceito/definição de hackativismo foi virando algo cada
 Mesmo se focarmos apenas em computadores, engenharia reversa (de hardware e software), gambiarras de hardware e software conseguem fazer muito mais pela evolução tecnológica do que esse jogo de gato e rato de vulnerabilidades e ferramentas mágicas.
 
 Porém, é necessária a existência de pessoas interessadas em atacar para que se crie a necessidade de se proteger. Dessa forma é que foram criados os X-Headers explicados por William Costa, os sistema de geração de números verdadeiramente aleatórios para se proteger de trapaceiros em um jogo de pôquer (minha palestra). Foi com o mesmo raciocínio que hoje existem valiosos insights sobre arquiteturas mais robustas discutidas por Rafael Lachi. É tendo curiosidade que encontramos falhas graves nos aplicativos mobile de hoje, como foi demonstrado tanto por Rafael Tosetto Pimentel quanto por Ivan Jeukens. E, não podemos nos esquecer, é essa nova geração do Antonio Costa que procura por brechas ridículas no login de diversos saites, forçando o mercado a se ajustar às melhores práticas.
-
-Como Não Desenvolver Pôquer Online ou Como Explorar a Pseudo-Aleatoriedade from Wanderley Caloni
 
 De uma forma ou de outra, segurança deve se tornar um pensamento constante na vida dos programadores, ainda mais web e mobile. Essa não é uma tendência, essa deveria ser uma necessidade básica do dia-a-dia.

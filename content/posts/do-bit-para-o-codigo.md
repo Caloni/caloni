@@ -3,7 +3,6 @@ categories:
 - code
 date: '2019-09-03'
 tags:
-- draft
 title: Do Bit para o Código
 ---
 

@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2015-07-13'
 tags:
-- draft
 title: TDC 2015 No More
 ---
 

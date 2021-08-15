@@ -1,15 +1,14 @@
 ---
 categories:
-- blog
+- code
 date: 2017-12-17 22:11:40-02:00
 tags:
-- draft
 title: Se você não precisa de classe você não precisa de classe
 ---
 
 Nos últimos dias me deparei com o seguinte (pseudo-)código:
 
-```c++
+```
 int main(int argc, const char **argv)
 {
     MyClass obj;
@@ -32,7 +31,7 @@ int main(int argc, const char **argv)
 
 Dentro de MyClass a seguinte estrutura:
 
-```c++
+```
 class MyClass
 {
 public:
@@ -59,7 +58,7 @@ Ter classe é para poucos. É para programadores que se preocupam com a relaçã
 
 Uma pequena sugestão:
 
-```c++
+```
 #include <map>
 
 int main(int argc, const char **argv)

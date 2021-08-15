@@ -3,13 +3,12 @@ categories:
 - code
 date: '2014-06-03'
 tags:
-- draft
 title: SS
 ---
 
 Uma das coisas mais cretinas e difíceis para os iniciantes em C++ é conseguir formatar strings de maneira fácil, rápida e indolor. Infelizmente, a biblioteca de printf da linguagem C está fechada para reforma, pois ela é extremamente error-prone e não-intuitiva. Porém, se a printf é não-intuitiva, o que dizer < < daqueles << sinais << de << flechinhas apontando para cout? Bem melhor, não?
 
-```cpp
+```
 #include <iostream>
 
 int main()
@@ -29,7 +28,7 @@ A resposta é, pra variar, depende. Se você combinar com seu cérebro que o ope
 
 Porém, isso depende da maneira com que você usa streams C++. Vai haver momentos de sua vida que você vai se questionar por que tiraram todo o controle, a elegância e simplicidade de um bom printf, quando os [homens eram homens](http://www.caloni.com.br/programadores-de-verdade-nao-usam-java) e sabiam configurar jumpers para instalar a nova placa EISA.
 
-```cpp
+```
 #include <iostream>
 #include <stdlib.h>
 
@@ -48,7 +47,7 @@ int main()
 
 A questão dos streams fica mais complicada quando precisamos realizar atividades corriqueiras no código, como retornar uma string formatada, ou até mesmo transformar um inteiro em string.
 
-```cpp
+```
 #include <iostream>
 #include <string>
 #include <sstream> // digam oi para nosso novo amiguinho!
@@ -73,7 +72,7 @@ Quando uma tarefa muito comum exige mais de dois passos para ser realizada é de
 
 ## SS
 
-```cpp
+```
 #include <sstream>
 
 struct ss
@@ -97,7 +96,7 @@ struct ss
 
 O código acima serve bem ao nosso propósito de formatar strings em uma linha como um cout, mas retornar uma string no lugar. Ele é simples, ele é direto, ele tem defeitos que não vem ao caso (como não suportar endl), mas pode ser usado de maneira... simples e direta!
 
-```cpp
+```
 #include "ss.h"
 #include <iostream>
 

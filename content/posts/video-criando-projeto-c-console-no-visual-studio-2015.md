@@ -2,8 +2,9 @@
 categories:
 - code
 date: '2016-08-04'
+link: https://youtu.be/Fw1wdM_vzzI
 tags:
-- draft
+- videos
 title: 'Vídeo: Criando Projeto C++ Console no Visual Studio 2015'
 ---
 

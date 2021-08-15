@@ -3,19 +3,18 @@ categories:
 - blog
 date: '2017-03-23'
 tags:
-- draft
 title: Forma simples de baixar atualizações remotamente de um cliente para um servidor
 ---
 
 A forma mais simples e independente de código para efetuar essa tarefa para Windows é no servidor subir um file server em qualquer porta disponível, e a forma de file server mais simples que existe é o embutido em qualquer instalação Python:
 
-```cmd
+```
 python -m SimpleHTTPServer
 ```
 
 Para que não seja necessário instalar o Python no servidor é possível transformar essa chamada em um executável e suas dependências standalone:
 
-```py
+```
 import SimpleHTTPServer
 import SocketServer
 
@@ -31,7 +30,7 @@ httpd.serve_forever()
 
 Esse script pode ser compilado pela ferramenta py2exe, instalável pelo próprio Python. É necessário criar um arquivo setup.py na mesma pasta do script e através desse script gerar uma pasta dist com o script "compilado" e pronto para ser executado.
 
-```py
+```
 from distutils.core import setup
 import py2exe
 
@@ -40,13 +39,13 @@ setup(console=['fileserver.py'])
 
 Pelo prompt de comando executar o seguinte comando que irá gerar a pasta dist:
 
-```cmd
+```
 python setup.py py2exe
 ```
 
 Uma vez gerada a pasta, renomear para fileserver e copiar no servidor em qualquer lugar (ex: pasta-raiz). Executar de qualquer pasta que se deseja tornar acessível via browser ou qualquer cliente http:
 
-```cmd
+```
 cd c:\tools
 c:\fileserver\fileserver.exe
 ```
@@ -59,7 +58,7 @@ Para testar basta acessar o endereço via browser:
 
 Do lado cliente há ferramentas GNU como curl e wget para conseguir baixar rapidamente qualquer arquivo via HTTP. Para máquinas com Power Shell disponível há um comando que pode ser usado:
 
-```cmd
+```
 powershell wget http://127.0.0.1:8000/Procmon.exe -OutFile Procmon.exe
 ```
 

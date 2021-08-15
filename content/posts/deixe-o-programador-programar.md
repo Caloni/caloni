@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2009-04-09'
 tags:
-- draft
 title: Deixe o programador programar
 ---
 

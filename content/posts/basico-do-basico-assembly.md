@@ -3,7 +3,6 @@ categories:
 - code
 date: '2009-01-26'
 tags:
-- draft
 title: 'Básico do básico: assembly'
 ---
 
@@ -23,20 +22,10 @@ x = y + z;
 
 A operação acima é realizada através de microinstruções bem sucintas:
 
-	
-  1. **Leia memória y para registrador 1
-**
-
-	
-  2. ** Leia memória z para registrador 2
-**
-
-	
-  3. **Some valor de registrador 1 e 2 e coloque resultado no registrador 1
-**
-
-	
-  4. **Carregue memória x com valor do registrador 1**
+  1. Leia memória y para registrador 1
+  2. Leia memória z para registrador 2
+  3. Some valor de registrador 1 e 2 e coloque resultado no registrador 1
+  4. Carregue memória x com valor do registrador 1
 
 ![Os registradores da CPU em ação](http://i.imgur.com/N90ooMD.gif)
 
@@ -76,46 +65,23 @@ O código acima seria representado em assembly mais ou menos como abaixo:
 
 #### Opcodes para aprender:
 
-	
   * mov
-
-	
   * cmp
-
-	
   * jmp
-
-	
   * jne, jle, jnz, etc
-
-	
   * push e pop
-
-	
   * call e ret
 
 #### Pedaços de código que vale a pena estudar:
 
-	
-  * 
-
-    
     push ebp
     mov epb, esp
-
 	
-  * 
-
-    
     push eax
     mov ecx, dword ptr[variavel]
     push 10
     call funcao
 
-	
-  * 
-
-    
     cmp something
     jne | jne | jae | ...
 
@@ -123,4 +89,4 @@ O código acima seria representado em assembly mais ou menos como abaixo:
 
 Desmonte programas, chamadas API. Veja que funções internas elas chamam para realizar determinada tarefa. Tente mudar o comportamento do programa para provar que suas observações sobre o funcionamento estavam corretas.
 
-<blockquote>PS.: Ia me esquecendo. Enquanto estava escrevendo este artigo, um [conjunto](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-14.html) [bem](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-24.html) [mais](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-34.html) [detalhado](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-44.html) de artigos estava sendo publicado pelo DQ. Recomendo veementemente sua leitura.</blockquote>
+PS.: Ia me esquecendo. Enquanto estava escrevendo este artigo, um [conjunto](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-14.html) [bem](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-24.html) [mais](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-34.html) [detalhado](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-44.html) de artigos estava sendo publicado pelo DQ. Recomendo veementemente sua leitura.

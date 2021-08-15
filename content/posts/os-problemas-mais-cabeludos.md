@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2009-03-05'
 tags:
-- draft
 title: Os problemas mais cabeludos
 ---
 
@@ -13,16 +12,9 @@ Um exemplo: um hook global do Windows que quando ativado em determinados eventos
 
 Para esse tipo de situação que envolve 1. o sistema como um todo, 2. processos de terceiros e 3. comportamento obscuro por parte do resto do código, vale a pena seguir um checklist mais rigoroso, colocar seu bonezinho de CSI e partir para desmembrar o funcionamento do código problemático:
 
-	
   1. Como o programa deveria funcionar?
-
-	
   2. O que exatamente não funciona?
-
-	
   3. O que pode ser? O que NÃO pode ser?
-
-	
   4. Existe uma maneira de provar?
 
 Cada uma dessas perguntas deve ser respondida com a maior sinceridade e disciplina, custe o que custar.
@@ -33,25 +25,12 @@ Para facilitar esse entendimento, nada como elaborar uma pequena explicação pa
 
 Continuando nosso exemplo:
 
-	
   1. O programa inicia e cria uma _thread _específica.
-
-	
   2. Essa _thread _específica cria uma janela que monitora e carrega uma DLL.
-
-	
   3. Essa DLL é chamada pela _thread _e instala um _hook _global no sistema.
-
-	
   4. O _hook _recebe eventos de todos os processos que possuem janelas.
-
-	
   5. Quando eventos específicos são disparados, o processo atual envia uma mensagem para a janela que monitora.
-
-	
   6. A janela que monitora monta uma tabela estatística dos eventos.
-
-	
   7. De tempos em tempos, essa tabela é escrita em disco em um arquivo encriptado.
 
 A lista acima é longa o suficiente para podermos elaborar perguntas interessantes e pequena o suficiente para podermos ter em mente o seu funcionamento como um todo, o que é vital para o sucesso das observações durante a depuração.

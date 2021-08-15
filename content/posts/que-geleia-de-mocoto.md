@@ -1,15 +1,14 @@
 ---
 categories:
-- blog
+- code
 date: '2014-04-29'
 tags:
-- draft
 title: Que geleia de mocotó
 ---
 
-[![cowblet-cover](http://i.imgur.com/iqT5sSy.jpg)](/images/14065766204_532438eaed_n.jpg)
-
 A primeira bateria de problemas da segunda fase do Code Jam me mostrou o porquê do seu nome: meu cérebro ficou feito geleia (ha ha ha). Não consegui resolver nenhum problema a tempo, mas não culpo o C++, que passei a usar para essa fase. É burrice aliada a pressão. Duas horas e meia para entender um problema é o tipo de coisa que me deixa pensando mais no tempo do que no problema. Tenho que melhorar isso.
+
+[![cowblet-cover](http://i.imgur.com/iqT5sSy.jpg)](/images/14065766204_532438eaed_n.jpg)
 
 De qualquer forma, esse final de semana que passou foi dedicado a resolver o primeiro problema e quem sabe escrever um post a respeito. Imagino que todos tenham acesso ao [enunciado](http://code.google.com/codejam/contest/2984486/dashboard#s=p0) e aos casos de teste, mas, por via das dúvidas, aqui vai uma descrição adaptada:
 
@@ -31,7 +30,7 @@ Dessa forma, temos que traçar uma solução baseada nas combinações entre as 
 
 Sim, de XOR. O XOR aqui pode ser usado para detectarmos qual a combinação de switches precisamos para que cada tomada encaixa em cada dispositivo. Esse é o nosso conjunto universo de giros de disjuntores. Com esse conjunto em mãos fica fácil saber quais combinações são possíveis de encaixar todos os dispositivos: basta contar!
 
-```cpp
+```
 #include "CodeJam.h"
 #include <algorithm>
 #include <map>

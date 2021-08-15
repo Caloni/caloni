@@ -3,11 +3,10 @@ categories:
 - code
 date: '2008-12-12'
 tags:
-- draft
 title: 'Básico do básico: tipos'
 ---
 
-![Forma de bolo.](http://i.imgur.com/hSQliI2.jpg)Um tipo nada mais é que do que uma forma (ô) de bolo, que **molda a memória** como acharmos melhor moldá-la. Bom, para isso fazer sentido é necessário explicar memória, que é um conceito **mais básico ainda**.
+Um tipo nada mais é que do que uma forma (ô) de bolo, que **molda a memória** como acharmos melhor moldá-la. Bom, para isso fazer sentido é necessário explicar memória, que é um conceito **mais básico ainda**.
 
 A memória é **qualquer lugar** onde eu possa **guardar alguma coisa**. No [artigo anterior](http://www.caloni.com.br/basico-do-basico-ponteiros) era um punhado de [gavetas](http://i.imgur.com/sx9fYjS.gif). Mas poderiam muito bem ser caixas de presente. Ou um caderno. Ou até uma placa de memória RAM. O que sua criatividade quiser.
 

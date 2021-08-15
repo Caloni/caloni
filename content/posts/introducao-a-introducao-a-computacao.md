@@ -3,8 +3,7 @@ categories:
 - reviews
 date: '2014-07-01'
 tags:
-- draft
-- reading
+- books
 title: Introdução à Introdução à Computação
 ---
 

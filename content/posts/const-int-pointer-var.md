@@ -2,10 +2,7 @@
 categories:
 - code
 date: 2019-04-29 20:56:48-03:00
-desc: Uma explicação de por que não aproximar o asterisco nem to tipo nem da variável
-  na declaração de ponteiros é uma forma neutra de resolver essa questão de estilo.
 tags:
-- draft
 title: Const Int Pointer Var
 ---
 

@@ -2,9 +2,7 @@
 categories:
 - code
 date: 2018-09-18
-desc: Visual Studio, Boost.Coroutine, debug/depuração, crash analysis.
 tags:
-- draft
 title: Coroutine Internals
 ---
 
@@ -14,7 +12,7 @@ Só que no caso do Windows se a rotina de impressão travasse todo o sistema con
 
 A volta das corrotinas via C++ moderno ocorre, para variar, no Boost. E a arquitetura é simples: mantenha um histórico das stacks das diferentes tasks da thread. Vamos pegar o caso mais simples da Boost.Coroutine para analisar:
 
-```cpp
+```
 #define BOOST_COROUTINES_NO_DEPRECATION_WARNING // Já existe uma nova versão de Coroutine, a 2, e a 1 está sendo abandonada.
 #include <boost/coroutine/all.hpp>
 #include <iostream>
@@ -57,7 +55,7 @@ Oh, não. O depurador do Visual Studio está fazendo caquinha, pois rodando pass
 
 Para conseguirmos depurar diferentes rotinas dentro da mesma thread é imperativo entendermos como o mecanismo de troca de contexto funciona por baixo dos panos. Para isso nada como depurar as próprias trocas de contexto.
 
-```cpp
+```
 typedef void ( * coroutine_fn)( push_coroutine< void > &);
 
 explicit pull_coroutine( coroutine_fn fn, attributes const& attrs = attributes() )
@@ -93,12 +91,12 @@ O tamanho total da stack reservada no Windows é de 1 MB, mas a granuralidade pa
 
 _Detalhe curioso de arquitetura x86 (32 bits): na hora de alocar, o sp (stack pointer) aponta para o final da pilha. Isso porque no x86 a **pilha cresce "para baixo"**._
 
-```cpp
+```
 ctx.sp = static_cast< char * >( limit) + ctx.size;
 ```
 Logo em seguida, no topo da pilha, é empilhado o objeto da corrotina:
 
-```cpp
+```
 typedef pull_coroutine_object<push_coroutine, coroutine_fn, stack_allocator> object_t;
 void * sp = static_cast<char*>(stack_ctx.sp) - sizeof( object_t);
 impl_ = new (sp) object_t(boost::forward<coroutine_fn>(fn), attrs, detail::preallocated(sp, size, stack_ctx), stack_alloc); 
@@ -106,7 +104,7 @@ impl_ = new (sp) object_t(boost::forward<coroutine_fn>(fn), attrs, detail::preal
 
 Bom, entrando mais a fundo na implementação de corrotinas do Boost, temos o objeto **pull_coroutine_impl**, que possui flags, ponteiro para exceção e o contexto do chamador e do chamado para se localizar.
 
-```cpp
+```
 template<>
 class pull_coroutine_impl< void > : private noncopyable
 {
@@ -119,7 +117,7 @@ protected:
 
 O **coroutine_context** possui elementos já conhecidos de quem faz hook de função: trampolins. Ou seja, funções usadas para realizar saltos incondicionais de um ponto a outro do código independente de contexto. Na minha época de hooks isso se fazia alocando memória na heap e escrevendo o código assembly necessário para realizar o pulo, geralmente de uma colinha de uma função naked (funções naked não possuem prólogo e epílogo, que são partes do código que montam e desmontam contextos dentro da pilha, responsável pela montagem dos frames com ponto de retorno, variáveis locais, argumentos).
 
-```cpp
+```
 // class hold stack-context and coroutines execution-context
 class BOOST_COROUTINES_DECL coroutine_context
 {
@@ -141,7 +139,7 @@ private:
 
 A função que faz a mágica do pulo do gato é a pull, que muda o estado da rotina para running e realiza o salto de contexto. Vamos analisar essa parte com muita calma.
 
-```cpp
+```
 inline void pull()
 {
     BOOST_ASSERT( ! is_running() );
@@ -162,7 +160,7 @@ inline void pull()
 
 Quem desfaz a mágica, "desempilhando" o contexto para voltar ao chamador da corrotina (através do contexto apenas, não da pilha) é a função push.
 
-```cpp
+```
 inline void push()
 {
     BOOST_ASSERT( ! is_running() );
@@ -191,7 +189,7 @@ A variável de uma coroutine contém o contexto do chamador e do chamado. Quando
 
 Usando o comando `k = BasePtr StackPtr InstructionPtr` passando o conteúdo de sp como o stack pointer o Windbg deve mostrar a pilha de todas as formas possíveis (especificar se terá FPO, mostrar código-fonte, argumentos, etc). Para a demonstração live fica bom ter um loop "eterno" para poder repetir a análise quantas vezes forem necessárias:
 
-```cpp
+```
 void cooperative(coroutine<void>::push_type &sink)
 {
     while( g_stopAll == false )

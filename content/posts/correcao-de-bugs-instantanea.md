@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2010-02-01'
 tags:
-- draft
 title: Correção de bugs instantânea
 ---
 
@@ -15,10 +14,7 @@ Porém, saber que uma determinada situação é mel na chupeta (by Thiago) por s
 
 Dentre as mais conhecidas entre os malloqueiros, temos:
 
-	
   * Comenta-descomenta-comenta
-
-	
   * Faz do zero
 
 Essas duas técnicas são tão úteis e tão fáceis de usar que merecem um artigo a respeito.

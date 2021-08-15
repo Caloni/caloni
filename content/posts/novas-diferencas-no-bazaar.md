@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2010-08-04'
 tags:
-- draft
 title: Novas diferenças no Bazaar
 ---
 

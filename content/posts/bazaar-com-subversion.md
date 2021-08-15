@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2011-03-23'
 tags:
-- draft
 title: Bazaar com Subversion
 ---
 

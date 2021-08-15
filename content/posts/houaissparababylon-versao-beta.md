@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2008-11-15'
 tags:
-- draft
 title: HouaissParaBabylon versão beta
 ---
 
@@ -13,7 +12,6 @@ Foi uma longa jornada, sim, mas espero que valha a pena para quem esperou. Tamb�
 
 Segue um pequeno roteiro do funcionamento do programa, que é bem simples, aliás. Para que tudo dê certo, no entanto, é necessário que o computador onde será feita a conversão possua os três programas abaixo instalados e funcionamento corretamente:
 
-	
   * Dicionário Houaiss. Testado na versão 2, deve ser instalado com opção de cópia dos arquivos no disco rígido.
   * Babylon. Testado nas versões 6 e 7. Pode ser registrado ou não.
   * Babylon Builder. O construtor dos dicionários Babylon. Apesar de ser possível construir dicionários personalizados para o Babylon, é necessário que se use esse aplicativo conversor. O HouaissParaBabylon o usa, e por isso precisa que ele esteja instalado corretamente.

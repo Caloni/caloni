@@ -3,7 +3,6 @@ categories:
 - code
 date: '2009-07-13'
 tags:
-- draft
 title: Name mangling
 ---
 

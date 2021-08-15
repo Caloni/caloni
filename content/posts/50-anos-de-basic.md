@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2014-05-13'
 tags:
-- draft
 title: 50 Anos de BASIC
 ---
 

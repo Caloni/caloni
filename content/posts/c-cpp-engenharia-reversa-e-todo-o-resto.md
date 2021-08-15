@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2015-04-27'
 tags:
-- draft
 - ccpp
 title: C, C++, Engenharia Reversa e Todo o Resto
 ---

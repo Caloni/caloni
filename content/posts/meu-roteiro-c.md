@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
+- code
 date: '2009-05-20'
 tags:
-- draft
 title: Meu roteiro C++
 ---
 

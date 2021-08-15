@@ -3,47 +3,31 @@ categories:
 - code
 date: '2011-03-09'
 tags:
-- draft
 title: Base64
 ---
 
 No meio dos meus artigos pendentes, encontrei esse, de Luiz Rocha, que fala sobre a dificuldade de entender o que seria Base64:
 
-<blockquote>"Salve Caloni,
-
-Já leio o seu site a algum tempo. Realmente acho complicado, alguns eu nem entendo =D.  Mais eh o seguinte, eu estou montando um projeto, mas eu não entendo nada de trabalhar com binários. Então pesquisei na internet, e achei um algoritmo que pode me ajudar, [na lógica](http://base64.sourceforge.net/b64.c). É o base64 mas eu não entendi como ele converte e desconverte em binário. Será que vc pode me ajudar, obrigado!!"</blockquote>
+> Salve Caloni,
+> 
+> Já leio o seu site a algum tempo. Realmente acho complicado, alguns eu nem entendo =D.  Mais eh o seguinte, eu estou montando um projeto, mas eu não entendo nada de trabalhar com binários. Então pesquisei na internet, e achei um algoritmo que pode me ajudar, [na lógica](http://base64.sourceforge.net/b64.c). É o base64 mas eu não entendi como ele converte e desconverte em binário. Será que vc pode me ajudar, obrigado!!
 
 Não é a primeira pessoa que pede informações sobre algo específico demais para explicar (para isso existe a [Wikipedia](http://en.wikipedia.org/wiki/Base64) e o [Google](http://www.google.com/search?q=base64), não?). No meio da minha escrita, percebi que já havia escrito sobre os fundamentos do conhecimento por trás da criação do Base64, conhecimento esse, acredito eu, todo programador que quer sair do lugar com os próprios pés deve ter.
 
-	
   * [Básico do básico: assembly](http://www.caloni.com.br/basico-do-basico-assembly)
-
-	
   * [Básico do básico: binário](http://www.caloni.com.br/basico-do-basico-binario) <-- Luiz, você está procurando por esse!
-
-	
   * [Básico do básico: tipos](http://www.caloni.com.br/basico-do-basico-tipos)
-
-	
   * [Básico do básico: ponteiros](http://www.caloni.com.br/basico-do-basico-ponteiros)
 
 Bônus:
 
-	
   * [Como ofuscar strings](http://www.caloni.com.br/como-ofuscar-strings)
-
-	
   * [Passagem por valor e emails com anexo](http://www.caloni.com.br/passagem-por-valor-e-emails-com-anexo)
-
-	
   * [Como funcionam as strings](http://www.caloni.com.br/strings)
 
 REALMENTE para iniciantes:
 
-	
   * [Configurando seus projetos no Visual Studio](http://www.caloni.com.br/configurando-seus-projetos-no-visual-studio)
-
-	
   * [Como criar uma LIB no Visual Studio](http://www.caloni.com.br/como-criar-uma-lib-no-visual-studio)
 
 Acredito que tudo que um programador precisa saber é o básico. O problema é que esse básico cresce a cada ano, mas, de qualquer forma, continua sendo necessário voltar às raízes de vez em quando, e se existe algo que ele nunca deve esquecer, é isso.

@@ -3,7 +3,6 @@ categories:
 - code
 date: '2010-08-03'
 tags:
-- draft
 title: Como achar o código-fonte sem símbolos
 ---
 
@@ -11,7 +10,6 @@ Continuo escovando bits. Dessa vez de forma mais nervosa. Se trata de um serviç
 
 É sabido que esse serviço responde requisições de milhares de máquinas em um período curto de tempo, então por isso a primeira coisa que me atentei foi verificar quantas threads haviam:
 
-    
     0:000> ~*
     .  0  Id: 4c8.30c Suspend: 1 Teb: 7ffde000 Unfrozen
           Start: *** WARNING: Unable to verify checksum for Service.exe
@@ -42,11 +40,7 @@ Continuo escovando bits. Dessa vez de forma mais nervosa. Se trata de um serviç
      1429  Id: 4c8.1410 Suspend: 1 Teb: 7fa08000 Unfrozen
           Start: rpcrt4!ThreadStartRoutine (77d37e70)
           Priority: 0  Priority class: 32  Affinity: f
-
-1430 
-
-    
-    Id: 4c8.143c Suspend: 1 Teb: 7fa06000 Unfrozen
+     1430 Id: 4c8.143c Suspend: 1 Teb: 7fa06000 Unfrozen
           Priority: 0  Priority class: 32  Affinity: f
 
 São muitas.
@@ -98,36 +92,22 @@ Analisar essa quantidade absurda de threads seria um saco. Além de inútil. Foi
     6665ffec 00000000 KERNEL32!BaseThreadStart+0x52
     
     Total threads: 1431
-    Duplicate callstacks:
-
-1092 
-
-    
-    (windbg thread #s follow):
+    Duplicate callstacks: 1092 (windbg thread #s follow):
     7, 9, 11, 12, 13, 14, 15, 17, 18, 20, 21, (...), 1428, 1429
 
 Muitas threads duplicadas. Isso quer dizer que podemos nos focar na pilha de uma delas. Basta pegar uma.
 
-    
     0:000> ~1429 kv
 
-ChildEBP 
+    ChildEBP 
 
-    
     RetAddr  Args to Child
     6645f334 7c59a0a2 ... NTDLL!ZwWaitForSingleObject+0xb (FPO: [3,0,0])
     6645f35c 7c57b40f ... KERNEL32!WaitForSingleObjectEx+0x71 (FPO: [Non-Fpo])
     6645f36c 004054c3 ... KERNEL32!WaitForSingleObject+0xf (FPO: [2,0,0])
     WARNING: Stack unwind information not available. Following frames may be wrong.
-
-6645f690 004060ec ... Service+0x54c3 6645f764 77d79970 
-
-    
+    6645f690 004060ec ... Service+0x54c3 6645f764 77d79970 Service+0x60ec6645f788 
     ...
-
-Service+0x60ec6645f788 
-
-    
     77d96460 ... rpcrt4!Invoke+0x30
     6645f7a0 77d9637a ... rpcrt4!NdrCallServerManager+0x15 (FPO: [4,0,2])
     6645fa90 77d9076f ... rpcrt4!NdrStubCall+0x200 (FPO: [Non-Fpo])
@@ -157,11 +137,7 @@ Service+0x60ec6645f788
 
 Através das funções de RPC e OLE32 podemos concluir que se trata de uma chamada direta para uma interface COM. Bom, existem centenas de métodos e dezenas de interfaces nesse serviço, tornando mais fácil tentar desmontar a chamada inicial que o rpcrt4 faz ao nosso módulo.
 
-    
-    0:000> ub
-
-77d79970
-
+    0:000> ub 77d79970
     
     rpcrt4!Invoke+0x20:
     77d79960 fd              std
@@ -170,49 +146,28 @@ Através das funções de RPC e OLE32 podemos concluir que se trata de uma chama
     77d79966 50              push    eax
     77d79967 669d            popf
     77d79969 669d            popf
-    77d7996b 8b4508          mov     eax,
-
-dword ptr [ebp+8]
-
-    
+    77d7996b 8b4508          mov     eax, dword ptr [ebp+8]
     77d7996e ffd0            call    eax
 
 Nossa função é obtida em ebp+8. Podemos obter esse endereço pelo campo **ChildEBP **da função em questão.
 
-    
-    0:000> dd
-
-6645f788
-
-    
-    +8 l1
-    6645f790  00406061
+    0:000> dd 6645f788 +8 l1 6645f790  00406061
     0:000> uf 00406061
     Service+0x6061:
     00406061 55              push    ebp
     00406062 8bec            mov     ebp,esp
     00406064 81ecc8000000    sub     esp,0C8h
-    0040606a 833db09f410000
-
-cmp dword ptr [Service+0x19fb0 (00419fb0)],0
-
-    
+    0040606a 833db09f410000 cmp dword ptr [Service+0x19fb0 (00419fb0)],0
     00406071 751b            jne     Service+0x608e (0040608e)
 
-Service+0x6073
-
-    
-    :
+    Service+0x6073:
     00406073 6a00            push    0
     00406075 6860514100      push    offset Service+0x15160 (00415160)
     0040607a b9609e4100      mov     ecx,offset Service+0x19e60 (00419e60)
     0040607f e822080000      call    Service+0x68a6 (004068a6)
     00406084 8b4514          mov     eax,dword ptr [ebp+14h]
-    00406087 66c7002f00      mov
+    00406087 66c7002f00      mov word ptr [eax],2Fh
 
-word ptr [eax],2Fh
-
-    
     0040608c eb65            jmp     Service+0x60f3 (004060f3)
     
     Service+0x608e:
@@ -260,7 +215,7 @@ word ptr [eax],2Fh
 
 Note como a função compara algo com zero. Caso não seja zero ela continua. Caso contrário ela vai para um ponto que chama uma função interna e move um código de erro para um ponteiro recebido como parâmetro, o que é muito normal, se lembrarmos que as funções COM de um programa em C devem retornar o código da chamada no retorno (S_OK) e o código de erro em um lResult da vida.
 
-```cpp
+```
 STDMETHODIMP CService::Open(<params>, PLONG *pctReturn)
 {
 	if( DeuErrado() )
@@ -270,13 +225,11 @@ STDMETHODIMP CService::Open(<params>, PLONG *pctReturn)
 	}
 	//...
 }
- 
-
 ```
 
 O código retornado é 2Fh, e agora temos uma boa pista para encontrar a localização no fonte. A primeira coisa é encontrar o define responsável por esse erro, o que exige um pouco de familiaridade com o sistema, pois não se trata aqui de um código Windows.
 
-```cpp
+```
 #define OSRL_ERR	44	/* Data file serial number overflow */
 #define KLEN_ERR	45	/* Key length exceeds MAXLEN parameter */
 #define	FUSE_ERR	46	/* File number already in use */
@@ -284,13 +237,11 @@ O código retornado é 2Fh, e agora temos uma boa pista para encontrar a localiz
 #define FMOD_ERR	48	/* Operation incompatible with type of file */
 #define	FSAV_ERR	49	/* Could not save file */
 #define LNOD_ERR	50	/* Could not lock node */
- 
-
 ```
 
 Ótimo. 2F, para os leigos (leigos? o que vocês estão fazendo aqui?), é 47 em decimal, exatamente nosso código listado acima. Com esse define podemos agora procurar no código-fonte e analisar todas as funções que retornam esse código em seu início. Para nossa sorte, existe apenas uma.
 
-```cpp
+```
 STDMETHODIMP CService::Open(BYTE *fileName, COUNT keyNo, COUNT *pctReturn)
 {
 	char szMsg[200];
@@ -313,8 +264,6 @@ STDMETHODIMP CService::Open(BYTE *fileName, COUNT keyNo, COUNT *pctReturn)
 	}
 	//...
 }
- 
-
 ```
 
 Para confirmar que não estamos sonhando, podemos dar uma olhada no parâmetro passado para a função Log antes do código retornar. A memória deverá conter uma string idêntica a do código-fonte.
@@ -322,28 +271,14 @@ Para confirmar que não estamos sonhando, podemos dar uma olhada no parâmetro p
     
     Service+0x6073:
     00406073 6a00            push    0
-    00406075 6860514100      push    offset Service+0x15160 (
-
-00415160
-
-    
-    )
+    00406075 6860514100      push    offset Service+0x15160 (00415160)
     0040607a b9609e4100      mov     ecx,offset Service+0x19e60 (00419e60)
-    0040607f e822080000      call
-
-Service+0x68a6
-
-    
-     (004068a6)
+    0040607f e822080000      call Service+0x68a6 (004068a6)
     00406084 8b4514          mov     eax,dword ptr [ebp+14h]
     00406087 66c7002f00      mov     word ptr [eax],2Fh
     0040608c eb65            jmp     Service+0x60f3 (004060f3)
     
-    0:000> da
-
-00415160
-
-    
+    0:000> da 00415160
     00415160  "Error opening file before databa"
     00415180  "se to be initialized."
 

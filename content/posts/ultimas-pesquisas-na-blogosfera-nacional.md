@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2009-05-08'
 tags:
-- draft
 title: Últimas pesquisas na blogosfera nacional
 ---
 
@@ -11,7 +10,6 @@ title: Últimas pesquisas na blogosfera nacional
 
 Esse artigo é só para constar em minha lista de referência para o aprendizado de C, C++ e todas as outras coisas que vem depois. Se eu tivesse que escrever isso lá no início, provavelmente recomendaria mais linques de livros e saites em inglês. Hoje, felizmente, temos um conteúdo em pleno desenvolvimento em nossa blogosfera tupiniquim. E espero que continue assim!
 
-	
   * Strings
   * Strings e Números
   * Os diversos tipos de casting

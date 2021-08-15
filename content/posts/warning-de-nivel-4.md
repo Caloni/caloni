@@ -1,15 +1,14 @@
 ---
 categories:
-- blog
+- code
 date: '2017-01-17'
 tags:
-- draft
 title: Warning de nível 4
 ---
 
 Você já colocou aquele seu projeto favorito em /W4? Por padrão, o Visual Studio cria seus projetos com o nível de warnings e 3, porque o nível 4 é muito, muito chato. No entanto, algumas vezes ele serve para que seu código não fique apenas correto, mas bem documentado e apresentável. Vamos tentar?
 
-```log
+```
 1>------ Build started: Project: tioserver, Configuration: Debug x64 ------
 1>  pch.cpp
 1>  using Boost version 1_62
@@ -31,7 +30,7 @@ OK, este foi o nível 3 do tioserver, o projeto principal do [tiodb](https://git
 
 ![](http://i.imgur.com/XjbqVh9.png)
 
-```log
+```
 1>------ Rebuild All started: Project: tioserver, Configuration: Debug x64 ------
 1>  pch.cpp
 1>  using Boost version 1_62
@@ -92,7 +91,7 @@ OK, este foi o nível 3 do tioserver, o projeto principal do [tiodb](https://git
 
 Vamos ordenar e capturar apenas o código desses warnings para ver quantos ocorrem e quais os mais comuns:
 
-```vim
+```
 sort
 s/c:\\.*: \(warning C[0-9]\+\).*$/\1/
 sort u
@@ -100,7 +99,7 @@ sort u
 
 E a resposta é:
 
-```log
+```
 warning C4456: declaration of 'identifier' hides previous local declaration
 warning C4457: declaration of 'identifier' hides function parameter
 warning C4458: declaration of 'identifier' hides class member
@@ -111,7 +110,7 @@ Apenas quatro. Tão comuns que [a maioria](https://msdn.microsoft.com/en-us/libr
 
 Felizmente só temos em um ponto do código:
 
-```cpp
+```
 //
 // Contract: 
 //		if no timeout, it will hang until all bytes are returned
@@ -150,7 +149,7 @@ A correção é simples: inicialize a p\*\*\*\*\* das suas variáveis zero (ou d
 
 Vamos dar uma olhada em um dos outros warnings:
 
-```cpp
+```
     string containerName = container->GetName();
     unsigned handle = session->RegisterContainer(containerName, container);
     

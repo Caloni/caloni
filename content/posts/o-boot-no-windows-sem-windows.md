@@ -3,7 +3,6 @@ categories:
 - code
 date: '2009-08-18'
 tags:
-- draft
 title: 'O boot no Windows: sem Windows'
 ---
 
@@ -17,10 +16,7 @@ O firmware fica gravado na placa-mãe e normalmente nós ouvimos falar dele pelo
 
 Quando o computador é ligado, o código da BIOS realiza duas operações vitais antes de continuar:
 
-	
   1. Ver se todos os componentes de hardware estão bem;
-
-	
   2. Ver quem é o dispositivo que inicia o sistema operacional.
 
 Esse segundo item é o que veremos agora.
@@ -39,54 +35,35 @@ Vamos supor que você tenha algum Windows moderno na partição ativa. A MBR ir�
 
 Agora chegamos em todos os passos iniciais realizados antes de entrar em cena o S.O.:
 
-	
   1. O firmware da placa-mãe, conhecida como BIOS, verifica se o hardware básico está funcionando;
-
-	
   2. Em seguida, o mesmo código procura pelo dispositivo iniciável que irá dar início ao processo de boot;
-
-	
   3. Se for um HD, então o primeiro setor físico desse HD será carregado em memória e executado;
-
-	
   4. Esse primeiro setor se chama MBR e contém uma tabela com até quatro entradas de partições no disco;
-
-	
   5. O código da MBR procura pela partição ativa onde deve estar o sistema operacional;
-
-	
   6. Assim como a BIOS, a MBR carrega na memória o primeiro setor da partição ativa e executa;
-
-	
   7. A partir daí temos o código de um possível sistema operacional rodando.
 
 Todos os componentes principais desse boot podem ser visualizados de uma forma bem macro na figura abaixo.
 
 Alguns detalhes sórdidos que podem fazer alguma diferença para você, desenvolvedor de sistemas operacionais, um dia desses:
 
-	
   * Os setores de que estamos falando (MBR, partição ativa) normalmente devem terminar com uma assinatura de dois bytes (0x55 0xAA), o que "garante" que o código contido nesse setor é válido e pode ser executado.
 
-	
   * No caso do loader do Windows (pré-Vista), existia um arquivo no diretório-raiz da partição ativa chamado boot.ini que continha uma lista de possíveis modos de inicializar o sistema operacional, inclusive com múltiplas versões do Windows, cada um localizado em uma partição/pasta distinta (e.g., multiboot com Windows 98 e XP).
 
-	
   * O limite de quatro partições da MBR pode ser aumentado com o uso de partições estendidas; as partições estendidas apontam para um bloco de setores no HD que inicia com um setor que contém outra tabela de partições exatamente onde fica a tabela da MBR, também com quatro entradas.
 
-	
   * O endereçamento da localização das partições na MBR pode ser feito de duas maneiras distintas: por CHS ou por LBA. A versão CHS é bem antiga, mas ainda usada, e especifica uma localização no HD através de um posicionamento físico de três dimensões, com cilindro/trilha (C - Cylinder), cabeça (H - Head) e setor (S - Sector). Sim, isso é bem _old-fashionable_. Também existe o LBA (Logical Block Addressing), que é uma forma lógica de endereçar setores no disco, através de deslocamentos (_offsets_).
 
 Para detectar problemas de hardware, a BIOS pode ajudar com seus beeps significativos. Isso aparentemente parece ser o fim da picada, mas não é. O DQ sabe muito bem que podemos ter problemas no hardware que exigem análises mais sofisticadas (como comprimento de onda dos sinais).
 
 Se for detectar algum problema no sistema de boot baseado em MBR, então você tem dois caminhos:
 
-	
   * Usar o SoftICE 16 bits e depurar o carregamento da MBR pela BIOS
 
-	
   * Usar o Debug 16 bits do MS-DOS (ou similar) e depurar diretamente o código de boot da MBR, reproduzindo os passos anteriores da BIOS.
 
 Se o problema for durante o carregamento do próprio sistema operacional, as mensagens de erro do loader são significativas. No entanto, pode-se usar o Debug mais uma vez e depurar essa parte, logo antes, é claro, do sistema entrar em modo protegido de 32 bits, o que daí já é outra história (que pretendo contar em breve).
 
-	
   * Artigo sobre o boot no Linux
+  * [Artigo sobre o boot no Linux](http://www.csl.mtu.edu/~machoudh/blog/?p=258)

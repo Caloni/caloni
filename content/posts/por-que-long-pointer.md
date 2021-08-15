@@ -3,28 +3,27 @@ categories:
 - code
 date: '2010-04-21'
 tags:
-- draft
 title: Por que Long Pointer
 ---
 
 Esse artigo continua a explicação sobre [os typedefs arcaicos](http://www.caloni.com.br/typedef-arcaico), já que ainda falta explicar por que diabos os ponteiros da Microsoft começam com LP. Tentei explicar para [minha pupila](http://www.caloni.com.br/basico-do-basico-ponteiros) que, por ser código dos anos 80, as pessoas usavam LP para tudo, pois os CDs ainda não estavam tão difundidos.
 
     
-    <span style="color: #808000;">/** @brief Para instanciar um Bozo. @date 1982-02-21 */ 
+    /** @brief Para instanciar um Bozo. @date 1982-02-21 */ 
     typedef struct _BOZO { 
        char helloMsg[100]; /* definir para "alô, criançada, o bozo chegou..." */ 
        float currentTime; /* definir para 5e60 */ 
     }
-     BOZO, <strong><span style="text-decoration: underline;"><span style="color: #ff0000;">*LP</span></span></strong>BOZO;</span>
+     BOZO, *LPBOZO;
 
     
-    <strong><span style="color: #339966;">/** @brief Para instanciar um Pokemon. @date 1996-03-01 */</span> 
-    <span style="color: #0000ff;">typedef</span> <span style="color: #0000ff;">struct</span> <span style="color: #808080;">_PIKACHU</span> 
-    <span style="color: #ff00ff;">{</span> 
-    </strong><strong><span style="color: #0000ff;"> char</span> <span style="color: #808080;">helloMsg</span><span style="color: #ff00ff;">[</span><span style="color: #00ccff;">100</span><span style="color: #ff00ff;">]</span>; <span style="color: #339966;">// setar para "pika, pika pikachuuuuuuu..."</span> 
-    <span style="color: #0000ff;"> int </span><span style="color: #808080;">pokemonID</span><span style="color: #ff00ff;">;</span> <span style="color: #339966;">// setar para </span><span style="color: #ff00ff;">24</span> 
-    <span style="color: #ff00ff;">}
-    </span><span style="color: #808080;">PIKACHU</span><span style="color: #ff00ff;">,</span> <span style="color: #ff0000;"><span style="text-decoration: underline;">*CD</span></span>PIKACHU<span style="color: #ff00ff;">;</span></strong>
+    /** @brief Para instanciar um Pokemon. @date 1996-03-01 */ 
+    typedef struct _PIKACHU 
+    { 
+     char helloMsg[100]; // setar para "pika, pika pikachuuuuuuu..." 
+     int pokemonID; // setar para 24 
+    }
+    PIKACHU, *CDPIKACHU;
 
 Não colou. Então vou tentar explicar do jeito certo.
 

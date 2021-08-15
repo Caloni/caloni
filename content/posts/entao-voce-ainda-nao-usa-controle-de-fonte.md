@@ -1,13 +1,12 @@
 ---
 categories:
-- blog
+- code
 date: '2010-11-02'
 tags:
-- draft
 title: Então você ainda não usa controle de fonte?
 ---
 
-![Bazaar Logo](..http://i.imgur.com/HjN0zFI.png)Graças aos antigos [SCMs](http://en.wikipedia.org/wiki/Software_configuration_management), muitos programadores hoje em dia evitam ter que configurar um controle de fonte mínimo para seus projetos. E por um bom motivo: temos que programar e resolver problemas reais no dia-a-dia e não ficar configurando servidores de controle de fonte e lidando com conflitos na calada da noite. Isso vale tanto para o pessoal do Windows e o seu Visual Source Safe (eu que o diga) quanto para o pessoal do Unix/Linux e seu CVS ;aliás, hoje o pesadelo de ambos foi substituído pelo SubVersion: um pesadelo light.
+Graças aos antigos [SCMs](http://en.wikipedia.org/wiki/Software_configuration_management), muitos programadores hoje em dia evitam ter que configurar um controle de fonte mínimo para seus projetos. E por um bom motivo: temos que programar e resolver problemas reais no dia-a-dia e não ficar configurando servidores de controle de fonte e lidando com conflitos na calada da noite. Isso vale tanto para o pessoal do Windows e o seu Visual Source Safe (eu que o diga) quanto para o pessoal do Unix/Linux e seu CVS ;aliás, hoje o pesadelo de ambos foi substituído pelo SubVersion: um pesadelo light.
 
 Não há nada de errado nisso. Projetos robustos com uma equipe moderada ¿ 5 a 10 programadores ¿ precisam desse tipo de organização, e tornam a resolução dos problemas do dia-a-dia mais problemática **sem** esse controle. A questão reside para o programador solitário ou a equipe minúscula ¿ 2 a 4 programadores. Esses geralmente questionam o custo-benefício de terem o trabalho de configurar e manter mais um sistema. Além disso, isso implica em uma mudança de grandes proporções em cada membro da equipe: uma **mudança cultural**.
 
@@ -29,18 +28,12 @@ Apesar de existirem [firulas gráficas](http://www.caloni.com.br/bazaar-grafico)
 
 Isso vale para qualquer projeto que você esteja trabalhando. Pela linha de comando, navegue até o diretório do projeto. Digite os comandos abaixo seguidos de <enter>:
 
-	
   1. bzr init
-
-	
   2. bzr add
-
-	
   3. bzr commit -m "Primeiro commit no controle de fonte"
 
 Pronto! Você está oficialmente com seu projeto dentro de um controle de fonte.
 
-    
     C:\Users\Caloni\Documents\Projetos>cd MeuProjeto
     
     C:\Users\Caloni\Documents\Projetos\MeuProjeto>bzr init
@@ -60,15 +53,9 @@ Pronto! Você está oficialmente com seu projeto dentro de um controle de fonte.
 
 Os passos seguintes seguem o mesmo padrão, exceto o passo 1, que é substituído pelo seu trabalho:
 
-	
   1. trabalho
-
-	
   2. bzr add
-
-	
   3. bzr commit -m "Comentário sobre modificação que fiz"
-
     
     C:\Users\Caloni\Documents\Projetos\MeuProjeto>vim MeuProjeto.cpp
     

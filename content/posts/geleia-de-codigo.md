@@ -3,15 +3,14 @@ categories:
 - blog
 date: '2014-04-15'
 tags:
-- draft
 title: Geleia de Código
 ---
-
-[![jam2014](http://i.imgur.com/zXzJlL5.jpg)](/images/13878076723_dc8556a364_o.jpg)
 
 Não costumo participar de campeonatos de programação por alguns motivos vagos: é perda de tempo (não ganho nada com isso), sou um péssimo programador (ou pasteleiro), dá preguiça (esse é o mais válido) e por aí vai o mimimi. Dessa forma, sempre passei ileso de eventos como o atual [Google Code Jam](https://code.google.com/codejam/contest/2974486/dashboard), que pretende levar a categoria de código ofuscado para um novo patamar.
 
 No entanto, esse ano apareceram dois motivos que me levaram a gastar cinco minutos de paciência com as historinhas bestas da equipe do Google. Primeiro o Python, que desde 2013 tem renovado em mim a sensação que programar ainda é divertido (e que o pessoal da Microsoft e do padrão C++ tinham tirado de mim há muito tempo com seus compiladores cada vez mais complexos/lentos e as IDEs que demoram o tempo do cafezinho para abrir). Segundo o que move o mundo: a concorrência. Minha digníssima esposa, levada por alguns pontos-extra na faculdade (uma iniciativa até que louvável do professor), resolveu participar da primeira fase (a classificação desta fase também dava pontos).
+
+[![jam2014](http://i.imgur.com/zXzJlL5.jpg)](/images/13878076723_dc8556a364_o.jpg)
 
 O fato é que depois desses cinco minutos eu simplesmente não consegui parar até o minuto final das 23 horas (horário de Brasília) de domingo, quando o tempo-limite esgotou. O aspecto mais divertido do Code Jam é que há liberdade total para a ferramenta que você pretende usar: linguagens de programação, Excel, uma calculadora ou apenas seu cérebro. Você recebe uma "missão" e um arquivo de entrada e precisa cuspir um arquivo de saída de acordo com a missão. Apenas isso. O resto fica por conta da criatividade dos codadores e gambiarreiros de plantão.
 
@@ -29,7 +28,7 @@ Todos os exercícios levam em consideração um arquivo de entrada que possui em
     9 10 7 12
     13 14 8 16
 
-```python
+```
 import sys
 
 f = open(sys.argv[1])
@@ -60,7 +59,7 @@ for case in range(0, total):
 
 O segundo exercício já envolvia um jogo bem divertido em que o jogador ficava clicando em cookies como se não houvese amanhã. Esse deu um pouco mais de trabalho, mas foi mais divertido que o primeiro.
 
-```python
+```
 import sys
 
 def CookieClicker(farmCost, farmIncrement, cookieTarget):
@@ -88,7 +87,7 @@ for case in range(1, total + 1):
 
 Já o terceiro... o terceiro passa. Vamos para o quarto, um dos mais instigantes, pois envolve duas regras distintas de um jogo e a otimização das melhores estratégias para ambos. Isso consumiu bem mais tempo que os outros dois iniciais, pois lembro de ter me isolado por uma hora para conseguir colocar tudo na cabeça.
 
-```python
+```
 import sys
 
 def BestBlock(block, blocks):
@@ -152,7 +151,7 @@ Já o terceiro foi um fracasso total. Tentei de todas as maneiras resolver o imp
 
 Eis a solução porca e mal-resolvida (alguns pontos do códido foram feitos depois de ver o código de outrem):
 
-```python
+```
 import sys
 
 def FieldToString(field):

@@ -3,7 +3,6 @@ categories:
 - code
 date: 2018-03-11 16:25:56-03:00
 tags:
-- draft
 title: Contra o 'Array de 100 bytes é suficiente'
 ---
 

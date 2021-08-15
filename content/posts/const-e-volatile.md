@@ -3,7 +3,6 @@ categories:
 - code
 date: '2010-06-04'
 tags:
-- draft
 title: Const e Volatile
 ---
 
@@ -13,7 +12,6 @@ Padrão C (ISO/IEC 9899:1990)
      const
      volatile
 
-    
     Padrão C++ (ISO/IEC 14882:1998)
     
     cv-qualifier
@@ -22,24 +20,19 @@ Padrão C (ISO/IEC 9899:1990)
 
 #### Qualificadores de tipo
 
-Chamamos de qualificador de tipo as palavrinhas mágicas **const **e **volatile**. Na prática elas definem como uma determinada variável será usada e se comportará durante a vida do programa.
+Chamamos de qualificador de tipo as palavrinhas mágicas **const** e **volatile**. Na prática elas definem como uma determinada variável será usada e se comportará durante a vida do programa.
 
 #### Const
 
 Uma variável const não pode ser alterada pelo programa durante sua execução, apenas durante sua inicialização:
 
-    
     const float pi = 3.14; // até onde sabemos, pi não irá mudar neste Universo
 
 No exemplo acima, o valor de pi não pode mais ser alterado. Só que repare que ele foi, em determinado momento, alterado com um valor constante: na sua inicialização. Isso quer dizer que:
 
-    
   * pi é uma variável no programa representada por um local na memória **endereçável **pelo programa
-
-    
   * pi não é um define do pré-processador que irá virar uma constante literal (3.14, por exemplo)
 
-    
     // eu posso endereçar uma constante,
     // desde que qualifique corretamente meu ponteiro
     const float* ppi = & pi;
@@ -54,7 +47,7 @@ Teoricamente a região da memória que contiver uma variável const pode ser qua
 
 Eu costumo usar variáveis const no lugar de defines. Além de ganhar na tipagem as constantes não precisam ser necessariamente globais, nem acessíveis por outros módulos. Um outro uso muito comum é criar variáveis locais que você sabe que não devem ser alteráveis por ninguém, como o tamanho de matrizes primitivas.
 
-```cpp
+```
 namespace Math
 {
 	const float Pi = 3.14;

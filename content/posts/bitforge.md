@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2014-07-03'
 tags:
-- draft
 title: Sobre a BitForge
 ---
 

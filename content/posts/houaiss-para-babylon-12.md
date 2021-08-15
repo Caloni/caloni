@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2010-04-08'
 tags:
-- draft
 title: Houaiss Para Babylon!
 ---
 
@@ -11,7 +10,6 @@ Os últimos comentários de Henrique Esteves (quando havia seção de comentári
 
 Apenas para constar, segue a lista de artigos sobre este projeto:
 
-	
   * Conversor de Houaiss para Babylon - parte 1
   * Conversor de Houaiss para Babylon - parte 2
   * Segunda versão do Houaiss2Babylon

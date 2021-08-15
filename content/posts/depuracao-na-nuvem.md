@@ -1,9 +1,8 @@
 ---
 categories:
 - blog
-date: '2013-04-02'
+date: '2013-04-01'
 tags:
-- draft
 title: Depuração na nuvem com o novo Visual Studio
 ---
 
@@ -21,7 +20,7 @@ Já é conhecido que será possível inserir comentários no código-fonte com o
     000007f9`bd5900ac call _checkesp
     000007f9`bd5900af ...
     000007f9`bd5900ff ...
-    000007f9`bd59015f <span style="color: #ff0000;">call __internal_wait_for_replies</span>
+    000007f9`bd59015f call __internal_wait_for_replies
     000007f9`bd59017f pop esp
     ...
 

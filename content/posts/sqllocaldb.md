@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2019-07-21'
 tags:
-- draft
 title: SLQLocalDB
 ---
 
@@ -44,7 +43,3 @@ Rá, brincadeira. Não tem o código-fonte.
 Um erro frequente e algumas vezes reportado pelas internet é o do login, mesmo. Pesquisando mais a fundo encontrei um artigo no Code Project [3] (quem diria, velhos tempos em que postava nele) de 2014 onde a pessoa explicava que depois de ler muito e testar muito ele descobriu praticamente depurando a instância do SQL Server e descobrindo que o problema estava em um crash que nunca voltava, sendo necessário dropar todas as conexões (ou o conhecido restart que várias pessoas também recomendaram).
 
 Esse não é o meu problema. Meu problema é conseguir rodar a solução na conta de sistema, e desconfio que o modo em que o psexec executa o cmd.exe na conta de sistema pode estar relacionado, pois contas interativas em sistema são fontes clássicas de configuration mismatch (talvez falte ou sobre variáveis de ambiente, alguns handles perdidos, essas coisas).
-
- - [1] https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb
- - [2] https://feedback.azure.com/forums/908035-sql-server/suggestions/36481279-sql-server-2017-express-localdb-shared-instance-co
- - [3] https://www.codeproject.com/Tips/775607/How-to-fix-LocalDB-Requested-Login-failed

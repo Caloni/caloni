@@ -3,7 +3,6 @@ categories:
 - code
 date: '2010-01-18'
 tags:
-- draft
 title: Passagem por valor e emails com anexo
 ---
 

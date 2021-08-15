@@ -3,7 +3,6 @@ categories:
 - code
 date: '2011-01-04'
 tags:
-- draft
 title: Dependência pedindo carona
 ---
 
@@ -31,7 +30,7 @@ Um recurso muito útil para ver essas funções é o Dependency Walker, meu amig
 
 Pois é. As coisas nem sempre acabam sendo como o esperado. Se você possuir uma LIB, por exemplo, e nela existirem duas funções, como abaixo, e você se limitar a usar em seu programa apenas a primeira, todas as dependências da segunda também irão parar no executável final.
 
-```cpp
+```
 #include "LibMod.h"
 #include <windows.h>
 #include <Tlhelp32.h>
@@ -71,7 +70,7 @@ void UsingNewApis()
 
 ```
 
-```cpp
+```
 #include "LibMod.h"
 #include <stdio.h>
 #include <stdlib.h>
@@ -96,7 +95,7 @@ Só que às vezes é prejuízo, também. Quando usamos um SO da época do guaran
 
 Sempre existe. Nesse caso, migrarmos as funções moderninhas para um segundo CPP, recompilarmos a LIB e a dependência milagrosamente desaparecerá!
 
-```cpp
+```
 #include "LibMod.h"
 #include <windows.h>
 #include <Tlhelp32.h>
@@ -113,7 +112,7 @@ int UsingOldApis()
 
 ```
 
-```cpp
+```
 #include "LibMod.h"
 #include <windows.h>
 #include <Tlhelp32.h>
@@ -142,8 +141,6 @@ void UsingNewApis()
 		CloseHandle(snapshot);
 	}
 }
- 
-
 ```
 
 [![depends-process32-not-needed.png](http://i.imgur.com/2qcfbSt.png)](/images/depends-process32-not-needed.png)

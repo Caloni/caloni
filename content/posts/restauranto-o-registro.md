@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
+- code
 date: '2010-02-08'
 tags:
-- draft
 title: Restaurando o registro
 ---
 

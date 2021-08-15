@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2011-07-07'
 tags:
-- draft
 title: E foi-se o TDC
 ---
 

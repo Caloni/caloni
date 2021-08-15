@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2017-02-04'
 tags:
-- draft
 title: Um commit por feature
 ---
 
@@ -16,7 +15,7 @@ Vamos visualizar isso em commits. Você baixa a última versão do dev, começa 
 
 No caso 1, a solução é simples e direta: faça as modificações, rode os testes locais e aplique o commit já no formato definido pela sua equipe (número do ticket, texto no idioma correto, detalhes nos parágrafos abaixo). Suba e mande para code review.
 
-```cmd
+```
 C:\Temp\projectX>git pull
 Already up-to-date.
 
@@ -43,7 +42,7 @@ C:\Temp\projectX>
 
 Se a política de pull request estiver sendo usada, faça isso em um branch à parte, mas já mande para o reviewer aprovar o branch como se fosse um commit apenas e de preferência pronto para o rebase (o que não deve ser nem um problema se for uma mudança pontual).
 
-```cmd
+```
 C:\Temp\projectX>gvim main.cpp
 
 C:\Temp\projectX>git co -b ISS-5-changing-test-return-value
@@ -74,7 +73,7 @@ To ..\projectXRemote
 
 Quando mais de um commit é necessário é porque vai rolar a festa. Vários commits com texto e modificações temporárias podem ser feitos, e caso o trabalho vire a noite, é recomendado subir tudo para um branch temporário remoto (de preferência que já seja identificado pela equipe como o branch para determinado issue).
 
-```cmd
+```
 C:\Temp\projectX>git branch
   ISS-5-changing-test-return-value
 * dev
@@ -142,7 +141,7 @@ Agora nós criamos uma bela duma bagunça, mas em um branch apartado e que ainda
 
 (Obs.: se sua modificação demorou algum tempo é melhor atualizar o branch de dev para ver se há algo novo e fazer o merge com o branch de feature; o rebase daí não encontrará conflitos.)
 
-```cmd
+```
 C:\Temp\projectX>git merge dev
 Already up-to-date.
 
@@ -151,7 +150,7 @@ C:\Temp\projectX>git rebase -i dev
 
 Nesse momento o git irá abrir o editor com os commits trabalhados. Você deverá escolher quais operações fazer com cada commit. Se o objetivo é empacotar tudo, geralmente é pick no primeiro e squash em todos os outros:
 
-```cmd
+```
 pick e09cf24 Starting to test return 42.
 squash 80a7f71 Created backup test.
 squash 9620226 Deleted backup function test.
@@ -162,7 +161,7 @@ squash e612339 Small fix after unit tests.
 
 Ao final da operação mais uma vez o git irá exibir o editor. Agora é hora de você escolher o texto bonitinho, formatadinho, do seu único commit que será usado no branch de dev. Em outras palavras, transformar isso:
 
-```cmd
+```
 # This is a combination of 6 commits.
 # The first commit's message is:
 
@@ -191,7 +190,7 @@ Small fix after unit tests.
 
 Nisso:
 
-```cmd
+```
 ISS-6 A very hard hacking, tested and ready to merge.
 
 This hack involved several operations:
@@ -203,7 +202,7 @@ This hack involved several operations:
 
 Agora na hora de fazer o merge seu histórico estará redondo, sem ramificações e com o resultado final de seu hacking parecendo que foi feito bonito desde o começo (ah, vá):
 
-```cmd
+```
 C:\Temp\projectX>git log
 commit b4de47231f090e897053f4e9d19ea66c88d1f1fa
 Author: Wanderley Caloni <wanderley.caloni@bitforge.com.br>

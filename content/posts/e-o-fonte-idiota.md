@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2015-09-12'
 tags:
-- draft
 title: É o fonte, idiota!
 ---
 

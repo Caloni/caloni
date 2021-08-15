@@ -4,7 +4,6 @@ categories:
 date: '2017-11-20'
 tags:
 - ccppbr
-- draft
 title: Palestras do CCPPBR14
 ---
 

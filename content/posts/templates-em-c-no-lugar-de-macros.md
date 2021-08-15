@@ -3,7 +3,6 @@ categories:
 - code
 date: '2016-01-14'
 tags:
-- draft
 title: Templates em C no lugar de macros
 ---
 
@@ -11,7 +10,7 @@ A grande vantagem dos templates é manter o tipo de seus argumentos. Infelizment
 
 Imagine, por exemplo, a estrutura [LIST_ENTRY](https://msdn.microsoft.com/en-us/library/windows/hardware/ff554296(v=vs.85).aspx), que é uma tentativa de generalizar não só o tipo de uma lista ligada, como seu posicionamento:
 
-```cpp
+```
 typedef struct _LIST_ENTRY {
   struct _LIST_ENTRY  *Flink;
   struct _LIST_ENTRY  *Blink;
@@ -24,7 +23,7 @@ A lógica por trás de LIST_ENTRY é que esse membro pode ser inserido em qualqu
 
 Ele pode estar realmente no __meio__ do elemento, pois isso não importa, desde que você saiba voltar para o começo da estrutura. Isso é útil quando um elemento pode fazer parte de diferentes listas.
 
-```cpp
+```
 typedef struct _LIST_ENTRY {
   struct _LIST_ENTRY  *Flink;
   struct _LIST_ENTRY  *Blink;
@@ -51,7 +50,7 @@ OK, temos uma lista ligada cujo head está inicializado. Para inserir um novo it
 
 O que não temos é como acessar o elemento. Para isso usamos um truque bem peculiar na linguagem C, já disponível também em kernel:
 
-```cpp
+```
 #define CONTAINING_RECORD(address, type, field) \
     ((type *)( \
     (PCHAR)(address) - \
@@ -60,7 +59,7 @@ O que não temos é como acessar o elemento. Para isso usamos um truque bem pecu
 
 Basicamente a macro obtém a partir do endereço zero o offset do membro que é a entrada da lista ligada e subtrai esse ofsset do endereço do próprio campo, ganhando de brinde o tipo de sua estrutura. Usando a macro com nossa estrutura:
 
-```cpp
+```
 void DoSomething(PLINK_LIST pEntry)
 {
 	MeuElemento* pElem = CONTAINING_RECORD(pEntry, MeuElemento, entry);
@@ -71,7 +70,7 @@ void DoSomething(PLINK_LIST pEntry)
 
 Note que entry é o nome, literal, do membro na estrutura, e não há maneira possível com templates de obter isso. A solução? Usar um nome padronizado. O resultado final pode ser parecido com este:
 
-```cpp
+```
 template<typename T>
 T* ContainingRecord(PLIST_ENTRY pEntry)
 {
@@ -81,7 +80,7 @@ T* ContainingRecord(PLIST_ENTRY pEntry)
 
 Em ação:
 
-```cpp
+```
 #include <iostream>
 
 using namespace std;

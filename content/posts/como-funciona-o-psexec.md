@@ -3,7 +3,6 @@ categories:
 - code
 date: '2008-10-29'
 tags:
-- draft
 title: Como funciona o PsExec
 ---
 

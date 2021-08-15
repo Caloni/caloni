@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
+- code
 date: 2017-12-26 18:24:24-02:00
 tags:
-- draft
 title: Cmd e o encoding fake
 ---
 
@@ -31,7 +30,7 @@ Isso, meus amigos, é chamado tecnicamente na área de "muito louco".
 
 Curioso a respeito disso, resolvi observar a saída padrão do cmd.exe, para ver o que diabos vem como resultado. Para isso desenvolvi um simples output redirector tabajara:
 
-```cpp
+```
 #include <Windows.h>
 
 int main(int argc, char* argv[])
@@ -83,7 +82,7 @@ Isso quer dizer que ao receber um "ã" o cmd.exe o reinterpreta como "a", mesmo 
 
 Se analisarmos a memória do cmd.exe veremos que ele armazena as coisas em UTF-16, como qualquer programa Windows nativo unicode.
 
-```bat
+```
 @echo off
 :beg
 dir /b c:\temp\quemquer*

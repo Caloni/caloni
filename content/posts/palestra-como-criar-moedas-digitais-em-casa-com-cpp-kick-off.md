@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2017-02-19'
 tags:
-- draft
 title: 'Palestra: como criar moedas digitais em casa com C++ (kick-off)'
 ---
 
@@ -25,7 +24,7 @@ A primeira coisa é compilar o projeto tiodb, que irá disponibilizar alguns bin
 
 Podemos rodar o tio deixando ele usar os parâmetros padrão ou alterar número da porta e outros detalhes. Vamos executar da maneira mais simples:
 
-```cmd
+```
 C:\Projects\tiocoin\tiodb\bin\x64\Debug>tio
 Tio, The Information Overlord. Copyright Rodrigo Strauss (www.1bit.com.br)
 Starting infrastructure...
@@ -44,7 +43,7 @@ A partir do servidor funcionando é possível criar novos contêineres e mantê-
 
 Vamos criar e popular um contêiner inicial de transações com  um GUID zerado, e a partir dele vamos adicionando novas "transações". Também iremos permitir o monitoramento dessas transações.
 
-```cpp
+```
 try
 {
     tio::Connection conn;

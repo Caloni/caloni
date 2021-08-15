@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2010-04-01'
 tags:
-- draft
 title: Antigo bem-vindo do Cine Tênis Verde
 ---
 

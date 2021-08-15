@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
+- code
 date: '2009-05-25'
 tags:
-- draft
 title: Como compilar em somente um passo
 ---
 
@@ -11,7 +10,6 @@ Uma das primeiras perguntas do [teste do Joel](http://brazil.joelonsoftware.com/
 
 Compilação automática geralmente está disponível nas ferramentas de desenvolvimento. Se você estiver usando o Visual Studio, por exemplo, é possível fazer isso com uma linha:
 
-    
     devenv minha-solução.sln /Rebuild Release
 
 Se não for exatamente o que você precisa, basta fazer uma [pesquisa de quinze minutos](http://www.google.com/search?q=visual%20studio%20automatic%20build) e encontrar os parâmetros corretos. O objetivo é: **eu rodo esse comando em cima do projeto inteiro em uma máquina zerada e ele simplesmente compila**.
@@ -37,10 +35,7 @@ Note que meu script usa a [estrutura padronizada dos diretórios de um projeto](
 
 Aos poucos você pode ir colocando "frescurinhas" em seu build (executa Debug e Release, roda automatizado no servidor, faz testes unitários, incrementa o número da versão, ...), mas algumas premissas sempre se mantêm:
 
-	
   * Deve ser possível compilar o projeto inteiro em um passo
-
-	
   * Deve ser possível usar qualquer máquina de desenvolvimento para isso
 
 Regras simples de ser seguidas se você usar sempre a máxima do [KISS](http://en.wikipedia.org/wiki/KISS_principle).

@@ -1,9 +1,9 @@
 ---
 categories:
-- code
+- blog
 date: '2011-04-28'
+link: https://github.com/Caloni/HouaissParaBabylon
 tags:
-- draft
 title: Houaiss 1.3
 ---
 

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2014-01-08'
+link: https://github.com/Caloni/money
 tags:
-- draft
 title: BovespaBacktesting
 ---
 
@@ -23,16 +23,16 @@ OK, esse assunto já está ficando bem monótono para quem acompanha um blogue d
 
 [![BovespaBacktesting](http://i.imgur.com/zo3G1Hg.png)](/images/11837266166_0fc61be70f_o.png)
 
-O [projeto que mantenho no GitHub](https://github.com/Caloni/BovespaBacktesting) possui algumas ideias que gostaria de compartilhar com todos que estão interessados em realizar um backtesting, independente de sua estratégia. A primeira delas seria de onde baixar o histórico de preços de maneira simples e barata. Eu recomendo e uso o software [Grafix](http://www.grafix2.com/), que consegue baixar as informações diretamente do saite da Bovespa e realizar os ajustes necessários para montar e exibir as informações. Com base no banco de dados do Grafix é que o BovespaBacktesting (meu projeto) importa as informações que ele precisa. Ele irá importar apenas os códigos que estiverem em uma lista disponível no arquivo data/filterCodes relativo de onde o script estiver rodando. Esse arquivo é apenas texto com um código por linha.
+O projeto que mantenho no GitHub possui algumas ideias que gostaria de compartilhar com todos que estão interessados em realizar um backtesting, independente de sua estratégia. A primeira delas seria de onde baixar o histórico de preços de maneira simples e barata. Eu recomendo e uso o software [Grafix](http://www.grafix2.com/), que consegue baixar as informações diretamente do saite da Bovespa e realizar os ajustes necessários para montar e exibir as informações. Com base no banco de dados do Grafix é que o BovespaBacktesting (meu projeto) importa as informações que ele precisa. Ele irá importar apenas os códigos que estiverem em uma lista disponível no arquivo data/filterCodes relativo de onde o script estiver rodando. Esse arquivo é apenas texto com um código por linha.
 
-```python
+```
 def import_quote_from_jgrafix(dataPath):
 
 ```
 
 A partir dessa importação é possível realizar queries com as variações diárias, semanais e mensais dos preços dos ativos conhecidos (a mesma lista de código). A própria lista de ativos conhecidos está disponível através de uma função, tornando a iteração simples e direta.
 
-```python
+```
 def load_quote_data(code):
 def load_week_quote_data(code):
 def load_month_quote_data(code):
@@ -42,7 +42,7 @@ def load_known_codes():
 
 Com essas informações de preço é possível aplicar qualquer tipo de indicador. O BovespaBackteting possui apenas os mais usuais, mas basta implementar a lógica de tratamento em Python, o que não deve consumir nem muito tempo nem muitos neurônios, pois com o histórico disponível tudo fica mais fácil.
 
-```python
+```
 def sma(quote, days = 10):
 def ema(quote, days = 10):
 def macd(quote, shortDays = 12, longDays = 26, signalDays = 9):
@@ -53,7 +53,7 @@ def stop_atr(quote, multiplier = 3):
 
 As funções-macro calculam trades (operações) a partir de alguns parâmetros definidos no código ou por parâmetros. As versões do BovespaBacktesting foram variando nesse sentido. Ainda não há uma maneira saudável de comparar diversas estratégias, pois o que eu tenho feito basicamente é alterar alguns parâmetros, rodar o backtesting e exportar para um CSV (função já disponível).
 
-```python
+```
 def calc_trades(code, trend, signal):
 def calc_all_trades():
 def calc_total_trades(equity, risk, b1, bs):

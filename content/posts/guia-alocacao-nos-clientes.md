@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2015-03-04'
 tags:
-- draft
 title: Guia de alocação (nos clientes)
 ---
 

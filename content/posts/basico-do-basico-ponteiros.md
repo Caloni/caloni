@@ -3,11 +3,10 @@ categories:
 - code
 date: '2008-12-06'
 tags:
-- draft
 title: 'Básico do básico: ponteiros'
 ---
 
-![Alicerces de uma casa.](http://i.imgur.com/8jW9wJy.png)Nessas últimas semanas tenho gastado meu tempo junto da mais nova pupila da [SCUA](http://www.scua.com.br), aspirante a programadora em C e Install Shield Script. Minha tarefa? Explicar tudo, desde o mais simples, como **variáveis**, até as coisas não tão triviais, como **símbolos de depuração**.
+Nessas últimas semanas tenho gastado meu tempo junto da mais nova pupila da [SCUA](http://www.scua.com.br), aspirante a programadora em C e Install Shield Script. Minha tarefa? Explicar tudo, desde o mais simples, como **variáveis**, até as coisas não tão triviais, como **símbolos de depuração**.
 
 Posso afirmar que tem sido muito compensador ativar algumas partes do meu cérebro que acreditava nem mais existirem. Rever velhos conceitos, apesar de manjados, nos dá a oportunidade de lembrar que as coisas mais complexas que construímos no dia-a-dia se baseiam em um punhado de preceitos básicos que é essencial ter na cabeça. E nunca esquecê-los.
 
@@ -25,8 +24,7 @@ Deve ter ficado óbvio, mas se não ficou: o armário é a memória RAM, as gave
 
 [![Gavetas representando posições na memória.](http://i.imgur.com/sx9fYjS.gif)](/images/pointers-drawer.gif)
 
-[
-](http://i.imgur.com/GcnMNxv.jpg)
+![Draft: Pointers, Strings and Arrays](/img/draft-pointers-strings-arrays.jpg)
 
 Outros conceitos que costumo utilizar é relacionar a memória RAM com a memória do programa e contar a memória como se contam carneirinhos. Dessa forma fica fácil pelo menos entender dois conceitos fundamentais na arte dos ponteiros: memória e endereço.
 
@@ -36,30 +34,20 @@ O segundo passo, acredito eu, é entender como a memória é dimensionada atrav�
 
 Por isso, segue uma lista de tarefas interessantes para exercitar o conceito de ponteiros:
 
-	
   * Criar funções que modificam números passados como parâmetro.
-
-	
   * Criar funções que modificam texto passado como parâmetro.
-
-	
   * Alocar e desalocar memória dinamicamente.
 
 Tarefas mais específicas da minha área e que uso o tempo todo:
 
-	
   * Escrever e ler texto em arquivos.
-
-	
   * Escrever e ler no registro do Windows.
-
-	
   * Obter o endereço de uma função do Windows dinamicamente. E chamá-la.
 
     Nota: Não use as classes superiores de C++ nem referências. Estou falando de estudar ponteiros nua e cruamente. Não seja preguiçoso. Algumas coisas devem ser feitas da maneira mais "primitiva" até se entender com o que se está lidando. Lembre-se que os melhores programadores possuem os alicerces mais fortes.
 
 #### Bônus Points: Fantoches!
 
-Este vídeo é o mais didático do universo sobre como funcionam ponteiros em C. Veja e mostre pros seus filhos:
+Este [vídeo] é o mais didático do universo sobre como funcionam ponteiros em C. Veja e mostre pros seus filhos.
 
-<div class="auto-resizable-iframe"><div><iframe frameborder="0" allowfullscreen="1" src="https://www.youtube.com/embed/mnXkiAKbUPg"></iframe></div></div>
+[vídeo]: https://www.youtube.com/watch?v=5VnDaHBi8dM&ab_channel=Napalm

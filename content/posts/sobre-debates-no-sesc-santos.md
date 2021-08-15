@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2015-08-03'
 tags:
-- draft
 title: Sobre debates no SESC Santos
 ---
 

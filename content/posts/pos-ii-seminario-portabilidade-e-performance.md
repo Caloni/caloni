@@ -4,7 +4,6 @@ categories:
 date: '2010-12-21'
 tags:
 - ccppbr
-- draft
 title: Pós-II Seminário Portabilidade e Performance
 ---
 
@@ -15,5 +14,3 @@ A ordem das palestras também ajudou muito a tecer os conteúdos individuais par
 Pra terminar, um apanhado de boas práticas e  a experiência de quem já mexeu muito com análise e desempenho no código: Rodrigo Strauss. Além das dicas e do bom humor costumeiros, tivemos uma pequena prévia do que poderemos ter em breve com o tema "C++ com outra linguagens".
 
 Deixarei disponibilizado para download minha transparência, onde infelizmente não estão embutidos o áudio nem o vídeo do momento realmente importante,que foi a interação do grupo durante a apresentação. Se você perdeu, so sorry. Até a próxima!
-
-  * Saite do evento

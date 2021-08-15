@@ -2,9 +2,7 @@
 categories:
 - code
 date: 2018-08-30 14:41:33-03:00
-desc: Sample de parse de argv/argc usando apenas strcmp.
 tags:
-- draft
 title: 'GetArg: the ultimate badass argv/argc parser'
 ---
 

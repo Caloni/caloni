@@ -3,8 +3,7 @@ categories:
 - code
 date: 2017-07-27 09:39:22-03:00
 tags:
-- draft
-title: Forma Mais Simples De Depurar Processos Antes Do Logon
+title: Forma Mais Simples de Depurar Processos Antes do Logon
 ---
 
 No [post anterior sobre debug](/debugger-remoto-do-visual-studio) eu havia me focado mais na depuração de processos remotos no Visual Studio 2003 de maneira convencional. Aqui eu vou abordar o assunto de uma maneira menos convencional: usando o Visual Studio 2017 mais novo e depurando uma DLL (C++) que é carregada por um serviço antes do logon no Windows 7.
@@ -35,7 +34,7 @@ Isso cria um serviço de start automático que irá iniciar o debugger na ponta 
 
 Para este exemplo vamos usar um programa console que será convertido, assim como o msvsmon, em serviço, e uma DLL que ele carrega, chamando dois métodos; um de start, outro de stop. Nosso objetivo aqui é começar a depurar a DLL logo em seu início, na chamada do start.
 
-```c++
+```
 #include <iostream>
 #include <windows.h>
 
@@ -60,7 +59,7 @@ int main()
 
 As funções de start e stop não fazem nada, apenas imprimem um passou-por-aqui:
 
-```c++
+```
 #include "DLL.h"
 #include <iostream>
 
@@ -97,7 +96,7 @@ Lembre-se de iniciar o serviço.
 
 Após esse teste podemos modificar a DLL para aguardar por um depurador:
 
-```c++
+```
 #include <windows.h>
 
 void DLL_Start()

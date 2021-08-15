@@ -3,7 +3,6 @@ categories:
 - code
 date: 2018-02-20 00:06:40-03:00
 tags:
-- draft
 title: Variáveis static local Nunca São Inicializadas Se Você Não Chama Sua Função
 ---
 

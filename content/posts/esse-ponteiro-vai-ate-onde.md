@@ -3,7 +3,6 @@ categories:
 - code
 date: '2011-01-17'
 tags:
-- draft
 title: Esse ponteiro vai até onde?
 ---
 
@@ -11,7 +10,7 @@ Brincando com obtenções e conversões de SIDs, tive uma pequena dificuldade de
 
 Ora, mesmo que não venhamos a escrever nessa memória de tamanho obscuro, não é de bom tom ler além da conta. Não há garantias que o que estiver após o SID é seguro. Pode até ser o final de uma página de  memória, por exemplo, e o seu programa capota por causa de um singelo "Memory could not be read". Que coisa sem graça!
 
-[](/images/SXf7NsR.png)
+![](/img/psid-e-o-buraco-negro.png)
 
 Sempre que me vejo com problemas desse tipo procuro informações primeiro  no próprio MSDN, segundo na cabeça e terceiro no Google. Nesse caso em  específico a cabeça deu um jeito, pois imaginei que houvesse alguma  forma de pegar o tamanho da memória alocada através das funções Local (se a API precisa de LocalFree para desalocar sua memória, é óbvio que  ela usou LocalAlloc para alocá-la, mesmo que não tenhamos o código-fonte  para comprovar).
 

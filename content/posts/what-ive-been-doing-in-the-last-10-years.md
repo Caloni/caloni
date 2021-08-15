@@ -1,9 +1,9 @@
 ---
 categories:
-- code
+- blog
 date: '2009-08-17'
 tags:
-- draft
+- english
 title: What I've been doing in the last 10 years
 ---
 

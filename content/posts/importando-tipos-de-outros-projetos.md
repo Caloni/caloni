@@ -3,13 +3,11 @@ categories:
 - code
 date: '2010-01-11'
 tags:
-- draft
 title: Importando tipos de outros projetos
 ---
 
 A engenharia reversa das entranhas do kernel não tem limites se você sabe o que está fazendo. No entanto, algumas facilidades do depurador podem ajudar a minimizar o tempo que gastamos para analisar uma simples estrutura. Por exemplo, o [Process Environment Block](http://msdn.microsoft.com/en-us/library/aa813706%28VS.85%29.aspx) de um processo específico.
 
-    
     windbg -kl
     
     Microsoft (R) Windows Debugger Version 6.9.0003.113 X86
@@ -33,7 +31,7 @@ A engenharia reversa das entranhas do kernel não tem limites se você sabe o qu
     Copyright (c) Microsoft Corporation. All rights reserved.
     
     lkd> !process 0 0 notepad.exe
-    <font color="#0000ff">PROCESS 89068700 </font> SessionId: 0  Cid: 0ec4   <font color="#0000ff"> Peb: 7ffda000</font>  ParentCid: 0b0c
+    PROCESS 89068700  SessionId: 0  Cid: 0ec4    Peb: 7ffda000  ParentCid: 0b0c
         DirBase: 0ac80a80  ObjectTable: e143a7d8  HandleCount: 152.
         Image: notepad.exe
 
@@ -56,7 +54,7 @@ Compilamos e geramos um PDB (arquivo de símbolos) que contém a definição des
     
     Unloaded modules:
     a5513000 a553e000   kmixer.sys
-    <font color="#0000ff">bac50000 bac57000   USBSTOR.SYS</font>
+    bac50000 bac57000   USBSTOR.SYS
     a5711000 a5746000   truecrypt.sys
     a5731000 a5746000   wudfrd.sys
     a5a19000 a5a23000   wpdusb.sys
@@ -73,7 +71,7 @@ Compilamos e geramos um PDB (arquivo de símbolos) que contém a definição des
     Compiling...
     KernelTypes.cpp
     Linking...
-    LINK : program database c:\Tests\KernelTypes\Debug\<font color="#0000ff">KernelTypes.pdb</font> missing; performing full link
+    LINK : program database c:\Tests\KernelTypes\Debug\KernelTypes.pdb missing; performing full link
     Embedding manifest...
     Build log was saved at "file://c:\Tests\KernelTypes\Debug\BuildLog.htm"
     KernelTypes - 0 error(s), 0 warning(s)
@@ -82,21 +80,21 @@ Compilamos e geramos um PDB (arquivo de símbolos) que contém a definição des
     Microsoft Windows XP [versÎáÎ÷Îýo 5.1.2600]
     (C) Copyright 1985-2001 Microsoft Corp.
     
-    C:\Tests\KernelTypes\Debug>ren KernelTypes.pdb <font color="#0000ff">usbstor.pdb</font>
+    C:\Tests\KernelTypes\Debug>ren KernelTypes.pdb usbstor.pdb
     
     lkd> .sympath C:\Tests\KernelTypes\Debug
     Symbol search path is: C:\Tests\KernelTypes\Debug
-    <font color="#0000ff">lkd> .reload /i /f usbstor.sys</font>
+    lkd> .reload /i /f usbstor.sys
     lkd> lm m usb*
     start    end        module name
-    bac60000 bac66700   USBSTOR  M (private pdb symbols)  <font color="#0000ff">C:\Tests\KernelTypes\Debug\usbstor.pdb</font>
+    bac60000 bac66700   USBSTOR  M (private pdb symbols)  C:\Tests\KernelTypes\Debug\usbstor.pdb
 
 Depois que o símbolo foi carregado em nosso módulo de mentirinha, tudo que temos a fazer é alterar o contexto do processo atual (para que os endereços de user mode façam sentido) e moldar nossa memória com o comando [dt](http://windbg.info/doc/1-common-cmds.html#12_thread), usando o tipo importado do símbolo carregado.
 
     
     lkd> .process 89068700
     Implicit process is now 89068700
-    lkd> dt <font color="#0000ff">usbstor!_peb</font> 7ffda000
+    lkd> dt usbstor!_peb 7ffda000
        +0x000 InheritedAddressSpace : 0xdc ''
        +0x001 ReadImageFileExecOptions : 0xff ''
        +0x002 BeingDebugged    : 0x35 '5'

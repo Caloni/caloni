@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2010-10-22'
 tags:
-- draft
 title: Atualizando HouaissParaBabylon no saite
 ---
 

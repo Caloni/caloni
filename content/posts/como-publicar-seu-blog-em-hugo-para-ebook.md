@@ -2,10 +2,7 @@
 categories:
 - blog
 date: 2019-07-10 00:08:25-03:00
-desc: Dicas de como publicar o conteúdo que você escreve em um formato simples de
-  guardar.
 tags:
-- draft
 title: Como Publicar Seu Blog Em Hugo Para Ebook
 ---
 
@@ -13,7 +10,7 @@ Eu publico meu blog inteiro de tempos em tempos para um ebook que construo forma
 
 A primeira coisa a ser feita é preparar um tema para formatar seu html. Eu já tenho um [linkado no meu blogue](https://github.com/Caloni/book/tree/f1663ad104f51459fe7d17e9ce1e0305901330b4) e que precisa apenas formatar o index.html, pois todo o conteúdo e índices estarão lá. Segue um exemplo atual que uso. Ele possui índice alfabético, inclusão de um arquivo-diário que mantenho, listagem das categorias (com índices para cada uma delas) e listagem cronológica (e link para pular direto para o conteúdo).
 
-```html
+```
 <!DOCTYPE html>
   <head>
     <title>Blogue do Caloni</title>
@@ -104,7 +101,7 @@ A primeira coisa a ser feita é preparar um tema para formatar seu html. Eu já 
 
 Como eu uso Kindle eu construo a partir desse html um arquivo .mobi, mas creio ser simples de construir qualquer outro formato através desse html final. No caso do Kindle preciso de alguns arquivos para usar o [kindlegen](https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000765211) (a ferramenta da Amazon) que mantenho na pasta `static` do hugo, como o `.ncx` e o `.opf` (além da capa, `cover.jpg`). Uso uma batch muito pequena para fazer todos os passos e copiar o `.mobi` resultante para meu Kindle (conectado por um cabo USB e com um drive montado em K:).
 
-```bat
+```
 rem @echo off
 hugo -D --theme book --destination book
 pushd book

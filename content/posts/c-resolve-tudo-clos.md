@@ -5,7 +5,6 @@ date: 2019-05-17 19:04:53-03:00
 desc: Implementação de sistema polimórfico de chamada de métodos do CLOS (Common Lisp
   Object System). Atualizado em 2019-05-19 para retirar todo C++ e usar glib.
 tags:
-- draft
 title: C Resolve Tudo Clos
 ---
 
@@ -21,7 +20,7 @@ A implementação está [no GitHub](https://github.com/Caloni/cdefgeneric).
 
 Para o sistema de tipos em C nada como fazer do zero:
 
-```c
+```
 /* defclass(foo, cclass_instance); */
 typedef struct foo_instance { cclass_instance type; } foo_instance;
 static foo_instance foo = { "foo" };
@@ -37,7 +36,7 @@ static bar_instance bar = { "bar" };
 
 Inicialmente feito em STL pela produtividade, a solução atual no GitHub é feita inteiramente em C usando a [glib](https://developer.gnome.org/glib/) (lib comum em Linux com estrutura de dados, etc). O legal dessa biblioteca é que ela tem 20 anos (desde 1998) e já foi muito usada e testada, além de possuir estruturas e algoritmos simples que fazem parte do pacote básico de qualquer programador, como arrays, strings, hash tables.
 
-```c
+```
 #include "cclos.h"
 #include <stdarg.h>
 #include <string.h>
@@ -299,7 +298,7 @@ O código é bem simples. Mapas e listas com strings e ponteiros para organizar 
 
 O código que utiliza a clos.c é bem direto e enxuto. Como no Lisp.
 
-```c
+```
 #include "cclos.h"
 #include <stdio.h>
 

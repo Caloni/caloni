@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2017-02-09'
 tags:
-- draft
 title: 'UEFI: dê adeus à MBR'
 ---
 

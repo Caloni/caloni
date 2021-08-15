@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2017-02-27'
 tags:
-- draft
 title: Atalhos no terminal do Linux/Unix
 ---
 

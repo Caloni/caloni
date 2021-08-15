@@ -3,11 +3,8 @@ categories:
 - code
 date: '2010-10-26'
 tags:
-- draft
 title: FormatMessage para... dumies?
 ---
-
-[![Peixe Gelatinoso Bizarro do Brasil (conhece esse país?)](http://i.imgur.com/8ZZjHlM.jpg)](http://www.caloni.com.br/blog/formatmessage-para-dumies/peixe-gelatinoso-bizarro-do-brasil-conhece-esse-pais/)
 
 Já foi comentado em alguns círculos de ótimos programadores que a função da Win32 API [FormatMessage](http://msdn.microsoft.com/en-us/library/ms679351%28VS.85%29.aspx) é uma das criaturas mais bizarras já criadas.
 
@@ -44,10 +41,7 @@ No caso do FormatMessage, a variável dwFlags se divide em dois para especificar
 
 O parâmetro mais polêmico é o que possui vários significados. No caso de lpSource, existem dois significados possíveis:
 
-    
   1. **FORMAT_MESSAGE_FROM_HMODULE**. Ele é um HANDLE para um módulo.
-
-    
   2. **FORMAT_MESSAGE_FROM_STRING**. Ele é um ponteiro para string.
 
 Isso explica por que essas duas flags são exclusivas: ou uma ou outra. Mesmo que a flag FORMAT_MESSAGE_FROM_SYSTEM seja usada, a função tentará achar a definição da mensagem no módulo especificado por lpSource primeiro, antes de ir buscar nas tabelas do sistema.
@@ -92,7 +86,7 @@ Se der errado a função retorna zero. É possível obter o erro através de Get
 
 Pensou que acabaria por aqui? E qual o significado das sequências de escape dentro da mensagem-modelo? O formato básico para inserção de um argumento segue o seguinte padrão:
 
-%n!<format-string>!
+    %n!<format-string>!
 
 Onde n é o número que identifica o argumento, como já vimos, e <format-string> é um espaço reservado para identificarmos o tipo do argumento e como ele aparecerá na mensagem de saída.
 
@@ -110,7 +104,7 @@ Como os programadores habituados com ataques de stack overrun devem deduzir, uma
 
 Esse também é um bônus da MSDN, que te presenteia com exemplos de código tão fantasiosos quanto a própria função, veja o primeiro exemplo, por exemplo:
 
-```cpp
+```
 #include windows.h
 #include stdio.h
 
@@ -147,7 +141,7 @@ Depois ele chega a reimplementar o exemplo usando va_list, o que é muito intere
 
 Esse é o uso clássico: precisamos de uma descrição de um código de erro para o usuário; um código Win32. A chamada para esse tipo de uso pode ser encapsulada em uma função mais simples:
 
-```cpp
+```
 #define _CRT_SECURE_NO_WARNINGS // quanta frescura...
 #include <tchar.h>
 #include <windows.h>

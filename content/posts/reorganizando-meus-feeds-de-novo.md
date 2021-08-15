@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2011-03-10'
 tags:
-- draft
 title: Reorganizando meus feeds (de novo)
 ---
 
@@ -11,7 +10,6 @@ Depois da minha opinião dada ao Efetividade na matéria sobre ferramentas para 
 
 Porém, ainda utilizo o Google Reader por uma série de motivos:
 
-	
   * Integrado com as ferramentas Google, que eu venero;
   * Tem atalhos no teclado, que eu venero
   * Consigo anotar o que quiser em qualquer página que navegar;
@@ -21,7 +19,6 @@ Minha organização de feeds, até semana passada, usava categorias específicas
 
 Por isso, para evitar ser abarrotado de notícias, mantenho a seguinte organização de categorias:
 
-	
   1. Notícias: todos os feeds que cospem milhares de entradas. Organizo por "mágica" e leio apenas os que ficarem no topo. Ao final, clico no famigerado "Mark all as read" e fim de história.
   2. Diário: leituras imediatas, que não requerem mais que cinco minutos, como a tirinha do Dilbert e minhas pesquisas cadastradas no Google.
   3. Semanal: leitura um pouco mais demorada, para quando tiver mais que 10 minutos sobrando.

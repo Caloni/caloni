@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2012-06-04'
 tags:
-- draft
 title: Meus repositórios no GitHub
 ---
 

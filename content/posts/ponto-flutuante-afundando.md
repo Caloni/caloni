@@ -3,13 +3,12 @@ categories:
 - code
 date: '2013-11-07'
 tags:
-- draft
 title: Ponto Flutuante Afundando
 ---
 
 Quando armazenamos valores monetários em doubles seus cálculos conseguem manter a precisão e na maioria das vezes o ajuste de precisão funciona. Porém, encontrei alguns casos onde a subtração de dois valores fazia "perder" um centavo (ou comparações exatas) justamente pela limitação da precisão do ponto flutuante. Nesse exemplo os valores são 2.358,93 - 1.386,93, que em uma conta de padaria (mas correta) dá 972,00 ([até a Calc do Windows](http://www.codinghorror.com/blog/2009/01/if-you-dont-change-the-ui-nobody-notices.html) e [o Excel](http://dqsoft.blogspot.com.br/2007/09/ser-que-o-excel-2007-desaprendeu.html) funcionam), mas pelo Visual Studio 2010 chega perto, mas erra o alvo:
 
-```cpp
+```
 #include <iostream>
 
 int main()
@@ -54,7 +53,7 @@ Na comparação com o valor redondo aparece a falha, mas note que isso não ocor
 
 Há uma forma de arredondamento [já disponível no C99](http://stackoverflow.com/questions/8316509/difference-dev-cpp-and-microsoft-visual-c-math-h) (mas não no Visual Studio 2010) que pode ser útil para esses casos. A única coisa que é preciso fazer é arredondar os valores antes do cálculo:
 
-```cpp
+```
 #include <iostream>
 
 double round(double r)

@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2011-06-10'
 tags:
-- draft
 title: Trilha de C++ organizada pelo grupo C/C++ Brasil
 ---
 

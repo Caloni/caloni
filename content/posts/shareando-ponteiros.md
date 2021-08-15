@@ -3,7 +3,6 @@ categories:
 - code
 date: '2014-09-03'
 tags:
-- draft
 title: Shareando Ponteiros
 ---
 
@@ -21,14 +20,14 @@ Cada caso é um caso, existe o melhor dos mundos e o pior. Mas (quase) todos tê
 
 Um cenário perfeito para começar. A única coisa que você precisa fazer em seus novos projetos e refatorações é incluir um único cabeçalho:
 
-```cpp
+```
 #include <memory>
 
 ```
 
 E pronto! Se abriu um mundo mágico onde as alocações serão compartilhadas entre funções sem se perder quem deleta o quê. Não precisa nem checar se o ponteiro é nulo, basta alocar direto e jogar para dentro do nosso mais novo smart pointer da STL:
 
-```cpp
+```
 #include <memory>
 #include <string>
 #include <iostream>
@@ -154,7 +153,7 @@ Pois é, 37 erros. Depois perguntam por que as pessoas ficam com medo de program
 
 Porém, a correção é mais simples do que parece: baixar o [boost](http://www.boost.org/) e trocar o nome do namespace.
 
-```cpp
+```
 #include <boost/shared_ptr.hpp>
 
 //...
@@ -171,7 +170,7 @@ _ATENÇÃO! Nos meus testes a única versão funcionando com o VS2003 foi a 1.47
 
 Não existe situação difícil que não possa piorar. Porém, mesmo nesse caso ainda há algo a se fazer, já que smart pointer utilizam mecanismos existentes na linguagem C++ desde os primórdios (ou bem próximo disso). Tudo que você precisa para criar seu próprio shared_ptr é do construtor padrão, do destrutor padrão, do construtor de cópia e dos operadores de atribuição e ponteiro. E, claro, não se esqueça de usar template se for permitido. Se não for, a coisa complica, mas não se torna impossível.
 
-```cpp
+```
 #pragma once
 
 // Não façam isso em casa! Usem modelo de smart pointers já construídos (como o do boost).
@@ -235,7 +234,7 @@ private:
 
 ```
 
-```cpp
+```
 #include "shared_ptr.h"
 
 //...

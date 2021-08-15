@@ -3,7 +3,6 @@ categories:
 - code
 date: '2010-04-10'
 tags:
-- draft
 - english
 title: Using TodoList and Microsoft Project together
 ---
@@ -12,7 +11,7 @@ The next article about bits is still in the oven. Taking vacation (40 days) had 
 
 The reasons why I am using TodoList are kind of obvious: it does everything I need to organize my day to day tasks and it is portable. Meanwhile, the Project, besides not being portable (I need to carry on with me a 200 MB installer? And do install?) it uses a hard to change format and it was made to project the world, and not to be easily shared.
 
-So, let's go. Everything we need is a current edition of TodoList and Microsoft Project. The first thing we must to do é to export the tasks we want to a default CSV, using the columns we would like to import to Project:
+So, let's go. Everything we need is a current edition of TodoList and Microsoft Project. The first thing we must to do é to export the tasks we want to a default CSV, using the columns we would like to import to Project.
 
 After that it comes the tricky thing, but not so much. We open the project to where we want to import the tasks and choose the option Open again, but this time we select our friend exported-tasks.CSV.
 

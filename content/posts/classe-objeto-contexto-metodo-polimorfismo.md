@@ -3,13 +3,13 @@ categories:
 - code
 date: '2016-01-12'
 tags:
-- draft
+- ccpp
 title: Classe, objeto, contexto, método, polimorfismo
 ---
 
 No [post anterior](/classe-objeto-contexto-metodo) implementamos "métodos" em C usando ponteiros de função dentro de structs que eram passadas como parâmetro. Tudo isso embutido por um compilador que gera o que chamamos de instância de uma classe, ou objeto, em C++. Isso é possível graças ao contexto que é passado para uma função (que no caso de C++ é o operador implícito __this__, que sempre existe dentro de um método não-estático).
 
-```cpp
+```
 ClasseCpp obj;
 obj.Metodo(); // passando this implicitamente
 
@@ -20,7 +20,7 @@ obj.Metodo(&obj); // passando this explicitamente
 
 Para objetos não-polimórficos, o C++ não precisa mudar essa tabela de funções que os objetos de uma classe contém. No entanto, quando há pelo menos um método virtual, surge a necessidade de se criar a famigerada __vtable__, ou seja, justamente uma tabela de ponteiros de função, que dependem da classe instanciada (base ou algumas das derivadas). Se uma classe derivada sobrescreve um método de alguma classe base, é o endereço desse método que irá existir na _vtable_. Já vimos isso [há muito tempo atrás](/vtable) escovando os bits da vtable direto no assembly e na pilha.
 
-```cpp
+```
 #include <iostream>
 
 class MinhaClasse
@@ -63,7 +63,7 @@ int main()
 
 Como você deve imaginar, é possível também fazer isso em C. Basta mudar os endereços das variáveis do tipo ponteiro de função que estão na struct usada como contexto. Para ficar o mais próximo possível do "modo C++" de fazer polimorfirmo, podemos escrever _hardcoded_ a tal _vtable_ para os diferentes tipos de "classe":
 
-```cpp
+```
 #include <stdio.h>
 
 struct MinhaVTable;

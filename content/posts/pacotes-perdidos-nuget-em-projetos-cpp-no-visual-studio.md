@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
+- code
 date: '2017-02-08'
 tags:
-- draft
 title: Pacotes perdidos do NuGet em projetos C++ no Visual Studio
 ---
 
@@ -19,7 +18,7 @@ Que nem hoje de manhã, quando fui inocentemente baixar uma versão limpa do [ti
 
 Os pacotes do projeto ficam todos na raiz do diretório da solução na sub-pasta packages. Observando o que foi baixado lá, verifiquei que a versão do boost estava ok: ele havia baixado a 1.61 como pedido, mas o erro dizia respeito justamente a um desses pacotes.
 
-```cmd
+```
 C:\Projects\tiodb>dir /b packages
 boost.1.61.0.0
 boost_chrono-vc140.1.61.0.0
@@ -33,7 +32,7 @@ boost_thread-vc140.1.61.0.0
 
 O maior problema disso é que não há muitas opções na IDE que resolvam. O arquivo packages.config deveria manter essas dependências, o que de fato ele faz. As opções do projeto (as abinhas do Visual Studio onde ficam as configurações) não possuem nada relacionado ao NuGet.
 
-```xml
+```
 <?xml version="1.0" encoding="utf-8"?>
 <packages>
   <package id="boost" version="1.61.0.0" targetFramework="native" />
@@ -49,7 +48,7 @@ O maior problema disso é que não há muitas opções na IDE que resolvam. O ar
 
 Então não tem jeito. Há algo de podre dentro desse projeto e o próprio Visual Studio não vai resolver. Grep nele!
 
-```cmd
+```
 C:\Projects\tiodb>grep -r -i "boost.*1.61" --include=*proj .
 ./server/tio/tioserver.vcxproj:    <Import Project="packages\boost.1.61.0.0\build\native\boost.targets" Condition="Exists('packages\boost.1.61.0.0\build\native\boost.targets')" />
 ./server/tio/tioserver.vcxproj:    <Error Condition="!Exists('packages\boost.1.61.0.0\build\native\boost.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\boost.1.61.0.0\build\native\boost.targets'))" />
@@ -58,7 +57,7 @@ C:\Projects\tiodb>grep -r -i "boost.*1.61" --include=*proj .
 
 Note (e é preciso prestar atenção!) que o projeto server/tio/tioserver.vcxproj referencia a pasta packages como se ela existisse dentro do projeto. Porém, como já sabemos, ela existe na raiz da solution, que fica duas pastas "para trás". Isso nos indica que talvez o NuGet ainda não esteja tão redondo e que um possível teste é mudar esses valores na mão e ver o que acontece.
 
-```cmd
+```
 gvim server\tio\tioserver.vcxproj
 :%s/packages\\boost/..\\..\\packages\\boost/g
 :wq
@@ -66,7 +65,7 @@ gvim server\tio\tioserver.vcxproj
 
 ![](http://i.imgur.com/BLUS8XJ.png)
 
-```cmd
+```
 1>------ Build started: Project: tioclientdll, Configuration: Debug x64 ------
 2>------ Build started: Project: tioserver, Configuration: Debug x64 ------
 2>  tioserver.vcxproj -> C:\Projects\tiocoin\tiodb\server\tio\..\..\bin\x64\Debug\tio.exe

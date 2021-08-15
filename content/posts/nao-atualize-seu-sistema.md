@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2016-01-28'
 tags:
-- draft
 title: Não Atualize seu Sistema
 ---
 

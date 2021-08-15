@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2018-03-21'
 tags:
-- draft
 title: Projeto Aluno
 ---
 

@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2014-07-16'
 tags:
-- draft
 title: 'TDC 2014: Segurança'
 ---
 

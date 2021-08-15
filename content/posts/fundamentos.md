@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2015-10-21'
 tags:
-- draft
 title: Fundamentos
 ---
 

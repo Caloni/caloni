@@ -4,7 +4,6 @@ categories:
 date: '2015-07-27'
 tags:
 - ccppbr
-- draft
 title: Existem programadores C/C++ no Rio de Janeiro?
 ---
 

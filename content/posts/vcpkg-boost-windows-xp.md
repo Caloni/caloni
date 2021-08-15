@@ -1,9 +1,8 @@
 ---
 categories:
-- code
+- blog
 date: '2019-09-16'
 tags:
-- draft
 title: 'Vcpkg: Boost para Windows XP'
 ---
 

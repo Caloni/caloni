@@ -3,7 +3,6 @@ categories:
 - code
 date: '2009-09-09'
 tags:
-- draft
 title: 'O boot no Windows: pré-NTLDR'
 ---
 
@@ -12,8 +11,6 @@ Conforme fui estudando para recordar os momentos sublimes do boot do Windows me 
 O meu [primeiro artigo](http://www.caloni.com.br/o-boot-no-windows-sem-windows) sobre o boot sem Windows foi 80% escrito com o que eu já sabia de cabeça de tanto [mexer na MBR](http://www.caloni.com.br/depuracao-da-mbr)  e de tanto [depurar o processo de boot em 16 bits](http://www.caloni.com.br/debug-da-bios-com-o-softice-16-bits). Os artigos posteriores seriam escritos com uma pitada do que sei mais a "inspiração" da minha pesquisa. Apesar de não parecer pouco para os que não sabem inglês, deixa a desejar para os que sabem (boa parte dos meus leitores, imagino).
 
 Nesse caso decidi salpicar a explicação com uma boa dose de _reversing_ para aproveitarmos a caminhada e fuçarmos um pouco no funcionamento interno dos componentes de boot e ver no que dá. Antes de começar, porém, aviso que este não é um tratado sobre o sistema de boot. Eu diria que é apenas o resultado de algumas mexidas inconsequentes pelo _disassembly _do código de boot. Espero encontrar alguém tão curioso (ou mais) do que eu que compartilhe o que achou de todo esse processo. Antes de mais nada um mapinha para vermos até onde chegamos:
-
-[](http://i.imgur.com/MfxtBx5.png)
 
 [![boot-map.png](http://i.imgur.com/MfxtBx5.png)](/images/boot-map.png)
 

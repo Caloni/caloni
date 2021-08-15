@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2009-12-14'
 tags:
-- draft
 title: Devaneio nerd rápido sobre aniversários
 ---
 

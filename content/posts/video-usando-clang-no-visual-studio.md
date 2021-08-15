@@ -2,8 +2,9 @@
 categories:
 - code
 date: '2016-12-27'
+link: https://youtu.be/TWvY9ynmIDM
 tags:
-- draft
+- videos
 title: 'Vídeo: Usando clang no Visual Studio'
 ---
 
@@ -16,8 +17,6 @@ Este é um guia bem básico, mas atende os requisitos de quem quer começar a me
  3. Implementar uma feature ainda não suportada pelo Visual Studio.
  4. Utilizar essa feature no Console Win32.
  5. Corrigir e entender problemas no meio do caminho.
-
-https://www.youtube.com/embed/dMY91ojS0tw
 
  - CLang
  - LLVM

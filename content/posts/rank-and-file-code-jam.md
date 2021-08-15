@@ -1,9 +1,8 @@
 ---
 categories:
-- blog
+- code
 date: '2016-04-16'
 tags:
-- draft
 title: Rank and File (Code Jam)
 ---
 
@@ -13,7 +12,7 @@ Basicamente, o problema pede que, dado um quadrado de tamanho N, e 2*N-1 linhas 
 
 Bom, não consegui chegar numa solução para o problema errado (encaixar as linhas), mas fui, como sempre, dar uma espiada nas respostas dos competidores, em especial a do [primeiro colocado](https://code.google.com/codejam/contest/4304486/scoreboard#vf=1). O grande barato de competições como essa é aprender com a inteligência e genialidade dos outros. Para mim, esse é um exemplo de genialidade:
 
-```cpp
+```
 int cnt[2501] = {}; // zerando o array
 
 int main()

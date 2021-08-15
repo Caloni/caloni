@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2011-01-18'
 tags:
-- draft
 title: Atividades extracurriculares
 ---
 
@@ -11,16 +10,9 @@ Essa é uma resposta a um simpático e-mail de um leitor, o Fabio, me perguntand
 
 Entusiasta ao máximo, ele montou uma lista baseada em estudo constante sob variadas formas, mesmo longe do micro:
 
-	
   * Contar binário e calcular hexa na cabeça;
-
-	
   * Ler livros;
-
-	
   * Programar em papel;
-
-	
   * Algo mais?
 
 De acordo com ele, o programador não consegue viver sem lógica, e quando tenta, se torna algo "intolerável".
@@ -37,13 +29,8 @@ Independente do método empregado, nunca visualize seus esforços com ceticismo,
 
 O que eu adicionaria na lista?
 
-	
   * Assistir CSI. Pra entender o uso prático dos métodos indutivo e dedutivo de raciocínio; mais indutivo.
-
-	
   * Assistir House. Nunca é demais se imaginar como o médico-louco que cura todas as doenças esquisitas; doença aqui é bug.
-
-	
   * Assistir Dexter. Veja como ele faz o seu trabalho seguindo sempre o mesmo método e deixando o ambiente limpinho, sem nenhuma pista.
 
 Fora isso, curta o que está fazendo. Isso é o primordial. Arrebenta com qualquer dúvida que tiver sobre estar no caminho certo.

@@ -2,8 +2,8 @@
 categories:
 - code
 date: '2014-06-18'
+link: https://farm6.staticflickr.com/5510/14191895328_44a2ec8338_z.jpg
 tags:
-- draft
 title: Dando cabo do WinDbg
 ---
 

@@ -3,7 +3,6 @@ categories:
 - blog
 date: '2016-04-10'
 tags:
-- draft
 title: Testando sistema de postagem
 ---
 
@@ -32,7 +31,7 @@ De qualquer forma, posso continuar utilizando o título do artigo como base para
 
 Postar no Twitter é algo relativamente fácil. O script abaixo faz isso com dois pés no joelho:
 
-```py
+```
 def PublishToTwitter(postInfo):
     """
     https://pypi.python.org/pypi/twitter
@@ -55,7 +54,7 @@ Já postar no Facebook é mais ou menos uma tortura. As chaves de acesso costuma
 
 Curiosamente, o código para postar é muito semelhante ao do Twitter, até mais simples, talvez:
 
-```py
+```
 def PublishToFacebook(postInfo):
     """
     http://nodotcom.org/python-facebook-tutorial.html

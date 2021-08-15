@@ -3,7 +3,6 @@ categories:
 - code
 date: '2015-08-19'
 tags:
-- draft
 title: O Estranho Caso do PDB Mal-Aformado
 ---
 
@@ -73,11 +72,9 @@ E, de fato. Solução? Copie as configurações usuais do "novo" Visual Studio c
 
 Abaixo a chamada do suporte em inglês, se alguém achar o mesmo problema em algum fórum e quiser "espalhar a palavra".
 
-```
-Just got stuck in the same problem, but in a C++ source that has 13 years, where its first solution was in VS 2003. Comparing the Project Properties in C/C++, Output Files, Program Database File Name, I found out that the project was pointing to the same file path that Linker, Debugging, Generate Program Database File, when the normal situation is to generate a vc120.pdb. Comparing with a new project, the "right" value can't be $(OutDir)$(TargetName).pdb (ou ProjectName), but $(IntDir)vc$(PlatformToolsetVersion).pdb. That solved the problem. I hope solve another one's problem as well =)
-
-[]s
-```
+> Just got stuck in the same problem, but in a C++ source that has 13 years, where its first solution was in VS 2003. Comparing the Project Properties in C/C++, Output Files, Program Database File Name, I found out that the project was pointing to the same file path that Linker, Debugging, Generate Program Database File, when the normal situation is to generate a vc120.pdb. Comparing with a new project, the "right" value can't be $(OutDir)$(TargetName).pdb (ou ProjectName), but $(IntDir)vc$(PlatformToolsetVersion).pdb. That solved the problem. I hope solve another one's problem as well =)
+> 
+> []s
 
 ![](http://i.imgur.com/uDmJxtB.png)
 

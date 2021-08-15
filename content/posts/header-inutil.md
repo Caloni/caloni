@@ -3,7 +3,6 @@ categories:
 - code
 date: '2012-03-27'
 tags:
-- draft
 title: Header Inútil
 ---
 
@@ -11,40 +10,40 @@ O Visual Studio é uma ótima ferramenta para depurar rapidamente programas send
 
 Vamos supor que você crie seu super-projeto ZeroMQ e no meio dele acabe evoluindo uma nova forma de vida inútil e descartável, que aqui iremos chamar de HeaderInutil e seu fiel companheiro CppInutil:
 
-[![](http://i.imgur.com/opLLPIk.png)](/images/header-inutil.png)
+![](http://i.imgur.com/opLLPIk.png)
 
 OK. Ele não está fazendo nada, mas e daí? Compilo meu projeto normalmente e depuro ele como se nada estivesse acontecendo.
 
------- Rebuild All started: Project: ZeroMasQueCoisaProj, Configuration: Debug Win32 ------
-Build started 27/03/2012 11:40:32.
-_PrepareForClean:
-Deleting file "Debug\ZeroMasQueCoisaProj.lastbuildstate".
-InitializeBuildStatus:
-Creating "Debug\ZeroMasQueCoisaProj.unsuccessfulbuild" because "AlwaysCreate" was specified.
-ClCompile:
-stdafx.cpp
-ZeroMasQueCoisaProj.cpp
-CppInutil.cpp
-Generating Code...
-Manifest:
-Deleting file "Debug\ZeroMasQueCoisaProj.exe.embed.manifest".
-LinkEmbedManifest:
-ZeroMasQueCoisaProj.vcxproj -> c:\...\Debug\ZeroMasQueCoisaProj.exe
-FinalizeBuildStatus:
-Deleting file "Debug\ZeroMasQueCoisaProj.unsuccessfulbuild".
-Touching "Debug\ZeroMasQueCoisaProj.lastbuildstate".
-
-Build succeeded.
-
-Time Elapsed 00:00:00.73
-========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
-
-'ZeroMasQueCoisaProj.exe': Loaded 'C:\...\Debug\ZeroMasQueCoisaProj.exe', Symbols loaded.
-'ZeroMasQueCoisaProj.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
-'ZeroMasQueCoisaProj.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
-'ZeroMasQueCoisaProj.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
-'ZeroMasQueCoisaProj.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
-The program '[5212] ZeroMasQueCoisaProj.exe: Native' has exited with code 0 (0x0).
+    ------ Rebuild All started: Project: ZeroMasQueCoisaProj, Configuration: Debug Win32 ------
+    Build started 27/03/2012 11:40:32.
+    _PrepareForClean:
+    Deleting file "Debug\ZeroMasQueCoisaProj.lastbuildstate".
+    InitializeBuildStatus:
+    Creating "Debug\ZeroMasQueCoisaProj.unsuccessfulbuild" because "AlwaysCreate" was specified.
+    ClCompile:
+    stdafx.cpp
+    ZeroMasQueCoisaProj.cpp
+    CppInutil.cpp
+    Generating Code...
+    Manifest:
+    Deleting file "Debug\ZeroMasQueCoisaProj.exe.embed.manifest".
+    LinkEmbedManifest:
+    ZeroMasQueCoisaProj.vcxproj -> c:\...\Debug\ZeroMasQueCoisaProj.exe
+    FinalizeBuildStatus:
+    Deleting file "Debug\ZeroMasQueCoisaProj.unsuccessfulbuild".
+    Touching "Debug\ZeroMasQueCoisaProj.lastbuildstate".
+    
+    Build succeeded.
+    
+    Time Elapsed 00:00:00.73
+    ========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+    
+    'ZeroMasQueCoisaProj.exe': Loaded 'C:\...\Debug\ZeroMasQueCoisaProj.exe', Symbols loaded.
+    'ZeroMasQueCoisaProj.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+    'ZeroMasQueCoisaProj.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+    'ZeroMasQueCoisaProj.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+    'ZeroMasQueCoisaProj.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+    The program '[5212] ZeroMasQueCoisaProj.exe: Native' has exited with code 0 (0x0).
 
 Show.
 
@@ -62,11 +61,11 @@ Acontece que existe uma árvore de dependências que o Visual Studio mantém par
 
 O que pode ser feito nesse caso (além do que os personagens de The Walking Dead costumam fazer) é configurar o arquivo devenv.exe.config (presente em **%programfiles(x86)%\Microsoft Visual Studio 10.0\Common7\IDE**) e adicionar as seguintes linhas após a seção **configSections. (**Esses passos [estão descritos no blogue da equipe do VC](http://blogs.msdn.com/b/vsproject/archive/2009/07/21/enable-c-project-system-logging.aspx).)
 
-<system.diagnostics>
-<switches>
-<add name="CPS" value="4" />
-</switches>
-</system.diagnostics>
+    <system.diagnostics>
+    <switches>
+    <add name="CPS" value="4" />
+    </switches>
+    </system.diagnostics>
 
 [![](http://i.imgur.com/wutWKnk.png)](/images/header-inutil3.png)
 
