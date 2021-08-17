@@ -1,10 +1,11 @@
 ---
 categories:
-- blog
+- reviews
 date: '2021-05-15'
 link: https://www.imdb.com/title/tt8231064
 tags:
 - draft
+- animes
 title: Shinya! Tensai Bakabon
 ---
 

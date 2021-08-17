@@ -5,6 +5,7 @@ date: '2021-05-17'
 link: https://www.eniwine.com
 tags:
 - draft
+- food
 title: Eniwine
 ---
 

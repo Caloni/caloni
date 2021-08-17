@@ -1,9 +1,10 @@
 ---
 categories:
-- blog
+- reviews
 date: '2021-07-24T22:26:16-03:00'
 tags:
 - draft
+- animes
 title: Cowboy BeBop
 ---
 

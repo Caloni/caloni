@@ -1,10 +1,11 @@
 ---
 categories:
-- blog
+- reviews
 date: '2021-05-28'
 link: https://www.imdb.com/title/tt6385540
 tags:
 - draft
+- series
 title: Hilda
 ---
 

@@ -1,9 +1,10 @@
 ---
 categories:
-- blog
+- reviews
 date: '2021-07-24T22:25:45-03:00'
 tags:
 - draft
+- movies
 title: Paixão Selvagem
 ---
 

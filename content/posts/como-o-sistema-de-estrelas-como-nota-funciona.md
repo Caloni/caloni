@@ -4,6 +4,7 @@ categories:
 date: '2018-12-15'
 tags:
 - draft
+- movies
 title: Como o Sistema de Estrelas como Nota Funciona
 ---
 

@@ -1,10 +1,11 @@
 ---
 categories:
-- blog
+- reviews
 date: '2021-05-22'
 link: https://www.imdb.com/title/tt14536118/
 tags:
 - draft
+- series
 title: 'Love, Death & Robots: The Tall Grass'
 ---
 

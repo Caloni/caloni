@@ -1,9 +1,10 @@
 ---
 categories:
-- blog
+- reviews
 date: '2021-07-24T22:27:12-03:00'
 tags:
 - draft
+- movies
 title: A Excêntrica Família de Antônia
 ---
 

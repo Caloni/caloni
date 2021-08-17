@@ -1,9 +1,10 @@
 ---
 categories:
-- blog
+- reviews
 date: '2021-07-24T22:26:41-03:00'
 tags:
 - draft
+- beer
 title: Colorado Vs Bierland
 ---
 

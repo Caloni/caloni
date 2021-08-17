@@ -1,10 +1,11 @@
 ---
 categories:
-- blog
+- reviews
 date: '2021-05-22'
 link: https://www.imdb.com/title/tt9335498
 tags:
 - draft
+- animes
 title: 'Demon Slayer: Kimetsu No Yaiba'
 ---
 

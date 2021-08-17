@@ -1,9 +1,10 @@
 ---
 categories:
-- blog
+- reviews
 date: '2021-07-31T22:34:02-03:00'
 tags:
 - draft
+- movies
 title: Jumanji
 ---
 

@@ -4,6 +4,7 @@ categories:
 date: '2021-07-24T22:26:05-03:00'
 tags:
 - draft
+- food
 title: O jeito mais simples e gostoso de se livrar do excesso de fermento natural
   da geladeira
 ---
