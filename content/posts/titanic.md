@@ -4,7 +4,6 @@ categories:
 date: '2017-09-17'
 link: https://www.imdb.com/title/tt0120338
 tags:
-- draft
 - movies
 title: Titanic
 ---
@@ -23,4 +22,4 @@ A história de mais de três horas mistura o romance entre Jack e Rose com os de
 
 Cameron em seu projeto construiu uma versão menor do navio em um lago gigantesco para realizar as tomadas da maneira mais realista possível. Há muita computação, que hoje soa mais ou menos datada, mas as cenas hoje clássicas estão lá, firmes e fortes. Além das cenas de ação, realistas, que irão figurar com certeza no panteão do Cinema. Pelo menos o comercial.
 
-O projeto é grandioso, e tem suas merecidas cenas. Foi um processo desgastante, mas hoje vê-se que valeu a pena. A trilha sonora que evoca o pop junto do irlandês clássico. O figurino que consegue se mostrar sem parecer ridículo (quase não consegue). As piadas sem graça de um diretor obcecado em perfeição. Até as piadas parece que funcionam bem. É um filme fofinho. Ele te carrega no colo se você abrir seu coração, e te joga da poltrona se estiver interessado em complexidade. Não há nada de complexo aqui. Ícones pop, como Freud e Picasso, são citados para que tudo fique mais fácil para o espectador médio. Não é necessário complicar uma obra de arte feita sobre e para as massas. Aprecie o espetáculo do velho Cinema de Cecil B. de Mille nos típicos anos 90. O filme até que envelheceu bem. Se apesar de piegas ele se tornará um clássico moderno como Superman, só saberemos daqui a mais 20 anos...
+O projeto é grandioso, e tem suas merecidas cenas. Foi um processo desgastante, mas hoje vê-se que valeu a pena. A trilha sonora que evoca o pop junto do irlandês clássico. O figurino que consegue se mostrar sem parecer ridículo (quase não consegue). As piadas sem graça de um diretor obcecado em perfeição. Até as piadas funcionam. É um filme fofinho. Ele te carrega no colo se você abrir seu coração, e te joga da poltrona se estiver interessado em complexidade. Não há nada de complexo aqui. Ícones pop, como Freud e Picasso, são citados para que tudo fique mais fácil para o espectador médio. Não é necessário complicar uma obra de arte feita sobre e para as massas. Aprecie o espetáculo do velho Cinema de Cecil B. de Mille nos típicos anos 90. O filme até que envelheceu bem. Se apesar de piegas ele se tornará um clássico moderno como Superman, só saberemos daqui a mais 20 anos...
