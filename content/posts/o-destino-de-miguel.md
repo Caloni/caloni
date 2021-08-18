@@ -4,7 +4,6 @@ categories:
 date: '2016-09-11'
 link: https://www.youtube.com/embed/-vOIA0eWwTw
 tags:
-- draft
 - movies
 title: O Destino de Miguel
 ---

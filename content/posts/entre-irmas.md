@@ -5,12 +5,11 @@ date: '2017-10-02'
 link: https://www.imdb.com/title/tt7308092
 tags:
 - cinemaqui
-- draft
 - movies
 title: Entre Irmãs
 ---
 
-Entre Irmãs é um filme de época que parece feito também em outra época. Uma época mais ingênua, onde filmes como esse não seriam tão clichês, tão bregas. Infelizmente, para o público de hoje, clichê e brega é exatamente o que ele parece.
+Entre Irmãs é um filme de época feito também em outra época. Uma época mais ingênua, onde filmes como esse não seriam tão clichês, tão bregas. Infelizmente, para o público de hoje, clichê e brega é exatamente o que ele se propõe.
 
 E longo. Muito longo.
 
@@ -22,9 +21,9 @@ Mas na história você vai ficar sabendo, se já não descobriu, que Carcará te
 
 O Sertão, aliás, é filmado com um tom sépia escuro que favorece a dramatização acima do realismo, o que faz todo sentido neste drama romântico e teatral. Parece que estamos assistindo a uma reconstrução estilizada do livro onde foi baseado o filme. Do outro lado, na cidade "grande", Fortaleza carece de cenários que a estabeleça como metrópole da época, se mantendo sempre sob fachadas que sabemos que é papelão cinematográfico. A qualidade de produção de uma novela.
 
-Ainda nos detalhes técnicos, é curioso notar como a irmã que vira burguesa parece embranquecer sua cara assim que adentra o teto da família Afonso Coelho. O uso inspirado da iluminação nos figurinos o tornam mais do que parecem, assim como a maquiagem. Note como fica o rosto da irmã cangaceira depois de lutar por muito tempo, sujo e cheio de sequelas do castigo solar.
+Ainda nos detalhes técnicos, é curioso notar como a irmã que vira burguesa embranquece sua cara assim que adentra o teto da família Afonso Coelho. O uso inspirado da iluminação nos figurinos o tornam mais dignos, assim como a maquiagem. Note como fica o rosto da irmã cangaceira depois de lutar por muito tempo, sujo e cheio de sequelas do castigo solar.
 
-Se a direção de arte parece fazer valer cada centavo -- embora fique claro que são poucos centavos -- o mesmo não se pode dizer da trilha sonora. Não que ela seja barata. Muito pelo contrário. A música de Gabriel Ferreira é atordoantemente expansiva. Seu entusiasmo sem limites em pontuar cada cena, cada sorriso, cada choro ou batalha a torna supérflua e irritante. E paradoxalmente ela é responsável por aumentar o sono das quase três horas de projeção.
+Se a direção de arte faz valer cada centavo -- embora fique claro que são poucos centavos -- o mesmo não se pode dizer da trilha sonora. Não que ela seja barata. Muito pelo contrário. A música de Gabriel Ferreira é atordoantemente expansiva. Seu entusiasmo sem limites em pontuar cada cena, cada sorriso, cada choro ou batalha a torna supérflua e irritante. E paradoxalmente ela é responsável por aumentar o sono das quase três horas de projeção.
 
 Já quem, de maneira alguma, prejudica o filme é seu elenco. Afiado, harmonioso e com alguns bons momentos desperdiçados pelo roteiro, o trio formado por Marjorie Estiano, Nanda Costa e Julio Machado mereceria material melhor. Se Julio, que faz Carcará, convence desde a primeira cena (e a estende) como um homem que vive a única opção de sobrevivência que o destino lhe ofertou, as irmãs, vividas por Marjorie e Nanda, reafirmam suas personalidades através das expressões no rosto e no olhar que são muito mais sutis que os diálogos expositivos, que já revelam todos os pensamentos e sentimentos dos personagens antes que seja dada a chance disso ser revelado simplesmente olhando para eles. Como quando a irmã que fica cuidando da tia comenta que ela anda doente, apenas para que na cena seguinte ela volte para casa e a tia comece a tossir copiosamente.
 
