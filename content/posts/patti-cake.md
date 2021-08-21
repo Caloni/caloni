@@ -5,20 +5,19 @@ date: '2017-11-18'
 link: https://www.imdb.com/title/tt6288250
 tags:
 - cinemaqui
-- draft
 - movies
 title: Patti Cake$
 ---
 
 Patti Cake$ poderia ser facilmente resumido como uma mistura entre "Preciosa: Uma História de Esperança" (Lee Daniels, 2009) e "8 Mile: Rua das Ilusões" (Curtis Hanson, 2002), e qualquer um que tenha assistido a esses dois longas irá se identificar com o drama dos jovens artistas anônimos nas periferias das cidades grandes, rejeitados automaticamente pelas autoridades locais como vagabundos perdidos na sociedade.
 
-Porém, enquanto Preciosa e 8 Mile parecem se limitar em um drama vitimista com moral de superação, Patti Cake$ adota uma postura alto-astral. Poderia isto ser fruto de uma sociedade que rapidamente enriqueceu nesses 10, 15 anos, e se não espiritualmente, ao menos financeiramente? O filme deixa claro que há, sim, alguns problemas financeiros para a jovem Patti e sua família, mas pior do que eles é não poder viver seu sonho.
+Porém, enquanto Preciosa e 8 Mile se limitam em um drama vitimista com moral de superação, Patti Cake$ adota uma postura alto-astral. Poderia isto ser fruto de uma sociedade que rapidamente enriqueceu nesses 10, 15 anos, e se não espiritualmente, ao menos financeiramente? O filme deixa claro que há, sim, alguns problemas financeiros para a jovem Patti e sua família, mas pior do que eles é não poder viver seu sonho.
 
 E seu sonho é ser uma rapper de sucesso, respeitada, amada, adorada... glorificada. Como seu maior ídolo: O-Z (Sahr Ngaujah).
 
 O movimento rap tem vários significados, conotações e etimologias. Alguns dizem que é um acrônimo para Ritmo e Poesia (do inglês Rithm and Poetry). Outros que o "R" tem mais a ver com rimar. E outros usam ainda outros significados mais obscuros para um termo que virou sinônimo de um gênero musical: o Hip Hop.
 
-Aos meus quinze anos, quando eu ouvia desde Racionais MCs, a referência oficial no Brasil, até obscuridades da época, como De Menos Crime (antes de seu hit "Fogo na Bomba"), o RAP tinha a clara conotação de música marginalizada que combatia o sistema vigente através de suas letras e ritmos experimentais, através da junção de diferentes gêneros musicais e mixagens "estrábicas" que conseguiam harmonizar canto gregoriano, Beethoven, MPB e pagode de raiz. O movimento, se espalhando facilmente pelo mundo, parece ter por definição nunca conseguir se definir. E é em sua anti-definição que ele mais brilha, como um dos representantes mais underground da contra-cultura.
+Aos meus quinze anos, quando eu ouvia desde Racionais MCs, a referência oficial no Brasil, até obscuridades da época, como De Menos Crime (antes de seu hit "Fogo na Bomba"), o RAP tinha a clara conotação de música marginalizada que combatia o sistema vigente através de suas letras e ritmos experimentais, através da junção de diferentes gêneros musicais e mixagens "estrábicas" que conseguiam harmonizar canto gregoriano, Beethoven, MPB e pagode de raiz. O movimento, se espalhando facilmente pelo mundo, tem por definição nunca se definir. E é em sua anti-definição que ele mais brilha, como um dos representantes mais underground da contra-cultura.
 
 Dentro dessa ideologia, o que faria menos sentido no mundo é um filme com uma produção razoável sobre uma rapper marginalizada pelas condições de seu tempo: branca, loira, obesa, pobre e tímida. Porém, sendo justamente a poesia dentro dessa ideologia a força motriz que transforma a realidade opressora do artista em combustível para a criação dos seus melhores trabalhos, e a contradição inerente de suas criações, com o objetivo de alertar a humanidade do perigo da padronização (a "ovelhização", como cantado no filme), não há nada de errado em vivermos o sonho junto de Patti e seus amigos, já que este sonho representa tudo o que eles com certeza não conseguirão em suas pouco esperançosas vidas.
 

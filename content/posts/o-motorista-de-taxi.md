@@ -5,7 +5,6 @@ date: '2017-10-20'
 link: https://www.imdb.com/title/tt6878038
 tags:
 - cinemaqui
-- draft
 - movies
 title: O Motorista de Táxi
 ---
@@ -24,9 +23,9 @@ E, apesar de tudo, ele começa o filme rindo. Cantando. Ele gosta de música. An
 
 Nosso amigo taxista não entende a falta de cuidado das pessoas, correndo pelas ruas sitiadas de Seul, fugindo do exército e suas bombas de gás. E fazendo ele quebrar seu retrovisor. Há violência, mas não muita. Iniciamos o filme sem armas de fogo, de ambos os lados. Isso também é importante. Vamos anotar.
 
-A impressão inicial de nosso amigo taxista é que ele parece não se importar com as pessoas. Quer apenas conseguir pagar o aluguel atrasado para poder dar um sermão no filho da senhoria, que frequentemente provoca sua filha. Mas o vemos ajudando, meio a contragosto, uma grávida a chegar ao hospital.
+A impressão inicial de nosso amigo taxista é que ele não se importa com as pessoas. Quer apenas conseguir pagar o aluguel atrasado para poder dar um sermão no filho da senhoria, que frequentemente provoca sua filha. Mas o vemos ajudando, meio a contragosto, uma grávida a chegar ao hospital.
 
-Quando ele encontra seu passageiro especial, um repórter alemão que resolve ir até o epicentro das revoltas em Gwangju, uma cidade fechada pelo exército, ambos começam um relacionamento conturbado que irá colocar à prova o que acreditamos sobre o caráter desse taxista. Também irá aparentemente nos inspirar pelo espírito de comunidade, que dá gasolina "de graça" para a frota local de taxistas. Eles se revoltam com a ganância de um pai que precisa voltar para rever sua filha. O uso dos idiomas inglês e coreano também aponta para o que está acontecendo todo o tempo no filme: seus personagens não conseguem comunicar seus valores facilmente. Você precisa entender que há uma luta ideológica acontecendo, e não apenas um taxista tentando ganhar seu dia.
+Quando ele encontra seu passageiro especial, um repórter alemão que resolve ir até o epicentro das revoltas em Gwangju, uma cidade fechada pelo exército, ambos começam um relacionamento conturbado que irá colocar à prova o que acreditamos sobre o caráter desse taxista. Também irá nos inspirar pelo espírito de comunidade, que dá gasolina "de graça" para a frota local de taxistas. Eles se revoltam com a ganância de um pai que precisa voltar para rever sua filha. O uso dos idiomas inglês e coreano também aponta para o que está acontecendo todo o tempo no filme: seus personagens não conseguem comunicar seus valores facilmente. Você precisa entender que há uma luta ideológica acontecendo, e não apenas um taxista tentando ganhar seu dia.
 
 Mas o inevitável ocorre: ele se envolve demais. E o repórter alemão comunica seus valores para o taxista coreano através de ações, não palavras. Ambos, aliás. Enquanto o repórter filma tudo que vê, não importa o caos onde a ação ocorre, o coreano quebra uma lente da câmera do repórter tentando fazer ele desistir de mostrar a verdade e ir embora pra casa.
 

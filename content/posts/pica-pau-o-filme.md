@@ -4,7 +4,6 @@ categories:
 date: '2017-11-06'
 link: https://www.imdb.com/title/tt2114504
 tags:
-- draft
 - movies
 title: 'Pica Pau: o Filme'
 ---
@@ -17,6 +16,6 @@ E o Pica-Pau apenas brilha porque todo o resto é muito, muito ruim. No original
 
 A melhor piada, construída com tempo suficiente, são as inúmeras noites em que vemos o pai tentando dormir com o som de picadas do passarinho que nunca dorme. Note como o humor do pai se altera a cada novo momento. Essa é a única progressão minimamente interessante do filme inteiro. O resto é um bolo de previsibilidade que você já sabe onde vai dar.
 
-Mas aparentemente apenas nós, espectadores, sabemos disso. Os roteiristas não. Eles não possuem a menor idéia de como fazer isso funcionar de maneira minimamente interessante. Durante o filme inteiro Pica-Pau não consegue ser capturado porque é muito esperto. A menos quando ele precisa ser capturado para dar andamento à história, e então magicamente ele é capturado. É dessa forma desinteressante que o filme desenvolve sua história, usando seus personagens quando eles são úteis, e descartando-os quando não se precisa mais deles.
+Mas apenas nós, espectadores, sabemos disso. Os roteiristas não. Eles não possuem a menor idéia de como fazer isso funcionar de maneira minimamente interessante. Durante o filme inteiro Pica-Pau não consegue ser capturado porque é muito esperto. A menos quando ele precisa ser capturado para dar andamento à história, e então magicamente ele é capturado. É dessa forma desinteressante que o filme desenvolve sua história, usando seus personagens quando eles são úteis, e descartando-os quando não se precisa mais deles.
 
 Pica-Pau: O Filme sequer consegue ser um filme de abertura. Em certo momento de perigo ele exclama para a câmera: "acho que esse filme não vai ter continuação!" Eu mantenho essa exclamação e te digo, rapazinho: espero que você tenha razão.

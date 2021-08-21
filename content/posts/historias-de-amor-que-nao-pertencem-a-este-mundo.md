@@ -5,14 +5,13 @@ date: '2017-11-11'
 link: https://www.imdb.com/title/tt7133340
 tags:
 - cinemaqui
-- draft
 - movies
 title: Histórias de Amor Que Não Pertencem a Este Mundo
 ---
 
 Você já conviveu intimamente com alguém que possui muito medo do desconhecido, uma ansiedade angustiante e que não consegue deixar de falar sobre todas as terríveis possibilidades (para essas pessoas é uma certeza) que o futuro nos espera? Se sim, talvez "Histórias de Amor Que Não Pertencem a Este Mundo" o ajude a entender melhor essa pessoa, e a entender que, apesar de tanto fatalismo, há por trás um ser humano que deseja ser feliz à sua maneira.
 
-O problema é que o filme de Francesca Comencini não parece estar muito interessada em humanizar uma condição humana lamentável. Ou é a atriz Lucia Mascino, a despeito de seu visível talento em caracterizar Claudia como uma mulher em seus quarenta anos e com a insegurança em seus ossos. De qualquer forma, aqui temos uma história que se leva sozinha graças à direção competente de Francesca, que impede que nos percamos em detalhes de uma história convencional.
+O problema é que o filme de Francesca Comencini não está muito interessado em humanizar uma condição humana lamentável. Ou é a atriz Lucia Mascino, a despeito de seu visível talento em caracterizar Claudia como uma mulher em seus quarenta anos e com a insegurança em seus ossos. De qualquer forma, aqui temos uma história que se leva sozinha graças à direção competente de Francesca, que impede que nos percamos em detalhes de uma história convencional.
 
 Mas esta é sim uma história convencional, muito embora não contada de maneira linear. Claudia tem um problema: sua produção excessiva de ocitocina, a droga do amor, mas também a droga do medo. Ela se apaixona perdidamente por Flavio (Thomas Trabacchi) e já o imagina como o homem de seus sonhos realizando todos os seus desejos pueris, como casar e ter filhos. A relação entre ambos é plausível, cheira a familiar, e ao mesmo tempo possui seus toques charmosos, como morarem em uma quase choupana isolada do mundo. O apartamento que dividem na cidade também não é dos melhores, com mofo e paredes precisando de uma pintura. Mas não haverá reforma, pois Claudia é "irreformável". Ela é o que é, goste ou não. Note como sua melhor amiga nem tenta mais "consertá-la" ou aconselhá-la. Ela apenas ouve. Em breve seu companheiro fará o mesmo, e será o início do fim. Como a própria Claudia aponta. Ela tem o dom, ou a maldição, de prever o futuro ou causá-lo.
 

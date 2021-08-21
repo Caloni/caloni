@@ -5,14 +5,13 @@ date: '2017-12-03'
 link: https://www.imdb.com/title/tt5818818
 tags:
 - cinemaqui
-- draft
 - movies
 title: Mulheres Divinas
 ---
 
 Mulheres nas ruas com placas de protesto dizendo "não somos animais de estimação". Queima de sutiãs em praça pública. Amor livre sob o efeito de drogas. Calças boca de sino. Para quem não conhece muito bem os detalhes por trás do movimento feminista dos anos 70 pode achar tudo um grande exagero. E Mulheres Divinas vem aí atualizar a cartilha das pessoas e até das atuais feministas, demonstrando todo o mecanismo por trás de por que, afinal de contas, as mulheres reclamavam tanto para lavar louça.
 
-E esse mecanismo possui detalhes que ninguém sente, mas estão aí. Os homens mandam e desmandam na sociedade, mas isso parece o estado natural das coisas (pelo menos para eles). Eles nasceram para mandar e elas nasceram para cuidar. Está na Bíblia. Fim de papo.
+E esse mecanismo possui detalhes que ninguém sente, mas estão aí. Os homens mandam e desmandam na sociedade, mas isso é o estado natural das coisas (pelo menos para eles). Eles nasceram para mandar e elas nasceram para cuidar. Está na Bíblia. Fim de papo.
 
 O problema é quando uma pequena semente é plantada na cabeça de Nora (Marie Leuenberger), uma dona de casa em um vilarejo isolado da Suíça. Em plena revolução social nas grandes cidades, esse vilarejo é o microcosmos que irá explicar o que está acontecendo no mundo de maneira simples e didática. E como toda mudança, ela começa com uma ideia.
 

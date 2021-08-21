@@ -5,12 +5,11 @@ date: '2017-11-04'
 link: https://www.imdb.com/title/tt3519048
 tags:
 - cinemaqui
-- draft
 - movies
 title: Olhando Para As Estrelas
 ---
 
-Olhando para as Estrelas é um filme fofinho que não parece enxergar dificuldades, apenas facilidades. Com isso ele perde um potencial drama da vida real, ou troca pela visão de um mundo de sonhos, onde tudo é possível. Mas se tudo é possível tão "fácil" assim, qual a graça da conquista?
+Olhando para as Estrelas é um filme fofinho que não enxerga dificuldades, apenas facilidades. Com isso ele perde um potencial drama da vida real, ou troca pela visão de um mundo de sonhos, onde tudo é possível. Mas se tudo é possível tão "fácil" assim, qual a graça da conquista?
 
 O documentário possui várias virtudes narrativas que encantam desde o começo. Na primeira tomada vemos luzes fora de foco, símbolo do palco, para logo depois vermos as estrelas entrando em cena: dançarinas de balé. Depois aprendemos que elas são cegas. Ou seja, não conseguem ver nem as luzes, e muito menos as estrelas no céu. Isso não impede que a postura dessas meninas durante as aulas de dança, como ensina a professora, seja sempre olhando para o alto.
 
@@ -18,7 +17,7 @@ A história começa prometendo. Vemos a rotina de Geyza Pereira, a mais talentos
 
 Ela e Thalia Macedo são colegas de dança. Thalia sofre um pouco com o preconceito das crianças na escola. Além de não enxergar ela usa olhos postiços. Mas ao mesmo tempo ela é boa de escrever. Usa o computador fluentemente. Antes era uma máquina que imprimia em braile, para a surpresa de sua mãe, que não sabia que seria possível para a filha, cega desde os dois anos, a capacidade de aprender a ler.
 
-Este filme é muito sobre capacidade. Ele ensina o que os não-acomodados já sabem por instinto: que não há muitos limites para quem quer realmente algo na vida. Essas duas meninas não parecem acomodadas. Parecem campeãs, desde o primeiro momento que a vemos.
+Este filme é muito sobre capacidade. Ele ensina o que os não-acomodados já sabem por instinto: que não há muitos limites para quem quer realmente algo na vida. Essas duas meninas não estão acomodadas. São campeãs, desde o primeiro momento que a vemos.
 
 Por isso a história delas não tem a ver com conquista ou desafio. Elas já possuem a conquista em seu DNA, e desafios são apenas um dia comum. Elas gostariam de ser independentes, mas nem sempre as calçadas possuem aviso de travessia.
 
