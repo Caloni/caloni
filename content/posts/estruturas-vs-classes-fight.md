@@ -28,7 +28,7 @@ int main()
 
 Ele compila e roda sem problemas:
 
-[![StructVsClass](http://i.imgur.com/APlOm65.jpg)](/images/14230192924_fd9c2fb490_z.jpg)
+![StructVsClass](http://i.imgur.com/APlOm65.jpg)
 
 "Estruturalmente" falando, **MinhaEstrutura** e **MinhaClasse** são idênticas, pois são os detalhes de sintaxe que diferem, e diferem pouco. Abrindo o jogo, a única diferença que poderá ser sentida em usar um ou outro é que **structs possuem seus membros públicos por padrão e classes possuem seus membros privados por padrão**. Apenas isso. O resto, nada muda.
 
@@ -53,7 +53,7 @@ int main()
 
 ```
 
-[![StructVsClass-Construtor](http://i.imgur.com/vwpucpm.jpg)](/images/14230273964_89e37e2487_z.jpg)
+![StructVsClass-Construtor](http://i.imgur.com/vwpucpm.jpg)
 
 Antes não havia problemas para **MinhaClasse** porque o construtor padrão criado para ela é público por default. Porém, explicitando no código um construtor e deixando sua privacidade ligada por padrão temos esse erro que NÃO ocorre em **MinhaEstrutura**.
 
@@ -88,7 +88,7 @@ int main()
 
 ```
 
-[![StructVsClassStructConstructor](http://i.imgur.com/rdpllNf.jpg)](/images/14207416246_60675f681a_z.jpg)
+![StructVsClassStructConstructor](http://i.imgur.com/rdpllNf.jpg)
 
 E, por que não, uma sobrecarga do operador de stream para imprimirmos diretamente os valores de **MinhaEstrutura** para a saída com apenas um comando?
 
@@ -115,7 +115,7 @@ int main()
 
 ```
 
-[![StructVsClassStreams](http://i.imgur.com/np4trf9.jpg)](/images/14043966560_422ae353d9_z.jpg)
+![StructVsClassStreams](http://i.imgur.com/np4trf9.jpg)
 
 Enfim, não há nenhum limite que se aplica a uma _struct_ além do bom senso. A criação da palavra _class_ não foi por falta do que fazer. Ela diz claramente que estamos definindo um objeto que contém usos mais adequados à orientação a objetos de C++ do que a programação estruturada de C, e vice-versa. É uma forma de tornar o código mais legível, mas nada do outro mundo. Sabemos, no final das contas, que o compilador trata as duas (quase) da mesma maneira.
 

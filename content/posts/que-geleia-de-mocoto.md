@@ -8,25 +8,25 @@ title: Que geleia de mocotó
 
 A primeira bateria de problemas da segunda fase do Code Jam me mostrou o porquê do seu nome: meu cérebro ficou feito geleia (ha ha ha). Não consegui resolver nenhum problema a tempo, mas não culpo o C++, que passei a usar para essa fase. É burrice aliada a pressão. Duas horas e meia para entender um problema é o tipo de coisa que me deixa pensando mais no tempo do que no problema. Tenho que melhorar isso.
 
-[![cowblet-cover](http://i.imgur.com/iqT5sSy.jpg)](/images/14065766204_532438eaed_n.jpg)
+![cowblet-cover](http://i.imgur.com/iqT5sSy.jpg)
 
 De qualquer forma, esse final de semana que passou foi dedicado a resolver o primeiro problema e quem sabe escrever um post a respeito. Imagino que todos tenham acesso ao [enunciado](http://code.google.com/codejam/contest/2984486/dashboard#s=p0) e aos casos de teste, mas, por via das dúvidas, aqui vai uma descrição adaptada:
 
 Você é um fazendeiro hi-tech com uma vaca que tem um tablet. Não especifica se esse cowblet é um iPad, mas é uma possibilidade, já que como nenhum plugue parece encaixar nas tomadas de sua fazenda, é muito provável que você seja um Applemaníaco com um monte de gadgets que precisam de conversor vindos direto do eBay.
 
-[![cowblet](http://i.imgur.com/igQqWOa.jpg)](/images/14065766314_c07ca93e24_o.jpg)
+![cowblet](http://i.imgur.com/igQqWOa.jpg)
 
 Através do eBay também veio um engenheiro chinês cuja missão é resolver esse gato que o Sr. Fazendeiro fez em sua fazenda. Tudo que ele precisa fazer é girar gigantescos switches (ou disjuntores) que invertem a polaridade binária de cada um dos pino dos conectores das tomadas. Quando um plugue de dispositivo e uma tomada possuem a mesma configuração de bits é possível conectá-los. O objetivo final é que todos os N plugues conectem nas N tomadas depois de virados Y switches, sendo que quanto menos switches melhor (afinal, eles são gigantescos, e o chinês supõe-se que seja pequeno).
 
-[![ProblemA](http://i.imgur.com/WGFkBW1.png)](/images/14065765834_6bf738e020_o.png)
+![ProblemA](http://i.imgur.com/WGFkBW1.png)
 
 O primeiro pensamento do programador preguiçoso (go, horse, go!) manda que usemos a velha força bruta e testemos todas as combinações possíveis de disjuntores, peguemos o com menor número de bits setados (inicialmente, todos estão em 0) e zás! Porém, o caso de teste tamanho _large_ pressupõe que o limite de pinos das tomadas pode chegar a 40, o que seria responsável por nada mais nada menos que 2^40 combinações diferentes, ou 1.099.511.627.776 para ser exato. Isso dá mais de 1 trilhão! Mesmo que nosso código seja extremamente rápido e demore apenas um milissegundo para cada combinação, serão mais de 34 anos desperdiçados, que poderiam estar melhor investidos minerando bitcoins.
 
-[![Tomadao](http://i.imgur.com/8p1mbvh.png)](/images/14042619426_9b12f4468d_o.png)
+![Tomadao](http://i.imgur.com/8p1mbvh.png)
 
 Dessa forma, temos que traçar uma solução baseada nas combinações entre as tomadas e plugues, que, pelos limites da versão large dos casos de teste, podem ter a quantidade de 150, o que dá 150*150 = 22500 combinações de XOR.
 
-[![WP_000773](http://i.imgur.com/m2eUW9a.jpg)](/images/14065469895_97cb03a986_n.jpg)
+![WP_000773](http://i.imgur.com/m2eUW9a.jpg)
 
 Sim, de XOR. O XOR aqui pode ser usado para detectarmos qual a combinação de switches precisamos para que cada tomada encaixa em cada dispositivo. Esse é o nosso conjunto universo de giros de disjuntores. Com esse conjunto em mãos fica fácil saber quais combinações são possíveis de encaixar todos os dispositivos: basta contar!
 

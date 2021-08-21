@@ -10,7 +10,7 @@ Como [já vimos algumas vezes](http://www.caloni.com.br/remove_if-ate-remove-so-
 
 Dito isto, a abstração dos iteradores é a coisa mais linda do mundo.
 
-[![iteradores-como-ponteiros-a-imagem](http://i.imgur.com/0Kne7qd.jpg)](/images/14307157649_516dd123ba_z.jpg)
+![iteradores-como-ponteiros-a-imagem](http://i.imgur.com/0Kne7qd.jpg)
 
 ## Iteradeiros ou Ponteradores?
 
@@ -65,6 +65,6 @@ int main()
 
 ```
 
-[![iteradores-como-ponteiros](http://i.imgur.com/GmNutkz.jpg)](/images/14492489942_716878c004_z.jpg)
+![iteradores-como-ponteiros](http://i.imgur.com/GmNutkz.jpg)
 
 Da mesma forma, operações como cópia, movimentação, ordenação, caotização, pode ser feito usando dois ponteiros/iteradores de dois contêiners distintos, desde que algumas regras básicas sejam seguidas, como _um iterador deve sempre apontar para algo válido_ (ou disponibilizar alguma abstração que insira novos elementos em um contêiner menor). Veremos essas regras em um próximo post sobre o tema. Apontarei para ele _aqui_.

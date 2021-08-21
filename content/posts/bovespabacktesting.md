@@ -9,7 +9,7 @@ title: BovespaBacktesting
 
 Eu não sou apenas um programador: sou um especulador. Ou, para quem ficou com medo, um investidor. Ficou bonito, agora? Trocando em miúdos, isso quer dizer que muitas vezes aposto na bolsa de valores, aquela onde as pessoas ganham e perdem dinheiro loucamente. Porém, assim como faço com minha carreira de desenvolvedor, não deixo de estudar e aprimorar minhas habilidades. Tirando alguns anos de estudo com livros de finanças, economia e contabilidade, foi com base nisso que eu fiz uma série de scripts que realiza operações de backtesting nos papéis da Bovespa.
 
-[![Gordon Gecko](http://i.imgur.com/ZFRXGVX.jpg)](/images/11837267176_953a1a6a4e_z.jpg)
+![Gordon Gecko](http://i.imgur.com/ZFRXGVX.jpg)
 
 ##### Que mané backtesting?
 
@@ -21,7 +21,7 @@ OK, esse assunto já está ficando bem monótono para quem acompanha um blogue d
 
 ##### GitHub na veia
 
-[![BovespaBacktesting](http://i.imgur.com/zo3G1Hg.png)](/images/11837266166_0fc61be70f_o.png)
+![BovespaBacktesting](http://i.imgur.com/zo3G1Hg.png)
 
 O projeto que mantenho no GitHub possui algumas ideias que gostaria de compartilhar com todos que estão interessados em realizar um backtesting, independente de sua estratégia. A primeira delas seria de onde baixar o histórico de preços de maneira simples e barata. Eu recomendo e uso o software [Grafix](http://www.grafix2.com/), que consegue baixar as informações diretamente do saite da Bovespa e realizar os ajustes necessários para montar e exibir as informações. Com base no banco de dados do Grafix é que o BovespaBacktesting (meu projeto) importa as informações que ele precisa. Ele irá importar apenas os códigos que estiverem em uma lista disponível no arquivo data/filterCodes relativo de onde o script estiver rodando. Esse arquivo é apenas texto com um código por linha.
 
