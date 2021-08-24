@@ -4,7 +4,6 @@ categories:
 date: '2018-03-15'
 link: https://www.imdb.com/title/tt5639354
 tags:
-- draft
 - movies
 title: Uma Mulher Fantástica
 ---
