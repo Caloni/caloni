@@ -4,7 +4,6 @@ categories:
 date: '2018-01-12'
 link: https://www.imdb.com/title/tt0120815
 tags:
-- draft
 - movies
 title: O Resgate do Soldado Ryan
 ---
@@ -19,6 +18,6 @@ Este é o quarto Ryan que pode ser perdido. O nome Ryan vira sinônimo de soldad
 
 Esta tropa é formada pelos atores perfeitos para o papel. Não é possível falar muito sobre eles no filme da mesma forma que em uma guerra relâmpago mal conhecemos nossos colegas exceto pelas ações de cada novo dia. A morte iminente transforma cada um deles em símbolo de resiliência, cada um de uma maneira peculiar. Suas faces dizem muito sobre cada um. Suas expressões e trejeitos explicam suas ações. E por mais perfeita que se saia esta tropa, há um ar de melancolia os cercando. Parece que vem dos prédios em ruínas.
 
-Há cenas de batalha em planos sequências, câmera na mão, edição perfeccionista aliada a uma primorosa edição de som. Tudo isso compõe o deleite técnico da ação, que é memorável per se e ganha aliados dos fãs de filmes de guerra realistas e viscerais. Parece não haver o que reclamar da produção deste filme. Apenas o que aclamar.
+Há cenas de batalha em planos-sequência, câmera na mão, edição perfeccionista aliada a uma primorosa edição de som. Tudo isso compõe o deleite técnico da ação, que é memorável per se e ganha aliados dos fãs de filmes de guerra realistas e viscerais. Parece não haver o que reclamar da produção deste filme. Apenas o que aclamar.
 
-Contudo, as cenas que dialogam com a alma são as mais simples, com a câmera parada, estática, a respirar e refletir o momento. É o rapaz traduzindo a letra de uma música cantada por Edith Piaf saindo de um gramofone colocado em cima de um dos poucos muros de pé em uma escadaria imponente. Lá estão os meninos a observar. A letra fala de amor. O mesmo amor que parece intraduzível quando o caos do ódio toma as rédeas do poder. Uma síntese política e idealista em uma única cena. Eis porque os milagres desse filme parecem sobrenaturais.
+Contudo, as cenas que dialogam com a alma são as mais simples, com a câmera parada, estática, a respirar e refletir o momento. É o rapaz traduzindo a letra de uma música cantada por Edith Piaf saindo de um gramofone colocado em cima de um dos poucos muros de pé em uma escadaria imponente. Lá estão os meninos a observar. A letra fala de amor. O mesmo amor que é intraduzível quando o caos do ódio toma as rédeas do poder. Uma síntese política e idealista em uma única cena. Eis porque os milagres desse filme são sobrenaturais.

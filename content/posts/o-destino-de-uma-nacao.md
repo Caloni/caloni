@@ -4,7 +4,6 @@ categories:
 date: '2018-02-26'
 link: https://www.imdb.com/title/tt4555426
 tags:
-- draft
 - movies
 title: O Destino de uma Nação
 ---
@@ -17,7 +16,7 @@ E essa acaba sendo, como é de praxe, uma pergunta complexa dentro do Parlamento
 
 Esse pelo menos é o tom do filme dirigido por Joe Wright (Orgulho & Preconceito) e escrito por Anthony McCarten (do regular A Teoria de Tudo), que explora esses momentos históricos em uma sombria e triste Londres. Sempre se mantendo em uma luz fraca, que faz parecer que os britânicos estão nesse momento ainda na penumbra a se anunciar (maior verdade não há), Darkest Hour mostra esses momentos com a solenidade que o momento histórico merece e dificilmente nos coloca na intimidade dessas pessoas, sempre privilegiando a cartilha formal dos acontecimentos.
 
-Há apenas dois, ou três, brilhantes momentos, no filme todo. Em um deles vemos os três arquitetos do poder, primeiro-ministro atual, anterior e o que seria, planejando a negociação de paz. Nele vemos toda a complexidade inerente a uma decisão dessas que impacta a vida de milhões que essas pressoas precisam enfrentar em tempo recorde. Na cena imediatamente seguinte vemos Churchill encurralado no banheiro, ligando para o presidente americano e implorando por uma frota. O enquadramento dessa cena é belíssimo; vemos seu isolamento demonstrado pelo cubículo isolado de tudo e de todos, com o telefone e um alarme de incêndio, ambos em seus ombros, fora a tomada onde vemos o gigantesco rosto do primeiro-ministro se tornar grande, mas pequeno ao mesmo tempo, olhando levemente para baixo.
+Há apenas dois, ou três, brilhantes momentos, no filme todo. Em um deles vemos os três arquitetos do poder, primeiro-ministro atual, anterior e o que seria, planejando a negociação de paz. Nele vemos toda a complexidade inerente a uma decisão dessas que impacta a vida de milhões que essas pessoas precisam enfrentar em tempo recorde. Na cena imediatamente seguinte vemos Churchill encurralado no banheiro, ligando para o presidente americano e implorando por uma frota. O enquadramento dessa cena é belíssimo; vemos seu isolamento demonstrado pelo cubículo isolado de tudo e de todos, com o telefone e um alarme de incêndio, ambos em seus ombros, fora a tomada onde vemos o gigantesco rosto do primeiro-ministro se tornar grande, mas pequeno ao mesmo tempo, olhando levemente para baixo.
 
 E há o momento catarse, que se passa em um metrô, e que vocês precisam ver e sentir com seus próprios olhos e coração. Não é um momento gratuito, contudo. Ele é tão necessário quanto os momentos intimistas de Dunkirk, que Christopher Nolan soube tão bem empregar para daí subir para o alto escalão da pátria. Aqui é feito o caminho contrário, e é rápido, mas vale cada segundo. Quem dera os países tivessem líderes como os que são pintados nesse filme.
 

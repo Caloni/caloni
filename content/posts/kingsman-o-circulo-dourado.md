@@ -4,12 +4,11 @@ categories:
 date: '2018-03-05'
 link: https://www.imdb.com/title/tt4649466
 tags:
-- draft
 - movies
 title: 'Kingsman: O Círculo Dourado'
 ---
 
-Não é tão bom quanto o primeiro, mas diverte. Ele possui algumas boas ideias que estão a serviço da história e do trash, muitas ao mesmo tempo. Mas ele não possui alma, apenas personagens fazendo graça. Ele tenta ser mais do mesmo em uma versão americana, mas tudo soa fake demais. Tentando agradar o público ele parece descer do pódio das grandes paródias de filmes de espionagem.
+Não é tão bom quanto o primeiro, mas diverte. Ele possui algumas boas ideias que estão a serviço da história e do trash, muitas ao mesmo tempo. Mas ele não possui alma, apenas personagens fazendo graça. Ele tenta ser mais do mesmo em uma versão americana, mas tudo soa fake demais. Tentando agradar o público ele desce do pódio das grandes paródias de filmes de espionagem.
 
 Kingsman: O Círculo Dourado já começa fazendo graça no seu subtítulo (e a graça continua em um show onde o conceito de traição do puritanismo norte-americano dá um passo... à frente). Iniciando com uma cena de ação dentro de um táxi de perder o fôlego, é divertido acompanhar o ritmo frenético que o diretor Matthew Vaughn (do Kingsman original e Kick-Ass) utiliza em suas cenas. Abusando dos planos-sequência montados (não reais, com a câmera na mão, mas computador faz tudo hoje), Vaughn foi um dos pioneiros que iniciou essa tendência nos filmes de ação. Hoje até os filmes do Liam Nesson têm (como seu último, O Passageiro). A cena da igreja do original teve, e foi demais.
 

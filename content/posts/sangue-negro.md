@@ -4,7 +4,6 @@ categories:
 date: '2018-01-23'
 link: https://www.imdb.com/title/tt0469494
 tags:
-- draft
 - movies
 title: Sangue Negro
 ---

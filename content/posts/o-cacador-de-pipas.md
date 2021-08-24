@@ -4,7 +4,6 @@ categories:
 date: '2018-01-12'
 link: https://www.imdb.com/title/tt0419887
 tags:
-- draft
 - movies
 title: O Caçador de Pipas
 ---
