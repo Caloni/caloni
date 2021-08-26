@@ -5,7 +5,6 @@ date: '2018-04-03'
 link: https://www.imdb.com/title/tt5999530
 tags:
 - cinemaqui
-- draft
 - movies
 title: Antes que Tudo Desapareça
 ---
@@ -28,4 +27,4 @@ Este é um filme que mostra que qualquer pessoa pode chamar a atenção subindo 
 
 E no final, bem no final, vai ficando claro que esta é uma mensagem genérica sobre como a humanidade está perdida atualmente de um jeito que não cabe nem tentar explicar, e só uma invasão para enxergarmos que precisamos mudar a nós mesmos. Aliado a isso teremos o velho clichê do amor. Sim, ele novamente. Mas aqui ele é adorável porque é feito por japoneses. E não é fofinho o jeito que casais japoneses demonstram afeição? Eles sequer se beijam; se abraçam. É que há câmeras filmando (olha elas de novo aí) e é feio se beijar em público.
 
-"Antes que Tudo Desapareça" pode ser um longo espetáculo sobre como o trash sci-fi no Japão pode ser minimamente divertido. Ele também pode ser uma aula sobre Cinema. Todos os erros crassos de roteiro estão todos ali, mas muito bem pontuados. E, por fim, é uma aula sobre como fazer um filme-catástrofe sem apelar para efeitos digitais de quinta categoria. Basta apresentar um conceito (ou dois) que descarta a necessidade de naves penduradas com fios, para não correr o risco de virar um Plano 9 do Espaço Sideral Oriental. Mas cuidado com seus conceitos: pode haver um alien por perto tentando roubá-lo.
+"Antes que Tudo Desapareça" pode ser um longo espetáculo sobre como o trash sci-fi no Japão pode ser minimamente divertido. Ele também pode ser uma aula sobre Cinema. Todos os erros crassos de roteiro estão aí, embora muito bem equilibrados. E, por fim, é uma aula sobre como fazer um filme-catástrofe sem apelar para efeitos digitais de quinta categoria. Basta apresentar um conceito (ou dois) que descarta a necessidade de naves penduradas com fios, para não correr o risco de virar um Plano 9 do Espaço Sideral Oriental. Mas cuidado com seus conceitos: pode haver um alien por perto tentando roubá-lo.

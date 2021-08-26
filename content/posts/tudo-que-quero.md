@@ -5,7 +5,6 @@ date: '2018-04-11'
 link: https://www.imdb.com/title/tt4652650
 tags:
 - cinemaqui
-- draft
 - movies
 title: Tudo que Quero
 ---
@@ -18,7 +17,7 @@ Então o roteirista Michael Golamco adapta sua própria peça em que a garota au
 
 Olhando pelos lindos olhos de Dakota Fanning enxergamos um esforço sincero em ser a menina excepcional que infelizmente tem algumas limitações emocionais em sua cabeça. Mas ela é brilhante. Ela consegue reescrever seu gigantesco roteiro de cor (a única piada do filme é imaginar um episódio de Star Trek vindo de um roteiro de 400 páginas). Seu roteiro atrai a atenção de quem o lê, mas nem isso sua atenciosa cuidadora consegue fazer. A cuidadora, uma desperdiçada Toni Collette, comete um erro comum de convivência no dia a dia com pessoas que amamos, excepcionais ou não: dar atenção para o que menos importa. Ela é orgulhosa dos avanços na rotina de sua paciente, mas durante todo esse tempo foi incapaz de pesquisar o que é Star Trek.
 
-Enquanto isso, a irmã vivida por Alice Eve é uma versão frustrante de uma pessoa comum incapaz de lidar com o fato de que sua caçula às vezes foge do controle, mas na maioria do tempo parece estar bem. O filme inadvertidamente acaba revelando a doença americana de enxergar doença em tudo que fuja de um padrão de comportamento aceitável. É uma bênção que não exista ainda um remédio a ser vendido para autismo, pois ele seria rapidamente topo dos prontuários médicos de autismo em todo aquele país, causando mais um problema crônico criado pelo TOC coletivo de não aceitar a não-individualidade alheia.
+Enquanto isso, a irmã vivida por Alice Eve é uma versão frustrante de uma pessoa comum incapaz de lidar com o fato de que sua caçula às vezes foge do controle, mas na maioria do tempo está bem. O filme inadvertidamente acaba revelando a doença americana de enxergar doença em tudo que fuja de um padrão de comportamento aceitável. É uma bênção que não exista ainda um remédio a ser vendido para autismo, pois ele seria rapidamente topo dos prontuários médicos de autismo em todo aquele país, causando mais um problema crônico criado pelo TOC coletivo de não aceitar a não-individualidade alheia.
 
 Em um momento ou dois do longa você será brindado com suas belíssimas músicas, cuja trilha sonora fui incapaz de encontrar. A trilha temática de fundo do brasileiro Heitor Pereira possui uma graça em sintetizar o humor convencional com a leveza da história e a repetição de padrões (não apenas no filme, mas no gênero). Sendo brincadeira ou não, funciona, e o espectador é levado a acreditar que ele também é autista. E se torna um autista impaciente em algum momento dos longuíssimos 93 minutos do filme. Só espero que nas sessões comerciais as pessoas tenham a decência de sair da sala em vez de começar uma gritaria e bater na própria cabeça.
 

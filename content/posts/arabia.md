@@ -5,14 +5,13 @@ date: '2018-03-24'
 link: https://www.imdb.com/title/tt6400280
 tags:
 - cinemaqui
-- draft
 - movies
 title: Arábia
 ---
 
 Arábia é um filme com muitos momentos marcantes. E esses momentos são marcantes principalmente por conta de seus belíssimos enquadramentos, que evocam em todos os elementos presentes em cena o significado da história que está sendo contada. E o mais impressionante é que a história contada é um épico de um homem comum, anônimo, e por que não, invisível.
 
-E é justamente por esse homem ser invisível que sua história é achada ao acaso. E ele é tão irrelevante no começo do filme que sequer o vemos no início. O filme começa com um garoto que mora em um vilarejo onde existe uma fábrica, que faz barulhos eternos e parece soltar no ar o que deixa sua população doente, incluindo o irmão caçula desse garoto. Passamos brevemente por uma introdução do que parece ser uma história sobre eles, os dois irmãos e uma enfermeira local, mas um acidente ocorre, um dos funcionários da fábrica é hospitalizado e uma espécie de biografia é encontrada por esse mesmo garoto. E de repente o operário anônimo ganha seu próprio filme.
+E é justamente por esse homem ser invisível que sua história é achada ao acaso. E ele é tão irrelevante no começo do filme que sequer o vemos no início. O filme começa com um garoto que mora em um vilarejo onde existe uma fábrica, que faz barulhos eternos e solta no ar o que deixa sua população doente, incluindo o irmão caçula desse garoto. Passamos brevemente por uma introdução de uma história sobre eles, os dois irmãos e uma enfermeira local, mas um acidente ocorre, um dos funcionários da fábrica é hospitalizado e uma espécie de biografia é encontrada por esse mesmo garoto. E de repente o operário anônimo ganha seu próprio filme.
 
 Os diretores Affonso Uchoa e João Dumans possuem um olhar especial sobre o trabalhador comum. E este trabalhador é real da ponta dos pés aos fios de cabelo. Sua expressão vazia não nos diz nada, mas há seu relato escrito, de maneira desajeitada que traz uma poesia peculiar. A poesia das ruas. Há um momento belíssimo em que ele está no violão tocando e cantando a letra icônica de Mano Brown, O Homem na Estrada:
 
@@ -34,9 +33,9 @@ Os diretores Affonso Uchoa e João Dumans possuem um olhar especial sobre o trab
 > o bar e o candomblé pra se tomar a benção. 
 > Esse é o palco da história que 
 > por mim será contada. 
-> ...um homem na estrada.
+> Um homem na estrada.
 
-Essa letra praticamente resume a pequena história de Cristiano. Aliás, digo mais: esta é a história de Cristiano e do personagem da música do Racionais MCs, o que torna o rapaz ainda mais anônimo, pertencente ao imaginário popular e provavelmente fruto de inspiração de histórias semelhantes. A sua própria história de amor é tão comum que qualquer um de nós que estiver lendo este texto se identificará. E é nessa identificação com o comum que algo perene, eterno, parece se elevar dessa massa de comuns.
+Essa letra praticamente resume a pequena história de Cristiano. Aliás, digo mais: esta é a história de Cristiano e do personagem da música do Racionais MC's, o que torna o rapaz ainda mais anônimo, pertencente ao imaginário popular e provavelmente fruto de inspiração de histórias semelhantes. A sua própria história de amor é tão comum que qualquer um de nós que estiver lendo este texto se identificará. E é nessa identificação com o comum que algo perene, eterno, se eleva dessa massa de comuns.
 
 O filme de Uchoa/Dumans (escrito e dirigido) possui obviamente conotações políticas, e ele as coloca pavimentando o caminho da narrativa. Este trabalhador que escreve certo por linhas tortas sabe demais sobre a teoria do capitalismo de Marx, o que talvez seja a maior falha do longa: embutir no proletariado um conhecimento que sabemos que ele não possui na vida real. Mas, como todo roteiro que é esperto demais para seus personagens, o cinéfilo saberá desviar deste pecadilho para aproveitar o espetáculo de metáforas e analogias sobre exploração e um desejo por uma utopia paradisíaca onde todos irão deixar as fábricas e dar as mãos.
 

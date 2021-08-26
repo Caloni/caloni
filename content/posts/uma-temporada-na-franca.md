@@ -5,14 +5,13 @@ date: '2018-04-02'
 link: https://www.imdb.com/title/tt7177156
 tags:
 - cinemaqui
-- draft
 - movies
 title: Uma Temporada na França
 ---
 
 Uma Temporada na França é um filme que você provavelmente já viu, mas de outras formas mais pesadas. Isso porque o tema de refugiados pode revelar situações muito dramáticas, além de ser fonte principal de inspiração hoje em dia no cinema da Europa. O diretor e roteirista Mahamat-Saleh Haroun tenta, então, tornar esse tema fácil de assistir, palatável até para a família. O resultado é uma fábula com resultados mistos.
 
-Seu protagonista Abbas Mahadjir é uma criatura complexa que vai demonstrando sua força poética aos poucos. Refugiado a 19 meses com um filho e uma filha, tendo sua esposa morrido durante a viagem, o viúvo recente que precisa reconstruir a vida (e a de seus filho) em terra estrangeira é construído pelo ator Eriq Ebouaney em pequenos detalhes. Primeiro sua dificuldade em se comunicar com sua namorada a tempestade de emoções pela qual ainda está passando. Ou sua maneira de guardar sua frustração em movimentos discretos de cabeça baixa e um silêncio perturbador. Ou até quando ele desconta pontualmente sua raiva, chutando aleatoriamente algo na rua, contra os revezes que impedem que ele conclua o que ele começou ao lado de sua mulher.
+Seu protagonista Abbas Mahadjir é uma criatura complexa que vai demonstrando sua força poética aos poucos. Refugiado há 19 meses com um filho e uma filha, tendo sua esposa morrido durante a viagem, o viúvo recente que precisa reconstruir a vida (e a de seus filho) em terra estrangeira é construído pelo ator Eriq Ebouaney em pequenos detalhes. Primeiro sua dificuldade em se comunicar com sua namorada por causa da tempestade de emoções pela qual está passando. Ou sua maneira de guardar sua frustração em movimentos discretos de cabeça baixa e um silêncio perturbador. Ou até quando ele desconta pontualmente sua raiva, chutando aleatoriamente algo na rua, contra os revezes que impedem que ele conclua o que ele começou ao lado de sua mulher.
 
 Do outro lado da equação temos uma autêntica Sandrine Bonnaire, que com sua polonesa Carole Blaszak não apenas legitimiza a causa refugiada, lembrando que leis de imigração já foram um empecilho para salvar vidas no passado não tão distante da Segunda Guerra, como com sua simplicidade tenta nos remeter, assim como Ebouaney, para a vida real, onde a maioria das pessoas são simples e esperam apenas ser deixadas em paz para trabalhar e seguir com suas vidas.
 
