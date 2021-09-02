@@ -4,7 +4,6 @@ categories:
 date: '2018-05-10'
 tags:
 - cinemaqui
-- draft
 - movies
 title: O Renascimento do Parto 2
 ---
@@ -15,7 +14,7 @@ Iniciando dessa vez apresentando os diversos entrevistados e suas funções, que
 
 Utilizando vídeos-denúncia em seu início, em cenas fortes e revoltantes, onde médicos realizam procedimentos de caráter duvidoso e cujos nomes são muito citados, mas nunca explicados (o mais revoltante é um que empurra o bebê de dentro da barriga da mãe para fora, quase subindo em cima da mulher) O Renascimento do Parto 2 já começa, assim como seu antecessor, delineando seu apelo para as emoções regado a testemunhos emocionados e jogando conclusões que defendem o único lado defendido no longa: precisamos humanizar o processo de parto a qualquer custo, e doa a quem doer.
 
-E não que eu seja contra essa ideia. Aliás, acho muito difícil alguém ser contra. Esse movimento é como aqueles slogans de "todo contra o câncer" (como se existisse alguém a favor). Portanto, longe de atacar a ideia desses dois filmes, embora seu conteúdo e forma mereçam todos os ataques cabíveis, muito embora isso soe desnecessário, já que o próprio filme parece se sabotar com discursos infantis, inflamados e com uma mescla entre cenas-denúncia (maus tratos à mãe e ao bebê durante o parto) e "cenas-esperança" (partos humanizados, em casa ou com profissionais que lidam com o psicológico da mãe). Não se trata de buscar a "verdade", mas de esfregá-la na cara do espectador, apontar a solução final. O filme já começa concluindo e o resto é só uma sequência de imagens para florear.
+E não que eu seja contra essa ideia. Aliás, acho muito difícil alguém ser contra. Esse movimento é como aqueles slogans de "todos contra o câncer" (como se existisse alguém a favor). Portanto, longe de atacar a ideia desses dois filmes, embora seu conteúdo e forma mereçam todos os ataques cabíveis, muito embora isso soe desnecessário, já que o próprio filme parece se sabotar com discursos infantis, inflamados e com uma mescla entre cenas-denúncia (maus tratos à mãe e ao bebê durante o parto) e "cenas-esperança" (partos humanizados, em casa ou com profissionais que lidam com o psicológico da mãe). Não se trata de buscar a "verdade", mas de esfregá-la na cara do espectador, apontar a solução final. O filme já começa concluindo e o resto é só uma sequência de imagens para florear.
 
 Isso quer dizer que, falando da sua narrativa, o filme não tem nenhuma. O diretor Eduardo Chauvet tenta usar um fiapo de história envolvendo uma mãe tentando filmar uma entrevista no hospital onde fez sua cirurgia de cesárea, e foi muito mal atendida, e os problemas em tentar agendar um horário com o diretor do hospital (algo meio óbvio para qualquer ser humano sensato), mas a história é apenas recortada para dar a sensação de um longo processo. No caminho para o hospital ela conversa com o motorista, aparentemente de um serviço de transporte privado. E essa parece ser a pessoa mais sensata do filme todo (porque não está inserido nele). Mesmo tentando forçar uma situação imediatista, o longa é incapaz de gerar qualquer tensão ou conflito; apenas cenas que se misturam em um mosaico que não significa nada mais que um apanhado de power point em forma de videos caseiros e que não parecem ter nada a acrescentar, apenas a reforçar.
 

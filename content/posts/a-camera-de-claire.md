@@ -5,7 +5,6 @@ date: '2018-05-03'
 link: https://www.imdb.com/title/tt5989220
 tags:
 - cinemaqui
-- draft
 - movies
 title: A Câmera de Claire
 ---
@@ -18,6 +17,6 @@ Já sobre as cenas do filme, elas ocorrem em cenários definidos, em planos que 
 
 Mas além de ouvirmos o som ambiente o tempo todo também o que é dito é relevante por não dizer muita coisa (mais um traço da vida real). As falas, em inglês simples, são parte do small talk do dia a dia. Uma prova disso, além do vocabulário, é que palavras são repetidas todo o tempo. Note a pobreza na comunicação quando se comenta que fulano gosta de beber. Isso é comentado três ou quatro vezes na mesma fala, e em cada uma delas existe uma tentativa diferente de comunicar o mesmo fato com um certo juízo. Exatamente como pessoas tentam se comunicar, mas por não serem dotadas da magia de sintetizar intenções como roteiristas no Cinema, acabam cambaleando entre as palavras.
 
-Existe um motivo interno para o inglês "pobre", já que na história contada Claire é francesa e seus personagens são coreanos. Mas além dessa ser uma desculpa ótima para a abordagem cotidiana, a coisa não para por aí. Este é um filme onde os próprios acontecimentos marginais ocorrem como na vida real, onde a mecânica não apenas reflete, como simplesmente é. Onde para atravessar a rua as pessoas precisam estar atentas com os carros e onde nem sempre a faixa de pedestres está desobstrúida.
+Existe um motivo interno para o inglês "pobre", já que na história contada Claire é francesa e seus personagens são coreanos. Mas além dessa ser uma desculpa ótima para a abordagem cotidiana, a coisa não para por aí. Este é um filme onde os próprios acontecimentos marginais ocorrem como na vida real, onde a mecânica não apenas reflete, como simplesmente é. Onde para atravessar a rua as pessoas precisam estar atentas com os carros e onde nem sempre a faixa de pedestres está desobstruída.
 
 Os pedaços do tecido cortado pela menina do filme por raiva lembram os polaroides de Claire. Em um dos momentos finais do filme a vemos tentando vestir um pedaço desse tecido, que ela considera de qualidade fabulosa. Texto e tecido estão relacionamentos etimologicamente, do Latim textum, "tecido, entrelaçamento". E a Câmera de Claire é essa máquina de costurar, que conta uma história através de suas fotos, que revelam momentos entrelaçados. A textura dessa história depende dos seus personagens, que estão vivos, nas ruas, e mudam toda vez que uma foto deles é tirada.

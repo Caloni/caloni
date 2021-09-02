@@ -5,7 +5,6 @@ date: '2018-05-16'
 link: https://www.imdb.com/title/tt8327798
 tags:
 - cinemaqui
-- draft
 - movies
 title: A Vida Extra-Ordinária de Tarso de Castro
 ---
@@ -14,7 +13,7 @@ A única forma honesta de escrever sobre "A Vida Extra-Ordinária de Tarso De Ca
 
 E quando se diz "naquela época" neste filme surge uma repentina melancolia, pois vivemos um tempo que há uma queda abrupta sobre o que significa ser jornalista. Antigamente existia a mente questionadora, a mente empreendedora e a mente irreverente, todas necessárias para a criação de uma notícia com opinião embasada na vida real. Hoje, ou há muito mais tempo, como ouvimos do próprio Tarso (ainda que em palavras mais simples), o jornalista inverteu os papéis de investigador da realidade para consumidor de conteúdo. Ele não vai mais ao bar, à esquina, questionar o que há. Ele apenas recebe o release da grande imprensa e arrisca de pouco a nada para continuar vivendo.
 
-E o filme da dupla de diretores/roteiristas Leo Garcia e Zeca Brito não foge disso. Tendo como entrevistados uma classe de jornalistas velhos, quase (ou já) aposentados, ou artistas decadentes e cujas opiniões já não fazem mais sentido há muito tempo (olá, Caetano Veloso), o filme parece estar sendo rodado eternamente em uma berlinda. Todos tentam descobrir quem é Tarso de Castro, mas o que todos dizem se resume nas obviedades de quem não tem nada a dizer: gênio, brilhante, com caráter, sem caráter, mulherengo, homossexual. E amava o jornalismo. Uma figura controversa sem dúvida. Mas graças a Deus controversa. Do contrário o filme seria de um marasmo ainda maior.
+E o filme da dupla de diretores/roteiristas Leo Garcia e Zeca Brito não foge disso. Tendo como entrevistados uma classe de jornalistas velhos, quase (ou já) aposentados, ou artistas decadentes e cujas opiniões já não fazem mais sentido há muito tempo (olá, Caetano Veloso), o filme está sendo rodado eternamente em uma berlinda. Todos tentam descobrir quem é Tarso de Castro, mas o que todos dizem se resume nas obviedades de quem não tem nada a dizer: gênio, brilhante, com caráter, sem caráter, mulherengo, homossexual. E amava o jornalismo. Uma figura controversa sem dúvida. Mas graças a Deus controversa. Do contrário o filme seria de um marasmo ainda maior.
 
 Porque uma coisa é colocar grandes pensadores trocando ideias em mesas de bares, restaurantes ou falando ao telefone. A didática do filme é clara: usar os costumes do falecido jornalista -- falar ao telefone, ir ao bar para conversar sobre as novidades -- nos entrevistados, como se ele ainda estivesse ouvindo do outro lado da linha. A dinâmica de um entrevistado falar ao telefone é usada tantas vezes que ela cria tensão o suficiente para que o filme continue sem soar mais do mesmo. Cada nova ligação parece importante. Até não ser mais.
 
