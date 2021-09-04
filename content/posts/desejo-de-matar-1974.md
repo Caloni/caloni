@@ -4,7 +4,6 @@ categories:
 date: '2018-05-22'
 link: https://www.imdb.com/title/tt0071402
 tags:
-- draft
 - movies
 title: Desejo de Matar (1974)
 ---
@@ -15,7 +14,7 @@ O filme de Michael Winner estrela Charles Bronson, um dos durões da época. Bro
 
 Essa moral duvidosa é tão bem caracterizada pelo detetive do filme, o gordo e suado Vincent Gardenia em um daqueles casts perfeitos que acontecem de vez em quando, que não há nada a ser dito sobre como funciona a execução da lei nas ruas americanas, notadamente Nova York. Um fato interessante: no filme original o personagem de Bronson, Paul Kersey, começa em Nova York e termina em Chicago. No novo filme com Willis o "mesmo" Paul Kersey (agora cirurgião e pai de outra família) sai de Chicago e vai parar em Nova York. E em ambas as situações a polícia é incompetente e corrupta, ou leniente com suas próprias leis, até certo ponto.
 
-O roteiro de Wendell Mayes difere do de Joe Carnahan (a versão com Bruce Willis) apenas na intensidade. Mas a mensagem parece ficar mais clara aqui: fazer a lei com as próprias mãos é uma função de todo cidadão que se preze, e não há nada de errado nisso. Este filme é mais americano no sentido tradicional que seu remake, não há dúvida. Ou estaríamos vivendo uma nova era de maricas?
+O roteiro de Wendell Mayes difere do de Joe Carnahan (a versão com Bruce Willis) apenas na intensidade. Mas a mensagem fica mais clara aqui: fazer a lei com as próprias mãos é uma função de todo cidadão que se preze, e não há nada de errado nisso. Este filme é mais americano no sentido tradicional que seu remake, não há dúvida. Ou estaríamos vivendo uma nova era de maricas?
 
 A mulher de Bronson morre brutalmente e no seu enterro ele ainda não mudou sua cara desde a despedida de suas férias com a esposa no Havaí, nem deixou de usar seu característico bigode. Bronson não é um ator em trabalho, mas um símbolo. Ele e Willis protagonizando o mesmo filme em décadas distintas é um daqueles momentos iluminados do Cinema de ação policial misturado com drama.
 
