@@ -4,7 +4,6 @@ categories:
 date: '2018-06-25'
 link: https://www.imdb.com/title/tt4881806
 tags:
-- draft
 - movies
 title: 'Jurassic World: Reino Ameaçado'
 ---
@@ -19,4 +18,4 @@ Mas este é um filme cujos momentos foram planejados unicamente para fazer refer
 
 Com um enredo que existe meramente para voltarmos a esse mundo, a história sequer se preocupa em apresentar personagens que façam algum sentido. Quando o rabo de saia convida o macho alfa para voltar para a ilha, agora em erupção, sozinho, para buscar o filhote de dino que ele cuidou desde a infância, não importa. Apesar de Chris Pratt ser um excelente ator de comédias, essa parte dramática faltou para dar peso à história.
 
-O que dizer mais? Os vilões são os 1% mais ricos, que fazem um leilão pelas criaturas orquestrada pela figura horrenda de um ator competente (Toby Jones o nome), mas que aqui se presta a uma caricatura (que nem assim se torna convincente). Ah, quase ia esquecendo: o caçador dessa vez ele próprio já é chamado de cada como o White Male Hunter, uma figura recorrente na série. O fato dele ser exatamente isso e nada mais mais uma vez comprova que este não é um filme em forma de parque, mas um parque de diversões em forma de filme. Assista na ordem que preferir.
+O que dizer mais? Os vilões são os 1% mais ricos, que fazem um leilão pelas criaturas orquestrada pela figura horrenda de um ator competente (Toby Jones o nome), mas que aqui se presta a uma caricatura (que nem assim se torna convincente). Ah, quase ia esquecendo: dessa vez o próprio caçador já é chamado como o "White Male Hunter", uma figura recorrente na série. O fato dele ser exatamente isso e nada comprova que este não é um filme em forma de parque, mas um parque de diversões em forma de filme. Assista na ordem que preferir.

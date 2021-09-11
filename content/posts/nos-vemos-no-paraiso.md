@@ -5,7 +5,6 @@ date: '2018-06-29'
 link: https://www.imdb.com/title/tt5258850
 tags:
 - cinemaqui
-- draft
 - movies
 title: Nos Vemos no Paraíso
 ---

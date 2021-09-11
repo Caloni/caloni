@@ -4,7 +4,6 @@ categories:
 date: '2018-07-01'
 link: https://www.imdb.com/title/tt0018876
 tags:
-- draft
 - movies
 title: A Mulher Do Fazendeiro
 ---
@@ -15,7 +14,7 @@ Isso não quer dizer que o enquadramento anterior estava inadequado, pois não e
 
 Na época do cinema mudo a proporção da tela era 4:3. Ou seja, quase quadrada. Isso exige algum malabarismo para colocar tudo que importa no quadro.
 
-A história é simples: recém viúvo se sente solitário e sai em busca de pretendentes para se casar novamente. Desde o começo sabemos que sua governanta nutre uma afeição por ele. O cinema mudo exagera nos gestos e expressões, mas veja como economia nos diálogos! Aos poucos vemos como ele não tem jeito com as damas, vai as perdendo uma a uma. Note também como na época não era um disparate falar sobre idade e peso das moças (claro que elas não gostavam muito, principalmente se eram feias e gordas).
+A história é simples: recém viúvo se sente solitário e sai em busca de pretendentes para se casar novamente. Desde o começo sabemos que sua governanta nutre uma afeição por ele. O cinema mudo exagera nos gestos e expressões, mas veja como economiza nos diálogos! Aos poucos vemos como ele não tem jeito com as damas, vai as perdendo uma a uma. Note também como na época não era um disparate falar sobre idade e peso das moças (claro que elas não gostavam muito, principalmente se eram feias e gordas).
 
 Os momentos engraçados incluem também seu capataz, sempre bêbado, mau humorado e um tanto vagabundo. Os personagens no filme não cumprem função na história principal, são coadjuvantes que acrescentam ao universo, como hoje em dia na TV.
 
