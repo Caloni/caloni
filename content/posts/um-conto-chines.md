@@ -1,15 +1,14 @@
 ---
 categories:
 - reviews
-date: '2018-07-14'
+date: '2011-04-27'
 link: https://www.imdb.com/title/tt1705786
 tags:
-- draft
 - movies
 title: Um Conto Chinês
 ---
 
-(27 de abril de 2011) Assistir um filme argentino, em espanhol, em Buenos Aires, pode ser uma experiência inspiradora, ainda mais se estivermos falando de Cinema com C maiúsculo.
+Assistir um filme argentino, em espanhol, em Buenos Aires, pode ser uma experiência inspiradora, ainda mais se estivermos falando de Cinema com C maiúsculo.
 
 Independente das minhas parcas capacidades de entender diálogos rápidos de castelhano, Cuento Chino consegue contar sua história com o uso de expressões, trilha sonora, e, principalmente, seu aspecto visual, que emprega um ritmo muito maior se fossem utilizados diálogos.
 

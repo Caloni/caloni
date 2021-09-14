@@ -5,14 +5,13 @@ date: '2018-07-17'
 link: https://www.imdb.com/title/tt6515342
 tags:
 - cinemaqui
-- draft
 - movies
 title: O Doutor da Felicidade
 ---
 
-Eu entendo o porquê do lançamento de O Doutor da Felicidade ser direto para streaming: se trata de um filme com um quê televisivo, de baixa produção, e que não tenta esconder isso. O que eu não entendo é um ator com o carisma e talento de Omar Sy acabar participando deste projeto, sendo que ele próprio nos prova, através de uma cena linda perto do final do filme (você irá reconhecê-la pela frase "onde está o crime?" e pela possível referência a "M, O Vampiro de Dusseldorf"), que é capaz de participar de dramas mais formatadinhos.
+Eu entendo o porquê do lançamento de O Doutor da Felicidade ser direto para streaming: se trata de um filme com um quê televisivo, de baixa produção, e que não tenta esconder isso. O que eu não entendo é um ator com o carisma e talento de Omar Sy acabar participando deste projeto; ele nos prova capaz de participar de dramas mais formatadinhos através de uma cena linda perto do final do filme; você irá reconhecê-la pela frase "onde está o crime?" e pela possível referência a "M, O Vampiro de Dusseldorf".
 
-Bom, estou constatando o óbvio, você que já o viu em Intocáveis, Samba, Chocolate, apenas para citar os onde ele aparece mais. Realizando uma escalada admirável em sua carreira, quase sempre preocupado em extrair o máximo de expressividade e carisma empacotados em uma força de vontade contagiosa (mesmo que ele esteja fazendo um imigrante ilegal à beira de passar fome), o ator francês tem potencial para percorrer os mesmos caminhos que uma Juliette Binoche percorreu ao longo das décadas, mesclando produções hollywoodianas com trabalhos mais intimistas.
+Bom, estou constatando o óbvio, você que já o viu em Intocáveis, Samba, Chocolate, apenas para citar os mais populares. Realizando uma escalada admirável em sua carreira, quase sempre preocupado em extrair o máximo de expressividade e carisma empacotados em uma força de vontade contagiosa (mesmo que ele esteja fazendo um imigrante ilegal à beira de passar fome), o ator francês tem potencial para percorrer os mesmos caminhos que uma Juliette Binoche percorreu ao longo das décadas, mesclando produções hollywoodianas com trabalhos mais intimistas.
 
 E o filme do diretor/roteirista Lorraine Lévy não está em nenhuma dessas categorias. Baseado em uma peça de Jules Romains, de 1923, adaptada meia-dúzia de vezes no Cinema, e que originalmente era uma sátira sobre a hipocondria, este novo retrabalho do material tenta se manter no nível de um conto lúdico, mas também tenta passar uma lição de moral que não condiz exatamente com o que foi visto até então.
 
