@@ -5,7 +5,6 @@ date: '2018-08-01'
 link: https://www.imdb.com/title/tt4947672
 tags:
 - cinemaqui
-- draft
 - movies
 title: Café
 ---

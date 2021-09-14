@@ -4,14 +4,13 @@ categories:
 date: '2018-07-20'
 link: https://www.imdb.com/title/tt1058017
 tags:
-- draft
 - movies
 title: O Primeiro Mentiroso
 ---
 
 Esta é daquelas comédias que tem o humor de comediantes de standup, mas que deu certo. Bom, Rick Gervais dificilmente dá errado. Aqui ele parte de uma história original, o que é louvável, pois ela é mais complicada de desenvolver do que parece. E cai no lugar-comum porque ele não é um roteirista de primeira.
 
-Mas até chegar a nessa conclusão o espectador irá se divertir imensamente do resultado, que é o que importa, afinal de contas. A história já brinca com o conceito de filme nos créditos iniciais. Nosso narrador comenta "aguardem os créditos iniciais... por que temos créditos iniciais? Esses produtores ficam falando como é importante ter créditos iniciais...". Em seguida ele verbalmente nos informa que essa humanidade onde os eventos se passam não possui o conceito de mentira. Isso quer dizer que todos são os mais honestos possíveis a maior parte do tempo. Em seguida vemos diferentes exemplos de como isso ocorre, como casais tendo uma briga sincera, onde admitem o que um odeia no outro, ou a bizarra relação entre garçons e clientes em um restaurante (o garçom chega dizendo "eu me sinto embaraçado de estar aqui, e você é bonita, o que me deixa mais embaraçado ainda").
+Mas até chegar a nessa conclusão o espectador irá se divertir imensamente com o resultado, que é o que importa, afinal de contas. A história já brinca com o conceito de filme nos créditos iniciais. Nosso narrador comenta "aguardem os créditos iniciais... por que temos créditos iniciais? Esses produtores ficam falando como é importante ter créditos iniciais...". Em seguida ele verbalmente nos informa que essa humanidade onde os eventos se passam não possui o conceito de mentira. Isso quer dizer que todos são os mais honestos possíveis a maior parte do tempo. Em seguida vemos diferentes exemplos de como isso ocorre, como casais tendo uma briga sincera, onde admitem o que um odeia no outro, ou a bizarra relação entre garçons e clientes em um restaurante (o garçom chega dizendo "eu me sinto embaraçado de estar aqui, e você é bonita, o que me deixa mais embaraçado ainda").
 
 O que é um verdadeiro mistério para mim. A partir de que momento surge essa vontade nas pessoas de dizer algumas verdades para as outras? Elas simplesmente sentem que precisam dizer algo sobre a pessoa com quem conversam e soltam o verbo? Mas pra quê? Essa não me parece apenas uma sociedade que se esqueceu que é possível mentir, mas também uma sociedade com compulsão por machucar pessoas aleatoriamente. Não parece haver um critério sólido sobre como essa regra funciona.
 

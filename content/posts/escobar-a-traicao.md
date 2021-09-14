@@ -5,18 +5,17 @@ date: '2018-08-14'
 link: https://www.imdb.com/title/tt4682788
 tags:
 - cinemaqui
-- draft
 - movies
 title: Escobar - A Traição
 ---
 
 Escobar - A Traição é mais uma visita ao inesgotável mundo de Pablo Escobar, este cabrón que construiu um império em cima de outros impérios e teve que pagar as consequências. Uma história tão impactante e dramática como essa (porque é real) já foi explorada inúmeras vezes na ficção, e recentemente ganhou séries e filmes. Então, qual a grande novidade dessa vez?
 
-A novidade, creio eu, fica por conta de Penélope Cruz e Javier Bardem, que fazem respectivamente Virginia, a colombiana bem sucedida e famosa em terra estrangeira e cujo livro inspirou este roteiro, e Pablo, este colombiano novo rico que se orgulha de sua terra e que comprou a briga contra todos que se meter em seus negócios, sejam concorrentes, a polícia, os políticos ou sua amante.
+A novidade, creio eu, fica por conta de Penélope Cruz e Javier Bardem, que fazem respectivamente Virginia, a colombiana bem sucedida e famosa em terra estrangeira e cujo livro inspirou este roteiro, e Pablo, este colombiano novo rico que se orgulha de sua terra e que comprou a briga contra todos que se meterem em seus negócios, sejam concorrentes, a polícia, os políticos ou sua amante.
 
 Não é muito difícil caracterizar Pablo Escobar, este senhor bigodudo de meia idade como rei da barriga e uma forma de se portar que demonstram uma pessoa comum que se equilibra na onda de dinheiro e poder como magnata da cocaína enquanto tenta zelar pela sua família à sua maneira. Mas Javier Bardem vai além que o lugar-comum de tantos intérpretes. Podemos começar notando (e como não notar?) sua magnífica barriga em forma de banheira, que faz questão de exibir sempre que pode, andando com a camisa aberta. Além disso, uma cena em que sai correndo pelado, apesar de desnecessária, e acredite, mesmo que você seja fã do físico de Javier, não há nada para se ver aqui, pode ser utilizada para mostrar que o ator (e produtor) leva seu papel a sério. Sua cara inchada e levemente suada, com os olhos beirando as lágrimas, atravessa neste filme o caminho que vai do topo do mundo para sua queda fatal, em uma construção de personagem que se baseia em nuances meticulosas.
 
-Observe como seu estado de humor, por exemplo, vai aos poucos mudando de brincalhão e confiante para irritado e com ataques de raiva cada vez mais frequente (e dê poder a um homem temperamental e logo veja os corpos começar a cair). Veja também como seu olhar, geralmente de cima para baixo, começa aos poucos a cambalear junto com suas costas arqueadas, sua respiração mais dificultada, a olhar cada vez mais para o chão. É uma mudança de postura completa, mas sutil, que vale conferir durante o longa.
+Observe como seu estado de humor, por exemplo, vai aos poucos mudando de brincalhão e confiante para irritado e com ataques de raiva cada vez mais frequente (e dê poder a um homem temperamental e logo veja os corpos começarem a cair). Veja também como seu olhar, geralmente de cima para baixo, começa aos poucos a cambalear junto com suas costas arqueadas, sua respiração mais dificultada, a olhar cada vez mais para o chão. É uma mudança de postura completa, mas sutil, que vale conferir durante o longa.
 
 Já Penélope Cruz sofre um pouco com sua personagem. É óbvio que os dois se enamoram por terem afinidades que vão além da origem ilícita do seu dinheiro. Quando ela observa as casas que Pablo mandou construir para o povo da favela onde morava, ela, quase como defendendo um governo, para de questionar de onde vem os recursos de seu namorado e apreciar o fim para o qual ele é usado. E claro, ela se apaixona no momento em que ele enche sua mala de dinheiro e pede para que não economize. Ela também é uma nova rica, mas depois de Pablo ela parece sentir que subiu mais um degrau na escala de poder e fama. O mais curioso é como ela considera isso naquele momento algo bom.
 
