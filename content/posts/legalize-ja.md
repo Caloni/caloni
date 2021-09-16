@@ -5,7 +5,6 @@ date: '2018-09-28'
 link: https://www.imdb.com/title/tt5818404
 tags:
 - cinemaqui
-- draft
 - movies
 title: Legalize Já! Amizade Nunca Morre
 ---
@@ -18,9 +17,9 @@ Skunk é um negro vindo do microcosmos artístico da contracultura, inspirado po
 
 Justamente por isso sua caracterização no filme é iconográfica demais. Interpretado com uma naturalidade ímpar por Ícaro Silva, que sintetiza uma figura indignada com a sociedade e fazendo valer suas ideias em fitas K7 que distribui aleatoriamente entre a multidão, não sabemos muito sobre sua vida, nem seus pecados, nem seus desejos. Exceto um: depois de topar acidentalmente com Marcelo (uma cena em paralela empolgante), torná-lo o bastião das boas novas da música de revolta no cenário brazuca. É estiloso, ele se veste bem, mas algo soa falso nesse personagem da vida real que sempre é abordado pela polícia e tem suas fitas jogadas no chão. Importante lembrar que o DJ que vive andando por aí espalhando suas fitas é tão clichê que já nos anos 90 era batido. Nem por isso a atuacão de Ícaro se torna menos interessante.
 
-Já Marcelo, como não poderia deixar de ser, partindo de um argumento do próprio Marcelo D2 que levou à produção do filme, é um herói anti-establishment. Vive na casa do pai, mas logo terá que seguir o próprio rumo, pois sua namorada está grávida e eles precisam do dinheiro para abortar, e é curioso notar como "Legalize Já!" passa longe dessa outra atividade considerada crime ainda hoje em solo nacional. Enquanto Ícaro convence com a aparição misteriosa de Skunk, Renato Góes parece levar a pior, pois precisa viver um personagem que é muito mais ele apenas quando está cantando. Na maioria do tempo ele é um cidadão anônimo em busca do seu lugar ao sol.
+Já Marcelo, como não poderia deixar de ser, partindo de um argumento do próprio Marcelo D2 que levou à produção do filme, é um herói anti-establishment. Vive na casa do pai, mas logo terá que seguir o próprio rumo, pois sua namorada está grávida e eles precisam do dinheiro para abortar, e é curioso notar como "Legalize Já!" passa longe dessa outra atividade considerada crime ainda hoje em solo nacional. Enquanto Ícaro convence com a aparição misteriosa de Skunk, Renato Góes leva a pior, pois precisa viver um personagem que é muito mais ele apenas quando está cantando. Na maioria do tempo ele é um cidadão anônimo em busca do seu lugar ao sol.
 
-Se Skunk parte de uma fábula do negro injustiçado, Marcelo tem poucas chances de ter seu drama levado a sério. Seu maior sacrifício na vida parece se sujeitar a trabalhar de vendedor em uma loja de eletrodomésticos. Bom, se considerarmos que na loja as músicas escolhidas para entreter o cliente são "na boquinha da garrafa" e similares, hits dos anos 90, talvez o filme tenha seus motivos para dramatizar a rotina sufocante de Marcelo, que já escrevia suas letras de revolta há um tempo.
+Se Skunk parte de uma fábula do negro injustiçado, Marcelo tem poucas chances de ter seu drama levado a sério. Seu maior sacrifício na vida é se sujeitar a trabalhar de vendedor em uma loja de eletrodomésticos. Bom, se considerarmos que na loja as músicas escolhidas para entreter o cliente são "na boquinha da garrafa" e similares, hits dos anos 90, talvez o filme tenha seus motivos para dramatizar a rotina sufocante de Marcelo, que já escrevia suas letras de revolta há um tempo.
 
 De qualquer forma, o melhor no filme continua sendo a amizade desses dois. Não há tensão suficiente para construir outra narrativa mais poderosa enquanto os dois conseguem criar uma dinâmica que mantém, sob o som de suas obras, um ótimo panorama do que era viver de maneira crítica na primeira década de reabertura do país.
 

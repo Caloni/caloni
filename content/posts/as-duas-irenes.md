@@ -5,14 +5,13 @@ date: '2018-08-21'
 link: https://www.imdb.com/title/tt6289724
 tags:
 - cinemaqui
-- draft
 - movies
 title: As Duas Irenes
 ---
 
 Poucos filmes me deixam sem palavras por causa das camadas emocionais em que ele coloca o espectador (e que depois fica difícil de sair uma a uma). As Duas Irenes é um desses filmes, mas longe do motivo ser apenas a história ou as atuações. É toda a produção. Isso pode ser minha memória afetiva que foi aguçada com tantas referências a uma época que não existe mais. E se for, garanto que vai sentir o mesmo se prestar atenção.
 
-A direção de arte e a fotografia nos transporta para uma sensação. As cores claras e o sol a pique, com a estrada sempre cheia de luz do sol, as paredes das casas sempre secas e o vento nas folhas e nos cabelos sempre bem-vindo demonstram que esta é uma época quente, onde todos precisam se refrescar de vez em quando. A empregada geralmente está do lado de fora da casa ou próxima da janela da cozinha. E olha que interessante: a segunda mãe, da outra casa, onde não tem empregada, também fica com janelas abertas em uma casa bem arejada. Quero dizer, até o cinema da cidadezinha parece querer respirar com suas poltronas de um amarelo claro surrado.
+A direção de arte e a fotografia nos transportam para uma sensação. As cores claras e o sol a pique, com a estrada sempre cheia de luz do sol, as paredes das casas sempre secas e o vento nas folhas e nos cabelos sempre bem-vindo demonstram que esta é uma época quente, onde todos precisam se refrescar de vez em quando. A empregada geralmente está do lado de fora da casa ou próxima da janela da cozinha. E olha que interessante: a segunda mãe, da outra casa, onde não tem empregada, também fica com janelas abertas em uma casa bem arejada. Quero dizer, até o cinema da cidadezinha quer respirar com suas poltronas de um amarelo claro surrado.
 
 E tudo isso nos faz lembrar do figurino, com roupas igualmente claras, e leves, e muito poucas. Apenas o necessário, mesmo para a família abastada. Os protetores de mosquito das camas dessa família também nos lembra do calor e seus insetos irritantes. Há uma cena próximo do rio onde ficam as duas Irenes e os outros jovens, próximo do pôr-do-sol, onde pode-se ver um enxame de insetos sobrevoando uma luminária já acesa.
 
@@ -26,7 +25,7 @@ Esta também é uma história social, pautada nos nomes. Quando ela se insere na
 
 O diretor Fabio Meira exibe uma sensibilidade neste filme a cada cena; é nos objetos, no chão, nas paredes, nas roupas, nas posturas de seus personagens. E nos enquadramentos: sua câmera mal se mexe porque ele já escolhe a posição perfeita no começo da cena. Às vezes até a altura perfeita para o que vai acontecer. A tela é mais larga, cinemascope, porque ele está cheio de ideias de como completar o quadro. Em um momento icônico, vemos o pai recém-chegado estirado no sofá, e uma pequena Irene pronta a questioná-lo. Não vemos sua cara. Ela está de pé e o plano no momento não a contém. Mas sabemos que ela o está observando, medindo... daí ela se senta na poltrona da frente, do outro lado da tela, quando a vemos. Uma escolha perfeita que mantém a câmera inerte e os personagens mudam de lugar para preencher o significado.
 
-Meira também abusa um pouco do espelho e sua simbologia da vida aqui e lá, representando as duas famílias. O filme flerta com o clichê ao mostrar o reflexo duplo da pequena Irene no espelho do quarto, mas o resultado parece necessário, pois no fundo ele está nos dizendo: a pequena Irene está em busca do seu lugar; ela não aceita mais ser a segunda opção. Agora deverá se contentar em ser a segunda Irene? Nem pensar!
+Meira também abusa um pouco do espelho e sua simbologia da vida aqui e lá, representando as duas famílias. O filme flerta com o clichê ao mostrar o reflexo duplo da pequena Irene no espelho do quarto, mas o resultado é necessário, pois no fundo ele está nos dizendo: a pequena Irene está em busca do seu lugar; ela não aceita mais ser a segunda opção. Agora deverá se contentar em ser a segunda Irene? Nem pensar!
 
 E por falar em pensar, este filme tem um ritmo lento que vai te deixar pensando em muitas coisas. Aqui vai minha sugestão: pense. Deixe os devaneios fluírem. Será que o pai da grande Irene mimou demais a menina, não apenas por ser filha única da segunda família, mas talvez por não prover tantos recursos quanto para a primeira família? E a segunda Irene, por que ela parece tão deslocada do resto da família burguesa? E sua mãe, ela sabe? E se sabe, seus comentários tornam-se os mais divertidos, pois ela possui uma camada extra de proteção contra conversas em família. Há muitas coisas a pensar, esses são apenas exemplos.
 

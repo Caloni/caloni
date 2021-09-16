@@ -5,12 +5,11 @@ date: '2018-10-07'
 link: https://www.imdb.com/title/tt7862998
 tags:
 - cinemaqui
-- draft
 - movies
 title: Djon Africa
 ---
 
-Djon Africa oferece ao espectador médio em sua camada principal, a "historinha", a aventura de Djon em busca de suas origens, em busca do pai. Mas apesar da atuação curiosamente familiar de Bitori Nha Bibinha em uma busca eterna não é isso o que torna o filme fascinante; é o que vem depois.
+Djon Africa oferece ao espectador médio em sua camada principal a "historinha": a aventura de Djon em busca de suas origens, em busca do pai. Mas apesar da atuação curiosamente familiar de Bitori Nha Bibinha em uma busca eterna não é isso o que torna o filme fascinante; é o que vem depois.
 
 Ambientado em Portugal e em sua maior parte em Cabo Verde, o roteiro de Filipa Reis e João Miller Guerra conta a história de Miguel "Tibars" Moreira, ou "Djon Africa" (e mais uns dois nomes que ele usa no Facebook). Ele nasceu em Cabo Verde mas logo imigrou para Portugal, passando toda sua vida por lá, vivendo com sua vó fazendo bicos e pequenos furtos em lojas de shopping com sua amiga. Até que encontra uma mulher na rua que jura ter visto o pai dele em Cabo Verde. E é aí que surge a busca de Djon por esta colônia portuguesa.
 

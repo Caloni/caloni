@@ -4,12 +4,11 @@ categories:
 date: '2018-10-07'
 link: https://www.imdb.com/title/tt0993846
 tags:
-- draft
 - movies
 title: O Lobo de Wall Street
 ---
 
-Assistir um filme do Scorsese, mesmo que acabou de estrear, é ser convidado para os anos 70. O que eu quero dizer com isso é que sexo, drogas, violência e moral serão mostradas sem aquele filtro horrível que infantiliza a nossa época. Curiosamente, se há uma característica que os "heróis" de O Lobo de Wall Street carregam em comum é a imaturidade. Porém, uma maturidade animalesca, que faz jus ao personagem-título.
+Assistir um filme do Scorsese, mesmo que acabou de estrear, é ser convidado para os anos 70. O que eu quero dizer com isso é que sexo, drogas, violência e moral serão mostradas sem aquele filtro horrível que infantiliza a nossa época. Curiosamente, se há uma característica que os "heróis" de O Lobo de Wall Street carregam em comum é a imaturidade. Uma imaturidade animalesca, que faz jus ao personagem-título.
 
 E quanto a isso, os personagens de Jonah Hill (O Homem que Mudou o Jogo) e Leonardo DiCaprio (Ilha do Medo) dão uma aula de interpretação longa e memorável, onde frases particularmente cruéis serão proferidas sem o menor sinal de sarcasmo. Olhamos com curiosidade, espanto e muita, muita admiração para a história de apogeu e declínio de um dos mais audaciosos golpistas de Wall Street. Baseado na autobiografia de Jordan Belfort, o filme é quase uma recapitulação do filme "Wall Street", com Michel Douglas, para os tempos pós-nossa crise. Porém, diferente do drama cheio de culpa católica dessa vez a história segue aquela relativização deliciosa da moral, tornando a mensagem do filme ambígua, mas igualmente visível.
 

@@ -5,12 +5,11 @@ date: '2018-08-26'
 link: https://www.imdb.com/title/tt5531346
 tags:
 - cinemaqui
-- draft
 - movies
 title: Animal Político
 ---
 
-Animal Político é uma fábula que se parece muito densa para o espectador médio, mas que ao mesmo tempo tenta manter suas sensações, analogias e símbolos mais próximos possível do cidadão comum. Isso porque é um filme que fala, como o título já denuncia, sobre nós como animais políticos. Esse conceito vem de milhares de anos atrás, de um filósofo grego chamado Aristóteles e de um livro chamado Política. Bom, já deu pra perceber que a história vem de longe; e essa discussão está longe de acabar.
+Animal Político é uma fábula que soa muito densa para o espectador médio, mas que ao mesmo tempo tenta manter suas sensações, analogias e símbolos mais próximos possível do cidadão comum. Isso porque é um filme que fala, como o título já denuncia, sobre nós como animais políticos. Esse conceito vem de milhares de anos atrás, de um filósofo grego chamado Aristóteles e de um livro chamado Política. Bom, já deu pra perceber que a história vem de longe; e essa discussão está longe de acabar.
 
 O que o diretor/roteirista Tião faz em sua estreia em longas é abrir mais uma possibilidade de explicação sobre o que o já finado Aristóteles dizia e como isso se encaixa em nossa própria "Pólis", que do grego é sinônimo não apenas de cidade, como a vida social, as regras e os costumes onde estamos inseridos. A nossa pólis é a cidade grande, os costumes de família (religião), de amigos (a vida boa), de ir fazer compras no shopping (capitalismo). Da vida social como a conhecemos.
 
