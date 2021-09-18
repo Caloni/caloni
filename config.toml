@@ -37,6 +37,7 @@ theme = "blog"
     name = "Cinemaqui"
     searchLink = "http://www.cinemaqui.com.br/?s="
     summaryOnly = true
+    expire = -12
 
 [params.external.ccppbr]
     tag = "ccppbr"

@@ -2,9 +2,11 @@
 <html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
 
   {{ $summary := false }}
+  {{ $expire := (int -60) }}
   {{ range .Site.Params.external }}
       {{ if in $.Params.tags .tag }}
         {{ $summary = .summaryOnly }}
+        {{ $expire = (int .expire) }}
       {{ end }}
   {{ end }}
 
@@ -21,8 +23,14 @@
         
           <div class="content">
 
+
             {{ if $summary }}
-              {{ .Summary }}
+              {{ $expirationDate := now.AddDate 0 $expire 0 }}
+              {{ if gt .Date $expirationDate }}
+                {{ .Summary }}
+              {{ else }}
+                {{ .Content }}
+              {{ end }}
             {{ else }}
               {{ .Content }}
             {{ end }}
