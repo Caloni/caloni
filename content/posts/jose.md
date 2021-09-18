@@ -5,7 +5,6 @@ date: '2018-10-15'
 link: https://www.imdb.com/title/tt6933338
 tags:
 - cinemaqui
-- draft
 - movies
 title: José
 ---
@@ -18,7 +17,7 @@ De origem humilde, José trabalha e ajuda sua mãe onde pode. Sua rotina é conh
 
 Nos momentos de lazer José (Enrique Salanic) se encontra com seu namorado, Luis (Manolo Herrera), também um trabalhador honesto, da construção civil. Ambos se dão bem e não há praticamente nada de errado nesta vida. Exceto a questão religiosa que permeia a sociedade da Guatemala como uma lei absoluta, e que portanto se torna um peso para a religiosa mãe de José (Ana Cecilia Mota), que pede a Deus que perdoe seu filho (o texto não diz, mas o subtexto não pode ser mais claro: perdoá-lo por ser gay).
 
-A caracterização de uma vida cotidiana simples e realista é vital para entendermos como esse único detalhe na vida do protagonista que aos olhos da sociedade o torna um monstro pior que um rapaz que engravida uma moça e foge de suas responsabilidades. Acertando mais uma vez, o filme nos mostra que onde quer que a rotina de José passe lá estão pessoas pregando a Palavra, no ônibus, nas ruas, na imaginação popular.
+A caracterização de uma vida cotidiana simples e realista é vital para entendermos como esse único detalhe na vida do protagonista o torna um monstro aos olhos da sociedade, pior do que um rapaz que engravida uma moça e foge de suas responsabilidades. Acertando mais uma vez, o filme nos mostra que onde quer que a rotina de José passe lá estão pessoas pregando a Palavra, no ônibus, nas ruas, na imaginação popular.
 
 O diretor chinês Li Cheng se mudou para os EUA em 1999, mas desde 2016 tem vivido como nômade, observando as sociedades em torno do globo. Nos últimos dois anos viveu na Guatemala e é dessa vivência que ele nos entrega sua segunda narrativa do homem comum, uma ficção praticamente documental em seu peso, mas com um estilo peculiar.
 

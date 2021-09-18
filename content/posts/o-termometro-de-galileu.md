@@ -5,7 +5,6 @@ date: '2018-10-16'
 link: https://www.imdb.com/title/tt7871664
 tags:
 - cinemaqui
-- draft
 - movies
 title: O Termômetro de Galileu
 ---

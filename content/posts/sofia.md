@@ -5,7 +5,6 @@ date: '2018-10-18'
 link: https://www.imdb.com/title/tt8296592
 tags:
 - cinemaqui
-- draft
 - movies
 title: Sofia
 ---
@@ -18,7 +17,7 @@ E, acredite, no final você irá pensar se existe de fato alguma vítima, ou tud
 
 O filme segue um tom intimista no seu começo, apresentando uma família durante o almoço que acaba revelando duas coisas: este também é um almoço de negócios (uma oportunidade para essa família humilde melhorar de vida) e que a jovem Sofia estourou sua bolsa ao acabar de descobrir que está grávida (um empecilho, como qualquer um que conhece as culturas do Oriente Médio sabe muito bem).
 
-Esse roteiro já seria ótimo como uma peça de teatro, mas sendo cinema nada substitui a câmera na mão, os zooms exagerados nos rostos dos personagens e a captura do momento exato daquela expressão do personagem que fala por mil palavras. E considerando o fundo de pano étnico e a falta de atores competentes com essa etnia nada como refazer a mesma cena mil vezes para acertar o tom. Mais um ponto a favor do cinema e da diretora Meryem Benm'Barek-Aloïsi em seu segundo longa e exibindo um controle invejável de mise-en-scene.
+Esse roteiro já seria ótimo como uma peça de teatro, mas sendo cinema nada substitui a câmera na mão, os zooms exagerados nos rostos dos personagens e a captura do momento exato daquela expressão do personagem que fala por mil palavras. E considerando o fundo de pano social e a escassez de atores competentes com a etnia "correta", nada como refazer a mesma cena mil vezes para acertar o tom. Mais um ponto a favor do cinema e da diretora Meryem Benm'Barek-Aloïsi em seu segundo longa e exibindo um controle invejável de mise-en-scene.
 
 É Meryem também que nos coloca em tensão constante ao nunca nos revelar detalhes que serviriam para nos acalmar, como o estado emocional do pai e da mãe. Vemos tudo sob os olhos da prima, a mais bem-intencionada da família e que portanto levará o maior tombo no final.
 

@@ -5,7 +5,6 @@ date: '2018-10-18'
 link: https://www.imdb.com/title/tt5069072
 tags:
 - cinemaqui
-- draft
 - movies
 title: Tragam a Maconha
 ---
@@ -16,7 +15,7 @@ Isso porque estamos falando de um assunto sério: a liberação da maconha. Uma 
 
 Porém, uma vez que ela é aprovada, alguém precisa plantar. E como se trata de uma questão de Segurança Nacional (em letras maiúsculas) apenas o exército deve possuir licença para tal. Ou, como é explicado no filme, os militares estão entediados em um país pacífico e seria uma boa terem algo pra fazer. É esse o nível cômico da história, que se mistura facilmente com a vida real.
 
-Os heróis do filme, além de Pepe, são uma dona de farmácia e seu filho, que partem para os EUA em uma missão que coincide com o encontro entre o presidente uruguaio e Barack Obama. A missão extra-oficial dos dois é contrabandear maconha americana para iniciar os negócios em terra uruguaia enquanto a nacional não cresce. O filme ganha assim um ar internacional, com várias partes sendo falado em inglês, inclusive, e feito para todos darem risada de maneira mais universal.
+Os heróis do filme, além de Pepe, são uma dona de farmácia e seu filho, que partem para os EUA em uma missão que coincide com o encontro entre o presidente uruguaio e Barack Obama. A missão extra-oficial dos dois é contrabandear maconha americana para iniciar os negócios em terra uruguaia enquanto a nacional não cresce. O filme ganha assim um ar internacional, com várias partes faladas em inglês, inclusive, e feito para todos darem risada de maneira mais universal.
 
 Este, porém, não é um mockumentary muito bom. Ele deixa nas entrelinhas se está falando sério, mas seu tom é exagerado demais para sequer pensarmos nisso. A não ser que você acredite que o Uruguai é o sítio de Mujica que virou um país para ficar mais fácil de plantar maconha e protegê-la com o exército, o filme corre o risco de nos fazer esquecer de sua parte crítica: a legalização da maconha não é um bicho de sete cabeças como as pessoas costumam pensar.
 

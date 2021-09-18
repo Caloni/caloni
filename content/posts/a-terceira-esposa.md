@@ -5,12 +5,11 @@ date: '2018-10-22'
 link: https://www.imdb.com/title/tt7692966
 tags:
 - cinemaqui
-- draft
 - movies
 title: A Terceira Esposa
 ---
 
-A Terceira Esposa é um épico vietnamita que se passa há muito tempo, no século 14, e que portanto está entregue às regras sociais da época. No entanto, a diretora vietnamita Ash Mayfair quer nos mostrar uma crítica social contemporânea e se confunde todo com as linhas de história de todas suas personagens. Não dá pra saber muito o que ele quer dizer com tudo isso, mas dá pra entender que ele falhou graciosamente.
+A Terceira Esposa é um épico vietnamita que se passa há muito tempo, no século 14, e que portanto está entregue às regras sociais da época. No entanto, a diretora vietnamita Ash Mayfair quer nos mostrar uma crítica social contemporânea e se confunde toda com as linhas de história de todas suas personagens. Não dá pra saber muito o que ela quer dizer com tudo isso, mas dá pra entender que falhou graciosamente.
 
 Iniciando com a vinda da terceira esposa do título, uma garota de 14 anos, e a concretização de seu casamento com seu mestre (já dá pra imaginar qual é), o filme repete uma lenda (na legenda diz fatos reais) sobre uma família só de mulheres e que precisa urgente de um primogênito para que ela se considere bem-sucedida. Duas esposas engravidam e uma das filhas, a menorzinha, possui uma ambição muito maior que seu tamanho: se tornar homem quando crescer (bonitinha e pertinente).
 

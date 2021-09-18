@@ -5,7 +5,6 @@ date: '2018-10-23'
 link: https://www.imdb.com/title/tt6892206
 tags:
 - cinemaqui
-- draft
 - movies
 title: O Segredo de Nápoles
 ---
@@ -20,4 +19,4 @@ O tempo avança e acompanhamos a cena de sexo mais completa do filme. A bambina 
 
 Nápoles vira uma personagem onde os mistérios ocorrem, em seus corredores, ruas, museus e igrejas. Nas casas seculares, como onde ocorreu o primeiro crime. Nos jardins. A câmera do diretor Ferzan Ozpetek que começou girando pela escadaria segue em movimento leve sugerindo o aspecto de sonho. As transições de cena são suaves e a trilha sonora acalma em vez de gerar tensão. Mais uma vez: há morte, mas não é um thriller de suspense.
 
-O uso da câmera também funciona na subjetividade. Vira e mexe ela está atrás de seus personagens. E ela está certa para esse filme: seus personagens importam mais que os fatos. Os fatos, esses escravos de nossa percepção, às vezes veem à tona, às vezes não. O que aconteceu com alguém que não existe mais existe de fato? Assista sem pressa.
+O uso da câmera também funciona na subjetividade. Vira e mexe ela está atrás de seus personagens. E ela está certa para esse filme: seus personagens importam mais que os fatos. Os fatos, esses escravos de nossa percepção, às vezes veem à tona, às vezes não. O que aconteceu com alguém que não existe mais? Assista sem pressa.
