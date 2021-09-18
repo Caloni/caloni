@@ -27,7 +27,7 @@
             {{ if $summary }}
               {{ $expirationDate := now.AddDate 0 $expire 0 }}
               {{ if gt .Date $expirationDate }}
-                {{ .Summary }}
+                <p>{{ .Summary }}</p>
               {{ else }}
                 {{ .Content }}
               {{ end }}
