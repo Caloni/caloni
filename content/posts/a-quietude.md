@@ -5,12 +5,11 @@ date: '2018-10-27'
 link: https://www.imdb.com/title/tt7658384
 tags:
 - cinemaqui
-- draft
 - movies
 title: A Quietude
 ---
 
-O novo filme de Pablo Trapero, A Quietude, é drama cheio de controvérsias em seu núcleo familiar. Pra começar, há uma cena entre duas irmãs na cama que começa inocente e que passa para um momento, digamos, mais intenso. Sim, é um filme forte. Mas a sua força narrativa reside justamente na sutileza de seus detalhes. É um jogo de contrapontos que alia família, política e histórica em um pacote só.
+O novo filme de Pablo Trapero, A Quietude, é drama cheio de controvérsias em seu núcleo familiar. Pra começar, há uma cena entre duas irmãs na cama que começa inocente e que passa para um momento, digamos, mais intenso. Sim, é um filme forte. Mas a sua força narrativa reside justamente na sutileza de seus detalhes. É um jogo de contrapontos que alia família, política e história em um pacote só.
 
 Para isso ele conta com uma história inicial simples que vai se desdobrando aos poucos. Vemos a irmã mais velha, Eugenia (Bérénice Bejo), acompanhar o pai em um testemunho processual. O pai passa mal e fica em estado de coma por tempo indefinido. O tempo passa e a irmã mais nova chega de viagem e logo em seguida chega seu marido. A matriarca da família mantém um tratamento obviamente diferente com as duas filhas. Assim como o marido/cunhado. Está armada a trama que através de pequenas reviravoltas não precisa de muito diálogos para que o espectador aos poucos vá entendendo qual a real dinâmica dessa família.
 
