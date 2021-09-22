@@ -5,7 +5,6 @@ date: '2018-11-05'
 link: https://www.imdb.com/title/tt7839456
 tags:
 - cinemaqui
-- draft
 - movies
 title: A Prece
 ---
@@ -14,7 +13,7 @@ Você é religioso? Costuma rezar para Deus? E qual a resposta? Tem certeza? Poi
 
 Acompanhamos a chegada do abalado Thomas após uma overdose de heroína, e que não tem esse nome à toa. Referência direta a Tomás de Aquino, este é um filme tomista na melhor de suas intenções, pois evita a todo custo a conversão do garoto por revelação, se concentrando todo o tempo no poder da razão para que ele ultrapasse suas adversidades. Mas claro que há rezas, rituais, e regras rígidas para que a disciplina adentre em sua mente para daí seu corpo continuar são (e salvo).
 
-Este não é daqueles filmes que tentam converter o espectador, pois não se trata de propaganda barata, mas uma viagem intimista em busca do que nos torna capazes de suportar as sempre existentes adversidades da vida. Desde suas convulsões iniciais causadas por abstinência da droga até Thomas ser capaz de raciocinar sobre seus próprios passos, "A Prece" nos apresenta esse grupo de recuperação que fica próximo de uma pequena vila ao pé de uma montanha belíssima de neve. A natureza no filme se apresente sempre como iluminada, embora aqui e ali tenha seus momentos nebulosos.
+Este não é daqueles filmes que tentam converter o espectador, pois não se trata de propaganda barata, mas uma viagem intimista em busca do que nos torna capazes de suportar as sempre existentes adversidades da vida. Desde suas convulsões iniciais causadas por abstinência da droga até Thomas ser capaz de raciocinar sobre seus próprios passos, "A Prece" nos apresenta esse grupo de recuperação que fica próximo de uma pequena vila ao pé de uma montanha belíssima de neve. A natureza no filme se apresenta sempre como iluminada, embora aqui e ali tenha seus momentos nebulosos.
 
 E, olhem que interessante, enquanto Thomas não aceita sua verdadeira natureza ele é na maioria das vezes visto nas sombras e no escuro, dentro do acampamento de jovens. Apenas com sua evolução gradual é que vamos o observando em uma rotina cada vez mais banhada pela luz do sol. Ao mesmo tempo a interpretação de Anthony Bajon é instrumental para o drama, pois nós só conseguimos entender Thomas através de suas expressões; nunca pelos diálogos. E mesmo quando mais pra frente o tímido rapaz está apto a tentar dialogar as palavras nos dizem menos que seus movimentos de cabeça, seus ombros recuados e seus olhares furtivos.
 

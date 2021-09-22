@@ -5,7 +5,6 @@ date: '2018-11-01'
 link: https://www.imdb.com/title/tt7519174
 tags:
 - cinemaqui
-- draft
 - movies
 title: Sobre Pais E Filhos
 ---
@@ -16,6 +15,6 @@ A história é simples: o próprio diretor, Talal Derki, volta ao seu país nata
 
 O resultado são declarações extremamente polêmicas de seu anfitrião e pais das duas crianças, como por que ele escolheu o nome de seus filhos (um deles tem o nome do terrorista que derrubou as torres gêmeas). Ele vive de buscar minas enterradas onde vivem para coletar o material com que ela é feita e conseguir dinheiro. O grupo ao qual ele pertence está alinhado com a Al Qaeda, e você ouvirá os motivos pelo qual ele defende a posição radical onde está inserido.
 
-E ao mesmo tempo que os diálogos revelam exatamente os valores desse grupo de muçulmanos, não exatamente a exceção, você também irá acompanhar a ação do dia-a-dia, como a educação que seus filhos recebem, como jogar pedras nos alunos de uma escola ou brincar de fazer uma bomba caseira com terra e ácido. O treinamento de jihadistas é a parte mais pesada para as crianças, mas até lá você irá entender que essas crianças já estão inseridas nessa realidade desde a raiz, então não há de fato muito o que se pode fazer. É um outro mundo, e a grande virtude de Derki é nos entregar este mundo por completo, sem restrições, sem vitimismo.
+E ao mesmo tempo que os diálogos revelam exatamente os valores desse grupo de muçulmanos, não exatamente a exceção, você também irá acompanhar a ação do dia-a-dia, como a educação que seus filhos recebem, como jogar pedras nos alunos de uma escola ou brincar de fazer uma bomba caseira com terra e ácido. O treinamento de jihadistas é a parte mais pesada para as crianças, mas até lá você irá entender que elas já estão inseridas nessa realidade desde a raiz, então não há de fato muito o que se pode fazer. É um outro mundo, e a grande virtude de Derki é nos entregar este mundo por completo, sem restrições, sem vitimismo.
 
 O objetivo mais nobre de um documentário é conseguir documentar um ponto de vista em um momento histórico em todas as suas nuances. "Sobre Pais e Filhos" é um desses filmes, cria de "Nanook of the North" (um dos primeiros documentários que fez isso no Cinema) e que consegue nos mostrar o começo e o fim de um sistema cruel, radical e violento. Mas autêntico. Real. Indissociável de sua própria narrativa. Há tantos momentos dignos de nota que ficarei listando o filme inteiro aqui. Então assista ele, do começo ao fim, e viva uma imersão que apenas documentários podem nos trazer.

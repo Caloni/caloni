@@ -5,7 +5,6 @@ date: '2018-11-13'
 link: https://www.imdb.com/title/tt5230380
 tags:
 - cinemaqui
-- draft
 - movies
 title: O Segredo De Davi
 ---
@@ -14,7 +13,7 @@ O Segredo de Davi é sobre um estudante de Cinema e sobre Cinema. Um dos poucos 
 
 Se trata da história de Davi (Nicolas Prattes), um garoto tímido que estuda artes visuais e que vive sozinho no centro de São Paulo. Atraído inicialmente em observar as pessoas, filmando-as no processo, Davi é um misto entre narrador em off e protagonista subjetivo. Aos poucos vamos percebendo que quem está contando a história é ele, sob seu ponto de vista. E seu ponto de vista é distorcido, surreal, onírico. Cinematográfico e sobrenatural ao mesmo tempo, e o resultado em pouco tempo é um certo desconforto de nós observá-lo.
 
-Isso porque Davi começa a agir em relação ao que observa, e sem querer revelar muita coisa, o que vemos não é bonito. Porém, continuamos vendo, pois o fascínio que ele tem inicialmente em observar é passado para o espectador, que precisa continuar imaginando por que Davi está fazendo tudo isso. Os motivos vão sendo revelado aos poucos, com um certo clima de desorientação. Já não sabemos o quão claro Davi está sendo conosco, mas sabemos que ele está ciente das consequências. Mas o tímido garoto não consegue evitar. Vai surgindo uma força, bem aos poucos. No começo é bem conveniente, mas depois, quando ele flerta com uma garota, ele ganha nossa cumplicidade ao mesmo tempo que torcemos para que ele mude seus objetivos. Ele não muda, e o clima vai ficando cada vez mais pesado.
+Isso porque Davi começa a agir em relação ao que observa, e sem querer revelar muita coisa, o que vemos não é bonito. Porém, continuamos vendo, pois o fascínio que ele tem inicialmente em observar é passado para o espectador, que precisa continuar imaginando por que Davi está fazendo tudo isso. Os motivos vão sendo revelados aos poucos, com um certo clima de desorientação. Já não sabemos o quão claro Davi está sendo conosco, mas sabemos que ele está ciente das consequências. Mas o tímido garoto não consegue evitar. Vai surgindo uma força, bem aos poucos. No começo é bem conveniente, mas depois, quando ele flerta com uma garota, ele ganha nossa cumplicidade ao mesmo tempo que torcemos para que ele mude seus objetivos. Ele não muda, e o clima vai ficando cada vez mais pesado.
 
 A atuação de Nicolas Prattes é um ponto fora da curva. Cercado de personagens convencionais, ele se destaca não apenas pela competente transformação de Prattes, mas também pelo uso combinado de câmera e cores. Note como o esguio Davi começa se vestindo com sua roupa toda branca e a cabeça cabisbaixa, e repare como a sua feição não muda tanto assim, mas suas roupas ficam escuras e seus movimentos mais agitados, apressados e até certo ponto descontrolados.
 

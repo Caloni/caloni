@@ -5,7 +5,6 @@ date: '2018-11-07'
 link: https://www.imdb.com/title/tt5779372
 tags:
 - cinemaqui
-- draft
 - movies
 title: Entrevista Com Deus
 ---
@@ -18,7 +17,7 @@ Paul vive uma crise de fé (claro) após cobrir de perto a guerra no Afeganistã
 
 Três desses lugares são pontos de encontro com Deus, que atendeu a suas preces e lhe condeceu uma entrevista. Simples assim. Resta ao espectador ir desenvolvendo a sua própria lógica para entender como isso se passa na cabeça de Paul. Será que ele pensa estar delirando, mas não liga? Será que ele está aproveitando esse senhor que se faz passar por Deus para desenvolver seu artigo? Ou será, Deus me livre, que há uma ponta de fé que o diz que aquela pessoa comum sentada ao lado dele pode realmente ser o criador dos céus e da Terra?
 
-Difícil saber. O filme todo não tem um pingo de emoção. O maior exemplo disso é ver seu chefe e amigo, interpretado por Hill Harper como alguém que ouve o amigo como se estivesse em um briefing. A experiência toda é como se fosse uma parábola filmada mais com foco na mensagem divina do que o que os personagens vivem. Poderia ser uma peça de teatro, não fossem os momentos que vemos Paul andando em sua bike, um respiro necessário ao filme. E são muitos momentos em que ele anda com ela, pois aparentemente o diretor Perry Lang precisa encher linguiça para que essa história caiba em um longa metragem. Vemos Paul tirar sua bicicleta da parede, pegar seu capacete, descer as escadas, andar pelas ciclovias, travar sua bicicleta e colocar sua mochila. Várias e várias vezes. O que significa? Eu não sei. Talvez seja uma forma divina de nos deixar menos ansiosos pelas respostas que Paul tenta arrancar de Sua Divindade.
+Difícil saber. O filme todo não tem um pingo de emoção. O maior exemplo disso é ver seu chefe e amigo, interpretado por Hill Harper como alguém que ouve o amigo como se estivesse em um briefing. A experiência toda é como se fosse uma parábola filmada mais com foco na mensagem divina do que no que os personagens vivem. Poderia ser uma peça de teatro, não fossem os momentos que vemos Paul andando em sua bike, um respiro necessário ao filme. E são muitos momentos em que ele anda com ela, pois aparentemente o diretor Perry Lang precisa encher linguiça para que essa história caiba em um longa metragem. Vemos Paul tirar sua bicicleta da parede, pegar seu capacete, descer as escadas, andar pelas ciclovias, travar sua bicicleta e colocar sua mochila. Várias e várias vezes. O que significa? Eu não sei. Talvez seja uma forma divina de nos deixar menos ansiosos pelas respostas que Paul tenta arrancar de Sua Divindade.
 
 Mas seu esforço é inútil. Deus não está para papo. Ele gosta de retórica e está profundamente preocupado com Paul. Esse é o clássico formato em que uma pessoa pede ajuda a Deus e é atendida, mas realizada de maneira tão jogada que fica difícil compreender o que está acontecendo. O foco, como eu disse, é na mensagem.
 

@@ -4,7 +4,6 @@ categories:
 date: '2018-11-09'
 link: https://www.imdb.com/title/tt4003440
 tags:
-- draft
 - movies
 title: A Casa Que Jack Construiu
 ---

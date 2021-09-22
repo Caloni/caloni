@@ -4,7 +4,6 @@ categories:
 date: '2018-11-09'
 link: https://www.imdb.com/title/tt7472352
 tags:
-- draft
 - movies
 title: 'Shirkers: O Filme Roubado'
 ---
@@ -23,6 +22,6 @@ Isso gera um problema para sua idealizadora, Sandi Tan. Ela era uma sonhadora e 
 
 Sandi Tan é uma egocêntrica, e seu filme reflete isso. Suas amigas falam em sua cara que ela era uma idiota. Talvez ainda seja. Porém, ninguém no filme tem mais potencial para ser chamado de idiota do que Georges Cardona, o diretor do filme que nunca existiu.
 
-Georges é a pessoa problemática que começa todo esse drama. Ele deveria até ser o tema do filme se Sandi não fosse tão egocêntrica a ponto de tornar o assunto o tema de sua vida. Georges tem sérios problemas em sua vida. De origem desconhecida, mas provavelmente latina, ele inspira jovens cineastas e logo depois ele frustra seus planos. Os rolos do Shirkers original ficaram com ele após as filmagens.
+Georges é a pessoa problemática que começa todo esse drama. Ele deveria até ser o tema do filme se Sandi não fosse tão egocêntrica ao ponto de tornar o assunto o tema de sua vida, pois Georges tem sérios problemas de personalidade. De origem desconhecida, mas provavelmente latina, ele inspira jovens cineastas e logo depois ele frustra seus planos. Os rolos do Shirkers original ficaram com ele após as filmagens.
 
 E esse Shirkers se torna um trabalho de reconstrução dos fatos no mínimo interessante. Seu formato segue a lógica de artistas plásticos. Isso porque Sandi Tan e suas amigas eram pessoas vibrantes na época. Tan diz que não consegue parar de ter ideias. E "Shirkers: O Filme Roubado" é sobre como você pode roubar essas ideias e destruir a potencial carreira criativa de um artista. É triste, mas é filmado em um clima de resolução. Espero ver novas obras de Sandi Tan no futuro.
