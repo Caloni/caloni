@@ -1,4 +1,3 @@
 cmake_minimum_required(VERSION 3.16)
-project (samples)
-add_executable(bebidas bebidas.c)
-target_compile_options(bebidas PRIVATE /MT)
+project (threads)
+add_executable(threads threads.cpp)
