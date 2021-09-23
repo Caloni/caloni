@@ -4,7 +4,6 @@ categories:
 date: '2019-01-03'
 link: https://www.imdb.com/title/tt6288124
 tags:
-- draft
 - movies
 title: A Pé Ele Não Vai Longe
 ---
@@ -23,4 +22,4 @@ Phoenix é um John Callahan em uma versão mista de idades. A versão real entro
 
 A direção de Gus Van Sant (Milk, Inquietos, Psicose de 98) parece procurar um estilo onde não há. A edição, também de Van Sant, é muito mais prolífica, conseguindo ritmar as idas e vindas no tempo e torná-las uma só. O filme não quer mostrar a diferença das épocas, mas entender o processo da cura do alcoolismo e sua nova profissão como um ser humano completo, onde não há causalidade simples que explique. O resultado é uma narrativa natural, onde as coisas acontecem porque... acontecem. Por mais trágica que seja a situação de alguém que perdeu os movimentos e tendo como cuidador um rapaz relapso, brilhantemente retratado por Van Sant como um Tony Greenhand indo e vindo rapidamente, quase invisível e ausente na casa (escura), este não é um drama pesado, mas um relato vívido de uma vida que foi simplesmente vivida, apesar dos percalços.
 
-A Pé Ele Não Vai Longe é a síntese de tudo o que a vida verdadeiramente é sem os filtros dramáticos do povo do politicamente correto que enxerga desgraça em qualquer traço da vida. Se você olhar para John Callahan fazendo piadas sobre sua própria situação e a de outros, e entender que o humor do absurdo é uma forma de nos expressarmos a respeito dessa locomotiva de emoções chamada vida, e que não faz sentido se lapidada em leis de causalidade, parabéns! Terá aproveitado essa breve e adorável viagem em cadeira de rodas, em uma velocidade acima do permitido.
+A Pé Ele Não Vai Longe é a síntese de tudo o que a vida verdadeiramente é sem os filtros dramáticos do povo do politicamente correto que enxerga desgraça em qualquer traço da vida. Se você olhar para John Callahan fazendo piadas sobre sua própria situação e a de outros, e entender que o humor do absurdo é uma forma de nos expressarmos a respeito dessa locomotiva de emoções chamada vida, e que não faz sentido serem lapidadas em leis de causalidade, parabéns! Terá aproveitado essa breve e adorável viagem em cadeira de rodas, em uma velocidade acima do permitido.

@@ -4,7 +4,6 @@ categories:
 date: '2018-12-07'
 link: https://www.imdb.com/title/tt0117008
 tags:
-- draft
 - movies
 title: Matilda
 ---
@@ -19,4 +18,4 @@ Este é um filme colorido, com magia, mas acima de tudo, com coração. Ele não
 
 Os efeitos estão passados, mas a direção de arte não. E a própria direção de Danny DeVito, que participa como o pai de Matilda e vendedor canastrão de carros usados, usa com perfeição os enquadramentos grandiosos dos cenários que são usados para ilustrar este livro infantil em forma de filme. Tudo funciona no universo de Matilda, exceto talvez a tensão, que é aliviada por muitas palmadas nas costas dos oprimidos.
 
-De qualquer forma, se você está com seu espírito um pouco desanimado, pensando talvez que não valha a pena o auto-crescimento, veja os olhos com novos olhos, os olhos mais mágicos que exitem em nossa humanidade: a visão de uma criança após abrir seu primeiro livro. E sua mente, que se expande e que nunca mais se contrai.
+De qualquer forma, se você está com seu espírito um pouco desanimado, pensando talvez que não valha a pena o auto-crescimento, se veja com novos olhos, os olhos mais mágicos que existem em nossa humanidade: os que têm a visão de uma criança após abrir seu primeiro livro. E sua mente, que se expande e que nunca mais se contrai.

@@ -5,12 +5,11 @@ date: '2018-12-13'
 link: https://www.imdb.com/title/tt5028340
 tags:
 - cinemaqui
-- draft
 - movies
 title: O Retorno De Mary Poppins
 ---
 
-A Disney vem realizando alguns esforços duvidosos em resgatar para live action (com atores de carne e osso) praticante todos seus clássicos de animação, um a um. Já em O Retorno de Mary Poppins o filme original já é "de verdade", e seu maior desafio é nos entregar mais uma vez essa união impossível entre o lúdico e o sóbrio. Bom, se tem algo que Walt Disney sempre nos ensinou é que para ele, e para a Senhorita Poppins, até o impossível é possível.
+A Disney vem realizando alguns esforços duvidosos em resgatar para live action (com atores de carne e osso) praticante todos seus clássicos de animação, um a um. Porém, em O Retorno de Mary Poppins o filme original já é "de verdade", e seu maior desafio é nos entregar mais uma vez essa união impossível entre o lúdico e o sóbrio. Bom, se tem algo que Walt Disney sempre nos ensinou é que para ele, e para a Senhorita Poppins, até o impossível é possível.
 
 Esse novo filme avança algumas décadas do primeiro, que se passada nos anos 10. As crianças cresceram e o casal de irmãos agora pode ser visto junto de mais três crianças em uma versão que mescla elegantemente um pai e uma tia em uma referência disneylesca clássica que colocava tios no lugar de pais porque muitas crianças se tornavam órfãs na época da guerra. Estamos nos anos 30, na Grande Depressão, e é a situação perfeita para uma hipoteca que vence e o risco de perder a casa da Rua das Cerejeiras para o próprio banco onde o Sr. Banks trabalhava. Uma trama tão óbvia que dispensa detalhes, embora os detalhes sejam colocados de forma elegante neste roteiro finalizado a seis mãos.
 
@@ -22,6 +21,6 @@ Como havia dito no meu blog, acredito que no primeiro filme a maior virtude cine
 
 E essa nova sequência, que começa de forma inusitada e divertida, é mais longa e mais aprimorada. Ela consegue tirar nosso fôlego em sua primeira e segunda partes, emplacando uma perseguição em sua terceira e última parte completamente descartável. Agora a computação permite que os atores "interajam" com objetos animados, mas é a mesma computação que torna, por exemplo, a sequência na água tão chinfrim, vazio de espírito, apesar de cheio de boas intenções. Inchado pelas novas possibilidades técnicas, a computação é primorosa na junção de cores e efeitos, mas muitas vezes durante "O Retorno" acharemos que o filme não tem nada a dizer; apenas cantar palavras ao vento.
 
-Mas isso não impede que não seja divertido. As sequências musicais passam voando. Parte disso é graças a coreografia que coloca os personagens muitas vezes deslizando e voando pelo palco. Em contrapartida, não há música à altura do tema de Mary Poppins ("uma colherada de açúcar"), e nem deveria. Ela é usada com muita sutileza como trilha sonora instrumental, e consegue manter o espírito no ar para os mais atentos.
+Mas isso não impede que não seja divertido. As sequências musicais passam voando. Parte disso é graças à coreografia que coloca os personagens muitas vezes deslizando e voando pelo palco. Em contrapartida, não há música à altura do tema de Mary Poppins ("uma colherada de açúcar"), e nem deveria. Ela é usada com muita sutileza como trilha sonora instrumental, e consegue manter o espírito no ar para os mais atentos.
 
 E apesar de não ser um filme sobre uma história, mas um estado de espírito, "O Retorno de Mary Poppins" tem a sua voz social e política. Enquanto a menina do original vira uma militante pelos trabalhadores o próprio núcleo da narrativa em torno das ações do banco do filme original pode ser visto como uma discussão honesta sobre onde estão nossos valores humanos quando se fala de dinheiro. E note que é quando o dinheiro vira algo impessoal, frio e cruel, que surge dos céus a postura humanista, mas nunca servil, de uma babá que precisa colocar os pingos nos i's. Seja bem-vinda novamente, Senhorita Poppins.

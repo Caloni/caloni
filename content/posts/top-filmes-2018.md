@@ -5,8 +5,8 @@ date: '2018-12-31'
 link: https://www.cinemaqui.com.br/melhores-filmes-de-2018
 tags:
 - cinemaqui
-- draft
 - lists
+- movies
 title: Top Filmes 2018
 ---
 

@@ -5,7 +5,6 @@ date: '2018-12-19'
 link: https://www.imdb.com/title/tt1987680
 tags:
 - cinemaqui
-- draft
 - movies
 title: Amigos Para Sempre
 ---
